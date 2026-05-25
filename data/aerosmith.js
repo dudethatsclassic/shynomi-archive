@@ -27,8 +27,8 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "The Record Plant - Rocks Sessions",
-      "notes": "",
+      "venue": "The Record Plant",
+      "notes": "Rocks",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -40,8 +40,8 @@ const ARTIST_DATA = {
       "city": "Philadelphia",
       "state": "PA",
       "location": "Philadelphia, PA",
-      "venue": "The Spectrum",
-      "notes": "ANA(M) \u00b7 luvsufo \u00b7 krw_co transfer",
+      "venue": "The Spectrum-  ANA",
+      "notes": "M · luvsufo · krw_co transfer",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -54,7 +54,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Bethlhem, PA",
       "venue": "Stabler Arena",
-      "notes": "ANA(M) \u00b7 luvsufo \u00b7 krw_co transfer",
+      "notes": "ANA(M) · luvsufo · krw_co transfer",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -67,7 +67,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Binghamton, NY",
       "venue": "Veterans Memorial",
-      "notes": "ANA(M) \u00b7 luvsufo \u00b7 krw_co transfer",
+      "notes": "ANA(M) · luvsufo · krw_co transfer",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -80,7 +80,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Maple Leaf Gardens",
-      "notes": "Sony WM-D3 \u00b7 bowlingron",
+      "notes": "Sony WM-D3 · bowlingron",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -93,7 +93,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "CNE Stadium, Toronto, ON",
-      "notes": "Sony METAL-SR 90 \u00b7 bowlingron",
+      "notes": "Sony METAL-SR 90 · bowlingron",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -119,7 +119,7 @@ const ARTIST_DATA = {
       "state": "Netherlands",
       "location": "Rotterdam, Netherlands",
       "venue": "Ahoy",
-      "notes": "ANA(1) \u00b7 r. huizinga \u00b7 mats666 transfer",
+      "notes": "ANA(1) · r. huizinga · mats666 transfer",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -132,7 +132,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Oldenburg, Germany",
       "venue": "Weser-Ems Halle",
-      "notes": "ANA(1) \u00b7 r. huizinga \u00b7 mats666 transfer",
+      "notes": "ANA(1) · r. huizinga · mats666 transfer",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -144,7 +144,7 @@ const ARTIST_DATA = {
       "city": "Rio de Janeiro",
       "state": "Brazil",
       "location": "Rio de Janeiro, Brazil",
-      "venue": "Prac?a da Apoteose *Struttin' My Stuff",
+      "venue": "Praça da Apoteose *Struttin' My Stuff",
       "notes": "KTS 292-293",
       "version": "Silver CD",
       "format": "FLAC"
@@ -158,7 +158,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Devore, CA",
       "venue": "Blockbuster Pavillion",
-      "notes": "Aiwa \u00b7 dennis fuller",
+      "notes": "Aiwa · dennis fuller",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -171,7 +171,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Brendan Byrne Arena",
-      "notes": "Realistic mic \u00b7 koondog",
+      "notes": "Realistic mic · koondog",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -197,7 +197,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Pond",
-      "notes": "Sony D7 \u00b7 bouldernbun/highdesert/mike lee",
+      "notes": "Sony D7 · bouldernbun/highdesert/mike lee",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -209,8 +209,8 @@ const ARTIST_DATA = {
       "city": "Bristow",
       "state": "VA",
       "location": "Bristow, VA",
-      "venue": "Nissan Pavilion,",
-      "notes": "DAT(M) \u00b7 scm \u00b7 krw_co transfer \u00b7 48k",
+      "venue": "Nissan Pavilion",
+      "notes": "DAT(M) · scm · krw_co transfer · 48k",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -223,7 +223,7 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Berlin, DE",
       "venue": "O2-World",
-      "notes": "Soundman OKM IIr \u00b7 wb",
+      "notes": "Soundman OKM IIr · wb",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -235,10 +235,11 @@ const ARTIST_DATA = {
       "city": "Las Vegas",
       "state": "NV",
       "location": "Las Vegas, NV",
-      "venue": "Park MGM - Park Theater",
-      "notes": "Multiple IEM Source Matrix",
+      "venue": "Park MGM",
+      "notes": "Park · Multiple IEM Source Matrix",
       "version": "MIX",
       "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
