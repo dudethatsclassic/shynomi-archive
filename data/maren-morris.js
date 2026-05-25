@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Bowery Ballroom",
+      "notes": "CA-14s · wooly143",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA-14s \u00b7 wooly143"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
