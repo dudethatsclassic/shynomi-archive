@@ -43,12 +43,14 @@ function renderMiscRow(item) {
       + '<td class="col-badges"><div class="badge-group">' + versionBadge(item.version) + formatBadge(item.format) + '</div></td>'
       + '</tr>';
   } else {
-    const label = esc(item.label || '');
-    const ver   = item.version ? ' · ' + esc(item.version) : '';
-    const fmt   = item.format  ? ' · ' + esc(item.format)  : '';
     return '<tr class="show-row">'
       + '<td class="col-date"></td>'
-      + '<td class="col-venue" colspan="3"><div class="show-notes">' + label + ver + fmt + '</div></td>'
+      + '<td class="col-venue"><div>' + esc(item.label || '') + '</div></td>'
+      + '<td class="col-location"></td>'
+      + '<td class="col-badges"><div class="badge-group">'
+        + (item.version ? versionBadge(item.version) : '')
+        + formatBadge(item.format)
+        + '</div></td>'
       + '</tr>';
   }
 }
