@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Hendersonville, TN",
       "venue": "Music Village USA",
+      "notes": "",
       "version": "preFM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
