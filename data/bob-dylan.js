@@ -2,13 +2,15 @@ const ARTIST_DATA = {
   "id": "bob-dylan",
   "name": "Bob Dylan",
   "drive": "C",
-  "showCount": 26,
+  "showCount": 28,
   "firstYear": 1962,
   "lastYear": 2019,
   "years": [
     1962,
+    1963,
     1965,
     1966,
+    1969,
     1970,
     1974,
     1975,
@@ -28,26 +30,39 @@ const ARTIST_DATA = {
       "month": 7,
       "day": 2,
       "dateStr": "7-2-1962",
-      "city": "Montreal, Canada",
-      "state": "",
+      "city": "Montreal",
+      "state": "Canada",
       "location": "Montreal, Canada",
       "venue": "Finjin Club",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1963,
+      "month": 10,
+      "day": 26,
+      "dateStr": "10-26-1963",
+      "city": "Bob Dylan - Live at Carnegie Hall In Concert (Unreleased CBS Album)",
+      "state": "",
+      "location": "Bob Dylan - Live at Carnegie Hall In Concert (Unreleased CBS Album)",
+      "venue": "",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1965,
       "month": 5,
       "day": 7,
       "dateStr": "5-7-1965",
-      "city": "Manchester, England",
-      "state": "",
+      "city": "Manchester",
+      "state": "England",
       "location": "Manchester, England",
       "venue": "Free Trade Hall *Now Ain't the Time for Your Tears",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1965,
@@ -58,9 +73,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Studios",
+      "notes": "",
       "version": "Broadcast",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1965,
@@ -71,9 +86,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Hollywood Bowl",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1965,
@@ -84,22 +99,22 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Bushnell Memorial Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1966,
       "month": 4,
       "day": 13,
       "dateStr": "4-13-1966",
-      "city": "Sydney, Australia",
-      "state": "",
+      "city": "Sydney",
+      "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Sydney Australia *Genuine Live 1966",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1966,
@@ -110,9 +125,22 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Albert Hall",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1969,
+      "month": 8,
+      "day": 31,
+      "dateStr": "8-31-1969",
+      "city": "Isle of Wight *Mighty Mockingbird",
+      "state": "",
+      "location": "Isle of Wight *Mighty Mockingbird",
+      "venue": "",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1970,
@@ -123,9 +151,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "*Almost Went To See Elvis",
       "venue": "",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1970,
@@ -136,9 +164,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Columbia Studios",
+      "notes": "NASH 105",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": "Nash 105"
+      "format": "FLAC"
     },
     {
       "year": 1974,
@@ -149,9 +177,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Stadium",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1974,
@@ -162,9 +190,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Spectrum",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1974,
@@ -175,22 +203,22 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Spectrum",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1974,
       "month": 1,
       "day": 9,
       "dateStr": "1-9-1974",
-      "city": "Toronto, Ontario",
-      "state": "",
+      "city": "Toronto",
+      "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Maple Leaf Gardens",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1974,
@@ -201,9 +229,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston Gardens",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1975,
@@ -214,9 +242,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston Music Hall",
+      "notes": "Late show",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Late show"
+      "format": "FLAC"
     },
     {
       "year": 1976,
@@ -227,9 +255,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "Municipal Auditorium",
+      "notes": "inc · dolphinsmile",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Inc · Dolphinsmile"
+      "format": "FLAC"
     },
     {
       "year": 1976,
@@ -240,9 +268,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Fort Worth, TX",
       "venue": "TCCC *Hold the Fort",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1978,
@@ -253,9 +281,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "University of WA *Live at the Pitstop 78",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1980,
@@ -266,9 +294,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Les Kokay",
+      "notes": "LB-7445",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Lb-7445"
+      "format": "FLAC"
     },
     {
       "year": 1986,
@@ -279,9 +307,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
+      "notes": "with Tom Petty",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "With Tom Petty"
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -292,22 +320,22 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Rochester Hills, MI",
       "venue": "Howard C. Baldwin Memorial Pavilion",
+      "notes": "dolphinsmile",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Dolphinsmile"
+      "format": "FLAC"
     },
     {
       "year": 1993,
       "month": 9,
       "day": 2,
       "dateStr": "9-2-1993",
-      "city": "Toronto, Ontario",
-      "state": "",
+      "city": "Toronto",
+      "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Canadien National Exhibition Grandstand",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": ""
+      "format": "FLAC 24"
     },
     {
       "year": 1993,
@@ -318,9 +346,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Sports Arena",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -331,22 +359,22 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saugerties, NY",
       "venue": "Woodstock 94",
+      "notes": "JTT",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": "JTT"
+      "format": "FLAC"
     },
     {
       "year": 1995,
       "month": 3,
       "day": 14,
       "dateStr": "3-14-1995",
-      "city": "Fuerth, Germany",
-      "state": "",
+      "city": "Fuerth",
+      "state": "Germany",
       "location": "Fuerth, Germany",
       "venue": "Stadthalle",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -356,10 +384,10 @@ const ARTIST_DATA = {
       "city": "Palo Alto",
       "state": "CA",
       "location": "Palo Alto, CA",
-      "venue": "Stanford University - Frost Amphitheatre",
+      "venue": "Stanford University",
+      "notes": "Frost · hurricane",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Hurricane"
+      "format": "FLAC"
     }
   ],
   "misc": [
@@ -386,10 +414,8 @@ const ARTIST_DATA = {
       "format": "SHN"
     },
     {
-      "type": "release",
-      "label": "XX-XX-1987 / Real Cuts at Last",
-      "version": "Vinyl",
-      "format": "FLAC"
+      "type": "label",
+      "label": "XX-XX-1987 / Real Cuts at Last"
     },
     {
       "type": "label",
