@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "gavin-rossdale",
   "name": "Gavin Rossdale",
   "drive": "B",
-  "showCount": 4,
+  "showCount": 5,
   "firstYear": 2009,
   "lastYear": 2010,
   "years": [
@@ -19,9 +19,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
+      "notes": "Edirol R-09 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R-09 \u00b7 live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -32,9 +32,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Market Square",
+      "notes": "CSBs · xjsb125",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSBs \u00b7 xjsb125"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -45,9 +45,22 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "House of Blues",
+      "notes": "Edirol R-09 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R-09 \u00b7 live2cd"
+      "format": "FLAC"
+    },
+    {
+      "year": 2010,
+      "month": 6,
+      "day": 26,
+      "dateStr": "6-26-2010",
+      "city": "Petrillo Band Shell - Taste of Chicago (Sony PCM-M10) (auger_d)",
+      "state": "",
+      "location": "Petrillo Band Shell - Taste of Chicago (Sony PCM-M10) (auger_d)",
+      "venue": "",
+      "notes": "",
+      "version": "AUD",
+      "format": "FLAC 24"
     },
     {
       "year": 2010,
@@ -58,9 +71,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Summerfest",
+      "notes": "Sony PCM-M10 · auger_d",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sony PCM-M10 \u00b7 auger_d"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
