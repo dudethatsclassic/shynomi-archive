@@ -29556,19 +29556,19 @@ const ARTIST_DATA = {
     },
     {
       "type": "release",
-      "label": "Metallica - Live In Chile (1993 ? 2017) Master Upgrade (Hi-res)",
+      "label": "Metallica - Live In Chile (1993 – 2017) Master Upgrade (Hi-res)",
       "version": "SBD",
       "format": "FLAC HD"
     },
     {
       "type": "release",
-      "label": "Metallica - Live In Brazil (1993 ? 2017) MQA (Hi-Res)",
+      "label": "Metallica - Live In Brazil (1993 – 2017) MQA (Hi-Res)",
       "version": "SBD",
       "format": "FLAC HD"
     },
     {
       "type": "release",
-      "label": "Metallica - Live In Argentina (1993 ? 2017)",
+      "label": "Metallica - Live In Argentina (1993 – 2017)",
       "version": "SBD",
       "format": "FLAC"
     },

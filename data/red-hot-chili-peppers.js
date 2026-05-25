@@ -15595,7 +15595,7 @@ const ARTIST_DATA = {
     },
     {
       "type": "release",
-      "label": "Red Hot Chili Peppers - Flea?s Birthday Suit {AR161095} (1995)",
+      "label": "Red Hot Chili Peppers - Flea´s Birthday Suit {AR161095} (1995)",
       "version": "Silver CD",
       "format": "FLAC"
     },

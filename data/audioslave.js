@@ -101,7 +101,7 @@ const ARTIST_DATA = {
       "venue": "XFM Studios (Interview) - DAT(M)",
       "version": "FM",
       "format": "FLAC",
-      "notes": "SBD #1 \u00b7 gary watson"
+      "notes": "SBD #1 · gary watson"
     },
     {
       "year": 2003,
@@ -270,7 +270,7 @@ const ARTIST_DATA = {
       "venue": "The Electric Factory - AUD",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Coresound"
+      "notes": "M · Coresound"
     },
     {
       "year": 2003,
@@ -283,7 +283,7 @@ const ARTIST_DATA = {
       "venue": "Electric Factory - DAT(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Gefell M20 \u00b7 jlizard"
+      "notes": "Gefell M20 · jlizard"
     },
     {
       "year": 2003,
@@ -491,7 +491,7 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheatre",
       "version": "AUD",
       "format": "SHN",
-      "notes": "Lollapalooza \u00b7 ls"
+      "notes": "Lollapalooza · ls"
     },
     {
       "year": 2003,
@@ -517,7 +517,7 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 ko"
+      "notes": "Lollapalooza · ko"
     },
     {
       "year": 2003,
@@ -543,7 +543,7 @@ const ARTIST_DATA = {
       "venue": "Post-Gazette Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SM98 \u00b7 cps"
+      "notes": "SM98 · cps"
     },
     {
       "year": 2003,
@@ -595,7 +595,7 @@ const ARTIST_DATA = {
       "venue": "Jones Beach Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 MarcSounds"
+      "notes": "Lollapalooza · MarcSounds"
     },
     {
       "year": 2003,
@@ -621,7 +621,7 @@ const ARTIST_DATA = {
       "venue": "HiFi Buys Amphitheatre - DAT(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 pjdave"
+      "notes": "DPA 4061s · pjdave"
     },
     {
       "year": 2003,
@@ -634,7 +634,7 @@ const ARTIST_DATA = {
       "venue": "HiFi Buys Amphitheatre - Lollapalooza - DAT(M)",
       "version": "AUD #2",
       "format": "FLAC",
-      "notes": "AT-853 \u00b7 cal evans"
+      "notes": "AT-853 · cal evans"
     },
     {
       "year": 2003,
@@ -647,7 +647,7 @@ const ARTIST_DATA = {
       "venue": "Smirnoff Music Centre - Lollapalooza",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "asthma77 \u00b7 inc"
+      "notes": "asthma77 · inc"
     },
     {
       "year": 2003,
@@ -673,7 +673,7 @@ const ARTIST_DATA = {
       "venue": "Fiddler's Green",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 taperbt"
+      "notes": "Lollapalooza · taperbt"
     },
     {
       "year": 2003,
@@ -699,7 +699,7 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DAB \u00b7 cavis3208"
+      "notes": "DAB · cavis3208"
     },
     {
       "year": 2003,
@@ -712,7 +712,7 @@ const ARTIST_DATA = {
       "venue": "Coors Amphitheatre - DAT(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Oade Brothers \u00b7 the ramblin taper"
+      "notes": "Oade Brothers · the ramblin taper"
     },
     {
       "year": 2003,
@@ -725,7 +725,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "version": "AUD",
       "format": "SHN",
-      "notes": "Lollapalooza \u00b7 michele"
+      "notes": "Lollapalooza · michele"
     },
     {
       "year": 2003,
@@ -764,7 +764,7 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 tapeworm48"
+      "notes": "DPA 4061 · tapeworm48"
     },
     {
       "year": 2005,
@@ -803,7 +803,7 @@ const ARTIST_DATA = {
       "venue": "Jimmy Kimmel Live",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DSM6 \u00b7 Unknown"
+      "notes": "DSM6 · Unknown"
     },
     {
       "year": 2005,
@@ -868,7 +868,7 @@ const ARTIST_DATA = {
       "venue": "Pannonia Fields",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA4061 \u00b7 mg"
+      "notes": "DPA4061 · mg"
     },
     {
       "year": 2005,
@@ -907,7 +907,7 @@ const ARTIST_DATA = {
       "venue": "Hovet - MD(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM-DS70P \u00b7 andreas magnusson"
+      "notes": "ECM-DS70P · andreas magnusson"
     },
     {
       "year": 2005,
@@ -920,7 +920,7 @@ const ARTIST_DATA = {
       "venue": "Roskilde Festival - Orange Stage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSC \u00b7 jtl"
+      "notes": "CSC · jtl"
     },
     {
       "year": 2005,
@@ -1037,7 +1037,7 @@ const ARTIST_DATA = {
       "venue": "UIC Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 tapeworm48"
+      "notes": "Schoeps MK4 · tapeworm48"
     },
     {
       "year": 2019,
@@ -1050,13 +1050,13 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT831s \u00b7 tapeworm48"
+      "notes": "AT831s · tapeworm48"
     }
   ],
   "misc": [
     {
       "type": "release",
-      "label": "Rage Against the Machine feat Chris Cornell ? Civilian (The Demos) [Silver]",
+      "label": "Rage Against the Machine feat Chris Cornell – Civilian (The Demos) [Silver]",
       "version": "Silver CD",
       "format": "FLAC"
     }

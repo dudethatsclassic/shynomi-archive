@@ -2276,7 +2276,7 @@ const ARTIST_DATA = {
     },
     {
       "type": "label",
-      "label": "Incubus ? iTunes Live from SoHo (2011)",
+      "label": "Incubus — iTunes Live from SoHo (2011)",
       "format": "FLAC"
     },
     {

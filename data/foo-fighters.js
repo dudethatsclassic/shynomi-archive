@@ -14033,7 +14033,7 @@ const ARTIST_DATA = {
     },
     {
       "type": "label",
-      "label": "Foo Fighters ? Rope (Deadmau5 Mix Edit) (2011)",
+      "label": "Foo Fighters – Rope (Deadmau5 Mix Edit) (2011)",
       "format": "FLAC"
     }
   ]

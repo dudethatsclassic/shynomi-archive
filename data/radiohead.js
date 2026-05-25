@@ -17124,12 +17124,6 @@ const ARTIST_DATA = {
       "notes": "Zoom H1n · choc_eclaire",
       "version": "AUD",
       "format": "FLAC 24"
-    },
-    {
-      "type": "release",
-      "label": "The Smile - Goodie Bag",
-      "version": "JPGS",
-      "format": "MP4"
     }
   ]
 };

@@ -414,8 +414,10 @@ const ARTIST_DATA = {
       "format": "SHN"
     },
     {
-      "type": "label",
-      "label": "XX-XX-1987 / Real Cuts at Last"
+      "type": "release",
+      "label": "XX-XX-1987 / Real Cuts at Last",
+      "version": "Vinyl",
+      "format": "FLAC"
     },
     {
       "type": "label",

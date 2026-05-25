@@ -4669,7 +4669,7 @@ const ARTIST_DATA = {
     },
     {
       "type": "label",
-      "label": "Untitled French Promo (3 Titres Ine?dits)",
+      "label": "Untitled French Promo (3 Titres Inédits)",
       "format": "FLAC"
     },
     {

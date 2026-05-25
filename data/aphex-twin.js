@@ -247,7 +247,8 @@ const ARTIST_DATA = {
     },
     {
       "type": "label",
-      "label": "XX-XX-1995 / Analogue Bubblebath 5"
+      "label": "XX-XX-1995 / Analogue Bubblebath 5",
+      "format": "FLAC"
     },
     {
       "type": "label",
