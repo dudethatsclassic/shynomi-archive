@@ -672,7 +672,7 @@ const ARTIST_DATA = {
       "venue": "The Wheatsheaf",
       "version": "AMT #1",
       "format": "MP4",
-      "notes": "inc \u00b7 dave"
+      "notes": "inc · dave"
     },
     {
       "year": 1991,
@@ -1712,7 +1712,7 @@ const ARTIST_DATA = {
       "venue": "Dominguez Hills",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 smores"
+      "notes": "Lollapalooza · smores"
     },
     {
       "year": 1994,
@@ -1933,7 +1933,7 @@ const ARTIST_DATA = {
       "venue": "The Astoria",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "x \u00b7 Pitch correcred"
+      "notes": "x · Pitch correcred"
     },
     {
       "year": 1994,
@@ -2362,7 +2362,7 @@ const ARTIST_DATA = {
       "venue": "Seattle Center",
       "version": "AUD #1",
       "format": "FLAC",
-      "notes": "unk \u00b7 todd"
+      "notes": "unk · todd"
     },
     {
       "year": 1995,
@@ -2453,7 +2453,7 @@ const ARTIST_DATA = {
       "venue": "Astoria",
       "version": "AUD",
       "format": "DVD",
-      "notes": "x \u00b7 unk"
+      "notes": "x · unk"
     },
     {
       "year": 1998,
@@ -2609,7 +2609,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Bridge School Benefit XIII \u00b7 sneaky audio bastard"
+      "notes": "Bridge School Benefit XIII · sneaky audio bastard"
     },
     {
       "year": 2000,
@@ -2622,7 +2622,7 @@ const ARTIST_DATA = {
       "venue": "Tutu's",
       "version": "SBD #1",
       "format": "FLAC",
-      "notes": "M \u00b7 gary watson"
+      "notes": "M · gary watson"
     },
     {
       "year": 2000,
@@ -2752,7 +2752,7 @@ const ARTIST_DATA = {
       "venue": "CBGB's",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Surprise Gig \u00b7 Peace Music 001"
+      "notes": "Surprise Gig · Peace Music 001"
     },
     {
       "year": 2001,
@@ -2778,7 +2778,7 @@ const ARTIST_DATA = {
       "venue": "Foxboro Stadium",
       "version": "FM",
       "format": "FLAC",
-      "notes": "2001 WBCN River Rave \u00b7 Boston 104.1"
+      "notes": "2001 WBCN River Rave · Boston 104.1"
     },
     {
       "year": 2001,
@@ -2791,7 +2791,7 @@ const ARTIST_DATA = {
       "venue": "Roy Wilkins Auditorium",
       "version": "AMT",
       "format": "DVD",
-      "notes": "unk \u00b7 mark suffolk"
+      "notes": "unk · mark suffolk"
     },
     {
       "year": 2001,
@@ -2869,7 +2869,7 @@ const ARTIST_DATA = {
       "venue": "Wembley Arena",
       "version": "AMT",
       "format": "DVD",
-      "notes": "unk \u00b7 mark sullfolk"
+      "notes": "unk · mark sullfolk"
     },
     {
       "year": 2002,
@@ -2882,7 +2882,7 @@ const ARTIST_DATA = {
       "venue": "Wembley Arena",
       "version": "AMT",
       "format": "DVD",
-      "notes": "unk \u00b7 mark suffolk"
+      "notes": "unk · mark suffolk"
     },
     {
       "year": 2002,
@@ -2973,7 +2973,7 @@ const ARTIST_DATA = {
       "venue": "Air Canada Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSC \u00b7 burnboy"
+      "notes": "CSC · burnboy"
     },
     {
       "year": 2004,
@@ -3025,7 +3025,7 @@ const ARTIST_DATA = {
       "venue": "Filaforum",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa HS-F150 \u00b7 unk"
+      "notes": "Aiwa HS-F150 · unk"
     },
     {
       "year": 2005,
@@ -3103,7 +3103,7 @@ const ARTIST_DATA = {
       "venue": "Roskilde Festival - Orange Stage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSC \u00b7 jtl"
+      "notes": "CSC · jtl"
     },
     {
       "year": 2005,
@@ -3129,7 +3129,7 @@ const ARTIST_DATA = {
       "venue": "Wachovia Center - AUD",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "MK4 \u00b7 schoepsnbox"
+      "notes": "MK4 · schoepsnbox"
     },
     {
       "year": 2005,
@@ -3324,7 +3324,7 @@ const ARTIST_DATA = {
       "venue": "Stadthalle - Soundcheck",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Edirol R-09HR \u00b7 unk"
+      "notes": "Edirol R-09HR · unk"
     },
     {
       "year": 2009,
@@ -3337,7 +3337,7 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Nakamichi 700 \u00b7 jems"
+      "notes": "Nakamichi 700 · jems"
     },
     {
       "year": 2009,
@@ -3376,7 +3376,7 @@ const ARTIST_DATA = {
       "venue": "Copps Coliseum",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CA-11 \u00b7 krewe chief"
+      "notes": "CA-11 · krewe chief"
     },
     {
       "year": 2009,
@@ -3402,7 +3402,7 @@ const ARTIST_DATA = {
       "venue": "Mellon Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "inc \u00b7 jlizard"
+      "notes": "inc · jlizard"
     },
     {
       "year": 2009,
@@ -3441,7 +3441,7 @@ const ARTIST_DATA = {
       "venue": "O2 World Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "OKM IIr \u00b7 wb"
+      "notes": "OKM IIr · wb"
     },
     {
       "year": 2009,
@@ -3532,7 +3532,7 @@ const ARTIST_DATA = {
       "venue": "Grant Park",
       "version": "AUD #1",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 the0ilman"
+      "notes": "Lollapalooza · the0ilman"
     },
     {
       "year": 2010,
@@ -3688,7 +3688,7 @@ const ARTIST_DATA = {
       "venue": "Greek Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps \u00b7 anonymous"
+      "notes": "Schoeps · anonymous"
     },
     {
       "year": 2013,
@@ -3805,7 +3805,7 @@ const ARTIST_DATA = {
       "venue": "UC Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps CCM-4 \u00b7 anonymous"
+      "notes": "Schoeps CCM-4 · anonymous"
     },
     {
       "year": 2016,
@@ -4130,7 +4130,7 @@ const ARTIST_DATA = {
       "venue": "iHeartRadio Theater",
       "version": "Webcast",
       "format": "FLAC",
-      "notes": "Album Release Party \u00b7 LiveXLive Webcast"
+      "notes": "Album Release Party · LiveXLive Webcast"
     },
     {
       "year": 2020,
@@ -4143,7 +4143,7 @@ const ARTIST_DATA = {
       "venue": "iHeartRadio Theater",
       "version": "Webcast",
       "format": "TS",
-      "notes": "Album Release Party \u00b7 indykid"
+      "notes": "Album Release Party · indykid"
     },
     {
       "year": 2021,
@@ -4182,7 +4182,7 @@ const ARTIST_DATA = {
       "venue": "Historic Crew Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "iPhone 6S \u00b7 plankfan"
+      "notes": "iPhone 6S · plankfan"
     },
     {
       "year": 2021,
@@ -4195,7 +4195,7 @@ const ARTIST_DATA = {
       "venue": "PNC Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "iPhone 6S \u00b7 plankfan"
+      "notes": "iPhone 6S · plankfan"
     },
     {
       "year": 2021,
@@ -4208,7 +4208,7 @@ const ARTIST_DATA = {
       "venue": "Oracle Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CCM4 \u00b7 anonymous"
+      "notes": "CCM4 · anonymous"
     },
     {
       "year": 2021,
@@ -4221,7 +4221,7 @@ const ARTIST_DATA = {
       "venue": "Oracle Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853s \u00b7 tj"
+      "notes": "AT853s · tj"
     },
     {
       "year": 2021,
@@ -4260,7 +4260,7 @@ const ARTIST_DATA = {
       "venue": "Fremont Street - Life Is Beautiful",
       "version": "Webcast",
       "format": "TS",
-      "notes": "Twitch webcast \u00b7 indykid"
+      "notes": "Twitch webcast · indykid"
     },
     {
       "year": 2022,
@@ -4273,7 +4273,7 @@ const ARTIST_DATA = {
       "venue": "Crypto.com Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 ijwthstd"
+      "notes": "SP-CMC-4U · ijwthstd"
     },
     {
       "year": 2022,
@@ -4286,7 +4286,7 @@ const ARTIST_DATA = {
       "venue": "Tele2 Arena",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Aiwa CM-TS55 \u00b7 qew"
+      "notes": "Aiwa CM-TS55 · qew"
     },
     {
       "year": 2022,
@@ -4299,7 +4299,7 @@ const ARTIST_DATA = {
       "venue": "Marlay Park",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Edirol R09 \u00b7 sabrewulf"
+      "notes": "Edirol R09 · sabrewulf"
     },
     {
       "year": 2022,
@@ -4312,7 +4312,7 @@ const ARTIST_DATA = {
       "venue": "La De?fense Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Edirol R09-HR \u00b7 coli"
+      "notes": "Edirol R09-HR · coli"
     },
     {
       "year": 2023,
@@ -4325,7 +4325,7 @@ const ARTIST_DATA = {
       "venue": "Fremont Country Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SKG CK61 \u00b7 cps"
+      "notes": "SKG CK61 · cps"
     },
     {
       "year": 2023,
@@ -4338,7 +4338,7 @@ const ARTIST_DATA = {
       "venue": "Bataclan",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Edirol R09 \u00b7 shinkibo"
+      "notes": "Edirol R09 · shinkibo"
     },
     {
       "year": 2024,
@@ -4351,7 +4351,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "notes": "DPA 4081 · faninor"
     },
     {
       "year": 2024,
@@ -4364,7 +4364,7 @@ const ARTIST_DATA = {
       "venue": "Fillmore",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 loughney"
+      "notes": "Schoeps MK4 · loughney"
     },
     {
       "year": 2024,
@@ -4377,7 +4377,7 @@ const ARTIST_DATA = {
       "venue": "Road to Rio Babel",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "iPhone SE \u00b7 unaesfingelunar"
+      "notes": "iPhone SE · unaesfingelunar"
     },
     {
       "year": 2024,
@@ -4390,7 +4390,7 @@ const ARTIST_DATA = {
       "venue": "LDLC Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-20 \u00b7 exedore"
+      "notes": "SP-CMC-20 · exedore"
     },
     {
       "year": 2024,
@@ -4403,7 +4403,7 @@ const ARTIST_DATA = {
       "venue": "LDLC Arena  NO EQ",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-20 \u00b7 exedore"
+      "notes": "SP-CMC-20 · exedore"
     },
     {
       "year": 2024,
@@ -4416,7 +4416,7 @@ const ARTIST_DATA = {
       "venue": "Rock im Park Nu?rnberg",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Zoom H1n \u00b7 red john"
+      "notes": "Zoom H1n · red john"
     },
     {
       "year": 2024,
@@ -4429,7 +4429,7 @@ const ARTIST_DATA = {
       "venue": "Gelredome",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Zoom iQ7 \u00b7 frankvink"
+      "notes": "Zoom iQ7 · frankvink"
     },
     {
       "year": 2024,
@@ -4442,7 +4442,7 @@ const ARTIST_DATA = {
       "venue": "Citi Field",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4N \u00b7 peter"
+      "notes": "Zoom H4N · peter"
     },
     {
       "year": 2024,
@@ -4455,7 +4455,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Casino Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CA-14 \u00b7 ryan teske"
+      "notes": "CA-14 · ryan teske"
     },
     {
       "year": 2024,
@@ -4468,7 +4468,7 @@ const ARTIST_DATA = {
       "venue": "Great American Ball Park",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "CA-14 \u00b7 live2cd"
+      "notes": "CA-14 · live2cd"
     },
     {
       "year": 2024,
@@ -4494,7 +4494,7 @@ const ARTIST_DATA = {
       "venue": "SoFi Stadium",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "notes": "DPA 4081 · faninor"
     },
     {
       "year": 2024,
@@ -4507,7 +4507,7 @@ const ARTIST_DATA = {
       "venue": "Oracle Park",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK4s \u00b7 loughney"
+      "notes": "Schoeps MK4s · loughney"
     },
     {
       "year": 2025,
@@ -4598,7 +4598,7 @@ const ARTIST_DATA = {
       "venue": "Stadthalle",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann KM140s \u00b7 alysha"
+      "notes": "Neumann KM140s · alysha"
     },
     {
       "year": 2025,
@@ -4611,7 +4611,7 @@ const ARTIST_DATA = {
       "venue": "Hurricane Festival",
       "version": "WEB",
       "format": "TS",
-      "notes": "MagentaMusik Livestream \u00b7 1080"
+      "notes": "MagentaMusik Livestream · 1080"
     },
     {
       "year": 2025,
@@ -4624,7 +4624,7 @@ const ARTIST_DATA = {
       "venue": "Lebreton Flats",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "iPhone 16 Pro \u00b7 palm0014"
+      "notes": "iPhone 16 Pro · palm0014"
     },
     {
       "year": 2005,
@@ -4638,6 +4638,73 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": ""
+    }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "Green Day - Dookie Demos (surfaced 2019)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Green Day - Dookie Demos",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Green Day - 3 Song Demo (1992)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Green Day - 1994 VH1 Ultimate Albums - Dookie",
+      "format": "MPG"
+    },
+    {
+      "type": "label",
+      "label": "Green Day - [2005-06] Idiot Club Updates",
+      "format": "MOV"
+    },
+    {
+      "type": "label",
+      "label": "Green Day - Studio Videos (2012)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Green Day - Foot in Mouth (Live EP)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Green Day - Unreleased + Rare Songs",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Green Day - Woodstock 1994 (2019) [Vinyl Rip]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Green Day - 2000 Light Years Away (Live) (2019)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Green Day - Light Years Away Radio Broadcast (Live) (2019)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Green Day - Melvin Ate My Guitar {MM 50} (2019)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Green Day - Live at the Whiskey 7\" (GDC Exclusive)",
+      "format": "FLAC"
     }
   ]
 };
