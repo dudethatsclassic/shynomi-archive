@@ -116,7 +116,7 @@ const ARTIST_DATA = {
       "venue": "Mercury Lounge - DAT(M)",
       "version": "AUD",
       "format": "",
-      "notes": "Core Sound Cardiods \u00b7 dan lynch"
+      "notes": "Core Sound Cardiods · dan lynch"
     },
     {
       "year": 1997,
@@ -129,7 +129,7 @@ const ARTIST_DATA = {
       "venue": "Mercury Lounge (Two Of Us Master Volume 174)",
       "version": "MIX",
       "format": "",
-      "notes": "Shure WMD6 \u00b7 mjk5510 + two of us"
+      "notes": "Shure WMD6 · mjk5510 + two of us"
     },
     {
       "year": 1998,
@@ -428,7 +428,7 @@ const ARTIST_DATA = {
       "venue": "DAT(M)",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps MK5 \u00b7 Unknown"
+      "notes": "Schoeps MK5 · Unknown"
     },
     {
       "year": 2001,
@@ -441,7 +441,7 @@ const ARTIST_DATA = {
       "venue": "Great American Music Hall - DAT(M)",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps MK5 \u00b7 Unknown"
+      "notes": "Schoeps MK5 · Unknown"
     },
     {
       "year": 2001,
@@ -454,7 +454,7 @@ const ARTIST_DATA = {
       "venue": "Knitting Factory",
       "version": "AUD",
       "format": "",
-      "notes": "Marcsounds \u00b7 markp"
+      "notes": "Marcsounds · markp"
     },
     {
       "year": 2001,
@@ -740,7 +740,7 @@ const ARTIST_DATA = {
       "venue": "Tribeca Performing Arts Center",
       "version": "SBD",
       "format": "",
-      "notes": "Tweedy \u00b7 FOH Series"
+      "notes": "Tweedy · FOH Series"
     },
     {
       "year": 2005,
@@ -883,7 +883,7 @@ const ARTIST_DATA = {
       "venue": "The Fonda Theatre - DAT",
       "version": "SBD",
       "format": "",
-      "notes": "M \u00b7 ryanj transfer"
+      "notes": "M · ryanj transfer"
     },
     {
       "year": 2006,
@@ -1767,7 +1767,7 @@ const ARTIST_DATA = {
       "venue": "Vic Theatre",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 Roadcase 031"
+      "notes": "Jeff Tweedy · Roadcase 031"
     },
     {
       "year": 2014,
@@ -1780,7 +1780,7 @@ const ARTIST_DATA = {
       "venue": "Vic Theatre",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 Roadcase 032"
+      "notes": "Jeff Tweedy · Roadcase 032"
     },
     {
       "year": 2014,
@@ -1923,7 +1923,7 @@ const ARTIST_DATA = {
       "venue": "Rolling Stone Weekender",
       "version": "FM",
       "format": "",
-      "notes": "NDR Blue DVB-C \u00b7 Unknown"
+      "notes": "NDR Blue DVB-C · Unknown"
     },
     {
       "year": 2014,
@@ -2391,7 +2391,7 @@ const ARTIST_DATA = {
       "venue": "Bing Crosby Theater",
       "version": "AUD",
       "format": "",
-      "notes": "Tascam DR-44WL \u00b7 nick71"
+      "notes": "Tascam DR-44WL · nick71"
     },
     {
       "year": 2018,
@@ -2417,7 +2417,7 @@ const ARTIST_DATA = {
       "venue": "The Theatre At Ace Hotel",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 Roadcase 071"
+      "notes": "Jeff Tweedy · Roadcase 071"
     },
     {
       "year": 2019,
@@ -2703,7 +2703,7 @@ const ARTIST_DATA = {
       "venue": "Tree House Brewing Company",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps CMC641 \u00b7 Unknown"
+      "notes": "Schoeps CMC641 · Unknown"
     },
     {
       "year": 2022,
@@ -2716,7 +2716,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD (48k)",
       "format": "",
-      "notes": "Schoeps CCM4s \u00b7 blg mastering"
+      "notes": "Schoeps CCM4s · blg mastering"
     },
     {
       "year": 2022,
@@ -2755,7 +2755,7 @@ const ARTIST_DATA = {
       "venue": "Largo at the Coronet",
       "version": "AUD",
       "format": "",
-      "notes": "CA-11 \u00b7 manofstealth"
+      "notes": "CA-11 · manofstealth"
     },
     {
       "year": 2024,
@@ -2768,7 +2768,7 @@ const ARTIST_DATA = {
       "venue": "Solid Sound Festival",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 Roadcase 104"
+      "notes": "Jeff Tweedy · Roadcase 104"
     },
     {
       "year": 2024,
@@ -2781,7 +2781,7 @@ const ARTIST_DATA = {
       "venue": "Joe's Field - Solid Sound Festival",
       "version": "MIX",
       "format": "",
-      "notes": "2 sets of DPA 4061s \u00b7 km"
+      "notes": "2 sets of DPA 4061s · km"
     },
     {
       "year": 2024,
@@ -2794,7 +2794,7 @@ const ARTIST_DATA = {
       "venue": "Bearsville Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "DPA MMA-A 4061s \u00b7 km"
+      "notes": "DPA MMA-A 4061s · km"
     },
     {
       "year": 2024,
@@ -2807,7 +2807,7 @@ const ARTIST_DATA = {
       "venue": "Virginia Theater",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4061 \u00b7 john dacar, rob o'brien"
+      "notes": "DPA 4061 · john dacar, rob o'brien"
     },
     {
       "year": 2024,
@@ -2846,7 +2846,7 @@ const ARTIST_DATA = {
       "venue": "The Concert Hall",
       "version": "AUD",
       "format": "",
-      "notes": "SP-CMC-8 \u00b7 burnboy"
+      "notes": "SP-CMC-8 · burnboy"
     },
     {
       "year": 2025,
@@ -2872,7 +2872,7 @@ const ARTIST_DATA = {
       "venue": "District Musica Hall",
       "version": "AUD",
       "format": "",
-      "notes": "DPA4061s \u00b7 km"
+      "notes": "DPA4061s · km"
     },
     {
       "year": 2025,
@@ -2885,7 +2885,7 @@ const ARTIST_DATA = {
       "venue": "930 Club",
       "version": "AUD",
       "format": "",
-      "notes": "CA-14 \u00b7 alex leary"
+      "notes": "CA-14 · alex leary"
     },
     {
       "year": 2025,
@@ -2898,7 +2898,7 @@ const ARTIST_DATA = {
       "venue": "Liberty Hall",
       "version": "AUD",
       "format": "",
-      "notes": "SP-CMC-08 \u00b7 sonictooth"
+      "notes": "SP-CMC-08 · sonictooth"
     },
     {
       "year": 2026,
@@ -2911,7 +2911,7 @@ const ARTIST_DATA = {
       "venue": "Largo at the Coronet",
       "version": "AUD",
       "format": "",
-      "notes": "Edirol R-07 \u00b7 nobody"
+      "notes": "Edirol R-07 · nobody"
     },
     {
       "year": 2026,
@@ -2924,7 +2924,7 @@ const ARTIST_DATA = {
       "venue": "Auditorio Kursaal",
       "version": "AUD",
       "format": "",
-      "notes": "iPhpne SE \u00b7 unaesfingelunar"
+      "notes": "iPhpne SE · unaesfingelunar"
     },
     {
       "year": 2026,
@@ -2937,7 +2937,7 @@ const ARTIST_DATA = {
       "venue": "Parallel 62",
       "version": "AUD",
       "format": "",
-      "notes": "Edirol R05 \u00b7 l.c."
+      "notes": "Edirol R05 · l.c."
     },
     {
       "year": 2026,
@@ -2950,7 +2950,7 @@ const ARTIST_DATA = {
       "venue": "De Roma",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 thelonious"
+      "notes": "CSB · thelonious"
     },
     {
       "year": 2026,
@@ -2963,7 +2963,7 @@ const ARTIST_DATA = {
       "venue": "TivoliVredenburg",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 thelonious"
+      "notes": "CSB · thelonious"
     },
     {
       "year": 2026,
@@ -2976,7 +2976,7 @@ const ARTIST_DATA = {
       "venue": "Islington Assembly Hall",
       "version": "AUD",
       "format": "",
-      "notes": "CA-11 \u00b7 rairun"
+      "notes": "CA-11 · rairun"
     },
     {
       "year": 2026,
@@ -2989,7 +2989,7 @@ const ARTIST_DATA = {
       "venue": "Hoyt Sherman Place",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4061 \u00b7 robotaper"
+      "notes": "DPA 4061 · robotaper"
     },
     {
       "year": 2026,
@@ -3002,21 +3002,13 @@ const ARTIST_DATA = {
       "venue": "Royal Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "iPhone 7 \u00b7 chris lawrence"
+      "notes": "iPhone 7 · chris lawrence"
     }
   ],
   "misc": [
     {
       "type": "label",
       "label": "1997-2003 - The Collected Jeff Tweedy (Compilation)"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL RELEASES]"
-    },
-    {
-      "type": "label",
-      "label": "Jeff Tweedy - Live Is The King {51497297633} (2021)"
     }
   ]
 };

@@ -45,7 +45,7 @@ const ARTIST_DATA = {
       "venue": "Maida Vale Studios",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Bbc Radio Broadcast \u00b7 Ondes Martenot"
+      "notes": "Bbc Radio Broadcast · Ondes Martenot"
     },
     {
       "year": 1999,
@@ -318,7 +318,7 @@ const ARTIST_DATA = {
       "venue": "Maida Vale Studios",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Bbc Steve Lamacq Evening Session \u00b7 Unknown"
+      "notes": "Bbc Steve Lamacq Evening Session · Unknown"
     },
     {
       "year": 2000,
@@ -500,7 +500,7 @@ const ARTIST_DATA = {
       "venue": "Shepherd's Bush Empire",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM 717 \u00b7 Luzia Coppola"
+      "notes": "ECM 717 · Luzia Coppola"
     },
     {
       "year": 2000,
@@ -812,7 +812,7 @@ const ARTIST_DATA = {
       "venue": "Kentish Town Forum",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM 717 \u00b7 Luzio Coppola"
+      "notes": "ECM 717 · Luzio Coppola"
     },
     {
       "year": 2000,
@@ -825,7 +825,7 @@ const ARTIST_DATA = {
       "venue": "89.9 KCRW - Morning Becomes Electric",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Parachutes Promo \u00b7 G-109192c"
+      "notes": "Parachutes Promo · G-109192c"
     },
     {
       "year": 2000,
@@ -864,7 +864,7 @@ const ARTIST_DATA = {
       "venue": "Channel V Australia",
       "version": "TV",
       "format": "FLAC",
-      "notes": "Coldplay By Demand \u00b7 Nighthawk"
+      "notes": "Coldplay By Demand · Nighthawk"
     },
     {
       "year": 2001,
@@ -916,7 +916,7 @@ const ARTIST_DATA = {
       "venue": "Bassendean Oval",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM-717 \u00b7 Big Day Out"
+      "notes": "ECM-717 · Big Day Out"
     },
     {
       "year": 2001,
@@ -929,7 +929,7 @@ const ARTIST_DATA = {
       "venue": "Bassendean Oval",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MD MZ-N707 \u00b7 Big Day Out"
+      "notes": "Sony MD MZ-N707 · Big Day Out"
     },
     {
       "year": 2001,
@@ -1163,7 +1163,7 @@ const ARTIST_DATA = {
       "venue": "Avalon",
       "version": "FM #1",
       "format": "FLAC",
-      "notes": "gary watson \u00b7 Wbcn Fm"
+      "notes": "gary watson · Wbcn Fm"
     },
     {
       "year": 2001,
@@ -1189,7 +1189,7 @@ const ARTIST_DATA = {
       "venue": "RFK Stadium",
       "version": "AUD",
       "format": "SHN",
-      "notes": "CSB \u00b7 Jeremy Wilhide"
+      "notes": "CSB · Jeremy Wilhide"
     },
     {
       "year": 2001,
@@ -2138,7 +2138,7 @@ const ARTIST_DATA = {
       "venue": "Kentish Town Forum",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Source 1 \u00b7 Bbc1 Steve Lamcaq \u00b7 Conor Friel"
+      "notes": "Source 1 · Bbc1 Steve Lamcaq · Conor Friel"
     },
     {
       "year": 2002,
@@ -2151,7 +2151,7 @@ const ARTIST_DATA = {
       "venue": "Kentish Town Forum",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Uk Radio 1 - Steve Lamacq"
+      "notes": "Source 2 · Uk Radio 1 - Steve Lamacq"
     },
     {
       "year": 2002,
@@ -2411,7 +2411,7 @@ const ARTIST_DATA = {
       "venue": "Odyssey Arena",
       "version": "AUD",
       "format": "SHN",
-      "notes": "Inc \u00b7 Evil Bill"
+      "notes": "Inc · Evil Bill"
     },
     {
       "year": 2002,
@@ -3217,7 +3217,7 @@ const ARTIST_DATA = {
       "venue": "Halle Munsterland",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-10 \u00b7 Unknown"
+      "notes": "SP-CMC-10 · Unknown"
     },
     {
       "year": 2003,
@@ -3464,7 +3464,7 @@ const ARTIST_DATA = {
       "venue": "Cox Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SDSU \u00b7 Mikito"
+      "notes": "SDSU · Mikito"
     },
     {
       "year": 2003,
@@ -3607,7 +3607,7 @@ const ARTIST_DATA = {
       "venue": "Piazza",
       "version": "AUD",
       "format": "SHN",
-      "notes": "AT853 \u00b7 matt ippoliti"
+      "notes": "AT853 · matt ippoliti"
     },
     {
       "year": 2003,
@@ -4777,7 +4777,7 @@ const ARTIST_DATA = {
       "venue": "Palamalaguti",
       "version": "AMT",
       "format": "DVD",
-      "notes": "Unknown \u00b7 Mark Suffolk"
+      "notes": "Unknown · Mark Suffolk"
     },
     {
       "year": 2005,
@@ -4868,7 +4868,7 @@ const ARTIST_DATA = {
       "venue": "Palais Omnisports Paris-Bercy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zinc \u00b7 2025 Remaster"
+      "notes": "Zinc · 2025 Remaster"
     },
     {
       "year": 2005,
@@ -5245,7 +5245,7 @@ const ARTIST_DATA = {
       "venue": "Budokan",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Remaster \u00b7 Nitehawk"
+      "notes": "Remaster · Nitehawk"
     },
     {
       "year": 2006,
@@ -5609,7 +5609,7 @@ const ARTIST_DATA = {
       "venue": "BBC Radio Theater",
       "version": "FM",
       "format": "FLAC",
-      "notes": "1st Source \u00b7 Steven Bladt"
+      "notes": "1st Source · Steven Bladt"
     },
     {
       "year": 2008,
@@ -5648,7 +5648,7 @@ const ARTIST_DATA = {
       "venue": "Palau Sant Jordi",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Edirol R-09 \u00b7 Fortylicks"
+      "notes": "Edirol R-09 · Fortylicks"
     },
     {
       "year": 2008,
@@ -5661,7 +5661,7 @@ const ARTIST_DATA = {
       "venue": "Palacio de los Deportes",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Okmiir \u00b7 Jjml"
+      "notes": "Okmiir · Jjml"
     },
     {
       "year": 2008,
@@ -5895,7 +5895,7 @@ const ARTIST_DATA = {
       "venue": "Bank Atlantic Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps CCM4 \u00b7 Jon Duchin"
+      "notes": "Schoeps CCM4 · Jon Duchin"
     },
     {
       "year": 2008,
@@ -5908,7 +5908,7 @@ const ARTIST_DATA = {
       "venue": "Philips Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MD NZ-700R \u00b7 1st Source"
+      "notes": "Sony MD NZ-700R · 1st Source"
     },
     {
       "year": 2008,
@@ -5921,7 +5921,7 @@ const ARTIST_DATA = {
       "venue": "Philips Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-CS10 \u00b7 2nd Source"
+      "notes": "Sony ECM-CS10 · 2nd Source"
     },
     {
       "year": 2008,
@@ -6012,7 +6012,7 @@ const ARTIST_DATA = {
       "venue": "02 Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "2020 Master \u00b7 Icom + Edirol R-09hr"
+      "notes": "2020 Master · Icom + Edirol R-09hr"
     },
     {
       "year": 2009,
@@ -6025,7 +6025,7 @@ const ARTIST_DATA = {
       "venue": "BBC Radio 2 Session",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Chris Martin Solo \u00b7 Steven Bladt"
+      "notes": "Chris Martin Solo · Steven Bladt"
     },
     {
       "year": 2009,
@@ -6129,7 +6129,7 @@ const ARTIST_DATA = {
       "venue": "Brisbane Entertainment Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ICD-B500 \u00b7 Unknown"
+      "notes": "Sony ICD-B500 · Unknown"
     },
     {
       "year": 2009,
@@ -6155,7 +6155,7 @@ const ARTIST_DATA = {
       "venue": "Sound Relief Benefit Concert",
       "version": "FM",
       "format": "FLAC",
-      "notes": "SCG \u00b7 With Interview"
+      "notes": "SCG · With Interview"
     },
     {
       "year": 2009,
@@ -6207,7 +6207,7 @@ const ARTIST_DATA = {
       "venue": "Aaron's Amphitheatre at Lakewood",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1st Source \u00b7 Redbeard"
+      "notes": "1st Source · Redbeard"
     },
     {
       "year": 2009,
@@ -6220,7 +6220,7 @@ const ARTIST_DATA = {
       "venue": "Aaron's Amphitheatre at Lakewood",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "2nd Source \u00b7 Sp-bmc-3"
+      "notes": "2nd Source · Sp-bmc-3"
     },
     {
       "year": 2009,
@@ -6246,7 +6246,7 @@ const ARTIST_DATA = {
       "venue": "Hersheypark Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Tt"
+      "notes": "DPA 4061s · Tt"
     },
     {
       "year": 2009,
@@ -6584,7 +6584,7 @@ const ARTIST_DATA = {
       "venue": "Parc des Princes",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MZ-RH1 \u00b7 Achtung_baby01"
+      "notes": "Sony MZ-RH1 · Achtung_baby01"
     },
     {
       "year": 2009,
@@ -6597,7 +6597,7 @@ const ARTIST_DATA = {
       "venue": "Parc des Princes",
       "version": "AMT",
       "format": "DVD",
-      "notes": "Unknown \u00b7 Mark Suffolk"
+      "notes": "Unknown · Mark Suffolk"
     },
     {
       "year": 2009,
@@ -6792,7 +6792,7 @@ const ARTIST_DATA = {
       "venue": "Glastonbury Festival",
       "version": "FM",
       "format": "FLAC",
-      "notes": "1st Source \u00b7 Baby Finster"
+      "notes": "1st Source · Baby Finster"
     },
     {
       "year": 2011,
@@ -7260,7 +7260,7 @@ const ARTIST_DATA = {
       "venue": "Dingwalls",
       "version": "FM",
       "format": "FLAC 24",
-      "notes": "1st Source \u00b7 Onkyo Tx-nr609"
+      "notes": "1st Source · Onkyo Tx-nr609"
     },
     {
       "year": 2011,
@@ -7507,7 +7507,7 @@ const ARTIST_DATA = {
       "venue": "Letzigrund Station",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Rougefm \u00b7 2nd Source"
+      "notes": "Rougefm · 2nd Source"
     },
     {
       "year": 2012,
@@ -7572,7 +7572,7 @@ const ARTIST_DATA = {
       "venue": "Wells Fargo Center",
       "version": "AMT",
       "format": "DVD",
-      "notes": "Unknown \u00b7 Mark Suffolk"
+      "notes": "Unknown · Mark Suffolk"
     },
     {
       "year": 2012,
@@ -7910,7 +7910,7 @@ const ARTIST_DATA = {
       "venue": "Beacon Theatre",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "9pm Show \u00b7 Tapehead2"
+      "notes": "9pm Show · Tapehead2"
     },
     {
       "year": 2014,
@@ -8066,7 +8066,7 @@ const ARTIST_DATA = {
       "venue": "Ace Hotel",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Wxrt 93.1 \u00b7 1st Source"
+      "notes": "Wxrt 93.1 · 1st Source"
     },
     {
       "year": 2014,
@@ -8079,7 +8079,7 @@ const ARTIST_DATA = {
       "venue": "Ace Hotel",
       "version": "FM",
       "format": "FLAC",
-      "notes": "KROQ \u00b7 2nd Source"
+      "notes": "KROQ · 2nd Source"
     },
     {
       "year": 2014,
@@ -8209,7 +8209,7 @@ const ARTIST_DATA = {
       "venue": "Estadio Unico de la Plata",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Day 1 \u00b7 Ariel Regina"
+      "notes": "Day 1 · Ariel Regina"
     },
     {
       "year": 2016,
@@ -8222,7 +8222,7 @@ const ARTIST_DATA = {
       "venue": "Estadio Unico de la Plata",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Day 2 \u00b7 Ariel Regina"
+      "notes": "Day 2 · Ariel Regina"
     },
     {
       "year": 2016,
@@ -8781,7 +8781,7 @@ const ARTIST_DATA = {
       "venue": "Nova's Red Room",
       "version": "WEB",
       "format": "FLAC",
-      "notes": "Acoustic Set \u00b7 Lowlight10"
+      "notes": "Acoustic Set · Lowlight10"
     },
     {
       "year": 2016,
@@ -9145,7 +9145,7 @@ const ARTIST_DATA = {
       "venue": "Estadio Unico",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "La Plata \u00b7 Zoom H1"
+      "notes": "La Plata · Zoom H1"
     },
     {
       "year": 2017,
@@ -9158,7 +9158,7 @@ const ARTIST_DATA = {
       "venue": "Estadio Unico",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "La Plata \u00b7 Zoom H1"
+      "notes": "La Plata · Zoom H1"
     },
     {
       "year": 2019,
@@ -9262,7 +9262,7 @@ const ARTIST_DATA = {
       "venue": "Radio 1's Big Weekend, Whitby Abbey, Whitby",
       "version": "Webcast",
       "format": "TS",
-      "notes": "540p50 \u00b7 Indykid"
+      "notes": "540p50 · Indykid"
     },
     {
       "year": 2021,
@@ -9314,7 +9314,7 @@ const ARTIST_DATA = {
       "venue": "Deutsche Bank Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Samsung Galaxy A52 \u00b7 Dm2zzion \u00b7 Nanka Remaster"
+      "notes": "Samsung Galaxy A52 · Dm2zzion · Nanka Remaster"
     },
     {
       "year": 2022,
@@ -9327,7 +9327,7 @@ const ARTIST_DATA = {
       "venue": "Olympiastadion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11 \u00b7 W."
+      "notes": "Ca-11 · W."
     },
     {
       "year": 2022,
@@ -9340,7 +9340,7 @@ const ARTIST_DATA = {
       "venue": "Olympiastadion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061SG \u00b7 Oni"
+      "notes": "DPA 4061SG · Oni"
     },
     {
       "year": 2022,
@@ -9353,7 +9353,7 @@ const ARTIST_DATA = {
       "venue": "Stade de France",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 One8ung"
+      "notes": "DPA 4061 · One8ung"
     },
     {
       "year": 2022,
@@ -9366,7 +9366,7 @@ const ARTIST_DATA = {
       "venue": "Stade de France",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 Unknown"
+      "notes": "SP-CMC-2 · Unknown"
     },
     {
       "year": 2022,
@@ -9379,7 +9379,7 @@ const ARTIST_DATA = {
       "venue": "Stade de France",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "DPA 4061+IEM \u00b7 0ne8ung"
+      "notes": "DPA 4061+IEM · 0ne8ung"
     },
     {
       "year": 2022,
@@ -9392,7 +9392,7 @@ const ARTIST_DATA = {
       "venue": "Stade de France",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 Unknown"
+      "notes": "SP-CMC-2 · Unknown"
     },
     {
       "year": 2022,
@@ -9405,7 +9405,7 @@ const ARTIST_DATA = {
       "venue": "Estadio Nacional",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Rolandx"
+      "notes": "SP-CMC-8 · Rolandx"
     },
     {
       "year": 2022,
@@ -9418,7 +9418,7 @@ const ARTIST_DATA = {
       "venue": "Estadio Nacional",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Iphone Xr \u00b7 Mxyloto"
+      "notes": "Iphone Xr · Mxyloto"
     },
     {
       "year": 2022,
@@ -9444,7 +9444,7 @@ const ARTIST_DATA = {
       "venue": "Estadio Nacional",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Iphone Xr \u00b7 Mxyloto"
+      "notes": "Iphone Xr · Mxyloto"
     },
     {
       "year": 2022,
@@ -9535,7 +9535,7 @@ const ARTIST_DATA = {
       "venue": "Johan Cruijff Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Tascam Dr-2d \u00b7 Dorenberg"
+      "notes": "Tascam Dr-2d · Dorenberg"
     },
     {
       "year": 2023,
@@ -9548,7 +9548,7 @@ const ARTIST_DATA = {
       "venue": "Johan Cruijff Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 One8ung"
+      "notes": "DPA 4061 · One8ung"
     },
     {
       "year": 2023,
@@ -9561,7 +9561,7 @@ const ARTIST_DATA = {
       "venue": "Tokyo Dome *Half Sphere",
       "version": "IEM",
       "format": "FLAC",
-      "notes": "IEM \u00b7 Metamarc"
+      "notes": "IEM · Metamarc"
     },
     {
       "year": 2023,
@@ -9574,7 +9574,7 @@ const ARTIST_DATA = {
       "venue": "Optus Stadium",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Zoom Iq6 \u00b7 Lamla999"
+      "notes": "Zoom Iq6 · Lamla999"
     },
     {
       "year": 2024,
@@ -9587,7 +9587,7 @@ const ARTIST_DATA = {
       "venue": "National Stadium",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Soundman Okm Ii \u00b7 K.c."
+      "notes": "Soundman Okm Ii · K.c."
     },
     {
       "year": 2024,
@@ -9626,7 +9626,7 @@ const ARTIST_DATA = {
       "venue": "Merkur Spiel Arena",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps CCM 4L \u00b7 Metamarc"
+      "notes": "Schoeps CCM 4L · Metamarc"
     },
     {
       "year": 2024,
@@ -9639,7 +9639,7 @@ const ARTIST_DATA = {
       "venue": "Merkur Spiel-Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Tascam Dr-2d \u00b7 0ne8ung"
+      "notes": "Tascam Dr-2d · 0ne8ung"
     },
     {
       "year": 2024,
@@ -9652,7 +9652,7 @@ const ARTIST_DATA = {
       "venue": "Merkur Spiel Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA4061SGs \u00b7 Grigio"
+      "notes": "DPA4061SGs · Grigio"
     },
     {
       "year": 2024,
@@ -9665,7 +9665,7 @@ const ARTIST_DATA = {
       "venue": "Merkur-Spiel Arena",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "DPA 4061+Sennheiser EK 2000 \u00b7 Unknown"
+      "notes": "DPA 4061+Sennheiser EK 2000 · Unknown"
     },
     {
       "year": 2024,
@@ -9678,7 +9678,7 @@ const ARTIST_DATA = {
       "venue": "Merkur Spiel Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-25 \u00b7 Unknown"
+      "notes": "SP-CMC-25 · Unknown"
     },
     {
       "year": 2024,
@@ -9691,7 +9691,7 @@ const ARTIST_DATA = {
       "venue": "Eden Park",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14 \u00b7 Losslessjoel"
+      "notes": "Ca-14 · Losslessjoel"
     },
     {
       "year": 2025,
@@ -9704,7 +9704,7 @@ const ARTIST_DATA = {
       "venue": "Rogers Stadium",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Iphone 16 Pro \u00b7 Palm0014"
+      "notes": "Iphone 16 Pro · Palm0014"
     },
     {
       "year": 2025,
@@ -9717,7 +9717,7 @@ const ARTIST_DATA = {
       "venue": "Gillette Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT943 \u00b7 Tapehead2"
+      "notes": "AT943 · Tapehead2"
     },
     {
       "year": 2025,
@@ -9730,7 +9730,7 @@ const ARTIST_DATA = {
       "venue": "Nissan Stadium",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-8u \u00b7 Unknown"
+      "notes": "SP-CMC-8u · Unknown"
     },
     {
       "year": 2025,
@@ -9743,7 +9743,7 @@ const ARTIST_DATA = {
       "venue": "Wembley Stadium",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DPA 4061 \u00b7 0ne8ung"
+      "notes": "DPA 4061 · 0ne8ung"
     }
   ],
   "misc": [
@@ -9851,438 +9851,6 @@ const ARTIST_DATA = {
       "type": "label",
       "label": "Coldplay - Paradise (Fedde Le Grand Remix)",
       "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[SINGLES]"
-    },
-    {
-      "type": "label",
-      "label": "1998 - Ode To Deodorant (Demo tape)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2000 - Shiver",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2000 - Trouble",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2000 - Yellow (7243 8 89201 2 4)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2001 - Don`t Panic",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2002 - In My Place (7243 5 51126 2 0)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2002 - The Scientist",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2003 - Clocks (Japan)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2003 - Clocks (UK)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2003 - God Put A Smile Upon Your Face (Australia)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2005 - Fix You",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2005 - Speed of Sound",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2005 - Talk (Australian CDS)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2005 - Talk (Remixes)  US, Capitol CDR acetate)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2005 - Talk (Remixes)(US,_DPRO_0946_3_54897_2_9)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2005 - Talk [3 CD Special Edition] [Holland]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2006 - The Hardest Part",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2006 - The Hardest Part (Tom Lord-Alge Mix) [US, DPRO 0946 3 63786 2 6]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2006 - What If",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2008 - Life In Technicolor II",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2008 - Lost! (US Promo CDS)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2008 - Lovers In Japan (Osaka Sun Mix) [US, 50999 2 66019 2 2]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2008 - Violet Hill",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2008 - Violet Hill (7inch free with NME 7th May 2008)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2008 - Violet Hill (Promo CD)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2008 - Viva La Vida (Promo CD)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2008 - Viva La Vida [EU, 50999 2 35872 2 9]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2009 - Strawberry Swing (CD Single)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2010 - Christmas Lights",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2011 - Every Teardrop Is A Waterfall (CDS)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2012 - Charlie Brown (CDS)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2017 - A L I E N S",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2017 - The Chainsmokers & Coldplay - Something Just Like This (Remix Pack)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2017 - All I Can Think About Is You",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2017 - Hypnotised",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2017 - Something Just Like This (Tokyo Remix)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2017 - The Chainsmokers & Coldplay - Something Just Like This",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2019 - Orphans Arabesque",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2020 - Champion Of The World (Live at NPR's Tiny Desk (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2020 - Flags (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2020 - Champion Of The World (Live at NPR's Tiny Desk) (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2021 - Higher Power (24/44.1)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2021 - Higher Power (Acoustic Version) (24/48)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2021 - Higher Power (Tie?sto Remix) (24/48)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2021 - Higher Power (ZHU Remix) (24/44.1)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL RELEASES]"
-    },
-    {
-      "type": "label",
-      "label": "1998 Coldplay - Safety EP",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1999 Coldplay - Brothers & Sisters (EP)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1999 Coldplay - The Blue Room EP",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2000 Coldplay - Acoustic (Promo CD with The Independent)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2000 Coldplay - Parachutes (7243 5 27783 2 4)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2001 Coldplay - Trouble - Norwegian Live EP",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2002 Coldplay - A Rush of Blood to the Head (7243 5 40504 2 8)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2002 Coldplay - A Rush of Blood to the Head (HDTracks) (24/192)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2003 Coldplay - A Rush Of B-Sides To Your Head (7 24358 05682 2)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2003 Coldplay - Clocks (Special Edition)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2003 Coldplay - Live 2003",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2005 Coldplay - X&Y (CDP 7243 4 74786 2 8)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2005 Coldplay - X&Y (Special Edition) (TOCP 66523) Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2008 Coldplay - Prospekt's March [FLAC]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2008 Coldplay - Viva la Vida or Death and All His Friends (2009, Prospekt's March Edition (Japanese Edition), TOCP-66851?52)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2009 Coldplay - Greatest Hits (22846 1/2)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2011 Coldplay - Mylo Xyloto (Japan Edition) (TOCP 71200)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2012 Coldplay - Live 2012",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2012 Coldplay Ft. Rihanna - Princess Of China (Promo CD)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2014 Coldplay - Ghost Stories (Deluxe Edition)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2014 Coldplay - Ghost Stories (Instrumentals)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2014 Coldplay - Ghost Stories Live 2014 (825646206070)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2014 Coldplay - Midnight (Remixes)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2015 Coldplay - A Head Full Of Dreams (Japan Edition)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2017 Coldplay - A Head Full Of Dreams (Japan Tour Edition)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2017 Coldplay - Kaleidoscope EP",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2018 Coldplay - Live In Buenos Aires",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2019 Coldplay - Everyday Life (Japan Edition) (WPCR 18287)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[HD RELEASES]"
-    },
-    {
-      "type": "label",
-      "label": "2000 Coldplay - Parachutes (2016) (24/192)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2005 Coldplay - X&Y (24/192)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2008 Coldplay - Viva La Vida (Prospekt's March Edition) (24/44.1)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2008 Coldplay - Viva la Vida or Death And All His Friends (24/44.1)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2014 Coldplay - Ghost Stories (24/44.1)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2015 Coldplay - A Head Full of Dreams (24/192)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2016 Coldplay - Prospekt's March EP (24/44.1)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2017 Coldplay - Kaleidoscope EP (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2018 Coldplay - Live In Buenos Aires (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2019 Coldplay - Everyday Life (24/48)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2019 Coldplay - Everyday Life (Explicit) (24/96)",
-      "format": "FLAC HD"
     }
   ]
 };

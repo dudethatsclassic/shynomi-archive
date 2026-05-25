@@ -229,7 +229,7 @@ const ARTIST_DATA = {
       "venue": "Municipal Auditorium",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Inc \u00b7 Dolphinsmile"
+      "notes": "Inc · Dolphinsmile"
     },
     {
       "year": 1976,
@@ -386,16 +386,8 @@ const ARTIST_DATA = {
       "format": "SHN"
     },
     {
-      "type": "show",
-      "dateStr": "XX-XX-1987",
-      "year": 1987,
-      "month": null,
-      "day": null,
-      "city": "Real Cuts at Last",
-      "state": "",
-      "location": "Real Cuts at Last",
-      "venue": "",
-      "notes": "",
+      "type": "release",
+      "label": "XX-XX-1987 / Real Cuts at Last",
       "version": "Vinyl",
       "format": "FLAC"
     },

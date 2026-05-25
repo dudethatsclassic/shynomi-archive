@@ -60,7 +60,7 @@ const ARTIST_DATA = {
       "venue": "Crocodile Cafe - CASS",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Aiwa"
+      "notes": "M · Aiwa"
     },
     {
       "year": 1994,
@@ -107,25 +107,6 @@ const ARTIST_DATA = {
       "type": "label",
       "label": "Sonic Evolution with Mad Season - Seattle Symphony",
       "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL RELEASES]"
-    },
-    {
-      "type": "label",
-      "label": "Mad Season - Above (CK 67057) (1995)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Mad Season - Above (Deluxe Edition) (2013) (24/48)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Mad Season - Sonic Evolution (2015)",
-      "format": "FLAC"
     }
   ]
 };

@@ -152,7 +152,7 @@ const ARTIST_DATA = {
       "venue": "Old Waldorf *Night of the Rivvit Heads",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Ms500 \u00b7 Source 6"
+      "notes": "Ms500 · Source 6"
     },
     {
       "year": 1982,
@@ -256,7 +256,7 @@ const ARTIST_DATA = {
       "venue": "L'Ampour *Dave Mustaine's last show",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Realistic Mic \u00b7 Dave Jr."
+      "notes": "Realistic Mic · Dave Jr."
     },
     {
       "year": 1983,
@@ -373,7 +373,7 @@ const ARTIST_DATA = {
       "venue": "Broadway Jack's",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Early Show \u00b7 Unknown"
+      "notes": "Early Show · Unknown"
     },
     {
       "year": 1983,
@@ -386,7 +386,7 @@ const ARTIST_DATA = {
       "venue": "Broadway Jack's",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Late show \u00b7 Unknown"
+      "notes": "Late show · Unknown"
     },
     {
       "year": 1983,
@@ -490,7 +490,7 @@ const ARTIST_DATA = {
       "venue": "Escape Ballard",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Ranskal Transfer \u00b7 Source 2"
+      "notes": "Ranskal Transfer · Source 2"
     },
     {
       "year": 1984,
@@ -646,7 +646,7 @@ const ARTIST_DATA = {
       "venue": "Espace Ballard",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ranskal Transfer \u00b7 Source 2"
+      "notes": "Ranskal Transfer · Source 2"
     },
     {
       "year": 1984,
@@ -659,7 +659,7 @@ const ARTIST_DATA = {
       "venue": "Espace Ballard",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Stephane D. \u00b7 Source 3"
+      "notes": "Stephane D. · Source 3"
     },
     {
       "year": 1984,
@@ -724,7 +724,7 @@ const ARTIST_DATA = {
       "venue": "Theatre de Verdure",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 1 \u00b7 Unknown"
+      "notes": "Source 1 · Unknown"
     },
     {
       "year": 1984,
@@ -750,7 +750,7 @@ const ARTIST_DATA = {
       "venue": "Elzer Hof",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 - Cee4 \u00b7 Vinyl-sourced"
+      "notes": "Source 2 - Cee4 · Vinyl-sourced"
     },
     {
       "year": 1984,
@@ -971,7 +971,7 @@ const ARTIST_DATA = {
       "venue": "L'Amour",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Bubba420 Transfer"
+      "notes": "Unknown · Bubba420 Transfer"
     },
     {
       "year": 1985,
@@ -997,7 +997,7 @@ const ARTIST_DATA = {
       "venue": "Sherwood Country Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Jeff S. Transfer"
+      "notes": "Unknown · Jeff S. Transfer"
     },
     {
       "year": 1985,
@@ -1010,7 +1010,7 @@ const ARTIST_DATA = {
       "venue": "Royal Oak Music Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D6 \u00b7 Unknown"
+      "notes": "Sony D6 · Unknown"
     },
     {
       "year": 1985,
@@ -1049,7 +1049,7 @@ const ARTIST_DATA = {
       "venue": "Grand Central Station",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa Tps30 \u00b7 Greg Anderson"
+      "notes": "Aiwa Tps30 · Greg Anderson"
     },
     {
       "year": 1985,
@@ -1140,7 +1140,7 @@ const ARTIST_DATA = {
       "venue": "Ruthie's Inn",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Secret Gig Billed As The Four Horsemen \u00b7 Unknown"
+      "notes": "Secret Gig Billed As The Four Horsemen · Unknown"
     },
     {
       "year": 1985,
@@ -1231,7 +1231,7 @@ const ARTIST_DATA = {
       "venue": "Cobo Arena",
       "version": "AUD",
       "format": "DVD",
-      "notes": "Otto W. \u00b7 Rzk"
+      "notes": "Otto W. · Rzk"
     },
     {
       "year": 1986,
@@ -1504,7 +1504,7 @@ const ARTIST_DATA = {
       "venue": "Pine Knob Music Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D6 \u00b7 Dave _jr"
+      "notes": "Sony D6 · Dave _jr"
     },
     {
       "year": 1986,
@@ -1634,7 +1634,7 @@ const ARTIST_DATA = {
       "venue": "City Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony WMD6 \u00b7 Nelly-duke"
+      "notes": "Sony WMD6 · Nelly-duke"
     },
     {
       "year": 1986,
@@ -1712,7 +1712,7 @@ const ARTIST_DATA = {
       "venue": "Solnahallen",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1st Gen \u00b7 Per-erik"
+      "notes": "1st Gen · Per-erik"
     },
     {
       "year": 1986,
@@ -1829,7 +1829,7 @@ const ARTIST_DATA = {
       "venue": "Mid-Hudson Civic Center",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Source 2 - }{eywood \u00b7 Koondog"
+      "notes": "Source 2 - }{eywood · Koondog"
     },
     {
       "year": 1986,
@@ -2011,7 +2011,7 @@ const ARTIST_DATA = {
       "venue": "Markthalle *Masters of Evil",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "LP \u00b7 1st Night"
+      "notes": "LP · 1st Night"
     },
     {
       "year": 1987,
@@ -2128,7 +2128,7 @@ const ARTIST_DATA = {
       "venue": "100 Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Secret Gig Played As \"damage, Inc\" \u00b7 Koondog"
+      "notes": "Secret Gig Played As \"damage, Inc\" · Koondog"
     },
     {
       "year": 1987,
@@ -2141,7 +2141,7 @@ const ARTIST_DATA = {
       "venue": "1987 M.O.R.",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Marantz Em-8 \u00b7 Master"
+      "notes": "Marantz Em-8 · Master"
     },
     {
       "year": 1987,
@@ -2245,7 +2245,7 @@ const ARTIST_DATA = {
       "venue": "Three Rivers Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa Portable \u00b7 Magnetic_media"
+      "notes": "Aiwa Portable · Magnetic_media"
     },
     {
       "year": 1988,
@@ -2258,7 +2258,7 @@ const ARTIST_DATA = {
       "venue": "Pontiac Silverdome",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D6 \u00b7 Dave_jr"
+      "notes": "Sony D6 · Dave_jr"
     },
     {
       "year": 1988,
@@ -2297,7 +2297,7 @@ const ARTIST_DATA = {
       "venue": "Hoosierdome",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-3 Pro \u00b7 The Govner"
+      "notes": "Sony D-3 Pro · The Govner"
     },
     {
       "year": 1988,
@@ -2310,7 +2310,7 @@ const ARTIST_DATA = {
       "venue": "Candlestick Park",
       "version": "AUD",
       "format": "DVD",
-      "notes": "2nd Gen \u00b7 Thomas Biglow"
+      "notes": "2nd Gen · Thomas Biglow"
     },
     {
       "year": 1988,
@@ -2531,7 +2531,7 @@ const ARTIST_DATA = {
       "venue": "Westfalenhalle",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM-30A \u00b7 Haki Reumont"
+      "notes": "Aiwa CM-30A · Haki Reumont"
     },
     {
       "year": 1988,
@@ -2557,7 +2557,7 @@ const ARTIST_DATA = {
       "venue": "Sports Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-3 Pro \u00b7 The Govner"
+      "notes": "Sony D-3 Pro · The Govner"
     },
     {
       "year": 1988,
@@ -2609,7 +2609,7 @@ const ARTIST_DATA = {
       "venue": "Market Square Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-3 Pro \u00b7 The Govner"
+      "notes": "Sony D-3 Pro · The Govner"
     },
     {
       "year": 1988,
@@ -2687,7 +2687,7 @@ const ARTIST_DATA = {
       "venue": "Cow Palace",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D3 \u00b7 Karl Lundmark"
+      "notes": "Sony D3 · Karl Lundmark"
     },
     {
       "year": 1988,
@@ -2700,7 +2700,7 @@ const ARTIST_DATA = {
       "venue": "Arco Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM-30A \u00b7 Karl Lundmark"
+      "notes": "Aiwa CM-30A · Karl Lundmark"
     },
     {
       "year": 1988,
@@ -2726,7 +2726,7 @@ const ARTIST_DATA = {
       "venue": "The Omni *Spastik Children",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM30a \u00b7 Karl Lundmark"
+      "notes": "Aiwa CM30a · Karl Lundmark"
     },
     {
       "year": 1989,
@@ -2921,7 +2921,7 @@ const ARTIST_DATA = {
       "venue": "Civic Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony Walkman WM-F46 \u00b7 Jojogunne"
+      "notes": "Sony Walkman WM-F46 · Jojogunne"
     },
     {
       "year": 1989,
@@ -2973,7 +2973,7 @@ const ARTIST_DATA = {
       "venue": "Civic Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony WMD6 \u00b7 Tmt"
+      "notes": "Sony WMD6 · Tmt"
     },
     {
       "year": 1989,
@@ -3025,7 +3025,7 @@ const ARTIST_DATA = {
       "venue": "Hara Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-3 Pro Walkman \u00b7 The Govner"
+      "notes": "Sony D-3 Pro Walkman · The Govner"
     },
     {
       "year": 1989,
@@ -3090,7 +3090,7 @@ const ARTIST_DATA = {
       "venue": "DECC Arena",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sony WMD6 \u00b7 Jf"
+      "notes": "Sony WMD6 · Jf"
     },
     {
       "year": 1989,
@@ -3116,7 +3116,7 @@ const ARTIST_DATA = {
       "venue": "Allen County Expo Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-3 Pro Walkman \u00b7 The Govner"
+      "notes": "Sony D-3 Pro Walkman · The Govner"
     },
     {
       "year": 1988,
@@ -3129,7 +3129,7 @@ const ARTIST_DATA = {
       "venue": "Deer Creek",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-3 Pro Walkman \u00b7 The Govner"
+      "notes": "Sony D-3 Pro Walkman · The Govner"
     },
     {
       "year": 1989,
@@ -3194,7 +3194,7 @@ const ARTIST_DATA = {
       "venue": "Fairgrounds",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps CCM441 \u00b7 ted mattes"
+      "notes": "Schoeps CCM441 · ted mattes"
     },
     {
       "year": 1989,
@@ -3233,7 +3233,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM30a \u00b7 Karl Lundmark"
+      "notes": "Aiwa CM30a · Karl Lundmark"
     },
     {
       "year": 1989,
@@ -3246,7 +3246,7 @@ const ARTIST_DATA = {
       "venue": "Cal Expo Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM 30a \u00b7 Karl Lundmark"
+      "notes": "Aiwa CM 30a · Karl Lundmark"
     },
     {
       "year": 1989,
@@ -3285,7 +3285,7 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM 30a \u00b7 Karl Lundmark"
+      "notes": "Aiwa CM 30a · Karl Lundmark"
     },
     {
       "year": 1989,
@@ -3324,7 +3324,7 @@ const ARTIST_DATA = {
       "venue": "Gina?sio Estadual Geraldo Jose? De Almeida",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Bubba420"
+      "notes": "Source 2 · Bubba420"
     },
     {
       "year": 1990,
@@ -3337,7 +3337,7 @@ const ARTIST_DATA = {
       "venue": "Westfallenhalle",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Realistic P2m \u00b7 Bubba420"
+      "notes": "Realistic P2m · Bubba420"
     },
     {
       "year": 1990,
@@ -3363,7 +3363,7 @@ const ARTIST_DATA = {
       "venue": "Groenoordhallen",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Realistic P2m \u00b7 Stephane"
+      "notes": "Realistic P2m · Stephane"
     },
     {
       "year": 1990,
@@ -3376,7 +3376,7 @@ const ARTIST_DATA = {
       "venue": "Palais Omnisport de Bercy",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sony WMD6 \u00b7 Tommy G"
+      "notes": "Sony WMD6 · Tommy G"
     },
     {
       "year": 1990,
@@ -3480,7 +3480,7 @@ const ARTIST_DATA = {
       "venue": "Hasselt Airfield",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM30a \u00b7 Stephane"
+      "notes": "Aiwa CM30a · Stephane"
     },
     {
       "year": 1991,
@@ -3493,7 +3493,7 @@ const ARTIST_DATA = {
       "venue": "Niedersachsenstadion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Jeff S."
+      "notes": "Unknown · Jeff S."
     },
     {
       "year": 1991,
@@ -3545,7 +3545,7 @@ const ARTIST_DATA = {
       "venue": "Westfallenhalle",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony WMD3 \u00b7 1st Night \u00b7 Stephane"
+      "notes": "Sony WMD3 · 1st Night · Stephane"
     },
     {
       "year": 1991,
@@ -3558,7 +3558,7 @@ const ARTIST_DATA = {
       "venue": "Westfallenhalle *Welcome Home",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Glr 9228"
+      "notes": "2nd Night · Glr 9228"
     },
     {
       "year": 1991,
@@ -3571,7 +3571,7 @@ const ARTIST_DATA = {
       "venue": "Hippodrome de Vincennes",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sony D7 \u00b7 Stephane"
+      "notes": "Sony D7 · Stephane"
     },
     {
       "year": 1991,
@@ -3610,7 +3610,7 @@ const ARTIST_DATA = {
       "venue": "Dane County Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Jeff S."
+      "notes": "Unknown · Jeff S."
     },
     {
       "year": 1991,
@@ -3662,7 +3662,7 @@ const ARTIST_DATA = {
       "venue": "The Palace of Auburn Hills",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Sony DX2-13 \u00b7 Dave Jr. Master"
+      "notes": "Sony DX2-13 · Dave Jr. Master"
     },
     {
       "year": 1991,
@@ -3701,7 +3701,7 @@ const ARTIST_DATA = {
       "venue": "Five Seasons Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Jeff S."
+      "notes": "Unknown · Jeff S."
     },
     {
       "year": 1991,
@@ -3714,7 +3714,7 @@ const ARTIST_DATA = {
       "venue": "Brown County Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Belexes"
+      "notes": "Unknown · Belexes"
     },
     {
       "year": 1991,
@@ -3753,7 +3753,7 @@ const ARTIST_DATA = {
       "venue": "Market Square Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D3 DATman \u00b7 The Govner"
+      "notes": "Sony D3 DATman · The Govner"
     },
     {
       "year": 1991,
@@ -3805,7 +3805,7 @@ const ARTIST_DATA = {
       "venue": "Horizon",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Jeff S."
+      "notes": "Unknown · Jeff S."
     },
     {
       "year": 1991,
@@ -3818,7 +3818,7 @@ const ARTIST_DATA = {
       "venue": "Horizon",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Jeff S."
+      "notes": "Unknown · Jeff S."
     },
     {
       "year": 1991,
@@ -3857,7 +3857,7 @@ const ARTIST_DATA = {
       "venue": "Thomas Mack Center",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Aiwa CM30a \u00b7 Dennis Fuller"
+      "notes": "Aiwa CM30a · Dennis Fuller"
     },
     {
       "year": 1992,
@@ -3870,7 +3870,7 @@ const ARTIST_DATA = {
       "venue": "L.A. Forum",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Aiwa CM30a \u00b7 1st Night \u00b7 Dennis Fuller"
+      "notes": "Aiwa CM30a · 1st Night · Dennis Fuller"
     },
     {
       "year": 1992,
@@ -3883,7 +3883,7 @@ const ARTIST_DATA = {
       "venue": "L.A. Forum",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Aiwa CM30a \u00b7 2nd Night \u00b7 Karl Lundmark"
+      "notes": "Aiwa CM30a · 2nd Night · Karl Lundmark"
     },
     {
       "year": 1992,
@@ -3896,7 +3896,7 @@ const ARTIST_DATA = {
       "venue": "Arco Arena",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Aiwa CM30a \u00b7 1st Night \u00b7 Karl Lundmark"
+      "notes": "Aiwa CM30a · 1st Night · Karl Lundmark"
     },
     {
       "year": 1992,
@@ -3922,7 +3922,7 @@ const ARTIST_DATA = {
       "venue": "Arco Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Nakamichi CM300 \u00b7 Markp"
+      "notes": "Nakamichi CM300 · Markp"
     },
     {
       "year": 1992,
@@ -4052,7 +4052,7 @@ const ARTIST_DATA = {
       "venue": "Brendan Byrne Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony WMD3 \u00b7 Meadowlands \u00b7 Koondog"
+      "notes": "Sony WMD3 · Meadowlands · Koondog"
     },
     {
       "year": 1992,
@@ -4065,7 +4065,7 @@ const ARTIST_DATA = {
       "venue": "Broome County Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony WMD3 \u00b7 Koondog"
+      "notes": "Sony WMD3 · Koondog"
     },
     {
       "year": 1992,
@@ -4091,7 +4091,7 @@ const ARTIST_DATA = {
       "venue": "Cow Palace",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM30a \u00b7 Karl Lundmark"
+      "notes": "Aiwa CM30a · Karl Lundmark"
     },
     {
       "year": 1992,
@@ -4104,7 +4104,7 @@ const ARTIST_DATA = {
       "venue": "Bison Sports Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony WM-D3 \u00b7 Nikki Sixx Transfer"
+      "notes": "Sony WM-D3 · Nikki Sixx Transfer"
     },
     {
       "year": 1992,
@@ -4117,7 +4117,7 @@ const ARTIST_DATA = {
       "venue": "Bison Sports Arena - AUD(1)",
       "version": "AUD",
       "format": "DVD",
-      "notes": "Phantom Lord-rzk-skymaster \u00b7 2nd Source"
+      "notes": "Phantom Lord-rzk-skymaster · 2nd Source"
     },
     {
       "year": 1992,
@@ -4130,7 +4130,7 @@ const ARTIST_DATA = {
       "venue": "Pacific Coliseum",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sony ECM PC-62 \u00b7 audioarchivist"
+      "notes": "Sony ECM PC-62 · audioarchivist"
     },
     {
       "year": 1992,
@@ -4195,7 +4195,7 @@ const ARTIST_DATA = {
       "venue": "Buckeye Lake",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D3 Walkman \u00b7 The Govner"
+      "notes": "Sony D3 Walkman · The Govner"
     },
     {
       "year": 1992,
@@ -4208,7 +4208,7 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D3 Walkman \u00b7 The Govner"
+      "notes": "Sony D3 Walkman · The Govner"
     },
     {
       "year": 1992,
@@ -4247,7 +4247,7 @@ const ARTIST_DATA = {
       "venue": "Robert F. Kennedy Memorial Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1G \u00b7 Kk"
+      "notes": "1G · Kk"
     },
     {
       "year": 1992,
@@ -4260,7 +4260,7 @@ const ARTIST_DATA = {
       "venue": "RFK Stadium",
       "version": "PRO",
       "format": "DVD",
-      "notes": "30th Anniversary The Metallica Black Box \u00b7 Ancient Mariner"
+      "notes": "30th Anniversary The Metallica Black Box · Ancient Mariner"
     },
     {
       "year": 1992,
@@ -4273,7 +4273,7 @@ const ARTIST_DATA = {
       "venue": "The HoosierDome",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D3 Walkman \u00b7 Inc \u00b7 The Govner"
+      "notes": "Sony D3 Walkman · Inc · The Govner"
     },
     {
       "year": 1992,
@@ -4286,7 +4286,7 @@ const ARTIST_DATA = {
       "venue": "Giants Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D3 \u00b7 Koondog"
+      "notes": "Sony D3 · Koondog"
     },
     {
       "year": 1992,
@@ -4312,7 +4312,7 @@ const ARTIST_DATA = {
       "venue": "Alameda Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM30a \u00b7 Karl Lundmark"
+      "notes": "Aiwa CM30a · Karl Lundmark"
     },
     {
       "year": 1992,
@@ -4325,7 +4325,7 @@ const ARTIST_DATA = {
       "venue": "Oakland Coliseum",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony mic \u00b7 Steve Hagar"
+      "notes": "Sony mic · Steve Hagar"
     },
     {
       "year": 1992,
@@ -4351,7 +4351,7 @@ const ARTIST_DATA = {
       "venue": "Sports Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM30a \u00b7 Karl Lundmark"
+      "notes": "Aiwa CM30a · Karl Lundmark"
     },
     {
       "year": 1992,
@@ -4390,7 +4390,7 @@ const ARTIST_DATA = {
       "venue": "Rose Bowl",
       "version": "PRO",
       "format": "DVD",
-      "notes": "30th Anniversary The Metallica Black Box \u00b7 Ancient Mariner"
+      "notes": "30th Anniversary The Metallica Black Box · Ancient Mariner"
     },
     {
       "year": 1992,
@@ -4481,7 +4481,7 @@ const ARTIST_DATA = {
       "venue": "Palais de Bercy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM30a \u00b7 Stephane"
+      "notes": "Aiwa CM30a · Stephane"
     },
     {
       "year": 1992,
@@ -4533,7 +4533,7 @@ const ARTIST_DATA = {
       "venue": "Hanns-Martin-Schleyer Halle",
       "version": "PRO",
       "format": "DVD",
-      "notes": "30th Anniversary The Metallica Black Box \u00b7 Ancient Mariner"
+      "notes": "30th Anniversary The Metallica Black Box · Ancient Mariner"
     },
     {
       "year": 1992,
@@ -4598,7 +4598,7 @@ const ARTIST_DATA = {
       "venue": "Forum",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "mats.l \u00b7 2nd Gen"
+      "notes": "mats.l · 2nd Gen"
     },
     {
       "year": 1992,
@@ -4624,7 +4624,7 @@ const ARTIST_DATA = {
       "venue": "Scandivavium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1G \u00b7 Jontebus"
+      "notes": "1G · Jontebus"
     },
     {
       "year": 1993,
@@ -4637,7 +4637,7 @@ const ARTIST_DATA = {
       "venue": "Wings Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-7 \u00b7 The Govner"
+      "notes": "Sony D-7 · The Govner"
     },
     {
       "year": 1993,
@@ -4650,7 +4650,7 @@ const ARTIST_DATA = {
       "venue": "Wings Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "mark lamke \u00b7 B&k 4011s"
+      "notes": "mark lamke · B&k 4011s"
     },
     {
       "year": 1993,
@@ -4663,7 +4663,7 @@ const ARTIST_DATA = {
       "venue": "John F. Savage Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-7 \u00b7 The Govner"
+      "notes": "Sony D-7 · The Govner"
     },
     {
       "year": 1993,
@@ -4715,7 +4715,7 @@ const ARTIST_DATA = {
       "venue": "Wendler Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-7 \u00b7 The Govner"
+      "notes": "Sony D-7 · The Govner"
     },
     {
       "year": 1993,
@@ -4728,7 +4728,7 @@ const ARTIST_DATA = {
       "venue": "E.J. Nutter Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-7 \u00b7 The Govner"
+      "notes": "Sony D-7 · The Govner"
     },
     {
       "year": 1993,
@@ -4741,7 +4741,7 @@ const ARTIST_DATA = {
       "venue": "Freedom Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-7 \u00b7 The Govner"
+      "notes": "Sony D-7 · The Govner"
     },
     {
       "year": 1993,
@@ -4754,7 +4754,7 @@ const ARTIST_DATA = {
       "venue": "Rupp Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-7 \u00b7 The Govner"
+      "notes": "Sony D-7 · The Govner"
     },
     {
       "year": 1993,
@@ -4767,7 +4767,7 @@ const ARTIST_DATA = {
       "venue": "Memorial Auditorium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-7 \u00b7 The Govner"
+      "notes": "Sony D-7 · The Govner"
     },
     {
       "year": 1993,
@@ -4923,7 +4923,7 @@ const ARTIST_DATA = {
       "venue": "Entertainment Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM30a \u00b7 Karl Lundmark"
+      "notes": "Aiwa CM30a · Karl Lundmark"
     },
     {
       "year": 1993,
@@ -4949,7 +4949,7 @@ const ARTIST_DATA = {
       "venue": "Centre Court",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "2nd Source \u00b7 Inc"
+      "notes": "2nd Source · Inc"
     },
     {
       "year": 1993,
@@ -4975,7 +4975,7 @@ const ARTIST_DATA = {
       "venue": "National Tennis Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM-30a \u00b7 Karl Lunkmark"
+      "notes": "Aiwa CM-30a · Karl Lunkmark"
     },
     {
       "year": 1993,
@@ -5014,7 +5014,7 @@ const ARTIST_DATA = {
       "venue": "Lebak Bulus Stadium",
       "version": "PRO",
       "format": "DVD",
-      "notes": "Black Album's 30th Anniversary - The Metallica Black Box \u00b7 Ancient Mariner"
+      "notes": "Black Album's 30th Anniversary - The Metallica Black Box · Ancient Mariner"
     },
     {
       "year": 1993,
@@ -5066,7 +5066,7 @@ const ARTIST_DATA = {
       "venue": "Estadio Palestra Italia",
       "version": "PRO",
       "format": "DVD",
-      "notes": "30th Ann. The Metallica Black Box \u00b7 Ancient Mariner"
+      "notes": "30th Ann. The Metallica Black Box · Ancient Mariner"
     },
     {
       "year": 1993,
@@ -5248,7 +5248,7 @@ const ARTIST_DATA = {
       "venue": "Hippodrome de Vincennes",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM30a \u00b7 Stephane"
+      "notes": "Aiwa CM30a · Stephane"
     },
     {
       "year": 1993,
@@ -5326,7 +5326,7 @@ const ARTIST_DATA = {
       "venue": "Nea Smyrni Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony WM-D3 \u00b7 haris theodoratos"
+      "notes": "Sony WM-D3 · haris theodoratos"
     },
     {
       "year": 1993,
@@ -5352,7 +5352,7 @@ const ARTIST_DATA = {
       "venue": "Park Hayarkon",
       "version": "PRO",
       "format": "DVD",
-      "notes": "Black Album's 30th Anniversary - The Metallica Black Box \u00b7 Ancient Mariner"
+      "notes": "Black Album's 30th Anniversary - The Metallica Black Box · Ancient Mariner"
     },
     {
       "year": 1994,
@@ -5378,7 +5378,7 @@ const ARTIST_DATA = {
       "venue": "Darien Lake Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-7 \u00b7 The Govner"
+      "notes": "Sony D-7 · The Govner"
     },
     {
       "year": 1994,
@@ -5417,7 +5417,7 @@ const ARTIST_DATA = {
       "venue": "Garden State Arts Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D3 \u00b7 Koondog"
+      "notes": "Sony D3 · Koondog"
     },
     {
       "year": 1994,
@@ -5508,7 +5508,7 @@ const ARTIST_DATA = {
       "venue": "Great Woods",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Realistic 33-1052 Tie Clip Mics \u00b7 Mike M."
+      "notes": "Realistic 33-1052 Tie Clip Mics · Mike M."
     },
     {
       "year": 1994,
@@ -5521,7 +5521,7 @@ const ARTIST_DATA = {
       "venue": "Cheshire Fairgrounds",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM 155 \u00b7 Sim Morrell"
+      "notes": "ECM 155 · Sim Morrell"
     },
     {
       "year": 1994,
@@ -5534,7 +5534,7 @@ const ARTIST_DATA = {
       "venue": "Cheshire Fairgrounds",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Jeff S."
+      "notes": "Unknown · Jeff S."
     },
     {
       "year": 1994,
@@ -5625,7 +5625,7 @@ const ARTIST_DATA = {
       "venue": "Orange County Fairgrounds",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "3 Aud Mix \u00b7 Fex"
+      "notes": "3 Aud Mix · Fex"
     },
     {
       "year": 1994,
@@ -5638,7 +5638,7 @@ const ARTIST_DATA = {
       "venue": "Orange County Fairgrounds",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D3 \u00b7 Koondog"
+      "notes": "Sony D3 · Koondog"
     },
     {
       "year": 1994,
@@ -5690,7 +5690,7 @@ const ARTIST_DATA = {
       "venue": "Free Fair",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-7 \u00b7 The Govner"
+      "notes": "Sony D-7 · The Govner"
     },
     {
       "year": 1994,
@@ -5716,7 +5716,7 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 1 \u00b7 Unknown"
+      "notes": "Source 1 · Unknown"
     },
     {
       "year": 1994,
@@ -5729,7 +5729,7 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ss Dsm6 \u00b7 Cruciferous"
+      "notes": "Ss Dsm6 · Cruciferous"
     },
     {
       "year": 1994,
@@ -5768,7 +5768,7 @@ const ARTIST_DATA = {
       "venue": "World Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-7 \u00b7 The Govner"
+      "notes": "Sony D-7 · The Govner"
     },
     {
       "year": 1994,
@@ -5833,7 +5833,7 @@ const ARTIST_DATA = {
       "venue": "Cal Expo",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Aiwa CM30a \u00b7 Karl Lundmark"
+      "notes": "Aiwa CM30a · Karl Lundmark"
     },
     {
       "year": 1994,
@@ -5846,7 +5846,7 @@ const ARTIST_DATA = {
       "venue": "Cal Expo",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ss-dsm-6p \u00b7 Steve Hagar"
+      "notes": "Ss-dsm-6p · Steve Hagar"
     },
     {
       "year": 1994,
@@ -5859,7 +5859,7 @@ const ARTIST_DATA = {
       "venue": "Cal Expo Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1G \u00b7 R. Huizinga"
+      "notes": "1G · R. Huizinga"
     },
     {
       "year": 1994,
@@ -5872,7 +5872,7 @@ const ARTIST_DATA = {
       "venue": "GH Blockbuster Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 1 \u00b7 Unknown"
+      "notes": "Source 1 · Unknown"
     },
     {
       "year": 1994,
@@ -5885,7 +5885,7 @@ const ARTIST_DATA = {
       "venue": "Blockbuster Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ss-dsm-6p \u00b7 Smores"
+      "notes": "Ss-dsm-6p · Smores"
     },
     {
       "year": 1994,
@@ -5898,7 +5898,7 @@ const ARTIST_DATA = {
       "venue": "Velodrome Field",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ss-dsm-6p \u00b7 Steve Hagar"
+      "notes": "Ss-dsm-6p · Steve Hagar"
     },
     {
       "year": 1994,
@@ -5911,7 +5911,7 @@ const ARTIST_DATA = {
       "venue": "Blockbuster Desert Sky Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1st Gen \u00b7 Stef's Collection"
+      "notes": "1st Gen · Stef's Collection"
     },
     {
       "year": 1994,
@@ -5937,7 +5937,7 @@ const ARTIST_DATA = {
       "venue": "Brown Field Municipal Airport",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Kingrue"
+      "notes": "Unknown · Kingrue"
     },
     {
       "year": 1994,
@@ -5989,7 +5989,7 @@ const ARTIST_DATA = {
       "venue": "Starplex Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Smores"
+      "notes": "Unknown · Smores"
     },
     {
       "year": 1994,
@@ -6041,7 +6041,7 @@ const ARTIST_DATA = {
       "venue": "Woodstock",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ss-dsm-6p \u00b7 Steve Hagar"
+      "notes": "Ss-dsm-6p · Steve Hagar"
     },
     {
       "year": 1994,
@@ -6197,7 +6197,7 @@ const ARTIST_DATA = {
       "venue": "Deer Creek Field",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 Jeff S. Transfer"
+      "notes": "Lollapalooza · Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -6210,7 +6210,7 @@ const ARTIST_DATA = {
       "venue": "Molson Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 Jeff S. Transfer"
+      "notes": "Lollapalooza · Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -6223,7 +6223,7 @@ const ARTIST_DATA = {
       "venue": "Coral Sky Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 Inc"
+      "notes": "Lollapalooza · Inc"
     },
     {
       "year": 1996,
@@ -6236,7 +6236,7 @@ const ARTIST_DATA = {
       "venue": "Tad Gorml Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 Jeff S. Transfer"
+      "notes": "Lollapalooza · Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -6249,7 +6249,7 @@ const ARTIST_DATA = {
       "venue": "Spartan Stadium - Lollapalooza",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Neekrive"
+      "notes": "Unknown · Neekrive"
     },
     {
       "year": 1996,
@@ -6262,7 +6262,7 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 Inc"
+      "notes": "Lollapalooza · Inc"
     },
     {
       "year": 1996,
@@ -6275,7 +6275,7 @@ const ARTIST_DATA = {
       "venue": "Vienna Stadthalle",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MZ R30 \u00b7 Metallifreak"
+      "notes": "Sony MZ R30 · Metallifreak"
     },
     {
       "year": 1996,
@@ -6353,7 +6353,7 @@ const ARTIST_DATA = {
       "venue": "Omnisports de Bercy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Marantz Em8 \u00b7 Stephane"
+      "notes": "1st Night · Marantz Em8 · Stephane"
     },
     {
       "year": 1996,
@@ -6366,7 +6366,7 @@ const ARTIST_DATA = {
       "venue": "Omnisports de Bercy",
       "version": "AUD",
       "format": "DVD",
-      "notes": "1st Night \u00b7 Video Source 1"
+      "notes": "1st Night · Video Source 1"
     },
     {
       "year": 1996,
@@ -6379,7 +6379,7 @@ const ARTIST_DATA = {
       "venue": "Omnisports de Bercy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Marantz Em8 \u00b7 Stephane"
+      "notes": "2nd Night · Marantz Em8 · Stephane"
     },
     {
       "year": 1996,
@@ -6431,7 +6431,7 @@ const ARTIST_DATA = {
       "venue": "PalaVobis",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony PC-62 \u00b7 P.b."
+      "notes": "Sony PC-62 · P.b."
     },
     {
       "year": 1996,
@@ -6548,7 +6548,7 @@ const ARTIST_DATA = {
       "venue": "Alsterdorfer Sporthalle",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "2nd Gen \u00b7 Jeff S. Transfer"
+      "notes": "2nd Gen · Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -6613,7 +6613,7 @@ const ARTIST_DATA = {
       "venue": "Mannheim Maimarkthalle",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MZ R30 \u00b7 Metallifreak"
+      "notes": "Sony MZ R30 · Metallifreak"
     },
     {
       "year": 1996,
@@ -6834,7 +6834,7 @@ const ARTIST_DATA = {
       "venue": "Bradley Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sonic Studios Dsm6 \u00b7 Cruciferous"
+      "notes": "Sonic Studios Dsm6 · Cruciferous"
     },
     {
       "year": 1997,
@@ -6847,7 +6847,7 @@ const ARTIST_DATA = {
       "venue": "The Palace",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 T.i.m."
+      "notes": "CSB · T.i.m."
     },
     {
       "year": 1997,
@@ -6886,7 +6886,7 @@ const ARTIST_DATA = {
       "venue": "Brendan Byrne Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Meadowlands \u00b7 Koondog"
+      "notes": "Meadowlands · Koondog"
     },
     {
       "year": 1997,
@@ -6899,7 +6899,7 @@ const ARTIST_DATA = {
       "venue": "Pepsi Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Nakamichi 100 Cp4 \u00b7 Beerengineer"
+      "notes": "Nakamichi 100 Cp4 · Beerengineer"
     },
     {
       "year": 1997,
@@ -6964,7 +6964,7 @@ const ARTIST_DATA = {
       "venue": "Baker Hamilton Square*Metallicagazoline",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Azm-7758"
+      "notes": "Source 2 · Azm-7758"
     },
     {
       "year": 1998,
@@ -6977,7 +6977,7 @@ const ARTIST_DATA = {
       "venue": "Baker Hamilton Square *San Francisco",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Source 3 - SBD \u00b7 Ma003"
+      "notes": "Source 3 - SBD · Ma003"
     },
     {
       "year": 1998,
@@ -7042,7 +7042,7 @@ const ARTIST_DATA = {
       "venue": "Pine Knob Music Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-3 Walkman Pro \u00b7 The Govner"
+      "notes": "Sony D-3 Walkman Pro · The Govner"
     },
     {
       "year": 1998,
@@ -7094,7 +7094,7 @@ const ARTIST_DATA = {
       "venue": "Deer Creek",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SS \u00b7 Greg Holtz"
+      "notes": "SS · Greg Holtz"
     },
     {
       "year": 1998,
@@ -7146,7 +7146,7 @@ const ARTIST_DATA = {
       "venue": "State Theater",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Ellaguru"
+      "notes": "Source 2 · Ellaguru"
     },
     {
       "year": 1998,
@@ -7159,7 +7159,7 @@ const ARTIST_DATA = {
       "venue": "State Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 3 \u00b7 The Govner"
+      "notes": "Source 3 · The Govner"
     },
     {
       "year": 1998,
@@ -7198,7 +7198,7 @@ const ARTIST_DATA = {
       "venue": "Blaisdell Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Dsm-6p \u00b7 Steve Hagar"
+      "notes": "Dsm-6p · Steve Hagar"
     },
     {
       "year": 1999,
@@ -7211,7 +7211,7 @@ const ARTIST_DATA = {
       "venue": "Blaisdell Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Dsm-6p \u00b7 Steve Hagar"
+      "notes": "Dsm-6p · Steve Hagar"
     },
     {
       "year": 1999,
@@ -7224,7 +7224,7 @@ const ARTIST_DATA = {
       "venue": "Sullivan Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Dsm-6p \u00b7 Steve Hagar"
+      "notes": "Dsm-6p · Steve Hagar"
     },
     {
       "year": 1999,
@@ -7250,7 +7250,7 @@ const ARTIST_DATA = {
       "venue": "Berkeley Community Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "MK4s \u00b7 Source 2"
+      "notes": "MK4s · Source 2"
     },
     {
       "year": 1999,
@@ -7432,7 +7432,7 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows - KROQ Event",
       "version": "PRO",
       "format": "DVD",
-      "notes": "Master \u00b7 Elmoz"
+      "notes": "Master · Elmoz"
     },
     {
       "year": 1999,
@@ -7471,7 +7471,7 @@ const ARTIST_DATA = {
       "venue": "Weserufer",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM-30A \u00b7 Robert Huizinga"
+      "notes": "Aiwa CM-30A · Robert Huizinga"
     },
     {
       "year": 1999,
@@ -7523,7 +7523,7 @@ const ARTIST_DATA = {
       "venue": "Omnisports de Bercy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Marantz Em8 \u00b7 Stephane"
+      "notes": "Marantz Em8 · Stephane"
     },
     {
       "year": 1999,
@@ -7627,7 +7627,7 @@ const ARTIST_DATA = {
       "venue": "Velodrom",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Okm Iir \u00b7 Source 1 \u00b7 Vortex242"
+      "notes": "Okm Iir · Source 1 · Vortex242"
     },
     {
       "year": 1999,
@@ -7796,7 +7796,7 @@ const ARTIST_DATA = {
       "venue": "Georgia Dome *Where The Fuck's James",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Metcd 77-1-2"
+      "notes": "Source 2 · Metcd 77-1-2"
     },
     {
       "year": 2000,
@@ -7809,7 +7809,7 @@ const ARTIST_DATA = {
       "venue": "Kentucky Speedway",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-7 \u00b7 The Govner"
+      "notes": "Sony D-7 · The Govner"
     },
     {
       "year": 2000,
@@ -7848,7 +7848,7 @@ const ARTIST_DATA = {
       "venue": "Rupp Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "D-7 \u00b7 The Govner"
+      "notes": "D-7 · The Govner"
     },
     {
       "year": 2000,
@@ -7861,7 +7861,7 @@ const ARTIST_DATA = {
       "venue": "Rupp Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D-7 \u00b7 The Govner"
+      "notes": "Sony D-7 · The Govner"
     },
     {
       "year": 2000,
@@ -7978,7 +7978,7 @@ const ARTIST_DATA = {
       "venue": "Le Bataclan",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Yann Ld"
+      "notes": "Source 2 · Yann Ld"
     },
     {
       "year": 2003,
@@ -8030,7 +8030,7 @@ const ARTIST_DATA = {
       "venue": "Roskilde Dyrskueplads",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Jtl"
+      "notes": "Source 2 · Jtl"
     },
     {
       "year": 2003,
@@ -8108,7 +8108,7 @@ const ARTIST_DATA = {
       "venue": "Saitama Super Arena *Karmas Burning",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Source 1 \u00b7 Sy-0536"
+      "notes": "Source 1 · Sy-0536"
     },
     {
       "year": 2003,
@@ -8147,7 +8147,7 @@ const ARTIST_DATA = {
       "venue": "Sydney Showground",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Source 1 \u00b7 Bleeding Me"
+      "notes": "Source 1 · Bleeding Me"
     },
     {
       "year": 2004,
@@ -8160,7 +8160,7 @@ const ARTIST_DATA = {
       "venue": "Sydney Showground",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 3 \u00b7 Akg Micro Mic Ii \u00b7 Jeff S."
+      "notes": "Source 3 · Akg Micro Mic Ii · Jeff S."
     },
     {
       "year": 2004,
@@ -8212,7 +8212,7 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2004,
@@ -8225,7 +8225,7 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2004,
@@ -8433,7 +8433,7 @@ const ARTIST_DATA = {
       "venue": "Nassau Coliseum",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Ukj69"
+      "notes": "Sony ECM-717 · Ukj69"
     },
     {
       "year": 2004,
@@ -8641,7 +8641,7 @@ const ARTIST_DATA = {
       "venue": "Parken Stadium",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Mix #1 \u00b7 Livemetallica"
+      "notes": "Mix #1 · Livemetallica"
     },
     {
       "year": 2004,
@@ -8654,7 +8654,7 @@ const ARTIST_DATA = {
       "venue": "Parken Stadium",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Mix #2 \u00b7 Livemetallica"
+      "notes": "Mix #2 · Livemetallica"
     },
     {
       "year": 2004,
@@ -9044,7 +9044,7 @@ const ARTIST_DATA = {
       "venue": "Allstate Arena",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2004,
@@ -9057,7 +9057,7 @@ const ARTIST_DATA = {
       "venue": "Allstate Arena",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2004,
@@ -9252,7 +9252,7 @@ const ARTIST_DATA = {
       "venue": "Colisee Pepsi",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2004,
@@ -9265,7 +9265,7 @@ const ARTIST_DATA = {
       "venue": "Colisee Pepsi",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2004,
@@ -9291,7 +9291,7 @@ const ARTIST_DATA = {
       "venue": "Wachovia Center",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2004,
@@ -9304,7 +9304,7 @@ const ARTIST_DATA = {
       "venue": "Wachovia Center",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2004,
@@ -9330,7 +9330,7 @@ const ARTIST_DATA = {
       "venue": "Continental Airlines Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Ukj69"
+      "notes": "Sony ECM-717 · Ukj69"
     },
     {
       "year": 2004,
@@ -9369,7 +9369,7 @@ const ARTIST_DATA = {
       "venue": "Fleet Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 1 \u00b7 Asyd"
+      "notes": "Source 1 · Asyd"
     },
     {
       "year": 2004,
@@ -9382,7 +9382,7 @@ const ARTIST_DATA = {
       "venue": "Fleet Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Firemt"
+      "notes": "Source 2 · Firemt"
     },
     {
       "year": 2004,
@@ -9395,7 +9395,7 @@ const ARTIST_DATA = {
       "venue": "Fleet Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-MS907 \u00b7 Source 5 \u00b7 Kingrue"
+      "notes": "Sony ECM-MS907 · Source 5 · Kingrue"
     },
     {
       "year": 2004,
@@ -9850,7 +9850,7 @@ const ARTIST_DATA = {
       "venue": "WTC Open Air Stadium *Master Of Sonics",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Sy-0793"
+      "notes": "Source 2 · Sy-0793"
     },
     {
       "year": 2006,
@@ -9876,7 +9876,7 @@ const ARTIST_DATA = {
       "venue": "Jamsil Olympic Stadium *Live In Seoul",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Ifpi L391"
+      "notes": "Source 2 · Ifpi L391"
     },
     {
       "year": 2007,
@@ -9954,7 +9954,7 @@ const ARTIST_DATA = {
       "venue": "Rotundenplatz",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 5 \u00b7 Metallifreak"
+      "notes": "Source 5 · Metallifreak"
     },
     {
       "year": 2007,
@@ -9993,7 +9993,7 @@ const ARTIST_DATA = {
       "venue": "Wembley Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Metallifreak"
+      "notes": "Source 2 · Metallifreak"
     },
     {
       "year": 2007,
@@ -10019,7 +10019,7 @@ const ARTIST_DATA = {
       "venue": "Valle Hovin Stadion *Ecstasy Of Gold",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Sy-0878"
+      "notes": "Source 2 · Sy-0878"
     },
     {
       "year": 2007,
@@ -10045,7 +10045,7 @@ const ARTIST_DATA = {
       "venue": "Vestereng",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Inc \u00b7 Livemetallica"
+      "notes": "Inc · Livemetallica"
     },
     {
       "year": 2007,
@@ -10058,7 +10058,7 @@ const ARTIST_DATA = {
       "venue": "Vestereng",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Glenn"
+      "notes": "Source 2 · Glenn"
     },
     {
       "year": 2007,
@@ -10084,7 +10084,7 @@ const ARTIST_DATA = {
       "venue": "Helsinki Olympic Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Christophfe"
+      "notes": "Source 2 · Christophfe"
     },
     {
       "year": 2007,
@@ -10214,7 +10214,7 @@ const ARTIST_DATA = {
       "venue": "Silesian Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Metalandi"
+      "notes": "Source 2 · Metalandi"
     },
     {
       "year": 2008,
@@ -10253,7 +10253,7 @@ const ARTIST_DATA = {
       "venue": "Auditorio John Lennon - Electric Weekend",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Livemetallica \u00b7 2020 Mix"
+      "notes": "Livemetallica · 2020 Mix"
     },
     {
       "year": 2008,
@@ -10318,7 +10318,7 @@ const ARTIST_DATA = {
       "venue": "The Basement",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Secret Gig \u00b7 Livemetallica"
+      "notes": "Secret Gig · Livemetallica"
     },
     {
       "year": 2008,
@@ -10331,7 +10331,7 @@ const ARTIST_DATA = {
       "venue": "Grimey's Record Store *Nashville & Berlin",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 H&f 40314"
+      "notes": "Source 2 · H&f 40314"
     },
     {
       "year": 2008,
@@ -10461,7 +10461,7 @@ const ARTIST_DATA = {
       "venue": "Pizza Hut Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Dimebag Darrell Tribute \u00b7 Ca-11 \u00b7 Porcelmc"
+      "notes": "Dimebag Darrell Tribute · Ca-11 · Porcelmc"
     },
     {
       "year": 2008,
@@ -10474,7 +10474,7 @@ const ARTIST_DATA = {
       "venue": "Pizza Hut Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Dimebag Darrell Tribute \u00b7 Ca-11 \u00b7 Porcelmc \u00b7 Source 2"
+      "notes": "Dimebag Darrell Tribute · Ca-11 · Porcelmc · Source 2"
     },
     {
       "year": 2008,
@@ -10539,7 +10539,7 @@ const ARTIST_DATA = {
       "venue": "Marlay Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11 \u00b7 Porcelmc"
+      "notes": "Ca-11 · Porcelmc"
     },
     {
       "year": 2008,
@@ -10617,7 +10617,7 @@ const ARTIST_DATA = {
       "venue": "BBC Broadcasting House *BBC Radio Theatre",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Source 3 \u00b7 H&f 40313"
+      "notes": "Source 3 · H&f 40313"
     },
     {
       "year": 2008,
@@ -10630,7 +10630,7 @@ const ARTIST_DATA = {
       "venue": "BBC Broadcasting House - Live At The BBC Theatre",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Source 4 \u00b7 Manga 005"
+      "notes": "Source 4 · Manga 005"
     },
     {
       "year": 2008,
@@ -10877,7 +10877,7 @@ const ARTIST_DATA = {
       "venue": "Pengrowth Saddledome",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2008,
@@ -10890,7 +10890,7 @@ const ARTIST_DATA = {
       "venue": "Pengrowth Saddledome",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2008,
@@ -10955,7 +10955,7 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2008,
@@ -10968,7 +10968,7 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2008,
@@ -11046,7 +11046,7 @@ const ARTIST_DATA = {
       "venue": "Wachovia Center - Live In Philadelphia",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Met 109-1-2"
+      "notes": "Source 2 · Met 109-1-2"
     },
     {
       "year": 2009,
@@ -11072,7 +11072,7 @@ const ARTIST_DATA = {
       "venue": "TD Banknorth Garden",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Farve4"
+      "notes": "Source 2 · Farve4"
     },
     {
       "year": 2009,
@@ -11085,7 +11085,7 @@ const ARTIST_DATA = {
       "venue": "Allstate Arena",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -11098,7 +11098,7 @@ const ARTIST_DATA = {
       "venue": "Allstate Arena",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -11150,7 +11150,7 @@ const ARTIST_DATA = {
       "venue": "Prudential Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Tikimaize"
+      "notes": "Source 2 · Tikimaize"
     },
     {
       "year": 2009,
@@ -11241,7 +11241,7 @@ const ARTIST_DATA = {
       "venue": "Sportpaleis",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Bitdoursssss"
+      "notes": "Source 2 · Bitdoursssss"
     },
     {
       "year": 2009,
@@ -11306,7 +11306,7 @@ const ARTIST_DATA = {
       "venue": "S.E.C.C.",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Dropdeadfreds"
+      "notes": "Source 2 · Dropdeadfreds"
     },
     {
       "year": 2009,
@@ -11345,7 +11345,7 @@ const ARTIST_DATA = {
       "venue": "Ahoy Rotterdam - Dutch Magnetic",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Tl01-a-b"
+      "notes": "Source 2 · Tl01-a-b"
     },
     {
       "year": 2009,
@@ -11358,7 +11358,7 @@ const ARTIST_DATA = {
       "venue": "Omnisports de Paris-Bercy",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -11371,7 +11371,7 @@ const ARTIST_DATA = {
       "venue": "Omnisports de Paris-Bercy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 1st Night \u00b7 Bitdoursssss"
+      "notes": "SP-CMC-8 · 1st Night · Bitdoursssss"
     },
     {
       "year": 2009,
@@ -11384,7 +11384,7 @@ const ARTIST_DATA = {
       "venue": "Omnisports de Paris-Bercy",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -11462,7 +11462,7 @@ const ARTIST_DATA = {
       "venue": "Festhalle",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Dagobert"
+      "notes": "Source 2 · Dagobert"
     },
     {
       "year": 2009,
@@ -11566,7 +11566,7 @@ const ARTIST_DATA = {
       "venue": "Hartwall",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -11579,7 +11579,7 @@ const ARTIST_DATA = {
       "venue": "Hartwall",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -11722,7 +11722,7 @@ const ARTIST_DATA = {
       "venue": "Palacio de Deportes de la Comunidad de Madrid",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -11735,7 +11735,7 @@ const ARTIST_DATA = {
       "venue": "Palacio de Deportes de la Comunidad de Madrid",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -11774,7 +11774,7 @@ const ARTIST_DATA = {
       "venue": "Forum Kobenhavn",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -11787,7 +11787,7 @@ const ARTIST_DATA = {
       "venue": "Forum Kobenhavn",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -11800,7 +11800,7 @@ const ARTIST_DATA = {
       "venue": "Forum Kobenhavn",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica \u00b7 2009 Original Mix"
+      "notes": "2nd Night · Livemetallica · 2009 Original Mix"
     },
     {
       "year": 2009,
@@ -11813,7 +11813,7 @@ const ARTIST_DATA = {
       "venue": "Forum Kobenhavn",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "2nd Night \u00b7 Livemetallica \u00b7 2020 Mix"
+      "notes": "2nd Night · Livemetallica · 2020 Mix"
     },
     {
       "year": 2009,
@@ -11826,7 +11826,7 @@ const ARTIST_DATA = {
       "venue": "Forum Kobenhavn",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "3rd Night \u00b7 Livemetallica"
+      "notes": "3rd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -11852,7 +11852,7 @@ const ARTIST_DATA = {
       "venue": "Forum Kobenhavn",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -11865,7 +11865,7 @@ const ARTIST_DATA = {
       "venue": "Forum Kobenhavn",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -11969,7 +11969,7 @@ const ARTIST_DATA = {
       "venue": "Centre Bell",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -11982,7 +11982,7 @@ const ARTIST_DATA = {
       "venue": "Centre Bell",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -12125,7 +12125,7 @@ const ARTIST_DATA = {
       "venue": "Air Canada Centre",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -12138,7 +12138,7 @@ const ARTIST_DATA = {
       "venue": "Air Canada Centre",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -12151,7 +12151,7 @@ const ARTIST_DATA = {
       "venue": "Colisee Pepsi",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -12164,7 +12164,7 @@ const ARTIST_DATA = {
       "venue": "Colisee Pepsi",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -12216,7 +12216,7 @@ const ARTIST_DATA = {
       "venue": "Times Union Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11 \u00b7 Tikimaize"
+      "notes": "Ca-11 · Tikimaize"
     },
     {
       "year": 2009,
@@ -12242,7 +12242,7 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -12255,7 +12255,7 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Ca-11 \u00b7 Tikimaize"
+      "notes": "1st Night · Ca-11 · Tikimaize"
     },
     {
       "year": 2009,
@@ -12268,7 +12268,7 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -12372,7 +12372,7 @@ const ARTIST_DATA = {
       "venue": "Estadio River Plate",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2010,
@@ -12385,7 +12385,7 @@ const ARTIST_DATA = {
       "venue": "Estadio River Plate",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2010,
@@ -12437,7 +12437,7 @@ const ARTIST_DATA = {
       "venue": "Estadio do Morumbi",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2010,
@@ -12450,7 +12450,7 @@ const ARTIST_DATA = {
       "venue": "Estadio do Morumbi",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2010,
@@ -12645,7 +12645,7 @@ const ARTIST_DATA = {
       "venue": "Olympijskiy Stadium",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2010,
@@ -12658,7 +12658,7 @@ const ARTIST_DATA = {
       "venue": "Olympijskiy Stadium",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2010,
@@ -13009,7 +13009,7 @@ const ARTIST_DATA = {
       "venue": "Brisbane Entertainment Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Crazytallicafux"
+      "notes": "Source 2 · Crazytallicafux"
     },
     {
       "year": 2010,
@@ -13100,7 +13100,7 @@ const ARTIST_DATA = {
       "venue": "Santa Monica Airport *Call Of Duty Black Ops",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Moz-2"
+      "notes": "Source 2 · Moz-2"
     },
     {
       "year": 2010,
@@ -13269,7 +13269,7 @@ const ARTIST_DATA = {
       "venue": "Ullevi",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 3 \u00b7 Tosse2"
+      "notes": "Source 3 · Tosse2"
     },
     {
       "year": 2011,
@@ -13373,7 +13373,7 @@ const ARTIST_DATA = {
       "venue": "Yankee Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Tikimaize"
+      "notes": "Source 2 · Tikimaize"
     },
     {
       "year": 2011,
@@ -13438,7 +13438,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2011,
@@ -13451,7 +13451,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2011,
@@ -13464,7 +13464,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "3rd Night \u00b7 Livemetallica"
+      "notes": "3rd Night · Livemetallica"
     },
     {
       "year": 2011,
@@ -13477,7 +13477,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "4th Night \u00b7 Livemetallica"
+      "notes": "4th Night · Livemetallica"
     },
     {
       "year": 2012,
@@ -13711,7 +13711,7 @@ const ARTIST_DATA = {
       "venue": "Nova Rock",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Livemetallica \u00b7 2020 Mix"
+      "notes": "Livemetallica · 2020 Mix"
     },
     {
       "year": 2012,
@@ -13724,7 +13724,7 @@ const ARTIST_DATA = {
       "venue": "Pannonia Fields II",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Shownomarcy"
+      "notes": "Source 2 · Shownomarcy"
     },
     {
       "year": 2012,
@@ -14179,7 +14179,7 @@ const ARTIST_DATA = {
       "venue": "Maishima Sports Island *Summer Sonic Osaka 2013",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Zodiac 032"
+      "notes": "Source 2 · Zodiac 032"
     },
     {
       "year": 2013,
@@ -14738,7 +14738,7 @@ const ARTIST_DATA = {
       "venue": "Gelsenkirchen, DEU",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Mix #1 \u00b7 Livemetallica"
+      "notes": "Mix #1 · Livemetallica"
     },
     {
       "year": 2015,
@@ -14751,7 +14751,7 @@ const ARTIST_DATA = {
       "venue": "Gelsenkirchen, DEU",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Mix #2 \u00b7 Livemetallica"
+      "notes": "Mix #2 · Livemetallica"
     },
     {
       "year": 2015,
@@ -14868,7 +14868,7 @@ const ARTIST_DATA = {
       "venue": "Saint-Petersburg Sports And Concert Complex",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Stucker \u00b7 Ca-14"
+      "notes": "Source 2 · Stucker · Ca-14"
     },
     {
       "year": 2015,
@@ -14881,7 +14881,7 @@ const ARTIST_DATA = {
       "venue": "Olimpiyskiy",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Source 1 \u00b7 Livemetallica"
+      "notes": "Source 1 · Livemetallica"
     },
     {
       "year": 2015,
@@ -14894,7 +14894,7 @@ const ARTIST_DATA = {
       "venue": "Olimpiyskiy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 Sp-spsb-11 \u00b7 Barghest"
+      "notes": "Source 2 · Sp-spsb-11 · Barghest"
     },
     {
       "year": 2015,
@@ -14907,7 +14907,7 @@ const ARTIST_DATA = {
       "venue": "Olympijskiy Stadium",
       "version": "AUD",
       "format": "DVD",
-      "notes": "Hocker999 \u00b7 Ancient Mariner"
+      "notes": "Hocker999 · Ancient Mariner"
     },
     {
       "year": 2015,
@@ -14946,7 +14946,7 @@ const ARTIST_DATA = {
       "venue": "Colise?e Pepsi",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Source 1 \u00b7 Livemetallica"
+      "notes": "Source 1 · Livemetallica"
     },
     {
       "year": 2015,
@@ -14972,7 +14972,7 @@ const ARTIST_DATA = {
       "venue": "Centre Vide?otron",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Source 1 \u00b7 Livemetallica"
+      "notes": "Source 1 · Livemetallica"
     },
     {
       "year": 2015,
@@ -14985,7 +14985,7 @@ const ARTIST_DATA = {
       "venue": "Centre Vide?otron",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11 \u00b7 Source 2 \u00b7 Porcelmc"
+      "notes": "Ca-11 · Source 2 · Porcelmc"
     },
     {
       "year": 2015,
@@ -15050,7 +15050,7 @@ const ARTIST_DATA = {
       "venue": "US Bank Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "PCM-M10 \u00b7 3rd Source \u00b7 Jitf"
+      "notes": "PCM-M10 · 3rd Source · Jitf"
     },
     {
       "year": 2016,
@@ -15102,7 +15102,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK40 \u00b7 Ridemyllama"
+      "notes": "Schoeps MK40 · Ridemyllama"
     },
     {
       "year": 2016,
@@ -15128,7 +15128,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK40 \u00b7 Ridemyllama"
+      "notes": "Schoeps MK40 · Ridemyllama"
     },
     {
       "year": 2016,
@@ -15401,7 +15401,7 @@ const ARTIST_DATA = {
       "venue": "Autodromo de Interlagos",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Lollapalooza \u00b7 Livemetallica"
+      "notes": "Lollapalooza · Livemetallica"
     },
     {
       "year": 2017,
@@ -15414,7 +15414,7 @@ const ARTIST_DATA = {
       "venue": "Hipodromo de San Isidro",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Lollapalooza \u00b7 Livemetallica"
+      "notes": "Lollapalooza · Livemetallica"
     },
     {
       "year": 2017,
@@ -15427,7 +15427,7 @@ const ARTIST_DATA = {
       "venue": "Parque O'Higgins",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Lollapalooza \u00b7 Livemetallica"
+      "notes": "Lollapalooza · Livemetallica"
     },
     {
       "year": 2017,
@@ -15648,7 +15648,7 @@ const ARTIST_DATA = {
       "venue": "SunTrust Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4028 \u00b7 George Wang"
+      "notes": "DPA 4028 · George Wang"
     },
     {
       "year": 2017,
@@ -15765,7 +15765,7 @@ const ARTIST_DATA = {
       "venue": "Centurylink Field",
       "version": "AUD",
       "format": "DVD",
-      "notes": "Jeancoverdesign \u00b7 Steve Bashakus Master"
+      "notes": "Jeancoverdesign · Steve Bashakus Master"
     },
     {
       "year": 2017,
@@ -15843,7 +15843,7 @@ const ARTIST_DATA = {
       "venue": "Ziggo Dome",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Ca-14s \u00b7 Thierry"
+      "notes": "2nd Night · Ca-14s · Thierry"
     },
     {
       "year": 2017,
@@ -15856,7 +15856,7 @@ const ARTIST_DATA = {
       "venue": "Ziggo Dome",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -15869,7 +15869,7 @@ const ARTIST_DATA = {
       "venue": "Ziggo Dome",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Ca-14s \u00b7 Thierry"
+      "notes": "2nd Night · Ca-14s · Thierry"
     },
     {
       "year": 2017,
@@ -15882,7 +15882,7 @@ const ARTIST_DATA = {
       "venue": "Ziggo Dome",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -15895,7 +15895,7 @@ const ARTIST_DATA = {
       "venue": "AccorHotels Arena",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -15908,7 +15908,7 @@ const ARTIST_DATA = {
       "venue": "AccorHotels Arena",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -15934,7 +15934,7 @@ const ARTIST_DATA = {
       "venue": "Lanxess Arena",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -15947,7 +15947,7 @@ const ARTIST_DATA = {
       "venue": "Lanxess Arena",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -15960,7 +15960,7 @@ const ARTIST_DATA = {
       "venue": "02 Arena",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -15973,7 +15973,7 @@ const ARTIST_DATA = {
       "venue": "02 Arena",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -16012,7 +16012,7 @@ const ARTIST_DATA = {
       "venue": "Manchester Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Edirol R09 \u00b7 Andylgr"
+      "notes": "Edirol R09 · Andylgr"
     },
     {
       "year": 2017,
@@ -16038,7 +16038,7 @@ const ARTIST_DATA = {
       "venue": "Sportpaleis",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -16051,7 +16051,7 @@ const ARTIST_DATA = {
       "venue": "Sportspaleis",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -16129,7 +16129,7 @@ const ARTIST_DATA = {
       "venue": "Palau Sant Jordi",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Porcelmc"
+      "notes": "SP-CMC-8 · Porcelmc"
     },
     {
       "year": 2018,
@@ -16155,7 +16155,7 @@ const ARTIST_DATA = {
       "venue": "Pala Alpitour",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Porcelmc"
+      "notes": "SP-CMC-8 · Porcelmc"
     },
     {
       "year": 2018,
@@ -16532,7 +16532,7 @@ const ARTIST_DATA = {
       "venue": "Civic Center Plaza",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Dreamfest \u00b7 Livemetallica"
+      "notes": "Dreamfest · Livemetallica"
     },
     {
       "year": 2018,
@@ -16571,7 +16571,7 @@ const ARTIST_DATA = {
       "venue": "Zilker Park - ACL Fest",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Olympus Ls-p4, Ls-12 \u00b7 Exene"
+      "notes": "Olympus Ls-p4, Ls-12 · Exene"
     },
     {
       "year": 2018,
@@ -16792,7 +16792,7 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT831s \u00b7 Tapeworm48"
+      "notes": "AT831s · Tapeworm48"
     },
     {
       "year": 2019,
@@ -16948,7 +16948,7 @@ const ARTIST_DATA = {
       "venue": "Bankers Life Fieldhouse",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP CMC-08s \u00b7 Ironchef"
+      "notes": "SP CMC-08s · Ironchef"
     },
     {
       "year": 2019,
@@ -16987,7 +16987,7 @@ const ARTIST_DATA = {
       "venue": "Estadio do Restelo",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Porcelmc"
+      "notes": "SP-CMC-8 · Porcelmc"
     },
     {
       "year": 2019,
@@ -17065,7 +17065,7 @@ const ARTIST_DATA = {
       "venue": "Stade de France - Saint Denis",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca11s \u00b7 Moka17"
+      "notes": "Ca11s · Moka17"
     },
     {
       "year": 2019,
@@ -17338,7 +17338,7 @@ const ARTIST_DATA = {
       "venue": "Gundlach-Bundschu Winery",
       "version": "AUD",
       "format": "DVD",
-      "notes": "Drive-in Theatre Show \u00b7 Hellstorm79"
+      "notes": "Drive-in Theatre Show · Hellstorm79"
     },
     {
       "year": 2020,
@@ -17377,7 +17377,7 @@ const ARTIST_DATA = {
       "venue": "Metro",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "AT831s \u00b7 Tapeworm48"
+      "notes": "AT831s · Tapeworm48"
     },
     {
       "year": 2021,
@@ -17416,7 +17416,7 @@ const ARTIST_DATA = {
       "venue": "Kentucky Expo Center - Louder Than Life Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Porcelmc"
+      "notes": "SP-CMC-8 · Porcelmc"
     },
     {
       "year": 2021,
@@ -17442,7 +17442,7 @@ const ARTIST_DATA = {
       "venue": "Louder Than Life Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sp-bmc-8 \u00b7 Porcelmc"
+      "notes": "Sp-bmc-8 · Porcelmc"
     },
     {
       "year": 2021,
@@ -17520,7 +17520,7 @@ const ARTIST_DATA = {
       "venue": "Welcome to Rockville Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Porcelmc"
+      "notes": "SP-CMC-8 · Porcelmc"
     },
     {
       "year": 2021,
@@ -17572,7 +17572,7 @@ const ARTIST_DATA = {
       "venue": "Chase Center - 40th Anniversary Show",
       "version": "PRO",
       "format": "DVD",
-      "notes": "Night 1 \u00b7 Coda Collection"
+      "notes": "Night 1 · Coda Collection"
     },
     {
       "year": 2021,
@@ -17598,7 +17598,7 @@ const ARTIST_DATA = {
       "venue": "Chase Center - 40th Anniversary Show",
       "version": "PRO",
       "format": "DVD",
-      "notes": "Night 2 \u00b7 Coda Collection"
+      "notes": "Night 2 · Coda Collection"
     },
     {
       "year": 2022,
@@ -17728,7 +17728,7 @@ const ARTIST_DATA = {
       "venue": "Boston Calling Music Festival",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "R9 Interior Mics \u00b7 Ec666"
+      "notes": "R9 Interior Mics · Ec666"
     },
     {
       "year": 2022,
@@ -17754,7 +17754,7 @@ const ARTIST_DATA = {
       "venue": "K?benhavn",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony PCM-M10 \u00b7 Nielsen81"
+      "notes": "Sony PCM-M10 · Nielsen81"
     },
     {
       "year": 2022,
@@ -17910,7 +17910,7 @@ const ARTIST_DATA = {
       "venue": "Highmark Stadium",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14s \u00b7 Binko"
+      "notes": "Ca-14s · Binko"
     },
     {
       "year": 2022,
@@ -17949,7 +17949,7 @@ const ARTIST_DATA = {
       "venue": "Central Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom Iq5 \u00b7 Unknown"
+      "notes": "Zoom Iq5 · Unknown"
     },
     {
       "year": 2022,
@@ -18001,7 +18001,7 @@ const ARTIST_DATA = {
       "venue": "Johan Cruijff Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Iphone 12 Mini \u00b7 Thierry"
+      "notes": "Iphone 12 Mini · Thierry"
     },
     {
       "year": 2023,
@@ -18027,7 +18027,7 @@ const ARTIST_DATA = {
       "venue": "Johan Cruijff Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Iphone 12 Mini \u00b7 Unknown"
+      "notes": "Iphone 12 Mini · Unknown"
     },
     {
       "year": 2023,
@@ -18157,7 +18157,7 @@ const ARTIST_DATA = {
       "venue": "Metlife Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM 717 \u00b7 Ukj69"
+      "notes": "Sony ECM 717 · Ukj69"
     },
     {
       "year": 2023,
@@ -18196,7 +18196,7 @@ const ARTIST_DATA = {
       "venue": "Olympic Stadium",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14s \u00b7 Colinw"
+      "notes": "Ca-14s · Colinw"
     },
     {
       "year": 2023,
@@ -18859,7 +18859,7 @@ const ARTIST_DATA = {
       "venue": "Sonic Temple - Historic Crew Stadium",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK41 \u00b7 Jesse Mc"
+      "notes": "Schoeps MK41 · Jesse Mc"
     },
     {
       "year": 2025,
@@ -18885,7 +18885,7 @@ const ARTIST_DATA = {
       "venue": "Lincoln Financial Field",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Edirol R-09 \u00b7 Tikimaize"
+      "notes": "Edirol R-09 · Tikimaize"
     },
     {
       "year": 2025,
@@ -19093,7 +19093,7 @@ const ARTIST_DATA = {
       "venue": "Suncorp Stadium",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "abiathar \u00b7 Tascam Dr-05"
+      "notes": "abiathar · Tascam Dr-05"
     },
     {
       "year": 2025,
@@ -19886,7 +19886,7 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2004,
@@ -19899,7 +19899,7 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2004,
@@ -20302,7 +20302,7 @@ const ARTIST_DATA = {
       "venue": "Parken Stadium",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Mix #1 \u00b7 Livemetallica"
+      "notes": "Mix #1 · Livemetallica"
     },
     {
       "year": 2004,
@@ -20315,7 +20315,7 @@ const ARTIST_DATA = {
       "venue": "Parken Stadium",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Mix #2 \u00b7 Livemetallica"
+      "notes": "Mix #2 · Livemetallica"
     },
     {
       "year": 2004,
@@ -20679,7 +20679,7 @@ const ARTIST_DATA = {
       "venue": "Allstate Arena",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2004,
@@ -20692,7 +20692,7 @@ const ARTIST_DATA = {
       "venue": "Allstate Arena",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2004,
@@ -20848,7 +20848,7 @@ const ARTIST_DATA = {
       "venue": "Colisee Pepsi",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2004,
@@ -20861,7 +20861,7 @@ const ARTIST_DATA = {
       "venue": "Colisee Pepsi",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2004,
@@ -20887,7 +20887,7 @@ const ARTIST_DATA = {
       "venue": "Wachovia Center",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2004,
@@ -20900,7 +20900,7 @@ const ARTIST_DATA = {
       "venue": "Wachovia Center",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2004,
@@ -21433,7 +21433,7 @@ const ARTIST_DATA = {
       "venue": "Vestereng",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Inc \u00b7 Livemetallica"
+      "notes": "Inc · Livemetallica"
     },
     {
       "year": 2007,
@@ -21576,7 +21576,7 @@ const ARTIST_DATA = {
       "venue": "Auditorio John Lennon - Electric Weekend",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Livemetallica \u00b7 2020 Mix"
+      "notes": "Livemetallica · 2020 Mix"
     },
     {
       "year": 2008,
@@ -21641,7 +21641,7 @@ const ARTIST_DATA = {
       "venue": "The Basement",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Secret Gig \u00b7 Livemetallica"
+      "notes": "Secret Gig · Livemetallica"
     },
     {
       "year": 2008,
@@ -22109,7 +22109,7 @@ const ARTIST_DATA = {
       "venue": "Pengrowth Saddledome",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2008,
@@ -22122,7 +22122,7 @@ const ARTIST_DATA = {
       "venue": "Pengrowth Saddledome",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2008,
@@ -22187,7 +22187,7 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2008,
@@ -22200,7 +22200,7 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2008,
@@ -22291,7 +22291,7 @@ const ARTIST_DATA = {
       "venue": "Allstate Arena",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -22304,7 +22304,7 @@ const ARTIST_DATA = {
       "venue": "Allstate Arena",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -22499,7 +22499,7 @@ const ARTIST_DATA = {
       "venue": "Omnisports de Paris-Bercy",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -22512,7 +22512,7 @@ const ARTIST_DATA = {
       "venue": "Omnisports de Paris-Bercy",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -22681,7 +22681,7 @@ const ARTIST_DATA = {
       "venue": "Hartwall",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -22694,7 +22694,7 @@ const ARTIST_DATA = {
       "venue": "Hartwall",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -22837,7 +22837,7 @@ const ARTIST_DATA = {
       "venue": "Palacio de Deportes de la Comunidad de Madrid",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -22850,7 +22850,7 @@ const ARTIST_DATA = {
       "venue": "Palacio de Deportes de la Comunidad de Madrid",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -22889,7 +22889,7 @@ const ARTIST_DATA = {
       "venue": "Forum Kobenhavn",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -22902,7 +22902,7 @@ const ARTIST_DATA = {
       "venue": "Forum Kobenhavn",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -22915,7 +22915,7 @@ const ARTIST_DATA = {
       "venue": "Forum Kobenhavn",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica \u00b7 2009 Original Mix"
+      "notes": "2nd Night · Livemetallica · 2009 Original Mix"
     },
     {
       "year": 2009,
@@ -22928,7 +22928,7 @@ const ARTIST_DATA = {
       "venue": "Forum Kobenhavn",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "2nd Night \u00b7 Livemetallica \u00b7 2020 Mix"
+      "notes": "2nd Night · Livemetallica · 2020 Mix"
     },
     {
       "year": 2009,
@@ -22941,7 +22941,7 @@ const ARTIST_DATA = {
       "venue": "Forum Kobenhavn",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "3rd Night \u00b7 Livemetallica"
+      "notes": "3rd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -22967,7 +22967,7 @@ const ARTIST_DATA = {
       "venue": "Forum Kobenhavn",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -22980,7 +22980,7 @@ const ARTIST_DATA = {
       "venue": "Forum Kobenhavn",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -23084,7 +23084,7 @@ const ARTIST_DATA = {
       "venue": "Centre Bell",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -23097,7 +23097,7 @@ const ARTIST_DATA = {
       "venue": "Centre Bell",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -23240,7 +23240,7 @@ const ARTIST_DATA = {
       "venue": "Air Canada Centre",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -23253,7 +23253,7 @@ const ARTIST_DATA = {
       "venue": "Air Canada Centre",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -23266,7 +23266,7 @@ const ARTIST_DATA = {
       "venue": "Colisee Pepsi",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -23279,7 +23279,7 @@ const ARTIST_DATA = {
       "venue": "Colisee Pepsi",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -23344,7 +23344,7 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -23357,7 +23357,7 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2009,
@@ -23448,7 +23448,7 @@ const ARTIST_DATA = {
       "venue": "Estadio River Plate",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2010,
@@ -23461,7 +23461,7 @@ const ARTIST_DATA = {
       "venue": "Estadio River Plate",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2010,
@@ -23513,7 +23513,7 @@ const ARTIST_DATA = {
       "venue": "Estadio do Morumbi",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2010,
@@ -23526,7 +23526,7 @@ const ARTIST_DATA = {
       "venue": "Estadio do Morumbi",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2010,
@@ -23721,7 +23721,7 @@ const ARTIST_DATA = {
       "venue": "Olympijskiy Stadium",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2010,
@@ -23734,7 +23734,7 @@ const ARTIST_DATA = {
       "venue": "Olympijskiy Stadium",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2010,
@@ -24410,7 +24410,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2011,
@@ -24423,7 +24423,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2011,
@@ -24436,7 +24436,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "3rd Night \u00b7 Livemetallica"
+      "notes": "3rd Night · Livemetallica"
     },
     {
       "year": 2011,
@@ -24449,7 +24449,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "4th Night \u00b7 Livemetallica"
+      "notes": "4th Night · Livemetallica"
     },
     {
       "year": 2012,
@@ -24670,7 +24670,7 @@ const ARTIST_DATA = {
       "venue": "Nova Rock",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Livemetallica \u00b7 2020 Mix"
+      "notes": "Livemetallica · 2020 Mix"
     },
     {
       "year": 2012,
@@ -25580,7 +25580,7 @@ const ARTIST_DATA = {
       "venue": "Gelsenkirchen, DEU",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Mix #1 \u00b7 Livemetallica"
+      "notes": "Mix #1 · Livemetallica"
     },
     {
       "year": 2015,
@@ -25593,7 +25593,7 @@ const ARTIST_DATA = {
       "venue": "Gelsenkirchen, DEU",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Mix #2 \u00b7 Livemetallica"
+      "notes": "Mix #2 · Livemetallica"
     },
     {
       "year": 2015,
@@ -25710,7 +25710,7 @@ const ARTIST_DATA = {
       "venue": "Olimpiyskiy",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Source 1 \u00b7 Livemetallica"
+      "notes": "Source 1 · Livemetallica"
     },
     {
       "year": 2015,
@@ -25749,7 +25749,7 @@ const ARTIST_DATA = {
       "venue": "Colise?e Pepsi",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Source 1 \u00b7 Livemetallica"
+      "notes": "Source 1 · Livemetallica"
     },
     {
       "year": 2015,
@@ -25762,7 +25762,7 @@ const ARTIST_DATA = {
       "venue": "Centre Vide?otron",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Source 1 \u00b7 Livemetallica"
+      "notes": "Source 1 · Livemetallica"
     },
     {
       "year": 2015,
@@ -26139,7 +26139,7 @@ const ARTIST_DATA = {
       "venue": "Autodromo de Interlagos",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Lollapalooza \u00b7 Livemetallica"
+      "notes": "Lollapalooza · Livemetallica"
     },
     {
       "year": 2017,
@@ -26152,7 +26152,7 @@ const ARTIST_DATA = {
       "venue": "Hipodromo de San Isidro",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Lollapalooza \u00b7 Livemetallica"
+      "notes": "Lollapalooza · Livemetallica"
     },
     {
       "year": 2017,
@@ -26165,7 +26165,7 @@ const ARTIST_DATA = {
       "venue": "Parque O'Higgins",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Lollapalooza \u00b7 Livemetallica"
+      "notes": "Lollapalooza · Livemetallica"
     },
     {
       "year": 2017,
@@ -26542,7 +26542,7 @@ const ARTIST_DATA = {
       "venue": "Ziggo Dome",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -26555,7 +26555,7 @@ const ARTIST_DATA = {
       "venue": "Ziggo Dome",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -26568,7 +26568,7 @@ const ARTIST_DATA = {
       "venue": "AccorHotels Arena",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -26581,7 +26581,7 @@ const ARTIST_DATA = {
       "venue": "AccorHotels Arena",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -26607,7 +26607,7 @@ const ARTIST_DATA = {
       "venue": "Lanxess Arena",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -26620,7 +26620,7 @@ const ARTIST_DATA = {
       "venue": "Lanxess Arena",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -26633,7 +26633,7 @@ const ARTIST_DATA = {
       "venue": "02 Arena",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -26646,7 +26646,7 @@ const ARTIST_DATA = {
       "venue": "02 Arena",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -26698,7 +26698,7 @@ const ARTIST_DATA = {
       "venue": "Sportpaleis",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "1st Night \u00b7 Livemetallica"
+      "notes": "1st Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -26711,7 +26711,7 @@ const ARTIST_DATA = {
       "venue": "Sportspaleis",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "2nd Night \u00b7 Livemetallica"
+      "notes": "2nd Night · Livemetallica"
     },
     {
       "year": 2017,
@@ -27140,7 +27140,7 @@ const ARTIST_DATA = {
       "venue": "Civic Center Plaza",
       "version": "SBD",
       "format": "FLAC HD",
-      "notes": "Dreamfest \u00b7 Livemetallica"
+      "notes": "Dreamfest · Livemetallica"
     },
     {
       "year": 2018,
@@ -29420,10 +29420,8 @@ const ARTIST_DATA = {
       "format": "FLAC"
     },
     {
-      "type": "release",
-      "label": "1982-XX-XX - Las Angeles, CA / *One Last Visit",
-      "version": "Silver CD",
-      "format": "FLAC"
+      "type": "label",
+      "label": "1982-XX-XX - Las Angeles, CA / *One Last Visit"
     },
     {
       "type": "label",
@@ -29583,11482 +29581,6 @@ const ARTIST_DATA = {
       "type": "label",
       "label": "Metallica - www.metjitf.com Exclusive - Enter Sandman (2021 Remastered Pockit-CD)",
       "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[SILVERS]"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Abso-fucking-lutely Live! {ME 003-4} (1993)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - After The Sandman Is Gone {POET 9216} (1992)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - All Hell Breaks Loose {CM 009-10} (1993)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - All Things Must Come To An End (1992) (MM 90041)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Angels From Hell {WI-80336} (1990)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - At Den Bosch Brabanthallen 7-12-92 Vol. 1 (CRC mismatch) (1993) (SR 012)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - At Den Bosch Brabanthallen 7-12-92 Vol. 2 (CRC mismatch) (1993) (SR 013)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - At Den Bosch Brabanthallen 7-12-92 Vol. 3 (1993) (SR 014)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Bay Area Thrashers {CRANCH 1} (1998)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Birmingham Bondage Part Two (CRC mismatch) (1993) (BHAM 002)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Blood Truckers {BGS 041} (1995)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Calling All Destroyers (1991) (IC 001)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Caught In The Act (1990) (TCC 018)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Creeping Death (1991) (HM 002)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Damaged Justice (M5131 M5132)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Damaged Justice Japan Tour 1989 (2020) (ZODIAC 374)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Demolition (1992) (POET 9208)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Detroit Bad Boys (1992) (MIK 022-023)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Don't Treat On Us (1992) (MIK 017)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Enter Mainhattan (1993) (MORBY 092)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Enter Sandman (Vol.1) (1993) (BAN-032-A)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Enter Sandman (Vol.2) (1993) (BAN-032-B)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Enter The Monsters (1991) (MMM001)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Fanatic Battery (Meta 2001-2)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Four Horsemen In Brooklyn (1993) (MMR 9207 CD)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Garage Sessions Vol. 2 (KRHM 14)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - In The Flesh (1992) (CD-EYE-13)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Infernal Gods (1993) (BGS 008-2)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - L.A. For a Fuckin' Beer (1992) (NG-100192)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Live At Great Western Forum (1997) (METUS1CD) (METUS2CD)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Live At The Stadium (1994) (P 910084-85)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Live Before Death Vol. One (1990) (GSCD 1017)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Live In Concert (1992) (TS-CD 001)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Live Long Island 20.12.91 (1992) (Ackon 9201)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Live USA (2 Disc) (1993) (Imtrat - 920.026)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Live USA (1990) (imt 900.034)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Live Vol.2 (1993) (JOK-010-B)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Metal Masters (1992) (BC-200)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Metalian Winter 1988-89 (1992) (POET 9206)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Motorcity Madness (1992) (MIK 042-043)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - New Skulls For The Old Ceremony (The Cover Versions) (1993)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - No Limits No Laws (1994) (KTS 306)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Nuremberg Trials (1992) (BC-35)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Riffs (1994) (PPL 520)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Roaming In Sweden 921212 (1993) (CMR 001-002)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Rough Justice (1993) (BM1)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Sanatorium (1991) (RR 001)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Stone Cold Crazy (1992) (MK 001-002)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Storm At Walhalla (1991) (FWD 2000)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Texas 1989 (1992) (PSCD 1172)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - The Early Days (1997) (OTR 1100060)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - The Four Sandmen (1991) (MIK 004)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - The Metal Masters (1991) (Flash 12.91.0165)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - The Metal Masters (Repress) (1991) (Flash 12.91.0165)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - Totally Destroy Canada (1992) (KTS 077-078)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Metallica - World Tour '93 (1993) (OHM 29)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL RELEASES]"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Quebec Magnetic - DVD",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Through the Never (2013)",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Some Kind of Monster (2004)",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Masters of Metal (DVD)",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Metallica S&M - 1999",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Kill 'Em All (1983) (Remastered) (2020) (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Ride the Lightning (Remastered) (1984) (2020) (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Master Of Puppets (1986) (2016) (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - The 598 EP - Garage Days Re-Revisited (Remastered) (1987) (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Black Album (1991) (2020) (24/48)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Metallica (HDTracks 24-96) (1991)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Live Shit - Binge & Purge (24/96) (1993)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Load (1994) (2020) (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Reload (1997) (2020) (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Garage Inc (1998) (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - S&M (2016, Blackened, Reissue) (24/96) (1999)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - St. Anger (2003) (2020) (24/88.2)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Some Kind Of Monster (2004) (24/44.1)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Death Magnetic (2008) (2020) (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Beyond Magnetic (2011) (24/44.1)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Through The Never (Music From The Motion Picture) (2013) (24/44.1)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Lords Of Summer (2014) (24/48)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - Hardwired...To Self-Destruct (2016) (2020) (24/44.1)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Metallica - S&M2 (2020) (24/48)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL BOOTLEGS]"
-    },
-    {
-      "type": "label",
-      "label": "Live Metallica Vault"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-18-1982",
-      "year": 1982,
-      "month": 10,
-      "day": 18,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Old Waldorf",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-18-1983",
-      "year": 1983,
-      "month": 12,
-      "day": 18,
-      "city": "Cleveland",
-      "state": "OH",
-      "location": "Cleveland, OH",
-      "venue": "Agora",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-22-1984",
-      "year": 1984,
-      "month": 11,
-      "day": 22,
-      "city": "Toulouse",
-      "state": "France",
-      "location": "Toulouse, France",
-      "venue": "Le Riff",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-20-1984",
-      "year": 1984,
-      "month": 12,
-      "day": 20,
-      "city": "London",
-      "state": "England",
-      "location": "London, England",
-      "venue": "Lyceum Theatre",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-15-1985",
-      "year": 1985,
-      "month": 3,
-      "day": 15,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Kabuki Theatre",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-17-1985",
-      "year": 1985,
-      "month": 8,
-      "day": 17,
-      "city": "Donington",
-      "state": "UK",
-      "location": "Donington, UK",
-      "venue": "Donington Park",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-23-1986",
-      "year": 1986,
-      "month": 5,
-      "day": 23,
-      "city": "Tulsa",
-      "state": "OK",
-      "location": "Tulsa, OK",
-      "venue": "Cain's Ballroom",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-29-1986",
-      "year": 1986,
-      "month": 7,
-      "day": 29,
-      "city": "Chattanooga",
-      "state": "TN",
-      "location": "Chattanooga, TN",
-      "venue": "UTC Arena",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-1-1986",
-      "year": 1986,
-      "month": 8,
-      "day": 1,
-      "city": "Charleston",
-      "state": "WV",
-      "location": "Charleston, WV",
-      "venue": "Civic Center",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-21-1986",
-      "year": 1986,
-      "month": 9,
-      "day": 21,
-      "city": "London",
-      "state": "England",
-      "location": "London, England",
-      "venue": "Hammersmith Odeon",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-28-1986",
-      "year": 1986,
-      "month": 11,
-      "day": 28,
-      "city": "Poughkeepsie",
-      "state": "NY",
-      "location": "Poughkeepsie, NY",
-      "venue": "Mid-Hudson Civic Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-13-1987",
-      "year": 1987,
-      "month": 2,
-      "day": 13,
-      "city": "Gothenburg",
-      "state": "Sweden",
-      "location": "Gothenburg, Sweden",
-      "venue": "Frolundaborg",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-22-1988",
-      "year": 1988,
-      "month": 11,
-      "day": 22,
-      "city": "Milwaukee",
-      "state": "WI",
-      "location": "Milwaukee, WI",
-      "venue": "MECCA Arena",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-3-1989",
-      "year": 1989,
-      "month": 2,
-      "day": 3,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Frank Erwin Center",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-23-1989",
-      "year": 1989,
-      "month": 9,
-      "day": 23,
-      "city": "Irvine",
-      "state": "CA",
-      "location": "Irvine, CA",
-      "venue": "Irvine Meadows",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-11-1991",
-      "year": 1991,
-      "month": 9,
-      "day": 11,
-      "city": "Graz",
-      "state": "Austria",
-      "location": "Graz, Austria",
-      "venue": "Liebenau",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-1-1991",
-      "year": 1991,
-      "month": 11,
-      "day": 1,
-      "city": "Muskegon",
-      "state": "MI",
-      "location": "Muskegon, MI",
-      "venue": "L.C. Walker Arena",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-3-1991",
-      "year": 1991,
-      "month": 11,
-      "day": 3,
-      "city": "Auburn Hills",
-      "state": "MI",
-      "location": "Auburn Hills, MI",
-      "venue": "Palace of Auburn Hills",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-1-1991",
-      "year": 1991,
-      "month": 12,
-      "day": 1,
-      "city": "Cleveland",
-      "state": "OH /Richfield Coliseum (Live Metallica Vault)",
-      "location": "Cleveland, OH /Richfield Coliseum (Live Metallica Vault)",
-      "venue": "",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-13-1992",
-      "year": 1992,
-      "month": 2,
-      "day": 13,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "The Great Western Forum",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-17-1992",
-      "year": 1992,
-      "month": 7,
-      "day": 17,
-      "city": "Washington",
-      "state": "D.C",
-      "location": "Washington, D.C",
-      "venue": "RFK Stadium",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-27-1992",
-      "year": 1992,
-      "month": 9,
-      "day": 27,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "L.A. Memorial Coliseum",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-3-1992",
-      "year": 1992,
-      "month": 10,
-      "day": 3,
-      "city": "Pasadena",
-      "state": "CA",
-      "location": "Pasadena, CA",
-      "venue": "Rose Bowl",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-1-1992",
-      "year": 1992,
-      "month": 12,
-      "day": 1,
-      "city": "Stuttgart",
-      "state": "Germany",
-      "location": "Stuttgart, Germany",
-      "venue": "Hanns Martin Schleyer Halle",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-7-1992",
-      "year": 1992,
-      "month": 12,
-      "day": 7,
-      "city": "Den Bosch",
-      "state": "Netherlands",
-      "location": "Den Bosch, Netherlands",
-      "venue": "Brabanthallen",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-13-1993",
-      "year": 1993,
-      "month": 2,
-      "day": 13,
-      "city": "Montreal",
-      "state": "QC",
-      "location": "Montreal, QC",
-      "venue": "Forum de Montreal",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-11-1993",
-      "year": 1993,
-      "month": 4,
-      "day": 11,
-      "city": "Jakarta",
-      "state": "Indonesia",
-      "location": "Jakarta, Indonesia",
-      "venue": "Lebak Bulus Stadium",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-2-1993",
-      "year": 1993,
-      "month": 5,
-      "day": 2,
-      "city": "Sao Paulo",
-      "state": "BR",
-      "location": "Sao Paulo, BR",
-      "venue": "Estadio Palestra Italia",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-20-1993",
-      "year": 1993,
-      "month": 6,
-      "day": 20,
-      "city": "Basel",
-      "state": "Switzerland",
-      "location": "Basel, Switzerland",
-      "venue": "St. Jakob Stadium",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-30-1993",
-      "year": 1993,
-      "month": 6,
-      "day": 30,
-      "city": "Tel Aviv",
-      "state": "IS",
-      "location": "Tel Aviv, IS",
-      "venue": "Park Hayarkon",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-17-1994",
-      "year": 1994,
-      "month": 6,
-      "day": 17,
-      "city": "Middletown",
-      "state": "NY",
-      "location": "Middletown, NY",
-      "venue": "Orange County Fairgrounds",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-1-1994",
-      "year": 1994,
-      "month": 7,
-      "day": 1,
-      "city": "Milwaukee",
-      "state": "WI",
-      "location": "Milwaukee, WI",
-      "venue": "Marcus Amphitheater",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-22-1994",
-      "year": 1994,
-      "month": 7,
-      "day": 22,
-      "city": "Mountain View",
-      "state": "CA",
-      "location": "Mountain View, CA",
-      "venue": "Shoreline Amphitheater",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-23-1995",
-      "year": 1995,
-      "month": 8,
-      "day": 23,
-      "city": "London",
-      "state": "UK",
-      "location": "London, UK",
-      "venue": "London Astoria II",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-9-1996",
-      "year": 1996,
-      "month": 9,
-      "day": 9,
-      "city": "Prague",
-      "state": "CZ",
-      "location": "Prague, CZ",
-      "venue": "Sportovni Hala",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-6-1996",
-      "year": 1996,
-      "month": 10,
-      "day": 6,
-      "city": "Birmingham",
-      "state": "UK",
-      "location": "Birmingham, UK",
-      "venue": "BEC",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-21-1996",
-      "year": 1996,
-      "month": 11,
-      "day": 21,
-      "city": "Gothenburg",
-      "state": "Sweden",
-      "location": "Gothenburg, Sweden",
-      "venue": "Scandinavium",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-2-1997",
-      "year": 1997,
-      "month": 1,
-      "day": 2,
-      "city": "Salt Lake City",
-      "state": "UT",
-      "location": "Salt Lake City, UT",
-      "venue": "Delta Center",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-16-1997",
-      "year": 1997,
-      "month": 11,
-      "day": 16,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Den Gral Hal",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-17-1998",
-      "year": 1998,
-      "month": 4,
-      "day": 17,
-      "city": "Wellington",
-      "state": "NZ",
-      "location": "Wellington, NZ",
-      "venue": "Queens Wharf Event Centre",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-30-1999",
-      "year": 1999,
-      "month": 4,
-      "day": 30,
-      "city": "Ciudad De Me?xico",
-      "state": "Mexico",
-      "location": "Ciudad De Me?xico, Mexico",
-      "venue": "Foro Sol",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-2-1999",
-      "year": 1999,
-      "month": 5,
-      "day": 2,
-      "city": "Bogota",
-      "state": "COL",
-      "location": "Bogota, COL",
-      "venue": "Parque Simon Bolivar",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-21-1999",
-      "year": 1999,
-      "month": 5,
-      "day": 21,
-      "city": "Nu?rnberg",
-      "state": "Germany",
-      "location": "Nu?rnberg, Germany",
-      "venue": "Frankenstadion",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-13-1999",
-      "year": 1999,
-      "month": 6,
-      "day": 13,
-      "city": "Istanbul",
-      "state": "Turkey",
-      "location": "Istanbul, Turkey",
-      "venue": "Ali Sami Yen Stadium",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-25-1999",
-      "year": 1999,
-      "month": 6,
-      "day": 25,
-      "city": "St. Gasllen",
-      "state": "Switzerland",
-      "location": "St. Gasllen, Switzerland",
-      "venue": "Open Air",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-29-1999",
-      "year": 1999,
-      "month": 12,
-      "day": 29,
-      "city": "St. Petersburg",
-      "state": "FL",
-      "location": "St. Petersburg, FL",
-      "venue": "Tropicana Field",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-1-2000",
-      "year": 2000,
-      "month": 1,
-      "day": 1,
-      "city": "Cleveland",
-      "state": "OH",
-      "location": "Cleveland, OH",
-      "venue": "Gund Arena",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-2-2000",
-      "year": 2000,
-      "month": 8,
-      "day": 2,
-      "city": "Dallas",
-      "state": "TX",
-      "location": "Dallas, TX",
-      "venue": "Smirnoff Music Centre",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-3-2000",
-      "year": 2000,
-      "month": 8,
-      "day": 3,
-      "city": "Dallas",
-      "state": "TX",
-      "location": "Dallas, TX",
-      "venue": "Starplex Amphitheater",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-22-2003",
-      "year": 2003,
-      "month": 6,
-      "day": 22,
-      "city": "Madrid",
-      "state": "Spain",
-      "location": "Madrid, Spain",
-      "venue": "Estadio La Peineta",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-6-2003",
-      "year": 2003,
-      "month": 7,
-      "day": 6,
-      "city": "Foxborough",
-      "state": "MA",
-      "location": "Foxborough, MA",
-      "venue": "Gilette Stadium",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-13-2003",
-      "year": 2003,
-      "month": 7,
-      "day": 13,
-      "city": "Orlando",
-      "state": "FL",
-      "location": "Orlando, FL",
-      "venue": "Citrus Bowl",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-6-2003",
-      "year": 2003,
-      "month": 8,
-      "day": 6,
-      "city": "West Valley City",
-      "state": "UT",
-      "location": "West Valley City, UT",
-      "venue": "Usana Amphitheatre",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-2-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 2,
-      "city": "Phoenix",
-      "state": "AZ",
-      "location": "Phoenix, AZ",
-      "venue": "America West Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-3-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 3,
-      "city": "Tucson",
-      "state": "AZ",
-      "location": "Tucson, AZ",
-      "venue": "Tucson Convention Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-5-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 5,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "The Forum",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-6-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 6,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "The Forum",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-8-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 8,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Cow Palace",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-10-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 10,
-      "city": "Sacramento",
-      "state": "CA",
-      "location": "Sacramento, CA",
-      "venue": "ARCO Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-11-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 11,
-      "city": "Reno",
-      "state": "NV",
-      "location": "Reno, NV",
-      "venue": "Lawlor Events Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-13-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 13,
-      "city": "Las Vegas",
-      "state": "NV",
-      "location": "Las Vegas, NV",
-      "venue": "Thomas & Mack Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-14-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 14,
-      "city": "Fresno",
-      "state": "CA",
-      "location": "Fresno, CA",
-      "venue": "Save Mart Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-18-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 18,
-      "city": "Portland",
-      "state": "OR",
-      "location": "Portland, OR",
-      "venue": "Rose Garden Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-20-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 20,
-      "city": "Boise",
-      "state": "ID",
-      "location": "Boise, ID",
-      "venue": "BSU Pavilion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-21-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 21,
-      "city": "Spokane",
-      "state": "WA",
-      "location": "Spokane, WA",
-      "venue": "Spokane Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-23-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 23,
-      "city": "Edmonton",
-      "state": "Alberta",
-      "location": "Edmonton, Alberta",
-      "venue": "Rexall Place",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-24-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 24,
-      "city": "Calgary",
-      "state": "Alberta",
-      "location": "Calgary, Alberta",
-      "venue": "Pengrowth Saddledome",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-26-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 26,
-      "city": "Vancouver",
-      "state": "BC",
-      "location": "Vancouver, BC",
-      "venue": "General Motors Place",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-28-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 28,
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Key Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-30-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 30,
-      "city": "Casper",
-      "state": "WY",
-      "location": "Casper, WY",
-      "venue": "Casper Events Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-31-2004",
-      "year": 2004,
-      "month": 3,
-      "day": 31,
-      "city": "Denver",
-      "state": "CO",
-      "location": "Denver, CO",
-      "venue": "Pepsi Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-20-2004",
-      "year": 2004,
-      "month": 4,
-      "day": 20,
-      "city": "Uniondale",
-      "state": "NY",
-      "location": "Uniondale, NY",
-      "venue": "Nassau Coliseum - 1st night",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-21-2004",
-      "year": 2004,
-      "month": 4,
-      "day": 21,
-      "city": "Uniondale",
-      "state": "NY",
-      "location": "Uniondale, NY",
-      "venue": "Nassau Coliseum - 2nd night",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-23-2004",
-      "year": 2004,
-      "month": 4,
-      "day": 23,
-      "city": "Charlotte",
-      "state": "NC",
-      "location": "Charlotte, NC",
-      "venue": "Charlotte Coliseum",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-24-2004",
-      "year": 2004,
-      "month": 4,
-      "day": 24,
-      "city": "Roanoke",
-      "state": "VA",
-      "location": "Roanoke, VA",
-      "venue": "Roanoke Civic Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-26-2004",
-      "year": 2004,
-      "month": 4,
-      "day": 26,
-      "city": "Norfolk",
-      "state": "VA",
-      "location": "Norfolk, VA",
-      "venue": "Scope Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-28-2004",
-      "year": 2004,
-      "month": 4,
-      "day": 28,
-      "city": "Louisville",
-      "state": "KY",
-      "location": "Louisville, KY",
-      "venue": "Freedom Hall",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-29-2004",
-      "year": 2004,
-      "month": 4,
-      "day": 29,
-      "city": "Grand Rapids",
-      "state": "MI",
-      "location": "Grand Rapids, MI",
-      "venue": "Van Andel Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-1-2004",
-      "year": 2004,
-      "month": 5,
-      "day": 1,
-      "city": "Cincinnati",
-      "state": "OH",
-      "location": "Cincinnati, OH",
-      "venue": "U.S. Bank Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-2-2004",
-      "year": 2004,
-      "month": 5,
-      "day": 2,
-      "city": "Madison",
-      "state": "WI",
-      "location": "Madison, WI",
-      "venue": "Alliant Energy Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-6-2004",
-      "year": 2004,
-      "month": 5,
-      "day": 6,
-      "city": "Calgary",
-      "state": "Alberta",
-      "location": "Calgary, Alberta",
-      "venue": "Pengrowth Saddledome",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-7-2004",
-      "year": 2004,
-      "month": 5,
-      "day": 7,
-      "city": "Saskatoon",
-      "state": "SK",
-      "location": "Saskatoon, SK",
-      "venue": "Saskatchewan Place",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-9-2004",
-      "year": 2004,
-      "month": 5,
-      "day": 9,
-      "city": "Winnipeg",
-      "state": "MB",
-      "location": "Winnipeg, MB",
-      "venue": "Winnipeg Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-11-2004",
-      "year": 2004,
-      "month": 5,
-      "day": 11,
-      "city": "Kansas City",
-      "state": "MO",
-      "location": "Kansas City, MO",
-      "venue": "Kemper Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-12-2004",
-      "year": 2004,
-      "month": 5,
-      "day": 12,
-      "city": "Omaha",
-      "state": "NE",
-      "location": "Omaha, NE",
-      "venue": "Qwest Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-14-2004",
-      "year": 2004,
-      "month": 5,
-      "day": 14,
-      "city": "Oklahoma City",
-      "state": "OK",
-      "location": "Oklahoma City, OK",
-      "venue": "Ford Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-15-2004",
-      "year": 2004,
-      "month": 5,
-      "day": 15,
-      "city": "Little Rock",
-      "state": "AR",
-      "location": "Little Rock, AR",
-      "venue": "Alltel Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-26-2004",
-      "year": 2004,
-      "month": 5,
-      "day": 26,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Parken Stadium",
-      "notes": "Mix #1 \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-26-2004",
-      "year": 2004,
-      "month": 5,
-      "day": 26,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Parken Stadium",
-      "notes": "Mix #2 \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-28-2004",
-      "year": 2004,
-      "month": 5,
-      "day": 28,
-      "city": "Helsinki",
-      "state": "Finland",
-      "location": "Helsinki, Finland",
-      "venue": "Olympiastadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-30-2004",
-      "year": 2004,
-      "month": 5,
-      "day": 30,
-      "city": "Gothenburg",
-      "state": "Sweden",
-      "location": "Gothenburg, Sweden",
-      "venue": "Ullevi Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-31-2004",
-      "year": 2004,
-      "month": 5,
-      "day": 31,
-      "city": "Chorzow",
-      "state": "Poland",
-      "location": "Chorzow, Poland",
-      "venue": "Stadion ?l?ski",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-2-2004",
-      "year": 2004,
-      "month": 6,
-      "day": 2,
-      "city": "Glasgow",
-      "state": "Scotland",
-      "location": "Glasgow, Scotland",
-      "venue": "Glasgow Green - Download Scotland 2004",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-4-2004",
-      "year": 2004,
-      "month": 6,
-      "day": 4,
-      "city": "Lisbon",
-      "state": "Portugal",
-      "location": "Lisbon, Portugal",
-      "venue": "Parque da Bela Vista",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-6-2004",
-      "year": 2004,
-      "month": 6,
-      "day": 6,
-      "city": "Donington",
-      "state": "England",
-      "location": "Donington, England",
-      "venue": "Donington Park - Download England 2004",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-8-2004",
-      "year": 2004,
-      "month": 6,
-      "day": 8,
-      "city": "Ludwigshafen",
-      "state": "Germany",
-      "location": "Ludwigshafen, Germany",
-      "venue": "S?dweststadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-10-2004",
-      "year": 2004,
-      "month": 6,
-      "day": 10,
-      "city": "Gelsenkirchen",
-      "state": "Germany",
-      "location": "Gelsenkirchen, Germany",
-      "venue": "Arena AufSchalke",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-11-2004",
-      "year": 2004,
-      "month": 6,
-      "day": 11,
-      "city": "Wiener Neustadt",
-      "state": "Austria",
-      "location": "Wiener Neustadt, Austria",
-      "venue": "Civitas Nova - Aerodome Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-13-2004",
-      "year": 2004,
-      "month": 6,
-      "day": 13,
-      "city": "Munich",
-      "state": "Germany",
-      "location": "Munich, Germany",
-      "venue": "Olympiastadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-15-2004",
-      "year": 2004,
-      "month": 6,
-      "day": 15,
-      "city": "Belgrade",
-      "state": "Serbia",
-      "location": "Belgrade, Serbia",
-      "venue": "Partizan Stadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-16-2004",
-      "year": 2004,
-      "month": 6,
-      "day": 16,
-      "city": "Bremen",
-      "state": "Germany",
-      "location": "Bremen, Germany",
-      "venue": "Weserstadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-18-2004",
-      "year": 2004,
-      "month": 6,
-      "day": 18,
-      "city": "Zurich",
-      "state": "Switzerland",
-      "location": "Zurich, Switzerland",
-      "venue": "Letzigrund Stadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-19-2004",
-      "year": 2004,
-      "month": 6,
-      "day": 19,
-      "city": "Zaragoza",
-      "state": "Spain",
-      "location": "Zaragoza, Spain",
-      "venue": "Estadio de La Romareda",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-21-2004",
-      "year": 2004,
-      "month": 6,
-      "day": 21,
-      "city": "Amsterdam",
-      "state": "Holland",
-      "location": "Amsterdam, Holland",
-      "venue": "ArenA",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-25-2004",
-      "year": 2004,
-      "month": 6,
-      "day": 25,
-      "city": "Dublin",
-      "state": "Ireland",
-      "location": "Dublin, Ireland",
-      "venue": "RDS Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-29-2004",
-      "year": 2004,
-      "month": 6,
-      "day": 29,
-      "city": "Padova",
-      "state": "ITA",
-      "location": "Padova, ITA",
-      "venue": "Stadio Euganeo",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-1-2004",
-      "year": 2004,
-      "month": 7,
-      "day": 1,
-      "city": "Prague",
-      "state": "CZE",
-      "location": "Prague, CZE",
-      "venue": "T-Mobile Park Kolbenova",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-2-2004",
-      "year": 2004,
-      "month": 7,
-      "day": 2,
-      "city": "Werchter",
-      "state": "BEL",
-      "location": "Werchter, BEL",
-      "venue": "Werchterpark",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-4-2004",
-      "year": 2004,
-      "month": 7,
-      "day": 4,
-      "city": "Reykjavik",
-      "state": "Iceland",
-      "location": "Reykjavik, Iceland",
-      "venue": "Egilsholl Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-16-2004",
-      "year": 2004,
-      "month": 8,
-      "day": 16,
-      "city": "St. Paul",
-      "state": "MN",
-      "location": "St. Paul, MN",
-      "venue": "Xcel Energy Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-17-2004",
-      "year": 2004,
-      "month": 8,
-      "day": 17,
-      "city": "Fargo",
-      "state": "ND",
-      "location": "Fargo, ND",
-      "venue": "Fargodome",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-19-2004",
-      "year": 2004,
-      "month": 8,
-      "day": 19,
-      "city": "Indianapolis",
-      "state": "IN",
-      "location": "Indianapolis, IN",
-      "venue": "Conseco Fieldhouse",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-20-2004",
-      "year": 2004,
-      "month": 8,
-      "day": 20,
-      "city": "Milwaukee",
-      "state": "WI",
-      "location": "Milwaukee, WI",
-      "venue": "Bradley Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-22-2004",
-      "year": 2004,
-      "month": 8,
-      "day": 22,
-      "city": "Moline",
-      "state": "IL",
-      "location": "Moline, IL",
-      "venue": "Mark of the Quad Cities",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-24-2004",
-      "year": 2004,
-      "month": 8,
-      "day": 24,
-      "city": "Peoria",
-      "state": "IL",
-      "location": "Peoria, IL",
-      "venue": "Peoria Civic Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-25-2004",
-      "year": 2004,
-      "month": 8,
-      "day": 25,
-      "city": "Fort Wayne",
-      "state": "IN",
-      "location": "Fort Wayne, IN",
-      "venue": "Peoria Civic Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-27-2004",
-      "year": 2004,
-      "month": 8,
-      "day": 27,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Allstate Arena",
-      "notes": "1st Night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-28-2004",
-      "year": 2004,
-      "month": 8,
-      "day": 28,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Allstate Arena",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-30-2004",
-      "year": 2004,
-      "month": 8,
-      "day": 30,
-      "city": "Ames",
-      "state": "IA",
-      "location": "Ames, IA",
-      "venue": "Hilton Coliseum",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-1-2004",
-      "year": 2004,
-      "month": 9,
-      "day": 1,
-      "city": "Wichita",
-      "state": "KS",
-      "location": "Wichita, KS",
-      "venue": "Valley Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-3-2004",
-      "year": 2004,
-      "month": 9,
-      "day": 3,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Frank Erwin Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-4-2004",
-      "year": 2004,
-      "month": 9,
-      "day": 4,
-      "city": "Lubbock",
-      "state": "TX",
-      "location": "Lubbock, TX",
-      "venue": "United Spirit Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-21-2004",
-      "year": 2004,
-      "month": 9,
-      "day": 21,
-      "city": "Cleveland",
-      "state": "OH",
-      "location": "Cleveland, OH",
-      "venue": "Gund Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-22-2004",
-      "year": 2004,
-      "month": 9,
-      "day": 22,
-      "city": "Pittsburgh",
-      "state": "PA",
-      "location": "Pittsburgh, PA",
-      "venue": "Mellon Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-24-2004",
-      "year": 2004,
-      "month": 9,
-      "day": 24,
-      "city": "Columbus",
-      "state": "OH",
-      "location": "Columbus, OH",
-      "venue": "Value City Arena at the Schottenstein Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-27-2004",
-      "year": 2004,
-      "month": 9,
-      "day": 27,
-      "city": "Green Bay",
-      "state": "WI",
-      "location": "Green Bay, WI",
-      "venue": "Resch Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-1-2004",
-      "year": 2004,
-      "month": 10,
-      "day": 1,
-      "city": "Auburn Hills",
-      "state": "MI",
-      "location": "Auburn Hills, MI",
-      "venue": "The Palace of Auburn Hills",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-6-2004",
-      "year": 2004,
-      "month": 10,
-      "day": 6,
-      "city": "Toronto",
-      "state": "Ontario",
-      "location": "Toronto, Ontario",
-      "venue": "Air Canada Centre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-7-2004",
-      "year": 2004,
-      "month": 10,
-      "day": 7,
-      "city": "Ottawa",
-      "state": "ON",
-      "location": "Ottawa, ON",
-      "venue": "Corel Centre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-14-2004",
-      "year": 2004,
-      "month": 10,
-      "day": 14,
-      "city": "Quebec City",
-      "state": "QC",
-      "location": "Quebec City, QC",
-      "venue": "Colisee Pepsi",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-15-2004",
-      "year": 2004,
-      "month": 10,
-      "day": 15,
-      "city": "Quebec City",
-      "state": "QC",
-      "location": "Quebec City, QC",
-      "venue": "Colisee Pepsi",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-17-2004",
-      "year": 2004,
-      "month": 10,
-      "day": 17,
-      "city": "Washington",
-      "state": "D.C.",
-      "location": "Washington, D.C.",
-      "venue": "MCI Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-19-2004",
-      "year": 2004,
-      "month": 10,
-      "day": 19,
-      "city": "Philadelphia",
-      "state": "PA",
-      "location": "Philadelphia, PA",
-      "venue": "Wachovia Center",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-20-2004",
-      "year": 2004,
-      "month": 10,
-      "day": 20,
-      "city": "Philadelphia",
-      "state": "PA",
-      "location": "Philadelphia, PA",
-      "venue": "Wachovia Center",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-22-2004",
-      "year": 2004,
-      "month": 10,
-      "day": 22,
-      "city": "East Rutherford",
-      "state": "NJ",
-      "location": "East Rutherford, NJ",
-      "venue": "Continental Airlines Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-27-2004",
-      "year": 2004,
-      "month": 10,
-      "day": 27,
-      "city": "Hamilton",
-      "state": "Ontario",
-      "location": "Hamilton, Ontario",
-      "venue": "Copps Coliseum",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-28-2004",
-      "year": 2004,
-      "month": 10,
-      "day": 28,
-      "city": "London",
-      "state": "Ontario",
-      "location": "London, Ontario",
-      "venue": "John Labatt Centre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-5-2004",
-      "year": 2004,
-      "month": 11,
-      "day": 5,
-      "city": "Tampa",
-      "state": "FL",
-      "location": "Tampa, FL",
-      "venue": "St. Pete Times Forum",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-6-2004",
-      "year": 2004,
-      "month": 11,
-      "day": 6,
-      "city": "Sunrise",
-      "state": "FL",
-      "location": "Sunrise, FL",
-      "venue": "Office Depot Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-9-2004",
-      "year": 2004,
-      "month": 11,
-      "day": 9,
-      "city": "Pensacola",
-      "state": "FL",
-      "location": "Pensacola, FL",
-      "venue": "Pensacola Civic Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-11-2004",
-      "year": 2004,
-      "month": 11,
-      "day": 11,
-      "city": "Nashville",
-      "state": "TN",
-      "location": "Nashville, TN",
-      "venue": "Gaylord Entertainment Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-13-2004",
-      "year": 2004,
-      "month": 11,
-      "day": 13,
-      "city": "Duluth",
-      "state": "GA",
-      "location": "Duluth, GA",
-      "venue": "Gwinnett Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-14-2004",
-      "year": 2004,
-      "month": 11,
-      "day": 14,
-      "city": "New Orleans",
-      "state": "LA",
-      "location": "New Orleans, LA",
-      "venue": "New Orleans Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-16-2004",
-      "year": 2004,
-      "month": 11,
-      "day": 16,
-      "city": "Houston",
-      "state": "TX",
-      "location": "Houston, TX",
-      "venue": "Toyota Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-17-2004",
-      "year": 2004,
-      "month": 11,
-      "day": 17,
-      "city": "Dallas",
-      "state": "TX",
-      "location": "Dallas, TX",
-      "venue": "American Airlines Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-20-2004",
-      "year": 2004,
-      "month": 11,
-      "day": 20,
-      "city": "San Antonio",
-      "state": "TX",
-      "location": "San Antonio, TX",
-      "venue": "SBC Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-22-2004",
-      "year": 2004,
-      "month": 11,
-      "day": 22,
-      "city": "Salt Lake City",
-      "state": "UT",
-      "location": "Salt Lake City, UT",
-      "venue": "E Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-24-2004",
-      "year": 2004,
-      "month": 11,
-      "day": 24,
-      "city": "San Diego",
-      "state": "CA",
-      "location": "San Diego, CA",
-      "venue": "Ipayone Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-27-2004",
-      "year": 2004,
-      "month": 11,
-      "day": 27,
-      "city": "Anaheim",
-      "state": "CA",
-      "location": "Anaheim, CA",
-      "venue": "Arrowhead Pond Tuning Room",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-28-2004",
-      "year": 2004,
-      "month": 11,
-      "day": 28,
-      "city": "San Jose",
-      "state": "CA",
-      "location": "San Jose, CA",
-      "venue": "HP Pavilion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-25-2006",
-      "year": 2006,
-      "month": 1,
-      "day": 25,
-      "city": "Park City",
-      "state": "UT",
-      "location": "Park City, UT",
-      "venue": "Harry O's",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-18-2006",
-      "year": 2006,
-      "month": 3,
-      "day": 18,
-      "city": "Centaurion",
-      "state": "South Africa",
-      "location": "Centaurion, South Africa",
-      "venue": "Supersport Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-21-2006",
-      "year": 2006,
-      "month": 3,
-      "day": 21,
-      "city": "Durban",
-      "state": "South Africa",
-      "location": "Durban, South Africa",
-      "venue": "The Coca-Cola Colab Massive Mix 2006",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-25-2006",
-      "year": 2006,
-      "month": 3,
-      "day": 25,
-      "city": "Cape Town",
-      "state": "South Africa",
-      "location": "Cape Town, South Africa",
-      "venue": "The Coca-Cola Colab Massive Mix 2006",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-3-2006",
-      "year": 2006,
-      "month": 6,
-      "day": 3,
-      "city": "Nurburgring",
-      "state": "Germany",
-      "location": "Nurburgring, Germany",
-      "venue": "Rock am Ring",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-4-2006",
-      "year": 2006,
-      "month": 6,
-      "day": 4,
-      "city": "Nuremburg",
-      "state": "Germany",
-      "location": "Nuremburg, Germany",
-      "venue": "Rock im Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-6-2006",
-      "year": 2006,
-      "month": 6,
-      "day": 6,
-      "city": "Berlin",
-      "state": "Germany",
-      "location": "Berlin, Germany",
-      "venue": "Waldb?hne",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-8-2006",
-      "year": 2006,
-      "month": 6,
-      "day": 8,
-      "city": "Arnhem",
-      "state": "Holland",
-      "location": "Arnhem, Holland",
-      "venue": "Gelredome",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-10-2006",
-      "year": 2006,
-      "month": 6,
-      "day": 10,
-      "city": "Donington",
-      "state": "England",
-      "location": "Donington, England",
-      "venue": "Donington Park - Download 2006",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-13-2006",
-      "year": 2006,
-      "month": 6,
-      "day": 13,
-      "city": "Tallin",
-      "state": "Estonia",
-      "location": "Tallin, Estonia",
-      "venue": "Tallinna Lauluv?ljak",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-15-2006",
-      "year": 2006,
-      "month": 6,
-      "day": 15,
-      "city": "Nickelsdorf",
-      "state": "Austria",
-      "location": "Nickelsdorf, Austria",
-      "venue": "Pannonia Fields II",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-17-2006",
-      "year": 2006,
-      "month": 6,
-      "day": 17,
-      "city": "Imola",
-      "state": "Italy",
-      "location": "Imola, Italy",
-      "venue": "Autodromo Internazionale Enzo e Dino Ferrari - Heineken Jammin' Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-12-2006",
-      "year": 2006,
-      "month": 8,
-      "day": 12,
-      "city": "Tokyo",
-      "state": "Japan",
-      "location": "Tokyo, Japan",
-      "venue": "Chiba Marine Stadium - Summer Sonic Tokyo",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-13-2006",
-      "year": 2006,
-      "month": 8,
-      "day": 13,
-      "city": "Osaka",
-      "state": "Japan",
-      "location": "Osaka, Japan",
-      "venue": "WTC Open Air Stadium - Summer Sonic Osaka",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-15-2006",
-      "year": 2006,
-      "month": 8,
-      "day": 15,
-      "city": "Seoul",
-      "state": "Korea",
-      "location": "Seoul, Korea",
-      "venue": "Olympic Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-28-2007",
-      "year": 2007,
-      "month": 6,
-      "day": 28,
-      "city": "Lisbon",
-      "state": "Portugal",
-      "location": "Lisbon, Portugal",
-      "venue": "Parque do Tejo - Super Bock Super Rock 2007",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-29-2007",
-      "year": 2007,
-      "month": 6,
-      "day": 29,
-      "city": "Bilbao",
-      "state": "Spain",
-      "location": "Bilbao, Spain",
-      "venue": "Kobetamendi - Bilbao BBK Live",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-1-2007",
-      "year": 2007,
-      "month": 7,
-      "day": 1,
-      "city": "Werchter",
-      "state": "Belgium",
-      "location": "Werchter, Belgium",
-      "venue": "Festival Park Werchter - Rock Werchter 2007",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-3-2007",
-      "year": 2007,
-      "month": 7,
-      "day": 3,
-      "city": "Athens",
-      "state": "Greece",
-      "location": "Athens, Greece",
-      "venue": "Terra Vibe - Rockwave Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-5-2007",
-      "year": 2007,
-      "month": 7,
-      "day": 5,
-      "city": "Vienna",
-      "state": "Austria",
-      "location": "Vienna, Austria",
-      "venue": "Rotundenplatz",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-7-2007",
-      "year": 2007,
-      "month": 7,
-      "day": 7,
-      "city": "London",
-      "state": "England",
-      "location": "London, England",
-      "venue": "Wembley Stadium - Live Earth London",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-8-2007",
-      "year": 2007,
-      "month": 7,
-      "day": 8,
-      "city": "London",
-      "state": "England",
-      "location": "London, England",
-      "venue": "Wembley Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-10-2007",
-      "year": 2007,
-      "month": 7,
-      "day": 10,
-      "city": "Oslo",
-      "state": "Norway",
-      "location": "Oslo, Norway",
-      "venue": "Valle Hovin",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-12-2007",
-      "year": 2007,
-      "month": 7,
-      "day": 12,
-      "city": "Stockholm",
-      "state": "Sweden",
-      "location": "Stockholm, Sweden",
-      "venue": "Stockholms Stadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-13-2007",
-      "year": 2007,
-      "month": 7,
-      "day": 13,
-      "city": "Aarhus",
-      "state": "Denmark",
-      "location": "Aarhus, Denmark",
-      "venue": "Vestereng",
-      "notes": "inc \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-15-2007",
-      "year": 2007,
-      "month": 7,
-      "day": 15,
-      "city": "Helsinki",
-      "state": "Finland",
-      "location": "Helsinki, Finland",
-      "venue": "Olympiastadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-18-2007",
-      "year": 2007,
-      "month": 7,
-      "day": 18,
-      "city": "Moscow",
-      "state": "Russia",
-      "location": "Moscow, Russia",
-      "venue": "Luzhniki Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-27-2007",
-      "year": 2007,
-      "month": 10,
-      "day": 27,
-      "city": "Mountain View",
-      "state": "CA",
-      "location": "Mountain View, CA",
-      "venue": "Shoreline Amphitheatre - Bridge School Benefit",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-28-2007",
-      "year": 2007,
-      "month": 10,
-      "day": 28,
-      "city": "Mountain View",
-      "state": "CA",
-      "location": "Mountain View, CA",
-      "venue": "Shoreline Amphitheatre - Bridge School Benefit",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-14-2008",
-      "year": 2008,
-      "month": 5,
-      "day": 14,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Wiltern Theatre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-16-2008",
-      "year": 2008,
-      "month": 5,
-      "day": 16,
-      "city": "Tuscon",
-      "state": "AZ",
-      "location": "Tuscon, AZ",
-      "venue": "Pima County Fairgrounds - KMFA Day",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-17-2008",
-      "year": 2008,
-      "month": 5,
-      "day": 17,
-      "city": "Irvine",
-      "state": "CA",
-      "location": "Irvine, CA",
-      "venue": "Verizon Wireless Amphitheatre - KROQ Weenie Roast",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-28-2008",
-      "year": 2008,
-      "month": 5,
-      "day": 28,
-      "city": "Chorzow",
-      "state": "Poland",
-      "location": "Chorzow, Poland",
-      "venue": "Stadion Slaski",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-30-2008",
-      "year": 2008,
-      "month": 5,
-      "day": 30,
-      "city": "Landgraaf",
-      "state": "Holland",
-      "location": "Landgraaf, Holland",
-      "venue": "Megaland - Pinkpop Festival",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-31-2008",
-      "year": 2008,
-      "month": 5,
-      "day": 31,
-      "city": "Getafe",
-      "state": "Spain",
-      "location": "Getafe, Spain",
-      "venue": "Auditorio John Lennon - Electric Weekend",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-31-2008",
-      "year": 2008,
-      "month": 5,
-      "day": 31,
-      "city": "Getafe",
-      "state": "Spain",
-      "location": "Getafe, Spain",
-      "venue": "Auditorio John Lennon - Electric Weekend",
-      "notes": "LiveMetallica \u00b7 2020 Mix",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-3-2008",
-      "year": 2008,
-      "month": 6,
-      "day": 3,
-      "city": "Prague",
-      "state": "Czech Republic",
-      "location": "Prague, Czech Republic",
-      "venue": "Stadion Eden",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-5-2008",
-      "year": 2008,
-      "month": 6,
-      "day": 5,
-      "city": "Lisbon",
-      "state": "Portugal",
-      "location": "Lisbon, Portugal",
-      "venue": "Parque da Bela Vista - Rock in Rio Lisboa",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-7-2008",
-      "year": 2008,
-      "month": 6,
-      "day": 7,
-      "city": "Nurburg",
-      "state": "Germany",
-      "location": "Nurburg, Germany",
-      "venue": "Nurburgring - Rock am Ring",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-8-2008",
-      "year": 2008,
-      "month": 6,
-      "day": 8,
-      "city": "Nurnberg",
-      "state": "Germany",
-      "location": "Nurnberg, Germany",
-      "venue": "Zeppelinfeld - Rock im Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-12-2008",
-      "year": 2008,
-      "month": 6,
-      "day": 12,
-      "city": "Nashville",
-      "state": "TN",
-      "location": "Nashville, TN",
-      "venue": "The Basement",
-      "notes": "Secret Gig \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-13-2008",
-      "year": 2008,
-      "month": 6,
-      "day": 13,
-      "city": "Manchester",
-      "state": "TN",
-      "location": "Manchester, TN",
-      "venue": "Great Stage Park - Bonnaroo",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-16-2008",
-      "year": 2008,
-      "month": 7,
-      "day": 16,
-      "city": "Bergen",
-      "state": "Norway",
-      "location": "Bergen, Norway",
-      "venue": "Koengen",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-18-2008",
-      "year": 2008,
-      "month": 7,
-      "day": 18,
-      "city": "St. Petersburg",
-      "state": "Russia",
-      "location": "St. Petersburg, Russia",
-      "venue": "SKK Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-20-2008",
-      "year": 2008,
-      "month": 7,
-      "day": 20,
-      "city": "Riga",
-      "state": "Latvia",
-      "location": "Riga, Latvia",
-      "venue": "Skonto stadions",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-22-2008",
-      "year": 2008,
-      "month": 7,
-      "day": 22,
-      "city": "Bologna",
-      "state": "Italy",
-      "location": "Bologna, Italy",
-      "venue": "Arena Paro Nord",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-23-2008",
-      "year": 2008,
-      "month": 7,
-      "day": 23,
-      "city": "Bucharest",
-      "state": "Romania",
-      "location": "Bucharest, Romania",
-      "venue": "Cotroceni Football Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-25-2008",
-      "year": 2008,
-      "month": 7,
-      "day": 25,
-      "city": "Sofia",
-      "state": "Bulgaria",
-      "location": "Sofia, Bulgaria",
-      "venue": "Vasil Levski Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-27-2008",
-      "year": 2008,
-      "month": 7,
-      "day": 27,
-      "city": "Istanbul",
-      "state": "Turkey",
-      "location": "Istanbul, Turkey",
-      "venue": "Ali Sami Yen Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-9-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 9,
-      "city": "Dallas",
-      "state": "TX",
-      "location": "Dallas, TX",
-      "venue": "Pizz Hut Park - Ozzfest",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-14-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 14,
-      "city": "Arras",
-      "state": "France",
-      "location": "Arras, France",
-      "venue": "Grand' Place",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-15-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 15,
-      "city": "Hasselt",
-      "state": "Belgium",
-      "location": "Hasselt, Belgium",
-      "venue": "Domein Kiewit - Pukkelpop 2008",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-17-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 17,
-      "city": "Jonschwil",
-      "state": "Switzerland",
-      "location": "Jonschwil, Switzerland",
-      "venue": "Degenaupark",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-20-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 20,
-      "city": "Dublin",
-      "state": "Ireland",
-      "location": "Dublin, Ireland",
-      "venue": "Marlay Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-22-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 22,
-      "city": "Leeds",
-      "state": "England",
-      "location": "Leeds, England",
-      "venue": "Bramham Park - Leeds Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-24-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 24,
-      "city": "Reading",
-      "state": "England",
-      "location": "Reading, England",
-      "venue": "Little John's Farm - Reading Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-12-2004",
-      "year": 2004,
-      "month": 9,
-      "day": 12,
-      "city": "Berlin",
-      "state": "Germany",
-      "location": "Berlin, Germany",
-      "venue": "02 World",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-14-2008",
-      "year": 2008,
-      "month": 9,
-      "day": 14,
-      "city": "London",
-      "state": "England",
-      "location": "London, England",
-      "venue": "BBC Radio Theatre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-15-2008",
-      "year": 2008,
-      "month": 9,
-      "day": 15,
-      "city": "London",
-      "state": "England",
-      "location": "London, England",
-      "venue": "02 Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-21-2008",
-      "year": 2008,
-      "month": 10,
-      "day": 21,
-      "city": "Glendale",
-      "state": "AZ",
-      "location": "Glendale, AZ",
-      "venue": "Jobing.com Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-23-2008",
-      "year": 2008,
-      "month": 10,
-      "day": 23,
-      "city": "Alburquerque",
-      "state": "NM",
-      "location": "Alburquerque, NM",
-      "venue": "Tingley Coliseum",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-25-2008",
-      "year": 2008,
-      "month": 10,
-      "day": 25,
-      "city": "Kansas City",
-      "state": "MO",
-      "location": "Kansas City, MO",
-      "venue": "Sprint Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-26-2008",
-      "year": 2008,
-      "month": 10,
-      "day": 26,
-      "city": "Des Moines",
-      "state": "IA",
-      "location": "Des Moines, IA",
-      "venue": "Wells Fargo Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-1-2008",
-      "year": 2008,
-      "month": 11,
-      "day": 1,
-      "city": "Portland",
-      "state": "OR",
-      "location": "Portland, OR",
-      "venue": "Rose Garden Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-3-2008",
-      "year": 2008,
-      "month": 11,
-      "day": 3,
-      "city": "Salt Lake City",
-      "state": "UT",
-      "location": "Salt Lake City, UT",
-      "venue": "EnergySolutions Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-4-2008",
-      "year": 2008,
-      "month": 11,
-      "day": 4,
-      "city": "Denver",
-      "state": "CO",
-      "location": "Denver, CO",
-      "venue": "Pepsi Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-6-2008",
-      "year": 2008,
-      "month": 11,
-      "day": 6,
-      "city": "Moline",
-      "state": "IL",
-      "location": "Moline, IL",
-      "venue": "iWireless Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-8-2008",
-      "year": 2008,
-      "month": 11,
-      "day": 8,
-      "city": "Moline",
-      "state": "IL",
-      "location": "Moline, IL",
-      "venue": "iWireless Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-9-2008",
-      "year": 2008,
-      "month": 11,
-      "day": 9,
-      "city": "Columbus",
-      "state": "OH",
-      "location": "Columbus, OH",
-      "venue": "Value City Arena at the Schottenstein Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-17-2008",
-      "year": 2008,
-      "month": 11,
-      "day": 17,
-      "city": "St. Louis",
-      "state": "MO",
-      "location": "St. Louis, MO",
-      "venue": "Scottrade Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-18-2008",
-      "year": 2008,
-      "month": 11,
-      "day": 18,
-      "city": "Tulsa",
-      "state": "OK",
-      "location": "Tulsa, OK",
-      "venue": "BOK Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-20-2008",
-      "year": 2008,
-      "month": 11,
-      "day": 20,
-      "city": "Houston",
-      "state": "TX",
-      "location": "Houston, TX",
-      "venue": "Toyota Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-22-2008",
-      "year": 2008,
-      "month": 11,
-      "day": 22,
-      "city": "Little Rock",
-      "state": "AR",
-      "location": "Little Rock, AR",
-      "venue": "Alltel Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-23-2008",
-      "year": 2008,
-      "month": 11,
-      "day": 23,
-      "city": "New Orleans",
-      "state": "LA",
-      "location": "New Orleans, LA",
-      "venue": "New Orleans Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-1-2008",
-      "year": 2008,
-      "month": 12,
-      "day": 1,
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Key Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-2-2008",
-      "year": 2008,
-      "month": 12,
-      "day": 2,
-      "city": "Vancouver",
-      "state": "BC",
-      "location": "Vancouver, BC",
-      "venue": "General Motors Place",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-4-2008",
-      "year": 2008,
-      "month": 12,
-      "day": 4,
-      "city": "Calgary",
-      "state": "AB",
-      "location": "Calgary, AB",
-      "venue": "Pengrowth Saddledome",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-5-2008",
-      "year": 2008,
-      "month": 12,
-      "day": 5,
-      "city": "Calgary",
-      "state": "AB",
-      "location": "Calgary, AB",
-      "venue": "Pengrowth Saddledome",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-7-2008",
-      "year": 2008,
-      "month": 12,
-      "day": 7,
-      "city": "Edmonton",
-      "state": "AB",
-      "location": "Edmonton, AB",
-      "venue": "Rexall Place",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-12-2008",
-      "year": 2008,
-      "month": 12,
-      "day": 12,
-      "city": "Ontario",
-      "state": "Canada",
-      "location": "Ontario, Canada",
-      "venue": "Citizens Business Bank Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-13-2008",
-      "year": 2008,
-      "month": 12,
-      "day": 13,
-      "city": "Fresno",
-      "state": "CA",
-      "location": "Fresno, CA",
-      "venue": "Save Mart Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-15-2008",
-      "year": 2008,
-      "month": 12,
-      "day": 15,
-      "city": "San Diego",
-      "state": "CA",
-      "location": "San Diego, CA",
-      "venue": "Cox Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-17-2008",
-      "year": 2008,
-      "month": 12,
-      "day": 17,
-      "city": "Inglewood",
-      "state": "CA",
-      "location": "Inglewood, CA",
-      "venue": "The Forum",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-18-2008",
-      "year": 2008,
-      "month": 12,
-      "day": 18,
-      "city": "Inglewood",
-      "state": "CA",
-      "location": "Inglewood, CA",
-      "venue": "The Forum",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-20-2008",
-      "year": 2008,
-      "month": 12,
-      "day": 20,
-      "city": "Oakland",
-      "state": "CA",
-      "location": "Oakland, CA",
-      "venue": "Oracle Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-12-2009",
-      "year": 2009,
-      "month": 1,
-      "day": 12,
-      "city": "Milwaukee",
-      "state": "WI",
-      "location": "Milwaukee, WI",
-      "venue": "Bradley Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-13-2009",
-      "year": 2009,
-      "month": 1,
-      "day": 13,
-      "city": "Detroit",
-      "state": "MI",
-      "location": "Detroit, MI",
-      "venue": "Joe Louis Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-15-2009",
-      "year": 2009,
-      "month": 1,
-      "day": 15,
-      "city": "Washington",
-      "state": "D.C.",
-      "location": "Washington, D.C.",
-      "venue": "Verizon Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-17-2009",
-      "year": 2009,
-      "month": 1,
-      "day": 17,
-      "city": "Philadelphia",
-      "state": "PA",
-      "location": "Philadelphia, PA",
-      "venue": "Wachovia Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-18-2009",
-      "year": 2009,
-      "month": 1,
-      "day": 18,
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "TD Banknorth Garden",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-26-2009",
-      "year": 2009,
-      "month": 1,
-      "day": 26,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Allstate Arena",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-27-2009",
-      "year": 2009,
-      "month": 1,
-      "day": 27,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Allstate Arena",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-29-2009",
-      "year": 2009,
-      "month": 1,
-      "day": 29,
-      "city": "Uniondale",
-      "state": "NY",
-      "location": "Uniondale, NY",
-      "venue": "Nassau Coliseum",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-31-2009",
-      "year": 2009,
-      "month": 1,
-      "day": 31,
-      "city": "Newark",
-      "state": "NJ",
-      "location": "Newark, NJ",
-      "venue": "Prudential Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-1-2009",
-      "year": 2009,
-      "month": 2,
-      "day": 1,
-      "city": "Newark",
-      "state": "NJ",
-      "location": "Newark, NJ",
-      "venue": "Prudential Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-25-2009",
-      "year": 2009,
-      "month": 2,
-      "day": 25,
-      "city": "Nottingham",
-      "state": "England",
-      "location": "Nottingham, England",
-      "venue": "Trent FM Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-26-2009",
-      "year": 2009,
-      "month": 2,
-      "day": 26,
-      "city": "Manchester",
-      "state": "England",
-      "location": "Manchester, England",
-      "venue": "Manchester Evening News Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-28-2009",
-      "year": 2009,
-      "month": 2,
-      "day": 28,
-      "city": "Sheffield",
-      "state": "England",
-      "location": "Sheffield, England",
-      "venue": "Sheffield Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-2-2009",
-      "year": 2009,
-      "month": 3,
-      "day": 2,
-      "city": "London",
-      "state": "England",
-      "location": "London, England",
-      "venue": "02 Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-3-2009",
-      "year": 2009,
-      "month": 3,
-      "day": 3,
-      "city": "Newcastle",
-      "state": "England",
-      "location": "Newcastle, England",
-      "venue": "Metro Radio Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-5-2009",
-      "year": 2009,
-      "month": 3,
-      "day": 5,
-      "city": "Antwerp",
-      "state": "Belgium",
-      "location": "Antwerp, Belgium",
-      "venue": "Sportspaleis",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-7-2009",
-      "year": 2009,
-      "month": 3,
-      "day": 7,
-      "city": "Stockholm",
-      "state": "Sweden",
-      "location": "Stockholm, Sweden",
-      "venue": "Globen",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-20-2009",
-      "year": 2009,
-      "month": 3,
-      "day": 20,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Stubb's Bar-B-Q - SXSW 2009",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-25-2009",
-      "year": 2009,
-      "month": 3,
-      "day": 25,
-      "city": "Birmingham",
-      "state": "England",
-      "location": "Birmingham, England",
-      "venue": "LG Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-28-2009",
-      "year": 2009,
-      "month": 3,
-      "day": 28,
-      "city": "London",
-      "state": "England",
-      "location": "London, England",
-      "venue": "02 Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-30-2009",
-      "year": 2009,
-      "month": 3,
-      "day": 30,
-      "city": "Rotterdam",
-      "state": "Holland",
-      "location": "Rotterdam, Holland",
-      "venue": "Ahoy",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-1-2009",
-      "year": 2009,
-      "month": 4,
-      "day": 1,
-      "city": "Paris",
-      "state": "France",
-      "location": "Paris, France",
-      "venue": "Omnisports de Paris-Bercy",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-2-2009",
-      "year": 2009,
-      "month": 4,
-      "day": 2,
-      "city": "Paris",
-      "state": "France",
-      "location": "Paris, France",
-      "venue": "Omnisports de Paris-Bercy",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-4-2009",
-      "year": 2009,
-      "month": 5,
-      "day": 4,
-      "city": "Stockholm",
-      "state": "Sweden",
-      "location": "Stockholm, Sweden",
-      "venue": "Ericsson Globe",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-6-2009",
-      "year": 2009,
-      "month": 5,
-      "day": 6,
-      "city": "Munich",
-      "state": "Germany",
-      "location": "Munich, Germany",
-      "venue": "Olympiahalle",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-7-2009",
-      "year": 2009,
-      "month": 5,
-      "day": 7,
-      "city": "Leipzig",
-      "state": "Germany",
-      "location": "Leipzig, Germany",
-      "venue": "Arena Leipzig",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-9-2009",
-      "year": 2009,
-      "month": 5,
-      "day": 9,
-      "city": "Stuttgart",
-      "state": "Germany",
-      "location": "Stuttgart, Germany",
-      "venue": "Hanns-Martin-Schleyer-Halle",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-11-2009",
-      "year": 2009,
-      "month": 5,
-      "day": 11,
-      "city": "Frankfurt",
-      "state": "Germany",
-      "location": "Frankfurt, Germany",
-      "venue": "Festhalle",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-12-2009",
-      "year": 2009,
-      "month": 5,
-      "day": 12,
-      "city": "Hamburg",
-      "state": "Germany",
-      "location": "Hamburg, Germany",
-      "venue": "Color Line Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-14-2009",
-      "year": 2009,
-      "month": 5,
-      "day": 14,
-      "city": "Vienna",
-      "state": "Austria",
-      "location": "Vienna, Austria",
-      "venue": "Wiener Stadthalle-Halle D",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-16-2009",
-      "year": 2009,
-      "month": 5,
-      "day": 16,
-      "city": "Oberhausen",
-      "state": "Germany",
-      "location": "Oberhausen, Germany",
-      "venue": "Konig-Pilsener Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-17-2009",
-      "year": 2009,
-      "month": 5,
-      "day": 17,
-      "city": "Cologne",
-      "state": "Germany",
-      "location": "Cologne, Germany",
-      "venue": "Lanxess Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-4-2009",
-      "year": 2009,
-      "month": 6,
-      "day": 4,
-      "city": "Mexico City",
-      "state": "Mexico",
-      "location": "Mexico City, Mexico",
-      "venue": "Foro Sol",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-6-2009",
-      "year": 2009,
-      "month": 6,
-      "day": 6,
-      "city": "Mexico City",
-      "state": "Mexico",
-      "location": "Mexico City, Mexico",
-      "venue": "Foro Sol",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-7-2009",
-      "year": 2009,
-      "month": 6,
-      "day": 7,
-      "city": "Mexico City",
-      "state": "Mexico",
-      "location": "Mexico City, Mexico",
-      "venue": "Foro Sol",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-14-2009",
-      "year": 2009,
-      "month": 6,
-      "day": 14,
-      "city": "Helsinki",
-      "state": "Finland",
-      "location": "Helsinki, Finland",
-      "venue": "Hartwall",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-15-2009",
-      "year": 2009,
-      "month": 6,
-      "day": 15,
-      "city": "Helsinki",
-      "state": "Finland",
-      "location": "Helsinki, Finland",
-      "venue": "Hartwall",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-17-2009",
-      "year": 2009,
-      "month": 6,
-      "day": 17,
-      "city": "Oslo",
-      "state": "Norway",
-      "location": "Oslo, Norway",
-      "venue": "Spektrum",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-19-2009",
-      "year": 2009,
-      "month": 6,
-      "day": 19,
-      "city": "Nickelsdorf",
-      "state": "Austria",
-      "location": "Nickelsdorf, Austria",
-      "venue": "Pannonia Fields II - Nova Rock",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-20-2009",
-      "year": 2009,
-      "month": 6,
-      "day": 20,
-      "city": "Nijmegen",
-      "state": "Holland",
-      "location": "Nijmegen, Holland",
-      "venue": "Goffertpark - Sonisphere",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-22-2009",
-      "year": 2009,
-      "month": 6,
-      "day": 22,
-      "city": "Milan",
-      "state": "Itally",
-      "location": "Milan, Itally",
-      "venue": "Mediolanum Forum di Assago",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-24-2009",
-      "year": 2009,
-      "month": 6,
-      "day": 24,
-      "city": "Rome",
-      "state": "Italy",
-      "location": "Rome, Italy",
-      "venue": "Palalottomatica",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-4-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 4,
-      "city": "Hockenheim",
-      "state": "Germany",
-      "location": "Hockenheim, Germany",
-      "venue": "Hockenheimring - Sonisphere Germany",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-5-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 5,
-      "city": "Werchter",
-      "state": "Belgium",
-      "location": "Werchter, Belgium",
-      "venue": "Rock Werchter",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-7-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 7,
-      "city": "Nimes",
-      "state": "France",
-      "location": "Nimes, France",
-      "venue": "Arenes de Nimes - Festival de Nimes",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-9-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 9,
-      "city": "Oeiras",
-      "state": "Portugal",
-      "location": "Oeiras, Portugal",
-      "venue": "Passeio Mar?timo de Alg? - Optimus Alive!",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-11-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 11,
-      "city": "Barcelona",
-      "state": "Spain",
-      "location": "Barcelona, Spain",
-      "venue": "Parc del Forum / Sonisphere Spain",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-13-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 13,
-      "city": "Madrid",
-      "state": "Spain",
-      "location": "Madrid, Spain",
-      "venue": "Palacio de Deportes de la Comunidad de Madrid",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-14-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 14,
-      "city": "Madrid",
-      "state": "Spain",
-      "location": "Madrid, Spain",
-      "venue": "Palacio de Deportes de la Comunidad de Madrid",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-16-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 16,
-      "city": "Zurich",
-      "state": "Switzerland",
-      "location": "Zurich, Switzerland",
-      "venue": "Hallenstadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-18-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 18,
-      "city": "Hultsfred",
-      "state": "Sweden",
-      "location": "Hultsfred, Sweden",
-      "venue": "Folkets Park - Sonisphere Sweden",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-20-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 20,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Forum Kobenhavn",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-22-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 22,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Forum Kobenhavn",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-22-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 22,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Forum Kobenhavn",
-      "notes": "2nd night \u00b7 LiveMetallica \u00b7 2009 Original Mix",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-22-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 22,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Forum Kobenhavn",
-      "notes": "2nd night \u00b7 LiveMetallica \u00b7 2020 Mix",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-23-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 23,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Forum Kobenhavn",
-      "notes": "3rd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-25-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 25,
-      "city": "Pori",
-      "state": "Finland",
-      "location": "Pori, Finland",
-      "venue": "Kirjurinluoto - Sonisphere Finland",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-27-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 27,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Forum Kobenhavn",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-28-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 28,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Forum Kobenhavn",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-30-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 30,
-      "city": "Oslo",
-      "state": "Norway",
-      "location": "Oslo, Norway",
-      "venue": "Spektrum",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-1-2009",
-      "year": 2009,
-      "month": 8,
-      "day": 1,
-      "city": "Dublin",
-      "state": "Ireland",
-      "location": "Dublin, Ireland",
-      "venue": "Marlay Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-2-2009",
-      "year": 2009,
-      "month": 8,
-      "day": 2,
-      "city": "Stevenage",
-      "state": "England",
-      "location": "Stevenage, England",
-      "venue": "Knebworth House - Sonisphere UK",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-11-2009",
-      "year": 2009,
-      "month": 9,
-      "day": 11,
-      "city": "San Rafael",
-      "state": "CA",
-      "location": "San Rafael, CA",
-      "venue": "Marin Veterans' Memorial Auditorium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-14-2009",
-      "year": 2009,
-      "month": 9,
-      "day": 14,
-      "city": "Nashville",
-      "state": "TN",
-      "location": "Nashville, TN",
-      "venue": "Sommet Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-15-2009",
-      "year": 2009,
-      "month": 9,
-      "day": 15,
-      "city": "Cincinnati",
-      "state": "OH",
-      "location": "Cincinnati, OH",
-      "venue": "U.S. Bank Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-17-2009",
-      "year": 2009,
-      "month": 9,
-      "day": 17,
-      "city": "Indianapolis",
-      "state": "IN",
-      "location": "Indianapolis, IN",
-      "venue": "Conseco Fieldhouse",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-19-2009",
-      "year": 2009,
-      "month": 9,
-      "day": 19,
-      "city": "Montreal",
-      "state": "PQ",
-      "location": "Montreal, PQ",
-      "venue": "Centre Bell",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-20-2009",
-      "year": 2009,
-      "month": 9,
-      "day": 20,
-      "city": "Montreal",
-      "state": "PQ",
-      "location": "Montreal, PQ",
-      "venue": "Centre Bell",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-28-2009",
-      "year": 2009,
-      "month": 9,
-      "day": 28,
-      "city": "San Antonio",
-      "state": "TX",
-      "location": "San Antonio, TX",
-      "venue": "AT&T Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-29-2009",
-      "year": 2009,
-      "month": 9,
-      "day": 29,
-      "city": "Dallas",
-      "state": "TX",
-      "location": "Dallas, TX",
-      "venue": "American Airlines Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-1-2009",
-      "year": 2009,
-      "month": 10,
-      "day": 1,
-      "city": "Sunrise",
-      "state": "FL",
-      "location": "Sunrise, FL",
-      "venue": "BankAtlantic Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-3-2009",
-      "year": 2009,
-      "month": 10,
-      "day": 3,
-      "city": "Tampa",
-      "state": "FL",
-      "location": "Tampa, FL",
-      "venue": "St. Pete Times Forum",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-4-2009",
-      "year": 2009,
-      "month": 10,
-      "day": 4,
-      "city": "Atlanta",
-      "state": "GA",
-      "location": "Atlanta, GA",
-      "venue": "Philips Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-12-2009",
-      "year": 2009,
-      "month": 10,
-      "day": 12,
-      "city": "Winnipeg",
-      "state": "Manitoba",
-      "location": "Winnipeg, Manitoba",
-      "venue": "MTS Centre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-13-2009",
-      "year": 2009,
-      "month": 10,
-      "day": 13,
-      "city": "Minneapolis",
-      "state": "MN",
-      "location": "Minneapolis, MN",
-      "venue": "Target Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-15-2009",
-      "year": 2009,
-      "month": 10,
-      "day": 15,
-      "city": "Cleveland",
-      "state": "OH",
-      "location": "Cleveland, OH",
-      "venue": "Quicken Loans Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-17-2009",
-      "year": 2009,
-      "month": 10,
-      "day": 17,
-      "city": "Charlottesville",
-      "state": "VA",
-      "location": "Charlottesville, VA",
-      "venue": "John Paul Jones Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-18-2009",
-      "year": 2009,
-      "month": 10,
-      "day": 18,
-      "city": "Charlotte",
-      "state": "NC",
-      "location": "Charlotte, NC",
-      "venue": "Time Warner Cable Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-26-2009",
-      "year": 2009,
-      "month": 10,
-      "day": 26,
-      "city": "Toronto",
-      "state": "Canada",
-      "location": "Toronto, Canada",
-      "venue": "Air Canada Centre",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-27-2009",
-      "year": 2009,
-      "month": 10,
-      "day": 27,
-      "city": "Toronto",
-      "state": "Canada",
-      "location": "Toronto, Canada",
-      "venue": "Air Canada Centre",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-31-2009",
-      "year": 2009,
-      "month": 10,
-      "day": 31,
-      "city": "Quebec City",
-      "state": "PQ",
-      "location": "Quebec City, PQ",
-      "venue": "Colisee Pepsi",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-1-2009",
-      "year": 2009,
-      "month": 11,
-      "day": 1,
-      "city": "Quebec City",
-      "state": "PQ",
-      "location": "Quebec City, PQ",
-      "venue": "Colisee Pepsi",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-3-2009",
-      "year": 2009,
-      "month": 11,
-      "day": 3,
-      "city": "Ottawa",
-      "state": "Ontario",
-      "location": "Ottawa, Ontario",
-      "venue": "Scotiabank",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-9-2009",
-      "year": 2009,
-      "month": 11,
-      "day": 9,
-      "city": "Grand Rapids",
-      "state": "MI",
-      "location": "Grand Rapids, MI",
-      "venue": "Van Andel Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-10-2009",
-      "year": 2009,
-      "month": 11,
-      "day": 10,
-      "city": "Buffalo",
-      "state": "NY",
-      "location": "Buffalo, NY",
-      "venue": "HSBC Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-12-2009",
-      "year": 2009,
-      "month": 11,
-      "day": 12,
-      "city": "Albany",
-      "state": "NY",
-      "location": "Albany, NY",
-      "venue": "Times Union Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-14-2009",
-      "year": 2009,
-      "month": 11,
-      "day": 14,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Madison Square Garden",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-15-2009",
-      "year": 2009,
-      "month": 11,
-      "day": 15,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Madison Square Garden",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-5-2009",
-      "year": 2009,
-      "month": 12,
-      "day": 5,
-      "city": "Las Vegas",
-      "state": "NV",
-      "location": "Las Vegas, NV",
-      "venue": "Mandalay Bay Events Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-7-2009",
-      "year": 2009,
-      "month": 12,
-      "day": 7,
-      "city": "Boise",
-      "state": "ID",
-      "location": "Boise, ID",
-      "venue": "Idaho Center Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-8-2009",
-      "year": 2009,
-      "month": 12,
-      "day": 8,
-      "city": "Sacramento",
-      "state": "CA",
-      "location": "Sacramento, CA",
-      "venue": "ARCO Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-10-2009",
-      "year": 2009,
-      "month": 12,
-      "day": 10,
-      "city": "Anaheim",
-      "state": "CA",
-      "location": "Anaheim, CA",
-      "venue": "Honda Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-12-2009",
-      "year": 2009,
-      "month": 12,
-      "day": 12,
-      "city": "San Jose",
-      "state": "CA",
-      "location": "San Jose, CA",
-      "venue": "HP Pavilion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-19-2010",
-      "year": 2010,
-      "month": 1,
-      "day": 19,
-      "city": "Lima",
-      "state": "Peru",
-      "location": "Lima, Peru",
-      "venue": "Estadio San Marcos",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-21-2010",
-      "year": 2010,
-      "month": 1,
-      "day": 21,
-      "city": "Buenos Aires",
-      "state": "Argentina",
-      "location": "Buenos Aires, Argentina",
-      "venue": "Estadio River Plate",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-22-2010",
-      "year": 2010,
-      "month": 1,
-      "day": 22,
-      "city": "Buenos Aires",
-      "state": "Argentina",
-      "location": "Buenos Aires, Argentina",
-      "venue": "Estadio River Plate",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-24-2010",
-      "year": 2010,
-      "month": 1,
-      "day": 24,
-      "city": "Cordoba",
-      "state": "Chile",
-      "location": "Cordoba, Chile",
-      "venue": "Orfeo Superdomo",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-26-2010",
-      "year": 2010,
-      "month": 1,
-      "day": 26,
-      "city": "Santiago",
-      "state": "Chile",
-      "location": "Santiago, Chile",
-      "venue": "Club Hipico",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-28-2010",
-      "year": 2010,
-      "month": 1,
-      "day": 28,
-      "city": "Porto Alegre",
-      "state": "Brazil",
-      "location": "Porto Alegre, Brazil",
-      "venue": "Parque Condor",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-30-2010",
-      "year": 2010,
-      "month": 1,
-      "day": 30,
-      "city": "Sao Paulo",
-      "state": "Brazil",
-      "location": "Sao Paulo, Brazil",
-      "venue": "Estadio do Morumbi",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-31-2010",
-      "year": 2010,
-      "month": 1,
-      "day": 31,
-      "city": "Sao Paulo",
-      "state": "Brazil",
-      "location": "Sao Paulo, Brazil",
-      "venue": "Estadio do Morumbi",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-1-2010",
-      "year": 2010,
-      "month": 3,
-      "day": 1,
-      "city": "Guadalajara",
-      "state": "Mexico",
-      "location": "Guadalajara, Mexico",
-      "venue": "Estadio Tres de Marzo",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-3-2010",
-      "year": 2010,
-      "month": 3,
-      "day": 3,
-      "city": "Monterrey",
-      "state": "Mexico",
-      "location": "Monterrey, Mexico",
-      "venue": "Estadio Universitario",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-5-2010",
-      "year": 2010,
-      "month": 3,
-      "day": 5,
-      "city": "Guatemala City",
-      "state": "GTM",
-      "location": "Guatemala City, GTM",
-      "venue": "Estadio Mateo Flores",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-7-2010",
-      "year": 2010,
-      "month": 3,
-      "day": 7,
-      "city": "San Jose",
-      "state": "Costa Rica",
-      "location": "San Jose, Costa Rica",
-      "venue": "Estadio Ricardo Saprissa",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-8-2010",
-      "year": 2010,
-      "month": 3,
-      "day": 8,
-      "city": "Panama City",
-      "state": "PAN",
-      "location": "Panama City, PAN",
-      "venue": "Figali Convention Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-10-2010",
-      "year": 2010,
-      "month": 3,
-      "day": 10,
-      "city": "Bogota",
-      "state": "Colombia",
-      "location": "Bogota, Colombia",
-      "venue": "Parque Simon Bolivar",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-12-2010",
-      "year": 2010,
-      "month": 3,
-      "day": 12,
-      "city": "Caracas",
-      "state": "Venezuela",
-      "location": "Caracas, Venezuela",
-      "venue": "Estadio de Beisbol de la Rinconada",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-14-2010",
-      "year": 2010,
-      "month": 3,
-      "day": 14,
-      "city": "San Juan",
-      "state": "PRI",
-      "location": "San Juan, PRI",
-      "venue": "Coliseo de Puerto Rico Jose? Miguel Agrelot",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-13-2010",
-      "year": 2010,
-      "month": 4,
-      "day": 13,
-      "city": "Oslo",
-      "state": "Norway",
-      "location": "Oslo, Norway",
-      "venue": "Telenor Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-14-2010",
-      "year": 2010,
-      "month": 4,
-      "day": 14,
-      "city": "Oslo",
-      "state": "Norway",
-      "location": "Oslo, Norway",
-      "venue": "Telenor Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-17-2010",
-      "year": 2010,
-      "month": 4,
-      "day": 17,
-      "city": "Riga",
-      "state": "LVA",
-      "location": "Riga, LVA",
-      "venue": "Riga Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-18-2010",
-      "year": 2010,
-      "month": 4,
-      "day": 18,
-      "city": "Tallinn",
-      "state": "EST",
-      "location": "Tallinn, EST",
-      "venue": "Saku Suurhall",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-20-2010",
-      "year": 2010,
-      "month": 4,
-      "day": 20,
-      "city": "Vilnius",
-      "state": "LIT",
-      "location": "Vilnius, LIT",
-      "venue": "Siemens Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-21-2010",
-      "year": 2010,
-      "month": 4,
-      "day": 21,
-      "city": "Vilnius",
-      "state": "LIT",
-      "location": "Vilnius, LIT",
-      "venue": "Siemens Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-24-2010",
-      "year": 2010,
-      "month": 4,
-      "day": 24,
-      "city": "Moscow",
-      "state": "Russia",
-      "location": "Moscow, Russia",
-      "venue": "Olympijskiy Stadium",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-25-2010",
-      "year": 2010,
-      "month": 4,
-      "day": 25,
-      "city": "Moscow",
-      "state": "Russia",
-      "location": "Moscow, Russia",
-      "venue": "Olympijskiy Stadium",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-11-2010",
-      "year": 2010,
-      "month": 5,
-      "day": 11,
-      "city": "Belfast",
-      "state": "IRE",
-      "location": "Belfast, IRE",
-      "venue": "Odyssey Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-12-2010",
-      "year": 2010,
-      "month": 5,
-      "day": 12,
-      "city": "Belfast",
-      "state": "IRE",
-      "location": "Belfast, IRE",
-      "venue": "Odyssey Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-14-2010",
-      "year": 2010,
-      "month": 5,
-      "day": 14,
-      "city": "Budapest",
-      "state": "Hungary",
-      "location": "Budapest, Hungary",
-      "venue": "Puskas Ferenc Stadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-16-2010",
-      "year": 2010,
-      "month": 5,
-      "day": 16,
-      "city": "Zagreb",
-      "state": "HRV",
-      "location": "Zagreb, HRV",
-      "venue": "Zagreb Hippodrome",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-18-2010",
-      "year": 2010,
-      "month": 5,
-      "day": 18,
-      "city": "Lisbon",
-      "state": "PRT - Pavilha?o Atla?ntico (LiveMetallica)",
-      "location": "Lisbon, PRT - Pavilha?o Atla?ntico (LiveMetallica)",
-      "venue": "",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-19-2010",
-      "year": 2010,
-      "month": 5,
-      "day": 19,
-      "city": "Lisbon",
-      "state": "PRT - Pavilha?o Atla?ntico (LiveMetallica)",
-      "location": "Lisbon, PRT - Pavilha?o Atla?ntico (LiveMetallica)",
-      "venue": "",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-22-2010",
-      "year": 2010,
-      "month": 5,
-      "day": 22,
-      "city": "Tel Aviv",
-      "state": "ISR - Ramat Gan Stadium (LiveMetallica)",
-      "location": "Tel Aviv, ISR - Ramat Gan Stadium (LiveMetallica)",
-      "venue": "",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-23-2010",
-      "year": 2010,
-      "month": 5,
-      "day": 23,
-      "city": "Lyon",
-      "state": "France",
-      "location": "Lyon, France",
-      "venue": "Halle Tony Garnier",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-14-2010",
-      "year": 2010,
-      "month": 6,
-      "day": 14,
-      "city": "Arganda del Rey",
-      "state": "Spain",
-      "location": "Arganda del Rey, Spain",
-      "venue": "Ciudad del Rock - Rock in Rio",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-16-2010",
-      "year": 2010,
-      "month": 6,
-      "day": 16,
-      "city": "Warsaw",
-      "state": "POL",
-      "location": "Warsaw, POL",
-      "venue": "Bemowo Airport - Sonisphere",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-18-2010",
-      "year": 2010,
-      "month": 6,
-      "day": 18,
-      "city": "Jonschwil",
-      "state": "CHE",
-      "location": "Jonschwil, CHE",
-      "venue": "Degenaupark - Sonisphere",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-19-2010",
-      "year": 2010,
-      "month": 6,
-      "day": 19,
-      "city": "Prague",
-      "state": "CZE",
-      "location": "Prague, CZE",
-      "venue": "Milovice Airfield - Sonisphere",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-22-2010",
-      "year": 2010,
-      "month": 6,
-      "day": 22,
-      "city": "Sofia",
-      "state": "BUL",
-      "location": "Sofia, BUL",
-      "venue": "Vasil Levski Stadium - Sonisphere",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-24-2010",
-      "year": 2010,
-      "month": 6,
-      "day": 24,
-      "city": "Athens",
-      "state": "GRC",
-      "location": "Athens, GRC",
-      "venue": "Terra Vibe Park - Sonisphere",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-26-2010",
-      "year": 2010,
-      "month": 6,
-      "day": 26,
-      "city": "Bucharest",
-      "state": "ROM",
-      "location": "Bucharest, ROM",
-      "venue": "Romexpo - Sonisphere",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-27-2010",
-      "year": 2010,
-      "month": 6,
-      "day": 27,
-      "city": "Istanbul",
-      "state": "TUR",
-      "location": "Istanbul, TUR",
-      "venue": "BJK Inonu Stadium, Sonisphere",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-15-2010",
-      "year": 2010,
-      "month": 9,
-      "day": 15,
-      "city": "Melbourne",
-      "state": "AUS",
-      "location": "Melbourne, AUS",
-      "venue": "Rod Laver Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-16-2010",
-      "year": 2010,
-      "month": 9,
-      "day": 16,
-      "city": "Melbourne",
-      "state": "AUS",
-      "location": "Melbourne, AUS",
-      "venue": "Rod Laver Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-18-2010",
-      "year": 2010,
-      "month": 9,
-      "day": 18,
-      "city": "Sydney",
-      "state": "AUS",
-      "location": "Sydney, AUS",
-      "venue": "Acer Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-21-2010",
-      "year": 2010,
-      "month": 9,
-      "day": 21,
-      "city": "Christchurch",
-      "state": "NZL",
-      "location": "Christchurch, NZL",
-      "venue": "CBS Canterbury Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-22-2010",
-      "year": 2010,
-      "month": 9,
-      "day": 22,
-      "city": "Christchurch",
-      "state": "NZL",
-      "location": "Christchurch, NZL",
-      "venue": "CBS Canterbury Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-25-2010",
-      "year": 2010,
-      "month": 9,
-      "day": 25,
-      "city": "Tokyo",
-      "state": "JPN",
-      "location": "Tokyo, JPN",
-      "venue": "Saitama Super Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-26-2010",
-      "year": 2010,
-      "month": 9,
-      "day": 26,
-      "city": "Tokyo",
-      "state": "JPN",
-      "location": "Tokyo, JPN",
-      "venue": "Saitama Super Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-13-2010",
-      "year": 2010,
-      "month": 10,
-      "day": 13,
-      "city": "Auckland",
-      "state": "NZL",
-      "location": "Auckland, NZL",
-      "venue": "Vector Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-14-2010",
-      "year": 2010,
-      "month": 10,
-      "day": 14,
-      "city": "Auckland",
-      "state": "NZL",
-      "location": "Auckland, NZL",
-      "venue": "Vector Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-16-2010",
-      "year": 2010,
-      "month": 10,
-      "day": 16,
-      "city": "Brisbane",
-      "state": "AUS",
-      "location": "Brisbane, AUS",
-      "venue": "Brisbane Entertainment Centre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-18-2010",
-      "year": 2010,
-      "month": 10,
-      "day": 18,
-      "city": "Brisbane",
-      "state": "AUS",
-      "location": "Brisbane, AUS",
-      "venue": "Brisbane Entertainment Centre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-19-2010",
-      "year": 2010,
-      "month": 10,
-      "day": 19,
-      "city": "Brisbane",
-      "state": "AUS",
-      "location": "Brisbane, AUS",
-      "venue": "Brisbane Entertainment Centre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-22-2010",
-      "year": 2010,
-      "month": 10,
-      "day": 22,
-      "city": "Perth",
-      "state": "AUS",
-      "location": "Perth, AUS",
-      "venue": "Burswood Dome",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-23-2010",
-      "year": 2010,
-      "month": 10,
-      "day": 23,
-      "city": "Perth",
-      "state": "Australia",
-      "location": "Perth, Australia",
-      "venue": "Burswood Dome",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-10-2010",
-      "year": 2010,
-      "month": 11,
-      "day": 10,
-      "city": "Sydney",
-      "state": "AUS",
-      "location": "Sydney, AUS",
-      "venue": "Acer Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-11-2010",
-      "year": 2010,
-      "month": 11,
-      "day": 11,
-      "city": "Sydney",
-      "state": "AUS",
-      "location": "Sydney, AUS",
-      "venue": "Acer Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-13-2010",
-      "year": 2010,
-      "month": 11,
-      "day": 13,
-      "city": "Sydney",
-      "state": "Australia",
-      "location": "Sydney, Australia",
-      "venue": "Acer Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-15-2010",
-      "year": 2010,
-      "month": 11,
-      "day": 15,
-      "city": "Adelaide",
-      "state": "AUS",
-      "location": "Adelaide, AUS",
-      "venue": "Adelaide Entertainment Centre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-16-2010",
-      "year": 2010,
-      "month": 11,
-      "day": 16,
-      "city": "Adelaide",
-      "state": "AUS",
-      "location": "Adelaide, AUS",
-      "venue": "Adelaide Entertainment Centre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-18-2010",
-      "year": 2010,
-      "month": 11,
-      "day": 18,
-      "city": "Melbourne",
-      "state": "AUS",
-      "location": "Melbourne, AUS",
-      "venue": "Rod Laver Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-20-2010",
-      "year": 2010,
-      "month": 11,
-      "day": 20,
-      "city": "Melbourne",
-      "state": "AUS",
-      "location": "Melbourne, AUS",
-      "venue": "Rod Laver Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-21-2010",
-      "year": 2010,
-      "month": 11,
-      "day": 21,
-      "city": "Melbourne",
-      "state": "AUS",
-      "location": "Melbourne, AUS",
-      "venue": "Rod Laver Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-23-2011",
-      "year": 2011,
-      "month": 4,
-      "day": 23,
-      "city": "Indio",
-      "state": "CA",
-      "location": "Indio, CA",
-      "venue": "Empire Polo Club",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-2-2011",
-      "year": 2011,
-      "month": 7,
-      "day": 2,
-      "city": "Gelsenkirchen",
-      "state": "GER",
-      "location": "Gelsenkirchen, GER",
-      "venue": "Veltins Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-3-2011",
-      "year": 2011,
-      "month": 7,
-      "day": 3,
-      "city": "Gothenburg",
-      "state": "Sweden",
-      "location": "Gothenburg, Sweden",
-      "venue": "Ullevi Stadium - Big 4 Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-6-2011",
-      "year": 2011,
-      "month": 7,
-      "day": 6,
-      "city": "Milan",
-      "state": "ITA",
-      "location": "Milan, ITA",
-      "venue": "Fiera Open Air Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-8-2011",
-      "year": 2011,
-      "month": 7,
-      "day": 8,
-      "city": "Knebworth",
-      "state": "UK",
-      "location": "Knebworth, UK",
-      "venue": "Knebworth House, Sonisphere",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-9-2011",
-      "year": 2011,
-      "month": 7,
-      "day": 9,
-      "city": "Amneville",
-      "state": "FRA",
-      "location": "Amneville, FRA",
-      "venue": "Snowhall Parc, Sonisphere",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-14-2011",
-      "year": 2011,
-      "month": 7,
-      "day": 14,
-      "city": "Halifax",
-      "state": "NS",
-      "location": "Halifax, NS",
-      "venue": "Halifax Citadel Garrison Grounds - Rock the Hill",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-16-2011",
-      "year": 2011,
-      "month": 7,
-      "day": 16,
-      "city": "Quebec City",
-      "state": "QC",
-      "location": "Quebec City, QC",
-      "venue": "Plains of Abraham, Festival d'ete de Quebec",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-31-2011",
-      "year": 2011,
-      "month": 8,
-      "day": 31,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Moscone Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-14-2011",
-      "year": 2011,
-      "month": 9,
-      "day": 14,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Yankee Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-25-2011",
-      "year": 2011,
-      "month": 9,
-      "day": 25,
-      "city": "Rio De Janeiro",
-      "state": "BRA",
-      "location": "Rio De Janeiro, BRA",
-      "venue": "Cidade do Rock, Rock in Rio",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-25-2011",
-      "year": 2011,
-      "month": 10,
-      "day": 25,
-      "city": "Abu Dhabi",
-      "state": "ARE",
-      "location": "Abu Dhabi, ARE",
-      "venue": "Yas Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-30-2011",
-      "year": 2011,
-      "month": 10,
-      "day": 30,
-      "city": "Bangalodore",
-      "state": "IND",
-      "location": "Bangalodore, IND",
-      "venue": "Main Palace",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-5-2011",
-      "year": 2011,
-      "month": 12,
-      "day": 5,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "The Fillmore",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-7-2011",
-      "year": 2011,
-      "month": 12,
-      "day": 7,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "The Fillmore",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-9-2011",
-      "year": 2011,
-      "month": 12,
-      "day": 9,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "The Fillmore",
-      "notes": "3rd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-10-2011",
-      "year": 2011,
-      "month": 12,
-      "day": 10,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "The Fillmore",
-      "notes": "4th night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-7-2012",
-      "year": 2012,
-      "month": 5,
-      "day": 7,
-      "city": "Prague",
-      "state": "CZE",
-      "location": "Prague, CZE",
-      "venue": "Synot Tip Are?na",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-8-2012",
-      "year": 2012,
-      "month": 5,
-      "day": 8,
-      "city": "Belgrade",
-      "state": "SRB",
-      "location": "Belgrade, SRB",
-      "venue": "USCE Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-10-2012",
-      "year": 2012,
-      "month": 5,
-      "day": 10,
-      "city": "Warsaw",
-      "state": "Poland",
-      "location": "Warsaw, Poland",
-      "venue": "Bemowo Airport",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-12-2012",
-      "year": 2012,
-      "month": 5,
-      "day": 12,
-      "city": "Paris",
-      "state": "France",
-      "location": "Paris, France",
-      "venue": "Stade de France",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-13-2012",
-      "year": 2012,
-      "month": 5,
-      "day": 13,
-      "city": "Udine",
-      "state": "Italy",
-      "location": "Udine, Italy",
-      "venue": "Stadio Friule",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-23-2012",
-      "year": 2012,
-      "month": 5,
-      "day": 23,
-      "city": "Oslo",
-      "state": "NO",
-      "location": "Oslo, NO",
-      "venue": "Vallehovin",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-25-2012",
-      "year": 2012,
-      "month": 5,
-      "day": 25,
-      "city": "Lisbon",
-      "state": "Portugal",
-      "location": "Lisbon, Portugal",
-      "venue": "Rock in Rio",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-26-2012",
-      "year": 2012,
-      "month": 5,
-      "day": 26,
-      "city": "Madrid",
-      "state": "Spain",
-      "location": "Madrid, Spain",
-      "venue": "Getafe Open Air",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-28-2012",
-      "year": 2012,
-      "month": 5,
-      "day": 28,
-      "city": "Werchter",
-      "state": "Belgium",
-      "location": "Werchter, Belgium",
-      "venue": "Festivalpark",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-30-2012",
-      "year": 2012,
-      "month": 5,
-      "day": 30,
-      "city": "Yverdon-les-Bains",
-      "state": "Switzerland",
-      "location": "Yverdon-les-Bains, Switzerland",
-      "venue": "Rives du Lac",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-1-2012",
-      "year": 2012,
-      "month": 6,
-      "day": 1,
-      "city": "Nurnberg",
-      "state": "DEU",
-      "location": "Nurnberg, DEU",
-      "venue": "Rock im Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-2-2012",
-      "year": 2012,
-      "month": 6,
-      "day": 2,
-      "city": "Nurbergring",
-      "state": "DEU",
-      "location": "Nurbergring, DEU",
-      "venue": "Rock am Ring",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-4-2012",
-      "year": 2012,
-      "month": 6,
-      "day": 4,
-      "city": "Helsinki",
-      "state": "Finland /- Kalatasama (LiveMetallica)",
-      "location": "Helsinki, Finland /- Kalatasama (LiveMetallica)",
-      "venue": "",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-6-2012",
-      "year": 2012,
-      "month": 6,
-      "day": 6,
-      "city": "Horsens",
-      "state": "DNK",
-      "location": "Horsens, DNK",
-      "venue": "State Prison Open Air",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-9-2012",
-      "year": 2012,
-      "month": 6,
-      "day": 9,
-      "city": "Donington",
-      "state": "England",
-      "location": "Donington, England",
-      "venue": "Download Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-10-2012",
-      "year": 2012,
-      "month": 6,
-      "day": 10,
-      "city": "Nickelsdorf",
-      "state": "Austria",
-      "location": "Nickelsdorf, Austria",
-      "venue": "Nova Rock",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-10-2012",
-      "year": 2012,
-      "month": 6,
-      "day": 10,
-      "city": "Nickelsdorf",
-      "state": "Austria",
-      "location": "Nickelsdorf, Austria",
-      "venue": "Nova Rock",
-      "notes": "LiveMetallica \u00b7 2020 Mix",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-23-2012",
-      "year": 2012,
-      "month": 6,
-      "day": 23,
-      "city": "Atlantic City",
-      "state": "NJ",
-      "location": "Atlantic City, NJ",
-      "venue": "Orion Music + More 2012",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-24-2012",
-      "year": 2012,
-      "month": 6,
-      "day": 24,
-      "city": "Atlantic City",
-      "state": "NJ",
-      "location": "Atlantic City, NJ",
-      "venue": "Orion Music + More 2012",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-28-2012",
-      "year": 2012,
-      "month": 7,
-      "day": 28,
-      "city": "Mexico CIty",
-      "state": "MX",
-      "location": "Mexico CIty, MX",
-      "venue": "Sports Palace",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-30-2012",
-      "year": 2012,
-      "month": 7,
-      "day": 30,
-      "city": "Mexico CIty",
-      "state": "MX",
-      "location": "Mexico CIty, MX",
-      "venue": "Sports Palace",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-1-2012",
-      "year": 2012,
-      "month": 8,
-      "day": 1,
-      "city": "Mexico CIty",
-      "state": "MX",
-      "location": "Mexico CIty, MX",
-      "venue": "Sports Palace",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-2-2012",
-      "year": 2012,
-      "month": 8,
-      "day": 2,
-      "city": "Mexico CIty",
-      "state": "MX",
-      "location": "Mexico CIty, MX",
-      "venue": "Sports Palace",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-4-2012",
-      "year": 2012,
-      "month": 8,
-      "day": 4,
-      "city": "Mexico CIty",
-      "state": "MX",
-      "location": "Mexico CIty, MX",
-      "venue": "Sports Palace",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-6-2012",
-      "year": 2012,
-      "month": 8,
-      "day": 6,
-      "city": "Mexico CIty",
-      "state": "MX",
-      "location": "Mexico CIty, MX",
-      "venue": "Sports Palace",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-7-2012",
-      "year": 2012,
-      "month": 8,
-      "day": 7,
-      "city": "Mexico CIty",
-      "state": "MX",
-      "location": "Mexico CIty, MX",
-      "venue": "Sports Palace",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-9-2012",
-      "year": 2012,
-      "month": 8,
-      "day": 9,
-      "city": "Mexico CIty",
-      "state": "MX",
-      "location": "Mexico CIty, MX",
-      "venue": "Sports Palace",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-11-2012",
-      "year": 2012,
-      "month": 8,
-      "day": 11,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Golden Gate Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-17-2012",
-      "year": 2012,
-      "month": 8,
-      "day": 17,
-      "city": "Edmonton",
-      "state": "AB",
-      "location": "Edmonton, AB",
-      "venue": "Rexall Place",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-18-2012",
-      "year": 2012,
-      "month": 8,
-      "day": 18,
-      "city": "Edmonton",
-      "state": "AB",
-      "location": "Edmonton, AB",
-      "venue": "Rexall Place",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-24-2012",
-      "year": 2012,
-      "month": 8,
-      "day": 24,
-      "city": "Vancouver",
-      "state": "BC",
-      "location": "Vancouver, BC",
-      "venue": "Rogers Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-25-2012",
-      "year": 2012,
-      "month": 8,
-      "day": 25,
-      "city": "Vancouver",
-      "state": "BC",
-      "location": "Vancouver, BC",
-      "venue": "Rogers Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-27-2012",
-      "year": 2012,
-      "month": 10,
-      "day": 27,
-      "city": "New Orleans",
-      "state": "LA",
-      "location": "New Orleans, LA",
-      "venue": "Voodoo Music & Arts Experience",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-23-2013",
-      "year": 2013,
-      "month": 2,
-      "day": 23,
-      "city": "Brisbane",
-      "state": "AUS",
-      "location": "Brisbane, AUS",
-      "venue": "Soundwave Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-24-2013",
-      "year": 2013,
-      "month": 2,
-      "day": 24,
-      "city": "Sydney",
-      "state": "AUS",
-      "location": "Sydney, AUS",
-      "venue": "Soundwave Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-1-2013",
-      "year": 2013,
-      "month": 3,
-      "day": 1,
-      "city": "Melbourne",
-      "state": "AUS",
-      "location": "Melbourne, AUS",
-      "venue": "Soundwave Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-2-2013",
-      "year": 2013,
-      "month": 3,
-      "day": 2,
-      "city": "Adelaide",
-      "state": "AUS",
-      "location": "Adelaide, AUS",
-      "venue": "Soundwave Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-4-2013",
-      "year": 2013,
-      "month": 3,
-      "day": 4,
-      "city": "Perth",
-      "state": "AUS",
-      "location": "Perth, AUS",
-      "venue": "Soundwave Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-19-2013",
-      "year": 2013,
-      "month": 4,
-      "day": 19,
-      "city": "Abu Dhabi",
-      "state": "UAE",
-      "location": "Abu Dhabi, UAE",
-      "venue": "Du Arena at Yas Island",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-24-2013",
-      "year": 2013,
-      "month": 4,
-      "day": 24,
-      "city": "Cape Town",
-      "state": "RSA",
-      "location": "Cape Town, RSA",
-      "venue": "Bellville Velodrome",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-25-2013",
-      "year": 2013,
-      "month": 4,
-      "day": 25,
-      "city": "Cape Town",
-      "state": "RSA",
-      "location": "Cape Town, RSA",
-      "venue": "Bellville Velodrome",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-27-2013",
-      "year": 2013,
-      "month": 4,
-      "day": 27,
-      "city": "Johannesburg",
-      "state": "RSA",
-      "location": "Johannesburg, RSA",
-      "venue": "FNB Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-8-2013",
-      "year": 2013,
-      "month": 6,
-      "day": 8,
-      "city": "Detroit",
-      "state": "MI",
-      "location": "Detroit, MI",
-      "venue": "Belle Isle",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-9-2013",
-      "year": 2013,
-      "month": 6,
-      "day": 9,
-      "city": "Detroit",
-      "state": "MI",
-      "location": "Detroit, MI",
-      "venue": "Belle Isle",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-6-2013",
-      "year": 2013,
-      "month": 7,
-      "day": 6,
-      "city": "Roskilde",
-      "state": "DNK",
-      "location": "Roskilde, DNK",
-      "venue": "Roskilde Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-19-2013",
-      "year": 2013,
-      "month": 7,
-      "day": 19,
-      "city": "San Diego",
-      "state": "CA",
-      "location": "San Diego, CA",
-      "venue": "Spreckels",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-10-2013",
-      "year": 2013,
-      "month": 8,
-      "day": 10,
-      "city": "Tokyo",
-      "state": "Japan",
-      "location": "Tokyo, Japan",
-      "venue": "QVC Marine Field",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-11-2013",
-      "year": 2013,
-      "month": 8,
-      "day": 11,
-      "city": "Osaka",
-      "state": "Japan",
-      "location": "Osaka, Japan",
-      "venue": "Maishima Summer Sonic Osaka Site",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-13-2013",
-      "year": 2013,
-      "month": 8,
-      "day": 13,
-      "city": "Shanghai",
-      "state": "CHN",
-      "location": "Shanghai, CHN",
-      "venue": "Mercedes-Benz Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-14-2013",
-      "year": 2013,
-      "month": 8,
-      "day": 14,
-      "city": "Shanghai",
-      "state": "China",
-      "location": "Shanghai, China",
-      "venue": "Mercedes-Benz Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-18-2013",
-      "year": 2013,
-      "month": 8,
-      "day": 18,
-      "city": "Seoul",
-      "state": "KOR",
-      "location": "Seoul, KOR",
-      "venue": "Citybreak at Olympic Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-21-2013",
-      "year": 2013,
-      "month": 8,
-      "day": 21,
-      "city": "Kuala Lumpur",
-      "state": "Malaysia",
-      "location": "Kuala Lumpur, Malaysia",
-      "venue": "Stadium Merdeka",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-24-2013",
-      "year": 2013,
-      "month": 8,
-      "day": 24,
-      "city": "Singapore",
-      "state": "SGP",
-      "location": "Singapore, SGP",
-      "venue": "Singapore Changi Exhibition Centre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-25-2013",
-      "year": 2013,
-      "month": 8,
-      "day": 25,
-      "city": "Jakarta",
-      "state": "IDN",
-      "location": "Jakarta, IDN",
-      "venue": "Galora Bung Karno Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-19-2013",
-      "year": 2013,
-      "month": 9,
-      "day": 19,
-      "city": "Rio de Janeiro",
-      "state": "Brazil",
-      "location": "Rio de Janeiro, Brazil",
-      "venue": "City of Rock",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-21-2013",
-      "year": 2013,
-      "month": 9,
-      "day": 21,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Apollo Theater",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-8-2013",
-      "year": 2013,
-      "month": 12,
-      "day": 8,
-      "city": "South Shetland Islands",
-      "state": "Antarctica",
-      "location": "South Shetland Islands, Antarctica",
-      "venue": "Carlini Dome",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-16-2014",
-      "year": 2014,
-      "month": 3,
-      "day": 16,
-      "city": "Bogota",
-      "state": "COL",
-      "location": "Bogota, COL",
-      "venue": "Parque Simon Bolivar",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-18-2014",
-      "year": 2014,
-      "month": 3,
-      "day": 18,
-      "city": "Quito",
-      "state": "ECU",
-      "location": "Quito, ECU",
-      "venue": "Parque Bicenenario",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-20-2014",
-      "year": 2014,
-      "month": 3,
-      "day": 20,
-      "city": "Lima",
-      "state": "PER",
-      "location": "Lima, PER",
-      "venue": "Estadio Nacional",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-22-2014",
-      "year": 2014,
-      "month": 3,
-      "day": 22,
-      "city": "Sao Paulo",
-      "state": "BRA",
-      "location": "Sao Paulo, BRA",
-      "venue": "Estadio Do Morumbi",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-24-2014",
-      "year": 2014,
-      "month": 3,
-      "day": 24,
-      "city": "Asuncion",
-      "state": "PRY",
-      "location": "Asuncion, PRY",
-      "venue": "Jockey Club",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-27-2014",
-      "year": 2014,
-      "month": 3,
-      "day": 27,
-      "city": "Santiago",
-      "state": "CHL",
-      "location": "Santiago, CHL",
-      "venue": "Estadio Monumental",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-29-2014",
-      "year": 2014,
-      "month": 3,
-      "day": 29,
-      "city": "Buenos Aires",
-      "state": "Argentina",
-      "location": "Buenos Aires, Argentina",
-      "venue": "Estadio Ciudad de la Plata",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-30-2014",
-      "year": 2014,
-      "month": 3,
-      "day": 30,
-      "city": "Buenos Aires",
-      "state": "ARG",
-      "location": "Buenos Aires, ARG",
-      "venue": "Estadio Ciudad de la Plata",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-12-2014",
-      "year": 2014,
-      "month": 5,
-      "day": 12,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Club Nokia",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-28-2014",
-      "year": 2014,
-      "month": 5,
-      "day": 28,
-      "city": "Helsinki",
-      "state": "FIN",
-      "location": "Helsinki, FIN",
-      "venue": "Sonisphere at Hietaniemi Beach",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-30-2014",
-      "year": 2014,
-      "month": 5,
-      "day": 30,
-      "city": "Stockholm",
-      "state": "SWE",
-      "location": "Stockholm, SWE",
-      "venue": "Gardet Royal Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-1-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 1,
-      "city": "Oslo",
-      "state": "NOR",
-      "location": "Oslo, NOR",
-      "venue": "Sonisphere at Valle Hovin",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-3-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 3,
-      "city": "Horsens",
-      "state": "DNK",
-      "location": "Horsens, DNK",
-      "venue": "State Prison Open Air",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-4-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 4,
-      "city": "Hamburg",
-      "state": "DEU",
-      "location": "Hamburg, DEU",
-      "venue": "Sonisphere at Imtech Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-6-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 6,
-      "city": "Nu?rnberg",
-      "state": "Germany",
-      "location": "Nu?rnberg, Germany",
-      "venue": "Zeppelinfeld",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-8-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 8,
-      "city": "Nurburg",
-      "state": "Germany - Rock am Ring (LiveMetallica)",
-      "location": "Nurburg, Germany - Rock am Ring (LiveMetallica)",
-      "venue": "",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-9-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 9,
-      "city": "Landgraaf",
-      "state": "The Netherlands",
-      "location": "Landgraaf, The Netherlands",
-      "venue": "Pinkpop Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-28-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 28,
-      "city": "Pilton",
-      "state": "England",
-      "location": "Pilton, England",
-      "venue": "Glastonbury Festival at Worthy Farm",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-1-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 1,
-      "city": "Rome",
-      "state": "ITA",
-      "location": "Rome, ITA",
-      "venue": "Rock In Rome Sonisphere at Ippodromo Capannelle",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-3-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 3,
-      "city": "Werchter",
-      "state": "Belgium",
-      "location": "Werchter, Belgium",
-      "venue": "Rock Werchter",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-4-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 4,
-      "city": "Basel",
-      "state": "SUI",
-      "location": "Basel, SUI",
-      "venue": "Sonisphere at St. Jakob-Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-6-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 6,
-      "city": "Stevenage",
-      "state": "GBR",
-      "location": "Stevenage, GBR",
-      "venue": "Sonisphere at Knebworth House",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-8-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 8,
-      "city": "Prague",
-      "state": "CZE",
-      "location": "Prague, CZE",
-      "venue": "Aerodrome Festival at Incheba Open Air",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-9-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 9,
-      "city": "Vienna",
-      "state": "AUT",
-      "location": "Vienna, AUT",
-      "venue": "Krieau Rocks at Krieau Open Air",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-11-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 11,
-      "city": "Warsaw",
-      "state": "POL",
-      "location": "Warsaw, POL",
-      "venue": "Sonisphere at National Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-13-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 13,
-      "city": "Istanbul",
-      "state": "TUR",
-      "location": "Istanbul, TUR",
-      "venue": "Itu Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-9-2014",
-      "year": 2014,
-      "month": 8,
-      "day": 9,
-      "city": "Montreal",
-      "state": "QC",
-      "location": "Montreal, QC",
-      "venue": "Heavy Montreal at Parc Jean-Drapeau",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-9-2015",
-      "year": 2015,
-      "month": 2,
-      "day": 9,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Pier 48",
-      "notes": "Live Metallica Vault",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-9-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 9,
-      "city": "Las Vegas",
-      "state": "NV",
-      "location": "Las Vegas, NV",
-      "venue": "MGM Resorts Festival Grounds",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-29-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 29,
-      "city": "Veltins Arena",
-      "state": "",
-      "location": "Veltins Arena",
-      "venue": "Gelsenkirchen, DEU",
-      "notes": "Mix #1 \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-29-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 29,
-      "city": "Veltins Arena",
-      "state": "",
-      "location": "Veltins Arena",
-      "venue": "Gelsenkirchen, DEU",
-      "notes": "Mix #2 \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-31-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 31,
-      "city": "Mu?nchen",
-      "state": "DEU",
-      "location": "Mu?nchen, DEU",
-      "venue": "Olympiapark Mu?nchen",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-2-2015",
-      "year": 2015,
-      "month": 6,
-      "day": 2,
-      "city": "Milan",
-      "state": "Italy",
-      "location": "Milan, Italy",
-      "venue": "Assago Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-4-2015",
-      "year": 2015,
-      "month": 6,
-      "day": 4,
-      "city": "Vienna",
-      "state": "AUT",
-      "location": "Vienna, AUT",
-      "venue": "Donauinsel Wien",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-6-2015",
-      "year": 2015,
-      "month": 6,
-      "day": 6,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Circuit Of The Americas",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-1-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 1,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Grant Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-20-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 20,
-      "city": "Bergen",
-      "state": "Norway",
-      "location": "Bergen, Norway",
-      "venue": "Bergenhus Fortress",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-22-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 22,
-      "city": "Gothenburg",
-      "state": "Sweden",
-      "location": "Gothenburg, Sweden",
-      "venue": "Ullevi Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-25-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 25,
-      "city": "St. Petersburg",
-      "state": "Russia",
-      "location": "St. Petersburg, Russia",
-      "venue": "Saint-Petersburg Sports And Concert Complex",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-27-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 27,
-      "city": "Moscow",
-      "state": "Russia",
-      "location": "Moscow, Russia",
-      "venue": "Olimpiyskiy",
-      "notes": "Source 1 \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-29-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 29,
-      "city": "Reading",
-      "state": "England",
-      "location": "Reading, England",
-      "venue": "Richfield Avenue",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-30-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 30,
-      "city": "Leeds",
-      "state": "England",
-      "location": "Leeds, England",
-      "venue": "Bramham Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-14-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 14,
-      "city": "Que?bec City",
-      "state": "Quebec",
-      "location": "Que?bec City, Quebec",
-      "venue": "Colise?e Pepsi",
-      "notes": "Source 1 \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-16-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 16,
-      "city": "Que?bec City",
-      "state": "Quebec",
-      "location": "Que?bec City, Quebec",
-      "venue": "Centre Vide?otron",
-      "notes": "Source 1 \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-19-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 19,
-      "city": "Rio De Janeiro",
-      "state": "Brazil",
-      "location": "Rio De Janeiro, Brazil",
-      "venue": "Nova Cidade Do Rock",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-6-2016",
-      "year": 2016,
-      "month": 2,
-      "day": 6,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "AT&T Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-16-2016",
-      "year": 2016,
-      "month": 4,
-      "day": 16,
-      "city": "Berkeley",
-      "state": "CA",
-      "location": "Berkeley, CA",
-      "venue": "Rasputin Music",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-20-2016",
-      "year": 2016,
-      "month": 8,
-      "day": 20,
-      "city": "Minneapolis",
-      "state": "MN",
-      "location": "Minneapolis, MN",
-      "venue": "US Bank Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-24-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 24,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Great Lawn in Central Park - Global Citizen Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-27-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 27,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Webster Hall",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-22-2016",
-      "year": 2016,
-      "month": 10,
-      "day": 22,
-      "city": "Mountain View",
-      "state": "CA",
-      "location": "Mountain View, CA",
-      "venue": "Shoreline Amphitheatre - Bridge School Benefit",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-23-2016",
-      "year": 2016,
-      "month": 10,
-      "day": 23,
-      "city": "Mountain View",
-      "state": "CA",
-      "location": "Mountain View, CA",
-      "venue": "Shoreline Amphitheatre - Bridge School Benefit",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-26-2016",
-      "year": 2016,
-      "month": 10,
-      "day": 26,
-      "city": "San Juan",
-      "state": "Puerto Rico",
-      "location": "San Juan, Puerto Rico",
-      "venue": "Coliseo Jose Miguel Agrelot",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-29-2016",
-      "year": 2016,
-      "month": 10,
-      "day": 29,
-      "city": "Quito",
-      "state": "Ecuador",
-      "location": "Quito, Ecuador",
-      "venue": "Parque Bicentenario",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-1-2016",
-      "year": 2016,
-      "month": 11,
-      "day": 1,
-      "city": "Bogota",
-      "state": "Colombia",
-      "location": "Bogota, Colombia",
-      "venue": "Hipodromo de los Andes",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-3-2016",
-      "year": 2016,
-      "month": 11,
-      "day": 3,
-      "city": "Guatemala City",
-      "state": "Guatemala",
-      "location": "Guatemala City, Guatemala",
-      "venue": "Estadio Cementos Progreso",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-5-2016",
-      "year": 2016,
-      "month": 11,
-      "day": 5,
-      "city": "San Jose",
-      "state": "Costa Rica",
-      "location": "San Jose, Costa Rica",
-      "venue": "Estadio Nacional de Costa Rica",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-18-2016",
-      "year": 2016,
-      "month": 11,
-      "day": 18,
-      "city": "London",
-      "state": "England",
-      "location": "London, England",
-      "venue": "House of Vans",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-29-2016",
-      "year": 2016,
-      "month": 11,
-      "day": 29,
-      "city": "Toronto",
-      "state": "Canada",
-      "location": "Toronto, Canada",
-      "venue": "The Opera House",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-15-2016",
-      "year": 2016,
-      "month": 12,
-      "day": 15,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "The Fonda Theatre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-17-2016",
-      "year": 2016,
-      "month": 12,
-      "day": 17,
-      "city": "Oakland",
-      "state": "CA",
-      "location": "Oakland, CA",
-      "venue": "Fox Theatre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-11-2017",
-      "year": 2017,
-      "month": 1,
-      "day": 11,
-      "city": "Seoul",
-      "state": "South Korea",
-      "location": "Seoul, South Korea",
-      "venue": "Gocheok Sky Dome",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-15-2017",
-      "year": 2017,
-      "month": 1,
-      "day": 15,
-      "city": "Shanghai",
-      "state": "China",
-      "location": "Shanghai, China",
-      "venue": "Mercedes-Benz Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-18-2017",
-      "year": 2017,
-      "month": 1,
-      "day": 18,
-      "city": "Beijing",
-      "state": "China",
-      "location": "Beijing, China",
-      "venue": "LeSports Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-20-2017",
-      "year": 2017,
-      "month": 1,
-      "day": 20,
-      "city": "Chek Lap Kok",
-      "state": "Hong Kong",
-      "location": "Chek Lap Kok, Hong Kong",
-      "venue": "AsiaWOrld-Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-22-2017",
-      "year": 2017,
-      "month": 1,
-      "day": 22,
-      "city": "Singapore",
-      "state": "Singapore",
-      "location": "Singapore, Singapore",
-      "venue": "Singapore Indoor Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-7-2017",
-      "year": 2017,
-      "month": 2,
-      "day": 7,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Royal Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-9-2017",
-      "year": 2017,
-      "month": 2,
-      "day": 9,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Royal Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-12-2017",
-      "year": 2017,
-      "month": 2,
-      "day": 12,
-      "city": "Hollywood",
-      "state": "CA",
-      "location": "Hollywood, CA",
-      "venue": "Hollywood Palladium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-1-2017",
-      "year": 2017,
-      "month": 3,
-      "day": 1,
-      "city": "Mexico City",
-      "state": "Mexico",
-      "location": "Mexico City, Mexico",
-      "venue": "Foro Sol",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-3-2017",
-      "year": 2017,
-      "month": 3,
-      "day": 3,
-      "city": "Mexico City",
-      "state": "Mexico",
-      "location": "Mexico City, Mexico",
-      "venue": "Foro Sol",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-5-2017",
-      "year": 2017,
-      "month": 3,
-      "day": 5,
-      "city": "Mexico City",
-      "state": "Mexico",
-      "location": "Mexico City, Mexico",
-      "venue": "Foro Sol",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-25-2017",
-      "year": 2017,
-      "month": 3,
-      "day": 25,
-      "city": "Sao Paulo",
-      "state": "Brazil",
-      "location": "Sao Paulo, Brazil",
-      "venue": "Autodromo de Interlagos",
-      "notes": "Lollapalooza \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-31-2017",
-      "year": 2017,
-      "month": 3,
-      "day": 31,
-      "city": "Buenos Aires",
-      "state": "Argentina",
-      "location": "Buenos Aires, Argentina",
-      "venue": "Hipodromo de San Isidro",
-      "notes": "Lollapalooza \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-1-2017",
-      "year": 2017,
-      "month": 4,
-      "day": 1,
-      "city": "Santiago",
-      "state": "Chile",
-      "location": "Santiago, Chile",
-      "venue": "Parque O'Higgins",
-      "notes": "Lollapalooza \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-10-2017",
-      "year": 2017,
-      "month": 5,
-      "day": 10,
-      "city": "Baltimore",
-      "state": "MD",
-      "location": "Baltimore, MD",
-      "venue": "M&T Bank Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-12-2017",
-      "year": 2017,
-      "month": 5,
-      "day": 12,
-      "city": "Philadelphia",
-      "state": "PA",
-      "location": "Philadelphia, PA",
-      "venue": "Lincoln Financial Field",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-14-2017",
-      "year": 2017,
-      "month": 5,
-      "day": 14,
-      "city": "East Rutherford",
-      "state": "NJ",
-      "location": "East Rutherford, NJ",
-      "venue": "MetLife Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-17-2017",
-      "year": 2017,
-      "month": 5,
-      "day": 17,
-      "city": "Uniondale",
-      "state": "NY",
-      "location": "Uniondale, NY",
-      "venue": "Nassau Coliseum",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-19-2017",
-      "year": 2017,
-      "month": 5,
-      "day": 19,
-      "city": "Foxborough",
-      "state": "MA",
-      "location": "Foxborough, MA",
-      "venue": "Gilette Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-21-2017",
-      "year": 2017,
-      "month": 5,
-      "day": 21,
-      "city": "Columbus",
-      "state": "OH",
-      "location": "Columbus, OH",
-      "venue": "Mapfre Stadium - Rock on the Range",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-4-2017",
-      "year": 2017,
-      "month": 6,
-      "day": 4,
-      "city": "St. Louis",
-      "state": "MO",
-      "location": "St. Louis, MO",
-      "venue": "Busch Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-7-2017",
-      "year": 2017,
-      "month": 6,
-      "day": 7,
-      "city": "Denver",
-      "state": "CO",
-      "location": "Denver, CO",
-      "venue": "Sports Authority Field at Mile High",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-9-2017",
-      "year": 2017,
-      "month": 6,
-      "day": 9,
-      "city": "Newton",
-      "state": "IA",
-      "location": "Newton, IA",
-      "venue": "Iowa Speedway",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-11-2017",
-      "year": 2017,
-      "month": 6,
-      "day": 11,
-      "city": "Houston",
-      "state": "TX",
-      "location": "Houston, TX",
-      "venue": "NRG Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-14-2017",
-      "year": 2017,
-      "month": 6,
-      "day": 14,
-      "city": "San Antonio",
-      "state": "TX",
-      "location": "San Antonio, TX",
-      "venue": "Alamodome",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-16-2017",
-      "year": 2017,
-      "month": 6,
-      "day": 16,
-      "city": "Arlington",
-      "state": "TX",
-      "location": "Arlington, TX",
-      "venue": "AT&T Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-18-2017",
-      "year": 2017,
-      "month": 6,
-      "day": 18,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Soldier Field",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-5-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 5,
-      "city": "Orlando",
-      "state": "FL",
-      "location": "Orlando, FL",
-      "venue": "Camping World Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-7-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 7,
-      "city": "Miami",
-      "state": "FL",
-      "location": "Miami, FL",
-      "venue": "Hard Rock Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-9-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 9,
-      "city": "Atlanta",
-      "state": "GA",
-      "location": "Atlanta, GA",
-      "venue": "SunTrust Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-12-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 12,
-      "city": "Detroit",
-      "state": "MI",
-      "location": "Detroit, MI",
-      "venue": "Comerica Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-14-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 14,
-      "city": "Quebec City",
-      "state": "PQ",
-      "location": "Quebec City, PQ",
-      "venue": "Plaines d'Abraham - Festival dete de Quebec",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-16-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 16,
-      "city": "Toronto",
-      "state": "Ontario",
-      "location": "Toronto, Ontario",
-      "venue": "Rogers Centre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-19-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 19,
-      "city": "Montreal",
-      "state": "PQ",
-      "location": "Montreal, PQ",
-      "venue": "Parc Jean-Drapeau",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-29-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 29,
-      "city": "Pasadena",
-      "state": "CA",
-      "location": "Pasadena, CA",
-      "venue": "Rose Bowl",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-4-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 4,
-      "city": "Phoenix",
-      "state": "AZ",
-      "location": "Phoenix, AZ",
-      "venue": "University of Phoenix Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-6-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 6,
-      "city": "San Diego",
-      "state": "CA",
-      "location": "San Diego, CA",
-      "venue": "Petco Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-9-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 9,
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Centurylink Field",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-12-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 12,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Golden Gate Park - Outside Lands Music & Arts Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-14-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 14,
-      "city": "Vancouver",
-      "state": "BC",
-      "location": "Vancouver, BC",
-      "venue": "BC Place Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-16-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 16,
-      "city": "Edmonton",
-      "state": "Alberta",
-      "location": "Edmonton, Alberta",
-      "venue": "Commonwealth Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-2-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 2,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Royal Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-4-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 4,
-      "city": "Amsterdam",
-      "state": "Holland",
-      "location": "Amsterdam, Holland",
-      "venue": "Ziggo Dome",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-6-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 6,
-      "city": "Amsterdam",
-      "state": "Holland",
-      "location": "Amsterdam, Holland",
-      "venue": "Ziggo Dome",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-8-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 8,
-      "city": "Paris",
-      "state": "France",
-      "location": "Paris, France",
-      "venue": "AccorHotels Arena",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-10-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 10,
-      "city": "Paris",
-      "state": "France",
-      "location": "Paris, France",
-      "venue": "AccorHotels Arena",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-12-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 12,
-      "city": "Lyon",
-      "state": "France",
-      "location": "Lyon, France",
-      "venue": "Halle Tony Garnier",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-14-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 14,
-      "city": "Cologne",
-      "state": "Germany",
-      "location": "Cologne, Germany",
-      "venue": "Lanxess Arena",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-16-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 16,
-      "city": "Cologne",
-      "state": "Germany",
-      "location": "Cologne, Germany",
-      "venue": "Lanxess Arena",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-22-2017",
-      "year": 2017,
-      "month": 10,
-      "day": 22,
-      "city": "London",
-      "state": "England",
-      "location": "London, England",
-      "venue": "02 Arena",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-24-2017",
-      "year": 2017,
-      "month": 10,
-      "day": 24,
-      "city": "London",
-      "state": "England",
-      "location": "London, England",
-      "venue": "02 Arena",
-      "notes": "2nd night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-26-2017",
-      "year": 2017,
-      "month": 10,
-      "day": 26,
-      "city": "Glasgow",
-      "state": "Scotland",
-      "location": "Glasgow, Scotland",
-      "venue": "The SSE Hydro",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-28-2017",
-      "year": 2017,
-      "month": 10,
-      "day": 28,
-      "city": "Manchester",
-      "state": "England",
-      "location": "Manchester, England",
-      "venue": "Manchester Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-30-2017",
-      "year": 2017,
-      "month": 10,
-      "day": 30,
-      "city": "Birmingham",
-      "state": "England",
-      "location": "Birmingham, England",
-      "venue": "Genting Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-1-2017",
-      "year": 2017,
-      "month": 11,
-      "day": 1,
-      "city": "Antwerp",
-      "state": "Belgium",
-      "location": "Antwerp, Belgium",
-      "venue": "Sportpaleis",
-      "notes": "1st night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-3-2017",
-      "year": 2017,
-      "month": 11,
-      "day": 3,
-      "city": "Antwerp",
-      "state": "Belgium",
-      "location": "Antwerp, Belgium",
-      "venue": "Sportspaleis",
-      "notes": "2nd Night \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-9-2017",
-      "year": 2017,
-      "month": 11,
-      "day": 9,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "AT&T Park - Band Together Bay Area",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-1-2018",
-      "year": 2018,
-      "month": 2,
-      "day": 1,
-      "city": "Lisbon",
-      "state": "PRT",
-      "location": "Lisbon, PRT",
-      "venue": "Altice Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-3-2018",
-      "year": 2018,
-      "month": 2,
-      "day": 3,
-      "city": "Madrid",
-      "state": "ESP",
-      "location": "Madrid, ESP",
-      "venue": "Wizink Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-5-2018",
-      "year": 2018,
-      "month": 2,
-      "day": 5,
-      "city": "Madrid",
-      "state": "ESP",
-      "location": "Madrid, ESP",
-      "venue": "Wizink Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-7-2018",
-      "year": 2018,
-      "month": 2,
-      "day": 7,
-      "city": "Barcelona",
-      "state": "ESP",
-      "location": "Barcelona, ESP",
-      "venue": "Palau Sant Jordi",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-10-2018",
-      "year": 2018,
-      "month": 2,
-      "day": 10,
-      "city": "Turin",
-      "state": "ITA",
-      "location": "Turin, ITA",
-      "venue": "Pala Alpitour",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-12-2018",
-      "year": 2018,
-      "month": 2,
-      "day": 12,
-      "city": "Bologna",
-      "state": "ITA",
-      "location": "Bologna, ITA",
-      "venue": "Unipol Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-14-2018",
-      "year": 2018,
-      "month": 2,
-      "day": 14,
-      "city": "Bologna",
-      "state": "ITA",
-      "location": "Bologna, ITA",
-      "venue": "Unipol Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-16-2018",
-      "year": 2018,
-      "month": 2,
-      "day": 16,
-      "city": "Mannheim",
-      "state": "DEU",
-      "location": "Mannheim, DEU",
-      "venue": "Sap Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-27-2018",
-      "year": 2018,
-      "month": 3,
-      "day": 27,
-      "city": "Herning",
-      "state": "Denmark",
-      "location": "Herning, Denmark",
-      "venue": "Jyske Bank Boxen",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-29-2018",
-      "year": 2018,
-      "month": 3,
-      "day": 29,
-      "city": "Hamburg",
-      "state": "Germany",
-      "location": "Hamburg, Germany",
-      "venue": "Barclayard Arena (LiveMetallica",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-31-2018",
-      "year": 2018,
-      "month": 3,
-      "day": 31,
-      "city": "Vienna",
-      "state": "Austria",
-      "location": "Vienna, Austria",
-      "venue": "Wiener Stadthalle",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-2-2018",
-      "year": 2018,
-      "month": 4,
-      "day": 2,
-      "city": "Prague",
-      "state": "Czech Republic",
-      "location": "Prague, Czech Republic",
-      "venue": "Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-5-2018",
-      "year": 2018,
-      "month": 4,
-      "day": 5,
-      "city": "Budapest",
-      "state": "Hungary",
-      "location": "Budapest, Hungary",
-      "venue": "Sports Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-7-2018",
-      "year": 2018,
-      "month": 4,
-      "day": 7,
-      "city": "Stuttgart",
-      "state": "Germany",
-      "location": "Stuttgart, Germany",
-      "venue": "Schleyerhalle",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-9-2018",
-      "year": 2018,
-      "month": 4,
-      "day": 9,
-      "city": "Stuttgart",
-      "state": "Germany",
-      "location": "Stuttgart, Germany",
-      "venue": "Schleyerhalle",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-11-2018",
-      "year": 2018,
-      "month": 4,
-      "day": 11,
-      "city": "Geneva",
-      "state": "Switzerland",
-      "location": "Geneva, Switzerland",
-      "venue": "Palexpo",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-26-2018",
-      "year": 2018,
-      "month": 4,
-      "day": 26,
-      "city": "Munich",
-      "state": "Germany",
-      "location": "Munich, Germany",
-      "venue": "Olympiahalle",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-28-2018",
-      "year": 2018,
-      "month": 4,
-      "day": 28,
-      "city": "Krakow",
-      "state": "Poland",
-      "location": "Krakow, Poland",
-      "venue": "Tauron Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-30-2018",
-      "year": 2018,
-      "month": 4,
-      "day": 30,
-      "city": "Leipzig",
-      "state": "Germany",
-      "location": "Leipzig, Germany",
-      "venue": "Leipzig Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-2-2018",
-      "year": 2018,
-      "month": 5,
-      "day": 2,
-      "city": "Oslo",
-      "state": "Norway",
-      "location": "Oslo, Norway",
-      "venue": "Telenor Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-5-2018",
-      "year": 2018,
-      "month": 5,
-      "day": 5,
-      "city": "Stockholm",
-      "state": "Sweden",
-      "location": "Stockholm, Sweden",
-      "venue": "Ericsson Globe",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-7-2018",
-      "year": 2018,
-      "month": 5,
-      "day": 7,
-      "city": "Stockholm",
-      "state": "Sweden",
-      "location": "Stockholm, Sweden",
-      "venue": "Erricson Globe",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-9-2018",
-      "year": 2018,
-      "month": 5,
-      "day": 9,
-      "city": "Helsinki",
-      "state": "Finland",
-      "location": "Helsinki, Finland",
-      "venue": "Hartwall Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-11-2018",
-      "year": 2018,
-      "month": 5,
-      "day": 11,
-      "city": "Helsinki",
-      "state": "Finland",
-      "location": "Helsinki, Finland",
-      "venue": "Hartwall Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-2-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 2,
-      "city": "Madison",
-      "state": "WI",
-      "location": "Madison, WI",
-      "venue": "Kohl Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-4-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 4,
-      "city": "Minneapolis",
-      "state": "MN",
-      "location": "Minneapolis, MN",
-      "venue": "Target Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-6-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 6,
-      "city": "Lincoln",
-      "state": "NE",
-      "location": "Lincoln, NE",
-      "venue": "Pinnacle Bank Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-8-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 8,
-      "city": "Grand Fork",
-      "state": "ND",
-      "location": "Grand Fork, ND",
-      "venue": "Alerus Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-11-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 11,
-      "city": "Sioux Falls",
-      "state": "SD",
-      "location": "Sioux Falls, SD",
-      "venue": "Denny Sanford Premier Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-13-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 13,
-      "city": "Winnipeg",
-      "state": "Manitoba, Canada",
-      "location": "Winnipeg, Manitoba, Canada",
-      "venue": "Bell MTS Place",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-15-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 15,
-      "city": "Saskatchewan",
-      "state": "Canada",
-      "location": "Saskatchewan, Canada",
-      "venue": "SaskTel Centre Saskatoon",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-26-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 26,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Civic Center Plaza",
-      "notes": "Dreamfest \u00b7 LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-6-2018",
-      "year": 2018,
-      "month": 10,
-      "day": 6,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Austin City Limits - Zilker Park Austin",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-13-2018",
-      "year": 2018,
-      "month": 10,
-      "day": 13,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Austin City Limits - Zilker Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-16-2018",
-      "year": 2018,
-      "month": 10,
-      "day": 16,
-      "city": "Milwaukee",
-      "state": "WI",
-      "location": "Milwaukee, WI",
-      "venue": "Wisconsin Entertainment & Sports Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-18-2018",
-      "year": 2018,
-      "month": 10,
-      "day": 18,
-      "city": "Pittsburgh",
-      "state": "PA",
-      "location": "Pittsburgh, PA",
-      "venue": "PPG Paints Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-20-2018",
-      "year": 2018,
-      "month": 10,
-      "day": 20,
-      "city": "State College",
-      "state": "PA",
-      "location": "State College, PA",
-      "venue": "Bryce Jordan Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-22-2018",
-      "year": 2018,
-      "month": 10,
-      "day": 22,
-      "city": "Charlotte",
-      "state": "NC",
-      "location": "Charlotte, NC",
-      "venue": "Spectrum Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-25-2018",
-      "year": 2018,
-      "month": 10,
-      "day": 25,
-      "city": "Philadelphia",
-      "state": "PA",
-      "location": "Philadelphia, PA",
-      "venue": "Wells Fargo Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-27-2018",
-      "year": 2018,
-      "month": 10,
-      "day": 27,
-      "city": "Buffalo",
-      "state": "NY",
-      "location": "Buffalo, NY",
-      "venue": "Keybank Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-29-2018",
-      "year": 2018,
-      "month": 10,
-      "day": 29,
-      "city": "Albany",
-      "state": "NY",
-      "location": "Albany, NY",
-      "venue": "Times Union Center (LiveMetallica",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-3-2018",
-      "year": 2018,
-      "month": 11,
-      "day": 3,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "The Masonic",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-26-2018",
-      "year": 2018,
-      "month": 11,
-      "day": 26,
-      "city": "Las Vegas",
-      "state": "NV",
-      "location": "Las Vegas, NV",
-      "venue": "T-Mobile Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-28-2018",
-      "year": 2018,
-      "month": 11,
-      "day": 28,
-      "city": "Boise",
-      "state": "ID",
-      "location": "Boise, ID",
-      "venue": "Taco Bell Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-30-2018",
-      "year": 2018,
-      "month": 11,
-      "day": 30,
-      "city": "Salt Lake City",
-      "state": "UT",
-      "location": "Salt Lake City, UT",
-      "venue": "Vivint Smart Home Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-2-2018",
-      "year": 2018,
-      "month": 12,
-      "day": 2,
-      "city": "Spokane",
-      "state": "WA",
-      "location": "Spokane, WA",
-      "venue": "Spokane Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-5-2018",
-      "year": 2018,
-      "month": 12,
-      "day": 5,
-      "city": "Portland",
-      "state": "OR",
-      "location": "Portland, OR",
-      "venue": "Moda Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-7-2018",
-      "year": 2018,
-      "month": 12,
-      "day": 7,
-      "city": "Sacramento",
-      "state": "CA",
-      "location": "Sacramento, CA",
-      "venue": "Golden 1 Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-9-2018",
-      "year": 2018,
-      "month": 12,
-      "day": 9,
-      "city": "Fresno",
-      "state": "CA",
-      "location": "Fresno, CA",
-      "venue": "Save Mart Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-18-2019",
-      "year": 2019,
-      "month": 1,
-      "day": 18,
-      "city": "Tulsa",
-      "state": "OK",
-      "location": "Tulsa, OK",
-      "venue": "BOK Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-20-2019",
-      "year": 2019,
-      "month": 1,
-      "day": 20,
-      "city": "Little Rock",
-      "state": "AR",
-      "location": "Little Rock, AR",
-      "venue": "Verizon Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-22-2019",
-      "year": 2019,
-      "month": 1,
-      "day": 22,
-      "city": "Birmingham",
-      "state": "AL",
-      "location": "Birmingham, AL",
-      "venue": "Legacy Arena at The BJCC",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-24-2019",
-      "year": 2019,
-      "month": 1,
-      "day": 24,
-      "city": "Nashville",
-      "state": "TN",
-      "location": "Nashville, TN",
-      "venue": "Bridgestone Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-28-2019",
-      "year": 2019,
-      "month": 1,
-      "day": 28,
-      "city": "Raleigh",
-      "state": "NC",
-      "location": "Raleigh, NC",
-      "venue": "PNC Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-30-2019",
-      "year": 2019,
-      "month": 1,
-      "day": 30,
-      "city": "Cincinnati",
-      "state": "OH",
-      "location": "Cincinnati, OH",
-      "venue": "U.S. Bank Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-1-2019",
-      "year": 2019,
-      "month": 2,
-      "day": 1,
-      "city": "Cleveland",
-      "state": "OH",
-      "location": "Cleveland, OH",
-      "venue": "Quicken Loans Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-28-2019",
-      "year": 2019,
-      "month": 2,
-      "day": 28,
-      "city": "El Paso",
-      "state": "TX",
-      "location": "El Paso, TX",
-      "venue": "Don Haskins Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-2-2019",
-      "year": 2019,
-      "month": 3,
-      "day": 2,
-      "city": "Lubbock",
-      "state": "TX",
-      "location": "Lubbock, TX",
-      "venue": "United Supermarkets Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-4-2019",
-      "year": 2019,
-      "month": 3,
-      "day": 4,
-      "city": "Wichita",
-      "state": "KS",
-      "location": "Wichita, KS",
-      "venue": "Intrust Bank Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-6-2019",
-      "year": 2019,
-      "month": 3,
-      "day": 6,
-      "city": "Kansas City",
-      "state": "MO",
-      "location": "Kansas City, MO",
-      "venue": "Sprint Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-13-2019",
-      "year": 2019,
-      "month": 3,
-      "day": 13,
-      "city": "Grand Rapids",
-      "state": "MI",
-      "location": "Grand Rapids, MI",
-      "venue": "Van Andel Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-1-2019",
-      "year": 2019,
-      "month": 5,
-      "day": 1,
-      "city": "Lisbon",
-      "state": "Portugal",
-      "location": "Lisbon, Portugal",
-      "venue": "Estadio do Restelo",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-3-2019",
-      "year": 2019,
-      "month": 5,
-      "day": 3,
-      "city": "Madrid",
-      "state": "Spain",
-      "location": "Madrid, Spain",
-      "venue": "Valdebebas",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-5-2019",
-      "year": 2019,
-      "month": 5,
-      "day": 5,
-      "city": "Barcelona",
-      "state": "Spain",
-      "location": "Barcelona, Spain",
-      "venue": "Estadi Olimpic Lluis Companys",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-8-2019",
-      "year": 2019,
-      "month": 5,
-      "day": 8,
-      "city": "Milan",
-      "state": "Italy",
-      "location": "Milan, Italy",
-      "venue": "SNAI San Siro Hippodrome",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-10-2019",
-      "year": 2019,
-      "month": 5,
-      "day": 10,
-      "city": "Zu?rich",
-      "state": "Switzerland",
-      "location": "Zu?rich, Switzerland",
-      "venue": "Letzigrund",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-12-2019",
-      "year": 2019,
-      "month": 5,
-      "day": 12,
-      "city": "Paris",
-      "state": "France",
-      "location": "Paris, France",
-      "venue": "Stade de France",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-8-2019",
-      "year": 2019,
-      "month": 6,
-      "day": 8,
-      "city": "Meath",
-      "state": "Ireland",
-      "location": "Meath, Ireland",
-      "venue": "Slane Castle",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-11-2019",
-      "year": 2019,
-      "month": 6,
-      "day": 11,
-      "city": "Amsterdam",
-      "state": "Netherlands",
-      "location": "Amsterdam, Netherlands",
-      "venue": "Johan Cruijff Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-13-2019",
-      "year": 2019,
-      "month": 6,
-      "day": 13,
-      "city": "Cologne",
-      "state": "Germany",
-      "location": "Cologne, Germany",
-      "venue": "RheinEnergieStadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-16-2019",
-      "year": 2019,
-      "month": 6,
-      "day": 16,
-      "city": "Brussels",
-      "state": "Belgium",
-      "location": "Brussels, Belgium",
-      "venue": "Koning Boudewijnstadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-18-2019",
-      "year": 2019,
-      "month": 6,
-      "day": 18,
-      "city": "Manchester",
-      "state": "England - Etihad Stadium (LiveMetallica)",
-      "location": "Manchester, England - Etihad Stadium (LiveMetallica)",
-      "venue": "",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-20-2019",
-      "year": 2019,
-      "month": 6,
-      "day": 20,
-      "city": "London",
-      "state": "England",
-      "location": "London, England",
-      "venue": "Twickenham Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-6-2019",
-      "year": 2019,
-      "month": 7,
-      "day": 6,
-      "city": "Berlin",
-      "state": "Germany",
-      "location": "Berlin, Germany",
-      "venue": "Olympiastadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-9-2019",
-      "year": 2019,
-      "month": 7,
-      "day": 9,
-      "city": "Gothenburg",
-      "state": "Sweden",
-      "location": "Gothenburg, Sweden",
-      "venue": "Ullevi",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-11-2019",
-      "year": 2019,
-      "month": 7,
-      "day": 11,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Telia Parken",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-13-2019",
-      "year": 2019,
-      "month": 7,
-      "day": 13,
-      "city": "Trondheim",
-      "state": "Norway",
-      "location": "Trondheim, Norway",
-      "venue": "Grana?sen",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-16-2019",
-      "year": 2019,
-      "month": 7,
-      "day": 16,
-      "city": "Hameenlinna",
-      "state": "Finland",
-      "location": "Hameenlinna, Finland",
-      "venue": "Kantolan Tapahtumapuisto",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-18-2019",
-      "year": 2019,
-      "month": 7,
-      "day": 18,
-      "city": "Tartu",
-      "state": "Estonia",
-      "location": "Tartu, Estonia",
-      "venue": "Raadi Airfield",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-21-2019",
-      "year": 2019,
-      "month": 7,
-      "day": 21,
-      "city": "Moscow",
-      "state": "Russia",
-      "location": "Moscow, Russia",
-      "venue": "Luzhniki Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-14-2019",
-      "year": 2019,
-      "month": 8,
-      "day": 14,
-      "city": "Nationala",
-      "state": "Romania, Bucharest",
-      "location": "Nationala, Romania, Bucharest",
-      "venue": "Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-16-2019",
-      "year": 2019,
-      "month": 8,
-      "day": 16,
-      "city": "Vienna",
-      "state": "AUS",
-      "location": "Vienna, AUS",
-      "venue": "Ernst-Happel-Stadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-18-2019",
-      "year": 2019,
-      "month": 8,
-      "day": 18,
-      "city": "Prague",
-      "state": "Czech Republic",
-      "location": "Prague, Czech Republic",
-      "venue": "Airport Letnany",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-21-2019",
-      "year": 2019,
-      "month": 8,
-      "day": 21,
-      "city": "Warsaw",
-      "state": "Poland",
-      "location": "Warsaw, Poland",
-      "venue": "PGE Narodowy",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-23-2019",
-      "year": 2019,
-      "month": 8,
-      "day": 23,
-      "city": "Munich",
-      "state": "Germany",
-      "location": "Munich, Germany",
-      "venue": "Olympiastadion Munich",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-25-2019",
-      "year": 2019,
-      "month": 8,
-      "day": 25,
-      "city": "Mannheim",
-      "state": "Germany",
-      "location": "Mannheim, Germany",
-      "venue": "Palastzelt Maimarktgela?nde",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-14-2020",
-      "year": 2020,
-      "month": 11,
-      "day": 14,
-      "city": "San Rafael",
-      "state": "CA",
-      "location": "San Rafael, CA",
-      "venue": "Metallica HQ",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-16-2021",
-      "year": 2021,
-      "month": 9,
-      "day": 16,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "The Independent",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-20-2021",
-      "year": 2021,
-      "month": 9,
-      "day": 20,
-      "city": "Chicago",
-      "state": "IL - Metro (LiveMetallica)",
-      "location": "Chicago, IL - Metro (LiveMetallica)",
-      "venue": "",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-24-2021",
-      "year": 2021,
-      "month": 9,
-      "day": 24,
-      "city": "Louisville",
-      "state": "KY",
-      "location": "Louisville, KY",
-      "venue": "Expo Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-26-2021",
-      "year": 2021,
-      "month": 9,
-      "day": 26,
-      "city": "Louisville",
-      "state": "KY",
-      "location": "Louisville, KY",
-      "venue": "Expo Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-8-2021",
-      "year": 2021,
-      "month": 10,
-      "day": 8,
-      "city": "Sacramento",
-      "state": "CA",
-      "location": "Sacramento, CA",
-      "venue": "Aftershock at Discovery Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-10-2021",
-      "year": 2021,
-      "month": 10,
-      "day": 10,
-      "city": "Sacramento",
-      "state": "CA",
-      "location": "Sacramento, CA",
-      "venue": "Aftershock at Discovery Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-4-2021",
-      "year": 2021,
-      "month": 11,
-      "day": 4,
-      "city": "Hollywood",
-      "state": "FL",
-      "location": "Hollywood, FL",
-      "venue": "Hard Rock Live at Seminole Hard Rock & Casino",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-6-2021",
-      "year": 2021,
-      "month": 11,
-      "day": 6,
-      "city": "Atlanta",
-      "state": "GA",
-      "location": "Atlanta, GA",
-      "venue": "AT Live - Mercedes-Benz Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-12-2021",
-      "year": 2021,
-      "month": 11,
-      "day": 12,
-      "city": "Daytona Beach",
-      "state": "FL",
-      "location": "Daytona Beach, FL",
-      "venue": "Daytona International Speedway",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-14-2021",
-      "year": 2021,
-      "month": 11,
-      "day": 14,
-      "city": "Daytona Beach",
-      "state": "FL",
-      "location": "Daytona Beach, FL",
-      "venue": "The Daytona International Speedway",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-27-2021",
-      "year": 2021,
-      "month": 11,
-      "day": 27,
-      "city": "Dallas",
-      "state": "TX",
-      "location": "Dallas, TX",
-      "venue": "Globe Life Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-17-2021",
-      "year": 2021,
-      "month": 12,
-      "day": 17,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Chase Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-19-2021",
-      "year": 2021,
-      "month": 12,
-      "day": 19,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Chase Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "2-25-2022",
-      "year": 2022,
-      "month": 2,
-      "day": 25,
-      "city": "Las Vegas",
-      "state": "NV",
-      "location": "Las Vegas, NV",
-      "venue": "Allegiant Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-27-2022",
-      "year": 2022,
-      "month": 4,
-      "day": 27,
-      "city": "Santiago",
-      "state": "Chile",
-      "location": "Santiago, Chile",
-      "venue": "Eastadio Nacional",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-30-2022",
-      "year": 2022,
-      "month": 4,
-      "day": 30,
-      "city": "Buenos Aires",
-      "state": "Argentina",
-      "location": "Buenos Aires, Argentina",
-      "venue": "Campo Argentino de Polo",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-5-2022",
-      "year": 2022,
-      "month": 5,
-      "day": 5,
-      "city": "Porto Alegre",
-      "state": "Brazil",
-      "location": "Porto Alegre, Brazil",
-      "venue": "Estacionamento da Fiergs",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-7-2022",
-      "year": 2022,
-      "month": 5,
-      "day": 7,
-      "city": "Curitiba",
-      "state": "Brazil",
-      "location": "Curitiba, Brazil",
-      "venue": "Esta?dio Couto Pereira",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-10-2022",
-      "year": 2022,
-      "month": 5,
-      "day": 10,
-      "city": "Sa?o Paulo",
-      "state": "Brazil",
-      "location": "Sa?o Paulo, Brazil",
-      "venue": "Esta?dio do Morumbi",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-12-2022",
-      "year": 2022,
-      "month": 5,
-      "day": 12,
-      "city": "Horizonte",
-      "state": "Brazil",
-      "location": "Horizonte, Brazil",
-      "venue": "Esta?dio do Mineira?o Belo",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-27-2022",
-      "year": 2022,
-      "month": 5,
-      "day": 27,
-      "city": "Napa",
-      "state": "CA",
-      "location": "Napa, CA",
-      "venue": "BottleRock Music Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-29-2022",
-      "year": 2022,
-      "month": 5,
-      "day": 29,
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "Calling @ Harvard Athletic Complex",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-15-2022",
-      "year": 2022,
-      "month": 6,
-      "day": 15,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Copenhell at Refshale?en",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-17-2022",
-      "year": 2022,
-      "month": 6,
-      "day": 17,
-      "city": "Landgraaf",
-      "state": "Netherlands",
-      "location": "Landgraaf, Netherlands",
-      "venue": "Pinkpop Festival at Megaland",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-19-2022",
-      "year": 2022,
-      "month": 6,
-      "day": 19,
-      "city": "Florence",
-      "state": "Italy",
-      "location": "Florence, Italy",
-      "venue": "Firenze Rocks at Visarno Arena Firenze",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-22-2022",
-      "year": 2022,
-      "month": 6,
-      "day": 22,
-      "city": "Prague",
-      "state": "Czech Republic",
-      "location": "Prague, Czech Republic",
-      "venue": "Prague Rocks at Letis?te Praha Letnany",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-24-2022",
-      "year": 2022,
-      "month": 6,
-      "day": 24,
-      "city": "Hockenheim",
-      "state": "Germany",
-      "location": "Hockenheim, Germany",
-      "venue": "Download Germany at Hockenheimring",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-26-2022",
-      "year": 2022,
-      "month": 6,
-      "day": 26,
-      "city": "Clisson",
-      "state": "France",
-      "location": "Clisson, France",
-      "venue": "Hellfest at Val de Moine",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-1-2022",
-      "year": 2022,
-      "month": 7,
-      "day": 1,
-      "city": "Werchter",
-      "state": "Belgium",
-      "location": "Werchter, Belgium",
-      "venue": "Rock Werchter at Festivalpark",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-3-2022",
-      "year": 2022,
-      "month": 7,
-      "day": 3,
-      "city": "Bilbao",
-      "state": "ESP",
-      "location": "Bilbao, ESP",
-      "venue": "Bizkaia Rock Day at Estadio San Mames",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-28-2022",
-      "year": 2022,
-      "month": 7,
-      "day": 28,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Grant Park - Lollapalooza",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-11-2022",
-      "year": 2022,
-      "month": 8,
-      "day": 11,
-      "city": "Buffalo",
-      "state": "NY",
-      "location": "Buffalo, NY",
-      "venue": "Highmark Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-14-2022",
-      "year": 2022,
-      "month": 8,
-      "day": 14,
-      "city": "Pittsburgh",
-      "state": "PA",
-      "location": "Pittsburgh, PA",
-      "venue": "PNC Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-24-2022",
-      "year": 2022,
-      "month": 9,
-      "day": 24,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Central Park - Global Citizens Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-6-2022",
-      "year": 2022,
-      "month": 11,
-      "day": 6,
-      "city": "Hollywood",
-      "state": "FL",
-      "location": "Hollywood, FL",
-      "venue": "Hard Rock Live at Seminole Hard Rock Hotel & Casino",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-16-2022",
-      "year": 2022,
-      "month": 12,
-      "day": 16,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Microsoft Theatre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-27-2023",
-      "year": 2023,
-      "month": 4,
-      "day": 27,
-      "city": "Amsterdam",
-      "state": "The Netherlands",
-      "location": "Amsterdam, The Netherlands",
-      "venue": "Johan Cruijff Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-29-2023",
-      "year": 2023,
-      "month": 4,
-      "day": 29,
-      "city": "Amsterdam",
-      "state": "The Netherlands",
-      "location": "Amsterdam, The Netherlands",
-      "venue": "Johan Cruijff Arena",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-17-2023",
-      "year": 2023,
-      "month": 5,
-      "day": 17,
-      "city": "Paris",
-      "state": "France",
-      "location": "Paris, France",
-      "venue": "Stade de France",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-19-2023",
-      "year": 2023,
-      "month": 5,
-      "day": 19,
-      "city": "Paris",
-      "state": "France",
-      "location": "Paris, France",
-      "venue": "Stade de France",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-26-2023",
-      "year": 2023,
-      "month": 5,
-      "day": 26,
-      "city": "Hamburg",
-      "state": "Germany",
-      "location": "Hamburg, Germany",
-      "venue": "Volksparkstadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-28-2023",
-      "year": 2023,
-      "month": 5,
-      "day": 28,
-      "city": "Hamburg",
-      "state": "Germany",
-      "location": "Hamburg, Germany",
-      "venue": "Volksparkstadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-8-2023",
-      "year": 2023,
-      "month": 6,
-      "day": 8,
-      "city": "Castle Donington",
-      "state": "England - Download Festival (LiveMetallica)",
-      "location": "Castle Donington, England - Download Festival (LiveMetallica)",
-      "venue": "",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-10-2023",
-      "year": 2023,
-      "month": 6,
-      "day": 10,
-      "city": "Castle Donington",
-      "state": "England - Download Festival (LiveMetallica)",
-      "location": "Castle Donington, England - Download Festival (LiveMetallica)",
-      "venue": "",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-16-2023",
-      "year": 2023,
-      "month": 6,
-      "day": 16,
-      "city": "Gothenburg",
-      "state": "Sweden",
-      "location": "Gothenburg, Sweden",
-      "venue": "Ullevi Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-18-2023",
-      "year": 2023,
-      "month": 6,
-      "day": 18,
-      "city": "Gothenburg",
-      "state": "Sweden",
-      "location": "Gothenburg, Sweden",
-      "venue": "Ullevi Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-4-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 4,
-      "city": "East Rutherford",
-      "state": "NJ",
-      "location": "East Rutherford, NJ",
-      "venue": "Metlife Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-6-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 6,
-      "city": "East Rutherford",
-      "state": "NJ",
-      "location": "East Rutherford, NJ",
-      "venue": "Metlife Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-18-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 18,
-      "city": "Arlington",
-      "state": "TX",
-      "location": "Arlington, TX",
-      "venue": "AT&T Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-20-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 20,
-      "city": "Arlington",
-      "state": "TX",
-      "location": "Arlington, TX",
-      "venue": "AT&T Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-25-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 25,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "So-Fi Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-27-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 27,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "So-Fi Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-1-2023",
-      "year": 2023,
-      "month": 9,
-      "day": 1,
-      "city": "Phoenix",
-      "state": "AZ",
-      "location": "Phoenix, AZ",
-      "venue": "State Farm Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-9-2023",
-      "year": 2023,
-      "month": 9,
-      "day": 9,
-      "city": "Phoenix",
-      "state": "AZ",
-      "location": "Phoenix, AZ",
-      "venue": "State Farm Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-8-2023",
-      "year": 2023,
-      "month": 10,
-      "day": 8,
-      "city": "Indio",
-      "state": "CA",
-      "location": "Indio, CA",
-      "venue": "Empire Polo Club",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-3-2023",
-      "year": 2023,
-      "month": 11,
-      "day": 3,
-      "city": "St. Louis",
-      "state": "MO",
-      "location": "St. Louis, MO",
-      "venue": "Dome at America's Centre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-5-2023",
-      "year": 2023,
-      "month": 11,
-      "day": 5,
-      "city": "St. Louis",
-      "state": "MO",
-      "location": "St. Louis, MO",
-      "venue": "Dome at America's Centre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-10-2023",
-      "year": 2023,
-      "month": 11,
-      "day": 10,
-      "city": "Detroit",
-      "state": "MI",
-      "location": "Detroit, MI",
-      "venue": "Ford Field",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-12-2023",
-      "year": 2023,
-      "month": 11,
-      "day": 12,
-      "city": "Detroit",
-      "state": "MI",
-      "location": "Detroit, MI",
-      "venue": "Ford Field",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-14-2023",
-      "year": 2023,
-      "month": 12,
-      "day": 14,
-      "city": "Riyadh",
-      "state": "SA",
-      "location": "Riyadh, SA",
-      "venue": "Soundstorm Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-24-2024",
-      "year": 2024,
-      "month": 5,
-      "day": 24,
-      "city": "Munich",
-      "state": "Germany",
-      "location": "Munich, Germany",
-      "venue": "Olympiastadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-26-2024",
-      "year": 2024,
-      "month": 5,
-      "day": 26,
-      "city": "Munich",
-      "state": "Germany",
-      "location": "Munich, Germany",
-      "venue": "Olympiastadion",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-29-2024",
-      "year": 2024,
-      "month": 5,
-      "day": 29,
-      "city": "Milan",
-      "state": "Italy",
-      "location": "Milan, Italy",
-      "venue": "I-Days Festival",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-1-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 1,
-      "city": "Vienna",
-      "state": "Austria",
-      "location": "Vienna, Austria",
-      "venue": "Racino Rocks",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-7-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 7,
-      "city": "Helsinki",
-      "state": "Finland",
-      "location": "Helsinki, Finland",
-      "venue": "Helsinki Olympic Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-9-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 9,
-      "city": "Helsinki",
-      "state": "Finland",
-      "location": "Helsinki, Finland",
-      "venue": "Helsinki Olympic Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-14-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 14,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Parken Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-16-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 16,
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Parken Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-26-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 26,
-      "city": "Oslo",
-      "state": "Norway",
-      "location": "Oslo, Norway",
-      "venue": "Tons of Rock",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-29-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 29,
-      "city": "Clisson",
-      "state": "France",
-      "location": "Clisson, France",
-      "venue": "Hellfest",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-5-2024",
-      "year": 2024,
-      "month": 7,
-      "day": 5,
-      "city": "Warsaw",
-      "state": "Poland",
-      "location": "Warsaw, Poland",
-      "venue": "PGE Narodowy",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-7-2024",
-      "year": 2024,
-      "month": 7,
-      "day": 7,
-      "city": "Warsaw",
-      "state": "Poland",
-      "location": "Warsaw, Poland",
-      "venue": "PGE Narodowy",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-12-2024",
-      "year": 2024,
-      "month": 7,
-      "day": 12,
-      "city": "Madrid",
-      "state": "Spain",
-      "location": "Madrid, Spain",
-      "venue": "Estadio Ci?vitas Metropolitano",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-14-2024",
-      "year": 2024,
-      "month": 7,
-      "day": 14,
-      "city": "Madrid",
-      "state": "Spain",
-      "location": "Madrid, Spain",
-      "venue": "Estadio Ci?vitas Metropolitano",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-2-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 2,
-      "city": "Foxborough",
-      "state": "MA",
-      "location": "Foxborough, MA",
-      "venue": "Gillette Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-4-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 4,
-      "city": "Foxborough",
-      "state": "MA",
-      "location": "Foxborough, MA",
-      "venue": "Gillette Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-9-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 9,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Soldier Field",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-11-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 11,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Soldier Field",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-16-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 16,
-      "city": "Minneapolis",
-      "state": "MN",
-      "location": "Minneapolis, MN",
-      "venue": "U.S. Bank Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-18-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 18,
-      "city": "Minneapolis",
-      "state": "MN",
-      "location": "Minneapolis, MN",
-      "venue": "U.S. Bank Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-23-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 23,
-      "city": "Alberta",
-      "state": "Canada",
-      "location": "Alberta, Canada",
-      "venue": "Commonwealth Stadium Edmonton",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-25-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 25,
-      "city": "Alberta",
-      "state": "Canada",
-      "location": "Alberta, Canada",
-      "venue": "Commonwealth Stadium Edmonton",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-30-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 30,
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Lumen Field",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-1-2024",
-      "year": 2024,
-      "month": 9,
-      "day": 1,
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Lumen Field",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-20-2024",
-      "year": 2024,
-      "month": 9,
-      "day": 20,
-      "city": "Mexico City",
-      "state": "Mexico",
-      "location": "Mexico City, Mexico",
-      "venue": "Estadio GNP Seguros",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-22-2024",
-      "year": 2024,
-      "month": 9,
-      "day": 22,
-      "city": "Mexico City",
-      "state": "Mexico",
-      "location": "Mexico City, Mexico",
-      "venue": "Estadio GNP Seguros",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-27-2024",
-      "year": 2024,
-      "month": 9,
-      "day": 27,
-      "city": "Mexico City",
-      "state": "Mexico",
-      "location": "Mexico City, Mexico",
-      "venue": "Estadio GNP Seguros",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-29-2024",
-      "year": 2024,
-      "month": 9,
-      "day": 29,
-      "city": "Mexico City",
-      "state": "Mexico",
-      "location": "Mexico City, Mexico",
-      "venue": "Estadio GNP Seguros",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-13-2024",
-      "year": 2024,
-      "month": 12,
-      "day": 13,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "YouTube Theater",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-19-2025",
-      "year": 2025,
-      "month": 4,
-      "day": 19,
-      "city": "Syracuse",
-      "state": "NY",
-      "location": "Syracuse, NY",
-      "venue": "JMA Wireless Dome",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-24-2025",
-      "year": 2025,
-      "month": 4,
-      "day": 24,
-      "city": "Toronto",
-      "state": "Ontario",
-      "location": "Toronto, Ontario",
-      "venue": "Rogers Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-26-2025",
-      "year": 2025,
-      "month": 4,
-      "day": 26,
-      "city": "Toronto",
-      "state": "Ontario",
-      "location": "Toronto, Ontario",
-      "venue": "Rogers Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-1-2025",
-      "year": 2025,
-      "month": 5,
-      "day": 1,
-      "city": "Nashville",
-      "state": "TN",
-      "location": "Nashville, TN",
-      "venue": "Nissan Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-3-2025",
-      "year": 2025,
-      "month": 5,
-      "day": 3,
-      "city": "Nashville",
-      "state": "TN",
-      "location": "Nashville, TN",
-      "venue": "Nissan Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-7-2025",
-      "year": 2025,
-      "month": 5,
-      "day": 7,
-      "city": "Blacksburg",
-      "state": "VA",
-      "location": "Blacksburg, VA",
-      "venue": "Lane Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-9-2025",
-      "year": 2025,
-      "month": 5,
-      "day": 9,
-      "city": "Columbus",
-      "state": "OH",
-      "location": "Columbus, OH",
-      "venue": "Sonic Temple - Historic Crew Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-11-2025",
-      "year": 2025,
-      "month": 5,
-      "day": 11,
-      "city": "Columbus",
-      "state": "OH",
-      "location": "Columbus, OH",
-      "venue": "Sonic Temple - Historic Crew Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-23-2025",
-      "year": 2025,
-      "month": 5,
-      "day": 23,
-      "city": "Philadelphia",
-      "state": "PA",
-      "location": "Philadelphia, PA",
-      "venue": "Lincoln Financial Field",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-25-2025",
-      "year": 2025,
-      "month": 5,
-      "day": 25,
-      "city": "Philadelphia",
-      "state": "PA",
-      "location": "Philadelphia, PA",
-      "venue": "Lincoln Financial Field",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-28-2025",
-      "year": 2025,
-      "month": 5,
-      "day": 28,
-      "city": "Landover",
-      "state": "MD",
-      "location": "Landover, MD",
-      "venue": "Northwest Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-31-2025",
-      "year": 2025,
-      "month": 5,
-      "day": 31,
-      "city": "Charlotte",
-      "state": "NC",
-      "location": "Charlotte, NC",
-      "venue": "Bank of America Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-3-2025",
-      "year": 2025,
-      "month": 6,
-      "day": 3,
-      "city": "Atlanta",
-      "state": "GA",
-      "location": "Atlanta, GA",
-      "venue": "Mercedes-Benz Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-6-2025",
-      "year": 2025,
-      "month": 6,
-      "day": 6,
-      "city": "Tampa Bay",
-      "state": "FL",
-      "location": "Tampa Bay, FL",
-      "venue": "Raymond James Stadium",
-      "notes": "Live Metallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-8-2025",
-      "year": 2025,
-      "month": 6,
-      "day": 8,
-      "city": "Tampa Bay",
-      "state": "FL",
-      "location": "Tampa Bay, FL",
-      "venue": "Raymond James Stadium",
-      "notes": "Live Metallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-14-2025",
-      "year": 2025,
-      "month": 6,
-      "day": 14,
-      "city": "Houston",
-      "state": "TX",
-      "location": "Houston, TX",
-      "venue": "NRG Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-20-2025",
-      "year": 2025,
-      "month": 6,
-      "day": 20,
-      "city": "Santa Clara",
-      "state": "CA",
-      "location": "Santa Clara, CA",
-      "venue": "Levi?s Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-22-2025",
-      "year": 2025,
-      "month": 6,
-      "day": 22,
-      "city": "Santa Clara",
-      "state": "CA",
-      "location": "Santa Clara, CA",
-      "venue": "Levi?s Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-27-2025",
-      "year": 2025,
-      "month": 6,
-      "day": 27,
-      "city": "Denver",
-      "state": "CO",
-      "location": "Denver, CO",
-      "venue": "Empower Field at Mile High",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-29-2025",
-      "year": 2025,
-      "month": 6,
-      "day": 29,
-      "city": "Denver",
-      "state": "CO",
-      "location": "Denver, CO",
-      "venue": "Empower Field at Mile High",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-15-2025",
-      "year": 2025,
-      "month": 10,
-      "day": 15,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Dreamfest The Concert for Kids at Chase Center",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-1-2025",
-      "year": 2025,
-      "month": 11,
-      "day": 1,
-      "city": "Perth",
-      "state": "AUS",
-      "location": "Perth, AUS",
-      "venue": "Optus Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-5-2025",
-      "year": 2025,
-      "month": 11,
-      "day": 5,
-      "city": "Adelaide",
-      "state": "AUS",
-      "location": "Adelaide, AUS",
-      "venue": "Adelaide Oval",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-15-2025",
-      "year": 2025,
-      "month": 11,
-      "day": 15,
-      "city": "Sydney",
-      "state": "Australia",
-      "location": "Sydney, Australia",
-      "venue": "Accor Stadium",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-19-2025",
-      "year": 2025,
-      "month": 11,
-      "day": 19,
-      "city": "Auckland",
-      "state": "New Zealand",
-      "location": "Auckland, New Zealand",
-      "venue": "Eden Park",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-30-2025",
-      "year": 2025,
-      "month": 11,
-      "day": 30,
-      "city": "Doha",
-      "state": "Qatar",
-      "location": "Doha, Qatar",
-      "venue": "Qatar Grand Prix at Lusail International Circuit",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-3-2025",
-      "year": 2025,
-      "month": 12,
-      "day": 3,
-      "city": "Manama",
-      "state": "Bahrain",
-      "location": "Manama, Bahrain",
-      "venue": "Beyon Al Dana Amphitheatre",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-6-2025",
-      "year": 2025,
-      "month": 12,
-      "day": 6,
-      "city": "Abu Dhabi",
-      "state": "United Arab Emirates",
-      "location": "Abu Dhabi, United Arab Emirates",
-      "venue": "Abu Dhabi F1 Grand Prix Yas Island",
-      "notes": "LiveMetallica",
-      "version": "SBD",
-      "format": "FLAC HD"
     }
   ]
 };

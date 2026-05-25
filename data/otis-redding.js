@@ -43,15 +43,6 @@ const ARTIST_DATA = {
       "label": "X-X-1967 / A Soupcan of Soul",
       "version": "Silver CD",
       "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL RELEASES]"
-    },
-    {
-      "type": "label",
-      "label": "Otis Redding - (Sittin' On) the Dock of the Bay (HDTracks) (24/192)",
-      "format": "FLAC HD"
     }
   ]
 };

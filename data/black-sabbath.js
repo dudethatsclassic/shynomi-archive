@@ -33,7 +33,7 @@ const ARTIST_DATA = {
       "venue": "Rugman's Youth Club - Whitesands",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Grundig Dynamic Mic \u00b7 Alex Wilson"
+      "notes": "Grundig Dynamic Mic · Alex Wilson"
     },
     {
       "year": 1970,
@@ -85,7 +85,7 @@ const ARTIST_DATA = {
       "venue": "International Ampitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "stratcat58 \u00b7 Unknown"
+      "notes": "stratcat58 · Unknown"
     },
     {
       "year": 1975,
@@ -111,7 +111,7 @@ const ARTIST_DATA = {
       "venue": "Selland Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 R.c. \u00b7 Krw_co Transfer"
+      "notes": "Unknown · R.c. · Krw_co Transfer"
     },
     {
       "year": 1977,
@@ -137,7 +137,7 @@ const ARTIST_DATA = {
       "venue": "Selland Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 R.c. \u00b7 Krw_co Transfer"
+      "notes": "Unknown · R.c. · Krw_co Transfer"
     },
     {
       "year": 1983,
@@ -150,7 +150,7 @@ const ARTIST_DATA = {
       "venue": "Olympen",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Peter"
+      "notes": "M · Peter"
     },
     {
       "year": 1983,
@@ -163,7 +163,7 @@ const ARTIST_DATA = {
       "venue": "Olympen",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony Walkman \u00b7 Tung Pung"
+      "notes": "Sony Walkman · Tung Pung"
     },
     {
       "year": 1984,
@@ -189,7 +189,7 @@ const ARTIST_DATA = {
       "venue": "Cincinnati Gardens",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D3 \u00b7 Govner"
+      "notes": "Sony D3 · Govner"
     },
     {
       "year": 2001,
@@ -215,7 +215,7 @@ const ARTIST_DATA = {
       "venue": "Forum K?benhavn",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H2 \u00b7 Davemurray"
+      "notes": "Zoom H2 · Davemurray"
     },
     {
       "year": 2025,
@@ -242,6 +242,18 @@ const ARTIST_DATA = {
       "version": "WEB",
       "format": "MP4",
       "notes": ""
+    }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "Black Sabbath - Dehumanizer Rehearsals 1991-1992",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Black Sabbath - Earth Studio Sessions",
+      "format": "FLAC"
     }
   ]
 };

@@ -100,7 +100,7 @@ const ARTIST_DATA = {
       "venue": "UCLA Quad - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 ijwthstd"
+      "notes": "M · ijwthstd"
     },
     {
       "year": 1994,
@@ -204,7 +204,7 @@ const ARTIST_DATA = {
       "venue": "Miami Arena - VHS",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "3 \u00b7 Unknown"
+      "notes": "3 · Unknown"
     },
     {
       "year": 1997,
@@ -282,7 +282,7 @@ const ARTIST_DATA = {
       "venue": "Atlanta Motor Speedway - FM",
       "version": "FM",
       "format": "FLAC",
-      "notes": "M \u00b7 WW1 Broadcast"
+      "notes": "M · WW1 Broadcast"
     },
     {
       "year": 1999,
@@ -308,7 +308,7 @@ const ARTIST_DATA = {
       "venue": "Braden Auditorium - Illinois State University",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Unknown"
+      "notes": "CSB · Unknown"
     },
     {
       "year": 2000,
@@ -321,7 +321,7 @@ const ARTIST_DATA = {
       "venue": "Reno Hilton Outdoor Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "MS-907 \u00b7 kingrue transfer"
+      "notes": "MS-907 · kingrue transfer"
     },
     {
       "year": 2000,
@@ -334,7 +334,7 @@ const ARTIST_DATA = {
       "venue": "Mars Music Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SS-DSM-6SL \u00b7 chris gratz"
+      "notes": "SS-DSM-6SL · chris gratz"
     },
     {
       "year": 2001,
@@ -347,7 +347,7 @@ const ARTIST_DATA = {
       "venue": "The Palace of Auburn Hills - MD(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MZ-R700 \u00b7 mitaper78"
+      "notes": "Sony MZ-R700 · mitaper78"
     },
     {
       "year": 2001,
@@ -373,7 +373,7 @@ const ARTIST_DATA = {
       "venue": "Massey Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSC \u00b7 burnboy"
+      "notes": "CSC · burnboy"
     },
     {
       "year": 2013,
@@ -399,7 +399,7 @@ const ARTIST_DATA = {
       "venue": "Soiled Dove Underground (Ed Kowalczyk)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060 \u00b7 brianblank"
+      "notes": "DPA 4060 · brianblank"
     },
     {
       "year": 2018,
@@ -412,7 +412,7 @@ const ARTIST_DATA = {
       "venue": "Hard Rock Hotel & Casino",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT943 \u00b7 joe burns"
+      "notes": "AT943 · joe burns"
     },
     {
       "year": 2019,
@@ -425,7 +425,7 @@ const ARTIST_DATA = {
       "venue": "Hard Rock Hotel & Casino",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK41 \u00b7 joe burns"
+      "notes": "Schoeps MK41 · joe burns"
     },
     {
       "year": 2019,
@@ -438,7 +438,7 @@ const ARTIST_DATA = {
       "venue": "Timber Rattler Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Church Audio CA0 \u00b7 flysquirrel"
+      "notes": "Church Audio CA0 · flysquirrel"
     },
     {
       "year": 2023,
@@ -451,7 +451,7 @@ const ARTIST_DATA = {
       "venue": "The Parker Playhouse",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DSM-6SL \u00b7 Unknown"
+      "notes": "DSM-6SL · Unknown"
     },
     {
       "year": 2023,
@@ -464,7 +464,7 @@ const ARTIST_DATA = {
       "venue": "SteelStacks",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CA-14s \u00b7 live2cd"
+      "notes": "CA-14s · live2cd"
     },
     {
       "year": 2023,
@@ -477,7 +477,7 @@ const ARTIST_DATA = {
       "venue": "TivoliVredenbufg Ronda",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Countryman B3 \u00b7 one8ung"
+      "notes": "Countryman B3 · one8ung"
     },
     {
       "year": 2023,
@@ -490,7 +490,7 @@ const ARTIST_DATA = {
       "venue": "Silver Creek Event Center at Four Winds Casino",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom iQ7 \u00b7 josh lichtenfeld"
+      "notes": "Zoom iQ7 · josh lichtenfeld"
     },
     {
       "year": 2023,
@@ -503,7 +503,7 @@ const ARTIST_DATA = {
       "venue": "Ovation Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK41s \u00b7 joe burns"
+      "notes": "Schoeps MK41s · joe burns"
     },
     {
       "year": 2024,
@@ -516,7 +516,7 @@ const ARTIST_DATA = {
       "venue": "Hart Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H1 \u00b7 swansong"
+      "notes": "Zoom H1 · swansong"
     },
     {
       "year": 2024,
@@ -529,7 +529,7 @@ const ARTIST_DATA = {
       "venue": "State Theatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK41 \u00b7 beatkilla"
+      "notes": "Schoeps MK41 · beatkilla"
     },
     {
       "year": 2024,
@@ -542,7 +542,7 @@ const ARTIST_DATA = {
       "venue": "Blossom Music Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 live2cd"
+      "notes": "SP-CMC-8 · live2cd"
     },
     {
       "year": 2025,
@@ -555,7 +555,7 @@ const ARTIST_DATA = {
       "venue": "Toyota Amphitheatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "notes": "DPA 4081 · faninor"
     },
     {
       "year": 2025,
@@ -568,7 +568,7 @@ const ARTIST_DATA = {
       "venue": "Suburban Park Stage - NYS Fair",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 beatkilla"
+      "notes": "Schoeps MK4 · beatkilla"
     }
   ],
   "misc": [
@@ -578,17 +578,8 @@ const ARTIST_DATA = {
       "format": "FLAC"
     },
     {
-      "type": "show",
-      "dateStr": "XX-XX-1993",
-      "year": 1993,
-      "month": null,
-      "day": null,
-      "city": "Columbia",
-      "state": "PA",
-      "location": "Columbia, PA",
-      "venue": "Throwing Copper Churchbox Demo",
-      "notes": "",
-      "version": "",
+      "type": "label",
+      "label": "XX-XX-1993 / Columbia, PA / Throwing Copper Churchbox Demo",
       "format": "FLAC"
     },
     {

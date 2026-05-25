@@ -222,7 +222,7 @@ const ARTIST_DATA = {
       "venue": "Savvis Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Core Sound Stealthy Cardiods \u00b7 shane e. calhoon"
+      "notes": "Core Sound Stealthy Cardiods · shane e. calhoon"
     },
     {
       "year": 2003,
@@ -235,7 +235,7 @@ const ARTIST_DATA = {
       "venue": "Gund Arena",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-7 \u00b7 saltshaker"
+      "notes": "SP-CMC-7 · saltshaker"
     },
     {
       "year": 2003,
@@ -274,7 +274,7 @@ const ARTIST_DATA = {
       "venue": "Brisbane Entertainment Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony Stereo mic \u00b7 Unknown"
+      "notes": "Sony Stereo mic · Unknown"
     },
     {
       "year": 2003,
@@ -365,7 +365,7 @@ const ARTIST_DATA = {
       "venue": "Performing Arts Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT831s \u00b7 binko"
+      "notes": "AT831s · binko"
     },
     {
       "year": 2023,
@@ -378,7 +378,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Bowl",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 ijwthstd"
+      "notes": "SP-CMC-4U · ijwthstd"
     },
     {
       "year": 2023,
@@ -404,7 +404,7 @@ const ARTIST_DATA = {
       "venue": "Hammond Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Roland Edirol R09 \u00b7 Unknown"
+      "notes": "Roland Edirol R09 · Unknown"
     },
     {
       "year": 2023,
@@ -417,7 +417,7 @@ const ARTIST_DATA = {
       "venue": "Performing Arts Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT mics \u00b7 binko"
+      "notes": "AT mics · binko"
     }
   ],
   "misc": [
@@ -429,28 +429,6 @@ const ARTIST_DATA = {
       "type": "release",
       "label": "Matchbox Twenty - Hamburg, Germany - Grosse Freheit {DP6} (2000)",
       "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[SINGLES]"
-    },
-    {
-      "type": "release",
-      "label": "1998 - Matchbox Twenty - Back 2 Good (CDS) {7567955392}",
-      "version": "Official",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "2001 - Matchbox Twenty - Last Beautiful Girl {7567-85167-2AT0120CD} (CDS)",
-      "version": "Official",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "2007 - Matchbox Twenty - All Your Reasons {7567899530} (CDS)",
-      "version": "Official",
       "format": "FLAC"
     }
   ]

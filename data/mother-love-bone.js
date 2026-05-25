@@ -75,7 +75,7 @@ const ARTIST_DATA = {
       "venue": "JC Dobbs - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "notes": "M · Unknown"
     },
     {
       "year": 1989,
@@ -188,15 +188,6 @@ const ARTIST_DATA = {
       "label": "1988 Shine On Demos",
       "version": "Silver CD",
       "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL RELEASES]"
-    },
-    {
-      "type": "label",
-      "label": "Mother Love Bone - On Earth As It Is - The Complete Works (2016) (24/96)",
-      "format": "FLAC HD"
     }
   ]
 };

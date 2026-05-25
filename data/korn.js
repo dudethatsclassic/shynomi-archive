@@ -40,7 +40,7 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Neekrive"
+      "notes": "Unknown · Neekrive"
     },
     {
       "year": 1995,
@@ -53,7 +53,7 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Neekrive"
+      "notes": "Unknown · Neekrive"
     },
     {
       "year": 1996,
@@ -66,7 +66,7 @@ const ARTIST_DATA = {
       "venue": "Boome County Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ss-dsm6 \u00b7 Dssman"
+      "notes": "Ss-dsm6 · Dssman"
     },
     {
       "year": 1996,
@@ -92,7 +92,7 @@ const ARTIST_DATA = {
       "venue": "Tucson Convention Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MZR-50 \u00b7 CSB \u00b7 Boen"
+      "notes": "Sony MZR-50 · CSB · Boen"
     },
     {
       "year": 1999,
@@ -105,7 +105,7 @@ const ARTIST_DATA = {
       "venue": "Arrowhead Pond",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Mr. Smashing Pumpkins Of La Proof"
+      "notes": "Unknown · Mr. Smashing Pumpkins Of La Proof"
     },
     {
       "year": 2000,
@@ -118,7 +118,7 @@ const ARTIST_DATA = {
       "venue": "Bercy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM 717 \u00b7 Unknown"
+      "notes": "ECM 717 · Unknown"
     },
     {
       "year": 2000,
@@ -131,7 +131,7 @@ const ARTIST_DATA = {
       "venue": "GM Place",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Dsm-s \u00b7 Unknown"
+      "notes": "Dsm-s · Unknown"
     },
     {
       "year": 2002,
@@ -170,7 +170,7 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheater - KROQ Almost Acoustic Christmas",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MZ-R700 \u00b7 The V.u."
+      "notes": "Sony MZ-R700 · The V.u."
     },
     {
       "year": 2004,
@@ -183,7 +183,7 @@ const ARTIST_DATA = {
       "venue": "Orange Stage - Roskilde Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSC \u00b7 Jtl"
+      "notes": "CSC · Jtl"
     },
     {
       "year": 2006,
@@ -209,7 +209,7 @@ const ARTIST_DATA = {
       "venue": "Idroscalo",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Pigsinspace"
+      "notes": "DPA 4061s · Pigsinspace"
     },
     {
       "year": 2007,
@@ -222,7 +222,7 @@ const ARTIST_DATA = {
       "venue": "Bryce Jordan Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sp-bmc-2 \u00b7 Kornfan02"
+      "notes": "Sp-bmc-2 · Kornfan02"
     },
     {
       "year": 2008,
@@ -235,7 +235,7 @@ const ARTIST_DATA = {
       "venue": "Esta?dio Palestra Ita?lia",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Giant Squid Labs \u00b7 Dkisback"
+      "notes": "Giant Squid Labs · Dkisback"
     },
     {
       "year": 2009,
@@ -248,7 +248,7 @@ const ARTIST_DATA = {
       "venue": "Greenfield Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 Unknown"
+      "notes": "SP-CMC-4U · Unknown"
     },
     {
       "year": 2010,
@@ -573,7 +573,7 @@ const ARTIST_DATA = {
       "venue": "Rockville Festival",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sony ECM-DS70P \u00b7 Jitf"
+      "notes": "Sony ECM-DS70P · Jitf"
     },
     {
       "year": 2015,
@@ -586,7 +586,7 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11 \u00b7 Sea_of_cheese"
+      "notes": "Ca-11 · Sea_of_cheese"
     },
     {
       "year": 2017,
@@ -599,7 +599,7 @@ const ARTIST_DATA = {
       "venue": "Saarlandhalle",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Tascam Dr-07 \u00b7 Bouba3d"
+      "notes": "Tascam Dr-07 · Bouba3d"
     },
     {
       "year": 2021,
@@ -612,7 +612,7 @@ const ARTIST_DATA = {
       "venue": "Oakland Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 Unknown"
+      "notes": "DPA 4061 · Unknown"
     },
     {
       "year": 2022,
@@ -625,7 +625,7 @@ const ARTIST_DATA = {
       "venue": "Banc of California",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Shure Mv88 \u00b7 The V.u."
+      "notes": "Shure Mv88 · The V.u."
     },
     {
       "year": 2022,
@@ -638,7 +638,7 @@ const ARTIST_DATA = {
       "venue": "Graspop Metal Meeting",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Unknown"
+      "notes": "SP-CMC-8 · Unknown"
     },
     {
       "year": 2022,
@@ -651,7 +651,7 @@ const ARTIST_DATA = {
       "venue": "Scandinavian Congress Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Iphone 13 \u00b7 Unknown"
+      "notes": "Iphone 13 · Unknown"
     },
     {
       "year": 2022,
@@ -664,7 +664,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Casino Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony PCM-A10 \u00b7 Shane E. Calhoon"
+      "notes": "Sony PCM-A10 · Shane E. Calhoon"
     },
     {
       "year": 2022,
@@ -677,7 +677,7 @@ const ARTIST_DATA = {
       "venue": "Blossom Music Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853U \u00b7 Live2cd"
+      "notes": "AT853U · Live2cd"
     },
     {
       "year": 2022,
@@ -690,7 +690,7 @@ const ARTIST_DATA = {
       "venue": "Xfinity Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT933 \u00b7 Tripkore"
+      "notes": "AT933 · Tripkore"
     },
     {
       "year": 2023,
@@ -703,7 +703,7 @@ const ARTIST_DATA = {
       "venue": "Discovery Park - Aftershock Festival",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK4s \u00b7 Tj"
+      "notes": "Schoeps MK4s · Tj"
     },
     {
       "year": 2025,
@@ -716,7 +716,7 @@ const ARTIST_DATA = {
       "venue": "Sonic Temple Festival - Temple Stage",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 Jesse Mc"
+      "notes": "Schoeps MK4 · Jesse Mc"
     },
     {
       "year": 2025,
@@ -735,8 +735,7 @@ const ARTIST_DATA = {
   "misc": [
     {
       "type": "label",
-      "label": "1993-XX-XX / Neidermeyer's Mind (Demo Tape)",
-      "format": "FLAC"
+      "label": "1993-XX-XX / Neidermeyer's Mind (Demo Tape)"
     },
     {
       "type": "label",

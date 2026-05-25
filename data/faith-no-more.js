@@ -192,7 +192,7 @@ const ARTIST_DATA = {
       "venue": "Trocadero",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sennheiser 441 \u00b7 Unknown"
+      "notes": "Sennheiser 441 · Unknown"
     },
     {
       "year": 1990,
@@ -1076,7 +1076,7 @@ const ARTIST_DATA = {
       "venue": "Pferderennbahn / ANA(1)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony UX-Pro \u00b7 T. Bruder"
+      "notes": "Sony UX-Pro · T. Bruder"
     },
     {
       "year": 1993,
@@ -1258,7 +1258,7 @@ const ARTIST_DATA = {
       "venue": "Le Zenith",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1G \u00b7 mats.l"
+      "notes": "1G · mats.l"
     },
     {
       "year": 1995,
@@ -1323,7 +1323,7 @@ const ARTIST_DATA = {
       "venue": "Radio Transamerica",
       "version": "preFM",
       "format": "FLAC",
-      "notes": "Includes Soundcheck \u00b7 Bungleweird"
+      "notes": "Includes Soundcheck · Bungleweird"
     },
     {
       "year": 1997,
@@ -2038,7 +2038,7 @@ const ARTIST_DATA = {
       "venue": "Hyde Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT933 \u00b7 Humbug"
+      "notes": "AT933 · Humbug"
     },
     {
       "year": 2015,
@@ -2051,7 +2051,7 @@ const ARTIST_DATA = {
       "venue": "Studio Coast",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Unknown \u00b7 Brmanuk"
+      "notes": "Unknown · Brmanuk"
     },
     {
       "year": 2015,
@@ -2103,7 +2103,7 @@ const ARTIST_DATA = {
       "venue": "The Wiltern",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT943 \u00b7 Unknown"
+      "notes": "AT943 · Unknown"
     },
     {
       "year": 2015,
@@ -2116,7 +2116,7 @@ const ARTIST_DATA = {
       "venue": "The Wiltern *Where Is The Gimp?",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT933 \u00b7 Mixter_"
+      "notes": "AT933 · Mixter_"
     },
     {
       "year": 2015,
@@ -2142,7 +2142,7 @@ const ARTIST_DATA = {
       "venue": "The Wiltern",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Dr-2d \u00b7 Unknown"
+      "notes": "Dr-2d · Unknown"
     },
     {
       "year": 2015,
@@ -2421,185 +2421,6 @@ const ARTIST_DATA = {
       "type": "release",
       "label": "Faith No More - Bizarre Festival 97 {04970} (1997)",
       "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[SINGLES]"
-    },
-    {
-      "type": "label",
-      "label": "1983 - Faith No Man - Song of Liberty / Quiet in Heaven",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1987 - Faith No More - Anne's Song [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1989 - Faith No More - Epic (What Is It) [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1989 - Faith No More - Epic [Japan] [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1989 - Faith No More - Epic [UK] [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1989 - Faith No More - Epic, Falling To Pieces [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1989 - Faith No More - Falling To Pieces [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1989 - Faith No More - From Out Of Nowhere [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1990 - Faith No More - Woodpecker From Mars [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1992 - Faith No More - A Small Victory (Remixed By Youth) [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1992 - Faith No More - A Small Victory (Remixed By Youth) DIGI [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1992 - Faith No More - A Small Victory [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1992 - Faith No More - Everything's Ruined CD 1 [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1992 - Faith No More - Everything's Ruined CD 2 [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1992 - Faith No More - Midlife Crisis [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1993 - Faith No More & Boo Yaa Tribe - Another Body Murdered [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1995 - Faith No More - Digging The Grave [France] [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1995 - Faith No More - Digging The Grave [Germany] [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1995 - Faith No More - Digging The Grave [USA] [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1995 - Faith No More - Evidence (Blue) [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1995 - Faith No More - Evidence [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1995 - Faith No More - Ricochet (Orange) [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1995 - Faith No More - Ricochet [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1997 - Faith No More - Ashes To Ashes (Black On Gold) [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1997 - Faith No More - Ashes To Ashes (Gold on Maroon) [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1997 - Faith No More - Ashes To Ashes [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1997 - Faith No More - Ashes To Ashes [UK] [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1997 - Faith No More - Ashes To Ashes 2 [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1997 - Faith No More - Last Cup Of Sorrow [Aqua] [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1997 - Faith No More - Last Cup Of Sorrow [Orange] [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1998 - Faith No More - We Care A Lot _ I Started A Joke [Ger] [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1998 - Faith No More - We Care A Lot - I Started A Joke [Germany] [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1998 - Faith No More - We Care A Lot - I Started A Joke [UK] [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2014 - Faith No More - Motherfucker [Single]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2015 - Faith No More - Superhero [Single]",
       "format": "FLAC"
     }
   ]

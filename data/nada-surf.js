@@ -93,7 +93,7 @@ const ARTIST_DATA = {
       "venue": "London Rough Trade East",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Roland R-09 \u00b7 Unknown"
+      "notes": "Roland R-09 · Unknown"
     },
     {
       "year": 2012,
@@ -132,7 +132,7 @@ const ARTIST_DATA = {
       "venue": "Melkweg",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4N \u00b7 tarquin"
+      "notes": "Zoom H4N · tarquin"
     },
     {
       "year": 2018,
@@ -145,7 +145,7 @@ const ARTIST_DATA = {
       "venue": "Le Cabaret Sauvage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 inconnu"
+      "notes": "SP-CMC-8 · inconnu"
     },
     {
       "year": 2018,
@@ -197,7 +197,7 @@ const ARTIST_DATA = {
       "venue": "Manchester Gorilla",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-CS10 \u00b7 swintonboy"
+      "notes": "Sony ECM-CS10 · swintonboy"
     },
     {
       "year": 2024,
@@ -210,7 +210,7 @@ const ARTIST_DATA = {
       "venue": "London Islington Assembly Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Tascam DR-05X \u00b7 swintonboy"
+      "notes": "Tascam DR-05X · swintonboy"
     },
     {
       "year": 2024,
@@ -223,7 +223,7 @@ const ARTIST_DATA = {
       "venue": "Metropol",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Roland CS-10EM Omnis \u00b7 Unknown"
+      "notes": "Roland CS-10EM Omnis · Unknown"
     },
     {
       "year": 2025,
@@ -236,7 +236,7 @@ const ARTIST_DATA = {
       "venue": "A&R Music Bar",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 live2cd"
+      "notes": "SP-CMC-8 · live2cd"
     }
   ],
   "misc": [
@@ -253,45 +253,6 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "Nada Surf - Peaceful Ghosts (Live) (2016)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[SINGLES]"
-    },
-    {
-      "type": "label",
-      "label": "Nada Surf - Popular (CDS) {7559-64259-9} (1996)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Nada Surf - Deeper Well (CDS) {7559-64187-9} (1997)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Nada Surf - Black & White - Spooky {PRO 1012} (1998) {Promo EP}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Nada Surf - Inside of Love {HVN 133CD} (2002)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Nada Surf - Inside Of Love (CDS) {LIBSP5075.2} (2002)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Nada Surf - L'Aventurier {72435473842} (2003)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Nada Surf - Bank Robber Music Compilation Volume 16.5 (2008)",
       "format": "FLAC"
     }
   ]

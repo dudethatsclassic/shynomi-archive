@@ -148,7 +148,7 @@ const ARTIST_DATA = {
       "venue": "Rat",
       "version": "AUD #1",
       "format": "FLAC",
-      "notes": "Radioshack \u00b7 Peter C."
+      "notes": "Radioshack · Peter C."
     },
     {
       "year": 1991,
@@ -200,7 +200,7 @@ const ARTIST_DATA = {
       "venue": "Tower Records",
       "version": "AUD #1",
       "format": "FLAC",
-      "notes": "Realistic \u00b7 Peter C."
+      "notes": "Realistic · Peter C."
     },
     {
       "year": 1991,
@@ -291,7 +291,7 @@ const ARTIST_DATA = {
       "venue": "The Rat",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Radioshack Mics \u00b7 Peter C."
+      "notes": "Radioshack Mics · Peter C."
     },
     {
       "year": 1991,
@@ -512,7 +512,7 @@ const ARTIST_DATA = {
       "venue": "The Palace",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Ijwthstd"
+      "notes": "Unknown · Ijwthstd"
     },
     {
       "year": 1993,
@@ -551,7 +551,7 @@ const ARTIST_DATA = {
       "venue": "FDR Park - Lollapalooza",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Courtney Love \u00b7 Aiwa"
+      "notes": "Courtney Love · Aiwa"
     },
     {
       "year": 1994,
@@ -564,7 +564,7 @@ const ARTIST_DATA = {
       "venue": "Downing Stadium",
       "version": "AUD #1",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Lollapalooza \u00b7 Inc"
+      "notes": "CSB · Lollapalooza · Inc"
     },
     {
       "year": 1994,
@@ -811,7 +811,7 @@ const ARTIST_DATA = {
       "venue": "Huntridge Theater",
       "version": "AUD #1",
       "format": "FLAC",
-      "notes": "Sony WM-D6 \u00b7 Scott Tillotson"
+      "notes": "Sony WM-D6 · Scott Tillotson"
     },
     {
       "year": 1994,
@@ -1019,7 +1019,7 @@ const ARTIST_DATA = {
       "venue": "Le Transbordeur",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sony DAT \u00b7 Unknown"
+      "notes": "Sony DAT · Unknown"
     },
     {
       "year": 1995,
@@ -1175,7 +1175,7 @@ const ARTIST_DATA = {
       "venue": "Hardee's Walnut Creek Amphitheatre - Lollapalooza",
       "version": "AUD #1",
       "format": "FLAC",
-      "notes": "unk Sony Walkman \u00b7 Denny Henson"
+      "notes": "unk Sony Walkman · Denny Henson"
     },
     {
       "year": 1995,
@@ -1201,7 +1201,7 @@ const ARTIST_DATA = {
       "venue": "Cal Expo Amphitheatre - Lollapalooza",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Neekrive"
+      "notes": "Unknown · Neekrive"
     },
     {
       "year": 1995,
@@ -1526,7 +1526,7 @@ const ARTIST_DATA = {
       "venue": "Hultsfreds Festival",
       "version": "AMT",
       "format": "MKV",
-      "notes": "Panasonic Nv Hs950 \u00b7 Travisbickle1963 Transfer"
+      "notes": "Panasonic Nv Hs950 · Travisbickle1963 Transfer"
     },
     {
       "year": 1999,
@@ -1539,7 +1539,7 @@ const ARTIST_DATA = {
       "venue": "Ze?nith",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM \u00b7 Evie_np"
+      "notes": "Sony ECM · Evie_np"
     },
     {
       "year": 1999,
@@ -1552,7 +1552,7 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM \u00b7 Evie_np"
+      "notes": "Sony ECM · Evie_np"
     },
     {
       "year": 1999,
@@ -1617,7 +1617,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Courtney Love"
+      "notes": "Schoeps MK4 · Courtney Love"
     },
     {
       "year": 2007,
@@ -1695,7 +1695,7 @@ const ARTIST_DATA = {
       "venue": "Terminal 5",
       "version": "AMT",
       "format": "DVD",
-      "notes": "Unknown \u00b7 Mark Suffolk"
+      "notes": "Unknown · Mark Suffolk"
     },
     {
       "year": 2010,
@@ -1708,7 +1708,7 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "version": "AMT",
       "format": "DVD",
-      "notes": "Unknown \u00b7 Mark Suffolk"
+      "notes": "Unknown · Mark Suffolk"
     },
     {
       "year": 2010,
@@ -1734,7 +1734,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM-719 \u00b7 Unknown"
+      "notes": "ECM-719 · Unknown"
     },
     {
       "year": 2010,
@@ -1747,7 +1747,7 @@ const ARTIST_DATA = {
       "venue": "Welmont Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11 \u00b7 Derutaerc"
+      "notes": "Ca-11 · Derutaerc"
     },
     {
       "year": 2010,
@@ -1760,7 +1760,7 @@ const ARTIST_DATA = {
       "venue": "Ottawa Bluesfest",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoomh2 \u00b7 Bootlegottawa"
+      "notes": "Zoomh2 · Bootlegottawa"
     },
     {
       "year": 2010,
@@ -1773,7 +1773,7 @@ const ARTIST_DATA = {
       "venue": "Vic Theatre",
       "version": "AUD #1",
       "format": "FLAC 24",
-      "notes": "Sony PCM M-10 \u00b7 Auger_d"
+      "notes": "Sony PCM M-10 · Auger_d"
     },
     {
       "year": 2010,
@@ -1799,7 +1799,7 @@ const ARTIST_DATA = {
       "venue": "Memorial Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ss-dsm-6p \u00b7 Steve Hagar"
+      "notes": "Ss-dsm-6p · Steve Hagar"
     },
     {
       "year": 2010,
@@ -1888,164 +1888,12 @@ const ARTIST_DATA = {
       "format": "FLAC"
     },
     {
-      "type": "show",
-      "dateStr": "6-XX-2010",
-      "year": 2010,
-      "month": 6,
-      "day": null,
-      "city": "Courtney Love - Behind the Music",
-      "state": "",
-      "location": "Courtney Love - Behind the Music",
-      "venue": "",
-      "notes": "",
-      "version": "TV",
-      "format": "DVD"
+      "type": "label",
+      "label": "6-XX-2010 / Courtney Love - Behind the Music"
     },
     {
       "type": "label",
       "label": "Hole - Argentina Demos Tape",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[SILVERS]"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Live Amsterdam '92 (1993)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Plugged & Unplugged (1995)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Rumours, Lies and Media Rape (1993-1995)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Sugar Coma",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Bring Me The Head Of Lynn Hirschberg (KROQ3)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Courtney Act (PIL07)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Dissed (KTS 013)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Good Sex (HR6042-7)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Kiss Away The Darkest Day (KTS 347)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Pretty Please (HAWK006)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Riot Girls (OCTO 184)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Rock's Bitch (HR6045-0)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Something Must Break (Snatch 01)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - The Princess Of Love (BZCD 066)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Ugly Demented World (OCTO 069)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Unglued (CH 021)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Unplugged & Reading (SY10170)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Unplugged & Unloved (SPOT 002)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Vengeance Is Mine (KTS 489)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Virgin Megastar (HOLY023) (RELCD05)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Doll Parts {VR 50033} (1995)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - Reading 1995 {3D-HO-035} (1995)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hole - The Girl With The Most Cake [CRC mismatch] {Print 004} (1995)",
-      "version": "Silver CD",
       "format": "FLAC"
     }
   ]

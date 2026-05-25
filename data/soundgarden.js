@@ -490,7 +490,7 @@ const ARTIST_DATA = {
       "venue": "The Back Room",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa \u00b7 Dave Prewitt"
+      "notes": "Aiwa · Dave Prewitt"
     },
     {
       "year": 1990,
@@ -581,7 +581,7 @@ const ARTIST_DATA = {
       "venue": "Noorderlicht",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Vivanco Em 160 \u00b7 Desiderus Transfer"
+      "notes": "Vivanco Em 160 · Desiderus Transfer"
     },
     {
       "year": 1990,
@@ -620,7 +620,7 @@ const ARTIST_DATA = {
       "venue": "Markthalle",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony WM-D6 \u00b7 Dimitroy 2022 Transfer"
+      "notes": "Sony WM-D6 · Dimitroy 2022 Transfer"
     },
     {
       "year": 1990,
@@ -828,7 +828,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Palladium",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Rip Magazine 5th Anniversary Party \u00b7 2 Fm Source Merge"
+      "notes": "Rip Magazine 5th Anniversary Party · 2 Fm Source Merge"
     },
     {
       "year": 1991,
@@ -1088,7 +1088,7 @@ const ARTIST_DATA = {
       "venue": "The Domino",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Christer Johansson \u00b7 Heywood Remaster"
+      "notes": "Christer Johansson · Heywood Remaster"
     },
     {
       "year": 1992,
@@ -1205,7 +1205,7 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "version": "MTX",
       "format": "FLAC",
-      "notes": "2 source matrix \u00b7 Exene"
+      "notes": "2 source matrix · Exene"
     },
     {
       "year": 1992,
@@ -1387,7 +1387,7 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM102 \u00b7 Jim Hennessy"
+      "notes": "ECM102 · Jim Hennessy"
     },
     {
       "year": 1992,
@@ -1426,7 +1426,7 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley Music Theater - Lollapalooza",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Rob Landis Transfer"
+      "notes": "Unknown · Rob Landis Transfer"
     },
     {
       "year": 1992,
@@ -1439,7 +1439,7 @@ const ARTIST_DATA = {
       "venue": "Desert Sky Pavilion *Lollapalooza 92",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 Burn1959"
+      "notes": "Lollapalooza · Burn1959"
     },
     {
       "year": 1992,
@@ -1452,7 +1452,7 @@ const ARTIST_DATA = {
       "venue": "Desert Sky Pavillion *Lollapalooza '92",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Kts 115 \u00b7 Exene 2022 Remaster"
+      "notes": "Kts 115 · Exene 2022 Remaster"
     },
     {
       "year": 1992,
@@ -1478,7 +1478,7 @@ const ARTIST_DATA = {
       "venue": "Desert Sky Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 Unknown"
+      "notes": "Lollapalooza · Unknown"
     },
     {
       "year": 1992,
@@ -1491,7 +1491,7 @@ const ARTIST_DATA = {
       "venue": "Desert Sky Pavilion",
       "version": "AUD #1",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 Unknown"
+      "notes": "Lollapalooza · Unknown"
     },
     {
       "year": 1992,
@@ -1738,7 +1738,7 @@ const ARTIST_DATA = {
       "venue": "Musikhalle",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sony TS-155 \u00b7 Travisbickle1963 Transfer"
+      "notes": "Sony TS-155 · Travisbickle1963 Transfer"
     },
     {
       "year": 1994,
@@ -1777,7 +1777,7 @@ const ARTIST_DATA = {
       "venue": "Elysee Montmartre",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "2 Source Matrix \u00b7 Exene"
+      "notes": "2 Source Matrix · Exene"
     },
     {
       "year": 1994,
@@ -1907,7 +1907,7 @@ const ARTIST_DATA = {
       "venue": "New York Armory - AUD(2)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "mats \u00b7 edit update"
+      "notes": "mats · edit update"
     },
     {
       "year": 1994,
@@ -2232,7 +2232,7 @@ const ARTIST_DATA = {
       "venue": "Downing Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 Master"
+      "notes": "Lollapalooza · Master"
     },
     {
       "year": 1996,
@@ -2258,7 +2258,7 @@ const ARTIST_DATA = {
       "venue": "NYS Fairgrounds",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps CMC6 \u00b7 Terry Sullivan"
+      "notes": "Schoeps CMC6 · Terry Sullivan"
     },
     {
       "year": 1996,
@@ -2336,7 +2336,7 @@ const ARTIST_DATA = {
       "venue": "Spartan Stadium - Lollapalooza",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Neekrive"
+      "notes": "Unknown · Neekrive"
     },
     {
       "year": 1996,
@@ -2453,7 +2453,7 @@ const ARTIST_DATA = {
       "venue": "Pabellon Val d'Ebron",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ss-dsm6p \u00b7 Ballsdeep"
+      "notes": "Ss-dsm6p · Ballsdeep"
     },
     {
       "year": 1996,
@@ -2466,7 +2466,7 @@ const ARTIST_DATA = {
       "venue": "Pabellon Val d'Ebron",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Fortylicks"
+      "notes": "Unknown · Fortylicks"
     },
     {
       "year": 1996,
@@ -2544,7 +2544,7 @@ const ARTIST_DATA = {
       "venue": "Musikhalle",
       "version": "AUD (32k)",
       "format": "FLAC",
-      "notes": "AT831b \u00b7 Tapeworm48 Transfer"
+      "notes": "AT831b · Tapeworm48 Transfer"
     },
     {
       "year": 1996,
@@ -2557,7 +2557,7 @@ const ARTIST_DATA = {
       "venue": "Vorst National",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony Walkman \u00b7 Fedor"
+      "notes": "Sony Walkman · Fedor"
     },
     {
       "year": 1996,
@@ -2622,7 +2622,7 @@ const ARTIST_DATA = {
       "venue": "Mammoth Events Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M300 \u00b7 Pl"
+      "notes": "M300 · Pl"
     },
     {
       "year": 1996,
@@ -2661,7 +2661,7 @@ const ARTIST_DATA = {
       "venue": "Mammoth Events Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Marcsounds \u00b7 Tapeworm48"
+      "notes": "Marcsounds · Tapeworm48"
     },
     {
       "year": 1996,
@@ -2895,7 +2895,7 @@ const ARTIST_DATA = {
       "venue": "Bassendean Oval",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM 909a \u00b7 Big Day Out Festival \u00b7 Franger Master"
+      "notes": "Sony ECM 909a · Big Day Out Festival · Franger Master"
     },
     {
       "year": 1997,
@@ -3025,7 +3025,7 @@ const ARTIST_DATA = {
       "venue": "Molson Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-4 \u00b7 Soundcheck"
+      "notes": "SP-CMC-4 · Soundcheck"
     },
     {
       "year": 2011,
@@ -3090,7 +3090,7 @@ const ARTIST_DATA = {
       "venue": "Prudential Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 Unknown"
+      "notes": "DPA 4061 · Unknown"
     },
     {
       "year": 2011,
@@ -3116,7 +3116,7 @@ const ARTIST_DATA = {
       "venue": "Live At the Tweeter Center",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DPA 4061 \u00b7 Bennyblanco"
+      "notes": "DPA 4061 · Bennyblanco"
     },
     {
       "year": 2011,
@@ -3155,7 +3155,7 @@ const ARTIST_DATA = {
       "venue": "UIC Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT933 \u00b7 Darktrain"
+      "notes": "AT933 · Darktrain"
     },
     {
       "year": 2011,
@@ -3168,7 +3168,7 @@ const ARTIST_DATA = {
       "venue": "UIC Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Dsm-6s \u00b7 Twoheadedboy"
+      "notes": "Dsm-6s · Twoheadedboy"
     },
     {
       "year": 2011,
@@ -3181,7 +3181,7 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT933 \u00b7 Sxpxdxcx"
+      "notes": "AT933 · Sxpxdxcx"
     },
     {
       "year": 2011,
@@ -3194,7 +3194,7 @@ const ARTIST_DATA = {
       "venue": "Bill Graham Civic Auditorium",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "CMC34 + CCM4 \u00b7 Raining Vodka & The Jedi Master"
+      "notes": "CMC34 + CCM4 · Raining Vodka & The Jedi Master"
     },
     {
       "year": 2011,
@@ -3207,7 +3207,7 @@ const ARTIST_DATA = {
       "venue": "Bill Graham Civic Auditorium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-719 \u00b7 Unknown"
+      "notes": "Sony ECM-719 · Unknown"
     },
     {
       "year": 2011,
@@ -3246,7 +3246,7 @@ const ARTIST_DATA = {
       "venue": "Rogers Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "audioarchivist \u00b7 Mono"
+      "notes": "audioarchivist · Mono"
     },
     {
       "year": 2011,
@@ -3259,7 +3259,7 @@ const ARTIST_DATA = {
       "venue": "Rogers Arena",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 Chris Bold"
+      "notes": "SP-CMC-8 · Chris Bold"
     },
     {
       "year": 2011,
@@ -3363,7 +3363,7 @@ const ARTIST_DATA = {
       "venue": "Rock im Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Dagobert"
+      "notes": "SP-CMC-8 · Dagobert"
     },
     {
       "year": 2012,
@@ -3389,7 +3389,7 @@ const ARTIST_DATA = {
       "venue": "Castle Donington - Download Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Unknown"
+      "notes": "SP-CMC-8 · Unknown"
     },
     {
       "year": 2012,
@@ -3415,7 +3415,7 @@ const ARTIST_DATA = {
       "venue": "Donington Park - Download Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Rob"
+      "notes": "DPA 4061s · Rob"
     },
     {
       "year": 2012,
@@ -3597,7 +3597,7 @@ const ARTIST_DATA = {
       "venue": "Paramount Theater",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "Schoeps MK41 + Sennheiser EK 300 \u00b7 Night 1 \u00b7 Taperbt"
+      "notes": "Schoeps MK41 + Sennheiser EK 300 · Night 1 · Taperbt"
     },
     {
       "year": 2013,
@@ -3636,7 +3636,7 @@ const ARTIST_DATA = {
       "venue": "Fox Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Daspyknows"
+      "notes": "Schoeps MK4 · Daspyknows"
     },
     {
       "year": 2013,
@@ -3649,7 +3649,7 @@ const ARTIST_DATA = {
       "venue": "Fox Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CCM4s \u00b7 Not Me"
+      "notes": "CCM4s · Not Me"
     },
     {
       "year": 2013,
@@ -3662,7 +3662,7 @@ const ARTIST_DATA = {
       "venue": "Fox Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CCM4s \u00b7 Anonymous"
+      "notes": "CCM4s · Anonymous"
     },
     {
       "year": 2013,
@@ -3675,7 +3675,7 @@ const ARTIST_DATA = {
       "venue": "The Wiltern",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "MK41s \u00b7 Blg"
+      "notes": "MK41s · Blg"
     },
     {
       "year": 2013,
@@ -3714,7 +3714,7 @@ const ARTIST_DATA = {
       "venue": "The Wiltern",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK41s \u00b7 Blg"
+      "notes": "Schoeps MK41s · Blg"
     },
     {
       "year": 2013,
@@ -3753,7 +3753,7 @@ const ARTIST_DATA = {
       "venue": "Borgata Event Center",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-2 \u00b7 Lou"
+      "notes": "SP-CMC-2 · Lou"
     },
     {
       "year": 2013,
@@ -3883,7 +3883,7 @@ const ARTIST_DATA = {
       "venue": "O2 Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Edirol R-09hr \u00b7 Unknown"
+      "notes": "M · Edirol R-09hr · Unknown"
     },
     {
       "year": 2014,
@@ -4013,7 +4013,7 @@ const ARTIST_DATA = {
       "venue": "Permberton Music Festival - Pemberton Stage",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14s \u00b7 Unknown"
+      "notes": "Ca-14s · Unknown"
     },
     {
       "year": 2014,
@@ -4078,7 +4078,7 @@ const ARTIST_DATA = {
       "venue": "DTE Energy Music Theatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "CCM4 \u00b7 Ryanj"
+      "notes": "CCM4 · Ryanj"
     },
     {
       "year": 2014,
@@ -4091,7 +4091,7 @@ const ARTIST_DATA = {
       "venue": "Xfinity Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853 \u00b7 Opsopcopolis"
+      "notes": "AT853 · Opsopcopolis"
     },
     {
       "year": 2014,
@@ -4104,7 +4104,7 @@ const ARTIST_DATA = {
       "venue": "Xfinity Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony PCM-M10 \u00b7 Ec666"
+      "notes": "Sony PCM-M10 · Ec666"
     },
     {
       "year": 2014,
@@ -4117,7 +4117,7 @@ const ARTIST_DATA = {
       "venue": "Susquehanna Bank Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "MK6 \u00b7 Dubbledee"
+      "notes": "MK6 · Dubbledee"
     },
     {
       "year": 2014,
@@ -4156,7 +4156,7 @@ const ARTIST_DATA = {
       "venue": "Sleep Train Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Marcsounds \u00b7 Mh"
+      "notes": "Marcsounds · Mh"
     },
     {
       "year": 2014,
@@ -4169,7 +4169,7 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "MK41 \u00b7 Blg"
+      "notes": "MK41 · Blg"
     },
     {
       "year": 2014,
@@ -4195,7 +4195,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Bowl",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK41 \u00b7 Blg"
+      "notes": "Schoeps MK41 · Blg"
     },
     {
       "year": 2014,
@@ -4208,7 +4208,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Bowl",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "ALD + AT943 \u00b7 Unknown"
+      "notes": "ALD + AT943 · Unknown"
     },
     {
       "year": 2014,
@@ -4377,7 +4377,7 @@ const ARTIST_DATA = {
       "venue": "Kia Forum - Taylor Hawkins Tribute",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 Loughney"
+      "notes": "SP-CMC-4U · Loughney"
     },
     {
       "year": 1999,
@@ -4468,7 +4468,7 @@ const ARTIST_DATA = {
       "venue": "Community Center Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM-MS-907 \u00b7 Big D."
+      "notes": "ECM-MS-907 · Big D."
     },
     {
       "year": 1999,
@@ -4572,7 +4572,7 @@ const ARTIST_DATA = {
       "venue": "First Avenue",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Core Sound Stealthy \u00b7 Crazyafroman & Bob20"
+      "notes": "Core Sound Stealthy · Crazyafroman & Bob20"
     },
     {
       "year": 2007,
@@ -4689,7 +4689,7 @@ const ARTIST_DATA = {
       "venue": "Camden Roundhouse",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "EM8 \u00b7 gary watson"
+      "notes": "EM8 · gary watson"
     },
     {
       "year": 2007,
@@ -4780,7 +4780,7 @@ const ARTIST_DATA = {
       "venue": "Pabst Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "mk4 \u00b7 Tapeworm48"
+      "notes": "mk4 · Tapeworm48"
     },
     {
       "year": 2009,
@@ -4793,7 +4793,7 @@ const ARTIST_DATA = {
       "venue": "The Depot",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Geordy"
+      "notes": "DPA 4061s · Geordy"
     },
     {
       "year": 2009,
@@ -4897,7 +4897,7 @@ const ARTIST_DATA = {
       "venue": "Boulevard Casino",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-11 \u00b7 Dennis Orr"
+      "notes": "Ca-11 · Dennis Orr"
     },
     {
       "year": 2011,
@@ -4962,7 +4962,7 @@ const ARTIST_DATA = {
       "venue": "Teatro Grean Rex",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Mm-mcsm-4 \u00b7 Rony Kohn"
+      "notes": "Mm-mcsm-4 · Rony Kohn"
     },
     {
       "year": 2011,
@@ -5144,7 +5144,7 @@ const ARTIST_DATA = {
       "venue": "Farquhar Auditorium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H2 \u00b7 Jason"
+      "notes": "Zoom H2 · Jason"
     },
     {
       "year": 2013,
@@ -5196,7 +5196,7 @@ const ARTIST_DATA = {
       "venue": "Soundwave Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-25 \u00b7 Godzogolfball"
+      "notes": "SP-CMC-25 · Godzogolfball"
     },
     {
       "year": 2015,
@@ -5534,7 +5534,7 @@ const ARTIST_DATA = {
       "venue": "XFM Studios",
       "version": "FM",
       "format": "FLAC",
-      "notes": "SBD #1 \u00b7 gary watson \u00b7 Interview"
+      "notes": "SBD #1 · gary watson · Interview"
     },
     {
       "year": 2003,
@@ -5716,7 +5716,7 @@ const ARTIST_DATA = {
       "venue": "Electric Factory",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Gefell M20 \u00b7 Jlizard"
+      "notes": "Gefell M20 · Jlizard"
     },
     {
       "year": 2003,
@@ -5924,7 +5924,7 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheatre",
       "version": "AUD",
       "format": "SHN",
-      "notes": "Lollapalooza \u00b7 Ls"
+      "notes": "Lollapalooza · Ls"
     },
     {
       "year": 2003,
@@ -5950,7 +5950,7 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 Ko"
+      "notes": "Lollapalooza · Ko"
     },
     {
       "year": 2003,
@@ -5976,7 +5976,7 @@ const ARTIST_DATA = {
       "venue": "Post-Gazette Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SM98 \u00b7 Cps"
+      "notes": "SM98 · Cps"
     },
     {
       "year": 2003,
@@ -6028,7 +6028,7 @@ const ARTIST_DATA = {
       "venue": "Jones Beach Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 Marcsounds"
+      "notes": "Lollapalooza · Marcsounds"
     },
     {
       "year": 2003,
@@ -6054,7 +6054,7 @@ const ARTIST_DATA = {
       "venue": "HiFi Buys Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Pjdave"
+      "notes": "DPA 4061s · Pjdave"
     },
     {
       "year": 2003,
@@ -6067,7 +6067,7 @@ const ARTIST_DATA = {
       "venue": "HiFi Buys Amphitheatre - Lollapalooza",
       "version": "AUD #2",
       "format": "FLAC",
-      "notes": "AT-853 \u00b7 Cal Evans"
+      "notes": "AT-853 · Cal Evans"
     },
     {
       "year": 2003,
@@ -6080,7 +6080,7 @@ const ARTIST_DATA = {
       "venue": "Smirnoff Music Centre - Lollapalooza",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Asthma77 \u00b7 Inc"
+      "notes": "Asthma77 · Inc"
     },
     {
       "year": 2003,
@@ -6106,7 +6106,7 @@ const ARTIST_DATA = {
       "venue": "Fiddler's Green",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Lollapalooza \u00b7 Taperbt"
+      "notes": "Lollapalooza · Taperbt"
     },
     {
       "year": 2003,
@@ -6132,7 +6132,7 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DAB \u00b7 Cavis3208"
+      "notes": "DAB · Cavis3208"
     },
     {
       "year": 2003,
@@ -6145,7 +6145,7 @@ const ARTIST_DATA = {
       "venue": "Coors Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Oade Brothers \u00b7 The Ramblin Taper"
+      "notes": "Oade Brothers · The Ramblin Taper"
     },
     {
       "year": 2003,
@@ -6158,7 +6158,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "version": "AUD",
       "format": "SHN",
-      "notes": "Lollapalooza \u00b7 Michele"
+      "notes": "Lollapalooza · Michele"
     },
     {
       "year": 2003,
@@ -6197,7 +6197,7 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 Tapeworm48"
+      "notes": "DPA 4061 · Tapeworm48"
     },
     {
       "year": 2005,
@@ -6236,7 +6236,7 @@ const ARTIST_DATA = {
       "venue": "Jimmy Kimmel Live",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DSM6 \u00b7 Unknown"
+      "notes": "DSM6 · Unknown"
     },
     {
       "year": 2005,
@@ -6301,7 +6301,7 @@ const ARTIST_DATA = {
       "venue": "Pannonia Fields",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA4061 \u00b7 Mg"
+      "notes": "DPA4061 · Mg"
     },
     {
       "year": 2005,
@@ -6340,7 +6340,7 @@ const ARTIST_DATA = {
       "venue": "Hovet",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM-DS70P \u00b7 Andreas Magnusson"
+      "notes": "ECM-DS70P · Andreas Magnusson"
     },
     {
       "year": 2005,
@@ -6353,7 +6353,7 @@ const ARTIST_DATA = {
       "venue": "Roskilde Festival - Orange Stage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSC \u00b7 Jtl"
+      "notes": "CSC · Jtl"
     },
     {
       "year": 2005,
@@ -6470,7 +6470,7 @@ const ARTIST_DATA = {
       "venue": "UIC Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Tapeworm48"
+      "notes": "Schoeps MK4 · Tapeworm48"
     },
     {
       "year": 2019,
@@ -6483,7 +6483,7 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT831s \u00b7 Tapeworm48"
+      "notes": "AT831s · Tapeworm48"
     }
   ],
   "misc": [
@@ -6570,301 +6570,6 @@ const ARTIST_DATA = {
       "type": "label",
       "label": "Soundgarden - Live 1992 {5060670649003} (2021)",
       "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL RELEASES]"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Ultramega OK (1988) (Expanded Reissue 2017)",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Soundgarden - Screaming Life {Sub Pop SP12} (1987)",
-      "version": "Vinyl Rip",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Soundgarden - Fopp (24-96) {Sub Pop SP17} (1988)",
-      "version": "Vinyl Rip",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Screaming Life - Fopp (Remastered) (2013)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Live & Alive (1989)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Flower [EP] (1989)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Hands All Over {CD 17969} (1989)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Louder Than Love (Pony Canyon Inc., Japan, PCCY-10004) (1989)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Badmotorfinger (with SOMMS) (1991)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Poncier (1992)",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Soundgarden - Jesus Christ Pose {AMY 862} (1992)",
-      "version": "Vinyl Rip",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Crown of Thorns (2CD) (1992)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Superunknown (A&M Records, Inc., Japan, POCM-1065) (1994)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Foreshocks (1994)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Down On The Upside (A&M Records, Japan, POCM-1168) (1996)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Down on The Upside + Down Under on The Upside (1996)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - A-Sides (1997)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Telephantasm (2CD) (2010)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Live On I-5 (2011)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Before The Doors - Live On I-5 {B0015418-72} (2011)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - King Animal {2012. U.S. Deluxe Edition} (2012)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Echo Of Miles (3CD) (2014)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Live from the Artist's Den (DVD)",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "[SINGLES]"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Flower {SST CD 231} (1989)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Rusty Cage {580 022-2 Australia} (1991)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Rusty Cage {390 874-2} (1992)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Outshined {AMCD 0102, 580102-2} (1992)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Outshined (Australasia) {AMCD 0102} (1992)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Fell on Black Days - Black Disc (US - A&M Records 5808972 - 1994) (1994)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Black Hole Sun (580 737-2) (CD1) (1994)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Black Hole Sun (580 623-2) (CD2) (1994)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - The Day I Tried To Live (CDS) (1994)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - The Day I Tried to Live (GB - A&M Records 580 595-2 - 1994-04-15) (1994)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - My Wave {5808492} (1994)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Spoonman {580 526-2} (1994)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Spoonman {580 539-2} (1994)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Fell on Black Days (AU - A&M Records 580 927-2) (CD1) (1995)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Fell on Black Days (580-897-2) (CD1) (1995)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Fell on Black Days (580-931-2) (CD2) (1995)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Fell on Black Days (Disc 2) (GB - A&M Records 580947-2 - 1995) (1995)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Fell On Black Days (590 897-2) (EU) (1995)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Blow Up the Outside World (GB - A&M Records 581 987-2 - 1996-12-13) (1996)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Burden In My Hand {581 854-2} (CD1) (EU) (1996)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Burden in My Hand {581 807-2} (1996)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Burden in My Hand {581 855-2} (1996)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Ty Cobb {5822112} (1997)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[HD]"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Screaming Life (Sub Pop - SP12) (1987) (24/192 Vinyl Rip)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Ultramega OK (SST Records - SST 201) (1988) (24/192 Vinyl Rip)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Louder Than Love (A&M Records - AMA 52522) (1989) (24/192 Vinyl Rip)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Screaming Life/Fopp (Remaster) (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Ultramega OK (24/44.1)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Louder Than Love 1989 (2016) (24/192)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Badmotorfinger - 25th Anniversary (24/48)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Superunknown (20th Anniversary Edition) HDTracks (1994) (24/192)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Superunknown (Deluxe Edition) (1994) (2014) (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Soundgarden - Down On The Upside (3145405261 (1996) (24/96)",
-      "format": "FLAC HD"
     }
   ]
 };

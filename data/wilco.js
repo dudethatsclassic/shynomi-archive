@@ -65,7 +65,7 @@ const ARTIST_DATA = {
       "venue": "7th Street Entry",
       "version": "AUD",
       "format": "",
-      "notes": "M? \u00b7 unk"
+      "notes": "M? · unk"
     },
     {
       "year": 1994,
@@ -91,7 +91,7 @@ const ARTIST_DATA = {
       "venue": "Lounge Ax",
       "version": "AUD",
       "format": "",
-      "notes": "Shure VP88 \u00b7 jeff s. master"
+      "notes": "Shure VP88 · jeff s. master"
     },
     {
       "year": 1994,
@@ -104,7 +104,7 @@ const ARTIST_DATA = {
       "venue": "Lounge Ax",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 mr. pember master"
+      "notes": "CSB · mr. pember master"
     },
     {
       "year": 1994,
@@ -130,7 +130,7 @@ const ARTIST_DATA = {
       "venue": "Mississippi Nights",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 mrpember"
+      "notes": "CSB · mrpember"
     },
     {
       "year": 1995,
@@ -143,7 +143,7 @@ const ARTIST_DATA = {
       "venue": "SXSW Showcase",
       "version": "AUD",
       "format": "",
-      "notes": "Sonic Studios \u00b7 markp"
+      "notes": "Sonic Studios · markp"
     },
     {
       "year": 1995,
@@ -195,7 +195,7 @@ const ARTIST_DATA = {
       "venue": "Whisky A Go Go",
       "version": "AUD",
       "format": "",
-      "notes": "Sonic Studios \u00b7 markp"
+      "notes": "Sonic Studios · markp"
     },
     {
       "year": 1995,
@@ -208,7 +208,7 @@ const ARTIST_DATA = {
       "venue": "Rhino Records",
       "version": "AUD",
       "format": "",
-      "notes": "Aiwa CM-30 \u00b7 little guy"
+      "notes": "Aiwa CM-30 · little guy"
     },
     {
       "year": 1995,
@@ -481,7 +481,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "version": "AUD",
       "format": "",
-      "notes": "unk \u00b7 neekrive"
+      "notes": "unk · neekrive"
     },
     {
       "year": 1995,
@@ -494,7 +494,7 @@ const ARTIST_DATA = {
       "venue": "Great American Music Hall",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 tjcruz"
+      "notes": "CSB · tjcruz"
     },
     {
       "year": 1995,
@@ -650,7 +650,7 @@ const ARTIST_DATA = {
       "venue": "The Ritz",
       "version": "AUD",
       "format": "",
-      "notes": "unk \u00b7 blg mastering"
+      "notes": "unk · blg mastering"
     },
     {
       "year": 1996,
@@ -988,7 +988,7 @@ const ARTIST_DATA = {
       "venue": "Majestic Theater",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps CMC54 \u00b7 michael pfeil"
+      "notes": "Schoeps CMC54 · michael pfeil"
     },
     {
       "year": 1997,
@@ -1365,7 +1365,7 @@ const ARTIST_DATA = {
       "venue": "Merriweather Post",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps CCM4 \u00b7 unk"
+      "notes": "Schoeps CCM4 · unk"
     },
     {
       "year": 1998,
@@ -1625,7 +1625,7 @@ const ARTIST_DATA = {
       "venue": "Theatre of the Living Arts",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps MK4V \u00b7 keytohwy"
+      "notes": "Schoeps MK4V · keytohwy"
     },
     {
       "year": 1999,
@@ -1651,7 +1651,7 @@ const ARTIST_DATA = {
       "venue": "Riviera Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "AKG 481 \u00b7 jamie syrek"
+      "notes": "AKG 481 · jamie syrek"
     },
     {
       "year": 1999,
@@ -2366,7 +2366,7 @@ const ARTIST_DATA = {
       "venue": "Cooper River Park",
       "version": "AUD",
       "format": "",
-      "notes": "Shoeps CMC4 \u00b7 billydee"
+      "notes": "Shoeps CMC4 · billydee"
     },
     {
       "year": 2000,
@@ -2431,7 +2431,7 @@ const ARTIST_DATA = {
       "venue": "Barrymore Theater",
       "version": "SBD",
       "format": "",
-      "notes": "morst \u00b7 taperjoe tracking"
+      "notes": "morst · taperjoe tracking"
     },
     {
       "year": 2000,
@@ -2678,7 +2678,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD",
       "format": "",
-      "notes": "unk \u00b7 neekrive"
+      "notes": "unk · neekrive"
     },
     {
       "year": 2001,
@@ -2691,7 +2691,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "MIX",
       "format": "",
-      "notes": "SBD + Schoeps \u00b7 blg mix"
+      "notes": "SBD + Schoeps · blg mix"
     },
     {
       "year": 2001,
@@ -2704,7 +2704,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD",
       "format": "",
-      "notes": "unk \u00b7 neekrive"
+      "notes": "unk · neekrive"
     },
     {
       "year": 2001,
@@ -2782,7 +2782,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "version": "AUD",
       "format": "",
-      "notes": "ECM12 \u00b7 luke freteluco"
+      "notes": "ECM12 · luke freteluco"
     },
     {
       "year": 2002,
@@ -2808,7 +2808,7 @@ const ARTIST_DATA = {
       "venue": "UCLA - All Tomorrow's Parties",
       "version": "AUD",
       "format": "",
-      "notes": "Sony ECM12s \u00b7 luke"
+      "notes": "Sony ECM12s · luke"
     },
     {
       "year": 2002,
@@ -2912,7 +2912,7 @@ const ARTIST_DATA = {
       "venue": "Rockefeller",
       "version": "AUD",
       "format": "",
-      "notes": "M \u00b7 unk"
+      "notes": "M · unk"
     },
     {
       "year": 2002,
@@ -2925,7 +2925,7 @@ const ARTIST_DATA = {
       "venue": "Gruenspan",
       "version": "AUD",
       "format": "",
-      "notes": "MD \u00b7 unk"
+      "notes": "MD · unk"
     },
     {
       "year": 2002,
@@ -2990,7 +2990,7 @@ const ARTIST_DATA = {
       "venue": "Le Divan du Monde",
       "version": "AUD",
       "format": "",
-      "notes": "SP-CMC-4 \u00b7 unk"
+      "notes": "SP-CMC-4 · unk"
     },
     {
       "year": 2002,
@@ -3146,7 +3146,7 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "version": "AUD",
       "format": "",
-      "notes": "unk \u00b7 blg mastering"
+      "notes": "unk · blg mastering"
     },
     {
       "year": 2002,
@@ -3159,7 +3159,7 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "version": "MIX",
       "format": "",
-      "notes": "SBD + Schoeps \u00b7 blg mix"
+      "notes": "SBD + Schoeps · blg mix"
     },
     {
       "year": 2002,
@@ -3172,7 +3172,7 @@ const ARTIST_DATA = {
       "venue": "John Anson Ford Theater",
       "version": "AUD",
       "format": "",
-      "notes": "Sony ECM12s \u00b7 luke"
+      "notes": "Sony ECM12s · luke"
     },
     {
       "year": 2002,
@@ -3185,7 +3185,7 @@ const ARTIST_DATA = {
       "venue": "John Anson Ford Theatre",
       "version": "MIX",
       "format": "",
-      "notes": "SBD + Sony ECM-12 \u00b7 anonymous + luke freteluco"
+      "notes": "SBD + Sony ECM-12 · anonymous + luke freteluco"
     },
     {
       "year": 2002,
@@ -3198,7 +3198,7 @@ const ARTIST_DATA = {
       "venue": "John Anson Ford Theater",
       "version": "AUD",
       "format": "",
-      "notes": "Sony ECM12s \u00b7 luke"
+      "notes": "Sony ECM12s · luke"
     },
     {
       "year": 2002,
@@ -3237,7 +3237,7 @@ const ARTIST_DATA = {
       "venue": "John Anson Ford Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "M \u00b7 anonymous"
+      "notes": "M · anonymous"
     },
     {
       "year": 2002,
@@ -3289,7 +3289,7 @@ const ARTIST_DATA = {
       "venue": "Mercury Entertainment - Jazz",
       "version": "AUD",
       "format": "",
-      "notes": "SPSC \u00b7 unk"
+      "notes": "SPSC · unk"
     },
     {
       "year": 2002,
@@ -3354,7 +3354,7 @@ const ARTIST_DATA = {
       "venue": "Michigan Theater",
       "version": "AUD",
       "format": "",
-      "notes": "Core Binaural Mics \u00b7 unk"
+      "notes": "Core Binaural Mics · unk"
     },
     {
       "year": 2002,
@@ -3614,7 +3614,7 @@ const ARTIST_DATA = {
       "venue": "Summerstage Central Park",
       "version": "AUD",
       "format": "",
-      "notes": "MG210 \u00b7 ellaguru"
+      "notes": "MG210 · ellaguru"
     },
     {
       "year": 2003,
@@ -3666,7 +3666,7 @@ const ARTIST_DATA = {
       "venue": "Constitution Hall",
       "version": "AUD",
       "format": "",
-      "notes": "B&K 4022 \u00b7 craig davis"
+      "notes": "B&K 4022 · craig davis"
     },
     {
       "year": 2003,
@@ -3770,7 +3770,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre - KFOG Summer Picnic",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps MK4 \u00b7 unk"
+      "notes": "Schoeps MK4 · unk"
     },
     {
       "year": 2003,
@@ -3809,7 +3809,7 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps MK4 \u00b7 ken mininger"
+      "notes": "Schoeps MK4 · ken mininger"
     },
     {
       "year": 2003,
@@ -3822,7 +3822,7 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "version": "AUD",
       "format": "",
-      "notes": "Sony ECM12s \u00b7 luke"
+      "notes": "Sony ECM12s · luke"
     },
     {
       "year": 2003,
@@ -3835,7 +3835,7 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "version": "AUD",
       "format": "",
-      "notes": "Sony ECM12s \u00b7 luke"
+      "notes": "Sony ECM12s · luke"
     },
     {
       "year": 2003,
@@ -3874,7 +3874,7 @@ const ARTIST_DATA = {
       "venue": "Auditorium Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Earthworks SR 77s \u00b7 jerrry eagleberger & david sadowski"
+      "notes": "Earthworks SR 77s · jerrry eagleberger & david sadowski"
     },
     {
       "year": 2003,
@@ -3900,7 +3900,7 @@ const ARTIST_DATA = {
       "venue": "Auditorium Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Earthworks SR77s \u00b7 jerry eagleberger & david sadowski"
+      "notes": "Earthworks SR77s · jerry eagleberger & david sadowski"
     },
     {
       "year": 2003,
@@ -3952,7 +3952,7 @@ const ARTIST_DATA = {
       "venue": "Otto's",
       "version": "AUD",
       "format": "",
-      "notes": "Earthworks SR77s \u00b7 jerry eaglebarger"
+      "notes": "Earthworks SR77s · jerry eaglebarger"
     },
     {
       "year": 2004,
@@ -3965,7 +3965,7 @@ const ARTIST_DATA = {
       "venue": "Otto's",
       "version": "AUD",
       "format": "",
-      "notes": "Earthworks SR77s \u00b7 jerry eaglebarger"
+      "notes": "Earthworks SR77s · jerry eaglebarger"
     },
     {
       "year": 2004,
@@ -3991,7 +3991,7 @@ const ARTIST_DATA = {
       "venue": "Three Rivers Arts Festival",
       "version": "AUD",
       "format": "",
-      "notes": "AKG se300b \u00b7 alex herd"
+      "notes": "AKG se300b · alex herd"
     },
     {
       "year": 2004,
@@ -4004,7 +4004,7 @@ const ARTIST_DATA = {
       "venue": "Three Rivers Arts Festival",
       "version": "MIX",
       "format": "",
-      "notes": "unk + AKG se300b \u00b7 j. gould + alex herd"
+      "notes": "unk + AKG se300b · j. gould + alex herd"
     },
     {
       "year": 2004,
@@ -4056,7 +4056,7 @@ const ARTIST_DATA = {
       "venue": "Bonnaroo Music Festival - What Stage",
       "version": "AUD",
       "format": "",
-      "notes": "B&K 4022 \u00b7 craig davis"
+      "notes": "B&K 4022 · craig davis"
     },
     {
       "year": 2004,
@@ -4147,7 +4147,7 @@ const ARTIST_DATA = {
       "venue": "Astoria Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 stuart plummer"
+      "notes": "CSB · stuart plummer"
     },
     {
       "year": 2004,
@@ -4238,7 +4238,7 @@ const ARTIST_DATA = {
       "venue": "Blue Note",
       "version": "AUD",
       "format": "",
-      "notes": "B&K 4021s \u00b7 steve brothers + mike mettis"
+      "notes": "B&K 4021s · steve brothers + mike mettis"
     },
     {
       "year": 2004,
@@ -4576,7 +4576,7 @@ const ARTIST_DATA = {
       "venue": "The Wiltern",
       "version": "SBD",
       "format": "",
-      "notes": "M \u00b7 anonymous"
+      "notes": "M · anonymous"
     },
     {
       "year": 2004,
@@ -4615,7 +4615,7 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4021 \u00b7 matchbook songs"
+      "notes": "DPA 4021 · matchbook songs"
     },
     {
       "year": 2004,
@@ -4628,7 +4628,7 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4022 \u00b7 george wang"
+      "notes": "DPA 4022 · george wang"
     },
     {
       "year": 2004,
@@ -4667,7 +4667,7 @@ const ARTIST_DATA = {
       "venue": "Foellinger Auditorium",
       "version": "AUD",
       "format": "",
-      "notes": "SM-81 \u00b7 mark makdad"
+      "notes": "SM-81 · mark makdad"
     },
     {
       "year": 2005,
@@ -4875,7 +4875,7 @@ const ARTIST_DATA = {
       "venue": "Bricktown Events Center",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 unk"
+      "notes": "CSB · unk"
     },
     {
       "year": 2005,
@@ -4992,7 +4992,7 @@ const ARTIST_DATA = {
       "venue": "Merriweather Post Pavilion",
       "version": "AUD",
       "format": "",
-      "notes": "B&K4022 \u00b7 craig davis"
+      "notes": "B&K4022 · craig davis"
     },
     {
       "year": 2005,
@@ -5278,7 +5278,7 @@ const ARTIST_DATA = {
       "venue": "Summerfest",
       "version": "AUD",
       "format": "",
-      "notes": "SP-BMC-12 \u00b7 matt krueger + kevin kohl"
+      "notes": "SP-BMC-12 · matt krueger + kevin kohl"
     },
     {
       "year": 2006,
@@ -5291,7 +5291,7 @@ const ARTIST_DATA = {
       "venue": "Massey Hall",
       "version": "MTX",
       "format": "",
-      "notes": "KM184+SBD \u00b7 david klein"
+      "notes": "KM184+SBD · david klein"
     },
     {
       "year": 2006,
@@ -5395,7 +5395,7 @@ const ARTIST_DATA = {
       "venue": "Iroquois Amphitheater",
       "version": "AUD",
       "format": "",
-      "notes": "CK63 \u00b7 jon ice"
+      "notes": "CK63 · jon ice"
     },
     {
       "year": 2006,
@@ -5408,7 +5408,7 @@ const ARTIST_DATA = {
       "venue": "Iroquois Amphitheater",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps MK4/CMC6 \u00b7 stuart tackett"
+      "notes": "Schoeps MK4/CMC6 · stuart tackett"
     },
     {
       "year": 2006,
@@ -5447,7 +5447,7 @@ const ARTIST_DATA = {
       "venue": "Gertrude Castello Ford Center",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps MK4 \u00b7 stuart tackett"
+      "notes": "Schoeps MK4 · stuart tackett"
     },
     {
       "year": 2006,
@@ -5460,7 +5460,7 @@ const ARTIST_DATA = {
       "venue": "Gertrude Castello Ford Center",
       "version": "AUD",
       "format": "",
-      "notes": "AKG C 460 + CK 61 \u00b7 ole diz & pedro"
+      "notes": "AKG C 460 + CK 61 · ole diz & pedro"
     },
     {
       "year": 2006,
@@ -5473,7 +5473,7 @@ const ARTIST_DATA = {
       "venue": "GCFC - UofMS",
       "version": "MIX",
       "format": "",
-      "notes": "Schoeps MK4 + AKG C 460 \u00b7 ole diz & pedro"
+      "notes": "Schoeps MK4 + AKG C 460 · ole diz & pedro"
     },
     {
       "year": 2006,
@@ -5577,7 +5577,7 @@ const ARTIST_DATA = {
       "venue": "The Tivoli",
       "version": "AUD",
       "format": "",
-      "notes": "Binaural SP mics \u00b7 brendan eales"
+      "notes": "Binaural SP mics · brendan eales"
     },
     {
       "year": 2007,
@@ -5590,7 +5590,7 @@ const ARTIST_DATA = {
       "venue": "Palais Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Audix m1290 \u00b7 adam"
+      "notes": "Audix m1290 · adam"
     },
     {
       "year": 2007,
@@ -5603,7 +5603,7 @@ const ARTIST_DATA = {
       "venue": "Palais Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Audix m1290 \u00b7 adam"
+      "notes": "Audix m1290 · adam"
     },
     {
       "year": 2007,
@@ -5642,7 +5642,7 @@ const ARTIST_DATA = {
       "venue": "Shepherds Bush Empire",
       "version": "AUD",
       "format": "",
-      "notes": "SS-DSM6 \u00b7 soledriver"
+      "notes": "SS-DSM6 · soledriver"
     },
     {
       "year": 2007,
@@ -5655,7 +5655,7 @@ const ARTIST_DATA = {
       "venue": "Grosse Freiheit 36",
       "version": "AUD",
       "format": "",
-      "notes": "MBHO MBP 603A \u00b7 unk"
+      "notes": "MBHO MBP 603A · unk"
     },
     {
       "year": 2007,
@@ -6045,7 +6045,7 @@ const ARTIST_DATA = {
       "venue": "Santa Barbara Bowl",
       "version": "SBD",
       "format": "",
-      "notes": "anonymous \u00b7 blg mastering"
+      "notes": "anonymous · blg mastering"
     },
     {
       "year": 2007,
@@ -6058,7 +6058,7 @@ const ARTIST_DATA = {
       "venue": "Greek Theater",
       "version": "AUD",
       "format": "",
-      "notes": "CA STC-11 \u00b7 brennan murphy"
+      "notes": "CA STC-11 · brennan murphy"
     },
     {
       "year": 2007,
@@ -6071,7 +6071,7 @@ const ARTIST_DATA = {
       "venue": "Greek Theatre",
       "version": "SBD",
       "format": "",
-      "notes": "anonymous \u00b7 blg mastering"
+      "notes": "anonymous · blg mastering"
     },
     {
       "year": 2007,
@@ -6084,7 +6084,7 @@ const ARTIST_DATA = {
       "venue": "Greek Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Sony MD mic \u00b7 dennis orr"
+      "notes": "Sony MD mic · dennis orr"
     },
     {
       "year": 2007,
@@ -6942,7 +6942,7 @@ const ARTIST_DATA = {
       "venue": "Halifax Metro Center",
       "version": "AUD",
       "format": "",
-      "notes": "Custom mics > Edirol R-09 \u00b7 scotianbill"
+      "notes": "Custom mics > Edirol R-09 · scotianbill"
     },
     {
       "year": 2008,
@@ -6968,7 +6968,7 @@ const ARTIST_DATA = {
       "venue": "Air Canada Centre",
       "version": "AUD",
       "format": "",
-      "notes": "CSC \u00b7 burnboy"
+      "notes": "CSC · burnboy"
     },
     {
       "year": 2008,
@@ -7033,7 +7033,7 @@ const ARTIST_DATA = {
       "venue": "Wachovia Spectrum",
       "version": "AUD",
       "format": "",
-      "notes": "KM150s \u00b7 flying gonz/nicky c production"
+      "notes": "KM150s · flying gonz/nicky c production"
     },
     {
       "year": 2008,
@@ -7046,7 +7046,7 @@ const ARTIST_DATA = {
       "venue": "Wachovia Spectrum",
       "version": "AUD",
       "format": "",
-      "notes": "MK41s \u00b7 tapeworm"
+      "notes": "MK41s · tapeworm"
     },
     {
       "year": 2008,
@@ -7059,7 +7059,7 @@ const ARTIST_DATA = {
       "venue": "Wachovia Spectrum",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps MK41s \u00b7 unk"
+      "notes": "Schoeps MK41s · unk"
     },
     {
       "year": 2008,
@@ -7332,7 +7332,7 @@ const ARTIST_DATA = {
       "venue": "The Wiltern",
       "version": "SBD",
       "format": "",
-      "notes": "M \u00b7 anonymous"
+      "notes": "M · anonymous"
     },
     {
       "year": 2009,
@@ -7358,7 +7358,7 @@ const ARTIST_DATA = {
       "venue": "The Wiltern",
       "version": "SBD",
       "format": "",
-      "notes": "M \u00b7 anonymous"
+      "notes": "M · anonymous"
     },
     {
       "year": 2009,
@@ -7384,7 +7384,7 @@ const ARTIST_DATA = {
       "venue": "Harvey's Outdoor Arena",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps MK4 \u00b7 unk"
+      "notes": "Schoeps MK4 · unk"
     },
     {
       "year": 2009,
@@ -7410,7 +7410,7 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "version": "AUD",
       "format": "",
-      "notes": "A-51TLs \u00b7 jim mimna"
+      "notes": "A-51TLs · jim mimna"
     },
     {
       "year": 2009,
@@ -7423,7 +7423,7 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "version": "AUD",
       "format": "",
-      "notes": "Beyerdynamic MC930 \u00b7 unk"
+      "notes": "Beyerdynamic MC930 · unk"
     },
     {
       "year": 2009,
@@ -7696,7 +7696,7 @@ const ARTIST_DATA = {
       "venue": "Massey Hall",
       "version": "AUD",
       "format": "",
-      "notes": "Roland R-05 \u00b7 burnboy"
+      "notes": "Roland R-05 · burnboy"
     },
     {
       "year": 2009,
@@ -7982,7 +7982,7 @@ const ARTIST_DATA = {
       "venue": "Wellmont Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Gefell M210s \u00b7 jon pasternak"
+      "notes": "Gefell M210s · jon pasternak"
     },
     {
       "year": 2010,
@@ -7995,7 +7995,7 @@ const ARTIST_DATA = {
       "venue": "Wellmont Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Sony ECM-719 \u00b7 unk"
+      "notes": "Sony ECM-719 · unk"
     },
     {
       "year": 2010,
@@ -8905,7 +8905,7 @@ const ARTIST_DATA = {
       "venue": "Riverside Theater",
       "version": "AUD",
       "format": "",
-      "notes": "Edirol R09 \u00b7 unk"
+      "notes": "Edirol R09 · unk"
     },
     {
       "year": 2011,
@@ -8918,7 +8918,7 @@ const ARTIST_DATA = {
       "venue": "Civic Opera House",
       "version": "AUD",
       "format": "",
-      "notes": "Edirol R09 \u00b7 unk"
+      "notes": "Edirol R09 · unk"
     },
     {
       "year": 2011,
@@ -8931,7 +8931,7 @@ const ARTIST_DATA = {
       "venue": "Riviera Theater",
       "version": "AUD",
       "format": "",
-      "notes": "CA-14 \u00b7 brian emerick"
+      "notes": "CA-14 · brian emerick"
     },
     {
       "year": 2011,
@@ -8944,7 +8944,7 @@ const ARTIST_DATA = {
       "venue": "Riviera Theater",
       "version": "AUD",
       "format": "",
-      "notes": "Earthworks SR77s \u00b7 gerald eaglebarger"
+      "notes": "Earthworks SR77s · gerald eaglebarger"
     },
     {
       "year": 2011,
@@ -8957,7 +8957,7 @@ const ARTIST_DATA = {
       "venue": "The Vic",
       "version": "AUD",
       "format": "",
-      "notes": "Neumann AK50 \u00b7 rob o'brien"
+      "notes": "Neumann AK50 · rob o'brien"
     },
     {
       "year": 2011,
@@ -8970,7 +8970,7 @@ const ARTIST_DATA = {
       "venue": "The Vic",
       "version": "AUD",
       "format": "",
-      "notes": "AKG 483 \u00b7 jeff frank"
+      "notes": "AKG 483 · jeff frank"
     },
     {
       "year": 2011,
@@ -8983,7 +8983,7 @@ const ARTIST_DATA = {
       "venue": "The Vic",
       "version": "AUD",
       "format": "",
-      "notes": "Earthworks SR77 \u00b7 gerald eaglebarger"
+      "notes": "Earthworks SR77 · gerald eaglebarger"
     },
     {
       "year": 2011,
@@ -8996,7 +8996,7 @@ const ARTIST_DATA = {
       "venue": "Metro",
       "version": "AUD",
       "format": "",
-      "notes": "Zoom H1 \u00b7 joshua sarner"
+      "notes": "Zoom H1 · joshua sarner"
     },
     {
       "year": 2011,
@@ -9009,7 +9009,7 @@ const ARTIST_DATA = {
       "venue": "Lincoln Hall",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps MK41s \u00b7 darktrain"
+      "notes": "Schoeps MK41s · darktrain"
     },
     {
       "year": 2012,
@@ -9074,7 +9074,7 @@ const ARTIST_DATA = {
       "venue": "Palladium",
       "version": "SBD",
       "format": "",
-      "notes": "M \u00b7 anonymous"
+      "notes": "M · anonymous"
     },
     {
       "year": 2012,
@@ -9087,7 +9087,7 @@ const ARTIST_DATA = {
       "venue": "The Wiltern Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "todd hudiluk \u00b7 pat myers mastering"
+      "notes": "todd hudiluk · pat myers mastering"
     },
     {
       "year": 2012,
@@ -9100,7 +9100,7 @@ const ARTIST_DATA = {
       "venue": "The Wiltern - DAT SBD + Telefunken ELA 260s",
       "version": "MIX",
       "format": "",
-      "notes": "M \u00b7 anonymous & todd hudiluk"
+      "notes": "M · anonymous & todd hudiluk"
     },
     {
       "year": 2012,
@@ -9113,7 +9113,7 @@ const ARTIST_DATA = {
       "venue": "Los Angeles Theatre",
       "version": "SBD",
       "format": "",
-      "notes": "M \u00b7 anonymous"
+      "notes": "M · anonymous"
     },
     {
       "year": 2012,
@@ -9204,7 +9204,7 @@ const ARTIST_DATA = {
       "venue": "Arlington Theatre",
       "version": "SBD",
       "format": "",
-      "notes": "M \u00b7 anonymous"
+      "notes": "M · anonymous"
     },
     {
       "year": 2012,
@@ -9425,7 +9425,7 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "version": "AUD",
       "format": "",
-      "notes": "Neumann AK40 \u00b7 phil rollins"
+      "notes": "Neumann AK40 · phil rollins"
     },
     {
       "year": 2012,
@@ -9438,7 +9438,7 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "version": "AUD",
       "format": "",
-      "notes": "BSC2-K1 \u00b7 j.r. ley"
+      "notes": "BSC2-K1 · j.r. ley"
     },
     {
       "year": 2012,
@@ -9542,7 +9542,7 @@ const ARTIST_DATA = {
       "venue": "Fifth Third Ballpark - Elfstrom Stadium",
       "version": "AUD",
       "format": "",
-      "notes": "Earthworks S77s \u00b7 gerald eaglebarger"
+      "notes": "Earthworks S77s · gerald eaglebarger"
     },
     {
       "year": 2012,
@@ -9555,7 +9555,7 @@ const ARTIST_DATA = {
       "venue": "Fifth Third Ballpark - Elfstrom Stadium",
       "version": "AUD",
       "format": "",
-      "notes": "AKG 481 \u00b7 jeff frank"
+      "notes": "AKG 481 · jeff frank"
     },
     {
       "year": 2012,
@@ -10088,7 +10088,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Bowl",
       "version": "AUD",
       "format": "",
-      "notes": "SP-CMC-25 \u00b7 robert mullen"
+      "notes": "SP-CMC-25 · robert mullen"
     },
     {
       "year": 2012,
@@ -10101,7 +10101,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Bowl",
       "version": "AUD",
       "format": "",
-      "notes": "CA-14 \u00b7 blg"
+      "notes": "CA-14 · blg"
     },
     {
       "year": 2012,
@@ -10114,7 +10114,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Bowl",
       "version": "AUD",
       "format": "",
-      "notes": "CA-14 \u00b7 blg upgrade"
+      "notes": "CA-14 · blg upgrade"
     },
     {
       "year": 2012,
@@ -10283,7 +10283,7 @@ const ARTIST_DATA = {
       "venue": "Zepp Diver City",
       "version": "AUD",
       "format": "",
-      "notes": "AKG C 568 \u00b7 1046"
+      "notes": "AKG C 568 · 1046"
     },
     {
       "year": 2013,
@@ -10296,7 +10296,7 @@ const ARTIST_DATA = {
       "venue": "Zepp Diver City",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4023 \u00b7 gaku taniguchi"
+      "notes": "DPA 4023 · gaku taniguchi"
     },
     {
       "year": 2013,
@@ -10309,7 +10309,7 @@ const ARTIST_DATA = {
       "venue": "Zepp Diver City",
       "version": "AUD",
       "format": "",
-      "notes": "Gefell M200 \u00b7 koji"
+      "notes": "Gefell M200 · koji"
     },
     {
       "year": 2013,
@@ -10322,7 +10322,7 @@ const ARTIST_DATA = {
       "venue": "Zepp Diver City",
       "version": "AUD",
       "format": "",
-      "notes": "MBHO 604/KA200 \u00b7 oira"
+      "notes": "MBHO 604/KA200 · oira"
     },
     {
       "year": 2013,
@@ -10335,7 +10335,7 @@ const ARTIST_DATA = {
       "venue": "Zepp Diver City",
       "version": "AUD",
       "format": "",
-      "notes": "Rode NT-2 \u00b7 yutaka enomoto"
+      "notes": "Rode NT-2 · yutaka enomoto"
     },
     {
       "year": 2013,
@@ -10348,7 +10348,7 @@ const ARTIST_DATA = {
       "venue": "Zepp Diver City",
       "version": "AUD",
       "format": "",
-      "notes": "Rode NT-4 \u00b7 watanabe satoshi"
+      "notes": "Rode NT-4 · watanabe satoshi"
     },
     {
       "year": 2013,
@@ -10374,7 +10374,7 @@ const ARTIST_DATA = {
       "venue": "Shibuya AX",
       "version": "AUD",
       "format": "",
-      "notes": "AKG C 568 \u00b7 1046"
+      "notes": "AKG C 568 · 1046"
     },
     {
       "year": 2013,
@@ -10387,7 +10387,7 @@ const ARTIST_DATA = {
       "venue": "Shibuya AX",
       "version": "AUD",
       "format": "",
-      "notes": "MBHO 604/KA200 \u00b7 oira"
+      "notes": "MBHO 604/KA200 · oira"
     },
     {
       "year": 2013,
@@ -10400,7 +10400,7 @@ const ARTIST_DATA = {
       "venue": "Shibuya AX",
       "version": "AUD",
       "format": "",
-      "notes": "Rode NT-2 \u00b7 yutaka enomoto"
+      "notes": "Rode NT-2 · yutaka enomoto"
     },
     {
       "year": 2013,
@@ -10868,7 +10868,7 @@ const ARTIST_DATA = {
       "venue": "The Capitol Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Busman BSC2/K11 \u00b7 mkdevo"
+      "notes": "Busman BSC2/K11 · mkdevo"
     },
     {
       "year": 2014,
@@ -10881,7 +10881,7 @@ const ARTIST_DATA = {
       "venue": "The Capitol Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4023 \u00b7 george wang"
+      "notes": "DPA 4023 · george wang"
     },
     {
       "year": 2014,
@@ -10894,7 +10894,7 @@ const ARTIST_DATA = {
       "venue": "The Capitol Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Gefell M210s \u00b7 jon pasternak"
+      "notes": "Gefell M210s · jon pasternak"
     },
     {
       "year": 2014,
@@ -11375,7 +11375,7 @@ const ARTIST_DATA = {
       "venue": "Greek Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4060s \u00b7 mh"
+      "notes": "DPA 4060s · mh"
     },
     {
       "year": 2015,
@@ -11414,7 +11414,7 @@ const ARTIST_DATA = {
       "venue": "The Independent",
       "version": "SBD",
       "format": "",
-      "notes": "Notorious Wilco Brothers \u00b7 Roadcase 049"
+      "notes": "Notorious Wilco Brothers · Roadcase 049"
     },
     {
       "year": 2015,
@@ -11648,7 +11648,7 @@ const ARTIST_DATA = {
       "venue": "The Capitol Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Newmann KM184 \u00b7 john bosco"
+      "notes": "Newmann KM184 · john bosco"
     },
     {
       "year": 2016,
@@ -11661,7 +11661,7 @@ const ARTIST_DATA = {
       "venue": "The Capitol Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Gefell M210s \u00b7 jon pasternak"
+      "notes": "Gefell M210s · jon pasternak"
     },
     {
       "year": 2016,
@@ -11882,7 +11882,7 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Tascam DR-07 \u00b7 shane e. calhoon"
+      "notes": "Tascam DR-07 · shane e. calhoon"
     },
     {
       "year": 2016,
@@ -11921,7 +11921,7 @@ const ARTIST_DATA = {
       "venue": "Jay Pritzker Pavilion Millenium Park",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps CCM4s \u00b7 blg mastering"
+      "notes": "Schoeps CCM4s · blg mastering"
     },
     {
       "year": 2016,
@@ -11986,7 +11986,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps CCM4s \u00b7 blg mastering"
+      "notes": "Schoeps CCM4s · blg mastering"
     },
     {
       "year": 2016,
@@ -12012,7 +12012,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps CCM4s \u00b7 unk"
+      "notes": "Schoeps CCM4s · unk"
     },
     {
       "year": 2016,
@@ -12038,7 +12038,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps CCM4s \u00b7 blg mastering"
+      "notes": "Schoeps CCM4s · blg mastering"
     },
     {
       "year": 2016,
@@ -12103,7 +12103,7 @@ const ARTIST_DATA = {
       "venue": "Mountain Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps CCM4s \u00b7 blg mastering"
+      "notes": "Schoeps CCM4s · blg mastering"
     },
     {
       "year": 2016,
@@ -12883,7 +12883,7 @@ const ARTIST_DATA = {
       "venue": "Budweiser Stage  Rec 1",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 burnboy"
+      "notes": "CSB · burnboy"
     },
     {
       "year": 2019,
@@ -12896,7 +12896,7 @@ const ARTIST_DATA = {
       "venue": "Budweiser Stage  Rec 2",
       "version": "AUD",
       "format": "",
-      "notes": "SP-CMC-8 \u00b7 burnboy"
+      "notes": "SP-CMC-8 · burnboy"
     },
     {
       "year": 2019,
@@ -12974,7 +12974,7 @@ const ARTIST_DATA = {
       "venue": "The Pavilion at Toyota Music Factory",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4061 \u00b7 v4tx"
+      "notes": "DPA 4061 · v4tx"
     },
     {
       "year": 2019,
@@ -13000,7 +13000,7 @@ const ARTIST_DATA = {
       "venue": "The Fox Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "SP-CMC-1 \u00b7 shane e. calhoon"
+      "notes": "SP-CMC-1 · shane e. calhoon"
     },
     {
       "year": 2019,
@@ -13091,7 +13091,7 @@ const ARTIST_DATA = {
       "venue": "Chicago Theater",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4060 \u00b7 pieteker"
+      "notes": "DPA 4060 · pieteker"
     },
     {
       "year": 2019,
@@ -13247,7 +13247,7 @@ const ARTIST_DATA = {
       "venue": "First Interstate Center",
       "version": "AUD (48k)",
       "format": "",
-      "notes": "DPA MMA-A \u00b7 nick71"
+      "notes": "DPA MMA-A · nick71"
     },
     {
       "year": 2021,
@@ -13273,7 +13273,7 @@ const ARTIST_DATA = {
       "venue": "Saint Louis Music Park",
       "version": "AUD",
       "format": "",
-      "notes": "Sony PCM-A10 \u00b7 shane e. calhoon"
+      "notes": "Sony PCM-A10 · shane e. calhoon"
     },
     {
       "year": 2021,
@@ -13286,7 +13286,7 @@ const ARTIST_DATA = {
       "venue": "Cadence Bank Amphitheatre at Chastain Park",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4061 \u00b7 mardon"
+      "notes": "DPA 4061 · mardon"
     },
     {
       "year": 2021,
@@ -13312,7 +13312,7 @@ const ARTIST_DATA = {
       "venue": "Thompson's Point",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps MK4V \u00b7 jim kelly"
+      "notes": "Schoeps MK4V · jim kelly"
     },
     {
       "year": 2021,
@@ -13325,7 +13325,7 @@ const ARTIST_DATA = {
       "venue": "State Theater",
       "version": "AUD",
       "format": "",
-      "notes": "CA-11 \u00b7 unk"
+      "notes": "CA-11 · unk"
     },
     {
       "year": 2021,
@@ -13364,7 +13364,7 @@ const ARTIST_DATA = {
       "venue": "Oxbow RiverStage",
       "version": "AUD",
       "format": "",
-      "notes": "CA-11 \u00b7 ron covall"
+      "notes": "CA-11 · ron covall"
     },
     {
       "year": 2021,
@@ -13377,7 +13377,7 @@ const ARTIST_DATA = {
       "venue": "San Jose Civic Center",
       "version": "AUD",
       "format": "",
-      "notes": "CA-11 \u00b7 unk"
+      "notes": "CA-11 · unk"
     },
     {
       "year": 2021,
@@ -13390,7 +13390,7 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "version": "AUD (48k)",
       "format": "",
-      "notes": "Schoeps CCM4 \u00b7 unk"
+      "notes": "Schoeps CCM4 · unk"
     },
     {
       "year": 2021,
@@ -13403,7 +13403,7 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "CA-11 \u00b7 unk"
+      "notes": "CA-11 · unk"
     },
     {
       "year": 2021,
@@ -13416,7 +13416,7 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "version": "AUD (48k)",
       "format": "",
-      "notes": "Schoeps CCM4 \u00b7 unk"
+      "notes": "Schoeps CCM4 · unk"
     },
     {
       "year": 2021,
@@ -13429,7 +13429,7 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps MK41s \u00b7 ed davis"
+      "notes": "Schoeps MK41s · ed davis"
     },
     {
       "year": 2022,
@@ -13481,7 +13481,7 @@ const ARTIST_DATA = {
       "venue": "Auditorium Theater",
       "version": "AUD",
       "format": "",
-      "notes": "CA-11s \u00b7 unk"
+      "notes": "CA-11s · unk"
     },
     {
       "year": 2022,
@@ -13494,7 +13494,7 @@ const ARTIST_DATA = {
       "venue": "Auditorium Theater",
       "version": "AUD",
       "format": "",
-      "notes": "CA-11s \u00b7 unk"
+      "notes": "CA-11s · unk"
     },
     {
       "year": 2022,
@@ -13507,7 +13507,7 @@ const ARTIST_DATA = {
       "venue": "Joe's Field MASS MoCa",
       "version": "AUD",
       "format": "",
-      "notes": "CA-11 \u00b7 manofstealth"
+      "notes": "CA-11 · manofstealth"
     },
     {
       "year": 2022,
@@ -13520,7 +13520,7 @@ const ARTIST_DATA = {
       "venue": "MASS MoCA",
       "version": "MIX",
       "format": "",
-      "notes": "Schoeps MK4V + CA-11 \u00b7 jim kelly + manofstealth"
+      "notes": "Schoeps MK4V + CA-11 · jim kelly + manofstealth"
     },
     {
       "year": 2022,
@@ -13546,7 +13546,7 @@ const ARTIST_DATA = {
       "venue": "MASS MoCA - Joe's Field",
       "version": "AUD",
       "format": "",
-      "notes": "Schoeps MK4V \u00b7 jim kelly"
+      "notes": "Schoeps MK4V · jim kelly"
     },
     {
       "year": 2022,
@@ -13585,7 +13585,7 @@ const ARTIST_DATA = {
       "venue": "Auditorio Kursaal",
       "version": "AUD",
       "format": "",
-      "notes": "unk \u00b7 unaesfingelunar"
+      "notes": "unk · unaesfingelunar"
     },
     {
       "year": 2022,
@@ -13598,7 +13598,7 @@ const ARTIST_DATA = {
       "venue": "Budweiser Stage  Rec 1",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 burnboy"
+      "notes": "CSB · burnboy"
     },
     {
       "year": 2022,
@@ -13611,7 +13611,7 @@ const ARTIST_DATA = {
       "venue": "Budweiser Stage  Rec 2",
       "version": "AUD",
       "format": "",
-      "notes": "SP-CMC-8 \u00b7 burnboy"
+      "notes": "SP-CMC-8 · burnboy"
     },
     {
       "year": 2022,
@@ -13637,7 +13637,7 @@ const ARTIST_DATA = {
       "venue": "Beach Road Festival",
       "version": "AUD",
       "format": "",
-      "notes": "AT853 \u00b7 unk"
+      "notes": "AT853 · unk"
     },
     {
       "year": 2022,
@@ -13663,7 +13663,7 @@ const ARTIST_DATA = {
       "venue": "Santa Fe Opera House",
       "version": "AUD",
       "format": "",
-      "notes": "CSBs \u00b7 royboy"
+      "notes": "CSBs · royboy"
     },
     {
       "year": 2022,
@@ -13676,7 +13676,7 @@ const ARTIST_DATA = {
       "venue": "Queen Elizabeth Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "iPhone \u00b7 chris lawrence"
+      "notes": "iPhone · chris lawrence"
     },
     {
       "year": 2022,
@@ -13715,7 +13715,7 @@ const ARTIST_DATA = {
       "venue": "Riviera Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4060 \u00b7 ademotte"
+      "notes": "DPA 4060 · ademotte"
     },
     {
       "year": 2023,
@@ -13728,7 +13728,7 @@ const ARTIST_DATA = {
       "venue": "Riviera Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4060 \u00b7 ademotte"
+      "notes": "DPA 4060 · ademotte"
     },
     {
       "year": 2023,
@@ -13741,7 +13741,7 @@ const ARTIST_DATA = {
       "venue": "Capitol Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Shure MV88 \u00b7 kp"
+      "notes": "Shure MV88 · kp"
     },
     {
       "year": 2023,
@@ -13754,7 +13754,7 @@ const ARTIST_DATA = {
       "venue": "Eldborg Hall",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 oecourt"
+      "notes": "CSB · oecourt"
     },
     {
       "year": 2023,
@@ -13767,7 +13767,7 @@ const ARTIST_DATA = {
       "venue": "Eldborg Hall - Harpa",
       "version": "MIX",
       "format": "",
-      "notes": "Concert Shure MV88+Sennheiser Ambeo-Smart \u00b7 km"
+      "notes": "Concert Shure MV88+Sennheiser Ambeo-Smart · km"
     },
     {
       "year": 2023,
@@ -13793,7 +13793,7 @@ const ARTIST_DATA = {
       "venue": "Eldborg Hall",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 oecourt"
+      "notes": "CSB · oecourt"
     },
     {
       "year": 2023,
@@ -13819,7 +13819,7 @@ const ARTIST_DATA = {
       "venue": "Island",
       "version": "AUD",
       "format": "",
-      "notes": "Shure MV88+Sennheiser Ambeo-Smart Headset \u00b7 km"
+      "notes": "Shure MV88+Sennheiser Ambeo-Smart Headset · km"
     },
     {
       "year": 2023,
@@ -13832,7 +13832,7 @@ const ARTIST_DATA = {
       "venue": "Eldborg Hall",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 oecourt"
+      "notes": "CSB · oecourt"
     },
     {
       "year": 2023,
@@ -13871,7 +13871,7 @@ const ARTIST_DATA = {
       "venue": "Le Bikini",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 oecourt"
+      "notes": "CSB · oecourt"
     },
     {
       "year": 2023,
@@ -13884,7 +13884,7 @@ const ARTIST_DATA = {
       "venue": "Acieloaperto Festival",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 oecourt"
+      "notes": "CSB · oecourt"
     },
     {
       "year": 2023,
@@ -13897,7 +13897,7 @@ const ARTIST_DATA = {
       "venue": "sPAZIO 211",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 oecourt"
+      "notes": "CSB · oecourt"
     },
     {
       "year": 2023,
@@ -13910,7 +13910,7 @@ const ARTIST_DATA = {
       "venue": "Utrecht",
       "version": "AUD",
       "format": "",
-      "notes": "Soundman OKM II \u00b7 everybodys-trading.org"
+      "notes": "Soundman OKM II · everybodys-trading.org"
     },
     {
       "year": 2023,
@@ -13923,7 +13923,7 @@ const ARTIST_DATA = {
       "venue": "TivoliVredenburg Ronda",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 oecourt"
+      "notes": "CSB · oecourt"
     },
     {
       "year": 2023,
@@ -13936,7 +13936,7 @@ const ARTIST_DATA = {
       "venue": "Utrecht",
       "version": "AUD",
       "format": "",
-      "notes": "Edirol R-09HR \u00b7 everybodys-trading.org"
+      "notes": "Edirol R-09HR · everybodys-trading.org"
     },
     {
       "year": 2023,
@@ -13949,7 +13949,7 @@ const ARTIST_DATA = {
       "venue": "Utrecht",
       "version": "AUD",
       "format": "",
-      "notes": "Soundman OKM II \u00b7 everybodys-trading.org"
+      "notes": "Soundman OKM II · everybodys-trading.org"
     },
     {
       "year": 2023,
@@ -13962,7 +13962,7 @@ const ARTIST_DATA = {
       "venue": "TivoliVredenburg Ronda",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 oecourt"
+      "notes": "CSB · oecourt"
     },
     {
       "year": 2023,
@@ -13975,7 +13975,7 @@ const ARTIST_DATA = {
       "venue": "O2 Forum",
       "version": "AUD",
       "format": "",
-      "notes": "Nokia Lumia 930 \u00b7 kiwichrisha"
+      "notes": "Nokia Lumia 930 · kiwichrisha"
     },
     {
       "year": 2023,
@@ -13988,7 +13988,7 @@ const ARTIST_DATA = {
       "venue": "Usher Hall",
       "version": "AUD",
       "format": "",
-      "notes": "CA11s \u00b7 pennyghael"
+      "notes": "CA11s · pennyghael"
     },
     {
       "year": 2023,
@@ -14001,7 +14001,7 @@ const ARTIST_DATA = {
       "venue": "Moseley Folk Festival",
       "version": "AUD",
       "format": "",
-      "notes": "Sennheisser AMBEO \u00b7 thriftynomad"
+      "notes": "Sennheisser AMBEO · thriftynomad"
     },
     {
       "year": 2023,
@@ -14014,7 +14014,7 @@ const ARTIST_DATA = {
       "venue": "The Theatre at Ace Hotel",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4060 \u00b7 ademotte"
+      "notes": "DPA 4060 · ademotte"
     },
     {
       "year": 2023,
@@ -14027,7 +14027,7 @@ const ARTIST_DATA = {
       "venue": "Greek Theater",
       "version": "AUD",
       "format": "",
-      "notes": "CA-14s \u00b7 vortexzephyr"
+      "notes": "CA-14s · vortexzephyr"
     },
     {
       "year": 2023,
@@ -14040,7 +14040,7 @@ const ARTIST_DATA = {
       "venue": "Greek Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Nokia Lumia 930 \u00b7 eckythump"
+      "notes": "Nokia Lumia 930 · eckythump"
     },
     {
       "year": 2023,
@@ -14079,7 +14079,7 @@ const ARTIST_DATA = {
       "venue": "Canberra Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Nokia Lumia 930 \u00b7 eckythump"
+      "notes": "Nokia Lumia 930 · eckythump"
     },
     {
       "year": 2024,
@@ -14092,7 +14092,7 @@ const ARTIST_DATA = {
       "venue": "Forum Melbourne",
       "version": "AUD",
       "format": "",
-      "notes": "Nokia Lumia 930 \u00b7 eckythump"
+      "notes": "Nokia Lumia 930 · eckythump"
     },
     {
       "year": 2024,
@@ -14105,7 +14105,7 @@ const ARTIST_DATA = {
       "venue": "Forum Melbourne",
       "version": "AUD",
       "format": "",
-      "notes": "Nokia Lumia 930 \u00b7 eckythump"
+      "notes": "Nokia Lumia 930 · eckythump"
     },
     {
       "year": 2024,
@@ -14118,7 +14118,7 @@ const ARTIST_DATA = {
       "venue": "Forum Melbourne",
       "version": "SBD",
       "format": "",
-      "notes": "Nokia Lumia 930 \u00b7 eckythump"
+      "notes": "Nokia Lumia 930 · eckythump"
     },
     {
       "year": 2024,
@@ -14131,7 +14131,7 @@ const ARTIST_DATA = {
       "venue": "Concert Hall - Sydney Opera House",
       "version": "AUD",
       "format": "",
-      "notes": "Nokia Lumia 930 \u00b7 eckythump"
+      "notes": "Nokia Lumia 930 · eckythump"
     },
     {
       "year": 2024,
@@ -14144,7 +14144,7 @@ const ARTIST_DATA = {
       "venue": "Enmore Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "Nokia Lumia 930 \u00b7 eckythump"
+      "notes": "Nokia Lumia 930 · eckythump"
     },
     {
       "year": 2024,
@@ -14157,7 +14157,7 @@ const ARTIST_DATA = {
       "venue": "The Fairgrounds at the Salt Shed",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4060 \u00b7 ademotte"
+      "notes": "DPA 4060 · ademotte"
     },
     {
       "year": 2024,
@@ -14170,7 +14170,7 @@ const ARTIST_DATA = {
       "venue": "The Fairgrounds at the Salt Shed",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4060 \u00b7 unk"
+      "notes": "DPA 4060 · unk"
     },
     {
       "year": 2024,
@@ -14183,7 +14183,7 @@ const ARTIST_DATA = {
       "venue": "The Fairgrounds at the Salt Shed",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4060 \u00b7 ademotte"
+      "notes": "DPA 4060 · ademotte"
     },
     {
       "year": 2024,
@@ -14196,7 +14196,7 @@ const ARTIST_DATA = {
       "venue": "The Fairgrounds at the Salt Shed",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4060 \u00b7 unk"
+      "notes": "DPA 4060 · unk"
     },
     {
       "year": 2024,
@@ -14209,7 +14209,7 @@ const ARTIST_DATA = {
       "venue": "Filene Center at Wolf Trap",
       "version": "AUD",
       "format": "",
-      "notes": "Sony PCM-A10 \u00b7 bzl."
+      "notes": "Sony PCM-A10 · bzl."
     },
     {
       "year": 2024,
@@ -14248,7 +14248,7 @@ const ARTIST_DATA = {
       "venue": "Joe's Field MASS MoCA",
       "version": "MIX",
       "format": "",
-      "notes": "Schoeps MK4V + SP-BMC-12 \u00b7 jim kelly + manofstealth"
+      "notes": "Schoeps MK4V + SP-BMC-12 · jim kelly + manofstealth"
     },
     {
       "year": 2024,
@@ -14261,7 +14261,7 @@ const ARTIST_DATA = {
       "venue": "Massey Hall",
       "version": "AUD",
       "format": "",
-      "notes": "Rec 1 \u00b7 burnboy"
+      "notes": "Rec 1 · burnboy"
     },
     {
       "year": 2024,
@@ -14274,7 +14274,7 @@ const ARTIST_DATA = {
       "venue": "Massey Hall",
       "version": "AUD",
       "format": "",
-      "notes": "Rec 2 \u00b7 burnboy"
+      "notes": "Rec 2 · burnboy"
     },
     {
       "year": 2024,
@@ -14287,7 +14287,7 @@ const ARTIST_DATA = {
       "venue": "Massey Hall",
       "version": "AUD",
       "format": "",
-      "notes": "Rec 1 \u00b7 burnboy"
+      "notes": "Rec 1 · burnboy"
     },
     {
       "year": 2024,
@@ -14300,7 +14300,7 @@ const ARTIST_DATA = {
       "venue": "Massey Hall",
       "version": "AUD",
       "format": "",
-      "notes": "Rec 2 \u00b7 burnboy"
+      "notes": "Rec 2 · burnboy"
     },
     {
       "year": 2024,
@@ -14326,7 +14326,7 @@ const ARTIST_DATA = {
       "venue": "Austin City Limits - Moody Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "SP-CMC-8 \u00b7 fried_morals"
+      "notes": "SP-CMC-8 · fried_morals"
     },
     {
       "year": 2024,
@@ -14365,7 +14365,7 @@ const ARTIST_DATA = {
       "venue": "Austin City Limits - Moody Theatre",
       "version": "AUD",
       "format": "",
-      "notes": "SP-CMC-8 \u00b7 fried_morals"
+      "notes": "SP-CMC-8 · fried_morals"
     },
     {
       "year": 2025,
@@ -14378,7 +14378,7 @@ const ARTIST_DATA = {
       "venue": "Fillmore",
       "version": "AUD",
       "format": "",
-      "notes": "unk \u00b7 pixlpiner34"
+      "notes": "unk · pixlpiner34"
     },
     {
       "year": 2025,
@@ -14404,7 +14404,7 @@ const ARTIST_DATA = {
       "venue": "OLT Rivierenhof",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 unk"
+      "notes": "CSB · unk"
     },
     {
       "year": 2025,
@@ -14417,7 +14417,7 @@ const ARTIST_DATA = {
       "venue": "OLT Rivierenhof",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 unk"
+      "notes": "CSB · unk"
     },
     {
       "year": 2025,
@@ -14430,7 +14430,7 @@ const ARTIST_DATA = {
       "venue": "Rathausplatz",
       "version": "AUD",
       "format": "",
-      "notes": "CSB \u00b7 unk"
+      "notes": "CSB · unk"
     },
     {
       "year": 2025,
@@ -14456,7 +14456,7 @@ const ARTIST_DATA = {
       "venue": "Junkyard",
       "version": "AUD",
       "format": "",
-      "notes": "SP-CMC-4Us \u00b7 johnnyinthebasement"
+      "notes": "SP-CMC-4Us · johnnyinthebasement"
     },
     {
       "year": 2025,
@@ -14469,7 +14469,7 @@ const ARTIST_DATA = {
       "venue": "Alma Festival",
       "version": "AUD",
       "format": "",
-      "notes": "Line Audio CM4 \u00b7 pata63"
+      "notes": "Line Audio CM4 · pata63"
     },
     {
       "year": 2025,
@@ -14482,7 +14482,7 @@ const ARTIST_DATA = {
       "venue": "The Salt Shed",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4060 \u00b7 unk"
+      "notes": "DPA 4060 · unk"
     },
     {
       "year": 2025,
@@ -14495,7 +14495,7 @@ const ARTIST_DATA = {
       "venue": "Gerald R. Ford Amphitheatre",
       "version": "AUD",
       "format": "",
-      "notes": "SP-BMC-12 \u00b7 boyroy"
+      "notes": "SP-BMC-12 · boyroy"
     },
     {
       "year": 2025,
@@ -14508,7 +14508,7 @@ const ARTIST_DATA = {
       "venue": "Ogden Amphitheater",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4061 \u00b7 opsopcopolis"
+      "notes": "DPA 4061 · opsopcopolis"
     },
     {
       "year": 2025,
@@ -14521,7 +14521,7 @@ const ARTIST_DATA = {
       "venue": "Woodland Park Zoo",
       "version": "AUD",
       "format": "",
-      "notes": "iPhone 7 \u00b7 chris lawrence"
+      "notes": "iPhone 7 · chris lawrence"
     },
     {
       "year": 2025,
@@ -14534,7 +14534,7 @@ const ARTIST_DATA = {
       "venue": "Woodland Park Zoo",
       "version": "AUD",
       "format": "",
-      "notes": "iPhone 7 \u00b7 chris lawrence"
+      "notes": "iPhone 7 · chris lawrence"
     },
     {
       "year": 2026,
@@ -14547,7 +14547,7 @@ const ARTIST_DATA = {
       "venue": "Clyde Theater",
       "version": "AUD",
       "format": "",
-      "notes": "DPA 4061 \u00b7 robotaper"
+      "notes": "DPA 4061 · robotaper"
     },
     {
       "year": 1995,
@@ -14781,7 +14781,7 @@ const ARTIST_DATA = {
       "venue": "Tribeca Performing Arts Center",
       "version": "SBD",
       "format": "",
-      "notes": "Tweedy \u00b7 FOH Series"
+      "notes": "Tweedy · FOH Series"
     },
     {
       "year": 2006,
@@ -14794,7 +14794,7 @@ const ARTIST_DATA = {
       "venue": "Henry Fonda Theater",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 FOH Series"
+      "notes": "Jeff Tweedy · FOH Series"
     },
     {
       "year": 2006,
@@ -14976,7 +14976,7 @@ const ARTIST_DATA = {
       "venue": "Kingsbury Hall",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 FOH Series"
+      "notes": "Jeff Tweedy · FOH Series"
     },
     {
       "year": 2015,
@@ -15379,7 +15379,7 @@ const ARTIST_DATA = {
       "venue": "Largo at the Coronet",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 024"
+      "notes": "Jeff Tweedy · 024"
     },
     {
       "year": 2013,
@@ -15392,7 +15392,7 @@ const ARTIST_DATA = {
       "venue": "Largo at the Coronet",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 025"
+      "notes": "Jeff Tweedy · 025"
     },
     {
       "year": 2013,
@@ -15405,7 +15405,7 @@ const ARTIST_DATA = {
       "venue": "Largo at the Coronet",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 026"
+      "notes": "Jeff Tweedy · 026"
     },
     {
       "year": 2013,
@@ -15444,7 +15444,7 @@ const ARTIST_DATA = {
       "venue": "Paramount Theatre",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 029"
+      "notes": "Jeff Tweedy · 029"
     },
     {
       "year": 2013,
@@ -15457,7 +15457,7 @@ const ARTIST_DATA = {
       "venue": "Uptown Theatre",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 030"
+      "notes": "Jeff Tweedy · 030"
     },
     {
       "year": 2014,
@@ -15509,7 +15509,7 @@ const ARTIST_DATA = {
       "venue": "Lincoln Theatre",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 034"
+      "notes": "Jeff Tweedy · 034"
     },
     {
       "year": 2013,
@@ -15704,7 +15704,7 @@ const ARTIST_DATA = {
       "venue": "The Independent",
       "version": "SBD",
       "format": "",
-      "notes": "Notorious Wilco Brothers \u00b7 049"
+      "notes": "Notorious Wilco Brothers · 049"
     },
     {
       "year": 2015,
@@ -15925,7 +15925,7 @@ const ARTIST_DATA = {
       "venue": "Solid Sound Festival",
       "version": "SBD",
       "format": "",
-      "notes": "Tweedy & Friends \u00b7 066"
+      "notes": "Tweedy & Friends · 066"
     },
     {
       "year": 2017,
@@ -15977,7 +15977,7 @@ const ARTIST_DATA = {
       "venue": "The Theatre At Ace Hotel",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 071"
+      "notes": "Jeff Tweedy · 071"
     },
     {
       "year": 2019,
@@ -15990,7 +15990,7 @@ const ARTIST_DATA = {
       "venue": "The Pageant",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 072"
+      "notes": "Jeff Tweedy · 072"
     },
     {
       "year": 2019,
@@ -16003,7 +16003,7 @@ const ARTIST_DATA = {
       "venue": "The Vic",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 073"
+      "notes": "Jeff Tweedy · 073"
     },
     {
       "year": 2019,
@@ -16016,7 +16016,7 @@ const ARTIST_DATA = {
       "venue": "The Vic",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 074"
+      "notes": "Jeff Tweedy · 074"
     },
     {
       "year": 2019,
@@ -16198,7 +16198,7 @@ const ARTIST_DATA = {
       "venue": "The Powerhouse",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 087"
+      "notes": "Jeff Tweedy · 087"
     },
     {
       "year": 2020,
@@ -16341,7 +16341,7 @@ const ARTIST_DATA = {
       "venue": "Solid Sound Festival",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 098"
+      "notes": "Jeff Tweedy · 098"
     },
     {
       "year": 2022,
@@ -16419,7 +16419,7 @@ const ARTIST_DATA = {
       "venue": "Solid Sound Festival",
       "version": "SBD",
       "format": "",
-      "notes": "Jeff Tweedy \u00b7 104"
+      "notes": "Jeff Tweedy · 104"
     },
     {
       "year": 2024,
@@ -16533,2134 +16533,6 @@ const ARTIST_DATA = {
       "type": "release",
       "label": "Wilco - Live at The Troubadour L.A. 1996 {R1-566246} (24-96)",
       "version": "Vinyl"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL RELEASES]"
-    },
-    {
-      "type": "label",
-      "label": "Wilco - The Wilco Book (2004)"
-    },
-    {
-      "type": "release",
-      "label": "Wilco - Speak Into The Rose (2011)",
-      "version": "Vinyl"
-    },
-    {
-      "type": "label",
-      "label": "Wilco - The Capitol Theater 2014 (2021)"
-    },
-    {
-      "type": "label",
-      "label": "Wilco - A Ghost Is Born (075597899016) (Deluxe Edition) (2025)"
-    },
-    {
-      "type": "label",
-      "label": "I Am Trying to Break Your Heart - A Film About Wilco (2002)"
-    },
-    {
-      "type": "label",
-      "label": "[SINGLES]"
-    },
-    {
-      "type": "label",
-      "label": "Wilco - Box Full of Letters (CDS) {W0306CD} (1995)"
-    },
-    {
-      "type": "label",
-      "label": "Wilco - Monday (CDS) {PRO-CD-8443} (1997)"
-    },
-    {
-      "type": "label",
-      "label": "Wilco - Can't Stand It (CDS) {W475CD1} (1999)"
-    },
-    {
-      "type": "label",
-      "label": "Wilco - Can't Stand It (CDS) {W475CD2} (1999)"
-    },
-    {
-      "type": "label",
-      "label": "Wilco - A Shot in the Arm (CDS) {W496CD1} (1999)"
-    },
-    {
-      "type": "label",
-      "label": "Wilco - War on War (CDS) {75597 96402-8} (2002)"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL BOOTLEGS]"
-    },
-    {
-      "type": "label",
-      "label": "\"Front of House Series\""
-    },
-    {
-      "type": "show",
-      "dateStr": "10-25-1995",
-      "year": 1995,
-      "month": 10,
-      "day": 25,
-      "city": "Hoboken",
-      "state": "NJ",
-      "location": "Hoboken, NJ",
-      "venue": "Live at Maxwell's",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "11-5-1996",
-      "year": 1996,
-      "month": 11,
-      "day": 5,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Liberty Lunch",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "5-31-1997",
-      "year": 1997,
-      "month": 5,
-      "day": 31,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Embarcadero Stage at Justin Herman Park",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-6-1998",
-      "year": 1998,
-      "month": 9,
-      "day": 6,
-      "city": "Toledo",
-      "state": "OH",
-      "location": "Toledo, OH",
-      "venue": "Promenade Park",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "3-27-1999",
-      "year": 1999,
-      "month": 3,
-      "day": 27,
-      "city": "London",
-      "state": "UK",
-      "location": "London, UK",
-      "venue": "Shepherd's Bush Empire",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "5-20-1999",
-      "year": 1999,
-      "month": 5,
-      "day": 20,
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "King Cat Theatre",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "8-31-1999",
-      "year": 1999,
-      "month": 8,
-      "day": 31,
-      "city": "St. Petersburg",
-      "state": "FL",
-      "location": "St. Petersburg, FL",
-      "venue": "Jannus Landing",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-3-2001",
-      "year": 2001,
-      "month": 12,
-      "day": 3,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Fillmore",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "3-16-2002",
-      "year": 2002,
-      "month": 3,
-      "day": 16,
-      "city": "Los Angeles",
-      "state": "CA - All Tomorrow's Parties - Royce Hall (FOH Series)",
-      "location": "Los Angeles, CA - All Tomorrow's Parties - Royce Hall (FOH Series)",
-      "venue": "",
-      "notes": "",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "7-31-2002",
-      "year": 2002,
-      "month": 7,
-      "day": 31,
-      "city": "Madison",
-      "state": "WI",
-      "location": "Madison, WI",
-      "venue": "The Orpheum Theatre",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-21-2003",
-      "year": 2003,
-      "month": 6,
-      "day": 21,
-      "city": "Pittsburgh",
-      "state": "PA",
-      "location": "Pittsburgh, PA",
-      "venue": "Three River Arts Festival",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-28-2003",
-      "year": 2003,
-      "month": 6,
-      "day": 28,
-      "city": "Philadelphia",
-      "state": "PA",
-      "location": "Philadelphia, PA",
-      "venue": "Festival Pier at Penn's Landing",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "7-3-2003",
-      "year": 2003,
-      "month": 7,
-      "day": 3,
-      "city": "Camden",
-      "state": "ME",
-      "location": "Camden, ME",
-      "venue": "Camden Opera House",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-4-2003",
-      "year": 2003,
-      "month": 9,
-      "day": 4,
-      "city": "Eugene",
-      "state": "OR",
-      "location": "Eugene, OR",
-      "venue": "McDonald Theatre",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "5-20-2004",
-      "year": 2004,
-      "month": 5,
-      "day": 20,
-      "city": "DeKalb",
-      "state": "IL",
-      "location": "DeKalb, IL",
-      "venue": "Otto's",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-31-2004",
-      "year": 2004,
-      "month": 12,
-      "day": 31,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Madison Square Garden",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-8-2005",
-      "year": 2005,
-      "month": 9,
-      "day": 8,
-      "city": "Cologne",
-      "state": "DE",
-      "location": "Cologne, DE",
-      "venue": "Live Music Hall",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "11-17-2005",
-      "year": 2005,
-      "month": 11,
-      "day": 17,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Tribeca Performing Arts Center",
-      "notes": "Tweedy \u00b7 FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "2-13-2006",
-      "year": 2006,
-      "month": 2,
-      "day": 13,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Henry Fonda Theater",
-      "notes": "Jeff Tweedy \u00b7 FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "7-13-2006",
-      "year": 2006,
-      "month": 7,
-      "day": 13,
-      "city": "Fredericton",
-      "state": "NB",
-      "location": "Fredericton, NB",
-      "venue": "The Playhouse",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-22-2007",
-      "year": 2007,
-      "month": 6,
-      "day": 22,
-      "city": "Red Bank",
-      "state": "NJ",
-      "location": "Red Bank, NJ",
-      "venue": "Count Basie Theatre",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "2-23-2008",
-      "year": 2008,
-      "month": 2,
-      "day": 23,
-      "city": "Upper Darby",
-      "state": "PA",
-      "location": "Upper Darby, PA",
-      "venue": "Tower Theater",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "3-8-2008",
-      "year": 2008,
-      "month": 3,
-      "day": 8,
-      "city": "Tulsa",
-      "state": "OK",
-      "location": "Tulsa, OK",
-      "venue": "Cain's Ballroom",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "3-9-2008",
-      "year": 2008,
-      "month": 3,
-      "day": 9,
-      "city": "Des Moines",
-      "state": "IA",
-      "location": "Des Moines, IA",
-      "venue": "Val Air Ballroom",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "4-16-2009",
-      "year": 2009,
-      "month": 4,
-      "day": 16,
-      "city": "Bloomington",
-      "state": "IN",
-      "location": "Bloomington, IN",
-      "venue": "IU Auditorium",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "7-21-2009",
-      "year": 2009,
-      "month": 7,
-      "day": 21,
-      "city": "Royal Oak",
-      "state": "MI",
-      "location": "Royal Oak, MI",
-      "venue": "Royal Oak Theatre",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "2-12-2010",
-      "year": 2010,
-      "month": 2,
-      "day": 12,
-      "city": "Victoria",
-      "state": "BC",
-      "location": "Victoria, BC",
-      "venue": "Royal Theatre",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "4-2-2010",
-      "year": 2010,
-      "month": 4,
-      "day": 2,
-      "city": "Montclair",
-      "state": "NJ",
-      "location": "Montclair, NJ",
-      "venue": "Wellmont Theatre",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "4-3-2010",
-      "year": 2010,
-      "month": 4,
-      "day": 3,
-      "city": "Montclair",
-      "state": "NJ",
-      "location": "Montclair, NJ",
-      "venue": "Wellmont Theatre",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "11-7-2011",
-      "year": 2011,
-      "month": 11,
-      "day": 7,
-      "city": "Basel",
-      "state": "SWI",
-      "location": "Basel, SWI",
-      "venue": "Kaserne Basel",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-18-2012",
-      "year": 2012,
-      "month": 9,
-      "day": 18,
-      "city": "Santa Fe",
-      "state": "NM",
-      "location": "Santa Fe, NM",
-      "venue": "Santa Fe Opera House",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "4-3-2013",
-      "year": 2013,
-      "month": 4,
-      "day": 3,
-      "city": "Sydney",
-      "state": "AU",
-      "location": "Sydney, AU",
-      "venue": "Opera House",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-6-2013",
-      "year": 2013,
-      "month": 12,
-      "day": 6,
-      "city": "Salt Lake City",
-      "state": "UT",
-      "location": "Salt Lake City, UT",
-      "venue": "Kingsbury Hall",
-      "notes": "Jeff Tweedy \u00b7 FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-25-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 25,
-      "city": "Bloomington",
-      "state": "IN",
-      "location": "Bloomington, IN",
-      "venue": "IU Auditorium",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "7-1-2016",
-      "year": 2016,
-      "month": 7,
-      "day": 1,
-      "city": "Vilanova i la Geltru",
-      "state": "ESP",
-      "location": "Vilanova i la Geltru, ESP",
-      "venue": "Masia d'en Cabanyes Vida Festival",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-8-2017",
-      "year": 2017,
-      "month": 6,
-      "day": 8,
-      "city": "Pittsburgh",
-      "state": "PA",
-      "location": "Pittsburgh, PA",
-      "venue": "Stage AE",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-4-2021",
-      "year": 2021,
-      "month": 6,
-      "day": 4,
-      "city": "Bridgeview",
-      "state": "IL",
-      "location": "Bridgeview, IL",
-      "venue": "Jeff Tweedy at SeatGeek Stadium - Parking Lot S1",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "8-25-2021",
-      "year": 2021,
-      "month": 8,
-      "day": 25,
-      "city": "Portland",
-      "state": "ME",
-      "location": "Portland, ME",
-      "venue": "Thompson's Point",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "3-13-2024",
-      "year": 2024,
-      "month": 3,
-      "day": 13,
-      "city": "Brisbane",
-      "state": "AUS",
-      "location": "Brisbane, AUS",
-      "venue": "The Princess Theater",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "5-12-2025",
-      "year": 2025,
-      "month": 5,
-      "day": 12,
-      "city": "Birmingham",
-      "state": "AL",
-      "location": "Birmingham, AL",
-      "venue": "BJCC Concert Hall",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "label",
-      "label": "\"Roadcase Series\""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-23-2012",
-      "year": 2012,
-      "month": 6,
-      "day": 23,
-      "city": "Morrison",
-      "state": "CO",
-      "location": "Morrison, CO",
-      "venue": "Red Rocks Amphitheatre",
-      "notes": "001",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "7-8-2012",
-      "year": 2012,
-      "month": 7,
-      "day": 8,
-      "city": "Geneva",
-      "state": "IL",
-      "location": "Geneva, IL",
-      "venue": "Fifth Third Bank Ball Park",
-      "notes": "002",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "7-23-2012",
-      "year": 2012,
-      "month": 7,
-      "day": 23,
-      "city": "Brooklyn",
-      "state": "NY",
-      "location": "Brooklyn, NY",
-      "venue": "Prospect Park",
-      "notes": "003",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "7-24-2012",
-      "year": 2012,
-      "month": 7,
-      "day": 24,
-      "city": "Brooklyn",
-      "state": "NY",
-      "location": "Brooklyn, NY",
-      "venue": "Prospect Park",
-      "notes": "004",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "7-25-2012",
-      "year": 2012,
-      "month": 7,
-      "day": 25,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Terminal 5",
-      "notes": "005",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "7-28-2012",
-      "year": 2012,
-      "month": 7,
-      "day": 28,
-      "city": "Cooperstown",
-      "state": "NY",
-      "location": "Cooperstown, NY",
-      "venue": "Brewery Ommegang",
-      "notes": "006",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "7-29-2012",
-      "year": 2012,
-      "month": 7,
-      "day": 29,
-      "city": "Essex Junction",
-      "state": "VT",
-      "location": "Essex Junction, VT",
-      "venue": "Champlain Valley Expo",
-      "notes": "007",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "8-3-2012",
-      "year": 2012,
-      "month": 8,
-      "day": 3,
-      "city": "Rochester",
-      "state": "NY",
-      "location": "Rochester, NY",
-      "venue": "Highland Bowl",
-      "notes": "008",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-16-2012",
-      "year": 2012,
-      "month": 9,
-      "day": 16,
-      "city": "Columbia",
-      "state": "MO",
-      "location": "Columbia, MO",
-      "venue": "Ninth Street",
-      "notes": "009",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "7-18-2012",
-      "year": 2012,
-      "month": 7,
-      "day": 18,
-      "city": "Vienna",
-      "state": "VA",
-      "location": "Vienna, VA",
-      "venue": "Live from Wolf Trap",
-      "notes": "010",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "8-14-2012",
-      "year": 2012,
-      "month": 8,
-      "day": 14,
-      "city": "Luxembourg",
-      "state": "LU",
-      "location": "Luxembourg, LU",
-      "venue": "den Atelier",
-      "notes": "011",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-21-2012",
-      "year": 2012,
-      "month": 9,
-      "day": 21,
-      "city": "Berkeley",
-      "state": "CA",
-      "location": "Berkeley, CA",
-      "venue": "Greek Theatre",
-      "notes": "012",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-22-2012",
-      "year": 2012,
-      "month": 9,
-      "day": 22,
-      "city": "Berkeley",
-      "state": "CA",
-      "location": "Berkeley, CA",
-      "venue": "Greek Theatre",
-      "notes": "013",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-23-2012",
-      "year": 2012,
-      "month": 9,
-      "day": 23,
-      "city": "Reno",
-      "state": "NV",
-      "location": "Reno, NV",
-      "venue": "Grand Sierra Theatre",
-      "notes": "014",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "10-15-2012",
-      "year": 2012,
-      "month": 10,
-      "day": 15,
-      "city": "Barcelona",
-      "state": "ES",
-      "location": "Barcelona, ES",
-      "venue": "Gran Teatre del Liceu",
-      "notes": "015",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-29-2012",
-      "year": 2012,
-      "month": 9,
-      "day": 29,
-      "city": "San Luis Obispo",
-      "state": "CA",
-      "location": "San Luis Obispo, CA",
-      "venue": "Avila Beach Resort",
-      "notes": "016",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-19-2012",
-      "year": 2012,
-      "month": 9,
-      "day": 19,
-      "city": "Tucson",
-      "state": "AZ",
-      "location": "Tucson, AZ",
-      "venue": "Tucson Music Hall",
-      "notes": "017",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-21-2013",
-      "year": 2013,
-      "month": 6,
-      "day": 21,
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "MASS MoCA",
-      "notes": "018",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-22-2013",
-      "year": 2013,
-      "month": 6,
-      "day": 22,
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "MASS MoCA",
-      "notes": "019",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "4-10-2013",
-      "year": 2013,
-      "month": 4,
-      "day": 10,
-      "city": "Osaka",
-      "state": "JP",
-      "location": "Osaka, JP",
-      "venue": "Hatch",
-      "notes": "020",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "4-12-2013",
-      "year": 2013,
-      "month": 4,
-      "day": 12,
-      "city": "Tokyo",
-      "state": "JP",
-      "location": "Tokyo, JP",
-      "venue": "ZEPP Diver City",
-      "notes": "021",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "4-13-2013",
-      "year": 2013,
-      "month": 4,
-      "day": 13,
-      "city": "Tokyo",
-      "state": "JP",
-      "location": "Tokyo, JP",
-      "venue": "Shibuya-AX",
-      "notes": "022",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "10-11-2013",
-      "year": 2013,
-      "month": 10,
-      "day": 11,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Stubb's Waller Creek Amphitheater",
-      "notes": "023",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-15-2013",
-      "year": 2013,
-      "month": 12,
-      "day": 15,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Largo at the Coronet",
-      "notes": "Jeff Tweedy \u00b7 024",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-16-2013",
-      "year": 2013,
-      "month": 12,
-      "day": 16,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Largo at the Coronet",
-      "notes": "Jeff Tweedy \u00b7 025",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-18-2013",
-      "year": 2013,
-      "month": 12,
-      "day": 18,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Largo at the Coronet",
-      "notes": "Jeff Tweedy \u00b7 026",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-19-2013",
-      "year": 2013,
-      "month": 12,
-      "day": 19,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Largo at the Coronet",
-      "notes": "027",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-8-2013",
-      "year": 2013,
-      "month": 12,
-      "day": 8,
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Moore Theatre",
-      "notes": "028",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-5-2013",
-      "year": 2013,
-      "month": 12,
-      "day": 5,
-      "city": "Denver",
-      "state": "CO",
-      "location": "Denver, CO",
-      "venue": "Paramount Theatre",
-      "notes": "Jeff Tweedy \u00b7 029",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-3-2013",
-      "year": 2013,
-      "month": 12,
-      "day": 3,
-      "city": "Kansas City",
-      "state": "MO",
-      "location": "Kansas City, MO",
-      "venue": "Uptown Theatre",
-      "notes": "Jeff Tweedy \u00b7 030",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "2-14-2014",
-      "year": 2014,
-      "month": 2,
-      "day": 14,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Vic Theatre",
-      "notes": "031",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "2-15-2014",
-      "year": 2014,
-      "month": 2,
-      "day": 15,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Vic Theatre",
-      "notes": "032",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-5-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 5,
-      "city": "Detroit",
-      "state": "MI",
-      "location": "Detroit, MI",
-      "venue": "Masonica Temple",
-      "notes": "033",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-10-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 10,
-      "city": "Washington",
-      "state": "DC",
-      "location": "Washington, DC",
-      "venue": "Lincoln Theatre",
-      "notes": "Jeff Tweedy \u00b7 034",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "10-1-2013",
-      "year": 2013,
-      "month": 10,
-      "day": 1,
-      "city": "Buffalo",
-      "state": "NY",
-      "location": "Buffalo, NY",
-      "venue": "The Town Ballroom",
-      "notes": "035",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "10-23-2014",
-      "year": 2014,
-      "month": 10,
-      "day": 23,
-      "city": "Knoxville",
-      "state": "TN",
-      "location": "Knoxville, TN",
-      "venue": "Tennessee Theatre",
-      "notes": "036",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "10-28-2014",
-      "year": 2014,
-      "month": 10,
-      "day": 28,
-      "city": "Port Chester",
-      "state": "NY",
-      "location": "Port Chester, NY",
-      "venue": "Capitol Theatre",
-      "notes": "037",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "10-29-2014",
-      "year": 2014,
-      "month": 10,
-      "day": 29,
-      "city": "Port Chester",
-      "state": "NY",
-      "location": "Port Chester, NY",
-      "venue": "Capitol Theatre",
-      "notes": "038",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "10-30-2014",
-      "year": 2014,
-      "month": 10,
-      "day": 30,
-      "city": "Port Chester",
-      "state": "NY",
-      "location": "Port Chester, NY",
-      "venue": "Capitol Theatre",
-      "notes": "039",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-5-2014",
-      "year": 2014,
-      "month": 12,
-      "day": 5,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Riviera Theatre",
-      "notes": "040",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-6-2014",
-      "year": 2014,
-      "month": 12,
-      "day": 6,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Riviera Theatre",
-      "notes": "041",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-8-2014",
-      "year": 2014,
-      "month": 12,
-      "day": 8,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Riviera Theatre",
-      "notes": "042",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-9-2014",
-      "year": 2014,
-      "month": 12,
-      "day": 9,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Riviera Theatre",
-      "notes": "043",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-11-2014",
-      "year": 2014,
-      "month": 12,
-      "day": 11,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Riviera Theatre",
-      "notes": "044",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-12-2014",
-      "year": 2014,
-      "month": 12,
-      "day": 12,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Riviera Theatre",
-      "notes": "045",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "5-7-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 7,
-      "city": "Indianapolis",
-      "state": "IN",
-      "location": "Indianapolis, IN",
-      "venue": "Murat Theatre",
-      "notes": "046",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-26-2015",
-      "year": 2015,
-      "month": 6,
-      "day": 26,
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "notes": "047",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-27-2015",
-      "year": 2015,
-      "month": 6,
-      "day": 27,
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "notes": "048",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "8-6-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 6,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "The Independent",
-      "notes": "Notorious Wilco Brothers \u00b7 049",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "8-11-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 11,
-      "city": "Redmond",
-      "state": "WA",
-      "location": "Redmond, WA",
-      "venue": "Marymoor Park",
-      "notes": "050",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-25-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 25,
-      "city": "Bloomington",
-      "state": "IN",
-      "location": "Bloomington, IN",
-      "venue": "IU Auditorium",
-      "notes": "051",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "1-29-2016",
-      "year": 2016,
-      "month": 1,
-      "day": 29,
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "The Orpheum Theatre",
-      "notes": "052",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "1-30-2016",
-      "year": 2016,
-      "month": 1,
-      "day": 30,
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "The Orpheum Theatre",
-      "notes": "053",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "2-5-2016",
-      "year": 2016,
-      "month": 2,
-      "day": 5,
-      "city": "Brooklyn",
-      "state": "NY",
-      "location": "Brooklyn, NY",
-      "venue": "Kings Theatre",
-      "notes": "054",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "2-6-2016",
-      "year": 2016,
-      "month": 2,
-      "day": 6,
-      "city": "Brooklyn",
-      "state": "NY",
-      "location": "Brooklyn, NY",
-      "venue": "Kings Theatre",
-      "notes": "055",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-2-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 2,
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Moore Theatre",
-      "notes": "056",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-3-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 3,
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Moore Theatre",
-      "notes": "057",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-13-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 13,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Theatre at Ace Hotel",
-      "notes": "058",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-14-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 14,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Theatre at Ace Hotel",
-      "notes": "059",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-15-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 15,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Theatre at Ace Hotel",
-      "notes": "060",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "11-9-2016",
-      "year": 2016,
-      "month": 11,
-      "day": 9,
-      "city": "Utrecht",
-      "state": "NL",
-      "location": "Utrecht, NL",
-      "venue": "TivoliVredenburg",
-      "notes": "061",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "2-23-2017",
-      "year": 2017,
-      "month": 2,
-      "day": 23,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Chicago Theatre",
-      "notes": "062",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "2-26-2017",
-      "year": 2017,
-      "month": 2,
-      "day": 26,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "The Chicago Theatre",
-      "notes": "063",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-23-2017",
-      "year": 2017,
-      "month": 6,
-      "day": 23,
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "notes": "064",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-24-2017",
-      "year": 2017,
-      "month": 6,
-      "day": 24,
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "notes": "065",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-25-2017",
-      "year": 2017,
-      "month": 6,
-      "day": 25,
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "notes": "Tweedy & Friends \u00b7 066",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "11-17-2017",
-      "year": 2017,
-      "month": 11,
-      "day": 17,
-      "city": "St. Paul",
-      "state": "MN",
-      "location": "St. Paul, MN",
-      "venue": "Palace Theatre",
-      "notes": "067",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "11-16-2017",
-      "year": 2017,
-      "month": 11,
-      "day": 16,
-      "city": "St. Paul",
-      "state": "MN",
-      "location": "St. Paul, MN",
-      "venue": "Palace Theatre",
-      "notes": "068",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "11-17-2017",
-      "year": 2017,
-      "month": 11,
-      "day": 17,
-      "city": "Saint Paul",
-      "state": "MN",
-      "location": "Saint Paul, MN",
-      "venue": "Palace Theatre",
-      "notes": "069",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "release",
-      "label": "12-28+29-2017 / Los Angeles, CA / Largo at the Coronet (Jeff Tweedy) (070)",
-      "version": "SBD"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-8-2018",
-      "year": 2018,
-      "month": 10,
-      "day": 8,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "The Theatre At Ace Hotel",
-      "notes": "Jeff Tweedy \u00b7 071",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "2-28-2019",
-      "year": 2019,
-      "month": 2,
-      "day": 28,
-      "city": "St. Louis",
-      "state": "MO",
-      "location": "St. Louis, MO",
-      "venue": "The Pageant",
-      "notes": "Jeff Tweedy \u00b7 072",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "3-22-2019",
-      "year": 2019,
-      "month": 3,
-      "day": 22,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "The Vic",
-      "notes": "Jeff Tweedy \u00b7 073",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "3-23-2019",
-      "year": 2019,
-      "month": 3,
-      "day": 23,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "The Vic",
-      "notes": "Jeff Tweedy \u00b7 074",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-6-2019",
-      "year": 2019,
-      "month": 6,
-      "day": 6,
-      "city": "Knoxville",
-      "state": "TN",
-      "location": "Knoxville, TN",
-      "venue": "Bijou Theatre",
-      "notes": "075",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-28-2019",
-      "year": 2019,
-      "month": 6,
-      "day": 28,
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "notes": "076",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-29-2019",
-      "year": 2019,
-      "month": 6,
-      "day": 29,
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "notes": "077",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-30-2019",
-      "year": 2019,
-      "month": 6,
-      "day": 30,
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "notes": "078",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "10-8-2019",
-      "year": 2019,
-      "month": 10,
-      "day": 8,
-      "city": "Toronto",
-      "state": "ON",
-      "location": "Toronto, ON",
-      "venue": "Budweiser Stage",
-      "notes": "FOH Series",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "10-13-2019",
-      "year": 2019,
-      "month": 10,
-      "day": 13,
-      "city": "Brooklyn NY",
-      "state": "",
-      "location": "Brooklyn NY",
-      "venue": "Brooklyn Steel",
-      "notes": "079",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "11-14-2019",
-      "year": 2019,
-      "month": 11,
-      "day": 14,
-      "city": "St. Louis",
-      "state": "MO",
-      "location": "St. Louis, MO",
-      "venue": "The Fox Theatre",
-      "notes": "080",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "11-17-2019",
-      "year": 2019,
-      "month": 11,
-      "day": 17,
-      "city": "Kansas City",
-      "state": "MO",
-      "location": "Kansas City, MO",
-      "venue": "Arvest Bank Theatre at Midland",
-      "notes": "081",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "11-19-2019",
-      "year": 2019,
-      "month": 11,
-      "day": 19,
-      "city": "Denver CO",
-      "state": "",
-      "location": "Denver CO",
-      "venue": "Mission Ballroom",
-      "notes": "082",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "11-22-2019",
-      "year": 2019,
-      "month": 11,
-      "day": 22,
-      "city": "Saint Paul",
-      "state": "MN",
-      "location": "Saint Paul, MN",
-      "venue": "Palace Theatre",
-      "notes": "083",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "11-23-2019",
-      "year": 2019,
-      "month": 11,
-      "day": 23,
-      "city": "Saint Paul",
-      "state": "MN",
-      "location": "Saint Paul, MN",
-      "venue": "Palace Theatre",
-      "notes": "084",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "11-24-2019",
-      "year": 2019,
-      "month": 11,
-      "day": 24,
-      "city": "Saint Paul",
-      "state": "MN",
-      "location": "Saint Paul, MN",
-      "venue": "Palace Theatre",
-      "notes": "085",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-19-2019",
-      "year": 2019,
-      "month": 12,
-      "day": 19,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Chicago Theatre",
-      "notes": "086",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "5-22-2019",
-      "year": 2019,
-      "month": 5,
-      "day": 22,
-      "city": "Brisbane",
-      "state": "Australia",
-      "location": "Brisbane, Australia",
-      "venue": "The Powerhouse",
-      "notes": "Jeff Tweedy \u00b7 087",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "1-19-2020",
-      "year": 2020,
-      "month": 1,
-      "day": 19,
-      "city": "Riviera Maya",
-      "state": "MEX",
-      "location": "Riviera Maya, MEX",
-      "venue": "Sky Blue Sky Festival",
-      "notes": "088",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "1-21-2020",
-      "year": 2020,
-      "month": 1,
-      "day": 21,
-      "city": "Riviera Maya",
-      "state": "MEX",
-      "location": "Riviera Maya, MEX",
-      "venue": "Sky Blue Sky Festival",
-      "notes": "089",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "3-11-2020",
-      "year": 2020,
-      "month": 3,
-      "day": 11,
-      "city": "Winnipeg",
-      "state": "CAN",
-      "location": "Winnipeg, CAN",
-      "venue": "Centennial Concert Hall",
-      "notes": "090",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "10-12-2021",
-      "year": 2021,
-      "month": 10,
-      "day": 12,
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Paramount Theatre",
-      "notes": "091",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "10-13-2021",
-      "year": 2021,
-      "month": 10,
-      "day": 13,
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Paramount Theatre",
-      "notes": "092",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "1-17-2022",
-      "year": 2022,
-      "month": 1,
-      "day": 17,
-      "city": "Riviera Maya",
-      "state": "MEX",
-      "location": "Riviera Maya, MEX",
-      "venue": "Hard Rock Hotel",
-      "notes": "093",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "1-18-2022",
-      "year": 2022,
-      "month": 1,
-      "day": 18,
-      "city": "Riviera Maya",
-      "state": "MEX",
-      "location": "Riviera Maya, MEX",
-      "venue": "Hard Rock Hotel",
-      "notes": "094",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "1-20-2022",
-      "year": 2022,
-      "month": 1,
-      "day": 20,
-      "city": "Riviera Maya",
-      "state": "MEX",
-      "location": "Riviera Maya, MEX",
-      "venue": "Hard Rock Hotel",
-      "notes": "095",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "5-27-2022",
-      "year": 2022,
-      "month": 5,
-      "day": 27,
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "notes": "096",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "5-28-2022",
-      "year": 2022,
-      "month": 5,
-      "day": 28,
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "notes": "097",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "5-29-2022",
-      "year": 2022,
-      "month": 5,
-      "day": 29,
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "notes": "Jeff Tweedy \u00b7 098",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "8-27-2022",
-      "year": 2022,
-      "month": 8,
-      "day": 27,
-      "city": "New Haven",
-      "state": "CT",
-      "location": "New Haven, CT",
-      "venue": "Westville Music Bowl",
-      "notes": "099",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "9-14-2022",
-      "year": 2022,
-      "month": 9,
-      "day": 14,
-      "city": "Morrison",
-      "state": "CO",
-      "location": "Morrison, CO",
-      "venue": "Red Rocks",
-      "notes": "100",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "10-14-2023",
-      "year": 2023,
-      "month": 10,
-      "day": 14,
-      "city": "Berkeley",
-      "state": "CA",
-      "location": "Berkeley, CA",
-      "venue": "Greek Theatre",
-      "notes": "101",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-28-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 28,
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "notes": "102",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-29-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 29,
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "notes": "103",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "6-30-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 30,
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "notes": "Jeff Tweedy \u00b7 104",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-5-2024",
-      "year": 2024,
-      "month": 12,
-      "day": 5,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Austin City Limits",
-      "notes": "105",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-6-2024",
-      "year": 2024,
-      "month": 12,
-      "day": 6,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Austin City Limits",
-      "notes": "106",
-      "version": "SBD",
-      "format": ""
-    },
-    {
-      "type": "show",
-      "dateStr": "12-7-2024",
-      "year": 2024,
-      "month": 12,
-      "day": 7,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Austin City Limits",
-      "notes": "107",
-      "version": "SBD",
-      "format": ""
     }
   ]
 };

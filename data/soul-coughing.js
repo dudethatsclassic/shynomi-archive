@@ -41,7 +41,7 @@ const ARTIST_DATA = {
       "venue": "CBGBs - ANA(M",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "mat leffler-schulman transfer \u00b7 24/44.1"
+      "notes": "mat leffler-schulman transfer · 24/44.1"
     },
     {
       "year": 1993,
@@ -54,7 +54,7 @@ const ARTIST_DATA = {
       "venue": "CBGBs - ANA(M)",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "mat leffler-schulman transfer \u00b7 24/44.1"
+      "notes": "mat leffler-schulman transfer · 24/44.1"
     },
     {
       "year": 1994,
@@ -67,7 +67,7 @@ const ARTIST_DATA = {
       "venue": "CBGBs - ANA(M)",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "mat leffler-schulman transfer \u00b7 24/44.1"
+      "notes": "mat leffler-schulman transfer · 24/44.1"
     },
     {
       "year": 1995,
@@ -80,7 +80,7 @@ const ARTIST_DATA = {
       "venue": "Melkweg - ANA(M)",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "rene meister \u00b7 24/44.1"
+      "notes": "rene meister · 24/44.1"
     },
     {
       "year": 1995,
@@ -93,7 +93,7 @@ const ARTIST_DATA = {
       "venue": "The Knitting Factory - ANA(M)",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "mat leffler-schulman transfer \u00b7 24/44.1"
+      "notes": "mat leffler-schulman transfer · 24/44.1"
     },
     {
       "year": 1995,
@@ -119,7 +119,7 @@ const ARTIST_DATA = {
       "venue": "Bluebird Theatre - DAT(M)",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Binaurals \u00b7 marcr"
+      "notes": "Binaurals · marcr"
     },
     {
       "year": 1995,
@@ -158,7 +158,7 @@ const ARTIST_DATA = {
       "venue": "Let It Be Records - DAT(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DSM6 \u00b7 jay saari"
+      "notes": "DSM6 · jay saari"
     },
     {
       "year": 1996,
@@ -171,7 +171,7 @@ const ARTIST_DATA = {
       "venue": "Khyber Pass Pub",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 zrrbrrt"
+      "notes": "CSB · zrrbrrt"
     },
     {
       "year": 1996,
@@ -184,7 +184,7 @@ const ARTIST_DATA = {
       "venue": "Spartan Stadium - Lollapalooza",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "notes": "unk · neekrive"
     },
     {
       "year": 1996,
@@ -210,7 +210,7 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom - ANA(M)",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "mat leffler-schulman transfer \u00b7 24/44.1"
+      "notes": "mat leffler-schulman transfer · 24/44.1"
     },
     {
       "year": 1997,
@@ -223,7 +223,7 @@ const ARTIST_DATA = {
       "venue": "Tower Records - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "notes": "M · Unknown"
     },
     {
       "year": 1998,
@@ -249,7 +249,7 @@ const ARTIST_DATA = {
       "venue": "Higher Ground",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann KM184 \u00b7 Unknown"
+      "notes": "Neumann KM184 · Unknown"
     },
     {
       "year": 1998,
@@ -262,7 +262,7 @@ const ARTIST_DATA = {
       "venue": "Irving Plaza",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps CMC6-MK4 \u00b7 Unknown"
+      "notes": "Schoeps CMC6-MK4 · Unknown"
     },
     {
       "year": 1998,
@@ -288,7 +288,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "CA-11 \u00b7 vortexzephyr"
+      "notes": "CA-11 · vortexzephyr"
     },
     {
       "year": 2024,
@@ -301,7 +301,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "MG M300s \u00b7 michael zelner"
+      "notes": "MG M300s · michael zelner"
     },
     {
       "year": 2024,
@@ -314,7 +314,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK4s \u00b7 tj"
+      "notes": "Schoeps MK4s · tj"
     },
     {
       "year": 2024,
@@ -327,7 +327,7 @@ const ARTIST_DATA = {
       "venue": "Terminal 5",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CA-11 \u00b7 larryrulz"
+      "notes": "CA-11 · larryrulz"
     },
     {
       "year": 2025,
@@ -340,7 +340,7 @@ const ARTIST_DATA = {
       "venue": "The Eastern",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CA-14 \u00b7 Unknown"
+      "notes": "CA-14 · Unknown"
     },
     {
       "year": 2025,
@@ -353,7 +353,7 @@ const ARTIST_DATA = {
       "venue": "The Sylvee",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H1N \u00b7 pael"
+      "notes": "Zoom H1N · pael"
     }
   ],
   "misc": [
@@ -405,40 +405,6 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "Soul Coughing - Berlin-Amsterdam 1997 (2005)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[SINGLES]"
-    },
-    {
-      "type": "label",
-      "label": "Soul Coughing - Sugar Free Jazz - Screenwriter's Blue's (Promo) {PRO-CD-7741-R} (1994)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soul Coughing - Sugar Free Jazz {943582-2} (1995)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soul Coughing - Super Bon Bon {LASCD60} (1996)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soul Coughing - Soft Serve {PRO-CD-8818} (1997)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soul Coughing - Circles (Promo) {PRO-CD-9555-R} (1998)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Soul Coughing - Rolling {PRO-CD-9676} (1999)",
       "format": "FLAC"
     }
   ]

@@ -130,7 +130,7 @@ const ARTIST_DATA = {
       "venue": "Bimbo's 365 Club",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Cps Transfer"
+      "notes": "Unknown · Cps Transfer"
     },
     {
       "year": 1993,
@@ -273,7 +273,7 @@ const ARTIST_DATA = {
       "venue": "Slim's",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM-909 \u00b7 Tjcruz"
+      "notes": "ECM-909 · Tjcruz"
     },
     {
       "year": 1993,
@@ -403,7 +403,7 @@ const ARTIST_DATA = {
       "venue": "Club Soda",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "MKE2002 \u00b7 Stevemtl"
+      "notes": "MKE2002 · Stevemtl"
     },
     {
       "year": 1994,
@@ -507,7 +507,7 @@ const ARTIST_DATA = {
       "venue": "The Roxy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ss-dsm6 \u00b7 Simon"
+      "notes": "Ss-dsm6 · Simon"
     },
     {
       "year": 1994,
@@ -598,7 +598,7 @@ const ARTIST_DATA = {
       "venue": "Milky Way",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Ward De Jager"
+      "notes": "Unknown · Ward De Jager"
     },
     {
       "year": 1994,
@@ -676,7 +676,7 @@ const ARTIST_DATA = {
       "venue": "The Edge",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM-909A \u00b7 Unknown"
+      "notes": "ECM-909A · Unknown"
     },
     {
       "year": 1994,
@@ -871,7 +871,7 @@ const ARTIST_DATA = {
       "venue": "Beacon Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Shure Mic \u00b7 Two Of Us \u00b7 Two Of Us Master Series Volume 213"
+      "notes": "Shure Mic · Two Of Us · Two Of Us Master Series Volume 213"
     },
     {
       "year": 1994,
@@ -910,7 +910,7 @@ const ARTIST_DATA = {
       "venue": "RFK Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony Cassette recorder \u00b7 Michael Br."
+      "notes": "Sony Cassette recorder · Michael Br."
     },
     {
       "year": 1994,
@@ -1261,7 +1261,7 @@ const ARTIST_DATA = {
       "venue": "John Anson Ford Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Tascam Da 302 \u00b7 Aaron Yamagucci"
+      "notes": "Tascam Da 302 · Aaron Yamagucci"
     },
     {
       "year": 1996,
@@ -1339,7 +1339,7 @@ const ARTIST_DATA = {
       "venue": "Theatre St-Denis",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "MKE2002 \u00b7 Stevemtl"
+      "notes": "MKE2002 · Stevemtl"
     },
     {
       "year": 1996,
@@ -1378,7 +1378,7 @@ const ARTIST_DATA = {
       "venue": "9:30 Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Panasonic Rx-sr29 \u00b7 Lostbrook"
+      "notes": "Panasonic Rx-sr29 · Lostbrook"
     },
     {
       "year": 1996,
@@ -1768,7 +1768,7 @@ const ARTIST_DATA = {
       "venue": "Murat Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony 727 \u00b7 Unknown"
+      "notes": "Sony 727 · Unknown"
     },
     {
       "year": 1997,
@@ -2015,7 +2015,7 @@ const ARTIST_DATA = {
       "venue": "Rolling Stone Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM-30 \u00b7 Zuma66"
+      "notes": "Aiwa CM-30 · Zuma66"
     },
     {
       "year": 1997,
@@ -2041,7 +2041,7 @@ const ARTIST_DATA = {
       "venue": "Texas Motor Speedway",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Vh1 Broadcast \u00b7 Unknown"
+      "notes": "Vh1 Broadcast · Unknown"
     },
     {
       "year": 1997,
@@ -2197,7 +2197,7 @@ const ARTIST_DATA = {
       "venue": "Saratoga Performing Arts Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Coresound Stealth \u00b7 Unknown"
+      "notes": "Coresound Stealth · Unknown"
     },
     {
       "year": 1997,
@@ -2275,7 +2275,7 @@ const ARTIST_DATA = {
       "venue": "Chastain Park Amphitheater",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Mitsubishi Dt-79 \u00b7 Rodney C. Transfer"
+      "notes": "Mitsubishi Dt-79 · Rodney C. Transfer"
     },
     {
       "year": 1997,
@@ -2418,7 +2418,7 @@ const ARTIST_DATA = {
       "venue": "Target Center *Staring at the Sun",
       "version": "AUD",
       "format": "DVD",
-      "notes": "Ftu-008 \u00b7 Unknown"
+      "notes": "Ftu-008 · Unknown"
     },
     {
       "year": 1997,
@@ -2574,7 +2574,7 @@ const ARTIST_DATA = {
       "venue": "War Memorial",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akg C460s \u00b7 Terry Sullivan"
+      "notes": "Akg C460s · Terry Sullivan"
     },
     {
       "year": 1997,
@@ -2691,7 +2691,7 @@ const ARTIST_DATA = {
       "venue": "Muziekcentrum Vredenburg",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Adamski23"
+      "notes": "Unknown · Adamski23"
     },
     {
       "year": 1997,
@@ -3289,7 +3289,7 @@ const ARTIST_DATA = {
       "venue": "Hammerstein Ballroom",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "2000 Summer Sampler \u00b7 Inc"
+      "notes": "2000 Summer Sampler · Inc"
     },
     {
       "year": 1999,
@@ -3536,7 +3536,7 @@ const ARTIST_DATA = {
       "venue": "Warfield Theater + Soundcheck",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CCM4 \u00b7 Drew"
+      "notes": "CCM4 · Drew"
     },
     {
       "year": 1999,
@@ -3991,7 +3991,7 @@ const ARTIST_DATA = {
       "venue": "Colosseum",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Okm Ii Pro \u00b7 Karsten"
+      "notes": "Okm Ii Pro · Karsten"
     },
     {
       "year": 2000,
@@ -4056,7 +4056,7 @@ const ARTIST_DATA = {
       "venue": "Shim Sham Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM-959A \u00b7 Lewis Fowler"
+      "notes": "ECM-959A · Lewis Fowler"
     },
     {
       "year": 2000,
@@ -4290,7 +4290,7 @@ const ARTIST_DATA = {
       "venue": "Elysee Montmartre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM 717 \u00b7 Philippe Ettori"
+      "notes": "Sony ECM 717 · Philippe Ettori"
     },
     {
       "year": 2000,
@@ -4342,7 +4342,7 @@ const ARTIST_DATA = {
       "venue": "Sandstone Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSC \u00b7 Lance Stack"
+      "notes": "CSC · Lance Stack"
     },
     {
       "year": 2000,
@@ -4407,7 +4407,7 @@ const ARTIST_DATA = {
       "venue": "Pine Knob Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Unknown"
+      "notes": "CSB · Unknown"
     },
     {
       "year": 2000,
@@ -4433,7 +4433,7 @@ const ARTIST_DATA = {
       "venue": "Riverbend Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Unknown"
+      "notes": "CSB · Unknown"
     },
     {
       "year": 2000,
@@ -4472,7 +4472,7 @@ const ARTIST_DATA = {
       "venue": "Tweeter Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sound Pro Binaurals \u00b7 Brett Lowman"
+      "notes": "Sound Pro Binaurals · Brett Lowman"
     },
     {
       "year": 2000,
@@ -4602,7 +4602,7 @@ const ARTIST_DATA = {
       "venue": "Post-Gazette Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Unknown"
+      "notes": "CSB · Unknown"
     },
     {
       "year": 2000,
@@ -4667,7 +4667,7 @@ const ARTIST_DATA = {
       "venue": "Reno Hilton Outdoor Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM MS-907 \u00b7 Kingsrue Transfer"
+      "notes": "ECM MS-907 · Kingsrue Transfer"
     },
     {
       "year": 2000,
@@ -4693,7 +4693,7 @@ const ARTIST_DATA = {
       "venue": "Greek Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Aaron"
+      "notes": "Schoeps MK4 · Aaron"
     },
     {
       "year": 2000,
@@ -4810,7 +4810,7 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Lance Stack"
+      "notes": "CSB · Lance Stack"
     },
     {
       "year": 2000,
@@ -4823,7 +4823,7 @@ const ARTIST_DATA = {
       "venue": "Alltel Pavilion at Walnut Creek",
       "version": "MTX",
       "format": "FLAC",
-      "notes": "HEBs + ATR55 \u00b7 Jp & David Niehoff"
+      "notes": "HEBs + ATR55 · Jp & David Niehoff"
     },
     {
       "year": 2000,
@@ -4862,7 +4862,7 @@ const ARTIST_DATA = {
       "venue": "Mars Music Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "chris gratz \u00b7 Ss-dsm-6sl"
+      "notes": "chris gratz · Ss-dsm-6sl"
     },
     {
       "year": 2000,
@@ -4914,7 +4914,7 @@ const ARTIST_DATA = {
       "venue": "Voodoo Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ftu-004 \u00b7 Unknown"
+      "notes": "Ftu-004 · Unknown"
     },
     {
       "year": 2001,
@@ -4940,7 +4940,7 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps \u00b7 Unknown"
+      "notes": "Schoeps · Unknown"
     },
     {
       "year": 2001,
@@ -4953,7 +4953,7 @@ const ARTIST_DATA = {
       "venue": "Humphrey's Concerts by the Bay",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SPSC \u00b7 Unknown"
+      "notes": "SPSC · Unknown"
     },
     {
       "year": 2001,
@@ -5005,7 +5005,7 @@ const ARTIST_DATA = {
       "venue": "Mountain Winery",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK2 \u00b7 Unknown"
+      "notes": "Schoeps MK2 · Unknown"
     },
     {
       "year": 2001,
@@ -5018,7 +5018,7 @@ const ARTIST_DATA = {
       "venue": "Konochti Harbor Resord Outdoor Venue *High On Cobb Mountain",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MS907 \u00b7 Mike_markov"
+      "notes": "Sony MS907 · Mike_markov"
     },
     {
       "year": 2001,
@@ -5031,7 +5031,7 @@ const ARTIST_DATA = {
       "venue": "Schnitzer Concert Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann Ak40s \u00b7 Joe Polastre"
+      "notes": "Neumann Ak40s · Joe Polastre"
     },
     {
       "year": 2001,
@@ -5044,7 +5044,7 @@ const ARTIST_DATA = {
       "venue": "St. Michelle Winery",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann Ak40s \u00b7 Joe Polastre"
+      "notes": "Neumann Ak40s · Joe Polastre"
     },
     {
       "year": 2001,
@@ -5070,7 +5070,7 @@ const ARTIST_DATA = {
       "venue": "Ceasar's Hotel & Casino",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Taz"
+      "notes": "Schoeps MK4 · Taz"
     },
     {
       "year": 2001,
@@ -5083,7 +5083,7 @@ const ARTIST_DATA = {
       "venue": "Ceasar's Palace",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Taz"
+      "notes": "Schoeps MK4 · Taz"
     },
     {
       "year": 2001,
@@ -5187,7 +5187,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Dsm-6sm \u00b7 Unknown"
+      "notes": "Dsm-6sm · Unknown"
     },
     {
       "year": 2001,
@@ -5200,7 +5200,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "chrisgratz \u00b7 Ss-dsm-6sl"
+      "notes": "chrisgratz · Ss-dsm-6sl"
     },
     {
       "year": 2001,
@@ -5213,7 +5213,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ATR55 \u00b7 Unknown"
+      "notes": "ATR55 · Unknown"
     },
     {
       "year": 2001,
@@ -5226,7 +5226,7 @@ const ARTIST_DATA = {
       "venue": "R&R Half Marathon",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA-4021 \u00b7 Unknown"
+      "notes": "DPA-4021 · Unknown"
     },
     {
       "year": 2001,
@@ -5252,7 +5252,7 @@ const ARTIST_DATA = {
       "venue": "Belk Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Dan Troy"
+      "notes": "DPA 4061s · Dan Troy"
     },
     {
       "year": 2001,
@@ -5291,7 +5291,7 @@ const ARTIST_DATA = {
       "venue": "Leede Arena, Dartmouth College",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Scott Brown"
+      "notes": "DPA 4061s · Scott Brown"
     },
     {
       "year": 2001,
@@ -5330,7 +5330,7 @@ const ARTIST_DATA = {
       "venue": "Muhlenberg College",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TCM-20DV \u00b7 Unknown"
+      "notes": "Sony TCM-20DV · Unknown"
     },
     {
       "year": 2001,
@@ -5343,7 +5343,7 @@ const ARTIST_DATA = {
       "venue": "Smith College",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Core Sound Heb \u00b7 Chris"
+      "notes": "Core Sound Heb · Chris"
     },
     {
       "year": 2001,
@@ -5369,7 +5369,7 @@ const ARTIST_DATA = {
       "venue": "SUNY, Kuhl Gymnasium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MZ-R37 \u00b7 Kristin"
+      "notes": "Sony MZ-R37 · Kristin"
     },
     {
       "year": 2002,
@@ -5395,7 +5395,7 @@ const ARTIST_DATA = {
       "venue": "El Rey Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Marcsounds \u00b7 Markp"
+      "notes": "Marcsounds · Markp"
     },
     {
       "year": 2002,
@@ -5408,7 +5408,7 @@ const ARTIST_DATA = {
       "venue": "Jazzfest - Fairgrounds Race Track",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-MS907 \u00b7 Jeff Peters"
+      "notes": "Sony ECM-MS907 · Jeff Peters"
     },
     {
       "year": 2002,
@@ -5434,7 +5434,7 @@ const ARTIST_DATA = {
       "venue": "Shim Sham Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Lewis Fowler"
+      "notes": "Unknown · Lewis Fowler"
     },
     {
       "year": 2002,
@@ -5460,7 +5460,7 @@ const ARTIST_DATA = {
       "venue": "Sloss Furnace",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TRV36 \u00b7 Starzgiirl"
+      "notes": "Sony TRV36 · Starzgiirl"
     },
     {
       "year": 2002,
@@ -5512,7 +5512,7 @@ const ARTIST_DATA = {
       "venue": "Battery Park",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sony MDR MZ-R700 \u00b7 Ehud"
+      "notes": "Sony MDR MZ-R700 · Ehud"
     },
     {
       "year": 2002,
@@ -5616,7 +5616,7 @@ const ARTIST_DATA = {
       "venue": "Astoria",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ss-dsm-6sm \u00b7 Willie Thompson"
+      "notes": "Ss-dsm-6sm · Willie Thompson"
     },
     {
       "year": 2002,
@@ -5629,7 +5629,7 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sharp Mt877 \u00b7 Martin Gonzalez"
+      "notes": "Sharp Mt877 · Martin Gonzalez"
     },
     {
       "year": 2002,
@@ -5668,7 +5668,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Bowl",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D7 \u00b7 Unknown"
+      "notes": "Sony D7 · Unknown"
     },
     {
       "year": 2002,
@@ -5733,7 +5733,7 @@ const ARTIST_DATA = {
       "venue": "Virgin Megastore",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Dsm-6sm \u00b7 Ehud Lazin"
+      "notes": "Dsm-6sm · Ehud Lazin"
     },
     {
       "year": 2002,
@@ -5746,7 +5746,7 @@ const ARTIST_DATA = {
       "venue": "Bryant Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-20 \u00b7 Ehud Lazin"
+      "notes": "SP-CMC-20 · Ehud Lazin"
     },
     {
       "year": 2002,
@@ -5863,7 +5863,7 @@ const ARTIST_DATA = {
       "venue": "Marktrock Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Steven Bladt"
+      "notes": "CSB · Steven Bladt"
     },
     {
       "year": 2002,
@@ -5941,7 +5941,7 @@ const ARTIST_DATA = {
       "venue": "Corn Exchange",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MZR55 \u00b7 Colin Whaley"
+      "notes": "Sony MZR55 · Colin Whaley"
     },
     {
       "year": 2002,
@@ -5993,7 +5993,7 @@ const ARTIST_DATA = {
       "venue": "NIU Convocation Center",
       "version": "FM",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Brett Lowman"
+      "notes": "CSB · Brett Lowman"
     },
     {
       "year": 2002,
@@ -6006,7 +6006,7 @@ const ARTIST_DATA = {
       "venue": "Air Canada Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSC \u00b7 Martman"
+      "notes": "CSC · Martman"
     },
     {
       "year": 2002,
@@ -6032,7 +6032,7 @@ const ARTIST_DATA = {
       "venue": "ECSU Sports Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Oktava Mc012 \u00b7 Hayden Berard"
+      "notes": "Oktava Mc012 · Hayden Berard"
     },
     {
       "year": 2002,
@@ -6045,7 +6045,7 @@ const ARTIST_DATA = {
       "venue": "Battery Park",
       "version": "MTX",
       "format": "FLAC",
-      "notes": "DPA 4060s + SS-DSM-6S \u00b7 Ehud Lazin"
+      "notes": "DPA 4060s + SS-DSM-6S · Ehud Lazin"
     },
     {
       "year": 2002,
@@ -6058,7 +6058,7 @@ const ARTIST_DATA = {
       "venue": "R.P.I. Fieldhouse",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akg 480/ck61 \u00b7 Eric Naylor"
+      "notes": "Akg 480/ck61 · Eric Naylor"
     },
     {
       "year": 2002,
@@ -6149,7 +6149,7 @@ const ARTIST_DATA = {
       "venue": "Peterson Events Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Hb Md \u00b7 Mark Morrison"
+      "notes": "Hb Md · Mark Morrison"
     },
     {
       "year": 2002,
@@ -6162,7 +6162,7 @@ const ARTIST_DATA = {
       "venue": "Elliot Hall of Music",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Oktava Mc012 \u00b7 Dan Glaser"
+      "notes": "Oktava Mc012 · Dan Glaser"
     },
     {
       "year": 2002,
@@ -6188,7 +6188,7 @@ const ARTIST_DATA = {
       "venue": "Kent State University",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MZ-N707 \u00b7 John D. Randall"
+      "notes": "Sony MZ-N707 · John D. Randall"
     },
     {
       "year": 2002,
@@ -6214,7 +6214,7 @@ const ARTIST_DATA = {
       "venue": "Kohl Center - University of Wisconsin",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MDS-JB940 \u00b7 Wade Rewey"
+      "notes": "Sony MDS-JB940 · Wade Rewey"
     },
     {
       "year": 2002,
@@ -6227,7 +6227,7 @@ const ARTIST_DATA = {
       "venue": "IU Auditorium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akg Ck63 \u00b7 Jon Ice"
+      "notes": "Akg Ck63 · Jon Ice"
     },
     {
       "year": 2002,
@@ -6331,7 +6331,7 @@ const ARTIST_DATA = {
       "venue": "Barton Hall - Cornell University",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akg480/ck61 \u00b7 Tom Horton"
+      "notes": "Akg480/ck61 · Tom Horton"
     },
     {
       "year": 2002,
@@ -6370,7 +6370,7 @@ const ARTIST_DATA = {
       "venue": "Millet Hall - University of Miami",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Jason Severance"
+      "notes": "Unknown · Jason Severance"
     },
     {
       "year": 2002,
@@ -6383,7 +6383,7 @@ const ARTIST_DATA = {
       "venue": "Mershon Auditorium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann Km184s \u00b7 Mike Sarnovsky"
+      "notes": "Neumann Km184s · Mike Sarnovsky"
     },
     {
       "year": 2002,
@@ -6448,7 +6448,7 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8s \u00b7 Adam Meyer"
+      "notes": "SP-CMC-8s · Adam Meyer"
     },
     {
       "year": 2002,
@@ -6474,7 +6474,7 @@ const ARTIST_DATA = {
       "venue": "Magness Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Microtech Gefell M300s \u00b7 Lance Stack"
+      "notes": "Microtech Gefell M300s · Lance Stack"
     },
     {
       "year": 2002,
@@ -6539,7 +6539,7 @@ const ARTIST_DATA = {
       "venue": "Wiltern Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akg Ck61 \u00b7 Jeff Lester"
+      "notes": "Akg Ck61 · Jeff Lester"
     },
     {
       "year": 2002,
@@ -6552,7 +6552,7 @@ const ARTIST_DATA = {
       "venue": "Cox Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT-88s \u00b7 Keith Mautner"
+      "notes": "AT-88s · Keith Mautner"
     },
     {
       "year": 2002,
@@ -6591,7 +6591,7 @@ const ARTIST_DATA = {
       "venue": "Warfield Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann Km184s \u00b7 Joe Palastre"
+      "notes": "Neumann Km184s · Joe Palastre"
     },
     {
       "year": 2002,
@@ -6604,7 +6604,7 @@ const ARTIST_DATA = {
       "venue": "Warfield Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann Km184s \u00b7 Joe Palastre"
+      "notes": "Neumann Km184s · Joe Palastre"
     },
     {
       "year": 2002,
@@ -6617,7 +6617,7 @@ const ARTIST_DATA = {
       "venue": "Warfield Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann Km184s \u00b7 Joe Palastre"
+      "notes": "Neumann Km184s · Joe Palastre"
     },
     {
       "year": 2002,
@@ -6630,7 +6630,7 @@ const ARTIST_DATA = {
       "venue": "Warfield Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann Km184s \u00b7 Joe Palastre"
+      "notes": "Neumann Km184s · Joe Palastre"
     },
     {
       "year": 2002,
@@ -6643,7 +6643,7 @@ const ARTIST_DATA = {
       "venue": "Warfield Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann Km184s \u00b7 Joe Palastre"
+      "notes": "Neumann Km184s · Joe Palastre"
     },
     {
       "year": 2003,
@@ -6669,7 +6669,7 @@ const ARTIST_DATA = {
       "venue": "SECC",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony SCM-MS907 \u00b7 Richard Kuppursamy"
+      "notes": "Sony SCM-MS907 · Richard Kuppursamy"
     },
     {
       "year": 2003,
@@ -6760,7 +6760,7 @@ const ARTIST_DATA = {
       "venue": "Internaitional Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Emma Hussey-yeo"
+      "notes": "Sony ECM-717 · Emma Hussey-yeo"
     },
     {
       "year": 2003,
@@ -6786,7 +6786,7 @@ const ARTIST_DATA = {
       "venue": "Telewest Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Simon Twining"
+      "notes": "Unknown · Simon Twining"
     },
     {
       "year": 2003,
@@ -6812,7 +6812,7 @@ const ARTIST_DATA = {
       "venue": "Heineken Music Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Shure Sm98s \u00b7 Mike D"
+      "notes": "Shure Sm98s · Mike D"
     },
     {
       "year": 2003,
@@ -6825,7 +6825,7 @@ const ARTIST_DATA = {
       "venue": "Heineken Music Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Shure Sm98s \u00b7 Mike D"
+      "notes": "Shure Sm98s · Mike D"
     },
     {
       "year": 2003,
@@ -6838,7 +6838,7 @@ const ARTIST_DATA = {
       "venue": "Heineken Music Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Shure Sm98s \u00b7 Mike D"
+      "notes": "Shure Sm98s · Mike D"
     },
     {
       "year": 2003,
@@ -6877,7 +6877,7 @@ const ARTIST_DATA = {
       "venue": "Apollo",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony powered mic \u00b7 Martin Gonzalez"
+      "notes": "Sony powered mic · Martin Gonzalez"
     },
     {
       "year": 2003,
@@ -7007,7 +7007,7 @@ const ARTIST_DATA = {
       "venue": "Mid-America Centre",
       "version": "AUD",
       "format": "MP3",
-      "notes": "Binaural Mics \u00b7 Dan Shoop"
+      "notes": "Binaural Mics · Dan Shoop"
     },
     {
       "year": 2003,
@@ -7020,7 +7020,7 @@ const ARTIST_DATA = {
       "venue": "Mid-America Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Earthworks Sr71s \u00b7 Adam Meyer"
+      "notes": "Earthworks Sr71s · Adam Meyer"
     },
     {
       "year": 2003,
@@ -7059,7 +7059,7 @@ const ARTIST_DATA = {
       "venue": "Myers Fieldhouse",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Earthworks Sr71s \u00b7 Adam Meyer"
+      "notes": "Earthworks Sr71s · Adam Meyer"
     },
     {
       "year": 2003,
@@ -7085,7 +7085,7 @@ const ARTIST_DATA = {
       "venue": "Quandt Fieldhouse",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MZ-R700 \u00b7 Unknown"
+      "notes": "Sony MZ-R700 · Unknown"
     },
     {
       "year": 2003,
@@ -7124,7 +7124,7 @@ const ARTIST_DATA = {
       "venue": "Reilly Center, St. Bonaventure University",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akg 480/ck63 \u00b7 Eric Naylor"
+      "notes": "Akg 480/ck63 · Eric Naylor"
     },
     {
       "year": 2003,
@@ -7280,7 +7280,7 @@ const ARTIST_DATA = {
       "venue": "Norwegian Wood Festival",
       "version": "TV",
       "format": "FLAC",
-      "notes": "Nrk Norwegian Broadcasting \u00b7 Merete Stava"
+      "notes": "Nrk Norwegian Broadcasting · Merete Stava"
     },
     {
       "year": 2003,
@@ -7319,7 +7319,7 @@ const ARTIST_DATA = {
       "venue": "Fitzgerald Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Skytronic Condenser Mic \u00b7 Netheredgeman"
+      "notes": "Skytronic Condenser Mic · Netheredgeman"
     },
     {
       "year": 2003,
@@ -7384,7 +7384,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Unknown"
+      "notes": "Schoeps MK4 · Unknown"
     },
     {
       "year": 2003,
@@ -7501,7 +7501,7 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853 \u00b7 Chris Lesiak"
+      "notes": "AT853 · Chris Lesiak"
     },
     {
       "year": 2003,
@@ -7592,7 +7592,7 @@ const ARTIST_DATA = {
       "venue": "Saratoga Performing Arts Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "MasterSony D7 \u00b7 Dssman"
+      "notes": "MasterSony D7 · Dssman"
     },
     {
       "year": 2003,
@@ -7618,7 +7618,7 @@ const ARTIST_DATA = {
       "venue": "CTNow.com Meadows Music Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akg 480 \u00b7 Hayden Berard"
+      "notes": "Akg 480 · Hayden Berard"
     },
     {
       "year": 2003,
@@ -7696,7 +7696,7 @@ const ARTIST_DATA = {
       "venue": "USF Sun Dome",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Scott Murdock"
+      "notes": "Unknown · Scott Murdock"
     },
     {
       "year": 2003,
@@ -7748,7 +7748,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps CCM4 \u00b7 Unknown"
+      "notes": "Schoeps CCM4 · Unknown"
     },
     {
       "year": 2003,
@@ -7787,7 +7787,7 @@ const ARTIST_DATA = {
       "venue": "Bimbo's 365 Club",
       "version": "WEB",
       "format": "FLAC",
-      "notes": "Amazon Webcast \u00b7 Reigntaper"
+      "notes": "Amazon Webcast · Reigntaper"
     },
     {
       "year": 2003,
@@ -7878,7 +7878,7 @@ const ARTIST_DATA = {
       "venue": "Warfield Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann Km184s \u00b7 Joe Polastre"
+      "notes": "Neumann Km184s · Joe Polastre"
     },
     {
       "year": 2003,
@@ -7917,7 +7917,7 @@ const ARTIST_DATA = {
       "venue": "Warfield Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann Km184s \u00b7 Joe Polastre"
+      "notes": "Neumann Km184s · Joe Polastre"
     },
     {
       "year": 2003,
@@ -7930,7 +7930,7 @@ const ARTIST_DATA = {
       "venue": "Warfield Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann Km184s \u00b7 Joe Polastre"
+      "notes": "Neumann Km184s · Joe Polastre"
     },
     {
       "year": 2003,
@@ -7956,7 +7956,7 @@ const ARTIST_DATA = {
       "venue": "Wiltern Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Oktava Mc012s \u00b7 Blguillen"
+      "notes": "Oktava Mc012s · Blguillen"
     },
     {
       "year": 2003,
@@ -7969,7 +7969,7 @@ const ARTIST_DATA = {
       "venue": "Wiltern Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Oktava Mc012s \u00b7 Blguillen"
+      "notes": "Oktava Mc012s · Blguillen"
     },
     {
       "year": 2003,
@@ -7982,7 +7982,7 @@ const ARTIST_DATA = {
       "venue": "Wiltern Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Oktava Mc012s \u00b7 Blguillen"
+      "notes": "Oktava Mc012s · Blguillen"
     },
     {
       "year": 2003,
@@ -7995,7 +7995,7 @@ const ARTIST_DATA = {
       "venue": "Wiltern Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Oktava Mc012s \u00b7 Blguillen"
+      "notes": "Oktava Mc012s · Blguillen"
     },
     {
       "year": 2004,
@@ -8008,7 +8008,7 @@ const ARTIST_DATA = {
       "venue": "Apollo",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa Mic \u00b7 Tradewalker"
+      "notes": "Aiwa Mic · Tradewalker"
     },
     {
       "year": 2004,
@@ -8021,7 +8021,7 @@ const ARTIST_DATA = {
       "venue": "Apollo",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony powered mic \u00b7 Martin Gonzalez"
+      "notes": "Sony powered mic · Martin Gonzalez"
     },
     {
       "year": 2004,
@@ -8034,7 +8034,7 @@ const ARTIST_DATA = {
       "venue": "Carling Apollo",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Rob Shard"
+      "notes": "CSB · Rob Shard"
     },
     {
       "year": 2004,
@@ -8047,7 +8047,7 @@ const ARTIST_DATA = {
       "venue": "Carling Apollo",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Rob Shard"
+      "notes": "CSB · Rob Shard"
     },
     {
       "year": 2004,
@@ -8112,7 +8112,7 @@ const ARTIST_DATA = {
       "venue": "Olympia Theatre",
       "version": "AUD",
       "format": "MP3",
-      "notes": "Sony mic \u00b7 Torsten Koester"
+      "notes": "Sony mic · Torsten Koester"
     },
     {
       "year": 2004,
@@ -8320,7 +8320,7 @@ const ARTIST_DATA = {
       "venue": "Konocti Harbor Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MZ R900 \u00b7 Unknown"
+      "notes": "Sony MZ R900 · Unknown"
     },
     {
       "year": 2004,
@@ -8372,7 +8372,7 @@ const ARTIST_DATA = {
       "venue": "Jerome Duncan Ford Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Christopher M. Belch"
+      "notes": "SP-CMC-8 · Christopher M. Belch"
     },
     {
       "year": 2004,
@@ -8528,7 +8528,7 @@ const ARTIST_DATA = {
       "venue": "The Legends",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Mbho 603/ka500hn \u00b7 Ryan Hoyt"
+      "notes": "Mbho 603/ka500hn · Ryan Hoyt"
     },
     {
       "year": 2006,
@@ -8541,7 +8541,7 @@ const ARTIST_DATA = {
       "venue": "Merriweather Post Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 travelinbeat"
+      "notes": "CSB · travelinbeat"
     },
     {
       "year": 2006,
@@ -8567,7 +8567,7 @@ const ARTIST_DATA = {
       "venue": "Sleep Train Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "94s Super Cardioids \u00b7 Wordgroove"
+      "notes": "94s Super Cardioids · Wordgroove"
     },
     {
       "year": 2006,
@@ -8580,7 +8580,7 @@ const ARTIST_DATA = {
       "venue": "Concord Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "94s Super Cardioids \u00b7 Wordgroove"
+      "notes": "94s Super Cardioids · Wordgroove"
     },
     {
       "year": 2006,
@@ -8593,7 +8593,7 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 N2thelite"
+      "notes": "Unknown · N2thelite"
     },
     {
       "year": 2006,
@@ -8645,7 +8645,7 @@ const ARTIST_DATA = {
       "venue": "PNC Bank Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Unknown"
+      "notes": "CSB · Unknown"
     },
     {
       "year": 2006,
@@ -8671,7 +8671,7 @@ const ARTIST_DATA = {
       "venue": "Midwest Bank Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ss Dsm6 \u00b7 Unknown"
+      "notes": "Ss Dsm6 · Unknown"
     },
     {
       "year": 2006,
@@ -8684,7 +8684,7 @@ const ARTIST_DATA = {
       "venue": "Alltel Pavilion at Walnut Creek",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4022s \u00b7 Nick Gregory"
+      "notes": "DPA 4022s · Nick Gregory"
     },
     {
       "year": 2006,
@@ -8697,7 +8697,7 @@ const ARTIST_DATA = {
       "venue": "Sound Advice Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Olympus Ws-300m \u00b7 Alex Grosholz"
+      "notes": "Olympus Ws-300m · Alex Grosholz"
     },
     {
       "year": 2006,
@@ -8710,7 +8710,7 @@ const ARTIST_DATA = {
       "venue": "Ford Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4022 \u00b7 Bluntforcetrauma"
+      "notes": "DPA 4022 · Bluntforcetrauma"
     },
     {
       "year": 2006,
@@ -8723,7 +8723,7 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC4c \u00b7 Unknown"
+      "notes": "SP-CMC4c · Unknown"
     },
     {
       "year": 2006,
@@ -8736,7 +8736,7 @@ const ARTIST_DATA = {
       "venue": "Cynthia Woods Mitchell Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sp-bmc-3 \u00b7 Justin Kacz"
+      "notes": "Sp-bmc-3 · Justin Kacz"
     },
     {
       "year": 2006,
@@ -8749,7 +8749,7 @@ const ARTIST_DATA = {
       "venue": "Cynthia Woods Mitchell Pavilion",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Webcast \u00b7 G.d. Smith"
+      "notes": "Webcast · G.d. Smith"
     },
     {
       "year": 2006,
@@ -8775,7 +8775,7 @@ const ARTIST_DATA = {
       "venue": "Smirnoff Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TCD-D8 \u00b7 Texasnight \u00b7 Remaster"
+      "notes": "Sony TCD-D8 · Texasnight · Remaster"
     },
     {
       "year": 2006,
@@ -8788,7 +8788,7 @@ const ARTIST_DATA = {
       "venue": "MGM Grand - Grand Slam for Children",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sony ECM-DS70P \u00b7 Unknown"
+      "notes": "Sony ECM-DS70P · Unknown"
     },
     {
       "year": 2006,
@@ -8866,7 +8866,7 @@ const ARTIST_DATA = {
       "venue": "Telluride Bluegrass Festival - Town Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Royer Mods \u00b7 Paulrennix"
+      "notes": "Royer Mods · Paulrennix"
     },
     {
       "year": 2007,
@@ -8892,7 +8892,7 @@ const ARTIST_DATA = {
       "venue": "MLB All-Star Game Pre-show",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony DCR HC-30 \u00b7 Mike"
+      "notes": "Sony DCR HC-30 · Mike"
     },
     {
       "year": 2007,
@@ -8905,7 +8905,7 @@ const ARTIST_DATA = {
       "venue": "Daniel S. Frawley Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Mg M200s \u00b7 Dave Thoma"
+      "notes": "Mg M200s · Dave Thoma"
     },
     {
       "year": 2007,
@@ -8944,7 +8944,7 @@ const ARTIST_DATA = {
       "venue": "Fifth Third Ballpark",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Tunetalk \u00b7 Bohm"
+      "notes": "Tunetalk · Bohm"
     },
     {
       "year": 2007,
@@ -8957,7 +8957,7 @@ const ARTIST_DATA = {
       "venue": "Fifth Third Ballpark",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853s \u00b7 Richard Simms"
+      "notes": "AT853s · Richard Simms"
     },
     {
       "year": 2007,
@@ -8983,7 +8983,7 @@ const ARTIST_DATA = {
       "venue": "Victory Field",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Giant Squid Omnis \u00b7 Mike Peters"
+      "notes": "Giant Squid Omnis · Mike Peters"
     },
     {
       "year": 2007,
@@ -9022,7 +9022,7 @@ const ARTIST_DATA = {
       "venue": "Principle Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4 \u00b7 John52il"
+      "notes": "Zoom H4 · John52il"
     },
     {
       "year": 2007,
@@ -9035,7 +9035,7 @@ const ARTIST_DATA = {
       "venue": "Ripken Stadium",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Triple Play Tour \u00b7 Mg M200s \u00b7 Dave Thoma"
+      "notes": "Triple Play Tour · Mg M200s · Dave Thoma"
     },
     {
       "year": 2007,
@@ -9048,7 +9048,7 @@ const ARTIST_DATA = {
       "venue": "McCoy Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps CMC64 \u00b7 Steve Knapp"
+      "notes": "Schoeps CMC64 · Steve Knapp"
     },
     {
       "year": 2007,
@@ -9087,7 +9087,7 @@ const ARTIST_DATA = {
       "venue": "Town Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sp-tfb-2 \u00b7 Unknown"
+      "notes": "Sp-tfb-2 · Unknown"
     },
     {
       "year": 2007,
@@ -9100,7 +9100,7 @@ const ARTIST_DATA = {
       "venue": "Blender Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4015-TL \u00b7 Mr. Jones"
+      "notes": "DPA 4015-TL · Mr. Jones"
     },
     {
       "year": 2008,
@@ -9113,7 +9113,7 @@ const ARTIST_DATA = {
       "venue": "Ram's Head",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4 \u00b7 John Lyman"
+      "notes": "Zoom H4 · John Lyman"
     },
     {
       "year": 2008,
@@ -9152,7 +9152,7 @@ const ARTIST_DATA = {
       "venue": "Bowery Ballroom",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Edirol R09 \u00b7 Tigger165"
+      "notes": "Edirol R09 · Tigger165"
     },
     {
       "year": 2008,
@@ -9191,7 +9191,7 @@ const ARTIST_DATA = {
       "venue": "Blender Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sp Mics \u00b7 Stanrifle"
+      "notes": "Sp Mics · Stanrifle"
     },
     {
       "year": 2008,
@@ -9360,7 +9360,7 @@ const ARTIST_DATA = {
       "venue": "Apple Store",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Belkin Tunetalk \u00b7 Unknown"
+      "notes": "Belkin Tunetalk · Unknown"
     },
     {
       "year": 2008,
@@ -9386,7 +9386,7 @@ const ARTIST_DATA = {
       "venue": "WTTW Studios Soundstage",
       "version": "TV",
       "format": "DVD",
-      "notes": "Palladia Hd \u00b7 Richard Simms"
+      "notes": "Palladia Hd · Richard Simms"
     },
     {
       "year": 2008,
@@ -9399,7 +9399,7 @@ const ARTIST_DATA = {
       "venue": "Apple Store",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4 \u00b7 John Lyman"
+      "notes": "Zoom H4 · John Lyman"
     },
     {
       "year": 2008,
@@ -9425,7 +9425,7 @@ const ARTIST_DATA = {
       "venue": "Carthage College",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Dina \u00b7 Unknown"
+      "notes": "Dina · Unknown"
     },
     {
       "year": 2008,
@@ -9438,7 +9438,7 @@ const ARTIST_DATA = {
       "venue": "Liberty Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Gefell M-300s \u00b7 Michael Cropp"
+      "notes": "Gefell M-300s · Michael Cropp"
     },
     {
       "year": 2008,
@@ -9529,7 +9529,7 @@ const ARTIST_DATA = {
       "venue": "Heineken Jammin Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Luigi B."
+      "notes": "DPA 4061s · Luigi B."
     },
     {
       "year": 2008,
@@ -9542,7 +9542,7 @@ const ARTIST_DATA = {
       "venue": "Ancienne Belgique",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4 \u00b7 Graham Smith"
+      "notes": "Zoom H4 · Graham Smith"
     },
     {
       "year": 2008,
@@ -9555,7 +9555,7 @@ const ARTIST_DATA = {
       "venue": "Rock Werchter Belgique",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-4U \u00b7 Bitdourssss"
+      "notes": "SP-CMC-4U · Bitdourssss"
     },
     {
       "year": 2008,
@@ -9568,7 +9568,7 @@ const ARTIST_DATA = {
       "venue": "Wireless Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SPSC \u00b7 Kevtic"
+      "notes": "SPSC · Kevtic"
     },
     {
       "year": 2008,
@@ -9607,7 +9607,7 @@ const ARTIST_DATA = {
       "venue": "Echo Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa Am-f75 \u00b7 Ted Sayer"
+      "notes": "Aiwa Am-f75 · Ted Sayer"
     },
     {
       "year": 2008,
@@ -9633,7 +9633,7 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "MKH8040st \u00b7 John Kelly"
+      "notes": "MKH8040st · John Kelly"
     },
     {
       "year": 2008,
@@ -9828,7 +9828,7 @@ const ARTIST_DATA = {
       "venue": "Jiffy Lube Live",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "travelinbeat \u00b7 Ca-14s"
+      "notes": "travelinbeat · Ca-14s"
     },
     {
       "year": 2008,
@@ -9867,7 +9867,7 @@ const ARTIST_DATA = {
       "venue": "Molson Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "matt splatto \u00b7 Edirol R09"
+      "notes": "matt splatto · Edirol R09"
     },
     {
       "year": 2008,
@@ -9906,7 +9906,7 @@ const ARTIST_DATA = {
       "venue": "First Midwest Bank Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Avant Ck-1 \u00b7 Richard Simms"
+      "notes": "Avant Ck-1 · Richard Simms"
     },
     {
       "year": 2008,
@@ -9932,7 +9932,7 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Mbho603ks500hn \u00b7 Soling"
+      "notes": "Mbho603ks500hn · Soling"
     },
     {
       "year": 2008,
@@ -9945,7 +9945,7 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853s \u00b7 Richard Simms"
+      "notes": "AT853s · Richard Simms"
     },
     {
       "year": 2008,
@@ -10010,7 +10010,7 @@ const ARTIST_DATA = {
       "venue": "DTE Energy Music Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Avant Ck-1 \u00b7 Richard Simms"
+      "notes": "Avant Ck-1 · Richard Simms"
     },
     {
       "year": 2008,
@@ -10036,7 +10036,7 @@ const ARTIST_DATA = {
       "venue": "Riverbend Music Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca Mics \u00b7 Greg Bernard"
+      "notes": "Ca Mics · Greg Bernard"
     },
     {
       "year": 2008,
@@ -10062,7 +10062,7 @@ const ARTIST_DATA = {
       "venue": "Cynthia Woods Mitchell Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4023 \u00b7 Justin Kacz"
+      "notes": "DPA 4023 · Justin Kacz"
     },
     {
       "year": 2008,
@@ -10075,7 +10075,7 @@ const ARTIST_DATA = {
       "venue": "Cynthia Woods Mitchell Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Tim"
+      "notes": "Unknown · Tim"
     },
     {
       "year": 2008,
@@ -10244,7 +10244,7 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 jeff hatcher"
+      "notes": "Schoeps MK4 · jeff hatcher"
     },
     {
       "year": 2008,
@@ -10270,7 +10270,7 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheatre",
       "version": "WEB",
       "format": "FLAC",
-      "notes": "Dave 92.9 \u00b7 Graham Smith"
+      "notes": "Dave 92.9 · Graham Smith"
     },
     {
       "year": 2008,
@@ -10322,7 +10322,7 @@ const ARTIST_DATA = {
       "venue": "Wellmont Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Avant Ck-1 \u00b7 Richard Simms"
+      "notes": "Avant Ck-1 · Richard Simms"
     },
     {
       "year": 2008,
@@ -10335,7 +10335,7 @@ const ARTIST_DATA = {
       "venue": "Wellmont Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Avant Ck-1 \u00b7 Richard Simms"
+      "notes": "Avant Ck-1 · Richard Simms"
     },
     {
       "year": 2008,
@@ -10361,7 +10361,7 @@ const ARTIST_DATA = {
       "venue": "Wellmont Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Avant Ck-1 \u00b7 Richard Simms"
+      "notes": "Avant Ck-1 · Richard Simms"
     },
     {
       "year": 2008,
@@ -10387,7 +10387,7 @@ const ARTIST_DATA = {
       "venue": "Palais Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Audix M1290s \u00b7 Adam"
+      "notes": "Audix M1290s · Adam"
     },
     {
       "year": 2009,
@@ -10400,7 +10400,7 @@ const ARTIST_DATA = {
       "venue": "Palais Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853s \u00b7 Adam"
+      "notes": "AT853s · Adam"
     },
     {
       "year": 2009,
@@ -10452,7 +10452,7 @@ const ARTIST_DATA = {
       "venue": "Odyssey",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Randall Higgins"
+      "notes": "Sony ECM-717 · Randall Higgins"
     },
     {
       "year": 2009,
@@ -10465,7 +10465,7 @@ const ARTIST_DATA = {
       "venue": "02 Point Depot",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Randall Higgins"
+      "notes": "Sony ECM-717 · Randall Higgins"
     },
     {
       "year": 2009,
@@ -10478,7 +10478,7 @@ const ARTIST_DATA = {
       "venue": "02 Point Depot",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H2 \u00b7 Paul Green"
+      "notes": "Zoom H2 · Paul Green"
     },
     {
       "year": 2009,
@@ -10491,7 +10491,7 @@ const ARTIST_DATA = {
       "venue": "Scottish Exhibition Conference Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SPSC \u00b7 Kevtic"
+      "notes": "SPSC · Kevtic"
     },
     {
       "year": 2009,
@@ -10504,7 +10504,7 @@ const ARTIST_DATA = {
       "venue": "Scottish Exhibition Conference Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Randall Higgins"
+      "notes": "Sony ECM-717 · Randall Higgins"
     },
     {
       "year": 2009,
@@ -10517,7 +10517,7 @@ const ARTIST_DATA = {
       "venue": "MENA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa Md \u00b7 Ted Sayers"
+      "notes": "Aiwa Md · Ted Sayers"
     },
     {
       "year": 2009,
@@ -10530,7 +10530,7 @@ const ARTIST_DATA = {
       "venue": "MENA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Randall Higgins"
+      "notes": "Sony ECM-717 · Randall Higgins"
     },
     {
       "year": 2009,
@@ -10543,7 +10543,7 @@ const ARTIST_DATA = {
       "venue": "MENA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Martin Gonzalez"
+      "notes": "Unknown · Martin Gonzalez"
     },
     {
       "year": 2009,
@@ -10556,7 +10556,7 @@ const ARTIST_DATA = {
       "venue": "NIA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4 \u00b7 G.d. Smith"
+      "notes": "Zoom H4 · G.d. Smith"
     },
     {
       "year": 2009,
@@ -10569,7 +10569,7 @@ const ARTIST_DATA = {
       "venue": "NIA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Randall Higgins"
+      "notes": "Sony ECM-717 · Randall Higgins"
     },
     {
       "year": 2009,
@@ -10582,7 +10582,7 @@ const ARTIST_DATA = {
       "venue": "Wembley Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Randall Higgins"
+      "notes": "Sony ECM-717 · Randall Higgins"
     },
     {
       "year": 2009,
@@ -10621,7 +10621,7 @@ const ARTIST_DATA = {
       "venue": "02 Academy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony HiMD \u00b7 darren wheatley"
+      "notes": "Sony HiMD · darren wheatley"
     },
     {
       "year": 2009,
@@ -10634,7 +10634,7 @@ const ARTIST_DATA = {
       "venue": "02 Academy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Martin Gonzalez"
+      "notes": "Sony ECM-717 · Martin Gonzalez"
     },
     {
       "year": 2009,
@@ -10647,7 +10647,7 @@ const ARTIST_DATA = {
       "venue": "02 Academy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SPSC \u00b7 Kevtic"
+      "notes": "SPSC · Kevtic"
     },
     {
       "year": 2009,
@@ -10660,7 +10660,7 @@ const ARTIST_DATA = {
       "venue": "Nottingham Royal Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Martin Gonzalez"
+      "notes": "Sony ECM-717 · Martin Gonzalez"
     },
     {
       "year": 2009,
@@ -10686,7 +10686,7 @@ const ARTIST_DATA = {
       "venue": "Summerfest",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4 \u00b7 John Lyman"
+      "notes": "Zoom H4 · John Lyman"
     },
     {
       "year": 2009,
@@ -10712,7 +10712,7 @@ const ARTIST_DATA = {
       "venue": "Grant Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853s \u00b7 Taste Of Chicago \u00b7 Richard Simms"
+      "notes": "AT853s · Taste Of Chicago · Richard Simms"
     },
     {
       "year": 2009,
@@ -10725,7 +10725,7 @@ const ARTIST_DATA = {
       "venue": "Muskegon Summer Celebration",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853s \u00b7 Richard Simms"
+      "notes": "AT853s · Richard Simms"
     },
     {
       "year": 2009,
@@ -10738,7 +10738,7 @@ const ARTIST_DATA = {
       "venue": "Live on the Levee @ St. Louis Riverfront",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Studio Projects C4s \u00b7 Shane E. Calhoun"
+      "notes": "Studio Projects C4s · Shane E. Calhoun"
     },
     {
       "year": 2009,
@@ -10751,7 +10751,7 @@ const ARTIST_DATA = {
       "venue": "Grandview Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akg C460b \u00b7 Mr. Darby"
+      "notes": "Akg C460b · Mr. Darby"
     },
     {
       "year": 2009,
@@ -10764,7 +10764,7 @@ const ARTIST_DATA = {
       "venue": "Meadow Brook Music Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akg C460b/ck61 \u00b7 Richard Simms"
+      "notes": "Akg C460b/ck61 · Richard Simms"
     },
     {
       "year": 2009,
@@ -10790,7 +10790,7 @@ const ARTIST_DATA = {
       "venue": "Basilica Block Party",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MD \u00b7 Unknown"
+      "notes": "Sony MD · Unknown"
     },
     {
       "year": 2009,
@@ -10803,7 +10803,7 @@ const ARTIST_DATA = {
       "venue": "Maryhill Winery",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akd Sc-ts \u00b7 Kirk Davis"
+      "notes": "Akd Sc-ts · Kirk Davis"
     },
     {
       "year": 2009,
@@ -10816,7 +10816,7 @@ const ARTIST_DATA = {
       "venue": "The Greek Theater(M",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4s \u00b7 Taz"
+      "notes": "Schoeps MK4s · Taz"
     },
     {
       "year": 2009,
@@ -10829,7 +10829,7 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11 \u00b7 Unknown"
+      "notes": "Ca-11 · Unknown"
     },
     {
       "year": 2009,
@@ -10842,7 +10842,7 @@ const ARTIST_DATA = {
       "venue": "Sam Houston Racetrack",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Tim"
+      "notes": "Unknown · Tim"
     },
     {
       "year": 2009,
@@ -10855,7 +10855,7 @@ const ARTIST_DATA = {
       "venue": "Sam Houston Racetrack",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann Ak20/ak40 \u00b7 Bwolf"
+      "notes": "Neumann Ak20/ak40 · Bwolf"
     },
     {
       "year": 2009,
@@ -10868,7 +10868,7 @@ const ARTIST_DATA = {
       "venue": "Austin Music Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akg 483 \u00b7 Larry Pillman"
+      "notes": "Akg 483 · Larry Pillman"
     },
     {
       "year": 2009,
@@ -10881,7 +10881,7 @@ const ARTIST_DATA = {
       "venue": "Ruth Eckerd Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Peluso Cemc-6/ck21 \u00b7 Tim Wright"
+      "notes": "Peluso Cemc-6/ck21 · Tim Wright"
     },
     {
       "year": 2009,
@@ -10894,7 +10894,7 @@ const ARTIST_DATA = {
       "venue": "Hammerstein Ballroom",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Edirol R09 \u00b7 Tigger165"
+      "notes": "Edirol R09 · Tigger165"
     },
     {
       "year": 2009,
@@ -10907,7 +10907,7 @@ const ARTIST_DATA = {
       "venue": "Borgata Casino",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Unknown"
+      "notes": "Schoeps MK4 · Unknown"
     },
     {
       "year": 2009,
@@ -10920,7 +10920,7 @@ const ARTIST_DATA = {
       "venue": "Count Basie Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Edirol R09 \u00b7 Tigger165"
+      "notes": "Edirol R09 · Tigger165"
     },
     {
       "year": 2009,
@@ -10933,7 +10933,7 @@ const ARTIST_DATA = {
       "venue": "Rumsey Playfield at Central Park Summerstage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa Amf70 \u00b7 Claire"
+      "notes": "Aiwa Amf70 · Claire"
     },
     {
       "year": 2009,
@@ -10946,7 +10946,7 @@ const ARTIST_DATA = {
       "venue": "Rumsey Playfield at Central Park Summerstage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann Tlm170 \u00b7 Scott Bernstein"
+      "notes": "Neumann Tlm170 · Scott Bernstein"
     },
     {
       "year": 2009,
@@ -10959,7 +10959,7 @@ const ARTIST_DATA = {
       "venue": "Merriweather Post Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "travelinbeat \u00b7 Busman Bsc-1-k1s"
+      "notes": "travelinbeat · Busman Bsc-1-k1s"
     },
     {
       "year": 2009,
@@ -10998,7 +10998,7 @@ const ARTIST_DATA = {
       "venue": "Orange Peel - Xmas Pre Jam",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Shoeps 4vs \u00b7 Manofz"
+      "notes": "Shoeps 4vs · Manofz"
     },
     {
       "year": 2009,
@@ -11011,7 +11011,7 @@ const ARTIST_DATA = {
       "venue": "Asheville Civic Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akg391s \u00b7 Unknown"
+      "notes": "Akg391s · Unknown"
     },
     {
       "year": 2009,
@@ -11024,7 +11024,7 @@ const ARTIST_DATA = {
       "venue": "Asheville Civic Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sennheiser MKH-8050s \u00b7 Unknown"
+      "notes": "Sennheiser MKH-8050s · Unknown"
     },
     {
       "year": 2009,
@@ -11037,7 +11037,7 @@ const ARTIST_DATA = {
       "venue": "Asheville Civic Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4021 + DPA 4017 \u00b7 D. Bishop & R. Graham"
+      "notes": "DPA 4021 + DPA 4017 · D. Bishop & R. Graham"
     },
     {
       "year": 2009,
@@ -11050,7 +11050,7 @@ const ARTIST_DATA = {
       "venue": "Asheville Civic Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Scheops CCM4Vs \u00b7 Z-man"
+      "notes": "Scheops CCM4Vs · Z-man"
     },
     {
       "year": 2010,
@@ -11063,7 +11063,7 @@ const ARTIST_DATA = {
       "venue": "The Borgata Event Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Stanrifle"
+      "notes": "SP-CMC-8 · Stanrifle"
     },
     {
       "year": 2010,
@@ -11076,7 +11076,7 @@ const ARTIST_DATA = {
       "venue": "MGM Grand at Foxwoods",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sennheiser Me-104s \u00b7 Ringfedder"
+      "notes": "Sennheiser Me-104s · Ringfedder"
     },
     {
       "year": 2010,
@@ -11089,7 +11089,7 @@ const ARTIST_DATA = {
       "venue": "Cape Cod Melody Tent",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Unknown"
+      "notes": "DPA 4061s · Unknown"
     },
     {
       "year": 2010,
@@ -11102,7 +11102,7 @@ const ARTIST_DATA = {
       "venue": "Ravinia",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4s \u00b7 John52il"
+      "notes": "Zoom H4s · John52il"
     },
     {
       "year": 2010,
@@ -11115,7 +11115,7 @@ const ARTIST_DATA = {
       "venue": "Mid America Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11s \u00b7 Unknown"
+      "notes": "Ca-11s · Unknown"
     },
     {
       "year": 2010,
@@ -11128,7 +11128,7 @@ const ARTIST_DATA = {
       "venue": "Ravinia",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4 \u00b7 Unknown"
+      "notes": "Zoom H4 · Unknown"
     },
     {
       "year": 2011,
@@ -11141,7 +11141,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4 \u00b7 John52il"
+      "notes": "Zoom H4 · John52il"
     },
     {
       "year": 2011,
@@ -11154,7 +11154,7 @@ const ARTIST_DATA = {
       "venue": "CA Mid-state Fair",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Inc \u00b7 Robert Real"
+      "notes": "Inc · Robert Real"
     },
     {
       "year": 2012,
@@ -11167,7 +11167,7 @@ const ARTIST_DATA = {
       "venue": "Great American Music Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H2 \u00b7 Unknown"
+      "notes": "Zoom H2 · Unknown"
     },
     {
       "year": 2012,
@@ -11180,7 +11180,7 @@ const ARTIST_DATA = {
       "venue": "SXSW / Auditorium Shores",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Axs.tv \u00b7 Justin Kacz"
+      "notes": "Axs.tv · Justin Kacz"
     },
     {
       "year": 2012,
@@ -11193,7 +11193,7 @@ const ARTIST_DATA = {
       "venue": "The Riviera Theatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14s \u00b7 Brian Emerick"
+      "notes": "Ca-14s · Brian Emerick"
     },
     {
       "year": 2012,
@@ -11206,7 +11206,7 @@ const ARTIST_DATA = {
       "venue": "MGM Grand Theater at Foxwoods",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sennheiser Me-104s \u00b7 Ringfedder"
+      "notes": "Sennheiser Me-104s · Ringfedder"
     },
     {
       "year": 2012,
@@ -11219,7 +11219,7 @@ const ARTIST_DATA = {
       "venue": "Wolftrap National Park for the Performing Arts",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "travelinbeat \u00b7 Bsc1-k1s"
+      "notes": "travelinbeat · Bsc1-k1s"
     },
     {
       "year": 2012,
@@ -11232,7 +11232,7 @@ const ARTIST_DATA = {
       "venue": "Iroquois Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Tascam Im2 \u00b7 Greg Bernard"
+      "notes": "Tascam Im2 · Greg Bernard"
     },
     {
       "year": 2012,
@@ -11245,7 +11245,7 @@ const ARTIST_DATA = {
       "venue": "White River State Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4 \u00b7 Unknown"
+      "notes": "Zoom H4 · Unknown"
     },
     {
       "year": 2012,
@@ -11258,7 +11258,7 @@ const ARTIST_DATA = {
       "venue": "BMO Harris Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4 \u00b7 John52il"
+      "notes": "Zoom H4 · John52il"
     },
     {
       "year": 2012,
@@ -11271,7 +11271,7 @@ const ARTIST_DATA = {
       "venue": "The Pinewood Bowl",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Nakamichi CM-300 \u00b7 Mike Lauver"
+      "notes": "Nakamichi CM-300 · Mike Lauver"
     },
     {
       "year": 2012,
@@ -11284,7 +11284,7 @@ const ARTIST_DATA = {
       "venue": "Starlight Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Unknown"
+      "notes": "Schoeps MK4 · Unknown"
     },
     {
       "year": 2012,
@@ -11297,7 +11297,7 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4 \u00b7 John Lyman"
+      "notes": "Zoom H4 · John Lyman"
     },
     {
       "year": 2012,
@@ -11323,7 +11323,7 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann Tlm-170s \u00b7 Scott Bernstein"
+      "notes": "Neumann Tlm-170s · Scott Bernstein"
     },
     {
       "year": 2012,
@@ -11336,7 +11336,7 @@ const ARTIST_DATA = {
       "venue": "Stubb's BBQ",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4 \u00b7 John Lyman & John52il"
+      "notes": "Zoom H4 · John Lyman & John52il"
     },
     {
       "year": 2012,
@@ -11349,7 +11349,7 @@ const ARTIST_DATA = {
       "venue": "Bayou Music Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4021 \u00b7 Justin Kacz"
+      "notes": "DPA 4021 · Justin Kacz"
     },
     {
       "year": 2012,
@@ -11362,7 +11362,7 @@ const ARTIST_DATA = {
       "venue": "Wiltern Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4 \u00b7 John52il"
+      "notes": "Zoom H4 · John52il"
     },
     {
       "year": 2013,
@@ -11401,7 +11401,7 @@ const ARTIST_DATA = {
       "venue": "Heineken Music Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM 717 \u00b7 Unknown"
+      "notes": "Sony ECM 717 · Unknown"
     },
     {
       "year": 2013,
@@ -11414,7 +11414,7 @@ const ARTIST_DATA = {
       "venue": "Lottoa Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Edirol R05 \u00b7 Unknown"
+      "notes": "Edirol R05 · Unknown"
     },
     {
       "year": 2013,
@@ -11427,7 +11427,7 @@ const ARTIST_DATA = {
       "venue": "02 Academy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4 \u00b7 Graham Smith"
+      "notes": "Zoom H4 · Graham Smith"
     },
     {
       "year": 2013,
@@ -11440,7 +11440,7 @@ const ARTIST_DATA = {
       "venue": "Colston Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Iphone 4s \u00b7 Adam Grant"
+      "notes": "Iphone 4s · Adam Grant"
     },
     {
       "year": 2013,
@@ -11466,7 +11466,7 @@ const ARTIST_DATA = {
       "venue": "02 Apollo",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Tascam Dr-05 \u00b7 Ted Sayers"
+      "notes": "Tascam Dr-05 · Ted Sayers"
     },
     {
       "year": 2013,
@@ -11479,7 +11479,7 @@ const ARTIST_DATA = {
       "venue": "Academy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM 717 \u00b7 Unknown"
+      "notes": "Sony ECM 717 · Unknown"
     },
     {
       "year": 2013,
@@ -11492,7 +11492,7 @@ const ARTIST_DATA = {
       "venue": "Penny Saver Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8s \u00b7 Unknown"
+      "notes": "SP-CMC-8s · Unknown"
     },
     {
       "year": 2013,
@@ -11505,7 +11505,7 @@ const ARTIST_DATA = {
       "venue": "MGM Grand at Foxwoods",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sennheiser Me-104s \u00b7 Ringfedder"
+      "notes": "Sennheiser Me-104s · Ringfedder"
     },
     {
       "year": 2013,
@@ -11518,7 +11518,7 @@ const ARTIST_DATA = {
       "venue": "Filene Center at Wolf Trap",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ALD \u00b7 Unknown"
+      "notes": "ALD · Unknown"
     },
     {
       "year": 2013,
@@ -11531,7 +11531,7 @@ const ARTIST_DATA = {
       "venue": "Erie Canal Outer Harbor",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Taskcam Dr-07 \u00b7 Bigdaddybflo"
+      "notes": "Taskcam Dr-07 · Bigdaddybflo"
     },
     {
       "year": 2013,
@@ -11765,7 +11765,7 @@ const ARTIST_DATA = {
       "venue": "Summerstage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Edirol R-09 \u00b7 Jon Pasternak"
+      "notes": "Edirol R-09 · Jon Pasternak"
     },
     {
       "year": 2014,
@@ -11804,7 +11804,7 @@ const ARTIST_DATA = {
       "venue": "The Filene Center - at Wolf Trap Center for Performing Arts",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "nate evans \u00b7 Neumann Ak50-lc3"
+      "notes": "nate evans · Neumann Ak50-lc3"
     },
     {
       "year": 2014,
@@ -11843,7 +11843,7 @@ const ARTIST_DATA = {
       "venue": "Lifestyle Communities Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "matt miller \u00b7 Neumann Km140s"
+      "notes": "matt miller · Neumann Km140s"
     },
     {
       "year": 2014,
@@ -12012,7 +12012,7 @@ const ARTIST_DATA = {
       "venue": "Anselmo Valencia Amphitheater",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "AVA \u00b7 Nugs.net"
+      "notes": "AVA · Nugs.net"
     },
     {
       "year": 2014,
@@ -12181,7 +12181,7 @@ const ARTIST_DATA = {
       "venue": "02 Academy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Martin Gonzalez"
+      "notes": "Sony ECM-717 · Martin Gonzalez"
     },
     {
       "year": 2014,
@@ -12220,7 +12220,7 @@ const ARTIST_DATA = {
       "venue": "02 Academy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Iphone 5s \u00b7 Adamness"
+      "notes": "Iphone 5s · Adamness"
     },
     {
       "year": 2014,
@@ -12246,7 +12246,7 @@ const ARTIST_DATA = {
       "venue": "02 Academy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Martin Gonzalez"
+      "notes": "Sony ECM-717 · Martin Gonzalez"
     },
     {
       "year": 2014,
@@ -12272,7 +12272,7 @@ const ARTIST_DATA = {
       "venue": "Apollo",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSC \u00b7 Randall Higgins"
+      "notes": "CSC · Randall Higgins"
     },
     {
       "year": 2014,
@@ -12311,7 +12311,7 @@ const ARTIST_DATA = {
       "venue": "Roundhouse",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSC \u00b7 Randall Higgins"
+      "notes": "CSC · Randall Higgins"
     },
     {
       "year": 2014,
@@ -12337,7 +12337,7 @@ const ARTIST_DATA = {
       "venue": "Roundhouse",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSC \u00b7 Randall Higgins"
+      "notes": "CSC · Randall Higgins"
     },
     {
       "year": 2014,
@@ -12363,7 +12363,7 @@ const ARTIST_DATA = {
       "venue": "Heineken Music Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Jerry1970"
+      "notes": "Unknown · Jerry1970"
     },
     {
       "year": 2014,
@@ -12441,7 +12441,7 @@ const ARTIST_DATA = {
       "venue": "Teatro Geox",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Mrdr Master Series Volume 170 \u00b7 Mrdr"
+      "notes": "Sony ECM-717 · Mrdr Master Series Volume 170 · Mrdr"
     },
     {
       "year": 2014,
@@ -12467,7 +12467,7 @@ const ARTIST_DATA = {
       "venue": "Alcatraz",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "M \u00b7 Edirol R09-hr \u00b7 Lc"
+      "notes": "M · Edirol R09-hr · Lc"
     },
     {
       "year": 2014,
@@ -12480,7 +12480,7 @@ const ARTIST_DATA = {
       "venue": "Alcatraz",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Edirol R-09hr \u00b7 Zuma66"
+      "notes": "Edirol R-09hr · Zuma66"
     },
     {
       "year": 2014,
@@ -12831,7 +12831,7 @@ const ARTIST_DATA = {
       "venue": "Massey Hall",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 Burnboy"
+      "notes": "SP-CMC-8 · Burnboy"
     },
     {
       "year": 2015,
@@ -12935,7 +12935,7 @@ const ARTIST_DATA = {
       "venue": "Civic Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Iphone 5s \u00b7 Adam Grant"
+      "notes": "Iphone 5s · Adam Grant"
     },
     {
       "year": 2015,
@@ -13390,7 +13390,7 @@ const ARTIST_DATA = {
       "venue": "Filene Center at Wolftrap",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "travelinbeat \u00b7 Bsc1-k2s"
+      "notes": "travelinbeat · Bsc1-k2s"
     },
     {
       "year": 2015,
@@ -13416,7 +13416,7 @@ const ARTIST_DATA = {
       "venue": "Oregon Ridge Park - Hot August Music Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4023 \u00b7 Alex Leary"
+      "notes": "DPA 4023 · Alex Leary"
     },
     {
       "year": 2015,
@@ -13546,7 +13546,7 @@ const ARTIST_DATA = {
       "venue": "Artpark",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "AT831s \u00b7 Binko"
+      "notes": "AT831s · Binko"
     },
     {
       "year": 2015,
@@ -14079,7 +14079,7 @@ const ARTIST_DATA = {
       "venue": "Molson Amphitheatre Rec 1",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "CSB \u00b7 Burnboy"
+      "notes": "CSB · Burnboy"
     },
     {
       "year": 2016,
@@ -14092,7 +14092,7 @@ const ARTIST_DATA = {
       "venue": "Molson Amphitheatre Rec 2",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 Burnboy"
+      "notes": "SP-CMC-8 · Burnboy"
     },
     {
       "year": 2016,
@@ -14586,7 +14586,7 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-14s \u00b7 Corrsfan"
+      "notes": "Ca-14s · Corrsfan"
     },
     {
       "year": 2017,
@@ -14820,7 +14820,7 @@ const ARTIST_DATA = {
       "venue": "Darien Lake Performing Arts Center",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "AT831s \u00b7 Binko"
+      "notes": "AT831s · Binko"
     },
     {
       "year": 2017,
@@ -15054,7 +15054,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Inc \u00b7 Unknown"
+      "notes": "DPA 4061s · Inc · Unknown"
     },
     {
       "year": 2018,
@@ -15067,7 +15067,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4s \u00b7 Unknown"
+      "notes": "Schoeps MK4s · Unknown"
     },
     {
       "year": 2018,
@@ -15184,7 +15184,7 @@ const ARTIST_DATA = {
       "venue": "Cynthia Woods Mitchell Pavilion",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "cmstewart \u00b7 Beyerdynamic Mce72"
+      "notes": "cmstewart · Beyerdynamic Mce72"
     },
     {
       "year": 2018,
@@ -15418,7 +15418,7 @@ const ARTIST_DATA = {
       "venue": "Chevy Court - NYS Fair",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK41s \u00b7 Duncan Oldham"
+      "notes": "Schoeps MK41s · Duncan Oldham"
     },
     {
       "year": 2018,
@@ -15561,7 +15561,7 @@ const ARTIST_DATA = {
       "venue": "Coral Reef Stage, Seven Mile Beach",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-14s \u00b7 Wooly143"
+      "notes": "Ca-14s · Wooly143"
     },
     {
       "year": 2019,
@@ -15574,7 +15574,7 @@ const ARTIST_DATA = {
       "venue": "AT&T Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853s \u00b7 Whotapes"
+      "notes": "AT853s · Whotapes"
     },
     {
       "year": 2021,
@@ -15899,7 +15899,7 @@ const ARTIST_DATA = {
       "venue": "De Roma",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Unknown"
+      "notes": "Sony ECM-717 · Unknown"
     },
     {
       "year": 2022,
@@ -15912,7 +15912,7 @@ const ARTIST_DATA = {
       "venue": "E-Werk",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-25 \u00b7 Unknown"
+      "notes": "SP-CMC-25 · Unknown"
     },
     {
       "year": 2023,
@@ -15925,7 +15925,7 @@ const ARTIST_DATA = {
       "venue": "Palais Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Nokia Lumia 930 \u00b7 Eckythump"
+      "notes": "Nokia Lumia 930 · Eckythump"
     },
     {
       "year": 2023,
@@ -16263,7 +16263,7 @@ const ARTIST_DATA = {
       "venue": "Hard Rock Live",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "chris gratz \u00b7 Sonic Studios Dsm-6sl"
+      "notes": "chris gratz · Sonic Studios Dsm-6sl"
     },
     {
       "year": 2023,
@@ -16406,7 +16406,7 @@ const ARTIST_DATA = {
       "venue": "William Randolph Hearst Greek Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4011 \u00b7 Ryan Hoyt"
+      "notes": "DPA 4011 · Ryan Hoyt"
     },
     {
       "year": 2023,
@@ -16874,7 +16874,7 @@ const ARTIST_DATA = {
       "venue": "The Pinnacle",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 Mr. Sifter"
+      "notes": "SP-CMC-8 · Mr. Sifter"
     },
     {
       "year": 2025,
@@ -18096,7 +18096,7 @@ const ARTIST_DATA = {
       "venue": "Anselmo Valencia Amphitheater",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "AVA \u00b7 Nugs.net"
+      "notes": "AVA · Nugs.net"
     },
     {
       "year": 2014,
@@ -22654,31 +22654,13 @@ const ARTIST_DATA = {
       "format": "FLAC"
     },
     {
-      "type": "show",
-      "dateStr": "XX-XX-2004",
-      "year": 2004,
-      "month": null,
-      "day": null,
-      "city": "Accidentally In Love TV Tour (robin zornes)",
-      "state": "",
-      "location": "Accidentally In Love TV Tour (robin zornes)",
-      "venue": "",
-      "notes": "",
-      "version": "",
+      "type": "label",
+      "label": "XX-XX-2004 / Accidentally In Love TV Tour (robin zornes)",
       "format": "DVD"
     },
     {
-      "type": "show",
-      "dateStr": "XX-XX-1990",
-      "year": 1990,
-      "month": null,
-      "day": null,
-      "city": "Adam's Garage - Mr Jones Home Demo",
-      "state": "",
-      "location": "Adam's Garage - Mr Jones Home Demo",
-      "venue": "",
-      "notes": "",
-      "version": "",
+      "type": "label",
+      "label": "XX-XX-1990 / Adam's Garage - Mr Jones Home Demo",
       "format": "FLAC"
     },
     {
@@ -22942,6085 +22924,6 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "Various Artists - Dead And Dreaming - An Indie Tribute To Counting Crows {VR243} (2004)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[SINGLES]"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Round Here {GFSTD 74} (1994)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Mr. Jones {GFSTD 69} (1994)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Omaha {GEFDM21959} (1994)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Rain King {GFSTD 82} (1994)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Angels Of The Silences {GFSTD 22182} (1996)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - A Long December {GFSTD 22190} (1996)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - A Long December {GED 22190} (1996)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Daylight Fading (CD1) {GFSTD 22247} (1997)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Daylight Fading (CD2) {GFSXD 22247} (1997)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Hanginaround (UK CD1) {497 184-2} (1999)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Hanginaround (UK CD2) {497 188-2} (1999)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - American Girls {UK CCCDP1} (2002)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - American Girls (UK CD1) {497 745-2} (2002)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - American Girls (UK CD2) {497 740-2} (2002)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Big Yellow Taxi {497 830-2} (2003)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Big Yellow Taxi {497 849-2} (2003)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - If I Could Give All My Love (UK CDS 1) (2003) {GED9806830}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - If I Could Give All My Love (UK CDS 2) (2003) {GED9806831}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows & BL?F - Holiday in Spain (CD1) {0602498625705} (2004)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows & BL?F - Holiday in Spain (CD2) {0602498626009} (2004)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows & BL?F - Holiday in Spain (CD3) {0602498626016} (2004)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - August and Everything After (Single) (Amazon Original) (2019)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL RELEASES]"
-    },
-    {
-      "type": "label",
-      "label": "The Himalayans - She Likes the Weather (TRECS002) (2007 Re-release)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - August And Everything After (2CD Deluxe Edition) (2007)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - August And Everything After (24/192)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - August and Everything After (1993 MFSL UDCD 664)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - August and Everything After (1993, 2013, Analogue)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - August And Everything After - Live at Town Hall (2007)",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Recovering The Satellites (1996)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Recovering the Satellites (DGC, DGC2-24975, US, 24-96) (Vinyl Rip) (1996)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - This Desert Life (1999)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Hard Candy (UK Edition) (2002)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Hard Candy (2002)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - New Amsterdam (Barnes & Noble Version) (2006)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - New Amsterdam (Best Buy Version) (2006)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Saturday Nights & Sunday Mornings (2008)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - iTunes Live from SoHo (2008)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Underwater Sunshine (Or What We Did On Our Summer Vacation) (2012)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Somewhere Under Wonderland (2014)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Somewhere Under Wonderland (Deluxe Edition) (2014)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Underwater Sunshine (Australian Tour Editon) {3708402} (2012)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Butter Miracle, The Complete Sweets! {4099964148220} (2025)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Counting Crows - Have You Seen Me Lately - Documentary (1080p) [2025]",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL BOOTLEGS]"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-19-1993",
-      "year": 1993,
-      "month": 6,
-      "day": 19,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Slim's",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-14-1994",
-      "year": 1994,
-      "month": 11,
-      "day": 14,
-      "city": "Wolverhampton",
-      "state": "UK",
-      "location": "Wolverhampton, UK",
-      "venue": "Civic Hall",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-9-1996",
-      "year": 1996,
-      "month": 9,
-      "day": 9,
-      "city": "Hollywood",
-      "state": "CA",
-      "location": "Hollywood, CA",
-      "venue": "John Anson Ford Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-17-1997",
-      "year": 1997,
-      "month": 7,
-      "day": 17,
-      "city": "Wantagh",
-      "state": "NY",
-      "location": "Wantagh, NY",
-      "venue": "Jones Beach",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-4-1999",
-      "year": 1999,
-      "month": 8,
-      "day": 4,
-      "city": "Cape Town",
-      "state": "SA",
-      "location": "Cape Town, SA",
-      "venue": "Bellville Velodrome",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-19-2001",
-      "year": 2001,
-      "month": 10,
-      "day": 19,
-      "city": "Wayne",
-      "state": "NJ",
-      "location": "Wayne, NJ",
-      "venue": "William Paterson University Recreational Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-6-2002",
-      "year": 2002,
-      "month": 12,
-      "day": 6,
-      "city": "Las Vegas",
-      "state": "NV",
-      "location": "Las Vegas, NV",
-      "venue": "The Joint",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-4-2003",
-      "year": 2003,
-      "month": 3,
-      "day": 4,
-      "city": "Melbourne",
-      "state": "AUS",
-      "location": "Melbourne, AUS",
-      "venue": "Palais Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-28-2008",
-      "year": 2008,
-      "month": 7,
-      "day": 28,
-      "city": "Charlotte",
-      "state": "NC",
-      "location": "Charlotte, NC",
-      "venue": "Verizon Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-29-2008",
-      "year": 2008,
-      "month": 7,
-      "day": 29,
-      "city": "Raleigh",
-      "state": "NC",
-      "location": "Raleigh, NC",
-      "venue": "Walnut Creek",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-31-2008",
-      "year": 2008,
-      "month": 7,
-      "day": 31,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-1-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 1,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-2-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 2,
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "Tweeter Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-5-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 5,
-      "city": "Hershey",
-      "state": "PA",
-      "location": "Hershey, PA",
-      "venue": "Hershey Park Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-7-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 7,
-      "city": "Holmdel",
-      "state": "NJ",
-      "location": "Holmdel, NJ",
-      "venue": "PNC Bank Arts Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-8-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 8,
-      "city": "Atlantic City",
-      "state": "NJ",
-      "location": "Atlantic City, NJ",
-      "venue": "The Borgata",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-9-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 9,
-      "city": "Camden",
-      "state": "NJ",
-      "location": "Camden, NJ",
-      "venue": "Susquehanna Bank Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-12-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 12,
-      "city": "Saratoga",
-      "state": "NY",
-      "location": "Saratoga, NY",
-      "venue": "Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-13-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 13,
-      "city": "Bethel",
-      "state": "NY",
-      "location": "Bethel, NY",
-      "venue": "Bethel Woods",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-15-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 15,
-      "city": "Hartford",
-      "state": "CT",
-      "location": "Hartford, CT",
-      "venue": "Meadows Music Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-16-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 16,
-      "city": "Washington",
-      "state": "DC",
-      "location": "Washington, DC",
-      "venue": "Nissan Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-18-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 18,
-      "city": "Buffalo",
-      "state": "NY",
-      "location": "Buffalo, NY",
-      "venue": "Darien Lake",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-19-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 19,
-      "city": "Toronto",
-      "state": "ON",
-      "location": "Toronto, ON",
-      "venue": "Molson Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-21-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 21,
-      "city": "Pittsburgh",
-      "state": "PA",
-      "location": "Pittsburgh, PA",
-      "venue": "Post-Gazette Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-22-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 22,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "First Midwest Band Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-23-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 23,
-      "city": "Milwaukee",
-      "state": "WI",
-      "location": "Milwaukee, WI",
-      "venue": "Marcus Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-26-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 26,
-      "city": "Minneapolis",
-      "state": "MN",
-      "location": "Minneapolis, MN",
-      "venue": "Mystic Lake Casino",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-28-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 28,
-      "city": "Indianapolis",
-      "state": "IN",
-      "location": "Indianapolis, IN",
-      "venue": "Verizon Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-29-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 29,
-      "city": "Detroit",
-      "state": "MI",
-      "location": "Detroit, MI",
-      "venue": "DTE Energy center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-30-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 30,
-      "city": "Cincinnati",
-      "state": "OH",
-      "location": "Cincinnati, OH",
-      "venue": "Riverbend Music Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-5-2008",
-      "year": 2008,
-      "month": 9,
-      "day": 5,
-      "city": "Houston",
-      "state": "TX",
-      "location": "Houston, TX",
-      "venue": "CWM Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-6-2008",
-      "year": 2008,
-      "month": 9,
-      "day": 6,
-      "city": "Dallas",
-      "state": "TX",
-      "location": "Dallas, TX",
-      "venue": "Superpages.com Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-9-2008",
-      "year": 2008,
-      "month": 9,
-      "day": 9,
-      "city": "Albuquerque",
-      "state": "NM",
-      "location": "Albuquerque, NM",
-      "venue": "Journal Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-10-2008",
-      "year": 2008,
-      "month": 9,
-      "day": 10,
-      "city": "Phoenix",
-      "state": "AZ",
-      "location": "Phoenix, AZ",
-      "venue": "Cricket Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-12-2008",
-      "year": 2008,
-      "month": 9,
-      "day": 12,
-      "city": "Irvine",
-      "state": "CA",
-      "location": "Irvine, CA",
-      "venue": "Verizon Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-17-2008",
-      "year": 2008,
-      "month": 9,
-      "day": 17,
-      "city": "Mountain View",
-      "state": "CA",
-      "location": "Mountain View, CA",
-      "venue": "Shoreline Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-18-2008",
-      "year": 2008,
-      "month": 9,
-      "day": 18,
-      "city": "Concord",
-      "state": "CA",
-      "location": "Concord, CA",
-      "venue": "Sleep Train",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-20-2008",
-      "year": 2008,
-      "month": 9,
-      "day": 20,
-      "city": "Portland",
-      "state": "OR",
-      "location": "Portland, OR",
-      "venue": "Clark County Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-21-2008",
-      "year": 2008,
-      "month": 9,
-      "day": 21,
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "White River Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-24-2008",
-      "year": 2008,
-      "month": 9,
-      "day": 24,
-      "city": "Denver",
-      "state": "CO",
-      "location": "Denver, CO",
-      "venue": "Fiddler's Green",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-26-2008",
-      "year": 2008,
-      "month": 9,
-      "day": 26,
-      "city": "Kansas City",
-      "state": "MO",
-      "location": "Kansas City, MO",
-      "venue": "Starlight",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-27-2008",
-      "year": 2008,
-      "month": 9,
-      "day": 27,
-      "city": "St. Louis",
-      "state": "MO",
-      "location": "St. Louis, MO",
-      "venue": "Verizon Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-30-2008",
-      "year": 2008,
-      "month": 9,
-      "day": 30,
-      "city": "Birmingham",
-      "state": "AL",
-      "location": "Birmingham, AL",
-      "venue": "Verizon Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-1-2008",
-      "year": 2008,
-      "month": 10,
-      "day": 1,
-      "city": "Atlanta",
-      "state": "GA",
-      "location": "Atlanta, GA",
-      "venue": "Lakewood",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-3-2008",
-      "year": 2008,
-      "month": 10,
-      "day": 3,
-      "city": "Tampa",
-      "state": "FL",
-      "location": "Tampa, FL",
-      "venue": "Ford Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-4-2008",
-      "year": 2008,
-      "month": 10,
-      "day": 4,
-      "city": "West Palm Beach",
-      "state": "FL",
-      "location": "West Palm Beach, FL",
-      "venue": "Sound Advice Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-28-2008",
-      "year": 2008,
-      "month": 10,
-      "day": 28,
-      "city": "Montclair",
-      "state": "NJ",
-      "location": "Montclair, NJ",
-      "venue": "Wellmont Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-29-2008",
-      "year": 2008,
-      "month": 10,
-      "day": 29,
-      "city": "Montclair",
-      "state": "NJ",
-      "location": "Montclair, NJ",
-      "venue": "Wellmont Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-30-2008",
-      "year": 2008,
-      "month": 10,
-      "day": 30,
-      "city": "Montclair",
-      "state": "NJ",
-      "location": "Montclair, NJ",
-      "venue": "Wellmont Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-11-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 11,
-      "city": "Tampa",
-      "state": "FL",
-      "location": "Tampa, FL",
-      "venue": "Straz Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-12-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 12,
-      "city": "Hollywood",
-      "state": "FL",
-      "location": "Hollywood, FL",
-      "venue": "Hard Rock Live",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-14-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 14,
-      "city": "St. Augustine",
-      "state": "FL",
-      "location": "St. Augustine, FL",
-      "venue": "St. Augustine Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-15-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 15,
-      "city": "Greenville",
-      "state": "SC",
-      "location": "Greenville, SC",
-      "venue": "Peace Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-17-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 17,
-      "city": "Nashville",
-      "state": "TN",
-      "location": "Nashville, TN",
-      "venue": "Ryman Auditorium",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-19-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 19,
-      "city": "Lake Charles",
-      "state": "LA",
-      "location": "Lake Charles, LA",
-      "venue": "L'Auberge Casino Resort",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-20-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 20,
-      "city": "Robinsonville",
-      "state": "MS",
-      "location": "Robinsonville, MS",
-      "venue": "Horseshoe Casino",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-22-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 22,
-      "city": "Atlanta",
-      "state": "GA",
-      "location": "Atlanta, GA",
-      "venue": "Chastain Park Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-24-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 24,
-      "city": "Charlotte",
-      "state": "NC",
-      "location": "Charlotte, NC",
-      "venue": "Uptown Amphitheatre at the NC Music Factory",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-25-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 25,
-      "city": "Raleigh",
-      "state": "NC",
-      "location": "Raleigh, NC",
-      "venue": "Red Hat Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-27-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 27,
-      "city": "Pittsburgh",
-      "state": "PA",
-      "location": "Pittsburgh, PA",
-      "venue": "Stage AE",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-28-2014",
-      "year": 2014,
-      "month": 6,
-      "day": 28,
-      "city": "Atlantic City",
-      "state": "NJ",
-      "location": "Atlantic City, NJ",
-      "venue": "Borgata Event Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-2-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 2,
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "Blue Hills Bank Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-5-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 5,
-      "city": "Vienna",
-      "state": "VA",
-      "location": "Vienna, VA",
-      "venue": "Wolf Trap Foundation for the Performing Arts",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-12-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 12,
-      "city": "Somerset",
-      "state": "KY",
-      "location": "Somerset, KY",
-      "venue": "Master Musicians Festival",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-15-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 15,
-      "city": "Columbus",
-      "state": "OH",
-      "location": "Columbus, OH",
-      "venue": "LC Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-17-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 17,
-      "city": "Rama",
-      "state": "ON",
-      "location": "Rama, ON",
-      "venue": "Casino Rama",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-18-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 18,
-      "city": "Detroit",
-      "state": "MI",
-      "location": "Detroit, MI",
-      "venue": "Motor City Casino",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-20-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 20,
-      "city": "Cincinnati",
-      "state": "OH",
-      "location": "Cincinnati, OH",
-      "venue": "The Pavilion at Horseshoe Casino Cincinnati",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-21-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 21,
-      "city": "Grand Rapids",
-      "state": "MI",
-      "location": "Grand Rapids, MI",
-      "venue": "Frederik Meijer Gardens and Sculpture Park",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-23-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 23,
-      "city": "Milwaukee",
-      "state": "WI",
-      "location": "Milwaukee, WI",
-      "venue": "Riverside Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-25-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 25,
-      "city": "St Paul",
-      "state": "MN",
-      "location": "St Paul, MN",
-      "venue": "Myth Nightclub",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-26-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 26,
-      "city": "Council Bluffs",
-      "state": "IA",
-      "location": "Council Bluffs, IA",
-      "venue": "Harrah's Casino & Hotel (Nugs.net",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-29-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 29,
-      "city": "Houston",
-      "state": "TX",
-      "location": "Houston, TX",
-      "venue": "Bayou Music Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-30-2014",
-      "year": 2014,
-      "month": 7,
-      "day": 30,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Austin City Limits Live at The Moody Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-1-2014",
-      "year": 2014,
-      "month": 8,
-      "day": 1,
-      "city": "Catoosa",
-      "state": "OK",
-      "location": "Catoosa, OK",
-      "venue": "Hard Rock Hotel & Casino",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-2-2014",
-      "year": 2014,
-      "month": 8,
-      "day": 2,
-      "city": "Durant",
-      "state": "OK",
-      "location": "Durant, OK",
-      "venue": "Choctaw Casino",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-4-2014",
-      "year": 2014,
-      "month": 8,
-      "day": 4,
-      "city": "El Paso",
-      "state": "TX",
-      "location": "El Paso, TX",
-      "venue": "Socorro Entertainment Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-6-2014",
-      "year": 2014,
-      "month": 8,
-      "day": 6,
-      "city": "Tucson",
-      "state": "AZ",
-      "location": "Tucson, AZ",
-      "venue": "Anselmo Valencia Amphitheater",
-      "notes": "AVA \u00b7 Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-7-2014",
-      "year": 2014,
-      "month": 8,
-      "day": 7,
-      "city": "Phoenix",
-      "state": "AZ",
-      "location": "Phoenix, AZ",
-      "venue": "Comerica Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-9-2014",
-      "year": 2014,
-      "month": 8,
-      "day": 9,
-      "city": "Del Mar",
-      "state": "CA",
-      "location": "Del Mar, CA",
-      "venue": "Seaside Stage at Del Mar Race Track",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-10-2014",
-      "year": 2014,
-      "month": 8,
-      "day": 10,
-      "city": "Las Vegas",
-      "state": "NV",
-      "location": "Las Vegas, NV",
-      "venue": "Mandalay Bay Beach",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-12-2014",
-      "year": 2014,
-      "month": 8,
-      "day": 12,
-      "city": "Redmond",
-      "state": "WA",
-      "location": "Redmond, WA",
-      "venue": "Marymoor Park",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-13-2014",
-      "year": 2014,
-      "month": 8,
-      "day": 13,
-      "city": "Portland",
-      "state": "OR",
-      "location": "Portland, OR",
-      "venue": "Arlene Schnitzer Concert Hall",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-15-2014",
-      "year": 2014,
-      "month": 8,
-      "day": 15,
-      "city": "Berkeley",
-      "state": "CA",
-      "location": "Berkeley, CA",
-      "venue": "Greek Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-17-2014",
-      "year": 2014,
-      "month": 8,
-      "day": 17,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Greek Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-1-2014",
-      "year": 2014,
-      "month": 11,
-      "day": 1,
-      "city": "Birmingham",
-      "state": "UK",
-      "location": "Birmingham, UK",
-      "venue": "02 Academy",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-2-2014",
-      "year": 2014,
-      "month": 11,
-      "day": 2,
-      "city": "Glasgow",
-      "state": "UK",
-      "location": "Glasgow, UK",
-      "venue": "02 Academy",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-4-2014",
-      "year": 2014,
-      "month": 11,
-      "day": 4,
-      "city": "Newcastle",
-      "state": "UK",
-      "location": "Newcastle, UK",
-      "venue": "02 Academy",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-5-2014",
-      "year": 2014,
-      "month": 11,
-      "day": 5,
-      "city": "Leeds",
-      "state": "UK",
-      "location": "Leeds, UK",
-      "venue": "02 Academy",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-7-2014",
-      "year": 2014,
-      "month": 11,
-      "day": 7,
-      "city": "Manchester",
-      "state": "UK",
-      "location": "Manchester, UK",
-      "venue": "02 Apollo",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-8-2014",
-      "year": 2014,
-      "month": 11,
-      "day": 8,
-      "city": "Leicester",
-      "state": "UK",
-      "location": "Leicester, UK",
-      "venue": "De Monfort Hall",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-10-2014",
-      "year": 2014,
-      "month": 11,
-      "day": 10,
-      "city": "London",
-      "state": "UK",
-      "location": "London, UK",
-      "venue": "Roundhouse",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-11-2014",
-      "year": 2014,
-      "month": 11,
-      "day": 11,
-      "city": "London",
-      "state": "UK",
-      "location": "London, UK",
-      "venue": "Roundhouse",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-14-2014",
-      "year": 2014,
-      "month": 11,
-      "day": 14,
-      "city": "Amsterdam",
-      "state": "NLD",
-      "location": "Amsterdam, NLD",
-      "venue": "Heineken Music Hall",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-16-2014",
-      "year": 2014,
-      "month": 11,
-      "day": 16,
-      "city": "Cologne",
-      "state": "DEU",
-      "location": "Cologne, DEU",
-      "venue": "E-Werk",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-17-2014",
-      "year": 2014,
-      "month": 11,
-      "day": 17,
-      "city": "Brussels",
-      "state": "BE",
-      "location": "Brussels, BE",
-      "venue": "Ancienne Belgique",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-19-2014",
-      "year": 2014,
-      "month": 11,
-      "day": 19,
-      "city": "Berlin",
-      "state": "DE",
-      "location": "Berlin, DE",
-      "venue": "Huxleys Neue Welt",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-20-2014",
-      "year": 2014,
-      "month": 11,
-      "day": 20,
-      "city": "Munich",
-      "state": "DE",
-      "location": "Munich, DE",
-      "venue": "Theaterfabrik",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-22-2014",
-      "year": 2014,
-      "month": 11,
-      "day": 22,
-      "city": "Padova",
-      "state": "IT",
-      "location": "Padova, IT",
-      "venue": "Gran Teatro Geox",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-23-2014",
-      "year": 2014,
-      "month": 11,
-      "day": 23,
-      "city": "Milan",
-      "state": "ITA",
-      "location": "Milan, ITA",
-      "venue": "Alcatraz",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-3-2014",
-      "year": 2014,
-      "month": 12,
-      "day": 3,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Chicago Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-4-2014",
-      "year": 2014,
-      "month": 12,
-      "day": 4,
-      "city": "Peoria",
-      "state": "IL",
-      "location": "Peoria, IL",
-      "venue": "Peoria Civic Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-6-2014",
-      "year": 2014,
-      "month": 12,
-      "day": 6,
-      "city": "Warren",
-      "state": "OH",
-      "location": "Warren, OH",
-      "venue": "Packard Music Hall",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-7-2014",
-      "year": 2014,
-      "month": 12,
-      "day": 7,
-      "city": "Ft. Wayne",
-      "state": "IN",
-      "location": "Ft. Wayne, IN",
-      "venue": "Embassy Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-9-2014",
-      "year": 2014,
-      "month": 12,
-      "day": 9,
-      "city": "Detroit",
-      "state": "MI",
-      "location": "Detroit, MI",
-      "venue": "The Fillmore",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-10-2014",
-      "year": 2014,
-      "month": 12,
-      "day": 10,
-      "city": "Louisville",
-      "state": "KY",
-      "location": "Louisville, KY",
-      "venue": "Palace Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-12-2014",
-      "year": 2014,
-      "month": 12,
-      "day": 12,
-      "city": "Indianapolis",
-      "state": "IN",
-      "location": "Indianapolis, IN",
-      "venue": "Murat Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-13-2014",
-      "year": 2014,
-      "month": 12,
-      "day": 13,
-      "city": "Madison",
-      "state": "WI",
-      "location": "Madison, WI",
-      "venue": "Orpheum Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-16-2014",
-      "year": 2014,
-      "month": 12,
-      "day": 16,
-      "city": "Davenport",
-      "state": "IA",
-      "location": "Davenport, IA",
-      "venue": "Adler Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-2-2015",
-      "year": 2015,
-      "month": 4,
-      "day": 2,
-      "city": "Byron Bay",
-      "state": "AUS",
-      "location": "Byron Bay, AUS",
-      "venue": "Byron Bay Bluesfest",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-4-2015",
-      "year": 2015,
-      "month": 4,
-      "day": 4,
-      "city": "Melbourne",
-      "state": "AUS",
-      "location": "Melbourne, AUS",
-      "venue": "Palais Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-5-2015",
-      "year": 2015,
-      "month": 4,
-      "day": 5,
-      "city": "Adelaide",
-      "state": "AU",
-      "location": "Adelaide, AU",
-      "venue": "Her Majesty's Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-7-2015",
-      "year": 2015,
-      "month": 4,
-      "day": 7,
-      "city": "Perth",
-      "state": "AU",
-      "location": "Perth, AU",
-      "venue": "Concert Hall",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-9-2015",
-      "year": 2015,
-      "month": 4,
-      "day": 9,
-      "city": "Sydney",
-      "state": "AU",
-      "location": "Sydney, AU",
-      "venue": "Sydney State Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-10-2015",
-      "year": 2015,
-      "month": 4,
-      "day": 10,
-      "city": "Sydney",
-      "state": "AU",
-      "location": "Sydney, AU",
-      "venue": "Sydney State Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-12-2015",
-      "year": 2015,
-      "month": 4,
-      "day": 12,
-      "city": "Brisbane",
-      "state": "AU",
-      "location": "Brisbane, AU",
-      "venue": "The Tivoli",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-14-2015",
-      "year": 2015,
-      "month": 4,
-      "day": 14,
-      "city": "Auckland",
-      "state": "NZ",
-      "location": "Auckland, NZ",
-      "venue": "Civic Centre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "4-29-2015",
-      "year": 2015,
-      "month": 4,
-      "day": 29,
-      "city": "Kelowna",
-      "state": "BC",
-      "location": "Kelowna, BC",
-      "venue": "Prospera Place",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-1-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 1,
-      "city": "Cold Lake",
-      "state": "AB",
-      "location": "Cold Lake, AB",
-      "venue": "Cold Lake Energy Centre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-3-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 3,
-      "city": "Calgary",
-      "state": "AB",
-      "location": "Calgary, AB",
-      "venue": "Southern Alberta Jubilee Auditorium",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-4-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 4,
-      "city": "Edmonton",
-      "state": "AB",
-      "location": "Edmonton, AB",
-      "venue": "Northern Alberta Jubilee Auditorium",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-6-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 6,
-      "city": "Saskatoon",
-      "state": "SK",
-      "location": "Saskatoon, SK",
-      "venue": "TCU Place",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-7-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 7,
-      "city": "Moose Jaw",
-      "state": "SK",
-      "location": "Moose Jaw, SK",
-      "venue": "Mosaic Place",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-10-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 10,
-      "city": "Thunder Bay",
-      "state": "ON",
-      "location": "Thunder Bay, ON",
-      "venue": "Thunder Bay Community Auditorium",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-12-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 12,
-      "city": "Hamilton",
-      "state": "ON",
-      "location": "Hamilton, ON",
-      "venue": "Hamilton Place Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-14-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 14,
-      "city": "Toronto",
-      "state": "ON",
-      "location": "Toronto, ON",
-      "venue": "Massey Hall",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-15-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 15,
-      "city": "Montreal",
-      "state": "QC",
-      "location": "Montreal, QC",
-      "venue": "Metropolis",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-17-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 17,
-      "city": "Ottawa",
-      "state": "ON",
-      "location": "Ottawa, ON",
-      "venue": "National Arts Centre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-18-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 18,
-      "city": "Quebec City",
-      "state": "ON",
-      "location": "Quebec City, ON",
-      "venue": "Le Capitole",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-20-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 20,
-      "city": "Moncton",
-      "state": "NB",
-      "location": "Moncton, NB",
-      "venue": "Casino New Brunswick",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-21-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 21,
-      "city": "Halifax",
-      "state": "NS",
-      "location": "Halifax, NS",
-      "venue": "Halifax Scotiabank Centre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "5-23-2015",
-      "year": 2015,
-      "month": 5,
-      "day": 23,
-      "city": "St. Johns",
-      "state": "NL",
-      "location": "St. Johns, NL",
-      "venue": "Mile One Centre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-12-2015",
-      "year": 2015,
-      "month": 6,
-      "day": 12,
-      "city": "Newport",
-      "state": "NL",
-      "location": "Newport, NL",
-      "venue": "Isle Of Wight Festival",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-14-2015",
-      "year": 2015,
-      "month": 6,
-      "day": 14,
-      "city": "Landgraaf",
-      "state": "NL",
-      "location": "Landgraaf, NL",
-      "venue": "Pinkpop Festival",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-16-2015",
-      "year": 2015,
-      "month": 6,
-      "day": 16,
-      "city": "Groningen",
-      "state": "NL",
-      "location": "Groningen, NL",
-      "venue": "De Oosterpoort",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-17-2015",
-      "year": 2015,
-      "month": 6,
-      "day": 17,
-      "city": "Haarlem",
-      "state": "NL",
-      "location": "Haarlem, NL",
-      "venue": "Haarlem Philharmonie",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-19-2015",
-      "year": 2015,
-      "month": 6,
-      "day": 19,
-      "city": "Scheessel",
-      "state": "DE",
-      "location": "Scheessel, DE",
-      "venue": "Hurricane Festival",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-20-2015",
-      "year": 2015,
-      "month": 6,
-      "day": 20,
-      "city": "Neuhausen Ob Eck",
-      "state": "DE",
-      "location": "Neuhausen Ob Eck, DE",
-      "venue": "Southside Festival",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-24-2015",
-      "year": 2015,
-      "month": 6,
-      "day": 24,
-      "city": "Dublin",
-      "state": "IE",
-      "location": "Dublin, IE",
-      "venue": "Kilmainham Royal Hospital",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-27-2015",
-      "year": 2015,
-      "month": 6,
-      "day": 27,
-      "city": "Zeeland",
-      "state": "NL",
-      "location": "Zeeland, NL",
-      "venue": "Concert At Sea",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-28-2015",
-      "year": 2015,
-      "month": 6,
-      "day": 28,
-      "city": "Werchter",
-      "state": "BE",
-      "location": "Werchter, BE",
-      "venue": "Rock Werchter",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-30-2015",
-      "year": 2015,
-      "month": 6,
-      "day": 30,
-      "city": "Zurich",
-      "state": "CH",
-      "location": "Zurich, CH",
-      "venue": "Volkhaus",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-1-2015",
-      "year": 2015,
-      "month": 7,
-      "day": 1,
-      "city": "Gardone Riviera",
-      "state": "IT",
-      "location": "Gardone Riviera, IT",
-      "venue": "Anfiteatro Del Vittoriale",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-3-2015",
-      "year": 2015,
-      "month": 7,
-      "day": 3,
-      "city": "Pistoia",
-      "state": "ITA",
-      "location": "Pistoia, ITA",
-      "venue": "Pistoia Blues Festival",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-4-2015",
-      "year": 2015,
-      "month": 7,
-      "day": 4,
-      "city": "Rome",
-      "state": "IT",
-      "location": "Rome, IT",
-      "venue": "Parco Della Musica Auditorium Cavea",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-7-2015",
-      "year": 2015,
-      "month": 7,
-      "day": 7,
-      "city": "Barcelona",
-      "state": "ES",
-      "location": "Barcelona, ES",
-      "venue": "Razzmatazz",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-9-2015",
-      "year": 2015,
-      "month": 7,
-      "day": 9,
-      "city": "Bilbao",
-      "state": "ES",
-      "location": "Bilbao, ES",
-      "venue": "BBK Live Festival",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-11-2015",
-      "year": 2015,
-      "month": 7,
-      "day": 11,
-      "city": "Oeiras",
-      "state": "PT",
-      "location": "Oeiras, PT",
-      "venue": "NOS Alive!",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-30-2015",
-      "year": 2015,
-      "month": 7,
-      "day": 30,
-      "city": "Miami",
-      "state": "FL",
-      "location": "Miami, FL",
-      "venue": "Bayfront Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-31-2015",
-      "year": 2015,
-      "month": 7,
-      "day": 31,
-      "city": "Clearwater",
-      "state": "FL",
-      "location": "Clearwater, FL",
-      "venue": "Ruth Eckerd Hall",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-2-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 2,
-      "city": "St. Augustine",
-      "state": "FL",
-      "location": "St. Augustine, FL",
-      "venue": "St. Augustine Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-3-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 3,
-      "city": "Atlanta",
-      "state": "GA",
-      "location": "Atlanta, GA",
-      "venue": "Chastain Park Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-5-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 5,
-      "city": "Daniel Island",
-      "state": "SC",
-      "location": "Daniel Island, SC",
-      "venue": "Family Circle Stadium",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-7-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 7,
-      "city": "Nashville",
-      "state": "TN",
-      "location": "Nashville, TN",
-      "venue": "Ascend Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-9-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 9,
-      "city": "Asheville",
-      "state": "NC",
-      "location": "Asheville, NC",
-      "venue": "Biltmore Estate",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-10-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 10,
-      "city": "Charlotte",
-      "state": "NC",
-      "location": "Charlotte, NC",
-      "venue": "Uptown Amphitheatre At The Music Factory",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-12-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 12,
-      "city": "Raleigh",
-      "state": "NC",
-      "location": "Raleigh, NC",
-      "venue": "Red Hat Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-13-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 13,
-      "city": "Vienna",
-      "state": "VA",
-      "location": "Vienna, VA",
-      "venue": "Wolf Trap For The Performing Arts",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-15-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 15,
-      "city": "Baltimore",
-      "state": "MD",
-      "location": "Baltimore, MD",
-      "venue": "Hot August Music Festival",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-16-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 16,
-      "city": "Pittsburgh",
-      "state": "PA",
-      "location": "Pittsburgh, PA",
-      "venue": "Stage AE",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-18-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 18,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "JBL Live At Pier 97",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-20-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 20,
-      "city": "Portland",
-      "state": "ME",
-      "location": "Portland, ME",
-      "venue": "Maine State Pier",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-22-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 22,
-      "city": "Uncasville",
-      "state": "CT",
-      "location": "Uncasville, CT",
-      "venue": "Mohegan Sun",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-23-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 23,
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "Blue Hills Bank Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-29-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 29,
-      "city": "Holmdel",
-      "state": "NJ",
-      "location": "Holmdel, NJ",
-      "venue": "PNC Bank Arts Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-30-2015",
-      "year": 2015,
-      "month": 8,
-      "day": 30,
-      "city": "Bethlehem",
-      "state": "PA",
-      "location": "Bethlehem, PA",
-      "venue": "Sands Bethlehem Event Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-1-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 1,
-      "city": "Saratoga Springs",
-      "state": "NY",
-      "location": "Saratoga Springs, NY",
-      "venue": "Saratoga Performing Arts Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-2-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 2,
-      "city": "Lewiston",
-      "state": "NY",
-      "location": "Lewiston, NY",
-      "venue": "Artpark",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-4-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 4,
-      "city": "Huntington",
-      "state": "NY",
-      "location": "Huntington, NY",
-      "venue": "Paramount",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-5-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 5,
-      "city": "Atlantic City",
-      "state": "NJ",
-      "location": "Atlantic City, NJ",
-      "venue": "Borgata Festival Park",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-7-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 7,
-      "city": "Columbus",
-      "state": "OH",
-      "location": "Columbus, OH",
-      "venue": "LC Pavillion,",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-8-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 8,
-      "city": "Huber Heights",
-      "state": "OH",
-      "location": "Huber Heights, OH",
-      "venue": "Music Center At The Heights",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-10-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 10,
-      "city": "Sterling Heights",
-      "state": "MI",
-      "location": "Sterling Heights, MI",
-      "venue": "Freedom Hill Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-12-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 12,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Firstmerit Bank Pavilion at Northerly Island",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-17-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 17,
-      "city": "Santa Fe",
-      "state": "NM",
-      "location": "Santa Fe, NM",
-      "venue": "The Downs At Santa Fe",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-19-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 19,
-      "city": "Del Mar",
-      "state": "CA",
-      "location": "Del Mar, CA",
-      "venue": "Kaaboo",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-20-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 20,
-      "city": "Concord",
-      "state": "CA",
-      "location": "Concord, CA",
-      "venue": "Concord Pavillion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-26-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 26,
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "WaMu Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-27-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 27,
-      "city": "Eugene",
-      "state": "OR",
-      "location": "Eugene, OR",
-      "venue": "Cuthbert Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-30-2015",
-      "year": 2015,
-      "month": 9,
-      "day": 30,
-      "city": "Santa Barbara",
-      "state": "CA",
-      "location": "Santa Barbara, CA",
-      "venue": "Santa Barbara Bowl",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-2-2015",
-      "year": 2015,
-      "month": 10,
-      "day": 2,
-      "city": "Irvine",
-      "state": "CA",
-      "location": "Irvine, CA",
-      "venue": "Verizon Wireless Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-3-2015",
-      "year": 2015,
-      "month": 10,
-      "day": 3,
-      "city": "Las Vegas",
-      "state": "NV",
-      "location": "Las Vegas, NV",
-      "venue": "The Boulevard Pool At The Cosmopolitan Of Las Vegas",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-5-2015",
-      "year": 2015,
-      "month": 10,
-      "day": 5,
-      "city": "Phoenix",
-      "state": "AZ",
-      "location": "Phoenix, AZ",
-      "venue": "Comerica Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-7-2015",
-      "year": 2015,
-      "month": 10,
-      "day": 7,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Austin City Limits Live",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-8-2015",
-      "year": 2015,
-      "month": 10,
-      "day": 8,
-      "city": "Houston",
-      "state": "TX",
-      "location": "Houston, TX",
-      "venue": "CWM Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-10-2015",
-      "year": 2015,
-      "month": 10,
-      "day": 10,
-      "city": "Allen",
-      "state": "TX",
-      "location": "Allen, TX",
-      "venue": "Allen Event Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-11-2015",
-      "year": 2015,
-      "month": 10,
-      "day": 11,
-      "city": "Oklahoma City",
-      "state": "OK",
-      "location": "Oklahoma City, OK",
-      "venue": "Zoo Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-22-2016",
-      "year": 2016,
-      "month": 7,
-      "day": 22,
-      "city": "West Palm Beach",
-      "state": "FL",
-      "location": "West Palm Beach, FL",
-      "venue": "Perfect Vodka Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-23-2016",
-      "year": 2016,
-      "month": 7,
-      "day": 23,
-      "city": "Tampa",
-      "state": "FL",
-      "location": "Tampa, FL",
-      "venue": "MidFlorida Credit Union Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-25-2016",
-      "year": 2016,
-      "month": 7,
-      "day": 25,
-      "city": "Atlanta",
-      "state": "GA",
-      "location": "Atlanta, GA",
-      "venue": "Chastain Park Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-27-2016",
-      "year": 2016,
-      "month": 7,
-      "day": 27,
-      "city": "Charlotte",
-      "state": "NC",
-      "location": "Charlotte, NC",
-      "venue": "PNC Music Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-28-2016",
-      "year": 2016,
-      "month": 7,
-      "day": 28,
-      "city": "Raleigh",
-      "state": "NC",
-      "location": "Raleigh, NC",
-      "venue": "Walnut Creek Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-31-2016",
-      "year": 2016,
-      "month": 7,
-      "day": 31,
-      "city": "Wantagh",
-      "state": "NY",
-      "location": "Wantagh, NY",
-      "venue": "Nikon at Jones Beach Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-2-2016",
-      "year": 2016,
-      "month": 8,
-      "day": 2,
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "Blue Hills Bank Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-3-2016",
-      "year": 2016,
-      "month": 8,
-      "day": 3,
-      "city": "Bangor",
-      "state": "ME",
-      "location": "Bangor, ME",
-      "venue": "Darling's Waterfront Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-5-2016",
-      "year": 2016,
-      "month": 8,
-      "day": 5,
-      "city": "Bethel",
-      "state": "NY",
-      "location": "Bethel, NY",
-      "venue": "Bethel Woods",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-6-2016",
-      "year": 2016,
-      "month": 8,
-      "day": 6,
-      "city": "Uncasville",
-      "state": "CT",
-      "location": "Uncasville, CT",
-      "venue": "Mohegan Sun",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-9-2016",
-      "year": 2016,
-      "month": 8,
-      "day": 9,
-      "city": "Holmdel",
-      "state": "NJ",
-      "location": "Holmdel, NJ",
-      "venue": "PNC Bank Arts Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-10-2016",
-      "year": 2016,
-      "month": 8,
-      "day": 10,
-      "city": "Camden",
-      "state": "NJ",
-      "location": "Camden, NJ",
-      "venue": "BB & T Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-12-2016",
-      "year": 2016,
-      "month": 8,
-      "day": 12,
-      "city": "Syracuse",
-      "state": "NY",
-      "location": "Syracuse, NY",
-      "venue": "Lakeview Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-13-2016",
-      "year": 2016,
-      "month": 8,
-      "day": 13,
-      "city": "Niagara Falls",
-      "state": "NY",
-      "location": "Niagara Falls, NY",
-      "venue": "Seneca Niagara Casino Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-16-2016",
-      "year": 2016,
-      "month": 8,
-      "day": 16,
-      "city": "Brooklyn",
-      "state": "NY",
-      "location": "Brooklyn , NY",
-      "venue": "Coney Island Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-18-2016",
-      "year": 2016,
-      "month": 8,
-      "day": 18,
-      "city": "Bethlehem",
-      "state": "PA",
-      "location": "Bethlehem, PA",
-      "venue": "Sands Bethlehem Event Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-20-2016",
-      "year": 2016,
-      "month": 8,
-      "day": 20,
-      "city": "Cincinnati",
-      "state": "OH",
-      "location": "Cincinnati, OH",
-      "venue": "Riverbend Music Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-21-2016",
-      "year": 2016,
-      "month": 8,
-      "day": 21,
-      "city": "Noblesville",
-      "state": "IN",
-      "location": "Noblesville, IN",
-      "venue": "Klipsch Music Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-23-2016",
-      "year": 2016,
-      "month": 8,
-      "day": 23,
-      "city": "Clarkson",
-      "state": "MI",
-      "location": "Clarkson, MI",
-      "venue": "DTE Energy Music Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-24-2016",
-      "year": 2016,
-      "month": 8,
-      "day": 24,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Firstmerit Bank Pavilion at Northerly Island",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-26-2016",
-      "year": 2016,
-      "month": 8,
-      "day": 26,
-      "city": "Toronto",
-      "state": "ON",
-      "location": "Toronto, ON",
-      "venue": "Molson Canadian Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-3-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 3,
-      "city": "Woodinville",
-      "state": "WA",
-      "location": "Woodinville, WA",
-      "venue": "Chateau Ste. Michelle Winery",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-4-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 4,
-      "city": "Ridgefield",
-      "state": "WA",
-      "location": "Ridgefield, WA",
-      "venue": "Sunlight Supply Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-8-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 8,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Greek Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-10-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 10,
-      "city": "Mountian View",
-      "state": "CA",
-      "location": "Mountian View, CA",
-      "venue": "Shoreline Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-11-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 11,
-      "city": "Reno",
-      "state": "NV",
-      "location": "Reno, NV",
-      "venue": "Grand Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-13-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 13,
-      "city": "Phoenix",
-      "state": "AZ",
-      "location": "Phoenix, AZ",
-      "venue": "Ak-Chin Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-14-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 14,
-      "city": "San Diego",
-      "state": "CA",
-      "location": "San Diego, CA",
-      "venue": "Open Air Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-16-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 16,
-      "city": "Indio",
-      "state": "CA",
-      "location": "Indio, CA",
-      "venue": "Fantasy Springs Casino",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-17-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 17,
-      "city": "Las Vegas",
-      "state": "NV",
-      "location": "Las Vegas, NV",
-      "venue": "Downtown Las Vegas Events Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-19-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 19,
-      "city": "Morrison",
-      "state": "CO",
-      "location": "Morrison, CO",
-      "venue": "Red Rocks Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-22-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 22,
-      "city": "Albuquerque",
-      "state": "NM",
-      "location": "Albuquerque, NM",
-      "venue": "Sandia Casino",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-24-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 24,
-      "city": "Allen",
-      "state": "TX",
-      "location": "Allen, TX",
-      "venue": "Allen Event Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-25-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 25,
-      "city": "The Woodlands",
-      "state": "TX",
-      "location": "The Woodlands, TX",
-      "venue": "Cynthia Woods Mitchell Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-27-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 27,
-      "city": "Kansas City",
-      "state": "MO",
-      "location": "Kansas City, MO",
-      "venue": "Starlight Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-28-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 28,
-      "city": "Maryland Heights",
-      "state": "MO",
-      "location": "Maryland Heights, MO",
-      "venue": "Hollywood Casino Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-30-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 30,
-      "city": "Nashville",
-      "state": "TN",
-      "location": "Nashville, TN",
-      "venue": "Ascend Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-2-2016",
-      "year": 2016,
-      "month": 10,
-      "day": 2,
-      "city": "Mobile",
-      "state": "AL",
-      "location": "Mobile, AL",
-      "venue": "Ten Sixty Five",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-12-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 12,
-      "city": "Spokane",
-      "state": "WA",
-      "location": "Spokane, WA",
-      "venue": "Spokane Arena",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-14-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 14,
-      "city": "Edmonton",
-      "state": "AB",
-      "location": "Edmonton, AB",
-      "venue": "Rogers Place",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-16-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 16,
-      "city": "Vancouver",
-      "state": "BC",
-      "location": "Vancouver, BC",
-      "venue": "Pepsi Live at Rogers Arena",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-18-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 18,
-      "city": "Auburn",
-      "state": "WA",
-      "location": "Auburn, WA",
-      "venue": "White River Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-19-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 19,
-      "city": "Ridgefield",
-      "state": "WA",
-      "location": "Ridgefield, WA",
-      "venue": "Sunlight Supply Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-22-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 22,
-      "city": "Paso Robles",
-      "state": "CA",
-      "location": "Paso Robles, CA",
-      "venue": "California Mid-State Fair",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-24-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 24,
-      "city": "Murphys",
-      "state": "CA",
-      "location": "Murphys, CA",
-      "venue": "Ironstone Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-26-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 26,
-      "city": "Reno",
-      "state": "NV",
-      "location": "Reno, NV",
-      "venue": "Grand Theatre at Grand Sierra Resort",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-28-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 28,
-      "city": "Chula Vista",
-      "state": "CA",
-      "location": "Chula Vista, CA",
-      "venue": "Mattress Firm Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-29-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 29,
-      "city": "Las Vegas",
-      "state": "NV",
-      "location": "Las Vegas, NV",
-      "venue": "Mandalay Bay Events Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-31-2017",
-      "year": 2017,
-      "month": 7,
-      "day": 31,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "The Forum",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-2-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 2,
-      "city": "Phoenix",
-      "state": "AZ",
-      "location": "Phoenix, AZ",
-      "venue": "Ak-Chin Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-4-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 4,
-      "city": "Albuquerque",
-      "state": "NM",
-      "location": "Albuquerque, NM",
-      "venue": "Isleta Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-6-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 6,
-      "city": "Oklahoma City",
-      "state": "OK",
-      "location": "Oklahoma City, OK",
-      "venue": "Zoo Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-7-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 7,
-      "city": "Rogers",
-      "state": "AR",
-      "location": "Rogers, AR",
-      "venue": "Walmart Arkansas Music Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-9-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 9,
-      "city": "Pelham",
-      "state": "AL",
-      "location": "Pelham, AL",
-      "venue": "Oak Mountain Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-12-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 12,
-      "city": "Nashville",
-      "state": "TN",
-      "location": "Nashville, TN",
-      "venue": "Bridgestone Arena",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-13-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 13,
-      "city": "Atlanta",
-      "state": "GA",
-      "location": "Atlanta, GA",
-      "venue": "Lakewood Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-15-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 15,
-      "city": "Tampa",
-      "state": "FL",
-      "location": "Tampa, FL",
-      "venue": "MidFlorida Credit Union Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-16-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 16,
-      "city": "West Palm Beach",
-      "state": "FL",
-      "location": "West Palm Beach, FL",
-      "venue": "Perfect Vodka Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-19-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 19,
-      "city": "Jacksonville",
-      "state": "FL",
-      "location": "Jacksonville, FL",
-      "venue": "Daily's Place",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-20-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 20,
-      "city": "Charlotte",
-      "state": "NC",
-      "location": "Charlotte, NC",
-      "venue": "PNC Music Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-22-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 22,
-      "city": "Raleigh",
-      "state": "NC",
-      "location": "Raleigh, NC",
-      "venue": "Coastal Credit Union Music Park at Walnut Creek",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-23-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 23,
-      "city": "Virginia Beach",
-      "state": "VA",
-      "location": "Virginia Beach, VA",
-      "venue": "Veterans United Home Loans Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-25-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 25,
-      "city": "Saratoga Springs",
-      "state": "NY",
-      "location": "Saratoga Springs, NY",
-      "venue": "Saratoga Performing Arts Center",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-26-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 26,
-      "city": "Camden",
-      "state": "NJ",
-      "location": "Camden, NJ",
-      "venue": "BB&T Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-28-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 28,
-      "city": "Hershey",
-      "state": "PA",
-      "location": "Hershey, PA",
-      "venue": "Hersheypark Stadium",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-29-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 29,
-      "city": "Holmdel",
-      "state": "NJ",
-      "location": "Holmdel, NJ",
-      "venue": "PNC Bank Arts Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-31-2017",
-      "year": 2017,
-      "month": 8,
-      "day": 31,
-      "city": "Wantagh",
-      "state": "NY",
-      "location": "Wantagh, NY",
-      "venue": "Northwell Health Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-2-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 2,
-      "city": "Hartford",
-      "state": "CT",
-      "location": "Hartford, CT",
-      "venue": "The Xfinity Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-3-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 3,
-      "city": "Bristow",
-      "state": "VA",
-      "location": "Bristow, VA",
-      "venue": "Jiffy Lube Live",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-6-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 6,
-      "city": "Toronto",
-      "state": "ON",
-      "location": "Toronto, ON",
-      "venue": "Budweiser Stage",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-8-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 8,
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "Xfinity Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-9-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 9,
-      "city": "Syracuse",
-      "state": "NY",
-      "location": "Syracuse, NY",
-      "venue": "Lakeview Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-11-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 11,
-      "city": "Darien Center",
-      "state": "NY",
-      "location": "Darien Center, NY",
-      "venue": "Darien Lake Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-12-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 12,
-      "city": "Pittsburgh",
-      "state": "PA",
-      "location": "Pittsburgh, PA",
-      "venue": "KeyBank Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-14-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 14,
-      "city": "Mt. Pleasant",
-      "state": "MI",
-      "location": "Mt. Pleasant, MI",
-      "venue": "Soaring Eagle Casino Resort",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-16-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 16,
-      "city": "Welch",
-      "state": "MN",
-      "location": "Welch, MN",
-      "venue": "Treasure Island Resort & Casino",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-17-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 17,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Hollywood Casino Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-20-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 20,
-      "city": "Cleveland",
-      "state": "OH",
-      "location": "Cleveland, OH",
-      "venue": "Blossom Music Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-21-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 21,
-      "city": "Cincinnati",
-      "state": "OH",
-      "location": "Cincinnati, OH",
-      "venue": "Riverbend Music Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-23-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 23,
-      "city": "Detroit",
-      "state": "MI",
-      "location": "Detroit, MI",
-      "venue": "DTE Energy Music Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-24-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 24,
-      "city": "Noblesville",
-      "state": "IN",
-      "location": "Noblesville, IN",
-      "venue": "Ruoff Home Mortgage Music Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-26-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 26,
-      "city": "St. Louis",
-      "state": "MO",
-      "location": "St. Louis, MO",
-      "venue": "Hollywood Casino Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-27-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 27,
-      "city": "Kansas City",
-      "state": "MO",
-      "location": "Kansas City, MO",
-      "venue": "Starlight Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-30-2017",
-      "year": 2017,
-      "month": 9,
-      "day": 30,
-      "city": "Houston",
-      "state": "TX",
-      "location": "Houston, TX",
-      "venue": "Cynthia Woods Mitchell Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-1-2017",
-      "year": 2017,
-      "month": 10,
-      "day": 1,
-      "city": "Dallas",
-      "state": "TX",
-      "location": "Dallas, TX",
-      "venue": "Irving Music Factory",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-27-2018",
-      "year": 2018,
-      "month": 6,
-      "day": 27,
-      "city": "Boise",
-      "state": "ID",
-      "location": "Boise, ID",
-      "venue": "Taco Bell Arena",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-29-2018",
-      "year": 2018,
-      "month": 6,
-      "day": 29,
-      "city": "Auburn",
-      "state": "WA",
-      "location": "Auburn, WA",
-      "venue": "White River Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-30-2018",
-      "year": 2018,
-      "month": 6,
-      "day": 30,
-      "city": "Ridgefield",
-      "state": "WA",
-      "location": "Ridgefield, WA",
-      "venue": "Sunlight Supply Amphitheater, Ridgefield, WA",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-2-2018",
-      "year": 2018,
-      "month": 7,
-      "day": 2,
-      "city": "Reno",
-      "state": "NV",
-      "location": "Reno, NV",
-      "venue": "Grand Theatre at Grand Sierra Resort",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-3-2018",
-      "year": 2018,
-      "month": 7,
-      "day": 3,
-      "city": "Murphys",
-      "state": "CA",
-      "location": "Murphys, CA",
-      "venue": "Ironstone Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-8-2018",
-      "year": 2018,
-      "month": 7,
-      "day": 8,
-      "city": "Irvine",
-      "state": "CA",
-      "location": "Irvine, CA",
-      "venue": "Five Point Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-10-2018",
-      "year": 2018,
-      "month": 7,
-      "day": 10,
-      "city": "Chula Vista",
-      "state": "CA",
-      "location": "Chula Vista, CA",
-      "venue": "Mattress Firm Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-13-2018",
-      "year": 2018,
-      "month": 7,
-      "day": 13,
-      "city": "Indio",
-      "state": "CA",
-      "location": "Indio, CA",
-      "venue": "Fantasy Springs Casino",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-14-2018",
-      "year": 2018,
-      "month": 7,
-      "day": 14,
-      "city": "Las Vegas",
-      "state": "NV",
-      "location": "Las Vegas, NV",
-      "venue": "The Joint",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-16-2018",
-      "year": 2018,
-      "month": 7,
-      "day": 16,
-      "city": "Salt Lake City",
-      "state": "UT",
-      "location": "Salt Lake City, UT",
-      "venue": "Red Butte Garden Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-18-2018",
-      "year": 2018,
-      "month": 7,
-      "day": 18,
-      "city": "Denver",
-      "state": "CO",
-      "location": "Denver, CO",
-      "venue": "Pepsi Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-21-2018",
-      "year": 2018,
-      "month": 7,
-      "day": 21,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Austin360 Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-22-2018",
-      "year": 2018,
-      "month": 7,
-      "day": 22,
-      "city": "Houston",
-      "state": "TX",
-      "location": "Houston, TX",
-      "venue": "Cynthia Woods Mitchell Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-24-2018",
-      "year": 2018,
-      "month": 7,
-      "day": 24,
-      "city": "Irving",
-      "state": "TX",
-      "location": "Irving, TX",
-      "venue": "The Pavilion at Toyota Music Factory",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-26-2018",
-      "year": 2018,
-      "month": 7,
-      "day": 26,
-      "city": "Tupelo",
-      "state": "MS",
-      "location": "Tupelo, MS",
-      "venue": "Bancorp Arena",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-28-2018",
-      "year": 2018,
-      "month": 7,
-      "day": 28,
-      "city": "Pelham",
-      "state": "AL",
-      "location": "Pelham, AL",
-      "venue": "Oak Mountain Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-29-2018",
-      "year": 2018,
-      "month": 7,
-      "day": 29,
-      "city": "Atlanta",
-      "state": "GA",
-      "location": "Atlanta, GA",
-      "venue": "State Bank Ampitheater at Chastain Park",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-31-2018",
-      "year": 2018,
-      "month": 7,
-      "day": 31,
-      "city": "St. Petersburg",
-      "state": "FL",
-      "location": "St. Petersburg, FL",
-      "venue": "Al Lang Stadium",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-1-2018",
-      "year": 2018,
-      "month": 8,
-      "day": 1,
-      "city": "West Palm Beach",
-      "state": "FL",
-      "location": "West Palm Beach, FL",
-      "venue": "Coral Sky Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-4-2018",
-      "year": 2018,
-      "month": 8,
-      "day": 4,
-      "city": "Jacksonville",
-      "state": "FL",
-      "location": "Jacksonville, FL",
-      "venue": "Daily's Place",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-5-2018",
-      "year": 2018,
-      "month": 8,
-      "day": 5,
-      "city": "Charlotte",
-      "state": "NC",
-      "location": "Charlotte, NC",
-      "venue": "PNC Music Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-8-2018",
-      "year": 2018,
-      "month": 8,
-      "day": 8,
-      "city": "Bristow",
-      "state": "VA",
-      "location": "Bristow, VA",
-      "venue": "Jiffy Lube Live",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-10-2018",
-      "year": 2018,
-      "month": 8,
-      "day": 10,
-      "city": "Hershey",
-      "state": "PA",
-      "location": "Hershey, PA",
-      "venue": "Hersheypark Stadium",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-11-2018",
-      "year": 2018,
-      "month": 8,
-      "day": 11,
-      "city": "Camden",
-      "state": "NJ",
-      "location": "Camden, NJ",
-      "venue": "BB&T Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-17-2018",
-      "year": 2018,
-      "month": 8,
-      "day": 17,
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "Xfinity Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-18-2018",
-      "year": 2018,
-      "month": 8,
-      "day": 18,
-      "city": "Gilford",
-      "state": "NH",
-      "location": "Gilford, NH",
-      "venue": "Bank of New Hamshire Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-23-2018",
-      "year": 2018,
-      "month": 8,
-      "day": 23,
-      "city": "Atlantic City",
-      "state": "NJ",
-      "location": "Atlantic City, NJ",
-      "venue": "Hard Rock",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-25-2018",
-      "year": 2018,
-      "month": 8,
-      "day": 25,
-      "city": "Syracuse",
-      "state": "NY",
-      "location": "Syracuse, NY",
-      "venue": "New York State Fair",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-29-2018",
-      "year": 2018,
-      "month": 8,
-      "day": 29,
-      "city": "Toronto",
-      "state": "ON",
-      "location": "Toronto, ON",
-      "venue": "Budweiser Stage",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-1-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 1,
-      "city": "Cincinnati",
-      "state": "OH",
-      "location": "Cincinnati, OH",
-      "venue": "Riverbend Music Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-2-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 2,
-      "city": "Detroit",
-      "state": "MI",
-      "location": "Detroit, MI",
-      "venue": "DTE Energy Music Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-5-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 5,
-      "city": "Champaign",
-      "state": "IL",
-      "location": "Champaign, IL",
-      "venue": "State Farm Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-6-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 6,
-      "city": "Indianapolis",
-      "state": "IN",
-      "location": "Indianapolis, IN",
-      "venue": "Ruoff Home Mortgage Music Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-9-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 9,
-      "city": "St. Louis",
-      "state": "MO",
-      "location": "St. Louis, MO",
-      "venue": "Hollywood Casino Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-13-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 13,
-      "city": "Council Bluffs",
-      "state": "IA",
-      "location": "Council Bluffs, IA",
-      "venue": "Stir Cove at Harrah's Casino",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-15-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 15,
-      "city": "Sioux City",
-      "state": "IA",
-      "location": "Sioux City, IA",
-      "venue": "Hard Rock Hotel & Casino",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-16-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 16,
-      "city": "Minneapolis",
-      "state": "MN",
-      "location": "Minneapolis, MN",
-      "venue": "Mystic Lake - Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-18-2018",
-      "year": 2018,
-      "month": 9,
-      "day": 18,
-      "city": "Cedar Rapids",
-      "state": "IA",
-      "location": "Cedar Rapids, IA",
-      "venue": "US Cellular Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-17-2021",
-      "year": 2021,
-      "month": 8,
-      "day": 17,
-      "city": "Indianapolis",
-      "state": "IN /TCU Amphitheater at White River State Park (Nugs.net)",
-      "location": "Indianapolis, IN /TCU Amphitheater at White River State Park (Nugs.net)",
-      "venue": "",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-21-2021",
-      "year": 2021,
-      "month": 8,
-      "day": 21,
-      "city": "St. Louis",
-      "state": "MO",
-      "location": "St. Louis, MO",
-      "venue": "Saint Louis Music Park",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-24-2021",
-      "year": 2021,
-      "month": 8,
-      "day": 24,
-      "city": "Denver",
-      "state": "CO",
-      "location": "Denver, CO",
-      "venue": "Fillmore Auditorium",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-28-2021",
-      "year": 2021,
-      "month": 8,
-      "day": 28,
-      "city": "Spokane",
-      "state": "WA",
-      "location": "Spokane, WA",
-      "venue": "Pavilion at Riverfront",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-29-2021",
-      "year": 2021,
-      "month": 8,
-      "day": 29,
-      "city": "Redmond",
-      "state": "WA",
-      "location": "Redmond, WA",
-      "venue": "Marymoor Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-31-2021",
-      "year": 2021,
-      "month": 8,
-      "day": 31,
-      "city": "Troutdale",
-      "state": "OR",
-      "location": "Troutdale, OR",
-      "venue": "Edgefield",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-3-2021",
-      "year": 2021,
-      "month": 9,
-      "day": 3,
-      "city": "Berkeley",
-      "state": "CA",
-      "location": "Berkeley, CA",
-      "venue": "The Greek Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-4-2021",
-      "year": 2021,
-      "month": 9,
-      "day": 4,
-      "city": "Paso Robles",
-      "state": "CA",
-      "location": "Paso Robles, CA",
-      "venue": "Vina Robles Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-6-2021",
-      "year": 2021,
-      "month": 9,
-      "day": 6,
-      "city": "Murphys",
-      "state": "CA",
-      "location": "Murphys, CA",
-      "venue": "Ironstone Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-8-2021",
-      "year": 2021,
-      "month": 9,
-      "day": 8,
-      "city": "San Diego",
-      "state": "CA",
-      "location": "San Diego, CA",
-      "venue": "Cal Coast Credit Union Open Air Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-11-2021",
-      "year": 2021,
-      "month": 9,
-      "day": 11,
-      "city": "Redondo Beach",
-      "state": "CA",
-      "location": "Redondo Beach, CA",
-      "venue": "Beachlife Festival",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-12-2021",
-      "year": 2021,
-      "month": 9,
-      "day": 12,
-      "city": "Phoenix",
-      "state": "AZ",
-      "location": "Phoenix, AZ",
-      "venue": "Arizona Federal Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-15-2021",
-      "year": 2021,
-      "month": 9,
-      "day": 15,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Moody Amphitheater at Waterloo Park",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-17-2021",
-      "year": 2021,
-      "month": 9,
-      "day": 17,
-      "city": "Irving",
-      "state": "TX",
-      "location": "Irving, TX",
-      "venue": "The Pavilion at Toyota Music Factory",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-20-2021",
-      "year": 2021,
-      "month": 9,
-      "day": 20,
-      "city": "New Orleans",
-      "state": "LA",
-      "location": "New Orleans, LA",
-      "venue": "Saenger Performing Arts Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-28-2021",
-      "year": 2021,
-      "month": 9,
-      "day": 28,
-      "city": "Greensboro",
-      "state": "NC",
-      "location": "Greensboro, NC",
-      "venue": "White Oak Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-29-2021",
-      "year": 2021,
-      "month": 9,
-      "day": 29,
-      "city": "Wilmington",
-      "state": "NC",
-      "location": "Wilmington, NC",
-      "venue": "Live Oak Bank Pavilion at Riverfront Park",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-1-2021",
-      "year": 2021,
-      "month": 10,
-      "day": 1,
-      "city": "Forest Heights",
-      "state": "MD",
-      "location": "Forest Heights, MD",
-      "venue": "The Theater at MGM National Harbor",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-2-2021",
-      "year": 2021,
-      "month": 10,
-      "day": 2,
-      "city": "Richmond",
-      "state": "VA",
-      "location": "Richmond, VA",
-      "venue": "Altria Theater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-5-2021",
-      "year": 2021,
-      "month": 10,
-      "day": 5,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Hammerstein Ballroom",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-6-2021",
-      "year": 2021,
-      "month": 10,
-      "day": 6,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Hammerstein Ballroom",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-9-2021",
-      "year": 2021,
-      "month": 10,
-      "day": 9,
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "Leader Bank Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-13-2023",
-      "year": 2023,
-      "month": 6,
-      "day": 13,
-      "city": "Omaha",
-      "state": "NE",
-      "location": "Omaha, NE",
-      "venue": "Steelhouse Omaha",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-17-2023",
-      "year": 2023,
-      "month": 6,
-      "day": 17,
-      "city": "Indianapolis",
-      "state": "IN",
-      "location": "Indianapolis, IN",
-      "venue": "TCU Amphitheater at White River State Park",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-18-2023",
-      "year": 2023,
-      "month": 6,
-      "day": 18,
-      "city": "Cincinnati",
-      "state": "OH",
-      "location": "Cincinnati, OH",
-      "venue": "PNC Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-21-2023",
-      "year": 2023,
-      "month": 6,
-      "day": 21,
-      "city": "Milwaukee",
-      "state": "WI",
-      "location": "Milwaukee, WI",
-      "venue": "Miller High Life Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-24-2023",
-      "year": 2023,
-      "month": 6,
-      "day": 24,
-      "city": "Sterling Heights",
-      "state": "MI",
-      "location": "Sterling Heights, MI",
-      "venue": "Michigan Lottery Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-26-2023",
-      "year": 2023,
-      "month": 6,
-      "day": 26,
-      "city": "Moon Township",
-      "state": "PA",
-      "location": "Moon Township, PA",
-      "venue": "UPMC Events Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-28-2023",
-      "year": 2023,
-      "month": 6,
-      "day": 28,
-      "city": "Niagara Falls",
-      "state": "ON",
-      "location": "Niagara Falls, ON",
-      "venue": "OLG Stage and Fallsview Casino",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-29-2023",
-      "year": 2023,
-      "month": 6,
-      "day": 29,
-      "city": "Northfield",
-      "state": "OH",
-      "location": "Northfield, OH",
-      "venue": "MGM Northfield Park",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-1-2023",
-      "year": 2023,
-      "month": 7,
-      "day": 1,
-      "city": "Syracuse",
-      "state": "NY",
-      "location": "Syracuse, NY",
-      "venue": "St. Joseph's Health Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-2-2023",
-      "year": 2023,
-      "month": 7,
-      "day": 2,
-      "city": "Canandaigua",
-      "state": "NY",
-      "location": "Canandaigua, NY",
-      "venue": "CMAC",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-5-2023",
-      "year": 2023,
-      "month": 7,
-      "day": 5,
-      "city": "Saratoga Springs",
-      "state": "NY",
-      "location": "Saratoga Springs, NY",
-      "venue": "SPAC",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-6-2023",
-      "year": 2023,
-      "month": 7,
-      "day": 6,
-      "city": "Holmdel",
-      "state": "NJ",
-      "location": "Holmdel, NJ",
-      "venue": "PNC Bank Arts Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-9-2023",
-      "year": 2023,
-      "month": 7,
-      "day": 9,
-      "city": "Bethel",
-      "state": "NY",
-      "location": "Bethel, NY",
-      "venue": "Bethel Woods Center For The Arts",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-12-2023",
-      "year": 2023,
-      "month": 7,
-      "day": 12,
-      "city": "Columbia",
-      "state": "MD",
-      "location": "Columbia, MD",
-      "venue": "Merriweather Post Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-14-2023",
-      "year": 2023,
-      "month": 7,
-      "day": 14,
-      "city": "Gilford",
-      "state": "NH",
-      "location": "Gilford, NH",
-      "venue": "Bank of New Hampshire Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-18-2023",
-      "year": 2023,
-      "month": 7,
-      "day": 18,
-      "city": "Providence",
-      "state": "RI",
-      "location": "Providence, RI",
-      "venue": "Providence Performing Arts Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-19-2023",
-      "year": 2023,
-      "month": 7,
-      "day": 19,
-      "city": "Bridgeport",
-      "state": "CT",
-      "location": "Bridgeport, CT",
-      "venue": "Hartford Healthcare Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-21-2023",
-      "year": 2023,
-      "month": 7,
-      "day": 21,
-      "city": "Bethlehem",
-      "state": "PA",
-      "location": "Bethlehem, PA",
-      "venue": "Wind Creek Event Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-22-2023",
-      "year": 2023,
-      "month": 7,
-      "day": 22,
-      "city": "Atlantic City",
-      "state": "NJ",
-      "location": "Atlantic City, NJ",
-      "venue": "Borgata Event Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-26-2023",
-      "year": 2023,
-      "month": 7,
-      "day": 26,
-      "city": "Doswell",
-      "state": "VA",
-      "location": "Doswell, VA",
-      "venue": "The Meadow Event Park",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-28-2023",
-      "year": 2023,
-      "month": 7,
-      "day": 28,
-      "city": "Virginia Beach",
-      "state": "VA",
-      "location": "Virginia Beach, VA",
-      "venue": "Veterans United Home Loan Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-29-2023",
-      "year": 2023,
-      "month": 7,
-      "day": 29,
-      "city": "Raleigh",
-      "state": "NC",
-      "location": "Raleigh, NC",
-      "venue": "Red Hat Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-2-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 2,
-      "city": "Charleston",
-      "state": "SC",
-      "location": "Charleston, SC",
-      "venue": "Credit One Stadium",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-4-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 4,
-      "city": "Fort Myers",
-      "state": "FL",
-      "location": "Fort Myers, FL",
-      "venue": "Suncoast Credit Union Arena",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-5-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 5,
-      "city": "Hollywood",
-      "state": "FL",
-      "location": "Hollywood, FL",
-      "venue": "Hard Rock Live at Seminole Hard Rock Hotel & Casino",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-8-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 8,
-      "city": "St. Augustine",
-      "state": "FL",
-      "location": "St. Augustine, FL",
-      "venue": "The St. Augustine Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-9-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 9,
-      "city": "Tampa",
-      "state": "FL",
-      "location": "Tampa, FL",
-      "venue": "MidFlorida Credit Union Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-12-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 12,
-      "city": "Albertville",
-      "state": "AL",
-      "location": "Albertville, AL",
-      "venue": "Sand Mountain Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-19-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 19,
-      "city": "Sugar Land",
-      "state": "TX",
-      "location": "Sugar Land, TX",
-      "venue": "Smart Financial Centre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-22-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 22,
-      "city": "San Antonio",
-      "state": "TX",
-      "location": "San Antonio, TX",
-      "venue": "Majestic Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-23-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 23,
-      "city": "Irving",
-      "state": "TX",
-      "location": "Irving, TX",
-      "venue": "The Pavilion at Toyota Music Factory",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-25-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 25,
-      "city": "Norman",
-      "state": "OK",
-      "location": "Norman, OK",
-      "venue": "Riverwind Casino",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-26-2023",
-      "year": 2023,
-      "month": 8,
-      "day": 26,
-      "city": "Tulsa",
-      "state": "OK",
-      "location": "Tulsa, OK",
-      "venue": "The Cove at River Spirit",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-8-2023",
-      "year": 2023,
-      "month": 9,
-      "day": 8,
-      "city": "Lincoln",
-      "state": "CA",
-      "location": "Lincoln, CA",
-      "venue": "The Venue at Thunder Valley",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-10-2023",
-      "year": 2023,
-      "month": 9,
-      "day": 10,
-      "city": "Berkeley",
-      "state": "CA",
-      "location": "Berkeley, CA",
-      "venue": "The Greek Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-13-2023",
-      "year": 2023,
-      "month": 9,
-      "day": 13,
-      "city": "Airway Heights",
-      "state": "WA",
-      "location": "Airway Heights, WA",
-      "venue": "BECU Live Outdoor Venue",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-14-2023",
-      "year": 2023,
-      "month": 9,
-      "day": 14,
-      "city": "Bend",
-      "state": "OR",
-      "location": "Bend, OR",
-      "venue": "Hayden Homes Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-16-2023",
-      "year": 2023,
-      "month": 9,
-      "day": 16,
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Chateau Ste. Michelle Winery",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-17-2023",
-      "year": 2023,
-      "month": 9,
-      "day": 17,
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Chateau Ste. Michelle Winery",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-19-2023",
-      "year": 2023,
-      "month": 9,
-      "day": 19,
-      "city": "Bonner",
-      "state": "MT",
-      "location": "Bonner, MT",
-      "venue": "Kettlehouse Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-21-2023",
-      "year": 2023,
-      "month": 9,
-      "day": 21,
-      "city": "Nampa",
-      "state": "ID /- Ford Idaho Center Amphitheater (Nugs.net)",
-      "location": "Nampa, ID /- Ford Idaho Center Amphitheater (Nugs.net)",
-      "venue": "",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-22-2023",
-      "year": 2023,
-      "month": 9,
-      "day": 22,
-      "city": "Salt Lake City",
-      "state": "UT",
-      "location": "Salt Lake City, UT",
-      "venue": "USANA Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-25-2023",
-      "year": 2023,
-      "month": 9,
-      "day": 25,
-      "city": "Morrison",
-      "state": "CO",
-      "location": "Morrison, CO",
-      "venue": "Red Rocks Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-14-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 14,
-      "city": "Hollywood",
-      "state": "FL",
-      "location": "Hollywood, FL",
-      "venue": "Hard Rock Live",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-16-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 16,
-      "city": "Tampa",
-      "state": "FL",
-      "location": "Tampa, FL",
-      "venue": "Amalie Arena",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-20-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 20,
-      "city": "Bristow",
-      "state": "VA",
-      "location": "Bristow, VA",
-      "venue": "Jiffy Lube Live",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-21-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 21,
-      "city": "Camden",
-      "state": "NJ",
-      "location": "Camden, NJ",
-      "venue": "Freedom Mortgage Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-23-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 23,
-      "city": "Noblesville",
-      "state": "IN",
-      "location": "Noblesville, IN",
-      "venue": "Ruoff Music Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-26-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 26,
-      "city": "Toronto",
-      "state": "ON",
-      "location": "Toronto, ON",
-      "venue": "Budweiser Stage",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-28-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 28,
-      "city": "Cincinnati",
-      "state": "OH",
-      "location": "Cincinnati, OH",
-      "venue": "Riverbend Music Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-29-2024",
-      "year": 2024,
-      "month": 6,
-      "day": 29,
-      "city": "Tinley Park",
-      "state": "IL",
-      "location": "Tinley Park, IL",
-      "venue": "Credit Union 1 Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-9-2024",
-      "year": 2024,
-      "month": 7,
-      "day": 9,
-      "city": "Buffalo",
-      "state": "NY",
-      "location": "Buffalo, NY",
-      "venue": "Outer Harbor_ Live At Terminal B",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-11-2024",
-      "year": 2024,
-      "month": 7,
-      "day": 11,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "SummerStage in Central Park",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-13-2024",
-      "year": 2024,
-      "month": 7,
-      "day": 13,
-      "city": "Uncasville",
-      "state": "CT",
-      "location": "Uncasville, CT",
-      "venue": "Mohegan Sun Arena",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-14-2024",
-      "year": 2024,
-      "month": 7,
-      "day": 14,
-      "city": "Portland",
-      "state": "ME",
-      "location": "Portland, ME",
-      "venue": "Thompson's Point",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-16-2024",
-      "year": 2024,
-      "month": 7,
-      "day": 16,
-      "city": "Essex Junction",
-      "state": "VT",
-      "location": "Essex Junction, VT",
-      "venue": "Champlain Valley Exposition",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-18-2024",
-      "year": 2024,
-      "month": 7,
-      "day": 18,
-      "city": "Bethel",
-      "state": "NY",
-      "location": "Bethel, NY",
-      "venue": "Bethel Woods Center For The Arts",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-23-2024",
-      "year": 2024,
-      "month": 7,
-      "day": 23,
-      "city": "Mansfield",
-      "state": "MA",
-      "location": "Mansfield, MA",
-      "venue": "Xfinity Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-26-2024",
-      "year": 2024,
-      "month": 7,
-      "day": 26,
-      "city": "Milwaukee",
-      "state": "WI",
-      "location": "Milwaukee, WI",
-      "venue": "American Family Insurance Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-27-2024",
-      "year": 2024,
-      "month": 7,
-      "day": 27,
-      "city": "St. Louis",
-      "state": "MO",
-      "location": "St. Louis, MO",
-      "venue": "Hollywood Casino Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-2-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 2,
-      "city": "Waukee",
-      "state": "IA",
-      "location": "Waukee, IA",
-      "venue": "Vibrant Music Hall",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-3-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 3,
-      "city": "Minneapolis",
-      "state": "MN",
-      "location": "Minneapolis, MN",
-      "venue": "Basilica Block Party at Boom Island Park",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-15-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 15,
-      "city": "Fort Worth",
-      "state": "TX",
-      "location": "Fort Worth, TX",
-      "venue": "Dickies Arena",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-17-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 17,
-      "city": "Houston",
-      "state": "TX",
-      "location": "Houston, TX",
-      "venue": "Toyota Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-18-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 18,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Moody Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-24-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 24,
-      "city": "Auburn",
-      "state": "WA",
-      "location": "Auburn, WA",
-      "venue": "White River Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-25-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 25,
-      "city": "Ridgefield",
-      "state": "WA",
-      "location": "Ridgefield, WA",
-      "venue": "The RV Inn Style Resorts Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-30-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 30,
-      "city": "Chula Vista",
-      "state": "CA",
-      "location": "Chula Vista, CA",
-      "venue": "North Island Credit Union Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-31-2024",
-      "year": 2024,
-      "month": 8,
-      "day": 31,
-      "city": "Costa Mesa",
-      "state": "CA",
-      "location": "Costa Mesa, CA",
-      "venue": "Pacific Amphitheatre at OC Fair",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-10-2025",
-      "year": 2025,
-      "month": 6,
-      "day": 10,
-      "city": "Nashville",
-      "state": "TN",
-      "location": "Nashville, TN",
-      "venue": "The Pinnacle",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-11-2025",
-      "year": 2025,
-      "month": 6,
-      "day": 11,
-      "city": "Kettering",
-      "state": "OH",
-      "location": "Kettering, OH",
-      "venue": "Fraze Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-17-2025",
-      "year": 2025,
-      "month": 6,
-      "day": 17,
-      "city": "Sterling Heights",
-      "state": "MI",
-      "location": "Sterling Heights, MI",
-      "venue": "Michigan Lottery Amphitheatre at Freedom Hill",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-19-2025",
-      "year": 2025,
-      "month": 6,
-      "day": 19,
-      "city": "Etobicoke",
-      "state": "ON",
-      "location": "Etobicoke, ON",
-      "venue": "The Theatre at Great Canadian Toronto",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-21-2025",
-      "year": 2025,
-      "month": 6,
-      "day": 21,
-      "city": "Chautauqua",
-      "state": "NY",
-      "location": "Chautauqua, NY",
-      "venue": "Chautauqua Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-22-2025",
-      "year": 2025,
-      "month": 6,
-      "day": 22,
-      "city": "Verona",
-      "state": "NY",
-      "location": "Verona, NY",
-      "venue": "The Event Center at Turning Stone Resort Casino",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-25-2025",
-      "year": 2025,
-      "month": 6,
-      "day": 25,
-      "city": "Gilford",
-      "state": "NH",
-      "location": "Gilford, NH",
-      "venue": "Bank of New Hampshire Pavilion",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-26-2025",
-      "year": 2025,
-      "month": 6,
-      "day": 26,
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "MGM Music Hall at Fenway",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-2-2025",
-      "year": 2025,
-      "month": 7,
-      "day": 2,
-      "city": "Springfield",
-      "state": "MA",
-      "location": "Springfield, MA",
-      "venue": "Mass Mutual Center",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-3-2025",
-      "year": 2025,
-      "month": 7,
-      "day": 3,
-      "city": "Grantville",
-      "state": "PA",
-      "location": "Grantville, PA",
-      "venue": "Hollywood Casino at Penn National Race Course",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-5-2025",
-      "year": 2025,
-      "month": 7,
-      "day": 5,
-      "city": "Atlantic City",
-      "state": "NJ",
-      "location": "Atlantic City, NJ",
-      "venue": "Hard Rock Live at Etess Arena",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-6-2025",
-      "year": 2025,
-      "month": 7,
-      "day": 6,
-      "city": "Bridgeport",
-      "state": "CT",
-      "location": "Bridgeport, CT",
-      "venue": "Hartford Healthcare Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-22-2025",
-      "year": 2025,
-      "month": 7,
-      "day": 22,
-      "city": "Hollywood",
-      "state": "FL",
-      "location": "Hollywood, FL",
-      "venue": "Hard Rock Live",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-24-2025",
-      "year": 2025,
-      "month": 7,
-      "day": 24,
-      "city": "Alpharetta",
-      "state": "GA",
-      "location": "Alpharetta, GA",
-      "venue": "Ameris Bank Amphitheatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-27-2025",
-      "year": 2025,
-      "month": 7,
-      "day": 27,
-      "city": "Gautier",
-      "state": "MS",
-      "location": "Gautier, MS",
-      "venue": "The Sound Amphitheater",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-30-2025",
-      "year": 2025,
-      "month": 7,
-      "day": 30,
-      "city": "New Orleans",
-      "state": "LA",
-      "location": "New Orleans, LA",
-      "venue": "Saenger Theatre",
-      "notes": "Nugs.net",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-31-2025",
-      "year": 2025,
-      "month": 7,
-      "day": 31,
-      "city": "Sugar Land",
-      "state": "TX",
-      "location": "Sugar Land, TX",
-      "venue": "Smart Financial Centre at Sugar Land",
-      "notes": "Nugs.net",
-      "version": "SBD",
       "format": "FLAC"
     }
   ]

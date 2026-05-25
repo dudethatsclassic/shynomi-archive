@@ -43,7 +43,7 @@ const ARTIST_DATA = {
       "venue": "MD(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 franger"
+      "notes": "Sony ECM-717 · franger"
     },
     {
       "year": 2005,
@@ -69,7 +69,7 @@ const ARTIST_DATA = {
       "venue": "Ryman Auditorium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-909 \u00b7 Unknown"
+      "notes": "Sony ECM-909 · Unknown"
     },
     {
       "year": 2007,
@@ -82,7 +82,7 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "MC 930 \u00b7 jeff hatcher & dennis tyler"
+      "notes": "MC 930 · jeff hatcher & dennis tyler"
     },
     {
       "year": 2008,
@@ -108,7 +108,7 @@ const ARTIST_DATA = {
       "venue": "Plenary Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Nokia Lumia 30 \u00b7 eckythump"
+      "notes": "Nokia Lumia 30 · eckythump"
     },
     {
       "year": 2021,
@@ -134,7 +134,7 @@ const ARTIST_DATA = {
       "venue": "Troy Savings Bank Music Hall",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 smores"
+      "notes": "SP-CMC-8 · smores"
     },
     {
       "year": 2023,
@@ -147,7 +147,7 @@ const ARTIST_DATA = {
       "venue": "Troy Savings Bank Music Hall",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 smores"
+      "notes": "SP-CMC-8 · smores"
     },
     {
       "year": 2024,
@@ -160,7 +160,7 @@ const ARTIST_DATA = {
       "venue": "Mahaiwe PAC",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 smores"
+      "notes": "SP-CMC-8 · smores"
     },
     {
       "year": 2024,
@@ -173,7 +173,7 @@ const ARTIST_DATA = {
       "venue": "University at Buffalo Center for the Arts",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "iPhone 16 Pro \u00b7 powerage5"
+      "notes": "iPhone 16 Pro · powerage5"
     },
     {
       "year": 2024,
@@ -186,7 +186,7 @@ const ARTIST_DATA = {
       "venue": "City Center",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 smores"
+      "notes": "SP-CMC-8 · smores"
     },
     {
       "year": 2025,
@@ -199,7 +199,7 @@ const ARTIST_DATA = {
       "venue": "Mayo Civic Center",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "iPhone \u00b7 Unknown"
+      "notes": "iPhone · Unknown"
     },
     {
       "year": 2025,
@@ -212,7 +212,7 @@ const ARTIST_DATA = {
       "venue": "UPH",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 smores"
+      "notes": "SP-CMC-8 · smores"
     },
     {
       "year": 1995,
@@ -238,7 +238,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "notes": "unk · neekrive"
     },
     {
       "year": 1995,
@@ -264,7 +264,7 @@ const ARTIST_DATA = {
       "venue": "Markham Park - Zetafest 97",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DSM-6P \u00b7 datfly"
+      "notes": "DSM-6P · datfly"
     },
     {
       "year": 2015,
@@ -290,7 +290,7 @@ const ARTIST_DATA = {
       "venue": "Rose Music Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CA-14s \u00b7 charles dewey cole"
+      "notes": "CA-14s · charles dewey cole"
     },
     {
       "year": 2024,
@@ -303,7 +303,7 @@ const ARTIST_DATA = {
       "venue": "3rd & Lindsey",
       "version": "MIX",
       "format": "FLAC 24",
-      "notes": "SP-CMC-8 + SBD \u00b7 mr sifter"
+      "notes": "SP-CMC-8 + SBD · mr sifter"
     },
     {
       "year": 2025,
@@ -316,7 +316,7 @@ const ARTIST_DATA = {
       "venue": "Mason Municipal Campus",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CA-14 \u00b7 live2cd"
+      "notes": "CA-14 · live2cd"
     }
   ],
   "misc": [
@@ -383,6 +383,118 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "Drive - E"
+    },
+    {
+      "type": "show",
+      "year": 1995,
+      "month": 6,
+      "day": 17,
+      "dateStr": "6-17-1995",
+      "city": "Irvine",
+      "state": "CA",
+      "location": "Irvine, CA",
+      "venue": "Irvine Meadows",
+      "notes": "KROQ",
+      "version": "FM",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "year": 1995,
+      "month": 8,
+      "day": 10,
+      "dateStr": "8-10-1995",
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "The Fillmore",
+      "notes": "unk · neekrive",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "year": 1995,
+      "month": 12,
+      "day": null,
+      "dateStr": "12-XX-1995",
+      "city": "Better Than Ezra",
+      "state": "",
+      "location": "Better Than Ezra",
+      "venue": "In Concert",
+      "notes": "96-15",
+      "version": "preFM",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "year": 1997,
+      "month": 7,
+      "day": 5,
+      "dateStr": "7-5-1997",
+      "city": "Sunrise",
+      "state": "FL",
+      "location": "Sunrise, FL",
+      "venue": "Markham Park",
+      "notes": "Zetafest · DSM-6P · datfly",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "year": 2015,
+      "month": 12,
+      "day": 29,
+      "dateStr": "12-29-2015",
+      "city": "Dallas TX",
+      "state": "",
+      "location": "Dallas TX",
+      "venue": "House of Blues",
+      "notes": "",
+      "version": "Webcast",
+      "format": "TS"
+    },
+    {
+      "type": "show",
+      "year": 2021,
+      "month": 9,
+      "day": 11,
+      "dateStr": "9-11-2021",
+      "city": "Huber Heights",
+      "state": "OH",
+      "location": "Huber Heights, OH",
+      "venue": "Rose Music Center",
+      "notes": "CA-14s · charles dewey cole",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "year": 2024,
+      "month": 5,
+      "day": 5,
+      "dateStr": "5-5-2024",
+      "city": "Nashville",
+      "state": "TN",
+      "location": "Nashville, TN",
+      "venue": "3rd & Lindsey",
+      "notes": "SP-CMC-8 + SBD · mr sifter",
+      "version": "MIX",
+      "format": "FLAC 24"
+    },
+    {
+      "type": "show",
+      "year": 2025,
+      "month": 7,
+      "day": 3,
+      "dateStr": "7-3-2025",
+      "city": "Mason",
+      "state": "OH",
+      "location": "Mason, OH",
+      "venue": "Mason Municipal Campus",
+      "notes": "CA-14 · live2cd",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };

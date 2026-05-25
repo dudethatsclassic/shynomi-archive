@@ -647,7 +647,7 @@ const ARTIST_DATA = {
       "venue": "Lee's Palace",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "44matsu \u00b7 Unknown"
+      "notes": "44matsu · Unknown"
     },
     {
       "year": 1994,
@@ -1102,7 +1102,7 @@ const ARTIST_DATA = {
       "venue": "Lupo's Heartbreak Hotel",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony PC-62 \u00b7 Phil H."
+      "notes": "Sony PC-62 · Phil H."
     },
     {
       "year": 1995,
@@ -1557,7 +1557,7 @@ const ARTIST_DATA = {
       "venue": "La Luna",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM 30 \u00b7 Marco Luciano"
+      "notes": "Aiwa CM 30 · Marco Luciano"
     },
     {
       "year": 1995,
@@ -1713,7 +1713,7 @@ const ARTIST_DATA = {
       "venue": "ITW Fun Radio",
       "version": "FM",
       "format": "FLAC",
-      "notes": "44matsu \u00b7 Noel Gallagher"
+      "notes": "44matsu · Noel Gallagher"
     },
     {
       "year": 1995,
@@ -2012,7 +2012,7 @@ const ARTIST_DATA = {
       "venue": "Tower Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT831 \u00b7 Fortylicks"
+      "notes": "AT831 · Fortylicks"
     },
     {
       "year": 1996,
@@ -2714,7 +2714,7 @@ const ARTIST_DATA = {
       "venue": "Earls Court Exhibition Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Complete \u00b7 Unknown"
+      "notes": "Complete · Unknown"
     },
     {
       "year": 1997,
@@ -3286,7 +3286,7 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Brian Fredkin"
+      "notes": "Unknown · Brian Fredkin"
     },
     {
       "year": 1998,
@@ -3299,7 +3299,7 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D8 \u00b7 Ijwthstd"
+      "notes": "Sony D8 · Ijwthstd"
     },
     {
       "year": 1998,
@@ -4274,7 +4274,7 @@ const ARTIST_DATA = {
       "venue": "Chicago Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Marcsounds \u00b7 Lowlight10"
+      "notes": "Marcsounds · Lowlight10"
     },
     {
       "year": 2000,
@@ -6666,7 +6666,7 @@ const ARTIST_DATA = {
       "venue": "The Lighthouse",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Soundcheck \u00b7 Icom Ic-r5 \u00b7 Petrock2000"
+      "notes": "Soundcheck · Icom Ic-r5 · Petrock2000"
     },
     {
       "year": 2004,
@@ -7251,7 +7251,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Bowl",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DSM6 \u00b7 Unknown"
+      "notes": "DSM6 · Unknown"
     },
     {
       "year": 2005,
@@ -7277,7 +7277,7 @@ const ARTIST_DATA = {
       "venue": "Smirnoff Music Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Coresound Lc \u00b7 Mike Rowefoen"
+      "notes": "Coresound Lc · Mike Rowefoen"
     },
     {
       "year": 2005,
@@ -7290,7 +7290,7 @@ const ARTIST_DATA = {
       "venue": "Blossom Music Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Galen Master"
+      "notes": "CSB · Galen Master"
     },
     {
       "year": 2005,
@@ -7342,7 +7342,7 @@ const ARTIST_DATA = {
       "venue": "Millenium Stadium",
       "version": "MTX",
       "format": "FLAC",
-      "notes": "Oasisgiants \u00b7 2014 Mix"
+      "notes": "Oasisgiants · 2014 Mix"
     },
     {
       "year": 2005,
@@ -7368,7 +7368,7 @@ const ARTIST_DATA = {
       "venue": "The Hovet",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT831b \u00b7 Johnky"
+      "notes": "AT831b · Johnky"
     },
     {
       "year": 2006,
@@ -7381,7 +7381,7 @@ const ARTIST_DATA = {
       "venue": "The Hovet",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Vivanco \u00b7 Wiltteri"
+      "notes": "Vivanco · Wiltteri"
     },
     {
       "year": 2006,
@@ -7433,7 +7433,7 @@ const ARTIST_DATA = {
       "venue": "Air Canada Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSC \u00b7 Burnboy"
+      "notes": "CSC · Burnboy"
     },
     {
       "year": 2006,
@@ -7446,7 +7446,7 @@ const ARTIST_DATA = {
       "venue": "The Riverside Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Ryan Teske"
+      "notes": "CSB · Ryan Teske"
     },
     {
       "year": 2006,
@@ -7459,7 +7459,7 @@ const ARTIST_DATA = {
       "venue": "The Riverside Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-12 \u00b7 matt krueger"
+      "notes": "SP-CMC-12 · matt krueger"
     },
     {
       "year": 2006,
@@ -7524,7 +7524,7 @@ const ARTIST_DATA = {
       "venue": "WaMu Theater",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ss-dsm6s/l \u00b7 B.c."
+      "notes": "Ss-dsm6s/l · B.c."
     },
     {
       "year": 2008,
@@ -7537,7 +7537,7 @@ const ARTIST_DATA = {
       "venue": "WaMu Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11 \u00b7 Oasisdouglas"
+      "notes": "Ca-11 · Oasisdouglas"
     },
     {
       "year": 2008,
@@ -7550,7 +7550,7 @@ const ARTIST_DATA = {
       "venue": "WaMu Theater",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "Ca-11 + Ss-dsm-6s/l \u00b7 James Remaster"
+      "notes": "Ca-11 + Ss-dsm-6s/l · James Remaster"
     },
     {
       "year": 2008,
@@ -7563,7 +7563,7 @@ const ARTIST_DATA = {
       "venue": "General Motors Place",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Griffin Italk Pro Mic \u00b7 Unknown"
+      "notes": "Griffin Italk Pro Mic · Unknown"
     },
     {
       "year": 2008,
@@ -7602,7 +7602,7 @@ const ARTIST_DATA = {
       "venue": "The NIA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA4061s \u00b7 Tommybagnall"
+      "notes": "DPA4061s · Tommybagnall"
     },
     {
       "year": 2008,
@@ -7641,7 +7641,7 @@ const ARTIST_DATA = {
       "venue": "International Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Tommybagnall"
+      "notes": "DPA 4061s · Tommybagnall"
     },
     {
       "year": 2008,
@@ -7667,7 +7667,7 @@ const ARTIST_DATA = {
       "venue": "SECC",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT831b \u00b7 Johnky"
+      "notes": "AT831b · Johnky"
     },
     {
       "year": 2008,
@@ -7706,7 +7706,7 @@ const ARTIST_DATA = {
       "venue": "Falkoner Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Church Cardiods \u00b7 Nb"
+      "notes": "Church Cardiods · Nb"
     },
     {
       "year": 2008,
@@ -7732,7 +7732,7 @@ const ARTIST_DATA = {
       "venue": "Le Bataclan",
       "version": "FM",
       "format": "FLAC",
-      "notes": "France Inter Broadcast \u00b7 Ldb"
+      "notes": "France Inter Broadcast · Ldb"
     },
     {
       "year": 2008,
@@ -7914,7 +7914,7 @@ const ARTIST_DATA = {
       "venue": "Globe Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Alt Recording - 8 Songs \u00b7 Wiltteri"
+      "notes": "Alt Recording - 8 Songs · Wiltteri"
     },
     {
       "year": 2009,
@@ -8005,7 +8005,7 @@ const ARTIST_DATA = {
       "venue": "Palacio de Deportes",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Edirol R09 \u00b7 Liamskelter"
+      "notes": "Edirol R09 · Liamskelter"
     },
     {
       "year": 2009,
@@ -8031,7 +8031,7 @@ const ARTIST_DATA = {
       "venue": "Pavilhao Atlantico",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT-943 \u00b7 J.mart"
+      "notes": "AT-943 · J.mart"
     },
     {
       "year": 2009,
@@ -8044,7 +8044,7 @@ const ARTIST_DATA = {
       "venue": "Pavilhao Atlantico",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sp-spsb-1 \u00b7 Sykor"
+      "notes": "Sp-spsb-1 · Sykor"
     },
     {
       "year": 2009,
@@ -8057,7 +8057,7 @@ const ARTIST_DATA = {
       "venue": "PalaLottomatica",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Gnegno \u00b7 Inc"
+      "notes": "CSB · Gnegno · Inc"
     },
     {
       "year": 2009,
@@ -8317,7 +8317,7 @@ const ARTIST_DATA = {
       "venue": "Estadio Nacional",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Rolandx"
+      "notes": "SP-CMC-8 · Rolandx"
     },
     {
       "year": 2009,
@@ -8408,7 +8408,7 @@ const ARTIST_DATA = {
       "venue": "Movistar Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-719 \u00b7 Dariohead"
+      "notes": "Sony ECM-719 · Dariohead"
     },
     {
       "year": 2009,
@@ -8577,7 +8577,7 @@ const ARTIST_DATA = {
       "venue": "Ricoh Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Church Audio STC-11 \u00b7 Unknown"
+      "notes": "Church Audio STC-11 · Unknown"
     },
     {
       "year": 2009,
@@ -8590,7 +8590,7 @@ const ARTIST_DATA = {
       "venue": "The Ricoh Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Tommybagnall"
+      "notes": "DPA 4061s · Tommybagnall"
     },
     {
       "year": 2009,
@@ -8837,7 +8837,7 @@ const ARTIST_DATA = {
       "venue": "Soldier Field",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "AT831s \u00b7 Tapeworm48"
+      "notes": "AT831s · Tapeworm48"
     },
     {
       "year": 2025,
@@ -8850,7 +8850,7 @@ const ARTIST_DATA = {
       "venue": "Soldier Field",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 Live2cd"
+      "notes": "SP-CMC-8 · Live2cd"
     },
     {
       "year": 2025,
@@ -8876,7 +8876,7 @@ const ARTIST_DATA = {
       "venue": "Principality Stadium",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 Eerie_young"
+      "notes": "SP-CMC-8 · Eerie_young"
     },
     {
       "year": 2025,
@@ -8889,7 +8889,7 @@ const ARTIST_DATA = {
       "venue": "Principality Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Petrock2000"
+      "notes": "SP-CMC-8 · Petrock2000"
     },
     {
       "year": 2025,
@@ -8902,7 +8902,7 @@ const ARTIST_DATA = {
       "venue": "Heaton Park )",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Ianstanley87 \u00b7 Petrock2000 Remaster"
+      "notes": "SP-CMC-8 · Ianstanley87 · Petrock2000 Remaster"
     },
     {
       "year": 2025,
@@ -8915,7 +8915,7 @@ const ARTIST_DATA = {
       "venue": "Heaton Park",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 Eerie_young"
+      "notes": "SP-CMC-8 · Eerie_young"
     },
     {
       "year": 2025,
@@ -8928,7 +8928,7 @@ const ARTIST_DATA = {
       "venue": "Wembley Stadium",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Primo Em182 \u00b7 Unknown"
+      "notes": "Primo Em182 · Unknown"
     },
     {
       "year": 2025,
@@ -8941,7 +8941,7 @@ const ARTIST_DATA = {
       "venue": "Wembley Stadium",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Custom Primo Em182 \u00b7 2025 Remaster"
+      "notes": "Custom Primo Em182 · 2025 Remaster"
     },
     {
       "year": 2025,
@@ -8954,7 +8954,7 @@ const ARTIST_DATA = {
       "venue": "Scottish Gas Murrayfield Stadium",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Zoom Iq6 \u00b7 Lamla999"
+      "notes": "Zoom Iq6 · Lamla999"
     },
     {
       "year": 2025,
@@ -8967,7 +8967,7 @@ const ARTIST_DATA = {
       "venue": "Metlife Stadium",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK41s \u00b7 Jb"
+      "notes": "Schoeps MK41s · Jb"
     },
     {
       "year": 2025,
@@ -8980,7 +8980,7 @@ const ARTIST_DATA = {
       "venue": "Rose Bowl",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Jlw"
+      "notes": "Schoeps MK4 · Jlw"
     },
     {
       "year": 2025,
@@ -9006,7 +9006,7 @@ const ARTIST_DATA = {
       "venue": "Rose Bowl",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DPA 4061 \u00b7 Opsopcopolis"
+      "notes": "DPA 4061 · Opsopcopolis"
     },
     {
       "year": 2025,
@@ -9019,7 +9019,7 @@ const ARTIST_DATA = {
       "venue": "Rose Bowl",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Jlw"
+      "notes": "Schoeps MK4 · Jlw"
     },
     {
       "year": 2025,
@@ -9032,7 +9032,7 @@ const ARTIST_DATA = {
       "venue": "Tokyo Dome",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Mini + Popstar12345"
+      "notes": "SP-CMC-8 · Mini + Popstar12345"
     },
     {
       "year": 2025,
@@ -9045,7 +9045,7 @@ const ARTIST_DATA = {
       "venue": "Tokyo Dome",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11 \u00b7 Mini + Popstar12345"
+      "notes": "Ca-11 · Mini + Popstar12345"
     },
     {
       "year": 2025,
@@ -9058,7 +9058,7 @@ const ARTIST_DATA = {
       "venue": "Estadio Nacional",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Zoom Iq6 \u00b7 Cristobalh96"
+      "notes": "Zoom Iq6 · Cristobalh96"
     },
     {
       "year": 1993,
@@ -9084,7 +9084,7 @@ const ARTIST_DATA = {
       "venue": "Civic Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D8 \u00b7 Tommybagnall"
+      "notes": "Sony D8 · Tommybagnall"
     },
     {
       "year": 2006,
@@ -9162,7 +9162,7 @@ const ARTIST_DATA = {
       "venue": "The Royal Albert Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT831b \u00b7 Johnky"
+      "notes": "AT831b · Johnky"
     },
     {
       "year": 2010,
@@ -9175,7 +9175,7 @@ const ARTIST_DATA = {
       "venue": "Royal Albert Hall - Teenage Cancer Trust",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony Ericsson C901 \u00b7 Jp Zarka"
+      "notes": "Sony Ericsson C901 · Jp Zarka"
     },
     {
       "year": 2010,
@@ -9188,7 +9188,7 @@ const ARTIST_DATA = {
       "venue": "Royal Albert Hall",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "AT898 + Icom IC-R5 \u00b7 Unknown"
+      "notes": "AT898 + Icom IC-R5 · Unknown"
     },
     {
       "year": 2012,
@@ -9227,7 +9227,7 @@ const ARTIST_DATA = {
       "venue": "RV Inn Style Resorts Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-9 \u00b7 Robgronotte"
+      "notes": "SP-CMC-9 · Robgronotte"
     },
     {
       "year": 2011,
@@ -9240,7 +9240,7 @@ const ARTIST_DATA = {
       "venue": "The Jonathan Ross Show",
       "version": "TV",
       "format": "FLAC",
-      "notes": "Ntl Box \u00b7 Johnky"
+      "notes": "Ntl Box · Johnky"
     },
     {
       "year": 2011,
@@ -9292,7 +9292,7 @@ const ARTIST_DATA = {
       "venue": "The Graham Norton Show",
       "version": "TV",
       "format": "FLAC",
-      "notes": "Ntl Box \u00b7 Johnky"
+      "notes": "Ntl Box · Johnky"
     },
     {
       "year": 2012,
@@ -9305,7 +9305,7 @@ const ARTIST_DATA = {
       "venue": "Manchester Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM-CS10 \u00b7 Birchy"
+      "notes": "ECM-CS10 · Birchy"
     },
     {
       "year": 2012,
@@ -9318,7 +9318,7 @@ const ARTIST_DATA = {
       "venue": "Motorpoint Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-719 \u00b7 Leongti"
+      "notes": "Sony ECM-719 · Leongti"
     },
     {
       "year": 2012,
@@ -9344,7 +9344,7 @@ const ARTIST_DATA = {
       "venue": "The Tonhalle",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT831b \u00b7 Johnky"
+      "notes": "AT831b · Johnky"
     },
     {
       "year": 2012,
@@ -9357,7 +9357,7 @@ const ARTIST_DATA = {
       "venue": "Royal Oak Music Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-14s \u00b7 Live2cd"
+      "notes": "Ca-14s · Live2cd"
     },
     {
       "year": 2012,
@@ -9383,7 +9383,7 @@ const ARTIST_DATA = {
       "venue": "Tabernacle",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Sjones"
+      "notes": "Unknown · Sjones"
     },
     {
       "year": 2012,
@@ -9396,7 +9396,7 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ipod Recording Mic \u00b7 Dbsainz"
+      "notes": "Ipod Recording Mic · Dbsainz"
     },
     {
       "year": 2012,
@@ -9448,7 +9448,7 @@ const ARTIST_DATA = {
       "venue": "Bournemouth International Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Blue Mikey 2.0 \u00b7 280981"
+      "notes": "Blue Mikey 2.0 · 280981"
     },
     {
       "year": 2015,
@@ -9474,7 +9474,7 @@ const ARTIST_DATA = {
       "venue": "Capital FM Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Birchy"
+      "notes": "SP-CMC-8 · Birchy"
     },
     {
       "year": 2015,
@@ -9513,7 +9513,7 @@ const ARTIST_DATA = {
       "venue": "Metropolitan Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Tascam Dr-wl22 \u00b7 Edba"
+      "notes": "Tascam Dr-wl22 · Edba"
     },
     {
       "year": 2015,
@@ -9591,7 +9591,7 @@ const ARTIST_DATA = {
       "venue": "Concord Pavillion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Loughney"
+      "notes": "Schoeps MK4 · Loughney"
     },
     {
       "year": 2023,
@@ -9604,7 +9604,7 @@ const ARTIST_DATA = {
       "venue": "Concord Pavillion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Wilson66"
+      "notes": "DPA 4061s · Wilson66"
     },
     {
       "year": 2023,
@@ -9617,7 +9617,7 @@ const ARTIST_DATA = {
       "venue": "iTHINK Financial Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM-DS70P \u00b7 Kevdogg"
+      "notes": "ECM-DS70P · Kevdogg"
     },
     {
       "year": 2023,
@@ -9630,7 +9630,7 @@ const ARTIST_DATA = {
       "venue": "MidFlorida Credit Union Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM-DS70P \u00b7 Kevdogg"
+      "notes": "ECM-DS70P · Kevdogg"
     },
     {
       "year": 2023,
@@ -9643,7 +9643,7 @@ const ARTIST_DATA = {
       "venue": "Ameris Bank Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Tascam Im2 \u00b7 Jorje"
+      "notes": "Tascam Im2 · Jorje"
     },
     {
       "year": 2023,
@@ -9669,7 +9669,7 @@ const ARTIST_DATA = {
       "venue": "MGM Music Hall at Fenway",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Farve4"
+      "notes": "SP-CMC-8 · Farve4"
     },
     {
       "year": 2023,
@@ -9682,7 +9682,7 @@ const ARTIST_DATA = {
       "venue": "O2 Academy Bournemouth",
       "version": "FM",
       "format": "FLAC",
-      "notes": "whatever \u00b7 Absolute Radio"
+      "notes": "whatever · Absolute Radio"
     },
     {
       "year": 2023,
@@ -9695,7 +9695,7 @@ const ARTIST_DATA = {
       "venue": "Audley End House",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Olympus Ls-p5 \u00b7 Dfb02080"
+      "notes": "Olympus Ls-p5 · Dfb02080"
     },
     {
       "year": 2023,
@@ -9760,7 +9760,7 @@ const ARTIST_DATA = {
       "venue": "Utilita Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Inc \u00b7 Edirol R-07 \u00b7 Welshylad"
+      "notes": "Inc · Edirol R-07 · Welshylad"
     },
     {
       "year": 2024,
@@ -9773,7 +9773,7 @@ const ARTIST_DATA = {
       "venue": "Royal Albert Hall - Teenage Cancer Trust",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Olympus Ls-p5 \u00b7 Birchy"
+      "notes": "Olympus Ls-p5 · Birchy"
     },
     {
       "year": 2017,
@@ -10033,7 +10033,7 @@ const ARTIST_DATA = {
       "venue": "Royal Albert Hall - Teenage Cancer Trust",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Nokia Lumia 830 \u00b7 Birchy"
+      "notes": "Nokia Lumia 830 · Birchy"
     },
     {
       "year": 2022,
@@ -10046,7 +10046,7 @@ const ARTIST_DATA = {
       "venue": "Alexandra Place - Later With Jools Holland",
       "version": "TV",
       "format": "FLAC",
-      "notes": "Ngl Digital Box \u00b7 Johnky"
+      "notes": "Ngl Digital Box · Johnky"
     },
     {
       "year": 2022,
@@ -10072,7 +10072,7 @@ const ARTIST_DATA = {
       "venue": "Knebworth House",
       "version": "FM",
       "format": "FLAC",
-      "notes": "whatever \u00b7 Oui Fm"
+      "notes": "whatever · Oui Fm"
     },
     {
       "year": 2022,
@@ -10137,7 +10137,7 @@ const ARTIST_DATA = {
       "venue": "Kilmainham Hospital",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Johnky \u00b7 Petrock2000 Remaster"
+      "notes": "Johnky · Petrock2000 Remaster"
     },
     {
       "year": 2023,
@@ -10150,7 +10150,7 @@ const ARTIST_DATA = {
       "venue": "Rock Werchter",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Toshi"
+      "notes": "SP-CMC-8 · Toshi"
     },
     {
       "year": 2023,
@@ -10163,7 +10163,7 @@ const ARTIST_DATA = {
       "venue": "Ippodromo Snai La Maura - WAV(M)",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sennheiser Mm-hlsc-2 \u00b7 Alberto"
+      "notes": "Sennheiser Mm-hlsc-2 · Alberto"
     },
     {
       "year": 2023,
@@ -10189,7 +10189,7 @@ const ARTIST_DATA = {
       "venue": "Civic Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Pete Remaster \u00b7 Olympus Ls-p1 \u00b7 Welshylad"
+      "notes": "Pete Remaster · Olympus Ls-p1 · Welshylad"
     },
     {
       "year": 2024,
@@ -10202,7 +10202,7 @@ const ARTIST_DATA = {
       "venue": "Utilita Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Olympus Ls-p1 \u00b7 Unknown"
+      "notes": "Olympus Ls-p1 · Unknown"
     },
     {
       "year": 2024,
@@ -10228,7 +10228,7 @@ const ARTIST_DATA = {
       "venue": "Utilita Arena Cardiff",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Unknown"
+      "notes": "SP-CMC-8 · Unknown"
     },
     {
       "year": 2024,
@@ -10241,7 +10241,7 @@ const ARTIST_DATA = {
       "venue": "02 Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Olympus Ls-p1 \u00b7 Welshylad"
+      "notes": "Olympus Ls-p1 · Welshylad"
     },
     {
       "year": 2024,
@@ -10264,87 +10264,31 @@ const ARTIST_DATA = {
       "format": "FLAC"
     },
     {
-      "type": "show",
-      "dateStr": "XX-XX-1992",
-      "year": 1992,
-      "month": null,
-      "day": null,
-      "city": "First Demo Tape",
-      "state": "",
-      "location": "First Demo Tape",
-      "venue": "",
-      "notes": "",
-      "version": "",
-      "format": ""
+      "type": "label",
+      "label": "XX-XX-1992 / First Demo Tape"
     },
     {
-      "type": "show",
-      "dateStr": "XX-XX-1993",
-      "year": 1993,
-      "month": null,
-      "day": null,
-      "city": "Definitely Maybe Demos (MickDude)",
-      "state": "",
-      "location": "Definitely Maybe Demos (MickDude)",
-      "venue": "",
-      "notes": "",
-      "version": "",
+      "type": "label",
+      "label": "XX-XX-1993 / Definitely Maybe Demos (MickDude)",
       "format": "FLAC"
     },
     {
-      "type": "show",
-      "dateStr": "XX-XX-1993",
-      "year": 1993,
-      "month": null,
-      "day": null,
-      "city": "Liverpool",
-      "state": "England",
-      "location": "Liverpool, England",
-      "venue": "Real People Studios",
-      "notes": "Demos",
-      "version": "",
+      "type": "label",
+      "label": "XX-XX-1993 / Liverpool, England / Real People Studios (Demos)",
       "format": "FLAC"
     },
     {
-      "type": "show",
-      "dateStr": "7-XX-1993",
-      "year": 1993,
-      "month": 7,
-      "day": null,
-      "city": "Live Forever Demo (Creation for the Nation) Promo",
-      "state": "",
-      "location": "Live Forever Demo (Creation for the Nation) Promo",
-      "venue": "",
-      "notes": "",
-      "version": "Silver CD",
+      "type": "label",
+      "label": "7-XX-1993 / Live Forever Demo (Creation for the Nation) Promo"
+    },
+    {
+      "type": "label",
+      "label": "XX-XX-1993 / Whatever Demos",
       "format": "FLAC"
     },
     {
-      "type": "show",
-      "dateStr": "XX-XX-1993",
-      "year": 1993,
-      "month": null,
-      "day": null,
-      "city": "Whatever Demos",
-      "state": "",
-      "location": "Whatever Demos",
-      "venue": "",
-      "notes": "",
-      "version": "",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "XX-XX-1993",
-      "year": 1993,
-      "month": null,
-      "day": null,
-      "city": "Whatever Demos (MickDude Remaster)",
-      "state": "",
-      "location": "Whatever Demos (MickDude Remaster)",
-      "venue": "",
-      "notes": "",
-      "version": "",
+      "type": "label",
+      "label": "XX-XX-1993 / Whatever Demos (MickDude Remaster)",
       "format": "FLAC"
     },
     {
@@ -10499,313 +10443,6 @@ const ARTIST_DATA = {
       "type": "label",
       "label": "Oasis - Heathen Demostry (2002)",
       "format": "MP3"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL RELEASES]"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - Definitely Maybe (1994) (2014 Remastered Deluxe) (24bit)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - What's the Story Morning Glory (1995) (Deluxe_Edition 2014) (24bit) [FLAC HD]",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - The Second Summer Of Love (Limited Edition)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - Stop The Clocks (2006) (EICP 685~6)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - Time Flies... 1994-2009 (2010) (SICP 2760~3)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - Supersonic (2016)",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - Be Here Now (Remastered) (2016) (24bit)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "[SINGLES]"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - Box Set - Complete Single Collection 94-05 (EICP 700~724) (2006)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 700 - Supersonic",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 701 - Shakermaker",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 702 - Live Forever",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 703 - Cigarettes & Alcohol",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 704 - Whatever",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 705 - Some Might Say",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 706 - Roll With It",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 707 - Morning Glory",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 708 - Wonderwall",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 709 - Don't Look Back In Anger",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 710 - Champagne Supernova",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 711 - D'You Know What I Mean",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 712 - Stand By Me",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 713 - All Around The World",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 714 - Don't Go Away",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 715 - Go Let It Out!",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 716 - Who Feels Love",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 717 - Sunday Morning Call",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 718 - The Hindu Times",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 719 - Stop Crying Your Heart Out",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 720 - Little By Little - She Is Love",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 721 - Songbird",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 722 - Lyla",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 723 - The Importance Of Being Idle",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "EICP 724 - Let There Be Love",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - Don't Stop... (Demo) (2020) (Single)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[2025 TOUR ARCHIVE]"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-07-04 - Live Cardiff - 1st Night - The Great Wait is Over {Uxbridge 2551}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-07-04 - Live Cardiff - 16 Years Gone {EVSD-2178.2179}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-07-04,05 - Live Cardiff - The Great Wait is Over {Shakuntala, STCD 268.269.270.271}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-07-05 - Live Cardiff - Sixteen Years On [EVSD-2183.2184]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-07-11 - Live Manchester - This Is The Place {Shakuntala STCD 272-273}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-07-16 - Live Manchester - Definitive Heaton Park - 3rd Night Restored Edition {Wardour-684}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-07-16 - Live Manchester - Stand By Manchester {EVSD-2183 2184}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-07-20 - Live Manchester - Definitive Heaton Park 2025 - Final Night Manchester Vibes in the Area {Wardour-685}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-07-20 - Live Manchester - Manchester Final {EVSD}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-07-25 - Live Wembley Stadium - 250,000 Pints Can't Be Wrong {Wardour-689}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-07-25 - Live Wembley Stadium - The Stars Have Aligned {Shakuntala STCD-276.277}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-07-25 - Live Wembley Stadium - Wembley Awakening {EVSD}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-07-26 - Live Wembley Stadium {Petrock2000 Remaster mexico2418}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-07-30 - Live Wembley Stadium - 3rd Night Historical Recording at Wembley {Wardour-686}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-08-02 - Live Wembley Stadium - Wembley Nights Forever {Icebreath Remaster}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-08-02 - LIve Wembley Stadium - Wembley Nights Forever + Wardour {Icebreath Matrix}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-08-03 - Live Wembley Stadium - Definitive Wembley Stadium - Final Night {Wardour-688}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-08-03 - Live Wembley Stadium - Wembley Nights Forever {Bennyboy Matrix Remaster EVSD}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-08-08 - Edinburgh 2025 - First Night {Uxbridge}",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-08-09 - Live Edinburgh - Murrayfield Stadium {The Lost History Channel}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-08-12 - Live Edinburgh - Murrayfield Stadium {Highland Supersonic EVSD}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-08-17 - Live Dublin - Croke Park {Sabrewulf}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-08-31 - Live East Rutherford - How The West Was Ours {Wardour-691}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-09-06 - Live Los Angeles - One Word Review Fabulous {Shakuntula 279-280}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Oasis - 2025-09-06,07 - Definitive Rose Bowl September 2025 - Cool Britannia In the U.S.A {Wardour-694}",
-      "format": "FLAC"
     }
   ]
 };

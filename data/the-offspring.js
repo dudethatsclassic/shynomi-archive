@@ -332,7 +332,7 @@ const ARTIST_DATA = {
       "venue": "Harro East Ballroom",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Mh"
+      "notes": "CSB · Mh"
     },
     {
       "year": 1997,
@@ -384,7 +384,7 @@ const ARTIST_DATA = {
       "venue": "Joint",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSC \u00b7 Gc"
+      "notes": "CSC · Gc"
     },
     {
       "year": 1999,
@@ -410,7 +410,7 @@ const ARTIST_DATA = {
       "venue": "Star Lake Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps CCM4 \u00b7 Mw"
+      "notes": "Schoeps CCM4 · Mw"
     },
     {
       "year": 1999,
@@ -462,7 +462,7 @@ const ARTIST_DATA = {
       "venue": "Reading Festival - Main Stage - Reading Festival",
       "version": "AUD #1",
       "format": "FLAC",
-      "notes": "CSB \u00b7 gary watson"
+      "notes": "CSB · gary watson"
     },
     {
       "year": 1999,
@@ -514,7 +514,7 @@ const ARTIST_DATA = {
       "venue": "Mellon Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ss Dsm \u00b7 Steve K."
+      "notes": "Ss Dsm · Steve K."
     },
     {
       "year": 2001,
@@ -527,7 +527,7 @@ const ARTIST_DATA = {
       "venue": "Wembley Arena",
       "version": "TV",
       "format": "FLAC",
-      "notes": "Much Much Music Broadcast \u00b7 Leifh"
+      "notes": "Much Much Music Broadcast · Leifh"
     },
     {
       "year": 2001,
@@ -540,7 +540,7 @@ const ARTIST_DATA = {
       "venue": "Patinoire De Meriadeck",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Mz-nh700 \u00b7 Trekk"
+      "notes": "Mz-nh700 · Trekk"
     },
     {
       "year": 2001,
@@ -592,7 +592,7 @@ const ARTIST_DATA = {
       "venue": "Zepp",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sp-mic \u00b7 Tom & Mickey"
+      "notes": "Sp-mic · Tom & Mickey"
     },
     {
       "year": 2008,
@@ -631,7 +631,7 @@ const ARTIST_DATA = {
       "venue": "Olympiyskiy Sports Complex",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT943 \u00b7 Rocktrades"
+      "notes": "AT943 · Rocktrades"
     },
     {
       "year": 2009,
@@ -644,7 +644,7 @@ const ARTIST_DATA = {
       "venue": "Uptown Amphitheatre NC Music Factory *Live from the VIP Box",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 Univonc"
+      "notes": "DPA 4061 · Univonc"
     },
     {
       "year": 2009,
@@ -657,7 +657,7 @@ const ARTIST_DATA = {
       "venue": "2 Days a Week Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 Unknown"
+      "notes": "SP-CMC-4U · Unknown"
     },
     {
       "year": 2011,
@@ -670,7 +670,7 @@ const ARTIST_DATA = {
       "venue": "Arenes de Nimes",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ms-tfb-2 \u00b7 Sp@ceh"
+      "notes": "Ms-tfb-2 · Sp@ceh"
     },
     {
       "year": 2012,
@@ -683,7 +683,7 @@ const ARTIST_DATA = {
       "venue": "Zeppelinfeld",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H2 \u00b7 Morle1909"
+      "notes": "Zoom H2 · Morle1909"
     },
     {
       "year": 2012,
@@ -696,7 +696,7 @@ const ARTIST_DATA = {
       "venue": "Casino Ballroom",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Church Audio B-99A \u00b7 Unknown"
+      "notes": "Church Audio B-99A · Unknown"
     },
     {
       "year": 2012,
@@ -709,7 +709,7 @@ const ARTIST_DATA = {
       "venue": "Congress Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-14 \u00b7 Discopij"
+      "notes": "Ca-14 · Discopij"
     },
     {
       "year": 2013,
@@ -748,7 +748,7 @@ const ARTIST_DATA = {
       "venue": "Pier Six Concert Pavilion - Punk Rock Summer Nationals 2014 Tour",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-14s \u00b7 Mistacabbage"
+      "notes": "Ca-14s · Mistacabbage"
     },
     {
       "year": 2015,
@@ -761,7 +761,7 @@ const ARTIST_DATA = {
       "venue": "Amos Southend",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "IEM \u00b7 Univonc"
+      "notes": "IEM · Univonc"
     },
     {
       "year": 2015,
@@ -774,7 +774,7 @@ const ARTIST_DATA = {
       "venue": "Grona Lund Amusement Park",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "M \u00b7 AT-943 \u00b7 Trekytt"
+      "notes": "M · AT-943 · Trekytt"
     },
     {
       "year": 2016,
@@ -787,7 +787,7 @@ const ARTIST_DATA = {
       "venue": "Hellfest 2016 @ Main Stage 2",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sp-spsb-11 \u00b7 Barghest"
+      "notes": "Sp-spsb-11 · Barghest"
     },
     {
       "year": 2016,
@@ -800,7 +800,7 @@ const ARTIST_DATA = {
       "venue": "Theatre de Fourviere",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "Iem 1-3 \u00b7 J&a"
+      "notes": "Iem 1-3 · J&a"
     },
     {
       "year": 2016,
@@ -813,7 +813,7 @@ const ARTIST_DATA = {
       "venue": "Alaska Airlines Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ss Dsm-6p \u00b7 Unknown"
+      "notes": "Ss Dsm-6p · Unknown"
     },
     {
       "year": 2017,
@@ -826,7 +826,7 @@ const ARTIST_DATA = {
       "venue": "MAPFRE Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060 \u00b7 Live2cd"
+      "notes": "DPA 4060 · Live2cd"
     },
     {
       "year": 2017,
@@ -839,7 +839,7 @@ const ARTIST_DATA = {
       "venue": "MAPFRE Stadium *Rock On the Range",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-14 \u00b7 Tripkore"
+      "notes": "Ca-14 · Tripkore"
     },
     {
       "year": 2017,
@@ -852,7 +852,7 @@ const ARTIST_DATA = {
       "venue": "Abbotsford Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11 \u00b7 Leifh"
+      "notes": "Ca-11 · Leifh"
     },
     {
       "year": 2017,
@@ -865,7 +865,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Casino Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11 \u00b7 Unknown"
+      "notes": "Ca-11 · Unknown"
     },
     {
       "year": 2017,
@@ -891,7 +891,7 @@ const ARTIST_DATA = {
       "venue": "The Observatory",
       "version": "AUD",
       "format": "DVD",
-      "notes": "Panasonic Lumix Dmc Zs50 \u00b7 Hellrazor"
+      "notes": "Panasonic Lumix Dmc Zs50 · Hellrazor"
     },
     {
       "year": 2018,
@@ -917,7 +917,7 @@ const ARTIST_DATA = {
       "venue": "Grona Lund Amusement Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-14 \u00b7 Losslessjoel"
+      "notes": "Ca-14 · Losslessjoel"
     },
     {
       "year": 2018,
@@ -930,7 +930,7 @@ const ARTIST_DATA = {
       "venue": "Bank of New Hampshire Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Edirol R-09 \u00b7 Ec666"
+      "notes": "Edirol R-09 · Ec666"
     },
     {
       "year": 2019,
@@ -943,7 +943,7 @@ const ARTIST_DATA = {
       "venue": "Ace of Spades",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Acoustic \u00b7 Tascam Dr-05 \u00b7 Thejackal"
+      "notes": "Acoustic · Tascam Dr-05 · Thejackal"
     },
     {
       "year": 2019,
@@ -956,7 +956,7 @@ const ARTIST_DATA = {
       "venue": "Northlands Park Parking Lot",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom Iq5 \u00b7 Exvee"
+      "notes": "Zoom Iq5 · Exvee"
     },
     {
       "year": 2019,
@@ -969,7 +969,7 @@ const ARTIST_DATA = {
       "venue": "Festival Vilar de Mouros",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Roland R-05 \u00b7 Circle"
+      "notes": "Roland R-05 · Circle"
     },
     {
       "year": 2019,
@@ -982,7 +982,7 @@ const ARTIST_DATA = {
       "venue": "Meridian Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-14s \u00b7 Binko"
+      "notes": "Ca-14s · Binko"
     },
     {
       "year": 2021,
@@ -995,7 +995,7 @@ const ARTIST_DATA = {
       "venue": "Discovery Park - Aftershock Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853s \u00b7 Tj"
+      "notes": "AT853s · Tj"
     },
     {
       "year": 2021,
@@ -1008,7 +1008,7 @@ const ARTIST_DATA = {
       "venue": "Welcome to Rockville Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Porcelmc"
+      "notes": "SP-CMC-8 · Porcelmc"
     },
     {
       "year": 2022,
@@ -1060,7 +1060,7 @@ const ARTIST_DATA = {
       "venue": "Shaw Millennium Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Core Sound Stealthy Cardioid \u00b7 Sharon"
+      "notes": "Core Sound Stealthy Cardioid · Sharon"
     },
     {
       "year": 2022,
@@ -1073,7 +1073,7 @@ const ARTIST_DATA = {
       "venue": "Hard Rock Live",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "Multiple Iems \u00b7 Hoserama"
+      "notes": "Multiple Iems · Hoserama"
     },
     {
       "year": 2022,
@@ -1086,7 +1086,7 @@ const ARTIST_DATA = {
       "venue": "Ambleside Park",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "Iem+ca-11 \u00b7 Leifh"
+      "notes": "Iem+ca-11 · Leifh"
     },
     {
       "year": 2022,
@@ -1112,7 +1112,7 @@ const ARTIST_DATA = {
       "venue": "Arena Nova",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Edirol R-05 \u00b7 Papy52"
+      "notes": "Edirol R-05 · Papy52"
     },
     {
       "year": 2023,
@@ -1125,7 +1125,7 @@ const ARTIST_DATA = {
       "venue": "FivePoint Amphitheatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 Faninor"
+      "notes": "DPA 4081 · Faninor"
     },
     {
       "year": 2024,
@@ -1138,7 +1138,7 @@ const ARTIST_DATA = {
       "venue": "Fremont Street Experience",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853 \u00b7 Unknown"
+      "notes": "AT853 · Unknown"
     },
     {
       "year": 2024,
@@ -1151,7 +1151,7 @@ const ARTIST_DATA = {
       "venue": "Parque Bicentenario de Cerrillos - Lollapalooza",
       "version": "FM",
       "format": "FLAC",
-      "notes": "zatanax \u00b7 Sansa Clip+"
+      "notes": "zatanax · Sansa Clip+"
     },
     {
       "year": 2024,
@@ -1190,7 +1190,7 @@ const ARTIST_DATA = {
       "venue": "Avondale Brewing Company",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK21 \u00b7 Jesse Mc"
+      "notes": "Schoeps MK21 · Jesse Mc"
     },
     {
       "year": 2024,
@@ -1203,7 +1203,7 @@ const ARTIST_DATA = {
       "venue": "Napa Valley Expo - Bottlerock",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 Fried_morals"
+      "notes": "SP-CMC-8 · Fried_morals"
     },
     {
       "year": 2024,
@@ -1216,7 +1216,7 @@ const ARTIST_DATA = {
       "venue": "Napa Valley Expo",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK4s \u00b7 Tj"
+      "notes": "Schoeps MK4s · Tj"
     },
     {
       "year": 2024,
@@ -1229,7 +1229,7 @@ const ARTIST_DATA = {
       "venue": "Honda Center",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 Faninor"
+      "notes": "DPA 4081 · Faninor"
     },
     {
       "year": 2024,
@@ -1268,7 +1268,7 @@ const ARTIST_DATA = {
       "venue": "Lebreton Flats",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Iphone 11 \u00b7 Palm0014"
+      "notes": "Iphone 11 · Palm0014"
     },
     {
       "year": 2024,
@@ -1294,7 +1294,7 @@ const ARTIST_DATA = {
       "venue": "Rock en Seine",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-14 \u00b7 Crazytoaster"
+      "notes": "Ca-14 · Crazytoaster"
     },
     {
       "year": 2025,
@@ -1307,7 +1307,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Bowl",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 Jwthstd"
+      "notes": "SP-CMC-4U · Jwthstd"
     },
     {
       "year": 2025,
@@ -1350,299 +1350,6 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "The Offspring - Raw & Down Under In 1995 (Live) {8717662588822} (1995)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL RELEASES]"
-    },
-    {
-      "type": "label",
-      "label": "1989 The Offspring (86460-2)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1989 The Offspring (EICP 11) Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1992 Ignition (6424-2)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1992 Ignition (ESCA 6144) Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1994 Smash (86432-2)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1994 Smash (ESCA 6075) Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1997 Ixnay On The Hombre (6487-2)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1997 Ixnay On The Hombre (ESCA 6570) Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1997 Club Me EP",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1998 Americana (CK 69661)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1998 Americana (ESCA 7393) Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2000 Conspiracy Of One (498481-2)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2000 Conspiracy Of One (ESCA 8247) Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2003 Splinter (512201-2)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2003 - Splinter (SICP 500) Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2005 Greatest Hits (COL 518746 2) [FLAC]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2008 Rise And Fall, Rage And Grace (88697-02908-2)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2008 - Rise And Fall, Rage And Grace (SICP 2049) Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2008 - Rise And Fall, Rage And Grace (SICP-1578~9) Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2010 Happy Hour!",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2010 Happy Hour! (SICP 2727) Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2012 Days Go By (88697-64763-2)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2012 Days Go By (SICP 3500) Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2014 Summer Nationals EP",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2021 Let The Bad Times Roll (2021) (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "2021 Let The Bad Times Roll (2021) (Japan Edition)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[SINGLES]"
-    },
-    {
-      "type": "label",
-      "label": "1994 Come Out And Play",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1994 Self Esteem",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1995 Gotta Get Away",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1997 All I Want {664077 2}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1997 All I Want {CSK 9315}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1997 Gone Away {6498-2}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1997 Gone Away {664338-2}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1997 The Meaning of Life {JPN ESCA 6817}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1998 Pretty Fly (For A White Guy) (Australia)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1998 Pretty Fly (For A White Guy) (USA)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1999 She's Got Issues {667867 2}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1999 She's Got Issues {668377 2}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1999 Why Don't You Get A Job {ESCA 8020} Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1999 The Kids Aren't Alright",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1999 Why Don't You Get A Job",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1999 Why Don't You Get A Job {ESCA 8020} Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2000 Original Prankster",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2000 Original Prankster {ESCA 8241} Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2000 Totalimmortal",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2001 Defy You",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2001 Million Miles Away {6712012}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2001 Million Miles Away {6713632}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2001 Want You Bad",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2001 Want You Bad {ESCA 8280} Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2003 Hit That",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2004 (Can't Get My) Head Around You {SICP 604} Japan",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2004 Can't Get My Head Around You",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2005 Can't Repeat",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2008 Hammerhead",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2008 You're Gonna Go Far, Kid",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2015 Coming For You",
       "format": "FLAC"
     }
   ]

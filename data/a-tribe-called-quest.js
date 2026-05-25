@@ -25,7 +25,7 @@ const ARTIST_DATA = {
       "venue": "The Palace - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "notes": "M · Unknown"
     },
     {
       "year": 1992,
@@ -51,7 +51,7 @@ const ARTIST_DATA = {
       "venue": "Golden Gate Park - Tibetan Freedom Concert",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "notes": "unk · neekrive"
     },
     {
       "year": 1996,
@@ -64,7 +64,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "notes": "unk · neekrive"
     },
     {
       "year": 1998,
@@ -134,40 +134,6 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "A Tribe Called Quest - The Lost Tribes {AT5417} (2006)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[SINGLES]"
-    },
-    {
-      "type": "label",
-      "label": "A Tribe Called Quest - Luck Of Lucien (CDS) {JIVE CD 317} (1992)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "A Tribe Called Quest - Hot Sex (CDS) {01241-42094-2} (1992)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "A Tribe Called Quest - Scenario (CDS) {UK JIVE CD 302} (1992)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "A Tribe Called Quest - Award Tour (CDS) {JDJ-42186-2} (1993)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "A Tribe Called Quest ?- Oh My God (CDS) {01241-42211-2} (1994)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "A Tribe Called Quest - Electric Relaxation (Relax Yourself Girl) (CDS) {01241-42197-2 } (1994)",
       "format": "FLAC"
     }
   ]

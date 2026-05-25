@@ -26,7 +26,7 @@ const ARTIST_DATA = {
       "venue": "Georges Club 20",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Curtis Knight W/ Jh \u00b7 Vinyl Transfer"
+      "notes": "Curtis Knight W/ Jh · Vinyl Transfer"
     },
     {
       "year": 1966,
@@ -65,7 +65,7 @@ const ARTIST_DATA = {
       "venue": "Area C, Lime Grove / BBC TV",
       "version": "TV",
       "format": "APE",
-      "notes": "Top Of The Pops \u00b7 Source 1"
+      "notes": "Top Of The Pops · Source 1"
     },
     {
       "year": 1966,
@@ -78,7 +78,7 @@ const ARTIST_DATA = {
       "venue": "Area C, Lime Grove / BBC TV",
       "version": "TV",
       "format": "FLAC",
-      "notes": "Top Of The Pops \u00b7 Source 2"
+      "notes": "Top Of The Pops · Source 2"
     },
     {
       "year": 1966,
@@ -91,7 +91,7 @@ const ARTIST_DATA = {
       "venue": "Area C, Lime Grove / BBC TV",
       "version": "TV",
       "format": "FLAC",
-      "notes": "Top Of The Pops \u00b7 Source 3 \u00b7 Pitch Corrected"
+      "notes": "Top Of The Pops · Source 3 · Pitch Corrected"
     },
     {
       "year": 1967,
@@ -130,7 +130,7 @@ const ARTIST_DATA = {
       "venue": "The Flamingo Club",
       "version": "MTX",
       "format": "FLAC",
-      "notes": "Fto 017 \u00b7 2 Source Mix - Low Gen Composite"
+      "notes": "Fto 017 · 2 Source Mix - Low Gen Composite"
     },
     {
       "year": 1967,
@@ -338,7 +338,7 @@ const ARTIST_DATA = {
       "venue": "Stadthalle *Beat Beat Beat",
       "version": "TV",
       "format": "FLAC",
-      "notes": "European Broadcast \u00b7 Goody Master"
+      "notes": "European Broadcast · Goody Master"
     },
     {
       "year": 1967,
@@ -390,7 +390,7 @@ const ARTIST_DATA = {
       "venue": "Grona Lund - DAT)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Master-reel(2 \u00b7 Krw_co"
+      "notes": "Master-reel(2 · Krw_co"
     },
     {
       "year": 1967,
@@ -663,7 +663,7 @@ const ARTIST_DATA = {
       "venue": "Winterland Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "early and late show \u00b7 Composite Of 3 Sources"
+      "notes": "early and late show · Composite Of 3 Sources"
     },
     {
       "year": 1968,
@@ -689,7 +689,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore Auditorium",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "oldnuemanntaper update \u00b7 2nd Show"
+      "notes": "oldnuemanntaper update · 2nd Show"
     },
     {
       "year": 1968,
@@ -715,7 +715,7 @@ const ARTIST_DATA = {
       "venue": "State Fair Music Hall *Way Down in Texas Land",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Disc 1 \u00b7 Unk Lineage"
+      "notes": "Disc 1 · Unk Lineage"
     },
     {
       "year": 1968,
@@ -780,7 +780,7 @@ const ARTIST_DATA = {
       "venue": "The Scene",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Master 1st Transfer \u00b7 Goody Speed/pitch Adjusted Remaster"
+      "notes": "Master 1st Transfer · Goody Speed/pitch Adjusted Remaster"
     },
     {
       "year": 1968,
@@ -793,7 +793,7 @@ const ARTIST_DATA = {
       "venue": "The Scene",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Master 2nd Transfer \u00b7 Goody Speed/pitch Adjusted Remaster"
+      "notes": "Master 2nd Transfer · Goody Speed/pitch Adjusted Remaster"
     },
     {
       "year": 1968,
@@ -806,7 +806,7 @@ const ARTIST_DATA = {
       "venue": "Hunter College - 1st gen",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Late show \u00b7 Speed Corrected"
+      "notes": "Late show · Speed Corrected"
     },
     {
       "year": 1968,
@@ -832,7 +832,7 @@ const ARTIST_DATA = {
       "venue": "Int'l Ballroom, Hinckley Hilton",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Early Show \u00b7 Master"
+      "notes": "Early Show · Master"
     },
     {
       "year": 1968,
@@ -884,7 +884,7 @@ const ARTIST_DATA = {
       "venue": "Public Music Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "2nd Show \u00b7 Chris Dixon Series"
+      "notes": "2nd Show · Chris Dixon Series"
     },
     {
       "year": 1968,
@@ -962,7 +962,7 @@ const ARTIST_DATA = {
       "venue": "The Record Plant - The Voodoo Chile Sessions",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Master \u00b7 Eddie Kramer"
+      "notes": "Master · Eddie Kramer"
     },
     {
       "year": 1968,
@@ -975,7 +975,7 @@ const ARTIST_DATA = {
       "venue": "Fillmore East",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "ATM 093 \u00b7 2nd Show"
+      "notes": "ATM 093 · 2nd Show"
     },
     {
       "year": 1968,
@@ -988,7 +988,7 @@ const ARTIST_DATA = {
       "venue": "Fillmore East *Thank You and I Just Blew Another Amp!",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "2nd Show \u00b7 Speed Corrected"
+      "notes": "2nd Show · Speed Corrected"
     },
     {
       "year": 1968,
@@ -1014,7 +1014,7 @@ const ARTIST_DATA = {
       "venue": "Gulfstream Park Racetrack",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Miami Pop Festival \u00b7 Master"
+      "notes": "Miami Pop Festival · Master"
     },
     {
       "year": 1968,
@@ -1105,7 +1105,7 @@ const ARTIST_DATA = {
       "venue": "Hallenstadion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ATM 053 \u00b7 Fd Cleanup"
+      "notes": "ATM 053 · Fd Cleanup"
     },
     {
       "year": 1968,
@@ -1196,7 +1196,7 @@ const ARTIST_DATA = {
       "venue": "Col Ballroom *Davenport '68",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Lpmarkum7 Transfer \u00b7 Goody Remaster"
+      "notes": "Lpmarkum7 Transfer · Goody Remaster"
     },
     {
       "year": 1968,
@@ -1235,7 +1235,7 @@ const ARTIST_DATA = {
       "venue": "Flushing Meadows Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ATM 233 \u00b7 New York Rock Festival - Singer Bowl"
+      "notes": "ATM 233 · New York Rock Festival - Singer Bowl"
     },
     {
       "year": 1968,
@@ -1248,7 +1248,7 @@ const ARTIST_DATA = {
       "venue": "Flushing Meadows Park",
       "version": "AUD (48k)",
       "format": "FLAC",
-      "notes": "New York Rock Festival - Singer Bowl \u00b7 Stern-bong \u00b7 Amalie R."
+      "notes": "New York Rock Festival - Singer Bowl · Stern-bong · Amalie R."
     },
     {
       "year": 1968,
@@ -1261,7 +1261,7 @@ const ARTIST_DATA = {
       "venue": "Flushing Meadows Park",
       "version": "AUD",
       "format": "DVD",
-      "notes": "New York Rock Festival - Singer Bowl \u00b7 Stern-bong \u00b7 Amalie R."
+      "notes": "New York Rock Festival - Singer Bowl · Stern-bong · Amalie R."
     },
     {
       "year": 1968,
@@ -1313,7 +1313,7 @@ const ARTIST_DATA = {
       "venue": "Pacific Coliseum",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Fd Cleanup \u00b7 Goody"
+      "notes": "Fd Cleanup · Goody"
     },
     {
       "year": 1968,
@@ -1365,7 +1365,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Bowl",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ATM 255 \u00b7 Fd Cleanup"
+      "notes": "ATM 255 · Fd Cleanup"
     },
     {
       "year": 1968,
@@ -1443,7 +1443,7 @@ const ARTIST_DATA = {
       "venue": "Winterland Arena",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Early & Late Show \u00b7 1st gen SBD"
+      "notes": "Early & Late Show · 1st gen SBD"
     },
     {
       "year": 1968,
@@ -1508,7 +1508,7 @@ const ARTIST_DATA = {
       "venue": "Boston Garden",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ATM 139 \u00b7 Fd Cleanup"
+      "notes": "ATM 139 · Fd Cleanup"
     },
     {
       "year": 1968,
@@ -1586,7 +1586,7 @@ const ARTIST_DATA = {
       "venue": "Cobo Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ATM 231-232 \u00b7 Fd Cleanup And Merge"
+      "notes": "ATM 231-232 · Fd Cleanup And Merge"
     },
     {
       "year": 1968,
@@ -1638,7 +1638,7 @@ const ARTIST_DATA = {
       "venue": "Lorensbergs Circkus",
       "version": "PRO",
       "format": "DVD",
-      "notes": "Gothenburg Resynced \u00b7 Clip"
+      "notes": "Gothenburg Resynced · Clip"
     },
     {
       "year": 1969,
@@ -1716,7 +1716,7 @@ const ARTIST_DATA = {
       "venue": "Halle Munsterland *Savage Beethoven & Electric Warrior",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "2nd Source \u00b7 Mix"
+      "notes": "2nd Source · Mix"
     },
     {
       "year": 1969,
@@ -1742,7 +1742,7 @@ const ARTIST_DATA = {
       "venue": "Meistersingerhalle",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1st Gen Reel Remaster \u00b7 Chris Dixon Series"
+      "notes": "1st Gen Reel Remaster · Chris Dixon Series"
     },
     {
       "year": 1969,
@@ -1937,7 +1937,7 @@ const ARTIST_DATA = {
       "venue": "Ellis Auditorium Amphitheatre - North Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "2nd Show \u00b7 Chris Dixon Series"
+      "notes": "2nd Show · Chris Dixon Series"
     },
     {
       "year": 1969,
@@ -2041,7 +2041,7 @@ const ARTIST_DATA = {
       "venue": "Civic Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ATM 125 \u00b7 1st Gen"
+      "notes": "ATM 125 · 1st Gen"
     },
     {
       "year": 1969,
@@ -2067,7 +2067,7 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Jpio Ii 014 \u00b7 3 Source Merge"
+      "notes": "Jpio Ii 014 · 3 Source Merge"
     },
     {
       "year": 1969,
@@ -2093,7 +2093,7 @@ const ARTIST_DATA = {
       "venue": "International Sports Arena",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Bob Yeager \u00b7 Fd Cleanup"
+      "notes": "Bob Yeager · Fd Cleanup"
     },
     {
       "year": 1969,
@@ -2106,7 +2106,7 @@ const ARTIST_DATA = {
       "venue": "Santa Clara County Fairgrounds - Northern CA Folk Festival *Do You Know the Way",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ATM 146 \u00b7 Fd Cleanup"
+      "notes": "ATM 146 · Fd Cleanup"
     },
     {
       "year": 1969,
@@ -2197,7 +2197,7 @@ const ARTIST_DATA = {
       "venue": "Newport Pop Festival *Newport Pop Festival",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Wt 2001023/24/25 \u00b7 Repaired Version"
+      "notes": "Wt 2001023/24/25 · Repaired Version"
     },
     {
       "year": 1969,
@@ -2236,7 +2236,7 @@ const ARTIST_DATA = {
       "venue": "Johnny Carson Tonight Show",
       "version": "TV",
       "format": "FLAC",
-      "notes": "Nbc Tv \u00b7 2008 Transfer"
+      "notes": "Nbc Tv · 2008 Transfer"
     },
     {
       "year": 1969,
@@ -2379,7 +2379,7 @@ const ARTIST_DATA = {
       "venue": "Fillmore East",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "New Year's Eve Late Show \u00b7 vibratory 3 source merge"
+      "notes": "New Year's Eve Late Show · vibratory 3 source merge"
     },
     {
       "year": 1970,
@@ -2405,7 +2405,7 @@ const ARTIST_DATA = {
       "venue": "Stora Scenen, Liseberg",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ATM 162-163 \u00b7 Hawkfan369"
+      "notes": "ATM 162-163 · Hawkfan369"
     },
     {
       "year": 1970,
@@ -2509,7 +2509,7 @@ const ARTIST_DATA = {
       "venue": "Milwaukee Auditorium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unk Gen \u00b7 Chris Dixon Series"
+      "notes": "Unk Gen · Chris Dixon Series"
     },
     {
       "year": 1970,
@@ -2561,7 +2561,7 @@ const ARTIST_DATA = {
       "venue": "University of OK",
       "version": "AUD",
       "format": "SHN",
-      "notes": "Late show \u00b7 Master Reels"
+      "notes": "Late show · Master Reels"
     },
     {
       "year": 1970,
@@ -2730,7 +2730,7 @@ const ARTIST_DATA = {
       "venue": "Boston Garden",
       "version": "AUD",
       "format": "FLAC24",
-      "notes": "Hezekiahx2 \u00b7 Krw_co Transfer"
+      "notes": "Hezekiahx2 · Krw_co Transfer"
     },
     {
       "year": 1970,
@@ -2821,7 +2821,7 @@ const ARTIST_DATA = {
       "venue": "Haleakala Volcano Crater - Maui Wowee",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Both Sets \u00b7 Bob Terry"
+      "notes": "Both Sets · Bob Terry"
     },
     {
       "year": 1970,
@@ -2990,7 +2990,7 @@ const ARTIST_DATA = {
       "venue": "B.B. King's - Jimi's 68th Birthday Tribute",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H4 \u00b7 Bob Pitlak"
+      "notes": "Zoom H4 · Bob Pitlak"
     }
   ],
   "misc": [
@@ -3011,17 +3011,8 @@ const ARTIST_DATA = {
       "format": "FLAC"
     },
     {
-      "type": "show",
-      "dateStr": "XX-XX-1967",
-      "year": 1967,
-      "month": null,
-      "day": null,
-      "city": "Out of the Studio - Demo's from '67",
-      "state": "",
-      "location": "Out of the Studio - Demo's from '67",
-      "venue": "",
-      "notes": "",
-      "version": "",
+      "type": "label",
+      "label": "XX-XX-1967 / Out of the Studio - Demo's from '67",
       "format": "FLAC"
     },
     {
@@ -3542,1455 +3533,6 @@ const ARTIST_DATA = {
       "label": "Jimi Hendrix - Zomby Blues - Bob Terry Tape #19",
       "version": "SBD",
       "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[DAGGER RECORDS]"
-    },
-    {
-      "type": "release",
-      "label": "01 Live at the Oakland Coliseum",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "02 Live at Clark University",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "03 Morning Symphony Ideas",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "04 Live in Ottawa",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "05 The Baggy's Rehearsal Sessions",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "06 Paris 1967 & San Francisco 1968",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "07 Hear my Music",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "08 Isle Of Fehmarn",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "09 Burning Desire",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "10 Live In Paris & Ottawa 1968",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "11 Live At Woburn",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[SILVERS]"
-    },
-    {
-      "type": "release",
-      "label": "Jimi Hendrix & the Band of Gypsies - 2 Nights at the Fillmore East (6CD)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Jimi Hendrix - Woodstock Project (2014)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Jimi Hendrix - Valleys of Neptune (4CD)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Jimi Hendrix - Truth And Emotion",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Jimi Hendrix & Traffic - A Session {OH BOY 1-9027} (1990)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Jimi Hendrix - Silver Blue to Bloody Red Vol. 1&2",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Multi-Coloured Blues (The Unreleased Sessions)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Mixdown Masters (Various Studio Jams & Outtakes) Vol 1-4",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Jewel Box",
-      "version": "Silver CD",
-      "format": "SHN"
-    },
-    {
-      "type": "release",
-      "label": "The Jimi Hendrix Experience - Naked Ladyland - Studio Sessions 1967-1968 (6CD)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Jimi Hendrix - Get The Experience (IU-9421-1)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Jimi Hendrix - 1969 - The L.A. Forum Concert (Radioactive)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Moonbeam Fairytales: Jimi Saga 2 (1966-1967) 22CD Box set",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Diamonds in the Dust (2CD)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Earth Tones",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Electric Ladyland Revisisted",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Everyway to Paradise (4CD)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Jimi Hendrix - Fire (TSP-CD-018)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Infinity Beach - Deep Blue (DBCD127)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Hendrix in Scandinavia (Voodoo Chile Records) 12CD set",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Cherokee Mist",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Jimi Hendrix - Berkeley Rehearsals",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Black Gold (5CD) Compilation",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Jimi Hendrix - Are You Experienced (2009) (Deluxe Edition) (needledrop)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Jimi Hendrix - Axis: Bold as Love (2009) (Deluxe Edition) (needledrop)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "500,000 Halos",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Astro Man Box Set (6CD)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Am I Blue",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Jimi Hendrix - Jimi Hendrix {LTD-24} (1993)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Jimi Hendrix - On The Killing Floor {TSP-CD-012-2} (1989)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Jimi Hendrix - Jimi A Musical Legacy {KTS BZ 010} (1995)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[ORIGINAL VINYL TRANSFERS]"
-    },
-    {
-      "type": "label",
-      "label": "OVT001 - Last British Concert",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT002 - Last American Concert",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT003 - Sky High!",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT004 - Smashing Amps",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT005 - Incident At Rainbow Bridge",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT006 - Live At Philharmonic Hall",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT007 - Unknown Wellknown",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT008 - Guitar Hero",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT009 - Can You Please Crawl Out Your Window",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT010 - You Can't Use My Name",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT011 - Davenport, Iowa '68",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT012 - Paris '67",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT013 - Electric Birthday Jimi",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT014 - First Rays Of The Rising Sun",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT015 - Hell's Session",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT016 - Fuckin' His Guitar For Denmark",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT017 - Two Sides Of The Same Genius",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT018 - Live At The Olympia Theatre, Paris",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT019 - Loaded Guitar",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "OVT020 - Unforgettable Experience",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[ARCHIVED TRADERS MATERIALS)"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 000) General Info",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 001) The Band of Gypsys Rehearsals",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 002) The Electric Lady Mixing Sessions",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 003) The Woodstock Rehearsals",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 004) Live in Milwaukee",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 005) To the Highest Bidder - Sotheby's Plus",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 006) LA Without the Words",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 007-008) Villanova Junction",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 009) Band of Gypsys Lonely Avenue",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 010) New York Pop '70",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 011-016) Three Nights of Winter(with alt version)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 017) Soundboard Series Vol.2",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 018-019) Bridge To Haleakala aka The Maui Concerts",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 020-022) Watchout for the Fuzz",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 023-024) Music of the Spheres ... Voices of the World",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 025-026) Down Here on the Farm",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 027) In the Land of the Midnight Sun",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 028-029) Stockholm 31.08.70 aka Guitar In The Garden",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 030) Praying at the Temple",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 031) Soundboard Series 1 aka Hamburg-Stockholm-Miami",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 032-033-034) Earth Vs. Space - The Newport Legacy",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 035) Apartment Jams",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 036) Short Stories",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 037) Hollywood Bowl aka Hollywood Nights",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 038 Rev A) 1968-04-02  Paul Sauve Arena, Montreal",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 039) Hunter - Hilton",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 040) Auf Wiedersehen",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 041) San Diego '69 aka Six Strings In San Diego",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 042-043) - For the Goddess of Asg?rd",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 044) Drinking Wine, Sipping Time",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 045) Sessions Vol. 1",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 046-047) 1969-04-26 Los Angeles 1969, The Forum",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 048-049) LA Forum '70",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 050-051) The Rubber Dubber Bootleg",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 052) Cherokee Nation",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 053) Beat Monster Concert",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 054) Blue Window - March-May 1969",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 055) Message from Nine To The Universe Vol.1",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 056) Message From Nine To The Universe Vol.2",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 057-058) The KPFA Tapes",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 059) Storming the Capitol",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 059) Superconcert - Ottawa, ON Canada",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 060) All the way from Memphis",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 061) Indianapolis '69",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 062) Boston Garden 1970",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 063-064) On the Road (To Electric Ladyland) - aka Driving South",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 065) Boo in Key",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 066-071) Box Of Gypsys",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 072-073) Healing Power",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 074) 68-03-26 Cleveland Rocks",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 075-083) Band Of Gypsys - 30th Anniversary",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 084-085) 1970-09-03 KB Hallen, Copenhagen",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 086-090) - Unsurpassed Masters",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 091) - In Glorious Mono",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 092) - Fall 1969 Record Plant Jams [aka. Woodstock]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 093) - Bill Graham Presents",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 094) Summertime Blues",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 095) Fuck Off These Are My Friends",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 096) From the Beginning to the Start",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 097) - 2 Giants Over Paris",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 098-099) - For the Queen",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 100) - Winterland 10 October 1968",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 101-102) - Curtis Knight & The Squires - The Complete Recordings I",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 103-104) - Curtis Knight & The Squires - The Complete Recordings 2",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 105) Live In Philadelphia Disc 1",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 106) Live In Philadelphia Disc 2",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 107) - 1968.2.16. Dallas. Way down in texas land",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 108) - 1968.2.17. Fort Worth. Way down in texas land",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 109-112) - Jimi Hendrix - Maximum Experience - flac",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 113) Newport Revisited",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 114) - 1970.07.04 - Atlanta - The Atlanta Reel - flac",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 115-116) - 1969.02.18 - London - Royal Albert Hall - First Night",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 117) - Baltimore 1970",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 118) Denver Pop",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 119-120) - Soulful Sessions",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 121) Chicago 2-25-68, 8-10-1968",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 122) Chicago 12-1-68",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 123-124) - Jimi Hendrix - The Berkeley Concerts - 1970.05.30",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 125) - Civic Center, Baltimore MD",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 126-127) - Way Down in Texas Land II (Slight Return)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 128-129) Germany '70",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 130-131) The Forum 1970 - Stereo",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 132-135) - Unpublished",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 136) Je Vous Aime Beaucoup",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 137-138) - 1968.02.03 - San Francisco - Winterland - All Sources",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 139-140) New England Patriot",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 141-142) Madison Blues",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 143) Tomorrow We'll Do Our Last Gig In The States",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 144) - Lookin' For Trouble",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 145) By Divine Providence",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 146) - Do You Know The Way",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 147-151) - Jimi In Germany",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 152-157) - (1967-1970) Kick Out The Jams",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 158-160) Axis Bold as Love - The Sessions",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 161) - 1970.06.13 - Baltimore - Civic Center - Source 3",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 162-163) - 1970.09.01 - Gothenburg - Stora Scenen - Liseberg",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 164-165) - Palasport di Bologna 1968-05-26",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 166) - Can't Believe Everything You See And Hear",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 167) - Portland '68",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 168-169) - Way Down in Texas Land Vol.3",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 170-171) - Madison Square Garden '69",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 172) - Jimi Hendrix & The Isley Brothers - In the Beginning",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 173-174) - Atlanta + Space aka Atlanta International Pop Festival",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 175-176) - In the Eye of the Storm",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 177-178 REV A) - In The West (Raw + speed corrected)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 179) - Cologne 13.01.69 - 2nd Source",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 180-183) TTG Studios October 1968 - aka At TTG Studios",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 184 REV A) - Winterland 03.02.68 - Composite",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 185-186 Rev A) - Jimmy James - (1964-1969) Singles Collection",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 187-191) - Hendrix For Everyone",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 192) - Norman, Is That You Norman",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 193-194) - At His Best",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 195) Tulsa",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 196-198) Philharmonic Hall - All Sources",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 199) - Winterland-11-10-68 2nd Source",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 200) - Winterland-11-10-68 2nd Source",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 201)- Berkeley, CA 30.05.70_ 2nd Show - 2nd Audience Source",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 202) - Winterland 11.10.68 [aka. Winterland Old Source]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 203) - Winterland 11.10.68 [aka. Winterland Old Source]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 204) - Winterland 11.10.68 - 1st Show Composite",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 205-206) Band of Gypsys Rehearsals",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 207) - Denver Pop Festival 29.06.69 - 1st Generation Transfer",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 208-213) The Winterland Reels",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 214-215) Old Time",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 216) - Band of Gypsys Unleashed in the East",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 217) - Band of Gypsys Unleashed in the East",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 218) - Band of Gypsys Goodbye to '69",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 219) - Band of Gypsys Goodbye to '69",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 220) - Royal Albert Hall Rehearsals",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 221-223) - Jammin Back At the House-Shokan - alternate",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 224-225) Electric Ladyland - Sessions June-August 1968",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 226) - Seattle 1970",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 227) - Experience",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 228) - Experience",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 229) - Swedish Castle Magic",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 230) - Honolulu '69",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 231-232) Detroit Rock City",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 233) - Singer Bowl 1968",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 234-235) Electric Ladyland - Sessions",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 236-237) Electric Ladyland - The Apartment Recordings",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 238) - Electric Ladyland - Sessions March-April 1968",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 239-240) Gypsy Sun & Rainbows - Woodstock - Nothing But Primary Rhythm Things",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 241) Los Angeles Forum, Los Angeles, CA 25.04.70 - 4th Source and bonus disc",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 242-245) - Electric Ladyland Sessions5 - May 68",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 246-248) Gypsy Sun & Rainbows - NYC",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 249-250) - Eric Burdon and War at Ronnie Scotts - master",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 251-252) - San Antonio - May 1970 (master tape)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 253-254) Jimi Hendrix 1970-05-02 Madison WI (3rd source)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 255 + Bonus Disc) - Hollywood Bowl, Hollywood, California",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM 256-257) Jimi Hendrix - 1970-05-30 Berkeley 1st Show Complete Soundboard",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(ATM DVD 001) Live At The Royal Albert Hall - Rev A",
-      "format": "DVD"
-    },
-    {
-      "type": "label",
-      "label": "(ATM DVD 002) Hendrix Stockholm 69 Upgrade",
-      "format": "DVD"
-    },
-    {
-      "type": "label",
-      "label": "(ATM DVD 003) Band Of Gypsys - Rev A",
-      "format": "DVD"
-    },
-    {
-      "type": "label",
-      "label": "(ATM DVD 004) Video Experience",
-      "format": "DVD"
-    },
-    {
-      "type": "label",
-      "label": "(ATM DVD 005) The Atlanta Reel",
-      "format": "DVD"
-    },
-    {
-      "type": "label",
-      "label": "(ATM DVD 006) 1970-07-30 - Maui - Haleakala Crater",
-      "format": "DVD"
-    },
-    {
-      "type": "label",
-      "label": "[FOR TRADE ONLY GROUP)"
-    },
-    {
-      "type": "label",
-      "label": "FTO 001 - 002 The Complete Clark University '68",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 003 - The Capricorn Tape (For Trade Only) (flac) [2009 Fileset, with original + repaired track]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 004 - Royal Albert Hall Rehearsals - Composite (For Trade Only)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 005 - February 1969 Sessions",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 005 REV A - February 1969 Sessions [Compiled by Paul Fitzpatrick]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 005 REV A - February 1969 Sessions [Compiled by Pink Robert]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 005 REV B - February 1969 Sessions [Compiled by Paul Fitzpatrick]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 006-007 - Raw Blues",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 008-009 - BBC Radio (For Trade Only)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 010 - Ottawa 1968",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 010 - Ottawa 1968 (For Trade Only) (alt)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 011 - Thank You! And I Just Blew Another Amp! - Fillmore East May 1968 (For Trade Only)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 012 - Hunter College March 1968 (For Trade Only) (flac)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 013-014 - Gothenburg 1 September 1970 [aka. Gothenburg '70 - Raw Source]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 015 - Boston Garden, Boston, MA 1970-06-27 - 3rd Source",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 016 - Denver, CO - Fieldhouse Regis College 1968-02-14",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 017 - Flamingo London - Low Gen Composite",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 018-019 - Ronnie Scotts Club, London 1970-09-16 - The Complete Recording",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 020 - The Blue Thumb Acetate",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "FTO 021 - Dallas 1969-04-20 - Composite Master",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[JIMI PASS IT ON GROUP II)"
-    },
-    {
-      "type": "label",
-      "label": "JPIO-II 012 - Crash Landing Revisited",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "JPIO-II 015-018 - Prince Albert Does Not Bite The Tongue",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "JPIO-II 023-026 - The Last Cry of Love",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "JPIO-II 027-028 - Electric Frankenstein",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "JPIO-II 033-036 - Rabalder i Teateret - The Complete Copenhagen 1969 Recordings",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "JPIO-II 037 - The Capricorn Tape",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "JPIO-II 038-039 - European Scrapbook",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "JPIO-II 040-042 - Moonlight Is White",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "JPIO-II 067-068 - Sorry For The Intermission",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "JPIO-II 077-078 - Strate Ahead",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "JPIO-II 095-102 - Sweeping Up the Pieces of Yesterday's Life - The Jimi Hendrix Interviews (3rd ed)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[VARIOUS)"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - Astro Man (6 CDs) (Alchemy JHBX 1)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - Freezer Burn",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - Made In Sweden 1967",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - Original Vinyl Transfer Series 1st Batch (20 LPs) (JPIO-II 043-062)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - Studio 66 (ITL-WJ 201)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - Studio 67 (6 CDs) (ITL-WJ 202-207)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - 51st Anniversary - The Story of Life (JMH 001-8)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - In The Studio Collectors Limited Edition (Reclamation) (RECD 1011)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - Mixdown Master Tapes 1998 - Vol 1-4",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - Moonbeams Fairytales 1966-1967 (22 CDs)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - Studio 69 (15 CDs) (ITL-WJ 101-115)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - Studio 70 (11 CDs) (ITL-WJ 001-011)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - Studio Sessions Volume 1 (6 CDs) (Voodoo Chile) (VC 9005)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - Studio Sessions Volume 2 (6 CDs) (Voodoo Chile) (VC 9006)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - The Blues Project Outtakes (sbd)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - The Electric Church",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - The Ross Tapes 2-3-6-7",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - The Swedish Shows v1-7 (7 CDs) (STG 006-010)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - Unsurpassed Masters (5 CDs) (BTYB 0086-90)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - Unsurpassed Studio Takes (Yellow Dog) (YD 050)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VARIOUS - In The Studio (sbd) (10 CDs) (Reclamation Records)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[BOOKS)"
-    },
-    {
-      "type": "label",
-      "label": "Jimi Hendrix - Are You Experienced Tab Book",
-      "format": "PDF"
-    },
-    {
-      "type": "label",
-      "label": "Jimi Hendrix - Axis - Bold As Love Tab Book",
-      "format": "PDF"
-    },
-    {
-      "type": "label",
-      "label": "Jimi Hendrix - Blues Tab Book",
-      "format": "PDF"
-    },
-    {
-      "type": "label",
-      "label": "Jimi Hendrix - Electric Ladyland Tab Book",
-      "format": "PDF"
-    },
-    {
-      "type": "label",
-      "label": "Jimi Hendrix - First Rays Of The New Rising Sun Tab Book",
-      "format": "PDF"
     }
   ]
 };

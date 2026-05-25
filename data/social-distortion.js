@@ -373,7 +373,7 @@ const ARTIST_DATA = {
       "venue": "Oak Canyon Ranch",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Sony ECM-909A \u00b7 Marco Moir"
+      "notes": "M · Sony ECM-909A · Marco Moir"
     },
     {
       "year": 1997,
@@ -620,7 +620,7 @@ const ARTIST_DATA = {
       "venue": "Rec Hall at UC Davis",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060 \u00b7 Unknown"
+      "notes": "DPA 4060 · Unknown"
     },
     {
       "year": 2005,
@@ -659,7 +659,7 @@ const ARTIST_DATA = {
       "venue": "Nokia Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Tcd-d8 \u00b7 Madelf Master"
+      "notes": "Tcd-d8 · Madelf Master"
     },
     {
       "year": 2005,
@@ -971,7 +971,7 @@ const ARTIST_DATA = {
       "venue": "Eleanor Tinsley Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom Q3hd \u00b7 Bradleybee"
+      "notes": "Zoom Q3hd · Bradleybee"
     },
     {
       "year": 2021,
@@ -984,7 +984,7 @@ const ARTIST_DATA = {
       "venue": "Discovery Park - Aftershock Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853s \u00b7 Tj"
+      "notes": "AT853s · Tj"
     },
     {
       "year": 2022,
@@ -1023,7 +1023,7 @@ const ARTIST_DATA = {
       "venue": "The Guild Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 Loughney"
+      "notes": "SP-CMC-4U · Loughney"
     },
     {
       "year": 2023,
@@ -1036,7 +1036,7 @@ const ARTIST_DATA = {
       "venue": "The Guild",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 Loughney"
+      "notes": "SP-CMC-4U · Loughney"
     },
     {
       "year": 2024,
@@ -1049,7 +1049,7 @@ const ARTIST_DATA = {
       "venue": "North Island Credit Union Amphitheatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 Faninor"
+      "notes": "DPA 4081 · Faninor"
     },
     {
       "year": 2024,
@@ -1062,7 +1062,7 @@ const ARTIST_DATA = {
       "venue": "Mesa Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Tascam Dr-05 \u00b7 Unknown"
+      "notes": "Tascam Dr-05 · Unknown"
     },
     {
       "year": 2024,
@@ -1075,7 +1075,7 @@ const ARTIST_DATA = {
       "venue": "Pier 17",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom Iq5 \u00b7 Paprick"
+      "notes": "Zoom Iq5 · Paprick"
     },
     {
       "year": 2024,
@@ -1088,7 +1088,7 @@ const ARTIST_DATA = {
       "venue": "Starland Ballroom",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Roland R-07 \u00b7 Unknown"
+      "notes": "Roland R-07 · Unknown"
     },
     {
       "year": 2024,
@@ -1101,7 +1101,7 @@ const ARTIST_DATA = {
       "venue": "Rialto Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Tascam Dr05 \u00b7 Unknown"
+      "notes": "Tascam Dr05 · Unknown"
     },
     {
       "year": 2024,
@@ -1114,7 +1114,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 Faninor"
+      "notes": "DPA 4081 · Faninor"
     },
     {
       "year": 2024,
@@ -1127,7 +1127,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 Lachtna"
+      "notes": "Schoeps MK4 · Lachtna"
     },
     {
       "year": 2024,
@@ -1140,7 +1140,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "AT853 \u00b7 Unknown"
+      "notes": "AT853 · Unknown"
     },
     {
       "year": 2025,
@@ -1153,7 +1153,7 @@ const ARTIST_DATA = {
       "venue": "Summerfest - Miller Lite Oasis Stage",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Shure Mv-88 \u00b7 Unknown"
+      "notes": "Shure Mv-88 · Unknown"
     },
     {
       "year": 1999,
@@ -1210,18 +1210,8 @@ const ARTIST_DATA = {
   ],
   "misc": [
     {
-      "type": "show",
-      "dateStr": "6-XX-1994",
-      "year": 1994,
-      "month": 6,
-      "day": null,
-      "city": "Demos",
-      "state": "",
-      "location": "Demos",
-      "venue": "",
-      "notes": "",
-      "version": "",
-      "format": "FLAC"
+      "type": "label",
+      "label": "6-XX-1994 / Demos"
     },
     {
       "type": "release",

@@ -94,7 +94,7 @@ const ARTIST_DATA = {
       "venue": "Lantaarn - ANA(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TC-D5M \u00b7 hans de vente"
+      "notes": "Sony TC-D5M · hans de vente"
     },
     {
       "year": 1977,
@@ -159,7 +159,7 @@ const ARTIST_DATA = {
       "venue": "Old Waldorf",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Early show \u00b7 KSAN Live Broadcast"
+      "notes": "Early show · KSAN Live Broadcast"
     },
     {
       "year": 1978,
@@ -185,7 +185,7 @@ const ARTIST_DATA = {
       "venue": "CBGBs",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Reel \u00b7 pr"
+      "notes": "Reel · pr"
     },
     {
       "year": 1979,
@@ -224,7 +224,7 @@ const ARTIST_DATA = {
       "venue": "Stage West - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "2 \u00b7 Unknown"
+      "notes": "2 · Unknown"
     },
     {
       "year": 1985,
@@ -250,7 +250,7 @@ const ARTIST_DATA = {
       "venue": "Chestnut Cabaret",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Nak 300s \u00b7 chuck"
+      "notes": "Nak 300s · chuck"
     },
     {
       "year": 1989,
@@ -276,7 +276,7 @@ const ARTIST_DATA = {
       "venue": "Lincoln Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SS DSM6 \u00b7 Unknown"
+      "notes": "SS DSM6 · Unknown"
     },
     {
       "year": 1976,
@@ -402,6 +402,118 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "Drive - F"
+    },
+    {
+      "type": "show",
+      "year": 1976,
+      "month": 8,
+      "day": 31,
+      "dateStr": "8-31-1976",
+      "city": "London",
+      "state": "UK",
+      "location": "London, UK",
+      "venue": "The 100 Club",
+      "notes": "",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "year": 1976,
+      "month": 9,
+      "day": 17,
+      "dateStr": "9-17-1976",
+      "city": "Chelmsford",
+      "state": "England",
+      "location": "Chelmsford, England",
+      "venue": "Chelmsford Maximum Security Prison",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "year": 1976,
+      "month": 12,
+      "day": 9,
+      "dateStr": "12-9-1976",
+      "city": "Manchester",
+      "state": "UK",
+      "location": "Manchester, UK",
+      "venue": "Electric Circus",
+      "notes": "",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "year": 1977,
+      "month": 12,
+      "day": 19,
+      "dateStr": "12-19-1977",
+      "city": "Keighley",
+      "state": "UK",
+      "location": "Keighley, UK",
+      "venue": "Nikkers Club",
+      "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "year": 1978,
+      "month": 1,
+      "day": 5,
+      "dateStr": "1-5-1978",
+      "city": "Atlanta",
+      "state": "GA",
+      "location": "Atlanta, GA",
+      "venue": "Great Southeast Music Hall *Kill The Hippies",
+      "notes": "",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "year": 1996,
+      "month": 7,
+      "day": 4,
+      "dateStr": "7-4-1996",
+      "city": "Paris",
+      "state": "France",
+      "location": "Paris, France",
+      "venue": "The Zenith",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "year": 1996,
+      "month": 8,
+      "day": 23,
+      "dateStr": "8-23-1996",
+      "city": "Hollywood",
+      "state": "CA",
+      "location": "Hollywood, CA",
+      "venue": "Hollywood Palladium",
+      "notes": "CASS(M)",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "year": 1996,
+      "month": 8,
+      "day": 25,
+      "dateStr": "8-25-1996",
+      "city": "Hollywood",
+      "state": "CA",
+      "location": "Hollywood, CA",
+      "venue": "Hollywood Palladium",
+      "notes": "CASS(M)",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ]
 };

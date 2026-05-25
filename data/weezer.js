@@ -72,7 +72,7 @@ const ARTIST_DATA = {
       "venue": "The Odeon",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Unknown \u00b7 Qew Transfer"
+      "notes": "Unknown · Qew Transfer"
     },
     {
       "year": 1994,
@@ -85,7 +85,7 @@ const ARTIST_DATA = {
       "venue": "Tipitina's",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "matt hunter \u00b7 Unknown"
+      "notes": "matt hunter · Unknown"
     },
     {
       "year": 1994,
@@ -98,7 +98,7 @@ const ARTIST_DATA = {
       "venue": "Avalon",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-909 \u00b7 Unknown"
+      "notes": "Sony ECM-909 · Unknown"
     },
     {
       "year": 1994,
@@ -111,7 +111,7 @@ const ARTIST_DATA = {
       "venue": "Manhattan Center Ballroom",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-929 \u00b7 Scott Simpson"
+      "notes": "Sony ECM-929 · Scott Simpson"
     },
     {
       "year": 1994,
@@ -163,7 +163,7 @@ const ARTIST_DATA = {
       "venue": "Local 186",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Rocio Aracelis"
+      "notes": "Unknown · Rocio Aracelis"
     },
     {
       "year": 1994,
@@ -280,7 +280,7 @@ const ARTIST_DATA = {
       "venue": "Negativ",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TCD-D7 with Aiwa CM30 \u00b7 Colonelparker"
+      "notes": "Sony TCD-D7 with Aiwa CM30 · Colonelparker"
     },
     {
       "year": 1995,
@@ -384,7 +384,7 @@ const ARTIST_DATA = {
       "venue": "Trees",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ss Dsm6 \u00b7 Chris M."
+      "notes": "Ss Dsm6 · Chris M."
     },
     {
       "year": 1995,
@@ -449,7 +449,7 @@ const ARTIST_DATA = {
       "venue": "Central Park SummerStage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony 909 \u00b7 Stonecutter Archives"
+      "notes": "Sony 909 · Stonecutter Archives"
     },
     {
       "year": 1995,
@@ -462,7 +462,7 @@ const ARTIST_DATA = {
       "venue": "Deer Creek Music Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Tony Buechler"
+      "notes": "Unknown · Tony Buechler"
     },
     {
       "year": 1995,
@@ -475,7 +475,7 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Neekrive"
+      "notes": "Unknown · Neekrive"
     },
     {
       "year": 1996,
@@ -527,7 +527,7 @@ const ARTIST_DATA = {
       "venue": "Fort de St Pere",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Radio France \u00b7 Dimitroy Transfer"
+      "notes": "Radio France · Dimitroy Transfer"
     },
     {
       "year": 1996,
@@ -579,7 +579,7 @@ const ARTIST_DATA = {
       "venue": "Christiania Den Gr? Hal",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-155 \u00b7 Mailman"
+      "notes": "Sony ECM-155 · Mailman"
     },
     {
       "year": 1996,
@@ -592,7 +592,7 @@ const ARTIST_DATA = {
       "venue": "Planet Nightclub",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Late show \u00b7 Sony ECM 909a \u00b7 Franger"
+      "notes": "Late show · Sony ECM 909a · Franger"
     },
     {
       "year": 1996,
@@ -670,7 +670,7 @@ const ARTIST_DATA = {
       "venue": "Tower Records",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Stonecutter"
+      "notes": "CSB · Stonecutter"
     },
     {
       "year": 1996,
@@ -696,7 +696,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "version": "AUD #1",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Elegymart"
+      "notes": "Unknown · Elegymart"
     },
     {
       "year": 1995,
@@ -865,7 +865,7 @@ const ARTIST_DATA = {
       "venue": "Fresno State Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Panasonic Stealth Condensers \u00b7 Josh Huber"
+      "notes": "Panasonic Stealth Condensers · Josh Huber"
     },
     {
       "year": 2000,
@@ -878,7 +878,7 @@ const ARTIST_DATA = {
       "venue": "Ventura County Fairgrounds",
       "version": "AUD",
       "format": "SHN",
-      "notes": "Panasonic Stealth Condensers \u00b7 Josh Huber"
+      "notes": "Panasonic Stealth Condensers · Josh Huber"
     },
     {
       "year": 2000,
@@ -904,7 +904,7 @@ const ARTIST_DATA = {
       "venue": "Aladdin Theatre",
       "version": "AUD",
       "format": "SHN",
-      "notes": "Inc \u00b7 Unknown"
+      "notes": "Inc · Unknown"
     },
     {
       "year": 2000,
@@ -917,7 +917,7 @@ const ARTIST_DATA = {
       "venue": "Cactus Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Unknown"
+      "notes": "Schoeps MK4 · Unknown"
     },
     {
       "year": 2000,
@@ -930,7 +930,7 @@ const ARTIST_DATA = {
       "venue": "Troubadour",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Ed Davis"
+      "notes": "DPA 4061s · Ed Davis"
     },
     {
       "year": 2000,
@@ -995,7 +995,7 @@ const ARTIST_DATA = {
       "venue": "Runwayz",
       "version": "AUD #1",
       "format": "FLAC",
-      "notes": "atomwatt \u00b7 Sharp Md-mt15"
+      "notes": "atomwatt · Sharp Md-mt15"
     },
     {
       "year": 2000,
@@ -1008,7 +1008,7 @@ const ARTIST_DATA = {
       "venue": "Metro",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Twoheadedboy"
+      "notes": "Unknown · Twoheadedboy"
     },
     {
       "year": 2000,
@@ -1073,7 +1073,7 @@ const ARTIST_DATA = {
       "venue": "Bender Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Csbmod \u00b7 Unknown"
+      "notes": "Csbmod · Unknown"
     },
     {
       "year": 2001,
@@ -1125,7 +1125,7 @@ const ARTIST_DATA = {
       "venue": "RIMAC Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Ed Davis"
+      "notes": "DPA 4061s · Ed Davis"
     },
     {
       "year": 2001,
@@ -1294,7 +1294,7 @@ const ARTIST_DATA = {
       "venue": "Rock Werchter",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Wzbw88"
+      "notes": "CSB · Wzbw88"
     },
     {
       "year": 2001,
@@ -1307,7 +1307,7 @@ const ARTIST_DATA = {
       "venue": "Shepherd's Bush Empire",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Okm-iir \u00b7 Unknown"
+      "notes": "Okm-iir · Unknown"
     },
     {
       "year": 2001,
@@ -1320,7 +1320,7 @@ const ARTIST_DATA = {
       "venue": "Glen Helen Blockbuster Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Csb Mod \u00b7 Andy Swinburnson"
+      "notes": "Csb Mod · Andy Swinburnson"
     },
     {
       "year": 2001,
@@ -1333,7 +1333,7 @@ const ARTIST_DATA = {
       "venue": "Cox Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-12 \u00b7 Luke Freteluco"
+      "notes": "Sony ECM-12 · Luke Freteluco"
     },
     {
       "year": 2001,
@@ -1359,7 +1359,7 @@ const ARTIST_DATA = {
       "venue": "Patriot Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Brian"
+      "notes": "CSB · Brian"
     },
     {
       "year": 2001,
@@ -1398,7 +1398,7 @@ const ARTIST_DATA = {
       "venue": "Cox Arena at Aztec Bowl",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT933 \u00b7 Chris Edge"
+      "notes": "AT933 · Chris Edge"
     },
     {
       "year": 2001,
@@ -1437,7 +1437,7 @@ const ARTIST_DATA = {
       "venue": "Pepsi Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853s \u00b7 Oysterhead"
+      "notes": "AT853s · Oysterhead"
     },
     {
       "year": 2002,
@@ -1502,7 +1502,7 @@ const ARTIST_DATA = {
       "venue": "Fargodome",
       "version": "AUD",
       "format": "SHN",
-      "notes": "DAC \u00b7 P.j. Pearson & Steve Korf"
+      "notes": "DAC · P.j. Pearson & Steve Korf"
     },
     {
       "year": 2002,
@@ -1658,7 +1658,7 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M300s \u00b7 Tom Chaffin"
+      "notes": "M300s · Tom Chaffin"
     },
     {
       "year": 2002,
@@ -1671,7 +1671,7 @@ const ARTIST_DATA = {
       "venue": "Xcel Energy Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DAC \u00b7 P.j. Pearson"
+      "notes": "DAC · P.j. Pearson"
     },
     {
       "year": 2002,
@@ -1710,7 +1710,7 @@ const ARTIST_DATA = {
       "venue": "Tweeter Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Oktava Mc012 \u00b7 Frank Quinto"
+      "notes": "Oktava Mc012 · Frank Quinto"
     },
     {
       "year": 2002,
@@ -1775,7 +1775,7 @@ const ARTIST_DATA = {
       "venue": "Kool Haus",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Om-450 \u00b7 Joe Kusnir"
+      "notes": "Om-450 · Joe Kusnir"
     },
     {
       "year": 2005,
@@ -1788,7 +1788,7 @@ const ARTIST_DATA = {
       "venue": "The Electric Factory",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4022 \u00b7 George Wang"
+      "notes": "DPA 4022 · George Wang"
     },
     {
       "year": 2005,
@@ -1814,7 +1814,7 @@ const ARTIST_DATA = {
       "venue": "The Tabernacle",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Greg Harvey"
+      "notes": "Unknown · Greg Harvey"
     },
     {
       "year": 2005,
@@ -1853,7 +1853,7 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Giant Squid \u00b7 Ivory88"
+      "notes": "Giant Squid · Ivory88"
     },
     {
       "year": 2005,
@@ -1866,7 +1866,7 @@ const ARTIST_DATA = {
       "venue": "Molson Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM-MS907 \u00b7 Nippleholic"
+      "notes": "ECM-MS907 · Nippleholic"
     },
     {
       "year": 2005,
@@ -1892,7 +1892,7 @@ const ARTIST_DATA = {
       "venue": "Gwinnett Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Greg Harvey"
+      "notes": "Unknown · Greg Harvey"
     },
     {
       "year": 2005,
@@ -1905,7 +1905,7 @@ const ARTIST_DATA = {
       "venue": "Cox Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 Ozzyzak"
+      "notes": "SP-CMC-2 · Ozzyzak"
     },
     {
       "year": 2005,
@@ -1918,7 +1918,7 @@ const ARTIST_DATA = {
       "venue": "Pepsi Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 Inc \u00b7 Alex Z. \u00b7 Inc"
+      "notes": "SP-CMC-2 · Inc · Alex Z. · Inc"
     },
     {
       "year": 2005,
@@ -1931,7 +1931,7 @@ const ARTIST_DATA = {
       "venue": "Van Andel Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT831s \u00b7 Aron41"
+      "notes": "AT831s · Aron41"
     },
     {
       "year": 2005,
@@ -1944,7 +1944,7 @@ const ARTIST_DATA = {
       "venue": "Wolstein Center",
       "version": "IEM",
       "format": "FLAC",
-      "notes": "Soundcheck \u00b7 Jlizard"
+      "notes": "Soundcheck · Jlizard"
     },
     {
       "year": 2005,
@@ -1957,7 +1957,7 @@ const ARTIST_DATA = {
       "venue": "Wolstein Center",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "SBD + Gefell M20s \u00b7 Jlizard/cps"
+      "notes": "SBD + Gefell M20s · Jlizard/cps"
     },
     {
       "year": 2005,
@@ -1970,7 +1970,7 @@ const ARTIST_DATA = {
       "venue": "Arena at Harbor Yard",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "luke annati \u00b7 Unknown"
+      "notes": "luke annati · Unknown"
     },
     {
       "year": 2005,
@@ -1996,7 +1996,7 @@ const ARTIST_DATA = {
       "venue": "Studio Coast",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Bs Productions"
+      "notes": "SP-CMC-8 · Bs Productions"
     },
     {
       "year": 2008,
@@ -2035,7 +2035,7 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akg 480 \u00b7 Davepeck"
+      "notes": "Akg 480 · Davepeck"
     },
     {
       "year": 2008,
@@ -2061,7 +2061,7 @@ const ARTIST_DATA = {
       "venue": "Borgata Casino",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Nikki4982"
+      "notes": "CSB · Nikki4982"
     },
     {
       "year": 2008,
@@ -2074,7 +2074,7 @@ const ARTIST_DATA = {
       "venue": "Susquehanna Bank Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Nikki4982"
+      "notes": "CSB · Nikki4982"
     },
     {
       "year": 2008,
@@ -2087,7 +2087,7 @@ const ARTIST_DATA = {
       "venue": "Air Canada Centre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MZ-N707 \u00b7 Pintosack"
+      "notes": "Sony MZ-N707 · Pintosack"
     },
     {
       "year": 2008,
@@ -2100,7 +2100,7 @@ const ARTIST_DATA = {
       "venue": "Broomfield Event Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11 \u00b7 Unknown"
+      "notes": "Ca-11 · Unknown"
     },
     {
       "year": 2008,
@@ -2126,7 +2126,7 @@ const ARTIST_DATA = {
       "venue": "Great Western Forum",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D7 \u00b7 Jb"
+      "notes": "Sony D7 · Jb"
     },
     {
       "year": 2008,
@@ -2139,7 +2139,7 @@ const ARTIST_DATA = {
       "venue": "Gwinnett Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Custom P-zone Mics \u00b7 Jason De'friese"
+      "notes": "Custom P-zone Mics · Jason De'friese"
     },
     {
       "year": 2008,
@@ -2152,7 +2152,7 @@ const ARTIST_DATA = {
       "venue": "Gwinnett Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Greg Harvey"
+      "notes": "Unknown · Greg Harvey"
     },
     {
       "year": 2009,
@@ -2360,7 +2360,7 @@ const ARTIST_DATA = {
       "venue": "Bamboozle",
       "version": "AMT",
       "format": "DVD",
-      "notes": "Unknown \u00b7 Mark Suffolk"
+      "notes": "Unknown · Mark Suffolk"
     },
     {
       "year": 2010,
@@ -2373,7 +2373,7 @@ const ARTIST_DATA = {
       "venue": "Bonnaroo Music & Arts Festival - Which Stage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Avantone Ck1 \u00b7 Willsfc"
+      "notes": "Avantone Ck1 · Willsfc"
     },
     {
       "year": 2010,
@@ -2386,7 +2386,7 @@ const ARTIST_DATA = {
       "venue": "LeBreton Flats - MBNA Stage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ottawa Bluesfest \u00b7 Zoom H2 \u00b7 Bootlegottawa"
+      "notes": "Ottawa Bluesfest · Zoom H2 · Bootlegottawa"
     },
     {
       "year": 2010,
@@ -2412,7 +2412,7 @@ const ARTIST_DATA = {
       "venue": "Bumbershoot Festival",
       "version": "AMT",
       "format": "DVD",
-      "notes": "Unknown \u00b7 Mark Suffolk"
+      "notes": "Unknown · Mark Suffolk"
     },
     {
       "year": 2010,
@@ -2438,7 +2438,7 @@ const ARTIST_DATA = {
       "venue": "Gibson Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sonics \u00b7 Jb"
+      "notes": "Sonics · Jb"
     },
     {
       "year": 2010,
@@ -2451,7 +2451,7 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Night 1 \u00b7 Blue Album"
+      "notes": "Night 1 · Blue Album"
     },
     {
       "year": 2010,
@@ -2464,7 +2464,7 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Night 2 \u00b7 Pinkerton Album"
+      "notes": "Night 2 · Pinkerton Album"
     },
     {
       "year": 2011,
@@ -2971,7 +2971,7 @@ const ARTIST_DATA = {
       "venue": "The National",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11 \u00b7 Unknown"
+      "notes": "Ca-11 · Unknown"
     },
     {
       "year": 2014,
@@ -3010,7 +3010,7 @@ const ARTIST_DATA = {
       "venue": "Balesco Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sonics \u00b7 Jb"
+      "notes": "Sonics · Jb"
     },
     {
       "year": 2015,
@@ -3036,7 +3036,7 @@ const ARTIST_DATA = {
       "venue": "Spencer Smith Park - Sound of Music Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT831s \u00b7 Binko"
+      "notes": "AT831s · Binko"
     },
     {
       "year": 2015,
@@ -3062,7 +3062,7 @@ const ARTIST_DATA = {
       "venue": "Lifestyle Communities Pavilion - CD 102.5 Summer Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Live2cd"
+      "notes": "CSB · Live2cd"
     },
     {
       "year": 2015,
@@ -3075,7 +3075,7 @@ const ARTIST_DATA = {
       "venue": "Seaside Park - Gathering of the Vibes",
       "version": "AUD #1",
       "format": "FLAC",
-      "notes": "Neumann Km184s \u00b7 Rob Clarke"
+      "notes": "Neumann Km184s · Rob Clarke"
     },
     {
       "year": 2015,
@@ -3088,7 +3088,7 @@ const ARTIST_DATA = {
       "venue": "Seaside Park - Gathering of the Vibes",
       "version": "AUD #2",
       "format": "FLAC",
-      "notes": "Schoeps MK5c \u00b7 Tonedeaf"
+      "notes": "Schoeps MK5c · Tonedeaf"
     },
     {
       "year": 2015,
@@ -3140,7 +3140,7 @@ const ARTIST_DATA = {
       "venue": "Gexa Energy Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Inc \u00b7 Edirol R-09 \u00b7 Unknown"
+      "notes": "Inc · Edirol R-09 · Unknown"
     },
     {
       "year": 2016,
@@ -3153,7 +3153,7 @@ const ARTIST_DATA = {
       "venue": "Starlight Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "MK41 \u00b7 Unknown"
+      "notes": "MK41 · Unknown"
     },
     {
       "year": 2016,
@@ -3166,7 +3166,7 @@ const ARTIST_DATA = {
       "venue": "Sands Bethlehem Event Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-14 \u00b7 Blokus"
+      "notes": "Ca-14 · Blokus"
     },
     {
       "year": 2017,
@@ -3179,7 +3179,7 @@ const ARTIST_DATA = {
       "venue": "Brookside Gold & Country Club *Arroyo Seco Weekend",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom Iq7 \u00b7 The V.u."
+      "notes": "Zoom Iq7 · The V.u."
     },
     {
       "year": 2017,
@@ -3192,7 +3192,7 @@ const ARTIST_DATA = {
       "venue": "Olympia",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Alphi"
+      "notes": "SP-CMC-8 · Alphi"
     },
     {
       "year": 2017,
@@ -3218,7 +3218,7 @@ const ARTIST_DATA = {
       "venue": "Amoeba Music *I Lost My Guitar",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT933s \u00b7 Mixter_"
+      "notes": "AT933s · Mixter_"
     },
     {
       "year": 2018,
@@ -3231,7 +3231,7 @@ const ARTIST_DATA = {
       "venue": "Beat Kitchen",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4s \u00b7 Rivers Cuomo \u00b7 Tapeworm48"
+      "notes": "Schoeps MK4s · Rivers Cuomo · Tapeworm48"
     },
     {
       "year": 2018,
@@ -3244,7 +3244,7 @@ const ARTIST_DATA = {
       "venue": "MidFlorida Credit Union",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H1 \u00b7 Besley"
+      "notes": "Zoom H1 · Besley"
     },
     {
       "year": 2018,
@@ -3257,7 +3257,7 @@ const ARTIST_DATA = {
       "venue": "Starplex, Dallas",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "AT829s \u00b7 Unknown"
+      "notes": "AT829s · Unknown"
     },
     {
       "year": 2018,
@@ -3270,7 +3270,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 Unknown"
+      "notes": "DPA 4061 · Unknown"
     },
     {
       "year": 2019,
@@ -3296,7 +3296,7 @@ const ARTIST_DATA = {
       "venue": "Schottenstein Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853 \u00b7 Live2cd"
+      "notes": "AT853 · Live2cd"
     },
     {
       "year": 2019,
@@ -3309,7 +3309,7 @@ const ARTIST_DATA = {
       "venue": "Enterprise Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Nokia Lumia 920 \u00b7 Unknown"
+      "notes": "Nokia Lumia 920 · Unknown"
     },
     {
       "year": 2019,
@@ -3387,7 +3387,7 @@ const ARTIST_DATA = {
       "venue": "Globe Life Field *lossy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Iphone 11 \u00b7 Napa55"
+      "notes": "Iphone 11 · Napa55"
     },
     {
       "year": 2021,
@@ -3400,7 +3400,7 @@ const ARTIST_DATA = {
       "venue": "Oracle Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853s \u00b7 Tj"
+      "notes": "AT853s · Tj"
     },
     {
       "year": 2021,
@@ -3413,7 +3413,7 @@ const ARTIST_DATA = {
       "venue": "Dodger Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 Unknown"
+      "notes": "SP-CMC-4U · Unknown"
     },
     {
       "year": 2021,
@@ -3426,7 +3426,7 @@ const ARTIST_DATA = {
       "venue": "iHeartRadio Music Festival - T-Mobile Arena",
       "version": "Webcast",
       "format": "TS",
-      "notes": "Cwtv.com \u00b7 Indykid"
+      "notes": "Cwtv.com · Indykid"
     },
     {
       "year": 2022,
@@ -3478,7 +3478,7 @@ const ARTIST_DATA = {
       "venue": "Tele2 Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM-T555 \u00b7 Qew"
+      "notes": "Aiwa CM-T555 · Qew"
     },
     {
       "year": 2022,
@@ -3491,7 +3491,7 @@ const ARTIST_DATA = {
       "venue": "Marlay Park",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Edirol R-09 \u00b7 Sabrewulf"
+      "notes": "Edirol R-09 · Sabrewulf"
     },
     {
       "year": 2022,
@@ -3517,7 +3517,7 @@ const ARTIST_DATA = {
       "venue": "Azura Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Tascam Dr-05 \u00b7 Unknown"
+      "notes": "Tascam Dr-05 · Unknown"
     },
     {
       "year": 2023,
@@ -3530,7 +3530,7 @@ const ARTIST_DATA = {
       "venue": "Ameris Bank Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-14 \u00b7 Majintrunkz"
+      "notes": "Ca-14 · Majintrunkz"
     },
     {
       "year": 2023,
@@ -3543,7 +3543,7 @@ const ARTIST_DATA = {
       "venue": "Lebreton Flats",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Iphone 11 \u00b7 Palm0014"
+      "notes": "Iphone 11 · Palm0014"
     },
     {
       "year": 2023,
@@ -3569,7 +3569,7 @@ const ARTIST_DATA = {
       "venue": "Arizona Financial Theatre",
       "version": "MIX",
       "format": "FLAC 24",
-      "notes": "JLW, MK4, ALD + IEM \u00b7 Sz"
+      "notes": "JLW, MK4, ALD + IEM · Sz"
     },
     {
       "year": 2023,
@@ -3582,7 +3582,7 @@ const ARTIST_DATA = {
       "venue": "FivePoint Amphitheatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 Faninor"
+      "notes": "DPA 4081 · Faninor"
     },
     {
       "year": 2023,
@@ -3595,7 +3595,7 @@ const ARTIST_DATA = {
       "venue": "John Cain Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Nokia Lumia 930 \u00b7 Eckythump"
+      "notes": "Nokia Lumia 930 · Eckythump"
     },
     {
       "year": 2024,
@@ -3621,7 +3621,7 @@ const ARTIST_DATA = {
       "venue": "Lodge Room",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 Faninor"
+      "notes": "DPA 4081 · Faninor"
     },
     {
       "year": 2024,
@@ -3634,7 +3634,7 @@ const ARTIST_DATA = {
       "venue": "Nationwide Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Live2cd"
+      "notes": "SP-CMC-8 · Live2cd"
     },
     {
       "year": 2024,
@@ -3647,7 +3647,7 @@ const ARTIST_DATA = {
       "venue": "Nationwide Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA4061 \u00b7 Mitaper78"
+      "notes": "DPA4061 · Mitaper78"
     },
     {
       "year": 2024,
@@ -3660,7 +3660,7 @@ const ARTIST_DATA = {
       "venue": "Scotiabank Arena - Rec 1",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Burnboy"
+      "notes": "CSB · Burnboy"
     },
     {
       "year": 2024,
@@ -3673,7 +3673,7 @@ const ARTIST_DATA = {
       "venue": "Scotiabank Arena - Rec 2",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Burnboy"
+      "notes": "SP-CMC-8 · Burnboy"
     },
     {
       "year": 2024,
@@ -3686,7 +3686,7 @@ const ARTIST_DATA = {
       "venue": "Scotiabank Arena - Rec 2",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-25 \u00b7 Burnboy"
+      "notes": "SP-CMC-25 · Burnboy"
     },
     {
       "year": 2024,
@@ -3699,7 +3699,7 @@ const ARTIST_DATA = {
       "venue": "The Anthem",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Cafs Omnis \u00b7 Unknown"
+      "notes": "Cafs Omnis · Unknown"
     },
     {
       "year": 2024,
@@ -3712,7 +3712,7 @@ const ARTIST_DATA = {
       "venue": "Chase Center",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 Loughney"
+      "notes": "Schoeps MK4 · Loughney"
     },
     {
       "year": 2024,
@@ -3751,7 +3751,7 @@ const ARTIST_DATA = {
       "venue": "UFO Museum Gift Shop & Records - Weezfest",
       "version": "MIX",
       "format": "FLAC 24",
-      "notes": "Shure Mv88 + Sennheiser Ambeo \u00b7 Unknown"
+      "notes": "Shure Mv88 + Sennheiser Ambeo · Unknown"
     },
     {
       "year": 2025,
@@ -3777,7 +3777,7 @@ const ARTIST_DATA = {
       "venue": "Crystal Palace",
       "version": "WEB",
       "format": "MP4",
-      "notes": "Panasonic Hc-vx3 \u00b7 Unknown \u00b7 1080"
+      "notes": "Panasonic Hc-vx3 · Unknown · 1080"
     },
     {
       "year": 2009,
@@ -3959,7 +3959,7 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Night 1 \u00b7 Blue Album"
+      "notes": "Night 1 · Blue Album"
     },
     {
       "year": 2010,
@@ -3972,7 +3972,7 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Night 2 \u00b7 Pinkerton Album"
+      "notes": "Night 2 · Pinkerton Album"
     },
     {
       "year": 2011,
@@ -4401,7 +4401,7 @@ const ARTIST_DATA = {
       "venue": "The Troubador",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sonics \u00b7 Jb"
+      "notes": "Sonics · Jb"
     },
     {
       "year": 2002,
@@ -4961,1936 +4961,6 @@ const ARTIST_DATA = {
       "type": "label",
       "label": "Weezer - The Sylvain Tapes (Volume 010) Live Paris 1995",
       "format": "FM"
-    },
-    {
-      "type": "label",
-      "label": "[Silvers]"
-    },
-    {
-      "type": "release",
-      "label": "Weezer - Geezer {KTS-026-A} (1995)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Weezer - American Holiday {TOR-065} (1995)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Weezer - Studio Jam June 2001 {LOOSE-052}",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Weezer - My Name is Weezer {EXP-015} (1997)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Weezer - The Good Live (EXP-002) (1997)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Weezer - Back In The Garage {Y2K Entertainment} (1999)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Weezer - London Underworld {Trade Mark Of Quality} (1999)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Weezer - Flip Sides & Acoustic Cuts {FDR 006} (2000)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Weezer ? Surf Wax Mt. Fuji {LOOSE-022} (2000)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[Singles]"
-    },
-    {
-      "type": "label",
-      "label": "Undone - The Sweater Song (1994) [FLAC] [UK, GFSTD 85]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Undone ? The Sweater Song {Geffen GFSTD 85}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Buddy Holly {UK Geffen GFSTD 88}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Christmas CD [INTR-10267-2] (2000)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Say It Ain't So {Geffen GFSTD 95}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "El Scorcho {Geffen GEFDM 22167}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Pink Triangle (Promo Single) {DGC PRO-CD-1102}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Hash Pipe (Digital Single)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Hash Pipe {UK Geffen 497 564-2}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Hash Pipe [EU INTR-10362-2]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Island In The Sun (2001) [FLAC] [EU, Geffen 497 610-2]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Island In The Sun [UICF-5002] [FLAC]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Island In The Sun [UK CD2 497 616-2]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Island In The Sun {Australia 497 635-2}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Keep Fishin' (Digital Single)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Keep Fishin' {Europe Geffen 497 771-2}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Keep Fishin' {Europe Geffen 497 792-2}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Beverly Hills {Geffen 0602498817919}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "We Are All On Drugs {Geffen 0602498834954}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Pork And Beans (EU Promo CD)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Pork and Beans Digital EP",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "(If You're Wondering If I Want You To) I Want You To (Digital Single)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "The Last Days of Summer {WFC-002}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Feels Like Summer",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Mexican Fender",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "The End of the Game (2019) {Crush Music - Atlantic} [24-44.1]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[Official Releases]"
-    },
-    {
-      "type": "label",
-      "label": "Blue Album (1994)"
-    },
-    {
-      "type": "label",
-      "label": "Weezer (Advance Copy)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer (Deluxe Edition) {Geffen B0002139-02}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer [WEB FLAC]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer {MoFi MFSL 1-390} (24bit) [FLAC]",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Weezer MoFi SACD (UDSACD 2160)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer (1994) (24/192)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Pinkerton (1996)"
-    },
-    {
-      "type": "label",
-      "label": "Pinkerton (Advance Copy)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Pinkerton (Deluxe Edition) {US DGC B0012913-02}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Pinkerton {MoFi MFSL 1-393} [VINYL]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Pinkerton Deluxe Edition Vinyl (US Geffen B0012913-01)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Pinkerton Vinyl (US Original Pressing Geffen DGC-25007)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Green Album (2001)"
-    },
-    {
-      "type": "label",
-      "label": "Weezer MoFi Vinyl (MFSL 1-394) [Old Rip]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer Vinyl (Original Pressing US Geffen 069493045-1)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer {Japanese UICF-1002}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer (The Green Album) {MFSL} [24bit FLAC] 3.18.19 Rip",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer (The Green Album) {069493045-1 Green Translucent}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Maladroit (2002)"
-    },
-    {
-      "type": "label",
-      "label": "Maladroit {Japan UICF-1007}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Maladroit Vinyl (US Geffen 069493241-1)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Maladroit (UK Promo CD)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Maladroit (Unmastered German Promo)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Songs from the Forthcoming 'Maladroit' (LIGHTING HILL 11982)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Songs from the Forthcoming 'Maladroit' (LIGHTNING HILL 12020)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Songs from the Forthcoming 'Maladroit' {BJM 11946)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Maladroit {069493241-1} 3.25.19 Rip",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "The Lion and the Witch EP {Geffen 0694934582} (2002)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "The Lion and the Witch EP {MoFi MFSL 1-391} [VINYL24] (2002)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Make Believe (2005)"
-    },
-    {
-      "type": "label",
-      "label": "Make Believe MoFi Vinyl (MFSL 1-395)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Make Believe {Japan UICF-1040}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Make Believe [Original Pressing]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Make Believe (Unmastered)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Make Believe (UK Promo CD)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Red Album (2008)"
-    },
-    {
-      "type": "label",
-      "label": "Weezer (Red Album) {Japanese - UCIF 9057}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer Vinyl (US Geffen B0011135-01) [FLAC]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer Deluxe Vinyl (US Self-Released) [FLAC]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer 4.8.08 CD Ref Promo",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer 4.24.08 CD Ref Promo",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer B-Sides 4.24.08 CD Ref Promo",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Six Hits (2008)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Raditude (2009)"
-    },
-    {
-      "type": "label",
-      "label": "Raditude (2009) {Japanese - UICF-1119, UICF-1120}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Raditude Vinyl (US DGC B0013510-01)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Death To False Metal (2010)"
-    },
-    {
-      "type": "label",
-      "label": "Death To False Metal [24bit FLAC] 3.19.2019",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Death to False Metal {Japan UICY-1498}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Death To False Metal Vinyl (US SRC-063)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Death to False Metal (iTunes Edition)",
-      "format": "M4A"
-    },
-    {
-      "type": "label",
-      "label": "Happy Record Store Day! {Interscope B0014167-02}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Hurley (2010)"
-    },
-    {
-      "type": "label",
-      "label": "Hurley (Deluxe) {Japan EICP-1430}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Hurley [24bit FLAC] 3.19.19 Sibilance",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Everything Will Be Alright In The End (2014)"
-    },
-    {
-      "type": "label",
-      "label": "Everything Will Be Alright In The End (UK Promo CD)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Everything Will Be Alright In The End (US Republic B0021619-02)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Everything Will Be Alright In The End [24bit FLAC] 3.19.19",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Everything Will Be Alright In The End (24-96 HDtracks)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "White Album (2016)"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Weezer (The White Album) [24bit FLAC 3.12.19]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - White Album (2016) (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Weezer [White Album - Deluxe Edition] (2016) [FLAC 24-96]",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Weezer {Japan WPCR-17591}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Pacific Daydream (2017)"
-    },
-    {
-      "type": "label",
-      "label": "Pacific Daydream {Japan WPCR-17867}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Pacific Daydream (2017) (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "The Black Album (2019)"
-    },
-    {
-      "type": "label",
-      "label": "Weezer (Black Album) [WEB FLAC]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer (The Black Album) [24-96 Vinyl Rip]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "The Teal Album (2019)"
-    },
-    {
-      "type": "label",
-      "label": "Weezer (The Teal Album) (2019) [Vinyl-FLAC-24-192] {587378-1}",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer (The Teal Album) [WEB FLAC]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer (Teal Album) (2019) (24/44.1)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "OK Human (2021)"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - OK Human [FLAC 24-192]",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - OK Human [FLAC 16/44.1kHz]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Van Weezer (2021)"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Van Weezer (2021 Master)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Van Weezer (2021)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "SZNZ (2022)"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - SZNZ Summer (2022) (24/88.2)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - SZNZ Spring (2022) (24/96)",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "label",
-      "label": "[Soundtracks & Compilations]"
-    },
-    {
-      "type": "label",
-      "label": "Weezer Ultra Hits Website",
-      "format": "MP3"
-    },
-    {
-      "type": "label",
-      "label": "The Demos (Bootleg)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Random",
-      "format": "FLAC + M4A"
-    },
-    {
-      "type": "label",
-      "label": "2001 Studio Demos (Bootleg)",
-      "format": "MP3"
-    },
-    {
-      "type": "label",
-      "label": "[Artists Covering Weezer]"
-    },
-    {
-      "type": "label",
-      "label": "Richard! - Disneygreen",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Richard! - Somebody's Daydream",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "The 8-bit Album (2016)",
-      "format": "MP3"
-    },
-    {
-      "type": "label",
-      "label": "The Second 8-bit Album (2016)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "VA - Rock Music - A Tribute To Weezer [2002 - D&D006]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Various Artists - across the sea a tribute to weezer [JAPANESE]",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Vitamin String Quartet - Come on and Kick Me! the String Tribute to Weezer",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Vitamin String Quartet - Vitamin String Quartet Performs Weezer's Pinkerton",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[Weezer Covering Others]"
-    },
-    {
-      "type": "label",
-      "label": "Worry Rock",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Rosanna",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Just What I Needed",
-      "format": "MP3"
-    },
-    {
-      "type": "label",
-      "label": "Africa",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[Stems]"
-    },
-    {
-      "type": "label",
-      "label": "(2001) Hash Pipe Enhanced CD Bonus Content"
-    },
-    {
-      "type": "label",
-      "label": "(2002) Maladroit Enhanced CD Bonus Content"
-    },
-    {
-      "type": "label",
-      "label": "(2005) Make Believe Enhanced CD Bonus Content [Requires Quicktime]"
-    },
-    {
-      "type": "label",
-      "label": "(2008) Music Video Promo PAL DVD"
-    },
-    {
-      "type": "label",
-      "label": "AJR Ft. Rivers Cuomo - Sober Up"
-    },
-    {
-      "type": "label",
-      "label": "RAC ft. Rivers Cuomo - I Still Wanna Know"
-    },
-    {
-      "type": "label",
-      "label": "Rivers Cuomo - My Brain is Working Overtime"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - (If You're Wondering If I Want You To) I Want You To"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Back To The Shack"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Beverly Hills"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Buddy Holly"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Dope Nose"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Dreamin'"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - El Scorcho"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Everybody Get Dangerous"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Hash Pipe"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Island in the Sun"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - King of the World"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Let It All Hang Out"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Love Is The Answer"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - My Name Is Jonas"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Perfect Situation"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Pork and Beans"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Say It Ain't So"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Thank God For Girls"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - The Greatest Man That Ever Lived"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Troublemaker"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Undone - The Sweater Song"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Why Bother"
-    },
-    {
-      "type": "label",
-      "label": "[Music Videos]"
-    },
-    {
-      "type": "label",
-      "label": "(If You're Wondering If I Want You To) I Want You To",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Back To The Shack",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Beverly Hills",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Blast Off!",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Buddy Holly",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Do You Wanna Get High",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Dope Nose",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "El Scorcho (Director's Cut)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Go Away",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Hash Pipe",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "I'm Your Daddy",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Island In The Sun (Version 1)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Island In The Sun (Version 2)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Keep Fishin'",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "King Of The World",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "L.A. Girlz",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Lover In The Snow",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Memories",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "My Brain Is Working Overtime",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Perfect Situation",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Photograph",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Pork and Beans",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Say It Ain't So",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Thank God For Girls (Version 1)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Thank God For Girls (Version 2)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "The Good Life",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Troublemaker",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Undone (The Sweater Song)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "We Are All on Drugs",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "You Might Think",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "[CyanFire Archive]"
-    },
-    {
-      "type": "label",
-      "label": "Rivers Cuomo - Blast Off!",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Rivers Cuomo - Lover In The Snow",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Rivers Cuomo - My Brain Is Working Overtime",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Rivers Cuomo - Two Broken Hearts",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - (If You're Wondering If I Want You To) I Want You To",
-      "format": "VOB"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Africa",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - All My Friends Are Insects",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Back To The Shack",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Buddy Holly (Version 1)",
-      "format": "VOB"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Buddy Holly (Version 2)",
-      "format": "VOB"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Buddy Holly (Version 3)",
-      "format": "VOB"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - California Kids",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Can't Knock The Hustle",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - El Scorcho",
-      "format": "MPG"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Feels Like Summer (Roses N' Weezer Version)",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Feels Like Summer",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Go Away",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Hang On",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - High As A Kite",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - I Love The USA",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - I'm Your Daddy (Version 1)",
-      "format": "VOB"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - I'm Your Daddy (Version 2)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - King Of The World",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - L.A. Girlz",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Memories (Version 1)",
-      "format": "VOB"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Memories (Version 2)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Mexican Fender",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Paranoid Android",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Perfect Situation (Version 1)",
-      "format": "VOB"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Perfect Situation (Version 2)",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Pork And Beans (Version 2)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Represent",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Take On Me",
-      "format": "MKV"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Thank God For Girls",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - Troublemaker",
-      "format": "VOB"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - We Are All On Drugs (Version 1)",
-      "format": "M2V"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - We Are All On Drugs (Version 2)",
-      "format": "VOB"
-    },
-    {
-      "type": "label",
-      "label": "Weezer - You Might Think",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "[Extra]"
-    },
-    {
-      "type": "label",
-      "label": "(If You're Wondering If I Want You To) I Want You To (Making Of)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Brain Stew",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Buddy Holly (Live at AXE Music One Night Only)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Hash Pipe (Live at AXE Music One Night Only)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "In The Garage (Live)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Island In The Sun (Live at AXE Music One Night Only)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Kat Interviews Weezer at Weenie Roast 2016",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Memories (Live at AXE Music One Night Only)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "My Name Is Jonas (Live at AXE Music One Night Only)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Perfect Situation (Live at AXE Music One Night Only)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Perfect Situation (Live on the Honda Stage at the iHeart Radio Theater in LA)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Put Me Back Together (Go Show Extra)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Say It Ain't So (Live on the Honda Stage at the iHeart Radio Theater in LA)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Snuggie (2.00 Version)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Thank God For Girls (Live on the Honda Stage at the iHeart Radio Theater in LA)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "The British Are Coming (Audio)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Troublemaker (Live at AXE Music One Night Only)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Undone - The Sweater Song (Live at AXE Music One Night Only)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Undone - The Sweater Song (Live from Youtube Space LA)",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "Vevo GO Shows - I'm Your Daddy",
-      "format": "MP4"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL BOOTLEGS]"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-27-2009",
-      "year": 2009,
-      "month": 8,
-      "day": 27,
-      "city": "Camden",
-      "state": "NJ",
-      "location": "Camden, NJ",
-      "venue": "Susquehanna Bank Center",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-30-2009",
-      "year": 2009,
-      "month": 8,
-      "day": 30,
-      "city": "Columbia",
-      "state": "MD",
-      "location": "Columbia, MD",
-      "venue": "Merriweather Post Pavilion",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-4-2009",
-      "year": 2009,
-      "month": 9,
-      "day": 4,
-      "city": "Bonner Springs",
-      "state": "KS",
-      "location": "Bonner Springs, KS",
-      "venue": "Sandstone Amphitheatre",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-6-2009",
-      "year": 2009,
-      "month": 9,
-      "day": 6,
-      "city": "Greenwood Village",
-      "state": "CO",
-      "location": "Greenwood Village, CO",
-      "venue": "Fiddler's Green Amphitheatre",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-10-2009",
-      "year": 2009,
-      "month": 9,
-      "day": 10,
-      "city": "Auburn",
-      "state": "WA",
-      "location": "Auburn, WA",
-      "venue": "White River Amphitheatre",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-12-2009",
-      "year": 2009,
-      "month": 9,
-      "day": 12,
-      "city": "Wheatland",
-      "state": "CA",
-      "location": "Wheatland, CA",
-      "venue": "Sleep Train Amphitheatre",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-16-2009",
-      "year": 2009,
-      "month": 9,
-      "day": 16,
-      "city": "Chula Vista",
-      "state": "CA",
-      "location": "Chula Vista, CA",
-      "venue": "Cricket Wireless Amphitheatre",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-17-2009",
-      "year": 2009,
-      "month": 9,
-      "day": 17,
-      "city": "Irvine",
-      "state": "CA",
-      "location": "Irvine, CA",
-      "venue": "Verizon Wireless Amphitheatre",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-24-2009",
-      "year": 2009,
-      "month": 10,
-      "day": 24,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Hollywood Palladium",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-1-2009",
-      "year": 2009,
-      "month": 12,
-      "day": 1,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Aragon Ballroom",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-3-2009",
-      "year": 2009,
-      "month": 12,
-      "day": 3,
-      "city": "Milwaukee",
-      "state": "WI",
-      "location": "Milwaukee, WI",
-      "venue": "Eagle's Ballroom",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-5-2009",
-      "year": 2009,
-      "month": 12,
-      "day": 5,
-      "city": "Toronto",
-      "state": "Ontario",
-      "location": "Toronto, Ontario",
-      "venue": "Air Canada Centre",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-20-2010",
-      "year": 2010,
-      "month": 1,
-      "day": 20,
-      "city": "Tallahassee",
-      "state": "FL",
-      "location": "Tallahassee, FL",
-      "venue": "Tallahassee-Leon City Civic Center",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-17-2010",
-      "year": 2010,
-      "month": 12,
-      "day": 17,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Roseland Ballroom",
-      "notes": "Night 1 \u00b7 Blue Album",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "12-18-2010",
-      "year": 2010,
-      "month": 12,
-      "day": 18,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Roseland Ballroom",
-      "notes": "Night 2 \u00b7 Pinkerton Album",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-7-2011",
-      "year": 2011,
-      "month": 1,
-      "day": 7,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Aragon Ballroom",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-8-2011",
-      "year": 2011,
-      "month": 1,
-      "day": 8,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Aragon Ballroom",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-21-2011",
-      "year": 2011,
-      "month": 1,
-      "day": 21,
-      "city": "Las Vegas",
-      "state": "NV",
-      "location": "Las Vegas, NV",
-      "venue": "The Joint at Hard Rock Hotel",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-6-2011",
-      "year": 2011,
-      "month": 6,
-      "day": 6,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Stubb's BBQ",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-7-2011",
-      "year": 2011,
-      "month": 6,
-      "day": 7,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Stubb's BBQ",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-1-2011",
-      "year": 2011,
-      "month": 7,
-      "day": 1,
-      "city": "Toronto",
-      "state": "Ontario",
-      "location": "Toronto, Ontario",
-      "venue": "Downsview Park",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-13-2011",
-      "year": 2011,
-      "month": 7,
-      "day": 13,
-      "city": "Tokyo",
-      "state": "Japan",
-      "location": "Tokyo, Japan",
-      "venue": "Zepp Tokyo",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-16-2011",
-      "year": 2011,
-      "month": 7,
-      "day": 16,
-      "city": "Yokohama",
-      "state": "Japan",
-      "location": "Yokohama, Japan",
-      "venue": "Yokohama Stadium",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-4-2011",
-      "year": 2011,
-      "month": 8,
-      "day": 4,
-      "city": "Costa Mesa",
-      "state": "CA",
-      "location": "Costa Mesa, CA",
-      "venue": "Pacific Amphitheatre",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-5-2011",
-      "year": 2011,
-      "month": 8,
-      "day": 5,
-      "city": "Las Vegas",
-      "state": "NV",
-      "location": "Las Vegas, NV",
-      "venue": "Red Rock Hotel and Casino",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-6-2011",
-      "year": 2011,
-      "month": 8,
-      "day": 6,
-      "city": "Del Mar",
-      "state": "CA",
-      "location": "Del Mar, CA",
-      "venue": "Del Mar Fairgrounds",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-19-2011",
-      "year": 2011,
-      "month": 8,
-      "day": 19,
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "WaMu Theater",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-11-2011",
-      "year": 2011,
-      "month": 9,
-      "day": 11,
-      "city": "Dana Point",
-      "state": "CA",
-      "location": "Dana Point, CA",
-      "venue": "Doheny State Beach",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-4-2011",
-      "year": 2011,
-      "month": 10,
-      "day": 4,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "LA Convention Center",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-8-2011",
-      "year": 2011,
-      "month": 10,
-      "day": 8,
-      "city": "Thackerville",
-      "state": "OK",
-      "location": "Thackerville, OK",
-      "venue": "WinStar World Resort",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-9-2011",
-      "year": 2011,
-      "month": 10,
-      "day": 9,
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Congress Theater - Riot Fest 2011",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-14-2011",
-      "year": 2011,
-      "month": 10,
-      "day": 14,
-      "city": "Pensacola",
-      "state": "FL",
-      "location": "Pensacola, FL",
-      "venue": "Casino Beach",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-19-2012",
-      "year": 2012,
-      "month": 1,
-      "day": 19,
-      "city": "Miami",
-      "state": "FL",
-      "location": "Miami, FL",
-      "venue": "Carnival Destiny - Weezer Cruise",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-20-2012",
-      "year": 2012,
-      "month": 1,
-      "day": 20,
-      "city": "Miami",
-      "state": "FL",
-      "location": "Miami, FL",
-      "venue": "Carnival Destiny - Weezer Cruise",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-21-2012",
-      "year": 2012,
-      "month": 1,
-      "day": 21,
-      "city": "Miami",
-      "state": "FL",
-      "location": "Miami, FL",
-      "venue": "Carnival Destiny - Weezer Cruise",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "6-1-2012",
-      "year": 2012,
-      "month": 6,
-      "day": 1,
-      "city": "Atlantic City",
-      "state": "NJ",
-      "location": "Atlantic City, NJ",
-      "venue": "Borgata Events Center",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-27-2012",
-      "year": 2012,
-      "month": 7,
-      "day": 27,
-      "city": "Hammond",
-      "state": "IN",
-      "location": "Hammond, IN",
-      "venue": "The Horseshoe Casino",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-29-2012",
-      "year": 2012,
-      "month": 7,
-      "day": 29,
-      "city": "Council Bluffs",
-      "state": "IA",
-      "location": "Council Bluffs, IA",
-      "venue": "Harrah's Stir Cove",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-14-2012",
-      "year": 2012,
-      "month": 9,
-      "day": 14,
-      "city": "Orillia",
-      "state": "Ontario",
-      "location": "Orillia, Ontario",
-      "venue": "Casino Rama",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-15-2012",
-      "year": 2012,
-      "month": 9,
-      "day": 15,
-      "city": "Baltimore",
-      "state": "MD",
-      "location": "Baltimore, MD",
-      "venue": "Harbor East Waterfront",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-29-2012",
-      "year": 2012,
-      "month": 9,
-      "day": 29,
-      "city": "Newark",
-      "state": "DE",
-      "location": "Newark, DE",
-      "venue": "Christiana Mall",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-9-2012",
-      "year": 2012,
-      "month": 10,
-      "day": 9,
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Bill Graham Civic Auditorium",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-10-2012",
-      "year": 2012,
-      "month": 10,
-      "day": 10,
-      "city": "Fresno",
-      "state": "CA",
-      "location": "Fresno, CA",
-      "venue": "Paul Paul Theater",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-12-2012",
-      "year": 2012,
-      "month": 10,
-      "day": 12,
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Paul Paul Theater",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-13-2012",
-      "year": 2012,
-      "month": 10,
-      "day": 13,
-      "city": "Valley Center",
-      "state": "CA",
-      "location": "Valley Center, CA",
-      "venue": "Harrah's Rincon Casino",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-9-2012",
-      "year": 2012,
-      "month": 11,
-      "day": 9,
-      "city": "St. Petersburg",
-      "state": "FL",
-      "location": "St. Petersburg, FL",
-      "venue": "Mahaffey Theater",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-10-2012",
-      "year": 2012,
-      "month": 11,
-      "day": 10,
-      "city": "Orlando",
-      "state": "FL",
-      "location": "Orlando, FL",
-      "venue": "Hard Rock Live",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
     }
   ]
 };

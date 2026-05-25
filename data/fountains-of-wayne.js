@@ -57,7 +57,7 @@ const ARTIST_DATA = {
       "venue": "Dingwalls",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 Unknown"
+      "notes": "DPA 4061 · Unknown"
     },
     {
       "year": 1999,
@@ -70,7 +70,7 @@ const ARTIST_DATA = {
       "venue": "Sam Goody",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa Clip-on>Sony MZ-R50 MD \u00b7 Kamenlitter"
+      "notes": "Aiwa Clip-on>Sony MZ-R50 MD · Kamenlitter"
     },
     {
       "year": 2002,
@@ -83,7 +83,7 @@ const ARTIST_DATA = {
       "venue": "The Shelter",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Mitaper78"
+      "notes": "CSB · Mitaper78"
     },
     {
       "year": 2002,
@@ -96,7 +96,7 @@ const ARTIST_DATA = {
       "venue": "Double Door",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Aadam Jacobs"
+      "notes": "Unknown · Aadam Jacobs"
     },
     {
       "year": 2002,
@@ -122,7 +122,7 @@ const ARTIST_DATA = {
       "venue": "Tower Records",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Aadam Jacobs"
+      "notes": "Unknown · Aadam Jacobs"
     },
     {
       "year": 2003,
@@ -161,7 +161,7 @@ const ARTIST_DATA = {
       "venue": "Metro",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Aadam Jacobs"
+      "notes": "Unknown · Aadam Jacobs"
     },
     {
       "year": 2003,
@@ -187,7 +187,7 @@ const ARTIST_DATA = {
       "venue": "Fillmore",
       "version": "AUD (48k)",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 ted mattes"
+      "notes": "Schoeps MK4 · ted mattes"
     },
     {
       "year": 2003,
@@ -213,7 +213,7 @@ const ARTIST_DATA = {
       "venue": "Vic Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Aadam Jacobs"
+      "notes": "Unknown · Aadam Jacobs"
     },
     {
       "year": 2004,
@@ -252,7 +252,7 @@ const ARTIST_DATA = {
       "venue": "Avalon",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Jason Adler"
+      "notes": "Sony ECM-717 · Jason Adler"
     },
     {
       "year": 2004,
@@ -265,7 +265,7 @@ const ARTIST_DATA = {
       "venue": "Taste of Randolph",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Aadams Jacobs"
+      "notes": "Unknown · Aadams Jacobs"
     },
     {
       "year": 2004,
@@ -304,7 +304,7 @@ const ARTIST_DATA = {
       "venue": "Copley Square",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sp-tfb-2s \u00b7 Falcomadol"
+      "notes": "Sp-tfb-2s · Falcomadol"
     },
     {
       "year": 2007,
@@ -317,7 +317,7 @@ const ARTIST_DATA = {
       "venue": "First Avenue",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Sony ECM-DS70P \u00b7 Unknown"
+      "notes": "M · Sony ECM-DS70P · Unknown"
     },
     {
       "year": 2007,
@@ -369,7 +369,7 @@ const ARTIST_DATA = {
       "venue": "Copely Square Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-20 \u00b7 Unknown"
+      "notes": "SP-CMC-20 · Unknown"
     },
     {
       "year": 2009,
@@ -395,7 +395,7 @@ const ARTIST_DATA = {
       "venue": "Rams Head Tavern",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 Kubacheck"
+      "notes": "DPA 4061 · Kubacheck"
     },
     {
       "year": 2009,
@@ -408,7 +408,7 @@ const ARTIST_DATA = {
       "venue": "Maxwell's",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4021 \u00b7 Scott Bernstein"
+      "notes": "DPA 4021 · Scott Bernstein"
     },
     {
       "year": 2009,
@@ -447,7 +447,7 @@ const ARTIST_DATA = {
       "venue": "HSB10 - Towers of Gold Stage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4023 \u00b7 Jean Lerond"
+      "notes": "DPA 4023 · Jean Lerond"
     },
     {
       "year": 2010,
@@ -460,7 +460,7 @@ const ARTIST_DATA = {
       "venue": "HSB10 - Towers of Gold Stage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "MK4 \u00b7 Daspyknows"
+      "notes": "MK4 · Daspyknows"
     },
     {
       "year": 2011,
@@ -473,7 +473,7 @@ const ARTIST_DATA = {
       "venue": "Troubador",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Edirol R-09hr \u00b7 Scooter123"
+      "notes": "Edirol R-09hr · Scooter123"
     },
     {
       "year": 2012,
@@ -486,7 +486,7 @@ const ARTIST_DATA = {
       "venue": "The Double Door",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-14s \u00b7 Brian Emerick"
+      "notes": "Ca-14s · Brian Emerick"
     },
     {
       "year": 2012,
@@ -499,7 +499,7 @@ const ARTIST_DATA = {
       "venue": "Cat's Cradle - Yep Roc 15th Anniversary - Night 2",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Cemc6-ck4 \u00b7 Unknown"
+      "notes": "Cemc6-ck4 · Unknown"
     }
   ],
   "misc": [
@@ -518,140 +518,6 @@ const ARTIST_DATA = {
       "label": "Fountains of Wayne - No Better Place - Live in Chicago DVD (2009)",
       "version": "Official Release",
       "format": "MP3"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL RELEASES]"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Fountains of Wayne {US 92725-2} (1996)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Fountains of Wayne {Europe 7567-92725-2} (1996) [FLAC]",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Fountains of Wayne {Japan AMCY-2143} (1997)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Utopia Parkway {Atlantic 83177-2} (1999)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Utopia Parkway {Japan AMCY-7030} (1999)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Welcome Interstate Managers {7243 5 90875 2 8} (2003)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Welcome Interstate Managers {Canada 7243 5 84839 2 5} (2003)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Welcome Interstate Managers {Japan VJCP-68513} (2003)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Traffic and Weather {Canada Virgin EMI 0946 3 74420 2 9} (2007)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Traffic and Weather (Japan Tour Edition)  {Virgin TOCP-66712} (2007)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Traffic and Weather {Japan Virgin TOCP-66656} (2007)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains Of Wayne - Out-Of-State Plates {Virgin 0946 3 30196 2 1} (2005)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Sky Full Of Holes {YEP 2247} (2011)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[SINGLES]"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Sink to the Bottom (CDS) {7567-95612-2} (1996)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Radiation Vibe {7567-95626-2} (1996)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains Of Wayne - Survival Car {AT0004CD} (1997)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Barbara H. {AT0016CD} (1997)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - I Want an Alien for Christmas {AT0020CD} (1997)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Troubled Times (AT0074CD} (1999)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains of Wayne - Stacy's Mom {VSCDX1860} (2004)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Fountains Of Wayne - Stacy's Mom {UK 0724354754425} (2004)",
-      "version": "Official Release",
-      "format": "FLAC"
     }
   ]
 };

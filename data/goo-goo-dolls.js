@@ -190,7 +190,7 @@ const ARTIST_DATA = {
       "venue": "The Grove",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 jesse mcalister"
+      "notes": "Schoeps MK4 · jesse mcalister"
     },
     {
       "year": 2018,
@@ -229,7 +229,7 @@ const ARTIST_DATA = {
       "venue": "Shea's Theater",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "AT831s \u00b7 binko"
+      "notes": "AT831s · binko"
     },
     {
       "year": 2019,
@@ -268,7 +268,7 @@ const ARTIST_DATA = {
       "venue": "Rose Music Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CA-14 \u00b7 charles dewey cole"
+      "notes": "CA-14 · charles dewey cole"
     },
     {
       "year": 2022,
@@ -281,7 +281,7 @@ const ARTIST_DATA = {
       "venue": "Frost Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 loughney"
+      "notes": "SP-CMC-4U · loughney"
     },
     {
       "year": 2024,
@@ -294,7 +294,7 @@ const ARTIST_DATA = {
       "venue": "Thunder Valley",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "IEM+Tascam DR-2D \u00b7 hoserama"
+      "notes": "IEM+Tascam DR-2D · hoserama"
     },
     {
       "year": 2024,
@@ -320,7 +320,7 @@ const ARTIST_DATA = {
       "venue": "Pabst Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CA-14 \u00b7 Unknown"
+      "notes": "CA-14 · Unknown"
     },
     {
       "year": 2025,
@@ -346,7 +346,7 @@ const ARTIST_DATA = {
       "venue": "Budweiser Stage (M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H1n \u00b7 bowlingron"
+      "notes": "Zoom H1n · bowlingron"
     }
   ],
   "misc": [
@@ -365,29 +365,6 @@ const ARTIST_DATA = {
       "type": "release",
       "label": "Goo Goo Dolls - Gaa Gaa {D2P 009} (1996)",
       "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL RELEASES]"
-    },
-    {
-      "type": "label",
-      "label": "[SINGLES]"
-    },
-    {
-      "type": "label",
-      "label": "1995 Goo Goo Dolls - Name (CDS) {W0333CD} (1995)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "1995 Goo Goo Dolls - Only One (CDS) {W0293CD} (1995)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "2000 Goo Goo Dolls - Broadway (CDS) {D2089} (2000)",
       "format": "FLAC"
     }
   ]

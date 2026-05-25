@@ -404,7 +404,7 @@ const ARTIST_DATA = {
       "venue": "Nassau Coliseum",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Ukj69"
+      "notes": "Unknown · Ukj69"
     },
     {
       "year": 1996,
@@ -703,7 +703,7 @@ const ARTIST_DATA = {
       "venue": "Torhout Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "MKE-2002 \u00b7 Ms"
+      "notes": "MKE-2002 · Ms"
     },
     {
       "year": 1997,
@@ -1028,7 +1028,7 @@ const ARTIST_DATA = {
       "venue": "Melbourne Showgrounds",
       "version": "AUD #1",
       "format": "FLAC",
-      "notes": "Sony TCD-D100 \u00b7 Unknown"
+      "notes": "Sony TCD-D100 · Unknown"
     },
     {
       "year": 2002,
@@ -1080,7 +1080,7 @@ const ARTIST_DATA = {
       "venue": "Waikato Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Kiwitaper"
+      "notes": "Sony ECM-717 · Kiwitaper"
     },
     {
       "year": 2003,
@@ -1093,7 +1093,7 @@ const ARTIST_DATA = {
       "venue": "Kool Haus",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sennheiser MKE-2002 \u00b7 Ms"
+      "notes": "Sennheiser MKE-2002 · Ms"
     },
     {
       "year": 2003,
@@ -1145,7 +1145,7 @@ const ARTIST_DATA = {
       "venue": "The Independent",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sp-bmc-2 \u00b7 Edmann"
+      "notes": "Sp-bmc-2 · Edmann"
     },
     {
       "year": 2007,
@@ -1158,7 +1158,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060 \u00b7 Live2cd"
+      "notes": "DPA 4060 · Live2cd"
     },
     {
       "year": 2007,
@@ -1171,7 +1171,7 @@ const ARTIST_DATA = {
       "venue": "The Music Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "HEB DPA 4060 \u00b7 Charles Dewey Cole"
+      "notes": "HEB DPA 4060 · Charles Dewey Cole"
     }
   ],
   "misc": [
@@ -1206,140 +1206,6 @@ const ARTIST_DATA = {
       "type": "label",
       "label": "Silverchair - The Creation Of Diorama (2002)",
       "format": "AVI"
-    },
-    {
-      "type": "label",
-      "label": "[SINGLES]"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - Tomorrow EP {MATTCD001} (1994)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - Shade {MATTCD014} (1995)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - Pure Massacre {MATTCD005} (1995)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - Israel's Son {MATTCD012} (1995) Australia",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - Ana's Song {MATTCD086} Australia (1999)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - Anthem For The Year 2000 {EPC 666836 2} EU (1999)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - Ana's Song (Open Fire) {667345 5} (1999)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - Miss You Love {MATTCD091}  (1999) Australia",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - Paint Pastel Princess {SAMP2174} Australia (1999)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - Without You {elevenCD9} (2002)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - The Greastest View {elevenCD6} (2002)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - After All These Years {elevenCDPRO13} (2002)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - Luv Your Life {ELEVENCD10} (2002)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - Across The Night {elevencd15} (2003)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - Straight Lines {ELEVENCD62} (2007)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - If You Keep Losing Sleep {ELEVENCD76} (2007)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL RELEASES]"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - The Freak Box {MATTCD064} (1997)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - Neon Ballroom (Limited Edition) {493309 9} (1999)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - The Best Of, Volume 1 (Limited Edition) {2-501300} (2000)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - The Diorama Box (Limited Edition Boxset) {ELEVENCD14} (2002)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Silverchair - Live From Faraway Stables {ELEVENCD19} (2003)",
-      "version": "Official Release",
-      "format": "FLAC"
     }
   ]
 };

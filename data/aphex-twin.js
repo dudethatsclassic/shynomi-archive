@@ -132,7 +132,7 @@ const ARTIST_DATA = {
       "venue": "Royce Hall, UCLA - Large Sports Hall",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "Sonics D8 + Csb \u00b7 Unknown"
+      "notes": "Sonics D8 + Csb · Unknown"
     },
     {
       "year": 2005,
@@ -158,7 +158,7 @@ const ARTIST_DATA = {
       "venue": "Coachella Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Rdj - Csbs \u00b7 Unknown"
+      "notes": "Rdj - Csbs · Unknown"
     },
     {
       "year": 2009,
@@ -210,7 +210,7 @@ const ARTIST_DATA = {
       "venue": "Coachella Festival - Mojave Tent",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Unknown"
+      "notes": "SP-CMC-8 · Unknown"
     },
     {
       "year": 2019,
@@ -246,17 +246,8 @@ const ARTIST_DATA = {
       "format": "FLAC"
     },
     {
-      "type": "show",
-      "dateStr": "XX-XX-1995",
-      "year": 1995,
-      "month": null,
-      "day": null,
-      "city": "Analogue Bubblebath 5",
-      "state": "",
-      "location": "Analogue Bubblebath 5",
-      "venue": "",
-      "notes": "",
-      "version": "",
+      "type": "label",
+      "label": "XX-XX-1995 / Analogue Bubblebath 5",
       "format": "FLAC"
     },
     {

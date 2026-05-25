@@ -279,7 +279,7 @@ const ARTIST_DATA = {
       "venue": "Viceroy Park",
       "version": "AUD",
       "format": "",
-      "notes": "M1 Audio \u00b7 dream remaster"
+      "notes": "M1 Audio · dream remaster"
     },
     {
       "year": 1981,
@@ -526,7 +526,7 @@ const ARTIST_DATA = {
       "venue": "UNM's Student Union Ballroom - ANA(M)",
       "version": "AUD",
       "format": "",
-      "notes": "Aiwa CM \u00b7 langdon"
+      "notes": "Aiwa CM · langdon"
     },
     {
       "year": 1982,
@@ -864,7 +864,7 @@ const ARTIST_DATA = {
       "venue": "The Ritz",
       "version": "AUD",
       "format": "",
-      "notes": "unk \u00b7 harwilmer"
+      "notes": "unk · harwilmer"
     },
     {
       "year": 1983,
@@ -1059,7 +1059,7 @@ const ARTIST_DATA = {
       "venue": "Toad's Place",
       "version": "AUD",
       "format": "",
-      "notes": "Sony TCS-310 \u00b7 Remaster"
+      "notes": "Sony TCS-310 · Remaster"
     },
     {
       "year": 1983,
@@ -1293,7 +1293,7 @@ const ARTIST_DATA = {
       "venue": "Warner Beverly Hills Theater",
       "version": "AUD",
       "format": "",
-      "notes": "unk \u00b7 harwilmer"
+      "notes": "unk · harwilmer"
     },
     {
       "year": 1983,
@@ -1657,7 +1657,7 @@ const ARTIST_DATA = {
       "venue": "Playpen - ANA",
       "version": "AUD",
       "format": "",
-      "notes": "M \u00b7 Unknown"
+      "notes": "M · Unknown"
     },
     {
       "year": 1984,
@@ -1683,7 +1683,7 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theater - ANA",
       "version": "AUD",
       "format": "",
-      "notes": "M \u00b7 harwilmer"
+      "notes": "M · harwilmer"
     },
     {
       "year": 1984,
@@ -1787,7 +1787,7 @@ const ARTIST_DATA = {
       "venue": "Park Center",
       "version": "AUD",
       "format": "",
-      "notes": "unk \u00b7 harwilmer"
+      "notes": "unk · harwilmer"
     },
     {
       "year": 1984,
@@ -1826,7 +1826,7 @@ const ARTIST_DATA = {
       "venue": "Greek Theater",
       "version": "AUD",
       "format": "",
-      "notes": "unk \u00b7 harwilmer"
+      "notes": "unk · harwilmer"
     },
     {
       "year": 1984,
@@ -2034,7 +2034,7 @@ const ARTIST_DATA = {
       "venue": "Veterans Memorial Auditorium",
       "version": "AUD",
       "format": "",
-      "notes": "Nak 300s \u00b7 tapetyrant"
+      "notes": "Nak 300s · tapetyrant"
     },
     {
       "year": 1984,
@@ -2281,7 +2281,7 @@ const ARTIST_DATA = {
       "venue": "Binghamton University - West Gym",
       "version": "AUD",
       "format": "",
-      "notes": "jeff ferro upgrade series vol. 12 \u00b7 eckythump remaster"
+      "notes": "jeff ferro upgrade series vol. 12 · eckythump remaster"
     },
     {
       "year": 1985,
@@ -2463,7 +2463,7 @@ const ARTIST_DATA = {
       "venue": "Workroom - Rootes Hall - The University Of Warwick - ANA(M)",
       "version": "AUD",
       "format": "",
-      "notes": "unk \u00b7 jems transfer"
+      "notes": "unk · jems transfer"
     },
     {
       "year": 1985,
@@ -2554,7 +2554,7 @@ const ARTIST_DATA = {
       "venue": "Greek Theater (AKG C-33e)",
       "version": "AUD",
       "format": "",
-      "notes": "unk \u00b7 slipkid68"
+      "notes": "unk · slipkid68"
     },
     {
       "year": 1985,
@@ -2619,7 +2619,7 @@ const ARTIST_DATA = {
       "venue": "Cullen Auditorium - ANA",
       "version": "AUD",
       "format": "",
-      "notes": "x \u00b7 Unknown"
+      "notes": "x · Unknown"
     },
     {
       "year": 1985,
@@ -2684,7 +2684,7 @@ const ARTIST_DATA = {
       "venue": "Auditorium Theater",
       "version": "AUD",
       "format": "",
-      "notes": "Aiwa CM-70 \u00b7 harwilmer"
+      "notes": "Aiwa CM-70 · harwilmer"
     },
     {
       "year": 1985,
@@ -2749,7 +2749,7 @@ const ARTIST_DATA = {
       "venue": "Case Athletic Center",
       "version": "AUD",
       "format": "",
-      "notes": "Aiwa CM-30 \u00b7 harwilmer"
+      "notes": "Aiwa CM-30 · harwilmer"
     },
     {
       "year": 1985,
@@ -2788,7 +2788,7 @@ const ARTIST_DATA = {
       "venue": "The Agora",
       "version": "AUD",
       "format": "",
-      "notes": "Sony WMD-6C \u00b7 harwilmer"
+      "notes": "Sony WMD-6C · harwilmer"
     },
     {
       "year": 1985,
@@ -2853,7 +2853,7 @@ const ARTIST_DATA = {
       "venue": "Capitol Theater",
       "version": "AUD",
       "format": "",
-      "notes": "Aiwa CM-30 \u00b7 harwilmer"
+      "notes": "Aiwa CM-30 · harwilmer"
     },
     {
       "year": 1985,
@@ -3009,7 +3009,7 @@ const ARTIST_DATA = {
       "venue": "Aula der Universitat - ANA(M)",
       "version": "AUD",
       "format": "",
-      "notes": "Sony TCS-430 \u00b7 hanwaker transfer"
+      "notes": "Sony TCS-430 · hanwaker transfer"
     },
     {
       "year": 1985,
@@ -3113,7 +3113,7 @@ const ARTIST_DATA = {
       "venue": "Hammersmith Palais",
       "version": "AUD",
       "format": "",
-      "notes": "JEMS Master & 2021 transfer and remaster \u00b7 Sony ECM 939"
+      "notes": "JEMS Master & 2021 transfer and remaster · Sony ECM 939"
     },
     {
       "year": 1985,
@@ -3360,7 +3360,7 @@ const ARTIST_DATA = {
       "venue": "Indiana University",
       "version": "AUD",
       "format": "",
-      "notes": "Jeff Ferro Upgrade Series Vol. 4 \u00b7 2021 remaster"
+      "notes": "Jeff Ferro Upgrade Series Vol. 4 · 2021 remaster"
     },
     {
       "year": 1986,
@@ -3438,7 +3438,7 @@ const ARTIST_DATA = {
       "venue": "County Bowl - ANA(M)",
       "version": "AUD",
       "format": "",
-      "notes": "ECM-939 \u00b7 jems"
+      "notes": "ECM-939 · jems"
     },
     {
       "year": 1986,
@@ -3763,7 +3763,7 @@ const ARTIST_DATA = {
       "venue": "Wang Center",
       "version": "AUD",
       "format": "",
-      "notes": "ECM-111 \u00b7 Unknown"
+      "notes": "ECM-111 · Unknown"
     },
     {
       "year": 1986,
@@ -4153,7 +4153,7 @@ const ARTIST_DATA = {
       "venue": "Performing Arts Center",
       "version": "AUD",
       "format": "",
-      "notes": "Aiwa CM-70 \u00b7 harwilmer"
+      "notes": "Aiwa CM-70 · harwilmer"
     },
     {
       "year": 1987,
@@ -4439,7 +4439,7 @@ const ARTIST_DATA = {
       "venue": "Thebarton Theatre - AUD",
       "version": "AUD",
       "format": "",
-      "notes": "M \u00b7 choc e-claire rework"
+      "notes": "M · choc e-claire rework"
     },
     {
       "year": 1989,
@@ -4556,7 +4556,7 @@ const ARTIST_DATA = {
       "venue": "Activity Center - Arizon State University - ANA(M)",
       "version": "AUD",
       "format": "",
-      "notes": "Nak 300s \u00b7 jems"
+      "notes": "Nak 300s · jems"
     },
     {
       "year": 1989,
@@ -4582,7 +4582,7 @@ const ARTIST_DATA = {
       "venue": "Centrum",
       "version": "AUD",
       "format": "",
-      "notes": "speed fixed \u00b7 Unknown"
+      "notes": "speed fixed · Unknown"
     },
     {
       "year": 1989,
@@ -4595,7 +4595,7 @@ const ARTIST_DATA = {
       "venue": "Centrum- ANA(M) Beyer M-69s)",
       "version": "AUD",
       "format": "",
-      "notes": "M \u00b7 klh"
+      "notes": "M · klh"
     },
     {
       "year": 1989,
@@ -4647,7 +4647,7 @@ const ARTIST_DATA = {
       "venue": "Boston Garden - ANA(M)",
       "version": "AUD",
       "format": "",
-      "notes": "Sony D6 \u00b7 thomas lambert"
+      "notes": "Sony D6 · thomas lambert"
     },
     {
       "year": 1989,
@@ -4751,7 +4751,7 @@ const ARTIST_DATA = {
       "venue": "Phillipshalle",
       "version": "AUD",
       "format": "",
-      "notes": "Aiwa CM-30 \u00b7 bobfather master"
+      "notes": "Aiwa CM-30 · bobfather master"
     },
     {
       "year": 1989,
@@ -5609,7 +5609,7 @@ const ARTIST_DATA = {
       "venue": "Adelaide Entertainment Centre",
       "version": "AUD",
       "format": "",
-      "notes": "TCD-D8 \u00b7 slipkid master"
+      "notes": "TCD-D8 · slipkid master"
     },
     {
       "year": 1995,
@@ -5765,7 +5765,7 @@ const ARTIST_DATA = {
       "venue": "Roma Palaeur",
       "version": "AUD",
       "format": "",
-      "notes": "C90 \u00b7 Unknown"
+      "notes": "C90 · Unknown"
     },
     {
       "year": 1995,
@@ -6285,7 +6285,7 @@ const ARTIST_DATA = {
       "venue": "Alfred McAlpine Stadium",
       "version": "AUD",
       "format": "",
-      "notes": "SS-DSM6 \u00b7 soledriver"
+      "notes": "SS-DSM6 · soledriver"
     },
     {
       "year": 1995,
@@ -6610,7 +6610,7 @@ const ARTIST_DATA = {
       "venue": "Sports Arena - DAT(M)",
       "version": "AUD",
       "format": "",
-      "notes": "SS-DSM6 \u00b7 mh"
+      "notes": "SS-DSM6 · mh"
     },
     {
       "year": 1995,
@@ -7507,7 +7507,7 @@ const ARTIST_DATA = {
       "venue": "Key Arena - Groundwork 2001 Benefit",
       "version": "MIX",
       "format": "",
-      "notes": "2 Source Mix \u00b7 Unknown"
+      "notes": "2 Source Mix · Unknown"
     },
     {
       "year": 2001,
@@ -7559,7 +7559,7 @@ const ARTIST_DATA = {
       "venue": "Los 40 TV - VHS",
       "version": "TV",
       "format": "",
-      "notes": "M \u00b7 david"
+      "notes": "M · david"
     },
     {
       "year": 2001,
@@ -9977,7 +9977,7 @@ const ARTIST_DATA = {
       "venue": "Arena di Verona - MD(M) (Sony ECM717)",
       "version": "AUD",
       "format": "",
-      "notes": "mrdr \u00b7 MRDR Master Volume 180"
+      "notes": "mrdr · MRDR Master Volume 180"
     },
     {
       "year": 2008,
@@ -10433,18 +10433,9 @@ const ARTIST_DATA = {
       "version": "Vinyl"
     },
     {
-      "type": "show",
-      "dateStr": "XX-XX-1984",
-      "year": 1984,
-      "month": null,
-      "day": null,
-      "city": "Little America",
-      "state": "",
-      "location": "Little America",
-      "venue": "",
-      "notes": "",
-      "version": "Silver CD",
-      "format": ""
+      "type": "release",
+      "label": "XX-XX-1984 / Little America",
+      "version": "Silver CD"
     },
     {
       "type": "label",
@@ -10567,18 +10558,8 @@ const ARTIST_DATA = {
       "label": "1988-1989 - Finest Worksongs Demos (Studio)"
     },
     {
-      "type": "show",
-      "dateStr": "XX-XX-1986",
-      "year": 1986,
-      "month": null,
-      "day": null,
-      "city": "Athens",
-      "state": "GA - Life's Rich Pageant & More [Demos]",
-      "location": "Athens, GA - Life's Rich Pageant & More [Demos]",
-      "venue": "",
-      "notes": "",
-      "version": "",
-      "format": ""
+      "type": "label",
+      "label": "XX-XX-1986 / Athens, GA - Life's Rich Pageant & More [Demos]"
     },
     {
       "type": "release",
@@ -10606,32 +10587,12 @@ const ARTIST_DATA = {
       "version": "SBD"
     },
     {
-      "type": "show",
-      "dateStr": "XX-XX-1988",
-      "year": 1988,
-      "month": null,
-      "day": null,
-      "city": "The Complete Green Demos (Upgraded)",
-      "state": "",
-      "location": "The Complete Green Demos (Upgraded)",
-      "venue": "",
-      "notes": "",
-      "version": "",
-      "format": ""
+      "type": "label",
+      "label": "XX-XX-1988 / The Complete Green Demos (Upgraded)"
     },
     {
-      "type": "show",
-      "dateStr": "XX-XX-1986",
-      "year": 1986,
-      "month": null,
-      "day": null,
-      "city": "Atlanta",
-      "state": "GA - John Keane Studios (Green Demos Upgrade)",
-      "location": "Atlanta, GA - John Keane Studios (Green Demos Upgrade)",
-      "venue": "",
-      "notes": "",
-      "version": "",
-      "format": ""
+      "type": "label",
+      "label": "XX-XX-1986 / Atlanta, GA - John Keane Studios (Green Demos Upgrade)"
     },
     {
       "type": "release",
@@ -10655,18 +10616,8 @@ const ARTIST_DATA = {
       "label": "Covering Them (PSCD-1260)"
     },
     {
-      "type": "show",
-      "dateStr": "2-17-1983",
-      "year": 1983,
-      "month": 2,
-      "day": 17,
-      "city": "Reflection Studio",
-      "state": "",
-      "location": "Reflection Studio",
-      "venue": "",
-      "notes": "",
-      "version": "",
-      "format": ""
+      "type": "label",
+      "label": "2-17-1983 / Reflection Studio"
     },
     {
       "type": "label",

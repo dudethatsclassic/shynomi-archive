@@ -71,7 +71,7 @@ const ARTIST_DATA = {
       "venue": "Glen Helen Blockbuster Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ss-dsm-6p \u00b7 Steve Hagar"
+      "notes": "Ss-dsm-6p · Steve Hagar"
     },
     {
       "year": 1994,
@@ -84,7 +84,7 @@ const ARTIST_DATA = {
       "venue": "Woodstock",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ss-dsm-6p \u00b7 Steve Hagar"
+      "notes": "Ss-dsm-6p · Steve Hagar"
     },
     {
       "year": 1994,
@@ -97,7 +97,7 @@ const ARTIST_DATA = {
       "venue": "Bicentennial Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TCM 5000EV \u00b7 Floridian"
+      "notes": "Sony TCM 5000EV · Floridian"
     },
     {
       "year": 1994,
@@ -266,7 +266,7 @@ const ARTIST_DATA = {
       "venue": "The Masquerade",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Live Showz"
+      "notes": "Unknown · Live Showz"
     },
     {
       "year": 2006,
@@ -305,7 +305,7 @@ const ARTIST_DATA = {
       "venue": "Webster Theatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DPA 4060 \u00b7 James Bonaiuto"
+      "notes": "DPA 4060 · James Bonaiuto"
     },
     {
       "year": 2006,
@@ -318,7 +318,7 @@ const ARTIST_DATA = {
       "venue": "Irving Plaza",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Ukj69"
+      "notes": "Sony ECM-717 · Ukj69"
     },
     {
       "year": 2006,
@@ -331,7 +331,7 @@ const ARTIST_DATA = {
       "venue": "Moore Square Park *Downtown Live",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM909 \u00b7 Genuine Space Jewel"
+      "notes": "ECM909 · Genuine Space Jewel"
     },
     {
       "year": 2006,
@@ -344,7 +344,7 @@ const ARTIST_DATA = {
       "venue": "Music Farm",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Octava Mc012 \u00b7 Todd Trego"
+      "notes": "Octava Mc012 · Todd Trego"
     },
     {
       "year": 2006,
@@ -357,7 +357,7 @@ const ARTIST_DATA = {
       "venue": "Coca-Cola Roxy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Adk Tl \u00b7 Lee Geddy"
+      "notes": "Adk Tl · Lee Geddy"
     },
     {
       "year": 2006,
@@ -370,7 +370,7 @@ const ARTIST_DATA = {
       "venue": "Ridglea Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sc-bmc-12 \u00b7 Caddie"
+      "notes": "Sc-bmc-12 · Caddie"
     },
     {
       "year": 2006,
@@ -383,7 +383,7 @@ const ARTIST_DATA = {
       "venue": "Pop's",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sp-bmc-2 \u00b7 Cptncrash76"
+      "notes": "Sp-bmc-2 · Cptncrash76"
     },
     {
       "year": 2006,
@@ -396,7 +396,7 @@ const ARTIST_DATA = {
       "venue": "Roseland Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akg 463s \u00b7 Jcrab66"
+      "notes": "Akg 463s · Jcrab66"
     },
     {
       "year": 2007,
@@ -409,7 +409,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "version": "AUD",
       "format": "MP3",
-      "notes": "ECM-717 \u00b7 Kevdogg"
+      "notes": "ECM-717 · Kevdogg"
     },
     {
       "year": 2008,
@@ -422,7 +422,7 @@ const ARTIST_DATA = {
       "venue": "Headliners",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060 \u00b7 Live2cd"
+      "notes": "DPA 4060 · Live2cd"
     },
     {
       "year": 2008,
@@ -435,7 +435,7 @@ const ARTIST_DATA = {
       "venue": "Headwaters Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060 \u00b7 Charles Dewey Cole"
+      "notes": "DPA 4060 · Charles Dewey Cole"
     },
     {
       "year": 2008,
@@ -448,7 +448,7 @@ const ARTIST_DATA = {
       "venue": "Borders",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DSM6 \u00b7 Itwthstd"
+      "notes": "DSM6 · Itwthstd"
     },
     {
       "year": 2008,
@@ -461,7 +461,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM-717 \u00b7 Kevdogg"
+      "notes": "ECM-717 · Kevdogg"
     },
     {
       "year": 2008,
@@ -474,7 +474,7 @@ const ARTIST_DATA = {
       "venue": "Blondies",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060 \u00b7 Charles Dewey Cole"
+      "notes": "DPA 4060 · Charles Dewey Cole"
     },
     {
       "year": 2009,
@@ -487,7 +487,7 @@ const ARTIST_DATA = {
       "venue": "Neumos",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC4 \u00b7 Kris."
+      "notes": "SP-CMC4 · Kris."
     },
     {
       "year": 2009,
@@ -500,7 +500,7 @@ const ARTIST_DATA = {
       "venue": "Toad's Place",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4022 \u00b7 James Bonaiuto"
+      "notes": "DPA 4022 · James Bonaiuto"
     },
     {
       "year": 2009,
@@ -513,7 +513,7 @@ const ARTIST_DATA = {
       "venue": "Toad's Place",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DPA 4022 \u00b7 James Bonaiuto"
+      "notes": "DPA 4022 · James Bonaiuto"
     },
     {
       "year": 2009,
@@ -526,7 +526,7 @@ const ARTIST_DATA = {
       "venue": "Club Fever",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060 \u00b7 Charles Dewey Cole"
+      "notes": "DPA 4060 · Charles Dewey Cole"
     },
     {
       "year": 2009,
@@ -539,7 +539,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060 \u00b7 Charles Dewey Cole"
+      "notes": "DPA 4060 · Charles Dewey Cole"
     },
     {
       "year": 2009,
@@ -552,7 +552,7 @@ const ARTIST_DATA = {
       "venue": "Phoenix Plaza Amphitheatre - Arts, Beats, and Eats Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060 \u00b7 Charles Dewey Cole"
+      "notes": "DPA 4060 · Charles Dewey Cole"
     },
     {
       "year": 2010,
@@ -565,7 +565,7 @@ const ARTIST_DATA = {
       "venue": "Wildflower Festival - MetroPCS Stage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853 \u00b7 David Sell"
+      "notes": "AT853 · David Sell"
     },
     {
       "year": 2010,
@@ -578,7 +578,7 @@ const ARTIST_DATA = {
       "venue": "Ross County Fairgrounds",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060 \u00b7 Charles Dewey Cole"
+      "notes": "DPA 4060 · Charles Dewey Cole"
     },
     {
       "year": 2010,
@@ -591,7 +591,7 @@ const ARTIST_DATA = {
       "venue": "Military Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 Test For Echo"
+      "notes": "SP-CMC-2 · Test For Echo"
     },
     {
       "year": 2010,
@@ -604,7 +604,7 @@ const ARTIST_DATA = {
       "venue": "KSHE Pig Roast - Verizon Wireless Amphitheater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Cptncrash76"
+      "notes": "Sony ECM-717 · Cptncrash76"
     },
     {
       "year": 2011,
@@ -617,7 +617,7 @@ const ARTIST_DATA = {
       "venue": "Soldier's Memorial",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Sundeep"
+      "notes": "Sony ECM-717 · Sundeep"
     },
     {
       "year": 2011,
@@ -630,7 +630,7 @@ const ARTIST_DATA = {
       "venue": "Hard Rock Casino",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony PCM-D50 \u00b7 Unknown"
+      "notes": "Sony PCM-D50 · Unknown"
     },
     {
       "year": 2012,
@@ -643,7 +643,7 @@ const ARTIST_DATA = {
       "venue": "Broad Ripple Super Fest",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 Tst4eko"
+      "notes": "SP-CMC-2 · Tst4eko"
     },
     {
       "year": 2012,
@@ -656,7 +656,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "IEM",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Omaha Vike"
+      "notes": "Unknown · Omaha Vike"
     },
     {
       "year": 2012,
@@ -669,7 +669,7 @@ const ARTIST_DATA = {
       "venue": "Emerald Theater",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14 \u00b7 Live2cd"
+      "notes": "Ca-14 · Live2cd"
     },
     {
       "year": 2012,
@@ -682,7 +682,7 @@ const ARTIST_DATA = {
       "venue": "Bogart's",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14 \u00b7 Live2cd"
+      "notes": "Ca-14 · Live2cd"
     },
     {
       "year": 2012,
@@ -695,7 +695,7 @@ const ARTIST_DATA = {
       "venue": "Falls Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Alzeppelin"
+      "notes": "CSB · Alzeppelin"
     },
     {
       "year": 2012,
@@ -734,7 +734,7 @@ const ARTIST_DATA = {
       "venue": "The Cubby Bear",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "CSB \u00b7 Auger3d"
+      "notes": "CSB · Auger3d"
     },
     {
       "year": 2013,
@@ -747,7 +747,7 @@ const ARTIST_DATA = {
       "venue": "The Vouge Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 Tst4eko"
+      "notes": "SP-CMC-2 · Tst4eko"
     },
     {
       "year": 2013,
@@ -760,7 +760,7 @@ const ARTIST_DATA = {
       "venue": "St. Andrews Hall",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "HEB DPA4060 \u00b7 Live2cd"
+      "notes": "HEB DPA4060 · Live2cd"
     },
     {
       "year": 2013,
@@ -773,7 +773,7 @@ const ARTIST_DATA = {
       "venue": "District Bar and Grill",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14 \u00b7 Live2cd"
+      "notes": "Ca-14 · Live2cd"
     },
     {
       "year": 2013,
@@ -799,7 +799,7 @@ const ARTIST_DATA = {
       "venue": "McGuffy's House of Rock",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "HEB DPA 4060 \u00b7 Live2cd"
+      "notes": "HEB DPA 4060 · Live2cd"
     },
     {
       "year": 2013,
@@ -812,7 +812,7 @@ const ARTIST_DATA = {
       "venue": "The Castle Theater",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Kam Mc3 \u00b7 Dan Olker"
+      "notes": "Kam Mc3 · Dan Olker"
     },
     {
       "year": 2014,
@@ -825,7 +825,7 @@ const ARTIST_DATA = {
       "venue": "All Around Bar",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "HEB DPA 4060 \u00b7 Kevin Martin & Adam Curry \u00b7 Charles Dewey Cole"
+      "notes": "HEB DPA 4060 · Kevin Martin & Adam Curry · Charles Dewey Cole"
     },
     {
       "year": 2014,
@@ -838,7 +838,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Casino",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Kevin Martin & Adam Curry \u00b7 Ca-14s \u00b7 Charles Dewey Cole"
+      "notes": "Kevin Martin & Adam Curry · Ca-14s · Charles Dewey Cole"
     },
     {
       "year": 2015,
@@ -851,7 +851,7 @@ const ARTIST_DATA = {
       "venue": "A&R Music Bar",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DPA 4060 \u00b7 Kevin Martin & Adam Curry \u00b7 Charles Dewey Cole"
+      "notes": "DPA 4060 · Kevin Martin & Adam Curry · Charles Dewey Cole"
     },
     {
       "year": 2015,
@@ -864,7 +864,7 @@ const ARTIST_DATA = {
       "venue": "Flats East Bank",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "CSB \u00b7 Charles Dewey Cole"
+      "notes": "CSB · Charles Dewey Cole"
     },
     {
       "year": 2015,
@@ -877,7 +877,7 @@ const ARTIST_DATA = {
       "venue": "Mt. Airy Casino - Gypsies",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Livesoldier1"
+      "notes": "Unknown · Livesoldier1"
     },
     {
       "year": 2016,
@@ -890,7 +890,7 @@ const ARTIST_DATA = {
       "venue": "Jergel's",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "AT853s \u00b7 Charles Dewey Cole"
+      "notes": "AT853s · Charles Dewey Cole"
     },
     {
       "year": 2017,
@@ -903,7 +903,7 @@ const ARTIST_DATA = {
       "venue": "Music Box Supper Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-14 \u00b7 Charles Dewey Cole"
+      "notes": "Ca-14 · Charles Dewey Cole"
     },
     {
       "year": 2017,
@@ -916,7 +916,7 @@ const ARTIST_DATA = {
       "venue": "Narrows Center for the Arts",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8C \u00b7 Farve4"
+      "notes": "SP-CMC-8C · Farve4"
     },
     {
       "year": 2018,
@@ -929,7 +929,7 @@ const ARTIST_DATA = {
       "venue": "St. Andrews Hall",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "HEB DPA 4060 \u00b7 Charles Dewey Cole"
+      "notes": "HEB DPA 4060 · Charles Dewey Cole"
     },
     {
       "year": 2018,
@@ -942,7 +942,7 @@ const ARTIST_DATA = {
       "venue": "Hard Rock Rocksino",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14s \u00b7 Charles Dewey Cole"
+      "notes": "Ca-14s · Charles Dewey Cole"
     },
     {
       "year": 2018,
@@ -955,7 +955,7 @@ const ARTIST_DATA = {
       "venue": "Southern Park Mall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "HEB DPA 4060 \u00b7 Charles Dewey Cole"
+      "notes": "HEB DPA 4060 · Charles Dewey Cole"
     },
     {
       "year": 2018,
@@ -968,7 +968,7 @@ const ARTIST_DATA = {
       "venue": "The Meadows Racetrack and Casino",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14s \u00b7 Charles Dewey Cole"
+      "notes": "Ca-14s · Charles Dewey Cole"
     },
     {
       "year": 2018,
@@ -981,7 +981,7 @@ const ARTIST_DATA = {
       "venue": "Paramount Theater",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Akg Ck63 \u00b7 John Hermsen"
+      "notes": "Akg Ck63 · John Hermsen"
     },
     {
       "year": 2018,
@@ -994,7 +994,7 @@ const ARTIST_DATA = {
       "venue": "Paramount Theatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "AT853s \u00b7 Charles Dewey Cole"
+      "notes": "AT853s · Charles Dewey Cole"
     },
     {
       "year": 2018,
@@ -1007,7 +1007,7 @@ const ARTIST_DATA = {
       "venue": "Paramount Theatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "AT853s \u00b7 Charles Dewey Cole"
+      "notes": "AT853s · Charles Dewey Cole"
     },
     {
       "year": 2018,
@@ -1020,7 +1020,7 @@ const ARTIST_DATA = {
       "venue": "The Monarch",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11c \u00b7 Cptncrash76"
+      "notes": "Ca-11c · Cptncrash76"
     },
     {
       "year": 2018,
@@ -1033,7 +1033,7 @@ const ARTIST_DATA = {
       "venue": "BMI Indoor Speedway",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14s \u00b7 Charles Dewey Cole"
+      "notes": "Ca-14s · Charles Dewey Cole"
     },
     {
       "year": 2019,
@@ -1046,7 +1046,7 @@ const ARTIST_DATA = {
       "venue": "The Pageant",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akg P170 \u00b7 Cptncrash76"
+      "notes": "Akg P170 · Cptncrash76"
     },
     {
       "year": 2019,
@@ -1059,7 +1059,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "AT853 \u00b7 Charles Dewey Cole"
+      "notes": "AT853 · Charles Dewey Cole"
     },
     {
       "year": 2019,
@@ -1072,7 +1072,7 @@ const ARTIST_DATA = {
       "venue": "Hard Rock Casino",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14s \u00b7 Charles Dewey Cole"
+      "notes": "Ca-14s · Charles Dewey Cole"
     },
     {
       "year": 2019,
@@ -1085,7 +1085,7 @@ const ARTIST_DATA = {
       "venue": "The Bluestone",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14s \u00b7 Charles Dewey Cole"
+      "notes": "Ca-14s · Charles Dewey Cole"
     },
     {
       "year": 2019,
@@ -1098,7 +1098,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Gaming at Mahoning Valley Race Course",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14 \u00b7 Charles Dewey Cole"
+      "notes": "Ca-14 · Charles Dewey Cole"
     },
     {
       "year": 2019,
@@ -1111,7 +1111,7 @@ const ARTIST_DATA = {
       "venue": "Turner Ballroom",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4011 \u00b7 Analog4011"
+      "notes": "DPA 4011 · Analog4011"
     },
     {
       "year": 2021,
@@ -1137,7 +1137,7 @@ const ARTIST_DATA = {
       "venue": "The Vogue",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14s \u00b7 Charles Dewey Cole"
+      "notes": "Ca-14s · Charles Dewey Cole"
     },
     {
       "year": 2022,
@@ -1150,7 +1150,7 @@ const ARTIST_DATA = {
       "venue": "Memorial Hall OTR",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14 \u00b7 Charles Dewey Cole"
+      "notes": "Ca-14 · Charles Dewey Cole"
     },
     {
       "year": 2022,
@@ -1163,7 +1163,7 @@ const ARTIST_DATA = {
       "venue": "The Cabot",
       "version": "WEB",
       "format": "FLAC",
-      "notes": "Mandolin Webstream \u00b7 Charles Dewey Cole"
+      "notes": "Mandolin Webstream · Charles Dewey Cole"
     },
     {
       "year": 2022,
@@ -1176,7 +1176,7 @@ const ARTIST_DATA = {
       "venue": "Lincoln Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11s \u00b7 Unknown"
+      "notes": "Ca-11s · Unknown"
     },
     {
       "year": 2022,
@@ -1189,7 +1189,7 @@ const ARTIST_DATA = {
       "venue": "Sangamon County Fair Grandstand",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK22 \u00b7 Brad Downen"
+      "notes": "Schoeps MK22 · Brad Downen"
     },
     {
       "year": 2023,
@@ -1202,7 +1202,7 @@ const ARTIST_DATA = {
       "venue": "MGM Music Hall - Fenway",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8C \u00b7 Farve4"
+      "notes": "SP-CMC-8C · Farve4"
     },
     {
       "year": 2023,
@@ -1215,7 +1215,7 @@ const ARTIST_DATA = {
       "venue": "Bogart's",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Live2cd"
+      "notes": "SP-CMC-8 · Live2cd"
     },
     {
       "year": 2023,
@@ -1228,7 +1228,7 @@ const ARTIST_DATA = {
       "venue": "Delmar Hall",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "CA14 \u00b7 Cap'n Crash"
+      "notes": "CA14 · Cap'n Crash"
     },
     {
       "year": 2024,
@@ -1241,7 +1241,7 @@ const ARTIST_DATA = {
       "venue": "Jacobs Pavilion at Nautica",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14s \u00b7 Live2cd"
+      "notes": "Ca-14s · Live2cd"
     },
     {
       "year": 2024,
@@ -1254,7 +1254,7 @@ const ARTIST_DATA = {
       "venue": "South Star Music Festival",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 Jesse Mc"
+      "notes": "Schoeps MK4 · Jesse Mc"
     },
     {
       "year": 2025,
@@ -1267,7 +1267,7 @@ const ARTIST_DATA = {
       "venue": "Climate Pledge Arena",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "DPA 4080 \u00b7 John Hermsen"
+      "notes": "DPA 4080 · John Hermsen"
     },
     {
       "year": 2004,
@@ -1280,7 +1280,7 @@ const ARTIST_DATA = {
       "venue": "Prime Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Kevdogg Transfer"
+      "notes": "Unknown · Kevdogg Transfer"
     }
   ],
   "misc": [
@@ -1294,19 +1294,6 @@ const ARTIST_DATA = {
       "type": "release",
       "label": "Both Ends Burning (Various Locations 1994 Tour)",
       "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[SINGLES]"
-    },
-    {
-      "type": "label",
-      "label": "Candlebox - Far Behind (CDS) {W0258CD} [1993]"
-    },
-    {
-      "type": "label",
-      "label": "Candlebox - You (CDS) {9 18304-2} (1993)",
       "format": "FLAC"
     }
   ]

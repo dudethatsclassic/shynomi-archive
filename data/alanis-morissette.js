@@ -170,7 +170,7 @@ const ARTIST_DATA = {
       "venue": "RPI Fieldhouse",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa Walkman W/ Clip On Mic \u00b7 Firemt"
+      "notes": "Aiwa Walkman W/ Clip On Mic · Firemt"
     },
     {
       "year": 1996,
@@ -248,7 +248,7 @@ const ARTIST_DATA = {
       "venue": "Vienne Antique",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TCS 430 \u00b7 Zuma 66"
+      "notes": "Sony TCS 430 · Zuma 66"
     },
     {
       "year": 1996,
@@ -261,7 +261,7 @@ const ARTIST_DATA = {
       "venue": "Jones Beach",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony WM-D3 \u00b7 Ken G."
+      "notes": "Sony WM-D3 · Ken G."
     },
     {
       "year": 1996,
@@ -274,7 +274,7 @@ const ARTIST_DATA = {
       "venue": "Meadows Music Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa Walkman W/ Clip On Mic \u00b7 Firemt"
+      "notes": "Aiwa Walkman W/ Clip On Mic · Firemt"
     },
     {
       "year": 1996,
@@ -339,7 +339,7 @@ const ARTIST_DATA = {
       "venue": "Avalon",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa Walkman W/ Clip On Mic \u00b7 Unknown"
+      "notes": "Aiwa Walkman W/ Clip On Mic · Unknown"
     },
     {
       "year": 1998,
@@ -482,7 +482,7 @@ const ARTIST_DATA = {
       "venue": "Base du Malsaucy - Festival des Eurockeennes",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Master Philips Dcc \u00b7 Jl"
+      "notes": "Master Philips Dcc · Jl"
     },
     {
       "year": 2001,
@@ -547,7 +547,7 @@ const ARTIST_DATA = {
       "venue": "Magness Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT853s \u00b7 Ken Mininger"
+      "notes": "AT853s · Ken Mininger"
     },
     {
       "year": 2002,
@@ -560,7 +560,7 @@ const ARTIST_DATA = {
       "venue": "Oakdale Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ECM 717 \u00b7 Firemt"
+      "notes": "ECM 717 · Firemt"
     },
     {
       "year": 2003,
@@ -573,7 +573,7 @@ const ARTIST_DATA = {
       "venue": "Golden Gate Park - Speedway Meadow",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Squid Omnis \u00b7 Unknown"
+      "notes": "Squid Omnis · Unknown"
     },
     {
       "year": 2004,
@@ -586,7 +586,7 @@ const ARTIST_DATA = {
       "venue": "Palais Nikaia",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony MZ-7107 \u00b7 Jmc"
+      "notes": "Sony MZ-7107 · Jmc"
     },
     {
       "year": 2004,
@@ -599,7 +599,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "MK4s \u00b7 Some Puerto Rican Guy"
+      "notes": "MK4s · Some Puerto Rican Guy"
     },
     {
       "year": 2004,
@@ -625,7 +625,7 @@ const ARTIST_DATA = {
       "venue": "Sportpaleis Ahoy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 Unknown"
+      "notes": "SP-CMC-2 · Unknown"
     },
     {
       "year": 2005,
@@ -638,7 +638,7 @@ const ARTIST_DATA = {
       "venue": "Pepsi Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D8 \u00b7 Bakerstuff \u00b7 Krw_co Transfer"
+      "notes": "Sony D8 · Bakerstuff · Krw_co Transfer"
     },
     {
       "year": 2008,
@@ -690,7 +690,7 @@ const ARTIST_DATA = {
       "venue": "Dodge Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Desertsky"
+      "notes": "DPA 4061s · Desertsky"
     },
     {
       "year": 2012,
@@ -742,7 +742,7 @@ const ARTIST_DATA = {
       "venue": "013",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11 \u00b7 Unknown"
+      "notes": "Ca-11 · Unknown"
     },
     {
       "year": 2014,
@@ -755,7 +755,7 @@ const ARTIST_DATA = {
       "venue": "Seneca Niagara Casino - Intimate and Acoustic",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT831 \u00b7 Binko"
+      "notes": "AT831 · Binko"
     },
     {
       "year": 2018,
@@ -768,7 +768,7 @@ const ARTIST_DATA = {
       "venue": "Arena @ Mohegan Sun Casino",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Me-104s \u00b7 Ringfedder"
+      "notes": "Me-104s · Ringfedder"
     },
     {
       "year": 2019,
@@ -781,7 +781,7 @@ const ARTIST_DATA = {
       "venue": "Grand Theater at Foxwoods",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Me-104s \u00b7 Ringfedder"
+      "notes": "Me-104s · Ringfedder"
     },
     {
       "year": 2020,
@@ -794,7 +794,7 @@ const ARTIST_DATA = {
       "venue": "Koninklijk Theater Carre?",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14 \u00b7 Unknown"
+      "notes": "Ca-14 · Unknown"
     },
     {
       "year": 2021,
@@ -807,7 +807,7 @@ const ARTIST_DATA = {
       "venue": "Xfinity Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8C \u00b7 Farve4 Master"
+      "notes": "SP-CMC-8C · Farve4 Master"
     },
     {
       "year": 2021,
@@ -820,7 +820,7 @@ const ARTIST_DATA = {
       "venue": "Riverbend Music Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-14 \u00b7 Charles Dewey Cole"
+      "notes": "Ca-14 · Charles Dewey Cole"
     },
     {
       "year": 2022,
@@ -833,7 +833,7 @@ const ARTIST_DATA = {
       "venue": "AO Arena",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Zoom Am7 \u00b7 Kieron"
+      "notes": "Zoom Am7 · Kieron"
     },
     {
       "year": 2022,
@@ -846,7 +846,7 @@ const ARTIST_DATA = {
       "venue": "RBC Bluesfest",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Iphone 11 \u00b7 Palm0014"
+      "notes": "Iphone 11 · Palm0014"
     },
     {
       "year": 2022,
@@ -859,7 +859,7 @@ const ARTIST_DATA = {
       "venue": "Rogers Place",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ms-bmc-3 \u00b7 Inu-liger"
+      "notes": "Ms-bmc-3 · Inu-liger"
     },
     {
       "year": 2022,
@@ -872,7 +872,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 Loughney"
+      "notes": "SP-CMC-4U · Loughney"
     },
     {
       "year": 2024,
@@ -885,7 +885,7 @@ const ARTIST_DATA = {
       "venue": "Shorline Amphitheater",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 Loughney"
+      "notes": "Schoeps MK4 · Loughney"
     },
     {
       "year": 2025,
@@ -898,7 +898,7 @@ const ARTIST_DATA = {
       "venue": "Bergenfest - Plenen Stage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK41 \u00b7 Daspyknows"
+      "notes": "Schoeps MK41 · Daspyknows"
     },
     {
       "year": 2025,
@@ -911,7 +911,7 @@ const ARTIST_DATA = {
       "venue": "Grona Lund",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sony ECM-LV1 \u00b7 Qew"
+      "notes": "Sony ECM-LV1 · Qew"
     },
     {
       "year": 2025,
@@ -975,140 +975,6 @@ const ARTIST_DATA = {
       "label": "Alanis Morissette - Who's That Girl (1996) (SP001/2)",
       "version": "Silver CD",
       "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "[OFFICIAL RELEASE]"
-    },
-    {
-      "type": "label",
-      "label": "Alanis Morissette - Alanis {742916 T} (1991)",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Alanis Morissette - Now Is the Time (1992)",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Jagged Little Pill (Original 1995 European Pressing) (24/96)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Jagged Little Pill (9362-45901-2) (1995)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - The Singles Box [5CD] (1996)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Jagged Little Pill Live {7599-38476-2} (1997)",
-      "version": "Official Release",
-      "format": "DVD"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Supposed Former Infatuation Junkie (Maverick-Reprise 9 47094-2) (1998)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Supposed Former Infatuation Junkie (1998) 2015 (24/96)",
-      "version": "Official Release",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - MTV Unplugged (1999) (24/96)",
-      "version": "Official Release",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - So-Called Chaos (2004, Maverick, 9362-48555, EU) (2004)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - So-Called Chaos (2004) (2015 HDTracks) (24/96)",
-      "version": "Official Release",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Flavors Of Entanglement {269308-2 US} (2008)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Under Rug Swept (2011) HDTracks (24/96)",
-      "version": "Official Release",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Live at Montreux 2012 (2013) (24/96)",
-      "version": "Official Release",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Feast On Scraps (2002) (2015 HDTracks) (24/96)",
-      "version": "Official Release",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Jagged Little Pill - 1995 (2015) Collector's Edition",
-      "version": "Official Release",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Jagged Little Pill (2015) (24/44.1)",
-      "version": "Official Release",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Jagged Little Pill (Acoustic) (2015) (24/96)",
-      "version": "Official Release",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Jagged Little Pill (20th Anniversary Target Deluxe Edition) (2015)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Jagged Little Pill (2015 Collector's Edition)",
-      "version": "Official Release",
-      "format": "FLAC"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Havoc And Bright Lights (Deluxe Edition) (2012) (24/44.1)",
-      "version": "Official Release",
-      "format": "FLAC HD"
-    },
-    {
-      "type": "release",
-      "label": "Alanis Morissette - Such Pretty Forks In The Road (2020) (24/96)",
-      "version": "Official Release",
-      "format": "FLAC HD"
     }
   ]
 };
