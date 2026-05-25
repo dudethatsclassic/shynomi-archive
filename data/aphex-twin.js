@@ -26,74 +26,74 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sheffield",
       "venue": "Hallam University",
+      "notes": "Sound City BBC",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Sound City Bbc"
+      "format": "FLAC"
     },
     {
       "year": 1996,
       "month": 7,
       "day": 13,
       "dateStr": "7-13-1996",
-      "city": "Kristiansand, Norway",
-      "state": "",
+      "city": "Kristiansand",
+      "state": "Norway",
       "location": "Kristiansand, Norway",
       "venue": "Quart Festival",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 1,
       "day": 25,
       "dateStr": "1-25-1997",
-      "city": "Melbourne, AUS",
-      "state": "",
+      "city": "Melbourne",
+      "state": "AUS",
       "location": "Melbourne, AUS",
-      "venue": "Flemington Racecourse - Big Day Out",
+      "venue": "Flemington Racecourse",
+      "notes": "Big",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 1,
       "day": 27,
       "dateStr": "1-27-1997",
-      "city": "Sydney, AUS",
-      "state": "",
+      "city": "Sydney",
+      "state": "AUS",
       "location": "Sydney, AUS",
-      "venue": "Sydney Showground - Big Day Out",
+      "venue": "Sydney Showground",
+      "notes": "Big",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 6,
       "day": 29,
       "dateStr": "6-29-1997",
-      "city": "Roskilde, Denmark",
-      "state": "",
+      "city": "Roskilde",
+      "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 7,
       "day": 13,
       "dateStr": "7-13-1997",
-      "city": "Kristiansand, Norway",
-      "state": "",
+      "city": "Kristiansand",
+      "state": "Norway",
       "location": "Kristiansand, Norway",
       "venue": "Odderoya",
+      "notes": "ANA(1)",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -104,9 +104,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theater",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -117,9 +117,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Running Springs, CA",
       "venue": "Organic Underworld",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -129,10 +129,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "Royce Hall, UCLA - Large Sports Hall",
+      "venue": "Royce Hall, UCLA",
+      "notes": "Large · Sonics D8 + CSB · unk",
       "version": "MIX",
-      "format": "FLAC",
-      "notes": "Sonics D8 + Csb · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -143,9 +143,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mayrhofen",
       "venue": "Snowbombing",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -155,36 +155,36 @@ const ARTIST_DATA = {
       "city": "Indio",
       "state": "CA",
       "location": "Indio, CA",
-      "venue": "Coachella Festival",
+      "venue": "Coachella Festival (RDJ",
+      "notes": "CSBs) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Rdj - Csbs · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2009,
       "month": 8,
       "day": 7,
       "dateStr": "8-7-2009",
-      "city": "Tokyo, Japan",
-      "state": "",
+      "city": "Tokyo",
+      "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Summer Sonic Festival",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2016,
       "month": 3,
       "day": 2,
       "dateStr": "3-2-2016",
-      "city": "Royce Hall, UCLA",
-      "state": "",
+      "city": "Royce Hall",
+      "state": "UCLA",
       "location": "Royce Hall, UCLA",
       "venue": "Large Sports Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -195,9 +195,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Barbara Jordan Post Office",
+      "notes": "unk",
       "version": "Vinyl",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -207,10 +207,10 @@ const ARTIST_DATA = {
       "city": "Indio",
       "state": "CA",
       "location": "Indio, CA",
-      "venue": "Coachella Festival - Mojave Tent",
+      "venue": "Coachella Festival",
+      "notes": "Mojave · SP-CMC-8 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -220,10 +220,10 @@ const ARTIST_DATA = {
       "city": "Indio",
       "state": "CA",
       "location": "Indio, CA",
-      "venue": "Coachella Festival - Mojave Tent",
+      "venue": "Coachella Festival",
+      "notes": "Mojave · SP-CMC-8",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-8"
+      "format": "FLAC 24"
     },
     {
       "year": 2019,
@@ -233,10 +233,10 @@ const ARTIST_DATA = {
       "city": "London",
       "state": "UK",
       "location": "London, UK",
-      "venue": "Printworks - Red Bull Music Festival",
+      "venue": "Printworks",
+      "notes": "Red",
       "version": "WEB",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     }
   ],
   "misc": [
@@ -247,8 +247,7 @@ const ARTIST_DATA = {
     },
     {
       "type": "label",
-      "label": "XX-XX-1995 / Analogue Bubblebath 5",
-      "format": "FLAC"
+      "label": "XX-XX-1995 / Analogue Bubblebath 5"
     },
     {
       "type": "label",
