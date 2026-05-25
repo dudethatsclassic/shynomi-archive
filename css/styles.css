@@ -279,6 +279,17 @@ a { color: inherit; text-decoration: none; }
 .badge-flac     { background: transparent; color: var(--text-muted); border: 1px solid var(--border); }
 .badge-flac24   { background: var(--accent-dim); color: var(--accent); border: 1px solid var(--accent-ring); }
 
+/* ── Misc section ────────────────────────────────────── */
+.misc-section { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 32px; }
+.misc-heading {
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+}
+
 /* ── Home buttons ────────────────────────────────────── */
 .home-btn-gold {
   display: inline-block;

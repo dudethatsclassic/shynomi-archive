@@ -116,7 +116,37 @@ function render() {
 
     <section class="shows-body">
       <div class="container">${yearBlocks}</div>
-    </section>`;
+    </section>
+    ${d.misc && d.misc.length ? `
+    <section class="shows-body misc-section">
+      <div class="container">
+        <h2 class="misc-heading">Misc</h2>
+        <table class="show-table"><tbody>
+          ${d.misc.map(item => {
+            if (item.type === 'show') {
+              const month = item.month ? String(item.month).padStart(2,'0') : '??';
+              const day   = item.day   ? String(item.day).padStart(2,'0')   : '??';
+              const dateDisp = item.year ? `${item.year}-${month}-${day}` : '';
+              return `<tr class="show-row">
+                <td class="col-date">${esc(dateDisp)}</td>
+                <td class="col-venue">
+                  <div>${esc(item.venue)}</div>
+                  ${item.notes ? `<div class="show-notes">${esc(item.notes)}</div>` : ''}
+                </td>
+                <td class="col-location">${esc(item.location)}</td>
+                <td class="col-badges"><div class="badge-group">${versionBadge(item.version)}${formatBadge(item.format)}</div></td>
+              </tr>`;
+            } else {
+              return `<tr class="show-row misc-label-row">
+                <td class="col-date"></td>
+                <td class="col-venue" colspan="3"><div class="show-notes">${esc(item.label)}${item.version ? ` · ${esc(item.version)}` : ''}${item.format ? ` · ${esc(item.format)}` : ''}</div></td>
+              </tr>`;
+            }
+          }).join('')}
+        </tbody></table>
+      </div>
+    </section>` : ''}
+    `;
 
   setupNav();
 }
