@@ -1,9 +1,9 @@
 /* artist.js — renders the artist page from ARTIST_DATA global */
 
 function fmtDate(show) {
-  const month = String(show.month).padStart(2, '0');
-  const day = show.day != null ? String(show.day).padStart(2, '0') : '??';
-  return `${show.year}-${month}-${day}`;
+  const month = show.month != null ? String(show.month).padStart(2, '0') : '??';
+  const day   = show.day   != null ? String(show.day).padStart(2, '0')   : '??';
+  return show.year + '-' + month + '-' + day;
 }
 
 function versionBadge(v) {
@@ -15,13 +15,13 @@ function versionBadge(v) {
     'Silver CD': 'badge-silvercd',
   };
   const cls = map[v] || 'badge-aud';
-  return `<span class="badge ${cls}">${esc(v)}</span>`;
+  return '<span class="badge ' + cls + '">' + esc(v) + '</span>';
 }
 
 function formatBadge(f) {
   if (!f) return '';
   const cls = f.includes('24') ? 'badge-flac24' : 'badge-flac';
-  return `<span class="badge ${cls}">${esc(f)}</span>`;
+  return '<span class="badge ' + cls + '">' + esc(f) + '</span>';
 }
 
 function esc(s) {
@@ -30,10 +30,33 @@ function esc(s) {
     .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
+function renderMiscRow(item) {
+  if (item.type === 'show') {
+    const month    = item.month != null ? String(item.month).padStart(2,'0') : '??';
+    const day      = item.day   != null ? String(item.day).padStart(2,'0')   : '??';
+    const dateDisp = item.year  ? (item.year + '-' + month + '-' + day) : '';
+    const notesHtml = item.notes ? '<div class="show-notes">' + esc(item.notes) + '</div>' : '';
+    return '<tr class="show-row">'
+      + '<td class="col-date">' + esc(dateDisp) + '</td>'
+      + '<td class="col-venue"><div>' + esc(item.venue || '') + '</div>' + notesHtml + '</td>'
+      + '<td class="col-location">' + esc(item.location || '') + '</td>'
+      + '<td class="col-badges"><div class="badge-group">' + versionBadge(item.version) + formatBadge(item.format) + '</div></td>'
+      + '</tr>';
+  } else {
+    const label = esc(item.label || '');
+    const ver   = item.version ? ' · ' + esc(item.version) : '';
+    const fmt   = item.format  ? ' · ' + esc(item.format)  : '';
+    return '<tr class="show-row">'
+      + '<td class="col-date"></td>'
+      + '<td class="col-venue" colspan="3"><div class="show-notes">' + label + ver + fmt + '</div></td>'
+      + '</tr>';
+  }
+}
+
 function render() {
   const d = ARTIST_DATA;
 
-  document.title = `${d.name} – Live Archive`;
+  document.title = d.name + ' – Live Archive';
 
   // Group shows by year
   const byYear = {};
@@ -42,48 +65,46 @@ function render() {
 
   // Year nav pills
   const yearNav = d.years.map(y =>
-    `<button class="year-pill" data-year="${y}">${y}</button>`
+    '<button class="year-pill" data-year="' + y + '">' + y + '</button>'
   ).join('');
 
   // Show rows by year
   const yearBlocks = d.years.map(year => {
     const rows = byYear[year].map((s, idx) => {
-      const showKey = `${year}-${String(s.month).padStart(2,'0')}-${s.day != null ? String(s.day).padStart(2,'0') : '??'}`;
-      const showId = `show-${year}-${idx}`;
-      return `
-      <tr class="show-row" id="${showId}">
-        <td class="col-date">${fmtDate(s)}</td>
-        <td class="col-venue">
-          <div>${esc(s.venue)}</div>
-          ${s.notes ? `<div class="show-notes">${esc(s.notes)}</div>` : ''}
-        </td>
-        <td class="col-location">${esc(s.location)}</td>
-        <td class="col-badges">
-          <div class="badge-group">
-            ${versionBadge(s.version)}
-            ${formatBadge(s.format)}
-          </div>
-        </td>
-      </tr>`;
+      const showId   = 'show-' + year + '-' + idx;
+      const notesHtml = s.notes ? '<div class="show-notes">' + esc(s.notes) + '</div>' : '';
+      return '<tr class="show-row" id="' + showId + '">'
+        + '<td class="col-date">' + fmtDate(s) + '</td>'
+        + '<td class="col-venue"><div>' + esc(s.venue) + '</div>' + notesHtml + '</td>'
+        + '<td class="col-location">' + esc(s.location) + '</td>'
+        + '<td class="col-badges"><div class="badge-group">'
+          + versionBadge(s.version) + formatBadge(s.format)
+          + '</div></td>'
+        + '</tr>';
     }).join('');
-
-    return `
-      <div class="year-block" id="year-${year}">
-        <h2 class="year-label">${year}</h2>
-        <table class="show-table"><tbody>${rows}</tbody></table>
-      </div>`;
+    return '<div class="year-block" id="year-' + year + '">'
+      + '<h2 class="year-label">' + year + '</h2>'
+      + '<table class="show-table"><tbody>' + rows + '</tbody></table>'
+      + '</div>';
   }).join('');
 
-  const photoSrc = `../../images/${d.id}/band.jpg`;
+  // Misc section
+  const miscHtml = (d.misc && d.misc.length)
+    ? '<section class="shows-body misc-section">'
+        + '<div class="container">'
+        + '<h2 class="misc-heading">Misc</h2>'
+        + '<table class="show-table"><tbody>'
+        + d.misc.map(renderMiscRow).join('')
+        + '</tbody></table></div></section>'
+    : '';
 
-  const logoHtml = `<a class="site-logo" href="../../">Shynomi's Live<span>Archive</span></a>`;
+  const photoSrc = '../../images/' + d.id + '/band.jpg';
+  const logoHtml = '<a class="site-logo" href="../../">Shynomi\'s Live<span>Archive</span></a>';
 
   document.getElementById('app').innerHTML = `
     <header class="site-header">
       <div class="container">
-        <div class="inner">
-          ${logoHtml}
-        </div>
+        <div class="inner">${logoHtml}</div>
       </div>
     </header>
 
@@ -117,50 +138,20 @@ function render() {
     <section class="shows-body">
       <div class="container">${yearBlocks}</div>
     </section>
-    ${d.misc && d.misc.length ? `
-    <section class="shows-body misc-section">
-      <div class="container">
-        <h2 class="misc-heading">Misc</h2>
-        <table class="show-table"><tbody>
-          ${d.misc.map(item => {
-            if (item.type === 'show') {
-              const month = item.month ? String(item.month).padStart(2,'0') : '??';
-              const day   = item.day   ? String(item.day).padStart(2,'0')   : '??';
-              const dateDisp = item.year ? `${item.year}-${month}-${day}` : '';
-              return `<tr class="show-row">
-                <td class="col-date">${esc(dateDisp)}</td>
-                <td class="col-venue">
-                  <div>${esc(item.venue)}</div>
-                  ${item.notes ? `<div class="show-notes">${esc(item.notes)}</div>` : ''}
-                </td>
-                <td class="col-location">${esc(item.location)}</td>
-                <td class="col-badges"><div class="badge-group">${versionBadge(item.version)}${formatBadge(item.format)}</div></td>
-              </tr>`;
-            } else {
-              return `<tr class="show-row misc-label-row">
-                <td class="col-date"></td>
-                <td class="col-venue" colspan="3"><div class="show-notes">${esc(item.label)}${item.version ? ` · ${esc(item.version)}` : ''}${item.format ? ` · ${esc(item.format)}` : ''}</div></td>
-              </tr>`;
-            }
-          }).join('')}
-        </tbody></table>
-      </div>
-    </section>` : ''}
-    `;
+
+    ${miscHtml}`;
 
   setupNav();
 }
 
 function setupNav() {
-  // Click: scroll to year
   document.querySelectorAll('.year-pill').forEach(pill => {
     pill.addEventListener('click', () => {
-      const el = document.getElementById(`year-${pill.dataset.year}`);
+      const el = document.getElementById('year-' + pill.dataset.year);
       if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
   });
 
-  // Highlight active year pill as user scrolls
   const pills  = document.querySelectorAll('.year-pill');
   const blocks = document.querySelectorAll('.year-block');
 
