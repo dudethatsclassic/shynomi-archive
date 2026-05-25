@@ -19,27 +19,28 @@
   <main>
     <div class="home-intro">
       <div class="container">
-        <h1>Live Archive</h1>
         <p>A personal collection of live recordings</p>
         <div style="margin-top: 20px;">
-          <a href="search.html" style="display: inline-block; padding: 10px 16px; background: rgba(201,151,60,0.12); border: 1px solid rgba(201,151,60,0.35); border-radius: 6px; color: #c9973c; font-size: 0.85rem; font-weight: 500; transition: all 0.15s ease;" onmouseover="this.style.background='rgba(201,151,60,0.2)'" onmouseout="this.style.background='rgba(201,151,60,0.12)'">
-            Search all shows →
-          </a>
+          <a href="search.html" class="home-btn-gold">Search all shows →</a>
         </div>
       </div>
     </div>
 
     <div class="container">
+      <div class="section-header-row">
+        <h1 class="section-title">Featured Artists</h1>
+        <button id="other-toggle" class="other-artists-btn" onclick="toggleOther()">
+          Other Artists <span id="other-arrow">↓</span>
+        </button>
+      </div>
       <div class="artist-grid" id="featured-grid"></div>
     </div>
 
-    <div class="container" style="margin-top: 48px;">
-      <button id="other-toggle" class="other-artists-btn" onclick="toggleOther()">
-        Other Artists <span id="other-arrow">↓</span>
-      </button>
-      <div id="other-grid-wrap" style="display:none; margin-top: 24px;">
-        <div class="artist-grid" id="other-grid"></div>
+    <div class="container" id="other-section" style="display:none; margin-top: 48px;">
+      <div class="section-header-row">
+        <h2 class="section-title">Other Artists</h2>
       </div>
+      <div class="artist-grid" id="other-grid"></div>
     </div>
   </main>
 
@@ -114,11 +115,12 @@
       .forEach(a => otherGrid.appendChild(makeCard(a)));
 
     function toggleOther() {
-      const wrap  = document.getElementById('other-grid-wrap');
-      const arrow = document.getElementById('other-arrow');
-      const open  = wrap.style.display === 'none';
-      wrap.style.display = open ? 'block' : 'none';
-      arrow.textContent  = open ? '↑' : '↓';
+      const section = document.getElementById('other-section');
+      const arrow   = document.getElementById('other-arrow');
+      const open    = section.style.display === 'none';
+      section.style.display = open ? 'block' : 'none';
+      arrow.textContent     = open ? '↑' : '↓';
+      if (open) section.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
   </script>
 
