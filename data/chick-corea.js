@@ -30,26 +30,26 @@ const ARTIST_DATA = {
       "month": 2,
       "day": 15,
       "dateStr": "2-15-1978",
-      "city": "Tokyo, Japan",
-      "state": "",
+      "city": "Tokyo",
+      "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Budokan",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1978,
       "month": 6,
       "day": 29,
       "dateStr": "6-29-1978",
-      "city": "Vienna, VA - Wolftrap Park",
-      "state": "",
+      "city": "Vienna",
+      "state": "VA - Wolftrap Park",
       "location": "Vienna, VA - Wolftrap Park",
       "venue": "",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1978,
@@ -60,9 +60,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Dorothy Chandler Pavilion",
+      "notes": "Early Show · AKG 451 · mike millard",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Early Show \u00b7 Akg 451 \u00b7 Mike Millard"
+      "format": "FLAC"
     },
     {
       "year": 1978,
@@ -73,35 +73,35 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Dorothy Chandler Pavilion",
+      "notes": "Late Show · AKG 451 · mike millard",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Late Show \u00b7 Akg 451 \u00b7 Mike Millard"
+      "format": "FLAC"
     },
     {
       "year": 1979,
       "month": 7,
       "day": 13,
       "dateStr": "7-13-1979",
-      "city": "Montreux, Switzerland",
-      "state": "",
+      "city": "Montreux",
+      "state": "Switzerland",
       "location": "Montreux, Switzerland",
       "venue": "Montreux Jazz Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1979,
       "month": 7,
       "day": 27,
       "dateStr": "7-27-1979",
-      "city": "Tokyo, Japan",
-      "state": "",
+      "city": "Tokyo",
+      "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Denen Colosseum",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1980,
@@ -112,9 +112,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Costa Mesa, CA",
       "venue": "Orange Coast College",
+      "notes": "Nakamichi CM-300 · robert collins",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Nakamichi CM-300 \u00b7 Robert Collins"
+      "format": "FLAC"
     },
     {
       "year": 1980,
@@ -125,35 +125,35 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Hollywood Bowl",
+      "notes": "with Dizzy Gillespie · Nakamichi CM-300 · robert collins",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Nakamichi CM-300 \u00b7 With Dizzy Gillespie \u00b7 Robert Collins"
+      "format": "FLAC"
     },
     {
       "year": 1980,
       "month": 9,
       "day": 18,
       "dateStr": "9-18-1980",
-      "city": "Buenos Aires, Argentina",
-      "state": "",
+      "city": "Buenos Aires",
+      "state": "Argentina",
       "location": "Buenos Aires, Argentina",
       "venue": "Unknown Venue",
+      "notes": "unk · mr_mags",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown \u00b7 Mr_mags"
+      "format": "FLAC"
     },
     {
       "year": 1981,
       "month": 7,
       "day": 23,
       "dateStr": "7-23-1981",
-      "city": "Tokyo, Japan",
-      "state": "",
+      "city": "Tokyo",
+      "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Denen Colosseum",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1981,
@@ -164,9 +164,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "KPBS New Year's Party",
+      "notes": "mr_mags",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Mr_mags"
+      "format": "FLAC"
     },
     {
       "year": 1982,
@@ -177,9 +177,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Village Vanguard",
+      "notes": "Early Show · WBGO-FM",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Early Show \u00b7 Wbgo-fm"
+      "format": "FLAC"
     },
     {
       "year": 1982,
@@ -190,61 +190,61 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Village Vanguard",
+      "notes": "Late Show · WBGO-FM",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Late Show \u00b7 Wbgo-fm"
+      "format": "FLAC"
     },
     {
       "year": 1983,
       "month": 10,
       "day": 21,
       "dateStr": "10-21-1983",
-      "city": "Hamburg, Germany",
-      "state": "",
+      "city": "Hamburg",
+      "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Staatsoper",
+      "notes": "with Gary Burton",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "With Gary Burton"
+      "format": "FLAC"
     },
     {
       "year": 1984,
       "month": 7,
       "day": 7,
       "dateStr": "7-7-1984",
-      "city": "Wiesen, Austria",
-      "state": "",
+      "city": "Wiesen",
+      "state": "Austria",
       "location": "Wiesen, Austria",
       "venue": "Jazz Summit",
+      "notes": "Miles Davis Band with Chick Corea",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Miles Davis Band With Chick Corea"
+      "format": "FLAC"
     },
     {
       "year": 1985,
       "month": 7,
       "day": 5,
       "dateStr": "7-5-1985",
-      "city": "Montreal, Quebec",
-      "state": "",
+      "city": "Montreal",
+      "state": "Quebec",
       "location": "Montreal, Quebec",
       "venue": "Montreal Jazz Festival",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1986,
       "month": 6,
       "day": null,
       "dateStr": "6-XX-1986",
-      "city": "Montreal, Quebec",
-      "state": "",
+      "city": "Montreal",
+      "state": "Quebec",
       "location": "Montreal, Quebec",
       "venue": "Montreal Jazzfest",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1987,
@@ -255,61 +255,61 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theater",
+      "notes": "Aiwa CM-30 · chicagoblues",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Aiwa CM-30 \u00b7 Chicagoblues"
+      "format": "FLAC"
     },
     {
       "year": 1987,
       "month": 7,
       "day": null,
       "dateStr": "7-XX-1987",
-      "city": "Munich, Germany",
-      "state": "",
+      "city": "Munich",
+      "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Munchner Klaviersommer",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1987,
       "month": 10,
       "day": 1,
       "dateStr": "10-1-1987",
-      "city": "Belgrad, Yugoslavia",
-      "state": "",
+      "city": "Belgrad",
+      "state": "Yugoslavia",
       "location": "Belgrad, Yugoslavia",
       "venue": "Unknown Venue",
+      "notes": "Jazz Door #1265",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Jazz Door #1265"
+      "format": "FLAC"
     },
     {
       "year": 1987,
       "month": 10,
       "day": 21,
       "dateStr": "10-21-1987",
-      "city": "Hamburg, Germany",
-      "state": "",
+      "city": "Hamburg",
+      "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Fabrik",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1987,
       "month": 11,
       "day": 7,
       "dateStr": "11-7-1987",
-      "city": "Berlin, Germany",
-      "state": "",
+      "city": "Berlin",
+      "state": "Germany",
       "location": "Berlin, Germany",
-      "venue": "Philharmonie - Jazzfest Berlin 1987",
+      "venue": "Philharmonie",
+      "notes": "Jazzfest · Astra Sat",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Astra Sat"
+      "format": "FLAC"
     },
     {
       "year": 1988,
@@ -320,22 +320,22 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Wilmington, DE",
       "venue": "Unknown Venue",
+      "notes": "unk · mr_mags",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown \u00b7 Mr_mags"
+      "format": "FLAC"
     },
     {
       "year": 1989,
       "month": 6,
       "day": 19,
       "dateStr": "6-19-1989",
-      "city": "Tokyo, Japan",
-      "state": "",
+      "city": "Tokyo",
+      "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Showa Women's University",
+      "notes": "mr_mags",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Mr_mags"
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -346,126 +346,126 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Wolftrap Park",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
       "month": 8,
       "day": 30,
       "dateStr": "8-30-1989",
-      "city": "Roccella Jonica, Italy",
-      "state": "",
+      "city": "Roccella Jonica",
+      "state": "Italy",
       "location": "Roccella Jonica, Italy",
       "venue": "Roccella Jonica Jazz Festival",
+      "notes": "mr_mags",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Mr_mags"
+      "format": "FLAC"
     },
     {
       "year": 1990,
       "month": 9,
       "day": 23,
       "dateStr": "9-23-1990",
-      "city": "Vierson, Germany",
-      "state": "",
+      "city": "Vierson",
+      "state": "Germany",
       "location": "Vierson, Germany",
-      "venue": "Internationales Jazz Festival - Festhalle",
+      "venue": "Internationales Jazz Festival",
+      "notes": "Festhalle",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1990,
       "month": 10,
       "day": 15,
       "dateStr": "10-15-1990",
-      "city": "London, England",
-      "state": "",
+      "city": "London",
+      "state": "England",
       "location": "London, England",
-      "venue": "Royal Festival Hall - BBC Radio 3",
+      "venue": "Royal Festival Hall",
+      "notes": "BBC · psykies",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Psykies"
+      "format": "FLAC"
     },
     {
       "year": 1990,
       "month": 10,
       "day": 15,
       "dateStr": "10-15-1990",
-      "city": "London, England",
-      "state": "",
+      "city": "London",
+      "state": "England",
       "location": "London, England",
-      "venue": "Royal Festival Hall - BBC Radio 3",
+      "venue": "Royal Festival Hall",
+      "notes": "BBC · barkndog",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Barkndog"
+      "format": "FLAC"
     },
     {
       "year": 1991,
       "month": 7,
       "day": 11,
       "dateStr": "7-11-1991",
-      "city": "Vienne, France",
-      "state": "",
+      "city": "Vienne",
+      "state": "France",
       "location": "Vienne, France",
       "venue": "Theatre Antique de Vienne",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
       "month": 7,
       "day": 3,
       "dateStr": "7-3-1992",
-      "city": "Lagano, Switzerland",
-      "state": "",
+      "city": "Lagano",
+      "state": "Switzerland",
       "location": "Lagano, Switzerland",
-      "venue": "Estival Jazz - Piazza Della Riforma",
+      "venue": "Estival Jazz",
+      "notes": "Piazza",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
       "month": 7,
       "day": 3,
       "dateStr": "7-3-1992",
-      "city": "Lagano, Switzerland",
-      "state": "",
+      "city": "Lagano",
+      "state": "Switzerland",
       "location": "Lagano, Switzerland",
-      "venue": "Estival Jazz - Piazza Della Riforma",
+      "venue": "Estival Jazz",
+      "notes": "Piazza · swissbird",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Swissbird"
+      "format": "FLAC"
     },
     {
       "year": 1993,
       "month": 3,
       "day": 8,
       "dateStr": "3-8-1993",
-      "city": "London, England",
-      "state": "",
+      "city": "London",
+      "state": "England",
       "location": "London, England",
       "venue": "Royal Festival Hall",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
       "month": 3,
       "day": 8,
       "dateStr": "3-8-1993",
-      "city": "London, England",
-      "state": "",
+      "city": "London",
+      "state": "England",
       "location": "London, England",
       "venue": "Royal Festival Hall",
+      "notes": "psykies",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Psykies"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -476,9 +476,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
+      "notes": "mr_mags",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Mr_mags"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -489,9 +489,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Ames, IA",
       "venue": "The Maintenance Shop",
+      "notes": "unk · mr_mags",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown \u00b7 Mr_mags"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -502,22 +502,22 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theater",
+      "notes": "mr_mags",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Mr_mags"
+      "format": "FLAC"
     },
     {
       "year": 1994,
       "month": 4,
       "day": 8,
       "dateStr": "4-8-1994",
-      "city": "Warsaw, Poland",
-      "state": "",
+      "city": "Warsaw",
+      "state": "Poland",
       "location": "Warsaw, Poland",
       "venue": "Unknown Venue",
+      "notes": "mr_mags",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Mr_mags"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -528,22 +528,23 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Festival Hall",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
       "month": 4,
       "day": null,
       "dateStr": "4-XX-1994",
-      "city": "Espoo, Finland",
-      "state": "",
+      "city": "Espoo",
+      "state": "Finland",
       "location": "Espoo, Finland",
       "venue": "Jazzfest",
+      "notes": "barkndog",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Barkndog"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
