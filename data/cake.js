@@ -74,7 +74,7 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "El Rey Theatre - DAT(M)",
+      "venue": "El Rey Theatre",
       "gear": "",
       "taper": "Ss-dsm6 \u00b7 The Gambler",
       "version": "AUD",

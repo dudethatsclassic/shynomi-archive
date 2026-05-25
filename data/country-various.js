@@ -162,7 +162,7 @@ const ARTIST_DATA = {
       "city": "Wilkesboro",
       "state": "NC",
       "location": "Wilkesboro, NC",
-      "venue": "Merle Fest - DAT(M)",
+      "venue": "Merle Fest",
       "gear": "Nakamichi CM 700s",
       "taper": "Unknown",
       "version": "AUD",

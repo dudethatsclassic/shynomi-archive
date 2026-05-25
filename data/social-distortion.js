@@ -59,7 +59,7 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "Club 88 - ANA(M)",
+      "venue": "Club 88",
       "gear": "",
       "taper": "Unknown",
       "version": "AUD",

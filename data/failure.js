@@ -40,7 +40,7 @@ const ARTIST_DATA = {
       "city": "Austin",
       "state": "TX",
       "location": "Austin, TX",
-      "venue": "The Electric Lounge - VHS(x)",
+      "venue": "The Electric Lounge",
       "gear": "",
       "taper": "Unknown",
       "version": "AUD",

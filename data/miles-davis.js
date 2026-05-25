@@ -2152,7 +2152,7 @@ const ARTIST_DATA = {
       "location": "West Berlin, Germany",
       "venue": "Philharmonie",
       "gear": "",
-      "taper": "Jazzfest Berlin '85",
+      "taper": "",
       "version": "SBD",
       "format": "FLAC"
     },

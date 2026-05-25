@@ -229,7 +229,7 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "Slim's - ANA(M)",
+      "venue": "Slim's",
       "gear": "ECM-909",
       "taper": "Tjcruz",
       "version": "AUD",

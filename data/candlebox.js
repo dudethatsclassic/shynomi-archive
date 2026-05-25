@@ -140,7 +140,7 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "The Late Show with David Letterman - VHS(2)",
+      "venue": "The Late Show with David Letterman",
       "gear": "",
       "taper": "",
       "version": "TV",

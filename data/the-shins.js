@@ -98,7 +98,7 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "Henry Fonda Theatre - DAT(M)",
+      "venue": "Henry Fonda Theatre",
       "gear": "DPA 4061s",
       "taper": "Ed Davis",
       "version": "AUD",

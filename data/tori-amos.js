@@ -421,7 +421,7 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "KFOG Studios - ANA(x)",
+      "venue": "KFOG Studios",
       "gear": "",
       "taper": "Wally Breese",
       "version": "FM",
