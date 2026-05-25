@@ -93,12 +93,11 @@ function render() {
 
   // Misc section
   const miscHtml = (d.misc && d.misc.length)
-    ? '<section id="year-misc" class="shows-body misc-section">'
-        + '<div class="container">'
-        + '<h2 class="misc-heading">Misc</h2>'
+    ? '<div class="year-block" id="year-misc">'
+        + '<h2 class="year-label">Misc</h2>'
         + '<table class="show-table"><tbody>'
         + d.misc.map(renderMiscRow).join('')
-        + '</tbody></table></div></section>'
+        + '</tbody></table></div>'
     : '';
 
   const photoSrc = '../../images/' + d.id + '/band.jpg';
@@ -139,10 +138,8 @@ function render() {
     </nav>
 
     <section class="shows-body">
-      <div class="container">${yearBlocks}</div>
-    </section>
-
-    ${miscHtml}`;
+      <div class="container">${yearBlocks}${miscHtml}</div>
+    </section>`;
 
   setupNav();
 }
