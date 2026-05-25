@@ -931,6 +931,13 @@ const ARTISTS = [
     "lastYear": 1999
   },
   {
+    "id": "green-day",
+    "name": "Green Day",
+    "showCount": 354,
+    "firstYear": 1989,
+    "lastYear": 2025
+  },
+  {
     "id": "green-jelly",
     "name": "Green Jelly",
     "showCount": 1,

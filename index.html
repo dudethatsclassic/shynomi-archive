@@ -11,7 +11,7 @@
   <header class="site-header">
     <div class="container">
       <div class="inner">
-        <a class="site-logo" href="/">Shynomi's Live<span>Archive</span></a>
+        <a class="site-logo" href="./index.html">Shynomi's Live<span>Archive</span></a>
       </div>
     </div>
   </header>
@@ -30,17 +30,43 @@
     </div>
 
     <div class="container">
-      <div class="artist-grid" id="artist-grid"></div>
+      <div class="artist-grid" id="featured-grid"></div>
+    </div>
+
+    <div class="container" style="margin-top: 48px;">
+      <button id="other-toggle" class="other-artists-btn" onclick="toggleOther()">
+        Other Artists <span id="other-arrow">↓</span>
+      </button>
+      <div id="other-grid-wrap" style="display:none; margin-top: 24px;">
+        <div class="artist-grid" id="other-grid"></div>
+      </div>
     </div>
   </main>
 
   <script src="data/artists.js"></script>
   <script src="js/logo.js"></script>
   <script>
-    document.querySelector('.site-logo').outerHTML = getLogo('/');
-    const grid = document.getElementById('artist-grid');
+    const FEATURED_IDS = [
+      'counting-crows',
+      'foo-fighters',
+      'green-day',
+      'incubus',
+      'local-h',
+      'metallica',
+      'nirvana',
+      'pearl-jam',
+      'primus',
+      'radiohead',
+      'red-hot-chili-peppers',
+      'ryan-adams',
+      'smashing-pumpkins',
+      'soundgarden',
+      'tool',
+      'weezer',
+      'wilco',
+    ];
 
-    ARTISTS.forEach(artist => {
+    function makeCard(artist) {
       const card = document.createElement('a');
       card.href      = `artists/${artist.id}/`;
       card.className = 'artist-card';
@@ -55,7 +81,6 @@
           <div class="artist-card-meta">${artist.showCount} shows &middot; ${artist.firstYear}&ndash;${artist.lastYear}</div>
         </div>`;
 
-      // Swap placeholder for real photo if one exists
       const img = new Image();
       img.onload = () => {
         const ph = card.querySelector('.artist-card-placeholder');
@@ -67,8 +92,34 @@
       };
       img.src = `images/${artist.id}/band.jpg`;
 
-      grid.appendChild(card);
+      return card;
+    }
+
+    const featuredSet = new Set(FEATURED_IDS);
+    const featuredGrid = document.getElementById('featured-grid');
+    const otherGrid    = document.getElementById('other-grid');
+
+    // Render featured in the defined order
+    const artistMap = {};
+    ARTISTS.forEach(a => { if (a.id) artistMap[a.id] = a; });
+
+    FEATURED_IDS.forEach(id => {
+      const artist = artistMap[id];
+      if (artist) featuredGrid.appendChild(makeCard(artist));
     });
+
+    // Render all others alphabetically
+    ARTISTS
+      .filter(a => a.id && !featuredSet.has(a.id))
+      .forEach(a => otherGrid.appendChild(makeCard(a)));
+
+    function toggleOther() {
+      const wrap  = document.getElementById('other-grid-wrap');
+      const arrow = document.getElementById('other-arrow');
+      const open  = wrap.style.display === 'none';
+      wrap.style.display = open ? 'block' : 'none';
+      arrow.textContent  = open ? '↑' : '↓';
+    }
   </script>
 
 </body>
