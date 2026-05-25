@@ -22,9 +22,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Unknown Venue and Location (AKG D1000E)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1975,
@@ -35,9 +35,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ebbet's Field",
+      "notes": "cary wolfson",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "cary wolfson"
+      "format": "FLAC"
     },
     {
       "year": 1976,
@@ -48,9 +48,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Roslyn, NY",
       "venue": "My Father's Place",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1979,
@@ -61,9 +61,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Tennessee Theater",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1979,
@@ -74,9 +74,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "The Catalyst *The Fat Fry",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -86,10 +86,10 @@ const ARTIST_DATA = {
       "city": "Nashville",
       "state": "TN",
       "location": "Nashville, TN",
-      "venue": "RCA Studio B - Nashville Acoustic Christmas",
+      "venue": "RCA Studio B",
+      "notes": "Nashville",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -100,9 +100,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Antone's",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
