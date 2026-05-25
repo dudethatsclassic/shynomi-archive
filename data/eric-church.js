@@ -28,9 +28,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Gilford, NH",
       "venue": "Meadowbrook Pavilion",
+      "notes": "ECM 719 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM 719 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -40,10 +40,10 @@ const ARTIST_DATA = {
       "city": "Austin",
       "state": "TX",
       "location": "Austin, TX",
-      "venue": "Moody Theater - ACL",
+      "venue": "Moody Theater",
+      "notes": "ACL",
       "version": "TV",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2015,
@@ -54,9 +54,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin 360 Amphitheatre",
+      "notes": "Sirius XM",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Sirius XM"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -67,9 +67,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "ECM719 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "ECM719 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2016,
@@ -80,9 +80,9 @@ const ARTIST_DATA = {
       "state": "CA - Stagecoach Festival",
       "location": "Indio, CA - Stagecoach Festival",
       "venue": "",
+      "notes": "",
       "version": "Webcast",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2016,
@@ -93,9 +93,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "ECM719 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "ECM719 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2017,
@@ -106,9 +106,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "TD BankNorth Garden",
+      "notes": "ECM-719 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "ECM-719 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2017,
@@ -119,9 +119,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Greensboro, NC",
       "venue": "Greensboro Coliseum",
+      "notes": "ECM-719 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "ECM-719 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2018,
@@ -131,10 +131,10 @@ const ARTIST_DATA = {
       "city": "Asheville",
       "state": "NC",
       "location": "Asheville, NC",
-      "venue": "Asheville Civic Center - Warren Haynes Christmas Jam",
+      "venue": "Asheville Civic Center",
+      "notes": "Warren · Schoeps CCM4Vs · z-man",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CCM4Vs \u00b7 z-man"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -145,9 +145,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Target Center",
+      "notes": "SiriusXM",
       "version": "FM",
-      "format": "FLAC 24",
-      "notes": "SiriusXM"
+      "format": "FLAC 24"
     },
     {
       "year": 2019,
@@ -158,9 +158,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Little Caesars Arena",
+      "notes": "SiriusXM",
       "version": "FM",
-      "format": "FLAC 24",
-      "notes": "SiriusXM"
+      "format": "FLAC 24"
     },
     {
       "year": 2019,
@@ -171,9 +171,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "U.S. Bank Arena",
+      "notes": "SiriusXM",
       "version": "FM",
-      "format": "FLAC 24",
-      "notes": "SiriusXM"
+      "format": "FLAC 24"
     },
     {
       "year": 2019,
@@ -184,9 +184,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Manchester, NH",
       "venue": "SNHU Arena",
+      "notes": "CA-14 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA-14 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2019,
@@ -197,9 +197,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "XL Center",
+      "notes": "CA-14 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA-14 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2021,
@@ -210,9 +210,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Manchester, NH",
       "venue": "SNHU Arena",
+      "notes": "ECM719 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "ECM719 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -223,9 +223,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "Hollywood Casino",
+      "notes": "ECM719 · firemt66",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "ECM719 \u00b7 firemt66"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -236,9 +236,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Chapel Hill, NC",
       "venue": "Memorial Hall",
+      "notes": "Samsung 22 · firemt66",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Samsung 22 \u00b7 firemt66"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -249,9 +249,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Walnut Creek",
+      "notes": "ECM719 · firemt66",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "ECM719 \u00b7 firemt66"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -262,9 +262,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Bristow, VA",
       "venue": "Jiffy Lube Live",
+      "notes": "ECM719 · firemt66",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM719 \u00b7 firemt66"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -275,9 +275,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga Springs, NY",
       "venue": "Saratoga Performing Arts Center",
+      "notes": "ECM719 · firemt66",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "ECM719 \u00b7 firemt66"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -288,9 +288,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "PNC Music Pavilion",
+      "notes": "ECM719 · firemt66",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM719 \u00b7 firemt66"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -301,9 +301,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison,CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "ECM717 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "ECM717 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -314,9 +314,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "TD Banknorth Garden",
+      "notes": "Sony ECM-717 · firemt66",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sony ECM-717 \u00b7 firemt66"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -327,9 +327,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Barclays Center",
+      "notes": "Sony ECM-717 · firemt66",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sony ECM-717 \u00b7 firemt66"
+      "format": "FLAC 24"
     },
     {
       "year": 2026,
@@ -340,9 +340,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "MVP Arena",
+      "notes": "ECM717 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "ECM717 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2026,
@@ -353,9 +353,9 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Greenville, SC",
       "venue": "Bon Secours Wellness Arena",
+      "notes": "ECM717 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "ECM717 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2026,
@@ -366,9 +366,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Spectrum Center",
+      "notes": "ECM717 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "ECM717 \u00b7 Unknown"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
