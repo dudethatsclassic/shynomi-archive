@@ -658,5 +658,13 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "SP-CMC-8 \u00b7 sonictooth"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Sebadoh - BBC Sessions 1992-1995",
+      "version": "FM",
+      "format": "FLAC"
+    }
   ]
 };

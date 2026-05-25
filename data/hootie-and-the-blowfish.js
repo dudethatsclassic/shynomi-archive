@@ -76,5 +76,12 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "Schoeps MK41vs \u00b7 radio_w_b"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "Hootie & the Blowfish - Live in Charleston (2006)",
+      "format": "FLAC"
+    }
   ]
 };

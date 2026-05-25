@@ -3004,5 +3004,19 @@ const ARTIST_DATA = {
       "format": "",
       "notes": "iPhone 7 \u00b7 chris lawrence"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "1997-2003 - The Collected Jeff Tweedy (Compilation)"
+    },
+    {
+      "type": "label",
+      "label": "[OFFICIAL RELEASES]"
+    },
+    {
+      "type": "label",
+      "label": "Jeff Tweedy - Live Is The King {51497297633} (2021)"
+    }
   ]
 };

@@ -49,5 +49,12 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "Triple J Live at the Wireless Broadcast"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "Paw - Death To Traitors Demos (1994)",
+      "format": "FLAC"
+    }
   ]
 };

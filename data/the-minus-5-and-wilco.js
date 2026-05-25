@@ -358,5 +358,11 @@ const ARTIST_DATA = {
       "format": "",
       "notes": ""
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "Golden Smog - 1996-1998 - Various Promotional Appearances [SBD]"
+    }
   ]
 };

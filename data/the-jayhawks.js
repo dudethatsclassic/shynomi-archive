@@ -480,5 +480,12 @@ const ARTIST_DATA = {
       "format": "MIX 24",
       "notes": "Instamic Pro Plus C \u00b7 Km"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "The Jayhawks - Hollywood Town Hall Demos (1981-2024) (Remaster)",
+      "format": "FLAC"
+    }
   ]
 };

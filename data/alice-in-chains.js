@@ -3455,5 +3455,315 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "notes": "Zoom Iq5 \u00b7 Unknown"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "Alice In Chains - Demos I & II (1986)"
+    },
+    {
+      "type": "label",
+      "label": "Alice In Chains - 1989-XX-XX - Seattle, WA - Publisher Demo's (April-June 1989) *Sweet Alice",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Alice In Chains - Sweet Alice Demos (1989) (speed corrected)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Alice In Chains - 1989 Sweet Alive Demos (April-June 1989) / Seattle, WA",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Alice In Chains - \"Tasty White Powder\" Demos (1990)",
+      "format": "SHN"
+    },
+    {
+      "type": "label",
+      "label": "Alice In Chains - Facelift DVD (1991)",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Alice In Chains - Live Facelift (1991)",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Alice In Chains - The Nona Tapes",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Alice In Chains - \"Over Easy and Super Sleezy Metal\" Compilation",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Alice In Chains - Heroin (Demos and Live)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Alice In Chains - Alice In Bed (Remastered)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Alice In Chains - MTV Unplugged",
+      "format": "MKV"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Under the Knife {889845666936} (2015)",
+      "version": "WEB",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice in Chains - Live At The Palladium Hollywood 1992 (2019)",
+      "version": "WEB",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - It Aint Like That {5060670581396} (2019)",
+      "version": "WEB",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Westwood One Absolutely Live In Concert #01-36",
+      "version": "preFM",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[SILVERS]"
+    },
+    {
+      "type": "release",
+      "label": "Alice in Chains - Life in Chains {RTW 003} (1993)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Bad Dream {RITUAL 002} (1993)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Nightland {G-53 243} (1994)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - 1993-02-19 - Paris, France Come And Save Me {MECD 1194} (1995)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Working Class Heroes {DRAG04} (1996)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - 1990-1992",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Seattle, WA / In the Studio / 1987-1989 *Is Layne Still In Rehab?",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Welcome To My Nightmare {IBR-2205} (1993)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Them Bones {P 910070} (1993)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Unleashed {SPACE 003} (1993)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Sunshine {CD-EYE-01} (1992)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Savage Messiah {RT 001} (1993)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Rooster {SE 329} (1993)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Live & Unchained {KTS 172} (1993)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Live & Unchained (Repress) {KTS 172} (1993)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Little Red Rooster (CRC Mismatch) [ONCD-2290} (1994)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Dirty Toy Town {CM-014} (1993)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alice In Chains - Desert {LLRCD-216} (1993)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[OFFICIAL RELEASES]"
+    },
+    {
+      "type": "label",
+      "label": "Alice In Chains - Facelift (1990) (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "1990 Alice In Chains - Facelift (CBS Records, CK 46075, U.S.A.)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1992 Alice In Chains - Sap ('2011 Original Album Classics, Sony Music, 88697944482CD2, E.U.)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1992 Alice In Chains - Dirt (Sony Music, 472330 2, Austria)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1993 Alice In Chains - Jar Of Flies ('2011 Original Album Classics, Sony Music, 88697944482CD1, E.U.)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1995 Alice In Chains - Alice In Chains (Sony Music, CK 67248, U.S.A.)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1995 Alice In Chains - Alice In Chains (Sony Records, SRCS 8192, Japan)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1996 Alice In Chains - MTV Unplugged ('2011 Original Album Classics, Sony Music, 88697944482CD3, E.U.)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2000 Alice in Chains - Live {CK 85274} (2000)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2009 Alice In Chains - Black Gives Way to Blue (Virgin 509999 67159 25)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Alice in Chains - The Devil Put Dinosaurs Here (2013) (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "[SINGLES]"
+    },
+    {
+      "type": "label",
+      "label": "1992 - Would {Columbia 658888 2}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1993 - Angry Chair (Limited Edition) {Columbia 659365 2}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1993 - Down In A Hole {Columbia 659751 2}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1993 - Them Bones (Limited Edition) Columbia 659090 2}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1994 - No Excuses {Columbia 660097 1}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1995 - Grind {UK 662623 2}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1996 - Heaven Beside You {Columbia 662768 2} (Australia CD1)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1996 - Heaven Beside You (Columbia {662916 2} (Australia CD2)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1996 - Heaven Beside You {662893 2} (UK CD1)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1996 - Heaven Beside You {662893 5} (UK CD2)",
+      "format": "FLAC"
+    }
   ]
 };

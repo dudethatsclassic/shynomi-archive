@@ -1052,5 +1052,13 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "AT831s \u00b7 tapeworm48"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Rage Against the Machine feat Chris Cornell ? Civilian (The Demos) [Silver]",
+      "version": "Silver CD",
+      "format": "FLAC"
+    }
   ]
 };

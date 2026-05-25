@@ -1207,5 +1207,27 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": ""
     }
+  ],
+  "misc": [
+    {
+      "type": "show",
+      "dateStr": "6-XX-1994",
+      "year": 1994,
+      "month": 6,
+      "day": null,
+      "city": "Demos",
+      "state": "",
+      "location": "Demos",
+      "venue": "",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Social Distortion - Modern Rock Live 1992",
+      "version": "FM",
+      "format": "MP3"
+    }
   ]
 };

@@ -784,5 +784,21 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "AT831s \u00b7 Unknown"
     }
+  ],
+  "misc": [
+    {
+      "type": "show",
+      "dateStr": "3-XX-1988",
+      "year": 1988,
+      "month": 3,
+      "day": null,
+      "city": "Demo (loughney transfer)",
+      "state": "",
+      "location": "Demo (loughney transfer)",
+      "venue": "",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
+    }
   ]
 };

@@ -715,5 +715,13 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "CSB \u00b7 Unknown"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Useless Trinkets - B-sides, Soundtracks, Rarities and Unreleased (1999-2006)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    }
   ]
 };

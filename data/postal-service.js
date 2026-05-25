@@ -207,5 +207,17 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "Zoom iQ7 \u00b7 poul0004"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "The Postal Service - Give Up (10th Anniversary Deluxe Edition) (2013) (24bit)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "The Postal Service - Everything Will Change (2020) (24bit)",
+      "format": "FLAC HD"
+    }
   ]
 };

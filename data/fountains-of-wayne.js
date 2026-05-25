@@ -501,5 +501,157 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "Cemc6-ck4 \u00b7 Unknown"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "Fountains of Wayne - Pinwheel Sessions and Loftypops Demos",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Fountains Of Wayne - iTunes Live from SoHo - EP (2007)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - No Better Place - Live in Chicago DVD (2009)",
+      "version": "Official Release",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "[OFFICIAL RELEASES]"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Fountains of Wayne {US 92725-2} (1996)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Fountains of Wayne {Europe 7567-92725-2} (1996) [FLAC]",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Fountains of Wayne {Japan AMCY-2143} (1997)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Utopia Parkway {Atlantic 83177-2} (1999)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Utopia Parkway {Japan AMCY-7030} (1999)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Welcome Interstate Managers {7243 5 90875 2 8} (2003)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Welcome Interstate Managers {Canada 7243 5 84839 2 5} (2003)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Welcome Interstate Managers {Japan VJCP-68513} (2003)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Traffic and Weather {Canada Virgin EMI 0946 3 74420 2 9} (2007)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Traffic and Weather (Japan Tour Edition)  {Virgin TOCP-66712} (2007)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Traffic and Weather {Japan Virgin TOCP-66656} (2007)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains Of Wayne - Out-Of-State Plates {Virgin 0946 3 30196 2 1} (2005)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Sky Full Of Holes {YEP 2247} (2011)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[SINGLES]"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Sink to the Bottom (CDS) {7567-95612-2} (1996)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Radiation Vibe {7567-95626-2} (1996)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains Of Wayne - Survival Car {AT0004CD} (1997)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Barbara H. {AT0016CD} (1997)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - I Want an Alien for Christmas {AT0020CD} (1997)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Troubled Times (AT0074CD} (1999)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains of Wayne - Stacy's Mom {VSCDX1860} (2004)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Fountains Of Wayne - Stacy's Mom {UK 0724354754425} (2004)",
+      "version": "Official Release",
+      "format": "FLAC"
+    }
   ]
 };

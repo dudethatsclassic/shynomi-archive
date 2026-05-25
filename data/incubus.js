@@ -2242,5 +2242,512 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": ""
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Incubus - The Morning View Sessions (2001)",
+      "version": "Official",
+      "format": "MKV"
+    },
+    {
+      "type": "release",
+      "label": "Incubus - Live At Lollapalooza (2003)",
+      "version": "Official",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Incubus - Live in Japan 2004 - Tokyo, Japan - Nippon Budokan (March 2004)",
+      "version": "Official",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Incubus - Live in Malaysia 2004 - Kuala Lumpur, Malaysia - Bukit Kiara Equestarian Park (March 2004)",
+      "version": "Official",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Incubus - Live In Sweden 2004  - Stockholm, Sweden - Annexet (April 2004)",
+      "version": "Official",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus ? iTunes Live from SoHo (2011)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Incubus - Official Guitar Tablature Booklets",
+      "version": "Official",
+      "format": "PDF"
+    },
+    {
+      "type": "release",
+      "label": "Incubus - Alive at Red Rocks (2004)",
+      "version": "Official",
+      "format": "MKV"
+    },
+    {
+      "type": "release",
+      "label": "Incubus - Look Alive - Live from Chicago & Europe (2007)",
+      "version": "Official",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "[OFFICIAL RELEASES]"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Fungus Amongus {EK 61497} (1995)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Enjoy Incubus {EK 67900} (1997)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - S.C.I.E.N.C.E. {EK 67972} (1997)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - A Certain Shade Of Green {667835 2} (1999)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Make Yourself (Limited Edition) {EPC 495040 9} (1999)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Pardon Me {669346 2} CDS (2000)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Stellar (Promo) {ESK 15045} (2000)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - When Incubus Attacks Vol. I {EK 61395} (2000)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Wish You Were Here {672255 2} CDS (2001)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Wish You Were Here (Live EP, Limited) {672255 5} (2001)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Morning View (Best Buy Deluxe Edition) {EK 86259} (2001)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Are You In (CD1) {672848 2} CDS (2002)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Are You In (CD2) {672848 5} CDS (2001)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Morning View {504061 9} (2001)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Drive {671040 2} (CDS) (2001)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Nice To Know You {672290 2} (CDS) (2002)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - A Crow Left of the Murder... {EPC 515047 3} (CD,DVD) (2004)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Megalomaniac {674584 2} (CDS) (2004)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Megalomaniac {674646 5} (CDS) (2004)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Talk Shows On Mute {674857 2} (CDS) (2004)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Alive At Red Rocks {Japan EIBP 47-8} (2004)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Anna-Molly {88697041232} (CDS) (2006)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Light Grenades {82876 83852 2} (2006)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Look Alive (CD, DVD, Live Album) {88697203289} (2007)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Monuments and Melodies {88697453172} (2CD) (2009)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - If Not Now, When (Japan Edition) (2011)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Trust Fall (Side A) {UICL-1130} (2015)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - 8 {B0026461-02} (2017)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[HD]"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Incubus HQ Live (Deluxe Edition) (2012) (24bit)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - 8 (2017)  (24bit)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Our Love (Single) (2020) (24bit)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Incubus - Trust Fall (Side B) (2020) (24bit)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "[OFFICIAL BOOTLEGS]"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-14-2011",
+      "year": 2011,
+      "month": 6,
+      "day": 14,
+      "city": "London",
+      "state": "England",
+      "location": "London, England",
+      "venue": "HMV Forum",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-17-2011",
+      "year": 2011,
+      "month": 6,
+      "day": 17,
+      "city": "Berlin",
+      "state": "Germany",
+      "location": "Berlin, Germany",
+      "venue": "Huxley's Neue Welt",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-18-2011",
+      "year": 2011,
+      "month": 6,
+      "day": 18,
+      "city": "Scheebel",
+      "state": "DEU",
+      "location": "Scheebel, DEU",
+      "venue": "Eichenring",
+      "notes": "Hurricane Festival",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-19-2011",
+      "year": 2011,
+      "month": 6,
+      "day": 19,
+      "city": "Neuhausen ob Eck",
+      "state": "DEU",
+      "location": "Neuhausen ob Eck, DEU",
+      "venue": "Take-off Gewerbepark",
+      "notes": "Southside Festival",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-15-2011",
+      "year": 2011,
+      "month": 7,
+      "day": 15,
+      "city": "Santa Barbera",
+      "state": "CA",
+      "location": "Santa Barbera, CA",
+      "venue": "Santa Barbera Bowl",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-26-2011",
+      "year": 2011,
+      "month": 7,
+      "day": 26,
+      "city": "Jakarta",
+      "state": "Indonesia",
+      "location": "Jakarta, Indonesia",
+      "venue": "Istora Senayan",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-28-2011",
+      "year": 2011,
+      "month": 7,
+      "day": 28,
+      "city": "Manila",
+      "state": "Philippines",
+      "location": "Manila, Philippines",
+      "venue": "Araneta Coliseum",
+      "notes": "",
+      "version": "SBD",
+      "format": "M4A"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-30-2011",
+      "year": 2011,
+      "month": 7,
+      "day": 30,
+      "city": "Yuzawa",
+      "state": "Niigata Japan",
+      "location": "Yuzawa, Niigata Japan",
+      "venue": "Naeba Ski Resort",
+      "notes": "Fuji Rock Festival",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-31-2011",
+      "year": 2011,
+      "month": 7,
+      "day": 31,
+      "city": "Icho'on",
+      "state": "SKR - Jisan Valley Ski Resort",
+      "location": "Icho'on, SKR - Jisan Valley Ski Resort",
+      "venue": "",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-5-2011",
+      "year": 2011,
+      "month": 8,
+      "day": 5,
+      "city": "Honolulu",
+      "state": "HI",
+      "location": "Honolulu, HI",
+      "venue": "Kaka'ako Waterfront Park",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-20-2011",
+      "year": 2011,
+      "month": 8,
+      "day": 20,
+      "city": "Maryland Heights",
+      "state": "MO",
+      "location": "Maryland Heights, MO",
+      "venue": "Verizon Wireless Amphitheatre",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-3-2011",
+      "year": 2011,
+      "month": 9,
+      "day": 3,
+      "city": "Wantagh",
+      "state": "NY",
+      "location": "Wantagh, NY",
+      "venue": "Nikon at Jones Beach Theatre",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-14-2012",
+      "year": 2012,
+      "month": 8,
+      "day": 14,
+      "city": "Mansfield",
+      "state": "MA",
+      "location": "Mansfield, MA",
+      "venue": "Comcast Center",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-17-2012",
+      "year": 2012,
+      "month": 8,
+      "day": 17,
+      "city": "Camden",
+      "state": "NJ",
+      "location": "Camden, NJ",
+      "venue": "Susquehanna Bank Center",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-19-2012",
+      "year": 2012,
+      "month": 8,
+      "day": 19,
+      "city": "Alpharetta",
+      "state": "GA",
+      "location": "Alpharetta, GA",
+      "venue": "Verizon Wireless Amphitheatre",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-21-2012",
+      "year": 2012,
+      "month": 8,
+      "day": 21,
+      "city": "Detroit",
+      "state": "MI",
+      "location": "Detroit, MI",
+      "venue": "The Palace of Auburn Hills",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-22-2012",
+      "year": 2012,
+      "month": 8,
+      "day": 22,
+      "city": "Cincinnati",
+      "state": "OH",
+      "location": "Cincinnati, OH",
+      "venue": "Riverbend Music Center",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-24-2012",
+      "year": 2012,
+      "month": 8,
+      "day": 24,
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago,  IL",
+      "venue": "First Midwest Bank Amphitheatre",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-28-2012",
+      "year": 2012,
+      "month": 8,
+      "day": 28,
+      "city": "Houston",
+      "state": "TX",
+      "location": "Houston, TX",
+      "venue": "Cynthia Woods Mitchell Pavilion",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-1-2012",
+      "year": 2012,
+      "month": 9,
+      "day": 1,
+      "city": "Saratoga Springs",
+      "state": "NY",
+      "location": "Saratoga Springs, NY",
+      "venue": "Saratoga Performing Arts Center",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    }
   ]
 };

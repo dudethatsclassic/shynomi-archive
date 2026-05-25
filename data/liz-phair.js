@@ -334,5 +334,25 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "notes": "DPA 4081 \u00b7 faninor"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "Liz Phair - '96 Shelved Demos",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Liz Phair - '96-'97 WCSE Sessions",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Luscious Jackson"
+    },
+    {
+      "type": "label",
+      "label": "Drive - E"
+    }
   ]
 };

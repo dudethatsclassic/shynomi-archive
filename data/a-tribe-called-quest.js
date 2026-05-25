@@ -118,5 +118,57 @@ const ARTIST_DATA = {
       "format": "MP4",
       "notes": ""
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "A Tribe Called Quest - Rare And Unreleased Instrumentals Vol. 1 {ATCQINS101CD} (1996) [FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Native Tongues - Unreleased & Unleashed  {ARC-790} (2002)",
+      "version": "Vinyl",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "A Tribe Called Quest - The Lost Tribes {AT5417} (2006)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[SINGLES]"
+    },
+    {
+      "type": "label",
+      "label": "A Tribe Called Quest - Luck Of Lucien (CDS) {JIVE CD 317} (1992)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "A Tribe Called Quest - Hot Sex (CDS) {01241-42094-2} (1992)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "A Tribe Called Quest - Scenario (CDS) {UK JIVE CD 302} (1992)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "A Tribe Called Quest - Award Tour (CDS) {JDJ-42186-2} (1993)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "A Tribe Called Quest ?- Oh My God (CDS) {01241-42211-2} (1994)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "A Tribe Called Quest - Electric Relaxation (Relax Yourself Girl) (CDS) {01241-42197-2 } (1994)",
+      "format": "FLAC"
+    }
   ]
 };

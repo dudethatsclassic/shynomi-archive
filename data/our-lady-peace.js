@@ -759,5 +759,185 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "Panasonic Mm-bsm7s \u00b7 Kevdogg"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Live 1995 (Promo) {CDNEK 001122} (1995)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Labatt Blue Music {CDNEK 1712} (2004)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Spiritual Machines (Acoustic Live) {181792001533} (2021)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[OFFICIAL RELEASES]"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Naveed {CRT 1507} (1994)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Naveed {EK80191} (1994)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Clumsy {CK 67940} (1997)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Library Sampler {CSK 41209} (1998)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Happiness... Is Not a Fish That You Can Catch {CK 63707} (1999)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Happiness Is Not A Fish You Can Catch - Deluxe Edition (w/ Bonus CD) {CK 63899} (1999)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Spiritual Machines {CK 80598} (2000)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Spiritual Machines  {Japan ESCA 8312} (2000)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Gravity {CK 86585} (2002)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Live (EP) {CSK 59220} (2002)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Live {Columbia CK 85855} (2003)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Healthy in Paranoid Times {88697070142} (2005)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - A Decade {Columbia 82876 88480 2} (2006)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Burn Burn {OLP2-519895} (2009)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Burn Burn Burn (Deluxe Edition) {OLP2-520561} (2009)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Curve {EOM-CD-2423} (2012)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Somethingness {OLP180223} (2018)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Spiritual Machines II {OLP210423} (2022)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - OLP 30 Volume 1 (2024)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - OLP 30 Volume 2 (2024)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - OLP 30 Volume 3 {196872417197} (2025)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[SINGLES]"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Naveed {RPROCD0372} (Promo) (1995)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Superman's Dead {CSK 9955} (Promo) (1997)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Superman's Dead {EPC 664331 2} (1997)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - 4AM {CSK 41071} (1998)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Clumsy {665131-2} (1998)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - One Man Army {CSK 42454} (1999)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Is Anybody Home {CSK 48761 US Promo 1} (1999)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Is Anybody Home {CSK 45772 US Promo 2} (2000)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Life {671874.2 AUS} (2001)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Our Lady Peace - Somewhere Out There {672965 2 AUS} (2002)",
+      "format": "FLAC"
+    }
   ]
 };

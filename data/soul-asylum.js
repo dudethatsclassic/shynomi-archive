@@ -639,5 +639,13 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "SP-CMC-8c \u00b7 farve4"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Soul Asylum - The Lost Album (MO10004) (1993)",
+      "version": "Silver CD",
+      "format": "APE"
+    }
   ]
 };

@@ -9124,5 +9124,255 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": ""
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "3-XX-1994 - Space Madness Sessions",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "The Lazy Stars Sessions (1994)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Bedhead 5 \"What Will Happen Next\"",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Black Clouds - Love is Hell Sessions",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Exile On Franklin Street (Promo CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Whiskeytown LP3 (Pneumonia)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Elizabethtown Sessions Live",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Rough & Mellow (1994-2014) Unreleased Live Songs",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Sing You A Song (1998-2014) Jam & Improv Collection",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Destroyer Sessions (2000)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Nashville, TN - The Suicide Handbook Sessions (2001)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - iTunes Session (2012)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Live In Jamaica (2003)",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "[OFFICIAL RELEASES]"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Heartbreaker (2000) (Deluxe Edition - HDTracks 2016) (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - 2001 - Gold (2002 SACD Multichannel Ed.) (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Rock N Roll (2003) (2014) (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams & The Cardinals - Cold Roses (2005) (2014 HDTracks (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Easy Tiger (2007) HDTracks (2014) (24/88.2)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Ashes & Fire (2011) 2014 HDTracks (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Live After Deaf (2012)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams & The Cardinals - Follow The Lights (2014) (24/88.2)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - 29 (2014) (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Ryan Adams (2014) HDTracks (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Love Is Hell (2014) (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Love Is Hell Pt. 1 (Europe) {981366-6} (2003)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Love Is Hell Pt. 1 {B0001548-02} (2003)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Love Is Hell Pt. 2 (Europe) {981 366-7} (2003)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Love Is Hell Pt. 2 {B0001549-02} (2003)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - 1984 (2014)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Burn In The Night EP (2015)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Ten Songs From Live At Carnegie Hall {B002263402} (2015)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Live At Carnegie Hall (2015 HDTracks) (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - 1989 (2015) (24/192)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Prisoner (2017) (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Prisoner - End of World Edition - B-Sides (Pax-Am Records 2017) (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Wednesdays (2020) (24/48)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Big Colors (2021) (24/48)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Chris (2022)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Romeo & Juliet (PAXAM Bonus Tracks) (2022)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - FM (2022)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Devolver (2022) (24/44.1)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Blackhole (2024)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Self Portrait {0199538050967} (2025) (24-44.1)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Heartbreaker (25th Anniversary Edition) {PAX-AM 085} (2025)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Another Wednesday {PAXAM0083CD} (2025)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[SINGLES]"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - This Is It (EU CDS) {0602498621493} (2004)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Wonderwall (CDS 1) {602498630976} (2004)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ryan Adams - Wonderwall (CDS 2) {602498630983} (2004)",
+      "format": "FLAC"
+    }
   ]
 };

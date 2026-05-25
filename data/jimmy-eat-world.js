@@ -361,5 +361,13 @@ const ARTIST_DATA = {
       "format": "TS",
       "notes": "magentamusik.de \u00b7 1080"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Believe In What You Want (DVD)",
+      "version": "Official",
+      "format": "DVD"
+    }
   ]
 };

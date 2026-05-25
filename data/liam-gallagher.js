@@ -496,5 +496,13 @@ const ARTIST_DATA = {
       "format": "MKV",
       "notes": "1080i"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Liam Gallagher - Why Ritz Why Not (Golden Eggs 121)",
+      "version": "FM",
+      "format": "Silver CD"
+    }
   ]
 };

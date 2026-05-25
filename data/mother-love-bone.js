@@ -181,5 +181,22 @@ const ARTIST_DATA = {
       "format": "M4A",
       "notes": ""
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "1988 Shine On Demos",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[OFFICIAL RELEASES]"
+    },
+    {
+      "type": "label",
+      "label": "Mother Love Bone - On Earth As It Is - The Complete Works (2016) (24/96)",
+      "format": "FLAC HD"
+    }
   ]
 };

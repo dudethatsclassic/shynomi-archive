@@ -348,5 +348,47 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "Zoom H1n \u00b7 bowlingron"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Live In Buffalo 2004",
+      "version": "PRO",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Goo Goo Dolls - Superstar Car Wash Demos (1992)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Goo Goo Dolls - Gaa Gaa {D2P 009} (1996)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[OFFICIAL RELEASES]"
+    },
+    {
+      "type": "label",
+      "label": "[SINGLES]"
+    },
+    {
+      "type": "label",
+      "label": "1995 Goo Goo Dolls - Name (CDS) {W0333CD} (1995)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1995 Goo Goo Dolls - Only One (CDS) {W0293CD} (1995)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2000 Goo Goo Dolls - Broadway (CDS) {D2089} (2000)",
+      "format": "FLAC"
+    }
   ]
 };

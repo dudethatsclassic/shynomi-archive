@@ -9745,5 +9745,544 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "notes": "DPA 4061 \u00b7 0ne8ung"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "2000 Miles (Single)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2001-2003 - Hollywood Free Shows - Virgin Megastore",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Harmless (Complete Version)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Have Yourself A Merry Little Christmas",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "How You See The World (No. 2 - Prev Unreleased)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Spies (Demo Version)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Talk (1st Version)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Talk (Francois Kevorkian Dub)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Viva La Vida (Rare 30 sec Demo 2007)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Viva La Vida (The Demos)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "When We Were Young (The Early Days Compilation)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Yellow (Acoustic) - From Starbucks, Every Mother Counts CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Rare and Live (1999-2003 Mix)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Rare and Live (1999-2005 Mix)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Coldplay - Early Days 2000 Compilation",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Coldplay - Rarities (Box-set Collection)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Coldplay - Progressive Rock Impressions",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Coldplay - Put A Smile On Your Face [Silver]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Coldplay - Twisted Logic In Copenhagen [Silver]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Coldplay - X-Pose (CTCD7041)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Coldplay - Paradise (Fedde Le Grand Remix)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[SINGLES]"
+    },
+    {
+      "type": "label",
+      "label": "1998 - Ode To Deodorant (Demo tape)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2000 - Shiver",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2000 - Trouble",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2000 - Yellow (7243 8 89201 2 4)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2001 - Don`t Panic",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2002 - In My Place (7243 5 51126 2 0)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2002 - The Scientist",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2003 - Clocks (Japan)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2003 - Clocks (UK)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2003 - God Put A Smile Upon Your Face (Australia)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2005 - Fix You",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2005 - Speed of Sound",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2005 - Talk (Australian CDS)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2005 - Talk (Remixes)  US, Capitol CDR acetate)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2005 - Talk (Remixes)(US,_DPRO_0946_3_54897_2_9)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2005 - Talk [3 CD Special Edition] [Holland]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2006 - The Hardest Part",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2006 - The Hardest Part (Tom Lord-Alge Mix) [US, DPRO 0946 3 63786 2 6]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2006 - What If",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2008 - Life In Technicolor II",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2008 - Lost! (US Promo CDS)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2008 - Lovers In Japan (Osaka Sun Mix) [US, 50999 2 66019 2 2]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2008 - Violet Hill",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2008 - Violet Hill (7inch free with NME 7th May 2008)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2008 - Violet Hill (Promo CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2008 - Viva La Vida (Promo CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2008 - Viva La Vida [EU, 50999 2 35872 2 9]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2009 - Strawberry Swing (CD Single)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2010 - Christmas Lights",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2011 - Every Teardrop Is A Waterfall (CDS)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2012 - Charlie Brown (CDS)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2017 - A L I E N S",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2017 - The Chainsmokers & Coldplay - Something Just Like This (Remix Pack)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2017 - All I Can Think About Is You",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2017 - Hypnotised",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2017 - Something Just Like This (Tokyo Remix)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2017 - The Chainsmokers & Coldplay - Something Just Like This",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2019 - Orphans Arabesque",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2020 - Champion Of The World (Live at NPR's Tiny Desk (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2020 - Flags (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2020 - Champion Of The World (Live at NPR's Tiny Desk) (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2021 - Higher Power (24/44.1)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2021 - Higher Power (Acoustic Version) (24/48)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2021 - Higher Power (Tie?sto Remix) (24/48)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2021 - Higher Power (ZHU Remix) (24/44.1)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "[OFFICIAL RELEASES]"
+    },
+    {
+      "type": "label",
+      "label": "1998 Coldplay - Safety EP",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1999 Coldplay - Brothers & Sisters (EP)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1999 Coldplay - The Blue Room EP",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2000 Coldplay - Acoustic (Promo CD with The Independent)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2000 Coldplay - Parachutes (7243 5 27783 2 4)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2001 Coldplay - Trouble - Norwegian Live EP",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2002 Coldplay - A Rush of Blood to the Head (7243 5 40504 2 8)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2002 Coldplay - A Rush of Blood to the Head (HDTracks) (24/192)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2003 Coldplay - A Rush Of B-Sides To Your Head (7 24358 05682 2)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2003 Coldplay - Clocks (Special Edition)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2003 Coldplay - Live 2003",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2005 Coldplay - X&Y (CDP 7243 4 74786 2 8)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2005 Coldplay - X&Y (Special Edition) (TOCP 66523) Japan",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2008 Coldplay - Prospekt's March [FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2008 Coldplay - Viva la Vida or Death and All His Friends (2009, Prospekt's March Edition (Japanese Edition), TOCP-66851?52)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2009 Coldplay - Greatest Hits (22846 1/2)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2011 Coldplay - Mylo Xyloto (Japan Edition) (TOCP 71200)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2012 Coldplay - Live 2012",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2012 Coldplay Ft. Rihanna - Princess Of China (Promo CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2014 Coldplay - Ghost Stories (Deluxe Edition)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2014 Coldplay - Ghost Stories (Instrumentals)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2014 Coldplay - Ghost Stories Live 2014 (825646206070)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2014 Coldplay - Midnight (Remixes)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2015 Coldplay - A Head Full Of Dreams (Japan Edition)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2017 Coldplay - A Head Full Of Dreams (Japan Tour Edition)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2017 Coldplay - Kaleidoscope EP",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2018 Coldplay - Live In Buenos Aires",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2019 Coldplay - Everyday Life (Japan Edition) (WPCR 18287)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[HD RELEASES]"
+    },
+    {
+      "type": "label",
+      "label": "2000 Coldplay - Parachutes (2016) (24/192)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2005 Coldplay - X&Y (24/192)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2008 Coldplay - Viva La Vida (Prospekt's March Edition) (24/44.1)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2008 Coldplay - Viva la Vida or Death And All His Friends (24/44.1)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2014 Coldplay - Ghost Stories (24/44.1)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2015 Coldplay - A Head Full of Dreams (24/192)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2016 Coldplay - Prospekt's March EP (24/44.1)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2017 Coldplay - Kaleidoscope EP (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2018 Coldplay - Live In Buenos Aires (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2019 Coldplay - Everyday Life (24/48)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2019 Coldplay - Everyday Life (Explicit) (24/96)",
+      "format": "FLAC HD"
+    }
   ]
 };

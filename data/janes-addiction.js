@@ -4066,5 +4066,22 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "notes": "Sony PCM-A10 \u00b7 Auger3d"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Jane's Addiction - Skin And Bones (YTH-081)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[OFFICIAL RELEASES]"
+    },
+    {
+      "type": "label",
+      "label": "Jane's Addiction - Nothing's Shocking (1988) (24/192)",
+      "format": "FLAC HD"
+    }
   ]
 };

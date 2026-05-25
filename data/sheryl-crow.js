@@ -64,5 +64,12 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "SP-CMC-08s \u00b7 ironchef"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "Sheryl Crow - The Unreleased Album {SCPR01} (1997)",
+      "format": "FLAC"
+    }
   ]
 };

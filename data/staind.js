@@ -199,5 +199,13 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "notes": "DPA 4081 \u00b7 faninor"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Staind & Godsmack Westwood One Absolutely Live In Concert #03-40 (Pre-FM)",
+      "version": "preFM",
+      "format": "FLAC"
+    }
   ]
 };

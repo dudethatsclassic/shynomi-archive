@@ -677,5 +677,13 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "notes": "DPA 4061 \u00b7 tw"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "The Lemonheads - Sony Music TV Special - VHS(2) (1994)",
+      "version": "TV",
+      "format": "MPG"
+    }
   ]
 };

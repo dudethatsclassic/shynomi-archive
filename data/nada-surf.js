@@ -238,5 +238,61 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "SP-CMC-8 \u00b7 live2cd"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "Nada Surf - The MySpace Transmissions {bark70.5} (2008)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Nada Surf - Standing at the Gates - The Songs of Nada Surf's Let Go (2018)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Nada Surf - Peaceful Ghosts (Live) (2016)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[SINGLES]"
+    },
+    {
+      "type": "label",
+      "label": "Nada Surf - Popular (CDS) {7559-64259-9} (1996)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Nada Surf - Deeper Well (CDS) {7559-64187-9} (1997)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Nada Surf - Black & White - Spooky {PRO 1012} (1998) {Promo EP}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Nada Surf - Inside of Love {HVN 133CD} (2002)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Nada Surf - Inside Of Love (CDS) {LIBSP5075.2} (2002)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Nada Surf - L'Aventurier {72435473842} (2003)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Nada Surf - Bank Robber Music Compilation Volume 16.5 (2008)",
+      "format": "FLAC"
+    }
   ]
 };

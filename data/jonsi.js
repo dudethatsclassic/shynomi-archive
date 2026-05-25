@@ -244,5 +244,11 @@ const ARTIST_DATA = {
       "format": "",
       "notes": ""
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "Compilations from May 2010"
+    }
   ]
 };

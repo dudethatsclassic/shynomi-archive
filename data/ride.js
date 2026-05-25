@@ -461,5 +461,22 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "notes": "Schoeps MK4 \u00b7 loughney"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "Ride - 1990 Demos (Corrected)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ride - Demos",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ride - Peel Sessions",
+      "format": "FLAC"
+    }
   ]
 };

@@ -601,5 +601,22 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "SP-CMC-8 \u00b7 Foosman1"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "The Goodfoot Workshop (1990 Demos)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Shannon Hoon Acoustic Demos - Kingsway 1994",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "The Headtrain Demos (1990)",
+      "format": "FLAC"
+    }
   ]
 };

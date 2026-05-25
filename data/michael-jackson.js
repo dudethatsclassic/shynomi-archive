@@ -235,5 +235,18 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "Homemade stereo mics \u00b7 kingkeld"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Michael Jackson - Transmission Impossible (2017) (ETTB088)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Michael Jackson - Dangerous Tour Rehearsals",
+      "format": "DVD"
+    }
   ]
 };

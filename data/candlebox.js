@@ -1282,5 +1282,32 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "Unknown \u00b7 Kevdogg Transfer"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Into the Flame (1993 Demos) (KTS 355)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Both Ends Burning (Various Locations 1994 Tour)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[SINGLES]"
+    },
+    {
+      "type": "label",
+      "label": "Candlebox - Far Behind (CDS) {W0258CD} [1993]"
+    },
+    {
+      "type": "label",
+      "label": "Candlebox - You (CDS) {9 18304-2} (1993)",
+      "format": "FLAC"
+    }
   ]
 };

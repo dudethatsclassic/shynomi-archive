@@ -301,5 +301,13 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "SP-CMC-8 \u00b7 live2cd"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Creed - Live at Woodstock (Remaster Project)",
+      "version": "SBD",
+      "format": "FLAC"
+    }
   ]
 };

@@ -224,5 +224,13 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "Tascam DR-07Z \u00b7 bucketpool"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Live at the Starland Ballroom (DVD)",
+      "version": "Official",
+      "format": "DVD"
+    }
   ]
 };

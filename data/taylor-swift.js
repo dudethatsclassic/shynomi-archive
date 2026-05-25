@@ -356,5 +356,13 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "notes": "DPA 4061 \u00b7 opsopcopolis"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Taylor Swift- Today Show 2010 [TV]",
+      "version": "TV",
+      "format": "TS"
+    }
   ]
 };

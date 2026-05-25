@@ -23159,168 +23159,4141 @@ const ARTIST_DATA = {
   ],
   "misc": [
     {
-      "type": "release",
-      "label": "Eddie Vedder - One Step Back (Bad Radio and Various Demos & Live Recordings)",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-6-1998",
-      "year": 1998,
-      "month": 11,
-      "day": 6,
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "Karma Club",
-      "notes": "EV and Neil Finn",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "7-29-1999",
-      "year": 1999,
-      "month": 7,
-      "day": 29,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Ed Sullivan Theater - Late Show with David Letterman",
-      "notes": "EV with Pete Townsend",
-      "version": "TV",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-30-1999",
-      "year": 1999,
-      "month": 10,
-      "day": 30,
-      "city": "Mountain View",
-      "state": "CA",
-      "location": "Mountain View, CA",
-      "venue": "Shorline Amphitheatre",
-      "notes": "EV, Brian Wilson, Neil Young, Roger Daltrey and Sheryl Crow",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "10-30-1999",
-      "year": 1999,
-      "month": 10,
-      "day": 30,
-      "city": "Mountain View",
-      "state": "CA",
-      "location": "Mountain View, CA",
-      "venue": "Shorline Amphitheatre",
-      "notes": "EV, Brian Wilson, Neil Young, Roger Daltrey and Sheryl Crow",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-17-2005",
-      "year": 2005,
-      "month": 1,
-      "day": 17,
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "The Wiltern - Tsunami Benefit",
-      "notes": "Tenacious D and Friends",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-22-2005",
-      "year": 2005,
-      "month": 9,
-      "day": 22,
-      "city": "Halifax",
-      "state": "Nova Scotia",
-      "location": "Halifax, Nova Scotia",
-      "venue": "Halifax Metro Centre",
-      "notes": "EV and Sleater-Kinney",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "11-XX-2006",
-      "year": 2006,
-      "month": 11,
-      "day": null,
-      "city": "Kings of Leon with EV (Multiple Dates)",
-      "state": "",
-      "location": "Kings of Leon with EV (Multiple Dates)",
-      "venue": "",
-      "notes": "",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "8-16-2008",
-      "year": 2008,
-      "month": 8,
-      "day": 16,
-      "city": "Washington",
-      "state": "D.C.",
-      "location": "Washington, D.C.",
-      "venue": "Warner Theater - Pancake Mountain",
-      "notes": "EV, 3MJ, and Rufus Leaking",
-      "version": "TV",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "3-27-2011",
-      "year": 2011,
-      "month": 3,
-      "day": 27,
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "Paradise",
-      "notes": "Tres Mts",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "9-26-2016",
-      "year": 2016,
-      "month": 9,
-      "day": 26,
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Global Citizens Festival",
-      "notes": "EV, Chris Martin with Yusuf Islam",
-      "version": "TV",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "dateStr": "1-10-2017",
-      "year": 2017,
-      "month": 1,
-      "day": 10,
-      "city": "Washington",
-      "state": "D.C.",
-      "location": "Washington, D.C.",
-      "venue": "The White House - Barack Obama's Farewell Address",
-      "notes": "",
-      "version": "TV",
+      "type": "label",
+      "label": "Mookie Blaylock Sessions - October 8-13, 1990 / Galleria Potatohead / London Bridge Studios - Seattle, WA",
       "format": "FLAC"
     },
     {
       "type": "label",
-      "label": "The Full Birdman Sessions"
+      "label": "Lost Dogs Outtakes (Internal Promo CD \"Rarities Unreleased Cuts\"",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Rough Mixes (1991-04-26)"
+    },
+    {
+      "type": "label",
+      "label": "XX-XX-1991-92 / Pearl Jam Masters",
+      "format": "DVD"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Seattle, WA 1992 (MTV VMA 92 & MTV Singles Premiere Party)",
+      "version": "PRO",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - The Vs. Sessions",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Vitalogy Demos",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - The Movie (1995)",
+      "format": "MKV, VCD"
+    },
+    {
+      "type": "label",
+      "label": "Flano's Adventures with Pearl Jam (1992) (YT rip)",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Flano Tapes (1992)",
+      "format": "VCD"
+    },
+    {
+      "type": "label",
+      "label": "The Gossman Project",
+      "format": "SHN"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Transport Streams 2008-2013",
+      "format": "TS"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Cockage Tapes (Original Files)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Cockage Tapes (Partial)",
+      "format": "FLAC + MP3"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Vitalogy Tour Film (Vimeo rip)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Vitalogy Tour '95 (DVD Audio Rip)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Duncan Sharp Films - Pearl Jam - Vitalogy Tour Film",
+      "format": "MOV"
+    },
+    {
+      "type": "label",
+      "label": "Eddie Vedder - Demos (Summer 1988)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Eddie Vedder - I Am Mine",
+      "version": "Audiobook",
+      "format": "M4V"
+    },
+    {
+      "type": "label",
+      "label": "Eddie Vedder - Solo Home Demos",
+      "format": "SHN"
+    },
+    {
+      "type": "label",
+      "label": "Flag Day - OST (2021) (24/88.2)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Eddie Vedder and the Walmer High School Choir - The Molo Sessions [2004 Fan Club Only CD]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Eddie Vedder - Innocent Bystander STU (Anthology 1992-2006) (Fan-made)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Early Ten: Demos & Roughs / Galleria Potatohead (London Bridge Studios - Seattle, WA)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Sponsored By No One / 1995 (DVD)",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Lightning Bolt Preview",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Live Bootleg from the END 107.7 (1994)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Lightning Bolt Special HD",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - MTV Unplugged '92",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - MTV Unplugged '92 and Other Goodies",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - 10-22-2003 (Man Of The Hour) Seattle, WA - Benaroya Hall (Pro-Shot)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Immagine In Cornice (with bonus)",
+      "format": "MKV"
+    },
+    {
+      "type": "show",
+      "dateStr": "5-31-2006",
+      "year": 2006,
+      "month": 5,
+      "day": 31,
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "The Avalon *VH1 Storytellers",
+      "notes": "",
+      "version": "",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Vote For Change Tour (2004)",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - The Christmas Singles Vol. 1: 1991-2000 (SV063)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - JasonA Archives (Compilation)",
+      "format": "DVD"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam & Former NFL Safety Steve Gleason Interview - Lightning Bolt (Webrip)",
+      "version": "WEB",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Then & Now (alvarojam)",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - TV Master Archive 1992-2017 - BD50 V3.0",
+      "format": "BLURAY"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Evolution Box Set (4CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Saturday Night Live (92,94,2006)",
+      "format": "DVD"
+    },
+    {
+      "type": "release",
+      "label": "4-2X-1992 - Westwood One - Off the Record #92-18 (w/ Social Distortion)",
+      "version": "FM",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Momma-Son Demo (From the 'Ten' Deluxe Cassette)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Rough Avocado (2014)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Dead Man Walking - Not in Our Name - The Concert (1998)",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - TV Performances 2006-2011",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Mind Your Manners (Ten Club)",
+      "format": "M4V"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - SiriusXM",
+      "version": "FM",
+      "format": "MP3"
+    },
+    {
+      "type": "release",
+      "label": "6-10-2020 - SiriusXM - Gigaton track-by-track with Stone Gossard",
+      "version": "WEB",
+      "format": "MP3"
+    },
+    {
+      "type": "release",
+      "label": "11-2-2020 - The Howard Stern Show",
+      "version": "WEB",
+      "format": "MP3"
+    },
+    {
+      "type": "release",
+      "label": "Iconoclasts (Eddie Vedder + Laird Hamilton) (2006)",
+      "version": "TV",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Live at Chop Suey - Promotional DVD",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Lollapalooza 1992 - Main Stage, Act 2 (panamaniac)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - 1998-03-05 - Melbourne, AUS - Do The Evolution",
+      "version": "AUD",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - The Videos (1990-2013)",
+      "format": "VOB"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Backspacer Video Compilation",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - 1996-2011 - Live at Letterman",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - 2015 Fan Club Single",
+      "format": "MP3"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - The J Files (Cassette)",
+      "version": "FM",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Eddie Sings The Blues (A Collection Of Cover Versions) (EURPL-614)",
+      "version": "Vinyl",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - The J Files (Remaster) [FM]",
+      "version": "FM",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Rock And Roll Hall Of Fame (MTV) - VHS(1) New York - 1995-01-12",
+      "version": "TV",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Video Anthology (2020)",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Rarities Unreleased Cuts (2004)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Remastered - Live - Soldier Field, Chicago 11th July 1995 (Live & Remastered) (2019)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Chicago 1992 (2019)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - State of Love and Trust (Live) (2019)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Pearl Jam - Radio Broadcast Live (2019)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Rearview Mirror (Live) (2019)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Black (Live) (2019)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Deep Through The Years (Flying Tiger Records)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Alive in Atlanta 1994 (2020)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "2022-12-04 - Washington, D.C. - John F. Kennedy Center for the Performing Arts (Entire Broadcast)",
+      "version": "WEB",
+      "format": "TS"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Ten - Vocal Only & Instrumentals (betojam)",
+      "version": "AI",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Dark Matter Listening Party (2024-04-13)",
+      "version": "AUD",
+      "format": "M4A"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Marquee Room - New York 1991 (2024)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Stray Cats More Cats (2025 Leak)",
+      "format": "FLAC, MP3"
+    },
+    {
+      "type": "label",
+      "label": "Bridge School Benefit '96 - Night One",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Live at Easy Street 'The New World' (w John Doe) and 'Save You'",
+      "format": "MP4"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Full Concert - Live at Pinkpop 1992 (HD)",
+      "version": "WEB",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "[VAULT RELEASES]"
+    },
+    {
+      "type": "show",
+      "dateStr": "1-17-1992",
+      "year": 1992,
+      "month": 1,
+      "day": 17,
+      "city": "Seattle",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "Moore Theater",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-2-2007",
+      "year": 2007,
+      "month": 8,
+      "day": 2,
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Vic Theater",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-19-1998",
+      "year": 1998,
+      "month": 9,
+      "day": 19,
+      "city": "Washington",
+      "state": "D.C.",
+      "location": "Washington, D.C.",
+      "venue": "Constitution Hall",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "show",
+      "dateStr": "5-10-2000",
+      "year": 2000,
+      "month": 5,
+      "day": 10,
+      "city": "Bellingham",
+      "state": "WA",
+      "location": "Bellingham, WA",
+      "venue": "Mt. Baker Theatre",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "show",
+      "dateStr": "11-30-1993",
+      "year": 1993,
+      "month": 11,
+      "day": 30,
+      "city": "Las Vegas",
+      "state": "NV",
+      "location": "Las Vegas, NV",
+      "venue": "Aladdin Theatre",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-13-1998",
+      "year": 1998,
+      "month": 7,
+      "day": 13,
+      "city": "Inglewood",
+      "state": "CA",
+      "location": "Inglewood, CA",
+      "venue": "Great Western Forum",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-11-1995",
+      "year": 1995,
+      "month": 7,
+      "day": 11,
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Soldier Field",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-29-2005",
+      "year": 2005,
+      "month": 8,
+      "day": 29,
+      "city": "Missoula",
+      "state": "MT",
+      "location": "Missoula, MT",
+      "venue": "Adams Center",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "show",
+      "dateStr": "12-8-1993",
+      "year": 1993,
+      "month": 12,
+      "day": 8,
+      "city": "Seattle",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "Mercer Arena",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "show",
+      "dateStr": "4-3-1994",
+      "year": 1994,
+      "month": 4,
+      "day": 3,
+      "city": "Atlanta",
+      "state": "GA",
+      "location": "Atlanta, GA",
+      "venue": "Fox Theatre",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "[FAN-MADE PROJECTS]"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - B-Sides & Rarities (10CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Big Nights Out (2014) Live in Australia",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Friends At High Tide (2003) Live in Australia",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Gems & Rhinestones (2009) Live in Australia",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Preternatural Other Plane (2006) Live in Australia",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Orpheum 1994 [Expanded Edition]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Stray Cats",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "The Diver (by Lowlight79) 2018",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "World Wide Mix (Lowlight Mix) 8CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Definitive Live (11CD Compilation) by ridleybradout",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "All Jacked Up (Compilation)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Life (Alt. Vitalogy)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Touring Band 2000",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Lost Dogs Rescue",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Late Night Television",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Lightning Bolt Live",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "The Complete Holiday Singles (Vinyl sourced)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Alone and Far Away (Fan Compilation - Europe 2000)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Live On Two Legs II",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Live On Three Legs (2000 Tour Compilation)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "The Guests Are So Refined (2013 Riot Act Tour of Japan)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "The Mixer - 2008-2010 (Lowlight79 8CD Compilation)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Cinderellas 2013",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Cinderellas 2014",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Yield [Deluxe]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Riot Act [Deluxe]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - NY Mirror Ball [Deluxe]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - No Code [Deluxe]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Binaural [Deluxe]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Avocado [Deluxe]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Avocado Sessions (Deluxe Edition)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Drop In The Park",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Thin Air (5CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Self-Pollution Radio (Remastered)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Green Habit - A Comprehensive Live PJ Compilation (V1.1)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Atlanta '94 (Complete Remastered Broadcast) (2022)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Out Here In the Fields (1991-2005) (kd)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - The Projects Revised",
+      "format": "M4A"
+    },
+    {
+      "type": "label",
+      "label": "[OFFICIAL RELEASES]"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - 20 Documentary",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Let's Play Two - Live from Wrigley Field",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Let's Play Two (2017) (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Live On Ten Legs",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Live At the Gorge (2007)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Single Video Theory (1998)",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Live at the Garden (2003) [MKV]",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Live at the Showbox (2002)",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Touring Band 2000 (2001)",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Ten (Epic, ZK 47857) (1991)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Ten (Sony, SRCS-5634) (1991) (Japan)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Ten (1992,  Europe,  Epic,  468884 9)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Ten (Epic, 468884 9) (1992)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Ten (Limited Edition Yellow Digipack) (1992)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Ten - REDUX (1991-2009 reissue) Epic/Legacy 88697413021 (Vinyl rip)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Ten [2009 Re-release]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Ten [2013 Redux] [24-44.1]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Ten (Redux) (2013) (24/88.2) [HDTracks]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - 10 From Ten Radio Sampler (Epic-Legacy, 88697479392) (2009) Promo",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Vs. (Sony, SRCS-6827) (1993) (Japan)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Vs. (Epic, ZK 53136) (1993) (US)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Vs. [2013 Legacy Expanded Edition] [FLAC-HD 24-96]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Vitalogy (Epic, EK 66900) (1994) (US)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Vitalogy (Sony, SRCS-7525) (1994) (Japan)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Vitalogy (1994) (2011 Remaster)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Vitalogy [2013 remaster] [FLAC-HD 24-96]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Vs. / Vitalogy Legacy Edition Box Set (3CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Universal Version (The Complete B-Sides & MTV Unplugged) (1994)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - No Code (Epic, EK 67500) (1996) (US)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - No Code (Sony, SRCS-8138) (1996) (Japan)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - No Code [1996] [FLAC-HD 24-192]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Yield (Epic, 489365 2) (1998) (US)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Yield (Sony, SRCS-8551) (1998) (Japan)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Yield [2016 remaster] [FLAC-HD 24-192]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Live On Two Legs (Sony, SRCS-8851) (1998)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Binaural (2CD Sony, SRCS-2298~9) (2000) (Japan)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Binaural (Epic, 494590 2) (2000) (US)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Binaural [2000] [FLAC-HD 24-192]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Riot Act (Epic, EK 86825) (2002) (US)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Riot Act (Epic, EICP-161) (2002) (Japan)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Riot Act [2015 HD] [FLAC-HD 24-96]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - 2002 - Riot Act (2015 HDtracks 24-192)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Lost Dogs (2CD Epic, E2K 85738) (2003)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Rearviewmirror (Greatest Hits 1991-2003) (2CD Epic, E2K 93535) (2004)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Pearl Jam (BMG, BVCP-21476) (2006) (Japan)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Pearl Jam (Monkey Wrench 82876 71467 2) (2006) (US)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - 2009 Philadelphia Spectrum Box Set",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Pearl Jam [2017 remaster] [FLAC-HD 24-192]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Backspacer (Universal, 2716317) (2009)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Lightning Bolt [2013] [FLAC-HD 24-44.1]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Gigaton [2020] [FLAC-HD 24-96]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - MTV Unplugged (2019) (Vinyl Rip)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - 1992 MTV Unplugged (2019) [FLAC-HD 24-48]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Live at Easy Street (2006)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Gigaton (B0031606-02) (2020)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Live at the Orpheum Theater - April 12, 1994 (88697843072-jkl) (2011)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Cameron Crowe - Pearl Jam Twenty (2012) (3 DVD Set)",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Live at Easy Street (82876-71466-2)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - DEEP Ten - Live (2021)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - DEEP Vs. (Live) (2023)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - DEEP No Code - Live (2021)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - DEEP Vote - Live (2021)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - DEEP 2003 - Live (2022)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - DEEP 2000 (2021)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - DEEP Touring Band - Live (2023)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Gigaton (Tour Edition) (2022)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - DEEP - Yield - Live (2023)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Give Way (Live) (2023)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Eddie Vedder - Earthling (2022) (24-48)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Eddie Vedder - Earthling (B0034909-02) (2022)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Live (Josh's Picks 2023)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Live Rarities {Mojo May 2024} (2024)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Dark Matter (2024)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Dark Matter (BD 2024 TrueHD 24-48 8CH)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - The Last of Us (2025) (WEB)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "[SINGLES]"
+    },
+    {
+      "type": "label",
+      "label": "Alive (1991) - AU CDS [FLAC] {657572 2}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Even Flow (1992) [Epic Records]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Even Flow (Epic, EPC 657857 2) (1992)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Alive (1992) {SRCS 5884 CD} [FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oceans (1992) [FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Daughter (1993) [FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Daughter (Epic, 660020 2 (1993)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Dissident (European 7 posterbag) (1994) [Vinyl - FLAC - Lossless]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Animal (Epic, 660519 2) (1994)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Dissident (3CD Epic, EPC 660291 5) (1994)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Animal (1995) - US CDS [FLAC] {34K 77948}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Given To Fly (Epic, 34K 78797) (1997)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Given to Fly [Epic Records]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Go (1993) {659795 2 CD} [FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Hail Hail (Epic, EPC 663954 1) (1996)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Hail, Hail (1996) - JP CDS [FLAC] {SRCS 8246}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Immortality (ESK 7113) [Epic Records]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Immortality (Epic, 34K 77873) (1995)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Jeremy (Epic, EPC 658180 2) (1992)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Jeremy (Epic, 658258-2, UK) (1992)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Jeremy (Epic, 658180 2) (AUS) (1992)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Merkin Ball (1995) [FLAC] Epic - 34K 78199",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Off He Goes (Epic, 664087 1) (1996)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Off He Goes (Australia) [Epic Records]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Last Kiss (Epic, 667506 2) (1999)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Last Kiss (1999) [FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Light Years (Epic, 669628 2) (2000)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Light Years (CD single) (2000) [FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "I Am Mine (Epic, 673176.2) (2002)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "I Am Mine (2002) - US CDS [FLAC] {34K 79809}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Love Boat Captain (Epic, 34K 3404) (2003)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Love Boat Captain (2003) - AU CDS [FLAC] {673537 2}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Man Of The Hour [Single] (2003) [FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Not for You (UK) [Epic Records]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Nothing as It Seems (2000) - US CDS [FLAC] {34K 79416}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Nothing As It Seems (Sony, SRCS-2243) (2000)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Save You (Single) (2002) [FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Spin the Black Circle (1994) [Epic Records]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Who You Are (1996) - AU CDS [FLAC] {663563 2}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Who You Are (Epic, 34K 78389) (1996)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Wishlist [Epic Records]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "World Wide Suicide (J Records, 82876 82192 2) Promo (2006)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Love, Reign o'er Me (2007) - [AAC]",
+      "format": "M4A"
+    },
+    {
+      "type": "label",
+      "label": "The Fixer (Universal, PEARLJAMCD1) Promo (2009)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "The Fixer (Universal, 2717602)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Ole? - 2011 - FLAC",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Sirens (2013) [FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Just Breathe (Universal, 2721715)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Mind Your Manners (2013)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Can't Deny Me (2018)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Superblood Wolfmoon (2020) - WEB FLAC",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Dance Of The Clairvoyants (2020) [WEB FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Get It Back (2020) - WEB FLAC",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Dark Matter (24/48) (2024)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[TEN CLUB HOLIDAY SINGLES]"
+    },
+    {
+      "type": "label",
+      "label": "1991 - Let Me Sleep (USA) [74354]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1992 - Sonic Reducer (USA) [749906]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1993 - Angel (USA) [75610]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1995 - History Never Repeats (USA) [7628]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1996 - Olympic Platinum (USA) [79358]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1997 - Happy When I'm Crying (USA) [73857]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1998 - Soldier of Love (USA) [41700]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1999 - Strangest Tribe (USA) [749997]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1999 - Strangest Tribe (Vinyl rip)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "2000 - Crown of Thorns (USA) [716450]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2001 - Last Soldier (USA) [756680]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2002 - Don't Believe In Christmas (USA) [758540]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2003 - Xmas (USA) [58120]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2004 - Someday At Chirstmas (USA)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2005 - Christmas 2005 (USA) [TC-2005]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2006 - Christmas 2006 (USA) [TC-2006]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2007 - Xmas 2007",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2008 - Xmas Single 2008 (USA)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2009 - Xmas 2009",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2010 - Christmas 2010 [TC-2010]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2011 - Xmas 2011",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2012 - Xmas 2012",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2013 - Holiday Single",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2014 - Xmas Single 2014",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "2015 - Wishing Well/Redemption",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2016 - Alive 2017",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2018 - Hunted Down/Missing",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "[SILVERS]"
+    },
+    {
+      "type": "release",
+      "label": "Eddie Vedder - One Step Back (Various Demos and Live Recordings)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Eddie Vedder - Keep The Fire Alive",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - 5 Alive (KTS 080)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - The 5 Musketeers (The Studio Sessions)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Ahead (Thunderball TB 030/031)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Abducted In The Land Of Deli Tray (1993) (STR001)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Alive (CD 12075)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Alive on Stage {SE 306} (1992)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - And The Pearls Sweep (HR-5932/33)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Angry Love - Vol. 1 (EV-01)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - ATLANTA the Day Before (KTS-379/80)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Against (KTS-221)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Black and White (NK001)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Building Bridges - Acoustic Shows 1999 (TCR-CD99)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Burning (1994) (AK035-36)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Chapters",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Children Of Novelty (BM100)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Completely Unplugged - The Acoustic Broadcast (2018) (ZCCD088)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Construction 95 {AB 60001} (1995)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Checkpoint Charlie (MOONRAKER 203/4)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Costa Rica (GERCD 0.18)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Covering 'Em (BKCD-051)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Dedicated to the Motherfuckers (OCTO 056/057)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Delta Sound {DVL003} (1995)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Down Under {YY 9506/7} (1995)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Down Under Again {PBS 19/20} (1998)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Eddie's Bay Area Meat Locker",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Flashpoint",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Five Against One - Vs Demos",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Freak",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Free Land (KRCR 12)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Free World (AS 10)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - French Class (SP-006-7)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - From Then 'Til Now (Eagle Records ? EAGLE 003) (2000)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Give Way",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - The Golden Unplugged Album {PJCD142} (2000)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Hallucinogenic Recipe (Box set) (1994)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Hunger Strike (FP-031-032)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Indian Summer",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - In Rock We Trust",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Jewel Box 5 (HR 5980-5)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - The Kids Are Alright",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Live from the Warehouse {Octopus OCTO 072} (1996)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Manifesting Morrison (HAWK032-033)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - New Rock 98.5 Kome",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - New Songs [Cocomelos Records] (CM 031,1994, ITA)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - New Songs III",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - New York 94 (LSCD-52589)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - No Avail {BLZD112/3} (1995)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - No Fuckin' Messiah!! (1994) (Octopus ?? OCTO 012)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - No Fuckin Messiah 2 (1995)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - No Still Life (VR-50013)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Pearl Jam and a Little Soundgarden (UM001)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Pearls Of Wisdom",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Pearl Jam as Mookie Blaylock (01 JAM 00000 1 4)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Piss Bottle Men",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Rarities 2 (Patriots)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Raw Power {WA004} (2016)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Road Rage (OXY 072/073)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - San Diego '95 (FP-020)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Satan's Black Blood (DGCD-0432)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Seattle Jammin (RTW-009)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Self Pollution Radio 1995 (GOLF010) (2015)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Self Pollution II",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Small Club - Live in Holland 1992 (PC-001)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Talk In Code",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Too Many Faces",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Transmission Impossible (ETTB055)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Two-track Demos (1994) (COP 003)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Universal Version (The Complete B-Sides & MTV Unplugged)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Unplugged and Undrugged",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Unplugged...and a little plugged (MWL-008) (1992)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - The Versus Sessions (1994) (LSCD 51569)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Vortical (KTS 368/69)",
+      "version": "Silver CD",
+      "format": "FLAC 24"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - The Wall (Berlin, Germany, 1996-11-03) {MEX006-7} (1996)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - Wash My Love (WBR-92-9500",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - We're Jamming (PLR CD-9237)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Pearl Jam - World Jam (WOT 2024-25)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[SOUNDBOARD REMASTERS SERIES]"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-6-1991",
+      "year": 1991,
+      "month": 10,
+      "day": 6,
+      "city": "Hollywood",
+      "state": "CA",
+      "location": "Hollywood, CA",
+      "venue": "Palladium",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "2-12-1992",
+      "year": 1992,
+      "month": 2,
+      "day": 12,
+      "city": "Amsterdam",
+      "state": "Holland",
+      "location": "Amsterdam, Holland",
+      "venue": "Melkweg",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "3-4-1992",
+      "year": 1992,
+      "month": 3,
+      "day": 4,
+      "city": "Utrecht",
+      "state": "Holland",
+      "location": "Utrecht, Holland",
+      "venue": "Tivoli",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-6-1992",
+      "year": 1992,
+      "month": 6,
+      "day": 6,
+      "city": "London",
+      "state": "UK",
+      "location": "London, UK",
+      "venue": "Finsbury Park Festival",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-26-1992",
+      "year": 1992,
+      "month": 9,
+      "day": 26,
+      "city": "Honolulu",
+      "state": "HI",
+      "location": "Honolulu, HI",
+      "venue": "Andrew's Amphitheater",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-XX-1993",
+      "year": 1993,
+      "month": 7,
+      "day": null,
+      "city": "Rotterdam",
+      "state": "The Netherlands",
+      "location": "Rotterdam, The Netherlands",
+      "venue": "Ahoy",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "11-5-1993",
+      "year": 1993,
+      "month": 11,
+      "day": 5,
+      "city": "Indio",
+      "state": "CA",
+      "location": "Indio, CA",
+      "venue": "Empire Polo Fields",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "4-3-1994",
+      "year": 1994,
+      "month": 4,
+      "day": 3,
+      "city": "Atlanta",
+      "state": "GA",
+      "location": "Atlanta, GA",
+      "venue": "Fox Theatre",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "1-14-1995",
+      "year": 1995,
+      "month": 1,
+      "day": 14,
+      "city": "Washington",
+      "state": "DC",
+      "location": "Washington, DC",
+      "venue": "Constitution Hall",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "3-17-1995",
+      "year": 1995,
+      "month": 3,
+      "day": 17,
+      "city": "Melbourne",
+      "state": "Australia",
+      "location": "Melbourne, Australia",
+      "venue": "Melbourne Park",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "11-1-1995",
+      "year": 1995,
+      "month": 11,
+      "day": 1,
+      "city": "Salt Lake City",
+      "state": "UT",
+      "location": "Salt Lake City, UT",
+      "venue": "Delta Center",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "11-3-1996",
+      "year": 1996,
+      "month": 11,
+      "day": 3,
+      "city": "Berlin",
+      "state": "Germany",
+      "location": "Berlin, Germany",
+      "venue": "Deutschlandhalle",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "3-5-1998",
+      "year": 1998,
+      "month": 3,
+      "day": 5,
+      "city": "Melbourne",
+      "state": "Australia",
+      "location": "Melbourne, Australia",
+      "venue": "Melbourne Park",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-22-1998",
+      "year": 1998,
+      "month": 7,
+      "day": 22,
+      "city": "Seattle",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "Memorial Stadium",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[DGR SERIES]"
+    },
+    {
+      "type": "label",
+      "label": "pj1991-07-10.boston.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1991-07-13.nyc.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1991-07-15.providence.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1991-07-17.nyc.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1991-10-06.hollywood.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1991-11-03.springfield.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1991-12-31.sanfrancisco.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-02-07.stockholm.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-02-09.copenhagen.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-02-09.copenhagen.v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-02-11.paris.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-02-12.amsterdam.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-03-02.den.haag.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-03-04.utrecht.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-03-09.berlin.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-03-16.mtv.unplugged.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-03-16.mtv.unplugged.soundcheck.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-03-28.chicago.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-04-12.nyc.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-04-20.neworleans.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-05-05.boulder.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-05-17.portland.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-06-06.london.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-06-08.pinkpop.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-06-13.berlin.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-06-17.milan.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-06-18.zurich.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-06-22.paris.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-06-26.roskilde.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-05-13.sanfrancisco.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-07-11.london.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-08-29.easttroy.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-09-20.seattle.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-09-26.honolulu.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-11-01.bridge.school.benefit.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1992-12-31.nyc.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-07-16.rotterdam.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-09-05.george.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-09-06.portland.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-10-28.sanfrancisco.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-10-30.sanjose.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-10-31.berkeley.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-11-03.sandiego.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-11-05.indio.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-11-05.indio.v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-11-12.dallas.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-11-16.neworleans.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-11-16.neworleans.v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-11-17.new.orleans.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-11-24.wichita.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-12-01.lasvegas.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1993-12-07.seattle.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-03-09.pensacola.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-03-10.chicago.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-03-13.chicago.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-03-20.annarbor.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-03-26.murfreesboro.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-03-28.st.petersburg.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-03-28.miami.v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-03-29.st.petersburg.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-03-29.st.petersburg.v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-04-02.atlanta.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-04-03.atlanta.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-04-06.springfield.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-04-06.springfield.v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-04-11.boston.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-04-12.boston.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-04-17.newyork.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-10-01.bridge.school.benefit.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1994-10-02.bridge.school.benefit.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-01-14.washington.dc.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-01-14.washingtondc.v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-02-05.seattle.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-02-06.seattle.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-02-06.seattle.v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-02-08.missoula.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-02-20.tokyo.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-02-21.osaka.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-03-08.adelaide.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-03-17.melbourne.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-03-17.melbourne.v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-03-22.brisbane.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-06-16.casper.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-06-19.denver.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-06-20.denver.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-07-08.milwaukee.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-07-09.milwaukee.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-07-11.chicago.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-09-13.phoenix.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-09-14.lascruces.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-09-16.austin.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-09-17.new.orleans.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-09-17.new.orleans.v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-11-01.salt.lake.city.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-11-02.salt.lake.city.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-11-02.salt.lake.city-v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-11-04.san.jose.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-11-04.san.jose.v3.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-11-06.san.diego.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-11-06.san.diego.v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1995-11-07.san.diego.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1996-09-14.seattle.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1996-09-22.toledo.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1996-09-24.columbia.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1996-09-29.newyork.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1996-09-29.newyork.v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1996-10-01.buffalo.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1996-10-02.hartford.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1996-10-05.charleston.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1996-10-07.fortlauderdale.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1996-10-19.bridge.school.benefit.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1996-10-20.bridge.school.benefit.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1996-11-03.berlin.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1996-11-03.berlin.v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1996-11-07.paris.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1996-11-21.barcelona.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1997-11-12.santacruz.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1997-11-15.oakland.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-02-20.maui.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-02-21.maui.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-03-02.melbourne.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-03-03.melbourne.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-03-05.melbourne.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-03-05.melbourne.v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-03-15.brisbane.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-06-21.park.city.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-06-23.englewood.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-06-29.chicago.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-06-30.minneapolis.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-07-02.stlouis.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-07-14.la.forum.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-07-14.los.angeles.v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-07-22.seattle.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-08-23.auburnhills.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-09-01.atlanta.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-09-03.birmingham.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-09-03.birmingham.v2.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-09-06.knoxville.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-09-16.mansfield.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-09-18.columbia.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-09-19.washington.dc.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-09-22.westpalmbeach.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj1998-09-23.westpalmbeach.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj2004-09-24.seattle.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj2004-09-28.boston.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj2004-09-29.boston.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj2004-10-02.toledo.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj2004-10-03.grandrapids.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj2004-10-06.asheville.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj2004-10-08.kissimmee.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj2005-10-05.chicago.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj2010-10-23.bridge.school.benefit.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj2010-10-24.bridge.school.benefit.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "pj2011-09-03.easttroy.dgr",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[SPACED VEST SERIES]"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-13-1998",
+      "year": 1998,
+      "month": 9,
+      "day": 13,
+      "city": "Hartford",
+      "state": "CT",
+      "location": "Hartford, CT",
+      "venue": "Meadows Music Theater *No Belief",
+      "notes": "SV001 \u00b7 2 source mix",
+      "version": "MTX",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-6-1992",
+      "year": 1992,
+      "month": 6,
+      "day": 6,
+      "city": "London",
+      "state": "UK",
+      "location": "London, UK",
+      "venue": "Finnsbury Park Festival *The Haunted Finsbury",
+      "notes": "SV002",
+      "version": "preFM",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-8-1995",
+      "year": 1995,
+      "month": 7,
+      "day": 8,
+      "city": "Milwaukee",
+      "state": "WI",
+      "location": "Milwaukee, WI",
+      "venue": "Marcus Amphitheatre *Cryptosporidium",
+      "notes": "SV003 \u00b7 dave posluszny remaster",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-21-1996",
+      "year": 1996,
+      "month": 9,
+      "day": 21,
+      "city": "Toronto",
+      "state": "Canada",
+      "location": "Toronto, Canada",
+      "venue": "Maple Leaf Gardens *Die Tie Die",
+      "notes": "Countryman Isomax II \u00b7 SV004",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-4-1998",
+      "year": 1998,
+      "month": 9,
+      "day": 4,
+      "city": "Greenville",
+      "state": "SC",
+      "location": "Greenville, SC",
+      "venue": "Bi-Lo Center *Cleanse",
+      "notes": "SV005 \u00b7 Neumann KM-184",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-30-1998",
+      "year": 1998,
+      "month": 6,
+      "day": 30,
+      "city": "Minneapolis",
+      "state": "MN",
+      "location": "Minneapolis, MN",
+      "venue": "Target Center *Significance",
+      "notes": "SV006 \u00b7 AKG 391b + CK63 \u00b7 taper remaster",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-29-1998",
+      "year": 1998,
+      "month": 6,
+      "day": 29,
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "United Center *Playground",
+      "notes": "SV007 \u00b7 AKG 391b & CK63 \u00b7 taper remaster",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-9-1995",
+      "year": 1995,
+      "month": 7,
+      "day": 9,
+      "city": "Milwaukee",
+      "state": "WI",
+      "location": "Milwaukee, WI",
+      "venue": "Marcus Amphitheatre  *Cryptosporideium II",
+      "notes": "CSB \u00b7 SV008 \u00b7 Maggot Brain \u00b7 fred evans remaster",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "3-11-1998",
+      "year": 1998,
+      "month": 3,
+      "day": 11,
+      "city": "Sydney",
+      "state": "Australia",
+      "location": "Sydney, Australia",
+      "venue": "Sydney Entertainment Centre *Waves",
+      "notes": "SV009 \u00b7 Countryman Isomax II",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "12-31-1992",
+      "year": 1992,
+      "month": 12,
+      "day": 31,
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "The Academy *Jam Like Hell II",
+      "notes": "SV010 \u00b7 CSB",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-11-1998",
+      "year": 1998,
+      "month": 9,
+      "day": 11,
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Madison Square Garden *Three Years in NYC",
+      "notes": "SV011 \u00b7 Second Remaster \u00b7 2 source mix",
+      "version": "MIX",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-23-1998",
+      "year": 1998,
+      "month": 9,
+      "day": 23,
+      "city": "West Palm Beach",
+      "state": "FL",
+      "location": "West Palm Beach, FL",
+      "venue": "Coral Sky Amphitheatre *Life",
+      "notes": "SV012 \u00b7 CSC \u00b7 fred evans edit",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-16-1998",
+      "year": 1998,
+      "month": 9,
+      "day": 16,
+      "city": "Mansfield",
+      "state": "MA",
+      "location": "Mansfield, MA",
+      "venue": "Great Woods *The Story of Mansfield",
+      "notes": "SV013 \u00b7 2 source mix",
+      "version": "MIX",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-20-1995",
+      "year": 1995,
+      "month": 6,
+      "day": 20,
+      "city": "Morrison",
+      "state": "CO",
+      "location": "Morrison, CO",
+      "venue": "Red Rocks Amphitheatre *Ajamimala",
+      "notes": "SV014 \u00b7 3 source mix \u00b7 fred evans remaster",
+      "version": "MIX",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "3-28-1994",
+      "year": 1994,
+      "month": 3,
+      "day": 28,
+      "city": "Miami",
+      "state": "FL",
+      "location": "Miami, FL",
+      "venue": "Bayfront Amphitheatre *Stormin' the Bay",
+      "notes": "SV015 \u00b7 SS-DSM 6P",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "4-3-1994",
+      "year": 1994,
+      "month": 4,
+      "day": 3,
+      "city": "Atlanta",
+      "state": "GA",
+      "location": "Atlanta, GA",
+      "venue": "Fox Theatre *Atlanta",
+      "notes": "Sony Australia Promo CD \u00b7 SV016",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-4-1996",
+      "year": 1996,
+      "month": 10,
+      "day": 4,
+      "city": "Charlotte",
+      "state": "NC",
+      "location": "Charlotte, NC",
+      "venue": "Memorial Stadium *Little White Lies",
+      "notes": "SV017 \u00b7 Countryman Isomax II",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "3-1-1992",
+      "year": 1992,
+      "month": 3,
+      "day": 1,
+      "city": "Groningen",
+      "state": "Holland",
+      "location": "Groningen, Holland",
+      "venue": "Vera",
+      "notes": "SV018 \u00b7 unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-19-1998",
+      "year": 1998,
+      "month": 9,
+      "day": 19,
+      "city": "Washington D.C.",
+      "state": "",
+      "location": "Washington D.C.",
+      "venue": "Constitution Hall *Live at Consititution Hall",
+      "notes": "SV019 \u00b7 SS DSM6 \u00b7 fred evans edit",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "4-12-1994",
+      "year": 1994,
+      "month": 4,
+      "day": 12,
+      "city": "Boston",
+      "state": "MA",
+      "location": "Boston, MA",
+      "venue": "Orpheum Theatre *Orpheum",
+      "notes": "SV020",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "3-10-1994",
+      "year": 1994,
+      "month": 3,
+      "day": 10,
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Chicago Stadium *Last Night",
+      "notes": "SV021 \u00b7 SS",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "11-5-1993",
+      "year": 1993,
+      "month": 11,
+      "day": 5,
+      "city": "Indio",
+      "state": "CA",
+      "location": "Indio, CA",
+      "venue": "Empire Polo Fields  *Shoe the Shoeless",
+      "notes": "SV022 \u00b7 2 source mix",
+      "version": "MIX",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "12-31-1991",
+      "year": 1991,
+      "month": 12,
+      "day": 31,
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "Cow Palace *Jam Like Hell",
+      "notes": "ANA(M) \u00b7 PJ vs Nirvana \u00b7 CM-300s \u00b7 SV023",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "*SV024"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-27-1998",
+      "year": 1998,
+      "month": 6,
+      "day": 27,
+      "city": "East Troy",
+      "state": "WI",
+      "location": "East Troy, WI",
+      "venue": "Alpine Valley *Escape from Wisconsin",
+      "notes": "SV025 \u00b7 2 source mix",
+      "version": "MIX",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-1-1998",
+      "year": 1998,
+      "month": 9,
+      "day": 1,
+      "city": "Atlanta",
+      "state": "GA",
+      "location": "Atlanta, GA",
+      "venue": "Lakewood Amphitheatre *The Weight of the World",
+      "notes": "SV026 \u00b7 2 source mix",
+      "version": "MIX",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "2-20-1998",
+      "year": 1998,
+      "month": 2,
+      "day": 20,
+      "city": "Kahului",
+      "state": "HI",
+      "location": "Kahului, HI",
+      "venue": "Alexander & Baldwin Amphitheater *We Came From the Ocean",
+      "notes": "SV027 \u00b7 2 source mix \u00b7 bill graham edit",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-22-1998",
+      "year": 1998,
+      "month": 7,
+      "day": 22,
+      "city": "Seattle",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "Memorial Stadium *Coming Home",
+      "notes": "SV028 \u00b7 blg transfer",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-26-1998",
+      "year": 1998,
+      "month": 6,
+      "day": 26,
+      "city": "East Troy",
+      "state": "WI",
+      "location": "East Troy, WI",
+      "venue": "Alpine Valley *Trapped In Wisconsin",
+      "notes": "SV029 \u00b7 2 source mix \u00b7 thinair mix",
+      "version": "MIX",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "3-9-1994",
+      "year": 1994,
+      "month": 3,
+      "day": 9,
+      "city": "Pensacola",
+      "state": "FL",
+      "location": "Pensacola, FL",
+      "venue": "Civic Center - Rock for Choice Benefit *Break the Chains",
+      "notes": "SV030 \u00b7 SS",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "3-29-1994",
+      "year": 1994,
+      "month": 3,
+      "day": 29,
+      "city": "St. Petersburg",
+      "state": "FL",
+      "location": "St. Petersburg, FL",
+      "venue": "Bayfront Amphitheater *Stare the Sun Down",
+      "notes": "SV031 \u00b7 SS-DSM6P \u00b7 fred evans remaster",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-2-1996",
+      "year": 1996,
+      "month": 10,
+      "day": 2,
+      "city": "Hartford",
+      "state": "CT",
+      "location": "Hartford, CT",
+      "venue": "Meadows Music Theatre *A Riot in the Meadows",
+      "notes": "SV032",
+      "version": "MIX",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "5-6-1995",
+      "year": 1995,
+      "month": 5,
+      "day": 6,
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "The Metro *Ringspiel",
+      "notes": "VHS(M) \u00b7 SV033",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-26-1998",
+      "year": 1998,
+      "month": 8,
+      "day": 26,
+      "city": "Cuyahoga Falls",
+      "state": "OH",
+      "location": "Cuyahoga Falls, OH",
+      "venue": "Blossom Music Center *My City Was Gone",
+      "notes": "SV034 \u00b7 2 source mix \u00b7 CMC6 + MK4",
+      "version": "MIX",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "3-2-1992",
+      "year": 1992,
+      "month": 3,
+      "day": 2,
+      "city": "Den Haag",
+      "state": "Holland",
+      "location": "Den Haag, Holland",
+      "venue": "Paard Van Troje",
+      "notes": "SV035",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "*SV036"
+    },
+    {
+      "type": "label",
+      "label": "*SV037"
+    },
+    {
+      "type": "label",
+      "label": "*SV038"
+    },
+    {
+      "type": "label",
+      "label": "*SV039"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-22-2000",
+      "year": 2000,
+      "month": 6,
+      "day": 22,
+      "city": "Milan",
+      "state": "Italy",
+      "location": "Milan, Italy",
+      "venue": "Fila Forum Arena *Nell'occhio del Beholder",
+      "notes": "SV040 \u00b7 2 source mix",
+      "version": "MIX",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "3-17-1995",
+      "year": 1995,
+      "month": 3,
+      "day": 17,
+      "city": "Melbourne",
+      "state": "Australia",
+      "location": "Melbourne, Australia",
+      "venue": "Melbourne Park *Futures",
+      "notes": "SV041",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "3-5-1998",
+      "year": 1998,
+      "month": 3,
+      "day": 5,
+      "city": "Melbourne",
+      "state": "Australia",
+      "location": "Melbourne, Australia",
+      "venue": "Melbourne Park *People of the Sea",
+      "notes": "SV042",
+      "version": "WEB",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "*SV043"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-17-1992",
+      "year": 1992,
+      "month": 6,
+      "day": 17,
+      "city": "Milan",
+      "state": "Italy",
+      "location": "Milan, Italy",
+      "venue": "Dal City Square *Untangled",
+      "notes": "SV044 \u00b7 2-source mix",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "*SV045"
+    },
+    {
+      "type": "label",
+      "label": "*SV046"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-20-2000",
+      "year": 2000,
+      "month": 8,
+      "day": 20,
+      "city": "Cincinnati",
+      "state": "OH",
+      "location": "Cincinnati, OH",
+      "venue": "River Music Center *Before the Flood",
+      "notes": "SV047 \u00b7 3 source mix \u00b7 CCM-4 + MK5 + Silver CD",
+      "version": "MIX",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-22-2001",
+      "year": 2001,
+      "month": 10,
+      "day": 22,
+      "city": "Seattle",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "Groundwork 2001 Benefit *Groundwork",
+      "notes": "SV048",
+      "version": "WEB",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-22-1998",
+      "year": 1998,
+      "month": 9,
+      "day": 22,
+      "city": "West Palm Beach",
+      "state": "FL",
+      "location": "West Palm Beach, FL",
+      "venue": "Coral Sky Amphitheatre *The Endless Summer",
+      "notes": "SV049 \u00b7 SS DSM-6P \u00b7 datfly",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "11-3-1996",
+      "year": 1996,
+      "month": 11,
+      "day": 3,
+      "city": "Berlin",
+      "state": "Germany",
+      "location": "Berlin, Germany",
+      "venue": "Deutcschlandhalle *Ic bin ein Berliner",
+      "notes": "SV050",
+      "version": "preFM",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "11-1-1995",
+      "year": 1995,
+      "month": 11,
+      "day": 1,
+      "city": "Salt Lake City",
+      "state": "UT",
+      "location": "Salt Lake City, UT",
+      "venue": "Delta Center *Rage",
+      "notes": "The Monkeywrench Chronicles Vol. 1 \u00b7 SV051 \u00b7 jwb remaster \u00b7 SBD Remaster Series 2012",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "11-2-1995",
+      "year": 1995,
+      "month": 11,
+      "day": 2,
+      "city": "Salt Lake City",
+      "state": "UT",
+      "location": "Salt Lake City, UT",
+      "venue": "Delta Center *Abandon",
+      "notes": "The Monkeywrench Chronicles Vol. 2 \u00b7 SV052",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "11-4-1995",
+      "year": 1995,
+      "month": 11,
+      "day": 4,
+      "city": "San Jose",
+      "state": "CA",
+      "location": "San Jose, CA",
+      "venue": "Spartan Stadium *Rise",
+      "notes": "The Monkeywrench Chronicles Vol. 3 \u00b7 SV053",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "11-4-1995",
+      "year": 1995,
+      "month": 11,
+      "day": 4,
+      "city": "San Jose",
+      "state": "CA",
+      "location": "San Jose, CA",
+      "venue": "Spartan Stadium *Anxiety",
+      "notes": "The Monkeywrench Chronicles Vol. 4 \u00b7 SV054",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "11-6-1995",
+      "year": 1995,
+      "month": 11,
+      "day": 6,
+      "city": "San Diego",
+      "state": "CA",
+      "location": "San Diego, CA",
+      "venue": "San Diego Sports Arena *Avail",
+      "notes": "The Monkeywrench Chronicles Vol. 5 \u00b7 SV055",
+      "version": "FM",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "11-7-1995",
+      "year": 1995,
+      "month": 11,
+      "day": 7,
+      "city": "San Diego",
+      "state": "CA",
+      "location": "San Diego, CA",
+      "venue": "San Diego Sports Arena *Resolve",
+      "notes": "The Monkeywrench Chronicles Vol. 6 \u00b7 SV056",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-3-1998",
+      "year": 1998,
+      "month": 9,
+      "day": 3,
+      "city": "Birmingham",
+      "state": "AL",
+      "location": "Birmingham, AL",
+      "venue": "BJCC Convention Center Arena *Dueling Guitars",
+      "notes": "SV057 \u00b7 SS-DSM6 \u00b7 blg transfer",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-22-1996",
+      "year": 1996,
+      "month": 9,
+      "day": 22,
+      "city": "Toledo",
+      "state": "OH",
+      "location": "Toledo, OH",
+      "venue": "John F. Savage Hall *Toledo 96",
+      "notes": "SV058 \u00b7 Countryman Isomax II",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "12-31-1991",
+      "year": 1991,
+      "month": 12,
+      "day": 31,
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "Cow Palace *Jam Like Hell",
+      "notes": "ANA(M) \u00b7 PJ vs Nirvana \u00b7 CM-300s \u00b7 SV059",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "*SV060"
+    },
+    {
+      "type": "label",
+      "label": "*SV061"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-26-1992",
+      "year": 1992,
+      "month": 9,
+      "day": 26,
+      "city": "Honolulu",
+      "state": "HI",
+      "location": "Honolulu, HI",
+      "venue": "Andrew's Amphitheater *The Isle of Boom",
+      "notes": "SV062",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - 1991-2000 - XMAS Singles (Fan Club) (SV063)",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-3-1998",
+      "year": 1998,
+      "month": 7,
+      "day": 3,
+      "city": "Bonner Springs",
+      "state": "KS",
+      "location": "Bonner Springs, KS",
+      "venue": "Sandstone Amphitheatre *Lightning Up the Darkness",
+      "notes": "SV064",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-2-1998",
+      "year": 1998,
+      "month": 7,
+      "day": 2,
+      "city": "Maryland Heights",
+      "state": "MO",
+      "location": "Maryland Heights, MO",
+      "venue": "Riverport Amphitheatre",
+      "notes": "SV065F \u00b7 3 source mix \u00b7 blg mix",
+      "version": "MIX",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "5-5-1992",
+      "year": 1992,
+      "month": 5,
+      "day": 5,
+      "city": "Boulder",
+      "state": "CO",
+      "location": "Boulder, CO",
+      "venue": "Glenn Miller Ballroom, University of Colorado",
+      "notes": "DAT(M) \u00b7 AKG C460b \u00b7 SV066 \u00b7 blg transfer",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "*SV067"
+    },
+    {
+      "type": "label",
+      "label": "*SV068"
+    },
+    {
+      "type": "label",
+      "label": "*SV069"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-1-2004",
+      "year": 2004,
+      "month": 10,
+      "day": 1,
+      "city": "Reading",
+      "state": "PA",
+      "location": "Reading, PA",
+      "venue": "Sovereign Center *VFC Reading",
+      "notes": "SV070 \u00b7 Geffel M20-pre set / Schoeps-main set \u00b7 mafia + cps",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-2-2004",
+      "year": 2004,
+      "month": 10,
+      "day": 2,
+      "city": "Toledo",
+      "state": "OH",
+      "location": "Toledo, OH",
+      "venue": "Toledo Sports Arena *VFC Toledo",
+      "notes": "SV071 \u00b7 Schoeps + DPA4022 \u00b7 mafia + george wang",
+      "version": "MIX",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-3-2004",
+      "year": 2004,
+      "month": 10,
+      "day": 3,
+      "city": "Grand Rapids",
+      "state": "MI",
+      "location": "Grand Rapids, MI",
+      "venue": "Delta Plex *VFC Grand Rapids",
+      "notes": "SV072 \u00b7 Schoeps + DAB \u00b7 mafia + sullen",
+      "version": "MIX",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-5-2004",
+      "year": 2004,
+      "month": 10,
+      "day": 5,
+      "city": "St. Louis",
+      "state": "MO",
+      "location": "St. Louis, MO",
+      "venue": "Fox Theatre *VFC St. Louis",
+      "notes": "SV073 \u00b7 Schoeps + AKGs \u00b7 mafia + unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-6-2004",
+      "year": 2004,
+      "month": 10,
+      "day": 6,
+      "city": "Asheville",
+      "state": "NC",
+      "location": "Asheville, NC",
+      "venue": "Asheville Civic Center *VFC Asheville",
+      "notes": "SV074 \u00b7 DPA 4022 \u00b7 george wang",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-8-2004",
+      "year": 2004,
+      "month": 10,
+      "day": 8,
+      "city": "Kissimmee",
+      "state": "FL",
+      "location": "Kissimmee, FL",
+      "venue": "Silver Spurs Arena *VFC Kissimmee",
+      "notes": "SV075 \u00b7 pre-set DPA 4061s + main-set Schoeps \u00b7 mafia",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-11-2004",
+      "year": 2004,
+      "month": 10,
+      "day": 11,
+      "city": "Washington",
+      "state": "D.C.",
+      "location": "Washington, D.C.",
+      "venue": "MCI Center *VFC Washington",
+      "notes": "SV076 \u00b7 blg + leehro",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[DEEP ISSUES]"
+    },
+    {
+      "type": "label",
+      "label": "Deep N08 (2011)",
+      "format": "PDF"
+    },
+    {
+      "type": "label",
+      "label": "Deep N09 (2012)",
+      "format": "PDF"
+    },
+    {
+      "type": "label",
+      "label": "Deep N10 (2013)",
+      "format": "PDF"
+    },
+    {
+      "type": "label",
+      "label": "Deep N11 (2014)",
+      "format": "PDF"
+    },
+    {
+      "type": "label",
+      "label": "Deep N12 (2015)",
+      "format": "PDF"
+    },
+    {
+      "type": "label",
+      "label": "Deep N13 (2016)",
+      "format": "PDF"
+    },
+    {
+      "type": "label",
+      "label": "Deep N14 (2017)",
+      "format": "PDF"
+    },
+    {
+      "type": "label",
+      "label": "Deep N15 (2018)",
+      "format": "PDF"
+    },
+    {
+      "type": "label",
+      "label": "Deep N16 (2019)",
+      "format": "PDF"
+    },
+    {
+      "type": "label",
+      "label": "[BOOKS & MAGAZINES]"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Ten (Official Guitar Tablature)",
+      "format": "PDF"
+    },
+    {
+      "type": "label",
+      "label": "Grunge is Dead (Greg Prato) (2009)",
+      "format": "PDF"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Grunge Comics Presents #2 The Pearl Jam Story",
+      "format": "PDF"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam FAQ by Bernard Corbett",
+      "format": "EPUB"
+    },
+    {
+      "type": "label",
+      "label": "Eddie Vedder - Mojo Magazine - March 2022",
+      "format": "PDF"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam, Eddie Vedder - None Too Fragile by Martin Clarke",
+      "format": "EPUB"
+    },
+    {
+      "type": "label",
+      "label": "Pearl Jam - Mojo Magazine - May 2024",
+      "format": "PDF"
+    },
+    {
+      "type": "label",
+      "label": "[MUSIC VIDEOS]"
+    },
+    {
+      "type": "label",
+      "label": "Alive (1991)",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Amongst the Waves (2010)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Dance Of The Clairvoyants (Mach I) (2020)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Dance Of The Clairvoyants (Mach II) (2020)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Dance Of The Clairvoyants (Mach III) (2020)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Do the Evolution (1998)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Even Flow (1991)",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Half Full (2002) [Remastered 4K 60 FPS]",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "I Am Mine (2002)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Jeremy (1992) [Uncensored version]",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Just Breathe (2009) [Live At Austin City Limits]",
+      "format": "WEBM"
+    },
+    {
+      "type": "label",
+      "label": "Life Wasted (2006)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Love Boat Captain (2002)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Mind Your Manners (2013)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Oceans (1992)",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Retrograde (2020) [Official Video]",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Retrograde (2020) [Official Visualizer]",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Save You (2002)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Sirens (2013)",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Superblood Wolfmoon (2020)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "The Fixer (2009] [Live]",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Thumbing My Way (2002)",
+      "format": "WEBM"
+    },
+    {
+      "type": "label",
+      "label": "World Wide Suicide (2006) [Alternate Video Version]",
+      "format": "MKV"
     }
   ]
 };

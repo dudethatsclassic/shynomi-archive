@@ -17332,5 +17332,294 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "notes": "flatline \u00b7 Shure Mv88"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Radiohead - Unplugged",
+      "version": "Silver CD",
+      "format": "SHN"
+    },
+    {
+      "type": "release",
+      "label": "Radiohead - Slipped Away",
+      "version": "Compilation",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Creep - Multitracks",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Reckoner - Multitracks",
+      "format": "WAV"
+    },
+    {
+      "type": "release",
+      "label": "Radiohead - The Golden Unplugged Album",
+      "version": "Silver CD",
+      "format": "SHN"
+    },
+    {
+      "type": "release",
+      "label": "Radiohead - 1993-1995 / Black Sessions",
+      "version": "Silver CD",
+      "format": "SHN"
+    },
+    {
+      "type": "release",
+      "label": "Lost Treasures / 1993-1997 (Double Album)",
+      "version": "Silver CD",
+      "format": "SHN"
+    },
+    {
+      "type": "release",
+      "label": "Radiohead - Unplugged Again (HOWL 22)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "1993-2001 / NPA Live",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1994-1996 Radiotick Demos",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1994 - Slower Demo",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Radiohead - Take Me Back (Live Recordings 2000-2018)",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "After the Head Rush EP (Compilation with Neil Young)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Radiohead - Never Run Away (The Pablo Honey Tour) (choc-eclaire / fuzzbluerain)",
+      "version": "Compilation",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Radiohead - Hail to the Thief Demo (Where I End)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Radiohead - 2003-08-13 - Mansfield, MA - Tweeter Center - Eloquent Metaphors",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Radiohead - At the Beacon Theatre, NYC 2003 (2014)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Radiohead - Hail To The Thief (leaked demo mix)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Radiohead - Everything In Its Right Place (Remixes)",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "2-26-2002",
+      "year": 2002,
+      "month": 2,
+      "day": 26,
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "The Wiltern / Concert for Artists' Rights",
+      "notes": "Eddie Vedder, Beck and Mike Ness",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Iberian Tour Compilation (2002 Tour - Lisbon, Porto, San Sebastian, Benicassim and Salamanca)",
+      "version": "AUD/FM",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Where I End And You Begin (Demo)",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "4-21-2003",
+      "year": 2003,
+      "month": 4,
+      "day": 21,
+      "city": "The Radiohead Story on BBC World Service",
+      "state": "",
+      "location": "The Radiohead Story on BBC World Service",
+      "venue": "",
+      "notes": "",
+      "version": "TV",
+      "format": "SHN"
+    },
+    {
+      "type": "label",
+      "label": "King of Limbs - From the Basement",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Radiohead - Meeting People Is Easy",
+      "version": "Official",
+      "format": "AVI"
+    },
+    {
+      "type": "release",
+      "label": "Radiohead - Live at the Astoria (5-27-1994)",
+      "version": "Official",
+      "format": "MKV"
+    },
+    {
+      "type": "release",
+      "label": "Radiohead - TKOL: Live from the Basement",
+      "version": "Official",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Radiohead - Secrets to Be Told (A Collection 1990-2012)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Radiohead - Remembering - Kid A mnesiac Live (2021)",
+      "version": "Comp",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "OK Computer Minidiscs Hacked (Purchased from Bandcamp from Radiohead)",
+      "version": "MDs",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "OK Computer Minidiscs Hacked (more complete)",
+      "version": "MDs",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "1995-2001 - Old Dutch Stuff (DVD)",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Radiohead - 2000 Live Promos",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Radiohead - TV & Live Disc 1 - PH Tour",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Radiohead - TV & Live Disc 2 - Bends Tour",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Radiohead - TV & Live Disc 3 - MTV & Stuff",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Radiohead - TV & Live Disc 4 - Other Stuff",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Radiohead - TV & Live Disc 5 - 2003",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Radiohead - TV & Live Disc 6 - PROMOs",
+      "format": "DVD"
+    },
+    {
+      "type": "show",
+      "dateStr": "11-7-2018",
+      "year": 2018,
+      "month": 11,
+      "day": 7,
+      "city": "Andi Watson Daydreaming of Radiohead",
+      "state": "",
+      "location": "Andi Watson Daydreaming of Radiohead",
+      "venue": "",
+      "notes": "",
+      "version": "WEB",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1994-1996-XX-XX - Kill Me Sarah [DVD]",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Radiohead - Radiohead Rocks Germany 2001 (2CD) (2008)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Radiohead - 2+2=5 (2004)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Radiohead - Thieves in New York (GBB06) (2003)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Thom Yorke"
+    },
+    {
+      "type": "release",
+      "label": "Eraser DVD",
+      "version": "Compilation",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Atoms For Peace"
+    },
+    {
+      "type": "release",
+      "label": "The Smile - Goodie Bag",
+      "version": "JPGS",
+      "format": "MP4"
+    }
   ]
 };

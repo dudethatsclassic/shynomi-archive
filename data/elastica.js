@@ -49,5 +49,13 @@ const ARTIST_DATA = {
       "format": "M4A",
       "notes": "pawel"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Elastica - 1994-XX-XX - Angels With Dirty Faces",
+      "version": "Silver CD",
+      "format": "FLAC"
+    }
   ]
 };

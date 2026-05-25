@@ -3937,5 +3937,161 @@ const ARTIST_DATA = {
       "format": "MP4",
       "notes": "1080"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Deftones - Deftones (1992)",
+      "version": "Cassette",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Absolutely Live - High Voltage (California 1997 & Leeds 2000)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Deftones - Engine Number Nine - 7 Words (Demo Tape) (1993)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Deftones - (Like) Linus (1993)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Deftones - Root - Nosebleed (Advance Cassette) (1994)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Deftones - Live At Dynamo Open Air (1998-2019) {0555020961} (2019)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[OFFICIAL RELEASES]"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - Adrenaline {9 46054-2} (1995)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - Around The Fur {9362-46810-2} (1997)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - Live {9362-46890-2} (1998)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - White Pony {WPCR-10689} (2000) (Japan)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - White Pony {Maverick 947705-2 RED LTD Bonus US} (2000)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - Back To School (Mini Maggit) {9362-48082-2} (2001)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - Deftones {US 48350-2} (2003)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - Saturday Night Wrist {US 43239-2} (2006)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - Diamond Eyes {511922-1} (2010)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - Koi No Yokan {093624947707} (2012)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - Gore {550092-2} (2016)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - Ohms {093624892137} (2020)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - White Pony 20th Anniversary Deluxe Edition {093624893080} (2020)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - private music {093624832249} (2025)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[SINGLES]"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - 7 Words {PRO-CD-8450-R} (1994)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - My Own Summer (Shove It) CD1 {WO432CDX} (1997)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - Be Quiet and Drive {WO445CDX} (CD1) (1997)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - Be Quiet and Drive {WO445CDX} (CD2) (1997)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Deftones - Change (In the House of Flies) {44921 2} (2000)",
+      "version": "Official Release",
+      "format": "FLAC"
+    }
   ]
 };

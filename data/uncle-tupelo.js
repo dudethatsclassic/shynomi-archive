@@ -990,5 +990,16 @@ const ARTIST_DATA = {
       "format": "",
       "notes": "new sbd-aud mix \u00b7 mrpember"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "Uncle Tupelo - Rare Essence (Various Dates)"
+    },
+    {
+      "type": "release",
+      "label": "Uncle Tupelo - Cover Story (1989-1993)",
+      "version": "Silver CD"
+    }
   ]
 };

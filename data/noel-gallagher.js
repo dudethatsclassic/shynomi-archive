@@ -171,5 +171,13 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "SP-CMC-9 \u00b7 robgronotte"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Noel Gallagher - Another Supporting Nights (1998) White Label",
+      "version": "Silver CD",
+      "format": "FLAC"
+    }
   ]
 };

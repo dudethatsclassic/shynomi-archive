@@ -1879,5 +1879,174 @@ const ARTIST_DATA = {
       "format": "DVD",
       "notes": ""
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Hole - Cover Me (1995) (loughney transfer)",
+      "version": "7\" Vinyl",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-XX-2010",
+      "year": 2010,
+      "month": 6,
+      "day": null,
+      "city": "Courtney Love - Behind the Music",
+      "state": "",
+      "location": "Courtney Love - Behind the Music",
+      "venue": "",
+      "notes": "",
+      "version": "TV",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "Hole - Argentina Demos Tape",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[SILVERS]"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Live Amsterdam '92 (1993)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Plugged & Unplugged (1995)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Rumours, Lies and Media Rape (1993-1995)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Sugar Coma",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Bring Me The Head Of Lynn Hirschberg (KROQ3)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Courtney Act (PIL07)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Dissed (KTS 013)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Good Sex (HR6042-7)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Kiss Away The Darkest Day (KTS 347)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Pretty Please (HAWK006)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Riot Girls (OCTO 184)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Rock's Bitch (HR6045-0)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Something Must Break (Snatch 01)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - The Princess Of Love (BZCD 066)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Ugly Demented World (OCTO 069)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Unglued (CH 021)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Unplugged & Reading (SY10170)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Unplugged & Unloved (SPOT 002)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Vengeance Is Mine (KTS 489)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Virgin Megastar (HOLY023) (RELCD05)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Doll Parts {VR 50033} (1995)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - Reading 1995 {3D-HO-035} (1995)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Hole - The Girl With The Most Cake [CRC mismatch] {Print 004} (1995)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    }
   ]
 };

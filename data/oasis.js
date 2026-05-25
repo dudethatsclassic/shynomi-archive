@@ -10256,5 +10256,556 @@ const ARTIST_DATA = {
       "format": "MKV",
       "notes": "1080i"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "Noel Gallagher - 1989 (Pre-Oasis) Demos",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "XX-XX-1992",
+      "year": 1992,
+      "month": null,
+      "day": null,
+      "city": "First Demo Tape",
+      "state": "",
+      "location": "First Demo Tape",
+      "venue": "",
+      "notes": "",
+      "version": "",
+      "format": ""
+    },
+    {
+      "type": "show",
+      "dateStr": "XX-XX-1993",
+      "year": 1993,
+      "month": null,
+      "day": null,
+      "city": "Definitely Maybe Demos (MickDude)",
+      "state": "",
+      "location": "Definitely Maybe Demos (MickDude)",
+      "venue": "",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "XX-XX-1993",
+      "year": 1993,
+      "month": null,
+      "day": null,
+      "city": "Liverpool",
+      "state": "England",
+      "location": "Liverpool, England",
+      "venue": "Real People Studios",
+      "notes": "Demos",
+      "version": "",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-XX-1993",
+      "year": 1993,
+      "month": 7,
+      "day": null,
+      "city": "Live Forever Demo (Creation for the Nation) Promo",
+      "state": "",
+      "location": "Live Forever Demo (Creation for the Nation) Promo",
+      "venue": "",
+      "notes": "",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "XX-XX-1993",
+      "year": 1993,
+      "month": null,
+      "day": null,
+      "city": "Whatever Demos",
+      "state": "",
+      "location": "Whatever Demos",
+      "venue": "",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "XX-XX-1993",
+      "year": 1993,
+      "month": null,
+      "day": null,
+      "city": "Whatever Demos (MickDude Remaster)",
+      "state": "",
+      "location": "Whatever Demos (MickDude Remaster)",
+      "venue": "",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1993 - Boardwalk Rehearsal Session",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Definitely Maybe Safety Masters  - Whitfield Street Recording Studios (4CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - MTV Unplugged 1996",
+      "format": "TS"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - The Lost Tapes (KTS 561)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - The Acoustic Sessions",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - Welcome to Planet Earth",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - Three Nights in a Judo Arena (Tokyo 95-98 Mix)",
+      "version": "CDR",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - Step Into 96",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - Working Class Hero (The God-like Genius of Noel Gallagher) VU200",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - Supernova (Moonchild Records)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - J.I.L.Y. Unreleased Live Album (2006) MFSL New Edition",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - Acoustically '16 (Remastered)",
+      "version": "Compilation",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - An Extraordinary Kind of Guy (Noel Live & Acoustic '97-98)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - Definitive!",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - The Untold Story (OACD 006)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - Rags to Riches",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - That's The Story",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - Under The Boardwalk",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - Urban Camouflage (Moonchild Records) (1998)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - 2002 Champagne Gold (Moonchild Records)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Standing On The Shoulder Of Giants Demos (2020 Remaster)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Big Brother - Tokyo, Japan / Ebisu Liquidroom (Noel Gallagher, Gem Archer, Terry Kirkbridge)",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Gun (Collab with Prodigy that's on a CD called Peer Music Picks)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - Lord, Don't Slow Me Down",
+      "version": "DVD",
+      "format": "MKV"
+    },
+    {
+      "type": "release",
+      "label": "Oasis - Oasis at the BBC HD - BBC Two",
+      "version": "TV",
+      "format": "TS"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - Let There Be Love (Demo)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - Heathen Demostry (2002)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "[OFFICIAL RELEASES]"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - Definitely Maybe (1994) (2014 Remastered Deluxe) (24bit)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - What's the Story Morning Glory (1995) (Deluxe_Edition 2014) (24bit) [FLAC HD]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - The Second Summer Of Love (Limited Edition)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - Stop The Clocks (2006) (EICP 685~6)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - Time Flies... 1994-2009 (2010) (SICP 2760~3)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - Supersonic (2016)",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - Be Here Now (Remastered) (2016) (24bit)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "[SINGLES]"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - Box Set - Complete Single Collection 94-05 (EICP 700~724) (2006)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 700 - Supersonic",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 701 - Shakermaker",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 702 - Live Forever",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 703 - Cigarettes & Alcohol",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 704 - Whatever",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 705 - Some Might Say",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 706 - Roll With It",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 707 - Morning Glory",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 708 - Wonderwall",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 709 - Don't Look Back In Anger",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 710 - Champagne Supernova",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 711 - D'You Know What I Mean",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 712 - Stand By Me",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 713 - All Around The World",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 714 - Don't Go Away",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 715 - Go Let It Out!",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 716 - Who Feels Love",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 717 - Sunday Morning Call",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 718 - The Hindu Times",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 719 - Stop Crying Your Heart Out",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 720 - Little By Little - She Is Love",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 721 - Songbird",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 722 - Lyla",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 723 - The Importance Of Being Idle",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "EICP 724 - Let There Be Love",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - Don't Stop... (Demo) (2020) (Single)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[2025 TOUR ARCHIVE]"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-07-04 - Live Cardiff - 1st Night - The Great Wait is Over {Uxbridge 2551}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-07-04 - Live Cardiff - 16 Years Gone {EVSD-2178.2179}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-07-04,05 - Live Cardiff - The Great Wait is Over {Shakuntala, STCD 268.269.270.271}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-07-05 - Live Cardiff - Sixteen Years On [EVSD-2183.2184]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-07-11 - Live Manchester - This Is The Place {Shakuntala STCD 272-273}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-07-16 - Live Manchester - Definitive Heaton Park - 3rd Night Restored Edition {Wardour-684}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-07-16 - Live Manchester - Stand By Manchester {EVSD-2183 2184}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-07-20 - Live Manchester - Definitive Heaton Park 2025 - Final Night Manchester Vibes in the Area {Wardour-685}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-07-20 - Live Manchester - Manchester Final {EVSD}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-07-25 - Live Wembley Stadium - 250,000 Pints Can't Be Wrong {Wardour-689}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-07-25 - Live Wembley Stadium - The Stars Have Aligned {Shakuntala STCD-276.277}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-07-25 - Live Wembley Stadium - Wembley Awakening {EVSD}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-07-26 - Live Wembley Stadium {Petrock2000 Remaster mexico2418}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-07-30 - Live Wembley Stadium - 3rd Night Historical Recording at Wembley {Wardour-686}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-08-02 - Live Wembley Stadium - Wembley Nights Forever {Icebreath Remaster}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-08-02 - LIve Wembley Stadium - Wembley Nights Forever + Wardour {Icebreath Matrix}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-08-03 - Live Wembley Stadium - Definitive Wembley Stadium - Final Night {Wardour-688}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-08-03 - Live Wembley Stadium - Wembley Nights Forever {Bennyboy Matrix Remaster EVSD}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-08-08 - Edinburgh 2025 - First Night {Uxbridge}",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-08-09 - Live Edinburgh - Murrayfield Stadium {The Lost History Channel}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-08-12 - Live Edinburgh - Murrayfield Stadium {Highland Supersonic EVSD}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-08-17 - Live Dublin - Croke Park {Sabrewulf}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-08-31 - Live East Rutherford - How The West Was Ours {Wardour-691}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-09-06 - Live Los Angeles - One Word Review Fabulous {Shakuntula 279-280}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Oasis - 2025-09-06,07 - Definitive Rose Bowl September 2025 - Cool Britannia In the U.S.A {Wardour-694}",
+      "format": "FLAC"
+    }
   ]
 };

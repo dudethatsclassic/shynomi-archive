@@ -50,5 +50,13 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "Sony D-6C \u00b7 Unknown"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Rancid - Turning Rebellion Into Money {RNCD01} (1998)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    }
   ]
 };

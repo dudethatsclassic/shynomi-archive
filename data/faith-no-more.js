@@ -2404,5 +2404,203 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": ""
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "MTV - Source Tape - Making of Angel Dust",
+      "format": "DVD"
+    },
+    {
+      "type": "release",
+      "label": "Faith No More - Lovers of the Insane (KTS112)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Faith No More - Bizarre Festival 97 {04970} (1997)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[SINGLES]"
+    },
+    {
+      "type": "label",
+      "label": "1983 - Faith No Man - Song of Liberty / Quiet in Heaven",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1987 - Faith No More - Anne's Song [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1989 - Faith No More - Epic (What Is It) [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1989 - Faith No More - Epic [Japan] [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1989 - Faith No More - Epic [UK] [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1989 - Faith No More - Epic, Falling To Pieces [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1989 - Faith No More - Falling To Pieces [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1989 - Faith No More - From Out Of Nowhere [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1990 - Faith No More - Woodpecker From Mars [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1992 - Faith No More - A Small Victory (Remixed By Youth) [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1992 - Faith No More - A Small Victory (Remixed By Youth) DIGI [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1992 - Faith No More - A Small Victory [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1992 - Faith No More - Everything's Ruined CD 1 [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1992 - Faith No More - Everything's Ruined CD 2 [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1992 - Faith No More - Midlife Crisis [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1993 - Faith No More & Boo Yaa Tribe - Another Body Murdered [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1995 - Faith No More - Digging The Grave [France] [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1995 - Faith No More - Digging The Grave [Germany] [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1995 - Faith No More - Digging The Grave [USA] [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1995 - Faith No More - Evidence (Blue) [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1995 - Faith No More - Evidence [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1995 - Faith No More - Ricochet (Orange) [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1995 - Faith No More - Ricochet [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1997 - Faith No More - Ashes To Ashes (Black On Gold) [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1997 - Faith No More - Ashes To Ashes (Gold on Maroon) [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1997 - Faith No More - Ashes To Ashes [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1997 - Faith No More - Ashes To Ashes [UK] [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1997 - Faith No More - Ashes To Ashes 2 [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1997 - Faith No More - Last Cup Of Sorrow [Aqua] [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1997 - Faith No More - Last Cup Of Sorrow [Orange] [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1998 - Faith No More - We Care A Lot _ I Started A Joke [Ger] [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1998 - Faith No More - We Care A Lot - I Started A Joke [Germany] [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "1998 - Faith No More - We Care A Lot - I Started A Joke [UK] [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2014 - Faith No More - Motherfucker [Single]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2015 - Faith No More - Superhero [Single]",
+      "format": "FLAC"
+    }
   ]
 };

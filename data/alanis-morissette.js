@@ -926,5 +926,189 @@ const ARTIST_DATA = {
       "format": "MKV",
       "notes": "1080p"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Right Through You (1995) (PD124)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - You Can Kiss It (KTS 591)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Live Junkie (1998) (TB 074)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Makes The Point! (1996) (TUCD 015)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Going North (1996) (MOONRAKER 041)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Thank U Toronto (1999) (TSP-CD 251)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - The Hands Of Love (2002) (p.rec 03)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Who's That Girl (1996) (SP001/2)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[OFFICIAL RELEASE]"
+    },
+    {
+      "type": "label",
+      "label": "Alanis Morissette - Alanis {742916 T} (1991)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Alanis Morissette - Now Is the Time (1992)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Jagged Little Pill (Original 1995 European Pressing) (24/96)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Jagged Little Pill (9362-45901-2) (1995)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - The Singles Box [5CD] (1996)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Jagged Little Pill Live {7599-38476-2} (1997)",
+      "version": "Official Release",
+      "format": "DVD"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Supposed Former Infatuation Junkie (Maverick-Reprise 9 47094-2) (1998)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Supposed Former Infatuation Junkie (1998) 2015 (24/96)",
+      "version": "Official Release",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - MTV Unplugged (1999) (24/96)",
+      "version": "Official Release",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - So-Called Chaos (2004, Maverick, 9362-48555, EU) (2004)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - So-Called Chaos (2004) (2015 HDTracks) (24/96)",
+      "version": "Official Release",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Flavors Of Entanglement {269308-2 US} (2008)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Under Rug Swept (2011) HDTracks (24/96)",
+      "version": "Official Release",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Live at Montreux 2012 (2013) (24/96)",
+      "version": "Official Release",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Feast On Scraps (2002) (2015 HDTracks) (24/96)",
+      "version": "Official Release",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Jagged Little Pill - 1995 (2015) Collector's Edition",
+      "version": "Official Release",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Jagged Little Pill (2015) (24/44.1)",
+      "version": "Official Release",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Jagged Little Pill (Acoustic) (2015) (24/96)",
+      "version": "Official Release",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Jagged Little Pill (20th Anniversary Target Deluxe Edition) (2015)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Jagged Little Pill (2015 Collector's Edition)",
+      "version": "Official Release",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Havoc And Bright Lights (Deluxe Edition) (2012) (24/44.1)",
+      "version": "Official Release",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "release",
+      "label": "Alanis Morissette - Such Pretty Forks In The Road (2020) (24/96)",
+      "version": "Official Release",
+      "format": "FLAC HD"
+    }
   ]
 };

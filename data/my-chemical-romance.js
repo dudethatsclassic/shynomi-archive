@@ -50,5 +50,13 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "SP-CMC-4U \u00b7 Unknown"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "My Chemical Romance - Life on the Murder Scene (2006) [DVD]",
+      "version": "Original Release",
+      "format": "DVD"
+    }
   ]
 };

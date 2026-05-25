@@ -4416,5 +4416,2481 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "Electret"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "B-sides & Rarities",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Songs from the Black Hole",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Reading and Lowlands Festival *Festivals 1996",
+      "version": "FM",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Video Capture Device: Treasures from the Vault 1991-2002 (Official Release)",
+      "format": "DVD"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - 1997-XX-XX / Toronto, ON - Much Music Spotlight",
+      "version": "TV",
+      "format": "DVD"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - 1994-1995 - TV Appearances",
+      "version": "TV",
+      "format": "DVD"
+    },
+    {
+      "type": "label",
+      "label": "The Extended Midget Tour",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Alive Quantum (W.B. 052/053) (2002)",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Summer Songs 2000",
+      "version": "SBD",
+      "format": "MP3"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Kitchen Tapes (CD Rip) (1992)",
+      "version": "CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Opposite Sides of the Same Good Ol' Fence (1992)",
+      "version": "CASS",
+      "format": "FLAC 24"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Third Demo - The Real Demo (1992)",
+      "version": "CASS",
+      "format": "FLAC 24"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Geffen Rarities LP (24bit)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - B-sides and Rarities (Unofficial Compilation)"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Green (Unofficial B-side Compilation)"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Red (Unofficial B-side Compilation)"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Susanne EP (Unofficial Release)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Undone (The Sweater Song) Edits",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Spring 1993 Demos",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Fort Apache Sessions (Cassette) (1995)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Susanne (Mallrats Soundtrack) (1995)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - You Gave Your Love To Me Softly (Angus Soundtrack) (1995)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "OK Human (Live Separate Audio Tracks)",
+      "format": "M4A"
+    },
+    {
+      "type": "label",
+      "label": "The Good Life (Sweden Promo CD) (1996)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "The Good Life Radio Single {PRO-CD-1075} (1996)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Superfriend (VCD Clip) (1996)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "The Good Life OZ EP {Geffen GEFDM 22202} (1997)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Y100 Sonic Sessions 1997",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Where Is My Mind - A Tribute to the Pixies (1999)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Christmas CD {Geffen INTR-10267-2} (2000)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Kevin and Bean - The Real Slim Santa (2000)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Hash Pipe (Promo) (2001)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Hash Pipe (The Remixes) (2001)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Hash Pipe Full Album Mispress (Germany INTR-10362-2)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Hashpipe (Unmastered) (2001)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Kevin and Bean - Swallow My Eggnog",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Green Album Demos",
+      "format": "FLAC + MP3"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Green Album (German Sampler)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Glenn Sound 107.7 Sessions (2001.11.14)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Early Green Album Leak (Unmastered)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - BBC Evening Sessions (2001.06.13)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Washington DC Monster Island Studio Demos (2001.05.27)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Station I.D.s (2001)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Sage & Sound Demos SnS (2001.09.06) (2001)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Photograph (Promo Mix) (2001)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Maladroit Demos & Mixes [weezer.com session uploads] (2001)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Green Album Oddities (2001)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer.com Exclusives",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Album 5 Demos",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Untitled French Promo (3 Titres Ine?dits)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Keep Fishin (German Promo CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Dope Nose (French Promo CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2002 Randoms",
+      "format": "FLAC + MP3"
+    },
+    {
+      "type": "label",
+      "label": "Buddyhead Presents - Give Me Skelter (2002)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - AOL Sessions 2005",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - 2005 Oddities",
+      "format": "FLAC + MP3"
+    },
+    {
+      "type": "label",
+      "label": "2008 Oddities",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Christmas With Weezer (2008)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Christmas With Weezer (Original Tap Tap Revenge Mixes) (2008)",
+      "format": "M4A"
+    },
+    {
+      "type": "label",
+      "label": "Pork and Beans EP (2008)",
+      "format": "FLAC + M4A"
+    },
+    {
+      "type": "label",
+      "label": "Red Bonus Tracks (2008)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Troublemaker (The Remixes) (2008)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Troublemaker Remixes 12'' [24bit FLAC 3.18.19 Vinyl Rip] (2008)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - AOL Sessions 2008",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Weezer The Lowdown (Disc 1 The Interview) (2008)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Blue, Green, Red",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - AOL Sessions",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Raditude Digital EP",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Raditude (Jacknife Lee Version)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "iTunes Pass The Weezer Raditude Club",
+      "format": "FLAC + M4A"
+    },
+    {
+      "type": "label",
+      "label": "I Want You To (Remixes)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "2009 Oddities",
+      "format": "FLAC + MP3"
+    },
+    {
+      "type": "label",
+      "label": "Like a Good Neighbor (2011)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2010 Oddities",
+      "format": "FLAC + MP3"
+    },
+    {
+      "type": "label",
+      "label": "Hang On [Single Mix] (2010)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "iTunes Originals (2010)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Represent (2010)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Represent (iTunes Single) (2010)",
+      "format": "M4A"
+    },
+    {
+      "type": "label",
+      "label": "Rivers Cuomo & The Cathy Santonies (2010)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Sirius XM Live in Studio (2010)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "The Death To False Metal & Pinkerton Deluxe Sampler (2010)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2014 Oddities",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Back To The Shack (2014)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Everything Will Be Alright In The End (Instrumentals) (2014)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Everything Will Be Alright In The End {Rough Mix - Set 2} (2014)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "EWBAITE Vocals (2014)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "2015 Oddities",
+      "format": "M4A"
+    },
+    {
+      "type": "label",
+      "label": "Everybody Needs Salvation (Vinyl) {WFC-001} (2015)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer x Wavves - Split EP (2016)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "The Last Days of Summer Vinyl (2016)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Thank God For Girls Live Debut (2016)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Spotify Sessions (2016)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2017 Oddities",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pacific Daydream Fan Remaster (2017)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Happy Hour (The Remixes) (2017)",
+      "format": "FLAC + MP3"
+    },
+    {
+      "type": "label",
+      "label": "Rosanna",
+      "format": "FLAC + MP3"
+    },
+    {
+      "type": "label",
+      "label": "Africa",
+      "format": "FLAC + M4A"
+    },
+    {
+      "type": "label",
+      "label": "2018 Oddities",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "2019 Oddities",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Black Album clean Fortnite tracks (2019)",
+      "format": "OGG"
+    },
+    {
+      "type": "label",
+      "label": "Dusty Gems and Raw Nuggets [24-96 Vinyl Rip] (2019)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - The Black Cat - Washington, DC (2019)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "2020 Oddities",
+      "format": "FLAC + MP3"
+    },
+    {
+      "type": "label",
+      "label": "Island In The Zoom (2020)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "2021 Oddities",
+      "format": "FLAC +MP3 + MOV"
+    },
+    {
+      "type": "label",
+      "label": "Audible Interview (2021)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "OK Human Photoshoot (2021)",
+      "format": "JPG"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - The Sylvain Tapes (Volume 010) Live Paris 1995",
+      "format": "FM"
+    },
+    {
+      "type": "label",
+      "label": "[Silvers]"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Geezer {KTS-026-A} (1995)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - American Holiday {TOR-065} (1995)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Studio Jam June 2001 {LOOSE-052}",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - My Name is Weezer {EXP-015} (1997)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - The Good Live (EXP-002) (1997)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Back In The Garage {Y2K Entertainment} (1999)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - London Underworld {Trade Mark Of Quality} (1999)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Weezer - Flip Sides & Acoustic Cuts {FDR 006} (2000)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Weezer ? Surf Wax Mt. Fuji {LOOSE-022} (2000)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[Singles]"
+    },
+    {
+      "type": "label",
+      "label": "Undone - The Sweater Song (1994) [FLAC] [UK, GFSTD 85]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Undone ? The Sweater Song {Geffen GFSTD 85}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Buddy Holly {UK Geffen GFSTD 88}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Christmas CD [INTR-10267-2] (2000)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Say It Ain't So {Geffen GFSTD 95}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "El Scorcho {Geffen GEFDM 22167}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pink Triangle (Promo Single) {DGC PRO-CD-1102}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Hash Pipe (Digital Single)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Hash Pipe {UK Geffen 497 564-2}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Hash Pipe [EU INTR-10362-2]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Island In The Sun (2001) [FLAC] [EU, Geffen 497 610-2]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Island In The Sun [UICF-5002] [FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Island In The Sun [UK CD2 497 616-2]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Island In The Sun {Australia 497 635-2}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Keep Fishin' (Digital Single)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Keep Fishin' {Europe Geffen 497 771-2}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Keep Fishin' {Europe Geffen 497 792-2}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Beverly Hills {Geffen 0602498817919}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "We Are All On Drugs {Geffen 0602498834954}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pork And Beans (EU Promo CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pork and Beans Digital EP",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "(If You're Wondering If I Want You To) I Want You To (Digital Single)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "The Last Days of Summer {WFC-002}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Feels Like Summer",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Mexican Fender",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "The End of the Game (2019) {Crush Music - Atlantic} [24-44.1]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[Official Releases]"
+    },
+    {
+      "type": "label",
+      "label": "Blue Album (1994)"
+    },
+    {
+      "type": "label",
+      "label": "Weezer (Advance Copy)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer (Deluxe Edition) {Geffen B0002139-02}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer [WEB FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer {MoFi MFSL 1-390} (24bit) [FLAC]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Weezer MoFi SACD (UDSACD 2160)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer (1994) (24/192)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Pinkerton (1996)"
+    },
+    {
+      "type": "label",
+      "label": "Pinkerton (Advance Copy)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pinkerton (Deluxe Edition) {US DGC B0012913-02}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pinkerton {MoFi MFSL 1-393} [VINYL]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pinkerton Deluxe Edition Vinyl (US Geffen B0012913-01)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pinkerton Vinyl (US Original Pressing Geffen DGC-25007)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Green Album (2001)"
+    },
+    {
+      "type": "label",
+      "label": "Weezer MoFi Vinyl (MFSL 1-394) [Old Rip]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer Vinyl (Original Pressing US Geffen 069493045-1)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer {Japanese UICF-1002}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer (The Green Album) {MFSL} [24bit FLAC] 3.18.19 Rip",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer (The Green Album) {069493045-1 Green Translucent}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Maladroit (2002)"
+    },
+    {
+      "type": "label",
+      "label": "Maladroit {Japan UICF-1007}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Maladroit Vinyl (US Geffen 069493241-1)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Maladroit (UK Promo CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Maladroit (Unmastered German Promo)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Songs from the Forthcoming 'Maladroit' (LIGHTING HILL 11982)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Songs from the Forthcoming 'Maladroit' (LIGHTNING HILL 12020)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Songs from the Forthcoming 'Maladroit' {BJM 11946)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Maladroit {069493241-1} 3.25.19 Rip",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "The Lion and the Witch EP {Geffen 0694934582} (2002)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "The Lion and the Witch EP {MoFi MFSL 1-391} [VINYL24] (2002)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Make Believe (2005)"
+    },
+    {
+      "type": "label",
+      "label": "Make Believe MoFi Vinyl (MFSL 1-395)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Make Believe {Japan UICF-1040}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Make Believe [Original Pressing]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Make Believe (Unmastered)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Make Believe (UK Promo CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Red Album (2008)"
+    },
+    {
+      "type": "label",
+      "label": "Weezer (Red Album) {Japanese - UCIF 9057}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer Vinyl (US Geffen B0011135-01) [FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer Deluxe Vinyl (US Self-Released) [FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer 4.8.08 CD Ref Promo",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer 4.24.08 CD Ref Promo",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer B-Sides 4.24.08 CD Ref Promo",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Six Hits (2008)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Raditude (2009)"
+    },
+    {
+      "type": "label",
+      "label": "Raditude (2009) {Japanese - UICF-1119, UICF-1120}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Raditude Vinyl (US DGC B0013510-01)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Death To False Metal (2010)"
+    },
+    {
+      "type": "label",
+      "label": "Death To False Metal [24bit FLAC] 3.19.2019",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Death to False Metal {Japan UICY-1498}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Death To False Metal Vinyl (US SRC-063)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Death to False Metal (iTunes Edition)",
+      "format": "M4A"
+    },
+    {
+      "type": "label",
+      "label": "Happy Record Store Day! {Interscope B0014167-02}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Hurley (2010)"
+    },
+    {
+      "type": "label",
+      "label": "Hurley (Deluxe) {Japan EICP-1430}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Hurley [24bit FLAC] 3.19.19 Sibilance",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Everything Will Be Alright In The End (2014)"
+    },
+    {
+      "type": "label",
+      "label": "Everything Will Be Alright In The End (UK Promo CD)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Everything Will Be Alright In The End (US Republic B0021619-02)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Everything Will Be Alright In The End [24bit FLAC] 3.19.19",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Everything Will Be Alright In The End (24-96 HDtracks)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "White Album (2016)"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Weezer (The White Album) [24bit FLAC 3.12.19]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - White Album (2016) (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Weezer [White Album - Deluxe Edition] (2016) [FLAC 24-96]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Weezer {Japan WPCR-17591}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pacific Daydream (2017)"
+    },
+    {
+      "type": "label",
+      "label": "Pacific Daydream {Japan WPCR-17867}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Pacific Daydream (2017) (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "The Black Album (2019)"
+    },
+    {
+      "type": "label",
+      "label": "Weezer (Black Album) [WEB FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer (The Black Album) [24-96 Vinyl Rip]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "The Teal Album (2019)"
+    },
+    {
+      "type": "label",
+      "label": "Weezer (The Teal Album) (2019) [Vinyl-FLAC-24-192] {587378-1}",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer (The Teal Album) [WEB FLAC]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer (Teal Album) (2019) (24/44.1)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "OK Human (2021)"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - OK Human [FLAC 24-192]",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - OK Human [FLAC 16/44.1kHz]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Van Weezer (2021)"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Van Weezer (2021 Master)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Van Weezer (2021)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "SZNZ (2022)"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - SZNZ Summer (2022) (24/88.2)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - SZNZ Spring (2022) (24/96)",
+      "format": "FLAC HD"
+    },
+    {
+      "type": "label",
+      "label": "[Soundtracks & Compilations]"
+    },
+    {
+      "type": "label",
+      "label": "Weezer Ultra Hits Website",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "The Demos (Bootleg)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Random",
+      "format": "FLAC + M4A"
+    },
+    {
+      "type": "label",
+      "label": "2001 Studio Demos (Bootleg)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "[Artists Covering Weezer]"
+    },
+    {
+      "type": "label",
+      "label": "Richard! - Disneygreen",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Richard! - Somebody's Daydream",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "The 8-bit Album (2016)",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "The Second 8-bit Album (2016)",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "VA - Rock Music - A Tribute To Weezer [2002 - D&D006]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Various Artists - across the sea a tribute to weezer [JAPANESE]",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Vitamin String Quartet - Come on and Kick Me! the String Tribute to Weezer",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Vitamin String Quartet - Vitamin String Quartet Performs Weezer's Pinkerton",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[Weezer Covering Others]"
+    },
+    {
+      "type": "label",
+      "label": "Worry Rock",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Rosanna",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "Just What I Needed",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "Africa",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[Stems]"
+    },
+    {
+      "type": "label",
+      "label": "(2001) Hash Pipe Enhanced CD Bonus Content"
+    },
+    {
+      "type": "label",
+      "label": "(2002) Maladroit Enhanced CD Bonus Content"
+    },
+    {
+      "type": "label",
+      "label": "(2005) Make Believe Enhanced CD Bonus Content [Requires Quicktime]"
+    },
+    {
+      "type": "label",
+      "label": "(2008) Music Video Promo PAL DVD"
+    },
+    {
+      "type": "label",
+      "label": "AJR Ft. Rivers Cuomo - Sober Up"
+    },
+    {
+      "type": "label",
+      "label": "RAC ft. Rivers Cuomo - I Still Wanna Know"
+    },
+    {
+      "type": "label",
+      "label": "Rivers Cuomo - My Brain is Working Overtime"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - (If You're Wondering If I Want You To) I Want You To"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Back To The Shack"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Beverly Hills"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Buddy Holly"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Dope Nose"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Dreamin'"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - El Scorcho"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Everybody Get Dangerous"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Hash Pipe"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Island in the Sun"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - King of the World"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Let It All Hang Out"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Love Is The Answer"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - My Name Is Jonas"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Perfect Situation"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Pork and Beans"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Say It Ain't So"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Thank God For Girls"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - The Greatest Man That Ever Lived"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Troublemaker"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Undone - The Sweater Song"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Why Bother"
+    },
+    {
+      "type": "label",
+      "label": "[Music Videos]"
+    },
+    {
+      "type": "label",
+      "label": "(If You're Wondering If I Want You To) I Want You To",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Back To The Shack",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Beverly Hills",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Blast Off!",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Buddy Holly",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Do You Wanna Get High",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Dope Nose",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "El Scorcho (Director's Cut)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Go Away",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Hash Pipe",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "I'm Your Daddy",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Island In The Sun (Version 1)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Island In The Sun (Version 2)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Keep Fishin'",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "King Of The World",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "L.A. Girlz",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Lover In The Snow",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Memories",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "My Brain Is Working Overtime",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Perfect Situation",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Photograph",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Pork and Beans",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Say It Ain't So",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Thank God For Girls (Version 1)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Thank God For Girls (Version 2)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "The Good Life",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Troublemaker",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Undone (The Sweater Song)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "We Are All on Drugs",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "You Might Think",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "[CyanFire Archive]"
+    },
+    {
+      "type": "label",
+      "label": "Rivers Cuomo - Blast Off!",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Rivers Cuomo - Lover In The Snow",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Rivers Cuomo - My Brain Is Working Overtime",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Rivers Cuomo - Two Broken Hearts",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - (If You're Wondering If I Want You To) I Want You To",
+      "format": "VOB"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Africa",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - All My Friends Are Insects",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Back To The Shack",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Buddy Holly (Version 1)",
+      "format": "VOB"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Buddy Holly (Version 2)",
+      "format": "VOB"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Buddy Holly (Version 3)",
+      "format": "VOB"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - California Kids",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Can't Knock The Hustle",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - El Scorcho",
+      "format": "MPG"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Feels Like Summer (Roses N' Weezer Version)",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Feels Like Summer",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Go Away",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Hang On",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - High As A Kite",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - I Love The USA",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - I'm Your Daddy (Version 1)",
+      "format": "VOB"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - I'm Your Daddy (Version 2)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - King Of The World",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - L.A. Girlz",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Memories (Version 1)",
+      "format": "VOB"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Memories (Version 2)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Mexican Fender",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Paranoid Android",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Perfect Situation (Version 1)",
+      "format": "VOB"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Perfect Situation (Version 2)",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Pork And Beans (Version 2)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Represent",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Take On Me",
+      "format": "MKV"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Thank God For Girls",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - Troublemaker",
+      "format": "VOB"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - We Are All On Drugs (Version 1)",
+      "format": "M2V"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - We Are All On Drugs (Version 2)",
+      "format": "VOB"
+    },
+    {
+      "type": "label",
+      "label": "Weezer - You Might Think",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "[Extra]"
+    },
+    {
+      "type": "label",
+      "label": "(If You're Wondering If I Want You To) I Want You To (Making Of)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Brain Stew",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Buddy Holly (Live at AXE Music One Night Only)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Hash Pipe (Live at AXE Music One Night Only)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "In The Garage (Live)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Island In The Sun (Live at AXE Music One Night Only)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Kat Interviews Weezer at Weenie Roast 2016",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Memories (Live at AXE Music One Night Only)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "My Name Is Jonas (Live at AXE Music One Night Only)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Perfect Situation (Live at AXE Music One Night Only)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Perfect Situation (Live on the Honda Stage at the iHeart Radio Theater in LA)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Put Me Back Together (Go Show Extra)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Say It Ain't So (Live on the Honda Stage at the iHeart Radio Theater in LA)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Snuggie (2.00 Version)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Thank God For Girls (Live on the Honda Stage at the iHeart Radio Theater in LA)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "The British Are Coming (Audio)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Troublemaker (Live at AXE Music One Night Only)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Undone - The Sweater Song (Live at AXE Music One Night Only)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Undone - The Sweater Song (Live from Youtube Space LA)",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "Vevo GO Shows - I'm Your Daddy",
+      "format": "MP4"
+    },
+    {
+      "type": "label",
+      "label": "[OFFICIAL BOOTLEGS]"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-27-2009",
+      "year": 2009,
+      "month": 8,
+      "day": 27,
+      "city": "Camden",
+      "state": "NJ",
+      "location": "Camden, NJ",
+      "venue": "Susquehanna Bank Center",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-30-2009",
+      "year": 2009,
+      "month": 8,
+      "day": 30,
+      "city": "Columbia",
+      "state": "MD",
+      "location": "Columbia, MD",
+      "venue": "Merriweather Post Pavilion",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-4-2009",
+      "year": 2009,
+      "month": 9,
+      "day": 4,
+      "city": "Bonner Springs",
+      "state": "KS",
+      "location": "Bonner Springs, KS",
+      "venue": "Sandstone Amphitheatre",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-6-2009",
+      "year": 2009,
+      "month": 9,
+      "day": 6,
+      "city": "Greenwood Village",
+      "state": "CO",
+      "location": "Greenwood Village, CO",
+      "venue": "Fiddler's Green Amphitheatre",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-10-2009",
+      "year": 2009,
+      "month": 9,
+      "day": 10,
+      "city": "Auburn",
+      "state": "WA",
+      "location": "Auburn, WA",
+      "venue": "White River Amphitheatre",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-12-2009",
+      "year": 2009,
+      "month": 9,
+      "day": 12,
+      "city": "Wheatland",
+      "state": "CA",
+      "location": "Wheatland, CA",
+      "venue": "Sleep Train Amphitheatre",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-16-2009",
+      "year": 2009,
+      "month": 9,
+      "day": 16,
+      "city": "Chula Vista",
+      "state": "CA",
+      "location": "Chula Vista, CA",
+      "venue": "Cricket Wireless Amphitheatre",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-17-2009",
+      "year": 2009,
+      "month": 9,
+      "day": 17,
+      "city": "Irvine",
+      "state": "CA",
+      "location": "Irvine, CA",
+      "venue": "Verizon Wireless Amphitheatre",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-24-2009",
+      "year": 2009,
+      "month": 10,
+      "day": 24,
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "Hollywood Palladium",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "12-1-2009",
+      "year": 2009,
+      "month": 12,
+      "day": 1,
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Aragon Ballroom",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "12-3-2009",
+      "year": 2009,
+      "month": 12,
+      "day": 3,
+      "city": "Milwaukee",
+      "state": "WI",
+      "location": "Milwaukee, WI",
+      "venue": "Eagle's Ballroom",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "12-5-2009",
+      "year": 2009,
+      "month": 12,
+      "day": 5,
+      "city": "Toronto",
+      "state": "Ontario",
+      "location": "Toronto, Ontario",
+      "venue": "Air Canada Centre",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "1-20-2010",
+      "year": 2010,
+      "month": 1,
+      "day": 20,
+      "city": "Tallahassee",
+      "state": "FL",
+      "location": "Tallahassee, FL",
+      "venue": "Tallahassee-Leon City Civic Center",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "12-17-2010",
+      "year": 2010,
+      "month": 12,
+      "day": 17,
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Roseland Ballroom",
+      "notes": "Night 1 \u00b7 Blue Album",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "12-18-2010",
+      "year": 2010,
+      "month": 12,
+      "day": 18,
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Roseland Ballroom",
+      "notes": "Night 2 \u00b7 Pinkerton Album",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "1-7-2011",
+      "year": 2011,
+      "month": 1,
+      "day": 7,
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Aragon Ballroom",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "1-8-2011",
+      "year": 2011,
+      "month": 1,
+      "day": 8,
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Aragon Ballroom",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "1-21-2011",
+      "year": 2011,
+      "month": 1,
+      "day": 21,
+      "city": "Las Vegas",
+      "state": "NV",
+      "location": "Las Vegas, NV",
+      "venue": "The Joint at Hard Rock Hotel",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-6-2011",
+      "year": 2011,
+      "month": 6,
+      "day": 6,
+      "city": "Austin",
+      "state": "TX",
+      "location": "Austin, TX",
+      "venue": "Stubb's BBQ",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-7-2011",
+      "year": 2011,
+      "month": 6,
+      "day": 7,
+      "city": "Austin",
+      "state": "TX",
+      "location": "Austin, TX",
+      "venue": "Stubb's BBQ",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-1-2011",
+      "year": 2011,
+      "month": 7,
+      "day": 1,
+      "city": "Toronto",
+      "state": "Ontario",
+      "location": "Toronto, Ontario",
+      "venue": "Downsview Park",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-13-2011",
+      "year": 2011,
+      "month": 7,
+      "day": 13,
+      "city": "Tokyo",
+      "state": "Japan",
+      "location": "Tokyo, Japan",
+      "venue": "Zepp Tokyo",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-16-2011",
+      "year": 2011,
+      "month": 7,
+      "day": 16,
+      "city": "Yokohama",
+      "state": "Japan",
+      "location": "Yokohama, Japan",
+      "venue": "Yokohama Stadium",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-4-2011",
+      "year": 2011,
+      "month": 8,
+      "day": 4,
+      "city": "Costa Mesa",
+      "state": "CA",
+      "location": "Costa Mesa, CA",
+      "venue": "Pacific Amphitheatre",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-5-2011",
+      "year": 2011,
+      "month": 8,
+      "day": 5,
+      "city": "Las Vegas",
+      "state": "NV",
+      "location": "Las Vegas, NV",
+      "venue": "Red Rock Hotel and Casino",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-6-2011",
+      "year": 2011,
+      "month": 8,
+      "day": 6,
+      "city": "Del Mar",
+      "state": "CA",
+      "location": "Del Mar, CA",
+      "venue": "Del Mar Fairgrounds",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "8-19-2011",
+      "year": 2011,
+      "month": 8,
+      "day": 19,
+      "city": "Seattle",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "WaMu Theater",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-11-2011",
+      "year": 2011,
+      "month": 9,
+      "day": 11,
+      "city": "Dana Point",
+      "state": "CA",
+      "location": "Dana Point, CA",
+      "venue": "Doheny State Beach",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-4-2011",
+      "year": 2011,
+      "month": 10,
+      "day": 4,
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "LA Convention Center",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-8-2011",
+      "year": 2011,
+      "month": 10,
+      "day": 8,
+      "city": "Thackerville",
+      "state": "OK",
+      "location": "Thackerville, OK",
+      "venue": "WinStar World Resort",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-9-2011",
+      "year": 2011,
+      "month": 10,
+      "day": 9,
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Congress Theater - Riot Fest 2011",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-14-2011",
+      "year": 2011,
+      "month": 10,
+      "day": 14,
+      "city": "Pensacola",
+      "state": "FL",
+      "location": "Pensacola, FL",
+      "venue": "Casino Beach",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "1-19-2012",
+      "year": 2012,
+      "month": 1,
+      "day": 19,
+      "city": "Miami",
+      "state": "FL",
+      "location": "Miami, FL",
+      "venue": "Carnival Destiny - Weezer Cruise",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "1-20-2012",
+      "year": 2012,
+      "month": 1,
+      "day": 20,
+      "city": "Miami",
+      "state": "FL",
+      "location": "Miami, FL",
+      "venue": "Carnival Destiny - Weezer Cruise",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "1-21-2012",
+      "year": 2012,
+      "month": 1,
+      "day": 21,
+      "city": "Miami",
+      "state": "FL",
+      "location": "Miami, FL",
+      "venue": "Carnival Destiny - Weezer Cruise",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "6-1-2012",
+      "year": 2012,
+      "month": 6,
+      "day": 1,
+      "city": "Atlantic City",
+      "state": "NJ",
+      "location": "Atlantic City, NJ",
+      "venue": "Borgata Events Center",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-27-2012",
+      "year": 2012,
+      "month": 7,
+      "day": 27,
+      "city": "Hammond",
+      "state": "IN",
+      "location": "Hammond, IN",
+      "venue": "The Horseshoe Casino",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "7-29-2012",
+      "year": 2012,
+      "month": 7,
+      "day": 29,
+      "city": "Council Bluffs",
+      "state": "IA",
+      "location": "Council Bluffs, IA",
+      "venue": "Harrah's Stir Cove",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-14-2012",
+      "year": 2012,
+      "month": 9,
+      "day": 14,
+      "city": "Orillia",
+      "state": "Ontario",
+      "location": "Orillia, Ontario",
+      "venue": "Casino Rama",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-15-2012",
+      "year": 2012,
+      "month": 9,
+      "day": 15,
+      "city": "Baltimore",
+      "state": "MD",
+      "location": "Baltimore, MD",
+      "venue": "Harbor East Waterfront",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "9-29-2012",
+      "year": 2012,
+      "month": 9,
+      "day": 29,
+      "city": "Newark",
+      "state": "DE",
+      "location": "Newark, DE",
+      "venue": "Christiana Mall",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-9-2012",
+      "year": 2012,
+      "month": 10,
+      "day": 9,
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "Bill Graham Civic Auditorium",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-10-2012",
+      "year": 2012,
+      "month": 10,
+      "day": 10,
+      "city": "Fresno",
+      "state": "CA",
+      "location": "Fresno, CA",
+      "venue": "Paul Paul Theater",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-12-2012",
+      "year": 2012,
+      "month": 10,
+      "day": 12,
+      "city": "Austin",
+      "state": "TX",
+      "location": "Austin, TX",
+      "venue": "Paul Paul Theater",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "10-13-2012",
+      "year": 2012,
+      "month": 10,
+      "day": 13,
+      "city": "Valley Center",
+      "state": "CA",
+      "location": "Valley Center, CA",
+      "venue": "Harrah's Rincon Casino",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "11-9-2012",
+      "year": 2012,
+      "month": 11,
+      "day": 9,
+      "city": "St. Petersburg",
+      "state": "FL",
+      "location": "St. Petersburg, FL",
+      "venue": "Mahaffey Theater",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "type": "show",
+      "dateStr": "11-10-2012",
+      "year": 2012,
+      "month": 11,
+      "day": 10,
+      "city": "Orlando",
+      "state": "FL",
+      "location": "Orlando, FL",
+      "venue": "Hard Rock Live",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    }
   ]
 };

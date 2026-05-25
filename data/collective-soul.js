@@ -890,5 +890,19 @@ const ARTIST_DATA = {
       "format": "FLAC 24",
       "notes": "DPA 4081 \u00b7 faninor"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Collective Soul - 2004 Youth Movement Broadcast",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "Collective Soul - Live At The Print Shop (2024) (24/48)",
+      "version": "WEB",
+      "format": "FLAC HD"
+    }
   ]
 };

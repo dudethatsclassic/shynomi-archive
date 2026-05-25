@@ -283,5 +283,13 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "AKG CK63 \u00b7 beatkilla"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Melvins - Leech (1996) (EGG ONE)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    }
   ]
 };

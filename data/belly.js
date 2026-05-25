@@ -353,5 +353,13 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "SP-CMC-4U \u00b7 ijwthstd"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Belly - Chicago 1995 & Annapolis 1996 - CASS(M) (stevemtl transfer)",
+      "version": "FM",
+      "format": "FLAC"
+    }
   ]
 };

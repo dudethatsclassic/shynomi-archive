@@ -419,5 +419,39 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "AT mics \u00b7 binko"
     }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "Matchbox Twenty - 666 AM"
+    },
+    {
+      "type": "release",
+      "label": "Matchbox Twenty - Hamburg, Germany - Grosse Freheit {DP6} (2000)",
+      "version": "Silver CD",
+      "format": "FLAC"
+    },
+    {
+      "type": "label",
+      "label": "[SINGLES]"
+    },
+    {
+      "type": "release",
+      "label": "1998 - Matchbox Twenty - Back 2 Good (CDS) {7567955392}",
+      "version": "Official",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "2001 - Matchbox Twenty - Last Beautiful Girl {7567-85167-2AT0120CD} (CDS)",
+      "version": "Official",
+      "format": "FLAC"
+    },
+    {
+      "type": "release",
+      "label": "2007 - Matchbox Twenty - All Your Reasons {7567899530} (CDS)",
+      "version": "Official",
+      "format": "FLAC"
+    }
   ]
 };

@@ -50,5 +50,13 @@ const ARTIST_DATA = {
       "format": "FLAC",
       "notes": "Neumann AK40s \u00b7 Unknown"
     }
+  ],
+  "misc": [
+    {
+      "type": "release",
+      "label": "Natalie Merchant - Solo Sessions 94-95 {PD081} (1995) [FLAC]",
+      "version": "Silver CD",
+      "format": "FLAC"
+    }
   ]
 };
