@@ -20,9 +20,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Country to Country Festival (C2C) BBC Radio 2",
+      "notes": "",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "C2C"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -33,9 +33,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "CMA Festival 2016",
+      "notes": "Edirol R-09 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R-09 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -45,10 +45,10 @@ const ARTIST_DATA = {
       "city": "Manchester",
       "state": "TN",
       "location": "Manchester, TN",
-      "venue": "Bonnaroo Music and Arts Festival - What Stage",
+      "venue": "Bonnaroo Music and Arts Festival",
+      "notes": "What · DPA 4021s · d. fries",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4021s \u00b7 d. fries"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -59,9 +59,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits Music Festival",
+      "notes": "",
       "version": "Webcast",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2018,
@@ -71,10 +71,10 @@ const ARTIST_DATA = {
       "city": "Hartford",
       "state": "CT",
       "location": "Hartford, CT",
-      "venue": "Xfinity Theatre - Farm Aid 33",
+      "venue": "Xfinity Theatre",
+      "notes": "Farm",
       "version": "Webcast",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2023,
@@ -85,9 +85,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Canandaigua, NY",
       "venue": "CMAC",
+      "notes": "Sennheiser AMBEO · thriftynomad",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sennheiser AMBEO \u00b7 thriftynomad"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
