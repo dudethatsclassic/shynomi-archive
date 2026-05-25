@@ -1,0 +1,100 @@
+const ARTIST_DATA = {
+  "id": "new-found-glory",
+  "name": "New Found Glory",
+  "drive": "D",
+  "showCount": 6,
+  "firstYear": 2019,
+  "lastYear": 2024,
+  "years": [
+    2019,
+    2021,
+    2023,
+    2024
+  ],
+  "shows": [
+    {
+      "year": 2019,
+      "month": 5,
+      "day": 2,
+      "dateStr": "5-2-2019",
+      "city": "Hollywood",
+      "state": "CA",
+      "location": "Hollywood, CA",
+      "venue": "Amoeba Music",
+      "gear": "",
+      "taper": "SP-CMC-4U",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2021,
+      "month": 10,
+      "day": 8,
+      "dateStr": "10-8-2021",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Pier 17",
+      "gear": "Zoom H1n",
+      "taper": "peter",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2023,
+      "month": 2,
+      "day": 4,
+      "dateStr": "2-4-2023",
+      "city": "Garden Grove",
+      "state": "CA",
+      "location": "Garden Grove, CA",
+      "venue": "Garden Amphitheatre",
+      "gear": "DPA 4081",
+      "taper": "faninor",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2023,
+      "month": 10,
+      "day": 3,
+      "dateStr": "10-3-2023",
+      "city": "Inglewood",
+      "state": "CA",
+      "location": "Inglewood, CA",
+      "venue": "YouTube Theater",
+      "gear": "DPA 4081",
+      "taper": "faninor",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2024,
+      "month": 10,
+      "day": 15,
+      "dateStr": "10-15-2024",
+      "city": "San Diego",
+      "state": "CA",
+      "location": "San Diego, CA",
+      "venue": "Observatory North Park",
+      "gear": "DPA 4081",
+      "taper": "faninor",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2024,
+      "month": 10,
+      "day": 16,
+      "dateStr": "10-16-2024",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "Wiltern",
+      "gear": "DPA 4081",
+      "taper": "faninor",
+      "version": "AUD",
+      "format": "FLAC 24"
+    }
+  ]
+};

@@ -1,0 +1,100 @@
+const ARTIST_DATA = {
+  "id": "chevelle",
+  "name": "Chevelle",
+  "drive": "F",
+  "showCount": 6,
+  "firstYear": 2021,
+  "lastYear": 2025,
+  "years": [
+    2021,
+    2023,
+    2024,
+    2025
+  ],
+  "shows": [
+    {
+      "year": 2021,
+      "month": 11,
+      "day": 12,
+      "dateStr": "11-12-2021",
+      "city": "Daytona Beach",
+      "state": "FL",
+      "location": "Daytona Beach, FL",
+      "venue": "Welcome to Rockville Festival",
+      "gear": "SP-CMC-8",
+      "taper": "porcelmc",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2023,
+      "month": 10,
+      "day": 2,
+      "dateStr": "10-2-2023",
+      "city": "San Diego",
+      "state": "CA",
+      "location": "San Diego, CA",
+      "venue": "Cal Coast Credit Union Open Air Theatre",
+      "gear": "DPA 4081",
+      "taper": "faninor",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2024,
+      "month": 4,
+      "day": 21,
+      "dateStr": "4-21-2024",
+      "city": "Wheatland",
+      "state": "CA",
+      "location": "Wheatland, CA",
+      "venue": "Hard Rock Live - WAV(M)",
+      "gear": "SP-CMC-4U",
+      "taper": "vibriodixire",
+      "version": "AUD #1",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2024,
+      "month": 8,
+      "day": 24,
+      "dateStr": "8-24-2024",
+      "city": "Syracuse",
+      "state": "NY",
+      "location": "Syracuse, NY",
+      "venue": "Suburban Park Stage - NYS Fairgrounds",
+      "gear": "Schoeps MK4",
+      "taper": "beatkilla",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2025,
+      "month": 5,
+      "day": 11,
+      "dateStr": "5-11-2025",
+      "city": "Columbus",
+      "state": "OH",
+      "location": "Columbus, OH",
+      "venue": "Sonic Temple Festival - Temple Stage",
+      "gear": "Schoeps MK41",
+      "taper": "jesse mc",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2025,
+      "month": 9,
+      "day": 16,
+      "dateStr": "9-16-2025",
+      "city": "Denver",
+      "state": "CO",
+      "location": "Denver, CO",
+      "venue": "Fillmore Auditorium (M)",
+      "gear": "DPA 4061",
+      "taper": "loudpuppy",
+      "version": "AUD",
+      "format": "FLAC"
+    }
+  ]
+};
