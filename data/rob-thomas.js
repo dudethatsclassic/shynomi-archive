@@ -23,10 +23,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Promowest Pavilion",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2008,
@@ -37,10 +36,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Ledyard, CT",
       "venue": "Foxwoods Casino",
-      "gear": "ECM 719",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM 719 \u00b7 Unknown"
     },
     {
       "year": 2009,
@@ -51,10 +49,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Manaroneck, NY",
       "venue": "ACM Studios",
-      "gear": "Internet Radio Broadcast",
-      "taper": "saltshaker",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Internet Radio Broadcast \u00b7 saltshaker"
     },
     {
       "year": 2014,
@@ -65,10 +62,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Niagara Falls, NY",
       "venue": "Events Center - Seneca Niagara Casino",
-      "gear": "AT835",
-      "taper": "richard s. binko",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT835 \u00b7 richard s. binko"
     },
     {
       "year": 2016,
@@ -79,10 +75,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Molson Amphitheatre (CSB) (burnboy) Rec 1",
-      "gear": "CSB",
-      "taper": "burnboy",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CSB \u00b7 burnboy"
     },
     {
       "year": 2016,
@@ -93,10 +88,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Molson Amphitheatre (SP-CMC-8) (burnboy) Rec 2",
-      "gear": "SP-CMC-8",
-      "taper": "burnboy",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 \u00b7 burnboy"
     },
     {
       "year": 2019,
@@ -107,10 +101,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Evans Auditorium",
-      "gear": "IEM Matrix",
-      "taper": "univonc",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "IEM Matrix \u00b7 univonc"
     }
   ]
 };

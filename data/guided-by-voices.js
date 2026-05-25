@@ -31,10 +31,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Khyber Pass",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -45,10 +44,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Dayton, OH",
       "venue": "Canal St Tavern - Free Mitch Mitchell",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1994,
@@ -59,10 +57,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Dayton, OH",
       "venue": "Canal St Tavern",
-      "gear": "Sony WM-D6",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-D6 \u00b7 Unknown"
     },
     {
       "year": 1994,
@@ -73,10 +70,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB",
-      "gear": "",
-      "taper": "dolphinsmile archive",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "dolphinsmile archive"
     },
     {
       "year": 1994,
@@ -87,10 +83,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Black Cat - ANA",
-      "gear": "2",
-      "taper": "o'lachtna production",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2 \u00b7 o'lachtna production"
     },
     {
       "year": 1994,
@@ -101,10 +96,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Black Cat",
-      "gear": "Sony PCM-M10",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony PCM-M10 \u00b7 Unknown"
     },
     {
       "year": 1994,
@@ -115,10 +109,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Deland, FL",
       "venue": "Nite Lights Stetson University",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -129,10 +122,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax - ANA",
-      "gear": "x",
-      "taper": "o'lactna production",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x \u00b7 o'lactna production"
     },
     {
       "year": 1995,
@@ -143,10 +135,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax - ANA",
-      "gear": "x",
-      "taper": "o'lachtna production",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x \u00b7 o'lachtna production"
     },
     {
       "year": 1995,
@@ -157,10 +148,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theater",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1995,
@@ -171,10 +161,9 @@ const ARTIST_DATA = {
       "state": "WA /- Crocodile Cafe - ANA(x)",
       "location": "Seattle, WA /- Crocodile Cafe - ANA(x)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -185,10 +174,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Memphis, TN",
       "venue": "Barristers - ANA",
-      "gear": "x",
-      "taper": "o'lachtna production",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x \u00b7 o'lachtna production"
     },
     {
       "year": 1995,
@@ -199,10 +187,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Sheldon Ballroom - ANA",
-      "gear": "",
-      "taper": "2",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2"
     },
     {
       "year": 1996,
@@ -213,10 +200,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Eau Claire, WI",
       "venue": "Council Fire Room - ANA",
-      "gear": "",
-      "taper": "x",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x"
     },
     {
       "year": 1996,
@@ -227,10 +213,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue (SBD+ANA",
-      "gear": "",
-      "taper": "2",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2"
     },
     {
       "year": 1996,
@@ -241,10 +226,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Newport, KY",
       "venue": "Southgate House - ANA",
-      "gear": "1",
-      "taper": "o'lachtna production",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 o'lachtna production"
     },
     {
       "year": 1996,
@@ -255,10 +239,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Dayton, OH",
       "venue": "Al Rosa's - ANA",
-      "gear": "",
-      "taper": "3",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "3"
     },
     {
       "year": 1996,
@@ -269,10 +252,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moe's Mo' Rockin Cafe - ANA(1)",
-      "gear": "Sony WM-D3",
-      "taper": "o'lachtna production",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-D3 \u00b7 o'lachtna production"
     },
     {
       "year": 1996,
@@ -283,10 +265,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall - ANA",
-      "gear": "",
-      "taper": "x",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x"
     },
     {
       "year": 1996,
@@ -297,10 +278,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Trocadero - ANA",
-      "gear": "",
-      "taper": "x",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x"
     },
     {
       "year": 1996,
@@ -311,10 +291,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The Garage - ANA",
-      "gear": "",
-      "taper": "x",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x"
     },
     {
       "year": 1997,
@@ -325,10 +304,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Haverford, PA",
       "venue": "Haverford College - ANA",
-      "gear": "1",
-      "taper": "o'lachtna production",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 o'lachtna production"
     },
     {
       "year": 1997,
@@ -339,10 +317,9 @@ const ARTIST_DATA = {
       "state": "OH - The Asylum",
       "location": "Dayton, OH - The Asylum",
       "venue": "ANA",
-      "gear": "",
-      "taper": "1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1"
     },
     {
       "year": 1997,
@@ -353,10 +330,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue - SBD-ANA(2)",
-      "gear": "j. lindblom",
-      "taper": "o'lachtna",
       "version": "SBD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "j. lindblom \u00b7 o'lachtna"
     },
     {
       "year": 1997,
@@ -367,10 +343,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Central Park - Summerstage - ANA",
-      "gear": "1",
-      "taper": "Sony WM-D3",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 Sony WM-D3"
     },
     {
       "year": 1997,
@@ -381,10 +356,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Howlin'  Wolf - ANA",
-      "gear": "",
-      "taper": "2",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2"
     },
     {
       "year": 1997,
@@ -395,10 +369,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Memphis, TN",
       "venue": "Barristers - ANA",
-      "gear": "1",
-      "taper": "Sony WM-D3",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 Sony WM-D3"
     },
     {
       "year": 1997,
@@ -409,10 +382,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Phoenix Hill Tavern - ANA",
-      "gear": "1",
-      "taper": "Sony WM-D3",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 Sony WM-D3"
     },
     {
       "year": 1997,
@@ -423,10 +395,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The Garage - ANA",
-      "gear": "",
-      "taper": "1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1"
     },
     {
       "year": 1997,
@@ -437,10 +408,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Newport Music Hall - ANA",
-      "gear": "1",
-      "taper": "Sony WM-D3",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 Sony WM-D3"
     },
     {
       "year": 1998,
@@ -451,10 +421,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Sewanee, TN",
       "venue": "The University of the South - ANA",
-      "gear": "2",
-      "taper": "o'lachtna production",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2 \u00b7 o'lachtna production"
     },
     {
       "year": 1998,
@@ -465,10 +434,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theatre of Living Arts - ANA",
-      "gear": "x",
-      "taper": "o'lachtna production",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x \u00b7 o'lachtna production"
     },
     {
       "year": 1998,
@@ -479,10 +447,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Whiskey-A-Go-Go - ANA",
-      "gear": "2",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2 \u00b7 Unknown"
     },
     {
       "year": 1999,
@@ -493,10 +460,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbos 3605 Club - ANA",
-      "gear": "1",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 Unknown"
     },
     {
       "year": 1999,
@@ -507,10 +473,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Waterloo Park - ANA",
-      "gear": "1",
-      "taper": "o'lachtna production",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 o'lachtna production"
     },
     {
       "year": 1999,
@@ -521,10 +486,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "The Trees - MD",
-      "gear": "M",
-      "taper": "o lachtna production",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 o lachtna production"
     },
     {
       "year": 1999,
@@ -535,10 +499,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "La Zona Rosa - MD(M) unk)",
-      "gear": "",
-      "taper": "M",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M"
     },
     {
       "year": 2000,
@@ -549,10 +512,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "Gabes - DAT(M)",
-      "gear": "CSB",
-      "taper": "cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 cps"
     },
     {
       "year": 2002,
@@ -563,10 +525,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Crystal Ballroom",
-      "gear": "Oktava 012",
-      "taper": "jpf",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Oktava 012 \u00b7 jpf"
     },
     {
       "year": 2004,
@@ -577,10 +538,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Athens, GA",
       "venue": "40 Watt Club",
-      "gear": "",
-      "taper": "dolphinsmile archive",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "dolphinsmile archive"
     },
     {
       "year": 2004,
@@ -591,10 +551,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits",
-      "gear": "",
-      "taper": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nugs.net"
     },
     {
       "year": 2004,
@@ -605,10 +564,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Barbatis Pan",
-      "gear": "",
-      "taper": "jpf",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "jpf"
     },
     {
       "year": 2014,
@@ -619,10 +577,9 @@ const ARTIST_DATA = {
       "state": "NE",
       "location": "Omaha, NE",
       "venue": "The Waiting Room",
-      "gear": "CA mics",
-      "taper": "sonictooth",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA mics \u00b7 sonictooth"
     },
     {
       "year": 2017,
@@ -633,10 +590,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Ready Room",
-      "gear": "CA-14",
-      "taper": "sonictooth",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14 \u00b7 sonictooth"
     },
     {
       "year": 2021,
@@ -647,10 +603,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "College Street Music Hall",
-      "gear": "SP-CMC-8",
-      "taper": "smores",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 \u00b7 smores"
     },
     {
       "year": 2022,
@@ -661,10 +616,9 @@ const ARTIST_DATA = {
       "state": "ID",
       "location": "Boise, ID",
       "venue": "Treefort Music Fest Main Stage",
-      "gear": "SP-CMC-2",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-2 \u00b7 Unknown"
     },
     {
       "year": 2022,
@@ -675,10 +629,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "gear": "CA-11s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11s \u00b7 Unknown"
     },
     {
       "year": 2022,
@@ -689,10 +642,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "The Catalyst Club",
-      "gear": "Internal + CSB mics",
-      "taper": "loughney",
       "version": "MIX",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Internal + CSB mics \u00b7 loughney"
     }
   ]
 };

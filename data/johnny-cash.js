@@ -21,10 +21,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Picadilly",
-      "gear": "",
-      "taper": "",
       "version": "Vinyl",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1972,
@@ -35,10 +34,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Tulsa, OK",
       "venue": "Oral Roberts University Center",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1973,
@@ -49,10 +47,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Free Trade Hall",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1975,
@@ -63,10 +60,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Deutschlandhalle",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     }
   ]
 };

@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB",
-      "gear": "Sony PC62",
-      "taper": "george n.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony PC62 \u00b7 george n."
     },
     {
       "year": 1993,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's - ANA(M)",
-      "gear": "ECM-909",
-      "taper": "tjcruz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-909 \u00b7 tjcruz"
     },
     {
       "year": 1995,
@@ -47,10 +45,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Brisbane, Australia",
       "venue": "Livid Festival",
-      "gear": "",
-      "taper": "Triple J Live at the Wireless Broadcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Triple J Live at the Wireless Broadcast"
     }
   ]
 };

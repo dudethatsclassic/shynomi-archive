@@ -30,10 +30,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toscas Sunderland (Radio show)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -44,10 +43,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Shaw Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -58,10 +56,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sheffield, England",
       "venue": "Sheffield University",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -72,10 +69,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Manchester, England",
       "venue": "Free Trade Hall",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -86,10 +82,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York City, NY",
       "venue": "Bottom Line (Early and Late Shows",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -100,10 +95,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Rivoli Tavern",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -114,10 +108,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "Night Stage",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -128,10 +121,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Ballard, WA",
       "venue": "Backstage Tavern *A Kiss On the Glass",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -142,10 +134,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Frankfurt, Germany",
       "venue": "Alte Oper *Pieces of Me",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -156,10 +147,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "BBC Radio 2 - Steve Wright in the Afternoon Show",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -170,10 +160,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montreux, Switzerland",
       "venue": "Montreux Jazz Festival *Live in Montreux 1992",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "2 sources"
+      "format": "2 sources",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -184,10 +173,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "West Palm Beach, FL",
       "venue": "Carefree Theatre *Blooming",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -198,10 +186,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Fonda Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -212,10 +199,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Roseland Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -226,10 +212,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theatre *Me And A Piano",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "2 sources"
+      "format": "2 sources",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -240,10 +225,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Palace of Fine Arts",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -254,10 +238,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Juan Capistrano, CA",
       "venue": "Coach House *After the Rain",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -268,10 +251,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Juan Capistrano, CA",
       "venue": "*Years of Silence",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -282,10 +264,9 @@ const ARTIST_DATA = {
       "state": "WV",
       "location": "Charleston, WV",
       "venue": "Mountain Stage",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -296,10 +277,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Red Bank, NJ",
       "venue": "Count Basie Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -310,10 +290,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Amherst, MA",
       "venue": "Buckley Recital Hall",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -324,10 +303,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Phoenix Concert Theatre",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "4 sources"
+      "format": "4 sources",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -338,10 +316,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "St Andrew's Hall",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -352,10 +329,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Page Hall *I Like Led Zeppelin and I Love the Stones",
-      "gear": "",
-      "taper": "Sc 52018",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": "Sc 52018"
     },
     {
       "year": 1992,
@@ -366,10 +342,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Toad's Place",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -380,10 +355,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "WKQX",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -394,10 +368,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Johnny Walker Show - Radio 1",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -408,10 +381,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "105 Radio FM",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -422,10 +394,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "KFOG Studios",
-      "gear": "",
-      "taper": "Wally Breese",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": "Wally Breese"
     },
     {
       "year": 1994,
@@ -436,10 +407,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England *Her Majesty's Theatre",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -450,10 +420,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "HMV",
-      "gear": "",
-      "taper": "",
       "version": "UNK",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -464,10 +433,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Meany Hall at the University of WA *Rhapsody In Pink",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -478,10 +446,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Meany Hall at the University of WA",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -492,10 +459,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Wadsworth Theatre - UCLA  *Space Doggin' Bruins",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -506,10 +472,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -520,10 +485,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Convocation Hall",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -534,10 +498,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York City, NY",
       "venue": "Symphony Space *Spirit in the Sky",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -548,10 +511,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "*Dreaming",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -562,10 +524,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Cente Stage *Tori the Fox",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -576,10 +537,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montreal, Quebec",
       "venue": "Olympic Theatre *Canadien Spring",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -590,10 +550,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin",
       "venue": "Trinitatiskrine Cathedral *Summertime",
-      "gear": "",
-      "taper": "",
       "version": "preFM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -604,10 +563,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "CCH2 *Under the Pink Tour 1994",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -618,10 +576,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dusseldorf, Germany",
       "venue": "Robert Schumann Saal",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -632,10 +589,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stuttgart, Germany",
       "venue": "Kleine Liedehalle",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -646,10 +602,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milan, Italy",
       "venue": "*Live Storm",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -660,10 +615,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milan, Italy",
       "venue": "*Milan 1994",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -674,10 +628,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rome, Italy",
       "venue": "The Palladium *A Woman On A Mission",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -688,10 +641,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Bottom Line",
-      "gear": "Early and Late Show",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Early and Late Show"
     },
     {
       "year": 1994,
@@ -702,10 +654,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Portsmouth, UK",
       "venue": "Guild Hall",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -716,10 +667,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "York, UK",
       "venue": "Barbicon",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -730,10 +680,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cardiff Wales",
       "venue": "St. David Hall",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -744,10 +693,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The Palladium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -758,10 +706,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The Palladium *Anything But Honey",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -772,10 +719,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Wolverhampton, UK",
       "venue": "Civic Hall *I Love Toffee Apples",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -786,10 +732,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Maastricht, The Netherlands",
       "venue": "Mecc",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -800,10 +745,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theater *Perfect Girl",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -814,10 +758,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -828,10 +771,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Burlington, VT",
       "venue": "Flynn Theater",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -842,10 +784,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "State Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -856,10 +797,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "State Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -870,10 +810,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Raleigh Memorial Auditorium *Childhood Memories",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -884,10 +823,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "Tampa Theatre *Anything But Honey",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -898,10 +836,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "Tampa Theatre *Tori and Her Mask",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -912,10 +849,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -926,10 +862,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Cullen Performance Hall",
-      "gear": "",
-      "taper": "Inc",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Inc"
     },
     {
       "year": 1994,
@@ -940,10 +875,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "The Backyard at Bee Cave",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -954,10 +888,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Majestic Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -968,10 +901,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Phoenix Symphony Hall",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -982,10 +914,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "KSCA",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -996,10 +927,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "105 Radio FM",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1010,10 +940,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Orpheum Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1024,10 +953,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Orpheum Theatre *Sugar Baby",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1038,10 +966,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Community Center Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1052,10 +979,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "KPFA FM",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1066,10 +992,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Eugene, OR",
       "venue": "Hult Center",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1080,10 +1005,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Riverside Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "3 sources"
+      "format": "3 sources",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1094,10 +1018,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "Masonic Auditorium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1108,10 +1031,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Hill Auditorium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1122,10 +1044,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "East Lansing, MI",
       "venue": "Wharton Center",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "2 sources"
+      "format": "2 sources",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1136,10 +1057,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Orono, ME",
       "venue": "University of Maine - Hutchins Hall",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1150,10 +1070,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Elmira, NY",
       "venue": "Powers Theatre @ Clemens Center",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1164,10 +1083,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Toad's Place *I'm On Fire",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1178,10 +1096,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Massey Hall",
-      "gear": "Early and Late Show",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Early and Late Show"
     },
     {
       "year": 1994,
@@ -1192,10 +1109,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Kitchener, Ontario",
       "venue": "Centre on the Square",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1206,10 +1122,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Ottawa, Ontario",
       "venue": "National Arts Center Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1220,10 +1135,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamilton, Ontario",
       "venue": "Hamilton Place",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1234,10 +1148,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Quebec City, Quebec",
       "venue": "Salle Albert Rosseau",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1248,10 +1161,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montreal, Canada",
       "venue": "The Spectrum - MuchMusic *Kiss Me",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1262,10 +1174,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montreal, Canada",
       "venue": "The Spectrum *Piano Girl Up North",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1276,10 +1187,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Adelaide, Australia",
       "venue": "Festival Theatre *Down Under the Pink '94",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -1290,10 +1200,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nederhorst den Berg, The Netherlands",
       "venue": "Bullet Sound Studios",
-      "gear": "",
-      "taper": "2 Meter Sessies",
       "version": "preFM",
-      "format": ""
+      "format": "",
+      "notes": "2 Meter Sessies"
     },
     {
       "year": 1996,
@@ -1304,10 +1213,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "*Sellout - First Night of the US Tour",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -1318,10 +1226,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "USF Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -1332,10 +1239,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Massey Hall",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -1346,10 +1252,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Stadtpark *Hamburg Swirl",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -1360,10 +1265,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montreal, Quebec",
       "venue": "Molson Center",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -1374,10 +1278,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Starlight Theater",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -1388,10 +1291,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Eau Claire, WI",
       "venue": "Zorn Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2001,
@@ -1402,10 +1304,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Warsaw, Poland",
       "venue": "Polskie Radio 3",
-      "gear": "",
-      "taper": "",
       "version": "preFM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -1416,10 +1317,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Erie, PA",
       "venue": "Warner Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -1430,10 +1330,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Northrop Auditorium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -1444,10 +1343,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Alltel Pavilion at Walnut Creek",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2005,
@@ -1458,10 +1356,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Rochester Hills, MI",
       "venue": "Meadow Brook Music Festival",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2007,
@@ -1472,10 +1369,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Northrop Memorial Auditorium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2014,
@@ -1486,10 +1382,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rotterdam, The Netherlands",
       "venue": "De Doelen",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2014,
@@ -1500,10 +1395,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2014,
@@ -1514,10 +1408,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2017,
@@ -1528,10 +1421,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Luxembourg, Luxembourg at Den Atelier",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2017,
@@ -1542,10 +1434,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Linz, Austria",
       "venue": "Brucknerhaus",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2017,
@@ -1556,10 +1447,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Palace Theatre - Native Invader Tour",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2017,
@@ -1570,10 +1460,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Glasgow, Scotland",
       "venue": "02 Academy",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2017,
@@ -1584,10 +1473,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "The O'Shaughnessy",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2022,
@@ -1598,10 +1486,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dublin, Ireland",
       "venue": "Olympia Theater",
-      "gear": "SP-CMC-8",
-      "taper": "Sufisdance",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "SP-CMC-8 \u00b7 Sufisdance"
     }
   ]
 };

@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New YOrk, NY",
       "venue": "CBGB's",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1983,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Stevenage, England",
       "venue": "Bowes Lyon House Stevenage",
-      "gear": "unk",
-      "taper": "djm5000 - smokeydiablo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 djm5000 - smokeydiablo"
     },
     {
       "year": 1986,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Ritz",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     }
   ]
 };

@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Napa, CA",
       "venue": "Silverado Resort - Blue Note Jazz Festival",
-      "gear": "Shure MV88",
-      "taper": "funk it blog",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Shure MV88 \u00b7 funk it blog"
     }
   ]
 };

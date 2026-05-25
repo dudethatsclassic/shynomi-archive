@@ -21,10 +21,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Lisner Auditorium",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1990,
@@ -35,10 +34,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fullerton, CA",
       "venue": "California State University",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1990,
@@ -49,10 +47,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Roxy - CASS",
-      "gear": "",
-      "taper": "x",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x"
     },
     {
       "year": 1990,
@@ -63,10 +60,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Max's on Broadway",
-      "gear": "unk",
-      "taper": "bonzo4880",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 bonzo4880"
     },
     {
       "year": 1990,
@@ -77,10 +73,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tempe, AZ",
       "venue": "Chuy?s",
-      "gear": "Aiwa mics",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa mics \u00b7 Unknown"
     },
     {
       "year": 1990,
@@ -91,10 +86,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Club Lingerie",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -105,10 +99,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1991,
@@ -119,10 +112,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bay Area Music Awards 1991",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -133,10 +125,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Victoria, BC",
       "venue": "Harpo's Cabaret (Sony WM-F46)",
-      "gear": "crowflies",
-      "taper": "inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "crowflies \u00b7 inc"
     },
     {
       "year": 1991,
@@ -147,10 +138,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "The Catalyst",
-      "gear": "Nakamichi CM300",
-      "taper": "markp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nakamichi CM300 \u00b7 markp"
     },
     {
       "year": 1991,
@@ -161,10 +151,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Melkweg",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -175,10 +164,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Central Park Ballroom - CASS(M)",
-      "gear": "Shure SM98",
-      "taper": "ko",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Shure SM98 \u00b7 ko"
     },
     {
       "year": 1992,
@@ -189,10 +177,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fashion Center - Green Christmas Acoustic Concert",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -203,10 +190,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Hard Rock Cafe - 104.5 KFOG Toys for Tots",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -217,10 +203,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "FX - ANA(M)",
-      "gear": "ECM-909",
-      "taper": "tjcruz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-909 \u00b7 tjcruz"
     },
     {
       "year": 1993,
@@ -231,10 +216,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Valencia, CA",
       "venue": "Magic Mountain  (Early Show)",
-      "gear": "Sony ECM-909A",
-      "taper": "marco moir",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sony ECM-909A \u00b7 marco moir"
     },
     {
       "year": 1993,
@@ -245,10 +229,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Valencia, CA",
       "venue": "Magic Mountain  (Evening Show)",
-      "gear": "Sony ECM-909A",
-      "taper": "marco moir",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sony ECM-909A \u00b7 marco moir"
     },
     {
       "year": 1993,
@@ -259,10 +242,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Coach House",
       "venue": "San Juan Capistrano - Sunday Night Live 105",
-      "gear": "",
-      "taper": "AT 314",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT 314"
     },
     {
       "year": 1993,
@@ -273,10 +255,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Grand - CASS",
-      "gear": "",
-      "taper": "x",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x"
     },
     {
       "year": 1993,
@@ -287,10 +268,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Toad's Place",
-      "gear": "Sony TCS-580V",
-      "taper": "kamenliter",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony TCS-580V \u00b7 kamenliter"
     },
     {
       "year": 1993,
@@ -301,10 +281,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Academy",
-      "gear": "Sony mic",
-      "taper": "pt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony mic \u00b7 pt"
     },
     {
       "year": 1993,
@@ -315,10 +294,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Georgetown University - Gaston Hall",
-      "gear": "Sony WM-D6",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-D6 \u00b7 Unknown"
     },
     {
       "year": 1993,
@@ -329,10 +307,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield - ANA(M)",
-      "gear": "ECM-909",
-      "taper": "tj cruz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-909 \u00b7 tj cruz"
     },
     {
       "year": 1993,
@@ -343,10 +320,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Riverside Theater",
-      "gear": "SS-DSM6s",
-      "taper": "jot",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS-DSM6s \u00b7 jot"
     }
   ]
 };

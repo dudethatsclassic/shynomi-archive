@@ -26,10 +26,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Crocodile Cafe",
-      "gear": "",
-      "taper": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB"
     },
     {
       "year": 2006,
@@ -40,10 +39,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Magic Stick",
-      "gear": "",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "live2cd"
     },
     {
       "year": 2008,
@@ -54,10 +52,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Backstage Werk",
-      "gear": "",
-      "taper": "M94.5",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M94.5"
     },
     {
       "year": 2010,
@@ -68,10 +65,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "The Bell House",
-      "gear": "",
-      "taper": "acidjack master",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "acidjack master"
     },
     {
       "year": 2010,
@@ -82,10 +78,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Bourges, France",
       "venue": "Printemps de Bourges",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2012,
@@ -96,10 +91,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "London Rough Trade East",
-      "gear": "Roland R-09",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Roland R-09 \u00b7 Unknown"
     },
     {
       "year": 2012,
@@ -110,10 +104,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "TLA",
-      "gear": "",
-      "taper": "spfreak77",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "spfreak77"
     },
     {
       "year": 2012,
@@ -124,10 +117,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Beachland Ballroom",
-      "gear": "",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "live2cd"
     },
     {
       "year": 2018,
@@ -138,10 +130,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Melkweg",
-      "gear": "Zoom H4N",
-      "taper": "tarquin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H4N \u00b7 tarquin"
     },
     {
       "year": 2018,
@@ -152,10 +143,9 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "Paris, FR",
       "venue": "Le Cabaret Sauvage",
-      "gear": "SP-CMC-8",
-      "taper": "inconnu",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 inconnu"
     },
     {
       "year": 2018,
@@ -166,10 +156,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Rust, Germany",
       "venue": "Europa-Park Arena",
-      "gear": "",
-      "taper": "MK41V",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MK41V"
     },
     {
       "year": 2018,
@@ -180,10 +169,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Rust, Germany",
       "venue": "Europa-Park Arena",
-      "gear": "",
-      "taper": "indykid",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": "indykid"
     },
     {
       "year": 2022,
@@ -194,10 +182,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Studioeins",
-      "gear": "",
-      "taper": "",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2024,
@@ -208,10 +195,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Manchester Gorilla",
-      "gear": "Sony ECM-CS10",
-      "taper": "swintonboy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-CS10 \u00b7 swintonboy"
     },
     {
       "year": 2024,
@@ -222,10 +208,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "London Islington Assembly Hall",
-      "gear": "Tascam DR-05X",
-      "taper": "swintonboy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tascam DR-05X \u00b7 swintonboy"
     },
     {
       "year": 2024,
@@ -236,10 +221,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Metropol",
-      "gear": "Roland CS-10EM Omnis",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Roland CS-10EM Omnis \u00b7 Unknown"
     },
     {
       "year": 2025,
@@ -250,10 +234,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "A&R Music Bar",
-      "gear": "SP-CMC-8",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 live2cd"
     }
   ]
 };

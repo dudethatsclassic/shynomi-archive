@@ -24,10 +24,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Ellensburg, WA",
       "venue": "Hal Holmes Community Center",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1987,
@@ -38,10 +37,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Long Beach, CA",
       "venue": "Bogart's",
-      "gear": "Sony D3",
-      "taper": "db",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D3 \u00b7 db"
     },
     {
       "year": 1987,
@@ -52,10 +50,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "KXLU Los Angeles - Splat Winger's Brain Cookies Show",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -66,10 +63,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "UCSD Gym Steps",
-      "gear": "",
-      "taper": "m2 FM upgrade",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "m2 FM upgrade"
     },
     {
       "year": 1989,
@@ -80,10 +76,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Schwenningen, Germany",
       "venue": "Bourdon's - ANA",
-      "gear": "M",
-      "taper": "urschrei",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 urschrei"
     },
     {
       "year": 1989,
@@ -94,10 +89,9 @@ const ARTIST_DATA = {
       "state": "West Germany",
       "location": "Duisburg, West Germany",
       "venue": "Old Daddy",
-      "gear": "inc",
-      "taper": "bobfather",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "inc \u00b7 bobfather"
     },
     {
       "year": 1990,
@@ -108,10 +102,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Oldenburg, Germany",
       "venue": "Alhambra",
-      "gear": "Sony WM-D3",
-      "taper": "stadthfelder",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-D3 \u00b7 stadthfelder"
     },
     {
       "year": 1992,
@@ -122,10 +115,9 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "msterdam, NL",
       "venue": "Melkweg - ANA(M)",
-      "gear": "Audio Technica mics",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Audio Technica mics \u00b7 Unknown"
     },
     {
       "year": 1992,
@@ -136,10 +128,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Reading, England",
       "venue": "Reading Festival - VHS",
-      "gear": "",
-      "taper": "1",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "1"
     },
     {
       "year": 1992,
@@ -150,10 +141,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Long Beach, CA",
       "venue": "Bogarts *Winter Song",
-      "gear": "",
-      "taper": "HAWK",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "HAWK"
     },
     {
       "year": 1993,
@@ -164,10 +154,9 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Radiohuset-Studio 4",
-      "gear": "",
-      "taper": "magnus gusrafsson",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "magnus gusrafsson"
     },
     {
       "year": 1993,
@@ -178,10 +167,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Hilversum, The Netherlands",
       "venue": "Vara Studios",
-      "gear": "",
-      "taper": "Unplugged",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unplugged"
     },
     {
       "year": 1993,
@@ -192,10 +180,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Juan Capistrano, CA",
       "venue": "The Coach House",
-      "gear": "",
-      "taper": "Westwood One Broadcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Westwood One Broadcast"
     },
     {
       "year": 1993,
@@ -206,10 +193,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Skytop Field - ANA(M)",
-      "gear": "Aiwa J505",
-      "taper": "smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa J505 \u00b7 smores"
     },
     {
       "year": 1993,
@@ -220,10 +206,9 @@ const ARTIST_DATA = {
       "state": "AL - Oak Mountain Amphitheatre *Screaming Trees Live! (Home Records)",
       "location": "Birmingham, AL - Oak Mountain Amphitheatre *Screaming Trees Live! (Home Records)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -234,10 +219,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Pelham, AL",
       "venue": "Oak Mountain Amphitheatre - DAT(M)",
-      "gear": "CSB",
-      "taper": "willy sales",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 willy sales"
     },
     {
       "year": 1993,
@@ -248,10 +232,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Bayfront Park Amphitheatre - DAT(M)",
-      "gear": "SS-DSM6P",
-      "taper": "datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS-DSM6P \u00b7 datfly"
     },
     {
       "year": 1996,
@@ -262,10 +245,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Trocadero",
-      "gear": "",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1996,
@@ -276,10 +258,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Syracuse NY",
       "venue": "State Fairgrounds",
-      "gear": "Sony D7 DAT",
-      "taper": "steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D7 DAT \u00b7 steve hagar"
     },
     {
       "year": 1996,
@@ -290,10 +271,9 @@ const ARTIST_DATA = {
       "state": "WV",
       "location": "Charles Town, WV",
       "venue": "Charles Town Raceway - Lollapalooza",
-      "gear": "Sony D7 DAT",
-      "taper": "steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D7 DAT \u00b7 steve hagar"
     },
     {
       "year": 1996,
@@ -304,10 +284,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "Spartan Stadium - Lollapalooza",
-      "gear": "unk",
-      "taper": "neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1996,
@@ -318,10 +297,9 @@ const ARTIST_DATA = {
       "state": "Holland",
       "location": "Amsterdam, Holland",
       "venue": "Paradiso",
-      "gear": "VPRO",
-      "taper": "hanwaker transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "VPRO \u00b7 hanwaker transfer"
     },
     {
       "year": 1998,
@@ -332,10 +310,9 @@ const ARTIST_DATA = {
       "state": "WA /Bumbershoot & Beyond - DAT(M) (NAK 700s) (jems) + July 1998 Demos",
       "location": "Seattle, WA /Bumbershoot & Beyond - DAT(M) (NAK 700s) (jems) + July 1998 Demos",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -346,10 +323,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Roxy - DAT(M)",
-      "gear": "Sony ECM-737",
-      "taper": "tapegeek",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-737 \u00b7 tapegeek"
     }
   ]
 };

@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Bottom Line *A Christmas Gift For You - Two of Us Master Series #23",
-      "gear": "",
-      "taper": "2020 Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2020 Transfer"
     },
     {
       "year": 1988,
@@ -32,10 +31,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Bottom Line *A Christmas Gift For You - Two of Us Master Series #24",
-      "gear": "",
-      "taper": "2020 Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2020 Transfer"
     }
   ]
 };

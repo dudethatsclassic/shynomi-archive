@@ -26,10 +26,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Fulham",
-      "gear": "Sony ECM-969",
-      "taper": "crankingamps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-969 \u00b7 crankingamps"
     },
     {
       "year": 1989,
@@ -40,10 +39,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "ULU",
-      "gear": "Sony WM-D3",
-      "taper": "loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-D3 \u00b7 loughney transfer"
     },
     {
       "year": 1989,
@@ -54,10 +52,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Town And Country Club - ANA(M)",
-      "gear": "Sony TCS 430",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony TCS 430 \u00b7 Unknown"
     },
     {
       "year": 1990,
@@ -68,10 +65,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "L'Escall, France",
       "venue": "Nantes - France Inter FM Broadcast",
-      "gear": "",
-      "taper": "Unknown",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1990,
@@ -82,10 +78,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Koln, Germany",
       "venue": "Luxor",
-      "gear": "Sony PC-62",
-      "taper": "buenaventura",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony PC-62 \u00b7 buenaventura"
     },
     {
       "year": 1990,
@@ -96,10 +91,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Sheffield, UK",
       "venue": "University Of Sheffield",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1990,
@@ -110,10 +104,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Grosse Freiheit",
-      "gear": "Sony WM-D6",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-D6 \u00b7 Unknown"
     },
     {
       "year": 1990,
@@ -124,10 +117,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Borderline Club - ANA(M)",
-      "gear": "Sony TCS 430",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony TCS 430 \u00b7 Unknown"
     },
     {
       "year": 1990,
@@ -138,10 +130,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "University of London Union - ANA(M)",
-      "gear": "Sony TCS 430",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony TCS 430 \u00b7 Unknown"
     },
     {
       "year": 1990,
@@ -152,10 +143,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW-FM",
-      "gear": "",
-      "taper": "loughney transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "loughney transfer"
     },
     {
       "year": 1991,
@@ -166,10 +156,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "The Venue New Cross",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Unknown"
     },
     {
       "year": 1991,
@@ -180,10 +169,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Club Babyhead",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Unknown"
     },
     {
       "year": 1991,
@@ -194,10 +182,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1991,
@@ -208,10 +195,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Gothic Theatre",
-      "gear": "",
-      "taper": "loughney transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "loughney transfer"
     },
     {
       "year": 1991,
@@ -222,10 +208,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Roxy",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -236,10 +221,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Marquee - ANA(M)",
-      "gear": "Sony ECM-929",
-      "taper": "scott simpson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-929 \u00b7 scott simpson"
     },
     {
       "year": 1991,
@@ -250,10 +234,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The Dome",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Unknown"
     },
     {
       "year": 1991,
@@ -264,10 +247,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "North London Polytechnic",
-      "gear": "The Rocket",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "The Rocket \u00b7 Unknown"
     },
     {
       "year": 1991,
@@ -278,10 +260,9 @@ const ARTIST_DATA = {
       "state": "Lille, France",
       "location": "L'Aeronef, Lille, France",
       "venue": "Festival des Inrockuptibles - VHS",
-      "gear": "2",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "2 \u00b7 Unknown"
     },
     {
       "year": 1991,
@@ -292,10 +273,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "La Cigale, Paris",
-      "gear": "unk",
-      "taper": "2024 remaster",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 2024 remaster"
     },
     {
       "year": 1992,
@@ -306,10 +286,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Kentish Town & Country Club (Sony ECM-101SM)",
-      "gear": "unk",
-      "taper": "BBEAR099",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 BBEAR099"
     },
     {
       "year": 1992,
@@ -320,10 +299,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Campus Club",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Unknown"
     },
     {
       "year": 1992,
@@ -334,10 +312,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Ritz - ANA(M)",
-      "gear": "Sony ECM-929",
-      "taper": "scott simpson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-929 \u00b7 scott simpson"
     },
     {
       "year": 1992,
@@ -348,10 +325,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Palace",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1992,
@@ -362,10 +338,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "gear": "Late Show",
-      "taper": "Unknown",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Late Show \u00b7 Unknown"
     },
     {
       "year": 1992,
@@ -376,10 +351,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Koln, Germany",
       "venue": "Luxor",
-      "gear": "Sony PC-62",
-      "taper": "buenaventura",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony PC-62 \u00b7 buenaventura"
     },
     {
       "year": 1992,
@@ -390,10 +364,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Lausanne, Switzerland",
       "venue": "Dolce Vita",
-      "gear": "",
-      "taper": "Couleur 3 Radio Broadcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Couleur 3 Radio Broadcast"
     },
     {
       "year": 1992,
@@ -404,10 +377,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Hilversum, The Netherlands",
       "venue": "VARA Studios - 2 Meter Session",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -418,10 +390,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Bicentennial Park - Lollapalooza 92 (unk) exene transfer)",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1992,
@@ -432,10 +403,9 @@ const ARTIST_DATA = {
       "state": "FL - Bicentennial Park - Lollapalooza (unk)",
       "location": "Miami, FL - Bicentennial Park - Lollapalooza (unk)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -446,10 +416,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Cabaret Metro",
-      "gear": "WXRT 93.1",
-      "taper": "loughney transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "WXRT 93.1 \u00b7 loughney transfer"
     },
     {
       "year": 1992,
@@ -460,10 +429,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows - Lollapalooza - ANA",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 1993,
@@ -474,10 +442,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "ICA - DAT(M)",
-      "gear": "unk",
-      "taper": "lammah",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 lammah"
     },
     {
       "year": 1994,
@@ -488,10 +455,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Radio 1 Evening Session - ANA",
-      "gear": "",
-      "taper": "x",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x"
     },
     {
       "year": 1994,
@@ -502,10 +468,9 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "Paris, FR",
       "venue": "Black Session",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -516,10 +481,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Maxwell's - ANA(M)",
-      "gear": "Sony ECM-929",
-      "taper": "scott simpson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-929 \u00b7 scott simpson"
     },
     {
       "year": 1994,
@@ -530,10 +494,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "The Odeon",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Unknown"
     },
     {
       "year": 1994,
@@ -544,10 +507,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Glam Slam - ANA",
-      "gear": "2",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2 \u00b7 Unknown"
     },
     {
       "year": 1994,
@@ -558,10 +520,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Manhattan Center Ballroom - ANA(M)",
-      "gear": "Sony ECM-929",
-      "taper": "scott simpson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-929 \u00b7 scott simpson"
     },
     {
       "year": 1994,
@@ -572,10 +533,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Brighton, UK",
       "venue": "Zap Club",
-      "gear": "",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1996,
@@ -586,10 +546,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Studios - Mark Radcliffe Session",
-      "gear": "",
-      "taper": "loughney transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "loughney transfer"
     },
     {
       "year": 1996,
@@ -600,10 +559,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Studios - Radcliffe Session",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -614,10 +572,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Commodore Ballroom",
-      "gear": "",
-      "taper": "stevemtl",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "stevemtl"
     },
     {
       "year": 1996,
@@ -628,10 +585,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore",
-      "gear": "unk",
-      "taper": "neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1996,
@@ -642,10 +598,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Whisky A Go Go",
-      "gear": "CSB",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Unknown"
     },
     {
       "year": 1996,
@@ -656,10 +611,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1996,
@@ -670,10 +624,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "The Odeon",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Unknown"
     },
     {
       "year": 1996,
@@ -684,10 +637,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "gear": "unk",
-      "taper": "neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1996,
@@ -698,10 +650,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Belfast, Ireland",
       "venue": "Queens Hall",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -712,10 +663,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Zeebrugge, Belgium",
       "venue": "Axion Beach Rock Festival - VHS",
-      "gear": "2",
-      "taper": "atomicpope",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "2 \u00b7 atomicpope"
     },
     {
       "year": 1996,
@@ -726,10 +676,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Toad's Place - DAT(c)",
-      "gear": "SS mics",
-      "taper": "rk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS mics \u00b7 rk"
     },
     {
       "year": 1996,
@@ -740,10 +689,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington DC",
       "venue": "930 Club - DAT",
-      "gear": "c",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "c \u00b7 Unknown"
     },
     {
       "year": 1996,
@@ -754,10 +702,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Trocadero Theatre",
-      "gear": "SS-DSM6S",
-      "taper": "jlizard",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS-DSM6S \u00b7 jlizard"
     },
     {
       "year": 1996,
@@ -768,10 +715,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "unk",
-      "taper": "neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 2016,
@@ -782,10 +728,9 @@ const ARTIST_DATA = {
       "state": "London",
       "location": "Hackney, London",
       "venue": "Oslo",
-      "gear": "CA-11s",
-      "taper": "chatts99",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11s \u00b7 chatts99"
     },
     {
       "year": 2016,
@@ -796,10 +741,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Roundhouse",
-      "gear": "DPA 4060s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4060s \u00b7 Unknown"
     },
     {
       "year": 2016,
@@ -810,10 +754,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Roundhouse",
-      "gear": "DPA 4060s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4060s \u00b7 Unknown"
     },
     {
       "year": 2016,
@@ -824,10 +767,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Vic",
-      "gear": "Edirol R-09",
-      "taper": "alien rendel",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R-09 \u00b7 alien rendel"
     },
     {
       "year": 2016,
@@ -838,10 +780,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Fonda Theatre",
-      "gear": "AT831s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT831s \u00b7 Unknown"
     }
   ]
 };

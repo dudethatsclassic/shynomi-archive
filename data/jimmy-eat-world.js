@@ -32,10 +32,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2001,
@@ -46,10 +45,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Scala",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2004,
@@ -60,10 +58,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Potsdam, Germany",
       "venue": "Radio Fritz",
-      "gear": "",
-      "taper": "102.6",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "102.6"
     },
     {
       "year": 2007,
@@ -74,10 +71,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
-      "gear": "",
-      "taper": "Church Audio",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Church Audio"
     },
     {
       "year": 2008,
@@ -88,10 +84,9 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Vienna, Austria",
       "venue": "Gasometer",
-      "gear": "CSB",
-      "taper": "wzbw88",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 wzbw88"
     },
     {
       "year": 2013,
@@ -102,10 +97,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 2014,
@@ -116,10 +110,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Wichita, KS",
       "venue": "The Cotillion Ballroom",
-      "gear": "Zoom H1",
-      "taper": "penguin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 penguin"
     },
     {
       "year": 2014,
@@ -130,10 +123,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 2016,
@@ -144,10 +136,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Im Wizemann",
-      "gear": "Schoeps MK4",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK4 \u00b7 Unknown"
     },
     {
       "year": 2017,
@@ -158,10 +149,9 @@ const ARTIST_DATA = {
       "state": "Chile",
       "location": "Santiago, Chile",
       "venue": "Parque O' Higgins - Lollapalooza",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": ""
     },
     {
       "year": 2017,
@@ -172,10 +162,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Huxley's Neue Welt",
-      "gear": "Roland CS-10EM",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Roland CS-10EM \u00b7 Unknown"
     },
     {
       "year": 2017,
@@ -186,10 +175,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "gear": "DPA 4061",
-      "taper": "inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061 \u00b7 inc"
     },
     {
       "year": 2019,
@@ -200,10 +188,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "Birmingham Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -214,10 +201,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center - KROQ Absolut Almost Acoustic Christmas",
-      "gear": "",
-      "taper": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2021,
@@ -228,10 +214,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Napa, CA",
       "venue": "Bottlerock Festival",
-      "gear": "SP-CMC-8",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 Unknown"
     },
     {
       "year": 2022,
@@ -242,10 +227,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Scheessel, Germany",
       "venue": "Hurricane Festival",
-      "gear": "",
-      "taper": "Arte.tv",
       "version": "Webcast",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": "Arte.tv"
     },
     {
       "year": 2022,
@@ -256,10 +240,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Neuhausen ob Eck, Germany",
       "venue": "Southside Festival",
-      "gear": "",
-      "taper": "sbr1z",
       "version": "Webcast",
-      "format": "MKV"
+      "format": "MKV",
+      "notes": "sbr1z"
     },
     {
       "year": 2022,
@@ -270,10 +253,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Werchter, Belgium",
       "venue": "Rock Werchter",
-      "gear": "",
-      "taper": "paulo dapper",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": "paulo dapper"
     },
     {
       "year": 2022,
@@ -284,10 +266,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "KEMBA Live",
-      "gear": "AT853U",
-      "taper": "charles dewey cole",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853U \u00b7 charles dewey cole"
     },
     {
       "year": 2022,
@@ -298,10 +279,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riot Fest",
-      "gear": "Schoeps MK4s",
-      "taper": "ryanj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4s \u00b7 ryanj"
     },
     {
       "year": 2023,
@@ -312,10 +292,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Rod Laver Arena",
-      "gear": "Zoom H1n",
-      "taper": "claire laura fredriksson",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H1n \u00b7 claire laura fredriksson"
     },
     {
       "year": 2023,
@@ -326,10 +305,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "West Springfield, MA",
       "venue": "The Big E Arena",
-      "gear": "MZR50",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MZR50 \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -340,10 +318,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center",
-      "gear": "DPA 4081",
-      "taper": "faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4081 \u00b7 faninor"
     },
     {
       "year": 2024,
@@ -354,10 +331,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Columbiahalle",
-      "gear": "Roland CS-10EM",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Roland CS-10EM \u00b7 Unknown"
     },
     {
       "year": 2025,
@@ -368,10 +344,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Main Stage - Coachella Weekend Two",
-      "gear": "",
-      "taper": "1080p",
       "version": "WEB",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": "1080p"
     },
     {
       "year": 2025,
@@ -382,10 +357,9 @@ const ARTIST_DATA = {
       "state": "Eichenring",
       "location": "Schee?el, Eichenring",
       "venue": "Hurricane Festival",
-      "gear": "magentamusik.de",
-      "taper": "1080",
       "version": "WEB",
-      "format": "TS"
+      "format": "TS",
+      "notes": "magentamusik.de \u00b7 1080"
     }
   ]
 };

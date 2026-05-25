@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Owings Mills, MD",
       "venue": "Painters Mill Music Fair",
-      "gear": "master",
-      "taper": "rs archives",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "master \u00b7 rs archives"
     },
     {
       "year": 1979,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Trax",
-      "gear": "",
-      "taper": "WPIX 102FM",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "WPIX 102FM"
     },
     {
       "year": 2025,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Long Beach, CA",
       "venue": "Shoreline Waterfront - Warped Tour",
-      "gear": "DPA 4081",
-      "taper": "faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4081 \u00b7 faninor"
     }
   ]
 };

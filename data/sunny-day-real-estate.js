@@ -28,10 +28,9 @@ const ARTIST_DATA = {
       "state": "ND",
       "location": "Fargo, ND",
       "venue": "Playmaker's",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -42,10 +41,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Waterbury, CT",
       "venue": "Brass City Records",
-      "gear": "In-store",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "In-store \u00b7 Unknown"
     },
     {
       "year": 1994,
@@ -56,10 +54,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Knitting Factory",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -70,10 +67,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheatre",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -84,10 +80,9 @@ const ARTIST_DATA = {
       "state": "D.C. - The Black Cat",
       "location": "Washington, D.C. - The Black Cat",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "Webrip",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -98,10 +93,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "gear": "AT8022",
-      "taper": "scott simpson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT8022 \u00b7 scott simpson"
     },
     {
       "year": 1999,
@@ -112,10 +106,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Breakroom",
-      "gear": "",
-      "taper": "",
       "version": "Webrip",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": ""
     },
     {
       "year": 2000,
@@ -126,10 +119,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "40 Watt Club *How It Feels When It Finally Hits You",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2000,
@@ -140,10 +132,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Troubadour",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2000,
@@ -154,10 +145,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Sanctuary",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2000,
@@ -168,10 +158,9 @@ const ARTIST_DATA = {
       "state": "MA - Middle East",
       "location": "Cambridge, MA - Middle East",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "Webrip",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": ""
     },
     {
       "year": 2000,
@@ -182,10 +171,9 @@ const ARTIST_DATA = {
       "state": "MA - Middle East",
       "location": "Cambridge, MA - Middle East",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2009,
@@ -196,10 +184,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tempe, AZ",
       "venue": "Marquee Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2010,
@@ -210,10 +197,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "UNSW Roundhouse",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2022,
@@ -224,10 +210,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Spokane, WA",
       "venue": "The Big Dipper",
-      "gear": "unk",
-      "taper": "luke freteluco",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 luke freteluco"
     },
     {
       "year": 2023,
@@ -238,10 +223,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Wiltern",
-      "gear": "SP-CMC-4U",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-4U \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -252,10 +236,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Las Vegas Events Center",
-      "gear": "Zoom H1n",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1n \u00b7 Unknown"
     },
     {
       "year": 2025,
@@ -266,10 +249,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Victoria Park - Outbreak Fest",
-      "gear": "DPA 4061s",
-      "taper": "gambra",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061s \u00b7 gambra"
     },
     {
       "year": 2025,
@@ -280,10 +262,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Ace Of Spades",
-      "gear": "SP-CMC-4U",
-      "taper": "vibrioidxire",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-4U \u00b7 vibrioidxire"
     }
   ]
 };

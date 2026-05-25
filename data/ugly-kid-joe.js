@@ -23,10 +23,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Z-Rock Broadcast",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -37,10 +36,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Avalon - ANA",
-      "gear": "x",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x \u00b7 Unknown"
     },
     {
       "year": 1992,
@@ -51,10 +49,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Great Woods Center for the Performing Arts",
-      "gear": "",
-      "taper": "kixdude",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "kixdude"
     },
     {
       "year": 1993,
@@ -65,10 +62,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Allentown, PA",
       "venue": "Fairgrounds",
-      "gear": "Sony D3",
-      "taper": "koondog",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D3 \u00b7 koondog"
     },
     {
       "year": 2014,
@@ -79,10 +75,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Melbourne, AUS",
       "venue": "Palace Theatre",
-      "gear": "DPA MMC4011s",
-      "taper": "roman79",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA MMC4011s \u00b7 roman79"
     },
     {
       "year": 2022,
@@ -93,10 +88,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Glasgow, UK",
       "venue": "SEC Armadillo",
-      "gear": "Olympus LS-P1",
-      "taper": "keiths34",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Olympus LS-P1 \u00b7 keiths34"
     },
     {
       "year": 2022,
@@ -107,10 +101,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "The Resorts World Arena",
-      "gear": "SP-CMC-8",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 Unknown"
     },
     {
       "year": 2022,
@@ -121,10 +114,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London UK",
       "venue": "Wembley OVO Arena",
-      "gear": "Olympus LS-P1",
-      "taper": "kieths34",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Olympus LS-P1 \u00b7 kieths34"
     },
     {
       "year": 2024,
@@ -135,10 +127,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Bakkt Theatre",
-      "gear": "SP-CMC-4U",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-4U \u00b7 Unknown"
     },
     {
       "year": 2025,
@@ -149,10 +140,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Wacken, Germany",
       "venue": "Hauptstrasse",
-      "gear": "1080p",
-      "taper": "Magentamusik",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": "1080p \u00b7 Magentamusik"
     },
     {
       "year": 2025,
@@ -163,10 +153,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "Kia Forum",
-      "gear": "DPA 4081",
-      "taper": "faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4081 \u00b7 faninor"
     }
   ]
 };

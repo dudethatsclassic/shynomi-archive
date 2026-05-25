@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Imperial Palace",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1981,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Stadium - ANA",
-      "gear": "M",
-      "taper": "jems transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 jems transfer"
     }
   ]
 };

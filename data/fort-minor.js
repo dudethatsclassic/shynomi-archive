@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Pumpehuset",
-      "gear": "",
-      "taper": "nowfacethetruth",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "nowfacethetruth"
     }
   ]
 };

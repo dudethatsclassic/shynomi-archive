@@ -27,10 +27,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Astoria",
-      "gear": "Sony ECM-TS125",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-TS125 \u00b7 Unknown"
     },
     {
       "year": 2004,
@@ -41,10 +40,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Villiers Theatre",
-      "gear": "Sony ECM-TS125",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-TS125 \u00b7 Unknown"
     },
     {
       "year": 2004,
@@ -55,10 +53,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Birmingham, England",
       "venue": "TC Club",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2004,
@@ -69,10 +66,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Liverpool, UK",
       "venue": "The Academy",
-      "gear": "",
-      "taper": "johnky",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "johnky"
     },
     {
       "year": 2004,
@@ -83,10 +79,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Leeds, UK",
       "venue": "The Metropolitan University",
-      "gear": "Sony ECM-TS125",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-TS125 \u00b7 Unknown"
     },
     {
       "year": 2004,
@@ -97,10 +92,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Eastbourne, UK",
       "venue": "Winter Gardens",
-      "gear": "",
-      "taper": "Sharp IM-DR42",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sharp IM-DR42"
     },
     {
       "year": 2004,
@@ -111,10 +105,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "London Virgin Megastore",
-      "gear": "",
-      "taper": "Sharp IM-DR420H",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sharp IM-DR420H"
     },
     {
       "year": 2004,
@@ -125,10 +118,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Herzogenrath, Germany",
       "venue": "Sportplatz - Eins Live Festival",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2004,
@@ -139,10 +131,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hohenfelden, Germany",
       "venue": "Stausee - Highland Festival",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2004,
@@ -153,10 +144,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Belfast, Ireland",
       "venue": "The Ulster Hall",
-      "gear": "AT831b",
-      "taper": "johnky",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT831b \u00b7 johnky"
     },
     {
       "year": 2004,
@@ -167,10 +157,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "The Olympia Theatre",
-      "gear": "AT831b",
-      "taper": "johnky",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT831b \u00b7 johnky"
     },
     {
       "year": 2004,
@@ -181,10 +170,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Berbati's Pan",
-      "gear": "",
-      "taper": "johnky transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "johnky transfer"
     },
     {
       "year": 2004,
@@ -195,10 +183,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Live Music Hall",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2004,
@@ -209,10 +196,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Nottingham, England",
       "venue": "Rock City",
-      "gear": "",
-      "taper": "swintonboy transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "swintonboy transfer"
     },
     {
       "year": 2005,
@@ -223,10 +209,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "99X - Live X Session",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2006,
@@ -237,10 +222,9 @@ const ARTIST_DATA = {
       "state": "Norway",
       "location": "Oslo, Norway",
       "venue": "Sentrum Scene",
-      "gear": "Sharp IM-DR420H",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sharp IM-DR420H \u00b7 Unknown"
     },
     {
       "year": 2006,
@@ -251,10 +235,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Landgraaf, The Netherlands",
       "venue": "Megaland - Pinkpop Festival",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2007,
@@ -265,10 +248,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Olympia",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2009,
@@ -279,10 +261,9 @@ const ARTIST_DATA = {
       "state": "WS",
       "location": "Seattle, WS",
       "venue": "Moore Theatre",
-      "gear": "AT 853",
-      "taper": "b.c.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT 853 \u00b7 b.c."
     },
     {
       "year": 2010,
@@ -293,10 +274,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Brixton Electric",
-      "gear": "",
-      "taper": "R09",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "R09"
     },
     {
       "year": 2010,
@@ -307,10 +287,9 @@ const ARTIST_DATA = {
       "state": "PA - Philadelphia Mann Music Centre",
       "location": "Philadelphia, PA - Philadelphia Mann Music Centre",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2012,
@@ -321,10 +300,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Bexhill-On-Sea, England",
       "venue": "Warr Pavilion",
-      "gear": "",
-      "taper": "Sony ECM-125",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-125"
     },
     {
       "year": 2012,
@@ -335,10 +313,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "BBC Radio Theatre - Broadcasting House",
-      "gear": "",
-      "taper": "Radio 2 In Concert",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Radio 2 In Concert"
     },
     {
       "year": 2012,
@@ -349,10 +326,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Folkestone, England",
       "venue": "Leas Cliff Hall",
-      "gear": "",
-      "taper": "R09",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "R09"
     },
     {
       "year": 2012,
@@ -363,10 +339,9 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "Paris, FR",
       "venue": "L'Olympia",
-      "gear": "WSMA-889 + SP-CMC-4",
-      "taper": "julien",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "WSMA-889 + SP-CMC-4 \u00b7 julien"
     },
     {
       "year": 2019,
@@ -377,10 +352,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "The Hague, The Netherlands",
       "venue": "Noorderstrand Sceveningen",
-      "gear": "",
-      "taper": "one8ung",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "one8ung"
     },
     {
       "year": 2019,
@@ -391,10 +365,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Bexhill, England",
       "venue": "De la Warr Pavilion",
-      "gear": "",
-      "taper": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -405,10 +378,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "BBC Radio 2 Studio - Broadcasting House",
-      "gear": "",
-      "taper": "The Dermot O'Leary Show",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "The Dermot O'Leary Show"
     },
     {
       "year": 2020,
@@ -419,10 +391,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "AFAS Live",
-      "gear": "",
-      "taper": "one8ung",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "one8ung"
     },
     {
       "year": 2024,
@@ -433,10 +404,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "O2 Shepherd's Bush Empire",
-      "gear": "MT350s",
-      "taper": "pietaker",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MT350s \u00b7 pietaker"
     },
     {
       "year": 2024,
@@ -447,10 +417,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Shepherd's Bush Empire (MT350s)",
-      "gear": "pietaker",
-      "taper": "abby taper remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "pietaker \u00b7 abby taper remaster"
     },
     {
       "year": 2024,
@@ -461,10 +430,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "AFAS Live",
-      "gear": "DPA 4061",
-      "taper": "one8ung",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4061 \u00b7 one8ung"
     },
     {
       "year": 2024,
@@ -475,10 +443,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "AFAS Live",
-      "gear": "Schoeps MK41s",
-      "taper": "grigio",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK41s \u00b7 grigio"
     },
     {
       "year": 2024,
@@ -489,10 +456,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Palladium",
-      "gear": "AT-853s",
-      "taper": "pietaker",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AT-853s \u00b7 pietaker"
     },
     {
       "year": 2024,
@@ -503,10 +469,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "L'Olympia",
-      "gear": "AT-853s",
-      "taper": "pietaker",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AT-853s \u00b7 pietaker"
     },
     {
       "year": 2024,
@@ -517,10 +482,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Leeds, UK",
       "venue": "First Direct Arena",
-      "gear": "Tascam DR-2D",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tascam DR-2D \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -531,10 +495,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "Utilita Arena",
-      "gear": "Zoom H2n",
-      "taper": "trickymicky",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H2n \u00b7 trickymicky"
     },
     {
       "year": 2024,
@@ -545,10 +508,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The 02 Arena,",
-      "gear": "CA-11",
-      "taper": "markeano",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 \u00b7 markeano"
     },
     {
       "year": 2024,
@@ -559,10 +521,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "02 Arena (Tascam DR-2d) (CA-11c)",
-      "gear": "IEM",
-      "taper": "one8ung + markeano",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "IEM \u00b7 one8ung + markeano"
     },
     {
       "year": 2024,
@@ -573,10 +534,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Landgraaf, The Netherlands",
       "venue": "Pinkpop",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2024,
@@ -587,10 +547,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Pilton, UK",
       "venue": "Glastonbury",
-      "gear": "",
-      "taper": "Channel - Interview",
       "version": "WEB",
-      "format": "MKV"
+      "format": "MKV",
+      "notes": "Channel - Interview"
     },
     {
       "year": 2024,
@@ -601,10 +560,9 @@ const ARTIST_DATA = {
       "state": "BE",
       "location": "Nieuwpoort, BE",
       "venue": "Beach Festival - Rec 1",
-      "gear": "AT853",
-      "taper": "pietaker",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853 \u00b7 pietaker"
     },
     {
       "year": 2024,
@@ -615,10 +573,9 @@ const ARTIST_DATA = {
       "state": "BE",
       "location": "Nieuwpoort, BE",
       "venue": "Beach Festival - Rec 2",
-      "gear": "AT831",
-      "taper": "pietaker",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT831 \u00b7 pietaker"
     },
     {
       "year": 2024,
@@ -629,10 +586,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Nieuwpoort, Belgium",
       "venue": "Maritiem Park",
-      "gear": "AT853+AT831",
-      "taper": "pieteker",
       "version": "MIX",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AT853+AT831 \u00b7 pieteker"
     }
   ]
 };

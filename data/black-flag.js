@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Santa Monica Civic Auditorium - ANA",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 1981,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "930 Club",
-      "gear": "Early & Late Shows",
-      "taper": "djm5000",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Early & Late Shows \u00b7 djm5000"
     },
     {
       "year": 1984,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Dream Palace - ANA(M)",
-      "gear": "Sony TC-D5",
-      "taper": "reed hayward",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony TC-D5 \u00b7 reed hayward"
     },
     {
       "year": 1985,
@@ -62,10 +59,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "St. Theresa's - ANA(M)",
-      "gear": "Sony TC-D5",
-      "taper": "reed hayward",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony TC-D5 \u00b7 reed hayward"
     }
   ]
 };

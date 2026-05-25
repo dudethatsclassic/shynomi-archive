@@ -22,10 +22,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Sit 'N Spin",
-      "gear": "",
-      "taper": "MarcSounds",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MarcSounds"
     },
     {
       "year": 1998,
@@ -36,10 +35,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Opium Den - DAT(1)",
-      "gear": "CSB",
-      "taper": "mz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 mz"
     },
     {
       "year": 1998,
@@ -50,10 +48,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Opium Den",
-      "gear": "",
-      "taper": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB"
     },
     {
       "year": 1998,
@@ -64,10 +61,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Luna Park",
-      "gear": "",
-      "taper": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB"
     },
     {
       "year": 1998,
@@ -78,10 +74,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Luna Park - DAT(1)",
-      "gear": "CSB",
-      "taper": "mz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 mz"
     },
     {
       "year": 1999,
@@ -92,10 +87,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Aerospace",
-      "gear": "",
-      "taper": "CSC",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSC"
     },
     {
       "year": 1999,
@@ -106,10 +100,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Sit 'N Spin",
-      "gear": "",
-      "taper": "CSC",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSC"
     },
     {
       "year": 1999,
@@ -120,10 +113,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Shine",
-      "gear": "",
-      "taper": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB"
     },
     {
       "year": 1999,
@@ -134,10 +126,9 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Columbia, SC",
       "venue": "The Elbow Room",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -148,10 +139,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Arcadia",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -162,10 +152,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Mint",
-      "gear": "",
-      "taper": "COS-11sBP",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "COS-11sBP"
     },
     {
       "year": 1999,
@@ -176,10 +165,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Marina del Rey, CA",
       "venue": "Tower Records",
-      "gear": "early",
-      "taper": "COS-11sBP",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "early \u00b7 COS-11sBP"
     },
     {
       "year": 1999,
@@ -190,10 +178,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Bar F2 (late) - DAT",
-      "gear": "M",
-      "taper": "COS-11sBP",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 COS-11sBP"
     },
     {
       "year": 1999,
@@ -204,10 +191,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Arcadia",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -218,10 +204,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Arcadia",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2001,
@@ -232,10 +217,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "EMP Sky Church - Groundwork 2001",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2009,
@@ -246,10 +230,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox",
-      "gear": "CA-11",
-      "taper": "jeffbr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 \u00b7 jeffbr"
     },
     {
       "year": 2015,
@@ -260,10 +243,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Radio 2",
-      "gear": "",
-      "taper": "phantomdevil productions",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "phantomdevil productions"
     },
     {
       "year": 2015,
@@ -274,10 +256,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Crocodile Back Bar",
-      "gear": "",
-      "taper": "Zoom H4N",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H4N"
     },
     {
       "year": 2015,
@@ -288,10 +269,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Highway 99 Blues Club",
-      "gear": "",
-      "taper": "Tascam GT-R1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tascam GT-R1"
     }
   ]
 };

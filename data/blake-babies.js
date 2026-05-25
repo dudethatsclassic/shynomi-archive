@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's - ANA(M)",
-      "gear": "ECM-909",
-      "taper": "tjcruz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-909 \u00b7 tjcruz"
     }
   ]
 };

@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Flagstaff, AZ",
       "venue": "Orpheum Theater",
-      "gear": "Sony ECM-12",
-      "taper": "luke freteluco",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-12 \u00b7 luke freteluco"
     },
     {
       "year": 2023,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sebastopol, CA",
       "venue": "HopMonk Tavern",
-      "gear": "Sennheiser Ambeo",
-      "taper": "grizzly adams",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sennheiser Ambeo \u00b7 grizzly adams"
     }
   ]
 };

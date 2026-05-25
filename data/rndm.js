@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "gear": "CSB",
-      "taper": "aerohead",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 aerohead"
     },
     {
       "year": 2012,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Bowery Ballroom",
-      "gear": "",
-      "taper": "ECM-719",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719"
     },
     {
       "year": 2012,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Ottawa, Ontario",
       "venue": "Commons Theatre - Algonquin College",
-      "gear": "Zoom H2",
-      "taper": "bootlegottawa",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H2 \u00b7 bootlegottawa"
     },
     {
       "year": 2012,
@@ -62,10 +59,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Lee's Palace",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2012,
@@ -76,10 +72,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Lawrence, KS",
       "venue": "The Bottleneck",
-      "gear": "Zoom H2",
-      "taper": "det1967",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H2 \u00b7 det1967"
     },
     {
       "year": 2012,
@@ -90,10 +85,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Troubadour",
-      "gear": "",
-      "taper": "Sirius XM Broadcast",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sirius XM Broadcast"
     },
     {
       "year": 2013,
@@ -104,10 +98,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Burbank, CA",
       "venue": "Warner Bros Studios - Conan",
-      "gear": "",
-      "taper": "SD",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SD"
     },
     {
       "year": 2013,
@@ -118,10 +111,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Burbank, CA",
       "venue": "Warner Bros Studios - Conan",
-      "gear": "",
-      "taper": "MPEG-PS Stream",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MPEG-PS Stream"
     },
     {
       "year": 2013,
@@ -132,10 +124,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Napa, CA",
       "venue": "Bottlerock Festival - Willpower Stage",
-      "gear": "",
-      "taper": "SP-CMC-8",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8"
     },
     {
       "year": 2016,
@@ -146,10 +137,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Crocodile Cafe",
-      "gear": "",
-      "taper": "Zoom H1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1"
     },
     {
       "year": 2016,
@@ -160,10 +150,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Brighton Music Hall",
-      "gear": "CSB",
-      "taper": "aerohead",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 aerohead"
     },
     {
       "year": 2016,
@@ -174,10 +163,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Brighton Music Hall",
-      "gear": "Sony PCM-M10",
-      "taper": "aerohead",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony PCM-M10 \u00b7 aerohead"
     }
   ]
 };

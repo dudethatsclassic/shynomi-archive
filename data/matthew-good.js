@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Ottawa, Ontario",
       "venue": "Zaphod Beeblebrox",
-      "gear": "Sony MZ-N707",
-      "taper": "joe kusnir",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony MZ-N707 \u00b7 joe kusnir"
     },
     {
       "year": 2018,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "Alberta",
       "location": "Edmonton, Alberta",
       "venue": "Northern Alberta Jubilee Auditorium",
-      "gear": "",
-      "taper": "Sony PCM-M10",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sony PCM-M10"
     },
     {
       "year": 2018,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "Alberta",
       "location": "Edmonton, Alberta",
       "venue": "Northern Alberta Jubilee Auditorium",
-      "gear": "SP-CMC-2",
-      "taper": "sean gursky",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-2 \u00b7 sean gursky"
     },
     {
       "year": 2025,
@@ -62,10 +59,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Ottawa, ON",
       "venue": "Bronson Centre",
-      "gear": "iPhone 16 Pro",
-      "taper": "613henry",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "iPhone 16 Pro \u00b7 613henry"
     }
   ]
 };

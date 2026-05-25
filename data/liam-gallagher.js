@@ -24,10 +24,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Docks",
-      "gear": "",
-      "taper": "NDR Blue",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "NDR Blue"
     },
     {
       "year": 2017,
@@ -38,10 +37,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Bernardino, CA",
       "venue": "Glen Helen Regional Park - Cal Jam '17",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2018,
@@ -52,10 +50,9 @@ const ARTIST_DATA = {
       "state": "Chile",
       "location": "Santiago, Chile",
       "venue": "Parque O'Higgins - Lollapalooza",
-      "gear": "",
-      "taper": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2018,
@@ -66,10 +63,9 @@ const ARTIST_DATA = {
       "state": "Scotland",
       "location": "Glasgow, Scotland",
       "venue": "Glasgow Green - Main Stage TRNSMT",
-      "gear": "",
-      "taper": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -80,10 +76,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Broadcasting House - BBC Radio 1 Piano Sessions",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -94,10 +89,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "England, UK",
       "venue": "Hull City Hall - MTV Unplugged",
-      "gear": "",
-      "taper": "",
       "version": "Broadcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -108,10 +102,9 @@ const ARTIST_DATA = {
       "state": "Finland",
       "location": "Helsinki, Finland",
       "venue": "In the Park",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -122,10 +115,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "02 Ritz",
-      "gear": "",
-      "taper": "",
       "version": "Broadcast",
-      "format": "MKV"
+      "format": "MKV",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -136,10 +128,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Broadcasting House - The One Show",
-      "gear": "",
-      "taper": "",
       "version": "Broadcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -150,10 +141,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Later with Jools Holland",
-      "gear": "",
-      "taper": "",
       "version": "Broadcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -164,10 +154,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Bowl",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -178,10 +167,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Bowl",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -192,10 +180,9 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "Motorpoint Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -206,10 +193,9 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "Motorpoint Arena",
-      "gear": "",
-      "taper": "",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -220,10 +206,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "The 3Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -234,10 +219,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "The 3Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -248,10 +232,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The 02 Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -262,10 +245,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Margaret Court",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2020,
@@ -276,10 +258,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Rome, Italy",
       "venue": "Palazzo Della Sport",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 2022,
@@ -290,10 +271,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Albert Hall - Teenage Cancer Trust",
-      "gear": "Nokia Lumia 830",
-      "taper": "birchy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nokia Lumia 830 \u00b7 birchy"
     },
     {
       "year": 2022,
@@ -304,10 +284,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Alexandra Place - Later With Jools Holland",
-      "gear": "NGL Digital Box",
-      "taper": "johnky",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "NGL Digital Box \u00b7 johnky"
     },
     {
       "year": 2022,
@@ -318,10 +297,9 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Monmouth, Wales",
       "venue": "48hrs At Rockfield",
-      "gear": "",
-      "taper": "johnky",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "johnky"
     },
     {
       "year": 2022,
@@ -332,10 +310,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Knebworth, England",
       "venue": "Knebworth House",
-      "gear": "OUI FM",
-      "taper": "whatever",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "OUI FM \u00b7 whatever"
     },
     {
       "year": 2022,
@@ -346,10 +323,9 @@ const ARTIST_DATA = {
       "state": "GB",
       "location": "Knebworth, GB",
       "venue": "Knebworth 22",
-      "gear": "",
-      "taper": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nugs.net"
     },
     {
       "year": 2022,
@@ -360,10 +336,9 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "LIsbon, Portugal",
       "venue": "Parque da Bela Vista - Rock in Rio",
-      "gear": "",
-      "taper": "johnky",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "johnky"
     },
     {
       "year": 2022,
@@ -374,10 +349,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Hasselt, Belgium",
       "venue": "HEAR HEAR!",
-      "gear": "",
-      "taper": "paulo dapper",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": "paulo dapper"
     },
     {
       "year": 2022,
@@ -388,10 +362,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Biddinghuizen, The Netherlands",
       "venue": "Lowlands Festival",
-      "gear": "",
-      "taper": "fool2005",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "notes": "fool2005"
     },
     {
       "year": 2022,
@@ -402,10 +375,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Kilmainham Hospital",
-      "gear": "johnky",
-      "taper": "petrock2000 remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "johnky \u00b7 petrock2000 remaster"
     },
     {
       "year": 2023,
@@ -416,10 +388,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Werchter, Belgium",
       "venue": "Rock Werchter",
-      "gear": "SP-CMC-8",
-      "taper": "toshi",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 toshi"
     },
     {
       "year": 2023,
@@ -430,10 +401,9 @@ const ARTIST_DATA = {
       "state": "IT",
       "location": "Milan, IT",
       "venue": "Ippodromo Snai La Maura - WAV(M)",
-      "gear": "Sennheiser MM-HLSC-2",
-      "taper": "alberto",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sennheiser MM-HLSC-2 \u00b7 alberto"
     },
     {
       "year": 2023,
@@ -444,10 +414,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Summer Sonic Extra - Toyosu Pit",
-      "gear": "",
-      "taper": "DPA 4061 + IEM",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061 + IEM"
     },
     {
       "year": 2024,
@@ -458,10 +427,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Wolverhampton, UK",
       "venue": "Civic Hall (Pete Remaster)",
-      "gear": "Olympus LS-P1",
-      "taper": "welshylad",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Olympus LS-P1 \u00b7 welshylad"
     },
     {
       "year": 2024,
@@ -472,10 +440,9 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "Utilita Arena",
-      "gear": "Olympus LS-P1",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Olympus LS-P1 \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -486,10 +453,9 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "Utilita Arena Cardiff",
-      "gear": "",
-      "taper": "AUD-IEM",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AUD-IEM"
     },
     {
       "year": 2024,
@@ -500,10 +466,9 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "Utilita Arena Cardiff",
-      "gear": "SP-CMC-8",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -514,10 +479,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "02 Arena",
-      "gear": "Olympus LS-P1",
-      "taper": "welshylad",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Olympus LS-P1 \u00b7 welshylad"
     },
     {
       "year": 2024,
@@ -528,10 +492,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Reading, UK",
       "venue": "Reading Festival, Little John's Farm",
-      "gear": "",
-      "taper": "1080i",
       "version": "Webcast",
-      "format": "MKV"
+      "format": "MKV",
+      "notes": "1080i"
     }
   ]
 };

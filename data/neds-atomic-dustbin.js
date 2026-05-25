@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "KROQ Noontime Free Concert at the Roxy Theatre",
-      "gear": "",
-      "taper": "van",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "van"
     },
     {
       "year": 2023,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Wolverhampton, UK",
       "venue": "The Halls at the Civic",
-      "gear": "Roland R05",
-      "taper": "motr1912",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Roland R05 \u00b7 motr1912"
     }
   ]
 };

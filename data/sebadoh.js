@@ -30,10 +30,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "7th St. Engry - ANA",
-      "gear": "",
-      "taper": "1",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1"
     },
     {
       "year": 1992,
@@ -44,10 +43,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Axis",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -58,10 +56,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "The Underworld - ANA",
-      "gear": "3",
-      "taper": "o'lachtna production",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "3 \u00b7 o'lachtna production"
     },
     {
       "year": 1992,
@@ -72,10 +69,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Peel Session - CASS",
-      "gear": "",
-      "taper": "2",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2"
     },
     {
       "year": 1993,
@@ -86,10 +82,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Mean Fiddler - ANA",
-      "gear": "5",
-      "taper": "o'lachtna production",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "5 \u00b7 o'lachtna production"
     },
     {
       "year": 1993,
@@ -100,10 +95,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Trinity College",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -114,10 +108,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "15 Minute Club - ANA",
-      "gear": "",
-      "taper": "x",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x"
     },
     {
       "year": 1993,
@@ -128,10 +121,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Athens, GA",
       "venue": "Showbox - ANA",
-      "gear": "2",
-      "taper": "o'lachtna production",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2 \u00b7 o'lachtna production"
     },
     {
       "year": 1993,
@@ -142,10 +134,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Cotton Club - ANA",
-      "gear": "",
-      "taper": "4",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "4"
     },
     {
       "year": 1993,
@@ -156,10 +147,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Grand - ANA",
-      "gear": "3",
-      "taper": "o'lachtna production",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "3 \u00b7 o'lachtna production"
     },
     {
       "year": 1993,
@@ -170,10 +160,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Frankfurt, Germany",
       "venue": "Corky's - VHS",
-      "gear": "",
-      "taper": "1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1"
     },
     {
       "year": 1993,
@@ -184,10 +173,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Pilton, UK",
       "venue": "Glastonbury Festival - Worthy Farm",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -198,10 +186,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Off Ramp Cafe - ANA",
-      "gear": "1",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 Unknown"
     },
     {
       "year": 1994,
@@ -212,10 +199,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Princeton, NJ",
       "venue": "Jon Soloman's House - ANA",
-      "gear": "2",
-      "taper": "o'lachtna production",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2 \u00b7 o'lachtna production"
     },
     {
       "year": 1994,
@@ -226,10 +212,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The Garage - ANA",
-      "gear": "",
-      "taper": "x",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x"
     },
     {
       "year": 1994,
@@ -240,10 +225,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Newport, UK",
       "venue": "TJ's - AUD",
-      "gear": "x",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x \u00b7 Unknown"
     },
     {
       "year": 1994,
@@ -254,10 +238,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Notthingham, UK",
       "venue": "Narrowboat - AUD(x)",
-      "gear": "o'lachtna production",
-      "taper": "inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "o'lachtna production \u00b7 inc"
     },
     {
       "year": 1994,
@@ -268,10 +251,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Koln, Germany",
       "venue": "Luxor",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -282,10 +264,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Gent, Belgium",
       "venue": "Democrazy",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -296,10 +277,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Burlington, VT",
       "venue": "Toast",
-      "gear": "",
-      "taper": "gkay44",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "gkay44"
     },
     {
       "year": 1994,
@@ -310,10 +290,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Burlington, VT",
       "venue": "Club Toast - ANA",
-      "gear": "",
-      "taper": "1",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1"
     },
     {
       "year": 1994,
@@ -324,10 +303,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Opera House - AUD",
-      "gear": "M",
-      "taper": "loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 loughney transfer"
     },
     {
       "year": 1994,
@@ -338,10 +316,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
-      "gear": "",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1995,
@@ -352,10 +329,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "Stone Lounge - ANA",
-      "gear": "1",
-      "taper": "loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 loughney transfer"
     },
     {
       "year": 1995,
@@ -366,10 +342,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore - ANA",
-      "gear": "1",
-      "taper": "loughney transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 loughney transfer"
     },
     {
       "year": 1995,
@@ -380,10 +355,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Olympia, WA",
       "venue": "Library 4300 - The Evergreen State College - ANA(M)",
-      "gear": "Aiwa",
-      "taper": "mike ziegler transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa \u00b7 mike ziegler transfer"
     },
     {
       "year": 1995,
@@ -394,10 +368,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -408,10 +381,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston , MA",
       "venue": "The Avalon - ANA(1)",
-      "gear": "Sony WM-D3",
-      "taper": "gkaye",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-D3 \u00b7 gkaye"
     },
     {
       "year": 1995,
@@ -422,10 +394,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Bielefeld, Germany",
       "venue": "Hechelei",
-      "gear": "",
-      "taper": "thir13en",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "thir13en"
     },
     {
       "year": 1995,
@@ -436,10 +407,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Shepherd's Bush Empire",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -450,10 +420,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Shepherds Bush Empire",
-      "gear": "SBD+AUD",
-      "taper": "thir13en",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SBD+AUD \u00b7 thir13en"
     },
     {
       "year": 1996,
@@ -464,10 +433,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Reading, UK",
       "venue": "Reading Festival",
-      "gear": "",
-      "taper": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -478,10 +446,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "930 Club",
-      "gear": "",
-      "taper": "bobfather",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "bobfather"
     },
     {
       "year": 1996,
@@ -492,10 +459,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "gear": "unk",
-      "taper": "neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1996,
@@ -506,10 +472,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "La Luna - ANA(1)",
-      "gear": "Sony WM-D3",
-      "taper": "loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-D3 \u00b7 loughney transfer"
     },
     {
       "year": 1996,
@@ -520,10 +485,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Odeon - ANA",
-      "gear": "1",
-      "taper": "Sony WM-D3",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 Sony WM-D3"
     },
     {
       "year": 1997,
@@ -534,10 +498,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Charlottesville, VA",
       "venue": "Trax - DAT",
-      "gear": "M",
-      "taper": "marcus winfree",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 marcus winfree"
     },
     {
       "year": 1997,
@@ -548,10 +511,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise (WBCN Broadcast) - ANA",
-      "gear": "3",
-      "taper": "loughney transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "3 \u00b7 loughney transfer"
     },
     {
       "year": 1997,
@@ -562,10 +524,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise - ANA(3)",
-      "gear": "WBCN Broadcast",
-      "taper": "complete",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "WBCN Broadcast \u00b7 complete"
     },
     {
       "year": 1997,
@@ -576,10 +537,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "gear": "unk",
-      "taper": "sluggo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 sluggo"
     },
     {
       "year": 1998,
@@ -590,10 +550,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Paradiso",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -604,10 +563,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro - MD(M)",
-      "gear": "ECM-MS907",
-      "taper": "matos",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-MS907 \u00b7 matos"
     },
     {
       "year": 1999,
@@ -618,10 +576,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Muenchen, Germany",
       "venue": "Muffathalle",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2004,
@@ -632,10 +589,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Bluebird Theater",
-      "gear": "",
-      "taper": "sxpxdxcx",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "sxpxdxcx"
     },
     {
       "year": 2004,
@@ -646,10 +602,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Lawrence, KS",
       "venue": "Granada - MD(M)",
-      "gear": "SPC-MC8",
-      "taper": "sonictooth",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SPC-MC8 \u00b7 sonictooth"
     },
     {
       "year": 2011,
@@ -660,10 +615,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Record Bar,",
-      "gear": "SP-CMC-8",
-      "taper": "sonictooth",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 sonictooth"
     },
     {
       "year": 2011,
@@ -674,10 +628,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Sydney, AUS",
       "venue": "Metro Theatre",
-      "gear": "Webstream",
-      "taper": "_tunic_",
       "version": "PRO",
-      "format": "FLV"
+      "format": "FLV",
+      "notes": "Webstream \u00b7 _tunic_"
     },
     {
       "year": 2013,
@@ -688,10 +641,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Frankfurt, Germany",
       "venue": "Zoom - DAT(M)",
-      "gear": "Sony D8",
-      "taper": "bobfather + sten bert",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D8 \u00b7 bobfather + sten bert"
     },
     {
       "year": 2014,
@@ -702,10 +654,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Record Bar",
-      "gear": "SP-CMC-8",
-      "taper": "sonictooth",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 sonictooth"
     }
   ]
 };

@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "Baton Rouge, LA",
       "venue": "Spanish Moon - VHS",
-      "gear": "x",
-      "taper": "Hi8 Camcorder",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "x \u00b7 Hi8 Camcorder"
     }
   ]
 };

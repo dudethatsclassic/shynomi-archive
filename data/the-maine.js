@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Civic Space Park - 8123 Fest",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": ""
     },
     {
       "year": 2024,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center (DPA 4081",
-      "gear": "",
-      "taper": "faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "faninor"
     }
   ]
 };

@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "The Kennedy Center",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": ""
     },
     {
       "year": 1979,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Nippon Budokan",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": ""
     }
   ]
 };

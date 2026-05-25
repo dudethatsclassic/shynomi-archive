@@ -32,10 +32,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montreal, Canada",
       "venue": "Finjin Club",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1965,
@@ -46,10 +45,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Manchester, England",
       "venue": "Free Trade Hall *Now Ain't the Time for Your Tears",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1965,
@@ -60,10 +58,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Studios",
-      "gear": "",
-      "taper": "",
       "version": "Broadcast",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1965,
@@ -74,10 +71,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Hollywood Bowl",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1965,
@@ -88,10 +84,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Bushnell Memorial Hall",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1966,
@@ -102,10 +97,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, Australia",
       "venue": "Sydney Australia *Genuine Live 1966",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1966,
@@ -116,10 +110,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Albert Hall",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1970,
@@ -130,10 +123,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "*Almost Went To See Elvis",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1970,
@@ -144,10 +136,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Columbia Studios",
-      "gear": "",
-      "taper": "Nash 105",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nash 105"
     },
     {
       "year": 1974,
@@ -158,10 +149,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Stadium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1974,
@@ -172,10 +162,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Spectrum",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1974,
@@ -186,10 +175,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Spectrum",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1974,
@@ -200,10 +188,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Maple Leaf Gardens",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1974,
@@ -214,10 +201,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston Gardens",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1975,
@@ -228,10 +214,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston Music Hall",
-      "gear": "Late show",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Late show"
     },
     {
       "year": 1976,
@@ -242,10 +227,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "Municipal Auditorium",
-      "gear": "",
-      "taper": "Inc \u00b7 Dolphinsmile",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Inc \u00b7 Dolphinsmile"
     },
     {
       "year": 1976,
@@ -256,10 +240,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Fort Worth, TX",
       "venue": "TCCC *Hold the Fort",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1978,
@@ -270,10 +253,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "University of WA *Live at the Pitstop 78",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1980,
@@ -284,10 +266,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Les Kokay",
-      "gear": "",
-      "taper": "Lb-7445",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Lb-7445"
     },
     {
       "year": 1986,
@@ -298,10 +279,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "gear": "",
-      "taper": "With Tom Petty",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "With Tom Petty"
     },
     {
       "year": 1989,
@@ -312,10 +292,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Rochester Hills, MI",
       "venue": "Howard C. Baldwin Memorial Pavilion",
-      "gear": "",
-      "taper": "Dolphinsmile",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Dolphinsmile"
     },
     {
       "year": 1993,
@@ -326,10 +305,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Canadien National Exhibition Grandstand",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -340,10 +318,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Sports Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -354,10 +331,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saugerties, NY",
       "venue": "Woodstock 94",
-      "gear": "JTT",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "JTT"
     },
     {
       "year": 1995,
@@ -368,10 +344,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Fuerth, Germany",
       "venue": "Stadthalle",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -382,10 +357,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Palo Alto, CA",
       "venue": "Stanford University - Frost Amphitheatre",
-      "gear": "",
-      "taper": "Hurricane",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Hurricane"
     }
   ]
 };

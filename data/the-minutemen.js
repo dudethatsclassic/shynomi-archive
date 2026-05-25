@@ -21,10 +21,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Santa Monica Civic Auditorium - CASS",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 1983,
@@ -35,10 +34,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Love Hall - VHS",
-      "gear": "M",
-      "taper": "howard",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "M \u00b7 howard"
     },
     {
       "year": 1984,
@@ -49,10 +47,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Valencia CA",
       "venue": "California Institute of the Arts Santa Clarita",
-      "gear": "AKG 567e",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AKG 567e \u00b7 Unknown"
     },
     {
       "year": 1985,
@@ -63,10 +60,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Club Lingerie",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     }
   ]
 };

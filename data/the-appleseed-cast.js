@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Regency Ballroom",
-      "gear": "Schoeps MK4",
-      "taper": "loughney",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK4 \u00b7 loughney"
     }
   ]
 };

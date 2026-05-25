@@ -22,10 +22,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "118 12th Ave.",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "notes": "Unknown"
     },
     {
       "year": 1984,
@@ -36,10 +35,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "118 12th Ave.",
-      "gear": "",
-      "taper": "loughney transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "loughney transfer"
     },
     {
       "year": 1986,
@@ -50,10 +48,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Rainbow",
-      "gear": "",
-      "taper": "loughney transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "loughney transfer"
     },
     {
       "year": 1986,
@@ -64,10 +61,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Anti-Club",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1987,
@@ -78,10 +74,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Bremerton, WA",
       "venue": "Natasha's - AUD",
-      "gear": "M",
-      "taper": "loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 loughney transfer"
     },
     {
       "year": 1987,
@@ -92,10 +87,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Scream at the Park Plaza Hotel",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "notes": "Unknown"
     },
     {
       "year": 1987,
@@ -106,10 +100,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Scream at the Park Plaza Hotel *Swallow My Pride",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2008,
@@ -120,10 +113,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Sunset Tavern - WAV(M)",
-      "gear": "Edirol R-09",
-      "taper": "mike ziegler",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R-09 \u00b7 mike ziegler"
     },
     {
       "year": 2008,
@@ -134,10 +126,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Redmond, WA",
       "venue": "Marymoor Park - SP20 Festival - WAV(M)",
-      "gear": "Edirol R-09",
-      "taper": "mike ziegler",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R-09 \u00b7 mike ziegler"
     },
     {
       "year": 2009,
@@ -148,10 +139,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox - WAV(M)",
-      "gear": "SBD+Edirol R09",
-      "taper": "ks + mz",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SBD+Edirol R09 \u00b7 ks + mz"
     },
     {
       "year": 2009,
@@ -162,10 +152,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox - WAV(M)",
-      "gear": "SBD+Edirol R09",
-      "taper": "ks + mz",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SBD+Edirol R09 \u00b7 ks + mz"
     }
   ]
 };

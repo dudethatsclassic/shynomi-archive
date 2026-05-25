@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "GER",
       "location": "Wuppertal, GER",
       "venue": "Theater Rex",
-      "gear": "",
-      "taper": "Analog FM",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Analog FM"
     },
     {
       "year": 2018,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Reading, UK",
       "venue": "Reading Festival Main Stage",
-      "gear": "",
-      "taper": "720",
       "version": "WEB",
-      "format": "MKV"
+      "format": "MKV",
+      "notes": "720"
     },
     {
       "year": 2021,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Oracle Park",
-      "gear": "AT853s",
-      "taper": "tj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853s \u00b7 tj"
     },
     {
       "year": 2021,
@@ -62,10 +59,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Dodger Stadium",
-      "gear": "",
-      "taper": "SP-CMC-4U",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-4U"
     }
   ]
 };

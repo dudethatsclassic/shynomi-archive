@@ -23,10 +23,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Venue",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1983,
@@ -37,10 +36,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Newcastle, UK",
       "venue": "City Hall - Lovers Are Mortals",
-      "gear": "",
-      "taper": "Vinyl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Vinyl"
     },
     {
       "year": 1983,
@@ -51,10 +49,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Congress Centrum CCH",
-      "gear": "unk",
-      "taper": "dimitroy  transfer 2022",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 dimitroy  transfer 2022"
     },
     {
       "year": 1983,
@@ -65,10 +62,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Institute of Contemporary Arts - The Mall - ANA(M)",
-      "gear": "Aiwa HS-J2",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa HS-J2 \u00b7 Unknown"
     },
     {
       "year": 1983,
@@ -79,10 +75,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nijmegen NL",
       "venue": "De Vereniging",
-      "gear": "Source 2",
-      "taper": "dimenew",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 dimenew"
     },
     {
       "year": 1983,
@@ -93,10 +88,9 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "Nijmegen, NL",
       "venue": "De Vereniging",
-      "gear": "unk",
-      "taper": "dimitroy transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 dimitroy transfer"
     },
     {
       "year": 1983,
@@ -107,10 +101,9 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "Apeldoorn, NL",
       "venue": "De Gigant",
-      "gear": "",
-      "taper": "dream remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "dream remaster"
     },
     {
       "year": 1983,
@@ -121,10 +114,9 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "Apeldoorn, NL",
       "venue": "De Gigant - ANA",
-      "gear": "",
-      "taper": "1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1"
     },
     {
       "year": 1983,
@@ -135,10 +127,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Les Bains Douches",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1983,
@@ -149,10 +140,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Leicester, UK",
       "venue": "University Of Leicester",
-      "gear": "",
-      "taper": "richardbajor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "richardbajor"
     },
     {
       "year": 1984,
@@ -163,10 +153,9 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Hamburg, DE",
       "venue": "Kir",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1984,
@@ -177,10 +166,9 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "New Ocean Club",
-      "gear": "Sony D6",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D6 \u00b7 Unknown"
     },
     {
       "year": 1994,
@@ -191,10 +179,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Festival Hall",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1985,
@@ -205,10 +192,9 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "Nijmegen, NL",
       "venue": "Doornroosje - ANA",
-      "gear": "1",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 Unknown"
     },
     {
       "year": 1985,
@@ -219,10 +205,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Nakano Sunplaza",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1985,
@@ -233,10 +218,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Newport Music Hall - ANA",
-      "gear": "",
-      "taper": "x",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x"
     },
     {
       "year": 1985,
@@ -247,10 +231,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Theatre",
-      "gear": "Aiwa HS-J2",
-      "taper": "floor clown tapes vol. 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa HS-J2 \u00b7 floor clown tapes vol. 2"
     },
     {
       "year": 1990,
@@ -261,10 +244,9 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Frankfurt, DE",
       "venue": "Volksbildungsheim",
-      "gear": "",
-      "taper": "richardbajor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "richardbajor"
     },
     {
       "year": 1990,
@@ -275,10 +257,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Liverpool, England",
       "venue": "Royal Court - ANA",
-      "gear": "x",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x \u00b7 Unknown"
     },
     {
       "year": 1994,
@@ -289,10 +270,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Nottingham, UK",
       "venue": "Rock City",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1994,
@@ -303,10 +283,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Warrington, UK",
       "venue": "Parr Hall",
-      "gear": "Sony Walkman",
-      "taper": "popsqueeze",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony Walkman \u00b7 popsqueeze"
     }
   ]
 };

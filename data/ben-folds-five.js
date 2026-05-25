@@ -24,10 +24,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Mercury Cafe",
-      "gear": "Binaural mics",
-      "taper": "marcr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Binaural mics \u00b7 marcr"
     },
     {
       "year": 1996,
@@ -38,10 +37,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Maxwell's",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1997,
@@ -52,10 +50,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro *Transmissions From Jupiter",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -66,10 +63,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Central Park SummerStage",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -80,10 +76,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "East Troy, WI",
       "venue": "Alpine Valley",
-      "gear": "",
-      "taper": "cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "cps"
     },
     {
       "year": 1997,
@@ -94,10 +89,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Saratoga NY",
       "venue": "Saratoga Performing Arts Center - Horde Fest",
-      "gear": "Sony D7",
-      "taper": "beerengineer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D7 \u00b7 beerengineer"
     },
     {
       "year": 1997,
@@ -108,10 +102,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Supper Club",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -122,10 +115,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory - DAT(M)",
-      "gear": "Gefell + M20",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell + M20 \u00b7 Unknown"
     },
     {
       "year": 1997,
@@ -136,10 +128,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
-      "gear": "Nak 300s",
-      "taper": "lee schusterman + joey mutis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nak 300s \u00b7 lee schusterman + joey mutis"
     },
     {
       "year": 1997,
@@ -150,10 +141,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore - DAT",
-      "gear": "",
-      "taper": "M",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M"
     },
     {
       "year": 1998,
@@ -164,10 +154,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Electric Factory",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -178,10 +167,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Giants Stadium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -192,10 +180,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "House of Blues - DAT(M)",
-      "gear": "ECM-12",
-      "taper": "luke freteluco",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-12 \u00b7 luke freteluco"
     },
     {
       "year": 1999,
@@ -206,10 +193,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "International Forum *Freaking Out",
-      "gear": "",
-      "taper": "DVD audio",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DVD audio"
     },
     {
       "year": 1999,
@@ -220,10 +206,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "International Forum *Freaking Out",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": ""
     },
     {
       "year": 2008,
@@ -234,10 +219,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Chapel Hill, NC",
       "venue": "Memorial Hall - The Unauthorized Biography Of Reinhold Messner Live Reunion - MySpace Front To Back",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": ""
     },
     {
       "year": 2012,
@@ -248,10 +232,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Hunter, NY",
       "venue": "Mountain Jam",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2012,
@@ -262,10 +245,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
-      "gear": "",
-      "taper": "Edirol R09",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R09"
     }
   ]
 };

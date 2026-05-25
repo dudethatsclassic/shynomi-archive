@@ -34,10 +34,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tucson, AZ",
       "venue": "Tumbleweeds",
-      "gear": "",
-      "taper": "derrick bostrom",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "derrick bostrom"
     },
     {
       "year": 1984,
@@ -48,10 +47,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Mabuhay Gardens",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -62,10 +60,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Mabuhay Gardens",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -76,10 +73,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Blind Pig - WBCN",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -90,10 +86,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Stone",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1985,
@@ -104,10 +99,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Stone",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1985,
@@ -118,10 +112,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rock Island, IL",
       "venue": "Rock Island Brewing Co.",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -132,10 +125,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Live on SNAP KCRW",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -146,10 +138,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Live at the Roxy",
-      "gear": "",
-      "taper": "Special Forces Radio Concert Promo LP",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Special Forces Radio Concert Promo LP"
     },
     {
       "year": 1987,
@@ -160,10 +151,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Groningen, The Netherlands",
       "venue": "Vera",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -174,10 +164,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "I Beam",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -188,10 +177,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Seattle. WA",
       "venue": "University of WA Ballroom",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -202,10 +190,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Eugene, OR",
       "venue": "UofO - Condon Auditorium",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -216,10 +203,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Barbera, CA",
       "venue": "University of CA - Santa Barbera",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -230,10 +216,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Kennel Club - VHS(M)",
-      "gear": "Nakamichi 100s",
-      "taper": "magister",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Nakamichi 100s \u00b7 magister"
     },
     {
       "year": 1991,
@@ -244,10 +229,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield - ANA",
-      "gear": "M",
-      "taper": "fireball",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "M \u00b7 fireball"
     },
     {
       "year": 1991,
@@ -258,10 +242,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield - ANA",
-      "gear": "M",
-      "taper": "fireball",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "M \u00b7 fireball"
     },
     {
       "year": 1991,
@@ -272,10 +255,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "930 Club",
-      "gear": "",
-      "taper": "crash",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "crash"
     },
     {
       "year": 1991,
@@ -286,10 +268,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fashion Center - ANA",
-      "gear": "M",
-      "taper": "fireball",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "M \u00b7 fireball"
     },
     {
       "year": 1991,
@@ -300,10 +281,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "The Catalyst",
-      "gear": "CM300",
-      "taper": "markp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CM300 \u00b7 markp"
     },
     {
       "year": 1991,
@@ -314,10 +294,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "The Catalyst - ANA",
-      "gear": "M",
-      "taper": "fireball",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "M \u00b7 fireball"
     },
     {
       "year": 1991,
@@ -328,10 +307,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's - ANA",
-      "gear": "M",
-      "taper": "fireball",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "M \u00b7 fireball"
     },
     {
       "year": 1991,
@@ -342,10 +320,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "Cactus Club - ANA",
-      "gear": "M",
-      "taper": "fireball",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "M \u00b7 fireball"
     },
     {
       "year": 1992,
@@ -356,10 +333,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Isla Vista, CA",
       "venue": "Anaconda Theatre - ANA",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 1992,
@@ -370,10 +346,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "The Catalyst",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -384,10 +359,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "gear": "",
-      "taper": "fireball master",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "fireball master"
     },
     {
       "year": 1993,
@@ -398,10 +372,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW-FM - Man in the Moon",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -412,10 +385,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "gear": "",
-      "taper": "fireball master",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "fireball master"
     },
     {
       "year": 1993,
@@ -426,10 +398,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tucson, AZ",
       "venue": "Club Congress",
-      "gear": "",
-      "taper": "dave homes",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "dave homes"
     },
     {
       "year": 1994,
@@ -440,10 +411,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Cattle Club - DAT",
-      "gear": "M",
-      "taper": "fireball",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "M \u00b7 fireball"
     },
     {
       "year": 1994,
@@ -454,10 +424,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "The Roxy",
-      "gear": "",
-      "taper": "SS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS"
     },
     {
       "year": 1994,
@@ -468,10 +437,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Greek Theatre",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -482,10 +450,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Arco Arena - DAT",
-      "gear": "M",
-      "taper": "fireball",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 fireball"
     },
     {
       "year": 1994,
@@ -496,10 +463,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Embarcadero - Mr. Jenkins Block Party",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -510,10 +476,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tramps",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -524,10 +489,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Balitimore, MD",
       "venue": "UMBC Gym",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -538,10 +502,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Mammoth Events Center",
-      "gear": "MarcR Binaurals",
-      "taper": "marcr",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "MarcR Binaurals \u00b7 marcr"
     },
     {
       "year": 2000,
@@ -552,10 +515,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Waterloo Park",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2000,
@@ -566,10 +528,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "gear": "Schoeps CCM4s + SBD",
-      "taper": "fireball + sneaky bastard",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps CCM4s + SBD \u00b7 fireball + sneaky bastard"
     },
     {
       "year": 2001,
@@ -580,10 +541,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Winooski, VT",
       "venue": "Higher Ground",
-      "gear": "",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2001,
@@ -594,10 +554,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bottom of the Hill - DAT",
-      "gear": "M",
-      "taper": "fireball",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 fireball"
     },
     {
       "year": 2007,
@@ -608,10 +567,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theater",
-      "gear": "CAC",
-      "taper": "fanofthemule",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "CAC \u00b7 fanofthemule"
     },
     {
       "year": 2007,
@@ -622,10 +580,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Luna Lounge",
-      "gear": "AT825 + SBD",
-      "taper": "ml + dc",
       "version": "MIX",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AT825 + SBD \u00b7 ml + dc"
     },
     {
       "year": 2007,
@@ -636,10 +593,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Lawrence, KS",
       "venue": "Bottleneck - DAT(M)",
-      "gear": "SP831s",
-      "taper": "sonictooth",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP831s \u00b7 sonictooth"
     },
     {
       "year": 2009,
@@ -650,10 +606,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "The Annex",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2009,
@@ -664,10 +619,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Schubas",
-      "gear": "unk",
-      "taper": "aadams jacobs",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 aadams jacobs"
     },
     {
       "year": 2009,
@@ -678,10 +632,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Schubas",
-      "gear": "unk",
-      "taper": "aadams jacobs",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 aadams jacobs"
     },
     {
       "year": 2009,
@@ -692,10 +645,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Schubas",
-      "gear": "unk",
-      "taper": "aadams jacobs",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 aadams jacobs"
     },
     {
       "year": 2014,
@@ -706,10 +658,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Rough Trade",
-      "gear": "SP-CMC-8",
-      "taper": "nitcomb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 nitcomb"
     },
     {
       "year": 2022,
@@ -720,10 +671,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall - DAT(M)",
-      "gear": "SP-CMC-4U",
-      "taper": "loughney",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-4U \u00b7 loughney"
     }
   ]
 };

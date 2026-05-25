@@ -22,10 +22,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tucson, AZ",
       "venue": "Backstage - ANA",
-      "gear": "1",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 Unknown"
     },
     {
       "year": 1983,
@@ -36,10 +35,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York City, NY",
       "venue": "Gerde's Folk City - ANA",
-      "gear": "x",
-      "taper": "loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x \u00b7 loughney transfer"
     },
     {
       "year": 1983,
@@ -50,10 +48,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Love Hall",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -64,10 +61,9 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Winnipeg, Canada",
       "venue": "Royal Albert Arms - ANA",
-      "gear": "x",
-      "taper": "Early and Late show",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x \u00b7 Early and Late show"
     },
     {
       "year": 1984,
@@ -78,10 +74,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Maxwell's",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1984,
@@ -92,10 +87,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "7th Street Entry",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -106,10 +100,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Channel - ANA",
-      "gear": "x",
-      "taper": "loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x \u00b7 loughney transfer"
     },
     {
       "year": 1984,
@@ -120,10 +113,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Club Lingerie - ANA",
-      "gear": "x",
-      "taper": "loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x \u00b7 loughney transfer"
     },
     {
       "year": 1984,
@@ -134,10 +126,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Palo Alto, CA",
       "venue": "Keystone",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -148,10 +139,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Maxwell's",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1985,
@@ -162,10 +152,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Eugene, OR",
       "venue": "EMU Dining Room",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1985,
@@ -176,10 +165,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Palo Alto, CA",
       "venue": "Keystone",
-      "gear": "Multi-track reel",
-      "taper": "craig62 transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Multi-track reel \u00b7 craig62 transfer"
     },
     {
       "year": 1985,
@@ -190,10 +178,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Blue Note - ANA",
-      "gear": "",
-      "taper": "M",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M"
     },
     {
       "year": 1986,
@@ -204,10 +191,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Lakewood, OH",
       "venue": "Phantasy Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -218,10 +204,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza (Late Show)",
-      "gear": "LUXMAN K-111",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "LUXMAN K-111 \u00b7 Unknown"
     },
     {
       "year": 1986,
@@ -232,10 +217,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights - CASS",
-      "gear": "M",
-      "taper": "doug morris",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 doug morris"
     },
     {
       "year": 1986,
@@ -246,10 +230,9 @@ const ARTIST_DATA = {
       "state": "Scotland - The Potterrow",
       "location": "Edinburgh, Scotland - The Potterrow",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -260,10 +243,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Newcastle, England",
       "venue": "Riverside",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1986,
@@ -274,10 +256,9 @@ const ARTIST_DATA = {
       "state": "Scotland",
       "location": "Aberdeen, Scotland",
       "venue": "Victoria Hotel - CASS",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 1986,
@@ -288,10 +269,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Liverpool, England",
       "venue": "Lounge Hall, Liverpool University",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -302,10 +282,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Sheffield, England",
       "venue": "The Leadmill",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -316,10 +295,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "The Roxy",
-      "gear": "unk",
-      "taper": "jems 2020 transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 jems 2020 transfer"
     },
     {
       "year": 1987,
@@ -330,10 +308,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Variety Arts Center - CASS",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 1987,
@@ -344,10 +321,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Variety Arts Center",
-      "gear": "unk",
-      "taper": "jems 2020 transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 jems 2020 transfer"
     },
     {
       "year": 1987,
@@ -358,10 +334,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Novellara, Italy",
       "venue": "La Rocca - CASS",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 1987,
@@ -372,10 +347,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Mandel Hall",
-      "gear": "Sony WM-D6",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-D6 \u00b7 Unknown"
     },
     {
       "year": 1987,
@@ -386,10 +360,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Decatur, GA",
       "venue": "McDonough Field",
-      "gear": "",
-      "taper": "ralph",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ralph"
     }
   ]
 };

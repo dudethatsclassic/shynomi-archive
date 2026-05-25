@@ -25,10 +25,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "C'est What",
-      "gear": "",
-      "taper": "with Jay Bennett",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "with Jay Bennett"
     },
     {
       "year": 1997,
@@ -39,10 +38,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
-      "gear": "",
-      "taper": "with Jay Bennett",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "with Jay Bennett"
     },
     {
       "year": 1997,
@@ -53,10 +51,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Northampton, MA",
       "venue": "The Iron Horse",
-      "gear": "",
-      "taper": "with Jay Bennett",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "with Jay Bennett"
     },
     {
       "year": 1997,
@@ -67,10 +64,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "The Middle East",
-      "gear": "",
-      "taper": "with Jay Bennett",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "with Jay Bennett"
     },
     {
       "year": 1998,
@@ -81,10 +77,9 @@ const ARTIST_DATA = {
       "state": "CA - Calaveras County Fairgrounds - (with Jay Bennett)",
       "location": "Angel's Camp, CA - Calaveras County Fairgrounds - (with Jay Bennett)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2007,
@@ -95,10 +90,9 @@ const ARTIST_DATA = {
       "state": "TX - The Grenada Theater (with Scott McCaughey)",
       "location": "Dallas, TX - The Grenada Theater (with Scott McCaughey)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2017,
@@ -109,10 +103,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Solid Sound Festival",
-      "gear": "",
-      "taper": "Roadcase 066",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "Roadcase 066"
     },
     {
       "year": 2019,
@@ -123,10 +116,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Joe's Field - Mass MOCA",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -137,10 +129,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Joe's Field - Solid Sound Festival",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2022,
@@ -151,10 +142,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Joe's Field - Solid Sound Festival",
-      "gear": "Schoeps MK4V",
-      "taper": "jim kelly",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Schoeps MK4V \u00b7 jim kelly"
     },
     {
       "year": 2022,
@@ -165,10 +155,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Joe's Field - MASS MoCA",
-      "gear": "Schoeps MK4V + CA-11",
-      "taper": "musicjaime + manofstealth",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Schoeps MK4V + CA-11 \u00b7 musicjaime + manofstealth"
     },
     {
       "year": 2024,
@@ -179,10 +168,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Joe's Field MASS MoCA",
-      "gear": "Schoeps MK4V+SP-BMC-12",
-      "taper": "jim kelly",
       "version": "MIX",
-      "format": ""
+      "format": "",
+      "notes": "Schoeps MK4V+SP-BMC-12 \u00b7 jim kelly"
     }
   ]
 };

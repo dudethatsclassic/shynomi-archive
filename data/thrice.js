@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Markthalle",
-      "gear": "OKMII",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "OKMII \u00b7 Unknown"
     },
     {
       "year": 2025,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Dessel, Belgium",
       "venue": "Graspop Metal Meeting",
-      "gear": "",
-      "taper": "qew",
       "version": "WEB",
-      "format": "TS"
+      "format": "TS",
+      "notes": "qew"
     },
     {
       "year": 2026,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Slaktkyrkan",
-      "gear": "SP-CMC-4U",
-      "taper": "qew",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-4U \u00b7 qew"
     }
   ]
 };

@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The King of Clubs",
-      "gear": "CA-14",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14 \u00b7 live2cd"
     },
     {
       "year": 2025,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "The Theatre at Great Canadian Casino Resort",
-      "gear": "Zoom H1n",
-      "taper": "bowlingron",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1n \u00b7 bowlingron"
     },
     {
       "year": 2025,
@@ -47,10 +45,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Ottawa, ON",
       "venue": "TD Place",
-      "gear": "iPhone 16 Pro",
-      "taper": "palm0014",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "iPhone 16 Pro \u00b7 palm0014"
     },
     {
       "year": 2026,
@@ -61,10 +58,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "The Hi-Fi",
-      "gear": "CA-14",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14 \u00b7 live2cd"
     }
   ]
 };

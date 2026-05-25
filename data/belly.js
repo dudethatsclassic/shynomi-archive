@@ -24,10 +24,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Music Complex",
-      "gear": "",
-      "taper": "JBTV",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "JBTV"
     },
     {
       "year": 1993,
@@ -38,10 +37,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Milton Keynes, UK",
       "venue": "Woughton Centre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -52,10 +50,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Cambridge, England",
       "venue": "The Junction",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1993,
@@ -66,10 +63,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Koln, Germany",
       "venue": "Luxor - AUD",
-      "gear": "M",
-      "taper": "buenaventura",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 buenaventura"
     },
     {
       "year": 1993,
@@ -80,10 +76,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW Morning Becomes Eclectic",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -94,10 +89,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Santa Monica Pier - KROQ Free Concert",
-      "gear": "Sony TCM-37V",
-      "taper": "van",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony TCM-37V \u00b7 van"
     },
     {
       "year": 1993,
@@ -108,10 +102,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Santa Monica Pier",
-      "gear": "2-cam",
-      "taper": "chrisedge",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "2-cam \u00b7 chrisedge"
     },
     {
       "year": 1993,
@@ -122,10 +115,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Grant Park (WXRT-FM) - DAT",
-      "gear": "M",
-      "taper": "nt",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 nt"
     },
     {
       "year": 1993,
@@ -136,10 +128,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Cameo Theatre",
-      "gear": "SS-DSM-6",
-      "taper": "datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS-DSM-6 \u00b7 datfly"
     },
     {
       "year": 1993,
@@ -150,10 +141,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheatre",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -164,10 +154,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Virgin Megastore",
-      "gear": "ECM737",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM737 \u00b7 Unknown"
     },
     {
       "year": 1995,
@@ -178,10 +167,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Shepherds Bush Empire",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -192,10 +180,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theatre",
-      "gear": "MarcR binaurals",
-      "taper": "marcr",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "MarcR binaurals \u00b7 marcr"
     },
     {
       "year": 1995,
@@ -206,10 +193,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "TLA - ANA",
-      "gear": "",
-      "taper": "x",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x"
     },
     {
       "year": 1995,
@@ -220,10 +206,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "Fort Apache Studio",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -234,10 +219,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
-      "gear": "",
-      "taper": "pherron",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "pherron"
     },
     {
       "year": 1995,
@@ -248,10 +232,9 @@ const ARTIST_DATA = {
       "state": "UK (unk) (ijwthstd)",
       "location": "Manchester, UK (unk) (ijwthstd)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -262,10 +245,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "La Luna Club",
-      "gear": "",
-      "taper": "Sony DSM6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony DSM6"
     },
     {
       "year": 1995,
@@ -276,10 +258,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "unk",
-      "taper": "neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 2016,
@@ -290,10 +271,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Teragram",
-      "gear": "",
-      "taper": "AT831",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT831"
     },
     {
       "year": 2016,
@@ -304,10 +284,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "gear": "MK4",
-      "taper": "daspyknows",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MK4 \u00b7 daspyknows"
     },
     {
       "year": 2017,
@@ -318,10 +297,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Wesley Stace's Cabinet of Wonders Winery",
-      "gear": "CA-14s",
-      "taper": "neil d",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14s \u00b7 neil d"
     },
     {
       "year": 2018,
@@ -332,10 +310,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "World Cafe - WXPN Studio",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2023,
@@ -346,10 +323,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Gramercy Theatre",
-      "gear": "Nokia Lumia Icon",
-      "taper": "viper",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nokia Lumia Icon \u00b7 viper"
     },
     {
       "year": 2025,
@@ -360,10 +336,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Sony Hall",
-      "gear": "AT-853",
-      "taper": "neil d",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT-853 \u00b7 neil d"
     },
     {
       "year": 2025,
@@ -374,10 +349,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Teragram Ballroom",
-      "gear": "SP-CMC-4U",
-      "taper": "ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-4U \u00b7 ijwthstd"
     }
   ]
 };

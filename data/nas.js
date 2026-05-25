@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Cincinnati Music Hall",
-      "gear": "Schoeps MK4",
-      "taper": "funk it blog",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4 \u00b7 funk it blog"
     }
   ]
 };

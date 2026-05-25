@@ -34,10 +34,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "Budokan",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1978,
@@ -48,10 +47,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, VA - Wolftrap Park",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1978,
@@ -62,10 +60,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Dorothy Chandler Pavilion",
-      "gear": "",
-      "taper": "Early Show \u00b7 Akg 451 \u00b7 Mike Millard",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Early Show \u00b7 Akg 451 \u00b7 Mike Millard"
     },
     {
       "year": 1978,
@@ -76,10 +73,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Dorothy Chandler Pavilion",
-      "gear": "Late Show",
-      "taper": "Akg 451 \u00b7 Mike Millard",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Late Show \u00b7 Akg 451 \u00b7 Mike Millard"
     },
     {
       "year": 1979,
@@ -90,10 +86,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montreux, Switzerland",
       "venue": "Montreux Jazz Festival",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1979,
@@ -104,10 +99,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "Denen Colosseum",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1980,
@@ -118,10 +112,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Costa Mesa, CA",
       "venue": "Orange Coast College",
-      "gear": "Nakamichi CM-300",
-      "taper": "Robert Collins",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nakamichi CM-300 \u00b7 Robert Collins"
     },
     {
       "year": 1980,
@@ -132,10 +125,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Hollywood Bowl",
-      "gear": "Nakamichi CM-300",
-      "taper": "With Dizzy Gillespie \u00b7 Robert Collins",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nakamichi CM-300 \u00b7 With Dizzy Gillespie \u00b7 Robert Collins"
     },
     {
       "year": 1980,
@@ -146,10 +138,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buenos Aires, Argentina",
       "venue": "Unknown Venue",
-      "gear": "",
-      "taper": "Unknown \u00b7 Mr_mags",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Mr_mags"
     },
     {
       "year": 1981,
@@ -160,10 +151,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "Denen Colosseum",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1981,
@@ -174,10 +164,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "KPBS New Year's Party",
-      "gear": "",
-      "taper": "Mr_mags",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mr_mags"
     },
     {
       "year": 1982,
@@ -188,10 +177,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Village Vanguard",
-      "gear": "",
-      "taper": "Early Show \u00b7 Wbgo-fm",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Early Show \u00b7 Wbgo-fm"
     },
     {
       "year": 1982,
@@ -202,10 +190,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Village Vanguard",
-      "gear": "Late Show",
-      "taper": "Wbgo-fm",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Late Show \u00b7 Wbgo-fm"
     },
     {
       "year": 1983,
@@ -216,10 +203,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Staatsoper",
-      "gear": "",
-      "taper": "With Gary Burton",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "With Gary Burton"
     },
     {
       "year": 1984,
@@ -230,10 +216,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Wiesen, Austria",
       "venue": "Jazz Summit",
-      "gear": "",
-      "taper": "Miles Davis Band With Chick Corea",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Miles Davis Band With Chick Corea"
     },
     {
       "year": 1985,
@@ -244,10 +229,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montreal, Quebec",
       "venue": "Montreal Jazz Festival",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -258,10 +242,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montreal, Quebec",
       "venue": "Montreal Jazzfest",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -272,10 +255,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theater",
-      "gear": "Aiwa CM-30",
-      "taper": "Chicagoblues",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM-30 \u00b7 Chicagoblues"
     },
     {
       "year": 1987,
@@ -286,10 +268,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Munchner Klaviersommer",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -300,10 +281,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Belgrad, Yugoslavia",
       "venue": "Unknown Venue",
-      "gear": "",
-      "taper": "Jazz Door #1265",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jazz Door #1265"
     },
     {
       "year": 1987,
@@ -314,10 +294,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Fabrik",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -328,10 +307,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "Philharmonie - Jazzfest Berlin 1987",
-      "gear": "Astra Sat",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Astra Sat"
     },
     {
       "year": 1988,
@@ -342,10 +320,9 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Wilmington, DE",
       "venue": "Unknown Venue",
-      "gear": "",
-      "taper": "Unknown \u00b7 Mr_mags",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Mr_mags"
     },
     {
       "year": 1989,
@@ -356,10 +333,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "Showa Women's University",
-      "gear": "",
-      "taper": "Mr_mags",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mr_mags"
     },
     {
       "year": 1989,
@@ -370,10 +346,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Wolftrap Park",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -384,10 +359,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Roccella Jonica, Italy",
       "venue": "Roccella Jonica Jazz Festival",
-      "gear": "",
-      "taper": "Mr_mags",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mr_mags"
     },
     {
       "year": 1990,
@@ -398,10 +372,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vierson, Germany",
       "venue": "Internationales Jazz Festival - Festhalle",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1990,
@@ -412,10 +385,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Royal Festival Hall - BBC Radio 3",
-      "gear": "",
-      "taper": "Psykies",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Psykies"
     },
     {
       "year": 1990,
@@ -426,10 +398,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Royal Festival Hall - BBC Radio 3",
-      "gear": "",
-      "taper": "Barkndog",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Barkndog"
     },
     {
       "year": 1991,
@@ -440,10 +411,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienne, France",
       "venue": "Theatre Antique de Vienne",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -454,10 +424,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lagano, Switzerland",
       "venue": "Estival Jazz - Piazza Della Riforma",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -468,10 +437,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lagano, Switzerland",
       "venue": "Estival Jazz - Piazza Della Riforma",
-      "gear": "",
-      "taper": "Swissbird",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Swissbird"
     },
     {
       "year": 1993,
@@ -482,10 +450,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Royal Festival Hall",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -496,10 +463,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Royal Festival Hall",
-      "gear": "",
-      "taper": "Psykies",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Psykies"
     },
     {
       "year": 1993,
@@ -510,10 +476,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
-      "gear": "",
-      "taper": "Mr_mags",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mr_mags"
     },
     {
       "year": 1993,
@@ -524,10 +489,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Ames, IA",
       "venue": "The Maintenance Shop",
-      "gear": "",
-      "taper": "Unknown \u00b7 Mr_mags",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Mr_mags"
     },
     {
       "year": 1993,
@@ -538,10 +502,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theater",
-      "gear": "",
-      "taper": "Mr_mags",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mr_mags"
     },
     {
       "year": 1994,
@@ -552,10 +515,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Warsaw, Poland",
       "venue": "Unknown Venue",
-      "gear": "",
-      "taper": "Mr_mags",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mr_mags"
     },
     {
       "year": 1994,
@@ -566,10 +528,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Festival Hall",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -580,10 +541,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Espoo, Finland",
       "venue": "Jazzfest",
-      "gear": "",
-      "taper": "Barkndog",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Barkndog"
     }
   ]
 };

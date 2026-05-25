@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "The Rock and Roll Hall of Fame",
-      "gear": "MTV Rebroadcast",
-      "taper": "datfly",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MTV Rebroadcast \u00b7 datfly"
     },
     {
       "year": 1995,
@@ -32,10 +31,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park - Polo Fields",
-      "gear": "",
-      "taper": "2 source mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2 source mix"
     },
     {
       "year": 1995,
@@ -46,10 +44,9 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Sjohistoriska Museet",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1995,
@@ -60,10 +57,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Dyrskuepladesen - Heyday 2",
-      "gear": "",
-      "taper": "DAT",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DAT"
     },
     {
       "year": 1995,
@@ -74,10 +70,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Dyrskuepladesen - Heyday 2",
-      "gear": "Sony TCD-D7",
-      "taper": "hanwaker remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony TCD-D7 \u00b7 hanwaker remaster"
     },
     {
       "year": 1995,
@@ -88,10 +83,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Waldbuehne - DAT",
-      "gear": "1",
-      "taper": "OKM",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 OKM"
     },
     {
       "year": 1995,
@@ -102,10 +96,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Waldbuehne",
-      "gear": "unk",
-      "taper": "2nd gen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 2nd gen"
     },
     {
       "year": 1995,
@@ -116,10 +109,9 @@ const ARTIST_DATA = {
       "state": "Czech Republic",
       "location": "Praugue, Czech Republic",
       "venue": "Czechoslavakia Sports Palace",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1995,
@@ -130,10 +122,9 @@ const ARTIST_DATA = {
       "state": "Czech Republic",
       "location": "Praugue, Czech Republic",
       "venue": "Czechoslavakia Sports Palace - ANA(M) (Sony WMD6)",
-      "gear": "zuma66",
-      "taper": "remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "zuma66 \u00b7 remaster"
     },
     {
       "year": 1995,
@@ -144,10 +135,9 @@ const ARTIST_DATA = {
       "state": "Czech Republic",
       "location": "Praugue, Czech Republic",
       "venue": "Czechoslavakia Sports Palace",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -158,10 +148,9 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Salzburg, Austria",
       "venue": "Residenzplatz *Downtown",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -172,10 +161,9 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Salzburg, Austria",
       "venue": "Residenzplatz - DAT",
-      "gear": "M",
-      "taper": "steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 steve hagar"
     },
     {
       "year": 1995,
@@ -186,10 +174,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Gampel, Switzerland",
       "venue": "Festivalgelande",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1995,
@@ -200,10 +187,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Gampel, Switzerland",
       "venue": "Festivalgelande - DAT",
-      "gear": "M",
-      "taper": "steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 steve hagar"
     },
     {
       "year": 1995,
@@ -214,10 +200,9 @@ const ARTIST_DATA = {
       "state": "Israel",
       "location": "Jerusalem, Israel",
       "venue": "Sultan's Pool",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1995,
@@ -228,10 +213,9 @@ const ARTIST_DATA = {
       "state": "Israel",
       "location": "Jerusalem, Israel",
       "venue": "Sultan's Pool - DAT",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 1995,
@@ -242,10 +226,9 @@ const ARTIST_DATA = {
       "state": "Israel",
       "location": "Ceasarea, Israel",
       "venue": "The Royal Amphitheatre",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1995,
@@ -256,10 +239,9 @@ const ARTIST_DATA = {
       "state": "Israel",
       "location": "Ceasarea, Israel",
       "venue": "The Royal Amphitheatre - DAT",
-      "gear": "M",
-      "taper": "steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 steve hagar"
     },
     {
       "year": 1995,
@@ -270,10 +252,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Hasselt, Belgium",
       "venue": "Pucklepop Festival *The European Concerts",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -284,10 +265,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Hasselt, Belgium",
       "venue": "Pucklepop Festival - DAT",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 1995,
@@ -298,10 +278,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Hasselt, Belgium",
       "venue": "Pucklepop Festival - DAT",
-      "gear": "M",
-      "taper": "steve hagar",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "M \u00b7 steve hagar"
     },
     {
       "year": 1995,
@@ -312,10 +291,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Royal Dublin Showgrounds",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -326,10 +304,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Royal Dublin Showgrounds",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -340,10 +317,9 @@ const ARTIST_DATA = {
       "state": "Great Britain",
       "location": "Reading, Great Britain",
       "venue": "Reading Festival",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     }
   ]
 };

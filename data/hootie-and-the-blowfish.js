@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Fat City Blues",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "World's Fair Park - ANA(M)",
-      "gear": "GE VSP",
-      "taper": "bobc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "GE VSP \u00b7 bobc"
     },
     {
       "year": 1995,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater - Bridge School Benefit",
-      "gear": "unk",
-      "taper": "neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1999,
@@ -62,10 +59,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Wilkesboro, NC",
       "venue": "Merlefest - DAT(M)",
-      "gear": "Sony D8",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D8 \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -76,10 +72,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Bethel, NY",
       "venue": "Bethel Woods Center for the Arts",
-      "gear": "Schoeps MK41vs",
-      "taper": "radio_w_b",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK41vs \u00b7 radio_w_b"
     }
   ]
 };

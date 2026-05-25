@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's - CASS(M)",
-      "gear": "Sony ECM 155",
-      "taper": "ellaguru transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM 155 \u00b7 ellaguru transfer"
     },
     {
       "year": 1995,
@@ -32,10 +31,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "328 Performance Hall  - CASS(M)",
-      "gear": "ellaguru transfer",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ellaguru transfer \u00b7 Unknown"
     },
     {
       "year": 1995,
@@ -46,10 +44,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Chelsea TV Studios - Jon Stewart Show",
-      "gear": "",
-      "taper": "mz transfer",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "mz transfer"
     },
     {
       "year": 1995,
@@ -60,10 +57,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tramp's",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1995,
@@ -74,10 +70,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro (SV033) *Ringspiel - VHS",
-      "gear": "SV033",
-      "taper": "M",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SV033 \u00b7 M"
     },
     {
       "year": 1995,
@@ -88,10 +83,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
-      "gear": "",
-      "taper": "JBTV",
       "version": "SBD",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": "JBTV"
     },
     {
       "year": 1995,
@@ -102,10 +96,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "King Cat Theater - DAT(M)",
-      "gear": "Custom mics",
-      "taper": "ellaguru transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Custom mics \u00b7 ellaguru transfer"
     },
     {
       "year": 1995,
@@ -116,10 +109,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Palace",
-      "gear": "",
-      "taper": "SS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS"
     },
     {
       "year": 1995,
@@ -130,10 +122,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "RFK Stadium - WHFStival",
-      "gear": "",
-      "taper": "ellaguru transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ellaguru transfer"
     },
     {
       "year": 1995,
@@ -144,10 +135,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro - DAT",
-      "gear": "",
-      "taper": "M",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M"
     },
     {
       "year": 1995,
@@ -158,10 +148,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Bogie's - DAT(M)",
-      "gear": "CSB",
-      "taper": "ellaguru transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 ellaguru transfer"
     },
     {
       "year": 1995,
@@ -172,10 +161,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Charlottesville, VA",
       "venue": "Trax",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -186,10 +174,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Palace - DAT",
-      "gear": "M",
-      "taper": "ellaguru transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 ellaguru transfer"
     }
   ]
 };

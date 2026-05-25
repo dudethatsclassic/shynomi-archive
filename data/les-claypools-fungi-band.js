@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "House of Blues",
-      "gear": "Neumann AK40",
-      "taper": "brad wolf",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Neumann AK40 \u00b7 brad wolf"
     }
   ]
 };

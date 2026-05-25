@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Ritz",
-      "gear": "",
-      "taper": "w/ Trent Reznor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "w/ Trent Reznor"
     }
   ]
 };

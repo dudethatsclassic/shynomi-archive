@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "unk",
-      "taper": "neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1995,
@@ -32,10 +31,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "The Rave",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -46,10 +44,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Numbers",
-      "gear": "Sony PC-62",
-      "taper": "mystical crow",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony PC-62 \u00b7 mystical crow"
     },
     {
       "year": 1995,
@@ -60,10 +57,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "Fort Apache Studios",
-      "gear": "",
-      "taper": "WFNX-FM",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "WFNX-FM"
     }
   ]
 };

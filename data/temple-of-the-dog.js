@@ -21,10 +21,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Off-ramp Cafe",
-      "gear": "",
-      "taper": "VHS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "VHS"
     },
     {
       "year": 1990,
@@ -35,10 +34,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Off-ramp Cafe",
-      "gear": "1st or 2nd gen",
-      "taper": "dz",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "1st or 2nd gen \u00b7 dz"
     },
     {
       "year": 1990,
@@ -49,10 +47,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Off-ramp Cafe",
-      "gear": "",
-      "taper": "low gen VHS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "low gen VHS"
     },
     {
       "year": 1991,
@@ -63,10 +60,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "KISW Interview",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -77,10 +73,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Palladium",
-      "gear": "",
-      "taper": "inc",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "notes": "inc"
     },
     {
       "year": 1991,
@@ -91,10 +86,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Palladium - RIP Magazine 5th Anniversary Party - ANA",
-      "gear": "",
-      "taper": "M",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M"
     },
     {
       "year": 1992,
@@ -105,10 +99,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows - SVHS",
-      "gear": "",
-      "taper": "3",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "3"
     },
     {
       "year": 2016,
@@ -119,10 +112,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theater",
-      "gear": "Schoeps MK41",
-      "taper": "t.j. samulis",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK41 \u00b7 t.j. samulis"
     },
     {
       "year": 2016,
@@ -133,10 +125,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theater",
-      "gear": "AT943",
-      "taper": "joe burns",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT943 \u00b7 joe burns"
     },
     {
       "year": 2016,
@@ -147,10 +138,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theater",
-      "gear": "CA-11",
-      "taper": "opsopcopolis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 \u00b7 opsopcopolis"
     },
     {
       "year": 2016,
@@ -161,10 +151,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theater",
-      "gear": "SS-DSM-6s",
-      "taper": "jburneyko",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS-DSM-6s \u00b7 jburneyko"
     },
     {
       "year": 2016,
@@ -175,10 +164,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "gear": "CA-11 + ECM 717",
-      "taper": "opsopcopolis + paprick",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 + ECM 717 \u00b7 opsopcopolis + paprick"
     },
     {
       "year": 2016,
@@ -189,10 +177,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "gear": "CA-11",
-      "taper": "opsopcopolis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 \u00b7 opsopcopolis"
     },
     {
       "year": 2016,
@@ -203,10 +190,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "gear": "ECM 717",
-      "taper": "paptick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM 717 \u00b7 paptick"
     },
     {
       "year": 2016,
@@ -217,10 +203,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bill Graham Civic Auditorium",
-      "gear": "SS-DSM-6P",
-      "taper": "steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS-DSM-6P \u00b7 steve hagar"
     },
     {
       "year": 2016,
@@ -231,10 +216,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bill Graham Civic Auditorium",
-      "gear": "",
-      "taper": "animal projects",
       "version": "MIX",
-      "format": "BLURAY"
+      "format": "BLURAY",
+      "notes": "animal projects"
     },
     {
       "year": 2016,
@@ -245,10 +229,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bill Graham Civic Auditorium",
-      "gear": "SS-DSM-6P",
-      "taper": "steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS-DSM-6P \u00b7 steve hagar"
     },
     {
       "year": 2016,
@@ -259,10 +242,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bill Graham Civic Auditorium",
-      "gear": "",
-      "taper": "DPA 4061s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061s"
     },
     {
       "year": 2016,
@@ -273,10 +255,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "gear": "",
-      "taper": "AT831",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT831"
     },
     {
       "year": 2016,
@@ -287,10 +268,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "gear": "SS-DSM-6P",
-      "taper": "steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS-DSM-6P \u00b7 steve hagar"
     },
     {
       "year": 2016,
@@ -301,10 +281,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Paramount",
-      "gear": "MK4",
-      "taper": "tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MK4 \u00b7 tapeworm48"
     },
     {
       "year": 2016,
@@ -315,10 +294,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Paramount",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     }
   ]
 };

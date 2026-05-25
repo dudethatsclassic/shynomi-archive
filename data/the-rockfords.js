@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox - DAT",
-      "gear": "1",
-      "taper": "jr",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 jr"
     }
   ]
 };

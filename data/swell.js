@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Holland, The Netherlands",
       "venue": "NOB Radiostudeio - 2 Meter Sessie",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Brussels, Belgium",
       "venue": "Botanique",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Oeiras, Portugal",
       "venue": "Estadio Nacional - Cruz Quebrada",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     }
   ]
 };

@@ -27,10 +27,9 @@ const ARTIST_DATA = {
       "state": "VA - Lake Matoaka Music Festival",
       "location": "Williamsburg, VA - Lake Matoaka Music Festival",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -41,10 +40,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "99X Studios",
-      "gear": "",
-      "taper": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -55,10 +53,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Woodlands, TX",
       "venue": "CW Mitchell Pavilion",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -69,10 +66,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Deep Ellum Live",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -83,10 +79,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Estacade, OR",
       "venue": "Timberbowl",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -97,10 +92,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tramps",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -111,10 +105,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -125,10 +118,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Brick By Brick",
-      "gear": "",
-      "taper": "",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -139,10 +131,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -153,10 +144,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ferndale, MI",
       "venue": "In Studio with Arthur P. 101FM",
-      "gear": "",
-      "taper": "damageinc777",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "damageinc777"
     },
     {
       "year": 2003,
@@ -167,10 +157,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Flint, MI",
       "venue": "The Machine Shop",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2005,
@@ -181,10 +170,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Jacksonville, NC",
       "venue": "Planet Rock",
-      "gear": "",
-      "taper": "starseed",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "starseed"
     },
     {
       "year": 2005,
@@ -195,10 +183,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Concord, NC",
       "venue": "Nascar Speed Park",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2007,
@@ -209,10 +196,9 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Hilton Head, SC",
       "venue": "Monkey Business",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2010,
@@ -223,10 +209,9 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Myrtle Beach, SC",
       "venue": "Boathouse",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2011,
@@ -237,10 +222,9 @@ const ARTIST_DATA = {
       "state": "AK",
       "location": "Fairbanks, AK",
       "venue": "The Blue Loon",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2012,
@@ -251,10 +235,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Covington, KY",
       "venue": "Madison Theatre",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     }
   ]
 };

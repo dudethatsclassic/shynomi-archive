@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Montreux, Switzerland",
       "venue": "Montreux Jazz Festival - Captain Marvel",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1974,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "Yugoslavia",
       "location": "Belgrade, Yugoslavia",
       "venue": "Dom Sindikiata - Round Midnight",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     }
   ]
 };

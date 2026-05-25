@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Summerfest - Briggs & Stratton Big Backyard Stage",
-      "gear": "Shure MV88",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Shure MV88 \u00b7 Unknown"
     }
   ]
 };

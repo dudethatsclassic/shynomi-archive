@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Orpheum Theatre",
-      "gear": "MBHO KA200N",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "MBHO KA200N \u00b7 Unknown"
     },
     {
       "year": 2022,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Orpheum Theatre",
-      "gear": "Sennheiser Ambeo Binaural",
-      "taper": "grizzly adams",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sennheiser Ambeo Binaural \u00b7 grizzly adams"
     },
     {
       "year": 2022,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "John Anson Ford Amphitheatre",
-      "gear": "CA-11",
-      "taper": "leifh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 \u00b7 leifh"
     },
     {
       "year": 2022,
@@ -62,10 +59,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theater",
-      "gear": "Olympus LS-P4",
-      "taper": "bluejane99",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Olympus LS-P4 \u00b7 bluejane99"
     },
     {
       "year": 2022,
@@ -76,10 +72,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Napa, CA",
       "venue": "Jam Cellars Ballroom",
-      "gear": "CA-11",
-      "taper": "leifh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 \u00b7 leifh"
     },
     {
       "year": 2022,
@@ -90,10 +85,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Napa, CA",
       "venue": "Jam Cellars Ballroom",
-      "gear": "Sennheiser Ambeo",
-      "taper": "grizzly adams",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sennheiser Ambeo \u00b7 grizzly adams"
     },
     {
       "year": 2023,
@@ -104,10 +98,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "gear": "CA-11",
-      "taper": "leifh",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-11 \u00b7 leifh"
     },
     {
       "year": 2025,
@@ -118,10 +111,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Knoxville TN",
       "venue": "Big Ears Festival",
-      "gear": "Google Pixel",
-      "taper": "esamirp",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Google Pixel \u00b7 esamirp"
     },
     {
       "year": 2025,
@@ -132,10 +124,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "The Mill & Mine (Shure MV88)",
-      "gear": "mr. mountjoy",
-      "taper": "inc",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "mr. mountjoy \u00b7 inc"
     },
     {
       "year": 2025,
@@ -146,10 +137,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Kakegawa, Japan",
       "venue": "Tsumagoi Resort at Event Hall",
-      "gear": "CA-11",
-      "taper": "leifh",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-11 \u00b7 leifh"
     }
   ]
 };

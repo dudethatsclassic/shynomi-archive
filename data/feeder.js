@@ -22,10 +22,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Glastonbury, UK",
       "venue": "Glastonbury Festival - BBC Radio 1",
-      "gear": "",
-      "taper": "drumsboy",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "drumsboy"
     },
     {
       "year": 2001,
@@ -36,10 +35,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Maida Vale BBC Studios",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2001,
@@ -50,10 +48,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Ratoath, Ireland",
       "venue": "Witnness Festival - Fairyhouse Racecourse",
-      "gear": "2FM Broadcast",
-      "taper": "drumsboy",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2FM Broadcast \u00b7 drumsboy"
     },
     {
       "year": 2003,
@@ -64,10 +61,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Meath, Ireland",
       "venue": "Slane Castle",
-      "gear": "2FM Broadcast",
-      "taper": "drumsboy",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2FM Broadcast \u00b7 drumsboy"
     },
     {
       "year": 2005,
@@ -78,10 +74,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Prime Club",
-      "gear": "OKM II Rock",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "OKM II Rock \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -92,10 +87,9 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "The Great Halll",
-      "gear": "Olympus LS-P1",
-      "taper": "welshylad",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Olympus LS-P1 \u00b7 welshylad"
     }
   ]
 };

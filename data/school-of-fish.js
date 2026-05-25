@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Redondo Beach, CA",
       "venue": "Music Plus (Sony TCM-37V)",
-      "gear": "van",
-      "taper": "inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "van \u00b7 inc"
     }
   ]
 };

@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Angel City Brewery *Steal Music, Buy Art",
-      "gear": "",
-      "taper": "AT943",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT943"
     },
     {
       "year": 2019,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Terminal West",
-      "gear": "",
-      "taper": "z-man",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "z-man"
     },
     {
       "year": 2022,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "Moe's Alley - WAV(M)",
-      "gear": "Sony PCM-A10",
-      "taper": "anonymous",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony PCM-A10 \u00b7 anonymous"
     }
   ]
 };

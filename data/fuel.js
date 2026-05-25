@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "AK",
       "location": "Fairbanks, AK",
       "venue": "The Blue Loon",
-      "gear": "SS-DSM-6P",
-      "taper": "ballsdeep",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS-DSM-6P \u00b7 ballsdeep"
     },
     {
       "year": 2007,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "AK",
       "location": "Fairbanks, AK",
       "venue": "The Blue Loon",
-      "gear": "SS-DSM-6P",
-      "taper": "ballsdeep",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS-DSM-6P \u00b7 ballsdeep"
     },
     {
       "year": 2024,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "Bahamas",
       "location": "Nassau, Bahamas",
       "venue": "Norwegian Jade - Stardust Theater - Summer of 99 & Beyond",
-      "gear": "Edirol R09HR",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R09HR \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -62,10 +59,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Norwegian Jade",
       "venue": "Pool Deck - Summer of 99 & Beyond",
-      "gear": "Edirol R09HR",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R09HR \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -76,10 +72,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Bernardino, CA",
       "venue": "Glen Helen Amphitheater - Summer of 99 Festival",
-      "gear": "Zoom H4N",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H4N \u00b7 Unknown"
     },
     {
       "year": 2025,
@@ -90,10 +85,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Bowler, WI",
       "venue": "North Star Mohican Casino",
-      "gear": "Edirol R09HR",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R09HR \u00b7 Unknown"
     },
     {
       "year": 2025,
@@ -104,10 +98,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Wheatland, CA",
       "venue": "Hard Rock Live",
-      "gear": "SP-CMC-4U",
-      "taper": "vibrioidxire",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-4U \u00b7 vibrioidxire"
     },
     {
       "year": 2025,
@@ -118,10 +111,9 @@ const ARTIST_DATA = {
       "state": "GEM",
       "location": "Norwegian, GEM",
       "venue": "Stardust Theater - Summer of 99 Cruise (Show 2)",
-      "gear": "Zoom H4n",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H4n \u00b7 Unknown"
     }
   ]
 };

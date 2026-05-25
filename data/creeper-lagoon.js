@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Mercury Lounge",
-      "gear": "",
-      "taper": "nyctaper",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "nyctaper"
     }
   ]
 };

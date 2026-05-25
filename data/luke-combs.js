@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Stagecoach Festival 2025 - Empire Polo Club",
-      "gear": "1080p",
-      "taper": "Webcast",
       "version": "WEB",
-      "format": "TS"
+      "format": "TS",
+      "notes": "1080p \u00b7 Webcast"
     }
   ]
 };

@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Long Beach, CA",
       "venue": "Koo's Art Cafe",
-      "gear": "Sony MZ-R700",
-      "taper": "the v.u.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony MZ-R700 \u00b7 the v.u."
     }
   ]
 };

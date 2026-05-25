@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Bonner Springs, KS",
       "venue": "Azura Amphitheater",
-      "gear": "Tascam DR-05",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tascam DR-05 \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Clarkston, MI",
       "venue": "Pine Knob Music Theatre",
-      "gear": "Sony UX560F",
-      "taper": "fiver",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sony UX560F \u00b7 fiver"
     },
     {
       "year": 2025,
@@ -47,10 +45,9 @@ const ARTIST_DATA = {
       "state": "NV/ PH Live (M) (AT853) (unk)",
       "location": "Las Vegas, NV/ PH Live (M) (AT853) (unk)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 2025,
@@ -61,10 +58,9 @@ const ARTIST_DATA = {
       "state": "AR",
       "location": "Rogers, AR",
       "venue": "Walmart Amp",
-      "gear": "Sennheiser Ambeo",
-      "taper": "grizzly adams",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sennheiser Ambeo \u00b7 grizzly adams"
     },
     {
       "year": 2025,
@@ -75,10 +71,9 @@ const ARTIST_DATA = {
       "state": "NE",
       "location": "Omahe, NE",
       "venue": "Baxter Arena",
-      "gear": "Samsung S22",
-      "taper": "silence95",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Samsung S22 \u00b7 silence95"
     },
     {
       "year": 2025,
@@ -89,10 +84,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Ridgefield WA",
       "venue": "Cascades Amphitheatre",
-      "gear": "Sennheiser Ambeo, Pixel",
-      "taper": "grizzley adams, esamirp",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sennheiser Ambeo, Pixel \u00b7 grizzley adams, esamirp"
     }
   ]
 };

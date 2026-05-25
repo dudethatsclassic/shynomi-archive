@@ -29,10 +29,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2000,
@@ -43,10 +42,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2001,
@@ -57,10 +55,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Abbey Pub",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2002,
@@ -71,10 +68,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "John Anson Ford Theatre - DAT",
-      "gear": "M",
-      "taper": "anonymous",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "M \u00b7 anonymous"
     },
     {
       "year": 2003,
@@ -85,10 +81,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Abbey Pub",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -99,10 +94,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "World Cafe WXPN",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2015,
@@ -113,10 +107,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "Cocoanut Grove Ballroom",
-      "gear": "SP-CMC-25",
-      "taper": "robert mullen",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "SP-CMC-25 \u00b7 robert mullen"
     },
     {
       "year": 2022,
@@ -127,10 +120,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Olympia, WA",
       "venue": "Capitol Theater",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Unknown"
     },
     {
       "year": 2022,
@@ -141,10 +133,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Doug Fir Lounge",
-      "gear": "Core Sounds Cards",
-      "taper": "rob gronotte",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Core Sounds Cards \u00b7 rob gronotte"
     },
     {
       "year": 2025,
@@ -155,10 +146,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Hamilton",
-      "gear": "Gefell MV400L-M41",
-      "taper": "alex leary",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Gefell MV400L-M41 \u00b7 alex leary"
     },
     {
       "year": 1994,
@@ -169,10 +159,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Uptown Bar - DAT",
-      "gear": "",
-      "taper": "x",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "x"
     },
     {
       "year": 1995,
@@ -183,10 +172,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "SXSW - Electric Lounge",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Unknown"
     },
     {
       "year": 1996,
@@ -197,10 +185,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
-      "gear": "WXRT FM",
-      "taper": "stonecutter",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": "WXRT FM \u00b7 stonecutter"
     },
     {
       "year": 1996,
@@ -211,10 +198,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tramps",
-      "gear": "julsay",
-      "taper": "joe noel edit",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "julsay \u00b7 joe noel edit"
     },
     {
       "year": 1996,
@@ -225,10 +211,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "888 Seventh Ave. - 10th Floor",
-      "gear": "",
-      "taper": "stonecutter",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": "stonecutter"
     },
     {
       "year": 1996,
@@ -239,10 +224,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theater of Living Arts - DAT(M)",
-      "gear": "Schoeps CMC4-MK41",
-      "taper": "billydee",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Schoeps CMC4-MK41 \u00b7 billydee"
     },
     {
       "year": 1996,
@@ -253,10 +237,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
-      "gear": "CSB + SBD mix",
-      "taper": "mr. pember",
       "version": "MIX",
-      "format": ""
+      "format": "",
+      "notes": "CSB + SBD mix \u00b7 mr. pember"
     },
     {
       "year": 1996,
@@ -267,10 +250,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -281,10 +263,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
-      "gear": "unk",
-      "taper": "with Soundcheck",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "unk \u00b7 with Soundcheck"
     },
     {
       "year": 1998,
@@ -295,10 +276,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theatre of the Living Arts",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -309,10 +289,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "WNEW Idiot's Delight",
-      "gear": "",
-      "taper": "stonecutter",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": "stonecutter"
     },
     {
       "year": 1998,
@@ -323,10 +302,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Unknown"
     },
     {
       "year": 1998,
@@ -337,10 +315,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Unknown"
     },
     {
       "year": 1998,
@@ -351,10 +328,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2006,
@@ -365,10 +341,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "gear": "",
-      "taper": "Sonic Studios",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Sonic Studios"
     },
     {
       "year": 2006,
@@ -379,10 +354,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     }
   ]
 };

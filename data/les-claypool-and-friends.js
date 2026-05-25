@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sebastopol, CA",
       "venue": "HopMonk Tavern",
-      "gear": "CA-11",
-      "taper": "leifh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 \u00b7 leifh"
     },
     {
       "year": 2025,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sebastopol, CA",
       "venue": "Hopmonk - 16th Annual Pre-Turkey Day Bonanza",
-      "gear": "Sennheiser + Pixel",
-      "taper": "leifh",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sennheiser + Pixel \u00b7 leifh"
     }
   ]
 };

@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Seven South",
-      "gear": "",
-      "taper": "jim hucks",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "jim hucks"
     }
   ]
 };

@@ -36,10 +36,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Gammelsdorf, Germany",
       "venue": "Zirkus - ANA(1)",
-      "gear": "unk",
-      "taper": "mark l.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 mark l."
     },
     {
       "year": 1989,
@@ -50,10 +49,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Berkeley Square",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -64,10 +62,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Club Lingerie",
-      "gear": "",
-      "taper": "jems 2021 transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "jems 2021 transfer"
     },
     {
       "year": 1990,
@@ -78,10 +75,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "MIT Student Center",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1990,
@@ -92,10 +88,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Uebach Palenberg, Germany",
       "venue": "Rockfabrik - ANA(1)",
-      "gear": "unk",
-      "taper": "bobfather",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 bobfather"
     },
     {
       "year": 1991,
@@ -106,10 +101,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Marquee",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -120,10 +114,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Loppen",
-      "gear": "",
-      "taper": "PC62",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "PC62"
     },
     {
       "year": 1992,
@@ -134,10 +127,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Frankfurt, Germany",
       "venue": "Batschkapp",
-      "gear": "",
-      "taper": "buenaventura",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "buenaventura"
     },
     {
       "year": 1992,
@@ -148,10 +140,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "London Astoria",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -162,10 +153,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Urbana, IL",
       "venue": "Foelinger Auditorium - University of Illinois",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -176,10 +166,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera",
-      "gear": "ECM-S220",
-      "taper": "jb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-S220 \u00b7 jb"
     },
     {
       "year": 1992,
@@ -190,10 +179,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera",
-      "gear": "ECM-S220",
-      "taper": "jb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-S220 \u00b7 jb"
     },
     {
       "year": 1993,
@@ -204,10 +192,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Sheffield, England",
       "venue": "Sheffield Leadmill",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -218,10 +205,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "McCabes Guitar Shop",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -232,10 +218,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Glastonbury, England",
       "venue": "Glastonbury Festival",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -246,10 +231,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Tower Records",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -260,10 +244,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "McCabe's Guitar Shop (Evan Dando Acoustic Show) (Late Show) - DAT(M)",
-      "gear": "SS-DSM-6P",
-      "taper": "jems",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS-DSM-6P \u00b7 jems"
     },
     {
       "year": 1993,
@@ -274,10 +257,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Tower Records",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -288,10 +270,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Suck On This",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -302,10 +283,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheatre",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -316,10 +296,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Kiamesha Lake - DAT",
-      "gear": "x",
-      "taper": "gary watson transfer",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x \u00b7 gary watson transfer"
     },
     {
       "year": 1994,
@@ -330,10 +309,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Petrillo Band Shell - Grant Park",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -344,10 +322,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Astoria - 1Live Radio Concert",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -358,10 +335,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tramps",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -372,10 +348,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Starfish Room",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -386,10 +361,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Perth, Australia",
       "venue": "Mudslinger Festival - Murdoch University (M)",
-      "gear": "Sony ECM-909a",
-      "taper": "franger",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-909a \u00b7 franger"
     },
     {
       "year": 1997,
@@ -400,10 +374,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2005,
@@ -414,10 +387,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Sheperds Bush Empire",
-      "gear": "",
-      "taper": "2nd Night",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night"
     },
     {
       "year": 2005,
@@ -428,10 +400,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Bowery Ballroom",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2006,
@@ -442,10 +413,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Norwich, England",
       "venue": "UEA",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2007,
@@ -456,10 +426,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "The Parish - House of Blues",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2007,
@@ -470,10 +439,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Highline Ballroom",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2009,
@@ -484,10 +452,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "The Macbeth (Evan Dando) - WAV",
-      "gear": "M",
-      "taper": "gary watson",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "M \u00b7 gary watson"
     },
     {
       "year": 2012,
@@ -498,10 +465,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Colorado Springs, CO",
       "venue": "The Black Sheep",
-      "gear": "",
-      "taper": "",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -512,10 +478,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Faiffield, CT",
       "venue": "The Warehouse",
-      "gear": "Edirol R-7",
-      "taper": "lucca",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R-7 \u00b7 lucca"
     },
     {
       "year": 2019,
@@ -526,10 +491,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Brisbane, Australia",
       "venue": "The Zoo",
-      "gear": "CA-11s",
-      "taper": "audiowhore",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11s \u00b7 audiowhore"
     },
     {
       "year": 2021,
@@ -540,10 +504,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Generac Power Stage - Summerfest",
-      "gear": "Edirol R-07",
-      "taper": "lucca",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R-07 \u00b7 lucca"
     },
     {
       "year": 2021,
@@ -554,10 +517,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Thalia Hall",
-      "gear": "Edirol R-07",
-      "taper": "lucca",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R-07 \u00b7 lucca"
     },
     {
       "year": 2021,
@@ -568,10 +530,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Cudahy, WI",
       "venue": "Xray Arcade",
-      "gear": "Edirol R-07",
-      "taper": "lucca",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R-07 \u00b7 lucca"
     },
     {
       "year": 2022,
@@ -582,10 +543,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubbs - SXSW 2022",
-      "gear": "SP-CMC-8",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 \u00b7 Unknown"
     },
     {
       "year": 2022,
@@ -596,10 +556,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Gruenspan",
-      "gear": "CA-14s",
-      "taper": "rcm",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-14s \u00b7 rcm"
     },
     {
       "year": 2022,
@@ -610,10 +569,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Mannheim, Germany",
       "venue": "Alte Feuerwache",
-      "gear": "Zoom H5",
-      "taper": "wannerl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H5 \u00b7 wannerl"
     },
     {
       "year": 2022,
@@ -624,10 +582,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Pumpehuset",
-      "gear": "CA14s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA14s \u00b7 Unknown"
     },
     {
       "year": 2022,
@@ -638,10 +595,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Saint Andrew's Hall",
-      "gear": "Shure MV88",
-      "taper": "adavici",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Shure MV88 \u00b7 adavici"
     },
     {
       "year": 2022,
@@ -652,10 +608,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Le Poisson Rouge",
-      "gear": "Roland CS-10EM",
-      "taper": "phideaux3",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Roland CS-10EM \u00b7 phideaux3"
     },
     {
       "year": 2023,
@@ -666,10 +621,9 @@ const ARTIST_DATA = {
       "state": "NS",
       "location": "Halifax, NS",
       "venue": "Lighthouse Arts Centre",
-      "gear": "Tascam DR2d",
-      "taper": "colin waldschutz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tascam DR2d \u00b7 colin waldschutz"
     },
     {
       "year": 2024,
@@ -680,10 +634,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Swedish American Hall (Evan Dando Solo)",
-      "gear": "Schoeps MK4s",
-      "taper": "loughney",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4s \u00b7 loughney"
     },
     {
       "year": 2024,
@@ -694,10 +647,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Islington Assembly Hall (Evan Dando)",
-      "gear": "Sennheiser AMBEO",
-      "taper": "greg caliquette",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sennheiser AMBEO \u00b7 greg caliquette"
     },
     {
       "year": 2025,
@@ -708,10 +660,9 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Debaser",
-      "gear": "Line Audio CM4",
-      "taper": "pata63",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Line Audio CM4 \u00b7 pata63"
     },
     {
       "year": 2025,
@@ -722,10 +673,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Loppen",
-      "gear": "DPA 4061",
-      "taper": "tw",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4061 \u00b7 tw"
     }
   ]
 };

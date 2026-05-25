@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "Club Passim (Early Show)",
-      "gear": "Schoeps MK4V",
-      "taper": "jim kelly",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4V \u00b7 jim kelly"
     }
   ]
 };

@@ -23,10 +23,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Yokohama, Japan",
       "venue": "Yokohama Stadium",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -37,10 +36,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Brisbane, Australia",
       "venue": "Entertainment Centre",
-      "gear": "",
-      "taper": "inc",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "inc"
     },
     {
       "year": 1988,
@@ -51,10 +49,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -65,10 +62,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Rome, Italy",
       "venue": "Stadio Flaminio *My Way LP",
-      "gear": "",
-      "taper": "",
       "version": "Vinyl",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -79,10 +75,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rotterdam",
       "venue": "Stadion Feyenoord",
-      "gear": "",
-      "taper": "Sony WM-D6C",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-D6C"
     },
     {
       "year": 1988,
@@ -93,10 +88,9 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Gothenburg, Sweden",
       "venue": "Eriksberg Shipyard Docks (M)",
-      "gear": "Marantz EM-8",
-      "taper": "kk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Marantz EM-8 \u00b7 kk"
     },
     {
       "year": 1988,
@@ -107,10 +101,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Wembley Stadium",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -121,10 +114,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Brendan Byrne Arena   (Two Of Us Master Series Volume 239)",
-      "gear": "Shure Mic",
-      "taper": "two of us",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Shure Mic \u00b7 two of us"
     },
     {
       "year": 1989,
@@ -135,10 +127,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Memorial Sports Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -149,10 +140,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Memorial Sports Arena",
-      "gear": "",
-      "taper": "Kai 2021 Transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Kai 2021 Transfer"
     },
     {
       "year": 1992,
@@ -163,10 +153,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Wembley Stadium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -177,10 +166,9 @@ const ARTIST_DATA = {
       "state": "Romania",
       "location": "Bucharest, Romania",
       "venue": "National Concert Hall  *Black and Live",
-      "gear": "",
-      "taper": "RRC 011",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "RRC 011"
     },
     {
       "year": 1996,
@@ -191,10 +179,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brunei",
       "venue": "Jerudong Park Garden *Michael Jackson New Year's eve In Brunei",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -205,10 +192,9 @@ const ARTIST_DATA = {
       "state": "NZ - Ericcson Stadium *Destination Auckland {KOP 911}",
       "location": "Auckland, NZ - Ericcson Stadium *Destination Auckland {KOP 911}",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -219,10 +205,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munchen, Germany",
       "venue": "Olympic Stadium *The King Is Alive - SBD",
-      "gear": "",
-      "taper": "OPT 14-15",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "OPT 14-15"
     },
     {
       "year": 1997,
@@ -233,10 +218,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Live History World Tour",
-      "gear": "",
-      "taper": "SATRip",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "notes": "SATRip"
     },
     {
       "year": 1997,
@@ -247,10 +231,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Parken",
-      "gear": "Homemade stereo mics",
-      "taper": "kingkeld",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Homemade stereo mics \u00b7 kingkeld"
     }
   ]
 };

@@ -28,10 +28,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Shibuya Public Hall",
-      "gear": "",
-      "taper": "Unknown",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2005,
@@ -42,10 +41,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "MD(M)",
-      "gear": "Sony ECM-717",
-      "taper": "franger",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-717 \u00b7 franger"
     },
     {
       "year": 2005,
@@ -56,10 +54,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Columbiahalle",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2005,
@@ -70,10 +67,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
-      "gear": "Sony ECM-909",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-909 \u00b7 Unknown"
     },
     {
       "year": 2007,
@@ -84,10 +80,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Pelham, AL",
       "venue": "Verizon Wireless Amphitheater",
-      "gear": "MC 930",
-      "taper": "jeff hatcher & dennis tyler",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MC 930 \u00b7 jeff hatcher & dennis tyler"
     },
     {
       "year": 2008,
@@ -98,10 +93,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Duluth, MN",
       "venue": "Romano Gym - University of Minnesota Duluth",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2021,
@@ -112,10 +106,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Plenary Hall",
-      "gear": "Nokia Lumia 30",
-      "taper": "eckythump",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nokia Lumia 30 \u00b7 eckythump"
     },
     {
       "year": 2021,
@@ -126,10 +119,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Sunset Piazza",
-      "gear": "",
-      "taper": "Digital Broadcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Digital Broadcast"
     },
     {
       "year": 2021,
@@ -140,10 +132,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Troy, NY",
       "venue": "Troy Savings Bank Music Hall",
-      "gear": "SP-CMC-8",
-      "taper": "smores",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 \u00b7 smores"
     },
     {
       "year": 2023,
@@ -154,10 +145,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Troy, NY",
       "venue": "Troy Savings Bank Music Hall",
-      "gear": "SP-CMC-8",
-      "taper": "smores",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 \u00b7 smores"
     },
     {
       "year": 2024,
@@ -168,10 +158,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Great Barrington, MA",
       "venue": "Mahaiwe PAC",
-      "gear": "SP-CMC-8",
-      "taper": "smores",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 \u00b7 smores"
     },
     {
       "year": 2024,
@@ -182,10 +171,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "University at Buffalo Center for the Arts",
-      "gear": "iPhone 16 Pro",
-      "taper": "powerage5",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "iPhone 16 Pro \u00b7 powerage5"
     },
     {
       "year": 2024,
@@ -196,10 +184,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga Springs, NY",
       "venue": "City Center",
-      "gear": "SP-CMC-8",
-      "taper": "smores",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 \u00b7 smores"
     },
     {
       "year": 2025,
@@ -210,10 +197,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Rochester, MN",
       "venue": "Mayo Civic Center",
-      "gear": "iPhone",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "iPhone \u00b7 Unknown"
     },
     {
       "year": 2025,
@@ -224,10 +210,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga Springs, NY",
       "venue": "UPH",
-      "gear": "SP-CMC-8",
-      "taper": "smores",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 \u00b7 smores"
     },
     {
       "year": 1995,
@@ -238,10 +223,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows - KROQ Weenie Roast",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -252,10 +236,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "unk",
-      "taper": "neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1995,
@@ -266,10 +249,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Better Than Ezra",
       "venue": "In Concert",
-      "gear": "",
-      "taper": "96-15",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "96-15"
     },
     {
       "year": 1997,
@@ -280,10 +262,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Sunrise, FL",
       "venue": "Markham Park - Zetafest 97",
-      "gear": "DSM-6P",
-      "taper": "datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DSM-6P \u00b7 datfly"
     },
     {
       "year": 2015,
@@ -294,10 +275,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dallas TX",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2021,
@@ -308,10 +288,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Huber Heights, OH",
       "venue": "Rose Music Center",
-      "gear": "CA-14s",
-      "taper": "charles dewey cole",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14s \u00b7 charles dewey cole"
     },
     {
       "year": 2024,
@@ -322,10 +301,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "3rd & Lindsey",
-      "gear": "SP-CMC-8 + SBD",
-      "taper": "mr sifter",
       "version": "MIX",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 + SBD \u00b7 mr sifter"
     },
     {
       "year": 2025,
@@ -336,10 +314,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Mason, OH",
       "venue": "Mason Municipal Campus",
-      "gear": "CA-14",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14 \u00b7 live2cd"
     }
   ]
 };

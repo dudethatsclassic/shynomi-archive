@@ -23,10 +23,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Bristow, VA",
       "venue": "Nissan Pavilion",
-      "gear": "CA-14s",
-      "taper": "travelinbeat",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14s \u00b7 travelinbeat"
     },
     {
       "year": 2013,
@@ -37,10 +36,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Studios - Live Lounge",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "MP2"
+      "format": "MP2",
+      "notes": ""
     },
     {
       "year": 2013,
@@ -51,10 +49,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "LG Arena",
-      "gear": "CA-11+Sennheiser EK2000",
-      "taper": "tailschao",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11+Sennheiser EK2000 \u00b7 tailschao"
     },
     {
       "year": 2013,
@@ -65,10 +62,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Uncasville, CT",
       "venue": "Arena @ Mohegan Sun Casino",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2017,
@@ -79,10 +75,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Studios / Live Lounge",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "MP2"
+      "format": "MP2",
+      "notes": ""
     },
     {
       "year": 2018,
@@ -93,10 +88,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Red Hat Amphitheater",
-      "gear": "SP-CMC-8",
-      "taper": "porcelmc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 porcelmc"
     },
     {
       "year": 2023,
@@ -107,10 +101,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Schottenstein Center",
-      "gear": "SP-CMC-8",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 live2cd"
     },
     {
       "year": 2024,
@@ -121,10 +114,9 @@ const ARTIST_DATA = {
       "state": "Poland",
       "location": "Warsaw, Poland",
       "venue": "PGE Narodowy",
-      "gear": "CA-14",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14 \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -135,10 +127,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "T-Mobile Arena - iHeart Radio Festival",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": ""
     }
   ]
 };

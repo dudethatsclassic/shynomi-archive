@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Bataclan",
-      "gear": "ECM-717",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-717 \u00b7 Unknown"
     },
     {
       "year": 2018,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "Alberta - Shaw Conference Centre (exvee)",
       "location": "Edmonton, Alberta - Shaw Conference Centre (exvee)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2018,
@@ -47,10 +45,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Budweiser Stage",
-      "gear": "SP-CMC-8",
-      "taper": "burnboy",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 \u00b7 burnboy"
     }
   ]
 };

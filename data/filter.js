@@ -28,10 +28,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Hammerjacks - DAT",
-      "gear": "M",
-      "taper": "jr",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 jr"
     },
     {
       "year": 1995,
@@ -42,10 +41,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Agora Theatre",
-      "gear": "CSB",
-      "taper": "jlizard",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 jlizard"
     },
     {
       "year": 1995,
@@ -56,10 +54,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Westwood One",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2002,
@@ -70,10 +67,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Gainesville, FL",
       "venue": "The Palace Theatre",
-      "gear": "CSB",
-      "taper": "dunebug81",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 dunebug81"
     },
     {
       "year": 2008,
@@ -84,10 +80,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Royal Oak, MI",
       "venue": "Royal Oak Music Theater (Sharp MD-SR60)",
-      "gear": "Sony ECM-DS70",
-      "taper": "gladcarrot",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-DS70 \u00b7 gladcarrot"
     },
     {
       "year": 2008,
@@ -98,10 +93,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "Gatorz",
-      "gear": "HEB DPA 4060",
-      "taper": "charles dewey cole",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "HEB DPA 4060 \u00b7 charles dewey cole"
     },
     {
       "year": 2009,
@@ -112,10 +106,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "Birmingham-Jefferson Convention Complex Parking Lot",
-      "gear": "DPA 4061s",
-      "taper": "dunebug81",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061s \u00b7 dunebug81"
     },
     {
       "year": 2010,
@@ -126,10 +119,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Merrionette Park, IL",
       "venue": "115 Bourbon Street",
-      "gear": "Sony PCM M10",
-      "taper": "auger_d",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony PCM M10 \u00b7 auger_d"
     },
     {
       "year": 2011,
@@ -140,10 +132,9 @@ const ARTIST_DATA = {
       "state": "AK",
       "location": "Fairbanks, AK",
       "venue": "Blue Loon",
-      "gear": "",
-      "taper": "steve h",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "steve h"
     },
     {
       "year": 2012,
@@ -154,10 +145,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Paducah , KY",
       "venue": "Robert Cherry Civic Center",
-      "gear": "",
-      "taper": "berry byassee",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "berry byassee"
     },
     {
       "year": 2023,
@@ -168,10 +158,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Concord Pavilion",
-      "gear": "Schoeps MK4s",
-      "taper": "tj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4s \u00b7 tj"
     },
     {
       "year": 2023,
@@ -182,10 +171,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center",
-      "gear": "DPA 4081",
-      "taper": "faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4081 \u00b7 faninor"
     },
     {
       "year": 2024,
@@ -196,10 +184,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Im Wizemann",
-      "gear": "Schoeps MK41V",
-      "taper": "sebi2704",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK41V \u00b7 sebi2704"
     },
     {
       "year": 2024,
@@ -210,10 +197,9 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Hamburg, DE",
       "venue": "Knust",
-      "gear": "Zoom H2n",
-      "taper": "jon toft",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H2n \u00b7 jon toft"
     },
     {
       "year": 2024,
@@ -224,10 +210,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Xfinity Center",
-      "gear": "SP-CMC-8c",
-      "taper": "farve4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8c \u00b7 farve4"
     },
     {
       "year": 2025,
@@ -238,10 +223,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
-      "gear": "SP-CMC-8",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 live2cd"
     },
     {
       "year": 2025,
@@ -252,10 +236,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Sonic Temple Festival - Sanctuary Stage",
-      "gear": "Schoeps MK4",
-      "taper": "jesse mc",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4 \u00b7 jesse mc"
     },
     {
       "year": 2026,
@@ -266,10 +249,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "The Hi-Fi",
-      "gear": "CA-14",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14 \u00b7 live2cd"
     }
   ]
 };

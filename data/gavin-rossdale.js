@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
-      "gear": "Edirol R-09",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R-09 \u00b7 live2cd"
     },
     {
       "year": 2009,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Market Square",
-      "gear": "CSBs",
-      "taper": "xjsb125",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSBs \u00b7 xjsb125"
     },
     {
       "year": 2009,
@@ -47,10 +45,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "House of Blues",
-      "gear": "Edirol R-09",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R-09 \u00b7 live2cd"
     },
     {
       "year": 2010,
@@ -61,10 +58,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Summerfest",
-      "gear": "Sony PCM-M10",
-      "taper": "auger_d",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sony PCM-M10 \u00b7 auger_d"
     }
   ]
 };

@@ -23,10 +23,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Palace - ANA",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 1992,
@@ -37,10 +36,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Live on David Letterman",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -51,10 +49,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park - Tibetan Freedom Concert",
-      "gear": "unk",
-      "taper": "neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1996,
@@ -65,10 +62,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "gear": "unk",
-      "taper": "neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1998,
@@ -79,10 +75,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden - DAT",
-      "gear": "",
-      "taper": "M",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M"
     },
     {
       "year": 1998,
@@ -93,10 +88,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2010,
@@ -107,10 +101,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Columbia, MD",
       "venue": "Merriweather Post Pavilion",
-      "gear": "",
-      "taper": "travelinbeat",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "travelinbeat"
     },
     {
       "year": 2011,
@@ -121,10 +114,9 @@ const ARTIST_DATA = {
       "state": "Brazil - Sesc",
       "location": "Santo Andre, Brazil - Sesc",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": ""
     }
   ]
 };

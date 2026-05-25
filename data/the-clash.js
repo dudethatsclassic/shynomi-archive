@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "Jamaica",
       "location": "Montego Bay, Jamaica",
       "venue": "Jamaica Wolrd Music Festival",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     }
   ]
 };

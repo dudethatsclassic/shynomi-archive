@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Abbey Pub - DAT(M)",
-      "gear": "unk",
-      "taper": "aadam jacobs",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "unk \u00b7 aadam jacobs"
     },
     {
       "year": 2002,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Schubas Tavern - DAT(M)",
-      "gear": "unk",
-      "taper": "aadam jacobs",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "unk \u00b7 aadam jacobs"
     },
     {
       "year": 2015,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver , BC",
       "venue": "Venue Nightclub",
-      "gear": "CM-54",
-      "taper": "dennis orr",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CM-54 \u00b7 dennis orr"
     },
     {
       "year": 2025,
@@ -62,10 +59,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Hamilton",
-      "gear": "LG V60",
-      "taper": "hemisphire",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "LG V60 \u00b7 hemisphire"
     }
   ]
 };

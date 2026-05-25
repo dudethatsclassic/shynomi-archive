@@ -25,10 +25,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Blue Note",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1958,
@@ -39,10 +38,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Private Jam in Joe Brazil's Basement",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1960,
@@ -53,10 +51,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Jazz Gallery",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1961,
@@ -67,10 +64,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Sutherland Hotel",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1961,
@@ -81,10 +77,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Hotel Lounge",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1961,
@@ -95,10 +90,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Music at Newport",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1961,
@@ -109,10 +103,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Music at Newport",
-      "gear": "speed/pitch adjusted",
-      "taper": "jimitrane",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "speed/pitch adjusted \u00b7 jimitrane"
     },
     {
       "year": 1961,
@@ -123,10 +116,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Village Vanguard",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1961,
@@ -137,10 +129,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Village Vanguard",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1961,
@@ -151,10 +142,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Falkonerteatret",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1962,
@@ -165,10 +155,9 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Graz, Austria",
       "venue": "Stefaniesaal",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1963,
@@ -179,10 +168,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Tivoli Koncertsal",
-      "gear": "",
-      "taper": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1963,
@@ -193,10 +181,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Liederhalle",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1965,
@@ -207,10 +194,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Half Note Club",
-      "gear": "",
-      "taper": "Stereo Radio Broadcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Stereo Radio Broadcast"
     },
     {
       "year": 1965,
@@ -221,10 +207,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Antibes, France",
       "venue": "Jazz Festival",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1965,
@@ -235,10 +220,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Soldier's Field",
-      "gear": "",
-      "taper": "Remastered",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Remastered"
     },
     {
       "year": 1965,
@@ -249,10 +233,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Unknown Venue",
-      "gear": "Trane 65-67 Disc 8",
-      "taper": "speed corrected",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Trane 65-67 Disc 8 \u00b7 speed corrected"
     },
     {
       "year": 1966,
@@ -263,10 +246,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Newport Festival",
-      "gear": "",
-      "taper": "audio upgrade",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "audio upgrade"
     }
   ]
 };

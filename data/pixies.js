@@ -26,10 +26,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Rat",
-      "gear": "Aiwa Clip-on",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa Clip-on \u00b7 Unknown"
     },
     {
       "year": 1987,
@@ -40,10 +39,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "Nightstage",
-      "gear": "Aiwa Clip-on",
-      "taper": "harwilmer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa Clip-on \u00b7 harwilmer"
     },
     {
       "year": 1987,
@@ -54,10 +52,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "TT the Bear's",
-      "gear": "Aiwa Clip-on",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa Clip-on \u00b7 Unknown"
     },
     {
       "year": 1987,
@@ -68,10 +65,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Green Street Station",
-      "gear": "Aiwa Clip-on",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa Clip-on \u00b7 Unknown"
     },
     {
       "year": 1987,
@@ -82,10 +78,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1988,
@@ -96,10 +91,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Harlesden Mean Fiddler - CASS",
-      "gear": "",
-      "taper": "x",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x"
     },
     {
       "year": 1988,
@@ -110,10 +104,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Mean Fiddler",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1988,
@@ -124,10 +117,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Melkweg",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -138,10 +130,9 @@ const ARTIST_DATA = {
       "state": "Netherlands",
       "location": "The Hague, Netherlands",
       "venue": "Paard van Troje",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -152,10 +143,9 @@ const ARTIST_DATA = {
       "state": "Netherlands",
       "location": "Hilversum, Netherlands",
       "venue": "VPRO",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -166,10 +156,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Liverpool, England",
       "venue": "Royal Court Theatre *Give Me Ecstasy",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -180,10 +169,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Sheffield, England",
       "venue": "Octagon Centre",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -194,10 +182,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Bristol, UK",
       "venue": "The Studio",
-      "gear": "",
-      "taper": "Sony ECM-909",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-909"
     },
     {
       "year": 1989,
@@ -208,10 +195,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Landgraaf, The Netherlands",
       "venue": "Megaland Pink Pop Festival",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -222,10 +208,9 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Vienna, Austria",
       "venue": "Messepalast *Supernova",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -236,10 +221,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Pumpehuset",
-      "gear": "Sony WMD3",
-      "taper": "willer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WMD3 \u00b7 willer"
     },
     {
       "year": 1989,
@@ -250,10 +234,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Palace - CASS",
-      "gear": "",
-      "taper": "M",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M"
     },
     {
       "year": 1989,
@@ -264,10 +247,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Fox Theatre",
-      "gear": "Sony Hand-held",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony Hand-held \u00b7 Unknown"
     },
     {
       "year": 1990,
@@ -278,10 +260,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "University Of California, Crawford Hall",
-      "gear": "",
-      "taper": "Toshiba KT-4087",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Toshiba KT-4087"
     },
     {
       "year": 1990,
@@ -292,10 +273,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "University Of California, Crawford Hall - CASS",
-      "gear": "M",
-      "taper": "Source 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Source 2"
     },
     {
       "year": 1990,
@@ -306,10 +286,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Utrecht, The Netherlands",
       "venue": "Vredenburg",
-      "gear": "",
-      "taper": "Sennheiser MKE-40",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sennheiser MKE-40"
     },
     {
       "year": 1991,
@@ -320,10 +299,9 @@ const ARTIST_DATA = {
       "state": "Belgium - Torhout Festival (Sennheiser MKE-40)",
       "location": "Torhout, Belgium - Torhout Festival (Sennheiser MKE-40)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -334,10 +312,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Ritz",
-      "gear": "SS-DSM-3",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS-DSM-3 \u00b7 Unknown"
     },
     {
       "year": 1991,
@@ -348,10 +325,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theater",
-      "gear": "SS-DSM",
-      "taper": "legendary e.c.p.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS-DSM \u00b7 legendary e.c.p."
     },
     {
       "year": 1991,
@@ -362,10 +338,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Warfield",
-      "gear": "",
-      "taper": "WM-D3 Master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "WM-D3 Master"
     },
     {
       "year": 1991,
@@ -376,10 +351,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Hollywood Palladium",
-      "gear": "",
-      "taper": "KCRW 105 FM",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "KCRW 105 FM"
     },
     {
       "year": 1992,
@@ -390,10 +364,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "gear": "SS mics",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS mics \u00b7 Unknown"
     },
     {
       "year": 1992,
@@ -404,10 +377,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "gear": "SS mics",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS mics \u00b7 Unknown"
     },
     {
       "year": 2014,
@@ -418,10 +390,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Grounds - Coachella",
-      "gear": "PRO #1",
-      "taper": "danderson",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": "PRO #1 \u00b7 danderson"
     },
     {
       "year": 2022,
@@ -432,10 +403,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "SOMA",
-      "gear": "DPA 4081",
-      "taper": "faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4081 \u00b7 faninor"
     },
     {
       "year": 2023,
@@ -446,10 +416,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Bridgeport, CT",
       "venue": "Hartford HealthCare Amphitheater",
-      "gear": "Shure MV88",
-      "taper": "km",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Shure MV88 \u00b7 km"
     }
   ]
 };

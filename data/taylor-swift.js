@@ -27,10 +27,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Dodge Music Theatre",
-      "gear": "ECM719",
-      "taper": "firemt66",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM719 \u00b7 firemt66"
     },
     {
       "year": 2009,
@@ -41,10 +40,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Allstate Arena",
-      "gear": "Sony ECM-DS70P",
-      "taper": "ratpickle",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-DS70P \u00b7 ratpickle"
     },
     {
       "year": 2010,
@@ -55,10 +53,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wachovia Center",
-      "gear": "Schoeps MK4",
-      "taper": "nicky c and mom c",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK4 \u00b7 nicky c and mom c"
     },
     {
       "year": 2010,
@@ -69,10 +66,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Charlottesville, VA",
       "venue": "John Paul Jones Arena",
-      "gear": "CA-11s",
-      "taper": "jagraham84",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11s \u00b7 jagraham84"
     },
     {
       "year": 2011,
@@ -83,10 +79,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Nippon Budokan - The Story of Budokan",
-      "gear": "",
-      "taper": "IEM+AUD",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "IEM+AUD"
     },
     {
       "year": 2011,
@@ -97,10 +92,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Nippon Budokan",
-      "gear": "unk",
-      "taper": "xavel-110a",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 xavel-110a"
     },
     {
       "year": 2011,
@@ -111,10 +105,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Civic Center",
-      "gear": "ECM-719",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Unknown"
     },
     {
       "year": 2011,
@@ -125,10 +118,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rosemont, IL",
       "venue": "Allstate Arena",
-      "gear": "",
-      "taper": "Zoom H2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H2"
     },
     {
       "year": 2011,
@@ -139,10 +131,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "TBT Forum",
-      "gear": "CA-11",
-      "taper": "veg",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 \u00b7 veg"
     },
     {
       "year": 2012,
@@ -153,10 +144,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "VH1 Storytellers",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2014,
@@ -167,10 +157,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Saitama Super Arena - June 1st 2014",
-      "gear": "",
-      "taper": "xavel",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "xavel"
     },
     {
       "year": 2015,
@@ -181,10 +170,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Tokyo Dome",
-      "gear": "Night 1",
-      "taper": "IEM+AUD",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Night 1 \u00b7 IEM+AUD"
     },
     {
       "year": 2015,
@@ -195,10 +183,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Tokyo Dome",
-      "gear": "Night 2",
-      "taper": "IEM+AUD",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Night 2 \u00b7 IEM+AUD"
     },
     {
       "year": 2015,
@@ -209,10 +196,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Norwich, England",
       "venue": "Earlham Park - BBC Radio 1's Big Weekend",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2018,
@@ -223,10 +209,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pasadena, CA",
       "venue": "Rose Bowl",
-      "gear": "AT943",
-      "taper": "carsfan",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT943 \u00b7 carsfan"
     },
     {
       "year": 2018,
@@ -237,10 +222,9 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Swansea, Wales",
       "venue": "BBC The Biggest Weekend",
-      "gear": "",
-      "taper": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2018,
@@ -251,10 +235,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "FirstEnergy Stadium",
-      "gear": "CA-14",
-      "taper": "charles dewey cole",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14 \u00b7 charles dewey cole"
     },
     {
       "year": 2018,
@@ -265,10 +248,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "MetLife Stadium",
-      "gear": "",
-      "taper": "CA-11",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11"
     },
     {
       "year": 2018,
@@ -279,10 +261,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Toyko, Japan",
       "venue": "Tokyo Dome",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "BLURAY"
+      "format": "BLURAY",
+      "notes": ""
     },
     {
       "year": 2018,
@@ -293,10 +274,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Tokyo Dome",
-      "gear": "",
-      "taper": "",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2023,
@@ -307,10 +287,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Glendale, AZ",
       "venue": "State Farm Stadium",
-      "gear": "Sony PCM-A10",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony PCM-A10 \u00b7 Unknown"
     },
     {
       "year": 2023,
@@ -321,10 +300,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Nissan Stadium",
-      "gear": "Zoom H2n",
-      "taper": "chickenwing",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H2n \u00b7 chickenwing"
     },
     {
       "year": 2024,
@@ -335,10 +313,9 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Friends Arena - Solna",
-      "gear": "Sony ECM CS-10",
-      "taper": "snarko",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM CS-10 \u00b7 snarko"
     },
     {
       "year": 2024,
@@ -349,10 +326,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Lyon, France",
       "venue": "Groupama Stadium",
-      "gear": "KM140s",
-      "taper": "alysha",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "KM140s \u00b7 alysha"
     },
     {
       "year": 2024,
@@ -363,10 +339,9 @@ const ARTIST_DATA = {
       "state": "Poland",
       "location": "Warsaw, Poland",
       "venue": "PGE Narodowy",
-      "gear": "CA-14",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14 \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -377,10 +352,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "BC Place",
-      "gear": "DPA 4061",
-      "taper": "opsopcopolis",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4061 \u00b7 opsopcopolis"
     }
   ]
 };

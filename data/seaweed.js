@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "WY",
       "location": "Cheyenne, WY",
       "venue": "Lion's Park Community House",
-      "gear": "Realistic SCP-29",
-      "taper": "lantz barbour",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Realistic SCP-29 \u00b7 lantz barbour"
     }
   ]
 };

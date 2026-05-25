@@ -21,10 +21,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Radio Theatre",
-      "gear": "",
-      "taper": "soledriver",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "soledriver"
     },
     {
       "year": 2003,
@@ -35,10 +34,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
-      "gear": "CSC",
-      "taper": "shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSC \u00b7 shane e. calhoon"
     },
     {
       "year": 2003,
@@ -49,10 +47,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Murat Egyptian Room",
-      "gear": "CSC",
-      "taper": "shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSC \u00b7 shane e. calhoon"
     },
     {
       "year": 2011,
@@ -63,10 +60,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Webster Hall",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2014,
@@ -77,10 +73,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Lake Tahoe, NV",
       "venue": "Harvey's,",
-      "gear": "Zoom H1",
-      "taper": "whiskeyrecordings",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 whiskeyrecordings"
     },
     {
       "year": 2014,
@@ -91,10 +86,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "100 Club",
-      "gear": "Olympus LS-10",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Olympus LS-10 \u00b7 Unknown"
     },
     {
       "year": 2014,
@@ -105,10 +99,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Nob Hill Masonic Auditorium",
-      "gear": "Neumann KMF 4i",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Neumann KMF 4i \u00b7 Unknown"
     }
   ]
 };

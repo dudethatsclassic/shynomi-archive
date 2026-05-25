@@ -30,10 +30,9 @@ const ARTIST_DATA = {
       "state": "Scotland",
       "location": "Glasgow, Scotland",
       "venue": "King Tuts Wah Wah Hut",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -44,10 +43,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Town & Country Club",
-      "gear": "",
-      "taper": "BBC Transcription Disc",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "BBC Transcription Disc"
     },
     {
       "year": 1992,
@@ -58,10 +56,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Koln, Germany",
       "venue": "E-Werk",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -72,10 +69,9 @@ const ARTIST_DATA = {
       "state": "Bordeaux, France",
       "location": "Pessac, Bordeaux, France",
       "venue": "Salle Bellegrave",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1993,
@@ -86,10 +82,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "London Forum",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -100,10 +95,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Lille, France",
       "venue": "L'Aeronef",
-      "gear": "",
-      "taper": "",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -114,10 +108,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "gear": "unk",
-      "taper": "neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1996,
@@ -128,10 +121,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Astoria",
-      "gear": "",
-      "taper": "BBC Transcription Disc",
       "version": "preFM",
-      "format": ""
+      "format": "",
+      "notes": "BBC Transcription Disc"
     },
     {
       "year": 2003,
@@ -142,10 +134,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Academy 2",
-      "gear": "",
-      "taper": "yousef",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "yousef"
     },
     {
       "year": 2005,
@@ -156,10 +147,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Knitting Factory",
-      "gear": "Sony WM-D3",
-      "taper": "manofstealth",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sony WM-D3 \u00b7 manofstealth"
     },
     {
       "year": 2014,
@@ -170,10 +160,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
-      "gear": "ECM-909a",
-      "taper": "steve hanna",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-909a \u00b7 steve hanna"
     },
     {
       "year": 2021,
@@ -184,10 +173,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Glanusk Park",
       "venue": "Wales, UK / Green Man Festival - Far Out Tent",
-      "gear": "SP-CMC-2s",
-      "taper": "rayrad",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-2s \u00b7 rayrad"
     },
     {
       "year": 2022,
@@ -198,10 +186,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Pumpehuset",
-      "gear": "CA-14",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14 \u00b7 Unknown"
     },
     {
       "year": 2023,
@@ -212,10 +199,9 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "San Sebastian, Spain",
       "venue": "Victoria Eugenia",
-      "gear": "Yamaha PR7",
-      "taper": "unaesfingelunar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Yamaha PR7 \u00b7 unaesfingelunar"
     },
     {
       "year": 2024,
@@ -226,10 +212,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Mississippi Studios",
-      "gear": "DPA 4061s",
-      "taper": "tim kahn",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4061s \u00b7 tim kahn"
     },
     {
       "year": 2024,
@@ -240,10 +225,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Mississippi Studios",
-      "gear": "DPA 4061s",
-      "taper": "tim kahn",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4061s \u00b7 tim kahn"
     },
     {
       "year": 2024,
@@ -254,10 +238,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Filmore",
-      "gear": "Schoeps MK4",
-      "taper": "loughney",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4 \u00b7 loughney"
     },
     {
       "year": 2024,
@@ -268,10 +251,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Teragram Ballroom",
-      "gear": "CA-11",
-      "taper": "manofstealth",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-11 \u00b7 manofstealth"
     },
     {
       "year": 2025,
@@ -282,10 +264,9 @@ const ARTIST_DATA = {
       "state": "Argentina",
       "location": "Buenos Aires, Argentina",
       "venue": "C Art Media",
-      "gear": "MM-MCSM-4",
-      "taper": "rony kohn",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MM-MCSM-4 \u00b7 rony kohn"
     }
   ]
 };

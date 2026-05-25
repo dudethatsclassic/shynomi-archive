@@ -25,10 +25,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore - VHS",
-      "gear": "2",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "2 \u00b7 Unknown"
     },
     {
       "year": 2001,
@@ -39,10 +38,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Ft. Collins, CO",
       "venue": "The Starlight",
-      "gear": "CSBs",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSBs \u00b7 Unknown"
     },
     {
       "year": 2001,
@@ -53,10 +51,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues - DAT(M)",
-      "gear": "SS-DSM6",
-      "taper": "tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS-DSM6 \u00b7 tapeworm48"
     },
     {
       "year": 2002,
@@ -67,10 +64,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Barrie, ON",
       "venue": "Molson Park - DAT(M)",
-      "gear": "Sennheiser MKE-2002",
-      "taper": "ms",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sennheiser MKE-2002 \u00b7 ms"
     },
     {
       "year": 2002,
@@ -81,10 +77,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues",
-      "gear": "DPA 4061s",
-      "taper": "tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4061s \u00b7 tapeworm48"
     },
     {
       "year": 2003,
@@ -95,10 +90,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "El Rey Theatre (Tribute to Buddy Arnold) - DAT(M)",
-      "gear": "CSB",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Unknown"
     },
     {
       "year": 2022,
@@ -109,10 +103,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "gear": "AT831s",
-      "taper": "tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AT831s \u00b7 tapeworm48"
     },
     {
       "year": 2022,
@@ -123,10 +116,9 @@ const ARTIST_DATA = {
       "state": "Israel",
       "location": "Tel Aviv, Israel",
       "venue": "Barby Club",
-      "gear": "Sony ECM-719",
-      "taper": "andy-080",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719 \u00b7 andy-080"
     },
     {
       "year": 2022,
@@ -137,10 +129,9 @@ const ARTIST_DATA = {
       "state": "Israel",
       "location": "Tel Aviv, Israel",
       "venue": "Bitan 1 - Ganei Hata'arucha",
-      "gear": "DSM-6S",
-      "taper": "smores",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DSM-6S \u00b7 smores"
     },
     {
       "year": 2023,
@@ -151,10 +142,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Aura (M)",
-      "gear": "SP-CMC-8",
-      "taper": "krw_co",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 \u00b7 krw_co"
     },
     {
       "year": 2023,
@@ -165,10 +155,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theatre",
-      "gear": "AT933",
-      "taper": "sxpxdxcx",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT933 \u00b7 sxpxdxcx"
     },
     {
       "year": 2024,
@@ -179,10 +168,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Jacobs Pavilion at Nautica",
-      "gear": "CA-14",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14 \u00b7 live2cd"
     },
     {
       "year": 2024,
@@ -193,10 +181,9 @@ const ARTIST_DATA = {
       "state": "Argentina",
       "location": "Buenos Aires, Argentina",
       "venue": "C Art Media",
-      "gear": "MM-MCSM-4",
-      "taper": "rony kohn",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MM-MCSM-4 \u00b7 rony kohn"
     },
     {
       "year": 2025,
@@ -207,10 +194,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Aura",
-      "gear": "R9",
-      "taper": "ec666",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "R9 \u00b7 ec666"
     },
     {
       "year": 2025,
@@ -221,10 +207,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "gear": "Zoom IQ5",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom IQ5 \u00b7 Unknown"
     }
   ]
 };

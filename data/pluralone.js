@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Viejas Arena",
-      "gear": "CA-11s",
-      "taper": "tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-11s \u00b7 tapeworm48"
     },
     {
       "year": 2022,
@@ -32,10 +31,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Forum",
-      "gear": "CA-11s",
-      "taper": "tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-11s \u00b7 tapeworm48"
     },
     {
       "year": 2022,
@@ -46,10 +44,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Forum",
-      "gear": "CA-11s",
-      "taper": "tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-11s \u00b7 tapeworm48"
     },
     {
       "year": 2022,
@@ -60,10 +57,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Glendale, AZ",
       "venue": "Gila River Arena",
-      "gear": "CA-11s",
-      "taper": "tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-11s \u00b7 tapeworm48"
     },
     {
       "year": 2022,
@@ -74,10 +70,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oakland Arena",
-      "gear": "CA-11s",
-      "taper": "tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-11s \u00b7 tapeworm48"
     },
     {
       "year": 2022,
@@ -88,10 +83,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oakland Arena",
-      "gear": "CA-11s",
-      "taper": "tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-11s \u00b7 tapeworm48"
     },
     {
       "year": 2022,
@@ -102,10 +96,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fresno, CA",
       "venue": "Save Mart Center",
-      "gear": "CA-11s",
-      "taper": "tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-11s \u00b7 tapeworm48"
     }
   ]
 };

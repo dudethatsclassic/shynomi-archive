@@ -24,10 +24,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "Blue Note",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -38,10 +37,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "Blue Note",
-      "gear": "",
-      "taper": "shane stacy",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "shane stacy"
     },
     {
       "year": 1989,
@@ -52,10 +50,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Cicero's",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -66,10 +63,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Cicero's",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -80,10 +76,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Cicero's",
-      "gear": "",
-      "taper": "shane stacy",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "shane stacy"
     },
     {
       "year": 1989,
@@ -94,10 +89,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Cicero's",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1990,
@@ -108,10 +102,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "KCOU Studios",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1990,
@@ -122,10 +115,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Live on Heat with John Hockenberry (NPR Radio)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1990,
@@ -136,10 +128,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Orange, NJ",
       "venue": "WFMU - Acoustic Radio Broadcast",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1990,
@@ -150,10 +141,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Off Broadway",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1990,
@@ -164,10 +154,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Bloomington, IN",
       "venue": "Jake's",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1990,
@@ -178,10 +167,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Chapel Hill, NC",
       "venue": "Cat's Cradle",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1990,
@@ -192,10 +180,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Cicero's",
-      "gear": "",
-      "taper": "Audio Technica",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Audio Technica"
     },
     {
       "year": 1990,
@@ -206,10 +193,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "The Blue Note",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -220,10 +206,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "The Blue Note",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "Upgrade"
+      "format": "Upgrade",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -234,10 +219,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "WMBR - Acoustic In-studio",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -248,10 +232,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "88.1",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -262,10 +245,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "KDHX Studios",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -276,10 +258,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Live at Mississippi",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -290,10 +271,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Charlottesville, VA",
       "venue": "Trax",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -304,10 +284,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -318,10 +297,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "Charlie's Tap",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -332,10 +310,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Bloomington, IN",
       "venue": "Jake's",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -346,10 +323,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Club Lingerie",
-      "gear": "",
-      "taper": "JEMS 2021 transfer",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "JEMS 2021 transfer"
     },
     {
       "year": 1991,
@@ -360,10 +336,9 @@ const ARTIST_DATA = {
       "state": "MS",
       "location": "Oxford, MS",
       "venue": "Lafayette's",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -374,10 +349,9 @@ const ARTIST_DATA = {
       "state": "MS",
       "location": "Oxford, MS",
       "venue": "Lafayette's",
-      "gear": "",
-      "taper": "mr pember",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "mr pember"
     },
     {
       "year": 1992,
@@ -388,10 +362,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "Gabe's",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -402,10 +375,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Paradise",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -416,10 +388,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Club Babyhead",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -430,10 +401,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Toad's Place",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -444,10 +414,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Staches",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -458,10 +427,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
-      "gear": "",
-      "taper": "tennessee jed",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "tennessee jed"
     },
     {
       "year": 1992,
@@ -472,10 +440,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Beloit, WI",
       "venue": "Beloit College",
-      "gear": "",
-      "taper": "mr. pember upgrade",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "mr. pember upgrade"
     },
     {
       "year": 1992,
@@ -486,10 +453,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -500,10 +466,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
-      "gear": "",
-      "taper": "jeff s.",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "jeff s."
     },
     {
       "year": 1992,
@@ -514,10 +479,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Odense, Denmark",
       "venue": "Rocks",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -528,10 +492,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Loppen",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -542,10 +505,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Frankfurt, Germany",
       "venue": "Batschkapp",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -556,10 +518,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Nachtwork",
-      "gear": "andreas",
-      "taper": "with interview",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": "andreas \u00b7 with interview"
     },
     {
       "year": 1992,
@@ -570,10 +531,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Nachtwork",
-      "gear": "andreas",
-      "taper": "mr. pember upgrade",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "andreas \u00b7 mr. pember upgrade"
     },
     {
       "year": 1992,
@@ -584,10 +544,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Koln, Germany",
       "venue": "Stadthalle",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -598,10 +557,9 @@ const ARTIST_DATA = {
       "state": "Holland",
       "location": "Amsterdam, Holland",
       "venue": "Melkweg - ANA",
-      "gear": "1",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "1 \u00b7 Unknown"
     },
     {
       "year": 1993,
@@ -612,10 +570,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -626,10 +583,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Kridthuset",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -640,10 +596,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -654,10 +609,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
-      "gear": "",
-      "taper": "presented by Jan Poulsen",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": "presented by Jan Poulsen"
     },
     {
       "year": 1993,
@@ -668,10 +622,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
-      "gear": "",
-      "taper": "shane stacy",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": "shane stacy"
     },
     {
       "year": 1993,
@@ -682,10 +635,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Bologna, Italy",
       "venue": "Villa Delle Rose",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -696,10 +648,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Tonder, Denmark",
       "venue": "Papeigojevej",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -710,10 +661,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Tonder, Denmark",
       "venue": "Papeigojevej",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Unknown"
     },
     {
       "year": 1993,
@@ -724,10 +674,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Tonder, Denmark",
       "venue": "Tonder Festival",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Unknown"
     },
     {
       "year": 1993,
@@ -738,10 +687,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Odense, Denmark",
       "venue": "Rytmeposten",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Unknown"
     },
     {
       "year": 1993,
@@ -752,10 +700,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Kafe Rust",
-      "gear": "Aiwa mics",
-      "taper": "andreas",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Aiwa mics \u00b7 andreas"
     },
     {
       "year": 1993,
@@ -766,10 +713,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Kafe Rust",
-      "gear": "",
-      "taper": "ECM-S220 + ECM-155",
       "version": "MIX",
-      "format": ""
+      "format": "",
+      "notes": "ECM-S220 + ECM-155"
     },
     {
       "year": 1993,
@@ -780,10 +726,9 @@ const ARTIST_DATA = {
       "state": "DK",
       "location": "Copenhagen, DK",
       "venue": "Cafe Rust",
-      "gear": "",
-      "taper": "ECM-S220 + Aiwa Mics",
       "version": "MIX",
-      "format": ""
+      "format": "",
+      "notes": "ECM-S220 + Aiwa Mics"
     },
     {
       "year": 1993,
@@ -794,10 +739,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Bloomington, IN",
       "venue": "Scotty's Pub",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -808,10 +752,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -822,10 +765,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's - ANA(M)",
-      "gear": "ECM-909",
-      "taper": "tjcruz",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "ECM-909 \u00b7 tjcruz"
     },
     {
       "year": 1993,
@@ -836,10 +778,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -850,10 +791,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -864,10 +804,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Charlottesville, VA",
       "venue": "Trax",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -878,10 +817,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Toad's Place",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -892,10 +830,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
-      "gear": "",
-      "taper": "jeff s.",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "jeff s."
     },
     {
       "year": 1994,
@@ -906,10 +843,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax *Halls of Shame",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "2 sources"
+      "format": "2 sources",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -920,10 +856,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "World Cafe",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -934,10 +869,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Normal, IL",
       "venue": "Unknown Venue",
-      "gear": "",
-      "taper": "inc",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "inc"
     },
     {
       "year": 1994,
@@ -948,10 +882,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Normal, IL",
       "venue": "The Quad - ANA",
-      "gear": "1",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "1 \u00b7 Unknown"
     },
     {
       "year": 1994,
@@ -962,10 +895,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "The Blue Note",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -976,10 +908,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "The Blue Note - DAT(M) (CSB)",
-      "gear": "mrpember",
-      "taper": "remaster",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "mrpember \u00b7 remaster"
     },
     {
       "year": 1994,
@@ -990,10 +921,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "The Blue Note",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1004,10 +934,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "The Blue Note",
-      "gear": "",
-      "taper": "new SBD-AUD mix",
       "version": "MIX",
-      "format": ""
+      "format": "",
+      "notes": "new SBD-AUD mix"
     },
     {
       "year": 1994,
@@ -1018,10 +947,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -1032,10 +960,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Night",
-      "gear": "new sbd-aud mix",
-      "taper": "mrpember",
       "version": "MTX",
-      "format": ""
+      "format": "",
+      "notes": "new sbd-aud mix \u00b7 mrpember"
     },
     {
       "year": 1994,
@@ -1046,10 +973,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
-      "gear": "",
-      "taper": "Final Show",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "Final Show"
     },
     {
       "year": 1994,
@@ -1060,10 +986,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
-      "gear": "new sbd-aud mix",
-      "taper": "mrpember",
       "version": "MTX",
-      "format": ""
+      "format": "",
+      "notes": "new sbd-aud mix \u00b7 mrpember"
     }
   ]
 };

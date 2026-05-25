@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Rollerworks, 9400 Oso Ave - VHS",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "M \u00b7 Unknown"
     }
   ]
 };

@@ -24,10 +24,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Deep Ellum - ANA",
-      "gear": "",
-      "taper": "x",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x"
     },
     {
       "year": 1997,
@@ -38,10 +37,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "Gabe's Oasis",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1998,
@@ -52,10 +50,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Pontiac, MI",
       "venue": "Clutch Cargo's",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1998,
@@ -66,10 +63,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "WBCN Studios and More",
-      "gear": "",
-      "taper": "FM + Fillers",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "FM + Fillers"
     },
     {
       "year": 1998,
@@ -80,10 +76,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Graffiti Lounge",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1998,
@@ -94,10 +89,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore - DAT",
-      "gear": "M",
-      "taper": "CPS Transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 CPS Transfer"
     },
     {
       "year": 1998,
@@ -108,10 +102,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom - ANA",
-      "gear": "x",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x \u00b7 Unknown"
     },
     {
       "year": 1998,
@@ -122,10 +115,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -136,10 +128,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Incognito",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -150,10 +141,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rome, NY",
       "venue": "Woodstock 99 - East Stage",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -164,10 +154,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Auburn Hills, MI",
       "venue": "The Palace of Auburn Hills",
-      "gear": "ECM-MS907",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-MS907 \u00b7 live2cd"
     },
     {
       "year": 1999,
@@ -178,10 +167,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "Freeman Coliseum",
-      "gear": "SFX Radio Network",
-      "taper": "Unknown",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SFX Radio Network \u00b7 Unknown"
     },
     {
       "year": 2000,
@@ -192,10 +180,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "West Palm Beach, FL",
       "venue": "Mars Music Amphitheater - VHS",
-      "gear": "x",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "x \u00b7 Unknown"
     },
     {
       "year": 2002,
@@ -206,10 +193,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Compaq Center",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2002,
@@ -220,10 +206,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Air Canada Centre",
-      "gear": "Sony WM-DC3",
-      "taper": "bowlingron",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-DC3 \u00b7 bowlingron"
     },
     {
       "year": 2002,
@@ -234,10 +219,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hershey PA",
       "venue": "Hershey Stadium *By The Light of the Silvery Moon",
-      "gear": "",
-      "taper": "SMP-005",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SMP-005"
     },
     {
       "year": 2024,
@@ -248,10 +232,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Port Canaveral, FL",
       "venue": "Pool Deck Mainstage - Norwegian Jade - SUMMER OF 99",
-      "gear": "Edirol R09",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R09 \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -262,10 +245,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Pelham, AL",
       "venue": "Oak Mountain Amphitheatre",
-      "gear": "Schoeps MK4",
-      "taper": "jesse mc",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4 \u00b7 jesse mc"
     },
     {
       "year": 2024,
@@ -276,10 +258,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Wheatland, CA",
       "venue": "Toyota Amphitheatre",
-      "gear": "SP-CMC-4U",
-      "taper": "vibrioidexire",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-4U \u00b7 vibrioidexire"
     },
     {
       "year": 2025,
@@ -290,10 +271,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Norwegian Gem",
       "venue": "Summer of 99 Cruise -Pool Deck",
-      "gear": "Edirol R09HR",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R09HR \u00b7 Unknown"
     },
     {
       "year": 2025,
@@ -304,10 +284,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Club -  Stagecoach Festival 2025",
-      "gear": "",
-      "taper": "1080p",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": "1080p"
     },
     {
       "year": 2025,
@@ -318,10 +297,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Schottenstein Center",
-      "gear": "SP-CMC-8",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 live2cd"
     }
   ]
 };

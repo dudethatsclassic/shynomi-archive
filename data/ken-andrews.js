@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Magic Stick (Ken Andrews)",
-      "gear": "CA STC-9000",
-      "taper": "paramnesiac",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA STC-9000 \u00b7 paramnesiac"
     },
     {
       "year": 2007,
@@ -32,10 +31,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Troubadour (Ken Andrews)",
-      "gear": "Schoeps MK4",
-      "taper": "jon koch",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK4 \u00b7 jon koch"
     }
   ]
 };

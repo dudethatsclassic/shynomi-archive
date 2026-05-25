@@ -21,10 +21,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tuscon, AZ",
       "venue": "Solar Culture",
-      "gear": "SS-DSM6P",
-      "taper": "arnold leal",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS-DSM6P \u00b7 arnold leal"
     },
     {
       "year": 2003,
@@ -35,10 +34,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Mercury",
-      "gear": "",
-      "taper": "andrew fogelsong",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "andrew fogelsong"
     },
     {
       "year": 2003,
@@ -49,10 +47,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Magic Stick",
-      "gear": "Sony ECM-717",
-      "taper": "quami",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Sony ECM-717 \u00b7 quami"
     },
     {
       "year": 2003,
@@ -63,10 +60,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "7th Street Entry",
-      "gear": "",
-      "taper": "chris gacek",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "chris gacek"
     },
     {
       "year": 2003,
@@ -77,10 +73,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Morning Becomes Eclectic - KCRW",
-      "gear": "",
-      "taper": "",
       "version": "WEB",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -91,10 +86,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW Rebroadcast of 5-6-2003",
-      "gear": "",
-      "taper": "Real Audio 8",
       "version": "WEB",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Real Audio 8"
     },
     {
       "year": 2013,
@@ -105,10 +99,9 @@ const ARTIST_DATA = {
       "state": "MI, USA - The Fillmore",
       "location": "Detroit, MI, USA - The Fillmore",
       "venue": "DAT(M)",
-      "gear": "Sennheiser G2 B",
-      "taper": "mitaper78",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sennheiser G2 B \u00b7 mitaper78"
     },
     {
       "year": 2013,
@@ -119,10 +112,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Fillmore",
-      "gear": "Sony ECM-717",
-      "taper": "ryanj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-717 \u00b7 ryanj"
     },
     {
       "year": 2023,
@@ -133,10 +125,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Anthem",
-      "gear": "CA-14",
-      "taper": "majintrunkz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14 \u00b7 majintrunkz"
     },
     {
       "year": 2023,
@@ -147,10 +138,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Westville Music Bowl",
-      "gear": "Slint Lavs",
-      "taper": "tapir jon",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Slint Lavs \u00b7 tapir jon"
     },
     {
       "year": 2023,
@@ -161,10 +151,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Douglass Park - Riot Fest",
-      "gear": "Schoeps MK41s",
-      "taper": "tj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK41s \u00b7 tj"
     },
     {
       "year": 2023,
@@ -175,10 +164,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Salt Shed",
-      "gear": "AT943",
-      "taper": "englishskylarking",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT943 \u00b7 englishskylarking"
     },
     {
       "year": 2024,
@@ -189,10 +177,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Coastal Credit Union Music Park",
-      "gear": "iPhone 13 Pro",
-      "taper": "shynomi",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "iPhone 13 Pro \u00b7 shynomi"
     },
     {
       "year": 2024,
@@ -203,10 +190,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "MVP Arena",
-      "gear": "Naiant XR",
-      "taper": "tapir jon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Naiant XR \u00b7 tapir jon"
     },
     {
       "year": 2024,
@@ -217,10 +203,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Miller High Life Theatre",
-      "gear": "Zoom iQ7",
-      "taper": "poul0004",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom iQ7 \u00b7 poul0004"
     }
   ]
 };

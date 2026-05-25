@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "global voodoo",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "global voodoo"
     }
   ]
 };

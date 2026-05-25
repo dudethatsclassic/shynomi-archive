@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "St. Pete, FL",
       "venue": "Jannus Live",
-      "gear": "",
-      "taper": "blokus",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "blokus"
     }
   ]
 };

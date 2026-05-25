@@ -23,10 +23,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Split Rail",
-      "gear": "Sonic Studios",
-      "taper": "markp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sonic Studios \u00b7 markp"
     },
     {
       "year": 1998,
@@ -37,10 +36,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Rathskeller - University of WI",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2008,
@@ -51,10 +49,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
-      "gear": "Peluso CEMC-6-CK4",
-      "taper": "larry tucker",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Peluso CEMC-6-CK4 \u00b7 larry tucker"
     },
     {
       "year": 2011,
@@ -65,10 +62,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Greenfield, MA",
       "venue": "Green River Festival",
-      "gear": "Zoom H2",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H2 \u00b7 Unknown"
     },
     {
       "year": 2014,
@@ -79,10 +75,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Annapolis, MD",
       "venue": "Annapolis Smokehouse and Tavern",
-      "gear": "MBHO603A-KA200",
-      "taper": "kubacheck",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MBHO603A-KA200 \u00b7 kubacheck"
     },
     {
       "year": 2026,
@@ -93,10 +88,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "930 Club",
-      "gear": "Gefell MV400L",
-      "taper": "alex leary",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Gefell MV400L \u00b7 alex leary"
     }
   ]
 };

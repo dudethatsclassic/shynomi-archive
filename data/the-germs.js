@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood , CA",
       "venue": "Hong Kong Cafe",
-      "gear": "",
-      "taper": "djm5000",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "djm5000"
     },
     {
       "year": 1980,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Redondo Beach, CA",
       "venue": "Club Fleetwood",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1980,
@@ -47,10 +45,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Redondo Beach, CA",
       "venue": "Club Fleetwood",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1980,
@@ -61,10 +58,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "The Starwood",
-      "gear": "",
-      "taper": "Rhino RHM2 524568",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Rhino RHM2 524568"
     }
   ]
 };

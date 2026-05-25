@@ -59,10 +59,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Old Waldorf",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1982,
@@ -73,10 +72,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Downey, CA",
       "venue": "Rehearsal's in McGovney's Garage",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -87,10 +85,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "No Remorse - One song",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1982,
@@ -101,10 +98,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Stone",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1982,
@@ -115,10 +111,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Stone",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1982,
@@ -129,10 +124,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Old Waldorf *Live Before Death Part 1",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1982,
@@ -143,10 +137,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Old Waldorf *Obsession 1982-83",
-      "gear": "",
-      "taper": "Source 4",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 4"
     },
     {
       "year": 1982,
@@ -157,10 +150,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Old Waldorf *Night of the Rivvit Heads",
-      "gear": "",
-      "taper": "Ms500 \u00b7 Source 6",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ms500 \u00b7 Source 6"
     },
     {
       "year": 1982,
@@ -171,10 +163,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Old Waldorf",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1982,
@@ -185,10 +176,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Old Waldorf",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1982,
@@ -199,10 +189,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Mabuhay Gardens",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1983,
@@ -213,10 +202,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Stone *Cliff's First Show",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1983,
@@ -227,10 +215,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Stone",
-      "gear": "",
-      "taper": "Bubba420",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Bubba420"
     },
     {
       "year": 1983,
@@ -241,10 +228,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Stone",
-      "gear": "",
-      "taper": "Demolition",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Demolition"
     },
     {
       "year": 1983,
@@ -255,10 +241,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Staten Island, NY",
       "venue": "Paramount Theater",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1983,
@@ -269,10 +254,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "L'Ampour *Dave Mustaine's last show",
-      "gear": "",
-      "taper": "Realistic Mic \u00b7 Dave Jr.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Realistic Mic \u00b7 Dave Jr."
     },
     {
       "year": 1983,
@@ -283,10 +267,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Staten Island, NY",
       "venue": "Paramount Theater",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1983,
@@ -297,10 +280,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Yonkers, NY",
       "venue": "Rising Sun *Long Live Music",
-      "gear": "",
-      "taper": "Llm018",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Llm018"
     },
     {
       "year": 1983,
@@ -311,10 +293,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Elmhurst, NY",
       "venue": "L'Amour East",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1983,
@@ -325,10 +306,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Balitmore, MD",
       "venue": "Coast to Coast",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1983,
@@ -339,10 +319,9 @@ const ARTIST_DATA = {
       "state": "NM",
       "location": "Las Cruces, NM",
       "venue": "Corbett Center Ballroom",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "APE"
+      "format": "APE",
+      "notes": ""
     },
     {
       "year": 1983,
@@ -353,10 +332,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Reseda, CA",
       "venue": "Country Club",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1983,
@@ -367,10 +345,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Reseda, CA",
       "venue": "Country Club",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1983,
@@ -381,10 +358,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Stone",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1983,
@@ -395,10 +371,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Broadway Jack's",
-      "gear": "",
-      "taper": "Early Show \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Early Show \u00b7 Unknown"
     },
     {
       "year": 1983,
@@ -409,10 +384,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Broadway Jack's",
-      "gear": "Late show",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Late show \u00b7 Unknown"
     },
     {
       "year": 1983,
@@ -423,10 +397,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Agora",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1983,
@@ -437,10 +410,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Agora",
-      "gear": "",
-      "taper": "Vinyl-sourced",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Vinyl-sourced"
     },
     {
       "year": 1983,
@@ -451,10 +423,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Agora",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1983,
@@ -465,10 +436,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Aberdeen, NJ",
       "venue": "Fountain Casino",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1984,
@@ -479,10 +449,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milan, Italy",
       "venue": "Teatro Tenda",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1984,
@@ -493,10 +462,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Neunkirchen Am Brand, Germany",
       "venue": "Hemmerleinhalle",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -507,10 +475,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Escape Ballard",
-      "gear": "",
-      "taper": "Bubba420 Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Bubba420 Transfer"
     },
     {
       "year": 1984,
@@ -521,10 +488,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Escape Ballard",
-      "gear": "",
-      "taper": "Ranskal Transfer \u00b7 Source 2",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ranskal Transfer \u00b7 Source 2"
     },
     {
       "year": 1984,
@@ -535,10 +501,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zwolle, The Netherlands",
       "venue": "Ijsselhallen",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -549,10 +514,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "The Marquee Club",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -563,10 +527,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "The Marquee Club",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -577,10 +540,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Leiden, Holland",
       "venue": "Stadsgehoorzaal",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -591,10 +553,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Frankfurt, Germany",
       "venue": "Volksbildungsheim",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -605,10 +566,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oldenzaal, Holland",
       "venue": "Jumbo",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -619,10 +579,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zwaagwesteinde, The Netherlands",
       "venue": "Evenementhehal",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -633,10 +592,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Mabuhay Gardens",
-      "gear": "",
-      "taper": "Secret Gig As The Four Horsemen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Secret Gig As The Four Horsemen"
     },
     {
       "year": 1984,
@@ -647,10 +605,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -661,10 +618,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Le Bourget, France",
       "venue": "A?roport du Bourget - Breaking Sound Festival",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -675,10 +631,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Poperinge, Belgium",
       "venue": "Maecke Blyde",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -689,10 +644,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Espace Ballard",
-      "gear": "",
-      "taper": "Ranskal Transfer \u00b7 Source 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ranskal Transfer \u00b7 Source 2"
     },
     {
       "year": 1984,
@@ -703,10 +657,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Espace Ballard",
-      "gear": "",
-      "taper": "Stephane D. \u00b7 Source 3",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Stephane D. \u00b7 Source 3"
     },
     {
       "year": 1984,
@@ -717,10 +670,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Villeurbanne, France",
       "venue": "Palais D'Hiver",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -731,10 +683,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Marseilles, France",
       "venue": "Le Stadium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -745,10 +696,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toulouse, France",
       "venue": "Le Riff",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1984,
@@ -759,10 +709,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bordeaux, France",
       "venue": "Salle des fetes du Grand Parc",
-      "gear": "",
-      "taper": "J-c.b.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "J-c.b."
     },
     {
       "year": 1984,
@@ -773,10 +722,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nice, France",
       "venue": "Theatre de Verdure",
-      "gear": "",
-      "taper": "Source 1 \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 1 \u00b7 Unknown"
     },
     {
       "year": 1984,
@@ -787,10 +735,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mainz, Germany",
       "venue": "Eltzer Hof",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -801,10 +748,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mainz, Germany",
       "venue": "Elzer Hof",
-      "gear": "",
-      "taper": "Source 2 - Cee4 \u00b7 Vinyl-sourced",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 - Cee4 \u00b7 Vinyl-sourced"
     },
     {
       "year": 1984,
@@ -815,10 +761,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nuremburg, Germany",
       "venue": "Neunkirchen Am Brand - Hemmerleinhalle",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -829,10 +774,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mannheim, Germany",
       "venue": "Kulturhaus",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -843,10 +787,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sindelfingen, Germany",
       "venue": "Ausstellungshalle *Thrashing Thru Europe '84",
-      "gear": "",
-      "taper": "Ftpcd 001",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ftpcd 001"
     },
     {
       "year": 1984,
@@ -857,10 +800,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cologne, Germany",
       "venue": "Stadthalle K?ln-M?lheim *The Capn's of Crunch",
-      "gear": "",
-      "taper": "Cd Pro 14",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Cd Pro 14"
     },
     {
       "year": 1984,
@@ -871,10 +813,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, Holland",
       "venue": "Paradiso Grote Zaal",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -885,10 +826,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Osnabruck, Germany",
       "venue": "Halle Garlage",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -899,10 +839,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Markthalle",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -913,10 +852,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Saga",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -927,10 +865,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, Sweden",
       "venue": "Gota Lejon *Win, Lose, or Draw",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1984,
@@ -941,10 +878,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Lyceum Theatre *Live Before Death Pt. 2",
-      "gear": "",
-      "taper": "Lscd 51037",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Lscd 51037"
     },
     {
       "year": 1984,
@@ -955,10 +891,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Lyceum Theatre",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1985,
@@ -969,10 +904,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Darby's",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1985,
@@ -983,10 +917,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Coast to Coast",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1985,
@@ -997,10 +930,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montreal, Ontario",
       "venue": "The Spectrum",
-      "gear": "",
-      "taper": "Bubba420 Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Bubba420 Transfer"
     },
     {
       "year": 1985,
@@ -1011,10 +943,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montreal, Ontario",
       "venue": "The Spectrum",
-      "gear": "",
-      "taper": "Smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Smores"
     },
     {
       "year": 1985,
@@ -1025,10 +956,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Salty Dog Skyroom",
-      "gear": "",
-      "taper": "Inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Inc"
     },
     {
       "year": 1985,
@@ -1039,10 +969,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "L'Amour",
-      "gear": "",
-      "taper": "Unknown \u00b7 Bubba420 Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Bubba420 Transfer"
     },
     {
       "year": 1985,
@@ -1053,10 +982,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Annie's Riverside Saloon",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1985,
@@ -1067,10 +995,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Sherwood Country Club",
-      "gear": "",
-      "taper": "Unknown \u00b7 Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Jeff S. Transfer"
     },
     {
       "year": 1985,
@@ -1081,10 +1008,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Royal Oak, MI",
       "venue": "Royal Oak Music Theatre",
-      "gear": "Sony D6",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D6 \u00b7 Unknown"
     },
     {
       "year": 1985,
@@ -1095,10 +1021,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Headliners",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1985,
@@ -1109,10 +1034,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "The First Avenue",
-      "gear": "",
-      "taper": "Inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Inc"
     },
     {
       "year": 1985,
@@ -1123,10 +1047,9 @@ const ARTIST_DATA = {
       "state": "NM",
       "location": "Albuquerque, NM",
       "venue": "Grand Central Station",
-      "gear": "",
-      "taper": "Aiwa Tps30 \u00b7 Greg Anderson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa Tps30 \u00b7 Greg Anderson"
     },
     {
       "year": 1985,
@@ -1137,10 +1060,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Palladium",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1985,
@@ -1151,10 +1073,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Kabuki Theatre *Demonic Invocation",
-      "gear": "",
-      "taper": "Ironic 001",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ironic 001"
     },
     {
       "year": 1985,
@@ -1165,10 +1086,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Kabuki Theatre",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1985,
@@ -1179,10 +1099,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theatre",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1985,
@@ -1193,10 +1112,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vancouver, Canada",
       "venue": "Vancouver Theatre",
-      "gear": "",
-      "taper": "Hanzel Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Hanzel Transfer"
     },
     {
       "year": 1985,
@@ -1207,10 +1125,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Donington, UK",
       "venue": "Donington Park",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1985,
@@ -1221,10 +1138,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Ruthie's Inn",
-      "gear": "",
-      "taper": "Secret Gig Billed As The Four Horsemen \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Secret Gig Billed As The Four Horsemen \u00b7 Unknown"
     },
     {
       "year": 1985,
@@ -1235,10 +1151,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oakland Coliseum Stadium *Day on the Green",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1985,
@@ -1249,10 +1164,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Alameda County Coliseum",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1985,
@@ -1263,10 +1177,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "St. Goarshausen, Germany",
       "venue": "Freilichtb?hne Loreley - Loreley Metal Hammer Festival",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1985,
@@ -1277,10 +1190,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Civic Center",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1986,
@@ -1291,10 +1203,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Wichita, KS",
       "venue": "Kansas Coliseum",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1986,
@@ -1305,10 +1216,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Cobo Arena",
-      "gear": "Sony D6",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D6"
     },
     {
       "year": 1986,
@@ -1319,10 +1229,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Cobo Arena",
-      "gear": "",
-      "taper": "Otto W. \u00b7 Rzk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Otto W. \u00b7 Rzk"
     },
     {
       "year": 1986,
@@ -1333,10 +1242,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "MECCA",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1986,
@@ -1347,10 +1255,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Market Square Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1361,10 +1268,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Richfield Coliseum",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1375,10 +1281,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Spectrum *Pounding Out Aggression",
-      "gear": "",
-      "taper": "Ftpcd002",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ftpcd002"
     },
     {
       "year": 1986,
@@ -1389,10 +1294,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Brendan Byrne Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1403,10 +1307,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum *Upshot LP \"The Ultimate Experience\"",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1417,10 +1320,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum",
-      "gear": "",
-      "taper": "No Leaf Clover Productions",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "No Leaf Clover Productions"
     },
     {
       "year": 1986,
@@ -1431,10 +1333,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Johnson City, TN",
       "venue": "Freedom Hall",
-      "gear": "Sony WM-W800",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-W800"
     },
     {
       "year": 1986,
@@ -1445,10 +1346,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "El Paso, TX",
       "venue": "The Coliseum *Puppets in El Paso",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1459,10 +1359,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "El Paso, TX /The Coliseum *Metal, Inc. (rockandrollchuck remaster)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1473,10 +1372,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Tulsa, OK",
       "venue": "Cain's Ballroom",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1986,
@@ -1487,10 +1385,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Cape Girardeau, MO",
       "venue": "A.C. Brase Arena",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1501,10 +1398,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Des Moines, IA",
       "venue": "Iowa State Fair",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1515,10 +1411,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Orpheum Theatre",
-      "gear": "",
-      "taper": "3rd Gen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "3rd Gen"
     },
     {
       "year": 1986,
@@ -1529,10 +1424,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Davenport, IA",
       "venue": "Coliseum Ballroom *The Wild Bunch",
-      "gear": "",
-      "taper": "Rocks 92073",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Rocks 92073"
     },
     {
       "year": 1986,
@@ -1543,10 +1437,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Cow Palace",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1557,10 +1450,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Daly City, CA",
       "venue": "Cow Palace",
-      "gear": "",
-      "taper": "Source 3 - Rushfan",
       "version": "AUD (96k)",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Source 3 - Rushfan"
     },
     {
       "year": 1986,
@@ -1571,10 +1463,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1585,10 +1476,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Hoffman Estates, IL",
       "venue": "Poplar Creek Music Theater",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1599,10 +1489,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Fort Wayne, IN",
       "venue": "Fort Wayne Coliseum",
-      "gear": "",
-      "taper": "Ranskal Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ranskal Transfer"
     },
     {
       "year": 1986,
@@ -1613,10 +1502,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Clarkston, MI",
       "venue": "Pine Knob Music Theatre",
-      "gear": "Sony D6",
-      "taper": "Dave _jr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D6 \u00b7 Dave _jr"
     },
     {
       "year": 1986,
@@ -1627,10 +1515,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Chattanooga, TN",
       "venue": "UTC Arena",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1986,
@@ -1641,10 +1528,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Civic Coliseum",
-      "gear": "",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "The Govner"
     },
     {
       "year": 1986,
@@ -1655,10 +1541,9 @@ const ARTIST_DATA = {
       "state": "WV",
       "location": "Charleston, WV",
       "venue": "Civic Center *Fuck",
-      "gear": "",
-      "taper": "Vinyl Rip",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Vinyl Rip"
     },
     {
       "year": 1986,
@@ -1669,10 +1554,9 @@ const ARTIST_DATA = {
       "state": "WV",
       "location": "Charleston, WV",
       "venue": "Civic Center",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1986,
@@ -1683,10 +1567,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Columbia, MD",
       "venue": "Meriweather Post Pavilion",
-      "gear": "",
-      "taper": "Inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Inc"
     },
     {
       "year": 1986,
@@ -1697,10 +1580,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Edinburgh, Scotland",
       "venue": "The Playhouse",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1711,10 +1593,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dublin, Ireland",
       "venue": "SFX Hall",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1725,10 +1606,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Manchester, England",
       "venue": "Apollo",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1739,10 +1619,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sheffield, England",
       "venue": "City Hall *Gig Addiction",
-      "gear": "",
-      "taper": "Remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Remaster"
     },
     {
       "year": 1986,
@@ -1753,10 +1632,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Sheffield, UK",
       "venue": "City Hall",
-      "gear": "Sony WMD6",
-      "taper": "Nelly-duke",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WMD6 \u00b7 Nelly-duke"
     },
     {
       "year": 1986,
@@ -1767,10 +1645,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "The Odeon",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1781,10 +1658,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Hammersmith Odeon",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1986,
@@ -1795,10 +1671,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Hammersmith Odeon",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1809,10 +1684,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lund, Sweden",
       "venue": "Olympen",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1823,10 +1697,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lillestrom, Norway",
       "venue": "Skedsmohallen",
-      "gear": "",
-      "taper": "Oh Rip",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Oh Rip"
     },
     {
       "year": 1986,
@@ -1837,10 +1710,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, Sweden",
       "venue": "Solnahallen",
-      "gear": "",
-      "taper": "1st Gen \u00b7 Per-erik",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Gen \u00b7 Per-erik"
     },
     {
       "year": 1986,
@@ -1851,10 +1723,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, Sweden",
       "venue": "Solnahallen",
-      "gear": "",
-      "taper": "Cliff's Last Show",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Cliff's Last Show"
     },
     {
       "year": 1986,
@@ -1865,10 +1736,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Reseda, CA",
       "venue": "The Country Club",
-      "gear": "",
-      "taper": "Jason's First Show",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jason's First Show"
     },
     {
       "year": 1986,
@@ -1879,10 +1749,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Jezebels",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1893,10 +1762,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Jezebels",
-      "gear": "",
-      "taper": "Version 3",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Version 3"
     },
     {
       "year": 1986,
@@ -1907,10 +1775,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "Shibuya Kokaido",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1921,10 +1788,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Osaka, Japan",
       "venue": "Festival Hall",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1935,10 +1801,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "Sun Plaza Hotel *Beyond the Gravestone",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1949,10 +1814,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Poughkeepsie, NY",
       "venue": "Mid-Hudson Civic Center *The Freak's Not Here",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -1963,10 +1827,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Poughkeepsie, NY",
       "venue": "Mid-Hudson Civic Center",
-      "gear": "",
-      "taper": "Source 2 - }{eywood \u00b7 Koondog",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Source 2 - }{eywood \u00b7 Koondog"
     },
     {
       "year": 1986,
@@ -1977,10 +1840,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Poughkeepsie, NY",
       "venue": "Mid-Hudson Civic Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 1986,
@@ -1991,10 +1853,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Felt Forum",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -2005,10 +1866,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Felt Forum *Assassin",
-      "gear": "",
-      "taper": "Vinyl-sourced",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Vinyl-sourced"
     },
     {
       "year": 1986,
@@ -2019,10 +1879,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Quebec City, Canada",
       "venue": "Pavillon de la Jeunesse",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -2033,10 +1892,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Winnipeg, Manitoba",
       "venue": "Payhouse Theatre *The Metal Masters",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -2047,10 +1905,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Seattle Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -2061,10 +1918,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Holstebro, Denmark",
       "venue": "Holstebrohalle",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -2075,10 +1931,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lyon, France",
       "venue": "La Bourse du Travail",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -2089,10 +1944,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Barcelona, Spain",
       "venue": "Sports Center",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -2103,10 +1957,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Real Madrid Pabellon",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -2117,10 +1970,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nice, France",
       "venue": "Theatre de Verdure",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -2131,10 +1983,9 @@ const ARTIST_DATA = {
       "state": "IT",
       "location": "Milano, IT",
       "venue": "Palatrussardi",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1987,
@@ -2145,10 +1996,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Essen, Germany",
       "venue": "Grughalle",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -2159,10 +2009,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Markthalle *Masters of Evil",
-      "gear": "LP",
-      "taper": "1st Night",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "LP \u00b7 1st Night"
     },
     {
       "year": 1987,
@@ -2173,10 +2022,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Offenbach, Germany",
       "venue": "Stadthalle",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -2187,10 +2035,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Ludwigshafen, Germany",
       "venue": "Friedrich-Ebert-Halle",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -2201,10 +2048,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Le Zenith",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -2215,10 +2061,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brussels, Belgium",
       "venue": "Forest National",
-      "gear": "",
-      "taper": "Haki Reumont",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Haki Reumont"
     },
     {
       "year": 1987,
@@ -2229,10 +2074,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zwolle, Holland",
       "venue": "IJsselhallen",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -2243,10 +2087,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Katowice, Poland",
       "venue": "Spodek",
-      "gear": "",
-      "taper": "2nd Night",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night"
     },
     {
       "year": 1987,
@@ -2257,10 +2100,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Frolundaborg *Fanatic Battery",
-      "gear": "",
-      "taper": "Meta 2001-2",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Meta 2001-2"
     },
     {
       "year": 1987,
@@ -2271,10 +2113,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Frolundaborg",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1987,
@@ -2285,10 +2126,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "100 Club",
-      "gear": "",
-      "taper": "Secret Gig Played As \"damage, Inc\" \u00b7 Koondog",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Secret Gig Played As \"damage, Inc\" \u00b7 Koondog"
     },
     {
       "year": 1987,
@@ -2299,10 +2139,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Donington Park, England",
       "venue": "1987 M.O.R.",
-      "gear": "",
-      "taper": "Marantz Em-8 \u00b7 Master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Marantz Em-8 \u00b7 Master"
     },
     {
       "year": 1987,
@@ -2313,10 +2152,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Pforzheim, Germany",
       "venue": "Monster of Rock",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2327,10 +2165,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Troubadour",
-      "gear": "",
-      "taper": "Secret Gig As \"frayed Ends\"",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Secret Gig As \"frayed Ends\""
     },
     {
       "year": 1988,
@@ -2341,10 +2178,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "East Troy, WI",
       "venue": "Alpine Valley",
-      "gear": "",
-      "taper": "1st Gen",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Gen"
     },
     {
       "year": 1988,
@@ -2355,10 +2191,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "East Troy, WI",
       "venue": "Alpine Valley",
-      "gear": "",
-      "taper": "Radio Shack Pzm",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Radio Shack Pzm"
     },
     {
       "year": 1988,
@@ -2369,10 +2204,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "RFK Stadium",
-      "gear": "",
-      "taper": "",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2383,10 +2217,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "RFK Stadium",
-      "gear": "",
-      "taper": "",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2397,10 +2230,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Foxboro, MA",
       "venue": "Sullivan Stadium",
-      "gear": "",
-      "taper": "Walkman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Walkman"
     },
     {
       "year": 1988,
@@ -2411,10 +2243,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Three Rivers Stadium",
-      "gear": "",
-      "taper": "Aiwa Portable \u00b7 Magnetic_media",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa Portable \u00b7 Magnetic_media"
     },
     {
       "year": 1988,
@@ -2425,10 +2256,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Pontiac, MI",
       "venue": "Pontiac Silverdome",
-      "gear": "Sony D6",
-      "taper": "Dave_jr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D6 \u00b7 Dave_jr"
     },
     {
       "year": 1988,
@@ -2439,10 +2269,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Rich Stadium",
-      "gear": "",
-      "taper": "",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2453,10 +2282,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Rich Stadium",
-      "gear": "",
-      "taper": "Bones420",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Bones420"
     },
     {
       "year": 1988,
@@ -2467,10 +2295,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Hoosierdome",
-      "gear": "Sony D-3 Pro",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-3 Pro \u00b7 The Govner"
     },
     {
       "year": 1988,
@@ -2481,10 +2308,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Candlestick Park",
-      "gear": "",
-      "taper": "2nd Gen \u00b7 Thomas Biglow",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "2nd Gen \u00b7 Thomas Biglow"
     },
     {
       "year": 1988,
@@ -2495,10 +2321,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Memorial Coliseum",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2509,10 +2334,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Casa de Campo",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2523,10 +2347,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toulon, France",
       "venue": "Culturel des Lices",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2537,10 +2360,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montpellier, France",
       "venue": "Le Zenith",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2551,10 +2373,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Edinburgh, Scotland",
       "venue": "Playhouse Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2565,10 +2386,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Bradford, UK",
       "venue": "St. George's Hall *Damaged British",
-      "gear": "",
-      "taper": "Langley Deluxe 021",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Langley Deluxe 021"
     },
     {
       "year": 1988,
@@ -2579,10 +2399,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Birmingham, England",
       "venue": "N.E.C.",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2593,10 +2412,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Belfast, Ireland",
       "venue": "Antrim Forum",
-      "gear": "",
-      "taper": "",
       "version": "CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2607,10 +2425,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Hammersmith Odeon",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2621,10 +2438,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Hammersmith Odeon",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2635,10 +2451,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Hammersmith Odeon",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2649,10 +2464,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "K.B. Hallen",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2663,10 +2477,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "J??halli",
-      "gear": "",
-      "taper": "Old Icehall",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Old Icehall"
     },
     {
       "year": 1988,
@@ -2677,10 +2490,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Frolundaborg",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2691,10 +2503,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Saarbrucken, Germany",
       "venue": "Saarlandhalle",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2705,10 +2516,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cologne, Germany",
       "venue": "Sporthalle",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2719,10 +2529,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dortmund, Germany",
       "venue": "Westfalenhalle",
-      "gear": "Aiwa CM-30A",
-      "taper": "Haki Reumont",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM-30A \u00b7 Haki Reumont"
     },
     {
       "year": 1988,
@@ -2733,10 +2542,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Le Zenith",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2747,10 +2555,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "Sports Arena",
-      "gear": "Sony D-3 Pro",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-3 Pro \u00b7 The Govner"
     },
     {
       "year": 1988,
@@ -2761,10 +2568,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Pavilion",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2775,10 +2581,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "MECCA Arena",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1988,
@@ -2789,10 +2594,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "MECCA Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2803,10 +2607,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Market Square Arena",
-      "gear": "Sony D-3 Pro",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-3 Pro \u00b7 The Govner"
     },
     {
       "year": 1988,
@@ -2817,10 +2620,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Cobo Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2831,10 +2633,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Municipal Auditorium",
-      "gear": "",
-      "taper": "Sousourn1823 Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sousourn1823 Transfer"
     },
     {
       "year": 1988,
@@ -2845,10 +2646,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Oklahoma, OK",
       "venue": "Myriad Convention Center",
-      "gear": "",
-      "taper": "Fex Rip",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Fex Rip"
     },
     {
       "year": 1988,
@@ -2859,10 +2659,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Sports Arena",
-      "gear": "Aiwa CM-30",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM-30"
     },
     {
       "year": 1988,
@@ -2873,10 +2672,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Long Beach, CA",
       "venue": "Long Beach Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -2887,10 +2685,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Cow Palace",
-      "gear": "Sony D3",
-      "taper": "Karl Lundmark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D3 \u00b7 Karl Lundmark"
     },
     {
       "year": 1988,
@@ -2901,10 +2698,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Arco Arena",
-      "gear": "Aiwa CM-30A",
-      "taper": "Karl Lundmark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM-30A \u00b7 Karl Lundmark"
     },
     {
       "year": 1988,
@@ -2915,10 +2711,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fresno, CA",
       "venue": "Selland Arena",
-      "gear": "",
-      "taper": "Robert",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Robert"
     },
     {
       "year": 1989,
@@ -2929,10 +2724,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "The Omni *Spastik Children",
-      "gear": "Aiwa CM30a",
-      "taper": "Karl Lundmark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM30a \u00b7 Karl Lundmark"
     },
     {
       "year": 1989,
@@ -2943,10 +2737,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "Convention Center",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -2957,10 +2750,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Frank Erwin Center",
-      "gear": "",
-      "taper": "Red 2-001",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Red 2-001"
     },
     {
       "year": 1989,
@@ -2971,10 +2763,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Frank Erwin Center",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1989,
@@ -2985,10 +2776,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Reunion Arena",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -2999,10 +2789,9 @@ const ARTIST_DATA = {
       "state": "AR",
       "location": "Little Rock, AR",
       "venue": "Barton Coliseum",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1989,
@@ -3013,10 +2802,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Lakeland, FL",
       "venue": "Civic Center",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -3027,10 +2815,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Daytona Beach, FL",
       "venue": "Ocean Center",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -3041,10 +2828,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Knight Center",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1989,
@@ -3055,10 +2841,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "West Palm Beach, FL",
       "venue": "Auditorium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -3069,10 +2854,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Jacksonville, FL",
       "venue": "Jacksonville Memorial Coliseum",
-      "gear": "",
-      "taper": "Toshiba Walkman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Toshiba Walkman"
     },
     {
       "year": 1989,
@@ -3083,10 +2867,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Greensboro, NC",
       "venue": "Greensboro Coliseum",
-      "gear": "",
-      "taper": "1st Gen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Gen"
     },
     {
       "year": 1989,
@@ -3097,10 +2880,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Shrine Auditorium *Damaged Justice '88 '89",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -3111,10 +2893,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Charlotte Coliseum",
-      "gear": "",
-      "taper": "Inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Inc"
     },
     {
       "year": 1989,
@@ -3125,10 +2906,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Savannah, GA",
       "venue": "Civic Center",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1989,
@@ -3139,10 +2919,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Civic Arena",
-      "gear": "Sony Walkman WM-F46",
-      "taper": "Jojogunne",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony Walkman WM-F46 \u00b7 Jojogunne"
     },
     {
       "year": 1989,
@@ -3153,10 +2932,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum",
-      "gear": "",
-      "taper": "After Hours Records",
       "version": "Vinyl",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "After Hours Records"
     },
     {
       "year": 1989,
@@ -3167,10 +2945,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Spectrum",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -3181,10 +2958,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Memorial Auditorium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -3195,10 +2971,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Civic Center",
-      "gear": "Sony WMD6",
-      "taper": "Tmt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WMD6 \u00b7 Tmt"
     },
     {
       "year": 1989,
@@ -3209,10 +2984,9 @@ const ARTIST_DATA = {
       "state": "NB",
       "location": "Moncton, NB",
       "venue": "Moncton Coliseum",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -3223,10 +2997,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Halifax, Nova Scotia",
       "venue": "Halifax Metro Center *Metal Masters",
-      "gear": "",
-      "taper": "Bc-200",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Bc-200"
     },
     {
       "year": 1989,
@@ -3237,10 +3010,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Battle Creek, MI",
       "venue": "Kellogg Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -3251,10 +3023,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Dayton, OH",
       "venue": "Hara Arena",
-      "gear": "Sony D-3 Pro Walkman",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-3 Pro Walkman \u00b7 The Govner"
     },
     {
       "year": 1989,
@@ -3265,10 +3036,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, Australia",
       "venue": "Festival Hall",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -3279,10 +3049,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "Yoyogi Olympic Pool *Fade To Black",
-      "gear": "",
-      "taper": "Lcd 126/2",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Lcd 126/2"
     },
     {
       "year": 1989,
@@ -3293,10 +3062,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Osaka, Japan",
       "venue": "Koseinkin Hall *Welcome to the Fun Palace",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -3307,10 +3075,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vancouver, Canada",
       "venue": "PNE Expo Park",
-      "gear": "",
-      "taper": "2nd Gen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Gen"
     },
     {
       "year": 1989,
@@ -3321,10 +3088,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Duluth, MN",
       "venue": "DECC Arena",
-      "gear": "Sony WMD6",
-      "taper": "Jf",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sony WMD6 \u00b7 Jf"
     },
     {
       "year": 1989,
@@ -3335,10 +3101,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Bloomington, MN",
       "venue": "Met Center",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -3349,10 +3114,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Ft. Wayne, IN",
       "venue": "Allen County Expo Center",
-      "gear": "Sony D-3 Pro Walkman",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-3 Pro Walkman \u00b7 The Govner"
     },
     {
       "year": 1988,
@@ -3363,10 +3127,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Deer Creek",
-      "gear": "Sony D-3 Pro Walkman",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-3 Pro Walkman \u00b7 The Govner"
     },
     {
       "year": 1989,
@@ -3377,10 +3140,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Clarkston, MI",
       "venue": "Pine Knob Music Theatre",
-      "gear": "Sony D-6",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-6"
     },
     {
       "year": 1989,
@@ -3391,10 +3153,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Hoffman Estates, IL",
       "venue": "Poplar Creek Music Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -3405,10 +3166,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Civic Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -3419,10 +3179,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Weedsport, NY",
       "venue": "Cayuga County Fairgrounds",
-      "gear": "",
-      "taper": "Digital_rich",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Digital_rich"
     },
     {
       "year": 1989,
@@ -3433,10 +3192,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Allentown, PA",
       "venue": "Fairgrounds",
-      "gear": "Schoeps CCM441 \u00b7 ted mattes",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps CCM441 \u00b7 ted mattes"
     },
     {
       "year": 1989,
@@ -3447,10 +3205,9 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Newark, DE",
       "venue": "Stone Balloon",
-      "gear": "Private show",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Private show"
     },
     {
       "year": 1989,
@@ -3461,10 +3218,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "The Summit",
-      "gear": "",
-      "taper": "1st Gen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Gen"
     },
     {
       "year": 1989,
@@ -3475,10 +3231,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "gear": "Aiwa CM30a",
-      "taper": "Karl Lundmark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM30a \u00b7 Karl Lundmark"
     },
     {
       "year": 1989,
@@ -3489,10 +3244,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Cal Expo Center",
-      "gear": "Aiwa CM 30a",
-      "taper": "Karl Lundmark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM 30a \u00b7 Karl Lundmark"
     },
     {
       "year": 1989,
@@ -3503,10 +3257,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows Amphitheatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -3517,10 +3270,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows Amphitheatre",
-      "gear": "",
-      "taper": "Source 1 - Bubba420",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 1 - Bubba420"
     },
     {
       "year": 1989,
@@ -3531,10 +3283,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows Amphitheatre",
-      "gear": "Aiwa CM 30a",
-      "taper": "Karl Lundmark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM 30a \u00b7 Karl Lundmark"
     },
     {
       "year": 1989,
@@ -3545,10 +3296,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows Amphitheatre",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1989,
@@ -3559,10 +3309,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows Amphitheatre",
-      "gear": "",
-      "taper": "Gentle_giant",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Gentle_giant"
     },
     {
       "year": 1989,
@@ -3573,10 +3322,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sa?o Paulo, BRA",
       "venue": "Gina?sio Estadual Geraldo Jose? De Almeida",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Bubba420",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Bubba420"
     },
     {
       "year": 1990,
@@ -3587,10 +3335,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dortmund, Germany",
       "venue": "Westfallenhalle",
-      "gear": "",
-      "taper": "Realistic P2m \u00b7 Bubba420",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Realistic P2m \u00b7 Bubba420"
     },
     {
       "year": 1990,
@@ -3601,10 +3348,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hannover, Germany",
       "venue": "Messehalle",
-      "gear": "",
-      "taper": "Gh Vinyl Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gh Vinyl Transfer"
     },
     {
       "year": 1990,
@@ -3615,10 +3361,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Leiden, Holland",
       "venue": "Groenoordhallen",
-      "gear": "",
-      "taper": "Realistic P2m \u00b7 Stephane",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Realistic P2m \u00b7 Stephane"
     },
     {
       "year": 1990,
@@ -3629,10 +3374,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Palais Omnisport de Bercy",
-      "gear": "Sony WMD6",
-      "taper": "Tommy G",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sony WMD6 \u00b7 Tommy G"
     },
     {
       "year": 1990,
@@ -3643,10 +3387,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Wembley Stadium",
-      "gear": "",
-      "taper": "Koondog",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Koondog"
     },
     {
       "year": 1990,
@@ -3657,10 +3400,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Birmingham, England",
       "venue": "N.E.C.",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -3671,10 +3413,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Petaluma, CA",
       "venue": "Phoenix Theater",
-      "gear": "",
-      "taper": "Karl Lundmark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Karl Lundmark"
     },
     {
       "year": 1991,
@@ -3685,10 +3426,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Castle Donington, UK",
       "venue": "Donington Park",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -3699,10 +3439,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Budapest, Hungary",
       "venue": "Nep Stadium",
-      "gear": "",
-      "taper": "Inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Inc"
     },
     {
       "year": 1991,
@@ -3713,10 +3452,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Basel, Switzerland",
       "venue": "Fussballstadion St. Jakob",
-      "gear": "",
-      "taper": "S.d.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "S.d."
     },
     {
       "year": 1991,
@@ -3727,10 +3465,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "Waldbuhne Amphitheatre",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1991,
@@ -3741,10 +3478,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hasselt, Belgium",
       "venue": "Hasselt Airfield",
-      "gear": "Aiwa CM30a",
-      "taper": "Stephane",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM30a \u00b7 Stephane"
     },
     {
       "year": 1991,
@@ -3755,10 +3491,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hannover, Germany",
       "venue": "Niedersachsenstadion",
-      "gear": "",
-      "taper": "Unknown \u00b7 Jeff S.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Jeff S."
     },
     {
       "year": 1991,
@@ -3769,10 +3504,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mainz, Germany",
       "venue": "Air Base",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1991,
@@ -3783,10 +3517,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Graz, Austria",
       "venue": "Liebenau",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1991,
@@ -3797,10 +3530,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Modena, Italy",
       "venue": "Modena Arena",
-      "gear": "",
-      "taper": "Koondog",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Koondog"
     },
     {
       "year": 1991,
@@ -3811,10 +3543,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dortmund, Germany",
       "venue": "Westfallenhalle",
-      "gear": "Sony WMD3",
-      "taper": "1st Night \u00b7 Stephane",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WMD3 \u00b7 1st Night \u00b7 Stephane"
     },
     {
       "year": 1991,
@@ -3825,10 +3556,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dortmund, Germany",
       "venue": "Westfallenhalle *Welcome Home",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Glr 9228",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Glr 9228"
     },
     {
       "year": 1991,
@@ -3839,10 +3569,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Hippodrome de Vincennes",
-      "gear": "Sony D7",
-      "taper": "Stephane",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sony D7 \u00b7 Stephane"
     },
     {
       "year": 1991,
@@ -3853,10 +3582,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Moscow, U.S.S.R.",
       "venue": "Tushino Air Field *Monsters of Rock - Russia '91",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -3867,10 +3595,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oakland-Alameda Stadium",
-      "gear": "",
-      "taper": "Hail_ozzy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Hail_ozzy"
     },
     {
       "year": 1991,
@@ -3881,10 +3608,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Dane County Arena",
-      "gear": "",
-      "taper": "Unknown \u00b7 Jeff S.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Jeff S."
     },
     {
       "year": 1991,
@@ -3895,10 +3621,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Muskegon, MI",
       "venue": "L.C. Walker Arena",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1991,
@@ -3909,10 +3634,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Auburn Hills, MI",
       "venue": "Palace - Motorcity Madness",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1991,
@@ -3923,10 +3647,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Palace of Auburn Hills",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -3937,10 +3660,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Palace of Auburn Hills",
-      "gear": "Sony DX2-13",
-      "taper": "Dave Jr. Master",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony DX2-13 \u00b7 Dave Jr. Master"
     },
     {
       "year": 1991,
@@ -3951,10 +3673,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Auburn Hills, MI",
       "venue": "Palace of Auburn Hills",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1991,
@@ -3965,10 +3686,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Bradley Center",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1991,
@@ -3979,10 +3699,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Cedar Rapids, IA",
       "venue": "Five Seasons Center",
-      "gear": "",
-      "taper": "Unknown \u00b7 Jeff S.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Jeff S."
     },
     {
       "year": 1991,
@@ -3993,10 +3712,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Green Bay, WI",
       "venue": "Brown County Arena",
-      "gear": "",
-      "taper": "Unknown \u00b7 Belexes",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Belexes"
     },
     {
       "year": 1991,
@@ -4007,10 +3725,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Maple Leaf Gardens",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1991,
@@ -4021,10 +3738,9 @@ const ARTIST_DATA = {
       "state": "PQ",
       "location": "Quebec City, PQ",
       "venue": "Colis?e de Qu?bec",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1991,
@@ -4035,10 +3751,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Market Square Arena",
-      "gear": "Sony D3 DATman",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D3 DATman \u00b7 The Govner"
     },
     {
       "year": 1991,
@@ -4049,10 +3764,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St Louis, MO",
       "venue": "St. Louis Arena",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1991,
@@ -4063,10 +3777,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Kemper Arena",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1991,
@@ -4077,10 +3790,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Richfield Coliseum",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1991,
@@ -4091,10 +3803,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Horizon",
-      "gear": "",
-      "taper": "Unknown \u00b7 Jeff S.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Jeff S."
     },
     {
       "year": 1991,
@@ -4105,10 +3816,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Horizon",
-      "gear": "",
-      "taper": "Unknown \u00b7 Jeff S.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Jeff S."
     },
     {
       "year": 1991,
@@ -4119,10 +3829,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum",
-      "gear": "",
-      "taper": "Koondog",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Koondog"
     },
     {
       "year": 1991,
@@ -4133,10 +3842,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "Centrum in Worcester",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1992,
@@ -4147,10 +3855,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Thomas Mack Center",
-      "gear": "Aiwa CM30a",
-      "taper": "Dennis Fuller",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Aiwa CM30a \u00b7 Dennis Fuller"
     },
     {
       "year": 1992,
@@ -4161,10 +3868,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "L.A. Forum",
-      "gear": "Aiwa CM30a",
-      "taper": "1st Night \u00b7 Dennis Fuller",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Aiwa CM30a \u00b7 1st Night \u00b7 Dennis Fuller"
     },
     {
       "year": 1992,
@@ -4175,10 +3881,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "L.A. Forum",
-      "gear": "Aiwa CM30a",
-      "taper": "2nd Night \u00b7 Karl Lundmark",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Aiwa CM30a \u00b7 2nd Night \u00b7 Karl Lundmark"
     },
     {
       "year": 1992,
@@ -4189,10 +3894,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Arco Arena",
-      "gear": "Aiwa CM30a",
-      "taper": "1st Night \u00b7 Karl Lundmark",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Aiwa CM30a \u00b7 1st Night \u00b7 Karl Lundmark"
     },
     {
       "year": 1992,
@@ -4203,10 +3907,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Arco Arena *Live In Concert",
-      "gear": "",
-      "taper": "2nd Night",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "2nd Night"
     },
     {
       "year": 1992,
@@ -4217,10 +3920,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Arco Arena",
-      "gear": "Nakamichi CM300",
-      "taper": "Markp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nakamichi CM300 \u00b7 Markp"
     },
     {
       "year": 1992,
@@ -4231,10 +3933,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Sports Arena *Pile of Live Shit",
-      "gear": "",
-      "taper": "1st Night",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night"
     },
     {
       "year": 1992,
@@ -4245,10 +3946,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Sports Arena",
-      "gear": "",
-      "taper": "1st Night",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night"
     },
     {
       "year": 1992,
@@ -4259,10 +3959,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Kiefer UNO Lakefront Arena *Posers Can't Headbang",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -4273,10 +3972,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Great Western Forum",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1992,
@@ -4287,10 +3985,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fresno, CA",
       "venue": "Selland Arena",
-      "gear": "",
-      "taper": "Robert",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Robert"
     },
     {
       "year": 1992,
@@ -4301,10 +3998,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Reno, NV",
       "venue": "Lawlor Events Center *Wherever We May Roam '92",
-      "gear": "2CD",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2CD"
     },
     {
       "year": 1992,
@@ -4315,10 +4011,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Knickerbocker Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -4329,10 +4024,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Miami Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -4343,10 +4037,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Spectrum",
-      "gear": "",
-      "taper": "Koondog",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Koondog"
     },
     {
       "year": 1992,
@@ -4357,10 +4050,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Brendan Byrne Arena",
-      "gear": "Sony WMD3",
-      "taper": "Meadowlands \u00b7 Koondog",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WMD3 \u00b7 Meadowlands \u00b7 Koondog"
     },
     {
       "year": 1992,
@@ -4371,10 +4063,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Binghampton, NY",
       "venue": "Broome County Arena",
-      "gear": "Sony WMD3",
-      "taper": "Koondog",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WMD3 \u00b7 Koondog"
     },
     {
       "year": 1992,
@@ -4385,10 +4076,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamilton, Ontario",
       "venue": "Copps Coliseum *Angel Heart",
-      "gear": "",
-      "taper": "Fsc 003 D",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Fsc 003 D"
     },
     {
       "year": 1992,
@@ -4399,10 +4089,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Cow Palace",
-      "gear": "Aiwa CM30a",
-      "taper": "Karl Lundmark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM30a \u00b7 Karl Lundmark"
     },
     {
       "year": 1992,
@@ -4413,10 +4102,9 @@ const ARTIST_DATA = {
       "state": "ND",
       "location": "Fargo, ND",
       "venue": "Bison Sports Arena",
-      "gear": "Sony WM-D3",
-      "taper": "Nikki Sixx Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-D3 \u00b7 Nikki Sixx Transfer"
     },
     {
       "year": 1992,
@@ -4427,10 +4115,9 @@ const ARTIST_DATA = {
       "state": "ND",
       "location": "Fargo, ND",
       "venue": "Bison Sports Arena - AUD(1)",
-      "gear": "",
-      "taper": "Phantom Lord-rzk-skymaster \u00b7 2nd Source",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Phantom Lord-rzk-skymaster \u00b7 2nd Source"
     },
     {
       "year": 1992,
@@ -4441,10 +4128,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Pacific Coliseum",
-      "gear": "Sony ECM PC-62 \u00b7 audioarchivist",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sony ECM PC-62 \u00b7 audioarchivist"
     },
     {
       "year": 1992,
@@ -4455,10 +4141,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Memorial Coliseum",
-      "gear": "",
-      "taper": "Heywood Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Heywood Transfer"
     },
     {
       "year": 1992,
@@ -4469,10 +4154,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Mobile, AL",
       "venue": "Mobile Civic Center *Puppets of Society",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -4483,10 +4167,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "Baton Rouge, LA",
       "venue": "LSU Assembley Center",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -4497,10 +4180,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Jackson, MI",
       "venue": "Mississippi Coliseum *All Hell Breaks Loose",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -4511,10 +4193,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Buckeye Lake",
-      "gear": "Sony D3 Walkman",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D3 Walkman \u00b7 The Govner"
     },
     {
       "year": 1992,
@@ -4525,10 +4206,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheater",
-      "gear": "Sony D3 Walkman",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D3 Walkman \u00b7 The Govner"
     },
     {
       "year": 1992,
@@ -4539,10 +4219,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Weedsport, NY",
       "venue": "Cayuga Fairgrounds",
-      "gear": "",
-      "taper": "Digital_rich",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Digital_rich"
     },
     {
       "year": 1992,
@@ -4553,10 +4232,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C",
       "venue": "RFK Stadium",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1992,
@@ -4567,10 +4245,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Robert F. Kennedy Memorial Stadium",
-      "gear": "1G",
-      "taper": "Kk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1G \u00b7 Kk"
     },
     {
       "year": 1992,
@@ -4581,10 +4258,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "RFK Stadium",
-      "gear": "",
-      "taper": "30th Anniversary The Metallica Black Box \u00b7 Ancient Mariner",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "30th Anniversary The Metallica Black Box \u00b7 Ancient Mariner"
     },
     {
       "year": 1992,
@@ -4595,10 +4271,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "The HoosierDome",
-      "gear": "Sony D3 Walkman",
-      "taper": "Inc \u00b7 The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D3 Walkman \u00b7 Inc \u00b7 The Govner"
     },
     {
       "year": 1992,
@@ -4609,10 +4284,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Giants Stadium",
-      "gear": "Sony D3",
-      "taper": "Koondog",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D3 \u00b7 Koondog"
     },
     {
       "year": 1992,
@@ -4623,10 +4297,9 @@ const ARTIST_DATA = {
       "state": "PQ",
       "location": "Montreal, PQ",
       "venue": "Stade Olympique",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -4637,10 +4310,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Alameda Stadium",
-      "gear": "Aiwa CM30a",
-      "taper": "Karl Lundmark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM30a \u00b7 Karl Lundmark"
     },
     {
       "year": 1992,
@@ -4651,10 +4323,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oakland Coliseum",
-      "gear": "Sony mic",
-      "taper": "Steve Hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony mic \u00b7 Steve Hagar"
     },
     {
       "year": 1992,
@@ -4665,10 +4336,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "L.A. Memorial Coliseum",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1992,
@@ -4679,10 +4349,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Sports Arena",
-      "gear": "Aiwa CM30a",
-      "taper": "Karl Lundmark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM30a \u00b7 Karl Lundmark"
     },
     {
       "year": 1992,
@@ -4693,10 +4362,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pasadena, CA",
       "venue": "Rose Bowl",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1992,
@@ -4707,10 +4375,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pasadena, CA",
       "venue": "Rose Bowl",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -4721,10 +4388,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pasadena, CA",
       "venue": "Rose Bowl",
-      "gear": "",
-      "taper": "30th Anniversary The Metallica Black Box \u00b7 Ancient Mariner",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "30th Anniversary The Metallica Black Box \u00b7 Ancient Mariner"
     },
     {
       "year": 1992,
@@ -4735,10 +4401,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Wembley Arena *Red Diamonds",
-      "gear": "",
-      "taper": "5557.2/2",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "5557.2/2"
     },
     {
       "year": 1992,
@@ -4749,10 +4414,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Wembley Stadium *Stone Cold Crazy",
-      "gear": "Crystal Cat Records",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Crystal Cat Records"
     },
     {
       "year": 1992,
@@ -4763,10 +4427,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Newcastle, England",
       "venue": "Whitley Bay Ice Rink",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -4777,10 +4440,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dublin, Ireland",
       "venue": "The Pointe",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "APE"
+      "format": "APE",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -4791,10 +4453,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rotterdam, The Netherlands",
       "venue": "Ahoy",
-      "gear": "",
-      "taper": "R Huizinga",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "R Huizinga"
     },
     {
       "year": 1992,
@@ -4805,10 +4466,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rotterdam, The Netherlands",
       "venue": "Ahoy",
-      "gear": "",
-      "taper": "R Huizinga",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "R Huizinga"
     },
     {
       "year": 1992,
@@ -4819,10 +4479,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Palais de Bercy",
-      "gear": "Aiwa CM30a",
-      "taper": "Stephane",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM30a \u00b7 Stephane"
     },
     {
       "year": 1992,
@@ -4833,10 +4492,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milan, Italy",
       "venue": "The Palatrussardi",
-      "gear": "",
-      "taper": "Primo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Primo"
     },
     {
       "year": 1992,
@@ -4847,10 +4505,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dortmund, Germany - Westfalenhalle (1G) (r. huizinga)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -4861,10 +4518,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stuttgart, Germany",
       "venue": "Hanns Martin Schleyer Halle",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1992,
@@ -4875,10 +4531,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stuttgart, Germany",
       "venue": "Hanns-Martin-Schleyer Halle",
-      "gear": "",
-      "taper": "30th Anniversary The Metallica Black Box \u00b7 Ancient Mariner",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "30th Anniversary The Metallica Black Box \u00b7 Ancient Mariner"
     },
     {
       "year": 1992,
@@ -4889,10 +4544,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Den Bosch, Holland",
       "venue": "Brabanthall",
-      "gear": "",
-      "taper": "Sr012",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sr012"
     },
     {
       "year": 1992,
@@ -4903,10 +4557,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Den Bosch, Holland",
       "venue": "Brabanthallen",
-      "gear": "",
-      "taper": "Source 4",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 4"
     },
     {
       "year": 1992,
@@ -4917,10 +4570,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Den Bosch, Netherlands",
       "venue": "Brabanthallen",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1992,
@@ -4931,10 +4583,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum",
-      "gear": "mats.l",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "mats.l"
     },
     {
       "year": 1992,
@@ -4945,10 +4596,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum",
-      "gear": "mats.l",
-      "taper": "2nd Gen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "mats.l \u00b7 2nd Gen"
     },
     {
       "year": 1992,
@@ -4959,10 +4609,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Scandinavium *Abso-F*cking-Lutley Live",
-      "gear": "",
-      "taper": "Me003/4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Me003/4"
     },
     {
       "year": 1992,
@@ -4973,10 +4622,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Scandivavium",
-      "gear": "1G",
-      "taper": "Jontebus",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1G \u00b7 Jontebus"
     },
     {
       "year": 1993,
@@ -4987,10 +4635,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Kalamazoo, MI",
       "venue": "Wings Stadium",
-      "gear": "Sony D-7",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-7 \u00b7 The Govner"
     },
     {
       "year": 1993,
@@ -5001,10 +4648,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Kalamazoo, MI",
       "venue": "Wings Stadium",
-      "gear": "mark lamke",
-      "taper": "B&k 4011s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "mark lamke \u00b7 B&k 4011s"
     },
     {
       "year": 1993,
@@ -5015,10 +4661,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "John F. Savage Hall",
-      "gear": "Sony D-7",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-7 \u00b7 The Govner"
     },
     {
       "year": 1993,
@@ -5029,10 +4674,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Hershey, PA",
       "venue": "Hershey Park Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5043,10 +4687,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "Carver-Hawkeye Arena",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1993,
@@ -5057,10 +4700,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rockford, IL",
       "venue": "MetroCentre",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1993,
@@ -5071,10 +4713,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Saginaw, MI",
       "venue": "Wendler Arena",
-      "gear": "Sony D-7",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-7 \u00b7 The Govner"
     },
     {
       "year": 1993,
@@ -5085,10 +4726,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Dayton, OH",
       "venue": "E.J. Nutter Center",
-      "gear": "Sony D-7",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-7 \u00b7 The Govner"
     },
     {
       "year": 1993,
@@ -5099,10 +4739,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Johnson City, TN",
       "venue": "Freedom Hall",
-      "gear": "Sony D-7",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-7 \u00b7 The Govner"
     },
     {
       "year": 1993,
@@ -5113,10 +4752,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Lexington, KY",
       "venue": "Rupp Arena",
-      "gear": "Sony D-7",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-7 \u00b7 The Govner"
     },
     {
       "year": 1993,
@@ -5127,10 +4765,9 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Greenville, SC",
       "venue": "Memorial Auditorium",
-      "gear": "Sony D-7",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-7 \u00b7 The Govner"
     },
     {
       "year": 1993,
@@ -5141,10 +4778,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montreal, Canada",
       "venue": "The Forum",
-      "gear": "",
-      "taper": "Nun Wrangler Remaster",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nun Wrangler Remaster"
     },
     {
       "year": 1993,
@@ -5155,10 +4791,9 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Forum de Montreal",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1993,
@@ -5169,10 +4804,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montreal, Quebec",
       "venue": "Forum - 8MM(M)",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5183,10 +4817,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montreal, Quebec",
       "venue": "Forum de Montreal",
-      "gear": "",
-      "taper": "Ancient Mariner",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Ancient Mariner"
     },
     {
       "year": 1993,
@@ -5197,10 +4830,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Amherst, MA",
       "venue": "Mullins Center",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5211,10 +4843,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tallahassee, FL",
       "venue": "Leon County Civic Center",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5225,10 +4856,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "Yoyogi Daiichi Taiikukan",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1993,
@@ -5239,10 +4869,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Yokohama, Japan",
       "venue": "Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1983,
@@ -5253,10 +4882,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nagoya, Japan",
       "venue": "Century Hall",
-      "gear": "",
-      "taper": "Snow",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Snow"
     },
     {
       "year": 1993,
@@ -5267,10 +4895,9 @@ const ARTIST_DATA = {
       "state": "NZ",
       "location": "Auckland, NZ",
       "venue": "The Supertop",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5281,10 +4908,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, Australia",
       "venue": "Entertainment Centre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5295,10 +4921,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, Australia",
       "venue": "Entertainment Centre",
-      "gear": "Aiwa CM30a",
-      "taper": "Karl Lundmark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM30a \u00b7 Karl Lundmark"
     },
     {
       "year": 1993,
@@ -5309,10 +4934,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, Australia",
       "venue": "Sydney Entertainment Centre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5323,10 +4947,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, Australia",
       "venue": "Centre Court",
-      "gear": "",
-      "taper": "2nd Source \u00b7 Inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Source \u00b7 Inc"
     },
     {
       "year": 1993,
@@ -5337,10 +4960,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, Australia",
       "venue": "National Tennis Centre",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1993,
@@ -5351,10 +4973,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, Australia",
       "venue": "National Tennis Centre",
-      "gear": "Aiwa CM-30a",
-      "taper": "Karl Lunkmark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM-30a \u00b7 Karl Lunkmark"
     },
     {
       "year": 1993,
@@ -5365,10 +4986,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Adelaide, Australia",
       "venue": "Adelaide Entertainment Centre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5379,10 +4999,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Jakarta, Indonesia",
       "venue": "Lebak Bulus Stadium",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1993,
@@ -5393,10 +5012,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Jakarta, Indonesia",
       "venue": "Lebak Bulus Stadium",
-      "gear": "",
-      "taper": "Black Album's 30th Anniversary - The Metallica Black Box \u00b7 Ancient Mariner",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Black Album's 30th Anniversary - The Metallica Black Box \u00b7 Ancient Mariner"
     },
     {
       "year": 1993,
@@ -5407,10 +5025,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sao Paulo, Brazil",
       "venue": "Estadio Palestra Italia",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5421,10 +5038,9 @@ const ARTIST_DATA = {
       "state": "BR",
       "location": "Sao Paulo, BR",
       "venue": "Estadio Palestra Italia",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1993,
@@ -5435,10 +5051,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sao Paulo, Brazil",
       "venue": "Palmeiras Stadium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5449,10 +5064,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sao Paulo, Brazil",
       "venue": "Estadio Palestra Italia",
-      "gear": "",
-      "taper": "30th Ann. The Metallica Black Box \u00b7 Ancient Mariner",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "30th Ann. The Metallica Black Box \u00b7 Ancient Mariner"
     },
     {
       "year": 1993,
@@ -5463,10 +5077,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buenos Aires, Argentina",
       "venue": "Estadio Velez *Blood, Sweat, and Tears",
-      "gear": "",
-      "taper": "Bkcd053/054",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Bkcd053/054"
     },
     {
       "year": 1993,
@@ -5477,10 +5090,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dusseldorf, Germany",
       "venue": "Rhinstadion",
-      "gear": "",
-      "taper": "Robert Huizinga",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Robert Huizinga"
     },
     {
       "year": 1993,
@@ -5491,10 +5103,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mannheim, Germany",
       "venue": "Maimarktgelande",
-      "gear": "Aiwa CM-30A",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM-30A"
     },
     {
       "year": 1993,
@@ -5505,10 +5116,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nuremburg, Germany",
       "venue": "Gelande Vorm Frankenstadion *Nowhere Else To Roam",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5519,10 +5129,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brno, Czech Republic - Boby Stadium (jeff s. transfer)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5533,10 +5142,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "Waldbuhne",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5547,10 +5155,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Gentofte Stadium *No Limits, No Laws",
-      "gear": "",
-      "taper": "Kts 306",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Kts 306"
     },
     {
       "year": 1993,
@@ -5561,10 +5168,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Gentofte Stadium",
-      "gear": "mats.l",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "mats.l"
     },
     {
       "year": 1993,
@@ -5575,10 +5181,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Urheilupuisto",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5589,10 +5194,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milton Keynes, England",
       "venue": "National Bowl",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5603,10 +5207,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bratislava, Slovakia",
       "venue": "Bratislava Stadium",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1993,
@@ -5617,10 +5220,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Budapest, Hungary",
       "venue": "MTK Stadium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5631,10 +5233,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rotterdam, The Netherlands",
       "venue": "Feijenoord Stadium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5645,10 +5246,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Hippodrome de Vincennes",
-      "gear": "Aiwa CM30a",
-      "taper": "Stephane",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM30a \u00b7 Stephane"
     },
     {
       "year": 1993,
@@ -5659,10 +5259,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, Portugal",
       "venue": "Estadio Jose Alvalade",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1993,
@@ -5673,10 +5272,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Basel, Switzerland",
       "venue": "St. Jakob Stadium *Destroyer",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5687,10 +5285,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Basel, Switzerland",
       "venue": "St. Jakob Stadium",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1993,
@@ -5701,10 +5298,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Torino, Italy",
       "venue": "Alpi Stadium *Nowhere Else to Roam",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5715,10 +5311,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, Austria",
       "venue": "Wiener Stadthalle - Halle D",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -5729,10 +5324,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Athens, Greece",
       "venue": "Nea Smyrni Stadium",
-      "gear": "Sony WM-D3 \u00b7 haris theodoratos",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-D3 \u00b7 haris theodoratos"
     },
     {
       "year": 1993,
@@ -5743,10 +5337,9 @@ const ARTIST_DATA = {
       "state": "IS",
       "location": "Tel Aviv, IS",
       "venue": "Park Hayarkon",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1993,
@@ -5757,10 +5350,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tel Aviv, Israel",
       "venue": "Park Hayarkon",
-      "gear": "",
-      "taper": "Black Album's 30th Anniversary - The Metallica Black Box \u00b7 Ancient Mariner",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Black Album's 30th Anniversary - The Metallica Black Box \u00b7 Ancient Mariner"
     },
     {
       "year": 1994,
@@ -5771,10 +5363,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Darien Lake Amphitheatre *Earthquake in Buffalo",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -5785,10 +5376,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Darien Lake Amphitheatre",
-      "gear": "Sony D-7",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-7 \u00b7 The Govner"
     },
     {
       "year": 1994,
@@ -5799,10 +5389,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Darien Lake Amphitheatre",
-      "gear": "",
-      "taper": "Silver + The Govner",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Silver + The Govner"
     },
     {
       "year": 1994,
@@ -5813,10 +5402,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Holmdel, NJ",
       "venue": "Garden State Arts Center",
-      "gear": "",
-      "taper": "Sousourn1823 Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sousourn1823 Transfer"
     },
     {
       "year": 1994,
@@ -5827,10 +5415,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Holmdel, NJ",
       "venue": "Garden State Arts Center",
-      "gear": "Sony D3",
-      "taper": "Koondog",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D3 \u00b7 Koondog"
     },
     {
       "year": 1994,
@@ -5841,10 +5428,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Quebec City, Quebec",
       "venue": "Hippodrome",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1994,
@@ -5855,10 +5441,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Molson Park",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -5869,10 +5454,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "New York State Fair Grandstand",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1994,
@@ -5883,10 +5467,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Allentown, PA",
       "venue": "Fairgrounds",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -5897,10 +5480,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Wantagh, NY",
       "venue": "Jones Beach Theatre",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -5911,10 +5493,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Great Woods",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1994,
@@ -5925,10 +5506,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Great Woods",
-      "gear": "",
-      "taper": "Realistic 33-1052 Tie Clip Mics \u00b7 Mike M.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Realistic 33-1052 Tie Clip Mics \u00b7 Mike M."
     },
     {
       "year": 1994,
@@ -5939,10 +5519,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Keene, NH",
       "venue": "Cheshire Fairgrounds",
-      "gear": "ECM 155",
-      "taper": "Sim Morrell",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM 155 \u00b7 Sim Morrell"
     },
     {
       "year": 1994,
@@ -5953,10 +5532,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "North Swanzey, NH",
       "venue": "Cheshire Fairgrounds",
-      "gear": "",
-      "taper": "Unknown \u00b7 Jeff S.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Jeff S."
     },
     {
       "year": 1994,
@@ -5967,10 +5545,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Mechanicsburg, PA",
       "venue": "Williams Groove",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -5981,10 +5558,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Middletown, NY",
       "venue": "Orange County Fairgrounds",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -5995,10 +5571,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Middletown, NY",
       "venue": "Orange County Fairgrounds *Harvester Of Middletown",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -6009,10 +5584,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Middletown, NY",
       "venue": "Orange County Fairgrounds *Live In Middletown",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -6023,10 +5597,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Middletown, NY",
       "venue": "Orange County Fairgrounds *Middle Shit 1994",
-      "gear": "",
-      "taper": "Bon018-019",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Bon018-019"
     },
     {
       "year": 1994,
@@ -6037,10 +5610,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Middletown, NY",
       "venue": "Orange County Fairgrounds *Pile of Shit",
-      "gear": "",
-      "taper": "Kts365-366",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Kts365-366"
     },
     {
       "year": 1994,
@@ -6051,10 +5623,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Middletown, NY",
       "venue": "Orange County Fairgrounds",
-      "gear": "",
-      "taper": "3 Aud Mix \u00b7 Fex",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "3 Aud Mix \u00b7 Fex"
     },
     {
       "year": 1994,
@@ -6065,10 +5636,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Middletown, NY",
       "venue": "Orange County Fairgrounds",
-      "gear": "Sony D3",
-      "taper": "Koondog",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D3 \u00b7 Koondog"
     },
     {
       "year": 1994,
@@ -6079,10 +5649,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Middletown, NY",
       "venue": "Orange County Fairgrounds",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1994,
@@ -6093,10 +5662,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Clarkston, MI",
       "venue": "Pine Knob Music Theatre",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1994,
@@ -6107,10 +5675,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Clarkston, MI",
       "venue": "Pine Knob Music Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -6121,10 +5688,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ionia, MI",
       "venue": "Free Fair",
-      "gear": "Sony D-7",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-7 \u00b7 The Govner"
     },
     {
       "year": 1994,
@@ -6135,10 +5701,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Somerset, WI",
       "venue": "River's Edge Park",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -6149,10 +5714,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheater",
-      "gear": "",
-      "taper": "Source 1 \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 1 \u00b7 Unknown"
     },
     {
       "year": 1994,
@@ -6163,10 +5727,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheater",
-      "gear": "",
-      "taper": "Ss Dsm6 \u00b7 Cruciferous",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ss Dsm6 \u00b7 Cruciferous"
     },
     {
       "year": 1994,
@@ -6177,10 +5740,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheater",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1994,
@@ -6191,10 +5753,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Deer Creek Pavilion *Pit Stop In Indy",
-      "gear": "",
-      "taper": "Smp-026",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Smp-026"
     },
     {
       "year": 1994,
@@ -6205,10 +5766,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "World Theater",
-      "gear": "Sony D-7",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-7 \u00b7 The Govner"
     },
     {
       "year": 1994,
@@ -6219,10 +5779,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Memorial Stadium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -6233,10 +5792,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "gear": "",
-      "taper": "Aud - Karl Lundmark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aud - Karl Lundmark"
     },
     {
       "year": 1994,
@@ -6247,10 +5805,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "gear": "",
-      "taper": "Source 2 - Ballsdeep",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 - Ballsdeep"
     },
     {
       "year": 1994,
@@ -6261,10 +5818,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1994,
@@ -6275,10 +5831,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Cal Expo",
-      "gear": "Aiwa CM30a",
-      "taper": "Karl Lundmark",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Aiwa CM30a \u00b7 Karl Lundmark"
     },
     {
       "year": 1994,
@@ -6289,10 +5844,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sacramento CA",
       "venue": "Cal Expo",
-      "gear": "",
-      "taper": "Ss-dsm-6p \u00b7 Steve Hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ss-dsm-6p \u00b7 Steve Hagar"
     },
     {
       "year": 1994,
@@ -6303,10 +5857,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Cal Expo Amphitheatre",
-      "gear": "1G",
-      "taper": "R. Huizinga",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1G \u00b7 R. Huizinga"
     },
     {
       "year": 1994,
@@ -6317,10 +5870,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Bernardino, CA",
       "venue": "GH Blockbuster Pavilion",
-      "gear": "",
-      "taper": "Source 1 \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 1 \u00b7 Unknown"
     },
     {
       "year": 1994,
@@ -6331,10 +5883,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Devore, CA",
       "venue": "Blockbuster Pavilion",
-      "gear": "",
-      "taper": "Ss-dsm-6p \u00b7 Smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ss-dsm-6p \u00b7 Smores"
     },
     {
       "year": 1994,
@@ -6345,10 +5896,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Carson CA",
       "venue": "Velodrome Field",
-      "gear": "",
-      "taper": "Ss-dsm-6p \u00b7 Steve Hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ss-dsm-6p \u00b7 Steve Hagar"
     },
     {
       "year": 1994,
@@ -6359,10 +5909,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Blockbuster Desert Sky Pavilion",
-      "gear": "",
-      "taper": "1st Gen \u00b7 Stef's Collection",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Gen \u00b7 Stef's Collection"
     },
     {
       "year": 1994,
@@ -6373,10 +5922,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Sam Boyd Silver Bowl",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -6387,10 +5935,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Brown Field Municipal Airport",
-      "gear": "",
-      "taper": "Unknown \u00b7 Kingrue",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Kingrue"
     },
     {
       "year": 1994,
@@ -6401,10 +5948,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Brown Field Municipal Airport",
-      "gear": "",
-      "taper": "Stef's Collection",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Stef's Collection"
     },
     {
       "year": 1994,
@@ -6415,10 +5961,9 @@ const ARTIST_DATA = {
       "state": "NM",
       "location": "Albuquerque, NM",
       "venue": "UNM Stadium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -6429,10 +5974,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Fiddler's Green Amphitheatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -6443,10 +5987,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dallas TX",
       "venue": "Starplex Amphitheatre",
-      "gear": "",
-      "taper": "Unknown \u00b7 Smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Smores"
     },
     {
       "year": 1994,
@@ -6457,10 +6000,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Oklahoma, OK",
       "venue": "Fairgrounds Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -6471,10 +6013,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Bonner Springs, KS",
       "venue": "Sandstone Amphitheater",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -6485,10 +6026,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Burgettstown, PA",
       "venue": "Starlake Amphitheater",
-      "gear": "",
-      "taper": "Koondog",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Koondog"
     },
     {
       "year": 1994,
@@ -6499,10 +6039,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saugerties, NY",
       "venue": "Woodstock",
-      "gear": "",
-      "taper": "Ss-dsm-6p \u00b7 Steve Hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ss-dsm-6p \u00b7 Steve Hagar"
     },
     {
       "year": 1994,
@@ -6513,10 +6052,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Antioch, TN",
       "venue": "Starwood Amphitheater",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -6527,10 +6065,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Bicentennial Park",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -6541,10 +6078,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Bicentennial Park - Candy For The Kids",
-      "gear": "",
-      "taper": "Ist 49-50",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ist 49-50"
     },
     {
       "year": 1995,
@@ -6555,10 +6091,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Astoria *The Secret Gig with New Songs)",
-      "gear": "",
-      "taper": "New001",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "New001"
     },
     {
       "year": 1995,
@@ -6569,10 +6104,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "London Astoria II",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1995,
@@ -6583,10 +6117,9 @@ const ARTIST_DATA = {
       "state": "NT",
       "location": "Tuktoyaktuk, NT",
       "venue": "Molson Ice Polar Beach Party",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -6597,10 +6130,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Tower Records Parking Lot",
-      "gear": "",
-      "taper": "Krw_co",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Krw_co"
     },
     {
       "year": 1996,
@@ -6611,10 +6143,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's - Dying Time Is Here",
-      "gear": "",
-      "taper": "Snw019-20",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Snw019-20"
     },
     {
       "year": 1996,
@@ -6625,10 +6156,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "The Phoenix *Load Of...",
-      "gear": "",
-      "taper": "018/019",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "018/019"
     },
     {
       "year": 1996,
@@ -6639,10 +6169,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Aberdeen, WA",
       "venue": "Louie's Pub",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -6653,10 +6182,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Des Moines, IA",
       "venue": "Iowa State Fairgrounds",
-      "gear": "",
-      "taper": "Lollapalooza",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Lollapalooza"
     },
     {
       "year": 1996,
@@ -6667,10 +6195,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Deer Creek Field",
-      "gear": "",
-      "taper": "Lollapalooza \u00b7 Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Lollapalooza \u00b7 Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -6681,10 +6208,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Barrie, Ontario",
       "venue": "Molson Park",
-      "gear": "",
-      "taper": "Lollapalooza \u00b7 Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Lollapalooza \u00b7 Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -6695,10 +6221,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "West Palm Beach, FL",
       "venue": "Coral Sky Amphitheatre",
-      "gear": "",
-      "taper": "Lollapalooza \u00b7 Inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Lollapalooza \u00b7 Inc"
     },
     {
       "year": 1996,
@@ -6709,10 +6234,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Tad Gorml Stadium",
-      "gear": "",
-      "taper": "Lollapalooza \u00b7 Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Lollapalooza \u00b7 Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -6723,10 +6247,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "Spartan Stadium - Lollapalooza",
-      "gear": "",
-      "taper": "Unknown \u00b7 Neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Neekrive"
     },
     {
       "year": 1996,
@@ -6737,10 +6260,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows",
-      "gear": "",
-      "taper": "Lollapalooza \u00b7 Inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Lollapalooza \u00b7 Inc"
     },
     {
       "year": 1996,
@@ -6751,10 +6273,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, AUS",
       "venue": "Vienna Stadthalle",
-      "gear": "Sony MZ R30",
-      "taper": "Metallifreak",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony MZ R30 \u00b7 Metallifreak"
     },
     {
       "year": 1996,
@@ -6765,10 +6286,9 @@ const ARTIST_DATA = {
       "state": "CZ",
       "location": "Prague, CZ",
       "venue": "Sportovni Hala",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1996,
@@ -6779,10 +6299,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "Deutschlandhalle",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -6793,10 +6312,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Kiel, Germany",
       "venue": "Ostseehalle *Power Failure Part 1 & 2",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -6807,10 +6325,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gent, Belgium",
       "venue": "Flanders Expo",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -6821,10 +6338,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gent, Belgium",
       "venue": "Flanders Expo",
-      "gear": "",
-      "taper": "Video Source 1",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Video Source 1"
     },
     {
       "year": 1996,
@@ -6835,10 +6351,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Omnisports de Bercy",
-      "gear": "",
-      "taper": "1st Night \u00b7 Marantz Em8 \u00b7 Stephane",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Marantz Em8 \u00b7 Stephane"
     },
     {
       "year": 1996,
@@ -6849,10 +6364,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Omnisports de Bercy",
-      "gear": "",
-      "taper": "1st Night \u00b7 Video Source 1",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "1st Night \u00b7 Video Source 1"
     },
     {
       "year": 1996,
@@ -6863,10 +6377,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Omnisports de Bercy",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Marantz Em8 \u00b7 Stephane",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Marantz Em8 \u00b7 Stephane"
     },
     {
       "year": 1996,
@@ -6877,10 +6390,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Estadio la Pieneta",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -6891,10 +6403,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Barcelona, Spain",
       "venue": "Palau Sant Jordi",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -6905,10 +6416,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milano, Italy",
       "venue": "Forum *Full Loaded",
-      "gear": "",
-      "taper": "Krhm10-1/2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Krhm10-1/2"
     },
     {
       "year": 1996,
@@ -6919,10 +6429,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milan, Italy",
       "venue": "PalaVobis",
-      "gear": "Sony PC-62",
-      "taper": "P.b.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony PC-62 \u00b7 P.b."
     },
     {
       "year": 1996,
@@ -6933,10 +6442,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "NEC",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -6947,10 +6455,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "BEC",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1996,
@@ -6961,10 +6468,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Newcastle, UK",
       "venue": "Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -6975,10 +6481,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dublin, Ireland",
       "venue": "The Point",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -6989,10 +6494,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Glasgow, Scotland",
       "venue": "Barrowland",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -7003,10 +6507,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Earls Court",
-      "gear": "",
-      "taper": "2nd Source",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Source"
     },
     {
       "year": 1996,
@@ -7017,10 +6520,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cardiff, Wales",
       "venue": "Cardiff International Arena",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -7031,10 +6533,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Manchester, England",
       "venue": "NYNEX Arena",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -7045,10 +6546,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Alsterdorfer Sporthalle",
-      "gear": "",
-      "taper": "2nd Gen \u00b7 Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Gen \u00b7 Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -7059,10 +6559,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Alsterdorfer Sporthalle",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -7073,10 +6572,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dortmund, Germany",
       "venue": "Westfalenhalle 1",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -7087,10 +6585,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "Deutschlandhalle",
-      "gear": "Sony D7",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D7"
     },
     {
       "year": 1996,
@@ -7101,10 +6598,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Leipzig, Germany",
       "venue": "Messehalle 7",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -7115,10 +6611,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mannheim, Germany",
       "venue": "Mannheim Maimarkthalle",
-      "gear": "Sony MZ R30",
-      "taper": "Metallifreak",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony MZ R30 \u00b7 Metallifreak"
     },
     {
       "year": 1996,
@@ -7129,10 +6624,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Frankfurt, Germany",
       "venue": "Festhalle",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -7143,10 +6637,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oldenburg, Germany",
       "venue": "Weser-Ems Halle",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -7157,10 +6650,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zurich, Switzerland",
       "venue": "Hallenstadion",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -7171,10 +6663,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stuttgart, Germany",
       "venue": "Hanns-Martin-Schleyer",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -7185,10 +6676,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nuremberg, Germany",
       "venue": "Frankenhalle",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1996,
@@ -7199,10 +6689,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bieledfeld, Germany",
       "venue": "Seidenstickerhalle",
-      "gear": "",
-      "taper": "1st Gen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Gen"
     },
     {
       "year": 1996,
@@ -7213,10 +6702,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Utrect, Holland",
       "venue": "Prins van Oranje Hal *A Change of Seasons",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -7227,10 +6715,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, SWE",
       "venue": "Stockholm Globe Arena",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -7241,10 +6728,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, Sweden",
       "venue": "Stockholm Globe Arena *One Live Bootleg",
-      "gear": "",
-      "taper": "Wwol 005-006",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Wwol 005-006"
     },
     {
       "year": 1996,
@@ -7255,10 +6741,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Scandinavium",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1996,
@@ -7269,10 +6754,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Scandinavium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -7283,10 +6767,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, Norway",
       "venue": "Spektrum *Loaded",
-      "gear": "",
-      "taper": "Tucd023/24",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tucd023/24"
     },
     {
       "year": 1996,
@@ -7297,10 +6780,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum Kobenhavn",
-      "gear": "",
-      "taper": "Krw_co",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Krw_co"
     },
     {
       "year": 1996,
@@ -7311,10 +6793,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fresno, CA",
       "venue": "Selland Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -7325,10 +6806,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "Great Western Forum",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -7339,10 +6819,9 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "Delta Center",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1997,
@@ -7353,10 +6832,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Bradley Center",
-      "gear": "",
-      "taper": "Sonic Studios Dsm6 \u00b7 Cruciferous",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sonic Studios Dsm6 \u00b7 Cruciferous"
     },
     {
       "year": 1997,
@@ -7367,10 +6845,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Auburn Hills, MI",
       "venue": "The Palace",
-      "gear": "CSB",
-      "taper": "T.i.m.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 T.i.m."
     },
     {
       "year": 1997,
@@ -7381,10 +6858,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Roanoke, VA",
       "venue": "Civic Center",
-      "gear": "",
-      "taper": "Steve Baker",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Steve Baker"
     },
     {
       "year": 1997,
@@ -7395,10 +6871,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Marine Midland Arena",
-      "gear": "",
-      "taper": "Heywood",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Heywood"
     },
     {
       "year": 1997,
@@ -7409,10 +6884,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Brendan Byrne Arena",
-      "gear": "",
-      "taper": "Meadowlands \u00b7 Koondog",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Meadowlands \u00b7 Koondog"
     },
     {
       "year": 1997,
@@ -7423,10 +6897,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Pepsi Arena",
-      "gear": "",
-      "taper": "Nakamichi 100 Cp4 \u00b7 Beerengineer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nakamichi 100 Cp4 \u00b7 Beerengineer"
     },
     {
       "year": 1997,
@@ -7437,10 +6910,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stuttgart, Germany",
       "venue": "Cannstatter Wasen *Blindman's Ball",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -7451,10 +6923,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Parking Lot",
-      "gear": "",
-      "taper": "Sousourn1823 Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sousourn1823 Transfer"
     },
     {
       "year": 1997,
@@ -7465,10 +6936,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Den Gral Hal",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1997,
@@ -7479,10 +6949,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Elysee Montmartre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -7493,10 +6962,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Baker Hamilton Square*Metallicagazoline",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Azm-7758",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Azm-7758"
     },
     {
       "year": 1998,
@@ -7507,10 +6975,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Baker Hamilton Square *San Francisco",
-      "gear": "Source 3 - SBD",
-      "taper": "Ma003",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 3 - SBD \u00b7 Ma003"
     },
     {
       "year": 1998,
@@ -7521,10 +6988,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, Australia",
       "venue": "Centre Court",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1998,
@@ -7535,10 +7001,9 @@ const ARTIST_DATA = {
       "state": "NZ",
       "location": "Wellington, NZ",
       "venue": "Queens Wharf Event Centre",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1998,
@@ -7549,10 +7014,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "Yoyogi Daiichi, Taiikukan",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1998,
@@ -7563,10 +7027,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cuyahoga Falls, OH",
       "venue": "Blossom Music Center",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1998,
@@ -7577,10 +7040,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Clarkston, MI",
       "venue": "Pine Knob Music Theatre",
-      "gear": "Sony D-3 Walkman Pro",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-3 Walkman Pro \u00b7 The Govner"
     },
     {
       "year": 1998,
@@ -7591,10 +7053,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Great Woods Center",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1998,
@@ -7605,10 +7066,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Great Woods Center",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1998,
@@ -7619,10 +7079,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Burgettstown, PA",
       "venue": "Coca-Cola Star Lake Amphitheatre",
-      "gear": "",
-      "taper": "Jeff S. Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeff S. Transfer"
     },
     {
       "year": 1998,
@@ -7633,10 +7092,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Deer Creek",
-      "gear": "SS",
-      "taper": "Greg Holtz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SS \u00b7 Greg Holtz"
     },
     {
       "year": 1998,
@@ -7647,10 +7105,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "gear": "",
-      "taper": "Teddy Ballgame Master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Teddy Ballgame Master"
     },
     {
       "year": 1998,
@@ -7661,10 +7118,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Blockbuster Desert Sky Pavilion",
-      "gear": "DAT",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DAT"
     },
     {
       "year": 1998,
@@ -7675,10 +7131,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "gear": "",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "The Govner"
     },
     {
       "year": 1998,
@@ -7689,10 +7144,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "State Theater",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Ellaguru",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Ellaguru"
     },
     {
       "year": 1998,
@@ -7703,10 +7157,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "State Theater",
-      "gear": "",
-      "taper": "Source 3 \u00b7 The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 3 \u00b7 The Govner"
     },
     {
       "year": 1998,
@@ -7717,10 +7170,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory *Small Clubs For Big Pleasure",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -7731,10 +7183,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom *Live Garage",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -7745,10 +7196,9 @@ const ARTIST_DATA = {
       "state": "HI",
       "location": "Honolulu, HI",
       "venue": "Blaisdell Arena",
-      "gear": "",
-      "taper": "Dsm-6p \u00b7 Steve Hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Dsm-6p \u00b7 Steve Hagar"
     },
     {
       "year": 1999,
@@ -7759,10 +7209,9 @@ const ARTIST_DATA = {
       "state": "HI",
       "location": "Honolulu, HI",
       "venue": "Blaisdell Arena",
-      "gear": "",
-      "taper": "Dsm-6p \u00b7 Steve Hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Dsm-6p \u00b7 Steve Hagar"
     },
     {
       "year": 1999,
@@ -7773,10 +7222,9 @@ const ARTIST_DATA = {
       "state": "AK",
       "location": "Anchorage, AK",
       "venue": "Sullivan Arena",
-      "gear": "",
-      "taper": "Dsm-6p \u00b7 Steve Hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Dsm-6p \u00b7 Steve Hagar"
     },
     {
       "year": 1999,
@@ -7787,10 +7235,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Berkeley Community Theater *Metallica & The SF Symphony",
-      "gear": "",
-      "taper": "Source 2",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2"
     },
     {
       "year": 1999,
@@ -7801,10 +7248,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Berkeley Community Theater",
-      "gear": "MK4s",
-      "taper": "Source 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MK4s \u00b7 Source 2"
     },
     {
       "year": 1999,
@@ -7815,10 +7261,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Ciudad De Me?xico, Mexico",
       "venue": "Foro Sol",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1999,
@@ -7829,10 +7274,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Ciudad De Me?xico, Mexico",
       "venue": "Foro Sol",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -7843,10 +7287,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bogota, COL",
       "venue": "Parque Simon Bolivar",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1999,
@@ -7857,10 +7300,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Santiago, Chile",
       "venue": "Pista Atletica del Estadio Nacional",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -7871,10 +7313,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nu?rnberg, Germany",
       "venue": "Frankenstadion",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1999,
@@ -7885,10 +7326,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "N?rburgring, N?rburg",
       "venue": "Rock am Ring",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -7899,10 +7339,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Eindhoven, Holland",
       "venue": "Dynamo Open Air",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -7913,10 +7352,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "Waldbuhne",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -7927,10 +7365,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, Sweden",
       "venue": "Globe Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -7941,10 +7378,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Warsaw, Poland",
       "venue": "Gwardia Stadium",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -7955,10 +7391,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Plovdiv, Bulgaria",
       "venue": "Plovdiv Stadium *Bulgarian Assault",
-      "gear": "",
-      "taper": "Bon178/179",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Bon178/179"
     },
     {
       "year": 1999,
@@ -7969,10 +7404,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Athens, GA",
       "venue": "Georgios Kamaras Stadium",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -7983,10 +7417,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Istanbul, Turkey",
       "venue": "Ali Sami Yen Stadium",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1999,
@@ -7997,10 +7430,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows - KROQ Event",
-      "gear": "",
-      "taper": "Master \u00b7 Elmoz",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Master \u00b7 Elmoz"
     },
     {
       "year": 1999,
@@ -8011,10 +7443,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "St. Gasllen, Switzerland",
       "venue": "Open Air",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -8025,10 +7456,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "St. Gasllen, Switzerland",
       "venue": "Open Air",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1999,
@@ -8039,10 +7469,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Minden, Germany",
       "venue": "Weserufer",
-      "gear": "Aiwa CM-30A",
-      "taper": "Robert Huizinga",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa CM-30A \u00b7 Robert Huizinga"
     },
     {
       "year": 1999,
@@ -8053,10 +7482,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tallinn, Estonia",
       "venue": "Lauluva?ljak",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -8067,10 +7495,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Dyrskueplads - Seek And Destroy",
-      "gear": "",
-      "taper": "Source 3",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 3"
     },
     {
       "year": 1999,
@@ -8081,10 +7508,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dublin, Ireland",
       "venue": "Point Theatre",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -8095,10 +7521,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Omnisports de Bercy",
-      "gear": "",
-      "taper": "Marantz Em8 \u00b7 Stephane",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Marantz Em8 \u00b7 Stephane"
     },
     {
       "year": 1999,
@@ -8109,10 +7534,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milton Keynes, England",
       "venue": "National Bowl",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -8123,10 +7547,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Barcelona, Spain",
       "venue": "Paualau St. Jordi",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -8137,10 +7560,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Parque El Soto",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -8151,10 +7573,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, Portugal",
       "venue": "Estadio Nacional",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -8165,10 +7586,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rishon LeZion, Israel",
       "venue": "Amfi-Park - Live in Tel-Aviv",
-      "gear": "",
-      "taper": "Ta-99",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ta-99"
     },
     {
       "year": 1999,
@@ -8179,10 +7599,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rome, NY",
       "venue": "Woodstock 99",
-      "gear": "DAT",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DAT"
     },
     {
       "year": 1999,
@@ -8193,10 +7612,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "Vellodrome / S&M Tour",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -8207,10 +7625,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "Velodrom",
-      "gear": "",
-      "taper": "Okm Iir \u00b7 Source 1 \u00b7 Vortex242",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Okm Iir \u00b7 Source 1 \u00b7 Vortex242"
     },
     {
       "year": 1999,
@@ -8221,10 +7638,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -8235,10 +7651,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Athens, Greece",
       "venue": "Georgios Kamaras Stadium",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -8249,10 +7664,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "St. Petersburg, FL",
       "venue": "Tropicana Field",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -8263,10 +7677,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "St. Petersburg, FL",
       "venue": "Tropicana Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2000,
@@ -8277,10 +7690,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Gund Arena",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 2000,
@@ -8291,10 +7703,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rosemont, IL",
       "venue": "Allstate Arena",
-      "gear": "",
-      "taper": "Krw_co",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Krw_co"
     },
     {
       "year": 2000,
@@ -8305,10 +7716,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rosemont, IL",
       "venue": "Allstate Arena - Millenium Nights",
-      "gear": "",
-      "taper": "Source 1",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 1"
     },
     {
       "year": 2000,
@@ -8319,10 +7729,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Target Center",
-      "gear": "",
-      "taper": "Kingjman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Kingjman"
     },
     {
       "year": 2000,
@@ -8333,10 +7742,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Memorial Stadium",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 2000,
@@ -8347,10 +7755,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Foxboro, MA",
       "venue": "Foxboro Stadium",
-      "gear": "Sony ECM-719",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719"
     },
     {
       "year": 2000,
@@ -8361,10 +7768,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Rockingham, NC",
       "venue": "Rockingham Dragway",
-      "gear": "CSB",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB"
     },
     {
       "year": 2000,
@@ -8375,10 +7781,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "PSINet Stadium",
-      "gear": "",
-      "taper": "Roamer 0200",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Roamer 0200"
     },
     {
       "year": 2000,
@@ -8389,10 +7794,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Georgia Dome *Where The Fuck's James",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Metcd 77-1-2",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Metcd 77-1-2"
     },
     {
       "year": 2000,
@@ -8403,10 +7807,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Sparta, KY",
       "venue": "Kentucky Speedway",
-      "gear": "Sony D-7",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-7 \u00b7 The Govner"
     },
     {
       "year": 2000,
@@ -8417,10 +7820,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Smirnoff Music Centre",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 2000,
@@ -8431,10 +7833,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Starplex Amphitheater",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 2000,
@@ -8445,10 +7846,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Lexington, KY",
       "venue": "Rupp Arena",
-      "gear": "D-7",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "D-7 \u00b7 The Govner"
     },
     {
       "year": 2000,
@@ -8459,10 +7859,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Lexington, KY",
       "venue": "Rupp Arena",
-      "gear": "Sony D-7",
-      "taper": "The Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D-7 \u00b7 The Govner"
     },
     {
       "year": 2000,
@@ -8473,10 +7872,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Lexington, KY",
       "venue": "Rupp Arena",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2003,
@@ -8487,10 +7885,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oakland Coliseum Parking Lot",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -8501,10 +7898,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Quentin, CA",
       "venue": "San Quentin State Prison",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -8515,10 +7911,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Riverside Studios",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -8529,10 +7924,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nu?rburg, Germany",
       "venue": "Nu?rburgring *Live It Or Lie It!",
-      "gear": "",
-      "taper": "Source 2",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2"
     },
     {
       "year": 2003,
@@ -8543,10 +7937,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nu?rburg, Germany",
       "venue": "Nu?rburgring",
-      "gear": "",
-      "taper": "Source 1",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 1"
     },
     {
       "year": 2003,
@@ -8557,10 +7950,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Le Bataclan *Live At Bataclan",
-      "gear": "",
-      "taper": "Source 1",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 1"
     },
     {
       "year": 2003,
@@ -8571,10 +7963,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "La Boule Noire *Live At La Boule Noire",
-      "gear": "",
-      "taper": "Source 1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 1"
     },
     {
       "year": 2003,
@@ -8585,10 +7976,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Le Bataclan",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Yann Ld",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Yann Ld"
     },
     {
       "year": 2003,
@@ -8599,10 +7989,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Imola, Italy",
       "venue": "Autodromo Enzo E Dino Ferrari",
-      "gear": "DPA 4061",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061"
     },
     {
       "year": 2003,
@@ -8613,10 +8002,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Estadio La Peineta",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 2003,
@@ -8627,10 +8015,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Dyrskueplads *New Blood",
-      "gear": "",
-      "taper": "Source 3",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 3"
     },
     {
       "year": 2003,
@@ -8641,10 +8028,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Dyrskueplads",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Jtl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Jtl"
     },
     {
       "year": 2003,
@@ -8655,10 +8041,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Foxborough, MA",
       "venue": "Gilette Stadium",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 2003,
@@ -8669,10 +8054,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "Citrus Bowl",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 2003,
@@ -8683,10 +8067,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "Camping World Stadium",
-      "gear": "",
-      "taper": "Source 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2"
     },
     {
       "year": 2003,
@@ -8697,10 +8080,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Irving, TX",
       "venue": "Texas Stadium",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -8711,10 +8093,9 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "West Valley City, UT",
       "venue": "Usana Amphitheatre",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 2003,
@@ -8725,10 +8106,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Saitama, Japan",
       "venue": "Saitama Super Arena *Karmas Burning",
-      "gear": "",
-      "taper": "Source 1 \u00b7 Sy-0536",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 1 \u00b7 Sy-0536"
     },
     {
       "year": 2003,
@@ -8739,10 +8119,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cologne, Germany",
       "venue": "Ko?lnarena",
-      "gear": "ECM 717",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM 717"
     },
     {
       "year": 2004,
@@ -8753,10 +8132,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, Australia",
       "venue": "Big Day Out Festival",
-      "gear": "",
-      "taper": "Eclect",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Eclect"
     },
     {
       "year": 2004,
@@ -8767,10 +8145,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, Australia",
       "venue": "Sydney Showground",
-      "gear": "",
-      "taper": "Source 1 \u00b7 Bleeding Me",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 1 \u00b7 Bleeding Me"
     },
     {
       "year": 2004,
@@ -8781,10 +8158,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, Australia",
       "venue": "Sydney Showground",
-      "gear": "",
-      "taper": "Source 3 \u00b7 Akg Micro Mic Ii \u00b7 Jeff S.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 3 \u00b7 Akg Micro Mic Ii \u00b7 Jeff S."
     },
     {
       "year": 2004,
@@ -8795,10 +8171,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Adelaide, Australia",
       "venue": "Royal Adelaide Showgrounds",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2004,
@@ -8809,10 +8184,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "America West Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -8823,10 +8197,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tucson, AZ",
       "venue": "Tucson Convention Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -8837,10 +8210,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Forum",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -8851,10 +8223,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Forum",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -8865,10 +8236,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Cow Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -8879,10 +8249,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "ARCO Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -8893,10 +8262,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Reno, NV",
       "venue": "Lawlor Events Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -8907,10 +8275,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Thomas & Mack Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -8921,10 +8288,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fresno, CA",
       "venue": "Save Mart Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -8935,10 +8301,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Rose Garden Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -8949,10 +8314,9 @@ const ARTIST_DATA = {
       "state": "ID",
       "location": "Boise, ID",
       "venue": "BSU Pavilion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -8963,10 +8327,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Spokane, WA",
       "venue": "Spokane Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -8977,10 +8340,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Edmonton, Alberta",
       "venue": "Rexall Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -8991,10 +8353,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Calgary, Alberta",
       "venue": "Pengrowth Saddledome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9005,10 +8366,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "General Motors Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9019,10 +8379,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Key Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9033,10 +8392,9 @@ const ARTIST_DATA = {
       "state": "WY",
       "location": "Casper, WY",
       "venue": "Casper Events Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9047,10 +8405,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Pepsi Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9061,10 +8418,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum - 1st night",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9075,10 +8431,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum",
-      "gear": "Sony ECM-717",
-      "taper": "Ukj69",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-717 \u00b7 Ukj69"
     },
     {
       "year": 2004,
@@ -9089,10 +8444,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum - 2nd night",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9103,10 +8457,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Charlotte Coliseum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9117,10 +8470,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Roanoke, VA",
       "venue": "Roanoke Civic Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9131,10 +8483,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Norfolk, VA",
       "venue": "Scope Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9145,10 +8496,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Freedom Hall",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9159,10 +8509,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "Van Andel Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9173,10 +8522,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "U.S. Bank Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9187,10 +8535,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Alliant Energy Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9201,10 +8548,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Calgary, Alberta",
       "venue": "Pengrowth Saddledome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9215,10 +8561,9 @@ const ARTIST_DATA = {
       "state": "SK",
       "location": "Saskatoon, SK",
       "venue": "Saskatchewan Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9229,10 +8574,9 @@ const ARTIST_DATA = {
       "state": "MB",
       "location": "Winnipeg, MB",
       "venue": "Winnipeg Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9243,10 +8587,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Kemper Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9257,10 +8600,9 @@ const ARTIST_DATA = {
       "state": "NE",
       "location": "Omaha, NE",
       "venue": "Qwest Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9271,10 +8613,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Oklahoma City, OK",
       "venue": "Ford Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9285,10 +8626,9 @@ const ARTIST_DATA = {
       "state": "AR",
       "location": "Little Rock, AR",
       "venue": "Alltel Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9299,10 +8639,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Parken Stadium",
-      "gear": "",
-      "taper": "Mix #1 \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mix #1 \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -9313,10 +8652,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Parken Stadium",
-      "gear": "",
-      "taper": "Mix #2 \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mix #2 \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -9327,10 +8665,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Olympiastadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9341,10 +8678,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Ullevi Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9355,10 +8691,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Chorzow, Poland",
       "venue": "Stadion ?l?ski",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9369,10 +8704,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Glasgow, Scotland",
       "venue": "Glasgow Green - Download Scotland 2004",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9383,10 +8717,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, Portugal",
       "venue": "Parque da Bela Vista",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9397,10 +8730,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, Portugal",
       "venue": "Parque da Bela Vista - TV-CDR-FLAC",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2004,
@@ -9411,10 +8743,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Donington, England",
       "venue": "Donington Park - Download England 2004",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9425,10 +8756,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Ludwigshafen, Germany",
       "venue": "S?dweststadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9439,10 +8769,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gelsenkirchen, Germany",
       "venue": "Arena AufSchalke",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9453,10 +8782,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Wiener Neustadt, Austria",
       "venue": "Civitas Nova - Aerodome Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9467,10 +8795,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Olympiastadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9481,10 +8808,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Belgrade, Serbia",
       "venue": "Partizan Stadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9495,10 +8821,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bremen, Germany",
       "venue": "Weserstadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9509,10 +8834,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zurich, Switzerland",
       "venue": "Letzigrund Stadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9523,10 +8847,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zaragoza, Spain",
       "venue": "Estadio de La Romareda",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9537,10 +8860,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, Holland",
       "venue": "ArenA",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9551,10 +8873,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Parc des Princes",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2004,
@@ -9565,10 +8886,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dublin, Ireland",
       "venue": "RDS Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9579,10 +8899,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Padova, ITA",
       "venue": "Stadio Euganeo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9593,10 +8912,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Prague, CZE",
       "venue": "T-Mobile Park Kolbenova",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9607,10 +8925,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Werchter, BEL",
       "venue": "Werchterpark",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9621,10 +8938,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Reykjavik, Iceland",
       "venue": "Egilsholl Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9635,10 +8951,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Xcel Energy Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9649,10 +8964,9 @@ const ARTIST_DATA = {
       "state": "ND",
       "location": "Fargo, ND",
       "venue": "Fargodome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9663,10 +8977,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Conseco Fieldhouse",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9677,10 +8990,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Bradley Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9691,10 +9003,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Moline, IL",
       "venue": "Mark of the Quad Cities",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9705,10 +9016,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Peoria, IL",
       "venue": "Peoria Civic Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9719,10 +9029,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Fort Wayne, IN",
       "venue": "Peoria Civic Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9733,10 +9042,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Allstate Arena",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -9747,10 +9055,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Allstate Arena",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -9761,10 +9068,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Ames, IA",
       "venue": "Hilton Coliseum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9775,10 +9081,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Wichita, KS",
       "venue": "Valley Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9789,10 +9094,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Frank Erwin Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9803,10 +9107,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Lubbock, TX",
       "venue": "United Spirit Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9817,10 +9120,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Gund Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9831,10 +9133,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Mellon Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9845,10 +9146,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Value City Arena at the Schottenstein Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9859,10 +9159,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Green Bay, WI",
       "venue": "Resch Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9873,10 +9172,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Auburn Hills, MI",
       "venue": "The Palace of Auburn Hills",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9887,10 +9185,9 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Centre Bell",
-      "gear": "",
-      "taper": "1st Night",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night"
     },
     {
       "year": 2004,
@@ -9901,10 +9198,9 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Centre Bell",
-      "gear": "",
-      "taper": "2nd Night",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night"
     },
     {
       "year": 2004,
@@ -9915,10 +9211,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Air Canada Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9929,10 +9224,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Ottawa, ON",
       "venue": "Corel Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9943,10 +9237,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "HSBC Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2004,
@@ -9957,10 +9250,9 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Quebec City, QC",
       "venue": "Colisee Pepsi",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -9971,10 +9263,9 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Quebec City, QC",
       "venue": "Colisee Pepsi",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -9985,10 +9276,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "MCI Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -9999,10 +9289,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wachovia Center",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -10013,10 +9302,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wachovia Center",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -10027,10 +9315,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Continental Airlines Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -10041,10 +9328,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "E. Rutherford, NJ",
       "venue": "Continental Airlines Arena",
-      "gear": "Sony ECM-717",
-      "taper": "Ukj69",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-717 \u00b7 Ukj69"
     },
     {
       "year": 2004,
@@ -10055,10 +9341,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Fleet Center",
-      "gear": "",
-      "taper": "1st Night",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night"
     },
     {
       "year": 2004,
@@ -10069,10 +9354,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Fleet Center",
-      "gear": "",
-      "taper": "2nd Night",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night"
     },
     {
       "year": 2004,
@@ -10083,10 +9367,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Fleet Center",
-      "gear": "",
-      "taper": "Source 1 \u00b7 Asyd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 1 \u00b7 Asyd"
     },
     {
       "year": 2004,
@@ -10097,10 +9380,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Fleet Center",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Firemt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Firemt"
     },
     {
       "year": 2004,
@@ -10111,10 +9393,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Fleet Center",
-      "gear": "Sony ECM-MS907",
-      "taper": "Source 5 \u00b7 Kingrue",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-MS907 \u00b7 Source 5 \u00b7 Kingrue"
     },
     {
       "year": 2004,
@@ -10125,10 +9406,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamilton, Ontario",
       "venue": "Copps Coliseum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -10139,10 +9419,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, Ontario",
       "venue": "John Labatt Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -10153,10 +9432,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "St. Pete Times Forum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -10167,10 +9445,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Sunrise, FL",
       "venue": "Office Depot Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -10181,10 +9458,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Jacksonville, FL",
       "venue": "Jacksonville Veterans Memorial Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2004,
@@ -10195,10 +9471,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Pensacola, FL",
       "venue": "Pensacola Civic Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -10209,10 +9484,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Gaylord Entertainment Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -10223,10 +9497,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Duluth, GA",
       "venue": "Gwinnett Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -10237,10 +9510,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "New Orleans Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -10251,10 +9523,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Toyota Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -10265,10 +9536,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "American Airlines Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -10279,10 +9549,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "SBC Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -10293,10 +9562,9 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "E Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -10307,10 +9575,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Ipayone Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -10321,10 +9588,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Arrowhead Pond Tuning Room",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -10335,10 +9601,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "HP Pavilion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2005,
@@ -10349,10 +9614,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "SBC Park *Louder Bangs",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2005,
@@ -10363,10 +9627,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "SBC Park *Louder Bangs",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2006,
@@ -10377,10 +9640,9 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Park City, UT",
       "venue": "Harry O's",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -10391,10 +9653,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Centaurion, South Africa",
       "venue": "Supersport Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -10405,10 +9666,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Durban, South Africa",
       "venue": "The Coca-Cola Colab Massive Mix 2006",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -10419,10 +9679,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cape Town, South Africa",
       "venue": "The Coca-Cola Colab Massive Mix 2006",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -10433,10 +9692,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nurburgring, Germany",
       "venue": "Rock am Ring",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -10447,10 +9705,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nuremburg, Germany",
       "venue": "Rock im Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -10461,10 +9718,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "Waldb?hne",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -10475,10 +9731,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Arnhem, Holland",
       "venue": "Gelredome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -10489,10 +9744,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Donington, England",
       "venue": "Donington Park - Download 2006",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -10503,10 +9757,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dublin, Ireland",
       "venue": "RDS Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2006,
@@ -10517,10 +9770,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tallin, Estonia",
       "venue": "Tallinna Lauluv?ljak",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -10531,10 +9783,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nickelsdorf, Austria",
       "venue": "Pannonia Fields II",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -10545,10 +9796,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nickelsdorf, AUT - Pannonia Fields II (Source 2) (metallifreak) - MD(M)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2006,
@@ -10559,10 +9809,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Imola, Italy",
       "venue": "Autodromo Internazionale Enzo e Dino Ferrari - Heineken Jammin' Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -10573,10 +9822,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "Chiba Marine Stadium - Summer Sonic Tokyo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -10587,10 +9835,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Osaka, Japan",
       "venue": "WTC Open Air Stadium - Summer Sonic Osaka",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -10601,10 +9848,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Osaka, Japan",
       "venue": "WTC Open Air Stadium *Master Of Sonics",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Sy-0793",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Sy-0793"
     },
     {
       "year": 2006,
@@ -10615,10 +9861,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Seoul, Korea",
       "venue": "Olympic Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -10629,10 +9874,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Seoul, Korea",
       "venue": "Jamsil Olympic Stadium *Live In Seoul",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Ifpi L391",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Ifpi L391"
     },
     {
       "year": 2007,
@@ -10643,10 +9887,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, Portugal",
       "venue": "Parque do Tejo - Super Bock Super Rock 2007",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -10657,10 +9900,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bilbao, Spain",
       "venue": "Kobetamendi - Bilbao BBK Live",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -10671,10 +9913,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Werchter, Belgium",
       "venue": "Festival Park Werchter - Rock Werchter 2007",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -10685,10 +9926,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Athens, Greece",
       "venue": "Terra Vibe - Rockwave Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -10699,10 +9939,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, Austria",
       "venue": "Rotundenplatz",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -10713,10 +9952,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, Austria",
       "venue": "Rotundenplatz",
-      "gear": "",
-      "taper": "Source 5 \u00b7 Metallifreak",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 5 \u00b7 Metallifreak"
     },
     {
       "year": 2007,
@@ -10727,10 +9965,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Wembley Stadium - Live Earth London",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -10741,10 +9978,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Wembley Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -10755,10 +9991,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Wembley Stadium",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Metallifreak",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Metallifreak"
     },
     {
       "year": 2007,
@@ -10769,10 +10004,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, Norway",
       "venue": "Valle Hovin",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -10783,10 +10017,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, Norway",
       "venue": "Valle Hovin Stadion *Ecstasy Of Gold",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Sy-0878",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Sy-0878"
     },
     {
       "year": 2007,
@@ -10797,10 +10030,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, Sweden",
       "venue": "Stockholms Stadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -10811,10 +10043,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Aarhus, Denmark",
       "venue": "Vestereng",
-      "gear": "",
-      "taper": "Inc \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Inc \u00b7 Livemetallica"
     },
     {
       "year": 2007,
@@ -10825,10 +10056,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Aarhus, Denmark",
       "venue": "Vestereng",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Glenn",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Glenn"
     },
     {
       "year": 2007,
@@ -10839,10 +10069,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Olympiastadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -10853,10 +10082,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Helsinki Olympic Stadium",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Christophfe",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Christophfe"
     },
     {
       "year": 2007,
@@ -10867,10 +10095,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Moscow, Russia",
       "venue": "Luzhniki Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -10881,10 +10108,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Moscow, Russia",
       "venue": "Luzhniki Stadium *Sick of the Studio '07 (16144-1-2",
-      "gear": "",
-      "taper": "Source 5",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 5"
     },
     {
       "year": 2007,
@@ -10895,10 +10121,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre - Bridge School Benefit",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -10909,10 +10134,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre - Bridge School Benefit",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -10923,10 +10147,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mountain View, CA - Shoreline Amphitheatre (Source 1)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2008,
@@ -10937,10 +10160,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Wiltern Theatre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -10951,10 +10173,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tuscon, AZ",
       "venue": "Pima County Fairgrounds - KMFA Day",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -10965,10 +10186,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Verizon Wireless Amphitheatre - KROQ Weenie Roast",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -10979,10 +10199,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Chorzow, Poland",
       "venue": "Stadion Slaski",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -10993,10 +10212,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Chorzo?w, Poland",
       "venue": "Silesian Stadium",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Metalandi",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Metalandi"
     },
     {
       "year": 2008,
@@ -11007,10 +10225,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Landgraaf, Holland",
       "venue": "Megaland - Pinkpop Festival",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2008,
@@ -11021,10 +10238,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Getafe, Spain",
       "venue": "Auditorio John Lennon - Electric Weekend",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11035,10 +10251,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Getafe, Spain",
       "venue": "Auditorio John Lennon - Electric Weekend",
-      "gear": "",
-      "taper": "Livemetallica \u00b7 2020 Mix",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica \u00b7 2020 Mix"
     },
     {
       "year": 2008,
@@ -11049,10 +10264,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Prague, Czech Republic",
       "venue": "Stadion Eden",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11063,10 +10277,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, Portugal",
       "venue": "Parque da Bela Vista - Rock in Rio Lisboa",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11077,10 +10290,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nurburg, Germany",
       "venue": "Nurburgring - Rock am Ring",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11091,10 +10303,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nurnberg, Germany",
       "venue": "Zeppelinfeld - Rock im Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11105,10 +10316,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "The Basement",
-      "gear": "",
-      "taper": "Secret Gig \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Secret Gig \u00b7 Livemetallica"
     },
     {
       "year": 2008,
@@ -11119,10 +10329,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Grimey's Record Store *Nashville & Berlin",
-      "gear": "",
-      "taper": "Source 2 \u00b7 H&f 40314",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 H&f 40314"
     },
     {
       "year": 2008,
@@ -11133,10 +10342,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Manchester, TN",
       "venue": "Great Stage Park - Bonnaroo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11147,10 +10355,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bergen, Norway",
       "venue": "Koengen",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11161,10 +10368,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "St. Petersburg, Russia",
       "venue": "SKK Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11175,10 +10381,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Riga, Latvia",
       "venue": "Skonto stadions",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11189,10 +10394,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bologna, Italy",
       "venue": "Arena Paro Nord",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11203,10 +10407,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bucharest, Romania",
       "venue": "Cotroceni Football Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11217,10 +10420,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sofia, Bulgaria",
       "venue": "Vasil Levski Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11231,10 +10433,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Istanbul, Turkey",
       "venue": "Ali Sami Yen Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11245,10 +10446,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Pizz Hut Park - Ozzfest",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11259,10 +10459,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Frisco, TX",
       "venue": "Pizza Hut Park",
-      "gear": "",
-      "taper": "Dimebag Darrell Tribute \u00b7 Ca-11 \u00b7 Porcelmc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Dimebag Darrell Tribute \u00b7 Ca-11 \u00b7 Porcelmc"
     },
     {
       "year": 2008,
@@ -11273,10 +10472,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Frisco, TX",
       "venue": "Pizza Hut Park",
-      "gear": "",
-      "taper": "Dimebag Darrell Tribute \u00b7 Ca-11 \u00b7 Porcelmc \u00b7 Source 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Dimebag Darrell Tribute \u00b7 Ca-11 \u00b7 Porcelmc \u00b7 Source 2"
     },
     {
       "year": 2008,
@@ -11287,10 +10485,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Arras, France",
       "venue": "Grand' Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11301,10 +10498,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hasselt, Belgium",
       "venue": "Domein Kiewit - Pukkelpop 2008",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11315,10 +10511,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Jonschwil, Switzerland",
       "venue": "Degenaupark",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11329,10 +10524,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dublin, Ireland",
       "venue": "Marlay Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11343,10 +10537,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dublin, Ireland",
       "venue": "Marlay Park",
-      "gear": "",
-      "taper": "Ca-11 \u00b7 Porcelmc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-11 \u00b7 Porcelmc"
     },
     {
       "year": 2008,
@@ -11357,10 +10550,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Leeds, England",
       "venue": "Bramham Park - Leeds Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11371,10 +10563,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Reading, England",
       "venue": "Little John's Farm - Reading Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -11385,10 +10576,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "02 World",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11399,10 +10589,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "BBC Radio Theatre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11413,10 +10602,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "BBC Broadcasting House",
-      "gear": "",
-      "taper": "Source 2",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2"
     },
     {
       "year": 2008,
@@ -11427,10 +10615,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "BBC Broadcasting House *BBC Radio Theatre",
-      "gear": "",
-      "taper": "Source 3 \u00b7 H&f 40313",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 3 \u00b7 H&f 40313"
     },
     {
       "year": 2008,
@@ -11441,10 +10628,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "BBC Broadcasting House - Live At The BBC Theatre",
-      "gear": "",
-      "taper": "Source 4 \u00b7 Manga 005",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 4 \u00b7 Manga 005"
     },
     {
       "year": 2008,
@@ -11455,10 +10641,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "02 Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11469,10 +10654,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Glendale, AZ",
       "venue": "Jobing.com Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11483,10 +10667,9 @@ const ARTIST_DATA = {
       "state": "NM",
       "location": "Alburquerque, NM",
       "venue": "Tingley Coliseum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11497,10 +10680,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Sprint Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11511,10 +10693,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Des Moines, IA",
       "venue": "Wells Fargo Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11525,10 +10706,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Rose Garden Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11539,10 +10719,9 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "EnergySolutions Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11553,10 +10732,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Pepsi Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11567,10 +10745,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Moline, IL",
       "venue": "iWireless Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11581,10 +10758,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Moline, IL",
       "venue": "iWireless Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11595,10 +10771,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Value City Arena at the Schottenstein Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11609,10 +10784,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Scottrade Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11623,10 +10797,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Tulsa, OK",
       "venue": "BOK Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11637,10 +10810,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Toyota Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11651,10 +10823,9 @@ const ARTIST_DATA = {
       "state": "AR",
       "location": "Little Rock, AR",
       "venue": "Alltel Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11665,10 +10836,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "New Orleans Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11679,10 +10849,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Key Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11693,10 +10862,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "General Motors Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11707,10 +10875,9 @@ const ARTIST_DATA = {
       "state": "AB",
       "location": "Calgary, AB",
       "venue": "Pengrowth Saddledome",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2008,
@@ -11721,10 +10888,9 @@ const ARTIST_DATA = {
       "state": "AB",
       "location": "Calgary, AB",
       "venue": "Pengrowth Saddledome",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2008,
@@ -11735,10 +10901,9 @@ const ARTIST_DATA = {
       "state": "AB",
       "location": "Edmonton, AB",
       "venue": "Rexall Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11749,10 +10914,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Ontario, Canada",
       "venue": "Citizens Business Bank Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11763,10 +10927,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fresno, CA",
       "venue": "Save Mart Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11777,10 +10940,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Cox Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -11791,10 +10953,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2008,
@@ -11805,10 +10966,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2008,
@@ -11819,10 +10979,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oracle Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -11833,10 +10992,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Bradley Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -11847,10 +11005,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Joe Louis Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -11861,10 +11018,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "Verizon Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -11875,10 +11031,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wachovia Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -11889,10 +11044,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wachovia Center - Live In Philadelphia",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Met 109-1-2",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Met 109-1-2"
     },
     {
       "year": 2009,
@@ -11903,10 +11057,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "TD Banknorth Garden",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -11917,10 +11070,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "TD Banknorth Garden",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Farve4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Farve4"
     },
     {
       "year": 2009,
@@ -11931,10 +11083,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Allstate Arena",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -11945,10 +11096,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Allstate Arena",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -11959,10 +11109,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -11973,10 +11122,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Newark, NJ",
       "venue": "Prudential Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -11987,10 +11135,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Newark, NJ",
       "venue": "Prudential Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12001,10 +11148,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Newark, NJ",
       "venue": "Prudential Center",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Tikimaize",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Tikimaize"
     },
     {
       "year": 2009,
@@ -12015,10 +11161,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nottingham, England",
       "venue": "Trent FM Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12029,10 +11174,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Manchester, England",
       "venue": "Manchester Evening News Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12043,10 +11187,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sheffield, England",
       "venue": "Sheffield Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12057,10 +11200,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "02 Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12071,10 +11213,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Newcastle, England",
       "venue": "Metro Radio Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12085,10 +11226,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Antwerp, Belgium",
       "venue": "Sportspaleis",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12099,10 +11239,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Antwerp, Belgium",
       "venue": "Sportpaleis",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Bitdoursssss",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Bitdoursssss"
     },
     {
       "year": 2009,
@@ -12113,10 +11252,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, Sweden",
       "venue": "Globen",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12127,10 +11265,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's Bar-B-Q - SXSW 2009",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12141,10 +11278,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Birmingham, England",
       "venue": "LG Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12155,10 +11291,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Glasgow, Scotland",
       "venue": "Scottish Exhibition and Conference Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12169,10 +11304,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Glasgow, Scotland",
       "venue": "S.E.C.C.",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Dropdeadfreds",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Dropdeadfreds"
     },
     {
       "year": 2009,
@@ -12183,10 +11317,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "02 Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12197,10 +11330,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rotterdam, Holland",
       "venue": "Ahoy",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12211,10 +11343,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rotterdam, The Netherlands",
       "venue": "Ahoy Rotterdam - Dutch Magnetic",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Tl01-a-b",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Tl01-a-b"
     },
     {
       "year": 2009,
@@ -12225,10 +11356,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Omnisports de Paris-Bercy",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -12239,10 +11369,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Omnisports de Paris-Bercy",
-      "gear": "SP-CMC-8",
-      "taper": "1st Night \u00b7 Bitdoursssss",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 1st Night \u00b7 Bitdoursssss"
     },
     {
       "year": 2009,
@@ -12253,10 +11382,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Omnisports de Paris-Bercy",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -12267,10 +11395,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, Sweden",
       "venue": "Ericsson Globe",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12281,10 +11408,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Olympiahalle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12295,10 +11421,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Leipzig, Germany",
       "venue": "Arena Leipzig",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12309,10 +11434,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stuttgart, Germany",
       "venue": "Hanns-Martin-Schleyer-Halle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12323,10 +11447,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Frankfurt, Germany",
       "venue": "Festhalle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12337,10 +11460,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Frankfurt, Germany",
       "venue": "Festhalle",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Dagobert",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Dagobert"
     },
     {
       "year": 2009,
@@ -12351,10 +11473,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Color Line Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12365,10 +11486,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, Austria",
       "venue": "Wiener Stadthalle-Halle D",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12379,10 +11499,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oberhausen, Germany",
       "venue": "Konig-Pilsener Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12393,10 +11512,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cologne, Germany",
       "venue": "Lanxess Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12407,10 +11525,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Foro Sol",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12421,10 +11538,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Foro Sol",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12435,10 +11551,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Foro Sol",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12449,10 +11564,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Hartwall",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -12463,10 +11577,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Hartwall",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -12477,10 +11590,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, Norway",
       "venue": "Spektrum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12491,10 +11603,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nickelsdorf, Austria",
       "venue": "Pannonia Fields II - Nova Rock",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12505,10 +11616,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nijmegen, Holland",
       "venue": "Goffertpark - Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12519,10 +11629,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milan, Itally",
       "venue": "Mediolanum Forum di Assago",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12533,10 +11642,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rome, Italy",
       "venue": "Palalottomatica",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12547,10 +11655,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hockenheim, Germany",
       "venue": "Hockenheimring - Sonisphere Germany",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12561,10 +11668,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Werchter, Belgium",
       "venue": "Rock Werchter",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12575,10 +11681,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nimes, France",
       "venue": "Arenes de Nimes - Festival de Nimes",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12589,10 +11694,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oeiras, Portugal",
       "venue": "Passeio Mar?timo de Alg? - Optimus Alive!",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12603,10 +11707,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Barcelona, Spain",
       "venue": "Parc del Forum / Sonisphere Spain",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12617,10 +11720,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Palacio de Deportes de la Comunidad de Madrid",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -12631,10 +11733,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Palacio de Deportes de la Comunidad de Madrid",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -12645,10 +11746,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zurich, Switzerland",
       "venue": "Hallenstadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12659,10 +11759,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hultsfred, Sweden",
       "venue": "Folkets Park - Sonisphere Sweden",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12673,10 +11772,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum Kobenhavn",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -12687,10 +11785,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum Kobenhavn",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -12701,10 +11798,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum Kobenhavn",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica \u00b7 2009 Original Mix",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica \u00b7 2009 Original Mix"
     },
     {
       "year": 2009,
@@ -12715,10 +11811,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum Kobenhavn",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica \u00b7 2020 Mix",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "2nd Night \u00b7 Livemetallica \u00b7 2020 Mix"
     },
     {
       "year": 2009,
@@ -12729,10 +11824,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum Kobenhavn",
-      "gear": "",
-      "taper": "3rd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "3rd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -12743,10 +11837,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Pori, Finland",
       "venue": "Kirjurinluoto - Sonisphere Finland",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12757,10 +11850,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum Kobenhavn",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -12771,10 +11863,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum Kobenhavn",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -12785,10 +11876,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, Norway",
       "venue": "Spektrum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12799,10 +11889,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dublin, Ireland",
       "venue": "Marlay Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12813,10 +11902,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stevenage, England",
       "venue": "Knebworth House - Sonisphere UK",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12827,10 +11915,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Rafael, CA",
       "venue": "Marin Veterans' Memorial Auditorium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12841,10 +11928,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Sommet Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12855,10 +11941,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "U.S. Bank Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12869,10 +11954,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Conseco Fieldhouse",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12883,10 +11967,9 @@ const ARTIST_DATA = {
       "state": "PQ",
       "location": "Montreal, PQ",
       "venue": "Centre Bell",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -12897,10 +11980,9 @@ const ARTIST_DATA = {
       "state": "PQ",
       "location": "Montreal, PQ",
       "venue": "Centre Bell",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -12911,10 +11993,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "AT&T Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12925,10 +12006,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "American Airlines Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12939,10 +12019,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Sunrise, FL",
       "venue": "BankAtlantic Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12953,10 +12032,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "St. Pete Times Forum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12967,10 +12045,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Philips Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12981,10 +12058,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Winnipeg, Manitoba",
       "venue": "MTS Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -12995,10 +12071,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Target Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -13009,10 +12084,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Quicken Loans Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -13023,10 +12097,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Charlottesville, VA",
       "venue": "John Paul Jones Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -13037,10 +12110,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Time Warner Cable Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -13051,10 +12123,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Canada",
       "venue": "Air Canada Centre",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -13065,10 +12136,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Canada",
       "venue": "Air Canada Centre",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -13079,10 +12149,9 @@ const ARTIST_DATA = {
       "state": "PQ",
       "location": "Quebec City, PQ",
       "venue": "Colisee Pepsi",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -13093,10 +12162,9 @@ const ARTIST_DATA = {
       "state": "PQ",
       "location": "Quebec City, PQ",
       "venue": "Colisee Pepsi",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -13107,10 +12175,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Ottawa, Ontario",
       "venue": "Scotiabank",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -13121,10 +12188,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "Van Andel Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -13135,10 +12201,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "HSBC Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -13149,10 +12214,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Times Union Center",
-      "gear": "",
-      "taper": "Ca-11 \u00b7 Tikimaize",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-11 \u00b7 Tikimaize"
     },
     {
       "year": 2009,
@@ -13163,10 +12227,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Times Union Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -13177,10 +12240,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -13191,10 +12253,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "gear": "",
-      "taper": "1st Night \u00b7 Ca-11 \u00b7 Tikimaize",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Ca-11 \u00b7 Tikimaize"
     },
     {
       "year": 2009,
@@ -13205,10 +12266,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -13219,10 +12279,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Mandalay Bay Events Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -13233,10 +12292,9 @@ const ARTIST_DATA = {
       "state": "ID",
       "location": "Boise, ID",
       "venue": "Idaho Center Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -13247,10 +12305,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "ARCO Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -13261,10 +12318,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -13275,10 +12331,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "HP Pavilion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -13289,10 +12344,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "San Jose Arena",
-      "gear": "",
-      "taper": "Km140s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km140s"
     },
     {
       "year": 2010,
@@ -13303,10 +12357,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lima, Peru",
       "venue": "Estadio San Marcos",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13317,10 +12370,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buenos Aires, Argentina",
       "venue": "Estadio River Plate",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2010,
@@ -13331,10 +12383,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buenos Aires, Argentina",
       "venue": "Estadio River Plate",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2010,
@@ -13345,10 +12396,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cordoba, Chile",
       "venue": "Orfeo Superdomo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13359,10 +12409,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Santiago, Chile",
       "venue": "Club Hipico",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13373,10 +12422,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Porto Alegre, Brazil",
       "venue": "Parque Condor",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13387,10 +12435,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sao Paulo, Brazil",
       "venue": "Estadio do Morumbi",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2010,
@@ -13401,10 +12448,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sao Paulo, Brazil",
       "venue": "Estadio do Morumbi",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2010,
@@ -13415,10 +12461,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Guadalajara, Mexico",
       "venue": "Estadio Tres de Marzo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13429,10 +12474,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Monterrey, Mexico",
       "venue": "Estadio Universitario",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13443,10 +12487,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Guatemala City, GTM",
       "venue": "Estadio Mateo Flores",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13457,10 +12500,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "San Jose, Costa Rica",
       "venue": "Estadio Ricardo Saprissa",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13471,10 +12513,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Panama City, PAN",
       "venue": "Figali Convention Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13485,10 +12526,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bogota, Colombia",
       "venue": "Parque Simon Bolivar",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13499,10 +12539,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Caracas, Venezuela",
       "venue": "Estadio de Beisbol de la Rinconada",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13513,10 +12552,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "San Juan, PRI",
       "venue": "Coliseo de Puerto Rico Jose? Miguel Agrelot",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13527,10 +12565,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, Norway",
       "venue": "Telenor Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13541,10 +12578,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, Norway",
       "venue": "Telenor Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13555,10 +12591,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Riga, LVA",
       "venue": "Riga Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13569,10 +12604,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tallinn, EST",
       "venue": "Saku Suurhall",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13583,10 +12617,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vilnius, LIT",
       "venue": "Siemens Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13597,10 +12630,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vilnius, LIT",
       "venue": "Siemens Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13611,10 +12643,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Moscow, Russia",
       "venue": "Olympijskiy Stadium",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2010,
@@ -13625,10 +12656,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Moscow, Russia",
       "venue": "Olympijskiy Stadium",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2010,
@@ -13639,10 +12669,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Belfast, IRE",
       "venue": "Odyssey Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13653,10 +12682,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Belfast, IRE",
       "venue": "Odyssey Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13667,10 +12695,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Budapest, Hungary",
       "venue": "Puskas Ferenc Stadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13681,10 +12708,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zagreb, HRV",
       "venue": "Zagreb Hippodrome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13695,10 +12721,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, PRT - Pavilha?o Atla?ntico (LiveMetallica)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2010,
@@ -13709,10 +12734,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, PRT - Pavilha?o Atla?ntico (LiveMetallica)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2010,
@@ -13723,10 +12747,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tel Aviv, ISR - Ramat Gan Stadium (LiveMetallica)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2010,
@@ -13737,10 +12760,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lyon, France",
       "venue": "Halle Tony Garnier",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13751,10 +12773,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Arganda del Rey, Spain",
       "venue": "Ciudad del Rock - Rock in Rio",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13765,10 +12786,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Warsaw, POL",
       "venue": "Bemowo Airport - Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13779,10 +12799,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Jonschwil, CHE",
       "venue": "Degenaupark - Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13793,10 +12812,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Prague, CZE",
       "venue": "Milovice Airfield - Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13807,10 +12825,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sofia, BUL",
       "venue": "Vasil Levski Stadium - Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13821,10 +12838,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Athens, GRC",
       "venue": "Terra Vibe Park - Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13835,10 +12851,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bucharest, ROM",
       "venue": "Romexpo - Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13849,10 +12864,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Istanbul, TUR",
       "venue": "BJK Inonu Stadium, Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13863,10 +12877,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, AUS",
       "venue": "Rod Laver Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13877,10 +12890,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, AUS",
       "venue": "Rod Laver Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13891,10 +12903,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, AUS",
       "venue": "Acer Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13905,10 +12916,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Christchurch, NZL",
       "venue": "CBS Canterbury Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13919,10 +12929,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Christchurch, NZL",
       "venue": "CBS Canterbury Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13933,10 +12942,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, JPN",
       "venue": "Saitama Super Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13947,10 +12955,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, JPN",
       "venue": "Saitama Super Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13961,10 +12968,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Auckland, NZL",
       "venue": "Vector Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13975,10 +12981,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Auckland, NZL",
       "venue": "Vector Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -13989,10 +12994,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brisbane, AUS",
       "venue": "Brisbane Entertainment Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -14003,10 +13007,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brisbane, Australia",
       "venue": "Brisbane Entertainment Centre",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Crazytallicafux",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Crazytallicafux"
     },
     {
       "year": 2010,
@@ -14017,10 +13020,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brisbane, AUS",
       "venue": "Brisbane Entertainment Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -14031,10 +13033,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brisbane, AUS",
       "venue": "Brisbane Entertainment Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -14045,10 +13046,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Perth, AUS",
       "venue": "Burswood Dome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -14059,10 +13059,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Perth, Australia",
       "venue": "Burswood Dome",
-      "gear": "",
-      "taper": "Sp-bmc-12",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sp-bmc-12"
     },
     {
       "year": 2010,
@@ -14073,10 +13072,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Perth, Australia",
       "venue": "Burswood Dome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -14087,10 +13085,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Santa Monica Airport - Hangar 8",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -14101,10 +13098,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Santa Monica Airport *Call Of Duty Black Ops",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Moz-2",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Moz-2"
     },
     {
       "year": 2010,
@@ -14115,10 +13111,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, AUS",
       "venue": "Acer Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -14129,10 +13124,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, AUS",
       "venue": "Acer Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -14143,10 +13137,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, Australia",
       "venue": "Acer Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -14157,10 +13150,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Adelaide, AUS",
       "venue": "Adelaide Entertainment Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -14171,10 +13163,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Adelaide, AUS",
       "venue": "Adelaide Entertainment Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -14185,10 +13176,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, AUS",
       "venue": "Rod Laver Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -14199,10 +13189,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, AUS",
       "venue": "Rod Laver Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -14213,10 +13202,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, AUS",
       "venue": "Rod Laver Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -14227,10 +13215,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Club",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -14241,10 +13228,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gelsenkirchen, GER",
       "venue": "Veltins Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -14255,10 +13241,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Ullevi Stadium - Big 4 Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -14269,10 +13254,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Ullevi",
-      "gear": "",
-      "taper": "Source 2",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2"
     },
     {
       "year": 2011,
@@ -14283,10 +13267,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Ullevi",
-      "gear": "",
-      "taper": "Source 3 \u00b7 Tosse2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 3 \u00b7 Tosse2"
     },
     {
       "year": 2011,
@@ -14297,10 +13280,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milan, ITA",
       "venue": "Fiera Open Air Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -14311,10 +13293,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Knebworth, UK",
       "venue": "Knebworth House, Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -14325,10 +13306,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amneville, FRA",
       "venue": "Snowhall Parc, Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -14339,10 +13319,9 @@ const ARTIST_DATA = {
       "state": "NS",
       "location": "Halifax, NS",
       "venue": "Halifax Citadel Garrison Grounds - Rock the Hill",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -14353,10 +13332,9 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Quebec City, QC",
       "venue": "Plains of Abraham, Festival d'ete de Quebec",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -14367,10 +13345,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Moscone Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -14381,10 +13358,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Yankee Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -14395,10 +13371,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Yankee Stadium",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Tikimaize",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Tikimaize"
     },
     {
       "year": 2011,
@@ -14409,10 +13384,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rio De Janeiro, BRA",
       "venue": "Cidade do Rock, Rock in Rio",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -14423,10 +13397,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Abu Dhabi, ARE",
       "venue": "Yas Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -14437,10 +13410,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bangalodore, IND",
       "venue": "Main Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -14451,10 +13423,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bockemond, Germany",
       "venue": "WDR Studio BS 1",
-      "gear": "",
-      "taper": "Lou Reed & Metallica",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Lou Reed & Metallica"
     },
     {
       "year": 2011,
@@ -14465,10 +13436,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2011,
@@ -14479,10 +13449,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2011,
@@ -14493,10 +13462,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "",
-      "taper": "3rd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "3rd Night \u00b7 Livemetallica"
     },
     {
       "year": 2011,
@@ -14507,10 +13475,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "",
-      "taper": "4th Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "4th Night \u00b7 Livemetallica"
     },
     {
       "year": 2012,
@@ -14521,10 +13488,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Prague, CZE",
       "venue": "Synot Tip Are?na",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14535,10 +13501,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Belgrade, SRB",
       "venue": "USCE Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14549,10 +13514,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Warsaw, Poland",
       "venue": "Bemowo Airport",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14563,10 +13527,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Stade de France",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14577,10 +13540,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Udine, Italy",
       "venue": "Stadio Friule",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14591,10 +13553,9 @@ const ARTIST_DATA = {
       "state": "NO",
       "location": "Oslo, NO",
       "venue": "Vallehovin",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14605,10 +13566,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, Portugal",
       "venue": "Rock in Rio",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14619,10 +13579,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisboa, Portugal",
       "venue": "Rock in Rio",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": ""
     },
     {
       "year": 2012,
@@ -14633,10 +13592,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Getafe Open Air",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14647,10 +13605,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Werchter, Belgium",
       "venue": "Festivalpark",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14661,10 +13618,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Yverdon-les-Bains, Switzerland",
       "venue": "Rives du Lac",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14675,10 +13631,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nurnberg, DEU",
       "venue": "Rock im Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14689,10 +13644,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nurbergring, DEU",
       "venue": "Rock am Ring",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14703,10 +13657,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland /- Kalatasama (LiveMetallica)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2012,
@@ -14717,10 +13670,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Horsens, DNK",
       "venue": "State Prison Open Air",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14731,10 +13683,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Donington, England",
       "venue": "Download Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14745,10 +13696,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nickelsdorf, Austria",
       "venue": "Nova Rock",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14759,10 +13709,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nickelsdorf, Austria",
       "venue": "Nova Rock",
-      "gear": "",
-      "taper": "Livemetallica \u00b7 2020 Mix",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica \u00b7 2020 Mix"
     },
     {
       "year": 2012,
@@ -14773,10 +13722,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nickelsdorf, AUT",
       "venue": "Pannonia Fields II",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Shownomarcy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Shownomarcy"
     },
     {
       "year": 2012,
@@ -14787,10 +13735,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Atlantic City, NJ",
       "venue": "Orion Music + More 2012",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14801,10 +13748,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Atlantic City, NJ",
       "venue": "Orion Music + More 2012",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14815,10 +13761,9 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico CIty, MX",
       "venue": "Sports Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14829,10 +13774,9 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico CIty, MX",
       "venue": "Sports Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14843,10 +13787,9 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico CIty, MX",
       "venue": "Sports Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14857,10 +13800,9 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico CIty, MX",
       "venue": "Sports Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14871,10 +13813,9 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico CIty, MX",
       "venue": "Sports Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14885,10 +13826,9 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico CIty, MX",
       "venue": "Sports Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14899,10 +13839,9 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico CIty, MX",
       "venue": "Sports Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14913,10 +13852,9 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico CIty, MX",
       "venue": "Sports Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14927,10 +13865,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14941,10 +13878,9 @@ const ARTIST_DATA = {
       "state": "AB",
       "location": "Edmonton, AB",
       "venue": "Rexall Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14955,10 +13891,9 @@ const ARTIST_DATA = {
       "state": "AB",
       "location": "Edmonton, AB",
       "venue": "Rexall Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14969,10 +13904,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Rogers Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14983,10 +13917,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Rogers Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -14997,10 +13930,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Voodoo Music & Arts Experience",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15011,10 +13943,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brisbane, AUS",
       "venue": "Soundwave Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15025,10 +13956,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, AUS",
       "venue": "Soundwave Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15039,10 +13969,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, AUS",
       "venue": "Soundwave Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15053,10 +13982,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Adelaide, AUS",
       "venue": "Soundwave Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15067,10 +13995,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Perth, AUS",
       "venue": "Soundwave Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15081,10 +14008,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Abu Dhabi, UAE",
       "venue": "Du Arena at Yas Island",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15095,10 +14021,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cape Town, RSA",
       "venue": "Bellville Velodrome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15109,10 +14034,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cape Town, RSA",
       "venue": "Bellville Velodrome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15123,10 +14047,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Johannesburg, RSA",
       "venue": "FNB Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15137,10 +14060,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Belle Isle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15151,10 +14073,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Belle Isle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15165,10 +14086,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Roskilde, DNK",
       "venue": "Roskilde Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15179,10 +14099,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Spreckels",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15193,10 +14112,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "QVC Marine Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15207,10 +14125,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Chiba, Japan",
       "venue": "QVC Marine Field *Summer Sonic Tokyo 2013",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2013,
@@ -15221,10 +14138,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "QVC Marine Field *Summer Sonic Tokyo 2013",
-      "gear": "",
-      "taper": "Source 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2"
     },
     {
       "year": 2013,
@@ -15235,10 +14151,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Osaka, Japan",
       "venue": "Maishima Summer Sonic Osaka Site",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15249,10 +14164,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Osaka, Japan",
       "venue": "Maishima *Summer Sonic Osaka 2013",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2013,
@@ -15263,10 +14177,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Osaka, Japan",
       "venue": "Maishima Sports Island *Summer Sonic Osaka 2013",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Zodiac 032",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Zodiac 032"
     },
     {
       "year": 2013,
@@ -15277,10 +14190,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Shanghai, CHN",
       "venue": "Mercedes-Benz Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15291,10 +14203,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Shanghai, China",
       "venue": "Mercedes-Benz Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15305,10 +14216,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Seoul, KOR",
       "venue": "Citybreak at Olympic Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15319,10 +14229,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Seoul, Korea",
       "venue": "Olympic Park *Fight Fire With Seoul",
-      "gear": "",
-      "taper": "Source 2",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2"
     },
     {
       "year": 2013,
@@ -15333,10 +14242,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Kuala Lumpur, Malaysia",
       "venue": "Stadium Merdeka",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15347,10 +14255,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Singapore, SGP",
       "venue": "Singapore Changi Exhibition Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15361,10 +14268,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Jakarta, IDN",
       "venue": "Galora Bung Karno Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15375,10 +14281,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rio de Janeiro, Brazil",
       "venue": "City of Rock",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15389,10 +14294,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Apollo Theater",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15403,10 +14307,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "South Shetland Islands, Antarctica",
       "venue": "Carlini Dome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -15417,10 +14320,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "South Shetland Islands, Antarctica",
       "venue": "Carlini Dome *Freeze 'Em All",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": ""
     },
     {
       "year": 2014,
@@ -15431,10 +14333,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Staples Center",
-      "gear": "",
-      "taper": "Damageinc",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Damageinc"
     },
     {
       "year": 2014,
@@ -15445,10 +14346,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bogota, COL",
       "venue": "Parque Simon Bolivar",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15459,10 +14359,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Quito, ECU",
       "venue": "Parque Bicenenario",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15473,10 +14372,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lima, PER",
       "venue": "Estadio Nacional",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15487,10 +14385,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sao Paulo, BRA",
       "venue": "Estadio Do Morumbi",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15501,10 +14398,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Asuncion, PRY",
       "venue": "Jockey Club",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15515,10 +14411,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Santiago, CHL",
       "venue": "Estadio Monumental",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15529,10 +14424,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buenos Aires, Argentina",
       "venue": "Estadio Ciudad de la Plata",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15543,10 +14437,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buenos Aires, ARG",
       "venue": "Estadio Ciudad de la Plata",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15557,10 +14450,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Club Nokia",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15571,10 +14463,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, FIN",
       "venue": "Sonisphere at Hietaniemi Beach",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15585,10 +14476,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, SWE",
       "venue": "Gardet Royal Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15599,10 +14489,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, NOR",
       "venue": "Sonisphere at Valle Hovin",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15613,10 +14502,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Horsens, DNK",
       "venue": "State Prison Open Air",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15627,10 +14515,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, DEU",
       "venue": "Sonisphere at Imtech Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15641,10 +14528,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nu?rnberg, Germany",
       "venue": "Zeppelinfeld",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15655,10 +14541,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nurburg, Germany - Rock am Ring (LiveMetallica)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": ""
     },
     {
       "year": 2014,
@@ -15669,10 +14554,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Landgraaf, The Netherlands",
       "venue": "Megaland",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2014,
@@ -15683,10 +14567,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Landgraaf, The Netherlands",
       "venue": "Pinkpop Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15697,10 +14580,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Pilton, England",
       "venue": "Glastonbury Festival at Worthy Farm",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15711,10 +14593,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rome, ITA",
       "venue": "Rock In Rome Sonisphere at Ippodromo Capannelle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15725,10 +14606,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Werchter, Belgium",
       "venue": "Rock Werchter",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15739,10 +14619,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Basel, SUI",
       "venue": "Sonisphere at St. Jakob-Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15753,10 +14632,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stevenage, GBR",
       "venue": "Sonisphere at Knebworth House",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15767,10 +14645,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Prague, CZE",
       "venue": "Aerodrome Festival at Incheba Open Air",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15781,10 +14658,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, AUT",
       "venue": "Krieau Rocks at Krieau Open Air",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15795,10 +14671,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Warsaw, POL",
       "venue": "Sonisphere at National Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15809,10 +14684,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Istanbul, TUR",
       "venue": "Itu Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -15823,10 +14697,9 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Heavy Montreal at Parc Jean-Drapeau",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -15837,10 +14710,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Pier 48",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 2015,
@@ -15851,10 +14723,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "MGM Resorts Festival Grounds",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -15865,10 +14736,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Veltins Arena",
       "venue": "Gelsenkirchen, DEU",
-      "gear": "",
-      "taper": "Mix #1 \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Mix #1 \u00b7 Livemetallica"
     },
     {
       "year": 2015,
@@ -15879,10 +14749,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Veltins Arena",
       "venue": "Gelsenkirchen, DEU",
-      "gear": "",
-      "taper": "Mix #2 \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Mix #2 \u00b7 Livemetallica"
     },
     {
       "year": 2015,
@@ -15893,10 +14762,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mu?nchen, DEU",
       "venue": "Olympiapark Mu?nchen",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -15907,10 +14775,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milan, Italy",
       "venue": "Assago Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -15921,10 +14788,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, AUT",
       "venue": "Donauinsel Wien",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -15935,10 +14801,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Circuit Of The Americas",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -15949,10 +14814,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Grant Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -15963,10 +14827,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bergen, Norway",
       "venue": "Bergenhus Fortress",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -15977,10 +14840,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Ullevi Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -15991,10 +14853,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "St. Petersburg, Russia",
       "venue": "Saint-Petersburg Sports And Concert Complex",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -16005,10 +14866,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "St. Petersburg, Russia",
       "venue": "Saint-Petersburg Sports And Concert Complex",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Stucker \u00b7 Ca-14",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Stucker \u00b7 Ca-14"
     },
     {
       "year": 2015,
@@ -16019,10 +14879,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Moscow, Russia",
       "venue": "Olimpiyskiy",
-      "gear": "",
-      "taper": "Source 1 \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Source 1 \u00b7 Livemetallica"
     },
     {
       "year": 2015,
@@ -16033,10 +14892,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Moscow, Russia",
       "venue": "Olimpiyskiy",
-      "gear": "",
-      "taper": "Source 2 \u00b7 Sp-spsb-11 \u00b7 Barghest",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2 \u00b7 Sp-spsb-11 \u00b7 Barghest"
     },
     {
       "year": 2015,
@@ -16047,10 +14905,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Moscow, Russia",
       "venue": "Olympijskiy Stadium",
-      "gear": "",
-      "taper": "Hocker999 \u00b7 Ancient Mariner",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Hocker999 \u00b7 Ancient Mariner"
     },
     {
       "year": 2015,
@@ -16061,10 +14918,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Reading, England",
       "venue": "Richfield Avenue",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -16075,10 +14931,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Leeds, England",
       "venue": "Bramham Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -16089,10 +14944,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Que?bec City, Quebec",
       "venue": "Colise?e Pepsi",
-      "gear": "",
-      "taper": "Source 1 \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Source 1 \u00b7 Livemetallica"
     },
     {
       "year": 2015,
@@ -16103,10 +14957,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Que?bec City, Quebec",
       "venue": "Colise?e Pepsi",
-      "gear": "",
-      "taper": "Source 2",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Source 2"
     },
     {
       "year": 2015,
@@ -16117,10 +14970,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Que?bec City, Quebec",
       "venue": "Centre Vide?otron",
-      "gear": "",
-      "taper": "Source 1 \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Source 1 \u00b7 Livemetallica"
     },
     {
       "year": 2015,
@@ -16131,10 +14983,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Que?bec City, Quebec",
       "venue": "Centre Vide?otron",
-      "gear": "",
-      "taper": "Ca-11 \u00b7 Source 2 \u00b7 Porcelmc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-11 \u00b7 Source 2 \u00b7 Porcelmc"
     },
     {
       "year": 2015,
@@ -16145,10 +14996,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rio De Janeiro, Brazil",
       "venue": "Nova Cidade Do Rock",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -16159,10 +15009,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "AT&T Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -16173,10 +15022,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Rasputin Music",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -16187,10 +15035,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "US Bank Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -16201,10 +15048,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "US Bank Stadium",
-      "gear": "PCM-M10",
-      "taper": "3rd Source \u00b7 Jitf",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "PCM-M10 \u00b7 3rd Source \u00b7 Jitf"
     },
     {
       "year": 2016,
@@ -16215,10 +15061,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Great Lawn in Central Park - Global Citizen Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -16229,10 +15074,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Webster Hall",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -16243,10 +15087,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre - Bridge School Benefit",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -16257,10 +15100,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "gear": "Schoeps MK40",
-      "taper": "Ridemyllama",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK40 \u00b7 Ridemyllama"
     },
     {
       "year": 2016,
@@ -16271,10 +15113,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre - Bridge School Benefit",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -16285,10 +15126,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "gear": "Schoeps MK40",
-      "taper": "Ridemyllama",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK40 \u00b7 Ridemyllama"
     },
     {
       "year": 2016,
@@ -16299,10 +15139,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "San Juan, Puerto Rico",
       "venue": "Coliseo Jose Miguel Agrelot",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -16313,10 +15152,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Quito, Ecuador",
       "venue": "Parque Bicentenario",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -16327,10 +15165,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bogota, Colombia",
       "venue": "Hipodromo de los Andes",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -16341,10 +15178,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Guatemala City, Guatemala",
       "venue": "Estadio Cementos Progreso",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -16355,10 +15191,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "San Jose, Costa Rica",
       "venue": "Estadio Nacional de Costa Rica",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -16369,10 +15204,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "House of Vans",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -16383,10 +15217,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Canada",
       "venue": "The Opera House",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -16397,10 +15230,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Fonda Theatre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -16411,10 +15243,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theatre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16425,10 +15256,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Seoul, South Korea",
       "venue": "Gocheok Sky Dome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16439,10 +15269,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Shanghai, China",
       "venue": "Mercedes-Benz Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16453,10 +15282,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Beijing, China",
       "venue": "LeSports Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16467,10 +15295,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Chek Lap Kok, Hong Kong",
       "venue": "AsiaWOrld-Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16481,10 +15308,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Singapore, Singapore",
       "venue": "Singapore Indoor Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16495,10 +15321,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Royal Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16509,10 +15334,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Royal Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16523,10 +15347,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Palladium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16537,10 +15360,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Foro Sol",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16551,10 +15373,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Foro Sol",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16565,10 +15386,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Foro Sol",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16579,10 +15399,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sao Paulo, Brazil",
       "venue": "Autodromo de Interlagos",
-      "gear": "",
-      "taper": "Lollapalooza \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Lollapalooza \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -16593,10 +15412,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buenos Aires, Argentina",
       "venue": "Hipodromo de San Isidro",
-      "gear": "",
-      "taper": "Lollapalooza \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Lollapalooza \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -16607,10 +15425,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Santiago, Chile",
       "venue": "Parque O'Higgins",
-      "gear": "",
-      "taper": "Lollapalooza \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Lollapalooza \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -16621,10 +15438,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "M&T Bank Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16635,10 +15451,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Lincoln Financial Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16649,10 +15464,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "MetLife Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16663,10 +15477,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16677,10 +15490,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Foxborough, MA",
       "venue": "Gilette Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16691,10 +15503,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Mapfre Stadium - Rock on the Range",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16705,10 +15516,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Busch Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16719,10 +15529,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Sports Authority Field at Mile High",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16733,10 +15542,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Newton, IA",
       "venue": "Iowa Speedway",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16747,10 +15555,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "NRG Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16761,10 +15568,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "Alamodome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16775,10 +15581,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Arlington, TX",
       "venue": "AT&T Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16789,10 +15594,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Soldier Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16803,10 +15607,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "Camping World Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16817,10 +15620,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Hard Rock Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16831,10 +15633,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "SunTrust Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16845,10 +15646,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "SunTrust Park",
-      "gear": "DPA 4028",
-      "taper": "George Wang",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4028 \u00b7 George Wang"
     },
     {
       "year": 2017,
@@ -16859,10 +15659,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Comerica Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16873,10 +15672,9 @@ const ARTIST_DATA = {
       "state": "PQ",
       "location": "Quebec City, PQ",
       "venue": "Plaines d'Abraham - Festival dete de Quebec",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16887,10 +15685,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Rogers Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16901,10 +15698,9 @@ const ARTIST_DATA = {
       "state": "PQ",
       "location": "Montreal, PQ",
       "venue": "Parc Jean-Drapeau",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16915,10 +15711,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pasadena, CA",
       "venue": "Rose Bowl",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16929,10 +15724,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "University of Phoenix Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16943,10 +15737,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Petco Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16957,10 +15750,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Centurylink Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -16971,10 +15763,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Centurylink Field",
-      "gear": "",
-      "taper": "Jeancoverdesign \u00b7 Steve Bashakus Master",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Jeancoverdesign \u00b7 Steve Bashakus Master"
     },
     {
       "year": 2017,
@@ -16985,10 +15776,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park - Outside Lands Music & Arts Festival",
-      "gear": "",
-      "taper": "Daspyknows",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Daspyknows"
     },
     {
       "year": 2017,
@@ -16999,10 +15789,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park - Outside Lands Music & Arts Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -17013,10 +15802,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "BC Place Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -17027,10 +15815,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Edmonton, Alberta",
       "venue": "Commonwealth Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -17041,10 +15828,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Royal Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -17055,10 +15841,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, Holland",
       "venue": "Ziggo Dome",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Ca-14s \u00b7 Thierry",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Ca-14s \u00b7 Thierry"
     },
     {
       "year": 2017,
@@ -17069,10 +15854,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, Holland",
       "venue": "Ziggo Dome",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -17083,10 +15867,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, Holland",
       "venue": "Ziggo Dome",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Ca-14s \u00b7 Thierry",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Ca-14s \u00b7 Thierry"
     },
     {
       "year": 2017,
@@ -17097,10 +15880,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, Holland",
       "venue": "Ziggo Dome",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -17111,10 +15893,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "AccorHotels Arena",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -17125,10 +15906,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "AccorHotels Arena",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -17139,10 +15919,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lyon, France",
       "venue": "Halle Tony Garnier",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -17153,10 +15932,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cologne, Germany",
       "venue": "Lanxess Arena",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -17167,10 +15945,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cologne, Germany",
       "venue": "Lanxess Arena",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -17181,10 +15958,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "02 Arena",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -17195,10 +15971,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "02 Arena",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -17209,10 +15984,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Glasgow, Scotland",
       "venue": "The SSE Hydro",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -17223,10 +15997,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Manchester, England",
       "venue": "Manchester Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -17237,10 +16010,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Manchester, England",
       "venue": "Manchester Arena",
-      "gear": "",
-      "taper": "Edirol R09 \u00b7 Andylgr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R09 \u00b7 Andylgr"
     },
     {
       "year": 2017,
@@ -17251,10 +16023,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Birmingham, England",
       "venue": "Genting Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -17265,10 +16036,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Antwerp, Belgium",
       "venue": "Sportpaleis",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -17279,10 +16049,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Antwerp, Belgium",
       "venue": "Sportspaleis",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -17293,10 +16062,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "AT&T Park - Band Together Bay Area",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17307,10 +16075,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, PRT",
       "venue": "Altice Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17321,10 +16088,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, ESP",
       "venue": "Wizink Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17335,10 +16101,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, ESP",
       "venue": "Wizink Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17349,10 +16114,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Barcelona, ESP",
       "venue": "Palau Sant Jordi",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17363,10 +16127,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Barcelona, Spain",
       "venue": "Palau Sant Jordi",
-      "gear": "SP-CMC-8",
-      "taper": "Porcelmc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 Porcelmc"
     },
     {
       "year": 2018,
@@ -17377,10 +16140,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Turin, ITA",
       "venue": "Pala Alpitour",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17391,10 +16153,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Turin, Italy",
       "venue": "Pala Alpitour",
-      "gear": "SP-CMC-8",
-      "taper": "Porcelmc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 Porcelmc"
     },
     {
       "year": 2018,
@@ -17405,10 +16166,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bologna, ITA",
       "venue": "Unipol Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17419,10 +16179,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bologna, ITA",
       "venue": "Unipol Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17433,10 +16192,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mannheim, DEU",
       "venue": "Sap Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17447,10 +16205,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Herning, Denmark",
       "venue": "Jyske Bank Boxen",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17461,10 +16218,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Barclayard Arena (LiveMetallica",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": ""
     },
     {
       "year": 2018,
@@ -17475,10 +16231,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, Austria",
       "venue": "Wiener Stadthalle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17489,10 +16244,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Prague, Czech Republic",
       "venue": "Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17503,10 +16257,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Budapest, Hungary",
       "venue": "Sports Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17517,10 +16270,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stuttgart, Germany",
       "venue": "Schleyerhalle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17531,10 +16283,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stuttgart, Germany",
       "venue": "Hanns-Martin-Schleyer-Halle",
-      "gear": "MK41V",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MK41V"
     },
     {
       "year": 2018,
@@ -17545,10 +16296,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stuttgart, Germany",
       "venue": "Schleyerhalle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17559,10 +16309,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stuttgart, Germany",
       "venue": "Hanns-Martin-Schleyer-Halle",
-      "gear": "MK41V",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MK41V"
     },
     {
       "year": 2018,
@@ -17573,10 +16322,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Geneva, Switzerland",
       "venue": "Palexpo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17587,10 +16335,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Olympiahalle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17601,10 +16348,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Krakow, Poland",
       "venue": "Tauron Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17615,10 +16361,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Leipzig, Germany",
       "venue": "Leipzig Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17629,10 +16374,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, Norway",
       "venue": "Telenor Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17643,10 +16387,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, Sweden",
       "venue": "Ericsson Globe",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17657,10 +16400,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, Sweden",
       "venue": "Erricson Globe",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17671,10 +16413,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Hartwall Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17685,10 +16426,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Hartwall Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17699,10 +16439,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Kohl Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17713,10 +16452,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Target Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17727,10 +16465,9 @@ const ARTIST_DATA = {
       "state": "NE",
       "location": "Lincoln, NE",
       "venue": "Pinnacle Bank Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17741,10 +16478,9 @@ const ARTIST_DATA = {
       "state": "ND",
       "location": "Grand Fork, ND",
       "venue": "Alerus Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17755,10 +16491,9 @@ const ARTIST_DATA = {
       "state": "SD",
       "location": "Sioux Falls, SD",
       "venue": "Denny Sanford Premier Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17769,10 +16504,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Winnipeg, Manitoba, Canada",
       "venue": "Bell MTS Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17783,10 +16517,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Saskatchewan, Canada",
       "venue": "SaskTel Centre Saskatoon",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17797,10 +16530,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Civic Center Plaza",
-      "gear": "",
-      "taper": "Dreamfest \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Dreamfest \u00b7 Livemetallica"
     },
     {
       "year": 2018,
@@ -17811,10 +16543,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits - Zilker Park Austin",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17825,10 +16556,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits - Zilker Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17839,10 +16569,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Zilker Park - ACL Fest",
-      "gear": "",
-      "taper": "Olympus Ls-p4, Ls-12 \u00b7 Exene",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Olympus Ls-p4, Ls-12 \u00b7 Exene"
     },
     {
       "year": 2018,
@@ -17853,10 +16582,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Wisconsin Entertainment & Sports Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17867,10 +16595,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "PPG Paints Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17881,10 +16608,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "State College, PA",
       "venue": "Bryce Jordan Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17895,10 +16621,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Spectrum Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17909,10 +16634,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wells Fargo Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17923,10 +16647,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Keybank Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17937,10 +16660,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Keybank Center",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": ""
     },
     {
       "year": 2018,
@@ -17951,10 +16673,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Times Union Center (LiveMetallica",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": ""
     },
     {
       "year": 2018,
@@ -17965,10 +16686,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Masonic",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17979,10 +16699,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "T-Mobile Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -17993,10 +16712,9 @@ const ARTIST_DATA = {
       "state": "ID",
       "location": "Boise, ID",
       "venue": "Taco Bell Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -18007,10 +16725,9 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "Vivint Smart Home Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -18021,10 +16738,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Spokane, WA",
       "venue": "Spokane Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -18035,10 +16751,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Moda Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -18049,10 +16764,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Golden 1 Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -18063,10 +16777,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fresno, CA",
       "venue": "Save Mart Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18077,10 +16790,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "gear": "AT831s",
-      "taper": "Tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT831s \u00b7 Tapeworm48"
     },
     {
       "year": 2019,
@@ -18091,10 +16803,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Tulsa, OK",
       "venue": "BOK Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18105,10 +16816,9 @@ const ARTIST_DATA = {
       "state": "AR",
       "location": "Little Rock, AR",
       "venue": "Verizon Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18119,10 +16829,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "Legacy Arena at The BJCC",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18133,10 +16842,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Bridgestone Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18147,10 +16855,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "PNC Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18161,10 +16868,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "U.S. Bank Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18175,10 +16881,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Quicken Loans Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18189,10 +16894,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "El Paso, TX",
       "venue": "Don Haskins Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18203,10 +16907,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Lubbock, TX",
       "venue": "United Supermarkets Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18217,10 +16920,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Wichita, KS",
       "venue": "Intrust Bank Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18231,10 +16933,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Sprint Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18245,10 +16946,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianaplis, IN",
       "venue": "Bankers Life Fieldhouse",
-      "gear": "SP CMC-08s",
-      "taper": "Ironchef",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP CMC-08s \u00b7 Ironchef"
     },
     {
       "year": 2019,
@@ -18259,10 +16959,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "Van Andel Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18273,10 +16972,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, Portugal",
       "venue": "Estadio do Restelo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18287,10 +16985,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, Portugal",
       "venue": "Estadio do Restelo",
-      "gear": "SP-CMC-8",
-      "taper": "Porcelmc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 Porcelmc"
     },
     {
       "year": 2019,
@@ -18301,10 +16998,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Valdebebas",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18315,10 +17011,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Barcelona, Spain",
       "venue": "Estadi Olimpic Lluis Companys",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18329,10 +17024,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milan, Italy",
       "venue": "SNAI San Siro Hippodrome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18343,10 +17037,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zu?rich, Switzerland",
       "venue": "Letzigrund",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18357,10 +17050,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Stade de France",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18371,10 +17063,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Stade de France - Saint Denis",
-      "gear": "",
-      "taper": "Ca11s \u00b7 Moka17",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca11s \u00b7 Moka17"
     },
     {
       "year": 2019,
@@ -18385,10 +17076,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Meath, Ireland",
       "venue": "Slane Castle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18399,10 +17089,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, Netherlands",
       "venue": "Johan Cruijff Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18413,10 +17102,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cologne, Germany",
       "venue": "RheinEnergieStadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18427,10 +17115,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brussels, Belgium",
       "venue": "Koning Boudewijnstadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18441,10 +17128,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Manchester, England - Etihad Stadium (LiveMetallica)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -18455,10 +17141,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Twickenham Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18469,10 +17154,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "Olympiastadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18483,10 +17167,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Ullevi",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18497,10 +17180,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Telia Parken",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18511,10 +17193,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Trondheim, Norway",
       "venue": "Grana?sen",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18525,10 +17206,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hameenlinna, Finland",
       "venue": "Kantolan Tapahtumapuisto",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18539,10 +17219,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tartu, Estonia",
       "venue": "Raadi Airfield",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18553,10 +17232,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Moscow, Russia",
       "venue": "Luzhniki Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18567,10 +17245,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nationala, Romania, Bucharest",
       "venue": "Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18581,10 +17258,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, AUS",
       "venue": "Ernst-Happel-Stadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18595,10 +17271,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Prague, Czech Republic",
       "venue": "Airport Letnany",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18609,10 +17284,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Warsaw, Poland",
       "venue": "PGE Narodowy",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18623,10 +17297,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Olympiastadion Munich",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18637,10 +17310,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mannheim, Germany",
       "venue": "Palastzelt Maimarktgela?nde",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -18651,10 +17323,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "S&M II",
-      "gear": "",
-      "taper": "Serosis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Serosis"
     },
     {
       "year": 2020,
@@ -18665,10 +17336,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sonoma, CA",
       "venue": "Gundlach-Bundschu Winery",
-      "gear": "Drive-in Theatre Show",
-      "taper": "Hellstorm79",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Drive-in Theatre Show \u00b7 Hellstorm79"
     },
     {
       "year": 2020,
@@ -18679,10 +17349,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Rafael, CA",
       "venue": "Metallica HQ",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -18693,10 +17362,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Independent",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -18707,10 +17375,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "gear": "AT831s",
-      "taper": "Tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AT831s \u00b7 Tapeworm48"
     },
     {
       "year": 2021,
@@ -18721,10 +17388,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Chicago, IL - Metro (LiveMetallica)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": ""
     },
     {
       "year": 2021,
@@ -18735,10 +17401,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Expo Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -18749,10 +17414,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Kentucky Expo Center - Louder Than Life Festival",
-      "gear": "SP-CMC-8",
-      "taper": "Porcelmc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 Porcelmc"
     },
     {
       "year": 2021,
@@ -18763,10 +17427,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Expo Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -18777,10 +17440,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Louder Than Life Festival",
-      "gear": "",
-      "taper": "Sp-bmc-8 \u00b7 Porcelmc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sp-bmc-8 \u00b7 Porcelmc"
     },
     {
       "year": 2021,
@@ -18791,10 +17453,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Aftershock at Discovery Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -18805,10 +17466,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Aftershock at Discovery Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -18819,10 +17479,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Hollywood, FL",
       "venue": "Hard Rock Live at Seminole Hard Rock & Casino",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -18833,10 +17492,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "AT Live - Mercedes-Benz Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -18847,10 +17505,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Daytona Beach, FL",
       "venue": "Daytona International Speedway",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -18861,10 +17518,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Daytona Beach, FL",
       "venue": "Welcome to Rockville Festival",
-      "gear": "SP-CMC-8",
-      "taper": "Porcelmc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 Porcelmc"
     },
     {
       "year": 2021,
@@ -18875,10 +17531,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Daytona Beach, FL",
       "venue": "The Daytona International Speedway",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -18889,10 +17544,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Globe Life Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -18903,10 +17557,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Chase Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -18917,10 +17570,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Chase Center - 40th Anniversary Show",
-      "gear": "",
-      "taper": "Night 1 \u00b7 Coda Collection",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Night 1 \u00b7 Coda Collection"
     },
     {
       "year": 2021,
@@ -18931,10 +17583,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Chase Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -18945,10 +17596,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Chase Center - 40th Anniversary Show",
-      "gear": "",
-      "taper": "Night 2 \u00b7 Coda Collection",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Night 2 \u00b7 Coda Collection"
     },
     {
       "year": 2022,
@@ -18959,10 +17609,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Allegiant Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -18973,10 +17622,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Santiago, Chile",
       "venue": "Eastadio Nacional",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -18987,10 +17635,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buenos Aires, Argentina",
       "venue": "Campo Argentino de Polo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19001,10 +17648,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Porto Alegre, Brazil",
       "venue": "Estacionamento da Fiergs",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19015,10 +17661,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Curitiba, Brazil",
       "venue": "Esta?dio Couto Pereira",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19029,10 +17674,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sa?o Paulo, Brazil",
       "venue": "Esta?dio do Morumbi",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19043,10 +17687,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Horizonte, Brazil",
       "venue": "Esta?dio do Mineira?o Belo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19057,10 +17700,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Napa, CA",
       "venue": "BottleRock Music Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19071,10 +17713,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Calling - Harvard Athletic Complex",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19085,10 +17726,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "Boston Calling Music Festival",
-      "gear": "",
-      "taper": "R9 Interior Mics \u00b7 Ec666",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "R9 Interior Mics \u00b7 Ec666"
     },
     {
       "year": 2022,
@@ -19099,10 +17739,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Copenhell at Refshale?en",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19113,10 +17752,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhell, Denmark",
       "venue": "K?benhavn",
-      "gear": "Sony PCM-M10",
-      "taper": "Nielsen81",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony PCM-M10 \u00b7 Nielsen81"
     },
     {
       "year": 2022,
@@ -19127,10 +17765,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Landgraaf, Netherlands",
       "venue": "Pinkpop Festival at Megaland",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19141,10 +17778,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Florence, Italy",
       "venue": "Firenze Rocks at Visarno Arena Firenze",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19155,10 +17791,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Prague, Czech Republic",
       "venue": "Prague Rocks at Letis?te Praha Letnany",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19169,10 +17804,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hockenheim, Germany",
       "venue": "Download Germany at Hockenheimring",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19183,10 +17817,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Clisson, France",
       "venue": "Hellfest at Val de Moine",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19197,10 +17830,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Werchter, Belgium",
       "venue": "Rock Werchter at Festivalpark",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19211,10 +17843,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bilbao, ESP",
       "venue": "Bizkaia Rock Day at Estadio San Mames",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19225,10 +17856,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Mad Cool Festival at Valdebebas",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19239,10 +17869,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, Portugal",
       "venue": "NOS Alive - Passeio Mari?timo de Alge?s",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19253,10 +17882,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Grant Park - Lollapalooza",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19267,10 +17895,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Highmark Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19281,10 +17908,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Highmark Stadium",
-      "gear": "",
-      "taper": "Ca-14s \u00b7 Binko",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Ca-14s \u00b7 Binko"
     },
     {
       "year": 2022,
@@ -19295,10 +17921,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "PNC Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19309,10 +17934,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Central Park - Global Citizens Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19323,10 +17947,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Central Park",
-      "gear": "",
-      "taper": "Zoom Iq5 \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom Iq5 \u00b7 Unknown"
     },
     {
       "year": 2022,
@@ -19337,10 +17960,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Hollywood, FL",
       "venue": "Hard Rock Live at Seminole Hard Rock Hotel & Casino",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -19351,10 +17973,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Microsoft Theatre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19365,10 +17986,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, The Netherlands",
       "venue": "Johan Cruijff Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19379,10 +17999,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, The Netherlands",
       "venue": "Johan Cruijff Arena",
-      "gear": "",
-      "taper": "Iphone 12 Mini \u00b7 Thierry",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Iphone 12 Mini \u00b7 Thierry"
     },
     {
       "year": 2023,
@@ -19393,10 +18012,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, The Netherlands",
       "venue": "Johan Cruijff Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19407,10 +18025,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, The Netherlands",
       "venue": "Johan Cruijff Arena",
-      "gear": "",
-      "taper": "Iphone 12 Mini \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Iphone 12 Mini \u00b7 Unknown"
     },
     {
       "year": 2023,
@@ -19421,10 +18038,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Stade de France",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19435,10 +18051,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Stade de France",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19449,10 +18064,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Volksparkstadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19463,10 +18077,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Volksparkstadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19477,10 +18090,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Castle Donington, England",
       "venue": "Download Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19491,10 +18103,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Castle Donington, England",
       "venue": "Download Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19505,10 +18116,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Ullevi Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19519,10 +18129,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Ullevi Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19533,10 +18142,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Metlife Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19547,10 +18155,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Metlife Stadium",
-      "gear": "Sony ECM 717",
-      "taper": "Ukj69",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM 717 \u00b7 Ukj69"
     },
     {
       "year": 2023,
@@ -19561,10 +18168,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Metlife Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19575,10 +18181,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montre?al, QC, Canada",
       "venue": "Stade Olympique",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19589,10 +18194,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montreal, CAN",
       "venue": "Olympic Stadium",
-      "gear": "",
-      "taper": "Ca-14s \u00b7 Colinw",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Ca-14s \u00b7 Colinw"
     },
     {
       "year": 2023,
@@ -19603,10 +18207,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montre?al, QC, Canada",
       "venue": "Stade Olympique",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19617,10 +18220,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Arlington, TX",
       "venue": "AT&T Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19631,10 +18233,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Arlington, TX",
       "venue": "AT&T Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19645,10 +18246,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "So-Fi Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19659,10 +18259,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "So-Fi Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19673,10 +18272,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "State Farm Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19687,10 +18285,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "State Farm Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19701,10 +18298,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Club",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19715,10 +18311,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Dome at America's Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19729,10 +18324,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Dome at America's Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19743,10 +18337,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Ford Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19757,10 +18350,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Ford Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -19771,10 +18363,9 @@ const ARTIST_DATA = {
       "state": "SA",
       "location": "Riyadh, SA",
       "venue": "Soundstorm Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -19785,10 +18376,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Olympiastadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -19799,10 +18389,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Olympiastadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -19813,10 +18402,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milan, Italy",
       "venue": "I-Days Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -19827,10 +18415,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, Austria",
       "venue": "Racino Rocks",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -19841,10 +18428,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Helsinki Olympic Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -19855,10 +18441,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Helsinki Olympic Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -19869,10 +18454,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Parken Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -19883,10 +18467,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Parken Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -19897,10 +18480,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, Norway",
       "venue": "Tons of Rock",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -19911,10 +18493,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Clisson, France",
       "venue": "Hellfest",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -19925,10 +18506,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Warsaw, Poland",
       "venue": "PGE Narodowy",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -19939,10 +18519,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Warsaw, Poland",
       "venue": "PGE Narodowy",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -19953,10 +18532,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Estadio Ci?vitas Metropolitano",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -19967,10 +18545,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Estadio Ci?vitas Metropolitano",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -19981,10 +18558,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Foxborough, MA",
       "venue": "Gillette Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -19995,10 +18571,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Foxborough, MA",
       "venue": "Gillette Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -20009,10 +18584,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Soldier Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -20023,10 +18597,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Soldier Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -20037,10 +18610,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "U.S. Bank Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -20051,10 +18623,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "U.S. Bank Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -20065,10 +18636,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Alberta, Canada",
       "venue": "Commonwealth Stadium Edmonton",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -20079,10 +18649,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Alberta, Canada",
       "venue": "Commonwealth Stadium Edmonton",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -20093,10 +18662,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Lumen Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -20107,10 +18675,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Lumen Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -20121,10 +18688,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Estadio GNP Seguros",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -20135,10 +18701,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Estadio GNP Seguros",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -20149,10 +18714,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Estadio GNP Seguros",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -20163,10 +18727,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Estadio GNP Seguros",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -20177,10 +18740,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "YouTube Theater",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20191,10 +18753,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "JMA Wireless Dome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20205,10 +18766,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Rogers Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20219,10 +18779,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Rogers Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20233,10 +18792,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Nissan Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20247,10 +18805,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Nissan Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20261,10 +18818,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Blacksburg, VA",
       "venue": "Lane Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20275,10 +18831,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Sonic Temple - Historic Crew Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20289,10 +18844,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Sonic Temple - Historic Crew Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20303,10 +18857,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Sonic Temple - Historic Crew Stadium",
-      "gear": "Schoeps MK41",
-      "taper": "Jesse Mc",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK41 \u00b7 Jesse Mc"
     },
     {
       "year": 2025,
@@ -20317,10 +18870,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Lincoln Financial Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20331,10 +18883,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Lincoln Financial Field",
-      "gear": "",
-      "taper": "Edirol R-09 \u00b7 Tikimaize",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Edirol R-09 \u00b7 Tikimaize"
     },
     {
       "year": 2025,
@@ -20345,10 +18896,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Lincoln Financial Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20359,10 +18909,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Landover, MD",
       "venue": "Northwest Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20373,10 +18922,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Bank of America Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20387,10 +18935,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Mercedes-Benz Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20401,10 +18948,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa Bay, FL",
       "venue": "Raymond James Stadium",
-      "gear": "",
-      "taper": "Live Metallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica"
     },
     {
       "year": 2025,
@@ -20415,10 +18961,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa Bay, FL",
       "venue": "Raymond James Stadium",
-      "gear": "",
-      "taper": "Live Metallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica"
     },
     {
       "year": 2025,
@@ -20429,10 +18974,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "NRG Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20443,10 +18987,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Clara, CA",
       "venue": "Levi?s Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20457,10 +19000,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Clara, CA",
       "venue": "Levi?s Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20471,10 +19013,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Empower Field at Mile High",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20485,10 +19026,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Empower Field at Mile High",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20499,10 +19039,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Amagansett, NY",
       "venue": "The Stephen Talkhouse",
-      "gear": "",
-      "taper": "Siriusxm",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Siriusxm"
     },
     {
       "year": 2025,
@@ -20513,10 +19052,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Dreamfest The Concert for Kids at Chase Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20527,10 +19065,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Perth, AUS",
       "venue": "Optus Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20541,10 +19078,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Adelaide, AUS",
       "venue": "Adelaide Oval",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20555,10 +19091,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brisbane Australia",
       "venue": "Suncorp Stadium",
-      "gear": "abiathar",
-      "taper": "Tascam Dr-05",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "abiathar \u00b7 Tascam Dr-05"
     },
     {
       "year": 2025,
@@ -20569,10 +19104,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, Australia",
       "venue": "Accor Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20583,10 +19117,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Auckland, New Zealand",
       "venue": "Eden Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20597,10 +19130,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Doha, Qatar",
       "venue": "Qatar Grand Prix at Lusail International Circuit",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20611,10 +19143,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Manama, Bahrain",
       "venue": "Beyon Al Dana Amphitheatre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -20625,10 +19156,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Abu Dhabi, United Arab Emirates",
       "venue": "Abu Dhabi F1 Grand Prix Yas Island",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 1982,
@@ -20639,10 +19169,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Old Waldorf",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1983,
@@ -20653,10 +19182,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Agora",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1984,
@@ -20667,10 +19195,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toulouse, France",
       "venue": "Le Riff",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1984,
@@ -20681,10 +19208,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Lyceum Theatre",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1985,
@@ -20695,10 +19221,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Kabuki Theatre",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1985,
@@ -20709,10 +19234,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Donington, UK",
       "venue": "Donington Park",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1986,
@@ -20723,10 +19247,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Tulsa, OK",
       "venue": "Cain's Ballroom",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1986,
@@ -20737,10 +19260,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Chattanooga, TN",
       "venue": "UTC Arena",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1986,
@@ -20751,10 +19273,9 @@ const ARTIST_DATA = {
       "state": "WV",
       "location": "Charleston, WV",
       "venue": "Civic Center",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1986,
@@ -20765,10 +19286,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Hammersmith Odeon",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1986,
@@ -20779,10 +19299,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Poughkeepsie, NY",
       "venue": "Mid-Hudson Civic Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 1987,
@@ -20793,10 +19312,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Frolundaborg",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1988,
@@ -20807,10 +19325,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "MECCA Arena",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1989,
@@ -20821,10 +19338,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Frank Erwin Center",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1989,
@@ -20835,10 +19351,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1991,
@@ -20849,10 +19364,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Graz, Austria",
       "venue": "Liebenau",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1991,
@@ -20863,10 +19377,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Muskegon, MI",
       "venue": "L.C. Walker Arena",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1991,
@@ -20877,10 +19390,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Auburn Hills, MI",
       "venue": "Palace of Auburn Hills",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1991,
@@ -20891,10 +19403,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cleveland, OH /Richfield Coliseum (Live Metallica Vault)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -20905,10 +19416,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Great Western Forum",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1992,
@@ -20919,10 +19429,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C",
       "venue": "RFK Stadium",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1992,
@@ -20933,10 +19442,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "L.A. Memorial Coliseum",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1992,
@@ -20947,10 +19455,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pasadena, CA",
       "venue": "Rose Bowl",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1992,
@@ -20961,10 +19468,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stuttgart, Germany",
       "venue": "Hanns Martin Schleyer Halle",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1992,
@@ -20975,10 +19481,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Den Bosch, Netherlands",
       "venue": "Brabanthallen",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1993,
@@ -20989,10 +19494,9 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Forum de Montreal",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1993,
@@ -21003,10 +19507,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Jakarta, Indonesia",
       "venue": "Lebak Bulus Stadium",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1993,
@@ -21017,10 +19520,9 @@ const ARTIST_DATA = {
       "state": "BR",
       "location": "Sao Paulo, BR",
       "venue": "Estadio Palestra Italia",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1993,
@@ -21031,10 +19533,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Basel, Switzerland",
       "venue": "St. Jakob Stadium",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1993,
@@ -21045,10 +19546,9 @@ const ARTIST_DATA = {
       "state": "IS",
       "location": "Tel Aviv, IS",
       "venue": "Park Hayarkon",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1994,
@@ -21059,10 +19559,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Middletown, NY",
       "venue": "Orange County Fairgrounds",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1994,
@@ -21073,10 +19572,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheater",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1994,
@@ -21087,10 +19585,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1995,
@@ -21101,10 +19598,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "London Astoria II",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1996,
@@ -21115,10 +19611,9 @@ const ARTIST_DATA = {
       "state": "CZ",
       "location": "Prague, CZ",
       "venue": "Sportovni Hala",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1996,
@@ -21129,10 +19624,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "BEC",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1996,
@@ -21143,10 +19637,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Scandinavium",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1997,
@@ -21157,10 +19650,9 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "Delta Center",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1997,
@@ -21171,10 +19663,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Den Gral Hal",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1998,
@@ -21185,10 +19676,9 @@ const ARTIST_DATA = {
       "state": "NZ",
       "location": "Wellington, NZ",
       "venue": "Queens Wharf Event Centre",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1999,
@@ -21199,10 +19689,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Ciudad De Me?xico, Mexico",
       "venue": "Foro Sol",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1999,
@@ -21213,10 +19702,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bogota, COL",
       "venue": "Parque Simon Bolivar",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1999,
@@ -21227,10 +19715,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nu?rnberg, Germany",
       "venue": "Frankenstadion",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1999,
@@ -21241,10 +19728,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Istanbul, Turkey",
       "venue": "Ali Sami Yen Stadium",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1999,
@@ -21255,10 +19741,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "St. Gasllen, Switzerland",
       "venue": "Open Air",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 1999,
@@ -21269,10 +19754,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "St. Petersburg, FL",
       "venue": "Tropicana Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2000,
@@ -21283,10 +19767,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Gund Arena",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 2000,
@@ -21297,10 +19780,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Smirnoff Music Centre",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 2000,
@@ -21311,10 +19793,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Starplex Amphitheater",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 2003,
@@ -21325,10 +19806,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Estadio La Peineta",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 2003,
@@ -21339,10 +19819,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Foxborough, MA",
       "venue": "Gilette Stadium",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 2003,
@@ -21353,10 +19832,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "Citrus Bowl",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 2003,
@@ -21367,10 +19845,9 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "West Valley City, UT",
       "venue": "Usana Amphitheatre",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 2004,
@@ -21381,10 +19858,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "America West Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21395,10 +19871,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tucson, AZ",
       "venue": "Tucson Convention Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21409,10 +19884,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Forum",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -21423,10 +19897,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Forum",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -21437,10 +19910,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Cow Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21451,10 +19923,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "ARCO Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21465,10 +19936,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Reno, NV",
       "venue": "Lawlor Events Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21479,10 +19949,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Thomas & Mack Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21493,10 +19962,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fresno, CA",
       "venue": "Save Mart Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21507,10 +19975,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Rose Garden Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21521,10 +19988,9 @@ const ARTIST_DATA = {
       "state": "ID",
       "location": "Boise, ID",
       "venue": "BSU Pavilion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21535,10 +20001,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Spokane, WA",
       "venue": "Spokane Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21549,10 +20014,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Edmonton, Alberta",
       "venue": "Rexall Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21563,10 +20027,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Calgary, Alberta",
       "venue": "Pengrowth Saddledome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21577,10 +20040,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "General Motors Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21591,10 +20053,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Key Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21605,10 +20066,9 @@ const ARTIST_DATA = {
       "state": "WY",
       "location": "Casper, WY",
       "venue": "Casper Events Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21619,10 +20079,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Pepsi Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21633,10 +20092,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum - 1st night",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21647,10 +20105,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum - 2nd night",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21661,10 +20118,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Charlotte Coliseum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21675,10 +20131,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Roanoke, VA",
       "venue": "Roanoke Civic Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21689,10 +20144,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Norfolk, VA",
       "venue": "Scope Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21703,10 +20157,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Freedom Hall",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21717,10 +20170,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "Van Andel Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21731,10 +20183,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "U.S. Bank Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21745,10 +20196,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Alliant Energy Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21759,10 +20209,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Calgary, Alberta",
       "venue": "Pengrowth Saddledome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21773,10 +20222,9 @@ const ARTIST_DATA = {
       "state": "SK",
       "location": "Saskatoon, SK",
       "venue": "Saskatchewan Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21787,10 +20235,9 @@ const ARTIST_DATA = {
       "state": "MB",
       "location": "Winnipeg, MB",
       "venue": "Winnipeg Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21801,10 +20248,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Kemper Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21815,10 +20261,9 @@ const ARTIST_DATA = {
       "state": "NE",
       "location": "Omaha, NE",
       "venue": "Qwest Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21829,10 +20274,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Oklahoma City, OK",
       "venue": "Ford Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21843,10 +20287,9 @@ const ARTIST_DATA = {
       "state": "AR",
       "location": "Little Rock, AR",
       "venue": "Alltel Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21857,10 +20300,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Parken Stadium",
-      "gear": "",
-      "taper": "Mix #1 \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mix #1 \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -21871,10 +20313,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Parken Stadium",
-      "gear": "",
-      "taper": "Mix #2 \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mix #2 \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -21885,10 +20326,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Olympiastadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21899,10 +20339,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Ullevi Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21913,10 +20352,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Chorzow, Poland",
       "venue": "Stadion ?l?ski",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21927,10 +20365,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Glasgow, Scotland",
       "venue": "Glasgow Green - Download Scotland 2004",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21941,10 +20378,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, Portugal",
       "venue": "Parque da Bela Vista",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21955,10 +20391,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Donington, England",
       "venue": "Donington Park - Download England 2004",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21969,10 +20404,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Ludwigshafen, Germany",
       "venue": "S?dweststadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21983,10 +20417,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gelsenkirchen, Germany",
       "venue": "Arena AufSchalke",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -21997,10 +20430,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Wiener Neustadt, Austria",
       "venue": "Civitas Nova - Aerodome Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22011,10 +20443,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Olympiastadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22025,10 +20456,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Belgrade, Serbia",
       "venue": "Partizan Stadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22039,10 +20469,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bremen, Germany",
       "venue": "Weserstadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22053,10 +20482,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zurich, Switzerland",
       "venue": "Letzigrund Stadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22067,10 +20495,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zaragoza, Spain",
       "venue": "Estadio de La Romareda",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22081,10 +20508,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, Holland",
       "venue": "ArenA",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22095,10 +20521,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dublin, Ireland",
       "venue": "RDS Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22109,10 +20534,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Padova, ITA",
       "venue": "Stadio Euganeo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22123,10 +20547,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Prague, CZE",
       "venue": "T-Mobile Park Kolbenova",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22137,10 +20560,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Werchter, BEL",
       "venue": "Werchterpark",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22151,10 +20573,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Reykjavik, Iceland",
       "venue": "Egilsholl Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22165,10 +20586,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Xcel Energy Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22179,10 +20599,9 @@ const ARTIST_DATA = {
       "state": "ND",
       "location": "Fargo, ND",
       "venue": "Fargodome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22193,10 +20612,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Conseco Fieldhouse",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22207,10 +20625,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Bradley Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22221,10 +20638,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Moline, IL",
       "venue": "Mark of the Quad Cities",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22235,10 +20651,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Peoria, IL",
       "venue": "Peoria Civic Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22249,10 +20664,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Fort Wayne, IN",
       "venue": "Peoria Civic Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22263,10 +20677,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Allstate Arena",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -22277,10 +20690,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Allstate Arena",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -22291,10 +20703,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Ames, IA",
       "venue": "Hilton Coliseum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22305,10 +20716,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Wichita, KS",
       "venue": "Valley Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22319,10 +20729,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Frank Erwin Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22333,10 +20742,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Lubbock, TX",
       "venue": "United Spirit Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22347,10 +20755,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Gund Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22361,10 +20768,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Mellon Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22375,10 +20781,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Value City Arena at the Schottenstein Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22389,10 +20794,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Green Bay, WI",
       "venue": "Resch Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22403,10 +20807,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Auburn Hills, MI",
       "venue": "The Palace of Auburn Hills",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22417,10 +20820,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Air Canada Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22431,10 +20833,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Ottawa, ON",
       "venue": "Corel Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22445,10 +20846,9 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Quebec City, QC",
       "venue": "Colisee Pepsi",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -22459,10 +20859,9 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Quebec City, QC",
       "venue": "Colisee Pepsi",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -22473,10 +20872,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "MCI Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22487,10 +20885,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wachovia Center",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -22501,10 +20898,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wachovia Center",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2004,
@@ -22515,10 +20911,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Continental Airlines Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22529,10 +20924,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamilton, Ontario",
       "venue": "Copps Coliseum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22543,10 +20937,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, Ontario",
       "venue": "John Labatt Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22557,10 +20950,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "St. Pete Times Forum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22571,10 +20963,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Sunrise, FL",
       "venue": "Office Depot Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22585,10 +20976,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Pensacola, FL",
       "venue": "Pensacola Civic Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22599,10 +20989,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Gaylord Entertainment Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22613,10 +21002,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Duluth, GA",
       "venue": "Gwinnett Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22627,10 +21015,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "New Orleans Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22641,10 +21028,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Toyota Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22655,10 +21041,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "American Airlines Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22669,10 +21054,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "SBC Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22683,10 +21067,9 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "E Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22697,10 +21080,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Ipayone Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22711,10 +21093,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Arrowhead Pond Tuning Room",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -22725,10 +21106,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "HP Pavilion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -22739,10 +21119,9 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Park City, UT",
       "venue": "Harry O's",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -22753,10 +21132,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Centaurion, South Africa",
       "venue": "Supersport Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -22767,10 +21145,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Durban, South Africa",
       "venue": "The Coca-Cola Colab Massive Mix 2006",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -22781,10 +21158,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cape Town, South Africa",
       "venue": "The Coca-Cola Colab Massive Mix 2006",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -22795,10 +21171,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nurburgring, Germany",
       "venue": "Rock am Ring",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -22809,10 +21184,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nuremburg, Germany",
       "venue": "Rock im Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -22823,10 +21197,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "Waldb?hne",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -22837,10 +21210,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Arnhem, Holland",
       "venue": "Gelredome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -22851,10 +21223,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Donington, England",
       "venue": "Donington Park - Download 2006",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -22865,10 +21236,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tallin, Estonia",
       "venue": "Tallinna Lauluv?ljak",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -22879,10 +21249,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nickelsdorf, Austria",
       "venue": "Pannonia Fields II",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -22893,10 +21262,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Imola, Italy",
       "venue": "Autodromo Internazionale Enzo e Dino Ferrari - Heineken Jammin' Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -22907,10 +21275,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "Chiba Marine Stadium - Summer Sonic Tokyo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -22921,10 +21288,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Osaka, Japan",
       "venue": "WTC Open Air Stadium - Summer Sonic Osaka",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2006,
@@ -22935,10 +21301,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Seoul, Korea",
       "venue": "Olympic Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -22949,10 +21314,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, Portugal",
       "venue": "Parque do Tejo - Super Bock Super Rock 2007",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -22963,10 +21327,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bilbao, Spain",
       "venue": "Kobetamendi - Bilbao BBK Live",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -22977,10 +21340,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Werchter, Belgium",
       "venue": "Festival Park Werchter - Rock Werchter 2007",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -22991,10 +21353,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Athens, Greece",
       "venue": "Terra Vibe - Rockwave Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -23005,10 +21366,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, Austria",
       "venue": "Rotundenplatz",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -23019,10 +21379,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Wembley Stadium - Live Earth London",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -23033,10 +21392,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Wembley Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -23047,10 +21405,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, Norway",
       "venue": "Valle Hovin",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -23061,10 +21418,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, Sweden",
       "venue": "Stockholms Stadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -23075,10 +21431,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Aarhus, Denmark",
       "venue": "Vestereng",
-      "gear": "",
-      "taper": "Inc \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Inc \u00b7 Livemetallica"
     },
     {
       "year": 2007,
@@ -23089,10 +21444,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Olympiastadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -23103,10 +21457,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Moscow, Russia",
       "venue": "Luzhniki Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -23117,10 +21470,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre - Bridge School Benefit",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2007,
@@ -23131,10 +21483,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre - Bridge School Benefit",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23145,10 +21496,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Wiltern Theatre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23159,10 +21509,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tuscon, AZ",
       "venue": "Pima County Fairgrounds - KMFA Day",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23173,10 +21522,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Verizon Wireless Amphitheatre - KROQ Weenie Roast",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23187,10 +21535,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Chorzow, Poland",
       "venue": "Stadion Slaski",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23201,10 +21548,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Landgraaf, Holland",
       "venue": "Megaland - Pinkpop Festival",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2008,
@@ -23215,10 +21561,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Getafe, Spain",
       "venue": "Auditorio John Lennon - Electric Weekend",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23229,10 +21574,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Getafe, Spain",
       "venue": "Auditorio John Lennon - Electric Weekend",
-      "gear": "",
-      "taper": "Livemetallica \u00b7 2020 Mix",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica \u00b7 2020 Mix"
     },
     {
       "year": 2008,
@@ -23243,10 +21587,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Prague, Czech Republic",
       "venue": "Stadion Eden",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23257,10 +21600,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, Portugal",
       "venue": "Parque da Bela Vista - Rock in Rio Lisboa",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23271,10 +21613,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nurburg, Germany",
       "venue": "Nurburgring - Rock am Ring",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23285,10 +21626,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nurnberg, Germany",
       "venue": "Zeppelinfeld - Rock im Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23299,10 +21639,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "The Basement",
-      "gear": "",
-      "taper": "Secret Gig \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Secret Gig \u00b7 Livemetallica"
     },
     {
       "year": 2008,
@@ -23313,10 +21652,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Manchester, TN",
       "venue": "Great Stage Park - Bonnaroo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23327,10 +21665,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bergen, Norway",
       "venue": "Koengen",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23341,10 +21678,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "St. Petersburg, Russia",
       "venue": "SKK Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23355,10 +21691,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Riga, Latvia",
       "venue": "Skonto stadions",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23369,10 +21704,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bologna, Italy",
       "venue": "Arena Paro Nord",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23383,10 +21717,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bucharest, Romania",
       "venue": "Cotroceni Football Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23397,10 +21730,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sofia, Bulgaria",
       "venue": "Vasil Levski Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23411,10 +21743,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Istanbul, Turkey",
       "venue": "Ali Sami Yen Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23425,10 +21756,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Pizz Hut Park - Ozzfest",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23439,10 +21769,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Arras, France",
       "venue": "Grand' Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23453,10 +21782,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hasselt, Belgium",
       "venue": "Domein Kiewit - Pukkelpop 2008",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23467,10 +21795,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Jonschwil, Switzerland",
       "venue": "Degenaupark",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23481,10 +21808,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dublin, Ireland",
       "venue": "Marlay Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23495,10 +21821,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Leeds, England",
       "venue": "Bramham Park - Leeds Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23509,10 +21834,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Reading, England",
       "venue": "Little John's Farm - Reading Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2004,
@@ -23523,10 +21847,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "02 World",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23537,10 +21860,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "BBC Radio Theatre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23551,10 +21873,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "02 Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23565,10 +21886,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Glendale, AZ",
       "venue": "Jobing.com Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23579,10 +21899,9 @@ const ARTIST_DATA = {
       "state": "NM",
       "location": "Alburquerque, NM",
       "venue": "Tingley Coliseum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23593,10 +21912,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Sprint Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23607,10 +21925,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Des Moines, IA",
       "venue": "Wells Fargo Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23621,10 +21938,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Rose Garden Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23635,10 +21951,9 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "EnergySolutions Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23649,10 +21964,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Pepsi Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23663,10 +21977,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Moline, IL",
       "venue": "iWireless Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23677,10 +21990,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Moline, IL",
       "venue": "iWireless Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23691,10 +22003,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Value City Arena at the Schottenstein Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23705,10 +22016,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Scottrade Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23719,10 +22029,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Tulsa, OK",
       "venue": "BOK Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23733,10 +22042,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Toyota Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23747,10 +22055,9 @@ const ARTIST_DATA = {
       "state": "AR",
       "location": "Little Rock, AR",
       "venue": "Alltel Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23761,10 +22068,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "New Orleans Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23775,10 +22081,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Key Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23789,10 +22094,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "General Motors Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23803,10 +22107,9 @@ const ARTIST_DATA = {
       "state": "AB",
       "location": "Calgary, AB",
       "venue": "Pengrowth Saddledome",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2008,
@@ -23817,10 +22120,9 @@ const ARTIST_DATA = {
       "state": "AB",
       "location": "Calgary, AB",
       "venue": "Pengrowth Saddledome",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2008,
@@ -23831,10 +22133,9 @@ const ARTIST_DATA = {
       "state": "AB",
       "location": "Edmonton, AB",
       "venue": "Rexall Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23845,10 +22146,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Ontario, Canada",
       "venue": "Citizens Business Bank Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23859,10 +22159,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fresno, CA",
       "venue": "Save Mart Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23873,10 +22172,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Cox Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2008,
@@ -23887,10 +22185,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2008,
@@ -23901,10 +22198,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2008,
@@ -23915,10 +22211,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oracle Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -23929,10 +22224,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Bradley Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -23943,10 +22237,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Joe Louis Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -23957,10 +22250,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "Verizon Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -23971,10 +22263,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wachovia Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -23985,10 +22276,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "TD Banknorth Garden",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -23999,10 +22289,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Allstate Arena",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -24013,10 +22302,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Allstate Arena",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -24027,10 +22315,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24041,10 +22328,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Newark, NJ",
       "venue": "Prudential Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24055,10 +22341,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Newark, NJ",
       "venue": "Prudential Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24069,10 +22354,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nottingham, England",
       "venue": "Trent FM Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24083,10 +22367,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Manchester, England",
       "venue": "Manchester Evening News Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24097,10 +22380,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sheffield, England",
       "venue": "Sheffield Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24111,10 +22393,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "02 Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24125,10 +22406,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Newcastle, England",
       "venue": "Metro Radio Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24139,10 +22419,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Antwerp, Belgium",
       "venue": "Sportspaleis",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24153,10 +22432,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, Sweden",
       "venue": "Globen",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24167,10 +22445,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's Bar-B-Q - SXSW 2009",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24181,10 +22458,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Birmingham, England",
       "venue": "LG Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24195,10 +22471,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "02 Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24209,10 +22484,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rotterdam, Holland",
       "venue": "Ahoy",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24223,10 +22497,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Omnisports de Paris-Bercy",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -24237,10 +22510,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Omnisports de Paris-Bercy",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -24251,10 +22523,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, Sweden",
       "venue": "Ericsson Globe",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24265,10 +22536,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Olympiahalle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24279,10 +22549,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Leipzig, Germany",
       "venue": "Arena Leipzig",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24293,10 +22562,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stuttgart, Germany",
       "venue": "Hanns-Martin-Schleyer-Halle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24307,10 +22575,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Frankfurt, Germany",
       "venue": "Festhalle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24321,10 +22588,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Color Line Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24335,10 +22601,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, Austria",
       "venue": "Wiener Stadthalle-Halle D",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24349,10 +22614,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oberhausen, Germany",
       "venue": "Konig-Pilsener Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24363,10 +22627,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cologne, Germany",
       "venue": "Lanxess Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24377,10 +22640,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Foro Sol",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24391,10 +22653,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Foro Sol",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24405,10 +22666,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Foro Sol",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24419,10 +22679,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Hartwall",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -24433,10 +22692,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Hartwall",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -24447,10 +22705,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, Norway",
       "venue": "Spektrum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24461,10 +22718,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nickelsdorf, Austria",
       "venue": "Pannonia Fields II - Nova Rock",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24475,10 +22731,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nijmegen, Holland",
       "venue": "Goffertpark - Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24489,10 +22744,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milan, Itally",
       "venue": "Mediolanum Forum di Assago",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24503,10 +22757,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rome, Italy",
       "venue": "Palalottomatica",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24517,10 +22770,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hockenheim, Germany",
       "venue": "Hockenheimring - Sonisphere Germany",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24531,10 +22783,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Werchter, Belgium",
       "venue": "Rock Werchter",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24545,10 +22796,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nimes, France",
       "venue": "Arenes de Nimes - Festival de Nimes",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24559,10 +22809,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oeiras, Portugal",
       "venue": "Passeio Mar?timo de Alg? - Optimus Alive!",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24573,10 +22822,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Barcelona, Spain",
       "venue": "Parc del Forum / Sonisphere Spain",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24587,10 +22835,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Palacio de Deportes de la Comunidad de Madrid",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -24601,10 +22848,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Palacio de Deportes de la Comunidad de Madrid",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -24615,10 +22861,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zurich, Switzerland",
       "venue": "Hallenstadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24629,10 +22874,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hultsfred, Sweden",
       "venue": "Folkets Park - Sonisphere Sweden",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24643,10 +22887,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum Kobenhavn",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -24657,10 +22900,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum Kobenhavn",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -24671,10 +22913,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum Kobenhavn",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica \u00b7 2009 Original Mix",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica \u00b7 2009 Original Mix"
     },
     {
       "year": 2009,
@@ -24685,10 +22926,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum Kobenhavn",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica \u00b7 2020 Mix",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "2nd Night \u00b7 Livemetallica \u00b7 2020 Mix"
     },
     {
       "year": 2009,
@@ -24699,10 +22939,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum Kobenhavn",
-      "gear": "",
-      "taper": "3rd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "3rd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -24713,10 +22952,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Pori, Finland",
       "venue": "Kirjurinluoto - Sonisphere Finland",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24727,10 +22965,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum Kobenhavn",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -24741,10 +22978,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum Kobenhavn",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -24755,10 +22991,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, Norway",
       "venue": "Spektrum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24769,10 +23004,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dublin, Ireland",
       "venue": "Marlay Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24783,10 +23017,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stevenage, England",
       "venue": "Knebworth House - Sonisphere UK",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24797,10 +23030,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Rafael, CA",
       "venue": "Marin Veterans' Memorial Auditorium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24811,10 +23043,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Sommet Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24825,10 +23056,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "U.S. Bank Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24839,10 +23069,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Conseco Fieldhouse",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24853,10 +23082,9 @@ const ARTIST_DATA = {
       "state": "PQ",
       "location": "Montreal, PQ",
       "venue": "Centre Bell",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -24867,10 +23095,9 @@ const ARTIST_DATA = {
       "state": "PQ",
       "location": "Montreal, PQ",
       "venue": "Centre Bell",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -24881,10 +23108,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "AT&T Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24895,10 +23121,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "American Airlines Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24909,10 +23134,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Sunrise, FL",
       "venue": "BankAtlantic Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24923,10 +23147,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "St. Pete Times Forum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24937,10 +23160,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Philips Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24951,10 +23173,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Winnipeg, Manitoba",
       "venue": "MTS Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24965,10 +23186,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Target Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24979,10 +23199,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Quicken Loans Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -24993,10 +23212,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Charlottesville, VA",
       "venue": "John Paul Jones Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -25007,10 +23225,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Time Warner Cable Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -25021,10 +23238,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Canada",
       "venue": "Air Canada Centre",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -25035,10 +23251,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Canada",
       "venue": "Air Canada Centre",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -25049,10 +23264,9 @@ const ARTIST_DATA = {
       "state": "PQ",
       "location": "Quebec City, PQ",
       "venue": "Colisee Pepsi",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -25063,10 +23277,9 @@ const ARTIST_DATA = {
       "state": "PQ",
       "location": "Quebec City, PQ",
       "venue": "Colisee Pepsi",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -25077,10 +23290,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Ottawa, Ontario",
       "venue": "Scotiabank",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -25091,10 +23303,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "Van Andel Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -25105,10 +23316,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "HSBC Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -25119,10 +23329,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Times Union Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -25133,10 +23342,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -25147,10 +23355,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2009,
@@ -25161,10 +23368,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Mandalay Bay Events Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -25175,10 +23381,9 @@ const ARTIST_DATA = {
       "state": "ID",
       "location": "Boise, ID",
       "venue": "Idaho Center Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -25189,10 +23394,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "ARCO Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -25203,10 +23407,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2009,
@@ -25217,10 +23420,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "HP Pavilion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25231,10 +23433,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lima, Peru",
       "venue": "Estadio San Marcos",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25245,10 +23446,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buenos Aires, Argentina",
       "venue": "Estadio River Plate",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2010,
@@ -25259,10 +23459,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buenos Aires, Argentina",
       "venue": "Estadio River Plate",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2010,
@@ -25273,10 +23472,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cordoba, Chile",
       "venue": "Orfeo Superdomo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25287,10 +23485,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Santiago, Chile",
       "venue": "Club Hipico",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25301,10 +23498,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Porto Alegre, Brazil",
       "venue": "Parque Condor",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25315,10 +23511,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sao Paulo, Brazil",
       "venue": "Estadio do Morumbi",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2010,
@@ -25329,10 +23524,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sao Paulo, Brazil",
       "venue": "Estadio do Morumbi",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2010,
@@ -25343,10 +23537,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Guadalajara, Mexico",
       "venue": "Estadio Tres de Marzo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25357,10 +23550,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Monterrey, Mexico",
       "venue": "Estadio Universitario",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25371,10 +23563,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Guatemala City, GTM",
       "venue": "Estadio Mateo Flores",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25385,10 +23576,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "San Jose, Costa Rica",
       "venue": "Estadio Ricardo Saprissa",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25399,10 +23589,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Panama City, PAN",
       "venue": "Figali Convention Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25413,10 +23602,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bogota, Colombia",
       "venue": "Parque Simon Bolivar",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25427,10 +23615,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Caracas, Venezuela",
       "venue": "Estadio de Beisbol de la Rinconada",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25441,10 +23628,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "San Juan, PRI",
       "venue": "Coliseo de Puerto Rico Jose? Miguel Agrelot",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25455,10 +23641,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, Norway",
       "venue": "Telenor Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25469,10 +23654,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, Norway",
       "venue": "Telenor Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25483,10 +23667,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Riga, LVA",
       "venue": "Riga Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25497,10 +23680,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tallinn, EST",
       "venue": "Saku Suurhall",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25511,10 +23693,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vilnius, LIT",
       "venue": "Siemens Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25525,10 +23706,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vilnius, LIT",
       "venue": "Siemens Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25539,10 +23719,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Moscow, Russia",
       "venue": "Olympijskiy Stadium",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2010,
@@ -25553,10 +23732,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Moscow, Russia",
       "venue": "Olympijskiy Stadium",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2010,
@@ -25567,10 +23745,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Belfast, IRE",
       "venue": "Odyssey Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25581,10 +23758,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Belfast, IRE",
       "venue": "Odyssey Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25595,10 +23771,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Budapest, Hungary",
       "venue": "Puskas Ferenc Stadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25609,10 +23784,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zagreb, HRV",
       "venue": "Zagreb Hippodrome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25623,10 +23797,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, PRT - Pavilha?o Atla?ntico (LiveMetallica)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2010,
@@ -25637,10 +23810,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, PRT - Pavilha?o Atla?ntico (LiveMetallica)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2010,
@@ -25651,10 +23823,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tel Aviv, ISR - Ramat Gan Stadium (LiveMetallica)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2010,
@@ -25665,10 +23836,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lyon, France",
       "venue": "Halle Tony Garnier",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25679,10 +23849,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Arganda del Rey, Spain",
       "venue": "Ciudad del Rock - Rock in Rio",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25693,10 +23862,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Warsaw, POL",
       "venue": "Bemowo Airport - Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25707,10 +23875,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Jonschwil, CHE",
       "venue": "Degenaupark - Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25721,10 +23888,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Prague, CZE",
       "venue": "Milovice Airfield - Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25735,10 +23901,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sofia, BUL",
       "venue": "Vasil Levski Stadium - Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25749,10 +23914,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Athens, GRC",
       "venue": "Terra Vibe Park - Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25763,10 +23927,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bucharest, ROM",
       "venue": "Romexpo - Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25777,10 +23940,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Istanbul, TUR",
       "venue": "BJK Inonu Stadium, Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25791,10 +23953,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, AUS",
       "venue": "Rod Laver Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25805,10 +23966,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, AUS",
       "venue": "Rod Laver Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25819,10 +23979,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, AUS",
       "venue": "Acer Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25833,10 +23992,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Christchurch, NZL",
       "venue": "CBS Canterbury Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25847,10 +24005,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Christchurch, NZL",
       "venue": "CBS Canterbury Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25861,10 +24018,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, JPN",
       "venue": "Saitama Super Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25875,10 +24031,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, JPN",
       "venue": "Saitama Super Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25889,10 +24044,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Auckland, NZL",
       "venue": "Vector Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25903,10 +24057,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Auckland, NZL",
       "venue": "Vector Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25917,10 +24070,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brisbane, AUS",
       "venue": "Brisbane Entertainment Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25931,10 +24083,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brisbane, AUS",
       "venue": "Brisbane Entertainment Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25945,10 +24096,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brisbane, AUS",
       "venue": "Brisbane Entertainment Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25959,10 +24109,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Perth, AUS",
       "venue": "Burswood Dome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25973,10 +24122,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Perth, Australia",
       "venue": "Burswood Dome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -25987,10 +24135,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, AUS",
       "venue": "Acer Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -26001,10 +24148,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, AUS",
       "venue": "Acer Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -26015,10 +24161,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, Australia",
       "venue": "Acer Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -26029,10 +24174,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Adelaide, AUS",
       "venue": "Adelaide Entertainment Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -26043,10 +24187,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Adelaide, AUS",
       "venue": "Adelaide Entertainment Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -26057,10 +24200,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, AUS",
       "venue": "Rod Laver Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -26071,10 +24213,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, AUS",
       "venue": "Rod Laver Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2010,
@@ -26085,10 +24226,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, AUS",
       "venue": "Rod Laver Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -26099,10 +24239,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Club",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -26113,10 +24252,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gelsenkirchen, GER",
       "venue": "Veltins Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -26127,10 +24265,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Ullevi Stadium - Big 4 Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -26141,10 +24278,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milan, ITA",
       "venue": "Fiera Open Air Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -26155,10 +24291,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Knebworth, UK",
       "venue": "Knebworth House, Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -26169,10 +24304,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amneville, FRA",
       "venue": "Snowhall Parc, Sonisphere",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -26183,10 +24317,9 @@ const ARTIST_DATA = {
       "state": "NS",
       "location": "Halifax, NS",
       "venue": "Halifax Citadel Garrison Grounds - Rock the Hill",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -26197,10 +24330,9 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Quebec City, QC",
       "venue": "Plains of Abraham, Festival d'ete de Quebec",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -26211,10 +24343,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Moscone Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -26225,10 +24356,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Yankee Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -26239,10 +24369,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rio De Janeiro, BRA",
       "venue": "Cidade do Rock, Rock in Rio",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -26253,10 +24382,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Abu Dhabi, ARE",
       "venue": "Yas Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -26267,10 +24395,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bangalodore, IND",
       "venue": "Main Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2011,
@@ -26281,10 +24408,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2011,
@@ -26295,10 +24421,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2011,
@@ -26309,10 +24434,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "",
-      "taper": "3rd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "3rd Night \u00b7 Livemetallica"
     },
     {
       "year": 2011,
@@ -26323,10 +24447,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "",
-      "taper": "4th Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "4th Night \u00b7 Livemetallica"
     },
     {
       "year": 2012,
@@ -26337,10 +24460,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Prague, CZE",
       "venue": "Synot Tip Are?na",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26351,10 +24473,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Belgrade, SRB",
       "venue": "USCE Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26365,10 +24486,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Warsaw, Poland",
       "venue": "Bemowo Airport",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26379,10 +24499,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Stade de France",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26393,10 +24512,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Udine, Italy",
       "venue": "Stadio Friule",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26407,10 +24525,9 @@ const ARTIST_DATA = {
       "state": "NO",
       "location": "Oslo, NO",
       "venue": "Vallehovin",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26421,10 +24538,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, Portugal",
       "venue": "Rock in Rio",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26435,10 +24551,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Getafe Open Air",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26449,10 +24564,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Werchter, Belgium",
       "venue": "Festivalpark",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26463,10 +24577,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Yverdon-les-Bains, Switzerland",
       "venue": "Rives du Lac",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26477,10 +24590,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nurnberg, DEU",
       "venue": "Rock im Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26491,10 +24603,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nurbergring, DEU",
       "venue": "Rock am Ring",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26505,10 +24616,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland /- Kalatasama (LiveMetallica)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2012,
@@ -26519,10 +24629,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Horsens, DNK",
       "venue": "State Prison Open Air",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26533,10 +24642,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Donington, England",
       "venue": "Download Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26547,10 +24655,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nickelsdorf, Austria",
       "venue": "Nova Rock",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26561,10 +24668,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nickelsdorf, Austria",
       "venue": "Nova Rock",
-      "gear": "",
-      "taper": "Livemetallica \u00b7 2020 Mix",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica \u00b7 2020 Mix"
     },
     {
       "year": 2012,
@@ -26575,10 +24681,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Atlantic City, NJ",
       "venue": "Orion Music + More 2012",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26589,10 +24694,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Atlantic City, NJ",
       "venue": "Orion Music + More 2012",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26603,10 +24707,9 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico CIty, MX",
       "venue": "Sports Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26617,10 +24720,9 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico CIty, MX",
       "venue": "Sports Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26631,10 +24733,9 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico CIty, MX",
       "venue": "Sports Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26645,10 +24746,9 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico CIty, MX",
       "venue": "Sports Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26659,10 +24759,9 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico CIty, MX",
       "venue": "Sports Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26673,10 +24772,9 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico CIty, MX",
       "venue": "Sports Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26687,10 +24785,9 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico CIty, MX",
       "venue": "Sports Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26701,10 +24798,9 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico CIty, MX",
       "venue": "Sports Palace",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26715,10 +24811,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26729,10 +24824,9 @@ const ARTIST_DATA = {
       "state": "AB",
       "location": "Edmonton, AB",
       "venue": "Rexall Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26743,10 +24837,9 @@ const ARTIST_DATA = {
       "state": "AB",
       "location": "Edmonton, AB",
       "venue": "Rexall Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26757,10 +24850,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Rogers Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26771,10 +24863,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Rogers Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2012,
@@ -26785,10 +24876,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Voodoo Music & Arts Experience",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -26799,10 +24889,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brisbane, AUS",
       "venue": "Soundwave Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -26813,10 +24902,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, AUS",
       "venue": "Soundwave Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -26827,10 +24915,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, AUS",
       "venue": "Soundwave Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -26841,10 +24928,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Adelaide, AUS",
       "venue": "Soundwave Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -26855,10 +24941,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Perth, AUS",
       "venue": "Soundwave Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -26869,10 +24954,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Abu Dhabi, UAE",
       "venue": "Du Arena at Yas Island",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -26883,10 +24967,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cape Town, RSA",
       "venue": "Bellville Velodrome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -26897,10 +24980,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cape Town, RSA",
       "venue": "Bellville Velodrome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -26911,10 +24993,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Johannesburg, RSA",
       "venue": "FNB Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -26925,10 +25006,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Belle Isle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -26939,10 +25019,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Belle Isle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -26953,10 +25032,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Roskilde, DNK",
       "venue": "Roskilde Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -26967,10 +25045,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Spreckels",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -26981,10 +25058,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "QVC Marine Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -26995,10 +25071,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Osaka, Japan",
       "venue": "Maishima Summer Sonic Osaka Site",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -27009,10 +25084,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Shanghai, CHN",
       "venue": "Mercedes-Benz Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -27023,10 +25097,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Shanghai, China",
       "venue": "Mercedes-Benz Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -27037,10 +25110,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Seoul, KOR",
       "venue": "Citybreak at Olympic Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -27051,10 +25123,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Kuala Lumpur, Malaysia",
       "venue": "Stadium Merdeka",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -27065,10 +25136,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Singapore, SGP",
       "venue": "Singapore Changi Exhibition Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -27079,10 +25149,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Jakarta, IDN",
       "venue": "Galora Bung Karno Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -27093,10 +25162,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rio de Janeiro, Brazil",
       "venue": "City of Rock",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -27107,10 +25175,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Apollo Theater",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2013,
@@ -27121,10 +25188,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "South Shetland Islands, Antarctica",
       "venue": "Carlini Dome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27135,10 +25201,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bogota, COL",
       "venue": "Parque Simon Bolivar",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27149,10 +25214,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Quito, ECU",
       "venue": "Parque Bicenenario",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27163,10 +25227,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lima, PER",
       "venue": "Estadio Nacional",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27177,10 +25240,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sao Paulo, BRA",
       "venue": "Estadio Do Morumbi",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27191,10 +25253,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Asuncion, PRY",
       "venue": "Jockey Club",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27205,10 +25266,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Santiago, CHL",
       "venue": "Estadio Monumental",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27219,10 +25279,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buenos Aires, Argentina",
       "venue": "Estadio Ciudad de la Plata",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27233,10 +25292,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buenos Aires, ARG",
       "venue": "Estadio Ciudad de la Plata",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27247,10 +25305,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Club Nokia",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27261,10 +25318,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, FIN",
       "venue": "Sonisphere at Hietaniemi Beach",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27275,10 +25331,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, SWE",
       "venue": "Gardet Royal Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27289,10 +25344,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, NOR",
       "venue": "Sonisphere at Valle Hovin",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27303,10 +25357,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Horsens, DNK",
       "venue": "State Prison Open Air",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27317,10 +25370,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, DEU",
       "venue": "Sonisphere at Imtech Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27331,10 +25383,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nu?rnberg, Germany",
       "venue": "Zeppelinfeld",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27345,10 +25396,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nurburg, Germany - Rock am Ring (LiveMetallica)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": ""
     },
     {
       "year": 2014,
@@ -27359,10 +25409,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Landgraaf, The Netherlands",
       "venue": "Pinkpop Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27373,10 +25422,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Pilton, England",
       "venue": "Glastonbury Festival at Worthy Farm",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27387,10 +25435,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rome, ITA",
       "venue": "Rock In Rome Sonisphere at Ippodromo Capannelle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27401,10 +25448,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Werchter, Belgium",
       "venue": "Rock Werchter",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27415,10 +25461,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Basel, SUI",
       "venue": "Sonisphere at St. Jakob-Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27429,10 +25474,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stevenage, GBR",
       "venue": "Sonisphere at Knebworth House",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27443,10 +25487,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Prague, CZE",
       "venue": "Aerodrome Festival at Incheba Open Air",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27457,10 +25500,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, AUT",
       "venue": "Krieau Rocks at Krieau Open Air",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27471,10 +25513,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Warsaw, POL",
       "venue": "Sonisphere at National Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27485,10 +25526,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Istanbul, TUR",
       "venue": "Itu Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2014,
@@ -27499,10 +25539,9 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Heavy Montreal at Parc Jean-Drapeau",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -27513,10 +25552,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Pier 48",
-      "gear": "",
-      "taper": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica Vault"
     },
     {
       "year": 2015,
@@ -27527,10 +25565,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "MGM Resorts Festival Grounds",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -27541,10 +25578,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Veltins Arena",
       "venue": "Gelsenkirchen, DEU",
-      "gear": "",
-      "taper": "Mix #1 \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Mix #1 \u00b7 Livemetallica"
     },
     {
       "year": 2015,
@@ -27555,10 +25591,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Veltins Arena",
       "venue": "Gelsenkirchen, DEU",
-      "gear": "",
-      "taper": "Mix #2 \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Mix #2 \u00b7 Livemetallica"
     },
     {
       "year": 2015,
@@ -27569,10 +25604,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mu?nchen, DEU",
       "venue": "Olympiapark Mu?nchen",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -27583,10 +25617,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milan, Italy",
       "venue": "Assago Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -27597,10 +25630,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, AUT",
       "venue": "Donauinsel Wien",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -27611,10 +25643,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Circuit Of The Americas",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -27625,10 +25656,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Grant Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -27639,10 +25669,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bergen, Norway",
       "venue": "Bergenhus Fortress",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -27653,10 +25682,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Ullevi Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -27667,10 +25695,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "St. Petersburg, Russia",
       "venue": "Saint-Petersburg Sports And Concert Complex",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -27681,10 +25708,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Moscow, Russia",
       "venue": "Olimpiyskiy",
-      "gear": "",
-      "taper": "Source 1 \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Source 1 \u00b7 Livemetallica"
     },
     {
       "year": 2015,
@@ -27695,10 +25721,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Reading, England",
       "venue": "Richfield Avenue",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -27709,10 +25734,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Leeds, England",
       "venue": "Bramham Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2015,
@@ -27723,10 +25747,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Que?bec City, Quebec",
       "venue": "Colise?e Pepsi",
-      "gear": "",
-      "taper": "Source 1 \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Source 1 \u00b7 Livemetallica"
     },
     {
       "year": 2015,
@@ -27737,10 +25760,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Que?bec City, Quebec",
       "venue": "Centre Vide?otron",
-      "gear": "",
-      "taper": "Source 1 \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Source 1 \u00b7 Livemetallica"
     },
     {
       "year": 2015,
@@ -27751,10 +25773,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rio De Janeiro, Brazil",
       "venue": "Nova Cidade Do Rock",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -27765,10 +25786,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "AT&T Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -27779,10 +25799,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Rasputin Music",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -27793,10 +25812,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "US Bank Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -27807,10 +25825,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Great Lawn in Central Park - Global Citizen Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -27821,10 +25838,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Webster Hall",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -27835,10 +25851,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre - Bridge School Benefit",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -27849,10 +25864,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre - Bridge School Benefit",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -27863,10 +25877,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "San Juan, Puerto Rico",
       "venue": "Coliseo Jose Miguel Agrelot",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -27877,10 +25890,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Quito, Ecuador",
       "venue": "Parque Bicentenario",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -27891,10 +25903,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bogota, Colombia",
       "venue": "Hipodromo de los Andes",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -27905,10 +25916,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Guatemala City, Guatemala",
       "venue": "Estadio Cementos Progreso",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -27919,10 +25929,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "San Jose, Costa Rica",
       "venue": "Estadio Nacional de Costa Rica",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -27933,10 +25942,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "House of Vans",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -27947,10 +25955,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Canada",
       "venue": "The Opera House",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -27961,10 +25968,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Fonda Theatre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2016,
@@ -27975,10 +25981,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theatre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -27989,10 +25994,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Seoul, South Korea",
       "venue": "Gocheok Sky Dome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28003,10 +26007,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Shanghai, China",
       "venue": "Mercedes-Benz Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28017,10 +26020,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Beijing, China",
       "venue": "LeSports Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28031,10 +26033,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Chek Lap Kok, Hong Kong",
       "venue": "AsiaWOrld-Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28045,10 +26046,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Singapore, Singapore",
       "venue": "Singapore Indoor Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28059,10 +26059,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Royal Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28073,10 +26072,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Royal Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28087,10 +26085,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Palladium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28101,10 +26098,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Foro Sol",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28115,10 +26111,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Foro Sol",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28129,10 +26124,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Foro Sol",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28143,10 +26137,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sao Paulo, Brazil",
       "venue": "Autodromo de Interlagos",
-      "gear": "",
-      "taper": "Lollapalooza \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Lollapalooza \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -28157,10 +26150,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buenos Aires, Argentina",
       "venue": "Hipodromo de San Isidro",
-      "gear": "",
-      "taper": "Lollapalooza \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Lollapalooza \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -28171,10 +26163,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Santiago, Chile",
       "venue": "Parque O'Higgins",
-      "gear": "",
-      "taper": "Lollapalooza \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Lollapalooza \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -28185,10 +26176,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "M&T Bank Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28199,10 +26189,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Lincoln Financial Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28213,10 +26202,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "MetLife Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28227,10 +26215,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28241,10 +26228,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Foxborough, MA",
       "venue": "Gilette Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28255,10 +26241,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Mapfre Stadium - Rock on the Range",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28269,10 +26254,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Busch Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28283,10 +26267,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Sports Authority Field at Mile High",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28297,10 +26280,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Newton, IA",
       "venue": "Iowa Speedway",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28311,10 +26293,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "NRG Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28325,10 +26306,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "Alamodome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28339,10 +26319,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Arlington, TX",
       "venue": "AT&T Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28353,10 +26332,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Soldier Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28367,10 +26345,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "Camping World Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28381,10 +26358,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Hard Rock Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28395,10 +26371,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "SunTrust Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28409,10 +26384,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Comerica Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28423,10 +26397,9 @@ const ARTIST_DATA = {
       "state": "PQ",
       "location": "Quebec City, PQ",
       "venue": "Plaines d'Abraham - Festival dete de Quebec",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28437,10 +26410,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Rogers Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28451,10 +26423,9 @@ const ARTIST_DATA = {
       "state": "PQ",
       "location": "Montreal, PQ",
       "venue": "Parc Jean-Drapeau",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28465,10 +26436,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pasadena, CA",
       "venue": "Rose Bowl",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28479,10 +26449,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "University of Phoenix Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28493,10 +26462,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Petco Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28507,10 +26475,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Centurylink Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28521,10 +26488,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park - Outside Lands Music & Arts Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28535,10 +26501,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "BC Place Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28549,10 +26514,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Edmonton, Alberta",
       "venue": "Commonwealth Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28563,10 +26527,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Royal Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28577,10 +26540,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, Holland",
       "venue": "Ziggo Dome",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -28591,10 +26553,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, Holland",
       "venue": "Ziggo Dome",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -28605,10 +26566,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "AccorHotels Arena",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -28619,10 +26579,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "AccorHotels Arena",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -28633,10 +26592,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lyon, France",
       "venue": "Halle Tony Garnier",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28647,10 +26605,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cologne, Germany",
       "venue": "Lanxess Arena",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -28661,10 +26618,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cologne, Germany",
       "venue": "Lanxess Arena",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -28675,10 +26631,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "02 Arena",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -28689,10 +26644,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "02 Arena",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -28703,10 +26657,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Glasgow, Scotland",
       "venue": "The SSE Hydro",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28717,10 +26670,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Manchester, England",
       "venue": "Manchester Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28731,10 +26683,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Birmingham, England",
       "venue": "Genting Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2017,
@@ -28745,10 +26696,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Antwerp, Belgium",
       "venue": "Sportpaleis",
-      "gear": "",
-      "taper": "1st Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "1st Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -28759,10 +26709,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Antwerp, Belgium",
       "venue": "Sportspaleis",
-      "gear": "",
-      "taper": "2nd Night \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "2nd Night \u00b7 Livemetallica"
     },
     {
       "year": 2017,
@@ -28773,10 +26722,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "AT&T Park - Band Together Bay Area",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -28787,10 +26735,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, PRT",
       "venue": "Altice Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -28801,10 +26748,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, ESP",
       "venue": "Wizink Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -28815,10 +26761,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, ESP",
       "venue": "Wizink Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -28829,10 +26774,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Barcelona, ESP",
       "venue": "Palau Sant Jordi",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -28843,10 +26787,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Turin, ITA",
       "venue": "Pala Alpitour",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -28857,10 +26800,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bologna, ITA",
       "venue": "Unipol Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -28871,10 +26813,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bologna, ITA",
       "venue": "Unipol Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -28885,10 +26826,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mannheim, DEU",
       "venue": "Sap Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -28899,10 +26839,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Herning, Denmark",
       "venue": "Jyske Bank Boxen",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -28913,10 +26852,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Barclayard Arena (LiveMetallica",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": ""
     },
     {
       "year": 2018,
@@ -28927,10 +26865,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, Austria",
       "venue": "Wiener Stadthalle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -28941,10 +26878,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Prague, Czech Republic",
       "venue": "Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -28955,10 +26891,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Budapest, Hungary",
       "venue": "Sports Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -28969,10 +26904,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stuttgart, Germany",
       "venue": "Schleyerhalle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -28983,10 +26917,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stuttgart, Germany",
       "venue": "Schleyerhalle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -28997,10 +26930,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Geneva, Switzerland",
       "venue": "Palexpo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29011,10 +26943,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Olympiahalle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29025,10 +26956,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Krakow, Poland",
       "venue": "Tauron Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29039,10 +26969,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Leipzig, Germany",
       "venue": "Leipzig Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29053,10 +26982,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, Norway",
       "venue": "Telenor Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29067,10 +26995,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, Sweden",
       "venue": "Ericsson Globe",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29081,10 +27008,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm, Sweden",
       "venue": "Erricson Globe",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29095,10 +27021,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Hartwall Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29109,10 +27034,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Hartwall Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29123,10 +27047,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Kohl Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29137,10 +27060,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Target Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29151,10 +27073,9 @@ const ARTIST_DATA = {
       "state": "NE",
       "location": "Lincoln, NE",
       "venue": "Pinnacle Bank Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29165,10 +27086,9 @@ const ARTIST_DATA = {
       "state": "ND",
       "location": "Grand Fork, ND",
       "venue": "Alerus Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29179,10 +27099,9 @@ const ARTIST_DATA = {
       "state": "SD",
       "location": "Sioux Falls, SD",
       "venue": "Denny Sanford Premier Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29193,10 +27112,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Winnipeg, Manitoba, Canada",
       "venue": "Bell MTS Place",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29207,10 +27125,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Saskatchewan, Canada",
       "venue": "SaskTel Centre Saskatoon",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29221,10 +27138,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Civic Center Plaza",
-      "gear": "",
-      "taper": "Dreamfest \u00b7 Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Dreamfest \u00b7 Livemetallica"
     },
     {
       "year": 2018,
@@ -29235,10 +27151,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits - Zilker Park Austin",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29249,10 +27164,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits - Zilker Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29263,10 +27177,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Wisconsin Entertainment & Sports Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29277,10 +27190,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "PPG Paints Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29291,10 +27203,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "State College, PA",
       "venue": "Bryce Jordan Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29305,10 +27216,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Spectrum Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29319,10 +27229,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wells Fargo Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29333,10 +27242,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Keybank Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29347,10 +27255,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Times Union Center (LiveMetallica",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": ""
     },
     {
       "year": 2018,
@@ -29361,10 +27268,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Masonic",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29375,10 +27281,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "T-Mobile Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29389,10 +27294,9 @@ const ARTIST_DATA = {
       "state": "ID",
       "location": "Boise, ID",
       "venue": "Taco Bell Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29403,10 +27307,9 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "Vivint Smart Home Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29417,10 +27320,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Spokane, WA",
       "venue": "Spokane Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29431,10 +27333,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Moda Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29445,10 +27346,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Golden 1 Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2018,
@@ -29459,10 +27359,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fresno, CA",
       "venue": "Save Mart Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29473,10 +27372,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Tulsa, OK",
       "venue": "BOK Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29487,10 +27385,9 @@ const ARTIST_DATA = {
       "state": "AR",
       "location": "Little Rock, AR",
       "venue": "Verizon Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29501,10 +27398,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "Legacy Arena at The BJCC",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29515,10 +27411,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Bridgestone Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29529,10 +27424,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "PNC Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29543,10 +27437,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "U.S. Bank Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29557,10 +27450,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Quicken Loans Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29571,10 +27463,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "El Paso, TX",
       "venue": "Don Haskins Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29585,10 +27476,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Lubbock, TX",
       "venue": "United Supermarkets Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29599,10 +27489,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Wichita, KS",
       "venue": "Intrust Bank Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29613,10 +27502,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Sprint Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29627,10 +27515,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "Van Andel Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29641,10 +27528,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lisbon, Portugal",
       "venue": "Estadio do Restelo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29655,10 +27541,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Valdebebas",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29669,10 +27554,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Barcelona, Spain",
       "venue": "Estadi Olimpic Lluis Companys",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29683,10 +27567,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milan, Italy",
       "venue": "SNAI San Siro Hippodrome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29697,10 +27580,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zu?rich, Switzerland",
       "venue": "Letzigrund",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29711,10 +27593,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Stade de France",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29725,10 +27606,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Meath, Ireland",
       "venue": "Slane Castle",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29739,10 +27619,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, Netherlands",
       "venue": "Johan Cruijff Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29753,10 +27632,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cologne, Germany",
       "venue": "RheinEnergieStadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29767,10 +27645,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brussels, Belgium",
       "venue": "Koning Boudewijnstadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29781,10 +27658,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Manchester, England - Etihad Stadium (LiveMetallica)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -29795,10 +27671,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Twickenham Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29809,10 +27684,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "Olympiastadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29823,10 +27697,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Ullevi",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29837,10 +27710,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Telia Parken",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29851,10 +27723,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Trondheim, Norway",
       "venue": "Grana?sen",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29865,10 +27736,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hameenlinna, Finland",
       "venue": "Kantolan Tapahtumapuisto",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29879,10 +27749,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tartu, Estonia",
       "venue": "Raadi Airfield",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29893,10 +27762,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Moscow, Russia",
       "venue": "Luzhniki Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29907,10 +27775,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Nationala, Romania, Bucharest",
       "venue": "Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29921,10 +27788,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, AUS",
       "venue": "Ernst-Happel-Stadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29935,10 +27801,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Prague, Czech Republic",
       "venue": "Airport Letnany",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29949,10 +27814,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Warsaw, Poland",
       "venue": "PGE Narodowy",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29963,10 +27827,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Olympiastadion Munich",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2019,
@@ -29977,10 +27840,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mannheim, Germany",
       "venue": "Palastzelt Maimarktgela?nde",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2020,
@@ -29991,10 +27853,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Rafael, CA",
       "venue": "Metallica HQ",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -30005,10 +27866,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Independent",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -30019,10 +27879,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Chicago, IL - Metro (LiveMetallica)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": ""
     },
     {
       "year": 2021,
@@ -30033,10 +27892,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Expo Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -30047,10 +27905,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Expo Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -30061,10 +27918,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Aftershock at Discovery Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -30075,10 +27931,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Aftershock at Discovery Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -30089,10 +27944,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Hollywood, FL",
       "venue": "Hard Rock Live at Seminole Hard Rock & Casino",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -30103,10 +27957,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "AT Live - Mercedes-Benz Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -30117,10 +27970,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Daytona Beach, FL",
       "venue": "Daytona International Speedway",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -30131,10 +27983,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Daytona Beach, FL",
       "venue": "The Daytona International Speedway",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -30145,10 +27996,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Globe Life Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -30159,10 +28009,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Chase Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2021,
@@ -30173,10 +28022,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Chase Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30187,10 +28035,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Allegiant Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30201,10 +28048,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Santiago, Chile",
       "venue": "Eastadio Nacional",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30215,10 +28061,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buenos Aires, Argentina",
       "venue": "Campo Argentino de Polo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30229,10 +28074,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Porto Alegre, Brazil",
       "venue": "Estacionamento da Fiergs",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30243,10 +28087,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Curitiba, Brazil",
       "venue": "Esta?dio Couto Pereira",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30257,10 +28100,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sa?o Paulo, Brazil",
       "venue": "Esta?dio do Morumbi",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30271,10 +28113,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Horizonte, Brazil",
       "venue": "Esta?dio do Mineira?o Belo",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30285,10 +28126,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Napa, CA",
       "venue": "BottleRock Music Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30299,10 +28139,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Calling @ Harvard Athletic Complex",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30313,10 +28152,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Copenhell at Refshale?en",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30327,10 +28165,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Landgraaf, Netherlands",
       "venue": "Pinkpop Festival at Megaland",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30341,10 +28178,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Florence, Italy",
       "venue": "Firenze Rocks at Visarno Arena Firenze",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30355,10 +28191,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Prague, Czech Republic",
       "venue": "Prague Rocks at Letis?te Praha Letnany",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30369,10 +28204,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hockenheim, Germany",
       "venue": "Download Germany at Hockenheimring",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30383,10 +28217,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Clisson, France",
       "venue": "Hellfest at Val de Moine",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30397,10 +28230,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Werchter, Belgium",
       "venue": "Rock Werchter at Festivalpark",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30411,10 +28243,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bilbao, ESP",
       "venue": "Bizkaia Rock Day at Estadio San Mames",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30425,10 +28256,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Grant Park - Lollapalooza",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30439,10 +28269,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Highmark Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30453,10 +28282,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "PNC Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30467,10 +28295,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Central Park - Global Citizens Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30481,10 +28308,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Hollywood, FL",
       "venue": "Hard Rock Live at Seminole Hard Rock Hotel & Casino",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2022,
@@ -30495,10 +28321,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Microsoft Theatre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30509,10 +28334,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, The Netherlands",
       "venue": "Johan Cruijff Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30523,10 +28347,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, The Netherlands",
       "venue": "Johan Cruijff Arena",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30537,10 +28360,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Stade de France",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30551,10 +28373,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Stade de France",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30565,10 +28386,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Volksparkstadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30579,10 +28399,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Volksparkstadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30593,10 +28412,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Castle Donington, England - Download Festival (LiveMetallica)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": ""
     },
     {
       "year": 2023,
@@ -30607,10 +28425,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Castle Donington, England - Download Festival (LiveMetallica)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": ""
     },
     {
       "year": 2023,
@@ -30621,10 +28438,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Ullevi Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30635,10 +28451,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Ullevi Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30649,10 +28464,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Metlife Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30663,10 +28477,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Metlife Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30677,10 +28490,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Arlington, TX",
       "venue": "AT&T Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30691,10 +28503,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Arlington, TX",
       "venue": "AT&T Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30705,10 +28516,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "So-Fi Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30719,10 +28529,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "So-Fi Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30733,10 +28542,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "State Farm Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30747,10 +28555,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "State Farm Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30761,10 +28568,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Club",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30775,10 +28581,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Dome at America's Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30789,10 +28594,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Dome at America's Centre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30803,10 +28607,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Ford Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30817,10 +28620,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Ford Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2023,
@@ -30831,10 +28633,9 @@ const ARTIST_DATA = {
       "state": "SA",
       "location": "Riyadh, SA",
       "venue": "Soundstorm Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -30845,10 +28646,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Olympiastadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -30859,10 +28659,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Olympiastadion",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -30873,10 +28672,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Milan, Italy",
       "venue": "I-Days Festival",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -30887,10 +28685,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vienna, Austria",
       "venue": "Racino Rocks",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -30901,10 +28698,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Helsinki Olympic Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -30915,10 +28711,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Helsinki, Finland",
       "venue": "Helsinki Olympic Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -30929,10 +28724,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Parken Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -30943,10 +28737,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Parken Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -30957,10 +28750,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oslo, Norway",
       "venue": "Tons of Rock",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -30971,10 +28763,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Clisson, France",
       "venue": "Hellfest",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -30985,10 +28776,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Warsaw, Poland",
       "venue": "PGE Narodowy",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -30999,10 +28789,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Warsaw, Poland",
       "venue": "PGE Narodowy",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31013,10 +28802,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Estadio Ci?vitas Metropolitano",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31027,10 +28815,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Estadio Ci?vitas Metropolitano",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31041,10 +28828,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Foxborough, MA",
       "venue": "Gillette Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31055,10 +28841,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Foxborough, MA",
       "venue": "Gillette Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31069,10 +28854,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Soldier Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31083,10 +28867,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Soldier Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31097,10 +28880,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "U.S. Bank Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31111,10 +28893,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "U.S. Bank Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31125,10 +28906,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Alberta, Canada",
       "venue": "Commonwealth Stadium Edmonton",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31139,10 +28919,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Alberta, Canada",
       "venue": "Commonwealth Stadium Edmonton",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31153,10 +28932,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Lumen Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31167,10 +28945,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Lumen Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31181,10 +28958,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Estadio GNP Seguros",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31195,10 +28971,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Estadio GNP Seguros",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31209,10 +28984,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Estadio GNP Seguros",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31223,10 +28997,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Mexico City, Mexico",
       "venue": "Estadio GNP Seguros",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2024,
@@ -31237,10 +29010,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "YouTube Theater",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31251,10 +29023,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "JMA Wireless Dome",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31265,10 +29036,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Rogers Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31279,10 +29049,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Rogers Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31293,10 +29062,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Nissan Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31307,10 +29075,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Nissan Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31321,10 +29088,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Blacksburg, VA",
       "venue": "Lane Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31335,10 +29101,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Sonic Temple - Historic Crew Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31349,10 +29114,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Sonic Temple - Historic Crew Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31363,10 +29127,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Lincoln Financial Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31377,10 +29140,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Lincoln Financial Field",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31391,10 +29153,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Landover, MD",
       "venue": "Northwest Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31405,10 +29166,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Bank of America Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31419,10 +29179,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Mercedes-Benz Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31433,10 +29192,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa Bay, FL",
       "venue": "Raymond James Stadium",
-      "gear": "",
-      "taper": "Live Metallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica"
     },
     {
       "year": 2025,
@@ -31447,10 +29205,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa Bay, FL",
       "venue": "Raymond James Stadium",
-      "gear": "",
-      "taper": "Live Metallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Live Metallica"
     },
     {
       "year": 2025,
@@ -31461,10 +29218,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "NRG Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31475,10 +29231,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Clara, CA",
       "venue": "Levi?s Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31489,10 +29244,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Clara, CA",
       "venue": "Levi?s Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31503,10 +29257,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Empower Field at Mile High",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31517,10 +29270,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Empower Field at Mile High",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31531,10 +29283,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Dreamfest The Concert for Kids at Chase Center",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31545,10 +29296,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Perth, AUS",
       "venue": "Optus Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31559,10 +29309,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Adelaide, AUS",
       "venue": "Adelaide Oval",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31573,10 +29322,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, Australia",
       "venue": "Accor Stadium",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31587,10 +29335,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Auckland, New Zealand",
       "venue": "Eden Park",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31601,10 +29348,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Doha, Qatar",
       "venue": "Qatar Grand Prix at Lusail International Circuit",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31615,10 +29361,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Manama, Bahrain",
       "venue": "Beyon Al Dana Amphitheatre",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     },
     {
       "year": 2025,
@@ -31629,10 +29374,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Abu Dhabi, United Arab Emirates",
       "venue": "Abu Dhabi F1 Grand Prix Yas Island",
-      "gear": "",
-      "taper": "Livemetallica",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "notes": "Livemetallica"
     }
   ]
 };

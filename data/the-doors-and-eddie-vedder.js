@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rock & Roll HOF - Performance",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     }
   ]
 };

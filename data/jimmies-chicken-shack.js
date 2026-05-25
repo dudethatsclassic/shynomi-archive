@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Bayfront Park - DAT(M)",
-      "gear": "B&K 4022",
-      "taper": "jlizard",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "B&K 4022 \u00b7 jlizard"
     },
     {
       "year": 2018,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Calloway, MD",
       "venue": "5 South Event Center",
-      "gear": "CA-14s",
-      "taper": "cabage",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14s \u00b7 cabage"
     },
     {
       "year": 2023,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Backstage Bar & Billiards",
-      "gear": "AKG CK61",
-      "taper": "cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AKG CK61 \u00b7 cps"
     }
   ]
 };

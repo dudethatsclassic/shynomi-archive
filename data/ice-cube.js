@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Vancouver BC",
       "venue": "U.B.C Thunderbird Stadium - Lollapalooza",
-      "gear": "Sony ECM-PC62",
-      "taper": "audioarchivist",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sony ECM-PC62 \u00b7 audioarchivist"
     }
   ]
 };

@@ -24,10 +24,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Alexandria, VA",
       "venue": "The Birchmere",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -38,10 +37,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Norfolk, VA",
       "venue": "Constant Convocation Center",
-      "gear": "Neumann KM184",
-      "taper": "duncan byrd and ron powell",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Neumann KM184 \u00b7 duncan byrd and ron powell"
     },
     {
       "year": 2003,
@@ -52,10 +50,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Winston Salem, NC",
       "venue": "LJVM Coliseum Theatre",
-      "gear": "Schoeps MK4Vs",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK4Vs \u00b7 Unknown"
     },
     {
       "year": 2012,
@@ -66,10 +63,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Canandaigua, NY",
       "venue": "Marvin Sands Performing Arts Center",
-      "gear": "AKG 483",
-      "taper": "w. clark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AKG 483 \u00b7 w. clark"
     },
     {
       "year": 2016,
@@ -80,10 +76,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "gear": "unk",
-      "taper": "daspyknows",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 daspyknows"
     },
     {
       "year": 2017,
@@ -94,10 +89,9 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Vienna, Austria",
       "venue": "Konzerthaus",
-      "gear": "CA-14s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14s \u00b7 Unknown"
     },
     {
       "year": 2017,
@@ -108,10 +102,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Meigs Field - Mistake By the Lake",
-      "gear": "AKG CK63",
-      "taper": "crumbo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AKG CK63 \u00b7 crumbo"
     },
     {
       "year": 2017,
@@ -122,10 +115,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Meigs Field - Mistake By the Lake",
-      "gear": "AKG CK63",
-      "taper": "crumbo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AKG CK63 \u00b7 crumbo"
     },
     {
       "year": 2021,
@@ -136,10 +128,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Xfinity Theatre (Dave Matthews & Tim Reynolds)",
-      "gear": "Schoeps MK4V",
-      "taper": "jim kelly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK4V \u00b7 jim kelly"
     },
     {
       "year": 2022,
@@ -150,10 +141,9 @@ const ARTIST_DATA = {
       "state": "MEX",
       "location": "Cancun, MEX",
       "venue": "Moon Palace Resort - Beach Stage",
-      "gear": "AKG C414",
-      "taper": "zachary semcken",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AKG C414 \u00b7 zachary semcken"
     },
     {
       "year": 2022,
@@ -164,10 +154,9 @@ const ARTIST_DATA = {
       "state": "MEX",
       "location": "Cancun, MEX",
       "venue": "Moon Palace Resort - Beach Stage",
-      "gear": "AKG C414",
-      "taper": "zachary semcken",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AKG C414 \u00b7 zachary semcken"
     },
     {
       "year": 2022,
@@ -178,10 +167,9 @@ const ARTIST_DATA = {
       "state": "MEX",
       "location": "Cancun, MEX",
       "venue": "Moon Palace Resort - Beach Stage",
-      "gear": "AKG C414",
-      "taper": "zachary semcken",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AKG C414 \u00b7 zachary semcken"
     }
   ]
 };

@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Sports Arena",
-      "gear": "Realistic Walkman",
-      "taper": "michael cariola",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Realistic Walkman \u00b7 michael cariola"
     }
   ]
 };

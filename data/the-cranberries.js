@@ -30,10 +30,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dublin, Ireland",
       "venue": "Dan Hegerty Show",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -44,10 +43,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Town & Country Club",
-      "gear": "Sony TCS 430",
-      "taper": "Storm",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony TCS 430 \u00b7 Storm"
     },
     {
       "year": 1992,
@@ -58,10 +56,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "John Peel Session - Maide Vale 4 Studio",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -72,10 +69,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Studio 105",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -86,10 +82,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -100,10 +95,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Grand",
-      "gear": "",
-      "taper": "Shure \u00b7 Two Of Us",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Shure \u00b7 Two Of Us"
     },
     {
       "year": 1993,
@@ -114,10 +108,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Huntridge Theater",
-      "gear": "Sony stereo mic",
-      "taper": "Scott Tillotson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony stereo mic \u00b7 Scott Tillotson"
     },
     {
       "year": 1993,
@@ -128,10 +121,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheatre",
-      "gear": "",
-      "taper": "Markp",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Markp"
     },
     {
       "year": 1993,
@@ -142,10 +134,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dublin, Ireland",
       "venue": "Tivoli Theatre *Coming Back to My Family",
-      "gear": "",
-      "taper": "Ra 1343",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ra 1343"
     },
     {
       "year": 1994,
@@ -156,10 +147,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Astoria Arena",
-      "gear": "",
-      "taper": "Xm Broadcast",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Xm Broadcast"
     },
     {
       "year": 1994,
@@ -170,10 +160,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Live at the Record Plant",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -184,10 +173,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bourges, France",
       "venue": "Le Printemps de Bourges Festival",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -198,10 +186,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "On the Edge Studios",
-      "gear": "WW1",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "WW1"
     },
     {
       "year": 1994,
@@ -212,10 +199,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "WNNX-FM Studio",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -226,10 +212,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Newcastle, England",
       "venue": "Mayfair Ballroom",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -240,10 +225,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Alabamahalle",
-      "gear": "",
-      "taper": "2025 Re-broadcast",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "notes": "2025 Re-broadcast"
     },
     {
       "year": 1994,
@@ -254,10 +238,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Alabamahalle",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -268,10 +251,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Songs Against War",
-      "gear": "",
-      "taper": "Octo 087",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Octo 087"
     },
     {
       "year": 1994,
@@ -282,10 +264,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Orpheum Theater *Lucky Charms",
-      "gear": "",
-      "taper": "Hr6041-9",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Hr6041-9"
     },
     {
       "year": 1994,
@@ -296,10 +277,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "AJ Palumbo Center",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1994,
@@ -310,10 +290,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theater *Fruits of Our Labor",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -324,10 +303,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Albert Hall",
-      "gear": "",
-      "taper": "Ss-dsm6 \u00b7 Ebr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ss-dsm6 \u00b7 Ebr"
     },
     {
       "year": 1995,
@@ -338,10 +316,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York City, NY",
       "venue": "The Brooklyn Academy Of Music - MTV Unplugged",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -352,10 +329,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Sunrise, FL",
       "venue": "Sunrise Musical Theatre",
-      "gear": "datfly",
-      "taper": "Ss-dsm6s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "datfly \u00b7 Ss-dsm6s"
     },
     {
       "year": 1995,
@@ -366,10 +342,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Leed's Town & Country Club *Coca Cola Planet Live!",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -380,10 +355,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Milton Keynes, UK",
       "venue": "Milton Keynes Bowl",
-      "gear": "",
-      "taper": "Bbc Radio 1",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Bbc Radio 1"
     },
     {
       "year": 1995,
@@ -394,10 +368,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Wembley Arena *Support Slot",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -408,10 +381,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "Akasaka Blitz *A Shot of Salvation",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -422,10 +394,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Burgettstown, PA",
       "venue": "Star Lake Amphitheatre",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1996,
@@ -436,10 +407,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Molson Theatre",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -450,10 +420,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Richard's On Richards",
-      "gear": "",
-      "taper": "Stevemtl Transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Stevemtl Transfer"
     },
     {
       "year": 1999,
@@ -464,10 +433,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "WBCN Studios",
-      "gear": "",
-      "taper": "Glasnostrd19",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Glasnostrd19"
     },
     {
       "year": 1999,
@@ -478,10 +446,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Wiltern Theatre",
-      "gear": "AT853",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853 \u00b7 Unknown"
     },
     {
       "year": 1999,
@@ -492,10 +459,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "West Palm Beach, FL",
       "venue": "Corel Sky Amphitheater",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -506,10 +472,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Wallingford, CT",
       "venue": "Oakdale Theatre",
-      "gear": "ECM-717",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-717 \u00b7 Unknown"
     },
     {
       "year": 1999,
@@ -520,10 +485,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Wallingford, CT",
       "venue": "Oakdale Theatre",
-      "gear": "ECM 717",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM 717 \u00b7 Unknown"
     },
     {
       "year": 1999,
@@ -534,10 +498,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bordeaux, France",
       "venue": "Patinoire de Meriadeck",
-      "gear": "",
-      "taper": "Aiwa Hs-js245 \u00b7 Trekk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa Hs-js245 \u00b7 Trekk"
     },
     {
       "year": 2000,
@@ -548,10 +511,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lucca, Italy",
       "venue": "Lucca Festival",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2001,
@@ -562,10 +524,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Fleet Center",
-      "gear": "1G",
-      "taper": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "1G"
     },
     {
       "year": 2002,
@@ -576,10 +537,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "Columbiahalle",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2002,
@@ -590,10 +550,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Wien, Austria",
       "venue": "Halle Gasometer *Wake Up Vienna",
-      "gear": "",
-      "taper": "Prcd 021 002",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Prcd 021 002"
     },
     {
       "year": 2002,
@@ -604,10 +563,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bourges, France",
       "venue": "Le Printemps de Bourges Festival",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2002,
@@ -618,10 +576,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Tower Theatre *Wake Up America",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2002,
@@ -632,10 +589,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Pompano Beach, FL",
       "venue": "Pompano Beach Amphitheater",
-      "gear": "datfly",
-      "taper": "",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "datfly"
     },
     {
       "year": 2002,
@@ -646,10 +602,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bologna, Italy",
       "venue": "MTV Day - Bologna",
-      "gear": "",
-      "taper": "H.t.",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "H.t."
     },
     {
       "year": 2010,
@@ -660,10 +615,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Venice, Italy",
       "venue": "Parco Son Giuliano",
-      "gear": "AT853",
-      "taper": "Mlk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853 \u00b7 Mlk"
     },
     {
       "year": 2010,
@@ -674,10 +628,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Weert, The Netherlands",
       "venue": "Bospop",
-      "gear": "",
-      "taper": "Zoom H4 \u00b7 Heucki",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H4 \u00b7 Heucki"
     },
     {
       "year": 2012,
@@ -688,10 +641,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "Tiny Desk Concert",
-      "gear": "",
-      "taper": "",
       "version": "Webcast",
-      "format": "MKV"
+      "format": "MKV",
+      "notes": ""
     },
     {
       "year": 2012,
@@ -702,10 +654,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne, AUS",
       "venue": "Sidney Myer Music Bowl",
-      "gear": "",
-      "taper": "Ca-14 \u00b7 Christopher Jacques",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-14 \u00b7 Christopher Jacques"
     },
     {
       "year": 2012,
@@ -716,10 +667,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Mashantucket, CT",
       "venue": "MGM Grand Theater at Foxwoods",
-      "gear": "",
-      "taper": "Sennheiser Me-104s \u00b7 Ringfedder",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sennheiser Me-104s \u00b7 Ringfedder"
     },
     {
       "year": 2012,
@@ -730,10 +680,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "930 Club",
-      "gear": "",
-      "taper": "Ca-14s \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Ca-14s \u00b7 Unknown"
     },
     {
       "year": 2012,
@@ -744,10 +693,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Montbeliard, France",
       "venue": "Axone",
-      "gear": "matmat159",
-      "taper": "Tascam Dr-07",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "matmat159 \u00b7 Tascam Dr-07"
     },
     {
       "year": 2007,
@@ -758,10 +706,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cologne, Germany",
       "venue": "Gloria Theater",
-      "gear": "Sony ECM-CS10",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-CS10 \u00b7 Unknown"
     },
     {
       "year": 2007,
@@ -772,10 +719,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Avalon",
-      "gear": "",
-      "taper": "Bennyblanco",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Bennyblanco"
     },
     {
       "year": 2007,
@@ -786,10 +732,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "WXPN Studio - World Cafe",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2007,
@@ -800,10 +745,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buenos Aires, Argentina",
       "venue": "FMM 100 Studios",
-      "gear": "",
-      "taper": "",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     }
   ]
 };

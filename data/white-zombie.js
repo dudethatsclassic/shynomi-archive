@@ -24,10 +24,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Barbara, CA",
       "venue": "Unknown Venue",
-      "gear": "",
-      "taper": "KCSB-FM",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "KCSB-FM"
     },
     {
       "year": 1990,
@@ -38,10 +37,9 @@ const ARTIST_DATA = {
       "state": "Holland - Willem 2",
       "location": "Den Bosch, Holland - Willem 2",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -52,10 +50,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Palladium",
-      "gear": "",
-      "taper": "with Bonus Rob Zombie tracks from 12-11-1999",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "with Bonus Rob Zombie tracks from 12-11-1999"
     },
     {
       "year": 1993,
@@ -66,10 +63,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Palace - ANA",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 1993,
@@ -80,10 +76,9 @@ const ARTIST_DATA = {
       "state": "CA - The Palace (1st gen) (j. koehler)",
       "location": "Hollywood, CA - The Palace (1st gen) (j. koehler)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -94,10 +89,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York,  NY",
       "venue": "Roseland Ballroom",
-      "gear": "Olympus ME-1S",
-      "taper": "smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Olympus ME-1S \u00b7 smores"
     },
     {
       "year": 1994,
@@ -108,10 +102,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Fort Worth, TX",
       "venue": "Amon G. Carter Jr. Exhibits Hall",
-      "gear": "Sony ECM-155",
-      "taper": "smores",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sony ECM-155 \u00b7 smores"
     },
     {
       "year": 1995,
@@ -122,10 +115,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Thomas & Mack Center",
-      "gear": "",
-      "taper": "Radio Master Discs - Live From the Pit",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Radio Master Discs - Live From the Pit"
     },
     {
       "year": 1996,
@@ -136,10 +128,9 @@ const ARTIST_DATA = {
       "state": "AK",
       "location": "Anchorage, AK",
       "venue": "Sullivan Arena",
-      "gear": "",
-      "taper": "DSM-6P",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DSM-6P"
     },
     {
       "year": 1996,
@@ -150,10 +141,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Daly City, CA",
       "venue": "Cow Palace",
-      "gear": "",
-      "taper": "dj master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "dj master"
     },
     {
       "year": 1996,
@@ -164,10 +154,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Arco Arena",
-      "gear": "",
-      "taper": "dj mstr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "dj mstr"
     }
   ]
 };

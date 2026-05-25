@@ -23,10 +23,9 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Centre Bell",
-      "gear": "SP-CMC-8s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8s \u00b7 Unknown"
     },
     {
       "year": 2003,
@@ -37,10 +36,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "Freeman Coliseum",
-      "gear": "AT853s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853s \u00b7 Unknown"
     },
     {
       "year": 2005,
@@ -51,10 +49,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Zepp Tokyo",
-      "gear": "MM-HLSC-1",
-      "taper": "fab1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MM-HLSC-1 \u00b7 fab1"
     },
     {
       "year": 2007,
@@ -65,10 +62,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Nokia Theatre",
-      "gear": "AT943",
-      "taper": "prof_peabody",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT943 \u00b7 prof_peabody"
     },
     {
       "year": 2013,
@@ -79,10 +75,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Good Morning America",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2013,
@@ -93,10 +88,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "ABC Studio TV-1",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2013,
@@ -107,10 +101,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Access Hollywood Live (Interview)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2013,
@@ -121,10 +114,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Chelsea Lately (Interview)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2022,
@@ -135,10 +127,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "T-Mobile Arena - iHeartRadio Festival",
-      "gear": "",
-      "taper": "HDTV",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "HDTV"
     },
     {
       "year": 2024,
@@ -149,10 +140,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "Kia Forum",
-      "gear": "DPA 4081",
-      "taper": "faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4081 \u00b7 faninor"
     },
     {
       "year": 2024,
@@ -163,10 +153,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Landgraaf, The Netherlands",
       "venue": "Pinkpop",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2024,
@@ -177,10 +166,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Pilton, UK",
       "venue": "Glastonbury Festival, Worthy Farm",
-      "gear": "",
-      "taper": "1080p",
       "version": "PRO",
-      "format": "MKV"
+      "format": "MKV",
+      "notes": "1080p"
     }
   ]
 };

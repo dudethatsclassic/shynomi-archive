@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Buena Park, CA",
       "venue": "Knotts Berry Farm on NBC - 22nd Annual Academy of Country Music Awards",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheatre - 27th Annual Academy of Country Music Awards",
-      "gear": "",
-      "taper": "TV-VHS",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "TV-VHS"
     }
   ]
 };

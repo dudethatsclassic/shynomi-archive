@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Vegoose Festival - DAT(M)",
-      "gear": "Schoeps MSTC64",
-      "taper": "bigbluetarp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MSTC64 \u00b7 bigbluetarp"
     },
     {
       "year": 2024,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Tonight Show with Jimmy Fallon",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2024,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theatre of Living Arts",
-      "gear": "DPA 4061s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061s \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -62,10 +59,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Newport Music Hall",
-      "gear": "SP-CMC-8",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 live2cd"
     },
     {
       "year": 2024,
@@ -76,10 +72,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Regency Ballroom",
-      "gear": "SP-CMC-4U",
-      "taper": "huskerdu1972",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-4U \u00b7 huskerdu1972"
     },
     {
       "year": 2024,
@@ -90,10 +85,9 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Paredes de Coura, Portugal",
       "venue": "Festival Paredes de Coura",
-      "gear": "",
-      "taper": "circle",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "circle"
     },
     {
       "year": 2024,
@@ -104,10 +98,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Ko?ln, Germany",
       "venue": "Bu?rgerhaus Stollwerck",
-      "gear": "Zoom H4N",
-      "taper": "minimax",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H4N \u00b7 minimax"
     },
     {
       "year": 2024,
@@ -118,10 +111,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "All Points East - Victoria Park",
-      "gear": "DPA 4060s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4060s \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -132,10 +124,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Leeds, UK",
       "venue": "Brudenell Social Club",
-      "gear": "DPA 4060s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4060s \u00b7 Unknown"
     },
     {
       "year": 2025,
@@ -146,10 +137,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Stern Grove Festival",
-      "gear": "",
-      "taper": "Webstream",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Webstream"
     }
   ]
 };

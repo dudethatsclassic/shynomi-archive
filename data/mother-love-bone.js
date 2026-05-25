@@ -21,10 +21,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Kent, WA",
       "venue": "Skate King",
-      "gear": "",
-      "taper": "unk VHS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk VHS"
     },
     {
       "year": 1988,
@@ -35,10 +34,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Central Tavern",
-      "gear": "",
-      "taper": "unk VHS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk VHS"
     },
     {
       "year": 1989,
@@ -49,10 +47,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "Cactus Club *Sister Ass",
-      "gear": "",
-      "taper": "HR5961-8",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "HR5961-8"
     },
     {
       "year": 1989,
@@ -63,10 +60,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "The Living Room",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1989,
@@ -77,10 +73,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "JC Dobbs - ANA",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 1989,
@@ -91,10 +86,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Tommy's",
-      "gear": "",
-      "taper": "bleach72",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "bleach72"
     },
     {
       "year": 1989,
@@ -105,10 +99,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Club with No Name",
-      "gear": "",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "MP3"
+      "format": "MP3",
+      "notes": "Unknown"
     },
     {
       "year": 1989,
@@ -119,10 +112,9 @@ const ARTIST_DATA = {
       "state": "CA - Cactus Club (unk)",
       "location": "San Jose, CA - Cactus Club (unk)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -133,10 +125,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Bumbershoot Festival *There Was Live Before Pearl Jam",
-      "gear": "",
-      "taper": "NP 55001",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "NP 55001"
     },
     {
       "year": 1989,
@@ -147,10 +138,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Bumbershoot Festival  - VHS",
-      "gear": "",
-      "taper": "1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1"
     },
     {
       "year": 1989,
@@ -161,10 +151,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Vogue",
-      "gear": "",
-      "taper": "Uncomfirmed MP3 set",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "notes": "Uncomfirmed MP3 set"
     },
     {
       "year": 1990,
@@ -175,10 +164,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Vogue *Hello Hometown",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2018,
@@ -189,10 +177,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Smash Benefit",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "WEB",
-      "format": "M4A"
+      "format": "M4A",
+      "notes": ""
     }
   ]
 };

@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "170 Russell",
-      "gear": "Zoom H1n",
-      "taper": "claire laura fredriksson",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H1n \u00b7 claire laura fredriksson"
     }
   ]
 };

@@ -51,10 +51,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Medford, MA",
       "venue": "Hotung Cafe - Tufts University",
-      "gear": "",
-      "taper": "Greg Labranche",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Greg Labranche"
     },
     {
       "year": 1992,
@@ -65,10 +64,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Medford, MA",
       "venue": "Hotung Cafe - Tufts University",
-      "gear": "",
-      "taper": "Greg Labranche",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Greg Labranche"
     },
     {
       "year": 1993,
@@ -79,10 +77,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "Black Rose",
-      "gear": "",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1994,
@@ -93,10 +90,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Somerville, MA",
       "venue": "Johnny D's",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1995,
@@ -107,10 +103,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Andover, NH",
       "venue": "Phillips Academy Andover",
-      "gear": "",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1995,
@@ -121,10 +116,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Wetlands",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -135,10 +129,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Wetlands",
-      "gear": "",
-      "taper": "Dave Nolan",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Dave Nolan"
     },
     {
       "year": 1995,
@@ -149,10 +142,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Wetlands",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -163,10 +155,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Lynn, MA",
       "venue": "WFNX-FM Station",
-      "gear": "",
-      "taper": "Unknown",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1995,
@@ -177,10 +168,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "Gunnerz",
-      "gear": "",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1995,
@@ -191,10 +181,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Wetlands Preserve",
-      "gear": "",
-      "taper": "Brian Hracyk Transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Brian Hracyk Transfer"
     },
     {
       "year": 1995,
@@ -205,10 +194,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "7 Willow Street",
-      "gear": "",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1996,
@@ -219,10 +207,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Durham, NH",
       "venue": "The MUB - University of New Hampshire",
-      "gear": "",
-      "taper": "Dave Zbikowski Master",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Dave Zbikowski Master"
     },
     {
       "year": 1996,
@@ -233,10 +220,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Manchester, NH",
       "venue": "Palace Theater",
-      "gear": "",
-      "taper": "Peter Smith",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Peter Smith"
     },
     {
       "year": 1996,
@@ -247,10 +233,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Manchester, NH",
       "venue": "Palace Theater",
-      "gear": "Sony ECM 959A",
-      "taper": "Peter Smith",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM 959A \u00b7 Peter Smith"
     },
     {
       "year": 1996,
@@ -261,10 +246,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "Gunnerz",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -275,10 +259,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "The Bayou",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1996,
@@ -289,10 +272,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "Gunnerz",
-      "gear": "Sony 60ES",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony 60ES"
     },
     {
       "year": 1996,
@@ -303,10 +285,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Emerson College - WERS Radio",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -317,10 +298,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Martinsville, NJ",
       "venue": "The Pingry School",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1996,
@@ -331,10 +311,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Scranton, PA",
       "venue": "Tink's",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1996,
@@ -345,10 +324,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Manhattan, NY",
       "venue": "Lion's Den",
-      "gear": "CSB",
-      "taper": "Jeffry Houser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Jeffry Houser"
     },
     {
       "year": 1996,
@@ -359,10 +337,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "gear": "",
-      "taper": "Neil Brodsky",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Neil Brodsky"
     },
     {
       "year": 1996,
@@ -373,10 +350,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "The Middle East",
-      "gear": "",
-      "taper": "Bill Lakenan",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Bill Lakenan"
     },
     {
       "year": 1997,
@@ -387,10 +363,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Villanova, PA",
       "venue": "Villanova University",
-      "gear": "",
-      "taper": "Octava Mc012 \u00b7 Bill Lakenan",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Octava Mc012 \u00b7 Bill Lakenan"
     },
     {
       "year": 1997,
@@ -401,10 +376,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theatre",
-      "gear": "",
-      "taper": "Gefell Sms 200s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Gefell Sms 200s \u00b7 Dave Mallick"
     },
     {
       "year": 1997,
@@ -415,10 +389,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Herman's Hideaway",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1997,
@@ -429,10 +402,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "328 Performance Hall - AWARE Records Showcase",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -443,10 +415,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Avalon Ballroom",
-      "gear": "",
-      "taper": "Goldfly Release Party \u00b7 Neil Brodsky",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Goldfly Release Party \u00b7 Neil Brodsky"
     },
     {
       "year": 1997,
@@ -457,10 +428,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Charlottsville, VA",
       "venue": "Trax",
-      "gear": "",
-      "taper": "Unknown \u00b7 Jeffry Houser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Jeffry Houser"
     },
     {
       "year": 1997,
@@ -471,10 +441,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Wetlands Preserve",
-      "gear": "CSB",
-      "taper": "Jeffry Houser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Jeffry Houser"
     },
     {
       "year": 1997,
@@ -485,10 +454,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Winston-Salem, NC",
       "venue": "Ziggy's",
-      "gear": "",
-      "taper": "Will Foy",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Will Foy"
     },
     {
       "year": 1997,
@@ -499,10 +467,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Tremont Music Hall",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -513,10 +480,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Toad's Place",
-      "gear": "",
-      "taper": "Jeffry Houser",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jeffry Houser"
     },
     {
       "year": 1997,
@@ -527,10 +493,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Middletown, CT",
       "venue": "Wesleyan University - Wesleyan Arena",
-      "gear": "CSB",
-      "taper": "Hockey Rink \u00b7 Jeffry Houser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Hockey Rink \u00b7 Jeffry Houser"
     },
     {
       "year": 1997,
@@ -541,10 +506,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Northampton, MA",
       "venue": "Iron Horse Music Hall",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -555,10 +519,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washinton, D.C.",
       "venue": "The Bayou",
-      "gear": "",
-      "taper": "Bill Lakenan",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Bill Lakenan"
     },
     {
       "year": 1997,
@@ -569,10 +532,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Toad's Place",
-      "gear": "CSB",
-      "taper": "Brian Rosenworcel's 24th Birthday \u00b7 Jeffry Houser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Brian Rosenworcel's 24th Birthday \u00b7 Jeffry Houser"
     },
     {
       "year": 1997,
@@ -583,10 +545,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "Lizard Lounge",
-      "gear": "",
-      "taper": "Gefell Sms2000 \u00b7 Bill Lakenan",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Gefell Sms2000 \u00b7 Bill Lakenan"
     },
     {
       "year": 1997,
@@ -597,10 +558,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Danbury, CT",
       "venue": "Tuxedo Junction",
-      "gear": "CSB",
-      "taper": "Jeffry Houser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Jeffry Houser"
     },
     {
       "year": 1997,
@@ -611,10 +571,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Providence College",
-      "gear": "",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Unknown"
     },
     {
       "year": 1997,
@@ -625,10 +584,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Met Cafe",
-      "gear": "CSB",
-      "taper": "Jeffry Houser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Jeffry Houser"
     },
     {
       "year": 1997,
@@ -639,10 +597,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Chestertown, MD",
       "venue": "Washington College",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -653,10 +610,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Princeton, NJ",
       "venue": "Princeton University",
-      "gear": "",
-      "taper": "Bill Lakenan & Louie Rendek",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Bill Lakenan & Louie Rendek"
     },
     {
       "year": 1997,
@@ -667,10 +623,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Morristown, NJ",
       "venue": "Community Theatre",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -681,10 +636,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Blind Pig",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1997,
@@ -695,10 +649,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1997,
@@ -709,10 +662,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Amos'",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1997,
@@ -723,10 +675,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
-      "gear": "",
-      "taper": "Will Foy",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Will Foy"
     },
     {
       "year": 1997,
@@ -737,10 +688,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "The Bayou",
-      "gear": "",
-      "taper": "Gefell Sms2000 \u00b7 Bill Lakenan",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell Sms2000 \u00b7 Bill Lakenan"
     },
     {
       "year": 1997,
@@ -751,10 +701,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Newark, NJ",
       "venue": "New Jersey Performing Arts Center",
-      "gear": "",
-      "taper": "Gefell Sms2000 \u00b7 Michael Corcoran",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell Sms2000 \u00b7 Michael Corcoran"
     },
     {
       "year": 1997,
@@ -765,10 +714,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Avalon",
-      "gear": "",
-      "taper": "Neil Brodsky",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Neil Brodsky"
     },
     {
       "year": 1997,
@@ -779,10 +727,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Stone Coast",
-      "gear": "",
-      "taper": "Dave Mallick",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Dave Mallick"
     },
     {
       "year": 1997,
@@ -793,10 +740,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "gear": "",
-      "taper": "Gefell M-300 \u00b7 Jason Reiser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell M-300 \u00b7 Jason Reiser"
     },
     {
       "year": 1997,
@@ -807,10 +753,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "College of the Holy Cross",
-      "gear": "",
-      "taper": "Scott Kompa & Ron Diaz",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Scott Kompa & Ron Diaz"
     },
     {
       "year": 1998,
@@ -821,10 +766,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "Worcester Polytechnic Institute",
-      "gear": "SBD + AT825",
-      "taper": "Unknown",
       "version": "MIX",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "SBD + AT825 \u00b7 Unknown"
     },
     {
       "year": 1998,
@@ -835,10 +779,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Amherst, MA",
       "venue": "University of Massachusetts",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -849,10 +792,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Met Cafe",
-      "gear": "",
-      "taper": "Dave Mallick",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Dave Mallick"
     },
     {
       "year": 1998,
@@ -863,10 +805,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Webster Theatre",
-      "gear": "CSB",
-      "taper": "Jeffry Houser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Jeffry Houser"
     },
     {
       "year": 1998,
@@ -877,10 +818,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Manayunk, PA",
       "venue": "Grape St.",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1998,
@@ -891,10 +831,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
-      "gear": "",
-      "taper": "Allan Chen Conversion",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Allan Chen Conversion"
     },
     {
       "year": 1998,
@@ -905,10 +844,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theatre",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -919,10 +857,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "The Odeon",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -933,10 +870,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Ft. Collins, CO",
       "venue": "Aggie Theatre",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1998,
@@ -947,10 +883,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Ft. Worth, TX",
       "venue": "Texas Christian University",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -961,10 +896,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Trees",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -975,10 +909,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Evanston, IL",
       "venue": "Northwestern University - Patten Gymnasium",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -989,10 +922,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "East Lansing, MI",
       "venue": "Small Planet",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -1003,10 +935,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Michigan Theater",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -1017,10 +948,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Somerville, MA",
       "venue": "Somerville Theater",
-      "gear": "",
-      "taper": "Allan Chen Conversion",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Allan Chen Conversion"
     },
     {
       "year": 1998,
@@ -1031,10 +961,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Somerville, MA",
       "venue": "Somerville Theater",
-      "gear": "",
-      "taper": "Allan Chen Conversion",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Allan Chen Conversion"
     },
     {
       "year": 1998,
@@ -1045,10 +974,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston University - Commonwealth Armory",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -1059,10 +987,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Bayou",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -1073,10 +1000,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Princeton, NJ",
       "venue": "Quadrangle Club",
-      "gear": "",
-      "taper": "Allan Chen Conversion",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Allan Chen Conversion"
     },
     {
       "year": 1998,
@@ -1087,10 +1013,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Augusta, GA",
       "venue": "Red Lion Pub",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -1101,10 +1026,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Greenwich, CT",
       "venue": "Roger Sherman Baldwin Park",
-      "gear": "CSB",
-      "taper": "Jeffry Houser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Jeffry Houser"
     },
     {
       "year": 1998,
@@ -1115,10 +1039,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "WBCN Studios",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -1129,10 +1052,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "WBCN-FM/WFNX-FM Studios)",
-      "gear": "",
-      "taper": "Michelle Poirier",
       "version": "FM",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Michelle Poirier"
     },
     {
       "year": 1998,
@@ -1143,10 +1065,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Wantaugh, NY",
       "venue": "Jones Beach",
-      "gear": "",
-      "taper": "Gefell 200 \u00b7 Freddie G",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell 200 \u00b7 Freddie G"
     },
     {
       "year": 1998,
@@ -1157,10 +1078,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Walnut Creek Amphitheater",
-      "gear": "",
-      "taper": "Will Foy",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Will Foy"
     },
     {
       "year": 1998,
@@ -1171,10 +1091,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Blockbuster Pavilion",
-      "gear": "",
-      "taper": "Will Foy",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Will Foy"
     },
     {
       "year": 1998,
@@ -1185,10 +1104,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Summt, NJ",
       "venue": "Rob Fleissner's House",
-      "gear": "",
-      "taper": "Allan Chen Conversion",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Allan Chen Conversion"
     },
     {
       "year": 1998,
@@ -1199,10 +1117,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Stone Coast Brewing Company",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -1213,10 +1130,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "gear": "CM300s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "CM300s \u00b7 Dave Mallick"
     },
     {
       "year": 1998,
@@ -1227,10 +1143,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "gear": "CM300s",
-      "taper": "Brian Van0rnum",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "CM300s \u00b7 Brian Van0rnum"
     },
     {
       "year": 1998,
@@ -1241,10 +1156,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Portland Meadows - H.O.R.D.E. Festival",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1998,
@@ -1255,10 +1169,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's Heartbreak Hotel",
-      "gear": "",
-      "taper": "Dave Mallick",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Dave Mallick"
     },
     {
       "year": 1998,
@@ -1269,10 +1182,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Winooski, VT",
       "venue": "Higher Ground",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1998,
@@ -1283,10 +1195,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Chestnut Hill, MA",
       "venue": "Boston College - Eagle's Nest",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -1297,10 +1208,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Lewiston, ME",
       "venue": "Gray Cage - Bates College",
-      "gear": "",
-      "taper": "Dave Mallick",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Dave Mallick"
     },
     {
       "year": 1998,
@@ -1311,10 +1221,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Durham, NH",
       "venue": "Lundholm Gymnasium - University of NH",
-      "gear": "",
-      "taper": "Dave Mallick",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Dave Mallick"
     },
     {
       "year": 1998,
@@ -1325,10 +1234,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
-      "gear": "",
-      "taper": "Gefell Sms2000 \u00b7 Bill Lakenan",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Gefell Sms2000 \u00b7 Bill Lakenan"
     },
     {
       "year": 1998,
@@ -1339,10 +1247,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theater of the Living Arts",
-      "gear": "",
-      "taper": "Gefell Sms2000 \u00b7 Bill Lakenan",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Gefell Sms2000 \u00b7 Bill Lakenan"
     },
     {
       "year": 1998,
@@ -1353,10 +1260,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "The Odeon",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -1367,10 +1273,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "Dave Mallick Conversion",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Dave Mallick Conversion"
     },
     {
       "year": 1998,
@@ -1381,10 +1286,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "99x - APC Studios",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -1395,10 +1299,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "",
-      "taper": "Sound Pro Binaurals \u00b7 Allan Chen",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Sound Pro Binaurals \u00b7 Allan Chen"
     },
     {
       "year": 1998,
@@ -1409,10 +1312,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Winston-Salem, NC",
       "venue": "Ziggy's",
-      "gear": "",
-      "taper": "Will Foy",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Will Foy"
     },
     {
       "year": 1998,
@@ -1423,10 +1325,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Morristown, NJ",
       "venue": "Morristown Theater",
-      "gear": "",
-      "taper": "Allan Chen Conversion",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Allan Chen Conversion"
     },
     {
       "year": 1998,
@@ -1437,10 +1338,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Webster Theater",
-      "gear": "",
-      "taper": "Mike Corcoran",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "Mike Corcoran"
     },
     {
       "year": 1998,
@@ -1451,10 +1351,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Middlebury, VT",
       "venue": "Ross Lounge - Middlebury College",
-      "gear": "",
-      "taper": "Dave Mallick Conversion",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Dave Mallick Conversion"
     },
     {
       "year": 1999,
@@ -1465,10 +1364,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Lafayette Square",
-      "gear": "",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -1479,10 +1377,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Guelph, ON",
       "venue": "Guelph Lake Conservation",
-      "gear": "Sony WM-GX53",
-      "taper": "Greg Valiquette",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-GX53 \u00b7 Greg Valiquette"
     },
     {
       "year": 1999,
@@ -1493,10 +1390,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Horseshoe Tavern",
-      "gear": "Sony WM-GX53",
-      "taper": "Greg Valiquette",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-GX53 \u00b7 Greg Valiquette"
     },
     {
       "year": 1999,
@@ -1507,10 +1403,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Towson, MD",
       "venue": "Recher Theatre",
-      "gear": "SBD>D8",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SBD>D8"
     },
     {
       "year": 1999,
@@ -1521,10 +1416,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Bill's Bar",
-      "gear": "SBD>DA-P1",
-      "taper": "Brandon Smith",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SBD>DA-P1 \u00b7 Brandon Smith"
     },
     {
       "year": 1999,
@@ -1535,10 +1429,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Wetlands Preserve",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -1549,10 +1442,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Hatch Shell",
-      "gear": "",
-      "taper": "Reiko Takemasa",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Reiko Takemasa"
     },
     {
       "year": 1999,
@@ -1563,10 +1455,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "MDC Hatch Memorial Shell",
-      "gear": "",
-      "taper": "Dave Mallick",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Dave Mallick"
     },
     {
       "year": 1999,
@@ -1577,10 +1468,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Bowery Ballroom",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -1591,10 +1481,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Bowery Ballroom",
-      "gear": "",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -1605,10 +1494,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Maxwell's",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -1619,10 +1507,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Northampton, MA",
       "venue": "Pearl Street Nightclub",
-      "gear": "",
-      "taper": "Shure Skm32/cgs \u00b7 Brandon Smith",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Shure Skm32/cgs \u00b7 Brandon Smith"
     },
     {
       "year": 1999,
@@ -1633,10 +1520,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Northampton, MA",
       "venue": "Pearl Street Nightclub",
-      "gear": "Sony PC-62",
-      "taper": "Woody Monaco Master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony PC-62 \u00b7 Woody Monaco Master"
     },
     {
       "year": 1999,
@@ -1647,10 +1533,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Charlottesville, VA",
       "venue": "Trax",
-      "gear": "",
-      "taper": "Microtech Geffell Sms2000 \u00b7 Bill Lakenan",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Microtech Geffell Sms2000 \u00b7 Bill Lakenan"
     },
     {
       "year": 1999,
@@ -1661,10 +1546,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Morristown, NJ",
       "venue": "Scotti's Record Shop",
-      "gear": "AT853",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853 \u00b7 Unknown"
     },
     {
       "year": 1999,
@@ -1675,10 +1559,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's *Lost and Gone Forever Release Party",
-      "gear": "",
-      "taper": "Shure Ksm32s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Shure Ksm32s \u00b7 Dave Mallick"
     },
     {
       "year": 1999,
@@ -1689,10 +1572,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Michigan Theater",
-      "gear": "",
-      "taper": "Sound Pro Binaurals \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sound Pro Binaurals \u00b7 Unknown"
     },
     {
       "year": 1999,
@@ -1703,10 +1585,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theater",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -1717,10 +1598,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Horseshoe Tavern",
-      "gear": "Sony WM-GX53",
-      "taper": "Greg Valiquette",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-GX53 \u00b7 Greg Valiquette"
     },
     {
       "year": 1999,
@@ -1731,10 +1611,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
-      "gear": "",
-      "taper": "Akg C-1000 \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Akg C-1000 \u00b7 Dave Mallick"
     },
     {
       "year": 1999,
@@ -1745,10 +1624,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
-      "gear": "SR77",
-      "taper": "Mike Vernal",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "SR77 \u00b7 Mike Vernal"
     },
     {
       "year": 1999,
@@ -1759,10 +1637,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
-      "gear": "",
-      "taper": "Css Omni's \u00b7 Shane E. Calhoon",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Css Omni's \u00b7 Shane E. Calhoon"
     },
     {
       "year": 1999,
@@ -1773,10 +1650,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theatre",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -1787,10 +1663,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Hall",
-      "gear": "",
-      "taper": "Akg C3000 \u00b7 Allan Chen",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Akg C3000 \u00b7 Allan Chen"
     },
     {
       "year": 1999,
@@ -1801,10 +1676,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "The Starfish",
-      "gear": "AT933",
-      "taper": "Tyler Bradford",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT933 \u00b7 Tyler Bradford"
     },
     {
       "year": 1999,
@@ -1815,10 +1689,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
-      "gear": "",
-      "taper": "Gefell Sms2000/200 \u00b7 Bill Lakenan",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Gefell Sms2000/200 \u00b7 Bill Lakenan"
     },
     {
       "year": 1999,
@@ -1829,10 +1702,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hammerstein Ballroom",
-      "gear": "",
-      "taper": "Mg200 \u00b7 Bill Lakenan",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Mg200 \u00b7 Bill Lakenan"
     },
     {
       "year": 1999,
@@ -1843,10 +1715,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "WBRU-FM Down City Stage - Veteran's Memorial Auditorium",
-      "gear": "Sony PC-62",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Sony PC-62 \u00b7 Dave Mallick"
     },
     {
       "year": 1999,
@@ -1857,10 +1728,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Clifton Park, NY",
       "venue": "Northern Lights",
-      "gear": "CSB",
-      "taper": "Sim Morrell",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "CSB \u00b7 Sim Morrell"
     },
     {
       "year": 1999,
@@ -1871,10 +1741,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Durham, NH",
       "venue": "Lundholm Gymnasium - University of NH",
-      "gear": "AT853a",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT853a \u00b7 Dave Mallick"
     },
     {
       "year": 1999,
@@ -1885,10 +1754,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Milestones",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -1899,10 +1767,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre - WCYY",
-      "gear": "AT853a",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT853a \u00b7 Dave Mallick"
     },
     {
       "year": 1999,
@@ -1913,10 +1780,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Villanova, PA",
       "venue": "Villanova Room",
-      "gear": "",
-      "taper": "Akg C1000s \u00b7 Keith Cetera",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Akg C1000s \u00b7 Keith Cetera"
     },
     {
       "year": 1999,
@@ -1927,10 +1793,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theater",
-      "gear": "Sony PC-62",
-      "taper": "Woody Monaco",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony PC-62 \u00b7 Woody Monaco"
     },
     {
       "year": 2000,
@@ -1941,10 +1806,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Cane's",
-      "gear": "",
-      "taper": "Binaurals \u00b7 Jeff Eberlin",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Binaurals \u00b7 Jeff Eberlin"
     },
     {
       "year": 2000,
@@ -1955,10 +1819,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Juan Capistrano, CA",
       "venue": "Coach House",
-      "gear": "Schoeps",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Schoeps \u00b7 Unknown"
     },
     {
       "year": 2000,
@@ -1969,10 +1832,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Palo Alto, CA",
       "venue": "The Edge",
-      "gear": "",
-      "taper": "Akg 480/ck61 \u00b7 Allan Chen",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Akg 480/ck61 \u00b7 Allan Chen"
     },
     {
       "year": 2000,
@@ -1983,10 +1845,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Crest Theater",
-      "gear": "",
-      "taper": "Akg 480/ck61 \u00b7 Allan Chen",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Akg 480/ck61 \u00b7 Allan Chen"
     },
     {
       "year": 2000,
@@ -1997,10 +1858,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Petalume, CA",
       "venue": "Mystic Theatre and Dance Hall",
-      "gear": "",
-      "taper": "Akg 480/ck61 \u00b7 Allan Chen",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Akg 480/ck61 \u00b7 Allan Chen"
     },
     {
       "year": 2000,
@@ -2011,10 +1871,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Tralf Cafe",
-      "gear": "",
-      "taper": "Akg C1000s \u00b7 Daniel Godwin",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Akg C1000s \u00b7 Daniel Godwin"
     },
     {
       "year": 2000,
@@ -2025,10 +1884,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "WXPN-FM Studios",
-      "gear": "",
-      "taper": "Mary London",
       "version": "FM",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Mary London"
     },
     {
       "year": 2000,
@@ -2039,10 +1897,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "The Palladium",
-      "gear": "",
-      "taper": "Akg C1000s \u00b7 Brandon Smith & Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg C1000s \u00b7 Brandon Smith & Dave Mallick"
     },
     {
       "year": 2000,
@@ -2053,10 +1910,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Metcalf Hall - Boston University",
-      "gear": "",
-      "taper": "Mike Corcoran & Dave Mallick",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mike Corcoran & Dave Mallick"
     },
     {
       "year": 2000,
@@ -2067,10 +1923,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore",
-      "gear": "AT853a",
-      "taper": "Alex Coluzzi & Allan Chen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853a \u00b7 Alex Coluzzi & Allan Chen"
     },
     {
       "year": 2000,
@@ -2081,10 +1936,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Roseville, CA",
       "venue": "Big Shots Billiards",
-      "gear": "",
-      "taper": "Akg C3000s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg C3000s"
     },
     {
       "year": 2000,
@@ -2095,10 +1949,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Richard's On Richards",
-      "gear": "",
-      "taper": "Akg C391b \u00b7 Tyler Bradford",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg C391b \u00b7 Tyler Bradford"
     },
     {
       "year": 2000,
@@ -2109,10 +1962,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Fenix Underground",
-      "gear": "CM300s",
-      "taper": "Brian Van0rnum",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "CM300s \u00b7 Brian Van0rnum"
     },
     {
       "year": 2000,
@@ -2123,10 +1975,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "East Lansing, MI",
       "venue": "MSU Union Ballroom",
-      "gear": "Shure VP88 + SBD",
-      "taper": "Dave Mallick",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Shure VP88 + SBD \u00b7 Dave Mallick"
     },
     {
       "year": 2000,
@@ -2137,10 +1988,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Granville, OH",
       "venue": "Slayter Union - Denison University",
-      "gear": "Shure VP88 + SBD",
-      "taper": "Mike Corcoran",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Shure VP88 + SBD \u00b7 Mike Corcoran"
     },
     {
       "year": 2000,
@@ -2151,10 +2001,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Peoria, IL",
       "venue": "Bradley University",
-      "gear": "Shure VP88 + SBD",
-      "taper": "Allan Chen",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Shure VP88 + SBD \u00b7 Allan Chen"
     },
     {
       "year": 2000,
@@ -2165,10 +2014,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
-      "gear": "",
-      "taper": "Core Sound Omnis \u00b7 Shane E. Calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Core Sound Omnis \u00b7 Shane E. Calhoon"
     },
     {
       "year": 2000,
@@ -2179,10 +2027,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "The Barrymore",
-      "gear": "Shure VP88 + SBD",
-      "taper": "Unknown",
       "version": "MIX",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Shure VP88 + SBD \u00b7 Unknown"
     },
     {
       "year": 2000,
@@ -2193,10 +2040,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Horseshoe Tavern",
-      "gear": "",
-      "taper": "Da-p1 \u00b7 Greg Valiquette",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Da-p1 \u00b7 Greg Valiquette"
     },
     {
       "year": 2000,
@@ -2207,10 +2053,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Chestnut Hill, MA",
       "venue": "Boston College - Conte Forum",
-      "gear": "Shure VP88 + SBD",
-      "taper": "Mike Corcoran",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Shure VP88 + SBD \u00b7 Mike Corcoran"
     },
     {
       "year": 2000,
@@ -2221,10 +2066,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "Assumption College - Laska Gym",
-      "gear": "",
-      "taper": "Akg C1000 \u00b7 Brandon Smith",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg C1000 \u00b7 Brandon Smith"
     },
     {
       "year": 2000,
@@ -2235,10 +2079,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Portsmouth, NH",
       "venue": "The Music Hall",
-      "gear": "",
-      "taper": "Nakamichi 700/cp1 \u00b7 Eric White",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nakamichi 700/cp1 \u00b7 Eric White"
     },
     {
       "year": 2000,
@@ -2249,10 +2092,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Portsmouth, NH",
       "venue": "The Music Hall",
-      "gear": "Shure VP88 + SBD",
-      "taper": "Dave Mallick",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Shure VP88 + SBD \u00b7 Dave Mallick"
     },
     {
       "year": 2000,
@@ -2263,10 +2105,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Providence Performing Arts Center",
-      "gear": "AT853a \u00b7 chris mathews",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853a \u00b7 chris mathews"
     },
     {
       "year": 2000,
@@ -2277,10 +2118,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Unknown"
     },
     {
       "year": 2000,
@@ -2291,10 +2131,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Richmond, VA",
       "venue": "Mayo Islands",
-      "gear": "",
-      "taper": "Gefell Sms2000/200 \u00b7 Bill Lakenan",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Gefell Sms2000/200 \u00b7 Bill Lakenan"
     },
     {
       "year": 2000,
@@ -2305,10 +2144,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Music Midtown Festival",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2000,
@@ -2319,10 +2157,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "Shure VP88 + SBD",
-      "taper": "Mike Corcoran",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Shure VP88 + SBD \u00b7 Mike Corcoran"
     },
     {
       "year": 2000,
@@ -2333,10 +2170,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "",
-      "taper": "Akg C1000 \u00b7 Brandon Smith",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg C1000 \u00b7 Brandon Smith"
     },
     {
       "year": 2000,
@@ -2347,10 +2183,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Hudson, OH",
       "venue": "Hudson High School",
-      "gear": "",
-      "taper": "Gefell Sms2000/200 \u00b7 Bill Lakenan",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell Sms2000/200 \u00b7 Bill Lakenan"
     },
     {
       "year": 2000,
@@ -2361,10 +2196,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Deer Creek Amphitheater",
-      "gear": "",
-      "taper": "Akg C1000s \u00b7 Jason Woods",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg C1000s \u00b7 Jason Woods"
     },
     {
       "year": 2000,
@@ -2375,10 +2209,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Deer Creek Music Center",
-      "gear": "",
-      "taper": "Microtech Gefell Sms2000 \u00b7 Bill Lakenan",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Microtech Gefell Sms2000 \u00b7 Bill Lakenan"
     },
     {
       "year": 2000,
@@ -2389,10 +2222,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Andover, MA",
       "venue": "Viv's House",
-      "gear": "",
-      "taper": "Akg C-1000 \u00b7 Brandon Smith",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg C-1000 \u00b7 Brandon Smith"
     },
     {
       "year": 2000,
@@ -2403,10 +2235,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Andover, MA",
       "venue": "Viv's House",
-      "gear": "",
-      "taper": "Gefell Sms2000/200 \u00b7 Bill Lakenan",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell Sms2000/200 \u00b7 Bill Lakenan"
     },
     {
       "year": 2000,
@@ -2417,10 +2248,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Clarkston, MI",
       "venue": "Pine Knob Music Theater",
-      "gear": "CSB",
-      "taper": "Greg Valiquette",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Greg Valiquette"
     },
     {
       "year": 2000,
@@ -2431,10 +2261,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Winter Park, CO",
       "venue": "KBCO 97.3 Rockfest",
-      "gear": "",
-      "taper": "Mr. Twister",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mr. Twister"
     },
     {
       "year": 2000,
@@ -2445,10 +2274,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Winter Park, CO",
       "venue": "KBCO 97.3 Rockfest",
-      "gear": "",
-      "taper": "Liveconcerts.com Webcast",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Liveconcerts.com Webcast"
     },
     {
       "year": 2000,
@@ -2459,10 +2287,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Darien, NY",
       "venue": "Darien Lake PAC",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2000,
@@ -2473,10 +2300,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston Fleet Pavilion",
-      "gear": "",
-      "taper": "Neumann Km184 \u00b7 Brandon Smith",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Neumann Km184 \u00b7 Brandon Smith"
     },
     {
       "year": 2000,
@@ -2487,10 +2313,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Central Park Summerstage",
-      "gear": "",
-      "taper": "Gefell Mg200s \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell Mg200s \u00b7 Unknown"
     },
     {
       "year": 2000,
@@ -2501,10 +2326,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Ithaca, NY",
       "venue": "Arts Quad - Cornell University",
-      "gear": "",
-      "taper": "Neumann Km184 \u00b7 Joe Polastre",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Neumann Km184 \u00b7 Joe Polastre"
     },
     {
       "year": 2000,
@@ -2515,10 +2339,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Springfield, OH",
       "venue": "Old Gymnasium - Wittenberg University",
-      "gear": "AT4041",
-      "taper": "Lee Strauss",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT4041 \u00b7 Lee Strauss"
     },
     {
       "year": 2000,
@@ -2529,10 +2352,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Barrymore Theatre",
-      "gear": "",
-      "taper": "Ryan \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ryan \u00b7 Unknown"
     },
     {
       "year": 2000,
@@ -2543,10 +2365,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "gear": "AT853a",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853a \u00b7 Unknown"
     },
     {
       "year": 2000,
@@ -2557,10 +2378,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Rose Garden Theater of the Clouds",
-      "gear": "",
-      "taper": "Ss Mics \u00b7 Brian Van0rnum",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ss Mics \u00b7 Brian Van0rnum"
     },
     {
       "year": 2000,
@@ -2571,10 +2391,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Key Arena",
-      "gear": "",
-      "taper": "Ss Mics \u00b7 Brian Van0rnum",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ss Mics \u00b7 Brian Van0rnum"
     },
     {
       "year": 2000,
@@ -2585,10 +2404,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Notre Dame, IN",
       "venue": "Notre Dame University",
-      "gear": "",
-      "taper": "Akg C1000s \u00b7 Jason Woods",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg C1000s \u00b7 Jason Woods"
     },
     {
       "year": 2001,
@@ -2599,10 +2417,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "gear": "",
-      "taper": "Sp-bmc-1 \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sp-bmc-1 \u00b7 Unknown"
     },
     {
       "year": 2001,
@@ -2613,10 +2430,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "joe navratil",
-      "taper": "Mc012",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "joe navratil \u00b7 Mc012"
     },
     {
       "year": 2001,
@@ -2627,10 +2443,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Roseland Ballroom",
-      "gear": "CM300s",
-      "taper": "Brian Van0rnum",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CM300s \u00b7 Brian Van0rnum"
     },
     {
       "year": 2001,
@@ -2641,10 +2456,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
-      "gear": "",
-      "taper": "Core Sound Omnis \u00b7 Shane E. Calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Core Sound Omnis \u00b7 Shane E. Calhoon"
     },
     {
       "year": 2001,
@@ -2655,10 +2469,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
-      "gear": "",
-      "taper": "Oktava Mc012 \u00b7 Joe Shambro",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Oktava Mc012 \u00b7 Joe Shambro"
     },
     {
       "year": 2001,
@@ -2669,10 +2482,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Durham, NH",
       "venue": "Whittemore Center Arena",
-      "gear": "CM700s",
-      "taper": "Eric White",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CM700s \u00b7 Eric White"
     },
     {
       "year": 2002,
@@ -2683,10 +2495,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Charlottesville, VA",
       "venue": "UVA Madison Bowl - Rugby Road",
-      "gear": "",
-      "taper": "Oktava Mc-012 \u00b7 Shaun Nicholson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Oktava Mc-012 \u00b7 Shaun Nicholson"
     },
     {
       "year": 2002,
@@ -2697,10 +2508,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Scranton, PA",
       "venue": "Marywood University",
-      "gear": "",
-      "taper": "Core Sounds \u00b7 Jeffry Houser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Core Sounds \u00b7 Jeffry Houser"
     },
     {
       "year": 2002,
@@ -2711,10 +2521,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Oxford, OH",
       "venue": "John D. Millett Hall - Miami University",
-      "gear": "",
-      "taper": "Oktava Mc012 \u00b7 Dan Glaser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Oktava Mc012 \u00b7 Dan Glaser"
     },
     {
       "year": 2002,
@@ -2725,10 +2534,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Poughkeepsie, NY",
       "venue": "Marist College - McCann Center",
-      "gear": "AT853s",
-      "taper": "Oysterhead",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853s \u00b7 Oysterhead"
     },
     {
       "year": 2002,
@@ -2739,10 +2547,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Battell Chapel - Yale University",
-      "gear": "",
-      "taper": "Aiwa Hp-as288 \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa Hp-as288 \u00b7 Unknown"
     },
     {
       "year": 2002,
@@ -2753,10 +2560,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Battell Chapel - Yale University",
-      "gear": "",
-      "taper": "Unknown \u00b7 Rory Mason",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Rory Mason"
     },
     {
       "year": 2002,
@@ -2767,10 +2573,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston University",
-      "gear": "",
-      "taper": "Akg 391s \u00b7 Greg Lowder",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg 391s \u00b7 Greg Lowder"
     },
     {
       "year": 2002,
@@ -2781,10 +2586,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Waltham, MA",
       "venue": "Shapiro Gymnasium - Breandeis University",
-      "gear": "AT853s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853s \u00b7 Dave Mallick"
     },
     {
       "year": 2002,
@@ -2795,10 +2599,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Amherst, MA",
       "venue": "Mullins Center",
-      "gear": "CSC",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSC \u00b7 Unknown"
     },
     {
       "year": 2002,
@@ -2809,10 +2612,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Asbury Park, NJ",
       "venue": "Paramount Theater",
-      "gear": "AT853s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853s \u00b7 Dave Mallick"
     },
     {
       "year": 2002,
@@ -2823,10 +2625,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Asbury Park, NJ",
       "venue": "Paramount Theater",
-      "gear": "",
-      "taper": "Akg 480s \u00b7 Peter Lang",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg 480s \u00b7 Peter Lang"
     },
     {
       "year": 2002,
@@ -2837,10 +2638,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's",
-      "gear": "AT853s",
-      "taper": "Viv Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853s \u00b7 Viv Mallick"
     },
     {
       "year": 2002,
@@ -2851,10 +2651,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hanover, NJ",
       "venue": "Leede Arena - Dartmouth College",
-      "gear": "AT853s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853s \u00b7 Dave Mallick"
     },
     {
       "year": 2002,
@@ -2865,10 +2664,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Amphitheatre at Station Square",
-      "gear": "",
-      "taper": "Sr77s \u00b7 Cameron Lister",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sr77s \u00b7 Cameron Lister"
     },
     {
       "year": 2002,
@@ -2879,10 +2677,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Promowest Pavilion",
-      "gear": "AT853s",
-      "taper": "Viv Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853s \u00b7 Viv Mallick"
     },
     {
       "year": 2002,
@@ -2893,10 +2690,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "A. Finkl & Sons",
-      "gear": "AT853",
-      "taper": "A. Nonymous",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853 \u00b7 A. Nonymous"
     },
     {
       "year": 2002,
@@ -2907,10 +2703,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Kettering, OH",
       "venue": "Fraze Pavilion",
-      "gear": "AT853s",
-      "taper": "A. Nonymous",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853s \u00b7 A. Nonymous"
     },
     {
       "year": 2002,
@@ -2921,10 +2716,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "City Market",
-      "gear": "",
-      "taper": "Oktava Mc012a \u00b7 Timothy Maus",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Oktava Mc012a \u00b7 Timothy Maus"
     },
     {
       "year": 2002,
@@ -2935,10 +2729,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "City Market",
-      "gear": "SP-CMC-4 \u00b7 kcmoejoe",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-4 \u00b7 kcmoejoe"
     },
     {
       "year": 2002,
@@ -2949,10 +2742,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Fox Theatre",
-      "gear": "CSC",
-      "taper": "Shane E. Calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSC \u00b7 Shane E. Calhoon"
     },
     {
       "year": 2002,
@@ -2963,10 +2755,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Paramount Theatre",
-      "gear": "",
-      "taper": "Unknown",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2002,
@@ -2977,10 +2768,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Barbara, CA",
       "venue": "Santa Barbara Bowl",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2002,
@@ -2991,10 +2781,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theatre",
-      "gear": "Schoeps CCM4s",
-      "taper": "Some Puerto Rican Guy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps CCM4s \u00b7 Some Puerto Rican Guy"
     },
     {
       "year": 2002,
@@ -3005,10 +2794,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Greek Theatre",
-      "gear": "Schoeps CCM4s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps CCM4s \u00b7 Unknown"
     },
     {
       "year": 2002,
@@ -3019,10 +2807,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Mesa, AZ",
       "venue": "Mesa Amphitheatre",
-      "gear": "Schoeps CCM4s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps CCM4s \u00b7 Unknown"
     },
     {
       "year": 2002,
@@ -3033,10 +2820,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "DAR Constitution Hall",
-      "gear": "DPA 4022",
-      "taper": "George Wang",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "DPA 4022 \u00b7 George Wang"
     },
     {
       "year": 2002,
@@ -3047,10 +2833,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Cary, NC",
       "venue": "Amphitheatre at Regency Park",
-      "gear": "AT853s",
-      "taper": "Andrew Gresko",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT853s \u00b7 Andrew Gresko"
     },
     {
       "year": 2002,
@@ -3061,10 +2846,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Saenger Theatre",
-      "gear": "",
-      "taper": "Sp-bmc-3 \u00b7 Will Hennegan",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Sp-bmc-3 \u00b7 Will Hennegan"
     },
     {
       "year": 2002,
@@ -3075,10 +2859,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "HiFi Buys Amphitheatre",
-      "gear": "AT853s",
-      "taper": "Viv Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT853s \u00b7 Viv Mallick"
     },
     {
       "year": 2002,
@@ -3089,10 +2872,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Poughkeepsie, NY",
       "venue": "The Chance",
-      "gear": "SP-CMC-8",
-      "taper": "David Jeffers",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "SP-CMC-8 \u00b7 David Jeffers"
     },
     {
       "year": 2002,
@@ -3103,10 +2885,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Andover, MA",
       "venue": "Merrimack College",
-      "gear": "AT853s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT853s \u00b7 Dave Mallick"
     },
     {
       "year": 2002,
@@ -3117,10 +2898,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Manchester, NH",
       "venue": "Southern New Hampshire University - Athletic Complex",
-      "gear": "AT853s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT853s \u00b7 Dave Mallick"
     },
     {
       "year": 2002,
@@ -3131,10 +2911,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hammerstein Ballroom",
-      "gear": "AT853s",
-      "taper": "Viv Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT853s \u00b7 Viv Mallick"
     },
     {
       "year": 2002,
@@ -3145,10 +2924,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
-      "gear": "AT853s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT853s \u00b7 Dave Mallick"
     },
     {
       "year": 2002,
@@ -3159,10 +2937,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
-      "gear": "",
-      "taper": "Sr-71 \u00b7 Dave Thoma",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Sr-71 \u00b7 Dave Thoma"
     },
     {
       "year": 2002,
@@ -3173,10 +2950,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
-      "gear": "",
-      "taper": "Sms2000 \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sms2000 \u00b7 Unknown"
     },
     {
       "year": 2002,
@@ -3187,10 +2963,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
-      "gear": "AT853s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT853s \u00b7 Dave Mallick"
     },
     {
       "year": 2002,
@@ -3201,10 +2976,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
-      "gear": "",
-      "taper": "Oktava Mc012 \u00b7 Jon Daly",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Oktava Mc012 \u00b7 Jon Daly"
     },
     {
       "year": 2002,
@@ -3215,10 +2989,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "AT853s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT853s \u00b7 Dave Mallick"
     },
     {
       "year": 2002,
@@ -3229,10 +3002,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Waltham, MA",
       "venue": "Dana Athletic Center - Bentley College",
-      "gear": "AT853s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT853s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3243,10 +3015,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Binghamton, NY",
       "venue": "West Gym - Binghampton University",
-      "gear": "AT803b's",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT803b's \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3257,10 +3028,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
-      "gear": "",
-      "taper": "Akg Ck61 \u00b7 Eric Phipps",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Akg Ck61 \u00b7 Eric Phipps"
     },
     {
       "year": 2003,
@@ -3271,10 +3041,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
-      "gear": "nate jedinak",
-      "taper": "Gefell M300",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "nate jedinak \u00b7 Gefell M300"
     },
     {
       "year": 2003,
@@ -3285,10 +3054,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Pontiac, MI",
       "venue": "Clutch Cargo's",
-      "gear": "",
-      "taper": "Akg C1000s \u00b7 Jason Woods",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Akg C1000s \u00b7 Jason Woods"
     },
     {
       "year": 2003,
@@ -3299,10 +3067,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Riviera",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -3313,10 +3080,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tempe, AZ",
       "venue": "Nita's Hideaway",
-      "gear": "david baty",
-      "taper": "Akg 391",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "david baty \u00b7 Akg 391"
     },
     {
       "year": 2003,
@@ -3327,10 +3093,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Lawrence, KS",
       "venue": "Liberty Hall",
-      "gear": "kcmoejoe",
-      "taper": "Akg 460/ck61s",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "kcmoejoe \u00b7 Akg 460/ck61s"
     },
     {
       "year": 2003,
@@ -3341,10 +3106,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant",
-      "gear": "CSC",
-      "taper": "Shane E. Calhoon",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "CSC \u00b7 Shane E. Calhoon"
     },
     {
       "year": 2003,
@@ -3355,10 +3119,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Winston-Salem, NC",
       "venue": "Ziggy's",
-      "gear": "",
-      "taper": "Akg 480/ck61s \u00b7 Will Foy",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Akg 480/ck61s \u00b7 Will Foy"
     },
     {
       "year": 2003,
@@ -3369,10 +3132,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hamden, CT",
       "venue": "Burt Kahn Basketball Court - Quinnipiac University",
-      "gear": "Elation KM201s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Elation KM201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3383,10 +3145,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Smithfield, RI",
       "venue": "Multipurpose Athletic Center - Bryant College",
-      "gear": "Elation KM201s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Elation KM201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3397,10 +3158,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Glen Mills, PA",
       "venue": "Newlin Grist Mill - Rep Rok 4",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3411,10 +3171,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "University of PA - Irvine Auditorium",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3425,10 +3184,9 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Newark, DE",
       "venue": "University of DE - The Bob Carpenter Center",
-      "gear": "pat nobles",
-      "taper": "Adk Gc-1",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "pat nobles \u00b7 Adk Gc-1"
     },
     {
       "year": 2003,
@@ -3439,10 +3197,9 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Newark, DE",
       "venue": "University of DE - The Bob Carpenter Center",
-      "gear": "",
-      "taper": "Sr-71 \u00b7 Ashley Davenport",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Sr-71 \u00b7 Ashley Davenport"
     },
     {
       "year": 2003,
@@ -3453,10 +3210,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "New Brunswick, NJ",
       "venue": "Louis Brown Athletic Center - Rutgers University",
-      "gear": "",
-      "taper": "Km201s \u00b7 Rebecca Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Rebecca Mallick"
     },
     {
       "year": 2003,
@@ -3467,10 +3223,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Plymouth, NH",
       "venue": "Plymouth State College - Recreation Field",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3481,10 +3236,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Somerville, MA",
       "venue": "Q Division Studios",
-      "gear": "",
-      "taper": "Dave Mallick",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Dave Mallick"
     },
     {
       "year": 2003,
@@ -3495,10 +3249,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Somerville, MA",
       "venue": "WBOS Radio - Q Division Studios",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -3509,10 +3262,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Woodstock, NY",
       "venue": "Woodstock Playhouse",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3523,10 +3275,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Water Street Music Hall",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3537,10 +3288,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "City Hall Plaza - Government Center",
-      "gear": "AT853",
-      "taper": "Morgan Halton",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT853 \u00b7 Morgan Halton"
     },
     {
       "year": 2003,
@@ -3551,10 +3301,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Boston, MA  City Hall Plaza - Government Center (KM201) (dave mallick)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -3565,10 +3314,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "City Hall Plaza - Government Center",
-      "gear": "",
-      "taper": "Sr71s \u00b7 Derek Gilbert",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Sr71s \u00b7 Derek Gilbert"
     },
     {
       "year": 2003,
@@ -3579,10 +3327,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "City Hall Plaza - Government Center",
-      "gear": "",
-      "taper": "Sr77s \u00b7 Cameron Lister",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Sr77s \u00b7 Cameron Lister"
     },
     {
       "year": 2003,
@@ -3593,10 +3340,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Rooftop of One City Center",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3607,10 +3353,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Scott and Todd in the Morning - WPLJ Studios",
-      "gear": "",
-      "taper": "Bryan Hall",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Bryan Hall"
     },
     {
       "year": 2003,
@@ -3621,10 +3366,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "India Point Park",
-      "gear": "",
-      "taper": "Km201 \u00b7 Rebecca Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201 \u00b7 Rebecca Mallick"
     },
     {
       "year": 2003,
@@ -3635,10 +3379,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "India Point Park",
-      "gear": "",
-      "taper": "Oktava Mc012 \u00b7 Jason Adler",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Oktava Mc012 \u00b7 Jason Adler"
     },
     {
       "year": 2003,
@@ -3649,10 +3392,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Morristown, NJ",
       "venue": "Scotti's Record Shop",
-      "gear": "",
-      "taper": "Km201s \u00b7 Rebecca Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Rebecca Mallick"
     },
     {
       "year": 2003,
@@ -3663,10 +3405,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Tower Records",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3677,10 +3418,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Chevrolet Amphitheatre",
-      "gear": "AT933s",
-      "taper": "John Kelly",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT933s \u00b7 John Kelly"
     },
     {
       "year": 2003,
@@ -3691,10 +3431,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Chevrolet Amphitheatre",
-      "gear": "",
-      "taper": "Km201 \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201 \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3705,10 +3444,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Chevrolet Amphitheatre - Station Square",
-      "gear": "",
-      "taper": "Alex Herd",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Alex Herd"
     },
     {
       "year": 2003,
@@ -3719,10 +3457,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "The Odeon",
-      "gear": "",
-      "taper": "Akg Ck61 \u00b7 Eric Phipps",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Akg Ck61 \u00b7 Eric Phipps"
     },
     {
       "year": 2003,
@@ -3733,10 +3470,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "The Odeon",
-      "gear": "",
-      "taper": "Akg Ck61 \u00b7 Rhett Wegehaupt",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Akg Ck61 \u00b7 Rhett Wegehaupt"
     },
     {
       "year": 2003,
@@ -3747,10 +3483,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Apple Valley, MN",
       "venue": "Weesner Amphitheater - MN Zoo",
-      "gear": "ECM-MS907",
-      "taper": "Jake Foust",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "ECM-MS907 \u00b7 Jake Foust"
     },
     {
       "year": 2003,
@@ -3761,10 +3496,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Cities 97",
-      "gear": "",
-      "taper": "97.1",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "97.1"
     },
     {
       "year": 2003,
@@ -3775,10 +3509,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Studio C - KTCZ",
-      "gear": "",
-      "taper": "",
       "version": "WEB",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -3789,10 +3522,9 @@ const ARTIST_DATA = {
       "state": "ID",
       "location": "Boise, ID",
       "venue": "Big Easy Concert House",
-      "gear": "Late show \u00b7 Sony ECM-MS907 \u00b7 andy watts",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Late show \u00b7 Sony ECM-MS907 \u00b7 andy watts"
     },
     {
       "year": 2003,
@@ -3803,10 +3535,9 @@ const ARTIST_DATA = {
       "state": "ID",
       "location": "Boise, ID",
       "venue": "The Record Exchange",
-      "gear": "ECM-MS907 \u00b7 andy watts",
-      "taper": "",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "ECM-MS907 \u00b7 andy watts"
     },
     {
       "year": 2003,
@@ -3817,10 +3548,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Easy Street Records",
-      "gear": "AT831",
-      "taper": "Ryan Olsen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT831 \u00b7 Ryan Olsen"
     },
     {
       "year": 2003,
@@ -3831,10 +3561,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Pioneer Square",
-      "gear": "ECM-MS907 \u00b7 andy watts",
-      "taper": "",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "ECM-MS907 \u00b7 andy watts"
     },
     {
       "year": 2003,
@@ -3845,10 +3574,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Towson, MD",
       "venue": "Recher Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3859,10 +3587,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3873,10 +3600,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Village Studios - Sounds Eclectic with Nic Harcourt",
-      "gear": "",
-      "taper": "Krcw 89.9",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Krcw 89.9"
     },
     {
       "year": 2003,
@@ -3887,10 +3613,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "Orange Peel",
-      "gear": "",
-      "taper": "Akg 480 \u00b7 Will Foy",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Akg 480 \u00b7 Will Foy"
     },
     {
       "year": 2003,
@@ -3901,10 +3626,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "FleetBoston Pavilion",
-      "gear": "",
-      "taper": "Km184 \u00b7 Brandon Smith",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km184 \u00b7 Brandon Smith"
     },
     {
       "year": 2003,
@@ -3915,10 +3639,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Beverly, MA",
       "venue": "MacDonald Gym - Post Center - Endicott College",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3929,10 +3652,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "University of Rochester - The Louis Alexander Palestra",
-      "gear": "RS33",
-      "taper": "Sanjay Suchak",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "RS33 \u00b7 Sanjay Suchak"
     },
     {
       "year": 2003,
@@ -3943,10 +3665,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Palace Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3957,10 +3678,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Burlington, VT",
       "venue": "Flynn Center - MainStage",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3971,10 +3691,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Penn's Landing",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -3985,10 +3704,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Festival Pier - Penn's Landing",
-      "gear": "",
-      "taper": "Sr-77s \u00b7 Dave Thoma",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Sr-77s \u00b7 Dave Thoma"
     },
     {
       "year": 2003,
@@ -3999,10 +3717,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Lewiston, ME",
       "venue": "Bates College - Clifton Daggett Gray Athletic Building",
-      "gear": "",
-      "taper": "Km-150 \u00b7 Gary Comley",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km-150 \u00b7 Gary Comley"
     },
     {
       "year": 2003,
@@ -4013,10 +3730,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Lewiston, ME",
       "venue": "Bates College - Gray Cage",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -4027,10 +3743,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
-      "gear": "MD",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "MD \u00b7 Unknown"
     },
     {
       "year": 2003,
@@ -4041,10 +3756,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Tulane University - McAlister Auditorium",
-      "gear": "SP-CMC-2",
-      "taper": "Will Hennegan",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "SP-CMC-2 \u00b7 Will Hennegan"
     },
     {
       "year": 2003,
@@ -4055,10 +3769,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Lake Buena Vista, FL",
       "venue": "House of Blues",
-      "gear": "CCM4V",
-      "taper": "Paul Chrostowski",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "CCM4V \u00b7 Paul Chrostowski"
     },
     {
       "year": 2003,
@@ -4069,10 +3782,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "St. Petersburg, FL",
       "venue": "Jannus Landing",
-      "gear": "CCM4V",
-      "taper": "Paul Chrostowski",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "CCM4V \u00b7 Paul Chrostowski"
     },
     {
       "year": 2003,
@@ -4083,10 +3795,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "gear": "MD",
-      "taper": "",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "MD"
     },
     {
       "year": 2003,
@@ -4097,10 +3808,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Durham, NH",
       "venue": "University of NH - Whittemore Center",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -4111,10 +3821,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "930 Club",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -4125,10 +3834,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "930 Club",
-      "gear": "",
-      "taper": "Mbho 603a/ka200n",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mbho 603a/ka200n"
     },
     {
       "year": 2003,
@@ -4139,10 +3847,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Allston, MA",
       "venue": "Harvard University - Gordon Gymnasium",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -4153,10 +3860,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tempe, AZ",
       "venue": "Marquee Theatre",
-      "gear": "Nak CM101",
-      "taper": "Tom M.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nak CM101 \u00b7 Tom M."
     },
     {
       "year": 2003,
@@ -4167,10 +3873,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Eugene, OR",
       "venue": "CD World",
-      "gear": "MK-012s",
-      "taper": "Adam Crowthers",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "MK-012s \u00b7 Adam Crowthers"
     },
     {
       "year": 2003,
@@ -4181,10 +3886,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Eugene, OR",
       "venue": "McDonald Theatre",
-      "gear": "MK-012s",
-      "taper": "Adam Crowthers",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "MK-012s \u00b7 Adam Crowthers"
     },
     {
       "year": 2003,
@@ -4195,10 +3899,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Roseland Theatre",
-      "gear": "MK-012s",
-      "taper": "Adam Crowthers",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "MK-012s \u00b7 Adam Crowthers"
     },
     {
       "year": 2003,
@@ -4209,10 +3912,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theatre",
-      "gear": "",
-      "taper": "Km140s \u00b7 Mike Vernal",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km140s \u00b7 Mike Vernal"
     },
     {
       "year": 2003,
@@ -4223,10 +3925,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theatre",
-      "gear": "MK-012s",
-      "taper": "Adam Crowthers",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "MK-012s \u00b7 Adam Crowthers"
     },
     {
       "year": 2003,
@@ -4237,10 +3938,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
-      "gear": "CSC",
-      "taper": "Shane E. Calhoon",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "CSC \u00b7 Shane E. Calhoon"
     },
     {
       "year": 2003,
@@ -4251,10 +3951,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Murat Theater",
-      "gear": "CK63",
-      "taper": "Jon Ice",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "CK63 \u00b7 Jon Ice"
     },
     {
       "year": 2003,
@@ -4265,10 +3964,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Bushnell Hall - WTIC 96.5 FM All Star Christmas(Sony C-3002)",
-      "gear": "",
-      "taper": "Kingjeff",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Kingjeff"
     },
     {
       "year": 2003,
@@ -4279,10 +3977,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "The Bushnell Center for the Performing Arts",
-      "gear": "AT803bs",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT803bs \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -4293,10 +3990,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hartford, CT - WTIC Acoustic Cafe",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -4307,10 +4003,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Sayreville, NJ",
       "venue": "Starland Ballroom",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -4321,10 +4016,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre - Mix 98.5 Holiday Hoedown",
-      "gear": "AT803bs",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT803bs \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -4335,10 +4029,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -4349,10 +4042,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2003,
@@ -4363,10 +4055,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2004,
@@ -4377,10 +4068,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Northampton, MA",
       "venue": "Calvin Theatre and Performing Arts Center",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2004,
@@ -4391,10 +4081,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "Plourde Recreation Center",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2004,
@@ -4405,10 +4094,9 @@ const ARTIST_DATA = {
       "state": "WV",
       "location": "Charleston, WV",
       "venue": "Mountain Stage",
-      "gear": "",
-      "taper": "Radio Webcast \u00b7 Bret S.",
       "version": "WEB",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Radio Webcast \u00b7 Bret S."
     },
     {
       "year": 2004,
@@ -4419,10 +4107,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
-      "gear": "CSC",
-      "taper": "Shane E. Calhoon",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "CSC \u00b7 Shane E. Calhoon"
     },
     {
       "year": 2004,
@@ -4433,10 +4120,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
-      "gear": "",
-      "taper": "Earthworks Sr77 \u00b7 Joe Shambro",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Earthworks Sr77 \u00b7 Joe Shambro"
     },
     {
       "year": 2004,
@@ -4447,10 +4133,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Uptown Theatre",
-      "gear": "",
-      "taper": "Akg-c-2000b",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Akg-c-2000b"
     },
     {
       "year": 2004,
@@ -4461,10 +4146,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Uptown Theatre",
-      "gear": "AT853",
-      "taper": "Ryan Hoyt",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT853 \u00b7 Ryan Hoyt"
     },
     {
       "year": 2004,
@@ -4475,10 +4159,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Blacksburg, VA",
       "venue": "Burruss Hall Auditorium - Virginia Tech",
-      "gear": "",
-      "taper": "Octave Mc012s \u00b7 John Kelly",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Octave Mc012s \u00b7 John Kelly"
     },
     {
       "year": 2004,
@@ -4489,10 +4172,9 @@ const ARTIST_DATA = {
       "state": "WV",
       "location": "Morgantown, WV",
       "venue": "WVU Coliseum",
-      "gear": "MKH-800s",
-      "taper": "Ian White",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "MKH-800s \u00b7 Ian White"
     },
     {
       "year": 2004,
@@ -4503,10 +4185,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Max and Erma's Freedom Hall",
-      "gear": "Late Show \u00b7 CK63",
-      "taper": "Early Show \u00b7 Jon Ice",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Late Show \u00b7 CK63 \u00b7 Early Show \u00b7 Jon Ice"
     },
     {
       "year": 2004,
@@ -4517,10 +4198,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Troy, NY",
       "venue": "Houston Field House - Rensselaer Polytechnic Institute",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2004,
@@ -4531,10 +4211,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Troy, NY",
       "venue": "RPI Field House",
-      "gear": "AT853s",
-      "taper": "David Jeffers",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT853s \u00b7 David Jeffers"
     },
     {
       "year": 2004,
@@ -4545,10 +4224,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Dunkin' Donuts Center",
-      "gear": "CSC",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "CSC \u00b7 Unknown"
     },
     {
       "year": 2004,
@@ -4559,10 +4237,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Xcel Energy Center",
-      "gear": "AT933",
-      "taper": "Jason Glynn",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT933 \u00b7 Jason Glynn"
     },
     {
       "year": 2004,
@@ -4573,10 +4250,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Kenosha, WI",
       "venue": "Tarble Atheletic and Recreation Center - Carthage College",
-      "gear": "",
-      "taper": "Giant Squids \u00b7 Connor Cronk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Giant Squids \u00b7 Connor Cronk"
     },
     {
       "year": 2004,
@@ -4587,10 +4263,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Kenosha, WI",
       "venue": "Tarble Athletic and Recreation Center",
-      "gear": "",
-      "taper": "Akg Ck93 \u00b7 Allan Short",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg Ck93 \u00b7 Allan Short"
     },
     {
       "year": 2004,
@@ -4601,10 +4276,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Lowell, MA",
       "venue": "Paul Tsongas Arena",
-      "gear": "Sony ECM-719",
-      "taper": "Kingjeff42",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719 \u00b7 Kingjeff42"
     },
     {
       "year": 2004,
@@ -4615,10 +4289,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Richmond, VA",
       "venue": "University of Richmond Robins Center",
-      "gear": "SP-CMC-2",
-      "taper": "Melissa Bollbach",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "SP-CMC-2 \u00b7 Melissa Bollbach"
     },
     {
       "year": 2004,
@@ -4629,10 +4302,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "JHU Gymnasium",
-      "gear": "",
-      "taper": "M210s \u00b7 Dave Thoma",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "M210s \u00b7 Dave Thoma"
     },
     {
       "year": 2004,
@@ -4643,10 +4315,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Rodgers Recreation Center - Salve Regina University",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2004,
@@ -4657,10 +4328,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Fank Ritter Ice Arena - Rochester Institute of Technology",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2004,
@@ -4671,10 +4341,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Lake Buena Vista, FL",
       "venue": "House of Blues",
-      "gear": "CCM4V",
-      "taper": "Paul Chrostowski",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "CCM4V \u00b7 Paul Chrostowski"
     },
     {
       "year": 2004,
@@ -4685,10 +4354,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Fox Theatre",
-      "gear": "CSC",
-      "taper": "Shane E. Calhoon",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "CSC \u00b7 Shane E. Calhoon"
     },
     {
       "year": 2004,
@@ -4699,10 +4367,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Filene Center - Wolf Trap",
-      "gear": "",
-      "taper": "Mbho 603a/ka200n \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mbho 603a/ka200n \u00b7 Unknown"
     },
     {
       "year": 2004,
@@ -4713,10 +4380,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Wolf Trap",
-      "gear": "CSC",
-      "taper": "Van0rnum",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "CSC \u00b7 Van0rnum"
     },
     {
       "year": 2004,
@@ -4727,10 +4393,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Wolf Trap",
-      "gear": "DPA 4021s \u00b7 matt denardo",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4021s \u00b7 matt denardo"
     },
     {
       "year": 2004,
@@ -4741,10 +4406,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Gilford, NH",
       "venue": "Meadowbrook Musical Arts Center",
-      "gear": "AT803bs",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT803bs \u00b7 Dave Mallick"
     },
     {
       "year": 2004,
@@ -4755,10 +4419,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Niagara Square",
-      "gear": "CSB",
-      "taper": "Daniel Godwin",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "CSB \u00b7 Daniel Godwin"
     },
     {
       "year": 2004,
@@ -4769,10 +4432,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Sayreville, NJ",
       "venue": "Starland Ballroom",
-      "gear": "SP-CMC-8",
-      "taper": "Rider",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "SP-CMC-8 \u00b7 Rider"
     },
     {
       "year": 2004,
@@ -4783,10 +4445,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "FleetBoston Pavilion",
-      "gear": "AT803bs",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT803bs \u00b7 Dave Mallick"
     },
     {
       "year": 2004,
@@ -4797,10 +4458,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Wallingford, CT",
       "venue": "Oakdale Theatre",
-      "gear": "AT803bs",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT803bs \u00b7 Dave Mallick"
     },
     {
       "year": 2004,
@@ -4811,10 +4471,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Wallingford, CT",
       "venue": "Oakdale Theatre",
-      "gear": "",
-      "taper": "Dsm-6s \u00b7 David Jeffers",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Dsm-6s \u00b7 David Jeffers"
     },
     {
       "year": 2004,
@@ -4825,10 +4484,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "FleetBoston Pavilion",
-      "gear": "AT803bs",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT803bs \u00b7 Dave Mallick"
     },
     {
       "year": 2004,
@@ -4839,10 +4497,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Central Park Summerstage",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2004,
@@ -4853,10 +4510,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Central Park Summerstage",
-      "gear": "DPA 4060s",
-      "taper": "Jason Reiser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4060s \u00b7 Jason Reiser"
     },
     {
       "year": 2004,
@@ -4867,10 +4523,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "East Troy, WI",
       "venue": "Alpine Valley",
-      "gear": "",
-      "taper": "Aud Mics \u00b7 Kurt Osterkorn",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aud Mics \u00b7 Kurt Osterkorn"
     },
     {
       "year": 2004,
@@ -4881,10 +4536,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "East Troy, WI",
       "venue": "Alpine Valley",
-      "gear": "",
-      "taper": "Aud Mics \u00b7 Kurt Osterkorn",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aud Mics \u00b7 Kurt Osterkorn"
     },
     {
       "year": 2004,
@@ -4895,10 +4549,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Redmond, WA",
       "venue": "Marymoor Amphitheater",
-      "gear": "AT ES943s",
-      "taper": "Coach K",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT ES943s \u00b7 Coach K"
     },
     {
       "year": 2004,
@@ -4909,10 +4562,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Redmond, WA",
       "venue": "Marymoor Amphitheatre",
-      "gear": "",
-      "taper": "Gefell M300s \u00b7 Adam Crowthers",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "Gefell M300s \u00b7 Adam Crowthers"
     },
     {
       "year": 2005,
@@ -4923,10 +4575,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Delaware, OH",
       "venue": "Ohio Wesleyan University - Gordon Field House",
-      "gear": "jonathan reckers",
-      "taper": "Oktava Mc012a",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "jonathan reckers \u00b7 Oktava Mc012a"
     },
     {
       "year": 2005,
@@ -4937,10 +4588,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Peoria, IL",
       "venue": "Bradley University - Robertson Memorial Fieldhouse",
-      "gear": "Sony TCM-S67V",
-      "taper": "Vanessa Thomas",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony TCM-S67V \u00b7 Vanessa Thomas"
     },
     {
       "year": 2005,
@@ -4951,10 +4601,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston College - Modstock - Mod Parking Lot",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2005,
@@ -4965,10 +4614,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Quincy, MA",
       "venue": "Waterworks",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2005,
@@ -4979,10 +4627,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Symphony Hall - Pops on the Edge",
-      "gear": "AT803bs",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT803bs \u00b7 Dave Mallick"
     },
     {
       "year": 2005,
@@ -4993,10 +4640,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Symphony Hall - Pops on the Edge",
-      "gear": "AT803bs",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT803bs \u00b7 Dave Mallick"
     },
     {
       "year": 2005,
@@ -5007,10 +4653,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Sunset Music Festival - Newport Yachting Center",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2005,
@@ -5021,10 +4666,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "The Blue Note",
-      "gear": "",
-      "taper": "Studio Projects C-4 \u00b7 Brian Price",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Studio Projects C-4 \u00b7 Brian Price"
     },
     {
       "year": 2005,
@@ -5035,10 +4679,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Hampton Beach, NH",
       "venue": "Hampton Beach Casino Ballroom",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2005,
@@ -5049,10 +4692,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's at the Strand",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2005,
@@ -5063,10 +4705,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Nokia Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2005,
@@ -5077,10 +4718,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Nokia Theatre",
-      "gear": "",
-      "taper": "Neumann Tlm-170r \u00b7 Jason Reiser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Neumann Tlm-170r \u00b7 Jason Reiser"
     },
     {
       "year": 2005,
@@ -5091,10 +4731,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Nokia Theatre",
-      "gear": "Schoeps MK4",
-      "taper": "Jason Reiser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK4 \u00b7 Jason Reiser"
     },
     {
       "year": 2005,
@@ -5105,10 +4744,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Nokia Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5119,10 +4757,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "The Roxy",
-      "gear": "AT803b",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT803b \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5133,10 +4770,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "The Roxy",
-      "gear": "AT803bs",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT803bs \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5147,10 +4783,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Roseland Theater",
-      "gear": "AT831",
-      "taper": "Josh Petersen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT831 \u00b7 Josh Petersen"
     },
     {
       "year": 2006,
@@ -5161,10 +4796,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Tacoma, WA",
       "venue": "University of Puget Sound Fieldhouse",
-      "gear": "",
-      "taper": "Gefell M300s \u00b7 Adam Crowthers",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Gefell M300s \u00b7 Adam Crowthers"
     },
     {
       "year": 2006,
@@ -5175,10 +4809,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Cubby Bear",
-      "gear": "matt hedegard",
-      "taper": "Akg 480",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "matt hedegard \u00b7 Akg 480"
     },
     {
       "year": 2006,
@@ -5189,10 +4822,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Cubby Bear Lounge",
-      "gear": "AT853s",
-      "taper": "Brian Emerick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853s \u00b7 Brian Emerick"
     },
     {
       "year": 2006,
@@ -5203,10 +4835,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Joseph J. Gentile Center - Loyola University",
-      "gear": "matt hedegard",
-      "taper": "Akg480",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "matt hedegard \u00b7 Akg480"
     },
     {
       "year": 2006,
@@ -5217,10 +4848,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Geneseo, NY",
       "venue": "SUNY-Geneseo at Merritt Athletic Center",
-      "gear": "Schoeps MK4",
-      "taper": "Daniel Godwin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4 \u00b7 Daniel Godwin"
     },
     {
       "year": 2006,
@@ -5231,10 +4861,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden - The Jammys",
-      "gear": "CM300",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CM300 \u00b7 Unknown"
     },
     {
       "year": 2006,
@@ -5245,10 +4874,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hiro Ballroom",
-      "gear": "Schoeps MK21",
-      "taper": "Jason Reiser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK21 \u00b7 Jason Reiser"
     },
     {
       "year": 2006,
@@ -5259,10 +4887,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Maritime Hotel - Hiro Ballroom",
-      "gear": "DPA 4011",
-      "taper": "Christopher Jones",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4011 \u00b7 Christopher Jones"
     },
     {
       "year": 2006,
@@ -5273,10 +4900,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Selinsgrove, PA",
       "venue": "Susquehanna University - Weber Chapel Auditorium",
-      "gear": "",
-      "taper": "Sp-c4s \u00b7 Chris Howell",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sp-c4s \u00b7 Chris Howell"
     },
     {
       "year": 2006,
@@ -5287,10 +4913,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Medford, MA",
       "venue": "Tufts University",
-      "gear": "",
-      "taper": "Early Show \u00b7 Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Early Show \u00b7 Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5301,10 +4926,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Amherst, MA",
       "venue": "Amherst College - LeFrank Gymnasium",
-      "gear": "Late Show",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Late Show \u00b7 Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5315,10 +4939,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Science Quad - Trinity College",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5329,10 +4952,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "College of the Holy Cross - Hart Center",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5343,10 +4965,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Fitchburg, MA",
       "venue": "Fitchburg State College",
-      "gear": "Fostex DAT \u00b7 matt n.",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Fostex DAT \u00b7 matt n."
     },
     {
       "year": 2006,
@@ -5357,10 +4978,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "92.9 WBOS - Studio 7",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2006,
@@ -5371,10 +4991,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston Harbor Cruise",
-      "gear": "AT803bs",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT803bs \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5385,10 +5004,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Newbury Comics",
-      "gear": "Sony ECM-719",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719"
     },
     {
       "year": 2006,
@@ -5399,10 +5017,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Charleston, MA",
       "venue": "Tavern on the Water",
-      "gear": "AT803bs",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT803bs \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5413,10 +5030,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Lounge",
-      "gear": "AT803bs",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT803bs \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5427,10 +5043,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Charlestown, MA",
       "venue": "Tavern On The Water",
-      "gear": "ECM-719",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719"
     },
     {
       "year": 2006,
@@ -5441,10 +5056,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "WCLZ",
-      "gear": "",
-      "taper": "Webstream \u00b7 Dave Mallick",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Webstream \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5455,10 +5069,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Scarborough, ME",
       "venue": "Bull Moose Music",
-      "gear": "AT803bs",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT803bs \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5469,10 +5082,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "WXPN-FM Studios - World Live Cafe",
-      "gear": "",
-      "taper": "Webstream \u00b7 Dave Mallick",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Webstream \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5483,10 +5095,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Station Park",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5497,10 +5108,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Tower Records",
-      "gear": "AT803bs",
-      "taper": "Broad Street \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT803bs \u00b7 Broad Street \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5511,10 +5121,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Live In-studio KCRW",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2006,
@@ -5525,10 +5134,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Morning Becomes Eclectic - KCRW Webstream",
-      "gear": "",
-      "taper": "Dave Mallick",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Dave Mallick"
     },
     {
       "year": 2006,
@@ -5539,10 +5147,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Pier Six Pavilion",
-      "gear": "",
-      "taper": "Spc4s \u00b7 Timothy Brown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Spc4s \u00b7 Timothy Brown"
     },
     {
       "year": 2006,
@@ -5553,10 +5160,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Wallingford, CT",
       "venue": "The Venue Formerly Known as the Oakdale Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5567,10 +5173,9 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Myrtle Beach, SC",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "Akg 1000s \u00b7 Jon Galante",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg 1000s \u00b7 Jon Galante"
     },
     {
       "year": 2006,
@@ -5581,10 +5186,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Charter One Pavilion at Northerly Island",
-      "gear": "",
-      "taper": "Akg 480/ck63 \u00b7 Crumbo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg 480/ck63 \u00b7 Crumbo"
     },
     {
       "year": 2006,
@@ -5595,10 +5199,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Charter One Pavilion at Northerly Island",
-      "gear": "",
-      "taper": "Earthworks Sr77 \u00b7 Scuba Jeremy",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Earthworks Sr77 \u00b7 Scuba Jeremy"
     },
     {
       "year": 2006,
@@ -5609,10 +5212,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "Toledo Zoo",
-      "gear": "",
-      "taper": "Akg Ck63 \u00b7 John Wilson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg Ck63 \u00b7 John Wilson"
     },
     {
       "year": 2006,
@@ -5623,10 +5225,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "High Falls Festival Site",
-      "gear": "Schoeps MK4",
-      "taper": "Daniel Godwin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4 \u00b7 Daniel Godwin"
     },
     {
       "year": 2006,
@@ -5637,10 +5238,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Venue Formerly Known As Harborlights",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5651,10 +5251,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Venue Formerly Known As Harborlights",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5665,10 +5264,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga Springs, NY",
       "venue": "Saratoga Performing Arts Center",
-      "gear": "SMK-H8K/Us",
-      "taper": "David Jeffers",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SMK-H8K/Us \u00b7 David Jeffers"
     },
     {
       "year": 2006,
@@ -5679,10 +5277,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Cumberland County Civic Center",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2006,
@@ -5693,10 +5290,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits Festical - AMD Stage",
-      "gear": "Schoeps MK4",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK4"
     },
     {
       "year": 2006,
@@ -5707,10 +5303,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "The Beaumont Club",
-      "gear": "",
-      "taper": "Mbho 603/ka200n \u00b7 Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mbho 603/ka200n \u00b7 Brian"
     },
     {
       "year": 2006,
@@ -5721,10 +5316,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "SDSU Open Air Theater",
-      "gear": "AT831",
-      "taper": "Tyler Huff",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT831 \u00b7 Tyler Huff"
     },
     {
       "year": 2006,
@@ -5735,10 +5329,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Geneva, NY",
       "venue": "The Smith Opera House",
-      "gear": "Schoeps MK4",
-      "taper": "Daniel Godwin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4 \u00b7 Daniel Godwin"
     },
     {
       "year": 2006,
@@ -5749,10 +5342,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Borders",
-      "gear": "Sony ECM-719",
-      "taper": "Kingjeff",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719 \u00b7 Kingjeff"
     },
     {
       "year": 2006,
@@ -5763,10 +5355,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Hartford Civic Center - 96.5 TIC's All Star Christmas",
-      "gear": "Sony ECM-719",
-      "taper": "Ed Rooney",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719 \u00b7 Ed Rooney"
     },
     {
       "year": 2007,
@@ -5777,10 +5368,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Ships and Dip Cruise - Follies",
-      "gear": "Sony ECM-719",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719 \u00b7 Unknown"
     },
     {
       "year": 2007,
@@ -5791,10 +5381,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Ships and Dip Cruise - Lido Deck",
-      "gear": "Sony ECM-719",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719 \u00b7 Unknown"
     },
     {
       "year": 2007,
@@ -5805,10 +5394,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
-      "gear": "",
-      "taper": "Sp C4 \u00b7 Shane E. Calhoon",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Sp C4 \u00b7 Shane E. Calhoon"
     },
     {
       "year": 2007,
@@ -5819,10 +5407,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto Ontario",
       "venue": "Phoenix Concert Theatre",
-      "gear": "",
-      "taper": "Akg 463 \u00b7 Dave Caley",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg 463 \u00b7 Dave Caley"
     },
     {
       "year": 2007,
@@ -5833,10 +5420,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "930 Club",
-      "gear": "",
-      "taper": "Spc4s \u00b7 Chris Howell",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Spc4s \u00b7 Chris Howell"
     },
     {
       "year": 2007,
@@ -5847,10 +5433,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "930 Club",
-      "gear": "",
-      "taper": "Neumann Ak40 \u00b7 Chris Howell",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Neumann Ak40 \u00b7 Chris Howell"
     },
     {
       "year": 2007,
@@ -5861,10 +5446,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's at the Strand",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2007,
@@ -5875,10 +5459,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Lawrence, KS",
       "venue": "Liberty Hall",
-      "gear": "",
-      "taper": "Mbho 603/ka200n \u00b7 Brian Price",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mbho 603/ka200n \u00b7 Brian Price"
     },
     {
       "year": 2007,
@@ -5889,10 +5472,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's BBQ",
-      "gear": "",
-      "taper": "Beyerdynamic Mc930 \u00b7 Rick Bendes",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Beyerdynamic Mc930 \u00b7 Rick Bendes"
     },
     {
       "year": 2007,
@@ -5903,10 +5485,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theater",
-      "gear": "DPA 4021s",
-      "taper": "Ericv",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4021s \u00b7 Ericv"
     },
     {
       "year": 2007,
@@ -5917,10 +5498,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2007,
@@ -5931,10 +5511,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Hampton Beach, NH",
       "venue": "Casino Ballroom",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2007,
@@ -5945,10 +5524,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Roxy",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2007,
@@ -5959,10 +5537,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Opera House",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2007,
@@ -5973,10 +5550,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Opera House",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2007,
@@ -5987,10 +5563,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "DCR Hatch Shell Memorial Shell",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2007,
@@ -6001,10 +5576,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Earthfest at the Hatch Shell",
-      "gear": "Sony ECM-719",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719 \u00b7 Unknown"
     },
     {
       "year": 2007,
@@ -6015,10 +5589,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Telluride, CO",
       "venue": "Town Park - Telluride Bluegrass Festival",
-      "gear": "",
-      "taper": "Marshall 2003s \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Marshall 2003s \u00b7 Unknown"
     },
     {
       "year": 2007,
@@ -6029,10 +5602,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Bridgeview, IL",
       "venue": "Toyota Park",
-      "gear": "Giant Squid Audio Omni's",
-      "taper": "Mike Peters",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Giant Squid Audio Omni's \u00b7 Mike Peters"
     },
     {
       "year": 2007,
@@ -6043,10 +5615,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Bridgeview, IL",
       "venue": "Toyota Park",
-      "gear": "Sennheiser MKH-800s",
-      "taper": "Timothy Brown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sennheiser MKH-800s \u00b7 Timothy Brown"
     },
     {
       "year": 2007,
@@ -6057,10 +5628,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Florence, MA",
       "venue": "The Pines Theatre at Look Park",
-      "gear": "Sony ECM-719",
-      "taper": "Brian H.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719 \u00b7 Brian H."
     },
     {
       "year": 2007,
@@ -6071,10 +5641,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Providence Piers",
-      "gear": "AT803bs",
-      "taper": "Ken Parry",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT803bs \u00b7 Ken Parry"
     },
     {
       "year": 2007,
@@ -6085,10 +5654,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Bank of America Pavilion - WFNX DisOrientation 2007",
-      "gear": "Sony ECM-719",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719 \u00b7 Unknown"
     },
     {
       "year": 2007,
@@ -6099,10 +5667,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Venue Formerly Known As Harborlights",
-      "gear": "AT803bs",
-      "taper": "Ken Parry",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT803bs \u00b7 Ken Parry"
     },
     {
       "year": 2007,
@@ -6113,10 +5680,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Randall's Island - Farm Aid 2007",
-      "gear": "DPA 4061",
-      "taper": "Fz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061 \u00b7 Fz"
     },
     {
       "year": 2007,
@@ -6127,10 +5693,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "University of Rochester - Goergen Atheletic Center Beyer Dynamic MC 930)",
-      "gear": "",
-      "taper": "Dgodwin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Dgodwin"
     },
     {
       "year": 2007,
@@ -6141,10 +5706,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Burlington, VT",
       "venue": "University of Vermont - Patrick Gymnasium",
-      "gear": "",
-      "taper": "Audix M1290 \u00b7 Jason Johnson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Audix M1290 \u00b7 Jason Johnson"
     },
     {
       "year": 2008,
@@ -6155,10 +5719,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Ships & Dip III - Carnival Victory",
-      "gear": "AT803bs",
-      "taper": "Bunnie Lebowski",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT803bs \u00b7 Bunnie Lebowski"
     },
     {
       "year": 2008,
@@ -6169,10 +5732,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Caribbean Sea - Caribbean Lounge - Carnival Victory",
-      "gear": "Sony ECM-719",
-      "taper": "Kingjeff",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719 \u00b7 Kingjeff"
     },
     {
       "year": 2008,
@@ -6183,10 +5745,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Ships & Dip III - Carnival Victory - Fan Show",
-      "gear": "AT803bs",
-      "taper": "Bunnie Lebowski",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT803bs \u00b7 Bunnie Lebowski"
     },
     {
       "year": 2009,
@@ -6197,10 +5758,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Carnegie Hall - R.E.M. Tribute Concert",
-      "gear": "",
-      "taper": "Belkin Tunetalk \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Belkin Tunetalk \u00b7 Unknown"
     },
     {
       "year": 2009,
@@ -6211,10 +5771,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Matthew Arena",
-      "gear": "",
-      "taper": "T-mic \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "T-mic \u00b7 Dave Mallick"
     },
     {
       "year": 2009,
@@ -6225,10 +5784,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "Kneller Athletic Center - Clark University",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2009,
@@ -6239,10 +5797,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Durham, NH",
       "venue": "Whittemore Center Arena",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2009,
@@ -6253,10 +5810,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Reading, PA",
       "venue": "Sovereign Performing Arts Center",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2009,
@@ -6267,10 +5823,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Candler Park",
-      "gear": "DPA 4023",
-      "taper": "Jeff Brock",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4023 \u00b7 Jeff Brock"
     },
     {
       "year": 2009,
@@ -6281,10 +5836,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Midsummer Music Festival - Candler Park",
-      "gear": "",
-      "taper": "Beyerdynamic Mc930 \u00b7 Todd Fleisher",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Beyerdynamic Mc930 \u00b7 Todd Fleisher"
     },
     {
       "year": 2009,
@@ -6295,10 +5849,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Petrillo Band Shell - Grant Park",
-      "gear": "",
-      "taper": "Wxrt Free Fourth Of July Concert \u00b7 93.1",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Wxrt Free Fourth Of July Concert \u00b7 93.1"
     },
     {
       "year": 2009,
@@ -6309,10 +5862,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Petrillo Music Shell",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2009,
@@ -6323,10 +5875,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Bridgeport, CT",
       "venue": "Seaside Park",
-      "gear": "",
-      "taper": "Gefell M200s \u00b7 Keith",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell M200s \u00b7 Keith"
     },
     {
       "year": 2009,
@@ -6337,10 +5888,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Bridgeport, CT",
       "venue": "Seaside Park",
-      "gear": "",
-      "taper": "Neumann Tlm-170r \u00b7 R. Mckinney",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Neumann Tlm-170r \u00b7 R. Mckinney"
     },
     {
       "year": 2009,
@@ -6351,10 +5901,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Bridgeport, CT",
       "venue": "Seaside Park",
-      "gear": "Schoeps MK41",
-      "taper": "Andy Murray",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK41 \u00b7 Andy Murray"
     },
     {
       "year": 2009,
@@ -6365,10 +5914,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Camden, NJ",
       "venue": "XPoNential Festival - Wiggins Park",
-      "gear": "",
-      "taper": "Aiwa Cx-naj50u",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Aiwa Cx-naj50u"
     },
     {
       "year": 2009,
@@ -6379,10 +5927,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Camden, NJ",
       "venue": "XPoNential Festival - Wiggins Park",
-      "gear": "",
-      "taper": "T-mic \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "T-mic \u00b7 Dave Mallick"
     },
     {
       "year": 2009,
@@ -6393,10 +5940,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Live on the Levee - Gateway Arch",
-      "gear": "SPC4",
-      "taper": "Shane E. Calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SPC4 \u00b7 Shane E. Calhoon"
     },
     {
       "year": 2009,
@@ -6407,10 +5953,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Newport Yachting Center",
-      "gear": "",
-      "taper": "Km150s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km150s \u00b7 Dave Mallick"
     },
     {
       "year": 2009,
@@ -6421,10 +5966,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Maine State Pier - Batstock Music Festival",
-      "gear": "",
-      "taper": "Km150s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km150s \u00b7 Dave Mallick"
     },
     {
       "year": 2009,
@@ -6435,10 +5979,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "The Neighborhood Theatre",
-      "gear": "",
-      "taper": "Busman Bsc-1 \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Busman Bsc-1 \u00b7 Unknown"
     },
     {
       "year": 2009,
@@ -6449,10 +5992,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "The Neighborhood Theatre",
-      "gear": "",
-      "taper": "Zoom X/y Mics \u00b7 Chris",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom X/y Mics \u00b7 Chris"
     },
     {
       "year": 2009,
@@ -6463,10 +6005,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "930 Club",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2009,
@@ -6477,10 +6018,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "930 Club",
-      "gear": "AT853s",
-      "taper": "Ian White",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853s \u00b7 Ian White"
     },
     {
       "year": 2009,
@@ -6491,10 +6031,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "930 Club",
-      "gear": "",
-      "taper": "Neumann Km150s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Neumann Km150s \u00b7 Dave Mallick"
     },
     {
       "year": 2009,
@@ -6505,10 +6044,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
-      "gear": "",
-      "taper": "Neumann Km150s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Neumann Km150s \u00b7 Dave Mallick"
     },
     {
       "year": 2009,
@@ -6519,10 +6057,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Main Street Armory",
-      "gear": "",
-      "taper": "Beyerdynamic Mc 930s \u00b7 Daniel",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Beyerdynamic Mc 930s \u00b7 Daniel"
     },
     {
       "year": 2009,
@@ -6533,10 +6070,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "South Burlington, VT",
       "venue": "Higher Ground",
-      "gear": "",
-      "taper": "Km150s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km150s \u00b7 Dave Mallick"
     },
     {
       "year": 2009,
@@ -6547,10 +6083,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2009,
@@ -6561,10 +6096,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "East Village Radio Studios",
-      "gear": "",
-      "taper": "Steve Lillywhite And Ryan Miller \u00b7 East Village Radio Webcast",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Steve Lillywhite And Ryan Miller \u00b7 East Village Radio Webcast"
     },
     {
       "year": 2010,
@@ -6575,10 +6109,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "Hanover Theater",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2010,
@@ -6589,10 +6122,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "Hanover Theater",
-      "gear": "Sony ECM-719",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719 \u00b7 Unknown"
     },
     {
       "year": 2010,
@@ -6603,10 +6135,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "Hanover Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2010,
@@ -6617,10 +6148,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Gilford, NH",
       "venue": "Meadowbrook Musical Arts Center",
-      "gear": "",
-      "taper": "T-mic \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "T-mic \u00b7 Dave Mallick"
     },
     {
       "year": 2010,
@@ -6631,10 +6161,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Uncasville, CT",
       "venue": "Mohegan Sun Arena",
-      "gear": "",
-      "taper": "T-mic \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "T-mic \u00b7 Dave Mallick"
     },
     {
       "year": 2010,
@@ -6645,10 +6174,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Canton, MA",
       "venue": "Life Is Good Festival",
-      "gear": "",
-      "taper": "Akg 393 \u00b7 Vanark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg 393 \u00b7 Vanark"
     },
     {
       "year": 2010,
@@ -6659,10 +6187,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Canton, MA",
       "venue": "Life is Good Festival",
-      "gear": "Sony ECM-719",
-      "taper": "Kingjeff",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719 \u00b7 Kingjeff"
     },
     {
       "year": 2010,
@@ -6673,10 +6200,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Canton, MA",
       "venue": "Prowse Farm - Life is Good Festival",
-      "gear": "",
-      "taper": "Gefell M200s \u00b7 Jason Adler",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell M200s \u00b7 Jason Adler"
     },
     {
       "year": 2010,
@@ -6687,10 +6213,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Inspiration Hornblower Boat",
-      "gear": "",
-      "taper": "Edirol R-09",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R-09"
     },
     {
       "year": 2010,
@@ -6701,10 +6226,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Royale - Red Room WXRV-FM's 15th Anniversary Party",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2010,
@@ -6715,10 +6239,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
-      "gear": "SPC4",
-      "taper": "Shane E. Calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SPC4 \u00b7 Shane E. Calhoon"
     },
     {
       "year": 2010,
@@ -6729,10 +6252,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "The Beaumont Club",
-      "gear": "",
-      "taper": "Mbho Ka200n/mb603 \u00b7 Brian Price",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mbho Ka200n/mb603 \u00b7 Brian Price"
     },
     {
       "year": 2010,
@@ -6743,10 +6265,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Electric Factory",
-      "gear": "jeff prater",
-      "taper": "Akg463",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "jeff prater \u00b7 Akg463"
     },
     {
       "year": 2010,
@@ -6757,10 +6278,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2010,
@@ -6771,10 +6291,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "gear": "",
-      "taper": "Gefell M210s \u00b7 Jon Pasternak",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell M210s \u00b7 Jon Pasternak"
     },
     {
       "year": 2010,
@@ -6785,10 +6304,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's at the Stand",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2010,
@@ -6799,10 +6317,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Hard Rock Cafe - Mix 104.1 Boo Bash",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2010,
@@ -6813,10 +6330,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "Mechanics Hall - WXLO Acoustic Xmas",
-      "gear": "ECM-719",
-      "taper": "Kingjeff",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Kingjeff"
     },
     {
       "year": 2011,
@@ -6827,10 +6343,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Des Moines, IA",
       "venue": "Hoyt Sherman Place",
-      "gear": "",
-      "taper": "Zoom H2 \u00b7 Unknown",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "notes": "Zoom H2 \u00b7 Unknown"
     },
     {
       "year": 2011,
@@ -6841,10 +6356,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
-      "gear": "SP-CMC-4",
-      "taper": "Will Harrelson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-4 \u00b7 Will Harrelson"
     },
     {
       "year": 2011,
@@ -6855,10 +6369,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
-      "gear": "Sony ECM-719",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719 \u00b7 Unknown"
     },
     {
       "year": 2011,
@@ -6869,10 +6382,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Norwegian Dawn - Ships & Dip 4 Cruise",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2011,
@@ -6883,10 +6395,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Ships & Dip - Norwegian Dawn - Spinnaker Lounge",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2011,
@@ -6897,10 +6408,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Norwegian Dawn - Ships & Dip 4",
-      "gear": "Sony ECM-719",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719 \u00b7 Unknown"
     },
     {
       "year": 2011,
@@ -6911,10 +6421,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Norwegian Dawn - Ships & Dip 4 Cruise",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2011,
@@ -6925,10 +6434,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Grace Rainey Roges Auditorium - Metropolitan Museum of Art",
-      "gear": "",
-      "taper": "Zoom H4 \u00b7 Ken Parry",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H4 \u00b7 Ken Parry"
     },
     {
       "year": 2011,
@@ -6939,10 +6447,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "gear": "",
-      "taper": "Gefell M210s \u00b7 Jon Pasternak",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell M210s \u00b7 Jon Pasternak"
     },
     {
       "year": 2011,
@@ -6953,10 +6460,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "gear": "",
-      "taper": "Tlm-170 \u00b7 Scott Bernstein",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tlm-170 \u00b7 Scott Bernstein"
     },
     {
       "year": 2011,
@@ -6967,10 +6473,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "The Phoenix",
-      "gear": "",
-      "taper": "Busman Bcs1 \u00b7 Chris",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Busman Bcs1 \u00b7 Chris"
     },
     {
       "year": 2011,
@@ -6981,10 +6486,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "KGSR Music Lounge",
-      "gear": "",
-      "taper": "Kgsr Webcast \u00b7 Ken Parry",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Kgsr Webcast \u00b7 Ken Parry"
     },
     {
       "year": 2011,
@@ -6995,10 +6499,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "House of Blues",
-      "gear": "Scheops CCM41",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Scheops CCM41 \u00b7 Unknown"
     },
     {
       "year": 2011,
@@ -7009,10 +6512,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Town Ballroom",
-      "gear": "Schoeps MK4",
-      "taper": "Izaak Micah",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4 \u00b7 Izaak Micah"
     },
     {
       "year": 2011,
@@ -7023,10 +6525,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Toad's Place",
-      "gear": "DPA 4022",
-      "taper": "James Bonaiuto",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4022 \u00b7 James Bonaiuto"
     },
     {
       "year": 2011,
@@ -7037,10 +6538,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Toad's Place",
-      "gear": "Sony ECM-719",
-      "taper": "Brian H",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719 \u00b7 Brian H"
     },
     {
       "year": 2011,
@@ -7051,10 +6551,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Hampton Beach, NH",
       "venue": "Hampton Beach Casino",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2011,
@@ -7065,10 +6564,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2011,
@@ -7079,10 +6577,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Atlantic City, NJ",
       "venue": "Bader Field",
-      "gear": "DPA 4015-TL",
-      "taper": "Christopher Jones",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4015-TL \u00b7 Christopher Jones"
     },
     {
       "year": 2011,
@@ -7093,10 +6590,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Hyannis, MA",
       "venue": "Cape Cod Melody Tent",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2011,
@@ -7107,10 +6603,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Danbury, CT",
       "venue": "Ives Concert Park",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2011,
@@ -7121,10 +6616,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Newport Yachting Center",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2011,
@@ -7135,10 +6629,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2011,
@@ -7149,10 +6642,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Central Park Summerstage",
-      "gear": "",
-      "taper": "Gefell M210s \u00b7 Jon Pasternak",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell M210s \u00b7 Jon Pasternak"
     },
     {
       "year": 2011,
@@ -7163,10 +6655,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Central Park Summerstage",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2011,
@@ -7177,10 +6668,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Asbury Park, NJ",
       "venue": "Stone Pony Summer Stage",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2011,
@@ -7191,10 +6681,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Venue Formerly Known as Harborlights",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2011,
@@ -7205,10 +6694,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Interlochen, MI",
       "venue": "Kresge Auditorium",
-      "gear": "",
-      "taper": "Sp-bmc-2 \u00b7 Josh Prins",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sp-bmc-2 \u00b7 Josh Prins"
     },
     {
       "year": 2011,
@@ -7219,10 +6707,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Montrose Beach - The Dock",
-      "gear": "",
-      "taper": "Mc012 \u00b7 Scuba",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Mc012 \u00b7 Scuba"
     },
     {
       "year": 2011,
@@ -7233,10 +6720,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Waltham, MA",
       "venue": "Shapiro Gym - Brandeis University",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2011,
@@ -7247,10 +6733,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Montclair, NJ",
       "venue": "Wellmont Theatre",
-      "gear": "",
-      "taper": "Gefell M210s \u00b7 Jon Pasternak",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell M210s \u00b7 Jon Pasternak"
     },
     {
       "year": 2011,
@@ -7261,10 +6746,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Montclair, NJ",
       "venue": "Wellmont Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2011,
@@ -7275,10 +6759,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Montclair, NJ",
       "venue": "Wellmont Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2012,
@@ -7289,10 +6772,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Boettcher Concert Hall",
-      "gear": "",
-      "taper": "Sp-bmc-2 \u00b7 Beth Prins",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sp-bmc-2 \u00b7 Beth Prins"
     },
     {
       "year": 2012,
@@ -7303,10 +6785,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Ludlow, VT",
       "venue": "The Ice House at Jackson Gore - Okemo Ski Resort",
-      "gear": "Sony ECM-719",
-      "taper": "Ed Rooney",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-719 \u00b7 Ed Rooney"
     },
     {
       "year": 2012,
@@ -7317,10 +6798,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Martinsville, NJ",
       "venue": "Hauser Auditorium - Pingry School",
-      "gear": "CM700s",
-      "taper": "Jon Pasternak",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CM700s \u00b7 Jon Pasternak"
     },
     {
       "year": 2012,
@@ -7331,10 +6811,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Sheldon Concert Hall",
-      "gear": "",
-      "taper": "Tascam Dr-07 \u00b7 Shane E. Calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tascam Dr-07 \u00b7 Shane E. Calhoon"
     },
     {
       "year": 2012,
@@ -7345,10 +6824,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2012,
@@ -7359,10 +6837,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Yak-Zies Bar & Grill - WXRT Webstream",
-      "gear": "",
-      "taper": "Wrigleyville \u00b7 Beth Prins",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Wrigleyville \u00b7 Beth Prins"
     },
     {
       "year": 2012,
@@ -7373,10 +6850,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "gear": "",
-      "taper": "Ca-14s \u00b7 Brian Emerick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Ca-14s \u00b7 Brian Emerick"
     },
     {
       "year": 2012,
@@ -7387,10 +6863,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Pabst Theater",
-      "gear": "",
-      "taper": "Sp-bmc-2 \u00b7 Josh Prins",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sp-bmc-2 \u00b7 Josh Prins"
     },
     {
       "year": 2012,
@@ -7401,10 +6876,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Lincoln Theatre",
-      "gear": "M-Audio T-mic",
-      "taper": "Robert Ruszczyk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M-Audio T-mic \u00b7 Robert Ruszczyk"
     },
     {
       "year": 2012,
@@ -7415,10 +6889,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Tarrytown, NY",
       "venue": "Tarrytown Music Hall",
-      "gear": "",
-      "taper": "Zoom H2 \u00b7 Ken Parry",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H2 \u00b7 Ken Parry"
     },
     {
       "year": 2012,
@@ -7429,10 +6902,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Tarrytown, NY",
       "venue": "Tarrytown Music Hall",
-      "gear": "DPA 4021s",
-      "taper": "Eric Vandercar",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4021s \u00b7 Eric Vandercar"
     },
     {
       "year": 2012,
@@ -7443,10 +6915,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paramount Theater",
-      "gear": "SP-CMC-2",
-      "taper": "Evening Show \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-2 \u00b7 Evening Show \u00b7 Unknown"
     },
     {
       "year": 2012,
@@ -7457,10 +6928,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paramount Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2012,
@@ -7471,10 +6941,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paramount Theater",
-      "gear": "SP-CMC-2",
-      "taper": "Evening Show \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-2 \u00b7 Evening Show \u00b7 Unknown"
     },
     {
       "year": 2012,
@@ -7485,10 +6954,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paramount Theatre",
-      "gear": "",
-      "taper": "Evening Show \u00b7 Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Evening Show \u00b7 Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2012,
@@ -7499,10 +6967,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paramount Theatre",
-      "gear": "Matinee",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Matinee \u00b7 Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2012,
@@ -7513,10 +6980,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paramount Theatre at Emerson College",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2013,
@@ -7527,10 +6993,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Northampton, MA",
       "venue": "Calvin Theater",
-      "gear": "SP-CMC-2",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-2 \u00b7 Unknown"
     },
     {
       "year": 2013,
@@ -7541,10 +7006,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Northampton, MA",
       "venue": "Calvin Theatre",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2013,
@@ -7555,10 +7019,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "Capitol Theatre",
-      "gear": "CSB",
-      "taper": "Jeffrey Houser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Jeffrey Houser"
     },
     {
       "year": 2013,
@@ -7569,10 +7032,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Portsmouth, NH",
       "venue": "The Music Hall",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2013,
@@ -7583,10 +7045,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "91.3 WYEP",
-      "gear": "",
-      "taper": "",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2013,
@@ -7597,10 +7058,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "The Venue formerly known as Great Woods",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2013,
@@ -7611,10 +7071,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Grand Prairie, TX",
       "venue": "Verizon Theater",
-      "gear": "SP-CMC-08s",
-      "taper": "Whotapes",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-08s \u00b7 Whotapes"
     },
     {
       "year": 2013,
@@ -7625,10 +7084,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "KCSN 88.5",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2013,
@@ -7639,10 +7097,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Prospect Park",
-      "gear": "DPA 4021",
-      "taper": "Scott Bernstein & Eric Vandercar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4021 \u00b7 Scott Bernstein & Eric Vandercar"
     },
     {
       "year": 2013,
@@ -7653,10 +7110,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Uncasville, CT",
       "venue": "Arena at Mohegan Sun Casino",
-      "gear": "",
-      "taper": "Me-104s \u00b7 Ringfedder",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Me-104s \u00b7 Ringfedder"
     },
     {
       "year": 2013,
@@ -7667,10 +7123,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Uncasville, CT",
       "venue": "Mohegan Sun Arena",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2013,
@@ -7681,10 +7136,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Uncasville, CT",
       "venue": "Mohegun Sun",
-      "gear": "CSB",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Unknown"
     },
     {
       "year": 2013,
@@ -7695,10 +7149,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Lenox, MA",
       "venue": "Tanglewood Music Center",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2013,
@@ -7709,10 +7162,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's Heartbreak Hotel",
-      "gear": "SP-CMC-2",
-      "taper": "Kingjeff",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-2 \u00b7 Kingjeff"
     },
     {
       "year": 2013,
@@ -7723,10 +7175,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Freeport, ME",
       "venue": "LL Bean Discovery Park",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2013,
@@ -7737,10 +7188,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Lowell, MA",
       "venue": "Lowell Memorial Auditorium",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2013,
@@ -7751,10 +7201,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Lowell, MA",
       "venue": "Lowell Memorial Auditorium",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2013,
@@ -7765,10 +7214,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2013,
@@ -7779,10 +7227,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Brooklyn Bowl",
-      "gear": "CSB",
-      "taper": "Early Show \u00b7 Jeffrey Houser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Early Show \u00b7 Jeffrey Houser"
     },
     {
       "year": 2013,
@@ -7793,10 +7240,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Brooklyn Bowl",
-      "gear": "",
-      "taper": "Early Show \u00b7 Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Early Show \u00b7 Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2013,
@@ -7807,10 +7253,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Brooklyn Bowl",
-      "gear": "CSB",
-      "taper": "Evening Show \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Evening Show \u00b7 Unknown"
     },
     {
       "year": 2013,
@@ -7821,10 +7266,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Brooklyn Bowl",
-      "gear": "",
-      "taper": "Evening Show \u00b7 Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Evening Show \u00b7 Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2014,
@@ -7835,10 +7279,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Ludlow, VT",
       "venue": "Sitting Bull Lounge at Okemo Mountain Resort",
-      "gear": "SP-CMC-2",
-      "taper": "Kingjeff",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-2 \u00b7 Kingjeff"
     },
     {
       "year": 2014,
@@ -7849,10 +7292,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Nantucket, MA",
       "venue": "Tom Nevers Field",
-      "gear": "AT2020",
-      "taper": "G-man",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT2020 \u00b7 G-man"
     },
     {
       "year": 2014,
@@ -7863,10 +7305,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Manchester, NH",
       "venue": "Palace Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2015,
@@ -7877,10 +7318,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Internet of Things Interview on Radio 92.9",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2015,
@@ -7891,10 +7331,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Internet Radio BDC",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2015,
@@ -7905,10 +7344,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "90.9 Boston - Internet of Things",
-      "gear": "",
-      "taper": "",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2015,
@@ -7919,10 +7357,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Guster Day",
-      "gear": "",
-      "taper": "Km201s",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s"
     },
     {
       "year": 2015,
@@ -7933,10 +7370,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "House of Blues [WEB]",
-      "gear": "",
-      "taper": "Brian",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Brian"
     },
     {
       "year": 2015,
@@ -7947,10 +7383,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
-      "gear": "C4 MKII",
-      "taper": "Shane E. Calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C4 MKII \u00b7 Shane E. Calhoon"
     },
     {
       "year": 2015,
@@ -7961,10 +7396,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Greene Space",
       "venue": "WNYC's Soundcheck",
-      "gear": "",
-      "taper": "",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2015,
@@ -7975,10 +7409,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Orpheum",
-      "gear": "",
-      "taper": "Zoom H2 \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H2 \u00b7 Unknown"
     },
     {
       "year": 2015,
@@ -7989,10 +7422,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Elbo Room - Studio X",
-      "gear": "",
-      "taper": "",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2015,
@@ -8003,10 +7435,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "WCBE.org Interwebs",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2015,
@@ -8017,10 +7448,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "",
-      "taper": "Early Show \u00b7 Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Early Show \u00b7 Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2015,
@@ -8031,10 +7461,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "Late show",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Late show \u00b7 Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2015,
@@ -8045,10 +7474,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston Commons - The Box Earth Fest",
-      "gear": "",
-      "taper": "Busman Bsc-1 \u00b7 Cam Keough",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Busman Bsc-1 \u00b7 Cam Keough"
     },
     {
       "year": 2015,
@@ -8059,10 +7487,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston Commons",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2015,
@@ -8073,10 +7500,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Central Park Summerstage",
-      "gear": "DPA 4061s",
-      "taper": "Jon Pasternak",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4061s \u00b7 Jon Pasternak"
     },
     {
       "year": 2015,
@@ -8087,10 +7513,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Stamford, CT",
       "venue": "Columbus Park - Alive at Five Concert Series",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2015,
@@ -8101,10 +7526,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Stamford, CT",
       "venue": "Columbus Park",
-      "gear": "",
-      "taper": "Zoom Handy H4n \u00b7 Jeffrey Houser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom Handy H4n \u00b7 Jeffrey Houser"
     },
     {
       "year": 2015,
@@ -8115,10 +7539,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Falmouth, MA",
       "venue": "Barnstable County Fair - The Real Cape Music Festival",
-      "gear": "",
-      "taper": "Bsc-1 + Akg 460 \u00b7 Cam Keough",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Bsc-1 + Akg 460 \u00b7 Cam Keough"
     },
     {
       "year": 2015,
@@ -8129,10 +7552,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Maine State Pier",
-      "gear": "SP-CMC-2",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-2 \u00b7 Unknown"
     },
     {
       "year": 2015,
@@ -8143,10 +7565,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's Heartbreak Hotel",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2015,
@@ -8157,10 +7578,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Northampton, MA",
       "venue": "Calvin Theatre",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2015,
@@ -8171,10 +7591,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Montclair, NJ",
       "venue": "Wellmont Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2015,
@@ -8185,10 +7604,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "Capitol Theatre",
-      "gear": "",
-      "taper": "Neumann Kmr 82i \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Neumann Kmr 82i \u00b7 Unknown"
     },
     {
       "year": 2015,
@@ -8199,10 +7617,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "Capitol Theatre",
-      "gear": "",
-      "taper": "Mono",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mono"
     },
     {
       "year": 2015,
@@ -8213,10 +7630,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "Capitol Theatre at Garcia's",
-      "gear": "ECM-719",
-      "taper": "3pm Show \u00b7 Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 3pm Show \u00b7 Brian"
     },
     {
       "year": 2015,
@@ -8227,10 +7643,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "Capitol Theatre",
-      "gear": "ECM-719",
-      "taper": "Night 2 \u00b7 930pm Show \u00b7 Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Night 2 \u00b7 930pm Show \u00b7 Brian"
     },
     {
       "year": 2015,
@@ -8241,10 +7656,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "Capitol Theatre",
-      "gear": "",
-      "taper": "Mono",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mono"
     },
     {
       "year": 2016,
@@ -8255,10 +7669,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues - Foundation Room",
-      "gear": "CAFS",
-      "taper": "2pm Show \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CAFS \u00b7 2pm Show \u00b7 Dave Mallick"
     },
     {
       "year": 2016,
@@ -8269,10 +7682,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2016,
@@ -8283,10 +7695,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues - Night 1",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2016,
@@ -8297,10 +7708,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "Ca-14 \u00b7 Kevin Nastasia",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-14 \u00b7 Kevin Nastasia"
     },
     {
       "year": 2016,
@@ -8311,10 +7721,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues - Night 2",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2016,
@@ -8325,10 +7734,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2016,
@@ -8339,10 +7747,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "930 Club",
-      "gear": "",
-      "taper": "Mg-300 \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Mg-300 \u00b7 Unknown"
     },
     {
       "year": 2016,
@@ -8353,10 +7760,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tempe, AZ",
       "venue": "Marquee Theatre",
-      "gear": "AT853",
-      "taper": "Kenny Smith",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AT853 \u00b7 Kenny Smith"
     },
     {
       "year": 2016,
@@ -8367,10 +7773,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Lowell, MA",
       "venue": "Boarding House Park",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2016,
@@ -8381,10 +7786,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Lowell, MA",
       "venue": "Boarding House Park - Soundcheck",
-      "gear": "SP-CMC-2",
-      "taper": "Kingjeff",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-2 \u00b7 Kingjeff"
     },
     {
       "year": 2016,
@@ -8395,10 +7799,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Lowell, MA",
       "venue": "Boarding House Park",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2016,
@@ -8409,10 +7812,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Fillmore",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2016,
@@ -8423,10 +7825,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Fillmore",
-      "gear": "",
-      "taper": "Webcast \u00b7 Brian",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Webcast \u00b7 Brian"
     },
     {
       "year": 2016,
@@ -8437,10 +7838,9 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Dover, DE",
       "venue": "The Woodlands of Dover International Speedway",
-      "gear": "",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2016,
@@ -8451,10 +7851,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Highland Park, IL",
       "venue": "Ravinia Festival Pavilion",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2016,
@@ -8465,10 +7864,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Highland Park, IL",
       "venue": "The Ravinia Festival",
-      "gear": "DPA 4061s",
-      "taper": "Jon Pasternak",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061s \u00b7 Jon Pasternak"
     },
     {
       "year": 2016,
@@ -8479,10 +7877,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Pleasantville, NY",
       "venue": "Pleasantville Music Festival at Parkway Field",
-      "gear": "",
-      "taper": "Ca-14 \u00b7 Larryrulz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-14 \u00b7 Larryrulz"
     },
     {
       "year": 2016,
@@ -8493,10 +7890,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Concord, NH",
       "venue": "Capitol Center for the Arts",
-      "gear": "",
-      "taper": "Ca-14 \u00b7 Kevin Nastasia",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Ca-14 \u00b7 Kevin Nastasia"
     },
     {
       "year": 2016,
@@ -8507,10 +7903,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Concord, NH",
       "venue": "Capitol Center for the Arts",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2016,
@@ -8521,10 +7916,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Portsmouth, NH",
       "venue": "The Music Hall",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2016,
@@ -8535,10 +7929,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Columbus Theatre",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2016,
@@ -8549,10 +7942,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Columbus Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2016,
@@ -8563,10 +7955,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "gear": "",
-      "taper": "Gefell M210s \u00b7 Jon Pasternak",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell M210s \u00b7 Jon Pasternak"
     },
     {
       "year": 2016,
@@ -8577,10 +7968,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2017,
@@ -8591,10 +7981,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "92.5 The River",
-      "gear": "",
-      "taper": "Internet Stream",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Internet Stream"
     },
     {
       "year": 2017,
@@ -8605,10 +7994,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2017,
@@ -8619,10 +8007,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2017,
@@ -8633,10 +8020,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2017,
@@ -8647,10 +8033,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2017,
@@ -8661,10 +8046,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "gear": "Late show",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Late show \u00b7 Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2017,
@@ -8675,10 +8059,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Newsfeed Cafe - Boston Public Library",
-      "gear": "",
-      "taper": "Early \u00b7 Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Early \u00b7 Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2017,
@@ -8689,10 +8072,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2017,
@@ -8703,10 +8085,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2017,
@@ -8717,10 +8098,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2017,
@@ -8731,10 +8111,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2017,
@@ -8745,10 +8124,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Somerville, MA",
       "venue": "The Burren",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2017,
@@ -8759,10 +8137,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Sunapee, NH",
       "venue": "Sunapee Lodge",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2017,
@@ -8773,10 +8150,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Uline Warehouse Stage",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2017,
@@ -8787,10 +8163,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Huntington Beach Pavilion at Northerly Island",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2017,
@@ -8801,10 +8176,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Woodstock, NY",
       "venue": "Levon Helm's Barn",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2017,
@@ -8815,10 +8189,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Casco Bay - Bay Mist Cruise Boat",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2017,
@@ -8829,10 +8202,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Casco Bay - Bay Mist Cruise Boat",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2017,
@@ -8843,10 +8215,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Casco Bay - Bay Mist Cruise Boat",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2017,
@@ -8857,10 +8228,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point - On the Ocean",
-      "gear": "",
-      "taper": "Early \u00b7 Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Early \u00b7 Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2017,
@@ -8871,10 +8241,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point - On the Ocean",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2017,
@@ -8885,10 +8254,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Gazebo at Fort Allen Park",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2017,
@@ -8899,10 +8267,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Gazebo at Fort Allen Park",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2018,
@@ -8913,10 +8280,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Anthology",
-      "gear": "AT-4041",
-      "taper": "Daniel Godwin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AT-4041 \u00b7 Daniel Godwin"
     },
     {
       "year": 2018,
@@ -8927,10 +8293,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "College Street Music Hall",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2018,
@@ -8941,10 +8306,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2018,
@@ -8955,10 +8319,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2018,
@@ -8969,10 +8332,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "Tascam Dr-07 \u00b7 Kevin Nastasia",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tascam Dr-07 \u00b7 Kevin Nastasia"
     },
     {
       "year": 2018,
@@ -8983,10 +8345,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chillicothe, IL",
       "venue": "Three Sisters Park",
-      "gear": "",
-      "taper": "Youtube \u00b7 Unknown",
       "version": "PRO",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Youtube \u00b7 Unknown"
     },
     {
       "year": 2018,
@@ -8997,10 +8358,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Shelburne, VT",
       "venue": "Shelburne Museum",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2018,
@@ -9011,10 +8371,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Shelburne, VT",
       "venue": "Shelburne Museum",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2018,
@@ -9025,10 +8384,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Shelburne, VT",
       "venue": "Shelburne Museum",
-      "gear": "",
-      "taper": "Ca-14s \u00b7 Kevin Nastasia",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-14s \u00b7 Kevin Nastasia"
     },
     {
       "year": 2018,
@@ -9039,10 +8397,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2018,
@@ -9053,10 +8410,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2018,
@@ -9067,10 +8423,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2018,
@@ -9081,10 +8436,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portand, ME",
       "venue": "Outside Hadlock Field",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2018,
@@ -9095,10 +8449,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Hadlock Field",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2018,
@@ -9109,10 +8462,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Headliners Music Hall",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2018,
@@ -9123,10 +8475,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Delmar Hall",
-      "gear": "SP-C4 MKII",
-      "taper": "Shane E. Calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-C4 MKII \u00b7 Shane E. Calhoon"
     },
     {
       "year": 2018,
@@ -9137,10 +8488,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Live from Studio M - Triple MMM 105.5",
-      "gear": "",
-      "taper": "Webstream \u00b7 Brian",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Webstream \u00b7 Brian"
     },
     {
       "year": 2018,
@@ -9151,10 +8501,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "The Sylvee",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2019,
@@ -9165,10 +8514,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Fraser Performance Studio - WGBH Boston Public Radio",
-      "gear": "",
-      "taper": "Webstream \u00b7 Brian",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Webstream \u00b7 Brian"
     },
     {
       "year": 2019,
@@ -9179,10 +8527,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "WERS",
-      "gear": "",
-      "taper": "Webcast \u00b7 Dave Mallick",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Webcast \u00b7 Dave Mallick"
     },
     {
       "year": 2019,
@@ -9193,10 +8540,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "WNYC New Sounds 1PM",
-      "gear": "",
-      "taper": "Webstream \u00b7 Brian",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Webstream \u00b7 Brian"
     },
     {
       "year": 2019,
@@ -9207,10 +8553,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Overit Studios - WEQX Radio",
-      "gear": "",
-      "taper": "Webstream \u00b7 Brian",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Webstream \u00b7 Brian"
     },
     {
       "year": 2019,
@@ -9221,10 +8566,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Strand",
-      "gear": "",
-      "taper": "Tascam Dr-07 \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tascam Dr-07 \u00b7 Dave Mallick"
     },
     {
       "year": 2019,
@@ -9235,10 +8579,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2019,
@@ -9249,10 +8592,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2019,
@@ -9263,10 +8605,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Anthology",
-      "gear": "AT4041",
-      "taper": "Dgodwin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AT4041 \u00b7 Dgodwin"
     },
     {
       "year": 2019,
@@ -9277,10 +8618,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Amoeba Records",
-      "gear": "",
-      "taper": "Zoom Q2 \u00b7 Bob Moran",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom Q2 \u00b7 Bob Moran"
     },
     {
       "year": 2019,
@@ -9291,10 +8631,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW Morning Becomes Eclectic",
-      "gear": "",
-      "taper": "Webstream \u00b7 Brian",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Webstream \u00b7 Brian"
     },
     {
       "year": 2019,
@@ -9305,10 +8644,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW - Morning Becomes Eclectic",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -9319,10 +8657,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Ana, CA",
       "venue": "The Observatory",
-      "gear": "",
-      "taper": "Zoom Q2 \u00b7 Magicelf1980",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom Q2 \u00b7 Magicelf1980"
     },
     {
       "year": 2019,
@@ -9333,10 +8670,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theatre",
-      "gear": "",
-      "taper": "Ca-14 \u00b7 Filefly",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Ca-14 \u00b7 Filefly"
     },
     {
       "year": 2019,
@@ -9347,10 +8683,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "The Ogden Theatre",
-      "gear": "",
-      "taper": "Akg P170 \u00b7 The Space Fish",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg P170 \u00b7 The Space Fish"
     },
     {
       "year": 2019,
@@ -9361,10 +8696,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2019,
@@ -9375,10 +8709,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "The Strand Ballroom & Theatre",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2019,
@@ -9389,10 +8722,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "The Strand Ballroom & Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2019,
@@ -9403,10 +8735,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Portsmouth, NH",
       "venue": "The Music Hall",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2019,
@@ -9417,10 +8748,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "gear": "",
-      "taper": "Km201 \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201 \u00b7 Dave Mallick"
     },
     {
       "year": 2019,
@@ -9431,10 +8761,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "WNYC 93.9 - All of It 130pm",
-      "gear": "",
-      "taper": "Webstream \u00b7 Brian",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Webstream \u00b7 Brian"
     },
     {
       "year": 2019,
@@ -9445,10 +8774,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Fillmore",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2019,
@@ -9459,10 +8787,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Fillmore",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2019,
@@ -9473,10 +8800,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Fillmore",
-      "gear": "",
-      "taper": "Gefell M210s \u00b7 Jon Pasternak",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell M210s \u00b7 Jon Pasternak"
     },
     {
       "year": 2019,
@@ -9487,10 +8813,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Fillmore",
-      "gear": "",
-      "taper": "Gefell M300 \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell M300 \u00b7 Unknown"
     },
     {
       "year": 2019,
@@ -9501,10 +8826,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Lightning 100 920am",
-      "gear": "",
-      "taper": "100.1 Fm \u00b7 Webstream \u00b7 Brian",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "100.1 Fm \u00b7 Webstream \u00b7 Brian"
     },
     {
       "year": 2019,
@@ -9515,10 +8839,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2019,
@@ -9529,10 +8852,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "WXRT - Live from Xtudio X - Martyr's",
-      "gear": "",
-      "taper": "Webstream \u00b7 Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Webstream \u00b7 Brian"
     },
     {
       "year": 2019,
@@ -9543,10 +8865,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Wolf Trap - Live From Here",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "MP3"
+      "format": "MP3",
+      "notes": ""
     },
     {
       "year": 2019,
@@ -9557,10 +8878,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Littleton, CO",
       "venue": "Breckenridge Brewery",
-      "gear": "",
-      "taper": "Akg P170s \u00b7 The Space Fish",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg P170s \u00b7 The Space Fish"
     },
     {
       "year": 2019,
@@ -9571,10 +8891,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Frisco, CA",
       "venue": "Copper Mountain Ski Resort",
-      "gear": "",
-      "taper": "Akg P170s \u00b7 The Space Fish",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg P170s \u00b7 The Space Fish"
     },
     {
       "year": 2019,
@@ -9585,10 +8904,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "The Van Buren",
-      "gear": "AT853",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853 \u00b7 Unknown"
     },
     {
       "year": 2019,
@@ -9599,10 +8917,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "John Anson Ford Amphitheatre",
-      "gear": "",
-      "taper": "Zoom Q2 \u00b7 Magicelf1980",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom Q2 \u00b7 Magicelf1980"
     },
     {
       "year": 2019,
@@ -9613,10 +8930,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Pabst Theater",
-      "gear": "",
-      "taper": "Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Acady"
     },
     {
       "year": 2019,
@@ -9627,10 +8943,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Camden, NJ",
       "venue": "Wiggins Park - Xponential Music Festival",
-      "gear": "",
-      "taper": "Webstream \u00b7 Brian",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Webstream \u00b7 Brian"
     },
     {
       "year": 2019,
@@ -9641,10 +8956,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Accord, NY",
       "venue": "Arrowod Farm Brewery",
-      "gear": "",
-      "taper": "Ca-14s \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-14s \u00b7 Unknown"
     },
     {
       "year": 2019,
@@ -9655,10 +8969,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Bethlehem, PA",
       "venue": "Levitt Pavilion SteelStacks",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2019,
@@ -9669,10 +8982,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "SummerStage",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2019,
@@ -9683,10 +8995,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "First Parish Church",
-      "gear": "",
-      "taper": "Ca-14s \u00b7 Kevin Nastasia",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Ca-14s \u00b7 Kevin Nastasia"
     },
     {
       "year": 2019,
@@ -9697,10 +9008,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "First Parish Church",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2019,
@@ -9711,10 +9021,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "First Parish Church",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2019,
@@ -9725,10 +9034,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "First Parrish Church",
-      "gear": "ECM-719",
-      "taper": "Brian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian"
     },
     {
       "year": 2019,
@@ -9739,10 +9047,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2019,
@@ -9753,10 +9060,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
-      "gear": "",
-      "taper": "Lg V20 \u00b7 Kevin Nastasia",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Lg V20 \u00b7 Kevin Nastasia"
     },
     {
       "year": 2019,
@@ -9767,10 +9073,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2019,
@@ -9781,10 +9086,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Arlene Schnitzer Concert Hall",
-      "gear": "",
-      "taper": "W/ The Oregon Symphony \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "W/ The Oregon Symphony \u00b7 Acady"
     },
     {
       "year": 2019,
@@ -9795,10 +9099,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Burlington, VT",
       "venue": "Higher Ground",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2019,
@@ -9809,10 +9112,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Burlington, VT",
       "venue": "Contois Auditorium - City Hall",
-      "gear": "",
-      "taper": "Rehearsal \u00b7 Iphone \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Rehearsal \u00b7 Iphone \u00b7 Dave Mallick"
     },
     {
       "year": 2019,
@@ -9823,10 +9125,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Burlington, VT",
       "venue": "First Unitarian Universalist Society of Burlington",
-      "gear": "",
-      "taper": "Ca-14s \u00b7 Kevin Nastasia",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-14s \u00b7 Kevin Nastasia"
     },
     {
       "year": 2019,
@@ -9837,10 +9138,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Burlington, VT",
       "venue": "First Unitarian Universalist Society of Burlington",
-      "gear": "",
-      "taper": "Early \u00b7 Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Early \u00b7 Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2019,
@@ -9851,10 +9151,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Burlington, VT",
       "venue": "First Unitarian Universalist Society of Burlington",
-      "gear": "Late",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Late \u00b7 Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2019,
@@ -9865,10 +9164,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Terminal 5",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2019,
@@ -9879,10 +9177,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Terminal 5",
-      "gear": "Schoeps CCM41",
-      "taper": "Christopher Jones",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps CCM41 \u00b7 Christopher Jones"
     },
     {
       "year": 2020,
@@ -9893,10 +9190,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Stowe, VT",
       "venue": "Spruce Peak Performing Arts Center",
-      "gear": "",
-      "taper": "Secret Stash \u00b7 Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Secret Stash \u00b7 Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2020,
@@ -9907,10 +9203,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "The Boulder Theater",
-      "gear": "SP C4 MKII",
-      "taper": "The Space Fish",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP C4 MKII \u00b7 The Space Fish"
     },
     {
       "year": 2020,
@@ -9921,10 +9216,9 @@ const ARTIST_DATA = {
       "state": "NE",
       "location": "Omaha, NE",
       "venue": "Scottish Rite Masonic Center Auditorium",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2020,
@@ -9935,10 +9229,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "Englert Theater",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Acady"
     },
     {
       "year": 2020,
@@ -9949,10 +9242,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "Englert Auditorium",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2020,
@@ -9963,10 +9255,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Belcourt Theater",
-      "gear": "",
-      "taper": "Edirol R-09",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R-09"
     },
     {
       "year": 2020,
@@ -9977,10 +9268,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Sheldon Concert Hall",
-      "gear": "SP-CMC-1",
-      "taper": "Shane E. Calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-1 \u00b7 Shane E. Calhoon"
     },
     {
       "year": 2020,
@@ -9991,10 +9281,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "WXRV",
-      "gear": "",
-      "taper": "Webstream \u00b7 Dave Mallick",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Webstream \u00b7 Dave Mallick"
     },
     {
       "year": 2020,
@@ -10005,10 +9294,9 @@ const ARTIST_DATA = {
       "state": "IW",
       "location": "Council Bluffs, IW",
       "venue": "89.7 The River KIWR",
-      "gear": "",
-      "taper": "Webstream \u00b7 Brian",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Webstream \u00b7 Brian"
     },
     {
       "year": 2020,
@@ -10019,10 +9307,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Swanzey, NH",
       "venue": "Drive-in Live - Cheshire Faigrounds",
-      "gear": "",
-      "taper": "Early \u00b7 Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Early \u00b7 Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2020,
@@ -10033,10 +9320,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Swanzey, NH - Drive-in Live - Cheshire Faigrounds (Late) (KM201s) (dave mallick)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2020,
@@ -10047,10 +9333,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Swanzey, NH - Drive-in Live - Cheshire Faigrounds (Late) (ECM-719) (brian)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2020,
@@ -10061,10 +9346,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Swanzey, NH",
       "venue": "Cheshire Fair Grounds",
-      "gear": "",
-      "taper": "Ca-14 \u00b7 Kevin Nastasia",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Ca-14 \u00b7 Kevin Nastasia"
     },
     {
       "year": 2020,
@@ -10075,10 +9359,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Swanzey, NH",
       "venue": "Cheshire County Fairgrounds",
-      "gear": "",
-      "taper": "Early",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Early"
     },
     {
       "year": 2020,
@@ -10089,10 +9372,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Swanzey, NH",
       "venue": "Cheshire County Fairgrounds",
-      "gear": "",
-      "taper": "Kingjeff",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Kingjeff"
     },
     {
       "year": 2020,
@@ -10103,10 +9385,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Swanzey, NH",
       "venue": "Cheshire County Fairgrounds",
-      "gear": "Late show",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Late show"
     },
     {
       "year": 2020,
@@ -10117,10 +9398,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Swanzey, NH",
       "venue": "Cheshire Fairground",
-      "gear": "CSB",
-      "taper": "Afternoon \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Afternoon \u00b7 Unknown"
     },
     {
       "year": 2020,
@@ -10131,10 +9411,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Cape Neddick, ME",
       "venue": "Atlantic Ballroom - Cliff House",
-      "gear": "Tascam DR-100MKII",
-      "taper": "Adam Gardner \u00b7 Reebs",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Tascam DR-100MKII \u00b7 Adam Gardner \u00b7 Reebs"
     },
     {
       "year": 2021,
@@ -10145,10 +9424,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Ogunquit, ME",
       "venue": "Cliff House",
-      "gear": "Tascam DR-100MKII",
-      "taper": "Adam Gardner \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Tascam DR-100MKII \u00b7 Adam Gardner \u00b7 Dave Mallick"
     },
     {
       "year": 2021,
@@ -10159,10 +9437,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Shelburne, VT",
       "venue": "Shelburne Museum",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2021,
@@ -10173,10 +9450,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2022,
@@ -10187,10 +9463,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues",
-      "gear": "Elation KM201s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Elation KM201s \u00b7 Dave Mallick"
     },
     {
       "year": 2022,
@@ -10201,10 +9476,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Lafayette, NY",
       "venue": "Beak & Skiff Orchards",
-      "gear": "AT4041",
-      "taper": "Dgodwin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AT4041 \u00b7 Dgodwin"
     },
     {
       "year": 2022,
@@ -10215,10 +9489,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Winnetka, IL",
       "venue": "Winnetka Music Festival",
-      "gear": "",
-      "taper": "Zoom H1n \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1n \u00b7 Acady"
     },
     {
       "year": 2022,
@@ -10229,10 +9502,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Greenfield, MA",
       "venue": "Greenfiled Savings Bank Stage",
-      "gear": "ECM-719",
-      "taper": "Brian H",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-719 \u00b7 Brian H"
     },
     {
       "year": 2022,
@@ -10243,10 +9515,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Schermerhorn Symphony Center",
-      "gear": "",
-      "taper": "Tascam Dr-05 \u00b7 Dr. Ohfive",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Tascam Dr-05 \u00b7 Dr. Ohfive"
     },
     {
       "year": 2022,
@@ -10257,10 +9528,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Johnson Controls World Sound Stage",
-      "gear": "",
-      "taper": "Zoom H1n \u00b7 Acady",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1n \u00b7 Acady"
     },
     {
       "year": 2022,
@@ -10271,10 +9541,9 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Park City, UT",
       "venue": "Deer Valley Resort",
-      "gear": "",
-      "taper": "Unknown \u00b7 Cameron Frye",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Unknown \u00b7 Cameron Frye"
     },
     {
       "year": 2022,
@@ -10285,10 +9554,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Montclair, NJ",
       "venue": "Wellmont Theater",
-      "gear": "",
-      "taper": "Akg C414 Xlii \u00b7 Zachary Semcken",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Akg C414 Xlii \u00b7 Zachary Semcken"
     },
     {
       "year": 2022,
@@ -10299,10 +9567,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "",
-      "taper": "Km201s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Km201s \u00b7 Dave Mallick"
     },
     {
       "year": 2022,
@@ -10313,10 +9580,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Solana Beach, CA",
       "venue": "Belly Up",
-      "gear": "Elation KM201s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Elation KM201s \u00b7 Dave Mallick"
     },
     {
       "year": 2022,
@@ -10327,10 +9593,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Palace Theatre",
-      "gear": "Elation KM201s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Elation KM201s \u00b7 Dave Mallick"
     },
     {
       "year": 2022,
@@ -10341,10 +9606,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Palace Theatre",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H1 \u00b7 Dave Mallick"
     },
     {
       "year": 2022,
@@ -10355,10 +9619,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
-      "gear": "",
-      "taper": "Skm 184s \u00b7 Shane E. Calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Skm 184s \u00b7 Shane E. Calhoon"
     },
     {
       "year": 2022,
@@ -10369,10 +9632,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "WFPK (YouTube Rip",
-      "gear": "",
-      "taper": "91.9 Wfpk",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "91.9 Wfpk"
     },
     {
       "year": 2022,
@@ -10383,10 +9645,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "Lincoln Theatre",
-      "gear": "Elation KM201s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Elation KM201s \u00b7 Dave Mallick"
     },
     {
       "year": 2022,
@@ -10397,10 +9658,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "Lincoln Theatre )Gefell MG200s)",
-      "gear": "",
-      "taper": "Bill Lakenan",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Bill Lakenan"
     },
     {
       "year": 2022,
@@ -10411,10 +9671,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Carnegie Hall - Stern Auditorium",
-      "gear": "H1",
-      "taper": "Cameron Frye",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "H1 \u00b7 Cameron Frye"
     },
     {
       "year": 2023,
@@ -10425,10 +9684,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "The Plaza Live",
-      "gear": "",
-      "taper": "Mc012 \u00b7 Scuba",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Mc012 \u00b7 Scuba"
     },
     {
       "year": 2023,
@@ -10439,10 +9697,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Huntington, NY",
       "venue": "The Paramount",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "notes": "Unknown"
     },
     {
       "year": 2023,
@@ -10453,10 +9710,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Fillmore",
-      "gear": "",
-      "taper": "Geffell Mg200 \u00b7 Bill Lakenan",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Geffell Mg200 \u00b7 Bill Lakenan"
     },
     {
       "year": 2023,
@@ -10467,10 +9723,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "Capitol Theatre",
-      "gear": "",
-      "taper": "Bsc-1+akg460 \u00b7 Cam Keough",
       "version": "MIX",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Bsc-1+akg460 \u00b7 Cam Keough"
     },
     {
       "year": 2023,
@@ -10481,10 +9736,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "Capitol Theatre",
-      "gear": "Vanguard V1+AT 3031+AKG c414",
-      "taper": "Eric Lugassy",
       "version": "MIX",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Vanguard V1+AT 3031+AKG c414 \u00b7 Eric Lugassy"
     },
     {
       "year": 2023,
@@ -10495,10 +9749,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Washington Park",
-      "gear": "",
-      "taper": "Se Electronics \u00b7 Steve Gravel",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Se Electronics \u00b7 Steve Gravel"
     },
     {
       "year": 2023,
@@ -10509,10 +9762,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Washington Park Tulip Festival",
-      "gear": "",
-      "taper": "Ca-14s \u00b7 Jp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-14s \u00b7 Jp"
     },
     {
       "year": 2023,
@@ -10523,10 +9775,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Columbia, MD",
       "venue": "Merriweather Post Pavilion",
-      "gear": "",
-      "taper": "Geffell Mg200 \u00b7 Bill Lakenan",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Geffell Mg200 \u00b7 Bill Lakenan"
     },
     {
       "year": 2023,
@@ -10537,10 +9788,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Symphony Hall",
-      "gear": "",
-      "taper": "Unknown \u00b7 Cameron Frye",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Unknown \u00b7 Cameron Frye"
     },
     {
       "year": 2023,
@@ -10551,10 +9801,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Symphony Hall",
-      "gear": "",
-      "taper": "Unknown \u00b7 Cameron Frye",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Unknown \u00b7 Cameron Frye"
     },
     {
       "year": 2023,
@@ -10565,10 +9814,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Ventura, CA",
       "venue": "Ventura Music Hall",
-      "gear": "Elation KM201s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Elation KM201s \u00b7 Dave Mallick"
     },
     {
       "year": 2023,
@@ -10579,10 +9827,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pioneertown, CA",
       "venue": "Pappy & Harriet's Pioneertown Palace",
-      "gear": "Elation KM201s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Elation KM201s \u00b7 Dave Mallick"
     },
     {
       "year": 2023,
@@ -10593,10 +9840,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Rady Shell at Jacob's Park",
-      "gear": "Elation KM201s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Elation KM201s \u00b7 Dave Mallick"
     },
     {
       "year": 2023,
@@ -10607,10 +9853,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Rady Shell at Jacob's Park",
-      "gear": "",
-      "taper": "Set 1 \u00b7 Zoom Q2 Hd \u00b7 Magicelf1980",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Set 1 \u00b7 Zoom Q2 Hd \u00b7 Magicelf1980"
     },
     {
       "year": 2023,
@@ -10621,10 +9866,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Rady Shell at Jacob's Park",
-      "gear": "",
-      "taper": "Set 2 \u00b7 Zoom Q2 Hd \u00b7 Magicelf1980",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Set 2 \u00b7 Zoom Q2 Hd \u00b7 Magicelf1980"
     },
     {
       "year": 2023,
@@ -10635,10 +9879,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Bellvue, CO",
       "venue": "The Mishawaka Ampitheatre",
-      "gear": "SP C4 MKII",
-      "taper": "The Space Fish",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP C4 MKII \u00b7 The Space Fish"
     },
     {
       "year": 2023,
@@ -10649,10 +9892,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Bellvue, CO",
       "venue": "Mishawaka Amphitheatre",
-      "gear": "StudioProjects C4 MKII",
-      "taper": "The Space Fish",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "StudioProjects C4 MKII \u00b7 The Space Fish"
     },
     {
       "year": 2023,
@@ -10663,10 +9905,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Canandaigua, NY",
       "venue": "Lincoln Hill Farms",
-      "gear": "AT4041",
-      "taper": "Dgodwin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AT4041 \u00b7 Dgodwin"
     },
     {
       "year": 2023,
@@ -10677,10 +9918,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Canandaigua, NY",
       "venue": "Lincoln Hill Farms",
-      "gear": "",
-      "taper": "Sennheiser Ambeo \u00b7 Greg Valiquette",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sennheiser Ambeo \u00b7 Greg Valiquette"
     },
     {
       "year": 2023,
@@ -10691,10 +9931,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "Elation KM201s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Elation KM201s \u00b7 Dave Mallick"
     },
     {
       "year": 2023,
@@ -10705,10 +9944,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
-      "gear": "",
-      "taper": "Akg C414 Xlii \u00b7 Zachary Semcken",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Akg C414 Xlii \u00b7 Zachary Semcken"
     },
     {
       "year": 2023,
@@ -10719,10 +9957,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
-      "gear": "Elation KM201s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Elation KM201s \u00b7 Dave Mallick"
     },
     {
       "year": 2023,
@@ -10733,10 +9970,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
-      "gear": "",
-      "taper": "Zoom H1n \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H1n \u00b7 Acady"
     },
     {
       "year": 2023,
@@ -10747,10 +9983,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point - On the Ocean",
-      "gear": "",
-      "taper": "Akg C414 Xlii \u00b7 Zachary Semcken",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Akg C414 Xlii \u00b7 Zachary Semcken"
     },
     {
       "year": 2023,
@@ -10761,10 +9996,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
-      "gear": "Elation KM201s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Elation KM201s \u00b7 Dave Mallick"
     },
     {
       "year": 2023,
@@ -10775,10 +10009,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
-      "gear": "",
-      "taper": "Zoom H1n \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H1n \u00b7 Acady"
     },
     {
       "year": 2023,
@@ -10789,10 +10022,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "Frederik Meijer Gardens Amphitheater",
-      "gear": "",
-      "taper": "Zoom H1n \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H1n \u00b7 Acady"
     },
     {
       "year": 2023,
@@ -10803,10 +10035,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Salt Shed Fairgrounds",
-      "gear": "",
-      "taper": "Zoom H1n \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H1n \u00b7 Acady"
     },
     {
       "year": 2023,
@@ -10817,10 +10048,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Ridgefield, CT",
       "venue": "Ridgefield Playhouse",
-      "gear": "Elation KM201's",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Elation KM201's \u00b7 Dave Mallick"
     },
     {
       "year": 2023,
@@ -10831,10 +10061,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "gear": "Elation KM201 (dave mallick",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Elation KM201 (dave mallick"
     },
     {
       "year": 2023,
@@ -10845,10 +10074,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "gear": "",
-      "taper": "Zoom H4n Pro \u00b7 Dennis Heyman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H4n Pro \u00b7 Dennis Heyman"
     },
     {
       "year": 2023,
@@ -10859,10 +10087,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Puerto Morelos, MEX",
       "venue": "Dreams Sapphire Resort",
-      "gear": "",
-      "taper": "Zoom H4n Pro \u00b7 Roundlakeden",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H4n Pro \u00b7 Roundlakeden"
     },
     {
       "year": 2023,
@@ -10873,10 +10100,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Puerto Morelos, MEX",
       "venue": "Dreams Sapphire Resort",
-      "gear": "",
-      "taper": "Zoom H4n Pro \u00b7 Foundlakedan",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H4n Pro \u00b7 Foundlakedan"
     },
     {
       "year": 2024,
@@ -10887,10 +10113,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Stowe, VT",
       "venue": "Apres Only",
-      "gear": "",
-      "taper": "Ca-14 \u00b7 Kevin Nastasia",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Ca-14 \u00b7 Kevin Nastasia"
     },
     {
       "year": 2024,
@@ -10901,10 +10126,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Stowe, VT",
       "venue": "Field Guide Lodge",
-      "gear": "",
-      "taper": "Zoom H4n Pro \u00b7 Roundlakedan",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H4n Pro \u00b7 Roundlakedan"
     },
     {
       "year": 2024,
@@ -10915,10 +10139,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Oklahoma City, OK",
       "venue": "Jones Assembly",
-      "gear": "",
-      "taper": "Unknown \u00b7 J.m. Branum",
       "version": "AMT",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": "Unknown \u00b7 J.m. Branum"
     },
     {
       "year": 2024,
@@ -10929,10 +10152,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
-      "gear": "",
-      "taper": "Neumann Skm 184s \u00b7 Shane E. Calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Neumann Skm 184s \u00b7 Shane E. Calhoon"
     },
     {
       "year": 2024,
@@ -10943,10 +10165,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "The Plaza Live",
-      "gear": "",
-      "taper": "Mc012 \u00b7 Scuba",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Mc012 \u00b7 Scuba"
     },
     {
       "year": 2024,
@@ -10957,10 +10178,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Colombus, OH",
       "venue": "KEMBA LIVE!",
-      "gear": "",
-      "taper": "Zoom H1n \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H1n \u00b7 Acady"
     },
     {
       "year": 2024,
@@ -10971,10 +10191,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Rams Head Live",
-      "gear": "",
-      "taper": "Zoom H4n \u00b7 Dennis Heyman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H4n \u00b7 Dennis Heyman"
     },
     {
       "year": 2024,
@@ -10985,10 +10204,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "West Hurley, NY",
       "venue": "WDST - Radio Woodstock Steeple Session",
-      "gear": "",
-      "taper": "Ca14s \u00b7 Jp",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Ca14s \u00b7 Jp"
     },
     {
       "year": 2024,
@@ -10999,10 +10217,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Red Bank, NJ",
       "venue": "Count Basie Center for the Arts",
-      "gear": "Elation KM201s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Elation KM201s \u00b7 Dave Mallick"
     },
     {
       "year": 2024,
@@ -11013,10 +10230,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Harrisburg, PA",
       "venue": "XL Live",
-      "gear": "",
-      "taper": "Gefell Sms2000 \u00b7 Bill Lakenan",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Gefell Sms2000 \u00b7 Bill Lakenan"
     },
     {
       "year": 2024,
@@ -11027,10 +10243,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Brooklyn Paramount",
-      "gear": "",
-      "taper": "Gefell Mg210s \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Gefell Mg210s \u00b7 Dave Mallick"
     },
     {
       "year": 2024,
@@ -11041,10 +10256,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Brooklyn Paramount",
-      "gear": "",
-      "taper": "Neumann Kmr82i's \u00b7 Jon Pasternak",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Neumann Kmr82i's \u00b7 Jon Pasternak"
     },
     {
       "year": 2024,
@@ -11055,10 +10269,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "MGM Music Hall at Fenway",
-      "gear": "",
-      "taper": "Zoom H4n Pro \u00b7 Dennis Heyman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H4n Pro \u00b7 Dennis Heyman"
     },
     {
       "year": 2024,
@@ -11069,10 +10282,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Some Venue Near Fenway Park",
-      "gear": "",
-      "taper": "Zoom H1n \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H1n \u00b7 Dave Mallick"
     },
     {
       "year": 2024,
@@ -11083,10 +10295,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Dobbs Ferry, NY",
       "venue": "Mercy University Studio A",
-      "gear": "",
-      "taper": "107.1 The Peak \u00b7 Youtube Rip",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "107.1 The Peak \u00b7 Youtube Rip"
     },
     {
       "year": 2024,
@@ -11097,10 +10308,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "WXPN 88.5 World Cafe Live",
-      "gear": "",
-      "taper": "Zoom H4n Pro \u00b7 Dennis Heyman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H4n Pro \u00b7 Dennis Heyman"
     },
     {
       "year": 2024,
@@ -11111,10 +10321,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Woodstock, NY",
       "venue": "Bearsville Theater",
-      "gear": "",
-      "taper": "Zoom H4n Pro \u00b7 Dennis Heyman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H4n Pro \u00b7 Dennis Heyman"
     },
     {
       "year": 2024,
@@ -11125,10 +10334,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Woodstock, NY",
       "venue": "Bearsville Theater",
-      "gear": "",
-      "taper": "Zoom H4n Pro \u00b7 Dennis Heyman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H4n Pro \u00b7 Dennis Heyman"
     },
     {
       "year": 2024,
@@ -11139,10 +10347,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Dynasty Typewriter",
-      "gear": "",
-      "taper": "",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2024,
@@ -11153,10 +10360,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "CSU Northridge - KCSN-FM Studios",
-      "gear": "",
-      "taper": "Youtube Rip",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Youtube Rip"
     },
     {
       "year": 2024,
@@ -11167,10 +10373,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "John Anson Ford Amphitheatre",
-      "gear": "",
-      "taper": "Unknown \u00b7 Cameron Frye",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Unknown \u00b7 Cameron Frye"
     },
     {
       "year": 2024,
@@ -11181,10 +10386,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Skokie, IL",
       "venue": "Out of Space Skokie",
-      "gear": "",
-      "taper": "Zoom H1n \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1n \u00b7 Acady"
     },
     {
       "year": 2024,
@@ -11195,10 +10399,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
-      "gear": "Elation KM201s",
-      "taper": "Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Elation KM201s \u00b7 Dave Mallick"
     },
     {
       "year": 2024,
@@ -11209,10 +10412,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "",
-      "taper": "Akg C414xls \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Akg C414xls \u00b7 Dave Mallick"
     },
     {
       "year": 2024,
@@ -11223,10 +10425,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
-      "gear": "",
-      "taper": "Akg C414xls \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Akg C414xls \u00b7 Dave Mallick"
     },
     {
       "year": 2024,
@@ -11237,10 +10438,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
-      "gear": "",
-      "taper": "Akg C414 Xls \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Akg C414 Xls \u00b7 Dave Mallick"
     },
     {
       "year": 2024,
@@ -11251,10 +10451,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Beverly, MA",
       "venue": "The Cabot",
-      "gear": "",
-      "taper": "Ca-14s \u00b7 Kevin Nastasia",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-14s \u00b7 Kevin Nastasia"
     },
     {
       "year": 2024,
@@ -11265,10 +10464,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
-      "gear": "Neewer CM5s",
-      "taper": "Eddie Rolls",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Neewer CM5s \u00b7 Eddie Rolls"
     },
     {
       "year": 2024,
@@ -11279,10 +10477,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Josh Prins",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H1 \u00b7 Josh Prins"
     },
     {
       "year": 2024,
@@ -11293,10 +10490,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Viv Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H1 \u00b7 Viv Mallick"
     },
     {
       "year": 2024,
@@ -11307,10 +10503,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Ocean City, MD",
       "venue": "Ocean City Beach - Sea Bright Stage",
-      "gear": "",
-      "taper": "Lg V60 \u00b7 Hemisphire",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Lg V60 \u00b7 Hemisphire"
     },
     {
       "year": 2024,
@@ -11321,10 +10516,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Harvey Theater at BAM Strong",
-      "gear": "",
-      "taper": "Iphone \u00b7 Spicy V",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Iphone \u00b7 Spicy V"
     },
     {
       "year": 2024,
@@ -11335,10 +10529,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Green Room",
-      "gear": "",
-      "taper": "Youtube",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Youtube"
     },
     {
       "year": 2025,
@@ -11349,10 +10542,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Fillmore",
-      "gear": "AT Pro 37 mics",
-      "taper": "Dennis Heyman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AT Pro 37 mics \u00b7 Dennis Heyman"
     },
     {
       "year": 2025,
@@ -11363,10 +10555,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Majestic Theatre",
-      "gear": "",
-      "taper": "Tascam Dr-05 \u00b7 Tyler Smith",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tascam Dr-05 \u00b7 Tyler Smith"
     },
     {
       "year": 2025,
@@ -11377,10 +10568,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
-      "gear": "",
-      "taper": "Zoom H1n \u00b7 Acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1n \u00b7 Acady"
     },
     {
       "year": 2025,
@@ -11391,10 +10581,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Revolution Hall",
-      "gear": "",
-      "taper": "Unknown \u00b7 Youtube",
       "version": "WEB",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Unknown \u00b7 Youtube"
     },
     {
       "year": 2025,
@@ -11405,10 +10594,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theatre",
-      "gear": "",
-      "taper": "Akg C414 \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Akg C414 \u00b7 Dave Mallick"
     },
     {
       "year": 2025,
@@ -11419,10 +10607,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Orpheum Theater",
-      "gear": "",
-      "taper": "Akg C414 Xls \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Akg C414 Xls \u00b7 Dave Mallick"
     },
     {
       "year": 2025,
@@ -11433,10 +10620,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Orpheum Theater",
-      "gear": "",
-      "taper": "Zoom Q2hd \u00b7 Magicelf1980",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom Q2hd \u00b7 Magicelf1980"
     },
     {
       "year": 2025,
@@ -11447,10 +10633,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Kennedy Center Concert Hall",
-      "gear": "",
-      "taper": "Unknown \u00b7 Cameron Frye",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Unknown \u00b7 Cameron Frye"
     },
     {
       "year": 2025,
@@ -11461,10 +10646,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Kennedy Center Concert Hall",
-      "gear": "",
-      "taper": "Deity Pr2 \u00b7 Pippi Longstocking",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Deity Pr2 \u00b7 Pippi Longstocking"
     },
     {
       "year": 2025,
@@ -11475,10 +10659,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Kennedy Center Concert Hall",
-      "gear": "",
-      "taper": "Lg V60 \u00b7 Hemisphire",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Lg V60 \u00b7 Hemisphire"
     },
     {
       "year": 2025,
@@ -11489,10 +10672,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Kennedy Center Concert Hall",
-      "gear": "",
-      "taper": "Unknown \u00b7 Cameron Frye",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Unknown \u00b7 Cameron Frye"
     },
     {
       "year": 2025,
@@ -11503,10 +10685,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Kennedy Center Concert Hall",
-      "gear": "",
-      "taper": "Deity Pr2 \u00b7 Zack Morris",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Deity Pr2 \u00b7 Zack Morris"
     },
     {
       "year": 2025,
@@ -11517,10 +10698,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Kennedy Center Concert Hall",
-      "gear": "",
-      "taper": "Iphone \u00b7 Penelope Garcia",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Iphone \u00b7 Penelope Garcia"
     },
     {
       "year": 2025,
@@ -11531,10 +10711,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Greek Theatre",
-      "gear": "",
-      "taper": "Zoom Q2 \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom Q2 \u00b7 Unknown"
     },
     {
       "year": 2025,
@@ -11545,10 +10724,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Chautauqua, NY",
       "venue": "Chautauqua Institution",
-      "gear": "",
-      "taper": "Beyerdynamic Ck930 \u00b7 Dgodwin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Beyerdynamic Ck930 \u00b7 Dgodwin"
     },
     {
       "year": 2025,
@@ -11559,10 +10737,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Hammondsport, NY",
       "venue": "Point of the Bluff Vineyards",
-      "gear": "",
-      "taper": "Beyerdynamic Ck930 \u00b7 Dgodwin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Beyerdynamic Ck930 \u00b7 Dgodwin"
     },
     {
       "year": 2025,
@@ -11573,10 +10750,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Hammondsport, NY",
       "venue": "Point of the Bluff Vineyards",
-      "gear": "",
-      "taper": "Beyerdynamic Mc740 \u00b7 Dgodwin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Beyerdynamic Mc740 \u00b7 Dgodwin"
     },
     {
       "year": 2025,
@@ -11587,10 +10763,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Rooftop at Pier 17",
-      "gear": "",
-      "taper": "Unknown \u00b7 Youtube Rip",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Youtube Rip"
     },
     {
       "year": 2025,
@@ -11601,10 +10776,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "",
-      "taper": "Akg C414 Xls \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Akg C414 Xls \u00b7 Dave Mallick"
     },
     {
       "year": 2025,
@@ -11615,10 +10789,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "",
-      "taper": "Zoom F3 \u00b7 Dennis Heyman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom F3 \u00b7 Dennis Heyman"
     },
     {
       "year": 2025,
@@ -11629,10 +10802,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
-      "gear": "",
-      "taper": "Akg C414 Xls \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Akg C414 Xls \u00b7 Dave Mallick"
     },
     {
       "year": 2025,
@@ -11643,10 +10815,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
-      "gear": "",
-      "taper": "Akg C414 Xls \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Akg C414 Xls \u00b7 Dave Mallick"
     },
     {
       "year": 2025,
@@ -11657,10 +10828,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
-      "gear": "",
-      "taper": "Zoom F3 \u00b7 Dennis Heyman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom F3 \u00b7 Dennis Heyman"
     },
     {
       "year": 2025,
@@ -11671,10 +10841,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
-      "gear": "",
-      "taper": "Beyerdynamic Ck930 + Cv 900 \u00b7 Dgodwin + Mgodwin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Beyerdynamic Ck930 + Cv 900 \u00b7 Dgodwin + Mgodwin"
     },
     {
       "year": 2025,
@@ -11685,10 +10854,9 @@ const ARTIST_DATA = {
       "state": "HI",
       "location": "Lana'i, HI",
       "venue": "Lana'i Ocean Theater - Four Seasons Lana'i Resort",
-      "gear": "",
-      "taper": "Akg C414 Cls \u00b7 Dave Mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Akg C414 Cls \u00b7 Dave Mallick"
     }
   ]
 };

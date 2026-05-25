@@ -21,10 +21,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "gear": "Shure VP88",
-      "taper": "mhg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Shure VP88 \u00b7 mhg"
     },
     {
       "year": 1995,
@@ -35,10 +34,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Hardrock's The Joint (M)",
-      "gear": "Sony ECM 909A",
-      "taper": "marco moir",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM 909A \u00b7 marco moir"
     },
     {
       "year": 2001,
@@ -49,10 +47,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Shine Club",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2025,
@@ -63,10 +60,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Ruoff Music Cemter",
-      "gear": "SP-CMC-08s",
-      "taper": "ironchef",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-08s \u00b7 ironchef"
     }
   ]
 };

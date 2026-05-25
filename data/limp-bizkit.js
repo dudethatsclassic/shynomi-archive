@@ -28,10 +28,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore",
-      "gear": "unk",
-      "taper": "neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1998,
@@ -42,10 +41,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Walnut Creek Amphitheatre - Ozzfest",
-      "gear": "Realistic Minisette-20",
-      "taper": "shynomi",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Realistic Minisette-20 \u00b7 shynomi"
     },
     {
       "year": 1999,
@@ -56,10 +54,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "ARCO Arena",
-      "gear": "",
-      "taper": "xpl212",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "xpl212"
     },
     {
       "year": 1999,
@@ -70,10 +67,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "American West Arena",
-      "gear": "CSB",
-      "taper": "spaceboy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 spaceboy"
     },
     {
       "year": 2001,
@@ -84,10 +80,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Nurburgring, Germany",
       "venue": "Rock Am Ring",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -98,10 +93,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Finsbury Park",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": ""
     },
     {
       "year": 2009,
@@ -112,10 +106,9 @@ const ARTIST_DATA = {
       "state": "Hungary",
       "location": "Sopron, Hungary",
       "venue": "Liver Kemping - Volt Festival",
-      "gear": "SP-CMC-4",
-      "taper": "ufonight",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-4 \u00b7 ufonight"
     },
     {
       "year": 2013,
@@ -126,10 +119,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Rams Head Live",
-      "gear": "AKG CK61 + Shure IEM",
-      "taper": "jlizard",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AKG CK61 + Shure IEM \u00b7 jlizard"
     },
     {
       "year": 2013,
@@ -140,10 +132,9 @@ const ARTIST_DATA = {
       "state": "Brazil",
       "location": "Sao Paulo, Brazil",
       "venue": "Arena Anhembi",
-      "gear": "",
-      "taper": "HDTV Proshot",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "notes": "HDTV Proshot"
     },
     {
       "year": 2019,
@@ -154,10 +145,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "The Troubadour",
-      "gear": "Roland R-05",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Roland R-05 \u00b7 Unknown"
     },
     {
       "year": 2022,
@@ -168,10 +158,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Youngstown, OH",
       "venue": "Covellie Centre",
-      "gear": "AT853U",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853U \u00b7 live2cd"
     },
     {
       "year": 2022,
@@ -182,10 +171,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Ontario, CA",
       "venue": "Toyota Arena",
-      "gear": "SP-CMC-8",
-      "taper": "fried_morals",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 fried_morals"
     },
     {
       "year": 2023,
@@ -196,10 +184,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Nunberg, Germany",
       "venue": "Rock im Park",
-      "gear": "CA-14",
-      "taper": "rasensteine",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14 \u00b7 rasensteine"
     },
     {
       "year": 2023,
@@ -210,10 +197,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Discovery Park - Aftershock Festival",
-      "gear": "Schoeps MK4s",
-      "taper": "tj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4s \u00b7 tj"
     },
     {
       "year": 2024,
@@ -224,10 +210,9 @@ const ARTIST_DATA = {
       "state": "Chile",
       "location": "Santiago, Chile",
       "venue": "Banco de Chile Stage - Lollapalooza",
-      "gear": "",
-      "taper": "fstambuk",
       "version": "Webcast",
-      "format": "MKV"
+      "format": "MKV",
+      "notes": "fstambuk"
     },
     {
       "year": 2024,
@@ -238,10 +223,9 @@ const ARTIST_DATA = {
       "state": "Brazil",
       "location": "Sao Paulo, Brazil",
       "venue": "Lollapalooza",
-      "gear": "",
-      "taper": "1080 TV Broadcast",
       "version": "TV",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": "1080 TV Broadcast"
     },
     {
       "year": 2024,
@@ -252,10 +236,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Concord Pavilion",
-      "gear": "Schoeps MK4s",
-      "taper": "tj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4s \u00b7 tj"
     },
     {
       "year": 2024,
@@ -266,10 +249,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Bernardino, CA",
       "venue": "Glen Helen Amphitheater",
-      "gear": "Sony PCM-A10",
-      "taper": "miguelr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony PCM-A10 \u00b7 miguelr"
     }
   ]
 };

@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Bradley Center",
-      "gear": "Sonic Studios",
-      "taper": "frankmhere",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sonic Studios \u00b7 frankmhere"
     },
     {
       "year": 2022,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Nissan Stadium",
-      "gear": "SP-OMC-8",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-OMC-8 \u00b7 Unknown"
     },
     {
       "year": 2022,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Orchard Park, NY",
       "venue": "Highmark Stadium",
-      "gear": "CA-11s",
-      "taper": "heywood",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-11s \u00b7 heywood"
     },
     {
       "year": 2023,
@@ -62,10 +59,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "The Colosseum at Caesars Palace",
-      "gear": "SP-CMC-4U",
-      "taper": "ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-4U \u00b7 ijwthstd"
     }
   ]
 };

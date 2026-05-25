@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Redmond, WA",
       "venue": "Marymoor Park",
-      "gear": "",
-      "taper": "X - Opening for Blondie",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "X - Opening for Blondie"
     }
   ]
 };

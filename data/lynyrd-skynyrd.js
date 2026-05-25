@@ -29,10 +29,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Memphis, TN",
       "venue": "WMC-FM Radio",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1973,
@@ -43,10 +42,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "LA Forum",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1973,
@@ -57,10 +55,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "LA Forum",
-      "gear": "",
-      "taper": "inc",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "inc"
     },
     {
       "year": 1974,
@@ -71,10 +68,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Civic Center",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1975,
@@ -85,10 +81,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Richmond, VA",
       "venue": "The Mosque",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1975,
@@ -99,10 +94,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Chattanooga, TN",
       "venue": "Soldiers and Sailors Memorial Auditorium",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1975,
@@ -113,10 +107,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "St. Petersburg, FL",
       "venue": "Bayfront Center",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1975,
@@ -127,10 +120,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "St. Petersburg, FL",
       "venue": "Bayfront Center - ANA(x)",
-      "gear": "unk",
-      "taper": "wes meyette",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 wes meyette"
     },
     {
       "year": 1975,
@@ -141,10 +133,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Frankfurt, Germany",
       "venue": "Jahrhunderthalle",
-      "gear": "Telfunken Magnetophon",
-      "taper": "hb",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Telfunken Magnetophon \u00b7 hb"
     },
     {
       "year": 1975,
@@ -155,10 +146,9 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "Cardiff Castle",
-      "gear": "",
-      "taper": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1975,
@@ -169,10 +159,9 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "The Unreleased KBFH Show",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1975,
@@ -183,10 +172,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Salle Pleyel",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1976,
@@ -197,10 +185,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Winterland",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1976,
@@ -211,10 +198,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
-      "gear": "",
-      "taper": "steve hopkins",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "steve hopkins"
     },
     {
       "year": 1976,
@@ -225,10 +211,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Lakeland, FL",
       "venue": "Civic Center",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1976,
@@ -239,10 +224,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Stevenage, England",
       "venue": "Knebworth Park",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1976,
@@ -253,10 +237,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Stevenage, England",
       "venue": "Knebworth Park *Teaching An Oakie To Fly",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": ""
     },
     {
       "year": 1976,
@@ -267,10 +250,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cape Cod, MA",
       "venue": "Cape Cod Coliseum",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1976,
@@ -281,10 +263,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "South Yarmouth, MA",
       "venue": "Cape Cod Coliseum",
-      "gear": "Sony ECM-99",
-      "taper": "dan lampinski",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sony ECM-99 \u00b7 dan lampinski"
     },
     {
       "year": 1977,
@@ -295,10 +276,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Nikano Sun Plaza",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1977,
@@ -309,10 +289,9 @@ const ARTIST_DATA = {
       "state": "Japan *The Last Flight [Silver]",
       "location": "Osaka, Japan *The Last Flight [Silver]",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1977,
@@ -323,10 +302,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Sheffield, UK",
       "venue": "City Hall",
-      "gear": "",
-      "taper": "with soundcheck",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "with soundcheck"
     },
     {
       "year": 1977,
@@ -337,10 +315,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "John F. Kennedy Stadium",
-      "gear": "",
-      "taper": "thebadest",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "thebadest"
     },
     {
       "year": 1977,
@@ -351,10 +328,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Asbury Park, NJ",
       "venue": "Convention Hall",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1977,
@@ -365,10 +341,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fresno, CA",
       "venue": "Selland Arena",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1977,
@@ -379,10 +354,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Crash Reports (93.1 WXRT & ABC News)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "FM & TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1978,
@@ -393,10 +367,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Doraville, GA",
       "venue": "Studio One",
-      "gear": "",
-      "taper": "Superjam 78",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Superjam 78"
     },
     {
       "year": 1987,
@@ -407,10 +380,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Concord Pavilion (Source 2)",
-      "gear": "Shure SM58",
-      "taper": "marcus buick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Shure SM58 \u00b7 marcus buick"
     },
     {
       "year": 1988,
@@ -421,10 +393,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "gear": "",
-      "taper": "WW1",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "WW1"
     },
     {
       "year": 1993,
@@ -435,10 +406,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Conference Room (WLUP FM) - ANA",
-      "gear": "M",
-      "taper": "krw_co",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 krw_co"
     },
     {
       "year": 1993,
@@ -449,10 +419,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "WRDU Studios - 6PM",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -463,10 +432,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Lakewood Amphitheater",
-      "gear": "",
-      "taper": "WW1",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "WW1"
     },
     {
       "year": 1995,
@@ -477,10 +445,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Bonner Springs, KS",
       "venue": "Sandstone Amphitheatre",
-      "gear": "",
-      "taper": "DAT",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DAT"
     },
     {
       "year": 1995,
@@ -491,10 +458,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheatre",
-      "gear": "",
-      "taper": "ballsdeep 2018 remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ballsdeep 2018 remaster"
     },
     {
       "year": 2018,
@@ -505,10 +471,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Buckhead Theatre",
-      "gear": "",
-      "taper": "Sirius",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sirius"
     }
   ]
 };

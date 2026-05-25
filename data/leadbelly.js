@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Hogg Auditorium - University of Texas",
-      "gear": "",
-      "taper": "KUT Radio Broadcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "KUT Radio Broadcast"
     }
   ]
 };

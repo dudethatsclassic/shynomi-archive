@@ -29,10 +29,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Winooski, VT",
       "venue": "Higher Ground",
-      "gear": "Sony ECM-MS907",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-MS907"
     },
     {
       "year": 2001,
@@ -43,10 +42,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
-      "gear": "",
-      "taper": "Csb/mod",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Csb/mod"
     },
     {
       "year": 2002,
@@ -57,10 +55,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's BBQ",
-      "gear": "",
-      "taper": "Oktava Mc012 \u00b7 Mark Phillips",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Oktava Mc012 \u00b7 Mark Phillips"
     },
     {
       "year": 2003,
@@ -71,10 +68,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "gear": "",
-      "taper": "Chris Gacek",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Chris Gacek"
     },
     {
       "year": 2004,
@@ -85,10 +81,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox",
-      "gear": "",
-      "taper": "Akg 480s \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Akg 480s \u00b7 Unknown"
     },
     {
       "year": 2004,
@@ -99,10 +94,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Henry Fonda Theatre",
-      "gear": "DPA 4061s",
-      "taper": "Ed Davis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061s \u00b7 Ed Davis"
     },
     {
       "year": 2004,
@@ -113,10 +107,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mission Beach, CA",
       "venue": "Canes Ballroom",
-      "gear": "AT831s",
-      "taper": "Tyler Huff",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "AT831s \u00b7 Tyler Huff"
     },
     {
       "year": 2004,
@@ -127,10 +120,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "Black Cat",
-      "gear": "",
-      "taper": "Mbho 603a/ka2000n \u00b7 Scott",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Mbho 603a/ka2000n \u00b7 Scott"
     },
     {
       "year": 2004,
@@ -141,10 +133,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Gothenburg, Sweden",
       "venue": "Accelerator Festival - Tra?dga?r'n",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2004,
@@ -155,10 +146,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Laguna Beach, CA",
       "venue": "Acoustic X-Mas",
-      "gear": "AT831",
-      "taper": "James Mercer Solo \u00b7 Ljsurfer2002",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT831 \u00b7 James Mercer Solo \u00b7 Ljsurfer2002"
     },
     {
       "year": 2004,
@@ -169,10 +159,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "KROQ Almost Acoustic Christmas - Gibson Amphitheatre",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2005,
@@ -183,10 +172,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "gear": "",
-      "taper": "Sr-71s \u00b7 Dan Lang",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sr-71s \u00b7 Dan Lang"
     },
     {
       "year": 2005,
@@ -197,10 +185,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "89.3 KCMP Studios",
-      "gear": "",
-      "taper": "Chris",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Chris"
     },
     {
       "year": 2005,
@@ -211,10 +198,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "The Kool Haus",
-      "gear": "Schoeps CCM41",
-      "taper": "Fares Halteh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps CCM41 \u00b7 Fares Halteh"
     },
     {
       "year": 2005,
@@ -225,10 +211,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Hec Ed Pavilion - University of Washington",
-      "gear": "SP-CMC-2",
-      "taper": "Mycarrion",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-2 \u00b7 Mycarrion"
     },
     {
       "year": 2006,
@@ -239,10 +224,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Grant Park - Lollapalooza",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2006,
@@ -253,10 +237,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "McCarren Pool",
-      "gear": "Schoeps MK64",
-      "taper": "Vg/bel",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK64 \u00b7 Vg/bel"
     },
     {
       "year": 2006,
@@ -267,10 +250,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Gigantic Studios",
-      "gear": "",
-      "taper": "Dave Caley",
       "version": "Webcast",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Dave Caley"
     },
     {
       "year": 2007,
@@ -281,10 +263,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW Studios",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2007,
@@ -295,10 +276,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington, D.C.",
       "venue": "DAR Constitution Hall",
-      "gear": "",
-      "taper": "Ca-stc-11s \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-stc-11s \u00b7 Unknown"
     },
     {
       "year": 2007,
@@ -309,10 +289,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Kool Haus",
-      "gear": "CSC",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSC \u00b7 Unknown"
     },
     {
       "year": 2007,
@@ -323,10 +302,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, Australia",
       "venue": "Enmore Theatre",
-      "gear": "Sony STR-DE598",
-      "taper": "Franger",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony STR-DE598 \u00b7 Franger"
     },
     {
       "year": 2007,
@@ -337,10 +315,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theatre",
-      "gear": "Schoeps CMC34",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps CMC34 \u00b7 Unknown"
     },
     {
       "year": 2009,
@@ -351,10 +328,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
-      "gear": "",
-      "taper": "Zoom H2 \u00b7 Happy Jack",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H2 \u00b7 Happy Jack"
     },
     {
       "year": 2012,
@@ -365,10 +341,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Germany",
       "venue": "Berlin Huxley's Neue Welt",
-      "gear": "",
-      "taper": "Nokia Dbox2 \u00b7 Elaljoscha",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nokia Dbox2 \u00b7 Elaljoscha"
     },
     {
       "year": 2012,
@@ -379,10 +354,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW Morning Becomes Eclectic - Apogee Studio",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2012,
@@ -393,10 +367,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Manchester, TN",
       "venue": "Bonnaroo Festival - What Stage",
-      "gear": "SP-CMC-2",
-      "taper": "Billfloyd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-2 \u00b7 Billfloyd"
     },
     {
       "year": 2012,
@@ -407,10 +380,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Byron Bay, Australia",
       "venue": "Splendour in the Grass Festival",
-      "gear": "",
-      "taper": "Roman79 Conversion",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Roman79 Conversion"
     },
     {
       "year": 2012,
@@ -421,10 +393,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Joint",
-      "gear": "",
-      "taper": "Edirol R09 \u00b7 Luke Freteluco",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R09 \u00b7 Luke Freteluco"
     },
     {
       "year": 2016,
@@ -435,10 +406,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "Village Underground",
-      "gear": "Schoeps CCM5",
-      "taper": "Duncan",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps CCM5 \u00b7 Duncan"
     },
     {
       "year": 2017,
@@ -449,10 +419,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Summerfest - BMO Harris Pavilion",
-      "gear": "Sony PCM-M10",
-      "taper": "Jot",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony PCM-M10 \u00b7 Jot"
     },
     {
       "year": 2017,
@@ -463,10 +432,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Brooklyn, NC",
       "venue": "Kings Theatre",
-      "gear": "",
-      "taper": "Ca-14s \u00b7 Larryrulz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-14s \u00b7 Larryrulz"
     }
   ]
 };

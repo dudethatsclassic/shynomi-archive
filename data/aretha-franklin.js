@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "Jamaica",
       "location": "Montego Bay, Jamaica",
       "venue": "Jamaica World Music Festival. - CASS",
-      "gear": "",
-      "taper": "M",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M"
     }
   ]
 };

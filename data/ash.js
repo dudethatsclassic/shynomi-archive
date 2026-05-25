@@ -27,10 +27,9 @@ const ARTIST_DATA = {
       "state": "Norway",
       "location": "Kristiansand, Norway",
       "venue": "Quartfestivalen - NRK P3",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -41,10 +40,9 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Malmo, Sweden",
       "venue": "KB",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -55,10 +53,9 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Riddarholmen - ANA(M)",
-      "gear": "unk",
-      "taper": "qew transfer",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "unk \u00b7 qew transfer"
     },
     {
       "year": 1998,
@@ -69,10 +66,9 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "Cooper's Field - Radio One",
-      "gear": "",
-      "taper": "drumsboy transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "drumsboy transfer"
     },
     {
       "year": 2001,
@@ -83,10 +79,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Galway, Ireland",
       "venue": "Castlegar Sports Grounds",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2002,
@@ -97,10 +92,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "The Astoria Theatre - DAT(M)",
-      "gear": "Marantz EM8",
-      "taper": "gary watson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Marantz EM8 \u00b7 gary watson"
     },
     {
       "year": 2004,
@@ -111,10 +105,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "County Kildare, Ireland",
       "venue": "Oxygen Festival",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2004,
@@ -125,10 +118,9 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Zambujeira do Mar, Portugal",
       "venue": "Sudoeste Festival - Herdade da Casa Branca",
-      "gear": "",
-      "taper": "kreative",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "kreative"
     },
     {
       "year": 2007,
@@ -139,10 +131,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Die Roehre",
-      "gear": "MBHO MBP 603A",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MBHO MBP 603A \u00b7 Unknown"
     },
     {
       "year": 2013,
@@ -153,10 +144,9 @@ const ARTIST_DATA = {
       "state": "Sesimbra Portugal",
       "location": "Meco, Sesimbra Portugal",
       "venue": "SuperBock SuperRock Festival",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2014,
@@ -167,10 +157,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Echo",
-      "gear": "Nakamichi CM100",
-      "taper": "markp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nakamichi CM100 \u00b7 markp"
     },
     {
       "year": 2015,
@@ -181,10 +170,9 @@ const ARTIST_DATA = {
       "state": "England /Sound Control (Sony ECM-125) (unk)",
       "location": "Manchester, England /Sound Control (Sony ECM-125) (unk)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     }
   ]
 };

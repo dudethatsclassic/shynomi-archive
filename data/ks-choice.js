@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Waltham, MA",
       "venue": "Brandeis University",
-      "gear": "Sennheiser MKE-2002",
-      "taper": "stevemtl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sennheiser MKE-2002 \u00b7 stevemtl"
     },
     {
       "year": 2023,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Maastricht, The Netherlands",
       "venue": "Muziekgieterij",
-      "gear": "DPA 4061",
-      "taper": "stl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061 \u00b7 stl"
     },
     {
       "year": 2023,
@@ -47,10 +45,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Brussels, Belgium",
       "venue": "Ancienne Belgique",
-      "gear": "DPA 4061SG",
-      "taper": "stl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061SG \u00b7 stl"
     },
     {
       "year": 2023,
@@ -61,10 +58,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Lie?ge, Belgium",
       "venue": "Classic 21 Festival 2023 - Country Hall",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2023,
@@ -75,10 +71,9 @@ const ARTIST_DATA = {
       "state": "Leuven, Belgium",
       "location": "Oude Markt, Leuven, Belgium",
       "venue": "Beleuvenissen",
-      "gear": "CA-14",
-      "taper": "trebor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14 \u00b7 trebor"
     },
     {
       "year": 2023,
@@ -89,10 +84,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Deurne, Belgium",
       "venue": "OLT Rivierenhof",
-      "gear": "DPA 4061",
-      "taper": "stl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061 \u00b7 stl"
     },
     {
       "year": 2023,
@@ -103,10 +97,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Deurne, Belgium",
       "venue": "Openluchttheater Rivierenhof",
-      "gear": "Sony ECM 717",
-      "taper": "tisnix",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM 717 \u00b7 tisnix"
     },
     {
       "year": 2023,
@@ -117,10 +110,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Deurne, Belgium",
       "venue": "OLT Rivierenhof",
-      "gear": "DPA 4061",
-      "taper": "stl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061 \u00b7 stl"
     }
   ]
 };

@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rosemont, IL",
       "venue": "Allstate Arena",
-      "gear": "Sony MZ-NF610",
-      "taper": "roy martin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony MZ-NF610 \u00b7 roy martin"
     }
   ]
 };

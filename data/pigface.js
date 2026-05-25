@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "The Metropol",
-      "gear": "w/ Trent Reznor",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "notes": "w/ Trent Reznor \u00b7 Unknown"
     },
     {
       "year": 1991,
@@ -32,10 +31,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "The Metropol",
-      "gear": "",
-      "taper": "w/ Trent Reznor",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": "w/ Trent Reznor"
     }
   ]
 };

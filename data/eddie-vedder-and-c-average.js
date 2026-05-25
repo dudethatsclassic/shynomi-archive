@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Alpine Valley Music Theatre - Tibetan Freedom Concert",
-      "gear": "",
-      "taper": "WW1 #99-50 (M) + Shure SM98",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "WW1 #99-50 (M) + Shure SM98"
     },
     {
       "year": 1999,
@@ -32,10 +31,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Alpine Valley Music Theatre - Tibetan Freedom Concert",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -46,10 +44,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Alpine Valley Music Theatre - Tibetan Freedom Concert - AUD",
-      "gear": "",
-      "taper": "M",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "M"
     },
     {
       "year": 1999,
@@ -60,10 +57,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Palladium",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -74,10 +70,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington",
       "venue": "510 Columbia Street Theater",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -88,10 +83,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -102,10 +96,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1999,
@@ -116,10 +109,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "global voodoo",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "global voodoo"
     }
   ]
 };

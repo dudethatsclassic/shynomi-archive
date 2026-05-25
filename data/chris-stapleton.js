@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Country to Country Festival (C2C) BBC Radio 2",
-      "gear": "",
-      "taper": "C2C",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2C"
     },
     {
       "year": 2016,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "CMA Festival 2016",
-      "gear": "Edirol R-09",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R-09 \u00b7 Unknown"
     },
     {
       "year": 2016,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Manchester, TN",
       "venue": "Bonnaroo Music and Arts Festival - What Stage",
-      "gear": "DPA 4021s",
-      "taper": "d. fries",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4021s \u00b7 d. fries"
     },
     {
       "year": 2016,
@@ -62,10 +59,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits Music Festival",
-      "gear": "",
-      "taper": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2018,
@@ -76,10 +72,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Xfinity Theatre - Farm Aid 33",
-      "gear": "",
-      "taper": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2023,
@@ -90,10 +85,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Canandaigua, NY",
       "venue": "CMAC",
-      "gear": "Sennheiser AMBEO",
-      "taper": "thriftynomad",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sennheiser AMBEO \u00b7 thriftynomad"
     }
   ]
 };

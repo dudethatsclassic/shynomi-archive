@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Liberty Lunch SXSW Festival",
-      "gear": "MarcSounds",
-      "taper": "markp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MarcSounds \u00b7 markp"
     },
     {
       "year": 1995,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Glastonbury, UK",
       "venue": "Glastonbury Festival",
-      "gear": "BBC Radio 6",
-      "taper": "pawel",
       "version": "FM",
-      "format": "M4A"
+      "format": "M4A",
+      "notes": "BBC Radio 6 \u00b7 pawel"
     },
     {
       "year": 1999,
@@ -47,10 +45,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Caversham, UK",
       "venue": "Reading Festival",
-      "gear": "",
-      "taper": "pawel",
       "version": "FM",
-      "format": "M4A"
+      "format": "M4A",
+      "notes": "pawel"
     }
   ]
 };

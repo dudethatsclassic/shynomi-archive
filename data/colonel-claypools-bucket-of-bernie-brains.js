@@ -26,10 +26,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "State Palace Theatre",
-      "gear": "",
-      "taper": "2 cam",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "2 cam"
     },
     {
       "year": 2004,
@@ -40,10 +39,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Riviera",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -54,10 +52,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Royal Oak, MI",
       "venue": "Royal Oak Theatre",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -68,10 +65,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Nation",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -82,10 +78,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Roxy",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -96,10 +91,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -110,10 +104,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -124,10 +117,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -138,10 +130,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -152,10 +143,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "gear": "Schoeps MK4",
-      "taper": "team no drama",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK4 \u00b7 team no drama"
     },
     {
       "year": 2004,
@@ -166,10 +156,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Variety Playhouse",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -180,10 +169,9 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "The Velvet Room",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -194,10 +182,9 @@ const ARTIST_DATA = {
       "state": "NM",
       "location": "Albuquerque, NM",
       "venue": "Sunshine Theater",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -208,10 +195,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "House of Blues",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -222,10 +208,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tempe, AZ",
       "venue": "Marquee Theater",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "MP3"
+      "format": "MP3",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -236,10 +221,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "4th & B",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -250,10 +234,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Avalon",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -264,10 +247,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -278,10 +260,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "The Catalyst",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -292,10 +273,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Crest Theater",
-      "gear": "",
-      "taper": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "C2B3 Live"
     },
     {
       "year": 2004,
@@ -306,10 +286,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Roseland Theater - DAT(M)",
-      "gear": "Nakamichi CM-300s",
-      "taper": "chris mcgrath",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Nakamichi CM-300s \u00b7 chris mcgrath"
     },
     {
       "year": 2000,
@@ -320,10 +299,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Angel's Camp, CA",
       "venue": "Mountain Aire Festival",
-      "gear": "",
-      "taper": "First show",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "First show"
     },
     {
       "year": 2001,
@@ -334,10 +312,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Warfield Theatre",
-      "gear": "KM140s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "KM140s \u00b7 Unknown"
     },
     {
       "year": 2001,
@@ -348,10 +325,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
-      "gear": "Gefell M210s",
-      "taper": "jon pasternak",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Gefell M210s \u00b7 jon pasternak"
     },
     {
       "year": 2001,
@@ -362,10 +338,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theatre",
-      "gear": "AKG 391",
-      "taper": "zach andersson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AKG 391 \u00b7 zach andersson"
     },
     {
       "year": 2001,
@@ -376,10 +351,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupos Heartbreak Hotel",
-      "gear": "Neumann SKM-184",
-      "taper": "david keller",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Neumann SKM-184 \u00b7 david keller"
     },
     {
       "year": 2002,
@@ -390,10 +364,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "The Vogue",
-      "gear": "Neumann TLM170",
-      "taper": "matt lazor",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Neumann TLM170 \u00b7 matt lazor"
     },
     {
       "year": 2002,
@@ -404,10 +377,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Tower City Amphitheater",
-      "gear": "AKG 481s",
-      "taper": "michael schaefer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AKG 481s \u00b7 michael schaefer"
     },
     {
       "year": 2002,
@@ -418,10 +390,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "PromoWest Pavilion",
-      "gear": "AKG 481",
-      "taper": "michael schaefer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AKG 481 \u00b7 michael schaefer"
     },
     {
       "year": 2002,
@@ -432,10 +403,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Roseland Theater - DAT(M)",
-      "gear": "Nakamichi CM-300s",
-      "taper": "chris mcgrath",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Nakamichi CM-300s \u00b7 chris mcgrath"
     },
     {
       "year": 2002,
@@ -446,10 +416,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's Heartbreak Hotel",
-      "gear": "AKG C1000s",
-      "taper": "george johnson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AKG C1000s \u00b7 george johnson"
     },
     {
       "year": 2002,
@@ -460,10 +429,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "The Quest",
-      "gear": "",
-      "taper": "scott t. remaster",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "scott t. remaster"
     },
     {
       "year": 2003,
@@ -474,10 +442,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Memphis, TN",
       "venue": "New Daisy Theatre - DAT",
-      "gear": "",
-      "taper": "M",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M"
     },
     {
       "year": 2003,
@@ -488,10 +455,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "Headliner's - DAT(M)",
-      "gear": "MG 210",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "MG 210 \u00b7 Unknown"
     },
     {
       "year": 2023,
@@ -502,10 +468,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "Civic Auditorium",
-      "gear": "DPA 4021",
-      "taper": "eman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4021 \u00b7 eman"
     },
     {
       "year": 2023,
@@ -516,10 +481,9 @@ const ARTIST_DATA = {
       "state": "MO - Grinders KC (DPA 4061s) (kcmoejoe)",
       "location": "Kansas City, MO - Grinders KC (DPA 4061s) (kcmoejoe)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2023,
@@ -530,10 +494,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Grinders",
-      "gear": "Internal mics",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Internal mics \u00b7 Unknown"
     },
     {
       "year": 2023,
@@ -544,10 +507,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Iroquois Amphitheater",
-      "gear": "Schoeps MK4v",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4v \u00b7 Unknown"
     },
     {
       "year": 2023,
@@ -558,10 +520,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Buffalo NY",
       "venue": "Town Ballroom",
-      "gear": "Sennheiser Ambeo",
-      "taper": "grizzly adams",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sennheiser Ambeo \u00b7 grizzly adams"
     },
     {
       "year": 2023,
@@ -572,10 +533,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "KEMBA Live!",
-      "gear": "SP-CMC-08",
-      "taper": "ironchef",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-08 \u00b7 ironchef"
     },
     {
       "year": 2023,
@@ -586,10 +546,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Masonic Temple",
-      "gear": "MBHO KA200N",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "MBHO KA200N \u00b7 Unknown"
     },
     {
       "year": 2023,
@@ -600,10 +559,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Masonic Temple",
-      "gear": "Sennheiser Ambeo",
-      "taper": "blue tweeker",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sennheiser Ambeo \u00b7 blue tweeker"
     },
     {
       "year": 2023,
@@ -614,10 +572,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Masonic Temple",
-      "gear": "SP-LAV-1",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-LAV-1 \u00b7 Unknown"
     },
     {
       "year": 2023,
@@ -628,10 +585,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "The Saenger Theater",
-      "gear": "MK41v",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "MK41v \u00b7 Unknown"
     },
     {
       "year": 2023,
@@ -642,10 +598,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Westbury, NY",
       "venue": "NYCB Theatre at Westbury",
-      "gear": "AT833",
-      "taper": "joe d'amico",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT833 \u00b7 joe d'amico"
     },
     {
       "year": 2023,
@@ -656,10 +611,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Westbury, NY",
       "venue": "Westbury Music Fair",
-      "gear": "DPA 4011Es",
-      "taper": "todd hinden",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4011Es \u00b7 todd hinden"
     },
     {
       "year": 2023,
@@ -670,10 +624,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "MGM Music Hall at Fenway",
-      "gear": "CA-14",
-      "taper": "screamingslave",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-14 \u00b7 screamingslave"
     },
     {
       "year": 2023,
@@ -684,10 +637,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Scranton, PA",
       "venue": "Montage Mountain",
-      "gear": "Gefell 210",
-      "taper": "john lynch",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Gefell 210 \u00b7 john lynch"
     },
     {
       "year": 2023,
@@ -698,10 +650,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Salt Shed",
-      "gear": "Schoeps MK4v",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4v \u00b7 Unknown"
     },
     {
       "year": 2023,
@@ -712,10 +663,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Forest Grove, OR",
       "venue": "McMenamins Grand Lodge",
-      "gear": "Sennheiser Ambe0 + CA-11",
-      "taper": "Unknown",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sennheiser Ambe0 + CA-11 \u00b7 Unknown"
     },
     {
       "year": 2023,
@@ -726,10 +676,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Wheatland, CA",
       "venue": "Hard Rock Live",
-      "gear": "Sennheiser Ambeo",
-      "taper": "grizzly adams",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sennheiser Ambeo \u00b7 grizzly adams"
     },
     {
       "year": 2023,
@@ -740,10 +689,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Luis Obispo, CA",
       "venue": "Madonna Inn",
-      "gear": "Sennheiser Ambeo",
-      "taper": "grizzly adams",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sennheiser Ambeo \u00b7 grizzly adams"
     },
     {
       "year": 2023,
@@ -754,10 +702,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Wiltern",
-      "gear": "CA-11",
-      "taper": "leifh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 \u00b7 leifh"
     },
     {
       "year": 2023,
@@ -768,10 +715,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "The Van Buren",
-      "gear": "SP-CMC-8",
-      "taper": "leifh12345",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 leifh12345"
     },
     {
       "year": 2023,
@@ -782,10 +728,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Wallingford, CT",
       "venue": "Oakdale Theatre",
-      "gear": "AT853s",
-      "taper": "e",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853s \u00b7 e"
     },
     {
       "year": 2024,
@@ -796,10 +741,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Oakland CA",
       "venue": "Fox Theater",
-      "gear": "CA-11",
-      "taper": "leifh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 \u00b7 leifh"
     },
     {
       "year": 2005,
@@ -810,10 +754,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theatre",
-      "gear": "DPA 4011",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4011 \u00b7 Unknown"
     },
     {
       "year": 2005,
@@ -824,10 +767,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theatre",
-      "gear": "Schopes MK4",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schopes MK4 \u00b7 Unknown"
     },
     {
       "year": 2007,
@@ -838,10 +780,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Roxy",
-      "gear": "CSB",
-      "taper": "ghostwheel",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 ghostwheel"
     },
     {
       "year": 2007,
@@ -852,10 +793,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Electric Factory",
-      "gear": "CSB",
-      "taper": "ghostwheel",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 ghostwheel"
     }
   ]
 };

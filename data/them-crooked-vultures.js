@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "St. Cloud, FR",
       "venue": "Scene de la Cascade - Rock en Scene - DAT(M) (Giant Squid Omnis)",
-      "gear": "pierre leroy",
-      "taper": "Source 1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "pierre leroy \u00b7 Source 1"
     },
     {
       "year": 2009,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "St Cloud, FR",
       "venue": "Domaine National de Saint-Cloud (Edirol)",
-      "gear": "nono",
-      "taper": "Source 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "nono \u00b7 Source 2"
     },
     {
       "year": 2009,
@@ -47,10 +45,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues (Edirol R09HR)",
-      "gear": "bcledfoot",
-      "taper": "krw_co transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "bcledfoot \u00b7 krw_co transfer"
     },
     {
       "year": 2009,
@@ -61,10 +58,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues (Edirol R09HR)",
-      "gear": "bcledfoot",
-      "taper": "cq remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "bcledfoot \u00b7 cq remaster"
     },
     {
       "year": 2009,
@@ -75,10 +71,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
-      "gear": "",
-      "taper": "Zoom H4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H4"
     },
     {
       "year": 2009,
@@ -89,10 +84,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "gear": "Panasonic WM-61",
-      "taper": "weedwacker",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Panasonic WM-61 \u00b7 weedwacker"
     },
     {
       "year": 2009,
@@ -103,10 +97,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "gear": "CA-11",
-      "taper": "johnny fried chicken boy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 \u00b7 johnny fried chicken boy"
     },
     {
       "year": 2009,
@@ -117,10 +110,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theater",
-      "gear": "MK4",
-      "taper": "daspyknows",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MK4 \u00b7 daspyknows"
     },
     {
       "year": 2010,
@@ -131,10 +123,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Sydney, AUS",
       "venue": "Hordern Pavillion - Triple J Broadcast",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2010,
@@ -145,10 +136,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Joint",
-      "gear": "CK91",
-      "taper": "cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CK91 \u00b7 cps"
     },
     {
       "year": 2010,
@@ -159,10 +149,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom (AT-899)",
-      "gear": "jonohull",
-      "taper": "Source 1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "jonohull \u00b7 Source 1"
     },
     {
       "year": 2010,
@@ -173,10 +162,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "gear": "AT-899",
-      "taper": "Source 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT-899 \u00b7 Source 2"
     },
     {
       "year": 2010,
@@ -187,10 +175,9 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "Paris, FR",
       "venue": "Le Zenith",
-      "gear": "MM-MCSM-5",
-      "taper": "Source 1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MM-MCSM-5 \u00b7 Source 1"
     },
     {
       "year": 2010,
@@ -201,10 +188,9 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "Paris, FR",
       "venue": "Le Zenith",
-      "gear": "Sony ECM-MS 907",
-      "taper": "Source 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-MS 907 \u00b7 Source 2"
     },
     {
       "year": 2010,
@@ -215,10 +201,9 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "Amsterdam, NL",
       "venue": "Heineken Music Hall",
-      "gear": "AT831",
-      "taper": "edgar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT831 \u00b7 edgar"
     },
     {
       "year": 2010,
@@ -229,10 +214,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
-      "gear": "",
-      "taper": "Danish TV",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Danish TV"
     },
     {
       "year": 2010,
@@ -243,10 +227,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Niigata, Japan",
       "venue": "Naeba Ski Resort - Fuji Rock Festival *FRFNIGHT",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     }
   ]
 };

@@ -23,10 +23,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Hatch Memorial Shell",
-      "gear": "Sony ECM-717",
-      "taper": "jason adler",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Sony ECM-717 \u00b7 jason adler"
     },
     {
       "year": 2000,
@@ -37,10 +36,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "The Main Event",
-      "gear": "CSB",
-      "taper": "charles dewey cole",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 charles dewey cole"
     },
     {
       "year": 2004,
@@ -51,10 +49,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Crocodile Cafe - DAT(M)",
-      "gear": "Shure SM98",
-      "taper": "cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Shure SM98 \u00b7 cps"
     },
     {
       "year": 2005,
@@ -65,10 +62,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox",
-      "gear": "Jospehson c42mp",
-      "taper": "ryan olsen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Jospehson c42mp \u00b7 ryan olsen"
     },
     {
       "year": 2006,
@@ -79,10 +75,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Live at Spaceland",
-      "gear": "Sony ECM-DS70P",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-DS70P \u00b7 Unknown"
     },
     {
       "year": 2008,
@@ -93,10 +88,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Largo at Coronet - Little Room",
-      "gear": "ECM-DS70P",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM-DS70P \u00b7 Unknown"
     },
     {
       "year": 2009,
@@ -107,10 +101,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "The Bell House",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "notes": ""
     },
     {
       "year": 2009,
@@ -121,10 +114,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Schubas Tavern (Late show)",
-      "gear": "CA-11",
-      "taper": "brian emerick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-11 \u00b7 brian emerick"
     }
   ]
 };

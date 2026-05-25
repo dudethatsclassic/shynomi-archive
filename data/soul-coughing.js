@@ -26,10 +26,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Knitting Factory",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -40,10 +39,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGBs - ANA(M",
-      "gear": "mat leffler-schulman transfer",
-      "taper": "24/44.1",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "mat leffler-schulman transfer \u00b7 24/44.1"
     },
     {
       "year": 1993,
@@ -54,10 +52,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGBs - ANA(M)",
-      "gear": "mat leffler-schulman transfer",
-      "taper": "24/44.1",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "mat leffler-schulman transfer \u00b7 24/44.1"
     },
     {
       "year": 1994,
@@ -68,10 +65,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGBs - ANA(M)",
-      "gear": "mat leffler-schulman transfer",
-      "taper": "24/44.1",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "mat leffler-schulman transfer \u00b7 24/44.1"
     },
     {
       "year": 1995,
@@ -82,10 +78,9 @@ const ARTIST_DATA = {
       "state": "Holland",
       "location": "Amsterdam, Holland",
       "venue": "Melkweg - ANA(M)",
-      "gear": "rene meister",
-      "taper": "24/44.1",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "rene meister \u00b7 24/44.1"
     },
     {
       "year": 1995,
@@ -96,10 +91,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Manhattan, NY",
       "venue": "The Knitting Factory - ANA(M)",
-      "gear": "mat leffler-schulman transfer",
-      "taper": "24/44.1",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "mat leffler-schulman transfer \u00b7 24/44.1"
     },
     {
       "year": 1995,
@@ -110,10 +104,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "MP3"
+      "format": "MP3",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -124,10 +117,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Bluebird Theatre - DAT(M)",
-      "gear": "Binaurals",
-      "taper": "marcr",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Binaurals \u00b7 marcr"
     },
     {
       "year": 1995,
@@ -138,10 +130,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Mercury Lounge",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -152,10 +143,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Mercury Lounge",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -166,10 +156,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Let It Be Records - DAT(M)",
-      "gear": "DSM6",
-      "taper": "jay saari",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DSM6 \u00b7 jay saari"
     },
     {
       "year": 1996,
@@ -180,10 +169,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Khyber Pass Pub",
-      "gear": "CSB",
-      "taper": "zrrbrrt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 zrrbrrt"
     },
     {
       "year": 1996,
@@ -194,10 +182,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "Spartan Stadium - Lollapalooza",
-      "gear": "unk",
-      "taper": "neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1996,
@@ -208,10 +195,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theater",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -222,10 +208,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom - ANA(M)",
-      "gear": "mat leffler-schulman transfer",
-      "taper": "24/44.1",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "mat leffler-schulman transfer \u00b7 24/44.1"
     },
     {
       "year": 1997,
@@ -236,10 +221,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Tower Records - ANA",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 1998,
@@ -250,10 +234,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Biddinghuizen, The Netherlands",
       "venue": "Walibi Flevo - Lowlands Festival",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1998,
@@ -264,10 +247,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Winooski, VT",
       "venue": "Higher Ground",
-      "gear": "Neumann KM184",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Neumann KM184 \u00b7 Unknown"
     },
     {
       "year": 1998,
@@ -278,10 +260,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "gear": "Schoeps CMC6-MK4",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps CMC6-MK4 \u00b7 Unknown"
     },
     {
       "year": 1998,
@@ -292,10 +273,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "930 Club",
-      "gear": "",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2024,
@@ -306,10 +286,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "CA-11",
-      "taper": "vortexzephyr",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-11 \u00b7 vortexzephyr"
     },
     {
       "year": 2024,
@@ -320,10 +299,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "MG M300s",
-      "taper": "michael zelner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MG M300s \u00b7 michael zelner"
     },
     {
       "year": 2024,
@@ -334,10 +312,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "Schoeps MK4s",
-      "taper": "tj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4s \u00b7 tj"
     },
     {
       "year": 2024,
@@ -348,10 +325,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Terminal 5",
-      "gear": "CA-11",
-      "taper": "larryrulz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 \u00b7 larryrulz"
     },
     {
       "year": 2025,
@@ -362,10 +338,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Eastern",
-      "gear": "CA-14",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14 \u00b7 Unknown"
     },
     {
       "year": 2025,
@@ -376,10 +351,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "The Sylvee",
-      "gear": "Zoom H1N",
-      "taper": "pael",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1N \u00b7 pael"
     }
   ]
 };

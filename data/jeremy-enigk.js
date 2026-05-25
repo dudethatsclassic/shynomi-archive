@@ -28,10 +28,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "gear": "unk",
-      "taper": "neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1997,
@@ -42,10 +41,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "gear": "unk",
-      "taper": "aadams jacobs",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 aadams jacobs"
     },
     {
       "year": 2006,
@@ -56,10 +54,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Schubas (M)",
-      "gear": "unk",
-      "taper": "aadam jacobs",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 aadam jacobs"
     },
     {
       "year": 2006,
@@ -70,10 +67,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theatre",
-      "gear": "",
-      "taper": "justagirl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "justagirl"
     },
     {
       "year": 2006,
@@ -84,10 +80,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theatre",
-      "gear": "",
-      "taper": "justagirl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "justagirl"
     },
     {
       "year": 2006,
@@ -98,10 +93,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "gear": "unk",
-      "taper": "justagirl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 justagirl"
     },
     {
       "year": 2007,
@@ -112,10 +106,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "El Rey Theatre",
-      "gear": "AT853",
-      "taper": "markp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853 \u00b7 markp"
     },
     {
       "year": 2007,
@@ -126,10 +119,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Grand Ballroom at the Regency Center - DAT(M",
-      "gear": "SBD + Schoeps CCM4s",
-      "taper": "blg",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SBD + Schoeps CCM4s \u00b7 blg"
     },
     {
       "year": 2007,
@@ -140,10 +132,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Grand Ballroom at the Regency Center - DAT(M)",
-      "gear": "SBD+Schoeps CCM4s",
-      "taper": "blg",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SBD+Schoeps CCM4s \u00b7 blg"
     },
     {
       "year": 2008,
@@ -154,10 +145,9 @@ const ARTIST_DATA = {
       "state": "Czech Republic",
       "location": "Prague, Czech Republic",
       "venue": "Divadlo Archa",
-      "gear": "",
-      "taper": "Radio1",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Radio1"
     },
     {
       "year": 2008,
@@ -168,10 +158,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Telluride, CO",
       "venue": "Town Park - Telluride Bluegrass Festival",
-      "gear": "KM84",
-      "taper": "john r",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "KM84 \u00b7 john r"
     },
     {
       "year": 2008,
@@ -182,10 +171,9 @@ const ARTIST_DATA = {
       "state": "Netherlands",
       "location": "The Hague, Netherlands",
       "venue": "Koninklijke Schouwburg",
-      "gear": "Edirol R09",
-      "taper": "dutch masters",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Edirol R09 \u00b7 dutch masters"
     },
     {
       "year": 2009,
@@ -196,10 +184,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Hideout - Live from Studio X",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2009,
@@ -210,10 +197,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Triple Door",
-      "gear": "",
-      "taper": "KEXP-FM",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "KEXP-FM"
     },
     {
       "year": 2009,
@@ -224,10 +210,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "House of Blues",
-      "gear": "Sony ECM-DS70P",
-      "taper": "ryan fisher",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-DS70P \u00b7 ryan fisher"
     },
     {
       "year": 2009,
@@ -238,10 +223,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theatre",
-      "gear": "AT831s",
-      "taper": "justagirl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT831s \u00b7 justagirl"
     },
     {
       "year": 2010,
@@ -252,10 +236,9 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Barcelona, Spain",
       "venue": "Sala Apolo",
-      "gear": "DPA 4061s",
-      "taper": "fortylicks",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061s \u00b7 fortylicks"
     },
     {
       "year": 2010,
@@ -266,10 +249,9 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Barcelona, Spain",
       "venue": "Sala 1 Pau Casals - L'Auditori",
-      "gear": "DPA 4061s",
-      "taper": "fortylicks",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061s \u00b7 fortylicks"
     },
     {
       "year": 2022,
@@ -280,10 +262,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Cadillac Palace Theater",
-      "gear": "Sony PCM-A10",
-      "taper": "ryan fisher",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony PCM-A10 \u00b7 ryan fisher"
     },
     {
       "year": 2023,
@@ -294,10 +275,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Wang Theatre",
-      "gear": "Schoeps MK4V",
-      "taper": "jim kelly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK4V \u00b7 jim kelly"
     },
     {
       "year": 2023,
@@ -308,10 +288,9 @@ const ARTIST_DATA = {
       "state": "DC /The Anthem (LG V60) (hemisphire)",
       "location": "Washington, DC /The Anthem (LG V60) (hemisphire)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2023,
@@ -322,10 +301,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Salt Shed",
-      "gear": "AT831s",
-      "taper": "tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT831s \u00b7 tapeworm48"
     },
     {
       "year": 2024,
@@ -336,10 +314,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Brienz, Switzerland",
       "venue": "Reusser Guitars",
-      "gear": "Glen Hansard IG Livestream",
-      "taper": "ryan fisher",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Glen Hansard IG Livestream \u00b7 ryan fisher"
     },
     {
       "year": 2025,
@@ -350,10 +327,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Filene Center At Wolf Trap",
-      "gear": "AT853s",
-      "taper": "lostbrook",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AT853s \u00b7 lostbrook"
     },
     {
       "year": 2025,
@@ -364,10 +340,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Tyneside, UK",
       "venue": "The Glasshouse Gateshead",
-      "gear": "Tascam DR40",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tascam DR40 \u00b7 Unknown"
     }
   ]
 };

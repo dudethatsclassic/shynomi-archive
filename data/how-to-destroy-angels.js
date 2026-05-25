@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pomona, CA",
       "venue": "The Fox Theater",
-      "gear": "Slavesound Omnis",
-      "taper": "mixter_",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Slavesound Omnis \u00b7 mixter_"
     },
     {
       "year": 2013,
@@ -32,10 +31,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pomona, CA",
       "venue": "The Fox Theater",
-      "gear": "Schoeps MK4",
-      "taper": "me, i'm not",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4 \u00b7 me, i'm not"
     },
     {
       "year": 2013,
@@ -46,10 +44,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pomona, CA",
       "venue": "The Fox Theater",
-      "gear": "Sony DSC-HX50V",
-      "taper": "jamm007",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": "Sony DSC-HX50V \u00b7 jamm007"
     },
     {
       "year": 2013,
@@ -60,10 +57,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Grounds - Coachella Festival",
-      "gear": "CA-11",
-      "taper": "djdarkbeat",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 \u00b7 djdarkbeat"
     },
     {
       "year": 2013,
@@ -74,10 +70,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Grounds - Coachella Festival - DAT(M)",
-      "gear": "Schoeps",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps \u00b7 Unknown"
     },
     {
       "year": 2013,
@@ -88,10 +83,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Grounds - Coachella Festival",
-      "gear": "YouTube HLS",
-      "taper": "cynicmuse",
       "version": "PRO",
-      "format": "MKV"
+      "format": "MKV",
+      "notes": "YouTube HLS \u00b7 cynicmuse"
     },
     {
       "year": 2013,
@@ -102,10 +96,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Pearl Theatre",
-      "gear": "Tascam DR-100MKII",
-      "taper": "sheldon j",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Tascam DR-100MKII \u00b7 sheldon j"
     },
     {
       "year": 2013,
@@ -116,10 +109,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Pearl Theatre",
-      "gear": "Schoeps MK4",
-      "taper": "me, i'm not",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4 \u00b7 me, i'm not"
     },
     {
       "year": 2013,
@@ -130,10 +122,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Monterey, CA",
       "venue": "Golden State Theater",
-      "gear": "SP-CMC-2",
-      "taper": "notorioustimp",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-2 \u00b7 notorioustimp"
     },
     {
       "year": 2013,
@@ -144,10 +135,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Monterey, CA",
       "venue": "Golden State Theater",
-      "gear": "Schoeps MK4",
-      "taper": "me, i'm not",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4 \u00b7 me, i'm not"
     },
     {
       "year": 2013,
@@ -158,10 +148,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Regency Ballroom",
-      "gear": "AT-831s",
-      "taper": "notorioustimp",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AT-831s \u00b7 notorioustimp"
     },
     {
       "year": 2013,
@@ -172,10 +161,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Regency Ballroom",
-      "gear": "PCM-M10 Internals",
-      "taper": "armogi",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "PCM-M10 Internals \u00b7 armogi"
     },
     {
       "year": 2013,
@@ -186,10 +174,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Regency Ballroom",
-      "gear": "Schoeps MK4",
-      "taper": "me, i'm not",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4 \u00b7 me, i'm not"
     },
     {
       "year": 2013,
@@ -200,10 +187,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Regency Ballroom",
-      "gear": "Nokia 808 PureView phone",
-      "taper": "bill perry",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": "Nokia 808 PureView phone \u00b7 bill perry"
     },
     {
       "year": 2013,
@@ -214,10 +200,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Paramount Theater",
-      "gear": "Nevaton MCE400",
-      "taper": "mike b",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nevaton MCE400 \u00b7 mike b"
     },
     {
       "year": 2013,
@@ -228,10 +213,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Paramount Theater",
-      "gear": "Schoeps MK41",
-      "taper": "taperbt",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK41 \u00b7 taperbt"
     },
     {
       "year": 2013,
@@ -242,10 +226,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "gear": "CA-14c",
-      "taper": "jon g.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14c \u00b7 jon g."
     },
     {
       "year": 2013,
@@ -256,10 +239,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre - DAT(M)",
-      "gear": "Sony ECM-717",
-      "taper": "ryanj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-717 \u00b7 ryanj"
     },
     {
       "year": 2013,
@@ -270,10 +252,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "gear": "Schoeps MK4s",
-      "taper": "vikas bhatia",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4s \u00b7 vikas bhatia"
     },
     {
       "year": 2013,
@@ -284,10 +265,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "gear": "Schoeps MK4s",
-      "taper": "tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4s \u00b7 tapeworm48"
     },
     {
       "year": 2013,
@@ -298,10 +278,9 @@ const ARTIST_DATA = {
       "state": "ON - Sound Academy (iPhone) (becomingtom)",
       "location": "Toronto, ON - Sound Academy (iPhone) (becomingtom)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "notes": ""
     },
     {
       "year": 2013,
@@ -312,10 +291,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues",
-      "gear": "DPA 4061",
-      "taper": "bennyblanco",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4061 \u00b7 bennyblanco"
     },
     {
       "year": 2013,
@@ -326,10 +304,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Montclair, NJ",
       "venue": "Wellmont Theatre",
-      "gear": "Zoom H2",
-      "taper": "unsaneroot",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H2 \u00b7 unsaneroot"
     },
     {
       "year": 2013,
@@ -340,10 +317,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Montclair, NJ",
       "venue": "Wellmont Theatre",
-      "gear": "",
-      "taper": "foxhound1500",
       "version": "AUD",
-      "format": "MKV"
+      "format": "MKV",
+      "notes": "foxhound1500"
     },
     {
       "year": 2013,
@@ -354,10 +330,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Apollo Theater",
-      "gear": "Canon PowerShot SX260",
-      "taper": "ninjaw p.b.",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Canon PowerShot SX260 \u00b7 ninjaw p.b."
     },
     {
       "year": 2013,
@@ -368,10 +343,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Apollo Theater",
-      "gear": "",
-      "taper": "foxhound1500",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": "foxhound1500"
     }
   ]
 };

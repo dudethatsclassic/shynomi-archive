@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Prime Club",
-      "gear": "unk",
-      "taper": "kevdogg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 kevdogg transfer"
     }
   ]
 };

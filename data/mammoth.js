@@ -21,10 +21,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "E Rutherford, NJ",
       "venue": "MetLife Stadium (M)",
-      "gear": "Sony ECM-717",
-      "taper": "ukj69",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-717 \u00b7 ukj69"
     },
     {
       "year": 2023,
@@ -35,10 +34,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Ace of Spades",
-      "gear": "Multiple IEM, Taskca DR-2D",
-      "taper": "hoserama",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Multiple IEM, Taskca DR-2D \u00b7 hoserama"
     },
     {
       "year": 2023,
@@ -49,10 +47,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The Bluestone",
-      "gear": "CA-14",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14 \u00b7 live2cd"
     },
     {
       "year": 2023,
@@ -63,10 +60,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Glenside, PA",
       "venue": "Keswick Theater",
-      "gear": "Schoeps MK4s",
-      "taper": "ironchef",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK4s \u00b7 ironchef"
     },
     {
       "year": 2024,
@@ -77,10 +73,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Old National Centre - Egyptian Room",
-      "gear": "SP-CMC-8s",
-      "taper": "ironchef",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8s \u00b7 ironchef"
     },
     {
       "year": 2024,
@@ -91,10 +86,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
-      "gear": "SP-CMC-8",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 live2cd"
     },
     {
       "year": 2024,
@@ -105,10 +99,9 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "Paris, FR",
       "venue": "Le Ze?nith",
-      "gear": "CA-11c",
-      "taper": "kurddt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11c \u00b7 kurddt"
     },
     {
       "year": 2024,
@@ -119,10 +112,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Aura",
-      "gear": "OKMIIr",
-      "taper": "massu2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "OKMIIr \u00b7 massu2"
     },
     {
       "year": 2024,
@@ -133,10 +125,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Brooklyn Bowl",
-      "gear": "SP-CMC-8",
-      "taper": "mr. sifter",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 \u00b7 mr. sifter"
     },
     {
       "year": 2024,
@@ -147,10 +138,9 @@ const ARTIST_DATA = {
       "state": "Finland",
       "location": "Tampere, Finland",
       "venue": "Olympia (M)",
-      "gear": "CA-11",
-      "taper": "j3saari",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 \u00b7 j3saari"
     },
     {
       "year": 2024,
@@ -161,10 +151,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Frannz",
-      "gear": "Roland CS-110",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Roland CS-110 \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -175,10 +164,9 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Madrid, Spain",
       "venue": "Estadio Metropolitano",
-      "gear": "SP-CMC_2",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC_2 \u00b7 Unknown"
     },
     {
       "year": 2024,
@@ -189,10 +177,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Foxborough, MA",
       "venue": "Gillette Stadium",
-      "gear": "OKMIIr",
-      "taper": "massu2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "OKMIIr \u00b7 massu2"
     },
     {
       "year": 2025,
@@ -203,10 +190,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Fillmore Detroit",
-      "gear": "SP-CMC-8",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 live2cd"
     },
     {
       "year": 2025,
@@ -217,10 +203,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Kemba LIVE",
-      "gear": "SP-CMC-8",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 live2cd"
     },
     {
       "year": 2026,
@@ -231,10 +216,9 @@ const ARTIST_DATA = {
       "state": "ON/ Danforth Music Hall (Zoom H1n) bowlingron)",
       "location": "Toronto, ON/ Danforth Music Hall (Zoom H1n) bowlingron)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2026,
@@ -245,10 +229,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "gear": "OKMIIr",
-      "taper": "massu2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "OKMIIr \u00b7 massu2"
     },
     {
       "year": 2026,
@@ -259,10 +242,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
-      "gear": "SP-CMC-8",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-8 \u00b7 live2cd"
     }
   ]
 };

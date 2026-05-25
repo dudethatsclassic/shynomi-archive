@@ -21,10 +21,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Gainesville, FL",
       "venue": "University Auditorium",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1973,
@@ -35,10 +34,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Gainesville, FL",
       "venue": "The Rat Club - ANA",
-      "gear": "",
-      "taper": "1",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "1"
     },
     {
       "year": 2008,
@@ -49,10 +47,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore - DAT",
-      "gear": "M",
-      "taper": "Schoeps CCM4",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "M \u00b7 Schoeps CCM4"
     },
     {
       "year": 2016,
@@ -63,10 +60,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
-      "gear": "SP-CMC-8",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "notes": "SP-CMC-8 \u00b7 Unknown"
     }
   ]
 };

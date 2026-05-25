@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Glastonbury, UK",
       "venue": "Glastonbury Festival - Pyramid Stage",
-      "gear": "",
-      "taper": "BBC",
       "version": "PRO",
-      "format": "MKV"
+      "format": "MKV",
+      "notes": "BBC"
     },
     {
       "year": 2024,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "Greece",
       "location": "Athens, Greece",
       "venue": "Olympic Stadium",
-      "gear": "",
-      "taper": "0ne8ung",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "0ne8ung"
     }
   ]
 };

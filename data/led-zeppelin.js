@@ -24,10 +24,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston Tea Party  - ANA",
-      "gear": "2",
-      "taper": "hezekiahx2",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "2 \u00b7 hezekiahx2"
     },
     {
       "year": 1969,
@@ -38,10 +37,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Playhouse Theatre",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1971,
@@ -52,10 +50,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum  - ANA",
-      "gear": "2",
-      "taper": "krw_co",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2 \u00b7 krw_co"
     },
     {
       "year": 1972,
@@ -66,10 +63,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Coliseum",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1973,
@@ -80,10 +76,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Dallas Convention Center ANA",
-      "gear": "2",
-      "taper": "krw_co",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "2 \u00b7 krw_co"
     },
     {
       "year": 1975,
@@ -94,10 +89,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Market Square Arena - ANA(2)",
-      "gear": "unk",
-      "taper": "krw_co transfer",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "unk \u00b7 krw_co transfer"
     },
     {
       "year": 1975,
@@ -108,10 +102,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Empress Valley",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1977,
@@ -122,10 +115,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum - ANA",
-      "gear": "2",
-      "taper": "dadgad",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2 \u00b7 dadgad"
     },
     {
       "year": 1980,
@@ -136,10 +128,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Dortmund, Germany",
       "venue": "Westfalenhalle - ANA",
-      "gear": "2",
-      "taper": "krw_co transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2 \u00b7 krw_co transfer"
     },
     {
       "year": 1980,
@@ -150,10 +141,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Bremen, Germany",
       "venue": "Stadthalle - ANA",
-      "gear": "2",
-      "taper": "krw_co",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2 \u00b7 krw_co"
     }
   ]
 };

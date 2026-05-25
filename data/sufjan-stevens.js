@@ -27,10 +27,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Santa Maria da Feira, Portugal",
       "venue": "Teatro Antunio Lamoso - Festival Para Gente Sentada",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2004,
@@ -41,10 +40,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "Lee's Palace",
-      "gear": "",
-      "taper": "",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2005,
@@ -55,10 +53,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "KCRW",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2005,
@@ -69,10 +66,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "El Rey Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2005,
@@ -83,10 +79,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Triple Door - KEXP",
-      "gear": "",
-      "taper": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2005,
@@ -97,10 +92,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Bluebird Theater",
-      "gear": "CSB \u00b7 fatah ruark",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 fatah ruark"
     },
     {
       "year": 2005,
@@ -111,10 +105,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Aspen, CO",
       "venue": "Belly Up",
-      "gear": "CSB \u00b7 fatah ruark",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 fatah ruark"
     },
     {
       "year": 2005,
@@ -125,10 +118,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Somerville, MA",
       "venue": "Somerville Theatre",
-      "gear": "CSB",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Unknown"
     },
     {
       "year": 2006,
@@ -139,10 +131,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Crystal Ballroom",
-      "gear": "AKG C1000s + SBD",
-      "taper": "Thir13en Productions",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AKG C1000s + SBD \u00b7 Thir13en Productions"
     },
     {
       "year": 2006,
@@ -153,10 +144,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "St. Andrews Wesley Church - WAV(M)",
-      "gear": "DPA 4061",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061 \u00b7 Unknown"
     },
     {
       "year": 2010,
@@ -167,10 +157,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Chicago Theatre",
-      "gear": "",
-      "taper": "Ca-14s \u00b7 Brian Emerick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-14s \u00b7 Brian Emerick"
     },
     {
       "year": 2010,
@@ -181,10 +170,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Tabernacle",
-      "gear": "",
-      "taper": "Tascam Dr-70 \u00b7 Doc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tascam Dr-70 \u00b7 Doc"
     },
     {
       "year": 2011,
@@ -195,10 +183,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Perth, Australia",
       "venue": "Regal Theatre",
-      "gear": "",
-      "taper": "Yoga Em-8 \u00b7 Eclect",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Yoga Em-8 \u00b7 Eclect"
     },
     {
       "year": 2011,
@@ -209,10 +196,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Barcelona, Spain",
       "venue": "Primavera Festival",
-      "gear": "DPA 4061",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061 \u00b7 Unknown"
     },
     {
       "year": 2012,
@@ -223,10 +209,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam, The Netherlands",
       "venue": "Muziektheater - Planetarium",
-      "gear": "DPA 4060s",
-      "taper": "Ian Macdonald",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4060s \u00b7 Ian Macdonald"
     },
     {
       "year": 2012,
@@ -237,10 +222,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Union Transfer",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2015,
@@ -251,10 +235,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Academy of Music",
-      "gear": "",
-      "taper": "Tascam Dr-40 \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tascam Dr-40 \u00b7 Unknown"
     },
     {
       "year": 2015,
@@ -265,10 +248,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Academy of Music",
-      "gear": "",
-      "taper": "Tascam Dr-40 \u00b7 Docrupard",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tascam Dr-40 \u00b7 Docrupard"
     },
     {
       "year": 2015,
@@ -279,10 +261,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Kings Theatre",
-      "gear": "",
-      "taper": "Tascam Dr-40 \u00b7 Doc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tascam Dr-40 \u00b7 Doc"
     },
     {
       "year": 2015,
@@ -293,10 +274,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Bass Concert hall",
-      "gear": "Tascam DR-07MKII",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Tascam DR-07MKII \u00b7 Unknown"
     },
     {
       "year": 2015,
@@ -307,10 +287,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Eau Claire, WI",
       "venue": "Eaux Claires Festival",
-      "gear": "",
-      "taper": "Zoom H1 \u00b7 Fireworksordie",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 Fireworksordie"
     },
     {
       "year": 2015,
@@ -321,10 +300,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Edinburgh, Scotland",
       "venue": "Edinburgh Playhouse",
-      "gear": "",
-      "taper": "Ca-11 \u00b7 Rairun",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-11 \u00b7 Rairun"
     },
     {
       "year": 2015,
@@ -335,10 +313,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Manchester Apollo",
-      "gear": "",
-      "taper": "Ca-11 \u00b7 Rairun",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-11 \u00b7 Rairun"
     },
     {
       "year": 2015,
@@ -349,10 +326,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Festival Hall",
-      "gear": "",
-      "taper": "Ca-11 \u00b7 Rairun",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-11 \u00b7 Rairun"
     },
     {
       "year": 2015,
@@ -363,10 +339,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Brighton, UK",
       "venue": "Brighton Dome",
-      "gear": "",
-      "taper": "Ca-11 \u00b7 Rairun",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-11 \u00b7 Rairun"
     },
     {
       "year": 2015,
@@ -377,10 +352,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Briston, UK",
       "venue": "Colston Hall",
-      "gear": "",
-      "taper": "Ca-11 \u00b7 Rairun",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-11 \u00b7 Rairun"
     },
     {
       "year": 2015,
@@ -391,10 +365,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "Admiralspalast",
-      "gear": "DPA 4061",
-      "taper": "Hanno",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061 \u00b7 Hanno"
     },
     {
       "year": 2015,
@@ -405,10 +378,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Barcelona, Spain",
       "venue": "Auditori Forum",
-      "gear": "",
-      "taper": "Ca-11 \u00b7 Rairun",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-11 \u00b7 Rairun"
     },
     {
       "year": 2015,
@@ -419,10 +391,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madrid, Spain",
       "venue": "Teatro Circo Price",
-      "gear": "",
-      "taper": "Ca-11 \u00b7 Rairun",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-11 \u00b7 Rairun"
     },
     {
       "year": 2016,
@@ -433,10 +404,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Grounds - Coachella",
-      "gear": "",
-      "taper": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2016,
@@ -447,10 +417,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Union Park - Pitchfork Music Festival",
-      "gear": "",
-      "taper": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2016,
@@ -461,10 +430,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Red Rocks Amphitheatre",
-      "gear": "",
-      "taper": "Ca-11 \u00b7 Rairun",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-11 \u00b7 Rairun"
     },
     {
       "year": 2016,
@@ -475,10 +443,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park - Outside Lands Music & Arts Festival",
-      "gear": "",
-      "taper": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2017,
@@ -489,10 +456,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Philharmonie de Paris - Planetarium",
-      "gear": "",
-      "taper": "Ca-11 \u00b7 Rairun",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ca-11 \u00b7 Rairun"
     },
     {
       "year": 2017,
@@ -503,10 +469,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Philharmonie de Paris - Planetarium",
-      "gear": "",
-      "taper": "Rairun",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": "Rairun"
     },
     {
       "year": 2018,
@@ -517,10 +482,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Town Hall - Live from Here with Chris Thile",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": ""
     }
   ]
 };

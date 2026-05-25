@@ -21,10 +21,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Champaign, IL",
       "venue": "Pygmalion Festival - Highdive Outdoor Annex",
-      "gear": "SP-BMC-2",
-      "taper": "rhinowing",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-BMC-2 \u00b7 rhinowing"
     },
     {
       "year": 2016,
@@ -35,10 +34,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Champaign, IL",
       "venue": "Foellinger Auditorium",
-      "gear": "SP-BMC-2",
-      "taper": "rhinowing",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-BMC-2 \u00b7 rhinowing"
     },
     {
       "year": 2017,
@@ -49,10 +47,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Pitchfork Music Festival",
-      "gear": "",
-      "taper": "indykid",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": "indykid"
     },
     {
       "year": 2024,
@@ -63,10 +60,9 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Barcelona, Spain",
       "venue": "Primavera Sound",
-      "gear": "Twitch Webcast",
-      "taper": "1080",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "notes": "Twitch Webcast \u00b7 1080"
     },
     {
       "year": 2024,
@@ -77,10 +73,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Best Friends Forever Festival",
-      "gear": "Zoom H1n",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H1n \u00b7 Unknown"
     }
   ]
 };

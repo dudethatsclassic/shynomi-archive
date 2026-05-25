@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Landmark Theatre",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2013,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "British Columbia",
       "location": "Kelowna, British Columbia",
       "venue": "Waterfront Park - Island Stage",
-      "gear": "",
-      "taper": "leifh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "leifh"
     }
   ]
 };

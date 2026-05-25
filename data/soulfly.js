@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "empe, AZ",
       "venue": "Club Rio - ANA",
-      "gear": "x",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "x \u00b7 Unknown"
     },
     {
       "year": 2025,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Federal Theater",
-      "gear": "Olympus LS-P4",
-      "taper": "bluejane99",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Olympus LS-P4 \u00b7 bluejane99"
     }
   ]
 };

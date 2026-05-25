@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Danforth Music Hall (Rec 1)",
-      "gear": "SP-CMC-8",
-      "taper": "burnboy",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 \u00b7 burnboy"
     },
     {
       "year": 2024,
@@ -32,10 +31,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Danforth Music Hall",
-      "gear": "Rec 2",
-      "taper": "SP-CMC-25",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Rec 2 \u00b7 SP-CMC-25"
     }
   ]
 };

@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Telluride, CO",
       "venue": "Telluride Bluegrass Festival - Band Contest",
-      "gear": "Beyer M88s",
-      "taper": "bob miller",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Beyer M88s \u00b7 bob miller"
     },
     {
       "year": 2000,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "United Center",
-      "gear": "Sony MZ-R30",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony MZ-R30 \u00b7 Unknown"
     }
   ]
 };

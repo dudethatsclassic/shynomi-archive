@@ -31,10 +31,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Dumfries, Scotland",
       "venue": "Rugman's Youth Club - Whitesands",
-      "gear": "",
-      "taper": "Grundig Dynamic Mic \u00b7 Alex Wilson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Grundig Dynamic Mic \u00b7 Alex Wilson"
     },
     {
       "year": 1970,
@@ -45,10 +44,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cologne, Germany",
       "venue": "Kouzenthans",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1972,
@@ -59,10 +57,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Winterland",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1974,
@@ -73,10 +70,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Civic Arena",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1975,
@@ -87,10 +83,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "International Ampitheatre",
-      "gear": "stratcat58",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "stratcat58 \u00b7 Unknown"
     },
     {
       "year": 1975,
@@ -101,10 +96,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Asbury Park, NJ",
       "venue": "Asbury Park Convention Hall",
-      "gear": "",
-      "taper": "Thir13en Remaster",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Thir13en Remaster"
     },
     {
       "year": 1976,
@@ -115,10 +109,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fresno, CA",
       "venue": "Selland Arena",
-      "gear": "",
-      "taper": "Unknown \u00b7 R.c. \u00b7 Krw_co Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 R.c. \u00b7 Krw_co Transfer"
     },
     {
       "year": 1977,
@@ -129,10 +122,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lund, Sweden",
       "venue": "The Olympen *Doomsday Recitation {DAVROSLP012}",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1978,
@@ -143,10 +135,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fresno, CA",
       "venue": "Selland Arena",
-      "gear": "",
-      "taper": "Unknown \u00b7 R.c. \u00b7 Krw_co Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 R.c. \u00b7 Krw_co Transfer"
     },
     {
       "year": 1983,
@@ -157,10 +148,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lund, Sweden",
       "venue": "Olympen",
-      "gear": "M",
-      "taper": "Peter",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Peter"
     },
     {
       "year": 1983,
@@ -171,10 +161,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lund, Sweden",
       "venue": "Olympen",
-      "gear": "Sony Walkman",
-      "taper": "Tung Pung",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony Walkman \u00b7 Tung Pung"
     },
     {
       "year": 1984,
@@ -185,10 +174,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Daly City, CA",
       "venue": "Cow Palace",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1992,
@@ -199,10 +187,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Cincinnati Gardens",
-      "gear": "Sony D3",
-      "taper": "Govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D3 \u00b7 Govner"
     },
     {
       "year": 2001,
@@ -213,10 +200,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "The Docks  - Ozzfest 2001",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2013,
@@ -227,10 +213,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen, Denmark",
       "venue": "Forum K?benhavn",
-      "gear": "",
-      "taper": "Zoom H2 \u00b7 Davemurray",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H2 \u00b7 Davemurray"
     },
     {
       "year": 2025,
@@ -241,10 +226,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Birmingham, England - Villa Park - Back to the Beginning (Zoom H2) (unk)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2025,
@@ -255,10 +239,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Birmingham, England - Villa Park - Back to the Beginning (Livestream)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "WEB",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": ""
     }
   ]
 };

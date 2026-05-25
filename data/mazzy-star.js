@@ -24,10 +24,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Woody's - AUD",
-      "gear": "M",
-      "taper": "ECM-929",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 ECM-929"
     },
     {
       "year": 1990,
@@ -38,10 +37,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Babylon A Go-Go Club",
-      "gear": "",
-      "taper": "2019 kneesfudd remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2019 kneesfudd remaster"
     },
     {
       "year": 1990,
@@ -52,10 +50,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles,CA",
       "venue": "Club Lingerie",
-      "gear": "",
-      "taper": "AU3 Cassette Transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AU3 Cassette Transfer"
     },
     {
       "year": 1990,
@@ -66,10 +63,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Massey Hall",
-      "gear": "",
-      "taper": "Sony Walkman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony Walkman"
     },
     {
       "year": 1993,
@@ -80,10 +76,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Mint - ANA",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 1993,
@@ -94,10 +89,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "VPRO Session - Villa '65 - FM",
-      "gear": "",
-      "taper": "M",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M"
     },
     {
       "year": 1993,
@@ -108,10 +102,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW Studios",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -122,10 +115,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW Radio - Morning Becomes Eclectic",
-      "gear": "",
-      "taper": "FM2 Tape",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "FM2 Tape"
     },
     {
       "year": 1993,
@@ -136,10 +128,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Manchester, England",
       "venue": "University of Manchester",
-      "gear": "",
-      "taper": "Oct 2013 transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Oct 2013 transfer"
     },
     {
       "year": 1993,
@@ -150,10 +141,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Black Session",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -164,10 +154,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Bruxelles, Belgium",
       "venue": "De Vaartkapoen",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -178,10 +167,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Maxwell's",
-      "gear": "",
-      "taper": "Audio Technica",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Audio Technica"
     },
     {
       "year": 1993,
@@ -192,10 +180,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland Heights, OH",
       "venue": "The Grog Shop",
-      "gear": "",
-      "taper": "Panasonic RQ-335 Walkman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Panasonic RQ-335 Walkman"
     },
     {
       "year": 1993,
@@ -206,10 +193,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax - DAT",
-      "gear": "M",
-      "taper": "Sony ECM-S220",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Sony ECM-S220"
     },
     {
       "year": 1994,
@@ -220,10 +206,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle (CSB) - DAT",
-      "gear": "M",
-      "taper": "mrpember",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 mrpember"
     },
     {
       "year": 1994,
@@ -234,10 +219,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB",
-      "gear": "AT mic",
-      "taper": "scott simpson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT mic \u00b7 scott simpson"
     },
     {
       "year": 1994,
@@ -248,10 +232,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Palace",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -262,10 +245,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Mercury Lounge",
-      "gear": "ECM 929LT",
-      "taper": "sebbydee",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ECM 929LT \u00b7 sebbydee"
     },
     {
       "year": 1994,
@@ -276,10 +258,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "University of Manchester Institute of Science and Technology",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -290,10 +271,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Antwerp, Belgium",
       "venue": "Pacific",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -304,10 +284,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Later wirh Jools Holland",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "MPG"
+      "format": "MPG",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -318,10 +297,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boson, MA",
       "venue": "Avalon",
-      "gear": "AKG C1000s",
-      "taper": "david landsberger",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AKG C1000s \u00b7 david landsberger"
     },
     {
       "year": 1994,
@@ -332,10 +310,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -346,10 +323,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "gear": "DAT",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DAT \u00b7 Unknown"
     },
     {
       "year": 1994,
@@ -360,10 +336,9 @@ const ARTIST_DATA = {
       "state": "CA - The Fillmore",
       "location": "San Francisco, CA - The Fillmore",
       "venue": "DAT(M)",
-      "gear": "Sony TCD-D7",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony TCD-D7 \u00b7 Unknown"
     },
     {
       "year": 1994,
@@ -374,10 +349,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheatre - KROQ Almost Acoustic Xmas",
-      "gear": "",
-      "taper": "Upgrade",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Upgrade"
     },
     {
       "year": 1996,
@@ -388,10 +362,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slims - DAT(M)",
-      "gear": "MK4",
-      "taper": "teddy ballgame",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "MK4 \u00b7 teddy ballgame"
     },
     {
       "year": 1996,
@@ -402,10 +375,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Radio Sessions",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -416,10 +388,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Union Chapel",
-      "gear": "",
-      "taper": "DAT",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DAT"
     },
     {
       "year": 1996,
@@ -430,10 +401,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Vega",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -444,10 +414,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Supper Club",
-      "gear": "",
-      "taper": "master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "master"
     },
     {
       "year": 1996,
@@ -458,10 +427,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Supper Club",
-      "gear": "",
-      "taper": "Neumann 184",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Neumann 184"
     },
     {
       "year": 1996,
@@ -472,10 +440,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Avalon",
-      "gear": "",
-      "taper": "Sony ECM-909A",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sony ECM-909A"
     },
     {
       "year": 1996,
@@ -486,10 +453,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW Studios",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -500,10 +466,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "gear": "",
-      "taper": "jason brodsky",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "jason brodsky"
     },
     {
       "year": 2012,
@@ -514,10 +479,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhaguen, Denmark",
       "venue": "Amager Bio",
-      "gear": "CA-11",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 \u00b7 Unknown"
     },
     {
       "year": 2013,
@@ -528,10 +492,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "gear": "HEB 4060",
-      "taper": "jb",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "HEB 4060 \u00b7 jb"
     },
     {
       "year": 2019,
@@ -542,10 +505,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theatre",
-      "gear": "Schoepls CCM4s",
-      "taper": "blg mastering",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoepls CCM4s \u00b7 blg mastering"
     }
   ]
 };

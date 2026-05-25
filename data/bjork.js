@@ -37,10 +37,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zeche",
       "venue": "Bochum",
-      "gear": "",
-      "taper": "Sugarcubes \u00b7 Tdk-sa90 \u00b7 Dimenew",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sugarcubes \u00b7 Tdk-sa90 \u00b7 Dimenew"
     },
     {
       "year": 1990,
@@ -51,10 +50,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Reykjavik, Iceland",
       "venue": "Hotel Borg",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -65,10 +63,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Denmark",
       "venue": "Aarhus",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1993,
@@ -79,10 +76,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Manchester Academy",
-      "gear": "",
-      "taper": "Bbc6 Music",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Bbc6 Music"
     },
     {
       "year": 1993,
@@ -93,10 +89,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Grosse Freiheit 36",
-      "gear": "",
-      "taper": "Ao",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Ao"
     },
     {
       "year": 1994,
@@ -107,10 +102,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Elysee Montmartre",
-      "gear": "Sony WM-D3",
-      "taper": "A.g.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-D3 \u00b7 A.g."
     },
     {
       "year": 1995,
@@ -121,10 +115,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Canada",
       "venue": "Warehouse *Beauty and the Beast",
-      "gear": "",
-      "taper": "Oxy 051",
       "version": "Silver CD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Oxy 051"
     },
     {
       "year": 1995,
@@ -135,10 +128,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Canada",
       "venue": "*Miss World",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1995,
@@ -149,10 +141,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Budapest, Hungary",
       "venue": "Petofi Music Hall",
-      "gear": "",
-      "taper": "Panasonic Dictaphone (rq-l340 \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Panasonic Dictaphone (rq-l340 \u00b7 Unknown"
     },
     {
       "year": 1995,
@@ -163,10 +154,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rotterdam",
       "venue": "Ahoy *Hyper",
-      "gear": "",
-      "taper": "Ar101095",
       "version": "Silver CD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Ar101095"
     },
     {
       "year": 1996,
@@ -177,10 +167,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Perth, Australia",
       "venue": "Belvoir Amphitheatre",
-      "gear": "",
-      "taper": "Unknown \u00b7 Anonymous",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Anonymous"
     },
     {
       "year": 1997,
@@ -191,10 +180,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "NBC Studios - SNL Rebroadcast HDTV",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 1997,
@@ -205,10 +193,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "La Mutualite",
-      "gear": "",
-      "taper": "D100 W/ Shotgun Mic \u00b7 Clogboy2005",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "D100 W/ Shotgun Mic \u00b7 Clogboy2005"
     },
     {
       "year": 1998,
@@ -219,10 +206,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Warfield Theater",
-      "gear": "Schoeps MK4",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK4 \u00b7 Unknown"
     },
     {
       "year": 1998,
@@ -233,10 +219,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Benicassim, Spain",
       "venue": "4th International Festival of Indie Music *Ole",
-      "gear": "",
-      "taper": "Bb1998001",
       "version": "Silver CD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Bb1998001"
     },
     {
       "year": 1999,
@@ -247,10 +232,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Cambridge, England",
       "venue": "*The Mystic of Iceland",
-      "gear": "",
-      "taper": "Eb-11",
       "version": "Silver CD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Eb-11"
     },
     {
       "year": 1999,
@@ -261,10 +245,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London, England",
       "venue": "The Union Chapel",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2001,
@@ -275,10 +258,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "*Bring On the Eskimoes - Loft Tour Rehearsals",
-      "gear": "",
-      "taper": "Elektra 201134546",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Elektra 201134546"
     },
     {
       "year": 2001,
@@ -289,10 +271,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Grand Rex",
-      "gear": "",
-      "taper": "Miles",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Miles"
     },
     {
       "year": 2001,
@@ -303,10 +284,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "St. Chapelle",
-      "gear": "",
-      "taper": "Bjork 2001",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Bjork 2001"
     },
     {
       "year": 2001,
@@ -317,10 +297,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Riverside Church",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2001,
@@ -331,10 +310,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stuttgart, Germany",
       "venue": "Liederhalle Beethovensaal",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Unknown"
     },
     {
       "year": 2001,
@@ -345,10 +323,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Frankfurt, Germany",
       "venue": "Alte Oper",
-      "gear": "Sony ECM-TS 120",
-      "taper": "Scttrbrn",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-TS 120 \u00b7 Scttrbrn"
     },
     {
       "year": 2001,
@@ -359,10 +336,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam",
       "venue": "Muziektheatre",
-      "gear": "andre niewlaat",
-      "taper": "Aka Stopera \u00b7 Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "andre niewlaat \u00b7 Aka Stopera \u00b7 Unknown"
     },
     {
       "year": 2001,
@@ -373,10 +349,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Toronto, Ontario",
       "venue": "The Hummingbird Center",
-      "gear": "CSC",
-      "taper": "Martman",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "CSC \u00b7 Martman"
     },
     {
       "year": 2001,
@@ -387,10 +362,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "Orchard Hall",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": ""
     },
     {
       "year": 2001,
@@ -401,10 +375,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Reykjavik, Iceland",
       "venue": "Laugardagshll *Native Tongue",
-      "gear": "",
-      "taper": "Unknown \u00b7 Jochen Hermann",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown \u00b7 Jochen Hermann"
     },
     {
       "year": 2002,
@@ -415,10 +388,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hamburg, Germany",
       "venue": "Grunspan - Music Planet 2 Nite TV Show",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -429,10 +401,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Verona, Italy",
       "venue": "Arena di Verona",
-      "gear": "",
-      "taper": "Grey",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Grey"
     },
     {
       "year": 2003,
@@ -443,10 +414,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Verona, Italy",
       "venue": "Arena di Ver",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -457,10 +427,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "UK Radio 1 Broadcast - Sonar Festival",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -471,10 +440,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Bercy",
-      "gear": "",
-      "taper": "P And C777 Records",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "P And C777 Records"
     },
     {
       "year": 2003,
@@ -485,10 +453,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin, Germany",
       "venue": "Treptow Arena",
-      "gear": "",
-      "taper": "Oggy",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Oggy"
     },
     {
       "year": 2003,
@@ -499,10 +466,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sopot, Poland",
       "venue": "W-Festival 2003",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2003,
@@ -513,10 +479,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
-      "gear": "Sony MD",
-      "taper": "Phil",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "notes": "Sony MD \u00b7 Phil"
     },
     {
       "year": 2006,
@@ -527,10 +492,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Reykjavik, Iceland",
       "venue": "Laugardalshll",
-      "gear": "Sony MD",
-      "taper": "Sophie",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony MD \u00b7 Sophie"
     },
     {
       "year": 2007,
@@ -541,10 +505,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
-      "gear": "DPA 4021s",
-      "taper": "Remaster \u00b7 Nyctaper",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4021s \u00b7 Remaster \u00b7 Nyctaper"
     },
     {
       "year": 2007,
@@ -555,10 +518,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "United Palace Theatre",
-      "gear": "",
-      "taper": "Digitalman",
       "version": "Webcast",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Digitalman"
     },
     {
       "year": 2007,
@@ -569,10 +531,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "United Kingdom",
       "venue": "Glastonbury Festival",
-      "gear": "",
-      "taper": "Zionpower",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zionpower"
     },
     {
       "year": 2007,
@@ -583,10 +544,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "gear": "DPA 4021s",
-      "taper": "Danlynch",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4021s \u00b7 Danlynch"
     },
     {
       "year": 2007,
@@ -597,10 +557,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lima, Peru",
       "venue": "Verice del Museo de la Nacion",
-      "gear": "",
-      "taper": "Iriver \u00b7 David Sanchez",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Iriver \u00b7 David Sanchez"
     },
     {
       "year": 2008,
@@ -611,10 +570,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sydney, Australia",
       "venue": "Sydney Opera House Forecourt",
-      "gear": "",
-      "taper": "Soundman Okm-ii \u00b7 Auroboros",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Soundman Okm-ii \u00b7 Auroboros"
     },
     {
       "year": 2008,
@@ -625,10 +583,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Zaragoza, Spain",
       "venue": "Expo",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2009,
@@ -639,10 +596,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Houseing Works Bookstore Cafe",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2010,
@@ -653,10 +609,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "St. Paul's Cathedral - Memorial of Lee Alexander McQueen",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2011,
@@ -667,10 +622,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Reykjav?k, Iceland",
       "venue": "The Nordic House",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2015,
@@ -681,10 +635,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Lyon, France",
       "venue": "Theatre Antique de Fourviere",
-      "gear": "",
-      "taper": "",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2022,
@@ -695,10 +648,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Shrine Auditorium",
-      "gear": "AT853s",
-      "taper": "Tj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853s \u00b7 Tj"
     }
   ]
 };

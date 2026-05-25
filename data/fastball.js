@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Miller Lite Oasis -Summerfest",
-      "gear": "AT U853",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT U853 \u00b7 Unknown"
     },
     {
       "year": 2021,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Ft. Lauderdale, FL",
       "venue": "Culture Room",
-      "gear": "Sony ECM-DS70P",
-      "taper": "kevdogg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM-DS70P \u00b7 kevdogg"
     },
     {
       "year": 2025,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "VA /Filene Center at Wolf Trap (LG V60) (hemisphire)",
       "location": "Vienna, VA /Filene Center at Wolf Trap (LG V60) (hemisphire)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     }
   ]
 };

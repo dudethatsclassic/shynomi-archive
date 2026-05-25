@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sirius XM",
       "venue": "13th Annual Flight to Mars",
-      "gear": "",
-      "taper": "",
       "version": "WEB",
-      "format": "MP3"
+      "format": "MP3",
+      "notes": ""
     },
     {
       "year": 2017,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox",
-      "gear": "Tascam DR-2d",
-      "taper": "steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tascam DR-2d \u00b7 steve hagar"
     }
   ]
 };

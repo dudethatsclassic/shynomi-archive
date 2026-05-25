@@ -26,10 +26,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Palladium",
-      "gear": "",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1997,
@@ -40,10 +39,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Meadows Music Theatre",
-      "gear": "Radio Shack 33-3003",
-      "taper": "mike ganezer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Radio Shack 33-3003 \u00b7 mike ganezer"
     },
     {
       "year": 1997,
@@ -54,10 +52,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Continental Airlines Arena",
-      "gear": "",
-      "taper": "",
       "version": "AMT",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": ""
     },
     {
       "year": 2001,
@@ -68,10 +65,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Water St. Music Hall - Raekwon",
-      "gear": "CSB",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Unknown"
     },
     {
       "year": 2002,
@@ -82,10 +78,9 @@ const ARTIST_DATA = {
       "state": "CA /The Fillmore (unk) (neekrive)",
       "location": "San Francisco, CA /The Fillmore (unk) (neekrive)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2007,
@@ -96,10 +91,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Montreux, Switzerland",
       "venue": "Montreux Jazz Festival",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": ""
     },
     {
       "year": 2010,
@@ -110,10 +104,9 @@ const ARTIST_DATA = {
       "state": "Russia",
       "location": "Moscow, Russia",
       "venue": "Arena Moscow",
-      "gear": "",
-      "taper": "kuzya 1",
       "version": "AMT",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "kuzya 1"
     },
     {
       "year": 2014,
@@ -124,10 +117,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Seattle Center - Bumbershoot Festival",
-      "gear": "Zoom H1",
-      "taper": "askinas",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H1 \u00b7 askinas"
     },
     {
       "year": 2018,
@@ -138,10 +130,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Anthem",
-      "gear": "CA-14s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14s \u00b7 Unknown"
     },
     {
       "year": 2025,
@@ -152,10 +143,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit , MI",
       "venue": "Little Caesars Arena",
-      "gear": "Sennheiser Ambeo",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sennheiser Ambeo \u00b7 Unknown"
     }
   ]
 };

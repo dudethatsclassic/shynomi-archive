@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "VIC",
       "location": "Melbourne, VIC",
       "venue": "Iwaki Auditorium, ABC Studios",
-      "gear": "",
-      "taper": "franger",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "franger"
     },
     {
       "year": 2024,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Frankston, Australia",
       "venue": "Frankston Arts Centre",
-      "gear": "Nokia Lumia 930",
-      "taper": "eckythump",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nokia Lumia 930 \u00b7 eckythump"
     },
     {
       "year": 2024,
@@ -47,10 +45,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Palais Theatre",
-      "gear": "Nokia Lumia 930",
-      "taper": "eckythump",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nokia Lumia 930 \u00b7 eckythump"
     },
     {
       "year": 2024,
@@ -61,10 +58,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Newcastle, Australia",
       "venue": "Civic Theatre",
-      "gear": "Zoom H4",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom H4 \u00b7 Unknown"
     }
   ]
 };

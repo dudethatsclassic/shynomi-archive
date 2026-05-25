@@ -22,10 +22,9 @@ const ARTIST_DATA = {
       "state": "QUE",
       "location": "Montreal, QUE",
       "venue": "Club Soda - AUD",
-      "gear": "",
-      "taper": "M",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M"
     },
     {
       "year": 1989,
@@ -36,10 +35,9 @@ const ARTIST_DATA = {
       "state": "Denmark - Darupvej",
       "location": "Roskilde, Denmark - Darupvej",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -50,10 +48,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue - ANA",
-      "gear": "",
-      "taper": "M",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M"
     },
     {
       "year": 1991,
@@ -64,10 +61,9 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Lund, Sweden",
       "venue": "Swedish National Radio",
-      "gear": "",
-      "taper": "loughney transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "loughney transfer"
     },
     {
       "year": 1991,
@@ -78,10 +74,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Loppen - DAT(M)",
-      "gear": "Sony ECM 155s",
-      "taper": "mailman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM 155s \u00b7 mailman"
     },
     {
       "year": 1991,
@@ -92,10 +87,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Gent, Belgium",
       "venue": "Democrazy - ANA",
-      "gear": "2",
-      "taper": "loughney transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2 \u00b7 loughney transfer"
     },
     {
       "year": 1992,
@@ -106,10 +100,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Seven South - ANA",
-      "gear": "M",
-      "taper": "loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 loughney transfer"
     },
     {
       "year": 1992,
@@ -120,10 +113,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Maxwell's - ANA(M)-ANA",
-      "gear": "1",
-      "taper": "loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 loughney transfer"
     },
     {
       "year": 1993,
@@ -134,10 +126,9 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Gothenburg, Sweden",
       "venue": "Magasinet",
-      "gear": "Sony WM-D6",
-      "taper": "loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-D6 \u00b7 loughney transfer"
     },
     {
       "year": 1993,
@@ -148,10 +139,9 @@ const ARTIST_DATA = {
       "state": "BE",
       "location": "Bissegem, BE",
       "venue": "De Kreun",
-      "gear": "Sony WM-D3",
-      "taper": "loughey transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony WM-D3 \u00b7 loughey transfer"
     },
     {
       "year": 1993,
@@ -162,10 +152,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Loppen - DAT(M)",
-      "gear": "Sony ECM 155s",
-      "taper": "mailman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM 155s \u00b7 mailman"
     },
     {
       "year": 1993,
@@ -176,10 +165,9 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Gothenberg, SWE",
       "venue": "Magasinet (Sony WM-D6) - AUD(M)-ANA",
-      "gear": "2",
-      "taper": "loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2 \u00b7 loughney transfer"
     }
   ]
 };

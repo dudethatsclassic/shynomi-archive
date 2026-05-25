@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Columbia, MD",
       "venue": "Merriweather Post Pavilion",
-      "gear": "",
-      "taper": "Electret",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Electret"
     }
   ]
 };

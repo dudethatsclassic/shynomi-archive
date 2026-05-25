@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Double Door",
-      "gear": "",
-      "taper": "tapeworm48",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "tapeworm48"
     },
     {
       "year": 2022,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Empty Bottle",
-      "gear": "AT853U",
-      "taper": "charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AT853U \u00b7 charles dewey cole"
     },
     {
       "year": 2022,
@@ -47,10 +45,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Empty Bottle",
-      "gear": "DPA 4060",
-      "taper": "charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4060 \u00b7 charles dewey cole"
     },
     {
       "year": 2022,
@@ -61,10 +58,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Skokie, IL",
       "venue": "Skokie Backlot Bash",
-      "gear": "Schoeps MK4s",
-      "taper": "tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4s \u00b7 tapeworm48"
     }
   ]
 };

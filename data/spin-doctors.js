@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Necco Place",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1991,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Parksville, NY",
       "venue": "Arrowhead Ranch",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -47,10 +45,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Lost Horizon",
-      "gear": "AKG C460s",
-      "taper": "terry sullivan",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AKG C460s \u00b7 terry sullivan"
     },
     {
       "year": 1992,
@@ -61,10 +58,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Ithaca, NY",
       "venue": "The Haunt",
-      "gear": "AKG C460s",
-      "taper": "terry sullivan",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AKG C460s \u00b7 terry sullivan"
     },
     {
       "year": 1992,
@@ -75,10 +71,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Downtown Festival Tent",
-      "gear": "AKG C460s",
-      "taper": "terry sullivan",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AKG C460s \u00b7 terry sullivan"
     }
   ]
 };

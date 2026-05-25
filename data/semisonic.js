@@ -21,10 +21,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Blacksburg, VA",
       "venue": "Burruss Auditorium",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Unknown"
     },
     {
       "year": 2010,
@@ -35,10 +34,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "gear": "Schoeps MK4s",
-      "taper": "perks",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK4s \u00b7 perks"
     },
     {
       "year": 2012,
@@ -49,10 +47,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Mound, MN",
       "venue": "Our Lady Of The Lakes Catholic Church",
-      "gear": "Schoeps MK5s",
-      "taper": "perks",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK5s \u00b7 perks"
     },
     {
       "year": 2012,
@@ -63,10 +60,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Falcon Heights, MN",
       "venue": "Grandstand - MN State Fairgrounds",
-      "gear": "Schoeps MK5s",
-      "taper": "perks",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK5s \u00b7 perks"
     },
     {
       "year": 2023,
@@ -77,10 +73,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "gear": "iPhone 13",
-      "taper": "ngs428",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "iPhone 13 \u00b7 ngs428"
     }
   ]
 };

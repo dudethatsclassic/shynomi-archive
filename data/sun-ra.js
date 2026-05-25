@@ -25,10 +25,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Buffalo State College",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1979,
@@ -39,10 +38,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Bayou",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1982,
@@ -53,10 +51,9 @@ const ARTIST_DATA = {
       "state": "West Germany",
       "location": "Mannheim, West Germany",
       "venue": "Unknown Venue",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1985,
@@ -67,10 +64,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Stache's",
-      "gear": "",
-      "taper": "ayreeayl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ayreeayl"
     },
     {
       "year": 1985,
@@ -81,10 +77,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Stache's",
-      "gear": "",
-      "taper": "ayreeayl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ayreeayl"
     },
     {
       "year": 1985,
@@ -95,10 +90,9 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Museum of Modern Art",
-      "gear": "",
-      "taper": "ayreeayl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "ayreeayl"
     },
     {
       "year": 1985,
@@ -109,10 +103,9 @@ const ARTIST_DATA = {
       "state": "West Germany (ayreeayl)",
       "location": "Hamburg, West Germany (ayreeayl)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1986,
@@ -123,10 +116,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "UIC Pavilion",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1987,
@@ -137,10 +129,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Vestal, NY",
       "venue": "SUNY Binghampton - Nelson Mandela Room",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -151,10 +142,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Petrillo Band Shell",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1988,
@@ -165,10 +155,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "Kuumbwa Jazz Center - DAT",
-      "gear": "",
-      "taper": "M",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M"
     },
     {
       "year": 1990,
@@ -179,10 +168,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Lugano, Switzerland",
       "venue": "Piazza della Riforma - Estival Jazz",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     }
   ]
 };

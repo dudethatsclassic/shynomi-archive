@@ -24,10 +24,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Wolverhampton, England",
       "venue": "Civic Hall",
-      "gear": "Sony D8",
-      "taper": "tommybagnall",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony D8 \u00b7 tommybagnall"
     },
     {
       "year": 2006,
@@ -38,10 +37,9 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Toronto, Canada",
       "venue": "The Danforth Music Hall",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2006,
@@ -52,10 +50,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Ebisu Liquidroom *The Three Sons",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2006,
@@ -66,10 +63,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The Union Chapel *Sitting Here In Silence",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2006,
@@ -80,10 +76,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Live At Le Fabaret Sauvage",
-      "gear": "",
-      "taper": "Noel Acoustic",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Noel Acoustic"
     },
     {
       "year": 2006,
@@ -94,10 +89,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Manchester",
       "venue": "The Lowery",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2007,
@@ -108,10 +102,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The Royal Albert Hall - DAT(M)",
-      "gear": "AT831b",
-      "taper": "johnky",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT831b \u00b7 johnky"
     },
     {
       "year": 2010,
@@ -122,10 +115,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Albert Hall - Teenage Cancer Trust",
-      "gear": "Sony Ericsson C901",
-      "taper": "jp zarka",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony Ericsson C901 \u00b7 jp zarka"
     },
     {
       "year": 2010,
@@ -136,10 +128,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Royal Albert Hall",
-      "gear": "AT898 + Icom IC-R5",
-      "taper": "Unknown",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT898 + Icom IC-R5 \u00b7 Unknown"
     },
     {
       "year": 2012,
@@ -150,10 +141,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Camden",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2015,
@@ -164,10 +154,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "BBC Radio Theatre",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2023,
@@ -178,10 +167,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Ridgefield, WA",
       "venue": "RV Inn Style Resorts Amphitheater",
-      "gear": "SP-CMC-9",
-      "taper": "robgronotte",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-9 \u00b7 robgronotte"
     }
   ]
 };

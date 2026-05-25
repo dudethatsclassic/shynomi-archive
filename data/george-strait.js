@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Lone Star Cafe",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1983,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "NY /Country Sessions",
       "location": "New York, NY /Country Sessions",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1985,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Pasadena, TX",
       "venue": "Gilley's",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1985,
@@ -62,10 +59,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Pasadena, TX",
       "venue": "Gilley's",
-      "gear": "",
-      "taper": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     }
   ]
 };

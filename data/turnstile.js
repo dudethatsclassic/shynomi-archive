@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Barcelona, Spain",
       "venue": "Parc del Forum, Sant Adria de Besos",
-      "gear": "",
-      "taper": "Webstream",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": "Webstream"
     },
     {
       "year": 2023,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "BMO Stadium",
-      "gear": "SP-CMC-4U",
-      "taper": "ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-4U \u00b7 ijwthstd"
     },
     {
       "year": 2023,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hasselt Belgium",
       "venue": "Pukkelpop Festival",
-      "gear": "",
-      "taper": "trebor",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "trebor"
     },
     {
       "year": 2023,
@@ -62,10 +59,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Douglass Park - Riot Fest",
-      "gear": "Schoeps MK41s",
-      "taper": "tj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK41s \u00b7 tj"
     },
     {
       "year": 2023,
@@ -76,10 +72,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Discovery Park",
-      "gear": "Schoeps MK4s",
-      "taper": "tj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4s \u00b7 tj"
     },
     {
       "year": 2024,
@@ -90,10 +85,9 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Rosendal Garden Party",
-      "gear": "Instamic Pro Plus",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Instamic Pro Plus \u00b7 Unknown"
     },
     {
       "year": 2025,
@@ -104,10 +98,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Outbreak Fest, Victoria Park",
-      "gear": "DPA 4061",
-      "taper": "jgsound",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061 \u00b7 jgsound"
     },
     {
       "year": 2025,
@@ -118,10 +111,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Pilton, UK",
       "venue": "Glastonbury Festival - Other Stage",
-      "gear": "BBC iPlayer",
-      "taper": "1080p",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": "BBC iPlayer \u00b7 1080p"
     },
     {
       "year": 2025,
@@ -132,10 +124,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Discovery Park - Aftershock Festival",
-      "gear": "Schoeps MK4s",
-      "taper": "tj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Schoeps MK4s \u00b7 tj"
     },
     {
       "year": 2025,
@@ -146,10 +137,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Expo Park",
-      "gear": "SP-CMC-8",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 \u00b7 Unknown"
     }
   ]
 };

@@ -23,10 +23,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Pearl",
-      "gear": "CK91",
-      "taper": "cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CK91 \u00b7 cps"
     },
     {
       "year": 2009,
@@ -37,10 +36,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Pearl",
-      "gear": "CK91",
-      "taper": "cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CK91 \u00b7 cps"
     },
     {
       "year": 2009,
@@ -51,10 +49,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Pearl - WAV(M)",
-      "gear": "AKG CK91 + SBD",
-      "taper": "cps",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AKG CK91 + SBD \u00b7 cps"
     },
     {
       "year": 2009,
@@ -65,10 +62,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Pearl - WAV(M)",
-      "gear": "AKG CK91",
-      "taper": "cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AKG CK91 \u00b7 cps"
     },
     {
       "year": 2009,
@@ -79,10 +75,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theatre",
-      "gear": "Schoeps CMC34",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps CMC34 \u00b7 Unknown"
     },
     {
       "year": 2009,
@@ -93,10 +88,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theatre",
-      "gear": "AT943",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT943 \u00b7 Unknown"
     },
     {
       "year": 2011,
@@ -107,10 +101,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theater",
-      "gear": "CSB",
-      "taper": "pineaway",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 pineaway"
     },
     {
       "year": 2012,
@@ -121,10 +114,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Riverside, CA",
       "venue": "Riverside Fox Performing Arts Center",
-      "gear": "DPA 4061",
-      "taper": "crazylegs",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4061 \u00b7 crazylegs"
     },
     {
       "year": 2017,
@@ -135,10 +127,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Melbourne, AUS",
       "venue": "Melbourne Convention & Exhibition Centre",
-      "gear": "SP-SMC-8",
-      "taper": "pyometronguts",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-SMC-8 \u00b7 pyometronguts"
     },
     {
       "year": 2022,
@@ -149,10 +140,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Atlantic City, NJ",
       "venue": "Hard Rock Hotel & Casino",
-      "gear": "Pixel 6",
-      "taper": "pineaway",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Pixel 6 \u00b7 pineaway"
     },
     {
       "year": 2023,
@@ -163,10 +153,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Kodak Theater",
-      "gear": "Tascam DR-2d",
-      "taper": "binko",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Tascam DR-2d \u00b7 binko"
     },
     {
       "year": 2023,
@@ -177,10 +166,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Werchter, Belgium",
       "venue": "Rock Werchter (Webcast)",
-      "gear": "dion1983",
-      "taper": "720p",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "notes": "dion1983 \u00b7 720p"
     }
   ]
 };

@@ -22,10 +22,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Buckinghamshire, England, UK",
       "venue": "Roxburgh Hall - Stowe School CD1",
-      "gear": "",
-      "taper": "John Bloomfield-evsd-goody",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": "John Bloomfield-evsd-goody"
     },
     {
       "year": 1963,
@@ -36,10 +35,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Buckinghamshire, England, UK",
       "venue": "Roxburgh Hall - Stowe School CD2",
-      "gear": "",
-      "taper": "John Bloomfield-evsd-goody",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": "John Bloomfield-evsd-goody"
     },
     {
       "year": 1964,
@@ -50,10 +48,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Live At the Hollywood Bowl",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1964,
@@ -64,10 +61,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Convention Hall *Philadelphia 1964 Off Reel",
-      "gear": "",
-      "taper": "",
       "version": "preFM",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1964,
@@ -78,10 +74,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Philadelphia PA",
       "venue": "Convention Hall",
-      "gear": "",
-      "taper": "Mono Reel \u00b7 24.96 \u00b7 2022 \u00b7 Krw_co Transfer",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "Mono Reel \u00b7 24.96 \u00b7 2022 \u00b7 Krw_co Transfer"
     },
     {
       "year": 1964,
@@ -92,10 +87,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "State Fair",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1964,
@@ -106,10 +100,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "State Fair Coliseum",
-      "gear": "",
-      "taper": "Krw_co",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "Krw_co"
     },
     {
       "year": 1965,
@@ -120,10 +113,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Paris, France",
       "venue": "Palais Des Sports",
-      "gear": "",
-      "taper": "Afternoon & Evening Show",
       "version": "Vinyl",
-      "format": ""
+      "format": "",
+      "notes": "Afternoon & Evening Show"
     },
     {
       "year": 1965,
@@ -134,10 +126,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Shea Stadium  *The Great Concert at Shea!",
-      "gear": "",
-      "taper": "Hmc 001-b",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": "Hmc 001-b"
     },
     {
       "year": 1965,
@@ -148,10 +139,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Houston Coliseum *The Live Beatles",
-      "gear": "",
-      "taper": "Afternoon/evening Show \u00b7 Bgcd-034",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": "Afternoon/evening Show \u00b7 Bgcd-034"
     },
     {
       "year": 1966,
@@ -162,10 +152,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Interview 1966 for Print Article",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "Reel",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1966,
@@ -176,10 +165,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Munich, Germany",
       "venue": "Circus-Krone-Bau",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1966,
@@ -190,10 +178,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Essen, W. Germany",
       "venue": "Grugahalle",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": ""
     },
     {
       "year": 1966,
@@ -204,10 +191,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Tokyo, Japan",
       "venue": "Budokan Hall *Five Nights in a Judo Arena",
-      "gear": "",
-      "taper": "Tsp 011",
       "version": "Vinyl",
-      "format": ""
+      "format": "",
+      "notes": "Tsp 011"
     },
     {
       "year": 1966,
@@ -218,10 +204,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Candlestick Park",
-      "gear": "",
-      "taper": "Last Show",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "notes": "Last Show"
     },
     {
       "year": 1969,
@@ -232,10 +217,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "*The Complete Rooftop Concert (The Let It Be Reheasals) (YD015)",
       "venue": "",
-      "gear": "",
-      "taper": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "notes": ""
     }
   ]
 };

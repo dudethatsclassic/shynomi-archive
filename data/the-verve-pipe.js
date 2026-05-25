@@ -28,10 +28,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Kalamazoo, MI",
       "venue": "Live from the Pit",
-      "gear": "",
-      "taper": "107.3",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "107.3"
     },
     {
       "year": 1997,
@@ -42,10 +41,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "The Rave",
-      "gear": "",
-      "taper": "Sony ECM907",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sony ECM907"
     },
     {
       "year": 1997,
@@ -56,10 +54,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theater - The Album Network - ANA",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 2001,
@@ -70,10 +67,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "Ah-Nab-Awen Park WGRD - DAT(M)",
-      "gear": "AT933",
-      "taper": "rlhammon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT933 \u00b7 rlhammon"
     },
     {
       "year": 2014,
@@ -84,10 +80,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "The Ark",
-      "gear": "DPA 4060",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4060 \u00b7 live2cd"
     },
     {
       "year": 2019,
@@ -98,10 +93,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "The HiFi",
-      "gear": "CA-14",
-      "taper": "charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-14 \u00b7 charles dewey cole"
     },
     {
       "year": 2019,
@@ -112,10 +106,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Kalamazoo, MI",
       "venue": "Bell's Eccentric Cafe",
-      "gear": "CA-14",
-      "taper": "charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-14 \u00b7 charles dewey cole"
     },
     {
       "year": 2019,
@@ -126,10 +119,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "The Ark",
-      "gear": "DPA 4060",
-      "taper": "charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4060 \u00b7 charles dewey cole"
     },
     {
       "year": 2020,
@@ -140,10 +132,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "St. Andrews Hall",
-      "gear": "CA-14s",
-      "taper": "charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-14s \u00b7 charles dewey cole"
     },
     {
       "year": 2021,
@@ -154,10 +145,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "The Ark",
-      "gear": "HEB DPA 4060",
-      "taper": "charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "HEB DPA 4060 \u00b7 charles dewey cole"
     },
     {
       "year": 2021,
@@ -168,10 +158,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "The Back Room - Colectivo",
-      "gear": "Zoom H4n",
-      "taper": "charles dewey cole",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H4n \u00b7 charles dewey cole"
     },
     {
       "year": 2022,
@@ -182,10 +171,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
-      "gear": "Neumann KSM 184 + SBD",
-      "taper": "shane e. calhoon",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Neumann KSM 184 + SBD \u00b7 shane e. calhoon"
     },
     {
       "year": 2022,
@@ -196,10 +184,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Findlay, OH",
       "venue": "Donnell Theater at the Marathon Center for the Performing Arts",
-      "gear": "CA-14s",
-      "taper": "charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-14s \u00b7 charles dewey cole"
     },
     {
       "year": 2022,
@@ -210,10 +197,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Mason, OH",
       "venue": "Timberwolf Amphitheatre at Kings Island",
-      "gear": "CA-14",
-      "taper": "charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-14 \u00b7 charles dewey cole"
     },
     {
       "year": 2022,
@@ -224,10 +210,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Element Eatery",
-      "gear": "DPA 4060",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4060 \u00b7 live2cd"
     },
     {
       "year": 2022,
@@ -238,10 +223,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "The Ark",
-      "gear": "DPA 4060",
-      "taper": "charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4060 \u00b7 charles dewey cole"
     },
     {
       "year": 2023,
@@ -252,10 +236,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "City Winery",
-      "gear": "CA-14s",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-14s \u00b7 live2cd"
     },
     {
       "year": 2023,
@@ -266,10 +249,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "The Listening Lawn",
-      "gear": "Zoom H4n Pro",
-      "taper": "oilman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H4n Pro \u00b7 oilman"
     },
     {
       "year": 2023,
@@ -280,10 +262,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "The Ark",
-      "gear": "HEB DPA 4060",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "HEB DPA 4060 \u00b7 live2cd"
     },
     {
       "year": 2024,
@@ -294,10 +275,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "20 Monroe Live",
-      "gear": "Zoom H4n Pro",
-      "taper": "oilman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H4n Pro \u00b7 oilman"
     },
     {
       "year": 2024,
@@ -308,10 +288,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Woodlands Tavern",
-      "gear": "CA-14s",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-14s \u00b7 live2cd"
     },
     {
       "year": 2024,
@@ -322,10 +301,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "The Woodward Theatre",
-      "gear": "SP-CMC-8",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 \u00b7 live2cd"
     },
     {
       "year": 2024,
@@ -336,10 +314,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "The Ark",
-      "gear": "DPA 4060",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4060 \u00b7 live2cd"
     },
     {
       "year": 2025,
@@ -350,10 +327,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "The Ark (Brian Vander Ark Solo)",
-      "gear": "HEB DPA 4060",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "HEB DPA 4060 \u00b7 live2cd"
     },
     {
       "year": 2025,
@@ -364,10 +340,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Appleton, WI",
       "venue": "Crazy Todd's Block Party",
-      "gear": "Shure MV88 + Sennheiser Ambeo",
-      "taper": "Unknown",
       "version": "MIX",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Shure MV88 + Sennheiser Ambeo \u00b7 Unknown"
     },
     {
       "year": 2026,
@@ -378,10 +353,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Wadsworth, OH",
       "venue": "The Celestia Theater",
-      "gear": "CA-14",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "CA-14 \u00b7 live2cd"
     },
     {
       "year": 2026,
@@ -392,10 +366,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Asbury Park, NJ",
       "venue": "The Stone Pony",
-      "gear": "AT853",
-      "taper": "tapergregg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT853 \u00b7 tapergregg"
     },
     {
       "year": 2026,
@@ -406,10 +379,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Fillmore Detroit",
-      "gear": "SP-CMC-8",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 \u00b7 live2cd"
     },
     {
       "year": 2026,
@@ -420,10 +392,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
-      "gear": "SP-CMC-8",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "SP-CMC-8 \u00b7 live2cd"
     }
   ]
 };

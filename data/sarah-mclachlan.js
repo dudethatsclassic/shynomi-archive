@@ -20,10 +20,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Brisbane,AUS",
       "venue": "Brisbane Convention Centre",
-      "gear": "Optimus 33-3003s",
-      "taper": "tifosi79",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Optimus 33-3003s \u00b7 tifosi79"
     },
     {
       "year": 2004,
@@ -34,10 +33,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Key Arena",
-      "gear": "SP-CMC-2",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-2 \u00b7 Unknown"
     },
     {
       "year": 2004,
@@ -48,10 +46,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Bradley Center",
-      "gear": "Sonics-Sony M-1",
-      "taper": "ademotte",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Sonics-Sony M-1 \u00b7 ademotte"
     },
     {
       "year": 2004,
@@ -62,10 +59,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "General Motors Place",
-      "gear": "SP-CMC-2",
-      "taper": "jason green",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-2 \u00b7 jason green"
     },
     {
       "year": 2010,
@@ -76,10 +72,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Palace Theatre",
-      "gear": "DPA 4060",
-      "taper": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "DPA 4060 \u00b7 live2cd"
     },
     {
       "year": 2025,
@@ -90,10 +85,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
-      "gear": "OKMIIr",
-      "taper": "massu2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "OKMIIr \u00b7 massu2"
     }
   ]
 };

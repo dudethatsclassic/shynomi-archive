@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Factory - CASS(1)",
-      "gear": "KALX FM",
-      "taper": "cps transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "KALX FM \u00b7 cps transfer"
     }
   ]
 };

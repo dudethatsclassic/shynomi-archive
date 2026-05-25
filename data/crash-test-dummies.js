@@ -28,10 +28,9 @@ const ARTIST_DATA = {
       "state": "Manitoba",
       "location": "Winnipeg, Manitoba",
       "venue": "West End Cultural Centre",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1989,
@@ -42,10 +41,9 @@ const ARTIST_DATA = {
       "state": "Manitoba",
       "location": "Winnipeg, Manitoba",
       "venue": "West End Cultural Centre",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1990,
@@ -56,10 +54,9 @@ const ARTIST_DATA = {
       "state": "MB",
       "location": "Winnipeg, MB",
       "venue": "Swingin on a Star - CBC Studios",
-      "gear": "",
-      "taper": "stevemtl",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "stevemtl"
     },
     {
       "year": 1991,
@@ -70,10 +67,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Parish 23",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1992,
@@ -84,10 +80,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Orpheum Theater",
-      "gear": "",
-      "taper": "Simulcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Simulcast"
     },
     {
       "year": 1994,
@@ -98,10 +93,9 @@ const ARTIST_DATA = {
       "state": "MB",
       "location": "Winnipeg, MB",
       "venue": "Walker Theatre",
-      "gear": "CBC-FM The Entertainers Broadcast",
-      "taper": "stevemtl",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CBC-FM The Entertainers Broadcast \u00b7 stevemtl"
     },
     {
       "year": 1994,
@@ -112,10 +106,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Club Dada",
-      "gear": "",
-      "taper": "smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "smores"
     },
     {
       "year": 1994,
@@ -126,10 +119,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheatre - ANA",
-      "gear": "M",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 Unknown"
     },
     {
       "year": 1994,
@@ -140,10 +132,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Universal Amphitheatre *Kamikaze Ride",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -154,10 +145,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Britain, CT",
       "venue": "The Sting - DAT",
-      "gear": "M",
-      "taper": "ted dralle",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 ted dralle"
     },
     {
       "year": 1994,
@@ -168,10 +158,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Alabama Halle",
-      "gear": "",
-      "taper": "Re-broadcast",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "Re-broadcast"
     },
     {
       "year": 1994,
@@ -182,10 +171,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Correggio, Italy",
       "venue": "Dalla Festa Dell Unita di Correggio",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1994,
@@ -196,10 +184,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Correggio, Italy",
       "venue": "Dalla Festa Dell Unita di Correggio - VHS",
-      "gear": "1",
-      "taper": "Italian TV",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": "1 \u00b7 Italian TV"
     },
     {
       "year": 1994,
@@ -210,10 +197,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Albert Hall",
-      "gear": "",
-      "taper": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 1996,
@@ -224,10 +210,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "The Tralf",
-      "gear": "",
-      "taper": "bigdaddybflo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "bigdaddybflo"
     },
     {
       "year": 1997,
@@ -238,10 +223,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Karlsruhe, Germany",
       "venue": "World Wild Weekend",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "notes": ""
     },
     {
       "year": 1999,
@@ -252,10 +236,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theater of Living Arts - AUD",
-      "gear": "M",
-      "taper": "MK4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "M \u00b7 MK4"
     },
     {
       "year": 2010,
@@ -266,10 +249,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "The Linda - WAMC's Performing Arts Studio",
-      "gear": "",
-      "taper": "CA-14",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14"
     },
     {
       "year": 2010,
@@ -280,10 +262,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "The Linda WAMC's Performing Arts Studio",
-      "gear": "",
-      "taper": "smores",
       "version": "FM",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "smores"
     },
     {
       "year": 2023,
@@ -294,10 +275,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Asbury Hall - Babeville",
-      "gear": "AT mics",
-      "taper": "binko",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "AT mics \u00b7 binko"
     }
   ]
 };

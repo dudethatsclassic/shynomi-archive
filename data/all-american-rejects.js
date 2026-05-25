@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Green Bay, WI",
       "venue": "Phoenix Park",
-      "gear": "Shure MV88, Ambeo, Zoom H2",
-      "taper": "Unknown",
       "version": "MIX",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Shure MV88, Ambeo, Zoom H2 \u00b7 Unknown"
     }
   ]
 };

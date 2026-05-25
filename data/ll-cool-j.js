@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Celebrity Theatre",
-      "gear": "",
-      "taper": "Def Jam '87 Tour",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Def Jam '87 Tour"
     }
   ]
 };

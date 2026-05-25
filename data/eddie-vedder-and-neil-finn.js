@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Karma Club",
-      "gear": "",
-      "taper": "marchesano transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "marchesano transfer"
     },
     {
       "year": 2001,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "New Zealand",
       "venue": "St. James Theater",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2001,
@@ -47,10 +45,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "New Zealand",
       "venue": "St. James Theater",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     },
     {
       "year": 2001,
@@ -61,10 +58,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "New Zealand",
       "venue": "St. James Theater",
-      "gear": "",
-      "taper": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": ""
     }
   ]
 };

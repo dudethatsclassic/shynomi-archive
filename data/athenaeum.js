@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Wingate, NC",
       "venue": "Wingate College",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     }
   ]
 };

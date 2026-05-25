@@ -25,10 +25,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Wetlands",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 1996,
@@ -39,10 +38,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Smith's Olde Bar",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2024,
@@ -53,10 +51,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Bethel, NY",
       "venue": "Bethel Woods Center for the Arts",
-      "gear": "Schoeps MK41vs",
-      "taper": "radio_w_b",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Schoeps MK41vs \u00b7 radio_w_b"
     },
     {
       "year": 2014,
@@ -67,10 +64,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Netphen-Deuz, Germany",
       "venue": "Freak Valley Festival (Zoom H2)",
-      "gear": "2024 remaster",
-      "taper": "spaceandit",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2024 remaster \u00b7 spaceandit"
     },
     {
       "year": 2015,
@@ -81,10 +77,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Dresden, Germany",
       "venue": "Chemiefabrik",
-      "gear": "Zoom",
-      "taper": "stone",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom \u00b7 stone"
     },
     {
       "year": 2016,
@@ -95,10 +90,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Desertfest",
-      "gear": "Zoom",
-      "taper": "stone",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom \u00b7 stone"
     },
     {
       "year": 2018,
@@ -109,10 +103,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "S.O 36",
-      "gear": "Zoom",
-      "taper": "stone",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom \u00b7 stone"
     },
     {
       "year": 2024,
@@ -123,10 +116,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ball Arena",
-      "gear": "Olympus LS-P4",
-      "taper": "bluejane99",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Olympus LS-P4 \u00b7 bluejane99"
     },
     {
       "year": 2024,
@@ -137,10 +129,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Footprint Center",
-      "gear": "DPA SMK4061",
-      "taper": "j.mart",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA SMK4061 \u00b7 j.mart"
     },
     {
       "year": 2024,
@@ -151,10 +142,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Crypto.com Arena",
-      "gear": "DPA 4081",
-      "taper": "faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4081 \u00b7 faninor"
     },
     {
       "year": 2024,
@@ -165,10 +155,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Ontario, CA",
       "venue": "Toyota Arena",
-      "gear": "DPA 4081",
-      "taper": "faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4081 \u00b7 faninor"
     },
     {
       "year": 2024,
@@ -179,10 +168,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "T-Mobile Arena",
-      "gear": "AT853s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "AT853s \u00b7 Unknown"
     },
     {
       "year": 2025,
@@ -193,10 +181,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Desertfest",
-      "gear": "DPA 4061",
-      "taper": "dh",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "DPA 4061 \u00b7 dh"
     }
   ]
 };

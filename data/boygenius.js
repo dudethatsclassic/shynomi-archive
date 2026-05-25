@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Club - Coachella Festival",
-      "gear": "",
-      "taper": "Webcast 1080",
       "version": "WEB",
-      "format": "MP4"
+      "format": "MP4",
+      "notes": "Webcast 1080"
     },
     {
       "year": 2023,
@@ -32,10 +31,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Valley Music and Arts Festival",
-      "gear": "",
-      "taper": "Webrip",
       "version": "WEB",
-      "format": "MKV"
+      "format": "MKV",
+      "notes": "Webrip"
     },
     {
       "year": 2023,
@@ -46,10 +44,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Stanford, CA",
       "venue": "Frost Amphitheater - Stanford University",
-      "gear": "SP-CMC-4U",
-      "taper": "huskerdu1972",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-4U \u00b7 huskerdu1972"
     },
     {
       "year": 2023,
@@ -60,10 +57,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Koln, Germany",
       "venue": "Palladium",
-      "gear": "Tascam DR-07X",
-      "taper": "bobfather",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Tascam DR-07X \u00b7 bobfather"
     },
     {
       "year": 2023,
@@ -74,10 +70,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Kingston upon Thames, UK",
       "venue": "PRYZM",
-      "gear": "Sennheiser AMBEO",
-      "taper": "thriftynomad",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sennheiser AMBEO \u00b7 thriftynomad"
     },
     {
       "year": 2023,
@@ -88,10 +83,9 @@ const ARTIST_DATA = {
       "state": "Scotland",
       "location": "Edinburgh, Scotland",
       "venue": "Connect Music Festival",
-      "gear": "CA-11",
-      "taper": "rairum",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-11 \u00b7 rairum"
     },
     {
       "year": 2023,
@@ -102,10 +96,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Maida Vale Studios",
-      "gear": "BBC iPlayer Stream",
-      "taper": "auto_pilot",
       "version": "WEB",
-      "format": "M4A"
+      "format": "M4A",
+      "notes": "BBC iPlayer Stream \u00b7 auto_pilot"
     },
     {
       "year": 2023,
@@ -116,10 +109,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "NBC Studios - Saturday Night Live HDTV",
-      "gear": "",
-      "taper": "",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     }
   ]
 };

@@ -24,10 +24,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "North Lions Club Park - ANA",
-      "gear": "x",
-      "taper": "reed howard",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x \u00b7 reed howard"
     },
     {
       "year": 1985,
@@ -38,10 +37,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Roxy - ANA",
-      "gear": "2",
-      "taper": "Unknown",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "2 \u00b7 Unknown"
     },
     {
       "year": 1988,
@@ -52,10 +50,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Sydney, AUS",
       "venue": "Enmore Theatre",
-      "gear": "",
-      "taper": "crankingamps",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "crankingamps"
     },
     {
       "year": 1989,
@@ -66,10 +63,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Bordeaux, France",
       "venue": "Theatre Barbey",
-      "gear": "unk",
-      "taper": "r. courb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "unk \u00b7 r. courb"
     },
     {
       "year": 1990,
@@ -80,10 +76,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Roxy - ANA",
-      "gear": "1",
-      "taper": "exene transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 exene transfer"
     },
     {
       "year": 1990,
@@ -94,10 +89,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Yale University - Battell Chapel - ANA",
-      "gear": "1",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1 \u00b7 Unknown"
     },
     {
       "year": 1992,
@@ -108,10 +102,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Brixton Acadamy - ANA",
-      "gear": "x",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "x \u00b7 Unknown"
     },
     {
       "year": 1994,
@@ -122,10 +115,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Maison de la Radio - Black Session - ANA",
-      "gear": "",
-      "taper": "1",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "1"
     },
     {
       "year": 2021,
@@ -136,10 +128,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Astra",
-      "gear": "Zoom H2",
-      "taper": "buenaventura",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Zoom H2 \u00b7 buenaventura"
     },
     {
       "year": 2021,
@@ -150,10 +141,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Den Gra? Hal, Denmark",
       "venue": "Freetown Christiania",
-      "gear": "CA-14",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CA-14 \u00b7 Unknown"
     }
   ]
 };

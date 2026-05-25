@@ -24,10 +24,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Whiskey A Go Go",
-      "gear": "",
-      "taper": "defu2",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "defu2"
     },
     {
       "year": 2001,
@@ -38,10 +37,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Horseshoe Tavern",
-      "gear": "CSB",
-      "taper": "thriftynomad",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 thriftynomad"
     },
     {
       "year": 2002,
@@ -52,10 +50,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Weeze, Germany",
       "venue": "Bizarre Festival - Flughafen Niederrhein",
-      "gear": "",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Unknown"
     },
     {
       "year": 2006,
@@ -66,10 +63,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Pepsi Arena",
-      "gear": "CSB",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSB \u00b7 Unknown"
     },
     {
       "year": 2006,
@@ -80,10 +76,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto , ON",
       "venue": "Molson Amphitheatre",
-      "gear": "CSC",
-      "taper": "burnboy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSC \u00b7 burnboy"
     },
     {
       "year": 2006,
@@ -94,10 +89,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "BJCC Auditorium",
-      "gear": "SP-CMC-4c",
-      "taper": "jhatcher",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "SP-CMC-4c \u00b7 jhatcher"
     },
     {
       "year": 2015,
@@ -108,10 +102,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Taiikukan",
-      "gear": "Multiple IEM + AUD",
-      "taper": "xavel",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Multiple IEM + AUD \u00b7 xavel"
     },
     {
       "year": 2017,
@@ -122,10 +115,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Live From Red Rocks",
-      "gear": "",
-      "taper": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nugs.net"
     },
     {
       "year": 2024,
@@ -136,10 +128,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Club - Stagecoach Festival",
-      "gear": "",
-      "taper": "",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "notes": ""
     },
     {
       "year": 2024,
@@ -150,10 +141,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "O2 Arena",
-      "gear": "Sony A10",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Sony A10 \u00b7 Unknown"
     }
   ]
 };

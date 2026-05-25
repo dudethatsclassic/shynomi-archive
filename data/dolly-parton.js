@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Wilkesboro, NC",
       "venue": "Merle Fest - DAT(M)",
-      "gear": "Nakamichi CM 700s",
-      "taper": "Unknown",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Nakamichi CM 700s \u00b7 Unknown"
     },
     {
       "year": 2005,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Madison WI",
       "venue": "Alliance Energy Center",
-      "gear": "CSC",
-      "taper": "mark gonwa",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "CSC \u00b7 mark gonwa"
     }
   ]
 };

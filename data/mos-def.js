@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Winooski, VT",
       "venue": "Higher Ground",
-      "gear": "Mos Def & Black Jack Johnson",
-      "taper": "Sony PCM R500",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "Mos Def & Black Jack Johnson \u00b7 Sony PCM R500"
     },
     {
       "year": 2008,
@@ -33,10 +32,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Coliumbia, MD",
       "venue": "Merriweather Post Pavilion",
-      "gear": "",
-      "taper": "travelinbeat",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "notes": "travelinbeat"
     }
   ]
 };

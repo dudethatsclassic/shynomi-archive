@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Coastal Credit Union Music Park",
-      "gear": "iPhone 13 Pro",
-      "taper": "shynomi",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "iPhone 13 Pro \u00b7 shynomi"
     },
     {
       "year": 2024,
@@ -32,10 +31,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Miller High Life Theatre",
-      "gear": "Zoom iQ7",
-      "taper": "poul0004",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "notes": "Zoom iQ7 \u00b7 poul0004"
     }
   ]
 };
