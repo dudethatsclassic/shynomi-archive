@@ -2,15 +2,30 @@ const ARTIST_DATA = {
   "id": "george-strait",
   "name": "George Strait",
   "drive": "C",
-  "showCount": 4,
-  "firstYear": 1982,
+  "showCount": 6,
+  "firstYear": 1980,
   "lastYear": 1985,
   "years": [
+    1980,
     1982,
     1983,
+    1984,
     1985
   ],
   "shows": [
+    {
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1980",
+      "city": "Houston",
+      "state": "TX",
+      "location": "Houston, TX",
+      "venue": "Whiskey River",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
     {
       "year": 1982,
       "month": 3,
@@ -20,9 +35,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Lone Star Cafe",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1983,
@@ -33,9 +48,22 @@ const ARTIST_DATA = {
       "state": "NY /Country Sessions",
       "location": "New York, NY /Country Sessions",
       "venue": "",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1984,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1984",
+      "city": "Pasadena",
+      "state": "TX",
+      "location": "Pasadena, TX",
+      "venue": "Gilley's",
+      "notes": "",
+      "version": "Vinyl",
+      "format": "FLAC"
     },
     {
       "year": 1985,
@@ -46,9 +74,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Pasadena, TX",
       "venue": "Gilley's",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1985,
@@ -59,9 +87,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Pasadena, TX",
       "venue": "Gilley's",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
