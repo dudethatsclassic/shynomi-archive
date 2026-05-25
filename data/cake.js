@@ -33,9 +33,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Davis, CA",
       "venue": "Whole Earth Festival",
+      "notes": "CRGP #18",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Crgp #18"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -46,9 +46,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
+      "notes": "ted mattes",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "ted mattes"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -59,9 +59,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Smith's Old Bar",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -72,9 +72,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "El Rey Theatre",
+      "notes": "DAT(M) · SS-DSM6 · the gambler",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ss-dsm6 \u00b7 The Gambler"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -84,10 +84,10 @@ const ARTIST_DATA = {
       "city": "Atlanta",
       "state": "GA",
       "location": "Atlanta, GA",
-      "venue": "Synchronized Sound Studios - 99X",
+      "venue": "Synchronized Sound Studios",
+      "notes": "99X",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -98,9 +98,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Telluride, CO",
       "venue": "Telluride Bluegrass Festival",
+      "notes": "aja097 remaster",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Aja097 Remaster"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -111,9 +111,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Great American Music Hall *A Slick Music Product",
+      "notes": "",
       "version": "TV",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2004,
@@ -124,22 +124,22 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Moore Theater",
+      "notes": "AT853s · basshead",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT853s \u00b7 Basshead"
+      "format": "FLAC"
     },
     {
       "year": 2005,
       "month": 5,
       "day": 16,
       "dateStr": "5-16-2005",
-      "city": "Landgraaf, The Netherlands",
-      "state": "",
+      "city": "Landgraaf",
+      "state": "The Netherlands",
       "location": "Landgraaf, The Netherlands",
       "venue": "Pinkpop Festival",
+      "notes": "weeddude",
       "version": "PRO",
-      "format": "DVD",
-      "notes": "Weeddude"
+      "format": "DVD"
     },
     {
       "year": 2005,
@@ -150,9 +150,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Bakersfield, CA",
       "venue": "Crystal Palace",
+      "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Nugs.net"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -163,9 +163,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Lawrence, KS",
       "venue": "Wakarusa Festival",
+      "notes": "MBHO KA200N · brian price",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Mbho Ka200n \u00b7 Brian Price"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -176,22 +176,22 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theater",
+      "notes": "Schoeps CMC34",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CMC34"
+      "format": "FLAC"
     },
     {
       "year": 2009,
       "month": 5,
       "day": 31,
       "dateStr": "5-31-2009",
-      "city": "Washington, D.C.",
-      "state": "",
+      "city": "Washington",
+      "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "CA-14s · travelinbeat",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "travelinbeat \u00b7 Ca-14s"
+      "format": "FLAC 24"
     },
     {
       "year": 2009,
@@ -202,9 +202,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Artscape",
+      "notes": "CAFS & CA-14s · travelinbeat",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "travelinbeat \u00b7 Cafs & Ca-14s"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -215,9 +215,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Artscape",
+      "notes": "AKG C460Bs · tdb",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Akg C460bs \u00b7 Tdb"
+      "format": "FLAC 24"
     },
     {
       "year": 2009,
@@ -228,9 +228,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Turin, NY",
       "venue": "Moe Down X",
+      "notes": "Neumann KM184 · rob clarke",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Neumann Km184 \u00b7 Rob Clarke"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -241,9 +241,9 @@ const ARTIST_DATA = {
       "state": "HI",
       "location": "Honolulu, HI",
       "venue": "Pipeline Cafe",
+      "notes": "CA-14 · thebang",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Ca-14 \u00b7 Thebang"
+      "format": "FLAC 24"
     },
     {
       "year": 2011,
@@ -254,9 +254,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
+      "notes": "Edirol R09 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R09 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -267,9 +267,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Glenside, PA",
       "venue": "Keswick Theater",
+      "notes": "Schoeps MK4 · larry",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Larry"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -279,10 +279,10 @@ const ARTIST_DATA = {
       "city": "Las Vegas",
       "state": "NV",
       "location": "Las Vegas, NV",
-      "venue": "Cosmopolitan Pool - WAV(M)",
+      "venue": "Cosmopolitan Pool",
+      "notes": "WAV(M) · ECM-12 · luke freteluco",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-12 \u00b7 Luke Freteluco"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -293,35 +293,35 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
+      "notes": "MK4 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "MK4 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2012,
       "month": 11,
       "day": 10,
       "dateStr": "11-10-2012",
-      "city": "Melbourne, Australia",
-      "state": "",
+      "city": "Melbourne",
+      "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Harvest Festival",
+      "notes": "CA-14s · roman79",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Ca-14s \u00b7 Roman79"
+      "format": "FLAC 24"
     },
     {
       "year": 2012,
       "month": 11,
       "day": 12,
       "dateStr": "11-12-2012",
-      "city": "Wangels, Germany",
-      "state": "",
+      "city": "Wangels",
+      "state": "Germany",
       "location": "Wangels, Germany",
-      "venue": "Ferienpark Weissenh?user Strand",
+      "venue": "Ferienpark Weissenhäuser Strand",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -331,10 +331,10 @@ const ARTIST_DATA = {
       "city": "Memphis",
       "state": "TN",
       "location": "Memphis, TN",
-      "venue": "Tom Lee Park - River Stage",
+      "venue": "Tom Lee Park",
+      "notes": "River · SS-DSM-6P · steve hagar",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ss-dsm-6p \u00b7 Steve Hagar"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -345,9 +345,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "The Rady Shell at Jacob's Park",
+      "notes": "SP-CMC-4U · carsfan",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 Carsfan"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -358,9 +358,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Costa Mesa, CA",
       "venue": "Pacific Amphitheatre",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 Faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -371,9 +371,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oceanside, CA",
       "venue": "Frontwave Arena",
+      "notes": "SP-CMC-4U · carsfan",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 Carsfan"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -384,9 +384,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Brooklyn Bowl",
+      "notes": "AT853 · anonymous",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "AT853 \u00b7 Anonymous"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -397,9 +397,10 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Iroquois Amphitheater",
+      "notes": "Schoeps MK4 · funk it blog",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 Funk It Blog"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
