@@ -20,7 +20,7 @@ function versionBadge(v) {
 
 function formatBadge(f) {
   if (!f) return '';
-  const video = ['DVD', 'MKV', 'MP4', 'AVI', 'MPG'];
+  const video = ['DVD', 'MKV', 'MP4', 'AVI', 'MPG', 'TS'];
   if (video.some(v => f.toUpperCase().includes(v))) return '<span class="badge badge-video">' + esc(f) + '</span>';
   if (f.toUpperCase().includes('MP3')) return '<span class="badge badge-mp3">' + esc(f) + '</span>';
   const cls = f.includes('24') ? 'badge-flac24' : 'badge-flac';
