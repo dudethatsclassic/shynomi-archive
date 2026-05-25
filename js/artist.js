@@ -120,7 +120,7 @@ function render() {
       <div class="artist-hero-gradient"></div>
       <div class="artist-hero-content">
         <div class="container">
-          <a class="back-link" href="../../">
+          <a class="back-link" href="../../" onclick="if(document.referrer.includes(location.hostname)||document.referrer.startsWith('file:')){history.back();return false;}">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
               <path d="M19 12H5"/><path d="M12 5l-7 7 7 7"/>
             </svg>
