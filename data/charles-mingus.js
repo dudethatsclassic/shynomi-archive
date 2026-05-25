@@ -22,130 +22,130 @@ const ARTIST_DATA = {
       "month": 4,
       "day": 10,
       "dateStr": "4-10-1964",
-      "city": "Amsterdam, Holland",
-      "state": "",
+      "city": "Amsterdam",
+      "state": "Holland",
       "location": "Amsterdam, Holland",
       "venue": "Concertgebouw",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 4,
       "day": 12,
       "dateStr": "4-12-1964",
-      "city": "Oslo, Norway (flambay pitch fixed)",
-      "state": "",
+      "city": "Oslo",
+      "state": "Norway (flambay pitch fixed)",
       "location": "Oslo, Norway (flambay pitch fixed)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 4,
       "day": 13,
       "dateStr": "4-13-1964",
-      "city": "Stockholm, Sweden (First Concert) (flambay pitch fixed)",
-      "state": "",
+      "city": "Stockholm",
+      "state": "Sweden (First Concert) (flambay pitch fixed)",
       "location": "Stockholm, Sweden (First Concert) (flambay pitch fixed)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 4,
       "day": 16,
       "dateStr": "4-16-1964",
-      "city": "Bremen, Germany - Sendesaal",
-      "state": "",
+      "city": "Bremen",
+      "state": "Germany - Sendesaal",
       "location": "Bremen, Germany - Sendesaal",
       "venue": "",
+      "notes": "",
       "version": "preFM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 4,
       "day": 16,
       "dateStr": "4-16-1964",
-      "city": "Bremen, Germany (Update) (cary wolfson)",
-      "state": "",
+      "city": "Bremen",
+      "state": "Germany (Update) (cary wolfson)",
       "location": "Bremen, Germany (Update) (cary wolfson)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 4,
       "day": 28,
       "dateStr": "4-28-1964",
-      "city": "Liederhalle, Stuttgart",
-      "state": "",
+      "city": "Liederhalle",
+      "state": "Stuttgart",
       "location": "Liederhalle, Stuttgart",
       "venue": "Mozartsaal",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 4,
       "day": 28,
       "dateStr": "4-28-1964",
-      "city": "Stuttgart, Germany",
-      "state": "",
+      "city": "Stuttgart",
+      "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Liederhalle",
+      "notes": "Flambay Pitch Fixed",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Flambay Pitch Fixed"
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 10,
       "day": 31,
       "dateStr": "10-31-1964",
-      "city": "Toronto, Ontario",
-      "state": "",
+      "city": "Toronto",
+      "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Inner Voices CBC TV",
+      "notes": "flambay speed corrected",
       "version": "TV",
-      "format": "FLAC",
-      "notes": "Flambay Speed Corrected"
+      "format": "FLAC"
     },
     {
       "year": 1970,
       "month": 10,
       "day": 28,
       "dateStr": "10-28-1970",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Theatre National Populaire du Palais Du Chaillot",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1970,
       "month": 11,
       "day": 1,
       "dateStr": "11-1-1970",
-      "city": "Rotterdam, The Netherlands",
-      "state": "",
+      "city": "Rotterdam",
+      "state": "The Netherlands",
       "location": "Rotterdam, The Netherlands",
       "venue": "Newport in Europe Festival",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1972,
@@ -155,10 +155,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Newport Jazz Festival - Philharmonic Hall",
+      "venue": "Newport Jazz Festival",
+      "notes": "Philharmonic",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1972,
@@ -169,22 +169,22 @@ const ARTIST_DATA = {
       "state": "",
       "location": "At the 2nd Nice Jazz Festival",
       "venue": "",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1972,
       "month": 8,
       "day": 19,
       "dateStr": "8-19-1972",
-      "city": "Emmaboda, Sweden",
-      "state": "",
+      "city": "Emmaboda",
+      "state": "Sweden",
       "location": "Emmaboda, Sweden",
       "venue": "Unknown Venue",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1972,
@@ -194,23 +194,23 @@ const ARTIST_DATA = {
       "city": "Boston",
       "state": "MA",
       "location": "Boston, MA",
-      "venue": "Boston Sound Improved - WBCN Radio Broadcast",
+      "venue": "Boston Sound Improved",
+      "notes": "WBCN · u014945",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "U014945"
+      "format": "FLAC"
     },
     {
       "year": 1972,
       "month": 11,
       "day": 7,
       "dateStr": "11-7-1972",
-      "city": "Stuttgart, Germany",
-      "state": "",
+      "city": "Stuttgart",
+      "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Liederhalle",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1972,
@@ -221,9 +221,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Bologna",
       "venue": "Palazzo dello Sport",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1973,
@@ -234,9 +234,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Jazz Workshop",
+      "notes": "WBCN-FM",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Wbcn-fm"
+      "format": "FLAC"
     },
     {
       "year": 1973,
@@ -247,9 +247,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Strata Concert Gallery",
+      "notes": "WBET Radio",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Wbet Radio"
+      "format": "FLAC"
     },
     {
       "year": 1973,
@@ -260,35 +260,35 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Jazz Workshop",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1974,
       "month": 7,
       "day": 27,
       "dateStr": "7-27-1974",
-      "city": "Ravenna, ITaly",
-      "state": "",
+      "city": "Ravenna",
+      "state": "ITaly",
       "location": "Ravenna, ITaly",
       "venue": "Rocca Brancaleone",
+      "notes": "flambay U014945",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Flambay U014945"
+      "format": "FLAC"
     },
     {
       "year": 1974,
       "month": 7,
       "day": 27,
       "dateStr": "7-27-1974",
-      "city": "Ravenna, Italy",
-      "state": "",
+      "city": "Ravenna",
+      "state": "Italy",
       "location": "Ravenna, Italy",
       "venue": "Rocca Brancaleone",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1975,
@@ -299,9 +299,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Village Vanguard",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1975,
@@ -312,22 +312,22 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "Jesse Hall",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1975,
       "month": 7,
       "day": 24,
       "dateStr": "7-24-1975",
-      "city": "Juan-les-Pins, France",
-      "state": "",
+      "city": "Juan-les-Pins",
+      "state": "France",
       "location": "Juan-les-Pins, France",
       "venue": "Festival de jazz d'Antibes",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1976,
@@ -338,22 +338,22 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Palermo *Without First Title",
       "venue": "",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1976,
       "month": 8,
       "day": 26,
       "dateStr": "8-26-1976",
-      "city": "Amsterdam, Holland",
-      "state": "",
+      "city": "Amsterdam",
+      "state": "Holland",
       "location": "Amsterdam, Holland",
       "venue": "Paradiso",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1977,
@@ -364,9 +364,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Michigan Union Ballroom",
+      "notes": "u014945",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "U014945"
+      "format": "FLAC"
     },
     {
       "year": 1977,
@@ -377,9 +377,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Village Gate",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1977,
@@ -390,9 +390,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Tumwater, WA",
       "venue": "Tyee Motor Inn",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1977,
@@ -403,48 +403,48 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Morse Auditorium",
+      "notes": "Early Set · Sony TC-56 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony TC-56 \u00b7 Early Set \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1977,
       "month": 6,
       "day": 3,
       "dateStr": "6-3-1977",
-      "city": "Buenos Aires, Argentina",
-      "state": "",
+      "city": "Buenos Aires",
+      "state": "Argentina",
       "location": "Buenos Aires, Argentina",
       "venue": "Unknown Venue",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1977,
       "month": 7,
       "day": 13,
       "dateStr": "7-13-1977",
-      "city": "Nice, France",
-      "state": "",
+      "city": "Nice",
+      "state": "France",
       "location": "Nice, France",
       "venue": "Nice Jazz Festival",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2003,
       "month": 8,
       "day": 31,
       "dateStr": "8-31-2003",
-      "city": "Willisau, Switzerland",
-      "state": "",
+      "city": "Willisau",
+      "state": "Switzerland",
       "location": "Willisau, Switzerland",
       "venue": "Jazz Festival",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
   ],
   "misc": [
