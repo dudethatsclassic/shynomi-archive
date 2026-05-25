@@ -27,9 +27,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Pabst Theater",
+      "notes": "Sony ICD-SX70 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ICD-SX70 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -40,9 +40,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Riverside Theater",
+      "notes": "Sony ICD-SX70",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ICD-SX70"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -53,9 +53,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Country to Country Festival",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -66,9 +66,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Country to Country",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -79,9 +79,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits",
+      "notes": "",
       "version": "TV",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2018,
@@ -92,9 +92,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Yuzawa, Japan",
       "venue": "Fuji Rock Festival",
+      "notes": "indykid",
       "version": "Webcast",
-      "format": "TS",
-      "notes": "indykid"
+      "format": "TS"
     },
     {
       "year": 2018,
@@ -105,9 +105,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Xfinity Theatre",
+      "notes": "indykid",
       "version": "Webcast",
-      "format": "TS",
-      "notes": "indykid"
+      "format": "TS"
     },
     {
       "year": 2018,
@@ -118,9 +118,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Vega",
+      "notes": "CA-14 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -131,9 +131,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washingon, D.C.",
       "venue": "The Anthem",
+      "notes": "CA-11 · opsopcopolis",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11 \u00b7 opsopcopolis"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -144,9 +144,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Express Live",
+      "notes": "AT853 · charles dewey cole",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT853 \u00b7 charles dewey cole"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -156,10 +156,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "61st Annual Grammy Awards - Dolly Parton Tribute",
+      "venue": "61st Annual Grammy Awards",
+      "notes": "Dolly",
       "version": "TV",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2019,
@@ -170,9 +170,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
+      "notes": "SP-CMC-8 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -183,9 +183,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival",
+      "notes": "indykid",
       "version": "Webcast",
-      "format": "TS",
-      "notes": "indykid"
+      "format": "TS"
     },
     {
       "year": 2019,
@@ -196,9 +196,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Palais Theatre",
+      "notes": "Nokia Lumia 930 · eckythump",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Nokia Lumia 930 \u00b7 eckythump"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -208,10 +208,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Grant Park - Lollapalooza",
+      "venue": "Grant Park",
+      "notes": "Lollapalooza · indykid",
       "version": "Webcast",
-      "format": "TS",
-      "notes": "indykid"
+      "format": "TS"
     },
     {
       "year": 2019,
@@ -222,9 +222,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Jacob's Pavilion at Nautica",
+      "notes": "CA-14 · charles dewey cole",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 \u00b7 charles dewey cole"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -235,9 +235,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
+      "notes": "CA-14 · larryrulz",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 \u00b7 larryrulz"
+      "format": "FLAC"
     },
     {
       "year": 2021,
@@ -247,10 +247,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "NBC Studios - Saturday Night Live",
+      "venue": "NBC Studios",
+      "notes": "Saturday · HD Cable",
       "version": "TV",
-      "format": "TS",
-      "notes": "HD Cable"
+      "format": "TS"
     },
     {
       "year": 2022,
@@ -261,9 +261,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wells Fargo Center",
+      "notes": "Schoeps MK41 · joe burns",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK41 \u00b7 joe burns"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -274,9 +274,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Pilton, UK",
       "venue": "Glastonbury Festival",
+      "notes": "ex-cowboy",
       "version": "Webcast",
-      "format": "MP4",
-      "notes": "ex-cowboy"
+      "format": "MP4"
     },
     {
       "year": 2022,
@@ -287,9 +287,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
+      "notes": "CA-14s · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14s \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -299,10 +299,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "Crypto.com Arena - The Grammys",
+      "venue": "Crypto.com Arena",
+      "notes": "The",
       "version": "TV",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2024,
@@ -312,10 +312,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "NBC Studios - SNL",
+      "venue": "NBC Studios",
+      "notes": "SNL",
       "version": "TV",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2024,
@@ -326,9 +326,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits",
+      "notes": "unk",
       "version": "TV",
-      "format": "TS",
-      "notes": "Unknown"
+      "format": "TS"
     },
     {
       "year": 2024,
@@ -339,9 +339,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "Kia Forum",
+      "notes": "SP-CMC-4U · ijwthstd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 ijwthstd"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -352,9 +352,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Schottenstein Center",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -365,9 +365,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Barclays Center",
+      "notes": "CA-11 · larryrulz",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11 \u00b7 larryrulz"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -378,9 +378,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Palais Theatre",
+      "notes": "Nokia Lumia 930 · eckythump",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Nokia Lumia 930 \u00b7 eckythump"
+      "format": "FLAC"
     },
     {
       "year": 2026,
@@ -391,9 +391,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival",
+      "notes": "1080p VP9",
       "version": "PRO",
-      "format": "MKV",
-      "notes": "1080p VP9"
+      "format": "MKV"
     }
-  ]
+  ],
+  "misc": []
 };
