@@ -2,11 +2,27 @@ const ARTIST_DATA = {
   "id": "chuck-berry",
   "name": "Chuck Berry",
   "drive": "D",
-  "showCount": 0,
-  "firstYear": null,
-  "lastYear": null,
-  "years": [],
-  "shows": [],
+  "showCount": 1,
+  "firstYear": 1982,
+  "lastYear": 1982,
+  "years": [
+    1982
+  ],
+  "shows": [
+    {
+      "year": 1982,
+      "month": 9,
+      "day": 16,
+      "dateStr": "9-16-1982",
+      "city": "Albuquerque",
+      "state": "NM",
+      "location": "Albuquerque, NM",
+      "venue": "State Fairgrounds",
+      "version": "AUD",
+      "format": "FLAC",
+      "notes": "Aiwa HS-J1 \u00b7 langdon"
+    }
+  ],
   "misc": [
     {
       "type": "release",
