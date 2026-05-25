@@ -79,10 +79,13 @@
         .split(/\s+/).map(w => w[0]).join('').toUpperCase().slice(0, 3);
 
       card.innerHTML = `
-        <div class="artist-card-placeholder" data-id="${artist.id}">${initials}</div>
+        <div class="artist-card-img-wrap">
+          <div class="artist-card-placeholder" data-id="${artist.id}">${initials}</div>
+          <span class="artist-card-count">${artist.showCount} shows</span>
+        </div>
         <div class="artist-card-info">
           <div class="artist-card-name">${artist.name}</div>
-          <div class="artist-card-meta">${artist.showCount} shows &middot; ${artist.firstYear}&ndash;${artist.lastYear}</div>
+          <div class="artist-card-meta">${artist.firstYear}&ndash;${artist.lastYear}</div>
         </div>`;
 
       const img = new Image();
@@ -95,6 +98,7 @@
         if (ph) ph.replaceWith(photo);
       };
       img.src = `images/${artist.id}/band.jpg`;
+
 
       return card;
     }
