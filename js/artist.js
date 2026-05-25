@@ -65,7 +65,7 @@ function render() {
 
   // Year nav pills
   const miscPill = (d.misc && d.misc.length)
-    ? '<button class="year-pill" data-year="misc">Misc</button>'
+    ? '<button class="year-pill" data-year="misc">MISC</button>'
     : '';
   const yearNav = d.years.map(y =>
     '<button class="year-pill" data-year="' + y + '">' + y + '</button>'
@@ -94,7 +94,7 @@ function render() {
   // Misc section
   const miscHtml = (d.misc && d.misc.length)
     ? '<div class="year-block" id="year-misc">'
-        + '<h2 class="year-label">Misc</h2>'
+        + '<h2 class="year-label">MISC</h2>'
         + '<table class="show-table"><tbody>'
         + d.misc.map(renderMiscRow).join('')
         + '</tbody></table></div>'
