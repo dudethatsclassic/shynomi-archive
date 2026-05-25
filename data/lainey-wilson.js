@@ -20,9 +20,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Fremont Street Experience",
+      "notes": "SP-CMC-4U · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -33,9 +33,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Uncasville,CT",
       "venue": "Mohegan Sun Arena",
+      "notes": "CA14 · wilson",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA14 \u00b7 wilson"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -46,9 +46,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga Springs, NY",
       "venue": "Saratoga Performaing Arts Center",
+      "notes": "ECM-719 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "ECM-719 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -59,9 +59,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Academy",
+      "notes": "iPhone SE · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "iPhone SE \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -72,9 +72,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
+      "notes": "ECM719 · firemt66",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "ECM719 \u00b7 firemt66"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
