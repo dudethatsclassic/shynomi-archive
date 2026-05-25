@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shynomi's Live Archive</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <div class="inner">
+        <a class="site-logo" href="/">Shynomi's Live<span>Archive</span></a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="home-intro">
+      <div class="container">
+        <h1>Live Archive</h1>
+        <p>A personal collection of live recordings</p>
+        <div style="margin-top: 20px;">
+          <a href="search.html" style="display: inline-block; padding: 10px 16px; background: rgba(201,151,60,0.12); border: 1px solid rgba(201,151,60,0.35); border-radius: 6px; color: #c9973c; font-size: 0.85rem; font-weight: 500; transition: all 0.15s ease;" onmouseover="this.style.background='rgba(201,151,60,0.2)'" onmouseout="this.style.background='rgba(201,151,60,0.12)'">
+            Search all shows →
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="artist-grid" id="artist-grid"></div>
+    </div>
+  </main>
+
+  <script src="data/artists.js"></script>
+  <script src="js/logo.js"></script>
+  <script>
+    document.querySelector('.site-logo').outerHTML = getLogo('/');
+    const grid = document.getElementById('artist-grid');
+
+    ARTISTS.forEach(artist => {
+      const card = document.createElement('a');
+      card.href      = `artists/${artist.id}/`;
+      card.className = 'artist-card';
+
+      const initials = artist.name
+        .split(/\s+/).map(w => w[0]).join('').toUpperCase().slice(0, 3);
+
+      card.innerHTML = `
+        <div class="artist-card-placeholder" data-id="${artist.id}">${initials}</div>
+        <div class="artist-card-info">
+          <div class="artist-card-name">${artist.name}</div>
+          <div class="artist-card-meta">${artist.showCount} shows &middot; ${artist.firstYear}&ndash;${artist.lastYear}</div>
+        </div>`;
+
+      // Swap placeholder for real photo if one exists
+      const img = new Image();
+      img.onload = () => {
+        const ph = card.querySelector('.artist-card-placeholder');
+        const photo = document.createElement('img');
+        photo.className = 'artist-card-photo';
+        photo.src = img.src;
+        photo.alt = artist.name;
+        if (ph) ph.replaceWith(photo);
+      };
+      img.src = `images/${artist.id}/band.jpg`;
+
+      grid.appendChild(card);
+    });
+  </script>
+
+</body>
+</html>
