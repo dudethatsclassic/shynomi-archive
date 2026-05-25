@@ -276,6 +276,7 @@ a { color: inherit; text-decoration: none; }
 .badge-flac     { background: transparent; color: var(--text-muted); border: 1px solid var(--border); }
 .badge-flac24   { background: var(--accent-dim); color: var(--accent); border: 1px solid var(--accent-ring); }
 .badge-video    { background: rgba(230,195,0,0.12); color: #e6c300; border: 1px solid rgba(230,195,0,0.3); }
+.badge-mp3      { background: rgba(220,60,60,0.12); color: #dc3c3c; border: 1px solid rgba(220,60,60,0.3); }
 
 /* ── Misc section ────────────────────────────────────── */
 .misc-section { margin-top: 48px; border-top: 1px solid var(--border); padding-top: 32px; }
