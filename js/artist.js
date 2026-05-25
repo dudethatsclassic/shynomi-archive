@@ -55,7 +55,7 @@ function render() {
         <td class="col-date">${fmtDate(s)}</td>
         <td class="col-venue">
           <div>${esc(s.venue)}</div>
-          ${(s.gear || s.taper) ? `<div class="show-notes">${s.gear ? `<span class="note-label">Gear:</span> ${esc(s.gear)}` : ''} ${s.gear && s.taper ? '·' : ''} ${s.taper ? `<span class="note-label">Taper:</span> ${esc(s.taper)}` : ''}</div>` : ''}
+          ${s.notes ? `<div class="show-notes">${esc(s.notes)}</div>` : ''}
         </td>
         <td class="col-location">${esc(s.location)}</td>
         <td class="col-badges">
