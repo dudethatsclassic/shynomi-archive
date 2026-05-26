@@ -2,16 +2,30 @@ const ARTIST_DATA = {
   "id": "chevelle",
   "name": "Chevelle",
   "drive": "F",
-  "showCount": 6,
-  "firstYear": 2021,
+  "showCount": 7,
+  "firstYear": 2007,
   "lastYear": 2025,
   "years": [
+    2007,
     2021,
     2023,
     2024,
     2025
   ],
   "shows": [
+    {
+      "year": 2007,
+      "month": 4,
+      "day": 1,
+      "dateStr": "4-1-2007",
+      "city": "Centennial Olympic Park (DPA 4061s) (dunebug81)",
+      "state": "",
+      "location": "Centennial Olympic Park (DPA 4061s) (dunebug81)",
+      "venue": "",
+      "notes": "",
+      "version": "AUD",
+      "format": "FLAC"
+    },
     {
       "year": 2021,
       "month": 11,
@@ -21,9 +35,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Daytona Beach, FL",
       "venue": "Welcome to Rockville Festival",
+      "notes": "SP-CMC-8 · porcelmc",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 porcelmc"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -34,9 +48,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Cal Coast Credit Union Open Air Theatre",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -46,10 +60,10 @@ const ARTIST_DATA = {
       "city": "Wheatland",
       "state": "CA",
       "location": "Wheatland, CA",
-      "venue": "Hard Rock Live - WAV(M)",
+      "venue": "Hard Rock Live",
+      "notes": "WAV(M) · SP-CMC-4U · vibriodixire",
       "version": "AUD #1",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-4U \u00b7 vibriodixire"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -59,10 +73,10 @@ const ARTIST_DATA = {
       "city": "Syracuse",
       "state": "NY",
       "location": "Syracuse, NY",
-      "venue": "Suburban Park Stage - NYS Fairgrounds",
+      "venue": "Suburban Park Stage",
+      "notes": "NYS · Schoeps MK4 · beatkilla",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 beatkilla"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -72,10 +86,10 @@ const ARTIST_DATA = {
       "city": "Columbus",
       "state": "OH",
       "location": "Columbus, OH",
-      "venue": "Sonic Temple Festival - Temple Stage",
+      "venue": "Sonic Temple Festival",
+      "notes": "Temple · Schoeps MK41 · jesse mc",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK41 \u00b7 jesse mc"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -85,10 +99,11 @@ const ARTIST_DATA = {
       "city": "Denver",
       "state": "CO",
       "location": "Denver, CO",
-      "venue": "Fillmore Auditorium (M)",
+      "venue": "Fillmore Auditorium",
+      "notes": "M · DPA 4061 · loudpuppy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 loudpuppy"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
