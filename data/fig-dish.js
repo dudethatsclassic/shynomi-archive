@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Kenosha, WI",
       "venue": "Brat Stop",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 \u00b7 live2cd"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
