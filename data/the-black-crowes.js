@@ -3793,19 +3793,6 @@ const ARTIST_DATA = {
     },
     {
       "year": 2026,
-      "month": 4,
-      "day": 3,
-      "dateStr": "4-3-2026",
-      "city": "Melbourne",
-      "state": "AUS",
-      "location": "Melbourne, AUS",
-      "venue": "Forum",
-      "notes": "Shure 184s \u00b7 Blackout",
-      "version": "AUD",
-      "format": "FLAC 24"
-    },
-    {
-      "year": 2026,
       "month": 5,
       "day": 23,
       "dateStr": "5-23-2026",
