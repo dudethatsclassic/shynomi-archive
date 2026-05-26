@@ -20,9 +20,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Westwood, CA",
       "venue": "Cooperage UCLA",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -33,9 +33,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Long Beach, CA",
       "venue": "Al's Bar",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -45,10 +45,10 @@ const ARTIST_DATA = {
       "city": "San Diego",
       "state": "CA",
       "location": "San Diego, CA",
-      "venue": "Casbah - ANA",
+      "venue": "Casbah",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -59,9 +59,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGBs",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -72,9 +72,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "The Middle East",
+      "notes": "unk · auto_pilot",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 auto_pilot"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -85,9 +85,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Echoplex",
+      "notes": "unk",
       "version": "MIX",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -98,9 +98,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Showbox",
+      "notes": "DPA 4060 · tim kahn",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4060 \u00b7 tim kahn"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
