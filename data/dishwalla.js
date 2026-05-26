@@ -20,9 +20,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "W. Hollywood, CA",
       "venue": "The Troubadour",
+      "notes": "Sonic Studios · markp",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sonic Studios \u00b7 markp"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -33,9 +33,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -45,10 +45,11 @@ const ARTIST_DATA = {
       "city": "Winston Salem",
       "state": "NC",
       "location": "Winston Salem, NC",
-      "venue": "Bailey Park - Gears and Guitars Festival",
+      "venue": "Bailey Park",
+      "notes": "Gears · CA-11 · ultramega",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11 \u00b7 ultramega"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
