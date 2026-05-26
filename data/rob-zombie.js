@@ -30,9 +30,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Modjeska Theate",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -43,9 +43,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Mesa, AZ",
       "venue": "Mesa Amphitheater",
+      "notes": "Sony MZR-50",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony MZR-50"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -55,10 +55,10 @@ const ARTIST_DATA = {
       "city": "Devore",
       "state": "CA",
       "location": "Devore, CA",
-      "venue": "Blockbuster Pavilion - ANA",
+      "venue": "Blockbuster Pavilion",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -69,9 +69,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Polaris Ampitheater",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -82,9 +82,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Cobo Hall",
+      "notes": "ECM-717",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-717"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -95,9 +95,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Long Beach, CA",
       "venue": "Long Beach Arena",
+      "notes": "DSM6",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DSM6"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -108,9 +108,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "DCU Center",
+      "notes": "CSB · farve4",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 farve4"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -121,9 +121,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Air Canada Centre",
+      "notes": "CSC · burnboy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSC \u00b7 burnboy"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -134,9 +134,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Eagles Ballroom",
+      "notes": "Zoom H2 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H2 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -147,9 +147,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Sound Acadamy",
+      "notes": "SP-CMC-8 · burnboy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 burnboy"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -160,9 +160,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Molson Canadian Amphitheatre (Version 1) (CSB) (burnboy",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Version 1 \u00b7 CSB"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -172,10 +172,10 @@ const ARTIST_DATA = {
       "city": "Toronto",
       "state": "ON",
       "location": "Toronto, ON",
-      "venue": "Molson Canadian Amphitheatre (Version 2)",
+      "venue": "Molson Canadian Amphitheatre",
+      "notes": "Version 2 · SP-CMC-8 · burnboy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 burnboy"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -185,10 +185,10 @@ const ARTIST_DATA = {
       "city": "Toronto",
       "state": "ON",
       "location": "Toronto, ON",
-      "venue": "Molson Canadian Amphitheatre (Version3)",
+      "venue": "Molson Canadian Amphitheatre",
+      "notes": "Version3 · SP-CMC-25 · burnboy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-25 \u00b7 burnboy"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -199,9 +199,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Gibson Amphitheatre",
+      "notes": "DSM6",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DSM6"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -212,9 +212,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Mandalay Bay Events Center",
+      "notes": "AT853",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT853"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -225,9 +225,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Xfinity Center",
+      "notes": "Zoom H1",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Zoom H1"
+      "format": "FLAC 24"
     },
     {
       "year": 2018,
@@ -237,10 +237,10 @@ const ARTIST_DATA = {
       "city": "Inglewood",
       "state": "CA",
       "location": "Inglewood, CA",
-      "venue": "The Forum - Ozzfest",
+      "venue": "The Forum",
+      "notes": "Ozzfest · CA-11c",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11c"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -250,10 +250,10 @@ const ARTIST_DATA = {
       "city": "Mansfield",
       "state": "MA",
       "location": "Mansfield, MA",
-      "venue": "Xfinity Center (inc)",
+      "venue": "Xfinity Center",
+      "notes": "inc · R9 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "R9 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -264,9 +264,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Xfinity Theater",
+      "notes": "SP-CMC-8 · smores",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 smores"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -277,9 +277,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Concord Pavilion",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4s \u00b7 tj"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -290,9 +290,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -303,9 +303,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Xfinity Center",
+      "notes": "SP-CMC-8c · farve4",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8c \u00b7 farve4"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -316,9 +316,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Sonic Temple Festival",
+      "notes": "Schoeps MK41 · jesse mc",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK41 \u00b7 jesse mc"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
