@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "nickelback",
   "name": "Nickelback",
   "drive": "D",
-  "showCount": 10,
+  "showCount": 12,
   "firstYear": 2000,
   "lastYear": 2024,
   "years": [
@@ -24,9 +24,22 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Whiskey A Go Go",
+      "notes": "defu2",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "defu2"
+      "format": "FLAC"
+    },
+    {
+      "year": 2001,
+      "month": 8,
+      "day": 18,
+      "dateStr": "8-18-2001",
+      "city": "Weeze",
+      "state": "Germany",
+      "location": "Weeze, Germany",
+      "venue": "Bizarre Festival",
+      "notes": "unk",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2001,
@@ -37,9 +50,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Horseshoe Tavern",
+      "notes": "CSB · thriftynomad",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 thriftynomad"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -49,10 +62,23 @@ const ARTIST_DATA = {
       "city": "Weeze",
       "state": "Germany",
       "location": "Weeze, Germany",
-      "venue": "Bizarre Festival - Flughafen Niederrhein",
+      "venue": "Bizarre Festival",
+      "notes": "Flughafen · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
+    },
+    {
+      "year": 2006,
+      "month": 2,
+      "day": 15,
+      "dateStr": "2-15-2006",
+      "city": "Toronto",
+      "state": "ON",
+      "location": "Toronto, ON",
+      "venue": "Air Canada Centre",
+      "notes": "CSC · burnboy",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2006,
@@ -63,9 +89,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Pepsi Arena",
+      "notes": "CSB · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -76,9 +102,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto , ON",
       "venue": "Molson Amphitheatre",
+      "notes": "CSC · burnboy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSC \u00b7 burnboy"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -89,9 +115,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "BJCC Auditorium",
+      "notes": "SP-CMC-4c · jhatcher",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4c \u00b7 jhatcher"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -102,9 +128,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Taiikukan",
+      "notes": "Multiple IEM + AUD · xavel",
       "version": "MIX",
-      "format": "FLAC",
-      "notes": "Multiple IEM + AUD \u00b7 xavel"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -115,9 +141,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Live From Red Rocks",
+      "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Nugs.net"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -127,10 +153,10 @@ const ARTIST_DATA = {
       "city": "Indio",
       "state": "CA",
       "location": "Indio, CA",
-      "venue": "Empire Polo Club - Stagecoach Festival",
+      "venue": "Empire Polo Club",
+      "notes": "Stagecoach",
       "version": "PRO",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2024,
@@ -141,9 +167,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "O2 Arena",
+      "notes": "Sony A10 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sony A10 \u00b7 Unknown"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
