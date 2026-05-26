@@ -21,9 +21,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Amoeba Music",
+      "notes": "SP-CMC-4U",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U"
+      "format": "FLAC"
     },
     {
       "year": 2021,
@@ -34,9 +34,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Pier 17",
+      "notes": "Zoom H1n · peter",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H1n \u00b7 peter"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -47,9 +47,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Garden Grove, CA",
       "venue": "Garden Amphitheatre",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -60,9 +60,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "YouTube Theater",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -73,9 +73,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Observatory North Park",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -86,9 +86,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Wiltern",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
