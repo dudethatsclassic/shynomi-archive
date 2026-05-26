@@ -25,10 +25,10 @@ const ARTIST_DATA = {
       "city": "Winston-Salem",
       "state": "NC",
       "location": "Winston-Salem, NC",
-      "venue": "Ziggy's - ANA",
+      "venue": "Ziggy's",
+      "notes": "ANA(M) · shynomi",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 shynomi"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -39,9 +39,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "American West Arena",
+      "notes": "r. boen",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "r. boen"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -52,9 +52,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum",
+      "notes": "",
       "version": "AUD",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2001,
@@ -65,9 +65,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Axis",
+      "notes": "WBCN 104.1",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "WBCN 104.1"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -77,10 +77,10 @@ const ARTIST_DATA = {
       "city": "Universal City",
       "state": "CA",
       "location": "Universal City, CA",
-      "venue": "Universal Amphitheater - KROQ Almost Acoustic Christmas",
+      "venue": "Universal Amphitheater",
+      "notes": "KROQ · Sony ECM-DSP70 · the v.u.",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-DSP70 \u00b7 the v.u."
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -91,9 +91,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Store Vega",
+      "notes": "MD",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "MD"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -104,9 +104,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "HiFi Buys Amphitheater",
+      "notes": "CSB · geordy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 geordy"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -117,9 +117,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Binghamton, NY",
       "venue": "Broome County Arena",
+      "notes": "ATu853s · dassarri",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ATu853s \u00b7 dassarri"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -130,9 +130,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Clarkston, MI",
       "venue": "DTE Energy Music Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2019,
@@ -143,9 +143,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Expo Center",
+      "notes": "chickenwing",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "chickenwing"
+      "format": "FLAC"
     },
     {
       "year": 2021,
@@ -156,9 +156,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
+      "notes": "AT853s · tj",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT853s \u00b7 tj"
+      "format": "FLAC"
     },
     {
       "year": 2021,
@@ -169,9 +169,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Daytona Beach, FL",
       "venue": "Welcome to Rockville Festival",
+      "notes": "SP-CMC-8 · porcelmc",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 porcelmc"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -182,9 +182,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "DCU Center",
+      "notes": "Zoom H1n · mm",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Zoom H1n \u00b7 mm"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -195,9 +195,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     }
   ],
   "misc": [
