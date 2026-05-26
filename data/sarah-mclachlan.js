@@ -2,12 +2,13 @@ const ARTIST_DATA = {
   "id": "sarah-mclachlan",
   "name": "Sarah McLachlan",
   "drive": "E",
-  "showCount": 6,
+  "showCount": 7,
   "firstYear": 2004,
   "lastYear": 2025,
   "years": [
     2004,
     2010,
+    2018,
     2025
   ],
   "shows": [
@@ -74,6 +75,19 @@ const ARTIST_DATA = {
       "venue": "Palace Theatre",
       "notes": "DPA 4060 · live2cd",
       "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2018,
+      "month": 9,
+      "day": 18,
+      "dateStr": "9-18-2018",
+      "city": "Port Chester",
+      "state": "NY",
+      "location": "Port Chester, NY",
+      "venue": "Capitol Theatre",
+      "notes": "",
+      "version": "SBD",
       "format": "FLAC"
     },
     {
