@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Seven South",
+      "notes": "jim hucks",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "jim hucks"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
