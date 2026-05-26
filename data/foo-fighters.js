@@ -13922,7 +13922,7 @@ const ARTIST_DATA = {
       "venue": "Starland Ballroom",
       "notes": "Aiwa CM30 · jc productions",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     }
   ],
   "misc": [
