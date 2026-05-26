@@ -41,9 +41,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston Garden",
+      "notes": "jm master",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "jm master"
+      "format": "FLAC"
     },
     {
       "year": 1972,
@@ -54,9 +54,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston Garden",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1973,
@@ -67,9 +67,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Abe Vigoda's Birthday Jam",
+      "notes": "jems",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "jems"
+      "format": "FLAC"
     },
     {
       "year": 1973,
@@ -79,10 +79,10 @@ const ARTIST_DATA = {
       "city": "Berkeley CA",
       "state": "",
       "location": "Berkeley CA",
-      "venue": "Berkeley Community Theater (BGP SBD)",
+      "venue": "Berkeley Community Theater",
+      "notes": "BGP SBD · Open Reel · algert",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Open Reel \u00b7 algert"
+      "format": "FLAC"
     },
     {
       "year": 1973,
@@ -93,9 +93,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Brighton, England",
       "venue": "Brighton Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1973,
@@ -106,9 +106,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York City, NY",
       "venue": "Rainbow Room",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1974,
@@ -118,10 +118,10 @@ const ARTIST_DATA = {
       "city": "London",
       "state": "UK",
       "location": "London, UK",
-      "venue": "Finsbury Park - Rainbow Theatre *Funkafied Rainbow (BF-001/2",
+      "venue": "Finsbury Park",
+      "notes": "Rainbow",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1975,
@@ -132,9 +132,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Maple Leaf Gardens",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1979,
@@ -145,9 +145,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pasadena, CA",
       "venue": "Pasadena Civic Auditorium",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1980,
@@ -158,9 +158,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Hollywood CA",
       "venue": "The Roxy",
+      "notes": "Nakamichi CM-300 · robert collins",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Nakamichi CM-300 \u00b7 robert collins"
+      "format": "FLAC"
     },
     {
       "year": 1980,
@@ -170,10 +170,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "Cow Palace - ANA(M)",
+      "venue": "Cow Palace",
+      "notes": "ANA(M) · Nakamichi CM300 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Nakamichi CM300 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1981,
@@ -183,10 +183,10 @@ const ARTIST_DATA = {
       "city": "New Haven",
       "state": "CT",
       "location": "New Haven, CT",
-      "venue": "New Haven Coliseum - ANA(M)",
+      "venue": "New Haven Coliseum",
+      "notes": "ANA(M) · unk · commander",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 commander"
+      "format": "FLAC"
     },
     {
       "year": 1982,
@@ -197,9 +197,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Nippon Budakon",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1983,
@@ -209,10 +209,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Radio City Music Hall (Two Of Us Master Series Volume 292) - ANA",
+      "venue": "Radio City Music Hall (Two Of Us Master Series Volume 292)",
+      "notes": "ANA(M) · Shure Mic",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 Shure Mic"
+      "format": "FLAC"
     },
     {
       "year": 1983,
@@ -222,10 +222,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Radio City Music Hall - Late Show (Two Of Us Master Series Volume 293) - ANA",
+      "venue": "Radio City Music Hall",
+      "notes": "Late · Two Of Us Master Series Volume 293 · M · Shure Mic",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 Shure Mic"
+      "format": "FLAC"
     },
     {
       "year": 1983,
@@ -235,10 +235,10 @@ const ARTIST_DATA = {
       "city": "San Carlos",
       "state": "CA",
       "location": "San Carlos, CA",
-      "venue": "Circle Star Theatre (Early) - ANA(M)",
+      "venue": "Circle Star Theatre (Early)",
+      "notes": "ANA(M) · Clip-on mic · ice cube slim",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Clip-on mic \u00b7 ice cube slim"
+      "format": "FLAC"
     },
     {
       "year": 1983,
@@ -249,9 +249,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Carlos, CA",
       "venue": "Circle Star Theater",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1984,
@@ -262,9 +262,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Masonic Temple Theatre",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1984,
@@ -274,10 +274,10 @@ const ARTIST_DATA = {
       "city": "Milan",
       "state": "Italy",
       "location": "Milan, Italy",
-      "venue": "Palasport di San Siro - ANA(1)",
+      "venue": "Palasport di San Siro",
+      "notes": "ANA(1) · unk · wes meyette",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 wes meyette"
+      "format": "FLAC"
     },
     {
       "year": 1984,
@@ -287,10 +287,10 @@ const ARTIST_DATA = {
       "city": "Udine",
       "state": "Italy",
       "location": "Udine, Italy",
-      "venue": "Palasport Primo Carnera - ANA(2)",
+      "venue": "Palasport Primo Carnera",
+      "notes": "ANA(2) · Sony PCM-M10 · wes meyette",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony PCM-M10 \u00b7 wes meyette"
+      "format": "FLAC"
     },
     {
       "year": 1986,
@@ -301,9 +301,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Onondaga County War Memorial",
+      "notes": "Nakamichi 100s · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Nakamichi 100s \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1987,
@@ -314,9 +314,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Dorothy Chandler Pavilion",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1988,
@@ -327,9 +327,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Fox Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1988,
@@ -340,9 +340,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Fox Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -353,9 +353,9 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Valencia, Spain",
       "venue": "Plaza des Toros de Valencia",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -366,9 +366,9 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Valencia, Spain",
       "venue": "Unknown Venue",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -379,9 +379,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Wang Center",
+      "notes": "ME-80s · doc fried, rama",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ME-80s \u00b7 doc fried, rama"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -392,9 +392,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Ravens Stadium",
+      "notes": "Schoeps MK4 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -405,9 +405,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Nagoya, Japan",
       "venue": "Rainbow Hall *Live at the Rainbow Hall",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -418,9 +418,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York City, NY",
       "venue": "Apollo Theater",
+      "notes": "DPA 4060 · john jay hance",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4060 \u00b7 john jay hance"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -431,9 +431,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "BBC Radio 2 In Concert, Abbey Road Studios",
+      "notes": "inc",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "inc"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -444,9 +444,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Abbey Road Studios",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -457,9 +457,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Saitama, Japan",
       "venue": "Saitama Super Arena",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -469,10 +469,10 @@ const ARTIST_DATA = {
       "city": "Saratoga",
       "state": "CA",
       "location": "Saratoga, CA",
-      "venue": "Mountain Winery - DAT(M)",
+      "venue": "Mountain Winery",
+      "notes": "DAT(M) · Neumann KM140s · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Neumann KM140s \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -483,9 +483,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Greek Theater",
+      "notes": "Neumann K-140 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Neumann K-140 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -496,9 +496,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Charter One Pavilion",
+      "notes": "Schoeps CCM4 · john hubert",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CCM4 \u00b7 john hubert"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -509,9 +509,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Pier 6 Pavillion",
+      "notes": "Schoeps MKV · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MKV \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -522,9 +522,9 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Montreal, Canada",
       "venue": "Bell Centre",
+      "notes": "SP-CMC-4s · micromagnon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4s \u00b7 micromagnon"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -535,9 +535,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Uncasville, CT",
       "venue": "Mohegan Sun Arena",
+      "notes": "ECM-719 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-719 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -548,9 +548,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Glendale, AZ",
       "venue": "Jobing.com Arean",
+      "notes": "AT831 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT831 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -561,9 +561,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Jazzfest",
+      "notes": "Schoeps MK21 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK21 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -574,9 +574,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "NO JazzFest",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -587,9 +587,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Comcast Center",
+      "notes": "DPA 4022 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4022 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -600,9 +600,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
+      "notes": "Schoeps CCM4 · calrust",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CCM4 \u00b7 calrust"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -613,9 +613,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Bowl",
+      "notes": "Schoeps MK41s · josephine",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK41s \u00b7 josephine"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -626,9 +626,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Sleep Train Pavilion",
+      "notes": "Neumann KM-140 · robert collins",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Neumann KM-140 \u00b7 robert collins"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -639,9 +639,9 @@ const ARTIST_DATA = {
       "state": "Netherlands",
       "location": "Rotterdam, Netherlands",
       "venue": "Sportpaleis Ahoy",
+      "notes": "Sony ECM-719 · miles",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-719 \u00b7 miles"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -652,9 +652,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Cologne Arena",
+      "notes": "Sony ECM-CS10 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-CS10 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -665,9 +665,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Datchforum",
+      "notes": "Tascam DR1 · loveandsoul",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Tascam DR1 \u00b7 loveandsoul"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -678,9 +678,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Palais Omnisport de Bercy",
+      "notes": "Sony ECM-719 · miles",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-719 \u00b7 miles"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -690,10 +690,10 @@ const ARTIST_DATA = {
       "city": "Milwaukee",
       "state": "WI",
       "location": "Milwaukee, WI",
-      "venue": "Marcus Amphitheater - Summerfest",
+      "venue": "Marcus Amphitheater",
+      "notes": "Summerfest · Zoom H2 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H2 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -703,10 +703,10 @@ const ARTIST_DATA = {
       "city": "Montreal",
       "state": "Quebec",
       "location": "Montreal, Quebec",
-      "venue": "Quartier des Spectacles - General Motors Scene",
+      "venue": "Quartier des Spectacles",
+      "notes": "General",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -717,9 +717,9 @@ const ARTIST_DATA = {
       "state": "Brazil",
       "location": "Rio de Janeiro, Brazil",
       "venue": "Praia de Copacabana",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -730,9 +730,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Little Caesars Arena",
+      "notes": "DPA 4080 · mitaper78",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4080 \u00b7 mitaper78"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -742,10 +742,11 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "Kia Forum - FireAid",
+      "venue": "Kia Forum",
+      "notes": "FireAid",
       "version": "WEB",
-      "format": "MP4",
-      "notes": ""
+      "format": "MP4"
     }
-  ]
+  ],
+  "misc": []
 };
