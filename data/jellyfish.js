@@ -21,9 +21,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Lisner Auditorium",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -34,9 +34,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fullerton, CA",
       "venue": "California State University",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -46,10 +46,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "The Roxy - CASS",
+      "venue": "The Roxy",
+      "notes": "CASS(x)",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "x"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -60,9 +60,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Max's on Broadway",
+      "notes": "unk · bonzo4880",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 bonzo4880"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -72,10 +72,10 @@ const ARTIST_DATA = {
       "city": "Tempe",
       "state": "AZ",
       "location": "Tempe, AZ",
-      "venue": "Chuy?s",
+      "venue": "Chuy’s",
+      "notes": "Aiwa mics · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Aiwa mics \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -86,9 +86,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Club Lingerie",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -99,9 +99,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -112,9 +112,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bay Area Music Awards 1991",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -124,10 +124,10 @@ const ARTIST_DATA = {
       "city": "Victoria",
       "state": "BC",
       "location": "Victoria, BC",
-      "venue": "Harpo's Cabaret (Sony WM-F46)",
+      "venue": "Harpo's Cabaret",
+      "notes": "Sony WM-F46 · crowflies · inc",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "crowflies \u00b7 inc"
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -138,9 +138,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "The Catalyst",
+      "notes": "Nakamichi CM300 · markp",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Nakamichi CM300 \u00b7 markp"
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -151,9 +151,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Melkweg",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -163,10 +163,10 @@ const ARTIST_DATA = {
       "city": "Milwaukee",
       "state": "WI",
       "location": "Milwaukee, WI",
-      "venue": "Central Park Ballroom - CASS(M)",
+      "venue": "Central Park Ballroom",
+      "notes": "CASS(M) · Shure SM98 · ko",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Shure SM98 \u00b7 ko"
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -176,10 +176,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "Fashion Center - Green Christmas Acoustic Concert",
+      "venue": "Fashion Center",
+      "notes": "Green",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -189,10 +189,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "Hard Rock Cafe - 104.5 KFOG Toys for Tots",
+      "venue": "Hard Rock Cafe",
+      "notes": "104.5",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -202,10 +202,10 @@ const ARTIST_DATA = {
       "city": "San Jose",
       "state": "CA",
       "location": "San Jose, CA",
-      "venue": "FX - ANA(M)",
+      "venue": "FX",
+      "notes": "ANA(M) · ECM-909 · tjcruz",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-909 \u00b7 tjcruz"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -215,10 +215,10 @@ const ARTIST_DATA = {
       "city": "Valencia",
       "state": "CA",
       "location": "Valencia, CA",
-      "venue": "Magic Mountain  (Early Show)",
+      "venue": "Magic Mountain",
+      "notes": "Early Show · Sony ECM-909A · marco moir",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sony ECM-909A \u00b7 marco moir"
+      "format": "FLAC 24"
     },
     {
       "year": 1993,
@@ -228,10 +228,10 @@ const ARTIST_DATA = {
       "city": "Valencia",
       "state": "CA",
       "location": "Valencia, CA",
-      "venue": "Magic Mountain  (Evening Show)",
+      "venue": "Magic Mountain",
+      "notes": "Evening Show · Sony ECM-909A · marco moir",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sony ECM-909A \u00b7 marco moir"
+      "format": "FLAC 24"
     },
     {
       "year": 1993,
@@ -241,10 +241,10 @@ const ARTIST_DATA = {
       "city": "Coach House",
       "state": "",
       "location": "Coach House",
-      "venue": "San Juan Capistrano - Sunday Night Live 105",
+      "venue": "San Juan Capistrano",
+      "notes": "Sunday · AT 314",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "AT 314"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -254,10 +254,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "The Grand - CASS",
+      "venue": "The Grand",
+      "notes": "CASS(x)",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "x"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -268,9 +268,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Toad's Place",
+      "notes": "Sony TCS-580V · kamenliter",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony TCS-580V \u00b7 kamenliter"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -281,9 +281,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Academy",
+      "notes": "Sony mic · pt",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony mic \u00b7 pt"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -293,10 +293,10 @@ const ARTIST_DATA = {
       "city": "Washington",
       "state": "DC",
       "location": "Washington, DC",
-      "venue": "Georgetown University - Gaston Hall",
+      "venue": "Georgetown University",
+      "notes": "Gaston · Sony WM-D6 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony WM-D6 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -306,10 +306,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "The Warfield - ANA(M)",
+      "venue": "The Warfield",
+      "notes": "ANA(M) · ECM-909 · tj cruz",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-909 \u00b7 tj cruz"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -320,9 +320,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Riverside Theater",
+      "notes": "SS-DSM6s · jot",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SS-DSM6s \u00b7 jot"
+      "format": "FLAC"
     }
   ],
   "misc": [
