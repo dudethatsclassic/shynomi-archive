@@ -21,9 +21,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Adelaide, AUS",
       "venue": "Adelaide Entertainment Centre",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -34,9 +34,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "The Chelsea",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -47,9 +47,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Fox Theatre",
+      "notes": "AT853 + CA-9100 · ryanj",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT853 + CA-9100 \u00b7 ryanj"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -60,9 +60,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -73,9 +73,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "PNC Music Pavilion",
+      "notes": "Schoeps MK4s + Marantz PMD-620 · ryanj",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4s + Marantz PMD-620 \u00b7 ryanj"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
