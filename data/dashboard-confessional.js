@@ -21,9 +21,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Tulagi's",
+      "notes": "CSBs · sxpxdxcx",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSBs \u00b7 sxpxdxcx"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -34,9 +34,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Webster Hall",
+      "notes": "Zoom H4N · peter",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H4N \u00b7 peter"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -47,9 +47,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Hollywood, FL",
       "venue": "Hard Rock Live",
+      "notes": "Sonic Studios DSM-6SL · chris gratz",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sonic Studios DSM-6SL \u00b7 chris gratz"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -59,10 +59,11 @@ const ARTIST_DATA = {
       "city": "Toronto",
       "state": "ON",
       "location": "Toronto, ON",
-      "venue": "Budweiser Stage (M)",
+      "venue": "Budweiser Stage",
+      "notes": "M · Zoom H1n · bowlingron",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H1n \u00b7 bowlingron"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
