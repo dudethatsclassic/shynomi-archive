@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "guster",
   "name": "Guster",
   "drive": "C",
-  "showCount": 841,
+  "showCount": 842,
   "firstYear": 1992,
   "lastYear": 2025,
   "years": [
@@ -7776,6 +7776,19 @@ const ARTIST_DATA = {
       "notes": "Mono",
       "version": "SBD",
       "format": "FLAC"
+    },
+    {
+      "year": 2015,
+      "month": 11,
+      "day": 27,
+      "dateStr": "11-27-2015",
+      "city": "Port Chester",
+      "state": "NY",
+      "location": "Port Chester, NY",
+      "venue": "Capitol Theatre",
+      "notes": "Remaster",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2016,
