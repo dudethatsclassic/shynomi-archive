@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "BR",
       "location": "Manaus, BR",
       "venue": "Teatro Amazonas",
+      "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Nugs.net"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
