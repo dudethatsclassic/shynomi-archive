@@ -20,9 +20,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Westwood One Absolutely Live in Concert Show #04-44",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -33,9 +33,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Echo",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -45,10 +45,10 @@ const ARTIST_DATA = {
       "city": "Norwegian Gem",
       "state": "",
       "location": "Norwegian Gem",
-      "venue": "Summer of 99 Cruise - Stardust",
+      "venue": "Summer of 99 Cruise",
+      "notes": "Stardust · Edirol R09HR · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R09HR \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -58,10 +58,10 @@ const ARTIST_DATA = {
       "city": "Columbus",
       "state": "OH",
       "location": "Columbus, OH",
-      "venue": "Sonic Temple Festival - Temple Stage",
+      "venue": "Sonic Temple Festival",
+      "notes": "Temple · Schoeps MK41 · jesse mc",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK41 \u00b7 jesse mc"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -72,9 +72,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Mateo, CA",
       "venue": "San Mateo County Event Center",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4s \u00b7 tj"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
