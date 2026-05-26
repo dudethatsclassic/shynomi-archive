@@ -17,10 +17,11 @@ const ARTIST_DATA = {
       "city": "Cambridge",
       "state": "MA",
       "location": "Cambridge, MA",
-      "venue": "Club Passim (Early Show)",
+      "venue": "Club Passim",
+      "notes": "Early Show · Schoeps MK4V · jim kelly",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4V \u00b7 jim kelly"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
