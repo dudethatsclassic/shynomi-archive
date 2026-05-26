@@ -26,10 +26,10 @@ const ARTIST_DATA = {
       "city": "Denver",
       "state": "CO",
       "location": "Denver, CO",
-      "venue": "Fillmore - Sno Core 2000",
+      "venue": "Fillmore",
+      "notes": "Sno · CSBs · sxpxdxcx",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSBs \u00b7 sxpxdxcx"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -40,9 +40,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Harro East Ballroom",
+      "notes": "Low Cost Cardioids · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Low Cost Cardioids \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -53,9 +53,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Southport Parklands, Australia",
       "venue": "Gold Coast",
+      "notes": "2 source mix · system89",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "2 source mix \u00b7 system89"
+      "format": "DVD"
     },
     {
       "year": 2002,
@@ -65,10 +65,10 @@ const ARTIST_DATA = {
       "city": "East Troy",
       "state": "WI",
       "location": "East Troy, WI",
-      "venue": "Alpine Valley - DAT(M)",
+      "venue": "Alpine Valley",
+      "notes": "DAT(M) · SM98 · ko",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SM98 \u00b7 ko"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -79,9 +79,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theater",
+      "notes": "AT933C · sxpxdxcx",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT933C \u00b7 sxpxdxcx"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -92,9 +92,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theatre",
+      "notes": "Schoeps MK41 · bill tatina",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK41 \u00b7 bill tatina"
+      "format": "FLAC 24"
     },
     {
       "year": 2005,
@@ -104,10 +104,10 @@ const ARTIST_DATA = {
       "city": "Lisbon",
       "state": "Portugal",
       "location": "Lisbon, Portugal",
-      "venue": "Festival Super Bock Super Rock - Parque Do Tejo - MD(M)",
+      "venue": "Festival Super Bock Super Rock",
+      "notes": "Parque · M · unk · tt",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 tt"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -118,9 +118,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Valby Hallen",
+      "notes": "Sharp MD · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sharp MD \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -131,9 +131,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Wembley Arena",
+      "notes": "Zoom Q3 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom Q3 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -144,22 +144,22 @@ const ARTIST_DATA = {
       "state": "Armenia",
       "location": "Yerevan, Armenia",
       "venue": "Hanrapetu'tyan Hraparak",
+      "notes": "Webcast",
       "version": "WEB",
-      "format": "TS",
-      "notes": "Webcast"
+      "format": "TS"
     },
     {
       "year": 2017,
       "month": 6,
       "day": 28,
       "dateStr": "6-28-2017",
-      "city": "Norrko?ping",
+      "city": "Norrköping",
       "state": "Sweden",
-      "location": "Norrko?ping, Sweden",
-      "venue": "Bra?valla Festival (M)",
+      "location": "Norrköping, Sweden",
+      "venue": "Bråvalla Festival",
+      "notes": "M · CA STC-11 · pata63",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA STC-11 \u00b7 pata63"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -170,9 +170,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Valley View Casino Center",
+      "notes": "MBHO KA200N · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "MBHO KA200N \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2021,
@@ -182,10 +182,10 @@ const ARTIST_DATA = {
       "city": "Las Vegas",
       "state": "",
       "location": "Las Vegas",
-      "venue": "NV - T-Mobile Arena",
+      "venue": "NV",
+      "notes": "T-Mobile · AT853s · tj",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT853s \u00b7 tj"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -196,9 +196,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Banc of California Stadium",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4s \u00b7 tj"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -209,9 +209,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Banc of California Stadium",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4s \u00b7 tj"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -221,10 +221,10 @@ const ARTIST_DATA = {
       "city": "Las Vegas",
       "state": "NV",
       "location": "Las Vegas, NV",
-      "venue": "Festival Grounds - Sick New World Festival",
+      "venue": "Festival Grounds",
+      "notes": "Sick · Schoeps MK4s · tj",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4s \u00b7 tj"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -235,9 +235,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4s \u00b7 tj"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -248,9 +248,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park, SF",
+      "notes": "Schoeps MK4s · loughney",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4s \u00b7 loughney"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
