@@ -19,9 +19,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbo's 365 Club",
+      "notes": "CCM4s · drew",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "CCM4s \u00b7 drew"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -32,9 +32,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "Schoeps CCMV · drew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CCMV \u00b7 drew"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -44,10 +44,11 @@ const ARTIST_DATA = {
       "city": "Seattle",
       "state": "WA",
       "location": "Seattle, WA",
-      "venue": "Bumbershoot Festival - Backyard Stage",
+      "venue": "Bumbershoot Festival",
+      "notes": "Backyard · Schoeps CCMV · drew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CCMV \u00b7 drew"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
