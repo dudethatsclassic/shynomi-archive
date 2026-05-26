@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Wingate, NC",
       "venue": "Wingate College",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
