@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "jimmy-eat-world",
   "name": "Jimmy Eat World",
   "drive": "C",
-  "showCount": 26,
+  "showCount": 27,
   "firstYear": 1999,
   "lastYear": 2025,
   "years": [
@@ -32,9 +32,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -45,9 +45,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Scala",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -58,9 +58,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Potsdam, Germany",
       "venue": "Radio Fritz",
+      "notes": "102.6",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "102.6"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -71,9 +71,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "Church Audio",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Church Audio"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -84,9 +84,22 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Vienna, Austria",
       "venue": "Gasometer",
+      "notes": "CSB · wzbw88",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 wzbw88"
+      "format": "FLAC"
+    },
+    {
+      "year": 2013,
+      "month": 6,
+      "day": 14,
+      "dateStr": "6-14-2013",
+      "city": "Pinkpop Festival",
+      "state": "",
+      "location": "Pinkpop Festival",
+      "venue": "",
+      "notes": "",
+      "version": "TV",
+      "format": "DVD"
     },
     {
       "year": 2013,
@@ -97,9 +110,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": ""
+      "format": "FLAC 24"
     },
     {
       "year": 2014,
@@ -110,9 +123,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Wichita, KS",
       "venue": "The Cotillion Ballroom",
+      "notes": "Zoom H1 · penguin",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H1 \u00b7 penguin"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -123,9 +136,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": ""
+      "format": "FLAC 24"
     },
     {
       "year": 2016,
@@ -136,9 +149,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Im Wizemann",
+      "notes": "Schoeps MK4 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -148,10 +161,10 @@ const ARTIST_DATA = {
       "city": "Santiago",
       "state": "Chile",
       "location": "Santiago, Chile",
-      "venue": "Parque O' Higgins - Lollapalooza",
+      "venue": "Parque O' Higgins",
+      "notes": "Lollapalooza",
       "version": "PRO",
-      "format": "MP4",
-      "notes": ""
+      "format": "MP4"
     },
     {
       "year": 2017,
@@ -162,9 +175,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Huxley's Neue Welt",
+      "notes": "Roland CS-10EM · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Roland CS-10EM \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -175,9 +188,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
+      "notes": "DPA 4061 · inc",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 inc"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -188,9 +201,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "Birmingham Arena",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -200,10 +213,10 @@ const ARTIST_DATA = {
       "city": "Anaheim",
       "state": "CA",
       "location": "Anaheim, CA",
-      "venue": "Honda Center - KROQ Absolut Almost Acoustic Christmas",
+      "venue": "Honda Center",
+      "notes": "KROQ",
       "version": "Webcast",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2021,
@@ -214,9 +227,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Napa, CA",
       "venue": "Bottlerock Festival",
+      "notes": "SP-CMC-8 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -227,9 +240,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Scheessel, Germany",
       "venue": "Hurricane Festival",
+      "notes": "Arte.tv",
       "version": "Webcast",
-      "format": "MP4",
-      "notes": "Arte.tv"
+      "format": "MP4"
     },
     {
       "year": 2022,
@@ -240,9 +253,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Neuhausen ob Eck, Germany",
       "venue": "Southside Festival",
+      "notes": "sbr1z",
       "version": "Webcast",
-      "format": "MKV",
-      "notes": "sbr1z"
+      "format": "MKV"
     },
     {
       "year": 2022,
@@ -253,9 +266,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Werchter, Belgium",
       "venue": "Rock Werchter",
+      "notes": "paulo dapper",
       "version": "Webcast",
-      "format": "TS",
-      "notes": "paulo dapper"
+      "format": "TS"
     },
     {
       "year": 2022,
@@ -266,9 +279,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "KEMBA Live",
+      "notes": "AT853U · charles dewey cole",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT853U \u00b7 charles dewey cole"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -279,9 +292,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riot Fest",
+      "notes": "Schoeps MK4s · ryanj",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4s \u00b7 ryanj"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -292,9 +305,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Rod Laver Arena",
+      "notes": "Zoom H1n · claire laura fredriksson",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Zoom H1n \u00b7 claire laura fredriksson"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -305,9 +318,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "West Springfield, MA",
       "venue": "The Big E Arena",
+      "notes": "MZR50 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "MZR50 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -318,9 +331,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -331,9 +344,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Columbiahalle",
+      "notes": "Roland CS-10EM · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Roland CS-10EM \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -343,23 +356,23 @@ const ARTIST_DATA = {
       "city": "Indio",
       "state": "CA",
       "location": "Indio, CA",
-      "venue": "Main Stage - Coachella Weekend Two",
+      "venue": "Main Stage",
+      "notes": "Coachella · 1080p",
       "version": "WEB",
-      "format": "MP4",
-      "notes": "1080p"
+      "format": "MP4"
     },
     {
       "year": 2025,
       "month": 6,
       "day": 20,
       "dateStr": "6-20-2025",
-      "city": "Schee?el",
+      "city": "Scheeßel",
       "state": "Eichenring",
-      "location": "Schee?el, Eichenring",
+      "location": "Scheeßel, Eichenring",
       "venue": "Hurricane Festival",
+      "notes": "magentamusik.de · 1080",
       "version": "WEB",
-      "format": "TS",
-      "notes": "magentamusik.de \u00b7 1080"
+      "format": "TS"
     }
   ],
   "misc": [
