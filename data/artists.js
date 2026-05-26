@@ -870,8 +870,8 @@ const ARTISTS = [
   {
     "id": "foo-fighters",
     "name": "Foo Fighters",
-    "showCount": 1069,
-    "firstYear": 1992,
+    "showCount": 1068,
+    "firstYear": 1995,
     "lastYear": 2026
   },
   {
@@ -2760,8 +2760,8 @@ const ARTISTS = [
   {
     "id": "the-germs",
     "name": "The Germs",
-    "showCount": 4,
-    "firstYear": 1979,
+    "showCount": 5,
+    "firstYear": 1978,
     "lastYear": 1980
   },
   {
