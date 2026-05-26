@@ -19,10 +19,10 @@ const ARTIST_DATA = {
       "city": "Roskilde",
       "state": "Denmark",
       "location": "Roskilde, Denmark",
-      "venue": "Roskilde Festival - Arena",
+      "venue": "Roskilde Festival",
+      "notes": "Arena · CSC · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSC \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -32,10 +32,10 @@ const ARTIST_DATA = {
       "city": "Roskilde",
       "state": "Denmark",
       "location": "Roskilde, Denmark",
-      "venue": "Roskilde Festival - Orange Stage",
+      "venue": "Roskilde Festival",
+      "notes": "Orange · CSC · jtl",
       "version": "AUD",
-      "format": "",
-      "notes": "CSC \u00b7 jtl"
+      "format": ""
     },
     {
       "year": 2022,
@@ -46,9 +46,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "Kia Forum",
+      "notes": "SP-CMC-4U · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 Unknown"
+      "format": "FLAC"
     }
   ],
   "misc": [
