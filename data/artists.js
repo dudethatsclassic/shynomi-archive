@@ -434,6 +434,13 @@ const ARTISTS = [
     "lastYear": 2019
   },
   {
+    "id": "chris-robinson-brotherhood",
+    "name": "Chris Robinson Brotherhood",
+    "showCount": 9,
+    "firstYear": 2011,
+    "lastYear": 2012
+  },
+  {
     "id": "chris-shiflet",
     "name": "Chris Shiflet",
     "showCount": 3,
@@ -2126,6 +2133,13 @@ const ARTISTS = [
     "showCount": 1,
     "firstYear": 1990,
     "lastYear": 1990
+  },
+  {
+    "id": "rich-robinson",
+    "name": "Rich Robinson",
+    "showCount": 1,
+    "firstYear": 2015,
+    "lastYear": 2015
   },
   {
     "id": "ride",
