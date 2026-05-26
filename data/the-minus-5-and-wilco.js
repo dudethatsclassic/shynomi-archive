@@ -2,19 +2,14 @@ const ARTIST_DATA = {
   "id": "the-minus-5-and-wilco",
   "name": "The Minus 5 and Wilco",
   "drive": "E",
-  "showCount": 26,
-  "firstYear": 1994,
+  "showCount": 10,
+  "firstYear": 2000,
   "lastYear": 2025,
   "years": [
-    1994,
-    1995,
-    1996,
-    1998,
     2000,
     2001,
     2002,
     2003,
-    2006,
     2015,
     2022,
     2025
@@ -29,9 +24,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -42,9 +37,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -55,9 +50,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Abbey Pub",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -67,10 +62,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "John Anson Ford Theatre - DAT",
+      "venue": "John Anson Ford Theatre",
+      "notes": "DAT(M) · anonymous",
       "version": "SBD",
-      "format": "",
-      "notes": "M \u00b7 anonymous"
+      "format": ""
     },
     {
       "year": 2003,
@@ -81,9 +76,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Abbey Pub",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -94,9 +89,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "World Cafe WXPN",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -107,9 +102,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "Cocoanut Grove Ballroom",
+      "notes": "SP-CMC-25 · robert mullen",
       "version": "AUD",
-      "format": "",
-      "notes": "SP-CMC-25 \u00b7 robert mullen"
+      "format": ""
     },
     {
       "year": 2022,
@@ -120,9 +115,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Olympia, WA",
       "venue": "Capitol Theater",
+      "notes": "unk",
       "version": "AUD",
-      "format": "",
-      "notes": "Unknown"
+      "format": ""
     },
     {
       "year": 2022,
@@ -133,9 +128,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Doug Fir Lounge",
+      "notes": "Core Sounds Cards · rob gronotte",
       "version": "AUD",
-      "format": "",
-      "notes": "Core Sounds Cards \u00b7 rob gronotte"
+      "format": ""
     },
     {
       "year": 2025,
@@ -146,223 +141,10 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Hamilton",
+      "notes": "Gefell MV400L-M41 · alex leary",
       "version": "AUD",
-      "format": "",
-      "notes": "Gefell MV400L-M41 \u00b7 alex leary"
-    },
-    {
-      "year": 1994,
-      "month": 7,
-      "day": 25,
-      "dateStr": "7-25-1994",
-      "city": "Minneapolis",
-      "state": "MN",
-      "location": "Minneapolis, MN",
-      "venue": "Uptown Bar - DAT",
-      "version": "SBD",
-      "format": "",
-      "notes": "x"
-    },
-    {
-      "year": 1995,
-      "month": 3,
-      "day": 17,
-      "dateStr": "3-17-1995",
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "SXSW - Electric Lounge",
-      "version": "AUD",
-      "format": "",
-      "notes": "Unknown"
-    },
-    {
-      "year": 1996,
-      "month": 2,
-      "day": 23,
-      "dateStr": "2-23-1996",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Lounge Ax",
-      "version": "FM",
-      "format": "",
-      "notes": "WXRT FM \u00b7 stonecutter"
-    },
-    {
-      "year": 1996,
-      "month": 4,
-      "day": 13,
-      "dateStr": "4-13-1996",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Tramps",
-      "version": "SBD",
-      "format": "",
-      "notes": "julsay \u00b7 joe noel edit"
-    },
-    {
-      "year": 1996,
-      "month": 4,
-      "day": 14,
-      "dateStr": "4-14-1996",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "888 Seventh Ave. - 10th Floor",
-      "version": "FM",
-      "format": "",
-      "notes": "stonecutter"
-    },
-    {
-      "year": 1996,
-      "month": 4,
-      "day": 16,
-      "dateStr": "4-16-1996",
-      "city": "Philadelphia",
-      "state": "PA",
-      "location": "Philadelphia, PA",
-      "venue": "Theater of Living Arts - DAT(M)",
-      "version": "AUD",
-      "format": "",
-      "notes": "Schoeps CMC4-MK41 \u00b7 billydee"
-    },
-    {
-      "year": 1996,
-      "month": 4,
-      "day": 18,
-      "dateStr": "4-18-1996",
-      "city": "Carrboro",
-      "state": "NC",
-      "location": "Carrboro, NC",
-      "venue": "Cat's Cradle",
-      "version": "MIX",
-      "format": "",
-      "notes": "CSB + SBD mix \u00b7 mr. pember"
-    },
-    {
-      "year": 1996,
-      "month": 6,
-      "day": 26,
-      "dateStr": "6-26-1996",
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Great American Music Hall",
-      "version": "SBD",
-      "format": "",
-      "notes": ""
-    },
-    {
-      "year": 1996,
-      "month": 12,
-      "day": 31,
-      "dateStr": "12-31-1996",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Lounge Ax",
-      "version": "AUD",
-      "format": "",
-      "notes": "unk \u00b7 with Soundcheck"
-    },
-    {
-      "year": 1998,
-      "month": 12,
-      "day": 4,
-      "dateStr": "12-4-1998",
-      "city": "Philadelphia",
-      "state": "PA",
-      "location": "Philadelphia, PA",
-      "venue": "Theatre of the Living Arts",
-      "version": "SBD",
-      "format": "",
-      "notes": ""
-    },
-    {
-      "year": 1998,
-      "month": 12,
-      "day": 6,
-      "dateStr": "12-6-1998",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "WNEW Idiot's Delight",
-      "version": "FM",
-      "format": "",
-      "notes": "stonecutter"
-    },
-    {
-      "year": 1998,
-      "month": 12,
-      "day": 8,
-      "dateStr": "12-8-1998",
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "Paradise Rock Club",
-      "version": "AUD",
-      "format": "",
-      "notes": "Unknown"
-    },
-    {
-      "year": 1998,
-      "month": 12,
-      "day": 11,
-      "dateStr": "12-11-1998",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "The Metro",
-      "version": "AUD",
-      "format": "",
-      "notes": "Unknown"
-    },
-    {
-      "year": 1998,
-      "month": 12,
-      "day": 12,
-      "dateStr": "12-12-1998",
-      "city": "Minneapolis",
-      "state": "MN",
-      "location": "Minneapolis, MN",
-      "venue": "First Avenue",
-      "version": "SBD",
-      "format": "",
-      "notes": ""
-    },
-    {
-      "year": 2006,
-      "month": 9,
-      "day": 19,
-      "dateStr": "9-19-2006",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Vic Theatre",
-      "version": "AUD",
-      "format": "",
-      "notes": "Sonic Studios"
-    },
-    {
-      "year": 2006,
-      "month": 9,
-      "day": 19,
-      "dateStr": "9-19-2006",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Vic Theatre",
-      "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     }
   ],
-  "misc": [
-    {
-      "type": "label",
-      "label": "Golden Smog - 1996-1998 - Various Promotional Appearances [SBD]"
-    }
-  ]
+  "misc": []
 };
