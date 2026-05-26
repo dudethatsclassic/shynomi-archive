@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Knitting Factory",
+      "notes": "jason",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "jason"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
