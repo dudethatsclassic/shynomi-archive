@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "wilco",
   "name": "Wilco",
   "drive": "E",
-  "showCount": 1263,
+  "showCount": 1121,
   "firstYear": 1994,
   "lastYear": 2026,
   "years": [
@@ -30,7 +30,6 @@ const ARTIST_DATA = {
     2015,
     2016,
     2017,
-    2018,
     2019,
     2020,
     2021,
@@ -50,9 +49,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Cicero's",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1994,
@@ -63,9 +62,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "7th Street Entry",
+      "notes": "ANA(M?) · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "M? · unk"
+      "format": ""
     },
     {
       "year": 1994,
@@ -76,9 +75,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
+      "notes": "unk",
       "version": "AUD",
-      "format": "",
-      "notes": "unk"
+      "format": ""
     },
     {
       "year": 1994,
@@ -89,9 +88,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
+      "notes": "Shure VP88 · jeff s. master",
       "version": "AUD",
-      "format": "",
-      "notes": "Shure VP88 · jeff s. master"
+      "format": ""
     },
     {
       "year": 1994,
@@ -102,9 +101,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
+      "notes": "Source 2 · CSB · mr. pember master",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · mr. pember master"
+      "format": ""
     },
     {
       "year": 1994,
@@ -115,9 +114,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Mercury Lounge",
+      "notes": "unk",
       "version": "SBD",
-      "format": "",
-      "notes": "unk"
+      "format": ""
     },
     {
       "year": 1994,
@@ -128,9 +127,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
+      "notes": "CSB · mrpember",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · mrpember"
+      "format": ""
     },
     {
       "year": 1995,
@@ -141,9 +140,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "SXSW Showcase",
+      "notes": "Sonic Studios · markp",
       "version": "AUD",
-      "format": "",
-      "notes": "Sonic Studios · markp"
+      "format": ""
     },
     {
       "year": 1995,
@@ -154,9 +153,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Ames, IA",
       "venue": "People's Bar & Grill",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -167,9 +166,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -179,10 +178,10 @@ const ARTIST_DATA = {
       "city": "Santa Monica",
       "state": "CA",
       "location": "Santa Monica, CA",
-      "venue": "Morning Becomes Eclectic - KCRW Studios",
+      "venue": "Morning Becomes Eclectic",
+      "notes": "KCRW · markp",
       "version": "FM",
-      "format": "",
-      "notes": "markp"
+      "format": ""
     },
     {
       "year": 1995,
@@ -193,9 +192,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "W. Hollywood, CA",
       "venue": "Whisky A Go Go",
+      "notes": "Sonic Studios · markp",
       "version": "AUD",
-      "format": "",
-      "notes": "Sonic Studios · markp"
+      "format": ""
     },
     {
       "year": 1995,
@@ -206,9 +205,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Westwood, CA",
       "venue": "Rhino Records",
+      "notes": "ANA(M) · Aiwa CM-30 · little guy",
       "version": "AUD",
-      "format": "",
-      "notes": "Aiwa CM-30 · little guy"
+      "format": ""
     },
     {
       "year": 1995,
@@ -219,9 +218,22 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "The Fox Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
+    },
+    {
+      "year": 1995,
+      "month": 5,
+      "day": 23,
+      "dateStr": "5-23-1995",
+      "city": "Boulder",
+      "state": "CO",
+      "location": "Boulder, CO",
+      "venue": "The Fox Theatre",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1995,
@@ -232,9 +244,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
+      "notes": "unk",
       "version": "AUD",
-      "format": "",
-      "notes": "unk"
+      "format": ""
     },
     {
       "year": 1995,
@@ -245,22 +257,22 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minnapolis, MN",
       "venue": "Let It Be Record Store",
+      "notes": "in-store perf",
       "version": "AUD",
-      "format": "",
-      "notes": "in-store perf"
+      "format": ""
     },
     {
       "year": 1995,
       "month": 6,
       "day": 8,
-      "dateStr": "6-8-1995a",
+      "dateStr": "6-8-1995",
       "city": "Philadelphia",
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "WMMR Studios",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -271,9 +283,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theatre of Living Arts",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -284,9 +296,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tramps",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -297,9 +309,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tramps",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -310,9 +322,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -323,9 +335,9 @@ const ARTIST_DATA = {
       "state": "Germany - MTC (unk) (bobfather)",
       "location": "Cologne, Germany - MTC (unk) (bobfather)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -336,9 +348,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Dancing in the District",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -349,9 +361,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Dancing in the District",
+      "notes": "kerouacaw 2022 transfer",
       "version": "SBD",
-      "format": "",
-      "notes": "kerouacaw 2022 transfer"
+      "format": ""
     },
     {
       "year": 1995,
@@ -362,9 +374,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Winston-Salem, NC",
       "venue": "Ziggy's",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -375,9 +387,9 @@ const ARTIST_DATA = {
       "state": "WV",
       "location": "Charleston, WV",
       "venue": "Mountain Stage *In Your Ear OR *Wilco Roger and Out",
+      "notes": "",
       "version": "FM",
-      "format": "SBD",
-      "notes": ""
+      "format": "SBD"
     },
     {
       "year": 1995,
@@ -388,9 +400,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Richmond, VA",
       "venue": "Flood Zone",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -401,9 +413,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "River Bend Music Center",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -414,9 +426,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "World Music Theater",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -427,9 +439,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheater",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -440,9 +452,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Mann Music Center",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -453,9 +465,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Lakewood Amphitheater",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -466,9 +478,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Starplex Amphitheater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -479,9 +491,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "",
-      "notes": "unk · neekrive"
+      "format": ""
     },
     {
       "year": 1995,
@@ -492,9 +504,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
+      "notes": "CSB · tjcruz",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · tjcruz"
+      "format": ""
     },
     {
       "year": 1995,
@@ -505,9 +517,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -518,9 +530,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -531,9 +543,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "The Courtyard",
+      "notes": "",
       "version": "SBD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 1995,
@@ -544,9 +556,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Winston-Salem, NC",
       "venue": "Ziggy's",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -557,9 +569,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Maxwell's",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
@@ -570,22 +582,22 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Live at Maxwell's",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 1995,
       "month": 10,
       "day": 26,
-      "dateStr": "10-26-1995a",
+      "dateStr": "10-26-1995",
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
       "venue": "Static Cable Radio Show",
+      "notes": "Prior to Irving show",
       "version": "FM",
-      "format": "",
-      "notes": "Prior to Irving show"
+      "format": ""
     },
     {
       "year": 1995,
@@ -596,9 +608,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "American Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1996,
@@ -608,10 +620,10 @@ const ARTIST_DATA = {
       "city": "Milwaukee",
       "state": "WI",
       "location": "Milwaukee, WI",
-      "venue": "Henry Maier Festival Park - Summerfest",
+      "venue": "Henry Maier Festival Park",
+      "notes": "Summerfest · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "unk"
+      "format": ""
     },
     {
       "year": 1996,
@@ -622,9 +634,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Grant Park",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1996,
@@ -635,9 +647,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1996,
@@ -648,9 +660,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "The Ritz",
+      "notes": "DAT(M) · unk · blg mastering",
       "version": "AUD",
-      "format": "",
-      "notes": "unk · blg mastering"
+      "format": ""
     },
     {
       "year": 1996,
@@ -661,9 +673,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Liberty Lunch",
+      "notes": "Nugs.net",
       "version": "SBD",
-      "format": "",
-      "notes": "Nugs.net"
+      "format": ""
     },
     {
       "year": 1996,
@@ -674,9 +686,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Liberty Lunch",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1996,
@@ -687,9 +699,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "W. Hollywood, CA",
       "venue": "The Troubadour",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1996,
@@ -700,9 +712,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "W. Hollywood, CA",
       "venue": "The Troubadour",
+      "notes": "",
       "version": "preFM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1996,
@@ -712,10 +724,10 @@ const ARTIST_DATA = {
       "city": "Santa Monica",
       "state": "CA",
       "location": "Santa Monica, CA",
-      "venue": "KCRW Studios - Morning Becomes Eclectic",
+      "venue": "KCRW Studios",
+      "notes": "Morning",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1996,
@@ -726,9 +738,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
+      "notes": "DAT(M)",
       "version": "AUD",
-      "format": "",
-      "notes": "M"
+      "format": ""
     },
     {
       "year": 1996,
@@ -739,9 +751,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
+      "notes": "DAT(M)",
       "version": "AUD",
-      "format": "",
-      "notes": "M"
+      "format": ""
     },
     {
       "year": 1996,
@@ -752,9 +764,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Mercury Lounge",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1996,
@@ -765,9 +777,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Luxor",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1996,
@@ -778,9 +790,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Loft",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1996,
@@ -791,9 +803,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Knust",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1996,
@@ -804,9 +816,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Loppen",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1996,
@@ -817,9 +829,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Melkweg",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -830,9 +842,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Bloomington, IN",
       "venue": "Mars",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -843,9 +855,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -856,9 +868,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -869,9 +881,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Barrymore Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -882,9 +894,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Palatine, IL",
       "venue": "Harper College",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -895,9 +907,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Trocadero",
+      "notes": "",
       "version": "AUD",
-      "format": "FM",
-      "notes": ""
+      "format": "FM"
     },
     {
       "year": 1997,
@@ -908,9 +920,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
+      "notes": "",
       "version": "AUD",
-      "format": "4 sources",
-      "notes": ""
+      "format": "4 sources"
     },
     {
       "year": 1997,
@@ -921,9 +933,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Avalon",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -934,9 +946,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Ottawa, Ontario",
       "venue": "The Cave",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -947,22 +959,22 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "The Horseshoe Tavern",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
       "month": 2,
       "day": 21,
-      "dateStr": "2-21-1997a",
+      "dateStr": "2-21-1997",
       "city": "Detroit",
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "WNNX Studios",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -973,9 +985,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Majestic Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -986,9 +998,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Majestic Theater",
+      "notes": "Schoeps CMC54 · michael pfeil",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps CMC54 · michael pfeil"
+      "format": ""
     },
     {
       "year": 1997,
@@ -999,9 +1011,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "The Blue Note",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1012,9 +1024,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Luxor",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1025,9 +1037,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Brussels, Belgium",
       "venue": "Ancienne Belgique",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1038,9 +1050,9 @@ const ARTIST_DATA = {
       "state": "Holland",
       "location": "Amsterdam, Holland",
       "venue": "Melkweg",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1051,9 +1063,9 @@ const ARTIST_DATA = {
       "state": "Norway",
       "location": "Oslo, Norway",
       "venue": "Rockefeller",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1064,9 +1076,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Shepherd's Bush Empire *I've Seen Worse",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1076,10 +1088,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Sony Studios - VH1 Hard Rock Live",
+      "venue": "Sony Studios",
+      "notes": "VH1",
       "version": "TV",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1090,9 +1102,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1103,9 +1115,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1116,9 +1128,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "El Rey Theater",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1129,9 +1141,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1142,9 +1154,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theater",
+      "notes": "",
       "version": "MTX",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 1997,
@@ -1155,9 +1167,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Embarcadero Stage at Justin Herman Park",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 1997,
@@ -1168,9 +1180,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Manhattan, NY",
       "venue": "Le Bar Bat",
+      "notes": "Jonny Lang, Big Head Todd ATM",
       "version": "Silver CD",
-      "format": "",
-      "notes": "Jonny Lang, Big Head Todd ATM"
+      "format": ""
     },
     {
       "year": 1997,
@@ -1181,9 +1193,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Darien Lakes, NY",
       "venue": "Darien Lake Performing Arts Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1194,9 +1206,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "KFOG Fantasy Studios",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1207,9 +1219,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "The Backyard",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1220,9 +1232,9 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Charleston, SC",
       "venue": "Brittlebank Park",
+      "notes": "WAVF Festival",
       "version": "SBD",
-      "format": "",
-      "notes": "WAVF Festival"
+      "format": ""
     },
     {
       "year": 1997,
@@ -1233,9 +1245,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1246,9 +1258,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1259,9 +1271,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Lawrence, KS",
       "venue": "The Granada",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1272,9 +1284,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "The Blue Note",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1997,
@@ -1285,9 +1297,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Liberty Lunch",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1998,
@@ -1298,9 +1310,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1998,
@@ -1311,9 +1323,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Randall's Island, NY",
       "venue": "Fleadh Festival",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1998,
@@ -1324,9 +1336,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "Spartan Stadium",
+      "notes": "",
       "version": "MTX",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1998,
@@ -1336,10 +1348,10 @@ const ARTIST_DATA = {
       "city": "San Jose",
       "state": "CA",
       "location": "San Jose, CA",
-      "venue": "Spartan Stadium - Fleadh Festival",
+      "venue": "Spartan Stadium",
+      "notes": "Fleadh",
       "version": "SBD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 1998,
@@ -1350,9 +1362,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Summerfest",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1998,
@@ -1363,9 +1375,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Columbia, MD",
       "venue": "Merriweather Post",
+      "notes": "DAT(M) · Schoeps CCM4 · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps CCM4 · unk"
+      "format": ""
     },
     {
       "year": 1998,
@@ -1376,9 +1388,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "North Plains, OR",
       "venue": "Horning's Hideout",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1998,
@@ -1389,9 +1401,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rockford, IL",
       "venue": "On the Waterfront Festival",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1998,
@@ -1402,9 +1414,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "Promenade Park",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 1998,
@@ -1415,9 +1427,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Lawrence, KS",
       "venue": "Clinton Lake State Park",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1998,
@@ -1427,10 +1439,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "Greek Theatre - Newport Folk Festival",
+      "venue": "Greek Theatre",
+      "notes": "Newport",
       "version": "SBD",
-      "format": "4 sources",
-      "notes": ""
+      "format": "4 sources"
     },
     {
       "year": 1998,
@@ -1441,9 +1453,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Tinley Park, IL",
       "venue": "World Music Theater",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1998,
@@ -1454,9 +1466,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1998,
@@ -1467,9 +1479,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "DAT(M)",
       "version": "SBD",
-      "format": "",
-      "notes": "M"
+      "format": ""
     },
     {
       "year": 1998,
@@ -1479,10 +1491,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Tower Records - WXRT 93.1",
+      "venue": "Tower Records",
+      "notes": "WXRT",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1493,9 +1505,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Gruenspan",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1506,9 +1518,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Shepherd's Bush",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1519,9 +1531,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Shepherd's Bush Empire",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 1999,
@@ -1532,9 +1544,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Barrymore Theater",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1545,9 +1557,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Champaign, IL",
       "venue": "Canopy Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1558,9 +1570,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1571,9 +1583,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1584,9 +1596,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1597,9 +1609,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Avalon Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1610,9 +1622,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "TLA",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1623,9 +1635,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theatre of the Living Arts",
+      "notes": "DAT(M) · Schoeps MK4V · keytohwy",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps MK4V · keytohwy"
+      "format": ""
     },
     {
       "year": 1999,
@@ -1636,9 +1648,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Virginia Beach, VA",
       "venue": "The Abyss",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1649,9 +1661,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "AKG 481 · jamie syrek",
       "version": "AUD",
-      "format": "",
-      "notes": "AKG 481 · jamie syrek"
+      "format": ""
     },
     {
       "year": 1999,
@@ -1662,9 +1674,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1675,9 +1687,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "SBD & AKG 481",
       "version": "MIX",
-      "format": "",
-      "notes": "SBD & AKG 481"
+      "format": ""
     },
     {
       "year": 1999,
@@ -1687,10 +1699,10 @@ const ARTIST_DATA = {
       "city": "Grinnell",
       "state": "IA",
       "location": "Grinnell, IA",
-      "venue": "Grinnell College - Harris Center",
+      "venue": "Grinnell College",
+      "notes": "Harris",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1701,9 +1713,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "King Cat Theater",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1714,9 +1726,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "King Cat Theater",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 1999,
@@ -1727,9 +1739,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "House of Blues",
+      "notes": "blg mastering",
       "version": "SBD",
-      "format": "",
-      "notes": "blg mastering"
+      "format": ""
     },
     {
       "year": 1999,
@@ -1740,9 +1752,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Olympia Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1753,9 +1765,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Earl's Court",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1766,9 +1778,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Frankfurt, Germany",
       "venue": "Festhalle",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1779,9 +1791,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Columbia Fritz",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1792,9 +1804,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Bielefeld, Germany",
       "venue": "Hechelei",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1805,9 +1817,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1818,9 +1830,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1831,9 +1843,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Werchter, Belgium",
       "venue": "Werchter Festival",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1844,9 +1856,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Roehre",
+      "notes": "",
       "version": "MTX",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1857,9 +1869,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Loreley, Germany",
       "venue": "Rockpalast",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1870,9 +1882,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Loreley, Germany",
       "venue": "Rockpalast Airbase",
+      "notes": "",
       "version": "TV",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1883,9 +1895,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Bologna, Italy",
       "venue": "Stadio Renato Dall'Ara",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1896,9 +1908,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Hallenstadion",
+      "notes": "zuma66",
       "version": "AUD",
-      "format": "",
-      "notes": "zuma66"
+      "format": ""
     },
     {
       "year": 1999,
@@ -1909,9 +1921,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Antone's",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1922,9 +1934,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Tinley Park, IL",
       "venue": "World Music Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1935,9 +1947,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Walnut Creek Amphitheatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1948,9 +1960,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "St. Petersburg, FL",
       "venue": "Jannus Landing",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 1999,
@@ -1961,9 +1973,22 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "St. Petersburg, FL",
       "venue": "Jannus Landing",
+      "notes": "",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 1999,
+      "month": 8,
+      "day": 31,
+      "dateStr": "8-31-1999",
+      "city": "St. Petersburg",
+      "state": "FL",
+      "location": "St. Petersburg, FL",
+      "venue": "Jannus Landing",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1973,10 +1998,10 @@ const ARTIST_DATA = {
       "city": "Pontiac",
       "state": "MI",
       "location": "Pontiac, MI",
-      "venue": "Phoenix Amphitheatre - Arts, Beats & Eats Festival",
+      "venue": "Phoenix Amphitheatre",
+      "notes": "Arts,",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -1987,9 +2012,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "3rd Annual Hideout Block Party",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -2000,9 +2025,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Sessions at West 54th",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -2013,9 +2038,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Headliners",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -2026,9 +2051,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -2039,9 +2064,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Newport Music Hall",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -2052,9 +2077,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -2065,9 +2090,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Trocadero Theater",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -2078,9 +2103,22 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Majestic Theater",
+      "notes": "",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 1999,
+      "month": 11,
+      "day": 23,
+      "dateStr": "11-23-1999",
+      "city": "Detroit",
+      "state": "MI",
+      "location": "Detroit, MI",
+      "venue": "Majestic Theater",
+      "notes": "",
       "version": "MTX",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1999,
@@ -2091,9 +2129,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2104,9 +2142,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Lounge Ax",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2117,9 +2155,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "The Howlin' Wolf",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2130,9 +2168,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "The Howlin' Wolf",
+      "notes": "unk",
       "version": "AUD",
-      "format": "",
-      "notes": "unk"
+      "format": ""
     },
     {
       "year": 2000,
@@ -2143,9 +2181,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Camden, ME",
       "venue": "Camden Opera House",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2156,9 +2194,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Camden, ME",
       "venue": "Camden Opera House",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2000,
@@ -2169,9 +2207,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Bank of America Pavilion",
+      "notes": "unk",
       "version": "AUD",
-      "format": "",
-      "notes": "unk"
+      "format": ""
     },
     {
       "year": 2000,
@@ -2182,9 +2220,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Danbury, CT",
       "venue": "Charles Ives Center for the Arts",
+      "notes": "unk",
       "version": "AUD",
-      "format": "",
-      "notes": "unk"
+      "format": ""
     },
     {
       "year": 2000,
@@ -2195,9 +2233,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Wolf Trap",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2208,9 +2246,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Wolf Trap",
+      "notes": "unk",
       "version": "AUD",
-      "format": "",
-      "notes": "unk"
+      "format": ""
     },
     {
       "year": 2000,
@@ -2221,9 +2259,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Pier 6",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2234,9 +2272,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Rochester Hills, MI",
       "venue": "Meadow Brook Music Festival",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2247,9 +2285,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Pier 62-63",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2260,9 +2298,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2273,9 +2311,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2286,9 +2324,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2299,9 +2337,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2312,9 +2350,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "",
       "version": "MTX",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2325,9 +2363,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Tribune Tower Plaza",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2338,9 +2376,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Towson, MD",
       "venue": "Recher Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2351,9 +2389,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Toad's Place",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2364,9 +2402,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Pennsauken, NJ",
       "venue": "Cooper River Park",
+      "notes": "Shoeps CMC4 · billydee",
       "version": "AUD",
-      "format": "",
-      "notes": "Shoeps CMC4 · billydee"
+      "format": ""
     },
     {
       "year": 2000,
@@ -2377,9 +2415,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Pennsauken, NJ",
       "venue": "Cooper River Park",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2390,9 +2428,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Pennsauken, NJ",
       "venue": "Cooper River Park",
+      "notes": "SBD+Schoeps CMC4",
       "version": "MIX",
-      "format": "",
-      "notes": "SBD+Schoeps CMC4"
+      "format": ""
     },
     {
       "year": 2000,
@@ -2403,9 +2441,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Bowery Ballroom",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2416,9 +2454,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Barrymore Theater",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2429,9 +2467,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Barrymore Theater",
+      "notes": "morst · taperjoe tracking",
       "version": "SBD",
-      "format": "",
-      "notes": "morst · taperjoe tracking"
+      "format": ""
     },
     {
       "year": 2000,
@@ -2442,9 +2480,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2455,9 +2493,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "Union Bar",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2000,
@@ -2468,9 +2506,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -2481,9 +2519,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -2494,9 +2532,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -2506,10 +2544,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Grant Park - Petrillo Music Shell",
+      "venue": "Grant Park",
+      "notes": "Petrillo",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -2520,9 +2558,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Gypsy Tea Room",
+      "notes": "",
       "version": "AUD #1",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -2533,9 +2571,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Gypsy Tea Room",
+      "notes": "",
       "version": "AUD #2",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -2546,9 +2584,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's BBQ",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -2559,9 +2597,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "9:30 Club",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -2572,9 +2610,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Town Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -2585,9 +2623,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Town Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -2598,9 +2636,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Avalon",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -2611,9 +2649,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Majestic Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -2624,9 +2662,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -2637,9 +2675,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -2650,9 +2688,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -2663,9 +2701,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "unk",
       "version": "AUD",
-      "format": "",
-      "notes": "unk"
+      "format": ""
     },
     {
       "year": 2001,
@@ -2676,9 +2714,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "",
-      "notes": "unk · neekrive"
+      "format": ""
     },
     {
       "year": 2001,
@@ -2689,9 +2727,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "SBD + Schoeps · blg mix",
       "version": "MIX",
-      "format": "",
-      "notes": "SBD + Schoeps · blg mix"
+      "format": ""
     },
     {
       "year": 2001,
@@ -2702,9 +2740,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "",
-      "notes": "unk · neekrive"
+      "format": ""
     },
     {
       "year": 2001,
@@ -2715,9 +2753,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2001,
@@ -2728,9 +2766,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2001,
@@ -2741,9 +2779,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "El Rey Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -2754,9 +2792,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "The Cajun House",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -2767,9 +2805,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "House of Blues",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -2780,9 +2818,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "House of Blues",
+      "notes": "ECM12 · luke freteluco",
       "version": "AUD",
-      "format": "",
-      "notes": "ECM12 · luke freteluco"
+      "format": ""
     },
     {
       "year": 2002,
@@ -2793,9 +2831,9 @@ const ARTIST_DATA = {
       "state": "CA - All Tomorrow's Parties - Royce Hall (FOH Series)",
       "location": "Los Angeles, CA - All Tomorrow's Parties - Royce Hall (FOH Series)",
       "venue": "",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -2805,10 +2843,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "UCLA - All Tomorrow's Parties",
+      "venue": "UCLA",
+      "notes": "All · Sony ECM12s · luke",
       "version": "AUD",
-      "format": "",
-      "notes": "Sony ECM12s · luke"
+      "format": ""
     },
     {
       "year": 2002,
@@ -2818,10 +2856,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "UCLA - All Tomorrow's Parties",
+      "venue": "UCLA",
+      "notes": "All",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -2831,10 +2869,10 @@ const ARTIST_DATA = {
       "city": "Boulder",
       "state": "CO",
       "location": "Boulder, CO",
-      "venue": "University of CO at Boulder - Mackay Auditorium",
+      "venue": "University of CO at Boulder",
+      "notes": "Mackay",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -2845,9 +2883,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Convocation Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -2858,9 +2896,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's Heartbreak Hotel",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -2870,10 +2908,10 @@ const ARTIST_DATA = {
       "city": "Schenectady",
       "state": "NY",
       "location": "Schenectady, NY",
-      "venue": "Union College - Memorial Chapel",
+      "venue": "Union College",
+      "notes": "Memorial",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -2884,9 +2922,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Towson, MD",
       "venue": "Recher Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -2897,9 +2935,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Manchester, England",
       "venue": "Manchester University Student Union",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -2910,9 +2948,9 @@ const ARTIST_DATA = {
       "state": "Norway",
       "location": "Oslo, Norway",
       "venue": "Rockefeller",
+      "notes": "DAT(M) · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "M · unk"
+      "format": ""
     },
     {
       "year": 2002,
@@ -2923,9 +2961,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Gruenspan",
+      "notes": "MD · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "MD · unk"
+      "format": ""
     },
     {
       "year": 2002,
@@ -2936,9 +2974,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Gruenspan",
+      "notes": "unk",
       "version": "SBD",
-      "format": "",
-      "notes": "unk"
+      "format": ""
     },
     {
       "year": 2002,
@@ -2949,9 +2987,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Koln, Germany",
       "venue": "Prime Club",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -2962,9 +3000,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Nurburgring, Germany",
       "venue": "Rock am Ring",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -2975,9 +3013,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Nurnberg, Germany",
       "venue": "Rock im Park Festival",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -2988,9 +3026,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Le Divan du Monde",
+      "notes": "SP-CMC-4 · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "SP-CMC-4 · unk"
+      "format": ""
     },
     {
       "year": 2002,
@@ -3001,9 +3039,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Utrecht, The Netherlands",
       "venue": "Tivoli",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3014,9 +3052,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Melkweg",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3027,9 +3065,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Melkweg",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3040,9 +3078,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Melkweg",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3052,10 +3090,10 @@ const ARTIST_DATA = {
       "city": "Detroit",
       "state": "MI",
       "location": "Detroit, MI",
-      "venue": "WDET 101.9 FM - The Martin Bandyke Show",
+      "venue": "WDET 101.9 FM",
+      "notes": "The",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3066,9 +3104,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Tabernacle",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3079,9 +3117,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Orpheum Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3092,9 +3130,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "The Orpheum Theatre",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2002,
@@ -3105,9 +3143,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Commodore Ballroom",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3118,9 +3156,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Bumbershoot",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3131,9 +3169,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Roseland Theatre",
+      "notes": "",
       "version": "MTX",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3144,9 +3182,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
+      "notes": "DAT(M) · Schoeps CCM4 · unk · blg mastering",
       "version": "AUD",
-      "format": "",
-      "notes": "unk · blg mastering"
+      "format": ""
     },
     {
       "year": 2002,
@@ -3157,9 +3195,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
+      "notes": "SBD + Schoeps · blg mix",
       "version": "MIX",
-      "format": "",
-      "notes": "SBD + Schoeps · blg mix"
+      "format": ""
     },
     {
       "year": 2002,
@@ -3170,9 +3208,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "John Anson Ford Theater",
+      "notes": "Sony ECM12s · luke",
       "version": "AUD",
-      "format": "",
-      "notes": "Sony ECM12s · luke"
+      "format": ""
     },
     {
       "year": 2002,
@@ -3183,9 +3221,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "John Anson Ford Theatre",
+      "notes": "SBD + Sony ECM-12 · anonymous + luke freteluco",
       "version": "MIX",
-      "format": "",
-      "notes": "SBD + Sony ECM-12 · anonymous + luke freteluco"
+      "format": ""
     },
     {
       "year": 2002,
@@ -3196,9 +3234,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "John Anson Ford Theater",
+      "notes": "Sony ECM12s · luke",
       "version": "AUD",
-      "format": "",
-      "notes": "Sony ECM12s · luke"
+      "format": ""
     },
     {
       "year": 2002,
@@ -3208,10 +3246,10 @@ const ARTIST_DATA = {
       "city": "Santa Monica",
       "state": "CA",
       "location": "Santa Monica, CA",
-      "venue": "KCRW Studios - Morning Becomes Eclectic",
+      "venue": "KCRW Studios",
+      "notes": "Morning",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3221,10 +3259,10 @@ const ARTIST_DATA = {
       "city": "Santa Monica",
       "state": "CA",
       "location": "Santa Monica, CA",
-      "venue": "KCRW Studios - Morning Becomes Eclectic",
+      "venue": "KCRW Studios",
+      "notes": "Morning",
       "version": "Webcast",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3235,9 +3273,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "John Anson Ford Theatre",
+      "notes": "DAT(M) · anonymous",
       "version": "AUD",
-      "format": "",
-      "notes": "M · anonymous"
+      "format": ""
     },
     {
       "year": 2002,
@@ -3248,9 +3286,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "4th and B",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3261,9 +3299,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "The Fillmore",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3274,9 +3312,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "The Blue Note",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3286,10 +3324,10 @@ const ARTIST_DATA = {
       "city": "Austin",
       "state": "TX",
       "location": "Austin, TX",
-      "venue": "Mercury Entertainment - Jazz",
+      "venue": "Mercury Entertainment",
+      "notes": "Jazz · SPSC · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "SPSC · unk"
+      "format": ""
     },
     {
       "year": 2002,
@@ -3300,9 +3338,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3313,9 +3351,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3326,9 +3364,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Orpheum",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3339,9 +3377,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Electric Factory",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3352,9 +3390,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Michigan Theater",
+      "notes": "Core Binaural Mics · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "Core Binaural Mics · unk"
+      "format": ""
     },
     {
       "year": 2002,
@@ -3365,9 +3403,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Champaign, IL",
       "venue": "University of IL at Urbana",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3378,9 +3416,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "The Ryman Auditorium",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3391,9 +3429,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "Tampa Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3404,9 +3442,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Gainesville, FL",
       "venue": "The Palace Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3417,9 +3455,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2002,
@@ -3429,10 +3467,10 @@ const ARTIST_DATA = {
       "city": "Iowa City",
       "state": "IA",
       "location": "Iowa City, IA",
-      "venue": "University of Iowa Memorial Union - Main Lounge",
+      "venue": "University of Iowa Memorial Union",
+      "notes": "Main",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3443,9 +3481,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3456,9 +3494,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "The Palace",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3469,9 +3507,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Big Day Out Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3482,9 +3520,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Adelaide, Australia",
       "venue": "Royal Adelaide Showgrounds",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3495,9 +3533,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Perth, Australia",
       "venue": "Big Day Out Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3508,9 +3546,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Dekalb, IL",
       "venue": "Otto's",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3521,9 +3559,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Lexington, KY",
       "venue": "Singletary Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3533,10 +3571,10 @@ const ARTIST_DATA = {
       "city": "University Park",
       "state": "PA",
       "location": "University Park, PA",
-      "venue": "Penn State University - HUB Lawn",
+      "venue": "Penn State University",
+      "notes": "HUB",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3547,9 +3585,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3560,9 +3598,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Carbondale, IL",
       "venue": "University Arena Parking Lot",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3573,9 +3611,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Point State Park Symphony Stage",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3586,9 +3624,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Three Rivers Arts Festival",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2003,
@@ -3599,9 +3637,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Wallingford, CT",
       "venue": "Oakdale Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3612,9 +3650,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Summerstage Central Park",
+      "notes": "MG210 · ellaguru",
       "version": "AUD",
-      "format": "",
-      "notes": "MG210 · ellaguru"
+      "format": ""
     },
     {
       "year": 2003,
@@ -3625,9 +3663,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Penn's Landing",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3638,9 +3676,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Festival Pier at Penn's Landing",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2003,
@@ -3651,9 +3689,9 @@ const ARTIST_DATA = {
       "state": "Quebec",
       "location": "Montreal, Quebec",
       "venue": "Metropolis",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3664,9 +3702,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington D.C.",
       "venue": "Constitution Hall",
+      "notes": "DAT(M) · B&K 4022 · craig davis",
       "version": "AUD",
-      "format": "",
-      "notes": "B&K 4022 · craig davis"
+      "format": ""
     },
     {
       "year": 2003,
@@ -3676,10 +3714,10 @@ const ARTIST_DATA = {
       "city": "Detroit",
       "state": "MI",
       "location": "Detroit, MI",
-      "venue": "Fisher Building Parking Lot - Tastefest",
+      "venue": "Fisher Building Parking Lot",
+      "notes": "Tastefest",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3689,10 +3727,10 @@ const ARTIST_DATA = {
       "city": "Detroit",
       "state": "MI",
       "location": "Detroit, MI",
-      "venue": "Fisher Building Parking Lot - Tastefest",
+      "venue": "Fisher Building Parking Lot",
+      "notes": "Tastefest",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3703,9 +3741,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Summerfest",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3716,9 +3754,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Thunderbird Stadium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3729,9 +3767,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Ridgefield, WA",
       "venue": "Amphitheatre in Clark County",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3742,9 +3780,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Eugene, OR",
       "venue": "McDonald Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3755,9 +3793,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Eugene, OR",
       "venue": "McDonald Theatre",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2003,
@@ -3767,10 +3805,10 @@ const ARTIST_DATA = {
       "city": "Mountain View",
       "state": "CA",
       "location": "Mountain View, CA",
-      "venue": "Shoreline Amphitheatre - KFOG Summer Picnic",
+      "venue": "Shoreline Amphitheatre",
+      "notes": "KFOG · Schoeps MK4 · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps MK4 · unk"
+      "format": ""
     },
     {
       "year": 2003,
@@ -3781,9 +3819,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Thomas & Mack Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3794,9 +3832,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3807,9 +3845,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "Schoeps MK4 · ken mininger",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps MK4 · ken mininger"
+      "format": ""
     },
     {
       "year": 2003,
@@ -3820,9 +3858,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "Sony ECM12s · luke",
       "version": "AUD",
-      "format": "",
-      "notes": "Sony ECM12s · luke"
+      "format": ""
     },
     {
       "year": 2003,
@@ -3833,9 +3871,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "Sony ECM12s · luke",
       "version": "AUD",
-      "format": "",
-      "notes": "Sony ECM12s · luke"
+      "format": ""
     },
     {
       "year": 2003,
@@ -3846,9 +3884,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3859,9 +3897,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Des Moines, IA",
       "venue": "Val Air Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3872,9 +3910,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theatre",
+      "notes": "Earthworks SR 77s · jerrry eagleberger & david sadowski",
       "version": "AUD",
-      "format": "",
-      "notes": "Earthworks SR 77s · jerrry eagleberger & david sadowski"
+      "format": ""
     },
     {
       "year": 2003,
@@ -3885,9 +3923,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theatre",
+      "notes": "",
       "version": "MTX",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3898,9 +3936,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theatre",
+      "notes": "Earthworks SR77s · jerry eagleberger & david sadowski",
       "version": "AUD",
-      "format": "",
-      "notes": "Earthworks SR77s · jerry eagleberger & david sadowski"
+      "format": ""
     },
     {
       "year": 2003,
@@ -3911,9 +3949,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3924,9 +3962,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -3937,9 +3975,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -3950,9 +3988,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Dekalb, IL",
       "venue": "Otto's",
+      "notes": "Earthworks SR77s · jerry eaglebarger",
       "version": "AUD",
-      "format": "",
-      "notes": "Earthworks SR77s · jerry eaglebarger"
+      "format": ""
     },
     {
       "year": 2004,
@@ -3963,9 +4001,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Dekalb, IL",
       "venue": "Otto's",
+      "notes": "Earthworks SR77s · jerry eaglebarger",
       "version": "AUD",
-      "format": "",
-      "notes": "Earthworks SR77s · jerry eaglebarger"
+      "format": ""
     },
     {
       "year": 2004,
@@ -3976,9 +4014,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "DeKalb, IL",
       "venue": "Otto's",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2004,
@@ -3989,9 +4027,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Three Rivers Arts Festival",
+      "notes": "AKG se300b · alex herd",
       "version": "AUD",
-      "format": "",
-      "notes": "AKG se300b · alex herd"
+      "format": ""
     },
     {
       "year": 2004,
@@ -4002,9 +4040,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Three Rivers Arts Festival",
+      "notes": "unk + AKG se300b · j. gould + alex herd",
       "version": "MIX",
-      "format": "",
-      "notes": "unk + AKG se300b · j. gould + alex herd"
+      "format": ""
     },
     {
       "year": 2004,
@@ -4015,9 +4053,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Poughkeepsie, NY",
       "venue": "The Chance",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4028,9 +4066,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4041,9 +4079,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "9:30 Club",
+      "notes": "",
       "version": "MIX",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4053,10 +4091,10 @@ const ARTIST_DATA = {
       "city": "Manchester",
       "state": "TN",
       "location": "Manchester, TN",
-      "venue": "Bonnaroo Music Festival - What Stage",
+      "venue": "Bonnaroo Music Festival",
+      "notes": "What · M · B&K 4022 · craig davis",
       "version": "AUD",
-      "format": "",
-      "notes": "B&K 4022 · craig davis"
+      "format": ""
     },
     {
       "year": 2004,
@@ -4067,9 +4105,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Vic Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4077,12 +4115,12 @@ const ARTIST_DATA = {
       "day": 23,
       "dateStr": "6-23-2004",
       "city": "Portsmouth",
-      "state": "Hampshire, England",
+      "state": "Hampshire",
       "location": "Portsmouth, Hampshire, England",
       "venue": "Wedgewood Rooms",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4092,10 +4130,10 @@ const ARTIST_DATA = {
       "city": "Brescia",
       "state": "Italy",
       "location": "Brescia, Italy",
-      "venue": "San Bernardino Institute - Chiari",
+      "venue": "San Bernardino Institute",
+      "notes": "Chiari",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4106,9 +4144,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Volkshaus",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4119,9 +4157,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Little Vega",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4132,9 +4170,9 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Goteborg, Sweden",
       "venue": "Tradgarn",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4145,9 +4183,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Astoria Theatre",
+      "notes": "CSB · stuart plummer",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · stuart plummer"
+      "format": ""
     },
     {
       "year": 2004,
@@ -4157,10 +4195,10 @@ const ARTIST_DATA = {
       "city": "Philadelphia",
       "state": "PA",
       "location": "Philadelphia, PA",
-      "venue": "World Cafe - WXPN-NPR",
+      "venue": "World Cafe",
+      "notes": "WXPN-NPR",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4171,9 +4209,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Eagles Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4184,9 +4222,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "The Mod Club",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4197,9 +4235,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Capital Music Hall",
+      "notes": "",
       "version": "AUD #1",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4210,9 +4248,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Capital Music Hall",
+      "notes": "",
       "version": "AUD #2",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4223,9 +4261,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Newport Folk Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4236,9 +4274,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "Blue Note",
+      "notes": "B&K 4021s · steve brothers + mike mettis",
       "version": "AUD",
-      "format": "",
-      "notes": "B&K 4021s · steve brothers + mike mettis"
+      "format": ""
     },
     {
       "year": 2004,
@@ -4249,9 +4287,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Fox Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4262,9 +4300,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Fox Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4275,9 +4313,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "The Granada Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4288,9 +4326,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's BBQ",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4301,9 +4339,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Zilker Park",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4314,9 +4352,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Uptown Mix",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4327,9 +4365,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Memorial Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4340,9 +4378,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Wang Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4353,9 +4391,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4366,9 +4404,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4379,9 +4417,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga Springs, NY",
       "venue": "The Sports Center Gym",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4392,9 +4430,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Massey Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4405,9 +4443,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "The Orpheum",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4418,9 +4456,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "The Orpheum",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4431,9 +4469,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Auditorium Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4444,9 +4482,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Auditorium Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4457,9 +4495,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Auditorium Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4470,9 +4508,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Fillmore Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4483,9 +4521,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Paramount Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4496,9 +4534,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Paramount Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4509,9 +4547,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "Center for the Performing Arts",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4522,9 +4560,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Paramount Theater",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4535,9 +4573,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "",
       "version": "MTX",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4548,9 +4586,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW Webcast",
+      "notes": "",
       "version": "DVD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4561,9 +4599,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Wiltern Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4574,9 +4612,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Wiltern",
+      "notes": "DAT(M) · anonymous",
       "version": "SBD",
-      "format": "",
-      "notes": "M · anonymous"
+      "format": ""
     },
     {
       "year": 2004,
@@ -4587,9 +4625,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Wiltern Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4600,9 +4638,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Wiltern Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2004,
@@ -4613,9 +4651,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
+      "notes": "DPA 4021 · matchbook songs",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4021 · matchbook songs"
+      "format": ""
     },
     {
       "year": 2004,
@@ -4626,9 +4664,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
+      "notes": "DPA 4022 · george wang",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4022 · george wang"
+      "format": ""
     },
     {
       "year": 2004,
@@ -4639,9 +4677,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2005,
@@ -4652,9 +4690,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits",
+      "notes": "",
       "version": "TV",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4665,9 +4703,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Urbana, IL",
       "venue": "Foellinger Auditorium",
+      "notes": "SM-81 · mark makdad",
       "version": "AUD",
-      "format": "",
-      "notes": "SM-81 · mark makdad"
+      "format": ""
     },
     {
       "year": 2005,
@@ -4678,9 +4716,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Taft Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4691,9 +4729,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Memphis, TN",
       "venue": "Orpheum Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4704,9 +4742,9 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Myrtle Beach, SC",
       "venue": "House of Blues",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4717,9 +4755,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Ovens Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4730,22 +4768,22 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
       "month": 2,
       "day": 24,
-      "dateStr": "2-24-2005a",
+      "dateStr": "2-24-2005",
       "city": "Washington",
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "NPR Studio 4",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4756,9 +4794,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4769,9 +4807,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4782,9 +4820,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Kalamazoo, MI",
       "venue": "State Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4795,9 +4833,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Nottingham, England",
       "venue": "Rock City",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4808,9 +4846,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Hammersmith Apollo",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4821,9 +4859,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Elysee Montmartre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4834,9 +4872,9 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Barcelona, Spain",
       "venue": "Sala Razzmatazz",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4847,9 +4885,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Verizon Wireless Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4860,9 +4898,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Oklahoma City, OK",
       "venue": "Bricktown Events Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4873,9 +4911,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Oklahoma City, OK",
       "venue": "Bricktown Events Center",
+      "notes": "CSB · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · unk"
+      "format": ""
     },
     {
       "year": 2005,
@@ -4886,9 +4924,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "La Jolla, CA",
       "venue": "Price Center Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4898,10 +4936,10 @@ const ARTIST_DATA = {
       "city": "Indio",
       "state": "CA",
       "location": "Indio, CA",
-      "venue": "Empire Polo Grounds - Coachella Festival",
+      "venue": "Empire Polo Grounds",
+      "notes": "Coachella",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4911,10 +4949,10 @@ const ARTIST_DATA = {
       "city": "Indio",
       "state": "CA",
       "location": "Indio, CA",
-      "venue": "Empire Polo Grounds - Coachella Festival",
+      "venue": "Empire Polo Grounds",
+      "notes": "Coachella",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4925,9 +4963,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4938,9 +4976,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Telluride, CO",
       "venue": "Telluride Bluegrass Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4951,9 +4989,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4964,9 +5002,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Agganis Arena",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4977,9 +5015,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Columbia, MD",
       "venue": "Merriweather Post Pavilion",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -4990,9 +5028,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Columbia, MD",
       "venue": "Merriweather Post Pavilion",
+      "notes": "B&K4022 · craig davis",
       "version": "AUD",
-      "format": "",
-      "notes": "B&K4022 · craig davis"
+      "format": ""
     },
     {
       "year": 2005,
@@ -5003,9 +5041,9 @@ const ARTIST_DATA = {
       "state": "Quebec",
       "location": "Montreal, Quebec",
       "venue": "Metropolis",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -5016,9 +5054,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "The Louisville Palace Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -5029,9 +5067,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Backstage",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -5042,9 +5080,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Koln, Germany",
       "venue": "Live Music Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -5055,9 +5093,9 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Cologne, DE",
       "venue": "Live Music Hall",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2005,
@@ -5068,9 +5106,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "The Blue Note",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -5080,10 +5118,10 @@ const ARTIST_DATA = {
       "city": "Austin",
       "state": "TX",
       "location": "Austin, TX",
-      "venue": "ACL Festival - Zilker Park",
+      "venue": "ACL Festival",
+      "notes": "Zilker · jim o'brien",
       "version": "SBD",
-      "format": "",
-      "notes": "jim o'brien"
+      "format": ""
     },
     {
       "year": 2005,
@@ -5094,9 +5132,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Murat Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2005,
@@ -5106,10 +5144,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Auditorium Theatre - Hurricane Relief Benefit",
+      "venue": "Auditorium Theatre",
+      "notes": "Hurricane",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5120,9 +5158,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Chapel Hill, NC",
       "venue": "Memorial Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5133,9 +5171,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "TN Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5146,9 +5184,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5159,9 +5197,9 @@ const ARTIST_DATA = {
       "state": "AR",
       "location": "Fayetteville, AR",
       "venue": "Walton Arts Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5172,9 +5210,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Uptown Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5185,9 +5223,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Des Moines, IA",
       "venue": "Val Air Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5198,9 +5236,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Des Moines, IA",
       "venue": "Val Air Ballroom",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5211,9 +5249,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Bloomington, IN",
       "venue": "IU Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5224,9 +5262,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Merrill Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5237,9 +5275,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Sayreville, NJ",
       "venue": "Starland Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5250,9 +5288,22 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Williamsburg, VA",
       "venue": "The College of William & Mary Hall",
+      "notes": "",
       "version": "MTX",
-      "format": "",
-      "notes": ""
+      "format": ""
+    },
+    {
+      "year": 2006,
+      "month": 4,
+      "day": 22,
+      "dateStr": "4-22-2006",
+      "city": "Williamsburg",
+      "state": "VA",
+      "location": "Williamsburg, VA",
+      "venue": "William & Mary Hall",
+      "notes": "FOH Series",
+      "version": "SBD",
+      "format": ""
     },
     {
       "year": 2006,
@@ -5263,9 +5314,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Charlottesville, VA",
       "venue": "Charlottesville Pavilion",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5276,9 +5327,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Summerfest",
+      "notes": "SP-BMC-12 · matt krueger + kevin kohl",
       "version": "AUD",
-      "format": "",
-      "notes": "SP-BMC-12 · matt krueger + kevin kohl"
+      "format": ""
     },
     {
       "year": 2006,
@@ -5289,9 +5340,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Massey Hall",
+      "notes": "KM184+SBD · david klein",
       "version": "MTX",
-      "format": "",
-      "notes": "KM184+SBD · david klein"
+      "format": ""
     },
     {
       "year": 2006,
@@ -5302,9 +5353,9 @@ const ARTIST_DATA = {
       "state": "NS",
       "location": "Dartmouth, NS",
       "venue": "Alderney Landing",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5315,9 +5366,9 @@ const ARTIST_DATA = {
       "state": "NB",
       "location": "Fredericton, NB",
       "venue": "The Playhouse",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5328,9 +5379,9 @@ const ARTIST_DATA = {
       "state": "NB",
       "location": "Fredericton, NB",
       "venue": "The Playhouse",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2006,
@@ -5341,9 +5392,9 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Quebec, Canada",
       "venue": "Festival d'ete de Quebec",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5354,9 +5405,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Florence, MA",
       "venue": "Pines Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5366,10 +5417,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Grant Park - Lollapalooza",
+      "venue": "Grant Park",
+      "notes": "Lollapalooza",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5380,9 +5431,9 @@ const ARTIST_DATA = {
       "state": "IN - Elliot Hall -  Perdue University",
       "location": "West Lafayette, IN - Elliot Hall -  Perdue University",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5393,9 +5444,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Iroquois Amphitheater",
+      "notes": "CK63 · jon ice",
       "version": "AUD",
-      "format": "",
-      "notes": "CK63 · jon ice"
+      "format": ""
     },
     {
       "year": 2006,
@@ -5406,9 +5457,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Iroquois Amphitheater",
+      "notes": "Schoeps MK4/CMC6 · stuart tackett",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps MK4/CMC6 · stuart tackett"
+      "format": ""
     },
     {
       "year": 2006,
@@ -5419,9 +5470,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Iroquois Amphitheater",
+      "notes": "MK4 + CK63",
       "version": "MIX",
-      "format": "",
-      "notes": "MK4 + CK63"
+      "format": ""
     },
     {
       "year": 2006,
@@ -5432,9 +5483,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Huntsville, AL",
       "venue": "Von Brawn Concert Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5445,9 +5496,9 @@ const ARTIST_DATA = {
       "state": "MS",
       "location": "Oxford, MS",
       "venue": "Gertrude Castello Ford Center",
+      "notes": "Schoeps MK4 · stuart tackett",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps MK4 · stuart tackett"
+      "format": ""
     },
     {
       "year": 2006,
@@ -5458,9 +5509,9 @@ const ARTIST_DATA = {
       "state": "MS",
       "location": "Oxford, MS",
       "venue": "Gertrude Castello Ford Center",
+      "notes": "AKG C 460 + CK 61 · ole diz & pedro",
       "version": "AUD",
-      "format": "",
-      "notes": "AKG C 460 + CK 61 · ole diz & pedro"
+      "format": ""
     },
     {
       "year": 2006,
@@ -5470,10 +5521,10 @@ const ARTIST_DATA = {
       "city": "Oxford",
       "state": "MS",
       "location": "Oxford,MS",
-      "venue": "GCFC - UofMS",
+      "venue": "GCFC",
+      "notes": "UofMS · 2-source Mix · Schoeps MK4 + AKG C 460 · ole diz & pedro",
       "version": "MIX",
-      "format": "",
-      "notes": "Schoeps MK4 + AKG C 460 · ole diz & pedro"
+      "format": ""
     },
     {
       "year": 2006,
@@ -5484,9 +5535,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Fort Worth, TX",
       "venue": "Will Rogers Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5497,9 +5548,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "Sunset Station",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5509,10 +5560,10 @@ const ARTIST_DATA = {
       "city": "Morgantown",
       "state": "WV",
       "location": "Morgantown, WV",
-      "venue": "WVU - Mountain Lair Ballroom",
+      "venue": "WVU",
+      "notes": "Mountain",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5523,9 +5574,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5536,9 +5587,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Barrymore Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5549,9 +5600,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2006,
@@ -5562,9 +5613,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5575,9 +5626,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Brisbane, Australia",
       "venue": "The Tivoli",
+      "notes": "Binaural SP mics · brendan eales",
       "version": "AUD",
-      "format": "",
-      "notes": "Binaural SP mics · brendan eales"
+      "format": ""
     },
     {
       "year": 2007,
@@ -5588,9 +5639,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Palais Theatre",
+      "notes": "Audix m1290 · adam",
       "version": "AUD",
-      "format": "",
-      "notes": "Audix m1290 · adam"
+      "format": ""
     },
     {
       "year": 2007,
@@ -5601,9 +5652,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Palais Theatre",
+      "notes": "Audix m1290 · adam",
       "version": "AUD",
-      "format": "",
-      "notes": "Audix m1290 · adam"
+      "format": ""
     },
     {
       "year": 2007,
@@ -5614,9 +5665,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Enmore Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5627,9 +5678,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "A Prairie Home Companion",
       "venue": "Public Radio",
+      "notes": "",
       "version": "WEB",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5640,9 +5691,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Shepherds Bush Empire",
+      "notes": "SS-DSM6 · soledriver",
       "version": "AUD",
-      "format": "",
-      "notes": "SS-DSM6 · soledriver"
+      "format": ""
     },
     {
       "year": 2007,
@@ -5653,9 +5704,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Grosse Freiheit 36",
+      "notes": "MBHO MBP 603A · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "MBHO MBP 603A · unk"
+      "format": ""
     },
     {
       "year": 2007,
@@ -5666,9 +5717,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Grosse Freiheit",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5679,9 +5730,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "LKA Longhorn",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5692,9 +5743,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Bataclan",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5705,9 +5756,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Gent, Belgium",
       "venue": "De Vooruit",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5718,9 +5769,9 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Barcelona, Spain",
       "venue": "Primavera Sound Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5731,9 +5782,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Davenport, IA",
       "venue": "Adler Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5744,9 +5795,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "WXPN Studios",
+      "notes": "Broadcast Date",
       "version": "FM",
-      "format": "",
-      "notes": "Broadcast Date"
+      "format": ""
     },
     {
       "year": 2007,
@@ -5757,9 +5808,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "The Murat Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5770,9 +5821,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Manchester, TN",
       "venue": "Bonnaroo",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5783,9 +5834,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Chastain Park Amphitheater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5796,9 +5847,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Ovens Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5809,9 +5860,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Ovens Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5822,9 +5873,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Columbia, MD",
       "venue": "Merriweather Post Pavilion",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5835,9 +5886,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Red Bank, NJ",
       "venue": "Count Basie Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5848,9 +5899,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Red Bank, NJ",
       "venue": "Count Basie Theatre",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2007,
@@ -5861,9 +5912,9 @@ const ARTIST_DATA = {
       "state": "MA - Pines Theater at Look Park (KM140s)",
       "location": "Northampton, MA - Pines Theater at Look Park (KM140s)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5874,9 +5925,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hammerstein Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5887,9 +5938,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Warsaw",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5900,9 +5951,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Bank of America Pavilion",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5913,9 +5964,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Shelburne, VT",
       "venue": "Shelburne Museum",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5926,9 +5977,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Massey Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5938,10 +5989,10 @@ const ARTIST_DATA = {
       "city": "Kongsberg",
       "state": "Norway",
       "location": "Kongsberg, Norway",
-      "venue": "Tubaloon - Kongsberg Jazz Festival",
+      "venue": "Tubaloon",
+      "notes": "Kongsberg",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5952,9 +6003,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
+      "notes": "",
       "version": "MTX",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5964,10 +6015,10 @@ const ARTIST_DATA = {
       "city": "Glasgow",
       "state": "UK",
       "location": "Glasgow, UK",
-      "venue": "Victoria Park - Indian Summer",
+      "venue": "Victoria Park",
+      "notes": "Indian",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5978,9 +6029,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Torino, Italy",
       "venue": "Spazio 211",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -5991,9 +6042,9 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Benicassim, Spain",
       "venue": "FIB",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6004,9 +6055,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Redmond, WA",
       "venue": "Marymoor Park",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6017,9 +6068,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Troutdale, OR",
       "venue": "Edgefield",
+      "notes": "",
       "version": "MTX",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6030,9 +6081,22 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theater",
+      "notes": "",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 2007,
+      "month": 8,
+      "day": 24,
+      "dateStr": "8-24-2007",
+      "city": "Berkeley",
+      "state": "CA",
+      "location": "Berkeley, CA",
+      "venue": "Greek Theater",
+      "notes": "",
       "version": "MTX",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6043,9 +6107,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Barbara, CA",
       "venue": "Santa Barbara Bowl",
+      "notes": "DAT(M) · anonymous · blg mastering",
       "version": "SBD",
-      "format": "",
-      "notes": "anonymous · blg mastering"
+      "format": ""
     },
     {
       "year": 2007,
@@ -6056,9 +6120,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Greek Theater",
+      "notes": "CA STC-11 · brennan murphy",
       "version": "AUD",
-      "format": "",
-      "notes": "CA STC-11 · brennan murphy"
+      "format": ""
     },
     {
       "year": 2007,
@@ -6069,9 +6133,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Greek Theatre",
+      "notes": "DAT(M) · anonymous · blg mastering",
       "version": "SBD",
-      "format": "",
-      "notes": "anonymous · blg mastering"
+      "format": ""
     },
     {
       "year": 2007,
@@ -6082,9 +6146,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Greek Theatre",
+      "notes": "MD(M) · Sony MD mic · dennis orr",
       "version": "AUD",
-      "format": "",
-      "notes": "Sony MD mic · dennis orr"
+      "format": ""
     },
     {
       "year": 2007,
@@ -6095,9 +6159,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Fillmore Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6108,9 +6172,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Fillmore Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6120,10 +6184,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Jay Pritzker Pavilion - Millenium Park",
+      "venue": "Jay Pritzker Pavilion",
+      "notes": "Millenium",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6134,9 +6198,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "The Palladium Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6147,9 +6211,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "9th Street Summerfest",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6160,9 +6224,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Louisville Slugger Field",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6173,9 +6237,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Eagle's Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6186,9 +6250,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "The Crossroads KC",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6199,9 +6263,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "Iowa Memorial Union",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6212,9 +6276,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Fox Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6225,9 +6289,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "A.J. Palumbo Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6238,9 +6302,9 @@ const ARTIST_DATA = {
       "state": "VA - Charlottesville Pavilion",
       "location": "Charlottesville, VA - Charlottesville Pavilion",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6250,10 +6314,10 @@ const ARTIST_DATA = {
       "city": "Bilbao",
       "state": "Spain",
       "location": "Bilbao, Spain",
-      "venue": "Palacio Euskalduna - Basque Couple Foxtrot",
+      "venue": "Palacio Euskalduna",
+      "notes": "Basque",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6264,9 +6328,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Vicar Street",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2007,
@@ -6277,9 +6341,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Vicar Street",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6290,9 +6354,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2008,
@@ -6303,9 +6367,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "",
       "version": "MTX",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2008,
@@ -6316,9 +6380,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2008,
@@ -6329,9 +6393,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2008,
@@ -6342,9 +6406,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2008,
@@ -6355,9 +6419,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Lakewood, OH",
       "venue": "Lakewood Civic Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6368,9 +6432,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6381,9 +6445,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theater",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2008,
@@ -6394,9 +6458,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Shubert Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6407,9 +6471,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2008,
@@ -6420,9 +6484,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "",
       "version": "AUD",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2008,
@@ -6433,9 +6497,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6446,9 +6510,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Mobile, AL",
       "venue": "Mobile Civic Center Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6459,9 +6523,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Tipitina's",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6472,9 +6536,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Tipitina's",
+      "notes": "",
       "version": "AUD",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2008,
@@ -6485,9 +6549,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Tulsa, OK",
       "venue": "Cain's Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6498,9 +6562,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Tulsa, OK",
       "venue": "Cain's Ballroom",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2008,
@@ -6511,9 +6575,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Des Moines, IA",
       "venue": "Val Air Ballroom",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2008,
@@ -6524,9 +6588,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Des Moines, IA",
       "venue": "Val Air Ballroom",
+      "notes": "",
       "version": "MTX",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2008,
@@ -6537,9 +6601,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Enmore Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6550,9 +6614,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Palace Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6563,9 +6627,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Rochester, MN",
       "venue": "Mayo Civic Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6576,9 +6640,9 @@ const ARTIST_DATA = {
       "state": "Manitoba",
       "location": "Winnipeg, Manitoba",
       "venue": "Burton Cummings Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6589,9 +6653,9 @@ const ARTIST_DATA = {
       "state": "MT",
       "location": "Bozeman, MT",
       "venue": "The Emerson Cultural Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6602,9 +6666,9 @@ const ARTIST_DATA = {
       "state": "MT",
       "location": "Missoula, MT",
       "venue": "Adams Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6615,9 +6679,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Colorado Springs, CO",
       "venue": "Pikes Peak Center",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2008,
@@ -6628,9 +6692,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6641,9 +6705,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2008,
@@ -6654,9 +6718,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Lawrence, KS",
       "venue": "9th and New Hampshire",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6667,9 +6731,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant",
+      "notes": "",
       "version": "MTX",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2008,
@@ -6680,9 +6744,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant",
+      "notes": "",
       "version": "MTX",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2008,
@@ -6693,9 +6757,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant",
+      "notes": "",
       "version": "MTX",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2008,
@@ -6706,9 +6770,9 @@ const ARTIST_DATA = {
       "state": "AK",
       "location": "Fairbanks, AK",
       "venue": "Blue Loon",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2008,
@@ -6719,9 +6783,9 @@ const ARTIST_DATA = {
       "state": "AK",
       "location": "Anchorage, AK",
       "venue": "Moose's Tooth Anniversary Party",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6731,10 +6795,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Grant Park - Lollapalooza",
+      "venue": "Grant Park",
+      "notes": "Lollapalooza",
       "version": "WEB",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6744,10 +6808,10 @@ const ARTIST_DATA = {
       "city": "Indianapolis",
       "state": "IN",
       "location": "Indianapolis, IN",
-      "venue": "White River State Park - Whitelies Lawn",
+      "venue": "White River State Park",
+      "notes": "Whitelies",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6757,10 +6821,10 @@ const ARTIST_DATA = {
       "city": "Indianapolis",
       "state": "IN",
       "location": "Indianapolis, IN",
-      "venue": "White River State Park - Whitelies Lawn",
+      "venue": "White River State Park",
+      "notes": "Whitelies",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6771,9 +6835,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Jacksonville, FL",
       "venue": "Florida Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6784,9 +6848,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Jacksonville, FL",
       "venue": "Florida Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6797,9 +6861,9 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "North Charleston, SC",
       "venue": "North Charleston Performing Arts Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6810,9 +6874,9 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "North Charleston, SC",
       "venue": "North Charleston Performing Arts Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6823,9 +6887,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Cary, NC",
       "venue": "Koka Booth Amphitheatre",
+      "notes": "",
       "version": "AUD",
-      "format": "4 sources",
-      "notes": ""
+      "format": "4 sources"
     },
     {
       "year": 2008,
@@ -6835,10 +6899,10 @@ const ARTIST_DATA = {
       "city": "Balimore",
       "state": "MD",
       "location": "Balimore, MD",
-      "venue": "Pimplico Field - North Stage",
+      "venue": "Pimplico Field",
+      "notes": "North",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6849,9 +6913,9 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Wilmington, DE",
       "venue": "Grand Opera House",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6862,9 +6926,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Lenox, MA",
       "venue": "Tanglewood",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6875,9 +6939,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "McCarren Park Pool",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6888,9 +6952,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "McCarren Park Pool",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6901,9 +6965,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Bend, OR",
       "venue": "Les Schwab Amphitheater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6913,10 +6977,10 @@ const ARTIST_DATA = {
       "city": "Mountain View",
       "state": "CA",
       "location": "Mountain View, CA",
-      "venue": "Shoreline Amphitheater - Bridge School Benefit",
+      "venue": "Shoreline Amphitheater",
+      "notes": "Bridge · All Sets",
       "version": "AUD",
-      "format": "",
-      "notes": "All Sets"
+      "format": ""
     },
     {
       "year": 2008,
@@ -6926,10 +6990,10 @@ const ARTIST_DATA = {
       "city": "Mountain View",
       "state": "CA",
       "location": "Mountain View, CA",
-      "venue": "Shoreline Amphitheater - Bridge School Benefit",
+      "venue": "Shoreline Amphitheater",
+      "notes": "Bridge · All Sets",
       "version": "AUD",
-      "format": "",
-      "notes": "All Sets"
+      "format": ""
     },
     {
       "year": 2008,
@@ -6940,9 +7004,9 @@ const ARTIST_DATA = {
       "state": "Nova Scotia",
       "location": "Halifax, Nova Scotia",
       "venue": "Halifax Metro Center",
+      "notes": "Custom mics > Edirol R-09 · scotianbill",
       "version": "AUD",
-      "format": "",
-      "notes": "Custom mics > Edirol R-09 · scotianbill"
+      "format": ""
     },
     {
       "year": 2008,
@@ -6953,9 +7017,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Air Canada Centre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -6966,9 +7030,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Air Canada Centre",
+      "notes": "CSC · burnboy",
       "version": "AUD",
-      "format": "",
-      "notes": "CSC · burnboy"
+      "format": ""
     },
     {
       "year": 2008,
@@ -6979,9 +7043,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Auditorium Theater",
+      "notes": "",
       "version": "MTX",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2008,
@@ -6992,9 +7056,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Auburn Hills, MI",
       "venue": "Palace of Auburn Hills",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -7005,9 +7069,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Auburn Hills, MI",
       "venue": "Palace of Auburn Hills",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -7018,9 +7082,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Spectrum",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -7031,9 +7095,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wachovia Spectrum",
+      "notes": "KM150s · flying gonz/nicky c production",
       "version": "AUD",
-      "format": "",
-      "notes": "KM150s · flying gonz/nicky c production"
+      "format": ""
     },
     {
       "year": 2008,
@@ -7044,9 +7108,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wachovia Spectrum",
+      "notes": "MK41s · tapeworm",
       "version": "AUD",
-      "format": "",
-      "notes": "MK41s · tapeworm"
+      "format": ""
     },
     {
       "year": 2008,
@@ -7057,9 +7121,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wachovia Spectrum",
+      "notes": "Schoeps MK41s · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps MK41s · unk"
+      "format": ""
     },
     {
       "year": 2008,
@@ -7070,9 +7134,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wachovia Spectrum",
+      "notes": "SBD + MK41 Matrix",
       "version": "MIX",
-      "format": "",
-      "notes": "SBD + MK41 Matrix"
+      "format": ""
     },
     {
       "year": 2008,
@@ -7083,9 +7147,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "DCU Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -7096,9 +7160,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Lyric Opera House",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -7109,9 +7173,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Lyric Opera House",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -7122,9 +7186,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -7135,9 +7199,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2008,
@@ -7148,9 +7212,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7161,9 +7225,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Bloomington, IN",
       "venue": "Indiana University Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2009,
@@ -7174,9 +7238,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Bloomington, IN",
       "venue": "IU Auditorium",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2009,
@@ -7187,9 +7251,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Tennessee Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2009,
@@ -7200,9 +7264,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Athens, GA",
       "venue": "Classic Center Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7213,9 +7277,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "Thomas Wolfe Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2009,
@@ -7226,9 +7290,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "Sloss Furnace",
+      "notes": "",
       "version": "AUD",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2009,
@@ -7239,9 +7303,9 @@ const ARTIST_DATA = {
       "state": "MS",
       "location": "Oxford, MS",
       "venue": "The Lyric",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7252,9 +7316,9 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Sevilla, Spain",
       "venue": "Festival Territorios",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7265,9 +7329,9 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "San Sebastian, Spain",
       "venue": "Kursaal",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7278,9 +7342,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Aronoff Center for the Arts",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7290,10 +7354,10 @@ const ARTIST_DATA = {
       "city": "Manchester",
       "state": "TN",
       "location": "Manchester, TN",
-      "venue": "Bonaroo - What Stage",
+      "venue": "Bonaroo",
+      "notes": "What",
       "version": "AUD",
-      "format": "4 sources",
-      "notes": ""
+      "format": "4 sources"
     },
     {
       "year": 2009,
@@ -7304,9 +7368,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tuscon, AZ",
       "venue": "University of Arizona",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2009,
@@ -7317,9 +7381,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "The Joint @ The Hard Rock",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2009,
@@ -7330,9 +7394,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Wiltern",
+      "notes": "DAT(M) · anonymous",
       "version": "SBD",
-      "format": "",
-      "notes": "M · anonymous"
+      "format": ""
     },
     {
       "year": 2009,
@@ -7343,9 +7407,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Wiltern",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7356,9 +7420,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Wiltern",
+      "notes": "DAT(M) · anonymous",
       "version": "SBD",
-      "format": "",
-      "notes": "M · anonymous"
+      "format": ""
     },
     {
       "year": 2009,
@@ -7369,9 +7433,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2009,
@@ -7382,9 +7446,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Lake Tahoe, NV",
       "venue": "Harvey's Outdoor Arena",
+      "notes": "Schoeps MK4 · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps MK4 · unk"
+      "format": ""
     },
     {
       "year": 2009,
@@ -7395,9 +7459,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Lake Tahoe, NV",
       "venue": "Harvey's Outdoor Arena",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2009,
@@ -7408,9 +7472,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "A-51TLs · jim mimna",
       "version": "AUD",
-      "format": "",
-      "notes": "A-51TLs · jim mimna"
+      "format": ""
     },
     {
       "year": 2009,
@@ -7421,9 +7485,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "Beyerdynamic MC930 · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "Beyerdynamic MC930 · unk"
+      "format": ""
     },
     {
       "year": 2009,
@@ -7434,9 +7498,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Wolf Trap",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7447,9 +7511,9 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Wilmington, DE",
       "venue": "Frawley Stadium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7460,9 +7524,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Lowell, MA",
       "venue": "LeLacheur Park",
+      "notes": "",
       "version": "AUD",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2009,
@@ -7473,9 +7537,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Keyspan Park",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2009,
@@ -7486,9 +7550,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Maine State Pier",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7499,9 +7563,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Wappinger Falls, NY",
       "venue": "Duchess Stadium",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2009,
@@ -7512,9 +7576,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Royal Oak, MI",
       "venue": "Royal Oak Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7525,9 +7589,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Royal Oak, MI",
       "venue": "Royal Oak Theatre",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2009,
@@ -7537,10 +7601,10 @@ const ARTIST_DATA = {
       "city": "Detroit Lakes",
       "state": "MI",
       "location": "Detroit Lakes, MI",
-      "venue": "Soo Pass Ranch - Main Stage",
+      "venue": "Soo Pass Ranch",
+      "notes": "Main",
       "version": "AUD",
-      "format": "5 sources",
-      "notes": ""
+      "format": "5 sources"
     },
     {
       "year": 2009,
@@ -7551,9 +7615,9 @@ const ARTIST_DATA = {
       "state": "Finland",
       "location": "Helsinki, Finland",
       "venue": "Huvila Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7564,9 +7628,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Troxy",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7577,9 +7641,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Vicar Street",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7590,9 +7654,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Vicar Street",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7603,9 +7667,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "Iowa Memorial Union Main Lounge",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7616,9 +7680,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Roy Wilkens Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7629,9 +7693,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "Verizon Wireless Amphitheater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7642,9 +7706,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Crossroads @ Grinders",
+      "notes": "",
       "version": "AUD",
-      "format": "4 sources",
-      "notes": ""
+      "format": "4 sources"
     },
     {
       "year": 2009,
@@ -7655,9 +7719,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "The Palladium Ballroom",
+      "notes": "",
       "version": "SBD",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2009,
@@ -7668,9 +7732,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Mershon Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7681,9 +7745,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Massey Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7694,9 +7758,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Massey Hall",
+      "notes": "Roland R-05 · burnboy",
       "version": "AUD",
-      "format": "",
-      "notes": "Roland R-05 · burnboy"
+      "format": ""
     },
     {
       "year": 2009,
@@ -7707,9 +7771,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Hill Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7720,9 +7784,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "U.I.C. Pavilion",
+      "notes": "",
       "version": "AUD",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2009,
@@ -7733,9 +7797,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "U.I.C. Pavilion",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2009,
@@ -7746,9 +7810,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Leeds, England",
       "venue": "02 Academy",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7759,9 +7823,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "HMV Forum",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7772,9 +7836,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Brussels, Belgium",
       "venue": "Ancienne Belgique",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7785,9 +7849,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Wangels, Germany",
       "venue": "Weiflenhauser Strand",
+      "notes": "screen54",
       "version": "AUD",
-      "format": "",
-      "notes": "screen54"
+      "format": ""
     },
     {
       "year": 2009,
@@ -7798,9 +7862,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Royal Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2009,
@@ -7811,9 +7875,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Volkshaus",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2009,
@@ -7824,9 +7888,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Florence, Italy",
       "venue": "Teatro della Pergola",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7837,9 +7901,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Conservatorio",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2009,
@@ -7850,9 +7914,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Paradiso",
+      "notes": "",
       "version": "FM",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2010,
@@ -7862,10 +7926,10 @@ const ARTIST_DATA = {
       "city": "Missoula",
       "state": "MT",
       "location": "Missoula, MT",
-      "venue": "Adams Center - University of Montana",
+      "venue": "Adams Center",
+      "notes": "University",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -7876,9 +7940,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Parmaount Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -7889,9 +7953,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Victoria, BC",
       "venue": "Royal Theatre",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2010,
@@ -7902,9 +7966,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Overture Center",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2010,
@@ -7915,9 +7979,9 @@ const ARTIST_DATA = {
       "state": "Nova Scotia",
       "location": "Halifax, Nova Scotia",
       "venue": "Halifax Forum",
+      "notes": "",
       "version": "MTX",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2010,
@@ -7928,9 +7992,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami Beach, FL",
       "venue": "Fillmore Miami",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -7941,9 +8005,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Clearwater, FL",
       "venue": "Ruth Eckerd Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2010,
@@ -7954,9 +8018,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Durham, NC",
       "venue": "Durham Performing Arts Center",
+      "notes": "",
       "version": "AUD",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2010,
@@ -7967,9 +8031,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Richmond, VA",
       "venue": "The National",
+      "notes": "",
       "version": "AUD",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2010,
@@ -7980,9 +8044,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Montclair, NJ",
       "venue": "Wellmont Theatre",
+      "notes": "Gefell M210s · jon pasternak",
       "version": "AUD",
-      "format": "",
-      "notes": "Gefell M210s · jon pasternak"
+      "format": ""
     },
     {
       "year": 2010,
@@ -7993,9 +8057,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Montclair, NJ",
       "venue": "Wellmont Theatre",
+      "notes": "inc · Sony ECM-719 · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "Sony ECM-719 · unk"
+      "format": ""
     },
     {
       "year": 2010,
@@ -8006,9 +8070,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Montclair, NJ",
       "venue": "Wellmont Theatre",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2010,
@@ -8019,9 +8083,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Montclair, NJ",
       "venue": "Wellmont Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8032,9 +8096,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Montclair, NJ",
       "venue": "Wellmont Theatre",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2010,
@@ -8045,9 +8109,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's Heartbreak Hotel",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2010,
@@ -8058,9 +8122,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8071,9 +8135,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
+      "notes": "eckythump remaster",
       "version": "AUD",
-      "format": "",
-      "notes": "eckythump remaster"
+      "format": ""
     },
     {
       "year": 2010,
@@ -8084,9 +8148,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Concord, NH",
       "venue": "Capitol Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8097,9 +8161,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Bushnell Memorial Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2010,
@@ -8110,9 +8174,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8123,9 +8187,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Carnegie Music Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8136,9 +8200,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Osaka, Japan",
       "venue": "Big Cat",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2010,
@@ -8149,9 +8213,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Zepp Tokyo",
+      "notes": "",
       "version": "AUD",
-      "format": "4 sources",
-      "notes": ""
+      "format": "4 sources"
     },
     {
       "year": 2010,
@@ -8162,9 +8226,9 @@ const ARTIST_DATA = {
       "state": "NZ",
       "location": "Wellington, NZ",
       "venue": "Town Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8175,9 +8239,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "State Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8188,9 +8252,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Factory Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2010,
@@ -8201,9 +8265,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Forum Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8214,9 +8278,9 @@ const ARTIST_DATA = {
       "state": "Finland",
       "location": "Helsinki, Finland",
       "venue": "Kulttuuritalo",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8227,9 +8291,9 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Cirkus",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8240,9 +8304,9 @@ const ARTIST_DATA = {
       "state": "Norway",
       "location": "Olso, Norway",
       "venue": "Sentrum Scene",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8253,9 +8317,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Aarhus, Denmark",
       "venue": "Musikhuset",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8265,10 +8329,10 @@ const ARTIST_DATA = {
       "city": "Barcelona",
       "state": "Spain",
       "location": "Barcelona, Spain",
-      "venue": "Primavera Sound Festival - San Miguel Stage",
+      "venue": "Primavera Sound Festival",
+      "notes": "San",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8279,9 +8343,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Rome, Italy",
       "venue": "Auditorium Parco della Musica",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8292,9 +8356,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Ferrara, Italy",
       "venue": "Teatro Comunale",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8305,9 +8369,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "South Bend, IN",
       "venue": "Covaleski Field",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8317,10 +8381,10 @@ const ARTIST_DATA = {
       "city": "North Adams",
       "state": "MA",
       "location": "North Adams, MA",
-      "venue": "MasMOCA - Solid Sound Festival",
+      "venue": "MasMOCA",
+      "notes": "Solid",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8331,9 +8395,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Belfast, Ireland",
       "venue": "Custom House Square",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8344,9 +8408,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Festival Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8357,9 +8421,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Dusseldorf, Germany",
       "venue": "Tonhalle",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8370,9 +8434,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Offenbach am Main, Germany",
       "venue": "Capitol",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -8383,9 +8447,9 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Vienna, Austria",
       "venue": "Gasometer",
+      "notes": "",
       "version": "MTX",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2010,
@@ -8396,9 +8460,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munchen, Germany",
       "venue": "Circus Krone Bau",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2010,
@@ -8409,9 +8473,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Circus Krone",
+      "notes": "",
       "version": "FM",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2010,
@@ -8422,9 +8486,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Admiralspalast Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2011,
@@ -8435,9 +8499,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Montgomery, AL",
       "venue": "Montgomery Performing Arts Centre",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2011,
@@ -8448,9 +8512,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Mobile, AL",
       "venue": "Saenger *Kind of Restless",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8461,9 +8525,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "New Orleans Jazz and Heritage Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2011,
@@ -8474,9 +8538,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Verizon Wireless Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2011,
@@ -8487,9 +8551,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Denton, TX",
       "venue": "University of North Texas Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2011,
@@ -8500,9 +8564,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Tulsa, OK",
       "venue": "Cain's Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8513,9 +8577,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Mass MoCA",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8526,9 +8590,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Mass MoCA",
+      "notes": "",
       "version": "AUD",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2011,
@@ -8536,12 +8600,12 @@ const ARTIST_DATA = {
       "day": 31,
       "dateStr": "7-31-2011",
       "city": "Naeba",
-      "state": "Nigata, Japan",
+      "state": "Nigata",
       "location": "Naeba, Nigata, Japan",
       "venue": "Naeba Ski Resort",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2011,
@@ -8552,9 +8616,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Wang Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8564,10 +8628,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Rumsey Playfield - Central Park",
+      "venue": "Rumsey Playfield",
+      "notes": "Central",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8578,9 +8642,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Columbia, MD",
       "venue": "Merriweather Post Pavilion",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8591,9 +8655,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Raleigh Amphitheater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8604,9 +8668,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Cobb Energy Performing Arts Centre",
+      "notes": "",
       "version": "AUD",
-      "format": "4 sources",
-      "notes": ""
+      "format": "4 sources"
     },
     {
       "year": 2011,
@@ -8617,9 +8681,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Cobb Energy Performing Arts Centre",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2011,
@@ -8630,9 +8694,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8643,9 +8707,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2011,
@@ -8656,9 +8720,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Peabody Opera House",
+      "notes": "",
       "version": "MTX",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8669,9 +8733,9 @@ const ARTIST_DATA = {
       "state": "Scotland",
       "location": "Glasgow, Scotland",
       "venue": "Glasgow Royal Concert Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2011,
@@ -8682,9 +8746,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Bristol, UK",
       "venue": "Colston Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8695,9 +8759,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The Roundhouse",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8708,9 +8772,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Basel, Switzerland",
       "venue": "Kaserne",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2011,
@@ -8721,9 +8785,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Basel, Switzerland",
       "venue": "Kaserne",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8734,9 +8798,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Circus Krone",
+      "notes": "",
       "version": "FM",
-      "format": "4 sources",
-      "notes": ""
+      "format": "4 sources"
     },
     {
       "year": 2011,
@@ -8746,10 +8810,10 @@ const ARTIST_DATA = {
       "city": "Wangels",
       "state": "Germany",
       "location": "Wangels, Germany",
-      "venue": "Ferienpark Weissenha?user Strand - Rolling Stone Weekender",
+      "venue": "Ferienpark Weissenhäuser Strand",
+      "notes": "Rolling",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8760,9 +8824,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Tempodrom",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8773,9 +8837,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Ultrecht, The Netherlands",
       "venue": "Vredenburg Leidsche Rijn",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8786,9 +8850,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Tilburg, The Netherlands",
       "venue": "013",
+      "notes": "",
       "version": "FM",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2011,
@@ -8799,9 +8863,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Music Hall at Fair Park",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8812,9 +8876,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Music Hall at Fair Park",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8825,9 +8889,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "The Moody Theater",
+      "notes": "",
       "version": "TV",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8838,9 +8902,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Moody Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8851,9 +8915,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Uptown Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8864,9 +8928,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Des Moines, IA",
       "venue": "Val Air Ballroom",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8877,9 +8941,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "State Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8890,9 +8954,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "State Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2011,
@@ -8903,9 +8967,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Riverside Theater",
+      "notes": "Edirol R09 · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "Edirol R09 · unk"
+      "format": ""
     },
     {
       "year": 2011,
@@ -8916,9 +8980,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Civic Opera House",
+      "notes": "Edirol R09 · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "Edirol R09 · unk"
+      "format": ""
     },
     {
       "year": 2011,
@@ -8929,9 +8993,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theater",
+      "notes": "CA-14 · brian emerick",
       "version": "AUD",
-      "format": "",
-      "notes": "CA-14 · brian emerick"
+      "format": ""
     },
     {
       "year": 2011,
@@ -8942,9 +9006,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theater",
+      "notes": "Earthworks SR77s · gerald eaglebarger",
       "version": "AUD",
-      "format": "",
-      "notes": "Earthworks SR77s · gerald eaglebarger"
+      "format": ""
     },
     {
       "year": 2011,
@@ -8955,9 +9019,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Vic",
+      "notes": "Neumann AK50 · rob o'brien",
       "version": "AUD",
-      "format": "",
-      "notes": "Neumann AK50 · rob o'brien"
+      "format": ""
     },
     {
       "year": 2011,
@@ -8968,9 +9032,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Vic",
+      "notes": "AKG 483 · jeff frank",
       "version": "AUD",
-      "format": "",
-      "notes": "AKG 483 · jeff frank"
+      "format": ""
     },
     {
       "year": 2011,
@@ -8981,9 +9045,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Vic",
+      "notes": "Earthworks SR77 · gerald eaglebarger",
       "version": "AUD",
-      "format": "",
-      "notes": "Earthworks SR77 · gerald eaglebarger"
+      "format": ""
     },
     {
       "year": 2011,
@@ -8994,9 +9058,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
+      "notes": "Zoom H1 · joshua sarner",
       "version": "AUD",
-      "format": "",
-      "notes": "Zoom H1 · joshua sarner"
+      "format": ""
     },
     {
       "year": 2011,
@@ -9007,9 +9071,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lincoln Hall",
+      "notes": "Schoeps MK41s · darktrain",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps MK41s · darktrain"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9020,9 +9084,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Fillmore Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9033,9 +9097,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tempe, AZ",
       "venue": "Grady Gammage Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9046,9 +9110,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tempe, AZ",
       "venue": "Grady Gammage Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9059,9 +9123,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tempe, AZ",
       "venue": "Grady Gammage Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9072,9 +9136,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Palladium",
+      "notes": "DAT(M) · anonymous",
       "version": "SBD",
-      "format": "",
-      "notes": "M · anonymous"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9085,9 +9149,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Wiltern Theatre",
+      "notes": "Telefunken EL 260s · todd hudiluk · pat myers mastering",
       "version": "AUD",
-      "format": "",
-      "notes": "todd hudiluk · pat myers mastering"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9097,10 +9161,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "The Wiltern - DAT SBD + Telefunken ELA 260s",
+      "venue": "The Wiltern",
+      "notes": "DAT(M) · anonymous & todd hudiluk",
       "version": "MIX",
-      "format": "",
-      "notes": "M · anonymous & todd hudiluk"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9111,9 +9175,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Los Angeles Theatre",
+      "notes": "DAT(M) · anonymous",
       "version": "SBD",
-      "format": "",
-      "notes": "M · anonymous"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9124,9 +9188,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Warfield Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2012,
@@ -9137,9 +9201,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9150,9 +9214,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Eugene, OR",
       "venue": "Hult Center",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2012,
@@ -9163,9 +9227,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Orpheum Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2012,
@@ -9176,9 +9240,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Paramount Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9189,9 +9253,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Eugene, OR",
       "venue": "Hult Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9202,9 +9266,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Barbara, CA",
       "venue": "Arlington Theatre",
+      "notes": "DAT(M) · anonymous",
       "version": "SBD",
-      "format": "",
-      "notes": "M · anonymous"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9215,9 +9279,9 @@ const ARTIST_DATA = {
       "state": "Norway",
       "location": "Oslo, Norway",
       "venue": "Sentrum Scene",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9228,9 +9292,9 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Annexet",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9241,9 +9305,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Falconer Salen",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9254,9 +9318,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Groningen, The Netherlands",
       "venue": "De Oosterpoort",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9267,9 +9331,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Bruxelles, Belgium",
       "venue": "Ancienne Belgique",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9280,9 +9344,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Le Grand Rex",
+      "notes": "",
       "version": "AUD",
-      "format": "3 sources",
-      "notes": ""
+      "format": "3 sources"
     },
     {
       "year": 2012,
@@ -9293,9 +9357,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Volkshaus",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2012,
@@ -9306,9 +9370,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Alcatraz",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9319,9 +9383,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Bologna, Italy",
       "venue": "Estragon",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9332,9 +9396,9 @@ const ARTIST_DATA = {
       "state": "Croatia",
       "location": "Zagreb, Croatia",
       "venue": "Zagrebaeki Velesajam",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9345,9 +9409,9 @@ const ARTIST_DATA = {
       "state": "AR",
       "location": "Fayetteville, AR",
       "venue": "Arkansas Music Pavilion",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9358,9 +9422,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami Beach, FL",
       "venue": "Jackie Gleason Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9371,9 +9435,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Forbidden Fruit Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2012,
@@ -9384,9 +9448,9 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Porto, Portugal",
       "venue": "Optimus Primavera Sound",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9397,9 +9461,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "KBCO Studio C Radio",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9410,9 +9474,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9423,9 +9487,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "Neumann AK40 · phil rollins",
       "version": "AUD",
-      "format": "",
-      "notes": "Neumann AK40 · phil rollins"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9436,9 +9500,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "BSC2-K1 · j.r. ley",
       "version": "AUD",
-      "format": "",
-      "notes": "BSC2-K1 · j.r. ley"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9449,9 +9513,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "Roadcase 001",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 001"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9462,9 +9526,9 @@ const ARTIST_DATA = {
       "state": "MT",
       "location": "Missoula, MT",
       "venue": "Big Sky Brewing Amphitheater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9475,9 +9539,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Duluth, MN",
       "venue": "Bayfront Festival Park",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9488,9 +9552,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Davenport, IA",
       "venue": "Adler Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9501,9 +9565,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Davenport, IA",
       "venue": "Adler Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9514,9 +9578,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Sioux City, IA",
       "venue": "Grandview Park",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9527,48 +9591,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Sioux City, IA",
       "venue": "Grandview Park",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
-    },
-    {
-      "year": 2012,
-      "month": 7,
-      "day": 8,
-      "dateStr": "7-8-2012",
-      "city": "Geneva",
-      "state": "IL",
-      "location": "Geneva, IL",
-      "venue": "Fifth Third Ballpark - Elfstrom Stadium",
-      "version": "AUD",
-      "format": "",
-      "notes": "Earthworks S77s · gerald eaglebarger"
-    },
-    {
-      "year": 2012,
-      "month": 7,
-      "day": 8,
-      "dateStr": "7-8-2012",
-      "city": "Geneva",
-      "state": "IL",
-      "location": "Geneva, IL",
-      "venue": "Fifth Third Ballpark - Elfstrom Stadium",
-      "version": "AUD",
-      "format": "",
-      "notes": "AKG 481 · jeff frank"
-    },
-    {
-      "year": 2012,
-      "month": 7,
-      "day": 8,
-      "dateStr": "7-8-2012",
-      "city": "Geneva",
-      "state": "IL",
-      "location": "Geneva, IL",
-      "venue": "Fifth Third Ballpark - Elfstrom Stadium",
-      "version": "FM",
-      "format": "",
-      "notes": "WXRT"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9579,9 +9604,48 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Geneva, IL",
       "venue": "Fifth Third Ballpark",
+      "notes": "Elfstrom · Earthworks S77s · gerald eaglebarger",
+      "version": "AUD",
+      "format": ""
+    },
+    {
+      "year": 2012,
+      "month": 7,
+      "day": 8,
+      "dateStr": "7-8-2012",
+      "city": "Geneva",
+      "state": "IL",
+      "location": "Geneva, IL",
+      "venue": "Fifth Third Ballpark",
+      "notes": "Elfstrom · AKG 481 · jeff frank",
+      "version": "AUD",
+      "format": ""
+    },
+    {
+      "year": 2012,
+      "month": 7,
+      "day": 8,
+      "dateStr": "7-8-2012",
+      "city": "Geneva",
+      "state": "IL",
+      "location": "Geneva, IL",
+      "venue": "Fifth Third Ballpark",
+      "notes": "Elfstrom · WXRT",
+      "version": "FM",
+      "format": ""
+    },
+    {
+      "year": 2012,
+      "month": 7,
+      "day": 8,
+      "dateStr": "7-8-2012",
+      "city": "Geneva",
+      "state": "IL",
+      "location": "Geneva, IL",
+      "venue": "Fifth Third Ballpark",
+      "notes": "Roadcase 002",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 002"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9591,10 +9655,10 @@ const ARTIST_DATA = {
       "city": "Louisville",
       "state": "KY",
       "location": "Louisville, KY",
-      "venue": "Waterfront Park - Forecastle Festival",
+      "venue": "Waterfront Park",
+      "notes": "Forecastle",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9605,9 +9669,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Filene Center at Wolf Trap",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2012,
@@ -9618,9 +9682,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Filene Center at Wolf Trap",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9631,9 +9695,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Live from Wolf Trap",
+      "notes": "Roadcase 010",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 010"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9644,9 +9708,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Charlottesville, VA",
       "venue": "Charlottesville Pavilion",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2012,
@@ -9657,9 +9721,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Prospect Park",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9670,9 +9734,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Prospect Park",
+      "notes": "Roadcase 003",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 003"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9683,9 +9747,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Prospect Park",
+      "notes": "Roadcase 004",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 004"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9696,9 +9760,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Terminal 5",
+      "notes": "Roadcase 005",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 005"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9709,9 +9773,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Terminal 5",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9721,10 +9785,10 @@ const ARTIST_DATA = {
       "city": "Newport",
       "state": "RI",
       "location": "Newport, RI",
-      "venue": "Newport Folk Festival - Fort Adams State Park",
+      "venue": "Newport Folk Festival",
+      "notes": "Fort",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9735,9 +9799,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Cooperstown, NY",
       "venue": "Ommegang Brewery",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9748,9 +9812,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Cooperstown, NY",
       "venue": "Ommegang Brewery",
+      "notes": "Roadcase 006",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 006"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9761,9 +9825,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Essex Junction, VT",
       "venue": "Champlain Valley Expo",
+      "notes": "Roadcase 007",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 007"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9774,9 +9838,9 @@ const ARTIST_DATA = {
       "state": "MA - Hunter Center at MoCA",
       "location": "North Adams, MA - Hunter Center at MoCA",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2012,
@@ -9787,9 +9851,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Bushnell Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2012,
@@ -9800,9 +9864,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Highland Bowl",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9813,9 +9877,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Highland Bowl",
+      "notes": "Roadcase 008",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 008"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9826,9 +9890,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "LC Pavilion",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9839,9 +9903,9 @@ const ARTIST_DATA = {
       "state": "Luxembourg",
       "location": "Luxembourg, Luxembourg",
       "venue": "Den Atelier",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9852,9 +9916,9 @@ const ARTIST_DATA = {
       "state": "Luxembourg",
       "location": "Luxembourg, Luxembourg",
       "venue": "Den Atelier",
+      "notes": "Roadcase 011",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 011"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9865,9 +9929,9 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "St. Pilten, Austria",
       "venue": "Frequency Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9878,9 +9942,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Biddinghuizen, The Netherlands",
       "venue": "Lowlands Festival",
+      "notes": "",
       "version": "TV",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9891,9 +9955,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Hideout Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2012,
@@ -9904,9 +9968,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "The Blue Note",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9917,9 +9981,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "The Blue Note",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9930,9 +9994,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Columbia, MO",
       "venue": "Ninth Street",
+      "notes": "Roadcase 009",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 009"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9943,9 +10007,9 @@ const ARTIST_DATA = {
       "state": "NM",
       "location": "Santa Fe, NM",
       "venue": "Santa Fe Opera House",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9956,9 +10020,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tucson, AZ",
       "venue": "Tucson Convention Center Music Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9969,9 +10033,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tucson, AZ",
       "venue": "Tucson Convention Center Music Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -9982,9 +10046,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tucson, AZ",
       "venue": "Tucson Music Hall",
+      "notes": "Roadcase 017",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 017"
+      "format": ""
     },
     {
       "year": 2012,
@@ -9995,9 +10059,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -10008,9 +10072,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theatre",
+      "notes": "Roadcase 012",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 012"
+      "format": ""
     },
     {
       "year": 2012,
@@ -10021,9 +10085,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -10034,9 +10098,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theater",
+      "notes": "Roadcase 013",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 013"
+      "format": ""
     },
     {
       "year": 2012,
@@ -10047,9 +10111,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Reno, NV",
       "venue": "Grand Sierra Theatre",
+      "notes": "Roadcase 014",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 014"
+      "format": ""
     },
     {
       "year": 2012,
@@ -10060,9 +10124,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Jacksonville, OR",
       "venue": "Britt Pavilion",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -10073,9 +10137,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Luis Obispo, CA",
       "venue": "Avila Beach Resort",
+      "notes": "Roadcase 016",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 016"
+      "format": ""
     },
     {
       "year": 2012,
@@ -10086,9 +10150,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Hollywood Bowl",
+      "notes": "SP-CMC-25 · robert mullen",
       "version": "AUD",
-      "format": "",
-      "notes": "SP-CMC-25 · robert mullen"
+      "format": ""
     },
     {
       "year": 2012,
@@ -10099,9 +10163,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Hollywood Bowl",
+      "notes": "CA-14 · blg",
       "version": "AUD",
-      "format": "",
-      "notes": "CA-14 · blg"
+      "format": ""
     },
     {
       "year": 2012,
@@ -10112,9 +10176,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Hollywood Bowl",
+      "notes": "CA-14 · blg upgrade",
       "version": "AUD",
-      "format": "",
-      "notes": "CA-14 · blg upgrade"
+      "format": ""
     },
     {
       "year": 2012,
@@ -10125,9 +10189,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Padova, Italy",
       "venue": "Teatro Geox",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -10138,9 +10202,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Turin, Italy",
       "venue": "Teatro della Concordia di Venaria",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2012,
@@ -10151,9 +10215,9 @@ const ARTIST_DATA = {
       "state": "ES",
       "location": "Barcelona, ES",
       "venue": "Gran Teatre del Liceu",
+      "notes": "Roadcase 015",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 015"
+      "format": ""
     },
     {
       "year": 2012,
@@ -10164,9 +10228,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Theaterhaus",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2013,
@@ -10177,9 +10241,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Hamer Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2013,
@@ -10189,10 +10253,10 @@ const ARTIST_DATA = {
       "city": "New South Wales",
       "state": "Australia",
       "location": "New South Wales, Australia",
-      "venue": "Tyagara Tea Tree Farm - Byron Bay Bluesfest",
+      "venue": "Tyagara Tea Tree Farm",
+      "notes": "Byron",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2013,
@@ -10203,9 +10267,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "NSW, Australia",
       "venue": "Byron Bay Bluesfest",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10216,9 +10280,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Sydney Opera House",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10228,10 +10292,10 @@ const ARTIST_DATA = {
       "city": "Sydney",
       "state": "Australia",
       "location": "Sydney, Australia",
-      "venue": "Concert Hall - Sydney Opera House",
+      "venue": "Concert Hall",
+      "notes": "Sydney",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10242,9 +10306,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Opera House",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2013,
@@ -10255,9 +10319,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Osaka, Japan",
       "venue": "Namba Hatch",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10268,9 +10332,9 @@ const ARTIST_DATA = {
       "state": "JP",
       "location": "Osaka, JP",
       "venue": "Hatch",
+      "notes": "Roadcase 020",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 020"
+      "format": ""
     },
     {
       "year": 2013,
@@ -10281,9 +10345,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Zepp Diver City",
+      "notes": "AKG C 568 · 1046",
       "version": "AUD",
-      "format": "",
-      "notes": "AKG C 568 · 1046"
+      "format": ""
     },
     {
       "year": 2013,
@@ -10294,9 +10358,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Zepp Diver City",
+      "notes": "DPA 4023 · gaku taniguchi",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4023 · gaku taniguchi"
+      "format": ""
     },
     {
       "year": 2013,
@@ -10307,9 +10371,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Zepp Diver City",
+      "notes": "Gefell M200 · koji",
       "version": "AUD",
-      "format": "",
-      "notes": "Gefell M200 · koji"
+      "format": ""
     },
     {
       "year": 2013,
@@ -10320,9 +10384,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Zepp Diver City",
+      "notes": "MBHO 604/KA200 · oira",
       "version": "AUD",
-      "format": "",
-      "notes": "MBHO 604/KA200 · oira"
+      "format": ""
     },
     {
       "year": 2013,
@@ -10333,9 +10397,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Zepp Diver City",
+      "notes": "Rode NT-2 · yutaka enomoto",
       "version": "AUD",
-      "format": "",
-      "notes": "Rode NT-2 · yutaka enomoto"
+      "format": ""
     },
     {
       "year": 2013,
@@ -10346,9 +10410,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Zepp Diver City",
+      "notes": "Rode NT-4 · watanabe satoshi",
       "version": "AUD",
-      "format": "",
-      "notes": "Rode NT-4 · watanabe satoshi"
+      "format": ""
     },
     {
       "year": 2013,
@@ -10359,9 +10423,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Zepp Diver City",
+      "notes": "Roadcase 021",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 021"
+      "format": ""
     },
     {
       "year": 2013,
@@ -10372,9 +10436,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Shibuya AX",
+      "notes": "AKG C 568 · 1046",
       "version": "AUD",
-      "format": "",
-      "notes": "AKG C 568 · 1046"
+      "format": ""
     },
     {
       "year": 2013,
@@ -10385,9 +10449,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Shibuya AX",
+      "notes": "MBHO 604/KA200 · oira",
       "version": "AUD",
-      "format": "",
-      "notes": "MBHO 604/KA200 · oira"
+      "format": ""
     },
     {
       "year": 2013,
@@ -10398,9 +10462,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Shibuya AX",
+      "notes": "Rode NT-2 · yutaka enomoto",
       "version": "AUD",
-      "format": "",
-      "notes": "Rode NT-2 · yutaka enomoto"
+      "format": ""
     },
     {
       "year": 2013,
@@ -10411,9 +10475,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Shibuya AX",
+      "notes": "Roadcase 022",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 022"
+      "format": ""
     },
     {
       "year": 2013,
@@ -10424,9 +10488,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Manchester, TN",
       "venue": "Bonnaroo Music and Arts Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10436,10 +10500,10 @@ const ARTIST_DATA = {
       "city": "North Adams",
       "state": "MA",
       "location": "North Adams, MA",
-      "venue": "Joe's Field - Solid Sound Festival",
+      "venue": "Joe's Field",
+      "notes": "Solid",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10449,10 +10513,10 @@ const ARTIST_DATA = {
       "city": "North Adams",
       "state": "MA",
       "location": "North Adams, MA",
-      "venue": "Joe's Field - Solid Sound Festival",
+      "venue": "Joe's Field",
+      "notes": "Solid",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10463,9 +10527,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "MASS MoCA",
+      "notes": "Roadcase 018",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 018"
+      "format": ""
     },
     {
       "year": 2013,
@@ -10475,10 +10539,10 @@ const ARTIST_DATA = {
       "city": "North Adams",
       "state": "MA",
       "location": "North Adams, MA",
-      "venue": "Joe's Field - Solid Sound Festival",
+      "venue": "Joe's Field",
+      "notes": "Solid",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10489,9 +10553,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "MASS MoCA",
+      "notes": "Roadcase 019",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 019"
+      "format": ""
     },
     {
       "year": 2013,
@@ -10502,9 +10566,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "West Palm Beach, FL",
       "venue": "Cruzan Amphitheatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10515,9 +10579,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Aaron's Amphitheater at Lakewood",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10527,10 +10591,10 @@ const ARTIST_DATA = {
       "city": "Nashville",
       "state": "TN",
       "location": "Nashville, TN",
-      "venue": "AmericanaramA Festival of Music - Riverfront Park",
+      "venue": "AmericanaramA Festival of Music",
+      "notes": "Riverfront",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10541,9 +10605,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Tuscaloosa, AL",
       "venue": "Tuscaloosa Amphitheater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10554,9 +10618,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Klipsch Music Center",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2013,
@@ -10567,9 +10631,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Riverbend Music Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10580,9 +10644,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Midway Stadium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10593,9 +10657,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Darien Lake, NY",
       "venue": "Performing Arts Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10606,9 +10670,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Bridgeport, CT",
       "venue": "Webster Bank Arena",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2013,
@@ -10619,9 +10683,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Comcast Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10632,9 +10696,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga, NY",
       "venue": "Saratoga PAC",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2013,
@@ -10645,9 +10709,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Columbia, MD",
       "venue": "Merriweather Post Pavilion",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10658,9 +10722,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Pier A Park",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10671,9 +10735,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Wantagh, NY",
       "venue": "Jones Beach Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10684,9 +10748,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Camden, NJ",
       "venue": "WXPN Music Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10697,9 +10761,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Verizon Wireless Amphitheatre",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2013,
@@ -10710,9 +10774,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10722,10 +10786,10 @@ const ARTIST_DATA = {
       "city": "St. Louis",
       "state": "MO",
       "location": "St. Louis, MO",
-      "venue": "Forest Park - Loufest",
+      "venue": "Forest Park",
+      "notes": "Loufest",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10736,9 +10800,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's Waller Creek Amphitheater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2013,
@@ -10749,9 +10813,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's Waller Creek Amphitheater",
+      "notes": "Roadcase 023",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 023"
+      "format": ""
     },
     {
       "year": 2013,
@@ -10762,9 +10826,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits",
+      "notes": "",
       "version": "Webcast",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2014,
@@ -10775,9 +10839,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Masonica Temple",
+      "notes": "Roadcase 033",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 033"
+      "format": ""
     },
     {
       "year": 2014,
@@ -10788,9 +10852,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "LC Pavilion",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2014,
@@ -10801,9 +10865,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Akron, OH",
       "venue": "Akron Civic Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2014,
@@ -10814,9 +10878,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Arrington, VA",
       "venue": "Lockin' Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "4 sources",
-      "notes": ""
+      "format": "4 sources"
     },
     {
       "year": 2014,
@@ -10827,9 +10891,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Arrington, VA",
       "venue": "Lockin' Festival",
+      "notes": "",
       "version": "MTX",
-      "format": "6 sources",
-      "notes": ""
+      "format": "6 sources"
     },
     {
       "year": 2014,
@@ -10840,9 +10904,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Tennessee Theatre",
+      "notes": "Roadcase 036",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 036"
+      "format": ""
     },
     {
       "year": 2014,
@@ -10853,9 +10917,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "NC Museum of Art",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2014,
@@ -10866,9 +10930,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "The Capitol Theatre",
+      "notes": "Busman BSC2/K11 · mkdevo",
       "version": "AUD",
-      "format": "",
-      "notes": "Busman BSC2/K11 · mkdevo"
+      "format": ""
     },
     {
       "year": 2014,
@@ -10879,9 +10943,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "The Capitol Theatre",
+      "notes": "DPA 4023 · george wang",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4023 · george wang"
+      "format": ""
     },
     {
       "year": 2014,
@@ -10892,9 +10956,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "The Capitol Theatre",
+      "notes": "Gefell M210s · jon pasternak",
       "version": "AUD",
-      "format": "",
-      "notes": "Gefell M210s · jon pasternak"
+      "format": ""
     },
     {
       "year": 2014,
@@ -10905,9 +10969,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "The Capitol Theatre",
+      "notes": "Roadcase 037",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 037"
+      "format": ""
     },
     {
       "year": 2014,
@@ -10918,9 +10982,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "The Capitol Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2014,
@@ -10931,9 +10995,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "The Capitol Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2014,
@@ -10944,9 +11008,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "Capitol Theatre",
+      "notes": "Roadcase 038",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 038"
+      "format": ""
     },
     {
       "year": 2014,
@@ -10957,9 +11021,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "The Capitol Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2014,
@@ -10970,9 +11034,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "Capitol Theatre",
+      "notes": "Roadcase 039",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 039"
+      "format": ""
     },
     {
       "year": 2014,
@@ -10983,9 +11047,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2014,
@@ -10996,9 +11060,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "Roadcase 040",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 040"
+      "format": ""
     },
     {
       "year": 2014,
@@ -11009,9 +11073,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2014,
@@ -11022,9 +11086,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "Roadcase 041",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 041"
+      "format": ""
     },
     {
       "year": 2014,
@@ -11035,9 +11099,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2014,
@@ -11048,9 +11112,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2014,
@@ -11061,9 +11125,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "Roadcase 042",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 042"
+      "format": ""
     },
     {
       "year": 2014,
@@ -11074,9 +11138,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "Roadcase 043",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 043"
+      "format": ""
     },
     {
       "year": 2014,
@@ -11087,9 +11151,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "Roadcase 044",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 044"
+      "format": ""
     },
     {
       "year": 2014,
@@ -11100,9 +11164,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2014,
@@ -11113,9 +11177,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "Roadcase 045",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 045"
+      "format": ""
     },
     {
       "year": 2015,
@@ -11126,9 +11190,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "McFarlin Memorial Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11139,9 +11203,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Bayou Music Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11152,9 +11216,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Jazz and Heritage Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11165,9 +11229,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tallahassee, FL",
       "venue": "Capital City Amphitheater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11178,9 +11242,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "St. Augustine, FL",
       "venue": "St. Augustine Amphitheatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11191,9 +11255,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11204,9 +11268,9 @@ const ARTIST_DATA = {
       "state": "IN /- Murat Theatre (Roadcase 046)",
       "location": "Indianapolis, IN /- Murat Theatre (Roadcase 046)",
       "venue": "",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11217,9 +11281,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Iroquiois Amphitheater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11229,10 +11293,10 @@ const ARTIST_DATA = {
       "city": "North Adams",
       "state": "MA",
       "location": "North Adams, MA",
-      "venue": "MassMoCA - Solid Sound Festival",
+      "venue": "MassMoCA",
+      "notes": "Solid",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11242,10 +11306,10 @@ const ARTIST_DATA = {
       "city": "North Adams",
       "state": "MA",
       "location": "North Adams, MA",
-      "venue": "MassMoCA - Solid Sound Festival",
+      "venue": "MassMoCA",
+      "notes": "Solid",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11256,9 +11320,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Solid Sound Festival",
+      "notes": "Roadcase 047",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 047"
+      "format": ""
     },
     {
       "year": 2015,
@@ -11268,10 +11332,10 @@ const ARTIST_DATA = {
       "city": "North Adams",
       "state": "MA",
       "location": "North Adams, MA",
-      "venue": "MassMoCA - Solid Sound Festival",
+      "venue": "MassMoCA",
+      "notes": "Solid",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11282,9 +11346,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Solid Sound Festival",
+      "notes": "Roadcase 048",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 048"
+      "format": ""
     },
     {
       "year": 2015,
@@ -11295,9 +11359,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Scottsdale, AZ",
       "venue": "Salt River Fields",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11308,9 +11372,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11321,9 +11385,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Crossroads",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11334,9 +11398,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Union Park",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11346,10 +11410,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Union Park - Pitchfork Music Festival",
+      "venue": "Union Park",
+      "notes": "Pitchfork",
       "version": "Webcast",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11359,10 +11423,10 @@ const ARTIST_DATA = {
       "city": "Bridgeport",
       "state": "CT",
       "location": "Bridgeport, CT",
-      "venue": "Gathering of the Vibes - Seaside Park",
+      "venue": "Gathering of the Vibes",
+      "notes": "Seaside",
       "version": "AUD",
-      "format": "6 sources",
-      "notes": ""
+      "format": "6 sources"
     },
     {
       "year": 2015,
@@ -11373,9 +11437,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Greek Theatre",
+      "notes": "DPA 4060s · mh",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4060s · mh"
+      "format": ""
     },
     {
       "year": 2015,
@@ -11386,9 +11450,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Independent",
+      "notes": "",
       "version": "AUD #1",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11399,9 +11463,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Independent",
+      "notes": "",
       "version": "AUD #2",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11412,9 +11476,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Independent",
+      "notes": "Notorious Wilco Brothers · Roadcase 049",
       "version": "SBD",
-      "format": "",
-      "notes": "Notorious Wilco Brothers · Roadcase 049"
+      "format": ""
     },
     {
       "year": 2015,
@@ -11424,10 +11488,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "Outside Lands Music Festival - Lands End Stage",
+      "venue": "Outside Lands Music Festival",
+      "notes": "Lands",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11437,10 +11501,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "Outside Lands Music Festival - Lands End Stage",
+      "venue": "Outside Lands Music Festival",
+      "notes": "Lands",
       "version": "Webcast",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11451,9 +11515,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Redmond, WA",
       "venue": "Marymoor Park",
+      "notes": "Roadcase 050",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 050"
+      "format": ""
     },
     {
       "year": 2015,
@@ -11464,9 +11528,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "The Orpheum Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11477,9 +11541,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Ithaca, NY",
       "venue": "State Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11490,9 +11554,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Bloomington, IN",
       "venue": "IU Auditorium",
+      "notes": "Roadcase 051",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 051"
+      "format": ""
     },
     {
       "year": 2015,
@@ -11503,9 +11567,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Bloomington, IN",
       "venue": "IU Auditorium",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2015,
@@ -11516,9 +11580,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's BBQ",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11529,9 +11593,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's BBQ",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -11542,9 +11606,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's BBQ",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11555,9 +11619,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Burlington, VT",
       "venue": "Flynn Center for the Performing Arts",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11568,9 +11632,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Burlington, VT",
       "venue": "Flynn Center for the Performing Arts",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11581,9 +11645,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11594,9 +11658,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Orpheum Theatre",
+      "notes": "Roadcase 052",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 052"
+      "format": ""
     },
     {
       "year": 2016,
@@ -11607,9 +11671,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11620,9 +11684,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Orpheum Theatre",
+      "notes": "Roadcase 053",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 053"
+      "format": ""
     },
     {
       "year": 2016,
@@ -11633,9 +11697,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "College Street Music Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11646,9 +11710,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "The Capitol Theatre",
+      "notes": "Newmann KM184 · john bosco",
       "version": "AUD",
-      "format": "",
-      "notes": "Newmann KM184 · john bosco"
+      "format": ""
     },
     {
       "year": 2016,
@@ -11659,9 +11723,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "The Capitol Theatre",
+      "notes": "Gefell M210s · jon pasternak",
       "version": "AUD",
-      "format": "",
-      "notes": "Gefell M210s · jon pasternak"
+      "format": ""
     },
     {
       "year": 2016,
@@ -11672,9 +11736,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "The Capitol Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11684,10 +11748,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Ed Sullivan Theater - Late Show with Stephen Colbert",
+      "venue": "Ed Sullivan Theater",
+      "notes": "Late",
       "version": "TV",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11698,9 +11762,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "King's Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11711,9 +11775,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Kings Theatre",
+      "notes": "Roadcase 054",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 054"
+      "format": ""
     },
     {
       "year": 2016,
@@ -11724,9 +11788,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Kings Theatre",
+      "notes": "Roadcase 055",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 055"
+      "format": ""
     },
     {
       "year": 2016,
@@ -11737,9 +11801,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "D.A.R. Constitution Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11750,9 +11814,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Tabernacle",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11763,9 +11827,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Tabernacle",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11776,9 +11840,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Roanoke, VA",
       "venue": "Berglund Performing Arts Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2016,
@@ -11789,9 +11853,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Hunter, NY",
       "venue": "Mountain Jam",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11802,9 +11866,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Hilvarenbeek, The Netherlands",
       "venue": "Best Kept Secret Festival",
+      "notes": "",
       "version": "PRO",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11815,9 +11879,9 @@ const ARTIST_DATA = {
       "state": "ESP",
       "location": "Vilanova i la Geltru, ESP",
       "venue": "Masia d'en Cabanyes Vida Festival",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2016,
@@ -11828,9 +11892,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Ferrara, Italy",
       "venue": "Piazza Castello",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11841,9 +11905,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Iveagh Gardens",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2016,
@@ -11853,10 +11917,10 @@ const ARTIST_DATA = {
       "city": "Nigata",
       "state": "Japan",
       "location": "Nigata, Japan",
-      "venue": "Naeba Ski Resort - Green Stage",
+      "venue": "Naeba Ski Resort",
+      "notes": "Green",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11867,9 +11931,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Crossroads",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11880,9 +11944,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Fox Theatre",
+      "notes": "Tascam DR-07 · shane e. calhoon",
       "version": "AUD",
-      "format": "",
-      "notes": "Tascam DR-07 · shane e. calhoon"
+      "format": ""
     },
     {
       "year": 2016,
@@ -11893,9 +11957,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Breese Stephens Field",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11906,9 +11970,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Hall's Island",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11919,9 +11983,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Jay Pritzker Pavilion Millenium Park",
+      "notes": "Schoeps CCM4s · blg mastering",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps CCM4s · blg mastering"
+      "format": ""
     },
     {
       "year": 2016,
@@ -11932,9 +11996,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -11945,9 +12009,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theatre",
+      "notes": "Roadcase 056",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 056"
+      "format": ""
     },
     {
       "year": 2016,
@@ -11958,9 +12022,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theater",
+      "notes": "with Joan Shelley",
       "version": "AUD",
-      "format": "",
-      "notes": "with Joan Shelley"
+      "format": ""
     },
     {
       "year": 2016,
@@ -11971,9 +12035,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theatre",
+      "notes": "Roadcase 057",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 057"
+      "format": ""
     },
     {
       "year": 2016,
@@ -11984,9 +12048,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "Schoeps CCM4s · blg mastering",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps CCM4s · blg mastering"
+      "format": ""
     },
     {
       "year": 2016,
@@ -11997,9 +12061,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -12010,9 +12074,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "Schoeps CCM4s · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps CCM4s · unk"
+      "format": ""
     },
     {
       "year": 2016,
@@ -12023,9 +12087,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -12036,9 +12100,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "Schoeps CCM4s · blg mastering",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps CCM4s · blg mastering"
+      "format": ""
     },
     {
       "year": 2016,
@@ -12049,9 +12113,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Theatre at Ace Hotel",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -12062,9 +12126,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Theatre at Ace Hotel",
+      "notes": "Roadcase 058",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 058"
+      "format": ""
     },
     {
       "year": 2016,
@@ -12075,9 +12139,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Theatre at Ace Hotel",
+      "notes": "Roadcase 059",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 059"
+      "format": ""
     },
     {
       "year": 2016,
@@ -12088,9 +12152,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Theatre at Ace Hotel",
+      "notes": "Roadcase 060",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 060"
+      "format": ""
     },
     {
       "year": 2016,
@@ -12101,9 +12165,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mill Valley, CA",
       "venue": "Mountain Theatre",
+      "notes": "Schoeps CCM4s · blg mastering",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps CCM4s · blg mastering"
+      "format": ""
     },
     {
       "year": 2016,
@@ -12114,9 +12178,9 @@ const ARTIST_DATA = {
       "state": "Brazil",
       "location": "Rio de Janeiro, Brazil",
       "venue": "Circo Voador 2016",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -12127,9 +12191,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Dusseldorf, Germany",
       "venue": "Congress Center Dusseldorf",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -12139,10 +12203,10 @@ const ARTIST_DATA = {
       "city": "Stuttgart",
       "state": "Germany",
       "location": "Stuttgart, Germany",
-      "venue": "Liederhalle - Beethovensaal",
+      "venue": "Liederhalle",
+      "notes": "Beethovensaal",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -12153,9 +12217,9 @@ const ARTIST_DATA = {
       "state": "Norway",
       "location": "Oslo, Norway",
       "venue": "Sentrum Scene",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -12166,9 +12230,9 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "Utrecht, NL",
       "venue": "TivoliVredenburg",
+      "notes": "Roadcase 061",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 061"
+      "format": ""
     },
     {
       "year": 2016,
@@ -12179,9 +12243,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Fabrique",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -12192,9 +12256,9 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Vienna, Austria",
       "venue": "Museums Quartier Halle E",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -12205,9 +12269,9 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Vienna, Austria",
       "venue": "Museums Quartier Halle E",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2016,
@@ -12218,9 +12282,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Volkshaus",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12231,9 +12295,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12244,9 +12308,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theatre",
+      "notes": "Roadcase 062",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 062"
+      "format": ""
     },
     {
       "year": 2017,
@@ -12257,9 +12321,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theatre",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12270,9 +12334,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Chicago Theatre",
+      "notes": "Roadcase 063",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 063"
+      "format": ""
     },
     {
       "year": 2017,
@@ -12283,9 +12347,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12296,9 +12360,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12309,9 +12373,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12322,9 +12386,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12335,9 +12399,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12348,9 +12412,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Stage AE",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2017,
@@ -12361,9 +12425,9 @@ const ARTIST_DATA = {
       "state": "VA - Wolf Trap",
       "location": "Vienna, VA - Wolf Trap",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12374,9 +12438,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rockford, IL",
       "venue": "Coronado Performing Arts Center",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12387,9 +12451,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Riverside Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12400,9 +12464,9 @@ const ARTIST_DATA = {
       "state": "MA - Mass MoCA - Joe's Field",
       "location": "North Adams, MA - Mass MoCA - Joe's Field",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12413,9 +12477,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Solid Sound Festival",
+      "notes": "Roadcase 064",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 064"
+      "format": ""
     },
     {
       "year": 2017,
@@ -12426,9 +12490,9 @@ const ARTIST_DATA = {
       "state": "MA - Mass MoCA - Joe's Field",
       "location": "North Adams, MA - Mass MoCA - Joe's Field",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12439,9 +12503,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Solid Sound Festival",
+      "notes": "Roadcase 065",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 065"
+      "format": ""
     },
     {
       "year": 2017,
@@ -12452,9 +12516,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Camden, NJ",
       "venue": "BB&T Pavilion",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12465,9 +12529,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Newport Folk Festival",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12477,10 +12541,10 @@ const ARTIST_DATA = {
       "city": "Denver",
       "state": "CO",
       "location": "Denver, CO",
-      "venue": "River North Neighborhood - Velorama Music Festival",
+      "venue": "River North Neighborhood",
+      "notes": "Velorama",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12490,10 +12554,10 @@ const ARTIST_DATA = {
       "city": "Irving",
       "state": "TX",
       "location": "Irving, TX",
-      "venue": "Toyota Music Factory - The Pavilion",
+      "venue": "Toyota Music Factory",
+      "notes": "The",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12504,9 +12568,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Fox Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12516,10 +12580,10 @@ const ARTIST_DATA = {
       "city": "Ashevilee",
       "state": "NC",
       "location": "Ashevilee, NC",
-      "venue": "Thomas Wolfe Auditorium - US Cellular Center",
+      "venue": "Thomas Wolfe Auditorium",
+      "notes": "US",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12529,10 +12593,10 @@ const ARTIST_DATA = {
       "city": "Ashevilee",
       "state": "NC",
       "location": "Ashevilee, NC",
-      "venue": "Thomas Wolfe Auditorium - US Cellular Center",
+      "venue": "Thomas Wolfe Auditorium",
+      "notes": "US",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12543,9 +12607,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2017,
@@ -12556,9 +12620,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Saint Paul, MN",
       "venue": "Palace Theatre",
+      "notes": "Roadcase 067",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 067"
+      "format": ""
     },
     {
       "year": 2017,
@@ -12569,9 +12633,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Saint Paul, MN",
       "venue": "Palace Theatre",
+      "notes": "Roadcase 068",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 068"
+      "format": ""
     },
     {
       "year": 2017,
@@ -12582,9 +12646,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Saint Paul, MN",
       "venue": "Palace Theatre",
+      "notes": "Roadcase 069",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 069"
+      "format": ""
     },
     {
       "year": 2019,
@@ -12595,9 +12659,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Bijou Theatre",
+      "notes": "Nugs.net",
       "version": "SBD",
-      "format": "",
-      "notes": "Nugs.net"
+      "format": ""
     },
     {
       "year": 2019,
@@ -12608,9 +12672,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Bijou Theatre",
+      "notes": "Roadcase 075",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 075"
+      "format": ""
     },
     {
       "year": 2019,
@@ -12621,9 +12685,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Brussels, Belgium",
       "venue": "Ancienne Belgique",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12634,9 +12698,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Brussels, Belgium",
       "venue": "Ancienne Belgique",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12647,9 +12711,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Paradiso",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12659,10 +12723,10 @@ const ARTIST_DATA = {
       "city": "North Adams",
       "state": "MA",
       "location": "North Adams, MA",
-      "venue": "Mass MoCA - Solid Sound Festival",
+      "venue": "Mass MoCA",
+      "notes": "Solid",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12673,9 +12737,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Solid Sound Festival",
+      "notes": "Roadcase 076",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 076"
+      "format": ""
     },
     {
       "year": 2019,
@@ -12685,10 +12749,10 @@ const ARTIST_DATA = {
       "city": "North Adams",
       "state": "MA",
       "location": "North Adams, MA",
-      "venue": "Mass MoCA - Solid Sound Festival",
+      "venue": "Mass MoCA",
+      "notes": "Solid",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12699,9 +12763,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Solid Sound Festival",
+      "notes": "Roadcase 077",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 077"
+      "format": ""
     },
     {
       "year": 2019,
@@ -12712,9 +12776,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Solid Sound Festival",
+      "notes": "Roadcase 078",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 078"
+      "format": ""
     },
     {
       "year": 2019,
@@ -12725,9 +12789,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Bridgeport, CT",
       "venue": "Webster Bank Arena",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12738,9 +12802,9 @@ const ARTIST_DATA = {
       "state": "Norway",
       "location": "Trondheim, Norway",
       "venue": "Tapperiet Scene",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12751,9 +12815,9 @@ const ARTIST_DATA = {
       "state": "Norway",
       "location": "Oslo, Norway",
       "venue": "Sentrum Scene",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12764,9 +12828,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Den Gra Hal",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12777,9 +12841,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Koln, Germany",
       "venue": "Carlswerk Victoria",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12789,10 +12853,10 @@ const ARTIST_DATA = {
       "city": "Hamburg",
       "state": "Germany",
       "location": "Hamburg, Germany",
-      "venue": "Elbphilharmonie - Grober Saal",
+      "venue": "Elbphilharmonie",
+      "notes": "Grober",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12803,9 +12867,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Volkshaus",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12816,9 +12880,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Fabrique",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12829,9 +12893,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Padove, Italy",
       "venue": "Gran Teatro Geox",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12842,9 +12906,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Le Trianon",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12855,9 +12919,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Eventim Apollo",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12868,9 +12932,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Budweiser Stage",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2019,
@@ -12880,10 +12944,10 @@ const ARTIST_DATA = {
       "city": "Toronto",
       "state": "ON",
       "location": "Toronto, ON",
-      "venue": "Budweiser Stage  Rec 1",
+      "venue": "Budweiser Stage (CSB) (burnboy) Rec 1",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · burnboy"
+      "format": ""
     },
     {
       "year": 2019,
@@ -12893,10 +12957,10 @@ const ARTIST_DATA = {
       "city": "Toronto",
       "state": "ON",
       "location": "Toronto, ON",
-      "venue": "Budweiser Stage  Rec 2",
+      "venue": "Budweiser Stage (SP-CMC-8) (burnboy) Rec 2",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": "SP-CMC-8 · burnboy"
+      "format": ""
     },
     {
       "year": 2019,
@@ -12907,9 +12971,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Wang Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12920,9 +12984,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12933,9 +12997,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Brooklyn Bowl",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12946,9 +13010,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brooklyn NY",
       "venue": "Brooklyn Steel",
+      "notes": "Roadcase 079",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 079"
+      "format": ""
     },
     {
       "year": 2019,
@@ -12959,9 +13023,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Irving, TX",
       "venue": "The Pavilion at Toyota Music Factory",
+      "notes": "AT829s",
       "version": "AUD",
-      "format": "",
-      "notes": "AT829s"
+      "format": ""
     },
     {
       "year": 2019,
@@ -12972,9 +13036,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Irving, TX",
       "venue": "The Pavilion at Toyota Music Factory",
+      "notes": "DPA 4061 · v4tx",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4061 · v4tx"
+      "format": ""
     },
     {
       "year": 2019,
@@ -12985,9 +13049,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Moody Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -12998,9 +13062,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Fox Theatre",
+      "notes": "SP-CMC-1 · shane e. calhoon",
       "version": "AUD",
-      "format": "",
-      "notes": "SP-CMC-1 · shane e. calhoon"
+      "format": ""
     },
     {
       "year": 2019,
@@ -13011,9 +13075,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Fox Theatre",
+      "notes": "Roadcase 080",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 080"
+      "format": ""
     },
     {
       "year": 2019,
@@ -13024,9 +13088,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Arvest Bank Theatre at Midland",
+      "notes": "Roadcase 081",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 081"
+      "format": ""
     },
     {
       "year": 2019,
@@ -13037,9 +13101,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Denver CO",
       "venue": "Mission Ballroom",
+      "notes": "Roadcase 082",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 082"
+      "format": ""
     },
     {
       "year": 2019,
@@ -13050,9 +13114,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Saint Paul, MN",
       "venue": "Palace Theatre",
+      "notes": "Roadcase 083",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 083"
+      "format": ""
     },
     {
       "year": 2019,
@@ -13063,9 +13127,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Saint Paul, MN",
       "venue": "Palace Theatre",
+      "notes": "Roadcase 084",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 084"
+      "format": ""
     },
     {
       "year": 2019,
@@ -13076,9 +13140,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Saint Paul, MN",
       "venue": "Palace Theatre",
+      "notes": "Roadcase 085",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 085"
+      "format": ""
     },
     {
       "year": 2019,
@@ -13089,9 +13153,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theater",
+      "notes": "DPA 4060 · pieteker",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4060 · pieteker"
+      "format": ""
     },
     {
       "year": 2019,
@@ -13101,10 +13165,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Chicago Athletic Association - Stagg Court",
+      "venue": "Chicago Athletic Association",
+      "notes": "Stagg",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -13115,9 +13179,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -13128,9 +13192,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theater",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -13141,9 +13205,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theatre",
+      "notes": "Roadcase 086",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 086"
+      "format": ""
     },
     {
       "year": 2020,
@@ -13154,9 +13218,9 @@ const ARTIST_DATA = {
       "state": "Mexico",
       "location": "Riviera Maya, Mexico",
       "venue": "Hard Rock Hotel",
+      "notes": "Night 1",
       "version": "AUD",
-      "format": "",
-      "notes": "Night 1"
+      "format": ""
     },
     {
       "year": 2020,
@@ -13167,9 +13231,9 @@ const ARTIST_DATA = {
       "state": "Mexico",
       "location": "Riviera Maya, Mexico",
       "venue": "Hard Rock Hotel",
+      "notes": "Night 2",
       "version": "AUD",
-      "format": "",
-      "notes": "Night 2"
+      "format": ""
     },
     {
       "year": 2020,
@@ -13180,9 +13244,9 @@ const ARTIST_DATA = {
       "state": "MEX",
       "location": "Riviera Maya, MEX",
       "venue": "Sky Blue Sky Festival",
+      "notes": "Roadcase 088",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 088"
+      "format": ""
     },
     {
       "year": 2020,
@@ -13193,9 +13257,9 @@ const ARTIST_DATA = {
       "state": "Mexico",
       "location": "Riviera Maya, Mexico",
       "venue": "Hard Rock Hotel",
+      "notes": "Night 4",
       "version": "AUD",
-      "format": "",
-      "notes": "Night 4"
+      "format": ""
     },
     {
       "year": 2020,
@@ -13206,9 +13270,9 @@ const ARTIST_DATA = {
       "state": "Mexico",
       "location": "Riviera Maya, Mexico",
       "venue": "Sky Blue Sky Festival",
+      "notes": "Roadcase 089",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 089"
+      "format": ""
     },
     {
       "year": 2020,
@@ -13219,9 +13283,9 @@ const ARTIST_DATA = {
       "state": "MB",
       "location": "Winnipeg, MB",
       "venue": "Centennial Concert Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2020,
@@ -13232,9 +13296,9 @@ const ARTIST_DATA = {
       "state": "MB",
       "location": "Winnipeg, MB",
       "venue": "Centennial Concert Hall",
+      "notes": "Roadcase 090",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 090"
+      "format": ""
     },
     {
       "year": 2021,
@@ -13245,9 +13309,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Spokane, WA",
       "venue": "First Interstate Center",
+      "notes": "DPA MMA-A · nick71",
       "version": "AUD (48k)",
-      "format": "",
-      "notes": "DPA MMA-A · nick71"
+      "format": ""
     },
     {
       "year": 2021,
@@ -13257,10 +13321,10 @@ const ARTIST_DATA = {
       "city": "Kansas City",
       "state": "MO",
       "location": "Kansas City, MO",
-      "venue": "Grinders - Backstage Performance",
+      "venue": "Grinders",
+      "notes": "Backstage · unk",
       "version": "AUD (48k)",
-      "format": "",
-      "notes": "unk"
+      "format": ""
     },
     {
       "year": 2021,
@@ -13271,9 +13335,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "Saint Louis Music Park",
+      "notes": "Sony PCM-A10 · shane e. calhoon",
       "version": "AUD",
-      "format": "",
-      "notes": "Sony PCM-A10 · shane e. calhoon"
+      "format": ""
     },
     {
       "year": 2021,
@@ -13284,9 +13348,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Cadence Bank Amphitheatre at Chastain Park",
+      "notes": "DPA 4061 · mardon",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4061 · mardon"
+      "format": ""
     },
     {
       "year": 2021,
@@ -13297,9 +13361,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2021,
@@ -13310,9 +13374,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Thompson's Point",
+      "notes": "Schoeps MK4V · jim kelly",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps MK4V · jim kelly"
+      "format": ""
     },
     {
       "year": 2021,
@@ -13323,9 +13387,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Bloomington, IL",
       "venue": "State Theater",
+      "notes": "CA-11 · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "CA-11 · unk"
+      "format": ""
     },
     {
       "year": 2021,
@@ -13336,9 +13400,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Paramount Theatre",
+      "notes": "Roadcase 091",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 091"
+      "format": ""
     },
     {
       "year": 2021,
@@ -13349,9 +13413,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Paramount Theatre",
+      "notes": "Roadcase 092",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 092"
+      "format": ""
     },
     {
       "year": 2021,
@@ -13362,9 +13426,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Napa, CA",
       "venue": "Oxbow RiverStage",
+      "notes": "CA-11 · ron covall",
       "version": "AUD",
-      "format": "",
-      "notes": "CA-11 · ron covall"
+      "format": ""
     },
     {
       "year": 2021,
@@ -13375,9 +13439,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "San Jose Civic Center",
+      "notes": "CA-11 · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "CA-11 · unk"
+      "format": ""
     },
     {
       "year": 2021,
@@ -13388,9 +13452,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theatre",
+      "notes": "Schoeps CCM4 · unk",
       "version": "AUD (48k)",
-      "format": "",
-      "notes": "Schoeps CCM4 · unk"
+      "format": ""
     },
     {
       "year": 2021,
@@ -13401,9 +13465,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theatre",
+      "notes": "CA-11 · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "CA-11 · unk"
+      "format": ""
     },
     {
       "year": 2021,
@@ -13414,9 +13478,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theatre",
+      "notes": "Schoeps CCM4 · unk",
       "version": "AUD (48k)",
-      "format": "",
-      "notes": "Schoeps CCM4 · unk"
+      "format": ""
     },
     {
       "year": 2021,
@@ -13427,9 +13491,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Orpheum Theatre",
+      "notes": "Schoeps MK41s · ed davis",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps MK41s · ed davis"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13440,9 +13504,9 @@ const ARTIST_DATA = {
       "state": "MEX",
       "location": "Riviera Maya, MEX",
       "venue": "Hard Rock Hotel",
+      "notes": "Roadcase 093",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 093"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13453,9 +13517,9 @@ const ARTIST_DATA = {
       "state": "MEX",
       "location": "Riviera Maya, MEX",
       "venue": "Hard Rock Hotel",
+      "notes": "Roadcase 094",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 094"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13466,9 +13530,9 @@ const ARTIST_DATA = {
       "state": "MEX",
       "location": "Riviera Maya, MEX",
       "venue": "Hard Rock Hotel",
+      "notes": "Roadcase 095",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 095"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13479,9 +13543,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theater",
+      "notes": "CA-11s · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "CA-11s · unk"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13492,9 +13556,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theater",
+      "notes": "CA-11s · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "CA-11s · unk"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13505,9 +13569,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Joe's Field MASS MoCa",
+      "notes": "CA-11 · manofstealth",
       "version": "AUD",
-      "format": "",
-      "notes": "CA-11 · manofstealth"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13518,9 +13582,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "MASS MoCA",
+      "notes": "Schoeps MK4V + CA-11 · jim kelly + manofstealth",
       "version": "MIX",
-      "format": "",
-      "notes": "Schoeps MK4V + CA-11 · jim kelly + manofstealth"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13531,9 +13595,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Solid Sound Festival",
+      "notes": "Roadcase 096",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 096"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13543,10 +13607,10 @@ const ARTIST_DATA = {
       "city": "North Adams",
       "state": "MA",
       "location": "North Adams, MA",
-      "venue": "MASS MoCA - Joe's Field",
+      "venue": "MASS MoCA",
+      "notes": "Joe's · Schoeps MK4V · jim kelly",
       "version": "AUD",
-      "format": "",
-      "notes": "Schoeps MK4V · jim kelly"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13557,9 +13621,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Solid Sound Festival",
+      "notes": "Roadcase 097",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 097"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13570,9 +13634,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Solid Sound Festival",
+      "notes": "Roadcase 098",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 098"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13583,9 +13647,9 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "San Sebastian, Spain",
       "venue": "Auditorio Kursaal",
+      "notes": "unk · unaesfingelunar",
       "version": "AUD",
-      "format": "",
-      "notes": "unk · unaesfingelunar"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13595,10 +13659,10 @@ const ARTIST_DATA = {
       "city": "Toronto",
       "state": "ON",
       "location": "Toronto, ON",
-      "venue": "Budweiser Stage  Rec 1",
+      "venue": "Budweiser Stage (CSB) (burnboy) Rec 1",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · burnboy"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13608,10 +13672,10 @@ const ARTIST_DATA = {
       "city": "Toronto",
       "state": "ON",
       "location": "Toronto, ON",
-      "venue": "Budweiser Stage  Rec 2",
+      "venue": "Budweiser Stage (SP-CMC-8) (burnboy) Rec 2",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": "SP-CMC-8 · burnboy"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13622,9 +13686,9 @@ const ARTIST_DATA = {
       "state": "CT - Westville Music Bowl (Roadcase 099)",
       "location": "New Haven, CT - Westville Music Bowl (Roadcase 099)",
       "venue": "",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2022,
@@ -13635,9 +13699,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Vineyard Haven, MA",
       "venue": "Beach Road Festival",
+      "notes": "AT853 · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "AT853 · unk"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13648,9 +13712,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks",
+      "notes": "Roadcase 100",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 100"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13661,9 +13725,9 @@ const ARTIST_DATA = {
       "state": "NM",
       "location": "Santa Fe, NM",
       "venue": "Santa Fe Opera House",
+      "notes": "CSBs · royboy",
       "version": "AUD",
-      "format": "",
-      "notes": "CSBs · royboy"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13674,9 +13738,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Queen Elizabeth Theatre",
+      "notes": "iPhone · chris lawrence",
       "version": "AUD",
-      "format": "",
-      "notes": "iPhone · chris lawrence"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13687,9 +13751,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Civic Theater,",
+      "notes": "Nugs.net",
       "version": "SBD",
-      "format": "",
-      "notes": "Nugs.net"
+      "format": ""
     },
     {
       "year": 2022,
@@ -13700,9 +13764,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Civic Theater,",
+      "notes": "Nugs.net",
       "version": "SBD",
-      "format": "",
-      "notes": "Nugs.net"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13713,9 +13777,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "DPA 4060 · ademotte",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4060 · ademotte"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13726,9 +13790,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
+      "notes": "DPA 4060 · ademotte",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4060 · ademotte"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13739,9 +13803,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "Capitol Theatre",
+      "notes": "Shure MV88 · kp",
       "version": "AUD",
-      "format": "",
-      "notes": "Shure MV88 · kp"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13752,9 +13816,9 @@ const ARTIST_DATA = {
       "state": "Iceland",
       "location": "Reykjavik, Iceland",
       "venue": "Eldborg Hall",
+      "notes": "CSB · oecourt",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · oecourt"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13764,10 +13828,10 @@ const ARTIST_DATA = {
       "city": "Reykjavik",
       "state": "Iceland",
       "location": "Reykjavik, Iceland",
-      "venue": "Eldborg Hall - Harpa",
+      "venue": "Eldborg Hall",
+      "notes": "Harpa · Concert Shure MV88+Sennheiser Ambeo-Smart · km",
       "version": "MIX",
-      "format": "",
-      "notes": "Concert Shure MV88+Sennheiser Ambeo-Smart · km"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13777,10 +13841,10 @@ const ARTIST_DATA = {
       "city": "Reykjavik",
       "state": "Iceland",
       "location": "Reykjavik, Iceland",
-      "venue": "Eldborg Hall - Harpa",
+      "venue": "Eldborg Hall",
+      "notes": "Harpa",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2023,
@@ -13791,9 +13855,9 @@ const ARTIST_DATA = {
       "state": "Iceland",
       "location": "Reykjavik, Iceland",
       "venue": "Eldborg Hall",
+      "notes": "CSB · oecourt",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · oecourt"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13803,10 +13867,10 @@ const ARTIST_DATA = {
       "city": "Reykjavik",
       "state": "Iceland",
       "location": "Reykjavik, Iceland",
-      "venue": "Eldborg Hall - Harpa Concert Shure MV88+Sennheiser Ambeo-Smart)",
+      "venue": "Eldborg Hall",
+      "notes": "Harpa · km",
       "version": "MIX",
-      "format": "",
-      "notes": "km"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13817,9 +13881,9 @@ const ARTIST_DATA = {
       "state": "Sveitarfelagio Olfus",
       "location": "Efstaland, Sveitarfelagio Olfus",
       "venue": "Island",
+      "notes": "Shure MV88+Sennheiser Ambeo-Smart Headset · km",
       "version": "AUD",
-      "format": "",
-      "notes": "Shure MV88+Sennheiser Ambeo-Smart Headset · km"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13830,9 +13894,9 @@ const ARTIST_DATA = {
       "state": "Iceland",
       "location": "Reykjavik, Iceland",
       "venue": "Eldborg Hall",
+      "notes": "CSB · oecourt",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · oecourt"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13842,10 +13906,10 @@ const ARTIST_DATA = {
       "city": "Reykjavik",
       "state": "Iceland",
       "location": "Reykjavik, Iceland",
-      "venue": "Eldborg Hall - Harpa Concert Shure MV88+Sennheiser Ambeo-Smart)",
+      "venue": "Eldborg Hall",
+      "notes": "Harpa · km",
       "version": "MIX",
-      "format": "",
-      "notes": "km"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13856,9 +13920,9 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Paredes de Coura, Portugal",
       "venue": "Festival Paredes de Coura",
+      "notes": "circle",
       "version": "FM",
-      "format": "",
-      "notes": "circle"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13869,9 +13933,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Ramonville-Saint-Agne, France",
       "venue": "Le Bikini",
+      "notes": "CSB · oecourt",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · oecourt"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13882,9 +13946,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "San Mauro Pascoli, Italy",
       "venue": "Acieloaperto Festival",
+      "notes": "CSB · oecourt",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · oecourt"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13895,9 +13959,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Torino, Italy",
       "venue": "sPAZIO 211",
+      "notes": "CSB · oecourt",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · oecourt"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13908,9 +13972,9 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "TivoliVredenburg, NL",
       "venue": "Utrecht",
+      "notes": "Soundman OKM II · everybodys-trading.org",
       "version": "AUD",
-      "format": "",
-      "notes": "Soundman OKM II · everybodys-trading.org"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13921,9 +13985,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Utrecht, The Netherlands",
       "venue": "TivoliVredenburg Ronda",
+      "notes": "CSB · oecourt",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · oecourt"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13934,9 +13998,9 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "TivoliVredenburg, NL",
       "venue": "Utrecht",
+      "notes": "Edirol R-09HR · everybodys-trading.org",
       "version": "AUD",
-      "format": "",
-      "notes": "Edirol R-09HR · everybodys-trading.org"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13947,9 +14011,9 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "TivoliVredenburg, NL",
       "venue": "Utrecht",
+      "notes": "Soundman OKM II · everybodys-trading.org",
       "version": "AUD",
-      "format": "",
-      "notes": "Soundman OKM II · everybodys-trading.org"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13960,9 +14024,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Utrecht, The Netherlands",
       "venue": "TivoliVredenburg Ronda",
+      "notes": "CSB · oecourt",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · oecourt"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13973,9 +14037,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Kentish Town, England",
       "venue": "O2 Forum",
+      "notes": "Nokia Lumia 930 · kiwichrisha",
       "version": "AUD",
-      "format": "",
-      "notes": "Nokia Lumia 930 · kiwichrisha"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13986,9 +14050,9 @@ const ARTIST_DATA = {
       "state": "Scotland",
       "location": "Edinburgh, Scotland",
       "venue": "Usher Hall",
+      "notes": "CA11s · pennyghael",
       "version": "AUD",
-      "format": "",
-      "notes": "CA11s · pennyghael"
+      "format": ""
     },
     {
       "year": 2023,
@@ -13999,9 +14063,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "Moseley Folk Festival",
+      "notes": "Sennheisser AMBEO · thriftynomad",
       "version": "AUD",
-      "format": "",
-      "notes": "Sennheisser AMBEO · thriftynomad"
+      "format": ""
     },
     {
       "year": 2023,
@@ -14012,9 +14076,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Theatre at Ace Hotel",
+      "notes": "DPA 4060 · ademotte",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4060 · ademotte"
+      "format": ""
     },
     {
       "year": 2023,
@@ -14025,9 +14089,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeeley, CA",
       "venue": "Greek Theater",
+      "notes": "CA-14s · vortexzephyr",
       "version": "AUD",
-      "format": "",
-      "notes": "CA-14s · vortexzephyr"
+      "format": ""
     },
     {
       "year": 2023,
@@ -14038,9 +14102,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theatre",
+      "notes": "Nokia Lumia 930 · eckythump",
       "version": "AUD",
-      "format": "",
-      "notes": "Nokia Lumia 930 · eckythump"
+      "format": ""
     },
     {
       "year": 2023,
@@ -14051,9 +14115,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theatre",
+      "notes": "Roadcase 101",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 101"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14064,9 +14128,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Brisbane, AUS",
       "venue": "The Princess Theater",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14077,9 +14141,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Canberra, Australia",
       "venue": "Canberra Theatre",
+      "notes": "Nokia Lumia 930 · eckythump",
       "version": "AUD",
-      "format": "",
-      "notes": "Nokia Lumia 930 · eckythump"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14090,9 +14154,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Forum Melbourne",
+      "notes": "Nokia Lumia 930 · eckythump",
       "version": "AUD",
-      "format": "",
-      "notes": "Nokia Lumia 930 · eckythump"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14103,9 +14167,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Forum Melbourne",
+      "notes": "Nokia Lumia 930 · eckythump",
       "version": "AUD",
-      "format": "",
-      "notes": "Nokia Lumia 930 · eckythump"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14116,9 +14180,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Forum Melbourne",
+      "notes": "Nokia Lumia 930 · eckythump",
       "version": "SBD",
-      "format": "",
-      "notes": "Nokia Lumia 930 · eckythump"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14128,10 +14192,10 @@ const ARTIST_DATA = {
       "city": "Sydney",
       "state": "Australia",
       "location": "Sydney, Australia",
-      "venue": "Concert Hall - Sydney Opera House",
+      "venue": "Concert Hall",
+      "notes": "Sydney · Nokia Lumia 930 · eckythump",
       "version": "AUD",
-      "format": "",
-      "notes": "Nokia Lumia 930 · eckythump"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14142,9 +14206,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Enmore Theatre",
+      "notes": "Nokia Lumia 930 · eckythump",
       "version": "AUD",
-      "format": "",
-      "notes": "Nokia Lumia 930 · eckythump"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14155,9 +14219,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Fairgrounds at the Salt Shed",
+      "notes": "DPA 4060 · ademotte",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4060 · ademotte"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14168,9 +14232,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Fairgrounds at the Salt Shed",
+      "notes": "DPA 4060 · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4060 · unk"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14181,9 +14245,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Fairgrounds at the Salt Shed",
+      "notes": "DPA 4060 · ademotte",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4060 · ademotte"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14194,9 +14258,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Fairgrounds at the Salt Shed",
+      "notes": "DPA 4060 · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4060 · unk"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14207,9 +14271,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Filene Center at Wolf Trap",
+      "notes": "Sony PCM-A10 · bzl.",
       "version": "AUD",
-      "format": "",
-      "notes": "Sony PCM-A10 · bzl."
+      "format": ""
     },
     {
       "year": 2024,
@@ -14220,9 +14284,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Solid Sound Festival",
+      "notes": "Roadcase 102",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 102"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14233,9 +14297,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Solid Sound Festival",
+      "notes": "Roadcase 103",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 103"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14246,9 +14310,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Joe's Field MASS MoCA",
+      "notes": "Schoeps MK4V + SP-BMC-12 · jim kelly + manofstealth",
       "version": "MIX",
-      "format": "",
-      "notes": "Schoeps MK4V + SP-BMC-12 · jim kelly + manofstealth"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14259,9 +14323,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Massey Hall",
+      "notes": "CSBs · Rec 1 · burnboy",
       "version": "AUD",
-      "format": "",
-      "notes": "Rec 1 · burnboy"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14272,9 +14336,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Massey Hall",
+      "notes": "SP-CMC-8s · Rec 2 · burnboy",
       "version": "AUD",
-      "format": "",
-      "notes": "Rec 2 · burnboy"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14285,9 +14349,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Massey Hall",
+      "notes": "CSBs · Rec 1 · burnboy",
       "version": "AUD",
-      "format": "",
-      "notes": "Rec 1 · burnboy"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14298,9 +14362,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Massey Hall",
+      "notes": "SP-CMC-8s · Rec 2 · burnboy",
       "version": "AUD",
-      "format": "",
-      "notes": "Rec 2 · burnboy"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14311,9 +14375,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits",
+      "notes": "Roadcase 105",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 105"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14323,10 +14387,10 @@ const ARTIST_DATA = {
       "city": "Austin",
       "state": "TX",
       "location": "Austin, TX",
-      "venue": "Austin City Limits - Moody Theatre",
+      "venue": "Austin City Limits",
+      "notes": "Moody · SP-CMC-8 · fried_morals",
       "version": "AUD",
-      "format": "",
-      "notes": "SP-CMC-8 · fried_morals"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14337,9 +14401,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits",
+      "notes": "Roadcase 106",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 106"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14350,9 +14414,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits",
+      "notes": "Roadcase 107",
       "version": "SBD",
-      "format": "",
-      "notes": "Roadcase 107"
+      "format": ""
     },
     {
       "year": 2024,
@@ -14362,10 +14426,10 @@ const ARTIST_DATA = {
       "city": "Austin",
       "state": "TX",
       "location": "Austin, TX",
-      "venue": "Austin City Limits - Moody Theatre",
+      "venue": "Austin City Limits",
+      "notes": "Moody · SP-CMC-8 · fried_morals",
       "version": "AUD",
-      "format": "",
-      "notes": "SP-CMC-8 · fried_morals"
+      "format": ""
     },
     {
       "year": 2025,
@@ -14376,9 +14440,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami Beach, FL",
       "venue": "Fillmore",
+      "notes": "unk · pixlpiner34",
       "version": "AUD",
-      "format": "",
-      "notes": "unk · pixlpiner34"
+      "format": ""
     },
     {
       "year": 2025,
@@ -14389,9 +14453,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "BJCC Concert Hall",
+      "notes": "FOH Series",
       "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
+      "format": ""
     },
     {
       "year": 2025,
@@ -14402,9 +14466,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Antwerpen, Belgium",
       "venue": "OLT Rivierenhof",
+      "notes": "CSB · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · unk"
+      "format": ""
     },
     {
       "year": 2025,
@@ -14415,9 +14479,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Antwerpen, Belgium",
       "venue": "OLT Rivierenhof",
+      "notes": "CSB · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · unk"
+      "format": ""
     },
     {
       "year": 2025,
@@ -14428,9 +14492,9 @@ const ARTIST_DATA = {
       "state": "Bayern",
       "location": "Dachau, Bayern",
       "venue": "Rathausplatz",
+      "notes": "CSB · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "CSB · unk"
+      "format": ""
     },
     {
       "year": 2025,
@@ -14441,9 +14505,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Dachau, Germany",
       "venue": "Rathausplatz",
+      "notes": "Digital Broadcast",
       "version": "FM",
-      "format": "",
-      "notes": "Digital Broadcast"
+      "format": ""
     },
     {
       "year": 2025,
@@ -14454,9 +14518,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Dortmund, Germany",
       "venue": "Junkyard",
+      "notes": "SP-CMC-4Us · johnnyinthebasement",
       "version": "AUD",
-      "format": "",
-      "notes": "SP-CMC-4Us · johnnyinthebasement"
+      "format": ""
     },
     {
       "year": 2025,
@@ -14467,9 +14531,9 @@ const ARTIST_DATA = {
       "state": "Barcelona",
       "location": "Poble Espanyol, Barcelona",
       "venue": "Alma Festival",
+      "notes": "M · Line Audio CM4 · pata63",
       "version": "AUD",
-      "format": "",
-      "notes": "Line Audio CM4 · pata63"
+      "format": ""
     },
     {
       "year": 2025,
@@ -14480,9 +14544,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Salt Shed",
+      "notes": "DPA 4060 · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4060 · unk"
+      "format": ""
     },
     {
       "year": 2025,
@@ -14493,9 +14557,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Vail, CO",
       "venue": "Gerald R. Ford Amphitheatre",
+      "notes": "SP-BMC-12 · boyroy",
       "version": "AUD",
-      "format": "",
-      "notes": "SP-BMC-12 · boyroy"
+      "format": ""
     },
     {
       "year": 2025,
@@ -14506,9 +14570,9 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Ogden, UT",
       "venue": "Ogden Amphitheater",
+      "notes": "DPA 4061 · opsopcopolis",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4061 · opsopcopolis"
+      "format": ""
     },
     {
       "year": 2025,
@@ -14519,9 +14583,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Woodland Park Zoo",
+      "notes": "iPhone 7 · chris lawrence",
       "version": "AUD",
-      "format": "",
-      "notes": "iPhone 7 · chris lawrence"
+      "format": ""
     },
     {
       "year": 2025,
@@ -14532,9 +14596,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Woodland Park Zoo",
+      "notes": "iPhone 7 · chris lawrence",
       "version": "AUD",
-      "format": "",
-      "notes": "iPhone 7 · chris lawrence"
+      "format": ""
     },
     {
       "year": 2026,
@@ -14545,1920 +14609,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Fort Wayne, IN",
       "venue": "Clyde Theater",
+      "notes": "DPA 4061 · robotaper",
       "version": "AUD",
-      "format": "",
-      "notes": "DPA 4061 · robotaper"
-    },
-    {
-      "year": 1995,
-      "month": 10,
-      "day": 25,
-      "dateStr": "10-25-1995",
-      "city": "Hoboken",
-      "state": "NJ",
-      "location": "Hoboken, NJ",
-      "venue": "Live at Maxwell's",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 1996,
-      "month": 11,
-      "day": 5,
-      "dateStr": "11-5-1996",
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Liberty Lunch",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 1997,
-      "month": 5,
-      "day": 31,
-      "dateStr": "5-31-1997",
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Embarcadero Stage at Justin Herman Park",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 1998,
-      "month": 9,
-      "day": 6,
-      "dateStr": "9-6-1998",
-      "city": "Toledo",
-      "state": "OH",
-      "location": "Toledo, OH",
-      "venue": "Promenade Park",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 1999,
-      "month": 3,
-      "day": 27,
-      "dateStr": "3-27-1999",
-      "city": "London",
-      "state": "UK",
-      "location": "London, UK",
-      "venue": "Shepherd's Bush Empire",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 1999,
-      "month": 5,
-      "day": 20,
-      "dateStr": "5-20-1999",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "King Cat Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 1999,
-      "month": 8,
-      "day": 31,
-      "dateStr": "8-31-1999",
-      "city": "St. Petersburg",
-      "state": "FL",
-      "location": "St. Petersburg, FL",
-      "venue": "Jannus Landing",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2001,
-      "month": 12,
-      "day": 3,
-      "dateStr": "12-3-2001",
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Fillmore",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2002,
-      "month": 3,
-      "day": 16,
-      "dateStr": "3-16-2002",
-      "city": "Los Angeles",
-      "state": "CA - All Tomorrow's Parties - Royce Hall (FOH Series)",
-      "location": "Los Angeles, CA - All Tomorrow's Parties - Royce Hall (FOH Series)",
-      "venue": "",
-      "version": "SBD",
-      "format": "",
-      "notes": ""
-    },
-    {
-      "year": 2002,
-      "month": 7,
-      "day": 31,
-      "dateStr": "7-31-2002",
-      "city": "Madison",
-      "state": "WI",
-      "location": "Madison, WI",
-      "venue": "The Orpheum Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2003,
-      "month": 6,
-      "day": 21,
-      "dateStr": "6-21-2003",
-      "city": "Pittsburgh",
-      "state": "PA",
-      "location": "Pittsburgh, PA",
-      "venue": "Three River Arts Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2003,
-      "month": 6,
-      "day": 28,
-      "dateStr": "6-28-2003",
-      "city": "Philadelphia",
-      "state": "PA",
-      "location": "Philadelphia, PA",
-      "venue": "Festival Pier at Penn's Landing",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2003,
-      "month": 7,
-      "day": 3,
-      "dateStr": "7-3-2003",
-      "city": "Camden",
-      "state": "ME",
-      "location": "Camden, ME",
-      "venue": "Camden Opera House",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2003,
-      "month": 9,
-      "day": 4,
-      "dateStr": "9-4-2003",
-      "city": "Eugene",
-      "state": "OR",
-      "location": "Eugene, OR",
-      "venue": "McDonald Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2004,
-      "month": 5,
-      "day": 20,
-      "dateStr": "5-20-2004",
-      "city": "DeKalb",
-      "state": "IL",
-      "location": "DeKalb, IL",
-      "venue": "Otto's",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2004,
-      "month": 12,
-      "day": 31,
-      "dateStr": "12-31-2004",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Madison Square Garden",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2005,
-      "month": 9,
-      "day": 8,
-      "dateStr": "9-8-2005",
-      "city": "Cologne",
-      "state": "DE",
-      "location": "Cologne, DE",
-      "venue": "Live Music Hall",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2005,
-      "month": 11,
-      "day": 17,
-      "dateStr": "11-17-2005",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Tribeca Performing Arts Center",
-      "version": "SBD",
-      "format": "",
-      "notes": "Tweedy · FOH Series"
-    },
-    {
-      "year": 2006,
-      "month": 2,
-      "day": 13,
-      "dateStr": "2-13-2006",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Henry Fonda Theater",
-      "version": "SBD",
-      "format": "",
-      "notes": "Jeff Tweedy · FOH Series"
-    },
-    {
-      "year": 2006,
-      "month": 7,
-      "day": 13,
-      "dateStr": "7-13-2006",
-      "city": "Fredericton",
-      "state": "NB",
-      "location": "Fredericton, NB",
-      "venue": "The Playhouse",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2007,
-      "month": 6,
-      "day": 22,
-      "dateStr": "6-22-2007",
-      "city": "Red Bank",
-      "state": "NJ",
-      "location": "Red Bank, NJ",
-      "venue": "Count Basie Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2008,
-      "month": 2,
-      "day": 23,
-      "dateStr": "2-23-2008",
-      "city": "Upper Darby",
-      "state": "PA",
-      "location": "Upper Darby, PA",
-      "venue": "Tower Theater",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2008,
-      "month": 3,
-      "day": 8,
-      "dateStr": "3-8-2008",
-      "city": "Tulsa",
-      "state": "OK",
-      "location": "Tulsa, OK",
-      "venue": "Cain's Ballroom",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2008,
-      "month": 3,
-      "day": 9,
-      "dateStr": "3-9-2008",
-      "city": "Des Moines",
-      "state": "IA",
-      "location": "Des Moines, IA",
-      "venue": "Val Air Ballroom",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2009,
-      "month": 4,
-      "day": 16,
-      "dateStr": "4-16-2009",
-      "city": "Bloomington",
-      "state": "IN",
-      "location": "Bloomington, IN",
-      "venue": "IU Auditorium",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2009,
-      "month": 7,
-      "day": 21,
-      "dateStr": "7-21-2009",
-      "city": "Royal Oak",
-      "state": "MI",
-      "location": "Royal Oak, MI",
-      "venue": "Royal Oak Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2010,
-      "month": 2,
-      "day": 12,
-      "dateStr": "2-12-2010",
-      "city": "Victoria",
-      "state": "BC",
-      "location": "Victoria, BC",
-      "venue": "Royal Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2010,
-      "month": 4,
-      "day": 2,
-      "dateStr": "4-2-2010",
-      "city": "Montclair",
-      "state": "NJ",
-      "location": "Montclair, NJ",
-      "venue": "Wellmont Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2010,
-      "month": 4,
-      "day": 3,
-      "dateStr": "4-3-2010",
-      "city": "Montclair",
-      "state": "NJ",
-      "location": "Montclair, NJ",
-      "venue": "Wellmont Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2011,
-      "month": 11,
-      "day": 7,
-      "dateStr": "11-7-2011",
-      "city": "Basel",
-      "state": "SWI",
-      "location": "Basel, SWI",
-      "venue": "Kaserne Basel",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2012,
-      "month": 9,
-      "day": 18,
-      "dateStr": "9-18-2012",
-      "city": "Santa Fe",
-      "state": "NM",
-      "location": "Santa Fe, NM",
-      "venue": "Santa Fe Opera House",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2013,
-      "month": 4,
-      "day": 3,
-      "dateStr": "4-3-2013",
-      "city": "Sydney",
-      "state": "AU",
-      "location": "Sydney, AU",
-      "venue": "Opera House",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2013,
-      "month": 12,
-      "day": 6,
-      "dateStr": "12-6-2013",
-      "city": "Salt Lake City",
-      "state": "UT",
-      "location": "Salt Lake City, UT",
-      "venue": "Kingsbury Hall",
-      "version": "SBD",
-      "format": "",
-      "notes": "Jeff Tweedy · FOH Series"
-    },
-    {
-      "year": 2015,
-      "month": 9,
-      "day": 25,
-      "dateStr": "9-25-2015",
-      "city": "Bloomington",
-      "state": "IN",
-      "location": "Bloomington, IN",
-      "venue": "IU Auditorium",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2016,
-      "month": 7,
-      "day": 1,
-      "dateStr": "7-1-2016",
-      "city": "Vilanova i la Geltru",
-      "state": "ESP",
-      "location": "Vilanova i la Geltru, ESP",
-      "venue": "Masia d'en Cabanyes Vida Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2017,
-      "month": 6,
-      "day": 8,
-      "dateStr": "6-8-2017",
-      "city": "Pittsburgh",
-      "state": "PA",
-      "location": "Pittsburgh, PA",
-      "venue": "Stage AE",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2021,
-      "month": 6,
-      "day": 4,
-      "dateStr": "6-4-2021",
-      "city": "Bridgeview",
-      "state": "IL",
-      "location": "Bridgeview, IL",
-      "venue": "Jeff Tweedy at SeatGeek Stadium - Parking Lot S1",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2021,
-      "month": 8,
-      "day": 25,
-      "dateStr": "8-25-2021",
-      "city": "Portland",
-      "state": "ME",
-      "location": "Portland, ME",
-      "venue": "Thompson's Point",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2024,
-      "month": 3,
-      "day": 13,
-      "dateStr": "3-13-2024",
-      "city": "Brisbane",
-      "state": "AUS",
-      "location": "Brisbane, AUS",
-      "venue": "The Princess Theater",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2025,
-      "month": 5,
-      "day": 12,
-      "dateStr": "5-12-2025",
-      "city": "Birmingham",
-      "state": "AL",
-      "location": "Birmingham, AL",
-      "venue": "BJCC Concert Hall",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2012,
-      "month": 6,
-      "day": 23,
-      "dateStr": "6-23-2012",
-      "city": "Morrison",
-      "state": "CO",
-      "location": "Morrison, CO",
-      "venue": "Red Rocks Amphitheatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "001"
-    },
-    {
-      "year": 2012,
-      "month": 7,
-      "day": 8,
-      "dateStr": "7-8-2012",
-      "city": "Geneva",
-      "state": "IL",
-      "location": "Geneva, IL",
-      "venue": "Fifth Third Bank Ball Park",
-      "version": "SBD",
-      "format": "",
-      "notes": "002"
-    },
-    {
-      "year": 2012,
-      "month": 7,
-      "day": 23,
-      "dateStr": "7-23-2012",
-      "city": "Brooklyn",
-      "state": "NY",
-      "location": "Brooklyn, NY",
-      "venue": "Prospect Park",
-      "version": "SBD",
-      "format": "",
-      "notes": "003"
-    },
-    {
-      "year": 2012,
-      "month": 7,
-      "day": 24,
-      "dateStr": "7-24-2012",
-      "city": "Brooklyn",
-      "state": "NY",
-      "location": "Brooklyn, NY",
-      "venue": "Prospect Park",
-      "version": "SBD",
-      "format": "",
-      "notes": "004"
-    },
-    {
-      "year": 2012,
-      "month": 7,
-      "day": 25,
-      "dateStr": "7-25-2012",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Terminal 5",
-      "version": "SBD",
-      "format": "",
-      "notes": "005"
-    },
-    {
-      "year": 2012,
-      "month": 7,
-      "day": 28,
-      "dateStr": "7-28-2012",
-      "city": "Cooperstown",
-      "state": "NY",
-      "location": "Cooperstown, NY",
-      "venue": "Brewery Ommegang",
-      "version": "SBD",
-      "format": "",
-      "notes": "006"
-    },
-    {
-      "year": 2012,
-      "month": 7,
-      "day": 29,
-      "dateStr": "7-29-2012",
-      "city": "Essex Junction",
-      "state": "VT",
-      "location": "Essex Junction, VT",
-      "venue": "Champlain Valley Expo",
-      "version": "SBD",
-      "format": "",
-      "notes": "007"
-    },
-    {
-      "year": 2012,
-      "month": 8,
-      "day": 3,
-      "dateStr": "8-3-2012",
-      "city": "Rochester",
-      "state": "NY",
-      "location": "Rochester, NY",
-      "venue": "Highland Bowl",
-      "version": "SBD",
-      "format": "",
-      "notes": "008"
-    },
-    {
-      "year": 2012,
-      "month": 9,
-      "day": 16,
-      "dateStr": "9-16-2012",
-      "city": "Columbia",
-      "state": "MO",
-      "location": "Columbia, MO",
-      "venue": "Ninth Street",
-      "version": "SBD",
-      "format": "",
-      "notes": "009"
-    },
-    {
-      "year": 2012,
-      "month": 7,
-      "day": 18,
-      "dateStr": "7-18-2012",
-      "city": "Vienna",
-      "state": "VA",
-      "location": "Vienna, VA",
-      "venue": "Live from Wolf Trap",
-      "version": "SBD",
-      "format": "",
-      "notes": "010"
-    },
-    {
-      "year": 2012,
-      "month": 8,
-      "day": 14,
-      "dateStr": "8-14-2012",
-      "city": "Luxembourg",
-      "state": "LU",
-      "location": "Luxembourg, LU",
-      "venue": "den Atelier",
-      "version": "SBD",
-      "format": "",
-      "notes": "011"
-    },
-    {
-      "year": 2012,
-      "month": 9,
-      "day": 21,
-      "dateStr": "9-21-2012",
-      "city": "Berkeley",
-      "state": "CA",
-      "location": "Berkeley, CA",
-      "venue": "Greek Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "012"
-    },
-    {
-      "year": 2012,
-      "month": 9,
-      "day": 22,
-      "dateStr": "9-22-2012",
-      "city": "Berkeley",
-      "state": "CA",
-      "location": "Berkeley, CA",
-      "venue": "Greek Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "013"
-    },
-    {
-      "year": 2012,
-      "month": 9,
-      "day": 23,
-      "dateStr": "9-23-2012",
-      "city": "Reno",
-      "state": "NV",
-      "location": "Reno, NV",
-      "venue": "Grand Sierra Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "014"
-    },
-    {
-      "year": 2012,
-      "month": 10,
-      "day": 15,
-      "dateStr": "10-15-2012",
-      "city": "Barcelona",
-      "state": "ES",
-      "location": "Barcelona, ES",
-      "venue": "Gran Teatre del Liceu",
-      "version": "SBD",
-      "format": "",
-      "notes": "015"
-    },
-    {
-      "year": 2012,
-      "month": 9,
-      "day": 29,
-      "dateStr": "9-29-2012",
-      "city": "San Luis Obispo",
-      "state": "CA",
-      "location": "San Luis Obispo, CA",
-      "venue": "Avila Beach Resort",
-      "version": "SBD",
-      "format": "",
-      "notes": "016"
-    },
-    {
-      "year": 2012,
-      "month": 9,
-      "day": 19,
-      "dateStr": "9-19-2012",
-      "city": "Tucson",
-      "state": "AZ",
-      "location": "Tucson, AZ",
-      "venue": "Tucson Music Hall",
-      "version": "SBD",
-      "format": "",
-      "notes": "017"
-    },
-    {
-      "year": 2013,
-      "month": 6,
-      "day": 21,
-      "dateStr": "6-21-2013",
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "MASS MoCA",
-      "version": "SBD",
-      "format": "",
-      "notes": "018"
-    },
-    {
-      "year": 2013,
-      "month": 6,
-      "day": 22,
-      "dateStr": "6-22-2013",
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "MASS MoCA",
-      "version": "SBD",
-      "format": "",
-      "notes": "019"
-    },
-    {
-      "year": 2013,
-      "month": 4,
-      "day": 10,
-      "dateStr": "4-10-2013",
-      "city": "Osaka",
-      "state": "JP",
-      "location": "Osaka, JP",
-      "venue": "Hatch",
-      "version": "SBD",
-      "format": "",
-      "notes": "020"
-    },
-    {
-      "year": 2013,
-      "month": 4,
-      "day": 12,
-      "dateStr": "4-12-2013",
-      "city": "Tokyo",
-      "state": "JP",
-      "location": "Tokyo, JP",
-      "venue": "ZEPP Diver City",
-      "version": "SBD",
-      "format": "",
-      "notes": "021"
-    },
-    {
-      "year": 2013,
-      "month": 4,
-      "day": 13,
-      "dateStr": "4-13-2013",
-      "city": "Tokyo",
-      "state": "JP",
-      "location": "Tokyo, JP",
-      "venue": "Shibuya-AX",
-      "version": "SBD",
-      "format": "",
-      "notes": "022"
-    },
-    {
-      "year": 2013,
-      "month": 10,
-      "day": 11,
-      "dateStr": "10-11-2013",
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Stubb's Waller Creek Amphitheater",
-      "version": "SBD",
-      "format": "",
-      "notes": "023"
-    },
-    {
-      "year": 2013,
-      "month": 12,
-      "day": 15,
-      "dateStr": "12-15-2013",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Largo at the Coronet",
-      "version": "SBD",
-      "format": "",
-      "notes": "Jeff Tweedy · 024"
-    },
-    {
-      "year": 2013,
-      "month": 12,
-      "day": 16,
-      "dateStr": "12-16-2013",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Largo at the Coronet",
-      "version": "SBD",
-      "format": "",
-      "notes": "Jeff Tweedy · 025"
-    },
-    {
-      "year": 2013,
-      "month": 12,
-      "day": 18,
-      "dateStr": "12-18-2013",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Largo at the Coronet",
-      "version": "SBD",
-      "format": "",
-      "notes": "Jeff Tweedy · 026"
-    },
-    {
-      "year": 2013,
-      "month": 12,
-      "day": 19,
-      "dateStr": "12-19-2013",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Largo at the Coronet",
-      "version": "SBD",
-      "format": "",
-      "notes": "027"
-    },
-    {
-      "year": 2013,
-      "month": 12,
-      "day": 8,
-      "dateStr": "12-8-2013",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Moore Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "028"
-    },
-    {
-      "year": 2013,
-      "month": 12,
-      "day": 5,
-      "dateStr": "12-5-2013",
-      "city": "Denver",
-      "state": "CO",
-      "location": "Denver, CO",
-      "venue": "Paramount Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "Jeff Tweedy · 029"
-    },
-    {
-      "year": 2013,
-      "month": 12,
-      "day": 3,
-      "dateStr": "12-3-2013",
-      "city": "Kansas City",
-      "state": "MO",
-      "location": "Kansas City, MO",
-      "venue": "Uptown Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "Jeff Tweedy · 030"
-    },
-    {
-      "year": 2014,
-      "month": 2,
-      "day": 14,
-      "dateStr": "2-14-2014",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Vic Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "031"
-    },
-    {
-      "year": 2014,
-      "month": 2,
-      "day": 15,
-      "dateStr": "2-15-2014",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Vic Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "032"
-    },
-    {
-      "year": 2014,
-      "month": 6,
-      "day": 5,
-      "dateStr": "6-5-2014",
-      "city": "Detroit",
-      "state": "MI",
-      "location": "Detroit, MI",
-      "venue": "Masonica Temple",
-      "version": "SBD",
-      "format": "",
-      "notes": "033"
-    },
-    {
-      "year": 2014,
-      "month": 6,
-      "day": 10,
-      "dateStr": "6-10-2014",
-      "city": "Washington",
-      "state": "DC",
-      "location": "Washington, DC",
-      "venue": "Lincoln Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "Jeff Tweedy · 034"
-    },
-    {
-      "year": 2013,
-      "month": 10,
-      "day": 1,
-      "dateStr": "10-1-2013",
-      "city": "Buffalo",
-      "state": "NY",
-      "location": "Buffalo, NY",
-      "venue": "The Town Ballroom",
-      "version": "SBD",
-      "format": "",
-      "notes": "035"
-    },
-    {
-      "year": 2014,
-      "month": 10,
-      "day": 23,
-      "dateStr": "10-23-2014",
-      "city": "Knoxville",
-      "state": "TN",
-      "location": "Knoxville, TN",
-      "venue": "Tennessee Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "036"
-    },
-    {
-      "year": 2014,
-      "month": 10,
-      "day": 28,
-      "dateStr": "10-28-2014",
-      "city": "Port Chester",
-      "state": "NY",
-      "location": "Port Chester, NY",
-      "venue": "Capitol Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "037"
-    },
-    {
-      "year": 2014,
-      "month": 10,
-      "day": 29,
-      "dateStr": "10-29-2014",
-      "city": "Port Chester",
-      "state": "NY",
-      "location": "Port Chester, NY",
-      "venue": "Capitol Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "038"
-    },
-    {
-      "year": 2014,
-      "month": 10,
-      "day": 30,
-      "dateStr": "10-30-2014",
-      "city": "Port Chester",
-      "state": "NY",
-      "location": "Port Chester, NY",
-      "venue": "Capitol Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "039"
-    },
-    {
-      "year": 2014,
-      "month": 12,
-      "day": 5,
-      "dateStr": "12-5-2014",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Riviera Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "040"
-    },
-    {
-      "year": 2014,
-      "month": 12,
-      "day": 6,
-      "dateStr": "12-6-2014",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Riviera Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "041"
-    },
-    {
-      "year": 2014,
-      "month": 12,
-      "day": 8,
-      "dateStr": "12-8-2014",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Riviera Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "042"
-    },
-    {
-      "year": 2014,
-      "month": 12,
-      "day": 9,
-      "dateStr": "12-9-2014",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Riviera Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "043"
-    },
-    {
-      "year": 2014,
-      "month": 12,
-      "day": 11,
-      "dateStr": "12-11-2014",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Riviera Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "044"
-    },
-    {
-      "year": 2014,
-      "month": 12,
-      "day": 12,
-      "dateStr": "12-12-2014",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Riviera Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "045"
-    },
-    {
-      "year": 2015,
-      "month": 5,
-      "day": 7,
-      "dateStr": "5-7-2015",
-      "city": "Indianapolis",
-      "state": "IN",
-      "location": "Indianapolis, IN",
-      "venue": "Murat Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "046"
-    },
-    {
-      "year": 2015,
-      "month": 6,
-      "day": 26,
-      "dateStr": "6-26-2015",
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "047"
-    },
-    {
-      "year": 2015,
-      "month": 6,
-      "day": 27,
-      "dateStr": "6-27-2015",
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "048"
-    },
-    {
-      "year": 2015,
-      "month": 8,
-      "day": 6,
-      "dateStr": "8-6-2015",
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "The Independent",
-      "version": "SBD",
-      "format": "",
-      "notes": "Notorious Wilco Brothers · 049"
-    },
-    {
-      "year": 2015,
-      "month": 8,
-      "day": 11,
-      "dateStr": "8-11-2015",
-      "city": "Redmond",
-      "state": "WA",
-      "location": "Redmond, WA",
-      "venue": "Marymoor Park",
-      "version": "SBD",
-      "format": "",
-      "notes": "050"
-    },
-    {
-      "year": 2015,
-      "month": 9,
-      "day": 25,
-      "dateStr": "9-25-2015",
-      "city": "Bloomington",
-      "state": "IN",
-      "location": "Bloomington, IN",
-      "venue": "IU Auditorium",
-      "version": "SBD",
-      "format": "",
-      "notes": "051"
-    },
-    {
-      "year": 2016,
-      "month": 1,
-      "day": 29,
-      "dateStr": "1-29-2016",
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "The Orpheum Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "052"
-    },
-    {
-      "year": 2016,
-      "month": 1,
-      "day": 30,
-      "dateStr": "1-30-2016",
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "The Orpheum Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "053"
-    },
-    {
-      "year": 2016,
-      "month": 2,
-      "day": 5,
-      "dateStr": "2-5-2016",
-      "city": "Brooklyn",
-      "state": "NY",
-      "location": "Brooklyn, NY",
-      "venue": "Kings Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "054"
-    },
-    {
-      "year": 2016,
-      "month": 2,
-      "day": 6,
-      "dateStr": "2-6-2016",
-      "city": "Brooklyn",
-      "state": "NY",
-      "location": "Brooklyn, NY",
-      "venue": "Kings Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "055"
-    },
-    {
-      "year": 2016,
-      "month": 9,
-      "day": 2,
-      "dateStr": "9-2-2016",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Moore Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "056"
-    },
-    {
-      "year": 2016,
-      "month": 9,
-      "day": 3,
-      "dateStr": "9-3-2016",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Moore Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "057"
-    },
-    {
-      "year": 2016,
-      "month": 9,
-      "day": 13,
-      "dateStr": "9-13-2016",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Theatre at Ace Hotel",
-      "version": "SBD",
-      "format": "",
-      "notes": "058"
-    },
-    {
-      "year": 2016,
-      "month": 9,
-      "day": 14,
-      "dateStr": "9-14-2016",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Theatre at Ace Hotel",
-      "version": "SBD",
-      "format": "",
-      "notes": "059"
-    },
-    {
-      "year": 2016,
-      "month": 9,
-      "day": 15,
-      "dateStr": "9-15-2016",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Theatre at Ace Hotel",
-      "version": "SBD",
-      "format": "",
-      "notes": "060"
-    },
-    {
-      "year": 2016,
-      "month": 11,
-      "day": 9,
-      "dateStr": "11-9-2016",
-      "city": "Utrecht",
-      "state": "NL",
-      "location": "Utrecht, NL",
-      "venue": "TivoliVredenburg",
-      "version": "SBD",
-      "format": "",
-      "notes": "061"
-    },
-    {
-      "year": 2017,
-      "month": 2,
-      "day": 23,
-      "dateStr": "2-23-2017",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Chicago Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "062"
-    },
-    {
-      "year": 2017,
-      "month": 2,
-      "day": 26,
-      "dateStr": "2-26-2017",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "The Chicago Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "063"
-    },
-    {
-      "year": 2017,
-      "month": 6,
-      "day": 23,
-      "dateStr": "6-23-2017",
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "064"
-    },
-    {
-      "year": 2017,
-      "month": 6,
-      "day": 24,
-      "dateStr": "6-24-2017",
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "065"
-    },
-    {
-      "year": 2017,
-      "month": 6,
-      "day": 25,
-      "dateStr": "6-25-2017",
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "Tweedy & Friends · 066"
-    },
-    {
-      "year": 2017,
-      "month": 11,
-      "day": 17,
-      "dateStr": "11-17-2017",
-      "city": "St. Paul",
-      "state": "MN",
-      "location": "St. Paul, MN",
-      "venue": "Palace Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "067"
-    },
-    {
-      "year": 2017,
-      "month": 11,
-      "day": 16,
-      "dateStr": "11-16-2017",
-      "city": "St. Paul",
-      "state": "MN",
-      "location": "St. Paul, MN",
-      "venue": "Palace Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "068"
-    },
-    {
-      "year": 2017,
-      "month": 11,
-      "day": 17,
-      "dateStr": "11-17-2017",
-      "city": "Saint Paul",
-      "state": "MN",
-      "location": "Saint Paul, MN",
-      "venue": "Palace Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "069"
-    },
-    {
-      "year": 2018,
-      "month": 10,
-      "day": 8,
-      "dateStr": "10-8-2018",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "The Theatre At Ace Hotel",
-      "version": "SBD",
-      "format": "",
-      "notes": "Jeff Tweedy · 071"
-    },
-    {
-      "year": 2019,
-      "month": 2,
-      "day": 28,
-      "dateStr": "2-28-2019",
-      "city": "St. Louis",
-      "state": "MO",
-      "location": "St. Louis, MO",
-      "venue": "The Pageant",
-      "version": "SBD",
-      "format": "",
-      "notes": "Jeff Tweedy · 072"
-    },
-    {
-      "year": 2019,
-      "month": 3,
-      "day": 22,
-      "dateStr": "3-22-2019",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "The Vic",
-      "version": "SBD",
-      "format": "",
-      "notes": "Jeff Tweedy · 073"
-    },
-    {
-      "year": 2019,
-      "month": 3,
-      "day": 23,
-      "dateStr": "3-23-2019",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "The Vic",
-      "version": "SBD",
-      "format": "",
-      "notes": "Jeff Tweedy · 074"
-    },
-    {
-      "year": 2019,
-      "month": 6,
-      "day": 6,
-      "dateStr": "6-6-2019",
-      "city": "Knoxville",
-      "state": "TN",
-      "location": "Knoxville, TN",
-      "venue": "Bijou Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "075"
-    },
-    {
-      "year": 2019,
-      "month": 6,
-      "day": 28,
-      "dateStr": "6-28-2019",
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "076"
-    },
-    {
-      "year": 2019,
-      "month": 6,
-      "day": 29,
-      "dateStr": "6-29-2019",
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "077"
-    },
-    {
-      "year": 2019,
-      "month": 6,
-      "day": 30,
-      "dateStr": "6-30-2019",
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "078"
-    },
-    {
-      "year": 2019,
-      "month": 10,
-      "day": 8,
-      "dateStr": "10-8-2019",
-      "city": "Toronto",
-      "state": "ON",
-      "location": "Toronto, ON",
-      "venue": "Budweiser Stage",
-      "version": "SBD",
-      "format": "",
-      "notes": "FOH Series"
-    },
-    {
-      "year": 2019,
-      "month": 10,
-      "day": 13,
-      "dateStr": "10-13-2019",
-      "city": "Brooklyn NY",
-      "state": "",
-      "location": "Brooklyn NY",
-      "venue": "Brooklyn Steel",
-      "version": "SBD",
-      "format": "",
-      "notes": "079"
-    },
-    {
-      "year": 2019,
-      "month": 11,
-      "day": 14,
-      "dateStr": "11-14-2019",
-      "city": "St. Louis",
-      "state": "MO",
-      "location": "St. Louis, MO",
-      "venue": "The Fox Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "080"
-    },
-    {
-      "year": 2019,
-      "month": 11,
-      "day": 17,
-      "dateStr": "11-17-2019",
-      "city": "Kansas City",
-      "state": "MO",
-      "location": "Kansas City, MO",
-      "venue": "Arvest Bank Theatre at Midland",
-      "version": "SBD",
-      "format": "",
-      "notes": "081"
-    },
-    {
-      "year": 2019,
-      "month": 11,
-      "day": 19,
-      "dateStr": "11-19-2019",
-      "city": "Denver CO",
-      "state": "",
-      "location": "Denver CO",
-      "venue": "Mission Ballroom",
-      "version": "SBD",
-      "format": "",
-      "notes": "082"
-    },
-    {
-      "year": 2019,
-      "month": 11,
-      "day": 22,
-      "dateStr": "11-22-2019",
-      "city": "Saint Paul",
-      "state": "MN",
-      "location": "Saint Paul, MN",
-      "venue": "Palace Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "083"
-    },
-    {
-      "year": 2019,
-      "month": 11,
-      "day": 23,
-      "dateStr": "11-23-2019",
-      "city": "Saint Paul",
-      "state": "MN",
-      "location": "Saint Paul, MN",
-      "venue": "Palace Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "084"
-    },
-    {
-      "year": 2019,
-      "month": 11,
-      "day": 24,
-      "dateStr": "11-24-2019",
-      "city": "Saint Paul",
-      "state": "MN",
-      "location": "Saint Paul, MN",
-      "venue": "Palace Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "085"
-    },
-    {
-      "year": 2019,
-      "month": 12,
-      "day": 19,
-      "dateStr": "12-19-2019",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Chicago Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "086"
-    },
-    {
-      "year": 2019,
-      "month": 5,
-      "day": 22,
-      "dateStr": "5-22-2019",
-      "city": "Brisbane",
-      "state": "Australia",
-      "location": "Brisbane, Australia",
-      "venue": "The Powerhouse",
-      "version": "SBD",
-      "format": "",
-      "notes": "Jeff Tweedy · 087"
-    },
-    {
-      "year": 2020,
-      "month": 1,
-      "day": 19,
-      "dateStr": "1-19-2020",
-      "city": "Riviera Maya",
-      "state": "MEX",
-      "location": "Riviera Maya, MEX",
-      "venue": "Sky Blue Sky Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "088"
-    },
-    {
-      "year": 2020,
-      "month": 1,
-      "day": 21,
-      "dateStr": "1-21-2020",
-      "city": "Riviera Maya",
-      "state": "MEX",
-      "location": "Riviera Maya, MEX",
-      "venue": "Sky Blue Sky Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "089"
-    },
-    {
-      "year": 2020,
-      "month": 3,
-      "day": 11,
-      "dateStr": "3-11-2020",
-      "city": "Winnipeg",
-      "state": "CAN",
-      "location": "Winnipeg, CAN",
-      "venue": "Centennial Concert Hall",
-      "version": "SBD",
-      "format": "",
-      "notes": "090"
-    },
-    {
-      "year": 2021,
-      "month": 10,
-      "day": 12,
-      "dateStr": "10-12-2021",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Paramount Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "091"
-    },
-    {
-      "year": 2021,
-      "month": 10,
-      "day": 13,
-      "dateStr": "10-13-2021",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Paramount Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "092"
-    },
-    {
-      "year": 2022,
-      "month": 1,
-      "day": 17,
-      "dateStr": "1-17-2022",
-      "city": "Riviera Maya",
-      "state": "MEX",
-      "location": "Riviera Maya, MEX",
-      "venue": "Hard Rock Hotel",
-      "version": "SBD",
-      "format": "",
-      "notes": "093"
-    },
-    {
-      "year": 2022,
-      "month": 1,
-      "day": 18,
-      "dateStr": "1-18-2022",
-      "city": "Riviera Maya",
-      "state": "MEX",
-      "location": "Riviera Maya, MEX",
-      "venue": "Hard Rock Hotel",
-      "version": "SBD",
-      "format": "",
-      "notes": "094"
-    },
-    {
-      "year": 2022,
-      "month": 1,
-      "day": 20,
-      "dateStr": "1-20-2022",
-      "city": "Riviera Maya",
-      "state": "MEX",
-      "location": "Riviera Maya, MEX",
-      "venue": "Hard Rock Hotel",
-      "version": "SBD",
-      "format": "",
-      "notes": "095"
-    },
-    {
-      "year": 2022,
-      "month": 5,
-      "day": 27,
-      "dateStr": "5-27-2022",
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "096"
-    },
-    {
-      "year": 2022,
-      "month": 5,
-      "day": 28,
-      "dateStr": "5-28-2022",
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "097"
-    },
-    {
-      "year": 2022,
-      "month": 5,
-      "day": 29,
-      "dateStr": "5-29-2022",
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "Jeff Tweedy · 098"
-    },
-    {
-      "year": 2022,
-      "month": 8,
-      "day": 27,
-      "dateStr": "8-27-2022",
-      "city": "New Haven",
-      "state": "CT",
-      "location": "New Haven, CT",
-      "venue": "Westville Music Bowl",
-      "version": "SBD",
-      "format": "",
-      "notes": "099"
-    },
-    {
-      "year": 2022,
-      "month": 9,
-      "day": 14,
-      "dateStr": "9-14-2022",
-      "city": "Morrison",
-      "state": "CO",
-      "location": "Morrison, CO",
-      "venue": "Red Rocks",
-      "version": "SBD",
-      "format": "",
-      "notes": "100"
-    },
-    {
-      "year": 2023,
-      "month": 10,
-      "day": 14,
-      "dateStr": "10-14-2023",
-      "city": "Berkeley",
-      "state": "CA",
-      "location": "Berkeley, CA",
-      "venue": "Greek Theatre",
-      "version": "SBD",
-      "format": "",
-      "notes": "101"
-    },
-    {
-      "year": 2024,
-      "month": 6,
-      "day": 28,
-      "dateStr": "6-28-2024",
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "102"
-    },
-    {
-      "year": 2024,
-      "month": 6,
-      "day": 29,
-      "dateStr": "6-29-2024",
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "103"
-    },
-    {
-      "year": 2024,
-      "month": 6,
-      "day": 30,
-      "dateStr": "6-30-2024",
-      "city": "North Adams",
-      "state": "MA",
-      "location": "North Adams, MA",
-      "venue": "Solid Sound Festival",
-      "version": "SBD",
-      "format": "",
-      "notes": "Jeff Tweedy · 104"
-    },
-    {
-      "year": 2024,
-      "month": 12,
-      "day": 5,
-      "dateStr": "12-5-2024",
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Austin City Limits",
-      "version": "SBD",
-      "format": "",
-      "notes": "105"
-    },
-    {
-      "year": 2024,
-      "month": 12,
-      "day": 6,
-      "dateStr": "12-6-2024",
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Austin City Limits",
-      "version": "SBD",
-      "format": "",
-      "notes": "106"
-    },
-    {
-      "year": 2024,
-      "month": 12,
-      "day": 7,
-      "dateStr": "12-7-2024",
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Austin City Limits",
-      "version": "SBD",
-      "format": "",
-      "notes": "107"
+      "format": ""
     }
   ],
   "misc": [
