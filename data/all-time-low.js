@@ -20,9 +20,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Reading, UK",
       "venue": "Reading Festival Main Stage West (BBC Webcast Live Stream",
+      "notes": "",
       "version": "WEB",
-      "format": "MKV",
-      "notes": ""
+      "format": "MKV"
     },
     {
       "year": 2024,
@@ -33,9 +33,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "Kia Forum",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -45,10 +45,11 @@ const ARTIST_DATA = {
       "city": "Orlando",
       "state": "FL",
       "location": "Orlando, FL",
-      "venue": "Tinker Field - Vans Warped '25 Festival",
+      "venue": "Tinker Field",
+      "notes": "Vans",
       "version": "PRO",
-      "format": "MP4",
-      "notes": ""
+      "format": "MP4"
     }
-  ]
+  ],
+  "misc": []
 };
