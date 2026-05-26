@@ -25,9 +25,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -38,9 +38,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Canes Bar & Grill",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -50,10 +50,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Late Show with David Letterman - VHS",
+      "venue": "Late Show with David Letterman",
+      "notes": "VHS(2)",
       "version": "TV",
-      "format": "MKV",
-      "notes": "2"
+      "format": "MKV"
     },
     {
       "year": 1997,
@@ -64,9 +64,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "Baton Rouge, LA",
       "venue": "Varsity Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -76,10 +76,10 @@ const ARTIST_DATA = {
       "city": "Universal",
       "state": "CA",
       "location": "Universal, CA",
-      "venue": "Universal Amphitheatre - KROQ Not So Acoustic Christmas",
+      "venue": "Universal Amphitheatre",
+      "notes": "KROQ",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -90,9 +90,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Fairfax, VA",
       "venue": "GMU Patriot Centre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -103,9 +103,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "St. Andrew's Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -116,9 +116,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The American Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -129,9 +129,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Grobe Freiheit",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -142,9 +142,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Hammersmith Apollo",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -155,9 +155,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Value City Arena",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -168,9 +168,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rosemont, IL",
       "venue": "Allstate Arena",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -181,9 +181,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden *Go Get A Damn Pretzel",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -194,9 +194,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "John F. Savage Hall",
+      "notes": "inc",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "inc"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -207,9 +207,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Wantaugh, NY",
       "venue": "Jones Beach Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -220,9 +220,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Savvis Center",
+      "notes": "Core Sound Stealthy Cardiods · shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Core Sound Stealthy Cardiods · shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -233,9 +233,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Gund Arena",
+      "notes": "SP-CMC-7 · saltshaker",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-7 · saltshaker"
+      "format": "FLAC 24"
     },
     {
       "year": 2003,
@@ -246,9 +246,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Rose Garden Arena",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -259,9 +259,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Rod Laver Arena",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -272,9 +272,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Brisbane, AUS",
       "venue": "Brisbane Entertainment Centre",
+      "notes": "Sony Stereo mic · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony Stereo mic · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -285,9 +285,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Roanoke, VA",
       "venue": "Civic Coliseum",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -298,9 +298,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Richmond, VA",
       "venue": "Stuart Siegel Center",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -311,9 +311,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Ashwaubenon, WI",
       "venue": "Resch Center",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2013,
@@ -324,9 +324,9 @@ const ARTIST_DATA = {
       "state": "Nova Scotia",
       "location": "Halifax, Nova Scotia",
       "venue": "Halifax Metro Centre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2013,
@@ -336,10 +336,10 @@ const ARTIST_DATA = {
       "city": "Rio de Janeiro",
       "state": "Brazil",
       "location": "Rio de Janeiro, Brazil",
-      "venue": "Cadade do Rock - Rock in Rio 2013",
+      "venue": "Cadade do Rock",
+      "notes": "Rock",
       "version": "WEB",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2017,
@@ -350,9 +350,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Lakewood Amphitheatre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -363,9 +363,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Darien Lake, NY",
       "venue": "Performing Arts Center",
+      "notes": "AT831s · binko",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT831s · binko"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -376,9 +376,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Bowl",
+      "notes": "SP-CMC-4U · ijwthstd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U · ijwthstd"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -388,10 +388,10 @@ const ARTIST_DATA = {
       "city": "Atlanta",
       "state": "GA",
       "location": "Atlanta, GA",
-      "venue": "Cellaris Amphitheater - Slow Dream Tour Live",
+      "venue": "Cellaris Amphitheater",
+      "notes": "Slow",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -402,9 +402,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Fort Myers, FL",
       "venue": "Hammond Stadium",
+      "notes": "Roland Edirol R09 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Roland Edirol R09 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -415,9 +415,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Darien Lake, NY",
       "venue": "Performing Arts Center",
+      "notes": "AT mics · binko",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT mics · binko"
+      "format": "FLAC"
     }
   ],
   "misc": [
