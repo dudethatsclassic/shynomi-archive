@@ -567,6 +567,13 @@ const ARTISTS = [
     "lastYear": 1988
   },
   {
+    "id": "darlene-love-ronnie-spector",
+    "name": "Darlene Love & Ronnie Spector",
+    "showCount": 2,
+    "firstYear": 1988,
+    "lastYear": 1988
+  },
+  {
     "id": "dashboard-confessional",
     "name": "Dashboard Confessional",
     "showCount": 4,
@@ -658,6 +665,13 @@ const ARTISTS = [
     "lastYear": 1988
   },
   {
+    "id": "dj-jazzy-jeff-the-fresh-prince",
+    "name": "DJ Jazzy Jeff & the Fresh Prince",
+    "showCount": 1,
+    "firstYear": 1988,
+    "lastYear": 1988
+  },
+  {
     "id": "dolly-parton",
     "name": "Dolly Parton",
     "showCount": 2,
@@ -684,6 +698,13 @@ const ARTISTS = [
     "showCount": 5,
     "firstYear": 1950,
     "lastYear": 1973
+  },
+  {
+    "id": "eddie-vedder-solo",
+    "name": "Eddie Vedder (solo)",
+    "showCount": 152,
+    "firstYear": 1991,
+    "lastYear": 2025
   },
   {
     "id": "eddie-vedder-and-c-average",
@@ -714,13 +735,6 @@ const ARTISTS = [
     "lastYear": 1996
   },
   {
-    "id": "eddie-vedder-solo",
-    "name": "Eddie Vedder (solo)",
-    "showCount": 152,
-    "firstYear": 1991,
-    "lastYear": 2025
-  },
-  {
     "id": "edwin-mccain",
     "name": "Edwin McCain",
     "showCount": 3,
@@ -740,6 +754,13 @@ const ARTISTS = [
     "showCount": 3,
     "firstYear": 1995,
     "lastYear": 1999
+  },
+  {
+    "id": "elder",
+    "name": "Elder",
+    "showCount": 10,
+    "firstYear": 2014,
+    "lastYear": 2025
   },
   {
     "id": "elton-john",
@@ -1059,9 +1080,9 @@ const ARTISTS = [
   {
     "id": "hootie-the-blowfish",
     "name": "Hootie & the Blowfish",
-    "showCount": 0,
-    "firstYear": null,
-    "lastYear": null
+    "showCount": 5,
+    "firstYear": 1995,
+    "lastYear": 2024
   },
   {
     "id": "horace-silver",
@@ -1199,7 +1220,7 @@ const ARTISTS = [
   {
     "id": "jewel",
     "name": "Jewel",
-    "showCount": 62,
+    "showCount": 64,
     "firstYear": 1995,
     "lastYear": 2013
   },
@@ -1220,7 +1241,7 @@ const ARTISTS = [
   {
     "id": "jimmy-eat-world",
     "name": "Jimmy Eat World",
-    "showCount": 26,
+    "showCount": 27,
     "firstYear": 1999,
     "lastYear": 2025
   },
@@ -1360,8 +1381,8 @@ const ARTISTS = [
   {
     "id": "leadbelly",
     "name": "Leadbelly",
-    "showCount": 1,
-    "firstYear": 1949,
+    "showCount": 2,
+    "firstYear": 1940,
     "lastYear": 1949
   },
   {
@@ -1514,7 +1535,7 @@ const ARTISTS = [
   {
     "id": "lynyrd-skynyrd",
     "name": "Lynyrd Skynyrd",
-    "showCount": 35,
+    "showCount": 36,
     "firstYear": 1973,
     "lastYear": 2018
   },
@@ -2844,9 +2865,9 @@ const ARTISTS = [
   {
     "id": "the-temptations",
     "name": "The Temptations",
-    "showCount": 3,
-    "firstYear": 1979,
-    "lastYear": 2025
+    "showCount": 1,
+    "firstYear": 1982,
+    "lastYear": 1982
   },
   {
     "id": "the-urge",
