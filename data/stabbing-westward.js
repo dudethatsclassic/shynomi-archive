@@ -25,10 +25,10 @@ const ARTIST_DATA = {
       "city": "Hollywood",
       "state": "CA",
       "location": "Hollywood, CA",
-      "venue": "The Palace - ANA(M)",
+      "venue": "The Palace",
+      "notes": "ANA(M) · Sony Cassette Recorder · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony Cassette Recorder \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -39,9 +39,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Limelight",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -52,9 +52,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Double Door",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -64,10 +64,10 @@ const ARTIST_DATA = {
       "city": "Cohoes",
       "state": "NY",
       "location": "Cohoes, NY",
-      "venue": "Saratoga Winners - DAT",
+      "venue": "Saratoga Winners",
+      "notes": "DAT(M) · smores",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 smores"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -77,10 +77,10 @@ const ARTIST_DATA = {
       "city": "Mountain View",
       "state": "CA",
       "location": "Mountain View, CA",
-      "venue": "Shoreline Amphitheatre - Live 105 BFD",
+      "venue": "Shoreline Amphitheatre",
+      "notes": "Live · unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -91,9 +91,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Hammerjacks",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -104,9 +104,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Summerfest Live",
+      "notes": "kevdogg transfer",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "kevdogg transfer"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -117,9 +117,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Deep Ellum Live",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -130,9 +130,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Henry W. Maier Festival Park",
+      "notes": "unk",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -142,10 +142,10 @@ const ARTIST_DATA = {
       "city": "Greensboro",
       "state": "NC",
       "location": "Greensboro, NC",
-      "venue": "Fun Fourth Festival - Downtown - ANA(M)",
+      "venue": "Fun Fourth Festival",
+      "notes": "Downtown · M · Realistic · shynomi",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Realistic \u00b7 shynomi"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -156,9 +156,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "Live From the Pit",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Live From the Pit"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -169,9 +169,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
+      "notes": "smores",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "smores"
+      "format": "FLAC 24"
     },
     {
       "year": 1998,
@@ -182,9 +182,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Unknown Venue",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -195,9 +195,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "America West Arena",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -208,9 +208,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Metrolpol",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -221,9 +221,9 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Tulsa, OK",
       "venue": "Cain's Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -234,9 +234,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "The Rave",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -247,9 +247,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Avalon",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -260,9 +260,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "Barbarella",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -272,10 +272,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Don Hill's - VHS",
+      "venue": "Don Hill's",
+      "notes": "VHS(x) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "x \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -286,9 +286,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
+      "notes": "Live at 105 BFD",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Live at 105 BFD"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -299,9 +299,9 @@ const ARTIST_DATA = {
       "state": "NZ",
       "location": "Auckland, NZ",
       "venue": "North Shore Events Centre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -312,9 +312,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Delmar Hall",
+      "notes": "Sony PCM-A10 · shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sony PCM-A10 \u00b7 shane e. calhoon"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
