@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "guster",
   "name": "Guster",
   "drive": "C",
-  "showCount": 842,
+  "showCount": 843,
   "firstYear": 1992,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1992,
     1993,
@@ -39,7 +39,8 @@ const ARTIST_DATA = {
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -10985,6 +10986,19 @@ const ARTIST_DATA = {
       "location": "Lana'i, HI",
       "venue": "Lana'i Ocean Theater",
       "notes": "Four · AKG C414 CLS · dave mallick",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 7,
+      "dateStr": "5-7-2026",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "Pacific Electric",
+      "notes": "Instamic · frye",
       "version": "AUD",
       "format": "FLAC 24"
     }
