@@ -22,10 +22,10 @@ const ARTIST_DATA = {
       "city": "Wilkes-Barre",
       "state": "PA",
       "location": "Wilkes-Barre, PA",
-      "venue": "Homebase - VHS",
+      "venue": "Homebase",
+      "notes": "VHS(x)",
       "version": "AUD",
-      "format": "MPG",
-      "notes": "x"
+      "format": "MPG"
     },
     {
       "year": 2000,
@@ -36,9 +36,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Newport Music Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -49,9 +49,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "The Palace",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -62,9 +62,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Trees",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -75,9 +75,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Majestic Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -88,9 +88,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
+      "notes": "Edirol R09 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Edirol R09 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2018,
@@ -101,9 +101,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Masquerade",
+      "notes": "AT853 · ryanj",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT853 \u00b7 ryanj"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -113,10 +113,10 @@ const ARTIST_DATA = {
       "city": "Hasselt",
       "state": "Belgium",
       "location": "Hasselt, Belgium",
-      "venue": "Domein Kiewit - Pukkelpop",
+      "venue": "Domein Kiewit",
+      "notes": "Pukkelpop",
       "version": "PRO",
-      "format": "MP4",
-      "notes": ""
+      "format": "MP4"
     },
     {
       "year": 2022,
@@ -127,9 +127,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Masquerade",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -140,9 +140,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Victoria Park",
+      "notes": "DPA 4061s · gambra",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 gambra"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
