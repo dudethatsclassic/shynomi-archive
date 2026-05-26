@@ -28,9 +28,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -40,10 +40,10 @@ const ARTIST_DATA = {
       "city": "Raleigh",
       "state": "NC",
       "location": "Raleigh, NC",
-      "venue": "Walnut Creek Amphitheatre - Ozzfest",
+      "venue": "Walnut Creek Amphitheatre",
+      "notes": "Ozzfest · Realistic Minisette-20 · shynomi",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Realistic Minisette-20 \u00b7 shynomi"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -54,9 +54,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "ARCO Arena",
+      "notes": "xpl212",
       "version": "preFM",
-      "format": "FLAC",
-      "notes": "xpl212"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -67,9 +67,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "American West Arena",
+      "notes": "CSB · spaceboy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 spaceboy"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -80,9 +80,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Nurburgring, Germany",
       "venue": "Rock Am Ring",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2003,
@@ -93,9 +93,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Finsbury Park",
+      "notes": "",
       "version": "PRO",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2009,
@@ -105,10 +105,10 @@ const ARTIST_DATA = {
       "city": "Sopron",
       "state": "Hungary",
       "location": "Sopron, Hungary",
-      "venue": "Liver Kemping - Volt Festival",
+      "venue": "Liver Kemping",
+      "notes": "Volt · SP-CMC-4 · ufonight",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4 \u00b7 ufonight"
+      "format": "FLAC"
     },
     {
       "year": 2013,
@@ -119,9 +119,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Rams Head Live",
+      "notes": "AKG CK61 + Shure IEM · jlizard",
       "version": "MIX",
-      "format": "FLAC",
-      "notes": "AKG CK61 + Shure IEM \u00b7 jlizard"
+      "format": "FLAC"
     },
     {
       "year": 2013,
@@ -132,9 +132,9 @@ const ARTIST_DATA = {
       "state": "Brazil",
       "location": "Sao Paulo, Brazil",
       "venue": "Arena Anhembi",
+      "notes": "HDTV Proshot",
       "version": "PRO",
-      "format": "TS",
-      "notes": "HDTV Proshot"
+      "format": "TS"
     },
     {
       "year": 2019,
@@ -145,9 +145,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "The Troubadour",
+      "notes": "Roland R-05 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Roland R-05 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -158,9 +158,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Youngstown, OH",
       "venue": "Covellie Centre",
+      "notes": "AT853U · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT853U \u00b7 live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -171,9 +171,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Ontario, CA",
       "venue": "Toyota Arena",
+      "notes": "SP-CMC-8 · fried_morals",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 fried_morals"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -184,9 +184,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Nunberg, Germany",
       "venue": "Rock im Park",
+      "notes": "CA-14 · rasensteine",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 \u00b7 rasensteine"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -196,10 +196,10 @@ const ARTIST_DATA = {
       "city": "Sacramento",
       "state": "CA",
       "location": "Sacramento, CA",
-      "venue": "Discovery Park - Aftershock Festival",
+      "venue": "Discovery Park",
+      "notes": "Aftershock · Schoeps MK4s · tj",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4s \u00b7 tj"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -209,10 +209,10 @@ const ARTIST_DATA = {
       "city": "Santiago",
       "state": "Chile",
       "location": "Santiago, Chile",
-      "venue": "Banco de Chile Stage - Lollapalooza",
+      "venue": "Banco de Chile Stage",
+      "notes": "Lollapalooza · fstambuk",
       "version": "Webcast",
-      "format": "MKV",
-      "notes": "fstambuk"
+      "format": "MKV"
     },
     {
       "year": 2024,
@@ -223,9 +223,9 @@ const ARTIST_DATA = {
       "state": "Brazil",
       "location": "Sao Paulo, Brazil",
       "venue": "Lollapalooza",
+      "notes": "1080 TV Broadcast",
       "version": "TV",
-      "format": "MP4",
-      "notes": "1080 TV Broadcast"
+      "format": "MP4"
     },
     {
       "year": 2024,
@@ -236,9 +236,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Concord Pavilion",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4s \u00b7 tj"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -249,9 +249,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Bernardino, CA",
       "venue": "Glen Helen Amphitheater",
+      "notes": "Sony PCM-A10 · miguelr",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony PCM-A10 \u00b7 miguelr"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
