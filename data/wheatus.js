@@ -22,9 +22,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "The Main Event",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -35,9 +35,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Leuven, Belgium",
       "venue": "Marktrock",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -48,9 +48,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The Basement",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 \u00b7 live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -61,9 +61,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The Basement",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 \u00b7 live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -74,9 +74,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "A&R Music Bar",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 live2cd"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
