@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "michael-jackson",
   "name": "Michael Jackson",
   "drive": "D",
-  "showCount": 17,
+  "showCount": 18,
   "firstYear": 1987,
   "lastYear": 1997,
   "years": [
@@ -23,9 +23,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Yokohama, Japan",
       "venue": "Yokohama Stadium",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1987,
@@ -36,9 +36,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Brisbane, Australia",
       "venue": "Entertainment Centre",
+      "notes": "inc",
       "version": "PRO",
-      "format": "DVD",
-      "notes": "inc"
+      "format": "DVD"
     },
     {
       "year": 1988,
@@ -49,9 +49,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1988,
@@ -62,9 +62,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Rome, Italy",
       "venue": "Stadio Flaminio *My Way LP",
+      "notes": "",
       "version": "Vinyl",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1988,
@@ -75,9 +75,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Rotterdam",
       "venue": "Stadion Feyenoord",
+      "notes": "Sony WM-D6C",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony WM-D6C"
+      "format": "FLAC"
     },
     {
       "year": 1988,
@@ -87,10 +87,10 @@ const ARTIST_DATA = {
       "city": "Gothenburg",
       "state": "Sweden",
       "location": "Gothenburg, Sweden",
-      "venue": "Eriksberg Shipyard Docks (M)",
+      "venue": "Eriksberg Shipyard Docks",
+      "notes": "M · Marantz EM-8 · kk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Marantz EM-8 \u00b7 kk"
+      "format": "FLAC"
     },
     {
       "year": 1988,
@@ -101,9 +101,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Wembley Stadium",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1988,
@@ -113,10 +113,10 @@ const ARTIST_DATA = {
       "city": "East Rutherford",
       "state": "NJ",
       "location": "East Rutherford, NJ",
-      "venue": "Brendan Byrne Arena   (Two Of Us Master Series Volume 239)",
+      "venue": "Brendan Byrne Arena",
+      "notes": "Two Of Us Master Series Volume 239 · Shure Mic · two of us",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Shure Mic \u00b7 two of us"
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -127,9 +127,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Memorial Sports Arena",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -140,9 +140,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Memorial Sports Arena",
+      "notes": "Kai 2021 Transfer",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Kai 2021 Transfer"
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -153,9 +153,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Wembley Stadium",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -166,9 +166,9 @@ const ARTIST_DATA = {
       "state": "Romania",
       "location": "Bucharest, Romania",
       "venue": "National Concert Hall  *Black and Live",
+      "notes": "RRC 011",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "RRC 011"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -179,9 +179,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Brunei",
       "venue": "Jerudong Park Garden *Michael Jackson New Year's eve In Brunei",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -192,9 +192,9 @@ const ARTIST_DATA = {
       "state": "NZ - Ericcson Stadium *Destination Auckland {KOP 911}",
       "location": "Auckland, NZ - Ericcson Stadium *Destination Auckland {KOP 911}",
       "venue": "",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -204,10 +204,10 @@ const ARTIST_DATA = {
       "city": "Munchen",
       "state": "Germany",
       "location": "Munchen, Germany",
-      "venue": "Olympic Stadium *The King Is Alive - SBD",
+      "venue": "Olympic Stadium *The King Is Alive",
+      "notes": "SBD · OPT 14-15",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": "OPT 14-15"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -218,9 +218,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Live History World Tour",
+      "notes": "SATRip",
       "version": "TV",
-      "format": "TS",
-      "notes": "SATRip"
+      "format": "TS"
     },
     {
       "year": 1997,
@@ -231,9 +231,22 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Parken",
+      "notes": "Homemade stereo mics · kingkeld",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Homemade stereo mics \u00b7 kingkeld"
+      "format": "FLAC"
+    },
+    {
+      "year": 1997,
+      "month": 8,
+      "day": 16,
+      "dateStr": "8-16-1997",
+      "city": "Gothenburg",
+      "state": "SWE",
+      "location": "Gothenburg, SWE",
+      "venue": "Ullevi Stadium",
+      "notes": "",
+      "version": "",
+      "format": ""
     }
   ],
   "misc": [
