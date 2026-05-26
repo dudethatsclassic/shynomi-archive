@@ -17,10 +17,11 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "Slim's - ANA(M)",
+      "venue": "Slim's",
+      "notes": "ANA(M) · ECM-909 · tjcruz",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-909 \u00b7 tjcruz"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
