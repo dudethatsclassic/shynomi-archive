@@ -2,13 +2,27 @@ const ARTIST_DATA = {
   "id": "squarepusher",
   "name": "Squarepusher",
   "drive": "B",
-  "showCount": 1,
-  "firstYear": 2023,
+  "showCount": 2,
+  "firstYear": 1996,
   "lastYear": 2023,
   "years": [
+    1996,
     2023
   ],
   "shows": [
+    {
+      "year": 1996,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1996",
+      "city": "Lille France",
+      "state": "",
+      "location": "Lille France",
+      "venue": "Unknown Venue",
+      "notes": "",
+      "version": "AUD",
+      "format": "FLV"
+    },
     {
       "year": 2023,
       "month": 6,
@@ -18,9 +32,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "170 Russell",
+      "notes": "Zoom H1n · claire laura fredriksson",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Zoom H1n \u00b7 claire laura fredriksson"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
