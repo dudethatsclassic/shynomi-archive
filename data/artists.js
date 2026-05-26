@@ -450,9 +450,9 @@ const ARTISTS = [
   {
     "id": "chris-stapleton",
     "name": "Chris Stapleton",
-    "showCount": 6,
+    "showCount": 5,
     "firstYear": 2016,
-    "lastYear": 2023
+    "lastYear": 2018
   },
   {
     "id": "chuck-berry",
@@ -544,6 +544,13 @@ const ARTISTS = [
     "showCount": 1,
     "firstYear": 2017,
     "lastYear": 2017
+  },
+  {
+    "id": "darius-rucker",
+    "name": "Darius Rucker",
+    "showCount": 1,
+    "firstYear": 2023,
+    "lastYear": 2023
   },
   {
     "id": "darlene-love-and-ronnie-spector",
@@ -1367,9 +1374,9 @@ const ARTISTS = [
   {
     "id": "lainey-wilson",
     "name": "Lainey Wilson",
-    "showCount": 5,
+    "showCount": 6,
     "firstYear": 2022,
-    "lastYear": 2024
+    "lastYear": 2026
   },
   {
     "id": "leadbelly",
@@ -2151,9 +2158,9 @@ const ARTISTS = [
   {
     "id": "reba-mcentire",
     "name": "Reba McEntire",
-    "showCount": 2,
+    "showCount": 1,
     "firstYear": 1985,
-    "lastYear": 2002
+    "lastYear": 1985
   },
   {
     "id": "red-hot-chili-peppers",
@@ -2968,6 +2975,13 @@ const ARTISTS = [
     "lastYear": 2017
   },
   {
+    "id": "toby-keith",
+    "name": "Toby Keith",
+    "showCount": 1,
+    "firstYear": 2002,
+    "lastYear": 2002
+  },
+  {
     "id": "tom-morello",
     "name": "Tom Morello",
     "showCount": 4,
@@ -3078,6 +3092,13 @@ const ARTISTS = [
     "showCount": 1,
     "firstYear": 2025,
     "lastYear": 2025
+  },
+  {
+    "id": "various-country",
+    "name": "Various Country",
+    "showCount": 2,
+    "firstYear": 1987,
+    "lastYear": 1992
   },
   {
     "id": "velocity-girl",
