@@ -17,10 +17,11 @@ const ARTIST_DATA = {
       "city": "Montego Bay",
       "state": "Jamaica",
       "location": "Montego Bay, Jamaica",
-      "venue": "Jamaica World Music Festival. - CASS",
+      "venue": "Jamaica World Music Festival.",
+      "notes": "CASS(M)",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "M"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
