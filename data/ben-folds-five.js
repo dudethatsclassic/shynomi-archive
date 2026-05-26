@@ -24,9 +24,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Mercury Cafe",
+      "notes": "Binaural mics · marcr",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Binaural mics \u00b7 marcr"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -37,9 +37,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Maxwell's",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -50,9 +50,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro *Transmissions From Jupiter",
+      "notes": "",
       "version": "TV",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1997,
@@ -63,9 +63,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Central Park SummerStage",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -76,9 +76,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "East Troy, WI",
       "venue": "Alpine Valley",
+      "notes": "cps",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "cps"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -88,10 +88,10 @@ const ARTIST_DATA = {
       "city": "Saratoga NY",
       "state": "",
       "location": "Saratoga NY",
-      "venue": "Saratoga Performing Arts Center - Horde Fest",
+      "venue": "Saratoga Performing Arts Center",
+      "notes": "Horde · Sony D7 · beerengineer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony D7 \u00b7 beerengineer"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -102,22 +102,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Supper Club",
+      "notes": "",
       "version": "SBD",
-      "format": "SHN",
-      "notes": ""
-    },
-    {
-      "year": 1997,
-      "month": 11,
-      "day": 9,
-      "dateStr": "11-9-1997",
-      "city": "Philadelphia",
-      "state": "PA",
-      "location": "Philadelphia, PA",
-      "venue": "Electric Factory - DAT(M)",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Gefell + M20 \u00b7 Unknown"
+      "format": "SHN"
     },
     {
       "year": 1997,
@@ -128,9 +115,22 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
+      "notes": "DAT(M) · Gefell + M20 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Nak 300s \u00b7 lee schusterman + joey mutis"
+      "format": "FLAC"
+    },
+    {
+      "year": 1997,
+      "month": 11,
+      "day": 9,
+      "dateStr": "11-9-1997",
+      "city": "Philadelphia",
+      "state": "PA",
+      "location": "Philadelphia, PA",
+      "venue": "Electric Factory",
+      "notes": "Nak 300s · lee schusterman + joey mutis",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -140,10 +140,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "Fillmore - DAT",
+      "venue": "Fillmore",
+      "notes": "DAT(M)",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "M"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -154,9 +154,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Electric Factory",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -167,9 +167,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Giants Stadium",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -179,10 +179,10 @@ const ARTIST_DATA = {
       "city": "Las Vegas",
       "state": "NV",
       "location": "Las Vegas, NV",
-      "venue": "House of Blues - DAT(M)",
+      "venue": "House of Blues",
+      "notes": "DAT(M) · ECM-12 · luke freteluco",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-12 \u00b7 luke freteluco"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -193,9 +193,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "International Forum *Freaking Out",
+      "notes": "DVD audio",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "DVD audio"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -206,9 +206,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "International Forum *Freaking Out",
+      "notes": "",
       "version": "PRO",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2008,
@@ -218,10 +218,10 @@ const ARTIST_DATA = {
       "city": "Chapel Hill",
       "state": "NC",
       "location": "Chapel Hill, NC",
-      "venue": "Memorial Hall - The Unauthorized Biography Of Reinhold Messner Live Reunion - MySpace Front To Back",
+      "venue": "Memorial Hall",
+      "notes": "The",
       "version": "PRO",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2012,
@@ -232,9 +232,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Hunter, NY",
       "venue": "Mountain Jam",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -245,9 +245,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
+      "notes": "Edirol R09",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R09"
+      "format": "FLAC"
     }
   ],
   "misc": [
