@@ -20,9 +20,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "",
-      "notes": "unk \u00b7 neekrive"
+      "format": ""
     },
     {
       "year": 2007,
@@ -33,9 +33,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "930 Club",
+      "notes": "unk",
       "version": "AUD",
-      "format": "",
-      "notes": "Unknown"
+      "format": ""
     },
     {
       "year": 2009,
@@ -46,9 +46,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Northampton, MA",
       "venue": "Pearl Street Ballroom (Zoom H2) (bcc32065) (2025 remaster) [",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": "bcc32065 \u00b7 2025 remaster"
+      "format": ""
     }
-  ]
+  ],
+  "misc": []
 };
