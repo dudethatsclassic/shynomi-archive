@@ -952,6 +952,13 @@ const ARTISTS = [
     "lastYear": 2025
   },
   {
+    "id": "golden-smog",
+    "name": "Golden Smog",
+    "showCount": 16,
+    "firstYear": 1994,
+    "lastYear": 2006
+  },
+  {
     "id": "goldfinger",
     "name": "Goldfinger",
     "showCount": 4,
@@ -1177,6 +1184,13 @@ const ARTISTS = [
   },
   {
     "id": "jeff-tweedy-and-friends",
+    "name": "Jeff Tweedy & Friends",
+    "showCount": 12,
+    "firstYear": 1996,
+    "lastYear": 2024
+  },
+  {
+    "id": "jeff-tweedy-friends",
     "name": "Jeff Tweedy & Friends",
     "showCount": 12,
     "firstYear": 1996,
@@ -2809,8 +2823,8 @@ const ARTISTS = [
   {
     "id": "the-minus-5-and-wilco",
     "name": "The Minus 5 and Wilco",
-    "showCount": 26,
-    "firstYear": 1994,
+    "showCount": 10,
+    "firstYear": 2000,
     "lastYear": 2025
   },
   {
@@ -3082,7 +3096,7 @@ const ARTISTS = [
   {
     "id": "uncle-tupelo",
     "name": "Uncle Tupelo",
-    "showCount": 75,
+    "showCount": 77,
     "firstYear": 1988,
     "lastYear": 1994
   },
@@ -3159,7 +3173,7 @@ const ARTISTS = [
   {
     "id": "wilco",
     "name": "Wilco",
-    "showCount": 1263,
+    "showCount": 1121,
     "firstYear": 1994,
     "lastYear": 2026
   },
