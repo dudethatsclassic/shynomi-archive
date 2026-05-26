@@ -26,9 +26,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Knitting Factory",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -38,10 +38,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "CBGBs - ANA(M",
+      "venue": "CBGBs",
+      "notes": "ANA(M (mat leffler-schulman transfer) · 24/44.1",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "mat leffler-schulman transfer · 24/44.1"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -51,10 +51,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "CBGBs - ANA(M)",
+      "venue": "CBGBs",
+      "notes": "ANA(M) · mat leffler-schulman transfer · 24/44.1",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "mat leffler-schulman transfer · 24/44.1"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -64,10 +64,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "CBGBs - ANA(M)",
+      "venue": "CBGBs",
+      "notes": "ANA(M) · mat leffler-schulman transfer · 24/44.1",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "mat leffler-schulman transfer · 24/44.1"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -77,10 +77,10 @@ const ARTIST_DATA = {
       "city": "Amsterdam",
       "state": "Holland",
       "location": "Amsterdam, Holland",
-      "venue": "Melkweg - ANA(M)",
+      "venue": "Melkweg",
+      "notes": "ANA(M) · rene meister · 24/44.1",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "rene meister · 24/44.1"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -90,10 +90,10 @@ const ARTIST_DATA = {
       "city": "Manhattan",
       "state": "NY",
       "location": "Manhattan, NY",
-      "venue": "The Knitting Factory - ANA(M)",
+      "venue": "The Knitting Factory",
+      "notes": "ANA(M) · mat leffler-schulman transfer · 24/44.1",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "mat leffler-schulman transfer · 24/44.1"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -104,9 +104,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW",
+      "notes": "",
       "version": "FM",
-      "format": "MP3",
-      "notes": ""
+      "format": "MP3"
     },
     {
       "year": 1995,
@@ -116,10 +116,10 @@ const ARTIST_DATA = {
       "city": "Denver",
       "state": "CO",
       "location": "Denver, CO",
-      "venue": "Bluebird Theatre - DAT(M)",
+      "venue": "Bluebird Theatre",
+      "notes": "DAT(M) · Binaurals · marcr",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Binaurals · marcr"
+      "format": "FLAC 24"
     },
     {
       "year": 1995,
@@ -130,9 +130,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Mercury Lounge",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -143,9 +143,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Mercury Lounge",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC 24",
-      "notes": ""
+      "format": "FLAC 24"
     },
     {
       "year": 1996,
@@ -155,10 +155,10 @@ const ARTIST_DATA = {
       "city": "Minneapolis",
       "state": "MN",
       "location": "Minneapolis, MN",
-      "venue": "Let It Be Records - DAT(M)",
+      "venue": "Let It Be Records",
+      "notes": "DAT(M) · DSM6 · jay saari",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DSM6 · jay saari"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -169,9 +169,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Khyber Pass Pub",
+      "notes": "CSB · zrrbrrt",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB · zrrbrrt"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -181,10 +181,10 @@ const ARTIST_DATA = {
       "city": "San Jose",
       "state": "CA",
       "location": "San Jose, CA",
-      "venue": "Spartan Stadium - Lollapalooza",
+      "venue": "Spartan Stadium",
+      "notes": "Lollapalooza · unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk · neekrive"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -195,9 +195,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theater",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -207,10 +207,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Roseland Ballroom - ANA(M)",
+      "venue": "Roseland Ballroom",
+      "notes": "ANA(M) · mat leffler-schulman transfer · 24/44.1",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "mat leffler-schulman transfer · 24/44.1"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -220,10 +220,10 @@ const ARTIST_DATA = {
       "city": "West Hollywood",
       "state": "CA",
       "location": "West Hollywood, CA",
-      "venue": "Tower Records - ANA",
+      "venue": "Tower Records",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -233,10 +233,10 @@ const ARTIST_DATA = {
       "city": "Biddinghuizen",
       "state": "The Netherlands",
       "location": "Biddinghuizen, The Netherlands",
-      "venue": "Walibi Flevo - Lowlands Festival",
+      "venue": "Walibi Flevo",
+      "notes": "Lowlands",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -247,9 +247,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Winooski, VT",
       "venue": "Higher Ground",
+      "notes": "Neumann KM184 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Neumann KM184 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -260,9 +260,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
+      "notes": "Schoeps CMC6-MK4 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CMC6-MK4 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -273,9 +273,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "930 Club",
+      "notes": "unk",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -286,9 +286,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "CA-11 · vortexzephyr",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA-11 · vortexzephyr"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -299,9 +299,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "MG M300s · michael zelner",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "MG M300s · michael zelner"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -312,9 +312,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4s · tj"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -325,9 +325,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Terminal 5",
+      "notes": "CA-11 · larryrulz",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11 · larryrulz"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -338,9 +338,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Eastern",
+      "notes": "CA-14 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -351,9 +351,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "The Sylvee",
+      "notes": "Zoom H1N · pael",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H1N · pael"
+      "format": "FLAC"
     }
   ],
   "misc": [
