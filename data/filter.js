@@ -27,10 +27,10 @@ const ARTIST_DATA = {
       "city": "Baltimore",
       "state": "MD",
       "location": "Baltimore, MD",
-      "venue": "Hammerjacks - DAT",
+      "venue": "Hammerjacks",
+      "notes": "DAT(M) · jr",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "M \u00b7 jr"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -41,9 +41,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Agora Theatre",
+      "notes": "CSB · jlizard",
       "version": "AUD (48k)",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 jlizard"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -54,9 +54,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Westwood One",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -67,9 +67,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Gainesville, FL",
       "venue": "The Palace Theatre",
+      "notes": "CSB · dunebug81",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 dunebug81"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -79,10 +79,10 @@ const ARTIST_DATA = {
       "city": "Royal Oak",
       "state": "MI",
       "location": "Royal Oak, MI",
-      "venue": "Royal Oak Music Theater (Sharp MD-SR60)",
+      "venue": "Royal Oak Music Theater",
+      "notes": "Sharp MD-SR60 · Sony ECM-DS70 · gladcarrot",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-DS70 \u00b7 gladcarrot"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -93,9 +93,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "Gatorz",
+      "notes": "HEB DPA 4060 · charles dewey cole",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "HEB DPA 4060 \u00b7 charles dewey cole"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -106,9 +106,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "Birmingham-Jefferson Convention Complex Parking Lot",
+      "notes": "DPA 4061s · dunebug81",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 dunebug81"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -119,9 +119,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Merrionette Park, IL",
       "venue": "115 Bourbon Street",
+      "notes": "Sony PCM M10 · auger_d",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony PCM M10 \u00b7 auger_d"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -132,9 +132,9 @@ const ARTIST_DATA = {
       "state": "AK",
       "location": "Fairbanks, AK",
       "venue": "Blue Loon",
+      "notes": "steve h",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "steve h"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -145,9 +145,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Paducah , KY",
       "venue": "Robert Cherry Civic Center",
+      "notes": "berry byassee",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "berry byassee"
+      "format": "DVD"
     },
     {
       "year": 2023,
@@ -158,9 +158,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Concord Pavilion",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4s \u00b7 tj"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -171,9 +171,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -184,9 +184,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Im Wizemann",
+      "notes": "Schoeps MK41V · sebi2704",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK41V \u00b7 sebi2704"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -197,9 +197,9 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Hamburg, DE",
       "venue": "Knust",
+      "notes": "Zoom H2n · jon toft",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Zoom H2n \u00b7 jon toft"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -210,9 +210,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Xfinity Center",
+      "notes": "SP-CMC-8c · farve4",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8c \u00b7 farve4"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -223,9 +223,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -235,10 +235,10 @@ const ARTIST_DATA = {
       "city": "Columbus",
       "state": "OH",
       "location": "Columbus, OH",
-      "venue": "Sonic Temple Festival - Sanctuary Stage",
+      "venue": "Sonic Temple Festival",
+      "notes": "Sanctuary · Schoeps MK4 · jesse mc",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 jesse mc"
+      "format": "FLAC 24"
     },
     {
       "year": 2026,
@@ -249,9 +249,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "The Hi-Fi",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 \u00b7 live2cd"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
