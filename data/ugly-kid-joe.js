@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "ugly-kid-joe",
   "name": "Ugly Kid Joe",
   "drive": "A",
-  "showCount": 11,
+  "showCount": 10,
   "firstYear": 1992,
   "lastYear": 2025,
   "years": [
@@ -23,9 +23,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Z-Rock Broadcast",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -35,10 +35,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Avalon - ANA",
+      "venue": "Avalon",
+      "notes": "ANA(x) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "x \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -49,9 +49,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Great Woods Center for the Performing Arts",
+      "notes": "kixdude",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "kixdude"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -62,9 +62,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Allentown, PA",
       "venue": "Fairgrounds",
+      "notes": "Sony D3 · koondog",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony D3 \u00b7 koondog"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -75,9 +75,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Melbourne, AUS",
       "venue": "Palace Theatre",
+      "notes": "DPA MMC4011s · roman79",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA MMC4011s \u00b7 roman79"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -88,9 +88,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Glasgow, UK",
       "venue": "SEC Armadillo",
+      "notes": "Olympus LS-P1 · keiths34",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Olympus LS-P1 \u00b7 keiths34"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -101,9 +101,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "The Resorts World Arena",
+      "notes": "SP-CMC-8 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -114,9 +114,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London UK",
       "venue": "Wembley OVO Arena",
+      "notes": "Olympus LS-P1 · kieths34",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Olympus LS-P1 \u00b7 kieths34"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -127,9 +127,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Bakkt Theatre",
+      "notes": "SP-CMC-4U · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-4U \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -140,22 +140,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Wacken, Germany",
       "venue": "Hauptstrasse",
+      "notes": "1080p · Magentamusik",
       "version": "PRO",
-      "format": "MP4",
-      "notes": "1080p \u00b7 Magentamusik"
-    },
-    {
-      "year": 2025,
-      "month": 3,
-      "day": 28,
-      "dateStr": "3-28-2025",
-      "city": "Inglewood",
-      "state": "CA",
-      "location": "Inglewood, CA",
-      "venue": "Kia Forum",
-      "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "MP4"
     }
-  ]
+  ],
+  "misc": []
 };
