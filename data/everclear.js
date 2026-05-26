@@ -31,9 +31,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Ventura, CA",
       "venue": "Ventura Theater",
+      "notes": "WW1",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "WW1"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -43,10 +43,10 @@ const ARTIST_DATA = {
       "city": "Santa Monica",
       "state": "CA",
       "location": "Santa Monica, CA",
-      "venue": "Santa Monica Pier - CASS",
+      "venue": "Santa Monica Pier",
+      "notes": "CASS(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -57,9 +57,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oakland-Alameda County Coliseum Arena",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -70,9 +70,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Opera House",
+      "notes": "M · unk",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -83,9 +83,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -96,9 +96,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universaly City, CA",
       "venue": "Universal Amphitheatre",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -109,9 +109,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -121,10 +121,10 @@ const ARTIST_DATA = {
       "city": "Irvine",
       "state": "CA",
       "location": "Irvine, CA",
-      "venue": "Irvine Meadows - CASS",
+      "venue": "Irvine Meadows",
+      "notes": "CASS(M)",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -135,9 +135,9 @@ const ARTIST_DATA = {
       "state": "CA - Sacramento Memorial Auditorium (unk)",
       "location": "Sacramento, CA - Sacramento Memorial Auditorium (unk)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -148,9 +148,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Loveline",
       "venue": "",
+      "notes": "",
       "version": "FM",
-      "format": "MP3",
-      "notes": ""
+      "format": "MP3"
     },
     {
       "year": 2000,
@@ -161,9 +161,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -174,9 +174,9 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Hilton Head, SC",
       "venue": "Monkey Business",
+      "notes": "Studio Projects C4s · jcrab66",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Studio Projects C4s \u00b7 jcrab66"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -187,9 +187,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Blind Pig",
+      "notes": "STC-9000 · paramnesiac",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "STC-9000 \u00b7 paramnesiac"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -200,9 +200,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Gothic Theater",
+      "notes": "Core Sound LCBs · brianblank",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Core Sound LCBs \u00b7 brianblank"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -213,9 +213,9 @@ const ARTIST_DATA = {
       "state": "Alberta",
       "location": "Edmonton, Alberta",
       "venue": "Cowboys",
+      "notes": "SP-CMC-2 · sean gursky",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 sean gursky"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -226,9 +226,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "Birmingham-Jefferson Convention Complex Parking Lot",
+      "notes": "DPA 4061s · dunebug81",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 dunebug81"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -239,9 +239,9 @@ const ARTIST_DATA = {
       "state": "ONT",
       "location": "Niagara Falls, ONT",
       "venue": "Avalon Ballroom",
+      "notes": "CA14s · binko",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA14s \u00b7 binko"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
@@ -252,9 +252,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Columbia, IL",
       "venue": "Songs For Soldiers",
+      "notes": "Neumann SKM 184 · shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Neumann SKM 184 \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -265,9 +265,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Wiltern",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -278,9 +278,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Rocklin, CA",
       "venue": "Quarry Park Amphitheatre",
+      "notes": "SP-CMC-4U · vibrioidxire",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-4U \u00b7 vibrioidxire"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -291,9 +291,9 @@ const ARTIST_DATA = {
       "state": "NY /- Sharkey's Event Center (inc Soundcheck) (MK41) (beatkilla)",
       "location": "Liverpool, NY /- Sharkey's Event Center (inc Soundcheck) (MK41) (beatkilla)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": ""
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -304,9 +304,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Regent Theater",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -317,9 +317,9 @@ const ARTIST_DATA = {
       "state": "MS",
       "location": "Biloxi, MS",
       "venue": "Mississppi Coast Coliseum",
+      "notes": "Schoeps MK4 · jesse mc",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 jesse mc"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -330,9 +330,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "The Plaza Theatre",
+      "notes": "Panasonic MM-BSM7s · kevdogg",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Panasonic MM-BSM7s \u00b7 kevdogg"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -343,9 +343,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Ponte Vedra, FL",
       "venue": "Ponte Vedra Concert Hall",
+      "notes": "Panasonic MM-BSM-7s · kevdogg",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Panasonic MM-BSM-7s \u00b7 kevdogg"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -355,10 +355,10 @@ const ARTIST_DATA = {
       "city": "Charlotte",
       "state": "NC",
       "location": "Charlotte, NC",
-      "venue": "Neighborhood Theatre (M)",
+      "venue": "Neighborhood Theatre",
+      "notes": "M · Shure MV88 · shynomi",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Shure MV88 \u00b7 shynomi"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -369,9 +369,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 live2cd"
+      "format": "FLAC"
     }
   ],
   "misc": [
