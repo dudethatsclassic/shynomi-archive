@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "wilco",
   "name": "Wilco",
   "drive": "E",
-  "showCount": 1122,
+  "showCount": 1123,
   "firstYear": 1994,
   "lastYear": 2026,
   "years": [
@@ -11854,7 +11854,7 @@ const ARTIST_DATA = {
       "location": "Port Chester, NY",
       "venue": "Capitol Theatre",
       "notes": "1-channel mono",
-      "version": "AUD",
+      "version": "SBD",
       "format": ""
     },
     {
@@ -14625,6 +14625,19 @@ const ARTIST_DATA = {
       "notes": "DPA 4061 · robotaper",
       "version": "AUD",
       "format": ""
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 8,
+      "dateStr": "5-8-2026",
+      "city": "Albuquerque",
+      "state": "NM",
+      "location": "Albuquerque, NM",
+      "venue": "University of NM",
+      "notes": "Popejoy · SP-BMC-3 · boyroy",
+      "version": "AUD",
+      "format": ""
     }
   ],
   "misc": [
@@ -14671,6 +14684,10 @@ const ARTIST_DATA = {
     {
       "type": "label",
       "label": "Wilco - Live (Blue) (2025)"
+    },
+    {
+      "type": "label",
+      "label": "Wilco - Wilco Live (Yellow) (2026)"
     },
     {
       "type": "label",
