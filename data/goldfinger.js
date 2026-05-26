@@ -20,9 +20,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bill Graham Civic Auditorium",
+      "notes": "unk · inc",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 inc"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -33,9 +33,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -45,10 +45,10 @@ const ARTIST_DATA = {
       "city": "Orlando",
       "state": "FL",
       "location": "Orlando, FL",
-      "venue": "UCF Arena - MD(M)",
+      "venue": "UCF Arena",
+      "notes": "MD(M) · CSB · dunebug81",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 dunebug81"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -59,9 +59,10 @@ const ARTIST_DATA = {
       "state": "CA - House of Blues (DPA 4081) (faninor)",
       "location": "Anaheim, CA - House of Blues (DPA 4081) (faninor)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": ""
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
