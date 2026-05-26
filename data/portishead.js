@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "American Legion Hall",
+      "notes": "ECM-737 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-737 \u00b7 Unknown"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
