@@ -26,10 +26,10 @@ const ARTIST_DATA = {
       "city": "Enger",
       "state": "West Germany",
       "location": "Enger, West Germany",
-      "venue": "Forum (Sony WM-D3)",
+      "venue": "Forum",
+      "notes": "Sony WM-D3 · bobfather · 2022 transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "bobfather \u00b7 2022 transfer"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -40,9 +40,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Bochum, Germany",
       "venue": "Logo",
+      "notes": "Aiwa CM-30 · bobfather",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Aiwa CM-30 \u00b7 bobfather"
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -53,9 +53,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "T.T. The Bear's Place",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 1991,
@@ -65,10 +65,10 @@ const ARTIST_DATA = {
       "city": "Genoa",
       "state": "Italy",
       "location": "Genoa, Italy",
-      "venue": "Coccodrillo - VHS",
+      "venue": "Coccodrillo",
+      "notes": "VHS(1) · pluscenti",
       "version": "AUD",
-      "format": "MKV",
-      "notes": "1 \u00b7 pluscenti"
+      "format": "MKV"
     },
     {
       "year": 1992,
@@ -79,9 +79,9 @@ const ARTIST_DATA = {
       "state": "NY - CBGB - ANA(M) (Sony 929) (scott simpson)",
       "location": "New York, NY - CBGB - ANA(M) (Sony 929) (scott simpson)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -92,9 +92,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theater",
+      "notes": "Remaster · oceanaudio",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Remaster \u00b7 oceanaudio"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -105,9 +105,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Biddinghuizen, The Netherlands",
       "venue": "Lowlands Festival",
+      "notes": "Dutch Radio",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Dutch Radio"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -118,9 +118,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -131,9 +131,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Commodore Ballroom *Spring Floor",
+      "notes": "KTS",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": "KTS"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -144,9 +144,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
+      "notes": "Remaster · oceanaudio",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Remaster \u00b7 oceanaudio"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -157,9 +157,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
+      "notes": "Sony ECM-909a · manofstealth",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-909a \u00b7 manofstealth"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -170,9 +170,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Paradiso",
+      "notes": "Tascam DR-01 · mr. wulf",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Tascam DR-01 \u00b7 mr. wulf"
+      "format": "FLAC"
     },
     {
       "year": 2021,
@@ -183,9 +183,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Big Night Live",
+      "notes": "CA-11 · steve hanna",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11 \u00b7 steve hanna"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -196,9 +196,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
+      "notes": "CA-11 · manofstealth",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA-11 \u00b7 manofstealth"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -209,9 +209,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Eindhoven, The Netherlands",
       "venue": "Grote Zaal",
+      "notes": "Zoom H4N · minimax",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H4N \u00b7 minimax"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -222,9 +222,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Somerville, MA",
       "venue": "Arts at the Armory",
+      "notes": "SP-CMC-8 · manofstealth",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 manofstealth"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -235,9 +235,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Somerville, MA",
       "venue": "Arts at the Armory",
+      "notes": "SP-CMC-8 · manofstealth",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 manofstealth"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
