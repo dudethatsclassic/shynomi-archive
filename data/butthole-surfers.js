@@ -20,9 +20,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB's",
+      "notes": "Aiwa CM30 · tapegeek",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Aiwa CM30 \u00b7 tapegeek"
+      "format": "FLAC"
     },
     {
       "year": 1985,
@@ -33,9 +33,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Rotterdam, The Netherlands",
       "venue": "Pandoras Music Box",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1986,
@@ -46,9 +46,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB'S",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1986,
@@ -58,10 +58,10 @@ const ARTIST_DATA = {
       "city": "Hilversum",
       "state": "Netherlands",
       "location": "Hilversum, Netherlands",
-      "venue": "e?Backlinei? - VPRO-FM",
+      "venue": "ëBacklineí",
+      "notes": "VPRO-FM · notsaved",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "notsaved"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -71,10 +71,11 @@ const ARTIST_DATA = {
       "city": "Unknown City",
       "state": "",
       "location": "Unknown City",
-      "venue": "Unknown Venue - *Tejass - Live in Pepperland",
+      "venue": "Unknown Venue",
+      "notes": "*Tejass · Stryder LTD 026",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": "Stryder LTD 026"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
