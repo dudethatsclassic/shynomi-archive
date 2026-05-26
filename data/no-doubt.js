@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Sports Arena",
+      "notes": "Realistic Walkman · michael cariola",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Realistic Walkman \u00b7 michael cariola"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
