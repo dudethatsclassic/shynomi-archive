@@ -24,10 +24,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "The Late Show with David Letterman - VHS",
+      "venue": "The Late Show with David Letterman",
+      "notes": "VHS(2)",
       "version": "TV",
-      "format": "MKV",
-      "notes": "2"
+      "format": "MKV"
     },
     {
       "year": 1995,
@@ -38,9 +38,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -50,10 +50,10 @@ const ARTIST_DATA = {
       "city": "San Jose",
       "state": "CA",
       "location": "San Jose, CA",
-      "venue": "Spartan Stadium - Lollapalooza",
+      "venue": "Spartan Stadium",
+      "notes": "Lollapalooza · unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -64,9 +64,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Concord Pavilion",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -77,9 +77,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Johnson City, TN",
       "venue": "Gatsby's",
+      "notes": "CSBs · geordy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSBs \u00b7 geordy"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -90,9 +90,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Magic Stick",
+      "notes": "Church STC-11 · pothole productions",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Church STC-11 \u00b7 pothole productions"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -103,9 +103,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The King of Clubs",
+      "notes": "CA-14 · charles dewey cole",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 \u00b7 charles dewey cole"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -116,9 +116,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Commodore Ballroom",
+      "notes": "CA-11 · leifh",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11 \u00b7 leifh"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -129,9 +129,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "The Parish at House of Blues",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -142,9 +142,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Clinton Square",
+      "notes": "AKGck61 · beatkilla",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "AKGck61 \u00b7 beatkilla"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -155,9 +155,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Liverpool, NY",
       "venue": "Sharkey's Event Center",
+      "notes": "Schoeps MK4 · beatkilla",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 beatkilla"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -168,9 +168,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Clinton Square",
+      "notes": "Sennheiser MKE1 · beatkilla",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sennheiser MKE1 \u00b7 beatkilla"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -181,9 +181,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Goldfield Trading Post",
+      "notes": "SP-CMC-4U · vibrioidxire",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-4U \u00b7 vibrioidxire"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -194,9 +194,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Charles, MO",
       "venue": "Family Arena",
+      "notes": "Sony PCM-A10 · shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sony PCM-A10 \u00b7 shane e. calhoon"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -207,9 +207,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "The Plaza Theatre",
+      "notes": "Panasonic MM-BSM7s · kevdogg",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Panasonic MM-BSM7s \u00b7 kevdogg"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -219,10 +219,10 @@ const ARTIST_DATA = {
       "city": "Charlotte",
       "state": "NC",
       "location": "Charlotte, NC",
-      "venue": "Neighborhood Theatre (M)",
+      "venue": "Neighborhood Theatre",
+      "notes": "M · Shure MV88 · shynomi",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Shure MV88 \u00b7 shynomi"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -233,9 +233,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 live2cd"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
