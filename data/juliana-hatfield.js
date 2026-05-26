@@ -26,9 +26,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Victoria, BC",
       "venue": "Harpo's Cabaret",
+      "notes": "Sony WM-F46 · crowflies",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony WM-F46 \u00b7 crowflies"
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -38,10 +38,10 @@ const ARTIST_DATA = {
       "city": "Charleston",
       "state": "WV",
       "location": "Charleston, WV",
-      "venue": "Mountain Stage (Juliana Hatfield 3) - ANA",
+      "venue": "Mountain Stage (Juliana Hatfield 3)",
+      "notes": "ANA(M)",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Juliana Hatfield 3 \u00b7 M"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -51,10 +51,10 @@ const ARTIST_DATA = {
       "city": "Koln",
       "state": "GER",
       "location": "Koln, GER",
-      "venue": "Luxor - ANA(M)",
+      "venue": "Luxor",
+      "notes": "ANA(M) · Sony PC-62 · buenaventura",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony PC-62 \u00b7 buenaventura"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -65,9 +65,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Ballard, WA",
       "venue": "Ballard Backstage Tavern *You Don't Own Me",
+      "notes": "AKO112",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": "AKO112"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -77,10 +77,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "Great American Music Hall - ANA(M)",
+      "venue": "Great American Music Hall",
+      "notes": "ANA(M) · ECM-909 · tjcruz",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-909 \u00b7 tjcruz"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -91,9 +91,9 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "Paris, FR",
       "venue": "Maison de la radio Black Session Unplugged",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -103,10 +103,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Central Park - Summerstage (Juliana Hatfield Three) - DAT",
+      "venue": "Central Park",
+      "notes": "Summerstage · Juliana Hatfield Three · M",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Juliana Hatfield Three \u00b7 M"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -117,9 +117,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Opera House",
+      "notes": "CBC-FM · stevemtl",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "CBC-FM \u00b7 stevemtl"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -130,9 +130,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Knitting Factory",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -142,10 +142,10 @@ const ARTIST_DATA = {
       "city": "Albany",
       "state": "NY",
       "location": "Albany, NY",
-      "venue": "Bogie's - CASS",
+      "venue": "Bogie's",
+      "notes": "CASS(1)",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "1"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -155,10 +155,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "Virgin Megastore - AUD",
+      "venue": "Virgin Megastore",
+      "notes": "AUD(M) · so cal rock shows",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 so cal rock shows"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -169,9 +169,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's",
+      "notes": "CSB · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -182,9 +182,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Saint Andrew's Hall",
+      "notes": "Shure MV88 · adavici",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Shure MV88 \u00b7 adavici"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
@@ -195,9 +195,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Le Poisson Rouge",
+      "notes": "Roland CS-10EM · phideaux3",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Roland CS-10EM \u00b7 phideaux3"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -207,10 +207,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "Brick and Mortar (Juliana Hatfield Three)",
+      "venue": "Brick and Mortar",
+      "notes": "Juliana Hatfield Three · Schoeps MK4s · loughney",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4s \u00b7 loughney"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -220,10 +220,10 @@ const ARTIST_DATA = {
       "city": "Homer",
       "state": "NY",
       "location": "Homer, NY",
-      "venue": "Center for the Arts (Core Sound Mics)",
+      "venue": "Center for the Arts",
+      "notes": "Core Sound Mics · boeditaper · JH3",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "boeditaper \u00b7 JH3"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -233,10 +233,11 @@ const ARTIST_DATA = {
       "city": "Ferndale",
       "state": "MI",
       "location": "Ferndale, MI",
-      "venue": "Magic Bag (Shure MV88)",
+      "venue": "Magic Bag",
+      "notes": "Shure MV88 · adavici · JH3",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "adavici \u00b7 JH3"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
