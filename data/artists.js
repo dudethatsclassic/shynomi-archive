@@ -203,13 +203,6 @@ const ARTISTS = [
     "lastYear": 1993
   },
   {
-    "id": "bands-of-the-90s",
-    "name": "Bands of the 90s",
-    "showCount": 791,
-    "firstYear": 1980,
-    "lastYear": 2026
-  },
-  {
     "id": "beastie-boys",
     "name": "Beastie Boys",
     "showCount": 68,
@@ -530,13 +523,6 @@ const ARTISTS = [
     "showCount": 1317,
     "firstYear": 1992,
     "lastYear": 2025
-  },
-  {
-    "id": "country-various",
-    "name": "COUNTRY (Various)",
-    "showCount": 109,
-    "firstYear": 1968,
-    "lastYear": 2026
   },
   {
     "id": "crash-test-dummies",
@@ -1048,13 +1034,6 @@ const ARTISTS = [
     "showCount": 14,
     "firstYear": 1971,
     "lastYear": 1987
-  },
-  {
-    "id": "hip-hop",
-    "name": "Hip-Hop",
-    "showCount": 53,
-    "firstYear": 1985,
-    "lastYear": 2025
   },
   {
     "id": "hole",
@@ -2058,13 +2037,6 @@ const ARTISTS = [
     "lastYear": 1999
   },
   {
-    "id": "punk-various",
-    "name": "PUNK (Various)",
-    "showCount": 69,
-    "firstYear": 1976,
-    "lastYear": 1996
-  },
-  {
     "id": "puscifer",
     "name": "Puscifer",
     "showCount": 12,
@@ -2349,13 +2321,6 @@ const ARTISTS = [
     "name": "Sheryl Crow",
     "showCount": 4,
     "firstYear": 1994,
-    "lastYear": 2025
-  },
-  {
-    "id": "shoegaze-various",
-    "name": "SHOEGAZE (Various)",
-    "showCount": 323,
-    "firstYear": 1982,
     "lastYear": 2025
   },
   {
@@ -3064,20 +3029,6 @@ const ARTISTS = [
     "showCount": 1,
     "firstYear": 2025,
     "lastYear": 2025
-  },
-  {
-    "id": "various-artists",
-    "name": "Various Artists",
-    "showCount": 1792,
-    "firstYear": 1949,
-    "lastYear": 2026
-  },
-  {
-    "id": "various-country",
-    "name": "Various Country",
-    "showCount": 2,
-    "firstYear": 1987,
-    "lastYear": 1992
   },
   {
     "id": "velocity-girl",
