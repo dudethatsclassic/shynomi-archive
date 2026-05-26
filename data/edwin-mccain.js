@@ -1,19 +1,14 @@
 const ARTIST_DATA = {
   "id": "edwin-mccain",
   "name": "Edwin McCain",
-  "drive": "F",
-  "showCount": 13,
+  "drive": "D",
+  "showCount": 3,
   "firstYear": 1995,
-  "lastYear": 2025,
+  "lastYear": 2024,
   "years": [
     1995,
     1996,
-    2014,
-    2015,
-    2016,
-    2018,
-    2024,
-    2025
+    2024
   ],
   "shows": [
     {
@@ -25,9 +20,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Wetlands",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -38,9 +33,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Smith's Olde Bar",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -51,139 +46,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Bethel, NY",
       "venue": "Bethel Woods Center for the Arts",
+      "notes": "Schoeps MK41vs · radio_w_b",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK41vs \u00b7 radio_w_b"
-    },
-    {
-      "year": 2014,
-      "month": 5,
-      "day": 31,
-      "dateStr": "5-31-2014",
-      "city": "Netphen-Deuz",
-      "state": "Germany",
-      "location": "Netphen-Deuz, Germany",
-      "venue": "Freak Valley Festival (Zoom H2)",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "2024 remaster \u00b7 spaceandit"
-    },
-    {
-      "year": 2015,
-      "month": 7,
-      "day": 25,
-      "dateStr": "7-25-2015",
-      "city": "Dresden",
-      "state": "Germany",
-      "location": "Dresden, Germany",
-      "venue": "Chemiefabrik",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom \u00b7 stone"
-    },
-    {
-      "year": 2016,
-      "month": 4,
-      "day": 29,
-      "dateStr": "4-29-2016",
-      "city": "Berlin",
-      "state": "Germany",
-      "location": "Berlin, Germany",
-      "venue": "Desertfest",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom \u00b7 stone"
-    },
-    {
-      "year": 2018,
-      "month": 10,
-      "day": 16,
-      "dateStr": "10-16-2018",
-      "city": "Berlin",
-      "state": "Germany",
-      "location": "Berlin, Germany",
-      "venue": "S.O 36",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom \u00b7 stone"
-    },
-    {
-      "year": 2024,
-      "month": 2,
-      "day": 5,
-      "dateStr": "2-5-2024",
-      "city": "Denver",
-      "state": "CO",
-      "location": "Denver, CO",
-      "venue": "Ball Arena",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Olympus LS-P4 \u00b7 bluejane99"
-    },
-    {
-      "year": 2024,
-      "month": 2,
-      "day": 9,
-      "dateStr": "2-9-2024",
-      "city": "Phoenix",
-      "state": "AZ",
-      "location": "Phoenix, AZ",
-      "venue": "Footprint Center",
-      "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA SMK4061 \u00b7 j.mart"
-    },
-    {
-      "year": 2024,
-      "month": 2,
-      "day": 15,
-      "dateStr": "2-15-2024",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Crypto.com Arena",
-      "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
-    },
-    {
-      "year": 2024,
-      "month": 2,
-      "day": 17,
-      "dateStr": "2-17-2024",
-      "city": "Ontario",
-      "state": "CA",
-      "location": "Ontario, CA",
-      "venue": "Toyota Arena",
-      "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
-    },
-    {
-      "year": 2024,
-      "month": 2,
-      "day": 18,
-      "dateStr": "2-18-2024",
-      "city": "Las Vegas",
-      "state": "NV",
-      "location": "Las Vegas, NV",
-      "venue": "T-Mobile Arena",
-      "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "AT853s \u00b7 Unknown"
-    },
-    {
-      "year": 2025,
-      "month": 5,
-      "day": 16,
-      "dateStr": "5-16-2025",
-      "city": "London",
-      "state": "UK",
-      "location": "London, UK",
-      "venue": "Desertfest",
-      "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4061 \u00b7 dh"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
