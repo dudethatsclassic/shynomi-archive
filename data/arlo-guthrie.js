@@ -18,9 +18,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Woonsocket, RI",
       "venue": "Stadium Theater Performing Arts Center",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
   ],
   "misc": [
