@@ -2,12 +2,14 @@ const ARTIST_DATA = {
   "id": "marvin-gaye",
   "name": "Marvin Gaye",
   "drive": "D",
-  "showCount": 2,
+  "showCount": 4,
   "firstYear": 1972,
-  "lastYear": 1979,
+  "lastYear": 1983,
   "years": [
     1972,
-    1979
+    1978,
+    1979,
+    1983
   ],
   "shows": [
     {
@@ -19,9 +21,22 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "The Kennedy Center",
+      "notes": "",
       "version": "SBD",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
+    },
+    {
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1978",
+      "city": "Miami",
+      "state": "FL",
+      "location": "Miami, FL",
+      "venue": "Miami Arena",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
     },
     {
       "year": 1979,
@@ -32,9 +47,22 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Nippon Budokan",
+      "notes": "",
       "version": "SBD",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
+    },
+    {
+      "year": 1983,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1983",
+      "city": "Atlanta",
+      "state": "GA",
+      "location": "Atlanta, GA",
+      "venue": "Unknown Venue *Marvin Gaye in Concert",
+      "notes": "",
+      "version": "Silver CD",
+      "format": "FLAC"
     }
   ],
   "misc": [
