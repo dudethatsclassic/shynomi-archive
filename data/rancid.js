@@ -19,10 +19,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Wetlands Preserve - ANA",
+      "venue": "Wetlands Preserve",
+      "notes": "ANA(x) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "x \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -32,10 +32,10 @@ const ARTIST_DATA = {
       "city": "Seattle",
       "state": "WA",
       "location": "Seattle, WA",
-      "venue": "DV8 - ANA",
+      "venue": "DV8",
+      "notes": "ANA(x) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "x \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -46,9 +46,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Asbury Park, NJ",
       "venue": "The Stone Pony",
+      "notes": "Sony D-6C · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony D-6C \u00b7 Unknown"
+      "format": "FLAC"
     }
   ],
   "misc": [
