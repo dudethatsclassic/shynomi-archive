@@ -20,9 +20,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheater",
+      "notes": "Schoeps MK4 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -32,10 +32,10 @@ const ARTIST_DATA = {
       "city": "Portland",
       "state": "ME",
       "location": "Portland, ME",
-      "venue": "Cumberland County Civic Center - DAT",
+      "venue": "Cumberland County Civic Center",
+      "notes": "DAT(x) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "x \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -46,9 +46,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
+      "notes": "Neumann AK40s · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Neumann AK40s \u00b7 Unknown"
+      "format": "FLAC"
     }
   ],
   "misc": [
