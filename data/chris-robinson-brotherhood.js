@@ -1,0 +1,132 @@
+const ARTIST_DATA = {
+  "id": "chris-robinson-brotherhood",
+  "name": "Chris Robinson Brotherhood",
+  "drive": "E",
+  "showCount": 9,
+  "firstYear": 2011,
+  "lastYear": 2012,
+  "years": [
+    2011,
+    2012
+  ],
+  "shows": [
+    {
+      "year": 2011,
+      "month": 11,
+      "day": 13,
+      "dateStr": "11-13-2011",
+      "city": "Charlotte",
+      "state": "NC",
+      "location": "Charlotte, NC",
+      "venue": "The Neighborhood Theatre",
+      "notes": "CK1 · doodee master",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2011,
+      "month": 12,
+      "day": 13,
+      "dateStr": "12-13-2011",
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "Great American Music Hall",
+      "notes": "Sennheiser MKH8040 · trent t.",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2012,
+      "month": 5,
+      "day": 4,
+      "dateStr": "5-4-2012",
+      "city": "Birmingham",
+      "state": "AL",
+      "location": "Birmingham, AL",
+      "venue": "Workplay Theater",
+      "notes": "MK4V · jeff hatcher",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2012,
+      "month": 5,
+      "day": 6,
+      "dateStr": "5-6-2012",
+      "city": "Memphis",
+      "state": "TN",
+      "location": "Memphis, TN",
+      "venue": "Tom Lee Park",
+      "notes": "Beale · Tascam DR-2d · steve hagar",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2012,
+      "month": 6,
+      "day": 14,
+      "dateStr": "6-14-2012",
+      "city": "Milwaukee",
+      "state": "WI",
+      "location": "Milwaukee, WI",
+      "venue": "Turner Hall",
+      "notes": "SP-CMC-8s · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2012,
+      "month": 6,
+      "day": 22,
+      "dateStr": "6-22-2012",
+      "city": "Cleveland",
+      "state": "OH",
+      "location": "Cleveland, OH",
+      "venue": "The Beachland Ballroom",
+      "notes": "Schoeps CCM4 · andy hopkins",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2012,
+      "month": 8,
+      "day": 18,
+      "dateStr": "8-18-2012",
+      "city": "St. Louis",
+      "state": "MO",
+      "location": "St. Louis, MO",
+      "venue": "The Pageant",
+      "notes": "MK41 + DPA 4021s · steve brothers",
+      "version": "MIX",
+      "format": "FLAC"
+    },
+    {
+      "year": 2012,
+      "month": 9,
+      "day": 6,
+      "dateStr": "9-6-2012",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Lincoln Hall",
+      "notes": "Edirol R09 · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2012,
+      "month": 9,
+      "day": 11,
+      "dateStr": "9-11-2012",
+      "city": "Columbia",
+      "state": "MO",
+      "location": "Columbia, MO",
+      "venue": "Blue Note",
+      "notes": "Zoom H4 · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    }
+  ],
+  "misc": []
+};
