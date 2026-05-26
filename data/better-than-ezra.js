@@ -1,0 +1,123 @@
+const ARTIST_DATA = {
+  "id": "better-than-ezra",
+  "name": "Better Than Ezra",
+  "drive": "E",
+  "showCount": 8,
+  "firstYear": 1995,
+  "lastYear": 2025,
+  "years": [
+    1995,
+    1997,
+    2015,
+    2021,
+    2024,
+    2025
+  ],
+  "shows": [
+    {
+      "year": 1995,
+      "month": 6,
+      "day": 17,
+      "dateStr": "6-17-1995",
+      "city": "Irvine",
+      "state": "CA",
+      "location": "Irvine, CA",
+      "venue": "Irvine Meadows",
+      "notes": "KROQ",
+      "version": "FM",
+      "format": "FLAC"
+    },
+    {
+      "year": 1995,
+      "month": 8,
+      "day": 10,
+      "dateStr": "8-10-1995",
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "The Fillmore",
+      "notes": "unk · neekrive",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1995,
+      "month": 12,
+      "day": null,
+      "dateStr": "12-XX-1995",
+      "city": "Better Than Ezra",
+      "state": "",
+      "location": "Better Than Ezra",
+      "venue": "In Concert",
+      "notes": "96-15",
+      "version": "preFM",
+      "format": "FLAC"
+    },
+    {
+      "year": 1997,
+      "month": 7,
+      "day": 5,
+      "dateStr": "7-5-1997",
+      "city": "Sunrise",
+      "state": "FL",
+      "location": "Sunrise, FL",
+      "venue": "Markham Park",
+      "notes": "Zetafest · DSM-6P · datfly",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2015,
+      "month": 12,
+      "day": 29,
+      "dateStr": "12-29-2015",
+      "city": "Dallas TX",
+      "state": "",
+      "location": "Dallas TX",
+      "venue": "House of Blues",
+      "notes": "",
+      "version": "Webcast",
+      "format": "TS"
+    },
+    {
+      "year": 2021,
+      "month": 9,
+      "day": 11,
+      "dateStr": "9-11-2021",
+      "city": "Huber Heights",
+      "state": "OH",
+      "location": "Huber Heights, OH",
+      "venue": "Rose Music Center",
+      "notes": "CA-14s · charles dewey cole",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2024,
+      "month": 5,
+      "day": 5,
+      "dateStr": "5-5-2024",
+      "city": "Nashville",
+      "state": "TN",
+      "location": "Nashville, TN",
+      "venue": "3rd & Lindsey",
+      "notes": "SP-CMC-8 + SBD · mr sifter",
+      "version": "MIX",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2025,
+      "month": 7,
+      "day": 3,
+      "dateStr": "7-3-2025",
+      "city": "Mason",
+      "state": "OH",
+      "location": "Mason, OH",
+      "venue": "Mason Municipal Campus",
+      "notes": "CA-14 · live2cd",
+      "version": "AUD",
+      "format": "FLAC"
+    }
+  ],
+  "misc": []
+};
