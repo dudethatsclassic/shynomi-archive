@@ -19,9 +19,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Wilbur Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -32,9 +32,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Express Live",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -45,9 +45,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Huber Heights, OH",
       "venue": "Rose Music Center",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
