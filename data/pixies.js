@@ -26,9 +26,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Rat",
+      "notes": "Aiwa Clip-on · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Aiwa Clip-on \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1987,
@@ -39,9 +39,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "Nightstage",
+      "notes": "Aiwa Clip-on · harwilmer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Aiwa Clip-on \u00b7 harwilmer"
+      "format": "FLAC"
     },
     {
       "year": 1987,
@@ -52,9 +52,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "TT the Bear's",
+      "notes": "Aiwa Clip-on · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Aiwa Clip-on \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1987,
@@ -65,9 +65,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Green Street Station",
+      "notes": "Aiwa Clip-on · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Aiwa Clip-on \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1987,
@@ -78,9 +78,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1988,
@@ -90,10 +90,10 @@ const ARTIST_DATA = {
       "city": "London",
       "state": "England",
       "location": "London, England",
-      "venue": "Harlesden Mean Fiddler - CASS",
+      "venue": "Harlesden Mean Fiddler",
+      "notes": "CASS(x)",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "x"
+      "format": "FLAC"
     },
     {
       "year": 1988,
@@ -104,9 +104,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Mean Fiddler",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1988,
@@ -117,9 +117,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Melkweg",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1988,
@@ -130,9 +130,9 @@ const ARTIST_DATA = {
       "state": "Netherlands",
       "location": "The Hague, Netherlands",
       "venue": "Paard van Troje",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1988,
@@ -143,9 +143,9 @@ const ARTIST_DATA = {
       "state": "Netherlands",
       "location": "Hilversum, Netherlands",
       "venue": "VPRO",
+      "notes": "",
       "version": "PRO",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1989,
@@ -156,9 +156,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Liverpool, England",
       "venue": "Royal Court Theatre *Give Me Ecstasy",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -169,9 +169,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Sheffield, England",
       "venue": "Octagon Centre",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -182,9 +182,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Bristol, UK",
       "venue": "The Studio",
+      "notes": "Sony ECM-909",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-909"
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -195,9 +195,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Landgraaf, The Netherlands",
       "venue": "Megaland Pink Pop Festival",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -208,9 +208,9 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Vienna, Austria",
       "venue": "Messepalast *Supernova",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -221,9 +221,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Pumpehuset",
+      "notes": "Sony WMD3 · willer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony WMD3 \u00b7 willer"
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -233,10 +233,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "The Palace - CASS",
+      "venue": "The Palace",
+      "notes": "CASS(M)",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M"
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -247,9 +247,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Fox Theatre",
+      "notes": "Sony Hand-held · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony Hand-held \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -260,9 +260,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "University Of California, Crawford Hall",
+      "notes": "Toshiba KT-4087",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Toshiba KT-4087"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -272,10 +272,10 @@ const ARTIST_DATA = {
       "city": "Irvine",
       "state": "CA",
       "location": "Irvine, CA",
-      "venue": "University Of California, Crawford Hall - CASS",
+      "venue": "University Of California, Crawford Hall",
+      "notes": "CASS(M) · Source 2",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 Source 2"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -286,9 +286,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Utrecht, The Netherlands",
       "venue": "Vredenburg",
+      "notes": "Sennheiser MKE-40",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sennheiser MKE-40"
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -299,9 +299,9 @@ const ARTIST_DATA = {
       "state": "Belgium - Torhout Festival (Sennheiser MKE-40)",
       "location": "Torhout, Belgium - Torhout Festival (Sennheiser MKE-40)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -312,9 +312,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Ritz",
+      "notes": "SS-DSM-3 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SS-DSM-3 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -325,9 +325,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theater",
+      "notes": "SS-DSM · legendary e.c.p.",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SS-DSM \u00b7 legendary e.c.p."
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -338,9 +338,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Warfield",
+      "notes": "WM-D3 Master",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "WM-D3 Master"
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -351,9 +351,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Hollywood Palladium",
+      "notes": "KCRW 105 FM",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "KCRW 105 FM"
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -364,9 +364,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
+      "notes": "SS mics · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SS mics \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -377,9 +377,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
+      "notes": "SS mics · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SS mics \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -389,10 +389,10 @@ const ARTIST_DATA = {
       "city": "Indio",
       "state": "CA",
       "location": "Indio, CA",
-      "venue": "Empire Polo Grounds - Coachella",
+      "venue": "Empire Polo Grounds",
+      "notes": "Coachella · PRO #1 · danderson",
       "version": "Webcast",
-      "format": "TS",
-      "notes": "PRO #1 \u00b7 danderson"
+      "format": "TS"
     },
     {
       "year": 2022,
@@ -403,9 +403,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "SOMA",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -416,9 +416,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Bridgeport, CT",
       "venue": "Hartford HealthCare Amphitheater",
+      "notes": "Shure MV88 · km",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Shure MV88 \u00b7 km"
+      "format": "FLAC 24"
     }
   ],
   "misc": [
