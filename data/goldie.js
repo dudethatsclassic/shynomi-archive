@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "goldie",
   "name": "Goldie",
   "drive": "C",
-  "showCount": 1,
+  "showCount": 2,
   "firstYear": 1995,
   "lastYear": 1995,
   "years": [
@@ -18,9 +18,23 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
+    },
+    {
+      "year": 1995,
+      "month": 11,
+      "day": 4,
+      "dateStr": "11-4-1995",
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "The Warfield",
+      "notes": "unk · neekrive",
+      "version": "",
+      "format": ""
     }
-  ]
+  ],
+  "misc": []
 };
