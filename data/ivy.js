@@ -17,10 +17,10 @@ const ARTIST_DATA = {
       "city": "Santa Monica",
       "state": "CA",
       "location": "Santa Monica, CA",
-      "venue": "KCRW Studios - Morning Becomes Eclectic",
+      "venue": "KCRW Studios",
+      "notes": "Morning · markp",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "markp"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -31,9 +31,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Westwood, CA",
       "venue": "Rhino Records",
+      "notes": "Sonic Studios · markp",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sonic Studios \u00b7 markp"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -44,9 +44,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Tower Records",
+      "notes": "Sonic Studios · markp",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sonic Studios \u00b7 markp"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -57,9 +57,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "The Roxy",
+      "notes": "Sonic Studios · markp",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sonic Studios \u00b7 markp"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
