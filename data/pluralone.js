@@ -18,9 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Viejas Arena",
+      "notes": "CA-11s · tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA-11s \u00b7 tapeworm48"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
@@ -31,9 +31,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Forum",
+      "notes": "CA-11s · tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA-11s \u00b7 tapeworm48"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
@@ -44,9 +44,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Forum",
+      "notes": "CA-11s · tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA-11s \u00b7 tapeworm48"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
@@ -57,9 +57,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Glendale, AZ",
       "venue": "Gila River Arena",
+      "notes": "CA-11s · tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA-11s \u00b7 tapeworm48"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
@@ -70,9 +70,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oakland Arena",
+      "notes": "CA-11s · tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA-11s \u00b7 tapeworm48"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
@@ -83,9 +83,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oakland Arena",
+      "notes": "CA-11s · tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA-11s \u00b7 tapeworm48"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
@@ -96,9 +96,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fresno, CA",
       "venue": "Save Mart Center",
+      "notes": "CA-11s · tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA-11s \u00b7 tapeworm48"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
