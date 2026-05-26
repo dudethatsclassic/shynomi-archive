@@ -21,9 +21,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Evanston, IL",
       "venue": "McCormick Auditorium",
+      "notes": "unk · aadam jacobs",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 aadam jacobs"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -34,9 +34,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -47,9 +47,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Echo Lounge",
+      "notes": "SM57-LC · demarestfarmer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SM57-LC \u00b7 demarestfarmer"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -60,9 +60,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Lyon, France",
       "venue": "L'Epicerie Moderne",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
