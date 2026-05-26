@@ -2,11 +2,12 @@ const ARTIST_DATA = {
   "id": "neil-young",
   "name": "Neil Young",
   "drive": "D",
-  "showCount": 7,
+  "showCount": 8,
   "firstYear": 1965,
   "lastYear": 1992,
   "years": [
     1965,
+    1966,
     1970,
     1974,
     1976,
@@ -22,9 +23,22 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Wichita Falls, KS",
       "venue": "Down The Wire",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1966,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1966",
+      "city": "Detroit",
+      "state": "MI",
+      "location": "Detroit, MI",
+      "venue": "NY & the Mynah Birds Studio Recordings",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
     },
     {
       "year": 1970,
@@ -35,9 +49,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Dorothy Chandler Pavilion",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1970,
@@ -48,9 +62,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "KQED Studios",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1970,
@@ -61,9 +75,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnatti, OH",
       "venue": "Music Hall",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1974,
@@ -74,9 +88,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Bottom Line",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1976,
@@ -87,9 +101,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theater",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -100,9 +114,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Riverside Theater",
+      "notes": "AT-35",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT-35"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
