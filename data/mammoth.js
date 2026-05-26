@@ -20,10 +20,10 @@ const ARTIST_DATA = {
       "city": "E Rutherford",
       "state": "NJ",
       "location": "E Rutherford, NJ",
-      "venue": "MetLife Stadium (M)",
+      "venue": "MetLife Stadium",
+      "notes": "M · Sony ECM-717 · ukj69",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 ukj69"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -34,9 +34,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Ace of Spades",
+      "notes": "Multiple IEM, Taskca DR-2D · hoserama",
       "version": "MIX",
-      "format": "FLAC",
-      "notes": "Multiple IEM, Taskca DR-2D \u00b7 hoserama"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -47,9 +47,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The Bluestone",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 \u00b7 live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -60,9 +60,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Glenside, PA",
       "venue": "Keswick Theater",
+      "notes": "Schoeps MK4s · ironchef",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4s \u00b7 ironchef"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -72,10 +72,10 @@ const ARTIST_DATA = {
       "city": "Indianapolis",
       "state": "IN",
       "location": "Indianapolis, IN",
-      "venue": "Old National Centre - Egyptian Room",
+      "venue": "Old National Centre",
+      "notes": "Egyptian · SP-CMC-8s · ironchef",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8s \u00b7 ironchef"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -86,9 +86,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -98,10 +98,10 @@ const ARTIST_DATA = {
       "city": "Paris",
       "state": "FR",
       "location": "Paris, FR",
-      "venue": "Le Ze?nith",
+      "venue": "Le Zénith",
+      "notes": "CA-11c · kurddt",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11c \u00b7 kurddt"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -112,9 +112,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Aura",
+      "notes": "OKMIIr · massu2",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "OKMIIr \u00b7 massu2"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -125,9 +125,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Brooklyn Bowl",
+      "notes": "SP-CMC-8 · mr. sifter",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 mr. sifter"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -137,10 +137,10 @@ const ARTIST_DATA = {
       "city": "Tampere",
       "state": "Finland",
       "location": "Tampere, Finland",
-      "venue": "Olympia (M)",
+      "venue": "Olympia",
+      "notes": "M · CA-11 · j3saari",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11 \u00b7 j3saari"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -151,9 +151,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Frannz",
+      "notes": "Roland CS-110 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Roland CS-110 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -164,9 +164,9 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Madrid, Spain",
       "venue": "Estadio Metropolitano",
+      "notes": "SP-CMC_2 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC_2 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -177,9 +177,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Foxborough, MA",
       "venue": "Gillette Stadium",
+      "notes": "OKMIIr · massu2",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "OKMIIr \u00b7 massu2"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -190,9 +190,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Fillmore Detroit",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -203,9 +203,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Kemba LIVE",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2026,
@@ -216,9 +216,9 @@ const ARTIST_DATA = {
       "state": "ON/ Danforth Music Hall (Zoom H1n) bowlingron)",
       "location": "Toronto, ON/ Danforth Music Hall (Zoom H1n) bowlingron)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2026,
@@ -229,9 +229,9 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
+      "notes": "OKMIIr · massu2",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "OKMIIr \u00b7 massu2"
+      "format": "FLAC"
     },
     {
       "year": 2026,
@@ -242,9 +242,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 live2cd"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
