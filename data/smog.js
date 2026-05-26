@@ -24,9 +24,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "The Middle East",
+      "notes": "Downstairs · gkay44",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Downstairs \u00b7 gkay44"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -37,9 +37,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "The Middle East",
+      "notes": "Sony WM-D3 · gkay44",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony WM-D3 \u00b7 gkay44"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -49,10 +49,10 @@ const ARTIST_DATA = {
       "city": "London",
       "state": "UK",
       "location": "London, UK",
-      "venue": "Camden Town - Dingwall's",
+      "venue": "Camden Town",
+      "notes": "Dingwall's · gkay44",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "gkay44"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -63,9 +63,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "930 Club",
+      "notes": "SS-DSM6S · cdipietro",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SS-DSM6S \u00b7 cdipietro"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -76,9 +76,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Roskilde. Denmark",
       "venue": "Roskilde Festival",
+      "notes": "Core Cardiod Mics · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Core Cardiod Mics \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -88,10 +88,10 @@ const ARTIST_DATA = {
       "city": "Manchester",
       "state": "UK",
       "location": "Manchester, UK",
-      "venue": "Academy 3 - Hop & Grape",
+      "venue": "Academy 3",
+      "notes": "Hop · ECM-717 · yousef",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-717 \u00b7 yousef"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -101,10 +101,10 @@ const ARTIST_DATA = {
       "city": "London",
       "state": "UK",
       "location": "London, UK",
-      "venue": "BBC Broaodcasting House - John Peel Sessions",
+      "venue": "BBC Broaodcasting House",
+      "notes": "John",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -115,9 +115,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Echo Lounge",
+      "notes": "Sharp MD-MT90 · brandon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sharp MD-MT90 \u00b7 brandon"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -128,9 +128,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Manchester University",
+      "notes": "ECM-717 · yousef",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-717 \u00b7 yousef"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -141,9 +141,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Earl",
+      "notes": "Binaural Cardiod Mics · brandon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Binaural Cardiod Mics \u00b7 brandon"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -154,9 +154,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "O-West",
+      "notes": "Roland R-1 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Roland R-1 \u00b7 Unknown"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
