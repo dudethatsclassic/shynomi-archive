@@ -1,12 +1,5 @@
 const ARTISTS = [
   {
-    "id": "",
-    "name": "",
-    "showCount": 349,
-    "firstYear": 1989,
-    "lastYear": 2025
-  },
-  {
     "id": "311",
     "name": "311",
     "showCount": 54,
@@ -16,7 +9,7 @@ const ARTISTS = [
   {
     "id": "a-perfect-circle",
     "name": "A Perfect Circle",
-    "showCount": 366,
+    "showCount": 367,
     "firstYear": 1999,
     "lastYear": 2024
   },
@@ -58,16 +51,16 @@ const ARTISTS = [
   {
     "id": "alanis-morissette",
     "name": "Alanis Morissette",
-    "showCount": 69,
+    "showCount": 71,
     "firstYear": 1995,
     "lastYear": 2025
   },
   {
     "id": "alice-in-chains",
     "name": "Alice In Chains",
-    "showCount": 263,
-    "firstYear": 1987,
-    "lastYear": 2025
+    "showCount": 252,
+    "firstYear": 1986,
+    "lastYear": 2024
   },
   {
     "id": "all-american-rejects",
@@ -103,6 +96,13 @@ const ARTISTS = [
     "showCount": 1,
     "firstYear": 2025,
     "lastYear": 2025
+  },
+  {
+    "id": "angels-airwaves",
+    "name": "Angels & Airwaves",
+    "showCount": 3,
+    "firstYear": 2012,
+    "lastYear": 2019
   },
   {
     "id": "angels-and-airwaves",
@@ -170,7 +170,7 @@ const ARTISTS = [
   {
     "id": "avril-lavigne",
     "name": "Avril Lavigne",
-    "showCount": 12,
+    "showCount": 17,
     "firstYear": 2003,
     "lastYear": 2024
   },
@@ -191,7 +191,7 @@ const ARTISTS = [
   {
     "id": "band-of-horses",
     "name": "Band of Horses",
-    "showCount": 27,
+    "showCount": 28,
     "firstYear": 2006,
     "lastYear": 2025
   },
@@ -212,15 +212,15 @@ const ARTISTS = [
   {
     "id": "beastie-boys",
     "name": "Beastie Boys",
-    "showCount": 63,
+    "showCount": 68,
     "firstYear": 1985,
     "lastYear": 2009
   },
   {
     "id": "beck",
     "name": "Beck",
-    "showCount": 309,
-    "firstYear": 1993,
+    "showCount": 316,
+    "firstYear": 1986,
     "lastYear": 2025
   },
   {
@@ -233,8 +233,8 @@ const ARTISTS = [
   {
     "id": "ben-folds",
     "name": "Ben Folds",
-    "showCount": 23,
-    "firstYear": 1995,
+    "showCount": 15,
+    "firstYear": 2001,
     "lastYear": 2025
   },
   {
@@ -252,6 +252,13 @@ const ARTISTS = [
     "lastYear": 2021
   },
   {
+    "id": "better-than-ezra",
+    "name": "Better Than Ezra",
+    "showCount": 8,
+    "firstYear": 1995,
+    "lastYear": 2025
+  },
+  {
     "id": "biz-markie",
     "name": "Biz Markie",
     "showCount": 1,
@@ -261,7 +268,7 @@ const ARTISTS = [
   {
     "id": "bjork",
     "name": "Bjork",
-    "showCount": 48,
+    "showCount": 49,
     "firstYear": 1988,
     "lastYear": 2022
   },
@@ -289,8 +296,8 @@ const ARTISTS = [
   {
     "id": "blind-melon",
     "name": "Blind Melon",
-    "showCount": 45,
-    "firstYear": 1992,
+    "showCount": 49,
+    "firstYear": 1990,
     "lastYear": 2013
   },
   {
@@ -310,7 +317,7 @@ const ARTISTS = [
   {
     "id": "bob-dylan",
     "name": "Bob Dylan",
-    "showCount": 26,
+    "showCount": 28,
     "firstYear": 1962,
     "lastYear": 2019
   },
@@ -350,6 +357,13 @@ const ARTISTS = [
     "lastYear": 2025
   },
   {
+    "id": "buddy-holly",
+    "name": "Buddy Holly",
+    "showCount": 0,
+    "firstYear": null,
+    "lastYear": null
+  },
+  {
     "id": "buffalo-tom",
     "name": "Buffalo Tom",
     "showCount": 17,
@@ -359,7 +373,7 @@ const ARTISTS = [
   {
     "id": "bush",
     "name": "Bush",
-    "showCount": 93,
+    "showCount": 91,
     "firstYear": 1995,
     "lastYear": 2025
   },
@@ -387,8 +401,8 @@ const ARTISTS = [
   {
     "id": "carole-king",
     "name": "Carole King",
-    "showCount": 1,
-    "firstYear": 1973,
+    "showCount": 2,
+    "firstYear": 1971,
     "lastYear": 1973
   },
   {
@@ -408,8 +422,8 @@ const ARTISTS = [
   {
     "id": "chevelle",
     "name": "Chevelle",
-    "showCount": 6,
-    "firstYear": 2021,
+    "showCount": 7,
+    "firstYear": 2007,
     "lastYear": 2025
   },
   {
@@ -476,6 +490,13 @@ const ARTISTS = [
     "lastYear": 2024
   },
   {
+    "id": "coheed-cambria",
+    "name": "Coheed & Cambria",
+    "showCount": 16,
+    "firstYear": 2005,
+    "lastYear": 2024
+  },
+  {
     "id": "cold",
     "name": "Cold",
     "showCount": 2,
@@ -485,14 +506,14 @@ const ARTISTS = [
   {
     "id": "coldplay",
     "name": "Coldplay",
-    "showCount": 747,
-    "firstYear": 1999,
+    "showCount": 756,
+    "firstYear": 1998,
     "lastYear": 2025
   },
   {
     "id": "collective-soul",
     "name": "Collective Soul",
-    "showCount": 66,
+    "showCount": 67,
     "firstYear": 1994,
     "lastYear": 2025
   },
@@ -506,7 +527,7 @@ const ARTISTS = [
   {
     "id": "counting-crows",
     "name": "Counting Crows",
-    "showCount": 1729,
+    "showCount": 1317,
     "firstYear": 1992,
     "lastYear": 2025
   },
@@ -520,7 +541,7 @@ const ARTISTS = [
   {
     "id": "crash-test-dummies",
     "name": "Crash Test Dummies",
-    "showCount": 20,
+    "showCount": 21,
     "firstYear": 1988,
     "lastYear": 2023
   },
@@ -555,7 +576,7 @@ const ARTISTS = [
   {
     "id": "dave-brubeck",
     "name": "Dave Brubeck",
-    "showCount": 13,
+    "showCount": 15,
     "firstYear": 1955,
     "lastYear": 2010
   },
@@ -702,9 +723,9 @@ const ARTISTS = [
   {
     "id": "edwin-mccain",
     "name": "Edwin McCain",
-    "showCount": 13,
+    "showCount": 3,
     "firstYear": 1995,
-    "lastYear": 2025
+    "lastYear": 2024
   },
   {
     "id": "eels",
@@ -835,9 +856,16 @@ const ARTISTS = [
   {
     "id": "foo-fighters",
     "name": "Foo Fighters",
-    "showCount": 1081,
-    "firstYear": 1979,
+    "showCount": 1069,
+    "firstYear": 1992,
     "lastYear": 2026
+  },
+  {
+    "id": "for-squirrels",
+    "name": "For Squirrels",
+    "showCount": 0,
+    "firstYear": null,
+    "lastYear": null
   },
   {
     "id": "fort-minor",
@@ -870,22 +898,22 @@ const ARTISTS = [
   {
     "id": "garth-brooks",
     "name": "Garth Brooks",
-    "showCount": 4,
-    "firstYear": 1996,
+    "showCount": 5,
+    "firstYear": 1986,
     "lastYear": 2023
   },
   {
     "id": "gavin-rossdale",
     "name": "Gavin Rossdale",
-    "showCount": 4,
+    "showCount": 5,
     "firstYear": 2009,
     "lastYear": 2010
   },
   {
     "id": "george-strait",
     "name": "George Strait",
-    "showCount": 4,
-    "firstYear": 1982,
+    "showCount": 6,
+    "firstYear": 1980,
     "lastYear": 1985
   },
   {
@@ -912,14 +940,14 @@ const ARTISTS = [
   {
     "id": "goldie",
     "name": "Goldie",
-    "showCount": 1,
+    "showCount": 2,
     "firstYear": 1995,
     "lastYear": 1995
   },
   {
     "id": "goo-goo-dolls",
     "name": "Goo Goo Dolls",
-    "showCount": 25,
+    "showCount": 31,
     "firstYear": 1990,
     "lastYear": 2025
   },
@@ -1029,6 +1057,13 @@ const ARTISTS = [
     "lastYear": 2024
   },
   {
+    "id": "hootie-the-blowfish",
+    "name": "Hootie & the Blowfish",
+    "showCount": 0,
+    "firstYear": null,
+    "lastYear": null
+  },
+  {
     "id": "horace-silver",
     "name": "Horace Silver",
     "showCount": 2,
@@ -1080,9 +1115,9 @@ const ARTISTS = [
   {
     "id": "jackson-5",
     "name": "Jackson 5",
-    "showCount": 2,
+    "showCount": 1,
     "firstYear": 1973,
-    "lastYear": 1981
+    "lastYear": 1973
   },
   {
     "id": "jakob-dylan",
@@ -1090,6 +1125,13 @@ const ARTISTS = [
     "showCount": 2,
     "firstYear": 2008,
     "lastYear": 2008
+  },
+  {
+    "id": "jane-s-addiction",
+    "name": "Jane's Addiction",
+    "showCount": 0,
+    "firstYear": null,
+    "lastYear": null
   },
   {
     "id": "janes-addiction",
@@ -1108,7 +1150,7 @@ const ARTISTS = [
   {
     "id": "jeff-buckley",
     "name": "Jeff Buckley",
-    "showCount": 108,
+    "showCount": 109,
     "firstYear": 1991,
     "lastYear": 1997
   },
@@ -1136,9 +1178,9 @@ const ARTISTS = [
   {
     "id": "jeremy-enigk",
     "name": "Jeremy Enigk",
-    "showCount": 25,
+    "showCount": 2,
     "firstYear": 1996,
-    "lastYear": 2025
+    "lastYear": 1997
   },
   {
     "id": "jerry-cantrell",
@@ -1183,10 +1225,17 @@ const ARTISTS = [
     "lastYear": 2025
   },
   {
+    "id": "john-anderson",
+    "name": "John Anderson",
+    "showCount": 1,
+    "firstYear": 1986,
+    "lastYear": 1986
+  },
+  {
     "id": "john-coltrane",
     "name": "John Coltrane",
-    "showCount": 18,
-    "firstYear": 1956,
+    "showCount": 19,
+    "firstYear": 1951,
     "lastYear": 1966
   },
   {
@@ -1206,8 +1255,8 @@ const ARTISTS = [
   {
     "id": "johnny-cash",
     "name": "Johnny Cash",
-    "showCount": 4,
-    "firstYear": 1968,
+    "showCount": 5,
+    "firstYear": 1954,
     "lastYear": 1975
   },
   {
@@ -1248,7 +1297,7 @@ const ARTISTS = [
   {
     "id": "keane",
     "name": "Keane",
-    "showCount": 44,
+    "showCount": 45,
     "firstYear": 2004,
     "lastYear": 2024
   },
@@ -1261,6 +1310,13 @@ const ARTISTS = [
   },
   {
     "id": "kevin-martin-and-the-hiwatts",
+    "name": "Kevin Martin & The Hiwatts",
+    "showCount": 1,
+    "firstYear": 2004,
+    "lastYear": 2004
+  },
+  {
+    "id": "kevin-martin-the-hiwatts",
     "name": "Kevin Martin & The Hiwatts",
     "showCount": 1,
     "firstYear": 2004,
@@ -1311,7 +1367,7 @@ const ARTISTS = [
   {
     "id": "led-zeppelin",
     "name": "Led Zeppelin",
-    "showCount": 10,
+    "showCount": 11,
     "firstYear": 1969,
     "lastYear": 1980
   },
@@ -1402,7 +1458,7 @@ const ARTISTS = [
   {
     "id": "live",
     "name": "Live",
-    "showCount": 42,
+    "showCount": 44,
     "firstYear": 1992,
     "lastYear": 2025
   },
@@ -1493,9 +1549,9 @@ const ARTISTS = [
   {
     "id": "marvin-gaye",
     "name": "Marvin Gaye",
-    "showCount": 2,
+    "showCount": 4,
     "firstYear": 1972,
-    "lastYear": 1979
+    "lastYear": 1983
   },
   {
     "id": "matchbox-20",
@@ -1556,7 +1612,7 @@ const ARTISTS = [
   {
     "id": "michael-jackson",
     "name": "Michael Jackson",
-    "showCount": 17,
+    "showCount": 18,
     "firstYear": 1987,
     "lastYear": 1997
   },
@@ -1717,7 +1773,7 @@ const ARTISTS = [
   {
     "id": "neil-young",
     "name": "Neil Young",
-    "showCount": 7,
+    "showCount": 8,
     "firstYear": 1965,
     "lastYear": 1992
   },
@@ -1727,6 +1783,13 @@ const ARTISTS = [
     "showCount": 24,
     "firstYear": 1995,
     "lastYear": 1995
+  },
+  {
+    "id": "neil-young-pearl-jam",
+    "name": "Neil Young & Pearl Jam",
+    "showCount": 0,
+    "firstYear": null,
+    "lastYear": null
   },
   {
     "id": "new-found-glory",
@@ -1745,7 +1808,7 @@ const ARTISTS = [
   {
     "id": "nickelback",
     "name": "Nickelback",
-    "showCount": 10,
+    "showCount": 12,
     "firstYear": 2000,
     "lastYear": 2024
   },
@@ -1792,6 +1855,13 @@ const ARTISTS = [
     "lastYear": 2025
   },
   {
+    "id": "old-97-s",
+    "name": "Old 97's",
+    "showCount": 6,
+    "firstYear": 1996,
+    "lastYear": 2026
+  },
+  {
     "id": "old-97s",
     "name": "Old 97's",
     "showCount": 6,
@@ -1836,7 +1906,7 @@ const ARTISTS = [
   {
     "id": "pantera",
     "name": "Pantera",
-    "showCount": 65,
+    "showCount": 66,
     "firstYear": 1984,
     "lastYear": 2025
   },
@@ -1871,8 +1941,8 @@ const ARTISTS = [
   {
     "id": "pearl-jam",
     "name": "Pearl Jam",
-    "showCount": 2139,
-    "firstYear": 1984,
+    "showCount": 1778,
+    "firstYear": 1990,
     "lastYear": 2025
   },
   {
@@ -1995,13 +2065,6 @@ const ARTISTS = [
     "lastYear": 2024
   },
   {
-    "id": "rem",
-    "name": "R.E.M.",
-    "showCount": 803,
-    "firstYear": 1980,
-    "lastYear": 2989
-  },
-  {
     "id": "r-e-m",
     "name": "R.E.M.",
     "showCount": 799,
@@ -2009,10 +2072,17 @@ const ARTISTS = [
     "lastYear": 2989
   },
   {
+    "id": "rem",
+    "name": "R.E.M.",
+    "showCount": 803,
+    "firstYear": 1980,
+    "lastYear": 2989
+  },
+  {
     "id": "radiohead",
     "name": "Radiohead",
-    "showCount": 1330,
-    "firstYear": 1992,
+    "showCount": 1225,
+    "firstYear": 1986,
     "lastYear": 2025
   },
   {
@@ -2046,8 +2116,8 @@ const ARTISTS = [
   {
     "id": "reba-mcentire",
     "name": "Reba McEntire",
-    "showCount": 1,
-    "firstYear": 2002,
+    "showCount": 2,
+    "firstYear": 1985,
     "lastYear": 2002
   },
   {
@@ -2128,6 +2198,20 @@ const ARTISTS = [
     "lastYear": 2025
   },
   {
+    "id": "sam-and-dave",
+    "name": "Sam and Dave",
+    "showCount": 1,
+    "firstYear": 1979,
+    "lastYear": 1979
+  },
+  {
+    "id": "saosin",
+    "name": "Saosin",
+    "showCount": 1,
+    "firstYear": 2025,
+    "lastYear": 2025
+  },
+  {
     "id": "sarah-mclachlan",
     "name": "Sarah McLachlan",
     "showCount": 6,
@@ -2161,6 +2245,13 @@ const ARTISTS = [
     "showCount": 1,
     "firstYear": 1992,
     "lastYear": 1992
+  },
+  {
+    "id": "scream",
+    "name": "Scream",
+    "showCount": 0,
+    "firstYear": null,
+    "lastYear": null
   },
   {
     "id": "screaming-trees",
@@ -2382,8 +2473,8 @@ const ARTISTS = [
   {
     "id": "squarepusher",
     "name": "Squarepusher",
-    "showCount": 1,
-    "firstYear": 2023,
+    "showCount": 2,
+    "firstYear": 1996,
     "lastYear": 2023
   },
   {
@@ -2473,7 +2564,7 @@ const ARTISTS = [
   {
     "id": "sunny-day-real-estate",
     "name": "Sunny Day Real Estate",
-    "showCount": 19,
+    "showCount": 20,
     "firstYear": 1993,
     "lastYear": 2025
   },
@@ -2490,6 +2581,13 @@ const ARTISTS = [
     "showCount": 3,
     "firstYear": 1994,
     "lastYear": 1999
+  },
+  {
+    "id": "swell-season",
+    "name": "Swell Season",
+    "showCount": 23,
+    "firstYear": 2006,
+    "lastYear": 2025
   },
   {
     "id": "swervedriver",
@@ -2529,8 +2627,8 @@ const ARTISTS = [
   {
     "id": "taylor-swift",
     "name": "Taylor Swift",
-    "showCount": 26,
-    "firstYear": 2008,
+    "showCount": 27,
+    "firstYear": 2007,
     "lastYear": 2024
   },
   {
@@ -2578,7 +2676,7 @@ const ARTISTS = [
   {
     "id": "the-breeders",
     "name": "The Breeders",
-    "showCount": 51,
+    "showCount": 53,
     "firstYear": 1990,
     "lastYear": 2024
   },
@@ -2630,6 +2728,13 @@ const ARTISTS = [
     "showCount": 4,
     "firstYear": 1979,
     "lastYear": 1980
+  },
+  {
+    "id": "the-jackson-s",
+    "name": "The Jackson's",
+    "showCount": 1,
+    "firstYear": 1981,
+    "lastYear": 1981
   },
   {
     "id": "the-jayhawks",
@@ -2686,6 +2791,13 @@ const ARTISTS = [
     "showCount": 99,
     "firstYear": 1991,
     "lastYear": 2025
+  },
+  {
+    "id": "the-presidents-of-the-u-s-a",
+    "name": "The Presidents of the U.S.A.",
+    "showCount": 0,
+    "firstYear": null,
+    "lastYear": null
   },
   {
     "id": "the-presidents-of-the-usa",
@@ -2842,6 +2954,13 @@ const ARTISTS = [
     "lastYear": 2017
   },
   {
+    "id": "tom-petty-the-heartbreakers",
+    "name": "Tom Petty & the Heartbreakers",
+    "showCount": 0,
+    "firstYear": null,
+    "lastYear": null
+  },
+  {
     "id": "tonic",
     "name": "Tonic",
     "showCount": 46,
@@ -2863,11 +2982,25 @@ const ARTISTS = [
     "lastYear": 2022
   },
   {
+    "id": "tracy-chapman",
+    "name": "Tracy Chapman",
+    "showCount": 1,
+    "firstYear": 1988,
+    "lastYear": 1988
+  },
+  {
     "id": "train",
     "name": "Train",
     "showCount": 7,
     "firstYear": 2002,
     "lastYear": 2014
+  },
+  {
+    "id": "traveling-wilburys",
+    "name": "Traveling Wilburys",
+    "showCount": 0,
+    "firstYear": null,
+    "lastYear": null
   },
   {
     "id": "tripping-daisy",
@@ -2893,7 +3026,7 @@ const ARTISTS = [
   {
     "id": "ugly-kid-joe",
     "name": "Ugly Kid Joe",
-    "showCount": 11,
+    "showCount": 10,
     "firstYear": 1992,
     "lastYear": 2025
   },
@@ -2903,6 +3036,13 @@ const ARTISTS = [
     "showCount": 75,
     "firstYear": 1988,
     "lastYear": 1994
+  },
+  {
+    "id": "underoath",
+    "name": "Underoath",
+    "showCount": 1,
+    "firstYear": 2025,
+    "lastYear": 2025
   },
   {
     "id": "various-artists",
@@ -2928,7 +3068,7 @@ const ARTISTS = [
   {
     "id": "vertical-horizon",
     "name": "Vertical Horizon",
-    "showCount": 65,
+    "showCount": 66,
     "firstYear": 1994,
     "lastYear": 2025
   },
@@ -2977,8 +3117,8 @@ const ARTISTS = [
   {
     "id": "wilco",
     "name": "Wilco",
-    "showCount": 1603,
-    "firstYear": 1988,
+    "showCount": 1263,
+    "firstYear": 1994,
     "lastYear": 2026
   },
   {
