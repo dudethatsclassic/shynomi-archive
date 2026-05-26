@@ -23,9 +23,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Orbit Room",
+      "notes": "CSBmod · arnold leal",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSBmod \u00b7 arnold leal"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -35,10 +35,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Tramps - ANA(M)",
+      "venue": "Tramps",
+      "notes": "ANA(M) · AT8022 · auto_pilot",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT8022 \u00b7 auto_pilot"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -49,9 +49,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
+      "notes": "CSBmod · dave asselin",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSBmod \u00b7 dave asselin"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -62,9 +62,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "The Middle East",
+      "notes": "CSBmod · dave asselin",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSBmod \u00b7 dave asselin"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -75,9 +75,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
+      "notes": "DPA 4060 · charles dewey cole",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4060 \u00b7 charles dewey cole"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -88,9 +88,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Suttree Landing Park",
+      "notes": "CA-14 · ryan teske",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 \u00b7 ryan teske"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -101,9 +101,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Subterranean",
+      "notes": "CA-14 · ryan teske",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 \u00b7 ryan teske"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -114,9 +114,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Subterranean",
+      "notes": "benjamin gordon",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "benjamin gordon"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
