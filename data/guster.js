@@ -7780,15 +7780,15 @@ const ARTIST_DATA = {
     {
       "year": 2015,
       "month": 11,
-      "day": 27,
-      "dateStr": "11-27-2015",
+      "day": 28,
+      "dateStr": "11-28-2015",
       "city": "Port Chester",
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "Capitol Theatre",
       "notes": "Remaster",
-      "version": "",
-      "format": ""
+      "version": "SBD",
+      "format": "FLAC"
     },
     {
       "year": 2016,
