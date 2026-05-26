@@ -20,9 +20,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Brisbane,AUS",
       "venue": "Brisbane Convention Centre",
+      "notes": "Optimus 33-3003s · tifosi79",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Optimus 33-3003s \u00b7 tifosi79"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -33,9 +33,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Key Arena",
+      "notes": "SP-CMC-2 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -46,9 +46,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Bradley Center",
+      "notes": "Sonics-Sony M-1 · ademotte",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sonics-Sony M-1 \u00b7 ademotte"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -59,9 +59,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "General Motors Place",
+      "notes": "SP-CMC-2 · jason green",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 jason green"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -72,9 +72,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Palace Theatre",
+      "notes": "DPA 4060 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4060 \u00b7 live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -85,9 +85,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
+      "notes": "OKMIIr · massu2",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "OKMIIr \u00b7 massu2"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
