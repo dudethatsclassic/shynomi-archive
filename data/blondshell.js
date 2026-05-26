@@ -20,9 +20,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tonight Show with Jimmy Fallon",
+      "notes": "unk",
       "version": "TV",
-      "format": "TS",
-      "notes": "Unknown"
+      "format": "TS"
     },
     {
       "year": 2023,
@@ -33,9 +33,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Amoeba Music",
+      "notes": "SP-CMC-4U · ijwthstd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 ijwthstd"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -46,9 +46,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Masonic Auditorium",
+      "notes": "Schoeps MK4 · loughney",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 loughney"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -59,9 +59,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Pilton, UK",
       "venue": "Glastonbury Festival, Worthy Farm",
+      "notes": "1080p",
       "version": "Webcast",
-      "format": "MP4",
-      "notes": "1080p"
+      "format": "MP4"
     },
     {
       "year": 2026,
@@ -72,9 +72,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival",
+      "notes": "2160p VP9",
       "version": "PRO",
-      "format": "MKV",
-      "notes": "2160p VP9"
+      "format": "MKV"
     },
     {
       "year": 2026,
@@ -84,10 +84,11 @@ const ARTIST_DATA = {
       "city": "Indio",
       "state": "CA",
       "location": "Indio, CA",
-      "venue": "Coachella Festival-  Empire Polo Grounds - Outdoor Theatre",
+      "venue": "Coachella Festival-  Empire Polo Grounds",
+      "notes": "Outdoor · 1080p",
       "version": "PRO",
-      "format": "MKV",
-      "notes": "1080p"
+      "format": "MKV"
     }
-  ]
+  ],
+  "misc": []
 };
