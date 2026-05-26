@@ -21,10 +21,10 @@ const ARTIST_DATA = {
       "city": "Glastonbury",
       "state": "UK",
       "location": "Glastonbury, UK",
-      "venue": "Glastonbury Festival - BBC Radio 1",
+      "venue": "Glastonbury Festival",
+      "notes": "BBC · drumsboy",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "drumsboy"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -35,9 +35,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Maida Vale BBC Studios",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -47,10 +47,10 @@ const ARTIST_DATA = {
       "city": "Ratoath",
       "state": "Ireland",
       "location": "Ratoath, Ireland",
-      "venue": "Witnness Festival - Fairyhouse Racecourse",
+      "venue": "Witnness Festival",
+      "notes": "Fairyhouse · 2FM Broadcast · drumsboy",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "2FM Broadcast \u00b7 drumsboy"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -61,9 +61,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Meath, Ireland",
       "venue": "Slane Castle",
+      "notes": "2FM Broadcast · drumsboy",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "2FM Broadcast \u00b7 drumsboy"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -74,9 +74,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Prime Club",
+      "notes": "OKM II Rock · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "OKM II Rock \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -87,9 +87,10 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "The Great Halll",
+      "notes": "Olympus LS-P1 · welshylad",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Olympus LS-P1 \u00b7 welshylad"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
