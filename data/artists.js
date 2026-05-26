@@ -693,6 +693,13 @@ const ARTISTS = [
     "lastYear": 1973
   },
   {
+    "id": "duster",
+    "name": "Duster",
+    "showCount": 1,
+    "firstYear": 2024,
+    "lastYear": 2024
+  },
+  {
     "id": "eddie-vedder-solo",
     "name": "Eddie Vedder (solo)",
     "showCount": 152,
@@ -856,7 +863,7 @@ const ARTISTS = [
   {
     "id": "finger-eleven",
     "name": "Finger Eleven",
-    "showCount": 4,
+    "showCount": 5,
     "firstYear": 2025,
     "lastYear": 2026
   },
@@ -1295,6 +1302,13 @@ const ARTISTS = [
     "lastYear": 2023
   },
   {
+    "id": "k-s-choice",
+    "name": "K's Choice",
+    "showCount": 9,
+    "firstYear": 1994,
+    "lastYear": 2023
+  },
+  {
     "id": "kacey-musgraves",
     "name": "Kacey Musgraves",
     "showCount": 29,
@@ -1472,9 +1486,9 @@ const ARTISTS = [
   {
     "id": "liz-phair",
     "name": "Liz Phair",
-    "showCount": 24,
-    "firstYear": 1993,
-    "lastYear": 2024
+    "showCount": 11,
+    "firstYear": 1994,
+    "lastYear": 2023
   },
   {
     "id": "ll-cool-j",
@@ -1512,6 +1526,13 @@ const ARTISTS = [
     "lastYear": 2025
   },
   {
+    "id": "luscious-jackson",
+    "name": "Luscious Jackson",
+    "showCount": 10,
+    "firstYear": 1993,
+    "lastYear": 1999
+  },
+  {
     "id": "lush",
     "name": "Lush",
     "showCount": 59,
@@ -1533,6 +1554,13 @@ const ARTISTS = [
     "lastYear": 1995
   },
   {
+    "id": "madder-rose",
+    "name": "Madder Rose",
+    "showCount": 1,
+    "firstYear": 1994,
+    "lastYear": 1994
+  },
+  {
     "id": "maisie-peters",
     "name": "Maisie Peters",
     "showCount": 2,
@@ -1545,6 +1573,13 @@ const ARTISTS = [
     "showCount": 18,
     "firstYear": 2023,
     "lastYear": 2026
+  },
+  {
+    "id": "marcy-playground",
+    "name": "Marcy Playground",
+    "showCount": 2,
+    "firstYear": 2022,
+    "lastYear": 2024
   },
   {
     "id": "maren-morris",
@@ -1605,7 +1640,7 @@ const ARTISTS = [
   {
     "id": "meat-puppets",
     "name": "Meat Puppets",
-    "showCount": 50,
+    "showCount": 51,
     "firstYear": 1980,
     "lastYear": 2022
   },
@@ -1772,6 +1807,13 @@ const ARTISTS = [
   },
   {
     "id": "neds-atomic-dustbin",
+    "name": "Ned's Atomic Dustbin",
+    "showCount": 2,
+    "firstYear": 1991,
+    "lastYear": 2023
+  },
+  {
+    "id": "ned-s-atomic-dustbin",
     "name": "Ned's Atomic Dustbin",
     "showCount": 2,
     "firstYear": 1991,
@@ -2746,7 +2788,7 @@ const ARTISTS = [
   {
     "id": "the-lemonheads",
     "name": "The Lemonheads",
-    "showCount": 50,
+    "showCount": 53,
     "firstYear": 1989,
     "lastYear": 2025
   },
