@@ -28,10 +28,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "Slim's - ANA(M)",
+      "venue": "Slim's",
+      "notes": "ANA(M) · ECM-909 · tjcruz",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-909 \u00b7 tjcruz"
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -42,9 +42,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Chestnut Cabaret",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -54,10 +54,10 @@ const ARTIST_DATA = {
       "city": "Saratoga Springs",
       "state": "NY",
       "location": "Saratoga Springs, NY",
-      "venue": "Saratoga Performing Arts Center - DAT(M)",
+      "venue": "Saratoga Performing Arts Center",
+      "notes": "DAT(M) · Nakamichi 700s · scarletog",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Nakamichi 700s \u00b7 scarletog"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -68,9 +68,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Grant Park (WXRT) *Shape Shifter",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": "WXRT"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -80,10 +80,10 @@ const ARTIST_DATA = {
       "city": "Irvine",
       "state": "CA",
       "location": "Irvine, CA",
-      "venue": "Irvine Meadows - ANA",
+      "venue": "Irvine Meadows",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -94,9 +94,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -107,9 +107,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Menlo Park, CA",
       "venue": "Music Annex,",
+      "notes": "KFOG-FM",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "KFOG-FM"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -120,9 +120,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "CBC Studio 5",
+      "notes": "stevemtl",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "stevemtl"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -133,9 +133,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "The Belly Up Tavern *Live from the Pit",
+      "notes": "",
       "version": "preFM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -146,9 +146,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Solano Beach, CA",
       "venue": "The Belly Up Club *Live from the Pit",
+      "notes": "",
       "version": "preFM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -158,10 +158,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Late Night with Conan O'Brien - VHS",
+      "venue": "Late Night with Conan O'Brien",
+      "notes": "VHS(2) · unk",
       "version": "TV",
-      "format": "MKV",
-      "notes": "2 \u00b7 Unknown"
+      "format": "MKV"
     },
     {
       "year": 2000,
@@ -172,9 +172,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Park West",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -185,9 +185,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "World Cafe LIve",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -198,9 +198,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "SXSW",
+      "notes": "Matthew Sweet & Susanna Hoff · unk",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Matthew Sweet & Susanna Hoff \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -211,9 +211,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "SXSW",
+      "notes": "Matthew Sweet & Susanna Hoff · unk",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Matthew Sweet & Susanna Hoff \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -224,9 +224,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "WXPN Studios",
+      "notes": "Matthew Sweet & Susanna Hoffs",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Matthew Sweet & Susanna Hoffs"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -237,9 +237,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Turin, NY",
       "venue": "Snow Ridge",
+      "notes": "Gefell M200s · jason adler",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Gefell M200s \u00b7 jason adler"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -249,10 +249,10 @@ const ARTIST_DATA = {
       "city": "Matthew Sweet & Susanna Hoffs",
       "state": "",
       "location": "Matthew Sweet & Susanna Hoffs",
-      "venue": "Chicago, IL - Old Town School of Folk Music",
+      "venue": "Chicago, IL",
+      "notes": "Old · Edirol R09 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R09 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -262,10 +262,10 @@ const ARTIST_DATA = {
       "city": "Matthew Sweet & Susanna Hoffs",
       "state": "",
       "location": "Matthew Sweet & Susanna Hoffs",
-      "venue": "Osaka, Japan - Billboard Live",
+      "venue": "Osaka, Japan",
+      "notes": "Billboard · Kenwood MGR-A7 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Kenwood MGR-A7 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -276,9 +276,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "93.1 WXRT",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -289,9 +289,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "World Cafe Live",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -302,9 +302,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "World Cafe Live",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -315,9 +315,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Northampton, MA",
       "venue": "Iron Horse Music Hall",
+      "notes": "SP-CMC-2 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -328,9 +328,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Jersey City, NJ",
       "venue": "White Eagle Hall",
+      "notes": "CA-14s · neil d",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA-14s \u00b7 neil d"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -341,9 +341,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Lincoln Theatre",
+      "notes": "DPA 4080s · flysquirrel",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4080s \u00b7 flysquirrel"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -353,10 +353,10 @@ const ARTIST_DATA = {
       "city": "Santa Monica",
       "state": "CA",
       "location": "Santa Monica, CA",
-      "venue": "McCabe's Guitar Shop (Matthew Sweet Benefit",
+      "venue": "McCabe's Guitar Shop",
+      "notes": "Matthew Sweet Benefit (unk · ijwthstd",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "unk \u00b7 ijwthstd"
+      "format": "FLAC 24"
     }
   ],
   "misc": [
