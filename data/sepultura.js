@@ -21,9 +21,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Marquee Club *Live from the Jungle",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -34,9 +34,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Palasesto *Welcome to Hell",
+      "notes": "Octopus",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": "Octopus"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -44,12 +44,12 @@ const ARTIST_DATA = {
       "day": 16,
       "dateStr": "11-16-1993",
       "city": "Giovanni",
-      "state": "Italy - Live at PalaSesto, Sesto San *Live and Alive",
+      "state": "Italy - Live at PalaSesto",
       "location": "Giovanni, Italy - Live at PalaSesto, Sesto San *Live and Alive",
       "venue": "",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -60,9 +60,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Starplex Amph",
+      "notes": "Sony ECM-155 · smores",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-155 \u00b7 smores"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -72,10 +72,10 @@ const ARTIST_DATA = {
       "city": "Castle Donington",
       "state": "England",
       "location": "Castle Donington, England",
-      "venue": "Monsters of Rock - Donington Festival",
+      "venue": "Monsters of Rock",
+      "notes": "Donington",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
   ],
   "misc": [
