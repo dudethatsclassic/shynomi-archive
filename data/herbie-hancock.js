@@ -23,9 +23,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Mwandishi NDR Studios",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1973,
@@ -36,9 +36,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Strata Art Gallery",
+      "notes": "Goody's Speed-Pitch Adjusted",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Goody's Speed-Pitch Adjusted"
+      "format": "FLAC"
     },
     {
       "year": 1973,
@@ -48,10 +48,10 @@ const ARTIST_DATA = {
       "city": "Boston",
       "state": "MA",
       "location": "Boston, MA",
-      "venue": "Mwandishi Band - Jazz Workshop",
+      "venue": "Mwandishi Band",
+      "notes": "Jazz · WBCN FM",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "WBCN FM"
+      "format": "FLAC"
     },
     {
       "year": 1973,
@@ -62,9 +62,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Hempstead, NY",
       "venue": "Ultrasonic Studios",
+      "notes": "mr_mags · goody pitch adjusted",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "mr_mags \u00b7 goody pitch adjusted"
+      "format": "FLAC"
     },
     {
       "year": 1973,
@@ -75,9 +75,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "East Lansing, MI",
       "venue": "Fairfield Theatre",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1974,
@@ -88,9 +88,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Uptown Theater",
+      "notes": "ldb",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "ldb"
+      "format": "FLAC"
     },
     {
       "year": 1974,
@@ -101,9 +101,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Bremen, Germany",
       "venue": "Sendesaal Radio",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1974,
@@ -114,9 +114,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Bremen, Germany",
       "venue": "Sendesaal Radio",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1975,
@@ -127,9 +127,9 @@ const ARTIST_DATA = {
       "state": "MN (dale shepherd transfer)",
       "location": "Minneapolis, MN (dale shepherd transfer)",
       "venue": "",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1975,
@@ -140,9 +140,9 @@ const ARTIST_DATA = {
       "state": "NE",
       "location": "Omaha, NE",
       "venue": "Omaha Civic Auditorium Music Hall",
+      "notes": "jeff j.",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "jeff j."
+      "format": "FLAC"
     },
     {
       "year": 1977,
@@ -153,9 +153,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Ivanhoe Theater",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1977,
@@ -166,9 +166,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Ivanhoe Theater *Live Voyage",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1977,
@@ -178,10 +178,10 @@ const ARTIST_DATA = {
       "city": "Berkeley",
       "state": "CA",
       "location": "Berkeley, CA",
-      "venue": "Greek Theatre - VSOP",
+      "venue": "Greek Theatre",
+      "notes": "VSOP · Hubbard, Shorter, Williams, Carter",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Hubbard, Shorter, Williams, Carter"
+      "format": "FLAC"
     },
     {
       "year": 1987,
@@ -192,9 +192,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Fukuoka, Japan",
       "venue": "Sunpalace Hall",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
