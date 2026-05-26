@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Axis",
+      "notes": "unk · sluggo",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 sluggo"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
