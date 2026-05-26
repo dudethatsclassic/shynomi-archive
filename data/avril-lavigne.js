@@ -1,7 +1,7 @@
 const ARTIST_DATA = {
   "id": "avril-lavigne",
   "name": "Avril Lavigne",
-  "drive": "D",
+  "drive": "G",
   "showCount": 17,
   "firstYear": 2003,
   "lastYear": 2024,
