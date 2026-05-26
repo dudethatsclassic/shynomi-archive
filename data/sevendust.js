@@ -35,9 +35,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -48,9 +48,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "State College, PA",
       "venue": "The Crowbar",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -61,9 +61,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Roy Wilkins Auditorium",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -73,10 +73,10 @@ const ARTIST_DATA = {
       "city": "Winston-Salem",
       "state": "NC",
       "location": "Winston-Salem, NC",
-      "venue": "Ziggy's - ANA(M)",
+      "venue": "Ziggy's",
+      "notes": "ANA(M) · Realistic · shynomi",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Realistic \u00b7 shynomi"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -87,9 +87,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Holmdel, NJ",
       "venue": "PNC Bank Arts Center",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -100,9 +100,9 @@ const ARTIST_DATA = {
       "state": "MA /- Suffolk Downs (M) (Aiwa Walkman) (unk)",
       "location": "Boston, MA /- Suffolk Downs (M) (Aiwa Walkman) (unk)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -113,9 +113,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Superior, WI",
       "venue": "Wassnam Arena",
+      "notes": "cps",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "cps"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -126,9 +126,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Wilkes Barre, PA",
       "venue": "First Union Arena",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -139,9 +139,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Asbury Park, NJ",
       "venue": "Convention Hall",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -152,9 +152,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Fillmore Auditorium",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -165,9 +165,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
+      "notes": "SBS · dunebug 81",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SBS \u00b7 dunebug 81"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -178,9 +178,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -190,10 +190,10 @@ const ARTIST_DATA = {
       "city": "Milwaukee",
       "state": "WI",
       "location": "Milwaukee, WI",
-      "venue": "Henry W. Maier Festival Park - Summerfest",
+      "venue": "Henry W. Maier Festival Park",
+      "notes": "Summerfest",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -203,10 +203,10 @@ const ARTIST_DATA = {
       "city": "Manchester",
       "state": "NH",
       "location": "Manchester, NH",
-      "venue": "Singer Family Park - DAT",
+      "venue": "Singer Family Park",
+      "notes": "DAT(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -216,10 +216,10 @@ const ARTIST_DATA = {
       "city": "Vancouver",
       "state": "BC",
       "location": "Vancouver, BC",
-      "venue": "Commodore Ballroom - DAT(M)",
+      "venue": "Commodore Ballroom",
+      "notes": "DAT(M) · SS-DSM6s · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SS-DSM6s \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -230,9 +230,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Showplace Theatre",
+      "notes": "CSB · h.d.",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 h.d."
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -242,10 +242,10 @@ const ARTIST_DATA = {
       "city": "Orlando",
       "state": "FL",
       "location": "Orlando, FL",
-      "venue": "House of Blues - MD(M)",
+      "venue": "House of Blues",
+      "notes": "MD(M) · CSB · dunebug81",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 dunebug81"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -255,10 +255,10 @@ const ARTIST_DATA = {
       "city": "Orlando",
       "state": "FL",
       "location": "Orlando, FL",
-      "venue": "Hard Rock Live - MD(M)",
+      "venue": "Hard Rock Live",
+      "notes": "MD(M) · CSB · dunebug 81",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 dunebug 81"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -269,9 +269,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues",
+      "notes": "Sony MZ-N1 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony MZ-N1 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -282,9 +282,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Urbana, IL",
       "venue": "The Canopy Club",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -294,10 +294,10 @@ const ARTIST_DATA = {
       "city": "Orlando",
       "state": "FL",
       "location": "Orlando, FL",
-      "venue": "House of Blues - MD(M)",
+      "venue": "House of Blues",
+      "notes": "MD(M) · CSB · kevdogg",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 kevdogg"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -308,9 +308,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Sayreville, NJ",
       "venue": "Starland Ballroom",
+      "notes": "Oade Minimic · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Oade Minimic \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -321,9 +321,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Winston-Salem, NC",
       "venue": "Ziggy's",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -334,9 +334,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "The Masquerade",
+      "notes": "Sony ECM-717 · kevdogg",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 kevdogg"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -347,9 +347,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Ft. Lauderdale, FL",
       "venue": "Revolution Live",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -360,9 +360,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Blue Cats",
+      "notes": "CSB · geordy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 geordy"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -373,9 +373,9 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Myrtle Beach, SC",
       "venue": "House of Blues",
+      "notes": "DPA 4061s · dunebug81",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 dunebug81"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -385,10 +385,10 @@ const ARTIST_DATA = {
       "city": "Ft. Lauderdale",
       "state": "FL",
       "location": "Ft. Lauderdale, FL",
-      "venue": "Revolution Live - MD(M) DPA 4061s)",
+      "venue": "Revolution Live",
+      "notes": "MD(M) · dunebug81",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 dunebug81"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -399,9 +399,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Blue Cats",
+      "notes": "DPA 4061s · geordy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 geordy"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -412,9 +412,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues",
+      "notes": "Sony ECM-DS70P · metallicasmc",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-DS70P \u00b7 metallicasmc"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -425,9 +425,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
+      "notes": "DPA 4061 · dunebug81",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 dunebug81"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -438,9 +438,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Panama City Beach, FL",
       "venue": "Club La Vela",
+      "notes": "Edirol R-09 · kevdogg",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R-09 \u00b7 kevdogg"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -451,9 +451,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
+      "notes": "Zoom H2 · warciple",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H2 \u00b7 warciple"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -464,9 +464,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Lancaster, PA",
       "venue": "Chameleon Club",
+      "notes": "Microtrack 2 · madmanpsu",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Microtrack 2 \u00b7 madmanpsu"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -477,9 +477,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Jacksonville, FL",
       "venue": "Freebird Live",
+      "notes": "Sony ECM-717 · kevdogg",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 kevdogg"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -490,9 +490,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Scranton, PA",
       "venue": "Scranton Cultural Center",
+      "notes": "Edirol R-09 · tikimaize",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R-09 \u00b7 tikimaize"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -503,9 +503,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Maplewood, MN",
       "venue": "Myth Nightclub",
+      "notes": "WM-61s · kingjman",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "WM-61s \u00b7 kingjman"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -515,10 +515,10 @@ const ARTIST_DATA = {
       "city": "Atlanta",
       "state": "GA",
       "location": "Atlanta, GA",
-      "venue": "The Masquerade - MD(M)",
+      "venue": "The Masquerade",
+      "notes": "MD(M) · DPA 4061s · dunebug81",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 dunebug81"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -528,10 +528,10 @@ const ARTIST_DATA = {
       "city": "Atlanta",
       "state": "GA",
       "location": "Atlanta, GA",
-      "venue": "The Masquerade - MD(M)",
+      "venue": "The Masquerade",
+      "notes": "MD(M) · DPA 4061s · dunebug81",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 dunebug81"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -542,9 +542,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Civic Coliseum",
+      "notes": "DPA 4061s · geordy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 geordy"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -555,9 +555,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Jacksonville, FL",
       "venue": "Brewster's Megaplex",
+      "notes": "Sony ECM-717 · kevdogg",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 kevdogg"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -568,9 +568,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "The Cuban Club",
+      "notes": "Sony ECM-717 · kevdogg",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 kevdogg"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -581,9 +581,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "CapeCoral, FL",
       "venue": "Dixie Roadhouse",
+      "notes": "Sony ECM-717 · kevdogg",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 kevdogg"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -594,9 +594,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Fillmore",
+      "notes": "Shure MV88 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Shure MV88 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -607,9 +607,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Las Vegas Fairgrounds",
+      "notes": "iPhone · anonymous",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "iPhone \u00b7 anonymous"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -619,10 +619,10 @@ const ARTIST_DATA = {
       "city": "Columbus",
       "state": "OH",
       "location": "Columbus, OH",
-      "venue": "Sonic Temple Festival - Temple Stage",
+      "venue": "Sonic Temple Festival",
+      "notes": "Temple · Schoeps MK4 · jesse mc",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 jesse mc"
+      "format": "FLAC 24"
     },
     {
       "year": 2026,
@@ -633,9 +633,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "AO Arena",
+      "notes": "Zoom H2n · allanm",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H2n \u00b7 allanm"
+      "format": "FLAC"
     }
   ],
   "misc": [
