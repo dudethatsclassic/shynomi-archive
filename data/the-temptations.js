@@ -1,14 +1,12 @@
 const ARTIST_DATA = {
   "id": "the-temptations",
   "name": "The Temptations",
-  "drive": "A",
-  "showCount": 3,
-  "firstYear": 1979,
-  "lastYear": 2025,
+  "drive": "D",
+  "showCount": 1,
+  "firstYear": 1982,
+  "lastYear": 1982,
   "years": [
-    1979,
-    1982,
-    2025
+    1982
   ],
   "shows": [
     {
@@ -20,35 +18,10 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Owings Mills, MD",
       "venue": "Painters Mill Music Fair",
+      "notes": "master · rs archives",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "master \u00b7 rs archives"
-    },
-    {
-      "year": 1979,
-      "month": 10,
-      "day": 27,
-      "dateStr": "10-27-1979",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Trax",
-      "version": "FM",
-      "format": "FLAC",
-      "notes": "WPIX 102FM"
-    },
-    {
-      "year": 2025,
-      "month": 7,
-      "day": 27,
-      "dateStr": "7-27-2025",
-      "city": "Long Beach",
-      "state": "CA",
-      "location": "Long Beach, CA",
-      "venue": "Shoreline Waterfront - Warped Tour",
-      "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
