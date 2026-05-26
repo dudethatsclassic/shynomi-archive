@@ -18,10 +18,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "The Warfield - ANA(M)",
+      "venue": "The Warfield",
+      "notes": "ANA(M) · ECM-909 · tj cruz",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-909 \u00b7 tj cruz"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -31,10 +31,11 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "UCLA Quad - ANA",
+      "venue": "UCLA Quad",
+      "notes": "ANA(M) · ijwthstd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 ijwthstd"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
