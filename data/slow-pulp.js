@@ -18,9 +18,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Coastal Credit Union Music Park",
+      "notes": "iPhone 13 Pro · shynomi",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "iPhone 13 Pro \u00b7 shynomi"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -31,9 +31,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Miller High Life Theatre",
+      "notes": "Zoom iQ7 · poul0004",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Zoom iQ7 \u00b7 poul0004"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
