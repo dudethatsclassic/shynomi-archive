@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Bremen, Germany",
       "venue": "WDR-TV Studios *Musikladen Extra",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
