@@ -18,10 +18,10 @@ const ARTIST_DATA = {
       "city": "Phoenix",
       "state": "AZ",
       "location": "Phoenix, AZ",
-      "venue": "Civic Space Park - 8123 Fest",
+      "venue": "Civic Space Park",
+      "notes": "8123",
       "version": "PRO",
-      "format": "MP4",
-      "notes": ""
+      "format": "MP4"
     },
     {
       "year": 2024,
@@ -31,10 +31,11 @@ const ARTIST_DATA = {
       "city": "Anaheim",
       "state": "CA",
       "location": "Anaheim, CA",
-      "venue": "Honda Center (DPA 4081",
+      "venue": "Honda Center",
+      "notes": "DPA 4081 (faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "faninor"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
