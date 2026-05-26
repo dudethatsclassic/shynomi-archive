@@ -2,15 +2,17 @@ const ARTIST_DATA = {
   "id": "goo-goo-dolls",
   "name": "Goo Goo Dolls",
   "drive": "B",
-  "showCount": 25,
+  "showCount": 31,
   "firstYear": 1990,
   "lastYear": 2025,
   "years": [
     1990,
+    1993,
     1995,
     1996,
     1998,
     1999,
+    2000,
     2002,
     2003,
     2006,
@@ -25,6 +27,19 @@ const ARTIST_DATA = {
   "shows": [
     {
       "year": 1990,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1990",
+      "city": "Rochester",
+      "state": "NY",
+      "location": "Rochester, NY",
+      "venue": "Unknown Venue",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1990,
       "month": 10,
       "day": 26,
       "dateStr": "10-26-1990",
@@ -32,9 +47,22 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Maxwell's",
+      "notes": "smores",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "smores"
+      "format": "FLAC"
+    },
+    {
+      "year": 1993,
+      "month": 4,
+      "day": 30,
+      "dateStr": "4-30-1993",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Metro",
+      "notes": "",
+      "version": "",
+      "format": "DVD"
     },
     {
       "year": 1995,
@@ -45,9 +73,22 @@ const ARTIST_DATA = {
       "state": "CO /The Mercury Cafe (unk)",
       "location": "Denver, CO /The Mercury Cafe (unk)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1996,
+      "month": 3,
+      "day": 16,
+      "dateStr": "3-16-1996",
+      "city": "Banff",
+      "state": "Alberta",
+      "location": "Banff, Alberta",
+      "venue": "Banff Center",
+      "notes": "Snow",
+      "version": "",
+      "format": "DVD"
     },
     {
       "year": 1996,
@@ -58,9 +99,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Marine Midland Arena",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -71,9 +112,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -84,9 +125,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sausalito, CA",
       "venue": "Plant Studios",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -96,10 +137,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Late Night with Conan O'Brien - VHS",
+      "venue": "Late Night with Conan O'Brien",
+      "notes": "VHS(2)",
       "version": "TV",
-      "format": "MKV",
-      "notes": "2"
+      "format": "MKV"
     },
     {
       "year": 1999,
@@ -110,9 +151,22 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Australia",
       "venue": "Unknown Location",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 2000,
+      "month": 9,
+      "day": 2,
+      "dateStr": "9-2-2000",
+      "city": "Syracuse",
+      "state": "NY",
+      "location": "Syracuse, NY",
+      "venue": "State Fair Grandstand",
+      "notes": "",
+      "version": "",
+      "format": "DVD"
     },
     {
       "year": 2002,
@@ -123,9 +177,22 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Warner Theatre",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
+    },
+    {
+      "year": 2002,
+      "month": 10,
+      "day": 31,
+      "dateStr": "10-31-2002",
+      "city": "Poughkeepsie",
+      "state": "NY",
+      "location": "Poughkeepsie, NY",
+      "venue": "Mid-Hudson Civic Center",
+      "notes": "",
+      "version": "",
+      "format": "DVD"
     },
     {
       "year": 2003,
@@ -136,9 +203,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Tinley Park, IL",
       "venue": "Tweeter Center",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -149,9 +216,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Town Ballroom",
+      "notes": "",
       "version": "MTX",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -162,9 +229,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "Ford Amphitheatre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -175,9 +242,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -188,9 +255,9 @@ const ARTIST_DATA = {
       "state": "MS",
       "location": "University of Mississippi, MS",
       "venue": "The Grove",
+      "notes": "Schoeps MK4 · jesse mcalister",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 · jesse mcalister"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -201,9 +268,9 @@ const ARTIST_DATA = {
       "state": "Poland",
       "location": "Kostrzyn nad Odra, Poland",
       "venue": "Pol'and'Rock Festival",
+      "notes": "",
       "version": "Webcast",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2018,
@@ -214,9 +281,9 @@ const ARTIST_DATA = {
       "state": "Hungary",
       "location": "Budapest, Hungary",
       "venue": "Sziget Festival",
+      "notes": "",
       "version": "Webcast",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2018,
@@ -227,9 +294,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Shea's Theater",
+      "notes": "AT831s · binko",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "AT831s · binko"
+      "format": "FLAC 24"
     },
     {
       "year": 2019,
@@ -240,9 +307,22 @@ const ARTIST_DATA = {
       "state": "Mexico",
       "location": "Zapopan, Mexico",
       "venue": "Corona Capital Guadalajara",
+      "notes": "",
       "version": "Webcast",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "day": 10,
+      "dateStr": "9-10-2019",
+      "city": "West Babylon",
+      "state": "NY",
+      "location": "West Babylon, NY",
+      "venue": "Looney Tunes",
+      "notes": "",
+      "version": "",
+      "format": "MP4"
     },
     {
       "year": 2019,
@@ -253,9 +333,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Palace Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -266,9 +346,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Huber Heights, OH",
       "venue": "Rose Music Center",
+      "notes": "CA-14 · charles dewey cole",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 · charles dewey cole"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -279,9 +359,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Stanford, CA",
       "venue": "Frost Amphitheatre",
+      "notes": "SP-CMC-4U · loughney",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U · loughney"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -292,9 +372,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Lincoln, CA",
       "venue": "Thunder Valley",
+      "notes": "IEM+Tascam DR-2D · hoserama",
       "version": "MIX",
-      "format": "FLAC",
-      "notes": "IEM+Tascam DR-2D · hoserama"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -305,9 +385,9 @@ const ARTIST_DATA = {
       "state": "MO - Washington Town & Country Fair (Sony PCM-A10) (shane e. calhoon)",
       "location": "Washington, MO - Washington Town & Country Fair (Sony PCM-A10) (shane e. calhoon)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": ""
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -318,9 +398,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Pabst Theater",
+      "notes": "CA-14 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -331,9 +411,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Stagecoach Festival 2025, Empire Polo Club",
+      "notes": "1080p",
       "version": "Webcast",
-      "format": "TS",
-      "notes": "1080p"
+      "format": "TS"
     },
     {
       "year": 2025,
@@ -343,10 +423,10 @@ const ARTIST_DATA = {
       "city": "Toronto",
       "state": "ON",
       "location": "Toronto, ON",
-      "venue": "Budweiser Stage (M)",
+      "venue": "Budweiser Stage",
+      "notes": "M · Zoom H1n · bowlingron",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H1n · bowlingron"
+      "format": "FLAC"
     }
   ],
   "misc": [
