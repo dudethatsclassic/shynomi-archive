@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "wilco",
   "name": "Wilco",
   "drive": "E",
-  "showCount": 1121,
+  "showCount": 1122,
   "firstYear": 1994,
   "lastYear": 2026,
   "years": [
@@ -11843,6 +11843,19 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources"
+    },
+    {
+      "year": 2016,
+      "month": 2,
+      "day": 22,
+      "dateStr": "2-22-2016",
+      "city": "Port Chester",
+      "state": "NY",
+      "location": "Port Chester, NY",
+      "venue": "Capitol Theatre",
+      "notes": "1-channel mono",
+      "version": "AUD",
+      "format": ""
     },
     {
       "year": 2016,
