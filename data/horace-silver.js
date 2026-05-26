@@ -19,9 +19,9 @@ const ARTIST_DATA = {
       "state": "Switzerland - Unknown Venue",
       "location": "Zurich, Switzerland - Unknown Venue",
       "venue": "",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1968,
@@ -31,10 +31,11 @@ const ARTIST_DATA = {
       "city": "Copenhagen",
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
-      "venue": "Tivolis Koncertsal - Jazz Around Midnight 1968",
+      "venue": "Tivolis Koncertsal",
+      "notes": "Jazz · Danish TV",
       "version": "TV",
-      "format": "MKV",
-      "notes": "Danish TV"
+      "format": "MKV"
     }
-  ]
+  ],
+  "misc": []
 };
