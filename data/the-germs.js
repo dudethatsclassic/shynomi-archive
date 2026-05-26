@@ -2,14 +2,28 @@ const ARTIST_DATA = {
   "id": "the-germs",
   "name": "The Germs",
   "drive": "C",
-  "showCount": 4,
-  "firstYear": 1979,
+  "showCount": 5,
+  "firstYear": 1978,
   "lastYear": 1980,
   "years": [
+    1978,
     1979,
     1980
   ],
   "shows": [
+    {
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1978",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "Masque",
+      "notes": "",
+      "version": "AUD",
+      "format": "FLAC"
+    },
     {
       "year": 1979,
       "month": 9,
@@ -19,9 +33,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood , CA",
       "venue": "Hong Kong Cafe",
+      "notes": "djm5000",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "djm5000"
+      "format": "FLAC"
     },
     {
       "year": 1980,
@@ -32,9 +46,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Redondo Beach, CA",
       "venue": "Club Fleetwood",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1980,
@@ -45,9 +59,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Redondo Beach, CA",
       "venue": "Club Fleetwood",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1980,
@@ -58,9 +72,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "The Starwood",
+      "notes": "Rhino RHM2 524568",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": "Rhino RHM2 524568"
+      "format": "FLAC"
     }
   ],
   "misc": [
