@@ -2,13 +2,12 @@ const ARTIST_DATA = {
   "id": "chris-stapleton",
   "name": "Chris Stapleton",
   "drive": "C",
-  "showCount": 6,
+  "showCount": 5,
   "firstYear": 2016,
-  "lastYear": 2023,
+  "lastYear": 2018,
   "years": [
     2016,
-    2018,
-    2023
+    2018
   ],
   "shows": [
     {
@@ -75,19 +74,6 @@ const ARTIST_DATA = {
       "notes": "Farm",
       "version": "Webcast",
       "format": "TS"
-    },
-    {
-      "year": 2023,
-      "month": 6,
-      "day": 24,
-      "dateStr": "6-24-2023",
-      "city": "Canandaigua",
-      "state": "NY",
-      "location": "Canandaigua, NY",
-      "venue": "CMAC",
-      "notes": "Sennheiser AMBEO · thriftynomad",
-      "version": "AUD",
-      "format": "FLAC 24"
     }
   ],
   "misc": []
