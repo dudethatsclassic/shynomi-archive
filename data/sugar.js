@@ -19,10 +19,10 @@ const ARTIST_DATA = {
       "city": "Seattle",
       "state": "WA",
       "location": "Seattle, WA",
-      "venue": "Moore Theater - ANA",
+      "venue": "Moore Theater",
+      "notes": "ANA(M) · loughney transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 loughney transfer"
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -32,10 +32,10 @@ const ARTIST_DATA = {
       "city": "Ghent",
       "state": "Belgium",
       "location": "Ghent, Belgium",
-      "venue": "Vooruit Concertzaal - DAT",
+      "venue": "Vooruit Concertzaal",
+      "notes": "DAT(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -46,9 +46,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -58,10 +58,10 @@ const ARTIST_DATA = {
       "city": "Seattle",
       "state": "WA",
       "location": "Seattle, WA",
-      "venue": "Oz Niteclub - DAT",
+      "venue": "Oz Niteclub",
+      "notes": "DAT(M) · loughney transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 loughney transfer"
+      "format": "FLAC"
     },
     {
       "year": 2026,
@@ -72,9 +72,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Webster Hall",
+      "notes": "Schoeps MK4 · lachtna productions",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 lachtna productions"
+      "format": "FLAC 24"
     },
     {
       "year": 2026,
@@ -85,9 +85,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Webster Hall",
+      "notes": "Schoeps MK4 · lachtna productions",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 lachtna productions"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
