@@ -1,7 +1,7 @@
 const ARTIST_DATA = {
   "id": "chris-robinson-brotherhood",
   "name": "Chris Robinson Brotherhood",
-  "drive": "F",
+  "drive": "E",
   "showCount": 9,
   "firstYear": 2011,
   "lastYear": 2012,
