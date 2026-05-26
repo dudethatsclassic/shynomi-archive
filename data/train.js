@@ -21,9 +21,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Radio Theatre",
+      "notes": "soledriver",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "soledriver"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -34,9 +34,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
+      "notes": "CSC · shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSC \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -47,9 +47,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Murat Egyptian Room",
+      "notes": "CSC · shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSC \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -60,9 +60,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Webster Hall",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -73,9 +73,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Lake Tahoe, NV",
       "venue": "Harvey's,",
+      "notes": "Zoom H1 · whiskeyrecordings",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H1 \u00b7 whiskeyrecordings"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -86,9 +86,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "100 Club",
+      "notes": "Olympus LS-10 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Olympus LS-10 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -99,9 +99,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Nob Hill Masonic Auditorium",
+      "notes": "Neumann KMF 4i · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Neumann KMF 4i \u00b7 Unknown"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
