@@ -30,9 +30,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Donald Bren Events Centre",
+      "notes": "1g",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "1g"
+      "format": "DVD"
     },
     {
       "year": 1997,
@@ -42,10 +42,10 @@ const ARTIST_DATA = {
       "city": "Irvine",
       "state": "CA",
       "location": "Irvine, CA",
-      "venue": "Donald Bren Events Centre - VHS(1)",
+      "venue": "Donald Bren Events Centre",
+      "notes": "VHS(1) · Handheld · brownlabel",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "Handheld \u00b7 brownlabel"
+      "format": "DVD"
     },
     {
       "year": 1999,
@@ -56,9 +56,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Mile High Stadium",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -69,9 +69,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Nautica Stage",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -81,10 +81,10 @@ const ARTIST_DATA = {
       "city": "Montreal",
       "state": "QC",
       "location": "Montreal, QC",
-      "venue": "Parc Des Iles - Warped Tour - Hi8",
+      "venue": "Parc Des Iles",
+      "notes": "Warped · M · agrenier",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "M \u00b7 agrenier"
+      "format": "DVD"
     },
     {
       "year": 2000,
@@ -94,10 +94,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "NBC Studio - Saturday Night Live",
+      "venue": "NBC Studio",
+      "notes": "Saturday",
       "version": "TV",
-      "format": "MKV",
-      "notes": ""
+      "format": "MKV"
     },
     {
       "year": 2000,
@@ -108,9 +108,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Melbourne, AUS",
       "venue": "Big Day Out",
+      "notes": "unk",
       "version": "PRO",
-      "format": "DVD",
-      "notes": "Unknown"
+      "format": "DVD"
     },
     {
       "year": 2000,
@@ -120,10 +120,10 @@ const ARTIST_DATA = {
       "city": "San Diego",
       "state": "CA",
       "location": "San Diego, CA",
-      "venue": "The Casbah - VHS",
+      "venue": "The Casbah",
+      "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "1"
+      "format": "DVD"
     },
     {
       "year": 2000,
@@ -134,9 +134,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Adelaide, Australia",
       "venue": "Adelaide Entertainment Centre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -147,9 +147,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -160,9 +160,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Verizon Wireless Amphitheatre",
+      "notes": "Sony MD · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony MD \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -173,9 +173,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cuyahoga Falls, OH",
       "venue": "Blossom Music Center",
+      "notes": "CSB · charles dewey cole",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 charles dewey cole"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -185,10 +185,10 @@ const ARTIST_DATA = {
       "city": "Universal City",
       "state": "CA",
       "location": "Universal City, CA",
-      "venue": "Universal Amphitheater - KROQ Almost Acoustic Christmas",
+      "venue": "Universal Amphitheater",
+      "notes": "KROQ · Sony ECM-DSP70 · the v.u.",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-DSP70 \u00b7 the v.u."
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -198,10 +198,10 @@ const ARTIST_DATA = {
       "city": "Camden",
       "state": "NJ",
       "location": "Camden, NJ",
-      "venue": "Tweeter Theatre - miniDV",
+      "venue": "Tweeter Theatre",
+      "notes": "miniDV(M)",
       "version": "PRO",
-      "format": "DVD",
-      "notes": "M"
+      "format": "DVD"
     },
     {
       "year": 2004,
@@ -211,10 +211,10 @@ const ARTIST_DATA = {
       "city": "London",
       "state": "UK",
       "location": "London, UK",
-      "venue": "Wembley Arena - Hi8",
+      "venue": "Wembley Arena",
+      "notes": "Hi8",
       "version": "AMT #1",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2009,
@@ -224,10 +224,10 @@ const ARTIST_DATA = {
       "city": "Burbank",
       "state": "CA",
       "location": "Burbank, CA",
-      "venue": "NBC Studios - Tonight Jay Leno",
+      "venue": "NBC Studios",
+      "notes": "Tonight",
       "version": "PRO #1",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2009,
@@ -238,9 +238,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheatre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -251,9 +251,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Bristow, VA",
       "venue": "Jiffy Lube Live",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": ""
+      "format": "FLAC 24"
     },
     {
       "year": 2013,
@@ -263,10 +263,10 @@ const ARTIST_DATA = {
       "city": "Brisbane",
       "state": "AU",
       "location": "Brisbane, AU",
-      "venue": "RNA Showgrounds - Soundwave Festival",
+      "venue": "RNA Showgrounds",
+      "notes": "Soundwave · SP-BMC-1 · shadowfax1007",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-BMC-1 \u00b7 shadowfax1007"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -276,10 +276,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Grant Park - Lollapalooza",
+      "venue": "Grant Park",
+      "notes": "Lollapalooza · indykid",
       "version": "Webcast",
-      "format": "TS",
-      "notes": "indykid"
+      "format": "TS"
     },
     {
       "year": 2020,
@@ -289,10 +289,10 @@ const ARTIST_DATA = {
       "city": "Inglewood",
       "state": "CA",
       "location": "Inglewood, CA",
-      "venue": "The Forum - iHeartRadio ALTer EGO '20",
+      "venue": "The Forum",
+      "notes": "iHeartRadio · indykid",
       "version": "Webcast",
-      "format": "TS",
-      "notes": "indykid"
+      "format": "TS"
     },
     {
       "year": 2023,
@@ -302,10 +302,10 @@ const ARTIST_DATA = {
       "city": "Indio",
       "state": "CA",
       "location": "Indio, CA",
-      "venue": "Sahara - Coachella Week One",
+      "venue": "Sahara",
+      "notes": "Coachella · YouTube Stream · unk",
       "version": "Webcast",
-      "format": "MKV",
-      "notes": "YouTube Stream \u00b7 Unknown"
+      "format": "MKV"
     },
     {
       "year": 2023,
@@ -315,10 +315,10 @@ const ARTIST_DATA = {
       "city": "Indio",
       "state": "CA",
       "location": "Indio, CA",
-      "venue": "Sahara Tent - Coachella",
+      "venue": "Sahara Tent",
+      "notes": "Coachella · SP-CMC-8 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -329,9 +329,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival, Empire Polo Grounds",
+      "notes": "Webcast",
       "version": "Webcast",
-      "format": "TS",
-      "notes": "Webcast"
+      "format": "TS"
     },
     {
       "year": 2023,
@@ -341,10 +341,10 @@ const ARTIST_DATA = {
       "city": "Indio",
       "state": "CA",
       "location": "Indio, CA",
-      "venue": "Coachella (Weekend 2)",
+      "venue": "Coachella",
+      "notes": "Weekend 2 · SP-CMC-8 · fried_morals",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 fried_morals"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -355,9 +355,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "PPG Paints Arena",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 live2cd"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -368,9 +368,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "BMO Stadium",
+      "notes": "SP-CMC-4U · ijwthstd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 ijwthstd"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -381,9 +381,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Brisbane, AUS",
       "venue": "Brisbane Entertainment Centre",
+      "notes": "SP-BMC-12 · bnelive",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-BMC-12 \u00b7 bnelive"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -393,10 +393,10 @@ const ARTIST_DATA = {
       "city": "Santiago",
       "state": "Chile",
       "location": "Santiago, Chile",
-      "venue": "Cenco Malls Stage - Lollapalooza",
+      "venue": "Cenco Malls Stage",
+      "notes": "Lollapalooza · fstambuk",
       "version": "Webcast",
-      "format": "MKV",
-      "notes": "fstambuk"
+      "format": "MKV"
     },
     {
       "year": 2024,
@@ -407,9 +407,9 @@ const ARTIST_DATA = {
       "state": "Brazil",
       "location": "Sao Paulo, Brazil",
       "venue": "Lollapalooza (1080 TV Broadcast",
+      "notes": "",
       "version": "Webcast",
-      "format": "MP4",
-      "notes": ""
+      "format": "MP4"
     },
     {
       "year": 2024,
@@ -420,9 +420,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "SoFi Stadium",
+      "notes": "SP-CMC-4U · ijwthstd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 ijwthstd"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -433,9 +433,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Flushing, NY",
       "venue": "Citi Field",
+      "notes": "Zoom H1n · waymuu",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H1n \u00b7 waymuu"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -446,9 +446,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Flushing, NY",
       "venue": "Citi Field",
+      "notes": "Zoom H4N · peter",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H4N \u00b7 peter"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -459,9 +459,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Reading, England",
       "venue": "Reading Festival",
+      "notes": "BBC iPlayer 720",
       "version": "Webcast",
-      "format": "MP4",
-      "notes": "BBC iPlayer 720"
+      "format": "MP4"
     }
-  ]
+  ],
+  "misc": []
 };
