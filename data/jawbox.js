@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "Middle East",
+      "notes": "dan · zootype transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "dan \u00b7 zootype transfer"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
