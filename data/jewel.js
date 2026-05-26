@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "jewel",
   "name": "Jewel",
   "drive": "D",
-  "showCount": 62,
+  "showCount": 64,
   "firstYear": 1995,
   "lastYear": 2013,
   "years": [
@@ -26,9 +26,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Ludlow Street Cafe",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -38,10 +38,10 @@ const ARTIST_DATA = {
       "city": "Washington",
       "state": "DC",
       "location": "Washington, DC",
-      "venue": "15 Minute Club - CASS",
+      "venue": "15 Minute Club",
+      "notes": "CASS(M) · stevemtl",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 stevemtl"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -51,10 +51,10 @@ const ARTIST_DATA = {
       "city": "Rochester",
       "state": "NY",
       "location": "Rochester, NY",
-      "venue": "WBER-FM - ANA",
+      "venue": "WBER-FM",
+      "notes": "ANA(1) · kingrue transfer",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "1 \u00b7 kingrue transfer"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -64,10 +64,23 @@ const ARTIST_DATA = {
       "city": "Baltimore",
       "state": "MD",
       "location": "Baltimore, MD",
-      "venue": "Bohanger's (WHFS Broadcast) - DAT",
+      "venue": "Bohanger's (WHFS Broadcast)",
+      "notes": "DAT(M)",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "WHFS Broadcast \u00b7 M"
+      "format": "FLAC"
+    },
+    {
+      "year": 1995,
+      "month": 11,
+      "day": 6,
+      "dateStr": "11-6-1995",
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "The Fillmore",
+      "notes": "unk · neekrive",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1995,
@@ -77,10 +90,10 @@ const ARTIST_DATA = {
       "city": "Philadelphia",
       "state": "PA",
       "location": "Philadelphia, PA",
-      "venue": "World Cafe - ANA",
+      "venue": "World Cafe",
+      "notes": "ANA(1) · kingsrue transfer",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "1 \u00b7 kingsrue transfer"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -91,9 +104,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Montezuma Hall",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -103,10 +116,10 @@ const ARTIST_DATA = {
       "city": "Ocean Beach",
       "state": "CA",
       "location": "Ocean Beach, CA",
-      "venue": "Java Joe's - ANA(2)",
+      "venue": "Java Joe's",
+      "notes": "ANA(2) · Cassette Walkman · kingrue transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Cassette Walkman \u00b7 kingrue transfer"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -117,9 +130,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "Be Here Now",
+      "notes": "Aiwa Handheld · chazarrelli",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Aiwa Handheld \u00b7 chazarrelli"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -130,9 +143,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Flamingo Grill",
+      "notes": "Aiwa Handheld · chazarrelli",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Aiwa Handheld \u00b7 chazarrelli"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -142,10 +155,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Sky Lounge Studios 102.7 WNEW - ANA",
+      "venue": "Sky Lounge Studios 102.7 WNEW",
+      "notes": "ANA(2) · kingsrue transfer",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "2 \u00b7 kingsrue transfer"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -155,10 +168,10 @@ const ARTIST_DATA = {
       "city": "Ann Arbor",
       "state": "MI",
       "location": "Ann Arbor, MI",
-      "venue": "Blind Pig - ANA",
+      "venue": "Blind Pig",
+      "notes": "ANA(3) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "3 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -169,9 +182,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Town Pump",
+      "notes": "Hand-held Walkman · george",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Hand-held Walkman \u00b7 george"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -181,10 +194,10 @@ const ARTIST_DATA = {
       "city": "New Haven",
       "state": "CT",
       "location": "New Haven, CT",
-      "venue": "Palace Theater - ANA",
+      "venue": "Palace Theater",
+      "notes": "ANA(2) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "2 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -195,9 +208,9 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Burlington, VT",
       "venue": "UVM Roy L. Patrick Gymnasium",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -208,9 +221,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbo's 365 Club",
+      "notes": "Schoeps MK4 · george",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 george"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -221,9 +234,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
+      "notes": "Sony 727 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony 727 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -234,9 +247,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "The Intersection",
+      "notes": "Sony 727p · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony 727p \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -247,9 +260,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York City, NY",
       "venue": "Irving Plaza",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -260,9 +273,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
+      "notes": "WBCN FM Live",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "WBCN FM Live"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -272,10 +285,10 @@ const ARTIST_DATA = {
       "city": "Seabright",
       "state": "NJ",
       "location": "Seabright, NJ",
-      "venue": "Tradewinds Club - ANA(M)",
+      "venue": "Tradewinds Club",
+      "notes": "ANA(M) · unk · george",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 george"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -285,10 +298,10 @@ const ARTIST_DATA = {
       "city": "Atlanta",
       "state": "GA",
       "location": "Atlanta, GA",
-      "venue": "Cotton Club (Src 1)",
+      "venue": "Cotton Club",
+      "notes": "Src 1 · Aiwa Handheld · chazarrelli",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Aiwa Handheld \u00b7 chazarrelli"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -298,10 +311,10 @@ const ARTIST_DATA = {
       "city": "Atlanta",
       "state": "GA",
       "location": "Atlanta, GA",
-      "venue": "Cotton Club (Src 2) - ANA",
+      "venue": "Cotton Club (Src 2)",
+      "notes": "ANA(2) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "2 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -311,10 +324,10 @@ const ARTIST_DATA = {
       "city": "Orlando",
       "state": "FL",
       "location": "Orlando, FL",
-      "venue": "Firestone's - ANA",
+      "venue": "Firestone's",
+      "notes": "ANA(3) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "3 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -325,9 +338,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -337,10 +350,10 @@ const ARTIST_DATA = {
       "city": "Woodstock",
       "state": "NY",
       "location": "Woodstock, NY",
-      "venue": "Tinker Street Cafe - ANA",
+      "venue": "Tinker Street Cafe",
+      "notes": "ANA(x) · unk",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "x \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -351,9 +364,9 @@ const ARTIST_DATA = {
       "state": "NY - Bearsville Theater (stevemtl transfer)",
       "location": "Woodstock, NY - Bearsville Theater (stevemtl transfer)",
       "venue": "",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -364,9 +377,9 @@ const ARTIST_DATA = {
       "state": "NY - Bearsville Theater (unk)",
       "location": "Woodstock, NY - Bearsville Theater (unk)",
       "venue": "",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -377,9 +390,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Blockbuster Pavilion",
+      "notes": "Sonic Studios · kingsrue transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sonic Studios \u00b7 kingsrue transfer"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -390,9 +403,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Canandaiqua, NY",
       "venue": "Finger Lakes Center",
+      "notes": "CSB · george",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 george"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -402,10 +415,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Madison Square Garden - DAT(M)",
+      "venue": "Madison Square Garden",
+      "notes": "DAT(M) · unk · Src 1",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 Src 1"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -415,10 +428,10 @@ const ARTIST_DATA = {
       "city": "Mansfield",
       "state": "MA",
       "location": "Mansfield, MA",
-      "venue": "Great Woods Performing Arts Center - ANA",
+      "venue": "Great Woods Performing Arts Center",
+      "notes": "ANA(M) · stevemtl transfer",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "M \u00b7 stevemtl transfer"
+      "format": "FLAC 24"
     },
     {
       "year": 1996,
@@ -429,9 +442,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga Springs, NY",
       "venue": "S.P.A.C.",
+      "notes": "CSB · smores",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 smores"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -442,9 +455,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Deer Creek Music Center",
+      "notes": "CM-300s · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CM-300s \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -455,9 +468,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Polaris Amphitheatre",
+      "notes": "Realistic Stereo Mic · the govner",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Realistic Stereo Mic \u00b7 the govner"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -467,10 +480,10 @@ const ARTIST_DATA = {
       "city": "Providence",
       "state": "RI",
       "location": "Providence, RI",
-      "venue": "Lupo's Heartbreak Hotel - ANA(1)",
+      "venue": "Lupo's Heartbreak Hotel",
+      "notes": "ANA(1) · Walkman · tom holland",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Walkman \u00b7 tom holland"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -481,9 +494,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Offenbach, Germany",
       "venue": "Stadthalle",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -494,9 +507,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Union Chapel",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -507,9 +520,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Fairfax, VA",
       "venue": "George Mason Patriot Center",
+      "notes": "WHFS 99.1",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "WHFS 99.1"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -520,22 +533,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Geneseo, NY",
       "venue": "SUNY Geneseo",
+      "notes": "Oade mics · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Oade mics \u00b7 Unknown"
-    },
-    {
-      "year": 1997,
-      "month": 3,
-      "day": 3,
-      "dateStr": "3-3-1997",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Beacon Theatre (Sony PC-62)",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "ken g. \u00b7 Source 1"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -546,9 +546,22 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
+      "notes": "Sony PC-62 · ken g. · Source 1",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 Source 2"
+      "format": "FLAC"
+    },
+    {
+      "year": 1997,
+      "month": 3,
+      "day": 3,
+      "dateStr": "3-3-1997",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Beacon Theatre",
+      "notes": "unk · Source 2",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -558,10 +571,10 @@ const ARTIST_DATA = {
       "city": "Pittsburgh",
       "state": "PA",
       "location": "Pittsburgh, PA",
-      "venue": "Duquesne University (Cassette Walkman built-in)",
+      "venue": "Duquesne University",
+      "notes": "Cassette Walkman built-in · unk · george",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 george"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -571,10 +584,10 @@ const ARTIST_DATA = {
       "city": "Washington",
       "state": "DC",
       "location": "Washington, DC",
-      "venue": "930 Club - ANA",
+      "venue": "930 Club",
+      "notes": "ANA(1) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "1 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -585,9 +598,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Murat Theater",
+      "notes": "Sony ECM-727P · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-727P \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -597,10 +610,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Chicago Theatre (Src 1)",
+      "venue": "Chicago Theatre",
+      "notes": "Src 1 · Cassette Walkman · kingrue transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Cassette Walkman \u00b7 kingrue transfer"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -610,10 +623,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Chicago Theatre  (Src 2)",
+      "venue": "Chicago Theatre",
+      "notes": "Src 2 · Sony ECM-727P · kingrue transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-727P \u00b7 kingrue transfer"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -623,10 +636,23 @@ const ARTIST_DATA = {
       "city": "Brooklyn",
       "state": "NY",
       "location": "Brooklyn, NY",
-      "venue": "Majestic Theatre - DAT(M)",
+      "venue": "Majestic Theatre",
+      "notes": "DAT(M) · CSB · smores",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 smores"
+      "format": "FLAC"
+    },
+    {
+      "year": 1997,
+      "month": 8,
+      "day": 12,
+      "dateStr": "8-12-1997",
+      "city": "Star Lake Amphitheater (CSB) (unk)",
+      "state": "",
+      "location": "Star Lake Amphitheater (CSB) (unk)",
+      "venue": "",
+      "notes": "",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -636,10 +662,10 @@ const ARTIST_DATA = {
       "city": "Boston",
       "state": "MA",
       "location": "Boston, MA",
-      "venue": "Harborlights Pavilion (Src 2) - ANA",
+      "venue": "Harborlights Pavilion (Src 2)",
+      "notes": "ANA(x) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "x \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -649,10 +675,10 @@ const ARTIST_DATA = {
       "city": "Holmdel",
       "state": "NJ",
       "location": "Holmdel, NJ",
-      "venue": "PNC Bank Arts Center - ANA",
+      "venue": "PNC Bank Arts Center",
+      "notes": "ANA(x) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "x \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -662,10 +688,10 @@ const ARTIST_DATA = {
       "city": "Wantagh",
       "state": "NY",
       "location": "Wantagh, NY",
-      "venue": "Jones Beach (Src 1) - ANA(1)",
+      "venue": "Jones Beach (Src 1)",
+      "notes": "ANA(1) · Sony PC-62 · ken g.",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony PC-62 \u00b7 ken g."
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -676,9 +702,9 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Osaka, Japan",
       "venue": "Umeda Heatbeat",
+      "notes": "kingrue",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "kingrue"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -689,9 +715,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Villa Berg",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -702,9 +728,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "KISS FM 106.1 Studios",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -715,9 +741,9 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Cambridge BBC Broadcast",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -728,9 +754,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Polaris Amphitheater",
+      "notes": "Sony WM-D3",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony WM-D3"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -741,9 +767,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Saratoga, CA",
       "venue": "Mountain Winery",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -754,9 +780,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Torrington, CT",
       "venue": "Warner Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -767,9 +793,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Saratoga, CA",
       "venue": "Historic Mountain Winery",
+      "notes": "vibestyle",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "vibestyle"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -780,9 +806,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Massey Hall",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -793,9 +819,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Merrillville, IN",
       "venue": "Star Plaza Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -806,9 +832,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Mesa, AZ",
       "venue": "Ikeda Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2013,
@@ -819,9 +845,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Highland Park, IL",
       "venue": "Ravinia",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
