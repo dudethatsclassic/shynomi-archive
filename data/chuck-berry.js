@@ -18,9 +18,9 @@ const ARTIST_DATA = {
       "state": "NM",
       "location": "Albuquerque, NM",
       "venue": "State Fairgrounds",
+      "notes": "Aiwa HS-J1 · langdon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Aiwa HS-J1 \u00b7 langdon"
+      "format": "FLAC"
     }
   ],
   "misc": [
