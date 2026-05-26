@@ -17,10 +17,11 @@ const ARTIST_DATA = {
       "city": "Milwaukee",
       "state": "WI",
       "location": "Milwaukee, WI",
-      "venue": "Summerfest - Briggs & Stratton Big Backyard Stage",
+      "venue": "Summerfest",
+      "notes": "Briggs · Shure MV88 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Shure MV88 \u00b7 Unknown"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
