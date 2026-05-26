@@ -25,9 +25,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Buffalo State College",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1979,
@@ -38,9 +38,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Bayou",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1982,
@@ -51,9 +51,9 @@ const ARTIST_DATA = {
       "state": "West Germany",
       "location": "Mannheim, West Germany",
       "venue": "Unknown Venue",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1985,
@@ -64,9 +64,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Stache's",
+      "notes": "ayreeayl",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ayreeayl"
+      "format": "FLAC"
     },
     {
       "year": 1985,
@@ -77,9 +77,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Stache's",
+      "notes": "ayreeayl",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ayreeayl"
+      "format": "FLAC"
     },
     {
       "year": 1985,
@@ -90,9 +90,9 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Museum of Modern Art",
+      "notes": "ayreeayl",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ayreeayl"
+      "format": "FLAC"
     },
     {
       "year": 1985,
@@ -103,9 +103,9 @@ const ARTIST_DATA = {
       "state": "West Germany (ayreeayl)",
       "location": "Hamburg, West Germany (ayreeayl)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1986,
@@ -116,9 +116,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "UIC Pavilion",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1987,
@@ -128,10 +128,10 @@ const ARTIST_DATA = {
       "city": "Vestal",
       "state": "NY",
       "location": "Vestal, NY",
-      "venue": "SUNY Binghampton - Nelson Mandela Room",
+      "venue": "SUNY Binghampton",
+      "notes": "Nelson",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1988,
@@ -142,9 +142,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Petrillo Band Shell",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1988,
@@ -154,10 +154,10 @@ const ARTIST_DATA = {
       "city": "Santa Cruz",
       "state": "CA",
       "location": "Santa Cruz, CA",
-      "venue": "Kuumbwa Jazz Center - DAT",
+      "venue": "Kuumbwa Jazz Center",
+      "notes": "DAT(M)",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "M"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -167,10 +167,11 @@ const ARTIST_DATA = {
       "city": "Lugano",
       "state": "Switzerland",
       "location": "Lugano, Switzerland",
-      "venue": "Piazza della Riforma - Estival Jazz",
+      "venue": "Piazza della Riforma",
+      "notes": "Estival",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
