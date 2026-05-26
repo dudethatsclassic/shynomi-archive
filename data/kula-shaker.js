@@ -21,9 +21,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "East Troy, WI",
       "venue": "Alpine Valley",
+      "notes": "PZM",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "PZM"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -34,9 +34,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Pumpehuset",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -47,9 +47,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Pumpehuset",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -60,9 +60,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -73,9 +73,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Bristol, UK",
       "venue": "Rough Trade Records",
+      "notes": "SP-CMC-9 · boombox",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-9 \u00b7 boombox"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
