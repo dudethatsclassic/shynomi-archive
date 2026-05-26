@@ -2,11 +2,12 @@ const ARTIST_DATA = {
   "id": "dave-brubeck",
   "name": "Dave Brubeck",
   "drive": "D",
-  "showCount": 13,
+  "showCount": 15,
   "firstYear": 1955,
   "lastYear": 2010,
   "years": [
     1955,
+    1962,
     1963,
     1964,
     1990,
@@ -28,9 +29,35 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Carmel, CA",
       "venue": "Private House Party",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1962,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1962",
+      "city": "Manchester",
+      "state": "UK",
+      "location": "Manchester, UK",
+      "venue": "Free Trade Hall",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1962,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1962",
+      "city": "Manchester",
+      "state": "UK",
+      "location": "Manchester, UK",
+      "venue": "Free Trade Hall",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1963,
@@ -41,9 +68,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Basel, Switzerland",
       "venue": "Grand Casino",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1964,
@@ -54,9 +81,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "The White House",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1964,
@@ -67,9 +94,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Studios *Jazz 625",
+      "notes": "",
       "version": "TV",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1990,
@@ -80,9 +107,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Boulder Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -93,9 +120,9 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Vienna, Austria",
       "venue": "Konserthaus",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -106,9 +133,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Leverkusen, Germany",
       "venue": "Forum",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -119,9 +146,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Berkeley Performance Center",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -132,9 +159,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Oyster Bay, NY",
       "venue": "Planting Fields Arboretum",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -145,9 +172,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Monterey, CA",
       "venue": "Monterey Jazz Festival",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -158,9 +185,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga Springs, NY",
       "venue": "SPAC",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -171,9 +198,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "Sanders Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -184,9 +211,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Symphony Hall",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
