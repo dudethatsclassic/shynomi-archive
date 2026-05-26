@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbo's 365 Club",
+      "notes": "Schoeps CCMV · drew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CCMV \u00b7 drew"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
