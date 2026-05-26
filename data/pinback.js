@@ -31,9 +31,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bottom of the Hill",
+      "notes": "SP-CMC-2 · chris bellew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 chris bellew"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -44,9 +44,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pomona, CA",
       "venue": "Glass House",
+      "notes": "SP-CMC-2 · chris bellew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 chris bellew"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -57,9 +57,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
+      "notes": "SP-CMC-2 · chris bellew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 chris bellew"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -70,9 +70,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Empty Bottle",
+      "notes": "unk · aadam jacobs",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 aadam jacobs"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -83,9 +83,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Fireside Bowl",
+      "notes": "unk · aadam jacobs",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 aadam jacobs"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -96,9 +96,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bottom of the Hill",
+      "notes": "SP-CMC-2 · chris bellew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 chris bellew"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -109,9 +109,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Starry Plough",
+      "notes": "SP-CMC-2 · chris bellew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 chris bellew"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -122,9 +122,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Washington D.C.",
       "venue": "Black Cat",
+      "notes": "CSB · gregory martin",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 gregory martin"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -135,9 +135,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Logan Square Auditorium",
+      "notes": "unk · aadam jacobs",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 aadam jacobs"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -148,9 +148,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbo's 365",
+      "notes": "SP-CMC-2 · chris bellew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 chris bellew"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -161,9 +161,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Black Cat",
+      "notes": "CSC · gregory martin",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSC \u00b7 gregory martin"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -174,9 +174,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbo's 365",
+      "notes": "SP-CMC-2 · chris bellew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 chris bellew"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -187,9 +187,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbo's 365",
+      "notes": "SP-CMC-2 · chris bellew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 chris bellew"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -200,9 +200,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Avalon",
+      "notes": "CoreSound Low Cost Stealthy Cardioids · brian eck",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CoreSound Low Cost Stealthy Cardioids \u00b7 brian eck"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -213,9 +213,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theater of Living Arts",
+      "notes": "GSA Powered Omni · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "GSA Powered Omni \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -226,9 +226,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbo's 365",
+      "notes": "SP-CMC-2 · chris bellew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 chris bellew"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -239,9 +239,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Logan Square Auditorium",
+      "notes": "unk · aadam jacobs",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 aadam jacobs"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -252,9 +252,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbo's 365",
+      "notes": "SP-CMC-2 · chris bellew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 chris bellew"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -265,9 +265,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbo's 365",
+      "notes": "Schoeps CMC34 · rainingvodka",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CMC34 \u00b7 rainingvodka"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -278,9 +278,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Rotterdam, The Netherlands",
       "venue": "Rotown",
+      "notes": "CSB · bliv",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 bliv"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -291,9 +291,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox",
+      "notes": "Shure SM58 · sam smith",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Shure SM58 \u00b7 sam smith"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -304,9 +304,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "The Wonder Ballroom",
+      "notes": "Shure SM58 · sam smith",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Shure SM58 \u00b7 sam smith"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -317,9 +317,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "The Catalyst",
+      "notes": "Schoeps CMC34 · rainingvodka",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CMC34 \u00b7 rainingvodka"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -330,9 +330,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Headliner's",
+      "notes": "Scheops MK4 · patrick moore",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Scheops MK4 \u00b7 patrick moore"
+      "format": "FLAC 24"
     },
     {
       "year": 2008,
@@ -343,9 +343,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Bottom Lounge",
+      "notes": "AKG Perception 170's · john f",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AKG Perception 170's \u00b7 john f"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -356,9 +356,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Independent",
+      "notes": "Schoeps CMC34 · rainingvodka",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CMC34 \u00b7 rainingvodka"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -369,9 +369,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bottom of the Hill",
+      "notes": "chris bellew",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "chris bellew"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -382,9 +382,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
+      "notes": "Nakamichi CM300 · patrick moore",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Nakamichi CM300 \u00b7 patrick moore"
+      "format": "FLAC 24"
     },
     {
       "year": 2011,
@@ -395,9 +395,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bottom of the Hill",
+      "notes": "SP-CMC-2 · chris bellew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 chris bellew"
+      "format": "FLAC"
     },
     {
       "year": 2013,
@@ -408,9 +408,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbo's 365",
+      "notes": "SP-CMC-2 · chris bellew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 chris bellew"
+      "format": "FLAC"
     },
     {
       "year": 2013,
@@ -421,9 +421,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
+      "notes": "Zoom H2 · john carey",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H2 \u00b7 john carey"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -434,9 +434,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Union Transfer",
+      "notes": "Zoom H2 · john carey",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H2 \u00b7 john carey"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -447,9 +447,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
+      "notes": "Zoom H2 · john carey",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H2 \u00b7 john carey"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -460,9 +460,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbo's 365",
+      "notes": "SP-CMC-2 · chris bellew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 chris bellew"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -473,9 +473,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbo's 365",
+      "notes": "Schoeps MK4 · rainingvodka",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 rainingvodka"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -486,9 +486,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bottom of the Hill",
+      "notes": "SP-CMC-2 · chris bellew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 chris bellew"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
