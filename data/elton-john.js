@@ -23,9 +23,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Music Hall",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1972,
@@ -35,10 +35,10 @@ const ARTIST_DATA = {
       "city": "South Bend",
       "state": "IN",
       "location": "South Bend, IN",
-      "venue": "Notre Dame University - Athletic & Convocation Center",
+      "venue": "Notre Dame University",
+      "notes": "Athletic",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1974,
@@ -49,9 +49,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Hammersmith Odeon *Christmas Party 1974",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1976,
@@ -62,9 +62,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1979,
@@ -75,9 +75,9 @@ const ARTIST_DATA = {
       "state": "Russia",
       "location": "Moscow, Russia",
       "venue": "Rossya Hotel Concert Hall",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1980,
@@ -88,9 +88,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Seattle Center Coliseum",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
   ],
   "misc": [
