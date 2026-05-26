@@ -17,10 +17,11 @@ const ARTIST_DATA = {
       "city": "Las Vegas",
       "state": "NV",
       "location": "Las Vegas, NV",
-      "venue": "House of Blues - WAV(M)",
+      "venue": "House of Blues",
+      "notes": "WAV(M) · AT853 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "AT853 \u00b7 Unknown"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
