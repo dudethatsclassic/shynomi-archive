@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Mercury Lounge",
+      "notes": "nyctaper",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "nyctaper"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
