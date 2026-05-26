@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Pontiac, MI",
       "venue": "Clutch Cargo's",
+      "notes": "CSB · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 live2cd"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
