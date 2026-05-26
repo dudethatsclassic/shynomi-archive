@@ -1,0 +1,133 @@
+const ARTIST_DATA = {
+  "id": "k-s-choice",
+  "name": "K's Choice",
+  "drive": "E",
+  "showCount": 9,
+  "firstYear": 1994,
+  "lastYear": 2023,
+  "years": [
+    1994,
+    1996,
+    2023
+  ],
+  "shows": [
+    {
+      "year": 1994,
+      "month": 12,
+      "day": 10,
+      "dateStr": "12-10-1994",
+      "city": "Waltham",
+      "state": "MA",
+      "location": "Waltham, MA",
+      "venue": "Brandeis University",
+      "notes": "Sennheiser MKE-2002 · stevemtl",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1996,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1996",
+      "city": "Munich",
+      "state": "Germany",
+      "location": "Munich, Germany",
+      "venue": "Alabamahalle",
+      "notes": "pawel",
+      "version": "PRO",
+      "format": "MKV"
+    },
+    {
+      "year": 2023,
+      "month": 5,
+      "day": 12,
+      "dateStr": "5-12-2023",
+      "city": "Maastricht",
+      "state": "The Netherlands",
+      "location": "Maastricht, The Netherlands",
+      "venue": "Muziekgieterij",
+      "notes": "DPA 4061 · stl",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2023,
+      "month": 5,
+      "day": 17,
+      "dateStr": "5-17-2023",
+      "city": "Brussels",
+      "state": "Belgium",
+      "location": "Brussels, Belgium",
+      "venue": "Ancienne Belgique",
+      "notes": "DPA 4061SG · stl",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2023,
+      "month": 5,
+      "day": 27,
+      "dateStr": "5-27-2023",
+      "city": "Liège",
+      "state": "Belgium",
+      "location": "Liège, Belgium",
+      "venue": "Classic 21 Festival 2023",
+      "notes": "Country",
+      "version": "FM",
+      "format": "FLAC"
+    },
+    {
+      "year": 2023,
+      "month": 7,
+      "day": 7,
+      "dateStr": "7-7-2023",
+      "city": "Oude Markt",
+      "state": "Leuven",
+      "location": "Oude Markt, Leuven, Belgium",
+      "venue": "Beleuvenissen",
+      "notes": "CA-14 · trebor",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2023,
+      "month": 8,
+      "day": 22,
+      "dateStr": "8-22-2023",
+      "city": "Deurne",
+      "state": "Belgium",
+      "location": "Deurne, Belgium",
+      "venue": "OLT Rivierenhof",
+      "notes": "DPA 4061 · stl",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2023,
+      "month": 8,
+      "day": 23,
+      "dateStr": "8-23-2023",
+      "city": "Deurne",
+      "state": "Belgium",
+      "location": "Deurne, Belgium",
+      "venue": "Openluchttheater Rivierenhof",
+      "notes": "Sony ECM 717 · tisnix",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2023,
+      "month": 8,
+      "day": 23,
+      "dateStr": "8-23-2023",
+      "city": "Deurne",
+      "state": "Belgium",
+      "location": "Deurne, Belgium",
+      "venue": "OLT Rivierenhof",
+      "notes": "DPA 4061 · stl",
+      "version": "AUD",
+      "format": "FLAC"
+    }
+  ],
+  "misc": []
+};
