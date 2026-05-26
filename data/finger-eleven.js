@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "finger-eleven",
   "name": "Finger Eleven",
   "drive": "E",
-  "showCount": 4,
+  "showCount": 5,
   "firstYear": 2025,
   "lastYear": 2026,
   "years": [
@@ -19,9 +19,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The King of Clubs",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 \u00b7 live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -32,9 +32,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "The Theatre at Great Canadian Casino Resort",
+      "notes": "Zoom H1n · bowlingron",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H1n \u00b7 bowlingron"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -45,9 +45,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Ottawa, ON",
       "venue": "TD Place",
+      "notes": "iPhone 16 Pro · palm0014",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "iPhone 16 Pro \u00b7 palm0014"
+      "format": "FLAC"
     },
     {
       "year": 2026,
@@ -58,9 +58,23 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "The Hi-Fi",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 \u00b7 live2cd"
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 3,
+      "dateStr": "5-3-2026",
+      "city": "Hamilton",
+      "state": "ON",
+      "location": "Hamilton, ON",
+      "venue": "TD Coliseum",
+      "notes": "Zoom H1n · bowlingron",
+      "version": "AUD",
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
