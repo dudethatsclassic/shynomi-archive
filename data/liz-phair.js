@@ -2,24 +2,17 @@ const ARTIST_DATA = {
   "id": "liz-phair",
   "name": "Liz Phair",
   "drive": "E",
-  "showCount": 24,
-  "firstYear": 1993,
-  "lastYear": 2024,
+  "showCount": 11,
+  "firstYear": 1994,
+  "lastYear": 2023,
   "years": [
-    1993,
     1994,
     1995,
-    1996,
-    1997,
-    1998,
-    1999,
     2005,
     2016,
     2018,
     2019,
-    2022,
-    2023,
-    2024
+    2023
   ],
   "shows": [
     {
@@ -31,9 +24,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheatre",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -44,9 +37,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theatre",
+      "notes": "MarcR Binaurals · marcr",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "MarcR Binaurals · marcr"
+      "format": "FLAC 24"
     },
     {
       "year": 1995,
@@ -56,10 +49,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "Wiltern Theatre - AUD",
+      "venue": "Wiltern Theatre",
+      "notes": "AUD(M) · so cal rock shows",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M · so cal rock shows"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -70,9 +63,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "The Troubadour",
+      "notes": "Sony WM-D3 · manofstealth",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sony WM-D3 · manofstealth"
+      "format": "FLAC 24"
     },
     {
       "year": 2016,
@@ -83,9 +76,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Bass Concert Hall",
+      "notes": "Tascam DR-40 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Tascam DR-40 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -96,9 +89,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "The Sinclair",
+      "notes": "Zoom H2",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H2"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -109,9 +102,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Late Night with Seth Meyers",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -122,9 +115,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tucson, AZ",
       "venue": "Rialto Theatre",
+      "notes": "SP-CMC-25 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-25 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -135,9 +128,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Masonic Auditorium",
+      "notes": "Schoeps MK4 · loughney",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 · loughney"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -148,9 +141,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theatre",
+      "notes": "DPA 4060 · ademotte",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4060 · ademotte"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -161,178 +154,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Moody Theater",
+      "notes": "SP-CMC-8s · rjl",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-8s · rjl"
-    },
-    {
-      "year": 1993,
-      "month": 11,
-      "day": 17,
-      "dateStr": "11-17-1993",
-      "city": "Providence",
-      "state": "RI",
-      "location": "Providence, RI",
-      "venue": "Lupo's Heartbreak Hotel - ANA(M)",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony PC-62 · phil h."
-    },
-    {
-      "year": 1994,
-      "month": 12,
-      "day": 10,
-      "dateStr": "12-10-1994",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Universal Amphitheatre - KROQ's Almost Acoustic Christmas",
-      "version": "FM",
-      "format": "FLAC",
-      "notes": ""
-    },
-    {
-      "year": 1995,
-      "month": 5,
-      "day": 16,
-      "dateStr": "5-16-1995",
-      "city": "Hollywood",
-      "state": "CA",
-      "location": "Hollywood, CA",
-      "venue": "The Palace",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM737 · Unknown"
-    },
-    {
-      "year": 1995,
-      "month": 6,
-      "day": 10,
-      "dateStr": "6-10-1995",
-      "city": "Burgettstown",
-      "state": "PA",
-      "location": "Burgettstown, PA",
-      "venue": "Star Lake Amphitheater",
-      "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
-    },
-    {
-      "year": 1995,
-      "month": 6,
-      "day": 24,
-      "dateStr": "6-24-1995",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Madison Square Garden",
-      "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
-    },
-    {
-      "year": 1996,
-      "month": 12,
-      "day": 28,
-      "dateStr": "12-28-1996",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "The Roxy",
-      "version": "preFM",
-      "format": "FLAC",
-      "notes": ""
-    },
-    {
-      "year": 1997,
-      "month": 2,
-      "day": 8,
-      "dateStr": "2-8-1997",
-      "city": "Victoria",
-      "state": "BC",
-      "location": "Victoria, BC",
-      "venue": "The Limit",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony WM-F46 · crowflies"
-    },
-    {
-      "year": 1998,
-      "month": 6,
-      "day": 14,
-      "dateStr": "6-14-1998",
-      "city": "Washington",
-      "state": "DC",
-      "location": "Washington, DC",
-      "venue": "JFK Stadium - Tibetan Freedom Concert - ANA",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "M · Unknown"
-    },
-    {
-      "year": 1998,
-      "month": 8,
-      "day": 9,
-      "dateStr": "8-9-1998",
-      "city": "Burgettstown",
-      "state": "PA",
-      "location": "Burgettstown, PA",
-      "venue": "CCSLA",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB · smores"
-    },
-    {
-      "year": 1999,
-      "month": 8,
-      "day": 29,
-      "dateStr": "8-29-1999",
-      "city": "Reading",
-      "state": "UK",
-      "location": "Reading, UK",
-      "venue": "Reading Festival",
-      "version": "preFM",
-      "format": "FLAC",
-      "notes": ""
-    },
-    {
-      "year": 1994,
-      "month": 6,
-      "day": 9,
-      "dateStr": "6-9-1994",
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Slim's - ANA(M)",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-909 · tjcruz"
-    },
-    {
-      "year": 2022,
-      "month": 8,
-      "day": 27,
-      "dateStr": "8-27-2022",
-      "city": "Niagara Falls",
-      "state": "ONT",
-      "location": "Niagara Falls, ONT",
-      "venue": "Avalon Ballroom",
-      "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA14s · binko"
-    },
-    {
-      "year": 2024,
-      "month": 9,
-      "day": 19,
-      "dateStr": "9-19-2024",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "The Regent Theater",
-      "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 · faninor"
+      "format": "FLAC 24"
     }
   ],
   "misc": [
@@ -345,212 +169,6 @@ const ARTIST_DATA = {
       "type": "label",
       "label": "Liz Phair - '96-'97 WCSE Sessions",
       "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Luscious Jackson"
-    },
-    {
-      "type": "label",
-      "label": "Drive - E"
-    },
-    {
-      "type": "show",
-      "year": 1993,
-      "month": 11,
-      "day": 17,
-      "dateStr": "11-17-1993",
-      "city": "Providence",
-      "state": "RI",
-      "location": "Providence, RI",
-      "venue": "Lupo's Heartbreak Hotel",
-      "notes": "ANA(M) · Sony PC-62 · phil h.",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "year": 1994,
-      "month": 12,
-      "day": 10,
-      "dateStr": "12-10-1994",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Universal Amphitheatre",
-      "notes": "KROQ's",
-      "version": "FM",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "year": 1995,
-      "month": 5,
-      "day": 16,
-      "dateStr": "5-16-1995",
-      "city": "Hollywood",
-      "state": "CA",
-      "location": "Hollywood, CA",
-      "venue": "The Palace",
-      "notes": "ECM737 · unk",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "year": 1995,
-      "month": 6,
-      "day": 10,
-      "dateStr": "6-10-1995",
-      "city": "Burgettstown",
-      "state": "PA",
-      "location": "Burgettstown, PA",
-      "venue": "Star Lake Amphitheater",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "year": 1995,
-      "month": 6,
-      "day": 24,
-      "dateStr": "6-24-1995",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Madison Square Garden",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "year": 1996,
-      "month": 12,
-      "day": 28,
-      "dateStr": "12-28-1996",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "The Roxy",
-      "notes": "",
-      "version": "preFM",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "year": 1997,
-      "month": 2,
-      "day": 8,
-      "dateStr": "2-8-1997",
-      "city": "Victoria",
-      "state": "BC",
-      "location": "Victoria, BC",
-      "venue": "The Limit",
-      "notes": "Sony WM-F46 · crowflies",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "year": 1998,
-      "month": 6,
-      "day": 14,
-      "dateStr": "6-14-1998",
-      "city": "Washington",
-      "state": "DC",
-      "location": "Washington, DC",
-      "venue": "JFK Stadium",
-      "notes": "Tibetan · M · unk",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "year": 1998,
-      "month": 8,
-      "day": 9,
-      "dateStr": "8-9-1998",
-      "city": "Burgettstown",
-      "state": "PA",
-      "location": "Burgettstown, PA",
-      "venue": "CCSLA",
-      "notes": "CSB · smores",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "year": 1999,
-      "month": 8,
-      "day": 29,
-      "dateStr": "8-29-1999",
-      "city": "Reading",
-      "state": "UK",
-      "location": "Reading, UK",
-      "venue": "Reading Festival",
-      "notes": "",
-      "version": "preFM",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Madder Rose"
-    },
-    {
-      "type": "label",
-      "label": "Drive - E"
-    },
-    {
-      "type": "show",
-      "year": 1994,
-      "month": 6,
-      "day": 9,
-      "dateStr": "6-9-1994",
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Slim's",
-      "notes": "ANA(M) · ECM-909 · tjcruz",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Marcy Playground"
-    },
-    {
-      "type": "label",
-      "label": "Drive - E"
-    },
-    {
-      "type": "show",
-      "year": 2022,
-      "month": 8,
-      "day": 27,
-      "dateStr": "8-27-2022",
-      "city": "Niagara Falls",
-      "state": "ONT",
-      "location": "Niagara Falls, ONT",
-      "venue": "Avalon Ballroom",
-      "notes": "CA14s · binko",
-      "version": "AUD",
-      "format": "FLAC 24"
-    },
-    {
-      "type": "show",
-      "year": 2024,
-      "month": 9,
-      "day": 19,
-      "dateStr": "9-19-2024",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "The Regent Theater",
-      "notes": "DPA 4081 · faninor",
-      "version": "AUD",
-      "format": "FLAC 24"
     }
   ]
 };
