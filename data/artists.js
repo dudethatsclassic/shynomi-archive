@@ -490,6 +490,13 @@ const ARTISTS = [
     "lastYear": 2024
   },
   {
+    "id": "coheed-cambria",
+    "name": "Coheed & Cambria",
+    "showCount": 16,
+    "firstYear": 2005,
+    "lastYear": 2024
+  },
+  {
     "id": "cold",
     "name": "Cold",
     "showCount": 2,
@@ -2277,7 +2284,7 @@ const ARTISTS = [
   {
     "id": "sarah-mclachlan",
     "name": "Sarah McLachlan",
-    "showCount": 6,
+    "showCount": 7,
     "firstYear": 2004,
     "lastYear": 2025
   },
