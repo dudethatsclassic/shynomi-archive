@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "sunny-day-real-estate",
   "name": "Sunny Day Real Estate",
   "drive": "C",
-  "showCount": 19,
+  "showCount": 20,
   "firstYear": 1993,
   "lastYear": 2025,
   "years": [
@@ -28,9 +28,22 @@ const ARTIST_DATA = {
       "state": "ND",
       "location": "Fargo, ND",
       "venue": "Playmaker's",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1994,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1994",
+      "city": "MTV 120 Minutes",
+      "state": "",
+      "location": "MTV 120 Minutes",
+      "venue": "",
+      "notes": "",
+      "version": "Webrip",
+      "format": "MP4"
     },
     {
       "year": 1994,
@@ -41,9 +54,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Waterbury, CT",
       "venue": "Brass City Records",
+      "notes": "In-store · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "In-store \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -54,9 +67,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Knitting Factory",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -67,9 +80,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheatre",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -80,9 +93,9 @@ const ARTIST_DATA = {
       "state": "D.C. - The Black Cat",
       "location": "Washington, D.C. - The Black Cat",
       "venue": "",
+      "notes": "",
       "version": "Webrip",
-      "format": "MP4",
-      "notes": ""
+      "format": "MP4"
     },
     {
       "year": 1998,
@@ -93,9 +106,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
+      "notes": "AT8022 · scott simpson",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT8022 \u00b7 scott simpson"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -106,9 +119,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Breakroom",
+      "notes": "",
       "version": "Webrip",
-      "format": "MP4",
-      "notes": ""
+      "format": "MP4"
     },
     {
       "year": 2000,
@@ -119,9 +132,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "40 Watt Club *How It Feels When It Finally Hits You",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -132,9 +145,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Troubadour",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -145,9 +158,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Sanctuary",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -158,9 +171,9 @@ const ARTIST_DATA = {
       "state": "MA - Middle East",
       "location": "Cambridge, MA - Middle East",
       "venue": "",
+      "notes": "",
       "version": "Webrip",
-      "format": "MP4",
-      "notes": ""
+      "format": "MP4"
     },
     {
       "year": 2000,
@@ -171,9 +184,9 @@ const ARTIST_DATA = {
       "state": "MA - Middle East",
       "location": "Cambridge, MA - Middle East",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -184,9 +197,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tempe, AZ",
       "venue": "Marquee Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -197,9 +210,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "UNSW Roundhouse",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -210,9 +223,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Spokane, WA",
       "venue": "The Big Dipper",
+      "notes": "unk · luke freteluco",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 luke freteluco"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -223,9 +236,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Wiltern",
+      "notes": "SP-CMC-4U · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-4U \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -236,9 +249,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Las Vegas Events Center",
+      "notes": "Zoom H1n · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H1n \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -248,10 +261,10 @@ const ARTIST_DATA = {
       "city": "London",
       "state": "UK",
       "location": "London, UK",
-      "venue": "Victoria Park - Outbreak Fest",
+      "venue": "Victoria Park",
+      "notes": "Outbreak · DPA 4061s · gambra",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 gambra"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -262,9 +275,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Ace Of Spades",
+      "notes": "SP-CMC-4U · vibrioidxire",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-4U \u00b7 vibrioidxire"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
