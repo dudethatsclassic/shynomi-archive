@@ -23,9 +23,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Orbit Room",
+      "notes": "T-mic · v4tx",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "T-mic \u00b7 v4tx"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -36,9 +36,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Roxy",
+      "notes": "WW1 96-09 · exene remaster",
       "version": "preFM",
-      "format": "FLAC",
-      "notes": "WW1 96-09 \u00b7 exene remaster"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -49,9 +49,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -62,9 +62,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Britain, CT",
       "venue": "Sting",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -75,9 +75,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Bomb Factory",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -88,9 +88,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Bomb Factory",
+      "notes": "Version 1",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Version 1"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -101,9 +101,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Bomb Factory",
+      "notes": "Version 2",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Version 2"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -114,9 +114,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Live from the Pit",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -127,9 +127,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theater",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -140,9 +140,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Corpus Christi, TX",
       "venue": "Texas Sky Park",
+      "notes": "CSBmod · arnold leal",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSBmod \u00b7 arnold leal"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -153,9 +153,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Trees",
+      "notes": "T-mic · v4tx",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "T-mic \u00b7 v4tx"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -166,9 +166,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Trees",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -179,9 +179,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tramps",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -192,9 +192,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "New Braunfels, TX",
       "venue": "Whitewater Amphitheater",
+      "notes": "Zoom H4n · thewicke",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H4n \u00b7 thewicke"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -205,9 +205,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "New Braunfels, TX",
       "venue": "Whitewater Amphitheater",
+      "notes": "Zoom H4n · thewicke",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H4n \u00b7 thewicke"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -218,9 +218,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "St. Andrew's Hall",
+      "notes": "CA-14s · charles dewey cole",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14s \u00b7 charles dewey cole"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -231,9 +231,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "The Ritz Ybor",
+      "notes": "Zoom H1 · besley",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H1 \u00b7 besley"
+      "format": "FLAC"
     }
   ],
   "misc": [
