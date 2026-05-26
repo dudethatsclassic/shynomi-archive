@@ -19,9 +19,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Flint, MI",
       "venue": "Machine Shop",
+      "notes": "AT853 · ryanj",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "AT853 \u00b7 ryanj"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -32,9 +32,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Whisky A Go Go",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
