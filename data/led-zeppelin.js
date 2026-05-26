@@ -2,11 +2,12 @@ const ARTIST_DATA = {
   "id": "led-zeppelin",
   "name": "Led Zeppelin",
   "drive": "D",
-  "showCount": 10,
+  "showCount": 11,
   "firstYear": 1969,
   "lastYear": 1980,
   "years": [
     1969,
+    1970,
     1971,
     1972,
     1973,
@@ -23,10 +24,10 @@ const ARTIST_DATA = {
       "city": "Boston",
       "state": "MA",
       "location": "Boston, MA",
-      "venue": "Boston Tea Party  - ANA",
+      "venue": "Boston Tea Party",
+      "notes": "ANA(2) · hezekiahx2",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "2 \u00b7 hezekiahx2"
+      "format": "FLAC 24"
     },
     {
       "year": 1969,
@@ -37,9 +38,22 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Playhouse Theatre",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1970,
+      "month": 4,
+      "day": 9,
+      "dateStr": "4-9-1970",
+      "city": "Tampa",
+      "state": "FL",
+      "location": "Tampa, FL",
+      "venue": "Curtis Hixon Hall",
+      "notes": "ANA(1) · krw_co",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1971,
@@ -49,10 +63,10 @@ const ARTIST_DATA = {
       "city": "Inglewood",
       "state": "CA",
       "location": "Inglewood, CA",
-      "venue": "The Forum  - ANA",
+      "venue": "The Forum",
+      "notes": "ANA(2) · krw_co",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "2 \u00b7 krw_co"
+      "format": "FLAC"
     },
     {
       "year": 1972,
@@ -63,9 +77,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Coliseum",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1973,
@@ -76,9 +90,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Dallas Convention Center ANA",
+      "notes": "2 · krw_co",
       "version": "SBD",
-      "format": "FLAC 24",
-      "notes": "2 \u00b7 krw_co"
+      "format": "FLAC 24"
     },
     {
       "year": 1975,
@@ -88,10 +102,10 @@ const ARTIST_DATA = {
       "city": "Indianapolis",
       "state": "IN",
       "location": "Indianapolis, IN",
-      "venue": "Market Square Arena - ANA(2)",
+      "venue": "Market Square Arena",
+      "notes": "ANA(2) · unk · krw_co transfer",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "unk \u00b7 krw_co transfer"
+      "format": "FLAC 24"
     },
     {
       "year": 1975,
@@ -102,9 +116,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Empress Valley",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1977,
@@ -114,10 +128,10 @@ const ARTIST_DATA = {
       "city": "Inglewood",
       "state": "CA",
       "location": "Inglewood, CA",
-      "venue": "The Forum - ANA",
+      "venue": "The Forum",
+      "notes": "ANA(2) · dadgad",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "2 \u00b7 dadgad"
+      "format": "FLAC"
     },
     {
       "year": 1980,
@@ -127,10 +141,10 @@ const ARTIST_DATA = {
       "city": "Dortmund",
       "state": "Germany",
       "location": "Dortmund, Germany",
-      "venue": "Westfalenhalle - ANA",
+      "venue": "Westfalenhalle",
+      "notes": "ANA(2) · krw_co transfer",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "2 \u00b7 krw_co transfer"
+      "format": "FLAC"
     },
     {
       "year": 1980,
@@ -140,10 +154,11 @@ const ARTIST_DATA = {
       "city": "Bremen",
       "state": "Germany",
       "location": "Bremen, Germany",
-      "venue": "Stadthalle - ANA",
+      "venue": "Stadthalle",
+      "notes": "ANA(2) · krw_co",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "2 \u00b7 krw_co"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
