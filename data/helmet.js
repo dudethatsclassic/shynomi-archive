@@ -38,9 +38,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Unknown Venue",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -51,9 +51,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tempe, AZ",
       "venue": "The Sun Room *Tanks and Rattlesnakes",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -64,9 +64,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Mercury Cafe",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -76,10 +76,10 @@ const ARTIST_DATA = {
       "city": "Sydney",
       "state": "Australia",
       "location": "Sydney, Australia",
-      "venue": "Marquee - ANA(x)",
+      "venue": "Marquee",
+      "notes": "ANA(x) · Sony Walkman · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony Walkman \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -89,10 +89,10 @@ const ARTIST_DATA = {
       "city": "Brisbane",
       "state": "Australia",
       "location": "Brisbane, Australia",
-      "venue": "Livid Festival - Double J Live at the Wireless",
+      "venue": "Livid Festival",
+      "notes": "Double",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -103,9 +103,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theatre",
+      "notes": "jim hucks",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "jim hucks"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -116,9 +116,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Norwalk, CT",
       "venue": "The Globe Theater",
+      "notes": "zoofly",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "zoofly"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -129,9 +129,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -142,9 +142,9 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Hultsfred, Sweden",
       "venue": "Hultsfred Festival",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -155,9 +155,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Troubadour",
+      "notes": "remaster",
       "version": "preFM",
-      "format": "FLAC",
-      "notes": "remaster"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -167,10 +167,10 @@ const ARTIST_DATA = {
       "city": "St. Louis",
       "state": "MO",
       "location": "St. Louis, MO",
-      "venue": "Mississippi Nights - DAT(M)",
+      "venue": "Mississippi Nights",
+      "notes": "DAT(M) · CSB · jlizard",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 jlizard"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -180,10 +180,10 @@ const ARTIST_DATA = {
       "city": "Portland",
       "state": "OR",
       "location": "Portland, OR",
-      "venue": "Doug Fir Lounge - DAT(M)",
+      "venue": "Doug Fir Lounge",
+      "notes": "DAT(M) · Schoeps MK4 · robert d",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 robert d"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -193,10 +193,10 @@ const ARTIST_DATA = {
       "city": "Portland",
       "state": "OR",
       "location": "Portland, OR",
-      "venue": "Doug Fir Lounge - DAT(M)",
+      "venue": "Doug Fir Lounge",
+      "notes": "DAT(M) · DSM-6 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DSM-6 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -207,9 +207,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Scranton, PA",
       "venue": "Montage Mountain",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -220,9 +220,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Springfield, VA",
       "venue": "Jaxx",
+      "notes": "CK91",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CK91"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -233,9 +233,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Key Club",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -245,10 +245,10 @@ const ARTIST_DATA = {
       "city": "Las Vegas",
       "state": "NV",
       "location": "Las Vegas, NV",
-      "venue": "Wasted Space - WAV(M)",
+      "venue": "Wasted Space",
+      "notes": "WAV(M) · CK63 · cps",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CK63 \u00b7 cps"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -259,9 +259,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "The Cabooze",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2013,
@@ -272,9 +272,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "DNA Lounge",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2013,
@@ -285,9 +285,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Adelaide, AUS",
       "venue": "The Governor Hindmarsh Hotel",
+      "notes": "SP-CMC-25 · gods golfball",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-25 \u00b7 gods golfball"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -298,9 +298,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Brooklyn, NC",
       "venue": "Saint Vitus Bar",
+      "notes": "SBD + Schoeps CCM4u · nyctaper",
       "version": "MIX",
-      "format": "FLAC",
-      "notes": "SBD + Schoeps CCM4u \u00b7 nyctaper"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -311,9 +311,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Mohawk",
+      "notes": "Tascam DR-05 · exene",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Tascam DR-05 \u00b7 exene"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -324,9 +324,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Mohawk",
+      "notes": "Tascam DR-05 · 2021 exene remaster",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Tascam DR-05 \u00b7 2021 exene remaster"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -337,9 +337,9 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Button Factory",
+      "notes": "30th Anniversary",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "30th Anniversary"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -350,9 +350,9 @@ const ARTIST_DATA = {
       "state": "London",
       "location": "Islington, London",
       "venue": "O2 Academy",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -363,9 +363,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "1720",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -376,9 +376,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Banc of California Stadium",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4s \u00b7 tj"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -389,9 +389,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Banc of California Stadium",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4s \u00b7 tj"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -402,9 +402,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "Hollywood Casino Amphitheatre",
+      "notes": "Sony PCM-A10 · shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sony PCM-A10 \u00b7 shane e. calhoon"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
@@ -415,9 +415,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Filmore",
+      "notes": "Olympus LS-P4 · bluejane99",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Olympus LS-P4 \u00b7 bluejane99"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -428,9 +428,9 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Slaktkyrkan",
+      "notes": "Instamic Pro Plus · qew",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Instamic Pro Plus \u00b7 qew"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -441,9 +441,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Denver CO",
       "venue": "Gothic Theater",
+      "notes": "Olympus LS-P4 · bluejane99",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Olympus LS-P4 \u00b7 bluejane99"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -453,10 +453,11 @@ const ARTIST_DATA = {
       "city": "Wacken",
       "state": "Germany",
       "location": "Wacken, Germany",
-      "venue": "Wacken Open Air - W.E.T. Stage",
+      "venue": "Wacken Open Air",
+      "notes": "W.E.T. · 1080p",
       "version": "PRO",
-      "format": "MP4",
-      "notes": "1080p"
+      "format": "MP4"
     }
-  ]
+  ],
+  "misc": []
 };
