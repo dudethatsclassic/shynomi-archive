@@ -17,10 +17,11 @@ const ARTIST_DATA = {
       "city": "Baton Rouge",
       "state": "LA",
       "location": "Baton Rouge, LA",
-      "venue": "Spanish Moon - VHS",
+      "venue": "Spanish Moon",
+      "notes": "VHS(x) · Hi8 Camcorder",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "x \u00b7 Hi8 Camcorder"
+      "format": "DVD"
     }
-  ]
+  ],
+  "misc": []
 };
