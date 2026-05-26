@@ -17,10 +17,11 @@ const ARTIST_DATA = {
       "city": "Orlando",
       "state": "FL",
       "location": "Orlando, FL",
-      "venue": "Tinker Field - Vans Warped '25 Festival",
+      "venue": "Tinker Field",
+      "notes": "Vans",
       "version": "WEB",
-      "format": "MP4",
-      "notes": ""
+      "format": "MP4"
     }
-  ]
+  ],
+  "misc": []
 };
