@@ -26,9 +26,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Crocodile Cafe",
+      "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -39,9 +39,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Magic Stick",
+      "notes": "live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -52,9 +52,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Backstage Werk",
+      "notes": "M94.5",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "M94.5"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -65,9 +65,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "The Bell House",
+      "notes": "acidjack master",
       "version": "MTX",
-      "format": "FLAC",
-      "notes": "acidjack master"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -78,9 +78,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Bourges, France",
       "venue": "Printemps de Bourges",
+      "notes": "",
       "version": "PRO",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2012,
@@ -91,9 +91,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "London Rough Trade East",
+      "notes": "Roland R-09 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Roland R-09 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -104,9 +104,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "TLA",
+      "notes": "spfreak77",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "spfreak77"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -117,9 +117,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Beachland Ballroom",
+      "notes": "live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -130,9 +130,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Melkweg",
+      "notes": "Zoom H4N · tarquin",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H4N · tarquin"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -143,9 +143,9 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "Paris, FR",
       "venue": "Le Cabaret Sauvage",
+      "notes": "SP-CMC-8 · inconnu",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 · inconnu"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -156,9 +156,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Rust, Germany",
       "venue": "Europa-Park Arena",
+      "notes": "MK41V",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "MK41V"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -169,9 +169,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Rust, Germany",
       "venue": "Europa-Park Arena",
+      "notes": "indykid",
       "version": "Webcast",
-      "format": "TS",
-      "notes": "indykid"
+      "format": "TS"
     },
     {
       "year": 2022,
@@ -182,9 +182,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Studioeins",
+      "notes": "",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -195,9 +195,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Manchester Gorilla",
+      "notes": "Sony ECM-CS10 · swintonboy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-CS10 · swintonboy"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -208,9 +208,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "London Islington Assembly Hall",
+      "notes": "Tascam DR-05X · swintonboy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Tascam DR-05X · swintonboy"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -221,9 +221,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Metropol",
+      "notes": "Roland CS-10EM Omnis · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Roland CS-10EM Omnis · Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -234,9 +234,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "A&R Music Bar",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 · live2cd"
+      "format": "FLAC"
     }
   ],
   "misc": [
