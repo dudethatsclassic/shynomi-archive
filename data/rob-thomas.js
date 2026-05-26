@@ -23,9 +23,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Promowest Pavilion",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -36,9 +36,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Ledyard, CT",
       "venue": "Foxwoods Casino",
+      "notes": "ECM 719 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM 719 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -49,9 +49,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Manaroneck, NY",
       "venue": "ACM Studios",
+      "notes": "Internet Radio Broadcast · saltshaker",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Internet Radio Broadcast \u00b7 saltshaker"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -61,10 +61,10 @@ const ARTIST_DATA = {
       "city": "Niagara Falls",
       "state": "NY",
       "location": "Niagara Falls, NY",
-      "venue": "Events Center - Seneca Niagara Casino",
+      "venue": "Events Center",
+      "notes": "Seneca · AT835 · richard s. binko",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT835 \u00b7 richard s. binko"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -75,9 +75,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Molson Amphitheatre (CSB) (burnboy) Rec 1",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CSB \u00b7 burnboy"
+      "format": "FLAC 24"
     },
     {
       "year": 2016,
@@ -88,9 +88,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Molson Amphitheatre (SP-CMC-8) (burnboy) Rec 2",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 burnboy"
+      "format": "FLAC 24"
     },
     {
       "year": 2019,
@@ -101,9 +101,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Evans Auditorium",
+      "notes": "IEM Matrix · univonc",
       "version": "MIX",
-      "format": "FLAC",
-      "notes": "IEM Matrix \u00b7 univonc"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
