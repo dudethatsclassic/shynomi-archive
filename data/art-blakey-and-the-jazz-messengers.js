@@ -33,9 +33,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Atlantic Studios",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1958,
@@ -46,9 +46,9 @@ const ARTIST_DATA = {
       "state": "Switzerland ? Live at Volkshaus",
       "location": "Zurich, Switzerland ? Live at Volkshaus",
       "venue": "",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1959,
@@ -59,9 +59,9 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Freebody Park",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1959,
@@ -72,9 +72,9 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Unknown Venue",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1959,
@@ -85,9 +85,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Deutsches Museum",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1959,
@@ -98,9 +98,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Deutsches Museum",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1960,
@@ -111,9 +111,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Quaker City Jazz Festival",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC 24",
-      "notes": ""
+      "format": "FLAC 24"
     },
     {
       "year": 1961,
@@ -124,9 +124,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Free Trade Hall",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1962,
@@ -137,9 +137,9 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Unknown Venue",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1965,
@@ -150,9 +150,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Olympia",
+      "notes": "French TV",
       "version": "TV",
-      "format": "DVD",
-      "notes": "French TV"
+      "format": "DVD"
     },
     {
       "year": 1965,
@@ -163,9 +163,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Cine-Tele Sound Studio",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1965,
@@ -175,10 +175,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Half Note - WABC Broadcast",
+      "venue": "Half Note",
+      "notes": "WABC",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1968,
@@ -189,9 +189,9 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Vienna, Austria",
       "venue": "Konzerthaus",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1969,
@@ -202,9 +202,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "New Brunswick, NJ",
       "venue": "Rutgers University",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1972,
@@ -215,9 +215,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Unknown Venue",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1977,
@@ -228,9 +228,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "La Rochelle, France",
       "venue": "Festival du Jazz",
+      "notes": "jazzrita edit",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "jazzrita edit"
+      "format": "FLAC"
     },
     {
       "year": 1978,
@@ -241,9 +241,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Bijou Cafe",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1981,
@@ -254,9 +254,9 @@ const ARTIST_DATA = {
       "state": "D.C",
       "location": "Washington, D.C",
       "venue": "Blues Alley",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1983,
@@ -266,10 +266,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Blue Note (1st Set)",
+      "venue": "Blue Note",
+      "notes": "1st Set · Nak 300s · tapetyrant",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Nak 300s \u00b7 tapetyrant"
+      "format": "FLAC"
     },
     {
       "year": 1983,
@@ -280,9 +280,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Perugia, Italy",
       "venue": "Panino Jazz Club",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1983,
@@ -293,9 +293,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Bremen, Germany",
       "venue": "Schauburg",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1984,
@@ -306,9 +306,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Burghausen, Germany",
       "venue": "Internationale Jazzwoche 1984",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1986,
@@ -319,9 +319,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Chestnut Cabaret",
+      "notes": "billydee",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "billydee"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
