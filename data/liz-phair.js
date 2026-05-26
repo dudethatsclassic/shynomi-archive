@@ -89,7 +89,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "The Sinclair",
-      "notes": "Zoom H2",
+      "notes": "Zoom H2 · craig",
       "version": "AUD",
       "format": "FLAC"
     },
