@@ -20,9 +20,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Mason, OH",
       "venue": "Mason Municipal Campus",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 \u00b7 live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -33,9 +33,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "West Chester Township, OH",
       "venue": "National VOA Museum of Broadcasting",
+      "notes": "CA-14s · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14s \u00b7 live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -46,9 +46,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Columbus Bicentennial Pavilion",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14 \u00b7 live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -59,9 +59,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Bowler, WI",
       "venue": "North Star Mohican Casino",
+      "notes": "Edirol R09HR · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R09HR \u00b7 Unknown"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
