@@ -26,9 +26,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows Amphitheatre",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -38,10 +38,10 @@ const ARTIST_DATA = {
       "city": "Burbank",
       "state": "CA",
       "location": "Burbank, CA",
-      "venue": "Hilton Ballroom - ANA",
+      "venue": "Hilton Ballroom",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -51,10 +51,10 @@ const ARTIST_DATA = {
       "city": "Providence",
       "state": "RI",
       "location": "Providence, RI",
-      "venue": "Club Babyhead - ANA(M)",
+      "venue": "Club Babyhead",
+      "notes": "ANA(M) · Sony PC-62 · phil183",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony PC-62 \u00b7 phil183"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -65,9 +65,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hall of Williamsburg",
+      "notes": "Edirol R-09HR · bliv",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R-09HR \u00b7 bliv"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -78,9 +78,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "S036",
+      "notes": "Zoom H2 · uninvited94",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H2 \u00b7 uninvited94"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -91,9 +91,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Thalia Hall",
+      "notes": "Core Sound HEB 4060 · jb",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Core Sound HEB 4060 \u00b7 jb"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -104,9 +104,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
+      "notes": "SP-CMC-8 · nitcomb",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 nitcomb"
+      "format": "FLAC"
     },
     {
       "year": 2021,
@@ -116,10 +116,10 @@ const ARTIST_DATA = {
       "city": "London",
       "state": "UK",
       "location": "London, UK",
-      "venue": "BBC Radio 1 - Rock Show with Daniel P Carter",
+      "venue": "BBC Radio 1",
+      "notes": "Rock",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2021,
@@ -129,10 +129,10 @@ const ARTIST_DATA = {
       "city": "Denver",
       "state": "CO",
       "location": "Denver, CO",
-      "venue": "Bluebird - AUD(M)",
+      "venue": "Bluebird",
+      "notes": "AUD(M) · Olympia LS-12 · exene",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Olympia LS-12 \u00b7 exene"
+      "format": "FLAC"
     },
     {
       "year": 2021,
@@ -143,9 +143,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Great American Music Hall",
+      "notes": "Sony PCM-M10 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sony PCM-M10 \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
@@ -156,9 +156,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "24 Oxford",
+      "notes": "SP-CMC-4U · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -169,9 +169,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Fillmore",
+      "notes": "Olympus LS-P4 · bluejane99",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Olympus LS-P4 \u00b7 bluejane99"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -182,9 +182,9 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Slaktkyrkan",
+      "notes": "Instamic Pro Plus · qew",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Instamic Pro Plus \u00b7 qew"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -195,9 +195,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbos",
+      "notes": "Schoeps MK4 · loughney",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 loughney"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -208,9 +208,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "GAMH",
+      "notes": "Schoeps MK4s · loughney",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4s \u00b7 loughney"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
