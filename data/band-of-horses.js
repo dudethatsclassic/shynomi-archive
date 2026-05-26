@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "band-of-horses",
   "name": "Band of Horses",
   "drive": "E",
-  "showCount": 27,
+  "showCount": 28,
   "firstYear": 2006,
   "lastYear": 2025,
   "years": [
@@ -29,9 +29,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Echo",
+      "notes": "Sony WM-D6C · steve hanna",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony WM-D6C \u00b7 steve hanna"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -42,9 +42,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
+      "notes": "unk",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -55,9 +55,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Amoeba Music",
+      "notes": "SS-DSM6 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SS-DSM6 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -68,9 +68,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Victoria, AUS",
       "venue": "Billboard",
+      "notes": "franger",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "franger"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -81,9 +81,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Newark, NJ",
       "venue": "Prudential Center",
+      "notes": "Schoeps MK41 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK41 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -94,9 +94,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Billboard",
+      "notes": "M · franger",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "M \u00b7 franger"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -106,10 +106,10 @@ const ARTIST_DATA = {
       "city": "London",
       "state": "UK",
       "location": "London, UK",
-      "venue": "Shepherd's Bush - Bush Hall",
+      "venue": "Shepherd's Bush",
+      "notes": "Bush · AT933 · humbug",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT933 \u00b7 humbug"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -119,10 +119,23 @@ const ARTIST_DATA = {
       "city": "Paris",
       "state": "France",
       "location": "Paris, France",
-      "venue": "Maison de Radio - Black Session",
+      "venue": "Maison de Radio",
+      "notes": "Black",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 2010,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-2010",
+      "city": "Santa Monica",
+      "state": "CA",
+      "location": "Santa Monica, CA",
+      "venue": "Live In Session On MBE",
+      "notes": "",
+      "version": "FM",
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -133,9 +146,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Echo Beach",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -146,9 +159,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Time Warner Cable Uptown Ammphitheatre",
+      "notes": "CM-33s · nsl",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CM-33s \u00b7 nsl"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -159,9 +172,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Session",
+      "notes": "",
       "version": "FM",
-      "format": "MP2",
-      "notes": ""
+      "format": "MP2"
     },
     {
       "year": 2012,
@@ -171,10 +184,10 @@ const ARTIST_DATA = {
       "city": "Roma",
       "state": "Italy",
       "location": "Roma, Italy",
-      "venue": "RAI Studios - Moby Dick Radio",
+      "venue": "RAI Studios",
+      "notes": "Moby",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -184,10 +197,10 @@ const ARTIST_DATA = {
       "city": "Santa Monica",
       "state": "CA",
       "location": "Santa Monica, CA",
-      "venue": "Live In Session On MBE - KCRW",
+      "venue": "Live In Session On MBE",
+      "notes": "KCRW · nibbler",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "nibbler"
+      "format": "FLAC"
     },
     {
       "year": 2013,
@@ -198,9 +211,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Sydney, AUS",
       "venue": "Big Day Out",
+      "notes": "roman79",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "roman79"
+      "format": "FLAC"
     },
     {
       "year": 2013,
@@ -211,9 +224,9 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Melbourne, AUS",
       "venue": "Palais Theatre",
+      "notes": "CA-14s · roman79",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14s \u00b7 roman79"
+      "format": "FLAC"
     },
     {
       "year": 2013,
@@ -224,9 +237,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival",
+      "notes": "CA-11s · djdarkbeat",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11s \u00b7 djdarkbeat"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -237,9 +250,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
+      "notes": "Schoeps MK41s · mttdxb",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK41s \u00b7 mttdxb"
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -250,9 +263,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
+      "notes": "Schoeps MK41s · mttdxb",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK41s \u00b7 mttdxb"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -263,9 +276,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Camden, NJ",
       "venue": "Susquehana Bank Center",
+      "notes": "SP-CMC-2 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -276,9 +289,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Amoeba Music",
+      "notes": "AT831 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT831 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -289,9 +302,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Live In Session MBE on KCRW",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -302,9 +315,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Rebel",
+      "notes": "AT831 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT831 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -315,9 +328,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cuyahoga Falls, OH",
       "venue": "Blossom Music Center",
+      "notes": "Tascam DR-02 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Tascam DR-02 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -328,9 +341,9 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "Twilight Series at the Gallivan Center",
+      "notes": "CA-11 · opsopcopolis",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA-11 \u00b7 opsopcopolis"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -341,9 +354,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Portsmouth, NH",
       "venue": "The Music Hall",
+      "notes": "Zoom H1N · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H1N \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -354,9 +367,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Raleigh Memorial Auditorium",
+      "notes": "",
       "version": "IEM",
-      "format": "FLAC 24",
-      "notes": ""
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -366,10 +379,11 @@ const ARTIST_DATA = {
       "city": "Las Vegas",
       "state": "NV",
       "location": "Las Vegas, NV",
-      "venue": "Bel-aire Backyard - WAV(M)",
+      "venue": "Bel-aire Backyard",
+      "notes": "WAV(M) · AT853 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "AT853 \u00b7 Unknown"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
