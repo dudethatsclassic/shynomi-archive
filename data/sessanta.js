@@ -19,9 +19,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Bonner Springs, KS",
       "venue": "Azura Amphitheater",
+      "notes": "Tascam DR-05 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Tascam DR-05 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -32,9 +32,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Clarkston, MI",
       "venue": "Pine Knob Music Theatre",
+      "notes": "Sony UX560F · fiver",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sony UX560F \u00b7 fiver"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -45,9 +45,9 @@ const ARTIST_DATA = {
       "state": "NV/ PH Live (M) (AT853) (unk)",
       "location": "Las Vegas, NV/ PH Live (M) (AT853) (unk)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": ""
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -58,9 +58,9 @@ const ARTIST_DATA = {
       "state": "AR",
       "location": "Rogers, AR",
       "venue": "Walmart Amp",
+      "notes": "Sennheiser Ambeo · grizzly adams",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sennheiser Ambeo \u00b7 grizzly adams"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -71,9 +71,9 @@ const ARTIST_DATA = {
       "state": "NE",
       "location": "Omahe, NE",
       "venue": "Baxter Arena",
+      "notes": "Samsung S22 · silence95",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Samsung S22 \u00b7 silence95"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -84,9 +84,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Ridgefield WA",
       "venue": "Cascades Amphitheatre",
+      "notes": "Sennheiser Ambeo, Pixel · grizzley adams, esamirp",
       "version": "MIX",
-      "format": "FLAC",
-      "notes": "Sennheiser Ambeo, Pixel \u00b7 grizzley adams, esamirp"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
