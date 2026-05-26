@@ -26,10 +26,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "NBC Studios - Saturday Night Live",
+      "venue": "NBC Studios",
+      "notes": "Saturday",
       "version": "TV",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2003,
@@ -40,9 +40,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Plainview, NY",
       "venue": "The Vanderbilt",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -53,9 +53,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "First Niagara Center",
+      "notes": "beatkilla",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "beatkilla"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -66,9 +66,9 @@ const ARTIST_DATA = {
       "state": "UT - UCCU Center (Shure MV88) (jchamb)",
       "location": "Orem, UT - UCCU Center (Shure MV88) (jchamb)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": ""
+      "format": "FLAC 24"
     },
     {
       "year": 2018,
@@ -78,10 +78,10 @@ const ARTIST_DATA = {
       "city": "New Orleans",
       "state": "LA",
       "location": "New Orleans, LA",
-      "venue": "City Park Festival Grounds - Voodoo Music + Arts Festival",
+      "venue": "City Park Festival Grounds",
+      "notes": "Voodoo",
       "version": "Webcast",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2019,
@@ -92,9 +92,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Lewiston, NY",
       "venue": "Artpark",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": ""
+      "format": "FLAC 24"
     },
     {
       "year": 2019,
@@ -105,9 +105,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "St. Petersburg, FL",
       "venue": "Jannus Landing",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -118,9 +118,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "Hard Rock Live",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -131,9 +131,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "The Catalyst",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4s \u00b7 tj"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -144,9 +144,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "UB Center For The Arts",
+      "notes": "IEM-Tascam DR-08 · conan",
       "version": "MIX",
-      "format": "FLAC",
-      "notes": "IEM-Tascam DR-08 \u00b7 conan"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -157,9 +157,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Celeste Center",
+      "notes": "AT853U · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT853U \u00b7 live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -170,9 +170,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "MidFlorida Credit Union Amphitheater",
+      "notes": "Panasonic MM-BSM7s · kevdogg",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Panasonic MM-BSM7s \u00b7 kevdogg"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -183,9 +183,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Hotel Cafe",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -196,9 +196,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "BMO Pavilion",
+      "notes": "CA14 · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA14 \u00b7 Unknown"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
