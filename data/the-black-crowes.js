@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "the-black-crowes",
   "name": "The Black Crowes",
   "drive": "E",
-  "showCount": 289,
+  "showCount": 291,
   "firstYear": 1990,
   "lastYear": 2026,
   "years": [
@@ -3790,6 +3790,32 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "DPA 4023 \u00b7 Alex Leary"
+    },
+    {
+      "year": 2026,
+      "month": 4,
+      "day": 3,
+      "dateStr": "4-3-2026",
+      "city": "Melbourne",
+      "state": "AUS",
+      "location": "Melbourne, AUS",
+      "venue": "Forum",
+      "notes": "Shure 184s \u00b7 Blackout",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 23,
+      "dateStr": "5-23-2026",
+      "city": "Alpharetta",
+      "state": "GA",
+      "location": "Alpharetta, GA",
+      "venue": "Ameris Bank Amphitheatre",
+      "notes": "SS DSM-6SL \u00b7 unk",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ],
   "misc": [
@@ -3846,22 +3872,6 @@ const ARTIST_DATA = {
       "label": "The Black Crowes - Unwired {OCTO 100} (1995)",
       "version": "Silver CD",
       "format": "FLAC"
-    },
-    {
-      "type": "label",
-      "label": "Chris Robinson Brotherhood"
-    },
-    {
-      "type": "label",
-      "label": "Drive - E"
-    },
-    {
-      "type": "label",
-      "label": "Rich Robinson"
-    },
-    {
-      "type": "label",
-      "label": "Drive - E"
     }
   ]
 };
