@@ -1731,7 +1731,7 @@ const ARTISTS = [
   {
     "id": "miles-davis",
     "name": "Miles Davis",
-    "showCount": 158,
+    "showCount": 193,
     "firstYear": 1946,
     "lastYear": 1991
   },
