@@ -1773,7 +1773,7 @@ const ARTISTS = [
   {
     "id": "mudhoney",
     "name": "Mudhoney",
-    "showCount": 163,
+    "showCount": 164,
     "firstYear": 1988,
     "lastYear": 2025
   },
@@ -1892,7 +1892,7 @@ const ARTISTS = [
   {
     "id": "nirvana",
     "name": "Nirvana",
-    "showCount": 1236,
+    "showCount": 1034,
     "firstYear": 1969,
     "lastYear": 2025
   },
@@ -2676,7 +2676,7 @@ const ARTISTS = [
   {
     "id": "tad",
     "name": "Tad",
-    "showCount": 17,
+    "showCount": 19,
     "firstYear": 1989,
     "lastYear": 2013
   },
@@ -2823,7 +2823,7 @@ const ARTISTS = [
   {
     "id": "the-melvins",
     "name": "The Melvins",
-    "showCount": 20,
+    "showCount": 21,
     "firstYear": 1985,
     "lastYear": 2022
   },
