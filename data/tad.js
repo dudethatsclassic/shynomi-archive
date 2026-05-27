@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "tad",
   "name": "Tad",
   "drive": "A",
-  "showCount": 17,
+  "showCount": 19,
   "firstYear": 1989,
   "lastYear": 2013,
   "years": [
@@ -16,6 +16,19 @@ const ARTIST_DATA = {
   "shows": [
     {
       "year": 1989,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1989",
+      "city": "Live 7'' (Blow Pop Records (BP-22)",
+      "state": "",
+      "location": "Live 7'' (Blow Pop Records (BP-22)",
+      "venue": "",
+      "notes": "",
+      "version": "Vinyl",
+      "format": "FLAC"
+    },
+    {
+      "year": 1989,
       "month": 10,
       "day": 29,
       "dateStr": "10-29-1989",
@@ -23,22 +36,22 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "Edward's No.8",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
       "month": 11,
       "day": 8,
       "dateStr": "11-8-1989",
-      "city": "Ko?ln",
+      "city": "Köln",
       "state": "Germany",
-      "location": "Ko?ln, Germany",
+      "location": "Köln, Germany",
       "venue": "Rose Club",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -49,9 +62,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Mezzago, Italy",
       "venue": "Bloom",
+      "notes": "",
       "version": "AUD #2",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -61,10 +74,10 @@ const ARTIST_DATA = {
       "city": "Mezzago",
       "state": "Italy",
       "location": "Mezzago, Italy",
-      "venue": "Bloom - VHS",
+      "venue": "Bloom",
+      "notes": "VHS(x)",
       "version": "AMT #1a",
-      "format": "FLAC",
-      "notes": "x"
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -74,10 +87,10 @@ const ARTIST_DATA = {
       "city": "Rome",
       "state": "IT",
       "location": "Rome, IT",
-      "venue": "Piper Club - ANA(1)",
+      "venue": "Piper Club",
+      "notes": "ANA(1) · Built-in · giuseppe filigi",
       "version": "AUD #2",
-      "format": "FLAC",
-      "notes": "Built-in \u00b7 giuseppe filigi"
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -88,9 +101,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Issy-les-Moulineaux, France",
       "venue": "La Fahrenheit",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -101,9 +114,9 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Issy-les-Moulineaux, France",
       "venue": "La Fahrenheit",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -113,10 +126,10 @@ const ARTIST_DATA = {
       "city": "London",
       "state": "UK",
       "location": "London, UK",
-      "venue": "Maida Vale Studio 5 - ANA",
+      "venue": "Maida Vale Studio 5",
+      "notes": "ANA(x)",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "x"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -127,9 +140,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Maxwell's",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -139,10 +152,10 @@ const ARTIST_DATA = {
       "city": "London",
       "state": "UK",
       "location": "London, UK",
-      "venue": "Maida Vale Studio 3 - John Peel Session",
+      "venue": "Maida Vale Studio 3",
+      "notes": "John",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -153,9 +166,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "De Melkweg",
+      "notes": "johan w.",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "johan w."
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -165,10 +178,10 @@ const ARTIST_DATA = {
       "city": "Copenhagen",
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
-      "venue": "Barbue - ANA",
+      "venue": "Barbue",
+      "notes": "ANA(1)",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "1"
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -178,10 +191,10 @@ const ARTIST_DATA = {
       "city": "Copenhagen",
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
-      "venue": "Barbue - ANA(M)",
+      "venue": "Barbue",
+      "notes": "ANA(M) · PC62 · tw",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "PC62 \u00b7 tw"
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -192,9 +205,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Englewood, CO",
       "venue": "Gothic Theater",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -205,9 +218,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Burbank, CA",
       "venue": "Foundations Forum",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -218,9 +231,22 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "HBS Auditorium",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1993,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1993",
+      "city": "Seattle",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "Spud Goodman Show",
+      "notes": "TCI",
+      "version": "TV",
+      "format": "MP4"
     },
     {
       "year": 2013,
@@ -231,9 +257,10 @@ const ARTIST_DATA = {
       "state": "WA - Sub Pop Silver Jubilee (Brothers Of The Sonic Cloth)",
       "location": "Seattle, WA - Sub Pop Silver Jubilee (Brothers Of The Sonic Cloth)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
