@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "staind",
   "name": "Staind",
   "drive": "A",
-  "showCount": 14,
+  "showCount": 15,
   "firstYear": 1999,
-  "lastYear": 2024,
+  "lastYear": 2026,
   "years": [
     1999,
     2000,
@@ -14,7 +14,8 @@ const ARTIST_DATA = {
     2012,
     2019,
     2021,
-    2024
+    2024,
+    2026
   ],
   "shows": [
     {
@@ -196,6 +197,19 @@ const ARTIST_DATA = {
       "location": "Anaheim, CA",
       "venue": "Honda Center",
       "notes": "DPA 4081 · faninor",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 9,
+      "dateStr": "5-9-2026",
+      "city": "Biloxi",
+      "state": "MS",
+      "location": "Biloxi, MS",
+      "venue": "Mississippi Coast Coliseum and Convention Center",
+      "notes": "Schoeps MK4 · jesse mc",
       "version": "AUD",
       "format": "FLAC 24"
     }
