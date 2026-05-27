@@ -24,9 +24,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Alexandria, VA",
       "venue": "The Birchmere",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -37,9 +37,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Norfolk, VA",
       "venue": "Constant Convocation Center",
+      "notes": "Neumann KM184 · duncan byrd and ron powell",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Neumann KM184 \u00b7 duncan byrd and ron powell"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -50,9 +50,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Winston Salem, NC",
       "venue": "LJVM Coliseum Theatre",
+      "notes": "Schoeps MK4Vs · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4Vs \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -63,9 +63,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Canandaigua, NY",
       "venue": "Marvin Sands Performing Arts Center",
+      "notes": "AKG 483 · w. clark",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AKG 483 \u00b7 w. clark"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -76,9 +76,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
+      "notes": "unk · daspyknows",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 daspyknows"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -89,9 +89,9 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Vienna, Austria",
       "venue": "Konzerthaus",
+      "notes": "CA-14s · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14s \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -101,10 +101,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Meigs Field - Mistake By the Lake",
+      "venue": "Meigs Field",
+      "notes": "Mistake · AKG CK63 · crumbo",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AKG CK63 \u00b7 crumbo"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -114,10 +114,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Meigs Field - Mistake By the Lake",
+      "venue": "Meigs Field",
+      "notes": "Mistake · AKG CK63 · crumbo",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AKG CK63 \u00b7 crumbo"
+      "format": "FLAC"
     },
     {
       "year": 2021,
@@ -127,10 +127,10 @@ const ARTIST_DATA = {
       "city": "Hartford",
       "state": "CT",
       "location": "Hartford, CT",
-      "venue": "Xfinity Theatre (Dave Matthews & Tim Reynolds)",
+      "venue": "Xfinity Theatre",
+      "notes": "Dave Matthews & Tim Reynolds · Schoeps MK4V · jim kelly",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4V \u00b7 jim kelly"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -140,10 +140,10 @@ const ARTIST_DATA = {
       "city": "Cancun",
       "state": "MEX",
       "location": "Cancun, MEX",
-      "venue": "Moon Palace Resort - Beach Stage",
+      "venue": "Moon Palace Resort",
+      "notes": "Beach · AKG C414 · zachary semcken",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AKG C414 \u00b7 zachary semcken"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -153,10 +153,10 @@ const ARTIST_DATA = {
       "city": "Cancun",
       "state": "MEX",
       "location": "Cancun, MEX",
-      "venue": "Moon Palace Resort - Beach Stage",
+      "venue": "Moon Palace Resort",
+      "notes": "Beach · AKG C414 · zachary semcken",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AKG C414 \u00b7 zachary semcken"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -166,10 +166,11 @@ const ARTIST_DATA = {
       "city": "Cancun",
       "state": "MEX",
       "location": "Cancun, MEX",
-      "venue": "Moon Palace Resort - Beach Stage",
+      "venue": "Moon Palace Resort",
+      "notes": "Beach · AKG C414 · zachary semcken",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AKG C414 \u00b7 zachary semcken"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
