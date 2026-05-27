@@ -828,7 +828,7 @@ const ARTISTS = [
   {
     "id": "faith-no-more",
     "name": "Faith No More",
-    "showCount": 183,
+    "showCount": 184,
     "firstYear": 1983,
     "lastYear": 2015
   },
