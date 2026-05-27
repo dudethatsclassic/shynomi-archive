@@ -212,9 +212,9 @@ const ARTISTS = [
   {
     "id": "beck",
     "name": "Beck",
-    "showCount": 316,
+    "showCount": 317,
     "firstYear": 1986,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "belly",
