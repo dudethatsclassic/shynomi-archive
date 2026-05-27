@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "michael-stipe",
   "name": "Michael Stipe",
   "drive": "",
-  "showCount": 4,
+  "showCount": 5,
   "firstYear": 2014,
   "lastYear": 2015,
   "years": [
@@ -19,9 +19,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Webster Hall",
+      "notes": "",
       "version": "AUD #1",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2014,
@@ -32,9 +32,22 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Webster Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
+    },
+    {
+      "year": 2014,
+      "month": 12,
+      "day": 30,
+      "dateStr": "12-30-2014",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Webster Hall",
+      "notes": "",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2015,
@@ -45,9 +58,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2015,
@@ -58,9 +71,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     }
-  ]
+  ],
+  "misc": []
 };
