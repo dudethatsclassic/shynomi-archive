@@ -252,6 +252,13 @@ const ARTISTS = [
     "lastYear": 2025
   },
   {
+    "id": "billy-corgan",
+    "name": "Billy Corgan",
+    "showCount": 181,
+    "firstYear": 1988,
+    "lastYear": 2025
+  },
+  {
     "id": "biz-markie",
     "name": "Biz Markie",
     "showCount": 1,
@@ -1204,6 +1211,13 @@ const ARTISTS = [
     "lastYear": 2008
   },
   {
+    "id": "james-iha",
+    "name": "James Iha",
+    "showCount": 9,
+    "firstYear": 1998,
+    "lastYear": 2012
+  },
+  {
     "id": "jane-s-addiction",
     "name": "Jane's Addiction",
     "showCount": 276,
@@ -1230,6 +1244,13 @@ const ARTISTS = [
     "showCount": 109,
     "firstYear": 1991,
     "lastYear": 1997
+  },
+  {
+    "id": "jeff-schroeder",
+    "name": "Jeff Schroeder",
+    "showCount": 1,
+    "firstYear": 2019,
+    "lastYear": 2019
   },
   {
     "id": "jeff-tweedy",
@@ -1300,6 +1321,13 @@ const ARTISTS = [
     "showCount": 3,
     "firstYear": 1999,
     "lastYear": 2023
+  },
+  {
+    "id": "jimmy-chamberlin",
+    "name": "Jimmy Chamberlin",
+    "showCount": 16,
+    "firstYear": 2003,
+    "lastYear": 2024
   },
   {
     "id": "jimmy-eat-world",
@@ -2557,7 +2585,7 @@ const ARTISTS = [
   {
     "id": "smashing-pumpkins",
     "name": "Smashing Pumpkins",
-    "showCount": 2103,
+    "showCount": 1799,
     "firstYear": 1988,
     "lastYear": 2025
   },
@@ -2672,6 +2700,13 @@ const ARTISTS = [
     "showCount": 2,
     "firstYear": 1972,
     "lastYear": 1974
+  },
+  {
+    "id": "starchildren",
+    "name": "Starchildren",
+    "showCount": 1,
+    "firstYear": 1994,
+    "lastYear": 1994
   },
   {
     "id": "stevie-wonder",
@@ -3351,5 +3386,12 @@ const ARTISTS = [
     "showCount": 3,
     "firstYear": 2002,
     "lastYear": 2006
+  },
+  {
+    "id": "zwan",
+    "name": "Zwan",
+    "showCount": 158,
+    "firstYear": 2001,
+    "lastYear": 2003
   }
 ];
