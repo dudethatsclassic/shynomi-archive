@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "charles-mingus",
   "name": "Charles Mingus",
   "drive": "B",
-  "showCount": 33,
+  "showCount": 34,
   "firstYear": 1964,
   "lastYear": 2003,
   "years": [
@@ -287,6 +287,19 @@ const ARTIST_DATA = {
       "location": "Ravenna, Italy",
       "venue": "Rocca Brancaleone",
       "notes": "unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1975,
+      "month": 3,
+      "day": 17,
+      "dateStr": "3-17-1975",
+      "city": "Prato",
+      "state": "Italy",
+      "location": "Prato, Italy",
+      "venue": "Teatro Metastasio",
+      "notes": "goody remaster",
       "version": "AUD",
       "format": "FLAC"
     },
