@@ -19,9 +19,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Crocadile Cafe",
+      "notes": "CSB · jamhead64",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 jamhead64"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -32,9 +32,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox",
+      "notes": "CA-11 · jeffbr",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11 \u00b7 jeffbr"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
