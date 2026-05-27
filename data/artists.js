@@ -3089,7 +3089,7 @@ const ARTISTS = [
   {
     "id": "the-wallflowers",
     "name": "The Wallflowers",
-    "showCount": 41,
+    "showCount": 39,
     "firstYear": 1992,
     "lastYear": 2025
   },
