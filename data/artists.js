@@ -1129,7 +1129,7 @@ const ARTISTS = [
   {
     "id": "incubus",
     "name": "Incubus",
-    "showCount": 170,
+    "showCount": 151,
     "firstYear": 1995,
     "lastYear": 2025
   },
