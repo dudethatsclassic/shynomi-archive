@@ -476,6 +476,13 @@ const ARTISTS = [
     "lastYear": 2024
   },
   {
+    "id": "claypool-gold",
+    "name": "Claypool Gold",
+    "showCount": 1,
+    "firstYear": 2024,
+    "lastYear": 2024
+  },
+  {
     "id": "cocteau-twins",
     "name": "Cocteau Twins",
     "showCount": 21,
@@ -523,6 +530,13 @@ const ARTISTS = [
     "showCount": 60,
     "firstYear": 2000,
     "lastYear": 2024
+  },
+  {
+    "id": "colonel-claypool-s-bucket-of-bernie-brains",
+    "name": "Colonel Claypool's Bucket of Bernie Brains",
+    "showCount": 21,
+    "firstYear": 2003,
+    "lastYear": 2004
   },
   {
     "id": "counting-crows",
@@ -1456,6 +1470,13 @@ const ARTISTS = [
     "lastYear": 2025
   },
   {
+    "id": "les-claypool-friends",
+    "name": "Les Claypool & Friends",
+    "showCount": 2,
+    "firstYear": 2024,
+    "lastYear": 2025
+  },
+  {
     "id": "les-claypool-and-the-holy-mackeral",
     "name": "Les Claypool & the Holy Mackeral",
     "showCount": 6,
@@ -1463,7 +1484,28 @@ const ARTISTS = [
     "lastYear": 1996
   },
   {
+    "id": "les-claypool-the-holy-mackeral",
+    "name": "Les Claypool & the Holy Mackeral",
+    "showCount": 6,
+    "firstYear": 1996,
+    "lastYear": 1996
+  },
+  {
+    "id": "les-claypool-and-the-fancy-band",
+    "name": "Les Claypool and the Fancy Band",
+    "showCount": 4,
+    "firstYear": 2005,
+    "lastYear": 2007
+  },
+  {
     "id": "les-claypools-bastard-jazz",
+    "name": "Les Claypool's Bastard Jazz",
+    "showCount": 10,
+    "firstYear": 2022,
+    "lastYear": 2025
+  },
+  {
+    "id": "les-claypool-s-bastard-jazz",
     "name": "Les Claypool's Bastard Jazz",
     "showCount": 10,
     "firstYear": 2022,
@@ -1477,7 +1519,28 @@ const ARTISTS = [
     "lastYear": 2023
   },
   {
+    "id": "les-claypool-s-duo-de-twang",
+    "name": "Les Claypool's Duo de Twang",
+    "showCount": 2,
+    "firstYear": 2014,
+    "lastYear": 2023
+  },
+  {
+    "id": "les-claypool-s-fearless-flying-frog-brigade",
+    "name": "Les Claypool's Fearless Flying Frog Brigade",
+    "showCount": 34,
+    "firstYear": 2000,
+    "lastYear": 2023
+  },
+  {
     "id": "les-claypools-fungi-band",
+    "name": "Les Claypool's Fungi Band",
+    "showCount": 1,
+    "firstYear": 2009,
+    "lastYear": 2009
+  },
+  {
+    "id": "les-claypool-s-fungi-band",
     "name": "Les Claypool's Fungi Band",
     "showCount": 1,
     "firstYear": 2009,
@@ -2137,7 +2200,7 @@ const ARTISTS = [
   {
     "id": "primus",
     "name": "Primus",
-    "showCount": 970,
+    "showCount": 802,
     "firstYear": 1987,
     "lastYear": 2025
   },
