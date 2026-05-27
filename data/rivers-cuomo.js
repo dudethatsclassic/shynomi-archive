@@ -18,9 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Troubador",
+      "notes": "Sonics · jb",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sonics · jb"
+      "format": "FLAC"
     }
   ],
   "misc": [
