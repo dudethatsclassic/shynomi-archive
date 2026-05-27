@@ -17,10 +17,11 @@ const ARTIST_DATA = {
       "city": "Seattle",
       "state": "WA",
       "location": "Seattle, WA",
-      "venue": "The Showbox - DAT",
+      "venue": "The Showbox",
+      "notes": "DAT(1) · jr",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "1 \u00b7 jr"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
