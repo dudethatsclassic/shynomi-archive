@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "jonsi",
   "name": "Jonsi",
   "drive": "E",
-  "showCount": 18,
+  "showCount": 24,
   "firstYear": 2010,
   "lastYear": 2019,
   "years": [
@@ -12,16 +12,68 @@ const ARTIST_DATA = {
   "shows": [
     {
       "year": 2010,
+      "month": 3,
+      "day": 26,
+      "dateStr": "3-26-2010",
+      "city": "Mills Studio (Tour Rehearsal Practice)",
+      "state": "",
+      "location": "Mills Studio (Tour Rehearsal Practice)",
+      "venue": "",
+      "notes": "",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 2010,
+      "month": 3,
+      "day": 28,
+      "dateStr": "3-28-2010",
+      "city": "1Live Premiere Concert (Master)",
+      "state": "",
+      "location": "1Live Premiere Concert (Master)",
+      "venue": "",
+      "notes": "",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 2010,
+      "month": 3,
+      "day": 31,
+      "dateStr": "3-31-2010",
+      "city": "Brussels",
+      "state": "Belgium",
+      "location": "Brussels, Belgium",
+      "venue": "Club69",
+      "notes": "",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 2010,
+      "month": 4,
+      "day": 17,
+      "dateStr": "4-17-2010",
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "Amoeba",
+      "notes": "",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 2010,
       "month": 4,
       "day": 18,
       "dateStr": "4-18-2010",
       "city": "Indio",
       "state": "CA",
       "location": "Indio, CA",
-      "venue": "Coachella Festival - Outdoor Stage",
+      "venue": "Coachella Festival",
+      "notes": "Outdoor",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -32,9 +84,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW Radio FM Broadcast",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -45,9 +97,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -58,9 +110,35 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "HMV Forum",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
+    },
+    {
+      "year": 2010,
+      "month": 5,
+      "day": 29,
+      "dateStr": "5-29-2010",
+      "city": "Brussels",
+      "state": "Belgium",
+      "location": "Brussels, Belgium",
+      "venue": "Ancienne Belgique",
+      "notes": "",
+      "version": "",
+      "format": ""
+    },
+    {
+      "year": 2010,
+      "month": 5,
+      "day": null,
+      "dateStr": "5-XX-2010",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Cemetary Gates",
+      "notes": "Master",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2010,
@@ -71,9 +149,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Paradiso",
+      "notes": "",
       "version": "AUD",
-      "format": "2 sources",
-      "notes": ""
+      "format": "2 sources"
     },
     {
       "year": 2010,
@@ -84,9 +162,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Paradiso",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -97,9 +175,9 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Vienna, Austria",
       "venue": "Arena",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -109,10 +187,10 @@ const ARTIST_DATA = {
       "city": "Osaka",
       "state": "Japan",
       "location": "Osaka, Japan",
-      "venue": "Maishima - Summer Sonic 2010",
+      "venue": "Maishima",
+      "notes": "Summer",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -123,9 +201,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Vega",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -135,10 +213,10 @@ const ARTIST_DATA = {
       "city": "Krakow",
       "state": "Poland",
       "location": "Krakow, Poland",
-      "venue": "Hala Ocynowi Arcelor Mittal - Sacrum Profanum Festival",
+      "venue": "Hala Ocynowi Arcelor Mittal",
+      "notes": "Sacrum",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -149,9 +227,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -162,9 +240,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -175,9 +253,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hammerstein Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -188,9 +266,9 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Brussels, Belgium",
       "venue": "Cirque Royal",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -201,9 +279,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Groningen, The Netherlands",
       "venue": "Oosterpoort",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -214,9 +292,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Eindhoven, The Netherlands",
       "venue": "Muziekgebouw Frits Philips",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2010,
@@ -227,9 +305,9 @@ const ARTIST_DATA = {
       "state": "Iceland",
       "location": "Keykjavik, Iceland",
       "venue": "Laugeardalshall",
+      "notes": "",
       "version": "FM",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 2019,
@@ -240,9 +318,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "The Lincoln Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "",
-      "notes": ""
+      "format": ""
     }
   ],
   "misc": [
