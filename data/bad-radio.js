@@ -19,9 +19,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Bacchanal",
+      "notes": "unk VHS",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk VHS"
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -32,9 +32,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Bacchanal",
+      "notes": "unk VHS",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "unk VHS"
+      "format": "DVD"
     },
     {
       "year": 1990,
@@ -45,9 +45,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Bacchanal",
+      "notes": "unk VHS",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk VHS"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -58,9 +58,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Bacchanal",
+      "notes": "unk VHS",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "unk VHS"
+      "format": "DVD"
     }
-  ]
+  ],
+  "misc": []
 };
