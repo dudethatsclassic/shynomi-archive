@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "mudhoney",
   "name": "Mudhoney",
   "drive": "A",
-  "showCount": 165,
+  "showCount": 166,
   "firstYear": 1988,
   "lastYear": 2025,
   "years": [
@@ -1270,6 +1270,19 @@ const ARTIST_DATA = {
       "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC"
+    },
+    {
+      "year": 1995,
+      "month": 7,
+      "day": 3,
+      "dateStr": "7-3-1995",
+      "city": "Seattle",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "DV8",
+      "notes": "ANA(1) · unk · nick serra transfer",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1995,
