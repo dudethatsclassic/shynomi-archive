@@ -1955,7 +1955,7 @@ const ARTISTS = [
   {
     "id": "our-lady-peace",
     "name": "Our Lady Peace",
-    "showCount": 56,
+    "showCount": 58,
     "firstYear": 1995,
     "lastYear": 2026
   },
