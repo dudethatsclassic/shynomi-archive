@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "the-melvins",
   "name": "The Melvins",
   "drive": "A",
-  "showCount": 20,
+  "showCount": 21,
   "firstYear": 1985,
   "lastYear": 2022,
   "years": [
@@ -29,12 +29,12 @@ const ARTIST_DATA = {
       "day": 7,
       "dateStr": "10-7-1985",
       "city": "Winnipeg",
-      "state": "Manitoba, CA",
+      "state": "Manitoba",
       "location": "Winnipeg, Manitoba, CA",
-      "venue": "Wellington's - ANA",
+      "venue": "Wellington's",
+      "notes": "ANA(x) · unk",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "x \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1985,
@@ -45,9 +45,9 @@ const ARTIST_DATA = {
       "state": "WA/ The Gorilla Gardens Rock Theatre (unk)",
       "location": "Seattle, WA/ The Gorilla Gardens Rock Theatre (unk)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1986,
@@ -57,10 +57,10 @@ const ARTIST_DATA = {
       "city": "Olympia",
       "state": "WA",
       "location": "Olympia, WA",
-      "venue": "G.E.S.C.C.O. - ANA",
+      "venue": "G.E.S.C.C.O.",
+      "notes": "ANA(x) · unk",
       "version": "AUD #1",
-      "format": "FLAC",
-      "notes": "x \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -71,9 +71,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Club Heidelberg",
+      "notes": "",
       "version": "AUD #1",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -84,9 +84,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
+      "notes": "",
       "version": "SBD #1",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -96,10 +96,10 @@ const ARTIST_DATA = {
       "city": "Montreal",
       "state": "QC",
       "location": "Montreal, QC",
-      "venue": "Foufounes Electriques - ANA(M)",
+      "venue": "Foufounes Electriques",
+      "notes": "ANA(M) · Sony WM-D6 · unk",
       "version": "AUD #1",
-      "format": "FLAC",
-      "notes": "Sony WM-D6 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -110,9 +110,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Denver Coliseum",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -122,10 +122,10 @@ const ARTIST_DATA = {
       "city": "Roma",
       "state": "IT",
       "location": "Roma, IT",
-      "venue": "Palaghiaccio di Marino - ANA",
+      "venue": "Palaghiaccio di Marino",
+      "notes": "ANA(x)",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "x"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -136,9 +136,9 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Palatrussardi",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -149,9 +149,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
+      "notes": "unk",
       "version": "AUD #1",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -162,9 +162,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Alligator Lounge",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -175,9 +175,9 @@ const ARTIST_DATA = {
       "state": "ME /- Zootz - Bad Habits Live - ANA(M) (MarcSounds) (chris w.)",
       "location": "Portland, ME /- Zootz - Bad Habits Live - ANA(M) (MarcSounds) (chris w.)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -187,10 +187,23 @@ const ARTIST_DATA = {
       "city": "St. Louis",
       "state": "MO",
       "location": "St. Louis, MO",
-      "venue": "Mississippi Nights - DAT(M)",
+      "venue": "Vintage Vinyl",
+      "notes": "DAT(M) · CSB · jlizard",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 jlizard"
+      "format": "FLAC"
+    },
+    {
+      "year": 1997,
+      "month": 9,
+      "day": 13,
+      "dateStr": "9-13-1997",
+      "city": "St. Louis",
+      "state": "MO",
+      "location": "St. Louis, MO",
+      "venue": "Mississippi Nights",
+      "notes": "DAT(M) · CSB · jlizard",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -201,9 +214,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "San Jose State University",
+      "notes": "",
       "version": "SBD (Remaster)",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -213,10 +226,10 @@ const ARTIST_DATA = {
       "city": "Seattle",
       "state": "WA",
       "location": "Seattle, WA",
-      "venue": "Showbox - DAT",
+      "venue": "Showbox",
+      "notes": "DAT(M) · cps transfer",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "M \u00b7 cps transfer"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -227,9 +240,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Black Cat",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -240,9 +253,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Black Cat",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -253,9 +266,9 @@ const ARTIST_DATA = {
       "state": "OR - John Henrys (DPA 4061s) (clarence x)",
       "location": "Eugene, OR - John Henrys (DPA 4061s) (clarence x)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -266,9 +279,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Ana, CA",
       "venue": "The Observatory",
+      "notes": "DSCM6 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DSCM6 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -279,9 +292,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Westcott Theater",
+      "notes": "AKG CK63 · beatkilla",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AKG CK63 \u00b7 beatkilla"
+      "format": "FLAC"
     }
   ],
   "misc": [
