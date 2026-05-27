@@ -2809,7 +2809,7 @@ const ARTISTS = [
   {
     "id": "the-jayhawks",
     "name": "The Jayhawks",
-    "showCount": 35,
+    "showCount": 37,
     "firstYear": 1985,
     "lastYear": 2025
   },
