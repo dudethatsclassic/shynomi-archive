@@ -17,10 +17,10 @@ const ARTIST_DATA = {
       "city": "Cincinnati",
       "state": "OH",
       "location": "Cincinnati, OH",
-      "venue": "Bogart's - CASS(M)",
+      "venue": "Bogart's",
+      "notes": "CASS(M) · Sony ECM 155 · ellaguru transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM 155 \u00b7 ellaguru transfer"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -30,10 +30,10 @@ const ARTIST_DATA = {
       "city": "Nashville",
       "state": "TN",
       "location": "Nashville, TN",
-      "venue": "328 Performance Hall  - CASS(M)",
+      "venue": "328 Performance Hall",
+      "notes": "CASS(M) · ellaguru transfer · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ellaguru transfer \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -43,10 +43,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Chelsea TV Studios - Jon Stewart Show",
+      "venue": "Chelsea TV Studios",
+      "notes": "Jon · mz transfer",
       "version": "TV",
-      "format": "FLAC",
-      "notes": "mz transfer"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -57,9 +57,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tramp's",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -69,10 +69,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "The Metro (SV033) *Ringspiel - VHS",
+      "venue": "The Metro (SV033) *Ringspiel",
+      "notes": "VHS(M)",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "SV033 \u00b7 M"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -83,9 +83,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
+      "notes": "JBTV",
       "version": "SBD",
-      "format": "MP4",
-      "notes": "JBTV"
+      "format": "MP4"
     },
     {
       "year": 1995,
@@ -95,10 +95,10 @@ const ARTIST_DATA = {
       "city": "Seattle",
       "state": "WA",
       "location": "Seattle, WA",
-      "venue": "King Cat Theater - DAT(M)",
+      "venue": "King Cat Theater",
+      "notes": "DAT(M) · Custom mics · ellaguru transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Custom mics \u00b7 ellaguru transfer"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -109,9 +109,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Palace",
+      "notes": "SS",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SS"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -121,10 +121,10 @@ const ARTIST_DATA = {
       "city": "Washington",
       "state": "D.C.",
       "location": "Washington, D.C.",
-      "venue": "RFK Stadium - WHFStival",
+      "venue": "RFK Stadium",
+      "notes": "WHFStival · ellaguru transfer",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "ellaguru transfer"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -134,10 +134,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Metro - DAT",
+      "venue": "Metro",
+      "notes": "DAT(M)",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "M"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -147,10 +147,10 @@ const ARTIST_DATA = {
       "city": "Albany",
       "state": "NY",
       "location": "Albany, NY",
-      "venue": "Bogie's - DAT(M)",
+      "venue": "Bogie's",
+      "notes": "DAT(M) · CSB · ellaguru transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 ellaguru transfer"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -161,9 +161,9 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Charlottesville, VA",
       "venue": "Trax",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -173,10 +173,11 @@ const ARTIST_DATA = {
       "city": "Hollywood",
       "state": "CA",
       "location": "Hollywood, CA",
-      "venue": "Hollywood Palace - DAT",
+      "venue": "Hollywood Palace",
+      "notes": "DAT(M) · ellaguru transfer",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "M \u00b7 ellaguru transfer"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
