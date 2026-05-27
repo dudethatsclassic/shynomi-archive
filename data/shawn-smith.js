@@ -22,22 +22,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Sit 'N Spin",
+      "notes": "MarcSounds",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "MarcSounds"
-    },
-    {
-      "year": 1998,
-      "month": 11,
-      "day": 9,
-      "dateStr": "11-9-1998",
-      "city": "Hollywood",
-      "state": "CA",
-      "location": "Hollywood, CA",
-      "venue": "Opium Den - DAT(1)",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 mz"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -48,9 +35,22 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Opium Den",
+      "notes": "DAT(1) · CSB · mz",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB"
+      "format": "FLAC"
+    },
+    {
+      "year": 1998,
+      "month": 11,
+      "day": 9,
+      "dateStr": "11-9-1998",
+      "city": "Hollywood",
+      "state": "CA",
+      "location": "Hollywood, CA",
+      "venue": "Opium Den",
+      "notes": "CSB",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -61,9 +61,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Luna Park",
+      "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -73,10 +73,10 @@ const ARTIST_DATA = {
       "city": "West Hollywood",
       "state": "CA",
       "location": "West Hollywood, CA",
-      "venue": "Luna Park - DAT(1)",
+      "venue": "Luna Park",
+      "notes": "DAT(1) · CSB · mz",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 mz"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -87,9 +87,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Aerospace",
+      "notes": "CSC",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSC"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -100,9 +100,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Sit 'N Spin",
+      "notes": "CSC",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSC"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -113,9 +113,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Shine",
+      "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -126,9 +126,9 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Columbia, SC",
       "venue": "The Elbow Room",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -139,9 +139,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Arcadia",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -152,9 +152,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Mint",
+      "notes": "COS-11sBP",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "COS-11sBP"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -165,9 +165,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Marina del Rey, CA",
       "venue": "Tower Records",
+      "notes": "early · COS-11sBP",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "early \u00b7 COS-11sBP"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -177,10 +177,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "Bar F2 (late) - DAT",
+      "venue": "Bar F2 (late)",
+      "notes": "DAT(M) · COS-11sBP",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 COS-11sBP"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -191,9 +191,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Arcadia",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -204,9 +204,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Arcadia",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -216,10 +216,10 @@ const ARTIST_DATA = {
       "city": "Seattle",
       "state": "WA",
       "location": "Seattle, WA",
-      "venue": "EMP Sky Church - Groundwork 2001",
+      "venue": "EMP Sky Church",
+      "notes": "Groundwork",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -230,9 +230,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox",
+      "notes": "CA-11 · jeffbr",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11 \u00b7 jeffbr"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -243,9 +243,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Radio 2",
+      "notes": "phantomdevil productions",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "phantomdevil productions"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -256,9 +256,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Crocodile Back Bar",
+      "notes": "Zoom H4N",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H4N"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -269,9 +269,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Highway 99 Blues Club",
+      "notes": "Tascam GT-R1",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Tascam GT-R1"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
