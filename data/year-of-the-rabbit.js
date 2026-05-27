@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Double Door",
+      "notes": "CSB · charles dewey cole",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 charles dewey cole"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
