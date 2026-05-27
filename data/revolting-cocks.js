@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Ritz",
+      "notes": "w/ Trent Reznor",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "w/ Trent Reznor"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
