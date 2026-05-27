@@ -32,61 +32,61 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Studio Rehearsals",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1961,
       "month": 10,
       "day": 22,
       "dateStr": "10-22-1961",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Palais des Sports",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1966,
       "month": 10,
       "day": 22,
       "dateStr": "10-22-1966",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Palais des Sports",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1976,
       "month": 9,
       "day": 28,
       "dateStr": "9-28-1976",
-      "city": "Stuttgart, Germany",
-      "state": "",
+      "city": "Stuttgart",
+      "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Liederhalle",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1978,
       "month": 7,
       "day": 17,
       "dateStr": "7-17-1978",
-      "city": "Juan-les-Pins, France",
-      "state": "",
+      "city": "Juan-les-Pins",
+      "state": "France",
       "location": "Juan-les-Pins, France",
       "venue": "Festival de Jazz d'Antibes",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1978,
@@ -97,9 +97,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Symphony Hall",
+      "notes": "inc · Sony TC-48 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony TC-48 \u00b7 Inc \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1979,
@@ -110,9 +110,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits Soundstage",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1982,
@@ -123,9 +123,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Winter Park, CO",
       "venue": "Winter Park Jazz Festival",
+      "notes": "Condenser mic · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Condenser Mic \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1984,
@@ -136,22 +136,22 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Humphrey's",
+      "notes": "M · Sony ECM-939LT · marco moir",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 Sony ECM-939LT \u00b7 Marco Moir"
+      "format": "FLAC"
     },
     {
       "year": 1984,
       "month": 10,
       "day": 27,
       "dateStr": "10-27-1984",
-      "city": "Warszaw, Poland",
-      "state": "",
+      "city": "Warszaw",
+      "state": "Poland",
       "location": "Warszaw, Poland",
-      "venue": "Congress Hall - Jazz Jamboree",
+      "venue": "Congress Hall",
+      "notes": "Jazz",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1984,
@@ -162,48 +162,48 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Ithaca, NY",
       "venue": "Cornell University",
+      "notes": "ANA(M) · Nakamichi CM100s",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Nakamichi CM100s"
+      "format": "FLAC"
     },
     {
       "year": 1986,
       "month": 7,
       "day": 1,
       "dateStr": "7-1-1986",
-      "city": "Lugano, Switzerland",
-      "state": "",
+      "city": "Lugano",
+      "state": "Switzerland",
       "location": "Lugano, Switzerland",
-      "venue": "Estival Jazz - Piazza Della Riforma",
+      "venue": "Estival Jazz",
+      "notes": "Piazza",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1986,
       "month": 7,
       "day": 25,
       "dateStr": "7-25-1986",
-      "city": "Toyohashi, Japan",
-      "state": "",
+      "city": "Toyohashi",
+      "state": "Japan",
       "location": "Toyohashi, Japan",
       "venue": "",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
       "month": 12,
       "day": 4,
       "dateStr": "12-4-1989",
-      "city": "Rome, Italy",
-      "state": "",
+      "city": "Rome",
+      "state": "Italy",
       "location": "Rome, Italy",
-      "venue": "Teatro Sistina -  Rehearsal",
+      "venue": "Teatro Sistina",
+      "notes": "Rehearsal · unk · phil chen",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown \u00b7 Phil Chen"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -214,9 +214,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Manhattan Beach Studios",
+      "notes": "w/ Marian McPartland",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "W/ Marian Mcpartland"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -227,9 +227,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Lewiston, NY",
       "venue": "Art Park",
+      "notes": "ANA(M) · Sony WM-D3 · boscoe harris · krw_co transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony WM-D3 \u00b7 Boscoe Harris \u00b7 Krw_co Transfer"
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -240,35 +240,35 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Ventura, CA",
       "venue": "Ventura Theater",
+      "notes": "Late show · Sennheiser MKH406 · flex",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Late show \u00b7 Sennheiser MKH406 \u00b7 Flex"
+      "format": "FLAC"
     },
     {
       "year": 1996,
       "month": 7,
       "day": 4,
       "dateStr": "7-4-1996",
-      "city": "Lugano, Switzerland",
-      "state": "",
+      "city": "Lugano",
+      "state": "Switzerland",
       "location": "Lugano, Switzerland",
-      "venue": "Estival Jazz - Piazza Della Riforma",
+      "venue": "Estival Jazz",
+      "notes": "Piazza",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
       "month": 5,
       "day": 26,
       "dateStr": "5-26-1999",
-      "city": "Glasgow, Scotland",
-      "state": "",
+      "city": "Glasgow",
+      "state": "Scotland",
       "location": "Glasgow, Scotland",
       "venue": "Clyde Auditorium",
+      "notes": "w/ the BBC Orchestra",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "W/ The Bbc Orchestra"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -279,9 +279,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pasadena, CA",
       "venue": "Verizon Festival",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
