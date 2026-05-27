@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "mudhoney",
   "name": "Mudhoney",
   "drive": "A",
-  "showCount": 168,
+  "showCount": 169,
   "firstYear": 1988,
   "lastYear": 2025,
   "years": [
@@ -1957,9 +1957,22 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Duedingen, Switzerland",
       "venue": "Bad Bonn Kilbi",
+      "notes": "ECM-717 · swisstapes",
+      "version": "AUD #1",
+      "format": "FLAC"
+    },
+    {
+      "year": 2012,
+      "month": 6,
+      "day": 2,
+      "dateStr": "6-2-2012",
+      "city": "Duedingen",
+      "state": "Switzerland",
+      "location": "Duedingen, Switzerland",
+      "venue": "Bad Bonn Kilbi",
       "notes": "DPA 4061 · unk",
-      "version": "",
-      "format": ""
+      "version": "AUD #2",
+      "format": "FLAC"
     },
     {
       "year": 2013,
