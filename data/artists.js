@@ -625,7 +625,7 @@ const ARTISTS = [
   {
     "id": "deftones",
     "name": "Deftones",
-    "showCount": 300,
+    "showCount": 302,
     "firstYear": 1992,
     "lastYear": 2026
   },
