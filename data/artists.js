@@ -1248,7 +1248,7 @@ const ARTISTS = [
   {
     "id": "jimi-hendrix",
     "name": "Jimi Hendrix",
-    "showCount": 229,
+    "showCount": 241,
     "firstYear": 1965,
     "lastYear": 2010
   },
