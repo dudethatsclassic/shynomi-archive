@@ -2,16 +2,17 @@ const ARTIST_DATA = {
   "id": "puscifer",
   "name": "Puscifer",
   "drive": "B",
-  "showCount": 12,
+  "showCount": 14,
   "firstYear": 2009,
-  "lastYear": 2023,
+  "lastYear": 2026,
   "years": [
     2009,
     2011,
     2012,
     2017,
     2022,
-    2023
+    2023,
+    2026
   ],
   "shows": [
     {
@@ -169,6 +170,32 @@ const ARTIST_DATA = {
       "notes": "Webcast · dion1983 · 720p",
       "version": "PRO",
       "format": "TS"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 3,
+      "dateStr": "5-3-2026",
+      "city": "Morrison",
+      "state": "CO",
+      "location": "Morrison, CO",
+      "venue": "Red Rocks Amphitheater",
+      "notes": "M · iPhone 16 · loudpuppy",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 14,
+      "dateStr": "5-14-2026",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "Greek Theatre",
+      "notes": "Shure MV88 · coolerluzi",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
   ],
   "misc": []
