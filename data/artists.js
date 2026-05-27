@@ -1003,7 +1003,7 @@ const ARTISTS = [
   {
     "id": "green-day",
     "name": "Green Day",
-    "showCount": 354,
+    "showCount": 355,
     "firstYear": 1989,
     "lastYear": 2025
   },
@@ -2847,6 +2847,13 @@ const ARTISTS = [
     "showCount": 4,
     "firstYear": 1981,
     "lastYear": 1985
+  },
+  {
+    "id": "the-network",
+    "name": "The Network",
+    "showCount": 1,
+    "firstYear": 2005,
+    "lastYear": 2005
   },
   {
     "id": "the-nixons",
