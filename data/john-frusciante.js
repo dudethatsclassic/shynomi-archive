@@ -20,9 +20,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The Borderline",
+      "notes": "inc · unk",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "inc \u00b7 Unknown"
+      "format": "DVD"
     },
     {
       "year": 2001,
@@ -33,9 +33,9 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "The Paradiso",
+      "notes": "",
       "version": "AUD",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2001,
@@ -46,9 +46,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Horseshoe Tavern",
+      "notes": "",
       "version": "AUD",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2001,
@@ -59,9 +59,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Orensanz",
+      "notes": "",
       "version": "AUD",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2001,
@@ -72,9 +72,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Johnny Foley's",
+      "notes": "",
       "version": "AUD",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2004,
@@ -85,9 +85,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Knitting Factory",
+      "notes": "",
       "version": "AUD",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2004,
@@ -98,9 +98,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Knitting Factory",
+      "notes": "",
       "version": "AUD",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2004,
@@ -111,9 +111,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pomona, CA",
       "venue": "The Glasshouse",
+      "notes": "unk · noizewater",
       "version": "AMT #1",
-      "format": "DVD",
-      "notes": "unk \u00b7 noizewater"
+      "format": "DVD"
     },
     {
       "year": 2004,
@@ -124,9 +124,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Self Help Graphics",
+      "notes": "",
       "version": "MIX #1",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2005,
@@ -137,9 +137,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Camber Sands, UK",
       "venue": "All Tomorrow's Parties Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -150,9 +150,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Camber Sands, UK",
       "venue": "All Tomorrow's Parties Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     }
-  ]
+  ],
+  "misc": []
 };
