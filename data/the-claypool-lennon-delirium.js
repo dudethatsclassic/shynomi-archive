@@ -19,9 +19,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "The Ritz",
+      "notes": "MK4v",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "MK4v"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -32,9 +32,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Wilmington, NC",
       "venue": "Greenfield Lake Amphitheatre",
+      "notes": "Schoeps MK41",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK41"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -45,9 +45,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Skyway Theatre",
+      "notes": "CCM41 · guy of the north",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CCM41 \u00b7 guy of the north"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -58,9 +58,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Express Live!",
+      "notes": "AKG-C568EBs",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AKG-C568EBs"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -71,9 +71,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Fillmore",
+      "notes": "SP-CMC-8 · bcironmaiden",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 bcironmaiden"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -84,9 +84,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theatre",
+      "notes": "leifh & rockthemullet",
       "version": "MTX",
-      "format": "FLAC",
-      "notes": "leifh & rockthemullet"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -97,9 +97,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Danforth Music Hall",
+      "notes": "MBHO KA200N",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "MBHO KA200N"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -110,9 +110,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "College Street",
+      "notes": "Schoeps CCM41's · michael buzzeo",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CCM41's \u00b7 michael buzzeo"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -123,9 +123,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues",
+      "notes": "AT853",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT853"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -136,9 +136,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
+      "notes": "CA-11 · opsopcopolis",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11 \u00b7 opsopcopolis"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -149,9 +149,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
+      "notes": "Zoom H1 · majintrunkz",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Zoom H1 \u00b7 majintrunkz"
+      "format": "FLAC 24"
     },
     {
       "year": 2019,
@@ -161,10 +161,10 @@ const ARTIST_DATA = {
       "city": "Atlanta",
       "state": "GA",
       "location": "Atlanta, GA",
-      "venue": "Centennial Olympic Park - Sweetwater 420 Fest",
+      "venue": "Centennial Olympic Park",
+      "notes": "Sweetwater · Schoeps MK4V'S>CMC6 · z-man",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4V'S>CMC6 \u00b7 z-man"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -174,10 +174,10 @@ const ARTIST_DATA = {
       "city": "Atlanta",
       "state": "GA",
       "location": "Atlanta, GA",
-      "venue": "Centennial Olympic Park - Sweetwater 420 Fest",
+      "venue": "Centennial Olympic Park",
+      "notes": "Sweetwater · Soundfield SPS200 · daniel kopp",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Soundfield SPS200 \u00b7 daniel kopp"
+      "format": "FLAC 24"
     },
     {
       "year": 2019,
@@ -188,9 +188,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant",
+      "notes": "Nokia Lumia 920 · shane e. calhoun",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Nokia Lumia 920 \u00b7 shane e. calhoun"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -201,9 +201,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Majestic Theatre",
+      "notes": "MBHO KA200N",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "MBHO KA200N"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -214,9 +214,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Bloomington, IL",
       "venue": "The Castle Theatre",
+      "notes": "Schoeps mk4v",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps mk4v"
+      "format": "FLAC 24"
     },
     {
       "year": 2019,
@@ -227,9 +227,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Commodore Ballroom",
+      "notes": "CA-11 · leifh",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11 \u00b7 leifh"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -240,9 +240,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Farm Bureau Insurance Lawn at White River State Park",
+      "notes": "AT943s · ironchef",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT943s \u00b7 ironchef"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -253,9 +253,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Lewiston, NY",
       "venue": "Artpark",
+      "notes": "CA-14s · binko",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14s \u00b7 binko"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -266,9 +266,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Port Chester, NY",
       "venue": "Capitol Theater",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -279,9 +279,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Utica, NY",
       "venue": "Saranac Brewery",
+      "notes": "Sennheiser MKE · beatkilla",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sennheiser MKE \u00b7 beatkilla"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -292,9 +292,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Emo's",
+      "notes": "Schoeps MK4 · seedy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 seedy"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -305,9 +305,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Madrid Theater",
+      "notes": "AT 853 · kc moejoe",
       "version": "AUD",
-      "format": "",
-      "notes": "AT 853 \u00b7 kc moejoe"
+      "format": ""
     }
-  ]
+  ],
+  "misc": []
 };
