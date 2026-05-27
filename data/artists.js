@@ -1528,7 +1528,7 @@ const ARTISTS = [
   {
     "id": "local-h",
     "name": "Local H",
-    "showCount": 550,
+    "showCount": 548,
     "firstYear": 1991,
     "lastYear": 2026
   },
@@ -2311,6 +2311,13 @@ const ARTISTS = [
   },
   {
     "id": "scott-lucas-and-the-married-men",
+    "name": "Scott Lucas & the Married Men",
+    "showCount": 4,
+    "firstYear": 2011,
+    "lastYear": 2022
+  },
+  {
+    "id": "scott-lucas-the-married-men",
     "name": "Scott Lucas & the Married Men",
     "showCount": 4,
     "firstYear": 2011,
