@@ -24,9 +24,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -37,9 +37,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Aron's Records",
+      "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -50,9 +50,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
+      "notes": "SS DSM6 · wilson66 master",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SS DSM6 \u00b7 wilson66 master"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -62,10 +62,10 @@ const ARTIST_DATA = {
       "city": "Seattle",
       "state": "WA",
       "location": "Seattle, WA",
-      "venue": "The Showbox - DAT(M)",
+      "venue": "The Showbox",
+      "notes": "DAT(M) · MarcSound · mz",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "MarcSound \u00b7 mz"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -75,10 +75,10 @@ const ARTIST_DATA = {
       "city": "Boston",
       "state": "MA",
       "location": "Boston, MA",
-      "venue": "The Axis - CD-R",
+      "venue": "The Axis",
+      "notes": "CD-R(M) · CSB",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 CSB"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -89,9 +89,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "House of Blues",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -102,9 +102,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Unknown Location & Venue (unk)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -115,9 +115,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Bondi Beach",
+      "notes": "Sony D7",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony D7"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -128,9 +128,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Breakroom",
+      "notes": "OKM IIR",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "OKM IIR"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -141,9 +141,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Breakroom",
+      "notes": "OKM IIR",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "OKM IIR"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -153,10 +153,10 @@ const ARTIST_DATA = {
       "city": "Hollywood",
       "state": "CA",
       "location": "Hollywood, CA",
-      "venue": "The Viper Room - CD-R",
+      "venue": "The Viper Room",
+      "notes": "CD-R(M) · COS-11sBP",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 COS-11sBP"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -167,9 +167,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Troubadour",
+      "notes": "COS-11sBP",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "COS-11sBP"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -180,9 +180,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "In-store performance at Music Millenium",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -193,9 +193,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "KEXP 90.3 FM Radio Show",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -206,9 +206,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Tower Records",
+      "notes": "OKM IIR",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "OKM IIR"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -218,10 +218,10 @@ const ARTIST_DATA = {
       "city": "Hollywood",
       "state": "CA",
       "location": "Hollywood, CA",
-      "venue": "The Roxy (inc) - CD-R",
+      "venue": "The Roxy (inc)",
+      "notes": "CD-R(M) · COS-11sBP",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 COS-11sBP"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -231,10 +231,10 @@ const ARTIST_DATA = {
       "city": "Hollywood",
       "state": "CA",
       "location": "Hollywood, CA",
-      "venue": "Tower Records - Sunset Strip",
+      "venue": "Tower Records",
+      "notes": "Sunset · COS-11sBP",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "COS-11sBP"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -245,9 +245,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "TLA",
+      "notes": "Countryman Isomax II",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Countryman Isomax II"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -258,9 +258,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "TLA",
+      "notes": "DAT",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "DAT"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -271,9 +271,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Bowery Ballroom",
+      "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -284,9 +284,9 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "The Phoenix",
+      "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -296,10 +296,10 @@ const ARTIST_DATA = {
       "city": "Seatlle",
       "state": "WA",
       "location": "Seatlle, WA",
-      "venue": "Key Arena - DAT(M)",
+      "venue": "Key Arena",
+      "notes": "DAT(M) · Schoeps · blg transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps \u00b7 blg transfer"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -309,10 +309,10 @@ const ARTIST_DATA = {
       "city": "Seatlle",
       "state": "WA",
       "location": "Seatlle, WA",
-      "venue": "Key Arena - DAT(M)",
+      "venue": "Key Arena",
+      "notes": "DAT(M) · Schoeps · blg transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps \u00b7 blg transfer"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -323,9 +323,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Neumos",
+      "notes": "ATT933s · jeffbr",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ATT933s \u00b7 jeffbr"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -336,9 +336,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox",
+      "notes": "CA-11 · jeffbr",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11 \u00b7 jeffbr"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -349,9 +349,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "High Dive",
+      "notes": "CA-11 · jeffbr",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11 \u00b7 jeffbr"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -362,9 +362,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "World Cafe Live",
+      "notes": "CA-14s · jerseyboy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14s \u00b7 jerseyboy"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -375,9 +375,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "World Cafe Live",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -388,9 +388,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "High Dive",
+      "notes": "Edirol R-09HR · imageman2005",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R-09HR \u00b7 imageman2005"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -401,9 +401,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Troubadour",
+      "notes": "CA-14s · blg",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-14s \u00b7 blg"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
