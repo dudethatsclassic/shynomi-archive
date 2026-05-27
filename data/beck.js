@@ -4158,7 +4158,7 @@ const ARTIST_DATA = {
       "venue": "Palais Theatre",
       "notes": "Nokia Lumia 930 · eckythump",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC 24"
     }
   ],
   "misc": [
