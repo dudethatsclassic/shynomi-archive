@@ -25,26 +25,26 @@ const ARTIST_DATA = {
       "month": 6,
       "day": null,
       "dateStr": "6-XX-1997",
-      "city": "Las Vegas, NV - Hogs And Heifers",
-      "state": "",
+      "city": "Las Vegas",
+      "state": "NV - Hogs And Heifers",
       "location": "Las Vegas, NV - Hogs And Heifers",
       "venue": "",
+      "notes": "",
       "version": "SBD",
-      "format": "MP3",
-      "notes": ""
+      "format": "MP3"
     },
     {
       "year": 1997,
       "month": 8,
       "day": 22,
       "dateStr": "8-22-1997",
-      "city": "Reading, England",
-      "state": "",
+      "city": "Reading",
+      "state": "England",
       "location": "Reading, England",
       "venue": "Reading Festival",
+      "notes": "",
       "version": "SBD",
-      "format": "MP3",
-      "notes": ""
+      "format": "MP3"
     },
     {
       "year": 1999,
@@ -55,9 +55,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Dingwalls",
+      "notes": "DPA 4061 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -68,9 +68,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Sam Goody",
+      "notes": "Aiwa Clip-on>Sony MZ-R50 MD · kamenlitter",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Aiwa Clip-on>Sony MZ-R50 MD · Kamenlitter"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -81,9 +81,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Shelter",
+      "notes": "CSB · mitaper78",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB · Mitaper78"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -94,9 +94,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Double Door",
+      "notes": "unk · aadam jacobs",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown · Aadam Jacobs"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -107,9 +107,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Troubadour",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -120,9 +120,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Tower Records",
+      "notes": "unk · aadam jacobs",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown · Aadam Jacobs"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -133,9 +133,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Tower Records",
+      "notes": "DSM6",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DSM6"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -145,10 +145,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Tri-State Sound Unplugged - WLIR 92.7FM",
+      "venue": "Tri-State Sound Unplugged",
+      "notes": "WLIR",
       "version": "FM",
-      "format": "MP3",
-      "notes": ""
+      "format": "MP3"
     },
     {
       "year": 2003,
@@ -159,9 +159,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
+      "notes": "unk · aadam jacobs",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown · Aadam Jacobs"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -172,9 +172,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Metuchen, NJ",
       "venue": "Vintage Vinyl Records",
+      "notes": "",
       "version": "AUD",
-      "format": "MP4",
-      "notes": ""
+      "format": "MP4"
     },
     {
       "year": 2003,
@@ -185,9 +185,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore",
+      "notes": "DAT(M) · Schoeps MK4 · ted mattes",
       "version": "AUD (48k)",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 · ted mattes"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -198,9 +198,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -211,35 +211,35 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
+      "notes": "unk · aadam jacobs",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown · Aadam Jacobs"
+      "format": "FLAC"
     },
     {
       "year": 2004,
       "month": 1,
       "day": 21,
       "dateStr": "1-21-2004",
-      "city": "Amsterdam, The Netherlands",
-      "state": "",
+      "city": "Amsterdam",
+      "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
-      "venue": "Studio De Smet - VPRO Dutch Radio",
+      "venue": "Studio De Smet",
+      "notes": "VPRO",
       "version": "FM",
-      "format": "MP3",
-      "notes": ""
+      "format": "MP3"
     },
     {
       "year": 2004,
       "month": 3,
       "day": 8,
       "dateStr": "3-8-2004",
-      "city": "Cologne, Germany",
-      "state": "",
+      "city": "Cologne",
+      "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Prime Club",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -250,9 +250,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Avalon",
+      "notes": "Sony ECM-717 · jason adler",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-717 · Jason Adler"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -263,9 +263,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Taste of Randolph",
+      "notes": "unk · aadams jacobs",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown · Aadams Jacobs"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -276,9 +276,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Penn's Landing",
+      "notes": "DAT(M)",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -289,9 +289,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Fenway Park",
+      "notes": "Aiwa AM-F80 MD",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Aiwa Am-f80 Md"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -302,9 +302,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Copley Square",
+      "notes": "SP-TFB-2s · falcomadol",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sp-tfb-2s · Falcomadol"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -315,9 +315,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
+      "notes": "M · Sony ECM-DS70P · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M · Sony ECM-DS70P · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -328,9 +328,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Camden, NJ",
       "venue": "Wiggins Park",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -341,9 +341,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Westbury, NY",
       "venue": "North Fork Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -354,9 +354,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Artists' Den",
+      "notes": "Ovation TV VOD",
       "version": "PRO",
-      "format": "DVD",
-      "notes": "Ovation TV VOD"
+      "format": "DVD"
     },
     {
       "year": 2007,
@@ -367,22 +367,22 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Copely Square Park",
+      "notes": "SP-CMC-20 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-20 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2009,
       "month": 1,
       "day": 19,
       "dateStr": "1-19-2009",
-      "city": "San Francisco, CA/ Cafe du Nord (Schoeps CCM-4) (unk)",
-      "state": "",
+      "city": "San Francisco",
+      "state": "CA/ Cafe du Nord (Schoeps CCM-4) (unk)",
       "location": "San Francisco, CA/ Cafe du Nord (Schoeps CCM-4) (unk)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -393,9 +393,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Annapolis, MD",
       "venue": "Rams Head Tavern",
+      "notes": "DPA 4061 · kubacheck",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061 · Kubacheck"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -406,9 +406,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Maxwell's",
+      "notes": "DPA 4021 · scott bernstein",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4021 · Scott Bernstein"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -419,9 +419,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Exit-In",
+      "notes": "Edirol R-09",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R-09"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -432,9 +432,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Wiltern Theatre",
+      "notes": "AT943",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT943"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -444,10 +444,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "HSB10 - Towers of Gold Stage",
+      "venue": "HSB10",
+      "notes": "Towers · DPA 4023 · jean lerond",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4023 · Jean Lerond"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -457,10 +457,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "HSB10 - Towers of Gold Stage",
+      "venue": "HSB10",
+      "notes": "Towers · MK4 · daspyknows",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "MK4 · Daspyknows"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -471,9 +471,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Troubador",
+      "notes": "Edirol R-09HR · scooter123",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R-09hr · Scooter123"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -484,9 +484,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Double Door",
+      "notes": "CA-14s · brian emerick",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ca-14s · Brian Emerick"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -496,10 +496,10 @@ const ARTIST_DATA = {
       "city": "Carrboro",
       "state": "NC",
       "location": "Carrboro, NC",
-      "venue": "Cat's Cradle - Yep Roc 15th Anniversary - Night 2",
+      "venue": "Cat's Cradle",
+      "notes": "Yep · CEMC6-CK4 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Cemc6-ck4 · Unknown"
+      "format": "FLAC"
     }
   ],
   "misc": [
