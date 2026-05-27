@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "death-cab-for-cutie",
   "name": "Death Cab For Cutie",
   "drive": "B",
-  "showCount": 178,
+  "showCount": 129,
   "firstYear": 1998,
   "lastYear": 2024,
   "years": [
@@ -15,18 +15,13 @@ const ARTIST_DATA = {
     2004,
     2005,
     2006,
-    2007,
     2008,
-    2009,
     2011,
     2012,
     2013,
     2015,
-    2017,
     2018,
     2019,
-    2020,
-    2021,
     2022,
     2023,
     2024
@@ -41,9 +36,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Beatbox",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -54,9 +49,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Bellingham, WA",
       "venue": "Viking Union Main Lounge",
+      "notes": "CSB · andy swinburnson",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 Andy Swinburnson"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -67,9 +62,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Crocodile Cafe",
+      "notes": "swinburnson",
       "version": "SBD",
-      "format": "MP3",
-      "notes": "Swinburnson"
+      "format": "MP3"
     },
     {
       "year": 2000,
@@ -80,9 +75,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Notsuoh",
+      "notes": "DSM-6P · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Dsm-6p \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -93,9 +88,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -106,9 +101,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Bumberclub",
+      "notes": "CSBmod · andy swinburnson",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Csbmod \u00b7 Andy Swinburnson"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -119,9 +114,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Blind Pig",
+      "notes": "SS-DSM6s/L · tapeworm48",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ss-dsm6s/l \u00b7 Tapeworm48"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -132,22 +127,22 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Crocodile Cafe",
+      "notes": "Late show",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Late show"
+      "format": "FLAC"
     },
     {
       "year": 2000,
       "month": 11,
       "day": 17,
       "dateStr": "11-17-2000",
-      "city": "Vancouver, Canada",
-      "state": "",
+      "city": "Vancouver",
+      "state": "Canada",
       "location": "Vancouver, Canada",
       "venue": "Starfish Room",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -158,9 +153,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Showbox Theater",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -171,9 +166,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Bellingham, WA",
       "venue": "5th Floor Coffeehouse",
+      "notes": "CSBmod · swinburnson",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Csbmod \u00b7 Swinburnson"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -184,9 +179,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Emo's",
+      "notes": "AKG 391 · wbrisett",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Akg 391 \u00b7 Wbrisett"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -197,9 +192,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Notsuoh",
+      "notes": "DSM-6P · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Dsm-6p \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -210,9 +205,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "KVRX Studios",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -223,9 +218,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Buffalo Billiards",
+      "notes": "DSM-6S · fogelsong",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Dsm-6s \u00b7 Fogelsong"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -236,9 +231,9 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Lawrence, KS",
       "venue": "The Bottleneck",
+      "notes": "SP cards · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sp Cards \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -249,9 +244,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Paradox",
+      "notes": "CSBmod · swinsburn",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Csbmod \u00b7 Swinsburn"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -262,9 +257,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox \"The Photo Album Preview Show\"",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -275,9 +270,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Crocodile Cafe",
+      "notes": "CSBmod · swingburnson",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Csbmod \u00b7 Swingburnson"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -288,9 +283,9 @@ const ARTIST_DATA = {
       "state": "NE",
       "location": "Omaha, NE",
       "venue": "Sokol Underground",
+      "notes": "DSM-6S/L · zach payne",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Dsm-6s/l \u00b7 Zach Payne"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -301,9 +296,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Mary Jane's",
+      "notes": "DSM-6S · fogelsong",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Dsm-6s \u00b7 Fogelsong"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -314,9 +309,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Mary Jane's",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -327,9 +322,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Emo's",
+      "notes": "DAT(M) · aleal5687",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Aleal5687"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -340,9 +335,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Emo's",
+      "notes": "fogelsong",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Fogelsong"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -353,9 +348,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
+      "notes": "DAT(M) · CCM4 · drew",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CCM4 \u00b7 Drew"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -366,9 +361,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Graceland",
+      "notes": "DAT(M)",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -379,9 +374,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Dingwall's",
+      "notes": "DAT(M) · Marantz EM-8 · gary watson",
       "version": "AUD #1",
-      "format": "FLAC",
-      "notes": "gary watson \u00b7 Marantz Em-8"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -392,9 +387,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Barfly @ the Monarch",
+      "notes": "DAT(M) · Marantz EM-8 · gary watson",
       "version": "AUD #1",
-      "format": "FLAC",
-      "notes": "gary watson \u00b7 Marantz Em-8"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -405,9 +400,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "EMP Skychurch",
+      "notes": "DAT(M) · swinburnson",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Swinburnson"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -418,9 +413,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Bellingham, WA",
       "venue": "VU Multipurpose Room",
+      "notes": "DAT(M) · swingburnson",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Swingburnson"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -431,9 +426,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbo's 365 Club",
+      "notes": "DAT(M) · DPA 4061 · jason roth",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 Jason Roth"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -444,9 +439,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The El Rey Theatre",
+      "notes": "jason guzman",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Jason Guzman"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -457,9 +452,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Emo's",
+      "notes": "DAT(M) · Earthworks SR-77 · wbrisett",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Earthworks Sr-77 \u00b7 Wbrisett"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -470,9 +465,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Emo's",
+      "notes": "DAT(M) · fogelsong",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Fogelsong"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -483,9 +478,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Exit In",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -495,10 +490,10 @@ const ARTIST_DATA = {
       "city": "Carrboro",
       "state": "NC",
       "location": "Carrboro, NC",
-      "venue": "Cat's Cradle _ DAT(M)",
+      "venue": "Cat's Cradle _ DAT",
+      "notes": "M · DSM-6S · distance",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Dsm-6s \u00b7 Distance"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -509,22 +504,22 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Trocadero",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2002,
       "month": 3,
       "day": 19,
       "dateStr": "3-19-2002",
-      "city": "Toronto, Ontario",
-      "state": "",
+      "city": "Toronto",
+      "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "The Big Bop",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -535,9 +530,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Agora Ballroom",
+      "notes": "Oktava MC012 · brian skalinder",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Oktava Mc012 \u00b7 Brian Skalinder"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -548,9 +543,9 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Headliner's",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -561,9 +556,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Crocodile Cafe",
+      "notes": "DAT(M) · CSBmod · swinburnson",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Csbmod \u00b7 Swinburnson"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -574,9 +569,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Key Arena",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -587,9 +582,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Knitting Factory",
+      "notes": "DSM-6S · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Dsm-6s \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -600,9 +595,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Priviledge",
+      "notes": "DAT(M) · DSM-6S · fogelsong",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Dsm-6s \u00b7 Fogelsong"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -613,48 +608,48 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Troubadour",
+      "notes": "DAT(M) · DPA 4061s · ed davis",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Ed Davis"
+      "format": "FLAC"
     },
     {
       "year": 2003,
       "month": 3,
       "day": 13,
       "dateStr": "3-13-2003",
-      "city": "Austin, TX - Mother Egan's - DAT(M) (DSM-6S) (fogelsong)",
-      "state": "",
+      "city": "Austin",
+      "state": "TX - Mother Egan's - DAT(M) (DSM-6S) (fogelsong)",
       "location": "Austin, TX - Mother Egan's - DAT(M) (DSM-6S) (fogelsong)",
       "venue": "",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2003,
       "month": 3,
       "day": 13,
       "dateStr": "3-13-2003",
-      "city": "Austin, TX - Mother Egan's",
-      "state": "",
+      "city": "Austin",
+      "state": "TX - Mother Egan's",
       "location": "Austin, TX - Mother Egan's",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2003,
       "month": 3,
       "day": 14,
       "dateStr": "3-14-2003",
-      "city": "Austin, TX - Emo's (unk)",
-      "state": "",
+      "city": "Austin",
+      "state": "TX - Emo's (unk)",
       "location": "Austin, TX - Emo's (unk)",
       "venue": "",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -665,22 +660,22 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Emo's / SXSW Showcase",
+      "notes": "chris stratton",
       "version": "SBD",
-      "format": "SHN",
-      "notes": "chris stratton"
+      "format": "SHN"
     },
     {
       "year": 2003,
       "month": 3,
       "day": 16,
       "dateStr": "3-16-2003",
-      "city": "Toronto, Canada",
-      "state": "",
+      "city": "Toronto",
+      "state": "Canada",
       "location": "Toronto, Canada",
       "venue": "The Opera House",
+      "notes": "Schoeps MK41 · fares halteh",
       "version": "AUD",
-      "format": "SHN",
-      "notes": "Schoeps MK41 \u00b7 Fares Halteh"
+      "format": "SHN"
     },
     {
       "year": 2003,
@@ -691,9 +686,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Museum of Television and Radio",
+      "notes": "KRCW.com",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "Krcw.com"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -704,9 +699,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Emo's",
+      "notes": "DSM-6S · brian graves",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Dsm-6s \u00b7 Brian Graves"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -716,10 +711,10 @@ const ARTIST_DATA = {
       "city": "Bellingham",
       "state": "WA",
       "location": "Bellingham, WA",
-      "venue": "Viking Union Multi-purpose Room - Western WA University",
+      "venue": "Viking Union Multi-purpose Room",
+      "notes": "Western · Oktava MC012 · ryan olsen",
       "version": "AUD",
-      "format": "SHN",
-      "notes": "Oktava Mc012 \u00b7 Ryan Olsen"
+      "format": "SHN"
     },
     {
       "year": 2004,
@@ -730,9 +725,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "The Rave",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -743,9 +738,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
+      "notes": "CSSC · shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSSC \u00b7 Shane E. Calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -756,9 +751,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Odeon",
+      "notes": "Schoeps MK41 · brian skalinder",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK41 \u00b7 Brian Skalinder"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -769,9 +764,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Club Laga",
+      "notes": "Schoeps MK41 · brian skalinder",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK41 \u00b7 Brian Skalinder"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -782,9 +777,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Club Laga",
+      "notes": "AKG 391s · alex hard",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Akg 391s \u00b7 Alex Hard"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -795,9 +790,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Avalon",
+      "notes": "AT803bs · faye cohen",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT803bs \u00b7 Faye Cohen"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -808,9 +803,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's BBQ",
+      "notes": "DSM-6S · brian graves",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Dsm-6s \u00b7 Brian Graves"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -821,9 +816,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival",
+      "notes": "SP-CMC-8 · robin cunningham",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Robin Cunningham"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -834,9 +829,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Crystal Ballroom",
+      "notes": "Sharp MS722 · kris scheurich",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sharp Ms722 \u00b7 Kris Scheurich"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -847,9 +842,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Showbox",
+      "notes": "AT831 · jarod watson",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT831 \u00b7 jarod watson"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -860,9 +855,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Fleet Center",
+      "notes": "ATM41a · nate roth",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ATM41a \u00b7 nate roth"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -873,9 +868,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "Toldedo Sports Arena",
+      "notes": "DPA 4022 · george wang",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4022 \u00b7 George Wang"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -886,9 +881,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Fox Theatre",
+      "notes": "ATM41a · nate roth",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ATM41a \u00b7 nate roth"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -899,9 +894,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "Asheville Civic Center",
+      "notes": "DPA 4022 · george wang",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4022 \u00b7 George Wang"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -912,9 +907,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Pontiac, MI",
       "venue": "Clutch Cargo's",
+      "notes": "DAB · sullen",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DAB \u00b7 Sullen"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -925,9 +920,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Rockettown",
+      "notes": "unk",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -938,9 +933,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's BBQ",
+      "notes": "DSM-6S · brian graves",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Dsm-6s \u00b7 Brian Graves"
+      "format": "FLAC"
     },
     {
       "year": 2004,
@@ -951,9 +946,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Paramount Theater",
+      "notes": "Marshall MXL 1006BPs · jarod watson",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "jarod watson \u00b7 Marshall Mxl 1006bps"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -964,9 +959,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Grant Park",
+      "notes": "Lollapalooza · DAB · richard simms",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DAB \u00b7 Lollapalooza \u00b7 Richard Simms"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -976,10 +971,10 @@ const ARTIST_DATA = {
       "city": "San Diego",
       "state": "CA",
       "location": "San Diego, CA",
-      "venue": "Street Scene - Best Buy Stage",
+      "venue": "Street Scene",
+      "notes": "Best · AT831 · b.a. baracus",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT831 \u00b7 B.a. Baracus"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -990,9 +985,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Bend, OR",
       "venue": "Les Schwab Ampitheatre",
+      "notes": "Schoeps MK4s · robertd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4s \u00b7 Robertd"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -1003,9 +998,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "KEXP Studios",
+      "notes": "",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -1015,10 +1010,10 @@ const ARTIST_DATA = {
       "city": "Austin",
       "state": "TX",
       "location": "Austin, TX",
-      "venue": "Zilker Park - Cingular Stage",
+      "venue": "Zilker Park",
+      "notes": "Cingular · Neumann U89 · cqbert",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Neumann U89 \u00b7 Cqbert"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -1028,10 +1023,10 @@ const ARTIST_DATA = {
       "city": "Austin",
       "state": "TX",
       "location": "Austin, TX",
-      "venue": "Zilker Park - Cingular Stage - ACL Festival",
+      "venue": "Zilker Park",
+      "notes": "Cingular · DSM-6S · cliff robinson",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Dsm-6s \u00b7 Cliff Robinson"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -1042,9 +1037,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Crystal Ballroom",
+      "notes": "DPA 4061 · ryan olsen",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 Ryan Olsen"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -1055,61 +1050,61 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Crystal Ballroom",
+      "notes": "DPA 4061 · ryan olsen",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 Ryan Olsen"
+      "format": "FLAC"
     },
     {
       "year": 2006,
       "month": 2,
       "day": 4,
       "dateStr": "2-4-2006",
-      "city": "Malm, Sweden",
-      "state": "",
+      "city": "Malm",
+      "state": "Sweden",
       "location": "Malm, Sweden",
       "venue": "Kulturbolaget",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2006,
       "month": 2,
       "day": 12,
       "dateStr": "2-12-2006",
-      "city": "Bielefeld, Germany",
-      "state": "",
+      "city": "Bielefeld",
+      "state": "Germany",
       "location": "Bielefeld, Germany",
       "venue": "Kamp",
+      "notes": "MBHO · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "MBHO \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2006,
       "month": 2,
       "day": 15,
       "dateStr": "2-15-2006",
-      "city": "Heidelberg, Germany",
-      "state": "",
+      "city": "Heidelberg",
+      "state": "Germany",
       "location": "Heidelberg, Germany",
       "venue": "Karlstorbahnhof",
+      "notes": "MBHO · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "MBHO \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2006,
       "month": 3,
       "day": 18,
       "dateStr": "3-18-2006",
-      "city": "London, England",
-      "state": "",
+      "city": "London",
+      "state": "England",
       "location": "London, England",
-      "venue": "Maida Vale Studios - BBC Radio 2",
+      "venue": "Maida Vale Studios",
+      "notes": "BBC",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -1120,22 +1115,22 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
+      "notes": "CSSC · shane e. calhoon",
       "version": "AUD",
-      "format": "SHN",
-      "notes": "CSSC \u00b7 Shane E. Calhoon"
+      "format": "SHN"
     },
     {
       "year": 2006,
       "month": 4,
       "day": 17,
       "dateStr": "4-17-2006",
-      "city": "Toronto, Ontario",
-      "state": "",
+      "city": "Toronto",
+      "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Ricoh Coliseum",
+      "notes": "SP-CMC-8 · dave caley",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Dave Caley"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -1146,35 +1141,35 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Manchester, TN",
       "venue": "Which Stage, Bonnaroo Music Festival",
+      "notes": "Earthworks SR-77 · scuba jeremy",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Earthworks Sr-77 \u00b7 Scuba Jeremy"
+      "format": "FLAC"
     },
     {
       "year": 2006,
       "month": 6,
       "day": 25,
       "dateStr": "6-25-2006",
-      "city": "Amsterdam, Holland",
-      "state": "",
+      "city": "Amsterdam",
+      "state": "Holland",
       "location": "Amsterdam, Holland",
       "venue": "Paradiso",
+      "notes": "CSC · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSC \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2006,
       "month": 7,
       "day": 3,
       "dateStr": "7-3-2006",
-      "city": "Malm, Sweden",
-      "state": "",
+      "city": "Malm",
+      "state": "Sweden",
       "location": "Malm, Sweden",
-      "venue": "Folkets Park - Main Stage",
+      "venue": "Folkets Park",
+      "notes": "Main · DPA 4061 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -1185,9 +1180,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Rochester Auditorium",
+      "notes": "Schoeps MK4 · daniel godwin",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Daniel Godwin"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -1198,9 +1193,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
+      "notes": "CSSC · shane e. calhoon",
       "version": "AUD",
-      "format": "SHN",
-      "notes": "CSSC \u00b7 Shane E. Calhoon"
+      "format": "SHN"
     },
     {
       "year": 2008,
@@ -1210,10 +1205,10 @@ const ARTIST_DATA = {
       "city": "Indio",
       "state": "CA",
       "location": "Indio, CA",
-      "venue": "Empire Polo Field - Coachella",
+      "venue": "Empire Polo Field",
+      "notes": "Coachella · DSM6 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DSM6 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -1224,9 +1219,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "McCarren Park Pool",
+      "notes": "DPA 4021 · nyctaper",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4021 \u00b7 Nyctaper"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -1237,9 +1232,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW Studios",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -1250,9 +1245,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sweden",
       "venue": "Arvikafestivalen",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -1263,9 +1258,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Pemberton, BC",
       "venue": "Pemberton Music Festival",
+      "notes": "CA ST-11 · seth",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ca St-11 \u00b7 Seth"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -1276,9 +1271,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Bumbershoot",
+      "notes": "KM140s · mike vernal",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Km140s \u00b7 Mike Vernal"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -1289,9 +1284,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
+      "notes": "Tascam DR-07 · shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Tascam Dr-07 \u00b7 Shane E. Calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -1302,9 +1297,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theatre",
+      "notes": "Fuse Webcast",
       "version": "WEB",
-      "format": "FLV",
-      "notes": "Fuse Webcast"
+      "format": "FLV"
     },
     {
       "year": 2012,
@@ -1314,10 +1309,10 @@ const ARTIST_DATA = {
       "city": "Des Moines",
       "state": "IA",
       "location": "Des Moines, IA",
-      "venue": "Wellmark Main Stage - 80/35 Festival",
+      "venue": "Wellmark Main Stage",
+      "notes": "80/35 · AT 853 · ralph bryant",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "AT 853 \u00b7 Ralph Bryant"
+      "format": "FLAC 24"
     },
     {
       "year": 2013,
@@ -1328,9 +1323,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Troutdale, OR",
       "venue": "McMenamins Historic Edgefield Manor",
+      "notes": "Edirol R-09HR · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R-09hr \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -1341,61 +1336,61 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
+      "notes": "Tascam DR-07 · shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Tascam Dr-07 \u00b7 Shane E. Calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2015,
       "month": 6,
       "day": 15,
       "dateStr": "6-15-2015",
-      "city": "Stockholm, Sweden",
-      "state": "",
+      "city": "Stockholm",
+      "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Munchenbryggeriet",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2015,
       "month": 6,
       "day": 25,
       "dateStr": "6-25-2015",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Le Bataclan",
+      "notes": "Edirol R-09HR · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R-09hr \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2015,
       "month": 6,
       "day": 28,
       "dateStr": "6-28-2015",
-      "city": "Pilton, England",
-      "state": "",
+      "city": "Pilton",
+      "state": "England",
       "location": "Pilton, England",
-      "venue": "Glastonbury Festival - John Peel Stage",
+      "venue": "Glastonbury Festival",
+      "notes": "John",
       "version": "Webcast",
-      "format": "MKV",
-      "notes": ""
+      "format": "MKV"
     },
     {
       "year": 2015,
       "month": 8,
       "day": 1,
       "dateStr": "8-1-2015",
-      "city": "Sydney, Australia",
-      "state": "",
+      "city": "Sydney",
+      "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Sydney Opera House",
+      "notes": "Tascam DR-07MKII · tonsco",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Tascam DR-07MKII \u00b7 Tonsco"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -1406,9 +1401,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
+      "notes": "Tascam DR-07 · shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Tascam Dr-07 \u00b7 Shane E. Calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -1418,10 +1413,10 @@ const ARTIST_DATA = {
       "city": "Las Vegas",
       "state": "NV",
       "location": "Las Vegas, NV",
-      "venue": "Life Is Beautiful Festival - Bacardi Stage",
+      "venue": "Life Is Beautiful Festival",
+      "notes": "Bacardi · YouTube Rip",
       "version": "SBD",
-      "format": "MP3",
-      "notes": "Youtube Rip"
+      "format": "MP3"
     },
     {
       "year": 2018,
@@ -1431,23 +1426,23 @@ const ARTIST_DATA = {
       "city": "Las Vegas",
       "state": "NV",
       "location": "Las Vegas, NV",
-      "venue": "Bacardi - Soundfrum Stage *Life Is Beautiful",
+      "venue": "Bacardi",
+      "notes": "Soundfrum",
       "version": "Webcast",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2018,
       "month": 11,
       "day": 10,
       "dateStr": "11-10-2018",
-      "city": "Santiago, Chile",
-      "state": "",
+      "city": "Santiago",
+      "state": "Chile",
       "location": "Santiago, Chile",
-      "venue": "Espacio Broadway - Primavera Fauna Festival",
+      "venue": "Espacio Broadway",
+      "notes": "Primavera · MM-MCSM-4 · rony kohn",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Mm-mcsm-4 \u00b7 Rony Kohn"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -1457,23 +1452,23 @@ const ARTIST_DATA = {
       "city": "Santa Monica",
       "state": "CA",
       "location": "Santa Monica, CA",
-      "venue": "Village Studios - KCRW Morning Becomes Eclectic",
+      "venue": "Village Studios",
+      "notes": "KCRW",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2019,
       "month": 2,
       "day": 2,
       "dateStr": "2-2-2019",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Le Trianon",
+      "notes": "Edirol R-09HR · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R-09hr \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -1484,9 +1479,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tucson, AZ",
       "venue": "Tucson Music Hall",
+      "notes": "MK4 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "MK4 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -1497,9 +1492,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Queens, NY",
       "venue": "Forest Hills Stadium",
+      "notes": "CA-14 · larryrulz",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ca-14 \u00b7 Larryrulz"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -1510,9 +1505,9 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
+      "notes": "Nokia Lumia Icon · shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Nokia Lumia Icon \u00b7 Shane E. Calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -1522,23 +1517,23 @@ const ARTIST_DATA = {
       "city": "Mankato",
       "state": "MN",
       "location": "Mankato, MN",
-      "venue": "Verizon Center - Grand Hall",
+      "venue": "Verizon Center",
+      "notes": "Grand · Countryman B3 · dpk/o-canis",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Countryman B3 \u00b7 Dpk/o-canis"
+      "format": "FLAC"
     },
     {
       "year": 2019,
       "month": 7,
       "day": 14,
       "dateStr": "7-14-2019",
-      "city": "Calgary, Alberta",
-      "state": "",
+      "city": "Calgary",
+      "state": "Alberta",
       "location": "Calgary, Alberta",
       "venue": "Calgary Stampede Coca-Cola Stage",
+      "notes": "CSSC · sharon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSSC \u00b7 Sharon"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -1549,9 +1544,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Uncasville, CT",
       "venue": "Mohegan Sun Arena",
+      "notes": "ECM719 · clark cain",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM719 \u00b7 Clark Cain"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -1562,35 +1557,35 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "House of Blues",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 Faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
       "month": 3,
       "day": 6,
       "dateStr": "3-6-2023",
-      "city": "Stockholm, SWE",
-      "state": "",
+      "city": "Stockholm",
+      "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Filadelfia",
+      "notes": "Instamic Pro Plus · qew",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Instamic Pro Plus \u00b7 Qew"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
       "month": 6,
       "day": 12,
       "dateStr": "6-12-2023",
-      "city": "Calgary, Alberta",
-      "state": "",
+      "city": "Calgary",
+      "state": "Alberta",
       "location": "Calgary, Alberta",
       "venue": "Grey Eagle Resort & Casino",
+      "notes": "CSSC · sharon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSSC \u00b7 Sharon"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -1601,9 +1596,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Anthem",
+      "notes": "CA-14 · majintrunkz",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ca-14 \u00b7 Majintrunkz"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -1614,9 +1609,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Westville Music Bowl",
+      "notes": "Slint Lavs · tapir jon",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Slint Lavs \u00b7 Tapir Jon"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -1626,10 +1621,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Douglass Park - Riot Fest",
+      "venue": "Douglass Park",
+      "notes": "Riot · Schoeps MK41s · tj",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK41s \u00b7 Tj"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -1640,9 +1635,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Rochester Hills, MI",
       "venue": "Meadow Brook Amphitheatre",
+      "notes": "Schoeps MK4s · ryanj",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4s \u00b7 Ryanj"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -1653,9 +1648,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Salt Shed",
+      "notes": "AT943 · englishskylarking",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT943 \u00b7 Englishskylarking"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -1666,9 +1661,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Grand Prairie, TX",
       "venue": "Texas Trust CU Theater",
+      "notes": "Sony ECM-717 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -1679,9 +1674,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Coastal Credit Union Music Park",
+      "notes": "iPhone 13 · shynomi",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Iphone 13 \u00b7 Shynomi"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -1692,9 +1687,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "MVP Arena",
+      "notes": "Naiant XR · tapir jon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Naiant Xr \u00b7 Tapir Jon"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -1705,646 +1700,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Miller High Life Theatre",
+      "notes": "Zoom iQ7 · poul0004",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom Iq7 \u00b7 Poul0004"
-    },
-    {
-      "year": 2003,
-      "month": 4,
-      "day": 5,
-      "dateStr": "4-5-2003",
-      "city": "Tuscon",
-      "state": "AZ",
-      "location": "Tuscon, AZ",
-      "venue": "Solar Culture",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ss-dsm6p \u00b7 Arnold Leal"
-    },
-    {
-      "year": 2003,
-      "month": 4,
-      "day": 7,
-      "dateStr": "4-7-2003",
-      "city": "Austin",
-      "state": "TX",
-      "location": "Austin, TX",
-      "venue": "Mercury",
-      "version": "SBD",
-      "format": "FLAC",
-      "notes": "Andrew Fogelsong"
-    },
-    {
-      "year": 2003,
-      "month": 4,
-      "day": 22,
-      "dateStr": "4-22-2003",
-      "city": "Detroit",
-      "state": "MI",
-      "location": "Detroit, MI",
-      "venue": "The Magic Stick",
-      "version": "AUD",
-      "format": "SHN",
-      "notes": "Sony ECM-717 \u00b7 Quami"
-    },
-    {
-      "year": 2003,
-      "month": 4,
-      "day": 25,
-      "dateStr": "4-25-2003",
-      "city": "Minneapolis",
-      "state": "MN",
-      "location": "Minneapolis, MN",
-      "venue": "7th Street Entry",
-      "version": "SBD",
-      "format": "SHN",
-      "notes": "Chris Gacek"
-    },
-    {
-      "year": 2003,
-      "month": 5,
-      "day": 6,
-      "dateStr": "5-6-2003",
-      "city": "Santa Monica",
-      "state": "CA",
-      "location": "Santa Monica, CA",
-      "venue": "Morning Becomes Eclectic - KCRW",
-      "version": "WEB",
-      "format": "SHN",
-      "notes": ""
-    },
-    {
-      "year": 2003,
-      "month": 6,
-      "day": 8,
-      "dateStr": "6-8-2003",
-      "city": "Santa Monica",
-      "state": "CA",
-      "location": "Santa Monica, CA",
-      "venue": "KCRW Rebroadcast of 5-6-2003",
-      "version": "WEB",
-      "format": "SHN",
-      "notes": "Real Audio 8"
-    },
-    {
-      "year": 2013,
-      "month": 6,
-      "day": 10,
-      "dateStr": "6-10-2013",
-      "city": "Detroit, MI, USA - The Fillmore",
-      "state": "",
-      "location": "Detroit, MI, USA - The Fillmore",
-      "venue": "DAT(M)",
-      "version": "IEM",
-      "format": "FLAC",
-      "notes": "Sennheiser G2 B \u00b7 Mitaper78"
-    },
-    {
-      "year": 2013,
-      "month": 6,
-      "day": 11,
-      "dateStr": "6-11-2013",
-      "city": "Detroit",
-      "state": "MI",
-      "location": "Detroit, MI",
-      "venue": "The Fillmore",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-717 \u00b7 Ryanj"
-    },
-    {
-      "year": 2023,
-      "month": 9,
-      "day": 6,
-      "dateStr": "9-6-2023",
-      "city": "Washington",
-      "state": "DC",
-      "location": "Washington, DC",
-      "venue": "The Anthem",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ca-14 \u00b7 Majintrunkz"
-    },
-    {
-      "year": 2023,
-      "month": 9,
-      "day": 10,
-      "dateStr": "9-10-2023",
-      "city": "New Haven",
-      "state": "CT",
-      "location": "New Haven, CT",
-      "venue": "Westville Music Bowl",
-      "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Slint Lavs \u00b7 Tapir Jon"
-    },
-    {
-      "year": 2023,
-      "month": 9,
-      "day": 16,
-      "dateStr": "9-16-2023",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Douglass Park - Riot Fest",
-      "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK41s \u00b7 Tj"
-    },
-    {
-      "year": 2023,
-      "month": 9,
-      "day": 23,
-      "dateStr": "9-23-2023",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Salt Shed",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT943 \u00b7 Englishskylarking"
-    },
-    {
-      "year": 2024,
-      "month": 4,
-      "day": 27,
-      "dateStr": "4-27-2024",
-      "city": "Raleigh",
-      "state": "NC",
-      "location": "Raleigh, NC",
-      "venue": "Coastal Credit Union Music Park",
-      "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Iphone 13 Pro \u00b7 Shynomi"
-    },
-    {
-      "year": 2024,
-      "month": 5,
-      "day": 3,
-      "dateStr": "5-3-2024",
-      "city": "Albany",
-      "state": "NY",
-      "location": "Albany, NY",
-      "venue": "MVP Arena",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Naiant Xr \u00b7 Tapir Jon"
-    },
-    {
-      "year": 2024,
-      "month": 5,
-      "day": 6,
-      "dateStr": "5-6-2024",
-      "city": "Milwaukee",
-      "state": "WI",
-      "location": "Milwaukee, WI",
-      "venue": "Miller High Life Theatre",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom Iq7 \u00b7 Poul0004"
-    },
-    {
-      "year": 2005,
-      "month": 1,
-      "day": 28,
-      "dateStr": "1-28-2005",
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Great American Music Hall - Tsunami Benefit",
-      "version": "AUD",
-      "format": "M4A",
-      "notes": "Dan.staff"
-    },
-    {
-      "year": 2007,
-      "month": 5,
-      "day": 8,
-      "dateStr": "5-8-2007",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Town Hall",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-717 \u00b7 Unknown"
-    },
-    {
-      "year": 2007,
-      "month": 5,
-      "day": 9,
-      "dateStr": "5-9-2007",
-      "city": "Philadelphia",
-      "state": "PA",
-      "location": "Philadelphia, PA",
-      "venue": "Theatre of the Living Arts",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT853 \u00b7 Deadhorse"
-    },
-    {
-      "year": 2007,
-      "month": 5,
-      "day": 13,
-      "dateStr": "5-13-2007",
-      "city": "Nashville",
-      "state": "TN",
-      "location": "Nashville, TN",
-      "venue": "City Hall",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-909 \u00b7 Unknown"
-    },
-    {
-      "year": 2007,
-      "month": 5,
-      "day": 20,
-      "dateStr": "5-20-2007",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "The Showbox at the Market",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 Basshead"
-    },
-    {
-      "year": 2007,
-      "month": 5,
-      "day": 21,
-      "dateStr": "5-21-2007",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "The Showbox at the Market",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sp-bmc-2 \u00b7 Unknown"
-    },
-    {
-      "year": 2009,
-      "month": 10,
-      "day": 3,
-      "dateStr": "10-3-2009",
-      "city": "Santa Monica",
-      "state": "CA",
-      "location": "Santa Monica, CA",
-      "venue": "Morning Becomes Eclectic - KCRW Radio",
-      "version": "FM",
-      "format": "FLAC",
-      "notes": "With Jay Farrar \u00b7 Nibbler"
-    },
-    {
-      "year": 2009,
-      "month": 11,
-      "day": 21,
-      "dateStr": "11-21-2009",
-      "city": "Culver City",
-      "state": "CA",
-      "location": "Culver City, CA",
-      "venue": "The Actor's Gang",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R09 \u00b7 Unknown"
-    },
-    {
-      "year": 2012,
-      "month": 10,
-      "day": 14,
-      "dateStr": "10-14-2012",
-      "city": "Toronto, Canada",
-      "state": "",
-      "location": "Toronto, Canada",
-      "venue": "Danforth Music Hall",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 Unknown"
-    },
-    {
-      "year": 2015,
-      "month": 3,
-      "day": 27,
-      "dateStr": "3-27-2015",
-      "city": "Northridge",
-      "state": "CA",
-      "location": "Northridge, CA",
-      "venue": "KCSN Studio",
-      "version": "FM",
-      "format": "FLAC",
-      "notes": ""
-    },
-    {
-      "year": 2017,
-      "month": 7,
-      "day": 26,
-      "dateStr": "7-26-2017",
-      "city": "Washington",
-      "state": "DC",
-      "location": "Washington, DC",
-      "venue": "Lincoln Theater",
-      "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Ca-14s \u00b7 Unknown"
-    },
-    {
-      "year": 2020,
-      "month": 3,
-      "day": 17,
-      "dateStr": "3-17-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 3,
-      "day": 18,
-      "dateStr": "3-18-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 3,
-      "day": 19,
-      "dateStr": "3-19-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 3,
-      "day": 20,
-      "dateStr": "3-20-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 3,
-      "day": 21,
-      "dateStr": "3-21-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 3,
-      "day": 22,
-      "dateStr": "3-22-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 3,
-      "day": 23,
-      "dateStr": "3-23-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 3,
-      "day": 24,
-      "dateStr": "3-24-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 3,
-      "day": 25,
-      "dateStr": "3-25-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 3,
-      "day": 26,
-      "dateStr": "3-26-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 3,
-      "day": 27,
-      "dateStr": "3-27-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 3,
-      "day": 28,
-      "dateStr": "3-28-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 3,
-      "day": 29,
-      "dateStr": "3-29-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 4,
-      "day": 2,
-      "dateStr": "4-2-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 4,
-      "day": 9,
-      "dateStr": "4-9-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 4,
-      "day": 16,
-      "dateStr": "4-16-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 4,
-      "day": 23,
-      "dateStr": "4-23-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 4,
-      "day": 30,
-      "dateStr": "4-30-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 5,
-      "day": 7,
-      "dateStr": "5-7-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 5,
-      "day": 14,
-      "dateStr": "5-14-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 5,
-      "day": 21,
-      "dateStr": "5-21-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2020,
-      "month": 5,
-      "day": 28,
-      "dateStr": "5-28-2020",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
-    },
-    {
-      "year": 2021,
-      "month": 3,
-      "day": 17,
-      "dateStr": "3-17-2021",
-      "city": "Seattle",
-      "state": "WA",
-      "location": "Seattle, WA",
-      "venue": "Living Room Show",
-      "version": "WEB",
-      "format": "FLAC",
-      "notes": "Fb Live Feed \u00b7 Shane E. Calhoon"
+      "format": "FLAC"
     }
   ],
   "misc": [
