@@ -2242,9 +2242,9 @@ const ARTISTS = [
   {
     "id": "puscifer",
     "name": "Puscifer",
-    "showCount": 12,
+    "showCount": 14,
     "firstYear": 2009,
-    "lastYear": 2023
+    "lastYear": 2026
   },
   {
     "id": "queens-of-the-stone-age",
@@ -2690,9 +2690,9 @@ const ARTISTS = [
   {
     "id": "staind",
     "name": "Staind",
-    "showCount": 14,
+    "showCount": 15,
     "firstYear": 1999,
-    "lastYear": 2024
+    "lastYear": 2026
   },
   {
     "id": "stan-getz",
