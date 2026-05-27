@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "miles-davis",
   "name": "Miles Davis",
   "drive": "B",
-  "showCount": 158,
+  "showCount": 193,
   "firstYear": 1946,
   "lastYear": 1991,
   "years": [
@@ -33,6 +33,7 @@ const ARTIST_DATA = {
     1974,
     1975,
     1981,
+    1982,
     1983,
     1984,
     1985,
@@ -50,10 +51,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "Streets of Paris - Unk Radio Broadcast",
+      "venue": "Streets of Paris",
+      "notes": "Unk",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1946,
@@ -63,10 +64,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "Streets of Paris - Unk Radio Broadcast",
+      "venue": "Streets of Paris",
+      "notes": "Unk",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1946,
@@ -76,10 +77,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "Streets of Paris - Unk Radio Broadcast",
+      "venue": "Streets of Paris",
+      "notes": "Unk",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1946,
@@ -89,10 +90,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "Streets of Paris - Unk Radio Broadcast",
+      "venue": "Streets of Paris",
+      "notes": "Unk",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1947,
@@ -103,9 +104,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Argyle Show Lounge",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1947,
@@ -116,9 +117,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Waukegan, IL",
       "venue": "Unknown Venue",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1947,
@@ -129,9 +130,22 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Waukegan, IL",
       "venue": "Unknown Venue",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1948,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1948",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Pershing Ballroom",
+      "notes": "",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1948,
@@ -142,9 +156,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "New Savoy Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1948,
@@ -155,9 +169,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "New Savoy Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1948,
@@ -167,10 +181,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Royal Roost - WMCA Radio Broadcast",
+      "venue": "Royal Roost",
+      "notes": "WMCA",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1948,
@@ -180,10 +194,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Royal Roost - WMCA Radio Broadcast",
+      "venue": "Royal Roost",
+      "notes": "WMCA",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1948,
@@ -193,10 +207,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Royal Roost - WMCA Radio Broadcast",
+      "venue": "Royal Roost",
+      "notes": "WMCA",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1948,
@@ -206,10 +220,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Royal Roost - WMCA Radio Broadcast",
+      "venue": "Royal Roost",
+      "notes": "WMCA",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1948,
@@ -219,10 +233,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Royal Roost - WMCA Radio Broadcast",
+      "venue": "Royal Roost",
+      "notes": "WMCA",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1949,
@@ -232,10 +246,23 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "WPIX Braodcast - All Star Jam Session",
+      "venue": "WPIX Braodcast",
+      "notes": "All",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1949,
+      "month": 1,
+      "day": 17,
+      "dateStr": "1-17-1949",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "WPIX Braodcast",
+      "notes": "All",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1949,
@@ -245,10 +272,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Royal Roost - WMCA Radio Broadcast",
+      "venue": "Royal Roost",
+      "notes": "WMCA",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1949,
@@ -258,10 +285,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Royal Roost - WMCA Radio Broadcast",
+      "venue": "Royal Roost",
+      "notes": "WMCA",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1949,
@@ -272,22 +299,22 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBS-TV Studios",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1949,
       "month": 5,
       "day": 15,
       "dateStr": "5-15-1949",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
-      "venue": "Salle Pleyel - ORTF Radio Broadcast",
+      "venue": "Salle Pleyel",
+      "notes": "ORTF",
       "version": "FM",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1949,
@@ -298,9 +325,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Carnegie Hall",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1950,
@@ -311,9 +338,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "WNYC Studio",
+      "notes": "",
       "version": "FM",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1950,
@@ -324,9 +351,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Birdland",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1951,
@@ -337,9 +364,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hotel Diplomat Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1952,
@@ -350,9 +377,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "1952-04-25",
       "venue": "",
+      "notes": "",
       "version": "FM",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1952,
@@ -363,9 +390,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Birdland",
+      "notes": "WJZ Radio",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Wjz Radio"
+      "format": "FLAC"
     },
     {
       "year": 1952,
@@ -376,9 +403,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Birdland",
+      "notes": "WJZ Radio",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Wjz Radio"
+      "format": "FLAC"
     },
     {
       "year": 1952,
@@ -389,9 +416,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Birdland",
+      "notes": "WJZ Radio",
       "version": "FM",
-      "format": "SHN",
-      "notes": "Wjz Radio"
+      "format": "SHN"
     },
     {
       "year": 1952,
@@ -402,9 +429,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Birdland",
+      "notes": "WJZ Radio",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Wjz Radio"
+      "format": "FLAC"
     },
     {
       "year": 1952,
@@ -415,9 +442,35 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Birdland",
+      "notes": "WJZ Radio",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Wjz Radio"
+      "format": "FLAC"
+    },
+    {
+      "year": 1952,
+      "month": 5,
+      "day": 3,
+      "dateStr": "5-3-1952",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Birdland",
+      "notes": "WJZ Radio",
+      "version": "",
+      "format": "FLAC"
+    },
+    {
+      "year": 1953,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1953",
+      "city": "St. Louis",
+      "state": "MO",
+      "location": "St. Louis, MO",
+      "venue": "Unknown Studio",
+      "notes": "",
+      "version": "FM",
+      "format": "FLAC"
     },
     {
       "year": 1953,
@@ -428,9 +481,22 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Birdland",
+      "notes": "WABC Radio",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Wabc Radio"
+      "format": "FLAC"
+    },
+    {
+      "year": 1953,
+      "month": 5,
+      "day": 16,
+      "dateStr": "5-16-1953",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Birdland",
+      "notes": "WABC Radio",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1953,
@@ -441,9 +507,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Birdland",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1955,
@@ -454,9 +520,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Hi-hat Club",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1955,
@@ -467,9 +533,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Hi-hat Club",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1955,
@@ -480,48 +546,48 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Festival Field",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1956,
       "month": 11,
       "day": 2,
       "dateStr": "11-2-1956",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Salle Pleyel",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1956,
       "month": 11,
       "day": 12,
       "dateStr": "11-12-1956",
-      "city": "Freiburg, Germany",
-      "state": "",
+      "city": "Freiburg",
+      "state": "Germany",
       "location": "Freiburg, Germany",
       "venue": "Stadhalle",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1956,
       "month": 11,
       "day": 19,
       "dateStr": "11-19-1956",
-      "city": "Zurich, Switzerland",
-      "state": "",
+      "city": "Zurich",
+      "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Kongresshaus",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1957,
@@ -532,9 +598,22 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Peacock Alley Lounge",
+      "notes": "KSTL-AM Radio",
       "version": "AM",
-      "format": "FLAC",
-      "notes": "Kstl-am Radio"
+      "format": "FLAC"
+    },
+    {
+      "year": 1957,
+      "month": 2,
+      "day": 16,
+      "dateStr": "2-16-1957",
+      "city": "St. Louis",
+      "state": "MO",
+      "location": "St. Louis, MO",
+      "venue": "Peacock Alley Lounge",
+      "notes": "KSTL-AM Radio",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1957,
@@ -545,9 +624,22 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Peacock Alley Lounge",
+      "notes": "KSTL-AM Radio",
       "version": "AM",
-      "format": "FLAC",
-      "notes": "Kstl-am Radio"
+      "format": "FLAC"
+    },
+    {
+      "year": 1957,
+      "month": 2,
+      "day": 23,
+      "dateStr": "2-23-1957",
+      "city": "St. Louis",
+      "state": "MO",
+      "location": "St. Louis, MO",
+      "venue": "Peacock Alley Lounge",
+      "notes": "KSTL-AM Radio",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1957,
@@ -558,9 +650,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Cafe Bohemia",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1957,
@@ -571,9 +663,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Cafe Bohemia",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1957,
@@ -584,9 +676,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Cafe Bohemia",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1957,
@@ -597,22 +689,35 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Birdland",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1957,
+      "month": 10,
+      "day": null,
+      "dateStr": "10-XX-1957",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Birdland",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1957,
       "month": 11,
       "day": 30,
       "dateStr": "11-30-1957",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Olympia Theatre",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1957,
@@ -623,35 +728,35 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Amsterdam",
       "venue": "Concertgebouw",
+      "notes": "VARA Radio Broadcast",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Vara Radio Broadcast"
+      "format": "FLAC"
     },
     {
       "year": 1957,
       "month": 12,
       "day": 18,
       "dateStr": "12-18-1957",
-      "city": "Stuttgart, Germany",
-      "state": "",
+      "city": "Stuttgart",
+      "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Beethovensaal",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1957,
       "month": 12,
       "day": null,
       "dateStr": "12-XX-1957",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "ORTF Studios",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1958,
@@ -662,9 +767,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Cafe Bohemia",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1958,
@@ -675,35 +780,35 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Newport Jazz Festival",
+      "notes": "",
       "version": "SBD",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1958,
       "month": 8,
       "day": 9,
       "dateStr": "8-9-1958",
-      "city": "Washington, D.C.",
-      "state": "",
+      "city": "Washington",
+      "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Spotlite Lounge",
+      "notes": "Bandstand USA",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Bandstand Usa"
+      "format": "FLAC"
     },
     {
       "year": 1958,
       "month": 11,
       "day": 1,
       "dateStr": "11-1-1958",
-      "city": "Washington, D.C.",
-      "state": "",
+      "city": "Washington",
+      "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Spotlite Lounge",
+      "notes": "Bandstand USA",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Bandstand Usa"
+      "format": "FLAC"
     },
     {
       "year": 1959,
@@ -714,9 +819,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Birdland",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1959,
@@ -727,9 +832,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Kind of Blue Sessions",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1959,
@@ -740,9 +845,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Stadium",
+      "notes": "AFRS Radio",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Afrs Radio"
+      "format": "FLAC"
     },
     {
       "year": 1959,
@@ -753,139 +858,152 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Birdland",
+      "notes": "AFRS Radio",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Afrs Radio"
+      "format": "FLAC"
+    },
+    {
+      "year": 1960,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1960",
+      "city": "Unknown City and Venue",
+      "state": "",
+      "location": "Unknown City and Venue",
+      "venue": "",
+      "notes": "",
+      "version": "FM",
+      "format": "SHN"
     },
     {
       "year": 1960,
       "month": 3,
       "day": 21,
       "dateStr": "3-21-1960",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "L'Olympia Theatre",
+      "notes": "",
       "version": "FM",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1960,
       "month": 3,
       "day": 22,
       "dateStr": "3-22-1960",
-      "city": "Stockholm, Sweden",
-      "state": "",
+      "city": "Stockholm",
+      "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Konserthuset",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1960,
       "month": 3,
       "day": 24,
       "dateStr": "3-24-1960",
-      "city": "Copenhagen, Denmark",
-      "state": "",
+      "city": "Copenhagen",
+      "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Tivoli Konsertsal",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1960,
       "month": 3,
       "day": 30,
       "dateStr": "3-30-1960",
-      "city": "Frankfurt Am Main, West Germany",
-      "state": "",
+      "city": "Frankfurt Am Main",
+      "state": "West Germany",
       "location": "Frankfurt Am Main, West Germany",
       "venue": "Kongresshalle",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1960,
       "month": 4,
       "day": 8,
       "dateStr": "4-8-1960",
-      "city": "Zurich, Switzerland",
-      "state": "",
+      "city": "Zurich",
+      "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Kongresshaus *Live in Zurich",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1960,
       "month": 4,
       "day": 8,
       "dateStr": "4-8-1960",
-      "city": "Zurich, Switzerland",
-      "state": "",
+      "city": "Zurich",
+      "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Kongresshaus *Live in Zurich",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1960,
       "month": 4,
       "day": 9,
       "dateStr": "4-9-1960",
-      "city": "Amsterdam, Holland",
-      "state": "",
+      "city": "Amsterdam",
+      "state": "Holland",
       "location": "Amsterdam, Holland",
       "venue": "Green Dophin Street",
+      "notes": "w/ John Coltrane",
       "version": "FM",
-      "format": "SHN",
-      "notes": "W/ John Coltrane"
+      "format": "SHN"
     },
     {
       "year": 1960,
       "month": 4,
       "day": 9,
       "dateStr": "4-9-1960",
-      "city": "Scheveningen, The Netherlands",
-      "state": "",
+      "city": "Scheveningen",
+      "state": "The Netherlands",
       "location": "Scheveningen, The Netherlands",
       "venue": "Kurhaus",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1960,
       "month": 4,
       "day": 9,
       "dateStr": "4-9-1960",
-      "city": "Scheveningen, The Netherlands",
-      "state": "",
+      "city": "Scheveningen",
+      "state": "The Netherlands",
       "location": "Scheveningen, The Netherlands",
       "venue": "Kurhaus",
+      "notes": "",
       "version": "FM",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1960,
       "month": 4,
       "day": 9,
       "dateStr": "4-9-1960",
-      "city": "Scheveningen, The Netherlands",
-      "state": "",
+      "city": "Scheveningen",
+      "state": "The Netherlands",
       "location": "Scheveningen, The Netherlands",
       "venue": "Kurhaus",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1960,
@@ -896,9 +1014,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Free Trade Hall *Manchester Concert",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1960,
@@ -909,9 +1027,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Free Trade Hall *Manchester Concert",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1960,
@@ -922,22 +1040,22 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Free Trade Hall *Manchester Concert",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1960,
       "month": 10,
       "day": 13,
       "dateStr": "10-13-1960",
-      "city": "Stockholm, Sweden",
-      "state": "",
+      "city": "Stockholm",
+      "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Concert Hall",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1963,
@@ -948,152 +1066,282 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Jazz Villa",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1963,
+      "month": 5,
+      "day": 6,
+      "dateStr": "5-6-1963",
+      "city": "St. Louis",
+      "state": "MO",
+      "location": "St. Louis, MO",
+      "venue": "Jazz Villa",
+      "notes": "",
+      "version": "",
+      "format": "SHN"
     },
     {
       "year": 1963,
       "month": 7,
       "day": 25,
       "dateStr": "7-25-1963",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Europe 1 Radio",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1963,
       "month": 7,
       "day": 26,
       "dateStr": "7-26-1963",
-      "city": "Antibes, Switzerland",
-      "state": "",
+      "city": "Antibes",
+      "state": "Switzerland",
       "location": "Antibes, Switzerland",
       "venue": "La Pinede",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1963,
+      "month": 7,
+      "day": 26,
+      "dateStr": "7-26-1963",
+      "city": "Antibes",
+      "state": "Switzerland",
+      "location": "Antibes, Switzerland",
+      "venue": "La Pinede",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
+    },
+    {
+      "year": 1963,
+      "month": 7,
+      "day": 26,
+      "dateStr": "7-26-1963",
+      "city": "Antibes",
+      "state": "Switzerland",
+      "location": "Antibes, Switzerland",
+      "venue": "La Pinede",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1963,
       "month": 7,
       "day": 28,
       "dateStr": "7-28-1963",
-      "city": "Juan-les-pins, France",
-      "state": "",
+      "city": "Juan-les-pins",
+      "state": "France",
       "location": "Juan-les-pins, France",
       "venue": "La Pinede",
+      "notes": "",
       "version": "FM",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1964,
       "month": 7,
       "day": 12,
       "dateStr": "7-12-1964",
-      "city": "Tokyo, Japan",
-      "state": "",
+      "city": "Tokyo",
+      "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Hibaya Tagai Ongaku-do Hall",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 7,
       "day": 15,
       "dateStr": "7-15-1964",
-      "city": "Kyoto, Japan",
-      "state": "",
+      "city": "Kyoto",
+      "state": "Japan",
       "location": "Kyoto, Japan",
       "venue": "Maruyama Ongaku-do Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1964,
+      "month": 7,
+      "day": 15,
+      "dateStr": "7-15-1964",
+      "city": "Kyoto",
+      "state": "Japan",
+      "location": "Kyoto, Japan",
+      "venue": "Maruyama Ongaku-do Hall",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
+    },
+    {
+      "year": 1964,
+      "month": 7,
+      "day": 15,
+      "dateStr": "7-15-1964",
+      "city": "Kyoto",
+      "state": "Japan",
+      "location": "Kyoto, Japan",
+      "venue": "Maruyama Ongaku-do Hall",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 10,
       "day": 1,
       "dateStr": "10-1-1964",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Salle Pleyel",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1964,
+      "month": 10,
+      "day": 1,
+      "dateStr": "10-1-1964",
+      "city": "Paris",
+      "state": "France",
+      "location": "Paris, France",
+      "venue": "Salle Pleyel",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 10,
       "day": 3,
       "dateStr": "10-3-1964",
-      "city": "Stockholm, Sweden",
-      "state": "",
+      "city": "Stockholm",
+      "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Johanneshovs Isstadion",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1964,
+      "month": 10,
+      "day": 3,
+      "dateStr": "10-3-1964",
+      "city": "Stockholm",
+      "state": "Sweden",
+      "location": "Stockholm, Sweden",
+      "venue": "Johanneshovs Isstadion",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
+    },
+    {
+      "year": 1964,
+      "month": 10,
+      "day": 3,
+      "dateStr": "10-3-1964",
+      "city": "Stockholm",
+      "state": "Sweden",
+      "location": "Stockholm, Sweden",
+      "venue": "Johanneshovs Isstadion",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 10,
       "day": 4,
       "dateStr": "10-4-1964",
-      "city": "Copenhagen, Denmark",
-      "state": "",
+      "city": "Copenhagen",
+      "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "KB Hallen",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 10,
       "day": 6,
       "dateStr": "10-6-1964",
-      "city": "Helsinki, Finland",
-      "state": "",
+      "city": "Helsinki",
+      "state": "Finland",
       "location": "Helsinki, Finland",
       "venue": "Messuhalli",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 10,
       "day": 8,
       "dateStr": "10-8-1964",
-      "city": "Sindelfingen, Germany",
-      "state": "",
+      "city": "Sindelfingen",
+      "state": "Germany",
       "location": "Sindelfingen, Germany",
       "venue": "Stadthalle",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1964,
+      "month": 10,
+      "day": 8,
+      "dateStr": "10-8-1964",
+      "city": "Sindelfingen",
+      "state": "Germany",
+      "location": "Sindelfingen, Germany",
+      "venue": "Stadthalle",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
+    },
+    {
+      "year": 1964,
+      "month": 10,
+      "day": 8,
+      "dateStr": "10-8-1964",
+      "city": "Sindelfingen",
+      "state": "Germany",
+      "location": "Sindelfingen, Germany",
+      "venue": "Stadthalle",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 10,
       "day": 11,
       "dateStr": "10-11-1964",
-      "city": "Milan, Italy",
-      "state": "",
+      "city": "Milan",
+      "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Teatro dell' Arte",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1966,
@@ -1104,9 +1352,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Oriental Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1966,
@@ -1117,9 +1365,22 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Oriental Theatre",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
+    },
+    {
+      "year": 1966,
+      "month": 5,
+      "day": 21,
+      "dateStr": "5-21-1966",
+      "city": "Portland",
+      "state": "OR",
+      "location": "Portland, OR",
+      "venue": "Oriental Theatre",
+      "notes": "Remaster",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Remaster"
+      "format": "FLAC"
     },
     {
       "year": 1966,
@@ -1129,10 +1390,23 @@ const ARTIST_DATA = {
       "city": "Newport",
       "state": "RI",
       "location": "Newport, RI",
-      "venue": "Festival Field - Voice of America Broadcast",
+      "venue": "Festival Field",
+      "notes": "Voice",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1966,
+      "month": 7,
+      "day": 4,
+      "dateStr": "7-4-1966",
+      "city": "Newport",
+      "state": "RI",
+      "location": "Newport, RI",
+      "venue": "Festival Field",
+      "notes": "Voice",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1967,
@@ -1142,10 +1416,23 @@ const ARTIST_DATA = {
       "city": "Berkeley",
       "state": "CA",
       "location": "Berkeley, CA",
-      "venue": "Harmon Gymnasium - University of CA / KALX Radio",
+      "venue": "Harmon Gymnasium",
+      "notes": "University",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1967,
+      "month": 4,
+      "day": 7,
+      "dateStr": "4-7-1967",
+      "city": "Berkeley",
+      "state": "CA",
+      "location": "Berkeley, CA",
+      "venue": "Harmon Gymnasium",
+      "notes": "University",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1967,
@@ -1156,139 +1443,165 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Festival Field",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1967,
+      "month": 7,
+      "day": 2,
+      "dateStr": "7-2-1967",
+      "city": "Newport",
+      "state": "RI",
+      "location": "Newport, RI",
+      "venue": "Festival Field",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1967,
       "month": 10,
       "day": 28,
       "dateStr": "10-28-1967",
-      "city": "Antwerp, Belgium",
-      "state": "",
+      "city": "Antwerp",
+      "state": "Belgium",
       "location": "Antwerp, Belgium",
       "venue": "Konigin Elisabethsaal",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1967,
       "month": 10,
       "day": 28,
       "dateStr": "10-28-1967",
-      "city": "Antwerp, Belgium",
-      "state": "",
+      "city": "Antwerp",
+      "state": "Belgium",
       "location": "Antwerp, Belgium",
       "venue": "Konigin Elisabethsaal",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1967,
       "month": 10,
       "day": 30,
       "dateStr": "10-30-1967",
-      "city": "Rotterdam, The Netherlands",
-      "state": "",
+      "city": "Rotterdam",
+      "state": "The Netherlands",
       "location": "Rotterdam, The Netherlands",
       "venue": "De Doelen",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1967,
       "month": 10,
       "day": 31,
       "dateStr": "10-31-1967",
-      "city": "Stockholm, Sweden",
-      "state": "",
+      "city": "Stockholm",
+      "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Konserthuset",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1967,
+      "month": 10,
+      "day": 31,
+      "dateStr": "10-31-1967",
+      "city": "Stockholm",
+      "state": "Sweden",
+      "location": "Stockholm, Sweden",
+      "venue": "Konserthuset",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 1967,
       "month": 11,
       "day": 1,
       "dateStr": "11-1-1967",
-      "city": "Helsinki, Finland",
-      "state": "",
+      "city": "Helsinki",
+      "state": "Finland",
       "location": "Helsinki, Finland",
       "venue": "Kulttuuritalo",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1967,
       "month": 11,
       "day": 2,
       "dateStr": "11-2-1967",
-      "city": "Copenhagen, Denmark",
-      "state": "",
+      "city": "Copenhagen",
+      "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Tivoli Konsertsal",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1967,
       "month": 11,
       "day": 4,
       "dateStr": "11-4-1967",
-      "city": "Berlin, Germany",
-      "state": "",
+      "city": "Berlin",
+      "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Philharmonie",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1967,
       "month": 11,
       "day": 6,
       "dateStr": "11-6-1967",
-      "city": "Salle Pleyel, Paris, ORTF Radio Broadcast",
-      "state": "",
+      "city": "Salle Pleyel",
+      "state": "Paris",
       "location": "Salle Pleyel, Paris, ORTF Radio Broadcast",
       "venue": "",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1967,
       "month": 11,
       "day": 7,
       "dateStr": "11-7-1967",
-      "city": "Karlsruhe, Germany",
-      "state": "",
+      "city": "Karlsruhe",
+      "state": "Germany",
       "location": "Karlsruhe, Germany",
       "venue": "Stadthalle",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1967,
       "month": 11,
       "day": 7,
       "dateStr": "11-7-1967",
-      "city": "Karlsruhe, Germany",
-      "state": "",
+      "city": "Karlsruhe",
+      "state": "Germany",
       "location": "Karlsruhe, Germany",
       "venue": "Stadthalle",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1968,
@@ -1299,9 +1612,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Shelly's Manne-Hole",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1969,
@@ -1312,9 +1625,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Village Gate Club",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1969,
@@ -1325,35 +1638,48 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Central Park",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1969,
+      "month": 7,
+      "day": 7,
+      "dateStr": "7-7-1969",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Central Park",
+      "notes": "",
+      "version": "",
+      "format": "APE"
     },
     {
       "year": 1969,
       "month": 7,
       "day": 25,
       "dateStr": "7-25-1969",
-      "city": "Antibes, France",
-      "state": "",
+      "city": "Antibes",
+      "state": "France",
       "location": "Antibes, France",
-      "venue": "La Pinede - Juan-les-Pins",
+      "venue": "La Pinede",
+      "notes": "Juan-les-Pins",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1969,
       "month": 7,
       "day": 26,
       "dateStr": "7-26-1969",
-      "city": "Juan-les-pins, France",
-      "state": "",
+      "city": "Juan-les-pins",
+      "state": "France",
       "location": "Juan-les-pins, France",
       "venue": "La Pinede",
+      "notes": "",
       "version": "preFM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1969,
@@ -1364,9 +1690,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "New Brunswick, NJ",
       "venue": "Rutgers University Stadium",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1969,
@@ -1377,9 +1703,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Miles Davis's House",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1969,
@@ -1390,165 +1716,282 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Columbia Studio B",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1969,
       "month": 10,
       "day": 26,
       "dateStr": "10-26-1969",
-      "city": "Milan, Italy",
-      "state": "",
+      "city": "Milan",
+      "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Teatro Lirico",
+      "notes": "Early + Late show",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Early + Late show"
+      "format": "FLAC"
     },
     {
       "year": 1969,
       "month": 10,
       "day": 27,
       "dateStr": "10-27-1969",
-      "city": "Rome, Italy",
-      "state": "",
+      "city": "Rome",
+      "state": "Italy",
       "location": "Rome, Italy",
       "venue": "Teatro Sistina",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1969,
       "month": 10,
       "day": 31,
       "dateStr": "10-31-1969",
-      "city": "Stadthalle, Vienna",
-      "state": "",
+      "city": "Stadthalle",
+      "state": "Vienna",
       "location": "Stadthalle, Vienna",
       "venue": "Unknown",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1969,
       "month": 11,
       "day": 1,
       "dateStr": "11-1-1969",
-      "city": "London, England",
-      "state": "",
+      "city": "London",
+      "state": "England",
       "location": "London, England",
       "venue": "Hammersmith Odeon",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1969,
       "month": 11,
       "day": 1,
       "dateStr": "11-1-1969",
-      "city": "London, England",
-      "state": "",
+      "city": "London",
+      "state": "England",
       "location": "London, England",
       "venue": "Hammersmith Odeon",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1969,
       "month": 11,
       "day": 2,
       "dateStr": "11-2-1969",
-      "city": "London, England",
-      "state": "",
+      "city": "London",
+      "state": "England",
       "location": "London, England",
       "venue": "Ronnie Scott's Club",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1969,
       "month": 11,
       "day": 3,
       "dateStr": "11-3-1969",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Salle Pleyel",
+      "notes": "Early + Late show",
       "version": "SBD",
-      "format": "SHN",
-      "notes": "Early + Late show"
+      "format": "SHN"
+    },
+    {
+      "year": 1969,
+      "month": 11,
+      "day": 3,
+      "dateStr": "11-3-1969",
+      "city": "Paris",
+      "state": "France",
+      "location": "Paris, France",
+      "venue": "Salle Pleyel",
+      "notes": "Early + Late show",
+      "version": "",
+      "format": "SHN"
+    },
+    {
+      "year": 1969,
+      "month": 11,
+      "day": 3,
+      "dateStr": "11-3-1969",
+      "city": "Paris",
+      "state": "France",
+      "location": "Paris, France",
+      "venue": "Salle Pleyel",
+      "notes": "Early + Late show",
+      "version": "",
+      "format": "SHN"
+    },
+    {
+      "year": 1969,
+      "month": 11,
+      "day": 3,
+      "dateStr": "11-3-1969",
+      "city": "Paris",
+      "state": "France",
+      "location": "Paris, France",
+      "venue": "Salle Pleyel",
+      "notes": "Early + Late show",
+      "version": "",
+      "format": "SHN"
     },
     {
       "year": 1969,
       "month": 11,
       "day": 4,
       "dateStr": "11-4-1969",
-      "city": "Copenhagen, Denmark",
-      "state": "",
+      "city": "Copenhagen",
+      "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Tivoli Konserthal",
+      "notes": "",
       "version": "AUD",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1969,
       "month": 11,
       "day": 4,
       "dateStr": "11-4-1969",
-      "city": "Copenhagen, Denmark",
-      "state": "",
+      "city": "Copenhagen",
+      "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Tivoli Konserthal",
+      "notes": "",
       "version": "FM",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1969,
       "month": 11,
       "day": 5,
       "dateStr": "11-5-1969",
-      "city": "Stockholm, Sweden",
-      "state": "",
+      "city": "Stockholm",
+      "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Folkets Hus",
+      "notes": "",
       "version": "FM",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
+    },
+    {
+      "year": 1969,
+      "month": 11,
+      "day": 5,
+      "dateStr": "11-5-1969",
+      "city": "Stockholm",
+      "state": "Sweden",
+      "location": "Stockholm, Sweden",
+      "venue": "Folkets Hus",
+      "notes": "",
+      "version": "",
+      "format": "SHN"
+    },
+    {
+      "year": 1969,
+      "month": 11,
+      "day": 5,
+      "dateStr": "11-5-1969",
+      "city": "Stockholm",
+      "state": "Sweden",
+      "location": "Stockholm, Sweden",
+      "venue": "Folkets Hus",
+      "notes": "",
+      "version": "",
+      "format": "SHN"
+    },
+    {
+      "year": 1969,
+      "month": 11,
+      "day": 5,
+      "dateStr": "11-5-1969",
+      "city": "Stockholm",
+      "state": "Sweden",
+      "location": "Stockholm, Sweden",
+      "venue": "Folkets Hus",
+      "notes": "",
+      "version": "",
+      "format": "SHN"
+    },
+    {
+      "year": 1969,
+      "month": 11,
+      "day": 5,
+      "dateStr": "11-5-1969",
+      "city": "Stockholm",
+      "state": "Sweden",
+      "location": "Stockholm, Sweden",
+      "venue": "Folkets Hus",
+      "notes": "",
+      "version": "",
+      "format": "SHN"
+    },
+    {
+      "year": 1969,
+      "month": 11,
+      "day": 5,
+      "dateStr": "11-5-1969",
+      "city": "Stockholm",
+      "state": "Sweden",
+      "location": "Stockholm, Sweden",
+      "venue": "Folkets Hus",
+      "notes": "",
+      "version": "",
+      "format": "SHN"
     },
     {
       "year": 1969,
       "month": 11,
       "day": 7,
       "dateStr": "11-7-1969",
-      "city": "Berlin, Germany",
-      "state": "",
+      "city": "Berlin",
+      "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Philharmonie",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1969,
       "month": 11,
       "day": 9,
       "dateStr": "11-9-1969",
-      "city": "Rotterdam, The Netherlands",
-      "state": "",
+      "city": "Rotterdam",
+      "state": "The Netherlands",
       "location": "Rotterdam, The Netherlands",
       "venue": "De Doelen",
+      "notes": "",
       "version": "FM",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
+    },
+    {
+      "year": 1970,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1970",
+      "city": "Petersburg",
+      "state": "NJ",
+      "location": "Petersburg, NJ",
+      "venue": "Unknown Venue",
+      "notes": "",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1970,
@@ -1559,9 +2002,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "University Of Michigan",
+      "notes": "M · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1970,
@@ -1572,9 +2015,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore West Auditorium",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1970,
@@ -1585,9 +2028,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore West Auditorium",
+      "notes": "",
       "version": "FM",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1970,
@@ -1598,9 +2041,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore West",
+      "notes": "",
       "version": "FM",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1970,
@@ -1611,9 +2054,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Fillmore East",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1970,
@@ -1623,10 +2066,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "Fillmore West Auditorium - KPFA Radio",
+      "venue": "Fillmore West Auditorium",
+      "notes": "KPFA",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1970,
@@ -1637,9 +2080,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore West",
+      "notes": "inc",
       "version": "SBD",
-      "format": "SHN",
-      "notes": "Inc"
+      "format": "SHN"
     },
     {
       "year": 1970,
@@ -1650,113 +2093,113 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore West",
+      "notes": "",
       "version": "SBD",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1970,
       "month": 12,
       "day": 16,
       "dateStr": "12-16-1970",
-      "city": "Washington, D.C.",
-      "state": "",
+      "city": "Washington",
+      "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Cellar Door Club",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1970,
       "month": 12,
       "day": 17,
       "dateStr": "12-17-1970",
-      "city": "Washington, D.C.",
-      "state": "",
+      "city": "Washington",
+      "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Cellar Door Club",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1970,
       "month": 12,
       "day": 18,
       "dateStr": "12-18-1970",
-      "city": "Washington, D.C.",
-      "state": "",
+      "city": "Washington",
+      "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Cellar Door Club",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1970,
       "month": 12,
       "day": 19,
       "dateStr": "12-19-1970",
-      "city": "Washington, D.C.",
-      "state": "",
+      "city": "Washington",
+      "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Cellar Door Club",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1971,
       "month": 10,
       "day": 23,
       "dateStr": "10-23-1971",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Theatre Nationale Polulaire",
+      "notes": "lmpp237",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Lmpp237"
+      "format": "FLAC"
     },
     {
       "year": 1971,
       "month": 11,
       "day": 3,
       "dateStr": "11-3-1971",
-      "city": "Belgrade, Yugoslavia",
-      "state": "",
+      "city": "Belgrade",
+      "state": "Yugoslavia",
       "location": "Belgrade, Yugoslavia",
       "venue": "",
+      "notes": "",
       "version": "FM",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1971,
       "month": 11,
       "day": 5,
       "dateStr": "11-5-1971",
-      "city": "Vienna, Austria",
-      "state": "",
+      "city": "Vienna",
+      "state": "Austria",
       "location": "Vienna, Austria",
       "venue": "Konzerthaus",
+      "notes": "",
       "version": "AUD",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1971,
       "month": 11,
       "day": 7,
       "dateStr": "11-7-1971",
-      "city": "Uppsala, SWE",
-      "state": "",
+      "city": "Uppsala",
+      "state": "SWE",
       "location": "Uppsala, SWE",
       "venue": "University Main Hall",
+      "notes": "M",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "M"
+      "format": "FLAC"
     },
     {
       "year": 1972,
@@ -1767,9 +2210,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paul's Mall",
+      "notes": "WBCN Radio Broadcast",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Wbcn Radio Broadcast"
+      "format": "FLAC"
     },
     {
       "year": 1972,
@@ -1780,9 +2223,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Philharmonic Hall",
+      "notes": "",
       "version": "SBD",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1973,
@@ -1793,9 +2236,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Greensboro, NC",
       "venue": "Aycock Auditorium",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1973,
@@ -1806,9 +2249,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Olympia 1973: En Concert avec Europe",
       "venue": "",
+      "notes": "",
       "version": "Silver CD",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1973,
@@ -1819,74 +2262,74 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Jazz Workshop WBCN Radio",
+      "notes": "",
       "version": "FM",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1973,
       "month": 11,
       "day": 1,
       "dateStr": "11-1-1973",
-      "city": "Berlin, Germany - Philharmonie",
-      "state": "",
+      "city": "Berlin",
+      "state": "Germany - Philharmonie",
       "location": "Berlin, Germany - Philharmonie",
       "venue": "",
+      "notes": "",
       "version": "PRO",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1973,
       "month": 11,
       "day": 15,
       "dateStr": "11-15-1973",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
-      "venue": "Palais des Sports - ORTF Radio Broadcast",
+      "venue": "Palais des Sports",
+      "notes": "ORTF",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1973,
       "month": 11,
       "day": 21,
       "dateStr": "11-21-1973",
-      "city": "Bordeaux, France",
-      "state": "",
+      "city": "Bordeaux",
+      "state": "France",
       "location": "Bordeaux, France",
       "venue": "Unknown Venue",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1973,
       "month": 11,
       "day": 21,
       "dateStr": "11-21-1973",
-      "city": "Bordeaux, France",
-      "state": "",
+      "city": "Bordeaux",
+      "state": "France",
       "location": "Bordeaux, France",
       "venue": "Unknown Venue",
+      "notes": "remaster",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Remaster"
+      "format": "FLAC"
     },
     {
       "year": 1974,
       "month": 6,
       "day": 2,
       "dateStr": "6-2-1974",
-      "city": "Sao Paulo, Brazil",
-      "state": "",
+      "city": "Sao Paulo",
+      "state": "Brazil",
       "location": "Sao Paulo, Brazil",
       "venue": "Teatro Municipal",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1975,
@@ -1897,9 +2340,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Shinjuku",
       "venue": "Kohseinenkin Hall",
+      "notes": "",
       "version": "SBD",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1975,
@@ -1910,9 +2353,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Avery Fisher Hall",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1981,
@@ -1923,100 +2366,113 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Kix Club",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1981,
       "month": 10,
       "day": 11,
       "dateStr": "10-11-1981",
-      "city": "Fukuoka, Japan",
-      "state": "",
+      "city": "Fukuoka",
+      "state": "Japan",
       "location": "Fukuoka, Japan",
       "venue": "Sun Palace",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1982,
+      "month": 7,
+      "day": 17,
+      "dateStr": "7-17-1982",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Pier 84",
+      "notes": "Dr. · flambay",
+      "version": "MTX",
+      "format": "FLAC"
     },
     {
       "year": 1983,
       "month": 5,
       "day": 24,
       "dateStr": "5-24-1983",
-      "city": "Nagoya, Japan",
-      "state": "",
+      "city": "Nagoya",
+      "state": "Japan",
       "location": "Nagoya, Japan",
-      "venue": "Nagoyashi Kokaido - AUD(M)",
+      "venue": "Nagoyashi Kokaido",
+      "notes": "AUD(M) · xfer2",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Xfer2"
+      "format": "FLAC"
     },
     {
       "year": 1984,
       "month": 6,
       "day": 16,
       "dateStr": "6-16-1984",
-      "city": "London, ENG",
-      "state": "",
+      "city": "London",
+      "state": "ENG",
       "location": "London, ENG",
       "venue": "Royal Festival Hall",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1984,
       "month": 7,
       "day": 6,
       "dateStr": "7-6-1984",
-      "city": "Terni, Italy",
-      "state": "",
+      "city": "Terni",
+      "state": "Italy",
       "location": "Terni, Italy",
-      "venue": "Piazza Europa - RAI-TV *Umbria Jazz '84",
+      "venue": "Piazza Europa",
+      "notes": "RAI-TV",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1984,
       "month": 7,
       "day": 27,
       "dateStr": "7-27-1984",
-      "city": "Molde, Norway",
-      "state": "",
+      "city": "Molde",
+      "state": "Norway",
       "location": "Molde, Norway",
       "venue": "Idrettens Hus",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1985,
       "month": 11,
       "day": 1,
       "dateStr": "11-1-1985",
-      "city": "West Berlin, Germany",
-      "state": "",
+      "city": "West Berlin",
+      "state": "Germany",
       "location": "West Berlin, Germany",
       "venue": "Philharmonie",
+      "notes": "Jazzfest Berlin '85",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1985,
       "month": 11,
       "day": 2,
       "dateStr": "11-2-1985",
-      "city": "Zurich, Switzerland",
-      "state": "",
+      "city": "Zurich",
+      "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1986,
@@ -2027,35 +2483,35 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Pier 6 Pavilion",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1986,
       "month": 11,
       "day": 6,
       "dateStr": "11-6-1986",
-      "city": "Asturias, Spain",
-      "state": "",
+      "city": "Asturias",
+      "state": "Spain",
       "location": "Asturias, Spain",
       "venue": "Tatro Campoamore de Oviedo",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1987,
       "month": 7,
       "day": 1,
       "dateStr": "7-1-1987",
-      "city": "Lugano, Switzerland",
-      "state": "",
+      "city": "Lugano",
+      "state": "Switzerland",
       "location": "Lugano, Switzerland",
       "venue": "Centro delle Esposizioni",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1987,
@@ -2066,35 +2522,35 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Long Island, NY",
       "venue": "Westbury Music Fair",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1989,
       "month": 11,
       "day": 4,
       "dateStr": "11-4-1989",
-      "city": "Milano, Italy",
-      "state": "",
+      "city": "Milano",
+      "state": "Italy",
       "location": "Milano, Italy",
       "venue": "Theatro Orfeo",
+      "notes": "",
       "version": "Silver CD",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1991,
       "month": 7,
       "day": 10,
       "dateStr": "7-10-1991",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "La Grande Halle de la Villette",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
   ],
   "misc": [
