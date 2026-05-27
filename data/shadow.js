@@ -19,9 +19,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox",
+      "notes": "Countryman Isomax II",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Countryman Isomax II"
+      "format": "FLAC"
     },
     {
       "year": 2013,
@@ -32,9 +32,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Easy Street Records",
+      "notes": "Zoom H2",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H2"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
