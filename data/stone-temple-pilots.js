@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "stone-temple-pilots",
   "name": "Stone Temple Pilots",
   "drive": "C",
-  "showCount": 94,
+  "showCount": 96,
   "firstYear": 1993,
   "lastYear": 2025,
   "years": [
@@ -22,6 +22,7 @@ const ARTIST_DATA = {
     2015,
     2018,
     2019,
+    2021,
     2022,
     2023,
     2024,
@@ -37,9 +38,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Allentown, PA",
       "venue": "Ag Hall",
+      "notes": "ANA(M) · Sony WM-D3 · koondog · inc",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony WM-D3 · Koondog · Inc"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -50,48 +51,48 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "American Theater",
+      "notes": "VHS(M) · alvarojam remaster",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "Alvarojam Remaster"
+      "format": "DVD"
     },
     {
       "year": 1993,
       "month": 4,
       "day": 1,
       "dateStr": "4-1-1993",
-      "city": "Frankfurt, Germany",
-      "state": "",
+      "city": "Frankfurt",
+      "state": "Germany",
       "location": "Frankfurt, Germany",
       "venue": "Batschkapp",
+      "notes": "Hi8 Camera · bobfather",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "bobfather · Hi8 Camera"
+      "format": "DVD"
     },
     {
       "year": 1993,
       "month": 4,
       "day": 4,
       "dateStr": "4-4-1993",
-      "city": "Groningen, The Netherlands",
-      "state": "",
+      "city": "Groningen",
+      "state": "The Netherlands",
       "location": "Groningen, The Netherlands",
       "venue": "The Vera *The Great Pretenders",
+      "notes": "Banzai BZCD041",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": "Banzai Bzcd041"
+      "format": "FLAC"
     },
     {
       "year": 1993,
       "month": 4,
       "day": 4,
       "dateStr": "4-4-1993",
-      "city": "Groningen, Netherlands",
-      "state": "",
+      "city": "Groningen",
+      "state": "Netherlands",
       "location": "Groningen, Netherlands",
       "venue": "Vera",
+      "notes": "ANA(1) · unk · r. huizinga · mats666 transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "mats666 transfer · Unknown · R. Huizinga"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -102,9 +103,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Castaic, CA",
       "venue": "Castaic Lake Natural Amphitheatre",
+      "notes": "D6 Master",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "D6 Master"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -115,35 +116,35 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Forest Lake, MN",
       "venue": "Trout Air *Temple of Darkness",
+      "notes": "Alley Cat AK002",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Alley Cat AK002"
+      "format": "FLAC"
     },
     {
       "year": 1993,
       "month": 8,
       "day": 29,
       "dateStr": "8-29-1993",
-      "city": "Dronten, Netherlands",
-      "state": "",
+      "city": "Dronten",
+      "state": "Netherlands",
       "location": "Dronten, Netherlands",
-      "venue": "Biddinghuizen - Lowlands Paradise Festival",
+      "venue": "Biddinghuizen",
+      "notes": "Lowlands · 1 · r. huizinga",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "R. Huizinga"
+      "format": "FLAC"
     },
     {
       "year": 1993,
       "month": 8,
       "day": 29,
       "dateStr": "8-29-1993",
-      "city": "Dronten, The Netherlands",
-      "state": "",
+      "city": "Dronten",
+      "state": "The Netherlands",
       "location": "Dronten, The Netherlands",
       "venue": "Lowlands Festival *Westwood One \"In Concert\"",
+      "notes": "",
       "version": "preFM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -154,9 +155,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
+      "notes": "Schoeps MK4 · nick c transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 · Nick C Transfer"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -167,9 +168,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Arizona State Fair",
+      "notes": "DAT(M) · david homes · krw&co transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "David Homes · Krw&co Transfer"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -180,9 +181,9 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Arizona State Fair, Phoenix",
+      "notes": "PC-62 · kingsrue transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Pc-62 · Kingsrue Transfer"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -193,9 +194,22 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Saturday Night Live",
+      "notes": "2021 rebroadcast",
       "version": "TV",
-      "format": "TS",
-      "notes": "2021 Rebroadcast"
+      "format": "TS"
+    },
+    {
+      "year": 1994,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1994",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Unknown Venue",
+      "notes": "",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -206,9 +220,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Aladdin Theater",
+      "notes": "Sony stereo mic · scott tillotson",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony stereo mic · Scott Tillotson"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -219,9 +233,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "UIC Pavilion",
+      "notes": "ANA(2) · unk · mats666 transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "mats666 transfer · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -231,10 +245,10 @@ const ARTIST_DATA = {
       "city": "Worcester",
       "state": "MA",
       "location": "Worcester, MA",
-      "venue": "The Centrum",
+      "venue": "The Centrum (WW1",
+      "notes": "97-23)",
       "version": "preFM",
-      "format": "FLAC",
-      "notes": "Ww1 - 97-23"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -245,22 +259,22 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "New Haven Veterans Memorial Coliseum",
+      "notes": "Aiwa M30A Mic · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Aiwa M30a Mic · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1994,
       "month": 11,
       "day": 1,
       "dateStr": "11-1-1994",
-      "city": "Amsterdam, Netherlands",
-      "state": "",
+      "city": "Amsterdam",
+      "state": "Netherlands",
       "location": "Amsterdam, Netherlands",
-      "venue": "ANA(1)",
+      "venue": "ANA",
+      "notes": "1 · unk · r. huizinga · mats666 transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "mats666 transfer · Unknown · R. Huizinga"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -271,9 +285,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "KROQ Acoustic X-mas",
+      "notes": "Sony D3",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Sony D3"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -284,9 +298,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheatre",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -296,10 +310,10 @@ const ARTIST_DATA = {
       "city": "Los Angeles",
       "state": "CA",
       "location": "Los Angeles, CA",
-      "venue": "Universal Amphitheater - KROQ's Almost Acoustic Christmas *Unplugged and More",
+      "venue": "Universal Amphitheater",
+      "notes": "KROQ's · CH004",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": "Ch004"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -310,9 +324,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheatre",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -323,9 +337,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "San Jose Arena",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -336,9 +350,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "HP Pavilion",
+      "notes": "Shark Tank · Sony ECM-727 · don",
       "version": "MTX",
-      "format": "FLAC",
-      "notes": "Sony ECM-727 · Shark Tank · Don"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -349,9 +363,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "West Palm Beach, FL",
       "venue": "Coral Sky Amphitheatre",
+      "notes": "DAT(M) · datfly",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "datfly"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -362,9 +376,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
+      "notes": "ANA(M) · Aiwa · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Aiwa · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -375,9 +389,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -388,9 +402,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Late Show with David Letterman",
+      "notes": "VHS(2)",
       "version": "TV",
-      "format": "MKV",
-      "notes": ""
+      "format": "MKV"
     },
     {
       "year": 1997,
@@ -401,9 +415,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Dane County Coliseum",
+      "notes": "DAT(M) · SM98 · ko",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SM98 · Ko"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -414,9 +428,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Binghamton, NY",
       "venue": "Broome County Veterans Memorial Arena",
+      "notes": "SS-DSM6 · dssman",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ss-dsm6 · Dssman"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -427,9 +441,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "House of Blues",
+      "notes": "WGIR Broadcast",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Wgir Broadcast"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -439,10 +453,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Metropolis Studios - VH1 Storytellers",
+      "venue": "Metropolis Studios",
+      "notes": "VH1",
       "version": "TV",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2000,
@@ -453,9 +467,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "House of Blues",
+      "notes": "WGIR Broadcast",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Wgir Broadcast"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -466,9 +480,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "99X Live",
+      "notes": "ben jenkins",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Ben Jenkins"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -479,9 +493,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Somerset, WI",
       "venue": "Float Rite Park",
+      "notes": "AT831 · jh",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT831 · Jh"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -492,9 +506,9 @@ const ARTIST_DATA = {
       "state": "AK",
       "location": "Anchorage, AK",
       "venue": "Sullivan Arena",
+      "notes": "SS-DSM-6P · steve hagar",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ss-dsm-6p · Steve Hagar"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -505,9 +519,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Polaris Amphitheater",
+      "notes": "CSB · charles dewey cole",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB · Charles Dewey Cole"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -518,9 +532,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Wantagh, NY",
       "venue": "Jones Beach Theater",
+      "notes": "ANA(M) · unk · ukj69",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown · Ukj69"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -531,9 +545,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Wantagh, NY",
       "venue": "Jones Beach Theater",
+      "notes": "ANA(M) · unk · ukj69",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown · Ukj69"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -544,9 +558,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Whiskey-A-Go-Go",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -557,22 +571,22 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "San Jose Events Center",
+      "notes": "DAT(M) · jeftak · krw_co transfer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Jeftak · Krw_co Transfer"
+      "format": "FLAC"
     },
     {
       "year": 2001,
       "month": 8,
       "day": 18,
       "dateStr": "8-18-2001",
-      "city": "Weeze, Germany",
-      "state": "",
+      "city": "Weeze",
+      "state": "Germany",
       "location": "Weeze, Germany",
       "venue": "Bizarre Festival",
+      "notes": "jahrastafari",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Jahrastafari"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -583,9 +597,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Brixton Academy",
+      "notes": "Sony ECM-717 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-717 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -596,9 +610,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "HSBC Arena",
+      "notes": "AT-853 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT-853 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -609,9 +623,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Gainesville, FL",
       "venue": "O'Connell Center",
+      "notes": "DAT(M) · Schoeps MK4s · jon d.",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4s · Jon D."
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -622,9 +636,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "WEND Cityfest Live",
+      "notes": "DPA 4022 · george wang",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4022 · George Wang"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -635,9 +649,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "WEND Cityfest Live",
+      "notes": "DPA 4022 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4022 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -648,9 +662,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theater",
+      "notes": "DAT(M) · Sony D8 · krw_co",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony D8 · Krw_co"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -661,9 +675,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Lummus Park",
+      "notes": "Panasonic WM-61A · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Panasonic Wm-61a · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -674,9 +688,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "USF SunDome Parking Lot",
+      "notes": "DAT(M) · Panasonic WM-61A · kris sproul",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Panasonic Wm-61a · Kris Sproul"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -687,9 +701,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "South Beach's Lummus Park",
+      "notes": "SS-DSM-6S + WM-61A · chris gratz + kris sproul",
       "version": "MIX",
-      "format": "FLAC",
-      "notes": "chris gratz + kris sproul · Ss-dsm-6s + Wm-61a"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -700,9 +714,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Columbus Crew Stadium",
+      "notes": "SP-CMC-4U · junkyardt",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U · Junkyardt"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -713,9 +727,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "State Theatre",
+      "notes": "SP-CMC-4U · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -726,9 +740,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Charter One Pavilion *Chilly Night In Chicago",
+      "notes": "DPA 4061s · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061s · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -739,22 +753,22 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Wallingford, CT",
       "venue": "Chevrolet Theatre",
+      "notes": "AT-853 · davepeck",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT-853 · Davepeck"
+      "format": "FLAC"
     },
     {
       "year": 2008,
       "month": 5,
       "day": 26,
       "dateStr": "5-26-2008",
-      "city": "Uncasville, CT - Mohegan Sun Arena (AT 853) (davepeck)",
-      "state": "",
+      "city": "Uncasville",
+      "state": "CT - Mohegan Sun Arena (AT 853) (davepeck)",
       "location": "Uncasville, CT - Mohegan Sun Arena (AT 853) (davepeck)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -765,9 +779,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Tweeter Center",
+      "notes": "CSB · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -778,9 +792,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Fillmore Detroit",
+      "notes": "Sony MZ-NH700-SPS1 · vh drummer",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony MZ-NH700-SPS1 · Vh Drummer"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -791,9 +805,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Fillmore Detroit",
+      "notes": "DPA 4060 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4060 · Live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -803,10 +817,10 @@ const ARTIST_DATA = {
       "city": "Las Vegas",
       "state": "NV",
       "location": "Las Vegas, NV",
-      "venue": "Pearl - WAV(M)",
+      "venue": "Pearl",
+      "notes": "WAV(M) · AKG CK91 · cps",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Akg Ck91 · Cps"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -817,9 +831,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Hollywood Bowl",
+      "notes": "Sonics · jb",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sonics · Jb"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -830,22 +844,22 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Canandaigua, NY",
       "venue": "Canandaigua Music & Arts Center",
+      "notes": "CSB · sanpablobay",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB · Sanpablobay"
+      "format": "FLAC"
     },
     {
       "year": 2008,
       "month": 10,
       "day": 21,
       "dateStr": "10-21-2008",
-      "city": "Monterrey, Mexico",
-      "state": "",
+      "city": "Monterrey",
+      "state": "Mexico",
       "location": "Monterrey, Mexico",
       "venue": "Arena Monterrey",
+      "notes": "SP-CMC-2 · migmanson",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-2 · Migmanson"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -855,10 +869,10 @@ const ARTIST_DATA = {
       "city": "Las Vegas",
       "state": "NV",
       "location": "Las Vegas, NV",
-      "venue": "Access Showroom - WAV(M)",
+      "venue": "Access Showroom (Scott Weiland Solo)",
+      "notes": "WAV(M) · AKG CK63 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Scott Weiland Solo · Akg Ck63 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -868,10 +882,10 @@ const ARTIST_DATA = {
       "city": "Las Vegas",
       "state": "NV",
       "location": "Las Vegas, NV",
-      "venue": "The Joint - WAV(M)",
+      "venue": "The Joint",
+      "notes": "WAV(M) · AKG CK63 · cps",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Akg Ck63 · Cps"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -882,9 +896,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Victoria, BC",
       "venue": "Save-On-Foods Memorial Centre",
+      "notes": "Zoom H2 · planman",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H2 · Planman"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -895,9 +909,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Kool Haus",
+      "notes": "CSB · burnboy",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CSB · Burnboy"
+      "format": "FLAC 24"
     },
     {
       "year": 2010,
@@ -908,9 +922,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Maida Vale Studios",
+      "notes": "Radio 1 FM · simon kilmore",
       "version": "SBD #1",
-      "format": "FLAC",
-      "notes": "Radio 1 Fm · Simon Kilmore"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -921,22 +935,22 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Sioux Falls, IA",
       "venue": "Tysons Event Center",
+      "notes": "CSB + Sennheiser Receiver IEM · alzeppelin",
       "version": "MIX",
-      "format": "FLAC",
-      "notes": "Csb + Sennheiser Receiver Iem · Alzeppelin"
+      "format": "FLAC"
     },
     {
       "year": 2010,
       "month": 7,
       "day": 30,
       "dateStr": "7-30-2010",
-      "city": "Naeba, Japan",
-      "state": "",
+      "city": "Naeba",
+      "state": "Japan",
       "location": "Naeba, Japan",
       "venue": "Fuji Rock Festival",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -947,9 +961,9 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Roy Wilkens Auditorium",
+      "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Nugs.net"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -960,9 +974,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Lifestyle Communities Pavilion",
+      "notes": "DPA 4060 · charles dewey cole",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4060 · Charles Dewey Cole"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -973,9 +987,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "St. Pete Times Forum",
+      "notes": "SP-BMC-2 · alex",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sp-bmc-2 · Alex"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -986,9 +1000,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "London, ON",
       "venue": "Harris Park",
+      "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Nugs.net"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -999,22 +1013,22 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Hampton Beach, NH",
       "venue": "Ballroom",
+      "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Nugs.net"
+      "format": "FLAC"
     },
     {
       "year": 2012,
       "month": 9,
       "day": 9,
       "dateStr": "9-9-2012",
-      "city": "Winnipeg , Manitoba",
-      "state": "",
+      "city": "Winnipeg",
+      "state": "Manitoba",
       "location": "Winnipeg , Manitoba",
       "venue": "Burton Cummings Theatre",
+      "notes": "CA-14 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ca-14 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -1025,9 +1039,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues",
+      "notes": "with Chester Bennington · Sony PCM M-10 · auger3d",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sony PCM M-10 · With Chester Bennington · Auger3d"
+      "format": "FLAC 24"
     },
     {
       "year": 2018,
@@ -1038,9 +1052,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Ace Of Spades",
+      "notes": "iPhone 5s · thejackal",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Iphone 5s · Thejackal"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -1051,9 +1065,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "The Mill & Wine",
+      "notes": "DSM-6P · steve hagar",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Dsm-6p · Steve Hagar"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -1064,9 +1078,9 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Boulder Theater",
+      "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Nugs.net"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -1077,9 +1091,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Blue Hills Bank Pavilion",
+      "notes": "SP-CMC-8c · farve4",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8c · Farve4"
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -1090,22 +1104,22 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Norwood, MA",
       "venue": "Norwood Space Center",
+      "notes": "SP-CMC-8c · farve4",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8c · Farve4"
+      "format": "FLAC"
     },
     {
       "year": 2019,
       "month": 6,
       "day": 12,
       "dateStr": "6-12-2019",
-      "city": "Glasgow, Scotland",
-      "state": "",
+      "city": "Glasgow",
+      "state": "Scotland",
       "location": "Glasgow, Scotland",
       "venue": "O2 Academy",
+      "notes": "Olympus WS832 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Olympus Ws832 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -1116,9 +1130,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "O2 Forum Kentish Town",
+      "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Nugs.net"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -1129,9 +1143,22 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "The Amphitheater at Coney Island Boardwalk",
+      "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Nugs.net"
+      "format": "FLAC"
+    },
+    {
+      "year": 2021,
+      "month": 11,
+      "day": 5,
+      "dateStr": "2021-11-05",
+      "city": "Worcester",
+      "state": "MA",
+      "location": "Worcester, MA",
+      "venue": "The Palladium",
+      "notes": "SP-CMC-2 · break the law master",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -1142,22 +1169,22 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Hampton Beach, NH",
       "venue": "Hampton Beach Casino Ballroom",
+      "notes": "OKMIIr · massu2",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Okmiir · Massu2"
+      "format": "FLAC"
     },
     {
       "year": 2023,
       "month": 4,
       "day": 25,
       "dateStr": "4-25-2023",
-      "city": "Santiago, Chile",
-      "state": "",
+      "city": "Santiago",
+      "state": "Chile",
       "location": "Santiago, Chile",
       "venue": "Teatro Caupolican",
+      "notes": "CA-14s · mk360",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "mk360 · Ca-14s"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -1168,9 +1195,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Hammond, IN",
       "venue": "Pavilion at Wolf Lake Memorial Park",
+      "notes": "Zoom iQ7 · josh lichtenfeld",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Zoom Iq7 · Josh Lichtenfeld"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -1181,9 +1208,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
+      "notes": "Schoeps MK4 · loughney",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 · Loughney"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -1194,9 +1221,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "FivePoint Amphitheater",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 · Faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -1207,9 +1234,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Celeste Center",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ca-14 · Live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -1220,9 +1247,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cuyahoga Falls, OH",
       "venue": "Blossom Music Center",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 · Live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -1233,9 +1260,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "ExploreAsheville.com Arena",
+      "notes": "Neumann KM184 A NX · bigt",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Neumann Km184 A Nx · Bigt"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -1246,9 +1273,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "ExploreAsheville.com Arena",
+      "notes": "Schoeps CCM4Vs · z-man",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CCM4Vs · Z-man"
+      "format": "FLAC"
     }
   ],
   "misc": [
