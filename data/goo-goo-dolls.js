@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "goo-goo-dolls",
   "name": "Goo Goo Dolls",
   "drive": "B",
-  "showCount": 31,
+  "showCount": 32,
   "firstYear": 1990,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1990,
     1993,
@@ -22,7 +22,8 @@ const ARTIST_DATA = {
     2019,
     2022,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -425,6 +426,19 @@ const ARTIST_DATA = {
       "location": "Toronto, ON",
       "venue": "Budweiser Stage",
       "notes": "M · Zoom H1n · bowlingron",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 4,
+      "day": 4,
+      "dateStr": "4-4-2026",
+      "city": "London",
+      "state": "ON",
+      "location": "London, ON",
+      "venue": "Canada Life Place",
+      "notes": "Zoom H1n · bowlingron",
       "version": "AUD",
       "format": "FLAC"
     }
