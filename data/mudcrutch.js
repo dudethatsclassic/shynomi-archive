@@ -21,9 +21,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Gainesville, FL",
       "venue": "University Auditorium",
+      "notes": "",
       "version": "SBD",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1973,
@@ -33,10 +33,10 @@ const ARTIST_DATA = {
       "city": "Gainesville",
       "state": "FL",
       "location": "Gainesville, FL",
-      "venue": "The Rat Club - ANA",
+      "venue": "The Rat Club",
+      "notes": "ANA(1)",
       "version": "AUD",
-      "format": "",
-      "notes": "1"
+      "format": ""
     },
     {
       "year": 2008,
@@ -46,10 +46,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "The Fillmore - DAT",
+      "venue": "The Fillmore",
+      "notes": "DAT(M) · Schoeps CCM4",
       "version": "AUD",
-      "format": "",
-      "notes": "M \u00b7 Schoeps CCM4"
+      "format": ""
     },
     {
       "year": 2016,
@@ -60,9 +60,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
+      "notes": "SP-CMC-8 · unk",
       "version": "AUD",
-      "format": "",
-      "notes": "SP-CMC-8 \u00b7 Unknown"
+      "format": ""
     }
-  ]
+  ],
+  "misc": []
 };
