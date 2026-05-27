@@ -19,9 +19,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Crocodile Cafe *Seasons of Myst",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -32,9 +32,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Crocodile Cafe",
+      "notes": "SS",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SS"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -45,9 +45,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seatlle, WA",
       "venue": "Crocodile Cafe",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -57,10 +57,10 @@ const ARTIST_DATA = {
       "city": "Seattle",
       "state": "WA",
       "location": "Seattle, WA",
-      "venue": "Crocodile Cafe - CASS",
+      "venue": "Crocodile Cafe",
+      "notes": "CASS(M) · Aiwa",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M · Aiwa"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -71,9 +71,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "RKCNDY",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -84,9 +84,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Crocodile Cafe",
+      "notes": "SS",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SS"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -97,9 +97,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theatre",
+      "notes": "darkgrin master",
       "version": "PRO",
-      "format": "DVD",
-      "notes": "darkgrin master"
+      "format": "DVD"
     }
   ],
   "misc": [
