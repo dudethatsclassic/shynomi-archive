@@ -1493,7 +1493,7 @@ const ARTISTS = [
   {
     "id": "linkin-park",
     "name": "Linkin Park",
-    "showCount": 170,
+    "showCount": 166,
     "firstYear": 2000,
     "lastYear": 2026
   },
