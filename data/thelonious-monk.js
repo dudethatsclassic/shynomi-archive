@@ -29,10 +29,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Tonight Starring Steve Allen - Hudson Theatre",
+      "venue": "Tonight Starring Steve Allen",
+      "notes": "Hudson",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1955,
@@ -43,9 +43,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "'Tonight Starring Steve Allen', WNBC",
+      "notes": "Goody Remaster",
       "version": "TV",
-      "format": "FLAC",
-      "notes": "Goody Remaster"
+      "format": "FLAC"
     },
     {
       "year": 1956,
@@ -56,61 +56,61 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Blue Note",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1961,
       "month": 4,
       "day": 15,
       "dateStr": "4-15-1961",
-      "city": "Amsterdam, The Netherlands",
-      "state": "",
+      "city": "Amsterdam",
+      "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Concertgebouw *The First European Concert '61",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1961,
       "month": 4,
       "day": 16,
       "dateStr": "4-16-1961",
-      "city": "Amsterdam, The Netherlands",
-      "state": "",
+      "city": "Amsterdam",
+      "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Concertgebouw",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1961,
       "month": 4,
       "day": 18,
       "dateStr": "4-18-1961",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "VanGelder Studios",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1961,
       "month": 4,
       "day": 18,
       "dateStr": "4-18-1961",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Olympia Theater *Thelonious Monk In Europe Vol. 3",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1961,
@@ -121,35 +121,35 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Unknown Venue",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1961,
       "month": 5,
       "day": 10,
       "dateStr": "5-10-1961",
-      "city": "Bern, Switzerland",
-      "state": "",
+      "city": "Bern",
+      "state": "Switzerland",
       "location": "Bern, Switzerland",
       "venue": "Casino",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1961,
       "month": 5,
       "day": 16,
       "dateStr": "5-16-1961",
-      "city": "Stockholm, Sweden",
-      "state": "",
+      "city": "Stockholm",
+      "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Konserthuset",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1962,
@@ -160,165 +160,165 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Village Gate",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1963,
       "month": 3,
       "day": 2,
       "dateStr": "3-2-1963",
-      "city": "Baden, Germany",
-      "state": "",
+      "city": "Baden",
+      "state": "Germany",
       "location": "Baden, Germany",
       "venue": "Baden",
+      "notes": "",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1963,
       "month": 3,
       "day": 5,
       "dateStr": "3-5-1963",
-      "city": "Stockholm, Sweden",
-      "state": "",
+      "city": "Stockholm",
+      "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Unknown Venue",
+      "notes": "",
       "version": "preFM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1963,
       "month": 3,
       "day": 9,
       "dateStr": "3-9-1963",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Olympia Theater",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1963,
       "month": 5,
       "day": 23,
       "dateStr": "5-23-1963",
-      "city": "Tokyo, Japan",
-      "state": "",
+      "city": "Tokyo",
+      "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "TBS-TV Studio G",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 2,
       "day": 21,
       "dateStr": "2-21-1964",
-      "city": "Copenhagen, Denmark",
-      "state": "",
+      "city": "Copenhagen",
+      "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Tivoli Konserthal",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 2,
       "day": 22,
       "dateStr": "2-22-1964",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Alhambra",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1964,
       "month": 2,
       "day": 23,
       "dateStr": "2-23-1964",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "*Live in Paris 1964",
+      "notes": "",
       "version": "Silver CD",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 1964,
       "month": 2,
       "day": 26,
       "dateStr": "2-26-1964",
-      "city": "Zurich, Switzerland",
-      "state": "",
+      "city": "Zurich",
+      "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Volkshaus",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1965,
       "month": 3,
       "day": 8,
       "dateStr": "3-8-1965",
-      "city": "Bremen, Germany",
-      "state": "",
+      "city": "Bremen",
+      "state": "Germany",
       "location": "Bremen, Germany",
       "venue": "Sendesaal Radio",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1965,
       "month": 8,
       "day": 21,
       "dateStr": "8-21-1965",
-      "city": "Montreal, Canada",
-      "state": "",
+      "city": "Montreal",
+      "state": "Canada",
       "location": "Montreal, Canada",
       "venue": "Palace des Arts",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1966,
       "month": 3,
       "day": 20,
       "dateStr": "3-20-1966",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
-      "venue": "Radio - Sound A",
+      "venue": "Radio",
+      "notes": "Sound",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1966,
       "month": 4,
       "day": 17,
       "dateStr": "4-17-1966",
-      "city": "Copenhagen, Denmark",
-      "state": "",
+      "city": "Copenhagen",
+      "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Tivolis Konserthal",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1966,
@@ -329,113 +329,113 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Newport Jazz Festival",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1967,
       "month": 11,
       "day": 5,
       "dateStr": "11-5-1967",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Salle Pleyel",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1967,
       "month": 11,
       "day": 8,
       "dateStr": "11-8-1967",
-      "city": "Mainz, Germany",
-      "state": "",
+      "city": "Mainz",
+      "state": "Germany",
       "location": "Mainz, Germany",
       "venue": "Liederhalle",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1967,
       "month": 11,
       "day": 28,
       "dateStr": "11-28-1967",
-      "city": "Rotterdam, Holland",
-      "state": "",
+      "city": "Rotterdam",
+      "state": "Holland",
       "location": "Rotterdam, Holland",
       "venue": "Unknown Venue",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1969,
       "month": 11,
       "day": 7,
       "dateStr": "11-7-1969",
-      "city": "Berlin, Germany",
-      "state": "",
+      "city": "Berlin",
+      "state": "Germany",
       "location": "Berlin, Germany",
-      "venue": "Philharmonie in Berlin - Jazztage",
+      "venue": "Philharmonie in Berlin",
+      "notes": "Jazztage",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1969,
       "month": 12,
       "day": 2,
       "dateStr": "12-2-1969",
-      "city": "Cologne, Germany",
-      "state": "",
+      "city": "Cologne",
+      "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Sartory",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1971,
       "month": 10,
       "day": 20,
       "dateStr": "10-20-1971",
-      "city": "Milano, Italy",
-      "state": "",
+      "city": "Milano",
+      "state": "Italy",
       "location": "Milano, Italy",
       "venue": "Giants of Jazz",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1971,
       "month": 11,
       "day": 7,
       "dateStr": "11-7-1971",
-      "city": "Boblingen, Germany",
-      "state": "",
+      "city": "Boblingen",
+      "state": "Germany",
       "location": "Boblingen, Germany",
       "venue": "Kongresshalle",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1972,
       "month": 10,
       "day": 27,
       "dateStr": "10-27-1972",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Unknown Venue",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1975,
@@ -446,9 +446,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Philharmonie Hall",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
   ],
   "misc": [
