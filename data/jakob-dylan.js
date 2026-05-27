@@ -18,9 +18,9 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Koenigsplatz",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2008,
@@ -31,9 +31,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits",
+      "notes": "WGBH Boston",
       "version": "TV",
-      "format": "FLAC",
-      "notes": "WGBH Boston"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
