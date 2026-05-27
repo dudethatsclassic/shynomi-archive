@@ -2368,7 +2368,7 @@ const ARTISTS = [
   {
     "id": "ryan-adams",
     "name": "Ryan Adams",
-    "showCount": 699,
+    "showCount": 686,
     "firstYear": 1994,
     "lastYear": 2025
   },
