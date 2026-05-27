@@ -1346,7 +1346,7 @@ const ARTISTS = [
   {
     "id": "jonsi",
     "name": "Jonsi",
-    "showCount": 18,
+    "showCount": 24,
     "firstYear": 2010,
     "lastYear": 2019
   },
@@ -2515,7 +2515,7 @@ const ARTISTS = [
   {
     "id": "sigur-ros",
     "name": "Sigur Ros",
-    "showCount": 322,
+    "showCount": 308,
     "firstYear": 1999,
     "lastYear": 2025
   },
