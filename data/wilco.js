@@ -14687,7 +14687,7 @@ const ARTIST_DATA = {
     },
     {
       "type": "label",
-      "label": "Wilco - Wilco Live (Yellow) (2026)"
+      "label": "Wilco - Live (Yellow) (2026)"
     },
     {
       "type": "label",
