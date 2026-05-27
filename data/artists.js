@@ -1925,9 +1925,16 @@ const ARTISTS = [
     "lastYear": 2024
   },
   {
+    "id": "noel-gallagher-s-high-flying-birds",
+    "name": "Noel Gallagher's High Flying Birds",
+    "showCount": 42,
+    "firstYear": 2011,
+    "lastYear": 2024
+  },
+  {
     "id": "oasis",
     "name": "Oasis",
-    "showCount": 786,
+    "showCount": 717,
     "firstYear": 1992,
     "lastYear": 2025
   },
