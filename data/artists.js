@@ -436,7 +436,7 @@ const ARTISTS = [
   {
     "id": "chris-cornell",
     "name": "Chris Cornell",
-    "showCount": 82,
+    "showCount": 83,
     "firstYear": 1999,
     "lastYear": 2019
   },
@@ -2648,8 +2648,8 @@ const ARTISTS = [
   {
     "id": "soundgarden",
     "name": "Soundgarden",
-    "showCount": 496,
-    "firstYear": 1988,
+    "showCount": 343,
+    "firstYear": 1985,
     "lastYear": 2022
   },
   {
