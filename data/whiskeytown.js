@@ -20,10 +20,10 @@ const ARTIST_DATA = {
       "city": "Chapel Hill",
       "state": "NC",
       "location": "Chapel Hill, NC",
-      "venue": "Local 506 - DAT(M)",
+      "venue": "Local 506",
+      "notes": "DAT(M) · CSB · mrpember",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 mrpember"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -33,10 +33,10 @@ const ARTIST_DATA = {
       "city": "Raleigh",
       "state": "NC",
       "location": "Raleigh, NC",
-      "venue": "WKNC - Smash Hits Opry",
+      "venue": "WKNC",
+      "notes": "Smash · ross",
       "version": "preFM",
-      "format": "FLAC",
-      "notes": "ross"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -47,9 +47,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -59,10 +59,10 @@ const ARTIST_DATA = {
       "city": "Carrboro",
       "state": "NC",
       "location": "Carrboro, NC",
-      "venue": "Cat's Cradle - DAT",
+      "venue": "Cat's Cradle",
+      "notes": "DAT(M) · mr pember",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "M \u00b7 mr pember"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -73,9 +73,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "The Brewery",
+      "notes": "Sennheiser 421 · jim w.",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sennheiser 421 \u00b7 jim w."
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -85,10 +85,10 @@ const ARTIST_DATA = {
       "city": "Raleigh",
       "state": "NC",
       "location": "Raleigh, NC",
-      "venue": "The Brewery - DAT(M)",
+      "venue": "The Brewery",
+      "notes": "DAT(M) · CSB · mr pember",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 mr pember"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -98,10 +98,10 @@ const ARTIST_DATA = {
       "city": "Raleigh",
       "state": "NC",
       "location": "Raleigh, NC",
-      "venue": "The Brewery / DAT(M)",
+      "venue": "The Brewery / DAT",
+      "notes": "M · CSB · mrpember",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 mrpember"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -112,9 +112,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "SXSW Showcase",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -125,9 +125,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -138,9 +138,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Electric Lounge",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -150,10 +150,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "Bottom of the Hill - ANA(M)",
+      "venue": "Bottom of the Hill",
+      "notes": "ANA(M) · ECM-909 · tjcruz",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-909 \u00b7 tjcruz"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -164,9 +164,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Berbati's Pan",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -177,9 +177,9 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "Gunnerz",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -190,9 +190,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin City Limits",
+      "notes": "",
       "version": "TV",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1998,
@@ -203,9 +203,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Eugene, OR",
       "venue": "Wild Duck Inn",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -216,9 +216,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Cabaret Metro",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -229,9 +229,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "The Bayou",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -242,9 +242,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Variety Playhouse",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -255,9 +255,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Whiskey-A-Go-Go",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -268,9 +268,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Whiskey-A-Go-Go",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     }
   ],
   "misc": [
