@@ -18,9 +18,9 @@ const ARTIST_DATA = {
       "state": "South Korea",
       "location": "Incheon, South Korea",
       "venue": "Pentaport Rock Festival",
+      "notes": "blueheaven_t",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "blueheaven_t"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -31,9 +31,9 @@ const ARTIST_DATA = {
       "state": "Russia",
       "location": "Moscow, Russia",
       "venue": "Adrenaline Stadium",
+      "notes": "lushka",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "lushka"
+      "format": "FLAC 24"
     },
     {
       "year": 2018,
@@ -44,9 +44,10 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Wien, Austria",
       "venue": "Arena Wien Open Air",
+      "notes": "lpmaskman",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "lpmaskman"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
