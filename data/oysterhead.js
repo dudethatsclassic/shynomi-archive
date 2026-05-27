@@ -21,9 +21,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Saenger Theater",
+      "notes": "",
       "version": "SBD",
-      "format": "SHN",
-      "notes": ""
+      "format": "SHN"
     },
     {
       "year": 2001,
@@ -34,9 +34,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
+      "notes": "Schoeps MK4 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -47,9 +47,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
+      "notes": "KM-140 · matt lazor",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "KM-140 \u00b7 matt lazor"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -59,10 +59,10 @@ const ARTIST_DATA = {
       "city": "West Lafayette",
       "state": "IN",
       "location": "West Lafayette, IN",
-      "venue": "Edward C. Elliot Hall of Music - DAT(M)",
+      "venue": "Edward C. Elliot Hall of Music",
+      "notes": "DAT(M) · Neumann KM140 · matt lazor",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Neumann KM140 \u00b7 matt lazor"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -73,9 +73,9 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Hill Auditorium",
+      "notes": "KM-140 · matt lazor",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "KM-140 \u00b7 matt lazor"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -86,9 +86,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Cleveland State Theatre",
+      "notes": "Schoeps MK4v",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4v"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -98,10 +98,10 @@ const ARTIST_DATA = {
       "city": "Toronto",
       "state": "Canada",
       "location": "Toronto, Canada",
-      "venue": "Massey Hall - DAT(M)",
+      "venue": "Massey Hall",
+      "notes": "DAT(M) · Schoeps CCM4s · duncan oldham",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CCM4s \u00b7 duncan oldham"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -111,10 +111,10 @@ const ARTIST_DATA = {
       "city": "Utica",
       "state": "NY",
       "location": "Utica, NY",
-      "venue": "Utica Memorial Auditoriium - DAT(M)",
+      "venue": "Utica Memorial Auditoriium",
+      "notes": "DAT(M) · Schoeps CCM4s · duncan oldham",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CCM4s \u00b7 duncan oldham"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -125,9 +125,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
+      "notes": "Schoeps MK4s",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4s"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -137,10 +137,10 @@ const ARTIST_DATA = {
       "city": "Asheville",
       "state": "NC",
       "location": "Asheville, NC",
-      "venue": "Asheville Civic Center - DAT(M)",
+      "venue": "Asheville Civic Center",
+      "notes": "DAT(M) · KM-140 · matt lazor",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "KM-140 \u00b7 matt lazor"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -151,9 +151,9 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "Civic Center",
+      "notes": "AKG483 · c. cage",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AKG483 \u00b7 c. cage"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -163,10 +163,10 @@ const ARTIST_DATA = {
       "city": "Manchester",
       "state": "TN",
       "location": "Manchester, TN",
-      "venue": "Bonnaroo Festival - What Stage",
+      "venue": "Bonnaroo Festival",
+      "notes": "What · DPA 4027 · scott schneider",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4027 \u00b7 scott schneider"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -176,10 +176,11 @@ const ARTIST_DATA = {
       "city": "Atlanta",
       "state": "GA",
       "location": "Atlanta, GA",
-      "venue": "Sweetwater 420 Festival - Sweetwater Stage",
+      "venue": "Sweetwater 420 Festival",
+      "notes": "Sweetwater · Schoeps CCM4vs · z-man",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CCM4vs \u00b7 z-man"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
