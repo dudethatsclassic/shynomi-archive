@@ -20,8 +20,12 @@
     <div class="home-intro">
       <div class="container">
         <p>A personal collection of live recordings</p>
-        <div style="margin-top: 20px;">
+        <div style="margin-top: 20px; display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; align-items: center;">
           <a href="search.html" class="home-btn-gold">Search all shows →</a>
+          <button class="home-btn-gold" id="artist-search-btn" onclick="toggleArtistSearch()">Search all artists →</button>
+        </div>
+        <div id="artist-search-wrap" style="display:none; margin-top: 16px;">
+          <input id="artist-search-input" type="text" placeholder="Type an artist name…" class="artist-search-input" oninput="filterArtists(this.value)" autofocus />
         </div>
       </div>
     </div>
@@ -128,6 +132,58 @@
       section.style.display = open ? 'block' : 'none';
       arrow.textContent     = open ? '↑' : '↓';
       if (open) section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    function toggleArtistSearch() {
+      const wrap  = document.getElementById('artist-search-wrap');
+      const input = document.getElementById('artist-search-input');
+      const open  = wrap.style.display === 'none';
+      wrap.style.display = open ? 'block' : 'none';
+      if (open) {
+        input.value = '';
+        filterArtists('');
+        input.focus();
+      } else {
+        filterArtists(''); // reset on close
+      }
+    }
+
+    // Search results container (injected once)
+    const searchResultsGrid = document.createElement('div');
+    searchResultsGrid.className = 'artist-grid';
+    searchResultsGrid.id = 'search-results-grid';
+    searchResultsGrid.style.marginTop = '0';
+
+    const searchSection = document.createElement('div');
+    searchSection.className = 'container';
+    searchSection.id = 'search-results-section';
+    searchSection.style.cssText = 'display:none; margin-top: 32px;';
+    searchSection.appendChild(searchResultsGrid);
+    document.querySelector('main').insertBefore(
+      searchSection,
+      document.querySelector('.container:nth-child(2)')
+    );
+
+    function filterArtists(query) {
+      const q = query.trim().toLowerCase();
+      const section = document.getElementById('search-results-section');
+      const grid    = document.getElementById('search-results-grid');
+
+      if (!q) {
+        section.style.display = 'none';
+        grid.innerHTML = '';
+        return;
+      }
+
+      const matches = ARTISTS.filter(a => a.name && a.name.toLowerCase().includes(q));
+      grid.innerHTML = '';
+      matches.forEach(a => grid.appendChild(makeCard(a)));
+      section.style.display = matches.length ? 'block' : 'none';
+
+      if (matches.length === 0) {
+        grid.innerHTML = '<p style="color:#888; padding: 12px 0;">No artists found.</p>';
+        section.style.display = 'block';
+      }
     }
   </script>
 
