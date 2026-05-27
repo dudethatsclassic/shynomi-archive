@@ -20,9 +20,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival",
+      "notes": "1080p",
       "version": "Webcast",
-      "format": "MKV",
-      "notes": "1080p"
+      "format": "MKV"
     },
     {
       "year": 2021,
@@ -32,10 +32,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Douglass Park - Riot Festival",
+      "venue": "Douglass Park",
+      "notes": "Riot · AT853s · tj",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT853s \u00b7 tj"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -45,10 +45,11 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "August Hall (Anthony Green) - DAT(M)",
+      "venue": "August Hall (Anthony Green)",
+      "notes": "DAT(M) · SP-CMC-4U · loughney",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 loughney"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
