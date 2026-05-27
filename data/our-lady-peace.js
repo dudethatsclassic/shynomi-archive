@@ -783,7 +783,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore Detroit",
       "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC 24"
     }
   ],
   "misc": [
