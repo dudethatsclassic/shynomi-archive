@@ -17,10 +17,10 @@ const ARTIST_DATA = {
       "city": "Detroit",
       "state": "MI",
       "location": "Detroit, MI",
-      "venue": "The Magic Stick (Ken Andrews)",
+      "venue": "The Magic Stick",
+      "notes": "Ken Andrews · CA STC-9000 · paramnesiac",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA STC-9000 \u00b7 paramnesiac"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -30,10 +30,11 @@ const ARTIST_DATA = {
       "city": "West Hollywood",
       "state": "CA",
       "location": "West Hollywood, CA",
-      "venue": "Troubadour (Ken Andrews)",
+      "venue": "Troubadour",
+      "notes": "Ken Andrews · Schoeps MK4 · jon koch",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 jon koch"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
