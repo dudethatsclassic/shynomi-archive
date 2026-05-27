@@ -1216,8 +1216,8 @@ const ARTIST_DATA = {
       "location": "Pontiac, MI",
       "venue": "Phoenix Plaza Amphitheatre",
       "notes": "ANA(1) · unk · nick serra transfer",
-      "version": "",
-      "format": ""
+      "version": "AUD #1",
+      "format": "FLAC"
     },
     {
       "year": 1995,
