@@ -1275,6 +1275,19 @@ const ARTIST_DATA = {
     {
       "year": 1995,
       "month": 7,
+      "day": 2,
+      "dateStr": "7-2-1995",
+      "city": "Portland",
+      "state": "OR",
+      "location": "Portland, OR",
+      "venue": "La Luna",
+      "notes": "ANA(M) · AT Lapel Mic · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1995,
+      "month": 7,
       "day": 3,
       "dateStr": "7-3-1995",
       "city": "Seattle",
@@ -1283,19 +1296,6 @@ const ARTIST_DATA = {
       "venue": "DV8",
       "notes": "ANA(1) · unk · nick serra transfer",
       "version": "AUD #1",
-      "format": "FLAC"
-    },
-    {
-      "year": 1995,
-      "month": 7,
-      "day": 3,
-      "dateStr": "7-3-1995",
-      "city": "Portland",
-      "state": "OR",
-      "location": "Portland, OR",
-      "venue": "La Luna",
-      "notes": "ANA(M) · AT Lapel Mic · unk",
-      "version": "AUD",
       "format": "FLAC"
     },
     {
