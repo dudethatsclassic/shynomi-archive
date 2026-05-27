@@ -954,8 +954,8 @@ const ARTISTS = [
   {
     "id": "gin-blossoms",
     "name": "Gin Blossoms",
-    "showCount": 64,
-    "firstYear": 1993,
+    "showCount": 66,
+    "firstYear": 1990,
     "lastYear": 2025
   },
   {
