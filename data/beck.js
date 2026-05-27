@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "beck",
   "name": "Beck",
   "drive": "B",
-  "showCount": 316,
+  "showCount": 317,
   "firstYear": 1986,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1986,
     1993,
@@ -35,7 +35,8 @@ const ARTIST_DATA = {
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -4145,6 +4146,19 @@ const ARTIST_DATA = {
       "notes": "Sutro · Twitch Stream",
       "version": "WEB",
       "format": "TS"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 12,
+      "dateStr": "5-12-2026",
+      "city": "Melbourne",
+      "state": "Australia",
+      "location": "Melbourne, Australia",
+      "venue": "Palais Theatre",
+      "notes": "Nokia Lumia 930 · eckythump",
+      "version": "AUD",
+      "format": ""
     }
   ],
   "misc": [
