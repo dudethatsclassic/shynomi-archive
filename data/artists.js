@@ -408,7 +408,7 @@ const ARTISTS = [
   {
     "id": "charles-mingus",
     "name": "Charles Mingus",
-    "showCount": 33,
+    "showCount": 35,
     "firstYear": 1964,
     "lastYear": 2003
   },
