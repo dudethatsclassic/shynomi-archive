@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "the-offspring",
   "name": "The Offspring",
   "drive": "C",
-  "showCount": 99,
+  "showCount": 100,
   "firstYear": 1991,
   "lastYear": 2025,
   "years": [
@@ -44,9 +44,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "924 Gilman Street *Out of Control",
+      "notes": "OSE 788",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": "Ose 788"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -57,48 +57,61 @@ const ARTIST_DATA = {
       "state": "SD",
       "location": "Rapid City, SD",
       "venue": "Romans Ron De Vu Days Inn",
+      "notes": "VHS(x) · unk",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "Unknown"
+      "format": "DVD"
+    },
+    {
+      "year": 1994,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1994",
+      "city": "Unknown Location *Live USA (LSD CD 152.269)",
+      "state": "",
+      "location": "Unknown Location *Live USA (LSD CD 152.269)",
+      "venue": "",
+      "notes": "",
+      "version": "Silver CD",
+      "format": "FLAC"
     },
     {
       "year": 1994,
       "month": 8,
       "day": 4,
       "dateStr": "8-4-1994",
-      "city": "Toronto, Ontario",
-      "state": "",
+      "city": "Toronto",
+      "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Opera House",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1994,
       "month": 8,
       "day": 29,
       "dateStr": "8-29-1994",
-      "city": "Helsinki, Finland",
-      "state": "",
+      "city": "Helsinki",
+      "state": "Finland",
       "location": "Helsinki, Finland",
       "venue": "Lepakko",
+      "notes": "VHS(1) · travisbickle1963 transfer",
       "version": "AUD",
-      "format": "MKV",
-      "notes": "Travisbickle1963 Transfer"
+      "format": "MKV"
     },
     {
       "year": 1994,
       "month": 9,
       "day": 1,
       "dateStr": "9-1-1994",
-      "city": "Copenhagen, Denmark",
-      "state": "",
+      "city": "Copenhagen",
+      "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Ungdom Huset",
+      "notes": "unk",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "Unknown"
+      "format": "DVD"
     },
     {
       "year": 1994,
@@ -109,9 +122,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Leicester, UK",
       "venue": "The Charlotte *The Year that Punk Broke",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -122,9 +135,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Jacksonville, FL",
       "venue": "The Edge *Rebelling Teens",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -135,48 +148,48 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Memphis, TN",
       "venue": "New Daisy Teatre *Nitro",
+      "notes": "MECD 1190",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": "Mecd 1190"
+      "format": "FLAC"
     },
     {
       "year": 1995,
       "month": 1,
       "day": 21,
       "dateStr": "1-21-1995",
-      "city": "VIC, Australia",
-      "state": "",
+      "city": "VIC",
+      "state": "Australia",
       "location": "VIC, Australia",
       "venue": "The Palace",
+      "notes": "Triple J Broadcast",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Triple J Broadcast"
+      "format": "FLAC"
     },
     {
       "year": 1995,
       "month": 1,
       "day": 26,
       "dateStr": "1-26-1995",
-      "city": "Sydney, Australia",
-      "state": "",
+      "city": "Sydney",
+      "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Big Day Out",
+      "notes": "unk",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "Unknown"
+      "format": "DVD"
     },
     {
       "year": 1995,
       "month": 4,
       "day": 25,
       "dateStr": "4-25-1995",
-      "city": "Nottingham, England",
-      "state": "",
+      "city": "Nottingham",
+      "state": "England",
       "location": "Nottingham, England",
       "venue": "Rock City",
+      "notes": "VHS(1) · travisbickle1963 transfer",
       "version": "AUD",
-      "format": "MKV",
-      "notes": "Travisbickle1963 Transfer"
+      "format": "MKV"
     },
     {
       "year": 1995,
@@ -187,74 +200,74 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Springfield, IL",
       "venue": "Fairgrounds Coliseum",
+      "notes": "unk",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "Unknown"
+      "format": "DVD"
     },
     {
       "year": 1995,
       "month": 6,
       "day": 17,
       "dateStr": "6-17-1995",
-      "city": "Pilton, England",
-      "state": "",
+      "city": "Pilton",
+      "state": "England",
       "location": "Pilton, England",
-      "venue": "Worthy Farm - Glastonbury Festival",
+      "venue": "Worthy Farm",
+      "notes": "Glastonbury",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
       "month": 6,
       "day": 23,
       "dateStr": "6-23-1995",
-      "city": "Pilton, England",
-      "state": "",
+      "city": "Pilton",
+      "state": "England",
       "location": "Pilton, England",
-      "venue": "Worthy Farm - Glastonbury Festival",
+      "venue": "Worthy Farm",
+      "notes": "Glastonbury",
       "version": "PRO",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1995,
       "month": 6,
       "day": 23,
       "dateStr": "6-23-1995",
-      "city": "Pilton, England",
-      "state": "",
+      "city": "Pilton",
+      "state": "England",
       "location": "Pilton, England",
-      "venue": "Glastonbury Festival - Worthy Farm",
+      "venue": "Glastonbury Festival",
+      "notes": "Worthy · 1 · travisbickle1963",
       "version": "AUD",
-      "format": "MKV",
-      "notes": "Travisbickle1963"
+      "format": "MKV"
     },
     {
       "year": 1997,
       "month": 3,
       "day": 30,
       "dateStr": "3-30-1997",
-      "city": "Dusseldorf, Germany",
-      "state": "",
+      "city": "Dusseldorf",
+      "state": "Germany",
       "location": "Dusseldorf, Germany",
       "venue": "Philipshalle",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 3,
       "day": 30,
       "dateStr": "3-30-1997",
-      "city": "Dusseldorf, Germany",
-      "state": "",
+      "city": "Dusseldorf",
+      "state": "Germany",
       "location": "Dusseldorf, Germany",
       "venue": "Philipshalle",
+      "notes": "",
       "version": "PRO",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1997,
@@ -265,9 +278,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -278,9 +291,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows",
+      "notes": "",
       "version": "PRO",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1997,
@@ -291,22 +304,22 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 7,
       "day": 20,
       "dateStr": "7-20-1997",
-      "city": "Montreal, Quebec",
-      "state": "",
+      "city": "Montreal",
+      "state": "Quebec",
       "location": "Montreal, Quebec",
-      "venue": "Montreal Hippodrom - Warped Tour",
+      "venue": "Montreal Hippodrom",
+      "notes": "Warped · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -316,10 +329,10 @@ const ARTIST_DATA = {
       "city": "Bremerton",
       "state": "WA",
       "location": "Bremerton, WA",
-      "venue": "Kitsap County Fairgrounds - Endfest",
+      "venue": "Kitsap County Fairgrounds",
+      "notes": "Endfest · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -330,22 +343,22 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Harro East Ballroom",
+      "notes": "CSB · mh",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB · Mh"
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 10,
       "day": 17,
       "dateStr": "10-17-1997",
-      "city": "Austin, TX - MTV Sports and Music Fest (unk)",
-      "state": "",
+      "city": "Austin",
+      "state": "TX - MTV Sports and Music Fest (unk)",
       "location": "Austin, TX - MTV Sports and Music Fest (unk)",
       "venue": "",
+      "notes": "",
       "version": "TV",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1998,
@@ -356,9 +369,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Great Woods P.A.C. *WBCN River Rave",
+      "notes": "Boston 104.1",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Boston 104.1"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -368,10 +381,10 @@ const ARTIST_DATA = {
       "city": "Mansfield",
       "state": "MA",
       "location": "Mansfield, MA",
-      "venue": "Great Woods - River Rave",
+      "venue": "Great Woods",
+      "notes": "River · 2021 transfer",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "2021 Transfer"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -382,22 +395,22 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Joint",
+      "notes": "DAT(M) · CSC · gc",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSC · Gc"
+      "format": "FLAC"
     },
     {
       "year": 1999,
       "month": 3,
       "day": 4,
       "dateStr": "3-4-1999",
-      "city": "Montreal, Quebec",
-      "state": "",
+      "city": "Montreal",
+      "state": "Quebec",
       "location": "Montreal, Quebec",
       "venue": "Molson Centre",
+      "notes": "VHS(x) · unk",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "Unknown"
+      "format": "DVD"
     },
     {
       "year": 1999,
@@ -408,9 +421,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Star Lake Amphitheater",
+      "notes": "DAT(M) · Schoeps CCM4 · mw",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps CCM4 · Mw"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -421,9 +434,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Atlanta Motor Speedway",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -433,36 +446,23 @@ const ARTIST_DATA = {
       "city": "Rome",
       "state": "NY",
       "location": "Rome, NY",
-      "venue": "Griffiss Air Force Base - Woodstock '99",
+      "venue": "Griffiss Air Force Base",
+      "notes": "Woodstock",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
       "month": 8,
       "day": 28,
       "dateStr": "8-28-1999",
-      "city": "Hasselt, Belgium",
-      "state": "",
+      "city": "Hasselt",
+      "state": "Belgium",
       "location": "Hasselt, Belgium",
       "venue": "Pukklepop",
+      "notes": "VHS(1) · rolling rock videos",
       "version": "AMT #1",
-      "format": "MKV",
-      "notes": "Rolling Rock Videos"
-    },
-    {
-      "year": 1999,
-      "month": 8,
-      "day": 29,
-      "dateStr": "8-29-1999",
-      "city": "Reading",
-      "state": "UK",
-      "location": "Reading, UK",
-      "venue": "Reading Festival - Main Stage - Reading Festival",
-      "version": "AUD #1",
-      "format": "FLAC",
-      "notes": "CSB · gary watson"
+      "format": "MKV"
     },
     {
       "year": 1999,
@@ -473,22 +473,35 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Reading, UK",
       "venue": "Reading Festival",
+      "notes": "Main · M · CSB · gary watson",
+      "version": "AUD #1",
+      "format": "FLAC"
+    },
+    {
+      "year": 1999,
+      "month": 8,
+      "day": 29,
+      "dateStr": "8-29-1999",
+      "city": "Reading",
+      "state": "UK",
+      "location": "Reading, UK",
+      "venue": "Reading Festival",
+      "notes": "",
       "version": "AUD",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1999,
       "month": 11,
       "day": 17,
       "dateStr": "11-17-1999",
-      "city": "Buenos Aires, Argentina",
-      "state": "",
+      "city": "Buenos Aires",
+      "state": "Argentina",
       "location": "Buenos Aires, Argentina",
       "venue": "Luna Park *Sudamericana",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -499,9 +512,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Intimate & Interactive",
+      "notes": "",
       "version": "PRO",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2000,
@@ -512,126 +525,126 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Mellon Arena",
+      "notes": "SS DSM · steve k.",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ss Dsm · Steve K."
+      "format": "FLAC"
     },
     {
       "year": 2001,
       "month": 1,
       "day": 20,
       "dateStr": "1-20-2001",
-      "city": "London, England",
-      "state": "",
+      "city": "London",
+      "state": "England",
       "location": "London, England",
       "venue": "Wembley Arena",
+      "notes": "VHS(M) · Much Much Music Broadcast · leifh",
       "version": "TV",
-      "format": "FLAC",
-      "notes": "Much Much Music Broadcast · Leifh"
+      "format": "FLAC"
     },
     {
       "year": 2001,
       "month": 2,
       "day": 8,
       "dateStr": "2-8-2001",
-      "city": "Bordeaux, France",
-      "state": "",
+      "city": "Bordeaux",
+      "state": "France",
       "location": "Bordeaux, France",
       "venue": "Patinoire De Meriadeck",
+      "notes": "MZ-NH700 · trekk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Mz-nh700 · Trekk"
+      "format": "FLAC"
     },
     {
       "year": 2001,
       "month": 6,
       "day": 7,
       "dateStr": "6-7-2001",
-      "city": "Leeds, England",
-      "state": "",
+      "city": "Leeds",
+      "state": "England",
       "location": "Leeds, England",
       "venue": "Leeds Cockpit",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2004,
       "month": 7,
       "day": 14,
       "dateStr": "7-14-2004",
-      "city": "Tokyo, Japan",
-      "state": "",
+      "city": "Tokyo",
+      "state": "Japan",
       "location": "Tokyo, Japan",
-      "venue": "Nihon Budokan - Take A Chance",
+      "venue": "Nihon Budokan",
+      "notes": "Take · Sylph Records SY-0622",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": "Sylph Records Sy-0622"
+      "format": "FLAC"
     },
     {
       "year": 2004,
       "month": 7,
       "day": 21,
       "dateStr": "7-21-2004",
-      "city": "Osaka, Japan",
-      "state": "",
+      "city": "Osaka",
+      "state": "Japan",
       "location": "Osaka, Japan",
-      "venue": "Osake Castle Hall - Hokking Up",
+      "venue": "Osake Castle Hall",
+      "notes": "Hokking · Sylph Records SY-0621",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": "Sylph Records Sy-0621"
+      "format": "FLAC"
     },
     {
       "year": 2005,
       "month": 10,
       "day": 10,
       "dateStr": "10-10-2005",
-      "city": "Osaka, Japan",
-      "state": "",
+      "city": "Osaka",
+      "state": "Japan",
       "location": "Osaka, Japan",
       "venue": "Zepp",
+      "notes": "SP-MIC · tom & mickey",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sp-mic · Tom & Mickey"
+      "format": "FLAC"
     },
     {
       "year": 2008,
       "month": 6,
       "day": 6,
       "dateStr": "6-6-2008",
-      "city": "Lisbon, Portugal",
-      "state": "",
+      "city": "Lisbon",
+      "state": "Portugal",
       "location": "Lisbon, Portugal",
       "venue": "Rock in Rio",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2008,
       "month": 7,
       "day": 6,
       "dateStr": "7-6-2008",
-      "city": "Belfort, France",
-      "state": "",
+      "city": "Belfort",
+      "state": "France",
       "location": "Belfort, France",
       "venue": "Lus Eurockeennes",
+      "notes": "Sony ECM-719( (matmat159",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-719( (matmat159"
+      "format": "FLAC"
     },
     {
       "year": 2008,
       "month": 12,
       "day": 3,
       "dateStr": "12-3-2008",
-      "city": "Moscow, Russia",
-      "state": "",
+      "city": "Moscow",
+      "state": "Russia",
       "location": "Moscow, Russia",
       "venue": "Olympiyskiy Sports Complex",
+      "notes": "AT943 · rocktrades",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT943 · Rocktrades"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -642,48 +655,48 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Uptown Amphitheatre NC Music Factory *Live from the VIP Box",
+      "notes": "DPA 4061 · univonc",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4061 · Univonc"
+      "format": "FLAC"
     },
     {
       "year": 2009,
       "month": 9,
       "day": 4,
       "dateStr": "9-4-2009",
-      "city": "Wiesen, Austria",
-      "state": "",
+      "city": "Wiesen",
+      "state": "Austria",
       "location": "Wiesen, Austria",
       "venue": "2 Days a Week Festival",
+      "notes": "SP-CMC-4U · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2011,
       "month": 8,
       "day": 23,
       "dateStr": "8-23-2011",
-      "city": "Nimes, France",
-      "state": "",
+      "city": "Nimes",
+      "state": "France",
       "location": "Nimes, France",
       "venue": "Arenes de Nimes",
+      "notes": "MS-TFB-2 · sp@ceh",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ms-tfb-2 · Sp@ceh"
+      "format": "FLAC"
     },
     {
       "year": 2012,
       "month": 6,
       "day": 2,
       "dateStr": "6-2-2012",
-      "city": "Nurnberg, Germany",
-      "state": "",
+      "city": "Nurnberg",
+      "state": "Germany",
       "location": "Nurnberg, Germany",
       "venue": "Zeppelinfeld",
+      "notes": "Zoom H2 · morle1909",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H2 · Morle1909"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -694,9 +707,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Hampton Beach, NH",
       "venue": "Casino Ballroom",
+      "notes": "Church Audio B-99A · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Church Audio B-99A · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -707,35 +720,35 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Congress Theater",
+      "notes": "CA-14 · discopij",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ca-14 · Discopij"
+      "format": "FLAC"
     },
     {
       "year": 2013,
       "month": 9,
       "day": 14,
       "dateStr": "9-14-2013",
-      "city": "Rio de Janeiro, Brazil",
-      "state": "",
+      "city": "Rio de Janeiro",
+      "state": "Brazil",
       "location": "Rio de Janeiro, Brazil",
-      "venue": "Ciudad do Rock - Rock in Rio",
+      "venue": "Ciudad do Rock",
+      "notes": "Rock",
       "version": "PRO",
-      "format": "TS",
-      "notes": ""
+      "format": "TS"
     },
     {
       "year": 2014,
       "month": 6,
       "day": 5,
       "dateStr": "6-5-2014",
-      "city": "Nurburgring, Germany",
-      "state": "",
+      "city": "Nurburgring",
+      "state": "Germany",
       "location": "Nurburgring, Germany",
       "venue": "Rock am Ring Festival",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2014,
@@ -745,10 +758,10 @@ const ARTIST_DATA = {
       "city": "Baltimore",
       "state": "MD",
       "location": "Baltimore, MD",
-      "venue": "Pier Six Concert Pavilion - Punk Rock Summer Nationals 2014 Tour",
+      "venue": "Pier Six Concert Pavilion",
+      "notes": "Punk · CA-14s · mistacabbage",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ca-14s · Mistacabbage"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -759,48 +772,48 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Amos Southend",
+      "notes": "IEM · univonc",
       "version": "MIX",
-      "format": "FLAC",
-      "notes": "IEM · Univonc"
+      "format": "FLAC"
     },
     {
       "year": 2015,
       "month": 8,
       "day": 10,
       "dateStr": "8-10-2015",
-      "city": "Stockholm, Sweden",
-      "state": "",
+      "city": "Stockholm",
+      "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Grona Lund Amusement Park",
+      "notes": "M · AT-943 · trekytt",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "M · AT-943 · Trekytt"
+      "format": "FLAC 24"
     },
     {
       "year": 2016,
       "month": 6,
       "day": 27,
       "dateStr": "6-27-2016",
-      "city": "Clisson, France",
-      "state": "",
+      "city": "Clisson",
+      "state": "France",
       "location": "Clisson, France",
       "venue": "Hellfest 2016 @ Main Stage 2",
+      "notes": "SP-SPSB-11 · barghest",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sp-spsb-11 · Barghest"
+      "format": "FLAC"
     },
     {
       "year": 2016,
       "month": 7,
       "day": 5,
       "dateStr": "7-5-2016",
-      "city": "Lyon, France",
-      "state": "",
+      "city": "Lyon",
+      "state": "France",
       "location": "Lyon, France",
       "venue": "Theatre de Fourviere",
+      "notes": "IEM 1-3 · j&a",
       "version": "MIX",
-      "format": "FLAC",
-      "notes": "Iem 1-3 · J&a"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -811,9 +824,9 @@ const ARTIST_DATA = {
       "state": "AK",
       "location": "Anchorage, AK",
       "venue": "Alaska Airlines Center",
+      "notes": "SS DSM-6P · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ss Dsm-6p · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -824,9 +837,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "MAPFRE Stadium",
+      "notes": "DPA 4060 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4060 · Live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -837,9 +850,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "MAPFRE Stadium *Rock On the Range",
+      "notes": "CA-14 · tripkore",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ca-14 · Tripkore"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -850,9 +863,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Abbotsford, BC",
       "venue": "Abbotsford Centre",
+      "notes": "CA-11 · leifh",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ca-11 · Leifh"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -863,22 +876,22 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "Hollywood Casino Amphitheater",
+      "notes": "CA-11 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ca-11 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2017,
       "month": 9,
       "day": 24,
       "dateStr": "9-24-2017",
-      "city": "Rio de Janeiro, Brazil",
-      "state": "",
+      "city": "Rio de Janeiro",
+      "state": "Brazil",
       "location": "Rio de Janeiro, Brazil",
-      "venue": "Parque Ol?mpico",
+      "venue": "Parque Olímpico",
+      "notes": "",
       "version": "PRO",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2017,
@@ -889,35 +902,35 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Ana, CA",
       "venue": "The Observatory",
+      "notes": "Panasonic Lumix DMC ZS50 · hellrazor",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "Panasonic Lumix Dmc Zs50 · Hellrazor"
+      "format": "DVD"
     },
     {
       "year": 2018,
       "month": 6,
       "day": 15,
       "dateStr": "6-15-2018",
-      "city": "Landgraaf, The Netherlands",
-      "state": "",
+      "city": "Landgraaf",
+      "state": "The Netherlands",
       "location": "Landgraaf, The Netherlands",
       "venue": "Pinkpop Festival",
+      "notes": "magnix",
       "version": "PRO",
-      "format": "TS",
-      "notes": "Magnix"
+      "format": "TS"
     },
     {
       "year": 2018,
       "month": 7,
       "day": 2,
       "dateStr": "7-2-2018",
-      "city": "Stockholm, Sweden",
-      "state": "",
+      "city": "Stockholm",
+      "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Grona Lund Amusement Park",
+      "notes": "CA-14 · losslessjoel",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ca-14 · Losslessjoel"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -928,9 +941,9 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Gilford, NH",
       "venue": "Bank of New Hampshire Pavilion",
+      "notes": "Edirol R-09 · ec666",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R-09 · Ec666"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -941,48 +954,48 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Ace of Spades",
+      "notes": "Acoustic · Tascam DR-05 · thejackal",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Acoustic · Tascam Dr-05 · Thejackal"
+      "format": "FLAC"
     },
     {
       "year": 2019,
       "month": 7,
       "day": 19,
       "dateStr": "7-19-2019",
-      "city": "Edmonton, Alberta",
-      "state": "",
+      "city": "Edmonton",
+      "state": "Alberta",
       "location": "Edmonton, Alberta",
       "venue": "Northlands Park Parking Lot",
+      "notes": "Zoom iQ5 · exvee",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom Iq5 · Exvee"
+      "format": "FLAC"
     },
     {
       "year": 2019,
       "month": 8,
       "day": 23,
       "dateStr": "8-23-2019",
-      "city": "Vilar de Mouros, Portugal",
-      "state": "",
+      "city": "Vilar de Mouros",
+      "state": "Portugal",
       "location": "Vilar de Mouros, Portugal",
       "venue": "Festival Vilar de Mouros",
+      "notes": "Roland R-05 · circle",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Roland R-05 · Circle"
+      "format": "FLAC"
     },
     {
       "year": 2019,
       "month": 11,
       "day": 15,
       "dateStr": "11-15-2019",
-      "city": "Toronto, Ontario",
-      "state": "",
+      "city": "Toronto",
+      "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Meridian Centre",
+      "notes": "CA-14s · binko",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ca-14s · Binko"
+      "format": "FLAC"
     },
     {
       "year": 2021,
@@ -992,10 +1005,10 @@ const ARTIST_DATA = {
       "city": "Sacramento",
       "state": "CA",
       "location": "Sacramento, CA",
-      "venue": "Discovery Park - Aftershock Festival",
+      "venue": "Discovery Park",
+      "notes": "Aftershock · AT853s · tj",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT853s · Tj"
+      "format": "FLAC"
     },
     {
       "year": 2021,
@@ -1006,48 +1019,48 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Daytona Beach, FL",
       "venue": "Welcome to Rockville Festival",
+      "notes": "SP-CMC-8 · porcelmc",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-8 · Porcelmc"
+      "format": "FLAC"
     },
     {
       "year": 2022,
       "month": 6,
       "day": 3,
       "dateStr": "6-3-2022",
-      "city": "Nu?rburg, Germany",
-      "state": "",
-      "location": "Nu?rburg, Germany",
-      "venue": "Nu?rburgring - Rock am Ring",
+      "city": "Nürburg",
+      "state": "Germany",
+      "location": "Nürburg, Germany",
+      "venue": "Nürburgring",
+      "notes": "Rock",
       "version": "Webcast",
-      "format": "MKV",
-      "notes": ""
+      "format": "MKV"
     },
     {
       "year": 2022,
       "month": 6,
       "day": 17,
       "dateStr": "6-17-2022",
-      "city": "Clisson, France",
-      "state": "",
+      "city": "Clisson",
+      "state": "France",
       "location": "Clisson, France",
       "venue": "Hellfest",
+      "notes": "sbr1z",
       "version": "Webcast",
-      "format": "MKV",
-      "notes": "Sbr1z"
+      "format": "MKV"
     },
     {
       "year": 2022,
       "month": 6,
       "day": 25,
       "dateStr": "6-25-2022",
-      "city": "Mu?nster, Germany",
-      "state": "",
-      "location": "Mu?nster, Germany",
+      "city": "Münster",
+      "state": "Germany",
+      "location": "Münster, Germany",
       "venue": "Vainstream Rockfest",
+      "notes": "sbr1z",
       "version": "Webcast",
-      "format": "MKV",
-      "notes": "Sbr1z"
+      "format": "MKV"
     },
     {
       "year": 2022,
@@ -1058,9 +1071,9 @@ const ARTIST_DATA = {
       "state": "AB",
       "location": "Calgary, AB",
       "venue": "Shaw Millennium Park",
+      "notes": "Core Sound Stealthy Cardioid · sharon",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Core Sound Stealthy Cardioid · Sharon"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -1071,9 +1084,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Wheatland, CA",
       "venue": "Hard Rock Live",
+      "notes": "Multiple IEMs · hoserama",
       "version": "MIX",
-      "format": "FLAC",
-      "notes": "Multiple Iems · Hoserama"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -1084,35 +1097,35 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "West Vancouver, BC",
       "venue": "Ambleside Park",
+      "notes": "IEM+CA-11 · leifh",
       "version": "MIX",
-      "format": "FLAC",
-      "notes": "Iem+ca-11 · Leifh"
+      "format": "FLAC"
     },
     {
       "year": 2022,
       "month": 9,
       "day": 8,
       "dateStr": "9-8-2022",
-      "city": "Rio De Janeiro, BRA",
-      "state": "",
+      "city": "Rio De Janeiro",
+      "state": "BRA",
       "location": "Rio De Janeiro, BRA",
       "venue": "Rock In Rio",
+      "notes": "",
       "version": "PRO",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 2023,
       "month": 5,
       "day": 13,
       "dateStr": "5-13-2023",
-      "city": "Wr. Neustadt, Austria",
-      "state": "",
+      "city": "Wr. Neustadt",
+      "state": "Austria",
       "location": "Wr. Neustadt, Austria",
       "venue": "Arena Nova",
+      "notes": "Edirol R-05 · papy52",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R-05 · Papy52"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -1123,9 +1136,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "FivePoint Amphitheatre",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 · Faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -1136,48 +1149,48 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Fremont Street Experience",
+      "notes": "AT853 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT853 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2024,
       "month": 3,
       "day": 16,
       "dateStr": "3-16-2024",
-      "city": "Santiago, Chile",
-      "state": "",
+      "city": "Santiago",
+      "state": "Chile",
       "location": "Santiago, Chile",
-      "venue": "Parque Bicentenario de Cerrillos - Lollapalooza",
+      "venue": "Parque Bicentenario de Cerrillos",
+      "notes": "Lollapalooza · Sansa Clip+ · zatanax",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "zatanax · Sansa Clip+"
+      "format": "FLAC"
     },
     {
       "year": 2024,
       "month": 3,
       "day": 16,
       "dateStr": "3-16-2024",
-      "city": "Santiago, Chile",
-      "state": "",
+      "city": "Santiago",
+      "state": "Chile",
       "location": "Santiago, Chile",
-      "venue": "Parque Bicentenario de Cerrillos - Lollapalooza",
+      "venue": "Parque Bicentenario de Cerrillos",
+      "notes": "Lollapalooza · fstambuk",
       "version": "Webcast",
-      "format": "MKV",
-      "notes": "Fstambuk"
+      "format": "MKV"
     },
     {
       "year": 2024,
       "month": 3,
       "day": 22,
       "dateStr": "3-22-2024",
-      "city": "Sao Paulo, Brazil",
-      "state": "",
+      "city": "Sao Paulo",
+      "state": "Brazil",
       "location": "Sao Paulo, Brazil",
       "venue": "Lollapalooza",
+      "notes": "TV Broadcast (1080",
       "version": "TV",
-      "format": "MP4",
-      "notes": "Tv Broadcast (1080"
+      "format": "MP4"
     },
     {
       "year": 2024,
@@ -1188,22 +1201,9 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "Avondale Brewing Company",
+      "notes": "Schoeps MK21 · jesse mc",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK21 · Jesse Mc"
-    },
-    {
-      "year": 2024,
-      "month": 5,
-      "day": 26,
-      "dateStr": "5-26-2024",
-      "city": "Napa Valley",
-      "state": "CA",
-      "location": "Napa Valley, CA",
-      "venue": "Napa Valley Expo - Bottlerock",
-      "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-8 · Fried_morals"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -1214,9 +1214,22 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Napa Valley, CA",
       "venue": "Napa Valley Expo",
+      "notes": "Bottlerock · SP-CMC-8 · fried_morals",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4s · Tj"
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2024,
+      "month": 5,
+      "day": 26,
+      "dateStr": "5-26-2024",
+      "city": "Napa Valley",
+      "state": "CA",
+      "location": "Napa Valley, CA",
+      "venue": "Napa Valley Expo",
+      "notes": "Schoeps MK4s · tj",
+      "version": "AUD",
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -1227,35 +1240,35 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 · Faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
       "month": 6,
       "day": 23,
       "dateStr": "6-23-2024",
-      "city": "Scheessel, Germany",
-      "state": "",
+      "city": "Scheessel",
+      "state": "Germany",
       "location": "Scheessel, Germany",
       "venue": "Hurricane Festival",
+      "notes": "",
       "version": "Webcast",
-      "format": "MKV",
-      "notes": ""
+      "format": "MKV"
     },
     {
       "year": 2024,
       "month": 6,
       "day": 30,
       "dateStr": "6-30-2024",
-      "city": "Clisson, France",
-      "state": "",
+      "city": "Clisson",
+      "state": "France",
       "location": "Clisson, France",
       "venue": "Hellfest",
+      "notes": "barboss",
       "version": "PRO",
-      "format": "DVD",
-      "notes": "Barboss"
+      "format": "DVD"
     },
     {
       "year": 2024,
@@ -1266,35 +1279,35 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Ottawa, ON",
       "venue": "Lebreton Flats",
+      "notes": "iPhone 11 · palm0014",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Iphone 11 · Palm0014"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
       "month": 8,
       "day": 18,
       "dateStr": "8-18-2024",
-      "city": "Hasselt, Belgium",
-      "state": "",
+      "city": "Hasselt",
+      "state": "Belgium",
       "location": "Hasselt, Belgium",
-      "venue": "Domein Kiewit - Pukkelpop",
+      "venue": "Domein Kiewit",
+      "notes": "Pukkelpop · 720p",
       "version": "Webcast",
-      "format": "TS",
-      "notes": "720p"
+      "format": "TS"
     },
     {
       "year": 2024,
       "month": 8,
       "day": 24,
       "dateStr": "8-24-2024",
-      "city": "Parc de Saint-Cloud, France",
-      "state": "",
+      "city": "Parc de Saint-Cloud",
+      "state": "France",
       "location": "Parc de Saint-Cloud, France",
       "venue": "Rock en Seine",
+      "notes": "CA-14 · crazytoaster",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Ca-14 · Crazytoaster"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -1305,9 +1318,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Hollywood Bowl",
+      "notes": "SP-CMC-4U · jwthstd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U · Jwthstd"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -1317,10 +1330,10 @@ const ARTIST_DATA = {
       "city": "Las Vegas",
       "state": "NV",
       "location": "Las Vegas, NV",
-      "venue": "T-Mobile Arena - iHeart Radio Festival",
+      "venue": "T-Mobile Arena",
+      "notes": "iHeart · HDTV",
       "version": "PRO",
-      "format": "DVD",
-      "notes": "HDTV"
+      "format": "DVD"
     }
   ],
   "misc": [
