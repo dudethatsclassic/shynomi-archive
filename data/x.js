@@ -17,10 +17,11 @@ const ARTIST_DATA = {
       "city": "Redmond",
       "state": "WA",
       "location": "Redmond, WA",
-      "venue": "Marymoor Park",
+      "venue": "Marymoor Park (X",
+      "notes": "Opening",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "X - Opening for Blondie"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
