@@ -18,9 +18,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "The Metropol",
+      "notes": "w/ Trent Reznor · unk",
       "version": "AUD",
-      "format": "MP3",
-      "notes": "w/ Trent Reznor \u00b7 Unknown"
+      "format": "MP3"
     },
     {
       "year": 1991,
@@ -31,9 +31,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "The Metropol",
+      "notes": "w/ Trent Reznor",
       "version": "AUD",
-      "format": "MP4",
-      "notes": "w/ Trent Reznor"
+      "format": "MP4"
     }
-  ]
+  ],
+  "misc": []
 };
