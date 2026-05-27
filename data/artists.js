@@ -1892,7 +1892,7 @@ const ARTISTS = [
   {
     "id": "nine-inch-nails",
     "name": "Nine Inch Nails",
-    "showCount": 1010,
+    "showCount": 989,
     "firstYear": 1988,
     "lastYear": 2990
   },
