@@ -25,10 +25,10 @@ const ARTIST_DATA = {
       "city": "Chicago",
       "state": "IL",
       "location": "Chicago, IL",
-      "venue": "Dreamerz - ANA",
+      "venue": "Dreamerz",
+      "notes": "ANA(M) · aadam jacobs",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "M \u00b7 aadam jacobs"
+      "format": "FLAC 24"
     },
     {
       "year": 1991,
@@ -39,9 +39,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Palace",
+      "notes": "Rock for Choiice Benefit",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": "Rock for Choiice Benefit"
+      "format": "FLAC"
     },
     {
       "year": 1991,
@@ -52,9 +52,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
+      "notes": "markp",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "markp"
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -64,10 +64,10 @@ const ARTIST_DATA = {
       "city": "Cambridge",
       "state": "MA",
       "location": "Cambridge, MA",
-      "venue": "TT The Bear's Place - ANA",
+      "venue": "TT The Bear's Place",
+      "notes": "ANA(x) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "x \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -78,9 +78,9 @@ const ARTIST_DATA = {
       "state": "Brazil",
       "location": "Rio de Janeiro, Brazil",
       "venue": "Hollywood Rock Festival",
+      "notes": "",
       "version": "SBD #1b",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -91,9 +91,9 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Huntridge Theater",
+      "notes": "Sony",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -103,10 +103,10 @@ const ARTIST_DATA = {
       "city": "L'Isle Jourdain",
       "state": "France",
       "location": "L'Isle Jourdain, France",
-      "venue": "Me?gafolies Festival - MD(M)",
+      "venue": "Mégafolies Festival",
+      "notes": "MD(M) · Sony ECM · evie_np",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM \u00b7 evie_np"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -116,10 +116,10 @@ const ARTIST_DATA = {
       "city": "Nantes",
       "state": "France",
       "location": "Nantes, France",
-      "venue": "Olympic - MD(M)",
+      "venue": "Olympic",
+      "notes": "MD(M) · Sony ECM · evie_np",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM \u00b7 evie_np"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -129,10 +129,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "CMJ Musicfest, Life - MD(M)",
+      "venue": "CMJ Musicfest, Life",
+      "notes": "MD(M) · Sony ECM · evie_np",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM \u00b7 evie_np"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -142,10 +142,10 @@ const ARTIST_DATA = {
       "city": "Roseville",
       "state": "CA",
       "location": "Roseville, CA",
-      "venue": "Big Shot's - MD(M)",
+      "venue": "Big Shot's",
+      "notes": "MD(M) · Sony ECM · evie_np",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM \u00b7 evie_np"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -156,9 +156,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Empire Live, Albany",
+      "notes": "SP-CMC-8 · smores",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-8 \u00b7 smores"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -169,9 +169,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Toyota Pavilion",
+      "notes": "SP-CMC-4U · vibrioidxire",
       "version": "AUD #1",
-      "format": "FLAC 24",
-      "notes": "SP-CMC-4U \u00b7 vibrioidxire"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,
@@ -182,9 +182,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Toyota Pavillion",
+      "notes": "Schoeps MK4s · loughney",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4s \u00b7 loughney"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
