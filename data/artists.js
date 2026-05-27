@@ -1780,7 +1780,7 @@ const ARTISTS = [
   {
     "id": "michael-stipe",
     "name": "Michael Stipe",
-    "showCount": 4,
+    "showCount": 5,
     "firstYear": 2014,
     "lastYear": 2015
   },
@@ -2235,7 +2235,7 @@ const ARTISTS = [
   {
     "id": "r-e-m",
     "name": "R.E.M.",
-    "showCount": 799,
+    "showCount": 821,
     "firstYear": 1980,
     "lastYear": 2989
   },
