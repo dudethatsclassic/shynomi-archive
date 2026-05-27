@@ -982,9 +982,9 @@ const ARTISTS = [
   {
     "id": "goo-goo-dolls",
     "name": "Goo Goo Dolls",
-    "showCount": 31,
+    "showCount": 32,
     "firstYear": 1990,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "good-charlotte",
