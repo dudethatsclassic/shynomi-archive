@@ -686,6 +686,13 @@ const ARTISTS = [
     "lastYear": 2007
   },
   {
+    "id": "dolores-o-riordan",
+    "name": "Dolores O'Riordan",
+    "showCount": 4,
+    "firstYear": 2007,
+    "lastYear": 2007
+  },
+  {
     "id": "drive-like-jehu",
     "name": "Drive Like Jehu",
     "showCount": 7,
@@ -2760,7 +2767,7 @@ const ARTISTS = [
   {
     "id": "the-cranberries",
     "name": "The Cranberries",
-    "showCount": 56,
+    "showCount": 53,
     "firstYear": 1991,
     "lastYear": 2012
   },
