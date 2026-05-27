@@ -2921,9 +2921,9 @@ const ARTISTS = [
   {
     "id": "the-presidents-of-the-u-s-a",
     "name": "The Presidents of the U.S.A.",
-    "showCount": 0,
-    "firstYear": null,
-    "lastYear": null
+    "showCount": 55,
+    "firstYear": 1994,
+    "lastYear": 2014
   },
   {
     "id": "the-presidents-of-the-usa",
