@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "silverchair",
   "name": "Silverchair",
   "drive": "F",
-  "showCount": 89,
+  "showCount": 90,
   "firstYear": 1995,
   "lastYear": 2007,
   "years": [
@@ -21,78 +21,78 @@ const ARTIST_DATA = {
       "month": 1,
       "day": 22,
       "dateStr": "1-22-1995",
-      "city": "Melbourne, Australia",
-      "state": "",
+      "city": "Melbourne",
+      "state": "Australia",
       "location": "Melbourne, Australia",
-      "venue": "RAS Showgrounds - Stomping Down Under",
+      "venue": "RAS Showgrounds",
+      "notes": "Stomping",
       "version": "SBD #1",
-      "format": "",
-      "notes": ""
+      "format": ""
     },
     {
       "year": 1995,
       "month": 4,
       "day": 24,
       "dateStr": "4-24-1995",
-      "city": "Hobart, Tasmania, Australia",
-      "state": "",
+      "city": "Hobart",
+      "state": "Tasmania",
       "location": "Hobart, Tasmania, Australia",
       "venue": "City Hall",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
       "month": 6,
       "day": 7,
       "dateStr": "6-7-1995",
-      "city": "Newcastle, NSW",
-      "state": "",
+      "city": "Newcastle",
+      "state": "NSW",
       "location": "Newcastle, NSW",
       "venue": "The Cambridge Hotel",
+      "notes": "VHS(1)",
       "version": "PRO #1",
-      "format": "MP3",
-      "notes": ""
+      "format": "MP3"
     },
     {
       "year": 1995,
       "month": 6,
       "day": 7,
       "dateStr": "6-7-1995",
-      "city": "Newcastle, NSW",
-      "state": "",
+      "city": "Newcastle",
+      "state": "NSW",
       "location": "Newcastle, NSW",
       "venue": "The Cambridge Hotel *Les Enfants Terribles",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
       "month": 6,
       "day": 19,
       "dateStr": "6-19-1995",
-      "city": "Sydney, Australia",
-      "state": "",
+      "city": "Sydney",
+      "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Live at the Wireless JJJ Studios",
+      "notes": "",
       "version": "SBD #1",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
       "month": 6,
       "day": 19,
       "dateStr": "6-19-1995",
-      "city": "Sydney, AUS",
-      "state": "",
+      "city": "Sydney",
+      "state": "AUS",
       "location": "Sydney, AUS",
-      "venue": "Triple J - Live at the Wirelesss *Les Enfants Terribles",
+      "venue": "Triple J",
+      "notes": "Live",
       "version": "SBD #2",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -103,9 +103,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Cabaret Metro",
+      "notes": "unk",
       "version": "SBD #1",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -116,9 +116,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Cabaret Metro *Teenage Runaway",
+      "notes": "",
       "version": "SBD #1",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -129,48 +129,48 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Cabaret Metro *Sony Promo Live",
+      "notes": "",
       "version": "SBD #1",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
       "month": 6,
       "day": 30,
       "dateStr": "6-30-1995",
-      "city": "Roskilde, Denmark",
-      "state": "",
+      "city": "Roskilde",
+      "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
+      "notes": "Backstage",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "Backstage"
+      "format": "FLAC"
     },
     {
       "year": 1995,
       "month": 7,
       "day": 16,
       "dateStr": "7-16-1995",
-      "city": "Glasgow, Scotland",
-      "state": "",
+      "city": "Glasgow",
+      "state": "Scotland",
       "location": "Glasgow, Scotland",
       "venue": "BBC Television Centre",
+      "notes": "FM",
       "version": "SBD #1",
-      "format": "MP3",
-      "notes": "FM"
+      "format": "MP3"
     },
     {
       "year": 1995,
       "month": 9,
       "day": 7,
       "dateStr": "9-7-1995",
-      "city": "Melbourne, Australia",
-      "state": "",
+      "city": "Melbourne",
+      "state": "Australia",
       "location": "Melbourne, Australia",
-      "venue": "RAS Showgrounds - Stomping Down Under",
+      "venue": "RAS Showgrounds",
+      "notes": "Stomping",
       "version": "PRO #1",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -181,9 +181,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Academy Theatre",
+      "notes": "DAT",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DAT"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -194,9 +194,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Whisky A Go-Go",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -207,22 +207,22 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Santa Monica Pier",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1995,
       "month": 10,
       "day": 2,
       "dateStr": "10-2-1995",
-      "city": "Sydney, AUS",
-      "state": "",
+      "city": "Sydney",
+      "state": "AUS",
       "location": "Sydney, AUS",
-      "venue": "Convention & Exhibition Centre Mud Bath At Homebake",
+      "venue": "Convention & Exhibition Centre (ARIA Awards) Mud Bath At Homebake",
+      "notes": "",
       "version": "SBD #1",
-      "format": "FLAC",
-      "notes": "Aria Awards"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -233,9 +233,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "The Soma",
+      "notes": "",
       "version": "AUD #1",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -246,9 +246,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "The Warehouse",
+      "notes": "ANA(3) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -259,9 +259,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rosemont, IL",
       "venue": "Rosemont Horizon",
+      "notes": "",
       "version": "SBD #1",
-      "format": "MP3",
-      "notes": ""
+      "format": "MP3"
     },
     {
       "year": 1995,
@@ -271,10 +271,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "NBC Studios - SNL",
+      "venue": "NBC Studios",
+      "notes": "SNL · Rebroadcast HDTV",
       "version": "TV",
-      "format": "TS",
-      "notes": "Rebroadcast Hdtv"
+      "format": "TS"
     },
     {
       "year": 1995,
@@ -285,9 +285,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Hammerjack's",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -298,9 +298,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "The Bomb Factory",
+      "notes": "ANA(x)",
       "version": "AUD #1",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -310,49 +310,49 @@ const ARTIST_DATA = {
       "city": "Universal City",
       "state": "CA",
       "location": "Universal City, CA",
-      "venue": "Universal Amphitheatre - KROQ Acoustic Xmas",
+      "venue": "Universal Amphitheatre",
+      "notes": "KROQ · FM",
       "version": "SBD #1",
-      "format": "FLAC",
-      "notes": "FM"
+      "format": "FLAC"
     },
     {
       "year": 1996,
       "month": 1,
       "day": 3,
       "dateStr": "1-3-1996",
-      "city": "Byron Bay, Australia",
-      "state": "",
+      "city": "Byron Bay",
+      "state": "Australia",
       "location": "Byron Bay, Australia",
       "venue": "Homebake Festival *Mudbath at Homebake",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
       "month": 1,
       "day": 3,
       "dateStr": "1-3-1996",
-      "city": "Byron Bay, Australia",
-      "state": "",
+      "city": "Byron Bay",
+      "state": "Australia",
       "location": "Byron Bay, Australia",
       "venue": "Homebake Festival *Surfin' In The Rain",
+      "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
       "month": 1,
       "day": 4,
       "dateStr": "1-4-1996",
-      "city": "Byron Bay, Australia",
-      "state": "",
+      "city": "Byron Bay",
+      "state": "Australia",
       "location": "Byron Bay, Australia",
       "venue": "Homebake Festival",
+      "notes": "",
       "version": "Broadcast",
-      "format": "MP2",
-      "notes": ""
+      "format": "MP2"
     },
     {
       "year": 1996,
@@ -363,9 +363,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Palladium",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -376,9 +376,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Palladium",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -389,9 +389,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Fleet Center",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -402,61 +402,61 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum",
+      "notes": "ANA(M) · unk · ukj69",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown · Ukj69"
+      "format": "FLAC"
     },
     {
       "year": 1996,
       "month": 2,
       "day": 21,
       "dateStr": "2-21-1996",
-      "city": "London, England",
-      "state": "",
+      "city": "London",
+      "state": "England",
       "location": "London, England",
       "venue": "Astoria Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
       "month": 3,
       "day": 5,
       "dateStr": "3-5-1996",
-      "city": "Amsterdam, Holland",
-      "state": "",
+      "city": "Amsterdam",
+      "state": "Holland",
       "location": "Amsterdam, Holland",
       "venue": "The Paradiso",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
       "month": 10,
       "day": 2,
       "dateStr": "10-2-1996",
-      "city": "Sydney, Australia",
-      "state": "",
+      "city": "Sydney",
+      "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "The Metro Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
       "month": 10,
       "day": 7,
       "dateStr": "10-7-1996",
-      "city": "Sydney, Australia",
-      "state": "",
+      "city": "Sydney",
+      "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "State Sports Centre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -467,61 +467,61 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Troubadour",
+      "notes": "Secret Show as the George Costanza Trio",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Secret Show As The George Costanza Trio"
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 1,
       "day": 28,
       "dateStr": "1-28-1997",
-      "city": "Melbourne, Australia",
-      "state": "",
+      "city": "Melbourne",
+      "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "The Palace",
+      "notes": "",
       "version": "PRO",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1997,
       "month": 2,
       "day": 4,
       "dateStr": "2-4-1997",
-      "city": "Toronto, Ontario",
-      "state": "",
+      "city": "Toronto",
+      "state": "Ontario",
       "location": "Toronto, Ontario",
-      "venue": "Chumcity Building - Much Music",
+      "venue": "Chumcity Building",
+      "notes": "Much",
       "version": "AUD",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1997,
       "month": 2,
       "day": 4,
       "dateStr": "2-4-1997",
-      "city": "Toronto, Ontario",
-      "state": "",
+      "city": "Toronto",
+      "state": "Ontario",
       "location": "Toronto, Ontario",
-      "venue": "Chum City Building - Intimate & Interactive",
+      "venue": "Chum City Building",
+      "notes": "Intimate",
       "version": "TV",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 2,
       "day": 17,
       "dateStr": "2-17-1997",
-      "city": "Sydney, Australia",
-      "state": "",
+      "city": "Sydney",
+      "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Live at the Wireless JJJ Studios",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -532,9 +532,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -545,22 +545,22 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Palace",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 3,
       "day": 3,
       "dateStr": "3-3-1997",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Le Bataclan",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -571,9 +571,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Mercer Arena",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -584,22 +584,22 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 4,
       "day": 26,
       "dateStr": "4-26-1997",
-      "city": "Montreal, Quebec",
-      "state": "",
+      "city": "Montreal",
+      "state": "Quebec",
       "location": "Montreal, Quebec",
       "venue": "Metropolis",
+      "notes": "",
       "version": "PRO",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1997,
@@ -610,9 +610,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worchester, MA",
       "venue": "Worchester Auditorium",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -623,9 +623,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Asbury Park, NJ",
       "venue": "The Stone Pony",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -636,9 +636,9 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Fort Lauderdale, FL",
       "venue": "Theatre Club",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -649,9 +649,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Westpark Entertainment Center",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -662,113 +662,113 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 6,
       "day": 20,
       "dateStr": "6-20-1997",
-      "city": "Darwin, NT, Australia",
-      "state": "",
+      "city": "Darwin",
+      "state": "NT",
       "location": "Darwin, NT, Australia",
       "venue": "MGM Grand Casino Lawns",
+      "notes": "",
       "version": "AUD #1",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 6,
       "day": 28,
       "dateStr": "6-28-1997",
-      "city": "Roskilde, Denmark",
-      "state": "",
+      "city": "Roskilde",
+      "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 7,
       "day": 4,
       "dateStr": "7-4-1997",
-      "city": "Torhout, Belgium",
-      "state": "",
+      "city": "Torhout",
+      "state": "Belgium",
       "location": "Torhout, Belgium",
       "venue": "Torhout Festival",
+      "notes": "MKE-2002 · ms",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "MKE-2002 · Ms"
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 7,
       "day": 26,
       "dateStr": "7-26-1997",
-      "city": "Sydney, Australia",
-      "state": "",
+      "city": "Sydney",
+      "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Luna Park",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 8,
       "day": 15,
       "dateStr": "8-15-1997",
-      "city": "Amsterdam, The Netherlands",
-      "state": "",
+      "city": "Amsterdam",
+      "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Paradiso",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 8,
       "day": 16,
       "dateStr": "8-16-1997",
-      "city": "Cologne, Germany",
-      "state": "",
+      "city": "Cologne",
+      "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Bizarre Festival",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 8,
       "day": 16,
       "dateStr": "8-16-1997",
-      "city": "Cologne, Germany",
-      "state": "",
+      "city": "Cologne",
+      "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Bizarre Festival",
+      "notes": "",
       "version": "PRO #1a",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1997,
       "month": 8,
       "day": 16,
       "dateStr": "8-16-1997",
-      "city": "Cologne, Germany",
-      "state": "",
+      "city": "Cologne",
+      "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Bizarre Festival",
+      "notes": "",
       "version": "PRO #1b",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1997,
@@ -779,9 +779,9 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Thunderbird Stadium",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -792,61 +792,61 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Richmond, VA",
       "venue": "Flood Zone",
+      "notes": "kingjeff42",
       "version": "AUD #1",
-      "format": "FLAC",
-      "notes": "Kingjeff42"
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 11,
       "day": 29,
       "dateStr": "11-29-1997",
-      "city": "Brisbane, Australia",
-      "state": "",
+      "city": "Brisbane",
+      "state": "Australia",
       "location": "Brisbane, Australia",
       "venue": "Riverstage Gardens",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 12,
       "day": 3,
       "dateStr": "12-3-1997",
-      "city": "Newcastle, Australia",
-      "state": "",
+      "city": "Newcastle",
+      "state": "Australia",
       "location": "Newcastle, Australia",
       "venue": "Worker's Club",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1997,
       "month": 12,
       "day": 13,
       "dateStr": "12-13-1997",
-      "city": "Melbourne, Australia",
-      "state": "",
+      "city": "Melbourne",
+      "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Festival Hall",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
       "month": 2,
       "day": 8,
       "dateStr": "2-8-1999",
-      "city": "London, England",
-      "state": "",
+      "city": "London",
+      "state": "England",
       "location": "London, England",
       "venue": "Camden Electric Ballroom",
+      "notes": "",
       "version": "PRO",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1999,
@@ -857,48 +857,48 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
       "month": 3,
       "day": 20,
       "dateStr": "3-20-1999",
-      "city": "Toronto, Ontario",
-      "state": "",
+      "city": "Toronto",
+      "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "The Warehouse",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
       "month": 4,
       "day": 4,
       "dateStr": "4-4-1999",
-      "city": "Dortmund, Germany",
-      "state": "",
+      "city": "Dortmund",
+      "state": "Germany",
       "location": "Dortmund, Germany",
       "venue": "Philipshalle",
+      "notes": "",
       "version": "PRO #1a",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1999,
       "month": 4,
       "day": 12,
       "dateStr": "4-12-1999",
-      "city": "Paris, France /- L'Olympia (MD)",
-      "state": "",
+      "city": "Paris",
+      "state": "France /- L'Olympia (MD)",
       "location": "Paris, France /- L'Olympia (MD)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -909,9 +909,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Rockfest",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -922,9 +922,9 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Rockfest",
+      "notes": "",
       "version": "PRO",
-      "format": "MP4",
-      "notes": ""
+      "format": "MP4"
     },
     {
       "year": 1999,
@@ -935,48 +935,48 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Sumerfest 99",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
       "month": 8,
       "day": 12,
       "dateStr": "8-12-1999",
-      "city": "Melbourne, Australia",
-      "state": "",
+      "city": "Melbourne",
+      "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Melbourne Park",
+      "notes": "",
       "version": "PRO",
-      "format": "DVD",
-      "notes": ""
+      "format": "DVD"
     },
     {
       "year": 1999,
       "month": 8,
       "day": 20,
       "dateStr": "8-20-1999",
-      "city": "Cologne, Germany",
-      "state": "",
+      "city": "Cologne",
+      "state": "Germany",
       "location": "Cologne, Germany",
-      "venue": "Butzweiler Hof - Bizarre Festival - Rockpalast",
+      "venue": "Butzweiler Hof",
+      "notes": "Bizarre · WDR-TV",
       "version": "TV",
-      "format": "DVD",
-      "notes": "Wdr-tv"
+      "format": "DVD"
     },
     {
       "year": 1999,
       "month": 9,
       "day": 1,
       "dateStr": "9-1-1999",
-      "city": "Paris, France",
-      "state": "",
+      "city": "Paris",
+      "state": "France",
       "location": "Paris, France",
       "venue": "Le Zenith",
+      "notes": "",
       "version": "AUD #1",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -987,100 +987,113 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2002,
       "month": 1,
       "day": 20,
       "dateStr": "1-20-2002",
-      "city": "Gold Coast, Australia",
-      "state": "",
+      "city": "Gold Coast",
+      "state": "Australia",
       "location": "Gold Coast, Australia",
       "venue": "Big Day Out",
+      "notes": "inc",
       "version": "TV",
-      "format": "FLAC",
-      "notes": "Inc"
+      "format": "FLAC"
+    },
+    {
+      "year": 2002,
+      "month": 1,
+      "day": 20,
+      "dateStr": "1-20-2002",
+      "city": "Gold Coast",
+      "state": "Australia",
+      "location": "Gold Coast, Australia",
+      "venue": "Big Day Out",
+      "notes": "",
+      "version": "",
+      "format": "FLAC"
     },
     {
       "year": 2002,
       "month": 1,
       "day": 26,
       "dateStr": "1-26-2002",
-      "city": "Sydney, AUS",
-      "state": "",
+      "city": "Sydney",
+      "state": "AUS",
       "location": "Sydney, AUS",
-      "venue": "Olympic Park - Big Day Out Festival",
+      "venue": "Olympic Park",
+      "notes": "Big",
       "version": "AUD #1",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2002,
       "month": 1,
       "day": 28,
       "dateStr": "1-28-2002",
-      "city": "Melbourne, AUS",
-      "state": "",
+      "city": "Melbourne",
+      "state": "AUS",
       "location": "Melbourne, AUS",
       "venue": "Melbourne Showgrounds",
+      "notes": "DAT(M) · Sony TCD-D100 · unk",
       "version": "AUD #1",
-      "format": "FLAC",
-      "notes": "Sony TCD-D100 · Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2002,
       "month": 2,
       "day": 1,
       "dateStr": "2-1-2002",
-      "city": "Adelaide, AUS",
-      "state": "",
+      "city": "Adelaide",
+      "state": "AUS",
       "location": "Adelaide, AUS",
-      "venue": "Adelaide Showgrounds - Big Day Out",
+      "venue": "Adelaide Showgrounds",
+      "notes": "Big · unk",
       "version": "AUD #1",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2002,
       "month": 2,
       "day": 3,
       "dateStr": "2-3-2002",
-      "city": "Perth, AUS",
-      "state": "",
+      "city": "Perth",
+      "state": "AUS",
       "location": "Perth, AUS",
-      "venue": "Claremont Showground - Big Day Out",
+      "venue": "Claremont Showground",
+      "notes": "Big · unk",
       "version": "AUD #1",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2002,
       "month": 4,
       "day": 1,
       "dateStr": "4-1-2002",
-      "city": "Sydney, Australia",
-      "state": "",
+      "city": "Sydney",
+      "state": "Australia",
       "location": "Sydney, Australia",
-      "venue": "The Wireless - Triple J Radio Station",
+      "venue": "The Wireless",
+      "notes": "Triple",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2002,
       "month": 4,
       "day": 6,
       "dateStr": "4-6-2002",
-      "city": "Hamilton, New Zealand",
-      "state": "",
+      "city": "Hamilton",
+      "state": "New Zealand",
       "location": "Hamilton, New Zealand",
       "venue": "Waikato Stadium",
+      "notes": "Sony ECM-717 · kiwitaper",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-717 · Kiwitaper"
+      "format": "FLAC"
     },
     {
       "year": 2003,
@@ -1091,48 +1104,48 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Kool Haus",
+      "notes": "DAT(M) · Sennheiser MKE-2002 · ms",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Sennheiser MKE-2002 · Ms"
+      "format": "FLAC 24"
     },
     {
       "year": 2003,
       "month": 6,
       "day": 6,
       "dateStr": "6-6-2003",
-      "city": "Nurburg, Germany",
-      "state": "",
+      "city": "Nurburg",
+      "state": "Germany",
       "location": "Nurburg, Germany",
-      "venue": "Nurburgting - Rock am Ring",
+      "venue": "Nurburgting",
+      "notes": "Rock",
       "version": "PRO",
-      "format": "AVI",
-      "notes": ""
+      "format": "AVI"
     },
     {
       "year": 2005,
       "month": 1,
       "day": 29,
       "dateStr": "1-29-2005",
-      "city": "Sydney, Australia",
-      "state": "",
+      "city": "Sydney",
+      "state": "Australia",
       "location": "Sydney, Australia",
-      "venue": "Sydney Cricket Ground - Waveaid Tsunami Relief Concert",
+      "venue": "Sydney Cricket Ground",
+      "notes": "Waveaid · Triple J Radio - FM",
       "version": "SBD #1",
-      "format": "FLAC",
-      "notes": "Triple J Radio - Fm"
+      "format": "FLAC"
     },
     {
       "year": 2007,
       "month": 4,
       "day": 20,
       "dateStr": "4-20-2007",
-      "city": "Cowra, New South Wales, Australia",
-      "state": "",
+      "city": "Cowra",
+      "state": "New South Wales",
       "location": "Cowra, New South Wales, Australia",
       "venue": "Triple J's One Night Stand",
+      "notes": "",
       "version": "Broadcast",
-      "format": "MP2",
-      "notes": ""
+      "format": "MP2"
     },
     {
       "year": 2007,
@@ -1143,9 +1156,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Independent",
+      "notes": "SP-BMC-2 · edmann",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sp-bmc-2 · Edmann"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -1156,9 +1169,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
+      "notes": "DPA 4060 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "DPA 4060 · Live2cd"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -1169,9 +1182,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "The Music Hall",
+      "notes": "HEB DPA 4060 · charles dewey cole",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "HEB DPA 4060 · Charles Dewey Cole"
+      "format": "FLAC"
     }
   ],
   "misc": [
