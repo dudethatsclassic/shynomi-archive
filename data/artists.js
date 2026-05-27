@@ -1829,7 +1829,7 @@ const ARTISTS = [
   {
     "id": "mike-ness",
     "name": "Mike Ness",
-    "showCount": 4,
+    "showCount": 5,
     "firstYear": 1999,
     "lastYear": 1999
   },
@@ -2606,7 +2606,7 @@ const ARTISTS = [
   {
     "id": "social-distortion",
     "name": "Social Distortion",
-    "showCount": 90,
+    "showCount": 88,
     "firstYear": 1981,
     "lastYear": 2025
   },
