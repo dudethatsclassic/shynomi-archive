@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "mike-ness",
   "name": "Mike Ness",
   "drive": "A",
-  "showCount": 4,
+  "showCount": 5,
   "firstYear": 1999,
   "lastYear": 1999,
   "years": [
@@ -18,9 +18,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Berklee Performance Center",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -31,9 +31,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rome, NY",
       "venue": "Woodstock 99'",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -44,9 +44,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "House of Blues",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -57,9 +57,23 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Live Influences",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1999,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1999",
+      "city": "Atlanta",
+      "state": "GA",
+      "location": "Atlanta, GA",
+      "venue": "APC Studios",
+      "notes": "",
+      "version": "FM",
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
