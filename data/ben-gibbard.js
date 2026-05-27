@@ -24,10 +24,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "Great American Music Hall - Tsunami Benefit",
+      "venue": "Great American Music Hall",
+      "notes": "Tsunami · dan.staff",
       "version": "AUD",
-      "format": "M4A",
-      "notes": "dan.staff"
+      "format": "M4A"
     },
     {
       "year": 2007,
@@ -38,9 +38,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Town Hall",
+      "notes": "ECM-717 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "ECM-717 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -51,9 +51,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theatre of the Living Arts",
+      "notes": "AT853 · deadhorse",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "AT853 \u00b7 deadhorse"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -64,9 +64,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "City Hall",
+      "notes": "Sony ECM-909 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-909 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -77,9 +77,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox at the Market",
+      "notes": "SP-CMC-4U · basshead",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 basshead"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -90,9 +90,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox at the Market",
+      "notes": "SP-BMC-2 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SP-BMC-2 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -102,10 +102,10 @@ const ARTIST_DATA = {
       "city": "Santa Monica",
       "state": "CA",
       "location": "Santa Monica, CA",
-      "venue": "Morning Becomes Eclectic - KCRW Radio",
+      "venue": "Morning Becomes Eclectic",
+      "notes": "KCRW · with Jay Farrar · nibbler",
       "version": "FM",
-      "format": "FLAC",
-      "notes": "with Jay Farrar \u00b7 nibbler"
+      "format": "FLAC"
     },
     {
       "year": 2009,
@@ -116,9 +116,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Culver City, CA",
       "venue": "The Actor's Gang",
+      "notes": "Edirol R09 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Edirol R09 \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2012,
@@ -129,9 +129,9 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Toronto, Canada",
       "venue": "Danforth Music Hall",
+      "notes": "CSB · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 Unknown"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -142,9 +142,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Northridge, CA",
       "venue": "KCSN Studio",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -155,9 +155,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "Lincoln Theater",
+      "notes": "CA-14s · unk",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "CA-14s \u00b7 Unknown"
+      "format": "FLAC 24"
     },
     {
       "year": 2020,
@@ -168,9 +168,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -181,9 +181,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -194,9 +194,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -207,9 +207,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -220,9 +220,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -233,9 +233,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -246,9 +246,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -259,9 +259,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -272,9 +272,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -285,9 +285,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -298,9 +298,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -311,9 +311,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -324,9 +324,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -337,9 +337,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -350,9 +350,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -363,9 +363,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -376,9 +376,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -389,9 +389,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -402,9 +402,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -415,9 +415,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -428,9 +428,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2020,
@@ -441,9 +441,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     },
     {
       "year": 2021,
@@ -454,9 +454,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Living Room Show",
+      "notes": "FB Live Feed · shane e. calhoon",
       "version": "WEB",
-      "format": "FLAC",
-      "notes": "FB Live Feed \u00b7 shane e. calhoon"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
