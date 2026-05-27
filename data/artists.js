@@ -1073,7 +1073,7 @@ const ARTISTS = [
   {
     "id": "hole",
     "name": "Hole",
-    "showCount": 143,
+    "showCount": 145,
     "firstYear": 1989,
     "lastYear": 2011
   },
