@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "satchel",
   "name": "Satchel",
   "drive": "D",
-  "showCount": 8,
+  "showCount": 9,
   "firstYear": 1994,
   "lastYear": 2010,
   "years": [
@@ -21,9 +21,9 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Satyricon",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -34,9 +34,22 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Redmond, WA",
       "venue": "UNK Venue",
+      "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
+    },
+    {
+      "year": 1995,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1995",
+      "city": "Seattle",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "RCKCNDY",
+      "notes": "MD(M)",
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -47,9 +60,9 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "Ruston, LA",
       "venue": "Louisiana Tech",
+      "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -60,9 +73,9 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Bloomington, IN",
       "venue": "Mars",
+      "notes": "Sony ECM-909",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-909"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -73,9 +86,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "La Jolla, CA",
       "venue": "UCSD",
+      "notes": "Sony ECM-717",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony ECM-717"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -86,9 +99,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "RCKCNDY",
+      "notes": "SS-DSM6",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "SS-DSM6"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -99,9 +112,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "High Dive",
+      "notes": "CA-11 · jeffbr",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11 \u00b7 jeffbr"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -112,9 +125,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Jewelbox Theater",
+      "notes": "CA-11 · jeffbr",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CA-11 \u00b7 jeffbr"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
