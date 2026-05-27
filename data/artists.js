@@ -2732,7 +2732,7 @@ const ARTISTS = [
   {
     "id": "stone-temple-pilots",
     "name": "Stone Temple Pilots",
-    "showCount": 94,
+    "showCount": 96,
     "firstYear": 1993,
     "lastYear": 2025
   },
