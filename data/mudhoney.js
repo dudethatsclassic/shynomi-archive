@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "mudhoney",
   "name": "Mudhoney",
   "drive": "A",
-  "showCount": 166,
+  "showCount": 167,
   "firstYear": 1988,
   "lastYear": 2025,
   "years": [
@@ -1281,8 +1281,8 @@ const ARTIST_DATA = {
       "location": "Seattle, WA",
       "venue": "DV8",
       "notes": "ANA(1) · unk · nick serra transfer",
-      "version": "",
-      "format": ""
+      "version": "AUD #1",
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -1308,6 +1308,19 @@ const ARTIST_DATA = {
       "venue": "Globe Arena",
       "notes": "Panasonic NV HS860 · travisbickle1963 transfer",
       "version": "AMT #1",
+      "format": "FLAC"
+    },
+    {
+      "year": 1995,
+      "month": 9,
+      "day": 3,
+      "dateStr": "9-3-1995",
+      "city": "Seattle",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "Memorial Stadium",
+      "notes": "ANA(1) · unk · nick serra transfer",
+      "version": "AUD #1",
       "format": "FLAC"
     },
     {
