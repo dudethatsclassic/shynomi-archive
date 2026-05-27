@@ -716,12 +716,19 @@ const ARTISTS = [
   {
     "id": "eddie-vedder-solo",
     "name": "Eddie Vedder (solo)",
-    "showCount": 152,
-    "firstYear": 1991,
+    "showCount": 155,
+    "firstYear": 1992,
     "lastYear": 2025
   },
   {
     "id": "eddie-vedder-and-c-average",
+    "name": "Eddie Vedder & C-Average",
+    "showCount": 8,
+    "firstYear": 1999,
+    "lastYear": 1999
+  },
+  {
+    "id": "eddie-vedder-c-average",
     "name": "Eddie Vedder & C-Average",
     "showCount": 8,
     "firstYear": 1999,
@@ -735,6 +742,13 @@ const ARTISTS = [
     "lastYear": 2001
   },
   {
+    "id": "eddie-vedder-neil-finn",
+    "name": "Eddie Vedder & Neil Finn",
+    "showCount": 4,
+    "firstYear": 1998,
+    "lastYear": 2001
+  },
+  {
     "id": "eddie-vedder-and-pete-townsend",
     "name": "Eddie Vedder & Pete Townsend",
     "showCount": 1,
@@ -742,7 +756,21 @@ const ARTISTS = [
     "lastYear": 1999
   },
   {
+    "id": "eddie-vedder-pete-townsend",
+    "name": "Eddie Vedder & Pete Townsend",
+    "showCount": 1,
+    "firstYear": 1999,
+    "lastYear": 1999
+  },
+  {
     "id": "eddie-vedder-and-the-fastbacks",
+    "name": "Eddie Vedder & the Fastbacks",
+    "showCount": 2,
+    "firstYear": 1996,
+    "lastYear": 1996
+  },
+  {
+    "id": "eddie-vedder-the-fastbacks",
     "name": "Eddie Vedder & the Fastbacks",
     "showCount": 2,
     "firstYear": 1996,
@@ -1864,9 +1892,9 @@ const ARTISTS = [
   {
     "id": "neil-young-pearl-jam",
     "name": "Neil Young & Pearl Jam",
-    "showCount": 0,
-    "firstYear": null,
-    "lastYear": null
+    "showCount": 24,
+    "firstYear": 1995,
+    "lastYear": 1995
   },
   {
     "id": "new-found-glory",
@@ -2025,7 +2053,7 @@ const ARTISTS = [
   {
     "id": "pearl-jam",
     "name": "Pearl Jam",
-    "showCount": 1778,
+    "showCount": 1696,
     "firstYear": 1990,
     "lastYear": 2025
   },
@@ -2305,7 +2333,7 @@ const ARTISTS = [
   {
     "id": "satchel",
     "name": "Satchel",
-    "showCount": 8,
+    "showCount": 9,
     "firstYear": 1994,
     "lastYear": 2010
   },
@@ -2787,6 +2815,13 @@ const ARTISTS = [
   },
   {
     "id": "the-doors-and-eddie-vedder",
+    "name": "The Doors & Eddie Vedder",
+    "showCount": 1,
+    "firstYear": 1993,
+    "lastYear": 1993
+  },
+  {
+    "id": "the-doors-eddie-vedder",
     "name": "The Doors & Eddie Vedder",
     "showCount": 1,
     "firstYear": 1993,
