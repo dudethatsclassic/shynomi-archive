@@ -1794,7 +1794,7 @@ const ARTISTS = [
   {
     "id": "my-bloody-valentine",
     "name": "My Bloody Valentine",
-    "showCount": 154,
+    "showCount": 155,
     "firstYear": 1986,
     "lastYear": 2026
   },
