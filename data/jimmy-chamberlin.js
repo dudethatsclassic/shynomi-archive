@@ -1,0 +1,240 @@
+const ARTIST_DATA = {
+  "id": "jimmy-chamberlin",
+  "name": "Jimmy Chamberlin",
+  "drive": "B",
+  "showCount": 16,
+  "firstYear": 2003,
+  "lastYear": 2024,
+  "years": [
+    2003,
+    2005,
+    2024
+  ],
+  "shows": [
+    {
+      "year": 2003,
+      "month": 8,
+      "day": 12,
+      "dateStr": "8-12-2003",
+      "city": "Fort Collins",
+      "state": "CO",
+      "location": "Fort Collins, CO",
+      "venue": "Lincoln Center",
+      "notes": "Drum",
+      "version": "",
+      "format": "SHN"
+    },
+    {
+      "year": 2005,
+      "month": 1,
+      "day": 18,
+      "dateStr": "1-18-2005",
+      "city": "Boston",
+      "state": "MA",
+      "location": "Boston, MA",
+      "venue": "The Paradise Lounge",
+      "notes": "gretchen morguean",
+      "version": "AUD",
+      "format": "SHN"
+    },
+    {
+      "year": 2005,
+      "month": 1,
+      "day": 20,
+      "dateStr": "1-20-2005",
+      "city": "Philadelphia",
+      "state": "PA",
+      "location": "Philadelphia, PA",
+      "venue": "World Cafe",
+      "notes": "Real Player",
+      "version": "WEB",
+      "format": "FLAC"
+    },
+    {
+      "year": 2005,
+      "month": 1,
+      "day": 24,
+      "dateStr": "1-24-2005",
+      "city": "Hollywood",
+      "state": "CA",
+      "location": "Hollywood, CA",
+      "venue": "Knitting Factory",
+      "notes": "DAT(M) · DPA 4061 · ed davis",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2005,
+      "month": 1,
+      "day": 27,
+      "dateStr": "1-27-2005",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "WXRT Studios",
+      "notes": "Interview",
+      "version": "WEB",
+      "format": "FLAC"
+    },
+    {
+      "year": 2005,
+      "month": 2,
+      "day": 7,
+      "dateStr": "2-7-2005",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "Mighty Morning Show",
+      "notes": "Indie 103.1",
+      "version": "FM",
+      "format": "FLAC"
+    },
+    {
+      "year": 2005,
+      "month": 2,
+      "day": 24,
+      "dateStr": "2-24-2005",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "World Cafe",
+      "notes": "Sony",
+      "version": "WEB",
+      "format": "FLAC"
+    },
+    {
+      "year": 2005,
+      "month": 3,
+      "day": 17,
+      "dateStr": "3-17-2005",
+      "city": "Austin",
+      "state": "TX",
+      "location": "Austin, TX",
+      "venue": "Cream Vintage",
+      "notes": "DAT(M) · DSM-6S · brian graves",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2005,
+      "month": 5,
+      "day": 3,
+      "dateStr": "5-3-2005",
+      "city": "Philadelphia",
+      "state": "PA",
+      "location": "Philadelphia, PA",
+      "venue": "North Star Bar",
+      "notes": "MD(M) · AT PRO-95 · dan saytar",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2005,
+      "month": 5,
+      "day": 4,
+      "dateStr": "5-4-2005",
+      "city": "New York City",
+      "state": "NY",
+      "location": "New York City, NY",
+      "venue": "XM Studios",
+      "notes": "Iinterview",
+      "version": "FM",
+      "format": "FLAC"
+    },
+    {
+      "year": 2005,
+      "month": 5,
+      "day": 5,
+      "dateStr": "5-5-2005",
+      "city": "Washington",
+      "state": "D.C.",
+      "location": "Washington, D.C.",
+      "venue": "DC9",
+      "notes": "CSB · john riviello",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2005,
+      "month": 5,
+      "day": 14,
+      "dateStr": "5-14-2005",
+      "city": "Lawrence",
+      "state": "KS",
+      "location": "Lawrence, KS",
+      "venue": "The Bottleneck",
+      "notes": "MD Sony MZ-R700",
+      "version": "AUD",
+      "format": "SHN"
+    },
+    {
+      "year": 2005,
+      "month": 5,
+      "day": 16,
+      "dateStr": "5-16-2005",
+      "city": "Houston",
+      "state": "TX",
+      "location": "Houston, TX",
+      "venue": "Meridian",
+      "notes": "Binaural Stereo mics",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2005,
+      "month": 8,
+      "day": 19,
+      "dateStr": "8-19-2005",
+      "city": "Kiewit",
+      "state": "Belgium",
+      "location": "Kiewit, Belgium",
+      "venue": "Pukkelpop Festival",
+      "notes": "Kempische · M · OKM-IIR",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2005,
+      "month": 9,
+      "day": 18,
+      "dateStr": "9-18-2005",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Vic Theatre",
+      "notes": "",
+      "version": "PRO",
+      "format": "DVD"
+    },
+    {
+      "year": 2024,
+      "month": 3,
+      "day": 12,
+      "dateStr": "3-12-2024",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "El Rey",
+      "notes": "DPA 4063 · dabbler",
+      "version": "AUD",
+      "format": "FLAC"
+    }
+  ],
+  "misc": [
+    {
+      "type": "label",
+      "label": "The Art of Drumming with Jimmy Chamberlin",
+      "format": "FLV"
+    },
+    {
+      "type": "label",
+      "label": "The Last Hard Men (1997) [MP3]",
+      "format": "MP3"
+    },
+    {
+      "type": "label",
+      "label": "The Last Hard Men (2001 Re-issue Pressing)",
+      "format": "WAV"
+    }
+  ]
+};
