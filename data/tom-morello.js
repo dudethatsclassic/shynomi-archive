@@ -19,9 +19,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Roxy",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -32,9 +32,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "House of Blues",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "DPA 4081 \u00b7 faninor"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -45,9 +45,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne AUS",
       "venue": "The Forum",
+      "notes": "IEM HiFi Stereo · blackout",
       "version": "IEM",
-      "format": "FLAC",
-      "notes": "IEM HiFi Stereo \u00b7 blackout"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -58,9 +58,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
+      "notes": "OKMIIr · massu2",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "OKMIIr \u00b7 massu2"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
