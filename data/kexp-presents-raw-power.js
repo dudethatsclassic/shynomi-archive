@@ -18,9 +18,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Pike Place Market / KEXP Presents Raw Power",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -31,9 +31,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Pike Place Market / KEXP Presents Raw Power",
+      "notes": "Zoom H2",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H2"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
