@@ -2291,7 +2291,7 @@ const ARTISTS = [
   {
     "id": "red-hot-chili-peppers",
     "name": "Red Hot Chili Peppers",
-    "showCount": 1195,
+    "showCount": 927,
     "firstYear": 1983,
     "lastYear": 2025
   },
