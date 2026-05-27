@@ -1164,9 +1164,9 @@ const ARTISTS = [
   {
     "id": "jane-s-addiction",
     "name": "Jane's Addiction",
-    "showCount": 0,
-    "firstYear": null,
-    "lastYear": null
+    "showCount": 276,
+    "firstYear": 1986,
+    "lastYear": 2024
   },
   {
     "id": "janes-addiction",
