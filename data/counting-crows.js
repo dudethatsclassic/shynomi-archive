@@ -17299,13 +17299,11 @@ const ARTIST_DATA = {
     },
     {
       "type": "label",
-      "label": "XX-XX-2004 / Accidentally In Love TV Tour (robin zornes)",
-      "format": "DVD"
+      "label": "XX-XX-2004 / Accidentally In Love TV Tour (robin zornes)"
     },
     {
       "type": "label",
-      "label": "XX-XX-1990 / Adam's Garage - Mr Jones Home Demo",
-      "format": "FLAC"
+      "label": "XX-XX-1990 / Adam's Garage - Mr Jones Home Demo"
     },
     {
       "type": "label",
