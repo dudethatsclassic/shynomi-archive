@@ -2256,9 +2256,9 @@ const ARTISTS = [
   {
     "id": "rage-against-the-machine",
     "name": "Rage Against the Machine",
-    "showCount": 242,
+    "showCount": 240,
     "firstYear": 1991,
-    "lastYear": 2025
+    "lastYear": 2022
   },
   {
     "id": "rancid",
