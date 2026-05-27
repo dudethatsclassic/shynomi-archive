@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "charles-mingus",
   "name": "Charles Mingus",
   "drive": "B",
-  "showCount": 34,
+  "showCount": 35,
   "firstYear": 1964,
   "lastYear": 2003,
   "years": [
@@ -301,7 +301,7 @@ const ARTIST_DATA = {
       "venue": "Teatro Metastasio",
       "notes": "goody remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC 24"
     },
     {
       "year": 1975,
@@ -327,6 +327,19 @@ const ARTIST_DATA = {
       "venue": "Jesse Hall",
       "notes": "",
       "version": "FM",
+      "format": "FLAC"
+    },
+    {
+      "year": 1975,
+      "month": 7,
+      "day": 15,
+      "dateStr": "7-15-1975",
+      "city": "La Spezia",
+      "state": "Italy",
+      "location": "La Spezia, Italy",
+      "venue": "Teatro Civico",
+      "notes": "goody remaster",
+      "version": "SBD",
       "format": "FLAC"
     },
     {
