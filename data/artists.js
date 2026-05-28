@@ -105,13 +105,6 @@ const ARTISTS = [
     "lastYear": 2019
   },
   {
-    "id": "angels-and-airwaves",
-    "name": "Angels & Airwaves",
-    "showCount": 3,
-    "firstYear": 2012,
-    "lastYear": 2019
-  },
-  {
     "id": "angie-aparo",
     "name": "Angie Aparo",
     "showCount": 10,
