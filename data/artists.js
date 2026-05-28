@@ -490,13 +490,6 @@ const ARTISTS = [
     "lastYear": 1994
   },
   {
-    "id": "coheed-and-cambria",
-    "name": "Coheed & Cambria",
-    "showCount": 16,
-    "firstYear": 2005,
-    "lastYear": 2024
-  },
-  {
     "id": "coheed-cambria",
     "name": "Coheed & Cambria",
     "showCount": 16,
@@ -523,13 +516,6 @@ const ARTISTS = [
     "showCount": 67,
     "firstYear": 1994,
     "lastYear": 2025
-  },
-  {
-    "id": "colonel-claypools-bucket-of-bernie-brains",
-    "name": "Colonel Claypool's Bucket of Bernie Brains",
-    "showCount": 60,
-    "firstYear": 2000,
-    "lastYear": 2024
   },
   {
     "id": "colonel-claypool-s-bucket-of-bernie-brains",
@@ -572,13 +558,6 @@ const ARTISTS = [
     "showCount": 1,
     "firstYear": 2023,
     "lastYear": 2023
-  },
-  {
-    "id": "darlene-love-and-ronnie-spector",
-    "name": "Darlene Love & Ronnie Spector",
-    "showCount": 2,
-    "firstYear": 1988,
-    "lastYear": 1988
   },
   {
     "id": "darlene-love-ronnie-spector",
@@ -672,13 +651,6 @@ const ARTISTS = [
     "lastYear": 2000
   },
   {
-    "id": "dj-jazzy-jeff-and-the-fresh-prince",
-    "name": "DJ Jazzy Jeff & the Fresh Prince",
-    "showCount": 1,
-    "firstYear": 1988,
-    "lastYear": 1988
-  },
-  {
     "id": "dj-jazzy-jeff-the-fresh-prince",
     "name": "DJ Jazzy Jeff & the Fresh Prince",
     "showCount": 1,
@@ -691,13 +663,6 @@ const ARTISTS = [
     "showCount": 2,
     "firstYear": 2001,
     "lastYear": 2005
-  },
-  {
-    "id": "dolores-oriordan",
-    "name": "Dolores O'Riordan",
-    "showCount": 4,
-    "firstYear": 2007,
-    "lastYear": 2007
   },
   {
     "id": "dolores-o-riordan",
@@ -735,25 +700,11 @@ const ARTISTS = [
     "lastYear": 2025
   },
   {
-    "id": "eddie-vedder-and-c-average",
-    "name": "Eddie Vedder & C-Average",
-    "showCount": 8,
-    "firstYear": 1999,
-    "lastYear": 1999
-  },
-  {
     "id": "eddie-vedder-c-average",
     "name": "Eddie Vedder & C-Average",
     "showCount": 8,
     "firstYear": 1999,
     "lastYear": 1999
-  },
-  {
-    "id": "eddie-vedder-and-neil-finn",
-    "name": "Eddie Vedder & Neil Finn",
-    "showCount": 4,
-    "firstYear": 1998,
-    "lastYear": 2001
   },
   {
     "id": "eddie-vedder-neil-finn",
@@ -763,25 +714,11 @@ const ARTISTS = [
     "lastYear": 2001
   },
   {
-    "id": "eddie-vedder-and-pete-townsend",
-    "name": "Eddie Vedder & Pete Townsend",
-    "showCount": 1,
-    "firstYear": 1999,
-    "lastYear": 1999
-  },
-  {
     "id": "eddie-vedder-pete-townsend",
     "name": "Eddie Vedder & Pete Townsend",
     "showCount": 1,
     "firstYear": 1999,
     "lastYear": 1999
-  },
-  {
-    "id": "eddie-vedder-and-the-fastbacks",
-    "name": "Eddie Vedder & the Fastbacks",
-    "showCount": 2,
-    "firstYear": 1996,
-    "lastYear": 1996
   },
   {
     "id": "eddie-vedder-the-fastbacks",
@@ -1127,13 +1064,6 @@ const ARTISTS = [
     "lastYear": 2025
   },
   {
-    "id": "hootie-and-the-blowfish",
-    "name": "Hootie & the Blowfish",
-    "showCount": 5,
-    "firstYear": 1995,
-    "lastYear": 2024
-  },
-  {
     "id": "hootie-the-blowfish",
     "name": "Hootie & the Blowfish",
     "showCount": 5,
@@ -1218,13 +1148,6 @@ const ARTISTS = [
     "lastYear": 2024
   },
   {
-    "id": "janes-addiction",
-    "name": "Jane's Addiction",
-    "showCount": 310,
-    "firstYear": 1986,
-    "lastYear": 2024
-  },
-  {
     "id": "jawbox",
     "name": "Jawbox",
     "showCount": 1,
@@ -1251,13 +1174,6 @@ const ARTISTS = [
     "showCount": 228,
     "firstYear": 1994,
     "lastYear": 2026
-  },
-  {
-    "id": "jeff-tweedy-and-friends",
-    "name": "Jeff Tweedy & Friends",
-    "showCount": 12,
-    "firstYear": 1996,
-    "lastYear": 2024
   },
   {
     "id": "jeff-tweedy-friends",
@@ -1386,13 +1302,6 @@ const ARTISTS = [
     "lastYear": 2024
   },
   {
-    "id": "ks-choice",
-    "name": "K's Choice",
-    "showCount": 8,
-    "firstYear": 1994,
-    "lastYear": 2023
-  },
-  {
     "id": "k-s-choice",
     "name": "K's Choice",
     "showCount": 9,
@@ -1419,13 +1328,6 @@ const ARTISTS = [
     "showCount": 2,
     "firstYear": 2007,
     "lastYear": 2007
-  },
-  {
-    "id": "kevin-martin-and-the-hiwatts",
-    "name": "Kevin Martin & The Hiwatts",
-    "showCount": 1,
-    "firstYear": 2004,
-    "lastYear": 2004
   },
   {
     "id": "kevin-martin-the-hiwatts",
@@ -1484,25 +1386,11 @@ const ARTISTS = [
     "lastYear": 1980
   },
   {
-    "id": "les-claypool-and-friends",
-    "name": "Les Claypool & Friends",
-    "showCount": 2,
-    "firstYear": 2024,
-    "lastYear": 2025
-  },
-  {
     "id": "les-claypool-friends",
     "name": "Les Claypool & Friends",
     "showCount": 2,
     "firstYear": 2024,
     "lastYear": 2025
-  },
-  {
-    "id": "les-claypool-and-the-holy-mackeral",
-    "name": "Les Claypool & the Holy Mackeral",
-    "showCount": 6,
-    "firstYear": 1996,
-    "lastYear": 1996
   },
   {
     "id": "les-claypool-the-holy-mackeral",
@@ -1519,25 +1407,11 @@ const ARTISTS = [
     "lastYear": 2007
   },
   {
-    "id": "les-claypools-bastard-jazz",
-    "name": "Les Claypool's Bastard Jazz",
-    "showCount": 10,
-    "firstYear": 2022,
-    "lastYear": 2025
-  },
-  {
     "id": "les-claypool-s-bastard-jazz",
     "name": "Les Claypool's Bastard Jazz",
     "showCount": 10,
     "firstYear": 2022,
     "lastYear": 2025
-  },
-  {
-    "id": "les-claypools-duo-de-twang",
-    "name": "Les Claypool's Duo de Twang",
-    "showCount": 2,
-    "firstYear": 2014,
-    "lastYear": 2023
   },
   {
     "id": "les-claypool-s-duo-de-twang",
@@ -1552,13 +1426,6 @@ const ARTISTS = [
     "showCount": 34,
     "firstYear": 2000,
     "lastYear": 2023
-  },
-  {
-    "id": "les-claypools-fungi-band",
-    "name": "Les Claypool's Fungi Band",
-    "showCount": 1,
-    "firstYear": 2009,
-    "lastYear": 2009
   },
   {
     "id": "les-claypool-s-fungi-band",
@@ -1946,13 +1813,6 @@ const ARTISTS = [
     "lastYear": 2001
   },
   {
-    "id": "neds-atomic-dustbin",
-    "name": "Ned's Atomic Dustbin",
-    "showCount": 2,
-    "firstYear": 1991,
-    "lastYear": 2023
-  },
-  {
     "id": "ned-s-atomic-dustbin",
     "name": "Ned's Atomic Dustbin",
     "showCount": 2,
@@ -1965,13 +1825,6 @@ const ARTISTS = [
     "showCount": 8,
     "firstYear": 1965,
     "lastYear": 1992
-  },
-  {
-    "id": "neil-young-and-pearl-jam",
-    "name": "Neil Young & Pearl Jam",
-    "showCount": 24,
-    "firstYear": 1995,
-    "lastYear": 1995
   },
   {
     "id": "neil-young-pearl-jam",
@@ -2030,13 +1883,6 @@ const ARTISTS = [
     "lastYear": 2023
   },
   {
-    "id": "noel-gallaghers-high-flying-birds",
-    "name": "Noel Gallagher's High Flying Birds",
-    "showCount": 42,
-    "firstYear": 2011,
-    "lastYear": 2024
-  },
-  {
     "id": "noel-gallagher-s-high-flying-birds",
     "name": "Noel Gallagher's High Flying Birds",
     "showCount": 42,
@@ -2052,13 +1898,6 @@ const ARTISTS = [
   },
   {
     "id": "old-97-s",
-    "name": "Old 97's",
-    "showCount": 6,
-    "firstYear": 1996,
-    "lastYear": 2026
-  },
-  {
-    "id": "old-97s",
     "name": "Old 97's",
     "showCount": 6,
     "firstYear": 1996,
@@ -2261,13 +2100,6 @@ const ARTISTS = [
     "lastYear": 2989
   },
   {
-    "id": "rem",
-    "name": "R.E.M.",
-    "showCount": 803,
-    "firstYear": 1980,
-    "lastYear": 2989
-  },
-  {
     "id": "radiohead",
     "name": "Radiohead",
     "showCount": 1225,
@@ -2427,13 +2259,6 @@ const ARTISTS = [
     "showCount": 1,
     "firstYear": 1991,
     "lastYear": 1991
-  },
-  {
-    "id": "scott-lucas-and-the-married-men",
-    "name": "Scott Lucas & the Married Men",
-    "showCount": 4,
-    "firstYear": 2011,
-    "lastYear": 2022
   },
   {
     "id": "scott-lucas-the-married-men",
@@ -2905,13 +2730,6 @@ const ARTISTS = [
     "lastYear": 2012
   },
   {
-    "id": "the-doors-and-eddie-vedder",
-    "name": "The Doors & Eddie Vedder",
-    "showCount": 1,
-    "firstYear": 1993,
-    "lastYear": 1993
-  },
-  {
     "id": "the-doors-eddie-vedder",
     "name": "The Doors & Eddie Vedder",
     "showCount": 1,
@@ -3013,13 +2831,6 @@ const ARTISTS = [
     "id": "the-presidents-of-the-u-s-a",
     "name": "The Presidents of the U.S.A.",
     "showCount": 55,
-    "firstYear": 1994,
-    "lastYear": 2014
-  },
-  {
-    "id": "the-presidents-of-the-usa",
-    "name": "The Presidents of the U.S.A.",
-    "showCount": 52,
     "firstYear": 1994,
     "lastYear": 2014
   },
@@ -3162,20 +2973,6 @@ const ARTISTS = [
     "showCount": 4,
     "firstYear": 2024,
     "lastYear": 2025
-  },
-  {
-    "id": "tom-petty--the-heartbreakers",
-    "name": "Tom Petty & the Heartbreakers",
-    "showCount": 324,
-    "firstYear": 1971,
-    "lastYear": 2017
-  },
-  {
-    "id": "tom-petty-and-the-heartbreakers",
-    "name": "Tom Petty & the Heartbreakers",
-    "showCount": 320,
-    "firstYear": 1973,
-    "lastYear": 2017
   },
   {
     "id": "tom-petty-the-heartbreakers",
