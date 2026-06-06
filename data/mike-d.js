@@ -20,7 +20,7 @@ const ARTIST_DATA = {
       "venue": "Xanadu",
       "notes": "Zoom H4n · furrythug",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC 24"
     }
   ],
   "misc": []
