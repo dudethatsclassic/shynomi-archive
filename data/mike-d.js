@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Xanadu",
-      "notes": "Zoom H4n · furrythug",
+      "notes": "with 5D · Zoom H4n · furrythug",
       "version": "AUD",
       "format": "FLAC 24"
     }
