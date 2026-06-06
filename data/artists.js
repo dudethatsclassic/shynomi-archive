@@ -1690,8 +1690,8 @@ const ARTISTS = [
     "id": "mike-d",
     "name": "Mike D",
     "showCount": 1,
-    "firstYear": 2007,
-    "lastYear": 2007
+    "firstYear": 2026,
+    "lastYear": 2026
   },
   {
     "id": "mike-ness",
