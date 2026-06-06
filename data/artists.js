@@ -1687,6 +1687,13 @@ const ARTISTS = [
     "lastYear": 2022
   },
   {
+    "id": "mike-d",
+    "name": "Mike D",
+    "showCount": 1,
+    "firstYear": 2007,
+    "lastYear": 2007
+  },
+  {
     "id": "mike-ness",
     "name": "Mike Ness",
     "showCount": 5,
