@@ -3,22 +3,22 @@ const ARTIST_DATA = {
   "name": "Mike D",
   "drive": "D",
   "showCount": 1,
-  "firstYear": 2007,
-  "lastYear": 2007,
+  "firstYear": 2026,
+  "lastYear": 2026,
   "years": [
-    2007
+    2026
   ],
   "shows": [
     {
-      "year": 2007,
-      "month": 6,
-      "day": 24,
-      "dateStr": "6-24-2007",
-      "city": "Neuhausen Ob Eck",
-      "state": "Allemagne",
-      "location": "Neuhausen Ob Eck, Allemagne",
-      "venue": "Southside",
-      "notes": "Sony ECM 719 · elysium",
+      "year": 2026,
+      "month": 5,
+      "day": 23,
+      "dateStr": "5-23-2026",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Xanadu",
+      "notes": "Zoom H4n · furrythug",
       "version": "",
       "format": ""
     }
