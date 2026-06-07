@@ -478,7 +478,7 @@ const ARTISTS = [
   {
     "id": "claypool-gold",
     "name": "Claypool Gold",
-    "showCount": 4,
+    "showCount": 5,
     "firstYear": 2024,
     "lastYear": 2026
   },
@@ -2067,7 +2067,7 @@ const ARTISTS = [
   {
     "id": "primus",
     "name": "Primus",
-    "showCount": 802,
+    "showCount": 803,
     "firstYear": 1987,
     "lastYear": 2025
   },
