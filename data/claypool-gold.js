@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "claypool-gold",
   "name": "Claypool Gold",
   "drive": "F",
-  "showCount": 4,
+  "showCount": 5,
   "firstYear": 2024,
   "lastYear": 2026,
   "years": [
@@ -59,6 +59,19 @@ const ARTIST_DATA = {
       "location": "Redmond, WA",
       "venue": "Marymoor Park",
       "notes": "Senn Ambeo · grizzly adams",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 28,
+      "dateStr": "5-28-2026",
+      "city": "Kansas City",
+      "state": "MO",
+      "location": "Kansas City, MO",
+      "venue": "Starlight Theater",
+      "notes": "DPA 4061s · kcmoejoe",
       "version": "AUD",
       "format": "FLAC 24"
     }
