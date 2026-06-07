@@ -1233,7 +1233,7 @@ const ARTIST_DATA = {
       "venue": "Rock Am Ring",
       "notes": "Utopia · unk",
       "version": "",
-      "format": ""
+      "format": "MP4"
     }
   ],
   "misc": [
