@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "veruca-salt",
   "name": "Veruca Salt",
   "drive": "D",
-  "showCount": 21,
+  "showCount": 22,
   "firstYear": 1994,
   "lastYear": 2024,
   "years": [
@@ -197,6 +197,19 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC"
+    },
+    {
+      "year": 2014,
+      "month": 6,
+      "day": 22,
+      "dateStr": "6-22-2014",
+      "city": "Portland",
+      "state": "OR",
+      "location": "Portland, OR",
+      "venue": "Mississippi Studios",
+      "notes": "WAV(M) · CA-11 · kris sproul",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2014,
