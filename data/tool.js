@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "tool",
   "name": "Tool",
   "drive": "D",
-  "showCount": 1393,
+  "showCount": 1394,
   "firstYear": 1991,
   "lastYear": 2025,
   "years": [
@@ -60,6 +60,19 @@ const ARTIST_DATA = {
       "location": "Boston, MA",
       "venue": "The Rat",
       "notes": "Aiwa HS-M2 · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1992,
+      "month": 4,
+      "day": 23,
+      "dateStr": "4-23-1992",
+      "city": "Boston",
+      "state": "MA",
+      "location": "Boston, MA",
+      "venue": "Axis",
+      "notes": "unk · reel_to_reel remaster",
       "version": "AUD",
       "format": "FLAC"
     },
