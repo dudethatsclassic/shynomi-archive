@@ -22,8 +22,8 @@ const ARTIST_DATA = {
       "location": "Philadelphia, PA",
       "venue": "Penn's Landing",
       "notes": "Jam · Nakamichi cm700's · tunegrabber",
-      "version": "",
-      "format": ""
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2018,
