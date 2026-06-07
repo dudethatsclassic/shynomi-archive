@@ -21,11 +21,15 @@
       <div class="container">
         <p>A personal collection of live recordings</p>
         <div style="margin-top: 20px; display: flex; gap: 10px; justify-content: flex-start; flex-wrap: wrap; align-items: center;">
-          <a href="search.html" class="home-btn-gold">Search all shows →</a>
+          <button class="home-btn-gold" id="show-search-btn" onclick="toggleShowSearch()">Search all shows →</button>
           <button class="home-btn-gold" id="artist-search-btn" onclick="toggleArtistSearch()">Search all artists →</button>
         </div>
+        <div id="show-search-wrap" style="display:none; margin-top: 16px;">
+          <input id="show-search-input" type="text" placeholder="Search by venue, city, artist, taper, or gear…" class="artist-search-input" oninput="filterShows(this.value)" />
+          <div id="show-search-results" style="margin-top: 12px;"></div>
+        </div>
         <div id="artist-search-wrap" style="display:none; margin-top: 16px;">
-          <input id="artist-search-input" type="text" placeholder="Type an artist name…" class="artist-search-input" oninput="filterArtists(this.value)" autofocus />
+          <input id="artist-search-input" type="text" placeholder="Type an artist name…" class="artist-search-input" oninput="filterArtists(this.value)" />
         </div>
       </div>
     </div>
@@ -124,6 +128,65 @@
     ARTISTS
       .filter(a => a.id && !featuredSet.has(a.id))
       .forEach(a => otherGrid.appendChild(makeCard(a)));
+
+    // ── Show search ──────────────────────────────────────────
+    let allShowsLoaded = false;
+
+    function toggleShowSearch() {
+      const wrap  = document.getElementById('show-search-wrap');
+      const input = document.getElementById('show-search-input');
+      const open  = wrap.style.display === 'none';
+      wrap.style.display = open ? 'block' : 'none';
+      if (open) {
+        input.value = '';
+        document.getElementById('show-search-results').innerHTML = '';
+        // Lazy-load all-shows.js on first open
+        if (!allShowsLoaded) {
+          const s = document.createElement('script');
+          s.src = 'data/all-shows.js';
+          s.onload = () => { allShowsLoaded = true; };
+          document.head.appendChild(s);
+        }
+        input.focus();
+      }
+    }
+
+    function escapeHtml(s) {
+      return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    function filterShows(query) {
+      const container = document.getElementById('show-search-results');
+      const q = query.trim().toLowerCase();
+      if (!q) { container.innerHTML = ''; return; }
+      if (typeof ALL_SHOWS === 'undefined') {
+        container.innerHTML = '<p style="color:#888;">Loading…</p>';
+        setTimeout(() => filterShows(query), 200);
+        return;
+      }
+      const matches = ALL_SHOWS.filter(show =>
+        (show.venue  || '').toLowerCase().includes(q) ||
+        (show.location || '').toLowerCase().includes(q) ||
+        (show.artist || '').toLowerCase().includes(q) ||
+        (show.taper  || '').toLowerCase().includes(q) ||
+        (show.gear   || '').toLowerCase().includes(q)
+      );
+      if (matches.length === 0) {
+        container.innerHTML = '<p style="color:#888; padding: 8px 0;">No results found.</p>';
+        return;
+      }
+      container.innerHTML = `
+        <div style="font-size:0.8rem;font-weight:600;color:#888;text-transform:uppercase;letter-spacing:.05em;margin-bottom:12px;">${matches.length} result${matches.length !== 1 ? 's' : ''}</div>
+        ${matches.map(show => `
+          <div style="padding:10px 0;border-bottom:1px solid rgba(255,255,255,0.07);display:flex;justify-content:space-between;align-items:flex-start;gap:16px;">
+            <div>
+              <div style="font-size:0.9rem;font-weight:500;">${escapeHtml(show.venue)}</div>
+              <div style="font-size:0.75rem;color:#888;margin-top:2px;">${escapeHtml(show.artist)}</div>
+              ${show.gear || show.taper ? `<div style="font-size:0.75rem;color:#888;margin-top:2px;">${show.gear ? 'Gear: ' + escapeHtml(show.gear) + (show.taper ? ' · ' : '') : ''}${show.taper ? 'Taper: ' + escapeHtml(show.taper) : ''}</div>` : ''}
+            </div>
+            <div style="font-size:0.78rem;color:#888;white-space:nowrap;">${escapeHtml(show.date)}</div>
+          </div>`).join('')}`;
+    }
 
     function toggleOther() {
       const section = document.getElementById('other-section');
