@@ -12683,8 +12683,8 @@ const ARTIST_DATA = {
       "location": "San Francisco, CA",
       "venue": "Outside Lands Festival",
       "notes": "unk",
-      "version": "AUD",
-      "format": ""
+      "version": "MIX",
+      "format": "FLAC"
     },
     {
       "year": 2008,
