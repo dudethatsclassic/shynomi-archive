@@ -1375,7 +1375,7 @@ const ARTIST_DATA = {
       "location": "Stuttgart, Germany",
       "venue": "Longhorn Country & Western Saloon",
       "notes": "unk",
-      "version": "",
+      "version": "AUD",
       "format": ""
     },
     {
