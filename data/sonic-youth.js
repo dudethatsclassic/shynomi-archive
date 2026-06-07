@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "sonic-youth",
   "name": "Sonic Youth",
   "drive": "F",
-  "showCount": 298,
+  "showCount": 299,
   "firstYear": 1981,
   "lastYear": 2011,
   "years": [
@@ -2378,6 +2378,19 @@ const ARTIST_DATA = {
       "notes": "DAT(M) · unk",
       "version": "AUD",
       "format": "FLAC"
+    },
+    {
+      "year": 1998,
+      "month": 5,
+      "day": 19,
+      "dateStr": "5-19-1998",
+      "city": "Denver",
+      "state": "CO",
+      "location": "Denver, CO",
+      "venue": "Ogden Theatre",
+      "notes": "jimhucks",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1998,
