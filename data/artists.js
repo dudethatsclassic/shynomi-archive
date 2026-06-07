@@ -758,7 +758,7 @@ const ARTISTS = [
   {
     "id": "elton-john",
     "name": "Elton John",
-    "showCount": 6,
+    "showCount": 7,
     "firstYear": 1970,
     "lastYear": 1980
   },
@@ -1955,7 +1955,7 @@ const ARTISTS = [
   {
     "id": "paramore",
     "name": "Paramore",
-    "showCount": 9,
+    "showCount": 12,
     "firstYear": 2009,
     "lastYear": 2024
   },
@@ -2879,9 +2879,9 @@ const ARTISTS = [
   {
     "id": "the-temptations",
     "name": "The Temptations",
-    "showCount": 1,
+    "showCount": 2,
     "firstYear": 1982,
-    "lastYear": 1982
+    "lastYear": 1984
   },
   {
     "id": "the-urge",
