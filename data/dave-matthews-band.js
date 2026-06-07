@@ -3708,7 +3708,7 @@ const ARTIST_DATA = {
       "venue": "Coastal Credit Union Music Park at Walnut Creek",
       "notes": "Neumann AK50 · dennisbryant",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC 24"
     }
   ],
   "misc": [
