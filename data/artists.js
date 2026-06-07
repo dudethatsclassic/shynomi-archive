@@ -478,7 +478,7 @@ const ARTISTS = [
   {
     "id": "claypool-gold",
     "name": "Claypool Gold",
-    "showCount": 5,
+    "showCount": 6,
     "firstYear": 2024,
     "lastYear": 2026
   },
