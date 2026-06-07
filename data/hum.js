@@ -800,7 +800,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Palladium",
       "notes": "SP-CMC-8 · fried_morals",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC 24"
     }
   ],
   "misc": []
