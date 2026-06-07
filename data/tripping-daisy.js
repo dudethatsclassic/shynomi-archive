@@ -34,7 +34,7 @@ const ARTIST_DATA = {
       "venue": "Cafe du Nord",
       "notes": "Line Audio CM4s · unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC"
     }
   ],
   "misc": []
