@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "tool",
   "name": "Tool",
   "drive": "D",
-  "showCount": 1398,
+  "showCount": 1399,
   "firstYear": 1991,
   "lastYear": 2025,
   "years": [
@@ -2777,6 +2777,19 @@ const ARTIST_DATA = {
       "location": "Corpus Christi, TX",
       "venue": "Texas Sky Park",
       "notes": "CSB · aleal5687",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1997,
+      "month": 8,
+      "day": 3,
+      "dateStr": "8-3-1997",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "location": "Corpus Christi, TX",
+      "venue": "Texas Sky Park",
+      "notes": "Core Sound Binaurals · unk · reel_to_reel remaster",
       "version": "AUD",
       "format": "FLAC"
     },
