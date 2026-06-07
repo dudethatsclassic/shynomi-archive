@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "radiohead",
   "name": "Radiohead",
   "drive": "A",
-  "showCount": 1225,
+  "showCount": 1226,
   "firstYear": 1986,
   "lastYear": 2025,
   "years": [
@@ -12672,6 +12672,19 @@ const ARTIST_DATA = {
       "notes": "Outside · mrplayer1",
       "version": "SBD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2008,
+      "month": 8,
+      "day": 22,
+      "dateStr": "8-22-2008",
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "Outside Lands Festival",
+      "notes": "unk",
+      "version": "AUD",
+      "format": ""
     },
     {
       "year": 2008,
