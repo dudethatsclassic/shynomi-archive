@@ -3899,7 +3899,7 @@ const ARTIST_DATA = {
       "venue": "Chastain Park Amphitheater",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
