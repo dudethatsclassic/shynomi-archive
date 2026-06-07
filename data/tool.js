@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "tool",
   "name": "Tool",
   "drive": "D",
-  "showCount": 1395,
+  "showCount": 1396,
   "firstYear": 1991,
   "lastYear": 2025,
   "years": [
@@ -2361,6 +2361,19 @@ const ARTIST_DATA = {
       "location": "Los Angeles, CA",
       "venue": "Universal Amphitheater",
       "notes": "Sony ECM-959A · mike",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1996,
+      "month": 12,
+      "day": 19,
+      "dateStr": "12-19-1996",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "Universal Amphitheater",
+      "notes": "Sonic Studios DSM6 · unk · reel_to_reel remaster",
       "version": "AUD",
       "format": "FLAC"
     },
