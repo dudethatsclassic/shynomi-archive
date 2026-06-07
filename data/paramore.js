@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "paramore",
   "name": "Paramore",
   "drive": "D",
-  "showCount": 9,
+  "showCount": 11,
   "firstYear": 2009,
   "lastYear": 2024,
   "years": [
@@ -17,6 +17,19 @@ const ARTIST_DATA = {
     {
       "year": 2009,
       "month": 7,
+      "day": 10,
+      "dateStr": "7-10-2009",
+      "city": "Noblesville",
+      "state": "IN",
+      "location": "Noblesville, IN",
+      "venue": "Verizon Wireless Music Center",
+      "notes": "SP-CMC-8 · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2009,
+      "month": 7,
       "day": 13,
       "dateStr": "7-13-2009",
       "city": "Bristow",
@@ -24,6 +37,19 @@ const ARTIST_DATA = {
       "location": "Bristow, VA",
       "venue": "Nissan Pavilion",
       "notes": "CA-14s · travelinbeat",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2009,
+      "month": 11,
+      "day": 3,
+      "dateStr": "11-3-2009",
+      "city": "St. Louis",
+      "state": "MO",
+      "location": "St. Louis, MO",
+      "venue": "The Pageant",
+      "notes": "Zoom H2 · unk",
       "version": "AUD",
       "format": "FLAC"
     },
