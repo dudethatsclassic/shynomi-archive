@@ -3033,9 +3033,9 @@ const ARTISTS = [
   {
     "id": "tripping-daisy",
     "name": "Tripping Daisy",
-    "showCount": 1,
+    "showCount": 2,
     "firstYear": 2025,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "turnstile",
@@ -3096,7 +3096,7 @@ const ARTISTS = [
   {
     "id": "veruca-salt",
     "name": "Veruca Salt",
-    "showCount": 21,
+    "showCount": 22,
     "firstYear": 1994,
     "lastYear": 2024
   },
