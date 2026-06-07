@@ -18275,7 +18275,7 @@ const ARTIST_DATA = {
       "venue": "Sonic Temple Art & Music Festival",
       "notes": "Main · AT853 · zeegrizzle",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC"
     }
   ],
   "misc": [
