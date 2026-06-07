@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "tool",
   "name": "Tool",
   "drive": "D",
-  "showCount": 1396,
+  "showCount": 1397,
   "firstYear": 1991,
   "lastYear": 2025,
   "years": [
@@ -2517,6 +2517,19 @@ const ARTIST_DATA = {
       "location": "Fitchburg, MA",
       "venue": "Wallace Civic Center",
       "notes": "Sanken COS-11",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1997,
+      "month": 2,
+      "day": 28,
+      "dateStr": "2-28-1997",
+      "city": "Fitchburg",
+      "state": "MA",
+      "location": "Fitchburg, MA",
+      "venue": "Wallace Civic Center",
+      "notes": "Sanken COS-11 · unk · reel_to_reel remaster",
       "version": "AUD",
       "format": "FLAC"
     },
