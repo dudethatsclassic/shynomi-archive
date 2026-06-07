@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "mudhoney",
   "name": "Mudhoney",
   "drive": "A",
-  "showCount": 169,
+  "showCount": 170,
   "firstYear": 1988,
   "lastYear": 2025,
   "years": [
@@ -1868,6 +1868,19 @@ const ARTIST_DATA = {
       "venue": "Marymoor Park",
       "notes": "SP20 · M · Edirol R-09 · mz",
       "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2008,
+      "month": 12,
+      "day": 12,
+      "dateStr": "12-12-2008",
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "The Independent",
+      "notes": "Edirol R-09 · unk",
+      "version": "",
       "format": "FLAC"
     },
     {
