@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "tool",
   "name": "Tool",
   "drive": "D",
-  "showCount": 1400,
+  "showCount": 1401,
   "firstYear": 1991,
   "lastYear": 2025,
   "years": [
@@ -8394,6 +8394,19 @@ const ARTIST_DATA = {
       "venue": "Rushmore Plaza Civic Center",
       "notes": "Sony PCM-M1 · anonymous",
       "version": "IEM",
+      "format": "FLAC"
+    },
+    {
+      "year": 2002,
+      "month": 10,
+      "day": 10,
+      "dateStr": "10-10-2002",
+      "city": "Rapid City",
+      "state": "SD",
+      "location": "Rapid City, SD",
+      "venue": "Rushmore Plaza Civic Center",
+      "notes": "unk · reel_to_reel remaster",
+      "version": "AUD",
       "format": "FLAC"
     },
     {
