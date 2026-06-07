@@ -366,9 +366,9 @@ const ARTISTS = [
   {
     "id": "bush",
     "name": "Bush",
-    "showCount": 91,
+    "showCount": 92,
     "firstYear": 1995,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "butthole-surfers",
