@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "tool",
   "name": "Tool",
   "drive": "D",
-  "showCount": 1402,
+  "showCount": 1403,
   "firstYear": 1991,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1991,
     1992,
@@ -34,7 +34,8 @@ const ARTIST_DATA = {
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -18262,6 +18263,19 @@ const ARTIST_DATA = {
       "notes": "Eastern",
       "version": "MIX",
       "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 17,
+      "dateStr": "5-17-2026",
+      "city": "Columbus",
+      "state": "OH",
+      "location": "Columbus, OH",
+      "venue": "Sonic Temple Art & Music Festival",
+      "notes": "Main · AT853 · zeegrizzle",
+      "version": "AUD",
+      "format": ""
     }
   ],
   "misc": [
