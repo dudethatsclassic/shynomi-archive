@@ -1918,7 +1918,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Ventura, CA",
       "venue": "Ventura Theater",
-      "notes": "SS-DSM-6 · unk · Remaster",
+      "notes": "SS-DSM-6 · unk",
       "version": "AUD",
       "format": "FLAC"
     },
