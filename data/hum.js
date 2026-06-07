@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "hum",
   "name": "Hum",
   "drive": "C",
-  "showCount": 56,
+  "showCount": 57,
   "firstYear": 1994,
   "lastYear": 2017,
   "years": [
@@ -656,6 +656,19 @@ const ARTIST_DATA = {
       "venue": "Regent Theatre",
       "notes": "DPA4061s · unk",
       "version": "AUD #2",
+      "format": "FLAC"
+    },
+    {
+      "year": 2015,
+      "month": 9,
+      "day": 17,
+      "dateStr": "9-17-2015",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "The Regent Theater",
+      "notes": "DPA 4061 · tayepurr",
+      "version": "",
       "format": "FLAC"
     },
     {
