@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "claypool-gold",
   "name": "Claypool Gold",
   "drive": "F",
-  "showCount": 5,
+  "showCount": 6,
   "firstYear": 2024,
   "lastYear": 2026,
   "years": [
@@ -72,6 +72,19 @@ const ARTIST_DATA = {
       "location": "Kansas City, MO",
       "venue": "Starlight Theater",
       "notes": "DPA 4061s · kcmoejoe",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 30,
+      "dateStr": "5-30-2026",
+      "city": "Chesterfield",
+      "state": "MO",
+      "location": "Chesterfield, MO",
+      "venue": "The Factory",
+      "notes": "Schoeps MK4V · unk",
       "version": "AUD",
       "format": "FLAC 24"
     }
