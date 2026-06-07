@@ -668,7 +668,7 @@ const ARTIST_DATA = {
       "location": "Los Angeles, CA",
       "venue": "The Regent Theater",
       "notes": "DPA 4061 · tayepurr",
-      "version": "",
+      "version": "AUD",
       "format": "FLAC"
     },
     {
