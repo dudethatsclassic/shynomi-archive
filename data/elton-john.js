@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "elton-john",
   "name": "Elton John",
   "drive": "D",
-  "showCount": 6,
+  "showCount": 7,
   "firstYear": 1970,
   "lastYear": 1980,
   "years": [
@@ -38,6 +38,19 @@ const ARTIST_DATA = {
       "venue": "Notre Dame University",
       "notes": "Athletic",
       "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1974,
+      "month": 10,
+      "day": 13,
+      "dateStr": "10-13-1974",
+      "city": "Seattle",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "Seattle Center Coliseum",
+      "notes": "Sony ECM-22P · jems",
+      "version": "AUD",
       "format": "FLAC"
     },
     {
