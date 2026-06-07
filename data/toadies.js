@@ -2,16 +2,17 @@ const ARTIST_DATA = {
   "id": "toadies",
   "name": "Toadies",
   "drive": "B",
-  "showCount": 17,
+  "showCount": 18,
   "firstYear": 1994,
-  "lastYear": 2017,
+  "lastYear": 2026,
   "years": [
     1994,
     1995,
     1996,
     1997,
     2011,
-    2017
+    2017,
+    2026
   ],
   "shows": [
     {
@@ -232,6 +233,19 @@ const ARTIST_DATA = {
       "location": "Tampa, FL",
       "venue": "The Ritz Ybor",
       "notes": "Zoom H1 · besley",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 29,
+      "dateStr": "5-29-2026",
+      "city": "Cincinnati",
+      "state": "OH",
+      "location": "Cincinnati, OH",
+      "venue": "Bogart's",
+      "notes": "SP-CMC-8 · charlesdeweycoleiv",
       "version": "AUD",
       "format": "FLAC"
     }
