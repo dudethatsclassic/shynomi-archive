@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "foo-fighters",
   "name": "Foo Fighters",
   "drive": "C",
-  "showCount": 1068,
+  "showCount": 1069,
   "firstYear": 1995,
   "lastYear": 2026,
   "years": [
@@ -13897,6 +13897,19 @@ const ARTIST_DATA = {
       "notes": "YouTube Livestream · 1080i · vibriodxire",
       "version": "PRO #1",
       "format": "MKV"
+    },
+    {
+      "year": 2026,
+      "month": 1,
+      "day": 24,
+      "dateStr": "1-24-2026",
+      "city": "Launceston",
+      "state": "Australia",
+      "location": "Launceston, Australia",
+      "venue": "UTAS Stadium",
+      "notes": "SP-CMC-8 · bleedingme",
+      "version": "AUD",
+      "format": ""
     },
     {
       "year": 2026,
