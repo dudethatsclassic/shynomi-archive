@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "toad-the-wet-sprocket",
   "name": "Toad the Wet Sprocket",
   "drive": "F",
-  "showCount": 337,
+  "showCount": 338,
   "firstYear": 1986,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1986,
     1988,
@@ -37,7 +37,8 @@ const ARTIST_DATA = {
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -4419,6 +4420,19 @@ const ARTIST_DATA = {
       "venue": "State Theatre",
       "notes": "Sony PCM-A10 · darren phaneuf",
       "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 23,
+      "dateStr": "6-23-2026",
+      "city": "Various Locales",
+      "state": "CA",
+      "location": "Various Locales, CA",
+      "venue": "Talk Shop Live",
+      "notes": "shaneecalhoon",
+      "version": "",
       "format": "FLAC"
     }
   ],
