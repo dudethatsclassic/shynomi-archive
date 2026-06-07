@@ -1232,7 +1232,7 @@ const ARTIST_DATA = {
       "location": "Nürburg, Germany",
       "venue": "Rock Am Ring",
       "notes": "Utopia · unk",
-      "version": "",
+      "version": "PRO",
       "format": "MP4"
     }
   ],
