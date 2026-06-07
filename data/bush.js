@@ -1219,8 +1219,8 @@ const ARTIST_DATA = {
       "location": "Napa, CA",
       "venue": "Napa Music Hall",
       "notes": "SP-CMC-8 · fried_morals",
-      "version": "",
-      "format": ""
+      "version": "AUD",
+      "format": "FLAC 24"
     }
   ],
   "misc": [
