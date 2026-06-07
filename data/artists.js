@@ -835,9 +835,9 @@ const ARTISTS = [
   {
     "id": "feeder",
     "name": "Feeder",
-    "showCount": 6,
+    "showCount": 7,
     "firstYear": 2000,
-    "lastYear": 2024
+    "lastYear": 2026
   },
   {
     "id": "fig-dish",
