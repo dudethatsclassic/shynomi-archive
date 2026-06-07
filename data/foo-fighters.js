@@ -13909,7 +13909,7 @@ const ARTIST_DATA = {
       "venue": "UTAS Stadium",
       "notes": "SP-CMC-8 · bleedingme",
       "version": "AUD",
-      "format": ""
+      "format": "FLAC 24"
     },
     {
       "year": 2026,
