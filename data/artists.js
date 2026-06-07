@@ -828,8 +828,8 @@ const ARTISTS = [
   {
     "id": "fastball",
     "name": "Fastball",
-    "showCount": 3,
-    "firstYear": 2018,
+    "showCount": 4,
+    "firstYear": 1999,
     "lastYear": 2025
   },
   {
@@ -2494,9 +2494,9 @@ const ARTISTS = [
   {
     "id": "sponge",
     "name": "Sponge",
-    "showCount": 17,
+    "showCount": 18,
     "firstYear": 1995,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "squarepusher",
