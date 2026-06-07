@@ -1089,7 +1089,7 @@ const ARTISTS = [
     "name": "Hum",
     "showCount": 58,
     "firstYear": 1994,
-    "lastYear": 2017
+    "lastYear": 2026
   },
   {
     "id": "ice-cube",
