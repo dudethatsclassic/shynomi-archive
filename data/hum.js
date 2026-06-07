@@ -4,7 +4,7 @@ const ARTIST_DATA = {
   "drive": "C",
   "showCount": 58,
   "firstYear": 1994,
-  "lastYear": 2017,
+  "lastYear": 2026,
   "years": [
     1994,
     1995,
@@ -18,7 +18,8 @@ const ARTIST_DATA = {
     2011,
     2015,
     2016,
-    2017
+    2017,
+    2026
   ],
   "shows": [
     {
@@ -763,17 +764,17 @@ const ARTIST_DATA = {
       "format": "FLAC"
     },
     {
-      "year": 2017,
-      "month": 10,
-      "day": 26,
-      "dateStr": "10-26-2017",
-      "city": "Nashville",
-      "state": "TN",
-      "location": "Nashville, TN",
-      "venue": "The Mercy Lounge",
-      "notes": "SP-CMC-8 · allan ramsey",
-      "version": "",
-      "format": ""
+      "year": 2026,
+      "month": 5,
+      "day": 29,
+      "dateStr": "5-29-2026",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "Hollywood Palladium",
+      "notes": "DPA 4063 · tayepurr",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ],
   "misc": []
