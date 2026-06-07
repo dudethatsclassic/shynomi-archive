@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "foo-fighters",
   "name": "Foo Fighters",
   "drive": "C",
-  "showCount": 1069,
+  "showCount": 1070,
   "firstYear": 1995,
   "lastYear": 2026,
   "years": [
@@ -13936,6 +13936,19 @@ const ARTIST_DATA = {
       "notes": "Aiwa CM30 · jc productions",
       "version": "AUD",
       "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 23,
+      "dateStr": "5-23-2026",
+      "city": "Napa",
+      "state": "CA",
+      "location": "Napa, CA",
+      "venue": "Bottlerock Festival",
+      "notes": "Prudential · SP-CMC-8 · unk",
+      "version": "",
+      "format": ""
     }
   ],
   "misc": [
