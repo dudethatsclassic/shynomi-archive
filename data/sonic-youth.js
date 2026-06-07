@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "sonic-youth",
   "name": "Sonic Youth",
   "drive": "F",
-  "showCount": 297,
+  "showCount": 298,
   "firstYear": 1981,
   "lastYear": 2011,
   "years": [
@@ -1364,6 +1364,19 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC"
+    },
+    {
+      "year": 1991,
+      "month": 8,
+      "day": 29,
+      "dateStr": "8-29-1991",
+      "city": "Stuttgart",
+      "state": "Germany",
+      "location": "Stuttgart, Germany",
+      "venue": "Longhorn Country & Western Saloon",
+      "notes": "unk",
+      "version": "",
+      "format": ""
     },
     {
       "year": 1991,
