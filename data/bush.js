@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "bush",
   "name": "Bush",
   "drive": "B",
-  "showCount": 91,
+  "showCount": 92,
   "firstYear": 1995,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1995,
     1996,
@@ -22,7 +22,8 @@ const ARTIST_DATA = {
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -1207,6 +1208,19 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 · farve4",
       "version": "AUD",
       "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 24,
+      "dateStr": "5-24-2026",
+      "city": "Napa",
+      "state": "CA",
+      "location": "Napa, CA",
+      "venue": "Napa Music Hall",
+      "notes": "SP-CMC-8 · fried_morals",
+      "version": "",
+      "format": ""
     }
   ],
   "misc": [
