@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "mudhoney",
   "name": "Mudhoney",
   "drive": "A",
-  "showCount": 170,
+  "showCount": 171,
   "firstYear": 1988,
   "lastYear": 2025,
   "years": [
@@ -2036,6 +2036,19 @@ const ARTIST_DATA = {
       "location": "Bristol, UK",
       "venue": "02 Acedemy",
       "notes": "AT898 · unk",
+      "version": "AUD #1",
+      "format": "FLAC"
+    },
+    {
+      "year": 2015,
+      "month": 5,
+      "day": 2,
+      "dateStr": "5-2-2015",
+      "city": "Rouen",
+      "state": "France",
+      "location": "Rouen, France",
+      "venue": "Le 106",
+      "notes": "CA-11c · kurddt",
       "version": "AUD #1",
       "format": "FLAC"
     },
