@@ -46,7 +46,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "unk",
+      "notes": "ANA(M) · Sony 929 · scott simpson",
       "version": "AUD",
       "format": "FLAC"
     },
