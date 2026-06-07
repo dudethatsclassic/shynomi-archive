@@ -3898,8 +3898,8 @@ const ARTIST_DATA = {
       "location": "Atlanta, GA",
       "venue": "Chastain Park Amphitheater",
       "notes": "unk",
-      "version": "",
-      "format": ""
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2022,
