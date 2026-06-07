@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "tool",
   "name": "Tool",
   "drive": "D",
-  "showCount": 1399,
+  "showCount": 1400,
   "firstYear": 1991,
   "lastYear": 2025,
   "years": [
@@ -7302,6 +7302,19 @@ const ARTIST_DATA = {
       "venue": "Pepsi Center",
       "notes": "ALD remaster",
       "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2002,
+      "month": 7,
+      "day": 21,
+      "dateStr": "7-21-2002",
+      "city": "Denver",
+      "state": "CO",
+      "location": "Denver, CO",
+      "venue": "Pepsi Center",
+      "notes": "unk · reel_to_reel remaster",
+      "version": "AUD",
       "format": "FLAC"
     },
     {
