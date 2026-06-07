@@ -2445,7 +2445,7 @@ const ARTISTS = [
   {
     "id": "sonic-youth",
     "name": "Sonic Youth",
-    "showCount": 298,
+    "showCount": 299,
     "firstYear": 1981,
     "lastYear": 2011
   },
