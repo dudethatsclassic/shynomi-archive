@@ -870,7 +870,7 @@ const ARTISTS = [
   {
     "id": "foo-fighters",
     "name": "Foo Fighters",
-    "showCount": 1068,
+    "showCount": 1069,
     "firstYear": 1995,
     "lastYear": 2026
   },
