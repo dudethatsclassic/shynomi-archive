@@ -1880,7 +1880,7 @@ const ARTIST_DATA = {
       "location": "San Francisco, CA",
       "venue": "The Independent",
       "notes": "Edirol R-09 · unk",
-      "version": "",
+      "version": "AUD #1",
       "format": "FLAC"
     },
     {
