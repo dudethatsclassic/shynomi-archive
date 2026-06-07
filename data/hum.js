@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "hum",
   "name": "Hum",
   "drive": "C",
-  "showCount": 59,
+  "showCount": 60,
   "firstYear": 1994,
   "lastYear": 2026,
   "years": [
@@ -786,6 +786,19 @@ const ARTIST_DATA = {
       "location": "Hollywood, CA",
       "venue": "Palladium",
       "notes": "Schoeps MK4 · lachtna productions",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 30,
+      "dateStr": "5-30-2026",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "Hollywood Palladium",
+      "notes": "SP-CMC-8 · fried_morals",
       "version": "AUD",
       "format": "FLAC"
     }
