@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "tool",
   "name": "Tool",
   "drive": "D",
-  "showCount": 1397,
+  "showCount": 1398,
   "firstYear": 1991,
   "lastYear": 2025,
   "years": [
@@ -2621,6 +2621,19 @@ const ARTIST_DATA = {
       "location": "Sydney, Australia",
       "venue": "Hordern Pavilion",
       "notes": "CSB · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1997,
+      "month": 4,
+      "day": 11,
+      "dateStr": "4-11-1997",
+      "city": "Sydney",
+      "state": "Australia",
+      "location": "Sydney, Australia",
+      "venue": "Hordern Pavilion",
+      "notes": "Core Sound Binaurals · unk · reel_to_reel remaster",
       "version": "AUD",
       "format": "FLAC"
     },
