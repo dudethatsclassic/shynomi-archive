@@ -1931,7 +1931,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Ventura, CA",
       "venue": "The Ventura Theater",
-      "notes": "Sonic Studios DSM-6 · unk · Remaster",
+      "notes": "Sonic Studios DSM-6 · unk · reel_to_reel remaster",
       "version": "AUD",
       "format": "FLAC"
     },
