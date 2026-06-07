@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "dave-matthews-band",
   "name": "Dave Matthews Band",
   "drive": "E",
-  "showCount": 280,
+  "showCount": 281,
   "firstYear": 1989,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1989,
     1991,
@@ -40,7 +40,8 @@ const ARTIST_DATA = {
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -3682,6 +3683,19 @@ const ARTIST_DATA = {
       "notes": "AKG CK 63 · jason johnson",
       "version": "AUD",
       "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 26,
+      "dateStr": "5-26-2026",
+      "city": "Tampa",
+      "state": "FL",
+      "location": "Tampa, FL",
+      "venue": "Mid Florida Credit Union Amphitheatre At The Florida State Fairgrounds",
+      "notes": "Schoeps CCM4 · z-man",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
   ],
   "misc": [
