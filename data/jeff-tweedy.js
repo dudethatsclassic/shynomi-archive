@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "jeff-tweedy",
   "name": "Jeff Tweedy",
   "drive": "E",
-  "showCount": 228,
+  "showCount": 229,
   "firstYear": 1994,
   "lastYear": 2026,
   "years": [
@@ -3001,6 +3001,19 @@ const ARTIST_DATA = {
       "location": "Victoria, BC",
       "venue": "Royal Theatre",
       "notes": "iPhone 7 · chris lawrence",
+      "version": "AUD",
+      "format": ""
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 30,
+      "dateStr": "5-30-2026",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "The Vic",
+      "notes": "CA-14 · km",
       "version": "AUD",
       "format": ""
     }
