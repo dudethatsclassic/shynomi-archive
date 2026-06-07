@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "primus",
   "name": "Primus",
   "drive": "F",
-  "showCount": 802,
+  "showCount": 803,
   "firstYear": 1987,
   "lastYear": 2025,
   "years": [
@@ -8191,6 +8191,19 @@ const ARTIST_DATA = {
       "location": "Milan, Italy",
       "venue": "Carroponte",
       "notes": "Soundman OKM-IIR · elliot",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2015,
+      "month": 6,
+      "day": 17,
+      "dateStr": "6-17-2015",
+      "city": "Hamburg",
+      "state": "Germany",
+      "location": "Hamburg, Germany",
+      "venue": "Docks",
+      "notes": "OKM-IIR · elliot",
       "version": "AUD",
       "format": "FLAC"
     },
