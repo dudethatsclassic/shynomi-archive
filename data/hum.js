@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "hum",
   "name": "Hum",
   "drive": "C",
-  "showCount": 57,
+  "showCount": 58,
   "firstYear": 1994,
   "lastYear": 2017,
   "years": [
@@ -761,6 +761,19 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 · allan ramsey",
       "version": "AUD",
       "format": "FLAC"
+    },
+    {
+      "year": 2017,
+      "month": 10,
+      "day": 26,
+      "dateStr": "10-26-2017",
+      "city": "Nashville",
+      "state": "TN",
+      "location": "Nashville, TN",
+      "venue": "The Mercy Lounge",
+      "notes": "SP-CMC-8 · allan ramsey",
+      "version": "",
+      "format": ""
     }
   ],
   "misc": []
