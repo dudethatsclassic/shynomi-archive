@@ -2109,7 +2109,7 @@ const ARTISTS = [
   {
     "id": "radiohead",
     "name": "Radiohead",
-    "showCount": 1225,
+    "showCount": 1226,
     "firstYear": 1986,
     "lastYear": 2025
   },
