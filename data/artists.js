@@ -2998,9 +2998,9 @@ const ARTISTS = [
   {
     "id": "tool",
     "name": "Tool",
-    "showCount": 1402,
+    "showCount": 1403,
     "firstYear": 1991,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "tori-amos",
