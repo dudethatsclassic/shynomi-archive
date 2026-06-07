@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "bush",
   "name": "Bush",
   "drive": "B",
-  "showCount": 92,
+  "showCount": 93,
   "firstYear": 1995,
   "lastYear": 2026,
   "years": [
@@ -1221,6 +1221,19 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 · fried_morals",
       "version": "AUD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 5,
+      "dateStr": "6-5-2026",
+      "city": "Nürburg",
+      "state": "Germany",
+      "location": "Nürburg, Germany",
+      "venue": "Rock Am Ring",
+      "notes": "Utopia · unk",
+      "version": "",
+      "format": ""
     }
   ],
   "misc": [
