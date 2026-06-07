@@ -2,11 +2,12 @@ const ARTIST_DATA = {
   "id": "the-temptations",
   "name": "The Temptations",
   "drive": "D",
-  "showCount": 1,
+  "showCount": 2,
   "firstYear": 1982,
-  "lastYear": 1982,
+  "lastYear": 1984,
   "years": [
-    1982
+    1982,
+    1984
   ],
   "shows": [
     {
@@ -19,6 +20,19 @@ const ARTIST_DATA = {
       "location": "Owings Mills, MD",
       "venue": "Painters Mill Music Fair",
       "notes": "master · rs archives",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1984,
+      "month": 10,
+      "day": null,
+      "dateStr": "10-XX-1984",
+      "city": "Milano",
+      "state": "Italy",
+      "location": "Milano, Italy",
+      "venue": "RAI 3",
+      "notes": "unk",
       "version": "SBD",
       "format": "FLAC"
     }
