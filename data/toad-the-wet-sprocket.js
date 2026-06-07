@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "toad-the-wet-sprocket",
   "name": "Toad the Wet Sprocket",
   "drive": "F",
-  "showCount": 336,
+  "showCount": 337,
   "firstYear": 1986,
   "lastYear": 2025,
   "years": [
@@ -3887,6 +3887,19 @@ const ARTIST_DATA = {
       "notes": "Sony PCM-A10 · ryan fisher",
       "version": "AUD",
       "format": "FLAC"
+    },
+    {
+      "year": 2022,
+      "month": 6,
+      "day": 4,
+      "dateStr": "6-4-2022",
+      "city": "Atlanta",
+      "state": "GA",
+      "location": "Atlanta, GA",
+      "venue": "Chastain Park Amphitheater",
+      "notes": "unk",
+      "version": "",
+      "format": ""
     },
     {
       "year": 2022,
