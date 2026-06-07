@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "linkin-park",
   "name": "Linkin Park",
   "drive": "B",
-  "showCount": 166,
+  "showCount": 167,
   "firstYear": 2000,
   "lastYear": 2026,
   "years": [
@@ -2184,6 +2184,19 @@ const ARTIST_DATA = {
       "notes": "DPA 4061 · shadowfax1007",
       "version": "AUD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 1,
+      "dateStr": "6-1-2026",
+      "city": "Hamburg",
+      "state": "Germany",
+      "location": "Hamburg, Germany",
+      "venue": "Volksparkstadion",
+      "notes": "SP-CMC-4U · chesterchaz",
+      "version": "AUD",
+      "format": "FLAC"
     }
   ],
   "misc": [
