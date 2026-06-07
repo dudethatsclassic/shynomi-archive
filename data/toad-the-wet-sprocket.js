@@ -4432,7 +4432,7 @@ const ARTIST_DATA = {
       "location": "Various Locales, CA",
       "venue": "Talk Shop Live",
       "notes": "shaneecalhoon",
-      "version": "",
+      "version": "WEB",
       "format": "FLAC"
     }
   ],
