@@ -2,11 +2,12 @@ const ARTIST_DATA = {
   "id": "paramore",
   "name": "Paramore",
   "drive": "D",
-  "showCount": 11,
+  "showCount": 12,
   "firstYear": 2009,
   "lastYear": 2024,
   "years": [
     2009,
+    2010,
     2013,
     2017,
     2018,
@@ -50,6 +51,19 @@ const ARTIST_DATA = {
       "location": "St. Louis, MO",
       "venue": "The Pageant",
       "notes": "Zoom H2 · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2010,
+      "month": 11,
+      "day": 16,
+      "dateStr": "11-16-2010",
+      "city": "Birmingham",
+      "state": "England",
+      "location": "Birmingham, England",
+      "venue": "LG Arena",
+      "notes": "CA-11 · unk",
       "version": "AUD",
       "format": "FLAC"
     },
