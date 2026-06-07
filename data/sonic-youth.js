@@ -2389,8 +2389,8 @@ const ARTIST_DATA = {
       "location": "Denver, CO",
       "venue": "Ogden Theatre",
       "notes": "jimhucks",
-      "version": "",
-      "format": ""
+      "version": "SBD",
+      "format": "FLAC"
     },
     {
       "year": 1998,
