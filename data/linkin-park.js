@@ -2209,7 +2209,7 @@ const ARTIST_DATA = {
       "venue": "Rock am Ring",
       "notes": "magentamusik",
       "version": "",
-      "format": "MP4"
+      "format": "TS"
     }
   ],
   "misc": [
