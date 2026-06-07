@@ -74,7 +74,7 @@ const ARTIST_DATA = {
       "venue": "Axis",
       "notes": "unk · reel_to_reel remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC 24"
     },
     {
       "year": 1992,
