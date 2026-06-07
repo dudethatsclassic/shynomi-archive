@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "dave-matthews-band",
   "name": "Dave Matthews Band",
   "drive": "E",
-  "showCount": 281,
+  "showCount": 282,
   "firstYear": 1989,
   "lastYear": 2026,
   "years": [
@@ -3694,6 +3694,19 @@ const ARTIST_DATA = {
       "location": "Tampa, FL",
       "venue": "Mid Florida Credit Union Amphitheatre At The Florida State Fairgrounds",
       "notes": "Schoeps CCM4 · z-man",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 5,
+      "dateStr": "6-5-2026",
+      "city": "Raleigh",
+      "state": "NC",
+      "location": "Raleigh, NC",
+      "venue": "Coastal Credit Union Music Park at Walnut Creek",
+      "notes": "Neumann AK50 · dennisbryant",
       "version": "AUD",
       "format": "FLAC"
     }
