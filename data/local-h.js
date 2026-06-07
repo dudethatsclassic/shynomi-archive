@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "local-h",
   "name": "Local H",
   "drive": "B",
-  "showCount": 548,
+  "showCount": 549,
   "firstYear": 1991,
   "lastYear": 2026,
   "years": [
@@ -7161,6 +7161,19 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The King of Clubs",
+      "notes": "SP-CMC-8 · live2cd",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 29,
+      "dateStr": "5-29-2026",
+      "city": "Cincinnati",
+      "state": "OH",
+      "location": "Cincinnati, OH",
+      "venue": "Bogart's",
       "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
       "format": "FLAC 24"
