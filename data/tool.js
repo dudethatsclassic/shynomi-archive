@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "tool",
   "name": "Tool",
   "drive": "D",
-  "showCount": 1401,
+  "showCount": 1402,
   "firstYear": 1991,
   "lastYear": 2025,
   "years": [
@@ -11137,6 +11137,19 @@ const ARTIST_DATA = {
       "venue": "Nationwide Arena",
       "notes": "DAT(M) · DPA 4061 · galen",
       "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2006,
+      "month": 9,
+      "day": 21,
+      "dateStr": "9-21-2006",
+      "city": "Columbus",
+      "state": "OH",
+      "location": "Columbus, OH",
+      "venue": "Nationwide Arena",
+      "notes": "unk · reel_to_reel remaster",
+      "version": "MIX",
       "format": "FLAC"
     },
     {
