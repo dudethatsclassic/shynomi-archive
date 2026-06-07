@@ -2,15 +2,29 @@ const ARTIST_DATA = {
   "id": "fastball",
   "name": "Fastball",
   "drive": "E",
-  "showCount": 3,
-  "firstYear": 2018,
+  "showCount": 4,
+  "firstYear": 1999,
   "lastYear": 2025,
   "years": [
+    1999,
     2018,
     2021,
     2025
   ],
   "shows": [
+    {
+      "year": 1999,
+      "month": 5,
+      "day": 31,
+      "dateStr": "5-31-1999",
+      "city": "Philadelphia",
+      "state": "PA",
+      "location": "Philadelphia, PA",
+      "venue": "Penn's Landing",
+      "notes": "Jam · Nakamichi cm700's · tunegrabber",
+      "version": "",
+      "format": ""
+    },
     {
       "year": 2018,
       "month": 7,
