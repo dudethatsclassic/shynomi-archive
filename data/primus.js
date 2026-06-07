@@ -8205,7 +8205,7 @@ const ARTIST_DATA = {
       "venue": "Docks",
       "notes": "OKM-IIR · elliot",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC 24"
     },
     {
       "year": 2015,
