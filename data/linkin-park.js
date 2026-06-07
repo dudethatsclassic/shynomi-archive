@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "linkin-park",
   "name": "Linkin Park",
   "drive": "B",
-  "showCount": 167,
+  "showCount": 168,
   "firstYear": 2000,
   "lastYear": 2026,
   "years": [
@@ -2197,6 +2197,19 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4U · chesterchaz",
       "version": "AUD",
       "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 5,
+      "dateStr": "6-5-2026",
+      "city": "Nürburg",
+      "state": "Germany",
+      "location": "Nürburg, Germany",
+      "venue": "Rock am Ring",
+      "notes": "magentamusik",
+      "version": "",
+      "format": "MP4"
     }
   ],
   "misc": [
