@@ -208,8 +208,8 @@ const ARTIST_DATA = {
       "location": "Portland, OR",
       "venue": "Mississippi Studios",
       "notes": "WAV(M) · CA-11 · kris sproul",
-      "version": "",
-      "format": ""
+      "version": "AUD",
+      "format": "FLAC"
     },
     {
       "year": 2014,
