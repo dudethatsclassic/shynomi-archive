@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "tool",
   "name": "Tool",
   "drive": "D",
-  "showCount": 1394,
+  "showCount": 1395,
   "firstYear": 1991,
   "lastYear": 2025,
   "years": [
@@ -1919,6 +1919,19 @@ const ARTIST_DATA = {
       "location": "Ventura, CA",
       "venue": "Ventura Theater",
       "notes": "SS-DSM-6 · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1995,
+      "month": 12,
+      "day": 15,
+      "dateStr": "12-15-1995",
+      "city": "Ventura",
+      "state": "CA",
+      "location": "Ventura, CA",
+      "venue": "The Ventura Theater",
+      "notes": "Sonic Studios DSM-6 · unk",
       "version": "AUD",
       "format": "FLAC"
     },
