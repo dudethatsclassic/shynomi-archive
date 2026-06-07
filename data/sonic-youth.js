@@ -1375,8 +1375,8 @@ const ARTIST_DATA = {
       "location": "Stuttgart, Germany",
       "venue": "Longhorn Country & Western Saloon",
       "notes": "unk",
-      "version": "AUD",
-      "format": ""
+      "version": "AUD #1",
+      "format": "FLAC"
     },
     {
       "year": 1991,
