@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "sponge",
   "name": "Sponge",
   "drive": "F",
-  "showCount": 17,
+  "showCount": 18,
   "firstYear": 1995,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1995,
     1996,
@@ -13,7 +13,8 @@ const ARTIST_DATA = {
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -236,6 +237,19 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
       "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 4,
+      "day": 23,
+      "dateStr": "4-23-2026",
+      "city": "Edwardsville",
+      "state": "IL",
+      "location": "Edwardsville, IL",
+      "venue": "The Wildey Theatre",
+      "notes": "Sony PCM-A10 · shanecalhoon",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
   ],
   "misc": []
