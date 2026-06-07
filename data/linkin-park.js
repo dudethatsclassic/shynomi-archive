@@ -2208,7 +2208,7 @@ const ARTIST_DATA = {
       "location": "Nürburg, Germany",
       "venue": "Rock am Ring",
       "notes": "magentamusik",
-      "version": "",
+      "version": "WEB",
       "format": "TS"
     }
   ],
