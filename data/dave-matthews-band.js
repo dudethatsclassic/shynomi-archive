@@ -3695,7 +3695,7 @@ const ARTIST_DATA = {
       "venue": "Mid Florida Credit Union Amphitheatre At The Florida State Fairgrounds",
       "notes": "Schoeps CCM4 · z-man",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC"
     }
   ],
   "misc": [
