@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "failure",
   "name": "Failure",
   "drive": "D",
-  "showCount": 35,
+  "showCount": 37,
   "firstYear": 1994,
   "lastYear": 2026,
   "years": [
@@ -460,6 +460,32 @@ const ARTIST_DATA = {
     },
     {
       "year": 2026,
+      "month": 4,
+      "day": null,
+      "dateStr": "4-XX-2026",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "Apple Music Studios",
+      "notes": "The",
+      "version": "WEB",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 4,
+      "day": 21,
+      "dateStr": "4-21-2026",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "Zebulon Cafe",
+      "notes": "DPA 4063 · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
       "month": 5,
       "day": 3,
       "dateStr": "5-3-2026",
@@ -469,7 +495,7 @@ const ARTIST_DATA = {
       "venue": "Grog Shop",
       "notes": "CA-14 · live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC 24"
     }
   ],
   "misc": []
