@@ -13947,8 +13947,8 @@ const ARTIST_DATA = {
       "location": "Napa, CA",
       "venue": "Bottlerock Festival",
       "notes": "Prudential · SP-CMC-8 · unk",
-      "version": "",
-      "format": ""
+      "version": "AUD",
+      "format": "FLAC 24"
     }
   ],
   "misc": [
