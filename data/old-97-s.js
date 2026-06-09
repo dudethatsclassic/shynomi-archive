@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "old-97-s",
   "name": "Old 97's",
   "drive": "E",
-  "showCount": 6,
+  "showCount": 7,
   "firstYear": 1996,
   "lastYear": 2026,
   "years": [
@@ -10,6 +10,7 @@ const ARTIST_DATA = {
     1998,
     2008,
     2011,
+    2013,
     2014,
     2026
   ],
@@ -64,6 +65,19 @@ const ARTIST_DATA = {
       "venue": "Green River Festival",
       "notes": "Zoom H2 · unk",
       "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2013,
+      "month": 3,
+      "day": 15,
+      "dateStr": "3-15-2013",
+      "city": "Port Chester",
+      "state": "NY",
+      "location": "Port Chester, NY",
+      "venue": "Capitol Theatre",
+      "notes": "unk",
+      "version": "SBD",
       "format": "FLAC"
     },
     {
