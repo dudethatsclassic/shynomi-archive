@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "zwan",
   "name": "Zwan",
   "drive": "B",
-  "showCount": 158,
+  "showCount": 159,
   "firstYear": 2001,
   "lastYear": 2003,
   "years": [
@@ -1855,6 +1855,19 @@ const ARTIST_DATA = {
       "venue": "Queen Elizabeth Theatre",
       "notes": "DAT(M) · OKM-IIr · unk",
       "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2003,
+      "month": 4,
+      "day": 26,
+      "dateStr": "4-26-2003",
+      "city": "Seattle",
+      "state": "WA",
+      "location": "Seattle, WA",
+      "venue": "Paramount Ballroom",
+      "notes": "CSC · lambert",
+      "version": "AUD #1",
       "format": "FLAC"
     },
     {
