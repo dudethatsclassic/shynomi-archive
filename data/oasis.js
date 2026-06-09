@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "oasis",
   "name": "Oasis",
   "drive": "F",
-  "showCount": 717,
+  "showCount": 718,
   "firstYear": 1992,
   "lastYear": 2025,
   "years": [
@@ -5535,6 +5535,19 @@ const ARTIST_DATA = {
       "location": "Paris, France",
       "venue": "The Bercy",
       "notes": "",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2001,
+      "month": 6,
+      "day": 24,
+      "dateStr": "6-24-2001",
+      "city": "Paris",
+      "state": "France",
+      "location": "Paris, France",
+      "venue": "Bercy Arena",
+      "notes": "Sony TCD-D100 · isaac mchelicopter",
       "version": "AUD",
       "format": "FLAC"
     },
