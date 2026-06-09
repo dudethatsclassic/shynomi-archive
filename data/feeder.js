@@ -2,15 +2,16 @@ const ARTIST_DATA = {
   "id": "feeder",
   "name": "Feeder",
   "drive": "E",
-  "showCount": 6,
+  "showCount": 7,
   "firstYear": 2000,
-  "lastYear": 2024,
+  "lastYear": 2026,
   "years": [
     2000,
     2001,
     2003,
     2005,
-    2024
+    2024,
+    2026
   ],
   "shows": [
     {
@@ -88,6 +89,19 @@ const ARTIST_DATA = {
       "location": "Cardiff, Wales",
       "venue": "The Great Halll",
       "notes": "Olympus LS-P1 · welshylad",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 24,
+      "dateStr": "5-24-2026",
+      "city": "Margam",
+      "state": "Wales",
+      "location": "Margam, Wales",
+      "venue": "Old Park Farm",
+      "notes": "Edirol R-07 · welshylad · petrock remaster",
       "version": "AUD",
       "format": "FLAC"
     }
