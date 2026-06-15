@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "counting-crows",
   "name": "Counting Crows",
   "drive": "G",
-  "showCount": 1317,
+  "showCount": 1320,
   "firstYear": 1992,
   "lastYear": 2025,
   "years": [
@@ -9105,6 +9105,19 @@ const ARTIST_DATA = {
     {
       "year": 2007,
       "month": 8,
+      "day": 22,
+      "dateStr": "8-22-2007",
+      "city": "Lakewood",
+      "state": "NJ",
+      "location": "Lakewood, NJ",
+      "venue": "Firstenergy Park",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2007,
+      "month": 8,
       "day": 24,
       "dateStr": "8-24-2007",
       "city": "Pawtucket",
@@ -10437,6 +10450,19 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Montclair, NJ",
       "venue": "Wellmont Theater",
+      "notes": "",
+      "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2008,
+      "month": 10,
+      "day": 30,
+      "dateStr": "10-30-2008",
+      "city": "Montclair",
+      "state": "NJ",
+      "location": "Montclair, NJ",
+      "venue": "Wellmont Theater",
       "notes": "Nugs.net",
       "version": "SBD",
       "format": "FLAC"
@@ -10985,6 +11011,19 @@ const ARTIST_DATA = {
       "venue": "Count Basie Theater",
       "notes": "Edirol R09 · tigger165",
       "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2009,
+      "month": 9,
+      "day": 1,
+      "dateStr": "9-1-2009",
+      "city": "Red Bank",
+      "state": "NJ",
+      "location": "Red Bank, NJ",
+      "venue": "Count Basie Theatre",
+      "notes": "unk",
+      "version": "SBD",
       "format": "FLAC"
     },
     {
