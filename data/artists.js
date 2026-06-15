@@ -527,7 +527,7 @@ const ARTISTS = [
   {
     "id": "counting-crows",
     "name": "Counting Crows",
-    "showCount": 1317,
+    "showCount": 1320,
     "firstYear": 1992,
     "lastYear": 2025
   },
