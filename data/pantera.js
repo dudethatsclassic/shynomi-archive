@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "pantera",
   "name": "Pantera",
   "drive": "A",
-  "showCount": 66,
+  "showCount": 67,
   "firstYear": 1984,
   "lastYear": 2025,
   "years": [
@@ -18,6 +18,7 @@ const ARTIST_DATA = {
     1995,
     1996,
     1997,
+    1998,
     1999,
     2000,
     2001,
@@ -558,6 +559,19 @@ const ARTIST_DATA = {
       "notes": "3-cam mix · a shadow rat productions",
       "version": "MIX",
       "format": "DVD"
+    },
+    {
+      "year": 1998,
+      "month": 5,
+      "day": 9,
+      "dateStr": "5-9-1998",
+      "city": "Buenos Aires",
+      "state": "Argentina",
+      "location": "Buenos Aires, Argentina",
+      "venue": "Parque Sarmiento *102 Proof",
+      "notes": "thrash",
+      "version": "SBD",
+      "format": "FLAC"
     },
     {
       "year": 1999,
