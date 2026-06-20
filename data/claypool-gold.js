@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "claypool-gold",
   "name": "Claypool Gold",
   "drive": "F",
-  "showCount": 6,
+  "showCount": 10,
   "firstYear": 2024,
   "lastYear": 2026,
   "years": [
@@ -85,6 +85,58 @@ const ARTIST_DATA = {
       "location": "Chesterfield, MO",
       "venue": "The Factory",
       "notes": "Schoeps MK4V · unk",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 2,
+      "dateStr": "6-2-2026",
+      "city": "Cleveland",
+      "state": "OH",
+      "location": "Cleveland, OH",
+      "venue": "Jacobs Pavilion",
+      "notes": "MBHO KA200N · unk",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 5,
+      "dateStr": "6-5-2026",
+      "city": "Pelham",
+      "state": "TN",
+      "location": "Pelham, TN",
+      "venue": "The Caverns Above Ground Amphitheater",
+      "notes": "Schoeps MK4 · funkitblog",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 12,
+      "dateStr": "6-12-2026",
+      "city": "Saratoga Springs",
+      "state": "NY",
+      "location": "Saratoga Springs, NY",
+      "venue": "SPAC",
+      "notes": "MBHO KA200N · unk",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 13,
+      "dateStr": "6-13-2026",
+      "city": "Asbury Park",
+      "state": "NJ",
+      "location": "Asbury Park, NJ",
+      "venue": "Stone Pony Summerstage",
+      "notes": "MBHO KA200N · unk",
       "version": "AUD",
       "format": "FLAC 24"
     }
