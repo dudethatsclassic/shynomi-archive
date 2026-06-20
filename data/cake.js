@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "cake",
   "name": "Cake",
   "drive": "B",
-  "showCount": 29,
+  "showCount": 30,
   "firstYear": 1994,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1994,
     1995,
@@ -21,7 +21,8 @@ const ARTIST_DATA = {
     2018,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -398,6 +399,19 @@ const ARTIST_DATA = {
       "location": "Louisville, KY",
       "venue": "Iroquois Amphitheater",
       "notes": "Schoeps MK4 · funk it blog",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 1,
+      "dateStr": "6-1-2026",
+      "city": "Saratoga Springs",
+      "state": "NY",
+      "location": "Saratoga Springs, NY",
+      "venue": "Albany Med Health System",
+      "notes": "SPAC · SP-CMC-8 · smores",
       "version": "AUD",
       "format": "FLAC 24"
     }
