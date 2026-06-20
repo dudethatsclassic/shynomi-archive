@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "dave-matthews-band",
   "name": "Dave Matthews Band",
   "drive": "E",
-  "showCount": 282,
+  "showCount": 284,
   "firstYear": 1989,
   "lastYear": 2026,
   "years": [
@@ -3683,6 +3683,32 @@ const ARTIST_DATA = {
       "notes": "AKG CK 63 · jason johnson",
       "version": "AUD",
       "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 15,
+      "dateStr": "5-15-2026",
+      "city": "Alpharetta",
+      "state": "GA",
+      "location": "Alpharetta, GA",
+      "venue": "Ameris Bank Amphitheatre",
+      "notes": "Schoeps CCM4 · z-man",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 16,
+      "dateStr": "5-16-2026",
+      "city": "Charlotte",
+      "state": "NC",
+      "location": "Charlotte, NC",
+      "venue": "Truliant Amphitheatre",
+      "notes": "Neumann AK50 · dennisbryant",
+      "version": "AUD",
+      "format": "FLAC 24"
     },
     {
       "year": 2026,
