@@ -106,7 +106,7 @@ function render() {
     : '';
 
   const photoSrc = '../../images/' + d.id + '/band.jpg';
-  const logoHtml = '<a class="site-logo" href="../../">Shynomi\'s Live<span>Archive</span></a>';
+  const logoHtml = '<a class="site-logo" href="../../"><img class="site-logo-img" src="../../favicon.png" alt=""><span class="site-logo-text">Shynomi\'s Live<span>Archive</span></span></a>';
 
   document.getElementById('app').innerHTML = `
     <header class="site-header">
