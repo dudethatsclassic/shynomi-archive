@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "metallica",
   "name": "Metallica",
   "drive": "B",
-  "showCount": 1471,
+  "showCount": 1477,
   "firstYear": 1982,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1982,
     1983,
@@ -47,7 +47,8 @@ const ARTIST_DATA = {
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -19169,6 +19170,84 @@ const ARTIST_DATA = {
       "state": "United Arab Emirates",
       "location": "Abu Dhabi, United Arab Emirates",
       "venue": "Abu Dhabi F1 Grand Prix Yas Island",
+      "notes": "LiveMetallica",
+      "version": "SBD",
+      "format": "FLAC HD"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 9,
+      "dateStr": "5-9-2026",
+      "city": "Athens",
+      "state": "Greece",
+      "location": "Athens, Greece",
+      "venue": "Olympic Stadium",
+      "notes": "LiveMetallica",
+      "version": "SBD",
+      "format": "FLAC HD"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 13,
+      "dateStr": "5-13-2026",
+      "city": "Bucharest",
+      "state": "Romania",
+      "location": "Bucharest, Romania",
+      "venue": "Arena Nationala",
+      "notes": "LiveMetallica",
+      "version": "SBD",
+      "format": "FLAC HD"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 19,
+      "dateStr": "5-19-2026",
+      "city": "Chorzów",
+      "state": "Poland",
+      "location": "Chorzów, Poland",
+      "venue": "Stadion Ślaski",
+      "notes": "LiveMetallica",
+      "version": "SBD",
+      "format": "FLAC HD"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 22,
+      "dateStr": "5-22-2026",
+      "city": "Frankfurt",
+      "state": "Germany",
+      "location": "Frankfurt, Germany",
+      "venue": "Deutsche Bank Park",
+      "notes": "LiveMetallica",
+      "version": "SBD",
+      "format": "FLAC HD"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 24,
+      "dateStr": "5-24-2026",
+      "city": "Frankfurt",
+      "state": "Germany",
+      "location": "Frankfurt, Germany",
+      "venue": "Deutsche Bank Park",
+      "notes": "LiveMetallica",
+      "version": "SBD",
+      "format": "FLAC HD"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 27,
+      "dateStr": "5-27-2026",
+      "city": "Zurich",
+      "state": "Switzerland",
+      "location": "Zurich, Switzerland",
+      "venue": "Stadion Letzigrund",
       "notes": "LiveMetallica",
       "version": "SBD",
       "format": "FLAC HD"
