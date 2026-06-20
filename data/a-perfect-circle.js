@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "a-perfect-circle",
   "name": "A Perfect Circle",
   "drive": "B",
-  "showCount": 367,
+  "showCount": 368,
   "firstYear": 1999,
-  "lastYear": 2024,
+  "lastYear": 2026,
   "years": [
     1999,
     2000,
@@ -17,7 +17,8 @@ const ARTIST_DATA = {
     2014,
     2017,
     2018,
-    2024
+    2024,
+    2026
   ],
   "shows": [
     {
@@ -4790,6 +4791,19 @@ const ARTIST_DATA = {
       "notes": "Sick · iPhone · anonymous",
       "version": "AUD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 7,
+      "dateStr": "6-7-2026",
+      "city": "Nürburg",
+      "state": "Germany",
+      "location": "Nürburg, Germany",
+      "venue": "Rock Am Ring",
+      "notes": "Mandora · magentamusik · Livestream",
+      "version": "Webcast",
+      "format": "MP4"
     }
   ],
   "misc": [
