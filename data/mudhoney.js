@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "mudhoney",
   "name": "Mudhoney",
   "drive": "A",
-  "showCount": 171,
+  "showCount": 172,
   "firstYear": 1988,
   "lastYear": 2025,
   "years": [
@@ -1854,6 +1854,19 @@ const ARTIST_DATA = {
       "location": "Hollywood, CA",
       "venue": "Henry Fonda Theatre",
       "notes": "DSM6 · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2008,
+      "month": 6,
+      "day": 8,
+      "dateStr": "6-8-2008",
+      "city": "Lancaster",
+      "state": "PA",
+      "location": "Lancaster, PA",
+      "venue": "Chameleon Club",
+      "notes": "Church Audio STC-11s · unk",
       "version": "AUD",
       "format": "FLAC"
     },
