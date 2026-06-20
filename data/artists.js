@@ -1906,7 +1906,7 @@ const ARTISTS = [
   {
     "id": "old-97-s",
     "name": "Old 97's",
-    "showCount": 7,
+    "showCount": 8,
     "firstYear": 1996,
     "lastYear": 2026
   },
