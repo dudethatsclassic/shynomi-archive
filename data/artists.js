@@ -1654,9 +1654,9 @@ const ARTISTS = [
   {
     "id": "metallica",
     "name": "Metallica",
-    "showCount": 1471,
+    "showCount": 1477,
     "firstYear": 1982,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "michael-jackson",
