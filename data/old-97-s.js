@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "old-97-s",
   "name": "Old 97's",
   "drive": "E",
-  "showCount": 7,
+  "showCount": 8,
   "firstYear": 1996,
   "lastYear": 2026,
   "years": [
@@ -64,6 +64,19 @@ const ARTIST_DATA = {
       "location": "Greenfield, MA",
       "venue": "Green River Festival",
       "notes": "Zoom H2 · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2013,
+      "month": 3,
+      "day": 9,
+      "dateStr": "3-9-2013",
+      "city": "Portland",
+      "state": "ME",
+      "location": "Portland, ME",
+      "venue": "State Theatre",
+      "notes": "Schoeps CCM4V · z-man",
       "version": "AUD",
       "format": "FLAC"
     },
