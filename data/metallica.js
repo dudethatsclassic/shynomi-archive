@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "metallica",
   "name": "Metallica",
   "drive": "B",
-  "showCount": 1477,
+  "showCount": 1478,
   "firstYear": 1982,
   "lastYear": 2026,
   "years": [
@@ -19248,6 +19248,19 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Stadion Letzigrund",
+      "notes": "LiveMetallica",
+      "version": "SBD",
+      "format": "FLAC HD"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 30,
+      "dateStr": "5-30-2026",
+      "city": "Berlin",
+      "state": "Germany",
+      "location": "Berlin, Germany",
+      "venue": "Olympiastadion",
       "notes": "LiveMetallica",
       "version": "SBD",
       "format": "FLAC HD"
