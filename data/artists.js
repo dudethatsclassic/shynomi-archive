@@ -380,9 +380,9 @@ const ARTISTS = [
   {
     "id": "cake",
     "name": "Cake",
-    "showCount": 29,
+    "showCount": 30,
     "firstYear": 1994,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "candlebox",
