@@ -1948,7 +1948,7 @@ const ARTISTS = [
   {
     "id": "pantera",
     "name": "Pantera",
-    "showCount": 66,
+    "showCount": 67,
     "firstYear": 1984,
     "lastYear": 2025
   },
