@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "sonic-youth",
   "name": "Sonic Youth",
   "drive": "F",
-  "showCount": 299,
+  "showCount": 300,
   "firstYear": 1981,
   "lastYear": 2011,
   "years": [
@@ -1726,6 +1726,19 @@ const ARTIST_DATA = {
       "location": "Santa Cruz, CA",
       "venue": "Catalyst",
       "notes": "Sony ECM-909 · vinny palese",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1993,
+      "month": 3,
+      "day": 4,
+      "dateStr": "3-4-1993",
+      "city": "Santa Cruz",
+      "state": "CA",
+      "location": "Santa Cruz, CA",
+      "venue": "The Catalyst",
+      "notes": "Schoeps CMC4-MK4 · teddyballgame",
       "version": "AUD",
       "format": "FLAC"
     },
