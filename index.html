@@ -47,11 +47,11 @@
       </button>
     </div>
 
-    <div class="container" id="other-section" style="display:none; margin-top: 32px;">
+    <div class="container" id="other-section" style="display:none; margin-top: 32px; margin-bottom: 64px;">
       <div class="section-header-row">
         <h2 class="section-title">Other Artists</h2>
       </div>
-      <div class="artist-grid" id="other-grid"></div>
+      <div class="other-artists-list" id="other-grid"></div>
     </div>
   </main>
 
@@ -124,10 +124,16 @@
       if (artist) featuredGrid.appendChild(makeCard(artist));
     });
 
-    // Render all others alphabetically
+    // Render all others alphabetically as list items
     ARTISTS
       .filter(a => a.id && !featuredSet.has(a.id))
-      .forEach(a => otherGrid.appendChild(makeCard(a)));
+      .forEach(a => {
+        const item = document.createElement('a');
+        item.href = `artists/${a.id}/`;
+        item.className = 'other-artist-item';
+        item.textContent = a.name;
+        otherGrid.appendChild(item);
+      });
 
     // ── Show search ──────────────────────────────────────────
     let allShowsLoaded = false;
