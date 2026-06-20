@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "deftones",
   "name": "Deftones",
   "drive": "A",
-  "showCount": 302,
+  "showCount": 303,
   "firstYear": 1992,
   "lastYear": 2026,
   "years": [
@@ -3962,6 +3962,19 @@ const ARTIST_DATA = {
       "notes": "Lollapalooza · 1080",
       "version": "WEB",
       "format": "MP4"
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "day": 13,
+      "dateStr": "5-13-2026",
+      "city": "Auckland",
+      "state": "New Zealand",
+      "location": "Auckland, New Zealand",
+      "venue": "Spark Arena",
+      "notes": "Edirol R-09 · jakep",
+      "version": "AUD",
+      "format": "FLAC 24"
     }
   ],
   "misc": [
