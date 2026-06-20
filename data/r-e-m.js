@@ -10886,6 +10886,22 @@ const ARTIST_DATA = {
     },
     {
       "type": "label",
+      "label": "**SINGLES**"
+    },
+    {
+      "type": "label",
+      "label": "R.E.M. - Everybody Hurts {9 40989-2} (1993)"
+    },
+    {
+      "type": "label",
+      "label": "R.E.M. - Everybody Hurts {9362-40867-9} (1993)"
+    },
+    {
+      "type": "label",
+      "label": "R.E.M. - Everybody Hurts {W0169CD1} (1993)"
+    },
+    {
+      "type": "label",
       "label": "**VARIOUS**"
     },
     {
