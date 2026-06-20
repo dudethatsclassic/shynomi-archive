@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "311",
   "name": "311",
   "drive": "E",
-  "showCount": 54,
+  "showCount": 55,
   "firstYear": 1991,
   "lastYear": 2026,
   "years": [
@@ -726,6 +726,19 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4U · vibrioidxire",
       "version": "AUD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 13,
+      "dateStr": "6-13-2026",
+      "city": "Redmond",
+      "state": "OR",
+      "location": "Redmond, OR",
+      "venue": "Reggae Rise Up Oregon",
+      "notes": "CMC1s · climbingbear",
+      "version": "AUD",
+      "format": "FLAC 32"
     }
   ],
   "misc": []
