@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "wilco",
   "name": "Wilco",
   "drive": "E",
-  "showCount": 1123,
+  "showCount": 1127,
   "firstYear": 1994,
   "lastYear": 2026,
   "years": [
@@ -14615,6 +14615,45 @@ const ARTIST_DATA = {
     },
     {
       "year": 2026,
+      "month": 1,
+      "day": 15,
+      "dateStr": "1-15-2026",
+      "city": "Maya",
+      "state": "MX",
+      "location": "Maya, MX",
+      "venue": "Riviera",
+      "notes": "Roadcase 109",
+      "version": "SBD",
+      "format": ""
+    },
+    {
+      "year": 2026,
+      "month": 1,
+      "day": 17,
+      "dateStr": "1-17-2026",
+      "city": "Maya",
+      "state": "MX",
+      "location": "Maya, MX",
+      "venue": "Riviera",
+      "notes": "Roadcase 110",
+      "version": "SBD",
+      "format": ""
+    },
+    {
+      "year": 2026,
+      "month": 1,
+      "day": 18,
+      "dateStr": "1-18-2026",
+      "city": "Maya",
+      "state": "MX",
+      "location": "Maya, MX",
+      "venue": "Riviera",
+      "notes": "Roadcase 111",
+      "version": "SBD",
+      "format": ""
+    },
+    {
+      "year": 2026,
       "month": 4,
       "day": 23,
       "dateStr": "4-23-2026",
@@ -14636,6 +14675,19 @@ const ARTIST_DATA = {
       "location": "Albuquerque, NM",
       "venue": "University of NM",
       "notes": "Popejoy · SP-BMC-3 · boyroy",
+      "version": "AUD",
+      "format": ""
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 16,
+      "dateStr": "6-16-2026",
+      "city": "LaFayette",
+      "state": "NY",
+      "location": "LaFayette, NY",
+      "venue": "Beak & Skiff Orchards",
+      "notes": "SP-CMC-25 · robertmullen",
       "version": "AUD",
       "format": ""
     }
