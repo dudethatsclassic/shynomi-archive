@@ -9,9 +9,9 @@ const ARTISTS = [
   {
     "id": "a-perfect-circle",
     "name": "A Perfect Circle",
-    "showCount": 367,
+    "showCount": 368,
     "firstYear": 1999,
-    "lastYear": 2024
+    "lastYear": 2026
   },
   {
     "id": "a-tribe-called-quest",
