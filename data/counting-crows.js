@@ -17302,7 +17302,7 @@ const ARTIST_DATA = {
     },
     {
       "type": "label",
-      "label": "Face the Promised Land (1999)",
+      "label": "Counting Crows - Face the Promised Land (1999)",
       "format": "FLAC"
     },
     {
