@@ -583,7 +583,7 @@ const ARTISTS = [
   {
     "id": "dave-matthews-band",
     "name": "Dave Matthews Band",
-    "showCount": 282,
+    "showCount": 284,
     "firstYear": 1989,
     "lastYear": 2026
   },
