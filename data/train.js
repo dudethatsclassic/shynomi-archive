@@ -2,14 +2,15 @@ const ARTIST_DATA = {
   "id": "train",
   "name": "Train",
   "drive": "D",
-  "showCount": 7,
+  "showCount": 8,
   "firstYear": 2002,
-  "lastYear": 2014,
+  "lastYear": 2017,
   "years": [
     2002,
     2003,
     2011,
-    2014
+    2014,
+    2017
   ],
   "shows": [
     {
@@ -100,6 +101,19 @@ const ARTIST_DATA = {
       "location": "San Francisco, CA",
       "venue": "Nob Hill Masonic Auditorium",
       "notes": "Neumann KMF 4i · unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2017,
+      "month": 7,
+      "day": 1,
+      "dateStr": "7-1-2017",
+      "city": "Maryland Heights",
+      "state": "MO",
+      "location": "Maryland Heights, MO",
+      "venue": "Hollywood Casino Amphitheatre",
+      "notes": "Tascam DR-07 · shane e. calhoon",
       "version": "AUD",
       "format": "FLAC"
     }
