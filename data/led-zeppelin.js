@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "led-zeppelin",
   "name": "Led Zeppelin",
   "drive": "D",
-  "showCount": 11,
+  "showCount": 12,
   "firstYear": 1969,
   "lastYear": 1980,
   "years": [
@@ -65,6 +65,19 @@ const ARTIST_DATA = {
       "location": "Inglewood, CA",
       "venue": "The Forum",
       "notes": "ANA(2) · krw_co",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1971,
+      "month": 11,
+      "day": 11,
+      "dateStr": "11-11-1971",
+      "city": "Newcastle",
+      "state": "England",
+      "location": "Newcastle, England",
+      "venue": "City Hall",
+      "notes": "unk · krw_co transfer",
       "version": "AUD",
       "format": "FLAC"
     },
