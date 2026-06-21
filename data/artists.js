@@ -1381,7 +1381,7 @@ const ARTISTS = [
   {
     "id": "led-zeppelin",
     "name": "Led Zeppelin",
-    "showCount": 11,
+    "showCount": 12,
     "firstYear": 1969,
     "lastYear": 1980
   },
@@ -3019,9 +3019,9 @@ const ARTISTS = [
   {
     "id": "train",
     "name": "Train",
-    "showCount": 7,
+    "showCount": 8,
     "firstYear": 2002,
-    "lastYear": 2014
+    "lastYear": 2017
   },
   {
     "id": "traveling-wilburys",
