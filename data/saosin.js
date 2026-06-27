@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Long Beach, CA",
       "venue": "Shoreline Waterfront",
-      "notes": "Warped \u00b7 DPA 4081 \u00b7 faninor",
+      "notes": "Warped · DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-07-27 - Long Beach, CA - Shoreline Waterfront - Warped Tour (DPA 4081) (faninor) [AUD24].txt"
