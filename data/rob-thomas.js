@@ -37,7 +37,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Ledyard, CT",
       "venue": "Foxwoods Casino",
-      "notes": "ECM 719 \u00b7 unk",
+      "notes": "ECM 719 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-10-05 - Ledyard, CT - Foxwoods Casino (ECM 719) (unk) [AUD].txt"
@@ -51,7 +51,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Manaroneck, NY",
       "venue": "ACM Studios",
-      "notes": "Internet Radio Broadcast \u00b7 saltshaker",
+      "notes": "Internet Radio Broadcast · saltshaker",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "2009-09-05 - Manaroneck, NY - ACM Studios (Internet Radio Broadcast) (saltshaker) [SBD].txt"
@@ -65,7 +65,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Niagara Falls, NY",
       "venue": "Events Center",
-      "notes": "Seneca \u00b7 AT835 \u00b7 richard s. binko",
+      "notes": "Seneca · AT835 · richard s. binko",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-05-10 - Niagara Falls - NY Events Center - Seneca Niagara Casino (AT835) (richard s. binko) [AUD].txt"
@@ -107,7 +107,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Evans Auditorium",
-      "notes": "IEM Matrix \u00b7 univonc",
+      "notes": "IEM Matrix · univonc",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2019-12-13 - Charlotte, NC - Evans Auditorium (IEM Matrix) (univonc) [MIX].txt"
