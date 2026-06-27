@@ -37,8 +37,7 @@ const ARTIST_DATA = {
       "venue": "Lone Star Cafe",
       "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "textFile": "1982-03-03 - New York, NY - Lone Star Cafe [FM].txt"
+      "format": "FLAC"
     },
     {
       "year": 1983,
@@ -51,8 +50,7 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "textFile": "1983-08-05 - New York, NY - Country Sessions.txt"
+      "format": "FLAC"
     },
     {
       "year": 1984,
@@ -78,8 +76,7 @@ const ARTIST_DATA = {
       "venue": "Gilley's",
       "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "textFile": "1985-01-12 - Pasadena, TX - Gilley's [FM].txt"
+      "format": "FLAC"
     },
     {
       "year": 1985,
@@ -92,8 +89,7 @@ const ARTIST_DATA = {
       "venue": "Gilley's",
       "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "textFile": "1985-09-23 - Pasadena, TX - Gilley's [FM].txt"
+      "format": "FLAC"
     }
   ],
   "misc": []
