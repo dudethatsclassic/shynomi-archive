@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "City Winery",
-      "notes": "SP-CMC-8 \u00b7 live2cd",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2023-09-12 - Nashville, TN - City Winery (SP-CMC-8) (live2cd) [AUD].txt"
+      "format": "FLAC"
     }
   ],
   "misc": []
