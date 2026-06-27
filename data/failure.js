@@ -2,11 +2,12 @@ const ARTIST_DATA = {
   "id": "failure",
   "name": "Failure",
   "drive": "D",
-  "showCount": 37,
+  "showCount": 39,
   "firstYear": 1994,
   "lastYear": 2026,
   "years": [
     1994,
+    1996,
     1997,
     2014,
     2015,
@@ -27,6 +28,19 @@ const ARTIST_DATA = {
       "venue": "First Avenue",
       "notes": "unk",
       "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1996,
+      "month": 12,
+      "day": 6,
+      "dateStr": "12-6-1996",
+      "city": "Hollywood",
+      "state": "CA",
+      "location": "Hollywood, CA",
+      "venue": "Whisky A Go-Go",
+      "notes": "unk",
+      "version": "SBD",
       "format": "FLAC"
     },
     {
@@ -118,6 +132,19 @@ const ARTIST_DATA = {
       "venue": "Whiskey A GoGo",
       "notes": "",
       "version": "SBD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1997,
+      "month": 6,
+      "day": 9,
+      "dateStr": "6-9-1997",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "The Whisky A Go Go",
+      "notes": "darshun transfer",
+      "version": "AUD",
       "format": "FLAC"
     },
     {
