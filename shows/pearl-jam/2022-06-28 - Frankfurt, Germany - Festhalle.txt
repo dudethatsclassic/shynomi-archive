@@ -1,0 +1,45 @@
+foobar2000 1.6.5 / Dynamic Range Meter 1.1.1
+log date: 2022-07-26 18:44:10
+
+--------------------------------------------------------------------------------
+Analyzed: Pearl Jam / 2022/06/28 Festhalle, Frankfurt, Germany
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR7       -0.63 dB    -9.16 dB      6:32 01-Inside Job
+DR6       -0.63 dB    -7.72 dB      2:40 02-Animal
+DR7       -0.63 dB   -10.51 dB      6:07 03-Last Exit
+DR6       -0.63 dB    -7.77 dB      3:25 04-Why Go
+DR7       -0.63 dB    -8.11 dB      2:52 05-Mind Your Manners
+DR7       -0.63 dB    -8.31 dB      0:53 06-Interstellar Overdrive
+DR6       -0.63 dB    -7.93 dB      6:38 07-Corduroy
+DR8       -0.63 dB   -10.54 dB      4:29 08-Fatal
+DR7       -0.63 dB    -9.28 dB      4:04 09-Elderly Woman Behind the Counter in a Small Town
+DR7       -0.63 dB    -9.26 dB      6:39 10-Dance of the Clairvoyants
+DR7       -0.63 dB    -8.18 dB      4:53 11-In My Tree
+DR7       -0.63 dB    -8.56 dB      3:49 12-Given to Fly
+DR7       -0.63 dB    -8.86 dB      5:43 13-Garden
+DR7       -0.63 dB    -8.36 dB      4:51 01-Never Destination
+DR7       -0.63 dB    -8.28 dB      4:08 02-Do the Evolution
+DR7       -0.63 dB    -8.33 dB      5:26 03-Jeremy
+DR8       -0.63 dB    -9.79 dB      3:35 04-Buckle Up
+DR7       -0.63 dB    -9.07 dB      7:21 05-Better Man
+DR7       -0.63 dB    -8.21 dB      7:45 06-Porch
+DR14      -0.63 dB   -18.11 dB      3:41 07-Encore Break
+DR8       -0.63 dB   -10.23 dB      5:37 08-River Cross
+DR7       -0.63 dB    -7.89 dB      3:42 09-State of Love and Trust
+DR7       -0.63 dB    -8.04 dB      7:38 10-Alive
+DR8       -0.63 dB   -10.93 dB      7:17 11-Indifference
+--------------------------------------------------------------------------------
+
+Number of tracks:  24
+Official DR value: DR7
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           2933 kbps
+Codec:             FLAC
+================================================================================
+

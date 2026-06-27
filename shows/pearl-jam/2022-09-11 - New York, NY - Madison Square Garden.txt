@@ -1,0 +1,47 @@
+foobar2000 1.6.5 / Dynamic Range Meter 1.1.1
+log date: 2022-10-08 01:58:28
+
+--------------------------------------------------------------------------------
+Analyzed: Pearl Jam / 2022/09/11 Madison Square Garden, New York, New York
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR7       -0.63 dB    -9.35 dB      5:31 01-Release
+DR7       -0.63 dB    -9.20 dB      6:55 02-Garden
+DR7       -0.63 dB    -9.98 dB      7:55 03-Come Back
+DR7       -0.63 dB    -9.27 dB      5:57 04-Present Tense
+DR7       -0.63 dB    -8.20 dB      6:46 05-Porch
+DR7       -0.63 dB    -8.19 dB      3:40 06-Dissident
+DR7       -0.63 dB    -8.13 dB      3:30 07-Given to Fly
+DR7       -0.63 dB    -9.16 dB      7:18 08-Who Ever Said
+DR7       -0.63 dB    -7.92 dB      5:47 09-Even Flow
+DR7       -0.63 dB    -8.30 dB      5:46 10-Seven O'Clock
+DR7       -0.63 dB    -8.65 dB      4:08 11-Daughter
+DR7       -0.63 dB    -8.69 dB      5:01 12-Dance of the Clairvoyants
+DR10      -0.63 dB   -13.54 dB      2:46 01-I'm Open
+DR7       -0.63 dB    -8.77 dB      9:25 02-Better Man
+DR10      -0.63 dB   -11.87 dB      2:00 03-Chloe Dancer
+DR7       -0.63 dB    -9.13 dB      5:16 04-Crown of Thorns
+DR7       -0.63 dB   -11.41 dB      9:39 05-Sonic Reducer
+DR6       -0.63 dB    -7.66 dB      6:21 06-Rearviewmirror
+DR12      -0.63 dB   -16.08 dB      1:53 07-Encore Break
+DR7       -0.63 dB    -9.57 dB      4:39 08-Elderly Woman Behind the Counter in a Small Town
+DR7       -0.63 dB    -7.89 dB      3:21 09-Why Go
+DR7       -0.63 dB    -9.12 dB      5:27 10-Do the Evolution
+DR7       -0.63 dB    -8.65 dB      5:43 11-Purple Rain
+DR7       -0.63 dB    -7.99 dB      6:23 12-Alive
+DR6       -0.63 dB    -7.86 dB      6:48 13-Rockin' in the Free World
+DR10      -0.63 dB   -13.49 dB      3:17 14-Star Spangled Banner
+--------------------------------------------------------------------------------
+
+Number of tracks:  26
+Official DR value: DR7
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           2814 kbps
+Codec:             FLAC
+================================================================================
+

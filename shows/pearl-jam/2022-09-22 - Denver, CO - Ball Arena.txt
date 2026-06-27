@@ -1,0 +1,48 @@
+foobar2000 1.6.5 / Dynamic Range Meter 1.1.1
+log date: 2022-10-31 04:10:49
+
+--------------------------------------------------------------------------------
+Analyzed: Pearl Jam / 2022/09/22 Ball Arena, Denver, Colorado
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR6       -0.63 dB    -7.93 dB      5:21 01-Long Road
+DR6       -0.63 dB    -8.86 dB      5:21 02-Elderly Woman Behind the Counter in a Small Town
+DR6       -0.63 dB   -10.45 dB      6:58 03-Thin Air
+DR7       -0.63 dB    -9.44 dB      3:43 04-Just Breathe
+DR6       -0.63 dB    -8.08 dB      5:49 05-Present Tense
+DR6       -0.63 dB    -7.18 dB      1:36 06-Interstellar Overdrive
+DR6       -0.63 dB    -6.76 dB      6:14 07-Corduroy
+DR6       -0.63 dB    -9.09 dB      5:35 08-Spin the Black Circle
+DR6       -0.63 dB    -7.03 dB      4:23 09-Throw Your Hatred Down
+DR6       -0.63 dB    -7.95 dB      4:32 10-Given to Fly
+DR6       -0.63 dB    -8.62 dB      7:58 11-Who Ever Said
+DR6       -0.63 dB    -7.87 dB      8:18 12-Even Flow
+DR6       -0.63 dB    -8.41 dB      6:15 01-Dance of the Clairvoyants
+DR6       -0.63 dB    -8.39 dB      4:47 02-River Cross
+DR6       -0.63 dB    -7.21 dB      3:33 03-Save You
+DR6       -0.63 dB    -8.60 dB      8:28 04-Better Man
+DR6       -0.63 dB    -9.14 dB      4:19 05-Last Kiss
+DR6       -0.63 dB    -7.96 dB      4:25 06-Faithfull
+DR6       -0.63 dB    -7.41 dB      1:02 07-Lukin
+DR6       -0.63 dB    -6.85 dB      6:06 08-Rearviewmirror
+DR11      -0.63 dB   -14.71 dB      6:27 09-Encore Break
+DR8       -0.63 dB   -10.56 dB      2:42 10-I Won't Back Down
+DR10      -0.63 dB   -12.41 dB      2:06 11-Chloe Dancer
+DR6       -0.63 dB    -7.96 dB      5:52 12-Crown of Thorns
+DR6       -0.63 dB    -7.76 dB      8:51 13-Alive
+DR6       -0.63 dB    -7.75 dB      4:55 14-Baba O'Riley
+DR7       -0.63 dB   -10.10 dB      7:34 15-Yellow Ledbetter
+--------------------------------------------------------------------------------
+
+Number of tracks:  27
+Official DR value: DR6
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           2983 kbps
+Codec:             FLAC
+================================================================================
+

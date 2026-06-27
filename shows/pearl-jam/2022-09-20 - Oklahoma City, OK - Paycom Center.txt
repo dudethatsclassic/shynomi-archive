@@ -1,0 +1,45 @@
+foobar2000 1.6.5 / Dynamic Range Meter 1.1.1
+log date: 2022-10-28 03:49:40
+
+--------------------------------------------------------------------------------
+Analyzed: Pearl Jam / 2022/09/20 Paycom Center, Oklahoma City, Oklahoma
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR6       -0.63 dB    -8.11 dB      6:13 01-Garden
+DR6       -0.63 dB    -9.58 dB      5:06 02-Alright
+DR6       -0.63 dB    -8.57 dB      4:24 03-Sleight of Hand
+DR6       -0.63 dB    -7.91 dB      5:28 04-Hard to Imagine
+DR5       -0.63 dB    -6.69 dB      3:34 05-Hail, Hail
+DR5       -0.63 dB    -8.23 dB      5:30 06-Given to Fly
+DR6       -0.63 dB    -7.88 dB      5:17 07-Superblood Wolfmoon
+DR6       -0.63 dB    -6.95 dB      6:38 08-Even Flow
+DR6       -0.63 dB    -7.59 dB      5:40 09-Dance of the Clairvoyants
+DR6       -0.63 dB    -8.18 dB      6:19 10-Daughter
+DR6       -0.63 dB    -8.50 dB      6:48 11-Quick Escape
+DR6       -0.63 dB    -7.99 dB      4:25 12-Amongst the Waves
+DR6       -0.63 dB    -8.14 dB      5:41 01-Habit
+DR6       -0.63 dB    -8.49 dB      4:20 02-Elderly Woman Behind the Counter in a Small Town
+DR6       -0.63 dB    -6.97 dB      2:39 03-Mind Your Manners
+DR5       -0.63 dB    -6.68 dB      6:43 04-Corduroy
+DR10      -0.63 dB   -13.65 dB      4:32 05-Encore Break
+DR6       -0.63 dB    -7.06 dB      3:17 06-Go
+DR6       -0.63 dB    -7.58 dB      3:02 07-Alone
+DR6       -0.63 dB    -7.60 dB      4:28 08-Do the Evolution
+DR6       -0.63 dB    -6.77 dB      6:32 09-Porch
+DR6       -0.63 dB    -6.71 dB      6:40 10-Alive
+DR7       -0.63 dB   -10.35 dB      7:06 11-Indifference
+DR6       -0.63 dB    -7.43 dB      6:21 12-Rockin' in the Free World
+--------------------------------------------------------------------------------
+
+Number of tracks:  24
+Official DR value: DR6
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           3189 kbps
+Codec:             FLAC
+================================================================================
+

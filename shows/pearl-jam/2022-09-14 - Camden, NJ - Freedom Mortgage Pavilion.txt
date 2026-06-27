@@ -1,0 +1,50 @@
+foobar2000 1.6.5 / Dynamic Range Meter 1.1.1
+log date: 2022-10-11 20:15:26
+
+--------------------------------------------------------------------------------
+Analyzed: Pearl Jam / 2022/09/14 Freedom Mortgage Pavilion, Camden, NJ
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR7       -0.63 dB    -9.44 dB      4:58 01-Wash
+DR6       -0.63 dB    -9.46 dB      4:34 02-Oceans
+DR6       -0.63 dB    -8.43 dB      4:56 03-Daughter
+DR6       -0.63 dB    -8.44 dB      5:18 04-Hard to Imagine
+DR6       -0.63 dB    -7.51 dB      2:48 05-Animal
+DR6       -0.63 dB    -7.43 dB      2:44 06-Mind Your Manners
+DR6       -0.63 dB    -8.04 dB      4:42 07-Do The Evolution
+DR6       -0.63 dB    -7.73 dB      3:58 08-Deep
+DR6       -0.63 dB    -8.05 dB      0:38 09-Interstellar Overdrive
+DR6       -0.63 dB    -7.69 dB      6:12 10-Corduroy
+DR6       -0.63 dB    -9.31 dB      5:34 11-Given to Fly
+DR6       -0.63 dB    -8.07 dB      4:50 12-Quick Escape
+DR6       -0.63 dB    -8.82 dB      5:09 13-Retrograde
+DR6       -0.63 dB    -7.80 dB      7:27 14-Even Flow
+DR9       -0.63 dB   -11.86 dB      2:03 15-Untitled
+DR6       -0.63 dB    -7.23 dB      2:33 16-MFC
+DR6       -0.63 dB    -8.38 dB      7:40 01-Not for You
+DR6       -0.63 dB    -8.17 dB      5:55 02-Who Ever Said
+DR9       -0.63 dB   -10.37 dB      1:32 03-Eruption
+DR6       -0.63 dB   -10.00 dB      7:35 04-Why Go
+DR6       -0.63 dB    -7.60 dB      7:24 05-Porch
+DR11      -0.63 dB   -14.19 dB      2:30 06-Encore Break
+DR6       -0.63 dB    -8.62 dB      6:15 07-Inside Job
+DR6       -0.63 dB    -8.74 dB      5:54 08-State of Love and Trust
+DR6       -0.63 dB    -7.65 dB      5:05 09-Breath
+DR7       -0.63 dB    -9.03 dB      6:24 10-Crazy Mary
+DR7       -0.63 dB   -10.44 dB      6:50 11-Leash
+DR6       -0.63 dB    -7.58 dB      6:48 12-Alive
+DR6       -0.63 dB    -8.06 dB      8:08 13-Rockin' in the Free World
+--------------------------------------------------------------------------------
+
+Number of tracks:  29
+Official DR value: DR7
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           3224 kbps
+Codec:             FLAC
+================================================================================
+

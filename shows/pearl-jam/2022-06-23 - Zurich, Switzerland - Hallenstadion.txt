@@ -1,0 +1,42 @@
+foobar2000 1.6.5 / Dynamic Range Meter 1.1.1
+log date: 2022-07-23 11:29:18
+
+--------------------------------------------------------------------------------
+Analyzed: Pearl Jam / 2022/06/23 Hallenstadion, Zurich, Switzerland 
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR8       -0.30 dB   -10.48 dB      5:23 01-Release
+DR7       -0.30 dB    -8.19 dB      6:40 02-Even Flow
+DR7       -0.30 dB    -8.82 dB      7:52 03-Corduroy
+DR7       -0.30 dB    -9.68 dB      7:49 04-Immortality
+DR8       -0.30 dB    -9.00 dB      5:25 05-Dance of the Clairvoyants
+DR8       -0.30 dB    -9.72 dB      7:07 06-Quick Escape
+DR8       -0.30 dB    -9.07 dB      5:33 07-Daughter
+DR8       -0.30 dB    -9.89 dB      5:02 08-Given to Fly
+DR8       -0.30 dB    -8.80 dB      5:47 09-Seven O'Clock
+DR8       -0.30 dB    -8.66 dB      4:03 10-Do the Evolution
+DR7       -0.30 dB   -10.82 dB      6:16 01-Animal
+DR8       -0.30 dB    -9.81 dB      5:48 02-Present Tense
+DR8       -0.30 dB    -9.17 dB      4:56 03-In Hiding
+DR7       -0.30 dB    -8.27 dB      5:33 04-Jeremy
+DR7       -0.30 dB    -8.42 dB      3:59 05-Why Go
+DR7       -0.30 dB    -8.86 dB      7:36 06-Crazy Mary
+DR7       -0.30 dB    -7.95 dB      8:03 07-Porch
+DR12      -0.61 dB   -16.12 dB      1:44 08-Encore Break
+DR7       -0.30 dB    -9.26 dB      4:30 09-Smile
+DR7       -0.30 dB    -8.93 dB      8:16 10-Black
+DR7       -0.30 dB    -8.86 dB      9:04 11-Alive
+--------------------------------------------------------------------------------
+
+Number of tracks:  21
+Official DR value: DR8
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           3100 kbps
+Codec:             FLAC
+================================================================================
+

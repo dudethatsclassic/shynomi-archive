@@ -1,0 +1,44 @@
+foobar2000 1.6.5 / Dynamic Range Meter 1.1.1
+log date: 2022-10-21 20:24:44
+
+--------------------------------------------------------------------------------
+Analyzed: Pearl Jam / 2022/09/18 Enterprise Center, St. Louis, Missouri
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR7       -0.63 dB    -9.14 dB      3:51 01-Of the Girl
+DR7       -0.63 dB   -10.37 dB      8:41 02-Footsteps
+DR7       -0.63 dB    -9.91 dB      4:18 03-Sleeping by Myself
+DR6       -0.63 dB    -8.65 dB      5:09 04-Retrograde
+DR6       -0.63 dB    -7.92 dB      2:49 05-Last Exit
+DR6       -0.63 dB    -7.83 dB      4:07 06-Life Wasted
+DR6       -0.63 dB    -8.69 dB      5:00 07-Dissident
+DR7       -0.63 dB    -8.68 dB      6:29 08-Who Ever Said
+DR7       -0.63 dB    -7.96 dB      3:26 09-I Am Mine
+DR6       -0.63 dB    -8.55 dB      8:23 10-Corduroy
+DR6       -0.63 dB    -7.90 dB      3:12 11-Glorified G
+DR6       -0.63 dB    -7.94 dB      3:27 12-Once
+DR7       -0.63 dB    -8.25 dB      7:25 01-Even Flow
+DR7       -0.63 dB    -9.56 dB      4:22 02-Elderly Woman Behind the Counter in a Small Town
+DR6       -0.63 dB    -8.21 dB      3:58 03-Sad
+DR6       -0.63 dB    -8.94 dB      6:34 04-Dance of the Clairvoyants
+DR6       -0.63 dB    -7.67 dB      3:14 05-Go
+DR12      -0.63 dB   -15.41 dB      2:01 06-Encore Break
+DR6       -0.63 dB    -8.06 dB      4:20 07-State of Love and Trust
+DR7       -0.63 dB    -8.16 dB      5:52 08-Breath
+DR7       -0.63 dB    -8.55 dB      7:19 09-Black
+DR7       -0.63 dB    -8.71 dB      8:47 10-Alive
+DR7       -0.63 dB    -9.82 dB      5:23 11-Yellow Ledbetter
+--------------------------------------------------------------------------------
+
+Number of tracks:  23
+Official DR value: DR7
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           2993 kbps
+Codec:             FLAC
+================================================================================
+
