@@ -1,0 +1,44 @@
+Radiohead
+2016-08-08
+Shrine Auditorium
+Los Angeles, CA, USA
+
+-- Source --
+DPA 4060 > MPS6010 > Tascam DR-40 (@24bit/48kHz)
+
+-- Processing --
+WAV > Adobe Audition (mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - Burn the Witch
+02 - Daydreaming
+03 - Decks Dark
+04 - Desert Island Disk
+05 - Ful Stop
+06 - My Iron Lung
+07 - Morning Mr. Magpie
+08 - Lucky
+09 - Pyramid Song
+10 - Like Spinning Plates
+11 - Bloom
+12 - Identikit
+13 - The Numbers
+14 - Everything in Its Right Place
+15 - Feral
+16 - Idioteque
+17 - Bodysnatchers
+     encore 1
+18 - True Love Waits
+19 - Present Tense
+20 - 2+2=5
+21 - Lotus Flower
+22 - Paranoid Android
+     encore 2
+23 - Airbag
+24 - Reckoner
+
+-- Notes --
+Length: 2h12m55s
+
+faninor
+2016-08-19

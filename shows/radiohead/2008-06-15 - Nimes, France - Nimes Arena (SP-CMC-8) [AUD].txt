@@ -1,0 +1,106 @@
+Radiohead 
+2008-06-15 
+Nimes, France
+Arenes
+
+------------------------------------------------------
+
+Many problems this night...
+
+It's in french. I can't translate all this correctly.
+This recording sounds good to me.
+Hope you enjoy !
+
+------------------------------------------------------
+
+
+
+Beaucoup de fouille ce soir là. Le mec de la sécu fouillait partout dans les
+sacs, tout partait en consigne. Les parapluies, etc. Arrivé mon tour, il ne
+trouve pas les micros planqués dans une poche de mon K-Way. Ouf. L'edirol est 
+trouvé dans le sac ! 1ère fois depuis 2 ans qu'on me trouve le matos !
+Il hésite à le mettre en consigne. Il trouve ensuite le DR2. Me demandant ce 
+que c'est, je lui réponds que c'est mon baladeur. Du coup, tout est parti à la
+consigne... Alors comment j'ai fait pour enregistré ?
+Bah imaginez vous à la consigne ce soir là, le mec qui fouille vous fait tout
+mettre en consigne... et donc vous bossez comme un cinglé. A mon tour, le responsable
+ en a eu ras le bol... et m'a tout rendu. Merci beaucoup !
+
+
+J'ai eu l'impression que ça saturait.
+Pendant la chanson Airbag, j'ai baissé de 30/30 à 26/30.
+ça s'entendait avant la retouche.
+ça a l'air d'être assez correct après.
+Pour ce qui est du public... je vous laisse apprécier ! 
+On n'entend presque rien.
+
+
+
+Taper : [Inconnu]
+
+
+SP-CMC-8(cardioid-low sensitivity)
+SP-SPSB10(rocker on are 1-4, for right and left)
+Editol R-09, 48khz-24 bit ->
+Audition(normalisation) ->
+Audition 44khz-16 bit ->
+CD Wave(tracksplit) ->
+Db Power Amp(flac8)
+
+
+
+*****************************
+Ne pas vendre, ne pas acheter
+*****************************
+
+Vous pouvez convertir pour vous même en mp3.
+
+**********************************************************
+Ne pas distribuer sous format avec perte(mp3, wma, ogg...)
+**********************************************************
+
+****************************
+Don't sell it, never buy it.
+****************************
+
+You can convert in mp3 if you want for personnal use. 
+
+********************************************************
+Do not distribute in any lossy form(mp3, ogg, wma...)
+********************************************************
+
+Setlist :
+
+Cd1. 76'59
+
+01 - 15 Step				5:50
+02 - Bodysnatchers			4:43
+03 - All I need				4:25
+04 - Airbag				4:48
+05 - Nude				4:34
+06 - Pyramid song			5:25
+07 - Weird fishes/Arpeggi		5:20
+08 - The gloaming			3:26
+09 - Dollars and cents			5:46
+10 - Faust arp				2:37
+11 - Videotape				5:20
+12 - Optimistic				4:47
+13 - Just				4:16
+14 - Reckoner				5:28
+15 - Everything in its right place	4:58
+16 - Fake plastic trees			5:10
+
+Cd2.
+
+17 - Jigsaw falling into place		4:09
+18 - [Encore]				2:40
+19 - House of cards			6:08
+20 - There there			6:15
+21 - Bangers and mash			4:09
+22 - Paranoid android			6:56
+23 - How to disappear completely	7:19
+24 - [Encore]				1:51
+25 - Cymbal rush			4:43
+26 - You and whose army?		3:12
+27 - Idioteque				4:04
+

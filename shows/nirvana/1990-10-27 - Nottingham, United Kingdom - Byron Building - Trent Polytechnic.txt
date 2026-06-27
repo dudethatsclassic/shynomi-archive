@@ -1,0 +1,74 @@
+NIRVANA
+October 27, 1990
+Byron Building, Trent Polytechnic
+Nottingham, United Kingdom
+
+SOURCE (AUD #2):
+unknown > unknown
+
+TRANSFER:
+Nakamichi CR-7A > Klotz MY206 Custom RCA cables > Focusrite 18i8 G2 > Adobe Audition 2020 (v13.013) > CD Wave 1.98  > FLAC Frontend 2.1
+
+GENERATION:
+ANA(x) > WAV [96kHz 32-bit] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+72:21
+
+TRACKS:
+01. intro
+02. Blew
+03. Been A Son
+04. Negative Creep
+05. Stain
+06. Lithium
+07. Spank Thru
+08. Breed
+09. About A Girl
+10. Dive
+11. Sliver
+12. Big Cheese
+13. Floyd The Barber
+14. Polly (cuts in)
+15. Scoff
+16. Love Buzz
+17. D-7
+18. Son Of A Gun
+19. Molly's Lips
+20. In Bloom
+21. School
+22. Paper Cuts
+23. Stay Away
+
+NOTES:
+- Incomplete, missing Do Nuts
+
+MD5 FINGERPRINTS:
+eab4369998f9bcb402879f8ffd68af8e *Nirvana_1990-10-27_AUD2_ANAx_t01.flac
+316b281fd311d9d57c8e7b7061c67c66 *Nirvana_1990-10-27_AUD2_ANAx_t02.flac
+29e8732afdc9b2e759669f3d647d3e16 *Nirvana_1990-10-27_AUD2_ANAx_t03.flac
+c0b37e72757ecb7b3253fce12603e842 *Nirvana_1990-10-27_AUD2_ANAx_t04.flac
+a502164abe8748c490170bac1cc485a1 *Nirvana_1990-10-27_AUD2_ANAx_t05.flac
+a1a8b3377b99d52396380992f582235e *Nirvana_1990-10-27_AUD2_ANAx_t06.flac
+1d7173cc564998ebad853caad843a4a9 *Nirvana_1990-10-27_AUD2_ANAx_t07.flac
+fae29f73bdf6dc7f5fcedca6d967ce34 *Nirvana_1990-10-27_AUD2_ANAx_t08.flac
+2eb5efd96d3666a810fd55eceb75259d *Nirvana_1990-10-27_AUD2_ANAx_t09.flac
+497afed469d94e58d6228516a1a298f0 *Nirvana_1990-10-27_AUD2_ANAx_t10.flac
+69be6590ea8293a3e5b5cc7519f359c5 *Nirvana_1990-10-27_AUD2_ANAx_t11.flac
+3a7d670f32b2ee9f56aad67874a1a684 *Nirvana_1990-10-27_AUD2_ANAx_t12.flac
+119d8d14b82c59b3d19a95f2898b0bc4 *Nirvana_1990-10-27_AUD2_ANAx_t13.flac
+5bce2ce7e1885b996778abb9b6b397ba *Nirvana_1990-10-27_AUD2_ANAx_t14.flac
+0b5232b735a1f3456487c80f5719b1d3 *Nirvana_1990-10-27_AUD2_ANAx_t15.flac
+91a2b9289c50bf4405badb14030d768d *Nirvana_1990-10-27_AUD2_ANAx_t16.flac
+4396a2021f5b6dff00cf22a476fa332f *Nirvana_1990-10-27_AUD2_ANAx_t17.flac
+8dcac82fdce94ac04be605dda8001d2e *Nirvana_1990-10-27_AUD2_ANAx_t18.flac
+8381fa220ce02fd2aadef729fd8dfe9f *Nirvana_1990-10-27_AUD2_ANAx_t19.flac
+2e6b5ff1e9bcc321ee667800b10d9d97 *Nirvana_1990-10-27_AUD2_ANAx_t20.flac
+19eb71c445868aff95afa0ae74b66aae *Nirvana_1990-10-27_AUD2_ANAx_t21.flac
+6c09ae3e9ee45a83f60824504b3e1f1f *Nirvana_1990-10-27_AUD2_ANAx_t22.flac
+4b51475182c81216da123fcee71d4bb2 *Nirvana_1990-10-27_AUD2_ANAx_t23.flac
+
+TRANSFERRED BY:
+Pierre Leroy.
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

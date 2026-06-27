@@ -1,0 +1,74 @@
+Radiohead
+20th June 1993
+Passage Du Nord
+Paris, France
+
+SETLIST (67:41)
+---------------
+01. You
+02. Prove Yourself
+03. The Bends
+04. Vegetable
+05. Creep
+06. Lurgee
+07. Ripcord
+08. How Do You
+09. Faithless The Wonder Boy
+10. Banana Co.
+11. Inside My Head
+12. Stop Whispering
+13. Permanent Daylight
+14. Anyone Can Play Guitar
+15. Pop Is Dead
+16. Thinking About You
+17. Killer Cars
+18. Blow Out
+19. Rhinestone Cowboy (Larry Weiss/Glen Campbell cover)
+
+
+GENERATION
+----------
+ANA2->FLAC
+
+
+SOURCE
+------
+unknown mics->unknown recorder->DAT(M)->ANA(2)
+
+
+TRANSFER
+--------
+ANA(2)>Yamaha KX-393>M-Audio Audiophile 2496>WAV(96kHz/32bit)>CEP 2.1(tape flip edit/normalise/fades/resample @ 44.1kHz 16-bit)>CDWave(splits)>foobar2000>FLAC
+
+
+NOTES
+-----
+Last show of the European "Pablo Honey" tour.  A drunken fan calling for Creep AFTER it's already been played pisses Thom off, leading to my favourite ever version of Stop Whispering, Thom's screaming probably caused by the aforementioned "fan".  Nice full band version of Banana Co.  Encore breaks were already edited out.
+
+
+FLAC FINGERPRINTS
+-----------------
+rh1993-06-20-t01.flac:0070632d6cc9b8f81ef028c016f334ae
+rh1993-06-20-t02.flac:b1ac5f2a125b60005ee4db6aa74ea772
+rh1993-06-20-t03.flac:795821b8378d60b44d7c1bd45e22c38c
+rh1993-06-20-t04.flac:e7895bfe0e78985a701c162c64d65061
+rh1993-06-20-t05.flac:47358cf8c486236254b353f146bd34e2
+rh1993-06-20-t06.flac:fe9ca93abfec542b767c0f2c380aeb18
+rh1993-06-20-t07.flac:9482ad049094d5f96c48d558a1f6d2bd
+rh1993-06-20-t08.flac:977b8b3c7a4d6e78d5680057c363c7bc
+rh1993-06-20-t09.flac:9501fea5473047887be77735f1b73055
+rh1993-06-20-t10.flac:88634c6ac13a148511a41deb5ae8e9b6
+rh1993-06-20-t11.flac:219ae82fa48b67a1e72e44c13220f632
+rh1993-06-20-t12.flac:0addd8f74764825b81ad0ba4f23d0ccc
+rh1993-06-20-t13.flac:03d1e0c5c582a6918053b3587c370169
+rh1993-06-20-t14.flac:6021f48296bc99ece87975d224e71a01
+rh1993-06-20-t15.flac:00ded2475fc311d4eb0c46e4afd9bba8
+rh1993-06-20-t16.flac:fa409c3668387a5c231df04b9b415928
+rh1993-06-20-t17.flac:2f8d8791285e96466b9f9cc81df50317
+rh1993-06-20-t18.flac:cf6496a860df38af80896fa98a40152f
+rh1993-06-20-t19.flac:466f1323e98948233c145a649daf6dd6
+
+
+Transferred by: Gary Watson (gazpachio@gmail.com)
+
+PLEASE DO NOT SELL OR DISTRIBUTE IN LOSSY FORMATS!

@@ -1,0 +1,31 @@
+Ugly Kid Joe
+
+25 April 2014
+Palace Theatre
+Melbourne, Victoria, Australia
+
+
+Intro
+Neighbor
+Dialogue
+C.U.S.T.
+Panhandlin' Prince
+So Damn Cool
+No One Survives
+Devil's Paradise
+Cat's In The Cradle (Harry Chapin)
+I'm Alright
+Funky Fresh Country Club
+Milkman's Son
+Goddamn Devil
+If You Want Blood (You've Got It) (AC/DC) - With members of Skid Row
+Everything About You
+
+**Supporting Skid Row
+
+
+Running Time: 1:08:30
+
+Taper: Roman79 ~ balcony level, centre
+
+Lineage: Matched DPA MMC4011s > DP-MMP-ES > Tinybox @ 48V > Sony PCM-M10 > Adobe Audition CS6 - Edit & Levels - (iZotope RX 4 DeClicker Plugin - remove loud clapping), (iZotope Ozone 5 Mastering Plugin - EQ - MBIT+ Dithering @ 44kHz/16bit WAV) > TLH V2.7.0 FLAC Lvl - Fix SBE's > Foobar - Tagging

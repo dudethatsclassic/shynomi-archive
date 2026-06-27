@@ -1,0 +1,82 @@
+Radiohead
+2006-06-14
+The Theatre at Madison Square Garden
+New York, NY  USA
+
+Recorder1
+Master Audience Recording
+Section 202 Row R, Seat 19
+approximately 100 feet directly in front of stage-left PA speaker
+
+Core Sound Cardiods > M-Audio Microtrack 24/96 > 
+16 bit 44.1 wav file > Soundforge > CDWave (tracking) > Flac 
+Frontend (level 7, align sector boundaries) > flac
+
+recorded and edited by
+danlynch 2006-06-14
+
+This recording is dedicated to the people of the Radiohub, a 
+wonderfully generous and dedicated group of Radiohead fans.
+Visit soundofconfusion.no-ip.org in the direct connect network (DC++)
+
+
+Tracklist:
+01 Intro/The Gloaming
+02 The National Anthem
+03 15 Step
+04 Arpeggi
+05 Kid A
+06 Dollars And Cents
+07 Videotape
+08 Nude
+09 I Might Be Wrong
+10 Paranoid Android
+11 Bangers 'n Mash
+12 Pyramid Song
+13 My Iron Lung
+14 Bodysnatchers
+15 Myxomatosis
+16 No Surprises
+17 Everything In Its Right Place
+
+Encore 1
+18 A Wolf At The Door
+19 Down Is The New Up
+20 Like Spinning Plates
+21 Spooks
+22 Idioteque
+
+Encore 2
+23 Just
+24 The Tourist
+
+
+Please respect the recorder's wishes and DO NOT CONVERT TO 
+LOSSY FILES (i.e. mp3s) unless for your own personal use (ipod, etc)
+
+
+Flac Fingerprints:
+radiohead2006-06-14_Recorder1_t01.flac:29a598a16da509fea29410a37a7c8b6e
+radiohead2006-06-14_Recorder1_t02.flac:95902830880d4c6601e7063c55a7c40f
+radiohead2006-06-14_Recorder1_t03.flac:13a8cc60585e88150df2fda9faaad935
+radiohead2006-06-14_Recorder1_t04.flac:dd3c2c1f70e3227b8b161bef480565f3
+radiohead2006-06-14_Recorder1_t05.flac:c132878d3471a145f9a29dde7782e683
+radiohead2006-06-14_Recorder1_t06.flac:01e91a0140d0639f9defa8682289c517
+radiohead2006-06-14_Recorder1_t07.flac:acb0a9924fa8c1396f01580c790ac4af
+radiohead2006-06-14_Recorder1_t08.flac:c48d3de96bd575d24f126297620f0917
+radiohead2006-06-14_Recorder1_t09.flac:a59e29fe1a2d205e010769976cbdf53b
+radiohead2006-06-14_Recorder1_t10.flac:2c689ef55379a58c4e0a9c598fc0f302
+radiohead2006-06-14_Recorder1_t11.flac:fdd619ddeaf7ca53513e1f78d3882c23
+radiohead2006-06-14_Recorder1_t12.flac:49f87063e6949d5f224b0f641ce0794a
+radiohead2006-06-14_Recorder1_t13.flac:c456158f85439d788e43b9a032f82aef
+radiohead2006-06-14_Recorder1_t14.flac:d8cb26273d9d68cfe32ebb3482349358
+radiohead2006-06-14_Recorder1_t15.flac:b4b33a61d153cd200d2823cbef8c72e6
+radiohead2006-06-14_Recorder1_t16.flac:3849a4845679857a284e271592b9658c
+radiohead2006-06-14_Recorder1_t17.flac:e9c220423e0fdd5d3cd88e279c7c34bb
+radiohead2006-06-14_Recorder1_t18.flac:4ca177b466db35507343fc31d95a3bee
+radiohead2006-06-14_Recorder1_t19.flac:31951cb09fa52c8eeae1dc69fc1b53bc
+radiohead2006-06-14_Recorder1_t20.flac:6e2c2e3b993327296a221450016d2421
+radiohead2006-06-14_Recorder1_t21.flac:a8519132d385f18218f494724eee2f31
+radiohead2006-06-14_Recorder1_t22.flac:06e0aa8f7b9055fd322112085f53e244
+radiohead2006-06-14_Recorder1_t23.flac:3feb87172475503659764afca0c0c083
+radiohead2006-06-14_Recorder1_t24.flac:fbbacae663da9fc9647a222f973a9766

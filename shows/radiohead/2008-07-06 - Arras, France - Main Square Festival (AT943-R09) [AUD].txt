@@ -1,0 +1,109 @@
+Radiohead
+2008-07-06
+Square Festival
+Arras
+France
+
+Taper      : bnz
+Source     : at943 - SP-SPSB-11 (Bass Roll-off at 107 HZ) - Edirol R09 at 16 bit 44.1 Khz
+Transfer   : SD card > SDslot > PC > Audition 1.5 > 16 db boost > Cdwave > TLH > FLAC (8)
+Total Time : 125:37 min
+Position   : FOB, 2 meters right of center, mics on hat
+Conditions : windy, not very disturbing on the recording for me, but its there during some points ...
+
+01 15 Step
+02 Airbag
+03 There There
+04 All I Need
+05 Where I End and You Begin
+06 A Wolf at the Door
+07 Nude
+08 Pyramid Song
+09 Weird Fishes
+10 Climbing Up the Walls
+11 The Gloaming
+12 Faust Arp
+13 No Surprises
+14 Jigsaw Falling Into Place
+15 Reckoner
+16 Exit Music (for a Film)
+17 Bodysnatchers
+
+Encore 1
+18 Cymbal Rush
+19 Videotape
+20 Paranoid Android
+21 Dollars and Cents
+22 Idioteque
+
+Encore 2
+23 House of Cards
+24 The National Anthem
+25 Street Spirit
+
+Do not sell, do not convert to lossy formats, do not remaster ect ect.
+
+Enjoy !!
+
+bnz, 2008-07-09
+
+Futher ... for me this was my last Radiohead show off this EU Leg, they clossed with style, what an amazing show !
+
+RH-2008-07-06_Arras_01_15 Step.wav:  successfully encoded to 'RH-2008-07-06_Arras_01_15 Step.flac'
+RH-2008-07-06_Arras_02_Airbag.wav:  successfully encoded to 'RH-2008-07-06_Arras_02_Airbag.flac'
+RH-2008-07-06_Arras_03_There There.wav:  successfully encoded to 'RH-2008-07-06_Arras_03_There There.flac'
+RH-2008-07-06_Arras_04_All I Need.wav:  successfully encoded to 'RH-2008-07-06_Arras_04_All I Need.flac'
+RH-2008-07-06_Arras_05_Where I End and You Begin.wav:  successfully encoded to 'RH-2008-07-06_Arras_05_Where I End and You Begin.flac'
+RH-2008-07-06_Arras_06_A Wolf at the Door.wav:  successfully encoded to 'RH-2008-07-06_Arras_06_A Wolf at the Door.flac'
+RH-2008-07-06_Arras_07_Nude.wav:  successfully encoded to 'RH-2008-07-06_Arras_07_Nude.flac'
+RH-2008-07-06_Arras_08_Pyramid Song.wav:  successfully encoded to 'RH-2008-07-06_Arras_08_Pyramid Song.flac'
+RH-2008-07-06_Arras_09_Weird Fishes.wav:  successfully encoded to 'RH-2008-07-06_Arras_09_Weird Fishes.flac'
+RH-2008-07-06_Arras_10_Climbing Up the Walls.wav:  successfully encoded to 'RH-2008-07-06_Arras_10_Climbing Up the Walls.flac'
+RH-2008-07-06_Arras_11_The Gloaming.wav:  successfully encoded to 'RH-2008-07-06_Arras_11_The Gloaming.flac'
+RH-2008-07-06_Arras_12_Faust Arp.wav:  successfully encoded to 'RH-2008-07-06_Arras_12_Faust Arp.flac'
+RH-2008-07-06_Arras_13_No Surprises.wav:  successfully encoded to 'RH-2008-07-06_Arras_13_No Surprises.flac'
+RH-2008-07-06_Arras_14_Jigsaw Falling Into Place.wav:  successfully encoded to 'RH-2008-07-06_Arras_14_Jigsaw Falling Into Place.flac'
+RH-2008-07-06_Arras_15_Reckoner.wav:  successfully encoded to 'RH-2008-07-06_Arras_15_Reckoner.flac'
+RH-2008-07-06_Arras_16_Exit Music.wav:  successfully encoded to 'RH-2008-07-06_Arras_16_Exit Music.flac'
+RH-2008-07-06_Arras_17_Bodysnatchers.wav:  successfully encoded to 'RH-2008-07-06_Arras_17_Bodysnatchers.flac'
+RH-2008-07-06_Arras_18_Cymbal Rush.wav:  successfully encoded to 'RH-2008-07-06_Arras_18_Cymbal Rush.flac'
+RH-2008-07-06_Arras_19_Videotape.wav:  successfully encoded to 'RH-2008-07-06_Arras_19_Videotape.flac'
+RH-2008-07-06_Arras_20_Paranoid Android.wav:  successfully encoded to 'RH-2008-07-06_Arras_20_Paranoid Android.flac'
+RH-2008-07-06_Arras_21_Dollars and Cents.wav:  successfully encoded to 'RH-2008-07-06_Arras_21_Dollars and Cents.flac'
+RH-2008-07-06_Arras_22_Idioteque.wav:  successfully encoded to 'RH-2008-07-06_Arras_22_Idioteque.flac'
+RH-2008-07-06_Arras_23_House of Cards.wav:  successfully encoded to 'RH-2008-07-06_Arras_23_House of Cards.flac'
+RH-2008-07-06_Arras_24_The National Anthem.wav:  successfully encoded to 'RH-2008-07-06_Arras_24_The National Anthem.flac'
+RH-2008-07-06_Arras_25_Street Spirit.wav:  successfully encoded to 'RH-2008-07-06_Arras_25_Street Spirit.flac'
+
+No errors occured.
+
+
+RH-2008-07-06_Arras_01_15 Step.flac:243188c4503a663ba3cc2c86170d7211
+RH-2008-07-06_Arras_02_Airbag.flac:6b747e59b1dd686dba864d92835a8847
+RH-2008-07-06_Arras_03_There There.flac:a478471e331f331a620a0432768e2fb9
+RH-2008-07-06_Arras_04_All I Need.flac:1de55730c74c370f3b244452fad25f25
+RH-2008-07-06_Arras_05_Where I End and You Begin.flac:2dcc57fe0ecc754e655c51344d449a69
+RH-2008-07-06_Arras_06_A Wolf at the Door.flac:f6c5c33a630c58675cf7dfb222aa60dd
+RH-2008-07-06_Arras_07_Nude.flac:a4f4220fc578785adb522b62cf95ea0b
+RH-2008-07-06_Arras_08_Pyramid Song.flac:4535c291635699a7226456a86450ffac
+RH-2008-07-06_Arras_09_Weird Fishes.flac:d33e9c4fcf41a1b6efe35ffccc577807
+RH-2008-07-06_Arras_10_Climbing Up the Walls.flac:28fbb00f4dcbfc3ec43cc0eacfb5747f
+RH-2008-07-06_Arras_11_The Gloaming.flac:8e533d4725f79a80b0a4382f459f06b2
+RH-2008-07-06_Arras_12_Faust Arp.flac:729054f33b916f9a5c1f2b7971f04074
+RH-2008-07-06_Arras_13_No Surprises.flac:81c114fffca836dad7b7b3b9376fa892
+RH-2008-07-06_Arras_14_Jigsaw Falling Into Place.flac:077e53ec5402b82c168a02868450ad04
+RH-2008-07-06_Arras_15_Reckoner.flac:4c95bec0be935c39595da80292017849
+RH-2008-07-06_Arras_16_Exit Music.flac:4fbc641bf136ca4724ce35a966cf9cc3
+RH-2008-07-06_Arras_17_Bodysnatchers.flac:16220f8c3e085e53db31dd74541b122b
+RH-2008-07-06_Arras_18_Cymbal Rush.flac:c4bf5a4d26566a07ba92dd5264e00465
+RH-2008-07-06_Arras_19_Videotape.flac:1b80bfa1ff73ff86207187050bce0f19
+RH-2008-07-06_Arras_20_Paranoid Android.flac:b96eb483c5612e3c2881234798eabe0e
+RH-2008-07-06_Arras_21_Dollars and Cents.flac:d4fc1539c8f06eca291c3de1a36af73c
+RH-2008-07-06_Arras_22_Idioteque.flac:eb767a19001ec89364b450c8b2aee188
+RH-2008-07-06_Arras_23_House of Cards.flac:b04fb3c67b5f3d190d88e368a69127e2
+RH-2008-07-06_Arras_24_The National Anthem.flac:ce3f7d577e4384e65f12377451295af7
+RH-2008-07-06_Arras_25_Street Spirit.flac:8da28f4a23dc173ce4bb08e1e2edee93
+
+No errors occured.
+
+Checksum file saved to disk.

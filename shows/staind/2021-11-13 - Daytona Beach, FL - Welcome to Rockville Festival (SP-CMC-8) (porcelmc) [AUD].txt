@@ -1,0 +1,64 @@
+Staind
+November 13, 2021
+Daytona Beach, Florida USA
+Welcome to Rockville Festival at the Daytona International Speedway
+Lineage: SP-CMC-8(AT8538 Mod)>CA-UGLY II>Edirol R-05>PC>CDWAVE>Adobe Audition>FLAC
+Taped by: Porcelmc 
+
+_____________________________________________________________
+
+Setlist - Staind
+
+01. Intro
+02. Eyes Wide Open
+03. Open Your Eyes
+04. Not Again
+05. Fade
+06. Raw
+07. Right Here
+08. Crawl
+09. Aaron Speaks
+10. Outside
+11. Paper Wings
+12. Aaron Speaks #2
+13. So Far Away 
+14. For You
+15. Aaron Speaks #3
+16. It's Been Awhile
+17. USA Crowd Chant
+18. Mudshovel
+
+_____________________________________________________________
+
+Notes:
+
+N/A
+
+_____________________________________________________________
+
+Sample: 
+
+https://youtu.be/MfH32RMuSOc
+
+ST5 Hash File:
+
+1d2313f3f795e066cd7a218e6e1f00b6  [shntool]  01_Intro.flac
+4d7430d17895cb55ddb3726addec2ff2  [shntool]  02_Eyes Wide Open.flac
+d7ec52deccfacacba489d79b91226371  [shntool]  03_Open Your Eyes.flac
+b1b783f6043a4280ef9099bb3d0328ef  [shntool]  04_Not Again.flac
+8efb6028c586ca1a22768672bac723c7  [shntool]  05_Fade.flac
+9b992a12b08577850fdc9a1f315a9043  [shntool]  06_Raw.flac
+92d0a51b0a8dfac29d6259f08753f96c  [shntool]  07_Right Here.flac
+6bd45e293703cd3d2372164664e4ba67  [shntool]  08_Crawl.flac
+16aae1407eb2db6990ee976a56396a1e  [shntool]  09_Aaron Speaks.flac
+56497e9fb9af050d864c693851b02216  [shntool]  10_Outside.flac
+c91a681af83eb653fce0dfe66c457b75  [shntool]  11_Paper Wings.flac
+a2179248a59b6190a31b8c1d32a5fd48  [shntool]  12_Aaron Speaks #2.flac
+34156522772731cbef1df45adc25325e  [shntool]  13_So Far Away.flac
+46b8e67ec3de4a34076b0776177019d8  [shntool]  14_For You.flac
+945d378c83a277f77468fd854c741bff  [shntool]  15_Aaron Speaks #2.flac
+bebfc3a17ca7e8f90b827e2c364866e2  [shntool]  16_It's Been Awhile.flac
+d8d7adbcfddaceb4f7566a5a75ec4922  [shntool]  17_USA Crowd Chant.flac
+1ab965c3dc8f1f0917dae7b576705800  [shntool]  18_Mudshovel.flac
+
+No errors occured.

@@ -1,0 +1,52 @@
+NIRVANA
+December 29, 1991
+University Activity Center, Arizona State University
+Tempe, AZ
+
+DISC #1/1 (41:59)
+-----------------
+01) intro
+02) Drain You
+03) Aneurysm
+04) Floyd The Barber
+05) Smells Like Teen Spirit
+06) About A Girl
+07) Polly
+08) Sliver
+09) Breed
+10) School
+11) Come As You Are
+12) Lithium
+13) Territorial Pissings
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Realistic Miniature PZM -> Sony WM-D6
+
+TRANSFER
+-----------------
+Nakamichi CR-7A -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+67d8d1c702c6f53a4817c2dd5a94cf26 *nirvana1991-12-29t01.flac
+6208a442d1f81194dab75b0202d92f17 *nirvana1991-12-29t02.flac
+e1ebe8ef19d04f7fc4fd529374d3091a *nirvana1991-12-29t03.flac
+0d0ced6a9762d6374267574192ec759a *nirvana1991-12-29t04.flac
+935a54b1a44db00a9e23a1903d3a877b *nirvana1991-12-29t05.flac
+f65539d0195342695e016813cce01ede *nirvana1991-12-29t06.flac
+4d4bbdc2f8bc19fc288f00060e837bcb *nirvana1991-12-29t07.flac
+479ed1286e974aa87ddaa2eb167bca99 *nirvana1991-12-29t08.flac
+ff8ece2f7a9d35d67cfd78cf63a275e5 *nirvana1991-12-29t09.flac
+ec4c9cbd4d5ca73c132ace4cb0f29526 *nirvana1991-12-29t10.flac
+4ea3b9e0089f812e651a70d33593185b *nirvana1991-12-29t11.flac
+e4e35f282f2566e5ba21c606e9b89ad3 *nirvana1991-12-29t12.flac
+c72d13c28939414335c63fc0df2b84f9 *nirvana1991-12-29t13.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

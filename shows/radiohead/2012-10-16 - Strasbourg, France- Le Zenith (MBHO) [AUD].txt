@@ -1,0 +1,46 @@
+RADIOHEAD
+2012-10-16
+Le Zénith
+Strasbourg, France
+
+Source:     MBHO KA 200 N > Naiant Tinybox > Sony PCM-M10
+Mic Config: A-B
+Location:   ~20m from the stage, left side
+Transfer:   Master WAVs > dEdit > FLAC V1.2.1
+Editing:    Volume boost and EQ in Apple Logic Pro V9.1.4
+            Fades in Audiofile Engineering Wave Editor V1.5.4
+Resampling: 48.0 kHz > 44.1 kHz resampling using iZotope 64-bit SRC
+Dithering:  MBIT+
+Format:     16 bit / 44.1 kHz
+
+Disc 1:
+01 (Intro)
+02 Lotus Flower
+03 Bloom
+04 15 Step
+05 Kid A
+06 Staircase
+07 I Might Be Wrong
+08 The Gloaming
+09 Separator
+10 Videotape
+11 Nude
+12 Ful Stop
+13 Reckoner
+14 Planet Telex
+
+Disc 2:
+01 There There
+02 Feral
+03 Bodysnatchers
+04 (Encore Break #1)
+05 Give Up the Ghost
+06 Exit Music (For a Film)
+07 Weird Fishes/Arpeggi
+08 Morning Mr Magpie
+09 Street Spirit (Fade Out)
+10 (Encore Break #2)
+11 The National Anthem
+12 Unravel [Björk]
+13 Everything in Its Right Place
+14 Idioteque

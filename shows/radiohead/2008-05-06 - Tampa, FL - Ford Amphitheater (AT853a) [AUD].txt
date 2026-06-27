@@ -1,0 +1,54 @@
+Radiohead
+05-06-2008
+Ford Amphitheatre
+Tampa, FL
+
+taped and transfered by jeromejello at yahoo
+
+Source: AT853a (c) > SD MP-2 > ihp120
+hrtf#, dfc [sec 14 row p seat 19]
+transfer: ihp120 > usb2 > SF 7.0* > cdwav > flac
+
+released into the wild: 05-10-08
+
+
+Disc 1
+01. Intro >				[01:29.00]
+02. All I Need				[04:10.00]
+03. There There				[06:18.00]
+04. Lucky				[05:04.00]
+05. Bangers and Mash			[03:59.00]
+06. 15 Step				[04:10.00]
+07. Nude				[04:47.00]
+08. Pyramid Song			[05:24.00]
+09. Optimistic				[05:00.00]
+10. Weird Fishes/Arpeggi		[05:26.00]
+11. National Anthem			[05:12.00]
+12. Idioteque				[04:31.00]
+13. You And Whose Army?			[03:44.00]
+
+			Totatl Disc 1	[59:14.00]
+
+Disc 2
+01. Reckoner				[05:31.00]
+02. Everything In Its Right Place	[04:39.00]
+03. Airbag				[04:47.00]
+04. Bodysnatchers			[04:39.00]
+05. Videotape				[04:38.00]
+06. encore break			[03:07.00]
+07. The Gloaming			[03:32.00]
+08. The Tourist				[05:15.00]
+09. Just				[04:12.00]
+10. Faust Arp				[02:32.00]
+11. Exit Music (for a film)		[04:30.00]
+12. second encore			[02:28.00]
+13. The Bends				[04:50.00]
+14. House of Cards			[06:06.00]
+
+			Total Disc 2	[60:46.00]
+
+~ show notes ~
+
+# - mics head mounted, stealth stylee
+* - Left channel volume bumped +1.5dB, entire show normalized to -0.01dB
+SET LIST from 58hours.com

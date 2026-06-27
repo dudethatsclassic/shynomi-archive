@@ -1,0 +1,75 @@
+Radiohead
+13th July 1996
+T In The Park Festival
+Hamilton, Scotland
+
+SETLIST (58:40)
+---------------
+01. My Iron Lung
+02. Anyone Can Play Guitar
+03. Bullet Proof... I Wish I Was
+04. Planet Telex
+05. High & Dry
+06. Lucky
+07. [nice dream]
+08. Bones
+09. Street Spirit (Fade Out)
+10. The Bends
+11. Just
+12. Creep
+13. Fake Plastic Trees
+14. Thinking About You
+
+GENERATION
+---------------
+ANA(M) -> FLAC
+
+SOURCE (SBD #1)
+---------------
+SBD > FM > ANA(M)
+
+TRANSFER
+---------------
+ANA(M) -> M-Audio Audiophile 2496 -> CEP 2.1 (capture/fades/edit) -> WAV -> CD Wave 1.95.1 -> FLAC(8)
+
+NOTES
+-----
+There are probably songs missing, some edits were evident on the broadcast.  I have removed the station IDs myself.  This is NOT from a bootleg, but is my original recording made on my old Sony stack system.
+
+FLAC FINGERPRINTS
+-----------------
+rh-1996-07-13-fm-t01.flac:45922de06674f55f01e9a80ad1f54500
+rh-1996-07-13-fm-t02.flac:a2a71c5279f032419985431f3ef1cf94
+rh-1996-07-13-fm-t03.flac:22a45025f229d564764e3b22d55b330f
+rh-1996-07-13-fm-t04.flac:79569ea37fa36693340e52dc77ddacd7
+rh-1996-07-13-fm-t05.flac:b01d37e28a89d6618a7f1d1e1ba24bd0
+rh-1996-07-13-fm-t06.flac:21a8eb2e9687036a661b674d7570f8eb
+rh-1996-07-13-fm-t07.flac:7a66efbf0c473a5f394d35510a4af5ef
+rh-1996-07-13-fm-t08.flac:909b1c0e09feea52b10bcce700b3d169
+rh-1996-07-13-fm-t09.flac:c598d784274a6cd8913829b4e4771abc
+rh-1996-07-13-fm-t10.flac:e6ec70101b5aaa9ee74429e2240c16ab
+rh-1996-07-13-fm-t11.flac:47f35bdf33faf050411eafb0af4ded17
+rh-1996-07-13-fm-t12.flac:cff00e80ee3d1c47d2f4f7dfc558fdf2
+rh-1996-07-13-fm-t13.flac:d2f8b0523d6c8ba70b7283b51a2ee720
+rh-1996-07-13-fm-t14.flac:f5e917b2bc7d430810ece27671f21ec4
+
+MD5 CHECKSUMS
+---------------
+12f072082668955a4535b59db1a72667 *rh-1996-07-13-fm-t01.flac
+29f056e09f345807f78fd6b81251dc55 *rh-1996-07-13-fm-t02.flac
+cfd0b48ceda010b200f48b3c53e09d32 *rh-1996-07-13-fm-t03.flac
+387dc7ab054b73e62c740383ffbec4cf *rh-1996-07-13-fm-t04.flac
+8a75a5f451351fa725bb4c80ab3368ba *rh-1996-07-13-fm-t05.flac
+84bca3c86d7254c3271114b73be5d922 *rh-1996-07-13-fm-t06.flac
+a8a74329bc2b84d76a006c089b3ffa73 *rh-1996-07-13-fm-t07.flac
+62a5b96cb9e3977a6864c5580ffd4fc3 *rh-1996-07-13-fm-t08.flac
+6ddabace901b0fe76568a56c193efe3d *rh-1996-07-13-fm-t09.flac
+4d75f8f5140d3b65dd3b2d27980258af *rh-1996-07-13-fm-t10.flac
+2547a91a4177f498cf4fc4f72e449a8e *rh-1996-07-13-fm-t11.flac
+955ddd7c5072d9adce63962c324b8abb *rh-1996-07-13-fm-t12.flac
+49ffda91f15e1afa2a53514c180d0189 *rh-1996-07-13-fm-t13.flac
+f13657725e2752471b2529762cbf13e4 *rh-1996-07-13-fm-t14.flac
+
+Taped, transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

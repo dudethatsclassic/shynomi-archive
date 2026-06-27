@@ -1,0 +1,153 @@
+1968-11-30 Cobo Arena, Detroit [funkydrummer cleanup and merge]
+
+Lineage ATM 231-232 FLAC> Adobe Audition (NR, EQ, Comp, Merge) > FLAC
+
+01 Intro
+02 Fire [Stereo Merge]
+03 Spanish Castle Magic [1st Source]
+04 I Don't Live Today [Stereo Merge]
+05 Sunshine Of Your Love [Stereo Merge]
+06 Voodoo Chile (Slight Return)[1st Source]
+07 Red House [Composite - See Notes]
+08 Foxy Lady [2nd Source]
+09 Hey Joe [2nd Source]
+10 Purple Haze [2nd Source]
+11 Bonus - Red House [Stereo Merge]
+
+Notes:
+
+An attempt to make as best sounding and complete version of show - I used ATM 231-232 as the source material to clean up and merge. I didn't have the previous "Merge Vol 4" of the tracks available to both sources - so I decided to make my own from scratch. Of course there is ATM 143 - but that is a composite rather than a stereo merge/composite. 
+I include the Notes that came with ATM 231-232 which explains a few things about the problematic nature of the sources - in particular 1st Source which has all sorts of issues - and my thanks to those who went to the trouble to fix the tapes in the original ATM as they made life much easier. 
+There is a bit of wavering at the very start of the intro/tune-up (1st Source) but it is mostly fine until we get to Voodoo Chile, which is perhaps the worst sounding of the lot. There is only the truncated 1st source for this which stops the show from being near complete. 
+I edited and merged the two sources for Red House - but the tape wobble was so offputting to listen to that I made a composite instead. So only the very end uses the 1st Source as to make it complete. 
+
+
+Despite the band sounding tired and jaded in their comments - it is a very spirited performance and an excellent show. 
+
+Here are the original notes from ATM 231-232 that discusses the limitations of the sources...
+
+Notes:
+- 1st source of this show is the tape 
+originally thought to be from the 2/V/1969 
+Detroit concert. This tape captures the first 
+part of the show but misses the remainder. 
+That's yet another tape that has mostly 
+circulated incomplete. Many sources end with 
+the first minute of "Voodoo Chile (Slight Return)" 
+(34i) followed by 3-minute portion of  "Red House" 
+(34i). Check Joel Brattin's article in UniVibes 
+issue 28, p.27-32 (April 1998) about all Detroit 
+recordings.  
+
+- Details about the 1st source:: 
+The tape is a real mess! It's a mono recording, 
+but somwhere during the analog copying many 
+problems were introduced. Phase between channels 
+had a large offset that wasn't constant (large enough 
+that it must have been intentional, to give a fake 
+stereo effect), so even when the average 
+offset was corrected, some variations in phase 
+remained that made the sound wobble back and forth. 
+The two channels have also been treated with different 
+EQ, with the right channel more trebly and the the 
+left channel more bassy. There was no feasible way 
+to remove these problems (and additional ones 
+described below) completely and combine the channels 
+without losing sound quality, so the right channel 
+of the recording was used, with some small patches 
+from the other channel. Not knowing which channel 
+(if either) has the more correct EQ, the average 
+value was used and applied to the right channel. 
+The tape gets 1 minute into "Voodoo Child 
+(Slight Return)" (34), then the audio cuts and 
+jumps into the middle of "Red House" (34). 
+After "Red House" (34) reaches its end, there's 
+another cut and we're back to "Voodoo Chile 
+(Slight Return)" (34) to capture the end of the song. 
+Apparently what must have occurred is that the taper 
+got to the end of the tape, but wanting to record 
+some of  the"Red House" (34), rewound the tape and 
+recorded it over the part of previously taped "Voodoo 
+Child (Slight Return)" (34). As the tape progresses past 
+the start of "Voodoo Chile (Slight Return)" (34), 
+the technical problems get worse. The pitch starts 
+to droop substantially; this gets worse during 
+"Red House" (34) (especially after a cut in the song 
+at around 3-minute mark). By the end of the tape, 
+it is an unbelievable (and totally unlistenable) 
+75% slow. Since this pitch slowdown gets worse during 
+the running of this source, but the original tape has 
+a later-recorded song ("Red House" (34) before the end 
+of "Voodoo Chile (Slight Return)" (34), it's clear that 
+the slowdown occurred during the transfer stage (!!!) and 
+was not on the master. Also during this last part of the tape, 
+there are speaking voices (recorded at different speed, 
+very high-pitched) overlaid on the music, mostly in the 
+left channel (another reason for using the right channel). 
+When slowed down, one of these can be heard to say 
+"put that down and get your ass in here!". Because of 
+this it seems likely that an early transfer was done by 
+microphone rather than by cable (!!). There are assorted 
+other sounds, wobbling in the volume, dropouts galore, 
+and one channel quits altogether at the end of the tape. 
+It's really a total mess. The gigantic speed slowdown is 
+probably the reason that the end of the tape isn't included 
+on most transfers. But it's valuable, since neither 
+"Voodoo Child (Slight Return)" (34) nor the end of 
+"Red House" (34) are included on the 2nd (Foley) source. 
+It's probably safe to assume that the master would have 
+been in substantially better shape than this tape (it must 
+have been an excellent sounding tape in fact) and 
+that most of the technical problems (and deliberate 
+alterations) came in at later stages, but sadly the 
+master may no longer exist. A variable pitch correction 
+was used to fix the speed at the end. "Red House" (34) 
+was removed and placed after the two parts of 
+"Voodoo Chile (Slight Return)" (34), to restore the 
+actual recording order. Some EQ was applied to two 
+off-speed tracks because the original EQ on these two 
+was substantially different from the rest of the tape,
+maybe some effect of the pitch sag. Sudden volume 
+changes (some of these apparently not on the master) 
+were corrected. It is still a rough tape, but it sounds 
+a lot better now. At least a majority of the technical 
+problems have been improved. Other than removal of 
+one several second long portion of a tape where 
+high-pitched voices are all that's heard, this is the complete 
+source and includes about 3 minutes of "Voodoo Child 
+(Slight Return)" (34) and 2 minutes of "Red House" (34) 
+that aren't on most other transfers.
+
+- Details about the 2nd source:
+The 2nd source is the tape recorded by Randy Foley. 
+It skips some songs during the concert but captures the 
+later part of the show. Most of the copies of this tape 
+(aka. The "Detroit Fire" Tape) have been circulated without 
+"I Don't Live Today" (23), which was recorded but left off 
+of those transfers. The source used here is probably the 
+best available, and is complete. It is a digital copy of 
+a transfer of the master onto videotape. Randy made a 
+videotape transfer and a handful of cassette transfers, 
+all 1st gen from the master. The master has since been 
+sold to Experience Hendrix, and apparently no direct 
+digital transfer of the master was made before the sale. 
+In Foley's article in UniVibes, he implies that a digital 
+transfer from the master was done, but that was probably 
+an incomplete recollection. Very little has been done to 
+this source. The CDR has index gaps (from Randy's comments 
+it appears that his original digital transfer onto CDR has 
+these too). These were removed. Tape speed sounds right 
+so pitch wasn't altered.
+
+- A 1st & 2nd Source composite is available on ATM-143 
+"Tomorrow We'll Do Our Last Gig In The States".
+
+- A Stereo effect mix (merge) of 
+"Fire" (41)
+"I Don't Live Today" (23)
+"Sunshine Of Your Love" (13) 
+"Red House"(34i) 
+is available on the Collector's Disc "Merge Vol.4".
+
+January 2008.
+

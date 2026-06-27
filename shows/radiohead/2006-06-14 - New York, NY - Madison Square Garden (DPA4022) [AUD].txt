@@ -1,0 +1,52 @@
+Radiohead
+6/14/2006
+The Theater at Madison Square Garden
+New York, NY
+
+Taper: scb
+Source: DPA (B&K) 4022s > Sound Devices 722 @ 24/96
+722 > Apple MacBook Pro > Spark XL 2.8.2 (normalize, resample to 44.1khz, dither to 16 bit) > xACT 1.58 > shn
+Location: Dead Center, about 20 feet from the stage
+
+Disc 1
+
+01 Intro                         02:04.14
+02 The Gloaming                  03:49.38
+03 The National Anthem           05:07.31
+04 15 Step                       04:31.24
+05 Arpeggi                       04:33.13
+06 Kid A                         03:56.39
+07 Dollars And Cents             05:22.70
+08 Videotape                     05:09.07
+09 Nude                          04:38.49
+10 I Might Be Wrong              04:39.20
+11 Paranoid Android              07:11.60
+12 Bangers 'n Mash               03:46.45
+13 Pyramid Song                  04:50.39
+
+Disc 1 Total: 59:40.74
+
+
+Disc 2
+
+01 My Iron Lung                  05:31.26
+02 Bodysnatchers                 04:40.09
+03 Myxomatosis                   04:24.19
+04 No Surprises                  04:19.28
+05 Everything In Its Right Place 08:36.23
+Encore 1:
+06 A Wolf At The Door            03:50.30
+07 Down Is The New Up            05:28.06
+08 Like Spinning Plates          03:10.41
+09 Spooks                        01:31.27
+10 Idioteque                     06:41.04
+Encore 2:
+11 Just                          04:28.12
+12 The Tourist                   06:01.32
+
+Disc 2 Total: 58:42.32
+
+notes: This is a 16/44.1 copy for cd.  The original 24/96 copy exists in flac format
+
+compiled on 6/15/06 by scb
+

@@ -1,0 +1,55 @@
+
+
+----------------------------------------------------------------
+	Artist:			Radiohead
+	Date:			June 06, 2012
+	Location:		Blossom Music Center, Cuyahoga Falls, OH
+	Taper:			JB
+	e-mail:			radioheadusa@comcast.net
+	DC++ screenname:	radiohead8989
+	Web:			http://home.comcast.net/~radioheadusa/
+	date of seeding:	June 07, 2012
+----------------------------------------------------------------
+	Source Info:		>Edirol R9 (24bit/48kHz) 
+				>Core Sound HEB (4060) (Bass Rolloff=ON) 
+				>CDWAVE 1.98
+				>FLAC (level 8)
+----------------------------------------------------------------
+	additional info:	Recorded from Section 33 Row B 
+----------------------------------------------------------------
+	running time:		2h:06m:77s
+----------------------------------------------------------------
+	Setlist:		01 Intro
+				02 Bloom
+				03 15 Step
+				04 Kid A
+				05 Arpgeei
+				06 Staircase
+				07 I Might Be Wrong
+				08 The Gloaming
+				09 Separator
+				10 Like Spinning Plates
+				11 Morning Mr Magpie
+				12 Climbing Up The Walls
+				13 Identikit
+				14 Lotus Flower
+				15 There There
+				16 Feral
+				17 Idioteque
+				18 Off-Stage
+				19 House of Cards
+				20 Myxomatosis
+				21 Supercollider
+				22 Reckoner
+				23 Off-stage
+				24 Give Up The Ghost
+				25 Exit Music
+				26 Reckoner
+----------------------------------------------------------------
+Note:
+This is a 24bit / 48KHZ recording.  It cannot be burned to a cd, unless you convert it to 16bit / 44.1k first.
+The FLAC files were created using CD Wave 1.98, and they were tested using Media Monkey 3.1.0.1256.
+
+
+
+

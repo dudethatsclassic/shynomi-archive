@@ -1,0 +1,49 @@
+NIRVANA
+July 12, 1989
+J.C. Dobbs
+Philadelphia, PA
+
+SOURCE (AMT #1):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > TMPGEnc Video Mastering Works 5 > Adobe Encore CS5
+
+GENERATION:
+VHS(x) [NTSC] > AVI [DV25] > M2V/WAV [8.0Mbps CBR/48kHz PCM] > DVDR(0)
+
+LENGTH:
+56:40
+
+CHAPTERS:
+01. intro
+02. School
+03. Floyd The Barber
+04. Love Buzz
+05. Scoff (cuts in)
+06. About A Girl (cuts in)
+07. Spank Thru (cuts in)
+08. Paper Cuts
+09. Mr. Moustache
+10. Big Cheese
+11. Polly (cuts in)
+12. Sifting (cuts in)
+13. Blandest
+14. Dive (cuts in)
+15. Negative Creep
+16. Blew
+
+MD5 FINGERPRINTS:
+cb8f47bceaf729f2dbca3bc4253e7f6a *VIDEO_TS\VIDEO_TS.BUP
+cb8f47bceaf729f2dbca3bc4253e7f6a *VIDEO_TS\VIDEO_TS.IFO
+736697781fb8dfaebbd5d1f62db581f5 *VIDEO_TS\VIDEO_TS.VOB
+0e521b19416011957bd0ab0bfed67854 *VIDEO_TS\VTS_01_0.BUP
+0e521b19416011957bd0ab0bfed67854 *VIDEO_TS\VTS_01_0.IFO
+019828d26323488d0aab4635500d6b5d *VIDEO_TS\VTS_01_0.VOB
+c6adde86d5b4c870b68ecad5cbbde634 *VIDEO_TS\VTS_01_1.VOB
+19835bfb0dedb7c75215e6395308127c *VIDEO_TS\VTS_01_2.VOB
+5bd5831d7e6f1f376d18762dedf2248b *VIDEO_TS\VTS_01_3.VOB
+f1b5ef421d1ec46c291c5edd9e78e817 *VIDEO_TS\VTS_01_4.VOB
+
+TRANSFERRED BY:
+Mike Ziegler

@@ -1,0 +1,76 @@
+RADIOHEAD
+Lupo's Heartbreak Hotel, 
+Providence, Rhode Island, USA 
+May 27th, 1995
+
+Source: EXC AUD Shot - Unknown Gen (VHS Likely)
+Authoring (Menus/chapters) by HuntingWolf using TMPGenc Authoring Works 4
+Artworks included
+
+   General
+Format : MPEG-PS
+File size : 2,2 Gb
+Duration : 65mn 2s
+Overall bit rate : 4 674 Kbps
+
+   Video (A+)
+Format : MPEG Video
+Bit rate mode : Variable
+Bit rate : 4 093 Kbps
+Nominal bit rate : 9 587 Kbps
+Width : 704 pixels
+Height : 480 pixels
+Display aspect ratio : 4/3
+Frame rate : 29.970 fps
+Standard : NTSC
+
+   Audio (A-)
+Format : AC-3
+Bit rate mode : Constant
+Bit rate : 256 Kbps
+Channel(s) : 2 channels
+Sampling rate : 48.0 KHz
+
+Setlist:
+
+01 Intro
+02 The Bends
+03 Just
+04 Anyone Can Play Guitar
+05 Bones
+06 High & Dry
+07 Permanent Daylight
+08 Prove Yourself
+09 Fake Plastic Trees
+10 Street Spirit (Fade Out)
+11 Planet Telex
+12 Creep
+13 My Iron Lung
+14 You
+15 Bullet Proof... I Wish I Was
+16 Stop Whispering
+
+NOTES:
+
+Preview http://www.youtube.com/watch?v=QGV3xEvJWdc
+Full show. Great footage, nice close-ups.
+Hour of bluescreen at the tail end REMOVED
+
+MD5 FINGERPRINTS: 
+e8f96daaedc99348e114c7a9d6a05e8c *1995-05-27 Lupo's Heartbreak Hotel, Providence, Rhode Island DVD Cover1.jpg
+e02908f6d3e54a5acba1ccb49f46f2b2 *1995-05-27 Lupo's Heartbreak Hotel, Providence, Rhode Island DVD Cover2.jpg
+bacd6f6b9c9b4e6a54e9d7d110e918b5 *1995-05-27 Lupo's Heartbreak Hotel, Providence, Rhode Island DVD Cover3.jpg
+12022ac62422918450a71730f945fd58 *info.txt
+c124ddbfbc402f023a6078b0cdbfac03 *VIDEO_TS\VIDEO_TS.BUP
+c124ddbfbc402f023a6078b0cdbfac03 *VIDEO_TS\VIDEO_TS.IFO
+e44997cbba5abb20da0f34bce3c37f3d *VIDEO_TS\VIDEO_TS.VOB
+8d8e873c23e8f2dff96e969570419cf3 *VIDEO_TS\VTS_01_0.BUP
+8d8e873c23e8f2dff96e969570419cf3 *VIDEO_TS\VTS_01_0.IFO
+dd0ed5b1ecb9e98aebd0c366ae98af94 *VIDEO_TS\VTS_01_0.VOB
+64aac2ff68e7de21eff86c861afdea94 *VIDEO_TS\VTS_01_1.VOB
+6b7bd0bec83372bccb89e5fe6d3ddefd *VIDEO_TS\VTS_01_2.VOB
+5ca2d6d6f52b28ba948ecf15236b05a5 *VIDEO_TS\VTS_01_3.VOB
+
+No errors occured.
+
+***PLEASE DO NOT SELL / FREE TRADE ***

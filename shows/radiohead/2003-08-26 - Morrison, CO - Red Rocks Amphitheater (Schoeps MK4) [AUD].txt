@@ -1,0 +1,142 @@
+Radiohead
+2003-08-26
+Red Rocks Amphitheater
+Morrison, CO
+
+Source:
+Schoeps MK4(DIN) > nBox > Sony PCM-M1 (16/48)
+20th row center
+
+Set 1:
+Here There
+2+2=5
+Lucky
+Myxomatosis
+Kid A
+Backdrifts
+Where I End And You Begin
+Paranoid Android
+My Iron Lung
+Sail To The Moon
+Subterranean Homesick Alien
+Talk Show Host
+Idioteque
+Scatterbrain
+The National Anthem
+Exit Music
+Sit Down, Stand Up
+
+Encore 1:
+We Suck Young Blood
+A Punch-Up At A Wedding
+Go To Sleep
+Karma Police
+
+Encore 2:
+No Surprises
+Big Ideas
+Everything In Its Right Place
+
+
+Transfer:
+Clone of Master DAT > CTD-8000 DDS Drive > DAT2WAV 1.2
+
+Transfer Date:
+2003-11-23
+
+Mastering:
+CD-Wave (Tracking and FLAC Encoding)
+xACT (Tagging)
+
+Notes:
+This is a 16bit 48Khz release and is not intended to be burned to CD-R
+
+DAT2WAV Output:
+N:\data\audio\recorded\masters\radiohead\rh2003-08-26-1648>dat2wav /dat2wav rh2003-08-26a-1648 /inputid 1:0 /errorcorrect
+DAT2WAV - version 1.2 - Copyright 1999-2002 Computall Services
+Xanalyze (c) 1996-2000 by Intertrust Technologies Corp.
+
+DAT2WAV
+Input SCSI adapter 1, ID number: 0
+Configuring input drive...
+ - found drive ARCHIVE  Python 01931-XXX5AC
+ - waiting (up to 60 seconds) for tape to mount...done
+ - setting drive in audio mode...done
+
+ - saving audio track# 1 in file:RH2003-08-26A-16481.wav
+PRG:00-A:00:00:00:00-P:00:00:00:00-DATE:00/00/00-00:00:00-48k-2-16-SCMS=00
+ - Error detected in data buffer ... : LEFT channel: RIGHT channelattempting to correct
+PRG:01-A:00:04:07:05-P:00:03:11:06-DATE:aa/aa/aa-aa:aa:aa-48k-2-16-SCMS=00
+ - Error detected in data buffer ... : LEFT channelattempting to correct
+PRG:01-A:01:22:01:04-P:01:21:05:05-DATE:aa/aa/aa-aa:aa:aa-48k-2-16-SCMS=00
+ - Error detected in data buffer ... : RIGHT channelattempting to correct
+PRG:01-A:01:22:01:05-P:01:21:05:06-DATE:aa/aa/aa-aa:aa:aa-48k-2-16-SCMS=00
+ - Error detected in data buffer ... : LEFT channel: RIGHT channelattempting to correct
+PRG:01-A:01:22:01:06-P:01:21:05:07-DATE:aa/aa/aa-aa:aa:aa-48k-2-16-SCMS=00
+ - Error detected in data buffer ... : LEFT channel: RIGHT channelattempting to correct
+PRG:01-A:02:04:49:19-P:02:03:53:20-DATE:aa/aa/aa-aa:aa:aa-48k-2-16-SCMS=00
+ - Error detected in data buffer ... : RIGHT channelattempting to correct
+PRG:01-A:02:04:49:20-P:02:03:53:21-DATE:aa/aa/aa-aa:aa:aa-48k-2-16-SCMS=00
+ - Error detected in data buffer ... : RIGHT channelattempting to correct
+PRG:01-A:02:04:49:22-P:02:03:53:23-DATE:aa/aa/aa-aa:aa:aa-48k-2-16-SCMS=00
+ - Error detected in data buffer ... : RIGHT channelattempting to correct
+PRG:01-A:02:04:49:23-P:02:03:53:24-DATE:aa/aa/aa-aa:aa:aa-48k-2-16-SCMS=00
+ - Error detected in data buffer ... : LEFT channel: RIGHT channelattempting to correct
+PRG:01-A:03:07:00:12-P:03:06:04:13-DATE:aa/aa/aa-aa:aa:aa-48k-2-16-SCMS=00
+ - Error detected in data buffer ... : RIGHT channelattempting to correct
+
+ - closing input drive...
+
+Shntool Len:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:59.627      80568364 B   cxx   --   ---xx   flac  0.4276  rh2003-08-26s01p01-1648.flac
+     3:51.947      44533804 B   cxx   --   ---xx   flac  0.4654  rh2003-08-26s01p02-1648.flac
+     4:28.120      51479084 B   cxx   --   ---xx   flac  0.4377  rh2003-08-26s01p03-1648.flac
+     4:16.160      49182764 B   cxx   --   ---xx   flac  0.4926  rh2003-08-26s01p04-1648.flac
+     3:59.973      46074924 B   cxx   --   ---xx   flac  0.3796  rh2003-08-26s01p05-1648.flac
+     6:30.240      74926124 B   cxx   --   ---xx   flac  0.4230  rh2003-08-26s01p06-1648.flac
+     4:48.053      55306284 B   cxx   --   ---xx   flac  0.4362  rh2003-08-26s01p07-1648.flac
+     6:26.013      74114604 B   cxx   --   ---xx   flac  0.4253  rh2003-08-26s01p08-1648.flac
+     5:42.920      65840684 B   cxx   --   ---xx   flac  0.4329  rh2003-08-26s01p09-1648.flac
+     4:40.093      53777964 B   cxx   --   ---xx   flac  0.3055  rh2003-08-26s01p10-1648.flac
+     5:01.387      57866284 B   cxx   --   ---xx   flac  0.3722  rh2003-08-26s01p11-1648.flac
+     5:02.640      58106924 B   cxx   --   ---xx   flac  0.3876  rh2003-08-26s01p12-1648.flac
+     4:20.600      50035244 B   cxx   --   ---xx   flac  0.4483  rh2003-08-26s01p13-1648.flac
+     3:48.747      43919404 B   cxx   --   ---xx   flac  0.3742  rh2003-08-26s01p14-1648.flac
+     4:36.400      53068844 B   cxx   --   ---xx   flac  0.4681  rh2003-08-26s01p15-1648.flac
+     4:57.000      57024044 B   cxx   --   ---xx   flac  0.2868  rh2003-08-26s01p16-1648.flac
+     7:44.893      89259564 B   cxx   --   ---xx   flac  0.4090  rh2003-08-26s01p17-1648.flac
+     5:10.307      59578924 B   cxx   --   ---xx   flac  0.3160  rh2003-08-26se1p01-1648.flac
+     4:54.800      56601644 B   cxx   --   ---xx   flac  0.4106  rh2003-08-26se1p02-1648.flac
+     3:56.227      45355564 B   cxx   --   ---xx   flac  0.4515  rh2003-08-26se1p03-1648.flac
+     7:43.547      89001004 B   cxx   --   ---xx   flac  0.4096  rh2003-08-26se1p04-1648.flac
+     4:09.827      47966764 B   cxx   --   ---xx   flac  0.3537  rh2003-08-26se2p01-1648.flac
+     2:53.773      33364524 B   cxx   --   ---xx   flac  0.2926  rh2003-08-26se2p02-1648.flac
+     8:11.307      94330924 B   cxx   --   ---xx   flac  0.3970  rh2003-08-26se2p03-1648.flac
+   124:14.600    1431284256 B                            0.4021  (24 files)
+
+FFP:
+rh2003-08-26s01p01-1648.flac:9ec82439659f21960fe0925c3758f9e6
+rh2003-08-26s01p02-1648.flac:3e3457b97301f6c0e22ad4f395f1db00
+rh2003-08-26s01p03-1648.flac:b9270dbb6468a4e9fd1b3587511cf40d
+rh2003-08-26s01p04-1648.flac:8d0e5e5fd7ef4cd664eb5d7a2b96991c
+rh2003-08-26s01p05-1648.flac:c074560f1be9ddacc327e1e2c473e080
+rh2003-08-26s01p06-1648.flac:7d742540f1c15d8d1c10d4e7326fe6a9
+rh2003-08-26s01p07-1648.flac:863f1522fbd8d905aaaac8499a0db192
+rh2003-08-26s01p08-1648.flac:2c63be5100df38caea9f264547dc5df3
+rh2003-08-26s01p09-1648.flac:2222f4e6e456638d85a7d3a146c5e079
+rh2003-08-26s01p10-1648.flac:affa9eeb6c1dc1f353328e86898d298e
+rh2003-08-26s01p11-1648.flac:e7e567c02d1b88879eb79dba6cf48aae
+rh2003-08-26s01p12-1648.flac:cf8b8239d3fbca4703125d366fb33dc9
+rh2003-08-26s01p13-1648.flac:a01745a5255083cbdcbc3c415e193aea
+rh2003-08-26s01p14-1648.flac:920c9f542da4c53cb5ac31a7fec4ad65
+rh2003-08-26s01p15-1648.flac:7cf55bf9177c798bf2e39f2e67c955fa
+rh2003-08-26s01p16-1648.flac:d729e7bde83848ce89fe0f3b397c2050
+rh2003-08-26s01p17-1648.flac:a0766f59c1cc3ab24731d4f67236b311
+rh2003-08-26se1p01-1648.flac:cce1d18d36cbb2298db517072816bd1b
+rh2003-08-26se1p02-1648.flac:0db37c964df71a7c831f49d0ba91f976
+rh2003-08-26se1p03-1648.flac:f0f504fcda776b1ceb7fb9e8edd82fca
+rh2003-08-26se1p04-1648.flac:022b04a2960d9fa5b54c61304134834a
+rh2003-08-26se2p01-1648.flac:d6a060d95c127c575aadf666dbe90403
+rh2003-08-26se2p02-1648.flac:d69a4bf0318bd29f35434c15de0dbdda
+rh2003-08-26se2p03-1648.flac:526927ce3d7314a845ecc02c24e96c83

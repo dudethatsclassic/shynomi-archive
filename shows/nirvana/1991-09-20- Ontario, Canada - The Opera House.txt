@@ -1,0 +1,73 @@
+Nirvana
+September 20, 1991
+The Opera House
+Toronto, Ontario, Canada
+
+Source: Stock Aiwa Stereo Mic > Aiwa Walkman >  AUD #2 Maxell XLII CASS(M)
+Transfer: AIWA AD-F810 3-Head Cassette Deck > Hosa Cables > EMU0404 > CEP2.1 (recording, cutting, no fx) > FLAC (level 8, verify enabled)
+Taper: Andymon
+Transfer: Five
+
+Setlist:
+01. Aneurysm
+02. Drain You
+03. Smells Like Teen Spirit
+04. Polly
+05. School
+06. Sliver
+07. Floyd The Barber
+08. About A Girl
+09. Breed
+10. Territorial Pissings
+11. Pennyroyal Tea
+12. Blew
+13. Negative Creep
+14. Been A Son
+15. Something In the Way
+16. Endless, Nameless
+
+Notes: 2005-11-11 This is a new raw transfer direct from the AUD #2 master with no processing. This is an upgrade over the "fuzzy" version I shared at STG in June 2004 (sorry about that!). Blank tape from the beginning and end of the cassette is included for potential future mastering use. FLACs tagged using foobar2000 v0.8.3. Thanks to Andymon for providing this source.
+
+http://www.livenirvana.com/tourhistory/91/09-20-91.php
+
+*********************************
+MP3 ONLY FOR PERSONAL USE
+NOT FOR SALE, ONLY FOR FREE TRADE
+*********************************
+
+ffba0ac6a3e32d3828e46a5b389a7fba  [shntool]  nirvana1991-09-20t01.flac
+91cc39741b6b9b97efc0757fe8418bd4  [shntool]  nirvana1991-09-20t02.flac
+769498fa35a14b6bec0917aa47958296  [shntool]  nirvana1991-09-20t03.flac
+c9b734524c7dff2ab927499be6e126b5  [shntool]  nirvana1991-09-20t04.flac
+d55d76049b953c762887070832d2f07f  [shntool]  nirvana1991-09-20t05.flac
+1446573966417d1623b882b28e3d5c4b  [shntool]  nirvana1991-09-20t06.flac
+a8459661b7437c78d5d97c0d862782c5  [shntool]  nirvana1991-09-20t07.flac
+262d532e7f4a2290a932100dde895ad8  [shntool]  nirvana1991-09-20t08.flac
+7f839efbf0dfa67caea748be44662a72  [shntool]  nirvana1991-09-20t09.flac
+17c51929df1f58f6a7ae1dc06e6307ff  [shntool]  nirvana1991-09-20t10.flac
+29a8e3c04aa5480bc0e38bcca00fa95f  [shntool]  nirvana1991-09-20t11.flac
+f5dcfa0f96b463b8e4bbcf81e1a7788a  [shntool]  nirvana1991-09-20t12.flac
+ee61f451b05b91da03ee52349ac8022f  [shntool]  nirvana1991-09-20t13.flac
+9c4d20382ee77017c71b0725d87a44e8  [shntool]  nirvana1991-09-20t14.flac
+f4f20baaa9e27ad9a9f2d7b523238045  [shntool]  nirvana1991-09-20t15.flac
+47116ad1071c2573e43cb6aec5e0dc02  [shntool]  nirvana1991-09-20t16.flac
+
+    length     expanded size   cdr  WAVE problems filename
+     5:54.32       62520908    ---   --   ---xx   nirvana1991-09-20t01.flac
+     4:22.46       46325036    ---   --   ---xx   nirvana1991-09-20t02.flac
+     6:51.47       72610988    ---   --   ---xx   nirvana1991-09-20t03.flac
+     2:55.66       31025276    ---   --   ---xx   nirvana1991-09-20t04.flac
+     2:36.30       27589004    ---   --   ---xx   nirvana1991-09-20t05.flac
+     2:16.59       24129212    ---   --   ---xx   nirvana1991-09-20t06.flac
+     3:17.41       34847276    ---   --   ---xx   nirvana1991-09-20t07.flac
+     2:42.64       28727372    ---   --   ---xx   nirvana1991-09-20t08.flac
+     3:08.10       33186764    ---   --   ---xx   nirvana1991-09-20t09.flac
+     2:50.59       30126812    ---   --   ---xx   nirvana1991-09-20t10.flac
+     5:47.40       61304924    ---   --   ---xx   nirvana1991-09-20t11.flac
+     3:09.02       33344348    ---   --   ---xx   nirvana1991-09-20t12.flac
+     2:50.65       30140924    ---   --   ---xx   nirvana1991-09-20t13.flac
+     2:32.32       26888108    ---   --   ---xx   nirvana1991-09-20t14.flac
+     4:28.49       47390492    ---   --   ---xx   nirvana1991-09-20t15.flac
+     5:57.06       62988956    ---   --   ---xx   nirvana1991-09-20t16.flac
+    61:42.48      653146400 B                     (totals for 16 files, 0.6899 overall compression ratio)
+

@@ -1,0 +1,55 @@
+NIRVANA
+September 22, 1990
+Motor Sports International Garage
+Seattle, WA
+
+SOURCE (AMT #1b):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS6 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+VHS(1) > AVI [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+51:18
+
+TRACKS:
+01. Stay Away
+02. Blew
+03. Been A Son
+04. Negative Creep
+05. Floyd The Barber
+06. About A Girl
+07. School
+08. Love Buzz
+09. Breed
+10. In Bloom
+11. Scoff
+12. Spank Thru
+13. Sliver
+14. Dive
+15. jam
+
+MD5 FINGERPRINTS:
+3d2b1bc0dad9fea92d14f058ac6e73ce *Nirvana_1990-09-22_AMT1b_t01.flac
+f992c0ef6564f3f7c0fcc10fc360f43e *Nirvana_1990-09-22_AMT1b_t02.flac
+8c38476220fa698e44f87bb04f828e9d *Nirvana_1990-09-22_AMT1b_t03.flac
+26f4fc3ae07534a7990a57bf9c64c4f4 *Nirvana_1990-09-22_AMT1b_t04.flac
+599399a7d7440b5ea3ba1590e687171f *Nirvana_1990-09-22_AMT1b_t05.flac
+c8ec0065926b2f6166217d52446b1c14 *Nirvana_1990-09-22_AMT1b_t06.flac
+abdee8d73cd412ad8bafcab37f8b43e8 *Nirvana_1990-09-22_AMT1b_t07.flac
+15ca2b0257bf2fc425cb20b7d6264a3a *Nirvana_1990-09-22_AMT1b_t08.flac
+c89b72e58f92bf53fafc21c99ff618f9 *Nirvana_1990-09-22_AMT1b_t09.flac
+38cb9ad727476d2d820746d511d3a11c *Nirvana_1990-09-22_AMT1b_t10.flac
+e29676b0d437f583477f71d484dee950 *Nirvana_1990-09-22_AMT1b_t11.flac
+2669052bb7180c6e75dbf1731d389bbb *Nirvana_1990-09-22_AMT1b_t12.flac
+00775b10f15b3e27e726cdbd950ac7c9 *Nirvana_1990-09-22_AMT1b_t13.flac
+4fe74d604ed85c5326abccad82b418aa *Nirvana_1990-09-22_AMT1b_t14.flac
+02553b84e3340a677e6b7b05b00fa568 *Nirvana_1990-09-22_AMT1b_t15.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

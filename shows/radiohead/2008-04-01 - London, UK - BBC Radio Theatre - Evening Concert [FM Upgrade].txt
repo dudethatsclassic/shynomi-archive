@@ -1,0 +1,43 @@
+
+Alternate FM recording of torrent #190838 without interference ~1m20s into Nude
+http://www.dimeadozen.org/torrents-details.php?id=190838
+
+Radiohead (Evening Concert) 
+1st April 2008 
+BBC Radio Theatre, London, UK 
+
+Broadcast by BBC Radio Two on 1st April 2008 for "Mark Radcliffe & Stuart Maconie" 
+http://www.bbc.co.uk/musicevents/radiohead/schedule/
+
+Lineage: FM (Sony STRDB1070) > Creative SBLive! > CD Wave Editor > Flac Frontend FLAC 8 Aligned on sector boundaries and verified
+
+Complete broadcast torrented as seperate tracks. 
+
+Tracks 
+
+01 Intro 
+02 Bodysnatchers 
+03 All I Need 
+04 Nude 
+05 Airbag 
+06 Reckoner 
+07 The Tourist 
+08 House of Cards 
+09 Weird Fishes/Arpeggi 
+10 Lucky 
+11 Everything In It's Right Place 
+12 Outro
+
+
+01 Intro.flac:0a12936c052c63520ecbf0aa42760372
+02 Bodysnatchers.flac:4adf8e8bcf8b0805e6a0c2c59697da7d
+03 All I Need.flac:f9433267e4b0bf04322f5751f9c7c9e7
+04 Nude.flac:e3994fb78cf72f2c7e9866fb3ab01c9c
+05 Airbag.flac:c6d591ff6bf3a862bf69843cbbc220c7
+06 Reckoner.flac:1d4b086658c5289a869cc1939f0b2a85
+07 The Tourist.flac:b395533cc183293041a169d32e11f067
+08 House of Cards.flac:475e19fdf4f6d29813bef29430f18d5e
+09 Weird Fishes - Arpeggi.flac:d928aa10e0c6fca522be1493bc8c4a1e
+10 Lucky.flac:93af51f0355fb6f5b805d6f43b180a80
+11 Everything In It's Right Place.flac:74624c76d6342065cafd7528d6caec1b
+12 Outro.flac:4d58b2fedcefca1b5a4c45706b201b0b

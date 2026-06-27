@@ -1,0 +1,69 @@
+NIRVANA
+October 18, 1993
+Veterans Memorial Coliseum (Arizona State Fair)
+Phoenix, AZ 
+
+SOURCE (AUD #2):
+Aiwa (supplied) > Aiwa HS-JS475
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+87:41
+
+TRACKS (DISC 1):
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. About A Girl
+06. Heart-Shaped Box
+07. Sliver
+08. Dumb
+09. In Bloom
+10. Come As You Are
+11. Lithium
+
+TRACKS (DISC 2):
+01. Pennyroyal Tea
+02. School
+03. Polly
+04. Milk It
+05. Rape Me
+06. Territorial Pissings
+07. Smells Like Teen Spirit
+08. All Apologies
+09. Blew
+10. Endless, Nameless
+
+MD5 FINGERPRINTS:
+5514ebea95cefbbce91c19d7d5cbf92a *Nirvana_1993-10-18_AUD2_d1t01.flac
+626602ea1675accb26a4a2e98e1b5e71 *Nirvana_1993-10-18_AUD2_d1t02.flac
+4dc12aa4ac5e0f821799bc3c97a10f23 *Nirvana_1993-10-18_AUD2_d1t03.flac
+79dae5a6b62d53727524658f612ced97 *Nirvana_1993-10-18_AUD2_d1t04.flac
+d2179899b6611d2e6962fa4e1b11b2ee *Nirvana_1993-10-18_AUD2_d1t05.flac
+eb4c0e46d398158101e3c976890b851b *Nirvana_1993-10-18_AUD2_d1t06.flac
+cd95b185375ecd92af60050a18aad830 *Nirvana_1993-10-18_AUD2_d1t07.flac
+2759204fff23a66c129a399174c5165f *Nirvana_1993-10-18_AUD2_d1t08.flac
+cf303904e43983be104e0cd924890fd1 *Nirvana_1993-10-18_AUD2_d1t09.flac
+cc842fa087e73ea08b6c849e04253342 *Nirvana_1993-10-18_AUD2_d1t10.flac
+f21b3f3b3fef60dd71b66ce2d9df5e6b *Nirvana_1993-10-18_AUD2_d1t11.flac
+ede15b097cf75006ec05f5f39b58e18a *Nirvana_1993-10-18_AUD2_d2t01.flac
+f8332316c639cd9a912bbe1e674cee78 *Nirvana_1993-10-18_AUD2_d2t02.flac
+9cecb18867ab1832054120bf0e84b07d *Nirvana_1993-10-18_AUD2_d2t03.flac
+1dbd23b7a9561f5ff0497d4c097c24a5 *Nirvana_1993-10-18_AUD2_d2t04.flac
+e0a51886b4c6f36230231331e44ac702 *Nirvana_1993-10-18_AUD2_d2t05.flac
+def6d2d3eaf2b9f459443545d9f3ea36 *Nirvana_1993-10-18_AUD2_d2t06.flac
+a21f01079c712fb02293ae0c879f79a2 *Nirvana_1993-10-18_AUD2_d2t07.flac
+7c3543bb200e10a82649f8feb78a8997 *Nirvana_1993-10-18_AUD2_d2t08.flac
+4efff17c7a96693d8cccf28164851e80 *Nirvana_1993-10-18_AUD2_d2t09.flac
+21079112f5face92ff9a39738aa9c4f8 *Nirvana_1993-10-18_AUD2_d2t10.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,45 @@
+Radiohead
+September 28, 2003
+Coors Ampitheatre
+Chula Vista, CA
+
+Taper:       David Baty
+Source:      DPA 4022 > Sonosax SX-M2 > D100
+Location:    Sec 101, Row C
+             (stage left stack, 6'6" up, ~55' away)
+
+Conversion:  D8 > ESI Waveterminal 192L > CEP 1.1 (normalized) > CDWAV 
+
+
+Track  |  Name                                     |  Time (m:s)
+------------------------------------------------------------------ 
+d1t01     2+2=5                                       04:07.28
+d1t02     Sit Down. Stand Up.                         04:21.30
+d1t03     Where I End And You Begin                   04:35.31
+d1t04     Lucky                                       04:37.04
+d1t05     Myxomatosis                                 04:31.73
+d1t06     Kid A                                       03:59.27
+d1t07     Sail to the Moon                            04:31.24
+d1t08     Talk Show Host                              05:10.37
+d1t09     Paranoid Android                            06:19.42
+d1t10     Just                                        04:07.14
+d1t11     No Surprises                                04:08.33
+d1t12     Go To Sleep                                 04:30.02
+d2t13     Scatterbrain                                03:53.67
+d1 totals 58:53.37
+
+d2t01     You and Whose Army?                         03:19.73
+d2t02     Idioteque                                   03:55.48
+d2t03     The Gloaming                                04:05.39
+d2t04     There There                                 08:47.38
+Encore 1:
+d2t05     Pyramid Song                                04:46.20
+d2t06     The National Anthem                         05:19.35
+d2t07     A Punchup at a Wedding                      04:42.36
+d2t08     How To Disappear Completely                 11:01.55
+Encore 2:
+d2t09     Karma Police                                05:02.49
+d2t10     Everything In Its Right Place               07:35.05
+d2 totals 58:36.23
+
+Seeded to the Radiohub on 10/1/2003.

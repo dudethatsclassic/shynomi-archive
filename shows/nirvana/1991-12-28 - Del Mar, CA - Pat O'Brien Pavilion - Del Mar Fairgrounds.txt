@@ -1,0 +1,55 @@
+NIRVANA
+December 28, 1991
+Pat O'Brien Pavilion, Del Mar Fairgrounds
+Del Mar, CA
+
+SOURCE (SBD #2):
+soundboard > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.96.1 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+36:17
+
+NOTES:
+- This is a recording of the monitor mix.
+- Has open mics mixed in at some points, most noticeably at the beginning of "Smells Like Teen Spirit."
+
+TRACKS:
+01. intro
+02. Drain You
+03. Aneurysm (cuts out)
+04. School (cuts in)
+05. Floyd The Barber
+06. Smells Like Teen Spirit
+07. About A Girl
+08. Polly
+09. Sliver
+10. Breed
+11. Come As You Are
+12. Lithium
+13. Territorial Pissings
+
+MD5 FINGERPRINTS:
+0b47dcda234d803f3a5436ce0ed366aa *Nirvana_1991-12-28_SBD2_t01.flac
+ecf098bff122b912372ee0dd4334809b *Nirvana_1991-12-28_SBD2_t02.flac
+4097fb52d077f54e69031e2d97e2003f *Nirvana_1991-12-28_SBD2_t03.flac
+080fd3f73c3197cda09444ae3c0bd20a *Nirvana_1991-12-28_SBD2_t04.flac
+7d5e9dcdad8c681ae9a64eccf4e60335 *Nirvana_1991-12-28_SBD2_t05.flac
+9a385bc20536bc2711ad74f3bc0b4843 *Nirvana_1991-12-28_SBD2_t06.flac
+5fe4832aacdf35f7b74d1cac3a9e8b31 *Nirvana_1991-12-28_SBD2_t07.flac
+d36f4420af8270116b7b368e54e8a926 *Nirvana_1991-12-28_SBD2_t08.flac
+1808596797227d127295a5d6541b3e38 *Nirvana_1991-12-28_SBD2_t09.flac
+9e7b2cb8a0e74a7f1b2d52139e5c63cf *Nirvana_1991-12-28_SBD2_t10.flac
+45c2ffcada0de426e9c17a11b57cf0df *Nirvana_1991-12-28_SBD2_t11.flac
+d049510ca4ad484802bd28c3995a46f3 *Nirvana_1991-12-28_SBD2_t12.flac
+b8d2c015a7e3ec96b588d03162f57d05 *Nirvana_1991-12-28_SBD2_t13.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

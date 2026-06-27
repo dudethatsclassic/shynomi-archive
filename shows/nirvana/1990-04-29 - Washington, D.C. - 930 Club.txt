@@ -1,0 +1,48 @@
+NIRVANA
+April 29, 1990
+9:30 Club
+Washington, DC
+
+DISC #1/1 (35:02)
+-----------------
+01) intro
+02) School
+03) Floyd The Barber
+04) Love Buzz
+05) Dive
+06) Spank Thru
+07) Breed
+08) Scoff (cut)
+09) In Bloom
+10) Big Cheese
+11) Polly
+
+GENERATION
+-----------------
+ANA(2) -> DAT(1) -> WAV [32kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Sony PCM-R300 > Echo Mia > Cool Edit Pro 2.0 > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+d5a0eb08065b2ca1146d2162498d1b8d *nirvana1990-04-29t01.flac
+1480158b89c1bcb5562afb77d6f6369f *nirvana1990-04-29t02.flac
+e50ac3b08bfd92b3e0113232a65a2157 *nirvana1990-04-29t03.flac
+29a322598f61fff8f2c774788611f4c1 *nirvana1990-04-29t04.flac
+04421fb4e84c01d0a8da4cbbb62a6c87 *nirvana1990-04-29t05.flac
+52401a905044fca958bc51639657af60 *nirvana1990-04-29t06.flac
+81d2a17708172de6079869c6998733bb *nirvana1990-04-29t07.flac
+ef246b007c5b824cc360fcdb93eccbf3 *nirvana1990-04-29t08.flac
+defea50764df5e180f2695b1c5adfb52 *nirvana1990-04-29t09.flac
+02fd0072a0604ec6d14454a60ad008e8 *nirvana1990-04-29t10.flac
+63ce4d0741df6efd28361100a256fd8f *nirvana1990-04-29t11.flac
+
+
+Transferred by John Dionysus.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

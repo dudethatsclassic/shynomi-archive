@@ -1,0 +1,43 @@
+NIRVANA
+1987
+The Green House (house party)
+Raymond, WA
+
+SOURCE (AUD #1):
+unknown > Sony
+
+EXTRACTION:
+Sony Optiarc AD-7260S > Exact Audio Copy V1.0 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(1) > CDR(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+47:05
+
+TRACKS:
+01. Downer (soundcheck) (cuts in)
+02. Aero Zeppelin
+03. If You Must
+04. Heartbreaker (jam)
+05. How Many More Times (jam)
+06. Mexican Seafood
+07. Pen Cap Chew
+08. Spank Thru
+09. Hairspray Queen
+
+MD5 FINGERPRINTS:
+38897562e9f06eb5f5920a1f08e9fdf0 *Nirvana_1987-xx-xx_AUD1_t01.flac
+357b8e60b13a0326e597d31661a14ffd *Nirvana_1987-xx-xx_AUD1_t02.flac
+0076b97f1a27b578a2ab4f601ce5b3b8 *Nirvana_1987-xx-xx_AUD1_t03.flac
+a6d27e4859c5bfeef3dd1b030c149520 *Nirvana_1987-xx-xx_AUD1_t04.flac
+a36dda1d33d23c6dc54a01c4942e1cd1 *Nirvana_1987-xx-xx_AUD1_t05.flac
+b9dcc1ef8b770d4b504e6f04318ec54b *Nirvana_1987-xx-xx_AUD1_t06.flac
+4260fcf449fe15bcddb1de0e44912893 *Nirvana_1987-xx-xx_AUD1_t07.flac
+051a7cf4bdedeff6bd1a93dbf7f69190 *Nirvana_1987-xx-xx_AUD1_t08.flac
+87fbfd129337eea11e110e841c330430 *Nirvana_1987-xx-xx_AUD1_t09.flac
+
+EXTRACTED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

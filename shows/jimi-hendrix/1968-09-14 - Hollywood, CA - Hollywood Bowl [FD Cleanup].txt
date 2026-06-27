@@ -1,0 +1,24 @@
+1968-09-14 Hollywood Bowl, Hollywood, California, USA
+[FD Cleanup]
+
+
+1 Introduction
+2 Are you experienced
+3 Voodoo child (slight return)
+4 Red house
+5 Foxy lady
+6 Fire
+7 Hey Joe
+8 Sunshine of your love
+9 I don't live today
+10 Little wing - [With Intro Fixed]
+11 Star spangled banner /
+12 Purple haze
+13 Little wing - [With Intro Not Fixed]
+
+Lineage: ATM 255 > Adobe Audition (NR, EQ, Comp, Editing) > FLAC
+
+The tape drag in Little Wing Intro was repaired using the aborted version before Jimi starts it up again. There was just enough to make it work. Kept the original as well - Track 13.
+Some minor edits to annoying tape cuts etc made also.
+
+Check the RAW source for comparison. 

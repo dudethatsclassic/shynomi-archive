@@ -1,0 +1,50 @@
+Crash Test Dummies - 1992-04-26, Minneapolis, MN
+
+Crash Test Dummies
+Orpheum Theater
+Minneapolis, MN
+1992-04-26
+
+TRACK LISTING 
+01 - Winter Song
+02 - Androgynous
+03 - The Voyage
+04 - Here On Earth (I'll Have My Cake)
+05 - The Country Life
+06 - I Think I'll Disappear Now
+07 - Think-Necked Man
+08 - When I Go Out With Artists (early version)
+09 - The Ghosts That Haunt Me
+10 - Afternoons and Coffeespoons
+11 - Samson and Delilah
+12 - Superman's Song
+13 - band intros
+14 - Comin' Back Soon (The Bereft Man's Song)
+15 - Don't Take Your Guns To Town
+16 - Working Late
+17 - At My Funeral
+
+FLAC FINGERPRINTS or MD5 checksum for the musical content only (*)
+01 - Winter Song.flac:95ee0deed967b085e7ea11ce378fed46
+02 - Androgynous.flac:00422bf91c7b4b9efdad3db3dfa26b23
+03 - The Voyage.flac:0dbae0bc0c80d8b6fad9e6609ab8f5b6
+04 - Here On Earth (I'll Have My Cake).flac:6c759833d18b391cfdefdb13857916ae
+05 - The Country Life.flac:15e1350afa8b4478f065ba716c631849
+06 - I Think I'll Disappear Now.flac:65b26b4bac5c85e6bb76c8852541340e
+07 - Thick-Necked Man.flac:66beab88e00e7e5592af0976f90fd1b7
+08 -Track08.flac:558bfc02bc7575d050323546fca2da46
+09 - The Ghosts That Haunt Me Now.flac:a4fbcf6bb4fb93d4762b5744e5a13265
+10 - Afternoons and Coffeespoons.flac:f830b175acde404a2f2388f5b1c436eb
+11 - Samson and Delilah.flac:a08f6ac03ee4cae81349410523b77916
+12 - Superman's Song.flac:2f394540305732fc38e998fa8449ad8c
+13 - band intros.flac:023dd5c000515bd262f6627dfa675d3a
+14 - Comin' Back Soon (The Bereft Man's Song).flac:539b139d8bf726d74cd1b0493b1db0e8
+15 - Don't Take Your Guns To Town.flac:75fbfd2af80c39d0cfc690ea25708651
+16 - Working Late.flac:35d79e0598d10c202362177e035c042b
+17 - At My Funeral.flac:d372d5fe190afed6a3d7c1609efd1c04
+
+SOURCE 
+radio simulcast -> some boombox -> split in Audacity -> flac
+
+Go see them live
+Buy the albums

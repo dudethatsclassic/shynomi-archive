@@ -1,0 +1,61 @@
+RADIOHEAD
+April 6, 1998
+Pacific Coliseum
+Vancouver, BC, Canada
+
+Source: unknown analog audience audio
+Lineage: ANA(x) > WAV > EQ and tracksplit > FLAC(8)
+Quality: 7.0
+Time: 90:48
+Taper: unknown
+
+Side A: 
+<01> airbag (stopped and restarted)
+<02> karma police
+<03> the bends
+<04> exit music (for a film)
+<05> climbing up the walls
+<06> just
+<07> subterranean homesick alien
+<08> lucky
+<09> my iron lung
+
+Side B:
+<10> planet telex
+<11> bullet proof..i wish i was 
+<12> no surprises
+<13> lurgee
+<14> bones
+<15> paranoid android
+<16> street spirit (fade out)
+
+encore:
+<17> talk show host
+<18> fake plastic trees
+<19> let down (cuts out)
+
+Missing: 
+<20> the tourist
+
+Recording notes: 
+- Tape flip between track 9 and 10.
+- "Let Down" cuts out
+- "The Tourist" is missing
+- This show seems to have been out of circulation for many years.
+
+Show notes: Interesting show. Thom stops the show in the middle of "Airbag" to tell the audience to stop pushing, then they restart the song and it takes awhile for it to get going. Thom sounds distracted throughout the show. 
+
+Remaster notes: 
+* Changed speed +1.5%
+* ran EQ to brighten the sound a bit
+* normalized to -0.5db
+
+Side A: 
+Before EQ: 470mb WAV (46:39)
+After EQ: 464mb WAV (45:58)
+
+Side B: 
+Before EQ: 456mb WAV (45:16)
+After EQ: 450mb WAV (44:50)
+
+Thank you again to Henrik for transferring his tape and sharing the original files! 

@@ -1,0 +1,45 @@
+Jimi Hendrix Experience
+
+1969-01-16 (Thursday): Meistersingerhalle, Nuremberg, Germany (reseed, remaster)
+
+tracks:
+1st show
+1. intro/tune-up  2:09
+3. 2. Come On (Part I)  5:27
+4. I Don't Live Today  8:24
+5. Hey Joe  4:43
+6. Fire  5:33
+7. Red House  14:50
+8. Foxy Lady  4:12
+9. Purple Haze  4:21
+10. Voodoo Child (slight return)  7:05
+
+audio: audience recording; 56:46
+
+1st generation reel>CDR
+
+This new 1st generation reel source from a recent DIME torrent was a nice upgrade to what was around previously. Just Ask The Axis has this rated Fair, Plug Your Ears rated it Good, this 1st Gen source rates about a VG now (except for the tape hiss). The original tape suffers from dropouts and volume fluctuations, perhaps due to a limiter on the original recording deck (& possibly the taper). I fixed the dropouts, adjusted the volume levels wherever they changed, evened out the balance, and normalized to 98%. You will notice a rise in tape hiss here and there, but the volume is consistent now.
+
+DIME torrent> CDR> XACT extraction> Final Cut Pro (levels adjusted)> Sound Studio (normalized, tracked)> CDR.
+
+No EQ used. Please do not redistribute in any lossy format.
+
+Review:
+From Chris Dixon's 30th Anniversary Series © C S Dixon
+
+January 16th, 1999 marks 30 years since Jimi's show at the Meistersingerhalle in Nuremburg, Germany. Another two show night, with the first surviving on tape. This tape is 80 - 90% guitar- sounds like the taper was fairly close and directly on-axis of Jimi's Marshalls. It's actually kind of cool in a way, as much detail of the guitar's sound, tone, etc can be plainly heard. Oddly enough, though, the guitar seems to drop in volume a bit when Jimi cranks it up for solos- could well be the tape recorder's internal limiter kicking in...
+
+(setlist): Come On (Pt. 1); I Don't Live Today; Hey Joe; Fire; Red House; Foxy Lady; Purple Haze; Voodoo Child (SR)
+
+Tape opens with a full 5 minutes of crowd noise, tune up, etc (2:09 on this version). We hear Mitch repeatedly hit his bass drum with some attendant low-end feedback- probably testing the 'drum PA du jour'.
+
+'Come On' makes a welcome return (I like it anyway...), only our second recorded live version, the first being from Phoenix Sept 68. Gets a full minute of solo guitar intro, 'Killing Floor'-style. Stays fairly close to the ELL version except that instead of the fade, there's a stop and Jimi rips out some fast fiery licks before they hit the final chord (similar to the Berkeley 'JB Goode'). This will go on to be the opening number for the next half dozen or so European shows, then only appear twice more on the last Exp. US tour and once in Sept. 70.
+(Perhaps Jimi was making a conscious effort to inject some new material into the set? Witness that since his somewhat dispirited Stockholm show, we've seen the addition (albeit momentary) of 'Johnny B. Goode' and 'Watchtower' and the revival of 'AYE' and 'Come On' (and 'Little Wing', the next night). Sadly, though, most of these additions were short-lived.)
+
+'I Don't Live Today' gets some nice feedback excursions near the end.
+'Hey Joe' again without long intro. Jimi throws in a variation on the 'I Feel Fine' riff before doing the actual quote.
+
+Great playing on 'Red House' as always. Guitar-heavy mix is very cool here, but when Jimi cranks it up for the middle solo, the aforementioned drop in volume is striking. After one chorus it sounds like he wants to go to the 3/4 feel 'slapped' chords but Noel and Mitch, no doubt expecting the usual two choruses of soloing, don't follow so Jimi goes back to soloing and they do it the next time around. A typically brilliant solo excursion follows, using the wah, before a last chorus of full-on solo, during which it sounds like the band gets a little out of sync (tho hard to say for sure just how far out, given the lopsided mix) Jimi throws in some unusual 3/4 feel strums as well as some basic 4/4 strums during the final verse.
+
+'VC(SR)' has a short section of low-register riffing in the middle during which I detect a brief hint of the later 'Power of Soul' riff! Uses some variations of the main riff for the final statement.
+

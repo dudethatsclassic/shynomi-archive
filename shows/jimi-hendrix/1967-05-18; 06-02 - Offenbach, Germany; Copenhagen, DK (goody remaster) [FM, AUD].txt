@@ -1,0 +1,44 @@
+The Jimi Hendrix Experience
+"Beat, Beat, Beat !"
+Stadthalle, Offenbach, Germany
+May 18, 1967
+"European Broadcasts 1966/67"
+(BP, X/2005, 2CDR)
+
+- Lineage: 
+  Masters (?) -> Low generation reels & tapes -> CDR -> EAC -> WAV -> FLAC >
+
+Goody's additional lineage:
+Audition (Music tracks only: Pitch Bender, various amounts) >
+TLH (FLAC Level 8; Align sector boundaries; .ffp) > foobar2000 (tags)
+
+
+01 Stone Free (patched with what seems to be an audience recording - now complete) 3:25
+02 Hey Joe 4:19
+03 Purple Haze 3:07
+
+--
+
+Falkoner Teatret 
+Falkoner Centret 
+Copenhagen, Denmark
+Sunday May 21, 1967 
+Broadcast on "Beat Forum" P1
+June 2, 1967
+
+- Lineage: 
+  Masters (?) -> Low generation reels & tapes -> CDR -> EAC -> WAV -> FLAC
+
+Audience recording done by Carsten Grolin 
+and broadcast together with a backstage interview with Hendrix.
+
+
+04 Wild Thing 2:06
+05 Interview with Jimi Hendrix by Carsten Grolin 1:02
+
+
+Jimi Hendrix - guitar, vocals 
+Noel Redding - bass, bass, vocals 
+Mitch Mitchell - drums
+
+This edition - February 5, 2026 

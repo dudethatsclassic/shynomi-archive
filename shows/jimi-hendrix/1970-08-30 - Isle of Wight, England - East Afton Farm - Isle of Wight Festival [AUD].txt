@@ -1,0 +1,101 @@
+Jimi Hendrix
+Isle of Wight Festival
+East Afton Farm,
+Isle Of Wight, England
+ 08/30/1970
+
+
+Source: Aud > Reel Master > Cassette (1st gen) - from the collection of Tim Welch
+Transfer: Cassette > Nakamichi CD1 > Tascam dr100-mkiii > wav 24/96
+Lineage; wav 24/96 > Adobe Audition 3 > iZotope RX7 Advanced > iZotope Neutron 2 > iZotope Ozone 5 Advanced > iZotope RX7 Advanced > wav 16/44.1 > CD Wave > Flac 24
+
+
+[MISSING]Intro
+[MISSING]God Save The Queen
+[MISSING]Sgt. Pepper's Lonely Hearts Club Band
+[MISSING]Spanish Castle Magic
+~~~~~~~~~~~~~~~~~~~~~~~
+
+01   tuning
+02   All Along The Watchtower
+03   Machine//Gun
+04   //Lover Man
+05   Freedom
+06   //Red//House
+07   Dolly Dagger
+//Midnight Lightning
+Foxy Lady//
+
+~~~~~~~~~~~~~~~~~~~~
+[MISSING]Message To Love
+[MISSING]Hey Baby (New Rising Sun), 
+[MISSING]Ezy Ryder
+[MISSING]Hey Joe
+[MISSING]Purple Haze
+[MISSING]VooDoo Child (Slight Return)
+[MISSING]In From The Storm
+
+
+
+Jimi Hendrix - guitar, vocals
+Billy Cox - bass
+Mitch Mitchell - drums
+
+
+
+The taper, John, came over from the USA with a friend specifically to go to the Isle of Wight Festival. This was the last set that he taped at the festival. I suppose he was always fighting a lossing battle with how much tape he could carry but this is the most he taped of any of the bands.  Mostly he only got 2 or 3 songs by each.
+
+In later years when he passed away he left all of his masters to a friend and fellow taper Karl Ryan.  Tim met Karl in 1990 and Tim's cassettes were dubbed from John's masters.
+
+
+Notes:
+
+- There isn't anything to patch this with so the following bits are missing
+
+"Machine Gun"  - 24 seconds, I've faded the two parts together
+"Lover Man" - First 3 seconds
+"Red House" - 10 seconds at the start and 3:24 in the middle, again I faded the two parts togethr
+"Midnight Lightning" about 2.5 seconds at the start but this doesn't fade out like the official release.  You get about 7 extra seconds
+"Foxy Lady" - last 1:11 missing
+
+- Pitch corrected by reference to the official release.
+- Tape was paused between tracks they have been smoothed with crossfades.
+- Some background noise has been removed.
+- Vocals were low in places so they have been boosted.
+- Some eq has been applied to bring up the bottom end.
+
+
+
+Thanks to Karl for passing this on to Tim and Tim for letting me borrow his tapes. And big hand to John for taping.
+
+
+transferred, edited and mastered
+SIRMick
+October 2019
+
+
+shntoool output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:22.467      12940844 B   cxx   --   ---xx   flac  0.5690  01 tuning.flac
+     5:21.480     185172524 B   cxx   --   ---xx   flac  0.6022  02 All Along The Watchtower.flac
+    21:17.733     735974444 B   cxx   --   ---xx   flac  0.6014  03 Machine Gun.flac
+     3:31.387     121758764 B   cxx   --   ---xx   flac  0.6089  04 Lover Man.flac
+     4:12.867     145651244 B   cxx   --   ---xx   flac  0.5913  05 Freedom.flac
+     7:37.867     263731244 B   cxx   --   ---xx   flac  0.5802  06 Red House.flac
+     5:39.267     195417644 B   cxx   --   ---xx   flac  0.5908  07 Dolly Dagger.flac
+     6:22.880     220538924 B   cxx   --   ---xx   flac  0.5786  08 Midnight Lightning.flac
+     7:57.320     274936364 B   cxx   --   ---xx   flac  0.5906  09 Foxy Lady.flac
+    62:23.267    2156121996 B                            0.5937  (9 files)
+
+flac fingerprints:
+
+01 tuning.flac:06dfa7415ccf22771d506716a61a4afe
+02 All Along The Watchtower.flac:f812afef15249780b718b9d59fa40712
+03 Machine Gun.flac:798cda5712eaa301c8ce06597fdd9729
+04 Lover Man.flac:bf1dbda38d499c1585678f79de33a44e
+05 Freedom.flac:0604f5bd171f29d34efb55243481e8e7
+06 Red House.flac:eb7c7917b68e012fad4a4b1f2efa30a0
+07 Dolly Dagger.flac:515357e449c7b214a2ddc5cb907a6efc
+08 Midnight Lightning.flac:e366a10d6d303c1ccd76879ba0e60df7
+09 Foxy Lady.flac:1d50882e6a2f83a472f23f5faf8d6450

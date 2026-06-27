@@ -1,0 +1,46 @@
+KORN
+April 05, 2008 (2008-04-05) 
+Estádio Palestra Itália, São Paulo/SP - Brasil
+
+SOURCE:
+Audience recording taped by dkisback
+Giant Squid Labs Omnidirecional mics > Giant Squid Labs battery box > Sony Hi MD MZ-RH910 (Linear PCM Mode)
+
+LINEAGE:
+Hi MD/Master > USB > wav > Adobe Audition > wav > CD Wav > wav > Traders Little Helper > flac level 8 aligned on sector boundaries
+
+TRACKLIST:
+01. Intro
+02. Right Now
+03. A.D.I.D.A.S.
+04. Hold On
+05. Falling Away From Me
+06. Coming Undone (including "We Will Rock You")
+07. Here To Stay
+08. Faget
+09. Freak On a Leash
+10. Evolution
+11. Somebody Someone
+12. Got The Life
+13. Blind 
+
+LENGTH:
++-58min
+
+New audio mastering made in 2023 from the original wav files.
+
+**PLEASE DO NOT SELL THIS RECORDING**
+
+fa5fcc70dc8f45d2ce084d433c5ed8be *Korn 2008-04-05 Sao Paulo - Track01.flac
+025dd384025b46ad84c869c2e83808c8 *Korn 2008-04-05 Sao Paulo - Track02.flac
+66ef9c922ec7f3919a085a34077b7c14 *Korn 2008-04-05 Sao Paulo - Track03.flac
+5e1dff1c5ecc60c67078348b1af7c9f7 *Korn 2008-04-05 Sao Paulo - Track04.flac
+f8de9bf2db1c85272460cec8e1c66fe4 *Korn 2008-04-05 Sao Paulo - Track05.flac
+53a6d651bf69fa908bd1f3cd0cff0efd *Korn 2008-04-05 Sao Paulo - Track06.flac
+93ab5407cc3874cfff1f25663c2ff2e2 *Korn 2008-04-05 Sao Paulo - Track07.flac
+119aa76c05bf170a6f0930533acc2cf4 *Korn 2008-04-05 Sao Paulo - Track08.flac
+a18a8daa7520e4ad4a545ef53dd40517 *Korn 2008-04-05 Sao Paulo - Track09.flac
+5a52bbadb8652d2e2f4cf4cb3d4dbbf9 *Korn 2008-04-05 Sao Paulo - Track10.flac
+70279ddf3ad904e131b98624aac0c8f8 *Korn 2008-04-05 Sao Paulo - Track11.flac
+6b0fb4874dd2d3566e860a75fcd340db *Korn 2008-04-05 Sao Paulo - Track12.flac
+c22e298ef6e6b9ce59697c18a16ed68e *Korn 2008-04-05 Sao Paulo - Track13.flac

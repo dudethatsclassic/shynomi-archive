@@ -1,0 +1,32 @@
+
+Radiohead
+HUMO Main Stage; Torhout Festival: Torhout, Belgium
+July 5, 1997
+
+Source: Sennheiser MKE-2002 > Denon DTR-80P @ 32kHz LP Mode
+Lineage: DAT master @ 32kHz
+Transfer: Tascam DA-20 > Audiophile 2496 > Audacity > CDWave > FLAC Frontend
+
+Setlist:
+
+01 Intro
+02 Lucky
+03 My Iron Lung
+04 Airbag
+05 Exit Music (For A Film)
+06 The Bends
+07 Talk Show Host
+08 Climbing Up The Walls
+09 Fake Plastic Trees
+10 Paranoid Android
+11 Street Spirit (Fade Out)
+12 Outro
+
+Notes: Tape was mastered @ 32kHz. I did the transfer myself in January 2010 from the DAT master that I acquired. Upsampling to 44kHz performed in Audacity. There is some phasing due to the wind. Raw transfer with no fades or EQ.
+
+Archive: DAT master was transferred @ 32kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 1/5/2010
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

@@ -1,0 +1,39 @@
+Social Distortion
+2024-11-29
+House of Blues
+Anaheim, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro (Rebel Rebel)
+02 - Through These Eyes
+03 - I Was Wrong
+04 - I Wasn't Born to Follow
+05 - Tonight
+06 - Mommy's Little Monster
+07 - The Creeps
+08 - Hour of Darkness
+09 - Machine Gun Blues
+10 - Far Side of Nowhere
+11 - Sick Boy
+12 - Over You
+13 - Ball and Chain
+14 - Warn Me
+15 - Reach for the Sky
+16 - encore
+17 - Born to Kill
+18 - Story of My Life
+19 - Bad Luck
+20 - Ring of Fire
+
+-- Notes --
+Harlis Sweetwater opened.
+
+Length: 1h34m45s
+
+-- faninor -- 2024-12-19 --

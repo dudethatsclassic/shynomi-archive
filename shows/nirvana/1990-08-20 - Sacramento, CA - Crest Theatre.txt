@@ -1,0 +1,52 @@
+NIRVANA
+August 20, 1990
+Crest Theatre
+Sacramento, CA
+
+DISC #1/1 (41:38)
+-----------------
+01) intro
+02) Love Buzz
+03) Floyd The Barber
+04) Scoff
+05) In Bloom
+06) Spank Thru
+07) About A Girl
+08) Dive
+09) School
+10) Lithium
+11) Been A Son
+12) Negative Creep
+13) Blew
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Sony ECM-909 -> Sony WM-D6
+ 
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+c31ff0b325d19aaa31d8a6776261b652 *nirvana1990-08-20t01.flac
+75514deed4eb038ee75c5525059a1286 *nirvana1990-08-20t02.flac
+df4cbc2e5d1a9508fcd425a9db437ab2 *nirvana1990-08-20t03.flac
+927ea178844b447a16d1433e9de50c8a *nirvana1990-08-20t04.flac
+1ac3905ba866664771ae08ca55f88678 *nirvana1990-08-20t05.flac
+62a9ac6aa6bc705487ff9bee4165a35e *nirvana1990-08-20t06.flac
+c2bd6ef969525a40a3ddd17d03494609 *nirvana1990-08-20t07.flac
+913b8497c88592bdd1aa799abf4fd604 *nirvana1990-08-20t08.flac
+abb8f5ad27e1ac0570fd1ba57b957d78 *nirvana1990-08-20t09.flac
+6a4fcdc68f50876c6c17d30e0384c1a5 *nirvana1990-08-20t10.flac
+79b4f266f29bf4f0bb7a279693754125 *nirvana1990-08-20t11.flac
+5ebda71110a80c56a9c6d394ad31ca83 *nirvana1990-08-20t12.flac
+4ab278cd9e6a11bd9ddce86d644df794 *nirvana1990-08-20t13.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

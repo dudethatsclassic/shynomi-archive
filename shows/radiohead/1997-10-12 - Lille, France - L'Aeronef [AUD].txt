@@ -1,0 +1,104 @@
+Radiohead
+12th October 1997
+Le Zenith
+Lille, France
+
+SETLIST (103:12)
+---------------
+
+01. Fitter Happier
+02. Airbag
+03. Karma Police
+04. My Iron Lung
+05. Exit Music (For A Film)
+06. Subterranean Homesick Alien
+07. Lurgee
+08. The Bends
+09. Talk Show Host
+10. Paranoid Android
+11. The Trickster
+12. Creep
+13. Electioneering
+14. Planet Telex
+15. Climbing Up The Walls
+16. Bones
+17. Just
+18. Fake Plastic Trees
+19. Lucky
+20. No Surprises
+21. Banana Co.
+22. Street Spirit (Fade Out)
+23. [nice dream]
+
+GENERATION
+---------------
+ANA(1)/DAT(2) -> FLAC
+
+SOURCE (AUD #1)
+---------------
+unknown mics -> unknown recorder -> ANA(M) -> ANA(1) -> DAT(2) @ 48k
+
+TRANSFER
+---------------
+DAT(2) -> Tascam DA-20 mkII -> M-Audio Audiophile 2496 -> CEP 2.1 (capture/resample/normalise/crossfades/fades) -> WAV -> CD Wave 1.95.1 -> FLAC(8)
+
+NOTES
+-----
+All the encore breaks are cut (and have been crossfaded), but all songs appear intact.  Crowd noise is quite loud between songs, the taper appears to be some distance from the stage, and some strange "noise" can be heard during crowd noise, but nothing that detracts too much from the performance.
+
+FLAC FINGERPRINTS
+-----------------
+rh-1997-10-12-t01.flac:d0a37282aae5d6bdfbf54472a268c971
+rh-1997-10-12-t02.flac:0fb9ea329e197baaf515f20d0410d2a9
+rh-1997-10-12-t03.flac:a721b9b8ad91142d85ecc9d654f46958
+rh-1997-10-12-t04.flac:6c0fb79e90033980a3541ec17325a191
+rh-1997-10-12-t05.flac:df5f684eb2980c0966917e50fa116d59
+rh-1997-10-12-t06.flac:6fa55f92b722b3ac2c50d62f88bbda5b
+rh-1997-10-12-t07.flac:a267e80864d7a064882d8b535ba105b4
+rh-1997-10-12-t08.flac:39ae8474ce63ca56a29a21b90cb73664
+rh-1997-10-12-t09.flac:130a482e4e22d82c39b39c6c7ca40318
+rh-1997-10-12-t10.flac:5d3cd47475c39daaedfd043617965d09
+rh-1997-10-12-t11.flac:55fe0c75fc57f9a9c6c97a269752f399
+rh-1997-10-12-t12.flac:ca495dd23e830e23c03ef102e5baafe5
+rh-1997-10-12-t13.flac:fbf317e3b993b70a2ede1b60e4b4ced2
+rh-1997-10-12-t14.flac:f8d2ea0266801422b05f548b2346af54
+rh-1997-10-12-t15.flac:c238a8ac8b5bc735d6f96a78a9fe61ba
+rh-1997-10-12-t16.flac:4b6a756253b7df9144cd2fcd60e20316
+rh-1997-10-12-t17.flac:9e63fe2aa927eb24911894e9e9f48b8d
+rh-1997-10-12-t18.flac:b0af2be5ea8c4dc38a3bfd75f1581b38
+rh-1997-10-12-t19.flac:f54135a059230be5d0229910c2ef42cf
+rh-1997-10-12-t20.flac:bde78809c46e4cf6f3177ed79e6fb068
+rh-1997-10-12-t21.flac:61894344a7b778d3429f038b99480a21
+rh-1997-10-12-t22.flac:1187dca7da0ccdebc9c7df55aa9d2a0a
+rh-1997-10-12-t23.flac:d736174db22f4532bd6ecdb4fab952e5
+
+MD5 CHECKSUMS
+---------------
+a139f5f7c1c309ee8d773cc0d947d955 *rh-1997-10-12-t01.flac
+6701768061eec8900a2905770b9f37b4 *rh-1997-10-12-t02.flac
+d0d6bd61d2d616c35bed1a5a47e1f74b *rh-1997-10-12-t03.flac
+311453dc8c0a0f7df41a470cbfd296e4 *rh-1997-10-12-t04.flac
+5df4655bcb13db75c3db48fc53bc0749 *rh-1997-10-12-t05.flac
+06a9579a8e4ab549a089d82eb33d5e6b *rh-1997-10-12-t06.flac
+55f2a86ec5db8dd14688a203d560e89c *rh-1997-10-12-t07.flac
+ed30d9952d254432ec9c54e651325ac1 *rh-1997-10-12-t08.flac
+108df083574cfc750f7e479e7bc69c81 *rh-1997-10-12-t09.flac
+8be7cd34c048e7e64d304eafebaabfcc *rh-1997-10-12-t10.flac
+18cc34579e026ad0fa11874ff6ab72a8 *rh-1997-10-12-t11.flac
+6e175db5bd3900435174585b912f4ac3 *rh-1997-10-12-t12.flac
+fddc0614a07e7d07a4b6019383658f90 *rh-1997-10-12-t13.flac
+ffa026a57327a6b24a37e51209e03198 *rh-1997-10-12-t14.flac
+596332a4412c7224528cf66effb5dc49 *rh-1997-10-12-t15.flac
+8d5e4b64489419fa3774eeb92f094f49 *rh-1997-10-12-t16.flac
+6b401fd2a7fd551b9515f787541bc473 *rh-1997-10-12-t17.flac
+64eacb3a5ef6eae29ed433db334e766d *rh-1997-10-12-t18.flac
+e1dcb6841aca8b042399165b54edb899 *rh-1997-10-12-t19.flac
+0795514cec2161b9d6575c9cb00bed0d *rh-1997-10-12-t20.flac
+9d1807b8cd557917ac4f76a6dfd437d2 *rh-1997-10-12-t21.flac
+a574af165931e4fd598859aa2200439a *rh-1997-10-12-t22.flac
+1fdb92311650210ca40af69f910c5764 *rh-1997-10-12-t23.flac
+
+Taper: unknown
+Transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

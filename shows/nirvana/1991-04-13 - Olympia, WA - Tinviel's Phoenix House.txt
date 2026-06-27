@@ -1,0 +1,41 @@
+WITCHYPOO (WITH KURT COBAIN AND DAVE GROHL)
+April 13, 1991
+Tinúviel's Phoenix House
+Olympia, WA
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition CS5.5 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+21:40
+
+TRACKS:
+01. intro
+02. (I Saw You) Shine
+03. The Bars (jam)
+04. Three Nights (jam)
+05. unknown
+06. (I Saw You) Shine (jam)
+07. unknown
+08. unknown
+
+MD5 FINGERPRINTS:
+Nirvana-Related_1991-04-13_AUD1_t01.flac:8c6a815e462fb64e63648d1f841ee88e
+Nirvana-Related_1991-04-13_AUD1_t02.flac:f77f02659a96340b6ef7b362b5cd156a
+Nirvana-Related_1991-04-13_AUD1_t03.flac:70e8664c3b63e12d38589e74d85632fb
+Nirvana-Related_1991-04-13_AUD1_t04.flac:275e62f2a15bdf12089a74d4b71e5f01
+Nirvana-Related_1991-04-13_AUD1_t05.flac:0d4ba9f4853479b2009e5551596c0876
+Nirvana-Related_1991-04-13_AUD1_t06.flac:a8b56b7ae6fd4ffbf767253637d5ecaa
+Nirvana-Related_1991-04-13_AUD1_t07.flac:acd6e043c7dc55e2dee89b4f05829a2a
+Nirvana-Related_1991-04-13_AUD1_t08.flac:dc9538045523230d93c1cebae39e7e8e
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

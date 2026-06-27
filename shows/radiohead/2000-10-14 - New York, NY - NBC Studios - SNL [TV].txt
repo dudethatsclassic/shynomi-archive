@@ -1,0 +1,20 @@
+Radiohead on SNL 001014 DVD-Video NTSC
+
+Saturday Night Live
+NBC Studios, New York City
+October 14, 2000
+Source: NBC rebroadcast via analog cable
+> Canopus ADVC-100
+> firewire > DV file (NTSC, 720x480)
+> iMovie HD > iDVD6
+
+video encoding: MPEG-2, 8 Mbps, CBR
+audio encoding: LPCM 2.0, 48 KHz, 1.5 Mbps
+
+One item menu. 3 chapters:
+1 The National Anthem  4:16
+2 Idioteque            4:04
+3 closing              1:29
+
+I'll attach screen caps in the comments which are representative of
+the overall video quality.

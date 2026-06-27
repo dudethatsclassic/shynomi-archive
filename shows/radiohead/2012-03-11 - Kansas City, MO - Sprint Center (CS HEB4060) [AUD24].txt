@@ -1,0 +1,59 @@
+
+
+----------------------------------------------------------------
+	Artist:			Radiohead
+	Date:			March 11, 2012
+	Location:		Sprint Center, Kansas City, MO
+	Taper:			JB
+	e-mail:			radioheadusa@comcast.net
+	DC++ screenname:	radiohead8989
+	Web:			http://home.comcast.net/~radioheadusa/
+	date of seeding:	March 12, 2012
+----------------------------------------------------------------
+	Source Info:		>Edirol R9 (24bit/48kHz) 
+				>Core Sound HEB (4060) (Bass Rolloff=ON) 
+				>CDWAVE 1.98
+				>FLAC (level 8)
+----------------------------------------------------------------
+	additional info:	Recorded from the second row of the main floor, in front of Johnny  
+----------------------------------------------------------------
+	running time:		2h:06m:36s
+----------------------------------------------------------------
+	Setlist:		01 Intro
+				02 Bloom
+				03 15 Step
+				04 Morning Mr Magpie
+				05 Arpeggi
+				06 All I Need
+				07 Pyramid Song
+				08 The Daily Mail
+				09 Supercollider
+				10 Nude
+				11 Identikit (Flase Start)
+				12 Identikit
+				13 Lotus Flower
+				14 There There
+				15 Feral
+				16 How To Disappear
+				17 Reckoner
+				18 Off-Stage
+				19 Separator
+				20 Myxomatosis
+				21 Idioteque
+				22 Lucky
+				23 Everything In It's Place
+				24 Off-stage
+				25 Give Up The Ghost
+				26 Paranoid Android
+----------------------------------------------------------------
+Note:
+This is a 24bit / 48KHZ recording.  It cannot be burned to a cd, unless you convert it to 16bit / 44.1k first.
+The FLAC files were created using CD Wave 1.98, and they were tested using Media Monkey 3.1.0.1256.
+
+
+This is a Mono recording, due to problems with the right channel of the original recording.  From where I recorded the show, it would have been mono either way.
+
+Drunk Guy shows up during Idioteque.  
+
+
+

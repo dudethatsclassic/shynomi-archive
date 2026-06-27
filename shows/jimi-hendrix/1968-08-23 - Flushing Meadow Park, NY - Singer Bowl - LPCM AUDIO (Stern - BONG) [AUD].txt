@@ -1,0 +1,33 @@
+The Jimi Hendrix Experience
+August 23, 1968
+New York Rock Festival: Singer Bowl 
+Flushing Meadows Park, Queens
+New York City, NY
+@16/48khz
+
+Lineage: 16mm color > ? > Stern'S DVD > Sony Vegas Pro 11 > Womble MVW > DVDLab Pro 2.5 > DVD > DVD Audio Extractor > LPCM FLAC
+
+01 Are You Experienced?
+02 Fire
+03 Hey Joe
+04 Wild Thing
+05 Star Spangled Banner
+
+(15:49)
+
+LPCM Audio sourced from pristine, time-code free copy from the collection of Mr. Stern.
+"Are You Experienced?" was originally the final song on this copy, correctly re-sequenced to the lead-off spot by BONG.
+
+Filmed by Amalie R. Rothchild with partly synced audio recording by Harry Fields
+
+Provided by Stern
+Authored by BONG
+thanks to hothcanada
+
+Audio extraction by frogster, May 2021.
+
+Original specs were:
+
+Video: NTSC 4:3 720x480
+Audio: LPCM 1536kbps
+

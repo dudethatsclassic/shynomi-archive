@@ -1,0 +1,39 @@
+NIRVANA
+January 19–21, 1993
+BMG Ariola Ltda.
+Rio de Janeiro, BR
+
+SOURCE (SBD #x):
+soundboard > unknown
+
+TRANSFER:
+unknown > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+35:17
+
+TRACKS:
+01. I Hate Myself And Want To Die
+02. Very Ape
+03. Gallons Of Rubbing Alcohol Flow Through The Strip
+04. Heart-Shaped Box
+05. Scentless Apprentice
+06. Milk It
+07. Gallons Of Rubbing Alcohol Flow Through The Strip (alternate mix) (cuts in)
+
+MD5 FINGERPRINTS:
+c8aa00d14c62165ff8596c3e6497226b *Nirvana_1993-01-00_SBDx_t01.flac
+d59558c3acf591a105ababf6dced3ce6 *Nirvana_1993-01-00_SBDx_t02.flac
+743f22b3edfa3fef21a5a619bc33ec76 *Nirvana_1993-01-00_SBDx_t03.flac
+8eae5a3f28012e26408f8cf1047ab34a *Nirvana_1993-01-00_SBDx_t04.flac
+3c4ef4830ae7345f0524cd21455903bb *Nirvana_1993-01-00_SBDx_t05.flac
+c3ad66e475188cf88ed3b75242c6b7a4 *Nirvana_1993-01-00_SBDx_t06.flac
+d11c2895286459fa1e1052fa6210a852 *Nirvana_1993-01-00_SBDx_t07.flac
+
+TRANSFERRED BY:
+unknown
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

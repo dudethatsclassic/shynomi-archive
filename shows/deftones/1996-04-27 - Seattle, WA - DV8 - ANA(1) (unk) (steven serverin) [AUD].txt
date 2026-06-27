@@ -1,0 +1,27 @@
+DEFTONES
+April 27, 1996
+DV8
+Seattle, WA
+
+Source: unknown microphones > unknown recorder
+Taper: Steven Severin (?)
+Lineage: Cassette(1) > WAV [24/44.1] > WAV [16/44.1] > FLAC
+Transfer: Nakamichi DR-1 > Sound Devices 744T
+Edits/EQ: +1.9dB
+Notes: none
+
+01 - PA intro
+02 - intro
+03 - Root
+04 - Nosebleed
+05 - Bored
+06 - One Weak
+07 - 7 Words
+08 - Lifer
+09 - Teething
+10 - Minus Blindfold
+11 - Right Brigade {Bad Brains}
+12 - Engine No. 9
+
+
+Compiled November 2022 by CPS

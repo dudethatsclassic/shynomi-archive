@@ -1,0 +1,46 @@
+RADIOHEAD
+2006-08-17
+Pukkelpop Festival
+Hasselt, Belgium
+
+Source:     MBHO MBP 603 A / KA 200 N > Sound Devices MP-2 > Edirol R-09
+Mic Config: in hat, DINA (17cm, 90°)
+Location:   20m from the stage, center
+Transfer:   Master WAV > Digital Editing > CD Wave Editor V1.94 > FLAC V1.1.2
+Editing:    EQ, volume boost and fades in Steinberg WaveLab V5.0a
+Dithering:  UV22 HR dithering in Steinberg WaveLab V5.0a
+Resampling: 48.0 kHz > 44.1 kHz resampling in Steinberg WaveLab V5.0a
+
+Disc 1:
+01 Intro
+02 Airbag
+03 The National Anthem
+04 There There
+05 Where I End and You Begin
+06 Exit Music (For A Film)
+07 Karma Police
+08 Nude
+09 I Might Be Wrong
+10 Myxomatosis
+11 Paranoid Android
+12 [Fade Out]
+
+Disc 2:
+01 [Fade In]
+02 No Surprises
+03 The Gloaming
+04 All I Need
+05 Pyramid Song
+06 Just
+07 Idioteque
+08 How To Disappear Completely
+09 (Encore Break)
+10 Like Spinning Plates
+11 You And Whose Army?
+12 Lucky
+13 Fake Plastic Trees
+14 Everything In Its Right Place
+
+Notes:
+This is the 16-bit version of this recording.
+To seamlessly join the two discs, simply remove D1T12 and D2T01.

@@ -1,0 +1,49 @@
+
+Radiohead
+United Center: Chicago, IL
+July 6, 2018
+
+Source: AT831s > SP-SPSB-11 (@69Hz) > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: FOB DFC @ half court
+Transfer: SD Card > Audacity (click removal/dither) > CDWave > TLH
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Daydreaming
+03 Desert Island Disk
+04 Ful Stop
+05 Morning Bell
+06 Myxomatosis
+07 All I Need
+08 Pyramid Song
+09 Paranoid Android
+10 Decks Dark
+11 Let Down
+12 Bloom
+13 The Numbers
+14 How to Disappear Completely
+15 Reckoner
+16 Lotus Flower
+17 Idioteque
+18 Everything in its Right Place
+19 -encore break-
+20 Burn the Witch
+21 Weird Fishes/Arpeggi
+22 Fake Plastic Trees
+23 Nude
+24 15 Step
+25 -encore break 2-
+26 Blow Out
+27 No Surprises
+28 There There
+
+Notes: First show of 2018 North American tour. 1st of 2 nights in Chicago. Opening band was Juune (not recorded). M10 set at 5. Applied click removal between songs prior to dithering. Raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 7/7/2018
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

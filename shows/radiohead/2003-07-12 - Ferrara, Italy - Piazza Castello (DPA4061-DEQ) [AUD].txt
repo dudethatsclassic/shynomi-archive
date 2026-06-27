@@ -1,0 +1,55 @@
+Radiohead
+Hail To the Thief Tour 2003
+Ferrara, Italy - Piazza Castello
+12 july 2003
+
+Disc 1:
+01.Intro                         01'23"
+02.There There                   05'24"
+03.2 + 2 = 5                     03'52"
+04.Fog                           02'10"
+05.Morning Bell/Amnesiac         04'29"
+06.Talk Show Host                04'53"
+07.Kid A                         04'16"
+08.Scatterbrain                  03'26"
+09.The National Anthem           04'23"
+10.Backdrifts                    06'56"
+11.Sail To The Moon              04'23"
+12.Fake Plastic Trees            04'58"
+13.Go To Sleep                   03'57"
+14.Where I End And You Begin     04'28"
+
+Total:                           59'04"
+
+Disc 2:
+01.Pyramid Song                  05'01"
+02.Wolf At The Door              03'36"
+03.Paranoid Android              06'21"
+04.Idioteque                     04'13"
+05.Everything In Ita Right Place 10'12"
+06.I Will                        02'22"
+07.The Bends                     04'33"
+08.The Gloaming                  03'28"
+09.How To Disappear Completely   09'44"
+10.Sit Down, Stand Up            04'52"
+11.Karma Police                  05'04"
+12.Outro                         01'05"
+
+Total:                           60'37"
+
+Source:
+Danish Pro Audio 4061 mics + MPS 6030 battery box + Sony PCM-M1
+
+Taper:
+Luigi B. (facing right side stacks, almost front row, mics mounted on glasses)
+
+Flac process:
+-> dat master (48Khz, Line In, rec. level knob set to 7.5)
+-> Sony DTC-Ze700 datDdeck
+-> Philips CdDR770 Audio Recorder (optical transfer & automatic downsample)
+-> Wave single tracks on 2 Cdrw
+-> EAC secure
+-> Wave
+-> Deq: bass reduction, sound level raised of +13 db
+-> Track splitting with Wavelab 4.0 
+-> lossless compression to Flac

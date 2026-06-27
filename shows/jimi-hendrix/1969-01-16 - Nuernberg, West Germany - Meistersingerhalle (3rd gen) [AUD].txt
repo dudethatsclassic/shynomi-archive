@@ -1,0 +1,84 @@
+Jimi Hendrix Experience
+Meistersingerhalle
+Nuernberg, West Germany
+1969-01-16
+
+
+Source: UHER Report > Reel Master - recorded by PW
+Transfer :Reel Master > Uher > cassette > DAT (transfer to DAT by mossa 1996) > Fostex standalone cdr recorder > CDR > EAC > wavs
+Lineage: wav 16/44.1 > iZotope RX7 Advanced > iZotope Neutron 2 Advanced > CD Wave > flac 16
+
+
+01   Intro/tuning
+02   Come On (part 1)
+03   I Don't Live Today
+04   Hey Joe
+05   Fire
+06   tuning
+07   Red House
+08   Foxy Lady >
+09   Purple Haze
+10   Voodoo Child
+
+
+
+Jimi Hendrix - guitar, vocals
+Mitch Mitchell - drums
+Noel Redding - bass
+
+
+Comments from Mossa:
+
+This comes direct from the original reel (taper PW)
+
+Here's the story to this, in the 80's I had my favourite record store in Munich. The owner was a music lover too, we started chatting on "this band & that band" and talked about concerts we've been to. He told me that he went to several very obscure shows aound his hometown Coburg and even recorded a few with his father's UHER Report reel machine, several of these recordings must be "stored somewhere in my cellar". 
+
+Later we went to his house as I was curious on his reels. After searching for over an hour we found a storage box with totally damaged reel tapes - there they were!! 95 % were not useable any more, 3 or 4 survived this bad treatment. He allowed me to take the 2 best to my house and transfer them to see what's on these (nothing was labeled properly). So I did and couldn't believe my ears. This must be "Stud" - the follow-up band by former TASTE members John Wilson and Richie McCracken. I had the 2 Stud albums and immediately realized this was them somewhere live, taped by this guy. I transferred to cassette tape using my own UHER Reel tape machine. When calling my friend he told me that I'm right, he recorded "Stud" sometime on a cold winter night around 1970 or 1971. He might have some more info on the date somewhere (he remembered the venue right away) and started searching. A few days later he called me and told that he found a note in one of his schoolbooks (!!!)
+
+The next time we met he gave me another reel and this is it.
+
+
+Notes:
+
+
+- The vocals are on the low side, I have boosted them where possible.  I have listened to a couple of other recordings and they all suffer from the same problem.  Presumably there was a oroblem with the mic.  Luckily, nobody ever went to see him to listen to his vocal expertise.
+
+
+
+Thanks to Joe B. Jones for his help with pitch correction.
+
+Thanks to PW and Mossa.
+
+
+edited and mastered
+SIRMick
+August 2020
+
+
+shntool output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     2:08.59       22718012 B   ---   --   ---xx   flac  0.5178  jhe1969-01-16t01.flac
+     5:42.55       60458204 B   ---   --   ---xx   flac  0.5087  jhe1969-01-16t02.flac
+     8:23.15       88764524 B   ---   --   ---xx   flac  0.5207  jhe1969-01-16t03.flac
+     4:48.31       50876156 B   ---   --   ---xx   flac  0.5136  jhe1969-01-16t04.flac
+     3:35.40       38020124 B   ---   --   ---xx   flac  0.5272  jhe1969-01-16t05.flac
+     1:41.40       17910524 B   ---   --   ---xx   flac  0.4905  jhe1969-01-16t06.flac
+    14:49.74      156993692 B   ---   --   ---xx   flac  0.5056  jhe1969-01-16t07.flac
+     4:12.52       44575148 B   ---   --   ---xx   flac  0.5139  jhe1969-01-16t08.flac
+     4:30.48       47740940 B   ---   --   ---xx   flac  0.5539  jhe1969-01-16t09.flac
+     6:54.21       73079036 B   ---   --   ---xx   flac  0.5622  jhe1969-01-16t10.flac
+    56:47.60      601136360 B                            0.5215  (10 files)
+
+flac  fingerprints:
+
+jhe1969-01-16t01.flac:342299372810f8074913bc6c0637588a
+jhe1969-01-16t02.flac:b6079bbcbff82730e3b9514bfd55d2bd
+jhe1969-01-16t03.flac:c4342379ad4e7b5f4a141f6ca60d5838
+jhe1969-01-16t04.flac:cb30ff34715f0451d097364376a12122
+jhe1969-01-16t05.flac:cf0c15f5e2e661c2bf3ae3bc08e69628
+jhe1969-01-16t06.flac:925287fa5c199c3008455f5e9b3664fa
+jhe1969-01-16t07.flac:27d323ed6358af5f9bb1cf83f578df8d
+jhe1969-01-16t08.flac:de86fd80c189454241f276125c6d947e
+jhe1969-01-16t09.flac:a2d52390cc7284c189ee068468a8b2d1
+jhe1969-01-16t10.flac:d3fc45fcfff9665327baba06cfe72d4e

@@ -1,0 +1,35 @@
+RADIOHEAD
+FIB Festival Internacional de Benicassim, 
+Benicassim, Spain
+August 3rd, 2002
+
+Unknown Taper (special thanks to Inez & radiohub community)
+Lenght: 00:24:55 (Incomplete show)
+Size: 1,74 GiB
+Video Format: MPEG2 Video 704x576 PAL (4:3) 25.000 fps 9556Kbps
+Audio Format: Dolby AC3 (2.0) 48000Hz stereo 224Kbps
+Souce: Digital MTV Ita "Brand:new" Broadcast
+Authoring by HuntingWolf using TMPGEnc Authoring Works 4
+
+Setlist:
+
+01 The National Anthem
+02 Karma Police
+03 Fake Plastic Trees
+04 Just
+05 Paranoid Android
+
+MD5 FINGERPRINTS:
+7687af541bcb2a5e2dfcf7ddede77a62 *info.txt
+3a2db177975ddae488ceeae7ccab3138 *VIDEO_TS\VIDEO_TS.BUP
+3a2db177975ddae488ceeae7ccab3138 *VIDEO_TS\VIDEO_TS.IFO
+69e17feebfb4a3eb8b7843f363e4e7ad *VIDEO_TS\VIDEO_TS.VOB
+e4b79cd6c5ee9f6e9c29953f55ae815d *VIDEO_TS\VTS_01_0.BUP
+e4b79cd6c5ee9f6e9c29953f55ae815d *VIDEO_TS\VTS_01_0.IFO
+d234896f9e9f0a6c7064c78b208ce750 *VIDEO_TS\VTS_01_0.VOB
+6407bba15b4742710048f08b828de2d6 *VIDEO_TS\VTS_01_1.VOB
+6301a9212bdfcdc88cea0df7f2702988 *VIDEO_TS\VTS_01_2.VOB
+
+No errors occured.
+
+***PLEASE DO NOT SELL / FREE TRADE ***

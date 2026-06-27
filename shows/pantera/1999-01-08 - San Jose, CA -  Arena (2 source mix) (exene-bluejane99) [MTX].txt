@@ -1,0 +1,40 @@
+Pantera
+January 8, 1999
+Arena
+San Jose, CA
+
+matrix by exene/bluejane99
+
+source #1
+---------
+Source: Schoeps CCM4 > Aerco MP-2 > Sony TCD-D100
+Location: 23rd row center
+Taper: Sneaky Bastard Audio
+Lineage: DAT(M) > DAT(1) > CDR(1) > FLAC
+Transfer: Sony PCM-M1 > Tascam DA-20mkII > Sony CDR-W33 > EAC
+Edits/EQ: limiter @ -2dB, +2dB, Ozone Maximizer @ -3dB/-0.2dB
+Notes: opening for Black Sabbath
+Compiled December 2019 by CPS
+
+source #2
+---------
+SBD mono (ALD?) > bootleg cd "Pantera live in San Jose, CA 1999" > wav > flac
+
+01 - Domination/Hollow
+02 - A New Level
+03 - Walk
+04 - Becoming
+05 - Use My Third Arm
+06 - Primal Concrete Sledge
+07 - Fucking Hostile
+08 - This Love
+09 - Cowboys From Hell
+
+notes:
+I'm guessing the mono soundboard source is ALD, as the Black Sabbath set is also a mono ALD.
+There were a few skips in the soundboard source, nicely patched with CCM4 source.
+This came out sounding nice, and makes a good companion to the excellent Black Sabbath matrix.
+
+enjoy!
+exene/bluejane99
+

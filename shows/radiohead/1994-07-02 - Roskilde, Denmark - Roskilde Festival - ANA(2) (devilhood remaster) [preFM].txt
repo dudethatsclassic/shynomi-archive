@@ -1,0 +1,86 @@
+Radiohead
+Roskilde Festival
+Roskilde, Denmark
+July 2, 1994
+
+Analog Pre-FM (2nd Generation) > FLAC
+
+Main Stage Set = PreFM (Icelandic Radio) > Analog > Analog > Nakamichi DR10 > Philips CDR 770 Burner > EAC > Adobe Audition > CDWave > FLAC
+
+Originally Transferred, Edited and Tracked by Franger. Remastered by deVilhoOD.
+
+ORIGINAL NOTES
+==============
+Main Stage show traded from a friend in Iceland who received this recording from someone at the Icelandic Radio Station. I doubt it was ever broadcast in full (or at all)
+
+Incidentally, I was living in Denmark at the time and saw this show. Only a few songs, but the memories are still strong. Det var meget godt!
+
+REMASTER
+========
+This remastered version does not include the backstage set that was originally distributed as part of the original seed.
+
+Seeded FLAC > WAV > Adobe Audition > FLAC
+
+Manual removal of any audible clicks and pops. Automatic phase correction. Pitch and timing correction. Custom EQ profile to fix mid-heavy sound
+
+01. "crowd intro"
+02. You
+03. Bones
+04. Ripcord
+05. Creep
+06. My Iron Lung
+07. Prove Yourself
+08. The Bends
+09. Pop Is Dead
+10. Maquiladora
+11. Just
+12. Stop Whispering
+13. Anyone Can Play Guitar
+14. Blow Out
+
+***
+
+Enjoy! Support the artist and buy the officially-released items (to the best of my knowledge & as of this writing; asterisks denote BGE/Wolfgang’s Vault) -
+1993-02-23 (“The Bends,” “Prove Yourself,” “Creep”)
+1993-03-14 (“Creep,” “Ripcord”)
+1993-06-30 (“Killer Cars,” “Vegetable,” “You”, “Inside My Head”)
+1994-05-27
+1995-03-24 (“Just,” “Bones,” “Planet Telex,” “Anyone Can Play Guitar,” “My Iron Lung”)
+*1995-06-01
+1996-03-24 (“Lift”)
+1996-03-25 (soundcheck - “I Promise,” “Attenzione!”)
+1996-03-27 (“Lift,” “Electioneering,” “I Promise”)
+1996-03-28 (soundcheck - “Attenzione!”)
+1996-03-30 (“Electioneering”)
+1996-04-03 (soundcheck – “Airbag,” “Lift,” “Attenzione!”)
+1996-04-03 (“I Promise”)
+1996-04-06 (soundcheck – “Airbag”)
+1996-04-06 (“Lift,” “I Promise,” “Electioneering”)
+1996-04-08 (“Lift”)
+1996-04-10 (soundcheck – “Airbag”)
+1996-04-10 (“Motion Picture Soundtrack,” “Electioneering,” “Airbag”)
+1996-04-11 (“Airbag”)
+1996-04-12 (soundcheck – “Airbag,” “Paranoid Android”)
+1996-04-12 (“I Promise”)
+1996-04-17 (soundcheck – “No Surprises Please”)
+1996-07-28 (“Let Down”)
+1996-08-14 (“Climbing Up The Walls,” “I Promise,” “Paranoid Android,” “Karma Police”)
+1996-08-19 (“Let Down,” “Paranoid Android,” “Karma Police”)
+1996-08-26 (“Climbing Up The Walls,” “No Surprises,” “I Promise,” “Electioneering,” “Paranoid Android”) 
+1996-08-27 (“Karma Police,” “Paranoid Android,” “I Promise”)
+1997-08-29 (“Karma Police”)
+1997-10-30 (“Lucky”)
+1997-11-03 (“Airbag”)
+2001-04-28 (“How To Disappear Completely”)
+2001-05-28 (“Everything In Its Right Place,” “The National Anthem”)
+2001-07-07 (“I Might Be Wrong,” “Morning Bell,” “Idioteque,” “Dollars & Cents”)
+2001-08-08 (“Like Spinning Plates”)
+2001-08-20 (“True Love Waits”)
+2001-09-09 (“True Love Waits”)
+2003-07-03 (“Fog [Again]”)
+2003-07-04 (“2+2=5”)
+2003-11-26 (“2+2=5”)
+2007-12-08 (“Videotape,” “Down is The New Up,” “Last Flowers”)
+2008-xx-xx (London - The Hospital Club)
+2011-xx-xx (London – Maida Vale Studios)
+

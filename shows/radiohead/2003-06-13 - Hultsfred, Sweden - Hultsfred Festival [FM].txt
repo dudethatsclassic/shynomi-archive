@@ -1,0 +1,30 @@
+Radiohead
+Hultsfred Festival, Hultsfred, Sweden
+2003-06-13
+"Hail To The Thief" tour
+
+Complete FM broadcast recording, incomplete concert broadcast
+Lineage: Sweden P3 Cable FM broadcast on 2003-11-10 -> Super Bit Mapping -> Sony PCM-R300 (16/48) -> Fujifilm DG-60M DAT -> Seagate CTD-8000 DAT / DDS drive -> dat2wav 1.3 beta (error correction enabled) -> WAV (16/48) -> in Adobe Audition CC 2014.1: automatic phase correction (auto align channels, auto center panning, all settings set to most accurate possible), normalized to -0.1dB and any DC bias removed -> WAV (16/48) -> tracked using Audacity 2.0.6 -> WAV (16/48) tracks -> FLAC 16-bit 48khz using FLAC 1.3.0 64-bit (level 8 compression) and foobar2000 v1.3.5
+Generation: master DAT clone
+Taper: unknown
+dat2wav log and DAT case photo (w/ lineage written) included
+
+An almost flawless FM broadcast capture. There are some sections of diginoise at the end of "Scatterbrain", but my DAT drive's error correction seems to have dealt with it well - it is not overly distracting. I have adjusted the dat2wav log to include only the information relevant to this recording from the DAT (thus the statistics at the bottom of the log are inaccurate). My apologies if tracking or the set list is incorrect, I am not familiar with Radiohead's music.
+
+Transferred, mastered, and shared by ligushka on DIME November xx, 2014.
+
+Track list:
+
+01.  [7:27] There There
+02.  [3:18] 2 + 2 = 5
+03.  [4:53] Airbag
+04.  [4:29] Morning Bell
+05.  [3:27] Scatterbrain
+06.  [4:54] My Iron Lung
+07.  [3:47] Go To Sleep
+08.  [3:28] The Gloaming
+09.  [4:03] No Surprises
+10.  [6:22] Paranoid Android
+11.  [5:31] Everything In Its Right Place
+12.  [5:26] The National Anthem
+Total time: 57:06

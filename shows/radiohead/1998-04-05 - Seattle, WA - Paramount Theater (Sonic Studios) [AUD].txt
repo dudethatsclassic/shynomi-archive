@@ -1,0 +1,45 @@
+
+Radiohead
+Paramount Theatre: Seattle, WA
+April 5, 1998
+
+Source: Sonic Studios > PA6LC > Sony TCD-D7 @ 32kHz
+Location: FOB 10' from stacks
+Lineage: DAT master > DAT1
+Transfer: Tascam DA-20 > Digital Coax > Behringer Ultramatch SRC2000 (upsample) > Digital Coax > MicroTrack II > Audacity > CDWave > TLH
+
+Setlist:
+
+01 Intro (Meeting in the Aisle)
+02 Airbag
+03 Talk Show Host
+04 Planet Telex
+05 Karma Police
+06 Exit Music (For a Film)
+07 Just
+08 Banana Co.
+09 Lucky
+10 Paranoid Android
+11 The Bends
+12 Subterranean Homesick Alien
+13 Climbing Up the Walls
+14 No Surprises
+15 Fake Plastic Trees
+16 Bones
+17 My Iron Lung
+18 -encore break-
+19 Lurgee
+20 You
+21 Street Spirit
+22 -encore break 2-
+23 Pearly
+24 The Tourist
+
+Notes: I acquired this 1st gen DAT back near 2000 from the taper. Originally recorded in 32kHz. Amplified the entire file by +3.5dB. Raw transfer with no fades or EQ.
+
+Archive: DAT clone was transferred @ 32kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 3/22/2020
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

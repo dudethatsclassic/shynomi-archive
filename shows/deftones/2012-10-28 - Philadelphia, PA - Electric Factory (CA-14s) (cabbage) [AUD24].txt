@@ -1,0 +1,36 @@
+Deftones
+Electric Factory
+Philadelphia, Pennsylvania
+October 28th, 2012
+
+Taper: Craig "Cabbage" Kabis <cabbage@jimmieschickenshack.net> <craigkabis@gmail.com>
+Location: On the floor leaning against the soundboard railing aligned with the left stack.  Mics taped to my shoulders.
+Source: Church Audio 14’s > PA-6LC3B (roll off @ 65Khz) > Sony PCM-M10 > .wav @ 96 kHz / 24 bit
+Lineage: .wav > USB > Amadeus Pro 2.1 (1523) > FLAC 8
+Notes: Recording is incomplete ~1:30 into Root, spliced with boomerzero1977@hotmail.com recording
+
+Setlist:
+01 - Diamond Eyes			[03:57]
+02 - Rocket Skates			[04:22]
+03 - Be Quiet And Drive (Far Away)	[03:58]
+04 - My Own Summer (Shove It)		[04:02]
+05 - Poltergeist			[03:23]
+06 - Rosemary				[06:37]
+07 - Feiticiera				[03:12]
+08 - Digital Bath			[07:42]
+09 - Knife Party			[05:18]
+10 - Tempest				[07:47]
+11 - You've Seen The Butcher		[04:44]
+12 - Engine No. 9			[03:25]
+13 - Then She Did [Janes Addiction]	[01:42]
+14 - Hole In The Earth			[04:15]
+15 - Change (In The House Of Flies)	[05:14]
+16 - Passenger				[08:07]
+17 - Bloody Cape			[04:00]
+18 - Stephen / Sergio jam		[03:11]
+
+Encore:
+19 - Bored				[04:40]
+20 - Root				[03:42]
+21 - 7 Words				[04:07]
+Total Running Time			[97:34]

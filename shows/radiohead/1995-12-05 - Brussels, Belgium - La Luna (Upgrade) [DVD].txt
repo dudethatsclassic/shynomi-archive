@@ -1,0 +1,49 @@
+Radiohead - La Luna, Brussels 1995.12.05 (Master Upgrade)
+
+Format:
+PAL,  720x576 (4:3) Video Bitrate 8000 kb/s (Variable)
+PCM Stereo 16bits 48.0 kHz
+Length - 90 mins
+
+ Tracklist:
+01 - The Bends
+02 - Bones
+03 - Bullet Proof..I Wish I Was
+04 - My Iron Lung
+05 - Prove Yourself
+06 - Street Spirit (Fade Out)
+07 - Lucky
+08 - Creep
+09 - (Nice Dream)
+10 - High and Dry
+11 - Planet Telex
+12 - Anyone Can Play Guitar
+13 - Just
+14 - Blow Out
+15 - Fake Plastic Trees
+16 - True Love Waits
+17 - You
+18 - Banana Co.
+19 - Nobody Does It Better
+20 - Inside My Head
+
+Source:
+Master Video 8 Tape (Filmed By J.F & C.C) - Sony  EV S9000E - AVT 8710 (TBC) - Blackmagic Design Intensity Pro - Soundblaster Z
+ - VirtualDub (UT Lossless Codec) - TMPGEnc Authoring Works 5 (Top Menu and Chapter Menu With Correct Chapter Points)
+
+
+
+********** Notes ******** ********** Notes ******** ********** Notes ********
+
+A Different version of this recording was previously circulated om Dime in 2012
+
+Source : audience camera [master J.F > vhs 1st gen. Giorgio B. > vhs 2nd gen me]
+Lineage : vhs tape 2nd gen > standalone dvd akai adrm 9000 (sp mode) > Dime 
+
+VIDEO :
+MPEG-2, 720*576 25fps (4:3) PAL, 4380 kbps 
+
+AUDIO :
+MPEG-1 Audio Layer-2, 48000 Hz, Stereo, 256 kbps 
+
+length : 90 min.....

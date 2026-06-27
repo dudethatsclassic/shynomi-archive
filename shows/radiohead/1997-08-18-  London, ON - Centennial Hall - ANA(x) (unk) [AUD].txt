@@ -1,0 +1,36 @@
+RADIOHEAD
+August 18, 1997
+Centennial Hall
+London, Ontario, Canada
+
+Source: unknown analog audience audio
+Lineage: ANA(x) > WAV > EQ, speed correction, and tracksplit > FLAC(8)
+Quality: 6.5
+Time: 86:25
+
+Side A: (42:59)
+<01> [fitter, happier]
+<02> lucky
+<03> just
+<04> airbag
+<05> planet telex
+<06> exit music (for a film)
+<07> karma police
+<08> climbing up the walls
+<09> no surprises
+<10> my iron lung
+
+Side B: (43:26)
+<11> paranoid android
+<12> fake plastic trees
+<13> let down
+<14> bullet proof..i wish i was
+<15> bones
+<16> talk show host
+<17> the bends
+encore:
+<18> (encore break)
+<19> subterranean homesick alien
+<20> maquiladora (cuts out)
+
+Notes: Thanks to Henrik for transferring his cassette of this show. I ran an EQ filter on the audio, speed up each side 1.25 % to match what sounded correct to me, normalized it, and split the tracks in CDWAV. This is not a great recording, as it is overdriven and occasionally muffled. That being said, it's got a nice, gritty analog feel that is pleasing to listen to if you're used to that sort of thing. It's a shame that the recording cuts out during "Maquiladora"; presumably the band played more after that.  

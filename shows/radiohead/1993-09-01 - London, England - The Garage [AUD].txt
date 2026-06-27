@@ -1,0 +1,29 @@
+Radiohead
+1993-09-01
+London
+The Garage
+
+?>Memorex dB series 60 C60>Sansui D-99MW>GoldWave 5.10>FLAC frontend 1.7.1 Etree edition
+
+1 The Bends
+2 Prove yourself
+3 You
+4 Vegetable
+5 Creep
+6 Lurgee
+7 Yes I Am
+8 Banana Co.
+9 Faithless, The Wonder Boy
+10 Ripcord
+11 Anyone Can Play Guitar
+12 Pop Is Dead
+13 Stop Whispering
+14 encore
+15 Blow Out
+
+minor glitch in 10 due to no overlap being left at the tape flip when transferring from C90 to C60 at some point: I trimmed a little conservatively. The original tape flip is clearly audible during the applause at the end of track 12, and what's more the dominant channel clearly changes, suggesting the master was recorded on a C90 on an auto-reverse recorder with the head slightly out of alignment.  Or something.  It's nice enough though, not spectacular, not rotten.
+
+seeded by Keir 2005-09-14
+
+share the flacs freely and never accept money for them
+convert to mp3 for personal use if you must, never share them

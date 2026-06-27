@@ -1,0 +1,79 @@
+NIRVANA
+July 23, 1993
+Roseland Ballroom (New Music Seminar)
+New York, NY
+
+DISC #1/2 (47:30)
+-----------------
+01) intro
+02) Serve The Servants
+03) Scentless Apprentice
+04) School
+05) Breed
+06) Lithium
+07) Come As You Are
+08) Milk It
+09) Drain You
+10) tourette's
+11) Aneurysm
+12) Very Ape
+13) Blew
+14) Heart-Shaped Box
+
+DISC #2/2 (42:21)
+-----------------
+01) Rape Me
+02) Territorial Pissings
+03) All Apologies
+04) Polly
+05) Dumb
+06) Something In The Way
+07) Where Did You Sleep Last Night
+08) Smells Like Teen Spirit
+09) Endless, Nameless
+
+GENERATION
+-----------------
+DAT(M) -> DAT(1) -> WAV [32kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#3)
+-----------------
+Sonic Studios DSM-13 -> Sony TCD-D3
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+Has level fluxuations and various flaws due to the taper recording the show from the mosh pit.
+
+MD5 FINGERPRINTS
+-----------------
+ccdc23c8335f801fd06a40d085d7ff88 *nirvana1993-07-23d1t01.flac
+615aa500909de90494dff5cf8024947f *nirvana1993-07-23d1t02.flac
+6f5081798bfc4400443d3171732b88b0 *nirvana1993-07-23d1t03.flac
+5ccb6f221145cdbb51d0191dcc70c355 *nirvana1993-07-23d1t04.flac
+fb20cc9cb96bd68ad32719ca292a695f *nirvana1993-07-23d1t05.flac
+43582902a0aa6bf5b089ca7b85cf726e *nirvana1993-07-23d1t06.flac
+8f8a766ed3df90f7d55994605687b884 *nirvana1993-07-23d1t07.flac
+473fe124dd740c30dab939455d60164d *nirvana1993-07-23d1t08.flac
+a34602edfde047c3e0a970340702fde0 *nirvana1993-07-23d1t09.flac
+3fafd55e72044d9519561783f6909189 *nirvana1993-07-23d1t10.flac
+7ccc45e1077ebb74f38bd926325d698f *nirvana1993-07-23d1t11.flac
+bcf0ae077681a40687937bbeebc0037d *nirvana1993-07-23d1t12.flac
+87174410e9120bc05e10087e3b7019d2 *nirvana1993-07-23d1t13.flac
+18d2aa04f6480599d640535ef7194031 *nirvana1993-07-23d1t14.flac
+74e164edb1bc93ec61b3b4480b582781 *nirvana1993-07-23d2t01.flac
+6ee8a5455423700e377822a3e03bf6da *nirvana1993-07-23d2t02.flac
+61988c2368401096b2be6fea35a0f1fa *nirvana1993-07-23d2t03.flac
+2d93250f6476c24b6ea2aab7bd842297 *nirvana1993-07-23d2t04.flac
+8abe94e65d64b9851196cb97ecf80843 *nirvana1993-07-23d2t05.flac
+1c51176d43e762c2c34d28cd62bde21a *nirvana1993-07-23d2t06.flac
+01cf6c29f6ee7c05af4092bfbadaac51 *nirvana1993-07-23d2t07.flac
+5790e34c2869e7b14c4ec093518d72ed *nirvana1993-07-23d2t08.flac
+46e5ebc6c416605a0cb450389eb87c20 *nirvana1993-07-23d2t09.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

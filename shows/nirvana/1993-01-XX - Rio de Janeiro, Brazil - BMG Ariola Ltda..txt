@@ -1,0 +1,33 @@
+NIRVANA
+January 1993
+BMG Ariola Ltda.
+Rio de Janeiro, Brazil
+
+SOURCE (AMTCLP #1 + SBD #3b):
+Sounboard > Unknown
+
+EXTRACTION:
+Lite-On iHBS-112 > MakeMKV Beta 1.8.5
+
+GENERATION:
+Official DVD 'With The Lights Out' [PAL] > MKV
+
+LENGTH:
+03:22
+
+NOTES:
+- No re-encoding
+- Audio track is LPCM
+- Video montage with overdubbed SBD audio featuring edited footage of the band recording "Seasons in The Sun" and "Onward Into Countless Battles"
+
+TRACKS:
+01. Seasons In The Sun
+
+MD5 FINGERPRINTS:
+418eae7599e6bce65c927933c54bcd40 *Nirvana_1993-01-xx_AMTCLP1_DVD.mkv
+
+EXTRACTED BY:
+P.L.
+
+**DO NOT TRADE**
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

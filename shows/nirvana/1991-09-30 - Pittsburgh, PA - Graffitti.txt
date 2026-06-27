@@ -1,0 +1,53 @@
+NIRVANA
+September 30, 1991
+Graffiti
+Pittsburgh, PA
+
+SOURCE (AUD #1):
+built-in > unknown
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+44:57
+
+TRACKS:
+01. Jesus Wants Me For A Sunbeam (cuts in)
+02. Aneurysm
+03. Drain You
+04. Smells Like Teen Spirit
+05. School
+06. Floyd The Barber
+07. About A Girl
+08. Breed
+09. Polly
+10. Sliver
+11. D-7
+12. Territorial Pissings
+13. Blew
+14. Been A Son (cuts out)
+
+MD5 FINGERPRINTS:
+dcc715d1aba7cfd137c63f26e4b0748b *Nirvana_1991-09-30_AUD1_t01.flac
+f4be7874de92cef0115675cefe9713b1 *Nirvana_1991-09-30_AUD1_t02.flac
+715ac471ed66c8a5192fa5af45a2d86c *Nirvana_1991-09-30_AUD1_t03.flac
+7e18583cc1b7ff63ac262f5cd308c5f1 *Nirvana_1991-09-30_AUD1_t04.flac
+c0cbabe2a5b1f446958aaf1aef2291c6 *Nirvana_1991-09-30_AUD1_t05.flac
+8bd51fb7b38dd64bb9592a757b7f8b55 *Nirvana_1991-09-30_AUD1_t06.flac
+b341b7302bc2570ad2269e6305b0e190 *Nirvana_1991-09-30_AUD1_t07.flac
+75ac137f427d22df76c226c156c82e94 *Nirvana_1991-09-30_AUD1_t08.flac
+d8a2df59b3d7175f8e79d6d56879208f *Nirvana_1991-09-30_AUD1_t09.flac
+c4f98b1c2d9775c1cd33b922a958ce22 *Nirvana_1991-09-30_AUD1_t10.flac
+77197c94d1b481c63413cbe3830e7250 *Nirvana_1991-09-30_AUD1_t11.flac
+9b339133f7c66d8caf605dd51fe69cce *Nirvana_1991-09-30_AUD1_t12.flac
+cf4ff230832f9762a9786efcc94312b6 *Nirvana_1991-09-30_AUD1_t13.flac
+51eef5be7e9ccf796ecade51ef5ed37a *Nirvana_1991-09-30_AUD1_t14.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,110 @@
+Radiohead
+Main Square 
+Main Stage 
+La Citadelle 
+Arras, France 
+July 2, 2017 
+
+Lineage: Webcast -> FFmpeg -> uncompressed .ts 
+Video: MPEG4 Video (H264) 1152x648 2.35:1/16:9 frame 2200 Kbps 25.00 fps 
+Audio: AAC 192 Kbps 48.0 KHz stereo 
+
+Setlist:
+Daydreaming
+Desert Island Disk
+Ful Stop
+15 Step
+My Iron Lung
+Myxomatosis
+All I Need
+Videotape
+Let Down
+Bloom
+Separator
+Reckoner 
+There There
+The Numbers
+Exit Music (for a Film)
+Bodysnatchers
+
+Encore:
+No Surprises
+Nude
+Climbing Up the Walls
+Everything in Its Right Place
+Idioteque
+
+Encore 2:
+You and Whose Army? 
+Weird Fishes/Arpeggi 
+Paranoid Android
+
+TRT = 02:02:25 
+
+Note: This is a perfect capture of the webcast. Any imperfections, if present, were inherent in the broadcast. 
+
+Captured and uploaded to DIME by indykid. 
+
+MediaInfo:
+General
+ID                                       : 1 (0x1)
+Complete name                            : Radiohead - 2017-07-02 Main Square, Arras, France [648p].ts
+Format                                   : MPEG-TS
+File size                                : 2.05 GiB
+Duration                                 : 2 h 2 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 395 kb/s
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, RefFrames               : 4 frames
+Format settings, GOP                     : M=1, N=50
+Codec ID                                 : 27
+Duration                                 : 2 h 2 min
+Width                                    : 1 152 pixels
+Height                                   : 648 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 25.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : Zencoder Video Encoding System
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Muxing mode                              : ADTS
+Codec ID                                 : 15
+Duration                                 : 2 h 2 min
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Duration                                 : 2 h 2 min
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television
+
+Captured and uploaded to DIME by indykid.

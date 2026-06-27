@@ -1,0 +1,278 @@
+Radiohead
+
+Ziggo Dome
+Amsterdam
+The Netherlands
+
+14th October 2012 (2012-10-14)
+
+
+RECORDING:
+
+Type: Audience master, recorded centre stage, approximately 15 metres back
+      from the ceiling-mounted PA system.
+
+Source: Factory-matched pair of Schoeps CCM 41V microphones (DINa mounted) ->
+	Marantz PMD661 recorder with Oade Concert Mod
+	(-18 dB gain/44.1 kHz/24 bit WAV)
+
+Lineage: Audacity 2.0.2
+	   * applied varying amplification for consistency across recording
+	   * attenuated applause
+	   * some sample-level edits to eliminate clipping on applause
+	   * added fades
+	   * split tracks
+	   * converted to 16 bit
+	 -> FLAC (compression level 8) [libFLAC 1.2.1 20070917]
+
+Taper: Ian Macdonald (ianmacd)
+
+
+SET LIST:
+
+01. [07:29] Bloom
+02. [04:33] Lucky
+03. [04:27] 15 Step
+04. [04:32] Kid A
+05. [03:39] Myxomatosis
+06. [03:47] The Gloaming
+07. [06:16] Separator
+08. [05:51] Reckoner
+09. [03:17] You And Whose Army?
+10. [04:40] Nude
+11. [05:33] Full Stop
+12. [04:50] Lotus Flower
+13. [05:56] There There
+14. [04:37] Karma Police
+15. [03:35] Feral
+16. [06:18] Paranoid Android
+17. [02:33] [encore break]
+18. [05:17] Give Up The Ghost
+19. [05:54] Supercollider
+20. [04:58] Morning Mr. Magpie
+21. [04:02] A Wolf At The Door
+22. [04:18] Bodysnatchers
+23. [02:20] [encore break]
+24. [06:21] How To Disappear Completely
+25. [06:33] Everything In Its Right Place
+26. [06:15] Idioteque
+
+Total running time: 127:48
+
+
+MD5 CHECKSUMS:
+
+148505d40343412dbc8087630a4f21ef  flac/01_bloom.flac
+48af7e031bfecbc93747910da8db511e  flac/02_lucky.flac
+990408fb1dd1251f710e0737bf3a4c9d  flac/03_15_step.flac
+567a1e9a549e2b6cc193ac2c9a27ffe3  flac/04_kid_a.flac
+28a33b4763e80b1b77b1a8216cdfd7d8  flac/05_myxomatosis.flac
+d033eb10f60a11a8637c382b440ca447  flac/06_the_gloaming.flac
+216147ecbf0f272960d1f489677b3e8e  flac/07_separator.flac
+14cd0e816abca26bb385ebedb4aa6de5  flac/08_reckoner.flac
+c68bedcea40492aa7a30b5838a3f2ced  flac/09_you_and_whose_army.flac
+65f04d56b6108adf00a7e4c26425474e  flac/10_nude.flac
+4f2b06d7277b4e84e59f7d0c915d83fe  flac/11_full_stop.flac
+ae4819be001a10ebaf17d70d202c11cf  flac/12_lotus_flower.flac
+cd9741dcc05c3e9eb5f03e86ace471fc  flac/13_there_there.flac
+05cc34602b4d3271387786626d017fdf  flac/14_karma_police.flac
+b0faad130a7ca2c1d13be189f90e9350  flac/15_feral.flac
+c63e0a16a70a921963c855d08321e0fc  flac/16_paranoid_android.flac
+ac60548797e42db6db3cf43e245b45c4  flac/17_encore_break.flac
+77dad76498ef010c0de784ac0d78eb8d  flac/18_give_up_the_ghost.flac
+019f06b00116140d2aabf04e15637383  flac/19_supercollider.flac
+a1ba4ffbded0bdb7099ae072140e6dcd  flac/20_morning_mr_magpie.flac
+7302f319491572c97a098d521c71bc25  flac/21_a_wolf_at_the_door.flac
+1b4fb578b8554ff3c05d50b010d9351c  flac/22_bodysnatchers.flac
+8d37ffd8de0ed8884edf85424b690c3b  flac/23_encore_break.flac
+031c6e029d1fa83b6c0077270b49b66d  flac/24_how_to_disappear_completely.flac
+ec5600015111a23f18a5b77ec862840a  flac/25_everything_in_its_right_place.flac
+debc1f6e19086df12935e60c51ded941  flac/26_idioteque.flac
+fe9f7771d856246fd4c7bf45aae540fb  flac/checksums.ffp
+
+
+NOTES:
+
+I do dislike the Ziggo Dome.
+
+I dislike the crass commercialism inherent in its name. What's next? Are we to
+become like America, where the venues change name every couple of years as the
+sponsorship contract comes up for renewal and one vile corporation outbids
+another? Goodbye Chunky Chicken Nuggets Centre, hello Fat Fuck Doughnut Arena.
+
+I dislike that they named a rectangular buiding a dome.
+
+I dislike having to queue up to exchange cash for plastic tokens in order to
+buy food or even a drink.
+
+I dislike the pricing of said food and drink, which is not only expensive and
+misleading (because the price expressed as tokens is less than the actual
+price in euros), but also guaranteed to leave you with half a token at the end
+of the night, which you then bring home with you and never see again, making
+the actual cost even more expensive.
+
+I dislike the poor sods whose job it is to plough a path through the audience
+whilst carrying a barrel of beer on their back, because they barge into me
+when they turn. Let the people who can't live without beer go to the bar,
+where they'll hopefully remain.
+
+I dislike the toilets with no lid, although these are not unique to the Ziggo
+Dome. Don't they know how easy it is to drop recording equipment into the
+toilet? Bastards.
+
+I dislike the expensive car parks. Special event rate of 12 euro? Kiss my
+arse. Just a week ago, I parked for 7½ hours in the centre of Cologne under
+the Philharmonie. Total cost? 3 euro. That's a proper event tariff. Greedy
+bastards.
+
+I dislike the painfully slow car parks. The gig is over. I just want to leave,
+for fuck's sake.
+
+I dislike queueing in the rain to go inside the venue. Why is it always
+raining here?
+
+Jean-Paul Sartre once wrote, "L'enfer, c'est les autres". He'd probably just
+been to a gig when he penned those immortal words, because that's the trouble
+with gigs. They're full of "les autres"; and the Ziggo Dome has more of them
+than anywhere else in this overfull city.
+
+I'm tired of listening to the tedious conversations of other people.
+
+I'm tired of treading on their discarded beer glasses.
+
+I'm tired of their complete disregard for my comfort, because they just want
+to smoke at a Radiohead gig, man. It's all about me, me, me, you know?
+
+I'm not content with it being more important that they go home with a shitty,
+shaky, three minute video clip of some flashing lights, morphing colours and a
+few pixelated ants, than it is for me to have a view unobstructed by their
+forearms.
+
+Radiohead are too large now. I mean, they deserve it, of course. They've
+worked hard for it and all that, so good for them, but bad for me.
+
+15,000+ punters are here for this sold-out gig and many of them are, I
+suspect, people who attend approximately one gig a year. Neither their
+upbringing nor their experience of concert environments seem to have given
+them any grounding in how to behave courteously towards others.
+
+Would these people walk into a pub, strap on an electric guitar and start
+playing loud music, so that the other customers couldn't hold a conversation?
+No? Then why the fuck do they come to a music venue and then chatter to each
+other while there is music being performed?
+
+We'd all be a lot happier if they'd stayed at home on the couch, with a
+chocolate biscuit and a nice hot cup of shut-the-fuck-up.
+
+Oh, and I should mention that each of these irritations is massively magnified
+when I'm sick and suffering from a headache. Such is the case tonight. I still
+haven't recovered from Prague and I'm absolutely relishing the prospect of
+spending the next four and a half hours glued to the same spot.
+
+When I come to print out my tickets for this gig, I discover that I've
+purchased two of them, probably thinking that my wife might also like to
+attend. Too late now; I'll have to sell the ticket at the gig, which has been
+sold out since the day tickets went on sale, seven months ago. How hard can it
+be?
+
+Shifting a spare ticket tonight proves easier said than done. It's hard to
+tell who, if anyone, needs one. It's also raining, people are approaching from
+several directions at once and the queue snakes around all over the place,
+making it hard to spot people who might be vying for a ticket.
+
+It's hard to know where best to stand, so I stand everywhere and nowhere and
+manage to sell nothing.
+
+The clock is ticking and I need to start approaching random punters or I could
+be out here all night. I spot a middle-aged guy leaning against a wall near
+the ticket-office and ask him if he needs a ticket. He does! Sold!
+
+I finally get to go inside, out of the rain. The queues have significantly
+died down. I pick a door and chat to the purchaser of my ticket to pass the
+time as the queue is whittled down to where we are.
+
+As we get to the doors, I notice that the security staff checking people
+coming from my queue are being a little too thorough, so I veer left at the
+last moment and am waved through by the more relaxed guy manning that door.
+I'm in.
+
+A quick check of the hall reveals it's not too busy in there yet, so I queue
+for some bloody Ziggo currency and then head into the lavatories to suit up.
+
+Taperman emerges and, one overpriced hamburger and overpriced juice later,
+heads into the hall to take up position between the stacks. It's a lot busier
+now, but I still manage to secure a good central location at a decent distance
+from the stage.
+
+There turn out to be a couple of large pockets of fans sitting on the floor,
+closer to the stage, so as each of those groups gets up and the crowd moves
+forwards to fill the space, I go with the flow and see my own position
+promoted to 'ideal'. I now form an equilateral triangle with the left and
+right PA stacks and really couldn't wish for a better spot.
+
+Caribou come on at 19:30 and play for a measly half hour. All around me are
+people who would rather discuss the minutiae of their insignificant lives than
+listen to the music. How grateful I am for the selective hearing of
+supercardioid microphones. I wonder how I ever coped without them and I wish I
+could operate my ears in the same mode.
+
+Radiohead are punctual, arriving on stage at the scheduled start time of
+20:30. For the next two hours and a bit, they hold the audience captive and
+make it look easy. I'm less captive than most, though, I must confess. I have
+put in plenty of effort over the years to become a big fan of Radiohead, but
+the blue touch paper just won't seem to ignite.
+
+Many people who know a thing or two about music will wax lyrical about the
+importance, influence, originality and brilliance of the band. I'm not about
+to refute any of that testimony, but I do sometimes struggle to simply enjoy
+the music for what it is. I'm one of those people who really liked 'Creep' and
+think that 'Karma Police' is sublime. The rest I can take or leave.
+
+On the other hand, I do have the utmost respect for the band and the way they
+conduct their affairs. In that sense, I am a fan, because I support what they
+do.
+
+I'm afraid Radiohead are destined to remain like fine wine to me. Whilst some
+people's lives are hugely enriched by the pursuit of drinking wine, to the
+extent that they will travel to sample it and even devote a room in their
+house to its storage, it all tastes like fermented grapes to me; and so, too,
+do Radiohead, I'm afraid.
+
+On the other hand, I am blown away by the band's light show this evening,
+consisting of multiple screens, suspended on wires from a truss above the
+stage. The screens do not form a contiguous whole. Rather, they can be
+individually raised and lowered, moved left and right and tilted from vertical
+to horizontal.
+
+Each tile displays a moving image depicting a small section of the live action
+on stage, but not necessarily a close-up of a face or a set of fingers. On the
+flat floor of the Ziggo Dome, with fifteen metres of the world's tallest
+music fans between me and the stage, the view of the people performing on it
+is lousy, so I spend a lot of time watching these moving screens instead.
+
+All of Radiohead's albums from 'OK Computer' onwards are represented here
+tonight, although the emphasis is obviously on the latest, 'The King Of Limbs'
+(which now seems so long ago).
+
+The sound in the Ziggo Dome is -- I must finally give the place its due --
+superb. The lows, mids and highs all ring through with clarity, the buzzing
+low bass of 'Feral' in particular resonating with my eardrums and making them
+jiggle. This place is big and it takes a lot of sound to fill it, but
+Radiohead are playing nice and loud, so there's none of that thin arena
+ambience that troubles a lot of shows in venues like this.
+
+Superb sound, a band firing on all cylinders, a good recording position and
+high quality recording equipment are the essential factors for a first rate
+audience capture, to which category I feel this recording may justly be
+assigned.
+
+Don't let my complaints about the venue and my fellow man, or my indifference
+to the band fool you. The quality of this recording is outstanding and
+probably the best of the three concerts I have thus far recorded in the
+cavernous Ziggo Dome. It compares favourably, for example, with the recording
+of Lady Gaga that I made in September.
+
+As ever, samples are provided to help you decide whether this is worth the
+share ratio depletion for you.
+
+Cheers.

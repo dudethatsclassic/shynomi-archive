@@ -1,0 +1,82 @@
+NIRVANA
+November 9, 1993
+Stabler Arena, Lehigh University,
+Bethlehem, PA
+
+SOURCE (AMT #2):
+unknown > unknown (Video8)
+
+TRANSFER:
+JVC HM-DH30000u > Pinnacle 700 USB > Virtual Dub > Cinema Craft Encoder
+
+EXTRACTION:
+Pioneer DVR-109 > DVD Decrypter 3.5.4.0 > HeadAC3he v0.23a > Adobe Audition 3.0 > CD Wave 1.98 > Flac Frontend 1.7.1
+
+GENERATION:
+8MM(M) > MDV(2) > DVD9-R(1) > AC3 [384  kbps @ 48kHz] > WAV [48 kHz] > WAV [44.1 kHz] > FLAC [Level 8]
+
+LENGTH:
+84:11
+
+NOTES:
+- This was not torrented back in 2005, so DVD9-R(1) is the lowest generation possible
+- Manually attenuated a few digital glitches during "Radio Friendly Unit Shifter", "About A Girl", "Milk It" and "Territorial Pissings"
+- Normalized
+
+TRACKS:
+01. Radio Friendly Unit Shifter (cuts in)
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. About A Girl
+06. Heart-Shaped Box
+07. Sliver
+08. Dumb
+09. Come As You Are
+10. Lithium
+11. Pennyroyal Tea
+12. School
+13. Polly
+14. Milk It
+15. Rape Me
+16. Territorial Pissings
+17. Smells Like Teen Spirit
+18. All Apologies
+19. Jesus Wants Me For A Sunbeam
+20. In Bloom
+21. On A Plain
+22. Scentless Apprentice
+23. Blew
+
+MD5 FINGERPRINTS:
+e5cb00fee30de1107f504fe7309d3d56 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t01.flac
+49866d6798d960bb3c3726ef50834ddf *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t02.flac
+7129619b67f9ed1db34db7c765931f59 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t03.flac
+b402b7cd60a54d00b9f15794d7ae7d4a *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t04.flac
+fcc0543d392065cf61b816abf9aee353 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t05.flac
+f628ca2bd646568b214f95eeec13a245 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t06.flac
+22d898dbeb5e360b283a7bac6b506475 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t07.flac
+5b7af9582721277f36f3f7d1de0df81e *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t08.flac
+dc520a73464ed30ad2b8ece6dbca7833 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t09.flac
+e86e767307976e185e021a63c3aca3fa *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t10.flac
+98f4e8e5b86fa7701fe64c3837e572f2 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t11.flac
+045b2d74ee2a2d57e511530fd923e904 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t12.flac
+6fb146f7c2b19e8de46f64de2aac3ca0 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t13.flac
+f5d4529999d33b0428a920454047b91d *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t14.flac
+91254a4644391b4cdc2e5ba6d4f769b7 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t15.flac
+b5e3306ac144608f14a69170441c559c *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t16.flac
+478f452b028cee83eb5de16f678bf815 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t17.flac
+e9039cb2675d2c7e9efaa787467e0ecd *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t18.flac
+cde1e7958bb023012240c2450b39fa4e *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t19.flac
+2c2fed9741b7216d9fa2b219fdf587ab *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t20.flac
+7ee7bf89c331ce64c1e4fe5d36f15bad *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t21.flac
+495cd27df4db3ea20b55152df58428b2 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t22.flac
+d8f3123a82109cab52fd81b2f9f60680 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t23.flac
+
+TRANSFERRED BY:
+Bill Mayer
+
+EXTRACTED BY:
+Pierre Leroy
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

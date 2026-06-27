@@ -1,0 +1,66 @@
+NIRVANA
+October 27, 1991
+The Palace
+Hollywood, CA
+
+DISC #1/1 (70:07)
+-----------------
+01) intro
+02) Drain You
+03) School
+04) Aneurysm
+05) About A Girl
+06) Smells Like Teen Spirit
+07) Breed
+08) Polly
+09) Sliver
+10) Lithium
+11) Pennyroyal Tea
+12) Love Buzz
+13) On A Plain
+14) Been A Son
+15) Negative Creep
+16) Blew
+17) Come As You Are
+18) Rape Me
+19) Jesus Wants Me For A Sunbeam
+20) Territorial Pissings
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Sony PC-62 -> Sony WM-D3
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+358ea8858f01d0d8a9c3c6cc9f14cb68 *nirvana1991-10-27t01.flac
+55ef3b02c346b4a89e962b7aa277686e *nirvana1991-10-27t02.flac
+11558ae34c002072b4788f958c1d7fb7 *nirvana1991-10-27t03.flac
+4f499bf44f88964767ce11c39aefdca9 *nirvana1991-10-27t04.flac
+d3c39df5855bf3562ca960f503834fe3 *nirvana1991-10-27t05.flac
+f8f25fc3b403166c071374656707d078 *nirvana1991-10-27t06.flac
+5104d334ef16714b608fee9ea4212288 *nirvana1991-10-27t07.flac
+d01f6684ed7b76052a860c414d4c6709 *nirvana1991-10-27t08.flac
+598d58e742acdb7f44e079f002772c41 *nirvana1991-10-27t09.flac
+71b1d40e558429229e6147ace926c246 *nirvana1991-10-27t10.flac
+ff4a0ed684eee6c01a46fb085029ae16 *nirvana1991-10-27t11.flac
+fb253fe3c3736fdecf17395be28d2f37 *nirvana1991-10-27t12.flac
+40865abc2b33142612076f6bd91ecb35 *nirvana1991-10-27t13.flac
+5b2460cd321cd4e4ccdbff064aae4be2 *nirvana1991-10-27t14.flac
+41daabb70b2c48edc9024eab6aa48692 *nirvana1991-10-27t15.flac
+e9b7cbc6f581ec66bc1017e05e276200 *nirvana1991-10-27t16.flac
+747ccd895f4ae82ce5ad64bfbd68aea1 *nirvana1991-10-27t17.flac
+359c898866cfc5ceecc7caf31f43005d *nirvana1991-10-27t18.flac
+b870a77bf7bb9af23706f98e0740672c *nirvana1991-10-27t19.flac
+8f2c4b35c2faedf158daf7da210682d1 *nirvana1991-10-27t20.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

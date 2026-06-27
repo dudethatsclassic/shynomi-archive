@@ -1,0 +1,50 @@
+NIRVANA
+June 17, 1991 (date corrected - was June 19)
+Crest Theatre
+Sacramento, CA
+
+DISC #1/1 (40:19)
+-----------------
+01) Polly
+02) Drain You
+03) School
+04) Smells Like Teen Spirit
+05) Floyd The Barber
+06) Love Buzz
+07) Lithium
+08) Been A Son
+09) Negative Creep
+10) About A Girl
+11) Sliver
+12) Blew
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Nakamichi CM-300 + CP-4 -> Marantz PMD430
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+cb78bcadec7ff0a211ea785d0ca6f93c *nirvana1991-06-19t01.flac
+0ae9a27c41c9db11c992cd50d9ffd738 *nirvana1991-06-19t02.flac
+eb428b6a63bb69eba0a68c3900fd4097 *nirvana1991-06-19t03.flac
+dea76252a776cfa9c08b76a5d74f9577 *nirvana1991-06-19t04.flac
+d0cca8b66a63dc87d532d59cb58f4abd *nirvana1991-06-19t05.flac
+70d2cbb93be0c433aee9d722b4d68fc9 *nirvana1991-06-19t06.flac
+dfbe921fbed13d07033c0ebeb2603c0a *nirvana1991-06-19t07.flac
+45e84240fc20babd50dcf08346264293 *nirvana1991-06-19t08.flac
+5ec46719bd200f8c2f095f49d39332e0 *nirvana1991-06-19t09.flac
+7e26aa21e39bf2505fa3608e3a9f1b1a *nirvana1991-06-19t10.flac
+3d9895a8bcbae4630f5ebd67ee2ca500 *nirvana1991-06-19t11.flac
+8012d1d1a3587ce28e494351478df731 *nirvana1991-06-19t12.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

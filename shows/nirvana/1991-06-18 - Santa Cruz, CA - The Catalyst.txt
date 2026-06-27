@@ -1,0 +1,55 @@
+NIRVANA
+June 18, 1991
+The Catalyst
+Santa Cruz, CA
+
+SOURCE (AUD #2):
+Schoeps CMC 44 + MK 4 > Oade capacitor box > Panasonic SV-250
+
+TRANSFER:
+Tascam DA-30mkII > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.93 beta > FLAC frontend 1.7.1
+
+GENERATION:
+DAT(1) [48kHz] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+48:28
+
+TRACKS:
+01. intro
+02. Polly
+03. Drain You
+04. School
+05. Smells Like Teen Spirit
+06. Floyd The Barber
+07. Lithium
+08. Love Buzz
+09. Sliver
+10. Molly's Lips
+11. About A Girl
+12. Rape Me
+13. Been A Son
+14. Negative Creep
+15. Blew
+
+MD5 FINGERPRINTS:
+5a6f22dae1b8439cc49896b18c0912a9 *Nirvana_1991-06-18_AUD2_t01.flac
+bc9de8a03824456b5f3cdf821e9b8291 *Nirvana_1991-06-18_AUD2_t02.flac
+dedc92635b67420ef9bb1443582a3ceb *Nirvana_1991-06-18_AUD2_t03.flac
+b9e644b5b3bf9b7a87b715b35b604d3c *Nirvana_1991-06-18_AUD2_t04.flac
+8ee735b626885fc6e47490d3535b095e *Nirvana_1991-06-18_AUD2_t05.flac
+b85ef6df22a476159c1db7b545d8a9ba *Nirvana_1991-06-18_AUD2_t06.flac
+cc52358f71f4fa55da10323806c45441 *Nirvana_1991-06-18_AUD2_t07.flac
+f316d38770fd38e4361caaf902b397f9 *Nirvana_1991-06-18_AUD2_t08.flac
+2198c4d38c700f6e5aa18c58c34ecb71 *Nirvana_1991-06-18_AUD2_t09.flac
+aa7c813ca9bd687f886da97b651b0ba2 *Nirvana_1991-06-18_AUD2_t10.flac
+583ac82718c36ea6a44b6caa14e19d38 *Nirvana_1991-06-18_AUD2_t11.flac
+cd6f2c84da00c4c075444431d136d507 *Nirvana_1991-06-18_AUD2_t12.flac
+abbb55a39bb68f8650663efd4c4ab8eb *Nirvana_1991-06-18_AUD2_t13.flac
+2325c9daeb0d685b24698cdeb249ee99 *Nirvana_1991-06-18_AUD2_t14.flac
+7a8695355c5fa8eb28f4968ea588f5c0 *Nirvana_1991-06-18_AUD2_t15.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

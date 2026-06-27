@@ -1,0 +1,46 @@
+
+Radiohead
+Alpine Valley Music Theater: East Troy, WI
+August 23, 2003
+
+Source: DPA 4061s > CSBox > Sony TCD-D100 @ 48kHz
+Location: Row NN, right/center
+Transfer: Tascam DA-20 > Sony PCM-R300 > ZNP6 > CEPv2.1 > CDWave > TLH
+Taper:  tapeworm(48)
+
+Setlist:
+
+01 2+2=5
+02 Sit Down. Stand Up
+03 Where I End and You Begin
+04 Kid A
+05 Backdrifts
+06 Lucky
+07 Paranoid Android
+08 Sail to the Moon 
+09 Fake Plastic Trees
+10 We Suck Young Blood
+11 Go To Sleep 
+12 Just
+13 Scatterbrain
+14 The Gloaming
+15 Idioteque
+16 No Surprises
+17 There There
+18 -encore break-
+19 You and Whose Army?
+20 The National Anthem
+21 Myxomatosis
+22 Street Spirit (Fade Out)
+23 -encore break 2-
+24 Karma Police
+25 Everything in its Right Place 
+
+Notes:  Missing a few seconds of the first song as the band started early. Thus there is some mic/hat adjustment during the first song. Applied a +4dB boost on the levels. Raw transfer with no EQ.
+
+Archive:  Master DAT was transferred @ 48kHz and FLAC'd with cue sheet.
+
+Taped and transferred by tapeworm(48)
+Txt file compiled on 7/13/2005; edited 5/25/2020
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY ***

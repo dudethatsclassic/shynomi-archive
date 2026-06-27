@@ -1,0 +1,52 @@
+Radiohead
+2025-12-05
+Royal Arena
+Copenhagen, Denmark
+
+Taper 1: gvid
+Location 1: high balcony, the "front" section
+Source 1: 2x DIY omni mics (AOM-5035L) + 2x DIY cardioid mics (AUM-5241L) > Tascam DR-2d > WAV (48/24)
+
+Taper 2: roustghoti
+Location 2: GA, "right" section (from my perspective)
+Source 2: Sony PCM-A10 > WAV (96/32)
+
+Lineage: WAV > Adobe Audition (stereo adjustments, various repairs, EQ, compression, fades) > WAV (44/16) > FLAC
+
+mastered by gvid
+
+Runtime: 2:19:57
+
+Tracklist:
+01 intro
+02 2 + 2 = 5
+03 Airbag
+04 Jigsaw Falling Into Place
+05 All I Need
+06 Ful Stop
+07 Nude (with piano intro)
+08 Reckoner
+09 The Bends
+10 Separator
+11 Pyramid Song
+12 You and Whose Army
+13 Sit Down. Stand Up
+14 Myxomatosis
+15 No Surprises
+16 Optimistic
+17 Bodysnatchers
+18 Exit Music (for a Film)
+19 Street Spirit (Fade Out)
+20 encore break
+Encore:
+21 Let Down
+22 Weird Fishes/Arpeggi
+23 Idioteque
+24 Present Tense
+25 Like Spinning Plates
+26 Paranoid Android
+27 There There
+
+Notes: includes the full 15 minute intro, a long section of which is sections of the audience getting lit up and cheering. This was my first time attending a concert in an arena, I was pleasantly surprised by it. The quality of sound, the visuals, the atmosphere were all great. How I wish I could see this band more. 
+
+I'm happy with the recording as well; it's mainly the cardioids, which recorded the sound as clearly as my placement could allow it.

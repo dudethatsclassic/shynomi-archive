@@ -1,0 +1,40 @@
+Radiohead 2003-08-21
+Blossom Music Center
+Cuyahoga Falls Ohio USA
+
+SETLIST
+01 sit down. stand up 
+02 morning bell 
+03 lucky 
+04 myxomatosis 
+05 kid a 
+06 backdrifts 
+07 there there 
+08 where i end and you begin 
+09 go to sleep 
+10 paranoid android 
+11 sail to the moon 
+12 a punch-up at a wedding 
+13 2+2=5 
+14 idioteque 
+15 exit music 
+16 the national anthem 
+
+Encore #1: 
+17 a wolf at the door 
+18 dollars and cents 
+19 no surprises 
+20 the bends 
+21 the gloaming 
+
+Encore #2: 
+22 street spirit 
+23 everything in its right place  
+
+setlist ~ www.greenplastic.com
+encoding ~ coolbrez (thanks greengoblin)
+recording ~ kickdown
+core sound binaurals->d100@44.1khz->7pin->audigy2->
+sound forge 5.0->cd wave (splits)->nero shn encode
+***last track (end) minor digi-noise (last 30 sec)
+***batteries totally died seconds after show end :D  

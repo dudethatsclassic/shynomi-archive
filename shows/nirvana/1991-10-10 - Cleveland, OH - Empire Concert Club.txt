@@ -1,0 +1,68 @@
+NIRVANA
+October 10, 1991
+Empire Concert Club
+Cleveland, OH
+
+SOURCE (AUD #1b):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.95.1 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+70:47
+
+NOTES:
+- Has a dropout on the right side in "Come As You Are."
+
+TRACKS:
+01. Another One Bites The Dust (jam)
+02. Jesus Wants Me For A Sunbeam
+03. Aneurysm
+04. Drain You
+05. School
+06. Floyd The Barber
+07. Smells Like Teen Spirit
+08. About A Girl
+09. Breed
+10. Polly
+11. Sliver
+12. Love Buzz
+13. Come As You Are
+14. Pennyroyal Tea (cuts in)
+15. Negative Creep
+16. Been A Son
+17. Blew
+18. Rape Me
+19. Lithium
+20. Territorial Pissings
+
+MD5 FINGERPRINTS:
+dcd526b5cca70fa34c401a25d92fb55e *Nirvana_1991-10-10_AUD1b_t01.flac
+3787eda941f7b8579954c48418e5ff26 *Nirvana_1991-10-10_AUD1b_t02.flac
+b063fd557f2a5891f233f43ee7345234 *Nirvana_1991-10-10_AUD1b_t03.flac
+3e81576cfb4b52e893bfa843c510fdef *Nirvana_1991-10-10_AUD1b_t04.flac
+799e9a20ce102b3d5da1214fc5e68a70 *Nirvana_1991-10-10_AUD1b_t05.flac
+07f07335472c621272ce83149465cc1b *Nirvana_1991-10-10_AUD1b_t06.flac
+c42d3beb728eb0cf9d1849c68edd93bc *Nirvana_1991-10-10_AUD1b_t07.flac
+3aeb36a4c9149f37242c79030f4abb23 *Nirvana_1991-10-10_AUD1b_t08.flac
+3ff29d121341fd408af6699847043207 *Nirvana_1991-10-10_AUD1b_t09.flac
+4c7378ad444f5c77b7ed97cf69adf306 *Nirvana_1991-10-10_AUD1b_t10.flac
+4c220379fcdadb9690ed36e60ea7fd53 *Nirvana_1991-10-10_AUD1b_t11.flac
+edacd59043aafecc3acac6d7cf29605d *Nirvana_1991-10-10_AUD1b_t12.flac
+97d91bebdb37fec49124214c908a49ec *Nirvana_1991-10-10_AUD1b_t13.flac
+fbcb10d0db7da43f3671189c5797931c *Nirvana_1991-10-10_AUD1b_t14.flac
+ce2b99c359a9e651798e513923771734 *Nirvana_1991-10-10_AUD1b_t15.flac
+a7641c5f8ebe19d85ae6a912633a1cc9 *Nirvana_1991-10-10_AUD1b_t16.flac
+057a09669f5c1723e9322faacd56e309 *Nirvana_1991-10-10_AUD1b_t17.flac
+c68f07ab641abcb33aa362bd7bb6678e *Nirvana_1991-10-10_AUD1b_t18.flac
+128f717b10d2668fe8283e1fbbc0b094 *Nirvana_1991-10-10_AUD1b_t19.flac
+6d782b044b32b65e3b17f4365ee03627 *Nirvana_1991-10-10_AUD1b_t20.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

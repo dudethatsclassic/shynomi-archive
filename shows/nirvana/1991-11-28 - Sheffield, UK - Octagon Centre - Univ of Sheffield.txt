@@ -1,0 +1,58 @@
+NIRVANA
+November 28th, 1991
+Octagon Centre, Sheffield University,
+Sheffield, UNITED KINGDOM
+
+SOURCE (AUD #1):
+Sony ECM-959v > Sony WM-D6C
+
+TRANSFER:
+Nakamichi DR-3 > Custom RCA to 1/4" TS Klotz cables > Echo Mia Midi Analog-in > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+54:57
+
+NOTES:
+- tape flip after "Blew"
+
+TRACKS:
+01. Drain You
+02. Aneurysm
+03. School
+04. Floyd The Barber
+05. Smells Like Teen Spirit
+06. About A Girl
+07. Polly
+08. Lithium
+09. Sliver
+10. Breed
+11. Been A Son
+12. Negative Creep
+13. On A Plain
+14. Blew
+15. Endless, Nameless
+
+MD5 FINGERPRINTS:
+f6ce3428e088cba810015e4c8b4a6a97 *nirvana_1991-11-28_aud1_ana1_d1t01.flac
+1f43c0a6bb772621ffc5714b9b7dd412 *nirvana_1991-11-28_aud1_ana1_d1t02.flac
+fc702c04e9c385ed4bbedd23b3dbe18c *nirvana_1991-11-28_aud1_ana1_d1t03.flac
+c71cf4a36ea874dcdd75a92cc5690583 *nirvana_1991-11-28_aud1_ana1_d1t04.flac
+273407c736e44b878ea90e946307df29 *nirvana_1991-11-28_aud1_ana1_d1t05.flac
+56ebc00a2dc4521c705aa891ee9bfe24 *nirvana_1991-11-28_aud1_ana1_d1t06.flac
+b230ee5f5aa8949a608605cc5c05c3e6 *nirvana_1991-11-28_aud1_ana1_d1t07.flac
+d158068e8d750d706a944074c414bbdb *nirvana_1991-11-28_aud1_ana1_d1t08.flac
+6706e01e1fd928ed7cbfc590a19680b1 *nirvana_1991-11-28_aud1_ana1_d1t09.flac
+72f7e532c5d1253efa8e60e3f371cfc4 *nirvana_1991-11-28_aud1_ana1_d1t10.flac
+97529de3a6a61218dca814a51bfc196d *nirvana_1991-11-28_aud1_ana1_d1t11.flac
+cc8aeef94cc7df85a2d16e06ab9d3377 *nirvana_1991-11-28_aud1_ana1_d1t12.flac
+37c9f17b8066eb97b8e3c6284cd000c2 *nirvana_1991-11-28_aud1_ana1_d1t13.flac
+0557b4903313a42044ef441feed8186e *nirvana_1991-11-28_aud1_ana1_d1t14.flac
+1321ed17f307d756f509d5e36b078ce0 *nirvana_1991-11-28_aud1_ana1_d1t15.flac
+
+TRANSFERRED BY:
+Pierre Leroy
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL

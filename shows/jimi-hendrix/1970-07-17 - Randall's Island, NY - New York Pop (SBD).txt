@@ -1,0 +1,13 @@
+    length     expanded size   cdr  WAVE problems filename
+     6:04.15       64244924    ---   --   ---xx   01 - Stone Free.flac
+     4:24.19       46614332    ---   --   ---xx   02 - Fire.flac
+     8:19.23       88077740    ---   --   ---xx   03 - Red House.flac
+     5:15.16       55603676    ---   --   ---xx   04 - Message To Love.flac
+     3:11.11       33718316    ---   --   ---xx   05 - Lover Man.flac
+     4:44.58       50234060    ---   --   ---xx   06 - All Along the Watchtower.flac
+     5:01.50       53214044    ---   --   ---xx   07 - Foxy Lady.flac
+     4:09.60       44064764    ---   --   ---xx   08 - Ezy Rider.flac
+     3:01.55       32057804    ---   --   ---xx   09 - Star Spangle Banner.flac
+     4:11.64       44426972    ---   --   ---xx   10 - Purple Haze.flac
+     9:10.05       97031804    ---   --   ---xx   11 - Voodoo Child (Slight Return).flac
+    57:34.01      609288436 B                     (totals for 11 files, 0.5579 overall compression ratio)

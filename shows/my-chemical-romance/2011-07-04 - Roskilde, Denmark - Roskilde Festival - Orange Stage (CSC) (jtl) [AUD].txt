@@ -1,0 +1,32 @@
+My Chemical Romance
+July 04th 2011 Orange Stage / Roskilde Festival / Roskilde / Denmark
+
+Setlist:
+
+01. Look Alive, Sunshine
+02. Na Na Na (Na Na Na Na Na Na Na Na Na)
+03. Give 'Em Hell, Kid
+04. Planetary (GO!)
+05. Hang 'Em High
+06. Mama
+07. House of Wolves
+08. The Kids From Yesterday
+09. The Only Hope for Me Is You
+10. I'm Not Okay (I Promise)
+11. Vampire Money
+12. Teenagers
+13. Welcome to the Black Parade
+14. DESTROYA
+15. Helena
+16. Famous Last Words
+
+Taper:
+JTL
+
+Lineage:
+Core Sound Cardioid Mics > Batterybox (Flat response) > iRiver H120 (Rockbox) > WaveLab (clean-up, eq, normalize, splitting) > Fakin' the Funk? (spectral analysis) > xACT (fix SBE, FLAC 8)
+
+Notes:
+New transfer - February 2025.
+
+Please note that this is not a rip of the incomplete version broadcast on MTV, but a complete AUD audio recording.

@@ -1,0 +1,67 @@
+Radiohead
+2006-06-05
+Bank of America Pavilion
+Boston, MA, USA
+
+Source: Sony ECM-719 mic > Sony MZ-RH10 MD Recorder (Linear PCM 44.1kHz/16-bit)
+
+Transfer:  USB2.0 > PC > WAV > SOundforge Edits > WAV > flac (via TLH)
+
+
+Setlist:
+
+01. Intro
+02. Climbing Up The Walls
+03. Bangers 'n' Mash (new)
+04. 15 Step (new)
+05. Morning Bell
+06. Kid A
+07. Fake Plastic Trees
+08. Videotape (new)
+09. Bodysnatchers (new)
+10. Where I End And You Begin
+11. Knives Out
+12. There There
+13. Nude (new)
+14. Just
+15. Spooks (new)
+16. Idioteque
+17. House of Cards (new)
+18. Planet Telex
+
+encore 1...
+19. Like Spinning Plates
+20. Arpeggi (new)
+21. No Surprises
+22. Everything In Its Right Place
+
+encore 2...
+23. The Tourist
+
+
+
+MD5 Checksums:
+
+3f26fcc328403bfcc724b7df7e0f6f17 *01-Radiohead-Intro(live).flac
+cc54156a483cafef0a1514b0676a2753 *02-Radiohead-ClimbingUpTheWalls(live).flac
+c164b5c3ab497475c560410e837f65d3 *03-Radiohead-BangersnMash(live).flac
+f10a73d7d4c575a501eccc80601dd3fa *04-Radiohead-15Step(live).flac
+ea06584157a37c9dbb59cfb62fd26045 *05-Radiohead-MorningBell(live).flac
+e7256aefe023d68d0842fff10dcd943a *06-Radiohead-KidA(live).flac
+80e5fc4cf01cc16ecccbc29203b9d589 *07-Radiohead-FakePlasticTrees(live).flac
+3897f7d0ebbd5dc889429fcc1a26fd3a *08-Radiohead-Videotape(live).flac
+a0f8017d8529c060414ad69048cbddc2 *09-Radiohead-Bodysnatchers(live).flac
+0eaf9a2c8d764647a6c81a15255ca2f1 *10-Radiohead-WhereIEndAndYouBegin(live).flac
+65d16297388986c3a00ef599313b11ea *11-Radiohead-KnivesOut(live).flac
+793f703e3dd9e57e5d8d0b44c83d6578 *12-Radiohead-ThereThere(live).flac
+4c8589eee9d4f9113ecc0e6dd3392df3 *13-Radiohead-Nude(live).flac
+fa5171d08e12a5f5b227c6766e10ba76 *14-Radiohead-Just(live).flac
+232072b26be301acb935d6fa6b729f73 *15-Radiohead-Spooks(live).flac
+5034a1bc3f4b7d175fdb16fa00fd4a2d *16-Radiohead-Idioteque(live).flac
+8987e0d40d7975b285ace3c2de1ba131 *17-Radiohead-HouseOfCards(live).flac
+a6533bf89f9b6960def5b167639f9274 *18-Radiohead-PlanetTelex(live).flac
+219d5ab9d559229b8a18b3c646a620db *19-Radiohead-LikeSpinningPlates(live).flac
+29a37242eb9fcd9aefefca16e1a34171 *20-Radiohead-Arpeggi(live).flac
+37c8a4b3abd02d8223ec5b14ef9050cd *21-Radiohead-NoSurprises(live).flac
+cb0772a36cc0436e27a6a4afbdd31e8a *22-Radiohead-EverythingInItsRightPlace(live).flac
+a70343b1b1f4154c0c409fdbd42ff127 *23-Radiohead-TheTourist(live).flac

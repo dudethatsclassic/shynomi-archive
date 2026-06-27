@@ -1,0 +1,130 @@
+Another Planet Entertainment presents Radiohead, with Dudu Tassa & The Kuwaitis
+William Randolph Hearst Greek Theatre
+2001 Gayley Rd., Berkeley, CA 94720 USA
+6:30 PM, Monday, April 17, 2017
+
+ 
+Recorded by Jean Lerond <lerond@gmail.com>
+DPA4023 cardioids in DIN configuration -> Sound Devices 722.
+
+This is a 16 bit 44.1khz file set
+
+
+Set Two: Radiohead
+
+Tracklist
+
+01. s2t01 - lights down, band out          01:29.27
+02. s2t02 - Daydreaming                    05:27.50
+03. s2t03 - Desert Island Disk             04:57.16
+04. s2t04 - Ful Stop                       05:38.47
+05. s2t05 - 15 Step                        04:18.64
+06. s2t06 - Myxomatosis                    04:09.07
+07. s2t07 - Lucky                          04:39.04
+08. s2t08 - Morning Mr. Magpie             04:55.24
+09. s2t09 - Exit Music (for a Film)        04:56.51
+10. s2t10 - All I Need                     04:42.36
+11. s2t11 - Everything In Its Right Place  05:08.31
+12. s2t12 - Bloom                          06:36.31
+13. s2t13 - Identikit                      05:01.23
+14. s2t14 - My Iron Lung                   05:21.13
+15. s2t15 - The Gloaming                   03:23.29
+16. s2t16 - I Might Be Wrong               05:14.49
+17. s2t17 - The Numbers                    05:45.36
+18. s2t18 - Reckoner                       05:30.06
+19. s2t19 - Encore break                   02:22.45
+
+First encore
+
+20. s2t20 - No Surprises                   04:26.04
+21. s2t21 - Burn the Witch                 04:13.66
+22. s2t22 - Lotus Flower                   05:10.42
+23. s2t23 - Fake Plastic Trees             05:20.36
+24. s2t24 - The Tourist                    04:49.50
+25. s2t25 - Encore break 2                 02:31.26
+
+Second Encore
+
+26. s2t26 - You and Whose Army             03:07.73
+27. s2t27 - Bodysnatchers                  05:12.20
+28. s2t28 - Idioteque                      05:14.50
+
+Total: 129:44.56
+ 
+Performers
+Radiohead
+
+Colin Greenwood: bass;
+Jonny Greenwood: guitar, keyboards;
+Ed O'Brien: guitar, harmony vox;
+Philip Selway: drums, percussion, harmony vox;
+Thom Yorke: guitar, piano, keyboards, vox.
+
+urls:
+https://www.radiohead.com/deadairspace
+
+shntool:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:29.27       15763148 B   ---   --   ---xx   flac  0.4136  s2t01 - lights down, band out.flac
+     5:27.50       57800444 B   ---   --   ---xx   flac  0.3411  s2t02 - Daydreaming.flac
+     4:57.16       52428476 B   ---   --   ---xx   flac  0.4084  s2t03 - Desert Island Disk.flac
+     5:38.47       59733788 B   ---   --   ---xx   flac  0.4838  s2t04 - Ful Stop.flac
+     4:18.64       45661772 B   ---   --   ---xx   flac  0.4740  s2t05 - 15 Step.flac
+     4:09.07       43940108 B   ---   --   ---xx   flac  0.5040  s2t06 - Myxomatosis.flac
+     4:39.04       49225052 B   ---   --   ---xx   flac  0.4488  s2t07 - Lucky.flac
+     4:55.24       52094492 B   ---   --   ---xx   flac  0.4786  s2t08 - Morning Mr. Magpie.flac
+     4:56.51       52334396 B   ---   --   ---xx   flac  0.3540  s2t09 - Exit Music (for a Film).flac
+     4:42.36       49829516 B   ---   --   ---xx   flac  0.3904  s2t10 - All I Need.flac
+     5:08.31       54404156 B   ---   --   ---xx   flac  0.4503  s2t11 - Everything In Its Right Place.flac
+     6:36.31       69927356 B   ---   --   ---xx   flac  0.4585  s2t12 - Bloom.flac
+     5:01.23       53150540 B   ---   --   ---xx   flac  0.4769  s2t13 - Identikit.flac
+     5:21.13       56655020 B   ---   --   ---xx   flac  0.4640  s2t14 - My Iron Lung.flac
+     3:23.29       35877452 B   ---   --   ---xx   flac  0.4672  s2t15 - The Gloaming.flac
+     5:14.49       55504892 B   ---   --   ---xx   flac  0.4901  s2t16 - I Might Be Wrong.flac
+     5:45.36       60942716 B   ---   --   ---xx   flac  0.4240  s2t17 - The Numbers.flac
+     5:30.06       58226156 B   ---   --   ---xx   flac  0.4580  s2t18 - Reckoner.flac
+     2:22.45       25154684 B   ---   --   ---xx   flac  0.4557  s2t19 - Encore break.flac
+     4:26.04       46931852 B   ---   --   ---xx   flac  0.4135  s2t20 - No Surprises.flac
+     4:13.66       44784476 B   ---   --   ---xx   flac  0.4672  s2t21 - Burn the Witch.flac
+     5:10.42       54782828 B   ---   --   ---xx   flac  0.4872  s2t22 - Lotus Flower.flac
+     5:20.36       56532716 B   ---   --   ---xx   flac  0.3956  s2t23 - Fake Plastic Trees.flac
+     4:49.50       51097244 B   ---   --   ---xx   flac  0.4079  s2t24 - The Tourist.flac
+     2:31.26       26697596 B   ---   --   ---xx   flac  0.4645  s2t25 - Encore break 2.flac
+     3:07.73       33158540 B   ---   --   ---xx   flac  0.3882  s2t26 - You and Whose Army.flac
+     5:12.20       55083884 B   ---   --   ---xx   flac  0.4889  s2t27 - Bodysnatchers.flac
+     5:14.50       55507244 B   ---   --   ---xx   flac  0.5064  s2t28 - Idioteque.flac
+   129:44.56     1373230544 B                            0.4457  (28 files)
+
+
+fingerprints:
+
+s2t01 - lights down, band out.flac:74c49339fe817b45ce4b27a16babfb7e
+s2t02 - Daydreaming.flac:6c966c420638bb22d965c27de1ca645e
+s2t03 - Desert Island Disk.flac:38b51b2aa660e06a8252c94dd7d3666a
+s2t04 - Ful Stop.flac:9175314269b16d893bef6bbbd10b67f5
+s2t05 - 15 Step.flac:c4a306facd6a19155bc3fd8ac3187171
+s2t06 - Myxomatosis.flac:006fe2076574b3d09e2896b8d44e3a85
+s2t07 - Lucky.flac:c2b6b2c54459dde28a5d58c6f3cc15a9
+s2t08 - Morning Mr. Magpie.flac:0242602c5fa6a4aaf52e2dd577dc75dc
+s2t09 - Exit Music (for a Film).flac:7d21fd1346aea33e8d075ecf45ba9f30
+s2t10 - All I Need.flac:c4acbb9c810589716549f772e687c4a6
+s2t11 - Everything In Its Right Place.flac:498ecab6c00189f30e0600731a002ed9
+s2t12 - Bloom.flac:af42cd251ea11293fcafc7c6aba79a1f
+s2t13 - Identikit.flac:5497d46717e02ea48a68aa0e231f27e3
+s2t14 - My Iron Lung.flac:26fd6c27fcf2c4003112fa46aad38426
+s2t15 - The Gloaming.flac:fbe11e52737f53e30c7b6496edcf37cf
+s2t16 - I Might Be Wrong.flac:f4580e6214286ffe81b83edae9260ce8
+s2t17 - The Numbers.flac:de3b2ef1b861603bdaa82f3e5f1796bc
+s2t18 - Reckoner.flac:b3a613cfa97d93beaef3b93c1d2344ea
+s2t19 - Encore break.flac:4457641255ff89eef40ce8d647b2c687
+s2t20 - No Surprises.flac:060ff2388ca350414b5f6c63e8a0f0d1
+s2t21 - Burn the Witch.flac:9f0a9cce89eac8c264fedfdaaa2f4307
+s2t22 - Lotus Flower.flac:3ad5c2681ed10b5c308f3028b1dd5925
+s2t23 - Fake Plastic Trees.flac:8c5e3c2063072920d92915893087f39f
+s2t24 - The Tourist.flac:4b82a441367bfa21df57c04bce8eb909
+s2t25 - Encore break 2.flac:157868ff88e581ebf5422b7730940953
+s2t26 - You and Whose Army.flac:7f98fa536a6835a3d7f378a43628bafa
+s2t27 - Bodysnatchers.flac:59d2bc9a8b9fe0d0f4142a002bf56277
+s2t28 - Idioteque.flac:a9174b3caeadd83ba74577b3abd7d523
+

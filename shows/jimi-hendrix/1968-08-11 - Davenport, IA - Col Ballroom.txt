@@ -1,0 +1,78 @@
+The Jimi Hendrix Experience .... August 11, 1968
+Col Ballroom, Davenport, Iowa, U.S.A. (Incomplete)
+
+NOTE: This is from a tape source, not from the rare bootleg vinyl source.
+
+
+Jimi Hendrix (R.I.P.) - guitar & vocals
+Noel Redding (R.I.P.) - bass & backing vocals
+Mitch Mitchell (R.I.P.) - drums
+
+
+Taper: unknown
+Taping Gear: Unknown
+Lineage: Maxell UD trade cassette> Teac A-550RX Cassette playback> TASCAM CDRW-700> Trade CD-R> (wav) EAC (secure mode)> (flac) Trader's Little Helper level 6 (align on sector boundaries)
+Quality: g+/vg-
+Length: 45:50 minutes
+Artwork: none.
+Samples: none.
+
+
+Set List:
+
+01.  Are You Experienced?
+02.  Lover Man
+03.  Foxy Lady  
+04.  Red House 
+05.  I Don't Live Today
+06.  Fire
+
+
+Taper's Comments:
+
+1 - HELP!! If you have any uncirculated SPIRIT shows, or better quality FM
+broadcasts than what's been posted here before, please share them. If you 
+know anybody who has shows that fit this category that aren't on DIME, please
+dub off their stuff and share it. I'm trying to write a book on SPIRIT and need 
+all the information I can get. I have a database of over 1500 gigs 1967-1996, and 
+want to find as much information as I can to add to it. If you have any memories
+of where you saw SPIRIT, the more specific the better (venue, city, date, supporting
+bands, etc.), I'd love to know that as well. Please leave that in the comments
+section or PM me. Thank you!
+
+2 - Show description & comments follow:
+
+In putting this together I noted with sadness that the entire band has left us.
+What a loss.... Here's an incomplete show from Iowa, of all places. This was made
+into a rare vinyl bootleg, and is likely missing "Purple Haze" and "Wild Thing", which
+have never surfaced. While this is no sonic masterpiece, for 1968 in Iowa, it is 
+still very listenable. I suspect none of the instruments were mic'd, and as usual
+at many Jimi shows, the P.A. was inadequate. Still, most of the Hendrix folks I 
+knew thought this was the best quality version they'd heard. Anybody got one 
+better and complete? Enjoy!
+
+bpthree
+
+
+
+----------------------------------------------------------
+PLEASE KEEP THIS LOSSLESS!!!
+Support the band: Buy the officially released items, etc.
+
+Prepared by Jeff James (roryglzep@aol.com)
+****************************************************************
+ffp:
+Track01.flac:cae483c29a8f65a1816d2c57dace5ce8
+Track02.flac:694db34c34ace4909dbb01279ee0edd0
+Track03.flac:31c11862b709d7f03bb2db361273b9af
+Track04.flac:f9d8d28a33226836ee9e0997fe37fbd8
+Track05.flac:fb7d2aa23afe068b95cd53725d735e36
+Track06.flac:7095df42b151fea7c08f2fa86fd5daa0
+
+md5:
+756dab56f336d46fe34df10fefd54344 *Track01.flac
+def29c7f243d37e19be8e78c9dddb7f8 *Track02.flac
+0c35deaf8b058ee71c27cafeb03ca56a *Track03.flac
+1de628b9a91d86875d49ed5967e849ab *Track04.flac
+05f13334b7bfcb95699c18c928c6af89 *Track05.flac
+74f811f21b531d71f38149ce3ba2d789 *Track06.flac

@@ -1,0 +1,69 @@
+Uploaded for SOADSITE.PL!
+
+Band name: System Of A Down
+Date: January 20, 2002
+Location: Gold Coast Parklands, Southport, Australia
+Tour name: Big Day Out
+
+Media: 1 DVD PAL
+Version: orange and blue logo mix
+Filming type: Proshot
+Generation: Master
+Video format: PAL
+Aspect ratio: 4:3
+Total running time: 1:08:29
+Size: 4,22 GB
+
+Track listing:
+Suggestions
+Psycho
+Chop Suey!
+Bounce
+Mind
+Aerials
+Needles
+Deer Dance
+Toxicity
+Goodbye Blue Sky (Pink Floyd cover)
+Suite-Pee
+Sugar
+
+Bonus:
+Interview 1 [Shavo Odadjian]
+Interview 2 [Serj Tankian + Daron Malakian]
+War?        [Audio + picture complication]
+Jet Pilot   [Audio + video complication]
+X           [Audio + picture complication]
+
+Notes: 
+-video of 'goodbye blue sky' and interview 2 is lossy sourced
+
+Mixed by: System89 & Nomad
+Authored by: System89
+Chapters: Yes
+Menu: Yes
+Lineage: orange logo source [Skymaster] + orange logo source [cuzzin] + blue logo source + FLAC audio source + -> Sony Vegas + Audacity -> DVD Architect -> Trader's Little  Helper -> Dime
+Artwork: Maniaucygana
+
+Video
+Format                           : MPEG Video
+Bit rate mode                    : Constant
+Bit rate                         : 8 300 Kbps
+Width                            : 720 pixels
+Height                           : 576 pixels
+Display aspect ratio             : 4:3
+Frame rate                       : 25.000 fps
+Standard                         : PAL
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+
+Audio
+Format                           : PCM
+Muxing mode                      : DVD-Video
+Bit rate mode                    : Constant
+Bit rate                         : 1 536 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz

@@ -1,0 +1,35 @@
+Deftones
+06/04/07 9:30 Club: Washington, DC
+capacity: 1200 [sold out]
+
+  source: AKG MICROPHONES
+ lineage: DIGITAL MASTER > .FLAC
+encoding: cps 06/05/07
+
+setlist:
+
+ 1. Feiticiera
+ 2. My Own Summer (Shove It)
+ 3. Lotion
+ 4. Mx
+ 5. Beware of the Water
+ 6. Root
+ 7. One Weak
+ 8. Digital Bath
+ 9. Street Carp
+10. Knife Party
+11. Hole in the Earth
+12. Xerces
+13. Mein
+14. Bored
+15. Minus Blindfold
+16. RX Queen
+17. Bloody Cape
+18. Minerva
+
+encore:
+
+19. Back to School (Mini Maggit)
+20. Passenger
+21. Change (In the House of Flies)
+22. Head Up

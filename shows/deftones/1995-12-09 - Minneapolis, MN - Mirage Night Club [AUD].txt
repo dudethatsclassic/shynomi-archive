@@ -1,0 +1,35 @@
+Deftones
+Mirage Club
+Minneapolis, MN
+December 9, 1995
+
+Source: Sonic Studios > Sony TCD-D100
+Transfer: Unknown
+
+************************************
+Do Not Sell Copies Of This Recording
+************************************
+
+**********************************************************
+Do Not Encode This Recording To MP3 Or Other Lossy Formats
+**********************************************************
+
+Setlist: [34:28]
+1. Root [4:29]
+2. Nosebleed [4:11]
+3. Lifter [5:10]
+4. 7 Words [3:47]
+5. Bored [4:58]
+6. Teething [4:01]
+7. Minus Blindfold [3:41]
+8. Engine #9 [4:07]
+
+Notes:
+ - I got this in audio cdr and encoded to FLAC
+ - FLAC Compression: CDR > Plextor CD-RW PX-W5224A > Audio Extraction through EAC 0.95pb5 (secure mode) > .WAV > flac frontend 1.1.2 level=6
+ - Burned with Nero 6.3.0.0 on a Plextor CD-RW PX-W5224A 
+
+
+
+Done by Jorge Costa
+http://db.etree.org/Jorge.Costa

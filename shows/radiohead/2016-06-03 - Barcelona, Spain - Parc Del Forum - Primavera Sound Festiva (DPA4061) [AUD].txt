@@ -1,0 +1,55 @@
+---------------------------------------------------------------------------
+Artist: Radiohead
+Date: 2016-06-03
+Location: Primavera Sound Festival
+Parc Del Fòrum
+Barcelona
+Spain
+---------------------------------------------------------------------------
+Recorded by: Antoine V.
+http://db.etree.org/avtaper
+Mastered by: BLG
+---------------------------------------------------------------------------
+Generation: Aud>DPA 4061>DPA MMA 6000>Roland R-05
+---------------------------------------------------------------------------
+Lineage: Aud
+>DPA 4061
+>DPA MMA 6000
+>Roland R-05
+>.Wav(24bits/48kHz)
+>Adobe Audition
+>iZotope Ozone 5
+>MBIT+
+>WavePad
+>xACT
+>Amadeus Pro 2.1.5
+>FLAC(16bits/44.1kHz)
+---------------------------------------------------------------------------
+Notes:
+---------------------------------------------------------------------------
+Setlist: t01: Burn The Witch
+t02: Daydreaming
+t03: Decks Dark
+t04: Desert Island Disk
+t05: Ful Stop
+t06: The National Anthem
+t07: Talk Show Host
+t08: Lotus Flower
+t09: No Surprises
+t10: Pyramid Song
+t11: The Numbers
+t12: Karma Police
+t13: Weird Fishes/Arpeggi
+t14: Everything In Its Right Place
+t15: Idioteque
+t16: Bodysnatchers
+t17: Street Spirit (Fade Out)
+—-
+t18: Bloom
+t19: Paranoid Android
+t20: Nude
+t21: 2+2=5
+t22: There There
+—-
+t23: Creep
+---------------------------------------------------------------------------

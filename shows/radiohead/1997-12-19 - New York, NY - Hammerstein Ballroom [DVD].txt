@@ -1,0 +1,53 @@
+Radiohead
+Live To The Nation (not the tenspot) 
+19th december 1997
+hammerstein ballroom
+new york city, new york
+
+VIDEO:
+fancam, tripod @ front row balcony, source unknown
+vhs2 (firewire)>dv>avi (dv codec)
+
+Proshot
+original (gen 0) Promo VHS firewire)>dv>avi (dv codec)
+
+AUDIO:
+[marcsounds>sony tcd-d8>dat1>wav] +
+[sbd>pro-shot video>cdr>wav]>flac
+transfer: dat1 > tascam da-20 > monster coax > dio 2496 > cep 2.1
+mix and edit by blg
+flac>wav(44.1)>48 khz lpcm
+
+Render:
+2 pass VBR 5.25 mbps (8.00 mbps max), 192kbps AC-3
+
+post recording transfer, editing, assembly and rendering vegas video 5.0 & dvd architect 2.0
+there's a menu for the tracklist, but you'll have to pull it manually
+
+01 intro
+02 fitter, happier
+03 airbag
+04 karma police
+05 the bends
+06 exit music
+07 talk show host
+08 subterranean homesick alien
+09 my iron lung
+10 climbing up the walls
+11 lucky
+12 planet telex
+13 bulletproof
+14 no surprises
+15 bones
+16 just
+17 paranoid android
+18 fake plastic trees
+19 let down
+20 street spirit (fade out)
+21 electioneering (missing)
+22 nice dream (missing)
+23 the tourist (missing)
+
+
+this makes a complete, uncut (except at the encores), uninterrupted video of the quite legendary 
+tenspot show.  liberties taken with proshot and blended with the fan-cam.  you decide...

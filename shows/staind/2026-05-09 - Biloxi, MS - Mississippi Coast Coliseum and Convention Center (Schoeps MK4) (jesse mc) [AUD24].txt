@@ -1,0 +1,31 @@
+Staind
+2026-05-09
+CPR Fest
+Mississippi Coast Coliseum and Convention Center
+Biloxi, MS
+
+Source: Schoeps MK4(ortf) > NBOB > BABYNBOX > Sony PCM-A10(24/48)
+Location: fob/dfc/40' from stage
+Transfer: Sony PCM-A10 > ThinkPad > Sound Forge Pro 16(Graphic EQ-Boost high frequencies +7kHz by 6dB/Fade) > CD Wave > TLH(Level 8)
+Taped by Jesse Mc
+
+***24-Bit, not for CD***
+
+[0]
+
+01. Intro
+02. Mudshovel
+03. Fade
+04. Right Here
+05. Lowest In Me
+06. Eyes Wide Open
+07. Something To Remind You
+08. Epiphany
+09. Wannabe
+10. So Far Away
+11. Outside
+12. For You
+
+[E]
+
+13. It's Been Awhile

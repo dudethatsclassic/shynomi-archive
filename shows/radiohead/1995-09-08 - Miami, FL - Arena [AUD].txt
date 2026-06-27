@@ -1,0 +1,45 @@
+Radiohead
+Arena
+Miami,FL
+1995-09-08
+
+
+MASTER->NAD 6325->NAD 7125 amp->Sony RCD-W500C(SBM)->TLH->Flac 8
+
+
+
+TAPER: Chuck Dagen AKA Floridian
+RECORDER: Sony WMD3
+MICS: Sony bullet
+LOCATION: lower level S / Section: 104 Row: U Seat: 19
+MASTER TAPE: Panasonic Cool Colors (green) normal bias.  
+
+
+
+T's notes--------------------------------------------------------------------------------------
+
+Radiohead 1995-09-08 Arena Miami FL (Floridian) (T-fix)
+
+The raw source recording for this release is from the quy who recorded it, Chuck Dagen (Floridian).  He asked me to work on it and fix any problems that I found.  He provided it to me as 2 flac files.
+
+flac > 16 bit, 44.1 kHz WAV >
+Audacity > CD Wave Editor 16 bit 44.1 kHz > FLAC
+
+I converted to wav, equalized, balanced, and optimized the volume of the recording.  I removed a few gaps.  Then I split the recording into song tracks.   I did the editing, mastering (tweaking) for this version of this release.
+Screen caps of Audacity before (raw) and after (final) are included.
+  
+
+   
+June 27,  2012                     T________
+
+set list:
+
+1. My Iron Lung (partial)
+2. Bones
+3. Just
+4. [nice dream]
+5. Creep
+6. Planet Telex
+7. Street Spirit
+8. High And Dry
+9. Fake Plastic Trees

@@ -1,0 +1,50 @@
+NIRVANA
+January 23rd, 1988
+Reciprocal Recording, 
+Seattle, WA
+
+DISC #1/#1 (31:37)
+-------------
+01) If You Must
+02) Downer
+03) Floyd the Barber
+04) Paper Cuts
+05) Spank Thru
+06) Hairspray Queen
+07) Aero Zeppelin
+08) Beeswax
+09) Mexican Seafood
+10) Pen Cap Chew
+
+SOURCE (SBD #2e)
+--------------
+soundboard > unknown
+
+GENERATION
+--------------
+ANA(x) > DAT(1) > CDR(2) > WAV [44.1kHz] > FLAC [Level 8]
+
+TRANSFER
+--------------
+unknown
+
+NOTES
+--------------
+- The lowest quality, but most complete source for this session.
+- Includes between-song banter not found on other sources.
+
+MD5 FINGERPRINTS
+--------------
+e016abc47a48a9bad77ad4cb77c68c42 *Nirvana_1988-01-23_SBD2e_t01.flac
+9c7ec1905125d1d9ed028a5851988607 *Nirvana_1988-01-23_SBD2e_t02.flac
+1fa593e2e491b53c59af0409b6e68a4d *Nirvana_1988-01-23_SBD2e_t03.flac
+a2f3de0ab5a577a927acf349e7b8ec6e *Nirvana_1988-01-23_SBD2e_t04.flac
+595d10880e03b2f982d0fd4f25267b7f *Nirvana_1988-01-23_SBD2e_t05.flac
+9dd274e073486f9bf00c25b203cded81 *Nirvana_1988-01-23_SBD2e_t06.flac
+8a499d3669888c8f3ee0ada608620c7f *Nirvana_1988-01-23_SBD2e_t07.flac
+6f2ba5985e8454948eed2ff5fca3f6f5 *Nirvana_1988-01-23_SBD2e_t08.flac
+72ea8a4dbf6ab228eb244204a281add2 *Nirvana_1988-01-23_SBD2e_t09.flac
+c955563950ceb6426f2d34e32640100c *Nirvana_1988-01-23_SBD2e_t10.flac
+
+Transferred by unknown.
+Please do not encode to lossy formats and/or sell.

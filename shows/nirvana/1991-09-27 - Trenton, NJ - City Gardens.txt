@@ -1,0 +1,56 @@
+NIRVANA
+September 27, 1991
+City Gardens
+Trenton, NJ
+
+DISC #1/1 (50:30)
+-----------------
+01) Jesus Wants Me For A Sunbeam (cut)
+02) Aneurysm
+03) D-7
+04) Drain You
+05) School
+06) Floyd The Barber
+07) Sliver
+08) Smells Like Teen Spirit
+09) Polly
+10) About A Girl
+11) Blew
+12) Been A Son
+13) Something In The Way
+14) Negative Creep
+15) Endless, Nameless
+
+GENERATION
+-----------------
+8MM(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Sony DCR-TRV460 -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+5625fd6ee35ac4c5fdc30ee71ccb09da *nirvana1991-09-27t01.flac
+ef3a6bfe06709f45834420983c2f85c2 *nirvana1991-09-27t02.flac
+2456acaa64cd5efb9d0243742fa1ab34 *nirvana1991-09-27t03.flac
+90bd2a63b75a73ddbc041c50b3f8400a *nirvana1991-09-27t04.flac
+5c6b341ad2785ff6e586ae6a4922efbb *nirvana1991-09-27t05.flac
+ed8d1ca7979013a36b4552837d42ba17 *nirvana1991-09-27t06.flac
+f9e7e5d36d09a1e7316b95bea82c32ac *nirvana1991-09-27t07.flac
+ff134216c5382e897403518a9e00ada5 *nirvana1991-09-27t08.flac
+7c139a18b578e40eef168cb21b0020b5 *nirvana1991-09-27t09.flac
+2e05c81c67f32a86155489268b32313f *nirvana1991-09-27t10.flac
+25c7beaa7742206fb832ecca23df3d1c *nirvana1991-09-27t11.flac
+a520aad0f9e65485c678ae01ac8bed75 *nirvana1991-09-27t12.flac
+b2ba1e5b99af91e0ee166528d93ce53c *nirvana1991-09-27t13.flac
+39c811b7106a45fd456f9a66871049bf *nirvana1991-09-27t14.flac
+7ded4913326b3d45d852f167b6dcaafd *nirvana1991-09-27t15.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

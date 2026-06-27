@@ -1,0 +1,86 @@
+Radiohead
+2008.08.12
+August 12th, 2008
+Camden, NJ, USA
+Susquehanna Bank Center
+
+
+Taper:		Joe Cooper (jdcooper@bucknell.edu) (db.etree.org/thierryhenry/)
+Location:		FOB, Section 104, Row W, Seat 17. Less Than 50' Feet From Left Stack. Mics Mounted In Hat, AB.
+Source:		SP-CMC-8 (AT933's) > SP-SPSB-6 (Bass Roll Off @ 95Hz) > IRiver IHP-120 (Rockbox, 44.1 Khz)
+Transfer:		Iriver IHP-120 > USB Cable > PC (USB IN) > Sony Vegas 8.0 (Volume Increase, Normalize) > CD Wave (44.1 Khz, 16 Bit, Stereo) (Track Splits) > WAV > FLAC Frontend 8 > FLAC (Level 8) > Md5Summer
+Filesize:		1.21 GB WAV, 741 MB FLAC
+
+<><><><><><><><><><><><><><><><>
+--------------------------------------------
+Please Do Not Convert To Mp3.
+Please Do Not Sell.
+Please Attach This File When Distributing.
+--------------------------------------------
+<><><><><><><><><><><><><><><><>
+
+Setlist:
+
+01:	15 Step				-		05.28.70
+02:	There There			-		05.51.07
+03:	Morning Bell			-		04.22.36
+04:	All I Need				-		04.15.05
+05:	The National Anthem		-		05.06.10
+06:	Videotape				-		05.01.26
+07:	Weird Fishes/Arpeggi		-		05.27.60
+08:	The Gloaming			-		03.40.19
+09:	Where I End And You Begin		-		04.20.58
+10:	Faust Arp				-		02.37.66
+11:	No Surprises			-		04.21.70
+12:	Jigsaw Falling Into Place		-		04.26.32
+13:	The Bends			-		04.12.63
+14:	Idioteque				-		04.02.08
+15:	Climbing Up The Walls		-		04.39.66
+16:	Nude				-		04.40.68
+17:	Bodysnatchers			-		04.09.27
+18:	Encore				-		03.11.40
+19:	House Of Cards			-		05.47.62
+20:	Lucky				-		05.21.74
+21:	Go Slowly				-		04.09.40
+22:	Just				-		03.56.56
+23:	Street Spirit (Fade Out)		-		04.24.23
+24:	Encore				-		02.37.19
+25:	Reckoner				-		05.32.41
+26:	Planet Telex			-		05.31.66
+27:	Everything In Its Right Place %		-		06.22.51			
+
+Total:					-		134.41.38	
+
+Show Notes:
+
+% = R.E.M. "One I Love" Covered
+Special Thanks To MarqueeMoon For Hooking Me Up
+With Tickets.
+
+rh2008-08-12d1t01.flac:54bb14014154552388e60ac0bc0adeea
+rh2008-08-12d1t02.flac:33931928e5f2548f8097d9a61368e7bb
+rh2008-08-12d1t03.flac:5adc2af05e244ffe7c8b6ed899b5fd78
+rh2008-08-12d1t04.flac:91b0073cf9f890b36f759ae75467aa50
+rh2008-08-12d1t05.flac:ee3b559238de52a054a29e9a9cd65f25
+rh2008-08-12d1t06.flac:8933596208679ebae2eb70f193af193f
+rh2008-08-12d1t07.flac:4a1eb37875c0d2e0cf0e1bd8470ba6b4
+rh2008-08-12d1t08.flac:7ded50dee492013f10622d64d0b059a8
+rh2008-08-12d1t09.flac:726c4e2bb87484e228cf1dd2c5d9d686
+rh2008-08-12d1t10.flac:5c722f1c98eed210568091466bfd380a
+rh2008-08-12d1t11.flac:12579763d6b56987a44afd085c98d19d
+rh2008-08-12d1t12.flac:f6a728b5062c130ffa9568387656bdbe
+rh2008-08-12d1t13.flac:8fa1a718425434d1c7828f3364710662
+rh2008-08-12d1t14.flac:05e56b7cf24726d4e25c353009a047bd
+rh2008-08-12d1t15.flac:4b922cd6043c95e6915281aeab55aa40
+rh2008-08-12d1t16.flac:9d57222f02ec4cac55b46632b5854188
+rh2008-08-12d1t17.flac:acb340f4279cd1be7c52c869506df9cf
+rh2008-08-12d1t18.flac:495318f51e3319c0361e393e01aa406d
+rh2008-08-12d1t19.flac:c2aeb4a906fecaad4d4c9255db3005f4
+rh2008-08-12d1t20.flac:1d2098a7d3db58b08e9e99ef8f00be06
+rh2008-08-12d1t21.flac:84b6f52dbcd055bc0ab203badecbbb25
+rh2008-08-12d1t22.flac:a81aab34a18bdc840996fbdf7566cb35
+rh2008-08-12d1t23.flac:aeaa9def2c50e9ec5930fb19690f00de
+rh2008-08-12d1t24.flac:e76138e931e7f139b4e43db4dc3ff3e5
+rh2008-08-12d1t25.flac:4aac4a0171fa25697df4abee2d2ca5c0
+rh2008-08-12d1t26.flac:d596321650c6b045e94848b0bf7621f5
+rh2008-08-12d1t27.flac:81b4c20b157e44c929fc3934375e370f

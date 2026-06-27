@@ -1,0 +1,47 @@
+Deftones
+Monday, November 24th, 2003
+Memorial Auditorium
+Burlington VT USA
+
+Source:
+Radio Shack 33-3013 mics > MZ-R55 (mic in, manual gain control)
+
+Transfer:
+MZ-RH1 > USB > PC > WAV
+
+Editing:
+Audacity 1.2.6 (amplification)
+CD Wave 1.96.1 (track splits)
+Winamp (EQ, volume boost w/ Enhancer, write new WAV files)
+
+Flaws:
+end of the show is cut, light static sound in some spots
+
+*******PLEASE DO NOT SHARE AS MP3S OR LOSSY FILES*******
+
+
+Setlist/Tracklist:
+01. [introduction]
+02. Minerva
+03. Hexagram
+04. Be Quiet and Drive
+05. My Own Summer (Shove It)
+06. Bored
+07. Minus Blindfold
+08. Mascara
+09. Around the Fur
+10. Digital Bath
+11. Korea
+12. Birthmark
+13. Battle-Axe
+14. Like Glue (Sean Paul tease)
+15. Bloody Cape
+16. [encore break]
+17. Change [cut]
+XX. 7 Words [cut]
+    -->El Scorcho [Weezer tease]
+    -->Say It Ain't So [Weezer tease]
+
+Total Playing Time: 74m52s
+
+The recording is dedicated to James Anthony Smedley (1981-2005).

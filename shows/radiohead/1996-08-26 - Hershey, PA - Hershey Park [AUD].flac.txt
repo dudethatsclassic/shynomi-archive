@@ -1,0 +1,33 @@
+Radiohead
+08-26-1996
+Hershey Park
+Hershey, PA
+
+Opening for Alanis Morissette
+
+Source: Unknown mic->unknown DAT->M1->egosys 2496->soundforge 5.0->cdwav->shn
+
+Mastered by Rich Steele (Phase correction > parametric EQ > multiband compression)
+
+(SHN > WAV > Mastered in Wavelab > WAV > FLAC)
+
+
+01 Intro
+02 The Bends
+03 Climbing Up The Walls 
+04 No Surprises 
+05 High and Dry
+06 I Promise
+07 Creep
+08 Electioneering 
+09 Paranoid Android 
+10 banter
+11 Fake Plastic Trees
+12 Lift
+13 Just
+14 Street Spirit
+
+
+Mastering notes: there were channel dropouts/digi noise during the Intro track, Climbing Up The Walls(at 2:21) and Creep 
+                 (at 3:25) and those tracks had to be remixed to mono to fill in the L/R. I tried to correct the phasing issues
+                 best I could but the taper was moving around too much to make it as consistent as I'd like. 

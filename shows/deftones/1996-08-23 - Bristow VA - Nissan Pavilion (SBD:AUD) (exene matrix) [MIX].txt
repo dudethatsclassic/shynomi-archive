@@ -1,0 +1,44 @@
+Deftones
+1996-08-23
+Nissan Pavillion
+Bristow, VA
+
+*sbd/aud matrix by exene*
+
+contrast clause:
+here is the sbd source used in this matrix
+http://www.dimeadozen.org/torrents-details.php?id=644680
+
+setlist:
+01. Root
+02. Nosebleed
+03. Bored
+04. 7 Words
+05. One Week
+06. Teething
+07. Minus Blindfold
+08. Engine #9
+
+total time: 35min
+
+matrix notes:
+This one took some speed correction
+on the audience source.  
+Soundboard source starts near
+end of Nosebleed, I tried to 
+make the transition seamless
+as possible. Great show,
+part of the infamous 1996
+War of the Gargantuans tour.
+
+aud source:
+Unknown audience > analog cassette (?) > Technics cassette deck > 
+RCA stand-alone CD recorder > WAV (EAC) > flac (8)
+Transfered by def-head
+
+sbd source:
+PROMO VHS (M) > 4-head Philips VCR > TCD-D8 > DAT master at 44.1 khz > 7 pin-to-coax > .wav > Soundforge (volume, tracking, fades) > TLH > FLAC 8
+Nice show, opening for White Zombie and Pantera.
+Missing everything before "nosebleed" (Root+1st part of "nosebleed")
+complete transfer.(28 minutes)
+

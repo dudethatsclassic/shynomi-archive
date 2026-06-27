@@ -1,0 +1,108 @@
+Radiohead
+Rock Werchter
+Main Stage
+Werchterpark
+Werchter, Belgium
+June 30, 2017
+
+Lineage: Webcast -> downloaded .ts segments (batch script) -> TSSplitter (join) -> mkvmerge GUI -> .mkv
+Video: MPEG4 Video (H264) 1920x1080 16:9 5050 Kbps 25.00 fps
+Audio: AAC 128 Kbps 48.0 KHz stereo 
+
+Setlist:
+Daydreaming
+Lucky
+Ful Stop
+Air Bag
+15 Step
+Myxomatosis
+All I Need
+Pyramid Song
+Everything in Its Right Place
+Let Down
+Bloom
+Identikit
+Weird Fishes/Arpeggi
+Idioteque
+You and Whose Army?
+Bodysnatchers
+2 + 2 = 5
+
+Encore 1:
+No Surprises
+Nude
+Climbing Up the Walls
+Paranoid Android
+Reckoner
+
+Encore 2:
+My Iron Lung
+Karma Police
+
+TRT = 02:08:23
+
+Note: This is a perfect capture of the webcast. Any imperfections, if present, were inherent in the broadcast.
+
+Captured and uploaded to DIME by indykid. 
+
+MediaInfo:
+General
+Unique ID                   : 186783996400352651497593011913779888484 (0x8C854A07B2EA38F6AEC134A58E70C164)
+Complete name               : Radiohead - 2017-06-30 Rock Werchter [1080p].mkv
+Format                      : Matroska
+Format version              : Version 4 / Version 2
+File size                   : 4.67 GiB
+Duration                    : 2 h 8 min
+Overall bit rate            : 5 207 kb/s
+Encoded date                : UTC 2017-08-11 17:02:00
+Writing application         : mkvmerge v8.2.0 ('World of Adventure') 64bit
+Writing library             : libebml v1.3.1 + libmatroska v1.4.2
+
+Video
+ID                          : 1
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4
+Format settings, CABAC      : Yes
+Format settings, ReFrames   : 4 frames
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 2 h 8 min
+Bit rate                    : 5 076 kb/s
+Width                       : 1 920 pixels
+Height                      : 1 080 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 25.000 FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.098
+Stream size                 : 4.55 GiB (97%)
+Writing library             : x264 core 150 r10 df79067
+Encoding settings           : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=34 / lookahead_threads=5 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / stitchable=1 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=infinite / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=5 / qpmax=69 / qpstep=4 / vbv_maxrate=5500 / vbv_bufsize=15000 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                     : Yes
+Forced                      : No
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+
+Audio
+ID                          : 2
+Format                      : AAC
+Format/Info                 : Advanced Audio Codec
+Format profile              : LC
+Codec ID                    : A_AAC
+Duration                    : 2 h 8 min
+Bit rate                    : 128 kb/s
+Channel(s)                  : 1 channel
+Channel positions           : Front: C
+Sampling rate               : 48.0 kHz
+Frame rate                  : 46.875 FPS (1024 spf)
+Compression mode            : Lossy
+Stream size                 : 118 MiB (2%)
+Default                     : Yes
+Forced                      : No
+
+Captured and uploaded to DIME by indykid

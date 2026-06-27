@@ -1,0 +1,44 @@
+Radiohead
+2016-08-04
+Shrine Auditorium
+Los Angeles, CA, USA
+
+-- Source --
+DPA 4060 > MPS6010 > Tascam DR-40 (@24bit/48kHz)
+
+-- Processing --
+WAV > Adobe Audition (mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - Burn the Witch
+02 - Daydreaming
+03 - Decks Dark
+04 - Desert Island Disk
+05 - Ful Stop
+06 - The National Anthem > Hunting Bears
+07 - Lotus Flower
+08 - Separator
+09 - No Surprises
+10 - True Love Waits
+11 - Bloom
+12 - Identikit
+13 - The Numbers
+14 - The Gloaming
+15 - Weird Fishes/Arpeggi
+16 - Idioteque
+17 - Climbing Up the Walls
+     encore 1
+18 - Let Down
+19 - Present Tense
+20 - Nude
+21 - Myxomatosis
+22 - There There
+     encore 2
+23 - Everything in Its Right Place
+24 - Street Spirit (Fade Out)
+
+-- Notes --
+Length: 2h13m45s
+
+faninor
+2016-08-19

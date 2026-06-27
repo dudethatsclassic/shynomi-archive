@@ -1,0 +1,40 @@
+Pantera
+CFG Bank Arena
+Baltimore, MD
+February 24th, 2024.
+
+*16 Bit Fileset*
+
+Setlist: 
+
+(1:25:55)
+
+01. A New Level
+02. Mouth For War
+03. Strength Beyond Strength
+04. Becoming
+05. I'm Broken
+06. Suicide Note Pt. II
+07. 5 Minutes Alone
+08. This Love
+09. Floods
+10. Walk
+11. Domination / Hollow
+12. Cowboys From Hell
+13. Encore
+14. Fucking Hostile
+15. Goodnight
+
+Recorded by: Joe Burns
+Processed by: Charles Dewey Cole, IV
+
+Source: Schoeps MK41's > Actives > BabyNBox > Roland r07 > 24/48
+Location: Section 123 row C seat 4
+
+Lineage: SD Card > Audition (Amplified) > CDWAV (Tracking) > FLAC
+
+Notes:
+
+Thanks to Joe for providing the raw 24bit wave file! It was fairly left channel
+heavy, so I balanced it out before normalizing, tracking and eventually converting
+to FLAC. 24>16 bit downsampling in Adobe Audition 3.0.

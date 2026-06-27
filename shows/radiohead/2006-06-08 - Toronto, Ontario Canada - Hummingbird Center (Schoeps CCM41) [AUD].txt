@@ -1,0 +1,63 @@
+Radiohead
+June 8th, 2006
+Hummingbird Centre for the Performing Arts
+Toronto, Ontario
+Canada
+
+Taper:       Fares Halteh
+Source:      Schoeps CCM41 > SD-722
+Location:    Center stage 20 ft back, FOB
+Conversion:  SD-722 > firewire > HD
+Resampling:  96k/24bit software downsampled in Sound Forge 8.0 44.1k/16bit 
+	(4/4 interpolation accuracy with anti-alias filter)
+Editor:      Fares Halteh
+Editing:     cd wave editor
+FLAC:        master WAVs > Sound Forge 8.0 > cd wave editor
+
+
+**********************************************************************
+	                      share the music!
+**********************************************************************
+
+
+Disc 1                                                        Length
+----------------------------------------------------------   --------
+
+01 - -intro-                                                   01:35
+02 The Gloaming                                                04:13
+03 Bangers 'n Mash                                             03:31
+04 15 Step                                                     04:15
+05 2+2=5                                                       03:45
+06 Kid A                                                       03:57
+07 Fake Plastic Trees                                          05:27
+08 Videotape                                                   04:59
+09 Arpeggi                                                     04:10
+10 Idioteque                                                   04:32
+11 Climbing Up The Walls                                       05:00
+12 Down Is The New Up                                          05:56
+13 Karma Police                                                04:45
+14 Nude                                                        04:18
+15 House of Cards                                              05:51
+16 Myxomatosis                                                 03:52
+17 Spooks                                                      01:42
+18 Paranoid Android                                            06:18
+
+78:06
+
+
+Disc 2                                                        Length
+----------------------------------------------------------   --------
+--encore 1--
+01 You And Whose Army?                                         04:18
+02 Bodysnatchers                                               04:36
+03 Just                                                        04:26
+04 Let Down                                                    05:10
+
+--encore 2
+05 There There                                                 06:38
+
+25:08
+
+
+Fares Halteh <Halteh3 AT Rogers DOT com>
+- Compiled by Fares Halteh, 2006.06.09

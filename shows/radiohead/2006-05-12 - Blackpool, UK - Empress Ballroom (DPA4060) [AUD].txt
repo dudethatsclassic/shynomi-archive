@@ -1,0 +1,67 @@
+Taper's wishes:  do not post this recording either in part or in whole, in 
+lossless or mp3 form to the interenet via any means aside from the hub(s).
+
+Do not bite the hand that feeds you! 
+
+Radiohead
+Empress Ballroom
+Blackpool, UK
+May 12, 2006
+
+Taper: stephen@damohub.org
+Lineage: DPA4060 > MPS6030 > JB3 line in (gain +6dB) > WAV (44.1kHz)
+Location: DFC, 10' FOB, mics clipped to arms of my glasses (~ 5'6")
+Transfer: USB > WAV > shntool 2.0.3 (linux; track splitting) > WAV >
+sox 12.17.9 (linux; fade in/out) > WAV > flac 1.1.2 (linux:
+"flac -V -8 *.wav")
+
+----------------------------------------------------------------------
+
+Please do not distribute via bittorrent or usenet.
+
+Please do not convert into mp3 or other lossy formats.
+
+Please do not sell this recording.
+
+Please do pass along the source info (this file) if you trade this
+show.
+
+----------------------------------------------------------------------
+
+Dedicated to Phil Selway.
+
+To seamlessly join the two discs, remove D1T14 and D2T01.
+
+
+Disc 1:
+01  intro                              0:34
+02  The national anthem                5:00
+03  2+2=5                              3:49
+04  Bangers n mash                     3:37
+05  Lucky                              4:26
+06  Airbag                             5:02
+07  Bodysnatchers                      5:15
+08  15 step                            4:22
+09  Exit music                         5:09
+10  Paranoid android                   6:57
+11  Nude                               4:45
+12  Arpeggi                            4:39
+13  My iron lung                       5:17
+14  fade out                           0:10
+                              [Total: 59:05]
+
+Disc 2:
+01  fade in                            0:10
+02  Where I end and you begin          4:03
+03  Climbing up the walls              4:57
+04  How to disappear completely >      6:04
+05  Idioteque                          4:26
+06  There there                        8:27
+Encore 1:
+07  Planet telex                       4:25
+08  House of cards                     6:05
+09  Black star                         4:22
+10  Everything in its right place      9:09
+Encore 2:
+11  The tourist                        5:36
+                              [Total: 57:44]

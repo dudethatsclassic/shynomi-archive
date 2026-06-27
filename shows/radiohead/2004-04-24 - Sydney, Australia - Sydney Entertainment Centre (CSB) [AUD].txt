@@ -1,0 +1,64 @@
+Radiohead
+Saturday 24th April 2004
+Sydney Entertainment Centre
+Sydney, Australia
+
+Source: Core sound binaural > Bass roll-off filter > MD
+Lineage: MD > Cool Edit Pro > WAV > CD-R (1) > EAC (Secure) > Flac
+Taper: Zac Dadic (zac_of_all_trades@hotmail.com)
+
+Disc One
+01 - 2+2=5				[04.36]
+02 - Myxomatosis			[04.12]
+03 - Where I End And You Begin		[04.22]
+04 - Lucky				[04.27]
+05 - Sit Down. Stand Up			[04.30]
+06 - Just				[04.16]
+07 - Sail To The Moon			[04.12]
+08 - I Might Be Wrong			[04.51]
+09 - Go To Sleep			[04.12]
+10 - Like Spinning Plates		[03.22]
+11 - Exit Music (For A Film)		[04.52]
+12 - Talk Show Host			[04.53]
+13 - The National Anthem		[05.09]
+
+Disc Two
+01 - Fake Plastic Trees			[05.19]
+02 - Paranoid Android			[06.28]
+03 - Idioteque				[04.12]
+04 - There There			[09.15]
+Encore 1:
+05 - We Suck Young Blood		[05.12]
+06 - (Nice Dream)			[04.03]
+07 - My Iron Lung			[05.48]
+08 - No Surprises			[07.36]
+Encore 2:
+09 - You and Whose Army			[04.22]
+10 - Everything In It's Right Place	[08.59]
+
+Notes: Some switches from stereo to mon due to a dodgy lead.
+
+Fingerprints:
+rh2004-04-24d2t10.flac:3638c2fef5cecfc103fbb2915dff2239
+rh2004-04-24d1t01.flac:c1146e9f63aaeb33ec28ab72408da123
+rh2004-04-24d1t02.flac:1a90487988775edad272182865148be0
+rh2004-04-24d1t03.flac:425d5524acceb1f91197d4abfc4a4717
+rh2004-04-24d1t04.flac:81b384207c123eca6df25b48407067e7
+rh2004-04-24d1t05.flac:bec433a8ace941b5a03d3ff21906f689
+rh2004-04-24d1t06.flac:c1c8f7dc85dd166c9b60c0aaad1330c3
+rh2004-04-24d1t07.flac:319046859d71913f8ea5933b66b2a66e
+rh2004-04-24d1t08.flac:2354c83851f1cf02a7592bba1a3fac21
+rh2004-04-24d1t09.flac:a70dd91fec530c67721dcb0bda90fcb2
+rh2004-04-24d1t10.flac:c4a87ae2038ceae99a54d1dd5ccff900
+rh2004-04-24d1t11.flac:9a6cc7f7495172cda1195d553c3be01f
+rh2004-04-24d1t12.flac:447f5da7047ecf3bb38df239c3c332e3
+rh2004-04-24d1t13.flac:36099a27f15c0dc92985fff4d45e14fc
+rh2004-04-24d2t01.flac:94dc0bd6b2e119d17544161b7246410f
+rh2004-04-24d2t02.flac:eb98baa9b2d639471b54dde10bc67563
+rh2004-04-24d2t03.flac:7f9a071e17086f22dbf300b527248fdd
+rh2004-04-24d2t04.flac:3e8d54af390388b7acedd0f9a9934863
+rh2004-04-24d2t05.flac:d006fddbe46594d175672768ecfcd6c3
+rh2004-04-24d2t06.flac:affa3770e6fe811c9c95ac77f5c3a4d5
+rh2004-04-24d2t07.flac:3a7098b6474f5f391abefc714592e11f
+rh2004-04-24d2t08.flac:a60c115d89345c24540f16d17c5e4a59
+rh2004-04-24d2t09.flac:76be1db4f2663b2bf51a2e3275c94b3f

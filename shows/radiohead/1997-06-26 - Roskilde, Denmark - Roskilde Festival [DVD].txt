@@ -1,0 +1,27 @@
+Radiohead - Roskilde Festival 1997.06.26 (Master Upgrade)
+
+Format:
+PAL,  720x576 (4:3) Video Bitrate 8000 kb/s (Variable)
+PCM Stereo 16bits 48.0 kHz
+Length - 66 mins (Approx)
+
+ Tracklist:
+01 - Fitter, Happier intro
+02 - Lucky 
+03 - My Iron Lung
+04 - Airbag
+05 - Planet Telex
+06 - Exit Music
+07 - The Bends
+08 - Creep
+09 - Climbing Up The Walls
+10 - No Suprises
+11 - Just
+12 - Talk Show Host
+13 - Fake Plastic Trees
+14 - Paranoid Android
+15 - Street Spirit (Fade Out)
+
+Source:
+Master Video 8 Tape (Filmed By Rolling Rockvideos) - Sony  EV S9000E - AVT 8710 (TBC) - Blackmagic Design Intensity Pro - Soundblaster Z
+ - VirtualDub (UT Lossless Codec) - TMPGEnc Authoring Works 5 (Top Menu and Chapter Menu With Correct Chapter Points)

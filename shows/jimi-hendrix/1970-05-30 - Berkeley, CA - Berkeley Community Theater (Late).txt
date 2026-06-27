@@ -1,0 +1,45 @@
+Jimi Hendrix
+05-30-1970
+Berkeley Community Theater
+Berkeley, CA
+Late Show
+
+Band:
+Jimi Hendrix: guitar, vocals
+Billy Cox: bass
+Mitch Mitchell: drums
+
+lineage: SBD > reel to reel > ? >CD-r > EAC > wave > FLAC (level 8)
+
+
+Track Listing:
+
+01 - Intro
+02 - Pass It On
+03 - Hey Baby
+04 - Lover Man
+05 - Stone Free
+06 - Hey Joe
+07 - I Don't Live Today
+08 - Machine Gun
+09 - Foxy Lady
+10 - Star Spangled Banner
+11 - Purple Haze
+12 - Voodoo Child (Slight Return)
+
+
+Fingerprint:
+
+
+01 - Intro.flac:478817d40af70e80fc94d127e3e3701f
+02 - Pass It On (AKA Straight Ahead).flac:bad8851403e6ae548c45c54ba6a3d4c5
+03 - Hey Baby (Land Of The New Rising Sun).flac:fd8e672f831a920d823acbd98a932680
+04 - Lover Man.flac:7ca71be6dec0673a9aa38e8e929d0120
+05 - Stone Free.flac:7793af57e9e5eaa4af54f9656205dd08
+06 - Hey Joe.flac:8018ee7234df0f7eaa3ff65f0f11c589
+07 - I Don't Live Today.flac:a7680be3d4acf2eafda0db46c6334e5c
+08 - Machine Gun.flac:aa860bc043caad259ddcf2ea2a021673
+09 - Foxy Lady.flac:3632f57eec4cb8a162bf536c25482212
+10 - Star Spangled Banner.flac:1eb3ba92af6addf78cb47b53e2924c6c
+11 - Purple Haze.flac:c05ea6f1533b10d1c6f7069e33bd2dce
+12 - Voodoo Child (Slight Return).flac:2609a85ffa6598251dcc61ab5614dd6e

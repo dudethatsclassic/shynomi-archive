@@ -1,0 +1,67 @@
+First, I'd like to congratulate whoever took two mono audience recordings and made a stereo
+matrix from them. That must have been *a lot* of work, given that the speeds of any two of the
+mono portable analogue tape decks of that era seldom if ever matched up exactly.  The amount of
+editing between the two recordings which needed to be done to make a complete show must have
+been a Herculean task as well. It's rather well, trippy to hear a stereo perspective of this show,
+even if the stereo image kind of jumps around on you. Contributes to the "psychedelic" effect, I
+suppose! The distance between the two tapers' vantage points makes for kind of a "surround
+sound" effect!
+
+This recording suffered from a problem common to audience recordings of this vintage - most of
+the signal is dominated by bass frequencies with barely-audible midrange and highs. It sounded
+like Jimi and his band were playing at the end of a very long tunnel! I did my best to fix the
+problem without emphasizing in the process the rather ugly distortion that this issue often masks.
+I settled upon a compromise EQ setting which allows you to hear Jimi's voice and guitar a lot
+more distinctly than before while minimizing sonic nasties. There was noticeably more analogue
+tape hiss in the left channel than the right. I've reduced it; I felt midrange and high frequencies
+would suffer if I tried to completely eliminate it. The right channel has soft clicks throughout.
+This is an issue which I've seen on low-fi tape decks and recordings made on them. Adobe
+Audition's de-clicker got rid of them but it also acted upon other parts of the signal, so I elected
+not to use it. It's really no worse than listening to a vinyl record that's in good condition but has been enjoyed, on good equipment, just a few times too many. Given that you cannot make a low-
+fi recording hi-fi, I've done my best to make this historic recording more listenable and
+enjoyable. You may judge for yourself whether my version is an improvement over the previous
+one by checking out the MP3 samples below. In any case, enjoy!
+
+Additional Lineage: Adobe Audition (signal processing) > FLAC level 8 > YOU, the listener!
+
+Converting this program to MP3 to play on an Ipod or similar appliance is fine. PLEASE DON'T
+DISTRIBUTE IT IN THAT FORM!
+
+Selling bootleg CDs is not only a violation of our trust, it's pointless!
+
+MP3 samples in the comment section.
+
+Original uploader's notes below.
+
+***********************************************
+
+Jimi Hendrix
+Dane County Coliseum
+Madsion, WI
+May 2, 1970
+
+2 source
+merge>unknown.gen.cd-r>SonyTCWE435>PioneerPDR-O4>CDR>EAC>WAV>Trader's Little
+Helper>FLAC 
+
+Quality: B- stereo merge of 2 sources
+
+ Intro-Tune up
+ Fire
+ Room Full Of Mirrors
+ Hear My Train
+ Lover Man
+ Red House
+ Message To Love
+ Ezy Rider
+ Machine Gun
+ Star Spangled Banner
+ Foxy Lady
+ Voodoo Child (Slight Return)
+ Purple Haze
+
+Notes: Jimi Hendrix, 39 years ago today.
+
+*********************
+
+[Rock in peace, Jimi. We miss ya!]

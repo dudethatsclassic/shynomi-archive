@@ -1,0 +1,47 @@
+Radiohead
+2018-07-11
+Madison Square Garden
+New York, NY
+
+   Source: Church Audio CA-14 > Battery Box > Sony PCM-M10 (24-bit/48k). 
+ Location: DFC Floor ~15th row 
+ Transfer: Sony Sound Forge Pro 11.0 (EQ; L3 UltraMaximizer Stereo; Fades) > CDWave > FLAC24 via Trader's Little Helper @ Level 8. 
+    Taper: mkdevo <mkdevo AT gmail DOT com> 
+    Notes: Surrounded by chompers. Used Graphic Fade for woo-control at the end of some songs.
+
+-----------------------------------------
+    TOTAL:                      [2:08:52]
+-----------------------------------------
+01. intro                         [00:45]
+02. Daydreaming                   [06:20]
+03. Desert Island Disk            [04:40]
+04. Ful Stop                      [05:58]
+05. Myxomatosis                   [03:53]
+06. 15 Step                       [03:59]
+07. Kid A                         [04:09]
+08. All I Need *                  [04:14]
+09. The National Anthem           [04:54]
+10. The Gloaming                  [04:18]
+11. Spectre                       [03:46]
+12. You and Whose Army?           [03:17]
+13. Bloom                         [06:52]
+14. Identikit                     [05:13]
+15. Weird Fishes/Arpeggi          [06:00]
+16. No Surprises                  [04:08]
+17. There There                   [05:51]
+18. Everything in Its Right Place [05:34]
+19. encore break 1                [02:59]
+20. Optimistic                    [04:53]
+21. Nude                          [04:44]
+22. The Numbers                   [05:59]
+23. Lotus Flower                  [05:02]
+24. Fake Plastic Trees            [04:43]
+25. encore break 2                [01:53]
+26. Idioteque                     [04:26]
+27. Exit Music (for a Film)       [05:30]
+28. Karma Police                  [04:52]
+-----------------------------------------
+
+* This fucking guy.
+
+Enjoy!

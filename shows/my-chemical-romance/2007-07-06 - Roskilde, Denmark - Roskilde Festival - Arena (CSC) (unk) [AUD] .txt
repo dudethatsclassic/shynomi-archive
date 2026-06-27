@@ -1,0 +1,59 @@
+
+My Chemical Romance
+July 6th 2007 Arena / Roskilde Festival / Roskilde / Denmark
+
+Disc 1:
+01. Intro
+02. This Is How I Disappear
+03. Dead!
+04. I'm Not OK
+05. Cemetary Drive
+06. The Sharpest Lives
+07. The Black Parade
+08. I Don't Love You
+09. Give 'Em Hell, Kid
+10. House Of Wolves
+11. Teenagers
+
+Disc 2:
+12. Sleep
+13. The Jetset Life Is Gonna Kill You
+14. The Ghost Of You
+15. You Know What They Do To Guys Like Us In Prison
+16. Mama
+17. Famous Last Words
+18. Cancer
+19. Thank You For The Venom
+20. Heaven Help Us
+21. Helena
+
+Gear:
+Core Sound Cardioid Mics > Batterybox (Flat response) > iRiver H120 (Rockbox) level +20 db
+
+Edit:
+USB 2.0 Transfer to Pc > Sound Forge 8.0 (Eq, Normalize, Fades) > CDWave (Splitting tracks) > Flac lvl. 8 > You
+
+Notes:
+Hello there! I'm digging out a bunch of my old masters after a 15+ years break from taping and torrenting (<- that's a word now). A lot has happened since this was edited, so that's why the filenames has been made ready for burning to a CDR, including a small fade between tracks 11 and 12. What's a CDR some of you kids may ask? Well gather around younglings.. I'm gonna tell you a tale of physical media, scratchable discs, and other ancient horrors.....
+
+MCR_2007-07-06-d1-01.flac:cbff312652161464b548d8df1c85cde1
+MCR_2007-07-06-d1-02.flac:237aeb06dcf9bdd3ff962d5405ad44d9
+MCR_2007-07-06-d1-03.flac:d4a48f9c94957560ab197df97909b469
+MCR_2007-07-06-d1-04.flac:79942f050a61093f9d40385d02c98e18
+MCR_2007-07-06-d1-05.flac:1b6c21788b5746b80598d7b9909e8aa0
+MCR_2007-07-06-d1-06.flac:12ab7c1764ae0cafc2216c0c03f6d656
+MCR_2007-07-06-d1-07.flac:e2badf930f623787c887a45c9d68d8a3
+MCR_2007-07-06-d1-08.flac:6023080f465023a17e8a5d6c72bf6633
+MCR_2007-07-06-d1-09.flac:1f048a4011c0a31fd5d94a8fc3bfa676
+MCR_2007-07-06-d1-10.flac:d11a95c815a08412d74b5feace230692
+MCR_2007-07-06-d1-11.flac:f0665b82360be781907d813a6981d54b
+MCR_2007-07-06-d2-12.flac:76c858fdec4eb1d19d9775786124b80a
+MCR_2007-07-06-d2-13.flac:cdb849d770cdbc31436f108b4246df10
+MCR_2007-07-06-d2-14.flac:f1eac6073f18f52d5dfaa43012094a7d
+MCR_2007-07-06-d2-15.flac:d4f20335921da0230c1bd8469c2d1263
+MCR_2007-07-06-d2-16.flac:25e400e27a0eb20583454fe3a812281e
+MCR_2007-07-06-d2-17.flac:cfde7d987f407dd7f9b79eeed3d99f6b
+MCR_2007-07-06-d2-18.flac:ac1c5a858e2d9cde02bd3925174df706
+MCR_2007-07-06-d2-19.flac:a667f9639cd107139dd5018f3c22b679
+MCR_2007-07-06-d2-20.flac:55cc147092759f2d61984ae15307042c
+MCR_2007-07-06-d2-21.flac:154ed58c82d7f37094b6965be37c025d

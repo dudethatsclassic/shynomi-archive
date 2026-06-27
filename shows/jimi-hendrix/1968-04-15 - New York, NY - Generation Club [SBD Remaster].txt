@@ -1,0 +1,141 @@
+Jimi Hendrix & B.B. King
+w/ Paul Buttlerfield, Al Jooper, 
+Elvin Bishop & more
+Generation Club,
+New York City, NY, USA
+April 15th, 1968
+
+Main Source: SBD>??>CDR
+
+Alt. Source: SBD>??>CDR
+
+Remastering: EAC>Steinberg Mastering Edition Enhanced>CDWAV>SHN
+
+Set 1: 
+CD 1 {requires 80 min. disc}	[79:42.56]
+01. Ad Libbed Impromptu Blues*	[08:21.50]
+02. Kooper's Shuffle*	[07:48.14]
+03. Like A Rolling Stone	[08:05.49]
+04. Jam	[24:18.64]
+05. Intro By B.B. King	[01:24.37]
+06. Slow Blues	[17:39.26]
+07. Fast Blues//	[03:30.20]
+08. //It's My Own Fault	[08:34.21]
+
+*=Jimi not playing on these tracks
+
+Comment: 
+Unknown Band Name: 
+B.B. King (guitar & vocals), 
+Jimi Hendrix (guitar & vocals),
+Elvin Bishop (guitar), 
+Buzzy Feiten (bass), 
+Paul Butterfield (harmonica), 
+Al Kooper (organ) 
+Philip Wilson (drums), 
+Stuart ? (piano), 
+Don Martin (guitar). 
+
+Jimi Hendrix was at the top of this flight in blues progression and it was in 1968 that he was soaking in the New York 
+jam scene unlike any other artist and on the evening of April 15, 1968, Hendrix took to the stage with B.B. King. 
+Paul Butterfield, Elvin Bishop, Al Kooper and many others for one of the world’s greatest blues jams ever 
+captured in a small club setting. 
+Apparently this show was a tribute to Martin Luther King, shortly after his assassination.
+
+--------------------------------------------------
+Notes: This copy is fixed copy of my original seed. 
+I came across 2 diffrent recordings of this show. 
+The main source sounded better than the alt. source. Alt. 
+Source for entire tracks of d1t01(Ad Libbed Impromptu Blues) and d1t02(Kooper's Shuffle). 
+D1t01(Ad Libbed Impromptu Blues) redundancy @7:35 removed. 58 seconds of redundancy removed. 
+From D1t03(Like A Rolling Stone) on the main source was used what was intacked. Alt. 
+source was also used to patch the beginning of d1t03(Like A Rolling Stone) @ 0:04 and 
+the end @ 7:38. D1t04(Jam) there is a ?reel? flip @ 18:18 on both sources, alt. s
+ource was used to patch @ 17:53 thru 18:18 which was missing on main source, also alt. 
+source patch @ 24:13. D1t05(Intro By B.B. King) alt. source from 0:00 thru 0:04 ?reel? flip @ 0:55 on both sources. 
+D1t06(Slow Blues) ?reel? flip @ 4:15 on both sources. D1t07(Fast Blues) cuts off with only 3:30 intacked. 
+D1t08(It's My Own Fault) cuts in with no way to tell how much is missing  Hopefully a better copy surfaces of this one. 
+This show absolutely smokes 
+
+Remastering done by twiley on 09/01/2004.
+
+ENPHREAKINJOY!
+
+
+--------------------------------------------------
+
+ORIGINAL SHN MD5:
+
+0dd018dfcb726cbe38394edfd544add0 *bbking-hendrix1968-04-15d1t01.shn
+c823fe91818de4fd686cea5df2711a6b *bbking-hendrix1968-04-15d1t02.shn
+da44a74befc1aef1fa29053559badd93 *bbking-hendrix1968-04-15d1t03.shn
+7297eecc6c8cbac3b8a8c500855fafbb *bbking-hendrix1968-04-15d1t04.shn
+c057f8bf8b00c77d032e9011f34726c0 *bbking-hendrix1968-04-15d2t01.shn
+6de0321e565735181a609a88eaeb9cd4 *bbking-hendrix1968-04-15d2t02.shn
+f64ff0e62d681361da85655b3751d14a *bbking-hendrix1968-04-15d2t03.shn
+f1337436def817965484eba8c94cd4dc *bbking-hendrix1968-04-15d2t04.shn
+
+--------------------------------------------------
+
+FIXED SHN MD5:
+
+59fab795b83795ea070402827647c4f1 *bbking-hendrix1968-04-15d1t01.shn
+71486d8d5fa11912fd507831b9f25641 *bbking-hendrix1968-04-15d1t02.shn
+daa13f4917a66bd0583c80c8f4862de6 *bbking-hendrix1968-04-15d1t03.shn
+f837db9ccf0b470e7a259bdfa65aba8a *bbking-hendrix1968-04-15d1t04.shn
+5cc7f9a3983b4cc02828908184fd4dd8 *bbking-hendrix1968-04-15d1t05.shn
+57d4c0d99ed164f10e5a52f3cf295e35 *bbking-hendrix1968-04-15d1t06.shn
+86aa9cb752a9e0aa1ee4dbca588f4568 *bbking-hendrix1968-04-15d1t07.shn
+ffa15ca99d8cf6b607f0cfe9fbaa9917 *bbking-hendrix1968-04-15d1t08.shn
+
+--------------------------------------------------
+
+WAV:
+
+2c2089470241fe3a5970ff822df37a3c *bbking-hendrix1968-04-15d1t01.wav
+aaa1a2d5744df2166ac548bc4bd0fef1 *bbking-hendrix1968-04-15d1t02.wav
+838f96575e4515f2d5de62dc04e4b923 *bbking-hendrix1968-04-15d1t03.wav
+d391aa83f48cd9c653d6b52dcb635c43 *bbking-hendrix1968-04-15d1t04.wav
+4c389749684c490429bfd306e8d72b21 *bbking-hendrix1968-04-15d1t05.wav
+51f7bfc05ed51a0271b653db3e074d3a *bbking-hendrix1968-04-15d1t06.wav
+c84d7824f1e076c14949ca6623c211f8 *bbking-hendrix1968-04-15d1t07.wav
+cc77bf1fc9c48b39e12a0df0e0e4565f *bbking-hendrix1968-04-15d1t08.wav
+
+--------------------------------------------------
+
+C:\TOOL>shntool len *.wav
+    length     expanded size   cdr  WAVE  probs   filename
+     8:21.50      88494044     ---   --    ---    bbking-hendrix1968-04-15d1t01.wav
+     7:48.14      82588172     ---   --    ---    bbking-hendrix1968-04-15d1t02.wav
+     8:05.49      85669292     ---   --    ---    bbking-hendrix1968-04-15d1t03.wav
+    24:18.64     257341772     ---   --    ---    bbking-hendrix1968-04-15d1t04.wav
+     1:24.37      14904668     ---   --    ---    bbking-hendrix1968-04-15d1t05.wav
+    17:39.26     186868796     ---   --    ---    bbking-hendrix1968-04-15d1t06.wav
+     3:30.20      37091084     ---   --    ---    bbking-hendrix1968-04-15d1t07.wav
+     8:34.21      90719036     ---   --    ---    bbking-hendrix1968-04-15d1t08.wav
+    79:42.56     843676864 B                      (totals for 8 files)
+
+--------------------------------------------------
+
+flac md5:
+
+86a927f3d21766446c6dbdf5a6e96757 *bbking-hendrix1968-04-15d1t01.flac
+fe5cc9aed58031a88ca00d33f59fec04 *bbking-hendrix1968-04-15d1t02.flac
+84b127d489c65ee66ccf0f139cf70c2d *bbking-hendrix1968-04-15d1t03.flac
+6c1a5ec8f0956984518aa5986f187909 *bbking-hendrix1968-04-15d1t04.flac
+0b0b2c320780d98498cd5c7a9cbdf405 *bbking-hendrix1968-04-15d1t05.flac
+20acdebb7d36d5afb0a6ebf1a2279721 *bbking-hendrix1968-04-15d1t06.flac
+b2acda4c115bca54e73bd850e45b6ffd *bbking-hendrix1968-04-15d1t07.flac
+faec5fe18998b9139f281bb2e0bb09d9 *bbking-hendrix1968-04-15d1t08.flac
+
+--------------------------------------------------
+flac ffp:
+
+bbking-hendrix1968-04-15d1t01.flac:8a22a217041082fb2327cf670705093d
+bbking-hendrix1968-04-15d1t02.flac:95eaf9cf91512593090c2e86f39dcaa2
+bbking-hendrix1968-04-15d1t03.flac:b542e9c83d74b97d34d047b9fb1c60e3
+bbking-hendrix1968-04-15d1t04.flac:982cf46d32e2bc03113736ae357032e6
+bbking-hendrix1968-04-15d1t05.flac:90fa9ad4ae08126788d651aae77bade9
+bbking-hendrix1968-04-15d1t06.flac:5ab0fc8b74668e62d1e2b56280ed58a8
+bbking-hendrix1968-04-15d1t07.flac:2c97813b5a06abb94f06393306fb90eb
+bbking-hendrix1968-04-15d1t08.flac:0481cd06582f744e617a9bc67612c260

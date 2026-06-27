@@ -1,0 +1,29 @@
+12/31/91 - Cow Palace, Daly City, CA, US
+Source: AMT #1 - amateur video "Side of stage shot"
+Length: 5 mins - incomplete
+Quality: B- (private shot) 
+Generation: VID(2)->DVDR(1) 
+Your DVDR -> DVDR(2)
+Format: NTSC
+
+Transfer 1
+Generation: VHS(2)>JVC-STANDALONE>DVDR 
+Transferred by: Tobias Ritter, and ripped Directly off of DVD as .VOB file, then renamed .mpg (see notes).
+Video: MPEG2 5.10 mb/s 
+Audio: Dolby digital, 2 channels 192 kbit/s
+
+Set: 
+1. Territorial Pissings (cuts in slightly)
+           
+
+NOTES
+
+--------------------
+
+
+There was a HARD, VHS tape ribbon error, that took place at 2:36 - 2:38 during playback. Finding the very best way to, as non destructively, yet as seamlessly as possible, rejoin the two fragments, also greatly contributed to how long it took me to finish the transfer and details ect.  EVERY VCR, (I tried it on at least TEN) would fail catastrophically when playback would reach the two min. thirty six sec. point, by stopping completely and ejecting the tape (at minimum), or by stoping, ejecting, and turning the whole machine off, every single time, on every single machine WITHOUT FAIL. This was the first error of this kind I'd encountered on any VHS tape ever. This would inevitably leave me with two files, which I have to admit that I somewhat slickly was able to re-join at precisely the spot where they were torn from each other by the fatal tape error. (Taking care not to lose even 100ths of a second)  while simultaneously smoothing out and over what was a gapping, chopped, mangled looking hole in the stream, into an almost un-noticable transition that is clean (comparatively) in the extremity of it's seamlessness.
+
+This miniscule clip is given gladly to the hard working folks at LiveNirvana.com, who have tirelessly, consistently, and selflessly, worked to contribute SO much incredible material to the Distribution Forum. This is, most certainly, the least I can do for this extraordinarily admirable community, whose professionalism has set the standard for fan communities around the world.           
+
+
+DO NOT ENCODE TO LOSSY FORMATS OR SELL!!

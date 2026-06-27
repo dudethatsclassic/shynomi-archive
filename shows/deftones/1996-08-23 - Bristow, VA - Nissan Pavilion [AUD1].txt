@@ -1,0 +1,28 @@
+Deftones
+1996-08-23
+Nissan Pavillion
+Bristow, VA
+
+01. Root
+02. Nosebleed
+03. Bored
+04. 7 Words
+05. One Week
+06. Teething
+07. Minus Blindfold
+08. Engine #9
+
+Unknown audience > analog cassette (?) > Technics cassette deck > 
+RCA stand-alone CD recorder > WAV (EAC) > flac (8)
+
+Transfered by def-head
+
+01 Root.flac:330c45e2a133ec31fd62104ff9f0712f
+02 Nosebleed.flac:c5835e1c408989d9bf66a02a4461fe9f
+03 Bored.flac:f1a0872012bed5f514dc5ae82225616d
+04 7 Words.flac:5b8fb844472d260c72d47ed6d5c0c248
+05 One Week.flac:4d04e0fbb8c145c4b73da6d9906c326c
+06 Teething.flac:d516cb96e59c44893824014a71cba9c7
+07 Minus Blindfold.flac:447908d48e1c8334684a94df36c0505a
+08 Engine #9.flac:e3607dbf1fc72858fbef2a1262089fc3
+

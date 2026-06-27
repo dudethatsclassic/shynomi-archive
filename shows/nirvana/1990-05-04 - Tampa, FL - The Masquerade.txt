@@ -1,0 +1,55 @@
+Nirvana
+May 4, 1990
+The Masquerade
+Tampa, FL
+
+SOURCE (AUD #1):
+built-in > Realistic
+
+TRANSFER:
+Nakamichi CR-7A > Canare Cable > D.A.L. CardDeluxe > Adobe Audition CS6 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(M) > WAV [24bit/44.1kHz] > WAV [16bit/44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+45:14
+
+TRACKS:
+01. School (cuts in)
+02. Floyd The Barber
+03. Love Buzz
+04. Dive
+05. Scoff
+06. Spank Thru
+07. Breed
+08. Big Cheese
+09. Molly's Lips
+10. About A Girl
+11. Been A Son
+12. Stain
+13. Negative Creep
+14. Blew (cuts out)
+
+MD5 FINGERPRINTS:
+9518f4d49c6514ab198474a8a85a219c *Nirvana_1990-05-04_AUD1_t01.flac
+42d097d0d8f63250be70a65afe4dee24 *Nirvana_1990-05-04_AUD1_t02.flac
+99b9fbfb23045d5f06c172239cea1ec4 *Nirvana_1990-05-04_AUD1_t03.flac
+5c8796dd52438031dcc08837bf9d3205 *Nirvana_1990-05-04_AUD1_t04.flac
+550fdd3ca5064ff2bc2f5076175981f5 *Nirvana_1990-05-04_AUD1_t05.flac
+11426c44107f5b22099bc18ff853abc6 *Nirvana_1990-05-04_AUD1_t06.flac
+bd2a912f490e8f21ab5c716ecadd0966 *Nirvana_1990-05-04_AUD1_t07.flac
+9bd62f6c50306522689906dcf509070e *Nirvana_1990-05-04_AUD1_t08.flac
+3d96438fb5b74c0ce434c3a983eaffe8 *Nirvana_1990-05-04_AUD1_t09.flac
+c77fa38b2dea138c679516f8776d9dac *Nirvana_1990-05-04_AUD1_t10.flac
+29cc27961ee68a9c8732a51125800650 *Nirvana_1990-05-04_AUD1_t11.flac
+bcfbc3c361ff280a42c9b650888a7987 *Nirvana_1990-05-04_AUD1_t12.flac
+9b1bd6422379a593b7f6bec1fc08ccaa *Nirvana_1990-05-04_AUD1_t13.flac
+582734e704301f15586e33666dd785c9 *Nirvana_1990-05-04_AUD1_t14.flac
+
+
+TRANSFERRED BY:
+Rob Landis
+www.LiveNirvana.com
+February 2020
+roblandisnow@gmail.com

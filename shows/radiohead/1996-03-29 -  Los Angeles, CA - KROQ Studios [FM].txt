@@ -1,0 +1,55 @@
+Thom Yorke
+29th March 1996
+KROQ Studios
+Los Angeles, CA
+
+SETLIST (20:17)
+---------------
+01. intro
+02. Fake Plastic Trees (aborted)
+03. interview
+04. Fake Plastic Trees
+05. interview
+06. High & Dry
+07. outro
+
+GENERATION
+---------------
+ANA(1) -> FLAC
+
+SOURCE (STU #1)
+---------------
+STU > FM > ANA(M) > ANA(1)
+
+TRANSFER
+---------------
+ANA(1) -> M-Audio Audiophile 2496 -> CEP 2.1 (capture/amplify) -> WAV -> CD Wave 1.95.1 -> FLAC(8)
+
+NOTES
+-----
+The intro may be slightly incomplete.  During 1st take of FPT, a string breaks and Thom throws the guitar to the floor in frustration.  This was later used on April Fools Day 1998, the DJs had a Thom sound-a-like in the studio and they pretended to insult him, with the aborted take of FPT meant to sound like Thom had lost his temper and stormed out of the studio.
+
+FLAC FINGERPRINTS
+-----------------
+thomyorke-1996-03-29-fm-t01.flac:8206c03c3b3d789220d99302a332dd68
+thomyorke-1996-03-29-fm-t02.flac:fa061caae5fff4a4bd04201e783be63c
+thomyorke-1996-03-29-fm-t03.flac:1055a88aca37d01b13ce86b7227437ef
+thomyorke-1996-03-29-fm-t04.flac:649d32dafe3ce2896ed6081dc3f120e7
+thomyorke-1996-03-29-fm-t05.flac:485f7561185c47944d2d169e03914bc2
+thomyorke-1996-03-29-fm-t06.flac:1897117958b0a73f1423be3854061596
+thomyorke-1996-03-29-fm-t07.flac:d098fad87c2e541e725572c1229149d1
+
+MD5 CHECKSUMS
+---------------
+8c8f62eb2586626bf0f4470d7163fd11 *thomyorke-1996-03-29-fm-t01.flac
+772a59c3219d716f5298503e5b6b97c3 *thomyorke-1996-03-29-fm-t02.flac
+25493f6fcfcb5bb9d458cb06a358db38 *thomyorke-1996-03-29-fm-t03.flac
+b69a4698e3e9ebcc2095d3b1543d0ce7 *thomyorke-1996-03-29-fm-t04.flac
+b3058286d36e5de1f41d7ca4faa3da7f *thomyorke-1996-03-29-fm-t05.flac
+c44f6e7b17bc32c5079d3ecd49bd4bb8 *thomyorke-1996-03-29-fm-t06.flac
+c24541ee95cbda2f376197e39de4549e *thomyorke-1996-03-29-fm-t07.flac
+
+Taper: unknown
+Transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

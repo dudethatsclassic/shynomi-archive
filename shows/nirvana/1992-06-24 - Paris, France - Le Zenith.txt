@@ -1,0 +1,69 @@
+NIRVANA
+June 24, 1992
+Le Zénith
+Paris, France
+
+DISC #1/1 (79:56)
+-----------------
+01) intro
+02) Aneurysm
+03) Drain You
+04) Stay Away
+05) Sliver
+06) School
+07) In Bloom
+08) Breed
+09) About A Girl
+10) Scoff
+11) Polly
+12) Lithium
+13) Blew
+14) Been A Son
+15) On A Plain
+16) Negative Creep
+17) encore break
+18) Come As You Are
+19) Love Buzz
+20) Smells Like Teen Spirit
+21) Territorial Pissings
+22) Endless, Nameless
+
+GENERATION
+-----------------
+DAT(M) -> WAV [32kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #4)
+-----------------
+Aiwa CM-30A -> Denon DTR-80P
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Viablue S/PDIF cable -> M-Audio Delta Audiophile 192 digital-in -> Adobe Audition 3.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+939d265b28d28dc5de473f14301859ff *nirvana_1992-06-24_aud4_datm_d1t01.flac
+57f5be46f92a2e2a527a316a33fddcbd *nirvana_1992-06-24_aud4_datm_d1t02.flac
+39a71ac1179372dd96b295a4888f4445 *nirvana_1992-06-24_aud4_datm_d1t03.flac
+96b65b6c1b85dc8f03ec499966b78950 *nirvana_1992-06-24_aud4_datm_d1t04.flac
+5fa6e60e7cce991325dec2c30addf7d9 *nirvana_1992-06-24_aud4_datm_d1t05.flac
+0978f7c761e2fb444dcea38163c92925 *nirvana_1992-06-24_aud4_datm_d1t06.flac
+2983b284bd51dd4574e82dc003016052 *nirvana_1992-06-24_aud4_datm_d1t07.flac
+c81daa5e67d683d70df258268f127a4c *nirvana_1992-06-24_aud4_datm_d1t08.flac
+82aee49f12b70f59dc97ba1af80617e8 *nirvana_1992-06-24_aud4_datm_d1t09.flac
+226196e2fe42a282dcf230fd531bc8ea *nirvana_1992-06-24_aud4_datm_d1t10.flac
+b9b6dabbcdb41853f5f613767afe46c5 *nirvana_1992-06-24_aud4_datm_d1t11.flac
+58b00a3ad2d50f608a9358fa0612f9a0 *nirvana_1992-06-24_aud4_datm_d1t12.flac
+b7c1c3ab31e6d537c9cbcee955d55b38 *nirvana_1992-06-24_aud4_datm_d1t13.flac
+ce296644b6f693f722dff3ccf09124ef *nirvana_1992-06-24_aud4_datm_d1t14.flac
+0645844f9abd912dc5b7a02c507d06a1 *nirvana_1992-06-24_aud4_datm_d1t15.flac
+dcdf82a5e939cda9b91d5b4cd237d8e8 *nirvana_1992-06-24_aud4_datm_d1t16.flac
+b825c5cee2f2a01bca5e029ce6d8b3db *nirvana_1992-06-24_aud4_datm_d1t17.flac
+926743a20a114b4888bdd046b1bbe64d *nirvana_1992-06-24_aud4_datm_d1t18.flac
+6a21032263333c0df3b139456c168fdb *nirvana_1992-06-24_aud4_datm_d1t19.flac
+17e8271a02a830c5b266dc48230c15d1 *nirvana_1992-06-24_aud4_datm_d1t20.flac
+5c9648a184931dd44a3597417303bb7c *nirvana_1992-06-24_aud4_datm_d1t21.flac
+34a315900c88109681fda14b6a860081 *nirvana_1992-06-24_aud4_datm_d1t22.flac
+
+Transferred by Pierre Leroy
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

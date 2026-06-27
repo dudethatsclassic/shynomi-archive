@@ -1,0 +1,73 @@
+NIRVANA
+October 23, 1993
+Aragon Ballroom
+Chicago, IL
+
+SOURCE (AUD #2):
+unknown > unknown
+
+TRANSFER:
+Nakamichi Dragon > SoundBlaster Audigy4 Pro (kX Drivers) > WaveLab Lite > SoundForge 9.0 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(x) > WAV [24 bit/96kHz] > WAV [16 bit/44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+93:56
+
+TRACKS:
+
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. About A Girl
+05. Heart-Shaped Box
+06. Sliver
+07. Dumb
+08. In Bloom
+09. Come As You Are
+10. Pennyroyal Tea
+11. School
+12. Polly (cuts)
+13. Jesus Wants Me For A Sunbeam (cuts in)
+14. Milk It
+15. Rape Me
+16. Territorial Pissings
+xx. Smells Like Teen Spirit (missing)
+17. You Know You're Right
+18. All Apologies
+19. Something In The Way
+20. Scentless Apprentice
+21. On A Plain
+22. Blew
+23. Endless, Nameless
+
+MD5 FINGERPRINTS:
+f0c7a49feb0f4f9a072aad5d265e6966 *Nirvana_1993-10-23_AUD2_T01.flac
+c2f38a565d03ee8e9ae4fc267bad87f1 *Nirvana_1993-10-23_AUD2_T02.flac
+d31129d646fb304cbd2df2ab528ee24c *Nirvana_1993-10-23_AUD2_T03.flac
+72ab2e2de4799f120f62af2988f86b6b *Nirvana_1993-10-23_AUD2_T04.flac
+8f3e67aaac022acb2792e928a4b54b41 *Nirvana_1993-10-23_AUD2_T05.flac
+37749f25b0a2c172efa4f7f2dad5690f *Nirvana_1993-10-23_AUD2_T06.flac
+df685401e11bcef0e72f567675ad28a3 *Nirvana_1993-10-23_AUD2_T07.flac
+720e3d15f7352acc82acd4f58ea7c7cd *Nirvana_1993-10-23_AUD2_T08.flac
+0427ac10fcd2d5c900109bba486d017e *Nirvana_1993-10-23_AUD2_T09.flac
+82dd9bb063b6c94becc40fa87625caed *Nirvana_1993-10-23_AUD2_T10.flac
+c0d796454a585ae4c22b1e0003ac50a3 *Nirvana_1993-10-23_AUD2_T11.flac
+068c81ee95db16fd28f827b19430cb70 *Nirvana_1993-10-23_AUD2_T12.flac
+014297a2e04e2cb9555becffb3d9bd59 *Nirvana_1993-10-23_AUD2_T13.flac
+f00ff1d417fafb2a9cfebc371d5e8ba1 *Nirvana_1993-10-23_AUD2_T14.flac
+96e47bf7ea1449077fd36e0e4a35ca30 *Nirvana_1993-10-23_AUD2_T15.flac
+388131137b5f27497418c4cda86e1398 *Nirvana_1993-10-23_AUD2_T16.flac
+f6a15e4be6fd4785ad74715130d86774 *Nirvana_1993-10-23_AUD2_T17.flac
+8e2665b09d088201f4cd856bfe52d2ac *Nirvana_1993-10-23_AUD2_T18.flac
+ea6e4b2c5c3163b58daec7d3efe434b0 *Nirvana_1993-10-23_AUD2_T19.flac
+86f8779e389e5ddb8b56f57ef9bd83a0 *Nirvana_1993-10-23_AUD2_T20.flac
+f81082fa3b956b2fd1e92beaec9f2375 *Nirvana_1993-10-23_AUD2_T21.flac
+f312b62c9346edb6b055b1ba7e2f4962 *Nirvana_1993-10-23_AUD2_T22.flac
+cb07d5895dc068577fe24d7b60ec488a *Nirvana_1993-10-23_AUD2_T23.flac
+
+TRANSFERRED BY:
+Chris Rinewalt
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

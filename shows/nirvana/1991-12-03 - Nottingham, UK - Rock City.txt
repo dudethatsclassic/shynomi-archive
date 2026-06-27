@@ -1,0 +1,63 @@
+NIRVANA
+December 3, 1991
+Rock City
+Nottingham, United Kingdom
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > Cinema Craft Encoder SP3 > Adobe Encore CS5
+
+GENERATION:
+TV > VHS(2) [NTSC] > AVI [DV25] > M2V/WAV [8.0Mbps CBR/48kHz PCM] > DVDR(0)
+
+LENGTH:
+19:16
+
+TRACKS:
+01. host intro
+02. Smells Like Teen Spirit (cuts out)
+03. interview (1)
+04. Drain You (cuts out)
+05. fan interviews (1)
+06. Sliver (cuts in, cuts out)
+07. interview (2)
+08. Been A Son (cuts out)
+09. fan interviews (2)
+10. Come As You Are (cuts in, cuts out)
+11. host outro (1)
+12. host outro (2)
+13. Lithium (cuts in, cuts out)
+
+FILLER:
+01. American Journal: April 1994 (01/24/88 clips)
+02. MTV News: July 1995 (JamPac)
+03. MTV News: October 1996 (Muddy Banks)
+
+MD5 FINGERPRINTS:
+78db258fc9719a0fe74700742d9e7de3 *VIDEO_TS\VIDEO_TS.BUP
+78db258fc9719a0fe74700742d9e7de3 *VIDEO_TS\VIDEO_TS.IFO
+2b9118b5c757edf9be11b7ceef0015e3 *VIDEO_TS\VIDEO_TS.VOB
+eb85014557e83b2492223c7723cbcbb7 *VIDEO_TS\VTS_01_0.BUP
+eb85014557e83b2492223c7723cbcbb7 *VIDEO_TS\VTS_01_0.IFO
+1f7ecc27b2951dea41413871678ab0e0 *VIDEO_TS\VTS_01_0.VOB
+ad16e0c99a8df8a55359e2b8d00b5dc2 *VIDEO_TS\VTS_01_1.VOB
+cd1ce5945e5124ae4277bf3bbd555ec7 *VIDEO_TS\VTS_01_2.VOB
+81ecd544be0634188a166ff3c6249c9b *VIDEO_TS\VTS_02_0.BUP
+81ecd544be0634188a166ff3c6249c9b *VIDEO_TS\VTS_02_0.IFO
+2b9118b5c757edf9be11b7ceef0015e3 *VIDEO_TS\VTS_02_0.VOB
+4532fb5581be93acfca40eee39a84ccb *VIDEO_TS\VTS_02_1.VOB
+f33c44e0839f6c6e6f94959ec04935cc *VIDEO_TS\VTS_03_0.BUP
+f33c44e0839f6c6e6f94959ec04935cc *VIDEO_TS\VTS_03_0.IFO
+2b9118b5c757edf9be11b7ceef0015e3 *VIDEO_TS\VTS_03_0.VOB
+37325b0f408a905a710137bd131f4e7b *VIDEO_TS\VTS_03_1.VOB
+b636cc81c205eb61cac7946a7ed1cff8 *VIDEO_TS\VTS_04_0.BUP
+b636cc81c205eb61cac7946a7ed1cff8 *VIDEO_TS\VTS_04_0.IFO
+2b9118b5c757edf9be11b7ceef0015e3 *VIDEO_TS\VTS_04_0.VOB
+6fd326b7431f94c0897188aa1a3aa3f4 *VIDEO_TS\VTS_04_1.VOB
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

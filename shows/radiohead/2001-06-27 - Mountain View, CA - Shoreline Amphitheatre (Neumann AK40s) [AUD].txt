@@ -1,0 +1,47 @@
+Radiohead
+Shoreline Amphitheatre, Mountain View, CA
+June 27, 2001
+
+Source Info:	neumann ak40s > neumann lc-3 active cables > neumann km100s >
+		sound devices mp-2 > sony sbm-1 > sony pcm-m1
+Location:	stage right stack
+
+Conversion:	Prodif Digital Soundcard > Samplitude > CDWAV > SHN >
+		SoundEdit 16 (editing) > Plextor 12x/4x/32x (burn) > SHN
+		
+Disc One:
+
+01:	Intro					-	00:48:52
+02:	National Anthem				-	04:56:13
+03:	Morning Bell 				-	04:38:43
+04:	Lucky					-	04:23:04
+05:	Airbag					-	05:01:14
+06:	In Limbo					-	04:40:65
+07:	Packt Like Sardines ...			-	03:22:61
+08:	You And Whose Army			-	03:52:16
+09:	No Surprises				-	03:53:67
+10:	Dollars and Cents				-	05:34:54
+11:	Knives Out				-	04:25:41
+12:	Permanent Daylight			-	03:11:25
+13:	Karma Police				-	04:29:70
+14:	Pyramid Song				-	05:13:28
+
+Total:						-	58:34:28
+
+
+Disc Two:
+
+01:	Disc II Intro				-	00:08:41
+02:	Paranoid Android				-	06:16:35
+03:	Idioteque					-	04:18:26
+04:	Everything In Its Right Place			-	10:22:10
+05:	I Might Be Wrong				-	04:56:58
+06:	Fake Plastic Trees				-	05:11:70
+07:	The Thief					-	04:56:69
+08:	How To Disappear Completely		-	10:50:60
+09:	Talk Show Host				-	05:33:15
+10:	The Bends				-	06:59:26
+11:	Motion Picture Soundtrack			-	03:10:57
+
+Total:						-	62:37:07
+

@@ -1,0 +1,45 @@
+NIRVANA
+December, 1988
+Novoselic Residence,
+Aberdeen, WA
+
+DISC #1/1 (26:53)
+-----------------
+01) Love Buzz
+02) Scoff (cuts in)
+03) About A Girl
+04) Big Long Now (cuts in)
+05) Immigrant Song
+06) Spank Thru (cuts in)
+07) Hairspray Queen (cuts in)
+08) School (cuts in)
+09) Mr. Moustache
+
+GENERATION
+-----------------
+Official DVD "With The Lights Out" -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Pioneer DVD-RW DVR-109 -> DVD Decrypter 3.5.4.0 -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- filmed for the most part by Krist's brother, Robert Novoselic.
+- DVD audio is LPCM
+
+MD5 FINGERPRINTS
+-----------------
+3dc9800941172daeb5432f84e3b22fcd *nirvana_1988-12-00_amt1_dvd_d1t01.flac
+cb0e084125229e38d047532e9edf75fd *nirvana_1988-12-00_amt1_dvd_d1t02.flac
+8445cff19dcaf597025c758adba0cc14 *nirvana_1988-12-00_amt1_dvd_d1t03.flac
+d7b617fbafd8058bd94ea902c9a93caf *nirvana_1988-12-00_amt1_dvd_d1t04.flac
+ff7e36b26970059236627d6cd946cc11 *nirvana_1988-12-00_amt1_dvd_d1t05.flac
+230cd15c7650200e846b038f70724a4e *nirvana_1988-12-00_amt1_dvd_d1t06.flac
+ec245fe88e5bcfc9fc603c0e87a1fb6e *nirvana_1988-12-00_amt1_dvd_d1t07.flac
+891d9fef4bef4fc1dfc3c75e90496a21 *nirvana_1988-12-00_amt1_dvd_d1t08.flac
+c1f3130008f9addd43e2c7215c45ead8 *nirvana_1988-12-00_amt1_dvd_d1t09.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

@@ -1,0 +1,44 @@
+Jimi Hendrix
+05-30-1970
+Berkeley Community Theater
+Berkeley, CA
+Early Show
+
+Band:
+Jimi Hendrix: guitar, vocals
+Billy Cox: bass
+Mitch Mitchell: drums
+
+lineage: SBD > reel to reel > ? >CD-r > EAC > wave > FLAC (level 8)
+
+
+Track Listing:
+
+01 Fire
+02 Johnny B. Goode
+03 Hear My train A Comin'
+04 Foxy Lady
+05 Machine Gun
+06 Freedom
+07 Red House
+08 Message To Love
+09 Ezy Rider
+10 Voodoo Child (slight return)
+
+
+Up Next - Berkeley 05-30-1970, Late Show
+
+
+
+Fingerprint:
+
+01 Fire.flac:13faed58792f73fac4b0d0b75dbc9ac0
+02 Johnny B. Goode.flac:55981c179431c832c5316114b32bbd8e
+03 Hear My train A Comin'.flac:0b4b14eec4975aa927dce7f885a2a237
+04 Foxy Lady.flac:981a1cb9586881e23a35726762daab84
+05 Machine Gun.flac:278ed69c981bab06776cb1d5163c7eca
+06 Freedom.flac:f600c3425f5ff066310c62832304366e
+07 Red House.flac:5562103ec49239a22e0d52eeed417ed1
+08 Message To Love.flac:ba87f2cf205f0c9fb206a6fcab87054a
+09 Ezy Rider.flac:758f66866df215e332dcd77438064863
+10 Voodoo Child (slight return).flac:4a8e59e408d9bf7a3fb06eb3672f13aa

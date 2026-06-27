@@ -1,0 +1,65 @@
+NIRVANA
+September 21, 1991 
+Foufounes Électriques
+Montréal, QC, CANADA
+
+SOURCE (AUD#1):
+Unknown > WMD6
+
+TRANSFER:
+Nakamichi DR-1 > Canare cable > Focusrite Clarett 2Pre USB > Adobe Audition CC > SoundForge 12.1 > Trader's Little Helper 2.8.4
+
+GENERATION:
+ANA(1)> WAV [24 bit/48kHz] > WAV [16 bit/44.1kHz] > FLAC [Level 8]
+
+DURATION:
+59:14
+
+SETLIST:
+01. Aneurysm
+02. Drain You
+03. Smells Like Teen Spirit
+04. School
+05. Sliver
+06. Polly
+07. Breed
+08. About A Girl
+09. The End [Jam]
+10. Scoff
+11. Floyd The Barber
+12. Blew
+13. Negative Creep
+14. Been A Son
+15. Stain
+16. Something In The Way
+17. Endless, Nameless
+
+MD5 FINGERPRINTS:
+7cf383961b32e7e9fa1b949584291d57 *NIRVANA 1991-09-21 AUD#1 ANA(1)_01 Aneurysm.flac
+5297744b4e91d5585b39097e8ec28af9 *NIRVANA 1991-09-21 AUD#1 ANA(1)_02 Drain You.flac
+222c9a4c5ffa2f64872646200365c324 *NIRVANA 1991-09-21 AUD#1 ANA(1)_03 Smells Like Teen Spirit.flac
+be15609edf3749dbdcdd9cadad31d425 *NIRVANA 1991-09-21 AUD#1 ANA(1)_04 School.flac
+c67a9223c2121e8df392da714014cf02 *NIRVANA 1991-09-21 AUD#1 ANA(1)_05 Sliver.flac
+6636f7e0930b2fc9ae00774feee126ff *NIRVANA 1991-09-21 AUD#1 ANA(1)_06 Polly.flac
+21afd41f188514e8949068002b867148 *NIRVANA 1991-09-21 AUD#1 ANA(1)_07 Breed.flac
+a481718862b821bc5eaf27aa8e14999f *NIRVANA 1991-09-21 AUD#1 ANA(1)_08 About A Girl.flac
+fb0bf2a5ff02d9a9f2555e37e94e413b *NIRVANA 1991-09-21 AUD#1 ANA(1)_09 The End [Jam].flac
+a91bf25b38a818754e9a0e63c4e17315 *NIRVANA 1991-09-21 AUD#1 ANA(1)_10 Scoff.flac
+65ba6de9560b4aef02a25994a4c2eca0 *NIRVANA 1991-09-21 AUD#1 ANA(1)_11 Floyd The Barber.flac
+f878ac5c34843053826d115105bf5813 *NIRVANA 1991-09-21 AUD#1 ANA(1)_12 Blew.flac
+92e1519c98e025b6efdb491640d7be7b *NIRVANA 1991-09-21 AUD#1 ANA(1)_13 Negative Creep.flac
+53b5ecf5b9391eb5170c914317eadecc *NIRVANA 1991-09-21 AUD#1 ANA(1)_14 Been A Son.flac
+9c5303a3b13343a36f55c0ffe2b0972b *NIRVANA 1991-09-21 AUD#1 ANA(1)_15 Stain.flac
+4a569f7155fc3aeca6eb810ceaf5295b *NIRVANA 1991-09-21 AUD#1 ANA(1)_16 Something In The Way.flac
+1a29952e94aaa113b1538a9c1cfde9b6 *NIRVANA 1991-09-21 AUD#1 ANA(1)_17 Endless, Nameless.flac
+
+TRANSFER:
+Members of LiveNIRVANA.com
+
+DISTRIBUTION:
+Members of LiveNIRVANA.com
+
+TECHNICAL NOTES:
+Speed Corrected via comparison with Pro#1 and AMT#1 video sources.
+
+2022-02-17

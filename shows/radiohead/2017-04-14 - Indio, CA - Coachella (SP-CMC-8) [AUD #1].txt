@@ -1,0 +1,90 @@
+Radiohead
+2017-04-14
+Coachella Valley Music and Arts Festival - Weekend 1
+Coachella Stage
+Indio, CA
+
+SOURCE (AUD #1): 
+SP-CMC-8 (w/Mods) > SONY PCM-M10 > Sandisk Ultra MicroSD Card (32gb - Class 10) 
+
+TRANSFER: 
+.WAV (16 Bit) > Adobe Audition CC 2021 (normalize/amplify/tracking) > Trader's Little Helper > FLAC (Level 8)
+
+SETLIST:
+
+01. Intro
+02. Daydreaming
+03. Desert Island Disk
+04. Ful Stop
+05. Airbag
+06. 15 Step
+07. (Intermission 1)
+08. The National Anthem
+09. Let Down
+10. (Intermission 2)
+11. Street Spirit (Fade Out)
+12. Bloom
+13. Identikit
+14. Everything In Its Right Place
+15. There There
+16. Weird Fishes/Arpeggi
+17. Burn the Witch
+18. Idioteque
+19. Nude
+20. Creep
+21. (Encore Break)
+22. You and Whose Army?
+23. No Surprises
+24. Paranoid Android
+15. Bodysnatchers
+26. Karma Police
+
+NOTES:
+
+"All our mistakes are our own work."
+
+Holy crap, it's been 4+ years and I'm just now getting to the editing and releasing of this recording of mine. I really don't know why it's taken me so long to do this. Usually, as soon as the show ends, I'm ready to download my files, edit them, and then upload them to share with everyone. My excitement levels hit all time highs. But soon a week passes, then a month, and in this case, years, and I can't explain it. I do get anxiety about some of my recordings, about how they'll sound or how they'll be received by others, and on top of that, I suppose there could be cases/examples where I just don't want to revisit certain nights or memories for whatever reasons. I really don't know. The human mind is a strange, sad thing sometimes...
+
+Anyway, regarding this night and this recording. The first thing I noticed is I did not record this in 24 bit audio. Why? I have no idea. Perhaps it was a memory card/storage issue? Maybe a battery issue? Maybe I just wasn't thinking clearly? I really don't have an answer. One thing I can tell you about this night was there was some bad juju in the air. It all started with the previous set I was at, which was Richie Hawtin's "Close" show in the Mojave tent. The plan was to see/record him while with some friends, and then head over and get a spot for Radiohead. Well that's essentially how it went down, except after the Richie Hawtin set, I pull out my recorder to stop it and realize I never actually hit the record button before his set, so I never recorded that show! I couldn't believe it, I was stunned. I was stopped in my tracks even. That was the first time that had ever happened to me. The Sony PCM-M10 requires you to hit the record button twice, once to activate it (it starts blinking) and a second time to confirm and actually start recording (at which point you set the device to "hold" to avoid any accidental button presses), and I guess I just never hit the button the second time. I really loved his set too, which made this mistake all the more painful. So maybe that's a reason why I haven't gotten to any of my Coachella 2017 Weekend 1 recordings until now, I was too bummed and haunted by that particular mishap.
+
+Anyway, onto some good things about this night. After Richie, I ended up hanging out with a friend of mine, someone who I was pretty doted for at the time (and you can hear on this recording at parts), and we got the ideal spot for Radiohead, right in front of the soundboard, where I was able to meet up with my camping mates from that weekend as well. So really, everything came through as far as who I was with, where we were and the timing and such (to plan and execute all of that throughout the course of a day on a field with 75,000+ people is a real chore). Of course, I had to TRIPLE check that I hit record for this set after my almost mental breakdown following Richie. But remember when I said there was bad juju? Well I felt it followed me into this set, because as I'm sure you all know, 4 years later, the first part of this set was plagued with sound/audio issues. It cut out in 3 or 4 different spots, one of them being during "Let Down" (talk about a let down!)! I'm sure by now it's been figured out as to what exactly went wrong, and why (it was some sort of network adapter on the control board that Radiohead's sound guys were using?), but in real time as it was happening, it was just heartbreak and madness. All sorts of rumors were running wild about subwoofers going bad, the grounding of the stage going bad, to God knows what else. I clearly remember though, amidst what should have been all this chaos to get this fixed, I looked back at the soundboard area, which was right behind us, and literally everyone I saw in that area was just sitting down with no sense of panic whatsoever. I remember one guy even casually pouring himself a cup of coffee out of a thermos, which at the time I was just thinking "the fucking headliner's sound just cut out for the 4th time, and you're pouring coffee!?". But kudos to whoever the hero was who figured out what the issue was and got it replaced/fixed and saved the rest of the night. After the second intermission, there was never another audio problem again, and I was thankful for that.
+
+Of course, the whole set I was hoping to hear "All I Need" (they would end up playing that weekend two instead), but by the second intermission I had given up hope and my friends knew it and they all felt bad, but honestly, I don't look back at this set with any disappointment or bad feelings (especially after listening to it again for the first time in years), as I was with my friend catching one of our only full sets we ever saw together at Coachella. I wouldn't trade that night (sound issues, audio recording issues, lack of "All I Need" (and "Videotape") and all) for anything. One of the funniest moments was her calling me a creep for not liking the song "Creep" (yes they actually played it this night - but I'm really not a "Pablo Honey" fan at all - I'm very much a "The Bends" and onwards type of Radiohead fan) ha. I also cut out her story at the beginning, before the band took the stage, about meeting a couple of sketchy strange dudes out at the Salton Sea when their car broke down. It was quite the tale though, wow. Much like this night and weekend in retrospect. It was nice to relive it finally, and I hope this recording (despite the sound problems) does it some justice and brings back some memories for whoever else listens as well. Peace <3
+
+CHECKSUMS: 
+
+67d6868297def004daeb4e3aaec16d06 *radiohead-2017-04-14-coachella-aud-t01-intro.flac
+6c84359d582460100e7b387b9965cc72 *radiohead-2017-04-14-coachella-aud-t02-daydreaming.flac
+67108fedaef91e0090746b723f070b13 *radiohead-2017-04-14-coachella-aud-t03-desert-island-disk.flac
+2f5439e6971d235f3efbdeb05f5caf37 *radiohead-2017-04-14-coachella-aud-t04-ful-stop.flac
+635fc94204b607698995a5c4329f6323 *radiohead-2017-04-14-coachella-aud-t05-airbag.flac
+5548b986a6d5274617e33680dc67ba45 *radiohead-2017-04-14-coachella-aud-t06-15-step.flac
+57f730e4d659e168ecae3b6053bc780c *radiohead-2017-04-14-coachella-aud-t07-intermission-1.flac
+9d43fc76c5df46ea3af4c0b90e2ead3e *radiohead-2017-04-14-coachella-aud-t08-the-national-anthem.flac
+b8616dd9727f84568cc36a899013b2ca *radiohead-2017-04-14-coachella-aud-t09-let-down.flac
+6b0d44f9dac336e725c69a0d74fd88aa *radiohead-2017-04-14-coachella-aud-t10-intermission-2.flac
+01580c987da2bae8777aa906eac1a1ea *radiohead-2017-04-14-coachella-aud-t11-street-spirit-fade-out.flac
+eb71cc257a554e1e1f4b96e5324c8dc5 *radiohead-2017-04-14-coachella-aud-t12-bloom.flac
+80a0cbaaa2c65d050cc01314a9c2020f *radiohead-2017-04-14-coachella-aud-t13-identikit.flac
+46fa81454c1fd7752d4582d251a0cb16 *radiohead-2017-04-14-coachella-aud-t14-everything-in-its-right-place.flac
+26c44c2fac73e2cfef07b239a7d33f52 *radiohead-2017-04-14-coachella-aud-t15-there-there.flac
+bb73b1b2ad7cb513e5b8bc979b37850b *radiohead-2017-04-14-coachella-aud-t16-weird-fishes-arpeggi.flac
+964030f13d4ced4578174fba9f420c45 *radiohead-2017-04-14-coachella-aud-t17-burn-the-witch.flac
+f15bf46fa7aacc8ed191cd53b51ad3c1 *radiohead-2017-04-14-coachella-aud-t18-idioteque.flac
+59d50f4676f531d66670c9acbd3f061b *radiohead-2017-04-14-coachella-aud-t19-nude.flac
+e8134fd49678bdfa9c54848f80e3fdeb *radiohead-2017-04-14-coachella-aud-t20-creep.flac
+da022148a713f1f357324c9675e373cb *radiohead-2017-04-14-coachella-aud-t21-encore-break.flac
+03468bc701e14bc1fb3cb3fae2137507 *radiohead-2017-04-14-coachella-aud-t22-you-and-whose-army.flac
+1e1f40ce682ae9fe9948c179c8eade6b *radiohead-2017-04-14-coachella-aud-t23-no-surprises.flac
+9502bb10391ce0a5b85d4c7dcc60e1e0 *radiohead-2017-04-14-coachella-aud-t24-paranoid-android.flac
+86de1d092a8e40cd471e018ec94336a5 *radiohead-2017-04-14-coachella-aud-t25-bodysnatchers.flac
+6d5455ceb0f339b7fcea29de327aa668 *radiohead-2017-04-14-coachella-aud-t26-karma-police.flac
+
+
+Check out my site: 
+
+http://www.themojavetent.com 
+http://www.facebook.com/coachellarecordings 
+http://www.twitter.com/livecoachella 
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT (OR ELSE THE KARMA POLICE WILL GET YOU)***

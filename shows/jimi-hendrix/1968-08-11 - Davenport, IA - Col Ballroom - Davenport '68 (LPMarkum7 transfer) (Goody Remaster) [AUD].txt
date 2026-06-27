@@ -1,0 +1,96 @@
+The Jimi Hendrix Experience
+Col Ballroom
+Davenport, Iowa
+August 11, 1968
+
+
+A Goody Speed/Pitch-adjusted Remaster of the "Davenport '68" vinyl boot - Transferred by Markum7
+
+
+foobar2000 (WAV) > Audition (Pitch Bender, various amounts; volume adjustments; some cleaning; big pops and clicks individually removed; tracking updated) >
+iZotope RX8 Advanced (Light de-click) > TLH (FLAC Level 8; Align sector boundaries; .ffp) > foobar2000 (tags)
+
+Jimi Hendrix - guitar, vocals
+Mitch Mitchell - drums
+Noel Redding - bass, vocals
+
+
+01 Tuning > 1:14
+02 Are You Experienced?// (cuts off) 9:29
+03 Tuning, 'Lover Man' intro JH > 0:54
+04 Lover Man 3:19
+05 JH 'Tax Free' announcement 0:41
+xx Tax Free
+06 Foxy Lady > Tuning 7:06
+07 Red House 13:25
+08 I Don't Live Today 6:58
+09 Fire 3:20
+
+Runtime: 46:26
+
+
+Markum7's original transfer and seed notes:
+This is taken directly from my 2-record boot Lp. This came out in the early 1980s and at the time was the only generally available source for this show. I kept this Lps in good condition, but this is not the definitive transfer, some snaps, crackles and pops along the way. I'm sure there are better, but didn't see it on the tracker...so here ya go! Jimi in Iowa!!!!
+
+_______________________________________________________________________________________________________________________________________________________________________________
+
+
+Some interesting commentary found online -
+
+Subject: Davenport (Colonial Ballroom): Aug 11, 1968    Davenport (Colonial Ballroom): August 11, 1968 Icon_minitimeTue Jul 13, 2010 - 20:57	
+Davenport (Colonial Ballroom): August 11, 1968 
+3500 spectators approximately 
+
+Titles: 
+
+1. Are You Experienced 
+2. Lover Man 
+3. Foxy Lady 
+4. Red House 
+5. I Don't Live Today 
+6. Fire 
+
+Source: Vinyl “Davenport Iowa 68” 
+
+Certainly part of the concert is missing from the list of tracks in circulation, "Tax Free" is announced by Jimi at the end of "Lover Man" but not on the tape, and how can you imagine a concert without "Purple Haze"? Plug Your Ears and Just Ask The Axis only mention "Tax Free" as a missing track, as well as Eyewitness.
+
+Only one audio source for this concert is available (in stereo!), But no filmed document. The audio quality is fluctuating, ranging from quite correct to average, the vocals are indented on some songs but the sound of the guitar, on the other hand, is well reproduced. We can easily imagine that Jimi had to play very hard. 
+
+After a rather long and often apocalyptic intro, we begin with " Are You Experienced ", which had only been played until now in Dallas in February and in Chicago the day before. The first verses are very good, with a Jimi who seems to want to play. The solo is absolutely magical, played in two stages, very aggressive then very calm. What a capacity for improvisation! We recognize in its second part some quotes from "1983" and "Third Stone From The Sun", then a very good passage to the wha wha. Excellent version therefore, from all points of view, but unfortunately the end is cut off. 
+
+Jimi then explains to the audience why they don't play too loud, tunes in, and launches " Lover Man " which is, as everyone knows, a remake of "Rock Me Baby". As for the first song, Jimi's interpretation is very good, whether in rhythm, solo or vocals (better quality than in the previous song). The sound of the guitar is also still good and the rhythm ensures: Short version, fast, efficient. 
+
+Jimi thus announces " Tax Free " but it is " Foxy Lady ", dedicated to some of their girlfriends, which starts after an obvious cut. The audio quality of the vocals is poorer, and we don't hear Mitch's cymbals at all (as often unfortunately). Very good passages on the guitar, with a wild solo and an end a capella with the teeth. Jimi was in super great shape that night. 
+
+Jimi takes great care to hook up his guitar, as well as Noel, before starting " Red House ", with an intro as always tasty, with a slight wha wha. The guitar systematically responds to the vocals during the verses. We will note unusual series of notes during the solo which is like the beginning of the concert: magnificent. Jimi then creates a melody by hitting his strings with an object (drum stick?), But mysteriously stops playing after the second part of his solo (failing guitar?), And Mitch then embarks on an improvised solo. The applause of the public at the reappearance of Jimi indeed suggests that there has been a technical problem. The wha wha starts again, for once again an inspired solo. The song ends with the last verse sung and a very short ending. 
+
+Dedicated to the Indians of America, " I Don't Live Today " absolutely does not lower the level of the concert. The group is well established and gives us a superb second part of the song, with an acceleration at the end. 
+
+On the other hand, during " Fire ", with Noel at the backings, the group completely disperses at the beginning of the second verse, before recovering. The solo is super short and the end rushed. Jimi is no longer granted. A very messy version therefore, with some wrong notes at the end. Strange for a song that has already been played hundreds of times. 
+
+To conclude, a very good show, showing a very inspired Jimi in rhythm and lead. With a soundboard recording, it would surely have made a first rate live (except for "Fire", failure). It remains to be seen which tracks have not been released, as the soundtrack still hasn't surfaced, only a vinyl bootleg.
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+
+Davenport (Colonial Ballroom): August 11, 1968 Empty	
+MessageSubject: Re: Davenport (Colonial Ballroom): Aug 11, 1968    Davenport (Colonial Ballroom): August 11, 1968 Icon_minitimeMon Mar 28, 2011 - 9:36 am	
+Bob Carmody's testimony: 
+
+"The place was packed and the doors were opened to let people watch from outside. Kids were standing on the tables on the sides of the floor to watch this musical magician dazzle us with his remarkable gift of making the guitar an extension of his hands. A person couldn't air guitar that good, "he writes. 
+
+"We sat on the floor in the middle of the Col with our jaws dropped as Jimi played, and he even played a bit longer than he had planned, saying in an interview afterward, 'I didn't know the people in Iowa would dig me like they did. ' It was a night I'll never forget. " 
+
+Source: Quad-City Times
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+
+Goody's notes:
+The speed of the source ran extremely fast. Its pitch fluctuated between approx. 127 and 143 cents sharp! That is now corrected.  
+As noted, there were several unexplained cuts. "Tax Free", although announced in all existing editions that I know of, doesn't appear in any of them.
+There's obviously more to this set after "Fire", but that's where the bootleg ends. There may have been more somewhere in-between; maybe one day we'll know what that may have been. 
+Many thanks to 'Markum7' for sharing his vinyl rip with the community and for his initial cleanup work on it!
+My thanks also goes out to my left-hand man ethiessen1 whose great cover art package accompanies this edition, as well as for his help in compiling some of the additional info you've read here.
+Text updated - January 19, 2021
+

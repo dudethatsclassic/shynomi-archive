@@ -1,0 +1,62 @@
+KORN
+
+August 13, 2002
+Festival Paredes de Coura
+Praia Fluvial do Tabuão, Paredes de Coura, Portugal
+
+SETLIST: 
+----------------- 
+01) Here to Stay / Twist
+02) Good God
+03) A.D.I.D.A.S.
+04) Trash
+05) Dead Bodies Everywhere
+06) Blind
+07) Bottled Up Inside
+08) Divine
+09) Faget
+10) Falling Away From Me
+11) Make Me Bad (with snippets of Metallica's ")
+12) Freak on a Leash
+13) Somebody Someone
+14) Thoughtless
+15) Kill You
+16) Shoots and Ladders
+17) Got the Life
+
+
+DURATION: 
+----------------- 
+77M:17S
+
+GENERATION: 
+----------------- 
+MD(M) -> CDR(1) -> EAC -> WAV -> FLAC [Level 8] 
+
+
+NOTES:
+-----------------
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL! 
+
+MD5 Fingerprints:
+------------------
+34223ae71e7e32174fe8a4c1bad8c8e6 *EAC.log
+2c42c4f0eca406039aa2b4a3e5704b56 *INFO.txt
+7b28708365d2f96d7fd9bcc6fda79fd9 *KoRn - Paredes de Coura - 01. Track01.flac
+1fb0e58560b30b303f57c8a37da2db43 *KoRn - Paredes de Coura - 02. Track02.flac
+3f74388dcbf3e1a3fa94740e8fdbcf0b *KoRn - Paredes de Coura - 03. Track03.flac
+7fc0a47ec8fde1db19bd984fbe322a2a *KoRn - Paredes de Coura - 04. Track04.flac
+2fe60a93f5512df343078372d0ce55d8 *KoRn - Paredes de Coura - 05. Track05.flac
+eea26057229bc7d1a3937c2bfc8d3d4a *KoRn - Paredes de Coura - 06. Track06.flac
+3786c4a2e3306effa9a044993c0b4fd1 *KoRn - Paredes de Coura - 07. Track07.flac
+f8a1413f56f0fe2ae75390f54c2605eb *KoRn - Paredes de Coura - 08. Track08.flac
+1472c3d684a8909599b62cc044921510 *KoRn - Paredes de Coura - 09. Track09.flac
+28952477dce6b6936b570b154175899f *KoRn - Paredes de Coura - 10. Track10.flac
+f3718aab8dbfc1500cd7c6ae4a3eb123 *KoRn - Paredes de Coura - 11. Track11.flac
+2c4aaff560f1a6e53a5e126c10a3fab9 *KoRn - Paredes de Coura - 12. Track12.flac
+adee42bd7ed7c2fd1a206d33825f0f50 *KoRn - Paredes de Coura - 13. Track13.flac
+194285d2b2ebd7bab908c101ee8e0917 *KoRn - Paredes de Coura - 14. Track14.flac
+3a07a3f133044f9429daf3d45588ce57 *KoRn - Paredes de Coura - 15. Track15.flac
+10865670df9a78bafe44bd09498820b6 *KoRn - Paredes de Coura - 16. Track16.flac
+50ad3d939f3f1fd16004921e33ded4af *KoRn - Paredes de Coura - 17. Track17.flac

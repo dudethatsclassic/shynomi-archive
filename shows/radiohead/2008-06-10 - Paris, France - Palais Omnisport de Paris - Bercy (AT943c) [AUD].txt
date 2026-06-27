@@ -1,0 +1,100 @@
+Radiohead
+June 10, 2008 (Tuesday)
+Palais Omnisports de Paris-Bercy
+Paris, France
+
+
+
+
+
+Source: at943c > SPSB-2 (rolloff @ 16hz) > Edirol R-09 (16 bit/44.1 khz)
+Location:  FOB, center
+WAV > FLAC: Edirol R-09 > PC > Soundforge v8.0a > CD Wave v1.6 > FLAC Frontend v1.7.1 (level 8)
+Recorded and Transferred by: funkymunkey
+
+
+
+*****  Do not sell this recording and do not distribute in lossy formats (i.e. mp3's)*****
+
+
+
+Setlist:
+
+01.  intro
+02.  15 Step
+03.  Bodysnatchers 
+04.  All I Need
+05.  Airbag 
+06.  Nude 
+07.  Pyramid Song
+08.  Weird Fishes/Arpeggi
+09.  The Gloaming
+10.  Dollars and Cents 
+11.  Faust Arp
+12.  Videotape
+13.  Optimistic
+14.  Just
+15.  Reckoner 
+16.  Everything In Its Right Place
+17.  Fake Plastic Trees
+18.  Jigsaw Falling Into Place
+19.  crowd
+
+Encore1:
+20.  House of Cards
+21.  There There
+22.  Bangers and Mash 
+23.  The National Anthem (Hunting Bears outro)
+24.  How To Disappear Completely
+
+Encore2:
+25.  Super Collider*
+26.  You And Whose Army?
+27.  Karma Police 
+28.  Idioteque
+
+
+* Thom solo
+
+
+Notes:  
+
+Entire soundfile normalized to 0db, otherwise no other processing.
+
+Bat For Lashes opened.
+
+
+
+
+Compiled   13Jun2008
+
+
+.flac fingerprint:
+radiohead2008-06-10d1t01.flac:c8c0259c15de211dd7376cdf5b1f153c
+radiohead2008-06-10d1t02.flac:6f40f7e51e346eca385ed8f79c5f00bd
+radiohead2008-06-10d1t03.flac:e9cc7211891d64e56df1abe74950cbb5
+radiohead2008-06-10d1t04.flac:86b7ec380ce6ce3991ef0819797fa944
+radiohead2008-06-10d1t05.flac:ca5ea09573acb06905c0040f685b7e2d
+radiohead2008-06-10d1t06.flac:c1dedf2c9c84d498f9ce5c005d5b5708
+radiohead2008-06-10d1t07.flac:2a1dc2a9aa59bccc428794745aa9a305
+radiohead2008-06-10d1t08.flac:49890e8aefa37783e70727d8601c8487
+radiohead2008-06-10d1t09.flac:9eafe62f1988567875df344e08a49c46
+radiohead2008-06-10d1t10.flac:c4d442b73ebe32d3ee2b80c8c020dca2
+radiohead2008-06-10d1t11.flac:2ac9d558134c1d7e8762310358f5059e
+radiohead2008-06-10d1t12.flac:ad6b01ff74b4e32b40cb53f22512bcd1
+radiohead2008-06-10d1t13.flac:c3cbb57cd27e66846ac169ccb1084ab1
+radiohead2008-06-10d1t14.flac:c2f84113e14f9f89534363e2657ecfb3
+radiohead2008-06-10d1t15.flac:7734d8fa36ece477263d0f48b3acc1cf
+radiohead2008-06-10d2t16.flac:e7ad72dbdb81507412814afe08443128
+radiohead2008-06-10d2t17.flac:ee129bb5e32df337891f4cf8900c64db
+radiohead2008-06-10d2t18.flac:6092db60b6e524ac7ae1bfd3d26a52fd
+radiohead2008-06-10d2t19.flac:c9ffe00771639fc9f85faa6c85672ae9
+radiohead2008-06-10d2t20.flac:d897f34e31fab0e4e3d474d387897652
+radiohead2008-06-10d2t21.flac:0173868a09347ba460466d6dc9017c00
+radiohead2008-06-10d2t22.flac:5c2a41929a9cb920a0d88fe4f6844297
+radiohead2008-06-10d2t23.flac:4b09e91ee19992f298419f52936897d6
+radiohead2008-06-10d2t24.flac:8e2cf57835397f53e55e5ff664f947b8
+radiohead2008-06-10d2t25.flac:369ec1bd51b41836f37c69d560440a2c
+radiohead2008-06-10d2t26.flac:f15e7db489677604e6b27547a8dcb769
+radiohead2008-06-10d2t27.flac:64a311ad2bcc73486dbf84d41da2da60
+radiohead2008-06-10d2t28.flac:a1df072f1e2866709a4ff8b34a5ad4da

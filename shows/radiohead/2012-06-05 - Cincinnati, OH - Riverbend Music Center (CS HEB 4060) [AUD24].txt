@@ -1,0 +1,53 @@
+
+
+----------------------------------------------------------------
+	Artist:			Radiohead
+	Date:			June 05, 2012
+	Location:		Riverbend Music Center, Cinicinnati, OH
+	Taper:			JB
+	e-mail:			radioheadusa@comcast.net
+	DC++ screenname:	radiohead8989
+	Web:			http://home.comcast.net/~radioheadusa/
+	date of seeding:	June 07, 2012
+----------------------------------------------------------------
+	Source Info:		>Edirol R9 (24bit/48kHz) 
+				>Core Sound HEB (4060) (Bass Rolloff=ON) 
+				>CDWAVE 1.98
+				>FLAC (level 8)
+----------------------------------------------------------------
+	additional info:	Recorded from Section 600 Row P 
+----------------------------------------------------------------
+	running time:		2h:02m:47s
+----------------------------------------------------------------
+	Setlist:		01 Intro
+				02 Bloom
+				03 Airbag
+				04 Kid A
+				05 Bodysnatchers
+				06 Staircase
+				07 Codex
+				08 The Daily Mail
+				09 Myxomatosis
+				10 The Gloaming
+				11 Separator
+				12 Nude
+				13 Identikit
+				14 Lotus Flower
+				15 15 Step
+				16 Feral
+				17 Idioteque
+				18 Off-Stage
+				19 Morning Mr Magpie
+				20 These Are My Twisted Words
+				21 Subterranean Homesick Alien
+				22 After The Goldrush/Everything In It's Right Place
+				23 Off-stage
+				24 Give Up The Ghost
+				25 The National Anthem/Hunting Bears
+				26 Reckoner
+----------------------------------------------------------------
+Note:
+This is a 24bit / 48KHZ recording.  It cannot be burned to a cd, unless you convert it to 16bit / 44.1k first.
+The FLAC files were created using CD Wave 1.98, and they were tested using Media Monkey 3.1.0.1256.
+
+      

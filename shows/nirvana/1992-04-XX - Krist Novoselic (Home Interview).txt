@@ -1,0 +1,27 @@
+Krist Novoselic
+Home Interview
+04/03/92 04/05/92 VHS
+
+SOURCE (AMT #1):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S3912U > Canopus ADVC 100 > IEEE 1394 > VirtualDub > TMPGEnc Authoring Works 4
+
+GENERATION:
+VHS(x) > AVI [DV25] > M2V/WAV [NTSC/8Mbps CBR/48kHz AC3] > DVDR(0) [NTSC]
+
+LENGTH: 108:58
+
+NOTES: Audio is low do too how far away the cam is away
+audio is out of Sync on the second interview do to the ext mics used
+
+Fixed: Audio is now in Sync and low audio has been fixed
+
+TRANSFERRED BY: TIM COLBERT
+
+THANKS TO: Alex Leon for sharing the tape
+
+
+
+PLEASE DO NOT SELL OR ENCODE TO ANY OTHER FORMAT

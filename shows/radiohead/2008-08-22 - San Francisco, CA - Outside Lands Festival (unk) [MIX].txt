@@ -1,0 +1,113 @@
+Radiohead
+August 22nd, 2008
+Outside Lands Festival
+San Francisco, CA
+
+Soundboard with patches and some repairs/edits.
+
+01 - Intro/15 Step
+02 - Reckoner
+03 - Airbag
+04 - There There
+05 - All I Need*
+06 - Nude
+07 - Talk Show Host 
+08 - The National Anthem
+09 - The Gloaming
+10 - Videotape
+11 - Weird Fishes/Arpeggi
+12 - Idioteque
+13 - Karma Police
+14 - Jigsaw Falling Into Place
+15 - Just
+16 - Exit Music (For A Film)
+17 - Bodysnatchers*
+18 - Pyramid Song
+19 - You And Whose Army?
+20 - Paranoid Android
+21 - Fake Plastic Trees
+22 - Everything In Its Right Place
+
+* Have sections missing from the SBD source which have been patched from the sources listed below.
+
+My initial intension was just to patch the two missing sections, but I like this show a great deal and while I was working on those tracks, I noticed some minor issues which I felt I could improve. At that point I decided to spend a little time on the edit, and then to share it rather than just doing the patches for myself.
+
+The majority of this edit has been taken from the Soundboard source, with the patches from other sources detailed below.
+
+The other sources are still being seeded, so there are various options for you to choose from.
+
+A huge 'Thank You' to RandyBayers, Wilson66 for sharing versions of this show and Indykid for the Santa Barbara Bowl performance, from which a couple of patches are taken.
+
+Edit.
+All music, talking and sound from the stage is included, but some clicks have been removed.
+Some of the extended breaks between tracks have been reduced, as have the encore breaks.
+There have been edits to correct some (slight) jumps in the levels in the audience sounds.
+
+Some of the quiet tracks, Nude, Exit Music (For A Film), Pyramid Song, Fake Plastic Trees have had their volume increased, although only slightly as it would lift the hum on the source as well if done too much.
+
+No 'Normalization' was applied during the edit, with volume and fades used to control levels.
+
+The edit was done in Soundforge 17.
+
+All I Need*
+
+During this track both the P.A. and soundboard both dropped out, although not at exactly the same time.
+The main version has the centre section (around 68 seconds) patched from Santa Barbara Bowl, performed 6 days later. The performance is incredibly similar and matches in very well (in my opinion). The cross fades were made at points where the music disguised the change in character of the sound. Some EQ was applied to the Santa Barbara source to help it match.
+
+There is also a folder with a patch for this section using the audience source. There was some sound from the stage that can be heard (stage monitor amps I presume) and after about 30 seconds the audience start singing along, before the P.A. returns. The volume from the audience recording has been boosted a great deal.
+
+While the audience patch is interesting, the performance of 'All I Need' is lovely, and the webcast patch prevents this being marred by the P.A. dropout.
+
+Here is a link to an image of waveforms for the left channel.
+https://www.jamielochhead.co.uk/jpegs/rhead/SanFrancisco%202008%20Waveforms.jpg
+
+Bodysnatchers*
+
+The soundboard recording fades out quickly at around 2.30 minutes in the music, at the line 'Follow you like a child'. In the main version this is again patched from the Santa Barbara recording until the end of the song. Thom Yorke sings the lines very quickly, and although the music matches well, the 'Follow you like a child' line is slightly doubled at the start, but I don't think it distracts from the edit.
+
+The Audience Patch folder also has a version where the end section is patched from the audience source. The premature end of the soundboard source was not due to any issues with the P.A, this patch works much better, but is again not as clear as the Santa Barbara source.
+
+Burning to CD.
+
+I would recommend putting tracks 1-15 on disc 1, with a fade added at the end of 15-‘Just’, and 16-22 on disc 2. 16 – ‘Exit Music (For A Film)’ doesn't need a fade in at the start as it is very quiet and seems to work fine to start a second disc.
+
+
+Lineage for the source torrents.
+
+http://www.dimeadozen.org/torrents-details.php?id=561922
+SBD > ??? > .wav > .flac (24/48) > WAV > dither from 24bit to 16bit > FLAC (16/44)
+
+http://www.dimeadozen.org/torrents-details.php?id=804330
+Neumann KM140s > Sound Devices MP2 > Edirol R09 (24/48) > WAV >
+Adobe Audition (24/48 > 16/44) > CD Wave > FLAC16
+
+Soundboard/webcast patches from:
+http://www.dimeadozen.org/torrents-details.php?id=708347
+Santa Barbara Bowl, Santa Barbara, CA, August 28, 2008 
+Audio: AAC 128 Kbps 44.1 KHz stereo (lossy).
+
+Lineage for the edit.
+
+Outside Lands Festival, both sources  - Flac files loaded directly in to Soundforge 17.
+Santa Barbara Bowl - video '.ts' file > Abobe Media Encoder > wav
+Soundforge (edit and tracking) > wav > Flac (level 8, verified)
+
+
+Artwork.
+
+I made an artwork for this show a couple of years ago, which can be found at:
+
+https://www.jamielochhead.co.uk/rhol1.html
+
+There are CD inserts and a 300x300 pixel minipic for digital tagging.
+
+There is also a desktop background of the artwork:
+
+https://www.jamielochhead.co.uk/rhsc3.html
+
+It is one of my favourite Radiohead artworks I have made, based on a scan of some of my old negatives. I am not sure what the source image is of, possibly towers from a power station, and the back image is  taken from the net of snow mounds (snowmen) with torches to give them eyes. I like working in the style of Thom Yorke and Stanley Donwood’s artworks, not copying them, but doing something that feels similar.
+
+Other artworks and desktop backgrounds , including a few Radiohead ones,  can be found at:
+https://www.jamielochhead.co.uk/browse1.htm
+
+Hope you enjoy this.

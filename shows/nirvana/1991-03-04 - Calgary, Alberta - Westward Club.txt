@@ -1,0 +1,66 @@
+NIRVANA
+March 4, 1991
+Westward Club
+Calgary, AB, CAN
+
+SOURCE (AUD #1):
+built-in > unknown
+
+TRANSFER:
+unknown transfer > GarageBand > unknown transfer to CD > Apple SuperDrive > XLD 20250302 (157.2) > Adobe Audition 23.2 > xACT 2.57
+
+GENERATION:
+ANA(X) > CDR(X) > FLAC
+
+DURATION:
+46:18
+
+NOTES:
+- All circulating copies are remastered.
+- Occasional static can be heard throughout the recording, as well as some dropouts.
+- Most of the banter in between songs is cut.
+- Speed corrected to 98.85%, +0.2 semitones.
+
+TRACKS:
+01. Love Buzz [cuts within]
+02. Sliver [cuts in]
+03. Dive
+04. Floyd the Barber
+05. Breed [slightly cuts in] ->
+06. Scoff
+07. About a Girl [cuts in]
+08. School
+09. Swap Meet [cuts in]
+10. Been a Son
+11. Negative Creep
+12. Blew [cuts in and within]
+13. Lithium [cuts in]
+14. Molly's Lips [slightly cuts in]
+15. Territorial Pissings [cuts in]
+16. Spank Thru [cuts in]
+17. Mr. Moustache [cuts out]
+
+MD5 CHECKSUM:
+f1f31709fd2b911b8db745308df02ef7 *nirvana1991-03-04_AUD1_t01.flac
+b1026e1a3cfd9192062d1789dcab37c9 *nirvana1991-03-04_AUD1_t02.flac
+b0b87b89c7a5ddc5cdab42e16e3e24ae *nirvana1991-03-04_AUD1_t03.flac
+d777d72bb0f4e20c65123f7196eecb63 *nirvana1991-03-04_AUD1_t04.flac
+8e830f9101b74b4c0255554552da4fc4 *nirvana1991-03-04_AUD1_t05.flac
+5a1773197a2672f6efa8a5ecb19c01fe *nirvana1991-03-04_AUD1_t06.flac
+028774a5206cbc0cdab2c480afd35746 *nirvana1991-03-04_AUD1_t07.flac
+724c59604913efc97a1538f7f73628a6 *nirvana1991-03-04_AUD1_t08.flac
+b34785d5ba374085fc54b7881377c0d5 *nirvana1991-03-04_AUD1_t09.flac
+c13cdd41a6dfadc4d2879c0b706893d8 *nirvana1991-03-04_AUD1_t10.flac
+86ca53cc2ef74da6ed6d806f925124d2 *nirvana1991-03-04_AUD1_t11.flac
+8e59272e04bdf8731a88e17e9ca2788a *nirvana1991-03-04_AUD1_t12.flac
+571ee392209136c387fbc4f175f8eaea *nirvana1991-03-04_AUD1_t13.flac
+9683e07efc6254e11bff9c1c7e1b0483 *nirvana1991-03-04_AUD1_t14.flac
+18c02eed1877912d117fc299927152ce *nirvana1991-03-04_AUD1_t15.flac
+26a3889f14cf9ca97449c409e37e0a86 *nirvana1991-03-04_AUD1_t16.flac
+0d85e8170864c154ca8308f855e79500 *nirvana1991-03-04_AUD1_t17.flac
+
+DISTRIBUTION:
+Mike Jenkins and members of LiveNIRVANA.com
+2025-06-13
+
+PLEASE DO NOT SELL OR ENCODE TO LOSSY FORMATS

@@ -1,0 +1,94 @@
+Radiohead
+05/01/2004
+Coachella Music Festival
+Indio, CA
+
+Set 1:
+there there 
+2 + 2 = 5 
+lucky 
+myxomatosis 
+my iron lung 
+exit music (for a film) 
+the gloaming 
+karma police 
+sail to the moon 
+i might be wrong 
+sit down. stand up. 
+no surprises 
+the national anthem 
+paranoid android 
+idioteque 
+street spirit (fade out) 
+
+Encore:
+you and whose army? 
+planet telex 
+creep 
+everything in its right place 
+
+Notes:
+
+
+Source:
+FOB RoC Schoeps MK41 > KC5 > CMC6XT > Aeta PSP-3 > 1/8" > Creative Labs Nomad Jukebox 3 (16/48Khz)
+
+Source Notes: 
+Ran in Hat mics spaced 7.5” pointed slightly inward; ran 50’ from stage – 20’ RoC (Walkway with security in middle prevented me from getting any closer to middle)
+
+Transfer:
+Creative Labs Nomad Jukebox 3 > Firewire > PC
+
+Mastering:
+Wavelab 4 - swap channels, normalize to 0db, Resample 48Khz > 44.1Khz
+CD-Wave - Tracking
+FLAC 1.1.0 (Frontend) Encoding
+
+
+FLAC fingerprint:
+f26fb2b34510662352b78b8cfd12ff05 : rh2004-05-01s1p00-1644.flac
+9081f30170d8b3075fe5adebf2b37fea : rh2004-05-01s1p01-1644.flac
+640dc34cb4becc98233a64aa553d4094 : rh2004-05-01s1p02-1644.flac
+81013a6dd405b66013c10d33680e1a42 : rh2004-05-01s1p03-1644.flac
+1ea7a25abca32f2336952069788d76a5 : rh2004-05-01s1p04-1644.flac
+345106d6b15366ef28615889f27759ac : rh2004-05-01s1p05-1644.flac
+76cc4cb0fc505553f55f48003f3ffd8c : rh2004-05-01s1p06-1644.flac
+2a8a459da005ee4ab5576b58a53a6c5e : rh2004-05-01s1p07-1644.flac
+00a5e8bb9378866fafac38ee7e1a0d03 : rh2004-05-01s1p08-1644.flac
+76299c1228ccdba3af5aac53d2dac64b : rh2004-05-01s1p09-1644.flac
+3d24a5aaeff302077f77bd6d5e12b864 : rh2004-05-01s1p10-1644.flac
+d6f42af50745593dbc089f3ecb279d5e : rh2004-05-01s1p11-1644.flac
+6e02c9cbb612863262085edfb04a0359 : rh2004-05-01s1p12-1644.flac
+70d429cdb3d8ae922a0889699f066c66 : rh2004-05-01s1p13-1644.flac
+bb08c52b8e5595901d51bc9c81390603 : rh2004-05-01s1p14-1644.flac
+f68aeb2fb7ba53746e1b5ed1bbfb0913 : rh2004-05-01s1p15-1644.flac
+ed34491559a8b7cedb08b30358ee6c7c : rh2004-05-01s1p16-1644.flac
+5275150ddd19220f2aede6c5b1704279 : rh2004-05-01s1p17-1644.flac
+3d6efdde92125900a66dc1cbde1a7773 : rh2004-05-01s1p18e1-1644.flac
+34a1aa37eb206098119e6e27abf1e69a : rh2004-05-01s1p19e1-1644.flac
+fe46a984d8b911c2e7b08fab5f437700 : rh2004-05-01s1p20e1-1644.flac
+cf2194746e2af15693e486faf0685775 : rh2004-05-01s1p21e1-1644.flac
+
+FLAC md5sum:
+1a602fe476133098f53283c4d00a6af7 *rh2004-05-01s1p00-1644.flac
+9db1b0d9ce497906353be2a2c99e2242 *rh2004-05-01s1p01-1644.flac
+66110dc4a5d04bb4f2e019e2e71e2de5 *rh2004-05-01s1p02-1644.flac
+921fb7a5a78e9e8b1b6a5da15c4423c1 *rh2004-05-01s1p03-1644.flac
+853c7533433ac9761998bea636150883 *rh2004-05-01s1p04-1644.flac
+e0f0282f109195b856c4ef230aa77862 *rh2004-05-01s1p05-1644.flac
+fd76c2cda725f9abdd0eeb4b858cedcc *rh2004-05-01s1p06-1644.flac
+4e61792ab690544e52b27aa80b57b8a7 *rh2004-05-01s1p07-1644.flac
+3012917e7ffad28eae46ce25a7440877 *rh2004-05-01s1p08-1644.flac
+70026b518889e0aa1036e13c4ca5c940 *rh2004-05-01s1p09-1644.flac
+afe2812a6cde2f2dabe631e923b0138e *rh2004-05-01s1p10-1644.flac
+aeebc94dde50a3282350751d158426ef *rh2004-05-01s1p11-1644.flac
+f66c64b0aaa1249919c40c61f53a55a2 *rh2004-05-01s1p12-1644.flac
+18caebb9f49e60b0e83b2cb1197e496b *rh2004-05-01s1p13-1644.flac
+29de5dcf95521d716fedd157d8010986 *rh2004-05-01s1p14-1644.flac
+59a8af670efb84aa86e46f7bcc292832 *rh2004-05-01s1p15-1644.flac
+b48544a21c506172876a827718389805 *rh2004-05-01s1p16-1644.flac
+940e7cc1d7bc55c1610db0e5c1d54266 *rh2004-05-01s1p17-1644.flac
+fb5647b25b79f18fad6083e87db3295f *rh2004-05-01s1p18e1-1644.flac
+4ebe6f5aeba2673d25126ecdaf6ebe7e *rh2004-05-01s1p19e1-1644.flac
+33eb3b78357b1bf7178e40bcc8e92aac *rh2004-05-01s1p20e1-1644.flac
+7304c1c5f7767c073a14075658f5bc0f *rh2004-05-01s1p21e1-1644.flac

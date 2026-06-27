@@ -1,0 +1,78 @@
+NIRVANA
+February 10, 1994
+Palais des Sports
+Toulouse, France
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Aiwa NSX-S898 > Realtek AC '97 > GoldWave v5.06 > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+82:51
+
+NOTES:
+- Tape was transferred at a very high volume level, so the sound is overdriven.
+- Starts off running fast, but slows down to the correct speed as the show goes on.
+- Has some dropouts from the source tape.
+
+TRACKS (DISC 1):
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. Come As You Are
+06. Smells Like Teen Spirit
+07. Sliver
+08. Dumb
+09. In Bloom
+10. About A Girl
+11. Lithium
+12. Pennyroyal Tea
+13. School
+
+TRACKS (DISC 2):
+01. Polly
+02. Very Ape
+03. Lounge Act
+04. Rape Me
+05. Territorial Pissings
+06. Jesus Wants Me For A Sunbeam
+07. All Apologies
+08. On A Plain
+09. Scentless Apprentice
+10. Heart-Shaped Box
+
+MD5 FINGERPRINTS:
+c1fe42951bc80680f400a08a8544e694 *Nirvana_1994-02-10_AUD1_d1t01.flac
+107a0407b93c02da61c8a493c8f0b0bc *Nirvana_1994-02-10_AUD1_d1t02.flac
+1c38a4a61b6df19ea1059bb5a5f0171a *Nirvana_1994-02-10_AUD1_d1t03.flac
+ebf1a5b02ef6b160658b24cebeb1c9d2 *Nirvana_1994-02-10_AUD1_d1t04.flac
+423dfd5960fd34b418b1d0b5b87b0db7 *Nirvana_1994-02-10_AUD1_d1t05.flac
+70a80b85f9c1325089d1d3361a4b61bf *Nirvana_1994-02-10_AUD1_d1t06.flac
+4122a55a441fad5da5d1f1839e80c4dc *Nirvana_1994-02-10_AUD1_d1t07.flac
+d3f2c5399f20d0c714a90cdc086393d2 *Nirvana_1994-02-10_AUD1_d1t08.flac
+5d16059888b159c18ebbb6c2e9a8928d *Nirvana_1994-02-10_AUD1_d1t09.flac
+ac3f5e5fc5262aff12eeb100c64cb530 *Nirvana_1994-02-10_AUD1_d1t10.flac
+248b00234ed28fc1592a9acf20d4c0fa *Nirvana_1994-02-10_AUD1_d1t11.flac
+7b7a77d917666ee515fe1a93cc8ede8f *Nirvana_1994-02-10_AUD1_d1t12.flac
+3f10393eb6d67cfba5d476d13fca1ea7 *Nirvana_1994-02-10_AUD1_d1t13.flac
+4e3a15cbb65f5ec31167754a20224cae *Nirvana_1994-02-10_AUD1_d2t01.flac
+570622234a0f0caa836f8f6891491435 *Nirvana_1994-02-10_AUD1_d2t02.flac
+4557d317cfe85018b190a33f88b478bf *Nirvana_1994-02-10_AUD1_d2t03.flac
+4dfcb440007c3564d2198f73dbe02c3c *Nirvana_1994-02-10_AUD1_d2t04.flac
+764877ce3a853a7184336c2faf84f9a2 *Nirvana_1994-02-10_AUD1_d2t05.flac
+22a94784e2f698eec19486acdfb3ac4a *Nirvana_1994-02-10_AUD1_d2t06.flac
+cf505bf74741e32b98ffe26a8db872f7 *Nirvana_1994-02-10_AUD1_d2t07.flac
+9f3278501153fcdf771837e39d650dd1 *Nirvana_1994-02-10_AUD1_d2t08.flac
+7e49471981c98f8e5a8f2141832d2d30 *Nirvana_1994-02-10_AUD1_d2t09.flac
+b05ba8cffbedf4223f0610c8e51ad261 *Nirvana_1994-02-10_AUD1_d2t10.flac
+
+TRANSFERRED BY:
+Jonathan Traverse
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

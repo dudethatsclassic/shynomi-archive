@@ -1,0 +1,96 @@
+Limp Bizkit
+Finsbury Park, London, England
+September 6, 2003
+
+Fred Durst - Vocals
+Wes Borland - Guitar
+John Otto - Drums
+Sam Rivers - Bass
+
+TV Broadcast PROSHOT
+Lineage unknown
+
+01 - Eat You Alive
+02 - Hot Dog
+03 - My Generation
+04 - Break Stuff
+05 - My Way
+06 - Theives (Ministry cover)
+07 - Underneath the Gun
+08 - Nookie
+09 - Behind Blue Eyes (The Who cover)
+10 - Take a Look Around
+11 - Full Nelson
+12 - Nevermind (Live premiere)
+13 - Faith (George Michael cover)
+
+bc0db7238a42b690c45fa2378eed50e6 *VIDEO_TS/VIDEO_TS.BUP
+bc0db7238a42b690c45fa2378eed50e6 *VIDEO_TS/VIDEO_TS.IFO
+c05eeffc6f50367aaf38647a6462d324 *VIDEO_TS/VIDEO_TS.VOB
+d925aff9baca47d9cf542d15906f3bf2 *VIDEO_TS/VTS_01_0.BUP
+d925aff9baca47d9cf542d15906f3bf2 *VIDEO_TS/VTS_01_0.IFO
+91b9473e2e35f526884e54e26ae370fd *VIDEO_TS/VTS_01_0.VOB
+f5816f94bbd5a5815cc24de53d8dfb48 *VIDEO_TS/VTS_01_1.VOB
+634a4af3eecd5e3b6a61ea14fa396662 *VIDEO_TS/VTS_01_2.VOB
+5901ac30e7282b6eb76ba32aaa150c98 *VIDEO_TS/VTS_01_3.VOB
+07b89ae28c8ea40c92984e258dd6431e *VIDEO_TS/VTS_01_4.VOB
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=12
+Format settings, picture structure       : Frame
+Duration                                 : 22 min 34 s
+Bit rate mode                            : Variable
+Bit rate                                 : 4 177 kb/s
+Maximum bit rate                         : 9 800 kb/s
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 25.000 FPS
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Bottom Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.403
+Time code of first frame                 : 01:35:10:00
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Closed
+Stream size                              : 674 MiB (94%)
+Color primaries                          : BT.601 PAL
+Transfer characteristics                 : BT.470 System B/G
+Matrix coefficients                      : BT.470 System B/G
+
+Audio
+ID                                       : 189 (0xBD)-128 (0x80)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Muxing mode                              : DVD-Video
+Duration                                 : 22 min 34 s
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : -112 ms
+Stream size                              : 31.0 MiB (4%)
+Service kind                             : Complete Main
+Dialog Normalization                     : -27 dB
+compr                                    : -8.16 dB
+dynrng                                   : 5.60 dB
+mixlevel                                 : 285 dB
+roomtyp                                  : Small
+dialnorm_Average                         : -27 dB
+dialnorm_Minimum                         : -27 dB
+dialnorm_Maximum                         : -27 dB

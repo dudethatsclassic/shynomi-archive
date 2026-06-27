@@ -1,0 +1,39 @@
+Jimi Hendrix Experience 
+Venue: Gaumont Cinema, Ipswich, UK
+Saturday 1 April 1967
+8:37 minutes
+B&W
+NTSC
+Filmed for the French tv show "Bouton Rouge".
+First broadcast: 21 May 1967, "Bouton Rouge" (Piece 6547), France
+
+Setlist:
+1. Purple Haze (complete)
+2. Wild Thing (complete)
+
+"I wish they'd had electric guitars in cotton fields back in the good old days.
+A whole lot of things would've been straightened out." -Jimi Hendrix 
+
+
+--- File Information ---
+File Name: VTS_01_1.VOB
+File Size (in bytes): 196,413,440
+Duration (hh:mm:ss): 8:31.917
+
+
+--- Video Information ---
+Video Codec Name: MPEG-2
+Frame Size (W x H): 352 x 480 (Aspect Ratio: 1.333)
+Frames Per Second: 29.970
+Video Bitrate (kbps): 2866 kbps 
+Bits per Pixel: 0.566 bpp 
+Broadcast standard: NTSC
+
+ba791ad2bf0ed07d877f047394342f9f *VIDEO_TS\VIDEO_TS.BUP
+ba791ad2bf0ed07d877f047394342f9f *VIDEO_TS\VIDEO_TS.IFO
+2b1655f00f98ce47fbce404c6690a439 *VIDEO_TS\VIDEO_TS.VOB
+692845bdb1547c8c8ca7f4d9518bdcca *VIDEO_TS\VTS_01_0.BUP
+692845bdb1547c8c8ca7f4d9518bdcca *VIDEO_TS\VTS_01_0.IFO
+cde37f278a67c780ab158bee040a034f *VIDEO_TS\VTS_01_1.VOB
+
+No errors occured.

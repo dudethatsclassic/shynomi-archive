@@ -1,0 +1,56 @@
+Radiohead
+3rd August 1995
+Spektrum
+Oslo, Norway
+
+SETLIST (43:58)
+---------------
+01. Bones
+02. Anyone Can Play Guitar
+03. High and Dry
+04. Creep
+05. My Iron Lung
+06. Bullet Proof... I Wish I Was
+07. Street Spirit (Fade Out)
+08. Lucky
+09. Just
+10. Fake Plastic Trees
+
+
+GENERATION
+----------
+ANA2->FLAC
+
+
+SOURCE
+------
+unknown mics->unknown recorder->DAT(M)->ANA(2)
+
+
+TRANSFER
+--------
+ANA(2)>Yamaha KX-393>M-Audio Audiophile 2496>WAV(96kHz/32bit)>CEP 2.1(tape flip edit/normalise/fades/resample @ 44.1kHz 16-bit)>CDWave(splits)>foobar2000>FLAC
+
+
+NOTES
+-----
+Solid support set for REM.  A little boomy/echoey, and there's some talking on occasion, but nothing major.
+
+
+FLAC FINGERPRINTS
+-----------------
+RH-1995-AUG-03-t01.flac:4f10446f157643b09d48aa0b8161306b
+RH-1995-AUG-03-t02.flac:f6eeb2a82968a53de3b2963c818d003c
+RH-1995-AUG-03-t03.flac:fdd004db9d74b6b8ee39b99db17d8622
+RH-1995-AUG-03-t04.flac:cdb2785e98d4095c11ff1be9b31bae6e
+RH-1995-AUG-03-t05.flac:1b5a585c338bcedbb7ccb3a24ca2eec3
+RH-1995-AUG-03-t06.flac:004fb049938cbaff43e1e2123d4071f4
+RH-1995-AUG-03-t07.flac:f09760ece7dc6b5418fd141a37c9ca07
+RH-1995-AUG-03-t08.flac:4fb1460ea2644cd6768d0b2ffe803f32
+RH-1995-AUG-03-t09.flac:2c4c5c9031dec4656c8d6005ada3e2f2
+RH-1995-AUG-03-t10.flac:fb01ec3ba88f85d43886f8bbf8c49055
+
+
+Transferred by: Gary Watson (gazpachio@gmail.com)
+
+PLEASE DO NOT SELL OR DISTRIBUTE IN LOSSY FORMATS!

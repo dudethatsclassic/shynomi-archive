@@ -1,0 +1,69 @@
+Radiohead
+June 24, 2006
+The Hearst Greek Theater
+Berkeley, California
+
+Source:  DPA4061>MMA6000>iriver h120 (rockbox)>usb>pc
+Location:  DFC 5 rows behind soundboard
+Editing:  CEP 2.0 (knocked out clapper's peaks with short bursts of normalizing, normalized the whole thing to 0 db and faded)>cd wave (tracking)>flac
+Taper/Editor:  formengr
+Total Run time:  2:04:06
+
+01 Intro
+02 Airbag
+03 2+2=5
+04 Where I End And You Begin
+05 15 Step
+06 Kid A
+07 Dollars And Cents
+08 Down Is The New Up [with long jam at the end]
+09 Nude (false start)
+10 Nude
+11 Paranoid Android
+12 No Surprises
+13 The Gloaming
+14 All I Need
+15 Climbing Up The Walls
+16 Burn The Witch (tease from Thom)** 
+17 Go Slowly
+18 Myxomatosis
+19 Bangers 'N Mash
+20 How To Disappear Completely
+-- encore 1
+21 crowd
+22 Fake Plastic Trees
+23 Arpeggi
+24 Black Star
+25 True Love Waits (as intro to EIIRP)
+26 Everything In Its Right Place 
+-- encore 2
+27 crowd
+28 Bodysnatchers
+29 The Tourist
+
+**  The Hearst Greek Theater is an outdoor amphitheater.  During the Soundcheck they
+played an as yet unperferformed song assumed to be Burn The Witch.  This little tease
+is the same song played during the sound check.
+
+Unfortunately (for you) due to the fans having a good time and applauding (where they 
+should),I had to do a bit of editing to remove their peaks.  The whole recording was 
+then normalized to +0db.
+
+Thanks to mondraryfields for the use of his premap and mics!  Radiohead fans are truly 
+the best (mostly)!
+
+Please don't trade lossy versions of these files because you screw up the trade pool.
+
+Share the show freely, but never profit from it. If you know someone who does, curse them and 
+their progeny. If you see this show for sale on ebay, please report the seller to 
+ebay and paypal (thanks speshuled):
+
+https://www.paypal.com/wf/f=pps_prohib
+http://pages.ebay.com/help/policies/unauthorized-copies.html
+http://pages.ebay.com/help/policies/rfe-previously-suspended.html
+
+with nothin' but love, form 
+
+the radiohead hub:  www.radiohub.net
+
+Hail To The Thieves!

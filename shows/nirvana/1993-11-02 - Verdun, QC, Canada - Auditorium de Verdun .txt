@@ -1,0 +1,76 @@
+NIRVANA
+November 2, 1993
+Auditorium de Verdun
+Verdun, QC, Canada
+
+DISC #1/2 (43:35)
+-----------------
+01) intro
+02) Radio Friendly Unit Shifter
+03) Drain You
+04) Breed
+05) Serve The Servants
+06) About A Girl
+07) Heart-Shaped Box
+08) Sliver
+09) Dumb
+10) In Bloom
+11) Come As You Are
+12) Lithium
+
+DISC #2/2 (42:57)
+-----------------
+01) Pennyroyal Tea
+02) School
+03) Polly
+04) Milk It
+05) Rape Me
+06) Territorial Pissings
+07) Smells Like Teen Spirit (cut)
+08) All Apologies
+09) On A Plain
+10) Scentless Apprentice
+11) Blew
+
+GENERATION
+-----------------
+8MM(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1)
+-----------------
+unknown -> Memorex
+
+TRANSFER
+-----------------
+unknown -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+2eb15fdb3be1f9cc27b55c44f866b9d1 *nirvana1993-11-02d1t01.flac
+f70dc1d2a3fd03e36d31bad92211203f *nirvana1993-11-02d1t02.flac
+d259fec3c5191dd27e628937f82d0220 *nirvana1993-11-02d1t03.flac
+bc1c612d7b06100b81b447d9334f85a8 *nirvana1993-11-02d1t04.flac
+77ea000ad2d860fc740bafe32b11bc19 *nirvana1993-11-02d1t05.flac
+6f5d822030cb544cb9974f58ae7d7693 *nirvana1993-11-02d1t06.flac
+87c8b4c813dea0bf6cd76ee49acea1f3 *nirvana1993-11-02d1t07.flac
+a949bd1180ee33674217fcfc004f4ced *nirvana1993-11-02d1t08.flac
+c479e849045b76c27804eb8100fd1182 *nirvana1993-11-02d1t09.flac
+8f0028dd9b40125e19620f56e763ba74 *nirvana1993-11-02d1t10.flac
+31149da4fe10980a4cb091ff6a72c45d *nirvana1993-11-02d1t11.flac
+6ef9d12a1bed6ca7698fd0ade9dba720 *nirvana1993-11-02d1t12.flac
+1662adfe964243247e607529022ada57 *nirvana1993-11-02d2t01.flac
+256c14f264aaceb747ae21296ca0df3f *nirvana1993-11-02d2t02.flac
+607d5b32f4d8088e00b1964ede3163da *nirvana1993-11-02d2t03.flac
+f92a11ddffc1bd918c97ebae279324f3 *nirvana1993-11-02d2t04.flac
+97afdc3b332f16a54ec8d3f8324bd744 *nirvana1993-11-02d2t05.flac
+4c8b93ca0cf10d713f26c0ed2d25bd9a *nirvana1993-11-02d2t06.flac
+dc0633133d3f2a2e7f7a5d61000ff8ae *nirvana1993-11-02d2t07.flac
+3ca1897aac9364bdc23237a207eed9f0 *nirvana1993-11-02d2t08.flac
+c9d2705c20a3c585337d52581258a54f *nirvana1993-11-02d2t09.flac
+82d4a1f84d827d625cbf01a26dffdad1 *nirvana1993-11-02d2t10.flac
+78a55d58c57af780242084e11f11e86b *nirvana1993-11-02d2t11.flac
+
+
+Transferred by Hugo Leveille.
+Tracking and normalization by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

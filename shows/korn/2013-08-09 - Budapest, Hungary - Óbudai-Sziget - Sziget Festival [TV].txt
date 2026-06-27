@@ -1,0 +1,12 @@
+Korn
+2013-08-09 Óbudai-Sziget, Budapest, Hungary (Sziget Festival)
+
+Audio Codec: MPEG Audio
+Audio Bitrate: 128 kb/s
+Video Bitrate: 2696 kb/s
+Video Resolution: 1280x720
+
+Setlist:
+[Unknown setlist]
+
+Lineage: HDTV rip

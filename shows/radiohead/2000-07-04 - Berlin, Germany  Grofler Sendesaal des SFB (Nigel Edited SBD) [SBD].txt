@@ -1,0 +1,63 @@
+RADIOHEAD
+2000-07-04
+Großer Sendesaal des SFB
+Berlin, Germany
+
+=============
+FIXED VERSION
+=============
+
+audio patching and artwork by ridleybradout
+
+
+
+This is quite possibly the best Radiohead bootleg ever. Rumoured to be professionally mixed by none other than
+Nigel Godrich himself, it sounds as good if not better than the 'I Might Be Wrong' EP, but with a much more 
+comprehensive tracklist that features many expertly played versions of then unreleased Kid A/Amnesiac songs
+and rarities such as Bishop's Robes and Nice Dream.
+
+It always frustrated me that such a pristine recording had micro-glitches between tracks, not to mention several
+annoying fade-in/outs. I took it upon myself to manually fix these and patch over the fades so that it now
+plays as a continuous listen.
+
+I've also put together some artwork that sits nicely next to that done for Nijmegen 2000-09-16 by Ben Z:
+http://www.angelfire.com/nb/cykwan/radioheadboota.html
+
+I used the .shn archived 'Satellite (pre-FM)' source for this (which checked out as 100% CDDA in auCDtect) rather
+than the 'Revolves Around' source at http://www.dimeadozen.org/torrents-details.php?id=370026 which I found to be 
+virtually identical but with longer gaps. I did adopt the disc split option of the latter source as I thought it
+sounded more suitable.
+
+
+SOURCE: Satellite (PRE-FM) > DAT > CD-R > SHN > WAV > Nero Wave Editor/Soundtrax for patching > FLAC
+
+
+TRACKLIST:
+
+Disc 1
+
+01 Optimistic
+02 Morning Bell
+03 Karma Police
+04 The National Anthem
+05 In Limbo
+06 No Surprises
+07 My Iron Lung
+08 Dollars And Cents
+09 Bishop's Robes
+10 Talk Show Host
+11 Kid A
+
+Disc 2
+
+01 You And Whose Army?
+02 Airbag
+03 Lucky
+04 How To Disappear Completely
+05 Paranoid Android
+06 Everything In Its Right Place
+07 Pyramid Song
+08 Exit Music (For A Film)
+08 Knives Out
+10 Nude (Tease)
+11 (Nice Dream)

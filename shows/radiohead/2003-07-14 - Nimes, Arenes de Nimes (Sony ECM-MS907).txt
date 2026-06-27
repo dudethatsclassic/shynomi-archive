@@ -1,0 +1,47 @@
+Radiohead
+Arenes de Nimes
+14 juillet 2003
+
+CD1
+01-Where bluebirds fly
+02-There there
+03-2+2=5
+04-Lucky
+05-Talk show host
+06-Scatterbrain
+07-The national anthem
+08-Backdrift
+09-Sail to the moon
+10-Kid a
+11-My iron lung
+12-No surprises
+13-Go to sleep
+14-Where I end and you begin
+15-Exit music
+16-Paranoid android
+17-Ideoteque
+
+CD2
+18-After the gold rush
+19-Everything in its right place
+20-Rappel 1
+21-I will
+22-The gloaming
+23-Bones
+24-The tourist
+25-Rappel 2
+26-Sit down, stand up
+27-Karma police
+28-Rappel 3
+29-Fake plastic trees
+30-Outro
+
+Source: Audience
+MD: Sony MZ-R 90
+Micro: Sony ECM-MS907 avec la mousse
+Transfert PC: analogique avec Sound Forge 6.0d
+Retouche: Harmornisation et augmentation du volumes general, suppression des applaudissements genants/bruits divers avec 
+Sound Forge 6.0d. Equalisateur et normalize avec Cool Edit Pro 2.0. Piste 18 recuperée sur l'enregistrement de "Ducon" car changement de md.
+
+Encoded by atu2france@wanadoo.fr
+Par: oscartramor@club-internet.fr

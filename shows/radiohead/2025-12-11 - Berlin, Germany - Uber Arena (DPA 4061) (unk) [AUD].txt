@@ -1,0 +1,46 @@
+RADIOHEAD
+December 11th, 2025
+Uber Arena,
+Berlin, Germany
+
+
+SETLIST (124:48)
+---------------
+01. Planet Telex
+02. 2 + 2 = 5
+03. Sit Down. Stand Up.
+04. Lucky
+05. 15 Step
+06. The Gloaming
+07. Kid A
+08. Videotape
+09. Nude
+10. Weird Fishes/Arpeggi
+11. Idioteque
+12. Everything in Its Right Place
+13. Bloom
+14. Ful Stop
+15. Daydreaming
+16. Exit Music (for a Film)
+17. Let Down
+18. Bodysnatchers
+19. ** Encore
+20. Fake Plastic Trees
+21. Jigsaw Falling Into Place
+22. The National Anthem
+23. Paranoid Android
+24. You and Whose Army?
+25. Just
+26. No Surprises
+
+SOURCE
+------
+DPA 4061 > Tascam DR-2D
+
+GENERATION
+----------
+.WAV[24bit/48kHz] > .FLAC [16bit/44.1kHz]
+
+TRANSFER
+--------
+USB > Adobe Audition 2025 > xACT 2.57

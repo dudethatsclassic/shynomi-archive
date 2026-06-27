@@ -1,0 +1,89 @@
+Radiohead
+2006-06-17
+Bonnaroo
+What Stage
+Manchester, TN
+
+Mix Made By Trui76 from these sources:
+- Kenny Endlich [nikres] (k_endlich@hotmail.com)
+- Ed (FOB source)
+
+Many thanks to the tapers!
+
+Decoded using FLAC frontend.
+Wav files joined by MP3 Cutter Joiner
+Mixed and cutted using Audacity
+Encoded To FLAC again by FLAC frontend (level 6)
+
+During Karma Police there were a few seconds missing in one of the two sources. I corrected it,
+but a few seconds the sound is a bit different.
+
+Do NOT sell this show. If you see this show for sale on ebay or anywhere else, please report the seller to ebay and paypal.
+
+https://www.paypal.com/wf/f=pps_prohib
+http://pages.ebay.com/help/policies/unauthorized-copies.html
+http://pages.ebay.com/help/policies/rfe-previously-suspended.html
+
+Setlist:
+
+01. There There				05:30
+02. 2+2=5				03:50
+03. 15 Step				04:48
+04. Arpeggi				04:22
+05. Exit Music (For A Film)		04:49
+06. Kid A				03:47
+07. Dollars & Cents			05:17
+08. Videotape				04:51
+09. No Surprises			04:23
+10. Paranoid Android			06:16
+11. The Gloaming			03:36
+12. National Anthem			04:49
+13. Climbing Up The Walls		04:21
+14. Nude				05:10
+15. Street Spirit (Fade Out)		04:50
+16. The Bends				04:24
+17. Myxomatosis				05:02
+18. How To Disappear Completely	+Crowd	11:28
+	Encore 1
+19. You And Whose Army? 		03:34
+20. Pyramid Song			04:48
+21. Like Spinning Plates		03:20
+22. Fake Plastic Trees			05:22
+23. Bodysnatchers			05:08
+24. Lucky				04:19
+25. Idioteque				04:22
+26. Karma Police + Crowd		08:16
+	Encore 2
+27. House Of Cards			05:50
+28. Everything In Its Right Place	08:37
+
+Fingerprint:
+
+01 There There.flac:db0945418e0c652d43a93d16a73a6cc5
+02 2+2=5.flac:ea4526ee47dd70a2c5033169878289e8
+03 15 Step.flac:517ec3716827b35b443d6771fecb0893
+04 Arpeggi.flac:9ad0068bc23bbc6e87bee139ce6ace77
+05 Exit Music (For a Film).flac:4b525f76eaf7d0e8ad03142684c7b7ba
+06 Kid A.flac:2e25840d0c4d843bfccff5971f91f520
+07 Dollars & Cents.flac:1980d3666594c38051fcbf8527aacc39
+08 Videotape.flac:3e2d1e2dcc5dc58da8ac898592317a1d
+09 No Surprises.flac:3b8c78a2440913111ce5f4d8d33124a4
+10 Paranoid Android.flac:e5acdbed527689ec8039fdcce13f7782
+11 The Gloaming.flac:0f28745ab2d526f20f330ce7e3cbebf7
+12 National Anthem.flac:97a0e1a371a10658cae60e9f9746e5b1
+13 Climbing Up The Walls.flac:6fb9013a2ff14730b674bcb01a92e4e0
+14 Nude.flac:bd1174c84cf5d1d943ba319091c44edd
+15 Street Spirit (Fade Out).flac:355904ca434beb9423ae790a23fb8b43
+16 The Bends.flac:edcc577785b8ef668e6f6aa9c4802be5
+17 Myxomatosis.flac:cd043953c712d888da4f7126268aba1e
+18 How To Disappear Completely.flac:7006f50793f6f772a005c71132011e71
+19 You And Whose Army.flac:be2296b00fa9971925c3a69df7cdae2e
+20 Pyramid Song.flac:7ac600dca74f4c1844526f1a325e120a
+21 Like Spinning Plates.flac:d07f2c313bf750b29c5b950df445c178
+22 Fake Plastic Trees.flac:4164e5b38f3c9bea9ca43340b70f6b24
+23 Bodysnatchers.flac:6c1b9ed15441493f6866432dcee4cb61
+24 Lucky.flac:cceeb8dcb1214fafc10fcf241b679256
+25 Idiotheque.flac:e39ba82e70c6cb5855997654d2a39823
+26 Karma Police.flac:d2d541ed46aefa843b04b14aea6f9f54
+27 House Of Cards.flac:c0e10dfa5164e15c580ae2a40e9fabc1
+28 Everything In It's Right Place.flac:bd1eab952eae4ef12d9b0f9eff37ceae

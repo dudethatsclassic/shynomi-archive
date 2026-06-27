@@ -1,0 +1,57 @@
+Radiohead 
+2003-08-23 
+Alpine Valley 
+East Troy, WI
+
+Matrix
+
+Source 1:
+(complete)
+Custom Oade mics > D8
+D8 > ZA2 > WAV > 3db boost in cool edit pro > SHN
+Jim Blietz
+
+Source 2:
+(fades in near the middle of track 1)
+DAB > DA-120F > NJB3/48.0khz > IEEE-1394(lossless) > Soundforge 5.0 > CD Wave Editor > flac 
+FOB DFC
+SpeshulEd
+
+Matrixed/minor editing in Vegas Video 4.0 > 44.1 kHz/16 bit > CD Wave to spilt > flac level 5
+formengr
+
+
+--Set List-- 
+
+01 2+2=5 
+02 Sit Down Stand Up 
+03 Where I End and You Begin 
+04 Kid A 
+05 Backdrifts 
+06 Lucky 
+07 Paranoid Android 
+08 Sail to The Moon 
+09 Fake Plastic Trees 
+10 We Suck Young Blood 
+11 Go To Sleep 
+12 Just 
+13 Scatterbrain 
+14 The Gloaming 
+15 Idioteque 
+16 No Surprises 
+17 There There 
+
+-Encore One- 
+
+18 You & Whose Army 
+19 The National Anthem 
+20 Myxomatosis 
+21 Street Spirit 
+
+-Encore Two- 
+
+22 Karma Police 
+23 Everything In Its Right Place 
+
+
+Seeded 9/19/04 to the radiohub

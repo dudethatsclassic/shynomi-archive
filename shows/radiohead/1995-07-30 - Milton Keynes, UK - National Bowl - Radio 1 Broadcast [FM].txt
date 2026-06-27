@@ -1,0 +1,49 @@
+radiohead
+july 30, 1995
+national bowl - radio 1 broadcast
+milton keynes, uk
+
+*****do not encode to mp3*****
+
+
+setlist:
+
+1.  my iron lung
+2.  bones
+3.  anyone can play guitar
+4.  high n dry
+5.  fake plastic trees
+6.  planet telex
+7.  just
+8.  the bends
+
+source: FM > analog tape > ? > cdr > EAC > mkw > shn
+
+notes:  before high n dry thom is chatting with the crowd in informs 
+them that 'cool' is his middle name.  Thom Cool Yorke. 
+
+
+ADDITIONAL NOTES & RE-WORKING, 2006-05-14
+
+Above files converted > wav, re-compressed to flac & re-named to make them more 'computer friendly'.  Sector boundaries checked & OK.  New md5 & flac ffp generated.
+
+There is a spot of radio interference/static near the end of Bones.  
+
+According to http://www.58hours.com/ there were two more songs, but these don't seem to have been broadcast;
+
+9.  creep [NOT BROADCAST/NOT IN THIS TORRENT]
+10. street spirit [fade out] [NOT BROADCAST/NOT IN THIS TORRENT]
+
+Also included, an interview carried out before the show.
+
+Big thanks to everyone involved for the sources.
+
+direwolf
+
+
+
+
+
+
+
+

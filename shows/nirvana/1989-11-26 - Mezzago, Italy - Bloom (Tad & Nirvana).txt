@@ -1,0 +1,64 @@
+Nirvana
+November 26, 1989
+Bloom
+Mezzago, IT
+
+SOURCE (AUD #2):
+built-in > Legby UCR 1062
+
+TRANSFER:
+Nakamichi DR-3 > Schulz ADPS 1 > Fireface UC > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(M) > WAV [24bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+65:13
+
+TRACKS:
+01. intro
+02. School
+03. jam
+04. Dazed And Confused (jam)
+05. Scoff (cut)
+06. Love Buzz
+07. Floyd The Barber
+08. Dive
+09. Sappy
+10. Big Cheese
+11. Spank Thru
+12. About A Girl
+13. Breed
+14. Paper Cuts
+15. Been A Son
+16. Negative Creep
+17. Blew
+
+NOTES:
+- There is a digital error in Scoff, resulting in a short cut.
+- The recorder model might have been a Grundig Beat Boy 380, but Legby UCR 1062 seems more likely.
+
+MD5 FINGERPRINTS:
+18caabbcec874f01be86dac915ffdf76 *Nirvana_1989-11-26_AUD2_t01.flac
+2bb3f8b20f34d3c949acd8a78f9e16a9 *Nirvana_1989-11-26_AUD2_t02.flac
+9a0759ba47024790d0611c455cba06ad *Nirvana_1989-11-26_AUD2_t03.flac
+85dba460cd469fbe779035de2fd13fb3 *Nirvana_1989-11-26_AUD2_t04.flac
+37c86530de6063a00ee31d52ab805a5e *Nirvana_1989-11-26_AUD2_t05.flac
+e07aac9b8c71534ed2192766520d7464 *Nirvana_1989-11-26_AUD2_t06.flac
+77774ae383c47a9e7533ff612b79afdb *Nirvana_1989-11-26_AUD2_t07.flac
+050071d9c99bb42efc3f90d572932d1f *Nirvana_1989-11-26_AUD2_t08.flac
+086d64e488a1ac19d5c333d2bb48a20f *Nirvana_1989-11-26_AUD2_t09.flac
+f198d7785266bd1e51d9227a59200a7b *Nirvana_1989-11-26_AUD2_t10.flac
+504c2ea2ed64331b67f1a737fbd8ff4b *Nirvana_1989-11-26_AUD2_t11.flac
+0e0909d57f4111373c46b1c012bbb28b *Nirvana_1989-11-26_AUD2_t12.flac
+c6ec9dd0a47eac56560dab4811efbb92 *Nirvana_1989-11-26_AUD2_t13.flac
+03e771f72960da07dabcdb025317da44 *Nirvana_1989-11-26_AUD2_t14.flac
+a63ba745d51d94c716c5ecbdf223b578 *Nirvana_1989-11-26_AUD2_t15.flac
+0498e4dd83c25fb38e5c05009ea5279a *Nirvana_1989-11-26_AUD2_t16.flac
+4ddc584da7e391b330fede930ecb66f9 *Nirvana_1989-11-26_AUD2_t17.flac
+
+
+TRANSFERRED BY:
+Daniel Bär
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

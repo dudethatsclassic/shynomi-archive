@@ -1,0 +1,75 @@
+NIRVANA
+November 8th, 1993 
+The Armory, Drexel University
+Philadelphia, PA
+
+SOURCE (AUD#1):
+Sony PC-62 > Sony TCD-D3
+
+TRANSFER:
+Nakamichi DR-1 > Canare cable > D.A.L. CardDeluxe > Adobe Audition CC > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+DAT(M) > ANA(1) > WAV[24bit/96kHz] > WAV[16bit/44.1kHz] > FLAC [Level 8]
+
+DURATION:
+91:26
+
+SETLIST:
+01) intro
+02) Radio Friendly Unit Shifter
+03) Drain You
+04) Breed
+05) Serve The Servants
+06) About A Girl
+07) Heart-Shaped Box
+08) Sliver
+09) Dumb
+10) In Bloom
+11) Come As You Are
+12) Lithium
+13) Pennyroyal Tea
+14) School (cuts in)
+15) Polly
+16) Milk It
+17) Rape Me
+18) Territorial Pissings
+19) Smells Like Teen Spirit
+20) All Apologies
+21) Jesus Wants Me For A Sunbeam
+22) On A Plain
+23) Scentless Apprentice
+24) Blew
+
+MD5 FINGERPRINTS
+-----------------
+765c4493fb4f9264ef833d9a6e92ba85 *NIRVANA 1993-11-08 AUD1 ANA1 t01 Intro.flac
+07197598a348e53c5e62d5d7a2c5d05e *NIRVANA 1993-11-08 AUD1 ANA1 t02 Radio Friendly Unit Shifter.flac
+fc3d63108468ca83d06ff865930b332a *NIRVANA 1993-11-08 AUD1 ANA1 t03 Drain You.flac
+aab8f39ab44baf100ab7828c251e7cff *NIRVANA 1993-11-08 AUD1 ANA1 t04 Breed.flac
+fb37f4f611fcc366588781465b93c471 *NIRVANA 1993-11-08 AUD1 ANA1 t05 Serve The Servants.flac
+22fb9b41050aa659c69cefdd31614788 *NIRVANA 1993-11-08 AUD1 ANA1 t06 About A Girl.flac
+bef5d432c4aac1ff9cdc63807f41ed6a *NIRVANA 1993-11-08 AUD1 ANA1 t07 Heart-Shaped Box.flac
+2f37986e7f8bf8ef9486d56295437b13 *NIRVANA 1993-11-08 AUD1 ANA1 t08 Sliver.flac
+79a51231507c7061ad6b29838f6fe145 *NIRVANA 1993-11-08 AUD1 ANA1 t09 Dumb.flac
+9c63b68d29e1bca7638c59036c4143eb *NIRVANA 1993-11-08 AUD1 ANA1 t10 In Bloom.flac
+ed03de1afc1c5cd0882af41d86355e0e *NIRVANA 1993-11-08 AUD1 ANA1 t11 Come As You Are.flac
+9b0bea0923f4940da1071317cf4bd577 *NIRVANA 1993-11-08 AUD1 ANA1 t12 Lithium.flac
+1a811735a996abe6d057ad1f20cb445b *NIRVANA 1993-11-08 AUD1 ANA1 t13 Pennyroyal Tea.flac
+a49e5e117cebc8650e7a3584f546baa6 *NIRVANA 1993-11-08 AUD1 ANA1 t14 School.flac
+4b977bd47cf91482628e525b387e1719 *NIRVANA 1993-11-08 AUD1 ANA1 t15 Polly.flac
+e57e3f46dd1986e786bfb9f3cae8e69f *NIRVANA 1993-11-08 AUD1 ANA1 t16 Milk It.flac
+4fa1819a9d85d03f0abfe25c5c36bf3d *NIRVANA 1993-11-08 AUD1 ANA1 t17 Rape Me.flac
+30ebd0368e6c6a138175725fdb4b70c7 *NIRVANA 1993-11-08 AUD1 ANA1 t18 Territorial Pissings.flac
+46e59dacaf07dbc3b40548576629d07e *NIRVANA 1993-11-08 AUD1 ANA1 t19 Smells Like Teen Spirit.flac
+223324b5bc602f01d5db29c54932c68d *NIRVANA 1993-11-08 AUD1 ANA1 t20 All Apologies.flac
+e08ac08981ffd243e265bbe1a8eb8b49 *NIRVANA 1993-11-08 AUD1 ANA1 t21 Jesus Wants Me For A Sunbeam.flac
+08ae57966ea2af097452e04352a180e3 *NIRVANA 1993-11-08 AUD1 ANA1 t22 On A Plain.flac
+93aa3ba7a78605f24a03a9ec83078682 *NIRVANA 1993-11-08 AUD1 ANA1 t23 Scentless Apprentice.flac
+8b9e25652866bf1305f7f08fd78f6288 *NIRVANA 1993-11-08 AUD1 ANA1 t24 Blew.flac
+
+TRANSFER AND DISTRIBUTION:
+Members of LiveNIRVANA.com
+
+**DO NOT SELL**
+

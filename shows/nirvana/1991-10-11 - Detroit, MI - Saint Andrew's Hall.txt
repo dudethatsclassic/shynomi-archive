@@ -1,0 +1,73 @@
+NIRVANA
+October 11, 1991
+Saint Andrew's Hall
+Detroit, MI
+
+SOURCE (AMT #1):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+VHS(2) > AVI [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+82:09
+
+TRACKS (DISC 1):
+01. intro
+02. Jesus Wants Me For A Sunbeam
+03. Aneurysm
+04. Drain You
+05. School
+06. Floyd The Barber
+07. Smells Like Teen Spirit
+08. About A Girl
+09. Breed
+10. Polly
+11. Sliver
+12. Pennyroyal Tea
+13. Love Buzz
+
+TRACKS (DISC 2):
+01. Come As You Are
+02. Blew
+03. Negative Creep
+04. Been A Son
+05. On A Plain
+06. Lithium
+07. Territorial Pissings
+08. Rape Me
+09. Something In The Way
+10. Endless, Nameless
+
+MD5 FINGERPRINTS:
+ee35236ae2f2a9fcc278623f1e850983 *Nirvana_1991-10-11_AMT1_d1t01.flac
+e833d165d45aa2205ec50854d74dc238 *Nirvana_1991-10-11_AMT1_d1t02.flac
+5429df8c690b56de19b16066fb8726d2 *Nirvana_1991-10-11_AMT1_d1t03.flac
+4c281cc82d1d255f64be9e8a7a8e6112 *Nirvana_1991-10-11_AMT1_d1t04.flac
+5e21523d1a58df0858bb6f38a48b5fd0 *Nirvana_1991-10-11_AMT1_d1t05.flac
+ae45cd01958e5272d950a4580fd39578 *Nirvana_1991-10-11_AMT1_d1t06.flac
+fb30b2ea0656859fc1c74b129308c985 *Nirvana_1991-10-11_AMT1_d1t07.flac
+0e02a4efdeb5f73eaa4c3a34e6da6f89 *Nirvana_1991-10-11_AMT1_d1t08.flac
+244be8e67ac410ddfecbef21895870bb *Nirvana_1991-10-11_AMT1_d1t09.flac
+27532d185707a85a41ef7c53115d31b7 *Nirvana_1991-10-11_AMT1_d1t10.flac
+511c4443de3085d5e1c699819c25d88a *Nirvana_1991-10-11_AMT1_d1t11.flac
+93ef8eda754ae9b6e79fb6774c469817 *Nirvana_1991-10-11_AMT1_d1t12.flac
+fa26eedaeba1e67b1752461e904b38d1 *Nirvana_1991-10-11_AMT1_d1t13.flac
+7d234822602875f86001a4291616a951 *Nirvana_1991-10-11_AMT1_d2t01.flac
+2fac524db9d8d785c359424de2776127 *Nirvana_1991-10-11_AMT1_d2t02.flac
+6cf9392a157fceb582af0485ab456563 *Nirvana_1991-10-11_AMT1_d2t03.flac
+1667330211366daa374fe543e64415d7 *Nirvana_1991-10-11_AMT1_d2t04.flac
+cdaeaf10304ac4397bceacc6c90eac8e *Nirvana_1991-10-11_AMT1_d2t05.flac
+4f7c08208f43646581083f47757535d6 *Nirvana_1991-10-11_AMT1_d2t06.flac
+d3058d17275038c9fbf95f10665f53f1 *Nirvana_1991-10-11_AMT1_d2t07.flac
+ff87a016eea4419ed5f63ef0368dfa2e *Nirvana_1991-10-11_AMT1_d2t08.flac
+d9539f89845dfe4626f739aade0439e8 *Nirvana_1991-10-11_AMT1_d2t09.flac
+86cb58fea01cb0c83ddad66cae761b3b *Nirvana_1991-10-11_AMT1_d2t10.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

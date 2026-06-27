@@ -1,0 +1,52 @@
+Radiohead
+Gorge Amphitheatre, George, WA
+June 23, 2001
+
+Source Info:	neumann ak40s > neumann lc-3 active cables > neumann km100s >
+		sound devices mp-2 > sony sbm-1 > sony pcm-m1
+Location:	30 feet back, off stage left stack
+
+Conversion:	Tascam DA-P1 > Phillips CDR-765 > Plextor 12x/4x/32x (extract) >
+		SoundEdit 16 (editing) > Plextor 12x/4x/32x (burn)
+
+Disc One:
+
+01:	National Anthem *			-	05:02:08
+02:	Morning Bell *				-	04:53:70
+03:	Lucky					-	04:19:08
+04:	My Iron Long				-	05:00:23
+05:	Karma Police				-	04:42:74
+06:	Exit Music				-	05:24:21
+07:	Packt Like Sardines			-	03:18:68
+08:	Airbag					-	05:20:07
+09:	Pulled Apart By Horses #		-	04:33:08
+10:	No Surprises				-	03:50:55
+11:	Dollars and Cents			-	05:19:25
+12:	I Might Be Wrong			-	05:01:44
+13:	Pyramid Song				-	04:48:73
+
+Total:						-	61:37:34
+
+
+Disc Two:
+
+01:	Disc II Intro				-	00:41:70
+02:	Paranoid Android			-	06:20:01
+03:	Idioteque				-	04:38:47
+04:	Everything In Its Right Place		-	09:24:47
+05:	Talkshow Host				-	04:45:25
+06:	Climbing Up the Walls			-	04:46:17
+07:	You And Whose Army			-	04:17:64
+08:	How To Disappear Completely		-	08:59:31
+09:	Street Spirit				-	05:04:12
+10:	The Bends				-	05:30:63
+11:	Motion Picture Soundtrack		-	03:02:36
+
+Total:						-	57:33:17
+
+* - some editing occurred.  the first song and a half or in mono because of
+a loose connection between the mp-2 and sbm-1.  This is fixed during the first
+minute of morning bell, and the concert from there on should be unflawed.
+
+# - first time played in concert.
+

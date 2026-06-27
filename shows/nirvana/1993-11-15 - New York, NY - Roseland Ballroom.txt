@@ -1,0 +1,81 @@
+NIRVANA
+
+November 15, 1993
+
+Roseland Ballroom, 
+New York, NY
+
+
+SOURCE (AUD#1b):
+Core Sound Binaural > Sony TCD-D7 (DAT)
+[48 kHz]
+
+TRANSFER:
+Nakamichi DR-1 > Canare cable > D.A.L. CardDeluxe > Adobe Audition CC 2019 > SoundForge 12.1 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(2) > WAV > FLAC
+
+DURATION:
+92:14
+
+SETLIST:
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. About A Girl
+06. Heart-Shaped Box
+07. Sliver
+08. Dumb
+09. In Bloom
+10. Come As You Are
+11. Lithium
+12. Pennyroyal Tea
+13. School
+14. Polly
+15. Milk It
+16. Rape Me
+17. Territorial Pissings
+18. Smells Like Teen Spirit
+19. All Apologies
+20. Jesus Wants Me For A Sunbeam
+21. On A Plain
+22. Living In Sin (jam)
+23. Scentless Apprentice
+24. Blew
+
+MD5 FINGERPRINTS:
+1fb7ebcc9fb07065852d50317745aa99 *Nirvana 1993-11-15 AUD1b ANA2_01 Radio Friendly Unit Shifter.flac
+a52c545f803bb50dcffeee44d2f1978a *Nirvana 1993-11-15 AUD1b ANA2_02 Drain You.flac
+ee9c9cfc218cddae9c515234b6600300 *Nirvana 1993-11-15 AUD1b ANA2_03 Breed.flac
+962ae8cc7ca6eb8251bb9f4c47a269be *Nirvana 1993-11-15 AUD1b ANA2_04 Serve The Servants.flac
+a76089fa74d6ae363294af259bbda80b *Nirvana 1993-11-15 AUD1b ANA2_05 About A Girl.flac
+1a5fd3f0048ff1637d0218999a0045b6 *Nirvana 1993-11-15 AUD1b ANA2_06 Heart-Shaped Box.flac
+2675c0169921f7cbf0c823222a6f899a *Nirvana 1993-11-15 AUD1b ANA2_07 Sliver.flac
+76de3681ac7363354cf7099b5d0b6125 *Nirvana 1993-11-15 AUD1b ANA2_08 Dumb.flac
+70bb5540061ae123bac0737561208701 *Nirvana 1993-11-15 AUD1b ANA2_09 In Bloom.flac
+2af16ab5801d8c85b0d7589931cc9086 *Nirvana 1993-11-15 AUD1b ANA2_10 Come As You Are.flac
+de1db523a740874a34fd0e1416e63857 *Nirvana 1993-11-15 AUD1b ANA2_11 Lithium.flac
+3d44bb79f419916538359dcfe6bcd955 *Nirvana 1993-11-15 AUD1b ANA2_12 Pennyroyal Tea.flac
+c4f279c4e03d99bf3ecb84c987d530f8 *Nirvana 1993-11-15 AUD1b ANA2_13 School.flac
+9adeeb49bae46c647d9fb3a9b99d6c1a *Nirvana 1993-11-15 AUD1b ANA2_14 Polly.flac
+d80211b76a4605e586c2c48969a85b9c *Nirvana 1993-11-15 AUD1b ANA2_15 Milk It.flac
+c18acd4142615fbb95ebe3d1e47b62b8 *Nirvana 1993-11-15 AUD1b ANA2_16 Rape Me.flac
+c0ba2e36f039fa92b2bb8ee498a22164 *Nirvana 1993-11-15 AUD1b ANA2_17 Territorial Pissings.flac
+0f30b0d952fe1d51594a865b20ec3671 *Nirvana 1993-11-15 AUD1b ANA2_18 Smells Like Teen Spirit.flac
+2087db8b6c1fa09c03f790a00580421b *Nirvana 1993-11-15 AUD1b ANA2_19 All Apologies.flac
+89d9f85294ca3d14b856d8d72aa96ba4 *Nirvana 1993-11-15 AUD1b ANA2_20 Jesus Wants Me For A Sunbeam.flac
+a2ccf1f61f4eb179045aa67d1f14b429 *Nirvana 1993-11-15 AUD1b ANA2_21 On A Plain.flac
+63c07edc0a3158d3aea8d3f1cb8ce3c7 *Nirvana 1993-11-15 AUD1b ANA2_22 Living In Sin.flac
+cc5841ab60a9c1525187a6d6c6e19622 *Nirvana 1993-11-15 AUD1b ANA2_23 Scentless Apprentice.flac
+c81c49e615b40f76a853f421d0c27707 *Nirvana 1993-11-15 AUD1b ANA2_24 Blew.flac
+
+TRANSFERRED by members of LiveNIRVANA.com
+
+DISTRIBUTED 2020-11-15
+
+NOTES:
+Less severe errors than AUD#1a but missing I Wanna Be Your Dog.
+
+DO NOT SELL OR ENCODE TO LOSSY.

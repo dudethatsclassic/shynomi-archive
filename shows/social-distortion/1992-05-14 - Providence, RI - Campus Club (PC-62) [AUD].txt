@@ -1,0 +1,55 @@
+Social Distortion
+May 14, 1992
+Campus Club
+Providence, RI
+
+FOR TRADING/SHARING ONLY 
+
+Until February 2009, this was a virtually uncirculated recording.  Only one analog copy was made back in '92 and no digital transfer from the master existed.
+
+The show itself was a pretty good one.  I liked the set selection better than when I caught the band on tour with the Ramones about 6 months later, as this one is longer and more diverse in terms of old and (at the time) new material.  There is some audience chatter.  However, it's not constant and it doesn't carry into the songs.
+
+Mike Ness was a bit more talkative during a few song intros, so those are separate tracks.  At least one of these pauses was related to over-aggressive bouncers ejecting people in the crowd - unfortunately a common occurrence at the Campus Club.
+
+Two other things noted below are worth repeating here.  First, the initial 55 seconds of the recording has saturated levels.  Once corrected, the levels are fine.  Second, a tape glitch occurred on the last two songs, so a bit of each song was not recorded.  This is not a cut in/out type of a thing, but rather a quick one-time tape garble on each of those two songs.  It's as if battery power briefly cut out and then returned.
+
+Source: Audience Recording
+
+Equipment: Sony PC-62 Stereo Mic > Sony WM-D3
+
+Lineage: Master Cassette > Yamaha KX-500U > Audacity (16 bit/44.1 kHz) > AIFF > xACT (fix SBE) > FLAC (Level 8)
+
+Recorded and transferred by Phil H. (phil183)
+
+Length: 1:14:43
+
+Tracks [Time]:
+01. The Creeps [3:05]
+02. Hour Of Darkness [2:53]
+03. Ring Of Fire [4:18]
+04. Bad Luck [4:48]
+05. Let It Be Me [4:19]
+06. Sick Boys [3:46]
+07. Mommy's Little Monster [4:03]
+08. Making Believe [4:03]
+09. (Banter/"1945" Intro) [1:14]
+10. 1945 [3:03]
+11. It Coulda Been Me [3:34]
+12. When She Begins [4:47]
+13. ("99 To Life" Intro) [0:36]
+14. 99 To Life [4:16]
+15. Cold Feelings [3:15]
+16. (Delay) [1:00]
+17. Ball And Chain [6:44]
+18. King Of Fools [2:48]
+19. (Banter/"Born To Lose" Intro) [0:57]
+20. Born To Lose [4:03]
+21. ("Ready For Love" Intro) [0:46]
+22. Ready For Love [4:43]
+23. Telling Them [1:42]
+
+Notes:
+a) The levels are saturated for the first 55 seconds of Track 01.  The recording stabilizes after that.
+b) A nearly unnoticeable edit exists on crowd noise before the start of Track 15 due to the master tape flip.
+c) There is an edit between Tracks 18 & 19 due to the encore break.
+d) A taping glitch occurred on both Track 22 & 23, so a portion of each song is missing.

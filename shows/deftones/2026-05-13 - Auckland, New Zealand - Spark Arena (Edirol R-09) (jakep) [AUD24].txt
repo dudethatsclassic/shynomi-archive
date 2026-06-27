@@ -1,0 +1,37 @@
+Deftones
+2026-05-13
+Spark Arena,
+Auckland, New Zealand
+
+Source: Edirol R-09 (internal mics)
+Taper: Jake P
+
+Lineage:R-09 -> PC -> Audacity (Flip channels, add bass, Split tracks) -> .FLAC
+
+Setlist:
+01 - Be Quiet and Drive (Far Away)
+02 - Swerve City
+03 - Diamond Eyes
+04 - Feiticeira
+05 - Digital Bath
+06 - Tempest
+07 - milk of the madonna
+08 - my mind is a mountain
+09 - Beauty School
+10 - Sextape
+11 - Rocket Skates
+12 - Rosemary
+13 - Around the Fur
+14 - Entombed
+15 - Hole in the Earth
+16 - Change (In the House of Flies)
+17 - Genesis
+18 - departing the body
+19 - infinite source
+
+Encore:
+20 - Cherry Waves
+21 - My Own Summer (Shove It)
+22 - 7 Words
+
+Total Duration: 1:38:55

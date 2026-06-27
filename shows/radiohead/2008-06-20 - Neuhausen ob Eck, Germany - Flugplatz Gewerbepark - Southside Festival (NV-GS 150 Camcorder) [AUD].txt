@@ -1,0 +1,44 @@
+Radiohead
+
+2008-06-20 Southside Festival, Neuhausen ob Eck, Germany
+
+Source: Panasonic NV-GS 150 camcorder with built in stereo mikes
+
+Lineage: Panasonic NV-GS 150 camcorder audio track (extracted from avi file with 
+TMPGEnc Plus 2.5) > PCM WAV 48 kHz file > Goldwave (for splitting into separate 
+tracks and downsampling to 44,1 kHz WAV) > Trader's Little Helper > flac (level 8, sba)
+
+Setlist:
+01. 15 Step (missing)
+02. The National Anthem (missing)
+03. Lucky (missing)
+04. All I Need (missing)
+05. Nude (missing)
+06. There There (first few bars cut)
+07. Weird Fishes / Arpeggi (first few seconds cut)
+08. The Gloaming
+09. Optimistic
+10. Just
+11. Faust Arp
+12. Jigsaw Falling Into Place
+13. You And Whose Army
+14. Videotape
+15. Everything In Its Right Place
+16. Idioteque
+17. Bodysnatchers
+-----------------------------------------------
+18. Reckoner (missing)
+19. 2+2=5 (missing)
+20. Paranoid Android (missing)
+
+This is only a partial recording of the show, missing the first 5 songs and the encore.
+In total the band played 20 songs in 95 minutes (picture of setlist is included in the torrent files).
+The sound is surprisingly good for a recording with built-in mikes and automatic level adjustment.
+Of course it helped that the sound quality on the festival site was amazing for the whole set, 
+these guys just have a killer sound engineer!
+
+Recorded, encoded & seeded by surfling june 2008.
+
+Support the band and buy their beautiful official releases.
+
+Enjoy and share!

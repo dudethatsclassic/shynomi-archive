@@ -1,0 +1,52 @@
+Radiohead
+Madison Square Garden
+New York, NY
+Thursday October 9, 2003
+
+Taper:		SCB
+Source:		DPA 4022 > Lunatec V3 @ 16/44.1
+Location:	15 feet center
+
+DAT > SHN:	M1 > Digigram VXPocket V2 > Screenblast Sound Forge Deluxe V1.0b >
+		Sony Vaio PCG-SRX87 > .wav > CD-WAV/mkwACT > .shn
+
+Disc One:
+
+01:	Intro				-	00:05.000
+02:	2+2=5				-	04:04.000
+03:	Sit Down. Stand Up.		-	04:18.200
+04:	Where I End And You Begin	-	04:27.000
+05:	Kid A				-	03:49.000
+06:	Backdrifts			-	07:00.000
+07:	Morning Bell			-	03:54.133
+08:	My Iron Lung			-	05:28.866
+09:	I Might Be Wrong		-	04:54.800
+10:	Lurgee				-	03:40.200
+11:	Sail To The Moon		-	04:35.800
+12:	Paranoid Android		-	06:34.466
+13:	A Punchup At A Wedding		-	04:50.733
+
+Total:					-	57:42.200
+
+Disc Two:
+
+01:	Go To Sleep			-	03:52.000
+02:	The Gloaming			-	03:59.666
+03:	Idioteque			-	04:27.600
+04:	Fake Plastic Trees		-	05:13.266
+05:	There There			-	08:19.866
+06:	You And Whose Army?		-	03:05.400
+07:	The National Anthem		-	05:07.000
+08:	A Wolf At The Door		-	03:29.866
+09:	How To Disappear Completely	-	09:56.600
+10:	Karma Police			-	04:06.533
+11:	True Love Waits *		-	04:36.866
+12:	Everything In Its Right Place	-	07:26.600
+
+Total:					-	63:41.266
+
+*	Thom Yorke solo
+
+Notes:	amplified the right channel by 1dB in Wavelab
+
+compiled on 10-13-2003

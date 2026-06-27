@@ -1,0 +1,104 @@
++-----------------------------------------+
+|                                         |
+|                radiohead                |
+|            live at lakewood             |
+|                                         |
++-----------------------------------------+
+
+
+song titles:
+     intro
+1.   All I Need
+2.   There There
+3.   Lucky
+4.   15 Step
+5.   Where I End and You Begin
+6.   Nude
+7.   Pyramid Song
+8.   Optimistic
+9.   Weird Fishes/Arpeggi
+10.   National Anthem
+11.   Idioteque
+12.   You And Whose Army?
+13.   Reckoner
+14.   Everything In Its Right Place
+15.   Bangers and Mash
+16.   Bodysnatchers
+17.   Videotape
+      (encore break one)
+18.   The Gloaming
+19.   Talk Show Host
+20.   Just
+21.   Faust Arp
+22.   How To Disappear Completely
+      (encore break two)
+23.   Paranoid Android
+24.   House of Cards
+
+(not the actual track numbering...didn't feel like renumbering from 58hours)
+
+artist:
+radiohead
+
+album:
+live in atlanta
+
+year:
+2008
+
+comment:
+Lakewood Amphitheatre
+North America 2008 (Spring) In Rainbows Tour
+ 
+genre:
+rock
+
+date:
+Thursday, May 08, 2008
+
+taper:
+bs(19)
+
+packaging/audio encoding:
+bs(19)
+
+technical:
+- source: at853 -> ps-2 -> ad-20 -> h120 -> usb 2.0 -> 44.1/16 wav
+- configuration: DINA (sort of) at approx 6 feet, dfc, 20 feet from stage (in the pit, rear)
+- mic source -> audacity v1.2.6 (wav file split) -> adobe audition v2.0 (eq and amplify, 
+slight clip restoration)
+- encoded to flac using switches --best --no-replay-gain --verify --no-lax
+
+notes:
+- don't get excited, this was recorded from the pit.  i did the best i could with the douche
+bags i had to work with.
+- i really thought that fucker was going to die right beside me.
+- people on dime, stop begging/whining for 16-bit versions of 24-bit shows...it's embarrassing.
+- setlist stolen from http://58hours.com/58_displayshow.php?showID=622
+
+message to the masses:
+- "shut the fuck up - save a recording.  tapers are everywhere."
+
+minimum requirements for entrance to the pit in atlanta:
+1.  spent at least $100 for pit ticket.
+2.  drove five or more hours to get to the show.
+3.  radiohead is your number one OMG fav band in the whole wide world.
+4.  you've waited for this moment since they were here last in 2003 and are confident this 
+will be a life-altering Dr. Phil experience.
+5.  know all the song titles and have the overwhelming urge to yell them out to your buddy.
+6.  cell phone fully charged and ready to talk during the show.
+7.  5 drink and/or drug minimum.
+8.  ability to incessantly yap over the music for two hours straight despite 1, 2, 3, and 4.
+ 
+also also wik:
+- these files are freely distributed.
+- do not buy or sell these files.  they have been watermarked so we will know...bungholes.
+- this nfo file is not to be separated from the audio files.
+- in the famous words of reggie cunningham (the mr. move), "it's a free tape, so don't bitch."
+ 
+thanks:
+- radiohead.
+- visit radiohead online at http://www.radiohead.com/deadairspace/
+
++-----------------------------------------+
+nfo v0,9

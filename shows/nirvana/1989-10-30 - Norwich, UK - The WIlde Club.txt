@@ -1,0 +1,62 @@
+NIRVANA
+October 30, 1989
+The Wilde Club, Norwich Arts Centre
+Norwich, United Kingdom
+
+DISC #1/1 (68:07)
+-----------------
+01) intro
+02) School
+03) Scoff
+04) Love Buzz
+05) Floyd The Barber
+06) Dive
+07) Polly
+08) Big Cheese
+09) Spank Thru
+10) About A Girl
+11) Token Eastern Song
+12) Mr. Moustache
+13) Stain
+14) Been A Son
+15) Negative Creep
+16) Blew
+17) Sifting
+18) Even In His Youth
+
+GENERATION
+-----------------
+ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Sony PC-62 -> Sony WM-D3
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+ce4eeb9d3544c702a61ab4e65a910433 *nirvana1989-10-30t01.flac
+c9da6c45b34f80103e0292c2197c0006 *nirvana1989-10-30t02.flac
+bbce9241a2cc0498144351a7146046b7 *nirvana1989-10-30t03.flac
+ac8d4b50ee968c514abbaa98582c3dcf *nirvana1989-10-30t04.flac
+52477cd643cd7624c24273e07a99d032 *nirvana1989-10-30t05.flac
+832783746a987f45e55f0d261eaefc9c *nirvana1989-10-30t06.flac
+399b714e5188983bcb59ad4f16e5c701 *nirvana1989-10-30t07.flac
+70146245b01cbd0e1e71575cca64d3a6 *nirvana1989-10-30t08.flac
+07c5dd5c1126188cadad8293bf7bd9d6 *nirvana1989-10-30t09.flac
+d7433ad995895a3216ffe4aab0a89567 *nirvana1989-10-30t10.flac
+3464b9fd7aba17c4c447336bb903a4bf *nirvana1989-10-30t11.flac
+bff8de4e5daf94b531b300c5596ffe89 *nirvana1989-10-30t12.flac
+89a1441057e71fa947ed0b881c2a3a02 *nirvana1989-10-30t13.flac
+0752102769a647972fe8416da5966d42 *nirvana1989-10-30t14.flac
+b7c3d0027b183793ef430e64987956fe *nirvana1989-10-30t15.flac
+dca6ae1f6ff8e2d4807ac6a7b84da995 *nirvana1989-10-30t16.flac
+2ae03574447d5404f1a9b627290aa93d *nirvana1989-10-30t17.flac
+e6e62e660448ecc210c3b2afed7f8afe *nirvana1989-10-30t18.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

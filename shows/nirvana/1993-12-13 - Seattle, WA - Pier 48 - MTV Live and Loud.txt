@@ -1,0 +1,70 @@
+NIRVANA
+December 13th, 1993
+Pier 48 (MTV Live and Loud)
+Seattle, WA
+
+SOURCE (SBD#2):
+Soundboard > unknown
+
+TRANSFER:
+DAT(x) > unknown > SoundForge 12.1 > Trader's Little Helper 2.8.4
+
+GENERATION:
+DAT(x) > unknown > FLAC [16-bit/44.1KHz] > WAV [16-bit/44.1KHz] > FLAC [Level 8]
+
+DURATION:
+78:24
+
+SETLIST:
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. Rape Me
+06. Sliver
+07. Pennyroyal Tea
+08. Scentless Apprentice
+09. All Apologies
+10. Heart-Shaped Box
+11. Blew
+12. The Man Who Sold The World
+13. School
+14. Come As You Are
+15. Lithium
+16. About A Girl
+17. Endless, Nameless
+
+MD5 FINGERPRINTS:
+52bd3bb4acc9ef42099252b2d84e7065 *NIRVANA 1993-12-13 SBD#2 DAT(x)_00 Intro.flac
+00ea33bf1f7d81856806af22ff160b8b *NIRVANA 1993-12-13 SBD#2 DAT(x)_01 Radio Friendly Unit Shifter.flac
+7c6b6115f6378337257321fa4866c96d *NIRVANA 1993-12-13 SBD#2 DAT(x)_02 Drain You.flac
+36f6ddfc412647d23de9081271dc8da4 *NIRVANA 1993-12-13 SBD#2 DAT(x)_03 Breed.flac
+f7254f4fe59b865edf04bba89dbae7a0 *NIRVANA 1993-12-13 SBD#2 DAT(x)_04 Serve The Servants.flac
+858c7336d17c8f0edb4c65aba986fd8a *NIRVANA 1993-12-13 SBD#2 DAT(x)_05 Rape Me.flac
+026dbb7a014ed940fe8bd61b5363e8c0 *NIRVANA 1993-12-13 SBD#2 DAT(x)_06 Sliver.flac
+be7ca93402e9a87d5a4373883360db20 *NIRVANA 1993-12-13 SBD#2 DAT(x)_07 Pennyroyal Tea.flac
+b534ee3aa5b058e1d5af4dcc2004aa6d *NIRVANA 1993-12-13 SBD#2 DAT(x)_08 Scentless Apprentice.flac
+6c3c5b2add0685246279e8add5f26bb0 *NIRVANA 1993-12-13 SBD#2 DAT(x)_09 All Apologies.flac
+54a2296794ce9dff59eb6dfe3290e448 *NIRVANA 1993-12-13 SBD#2 DAT(x)_10 Heart-Shaped Box.flac
+8437b2382917dbaf71e29015fb5fad8e *NIRVANA 1993-12-13 SBD#2 DAT(x)_11 Blew.flac
+9a8ca6338b92e089b53bd7100ba116fb *NIRVANA 1993-12-13 SBD#2 DAT(x)_12 The Man Who Sold The World.flac
+01901dc9ddcb180061860570c50be1fb *NIRVANA 1993-12-13 SBD#2 DAT(x)_13 School.flac
+f9849a8ea64f6bb350bbad5f75933b85 *NIRVANA 1993-12-13 SBD#2 DAT(x)_14 Come As You Are.flac
+6143f16ee708e662fcdf9f9b301eb4d9 *NIRVANA 1993-12-13 SBD#2 DAT(x)_15 Lithium.flac
+040098a88e44d148189b55ffa6d96d2e *NIRVANA 1993-12-13 SBD#2 DAT(x)_16 About A Girl.flac
+8e2358bd460acc83d34b1d82132b42b4 *NIRVANA 1993-12-13 SBD#2 DAT(x)_17 Endless, Nameless.flac
+
+TRANSFER:
+unknown
+
+DISTRIBUTION:
+Members of LiveNIRVANA.com
+
+NOTES:
+Presumed to be Scott Litt live "house mix".
+Unknown Digital Lineage from master SBD feed, absolutely no ANA step, as is almost digitally identical sample-lock to official DVD audio track (no possibility of ANA tape speed drift).
+No post-digital analogue noise floor or spectral haze. Assured to be digital lineage with no ANA step.
+
+**DO NOT ENCODE TO LOSSY FORMATS OR SELL!**
+
+2023-12-13

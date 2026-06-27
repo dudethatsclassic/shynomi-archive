@@ -1,0 +1,45 @@
+NIRVANA
+March 20, 1990
+Television Studio, The Evergreen State College, 
+Olympia, WA
+
+SOURCE (AMT #1, PRO #1b):
+unknown > unknown
+
+GENERATION:
+VHS(1) > DVDR(1) > REAUTHOR > DVDR(2) [NTSC 8.0Mbps CBR, 448kbps AC3]
+
+LENGTH:
+36:16
+
+TRACKS:
+01. School (Take 1)
+02. School (Take 2)
+03. Lithium
+04. Jam
+05. Big Cheese (Take 1)
+06. Big Cheese (Take 2)
+07. Floyd The Barber
+08. School (Take 2 - Edit)
+09. Lithium (Edit)
+10. Behind the scenes (1) (Floyd The Barber)
+11. Behind the scenes (2)
+
+TRANSFER:
+Unknown standalone deck
+
+NOTES:
+- Was initially labelled as VHS(x)
+
+MD5 FINGERPRINTS:
+2dceeea5ebaeb9a48a0256feef238578 *VIDEO_TS.BUP
+2dceeea5ebaeb9a48a0256feef238578 *VIDEO_TS.IFO
+2e56261eec0e5f1bc5481b547351e321 *VIDEO_TS.VOB
+7f3dd0df073c21c48ae2a5ec2324e01b *VTS_01_0.BUP
+7f3dd0df073c21c48ae2a5ec2324e01b *VTS_01_0.IFO
+413f66e4ecfe0d97c978970f3844345b *VTS_01_0.VOB
+a7e08394a8fa9ccf649a9cc057b332bb *VTS_01_1.VOB
+0ff6cca38654020899ab872bb33ef32a *VTS_01_2.VOB
+
+REAUTHORED BY:
+Tim Hall

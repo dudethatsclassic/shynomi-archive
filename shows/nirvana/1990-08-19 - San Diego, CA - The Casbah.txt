@@ -1,0 +1,70 @@
+NIRVANA
+August 19, 1990
+The Casbah
+San Diego, CA
+
+DISC #1/1 (61:57)
+-----------------
+01) intro
+02) In Bloom
+03) Floyd The Barber
+04) Love Buzz
+05) Dive (cut)
+06) School
+07) jam
+08) Big Cheese
+09) About A Girl
+10) Stay Away
+11) Lithium
+12) Scoff
+13) Spank Thru
+14) Been A Son
+15) Stain
+16) Negative Creep
+17) Blew
+18) Eye Flys (jam)
+19) Verse Chorus Verse
+
+GENERATION
+-----------------
+ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1a)
+-----------------
+unknown -> Sony WM-D6
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- "Rock Whore" is played briefly by Kurt after "Blew"
+- Small cut during "Dive" 
+- Flutter is from original analog cassette, not digital errors.
+
+MD5 FINGERPRINTS
+-----------------
+69f13e276e1019232fc8dc279a50b35b *nirvana1990-08-19t01.flac
+30ff8921127d76f1d01b41c74349efb4 *nirvana1990-08-19t02.flac
+5977c44308a82082bf2c5673da3df755 *nirvana1990-08-19t03.flac
+6d2ccfa70238f1302eedda1532afd629 *nirvana1990-08-19t04.flac
+c2c10c9c46936a81d7edb10a65c58faa *nirvana1990-08-19t05.flac
+1b609eb43cfed645d42b53b83bb81e47 *nirvana1990-08-19t06.flac
+15c371129c2b3aa1bf14b46c9650821a *nirvana1990-08-19t07.flac
+baa89f90df3e29728f4c3a4786843546 *nirvana1990-08-19t08.flac
+ec2b67de192ce4cf76f4f7e247141e91 *nirvana1990-08-19t09.flac
+b7a3ee9ec7444d77830ac11f241a9180 *nirvana1990-08-19t10.flac
+ff4ae57d063df635c30cea70224e7b07 *nirvana1990-08-19t11.flac
+d186542c85b8ee239577f098e46a4d0c *nirvana1990-08-19t12.flac
+a9354f9a0c753a4a6b3fe4625ffd7d33 *nirvana1990-08-19t13.flac
+763e08f20182e7baa05700965bb7b003 *nirvana1990-08-19t14.flac
+d28e67a073a62e0028aabc1a59ea041f *nirvana1990-08-19t15.flac
+1fab5e5ed3e23038cce266109d42954b *nirvana1990-08-19t16.flac
+e0d113e5dd291ac20e78155c54044e8e *nirvana1990-08-19t17.flac
+023dffe0dc0d5d8d6579b12ad7bcb68d *nirvana1990-08-19t18.flac
+01654463dfe7ff4ac38119c917f4f150 *nirvana1990-08-19t19.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

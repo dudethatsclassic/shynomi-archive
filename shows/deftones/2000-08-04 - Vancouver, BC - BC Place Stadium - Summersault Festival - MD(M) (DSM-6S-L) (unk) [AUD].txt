@@ -1,0 +1,31 @@
+Deftones
+08.04.00
+Vancouver, BC
+B.C. Place Stadium
+Summersault Festival
+
+source: DSM-6S/L>PA-6LC3B(250)>MD-MS722
+transfer: Sony MDS-S39>Optical Cable>IHP-140>USB 2.0>HD
+lineage: MD(m)>WAV(m)>FLAC
+editing: Fade in/Fade out, removed md skips
+
+Setlist
+
+Band Introduction
+Theme from Twin Peaks Intro (tape)
+Be Quiet and Drive
+My Own Summer
+Feiticeira
+Root
+Digital Bath
+Bored
+Passenger %
+Head Up
+------
+Bonus:
+Change #
+
+
+notes:
+% with Maynard James Keenan
+# from 06.20.00 New York, NY @ Ed Sulivan Theater - Letterman Show; TV>VHS(m)>ANA-cable>MD-MS722

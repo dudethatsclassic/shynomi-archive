@@ -1,0 +1,51 @@
+Radiohead
+August 13, 2003
+Tweeter Center
+Mansfield, MA
+
+2 Source Mix: [Schoeps CCM4>MP-2>M1>DAT-M>SHN>.wav] + 
+		[MM-MCSM-4>bbox>D8>DAT-M>SHN>.wav] => CDR(1) > FLAC
+-----------------------------------------------------------------------------------
+Source:    Schoeps CCM4 (ORTF in hat) > Sound Devices MP-2 > Sony PCM-M1 @48kHz
+Location:  FOB/Front row of pit against barricade - 3' left of center/Thom Yorke
+Conversion: Tascam DA-P1 > Samplitude 2496 > CDWav > Soundforge 4.5 > Shorten v3
+Taped/transferred/encoded by Hobbes (hipcathobbes@brown.edu)
+
+Source:	 MM-MCSM-4 > MM-EBM-CUSTOM 16hz roll-off > TCD-D8 @ 48k
+Transfer:  D8 > Core-Sound 7-pin to Coax > Coax in Audigy digital I/O 2 > Cooledit pro @ 44.1k > cdwave > Mkwact > SHN
+Taper: Injektilo*
+
+
+Disc I
+01 2+2=5
+02 Sit Down. Stand Up.
+03 Paranoid Android
+04 Kid A
+05 Backdrifts
+06 Morning Bell
+07 My Iron Lung
+08 Where I End and You Begin
+09 Sail to the Moon
+10 The Gloaming
+11 Climbing Up the Walls
+12 Creep
+13 Like Spinning Plates
+14 Go to Sleep
+15 Scatterbrain
+16 The National Anthem
+17 There There
+
+Disc II
+01 Intro
+02 Lucky
+03 A Punchup at a Wedding
+04 Airbag
+05 Everything In Its Right Place
+06 No Surprises
+07 Idioteque
+
+Notes: This mix was done long before the Pre-FM/SBD sources surfaced.
+
+
+mix and edit by BLG, done in August 2003
+.txt compiled on 08-20-11

@@ -1,0 +1,69 @@
+RADIOHEAD
+May 06, 2006
+KB Hallen, Copenhagen, DK
+
+Source 1: SP-CMC-2 > SP-SPSB-1 > JB3 (44.1, gain set at +6dB)
+Transfer: JB3 > PC via firewire.
+
+source 2: at933->bb->iriver120
+transfer: iriver->usb->hd->cep (normalized)-> cdwav->flac
+
+Synching part:
+Merged each sources files into one file via Soundforge
+Lowered volume to the weakest source
+Inserted silences on source 2 when cut occured (to match the other source)
+
+Edition part:
+loaded 2 sources into Magix samplitude 8
+Listened through JBL pro studio
+Balanced sound between the 2 sources for each tracks
+reduced clipping points using limiter (set only on spots)
+
+Mastering part:
+EQed sources
+Restoring widening using multiband 'spatializer'
+Used some plugins to have the sound feeling less colder (such as tape
+simulator / lampe simulator)
+Used multiband compressor, light use of it to give to the whole file a
+constant volume and power.
+
+Fades in and out at the end of each CD.
+
+Mixed down as 2 seperate cds.
+
+Tracking part:
+Tracked in Soundforge
+Tags & flac in foobar2000
+
+CD1: 
+
+01 Intro
+02 Everything in its right place
+03 Planet telex
+04 Bangers 'n mash
+05 Open pick
+06 Karma police
+07 Black star
+08 Nude
+09 15 step
+10 Street spirit (fade out)
+11 A Wolf at the door
+12 The bends
+
+CD2:
+
+01 4 minute warning
+02 Pyramid song
+03 House of cards
+04 Idioteque
+05 Spooks
+06 There there
+07 Bodysnatchers
+08 You and whose army?
+09 Let down
+10 Paranoid android
+11 Lucky
+
+Edited and mastered by arsen2f
+
+Seeded by ducky on October 16, 2006

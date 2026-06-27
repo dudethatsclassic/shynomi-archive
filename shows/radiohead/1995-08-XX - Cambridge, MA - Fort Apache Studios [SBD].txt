@@ -1,0 +1,61 @@
+Radiohead
+August 1995
+Fort Apache Studios
+Cambridge, MA
+
+SETLIST (41:01)
+---------------
+01. Bones
+02. Just
+03. High & Dry
+04. Lucky
+05. Anyone Can Play Guitar
+06. Fake Plastic Trees
+07. Street Spirit (Fade Out)
+08. [nice dream]
+09. The Bends
+
+GENERATION
+---------------
+ANA(1) -> FLAC
+
+SOURCE (SBD #1)
+---------------
+SBD > FM > ANA(M) > ANA(1)
+
+TRANSFER
+---------------
+ANA(1) -> M-Audio Audiophile 2496 -> CEP 2.1 (capture/fades) -> WAV -> CD Wave 1.95.1 -> FLAC(8)
+
+NOTES
+-----
+Commercial break was cut by taper.  In-studio performance for an unknown radio station.
+
+FLAC FINGERPRINTS
+-----------------
+rh-1995-08-xx-fm-t01.flac:3a93d2e63dc1978c63c93be7e44f3e2a
+rh-1995-08-xx-fm-t02.flac:d5ed821efeeb33457251963d503af95f
+rh-1995-08-xx-fm-t03.flac:96361ba7002cb68935e31877d24ee577
+rh-1995-08-xx-fm-t04.flac:c8d3973ee927ffe0cc451bbf300a24c4
+rh-1995-08-xx-fm-t05.flac:56cbbc54c09eb5b8d4d293566ea326e9
+rh-1995-08-xx-fm-t06.flac:0d08804df22afa0ce455e775313f20a1
+rh-1995-08-xx-fm-t07.flac:40feeffb1684bb8d76655690927b426b
+rh-1995-08-xx-fm-t08.flac:d853624d3e88720520302c928f6a568d
+rh-1995-08-xx-fm-t09.flac:339fa6f5768258a7f53347498155ec5c
+
+MD5 CHECKSUMS
+---------------
+75ed6ec25195b057d118289703b501ca *rh-1995-08-xx-fm-t01.flac
+1fe950a1d398a27f3e7f24635199c4cf *rh-1995-08-xx-fm-t02.flac
+f71012a307001176a4da252d70710be4 *rh-1995-08-xx-fm-t03.flac
+cb68bdfdabc462a03b0419a606843709 *rh-1995-08-xx-fm-t04.flac
+bba153b35ec6cbff2c2b7556c92ea72b *rh-1995-08-xx-fm-t05.flac
+6a64e5ddb8c0cdc54c328f1a6cfa3889 *rh-1995-08-xx-fm-t06.flac
+f939d04ba8c57a2b45bdc233990f1a55 *rh-1995-08-xx-fm-t07.flac
+4e8317e82bf13ced7bb9d5a9afcb0733 *rh-1995-08-xx-fm-t08.flac
+4812e4b0846e98f3badc9f643fb0b425 *rh-1995-08-xx-fm-t09.flac
+
+Taper: unknown
+Transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

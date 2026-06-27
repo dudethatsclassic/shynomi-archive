@@ -1,0 +1,60 @@
+NIRVANA
+February 12, 1990
+Cattle Club, 
+Sacramento, CA 
+
+DISC #1/1 (44:40)
+-----------------
+01) California Über Alles (jam) (cut)
+02) Love Buzz
+03) Floyd The Barber
+04) School
+05) About A Girl
+06) Dive
+07) Polly
+08) Molly's Lips
+09) Sappy
+10) Scoff
+11) Breed
+12) Been A Son
+13) Stain
+14) Negative Creep (cut)
+15) Blew (cut)
+
+GENERATION
+-----------------
+8MM(M) -> VHS(1) -> CDR(3) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT #1)
+-----------------
+Sony ECM-909 > Aiwa CV-80 (Video8)
+
+EXTRACTION
+----------------
+Samsung SH-W163A -> Exact Audio Copy v0.99 prebeta 4 -> FLAC Frontend 1.7.1 
+
+NOTES
+-----------------
+- The "California Über Alles" jam and "Negative Creep" cut in. "Blew" cuts out.
+
+MD5 FINGERPRINTS
+-----------------
+ea24e202e2313e7142b8a9262ffd64bc *nirvana1990-02-12d1t01.flac
+8f7ea039ec500326370f34f3eb8e8b43 *nirvana1990-02-12d1t02.flac
+6291ce56f4805616114501e9aa5a84ac *nirvana1990-02-12d1t03.flac
+5604b356682cb7a56d8ae55fbfb0f0f6 *nirvana1990-02-12d1t04.flac
+15a57d9451ef9ce613ee7c90cc7ced4d *nirvana1990-02-12d1t05.flac
+b301a4b35ddccda12649ef4d371dfb98 *nirvana1990-02-12d1t06.flac
+1f93b22bd7d07fcd3e1c0c194ddd8917 *nirvana1990-02-12d1t07.flac
+d47f57119e7815c517525e0f984d58b1 *nirvana1990-02-12d1t08.flac
+7b66c68c73b4487f61abb7c86644f2ec *nirvana1990-02-12d1t09.flac
+17ed790a6f1888ee1e0338050cbcc99d *nirvana1990-02-12d1t10.flac
+0544006f4f9b3b6e4fa28a2f39265c64 *nirvana1990-02-12d1t11.flac
+1b761a881464888b2d002ac7c4738137 *nirvana1990-02-12d1t12.flac
+dded9e12aa6e384026a63fbc748c25ea *nirvana1990-02-12d1t13.flac
+ced091b13c18b19e6ff97619024d45d4 *nirvana1990-02-12d1t14.flac
+eb46050dcb728ad438260a7816330551 *nirvana1990-02-12d1t15.flac
+
+
+Extracted by Fabian Beyer.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

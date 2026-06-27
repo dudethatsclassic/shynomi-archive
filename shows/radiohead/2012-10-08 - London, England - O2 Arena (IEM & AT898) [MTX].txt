@@ -1,0 +1,40 @@
+Radiohead
+O2 Arena, London, England
+08 October 2012
+
+Source 1: AT898 > SP-SPSB-10 > Edirol R-09HR (44.1kHz 24 bit)
+Source 2: Icom IC-R5 > Edirol R-09HR (44.1kHz 24 bit)
+
+Time aligned in Adobe Audition CS5. Mastered in Adobe Audition CS5, Izotope Ozone 5 and Har-Bal 2.3
+
+Setlist:
+-------- 
+
+        Lotus Flower
+        15 Step
+        Bloom
+        Kid A
+        The Daily Mail
+        Myxomatosis
+        Climbing Up the Walls
+        The Gloaming
+        Separator
+        These Are My Twisted Words
+        Like Spinning Plates
+        Nude
+        Identikit
+        Karma Police
+        Feral
+        Idioteque
+
+        Encore:
+        Pyramid Song
+        Staircase
+        Morning Mr. Magpie
+        Weird Fishes/Arpeggi
+        Reckoner
+
+        Encore 2:
+        Give Up the Ghost
+        There There
+        Everything in Its Right Place (w/ R.E.M.'s "The One I Love" intro)

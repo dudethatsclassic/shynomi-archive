@@ -1,0 +1,49 @@
+
+Radiohead
+Lollapalooza @ Grant Park: Chicago, IL
+July 29, 2016
+
+Source: AT831s > SP-SPSB-11 (@69Hz) > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: FOB left stack
+Transfer: SD Card > Audacity (amplify/dither) > CDWave > TLH
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Burn the Witch
+03 Daydreaming
+04 Ful Stop
+05 2+2=5
+06 Myxomatosis 
+07 My Iron Lung
+08 Climbing Up the Walls
+09 No Surprises
+10 Pyramid Song
+11 Bloom
+12 Identikit
+13 The Numbers
+14 The Gloaming
+15 Weird Fishes / Arpeggi
+16 Everything In It's Right Place >
+17 Idioteque
+18 There There
+19 -Encore Break-
+20 Let Down
+21 Present Tense
+22 Paranoid Android
+23 Nude
+24 Bodysnatchers
+25 -Encore Break 2-
+26 Street Spirit
+27 Karma Police
+28 Outro
+
+Notes: Headliner on the Samsung Galaxy Stage on Night 2 of 4 at Lollapalooza. M10 set at 5. Amplified the entire recording by +2dB prior to dithering. Otherwise, this is a raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 7/30/2016
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

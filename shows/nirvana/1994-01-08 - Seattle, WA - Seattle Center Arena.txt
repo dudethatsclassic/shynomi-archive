@@ -1,0 +1,79 @@
+NIRVANA
+January 8, 1994
+Seattle Center Arena
+Seattle, WA
+
+SOURCE (AUD #2):
+Sonic Studios DSM-6 > unknown
+
+TRANSFER:
+Tascam DA-20mkII > Apogee S/PDIF cable > LynxONE digital-in > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+DAT(1) [48kHz] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+99:31
+
+TRACKS (DISC 1):
+01. intro
+02. Radio Friendly Unit Shifter
+03. Drain You
+04. Breed
+05. Serve The Servants
+06. Come As You Are
+07. Smells Like Teen Spirit
+08. Sliver
+09. Dumb
+10. In Bloom
+11. About A Girl
+12. Lithium
+13. Pennyroyal Tea
+14. School
+15. Polly
+
+TRACKS (DISC 2):
+01. Frances Farmer Will Have Her Revenge On Seattle
+02. Milk It
+03. Rape Me
+04. Territorial Pissings
+05. Jesus Wants Me For A Sunbeam
+06. The Man Who Sold The World
+07. All Apologies
+08. Scentless Apprentice
+09. On A Plain
+10. Heart-Shaped Box
+11. Blew
+
+MD5 FINGERPRINTS:
+563ed6ff443b6b48b2d3a4cbc2ec1203 *Nirvana_1994-01-08_AUD2_d1t01.flac
+2775a4cbc4c11827d6da706ce53e2699 *Nirvana_1994-01-08_AUD2_d1t02.flac
+df48496dcb8054eb2f9aae49f492bd9b *Nirvana_1994-01-08_AUD2_d1t03.flac
+fe8fefd6c1764ac09ca4ff36535212f9 *Nirvana_1994-01-08_AUD2_d1t04.flac
+a2e72940b53409489252a628e8dc7492 *Nirvana_1994-01-08_AUD2_d1t05.flac
+1ea1000cef0b2d1a15b0eb0e0559f746 *Nirvana_1994-01-08_AUD2_d1t06.flac
+07702ca997f353cfb7c868b1bdf47127 *Nirvana_1994-01-08_AUD2_d1t07.flac
+609d36295f8e7a9a58dc6565a811d27d *Nirvana_1994-01-08_AUD2_d1t08.flac
+7d82cd3f9b79e7822899b1be0170e176 *Nirvana_1994-01-08_AUD2_d1t09.flac
+ac236f5ec999d3c639f12823c79d8485 *Nirvana_1994-01-08_AUD2_d1t10.flac
+c3b767a07ce7cbc146c1929c2f4d4240 *Nirvana_1994-01-08_AUD2_d1t11.flac
+e219cc49c775b0955ff7a655ecaba060 *Nirvana_1994-01-08_AUD2_d1t12.flac
+c917f1fe3b81aec6fa4b6798e50d43fe *Nirvana_1994-01-08_AUD2_d1t13.flac
+b33c350eec93657d9b01630f8368795c *Nirvana_1994-01-08_AUD2_d1t14.flac
+47d6641c8cf4ab146ac701e16f6ca7d1 *Nirvana_1994-01-08_AUD2_d1t15.flac
+818b72f3e850be8f5b9f6bba5fc05a2c *Nirvana_1994-01-08_AUD2_d2t01.flac
+836c2acb2abf695cdc33d94d5f30a3fa *Nirvana_1994-01-08_AUD2_d2t02.flac
+a055e49ee3bc48f5f6446fe23ad6b28c *Nirvana_1994-01-08_AUD2_d2t03.flac
+bceaee16473d1bb6dfd8a3091cef4dd0 *Nirvana_1994-01-08_AUD2_d2t04.flac
+9638250dcd2aea4e0830a3ee3de54feb *Nirvana_1994-01-08_AUD2_d2t05.flac
+77b6558c5b85c1ba1a09011ab4b8b702 *Nirvana_1994-01-08_AUD2_d2t06.flac
+4792db036354ce18aec15ea89d9bfa58 *Nirvana_1994-01-08_AUD2_d2t07.flac
+db546b50821e4d81203175befb614b47 *Nirvana_1994-01-08_AUD2_d2t08.flac
+9dadb3b34197167073cb49d84f409d46 *Nirvana_1994-01-08_AUD2_d2t09.flac
+672722cc99a3a4b201532224f3d25e29 *Nirvana_1994-01-08_AUD2_d2t10.flac
+4bae83435034c94325642e811665ea12 *Nirvana_1994-01-08_AUD2_d2t11.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,117 @@
+Radiohead
+July 11th, 2018 (2018-07-11)
+Madison Square Garden night 2 of 4
+New York, New York US
+
+Filmer: lordazuretwentyfive
+Location: rail near Ed
+Video: Panasonic Lumix DMC-ZS60 
+
+Audio track 1: 
+Taper: Edgar
+Location: FOB DFC - GA floor
+Source: AT831 > SP Batt Box Rolloff @95 > Roland R07
+Transfer: Micro SD card > MacBook Pro > Audacity (aside from pre and post show fades, only used for normalization + 4db boost and track marking)
+Editing: inez (Izotope Rx/Audacity)
+
+Audio track 2: left as originally captured by Panasonic Lumix DMC-ZS60
+
+Post-production: Adobe premiere to edit and render the AT831 audio track to align to the video time-line > Adobe audition to re-verify the audio > mkvtoolnix to remux. No video transcodes. Tracked.
+Editor: flying horseman
+
+Notes from Inez:
+Happy anniversary!!!
+3 years - seems like yesterday - well, we can sort of cross out a year and a half of pandemic...
+Anyways - the immense thanks go to the filmer, lordazuretwentyfive, who was on duty every night capturing these incredible shows... You probably have seen the raw footage from the camera on Youtube. I should add: this particular show was transferred and edited AT MY VERY KITCHEN TABLE between gig 2 and gig 3 (we had 1 night off), on a 27" iMac that temporarily moved into my apartment for that purpose (!!), along with 5 Radiohead fans lololol If this sounds in any way weird to you - you have not met enough Radiohead fans yet :)
+I am also thanking Edgar profusely again (for being on the job in the back by the SBD) whose glorious tape has now been synced to the video. The tape was released back in 2018 and is still seeding here - http://www.dimeadozen.org/torrents-details.php?id=626829
+
+The video has been edited slightly right that night and is missing a bit of in-between songs time and encore breaks (about 6 min total), so syncing Edgar's audio was also a 'process' - and of course I am thanking flying horseman for being the man for the job!! 
+The original audio from the camera is kept as track 2 - but there is a REASON we are going through putting nice audio on - the little camera is choking at the rail. So were my ears to be honest! Lol
+
+Please enjoy! Stay well and safe, and get vaccinated if you haven't yet because the shows are starting up!
+
+
+Setlist
+
+01. Daydreaming 
+02. Desert Island Disk 
+03. Ful Stop 
+04. Myxomatosis 
+05. 15 Step 
+06. Kid A
+07. All I Need 
+08. The National Anthem
+09. The Gloaming 
+10. Spectre 
+11. You and Whose Army? 
+12. Bloom 
+13. Identikit 
+14. Weird Fishes/Arpeggi 
+15. No Surprises 
+16. There There 
+17. Everything in Its Right Place 
+
+encore break 1 
+
+18. Optimistic 
+19. Nude 
+21. The Numbers 
+22. Lotus Flower 
+23. Fake Plastic Trees 
+
+encore break 2 
+
+24. Idioteque 
+25. Exit Music (for a Film)
+26. Karma Police
+
+
+Tech specs:
+
+General / Container Stream # 1
+	Total Video Streams for this File -> 1
+	Total Audio Streams for this File -> 2
+	Video Codecs Used -> AVC
+	Audio Codecs Used -> PCM / AAC LC
+	File Format -> Matroska
+	Play Time -> 2h 2mn
+	Total File Size -> 18.7 GiB
+	Total Stream BitRate -> 21.8 Mbps
+	Encoded with -> mkvmerge v35.0.0 ('All The Love In The World') 64-bit
+	Encoding Library -> libebml v1.3.9 + libmatroska v1.5.2
+Video Stream # 1
+	Codec (Human Name) -> AVC
+	Codec (FourCC) -> V_MPEG4/ISO/AVC
+	Codec Profile -> High@L4.2
+	Frame Width -> 1 920 pixels
+	Frame Height -> 1 080 pixels
+	Frame Rate -> 59.940 fps
+	Total Frames -> 440763
+	Display Aspect Ratio -> 16/9
+	Scan Type -> Progressive
+	Colorimetry -> 4:2:0
+	Codec Settings (Summary) -> CABAC / 2 Ref Frames
+	Codec Settings (CABAC) -> Yes
+	Video Stream Length -> 2h 2mn 26s 50ms
+	Bit Depth -> 24 bits
+Audio Stream # 1
+	Codec -> PCM
+	Codec (FourCC) -> A_PCM/INT/LIT
+	Audio Stream Length -> 2h 2mn 33s 408ms
+	Audio Stream BitRate Mode -> CBR
+	Number of Audio Channels -> 2
+	Sampling Rate -> 48.0 KHz
+	Bit Depth -> 16 bits
+Audio Stream # 2
+	Codec -> AAC
+	Codec (FourCC) -> A_AAC
+	Audio Stream Length -> 2h 2mn 33s 408ms
+	Number of Audio Channels -> 2
+	Audio Channel's Positions -> L R
+	Sampling Rate -> 48.0 KHz
+	Bit Depth -> 16 bits
+
+seeded to dime: July 10th, 2021
+
+**Please support the artists!! Buy their official releases and go see them live**
+**Please do not share in lossy formats and never sell!!**

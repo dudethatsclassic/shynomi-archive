@@ -1,0 +1,58 @@
+NIRVANA
+Montage of Heck
+
+DISC #1/1 (35:54)
+-----------------
+Split in 33 tracks
+
+GENERATION
+-----------------
+ANA(1) -> CDR(2) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Pioneer DVR-109 -> Exact Audio Copy V0.95 beta 4 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+fb4a8a33002e8fd37bda87c1da06ca9c *nirvanaMoHt01.flac
+f700f51aadccb650734e3ea9e42aa7bd *nirvanaMoHt02.flac
+a5b2735177bd8fb2e5ed5bc76ff69ffd *nirvanaMoHt03.flac
+d6ed177b301b879cf14358d16c5bc0a8 *nirvanaMoHt04.flac
+e412fe74bd1473914f4b61fdd9899e82 *nirvanaMoHt05.flac
+436a9f7f4c69540b884c29efffc14b77 *nirvanaMoHt06.flac
+837481fe2933db121b3316145a376ba4 *nirvanaMoHt07.flac
+55323b03b090fe9424291e895de87514 *nirvanaMoHt08.flac
+ffc0498c4163624bf0ba76c486f3a749 *nirvanaMoHt09.flac
+d6e712e782c78582f197baccc75bd47c *nirvanaMoHt10.flac
+de55df66adce050414869818a452ce1a *nirvanaMoHt11.flac
+db367c504bc7aafed9a492e9ccb21c8e *nirvanaMoHt12.flac
+67efc0bbf9573849d0377b80836ef57d *nirvanaMoHt13.flac
+c2815945a739ef257cadea2d74d42d5c *nirvanaMoHt14.flac
+cb3ab542fae27facdfe8f8009355c378 *nirvanaMoHt15.flac
+a2ed697646c4563d6602d370937791ad *nirvanaMoHt16.flac
+37b15b9935f4681323cc9c053f725465 *nirvanaMoHt17.flac
+727c9633ebf75b6a034b6a4519e78544 *nirvanaMoHt18.flac
+c7a22f4d0713131ff6c5826ed9abd1cd *nirvanaMoHt19.flac
+23b762546f2487877568a1e59ab6b488 *nirvanaMoHt20.flac
+4cedffe812c947327002ab942380c91e *nirvanaMoHt21.flac
+c5919aa2fcaaa19c1db01a32e451c61b *nirvanaMoHt22.flac
+bcaf34fbc7fd3a0f32f4f6ace6d37ccc *nirvanaMoHt23.flac
+78d39ca8cce69f0eba8722b3115972c9 *nirvanaMoHt24.flac
+0129e3c3068d0907767baf63b47d2449 *nirvanaMoHt25.flac
+a9374dc39cea9063a12d856b6110a8e0 *nirvanaMoHt26.flac
+78ccb60d8d258d925bcc98f1ac0a272a *nirvanaMoHt27.flac
+430467415ce8c98a13b32635eeef93b9 *nirvanaMoHt28.flac
+5eee07c223fcbbe99d6353e6fac2cbfd *nirvanaMoHt29.flac
+eda5ead8aa88f0f24e40c2770c447383 *nirvanaMoHt30.flac
+817685961f8a999af71b2befd14446ac *nirvanaMoHt31.flac
+9ec1b5c15924d138599f5ee1e0cb3281 *nirvanaMoHt32.flac
+0d7d36fff952a56f0bdab91ec3096bdc *nirvanaMoHt33.flac
+
+
+Transferred by Youri Lacan-Bartley.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

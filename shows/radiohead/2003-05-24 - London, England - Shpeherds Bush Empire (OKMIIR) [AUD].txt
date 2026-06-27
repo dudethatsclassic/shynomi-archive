@@ -1,0 +1,54 @@
+----------------------------------------------------------------
+
+###########################################################################################
+#########Don't ever distribute these SHN files without the source info text file!!!!#######
+###########################################################################################
+
+----------------------------------------------------------------
+	Artist:			Radiohead
+	Date:			May 24th 2003
+	Location:		Shepherds Bush Empire, London, England
+	Taper:			Chester
+	e-mail:			chester23@web.de
+	DC++ screenname:	uselessadvert2305
+	date of seeding:	May 30th 2003
+----------------------------------------------------------------
+	Source Info:		>OKMIIR
+				>A3 6V power supply (-20dB, no bass cut enabled)
+				>Sony D-100 DAT recorder (line-in 44.1kHz)
+				>TDK DA-RXG 180 tape
+				>S/PDIF opical IN (PC)
+				>Cool Edit Pro
+				>WAV 44.1kHz 16-bit (0dB)
+				>CD Wave Editor 1.73 (cutting)
+				>mkw ACT 0.97 Beta 1 SHN
+				>SHN
+----------------------------------------------------------------
+	additional info:	Standing Center half way between stage and sound desk.
+----------------------------------------------------------------
+	running time:		1h:58m:42s
+----------------------------------------------------------------
+	Setlist:			01 there there
+				02 2+2=5
+				03 national anthem
+				04 morning bell
+				05 scatterbrain
+				06 kid a 
+				07 go to sleep
+				08 climbing up the walls
+				09 backdrifts
+				10 sail to the moon
+				11 sit down stand up
+				12 no surprises
+				13 talk show host
+				14 where I end and you begin
+				15 paranoid android
+				16 idioteque
+				17 everything in its right place
+				18 i might be wrong
+				19 the gloaming
+				20 myxomatosis
+				21 lucky
+				22 fake plastic trees
+				23 how to disappear
+----------------------------------------------------------------

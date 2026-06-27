@@ -1,0 +1,54 @@
+Korn
+August 23rd, 2022.
+Blossom Music Center - Cuyahoga Falls, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   section 14, row M, seat 1; mics mounted on baseball hat brim.
+            (see chart here: http://www.ticketmaster.com/seatingchart/40964/68554)
+Source:     AT853U Cardioids (4.7k mod) > SP-SPSB-11 (@69Hz) > Sony PCM-A10 (24 bit @48kHz) >
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Sony PCM-A10 > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (1:19:38)
+
+01. 4U						1:46
+02. Rotting In Vain				3:32
+03. A.D.I.D.A.S.				2:54
+04. Here To Stay				5:22
+05. Start The Healing				4:51
+06. Ball Tongue / Need To / Divine		6:08
+07. Idiosyncrasy				4:47
+08. Porno Creep					2:04
+09. Blind					5:04
+10. Falling Away From Me			7:00
+11. Alone I Break				4:41
+12. Got The Life				5:23
+13. Let The Dark Do The Rest			4:45
+14. Y'All Want A Single				4:21
+15. ~ Encore ~					3:03
+16. Shoots And Ladders +			5:58
+17. Twist					1:04
+18. Freak On A Leash *				6:56
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
++ = Features "One" tag, Originally Recorded By Metallica.
+* = Features Amy Lee from Evanescence on backing vocals.
+
+Just a week prior to the show, a great seat popped up in section 14 on the aisle
+4 rows back from the pit! When I got there I felt like I was too close, but the
+recording turned out just fine. I did point the mics upwards moreso than normal
+on my hat's brim. The sound was bass heavy at times (it's Korn, afterall), so I
+did EQ a bit to improve the overall sound. These guys are always great live, this
+was no exception. "Freak On A Leash" with Amy guesting was my favorite moment.
+ 
+Co-headlining with Evanescence [recorded]. 
+Also on the bill were Helmet & Jeris Johnson [not recorded].
+
+---------------------------------------------------------------------------------------------------------
+For more information on Korn, please visit:
+
+http://www.korn.com/

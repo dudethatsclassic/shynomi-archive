@@ -1,0 +1,66 @@
+Radiohead
+June 2006
+North America 
+"LP7"
+
+Montreal, Quebec, Canada - Salle Wilfred Pelletier, Place des Arts - June 11, 2006
+Source:  AT853rx (cardioid)> Edirol UA-5>JB3 (15th row, Center)
+Transfer: JB3>Adobe Audition (L3 Ultramaximizer)>CDWave>FLAC
+Flac>CEP 2.0 (trim, normalize to +1, fade in/out)
+Taped and Transferred by Blane
+
+Berkeley, CA - Hearst Greek Theatre, UC Berkeley - June 23, 2006
+Source 1:
+Audience: CCM4->SX-M2->PCM-M1(44.1K), FOB, DFC
+Mastering: Correction for record level changes, tiny bit of Q3 and L2 
+Credits: Recording, Mastering, Seeding (dime 2006-06-24): PersistentSound 
+Source 2:
+Audience: Neumann KM140s > Sound Devices MP2 > Sony SBM1 (48k) > Sony D7
+Transfer: DAT master > Standalone CD > EAC > PC/WAV > FLAC 
+Source 3:
+Audience: Schoeps CCM4->Heisenberg compensator->Tricorder
+Credits: The Man
+Applied some L3 and Q2 to the whole mix. Mixed in Adobe Audition 2.0
+Show Version: Deluxe Version 1.0 
+Mixed and compiled by senecastj@yahoo.com
+
+Berkeley, CA - Hearst Greek Theatre, UC Berkeley - June 24, 2006
+Source 1:
+Audience: Neumann KM140s > Sound Devices MP2 > Sony SBM1 (48k) > Sony D7
+Transfer: DAT master > Standalone CD > EAC > PC/WAV > FLAC
+Source 2:
+Audience: Schoeps 2000->Heisenberg compensator->Tricorder
+Credits: The Man
+Added some pixie dust to the whole record from some other sources
+Applied some L3 and Q2 to the whole mix. Mixed in Adobe Audition 2.0
+Show Version: Mix 7
+Mixed and compiled by senecastj@yahoo.com
+
+All Tracks From Torrents Here And There (There)>Flac>CEP 2.00 (trim, normalize to +1db on 6/11/06 & 6/23/06, fade in/out)>flac level 7
+Assembly:  formengr 
+
+01. (sketchy) 
+02. Bodysnatchers - 6/24/06
+03. All I Need - 6/24/06
+04. Open Pick - 6/11/06
+05. Nude - 6/24/06
+06. Spooks - 6/23/06
+07. Bangers n Mash - 6/24/06
+08. 15 Step - 6/24/06
+09. Arpeggi - 6/24/06
+10. House Of Cards - 6/23/06
+11. Go Slowly - 6/24/06
+12. Down Is The New Up - 6/24/06
+13. Four Minute Warning - 6/23/06
+14. Videotape - 6/23/06
+15. I Want None Of This - 6/11/06
+
+---
+
+Please don't sell this recording in any way - no cash for blanks, 2:1s, or
+any other form of "getting paid for your time". Just share it freely.
+
+If you're going to destroy the sound of some ultra-spiffy high-end rigs by encoding and spreading them via poorly encoded mp3's, please keep them on your own computer and not dilute the tradepool. The man thanks you.
+
+Nothin' but love, form
+July 4, 2007

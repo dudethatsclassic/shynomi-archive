@@ -1,0 +1,42 @@
+Dave Grohl, Krist Novoselic, Pat Smear & Friends
+October 6th, 2018
+Glen Helen Regional Park (CAL JAM 18) 
+San Bernardino, CA
+
+SOURCE (AUD #1):
+Church Audio CA-14 > Edirol R-09 (Flash Recorder)
+
+TRANSFER:
+USB > Adobe Audition CC 2017 > CDWave 1.98 > FLAC.exe
+
+GENERATION:
+WAV(M) [44.1khz/24-bit] > FLAC [Level 8]
+
+NOTES: 
+- 'Serve The Servants', 'Scentless Apprentice' and 'In Bloom' feature John McCauley on lead vocals.
+- 'Breed', 'Smells Like Teen Spirit' and 'All Apologies' feature Joan Jett on lead vocals.
+- Brodie Dalle plays bass on 'All Apologies'.
+
+LENGTH:
+29:06
+
+TRACKS:
+01. Serve The Servants
+02. Scentless Apprentice
+03. In Bloom
+04. Breed
+05. Smells Like Teen Spirit
+06. All Apologies
+
+MD5 FINGERPRINTS:
+d045601845ec8cd6996eda4099efe2d4 *01. Serve The Servants.flac
+15da172f8daa35b0089ba5ce04c997f4 *02. Scentless Apprentice.flac
+303e9435ec45ecf169bc12e12ae65b2c *03. In Bloom.flac
+d8de215b290528994169332b9582e86e *04. Breed.flac
+e4a042414557aff57f76c04f152a8ddb *05. Smells Like Teen Spirit.flac
+042b9d87f3369afe35cb3e8cc4ff0082 *06. All Apologies.flac
+
+RECORDED BY:
+wavtaper
+
+**PLEASE DO NOT SELL OR ENCODE TO LOSSY FORMATS!**

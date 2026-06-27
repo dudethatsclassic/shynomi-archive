@@ -1,0 +1,58 @@
+NIRVANA
+October 6, 1989
+Murphy's Pub
+Cincinnati, OH
+
+DISC #1/1 (57:07)
+-----------------
+01) intro
+02) School
+03) Scoff
+04) Love Buzz
+05) Floyd The Barber
+06) Dive
+07) Polly
+08) Big Cheese
+09) About A Girl
+10) Token Eastern Song
+11) Even In His Youth
+12) Spank Thru
+13) Negative Creep
+14) Blew (cut)
+15) Stain
+16) Paper Cuts (cut)
+
+GENERATION
+-----------------
+ANA(M) -> DAT(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+9b0c4c3bb57b9f70fd5d124d0f951930 *nirvana1989-10-06t01.flac
+19f8ab53e851eeb17555ef123e72621c *nirvana1989-10-06t02.flac
+3643eed139024781616c769a389102be *nirvana1989-10-06t03.flac
+69bcb79c2828868182c1e9c376e43f71 *nirvana1989-10-06t04.flac
+fe7b4b5da6715761a2103cb31add78c9 *nirvana1989-10-06t05.flac
+9adef1e3ba75282be38092e5f0343c7a *nirvana1989-10-06t06.flac
+384b61e7d624801eadd03e2e2e2c6821 *nirvana1989-10-06t07.flac
+2484065a3ebf21bf8b8b7c947660d41e *nirvana1989-10-06t08.flac
+078b28f2c1a14dbd8a817f17562f7946 *nirvana1989-10-06t09.flac
+d2c8141832372d873d02a27d5f65e423 *nirvana1989-10-06t10.flac
+bf89c396e626746d755b9b5eafb39611 *nirvana1989-10-06t11.flac
+323feabccc2c26d9f20c2e76d0f989cd *nirvana1989-10-06t12.flac
+2ce2b97f1b04a08625515d12e96d0936 *nirvana1989-10-06t13.flac
+385d3754199a59a21aef26cff77d6b0c *nirvana1989-10-06t14.flac
+3d82de5a92189f19257d0c7b0fc07d0c *nirvana1989-10-06t15.flac
+9d02c8013be1efdd6f656ad32e516367 *nirvana1989-10-06t16.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

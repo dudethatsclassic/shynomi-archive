@@ -1,0 +1,38 @@
+Deftones
+Coachella Music & Arts Festival,
+Empire Polo Club,
+Indio, CA, USA
+April 19, 2024
+
+
+Lineage: YouTube Livestream -> streamlink -> ffmpeg (edit) -> uncompressed .ts
+Video: MPEG4 Video (H264) 1920x1080 3165 30.00 fps
+Audio: AAC 130Kbps 44.1 KHz stereo
+
+
+Setlist:
+Combat
+Rocket Skates
+Swerve City
+Diamond Eyes
+Sextape
+Royal
+Rosemary
+Genesis
+Change (In the House of Flies)
+Be Quiet and Drive (Far Away)
+Please, Please, Please Let Me Get What I Want (The Smiths cover)
+My Own Summer (Shove It)
+
+
+trt = 47:05
+
+
+Input #0, mpegts, from 'Deftones - 2024-04-19 Coachella 2024, Empire Polo Club, Indio, CA [1080p].ts':
+  Duration: 00:47:05.00, start: 1.409067, bitrate: 3295 kb/s
+  Program 1
+    Metadata:
+      service_name    : Service01
+      service_provider: FFmpeg
+  Stream #0:0[0x100]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 30 fps, 30 tbr, 90k tbn
+  Stream #0:1[0x101]: Audio: aac (LC) ([15][0][0][0] / 0x000F), 44100 Hz, stereo, fltp, 130 kb/s

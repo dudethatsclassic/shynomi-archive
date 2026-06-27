@@ -1,0 +1,25 @@
+RADIOHEAD
+Tibetan Freedom Concert
+Rai Parkhal, Amsterdam, Holland
+June 14th, 1999
+
+Thom and Jonny acoustic performance. 
+
+Source: unknown aud (seems like a DAT recording) > ? > CDR > EAC > WAV > editing > FLAC
+
+Setlist:
+
+01 Pyramid Song (was then called "Nothing To Fear")
+02 Street Spirit (Fade Out)
+03 I'll Wear it Proudly (Elvis Costello cover)
+04 Lucky
+05 Karma Police
+06 Exit Music (For a Film)*
+
+* seems to be taken from another source! Sounds like FM/TV/etc... 
+  (Could be from a completely different show, even - although there's no evidence to that.)
+
+edits:
+
+Files joint and re-tracked. There was TINY gaps between tracks (not cut on sector boundaries!).
+Also some pops/short digi-noises removed throughout the show.

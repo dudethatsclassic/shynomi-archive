@@ -1,0 +1,74 @@
+Nirvana
+Paramount Theatre
+Seattle, Washington
+31 October 1991
+
+Source: Soundboard (www.nirvlove.com)
+Lineage: SBD > ? > Andy Wallace Mix > SHN > WAV > Soundforge 7.0 > Flac 1.1.0 -8
+
+File Size: 491mb (flac -8)
+
+Tracklist
+
+01. Intro
+02. Jesus Wants Me For A Sunbeam
+03. Aneurysm
+04. Drain You
+05. School
+06. Floyd the Barber
+07. Jam
+08. Smells Like Teen Spirit
+09. About A Girl
+10. Polly
+11. Breed
+12. Sliver
+13. Love Buzz
+14. Lithium
+15. Been a Son
+16. Negative Creep
+17. On A Plain
+18. Blew
+19. Audience
+20. Rape Me
+21. Territorial Pissings
+22. Endless Nameless
+
+
+MD5:
+52cab68f952d04b5152406b41f7d4b7d *Nirvana - Seattle, WA (31 Oct 1991) - 01 Intro.flac
+b51615c0fb175cb1a8466f3e7ef592d0 *Nirvana - Seattle, WA (31 Oct 1991) - 02 Jesus Wants Me For A Sunbeam.flac
+b433c66fc49230fd075ed741b27edd67 *Nirvana - Seattle, WA (31 Oct 1991) - 03 Aneurysm.flac
+ee175c4115087d9ffa48ed6076ae5508 *Nirvana - Seattle, WA (31 Oct 1991) - 04 Drain You.flac
+af7c70568e47f42ab47660d336d464e8 *Nirvana - Seattle, WA (31 Oct 1991) - 05 School.flac
+b664fa3b3fd4725abb3ffb7b41ff3992 *Nirvana - Seattle, WA (31 Oct 1991) - 06 Floyd The Barber.flac
+8b7aae34dcb3a223197614a0642f5f73 *Nirvana - Seattle, WA (31 Oct 1991) - 07 Jam.flac
+532e5f9aa0175641c16a2942efec8088 *Nirvana - Seattle, WA (31 Oct 1991) - 08 Smells Like Teen Spirit.flac
+173118f193cf1a4b01f91987caec6023 *Nirvana - Seattle, WA (31 Oct 1991) - 09 About A Girl.flac
+0b4e029661ad0580d21ca24eda3b503c *Nirvana - Seattle, WA (31 Oct 1991) - 10 Polly.flac
+63d7cfa55d8e5249245c1063e57816e9 *Nirvana - Seattle, WA (31 Oct 1991) - 11 Breed.flac
+ef7f50dbad1f42107327a1068884a9ff *Nirvana - Seattle, WA (31 Oct 1991) - 12 Sliver.flac
+151949b06604c2d2c59459b6860b951d *Nirvana - Seattle, WA (31 Oct 1991) - 13 Love Buzz.flac
+a8dd00ac500871df9d3243221ce1376c *Nirvana - Seattle, WA (31 Oct 1991) - 14 Lithium.flac
+7eeeaf1de4963f55bfd5a930b30ee09d *Nirvana - Seattle, WA (31 Oct 1991) - 15 Been A Son.flac
+8f5455dbb02d813ebf3995ab56aa6c46 *Nirvana - Seattle, WA (31 Oct 1991) - 16 Negative Creep.flac
+8bde1a1dcf052f6f81f8d6b2a923538c *Nirvana - Seattle, WA (31 Oct 1991) - 17 On A Plain.flac
+1a152680529f06fef062540ce24660c2 *Nirvana - Seattle, WA (31 Oct 1991) - 18 Blew.flac
+4432424b9bd849273459ffe950796de4 *Nirvana - Seattle, WA (31 Oct 1991) - 19 Audience.flac
+b9f876d770effc531586dcbe957ed82c *Nirvana - Seattle, WA (31 Oct 1991) - 20 Rape Me.flac
+4492404b7af0ae81f3ea1f0b281f2f68 *Nirvana - Seattle, WA (31 Oct 1991) - 21 Territorial Pissings.flac
+9c15a6336eb6915d9707e09c9d9ae5b2 *Nirvana - Seattle, WA (31 Oct 1991) - 22 Endless Nameless.flac
+
+I downloaded this one from www.nirvlove.com.  It appears to be straight from the
+Andy Wallace mix.  Not sure of the exact lineage since it was not given with the files, 
+though it is definetaly a lossless source.  As far as I know this is the best source of this show.
+The shows speed was a bit fast, which is known of the Andy Wallace mix, so I corrected it in much
+the same way the of Mike Wilkinson remaster, but I did not use officially released sources.
+The overall time was about 1min fast.  I simply matched the first beat of a track to the last beat
+using the few tracks from this show that were released on a few singles.  Pretty simple method really.
+I've also re-split tracks a bit more accurately.  I seperated the very long pause after Blew
+into a seperate track as well, though I wasn't sure if I should.
+Since it was over 3min of nothing it seemed like it would be easier to skip or exclude from
+a cd if someone wanted it that way.  I did no EQing or anything else.  Here it is, the
+Andy Wallace mix, speed corrected and all that.  Enjoy!
+
+Seeded by Duble0Syx

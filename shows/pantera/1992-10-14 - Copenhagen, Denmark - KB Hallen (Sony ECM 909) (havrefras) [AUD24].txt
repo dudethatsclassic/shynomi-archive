@@ -1,0 +1,35 @@
+Pantera
+KB Hallen
+Copenhagen, Denmark
+October 14, 1992
+
+Crazy Tapes Production Volume 21 (24-bit version)
+
+Taper: Havrefras
+
+Recordig Gear: Sony ECM 909 > Sony D3
+
+Transfer: Master cassette
+	  > Nakamichi Dragon (Dolby Off)
+	  > Sound Blaster X-Fi HD
+	  > Sound Forge Audio Studio 14 (1 wave file (24-bit))
+	  > Audacity/Adobe Audition (edits/EQ, Limiter)
+	  > Trader's Little Helper (fixing Sector Boundary Errors)
+	  > CD Wave Editor (cue sheet)
+	  > dBpoweramp Music Converter (converting to FLAC level 8)
+	  > Trader's Little Helper (creating checksum files)
+
+Setlist:
+01 A New Level
+02 Walk
+03 Mouth for War
+04 Domination
+05 Hollow
+06 This Love
+07 Fucking Hostile
+08 Primal Concrete Sledge
+09 Cowboys From Hell
+
+A huge thanks to mats666 for editing and tracking.
+
+Get in touch with me gwendibbley_AT_gmail_DOT_com for a list of my entire collection.

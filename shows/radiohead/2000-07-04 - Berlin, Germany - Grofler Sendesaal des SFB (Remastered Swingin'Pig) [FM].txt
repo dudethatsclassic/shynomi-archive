@@ -1,0 +1,111 @@
+The Swingin'Pig presents 'The Swingin'Pig Digital ProjeKct #04'
+
+Radiohead 'Berlin, 4 July 2000', 2000-07-04
+Recorded Live at SFB Sendesaal, Berlin, Germany
+
+Source : FM (SHN) > CEP2.0
+         (except Track d1t01 : wma from the official webcast)
+
+Digitally Remastered, Re-Edited and Re-Packaged by The Swingin'Pig
+
+www.swinginpig.freeurl.com
+
+CD1
+1. Intro                              0:36.520
+2. Optimistic                         5:07.680
+3. Morning Bell                       4:34.320
+4. Karma Police                       4:28.546
+5. The National Anthem                5:43.266
+6. In Limbo                           4:40.840
+7. No Surprises                       4:00.226
+8. My Iron Lung                       5:16.666
+9. Dollars and Cents                  5:50.053
+10.Bishop's Robes                     3:41.306
+11.Talk Show Host                     5:27.880
+12.Kid A                              4:33.146
+                               Total 54:00.453
+
+CD2
+1. You And Whose Army                 3:53.040
+2. Airbag                             4:49.106
+3. Lucky                              4:30.853
+4. How To Disappear Completely        6:37.880
+5. Paranoid Android                   6:24.520
+6. Everything In Its Right Place      7:49.560
+7. Intro (encore)                     0:52.466
+8. Egyptian Song (aka Pyramid Song)   5:23.186
+9. Exit Music                         5:20.226
+10.Knives Out                         4:32.373
+11.Big Ideas (aborted)                1:17.160
+12.Nice Dream                         5:19.106
+                               Total 56:49.480
+
+
+Waveform Statistics (Cool Edit Pro 2.0)
+
+SIGNAL
+			Left		Right
+Min Sample Value:	-31928		-32243
+Max Sample Value:	32025		32194
+Peak Amplitude:		-.2 dB		-.14 dB
+Possibly Clipped:	0		0
+DC Offset:		0 		0 
+Minimum RMS Power:	-130.45 dB	-inf dB
+Maximum RMS Power:	-.77 dB		-.69 dB
+Average RMS Power:	-14.39 dB	-14.35 dB
+Total RMS Power:	-11.84 dB	-11.71 dB
+Actual Bit Depth:	16 Bits		16 Bits
+
+Using RMS Window of 0 ms
+
+NOISE (Pink Noise Profile)
+			Left		Right
+Min Sample Value:	-574		-552
+Max Sample Value:	831		700
+Peak Amplitude:		-31.92 dB	-33.41 dB
+Possibly Clipped:	0		0
+DC Offset:		.001 		.001 
+Minimum RMS Power:	-99.58 dB	-104.91 dB
+Maximum RMS Power:	-39.3 dB	-39.44 dB
+Average RMS Power:	-66.55 dB	-66.65 dB
+Total RMS Power:	-63.91 dB	-63.98 dB
+Actual Bit Depth:	16 Bits		16 Bits
+
+Using RMS Window of 0 ms
+
+Signal2NoiseFactor	104.14 dB	104.54 dB
+
+
+For information, the original recording statistics are :
+
+SIGNAL
+			Left		Right
+Min Sample Value:	-16559		-15946
+Max Sample Value:	16571		18576
+Peak Amplitude:		-5.92 dB	-4.93 dB
+Possibly Clipped:	0		0
+DC Offset:		-.001 		-.001 
+Minimum RMS Power:	-97.08 dB	-97.07 dB
+Maximum RMS Power:	-6.98 dB	-6.61 dB
+Average RMS Power:	-25 dB		-24.93 dB
+Total RMS Power:	-22.46 dB	-22.38 dB
+Actual Bit Depth:	16 Bits		16 Bits
+
+Using RMS Window of 0 ms
+
+NOISE (Pink Noise Profile)
+			Left		Right
+Min Sample Value:	-1340		-1133
+Max Sample Value:	928		1183
+Peak Amplitude:		-27.77 dB	-28.85 dB
+Possibly Clipped:	0		0
+DC Offset:		0 		0 
+Minimum RMS Power:	-129.57 dB	-117.38 dB
+Maximum RMS Power:	-33.52 dB	-34.81 dB
+Average RMS Power:	-62.2 dB	-62.32 dB
+Total RMS Power:	-60.47 dB	-60.62 dB
+Actual Bit Depth:	16 Bits		16 Bits
+
+Using RMS Window of 0 ms
+
+Signal2NoiseFactor	76.02 dB	76.48 dB

@@ -1,0 +1,76 @@
+Radiohead
+2008-07-01
+Westerpark
+Amsterdam
+
+Taper      : bnz
+Source     : at943 - SP-SPSB-6 (Bass Roll-off at 107 HZ) - Edirol R09 at 16 bit 44.1 Khz
+Transfer   : SD card > SDslot > PC > Audition 1.5 > 20 db boost > Cdwave > TLH > FLAC (8)
+Total Time : 122:38 min
+Position   : FOB, mics on hat
+
+01 Bodysnatchers
+02 All I Need
+03 The Nation Anthem
+04 15 Step
+05 Lucky
+06 Nude
+07 Street Spirit
+08 There There
+09 The Gloaming
+10 Weird Fishes/Arpeggi
+11 Idioteque
+12 Faust Arp
+13 Videotape
+14 Just
+15 Bangers and Mash
+16 Everything In Its Right Place
+17 Reckoner
+
+Encore 1
+18 House of Cards
+19 Climbing Up The Walls
+20 A Wolf At The Door
+21 Jigsaw Falling Into Place
+22 Karma Police
+
+Encore 2
+23 Super Collider
+24 How To Disappear Completely
+25 Planet Telex
+
+Do not sell, do not convert to lossy formats, do not remaster ect ect.
+
+Enjoy !!
+
+bnz, 2008-07-02
+
+RH-2008-07-01_01_Bodysnatchers.flac:99aa5c010b379582669167abec7a4801
+RH-2008-07-01_02_All I Need.flac:1b31af97e47a6469570af707dfcb0838
+RH-2008-07-01_03_The National Anthem.flac:498ba2571d6944bf79ec5a52e297e360
+RH-2008-07-01_04_15 Step.flac:714ebbbe8f0dc2b87d25107d309b8ec0
+RH-2008-07-01_05_Lucky.flac:d4b84b2b4fbc897c4f5e23467f34ada2
+RH-2008-07-01_06_Nude.flac:53bcd2b58f0ce10586cc177b2c0e2aa6
+RH-2008-07-01_07_Street Spirit.flac:24886de14dbe9b114401669201d9554d
+RH-2008-07-01_08_There There.flac:c8f59778e16d70171c7b711c98198818
+RH-2008-07-01_09_The Gloming.flac:5e36118d3da02cd3eecf843ac12e2b0c
+RH-2008-07-01_10_Weird Fishes_Arpeggi.flac:4e9e2708441774f1e7f66e00931b5c46
+RH-2008-07-01_11_Idioteque.flac:fa808066940fe264dc8e552fb54c4d6a
+RH-2008-07-01_12_Faust Arp.flac:f2a49c3b711a64e19dc131686876406f
+RH-2008-07-01_13_Videotape.flac:49df5b42e558dd8366383e111ccbd733
+RH-2008-07-01_14_Just.flac:b3a4e80d8e749ef175ebe6d008f13f27
+RH-2008-07-01_15_Bangers and Mash.flac:1a5805b71c4e0244f312c652c60d6e7d
+RH-2008-07-01_16_Everything In Its Right Place.flac:73979db7fe75238ff64f41fca752951f
+RH-2008-07-01_17_Reckoner.flac:a0ffa4f7961075099a2b832182a57119
+RH-2008-07-01_18_House of Cards.flac:56313eb1faec828d7cce09745992bcb8
+RH-2008-07-01_19_Climbing Up The Walls.flac:438508c0a537345aad86e65e40be54b3
+RH-2008-07-01_20_A Wolf at the Door.flac:5f675461c21b97bd5713c87cc51fb8f3
+RH-2008-07-01_21_Jigsaw Falling Into Place.flac:324e92afceb54b212bab54e9acb650cd
+RH-2008-07-01_22_Karma Police.flac:977198651fa61577f3886d59e0b7889b
+RH-2008-07-01_23_Super Collider.flac:0ea97975c41c6386fbaa25e17a47f83c
+RH-2008-07-01_24_How To Disappear Completely.flac:eb14b9588ec5134eb13fa507fd4b2ee2
+RH-2008-07-01_25_Planet Telex.flac:6b06f3f133be6919b04eb7ab40f525f3
+
+No errors occured.
+
+Checksum file saved to disk.

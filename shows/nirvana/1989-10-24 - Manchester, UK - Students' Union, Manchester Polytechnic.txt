@@ -1,0 +1,73 @@
+NIRVANA
+October 24th, 1989
+Students' Union, Manchester Polytechnic
+Manchester, England
+UNITED KINGDOM
+
+DISC #1/1 (45:45)
+-----------------
+01) Intro
+02) School
+03) Scoff
+04) Love Buzz
+05) Floyd the Barber (cuts in)
+06) Dive
+07) Polly
+08) Big Cheese
+09) About A Girl
+10) Token Eastern Song
+11) Spank Thru
+12) Even In His Youth
+13) Stain
+14) Negative Creep
+15) Blew
+
+GENERATION
+-----------------
+ANA(1) > WAV [96kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+SOURCE (AUD #1)
+-----------------
+Unknown > Unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-3 > Custom RCA to 1/4"TRS cables > Echo Mia Midi analog-in (PW) > Adobe Audition 1.5 > CD WAVE 1.94.1 > FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- Cut after "Love Buzz", "Floyd the Barber" cuts in.
+- tape flip after "Big Cheese".
+- transferred at 96kHz & 32bit.
+- some crackles and sort of noises due to the tape.
+
+SPECIAL THANKS TO
+-----------------
+Steve D. for lending the tape, extremely appreciated.
+Douglas Baptie & LNCU-UK for their great work.
+
+MD5 FINGERPRINTS
+----------------
+6c084f5640d467606e5fe5a222be294a *nirvana1989-10-24d1t01.flac
+71bacd1402af5b675896a0eef24b2e69 *nirvana1989-10-24d1t02.flac
+e0bc9708ec4a35238ef90f42c4bb15ca *nirvana1989-10-24d1t03.flac
+98501b7cc7828866e2beaec5851b223a *nirvana1989-10-24d1t04.flac
+f84d4326565b934c7346a2b41a6a556a *nirvana1989-10-24d1t05.flac
+ed4b7df6010ccf7ea9cb8c68982c7f0c *nirvana1989-10-24d1t06.flac
+d4bedc6a098832089345414099a0ce10 *nirvana1989-10-24d1t07.flac
+68f05b22d6bcdd5d9457ca46a07aa537 *nirvana1989-10-24d1t08.flac
+246f4095d63d74c4e7c347d0bdff07a3 *nirvana1989-10-24d1t09.flac
+c4e56ef8687e721cf7f1a8174af645a2 *nirvana1989-10-24d1t10.flac
+e3b0d546b820cdf4728a3d29e2064ace *nirvana1989-10-24d1t11.flac
+4bad78722abcbaa5ba87a9df283e8442 *nirvana1989-10-24d1t12.flac
+3bb245183b91fa5ce4ecf258944d777a *nirvana1989-10-24d1t13.flac
+a09fe048ac2d479700ba326f33883bd4 *nirvana1989-10-24d1t14.flac
+dc63b65f9cde54824054159e0b2848cc *nirvana1989-10-24d1t15.flac
+
+
+TRANSFERRED BY
+Pierre LEROY
+
+DO NOT EVEN TRY TO SELL THIS !
+DO NOT EVEN TRY TO TRADE THIS IN ANOTHER FILE FORMAT THAN FLAC or AUDIO CD-R
+THANK YOU

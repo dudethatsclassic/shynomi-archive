@@ -1,0 +1,309 @@
+Source: CD
+
+01 Weird Fishes/Arpeggi02 Bodysnatchers03 Jigsaw Falling Into Place04 Sky Sports05 Faust Arp06 15 Step07 Midsummer's Day in a Graveyard08 Videotape09 Reckoner10 House of Cards11 Head and Shoulders12 All I Need
+
+from pzy
+
+
+____
+X Lossless Decoder version 20101128 (126.0)
+
+XLD extraction logfile from 2011-02-15 02:37:07 -0500
+
+ / Audio CD
+
+Used drive : Optiarc DVD RW AD-7240S (revision 1.03)
+
+Ripper mode             : CDParanoia III 10.2
+Disable audio cache     : OK for the drive with a cache less than 2750KiB
+Make use of C2 pointers : NO
+Read offset correction  : 48
+Max retry count         : 100
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 05:26:51 |         0    |    24500   
+        2  | 05:26:51 | 04:17:23 |     24501    |    43798   
+        3  | 09:43:74 | 04:30:74 |     43799    |    64122   
+        4  | 14:14:73 | 00:39:71 |     64123    |    67118   
+        5  | 14:54:69 | 02:11:19 |     67119    |    76962   
+        6  | 17:06:13 | 04:17:74 |     76963    |    96311   
+        7  | 21:24:12 | 00:50:61 |     96312    |   100122   
+        8  | 22:14:73 | 05:06:04 |    100123    |   123076   
+        9  | 27:21:02 | 04:50:56 |    123077    |   144882   
+       10  | 32:11:58 | 05:33:13 |    144883    |   169870   
+       11  | 37:44:71 | 01:18:51 |    169871    |   175771   
+       12  | 39:03:47 | 04:48:66 |    175772    |   197437   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Album gain             : -3.93 dB
+    Peak                   : 1.000000
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 01
+    Filename : /scotchmist/01 Weird Fishes/Arpeggi.flac
+    Pre-gap length : 00:02:00
+
+    Track gain             : 3.17 dB
+    Peak                   : 0.362579
+    CRC32 hash (test run)  : 38234C2B
+    CRC32 hash             : 38234C2B
+    CRC32 hash (skip zero) : E61A95AC
+    AccurateRip signature  : 00000000
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 02
+    Filename : /scotchmist/02 Bodysnatchers.flac
+    Pre-gap length : 00:02:00
+
+    Track gain             : -4.38 dB
+    Peak                   : 0.999542
+    CRC32 hash (test run)  : 5E575191
+    CRC32 hash             : 5E575191
+    CRC32 hash (skip zero) : 2D797A57
+    AccurateRip signature  : 00000000
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 03
+    Filename : /scotchmist/03 Jigsaw Falling Into Place.flac
+    Pre-gap length : 00:02:00
+
+    Track gain             : 4.19 dB
+    Peak                   : 0.357300
+    CRC32 hash (test run)  : CCE2CEEC
+    CRC32 hash             : CCE2CEEC
+    CRC32 hash (skip zero) : 1E675D6A
+    AccurateRip signature  : 00000000
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 04
+    Filename : /scotchmist/04 Sky Sports.flac
+    Pre-gap length : 00:02:00
+
+    Track gain             : 9.21 dB
+    Peak                   : 0.343689
+    CRC32 hash (test run)  : 6DA5884E
+    CRC32 hash             : 6DA5884E
+    CRC32 hash (skip zero) : 3AE7B34D
+    AccurateRip signature  : 00000000
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 05
+    Filename : /scotchmist/05 Faust Arp.flac
+    Pre-gap length : 00:02:00
+
+    Track gain             : 7.69 dB
+    Peak                   : 0.246338
+    CRC32 hash (test run)  : A2803BB5
+    CRC32 hash             : A2803BB5
+    CRC32 hash (skip zero) : 557F5FA3
+    AccurateRip signature  : 00000000
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 06
+    Filename : /scotchmist/06 15 Step.flac
+    Pre-gap length : 00:02:00
+
+    Track gain             : 3.09 dB
+    Peak                   : 0.445862
+    CRC32 hash (test run)  : 72BB6E57
+    CRC32 hash             : 72BB6E57
+    CRC32 hash (skip zero) : D1D6E83A
+    AccurateRip signature  : 00000000
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 07
+    Filename : /scotchmist/07 Midsummer's Day in a Graveyard.flac
+    Pre-gap length : 00:02:00
+
+    Track gain             : 14.21 dB
+    Peak                   : 0.270386
+    CRC32 hash (test run)  : 54A27586
+    CRC32 hash             : 54A27586
+    CRC32 hash (skip zero) : 77AEA906
+    AccurateRip signature  : 00000000
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 08
+    Filename : /scotchmist/08 Videotape.flac
+    Pre-gap length : 00:02:00
+
+    Track gain             : 4.31 dB
+    Peak                   : 0.353455
+    CRC32 hash (test run)  : AFC28471
+    CRC32 hash             : AFC28471
+    CRC32 hash (skip zero) : 7EC9F457
+    AccurateRip signature  : 00000000
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 09
+    Filename : /scotchmist/09 Reckoner.flac
+    Pre-gap length : 00:02:00
+
+    Track gain             : 1.82 dB
+    Peak                   : 0.429504
+    CRC32 hash (test run)  : F351EFC3
+    CRC32 hash             : F351EFC3
+    CRC32 hash (skip zero) : 5A40C58C
+    AccurateRip signature  : 00000000
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 10
+    Filename : /scotchmist/10 House of Cards.flac
+    Pre-gap length : 00:02:00
+
+    Track gain             : 5.52 dB
+    Peak                   : 0.339783
+    CRC32 hash (test run)  : B4CC1243
+    CRC32 hash             : B4CC1243
+    CRC32 hash (skip zero) : EAC752B2
+    AccurateRip signature  : 00000000
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 11
+    Filename : /scotchmist/11 Head and Shoulders.flac
+    Pre-gap length : 00:02:00
+
+    Track gain             : 13.09 dB
+    Peak                   : 0.244446
+    CRC32 hash (test run)  : 3EF71350
+    CRC32 hash             : 3EF71350
+    CRC32 hash (skip zero) : 19933358
+    AccurateRip signature  : 00000000
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+Track 12
+    Filename : /scotchmist/12 All I Need.flac
+    Pre-gap length : 00:02:00
+
+    Track gain             : -10.53 dB
+    Peak                   : 1.000000
+    CRC32 hash (test run)  : E7ED315D
+    CRC32 hash             : E7ED315D
+    CRC32 hash (skip zero) : FBA47CDE
+    AccurateRip signature  : 00000000
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+        Inconsistency in error sectors       : 0
+
+No errors occurred
+
+End of status report

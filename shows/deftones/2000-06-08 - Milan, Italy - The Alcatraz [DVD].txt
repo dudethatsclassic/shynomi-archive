@@ -1,0 +1,82 @@
+DEFTONES
+Milan, Italy
+Alcatraz June 8th 2000
+
+Be Quiet and Drive (Far Away)
+My Own Summer (Shove It)
+To Have and to Hold (Depeche Mode cover)
+Change (In the House of Flies)
+Feiticeira
+Bored
+Root
+Mascara
+Around the Fur
+Lotion
+Digital Bath
+Street Carp
+7 Words
+Headup
+
+60 min.
+
+One of the best 2000 summer shows imo.
+A great "Street Carp".
+Nice upgrade, finally a A/A quality rip at quite high bitrate.Enjoy!
+
+lineage : master > unknown transfer > VHS(2) > authoring (menu, chapters) > DVDR > VIDEO_TS > YOU
+attributes :
+
+Format                      : MPEG-PS
+File size                   : 1 024 MiB
+Duration                    : 14mn 53s
+Overall bit rate mode       : Variable
+Overall bit rate            : 9 607 Kbps
+
+Video
+ID                          : 224 (0xE0)
+Format                      : MPEG Video
+Format version              : Version 2
+Format profile              : Main@Main
+Format settings, BVOP       : Yes
+Format settings, Matrix     : Custom
+Format settings, GOP        : M=3, N=15
+Format settings, picture st : Frame
+Duration                    : 14mn 53s
+Bit rate mode               : Variable
+Bit rate                    : 9 000 Kbps
+Width                       : 720 pixels
+Height                      : 480 pixels
+Display aspect ratio        : 4:3
+Frame rate                  : 29.970 fps
+Standard                    : NTSC
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Interlaced
+Scan order                  : Top Field First
+Compression mode            : Lossy
+Bits/(Pixel*Frame)          : 0.869
+Time code of first frame    : 00:44:40:00
+Time code source            : Group of pictures header
+GOP, Open/Closed            : Open
+Stream size                 : 955 MiB (93%)
+Color primaries             : BT.601 NTSC
+Transfer characteristics    : BT.601
+Matrix coefficients         : BT.601
+
+Audio
+ID                          : 189 (0xBD)-128 (0x80)
+Format                      : AC-3
+Format/Info                 : Audio Coding 3
+Mode extension              : CM (complete main)
+Format settings, Endianness : Big
+Muxing mode                 : DVD-Video
+Duration                    : 14mn 53s
+Bit rate mode               : Constant
+Bit rate                    : 448 Kbps
+Channel(s)                  : 2 channels
+Channel positions           : Front: L R
+Sampling rate               : 48.0 KHz
+Compression mode            : Lossy
+Delay relative to video     : -474ms
+Stream size                 : 47.7 MiB (5%)

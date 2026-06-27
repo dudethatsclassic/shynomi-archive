@@ -1,0 +1,58 @@
+NIRVANA
+September 24, 1991
+Axis Nightclub
+Boston, MA
+
+DISC #1/1 (46:04)
+-----------------
+01) Jesus Wants Me For A Sunbeam (cut)
+02) Drain You
+03) Floyd The Barber
+04) Sliver
+05) Smells Like Teen Spirit
+06) Come As You Are
+07) Breed
+08) About A Girl
+09) Satisfaction (jam)
+10) Territorial Pissings
+11) Pennyroyal Tea (cut)
+12) School
+13) Blew (cut)
+14) Negative Creep
+15) Been A Son
+16) Dive (cut)
+
+GENERATION
+-----------------
+ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+1859fd3a97145f376dfd621e388ef277 *nirvana1991-09-24t01.flac
+282dc718e176726b5db426a394395bdf *nirvana1991-09-24t02.flac
+b9e79e4c974e8d8b3d114c4c04f60aef *nirvana1991-09-24t03.flac
+b996033da52c0d628675dcd7addf2a91 *nirvana1991-09-24t04.flac
+0d3d3b9c16edcfec5b1ebdc72bb9c904 *nirvana1991-09-24t05.flac
+c41ed6cf8ca36a8f71b14d2c6ec47c43 *nirvana1991-09-24t06.flac
+d6c3ca77d5938823bc3a7582cd55de13 *nirvana1991-09-24t07.flac
+062871f3fb496c204f5632c7ae9ddbe2 *nirvana1991-09-24t08.flac
+75a829d59c266970583cb4d919478512 *nirvana1991-09-24t09.flac
+8151228037236014e8813b50e71b6e1c *nirvana1991-09-24t10.flac
+0a561776ac47a87352189f752d2715f0 *nirvana1991-09-24t11.flac
+d42e316a58507588fe151ae35968a16e *nirvana1991-09-24t12.flac
+a6126a2f46388a457be32db8471cc0b8 *nirvana1991-09-24t13.flac
+ffde4c6a2015c153c9f3908458e6451e *nirvana1991-09-24t14.flac
+41a7a61975fee4d02e4bade794c40617 *nirvana1991-09-24t15.flac
+8b5a177e50e0798eb8c40d658dc8012f *nirvana1991-09-24t16.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

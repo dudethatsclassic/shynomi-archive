@@ -1,0 +1,46 @@
+NIRVANA
+July 18, 1989
+Pyramid Club (New Music Seminar)
+New York City, New York, USA
+
+SOURCE (AMT #1):
+unknown > unknown
+
+TRANSFER:
+Sony DCR-TRV730 > Datavideo TBC-6000 > ATI TV Wonder 600 USB > VirtualDub > Adobe Audition CC 2017 > CD Wave 1.98 > flac.exe
+
+GENERATION:
+Video8(M) > AVI [UtVideo/48khz/16-Bit/PCM] > FLAC
+
+LENGTH:
+32:10
+
+TRACKS:
+01. Intro
+02. School
+03. Floyd The Barber
+04. Love Buzz
+05. Dive (cuts in)
+06. Polly
+07. Big Cheese
+08. Scoff (cuts in)
+09. About A Girl (cuts in)
+10. Blew
+
+MD5 FINGERPRINTS:
+6ce8a5b52762ac06a8fe73ebf47ae6ff *Nirvana 1989-07-18 AMT1 t01 Intro.flac
+78b9d621348394c8239ec17ce61fb876 *Nirvana 1989-07-18 AMT1 t02 School.flac
+15210a5a0b05104cd32628ce7ea23571 *Nirvana 1989-07-18 AMT1 t03 Floyd The Barber.flac
+48b86ac816585580fd836f39e8526bda *Nirvana 1989-07-18 AMT1 t04 Love Buzz.flac
+1c8fd2310a32524d00d660201b4c9691 *Nirvana 1989-07-18 AMT1 t05 Dive.flac
+d10fb1a54935cb9ed3ae6c1fa22711bd *Nirvana 1989-07-18 AMT1 t06 Polly.flac
+d27b1680d933846de37369908d6c7a70 *Nirvana 1989-07-18 AMT1 t07 Big Cheese.flac
+36d6f460c1401792683be793cd94f682 *Nirvana 1989-07-18 AMT1 t08 Scoff.flac
+8b4793ffd4dd18b916eaa2245e5dd964 *Nirvana 1989-07-18 AMT1 t09 About A Girl.flac
+f8fed9594aafc56a50c75de5b8681b4a *Nirvana 1989-07-18 AMT1 t10 Blew.flac
+
+TRANSFER & DISTRIBUTION:
+Nicholas Serra & Members of LiveNIRVANA.com
+2020-10-21
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

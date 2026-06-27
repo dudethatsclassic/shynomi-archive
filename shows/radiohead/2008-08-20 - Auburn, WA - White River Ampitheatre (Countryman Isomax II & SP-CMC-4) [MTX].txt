@@ -1,0 +1,74 @@
+Radiohead
+8/20/08
+White River Amphitheater
+Auburn, WA
+
+Source: (2 sources sycned and mixed together)
+Source #1 - Countryman Isomax II (Cardiods) -> Zoom H2 @44.1/16
+                    
+Source #2 - SP-CMC4 Hypers > SP-SPSB-6 w/ Bass Roll off > nomad jukebox 3
+
+Sources were sycned/mixed together in Nuendo and all Mastering was done in 
+Wavelab by Rich Steele. 
+
+01. Intro/15 Step
+02. Reckoner
+03. Optimistic
+04. There There
+05. All I Need
+06. Pyramid Song
+07. Talk Show Host
+08. The National Anthem
+09. The Gloaming
+10. Videotape
+11. Lucky
+12. Faust Arp (take 1 and 2)
+13. Jigsaw Falling Into Place
+14. Climbing Up The Walls
+15. Dollars And Cents
+16. Nude
+17. Bodysnatchers
+18. encore break #1
+19. How To Disappear Completely
+20. Arpeggi/Weird Fishes
+21. Idioteque
+22. In Limbo
+23. Street Spirit
+24. encore break #2
+25. You And Whose Army?
+26. No Surprises
+27. Everything In Its Right Place
+
+
+Editing Notes - This source was a sync of 2 audience sources from different locations. Due to 
+                          venue acoustics and natural delays, a perfect sync was near impossible. Add 
+                          to that, the mics weren't on a stand, so phasing issues are present and very                                  audible at times(such as National Anthem) whenever the taper moved their 
+                          head, body, etc.. 
+
+Radiohead2008-08-20-matrix-t01.flac:d21895e08266277577143b3a01ecc4ba
+Radiohead2008-08-20-matrix-t02.flac:f218f7504c80b176e3a491627f7894aa
+Radiohead2008-08-20-matrix-t03.flac:c07e4658f0838b6ee4998a7ea4f1e19f
+Radiohead2008-08-20-matrix-t04.flac:d7bc5c519af3d7ce873b5b5d58c3a746
+Radiohead2008-08-20-matrix-t05.flac:97fef35188e7734943f6f54c9d97f09f
+Radiohead2008-08-20-matrix-t06.flac:7f1d078c07807230fa675b06709f7548
+Radiohead2008-08-20-matrix-t07.flac:f16e902c0d75f75dedff9a65322eba8a
+Radiohead2008-08-20-matrix-t08.flac:dced9ef959c118cb73a5a1613db139c5
+Radiohead2008-08-20-matrix-t09.flac:cded8777375ffc823a161ec707fd870b
+Radiohead2008-08-20-matrix-t10.flac:42abdbe432ee08925c3777218f0e7ea4
+Radiohead2008-08-20-matrix-t11.flac:410f2ac977ff79f4bfb75f5fac1ec387
+Radiohead2008-08-20-matrix-t12.flac:5d5bb380cc14d07daa1e7dae46430f00
+Radiohead2008-08-20-matrix-t13.flac:c6f22908cf1981b3095a2a641222fc34
+Radiohead2008-08-20-matrix-t14.flac:9a932895beb56e467abc1a5ec7ee91c6
+Radiohead2008-08-20-matrix-t15.flac:cca434881019eea350cd9d6d1ac0e323
+Radiohead2008-08-20-matrix-t16.flac:a6859425f3dfa9b4fc3a99b1b30c07d3
+Radiohead2008-08-20-matrix-t17.flac:552b80b8d75eb1ebf739b7260ecfc541
+Radiohead2008-08-20-matrix-t18.flac:5072320666086cbce652760c95dc3ae1
+Radiohead2008-08-20-matrix-t19.flac:ad7e477a80bec7ecb3af8ad2fa229481
+Radiohead2008-08-20-matrix-t20.flac:d4719d3df090aa60650fad6b75774c38
+Radiohead2008-08-20-matrix-t21.flac:ab20df8811ef8c55c34c3f6624bd4e0e
+Radiohead2008-08-20-matrix-t22.flac:d4293abf0444c11ab6d2272aae9d8c89
+Radiohead2008-08-20-matrix-t23.flac:b6a446e5efa6b77ad0d008cfced30801
+Radiohead2008-08-20-matrix-t24.flac:9ea82f956e646dcceba32f7e22c8cd4e
+Radiohead2008-08-20-matrix-t25.flac:a0b2ef0f92167a8e8191df8371412225
+Radiohead2008-08-20-matrix-t26.flac:058900346ed325c67c13f0241984b70b
+Radiohead2008-08-20-matrix-t27.flac:2d4215da6359432e875f55375b51536c

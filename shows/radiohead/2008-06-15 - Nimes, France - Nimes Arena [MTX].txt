@@ -1,0 +1,94 @@
+Radiohead
+Arènnes de Nimes
+France
+15 Juin 2008
+
+
+Matrix Infos: Audio sources from
+
+Source 01 : Taper : Cheucheumeu
+Equipement : DAT D100 >> mic SP CMC8
+
+
+Source 2 : Taper : Cheucheumeu
+Equipement : IEM ???
+
+
+
+Source 03 : Taper : Cheche
+Equipement : Sony HI-MD MZ-RH10 (hi-sp) + micro Sony ECM 719
+Transfert : Minidisc Master
+        > Sonic Stage 4
+        > WAV
+        > Soundforge 9.0 (normalisation)
+        > CD Wave Editor (découpage des chansons)
+        > Trader's Little Helper (encodage & MD5)
+        > FLAC (level 8)
+
+Source 04 : Taper : Julien
+Equipement : Church Audio CA-11 Cardioids > CA-9100 PreAmp > Edirol R-09
+Transfert : USB
+
+    > CDWave 1.96.1
+    > Adobe Audition CS3
+    > dBpoweramp Music Converter
+
+premier rang cat1 tout a gauche au plus près de l'enceinte
+
+Source 05: Taper : Inconnu
+Equipement : SP-CMC-8(cardioid-low sensitivity)
+SP-SPSB10(rocker on are 1-4, for right and left)
+Edirol R-09, 48khz-24 bit
+Transfert : Audition(normalisation)
+
+    > Audition 44khz-16 bit
+    > CD Wave(tracksplit)
+    > Db Power Amp(flac8)
+
+
+-------------------------------------------------------------------------
+
+Matrix compiled by 2F
+
+- tracking
+- out of phase removal
+- Equing considering sources levels
+- Pan / De Ess /
+- Multiband Compressor (really light)
+
+-------------------------------------------------------------------------
+
+Setlist :
+
+01 - Intro
+02 - 15 Step
+03 - Bodysnatchers
+04 - All I need
+05 - Airbag
+06 - Nude
+07 - Pyramid song
+08 - Weird fishes/Arpeggi
+09 - The gloaming
+10 - Dollars and cents
+11 - Faust arp
+12 - Videotape
+13 - Optimistic
+14 - Just
+15 - Reckoner
+16 - Everything in its right place
+17 - Fake plastic trees
+18 - Jigsaw falling into place
+
+19 - Premier Rappel :
+
+20 - House of cards
+21 - There there
+22 - Bangers and mash
+23 - Paranoid android
+24 - How to disappear completely
+
+25 - Second Rappel :
+
+26 - Cymbal rush
+27 - You and whose army?
+28 - Idioteque

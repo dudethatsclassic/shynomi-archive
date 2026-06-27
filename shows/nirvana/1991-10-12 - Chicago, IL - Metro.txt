@@ -1,0 +1,63 @@
+NIRVANA
+October 12, 1991
+Cabaret Metro
+Chicago, IL
+
+SOURCE (SBD #1):
+soundboard > Sony TCD-D10
+
+TRANSFER:
+Panasonic SV-3700 > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+DAT(M) [48kHz/16bit] > WAV [48kHz/16bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+LENGTH:
+64:05
+
+TRACKS:
+01. intro
+02. Jesus Wants Me For A Sunbeam
+03. Aneurysm
+04. School
+05. Floyd The Barber
+06. Drain You
+07. Smells Like Teen Spirit
+08. About A Girl
+09. Breed
+10. Polly
+11. Sliver
+12. Pennyroyal Tea
+13. Love Buzz
+14. Lithium
+15. Been A Son
+16. On A Plain
+17. Negative Creep
+18. Blew
+19. Endless, Nameless
+
+MD5 FINGERPRINTS:
+7ce470844ed1651e85a2418c0dd13130 *Nirvana_1991-10-12_SBD1_t01.flac
+fd46b71c3a28bc83b212bde6119aa2cb *Nirvana_1991-10-12_SBD1_t02.flac
+66761db2c3ef4bf52287b3ed6b51bc4f *Nirvana_1991-10-12_SBD1_t03.flac
+9d97aa8a87622e107b5823bf71f99910 *Nirvana_1991-10-12_SBD1_t04.flac
+8c7e2de47b3f9d09fad1d1366b6aabd6 *Nirvana_1991-10-12_SBD1_t05.flac
+643534a7494c206bb0066ff32a1bd86e *Nirvana_1991-10-12_SBD1_t06.flac
+291ec0b45b6e9aae07b4bef796423992 *Nirvana_1991-10-12_SBD1_t07.flac
+1f818cd2647d8ea3a2fd8169c6beeb5d *Nirvana_1991-10-12_SBD1_t08.flac
+3cdc867662fd4f57fc3914ff73f8c2f5 *Nirvana_1991-10-12_SBD1_t09.flac
+3f3a360767f86b3381c5e30d0d57eabe *Nirvana_1991-10-12_SBD1_t10.flac
+154872111472ce83ffdf93a0b042945c *Nirvana_1991-10-12_SBD1_t11.flac
+888fe4e5a69ade45c0c7119d4af5c447 *Nirvana_1991-10-12_SBD1_t12.flac
+a92ded8d21c7e68d359b19af8f95baae *Nirvana_1991-10-12_SBD1_t13.flac
+13f1d23dd9bd115b004d52ca4a2f47cc *Nirvana_1991-10-12_SBD1_t14.flac
+96826ae9b52bf6bf9af245b4b1c4bcc7 *Nirvana_1991-10-12_SBD1_t15.flac
+564d40c2e6c5a25366d868ac3665d66c *Nirvana_1991-10-12_SBD1_t16.flac
+3be507038a476e4554e0669aa78747fd *Nirvana_1991-10-12_SBD1_t17.flac
+f50d29efe275a42cd0990574038363b6 *Nirvana_1991-10-12_SBD1_t18.flac
+3d0e9acd4a070c0f581b54366af80a87 *Nirvana_1991-10-12_SBD1_t19.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

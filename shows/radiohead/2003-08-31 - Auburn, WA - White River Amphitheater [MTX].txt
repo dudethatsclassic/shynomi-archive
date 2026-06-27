@@ -1,0 +1,87 @@
+Radiohead
+White River Ampitheater
+Auburn, WA
+August 31, 2003
+
+Matrix of:
+
+FIRST
+Location: Section 102, Row 2
+Source: Sony ECM-MS907 stereo mic>Sharp 702 MD
+Transfer: analog input>Soundblaster>Sound Forge
+Editing: fade in/out and normalizing with Sound Forge
+Taper: Frank Einstein (franky_einstein@yahoo.com)
+
+SECOND
+Source:	Audio Technica 831s > Battery Box > Sony TCD-D8
+
+THIRD
+Taper: Jason Green (jason@groove-salad.com)
+Source: SP-CMC-2 (AT831) > SP-SPSB-1 Battery Module w/ Bass Roll off @ 160Hz > Nomad Jukebox 3 > 16/44.1  
+Conversion: Jason Green
+CEP 2.0 > CD Wave > mkwAct 0.97 beta 1 > SHN
+2dB Boost
+160Hz  @ -1.0dB
+1360Hz @  3.2dB
+7000Hz @  5.3dB
+Location: Sec 209 Row 8 Seat 1
+(www.jasongreenmusic.com)
+
+FOURTH
+Location- FOB/DFC about 15 rows back from the stage, on a mini bogen stand about 5' high  
+Source- Microtech Geffel 200's placed in NOS at about 110'(with bass roll off setting used on both mics)>PS2>Sony SMB-1 (oade line in modified)>D8
+Transfer-D8>7-pin coax>Dio2448>Cool Edit 2.0>CD WAV>MKW (lossless compression)
+Taped and mastered* by Ian Clark
+A team FOB effort! Thanks to Margie Willcut, Sean Dickson, Jason Roth, and other generous people in the crowd that helped to minimize crowd noise and protect gear!
+Editing and mastering notes*
+A lot of editing was done on this recording. The majority of editing was just lowering crowd noise before and after songs. Even with a team of people blocking the rig there were some very loud clappers close to the mics. Some claps were lowered in volume up to 7db. A few quiet songs were  also normalized. There was no EQing, filters, or effects used. Crowd noise was lowered on a song by song basis so you can hear a slight volume shift between tracks, however this does not effect any of the music just the crowd noise.
+
+Except for personal use, by the request of every source listed, DO NOT CONVERT OR DISTRIBUTE IN A LOSSY (MP3) FORMAT
+
+01 Intro
+02 Where Bluebirds Fly
+03 There There
+04 2+2=5
+05 Lucky
+06 Myxomatosis
+07 Where I End and You Begin
+08 Backdrifts
+09 Fake Plastic Trees
+10 Paranoid Android
+11 Sail to the Moon
+12 You and Whose Army?
+13 Dollars and Cents
+14 Talk Show Host
+15 Idioteque
+16 Scatterbrain
+17 The National Anthem
+18 Exit Music
+19 Sit Down. Stand Up
+20 (Applause)
+Encore # 1
+21 We Suck Young Blood (for the Jicks)
+22 A Punch up At a Wedding (for Michael Stipe)
+23 Go to Sleep 
+24 How to Disappear Completely
+25 (Applause)
+Encore # 2
+26 No Surprises
+27 Follow Me Around (Thom solo)
+28 Everything in its Right Place
+
+Matrixing info:
+formengr
+ripped to wav
+synching in vegas video 5.0, render to 44.1kHz/16 bit wav
+sources "detuned" by the following amounts in VV 5.0:
+    #1 -6.9 db
+    #2 -6.2 db
+    #3 -6.9 db
+    #4 -6.2 db
+CD Wave to split
+Flac Level 6
+
+Seeded to the hub 2006-02-05
+www.radiohub.net
+
+

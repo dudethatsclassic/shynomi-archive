@@ -1,0 +1,96 @@
+Deftones 
+2025-06-21 
+Forest Stage
+Hurricane Festival
+Eichenring, Scheebel, Germany
+
+Lineage: magentamusik livestream -> N_m3u8DL-RE -> ffmpeg -> ts
+Video: MPEG-TS (H264) 1920x1080 16:9 7417 kbps 25.00 fps
+Audio: 123 Kbps 48.0 KHz stereo
+
+Setlist:
+Be Quiet and Drive (Far Away)
+My Own Summer (Shove It)
+Diamond Eyes
+Tempest
+Swerve City
+Feiticeira
+Rocket Skates
+Sextape
+Hole in the Earth
+Change (In the House of Flies)
+Genesis
+Minerva
+7 Words
+
+length: 55:07
+
+mediainfo:
+F:\capture\capture\ForestStage\DEFTONES\Deftones - 2025-06-21 Hurricane Festival, Eichenring, Scheebel, Germany.ts
+General
+ID                             : 1 (0x1)
+Complete name                  : F:\capture\capture\ForestStage\DEFTONES\Deftones - 2025-06-21 Hurricane Festival, Eichenring, Scheebel, Germany.ts
+Format                         : MPEG-TS
+File size                      : 2.90 GiB
+Duration                       : 55 min 7 s
+Overall bit rate mode          : Variable
+Overall bit rate               : 7 541 kb/s
+Frame rate                     : 25.000 FPS
+
+Video
+ID                             : 256 (0x100)
+Menu ID                        : 1 (0x1)
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4.2
+Format settings                : CABAC / 4 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 4 frames
+Codec ID                       : 27
+Duration                       : 55 min 7 s
+Bit rate mode                  : Variable
+Maximum bit rate               : 7 200 kb/s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate                     : 25.000 FPS
+Standard                       : Component
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Time code of first frame       : 17:02:52:07
+Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+
+Audio
+ID                             : 257 (0x101)
+Menu ID                        : 1 (0x1)
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Format version                 : Version 4
+Muxing mode                    : ADTS
+Codec ID                       : 15-2
+Duration                       : 55 min 7 s
+Bit rate mode                  : Variable
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 46.875 FPS (1024 SPF)
+Compression mode               : Lossy
+Delay relative to video        : 62 ms
+Language                       : German
+
+Menu
+ID                             : 4096 (0x1000)
+Menu ID                        : 1 (0x1)
+Format                         : AVC / AAC
+Duration                       : 55 min 7 s
+List                           : 256 (0x100) (AVC) / 257 (0x101) (AAC, German)
+Language                       :  / German
+Service name                   : Service01
+Service provider               : FFmpeg
+Service type                   : digital television
+

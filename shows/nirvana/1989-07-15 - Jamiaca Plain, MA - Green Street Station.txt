@@ -1,0 +1,45 @@
+NIRVANA
+July 15, 1989
+Green Street Station
+Jamaica Plain, MA
+
+SOURCE (AUD #1):
+built-in > Sony
+
+TRANSFER:
+Tascam DA-30mkII > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > DAT(1) [44.1kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+33:15
+
+TRACKS:
+01. intro
+02. School
+03. Floyd The Barber
+04. Love Buzz
+05. About A Girl
+06. Spank Thru
+07. Big Cheese
+08. Polly
+09. Negative Creep
+10. Blew
+
+MD5 FINGERPRINTS:
+5d3842343397b1b26821554fddcd93f7 *Nirvana_1989-07-15_AUD1_t01.flac
+52ddf24d679c8783214e9a573e66e466 *Nirvana_1989-07-15_AUD1_t02.flac
+08c1c6400b3fefdb9e638a201e74b3f6 *Nirvana_1989-07-15_AUD1_t03.flac
+8de4a1cf7ac9e45c47925e7c51ecfa4c *Nirvana_1989-07-15_AUD1_t04.flac
+396df6c122fe4bbb01c4f5d16831afb9 *Nirvana_1989-07-15_AUD1_t05.flac
+3477047313b0033e64004a4a9f25261a *Nirvana_1989-07-15_AUD1_t06.flac
+fb39d95f1a81ea181f5d2833b90b74ef *Nirvana_1989-07-15_AUD1_t07.flac
+23b2b6f6eea9ce310ffbfcf2b584c138 *Nirvana_1989-07-15_AUD1_t08.flac
+b0a5174cc82dc8896a3b8bb322db2a6c *Nirvana_1989-07-15_AUD1_t09.flac
+690729f40e9a85f5659db7a2c34cdcc3 *Nirvana_1989-07-15_AUD1_t10.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

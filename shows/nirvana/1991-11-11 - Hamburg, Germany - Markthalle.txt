@@ -1,0 +1,69 @@
+NIRVANA
+November 11, 1991
+Markthalle
+Hamburg, Germany
+
+SOURCE (AUD #3):
+Aiwa (supplied) > Aiwa
+
+TRANSFER:
+unknown > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.4.1
+
+GENERATION:
+ANA(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+68:56
+
+NOTES:
+- "Been A Son" cuts in due to a tape flip.
+- Has a cut between "Blew" and "Pennyroyal Tea."
+
+TRACKS:
+01. Aneurysm
+02. Drain You
+03. School
+04. Floyd The Barber
+05. Smells Like Teen Spirit
+06. About A Girl
+07. Polly
+08. Breed
+09. Sliver
+10. Lithium
+11. Love Buzz
+12. Come As You Are
+13. Been A Son (cuts in)
+14. Negative Creep
+15. On A Plain
+16. Blew
+17. Pennyroyal Tea
+18. Spank Thru
+19. Molly's Lips
+20. Territorial Pissings
+
+MD5 FINGERPRINTS:
+1efbe44be431b232d055a32d25b93246 *Nirvana_1991-11-11_AUD3_t01.flac
+b8e2f13397e89691c1f0e5d6b39c717d *Nirvana_1991-11-11_AUD3_t02.flac
+13628f5f85626a65b437daff0da4c1e8 *Nirvana_1991-11-11_AUD3_t03.flac
+9bde0e7017c603a013493a9c428c3e4b *Nirvana_1991-11-11_AUD3_t04.flac
+7ad55dab370da3eaeea8f49e0ae0e4aa *Nirvana_1991-11-11_AUD3_t05.flac
+fdafe68fdc33aecf398573c1607c27a1 *Nirvana_1991-11-11_AUD3_t06.flac
+6b43b550a4b3928929b7164c3859eff8 *Nirvana_1991-11-11_AUD3_t07.flac
+9a216d65eda945c6b2627fd2fe3c4773 *Nirvana_1991-11-11_AUD3_t08.flac
+4ca1cd8a71456b2437b7b73f99947074 *Nirvana_1991-11-11_AUD3_t09.flac
+dc22142ebe7acc4f14be4cc7651480ec *Nirvana_1991-11-11_AUD3_t10.flac
+34587e011e9ef8d28ff3635edb1f3196 *Nirvana_1991-11-11_AUD3_t11.flac
+2730e18175966aee18791f7fc145176f *Nirvana_1991-11-11_AUD3_t12.flac
+dac85bbec8f8950b3395a98afe9ea908 *Nirvana_1991-11-11_AUD3_t13.flac
+5d9e497f04832df3e412c6e2cb26adc5 *Nirvana_1991-11-11_AUD3_t14.flac
+b00b59e31ed0ca56ee31a6fb9516ed23 *Nirvana_1991-11-11_AUD3_t15.flac
+d10ba9c3ada81cbbb7b30757fa5a59f7 *Nirvana_1991-11-11_AUD3_t16.flac
+496dd46ef2694aca05ff0b64b3189d48 *Nirvana_1991-11-11_AUD3_t17.flac
+26ecfbeca28ccc92fdf419a918edb3d7 *Nirvana_1991-11-11_AUD3_t18.flac
+394dec43dd4453257f17ea222b875380 *Nirvana_1991-11-11_AUD3_t19.flac
+6414cb1a33223c20229bed93b52e9a40 *Nirvana_1991-11-11_AUD3_t20.flac
+
+
+RECORDED AND TRANSFERRED BY:
+(((unartig))) (unartignyc.com)
+PLEASE DO NOT SELL OR ENCODE TO MP3

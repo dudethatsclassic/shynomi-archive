@@ -1,0 +1,18 @@
+JONNY GREENWOOD
+Doghouse
+World Premiere
+BBC Concert Orchestra
+March 19, 2010
+
+" Doghouse, the BBC Concert Orchestra's Composer in Association Jonny Greenwood's latest work, forms the centrepiece of today's concert, recorded last month at the BBC Maida Vale Studios and presented by Sara Mohr-Pietsch.  "
+
+BBC Radio 3 Broadcast stream --> 
+SoundTap Streaming Audio Recorder V 1.41 (WAV) --> 
+xACT Audio Compression Toolkit --> Flac level 8
+
+Audio Stream BitRate Mode -> VBR
+Number of Audio Channels -> 2
+Sampling Rate -> 44.1 KHz
+Bit Depth -> 16 bits
+
+taped by: inez

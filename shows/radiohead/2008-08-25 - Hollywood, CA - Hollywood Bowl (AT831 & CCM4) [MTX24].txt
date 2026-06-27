@@ -1,0 +1,50 @@
+Radiohead
+2008-08-25
+Hollywood Bowl
+Hollywood, CA, USA
+
+Source: {CSB > battery box (bass roll-off enabled) > M-Audio 10db pad}
+             AND
+        {CSC > battery box}
+             > Y-splitter > Microtrack (24bit 48kHz)
+By: faninor
+Transfer: Microtrack > Adobe Audition (converted to 32bit 48kHz volume
+          amplified, fades added, dithered to 24 bit 48kHz WAV)
+          > CD Wave (tracking) > FLAC
+By: faninor
+
+------------------------------------------------------------------- [128:55.000]
+01 - intro                                                           [01:55.000]
+02 - Reckoner                                                        [05:28.600]
+03 - Optimistic                                                      [04:48.400]
+04 - There There                                                     [05:29.000]
+05 - 15 Step                                                         [04:41.000]
+06 - All I Need                                                      [04:31.600]
+07 - Pyramid Song                                                    [05:24.600]
+08 - Weird Fishes/Arpeggi                                            [05:13.800]
+09 - The Gloaming                                                    [03:57.600]
+10 - Videotape                                                       [05:22.800]
+11 - Talk Show Host                                                  [05:10.800]
+12 - Faust Arp                                                       [02:13.800]
+13 - Tell Me Why                                                     [02:47.000]
+14 - No Surprises                                                    [04:09.000]
+15 - Jigsaw Falling into Place                                       [04:18.800]
+16 - The Bends                                                       [04:04.200]
+17 - The National Anthem                                             [04:43.000]
+18 - Nude                                                            [04:24.000]
+19 - Bodysnatchers                                                   [04:37.000]
+20 - encore                                                          [02:31.400]
+21 - House of Cards                                                  [05:42.400]
+22 - Planet Telex                                                    [05:03.200]
+23 - Go Slowly                                                       [03:49.000]
+24 - Fake Plastic Trees                                              [05:03.000]
+25 - True Love Waits/Everything in Its Right Place                   [07:08.000]
+26 - encore                                                          [01:57.000]
+27 - Cymbal Rush                                                     [05:28.000]
+28 - Karma Police                                                    [04:15.333]
+29 - Idioteque                                                       [04:37.667]
+
+Notes --------------------------------------------------------------------------
+Night 2, near the back of the pool on the right.
+
+-- faninor -------- please don't convert to lossy formats -------- 2008-10-21 --

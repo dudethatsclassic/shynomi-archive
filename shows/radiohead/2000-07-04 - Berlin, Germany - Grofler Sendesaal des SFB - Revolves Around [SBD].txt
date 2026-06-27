@@ -1,0 +1,44 @@
+04-07-00: Großer Sendesaal des SFB, Berlin, Germany
+Quality: A+ soundboard
+From the "Revolves Around" Bootleg (100% .cue/.log rip thereof, although not by me)
+Publisher: Luckytime
+Reference :LTM025
+Date :2002
+Made In :
+Quality :EX soundboard stereo
+Booklet & packaging :
+Total duration: 58:55
+
+Tracks:
+Disc 1
+1) optimistic 
+2) morning bell 
+3) karma police 
+4) the national anthem 
+5) in limbo 
+6) no surprises 
+7) my iron lung 
+8) dollars and cents 
+9) bishop's robes 
+10) talk show host 
+11) kid a
+
+Disc 2
+1) you and whose army 
+2) airbag 
+3) lucky 
+4) how to disappear completely 
+5) paranoid android 
+6) everything in its right place 
+7) pyramid song 
+8) exit music 
+9) knives out 
+10) nude (teased) / nice dream  
+
+This is, perhaps, *the* Radiohead concert to end all Radiohead concerts: expertly played, professionally mixed, featuring a surprising smattering of 2000-era rarities (a teased "Nude!" A performance of "Nice Dream!" One of the "Kid As" from the tour), and generally all-around awesome. 
+
+Most versions of this set come from a lineage described as "Source: Satellite (PRE-FM) > DAT >CD-R." Archived as SHNs, that version is the one predominantly available on the Radiohead hub, and was seeded here until recently. Here's the problem: it seems to have a lossy step somewhere, with the resultant shaky frequency response (and, for that matter, with AUCDTECT reporting MPEG on most tracks). 
+
+A pal of mine reported that his version, which he owned on the ROIO "Revolves Around" (released by the "Luckytime" label in 2002) did not exhibit a lossy frequency response. He ripped the set for me...and he appears to be right. AUCDTect describes these tracks as 100% CDDA, and they lack the "swirly" high-end artifacts of the standard distribution. Also, the edits are slightly different; for example, there's more of the pre-show noise before "Optimistic."
+
+Not to say that this disc is flawless. Most notably, the tracks have ugly, TAO-style gaps between them (as observed on Bootlegzone); unfortunately, there's some between-song audio missing in those gaps (in other words, you can't just do quick edits), and the EQ varies occasionally across cuts, leading me to wonder whether this represents a compilation of different sources. I debated whether to do some creating editing/patching from the other, lossy source or leave the set "as-is." 

@@ -1,0 +1,40 @@
+NIRVANA
+February, 1989
+Dorm K208, The Evergreen State College (dorm party)
+Olympia, WA
+
+SOURCE (AUD #1):
+unknown > unknown
+
+EXTRACTION:
+unknown > iTunes v7.4.2 > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > CDR(1) > MP3 [192kbps] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+24:20
+
+NOTES:
+- Has some cuts between songs.
+
+TRACKS:
+01. Mr. Moustache
+02. Paper Cuts
+03. Mexican Seafood
+04. Sifting
+05. About A Girl (cuts in)
+06. Spank Thru
+
+MD5 FINGERPRINTS:
+4f77501f90f6a267513088198107e207 *Nirvana_1989-02-xx_AUD1_t01.flac
+a01ca576f7ff03abaf8dc35db6a97b7e *Nirvana_1989-02-xx_AUD1_t02.flac
+208377cf0ec5e1566bea5513aecc4331 *Nirvana_1989-02-xx_AUD1_t03.flac
+0f39642a56daa7f5221f219802efd8d4 *Nirvana_1989-02-xx_AUD1_t04.flac
+9ad81282a9dd74eaf2e5195c5e71a010 *Nirvana_1989-02-xx_AUD1_t05.flac
+e514ee60785a3de02613e5604537cd9f *Nirvana_1989-02-xx_AUD1_t06.flac
+
+EXTRACTED BY:
+unknown
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

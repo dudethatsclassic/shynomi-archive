@@ -1,0 +1,87 @@
+Radiohead
+10th November 1995
+Cafe De La Danse
+Paris, France
+
+SETLIST (87:32)
+---------------
+01. The Bends
+02. Bones
+03. Anyone Can Play Guitar
+04. Bullet Proof... I Wish I Was
+05. High & Dry
+06. Lucky
+07. Creep
+08. Man-O-War
+09. Planet Telex
+10. Bishop's Robes
+11. Thinking About You
+12. My Iron Lung
+13. Just
+14. Fake Plastic Trees
+15. Subterranean Homesick Alien
+16. [nice dream]
+17. Street Spirit (Fade Out)
+18. Black Star
+19. Blow Out
+
+GENERATION
+---------------
+ANA(2) -> FLAC
+
+SOURCE (AUD #1)
+---------------
+unknown mics -> unknown DAT -> DAT(M) -> ANA(2)
+
+TRANSFER
+---------------
+ANA(2) -> M-Audio Audiophile 2496 -> CEP 2.1 (capture/fades) -> WAV -> CD Wave 1.95.1 -> FLAC(8)
+
+FLAC FINGERPRINTS
+-----------------
+rh-1995-11-10-t01.flac:32c5e2d6f3eb6e8ca1e389aee2df39a4
+rh-1995-11-10-t02.flac:f4a568a87b41ed420af14c54845bebf0
+rh-1995-11-10-t03.flac:085e1e8718e860cc890020060d21e058
+rh-1995-11-10-t04.flac:17d50d575968b5547a93b4993c3fee50
+rh-1995-11-10-t05.flac:90e17b35c30d368e70916d0c81bb1458
+rh-1995-11-10-t06.flac:19afce8e2fb2a60f7504ffc0e7941b76
+rh-1995-11-10-t07.flac:524ef3e8bce75958b898d64a51c1ecba
+rh-1995-11-10-t08.flac:344bea458608be3c95a5ff0dcb10d2e0
+rh-1995-11-10-t09.flac:ac8eaddc6a1cac1925ca8d333bd5d318
+rh-1995-11-10-t10.flac:83db3058d90ed248359e7a8d727499ac
+rh-1995-11-10-t11.flac:9eb6dda86db5004d150dbef3a797d35e
+rh-1995-11-10-t12.flac:858b5b25dcae449e66b8ed9105d5d809
+rh-1995-11-10-t13.flac:e76a19f2e60e69b284a5b2799ef3e98c
+rh-1995-11-10-t14.flac:1f01416df547b1f53854b39420a28513
+rh-1995-11-10-t15.flac:2589f2a458ca01ebbca2fa5e98a7c7b5
+rh-1995-11-10-t16.flac:b71c438beb1ae2b7e3eaa6e2dc2fcb1e
+rh-1995-11-10-t17.flac:7f6e1faa64f7be987ec09e15447ceeb7
+rh-1995-11-10-t18.flac:752b0c0fdb0664a155d8f4aa3689c4aa
+rh-1995-11-10-t19.flac:fea2b4e9f017e691567423536b6697a5
+
+MD5 CHECKSUMS
+---------------
+5c20ccc993f44d66753ef2e393a71cc3 *rh-1995-11-10-t01.flac
+46e7245dc8fd2423bad2ba30c5bf249c *rh-1995-11-10-t02.flac
+73f8fae0fe3c9e5f038960e56f7c53f9 *rh-1995-11-10-t03.flac
+9ae96038ed38af55532dfba9c1e84c42 *rh-1995-11-10-t04.flac
+9d56a927c2e1aff1c801f6f60e6c4aec *rh-1995-11-10-t05.flac
+99fd441c5ec4c6e198f67c2edd317a0b *rh-1995-11-10-t06.flac
+83bce62733850c5fe856da1a275e5913 *rh-1995-11-10-t07.flac
+6ba2968bf0b287ca83021f51da501b56 *rh-1995-11-10-t08.flac
+1972315414b00e1bf134408b7ff48cd8 *rh-1995-11-10-t09.flac
+03a731f6098aa829fcb1aa0148958a27 *rh-1995-11-10-t10.flac
+1ec8a23b6c7a5d1d5004566bc1bad1a2 *rh-1995-11-10-t11.flac
+396579bb2f65beb7ad5c9d2a99858a3d *rh-1995-11-10-t12.flac
+8b4c4172b35635b88c4f97a65497f83f *rh-1995-11-10-t13.flac
+5a88189f86b3e1ba3ae2e080d32dc2a4 *rh-1995-11-10-t14.flac
+f372e94f3f424a5510529a9a39c30ccf *rh-1995-11-10-t15.flac
+45742fa299949c2495baa46186a28bc0 *rh-1995-11-10-t16.flac
+9fa14a45eee6fe883c8e2dbd8071faaf *rh-1995-11-10-t17.flac
+27a261cc32579ae1a9397ac5a10ef21e *rh-1995-11-10-t18.flac
+7c9dcf2f74e1c56ecd30961e2f4aa0ae *rh-1995-11-10-t19.flac
+
+Taper: unknown
+Transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

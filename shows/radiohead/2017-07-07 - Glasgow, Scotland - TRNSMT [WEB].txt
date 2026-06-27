@@ -1,0 +1,108 @@
+Radiohead
+TRNSMT
+Main Stage
+Glasgow Green
+Glasgow, Scotland 
+July 8, 2017
+
+Lineage: BBC iPlayer Webcast -> downloaded .ts segments (batch script) -> TSSplitter (join) -> MKVToolNix GUI -> .mkv
+Video: MPEG4 Video (H264) 1280x720 16:9 4880 Kbps 50.00 fps
+Audio: AAC 320 Kbps 48.0 KHz stereo
+
+Setlist:
+Let Down
+Lucky
+Ful Stop
+15 Step
+Myxomatosis
+There There
+All I Need
+Pyramid Song
+Everything in Its Right Place
+Reckoner
+Bloom
+Identikit
+Weird Fishes/Arpeggi
+Idioteque
+The Numbers
+Bodysnatchers
+2 + 2 = 5
+
+Encore 1:
+Daydreaming
+No Surprises
+Lotus Flower
+Paranoid Android
+Fake Plastic Trees
+
+Encore 2:
+Nude
+The Bends
+Karma Police
+
+TRT = 02:11:16
+
+Captured and uploaded to DIME by indykid. 
+
+MediaInfo:
+General
+Unique ID                   : 217945467356756962887781071071506742209 (0xA3F6C52AAF961F38A11F5F46B63A3BC1)
+Complete name               : Radiohead - 2017-07-07 TRNSMT, Glasgow, Scotland [720p50].mkv
+Format                      : Matroska
+Format version              : Version 4 / Version 2
+File size                   : 4.77 GiB
+Duration                    : 2 h 11 min
+Overall bit rate            : 5 202 kb/s
+Encoded date                : UTC 2017-07-09 07:22:54
+Writing application         : mkvmerge v8.3.0 ('Over the Horizon') 64bit
+Writing library             : libebml v1.3.1 + libmatroska v1.4.2
+
+Video
+ID                          : 2
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L3.2
+Format settings, CABAC      : Yes
+Format settings, ReFrames   : 4 frames
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 2 h 11 min
+Bit rate                    : 4 881 kb/s
+Width                       : 1 280 pixels
+Height                      : 720 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 50.000 FPS
+Standard                    : PAL
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.106
+Stream size                 : 4.48 GiB (94%)
+Default                     : Yes
+Forced                      : No
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+
+Audio
+ID                          : 1
+Format                      : AAC
+Format/Info                 : Advanced Audio Codec
+Format profile              : LC
+Codec ID                    : A_AAC
+Duration                    : 2 h 11 min
+Bit rate                    : 317 kb/s
+Channel(s)                  : 2 channels
+Channel positions           : Front: L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 46.875 FPS (1024 spf)
+Compression mode            : Lossy
+Delay relative to video     : 20 ms
+Stream size                 : 298 MiB (6%)
+Language                    : English
+Default                     : Yes
+Forced                      : No
+
+Captured and uploaded to DIME by indykid.

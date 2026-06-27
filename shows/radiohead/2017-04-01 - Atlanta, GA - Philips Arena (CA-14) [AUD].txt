@@ -1,0 +1,51 @@
+Radiohead
+Phillips Arena-Atlanta, Georgia
+April 01, 2017
+
+CD 1
+01) Daydreaming
+02) Desert Island Disk
+03) Ful Stop
+04) Airbag
+05) My Iron Lung
+06) Separator
+07) All I Need
+08) Pyramid Song
+09) Street Spirit (Fade Out)
+10) Bloom
+11) I Might Be Wrong
+12) Myxomatosis
+13) Idioteque
+14) The Gloaming
+
+CD 2
+01) Subterranean Homesick Alien
+02) The Numbers
+03) House of Cards (Tour Debut; First time live since 2012)
+Encore:
+04) No Surprises
+05) Burn the Witch
+06) Paranoid Android
+07) Present Tense
+08) Everything in Its Right Place
+Encore 2:
+09) You and Whose Army?
+10) Bodysnatchers
+Encore 3:
+11) Karma Police
+
+Thom Yorke – lead vocals, guitar, keyboards, piano
+Colin Greenwood – bass guitar
+Jonny Greenwood – guitar, keyboards, ondes Martenot, analogue synthesizers
+Ed O'Brien – guitar, backing vocals, samples, percussion
+Philip Selway – drums, percussion, backing vocals
+Clive Deamer – drums, percussion, backing vocals 
+
+Lineage: Church audio CA-14's [clipped to glasses]> Roland R-05  w/ 100 Hz low cut filter,>SDHC [10 class] recorded at 24 bit-48k > Cubase-created two sections for CD, remove mud between 80-320 Hz, sweetened upper mids>Sound Forge [remove inaudible frequencies below 20 Hz, applied  soft limiter, repaired clipped track [Idioteque], fine-tune EQ applied to balance frequencies, raised overall level, normalized peak to 0db-converted to 16-44.1-Track splits in Audacity, converted wav to FLAC level 8 and created checksum in Trader's Little Helper. 
+
+Recorded from the lower balcony, dead center, behind the floor area, about mid-way up from the floor. The location created a very bass heavy recording which required a significant cut in the lower frequencies to remove a build-up of ‘mud’. The upper mids around 5k were boosted slightly and another slight boost at 12k for ‘air’ was applied. These adjustments were necessary to balance the frequencies for your listening enjoyment. Hopefully a good recording from the floor or closer to the stage monitors will turn up. Until then, enjoy this recording of a fun show featuring a great set-list. Crank it up on your system!
+
+Never sell this recording but please trade freely. Never upload these tracks in a lossy format like MP3, keep it Lossless. Support the band by attending their shows and buying their official merchandize.
+
+Enjoy!
+             -----Solar Wind-Atlanta-----

@@ -1,0 +1,52 @@
+NIRVANA
+August 20, 1991
+Sir Henry's
+Cork, Ireland
+
+SOURCE (AUD #1):
+Sennheiser K3U + ME 80 > Sony TCD-D3
+
+TRANSFER:
+Tascam DA-30mkII > Echo Layla24 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+DAT(1) [48kHz/16bit] > WAV [48kHz/16bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+LENGTH:
+40:58
+
+NOTES:
+- Has a dropout in "Lounge Act."
+
+TRACKS:
+01. Drain You (cuts in)
+02. Smells Like Teen Spirit
+03. Floyd The Barber
+04. Sliver
+05. Breed
+06. About A Girl
+07. School
+08. Lounge Act
+09. Negative Creep
+10. Been A Son
+11. Blew
+12. Endless, Nameless
+
+MD5 FINGERPRINTS:
+6abe644081ef396ae773b8e3ae8de3bb *Nirvana_1991-08-20_AUD1_t01.flac
+2f3893df1cad8e93b5dd227e5ca9fe0a *Nirvana_1991-08-20_AUD1_t02.flac
+bed274aec3286c8da216da26efa806d5 *Nirvana_1991-08-20_AUD1_t03.flac
+3a1234b94d12a6de5ab686a49abcb29d *Nirvana_1991-08-20_AUD1_t04.flac
+37449e4ba292ec3c8555f33438c80508 *Nirvana_1991-08-20_AUD1_t05.flac
+4f0d6c8fd6077793896667fac572650f *Nirvana_1991-08-20_AUD1_t06.flac
+9d6994b8c5b665900e377e74d24f6002 *Nirvana_1991-08-20_AUD1_t07.flac
+5903b8c28791f39d2834580fe45d7f5a *Nirvana_1991-08-20_AUD1_t08.flac
+87714f1e5c8d57e3f781ca5cd7b3e0a7 *Nirvana_1991-08-20_AUD1_t09.flac
+9799bff27f5f6cd29ef953318182dbb9 *Nirvana_1991-08-20_AUD1_t10.flac
+02065be06afc0d0c5a8956bbb66b1cdd *Nirvana_1991-08-20_AUD1_t11.flac
+fe313283c165ea0c6688ba2a4408e007 *Nirvana_1991-08-20_AUD1_t12.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

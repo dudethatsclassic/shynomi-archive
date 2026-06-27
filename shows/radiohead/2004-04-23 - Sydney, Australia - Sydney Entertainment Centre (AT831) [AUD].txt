@@ -1,0 +1,82 @@
+Radiohead
+23rd April 2004
+Sydney Entertainment Centre
+Australia
+
+location: 50' from stage, just left of centre, mics in beanie
+Source: AT831 > SPSB-1 > Denecke AD-20 > Sony TCD-D8
+Transfer: Sony TCD-D8 > (optical) > Zoltrix Nightingale Pro 6 > CoolEdit Pro 2 > CDWave 1.71 > FLAC
+taper: matt@vitalogy.org
+
+
+********************************
+********************************
+***                          ***
+***   PRESERVE THE QUALITY   ***
+***   DO NOT ENCODE TO MP3   ***
+***                          ***
+********************************
+********************************
+
+File size: 687MB FLAC
+
+
+01 there there				[07:17]
+02 2+2=5				[03:39]
+03 myxomatosis				[04:49]
+04 morning bell				[04:30]
+05 kid a				[03:40]
+06 my iron lung				[05:21]
+07 backdrifts				[07:18]
+08 pyramid song				[04:56]
+09 i might be wrong			[04:45]
+10 go to sleep				[04:12]
+11 where i end and you begin		[03:55]
+12 piano problems			[01:19]
+13 you and whose army?			[03:24]
+14 climbing up the walls		[04:26]
+15 national anthem			[04:21]
+16 exit music				[04:56]
+17 paranoid android			[06:25]
+18 sit down. stand up			[04:10]
+19 encore break				[03:24]
+20 planet telex				[04:57]
+21 sail to the moon			[04:05]
+22 idioteque				[04:26]
+23 how to dissappear completely		[07:21]
+24 encore break				[02:13]
+25 karma police				[04:41]
+26 everything in its right place	[07:58]
+
+				TOTAL  [122:44]
+
+FLAC Fingerprints:
+
+rh2004-04-23t01.flac:9f66a20e9e9004765f73a597d431a30b
+rh2004-04-23t02.flac:69289fee6894314e21f04219730ec61a
+rh2004-04-23t03.flac:2a78f8b5add08f4024137ccd6f9f77cb
+rh2004-04-23t04.flac:af2857a05b154893cfd1c97ad6cde507
+rh2004-04-23t05.flac:a63c608a33c999c66af732946fae36b3
+rh2004-04-23t06.flac:7194aa7e6c1cfd1b86868581443bd8f1
+rh2004-04-23t07.flac:f60c415111eb38ab4c050aa52d841dbe
+rh2004-04-23t08.flac:5203473bf99d6630d7cd9957ab75b4ce
+rh2004-04-23t09.flac:3f495b9a3325d5c2d67425c42a6b36d1
+rh2004-04-23t10.flac:4f60375eab99d6994d4668cc469245dc
+rh2004-04-23t11.flac:a57e4ae537d9d37067ba15f6b82cbe3f
+rh2004-04-23t12.flac:7fb9d80df70f8c742de33cc7f037219a
+rh2004-04-23t13.flac:65163f5bc68d861f2e3876d31812ab21
+rh2004-04-23t14.flac:b8c6e78ed9ee1db47939c8c3672034f8
+rh2004-04-23t15.flac:b43ead6b8387256ae38e71fcd4328eda
+rh2004-04-23t16.flac:2086051168f4c58be719c57fb01d5ae2
+rh2004-04-23t17.flac:4219b0f8b4b33d2303b49844e7027712
+rh2004-04-23t18.flac:c217851aeda8b0f60bc82d4a302a68ab
+rh2004-04-23t19.flac:68df984dec6f5778db344cc540d5f328
+rh2004-04-23t20.flac:f891a7d96145bda49311bcf39383977d
+rh2004-04-23t21.flac:346742c21778eb5bd6dfd47832c962b7
+rh2004-04-23t22.flac:82a602ab90046b05ee7abed7ecb60ac4
+rh2004-04-23t23.flac:d1436dcccd8b8dbe72966ba372a570be
+rh2004-04-23t24.flac:f74d7ec75cc9b9bed927b678e074e2e4
+rh2004-04-23t25.flac:4313e1fdd5fd0c3c6d5330f1baaa247a
+rh2004-04-23t26.flac:10f5183762fc604a5f55c9c2a59f529a
+
+Notes: There is some distortion in parts where nearby crowd members go berserk, which was understandable!

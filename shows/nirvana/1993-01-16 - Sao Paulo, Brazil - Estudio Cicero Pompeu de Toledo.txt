@@ -1,0 +1,61 @@
+NIRVANA
+January 16, 1993
+Estádio Cícero Pompeu de Toledo (Hollywood Rock Festival)
+São Paulo, Brazil
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+unknown > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+DAT(M) > ANA(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+52:41
+
+TRACKS:
+01. D-7 (cuts in)
+02. Smells Like Teen Spirit (cuts out)
+03. On A Plain (cuts in)
+04. Negative Creep
+05. Something In The Way
+06. Blew
+07. Run To The Hills (jam)
+08. jam
+09. jam
+10. Heartbreaker (jam)
+11. We Will Rock You (part of)
+12. Seasons In The Sun
+13. Kids In America
+14. Should I Stay Or Should I Go
+15. 867-5309/Jenny
+16. Rio
+17. Lounge Act (jam)
+18. Territorial Pissings
+
+MD5 FINGERPRINTS:
+caa2ae86bb502f6c7408765b82f0f4c8 *Nirvana_1993-01-16_SBD1_t01.flac
+f008e84b7e2c69c2f5335ff1657a0cb6 *Nirvana_1993-01-16_SBD1_t02.flac
+2f539a9f304cbf2d58b4cd789390b994 *Nirvana_1993-01-16_SBD1_t03.flac
+02e21a7243713fa38a86f6f018228d12 *Nirvana_1993-01-16_SBD1_t04.flac
+8179a64c320dce98c3b995f2647aba30 *Nirvana_1993-01-16_SBD1_t05.flac
+a96fbf26d14e8387819b4e4e60b38c94 *Nirvana_1993-01-16_SBD1_t06.flac
+abc062f2bf7a3c8a36e9bff9f1962c3c *Nirvana_1993-01-16_SBD1_t07.flac
+4b07794fefcc28af4eb8c95beb86e96f *Nirvana_1993-01-16_SBD1_t08.flac
+386d6de7760a2ca53f86fb5201d9ef3d *Nirvana_1993-01-16_SBD1_t09.flac
+1ed6e5eee4f8148e5dfa0879c3d58e7c *Nirvana_1993-01-16_SBD1_t10.flac
+183c45f9556124eebba4c12af82bdd58 *Nirvana_1993-01-16_SBD1_t11.flac
+82a5d2e5723d99a77b6e7561d38852d5 *Nirvana_1993-01-16_SBD1_t12.flac
+41ec1d09bbe6eefb340b2cb0c9eb3371 *Nirvana_1993-01-16_SBD1_t13.flac
+2f6a38f2cc20f394e2e19b2ff7a233f4 *Nirvana_1993-01-16_SBD1_t14.flac
+13281e5a6b206ecc12200d1ef6f1e752 *Nirvana_1993-01-16_SBD1_t15.flac
+782cd251c174078c5c2e93f7b5d62814 *Nirvana_1993-01-16_SBD1_t16.flac
+aca32340c7430d810dd994008f362a8e *Nirvana_1993-01-16_SBD1_t17.flac
+054d37f77eb8a8c7a29736ae8ce03ecd *Nirvana_1993-01-16_SBD1_t18.flac
+
+TRANSFERRED BY:
+unknown
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

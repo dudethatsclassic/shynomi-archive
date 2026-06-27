@@ -1,0 +1,97 @@
+Korn
+Milano, Itay
+Idroscalo
+Gods of Metal Part II
+Saturday
+30-06-2007
+
+Lineage: DPA 4061s > CA-ST9100 > R-09 @44.1/16 > USB > Audition > CDWAV > FLAC (Level 8 w/ Verify)
+Taper: pigsinspace
+Taper location: Slightly off-center left, FOB
+
+Tracklist:
+
+01) Here to stay [cuts in]
+02) Twist
+03) Good God
+04) Coming undone
+05) Falling away from me
+06) Somebody someone
+07) Right now
+08) Shoots and Ladders > One
+09) Divine
+10) Got the life
+11) Evolution
+12) Y'all want a single
+13) Twisted transistor
+14) Freak on a leash
+15) Clown
+16) Blind
+
+First time I saw Korn live and was positively impressed. I believe this was
+a damn good performance.
+
+There are a few volume problems in the first 4 minutes or so. This was the first
+time I was using this rig, took me a bit to be used to.
+Jonhatan's voice wasn't brilliant, and the sound mix did not help at all.
+
+When talkers don't talk, the world is a better place.
+
+Enjoy!
+
+- pigsinspace
+
+    length     expanded size   cdr  WAVE  probs   filename
+     6:55.49      73321292     ---   --    -xx    korn2007-06-30t01.flac
+     0:52.28       9238700     ---   --    -xx    korn2007-06-30t02.flac
+     4:18.12      45539468     ---   --    -xx    korn2007-06-30t03.flac
+     3:29.13      36898220     ---   --    -xx    korn2007-06-30t04.flac
+     5:26.69      57668732     ---   --    -xx    korn2007-06-30t05.flac
+     5:37.70      59611484     ---   --    -xx    korn2007-06-30t06.flac
+     4:22.03      46223900     ---   --    -xx    korn2007-06-30t07.flac
+     6:29.26      68680796     ---   --    -xx    korn2007-06-30t08.flac
+     3:50.33      40649660     ---   --    -xx    korn2007-06-30t09.flac
+     3:47.59      40181612     ---   --    -xx    korn2007-06-30t10.flac
+     4:51.46      51440636     ---   --    -xx    korn2007-06-30t11.flac
+     4:07.46      43679036     ---   --    -xx    korn2007-06-30t12.flac
+     3:53.63      41249420     ---   --    -xx    korn2007-06-30t13.flac
+     5:22.55      56930204     ---   --    -xx    korn2007-06-30t14.flac
+     5:14.42      55488428     ---   --    -xx    korn2007-06-30t15.flac
+     7:23.43      78246380     ---   --    -xx    korn2007-06-30t16.flac
+    76:03.57     805047968 B                      (totals for 16 files, 0.5310 overall compression ratio)
+
+FLAC fingerprints:
+korn2007-06-30t02.flac:b84b90dc6a39de9c1cbe2814f49a622b
+korn2007-06-30t03.flac:6bc667dd74ba92d3ccf7518de3d8a1a0
+korn2007-06-30t04.flac:ec85764fd2b7968815a8ea83c65db57f
+korn2007-06-30t05.flac:8dd6c824682532a0dabcc7c880654f8d
+korn2007-06-30t06.flac:6c11dffb71d13be06041d1bb2d855c12
+korn2007-06-30t07.flac:8fc991e916be8a96681c205d33df08e0
+korn2007-06-30t08.flac:10dd0be110e4e5139ba934f4599d2fb6
+korn2007-06-30t09.flac:8f4a3e963b3783869896c9c8fd8ca509
+korn2007-06-30t10.flac:44d19cc43e9847c3c11fb90e1f66f495
+korn2007-06-30t11.flac:eedeaaf86cc9742ceebe313dd0605dfd
+korn2007-06-30t12.flac:71783e1d14a04fc18df98153b71adf47
+korn2007-06-30t13.flac:7eeec0580a82027e2276a60f9e19f682
+korn2007-06-30t14.flac:33275374aa4c9ff829d86c6037b9ab83
+korn2007-06-30t15.flac:3e7bbebc32ff10104d621b197ee974ef
+korn2007-06-30t16.flac:ae40fa9bf48796944ed04a222ab824d9
+korn2007-06-30t01.flac:695a27fbee0d4728d807facda17bc90a
+
+MD5 checksums:
+0a1dd21b24f82d87fdf1555bd2164f1e *korn2007-06-30t01.flac
+2b5e292ced6c718c8ab5cbbecdc90aba *korn2007-06-30t02.flac
+5d6d2ca84d52f3c594436de9f42c5c7f *korn2007-06-30t03.flac
+c67630e708b546424410990b4ea055d8 *korn2007-06-30t04.flac
+5d25e8fe41e0a244eeec20029bb081fe *korn2007-06-30t05.flac
+afe6f219b04fb4d9f5195bf097208067 *korn2007-06-30t06.flac
+c77bcbe63937e166b951188d4e718237 *korn2007-06-30t07.flac
+57af1c67f89b116ded33a18b605fce6a *korn2007-06-30t08.flac
+7bec103d09356bf63dd8768d504ca57a *korn2007-06-30t09.flac
+bd984335e6b977dde8fb21741355e9f8 *korn2007-06-30t10.flac
+2ae039c7fa2a95b882ea67c68d15eada *korn2007-06-30t11.flac
+b5dc4798bd3d34f170ed63cdc2072146 *korn2007-06-30t12.flac
+c75a96abebba824d1954bf13a5f805d0 *korn2007-06-30t13.flac
+d6cd1095b897256c7c57b4dda3444619 *korn2007-06-30t14.flac
+267750629c6b053966688c55a5c0945d *korn2007-06-30t15.flac
+f6df34312df77f86f64ad37e4c20f3ce *korn2007-06-30t16.flac

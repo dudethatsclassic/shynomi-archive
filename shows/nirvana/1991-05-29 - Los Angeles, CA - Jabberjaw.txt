@@ -1,0 +1,61 @@
+NIRVANA
+May 29, 1991
+Jabberjaw
+Los Angeles, CA
+
+SOURCE (AUD #2):
+Sonic Studios DSM-6 > Sony TCD-D10
+
+TRANSFER:
+Panasonic SV-3700 > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+DAT(M) [48kHz/16bit] > WAV [48kHz/16bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+LENGTH:
+60:56
+
+TRACKS:
+01. intro
+02. Blew (cuts in)
+03. Been A Son
+04. Stain (cut)
+05. On A Plain
+06. Smells Like Teen Spirit
+07. Love Buzz
+08. Lithium
+09. Floyd The Barber
+10. About A Girl
+11. Breed
+12. School
+13. Play That Funky Music (jam)
+14. Dive
+15. Polly
+16. Come As You Are
+17. Sliver
+18. Territorial Pissings
+
+MD5 FINGERPRINTS:
+96675402d8133b7572e6199afe670f32 *Nirvana_1991-05-29_AUD2_t01.flac
+f4b217d4df48412fa106a91f42677b6f *Nirvana_1991-05-29_AUD2_t02.flac
+16f6811c01bbd7e2bf3afa7997cb31ae *Nirvana_1991-05-29_AUD2_t03.flac
+c0fc0b7139f9fb9b188a365d1832ea36 *Nirvana_1991-05-29_AUD2_t04.flac
+8109249cc5611eb19a9a9b3f9ad53a64 *Nirvana_1991-05-29_AUD2_t05.flac
+b24f883f0e1a85ade361401eef6071c4 *Nirvana_1991-05-29_AUD2_t06.flac
+40c0bafd7577ea681c4749ca0b48beb9 *Nirvana_1991-05-29_AUD2_t07.flac
+a2fa24d8cdfeb231dc61f874b60acca2 *Nirvana_1991-05-29_AUD2_t08.flac
+e194094d7d28193f7cb4379986643514 *Nirvana_1991-05-29_AUD2_t09.flac
+1340702026b4dcf9c69ca48dedfbe525 *Nirvana_1991-05-29_AUD2_t10.flac
+0719ebadf6b665aa50b768f393918e5b *Nirvana_1991-05-29_AUD2_t11.flac
+4a3d996319502ecb8394d04781bc13b3 *Nirvana_1991-05-29_AUD2_t12.flac
+e2fbb4ae7bd88135e74eccb9f5ca8910 *Nirvana_1991-05-29_AUD2_t13.flac
+045c91590961128b1a6ed1b8ca1201a5 *Nirvana_1991-05-29_AUD2_t14.flac
+4cd70189b07802e1f63e6ae6ae2ad5d0 *Nirvana_1991-05-29_AUD2_t15.flac
+f1156eb3d6449b08fff3212109192fa5 *Nirvana_1991-05-29_AUD2_t16.flac
+1cd2c49baf4aa1ae019d15f593f1a090 *Nirvana_1991-05-29_AUD2_t17.flac
+3e27a7cc7debc9ce933e228985694dbf *Nirvana_1991-05-29_AUD2_t18.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

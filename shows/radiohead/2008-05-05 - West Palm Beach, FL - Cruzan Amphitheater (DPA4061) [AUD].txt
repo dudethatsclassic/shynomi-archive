@@ -1,0 +1,66 @@
+
+Radiohead
+May 5th, 2008
+Cruzan Amphitheater: West Palm Beach, FL
+
+Source:    DPA 4061s > MMA-6000 > Edirol R-09 @ 24/48
+           (around 20th row, sec 2, inside left stack)
+
+Patch Src: JB's DPA 4060 > Edirol R-09 (sec 3)
+
+Transfer:  R-09 > USB > Adobe Audition > dED > (dither
+           and resample at highest setting) > CDWave > FLAC
+
+Notes:     Beginning of Optimistic, most of Exit Music,
+           and a sliver of Street Spirit are cut due
+           to non-technical issues.
+           These spots were patched using JB's source, 
+           with permission from the taper.  Thanks JB!
+           In addition to the patching, quite a bit of 
+           digital editing was performed to soften loud
+           clapping and screaming.  Also a hi-pass FFT 
+           filter was used to cut echo bass below 35Hz.
+
+
+** These 16 bit files are intended for CD.
+
+** Please do not redistribute this recording **
+** in lossy formats like MP3!!  Thanks.      **
+
+
+01. intro  
+02. All I Need  
+03. Bodysnatchers  
+04. There There  
+05. Reckoner  
+06. The Gloaming  
+07. Morning Bell  
+08. Nude  
+09. How To Disappear Completely  
+10. 15 Step  
+11. Weird Fishes/Arpeggi  
+12. Arpeggi (take two)
+13. Idioteque  
+14. Bullet Proof.. I Wish I Was  
+15. Where I End and You Begin  
+16. Airbag  
+17. Everything In Its Right Place  
+18. National Anthem  
+19. Videotape  
+
+20. encore intro
+21. Optimistic  
+22. Just  
+23. Faust Arp  
+24. Exit Music (for a film)  
+25. Miami Beach
+26. Bangers and Mash  
+
+27. House of Cards  
+28. Street Spirit (fade out)  
+ 
+Length [2:02:37]
+
+Taping, transfer, edits, & FLAC compilation - pjdavep
+
+Released 05/28/2008.

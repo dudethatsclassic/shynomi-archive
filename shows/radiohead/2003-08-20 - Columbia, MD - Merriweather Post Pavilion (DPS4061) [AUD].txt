@@ -1,0 +1,15 @@
+    length     expanded size   cdr  WAVE problems filename
+     0:14.53        2594300    ---   --   ---xx   radiohead_030820_44k_d1t01.shn
+     3:22.44       35736332    ---   --   ---xx   radiohead_030820_44k_d1t02.shn
+     3:46.29       39934652    ---   --   ---xx   radiohead_030820_44k_d1t03.shn
+     4:22.33       46294460    ---   --   ---xx   radiohead_030820_44k_d1t04.shn
+     4:30.02       47632748    ---   --   ---xx   radiohead_030820_44k_d1t05.shn
+     4:47.06       50640956    ---   --   ---xx   radiohead_030820_44k_d1t06.shn
+     5:10.52       54806348    ---   --   ---xx   radiohead_030820_44k_d1t07.shn
+     6:30.53       68920700    ---   --   ---xx   radiohead_030820_44k_d1t08.shn
+     3:29.57       37001708    ---   --   ---xx   radiohead_030820_44k_d1t09.shn
+     4:20.62       46009868    ---   --   ---xx   radiohead_030820_44k_d1t10.shn
+     3:53.15       41136524    ---   --   ---xx   radiohead_030820_44k_d1t11.shn
+     5:16.09       55763612    ---   --   ---xx   radiohead_030820_44k_d1t12.shn
+     4:31.28       47870300    ---   --   ---xx   radiohead_030820_44k_d1t13.shn
+    54:15.68         547.74 MB                    (totals for 13 files, 0.5211 overall compression ratio)

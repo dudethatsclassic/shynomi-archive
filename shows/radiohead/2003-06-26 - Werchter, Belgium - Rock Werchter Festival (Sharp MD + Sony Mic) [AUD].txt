@@ -1,0 +1,50 @@
+RADIOHEAD
+2003-06-26
+Rock Werchter Festival, Werchter, Belgium
+
+-----------------------------------------------------------
+
+Taper:		> ben - janssen1183@zonnet.nl
+
+Source:		> Sharp MD-MT 190 Minidisc-Recorder
+		> A small Sony microphone
+		> Mastered by mixing desk
+		> Spl Vitalizer
+		> Tascam CD-recorder
+		(eric belair from here on out - 
+			DC++ username: ejbelair
+			ejbelair@hotmail.com):
+		> EAC
+		> WAV
+		> mkw Audio Compression Tool
+		> SHN
+
+-----------------------------------------------------------
+
+setlist:
+
+01 there there
+02 2+2=5
+03 morning bell 
+04 lucky 
+05 talk show host
+06 kid a 
+07 national anthem 
+08 the gloaming
+09 where i end and you begin 
+10 sail to the moon
+11 fake plastic trees
+12 just 
+13 go to sleep
+14 i might be wrong
+15 paranoid android
+16 idioteque
+17 everything in it's right place
+
+encore #1:
+18 exit music
+19 sit down. stand up 
+20 pyramid song
+
+encore #2:
+21 karma police

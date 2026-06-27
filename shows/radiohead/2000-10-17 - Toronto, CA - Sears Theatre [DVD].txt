@@ -1,0 +1,79 @@
+RADIOHEAD - 10/17/2000
+Sears Theatre (Air Canada Center)
+Toronto, ON, Canada
+NTSC DVD
+
+
+Video:
+lividz video master (fan shot)>standalone burner (2 dvd's)>stefano (original dvd's)>formengr (copies of original DVD's)
+Original video bitrates: 7.18 mBps peak, 4.059 mBps average
+formengr>USPS>ducky>DVD+Rs>DVD Decrypter>DVD2AVI(.m2v file creation)
+>VirtualDubMod(frame server mode*)>TMPGEnc Plus**
+>.mpg files (one for each disc)
+
+*fade in/out here and there
+**2-pass VBR (min:0000, max:9300, avg:5000kbit/sec)
+note: the intro was made via Premiere Pro
+
+Audio:
+www.radiohub.org (THE hub)>formengr>USPS>ducky :D
+Source: Schoeps CCM4s>Beyer MV-100>SBM-1>Sony TCD-D8>CDR>SHN
+(^the infamous)
+I reencoded this to AC3 448kbit/sec via ffmpeggui02c
+
+Synching/Merging:
+The synch was made with Soundforge, VirtualdubMod and TMPGEnc Plus.
+I merged this with TMPGEnc DVD Author, TMPGEnc Plus and DVD-lab (I'm sure
+there's an easier way, but I like to stick my old methods).
+Basically it gives:
+faded in/out + synched with DAT .mpgs (from 2 original discs)
+>TMPGEnc DVD Author>DVD-lab(merging VOB's)>TMPGEnc Plus(Demux resulting
+VOB and Remux to rewrite the header)>final .mpg file>TMPGEnc DVD Author*
+
+*with the help of Photoshop and TMPGEnc Plus
+
+Setlist:
+
+01 National Anthem
+02 Morning Bell
+03 Airbag
+04 In Limbo
+05 Optimistic
+06 Lucky
+07 My Iron Lung
+08 You and Whose Army?
+09 No Surprises
+10 Dollars & Cents
+11 Exit Music
+12 Talk Show Host
+13 How to Disappear Completely
+14 Paranoid Android
+15 Idioteque
+16 Just
+17 Everything In Its Right Place
+18 I Might Be Wrong
+19 Street Spirit
+20 Follow Me Around
+21 The Bends
+22 Pyramid Song
+23 Motion Picture Soundtrack
+24 Karma Police
+
+
+from Ducky:
+About the show itself... This is a great performance from Radiohead; they
+seem to feel generous enough to play some rare songs...
+Now, this is one of the only 2000 performance you'll be able to watch,
+unfortunately the taper shot Thom too much which is a negative point.
+
+from formengr:
+This is THE Radiohead performance imo.  I agree with Ducky that the shot is 
+limited in range (sort of has to do w/the filmer's position - you'll see), but 
+is excellent no less.  The setlist's amazing (complete Follow Me Around!),
+The shot's excellent (tripod) and the audio's sweet (can you say Schoeps?).
+
+--Made possible only by Radiohead - thank for helping to make the world a little
+  more bearable.
+--thanks stefano for the video material 
+--and another fine, fine production by the webfooted one, Ducky.
+--served to you happily by THE hub (www.radiohub.org)

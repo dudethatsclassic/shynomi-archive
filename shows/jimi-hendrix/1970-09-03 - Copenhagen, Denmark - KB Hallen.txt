@@ -1,0 +1,57 @@
+K.B.Hallen, Copenhagen, Denmark - 3 September 1970
+[funkydrummer cleanup and re-merge of (mostly) NEW SOURCE Copenhagen tapes]
+
+
+The Sources listed are with the new revised numbers [see CTT Copenhagen six source torrent for details]
+
+Of the six sources available, Sources 1,2 and 4 [as revised by JWV] are the best quality. Except that Source 1 has really bad speed fluctuations, so (If I remember correctly, as this was re-done over many months...)
+
+1 Stone Free [New Sources 2,4] - with edited intro from source 5.
+2 Foxy Lady [New Sources 1,2,4]
+3 Message to Love [Sources 2,4]
+4 Hey Baby [Sources 1,2,4]
+5 All Along the Watchtower[Sources 2,4]
+6 Machine Gun [Sources 2,4]
+7 Spanish Castle Magic/Drum solo [Sources 1,2,4]
+8 Ezy Ryder[Sources 1,2,4]
+9 Freedom [Sources 2,4]
+10 Red House* [Sources 1,3]
+11 In From the Storm [Sources 1,3,4]
+12 Purple Haze* [Sources 1,3]
+13 Voodoo Child (Slight Return)* [Sources 1,3]
+14 Hey Joe* [Sources 1,3]
+15 Fire* [Sources 1,3]
+16 Bonus - Hey Baby [Source 1,2,4 Alternate Mix]
+
+* These versions are the same as my previous "old source" torrent. I made new merges, but as new source 2 post-Freedom is unavailable, the new mixes didn't sound that much different, and I preferred the old ones, so I switched them back.  
+
+Occasionally there is a bit of distortion, but these are all on the source tapes e.g. Message to Love.
+
+
+Lineage: All the sources are from the six source torrent on CTT. Source numbers refer to new revised numbers in that torrent.
+
+Lineage (all sources) - FLAC > Adobe Audition 3, Speed Correction, NR, EQ, Comp > FLAC (Merged as above)
+
+OK, so this is not quite finished. Then again, with the new sources available, I could be mixing and merging forever...
+Basically the best sources are 1,2 and 4 and when 2 cuts out, 3 is substituted. 
+As I have been working on this for months (off and on), I really wanted to "finish" it, that is, provide the best representation of the tapes possible at this time. I decided to keep a few tracks from my previous "old source" merge. Just because the merges take so long to get right...there wasn't much difference, although the new source 4 really did help brighten things up. 
+I WILL redo some of the last tracks at some stage, but not for a while. I just wanted to put this to bed for now. 
+These files are the product of scores of merges and submixes, I can only hope I have chosen the best ones...Also as they were done over many months, had to try and keep them sounding as uniform as possible... 
+
+Why did I not use all six sources? I try to merge only the best sources and mix as if it was a SBD recording. Merging six tapes just gets really messy, and you get diminishing returns piling noise on top of noise.
+
+Did you use the 24 bit versions of the Copenhagen sources? No. Reason being I started the project before they became available, and was not in the mood to start all over again. There is no audible difference anyway - maybe in future, or maybe someone else can do it.
+
+
+That said, there is room for improvement - so consider this a Version 1.0, and I will perhaps create new versions in future, but I just had to "finish" it - because if I didn't finish it over the holidays - it would never get done! It is tedious work, and I don't have much time these days.
+
+Happy Holidays
+FD
+
+
+
+
+
+
+
+

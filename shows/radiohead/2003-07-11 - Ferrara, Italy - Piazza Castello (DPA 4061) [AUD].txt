@@ -1,0 +1,55 @@
+Radiohead
+Hail To the Thief Tour 2003
+Ferrara, Italy - Piazza Castello
+11 july 2003
+
+Disc 1:
+01.Intro                         01'16"
+02.There There                   05'17"
+03.2 + 2 = 5                     03'43"
+04.Lucky                         04'55"
+05.Talk Show Host                05'09"
+06.Scatterbrain                  03'25"
+07.The National Anthem           05'02"
+08.Backdrifts                    06'33"
+09.Sail To The Moon              04'37"
+10.Kid A                         03'52"
+11.My Iron Lung                  05'31"
+12.Where I End And You Begin     04'03"
+13.Go To Sleep                   04'08"
+14.Exit Music                    05'02"
+
+Total:                           62'37"
+
+Disc 2:
+01.A Punch-up At The Wedding     05'08"
+02.Paranoid Android              06'23"
+03.Idioteque                     04'17"
+04.Everything In Ita Right Place 10'45"
+05.Like Spinning Plates          03'35"
+06.No Surprises                  04'25"
+07.The Gloaming                  04'10"
+08.The Tourist                   08'03"
+09.Sit Down, Stand Up            05'12"
+10.Street Spirit [Fade Out]      05'30"
+11.Outro                         01'08"
+
+Total:                           58'43"
+
+Source:
+DPA4061 mics + MPS6030 battery box + Sony PCM-M1
+
+Taper:
+Luigi B. (facing right side stacks, almost front row, mics mounted on glasses)
+
+
+Flac process:
+-> dat master (48Khz, Line In, rec. level knob set to 7.5)
+-> Sony DTC-Ze700 datDdeck
+-> Philips CdDR770 Audio Recorder (optical transfer & automatic downsample)
+-> Wave single tracks on 2 Cdrw
+-> EAC secure
+-> Wave
+-> Deq: bass reduction, sound level raised of +13 db
+-> Track splitting with Wavelab 4.0 
+-> lossless compression to Flac

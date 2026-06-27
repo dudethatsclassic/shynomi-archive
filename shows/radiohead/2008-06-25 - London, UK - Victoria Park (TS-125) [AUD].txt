@@ -1,0 +1,45 @@
+RADIOHEAD
+Victoria Park
+London
+25.06.2008
+
+Source: Sony ECM TS-125 mic > MD [JVC XMR-700SL] > 3.5mm OFC > Genius 5.1 PCI > Audacity > WAV > FLAC
+
+Taper: Leo Edwards (leopheard_misc[[at]]frenet.co.uk)
+
+To convert the following .FLAC files into a readable format, do a Google on 'Flac Frontend'. Otherwise, you should be able to search around for a Nero/etc. codec to burn straight from .FLACs rather than having to decode them into .WAVs first.
+
+CD1: 
+
+1. Reckoner
+2. 15 Step
+3. There There
+4. All I Need
+5. Lucky
+6. Nude
+7. Arpeggi
+8. Myxomatosis
+9. National Anthem
+10. Faust Arp
+11. No Surprises
+12. Jigsaw
+13. Optimistic
+14. Videotape
+15. Everything In Its Right Place
+16. Idioteque
+
+CD2:
+
+17. Bodysnatchers [cut]
+
+Encore 1:
+18. House of Cards
+19. The Bends
+20. Bangers + Mash
+21. My Iron Lung
+22. Karma Police
+
+Encore 2:
+23. Go Slowly
+24. 2+2=5
+25. Paranoid Android

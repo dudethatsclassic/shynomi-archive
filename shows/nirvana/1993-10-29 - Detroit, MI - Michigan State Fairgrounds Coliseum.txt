@@ -1,0 +1,74 @@
+NIRVANA
+October 29, 1993
+Michigan State Fairgrounds Coliseum
+Detroit, MI
+
+SOURCE (AUD #1):
+built-in > Realistic SCP-29
+
+TRANSFER:
+Tascam DA-20mkII > Apogee S/PDIF cable > LynxONE digital-in > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > DAT(1) [48kHz] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+83:10
+
+NOTES:
+- "School" cuts out due to a tape flip.
+
+TRACKS (DISC 1):
+01. intro
+02. Radio Friendly Unit Shifter
+03. Drain You
+04. Breed
+05. Serve The Servants
+06. About A Girl
+07. Heart-Shaped Box
+08. Sliver
+09. Dumb
+10. In Bloom
+11. Come As You Are
+12. Lithium
+13. School (cuts out)
+
+TRACKS (DISC 2):
+01. Polly
+02. Milk It
+03. Rape Me
+04. Territorial Pissings
+05. Smells Like Teen Spirit
+06. All Apologies
+07. Jesus Wants Me For A Sunbeam
+08. On A Plain
+09. Scentless Apprentice
+
+MD5 FINGERPRINTS:
+c610067f4a34cda3ba487402c6c15a20 *Nirvana_1993-10-29_AUD1_d1t01.flac
+a201ac6dac5a294351e97843733bfa99 *Nirvana_1993-10-29_AUD1_d1t02.flac
+f90f7976c6c1e44ef5c5f05a501899be *Nirvana_1993-10-29_AUD1_d1t03.flac
+f440b278b0b68f0fd42278640e56e14b *Nirvana_1993-10-29_AUD1_d1t04.flac
+958b1840cce0f3a2bdabdde2bf682a65 *Nirvana_1993-10-29_AUD1_d1t05.flac
+a5fbc7aec5ab6d4d2cecebd2bc9c9961 *Nirvana_1993-10-29_AUD1_d1t06.flac
+813da5fbda3a7b26b154d2f871c24401 *Nirvana_1993-10-29_AUD1_d1t07.flac
+b474034b28ab4ac37a8b331b9b7eb0e6 *Nirvana_1993-10-29_AUD1_d1t08.flac
+fbbdfcd90e12ee3959bbbb9b55dc7834 *Nirvana_1993-10-29_AUD1_d1t09.flac
+03a3f6fd4c91e2af470966a6dda581d4 *Nirvana_1993-10-29_AUD1_d1t10.flac
+6e6c2eebac949a6b395f846c2641c048 *Nirvana_1993-10-29_AUD1_d1t11.flac
+11124c5c0cc45dbff9017fe513b8b63f *Nirvana_1993-10-29_AUD1_d1t12.flac
+97e39dcd14b055fc23bde1aae9779e6d *Nirvana_1993-10-29_AUD1_d1t13.flac
+c7a0bbe6c3796b5bfec2ab435c134460 *Nirvana_1993-10-29_AUD1_d2t01.flac
+1350634b53f5a0dc622fc71c2a9b1572 *Nirvana_1993-10-29_AUD1_d2t02.flac
+6314116441c8cc40df3105eff2f44449 *Nirvana_1993-10-29_AUD1_d2t03.flac
+b2eb16f14e8941586e2bb22c6439af08 *Nirvana_1993-10-29_AUD1_d2t04.flac
+b429c00cadfad1459cd247d2aa4df65a *Nirvana_1993-10-29_AUD1_d2t05.flac
+1fdcf417863fe00e0370593373e786a3 *Nirvana_1993-10-29_AUD1_d2t06.flac
+8668bfef811e7dea128f2cd80659b80f *Nirvana_1993-10-29_AUD1_d2t07.flac
+dc663776cf5a1b4892157ddb0516e944 *Nirvana_1993-10-29_AUD1_d2t08.flac
+10935f42d546f50d31f186aa7ed44958 *Nirvana_1993-10-29_AUD1_d2t09.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

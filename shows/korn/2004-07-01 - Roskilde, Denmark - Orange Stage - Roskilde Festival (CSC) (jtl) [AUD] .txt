@@ -1,0 +1,47 @@
+Korn
+July 01st 2004 Orange Stage / Roskilde Festival / Roskilde / Denmark
+
+Setlist:
+01. Right Now
+02. Break Some Off
+03. Got The Life
+04. Here To Stay
+05. Falling Away From Me
+06. Blind
+07. Shoots & Ladders
+08. Shoots & Ladders (contd.) / One / Freak On A Leash
+09. A.D.I.D.A.S.
+10. Dead Bodies Everywhere
+11. Did My Time
+12. Another Brick In The Wall / Good Bye Cruel World
+13. Faget
+14. Somebody Somewhere
+15. Y'All Want A Single
+
+Taper:
+ JTL
+
+Gear: 
+ Core Sound Cardioid Mics > Batterybox (Flat response) > Sharp MD-DR470H (LP2 mode)
+
+Edit:
+ Optical transfer to Pc > Sound Forge 8.0 (Eq, Normalize, Fades) > CDWave (Splitting tracks) > CDR > dBpoweramp CD Ripper > Flac lvl. 8 > You 
+
+Notes:
+ A few of the track splits are off, as I didn't know their songs back then.
+
+Korn_2004-07-01_01.flac:1ccfb0ec935423ccdd793cee9f9dc3e2
+Korn_2004-07-01_02.flac:b7fa2f110f1945f8e0f3cc8fa179cad3
+Korn_2004-07-01_03.flac:b42ea66944ec80f104f7e06adb9cad6f
+Korn_2004-07-01_04.flac:f2e571c5345a7aa4d3d7342140891a41
+Korn_2004-07-01_05.flac:e28306e8dbf78d3542c46d36f1fc8841
+Korn_2004-07-01_06.flac:058fd91b8840a7596b25d49c2759ae76
+Korn_2004-07-01_07.flac:c01e761b1902b7dc700bdd066aa296b8
+Korn_2004-07-01_08.flac:b91d4b555312cba7d2c738f9c0cdf027
+Korn_2004-07-01_09.flac:0e0b7eb53e04703b34f75de586adb902
+Korn_2004-07-01_10.flac:9fdd861d4f5cdc2cbdaafc7d446c154d
+Korn_2004-07-01_11.flac:a9a7bb1960a3f3cec3ba9be226806111
+Korn_2004-07-01_12.flac:59cee6a50e753f2ce2f0026f32cd5cdc
+Korn_2004-07-01_13.flac:89c93840b8d3161bae9503f394293f9a
+Korn_2004-07-01_14.flac:1b0f795b3866fcf96638d53c0b04e772
+Korn_2004-07-01_15.flac:504821c3c23ff0de6411e13ee6053c16

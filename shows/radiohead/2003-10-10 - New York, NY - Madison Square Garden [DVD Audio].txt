@@ -1,0 +1,45 @@
+Radiohead
+2003-10-10
+Madison Square Garden
+NYC, NY
+
+Source: DVD
+-unknown source (most certainly DV)>VHS>VHS>DV>firewire>HDD (DV codec) Some minor editing to remove hiss & hum>LPCM.
+video: Fades at begin/end discs>constant 8mbps DVD compliant mpeg-2
+no menus, properly chaptered 2x disc NTSC DVD
+all editing assembly with Vegas Video 4.0 & DVD Architect 1.0-- 
+->Audio extracted from DVD to create a DV2 file > CD Wave > FLAC Frontend.  
+
+
+
+Disc 1:
+01 the gloaming 
+02 there there
+03 2+2=5 
+04 where i end and you begin 
+05 exit music
+06 talk show host
+07 myxomatosis
+08 paranoid android
+09 in limbo
+10 sail to the moon
+11 creep
+12 scatterbrain
+13 go to sleep
+
+Disc 2:
+01 just
+02 idioteque
+03 you and whose army?
+04 sit down. stand up
+05 lucky
+06 national anthem 
+07 a punchup at a wedding
+08 street spirit
+09 airbag
+10 no surprises
+11 everything in its right place
+
+*Original DVD audio provided by Formengr
+*audio rip seeded in the Radiohub 2005-01-28
+murmurs13

@@ -1,0 +1,141 @@
+Radiohead
+Visarno Arena
+Florence, Italy
+2017-06-14
+
+[GP072dm]
+
+--- 24-bit version ---
+
+source: 	AUD (see location below) > Church Audio CA-14 Cardioids > Church Audio battery box >
+		> Edirol R-09 (24-bit/48.0 kHz, LINE-IN, rec. level 30/30) > SDHC Panasonic RP-SDM04G 
+location: 	about 70 m from the stage, 25 m in front of the left speaker (2nd row), hat-mounted mic
+transfer: 	SDHC Panasonic RP-SDM04G > HD > Audacity 2.1.2 (editing, see below) > 
+		> CD Wave 1.98 (track splitting) > TLH 2.7.0.172 (level 8 compression) > FLAC 
+generation: 	master (no optical media extraction) 
+taper: 		Giuseppe Pastorelli [G.P.] (doublec) 
+
+Mainset:
+
+01 [5:44] Daydreaming
+02 [4:32] Desert Island Disk
+03 [5:57] Ful Stop
+04 [4:46] Airbag
+05 [4:21] 15 Step
+06 [4:03] Myxomatosis
+07 [4:38] Lucky
+08 [5:43] Pyramid Song
+09 [5:22] Everything In Its Right Place
+10 [5:11] Let Down
+11 [6:25] Bloom
+12 [5:12] Identikit
+13 [5:39] Weird Fishes/Arpeggi
+14 [4:25] Idioteque
+15 [6:08] The Numbers
+16 [4:34] Exit Music (For A Film)
+17 [4:44] Bodysnatchers
+18 [2:29] *** encore break 1 ***
+ 
+Encore 1 (E1):
+
+19 [3:23] You And Whose Army?
+20 [3:20] 2 + 2 = 5
+21 [5:54] There There
+22 [6:40] Paranoid Android
+23 [4:46] Street Spirit (Fade Out)
+24 [1:58] *** encore break 2 *** 
+
+Encore 2 (E2):
+
+25 [5:01] Lotus Flower
+26 [5:22] Fake Plastic Trees
+27 [6:03] Karma Police
+ 
+Total running time 	[2:12:31] 
+WAV 24-bit 		2.13 GB
+FLAC 24-bit		1.46 GB 
+
+Tape story:
+The venue (eventually called Visarno Arena) is at the Florence horse track (Ippodromo del Visarno) 
+I arrived at the very last time so I could locate myself only at about 70 m from the stage and 25 m in front of the 2nd row of speakers (left-hand speaker), 10 m behind the soundboard line
+I was sure to have locked the recorder but the recording accidentally stopped during Daydreaming when I was putting the R-09 into my bumbag
+The result was that about 15 secs of the track were lost but I have managed to merge both sections of the recording in a seamless way
+Most of the people around me were completely into the show, others were lovely chatters
+The recording is enjoyable considering the not ideal location with occasional clapping and screaming and background chatting on some quieter songs
+
+What about the show? 
+It was my third Radiohead show (the others were in Milan 2008 and Bologna 2012, both taped)
+Very good show with a greatest-hit setlist based on all the albums (at least 2 tracks for each) but Pablo Honey
+OK Computer (6 tracks) and A Moon Shaped Pool (5 tracks) were mainly performed
+
+Technical notes: 
+- The total running time of the recording was 2:14:47; I have cut the first 38 secs (due to mics setting during the intro) and last useless 1:33 mins
+- I have overlapped 5 secs of both section of Daydreaming (cross-fading and mixing them @ 4:52-4:57, see above explanation) finally reducing the master to 2:12:31.
+- I have amplified (+7.5 dB on the left channel, +6.0 dB on the right channel) and slightly compressed (-12 dB/3:1) the whole recording, faded-in the first 5 secs and faded-out the last 10 secs
+
+Please do not sell nor convert to mp3 for distribution (mp3 only for personal use!) 
+Feel free to share in the way you prefer, but please share this fileset as originally torrented (so preserve file integrity!) 
+
+First seeded by doublec @ DIME on 2017-06-23 
+
+Fingerprints: 
+
+rh2017-06-14t01.flac:5d39b95b8360ba88e7d1d09a0570d25d
+rh2017-06-14t02.flac:1755f1ae5596b2d7fc03ab151556979c
+rh2017-06-14t03.flac:722deb433fe918706442f50ad6eeeee6
+rh2017-06-14t04.flac:58b8b7e87450f48c279b105d159587ef
+rh2017-06-14t05.flac:28f1ecfd9f35f185ddbe34c1c8bf7d7f
+rh2017-06-14t06.flac:189947431fe695839d58f75bce269796
+rh2017-06-14t07.flac:e412e8eaa6147b2933a5de0a9de65dac
+rh2017-06-14t08.flac:67cff837e698b4fd5d40d7a9608aeded
+rh2017-06-14t09.flac:6b952235d4fb77531e7c5b811c5bde90
+rh2017-06-14t10.flac:060c52bedc2cb6eafe02c7d905b423f0
+rh2017-06-14t11.flac:4b8f96681082840db1674628418838a3
+rh2017-06-14t12.flac:0e8895346a2525475324c383e46fb4de
+rh2017-06-14t13.flac:b1af8874867bdaafe4cea1f297758d06
+rh2017-06-14t14.flac:d524097f350528a9fb1cb61ce7f97b08
+rh2017-06-14t15.flac:6018adad75570e5e9775fd03fe6cc8cc
+rh2017-06-14t16.flac:86e4a8ccdc64c97961789710d9dde07d
+rh2017-06-14t17.flac:5c151e42397ee85468dadf3fe7e142a5
+rh2017-06-14t18.flac:21f4513e23a1794baef1c726c3d311fc
+rh2017-06-14t19.flac:dbc70813493dc1ca7cf09630cf45a985
+rh2017-06-14t20.flac:5ae2c506d69b646fece32db8fa9881f2
+rh2017-06-14t21.flac:57c9cffbc9fac6a4c2a7dca549af5a3e
+rh2017-06-14t22.flac:0a573c1093cfac231eef6bfd9882110e
+rh2017-06-14t23.flac:c245d0e83af9288a37c777bc229b4c04
+rh2017-06-14t24.flac:2f9a8de91be774120d4f7e8ecf8f924c
+rh2017-06-14t25.flac:eaa69bb66458be9a7afed41fc705959d
+rh2017-06-14t26.flac:bc10c6d44148b3c330043baab8d6a7b5
+rh2017-06-14t27.flac:fa9e0a594f5dfc67e4c8231fc64148b8 
+
+Track lengths: 
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:44.373      99179564 B   cxx   --   ---xx   flac  0.6390  rh2017-06-14t01.flac
+     4:32.480      78474284 B   cxx   --   ---xx   flac  0.6793  rh2017-06-14t02.flac
+     5:57.320     102908204 B   cxx   --   ---xx   flac  0.6966  rh2017-06-14t03.flac
+     4:46.733      82579244 B   cxx   --   ---xx   flac  0.7134  rh2017-06-14t04.flac
+     4:21.467      75302444 B   cxx   --   ---xx   flac  0.7170  rh2017-06-14t05.flac
+     4:03.893      70241324 B   cxx   --   ---xx   flac  0.7318  rh2017-06-14t06.flac
+     4:38.147      80106284 B   cxx   --   ---xx   flac  0.6989  rh2017-06-14t07.flac
+     5:43.080      98807084 B   cxx   --   ---xx   flac  0.6576  rh2017-06-14t08.flac
+     5:22.133      92774444 B   cxx   --   ---xx   flac  0.6867  rh2017-06-14t09.flac
+     5:11.880      89821484 B   cxx   --   ---xx   flac  0.6841  rh2017-06-14t10.flac
+     6:25.093     110906924 B   cxx   --   ---xx   flac  0.7006  rh2017-06-14t11.flac
+     5:12.360      89959724 B   cxx   --   ---xx   flac  0.7067  rh2017-06-14t12.flac
+     5:39.693      97831724 B   cxx   --   ---xx   flac  0.7009  rh2017-06-14t13.flac
+     4:25.667      76512044 B   cxx   --   ---xx   flac  0.7116  rh2017-06-14t14.flac
+     6:08.107     106014764 B   cxx   --   ---xx   flac  0.6825  rh2017-06-14t15.flac
+     4:34.560      79073324 B   cxx   --   ---xx   flac  0.6411  rh2017-06-14t16.flac
+     4:44.053      81807404 B   cxx   --   ---xx   flac  0.7117  rh2017-06-14t17.flac
+     2:29.440      43038764 B   cxx   --   ---xx   flac  0.6498  rh2017-06-14t18.flac
+     3:23.600      58636844 B   cxx   --   ---xx   flac  0.6486  rh2017-06-14t19.flac
+     3:20.507      57745964 B   cxx   --   ---xx   flac  0.6976  rh2017-06-14t20.flac
+     5:54.053     101967404 B   cxx   --   ---xx   flac  0.6883  rh2017-06-14t21.flac
+     6:40.680     115395884 B   cxx   --   ---xx   flac  0.6940  rh2017-06-14t22.flac
+     4:46.200      82425644 B   cxx   --   ---xx   flac  0.6865  rh2017-06-14t23.flac
+     1:58.027      33991724 B   cxx   --   ---xx   flac  0.6693  rh2017-06-14t24.flac
+     5:01.573      86853164 B   cxx   --   ---xx   flac  0.7020  rh2017-06-14t25.flac
+     5:22.187      92789804 B   cxx   --   ---xx   flac  0.6667  rh2017-06-14t26.flac
+     6:03.510     104691056 B   cxx   --   ---xx   flac  0.6868  rh2017-06-14t27.flac
+   132:30.817    2289836520 B                            0.6878  (27 files)

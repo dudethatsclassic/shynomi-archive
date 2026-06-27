@@ -1,0 +1,60 @@
+﻿NIRVANA
+December 7, 1991
+Salle Omnisports (Trans Musicales)
+Rennes, France
+
+SOURCE (AUD #6):
+AIWA > AIWA
+
+TRANSFER:
+Teac W790R > sony pcm d100 > WAV [44.1kHz] > SoundForge Pro 10 > Logic Pro X > Adobe Audition CC 2017 > SoundForge 12.1 > Trader's Little Helper 2.8.4 > FLAC [Level 8]
+
+GENERATION:
+ANA(M) > WAV > FLAC [Level 8]
+
+DURATION:
+49:00
+
+SETLIST:
+01. Baba O'Riley
+02. Jesus Wants Me For A Sunbeam
+03. Drain You
+04. Aneurysm
+05. School
+06. Smells Like Teen Spirit
+07. About A Girl
+08. Polly
+09. Sliver
+10. Breed
+11. Been A Son
+12. Negative Creep
+13. On A Plain
+14. Blew
+
+MD5 FINGERPRINTS:
+3c8a88e772e6c366e2d859a4e888a362 *NIRVANA 1991-12-07 AUD#6 ANA(M) 01 Baba O'Riley.flac
+62e588d9c5a3ed949f78d48062c6dac9 *NIRVANA 1991-12-07 AUD#6 ANA(M) 02 Jesus Wants Me For A Sunbeam.flac
+8c39ae393902ec2e37bc070fb0cf9224 *NIRVANA 1991-12-07 AUD#6 ANA(M) 03 Drain You.flac
+aace0f53a32f303b89248d6e2f8ccb63 *NIRVANA 1991-12-07 AUD#6 ANA(M) 04 Aneurysm.flac
+690722cbc974f5a3619d072b466fdbdb *NIRVANA 1991-12-07 AUD#6 ANA(M) 05 School.flac
+1d621fb6c8492701beb8dbc7f9fe6456 *NIRVANA 1991-12-07 AUD#6 ANA(M) 06 Smells Like Teen Spirit.flac
+6f4263a3b57e2a58a15439a342314626 *NIRVANA 1991-12-07 AUD#6 ANA(M) 07 About A Girl.flac
+4b32837ab6f7afd1f545ee94585868ef *NIRVANA 1991-12-07 AUD#6 ANA(M) 08 Polly.flac
+7688ecb4fbb150e66f2933486169bb28 *NIRVANA 1991-12-07 AUD#6 ANA(M) 09 Sliver.flac
+1186097db16d659ee9f0b368d1ac1ad3 *NIRVANA 1991-12-07 AUD#6 ANA(M) 10 Breed.flac
+1688e835d4bf8a6fdc9f6141f2536631 *NIRVANA 1991-12-07 AUD#6 ANA(M) 11 Been A Son.flac
+544a01363bc09d4c926c2c43076b9fc3 *NIRVANA 1991-12-07 AUD#6 ANA(M) 12 Negative Creep.flac
+ccc2c90e927de98ba4f162b2f921015a *NIRVANA 1991-12-07 AUD#6 ANA(M) 13 On A Plain.flac
+e9f5dc57399386ab847b6d56e261abcf *NIRVANA 1991-12-07 AUD#6 ANA(M) 14 Blew.flac
+
+TRANSFER:
+Marc Pautrel
+
+SPEED CORRECTION:
+Joshua MacKenzie
+
+DISTRIBUTION:
+Mike Wilkinson and members of LiveNIRVANA.com
+2020-12-07
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

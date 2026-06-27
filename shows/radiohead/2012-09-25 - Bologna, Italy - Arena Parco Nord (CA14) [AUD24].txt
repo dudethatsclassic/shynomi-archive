@@ -1,0 +1,138 @@
+Radiohead
+Arena Parco Nord
+Bologna, Italy
+2012-09-25
+
+[GP032dm]
+
+--- 24-bit version ---
+
+source: 	AUD (see location below) > Church Audio CA-14 Cardioids > Church Audio battery box >
+		> Edirol R-09 (24-bit/48.0 kHz, LINE-IN, rec. level 25/30) > SDHC Panasonic RP-SDM04G 
+location: 	25 m from stage center, 20 m in front of left speaker, hat-mounted mic
+transfer: 	SDHC Panasonic RP-SDM04G > HD > Audacity 2.1.2 (editing, see below) > 
+		> CD Wave 1.98 (track splitting) > TLH 2.7.0.172 (level 8 compression) > FLAC 
+generation: 	master (no optical media extraction) 
+taper: 		Giuseppe Pastorelli [G.P.] (doublec) 
+
+Mainset:
+
+01 [1:21] *** intro ***
+02 [5:11] Lotus Flower
+03 [6:28] Bloom
+04 [4:18] 15 Step
+05 [4:58] Lucky
+06 [4:35] Kid A
+07 [4:54] Morning Mr. Magpie
+08 [5:59] There There
+09 [3:58] The Gloaming
+10 [5:53] Separator
+11 [5:33] Pyramid Song
+12 [3:34] You And Whose Army?
+13 [5:22] I Might Be Wrong
+14 [5:12] Planet Telex
+15 [3:29] Feral
+16 [4:04] Little By Little
+17 [4:46] Idioteque
+18 [4:51] *** encore break 1 ***
+ 
+Encore 1 (E1):
+
+19 [5:26] Give Up The Ghost
+20 [5:29] Exit Music (For A Film)
+21 [3:40] The Daily Mail
+22 [4:04] Myxomatosis
+23 [6:47] Paranoid Android
+24 [2:36] *** encore break 2 ***
+
+Encore 2 (E2):
+
+25 [5:56] House Of Cards
+26 [5:46] Reckoner
+27 [9:44] True Love Waits + Everything In Its Right Place
+ 
+Total running time 	[2:14:06] 
+WAV 24-bit 		2.15 GB
+FLAC 24-bit		1.44 GB 
+
+Tape story:
+The venue is an open-air concert area in Parco Nord (a park in Bologna suburbs where also the Estragon, an indoor concert venue, is located) 
+I put myself 20 m in front of the left speaker and 25 m from the stage center
+The capture of the sound is very good but the recording is affected by diffuse singing, screaming, clapping and chatting (luckily not all tracks)
+Light wind during There There @ 0:11-0:13 and heavy bass saturation during Feral @ 2:37-2:46
+
+What about the show? 
+It was my second Radiohead show (the other was in Milan 2008, also taped)
+Extremely good show with a setlist mainly based on The King Of Limbs (7 tracks + The Daily Mail) plus 3 tracks off any other album (except 1 track from The Bends and no one from Pablo Honey) and True Love Waits as EIIRP intro
+Enjoyable break in the middle of Exit Music (For A Film)
+
+Technical notes:
+- The total running time of the recording was 2:15:28; I have cut the first 27 secs of PA warm-up music and last useless 55 secs reducing the master to 2:14:06
+- I have amplified (+7.5 dB on the left channel, +5.0 dB on the right channel) and slightly compressed (-12 dB/1.5:1) the whole recording and faded-out the last 10 secs
+
+Please do not sell nor convert to mp3 for distribution (mp3 only for personal use!) 
+Feel free to share in the way you prefer, but please share this fileset as originally torrented (so preserve file integrity!) 
+
+First seeded by doublec @ DIME on 2017-08-04 
+
+Fingerprints: 
+
+rh2012-09-25t01.flac:946c369287740a6abf0b865feff9a1ec
+rh2012-09-25t02.flac:2b882811b69d914bf578f7e1a6eb3243
+rh2012-09-25t03.flac:f8fa7588651e7cbe9c71a318922b3820
+rh2012-09-25t04.flac:3113fce8353c0fb6ec7fe15966b8aeeb
+rh2012-09-25t05.flac:22ff78d01c68867e628943b9120b32f1
+rh2012-09-25t06.flac:ba46f67401578766354a03e3578211f0
+rh2012-09-25t07.flac:7b04cad6c16a32735f9a16b48d4ca8f5
+rh2012-09-25t08.flac:385428517f270b04446dea66cc3b503e
+rh2012-09-25t09.flac:1740dea296d4504d79a792d2201bfc05
+rh2012-09-25t10.flac:54ded9d3527fe34ce402401158430f1b
+rh2012-09-25t11.flac:2c2535f3b81208d59f17e9ce62dcdd52
+rh2012-09-25t12.flac:37756884997ae7482308cd01e0c4d219
+rh2012-09-25t13.flac:7ea37302ec5689a3051d673fa16691da
+rh2012-09-25t14.flac:8f475a598bac343e090350c49d8ba7c3
+rh2012-09-25t15.flac:0875132b06c731f1ca11ba74fc95bcb3
+rh2012-09-25t16.flac:3c58d5c881e25b3a0fe9566b21985634
+rh2012-09-25t17.flac:f6c3d4a1e6706720fedf73a5853ef639
+rh2012-09-25t18.flac:d3625558356bd0ef3a632d0f30ccda38
+rh2012-09-25t19.flac:f5a0173222d1b7fd377cc6de2e2cd8f0
+rh2012-09-25t20.flac:f5e2d84865a2200e69969b9019651ee6
+rh2012-09-25t21.flac:93e10710227160bdefc50f2898de6028
+rh2012-09-25t22.flac:5c60deca70ff2c289443745be9c24803
+rh2012-09-25t23.flac:686bd0f69ecd8210a8e2ade8784194da
+rh2012-09-25t24.flac:933a589ab9cc83625d46d400d8dbc118
+rh2012-09-25t25.flac:4ce203696e0ca26f7cb148d2972489cf
+rh2012-09-25t26.flac:d3546dce837af1a24a6d7baf2e1e05b0
+rh2012-09-25t27.flac:994abd7d91ef68e07b053d09fda1fe76 
+
+Track lengths: 
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:21.253      23401004 B   cxx   --   ---xx   flac  0.6436  rh2012-09-25t01.flac
+     5:11.133      89606444 B   cxx   --   ---xx   flac  0.7020  rh2012-09-25t02.flac
+     6:28.427     111866924 B   cxx   --   ---xx   flac  0.7104  rh2012-09-25t03.flac
+     4:18.627      74484524 B   cxx   --   ---xx   flac  0.6999  rh2012-09-25t04.flac
+     4:58.653      86012204 B   cxx   --   ---xx   flac  0.6760  rh2012-09-25t05.flac
+     4:35.253      79273004 B   cxx   --   ---xx   flac  0.6516  rh2012-09-25t06.flac
+     4:54.960      84948524 B   cxx   --   ---xx   flac  0.7150  rh2012-09-25t07.flac
+     5:59.893     103649324 B   cxx   --   ---xx   flac  0.6747  rh2012-09-25t08.flac
+     3:58.307      68632364 B   cxx   --   ---xx   flac  0.6882  rh2012-09-25t09.flac
+     5:53.613     101840684 B   cxx   --   ---xx   flac  0.6878  rh2012-09-25t10.flac
+     5:33.547      96061484 B   cxx   --   ---xx   flac  0.6243  rh2012-09-25t11.flac
+     3:34.040      61643564 B   cxx   --   ---xx   flac  0.6274  rh2012-09-25t12.flac
+     5:22.453      92866604 B   cxx   --   ---xx   flac  0.6889  rh2012-09-25t13.flac
+     5:12.853      90101804 B   cxx   --   ---xx   flac  0.6984  rh2012-09-25t14.flac
+     3:29.467      60326444 B   cxx   --   ---xx   flac  0.7047  rh2012-09-25t15.flac
+     4:04.720      70479404 B   cxx   --   ---xx   flac  0.7249  rh2012-09-25t16.flac
+     4:46.787      82594604 B   cxx   --   ---xx   flac  0.7315  rh2012-09-25t17.flac
+     4:51.053      83823404 B   cxx   --   ---xx   flac  0.6137  rh2012-09-25t18.flac
+     5:26.307      93976364 B   cxx   --   ---xx   flac  0.6067  rh2012-09-25t19.flac
+     5:29.267      94828844 B   cxx   --   ---xx   flac  0.6081  rh2012-09-25t20.flac
+     3:40.507      63505964 B   cxx   --   ---xx   flac  0.6320  rh2012-09-25t21.flac
+     4:04.413      70391084 B   cxx   --   ---xx   flac  0.7257  rh2012-09-25t22.flac
+     6:47.400     117331244 B   cxx   --   ---xx   flac  0.6928  rh2012-09-25t23.flac
+     2:36.027      44935724 B   cxx   --   ---xx   flac  0.6283  rh2012-09-25t24.flac
+     5:56.347     102627884 B   cxx   --   ---xx   flac  0.6575  rh2012-09-25t25.flac
+     5:46.013      99651884 B   cxx   --   ---xx   flac  0.6816  rh2012-09-25t26.flac
+     9:44.503     168336968 B   cxx   --   ---xx   flac  0.6382  rh2012-09-25t27.flac
+   134:05.823    2317198272 B                            0.6717  (27 files)

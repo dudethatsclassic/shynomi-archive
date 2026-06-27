@@ -1,0 +1,63 @@
+NIRVANA
+April 17, 1990 
+Foufounes Électriques
+Montréal, QC, CANADA
+
+SOURCE (AUD#1):
+Unknown > WMD6
+
+TRANSFER:
+Nakamichi DR-1 > Canare cable > Focusrite Clarett 2Pre USB > Adobe Audition CC > SoundForge 12.1 > Trader's Little Helper 2.8.4
+
+GENERATION:
+ANA(1)> WAV [24 bit/48kHz] > WAV [16 bit/44.1kHz] > FLAC [Level 8]
+
+DURATION:
+57:09
+
+SETLIST:
+00. Intro
+01. School
+02. Floyd The Barber
+03. Love Buzz
+04. Dive
+05. Scoff
+06. About A Girl
+07. Breed
+08. Spank Thru
+09. In Bloom
+10. Big Cheese
+11. Molly's Lips
+12. Been A Son
+13. Stain
+14. Negative Creep
+15. Blew
+
+MD5 FINGERPRINTS:
+e125c1c5c107ad9dd2476f3d0fcb2bd5 *NIRVANA 1990-04-17 AUD#1 ANA(1)_00 Intro.flac
+588bbaf36cb0806dbd5073be024b1fff *NIRVANA 1990-04-17 AUD#1 ANA(1)_01 School.flac
+fd0e66aa03ce935e0dd7cfe142b687c6 *NIRVANA 1990-04-17 AUD#1 ANA(1)_02 Floyd The Barber.flac
+b523167fd8f02be9c0a7a37f1d9f392f *NIRVANA 1990-04-17 AUD#1 ANA(1)_03 Love Buzz.flac
+d4b4d7766fe9917f2132b272b345c910 *NIRVANA 1990-04-17 AUD#1 ANA(1)_04 Dive.flac
+768fb4d1106dc2259d8e59263ea0c8f4 *NIRVANA 1990-04-17 AUD#1 ANA(1)_05 Scoff.flac
+2621d7dbb07488e95c738c78cfc969c6 *NIRVANA 1990-04-17 AUD#1 ANA(1)_06 About A Girl.flac
+b39124b8ec464a1d01928d577188cc26 *NIRVANA 1990-04-17 AUD#1 ANA(1)_07 Breed.flac
+d095eef229e72bfb5c0a61c6f97b530f *NIRVANA 1990-04-17 AUD#1 ANA(1)_08 Spank Thru.flac
+07c3103dfb7bbd0b44c601fc95fccd85 *NIRVANA 1990-04-17 AUD#1 ANA(1)_09 In Bloom.flac
+d18320fd66323947fe68f84947405510 *NIRVANA 1990-04-17 AUD#1 ANA(1)_10 Big Cheese.flac
+5397279a33ca3a6d50348f45ff5258b6 *NIRVANA 1990-04-17 AUD#1 ANA(1)_11 Molly's Lips.flac
+1669b85b2ad1702d02c402292d884ad4 *NIRVANA 1990-04-17 AUD#1 ANA(1)_12 Been A Son.flac
+7fffe43d9880639b778f28eccc0bdc8f *NIRVANA 1990-04-17 AUD#1 ANA(1)_13 Stain.flac
+ac454084ef005f6be89e0c41954a6d15 *NIRVANA 1990-04-17 AUD#1 ANA(1)_14 Negative Creep.flac
+12582cda3565073434717d08bdf76697 *NIRVANA 1990-04-17 AUD#1 ANA(1)_15 Blew.flac
+
+TRANSFER:
+Members of LiveNIRVANA.com
+
+DISTRIBUTION:
+Members of LiveNIRVANA.com
+
+TECHNICAL NOTES:
+Speed corrected in blocks referencing PRO#1, and subsequent segments using strobe tuner and guide tone reference methods.
+
+2022-02-10

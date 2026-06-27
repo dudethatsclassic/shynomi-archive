@@ -1,0 +1,63 @@
+NIRVANA
+October 24, 1990
+Astoria Theatre
+London, United Kingdom
+
+SOURCE (AUD #2):
+unknown > unknown
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+66:56
+
+TRACKS:
+01. Blew (cut)
+02. Been A Son
+03. Negative Creep (cut)
+04. Stain
+05. Lithium
+06. Spank Thru
+07. Breed
+08. Floyd The Barber
+09. Big Cheese
+10. About A Girl (cut)
+11. In Bloom
+12. Scoff
+13. Molly's Lips
+14. D-7
+15. Love Buzz
+16. Sliver
+17. Dive
+18. Paper Cuts
+19. School
+
+MD5 FINGERPRINTS:
+b1c1bb6c5b2b46e3a5e31bd3ba714dcf *Nirvana_1990-10-24_AUD2_t01.flac
+cba5ab8ea96ea8a8b5487a2969d3c298 *Nirvana_1990-10-24_AUD2_t02.flac
+c6ceb28aa832343ab41143f4e544317c *Nirvana_1990-10-24_AUD2_t03.flac
+e896cfc0dbddd0ed6c004f37c8bb79b7 *Nirvana_1990-10-24_AUD2_t04.flac
+527cd59344e9b7c4143fe4c5e01abbe3 *Nirvana_1990-10-24_AUD2_t05.flac
+1011f381495dd0fc6aa75bc893d11b60 *Nirvana_1990-10-24_AUD2_t06.flac
+65e1bba269dc60cbba6e88400b948269 *Nirvana_1990-10-24_AUD2_t07.flac
+152c64015045ba6e5cc35110b13fe7ef *Nirvana_1990-10-24_AUD2_t08.flac
+aa716439f056ee43ff8abdc4c4c4956e *Nirvana_1990-10-24_AUD2_t09.flac
+9042ee70efa18f0c9bd05160d89187ec *Nirvana_1990-10-24_AUD2_t10.flac
+a51612bc4c89d11a1cf875489d5f71ad *Nirvana_1990-10-24_AUD2_t11.flac
+80fcd47c554eb8efee2a5950441e611f *Nirvana_1990-10-24_AUD2_t12.flac
+7d4d10fbfeab73fd2f80b7372f5d1f7a *Nirvana_1990-10-24_AUD2_t13.flac
+a368658b5a10d27b00232eefed818c8d *Nirvana_1990-10-24_AUD2_t14.flac
+70d6be10d0ff1ace2e77640e77f3b238 *Nirvana_1990-10-24_AUD2_t15.flac
+1b16bd3b73053db444a574f25e1dbb1a *Nirvana_1990-10-24_AUD2_t16.flac
+873574a89369eb056c712f4bc2522352 *Nirvana_1990-10-24_AUD2_t17.flac
+eca582850dcb5b97dd4529a582b96173 *Nirvana_1990-10-24_AUD2_t18.flac
+73487ff9d17a6b036c32c89922826cf3 *Nirvana_1990-10-24_AUD2_t19.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

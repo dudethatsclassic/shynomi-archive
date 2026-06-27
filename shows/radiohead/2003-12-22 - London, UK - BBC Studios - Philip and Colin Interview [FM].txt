@@ -1,0 +1,28 @@
+Radiohead
+22nd December 2003
+BBC Studios London
+
+BBC Digi-cast>Pace Digibox>Pioneer VCR>Pioneer PDR609
+
+captured by tusken (in the UK)
+sent across the pond to fixmeup
+same disc to formengr (sent back to fixmeup)
+Recordnow Max (extract to wav)
+CD Wave to trim
+FLAC level 5
+  
+01. Colin & Phil interview with Gideon Coe (part 1)
+02. Karma Police (Thom & Jonny)
+03. Colin & Phil interview with Gideon Coe (part 2)
+04. On The Beach (Neil Young Cover- Thom & Jonny)
+
+Seeded to the radiohub on 2004-08-04 
+www.radiohub.org
+
+
+FLAC FINGERPRINTS:
+
+rh2003-12-22t01.flac:381eb98946ee0210f1259d70ce7739fa
+rh2003-12-22t02.flac:5823182074a8326e80a3022439e2f814
+rh2003-12-22t03.flac:f7efe4dfb157f8c83c2f75966d1543a4
+rh2003-12-22t04.flac:42cc5d5125a0cbd810b0d85eb3af3294

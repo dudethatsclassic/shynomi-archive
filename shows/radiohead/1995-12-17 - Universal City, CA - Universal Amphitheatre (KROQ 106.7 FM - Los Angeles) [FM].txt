@@ -1,0 +1,72 @@
+
+Radiohead
+December 17 & 18, 1995
+"6th Annual Almost Acoustic Christmas"
+[KROQ 106.7 FM - Los Angeles]
+Universal Ampitheatre
+Universal City, California
+
+Edit: AdamRadiohead2X [albundy@sbcglobal.net]
+Source: FM Broadcast > Maxell XLII S 90
+Transfer: FM > Maxell XLII S 90 > Sony TC-WR661* > Adobe Audition >
+          WAV > SHNtool > Flac frontend (level 8)
+
+* - Cassette Deck (Used a "RCA-to-Headphone Cable" to "Line In" of Creative Audigy Card)
+
+*********************************
+*** DO NOT CONVERT TO MP3 *******
+*** OR OTHER LOSSY FORMATS ******
+*** SHARE IT! DO NOT SELL! ******
+*********************************
+
+Night #1 (December 17, 1995)
+
+1. The Bends
+2. My Iron Lung
+3. High & Dry ["hiccup" between 0:52-0:53]
+4. Just
+5. Fake Plastic Trees ^ ~ [fade out as DJ talks]
+
+Night #2 (December 18, 1995)
+
+1. Bones
+2. Just
+3. Fake Plastic Trees #
+4. Nobody Does It Better @ ~ [fade out]
+5. Creep % ! ~ [fade in]
+
+^ - (Dedication by Thom, "People With Breast Implants")
+# - (Dedication by Thom, "People who wear CK1....it smells like toilet cleaner!")
+@ - (Thom, "This is the sexiest song that was ever written")
+% - (Thom, "This is the 2nd sexiest song ever written")
+
+~ = On original recording days (yes, back then), I was checking the tape to see the
+    minutes left on the tape, applied fade in/out for those stops in the recording
+! = KROQ blatantly tape delayed this song (yes they did) because Thom says the "F"
+    word throughout the song, and they cut it everytime
+
+Note: In Adobe Audition a -3db normalization (amplitude) value was applied to all songs.
+The dedications (on Night #2) were actually at the end of the previous songs, but refer
+to the songs noted above. I assure you all, that the "Creep" delay was from the original
+FM broadcast, I don't believe the delay is in the [WW1 "In The Zone" #96-51] Promo CD-R.
+The big difference being, this is the complete 2nd Night, (compared to) the Promo CD-R
+ONLY having the last 3 songs of Night #2.
+
+The WW1 Promo is listed at Etree's website:
+[  http://db.etree.org/lookup_show.php?shows_key=158634&show_users=true  ]
+
+
+% shntool len *.flac
+length     expanded size   cdr  WAVE problems filename
+ 4:00.00       42336044    ---   --   ---xx   radiohead1995-12-17tr01.flac
+ 5:06.00       53978444    ---   --   ---xx   radiohead1995-12-17tr02.flac
+ 4:16.08       45177260    ---   --   ---xx   radiohead1995-12-17tr03.flac
+ 3:51.03       40755500    ---   --   ---xx   radiohead1995-12-17tr04.flac
+ 4:56.40       52308524    ---   --   ---xx   radiohead1995-12-17tr05.flac
+ 3:36.30       38173004    ---   --   ---xx   radiohead1995-12-18tr01.flac
+ 4:02.15       42724124    ---   --   ---xx   radiohead1995-12-18tr02.flac
+ 4:59.15       52778924    ---   --   ---xx   radiohead1995-12-18tr03.flac
+ 3:03.21       32330636    ---   --   ---xx   radiohead1995-12-18tr04.flac
+ 4:47.27       50690348    ---   --   ---xx   radiohead1995-12-18tr05.flac
+42:38.09         430.35 MB                    (totals for 10 files, 0.6855 overall compression ratio)
+%

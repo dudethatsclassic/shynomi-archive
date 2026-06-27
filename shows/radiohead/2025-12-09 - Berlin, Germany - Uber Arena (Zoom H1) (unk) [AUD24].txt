@@ -1,0 +1,61 @@
+RADIOHEAD
+Berlin, Uber-Arena, 2025-12-09
+
+Lineage: Zoom H1 Recorder + Sony ECM 717 Mic
+
+01- Atmos/ Intro
+02- 2+2=5
+03- Airbag
+04- Jigsaw falling into place
+05- All I need
+06- Ful stop
+07- Nude
+08- Reckoner
+09- The bends
+10- Separator
+11- Pyramid song
+12- You and whose army?
+13- Sit down. Stand up
+14- Myxomatosis
+15- No surprises
+16- Optimistic
+17- Bodysnatchers
+18- Exit music (for a film)
+19- Street spirit (fade out)
+encores:
+20- Let down
+21- Weird fishes/ Arpeggi
+22- Idioteque
+23- Present tense
+24- How to disappear completely
+25- Paranoid android
+26- There there
+
+ffp included
+
+1de64d58ae890fe6783e4c33398ef915 *01- Atmos - Intro.flac
+e686dbb92a2a9c2fde2cc7388b7fb4fd *02- 2+2=5.flac
+32c061a13e6050fb1f7ba32238f8824f *03- Airbag.flac
+ab4d908a0be1f67852c24f78e5264015 *04- Jigsaw falling into place.flac
+fa6458b9874facae238733fdef99530e *05- All I need.flac
+9ae63e51ab983d60d60854761f5354ae *06- Ful stop.flac
+c9a926f8c8e2947a9f135e6348f52db5 *07- Nude.flac
+310188e332dab49aff25e91a149ec7c0 *08- Reckoner.flac
+c0788beaad7821b2015ccdf983564cfc *09- The bends.flac
+c44cef8e4e009a41b1986ab973c69904 *10- Separator.flac
+e1d8a980e23d5e2ed786a3ef4540d33b *11- Pyramid song.flac
+28b8a30b5cb3e5fc3d8e47c6783b6d75 *12- You and whose army.flac
+3b1d2098913a3a63cf02fe12f4320bae *13- Sit down Stand up.flac
+863a67a11b20a2b13f2783f88470e5d0 *14- Myxomatosis.flac
+8bb25bb831ec1ecd881d57e15da9e2f0 *15- No surprises.flac
+bf4fd2fa6f4d6e420fa1f91cebfe93f8 *16- Optimistic.flac
+cc73a320b8fba1e3c6015912c33dd9c5 *17- bodysnatchers.flac
+2013a731835f99e1fd272f9606f027d0 *18- Exit music (for a film).flac
+dbf259a7e6fe384fe4e73ab629dfb9bd *19- Street spirit (fade out).flac
+a2d1724d53c32ce95b4efb41816946f1 *20- Let down.flac
+bf12704bd46109f556ca0a376593baa5 *21- Weird fishes - Arpeggi.flac
+5cd6678a65a778c4f0355271d7a265f0 *22- Idioteque.flac
+34a1c1e949dc670cacc392d4d8b4875e *23- Present tense.flac
+24cdb48dbb9dc8040c30a780806de0a8 *24- How to disappear completely.flac
+dd7a8014a12ebd06a09b2036c22f97fb *25- Paranoid android.flac
+2d13b5dfb2570c539aae2a5b68540311 *26- There there.flac

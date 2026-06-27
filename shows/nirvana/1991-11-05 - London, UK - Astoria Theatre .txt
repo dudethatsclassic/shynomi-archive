@@ -1,0 +1,70 @@
+NIRVANA
+November 5, 1991
+Astoria Theatre	
+London, United Kingdom
+
+SOURCE (AMT #1):
+built-in > unknown
+
+TRANSFER:
+Sony EV-S9000E > Datavideo TBC-3000 > Blackmagic Intensity Pro > VirtualDub > Adobe Audition CS6 > Avidemux 2.6.6 > Adobe Audition CS3 > CD Wave 1.98
+
+GENERATION:
+VID8(M) [PAL] > AVI [16bit/48kHz PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+72:48
+
+TRACKS:
+01. intro
+02. Jesus Wants Me For A Sunbeam
+03. Aneurysm
+04. Drain You
+05. School
+06. Floyd The Barber
+07. Smells Like Teen Spirit
+08. About A Girl
+09. Polly
+10. Breed
+11. Sliver
+12. Lithium
+13. Love Buzz
+14. Come As You Are
+15. Been A Son
+16. Negative Creep
+17. On A Plain
+18. Blew
+19. Dumb
+20. Pennyroyal Tea
+21. Endless, Nameless
+
+MD5 FINGERPRINTS:
+fc7afc35ff4baedf3af676ed8453b456 *Nirvana_1991-11-05_AMT1_t01.flac
+ecab524cf3d487f3ba360886d9b90f62 *Nirvana_1991-11-05_AMT1_t02.flac
+c0701158d1e668b30ab92d6d3125c190 *Nirvana_1991-11-05_AMT1_t03.flac
+decaa03a2e4d84562d2451d76e7888a6 *Nirvana_1991-11-05_AMT1_t04.flac
+8de731396b3ec99546d11243a35950f5 *Nirvana_1991-11-05_AMT1_t05.flac
+e41707e355d862bab4ab596d58beca2d *Nirvana_1991-11-05_AMT1_t06.flac
+dda387c73084603bceda4b6c9ad28171 *Nirvana_1991-11-05_AMT1_t07.flac
+aa2138f59e087c288b76ec9752714b0e *Nirvana_1991-11-05_AMT1_t08.flac
+2755c20d6f541d1ce6f80d04a107a410 *Nirvana_1991-11-05_AMT1_t09.flac
+a55ac06fa5fc5c823da4cbe4ffcd1ba8 *Nirvana_1991-11-05_AMT1_t10.flac
+942e3c79bbea3c1570ea646d8eee6423 *Nirvana_1991-11-05_AMT1_t11.flac
+e953684b78be668ccc13ec2ed7b2658c *Nirvana_1991-11-05_AMT1_t12.flac
+b737d8d4d82e6ded253ee1c0fc2f3659 *Nirvana_1991-11-05_AMT1_t13.flac
+023711a6921158d64506331ffb40fb36 *Nirvana_1991-11-05_AMT1_t14.flac
+43803489792d92b360abf3ca3e72693e *Nirvana_1991-11-05_AMT1_t15.flac
+cc88d44ecd8126b09f8a94f160e2c4f3 *Nirvana_1991-11-05_AMT1_t16.flac
+70822317e0ef03d3e27c7782efd85f0b *Nirvana_1991-11-05_AMT1_t17.flac
+4e26c6e3bee9bb07f60d278477b8ff82 *Nirvana_1991-11-05_AMT1_t18.flac
+07632052facfe3fcafe87ca197149571 *Nirvana_1991-11-05_AMT1_t19.flac
+ab11d6c1448985bca3de0ff1b8937b71 *Nirvana_1991-11-05_AMT1_t20.flac
+2ef56bb2603c7d94a7e423d45996ff79 *Nirvana_1991-11-05_AMT1_t21.flac
+
+TRANSFERRED BY:
+Robin W. (https://www.youtube.com/user/TravisBickle1963)
+
+EXTRACTED BY:
+Members of LiveNirvana.com
+
+PLEASE DO NOT SELL OR ENCODE TO ANY LOSSY FORMATS

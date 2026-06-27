@@ -1,0 +1,94 @@
+Lynyrd Skynyrd
+Concord Pavilion, Concord, CA
+September 23, 1987
+
+Source : Shure SM58 (mono) mic > Sony WM-D6 (Maxell MX90’s) Front of lawn. (Source 2)
+ 
+Transfer : Denon DN-790R > GraceV3 (24/96) > Edirol-R4 > dBpoweramp (16/44) > Wave > TLH Flac 8
+
+Edited & Pre-Mastered in ProTools 2021.3.1 (9/15/2021)
+Marcus Buick Recording, Transfer, Editing, & Pre-Mastering.
+
+Traders Den - Nov. 25, 2021
+
+posted by kingrue upload #3345
+==============================
+
+First show of the Tribute Tour.
+
+This is an upgraded, new Source 2, recently released from the taper.
+
+The tape change is at the beginning of Call Me The Breeze. (tiny piece missing)
+
+There are some photos included of the cassette master and ticket stub.
+
+It's not often we get recordings made in the field with a Shure SM58 microphone
+
+Shure SM58 are mono mics, that explains why the file size is smaller than expected.
+
+Thanks to Marcus Buick for taping and sharing !
+
+Check samples for quality.
+
+Band line up
+Johnny Van Zant - vocals
+Gary Rossington - guitar
+Randall Hall - guitar, vocals
+Artimus Pyle - drums
+Leon Wilkeson - bass, vocals (died July 27, 2001, aged 49)
+Billy Powell - keyboards (died January 28, 2009, aged 56)
+Ed King - guitar, keyboards (died August 22, 2018, aged 68)
+Dale Krantz Rossington - background vocals
+Carol Bristow - background vocals
+
+
+Total Time = 01:29:54
+
+Set list
+01. Bill Graham Introduction
+02. Workin’ For MCA
+03. I Ain’t The One
+04. Saturday Night Special
+05. The Needle & The Spoon
+06. That Smell
+07. I Know A Little
+08. Gimme Three Steps
+09. Call Me The Breeze -- (tape change @ 0:11)
+10. What’s Your Name?
+11. Gimme Back My Bullets
+12. You Got That Right
+13. Simple Man > Dixie
+14. Sweet Home Alabama
+-- tape flip --
+15. Freebird (Instrumental)
+
+
+===================================
+
+contrast clause
+(Source 1) 
+http://www.thetradersden.org/forums/showthread.php?t=156530
+
+==================================
+
+
+01. Bill Graham Introduction.flac:807bad55f5f5ceac32a67dd091338f9c
+02. Workin’ For MCA.flac:3815f11f4119486975b905cad6c3d078
+03. I Ain’t The One.flac:b3e43f9cf02050246d586469e6e3e233
+04. Saturday Night Special.flac:b452bc1262f1ed299430d03413f477a9
+05. The Needle & The Spoon.flac:8e086505b6d22d77b6edaadf96246963
+06. That Smell.flac:44c36ed32740def45c4747dd839461b9
+07. I Know A Little.flac:4316319c0f0fb7f245ab37fd2e808bb7
+08. Gimme Three Steps.flac:2f2f8d6e22dcd67692d1b3e6e82662c4
+09. Call Me The Breeze.flac:dc60803b3b92544c277713550af4fed8
+10. What’s Your Name.flac:066be932bb9aba911b377f238fcd5201
+11. Gimme Back My Bullets.flac:514fc3b4e182e43de11b5c7de8ebf766
+12. You Got That Right.flac:94464b73a6cae51257bc85a6fffd8ae4
+13. Simple Man-Dixie.flac:d143302e68a1769c8961b4d15874d2a1
+14. Sweet Home Alabama.flac:a54e6833a4ca5d5f46acd313f9a1737a
+15. Freebird (Instrumental).flac:9a4cc116d73a4f7590842d1d62fa82f8
+
+No errors occured.
+
+Create checksum file log saved to file.
+

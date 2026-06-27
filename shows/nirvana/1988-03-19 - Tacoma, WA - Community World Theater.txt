@@ -1,0 +1,73 @@
+NIRVANA
+March 19, 1988
+Community World Theater
+Tacoma, WA
+(JWB REMASTER)
+
+DISC #1/1 (58:27)
+-----------------
+SOUNDCHECK
+01) Floyd The Barber (cuts in at very end)
+02) Big Cheese
+
+SET
+03) Love Buzz (cuts in before vocals)
+04) Downer
+05) Floyd The Barber
+06) Spank Thru
+07) Paper Cuts
+08) Hairspray Queen
+09) If You Must
+10) Beeswax
+11) Aero Zeppelin
+12) Mexican Seafood
+13) Pen Cap Chew
+14) Big Cheese
+15) Blew (cuts out towards end)
+16) Raunchola / Moby Dick
+17) Bad Moon Rising
+
+GENERATION
+-----------------
+ANA(M) -> WAV [44.1kHz] -> FLAC [Level 8] -> REMASTERED WAV [44.1kHz] -> FLAC [Level 6]
+
+SOURCE (SBD#1)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1 -> CoolEdit Pro 2.0 (REMASTER) -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+REMASTERING
+-----------------
+Many channel dropouts repaired, Re-equalized, Compression/Limiting
+
+ABOUT THIS SHOW
+-----------------
+This is the first show the band played as "Nirvana". This is the only available show with Dave Foster on drums. This is the only available version of "Bad Moon Rising" and the earliest available versions of "Big Cheese" and "Blew". The raw master tape suffers from multiple defects that are often distracting. This remastered version has been repaired and enhanced for ultimate listening enjoyment. There is no hiss reduction of any kind.
+
+FLAC FINGERPTRINTS
+------------------
+01 - Floyd The Barber (soundcheck).flac:6be80549824665ee99993c1078a65197
+02 - Big Cheese (soundcheck).flac:64b3206de621fd5730b90bcdaa177d3d
+03 - Love Buzz.flac:0591739344e6b0b30b1ba9fd730e1937
+04 - Downer.flac:678f4981fe9538e9574feccf7267672c
+05 - Floyd The Barber.flac:a30400797c332bbe3c390b434e3ecb5a
+06 - Spank Thru.flac:fb35585c867bc40cad5f98904f9c5622
+07 - Paper Cuts.flac:88f398aa9e849e613071253259c81c90
+08 - Hairspray Queen.flac:6ef864402506c8589f1ef807c1bf4a48
+09 - If You Must.flac:df464c936c600f936aadc0e5783d2fb4
+10 - Beeswax.flac:183b2bdbdaf3fedef5e73275629243ab
+11 - Aero Zeppelin.flac:2b0fa30dbfdc22703116989e53161e24
+12 - Mexican Seafood.flac:3de7182fcbcc94a253a68b5e47044eff
+13 - Pen Cap Chew.flac:3b08470713007d4a6410db1414347018
+14 - Big Cheese.flac:6bd9839eb96b0b2005d86776c91e69c7
+15 - Blew.flac:9840a2845d065de500cb2358b8003e72
+16 - Raunchola.flac:0aebfcb72467c83045455443588fea49
+17 - Bad Moon Rising.flac:2493d266089016284f6cd8d0a3f172bf
+
+TRANSFER BY: MZ
+REMASTERED BY: JWB
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+

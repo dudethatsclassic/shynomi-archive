@@ -1,0 +1,47 @@
+NIRVANA
+February 25, 1989
+East Ballroom, Husky Union Building, University of Washington
+Seattle, WA
+
+SOURCE (AUD #1):
+Sony ECM-939LT > Sony WM-D6C
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+39:24
+
+TRACKS:
+01. intro
+02. School
+03. Love Buzz
+04. Floyd The Barber
+05. Mr. Moustache
+06. Paper Cuts
+07. Spank Thru
+08. Sifting
+09. Big Cheese
+10. Negative Creep
+11. Blew
+
+MD5 FINGERPRINTS:
+8340b7c209bbc54ab150070c42de3661 *Nirvana_1989-02-25_AUD1_t01.flac
+9a369f1f581098a81a78117b7c293f43 *Nirvana_1989-02-25_AUD1_t02.flac
+0328434b7b2fe147baf5395f2903edd2 *Nirvana_1989-02-25_AUD1_t03.flac
+d322540b25e13d74e62e9feabd06a1b2 *Nirvana_1989-02-25_AUD1_t04.flac
+eba40ff8bfe4c162e71e2ec2ebebc108 *Nirvana_1989-02-25_AUD1_t05.flac
+3ff97a46c261c5a0d3b35d0d721fca42 *Nirvana_1989-02-25_AUD1_t06.flac
+515bd37380a08fd83583d4b4eaedd44a *Nirvana_1989-02-25_AUD1_t07.flac
+21baec79f66a826208360c340d0ad3c9 *Nirvana_1989-02-25_AUD1_t08.flac
+f8f60fc10e3887d738de80436bdfc9eb *Nirvana_1989-02-25_AUD1_t09.flac
+45beffdef4a0c7d9b9554727cceea651 *Nirvana_1989-02-25_AUD1_t10.flac
+c9a16a69038e4b165206bbcee23276aa *Nirvana_1989-02-25_AUD1_t11.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

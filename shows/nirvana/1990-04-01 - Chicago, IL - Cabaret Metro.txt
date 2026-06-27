@@ -1,0 +1,53 @@
+NIRVANA
+April 1st, 1990
+Cabaret Metro
+Chicago, IL
+
+DISC #1/1 (49:57)
+-----------------
+01. Love Buzz
+02. Floyd the Barber
+03. Scoff
+04. Dive
+05. In Bloom	 
+06. School 
+07. Spank Thru
+08. Breed
+09. About A Girl
+10. Big Cheese
+11. Stain
+12. Been A Son 
+13. Negative Creep
+14. Blew
+
+GENERATION
+-----------------
+ANA(M) > WAV [44.1kHz] > FLAC [Level 8]
+
+SOURCE (AUD #1)
+-----------------
+Sony ECM-144 > Sony WM-D3
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> Kind Kables -> Sony SBM-1 (Oade mod) -> M-Audio Delta Audiophile 2496 -> Cool Edit Pro 2.0 -> CD Wave
+
+MD5 FINGERPRINTS
+-----------------
+nirvana_1990-04-01_aud1_anam_d1t01.flac:9fcd3dfdee3e25aead36b239c4b19675
+nirvana_1990-04-01_aud1_anam_d1t02.flac:dcb63616146348b5a7d9c982ddac4379
+nirvana_1990-04-01_aud1_anam_d1t03.flac:01547598d5f8c8ba2b464d15a0fa614b
+nirvana_1990-04-01_aud1_anam_d1t04.flac:0f548f94aec1592a2cfd82619c30c93d
+nirvana_1990-04-01_aud1_anam_d1t05.flac:bef64991a736f68ba6c6901e1bb9baa0
+nirvana_1990-04-01_aud1_anam_d1t06.flac:682becc2eb37613db08fb425ef17d3a8
+nirvana_1990-04-01_aud1_anam_d1t07.flac:389ab6796ff94532b836e72ca0606607
+nirvana_1990-04-01_aud1_anam_d1t08.flac:106f880329e9fdeae526602728dece7b
+nirvana_1990-04-01_aud1_anam_d1t09.flac:f5ee6564d4c61c57a07f4acba9729c3d
+nirvana_1990-04-01_aud1_anam_d1t10.flac:f79e5041901cc3886143c706cf264488
+nirvana_1990-04-01_aud1_anam_d1t11.flac:34527ba22099ea6aaa3dca6779766fc1
+nirvana_1990-04-01_aud1_anam_d1t12.flac:6c5761ad66d4cd5e32ad0de6efebfc99
+nirvana_1990-04-01_aud1_anam_d1t13.flac:69599c0ff5276c6bc45d6750b32efb49
+nirvana_1990-04-01_aud1_anam_d1t14.flac:656a21f0eb194f3fdaa70941a6c4a4f1
+
+Transferred by neutrino@ameritech.net (taper)
+DO NOT ENCODE TO MP3 OR SELL!

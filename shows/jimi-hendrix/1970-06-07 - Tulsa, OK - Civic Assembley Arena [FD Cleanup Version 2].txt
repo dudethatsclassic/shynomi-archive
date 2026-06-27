@@ -1,0 +1,52 @@
+Jimi Hendrix
+
+Tulsa [FD Clean-Up and 2 Source Merge Version 2]
+
+Civic Assembly Arena, Tulsa, OK 07.06.70
+
+Two Sources - EH Stream LEFT, CTT Torrent Right
+
+1st EH Source - Mp3 (128kps) Stream > FLAC > Adobe Audition 3 (NR, Filter and Volume) > FLAC
+2nd Source - CTT FLAC Torrent (Lineage - Trade CD > EAC > Adobe Audition 3 > TLH Level 6 
+(funky drummer) > Adobe Audition 3 (NR, Filter and Volume) > FLAC
+
+EH Stream speed corrected to CTT torrent speed.
+
+01. Intro
+02. Spanish Castle Magic
+03. Stone Free
+04. Hey Baby (New Rising Sun) [cut]
+05. Hey Joe [intro cut]
+06. Freedom
+07. I Don't Live Today
+08. Foxy Lady
+09. Red House [cut]
+10. Message to Love
+11. Room Full of Mirrors
+12. Flamenco Solo
+13. Star Spangled Banner
+14. Purple Haze
+15. Ezy Rider
+16. I Don't Live Today (1 Source Substitute)
+17. Ezy Ryder (1 Source Substitute)
+
+
+OK, this was one of the first tapes I tried, and listening back to it, my first attempt was somewhat cringeworthy. 
+This is totally redone from scratch with the two transfers in circulation.
+Straight off the bat - why the MP3 at all? Here's why, the EH transfer has a more prominent mid-range than the CTT torrent. 
+I never of course normally use MP3 but this is the only source of the EH transfer I know of. The tape itself is one of the poorer quality 1970 shows anyway, and 
+it is impossible to hear any loss of sound quality really, anyway...even at 128kbps...once downloaded you can listen between the two, and if you want it in Mono just choose a channel, as they are hard panned L/R. EH Left CTT Right
+After cleaning one and then the other, I thought, between them both is a better representation of the different frequencies, so I merged them. 
+Not too hard except that there were a lot of speed fluctuations between the two transfers, and in particular 
+07. I Don't Live Today
+15. Ezy Rider
+
+They were hard to get into a good sync, and can be a little distracting at times. I spent ages trying to keep the tapes in as perfect sync as possible. 
+If you don't care for the merged versions, you can do a direct substitute with 16 and 17 which are the EH Mp3 derived 1 source tapes. 
+
+In terms of cleaning, I realised my previous mistakes with the last go-round...EQing just didn't help the sound at all. 
+This time, I just used noise reduction, some filtering and a little volume boost. 
+
+For those who like to complain - listen to this versus the original source which is referred to http://www.earlyhendrix.com/6743/1970.htm as REASONABLE  - it is never going to be great, but I think it is pretty listenable...
+Tulsa is a great show, and perhaps underrated because tape is so hard to listen to - Jimi is in a great mood.
+

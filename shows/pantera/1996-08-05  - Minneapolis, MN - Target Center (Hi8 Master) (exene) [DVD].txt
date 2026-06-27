@@ -1,0 +1,60 @@
+Pantera
+August 5, 1996
+Target Center
+Minneapolis, MN
+
+**Video with upgraded audio**
+
+file format (container): .AVI
+video codec: MPEG
+resolution: 704x480
+scan (progressive or interlaced) ?
+frame rate: 29,970fps
+video bitrate: 6875kbits/sec
+display aspect ratio: pillarboxed
+audio codec: AC3
+number of channels: 2
+audio bitrate: 320kbps 48Hz
+duration: 1hr 20min 55sec
+
+Video lineage:
+lineage Hi8 Master -> Panasonic Stand Alone DVD Recorder -> DVD-> torrent > (.vob) -> Avidemux 2.6 (copy mode, no reencoding involved) > .avi
+
+Audio lineage:
+Source: Sonic Studios (DSM6P) > Sony TCD-D8
+Location: lower level left side, first section front of stage
+Taper: CP
+Lineage: DAT(M) > DAT(1) > CDR(1) > FLAC
+Transfer: Tascam DA-20mkII > Sony CDR-W33 > EAC
+Edits/EQ: none
+Notes: general admission seating! compiled June 2020 by CPS
+
+01 intro (Suicide Note part 1)
+02 Suicide Note part 2
+03 War Nerve
+04 New Level
+05 Walk
+06 Mouth For War
+07 Becoming
+08 Five Minutes Alone
+09 jams - Van Halen improvs
+10 Fucking Hostile
+11 This Love
+12 Primal Concrete Sledge
+13 Planet Caravan
+14 Cowboys From Hell
+
+upgrade notes:
+Audacity and Avidemux were used to replace the DVD audio with
+the Sonic Studio audio of this excellent show. The new audio
+starts at the transition between tracks 01 and 02.
+The video is a little dark but still very good. Upper balcony location
+made for boomy sound, now much better with the replaced audio.
+For my first ever video project, it came out ok.
+I'm sure someone with more video experience could do a better job,
+add proper menus, etc...
+
+Also on the bill: White Zombie, Deftones, Eyehategod
+
+enjoy!
+-exene/bluejane99

@@ -1,0 +1,29 @@
+Radiohead
+12 September 1995 
+Jefferson Civic Center, Birmingham, AL
+
+01 The Bends
+02 Bones
+03 (Nice Dream)
+04 High & Dry
+05 Lucky [Thom:"This is a brand new song - this is our favorite song"]
+06 Creep
+07 Just
+08 Fake Plastic Trees
+
+DAT[SP,48khz], Sonic Studios DSM6 > CASIO DAR-100
+
+Although this show was seeded as 9/20/95, the set list is inconsistent with that date's known set lists. It appears instead to be 12 September 1995, and is apparently missing "You", supposedly performed after "Creep". 
+
+Confirmed at: 
+
+http://www.nepasavaler.net/gigs/index.php
+http://www.btinternet.com/~r.j.arthur/rh/rhgigind.htm
+http://old.58hours.com/58_displayshow.php?showID=322
+http://www.greenplastic.com/gigography/showDetails.php?showID=377#setlist.
+
+However --if ALL these sites used a common source for THEIR set lists, I theorize someone mis-labeled "Just" as "You" [because of the chorus: "You do it to yourself, you do." etc.] and someone else added the correct title in at a later date! Careful listening appears to conclude that this is a complete show with no edits, so . . .
+
+I have renamed the FLAC files and edited the md5 checksum file to conform with the corrected file names.
+
+Edited notes 3 Oct 2004 by lovesick alien. 

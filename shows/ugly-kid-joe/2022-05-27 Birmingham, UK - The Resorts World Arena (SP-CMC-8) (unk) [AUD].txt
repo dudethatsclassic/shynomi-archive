@@ -1,0 +1,17 @@
+Ugly Kid Joe - 2022-05-27 Birmingham, UK (The Resorts World Arena)
+
+Source: SP-CMC-8 (AT943 Cards) > SP-SPSB-8 (69Hz Bass Roll Off) > Edirol R-09 (Line In)
+
+Transfer: R-09 > PC (via USB) > Sound Forge v.8 (Fades, track splits, normalisation & eq.)
+
+Located at the rear of venue, by the soundboard.
+
+01. Intro
+02. Neighbor
+03. Panhandlin' Prince
+04. No One Survives
+05. Devil's Paradise
+06. Cat's In The Cradle
+07. Milkman's Son
+08. Sweet Leaf/Funky Fresh Country Club
+09. Everything About You

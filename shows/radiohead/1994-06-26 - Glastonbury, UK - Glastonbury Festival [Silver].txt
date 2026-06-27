@@ -1,0 +1,66 @@
+Radiohead
+1994-06-26
+Glastonbury Festival,
+Glastonbury, England
+
+
+********************************
+* DO NOT ENCODE TO MP3!!!      *
+*   DO NOT SELL!!!!!!!         *
+********************************
+
+
+================================
+
+01.  You
+02.  Bones
+03.  Ripcord
+04.  Creep
+05.  My Iron Lung
+06.  Prove Yourself
+07.  The Bends
+08.  Pop Is Dead
+09.  Just
+10.  Stop Whispering
+11.  Maquiladora
+12.  Blow Out
+
+=================================
+
+BBC Transcription Services CD
+"In Concert---Show 601" TCD-0793 CD(M) > CDR > SHN
+
+TOTAL TIME 51:25
+
+=================================
+
+Edit by JellyBelly:
+
+Track 10 was originally two songs; Stop Whispering and Anyone Can Play Guitar. I converted all files to WAV and did split track 10 with Steinberg Wavelab 4.0. After this I renamed the files and converted them to flac.
+
+The tracklist is now as following:
+
+01.  You
+02.  Bones
+03.  Ripcord
+04.  Creep
+05.  My Iron Lung
+06.  Prove Yourself
+07.  The Bends
+08.  Pop Is Dead
+09.  Just
+10.  Stop Whispering
+11.  Anyone Can play Guitar
+12.  Maquiladora
+13.  Blow Out
+
+The lineage is now as following:
+
+=================================
+
+BBC Transcription Services CD
+"In Concert---Show 601" TCD-0793 CD(M) > CDR > SHN > WAV > FLAC
+
+TOTAL TIME 51:25
+
+=================================

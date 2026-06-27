@@ -1,0 +1,42 @@
+Radiohead 
+October 04, 2003
+Sound Advice Amphitheatre
+West Palm Beach, FL
+
+Taper: BLG
+Source: SP-CMC-8s -> bbox (rolloff @ 95hz) -> Sony PCM-M1
+Lineage: DAT-M 48khz -> edit -> FLAC
+Transfer: Tascam DA-20 -> Monster coax -> DiO 2496 -> CEP 2.1 -> CDWAVE -> FLAC
+
+
+Disc I
+01 2+2=5
+02 Sit Down. Stand Up.
+03 Where I End and You Begin
+04 Lucky
+05 Backdrifts
+06 Go To Sleep
+07 Just
+08 Talk Show Host
+09 Paranoid Android
+10 Sail to the Moon
+11 A Punchup at a Wedding
+12 Airbag
+13 Morning Bell
+14 You and Whose Army?
+
+Disc II
+01 The Gloaming
+02 Idioteque
+03 There There
+04 We Suck Young Blood
+05 National Anthem
+06 Wolf at the Door
+07 Street Spirit
+08 crowd/Thom speaking
+09 Karma Police
+10 EIIRP
+
+
+compiled on 02-29-04 by BLG
+

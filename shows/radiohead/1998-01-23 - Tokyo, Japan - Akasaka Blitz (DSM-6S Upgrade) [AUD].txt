@@ -1,0 +1,54 @@
+Radiohead
+01-23-98
+Akasaka Blitz
+Tokyo, Japan
+
+Source: Sonic Studios (DSM-6S) -> PA-6LC3 -> Sony TCD-D7
+Generation: DAT(M) -> DAT(2) 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> Dio 2496 -> Soundforge 6.0
+	(resample to 44.1) -> CDWave -> FLAC frontend -> FLAC
+
+
+**Do not encode to MP3 or sell on ebay.**
+
+
+Disc I
+01 Meeting in the Aisle
+02 Airbag
+03 Talk Show Host
+04 Exit Music
+05 Climbing Up the Walls
+06 Just
+07 Karma Police
+08 Fake Plastic Trees
+09 Pearly*
+10 Killer Cars (acoustic)
+11 Paranoid Android
+12 Lurgee
+13 Black Star $$
+14 No Surprises
+15 My Iron Lung
+16 Lucky
+
+
+Disc II
+01 Big Ideas (Thom solo acoustic) ##
+02 Subterranean Homesick Alien
+03 The Bends
+04 Street Spirit
+
+
+Notes: This should be considered an upgrade.  Previous versions have 
+	circulated as Sonic Studios > D100 and have a 32khz DAT somewhere
+	in the lineage.
+
+
+## = first time played live
+$$ = last time played live
+
+
+
+Thanks to Vikas for the DAT.
+
+Transfer by BLG
+Compiled on 12-19-04

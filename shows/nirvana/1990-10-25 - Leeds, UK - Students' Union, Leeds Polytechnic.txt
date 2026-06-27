@@ -1,0 +1,64 @@
+NIRVANA
+October 25, 1990
+Students' Union, Leeds Polytechnic
+Leeds, United Kingdom
+
+DISC #1/1 (61:30)
+-----------------
+01) intro
+02) Blew
+03) Been A Son
+04) Negative Creep
+05) Stain
+06) Lithium
+07) Spank Thru
+08) Breed
+09) Floyd The Barber
+10) Big Cheese
+11) About A Girl
+12) In Bloom
+13) Scoff
+14) Molly's Lips
+15) Love Buzz
+16) D-7
+17) Dive
+18) Sliver
+19) School
+
+GENERATION
+-----------------
+ANA(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+08ae8efced48966ed21661d6d33fa7b6 *nirvana1990-10-25t01.flac
+53e908983ef09949bc04adf9a3515e00 *nirvana1990-10-25t02.flac
+237e86cb69ee094c630665bc3df0d8dc *nirvana1990-10-25t03.flac
+ed8298fc68e1f93b9517bb85a2e2ce17 *nirvana1990-10-25t04.flac
+0de73641be8bc1271dd092b8f7cd2a2b *nirvana1990-10-25t05.flac
+29dffea22bacfa2619663a730e3cd29a *nirvana1990-10-25t06.flac
+42e348d4470321677237d875fab14f6e *nirvana1990-10-25t07.flac
+d03a6046a9fc9ada5255471d737191df *nirvana1990-10-25t08.flac
+c34f5aa687c1a1efd12f2555639e6d70 *nirvana1990-10-25t09.flac
+ce8c809020f42627a4e7c0f1ca5fdff7 *nirvana1990-10-25t10.flac
+bd93679137b3a7b74c559d9583c0416e *nirvana1990-10-25t11.flac
+694d7dd34ee3d5ff18ddf4564358d76e *nirvana1990-10-25t12.flac
+5a1dedb4ce1cc9aa60f50fec9f5fe165 *nirvana1990-10-25t13.flac
+60fbdb46a5c6f46476040da0bcecaf18 *nirvana1990-10-25t14.flac
+b789551194dae75ec4e9c42dd4df9613 *nirvana1990-10-25t15.flac
+f61d4d9bb262e691418518ea3e0a2fca *nirvana1990-10-25t16.flac
+c7488b1571955467301aad797ed82c2d *nirvana1990-10-25t17.flac
+06027ec12c8a1e72749555080b3a3c53 *nirvana1990-10-25t18.flac
+3dad4745fcdc073f2a0074d7d40e4841 *nirvana1990-10-25t19.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

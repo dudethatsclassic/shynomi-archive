@@ -1,0 +1,99 @@
+Deftones
+Lollapalooza Argentina 2026
+Hipodromo de San Isidro, San Isidro, Argentina
+2026-03-15
+
+Flow Website VOD > download > .mp4
+
+
+Setlist (from setlist.fm)
+
+BBe Quiet and Drive (Far Away)
+my mind is a mountain
+locked club
+Diamond Eyes
+Rocket Skates
+Sextape
+Swerve City
+Rosemary
+ecdysis
+Headup
+infinite source
+Hole in the Earth
+Change (In the House of Flies)
+("my mind is a mountain" outro)
+Genesis
+milk of the madonna
+
+Encore:
+Cherry Waves
+My Own Summer (Shove It)
+7 Words
+
+
+
+
+General
+Format                      : MPEG-4
+Format profile              : Base Media
+Codec ID                    : isom (isom/iso2/avc1/mp41)
+File size                   : 2.69 GiB
+Duration                    : 1 h 15 min
+Overall bit rate mode       : Constant
+Overall bit rate            : 5 108 kb/s
+Frame rate                  : 29.970 FPS
+Writing application         : Lavf62.10.100
+
+Video
+ID                          : 1
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4
+Format settings             : CABAC / 4 Ref Frames
+Format settings, CABAC      : Yes
+Format settings, Reference  : 4 frames
+Codec ID                    : avc1
+Codec ID/Info               : Advanced Video Coding
+Duration                    : 1 h 15 min
+Bit rate mode               : Constant
+Bit rate                    : 5 005 kb/s
+Width                       : 1 920 pixels
+Height                      : 1 080 pixels
+Display aspect ratio        : 16:9
+Active Format Description   : Full frame 16:9 image
+Frame rate mode             : Variable
+Frame rate                  : 29.970 (29970/1000) FPS
+Minimum frame rate          : 20.270 FPS
+Maximum frame rate          : 10000 000.000 FPS
+Original frame rate         : 29.970 (30000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0 (Type 2)
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.081
+Stream size                 : 2.63 GiB (98%)
+Writing library             : AVC
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+Codec configuration box     : avcC
+
+Audio
+ID                          : 2
+Format                      : AAC LC SBR
+Format/Info                 : Advanced Audio Codec Low Complexity with Spectral Band Replication
+Commercial name             : HE-AAC
+Format settings             : Implicit
+Codec ID                    : mp4a-40-2
+Duration                    : 1 h 15 min
+Bit rate mode               : Constant
+Bit rate                    : 96.0 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 23.438 FPS (2048 SPF)
+Compression mode            : Lossy
+Stream size                 : 51.7 MiB (2%)
+Default                     : Yes
+Alternate group             : 1

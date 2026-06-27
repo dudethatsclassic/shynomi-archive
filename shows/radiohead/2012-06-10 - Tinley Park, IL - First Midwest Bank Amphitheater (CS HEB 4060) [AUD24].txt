@@ -1,0 +1,56 @@
+
+
+----------------------------------------------------------------
+	Artist:			Radiohead
+	Date:			June 10, 2012
+	Location:		First Midwest Bank Amphitheatre, Tinely Park, IL
+	Taper:			JB
+	e-mail:			radioheadusa@comcast.net
+	DC++ screenname:	radiohead8989
+	Web:			http://home.comcast.net/~radioheadusa/
+	date of seeding:	June 11, 2012
+----------------------------------------------------------------
+	Source Info:		>Edirol R9 (24bit/48kHz) 
+				>Core Sound HEB (4060) (Bass Rolloff=ON) 
+				>CDWAVE 1.98
+				>FLAC (level 8)
+----------------------------------------------------------------
+	additional info:	Recorded from the pit, first row on the right side
+----------------------------------------------------------------
+	running time:		2h:09m:08s
+----------------------------------------------------------------
+	Setlist:		01 Intro
+				02 Bloom
+				03 There There
+				04 15 Step
+				05 Kid A
+				06 Staircase
+				07 Morning Mr Magpie
+				08 The Gloaming
+				09 Codex
+				10 The Amazing Sound of Orgy
+				11 Karma Police
+				12 Reckoner
+				13 Lotus Flower
+				14 Myxomatosis
+				15 Feral
+				16 Little By Little
+				17 Idioteque
+				18 Off-Stage
+				19 Separator
+				20 Full Stop
+				21 Bodysnatchers
+				22 The Only One I Love/Everything In It's Right Place
+				23 Off-stage
+				24 Give Up The Ghost
+				25 Identikit
+				26 Arpgeei
+				27 Street Spirit
+----------------------------------------------------------------
+Note:
+This is a 24bit / 48KHZ recording.  It cannot be burned to a cd, unless you convert it to 16bit / 44.1k first.
+The FLAC files were created using CD Wave 1.98, and they were tested using Media Monkey 3.1.0.1256.
+
+
+
+

@@ -1,0 +1,61 @@
+NIRVANA
+September 28, 1991
+Marquee, New York, NY, USA
+
+SOURCE (AUD#1):
+WMD3 > PC-62
+
+TRANSFER:
+Nakamichi DR-1 > Canare cable > D.A.L. CardDeluxe > Adobe Audition CC > SoundForge 12.1 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(1) > WAV[24 bit/44.1kHz] > WAV[16 bit/44.1kHz] > FLAC [Level 8]
+
+DURATION:
+61:13
+
+SETLIST:
+00. Intro
+01. Jesus Wants Me For A Sunbeam
+02. Aneurysm
+03. Drain You
+04. Smells Like Teen Spirit
+05. School
+06. Floyd The Barber
+07. Sliver
+08. Breed
+09. Polly
+10. About A Girl
+11. Rape Me
+12. Blew
+13. Been A Son
+14. Negative Creep
+15. Endless, Nameless
+16. Vendetagainst
+
+MD5 FINGERPRINTS:
+b2316982e590ba9237122a0d0eafb61c *NIRVANA 1991-09-28 AUD#1 ANA(1)_00 Intro.flac
+4fdf863ebd373ffd5b75251ab2ba4091 *NIRVANA 1991-09-28 AUD#1 ANA(1)_01 Jesus Wants Me For A Sunbeam.flac
+da9cf555e96279ffe1e20e0833b09c83 *NIRVANA 1991-09-28 AUD#1 ANA(1)_02 Aneurysm.flac
+bf1c21a440e8229985374d5a0319e53e *NIRVANA 1991-09-28 AUD#1 ANA(1)_03 Drain You.flac
+283e8341992db41a37a848f57ae38645 *NIRVANA 1991-09-28 AUD#1 ANA(1)_04 Smells Like Teen Spirit.flac
+d40a43ed375e80c6ab02626326b47b91 *NIRVANA 1991-09-28 AUD#1 ANA(1)_05 School.flac
+7a37a042e6da0c054583c0bd4e2bebfb *NIRVANA 1991-09-28 AUD#1 ANA(1)_06 Floyd The Barber.flac
+fc2ba6bcb0538ecd9ddc56c2890c326c *NIRVANA 1991-09-28 AUD#1 ANA(1)_07 Sliver.flac
+98a5ba97ed19b54cbafc24e6e1ff6251 *NIRVANA 1991-09-28 AUD#1 ANA(1)_08 Breed.flac
+de3ad2e37138b14b6b9472f7ef281ef5 *NIRVANA 1991-09-28 AUD#1 ANA(1)_09 Polly.flac
+3c2dc9629218b1cf23a0537d13bd6d57 *NIRVANA 1991-09-28 AUD#1 ANA(1)_10 About A Girl.flac
+c14404cc8adf539db451c2ef1aaaa5d5 *NIRVANA 1991-09-28 AUD#1 ANA(1)_11 Rape Me.flac
+af479c4444fd0d5d1ef48b1aa84fdcfb *NIRVANA 1991-09-28 AUD#1 ANA(1)_12 Blew.flac
+b975320a0201af101c5b3fa7a6865be3 *NIRVANA 1991-09-28 AUD#1 ANA(1)_13 Been A Son.flac
+52ae545bfa5678da98ddaa2dd9941814 *NIRVANA 1991-09-28 AUD#1 ANA(1)_14 Negative Creep.flac
+49d63afb574dd0c7700addc8cfd1a6c2 *NIRVANA 1991-09-28 AUD#1 ANA(1)_15 Endless, Nameless.flac
+b6b4b807695b4f7626808b61f833d50d *NIRVANA 1991-09-28 AUD#1 ANA(1)_16 Vendetagainst.flac
+
+TRANSFER:
+Members of LiveNIRVANA.com
+
+DISTRIBUTION:
+Members of LiveNIRVANA.com
+
+2020-12-25

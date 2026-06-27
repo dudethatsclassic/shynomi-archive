@@ -1,0 +1,52 @@
+Radiohead
+6/13/2006
+The Theater at Madison Square Garden
+New York, NY
+
+Taper: scb
+Source: DPA (B&K) 4022s > Sound Devices 722 @ 24/96
+722 > Apple MacBook Pro > Spark XL 2.8.2 (normalize, resample to 44.1khz, dither to 16 bit) > xACT 1.58 > shn
+Location: Dead Center, about 20 feet from the stage
+
+Disc 1
+
+01 Intro                         02:01.32
+02 You And Whose Army?           03:18.39
+03 The National Anthem           04:45.31
+04 2+2=5                         03:30.29
+05 15 Step                       05:02.36
+06 Morning Bell                  04:18.26
+07 Arpeggi                       04:40.54
+08 Videotape                     04:34.35
+09 Kid A                         04:28.02
+10 Fake Plastic Trees            04:54.15
+11 Climbing Up The Walls         04:46.12
+12 Nude                          05:10.40
+13 Bangers 'N Mash               03:30.52
+14 Idioteque                     04:39.11
+15 There There                   05:20.19
+
+Disc 1 Total: 65:00.58
+
+
+Disc 2
+
+01 Street Spirit                 04:41.02
+02 Bodysnatchers                 04:34.69
+03 Lucky                         06:29.45
+Encore 1:
+04 I Might Be Wrong              05:31.47
+05 Down Is The New Up            05:39.60
+06 The Bends                     04:24.53
+07 Everything In Its Right Place 08:05.14
+Encore 2:
+08 House of Cards                05:45.68
+09 How to Disappear Completely   07:32.09
+
+Disc 2 Total: 52:44.67
+
+
+notes: This is a 16/44.1 copy for cd.  The original 24/96 copy exists in flac format
+
+compiled on 6/14/06 by scb
+

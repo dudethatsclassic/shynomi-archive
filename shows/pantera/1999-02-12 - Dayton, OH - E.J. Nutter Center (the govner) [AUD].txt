@@ -1,0 +1,12 @@
+    length     expanded size   cdr  WAVE problems filename
+     2:33.30       27059804    ---   --   ---xx   Track01 Intro.flac
+     7:52.15       83296124    ---   --   ---xx   Track02 Domination.flac
+     5:12.74       55210892    ---   --   ---xx   Track03 A New Level.flac
+     5:16.63       55890620    ---   --   ---xx   Track04 Walk.flac
+     7:11.63       76176620    ---   --   ---xx   Track05 Becoming.flac
+     5:11.46       54968636    ---   --   ---xx   Track06 Use My Third Arm.flac
+     8:13.07       86981708    ---   --   ---xx   Track07 Primal Concrete Sledge.flac
+     8:09.15       86294924    ---   --   ---xx   Track08 Fucking Hostile.flac
+     6:44.35       71347964    ---   --   ---xx   Track09 This Love.flac
+     8:13.66       87120476    ---   --   ---xx   Track10 Cowboys From Hell.flac
+    64:39.39      684347768 B                     (totals for 10 files, 0.6537 overall compression ratio)

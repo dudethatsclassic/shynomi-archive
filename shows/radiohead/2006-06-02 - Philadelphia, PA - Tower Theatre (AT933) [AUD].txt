@@ -1,0 +1,58 @@
+Radiohead
+2006.06.02
+June 2nd, 2006
+Upper Darby, PA, USA
+Tower Theatre
+
+Taper:		Joe Cooper (jdcooper@bucknell.edu) (db.etree.org/thierryhenry/)
+Location:		FOB, DFC, >10' From Stacks, Mics On Bill Of Hat, AB. Row EE, Seat 18 (End Of Aisle).
+Source:		SP-CMC-8 (AT933's) > SP-SPSB-6 (Bass Roll Off @ 69Hz) > IRiver IHP-120 (Rockbox, 44.1 Khz)
+Transfer:		Iriver IHP-120 > USB Cable > PC (USB IN) > Soundforge 6.0 (Volume Increase) > CD Wave (44.1 Khz, 16 Bit, Stereo) (Track Splits) > WAV > FLAC Frontend 8 > FLAC (Level 7) > Md5Summer
+Filesize:		1084 MB WAV, 642 MB FLAC
+
+<><><><><><><><><><><><><><><><>
+--------------------------------------------
+Please Do Not Convert To Mp3.
+Please Do Not Sell.
+Please Attach This File When Distributing.
+--------------------------------------------
+<><><><><><><><><><><><><><><><>
+
+Setlist:
+
+01:	Intro > 				-		01.35.41
+02:	There There			-		05.38.04
+03:	Lucky				-		04.21.09
+04:	15 Step				-		04.26.14
+05:	Arpeggi				-		04.30.59
+06:	Kid A				-		03.56.11
+07:	Dollars & Cents			-		05.08.67
+08:	The National Anthem $		-		05.00.40
+09:	Nude				-		05.37.39
+10:	Go Slowly			-		03.08.39
+11:	Paranoid Android			-		06.34.52
+12:	Spooks				-		01.21.37
+13:	The Gloaming			-		03.43.39
+14:	Bodysnatchers			-		04.59.38
+15:	4 Minute Warning			-		03.38.32
+16:	The Bends			-		04.45.11
+17:	Everything In Its Right Place #		-		05.57.05
+18:	How To Disappear Completely	-		06.44.54
+19:	Encore				-		02.52.05
+20:	I Might Be Wrong			-		04.48.23
+21:	House Of Cards			-		05.39.52
+22:	Blackstar				-		04.27.11
+23:	Let Down				-		04.48.36
+24:	Encore				-		02.04.46
+25:	Idioteque				-		04.39.32
+
+Total:					-		110.27.46
+
+Recording Notes:
+
+$ = Noticable "Drop-Out," I Dropped Something And Had To Bend Down To Get It.
+# = "After The Gold Rush," (Neil Young Cover) Tease
+
+Show Notes:
+
+Thanks To "Eric," For Hooking Me Up With The Ticket.

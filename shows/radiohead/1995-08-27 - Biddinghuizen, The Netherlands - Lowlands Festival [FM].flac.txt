@@ -1,0 +1,38 @@
+RADIOHEAD
+August, 27, 1995
+Lowlands Festival
+Biddinghuizen, The Netherlands
+
+
+DISC #1/1 (21:07)
+-----------------
+01) High & Dry  
+02) You
+03) Anyone Can Play Guitar
+04) Fake Plastic Trees
+05) The Bends
+
+
+GENERATION
+-----------------
+FM -> ANA(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+
+SOURCE 
+-----------------
+soundboard -> Unknown
+
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> Adobe Audition 1.0 -> CD Wave 1.7.1 -> FLAC Frontend 1.7.1
+
+
+NOTE
+-----------------
+Has 2 cuts between the songs, I fixed them together. And has a cut in The Bends, due to a power failure from my tape deck.
+
+
+
+Transferred by Laurens van der Weijden.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

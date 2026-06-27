@@ -1,0 +1,56 @@
+SOCIAL DISTORTION
+Rec Hall at UC Davis - Davis, CA
+June 8, 2005
+
+***PLEASE DO NOT ENCODE TO MP3!***
+***PLEASE DO NOT SELL!!!***
+
+-source-
+DPA 4060's > MPS6020 > Sony TCD-D100 (left stack)
+
+-conversion-
+D100 > S/PDIF > M-Audio Audiophile USB > WaveLab v5.00 (fades, slight bass cut) > CDWave v1.93 > FLAC frontend
+
+-tracklist-
+*CD1*
+01. (anouncement and intro)
+02. Mommy's Little Monster
+03. Another State of Mind
+04. Sick Boy
+05. 1945
+06. Reach for the Sky 
+07. Highway 101
+08. Under My Thumb
+09. Diamond in the Rough
+10. Don't Take Me for Granted
+11. That's Alright
+12. (the family minute with Mike Ness)
+13. Prison Bound
+14. Sometimes I Do
+15. Nickels & Dimes
+
+*CD2* (encore)
+01. Footprints on My Ceiling
+02. Ring of Fire
+03. Story of My Life
+
+
+-fingerprints-
+sociald2005-06-08d1t01.flac:bd99fec9e921b025f1763ae3cfc56edf
+sociald2005-06-08d1t02.flac:9474ffb1dd5fc628f15a6ede39aba17d
+sociald2005-06-08d1t03.flac:6aa25cb600df9afd6b9f5b71afd2ed64
+sociald2005-06-08d1t04.flac:429e4dc7b8f40fd5d9977a8b26cb5f6e
+sociald2005-06-08d1t05.flac:5a6a01ecabda8aa3a2f2b021c296d341
+sociald2005-06-08d1t06.flac:0e669a95336e7488ae150c4d51feb966
+sociald2005-06-08d1t07.flac:06fc5384787313b730d002e2b57627be
+sociald2005-06-08d1t08.flac:60c2ff6dc7c61c4e3045af8739772ef9
+sociald2005-06-08d1t09.flac:86e5c55d298095e9bd509fc45c2afa04
+sociald2005-06-08d1t10.flac:fe4d8e5a40012645cddad10a34dde951
+sociald2005-06-08d1t11.flac:bdcfda24dde3f0d65d55bd21cf7699f7
+sociald2005-06-08d1t12.flac:66fc84b7f6f9989ebc6e6771b96c716a
+sociald2005-06-08d1t13.flac:569a6699976a79bccbfc58108e19ef0b
+sociald2005-06-08d1t14.flac:3de5eb789d03fa9dd705200060ae51fb
+sociald2005-06-08d1t15.flac:02274bca8f038671860f4ea32d26a1c7
+sociald2005-06-08d2t01.flac:95a02fcd2bff339d44f33c27bd9cf12f
+sociald2005-06-08d2t02.flac:f177712983a1b9337343d3e078b312b0
+sociald2005-06-08d2t03.flac:c39529338fe6c60577c4ed0513ed9927

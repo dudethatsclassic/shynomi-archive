@@ -1,0 +1,43 @@
+Radiohead
+August 3, 2008
+Verizon Wireless Music Center
+Noblesville, IN
+
+source: Schoeps mk4 > kc5 > cmc6xt > Sound Devices 702 (24/96)
+location: Sec A, Row Z (Left of center)
+transfer: 702 > firewire > Spark XL 2.82 > xACT > .flac (16/44)
+
+Disc 1
+01 Intro
+02 15 Step
+03 Bodysnatchers
+04 There There
+05 All I Need
+06 Pyramid Song
+07 Nude
+08 Weird Fishes/Arpeggi
+09 The Gloaming
+10 Climbing Up The Walls
+11 Faust Arp
+12 Videotape
+13 Morning Bell
+14 Idioteque
+
+Disc 2
+01 Reckoner
+02 Everything In Its Right Place
+03 Just
+04 How To Disappear Completely
+Encore 1
+05 You And Whose Army?
+06 Bangers And Mash
+07 Exit Music (For A Film)
+08 Jigsaw Falling Into Place
+09 Karma Police
+Encore 2
+10 House Of Cards
+11 The National Anthem
+12 Street Spirit
+
+flac fingerprint:
+rh2008-08-03d1t01.flac:184b1c395ad31433962e13998bd2a70crh2008-08-03d1t02.flac:449a104dd88be803c50cbb9ba4865341rh2008-08-03d1t03.flac:5de11a6d461d153279fc29a04e0be5e0rh2008-08-03d1t04.flac:8e7b95863b382d4fa7e87a862bee52ccrh2008-08-03d1t05.flac:b48c5dbb5f309dfb3594426b03aa610frh2008-08-03d1t06.flac:a99740aa2c10efda165baab64c12624erh2008-08-03d1t07.flac:eb71d0d465e44bb745d74c4a98e80da8rh2008-08-03d1t08.flac:679b8c67b33bd37e9d6f0c5c6a607477rh2008-08-03d1t09.flac:cd7953b40b9191c7a407a7898f4b8f99rh2008-08-03d1t10.flac:d2e69028b851a7bad2333adffd07ed2drh2008-08-03d1t11.flac:67b39f0830afed28ebf5766844cacf4arh2008-08-03d1t12.flac:487995556c14fce697e3db984607218drh2008-08-03d1t13.flac:98fe27c3d5f166e20b6ebb6326807b30rh2008-08-03d1t14.flac:7b589235cf303e7a75645cdfed3c73efrh2008-08-03d2t01.flac:b7cb546317c96a26c0d9823915e5ab84rh2008-08-03d2t02.flac:1638bccc6a137076c94726468088cb68rh2008-08-03d2t03.flac:7cced2f0528afc5b6f2d66581c2e0a51rh2008-08-03d2t04.flac:c49db5dd2da7a48e784e75e0288376b0rh2008-08-03d2t05.flac:442774e61c580f3548c22ab01de40fd8rh2008-08-03d2t06.flac:287363dd3c985a426d1875ae5f9b792brh2008-08-03d2t07.flac:a177a03bb42ab9f37dbbc017f3df3e94rh2008-08-03d2t08.flac:791d93f8e73f1c4a2d68d4ef4e8abdbbrh2008-08-03d2t09.flac:8c67feeada84ae995bfce61d8de69e07rh2008-08-03d2t10.flac:913237b548b4932145cf4460e95c6ce2rh2008-08-03d2t11.flac:06947c81db56b72c65376caafed924a9rh2008-08-03d2t12.flac:b43bf6b49b2ee383dbd3cdb3109fdea7

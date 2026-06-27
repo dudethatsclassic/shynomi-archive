@@ -1,0 +1,56 @@
+NIRVANA
+August 27, 1991
+Aladin (Überschall 91)
+Bremen, Germany
+
+SOURCE (AUD #2):
+unknown > Sony WM-D6
+
+EXTRACTION:
+Plextor PlexWriter PX-W4824A > Exact Audio Copy V0.95 prebeta 5 > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > CDR(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+47:02
+
+NOTES:
+- Has a digital error during "Blew."
+
+TRACKS:
+01. intro
+02. Something In The Way
+03. Negative Creep
+04. Been A Son
+05. Blew
+06. Polly
+07. Rape Me
+08. Pennyroyal Tea
+09. School
+10. Smells Like Teen Spirit
+11. In Bloom
+12. Come As You Are
+13. Floyd The Barber
+14. Endless, Nameless (cuts out)
+
+MD5 FINGERPRINTS:
+f79a5ba722218a3a39014f0b8020ee14 *Nirvana_1991-08-27_AUD2_t01.flac
+b213543fb607a107128cb1d75ec4e5af *Nirvana_1991-08-27_AUD2_t02.flac
+ea00a1d1b75b022867d3a32b34dedb8d *Nirvana_1991-08-27_AUD2_t03.flac
+d152a6841ed31ea38bbcaceee7feb09b *Nirvana_1991-08-27_AUD2_t04.flac
+6044f6cd2c1a4837e8d57f52286d0832 *Nirvana_1991-08-27_AUD2_t05.flac
+ad2ce64b10420030847cf60c19b315bf *Nirvana_1991-08-27_AUD2_t06.flac
+9bb6349fedaf6ebf73be9278aaa463c2 *Nirvana_1991-08-27_AUD2_t07.flac
+13e1d4d68021d2fd13b5c6f572b8cc5a *Nirvana_1991-08-27_AUD2_t08.flac
+b259865a6329a3cc2a5ba65112d7b193 *Nirvana_1991-08-27_AUD2_t09.flac
+57108d0f85fb3d8cbe1bbcf7422027b4 *Nirvana_1991-08-27_AUD2_t10.flac
+240cecee93887a49e34fcc68941367e0 *Nirvana_1991-08-27_AUD2_t11.flac
+cc89d02f52ddc40097b4a65733b6b647 *Nirvana_1991-08-27_AUD2_t12.flac
+fe7370fdcb56fc2861795c36a9dd8ce6 *Nirvana_1991-08-27_AUD2_t13.flac
+4cc356990050be0f7656ad2986d9c896 *Nirvana_1991-08-27_AUD2_t14.flac
+
+EXTRACTED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

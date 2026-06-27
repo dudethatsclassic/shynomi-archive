@@ -1,0 +1,32 @@
+Band: Ugly Kid Joe
+City: Wacken
+Country: Germany
+Venue: Hauptstrasse
+Event Name: Wacken Open Air 2025
+Date: 2025-07-31 (July 31, 2025)
+------------------------------------------------
+Source: Magenta Musik webcast > FFMPEG > Mp4 1920x1080 > You
+------------------------------------------------
+Set List
+
+01. Intro
+02. Neighbor
+03. Panhandlin' Prince
+04. Goddamn Devil
+05. So Damn Cool
+06. No One Survives
+07. Devil's Paradise
+08. Cat's in the Cradle (Harry Chapin)
+09. I'm Alright
+10. C.U.S.T.
+11. Failure
+12. Milkman's Son
+13. Ace of Spades (Motörhead)
+14. Everything About You   
+
+Time Length: 00:59:59 Minutes
+------------------------------------------------
+Video: MPEG4 Video (H264) 1920x1080 25fps 5998kbps [V: h264 high L4.0, yuv420p, 1920x1080, 5998 kb/s]
+Audio: AAC 48000Hz stereo 127kbps [A: aac lc, 48000 Hz, stereo, 127 kb/s]
+------------------------------------------------
+INFO FILE BY ALEISTER666

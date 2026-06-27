@@ -1,0 +1,101 @@
+Limp Bizkit
+2022-05-31
+Toyota Arena
+Ontario, CA
+
+SOURCE: 
+SP-CMC-8 (w/Mods) > Sony PCM-M10 > Sandisk Mini-SD Card (32gb - Class 10)
+
+TRANSFER: 
+.WAV (24 Bit) > Adobe Audition 2022 CC (normalize/amplify/tracking/dithering/downsampling) > .WAV (16 Bit) > Trader's Little Helper > FLAC (Level 8)
+
+SETLIST:
+
+01. Intro
+02. Dad Vibes
+03. Out of Style
+04. (talking)
+05. Rollin' (Air Raid Vehicle)
+06. (talking)
+07. Thieves (Ministry cover) (short version)
+08. Hot Dog
+09. (DJ Lethal interlude)
+10. My Way
+11. (talking)
+12. My Generation
+13. Livin' It Up
+14. (DJ Lethal interlude)
+15. Eat You Alive
+16. (DJ Lethal interlude)
+17. Re-Arranged
+18. Boiler
+19. (talking)
+20. Nookie
+21. Full Nelson *
+22. (dancing interlude)
+23. Don't Change (INXS cover)
+24. (talking)
+25. Faith (George Michael cover)
+26. (talking)
+27. Take A Look Around ^
+28. (saying goodbye)
+29. Break Stuff
+30. Outro
+
+* featuring Milkie Way from Wargasm UK
+^ featuring Sam Matlock from Wargasm UK
+
+NOTES:
+
+Finally! After 24 years of first listening to them (back in 1998 with their first album of course, Three Dollar Bills Y'all), I finally got to scratch Limp Bizkit off the bucket list (technically I have seen Wes Borland live before, as he was the guitarist for Danny Elfman's band at Coachella this year). I was never able to buy their CD's back in the day, because of the parental advisory stickers (my Dad wouldn't let me), so I had to pay my friends at school to burn the CD's for me instead, ah good memories. Anyway, I never saw them back in the day unfortunately. Not at Family Values. Not at Summer Sanitarium. Not at Ozzfest. Not at Anger Management. And not at Woodstock 99, which I wish I could have been at (I watched and listened to it live on TV and the radio back then, and Limp's set at that festival is definitely one of the most legendary of this generation). After "Take A Look Around" came out on the M:I-2 soundtrack, I sort of stopped paying attention to them. I didn't care of Hot Dog Flavored Water or any of its songs, and I barely listened to any of the albums that followed. I don't think I've ever even heard Gold Cobra if I'm being honest. And as for the new album, I haven't listened to it yet either outside of a couple songs, but my friend keeps telling me "it's like their old stuff". Who knows how "accurate" that is?
+
+Anyway, a couple years ago Limp Bizkit was in town to play the Troubadour and my friend/co-worker was able to snag a pair of tickets. He had promised to take me and I was all psyched up, until the last minute when he decided to give the ticket to his girlfriend instead. Still bummed over that, the fucker. Well fast forward a couple years, through all the bullshit, and here we are, the full and ORIGINAL lineup is on tour again, and this time they're stopping in fucking Ontario! Who the hell would ever want to go to Ontario? What the hell is even out there besides warehouses? Well apparently there is an arena, the Toyota Arena that is, that is home to...what? A G-league team? Minor league hockey? Sigh, that's pretty sad. I think the arena's claim to fame, outside of this night, is getting to host one pre-season Lakers game a year. Big whoop. Ontario is fucking awful and far, but for Limp Bizkit, it was worth the pain of traveling out there with friends to catch them.
+
+I got there in time (had floor tickets, so I and my friends set up shop at the soundboard - as we had no desire to go fight/deal with the mosh pit for the entire night) for the openers, all three of them, but didn't record any of them. Wargasm UK was probably my favorite of the three. They sort of reminded me of a heavier version of Amyl and the Sniffers, but you can check them out and be the judge. The singers, both Milkie Way and Sam Matlock, would later on join Fred on stage for a song each during Limp's set.
+
+And as for Limp's set? FUCKING WOW. Color me impressed. I am so happy that I decided to put up with traveling to Ontario and back to go see this show. The band was simply amazing and sounded fucking great. I usually avoid arena shows for the shitty sound, and while the openers sound left a lot to be desired, once the place filled up for Limp, it sounded pretty damn dialed in, and it shows here on this recording (I think). They ripped through a lot of the main hits you'd want to hear, plus a cool lesser cool stuff like "Thieves" (wish it would have been the full version) and "Livin' It Up". Could I have wanted more from the first two albums? Absolutely. But I'm not complaining, as I walked away perfectly happy. Fred seemed to really be enjoying himself up on stage too, as he really seemed happy and pumped to be playing for us. He talked to the crowd a lot, made a lot of jokes, roasted a few people who were holding their phones up the entire time, asked everyone to get shirtless, called the mosh pit a bunch of sissies and invited some random friend of his to sit on the recliner on stage for half the set. And then of course, invited everyone on stage for their "SNL" style goodbye before bursting into "Break Stuff" with the house lights on. So happy to have finally heard that song live. It was as intense and loud as I was ever hoping.
+
+And this recording? I think it sounds fucking great if I'm being honest. One of my better ones. My little Sound Professionals/Audio Technica's and my good friend, the Sony PCM-M10, came through once again. I love them so much! <3 Peace!
+
+P.S. One of the funniest moments happened after the band left the stage and a bunch of fans were hanging around the soundboard yelling and screaming at the sound guy for his copy of the setlist. After about 2 minutes of yelling and begging, he finally looked over at everyone and yelled "You all can fucking wait!". Classic.
+
+CHECKSUMS: 
+
+29c9ab59a02dc8749a9921f728a4acb7 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t01-intro.flac
+2f6ab29a7bf40cf048ba5955eb08941a *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t02-dad-vibes.flac
+0c63268b8671b40635dc0033fdeba632 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t03-out-of-style.flac
+f8adf5b7f369bc7b143d38bd1541ae47 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t04-talking.flac
+1df3c6d6c073867e325252265146d4c9 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t05-rollin.flac
+d19efa0154121daa692aca14051748e3 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t06-talking.flac
+fe652ebb6eae106caa43b53b1578d6d4 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t07-thieves.flac
+c826269496b5f07760292e160192f756 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t08-hot-dog.flac
+b29d8aca3ff2e5b9b53f1e98c8c61fff *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t09-lethal-interlude.flac
+8a473c8d0286e878948bd8771c7d6a05 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t10-my-way.flac
+26c31199577c7cb2d92fbdb0bbc3c2cd *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t11-talking.flac
+d49c0f471663221bba718de920f94ea7 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t12-my-generation.flac
+51758fa49b11454ff7d5bec51f5899a4 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t13-livin-it-up.flac
+766c6c2e31025e67d72de6c996c6b3b1 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t14-lethal-interlude.flac
+d14289384bfb492c5eb15b1958a7c70b *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t15-eat-you-alive.flac
+d10258ad92a6257aa1c3435a856d8ff9 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t16-lethal-interlude.flac
+815059ee53b4cbaf81ba2e718ce11315 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t17-re-arranged.flac
+a39b1261814373ac5c9586cc9480a384 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t18-boiler.flac
+49f6f697ed06f7ad6ebebf8cf1641c8b *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t19-talking.flac
+5fbd6d17afe5ba360eaea07d8fbc0d50 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t20-nookie.flac
+63c6ce854736411bd83039bdce79d4dd *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t21-full-nelson.flac
+b1ac846f6e2b1252ba5845c0502cf4bd *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t22-dancing-interlude.flac
+939607b0c4af17b89d513365c1f3bad6 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t23-dont-change.flac
+49fbf9a6009bde3092286bea0d0f9f9f *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t24-talking.flac
+f88597b05e4c01d13c2659c09b486535 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t25-faith.flac
+9be6e66021f7205a07781ee100e962c5 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t26-talking.flac
+bec7528067de1b34245c007a07c2430a *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t27-take-a-look-around.flac
+0b32366847354b2313c8360ce7c756bb *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t28-saying-goodbye.flac
+6c6ea2cc5a9e68610b87cfb0493e2adc *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t29-break-stuff.flac
+092c1884669e2460ba6058313e8a0566 *limp-bizkit-2022-05-31-ontario-ca-aud-16bit-t30-outro.flac
+
+Check out my site: 
+
+https://www.themojavetent.com 
+https://www.facebook.com/coachellarecordings 
+https://www.twitter.com/livecoachella
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT, OR ELSE THE KARMA POLICE WILL GET YOU***

@@ -1,0 +1,169 @@
+EZ CD Audio Converter 2.2.2 64-bit (Oct  1 2014)
+
+Log creation date: 22 Feb 2020 19:35
+
+Device: [ D: ] HL-DT-ST DVDRAM GH24NS70 GN00
+
+Profile                         : Normal
+Read mode                       : Normal
+C2 pointers                     : Disabled
+AccurateCDDA                    : Enabled
+Software synchronization        : Disabled
+Drive read cache                : Enabled
+Verify audio                    : Disabled
+Drive spin-up                   : Disabled
+Sample offset                   : 0
+
+Calculate ReplayGain            : Disabled
+Apply ReplayGain                : Disabled
+Fade In                         : Disabled
+Fade Out                        : Disabled
+Delete leading digital silence  : Disabled
+Add leading silence             : Disabled
+Delete trailing digital silence : Disabled
+Add trailing silence            : Disabled
+
+Output format                   : .flac | Free Lossless Audio Codec
+Encoder                         : FLAC 1.3.0
+Bit depth                       : Auto
+Channels                        : Stereo
+Sample rate                     : Auto
+Compression level               : 8
+
+      Track   Start      Length     Start sector   End sector
+-------------------------------------------------------------
+ [X]  01      00:02.00   04:45.63   0              21437
+ [X]  02      04:47.63   04:03.32   21438          39694
+ [X]  03      08:51.20   03:53.47   39695          57216
+ [X]  04      12:44.67   04:27.05   57217          77246
+ [X]  05      17:11.72   04:59.29   77247          99700
+ [X]  06      22:11.26   05:01.63   99701          122338
+ [X]  07      27:13.14   03:56.63   122339         140101
+ [X]  08      31:10.02   03:54.23   140102         157674
+ [X]  09      35:04.25   05:46.37   157675         183661
+ [X]  10      40:50.62   04:31.49   183662         204035
+ [X]  11      45:22.36   04:35.39   204036         224699
+ [X]  12      49:58.00   01:59.65   224700         233689
+-------------------------------------------------------------
+
+Summary
+-------
+
+12 total tracks
+12 copied successfully
+0 copied with errors
+0 failed
+
+Track   Status      CRC        Filename
+---------------------------------------
+ 1      Success     D523B463   C:\Users\Zulhy\Music\Deftones - Do Not Disturb\01. My Own Summer (Shove It).flac
+ 2      Success     568601DF   C:\Users\Zulhy\Music\Deftones - Do Not Disturb\02. Lotion.flac
+ 3      Success     BF72C1BA   C:\Users\Zulhy\Music\Deftones - Do Not Disturb\03. Root.flac
+ 4      Success     C8C29B55   C:\Users\Zulhy\Music\Deftones - Do Not Disturb\04. Bored.flac
+ 5      Success     DF2B1C4F   C:\Users\Zulhy\Music\Deftones - Do Not Disturb\05. MX.flac
+ 6      Success     DB5C4124   C:\Users\Zulhy\Music\Deftones - Do Not Disturb\06. Mascara.flac
+ 7      Success     F253CBD4   C:\Users\Zulhy\Music\Deftones - Do Not Disturb\07. 7 Words.flac
+ 8      Success     F0DFE446   C:\Users\Zulhy\Music\Deftones - Do Not Disturb\08. Around The Fur.flac
+ 9      Success     16637B81   C:\Users\Zulhy\Music\Deftones - Do Not Disturb\09. Be Quiet And Drive (Far Away).flac
+10      Success     458E8356   C:\Users\Zulhy\Music\Deftones - Do Not Disturb\10. Headup.flac
+11      Success     308840CF   C:\Users\Zulhy\Music\Deftones - Do Not Disturb\11. Chaufeur.flac
+12      Success     CDD2BDC3   C:\Users\Zulhy\Music\Deftones - Do Not Disturb\12. Please.flac
+
+Details
+-------
+
+Track 1
+
+     Filename C:\Users\Zulhy\Music\Deftones - Do Not Disturb\01. My Own Summer (Shove It).flac
+
+     CRC        : D523B463
+
+     Finished successfully
+
+Track 2
+
+     Filename C:\Users\Zulhy\Music\Deftones - Do Not Disturb\02. Lotion.flac
+
+     CRC        : 568601DF
+
+     Finished successfully
+
+Track 3
+
+     Filename C:\Users\Zulhy\Music\Deftones - Do Not Disturb\03. Root.flac
+
+     CRC        : BF72C1BA
+
+     Finished successfully
+
+Track 4
+
+     Filename C:\Users\Zulhy\Music\Deftones - Do Not Disturb\04. Bored.flac
+
+     CRC        : C8C29B55
+
+     Finished successfully
+
+Track 5
+
+     Filename C:\Users\Zulhy\Music\Deftones - Do Not Disturb\05. MX.flac
+
+     CRC        : DF2B1C4F
+
+     Finished successfully
+
+Track 6
+
+     Filename C:\Users\Zulhy\Music\Deftones - Do Not Disturb\06. Mascara.flac
+
+     CRC        : DB5C4124
+
+     Finished successfully
+
+Track 7
+
+     Filename C:\Users\Zulhy\Music\Deftones - Do Not Disturb\07. 7 Words.flac
+
+     CRC        : F253CBD4
+
+     Finished successfully
+
+Track 8
+
+     Filename C:\Users\Zulhy\Music\Deftones - Do Not Disturb\08. Around The Fur.flac
+
+     CRC        : F0DFE446
+
+     Finished successfully
+
+Track 9
+
+     Filename C:\Users\Zulhy\Music\Deftones - Do Not Disturb\09. Be Quiet And Drive (Far Away).flac
+
+     CRC        : 16637B81
+
+     Finished successfully
+
+Track 10
+
+     Filename C:\Users\Zulhy\Music\Deftones - Do Not Disturb\10. Headup.flac
+
+     CRC        : 458E8356
+
+     Finished successfully
+
+Track 11
+
+     Filename C:\Users\Zulhy\Music\Deftones - Do Not Disturb\11. Chaufeur.flac
+
+     CRC        : 308840CF
+
+     Finished successfully
+
+Track 12
+
+     Filename C:\Users\Zulhy\Music\Deftones - Do Not Disturb\12. Please.flac
+
+     CRC        : CDD2BDC3
+
+     Finished successfully

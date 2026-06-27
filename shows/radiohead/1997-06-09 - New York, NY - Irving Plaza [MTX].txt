@@ -1,0 +1,49 @@
+
+Artist: Radiohead
+Recording date: 1997 June 09 
+Location: Irving Plaza, NY, NY
+Source: audience (2x)
+
+Setlist:
+
+ walk on
+Lucky
+My Iron Lung
+Airbag
+(Nice Dream)
+Exit Music (for a Film)
+Karma Police
+Talk Show Host
+Fake Plastic Trees
+Paranoid Android
+Bones
+Climbing Up the Walls
+No Surprises
+The Bends
+Creep
+Just
+ audience
+Planet Telex
+Street Spirit (Fade Out)
+The Tourist
+ audience
+Thinking About You (aborted, twice)
+Black Star
+
+Lineage 
+s1: Core Sound Cardioids -> Sony TCD-D7 -> > CDR  -> EAC -> FLAC -> 
+s2: Aiwa mics -> Aiwa deck -> cassette -> Nak DR-1 (azimuth adj) -> Audigy 5/Rx -> 
+
+-> Audacity -> CD Wave Editor -> FLAC 1.3 -> you
+
+Notes, rambles, etc.:
+
+One for the history books.  There’s a copy of the guest list that’s been on the ‘net for a while.  I’ll include it and post it in a comment.  This show was on the Monday immediately following that year’s Tibet Festival.  I think everyone that played that fest wanted on the guest list and got in.  The place was *packed* to the point that it probably should have been shut down by the Fire Marshall.  Thankfully they didn’t, but it was *hot* in there.  My ex couldn’t handle it and spent most of the show in the corridor with the merch people.  I stayed and spent most of the show trying not to have Matt Pinfield sweat on me too much.  He and a contingent from MTV were standing right behind me.
+
+OK Computer wouldn’t be released for almost a month.  For most of the audience this was the first time hearing a lot of these songs.  When Thom announces Paranoid and the crowd responds, some woman says to no-one in particular, “How does anybody know this song?”  I respond, “The video was shown two weeks ago, and it’s been out for a week.”  I knew some of the new songs as I’d been buying every import single I could find.  They have b-sides better than some album tracks.
+
+I’ll be the first to admit the improvement due to the matrix is subtle.  The CSC/DAT source is already pretty great.  I do think my crappy little rig captured more of the high-end. The compression raised the floor of the quieter moments.  And the signal to noise ratio is improved.
+
+Peace,
+
+Phideaux3

@@ -1,0 +1,65 @@
+RADIOHEAD
+January 21, 1998
+Clossing Hall
+Fukuoka, Japan
+
+SOURCE:
+Core Sound Cardioid > Sony TCD-D100
+
+TRANSFER:
+Tascam DA-20mkII > Apogee S/PDIF cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0
+
+MASTERING (BLG):
+Adobe Audition > iZotope Ozone 5 > WavePad > xACT > FLAC
+
+GENERATION:
+DAT(2) [48kHz] > WAV [48kHz] > FLAC [Level 8]
+
+LENGTH:
+96:47** A bit chopped off at prior to Meeting in the Aisle when tracked**
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3
+
+
+01 Meeting in the Aisle
+
+02 Climbing Up the Walls
+
+03 My Iron Lung
+
+04 Nice Dream (stopped)
+
+05 Nice Dream
+
+06 Lucky
+
+07 Pearly*
+
+08 Talk Show Host
+
+09 Karma Police
+
+10 The Bends
+
+11 Paranoid Android
+
+12 Exit Music
+
+13 Airbag
+
+14 High and Dry
+
+15 Street Spirit
+
+16 Planet Telex
+
+17 Just
+
+18 No Surprises
+
+19 Fake Plastic Trees (acoustic)
+
+20 Subterranean Homesick Alien (acoustic)

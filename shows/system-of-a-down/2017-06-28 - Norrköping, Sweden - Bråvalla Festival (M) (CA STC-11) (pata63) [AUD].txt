@@ -1,0 +1,38 @@
+System Of A Down
+Bråvalla Festival
+Norrköping, Sweden
+2017-06-28
+
+Source: CA STC-11 -> CA bbox -> iRiver H320 (rockbox)
+Transfer: iRiver -> usb -> hdd -> Soundforge/iZotope Ozone 11 (EQ) -> cdwave -> flac (TLH)
+
+01. Soldier Side – intro 
+02. Suite-Pee 
+03. Prison Song 
+04. Violent Pornography 
+05. Aerials 
+06. Mind
+07. Mr Jack 
+08. DDevil 
+09. Needles  
+10. Deer Dance
+11. Radio/Video
+12. Hypnotize
+13. Dreaming
+14. Pictures
+15. Highway Song
+16. Darts
+17. Bounce
+18. Suggestions
+19. Physical/Psycho
+20. Chop suey!
+21. Lost in Hollywood 
+22. Question!
+23. Lonely Day
+24. Kill Rock ’n’ Roll
+25. B.Y.O.B.
+26. Roulette
+27. Toxicity
+28. Sugar
+
+pata63 20260130

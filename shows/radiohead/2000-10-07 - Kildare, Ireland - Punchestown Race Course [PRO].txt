@@ -1,0 +1,83 @@
+Radiohead
+2000-10-07
+Punchestown Race Course, Kildare, Ireland
+
+Unknown proshot video>???>Radiohead Public Library>Brave Browser with Meddlemonkey script>1080p mp4
+
+Setlist
+The National Anthem
+How To Disappear Completely
+Morning Bell
+Idioteque
+Optimistic
+In Limbo
+Paranoid Android
+Motion Picture Soundtrack
+Everything In Its Right Place
+Just
+
+mediainfo output
+
+General
+Complete name                            : Radiohead2000-10-07.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42 (mp42/mp41/isom/avc1)
+File size                                : 1.47 GiB
+Duration                                 : 54 min 0 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 3 907 kb/s
+Encoded date                             : UTC 2020-01-10 10:32:59
+Tagged date                              : UTC 2020-01-10 10:32:59
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 5 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 5 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 54 min 0 s
+Bit rate                                 : 3 650 kb/s
+Width                                    : 1 440 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.094
+Stream size                              : 1.38 GiB (93%)
+Writing library                          : x264 core 157 r10 d4099dd
+Encoding settings                        : cabac=1 / ref=5 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=34 / lookahead_threads=5 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / stitchable=1 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=infinite / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=5 / qpmax=69 / qpstep=4 / vbv_maxrate=5500 / vbv_bufsize=15000 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Encoded date                             : UTC 2020-01-10 10:32:59
+Tagged date                              : UTC 2020-01-10 10:32:59
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+Codec configuration box                  : avcC
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : mp4a-40-2
+Duration                                 : 54 min 0 s
+Bit rate mode                            : Variable
+Bit rate                                 : 253 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 97.9 MiB (6%)
+Encoded date                             : UTC 2020-01-10 10:32:59
+Tagged date                              : UTC 2020-01-10 10:32:59
+
+

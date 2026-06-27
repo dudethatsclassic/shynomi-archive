@@ -1,0 +1,21 @@
+Radiohead - Surprise show at Glastonbury, Park Stage 2011-06-24
+
+01 Lotus Flower
+02 15 Step
+03 Morning Mr Magpie
+04 Little By Little
+05 All I Need
+06 Separator
+07 Give Up The Ghost
+08 Arpeggi
+09 Staircase
+10 I Might Be Wrong
+11 Bloom
+12 Reckoner
+13 Daily Mail
+14 Encore
+15 Street Spirit (Fade Out)
+
+Audience, Stage Right, same as http://www.youtube.com/playlist?list=PLB5AF2A6BD41B284E
+ZoomH2 44.1KHz 16bit WAV -> Soundbooth CS5 shenanigans (equalise channels, manual stuff, mastering) -> TLC Level 8 FLAC 44.1 KHz, 16 bit
+

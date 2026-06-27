@@ -1,0 +1,27 @@
+Deftones
+Coachella Music & Arts Festival,
+Empire Polo Club, 
+Indio, CA, USA
+April 12, 2024
+
+Lineage: YouTube Livestream -> yt-dlp -> ffmpeg (trim) -> uncompressed .mp4
+Video: MPEG4 Video (H264) 1920x1080 5043Kbps 30.00 fps
+Audio: AAC 130Kbps 44.1 KHz stereo
+
+Setlist:
+Genesis
+Rocket Skates
+Tempest
+Swerve City
+Digital Bath
+Feiticeira
+Ohms
+Combat
+Change (In the House of Flies)
+Be Quiet and Drive (Far Away)
+Please, Please, Please, Let Me Get What I Want (The Smiths cover) (Live debut)
+My Own Summer (Shove It)
+
+TRT = 00:48:58
+
+Captured and uploaded by mrtast

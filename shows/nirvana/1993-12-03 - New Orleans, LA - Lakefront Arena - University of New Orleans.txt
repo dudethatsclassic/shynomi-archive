@@ -1,0 +1,33 @@
+NIRVANA
+December 3, 1993
+Senator Nat G. Kiefer University of New Orleans Lakefront Arena
+New Orleans, LA
+
+SETLIST (93:16)
+-----------------
+intro / Radio Friendly Unit Shifter / Drain You / Breed / Serve The Servants / 
+Come As You Are / Smells Like Teen Spirit / Sliver / Dumb / In Bloom / About A 
+Girl / Lithium / Pennyroyal Tea / School / Polly / Frances Farmer Will Have Her 
+Revenge On Seattle / Milk It / Rape Me / Territorial Pissings / Jesus Wants Me 
+For A Sunbeam / The Man Who Sold The World / All Apologies / Scentless 
+Apprentice / Heart-Shaped Box / Blew
+
+GENERATION
+-----------------
+DAT(M) -> WAV [48kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Sonic Studios -> Sony TCD-D7
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 3.0 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+17b28a2e404f49915034ded98eb38e65 *nirvana1993-12-03_48.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

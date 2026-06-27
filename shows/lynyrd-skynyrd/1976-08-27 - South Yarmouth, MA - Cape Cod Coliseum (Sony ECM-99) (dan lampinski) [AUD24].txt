@@ -1,0 +1,68 @@
+Lynyrd Skynyrd
+Cape Cod Coliseum
+South Yarmouth, MA, USA
+August 27, 1976
+
+Master audience recording taped by Dan Lampinski
+Mastered by Carl Morstadt - Speed/Pitch adjustments by Goody
+
+01 Workin' For MCA 4:50
+02 I Ain't The One 4:07
+03 Saturday Night Special (spliced) 5:45
+04 Searching 4:27
+05 Travellin' Man 4:39
+06 Gimme Three Steps 4:54 
+07 Call Me The Breeze 6:14
+08 T For Texas 9:50
+09 Sweet Home Alabama 7:03
+10 Free Bird (spliced) 13:29
+------------------------------------------------
+Runtime: 65:19
+
+Opening for Jeff Beck with The Jan Hammer Group
+
+Ronnie Van Zant – lead vocals
+Steve Gaines – guitar, vocals
+Allen Collins – guitar
+Gary Rossington – guitar
+Leon Wilkeson – bass, vocals
+Artimus Pyle – drums
+Billy Powell – keyboards
+JoJo Billingsley, Cassie Gaines, Leslie Hawkins – backing vocals (The Honkettes)
+
+Sony TC-152SD Tape Recorder
+Sony ECM-99 Stereo Microphone
+Maxell cassettes
+	
+Master Cassette -> 
+Nakamichi CR-3A cassette deck with azimuth correction -> 
+M-Audio Firewire Audiophile 2496 -> 
+CDWAV 24-bit/96-KHz wav files ->
+Goldwave (normalizing and crossfades) ->
+CDWAV (track breaks) ->
+FLAC Front End (FLAC 8)
+FLAC files tagged with foobar2000 ->
+
+Goody's additional lineage:
+Audition (Pitch Bender, various amounts) ->
+TLH (FLAC Level 8; create checksums)
+
+
+No EQ'ing.
+
+Covers by ethiessen1 (Thanks!)
+
+A 16-bit/44.1-KHz flac16 version of this recording is also available.
+
+Dan Lampinski recorded over 100 concerts in the Providence/Boston area, mostly between 1974 and 1978.
+
+He recorded many of the major 70's bands: Yes, Genesis, Pink Floyd, Queen, Blue Oyster Cult, Frank Zappa, Jethro Tull, ELP, Kiss, Black Sabbath, The Who, Al Stewart, Alice Cooper, Jeff Beck, Bruce Springsteen, Supertramp, Jean-Luc Ponty, Moody Blues, Neil Young, The Faces, Rush, Rick Wakeman, Kansas, as well as several "under the radar" acts.
+
+Dan was very meticulous about taking good care of his tapes and was very pleased that these recordings circulated among the trading community. Please honor his kindness and generosity by sharing these recordings freely.
+
+Always remember - the more generous you are with your music, the more it comes back to you.
+
+Kev & Carl (& Goody too...)
+June 2009; August 2025
+
+

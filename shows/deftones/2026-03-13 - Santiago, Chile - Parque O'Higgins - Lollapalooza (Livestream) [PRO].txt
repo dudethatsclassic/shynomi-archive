@@ -1,0 +1,30 @@
+Deftones
+Lollapalooza Chile
+Parque O'higgins
+Santiago, Chile
+2026-03-13
+
+Lineage: livestream > yt-dlp > ffmpeg (cut)
+Audio: Stereo, AAC, 128 kb/s
+Video: 1920x1080, 60 fps, 7843 kb/s
+
+Setlist (setlist.fm)
+
+Be Quiet and Drive (Far Away)
+my mind is a mountain
+locked club
+Diamond Eyes
+Rocket Skates
+Sextape
+Swerve City
+Rosemary
+ecdysis
+infinite source
+cut hands
+Hole in the Earth
+Change (In the House of Flies)
+Genesis
+milk of the madonna
+Cherry Waves
+My Own Summer (Shove It)
+7 Words

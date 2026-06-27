@@ -1,0 +1,26 @@
+Deftones
+2003 - 10 - 26
+San Jose State Events Center
+San Jose, CA
+
+http://www.taperssection.com
+
+Location: FOB/DFC 75 feet , mics mounted on glasses 5'6" high
+Source: SP-CMC-2(AT831c) > SP-SPSB-1 @ 95htz roll-off > -20db attnuation > AD-20 > mt770
+
+Transfer: Sony MDS-JE520(optical) > delta dio2496 > SF6.0 > .wav > FLAC Frontend v1.7.1 etree edition > .flac - Level 8
+
+
+DISC 1
+TRT - 72:17
+15 trax
+
+
+Disc 2
+TRT - 31:58
+6 trax
+
+
+Taped, Transferred, and Seeded by Stealth Master Schwilly
+omarosatch@hotmail.com
+Compiled 2003-03-06

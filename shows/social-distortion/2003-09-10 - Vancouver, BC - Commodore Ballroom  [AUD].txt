@@ -1,0 +1,64 @@
+Social Distortion
+Commodore Ballroom
+Vancouver, BC
+September 10, 2003
+
+** 16 BIT **
+
+Source:  Sony FM/AM Stereo Cassette-Corder WM-F46 with supplied mic > Master cassette (Maxell XLII)
+Transfer:  Master cassette > Nakamichi LX-5 (azimuth adjusted) > PreSonus AudioBox USB Audio Interface > Sound Forge Pro 11.0 (Build 299) (Dell M6600 
+laptop) > .WAV @ 24 bit/48 kHz
+Mastering:  .WAV > Sound Forge Pro 11.0 Build 299 (splicing; iZotope Mastering Suite (declick); minor edits, normalize, & fades) > iZotope RX6 Advanced
+v6.00.1210 (Spectral De-noise) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > WavePad (split tracks) > Trader's Little Helper 
+(level 8) > FLAC > TagScanner 6.0.35 (tagging)
+Taped by:   "crowflies"
+Transferred & mastered by:  Dennis Orr
+Tracked & FLAC'd by:  Rob Gronotte
+
+Setlist: (1:29:07)
+01 Intro
+02 Mommy's Little Monster
+03 The Creeps (I Just Wanna Give You)
+04 When She Begins
+05 Making Believe
+06 Telling Them
+07 Bad Luck
+08 Footprints On My Ceiling
+09 I Wasn't Born To Follow
+10 The Harder They Come
+11 Ring Of Fire
+12 Sick Boys
+13 Don't Take Me For Granted
+14 Ball And Chain
+- Encore -
+15 Chat
+16 Shame On Me
+17 Don't Drag Me Down
+18 Story Of My Life
+
+Mike Ness – lead vocals & guitar
+Jonny "2 Bags" Wickersham - guitar & backing vocals
+Brent Liles - bass
+Charlie Quintana - drums
+
+Mastering Notes:
+Tape flip during applause after "The Harder They Come"- seamlessly spliced, no music lost
+
+SocialDistortion2003-09-10t01.flac:04aad879b871a7e3452b2235db091a07
+SocialDistortion2003-09-10t02.flac:d27e5e7b232737a1e8b5267b2cc14669
+SocialDistortion2003-09-10t03.flac:87d001f72a78bd3a81dafd5fb2f0531d
+SocialDistortion2003-09-10t04.flac:8c4e76e395bf592fe24b94b755febaef
+SocialDistortion2003-09-10t05.flac:33854df70c6dad3da97dfa120a9e177e
+SocialDistortion2003-09-10t06.flac:fd518dba98f100cd79f639e915b3fd37
+SocialDistortion2003-09-10t07.flac:725cdc70b1fa9dc4bef932b5cf2b91dd
+SocialDistortion2003-09-10t08.flac:9e695d57b1fcffc9d7b3a73d44910bdb
+SocialDistortion2003-09-10t09.flac:18e23761e946d8b8f63840faecc7969b
+SocialDistortion2003-09-10t10.flac:def9c45592b24c4b111b47c4222ca788
+SocialDistortion2003-09-10t11.flac:1e49da9ea60339917ac72b5315bbf61e
+SocialDistortion2003-09-10t12.flac:a2c73c7ae5c5daa6e1ee713fef142a57
+SocialDistortion2003-09-10t13.flac:e5ca8d7461b6d2e5fb86392c83354a0e
+SocialDistortion2003-09-10t14.flac:002d0f3f0e5f893fb736357000d16cb1
+SocialDistortion2003-09-10t15.flac:2858c86b521de18cefa7cf54899a0d2e
+SocialDistortion2003-09-10t16.flac:08dd260123e1828fdb9fa89b454add7a
+SocialDistortion2003-09-10t17.flac:cb03371d906186cb1f3befeef00f405b
+SocialDistortion2003-09-10t18.flac:44449b7ee49b08275ee5ffb9fe5c65ee

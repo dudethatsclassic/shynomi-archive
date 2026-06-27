@@ -1,0 +1,70 @@
+RADIOHEAD
+June 13, 1997
+The Troubadour
+West Hollywood, CA, USA
+
+Source: unknown analog audience audio
+Lineage: ANA(x) > WAV > EQ and tracksplit > FLAC(8)
+Quality: 7.0
+Time: 90:41
+
+Tracklist: 
+<01> [fitter, happier]
+<02> lucky
+<03> my iron lung
+<04> airbag
+<05> (nice dream)
+<06> exit music (for a film)
+<07> karma police
+<08> talk show host
+<09> fake plastic trees
+<10> paranoid android
+<11> bones
+<12> climbing up the walls
+<13> no surprises
+<14> the bends
+<15> bullet proof..i wish i was
+<16> electioneering
+<17> just
+encore:
+<18> planet telex
+<19> street spirit (fade out)
+<20> the tourist
+
+Original notes: 
+- The recording starts about 5 seconds into 'fitter, happier'
+  (recorded walk-on music).
+
+- Tape flip between track 10 and 11.
+  Side A cuts right at the end of 'paranoid android' and side B
+  starts right at the beginning of 'bones'. Could be some talk
+  missing here, but all the music is there.
+
+- Break in the recording between the last song of the main set
+  and first song of the encore.
+
+Audience recording
+Source/Taper unknown
+
+Recieved the show in a tape trade many years ago.
+Transferred from tape and tracked with Audacity.
+
+This is another show that I didn't find at radiodb.freeddns.org.
+The sound quality isn't very good unfortuantely, but it might
+be of interest to completists or people who attended the show.
+Samples included.
+
+Remaster notes: 
+* Changed speed -4% (hey, idiot, slow down)
+* ran EQ to brighten the sound a bit
+* normalized to -0.5db
+
+Side A: 
+Before EQ: 452mb WAV (44:49)
+After EQ: 471mb WAV (46:41)
+
+Side B: 
+Before EQ: 426mb WAV (42:15)
+After EQ: 444mb WAV (44:00)
+
+Thank you to Henrik for sharing the original files! 

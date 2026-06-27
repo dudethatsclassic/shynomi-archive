@@ -1,0 +1,39 @@
+Radiohead
+Madison Square Garden 
+New York City, NY
+August 7, 2001
+
+source: SS DSM6s/l > PA6-LC2 (85) > D100 > cdr
+conversion: cdr > eac > flac
+locations: Sec. 108 Row D Seat 7
+notes: from audience master
+
+CD1
+01. The National Anthem
+02. Morning Bell
+03. My Iron Lung
+04. Karma Police
+05. Knives Out
+06. Permanent Daylight
+07. Climbing Up The Walls
+08. No Surprises
+09. Dollars & Cents
+10. Packt Like Sardines In A Crushd Tin Box
+11. Fake Plastic Trees
+12. I Might Be Wrong
+13. Follow Me Around > Pyramid Song
+
+CD2
+01. Paranoid Android
+02. Idioteque
+03. Everything In Its Right Place
+04. Lucky
+05. Optimistic
+06. You And Whose Army?
+07. How To Disappear Completely
+08. Talk Show Host
+09. Street Spirit (Fade Out)
+10. Exit Music (For A Film)
+
+Seeded by Thierry Henry
+2 December 2005

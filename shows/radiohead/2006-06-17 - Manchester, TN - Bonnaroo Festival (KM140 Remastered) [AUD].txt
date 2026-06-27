@@ -1,0 +1,55 @@
+Radiohead
+2006-06-17
+What Stage - Bonnaroo
+Manchester, TN
+ 
+Taper:  Ed
+Location: 15' FOB, JLOC, 5' Stand
+Mics: DIN
+Source:  Neumann AK40/LC3/KM100 > Lunatec V3 > Edirol R4
+Format: 24-bit, 96khz
+Conversion: Edirol R4 > USB > PC
+Tracking: Cd-Wave Editor
+
+Mastered by Rich Steele (parametric EQ + multiband compression)
+
+24/96 FLAC > wav > Mastered in Wavelab > dithered/resampled to 16/44.1 > FLAC(level 8)
+ 
+ 
+Set List
+------------------------------------
+
+--Disc One--
+01 Intro
+02 There, There
+03 2+2=5
+04 15 Step
+05 Arpeggi
+06 Exit Music
+07 Kid A
+08 Dollars & Cents
+09 Videotape
+10 No Surprises
+11 Paranoid Android
+12 The Gloaming
+13 National Anthem
+14 Climbing Up The Walls
+15 Nude
+16 Street Spirit (Fade Out)
+17 The Bends
+18 Myxomatosis
+19 How To Disappear Completely
+
+--Disc Two--
+01 You And Whose Army?
+02 Pyramid Song
+03 Like Spinning Plates
+04 Fake Plastic Trees
+05 Bodysnatchers
+06 Lucky
+07 Idioteque
+08 Karma Police
+09 House Of Cards
+10 Everything In Its Right Place
+
+Note:  The clinking and beeping you hear during Pyramid Song is actually a medical cart that drove down the middle of the crowd about 2 feet from the stand.  Talk about insanity!  Its ok though, it only last a couple of seconds.

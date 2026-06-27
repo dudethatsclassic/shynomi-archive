@@ -1,0 +1,123 @@
+
+Radiohead
+2006-06-27
+Embarcadero Marina South 
+San Diego, CA 
+Matrix Mix
+
+=====================================================================================
+
+Lineage
+-------
+
+
+Source 1:
+
+Taper: Zepdog5 
+
+Source: Core-Sound Binaural mics w/bass roll-off filter >
+Sony MZ-NHF800 (Mic plug-in) > Sony 1GB Hi-MD disc. 
+
+Transfer: Sony MZ-NHF800 > 2.0USB cable > Sonic Stage v3.0 >
+download/convert to wav file on hard drive > cdwave audio editor v1.93.3
+(cut into tracks, remove gaps, extra noise) > Wavepad V3.05 (add fade outs) >
+Flac frontend 1.7.1, level 7, verify, asb.
+
+-------------------------------------------------------------------------------------
+
+Source 2:
+
+Taper: B.A. Baracus
+Source: AT831 > NJ3
+
+The first song of the night (Airbag) fades in about 10 seconds after it started
+because the taper got there late. It's hard to run with 30 pounds of gold around
+your neck foo!
+
+-------------------------------------------------------------------------------------
+
+Source 3:
+
+sonic studios dsm-6s>pa-6>njb3
+recorded/transfered by spoogles
+
+
+=====================================================================================
+
+
+Mixed in Cakewalk Sonar 5 Producer > Reason 3.0 Mastering Suite > Flac > YOU!
+by danthefly
+
+=====================================================================================
+
+
+Notes:  Airbag is a little funky, because the Baracus source doesnt fade in until
+about a minute into the song,  by the time we get to National Anthem the sound is
+good and stays good.
+
+
+Also on a funny note,  just before Bangers N Mash you can hear some girl say "feel
+my boobs" or something like that,  lol:)
+
+
+-------------------------------------------------------------------------------------
+
+
+Ah yeah.  This is my second release of a Radiohead 3 source mix from the 2006 tour.
+All done with lossless files and released with permission from all 3 tapers.  
+Once again thanks a million to the banditos with good mics who recorded these great
+tapes,  the shear amount of recordings on this tour have been staggering.  Cheers
+to the Ateaseweb message board,  Purelivegigs.com  and Dimeadozen!
+
+Seed long and prosper!
+
+
+=====================================================================================
+
+Track List
+
+00 - Intro
+01 - Airbag
+02 - The National Anthem
+03 - Where I End And You Begin
+04 - 15 Step
+05 - Exit Music (for a film)
+06 - Bodysnatchers
+07 - My Iron Lung
+08 - Go Slowly
+09 - Videotape
+10 - I Might Be Wrong
+11 - Climbing Up the Walls
+12 - All I Need
+13 - Pyramid Song
+14 - Spooks
+15 - Idioteque
+16 - Myxomatosis
+17 - Bangers N Mash
+18 - Bones
+
+19 - (crowd noise)
+
+20 - Like Spinning Plates
+21 - A Wolf At The Door
+22 - Down is the New Up
+23 - Fake Plastic Trees
+
+24 - (crowd noise)
+
+25 - Nude
+26 - Everything in its Right Place
+
+
+=====================================================================================
+
+
+compiled by danthefly 2006-07-02
+
+dan_ross@hotmail.com
+www.myspace.com/danrossmusic
+
+
+
+
+ 

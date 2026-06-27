@@ -1,0 +1,29 @@
+DEFTONES
+Corona Capital festival
+Autódromo Hermanos Rodríguez, Mexico City, Mexico
+2025-11-16
+
+Lineage: livestream > yt-dlp > .mp4
+Video: 1920x1080, VP9, 30 fps
+Audio: Stereo, AAC, 192 kb/s
+
+Setlist:
+
+my mind is a mountain
+locked club
+Be Quiet and Drive (Far Away)
+My Own Summer (Shove It)
+Rocket Skates
+Sextape
+Genesis
+ecdysis
+Rosemary
+Hole in the Earth
+infinite source
+Swerve City
+Change (In the House of Flies)
+cut hands
+milk of the madonna
+Entombed
+Engine No. 9
+7 Words

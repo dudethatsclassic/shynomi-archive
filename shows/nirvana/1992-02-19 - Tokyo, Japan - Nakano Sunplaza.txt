@@ -1,0 +1,59 @@
+NIRVANA
+February 19, 1992
+Nakano Sunplaza
+Tokyo, Japan
+
+DISC #1/1 (62:56)
+-----------------
+01) Negative Creep
+02) Been A Son
+03) On A Plain
+04) Blew
+05) Come As You Are
+06) Lithium
+07) Breed
+08) Sliver
+09) Drain You
+10) About A Girl
+11) School
+12) Aneurysm
+13) Love Buzz
+14) Polly
+15) Territorial Pissings
+16) Smells Like Teen Spirit
+
+GENERATION
+-----------------
+ANA(M) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> Aiwa
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+st5 FINGERPRINTS
+-----------------
+80b6bb9a69b937e44e7de8b7d9d6166f  [shntool]  01) Negative Creep.flac
+d66704854241e25eb7ee71f49c8a6643  [shntool]  02) Been A Son.flac
+4f1e825dc8da33c0a63fcbe096357d21  [shntool]  03) On A Plain.flac
+3d9c36d65ce5323883b0aca705c59ffc  [shntool]  04) Blew.flac
+346977e2d928584cec5cb78baab3850c  [shntool]  05) Come As You Are.flac
+0339ac7c35c4cf4d4504282225ae834f  [shntool]  06) Lithium.flac
+f20695eee1d1a0199f809de2c32f52e5  [shntool]  07) Breed.flac
+ade2395f39acce19a8e8537c2c498127  [shntool]  08) Sliver.flac
+cecc34b0eda1565bb2e0d65eabcd4daf  [shntool]  09) Drain You.flac
+a658ef2b3be5daff44bd06475e0fce91  [shntool]  10) About A Girl.flac
+b72ffa9a6ef817f1111f00d55f5338f5  [shntool]  11) School.flac
+300cb24c206bbe7b50aab0bba952fe68  [shntool]  12) Aneurysm.flac
+77e4d49422fbb767cab22ae38037c566  [shntool]  13) Love Buzz.flac
+dc416af1e424131050bce8c9765d26c2  [shntool]  14) Polly.flac
+5facb422d457b3ccefe57601b298ea93  [shntool]  15) Territorial Pissings.flac
+5aae94e566f80d4e12f9049374d37db9  [shntool]  16) Smells Like Teen Spirit.flac
+
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

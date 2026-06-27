@@ -1,0 +1,69 @@
+Radiohead 08/07/01 Madison Square Garden - New York, New York
+
+Source:         DAUD/FOB Schoeps mk4(ortf)->kc5 actives->cmc5->Sonosax SX-M2 (+30dB)->
+                SBM-1->D7@44.1kHz
+                Master (from D7) used in below transfer
+                
+Conversion:     Tascam DA-20 > Apogee Coax > Digigram VX/Pocket > Soundforge 5.0 (Fade in/outs) > 
+                CD Wave > mkwACT v0.97
+                (shn files have seek tables appended)
+                **No DAE or resampling at all**                 
+
+Detailed info:  Sec. 8, Row B, Seat 6; directly in front (just inside) of left stack
+                Capsules ORTF in backwards mesh hat (Mulvey hat) at about 6'2'' or so.          
+
+Minor Edits:    Fades in/out beg/end of sets--3 sec in all cases
+
+Tapers: Beau Colburn and Chris Preston
+Transferred and uploaded by Jim Raras <jraras@yahoo.com> via Dankseeds
+Please contact me with questions etc.
+
+____________________________________________________________________________
+
+*Dankseed Certification received 01-08-13*
+and posted at http://groups.yahoo.com/group/dankseeds/files/rh01-08-07/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+Disc 1
+
+01. National Anthem
+02. Morning Bell
+03. My Iron Lung
+04. Karma Police
+05. Knives Out
+06. Permanent Daylight
+07. Climbing Up The Walls
+08. No Surprises
+09. Dollars & Cents
+10. Packt Like Sardines In A Crushd Tin Box
+11. Fake Plastic Trees
+12. I Might Be Wrong
+13. Follow Me Around (Thom solo on piano) > Pyramid Song
+14. Paranoid Android
+15. Idioteque
+
+Disc 2:
+
+01. Everything In Its Right Place
+02. Encore break/crowd noise
+03. Lucky (preceeded by false start)
+04. Optimistic
+05. You And Whose Army?
+06. How To Disappear Completely
+07. Encore 2 break/crowd noise
+08. Talk Show Host
+09. Street Spirit
+10. Exit Music
+

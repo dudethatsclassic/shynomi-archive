@@ -1,0 +1,37 @@
+
+*** MediaInfo Mac // Plain text file report
+2009-06-03 20:08:25 -0400
+Information for File: VTS_01_1.VOB
+
+General / Container Stream # 1
+	Total Video Streams for this File -> 1
+	Total Audio Streams for this File -> 1
+	Video Codecs Used -> MPEG-2 Video
+	Audio Codecs Used -> AC3
+	File Format -> MPEG-PS
+
+Video Stream # 1
+	Codec (Human Name) -> MPEG Video
+	Codec Profile -> Main@Main
+	Frame Width -> 704 pixels
+	Frame Height -> 480 pixels
+	Frame Rate -> 29.970 fps
+	Display Aspect Ratio -> 4/3
+	Video Standard -> NTSC
+	Scan Type -> Interlaced
+	Scan Order -> TFF
+	Colorimetry -> 4:2:0
+	QF (like Gordian Knot) -> 0.947
+	Codec Settings (Matrix) -> Default
+	Video Stream Length -> 30mn 43s 842ms
+	Video Stream BitRate -> 4 078 Kbps
+	Video Stream BitRate (Nominal) -> 9 586 Kbps
+	Video Stream BitRate Mode -> CBR
+Audio Stream # 1
+	Codec -> AC-3
+	Audio Stream BitRate -> 256 Kbps
+	Audio Stream BitRate Mode -> CBR
+	Number of Audio Channels -> 2
+	Audio Channel's Positions -> L R
+	Sampling Rate -> 48.0 KHz
+	Audio Stream Delay -> 228ms

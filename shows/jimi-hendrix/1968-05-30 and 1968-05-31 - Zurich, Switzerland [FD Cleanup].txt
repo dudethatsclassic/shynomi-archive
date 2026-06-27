@@ -1,0 +1,37 @@
+1968-05-30 and 1968-05-31
+"Monster Konzert", Hallenstadion, Zurich, Switzerland
+[FD Cleanup]
+
+1968-05-30
+
+1 - Intro [Edited]
+2 - Tax free - Intro distortion and drop out.
+3 - Fire 
+4 - Hey Joe
+5 - Foxy lady
+6 - Red house 
+7 - Purple haze 
+
+Lineage: CTT FLAC> Adobe Audition (NR, EQ, Comp) > FLAC
+First source recorded by Arnold Soder on cassette (Philips C-90) using a Philips deck.
+
+1968-05-31
+
+1 - Intro
+2 - Voodoo Child 
+3 - Stone free
+4 - I Don't Live Today
+5 - Red House 
+6 - Hey Joe
+7 - Foxy lady
+8 - Manic depression
+9 - Fire
+10 - Purple haze
+11 - Manic depression [FD Stereo Merge of 1st and 2nd Sources]
+
+Lineage: ATM 053 FLAC> Adobe Audition (NR, EQ, Comp) > FLAC
+First source recorded by Roland Grundmann.
+Merge was created using the 2nd Source from Right Channel of TG Merge - which was cleaned up and then timestretched to cleaned up first source - mixed to stereo.
+
+Both of the raw sources are pretty rough and would be considered as reasonable to good. Did my best to tidy up without being overbearing. Removed some of the extraneous noise, edited out some of the mic noise when possible. With the sources being what they are and all that echo - don't expect miracles...Compare to raw sources to hear the differences.
+First show - I used only the section of intro after JHE was introduced. 

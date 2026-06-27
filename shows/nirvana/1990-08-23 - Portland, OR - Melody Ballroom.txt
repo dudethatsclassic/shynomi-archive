@@ -1,0 +1,54 @@
+NIRVANA
+August 23, 1990
+Melody Ballroom
+Portland, OR
+
+SOURCE (AUD #1):
+built-in > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+42:19
+
+NOTES:
+- "School" is cut due to a tape flip.
+
+TRACKS:
+01. jam (cuts in)
+02. Love Buzz
+03. Floyd The Barber
+04. Scoff
+05. Dive
+06. In Bloom
+07. Spank Thru
+08. About A Girl
+09. School (cut)
+10. Lithium
+11. Been A Son
+12. Negative Creep
+13. Blew
+
+MD5 FINGERPRINTS:
+292edc783872f0e44aeff3eccd1757a2 *Nirvana_1990-08-23_AUD1_t01.flac
+9b30f17c66b7a83165496b0a5e7d6333 *Nirvana_1990-08-23_AUD1_t02.flac
+7f30cfcb709c55bc0334006b7a2e886f *Nirvana_1990-08-23_AUD1_t03.flac
+57fb57f94c2148e8321666c1f2f0695c *Nirvana_1990-08-23_AUD1_t04.flac
+97dbd9d0b62247b04b3fd6a7b8945b3c *Nirvana_1990-08-23_AUD1_t05.flac
+8353f3a1f6bc800d21c538faff2ea992 *Nirvana_1990-08-23_AUD1_t06.flac
+be234dd31e4c66382b95109325b04689 *Nirvana_1990-08-23_AUD1_t07.flac
+0b24eecad01b600447298a5663a6d0dc *Nirvana_1990-08-23_AUD1_t08.flac
+2a72eb67b7bf406d8321e0dc551488db *Nirvana_1990-08-23_AUD1_t09.flac
+338240a23d4204063f66d6c7af93597d *Nirvana_1990-08-23_AUD1_t10.flac
+bf638dbaa9a2ef8fe49f67e9301f13f3 *Nirvana_1990-08-23_AUD1_t11.flac
+ec6045ea50cee5e559f998cff6a74e45 *Nirvana_1990-08-23_AUD1_t12.flac
+ac1c6e097be267721ff1451ed26a7d92 *Nirvana_1990-08-23_AUD1_t13.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,77 @@
+NIRVANA
+October 30, 1992
+Estadio José Amalfitani
+Buenos Aires, Argentina
+
+SOURCE (PRO #1b):
+soundboard > unknown
+
+EXTRACTION:
+PHILIPS CDRW48A > Exact Audio Copy V1.0 beta 3 > Adobe Audition 1.5 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(1) > ANA(1) > CDR(4) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+83:33
+
+NOTES:
+- This desperately needed speedcorrection varying between 2% upto 8% for "On A Plain", therefore the total time is 2 minutes shorter than the CDR.
+- The sound is very overdriven because of a brickwalled recording.
+
+TRACKS:
+01. unknown
+02. Aneurysm
+03. Smells Like Teen Spirit (part of)
+04. Breed
+05. Smells Like Teen Spirit (part of)
+06. Drain You
+07. Beeswax
+08. Spank Thru
+09. School
+10. Come As You Are
+11. Lithium
+12. Lounge Act
+13. Sliver
+14. About A Girl
+15. Polly
+16. jam
+17. In Bloom
+18. Territorial Pissings
+19. Been A Son
+20. On A Plain
+21. Negative Creep (cuts in)
+22. Blew
+23. All Apologies
+24. Endless, Nameless
+
+MD5 FINGERPRINTS:
+d4de11b548474b9b51751843003918a3 *Nirvana_1992-10-30_PRO1b_d1t01.flac
+f6a2a1fdb750adb6cd128776298ae5db *Nirvana_1992-10-30_PRO1b_d1t02.flac
+f2b7349da62a6ff5dba435fa77085344 *Nirvana_1992-10-30_PRO1b_d1t03.flac
+664f4f1ebb7347cd49cc13ecaee1a1fe *Nirvana_1992-10-30_PRO1b_d1t04.flac
+d5bc6b52841954bee06ae50b28b8639e *Nirvana_1992-10-30_PRO1b_d1t05.flac
+520fde2d2203369b9a9840e5297f858d *Nirvana_1992-10-30_PRO1b_d1t06.flac
+9bbaad21e2b5ac3ca045f1bd111804c6 *Nirvana_1992-10-30_PRO1b_d1t07.flac
+176c8f11c908ad2ea388e56c79339dce *Nirvana_1992-10-30_PRO1b_d1t08.flac
+8498c09410798e41ebd723a7b37788ca *Nirvana_1992-10-30_PRO1b_d1t09.flac
+2bbf31098f7ba9a643b0b0d0dfefc6bd *Nirvana_1992-10-30_PRO1b_d1t10.flac
+5d2931d898ae7182361ffaf6f5cc3152 *Nirvana_1992-10-30_PRO1b_d1t11.flac
+eacbc4c0d427d6625908bb425b09afa6 *Nirvana_1992-10-30_PRO1b_d1t12.flac
+cdb0adfba9a5d5122eb8bb176d65b0de *Nirvana_1992-10-30_PRO1b_d1t13.flac
+7cfb7241c472ecf362f999d7b3ab4041 *Nirvana_1992-10-30_PRO1b_d1t14.flac
+b724792a193468a978deabb91f5cfc2d *Nirvana_1992-10-30_PRO1b_d1t15.flac
+a8c05a2088df9b8f9a0c41c2b0448cf6 *Nirvana_1992-10-30_PRO1b_d2t01.flac
+a923dc125b0f65bb3e5491e2eea8599f *Nirvana_1992-10-30_PRO1b_d2t02.flac
+72dc29580bcf5d94fc9d3dd6b0ec5784 *Nirvana_1992-10-30_PRO1b_d2t03.flac
+7dd8b04c9b905f09226ba7643364c051 *Nirvana_1992-10-30_PRO1b_d2t04.flac
+8240856944992010fa4bfe24674217da *Nirvana_1992-10-30_PRO1b_d2t05.flac
+bfd0d52e22fda58df877ef6e48ab99d0 *Nirvana_1992-10-30_PRO1b_d2t06.flac
+3d587c638eeaf13190249848f1098916 *Nirvana_1992-10-30_PRO1b_d2t07.flac
+3dba1dedfe9bf0280ffc885f8dbd9eec *Nirvana_1992-10-30_PRO1b_d2t08.flac
+88f8ce7269c0945c11400cb02942b64b *Nirvana_1992-10-30_PRO1b_d2t09.flac
+
+EXTRACTED BY:
+Pieter Vermeulen
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

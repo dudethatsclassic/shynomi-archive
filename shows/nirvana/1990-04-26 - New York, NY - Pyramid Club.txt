@@ -1,0 +1,60 @@
+NIRVANA
+April 26, 1990
+Pyramid Club
+New York, NY
+
+DISC #1/1 (52:29)
+-----------------
+01) intro
+02) School
+03) Floyd The Barber
+04) Love Buzz
+05) Dive
+06) Spank Thru
+07) Breed
+08) About A Girl
+09) Big Cheese
+10) In Bloom
+11) Scoff
+12) Been A Son (part of)
+13) Been A Son
+14) Stain (cut)
+15) Negative Creep
+
+GENERATION
+-----------------
+ANA(1) -> CDR(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#2)
+-----------------
+Sony PC-62 -> Sony WM-D3
+
+TRANSFER
+-----------------
+Nakamichi CR-2A -> Harmon-Kardon CDR 26
+
+EXTRACTION
+-----------------
+Plextor PlexWriter PX-W4824A -> Exact Audio Copy V0.95 -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+a320dba8fe65e38e5f99872c593635d3 *nirvana1990-04-26t01.flac
+430dd61e12d939c103e5b28bf1eb82f3 *nirvana1990-04-26t02.flac
+c73b5fc457ffbef7a0daa1adfe11a759 *nirvana1990-04-26t03.flac
+bcadd190332c1bd436c8ac8f2e09b379 *nirvana1990-04-26t04.flac
+a8e3d2d56e15ac688db96709267d6321 *nirvana1990-04-26t05.flac
+5b22f137575856f43a644fca6d540e98 *nirvana1990-04-26t06.flac
+be6f979088ead6676226e6e5a83e906c *nirvana1990-04-26t07.flac
+81d051bb33554a77b9878531e20b1cf6 *nirvana1990-04-26t08.flac
+646e76ed43c4afa227828a5a8447e66e *nirvana1990-04-26t09.flac
+4fefb74b3f69091db8dea32604ab482e *nirvana1990-04-26t10.flac
+b6e386fd944a5dbdf6fea2f6b9b58714 *nirvana1990-04-26t11.flac
+82796fbf461ebf3f33d4e0b1013fa0d3 *nirvana1990-04-26t12.flac
+53cb913dd5641bd6754a54085be08b6d *nirvana1990-04-26t13.flac
+3760659cb0de851370bec179590b64dd *nirvana1990-04-26t14.flac
+0005c01582ff5a6bbf4993d378641316 *nirvana1990-04-26t15.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

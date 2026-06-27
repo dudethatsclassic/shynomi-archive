@@ -1,0 +1,32 @@
+Crash Test Dummies
+Alabama Hall, Munich, Germany
+July 11, 1994
+
+ProShot DVD
+
+Video:   MPEG-2, 720x576 25 fps (4:3) PAL, 4490 kbps
+Audio:   MPEG-1 Audio Layer-2, 48 kHz Stereo, 192 kbps
+
+Lineage: DigiSat BC (Astra DVB-S) >Kathrein UFS 821 >ts >USB >PC HDD >ProjectX 0.90.4
+         >m2v/mp2 >Cuttermaran v1.68a >m2v/mp2 >TMPGEnc DVD Author v2.0 >VIDEO_TS
+
+Length:  45:05 min.
+
+Menu:    Chapters
+
+Tracklist (Chapters):
+  01 God Shuffled His Feet
+  02 In The Days Of The Caveman
+  03 I Think I'll Disappear Now >
+  04 How Does A Duck Know
+  05 When I Go Out With Artists
+  06 Swimming In Your Ocean
+  07 If I Had My Way
+  08 Mmm Mmm Mmm Mmm
+  09 Super Man
+  10 Afternoons & Coffeespoons
+  
++--------------------------------------------+
+! This recording is brought to you freely by !
+!     U:S:E -- Usual Suspects of Europe      !
++--------------------------------------------+

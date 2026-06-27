@@ -1,0 +1,58 @@
+Radiohead
+Astoria Theater
+London, England
+3 September 1997 
+
+Source: unknown mic -> D6 -> ANA-M -> DAT -> CDR -> Cool Edit Pro -> Flac Frontend
+
+Setlist:
+01 Fitter, Happier
+02 Airbag
+03 Karma Police
+04 My Iron Lung
+05 Banana Co.
+06 Paranoid Android
+07 Talk Show Host
+08 Maquiladora
+09 Subterranean Homesick Alien
+10 No Surprises
+11 Nobody Does it Better (tease)
+12 Just
+13 Lurgee
+14 The Bends
+15 Exit Music (For A Film)
+16 Motion Picture Soundtrack
+17 Nobody Does it Better
+18 Thom: "Thanks for the soup."
+19 A Reminder
+20 Fake Plastic Trees
+
+Comments: Secret w.a.s.t.e. gig
+Not a very clean recording.  Lots of tape hiss.
+Thom performs despite being ill from food poisoning.
+Cool Edit used to remove repeats
+Artwork included	
+
+Seeded by Fordspeak
+2004-08-28
+
+rh1997-09-03t01.flac:4fc959535f77659cf5638cdfc49ee8e7
+rh1997-09-03t02.flac:6399306e33b60f5a4fe503e1118d3f8d
+rh1997-09-03t03.flac:942637a25ca991858fd358841c453668
+rh1997-09-03t04.flac:7c237becbc09a9ab7e0d55d0810c33bd
+rh1997-09-03t05.flac:af7e915deea888162bf1ac458db93704
+rh1997-09-03t06.flac:6122cbd3b9098e9800f59087e2abc7e9
+rh1997-09-03t07.flac:993d14d8caacedaddb65c3f86fe4d9d1
+rh1997-09-03t08.flac:e4ce962fd2d93119f022b08385e9f3f8
+rh1997-09-03t09.flac:8d2a6272ced327290231d9cd01c018a0
+rh1997-09-03t10.flac:271e5904d0f86c5fe2072f4a32972582
+rh1997-09-03t11.flac:d585dd28ec9103a58e3eebf28d02beeb
+rh1997-09-03t12.flac:e58ec9a239bdfb4e388c7d940afda22e
+rh1997-09-03t13.flac:fbb724340ec2309dc09b742d21965f23
+rh1997-09-03t14.flac:b25b2c7f2ae4a639b58053b495d134cc
+rh1997-09-03t15.flac:67d8a9631c9c2d6596afa5a007c62965
+rh1997-09-03t16.flac:fe2bc87e449b35dae2a9ff7ab9839351
+rh1997-09-03t17.flac:cc316b001d56c2be4099f772d560d7c1
+rh1997-09-03t18.flac:002999c036a578f8a5fe725b6794970b
+rh1997-09-03t19.flac:c3323d3e38485f89e2c07e10ea09405e
+rh1997-09-03t20.flac:84247d9f4e54b8fbcc64d173c3d26a32

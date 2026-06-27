@@ -1,0 +1,60 @@
+Radiohead
+2008.05.11
+May 11th, 2008	
+Bristow, VA, USA	
+Nissan Pavilion
+
+
+Taper:		Joe Cooper (jdcooper@bucknell.edu) (db.etree.org/thierryhenry/)
+Location:		FOB, DFC. Section 102, Row J, Seat 8.
+Source:		SP-CMC-8 (AT933's) > SP-SPSB-6 (Bass Roll Off @ 69Hz) > IRiver IHP-120 (Rockbox, 44.1 Khz)
+Transfer:		Iriver IHP-120 > USB Cable > PC (USB IN) > Sony Vegas 8.0 (Volume Increase, Normalize) > CD Wave (44.1 Khz, 16 Bit, Stereo) (Track Splits) > WAV > FLAC Frontend 8 > FLAC (Level 8) > Md5Summer
+Filesize:		1.24 GB WAV, 656 MB FLAC
+
+<><><><><><><><><><><><><><><><>
+--------------------------------------------
+Please Do Not Convert To Mp3.
+Please Do Not Sell.
+Please Attach This File When Distributing.
+--------------------------------------------
+<><><><><><><><><><><><><><><><>
+
+Setlist:
+
+01:	Intro/PA Music			- 		01.29.49
+02:	All I Need				-		04.30.14
+03:	Jigsaw Falling Into Place		-		04.38.15
+04:	Lucky				-		04.08.19
+05:	15 Step				-		04.08.17
+06:	Nude				-		04.50.32
+07:	Pyramid Song			-		05.07.53
+08:	Weird Fishes/ Arpeggi		-		05.33.16
+09:	Myxomatosis			-		03.51.70
+10:	Idioteque				-		04.24.09
+11:	Faust Arp				-		03.20.61
+12:	Videotape				-		05.13.30
+13:	Paranoid Android			-		06.37.39
+14:	Just				-		04.25.66
+15:	Reckoner				-		05.22.74
+16:	Everything In Its Right Place		-		04.27.72
+17:	Bangers & Mash			-		04.39.64
+18:	Bodysnatchers			-		04.05.68
+19:	Encore				-		02.32.57
+20:	Like Spinning Plates			-		04.23.21
+21:	Optimistic				-		05.05.49
+22:	Karma Police			-		04.11.29
+23:	Encore				-		00.32.68
+24:	Go Slowly				-		04.11.72
+25:	Planet Telex			-		04.12.61
+26:	Encore				-		03.46.12
+27:	Fake Plastic Trees			-		04.57.26
+28:	The National Anthem		-		05.09.39
+29:	House Of Cards			-		06.06.32	
+				
+Total: 					-		126.06.34
+
+Notes: 
+
+Considerable Wind Noise Throughout The Tape, Forgot The Windscreens
+In The Car :( Horrific Day/Night Turned Out To Be A Great Performance
+And Setlist. The Boys Were In Rare Form, So Was The Weather.

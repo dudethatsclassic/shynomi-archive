@@ -1,0 +1,28 @@
+KURT COBAIN
+May 1991
+Oakwood Apartment
+Los Angeles, CA
+
+DISC #1/1 (03:23)
+-----------------
+01) Rape Me
+
+SOURCE (AUD #1)
+-----------------
+unknown -> unknown
+
+GENERATION
+-----------------
+Official CD "With The Lights Out, CD3" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+6d55b9dd071a32ae7bab4188678c5f62 *Kurtcobain_1991-05-xx_AUD1_t01.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

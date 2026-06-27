@@ -1,0 +1,38 @@
+NIRVANA
+October 3, 1992
+Sam Carver Gymnasium, Western Washington University
+Bellingham, WA
+
+DISC #1/1 (17:10)
+-----------------
+01) Drain You (cut)
+02) Jesus Wants Me For A Sunbeam
+03) School
+04) Stain
+05) On A Plain
+06) Endless, Nameless (cut)
+
+GENERATION
+-----------------
+ANA(1) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Sony PCM-R300 -> Echo Mia -> Cool Edit Pro 2.0 -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+0717bd49cbda70bf9ad437cd5384a8ce *nirvana1992-10-03t01.flac
+3bb2b86627354a616e98b0ee8b6c0570 *nirvana1992-10-03t02.flac
+6d75b8eabd8c3366989bf68d33b34433 *nirvana1992-10-03t03.flac
+7d55e3b3e1895f036d5b2f8a6269d15b *nirvana1992-10-03t04.flac
+2ba53e6706a1e7e7e6ed44df7301dfe5 *nirvana1992-10-03t05.flac
+6976e3d462ddc9333370604c4874c29c *nirvana1992-10-03t06.flac
+
+
+Transferred by John Dionysus.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

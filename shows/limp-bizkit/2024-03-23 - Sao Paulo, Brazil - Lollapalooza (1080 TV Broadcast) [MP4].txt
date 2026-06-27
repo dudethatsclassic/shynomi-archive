@@ -1,0 +1,57 @@
+General
+Complete name                            : E:\Torrents\Limp Bizkit - 2024-03-23 - Lollapalooza - Sao Paulo, Brazil - TV Broadcast [1080p]\limpbizkit_lollapalooza2024.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom (qt  )
+File size                                : 3.44 GiB
+Duration                                 : 1 h 0 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 8 193 kb/s
+Frame rate                               : 30.000 FPS
+
+Video
+ID                                       : 2
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Constrained Baseline@L4
+Format settings                          : 1 Ref Frames
+Format settings, CABAC                   : No
+Format settings, Reference frames        : 1 frame
+Format settings, GOP                     : M=1, N=60
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1 h 0 min
+Bit rate                                 : 7 996 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 30.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.129
+Stream size                              : 3.36 GiB (98%)
+Language                                 : English
+Codec configuration box                  : avcC
+
+Audio
+ID                                       : 1
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : mp4a-40-2
+Duration                                 : 1 h 0 min
+Duration_LastFrame                       : 21 ms
+Bit rate mode                            : Variable
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 81.4 MiB (2%)
+Language                                 : English
+Default                                  : Yes
+Alternate group                          : 1
+

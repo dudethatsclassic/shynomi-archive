@@ -1,0 +1,41 @@
+NIRVANA
+January 2, 1992
+Salem Armory
+Salem, OR
+
+SOURCE (AUD #1):
+built-in > Panasonic RQ-L305
+
+TRANSFER:
+Nakamichi DR-8 > Tascam DA-30mkII > Echo Layla24 > Cool Edit Pro 2.0 > CD Wave 1.93 beta > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+28:26
+
+TRACKS:
+01. Smells Like Teen Spirit (cuts in)
+02. About A Girl
+03. Polly
+04. Sliver
+05. Breed
+06. Come As You Are
+07. Lithium
+08. Territorial Pissings
+
+MD5 FINGERPRINTS:
+58fa5f87885babc789ad460e711dc854 *Nirvana_1992-01-02_AUD1_t01.flac
+dc0752a4d4a268eee3da713a7286e357 *Nirvana_1992-01-02_AUD1_t02.flac
+40a2c5a7a387af2fd5559d937f9e4e1c *Nirvana_1992-01-02_AUD1_t03.flac
+780a74a7be7f640495ce17598240ec39 *Nirvana_1992-01-02_AUD1_t04.flac
+bbb8b8dbd5513605a836a8a5c9e63eab *Nirvana_1992-01-02_AUD1_t05.flac
+2ddb0759ed7945c9f4f427f1abbbf1e3 *Nirvana_1992-01-02_AUD1_t06.flac
+0666a6a0ead1b5ebb6b439336d3ddab9 *Nirvana_1992-01-02_AUD1_t07.flac
+303238f39f17bcfa6876548e036f3803 *Nirvana_1992-01-02_AUD1_t08.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

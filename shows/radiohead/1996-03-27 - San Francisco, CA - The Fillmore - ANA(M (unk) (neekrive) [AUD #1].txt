@@ -1,0 +1,33 @@
+RADIOHEAD
+March 27, 1996
+The Fillmore
+San Francisco, CA, USA
+
+Source: unknown analog audience audio (AUD #1)
+Lineage: ANA(M) > WAV > AIFF > edited in Audacity > tracks split in CDWAV > FLAC
+Quality: 7.0
+Time: 78:32
+
+Setlist: 
+01. intro (O Superman)
+02. The Bends
+03. Bones (cuts out)
+04. Anyone Can Play Guitar (cuts in)
+05. Bulletproof.. I Wish I Was
+06. Lucky
+07. Creep
+08. My Iron Lung
+09. Lift
+10. (Nice Dream)
+11. Electioneering
+12. Planet Telex
+13. High and Dry (cut within)
+14. Just
+15. Fake Plastic Trees
+16. encore break
+17. Killer Cars (Thom solo)
+18. You
+19. I Promise (live debut!)
+20. Blow Out
+
+Notes: Great setlist, with 4 new songs including the live debut of "I Promise". There are several cuts in this recording and "Street Spirit" is suspiciously absent, leading me to believe that this recording is missing at least one song. Not a great recording but not terrible either. From the neekrive archive; you can find the source files here: https://archive.org/details/radiohead-fillmore-32796

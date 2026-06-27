@@ -1,0 +1,50 @@
+Radiohead
+The Metro, Chicago, IL US 
+April 4, 1996
+
+1080p stream captured using ffmpeg
+
+01) My Iron Lung
+02) Bones
+03) Electioneering
+04) Black Star
+05) Lucky
+06) Street Spirit (fadeout)
+07) Planet Telex
+08) Anyone Can Play Guitar
+09) Nice Dream
+10) High & Dry
+11) Lift
+12) Creep
+13) Just
+14) The Bends
+encore
+15) Bullet Proof..I Wish I Was
+16) Fake Plastic Trees
+17) Blow Out
+
+
+General / Container Stream
+	Video Codecs Used -> AVC
+	Audio Codecs Used -> AAC LC
+	File Format -> MPEG-TS
+	Play Time -> 1h 25mn
+	Total File Size -> 3.35 GiB
+	Total Stream BitRate -> 5 634 Kbps
+Video Stream
+	Codec (Human Name) -> AVC
+	Codec Profile -> High@L4.0
+	Frame Width -> 1 920 pixels
+	Frame Height -> 1 080 pixels
+	Display Aspect Ratio -> 16/9
+	Scan Type -> Progressive
+	Video Stream Length -> 1h 25mn 1s 900ms
+	Bit Depth -> 24 bits
+	Video Encoder -> x264 
+Audio Stream
+	Codec -> AAC
+	Audio Stream Length -> 1h 25mn 1s 809ms
+	Audio Stream BitRate Mode -> VBR
+	Number of Audio Channels -> 2
+	Sampling Rate -> 44.1 KHz
+	Bit Depth -> 16 bits

@@ -1,0 +1,136 @@
+The Jimi Hendrix Experience
+The Scene
+Milwaukee, WI, USA
+February 28, 1968 
+
+A Goody Speed/Pitch-adjusted Remaster of the following:
+
+"The Scene, Milwaukee, WI 28/II/1968 - Fixed" 
+(Collector's Disc <MP>, 10/II/2005)
+
+Original lineage:
+- Audience recording (2nd transfer) - MASTER - digitally restored ***
+- 1st Show (complete) & 2nd show (almost complete).
+
+Original notes - April 2008:
+*** The volume levels on the raw source version were 
+a bit uneven, but these problems have been fixed here.
+
+- This is the "re-transfer version" (2nd transfer). 
+  The version featured on ATM 004 "Live in Milwaukee" 
+  (1st generation) and Jon's Attic 042-043 (master) are 
+  both from the initial (1st) transfer.
+
+Goody's additional lineage - December 2020:
+TLH (WAV) > Audition (Pitch Bender, various amounts; Levels adjusted; Tracking updated; Channels aligned & centered ) >
+TLH (FLAC Level 8; Align sector boundaries; .ffp) > foobar2000 (tags)
+
+
+Jimi Hendrix: guitar, vocals
+Mitch Mitchell: drums
+Noel Redding: bass
+
+
+Track list:
+Disc 1
+01. Intro, tuning 1:56
+02. Tax Free 8:28
+03. Fire 2:39
+04. Red House 5:42
+05. Foxy Lady 6:04
+06. The Wind Cries Mary 4:33
+07. Can You Please Crawl Out Your Window? 5:11
+08. Purple Haze 6:12
+Runtime: 40:46
+
+Disc 2
+01. Intro, tuning 1:49
+02. Bold As Love (instrumental) > 3:58
+03. Sgt. Pepper's Lonely Hearts Club Band 2:03
+04. Spanish Castle Magic 5:53
+05. Stone Free 3:20
+06. I Don't Live Today 6:46
+07. The Burning Of The Midnight Lamp 4:37
+08. Foxy Lady 4:20
+09. Manic Depression 3:51
+10. Hoochie Coochie Man (incomplete) 4:29
+Runtime:41:06
+
+Total Runtime: 1:21:52
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- Please refer to Jimpress issue 61 p.57-58 & issue 62, p.6-13 for a comprehensive review of this tape.
+
+	http://www.jimpress.co.uk/
+	http://www.jimpress.co.uk/backissues.html
+
+
+
+- I'd also like to take the liberty of including this excellent very helpful and informative review (thanks!):
+	https://www.justasktheaxis.org.uk/reviews/2401.asp
+	From Chris Dixon's 30th Anniversary Series © C S Dixon
+
+Reviewed December 1998
+
+Even though this is not an anniversary of this Jimi date, a review is in order of the newly discovered (and, most importantly, *circulated* !!) tape of the Experience's 2 shows at 'The Scene' in Milwaukee, Wisconsin , USA on Feb. 28, 1968. This is a very unique tape. It appears that 'The Scene' is a small venue as the crowd does not sound very large (maybe a couple of hundred as opposed to the 2-3 thousand seat halls Jimi was playing early in the 68 tour. The tape has an overall 'club vibe- this would probably be one of the last, if not the last, club-sized rooms Jimi would play on a scheduled tour. One of the audible audience asides mentions a "table" (a woman is worried about running her nylons on same!) though I do not notice any ubiquitous 'clinking glass' bar-room sounds.
+
+The tape of the Milwaukee material is a bit bassy and quite distorted, especially on the louder sections, and has a sort of 'static rumble' throughout. The vocals are very low and virtually inaudible during the louder sections. We've come to expect this, though, given the under powered PA systems of the time (and the system in a small club would be really pushing it!) Still, the tonal balance is fairly good and I for one can overlook borderline quality when presented with a unique find like this! Jimi was still using Sunn speaker cabinets with Sunn and Sound City amps at this point and the JBL speakers lack the warm crunch of the Marshalls IMO. Jimi apparently was unhappy with this arrangement (he'd started the tour with Fender (briefly, probably Winterland only) then moved to Sunn) and the Marshall cabinets and at least one Marshall amp re-appear within a few weeks- certainly doesn't diminish the playing though!
+
+This tape came to me running noticeably slow. The pitch was a full 2 steps below Jimmy's usual concert tuning (already a half step below normal) and the overall tone had a (to me) an unnaturally low timbre ("..if you'll excuse me I must be on my way..."). When I raised the pitch 2 steps to match Jimi's usual tuning however it sounded too fast/ high ("...space ships, or even space people..."), so I ended up correcting it to 1/2 step below Jimi's normal pitch and this is where the voice sounds most natural to my ears. I can only deduce that Jimi tuned down a full tone on this night - rare, but not unheard of. Besides, it makes some of it lot easier to play along with on guitar as it puts, for instance, 'Red House' in the key of A, 'Foxy' in E, and 'Manic' and 'Hoochie' in G (fun to play slide to the latter!).
+
+This tape offers a number of first, last, rare, and unique performances so let's have a look:
+
+(First show setlist): Tax Free; Fire; Red House; Foxy Lady; The Wind Cries Mary; Can You Please Crawl Out Your Window?; Purple Haze
+
+-Both shows start with the sound of the taper blowing into the mic. Here, his girlfriend says " it's working, it's working!' then "shut it off, there's nobody here". He does, then it cuts back in as Jimi straps on the guitar.
+
+    The second available tape of 'Tax Free' (first was in Texas 2/16). The Experience had recorded the studio version we all know from War Heroes and SSD almost exactly a month earlier, but these early live versions lack the jazzy middle section. Played a little faster than usual here. Jimi kicks it into double time at around the 4 minute mark and after a stop, there's a short bass solo. When Jimi re-enters it builds back to double time before the finale.
+
+    Only our fourth live 'Red House', 2nd in US after it's rather out-of-tune US debut at the Fillmore West 2/3. Jimi, atypically, introduces it while playing the opening solo. Middle section just has two straight guitar solo choruses then back to the final vocal verse where we've come to expect the 'percussive chordal' bit and other excursions. This, like many of the selections from this tape, does not feature the long improvisations we would see later in the Experience's roadwork.
+
+    'Wind Cries Mary' a welcome addition to the record - a song that didn't spend much time in the live show. This is now the second to last recorded version, the last being at the Wash. DC Hilton about a week later. As usual, Jimi's Curtis Mayfield influenced 'partial chord' fills are great- the one after "..the names it has blown in the past..." is particularly breathtaking IMO!
+
+    'Can You Please Crawl...' another rarely performed number and welcome here. This takes its place as the 4th of 6 documented live versions.Jimi finishes it off with "and that ain't all"- later he'd use "shave and a haircut, two bits"!
+
+    Noel plays the riff from the Kinks 'You Really Got Me' in the lull before 'Purple Haze' and we hear Mitch start to join in before they cut it out!
+
+    'Purple Haze' gets a fairly brief feedback intro, featuring some unusual staccato effects that sound like he's drumming on the strings, or perhaps moving the pickup selector back and forth quickly. The 'dental' coda features some riffing that would be great even if it wasn't being played with his teeth! 
+
+(Second show setlist): Bold As Love; Sgt. Pepper; Spanish Castle Magic; Stone Free; I Don't Live Today; The Burning Of The Midnight Lamp; Foxy Lady; Manic Depression; I'm Your Hoochie Coochie Man
+
+    This is the only known performance of 'Bold As Love'. This is not the song proper and has no vocals but is the main riff from same, played for about 3 1/2 minutes. Jimi starts out talking over the chords ala' the Monterey Like A Rolling Stone' (some of his embellishments are in that style), introducing Noel on bass, Mitch on drums and "..me, playing the radio.."! He does some tasty wah-inflected soloing before stopping for a short drum solo...
+
+    ...which leads into 'Sgt. Pepper', another relatively seldom played song.
+
+    'Spanish Castle Magic' is one of the shortest versions on the record at only around 3 min. Brief but typically intense solo. This is only the 5th available live take of SCM, and only the second recorded US performance.
+
+    'Stone Free' also short but sweet. For his first self-penned single, he really didn't play this live all that much, especially during the period that it would've been a more-or-less current release (didn't even appear at Monterey!). Until this surfaced, we had no documented live renditions of SF for a solid year, from 5/67 to 5/68. We have more examples of SF from 1970 (7) than from '67 (4), '68 (4), or '69 (6)! Just before SF, Noel plays the riff from 'Hoochie Coochie Man'- not yet, Noel!
+
+    'I Don't Live Today' is now our 4th available one overall and second performance in the US, the first being in Chicago 3 nights earlier. A short solo in the opening gives way to Jimi's statement of the faster riff for the closing section. Once the band is locked in, it's time for some fun! Within the few short minutes of Jimi's second solo, we hear snippets of 'Shortnin Bread', 'Bonanza','The Nutcracker Suite','Cat's Squirrel', 'Outside Woman Blues' and a few others - I'll think of the names as soon as I've sent this! Sort of like Jimi's stand up act- had *me* rolling on the floor anyway!!
+
+    A very rare performance of 'Burning of the Midnight Lamp'. This is the last of (now) 5 documented performances (2 of which were for radio/TV) and so far the only US performance available. Jimi as usual does a great job of filling in for all the multitracked studio parts.
+
+    'Manic Depression' also very welcome (the 'psychedelic waltz' a personal favorite!) as the 3rd of (now) 8 live recordings. It was gone from the live show after 10/68.
+
+    Finally, 'Hoochie Coochie Man' yet another rarity. This may be the only regular Jimi concert appearance of this, though there are inconsistent listings of a 9/11/67 Stockholm version. The only others known are the BBC track, a club jam that circulates on tape/boot about which there's scarce info, and the Band of Gypsys off-the-cuff version as heard on Loose Ends. Jimi turns in a nice solo after a couple of vocal verses, then gives Noel a chorus to solo over. We start to hear Mitch soloing over a chorus but here the tape runs out............. 
+
+All in all quite a document and, despite the primitive quality, well worth adding to a collection. Hats off to Rob Lewis and Kees de Lange for the discovery and sharing of this one! We can only hope that this proves a model for the handling of future discoveries! I think it's great that we can get discoveries like this exactly as found- this one would probably be much less listenable if it had been going through analog generations for twenty years! Audio technology and instant communications being what they are these days, this could set a record for fast and wide circulation of a new find!! May there be many more (even if it does mean dozens of FTBFS updates!).... 
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
+Goody's notes:
+The circulating source of this remaster runs quite slow/flat by various degrees, with the speed/pitch changing gradually throughout each show/set.
+Set 1 was slightly less slow/flat than Set 2, as the tape recording apparently slowed down more and more throughout its transit. 
+All tracks are now in tune, although there may be small changes in the results due to the constant adjustments performed along the way in the corrective process.
+That said, despite the running static found throughout the source tape this has never sounded better with regard to the rather steady retuning now (imho!) 
+It should also be noted that as mentioned in the "justasktheaxis" review cited above (which was extremely helpful to me in working out the necessary proper speed/pitch correction
+offsets,) this is one of the small few less-common shows where Jimi was tuned down a whole-step to D rather than to his more common half-step-down detuning to E-flat.
+
+Beautiful new artwork for this edition is included, courtesy of ethiessen1 with my great thanks! Please pass it along when sharing this complete set. It's infinitely better than what
+the bootleggers will otherwise provide, once this is repurposed for sale unless they lift it to use for themselves...  
+ 
+Text for this edition updated - December 11, 2020

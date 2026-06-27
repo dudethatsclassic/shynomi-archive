@@ -1,0 +1,39 @@
+Radiohead 
+Live at Cynthia Woods Mitchell Pavilion
+Houston, TX  6-18-01
+
+Optimus Condensers (AB Stereo) > Sony D8 (44.1)
+12th Row, 3 Seats Left of Center
+
+Mastering:  Sony DTC-790 (toslink) > Hosa Optical to SPDIF Converter (SPDIF) > Opcode SonicPort (USB) > CoolEdit Pro (light EQ, normalizing) > CD Architect
+
+Taper: D. Cox
+
+CD 1
+1. The National Anthem
+2. Morning Bell
+3. Lucky
+4. My Iron Lung
+5. Knives out
+6. Packt Like Sardines in a Crushd Tin Box
+7. Bones
+8. Exit Music (For a Film)
+9. No Surprises
+10. Dollars & Cents
+11. Karma Police
+12. I Might Be Wrong
+13. Pyramid Song
+14. Paranoid Android
+15. Idioteque
+16. Everything in Its Right Place
+
+CD 2
+1. Encore 1: You and Whose Army
+2. Street Spirit
+3. Climbing Up the Walls
+4. How to Disappear Completely
+5. Encore 2: Talk Show Host
+6. The Bends
+
+Master CD-R > EAC Secure Mode > MKW 0.97 Beta 1 > SHN 
+7/2/01

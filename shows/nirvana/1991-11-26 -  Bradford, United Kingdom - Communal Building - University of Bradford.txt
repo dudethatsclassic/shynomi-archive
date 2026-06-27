@@ -1,0 +1,66 @@
+NIRVANA
+November 26, 1991
+Communal Building, University of Bradford
+Bradford, United Kingdom
+
+DISC #1/1 (59:54)
+-----------------
+01) intro
+02) Drain You (cut)
+03) Aneurysm
+04) School
+05) Floyd The Barber
+06) Smells Like Teen Spirit (cut)
+07) About A Girl (cut)
+08) Polly
+09) Lithium (cut)
+10) Sliver
+11) Breed
+12) Talk To Me
+13) D-7
+14) Been A Son
+15) Negative Creep
+16) On A Plain
+17) Blew
+18) Something In The Way (cut)
+19) Jesus Wants Me For A Sunbeam
+20) Territorial Pissings (cut)
+
+GENERATION
+-----------------
+ANA(4) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+7b4d6a5c39f9e580d912ffcd9442a6e1 *nirvana1991-11-26t01.flac
+a6f553aa2b0f06bff5139e7721c5160c *nirvana1991-11-26t02.flac
+973a5bfe55f484b6d910de9e0b1ca2b2 *nirvana1991-11-26t03.flac
+2fffeb0f97808a4d3d942a629fcc168d *nirvana1991-11-26t04.flac
+4f4c370aab1e0cdeba506765dc070720 *nirvana1991-11-26t05.flac
+43f721dc57729c8d4b605d94047e8624 *nirvana1991-11-26t06.flac
+d079598fec9197155360a392718d51cc *nirvana1991-11-26t07.flac
+d0429184d8e935f1da63a8bd5a011bc2 *nirvana1991-11-26t08.flac
+36ed7667cc6d43e1a20d5bc9e9038a10 *nirvana1991-11-26t09.flac
+12fd0553ec579154489ee5b8def41416 *nirvana1991-11-26t10.flac
+a76de84a8b7137437a3acc0cd8ea4166 *nirvana1991-11-26t11.flac
+53e1ab8d7a2b42e09b67437eca01cd1d *nirvana1991-11-26t12.flac
+ab9db9b080519d4062828797a02734cb *nirvana1991-11-26t13.flac
+9e8d5f0f72d2281ca4d2b8000c983cfb *nirvana1991-11-26t14.flac
+4fb6e40e979b4a621dc1123d2e4d357d *nirvana1991-11-26t15.flac
+24527859d7109b5e34f3f63fe0e4bdbe *nirvana1991-11-26t16.flac
+ba832344164a09a4fd1ae40f110e6bb6 *nirvana1991-11-26t17.flac
+77a1db014990371ca719e0aebf74ec92 *nirvana1991-11-26t18.flac
+71fbeb74502542a8a57dae4caf207d8b *nirvana1991-11-26t19.flac
+962178f441ebbb8cb65c55b8a412e671 *nirvana1991-11-26t20.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

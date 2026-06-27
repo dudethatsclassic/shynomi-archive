@@ -1,0 +1,40 @@
+Radiohead
+Copenhagen Royal Arena, DK
+2025-12-16
+
+[Night 4 - Final Night]
+
+Source # 1: dpa4061->mma6000->sony pcm-a10->wav (96 khz/24 bit)
+Source # 2: dpa4080->deity->r2 (48 kHz/ 24 bit)
+Transfer: Sony pcm-a10+Deity Pr2->hd->aligned y TJ in Reaper->matrixed in audition->cdwav (48 khz/24 bit)->flac
+Taper: Tw
+
+01. Intro
+02. 2 + 2 = 5
+03. Airbag
+04. The Bends
+05. All I Need
+06. Ful Stop
+07. Nude
+08. Reckoner
+09. Separator
+10. Weird Fishes/Arpeggi
+11. Pyramid Song
+12. You and Whose Army?
+13. Sit Down. Stand Up.
+14. The Gloaming
+15. No Surprises
+16. Paranoid Android
+17. Bodysnatchers
+18. Exit Music (for a Film)
+19. Street Spirit (Fade Out)
+--
+20. Let Down
+21. Idioteque
+22. Myxomatosis
+23. Present Tense
+24. Jigsaw Falling Into Place
+25. There There
+26. Karma Police
+
+NB! Re-sheduled from the 2nd to the 16th.

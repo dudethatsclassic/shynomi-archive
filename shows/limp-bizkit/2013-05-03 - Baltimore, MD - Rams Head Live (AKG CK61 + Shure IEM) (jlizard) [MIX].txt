@@ -1,0 +1,32 @@
+LIMP BIZKIT
+May 3, 2013
+Rams Head Live!
+Baltimore, MD
+
+Source: [AKG CK61 > Naiant Tinybox] + [Shure IEM] => Tascam DR-2D
+Taper: jlizard
+Location: center balcony
+Lineage: WAV(M) [24/96] > WAV [16/44.1] > FLAC
+Edits/EQ: mixed in Nuendo 5.5, edited in Amadeus 2.1.2
+Notes: none
+
+01 - Rollin' (Air Raid Vehicle)
+02 - Why Try
+03 - The Truth
+04 - Hot Dog
+05 - My Generation
+06 - Livin' It Up
+07 - Gold Cobra
+08 - Re-Arranged
+09 - Killing in the Name {Rage Against the Machine}
+10 - My Way
+11 - I'm Broke
+12 - Nookie
+13 - Behind Blue Eyes {Who}
+14 - Stuck
+15 - Eat You Alive
+16 - Take a Look Around
+17 - Break Stuff
+
+
+Compiled April 2022 by CPS

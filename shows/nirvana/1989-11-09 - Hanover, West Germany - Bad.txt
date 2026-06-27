@@ -1,0 +1,56 @@
+NIRVANA
+November 9, 1989
+Bad
+Hannover, Germany
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Technics SL-5200 > Audio Technica AT-440 MLa > Technics SU-VX500 > ESI Juli @ > Wavelab 6.11 > Adobe Audition 1.5 > iZotope RX 3.01.734 Advanced > FLAC Frontend 2.1
+
+GENERATION:
+ANA(x) > UNOFFICIAL 12" ["Love Box"] > WAV [24bit][96kHz] > WAV [16bit][44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+48:12
+
+NOTES:
+- "Love Box" was mastered running 5% too fast.  The B-side features inferior versions of If You Must, Downer and Hairspray Queen.
+
+TRACKS:
+01. School
+02. Scoff
+03. Love Buzz
+04. Floyd The Barber
+05. Dive
+06. Polly
+07. Big Cheese
+08. Spank Thru
+09. About A Girl
+10. Mr. Moustache [aborted]
+11. Breed
+12. Been A Son
+13. Negative Creep
+14. Blew
+
+MD5 FINGERPRINTS:
+e6f8883af55efb81bf20ef4e82fb5c02 *Nirvana_1989-11-09_AUD1_t01.flac
+6635625e13e6896bc4f947059f6703f5 *Nirvana_1989-11-09_AUD1_t02.flac
+8b298014623c3b17310a97b33fb378b9 *Nirvana_1989-11-09_AUD1_t03.flac
+95fbf2138b8c683d0b744fac8260553e *Nirvana_1989-11-09_AUD1_t04.flac
+d3b189b7ea0143b952b2a6dcfe726671 *Nirvana_1989-11-09_AUD1_t05.flac
+1a532516c07faf1a7d648cc64e49abbd *Nirvana_1989-11-09_AUD1_t06.flac
+80559d4d1d1bb614ebe57ec55487ee54 *Nirvana_1989-11-09_AUD1_t07.flac
+e3bfed1c241f5e01c9a9e531d5b5c5ac *Nirvana_1989-11-09_AUD1_t08.flac
+3372f2d3c3ea25b8dfa5581e82938829 *Nirvana_1989-11-09_AUD1_t09.flac
+de32c75fd469b444b2f1cc00ed3d07d4 *Nirvana_1989-11-09_AUD1_t10.flac
+09ddf2f123b4b27d324549b19a74ac72 *Nirvana_1989-11-09_AUD1_t11.flac
+c62ab57c6305b8f9957c7b9d8de886c7 *Nirvana_1989-11-09_AUD1_t12.flac
+de6e5e03579be9047392a8894ce064cc *Nirvana_1989-11-09_AUD1_t13.flac
+eb350441e8551a11140a02d08931de55 *Nirvana_1989-11-09_AUD1_t14.flac
+
+TRANSFERRED BY:
+Pieter Vermeulen
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

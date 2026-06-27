@@ -1,0 +1,44 @@
+Drive Like Jehu
+"Disaster Gig"
+Echoplex, Los Angles CA
+2016-02-28
+
+SBD/AUD mtx of unknown origin
+
+01 Intro
+02 Super Unison
+03 Human Interest
+04 If It Kills You
+05 "fan the flames"
+06 Atom Jack
+07 Here Come the Rome Plows
+08 "stab someone in the kidneys"
+09 Good Luck In Jail
+10 Sinews
+11 New Math
+12 "push that button that makes us sound better"
+13 Golden Brown
+14 Do You Compute
+15 Bullet Train to Vegas
+16 encore break
+17 Caress
+18 Spikes to You
+19 interlude
+20 Luau
+
+Found untracked WAV files from user "palaceofslates".
+Folder name: "jehu - echoplex - disaster gig"
+
+This is a multi-channel capture (SBD + mics) of the Feb 28 2016 Drive Like Jehu show at the Echoplex in Los Angeles.  From what I can tell it has not previously been shared in a tracked-out form.
+
+The files seem to have been captured simultaneously on a four-channel TASCAM digital device with one stereo pair capturing a dry SBD mix and another featuring an open air mic capture.
+
+The SBD source had a significant channel imbalance, and boosting the weak channel raised the noise floor quite a bit, but with a little EQ and bringing in the audience source to fill out the sound this shouldn't really be noticeable when the band is full on.  The sources lined up well with a little minor adjustment for the delay between the direct and open air signals.
+
+There are a couple long bits of dialogue and banter that I tracked out seperately.  Reis spent a good chunk of time baiting the audience for not being as into it as San Jose the night before!  
+
+The very long closing version of "Luau" featured Reis whipping his guitar with his belt, and finally lifting his entire amp head up and using it to play his guitar before everyone throws their guitars down and says goodnight.
+
+I have fond memories of this show and would love to know more about who recorded this, and I hope I'm not stepping on anyone's toes by releasing it.  The appearance was that this was a gig recording that just needed a little effort to get ready for distribution.
+
+Though the audience sounds sedate on the recording, my memory is that I was already feeling pretty banged up before Reis even started prodding people to start stabbing each other and that the pit was pretty aggro all night.

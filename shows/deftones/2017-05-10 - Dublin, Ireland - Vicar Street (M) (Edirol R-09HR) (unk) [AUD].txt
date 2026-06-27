@@ -1,0 +1,41 @@
+DEFTONES
+VICAR STREET, DUBLIN, IRELAND
+2017-05-10
+
+Running Time:
+98mins approx
+
+01. Feiticeira
+02. My Own Summer
+03. Lhabia
+04. Around the Fur
+05. Rosemary
+06. Swerve City
+07. You've Seen the Butcher
+08. Sextape
+09. Prince
+10. Phantom Bride
+11. Rubicon
+12. Hexagram
+13. Entombed
+14. Knife Prty
+15. Riviere (intro)
+16. Change
+17. Passenger
+-------------
+18. Minerva
+19. Bored
+20. Engine No. 9
+
+
+Source (Master):
+Roland Edirol R-09HR (16bit wav, 44kHz, low cut on (100kHz))
+
+Transfer:
+R-09HR > Audacity (volume increase and fades) > CD Wave Editor > TLH > FLAC level 6
+
+Notes:
+Full house, about 1500 capacity venue. 2nd night in Dublin and final night of the European tour.
+Average recording from the back of the venue - plenty of talkers, singers, clappers etc
+If burning to CDR, I suggest splitting between 'Knife Prty' and 'Riviere (intro)'.
+

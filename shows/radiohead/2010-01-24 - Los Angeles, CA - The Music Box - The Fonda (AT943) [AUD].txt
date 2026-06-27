@@ -1,0 +1,115 @@
+Radiohead 
+January 24, 2010 (Sunday)
+Benefit for the Oxfam Haiti Earthquake Response Fund 
+The Music Box @ Fonda
+Hollywood, California
+
+
+
+
+
+SOURCE: at943c > SPSB-2 (rolloff @ 107hz) > Edirol R-09 (16 bit/44.1 khz) > .wav
+LOCATION:  center floor, FOB
+WAV > FLAC: .wav > PC > Soundforge v8.0a > CD Wave v1.6 > FLAC Frontend v1.7.1 (level 8)
+RECORDED AND TRANSFERRED BY: funkymunkey
+
+
+
+***** PLEASE DO NOT SELL THIS RECORDING *****
+
+
+
+
+Setlist:
+
+01 intro
+02 Faust Arp
+03 Fake Plastic Trees
+04 Weird Fishes/Arpeggi
+05 The National Anthem
+06 Nude
+07 Karma Police
+08 Kid A
+09 Morning Bell
+10 How To Disappear Completely
+11 A Wolf at the Door
+12 The Bends
+13 Reckoner
+14 Lucky
+15 Bodysnatchers
+16 Dollars & Cents
+17 Airbag
+18 Exit Music
+
+Encore #1
+
+19 Everything In Its Right Place*
+20 You And Whose Army?
+21 Pyramid Song
+22 All I Need
+
+Encore #2:
+
+23 Lotus Flower*%
+24 Paranoid Android
+25 Street Spirit (fade out)
+
+
+*  Thom solo
+%  first performance in a Radiohead concert
+
+
+
+Audio Notes:
+
+Entire soundfile normalized to 0db.  Limited at -5.8db to minimize handclap peaks, then re-normalized to 0db.  No edits, no EQ.
+
+
+Show Notes:
+
+A benefit show to raise funds for the earthquake relief effort in Haiti. All proceeds support the Oxfam Haiti relief fund.  To donate or for more information, go to:  
+
+http://www.oxfam.org/en/emergencies/haiti-earthquake
+
+The Music Box at Fonda has a capacity of approximately 1,300.  Due to the nature of the event, the band did not have full use of its regular touring equipment, lighting, or PA.  
+
+There was no opening support act this evening.
+
+A huge thanks to ateasewebsters - especially Edgar, Patrick, Rose, and formengr.  You rock!!!
+
+
+
+
+
+
+Compiled 26Jan2010.
+
+
+
+FLAC fingerprint:
+
+radiohead2010-01-24.at943.d1t01.flac:3f1476e4b8e9732864da836a73d77e07
+radiohead2010-01-24.at943.d1t02.flac:26a003551b2ae3c7efcca5ddbf1d9816
+radiohead2010-01-24.at943.d1t03.flac:edc4603797c0ed4b30031709526bf8c1
+radiohead2010-01-24.at943.d1t04.flac:0daa51adb618714bffb78699200cc03b
+radiohead2010-01-24.at943.d1t05.flac:6ab1a1e74fc5b73b9c45ba51c5f3bba3
+radiohead2010-01-24.at943.d1t06.flac:44f7d74af53e3296dee2483a5ae58704
+radiohead2010-01-24.at943.d1t07.flac:71996303482fd0059bc3b784a878b5ce
+radiohead2010-01-24.at943.d1t08.flac:05b8b14b4b74487fe0f3428d96c796d6
+radiohead2010-01-24.at943.d1t09.flac:0ca1a6d30b50386753026b5f3fdd56f4
+radiohead2010-01-24.at943.d1t10.flac:a5a43c28704a649873bb469010acf663
+radiohead2010-01-24.at943.d1t11.flac:a81abd5250eb2e5f2384dfa0ef2e0015
+radiohead2010-01-24.at943.d1t12.flac:4c4da8a3eaf04f8199bd63e89dc695d1
+radiohead2010-01-24.at943.d1t13.flac:40f459f276005edb33390b3b4dae11d5
+radiohead2010-01-24.at943.d1t14.flac:75d525ae1cfc7d894041d2032151ebb0
+radiohead2010-01-24.at943.d1t15.flac:380aef0889ee29ba533aadd412cbeff4
+radiohead2010-01-24.at943.d1t16.flac:57b3c3c28d7ba35c7453b333f222134e
+radiohead2010-01-24.at943.d1t17.flac:25cc522e0769926963eaf7313f91dd80
+radiohead2010-01-24.at943.d1t18.flac:39e1ffedb10eda581acb991e31fcbc3b
+radiohead2010-01-24.at943.d1t19.flac:84bf9eee9a9c210dc8e3e77941a15072
+radiohead2010-01-24.at943.d1t20.flac:11e5dcf374ee510671aae901480c02f6
+radiohead2010-01-24.at943.d1t21.flac:abdb5a5eb04780cbe21fc15bdc490ab6
+radiohead2010-01-24.at943.d1t22.flac:12039039b3e789eda981cab75938585a
+radiohead2010-01-24.at943.d1t23.flac:9b755d8f2e18576b27f24c9006a405fc
+radiohead2010-01-24.at943.d1t24.flac:1d015eb79ca63a3b571269d99a177d1d
+radiohead2010-01-24.at943.d1t25.flac:59ceecc25f57d46f6a778e5f9902aa0b

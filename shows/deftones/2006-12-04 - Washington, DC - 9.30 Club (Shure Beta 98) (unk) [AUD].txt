@@ -1,0 +1,40 @@
+Deftones
+12/04/06 9:30 Club: Washington, DC
+capacity: 1200 [sold out]
+
+source: Shure Beta98 (super-cardioid) > Church AUdio ST-9100 > iRiver H120
+location: fifteen feet from right PA 
+lineage: .wav master > .flac
+transfer: H120 > USB > PC > Soundforge > FLAC frontend > .flac
+encoding: cps 12/09/06
+
+cuesheet: yes
+   edits: yes - left channel pasted over right channel (dual mono)
+      eq: yes
+
+comments: * right microphone droped out @ 0:18:20 when mosh pit hits me
+          * thanks for the ticket, Cabbage!
+
+
+setlist:
+
+ 1. The Earth
+ 2. Digital Bath
+ 3. My Own Summer (Shove It)
+ 4. Be Quiet And Drive (Far Away)
+ 5. Around the Fur
+ 6. Beware of the Water
+ 7. Nosebleed
+ 8. Engine No. 9
+ 9. Xerces
+10. Passenger
+11. Hole in the Earth
+12. Root
+13. Minus Blindfold
+14. Minerva
+15. Hexagram
+16. - gitar solo -
+17. Cherry Wave
+18. Rats! Rats! Rats!
+19. Change (In the House of Flies)
+20. 7 Words

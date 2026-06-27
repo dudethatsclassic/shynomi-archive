@@ -1,0 +1,73 @@
+NIRVANA
+November 20th, 1991
+Kryptonight
+Baricella, IT
+
+SOURCE (AMT1):
+built-in mic > Sony CCD-F55E (Video8, LP mode)
+
+TRANSFER:
+Sony CCD-TRV66E > S-Video (video) / Cinch (Audio) > ATI TV Wonder 600 USB > VirtualDub 1.10.4 > CD Wave Editor
+
+GENERATION:
+Video8(M) > AVI [UtVideo/48khz/16-Bit/PCM] > MKV [576p/x264|AAC|FLAC]
+
+LENGTH:
+64:52
+
+TRACKS:
+01. Intro
+02. Drain You
+03. Aneurysm
+04. School
+05. Floyd The Barber
+06. About A Girl
+07. Polly
+08. Smells Like Teen Spirit
+09. Lithium
+10. Come As You Are
+11. Sliver
+12. Breed
+13. Been A Son
+14. Negative Creep
+15. Something In The Way
+16. On A Plain
+17. Blew
+18. Jesus Wants Me For A Sunbeam
+19. In Bloom
+20. Territorial Pissings
+
+MD5 FINGERPRINTS:
+73ebe43989b6f1b3c203aa67008f341b *Nirvana 1991-11-20 AMT1 t01 Intro.flac
+b0631caf600ffa36d8b8f98c5af54d7b *Nirvana 1991-11-20 AMT1 t02 Drain You.flac
+a3a52247acd537002f2912f214c4ef6d *Nirvana 1991-11-20 AMT1 t03 Aneurysm.flac
+7df0e958ccf0e532fbb2b1aab23e4e89 *Nirvana 1991-11-20 AMT1 t04 School.flac
+4503d728db410a87dd808154a9eab666 *Nirvana 1991-11-20 AMT1 t05 Floyd The Barber.flac
+a1ecfe232557ac52aae7854f2a99a765 *Nirvana 1991-11-20 AMT1 t06 About A Girl.flac
+1dd5f557a0ad3f921c3c8411c3e70ebf *Nirvana 1991-11-20 AMT1 t07 Polly.flac
+002dc4a882d7aebba27da0c4e0f3ecc8 *Nirvana 1991-11-20 AMT1 t08 Smells Like Teen Spirit.flac
+f7bfa3a9a02d7a8cd3691b68781b5299 *Nirvana 1991-11-20 AMT1 t09 Lithium.flac
+4fdf1b97f43f46538def8454f5cadae2 *Nirvana 1991-11-20 AMT1 t10 Come As You Are.flac
+aa6c52c56b37d9bddda20d7aac146fe8 *Nirvana 1991-11-20 AMT1 t11 Sliver.flac
+b48069b1f792d75a5ed0c0dc2d7e5df0 *Nirvana 1991-11-20 AMT1 t12 Breed.flac
+4dc94bbbbf3a2a9965739ee91d0a17ad *Nirvana 1991-11-20 AMT1 t13 Been A Son.flac
+1cb012f9dba855f7d43f100805c3245a *Nirvana 1991-11-20 AMT1 t14 Negative Creep.flac
+4abbf7df88fb9b04002d453f4d6ab6a1 *Nirvana 1991-11-20 AMT1 t15 Something In The Way.flac
+d27554e9b357a7e1b16429a30d09c4ab *Nirvana 1991-11-20 AMT1 t16 On A Plain.flac
+102beee94da948d8de5deefc4b45a9c2 *Nirvana 1991-11-20 AMT1 t17 Blew.flac
+9b2a887b603be325e7b551cc1cfc5914 *Nirvana 1991-11-20 AMT1 t18 Jesus Wants Me For A Sunbeam.flac
+c7d7d85649ff321de4a8da63ccc3e4af *Nirvana 1991-11-20 AMT1 t19 In Bloom.flac
+f50d883667001997430f4d8eb48452d8 *Nirvana 1991-11-20 AMT1 t20 Territorial Pissings.flac
+
+RECORDING:
+Paolo Lusenti
+
+TRANSFER:
+David Willhauk (YouTube: MasterVideosFFM)
+
+DISTRIBUTION:
+Nicholas Serra & Members of LiveNIRVANA.com
+2022-11-20
+
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

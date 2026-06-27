@@ -1,0 +1,71 @@
+Radiohead
+Friday June 23 2006
+Greek Theatre, UC Berkeley
+Berkeley CA
+
+---
+
+Lineage
+
+Source 1:
+Audience: CCM4->SX-M2->PCM-M1(44.1K), FOB, DFC
+Mastering: Correction for record level changes, tiny bit of Q3 and L2 
+Credits: Recording, Mastering, Seeding (dime 2006-06-24): PersistentSound 
+
+Source 2:
+Audience: Neumann KM140s > Sound Devices MP2 > Sony SBM1 (48k) > Sony D7
+Transfer: DAT master > Standalone CD > EAC > PC/WAV > FLAC 
+
+Source 3:
+Audience: Schoeps CCM4->Heisenberg compensator->Tricorder
+Credits: The Man
+
+Applied some L3 and Q2 to the whole mix. Mixed in Adobe Audition 2.0
+Show Version: Deluxe Version 1.0 
+
+Mixed and compiled by senecastj@yahoo.com
+
+---
+
+Tracklisting:
+
+Disc 1: (The main set)
+
+01 - You And Whose Army
+02 - The National Anthem
+03 - 15 Step
+04 - Morning Bell
+05 - Exit Music
+06 - Arpeggi
+07 - Videotape
+08 - I Might Be Wrong
+09 - Street Spirit
+10 - Nude
+11 - Down Is The New Up
+12 - Pyramid Song
+13 - Like Spinning Plates
+14 - Bangers 'N Mash
+15 - There There
+16 - Spooks
+17 - Idioteque
+
+Disc 2: (The Encores)
+
+18 - A Wolf At The Door
+19 - 4 Minute Warning
+20 - Bones
+21 - Lucky
+-- Second Encore --
+22 - House of Cards
+23 - Everything In Its Right Place 
+
+---
+
+Please don't sell this recording in any way - no cash for blanks, 2:1s, or
+any other form of "getting paid for your time". Just share it freely.
+
+If you're going to destroy the sound of some ultra-spiffy high-end rigs by encoding and spreading them via poorly encoded mp3's, please keep them on your own computer and not dilute the tradepool. The man thanks you.
+
+A show plagued with tech issues, but still a good fun show will some excellent sound captured by some Elite tapers. I hope this mix does them justice! Thought about adding the other sources (I know of a AT831 and DPA4060), but felt these three sources complimented each other all very well. Plus they were recorded in relatively close proximity, giving a sonically similar sound.
+
+If you have any comments/issues on the sound or project as a whole, feel free to email me.

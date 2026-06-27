@@ -1,0 +1,71 @@
+NIRVANA
+June 27, 1992
+Kansanpuisto (Ruisrock)
+Turku, Finland
+
+SOURCE (AUD #2):
+built-ins > Sony TCS-350
+
+TRANSFER:
+Tascam (unknown) > RME interface (unknown) > Logic
+
+GENERATION:
+ANA(M) > FLAC
+
+LENGTH:
+71:30
+
+TRACKS:
+01. Aneurysm (cuts in)
+02. Drain You
+03. Stay Away
+04. Sliver
+05. School
+06. In Bloom
+07. Breed
+08. About A Girl
+09. Scoff
+10. Polly
+11. Lithium
+12. Blew
+13. Been A Son
+14. On A Plain
+15. Swap Meet
+16. Negative Creep
+17. Come As You Are
+18. Love Buzz
+19. Smells Like Teen Spirit
+20. Territorial Pissings
+
+NOTES:
+Aneurysm cuts in. Cut between Lithium and Blew. Blew is cut within. Cut between Negative Creep and Come As You Are (encore break).
+
+MD5 FINGERPRINTS:
+8eb2581e41c47bd3cfd66e4bf03d6b7c *NIRVANA 1992-06-27 AUD#2 [24-441].flac
+24f60612511810d29295c3822f331207 *NIRVANA 1992-06-27 AUD#2 ANA(M)_01 Aneurysm.flac
+d43bc4318ba23465f7ec6168699ae7ef *NIRVANA 1992-06-27 AUD#2 ANA(M)_02 Drain You.flac
+23a78b1e68f194639fea667ac0545fae *NIRVANA 1992-06-27 AUD#2 ANA(M)_03 Stay Away.flac
+881eaa5477a7e70933bff301d590a052 *NIRVANA 1992-06-27 AUD#2 ANA(M)_04 Sliver.flac
+f3b766a9a7502cab5b7f067e2b2f2717 *NIRVANA 1992-06-27 AUD#2 ANA(M)_05 School.flac
+153d61d99c3903a7160ae58cee238dc6 *NIRVANA 1992-06-27 AUD#2 ANA(M)_06 In Bloom.flac
+a167a4598ad0edfc70596c54f4d24003 *NIRVANA 1992-06-27 AUD#2 ANA(M)_07 Breed.flac
+08b9f35dd9f1c538736ea41f1b4a378d *NIRVANA 1992-06-27 AUD#2 ANA(M)_08 About A Girl.flac
+2ba74dda1c76445ae9b04c8565c8bd0f *NIRVANA 1992-06-27 AUD#2 ANA(M)_09 Scoff.flac
+44d114eff75b156abdac0cb30ea077d6 *NIRVANA 1992-06-27 AUD#2 ANA(M)_10 Polly.flac
+5e5149a77d93279096e7bbe80c1fbc57 *NIRVANA 1992-06-27 AUD#2 ANA(M)_11 Lithium.flac
+3abcb962dbc02761355f1551fa8c887f *NIRVANA 1992-06-27 AUD#2 ANA(M)_12 Blew.flac
+9f2ac3db605f2fa6173060b04f4a5652 *NIRVANA 1992-06-27 AUD#2 ANA(M)_13 Been A Son.flac
+94c59bd41b3fa150b0c4867434fa1ba4 *NIRVANA 1992-06-27 AUD#2 ANA(M)_14 On A Plain.flac
+dd77e69851700ade8a2b8c390f0741fa *NIRVANA 1992-06-27 AUD#2 ANA(M)_15 Swap Meet.flac
+fe984114f4d3dd2e930e7ca6c0d6940d *NIRVANA 1992-06-27 AUD#2 ANA(M)_16 Negative Creep.flac
+551c1c4c520e509021016f026353d922 *NIRVANA 1992-06-27 AUD#2 ANA(M)_17 Come As You Are.flac
+bdeb38d4b32522f183bf2cdcda66c23b *NIRVANA 1992-06-27 AUD#2 ANA(M)_18 Love Buzz.flac
+fa1d0ccb8ac94a90421c58a5262db586 *NIRVANA 1992-06-27 AUD#2 ANA(M)_19 Smells Like Teen Spirit.flac
+199656af738432942d63839ac284f2fc *NIRVANA 1992-06-27 AUD#2 ANA(M)_20 Territorial Pissings.flac
+
+
+DISTRIBUTION:
+Members of LiveNIRVANA.com
+2022-06-27
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

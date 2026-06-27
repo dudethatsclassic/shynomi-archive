@@ -1,0 +1,71 @@
+radiohead
+Madison Square Garden
+NY, NY
+October 9, 2003
+
+
+Taper: gloco (gdloco@yahoo.com)
+Location: Section 301
+Source: Sharp DR-7 line in(minidisc recorder)>Sound professionals SP-SPSB-7 battery box with bass rolloff@195Hz>
+		Sound professionals SP-CMC-4 stereo cardioid mics (unidirectional) held about 5' up aimed directly at stage.
+Conversion: Sony MXD-D5C deck RCA out>Audigy 2 line in>cd wave>Adobe Audition (amplified +5db)>mkw 0.97 Beta 1>SHN
+
+
+
+***************************************************
+***************************************************
+***********DO NOT ENCODE TO MP3********************
+***************************************************
+***************************************************
+
+Setlist:
+
+Disc One:
+
+01 intro
+02 2+2=5 
+03 sit down. stand up
+04 where i end and you begin 
+05 kid a
+06 backdrifts
+07 morning bell
+08 my iron lung
+09 i might be wrong
+10 lurgee
+11 sail to the moon 
+12 paranoid android
+13 a punchup at a wedding
+14 go to sleep
+15 the gloaming 
+16 idioteque 
+17 fake plastic trees
+
+Disc Two: 
+
+18 there there
+
+Encore #1:
+19 you and whose army?
+20 national anthem 
+21 a wolf at the door
+22 how to disappear completely
+
+Encore #2:
+23 karma police
+24 true love waits (thom solo)
+25 everything in its right place 
+
+Notes: 
+
+Lots of crowd noise in some parts.
+
+Recording issues: 
+
+CD1 T02: mic noise between :45-:50
+CD1 T12: sound is muffled and some mic noise as security hovered right near me looking for a pot smoker (figures).
+CD1 T13: Abrupt start as unit was bumped causing it to pause.  Slight gap between track 12 and 13 due to this pause.
+CD1 T15: mic noise at end of track (last few seconds)
+CD1 T17: mic noise between :45-:50
+CD2 T01: Abrupt start due to MD "flip," missed first few seconds.
+
+Compiled on 2003-10-09 by gloco

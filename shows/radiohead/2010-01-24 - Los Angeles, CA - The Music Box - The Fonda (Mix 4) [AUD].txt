@@ -1,0 +1,79 @@
+Radiohead
+24 January, 2010
+The Music Box @ The Fonda
+
+----
+
+we who assembled this also received approval and support from both Radiohead and Oxfam, and on our combined behalf, we kindly request a donation to Oxfam America’s Haiti Earthquake Response Fund. Oxfam has graciously supplied the following dedicated link:
+
+www.oxfamamerica.org/radiohead
+
+----
+
+Source 1 by hoserama:
+Dust of the Pixies -> Iriver H140
+Location: Fairytale Town
+
+Source 2 by Edgar:
+AT831 > SP-SPSB-11 (rolloff @ 107 Hz) > Edirol R-09 HR @ 44.1 / 16-bit
+Location: Front row balcony, center
+Transfer: Card reader > PC > Soundforge 7.0 (normalization and fades only) > Cdwave > TLH > shn
+
+Wave editing + time alignment done in Adobe Audition 3.0.
+Mixing done in Nuendo 3. Used Waves plugins + Ozone 4 for effects.
+Post-processing done in Harbal 2.3.
+Tracked in CD Wave.
+Flac'ed using Trader's Little Helper
+
+This is Mix Version 4.0
+
+--
+Setlist:
+
+01. Intro
+02. Faust Arp
+03. Fake Plastic Trees
+04. Arpeggi/Weird Fishes
+05. National Anthem
+06. Nude
+07. Karma Police
+08. Kid A
+09. Morning Bell
+10. How To Disappear Completely
+11. A Wolf At The Door
+12. The Bends
+13. Reckoner
+14. Lucky
+15. Bodysnatchers
+16. Dollars and Cents
+17. Airbag
+18. Exit Music
+19. Crowd Noise
+20. Thom Talk
+21. Everything In Its Right Place
+22. You And Whose Army?
+23. Pyramid Song
+24. All I Need
+25. Crowd
+26. Thom Talk
+27. Lotus Flower
+28. Thom Talk
+29. Paranoid Android
+30. Street Spirit (fade out)
+
+--
+
+Decided to go to this show at the last second. Got a phone call about two days before from another taper. Wasn't aware of the show at all--had completely checked out of the Radiohead world. Got my booty in gear, grabbed the girlfriend, and down to LA we went.
+
+Originally figured they'd do a dress rehearsal the night before, but another band had already booked the place. Took that opportunity to go ride roller coasters at Magic Mountain. They did a two hour soundcheck that day. Pity no real new stuff. It was a "stretch our legs because damn we're not ready for this show" type of check.
+
+Form contacted me a while back because he figured I had done up something with this show. Figured why not--I'll contribute to the soundtrack. DVD project looks wicked cool. 
+
+Enjoy the mix. If you don't dig the mix, well there's plenty of other sources.
+
+--
+
+Please don't sell this recording in any way - no cash for blanks, 2:1s, or any other form of "getting paid for your time". Just share it freely. In fact, just get in the spirit and donate some money to oxfam out of the goodness of your heart.
+
+Please do not attempt to remaster this recording and spread it around. There is little to no point of trying to compete with the original processing. If you need to re-eq it for your own listening pleasure, that's fine, just don't spread it around. If you're going to destroy the sound of some ultra-spiffy high-end rigs by encoding and spreading them via mp3's, please keep them on your own computer and not dilute the tradepool.
+

@@ -1,0 +1,72 @@
+﻿RADIOHEAD
+Tour:  European Tour 2025
+Place: Casalecchio di Reno (BO)-[IT] 
+Venue: Unipol Arena
+Date:  November 18, 2025
+
+IEM/AUD Matrix by Alessio
+
+Sources:
+#1 IEM Receiver > DR2D (24/48) - Taper: Awanagana
+#2 AUD: Neumann KM140's > Zoom F3 (24/48) - Taper: Alysha
+
+Sources Lineage:
+#1 Raw Wav file > Demucs GUI (4 STEMS) > Izotope RX10 (noise removals-reductions)
+#2 Raw Wav file > ADOBE AUDITION (EQ / Close Clappings & Aud Noise Clean)
+
+Mix Lineage: 4 STEMS + AUD > AUDACITY (Volume Rebalance with many Interactions / EQ / Loudmax Plug-in) > flac24
+
+FLAC24 Size: 1.54GB
+
+Additional editing by MLK
+
+Setlist:
+
+01 Soundscape Intro
+02 2 + 2 = 5
+03 Airbag
+04 Jigsaw Falling Into Place
+05 All I Need
+06 Ful Stop
+07 Nude
+08 Reckoner
+09 The Bends
+10 Separator
+11 Pyramid Song
+12 You and Whose Army?
+13 Sit Down. Stand Up.
+14 Myxomatosis
+15 No Surprises
+16 Optimistic
+17 There There
+18 Exit Music (for a Film)
+19 Street Spirit (Fade Out) / Encore Break
+20 Let Down
+21 Weird Fishes/Arpeggi
+22 Idioteque
+23 Present Tense
+24 The Daily Mail
+25 Paranoid Android
+26 Everything in Its Right Place
+
+
+Total Running Time: 02h11m15s
+Size: FLAC24 1,54 GB
+
+
+https://www.radiohead.com/
+https://www.facebook.com/radiohead/
+https://www.instagram.com/radiohead/
+https://x.com/radiohead
+
+Thom Yorke – vocals, guitar, piano, keyboards, bass
+Jonny Greenwood – guitar, keyboards, synthesizer, electric piano, oude Martenot, piano, organ
+Ed O'Brien – guitar, drums, percussion, backing vocals
+Colin Greenwood – bass, keyboards, synthesizer, percussion
+Philip Selway – drums, percussion, backing vocals, metallophone
+
+
+Enjoy the Show!
+Alessio, Awanagana, MLK, Alysha
+
+SPECIAL THANKS TO ALYSHA FOR HIS AUDIENCE RECORDING AND TO ALESSIO FOR THIS MIX. IT WAS A HARD WORK DUE TO SOME ISSUES WITH IEM SOURCE BUT HE MANAGED TO TAKE THE BEST OUT OF THESE SOURCES MIXING THEM TOGETHER AND I LOVE THE FINAL RESULT. 

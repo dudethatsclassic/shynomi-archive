@@ -1,0 +1,37 @@
+Lynyrd Skynyrd
+Ronnie Van Zant: lead vocals
+Garry Rossington: guitar
+Allen Collins: guitar 
+Ed King: guitars
+Billy Powell: keyboards
+Leon Wilkeson: bass, vocals 
+Artimus Pyle: drums 
+
+Salle Pleyel
+Paris, France
+November 7, 1975
+radio broadcast
+runtime:  17:39
+
+   setlist:
+1: radio announcer > double trouble >  2:54
+2: I ain't the one  3:52
+3: simple man  6:45
+4: whiskey rock and roller  4:08
+lineage:
+ French radio > ? reciever/tape/recorder >
+ 1st gen. reel > wav > flac (one single file) >
+ soundforge (wav, tracking) > flac (sb's aligned)
+ torrentially yours.
+ a this and that production.
+ recorded by "the French Gentleman"
+ tracked and posted by glasnostrd19
+ thanks to unclemeat for proving the source flac file
+ these 4 tracks are 16/44 mono files.
+ the sound quality and mix is quite enjoyable for this time
+ all the vocals and instruments of the band come through well, 
+ and the performance and songs are good, prime era Skynyrd.
+ the French radio announcer is rather annoying,
+ by talking over the start and end of songs.
+ it would have severely destroyed the continuity of the songs 
+ to edit that out, so it is left in here for all to endure.

@@ -1,0 +1,65 @@
+Radiohead
+August 14, 2001
+Suffolk Downs
+Boston, MA
+
+Taper:		Eric McRoberts
+Source: 	DAUD/FOB Schoeps mk4(ORTF) -> kc-5 actives -> cmc6 -> 
+		Sonosax SX-M2(+30db) -> SBM-1(Oade Mod.) -> D7 @44.1kHz
+Conversion: 	Master (from D7) -> R500 -> Canare Coax -> Sek'd Prodif Plus ->
+		Soundforge 5.0 (fade in/out) -> CD Wave -> mkwACT -> SHN
+
+
+*****************************************************************
+***** PLEASE DO NOT ENCODE THIS SHOW TO LOSSY AUDIO FORMATS *****
+*****************************************************************
+
+
+Disc One_________________________________________________________
+01:	Intro (crowd noise)				00:55
+02:	National Anthem *				05:26
+03:	Airbag						05:20
+04:	Morning Bell					04:29
+05:	Lucky						04:48
+06:	Knives Out					04:36
+07:	Packt Like Sardines in a Crushed Tin Box	03:23
+08:	No Surprises					03:53
+09:	Dollars & Cents					05:34
+10:	Street Spirit (Fade Out)			04:42
+11:	Pearly						04:59
+12:	Just						03:59
+13:	I Might Be Wrong				05:38
+14:	Pyramid Song					05:02
+15:	Paranoid Android				07:12
+						-------------
+						Total:	69:56
+
+Disc Two_________________________________________________________
+01:	Idioteque					04:18
+02:	Everything In Its Right Place			08:29
+03:	(encore break / crowd noise)			02:51
+--{Encore 1}--
+04:	Like Spinning Plates				05:06
+05:	Talk Show Host					05:22
+06:	You And Whose Army?				03:50
+07:	The Bends					04:13
+08:	(encore break / crowd noise)			03:14
+--{Encore 2}--
+09:	Karma Police					05:26
+10:	The Tourist					06:44
+11:	(crowd noise / pa music)			01:27
+						-------------
+						Total:	51:00
+
+* w/ Kid Koala
+
+
+--Notes--
+- Recorded w/ help from Jim Raras and Beau Colburn, on 7' stand at SBD position
+  just right of the board ortf in kangol, mastering deck was a DA-P1, Beau's
+  deck(D7) out of the male 7-pin out on SBM-1. 
+- Sonosax @ +30dB, SBM-1 line in @ 2.7, @44.1khz, Audio Magic Apprentice XLR ->
+  RCA from Sax->SBM-1.
+- Minor Edits: Fades in/out beg/end of show--5 sec in all cases
+- Transferred and uploaded by Jim Raras <jraras@yahoo.com> via Dankseeds.
+  Please contact me with questions, etc.

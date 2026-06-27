@@ -1,0 +1,48 @@
+Radiohead
+2012-10-06
+Manchester Evening News Arena
+Manchester
+UK
+
+Equipment: Core Sound Binaurals > battery box > Sony PCM-M10 > MicroSDHC
+
+Lineage: WAV (16-bit, 44.1 KHz) > Audacity 2.0.2 (edit; normalise; fade in/out; tracking) > TLH (fix SBEs) > FLAC level 8 > Foobar2000 (add tags) > TLH (create checksums)
+
+Taper: Ericlered
+
+Setlist:
+
+01 Intro
+02 Lotus Flower	
+03 Airbag
+04 Bloom
+05 The Daily Mail
+06 Myxomatosis
+07 The Gloaming
+08 Separator
+09 These Are My Twisted Words
+10 Pyramid Song
+11 Nude
+12 Weird Fishes / Arpeggi
+13 Reckoner
+14 There There
+15 The National Anthem
+16 Hunting Bears
+17 Feral
+18 Paranoid Android
+19 [encore break]
+20 You and Who's Army
+21 Ful Stop
+22 Morning Mr Magpie
+23 Planet Telex
+24 How To Disappear Completely
+25 [encore break]
+26 Give Up The Ghost
+27 Everything In It's Right Place (Unravel Intro)
+28 Idioteque
+
+
+
+Running Time: 02:14:20
+
+Please do not convert to MP3, except for personal use. Trade the original, lossless fileset only, including this info file and the checksums. Do not sell this recording.

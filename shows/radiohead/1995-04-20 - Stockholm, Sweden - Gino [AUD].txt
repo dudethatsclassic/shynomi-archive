@@ -1,0 +1,42 @@
+Radiohead 1995-04-20 Stockholm, Gino
+
+Source: 	2xSony ECM-101 > Sony TCD-D3 (@32khz, Mic In)
+
+Transfer: 	Sony TCD-D8 > 7-pin optical > M-Audio CO2 > Coax > M-Audio Audiophile 2496 > 
+		Wavelab V5.01b > CD Wave Editor V1.96.1 > FLAC 1.2.1b (Level 5)
+
+Editing:    	Convert sample rate, Volume boost, fades and remastering in Steinberg WaveLab V5.01b
+
+Please note:  	After 02:41.40 this is a mono recording, as the right channel slipped out. After 02:41.40 I've 
+		copied the left channel.
+
+
+
+01. The Bends			[05:01.01]
+02. Just			[04:07.47]
+03. Anyone Can Play Guitar	[03:45.27]
+04. Bones			[03:27.28]
+05. High & Dry			[04:38.45]
+06. Street Spirit (Fade Out)	[04:45.02]
+07. Prove Yourself		[02:37.40]
+08. Vegetable			[04:13.08]
+09. Fake Plastic Trees		[05:17.00]
+10. Planet Telex		[04:17.01]
+11. Ripcord			[03:20.69]
+12. Creep			[04:50.73]
+13. My Iron Lung		[05:18.09]
+14. Encore Break		[01:41.45]
+15. You				[03:48.30]
+16. Bullet Proof..I Wish I Was	[03:51.28]
+17. Stop Whispering		[06:48.21]
+
+Total:				[71:49.24]
+
+
+Recorded, transfered, mastered and tracked by R.J. 
+
+**************************************************
+PLEASE DO NOT ENCODE TO LOSSY FORMATS!!
+DO NOT SELL!!
+**************************************************
+

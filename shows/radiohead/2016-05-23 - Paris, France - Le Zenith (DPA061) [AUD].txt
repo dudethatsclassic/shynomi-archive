@@ -1,0 +1,48 @@
+---------------------------------------------------------------------------
+Artist: Radiohead
+Date: 2016-05-23
+Location: Le Zénith
+Paris
+France
+---------------------------------------------------------------------------
+Recorded, transferred & encoded by: Antoine V.
+http://db.etree.org/avtaper
+---------------------------------------------------------------------------
+Generation: Aud>DPA 4061>DPA MMA 6000>Edirol R-05
+>Wav(24/48)>Flac24
+---------------------------------------------------------------------------
+Lineage: Aud
+>DPA 4061
+>DPA MMA 6000
+>Edirol R-05
+>.Wav(24bits/48khz)
+>Amadeus Pro 2.0.6 (Normalization)
+>flac24 (Level 8)
+---------------------------------------------------------------------------
+Setlist: t01: Burn The Witch
+t02: Daydreaming
+t03: Decks Dark
+t04: Desert Island Disk
+t05: Ful Stop
+t06: Lotus Flower
+t07: The National Anthem
+t08: My Iron Lung
+t09: No Surprises
+t10: Bloom
+t11: Identikit
+t12: The Numbers
+t13: Separator
+t14: The Gloaming
+t15: Everything In Its Right Place
+t16: Idioteque
+t17: Bodysnatchers
+--
+t18: True Love Waits
+t19: Present Tense
+t20: Paranoid Android
+t21: Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief
+t22: Weird Fishes/Arpeggi
+--
+t23: Creep
+t24: Pyramid Song
+---------------------------------------------------------------------------

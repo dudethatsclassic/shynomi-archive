@@ -1,0 +1,858 @@
+-------------------------------------------------------------------------------
+File name:                    01 Westwood One Absolutely Live In Concert 03-40 Into - Doug Podell.wav
+Handled by:                   wav format module
+Length:                       0:26.23
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    4639368 bytes
+Chunk size:                   4639404 bytes
+Total size (chunk size + 8):  4639412 bytes
+Actual file size:             4639412
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        1224 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    02 Stained - For You.wav
+Handled by:                   wav format module
+Length:                       3:47.74
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    40215712 bytes
+Chunk size:                   40215748 bytes
+Total size (chunk size + 8):  40215756 bytes
+Actual file size:             40215756
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        1216 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    03 Stained - Pressure.wav
+Handled by:                   wav format module
+Length:                       3:34.01
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    37752808 bytes
+Chunk size:                   37752844 bytes
+Total size (chunk size + 8):  37752852 bytes
+Actual file size:             37752852
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        856 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    04 Stained - Mud Shovel.wav
+Handled by:                   wav format module
+Length:                       4:49.60
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    51120764 bytes
+Chunk size:                   51120800 bytes
+Total size (chunk size + 8):  51120808 bytes
+Actual file size:             51120808
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        44 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    05 Westwood One Absolutely Live In Concert 03-40 Break - Doug Podell.wav
+Handled by:                   wav format module
+Length:                       0:05.58
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    1018652 bytes
+Chunk size:                   1018688 bytes
+Total size (chunk size + 8):  1018696 bytes
+Actual file size:             1018696
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        236 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    06 Commercial - Burger King Chicken Baguette.wav
+Handled by:                   wav format module
+Length:                       0:29.67
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    5274336 bytes
+Chunk size:                   5274372 bytes
+Total size (chunk size + 8):  5274380 bytes
+Actual file size:             5274380
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        1152 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    07 Commercial - NAPA Auto Parts.wav
+Handled by:                   wav format module
+Length:                       0:29.00
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    5115700 bytes
+Chunk size:                   5115736 bytes
+Total size (chunk size + 8):  5115744 bytes
+Actual file size:             5115744
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        100 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    08 Commercial - Claritin D Allergy Relief.wav
+Handled by:                   wav format module
+Length:                       0:29.35
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    5198152 bytes
+Chunk size:                   5198188 bytes
+Total size (chunk size + 8):  5198196 bytes
+Actual file size:             5198196
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        232 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    09 Commercial - Geico Insurance Company.wav
+Handled by:                   wav format module
+Length:                       0:31.37
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    5555724 bytes
+Chunk size:                   5555760 bytes
+Total size (chunk size + 8):  5555768 bytes
+Actual file size:             5555768
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        300 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    10 Westwood One Absolutely Live In Concert #03-40 Into - Doug Podell.wav
+Handled by:                   wav format module
+Length:                       0:40.01
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    7057276 bytes
+Chunk size:                   7057312 bytes
+Total size (chunk size + 8):  7057320 bytes
+Actual file size:             7057320
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        1276 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    11 Staind - Outside.wav
+Handled by:                   wav format module
+Length:                       5:34.00
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    58918472 bytes
+Chunk size:                   58918508 bytes
+Total size (chunk size + 8):  58918516 bytes
+Actual file size:             58918516
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        872 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    12 Staind - Suffer.wav
+Handled by:                   wav format module
+Length:                       4:13.21
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    44677972 bytes
+Chunk size:                   44678008 bytes
+Total size (chunk size + 8):  44678016 bytes
+Actual file size:             44678016
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        1732 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    13 Westwood One Absolutely Live In Concert #03-40 Break - Doug Podell.wav
+Handled by:                   wav format module
+Length:                       0:08.07
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    1427716 bytes
+Chunk size:                   1427752 bytes
+Total size (chunk size + 8):  1427760 bytes
+Actual file size:             1427760
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        52 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    14 AIDS Public Service Announcement - knowhivaids.org.wav
+Handled by:                   wav format module
+Length:                       0:28.59
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    5077924 bytes
+Chunk size:                   5077960 bytes
+Total size (chunk size + 8):  5077968 bytes
+Actual file size:             5077968
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        2308 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    15 Commercial - NAPA Auto Parts.wav
+Handled by:                   wav format module
+Length:                       0:29.49
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    5230556 bytes
+Chunk size:                   5230592 bytes
+Total size (chunk size + 8):  5230600 bytes
+Actual file size:             5230600
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        2060 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    16 Commercial - Kleenex Tissue.wav
+Handled by:                   wav format module
+Length:                       0:29.60
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    5256796 bytes
+Chunk size:                   5256832 bytes
+Total size (chunk size + 8):  5256840 bytes
+Actual file size:             5256840
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        76 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    17 Commercial - International Star Registry.wav
+Handled by:                   wav format module
+Length:                       0:31.22
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    5521288 bytes
+Chunk size:                   5521324 bytes
+Total size (chunk size + 8):  5521332 bytes
+Actual file size:             5521332
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        1144 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    18 Westwood One Absolutely Live In Concert #03-40 Into - Doug Podell.wav
+Handled by:                   wav format module
+Length:                       0:24.07
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    4251208 bytes
+Chunk size:                   4251244 bytes
+Total size (chunk size + 8):  4251252 bytes
+Actual file size:             4251252
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        1144 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    19 Staind - Home.wav
+Handled by:                   wav format module
+Length:                       4:31.74
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    47979568 bytes
+Chunk size:                   47979604 bytes
+Total size (chunk size + 8):  47979612 bytes
+Actual file size:             47979612
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        1120 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    20 Staind - Fade.wav
+Handled by:                   wav format module
+Length:                       4:20.00
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    45864868 bytes
+Chunk size:                   45864904 bytes
+Total size (chunk size + 8):  45864912 bytes
+Actual file size:             45864912
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        868 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    21 Staind - Spleen.wav
+Handled by:                   wav format module
+Length:                       4:20.15
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    45898632 bytes
+Chunk size:                   45898668 bytes
+Total size (chunk size + 8):  45898676 bytes
+Actual file size:             45898676
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        1704 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    22 Westwood One Absolutely Live In Concert #03-40 Break - Doug Podell.wav
+Handled by:                   wav format module
+Length:                       0:10.54
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    1891932 bytes
+Chunk size:                   1891968 bytes
+Total size (chunk size + 8):  1891976 bytes
+Actual file size:             1891976
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        924 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    23 Commercial - NAPA Auto Parts.wav
+Handled by:                   wav format module
+Length:                       0:29.49
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    5230492 bytes
+Chunk size:                   5230528 bytes
+Total size (chunk size + 8):  5230536 bytes
+Actual file size:             5230536
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        1996 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    24 Commercial - Burger King Chicken Baguette.wav
+Handled by:                   wav format module
+Length:                       0:29.30
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    5186200 bytes
+Chunk size:                   5186236 bytes
+Total size (chunk size + 8):  5186244 bytes
+Actual file size:             5186244
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        40 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    25 Commercial - Geico Insurance Company.wav
+Handled by:                   wav format module
+Length:                       0:29.51
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    5235700 bytes
+Chunk size:                   5235736 bytes
+Total size (chunk size + 8):  5235744 bytes
+Actual file size:             5235744
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        148 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    26 Commercial - WB-TV Tarzan Series Premier.wav
+Handled by:                   wav format module
+Length:                       0:30.63
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    5439288 bytes
+Chunk size:                   5439324 bytes
+Total size (chunk size + 8):  5439332 bytes
+Actual file size:             5439332
+File is compressed:           no
+Compression ratio:            1.0000
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     no
+  Sector misalignment:        1464 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    no
+  Junk appended to file:      no
+  Odd data size has pad byte: n/a

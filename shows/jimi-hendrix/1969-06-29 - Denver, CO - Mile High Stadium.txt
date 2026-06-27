@@ -1,0 +1,57 @@
+A Sign of the 3rd World War
+The Jimi Hendrix Experience - Mile High Stadium June 29, 1969
+The Denver Pop Festival
+Whiteflame Stereo Merge of The Final JHE Concert
+Merge engineered by Steev Wachman
+
+
+This is the Stereo Merge I've been working on in between hospital visits and Studio Malfunctions. It is derived from ATM 118 and ATM 207, which turns out, is only a badly Eq'd version of ATM 118. Originally thought to be a different source than 118, 207 contained many digital bangs as well as cuts in different places as 118, further complicating the Synchronization process. This was a total Labour of Love [and joy] for me, as I believe this to be one of the very best examples of Jimi Hendrix's "searching" spirit, which was shared that night with a lucky few, and we are fortunate to have the limited recording we do of the Experience's very last gig. 
+After sadly discovering that 207 was from the same source as 118, and the sync being so out, from speed variances & cuts, I was going to drop the project. But instead, I courageously forged ahead for my own pleasure. After a week or so, I began to really enjoy the results, least of all realizing I could control the "pseudo" panning of the Stereo program back & forth as though I was in the Studio, working with a Studio Recording. This is something I obviously would tend to leave alone in a "Live" recording, but after re-discovering certain properties of time compression, and the futility of the project itself, I began to enjoy the rewards of the task. Plus the fact I am a Recording Engineer & a Musician who enjoys a good challenge every now & then.
+
+As I got into my flow and became more familiar with what I was undertaking, I decided in that 1st week, to act as Engineer and Producer, [with Jimi stepped out for a smoke] so I would not feel constrained as I had to make on the spot decisions regarding what was fast becoming pleasurable to me. 
+
+
+I actively engineered Stereo spreads to the best of my abilities with this severely "limited" Master, including Left/Right Right/Left speaker crossings during Leads and Solos, almost as though this was a Studio Recording. An impossible feat, to be sure, but I was relentless in finishing this. The Stereo feature is more apparent in Headphones, but lots don't take their music that way. You should still try it once, after a nice "LOUD" listen on speakers. And if you never heard ELL [or the other first 2 LP's] that way, shame on you . . . . .
+
+None of this is perfect - Lots turned out very nice. So I am inviting the collecting populace to join me in experiencing this final Jimi Hendrix Experience concert, in pseudo Stereo. How I wish ATM207 would have been from a different source, but it was not to be. Your comments and/or suggestions are more than welcome, good or bad.
+
+B4 I reveal the 3 Folder contents, there is one last item, and the reason for Folder's 4 & 5.
+There was a dropout in my original DL'd Flac copy of ATM 118's Tax Free about 30 seconds into the song, lasting for about 20-25 seconds which rendered the Stereo Imaging Left-Heavy during that time. 
+Folders 1 & 2 & 3 included those "unrepaired" versions of Tax Free.
+In Folders 4 & 5 the dropout was repaired to the best of my ability, rendering Folders 2 & 3 "useless" and therefore "Not Included" or needed here.
+
+So - Here's what's in the 3 Folders [1 & 4 & 5]
+
+Folder 1 [Included] - The Original "1st Run" Merge:
+Explained above:
+ATM 207 is unaltered on the Left side except for major time edits and digital 'bang' removal.
+ATM 118 is unaltered on the Right side except for minor time edits and minimal digital noise removal.
+Only digi-bangs were repaired and time edits repaired so 207 matched 118. I also repaired/pasted a few cuts into 207 from 118 but none of these repairs affects any music. 
+
+Only "in-between's". You'll hear a few seconds of mono audience here and there.
+This 1st run is included only to make the finished project a "Complete" one. 
+I for one, think the sound is horrible and is only included perhaps to have completed copies of 118 & 207 with most digi-noise removed. 
+===================
+Folders 2 & 3. [Not included] - Due to the dropouts in Tax Free-as explained above.
+
+2. This is the 1st Analog EQ'd Program from the CD Backup of Folder 1, back to Digital/Mac thru my Pro Tools Original 442 Interface with the Apogee Filters. Not included anymore in Pro Tools, but now sold separately for twice the $$.
+
+3. This is the EQ'd files from Folder 2 digitally treated with "Waves L1 Limiter" Plug-In, set to a ceiling of -.3 which effectively prohibits any digital clipping. I soft limited it so the strongest limiting kicks in at only 2.2 % of the signal, which is near nothing. It basically gives you exactly what went in, just a bit more of it.
+Again, Not included-Due to the dropouts in Tax Free
+====================
+Folders 4 & 5
+These folders [included] are exactly the same as 2 & 3 respectively, with the dropout in the right channel of the beginning of Tax Free repaired as best as I could do it without causing a "snap".
+====================
+The show was EQ'd to be clean and enhance some of the dynamics, and for you to turn the bass up, as in most music.
+Mitch & Noel are actually brought forward a bit as the show goes on. And what a great Drum Solo in Spanish Castle Magic.
+Actually the complete absence of Mitch at the beginning may have just been the soundman getting his shit together.
+
+
+
+Again, too bad there was not a better master. And I'll bet the taper is sorry he recorded the "Tune Up" at the beginning of the show, having sacrificed the end of the show due to battery failure . . .
+=====================
+Have a FANTASTIC Holiday Season and, as always, 
+A Prayer for Peace and Illumination - For a whole Generation of sleeping people.
+And a sincere wish for an ILLUMINATING 2009 and Beyond ! ! !
+Make a difference in your own life next year, and you'll make a difference in someone else's life too.
+Peace - Steev

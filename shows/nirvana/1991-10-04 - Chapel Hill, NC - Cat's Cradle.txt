@@ -1,0 +1,66 @@
+NIRVANA
+October 4, 1991
+Cat's Cradle
+Chapel Hill, NC
+
+DISC #1/1 (56:41)
+-----------------
+01) intro
+02) Jesus Wants Me For A Sunbeam
+03) Aneurysm
+04) Drain You
+05) School
+06) Floyd The Barber
+07) Smells Like Teen Spirit
+08) About A Girl
+09) Breed
+10) Polly
+11) Love Buzz
+12) Sliver
+13) Rape Me
+14) Molly's Lips
+15) Blew
+16) Been A Son
+17) Negative Creep
+18) Endless, Nameless
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> Sony WM-AF67
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Sound Forge 7.0 -> CD Wave 1.93 beta -> FLAC frontend 1.7.1
+
+NOTES
+-----------------
+"Been A Son" cuts in do to tape flip.
+
+MD5 FINGERPRINTS
+-----------------
+6a0db62629a8d96cb42b6bf942d7ff1c *nirvana1991-10-04t01.flac
+d41ee69e0606613992d977e9b4d2ba67 *nirvana1991-10-04t02.flac
+040e94f848c514bb06399b45b50c2374 *nirvana1991-10-04t03.flac
+a0deb35faf827d51c2d5ee6cc441099a *nirvana1991-10-04t04.flac
+d72a2fa1ed6f76fdc1fccee9685bf0cd *nirvana1991-10-04t05.flac
+43b804c781c450ae9ee9df6742370964 *nirvana1991-10-04t06.flac
+fc4a8e0bac03fbce2202038f76f95a24 *nirvana1991-10-04t07.flac
+50cc55d45d2e9a27045a3c326bbab66c *nirvana1991-10-04t08.flac
+edd625df30455351f3874b2ca5f24224 *nirvana1991-10-04t09.flac
+fb89ea2285df81cd2b4f9fc2572f259a *nirvana1991-10-04t10.flac
+3aba7d664f4c9b6feb675800001c71e5 *nirvana1991-10-04t11.flac
+d1dfa17ae3e9bd3db05c7a476b7d4606 *nirvana1991-10-04t12.flac
+b4acc126f8fa3c3e5cba516608fcd1c7 *nirvana1991-10-04t13.flac
+fa5356ab46909fa6c2b2bbc76291362e *nirvana1991-10-04t14.flac
+217b3bc6cbf8280c4bc58db29ead6f55 *nirvana1991-10-04t15.flac
+4e47613bd9d2e79985e637425cd75ec6 *nirvana1991-10-04t16.flac
+030d4f2351a6d0473c2214a15a791258 *nirvana1991-10-04t17.flac
+bd75a691688a0d59a577709dc101805b *nirvana1991-10-04t18.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

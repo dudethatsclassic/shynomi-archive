@@ -1,0 +1,32 @@
+Radiohead
+July 4, 2003
+EUROCKEENNES
+BELFORT, FRANCE
+
+Source: Satellite (digital out spdif 48KHz) -> Digidesign soundcard spdif 48KHz 
+-> samplitude professional (edited in 75fps, snaping to frames into 44.1KHZ)
+
+t01-there there
+t02-2+2=5
+t03-morning bell
+t04-lucky
+t05-talk show host
+t06-scatterbrain
+t07-the national anthem
+t08-the gloaming
+t09-fake plastic trees
+t10-sail to the moon
+t11-my iron lung
+t12-where i end and you begin
+t13-just
+t14-paranoid android
+t15-idioteque
+t16-after the goldrush
+t17-everything in its right place
+t18-exit music (for a film)
+t19-kid A
+t20-karma police
+
+made by arsen
+feel free to distribute, not to be sold !
+

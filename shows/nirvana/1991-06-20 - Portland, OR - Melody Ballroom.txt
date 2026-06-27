@@ -1,0 +1,54 @@
+NIRVANA
+June 20, 1991
+Melody Ballroom
+Portland, OR
+
+DISC #1/1 (50:37)
+-----------------
+01) Polly (cut)
+02) Drain You
+03) Big Cheese
+04) Smells Like Teen Spirit
+05) Floyd The Barber
+06) Lithium
+07) About A Girl
+08) School
+09) Love Buzz
+10) Sliver
+11) Rape Me
+12) Been A Son
+13) Negative Creep
+14) Endless, Nameless
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#2)
+-----------------
+built-in -> Toshiba KT-R2
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+37f3d3ab0efef3c4d21dee5c5bc49b2c *nirvana1991-06-20t01.flac
+0d22d29c6c488d47f52ff5704dfc4733 *nirvana1991-06-20t02.flac
+dc3bae002ec8e377b1f8bdd10b0c85be *nirvana1991-06-20t03.flac
+10266b7cde1a8b674b6c807567cdc73f *nirvana1991-06-20t04.flac
+21bb791bfe14194fd778503f5bd92562 *nirvana1991-06-20t05.flac
+b7c456b9e2c7a9ef3c3a5b941ebbc8d4 *nirvana1991-06-20t06.flac
+42812b49871121371991b24290eace5a *nirvana1991-06-20t07.flac
+a5a242babed2b9bca46380ffabc58a0b *nirvana1991-06-20t08.flac
+f18301d603f740fb539c81671ce03c78 *nirvana1991-06-20t09.flac
+c667ea2b898dab91cd340e785d8ae7dc *nirvana1991-06-20t10.flac
+6f781c0b996aa3f8fba3f74ea6b7946b *nirvana1991-06-20t11.flac
+87066822dd62afc71961b3e1aca7fd2c *nirvana1991-06-20t12.flac
+bc0c8052ce37650fef201b4805febb6e *nirvana1991-06-20t13.flac
+e6778a9240ce27c1cb7851b69862a532 *nirvana1991-06-20t14.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

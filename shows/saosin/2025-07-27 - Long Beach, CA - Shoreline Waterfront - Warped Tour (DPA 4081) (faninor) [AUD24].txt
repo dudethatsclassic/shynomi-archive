@@ -1,0 +1,27 @@
+Saosin
+2025-07-27
+Warped Tour @ Shoreline Waterfront
+Long Beach, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro
+02 - Sleepers
+03 - Voices
+04 - Collapse
+05 - Bury Your Head
+06 - Seven Years
+07 - It's Far Better to Learn
+08 - You're Not Alone
+
+-- Notes --
+Performing on the Beatbox stage.
+
+Length: 29m45s
+
+-- faninor -- 2025-08-12 --

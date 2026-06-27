@@ -1,0 +1,35 @@
+Artist: Deftones
+Venue: Parque O'Higgins
+City: Santiago 
+Country: Chile
+Date: 2024-03-13
+
+Source: FM
+Iriver T60> Fm 94.1 >Cable Rean=>Behringer UCA222=> Audacity (16b-48hz))=>WAVELAB + IZOPE OZONE=>cdWav>Aimp>FLAc=8
+Time: 74M
+Taper by: zatanax
+
+--------------------
+
+01 - Be Quiet and Drive (Far Away)
+02 - my mind is a mountain
+03 - locked club
+04 - Diamond Eyes
+05 - Rocket Skates
+06 - Sextape
+07 - Swerve City
+08 - Rosemary
+09 - ecdysis
+10 - infinite source
+11 - cut hands
+12 - Hole in the Earth
+13 - Change (In the House of Flies)
+14 - Genesis
+15 - milk of the madonna
+16 - Cherry Waves
+17 - My Own Summer (Shove It)
+18 - 7 Words
+
+--------------------
+
+Festival Lollapalooza Chile 2026

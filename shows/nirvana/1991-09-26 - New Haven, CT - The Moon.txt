@@ -1,0 +1,65 @@
+NIRVANA
+September 26, 1991
+The Moon
+New Haven, CT
+
+SOURCE (AUD #1):
+unknown > Sony WM-D6
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+71:50
+
+TRACKS:
+01. intro
+02. Jesus Wants Me For A Sunbeam
+03. Here She Comes Now
+04. D-7
+05. Aneurysm
+06. Drain You
+07. School
+08. Floyd The Barber
+09. About A Girl
+10. Love Buzz
+11. Smells Like Teen Spirit
+12. Breed
+13. Polly
+14. Spank Thru
+15. Sliver
+16. Blew (jam)
+17. Blew
+18. Been A Son
+19. Negative Creep
+20. Endless, Nameless
+
+MD5 FINGERPRINTS:
+1790865953c714d7ba3d6578c0b0f1ab *Nirvana_1991-09-26_AUD1_t01.flac
+ca14ceda6866627b9bb0f7ab0e387e10 *Nirvana_1991-09-26_AUD1_t02.flac
+e323fffca965cf5722cbbd2a5a887223 *Nirvana_1991-09-26_AUD1_t03.flac
+e051b210067748c8983ac51b75fe1bf5 *Nirvana_1991-09-26_AUD1_t04.flac
+ad6fb2194a606d49736a226941be8e33 *Nirvana_1991-09-26_AUD1_t05.flac
+0080fab024a85e8fae53cd07876b31ca *Nirvana_1991-09-26_AUD1_t06.flac
+f0f4530cbc407b578311c27c78b5efb7 *Nirvana_1991-09-26_AUD1_t07.flac
+51059e09f574b4c1f4cec34dae5fabef *Nirvana_1991-09-26_AUD1_t08.flac
+a1ef8cb91694b135889167d819d78a1d *Nirvana_1991-09-26_AUD1_t09.flac
+746e1c0a51608da982c2a10535c54d29 *Nirvana_1991-09-26_AUD1_t10.flac
+8a1d6dc203aca4567e767fd51e4e101b *Nirvana_1991-09-26_AUD1_t11.flac
+a892685c544c8bb888b859522dc32fe5 *Nirvana_1991-09-26_AUD1_t12.flac
+9225ca0800b5b710d632da139b3b096f *Nirvana_1991-09-26_AUD1_t13.flac
+5eadb5fa9ad7b7306aa35bf4af66096f *Nirvana_1991-09-26_AUD1_t14.flac
+40879cc2aa141c96aa8c18096c6f0e0f *Nirvana_1991-09-26_AUD1_t15.flac
+2f45d54765d0741d9aa94a5cc4b75707 *Nirvana_1991-09-26_AUD1_t16.flac
+db8f994d9f0d37d3b01be1d27ff7f0d9 *Nirvana_1991-09-26_AUD1_t17.flac
+96291861065ba291661de0a7883a03a6 *Nirvana_1991-09-26_AUD1_t18.flac
+2e6f1217b19026f3b2253a8b9accfc74 *Nirvana_1991-09-26_AUD1_t19.flac
+f359a88f88da9d55d67136bd2a5fcd70 *Nirvana_1991-09-26_AUD1_t20.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

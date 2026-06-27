@@ -1,0 +1,44 @@
+Radiohead
+2016-07-27
+Madison Square Garden
+New York, NY
+    
+  Source:  Church Audio CA-14 > Battery Box > Sony PCM-M10 (24-bit/48k).
+Location:  SEC 208
+Transfer:  Sony Sound Forge Pro 11.0 (EQ; L3 UltraMaximizer Stereo; Fades) > CDWave > FLAC24 via Trader's Little Helper @ Level 8.
+   Taper:  mkdevo <mkdevo AT gmail DOT com>
+
+-----------------------------------------
+    TOTAL:                      [2:13:57]
+-----------------------------------------
+01. Burn the Witch *              [03:48]
+02. Daydreaming                   [05:49]
+03. Decks Dark                    [05:03]
+04. Desert Island Disk            [05:24]
+05. Ful Stop                      [05:30]
+06. My Iron Lung                  [05:35]
+07. Climbing Up the Walls         [04:53]
+08. Morning Mr. Magpie            [05:14]
+09. Pyramid Song                  [05:41]
+10. Bloom                         [06:46]
+11. Identikit                     [05:07]
+12. The Numbers                   [05:45]
+13. The Gloaming                  [03:58]
+14. Weird Fishes/Arpeggi          [05:41]
+15. Everything in Its Right Place [04:30]
+16. Idioteque                     [04:47]
+17. There There                   [05:30]
+18. encore break 1                [02:48]
+19. Give Up the Ghost             [05:52]
+20. Let Down                      [05:31]
+21. Present Tense                 [06:19]
+22. Planet Telex                  [04:58]
+23. Karma Police                  [05:39]
+24. encore break 2                [03:03]
+25. Reckoner                      [05:51]
+26. Creep                         [04:55]
+-----------------------------------------
+
+* Beginning of Track 1 is cut; joined in progress.
+
+Enjoy!

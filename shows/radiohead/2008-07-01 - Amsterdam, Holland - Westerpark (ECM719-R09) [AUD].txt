@@ -1,0 +1,78 @@
+---------------------------------------------------------------------
+         Radiohead - 20080701 - Westergasfabriek - Amsterdam
+---------------------------------------------------------------------
+
+Artist...............: Radiohead
+Album................: 20080701 - Westergasfabriek - Amsterdam
+Genre................: rock
+Source...............: Edirol
+Year.................: 2008
+Ripper...............:  & 
+Codec................: Free Lossless Audio Codec (FLAC)
+Version..............: reference libFLAC 1.2.1 20070917
+Quality..............: Lossless, (avg. compression: 80 %)
+Channels.............: Stereo / 44100 HZ / 16 Bit
+Tags.................: VorbisComment
+Information..........: 
+
+Ripped by............:  on 5-7-2008
+Posted by............:  on 5-7-2008
+News Server..........: 
+News Group(s)........: 
+
+Included.............: NFO, MD5, M3U
+
+
+---------------------------------------------------------------------
+                       Tracklisting
+---------------------------------------------------------------------
+
+   1. (00:06:02) Radiohead - Bodysnatchers
+   2. (00:04:21) Radiohead - All I need
+   3. (00:04:28) Radiohead - National Anthem
+   4. (00:04:35) Radiohead - 15 Step
+   5. (00:04:28) Radiohead - Lucky
+   6. (00:04:19) Radiohead - Nude
+   7. (00:04:47) Radiohead - Street Spirit (fade out)
+   8. (00:05:24) Radiohead - There There
+   9. (00:03:43) Radiohead - The Gloaming
+  10. (00:05:14) Radiohead - Weird Fishes - Arpeggi
+  11. (00:04:56) Radiohead - Idioteque
+  12. (00:02:31) Radiohead - Faust Arp
+  13. (00:04:56) Radiohead - Videotape
+  14. (00:04:14) Radiohead - Just
+  15. (00:04:28) Radiohead - Bangers and Mash
+  16. (00:05:33) Radiohead - Everything in its Right Place
+  17. (00:05:40) Radiohead - Reckoner
+  18. (00:05:38) Radiohead - House of Cards
+  19. (00:05:16) Radiohead - Climbing up the Walls
+  20. (00:03:32) Radiohead - Wolf at the Door
+  21. (00:04:47) Radiohead - Jigsaw falling into Place
+  22. (00:05:00) Radiohead - Karma Police
+  23. (00:04:04) Radiohead - Super Collider
+  24. (00:07:04) Radiohead - How to disappear completely
+  25. (00:04:50) Radiohead - Planet Telex
+
+Playing Time.........: 02:09:02
+Total Size...........: 754,15 MB
+
+NFO generated on.....: 5-7-2008 14:26:17
+
+
+---------------------------------------------------------------------
+Radiohead
+Live at Westerpark
+Cultuurpark Westergasfabriek - Amsterdam
+1 July 2008
+
+Source:
+Sony ECM-719 ->
+Edirol R-09 ->
+USB2 ->
+Har-Bal v2.3
+Wavelab v5.01b Build 240 ->
+CD Wave Editor v1.97
+Flac Frontend v1.7.1 Etree Edition
+---------------------------------------------------------------------
+
+

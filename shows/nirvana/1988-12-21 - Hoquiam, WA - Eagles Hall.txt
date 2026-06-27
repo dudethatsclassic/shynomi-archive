@@ -1,0 +1,56 @@
+NIRVANA
+December 21, 1988
+Eagles Hall
+Hoquiam, WA
+
+DISC #1/1 (60:16)
+-----------------
+01) intro
+02) School
+03) Love Buzz
+04) Floyd The Barber
+05) Mr. Moustache
+06) Paper Cuts
+07) Mexican Seafood
+08) Spank Thru
+09) Aero Zeppelin
+10) Sifting
+11) Hairspray Queen
+12) Run, Rabbit, Run!
+13) Big Cheese
+14) Immigrant Song
+15) Blew
+
+GENERATION
+-----------------
+ANA(x) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Sound Forge 7.0 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+e658a60127835bef2100a8c1714fe695 *nirvana1988-12-21t01.flac
+8164fa929f842b5b76e847615590d0f2 *nirvana1988-12-21t02.flac
+6c4bd37dea4b749eadf999dd4ab118d1 *nirvana1988-12-21t03.flac
+be1c2efdc26d8b55a40b364fe52c7740 *nirvana1988-12-21t04.flac
+87ab59acce84818622ad46ec6b404947 *nirvana1988-12-21t05.flac
+774251562f5366e64749f9601d806e40 *nirvana1988-12-21t06.flac
+0e1cc828b77143d98ec69bf5ff78071a *nirvana1988-12-21t07.flac
+96ae18654f7d13dfeb4f730ff5ae6d9d *nirvana1988-12-21t08.flac
+db2fc180ec82a6f57f755ce7985ffe30 *nirvana1988-12-21t09.flac
+0e0cea94673953559597ce0124abb330 *nirvana1988-12-21t10.flac
+8d0705867311eacaba2e8962a56f2dd3 *nirvana1988-12-21t11.flac
+ae64a97920ccbc7ce49b7f1c0b00cc98 *nirvana1988-12-21t12.flac
+daf74b28ccef2cdce645f0c9e46526fa *nirvana1988-12-21t13.flac
+0040d0b9f79ddaf77d15cb83e3746342 *nirvana1988-12-21t14.flac
+aa9d8b32a9007d07d595bf007d360d93 *nirvana1988-12-21t15.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

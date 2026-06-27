@@ -1,0 +1,136 @@
+NIRVANA
+
+11/15/89 - Schwimmbad Musik Club, Heidelberg, West Germany
+
+
+
+Generation: VHS(1)>DVDR(1)->HDD
+
+with your disc's generation: VHS(1)->DVDR(2) when burned 
+
+Source: AMT #1 - amateur video
+Length: 57 mins - complete
+
+Transferred by: Jim Hirte
+Video: 8 mb/s CBR (PAL>NTSC conversion)
+Audio: PCM
+Equipment: JVC HR-S5900-U -> datavideo TBC 1000 -> Pinnacle DC1000, Captured at 25Mbps AVI, 
+Video Editing in Premiere 6.0, Audio Editing in CoolEdit Pro 1.2a
+
+JH's notes and credits:
+===========================================================================================
+
+This DVD was created by:
+
+Jim Hirte
+j_hirte@yahoo.com
+
+Source: VID(1) = VHS(1)
+VHS(1) tape provided by Rob Cardenaz
+
+This DVD was created using:
+
+Capture Card: Pinaccle DC1000
+Editing: Adobe Premiere 6.5
+Audio Editing: CoolEdit Pro 1.2a
+DVD authoring: Sonic Scenarist
+
+Thanks to:
+Rob Cardenaz
+
+thanks!!!!
+
+===========================================================================================
+
+Set: 
+
+School 
+Scoff 
+Love Buzz 
+Floyd The Barber 
+Dive 
+Sappy 
+Spank Thru 
+Big Cheese 
+About A Girl 
+Mr Moustache 
+Breed 
+Been A Son 
+Negative Creep 
+Blew 
+Stain 
+
+Source  Format Quality Complete Length Equipment  Lowest Gen 
+AMT #1   VID    8.5     Yes       57    Unknown   VHS(1)>DVDR  
+
+
+My notes and review: 
+
+This is a very nice set of the band when they were touring in West Germany in 1989. The VHS(1)
+tape that was used to transfer this to DVD format did have some tracking errors. Everyone remembers
+the tracking errors that VHS tapes sometimes had - lines through the screen. The tracking errors
+are in the middle to lower of the screen during the beginning of the DVD especially in the first 
+minute during which Kurt and Krist are tuning their instruments and Kurt screams into the microphone for 
+the soundcheck (very similar to the intro of Kurt's scream found on the first track of "From the Muddy
+Banks of the Wishkah" CD - 1996), but the tracking errors become less prevalent as the DVD moves forward. 
+Af 20:57 "Sappy" begins...the tracking errors are limited to the lower 1/4 of the screen. Sappy's very 
+nicely done, and it's amazing that Kurt was working on this song as far back as 1989. More polished 
+versions of "Sappy" would appear as late as Febraury 1994 during Nirvana's tour in France and through 
+Italy. There are some really nice shots of Kurt during "Sappy"....."Spank Thru" starts at 24:26, and the
+tracking errors diminish to the lower 1/4 and 1/6th or very bottom of the screen until after 27:45 when 
+there are no longer any tracking errors to speak of. In short, the video quality improves dramatically 
+as the DVD moves forward. At 28:11 at the start of "Big Cheese" to the end of the 57 minute set, there 
+are no longer any tracking errors.    
+
+Between songs, you can hear Arnold Schwarzenegger's (now California's Governor or "Governator") 
+voice repeating the same lines over and over: 
+
+"Hi, this is Arnold. Bend your legs at a 45 degree angle...slim, sexy waist, in, out, in out, in out...." 
+
+The movie, "The Terminator," must have been released some time recent to the taping of this show 
+because this same repeating loop of Arnold's voice can be heard on the bootleg CD's, "Out of the Blue" 
+and "Play the F@@@ing Guitar, Man." If you don't have "Out of the Blue," you really should!
+
+Both of these CD's come from a soundboard recording a week later on 11/22/1989 at the U4 in Austria,
+recorded live for Austrian radio. Band plays in very close proximity to the crowd which is less than 
+1 meter from both Kurt and Krist, who both seem in very good spirits and play flawlessly.    
+
+The taper does an excellent job, taking great shots of all 3 band members, even Chad Channing 
+behind the drums. The taper may have been someone the band knew and allowed this person to videotape 
+the entire show from a very close distance on the stage just near Krist. Krist sometimes obstructs 
+the taper's shot of Kurt, so the taper shoots at interesting angles at times to get around Krist.
+Kurt's hair is so long that you can not see his face at times. There are, of course, some very nice
+closeups of Kurt. The lighting at the venue is fairly good, and there's an excellent mix of Kurt's
+guitar, vocals, Krist's bass and Chad's drumming. Only major detractor to the set is probably the 
+tracking errors in the first 30 minutes of the 57 minute set. Consider that the master tape VHS(M)
+may have been destroyed by now. Thus far, Jim Hirte's transfer is the lone superior VHS(1) transfer,
+which surfaced and was transferred at or around March 2005. While some generational loss is noticeable
+at times, there are also some very nice clean, clear shots of very young Kurt Cobain, only 21-22 years
+old at the time of this recording. The taper does move to the right side of the stage for the last song, 
+"Stain." None of the songs on this DVD cut in or cut out. DVD's lineage is correct: VHS(1)->DVDR(1)->HDD
+-> with your copy as DVDR(2)....most likely the lowest currently circulating DVDR generation available 
+for this disc anywhere. 
+
+This DVD is by request.
+
+MD5 Checksum of VIDEO_TS Folder:
+
+# MD5 checksums generated by MD5summer (http://www.md5summer.org)
+# Generated 4/10/2008 6:55:26 PM
+
+816648908371ee0bec6559b7574992ca *video_ts.bup
+816648908371ee0bec6559b7574992ca *video_ts.ifo
+ba24d123ed6e620a8e5a88c2440eaf7a *vts_01_0.bup
+ba24d123ed6e620a8e5a88c2440eaf7a *vts_01_0.ifo
+6020fe149f9e133eccafe5c1c0938563 *vts_01_0.vob
+c564e98f619f235566ae366bce538a57 *vts_01_1.vob
+97f21a866b463a5b9e608648b5f10495 *vts_01_2.vob
+0d7d527436367c402ffdfc52c2b0c6b2 *vts_01_3.vob
+fd937e18ffbb7990eeffb8a034a49c70 *vts_01_4.vob
+  
+
+
+
+Please seed, enjoy....
+
+BUT DO NOT CONVERT TO LOSSY FORMATS AND DO NOT SELL!!!!!!!!!!!!

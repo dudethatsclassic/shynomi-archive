@@ -1,0 +1,41 @@
+NIRVANA
+1987-05-06 KAOS Radio, Evergreen State COllege, Olympia WA
+
+Elmo Leak + FM>ANA(3)
+MW Remaster / Source Patch
+
+
+REMASTERING NOTES:
+
+1) Speed of Elmo leak changed to match WTLO speed
+2) Speed of FM>ANA(3) changed to match corrected Elmo Leak
+3) FM>ANA(3) Eq'd to match Elmo Leak
+4) Phase drift of FM>ANA(3) re-aligned (previously done)
+5) Sound drop-outs in FM>ANA(3) patched (previously done)
+6) Sound drop-outs and digital clicks in Elmo leak repaired
+7) Sources stitched together to provide complete source and fill in content missing from Elmo Leak
+8) Between-song segments derived from FM>ANA(3) NR'd and Eq'd to match hiss levels and hiss sound on Elmo Leak
+9) Entire recording *gently* normalized to standardize volume levels song-to-song, and to balance L&R channels. No dynamic range was lost.
+
+
+* The beginning ~50 seconds of Love Buzz (missing from Elmo leak) are derived from the FM>ANA(3), after it was Speed Corrected and Eq'd to match Elmo leak.
+
+* The first few seconds of Spank Thru (missing from Elmo leak) are derived from the FM>ANA(3), after it was Speed Corrected and Eq'd to match Elmo leak, and additionally these first few seconds were also NR'd to avoid a distracting change in hiss levels between sources. The beginning of Love Buzz is not NR'd, because the high volume of the music at the patch point hides the difference in hiss levels well enough not to be distracting. 
+
+* All between-song banter not present on Elmo leak has been NR'd and then Eq'd to match the hiss levels and hiss sound on the Elmo leak, AFTER these segments were properly remastered along with the rest of the FM>ANA(3) source to match the musical content of the two sources. The FM>ANA(3) source has drastically higher hiss levels than the Elmo leak, which is why between-song segments were NR'd and re-Eq'd, after the primary remastering process. 
+
+* Radio host Donna Dresh's comments "Youre still on!" etc, are derived from the FM>ANA(3) and were pasted overtop the Elmo source since these comments are not present on the Elmo source. Otherise it seems like Kurt is talking to himself. The Radio station ID announcement with the children exclaiming KAOS!!! was lowered in volume since it was way too loud in comparison to the rest of the recording.
+
+
+***
+ALL HAIL THE MIGHTY ELMO, and in the spirit of generosity if you have any uncirculated NIRVANA recordings please follow Elmo's example and likewise share freely.
+***
+
+Mike Wilkinson
+August 2016
+
+
+
+
+
+

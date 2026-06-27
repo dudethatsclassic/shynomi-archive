@@ -1,0 +1,18 @@
+Radiohead
+1996-05-27
+Pinkpop Festival
+Landgraaf, The Netherlands
+
+[Incomplete Show]
+Lineage: DVB-C (NPO2 Extra Broadcast) > Vu+ Uno 4K SE > .TS file
+Video: PAL 25 fps, 720×576, 16:9, Interlaced [4527 Kbps]
+Audio: MP2 CBR, 48000Hz, Stereo, 2 channels [192 Kbps]
+Overall Bitrate: [4966 Kbps]
+total run time: 00:17:44
+
+01. Street Spirit (Fade Out)
+02. Lift
+03. Creep
+04. Fake Plastic Trees
+
+Recorded by chrizzz99999

@@ -1,0 +1,64 @@
+NIRVANA
+December 1st, 1989
+Fahrenheit, Espace Icare
+Issy-les-Moulineaux, France
+
+SOURCE (AMT #1):
+unknown > unknown
+
+TRANSFER:
+unknown > VirtualDub 1.10.4 > SoundForge 12.1 > "ZakSync™" > Audition CC > Trader's Little Helper 2.8.4
+
+GENERATION:
+VHS(X) > WAV [16-bit/48KHz] > WAV [16-bit/44.1KHz] > FLAC
+
+DURATION:
+44:35
+
+SETLIST:
+00. Intro
+01. School (cut)
+02. Scoff (cut)
+03. Love Buzz
+04. Floyd The Barber
+05. Dive
+06. Polly
+07. Big Cheese
+08. Spank Thru (cut)
+09. About A Girl
+10. Breed
+11. Been A Son
+12. Stain
+13. Negative Creep
+14. Blew (cut)
+
+MD5 FINGERPRINTS:
+c6a7bbe6cc1eb88dd18fe46e214c37f1 *NIRVANA 1989-12-01 AMT#1 VHS(X)_00 Intro.flac
+71b5f68ec5fe1f1694815b16f75bab63 *NIRVANA 1989-12-01 AMT#1 VHS(X)_01 School.flac
+b897542a8063dcd07a50ada994f853ab *NIRVANA 1989-12-01 AMT#1 VHS(X)_02 Scoff.flac
+1bc0ebae476bb4fb9cb7e87df38d3ba0 *NIRVANA 1989-12-01 AMT#1 VHS(X)_03 Love Buzz.flac
+c3459b87e08f1a8ffe3ca8137254d7f7 *NIRVANA 1989-12-01 AMT#1 VHS(X)_04 Floyd The Barber.flac
+e84b5eac3ccd05cf4c0fbf457de28b2c *NIRVANA 1989-12-01 AMT#1 VHS(X)_05 Dive.flac
+d2915d001c1b78b36a10c89556f7df08 *NIRVANA 1989-12-01 AMT#1 VHS(X)_06 Polly.flac
+a58aba00e881018c4bc1f0e28d9c87d5 *NIRVANA 1989-12-01 AMT#1 VHS(X)_07 Big Cheese.flac
+2797f091684abd0b70773aabdc1b6f43 *NIRVANA 1989-12-01 AMT#1 VHS(X)_08 Spank Thru.flac
+d733f2725815f839d28da2bc6b97ab75 *NIRVANA 1989-12-01 AMT#1 VHS(X)_09 About A Girl.flac
+da2164b17718ae3de995913e5f640f4e *NIRVANA 1989-12-01 AMT#1 VHS(X)_10 Breed.flac
+ece1404c373c90f465a79e6c447ab3f4 *NIRVANA 1989-12-01 AMT#1 VHS(X)_11 Been A Son.flac
+6ab6e5ea20eb30fefdc3174be79da18c *NIRVANA 1989-12-01 AMT#1 VHS(X)_12 Stain.flac
+063a994a7b0732fcb95050a112110630 *NIRVANA 1989-12-01 AMT#1 VHS(X)_13 Negative Creep.flac
+ef674d173bca4d6f3c4d467c9a4407f5 *NIRVANA 1989-12-01 AMT#1 VHS(X)_14 Blew.flac
+
+DISTRIBUTION:
+Members of LiveNIRVANA.com
+
+NOTES:
+Generation is either VHS(M) or VHS(1); not currently known which.
+Transfer secured by Nicolas Ferry. Camcorder and tape digitizing equipment lineage unknown.
+Video encode by Nicholas Serra.
+Audio sourced from alternate transfer with worse video quality, but better audio quality; 
+Better audio synced by Mike Wilkinson utilizing Zak Andree's "ZakSync™" software.
+
+2022-12-01
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,93 @@
+Radiohead
+2008.08.13
+August 13th, 2008	
+Mansfield, MA, USA
+Comcast Center
+
+
+Taper:		Joe Cooper (jdcooper@bucknell.edu) (db.etree.org/thierryhenry/)
+Location:		FOB, DFC. GA PIT. Last Row Of PIT (Appx. Sec 2 Row M), 20' Feet From Stage, Mics Mounted In Hat, AB.
+Source:		SP-CMC-8 (AT933's) > SP-SPSB-6 (Bass Roll Off @ 95Hz) > IRiver IHP-120 (Rockbox, 44.1 Khz)
+Transfer:		Iriver IHP-120 > USB Cable > PC (USB IN) > Sony Vegas 8.0 (Volume Increase, Normalize) > CD Wave (44.1 Khz, 16 Bit, Stereo) (Track Splits) > WAV > FLAC Frontend 8 > FLAC (Level 8) > Md5Summer
+Filesize:		1.23 GB WAV, 689 MB FLAC
+
+<><><><><><><><><><><><><><><><>
+--------------------------------------------
+Please Do Not Convert To Mp3.
+Please Do Not Sell.
+Please Attach This File When Distributing.
+--------------------------------------------
+<><><><><><><><><><><><><><><><>
+
+Setlist:
+
+01:	Intro				-		01.28.68
+02:	Reckoner				-		05.38.69
+03:	Optimistic				-		05.00.21
+04:	There There			-		05.31.20
+05:	15 Step				-		04.38.52
+06:	Kid A				-		04.10.28
+07:	Nude				-		04.39.33
+08:	All I Need				-		04.12.34
+09:	The Gloaming			-		04.11.57
+10:	The National Anthem		-		05.25.06
+11:	Videotape				-		05.11.61
+12:	Jigsaw Falling Into Place		-		04.28.52
+13:	The Bends			-		04.26.61
+14:	Faust Arp				-		02.54.35
+15:	Weird Fishes/Arpeggi %		-		01.34.17
+16:	Everything In Its Right Place		-		04.45.21
+17:	Exit Music (For A Film)		-		04.46.22
+18:	Bodysnatchers			-		04.12.08
+19:	Encore				-		03.14.04
+20:	House Of Cards			-		05.40.66
+21:	I Might Be Wrong			-		05.14.57
+22:	Paranoid Android			-		06.40.72
+23:	A Wolf At The Door			-		03.55.73
+24:	How To Disappear Completely		-		07.10.44
+25:	Encore				-		01.50.60
+26:	Cymbal Rush			-		04.39.54
+27:	Karma Police			-		04.25.01
+28:	Idioteque				-		04.49.16
+
+Total:					-		124.58.62
+
+Show Notes:
+
+% = Pressed Pause On Recorder Thus Most Of This Song Is Cut.
+Interesting Chatter On This One. I Have Never Been In The PIT Nor Taped
+From There. You Can VISIBLY Hear My Good Friend Making An Ass Of Himself
+Throughout The Beginning 3 Songs And During The Encores, And The Overall
+Chatter Is High, Still Pleasing To The Ears Nonetheless.
+Special Thanks To "BK" For The Ticket.
+
+
+rh2008-08-13d1t01.flac:b6968c31d9cfbdd32eca1c7ab5a2e0e4
+rh2008-08-13d1t02.flac:81fbf77f4d710bf2cfbc0bfb01e1d85c
+rh2008-08-13d1t03.flac:8012792abc058321da9266568e9bb169
+rh2008-08-13d1t04.flac:71637f14e0827ffad039003574721d69
+rh2008-08-13d1t05.flac:e1ca949ba24ec584a11f2fc76a302d57
+rh2008-08-13d1t06.flac:a69450568d09488331b5bf064909028f
+rh2008-08-13d1t07.flac:c8fae84d4e238ae187bbc5c176daa5d2
+rh2008-08-13d1t08.flac:6c931ce78986e50283a4912ffce3b0fa
+rh2008-08-13d1t09.flac:9480dfc0ef48dd921b0e2b2d219cd204
+rh2008-08-13d1t10.flac:c1a225b4672f1677ad97c6682fb53e5a
+rh2008-08-13d1t11.flac:f0bd1be6debe5a9df6317c6b558f31bc
+rh2008-08-13d1t12.flac:70657b6cac43d537c4d98059c856649a
+rh2008-08-13d1t13.flac:ab7d353bea6ea9e1a53a51d4d33d0f32
+rh2008-08-13d1t14.flac:aec0255c1f4afaaf32c56bbd0f331ddb
+rh2008-08-13d1t15.flac:553a7da5bdc3702e5cd99fe52a63c82a
+rh2008-08-13d1t16.flac:93d6237cc60935a1936546c345f78595
+rh2008-08-13d1t17.flac:5db9c54bd6afc7a1f338858f94d7c227
+rh2008-08-13d1t18.flac:512ad7fa1cc1e9eee09afd9ccc0932f7
+rh2008-08-13d1t19.flac:9fe38a2cb252e52cb15e6d6893c211f2
+rh2008-08-13d1t20.flac:9af5961f6e4233c4d4737b137a2c72d7
+rh2008-08-13d1t21.flac:92b87fc9e63923be7568ec2868b9decd
+rh2008-08-13d1t22.flac:41ce353cd653143ca17dd04da1e9fe8d
+rh2008-08-13d1t23.flac:786fd074d33bca04f2bfc97a5ca956f2
+rh2008-08-13d1t24.flac:2ade17b5a6b3651afb0742e95cc73e37
+rh2008-08-13d1t25.flac:a2311857a51273ae20804d4c287a7d0a
+rh2008-08-13d1t26.flac:a67d7530aa845345f5646a63b1af48d1
+rh2008-08-13d1t27.flac:f744134a8a3bafef55a1bcd19235fe67
+rh2008-08-13d1t28.flac:b3f3e93161bae6acec594b163393ebe9
+

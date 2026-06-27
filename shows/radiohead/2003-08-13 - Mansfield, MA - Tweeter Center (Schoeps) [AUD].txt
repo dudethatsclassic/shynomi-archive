@@ -1,0 +1,56 @@
+Radiohead
+August 13, 2003
+Tweeter Center for the Performing Arts (Greatwoods)
+Mansfield, MA
+
+Source:    Schoeps CCM4 (ORTF in hat) > Sound Devices MP-2 > Sony PCM-M1 @48kHz
+Location:  FOB/Front row of pit against barricade - 3' left of center/Thom Yorke
+
+Conversion: Tascam DA-P1 > Samplitude 2496 > CDWav > Soundforge 4.5 > Shorten v3
+
+Taped/transferred/encoded by Hobbes (hipcathobbes@brown.edu)
+d1t01 edits by CT in Cool Edit Pro 2.1
+
+Disc One (or, Premier.)
+01.  2 + 2 = 5
+02.  Sit Down, Stand Up
+03.  Paranoid Android
+04.  Kid A
+05.  Backdrifts
+06.  Morning Bell
+07.  My Iron Lung
+08.  Where I End and You Begin
+09.  The Gloaming
+10.  Sail To The Moon
+11.  Climbing Up The Walls
+12.  Creep
+13.  Like Spinning Plates
+14.  Go To Sleep
+
+
+Disc Two. (or, Redux.)
+01.  Scatterbrain
+02.  The National Anthem
+03.  There There
+04.  E1:  Lucky
+05.  E1:  A Punch-Up At a Wedding
+06.  E1:  Airbag
+07.  E1:  Everything In Its Right Place
+08.  E2:  No Surprises
+09.  E2:  Idioteque
+10.  E2:  (crowd noise, or, Exit Music [for a concert])
+
+Notes:
+- Thanks to CT for the M1, and to SAW for helping bring the gear in.
+
+- Extreme volume changes with some clipping occured during d1t01, so 
+  the 104.1FM WBCN broadcast was spliced in from ~2:58 to ~4:04 with 
+  a 1.5db cut, 45 second blend coming in, 30 second blend going out.
+
+seeded in the Radiohead D++ Hub by Prozac Ship
+radioheadlive.kicks-ass.net
+
+many thanks to those involved....
+
+
+

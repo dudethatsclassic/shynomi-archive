@@ -1,0 +1,54 @@
+DEFTONES
+June 20, 1998
+Irvine Meadows Amphitheatre
+Irvine, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. Around The Fur
+02. Lotion
+03. My Own Summer (Shove It)
+04. Root
+05. 7 Words
+06. Mascara
+07. MX
+08. Be Quiet And Drive (Far Away)
+09. Headup
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.0
+unknown > Sony WM-D3
+
+TRANSFER:
+-------------------
+unknown mic > Sony Walkman WM-D3 Professional Stereo Cassette Recorder > unknown transfer > AIFF [44.1kHz/16-bit] > Sound Forge > FLAC > Adobe Audition 23.3 [post-production/mastering] > xACT 2.52 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+ANA(M) > AIFF [44.1kHz/16-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- Before "Be Quiet And Drive (Far Away)", Chino makes note of hearing "Glycerine" by Bush through the guitar feedback.
+- The taper was evidently really close to a P.A. stack. Because of movement and other external sources, the sound had a lot of wavering and some unbalanced frequencies. The sound is now balanced, and some of the wavering has been tamed. The sound of keys, charms, or some other abundance of light metal can be heard throughout the recording. 
+
+
+FLAC FINGERPRINTS:
+-------------------
+deftones1998-06-20-aud1-t00.flac:47b199f71067edac7d633a7990a3b59e
+deftones1998-06-20-aud1-t01.flac:cc6507ebb6582c7402789da351889033
+deftones1998-06-20-aud1-t02.flac:d7ee5b68c2d2c94f5843b34ebf97f9c1
+deftones1998-06-20-aud1-t03.flac:f01e1b09af3db2fa582d8133d122559c
+deftones1998-06-20-aud1-t04.flac:f074d83b7fab056b2790342cc8484c81
+deftones1998-06-20-aud1-t05.flac:1c76e0f7c8d90c50c15dbfcefbc0b339
+deftones1998-06-20-aud1-t06.flac:046128a4d9d835c08f1bea45c0f9e682
+deftones1998-06-20-aud1-t07.flac:137040774cb7268fed00863f904a65e2
+deftones1998-06-20-aud1-t08.flac:c2ce0eecdb2ecdb43b8cdc7404aed409
+deftones1998-06-20-aud1-t09.flac:ac8874bb329a59a464fa274a4cfd7f8e
+
+
+Transferred and encoded by: ijwthstd & vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

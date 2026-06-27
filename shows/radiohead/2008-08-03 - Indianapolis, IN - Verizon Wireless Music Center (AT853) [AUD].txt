@@ -1,0 +1,51 @@
+Radiohead
+August 3rd, 2008 
+Verizon Wireless Music Center
+Noblesville, IN
+
+Taper: Richard Simms (sullen)
+Source: AT853s > CA ST-9100 > 
+        iRiver h120 with Rockbox 
+Transer: iRiver h120 > Computer via USB 2.0 
+Processing: Adobe Audition 1.5 > Increase volume >
+            CD Wave Editor 1.94.5 > FLAC FrontEnd (Level 8, Align SB)
+Tagging: Foobar2000 v0.9.5.3 with TradersFriend Component  
+
+
+CD 1
+-Main Set
+01. Intro
+02. 15 Step
+03. Bodysnatchers
+04. There There
+05. All I Need
+06. Pyramid Song
+07. Nude
+08. Weird Fishes/Arpeggi
+09. The Gloaming
+10. Climbing Up The Walls
+11. Faust Arp
+12. Videotape
+13. Morning Bell
+14. Idioteque
+
+CD 2
+-Main Set Cont.
+01. Reckoner
+02. Everything In Its Right Place
+03. Just
+04. How To Disappear Completely
+-Encore 1
+05. You And Whose Army?
+06. Bangers And Mash
+07. Exit Music (For A Film)
+08. Jigsaw Falling Into Place
+09. Karma Police
+-Encore 2
+10. House Of Cards
+11. The National Anthem
+12. Street Spirit (Fade Out)
+
+Notes:
+1. Keep live music free for everyone!  DO NOT SELL THIS RECORDING! 
+

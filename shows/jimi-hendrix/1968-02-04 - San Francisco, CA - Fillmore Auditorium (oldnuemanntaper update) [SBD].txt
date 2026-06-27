@@ -1,0 +1,20 @@
+Jimi Hendrix Experience
+Feb 2, 1968
+Fillmore Auditorium
+San Francisco, CA
+
+Trade FLACs >WAV >Audacity (Combine Tracks To A One-Track File, Amplify Low-Level Tracks To Match 'Catfish Blues', Which Had Strong Levels, Remove And Repair Minor Gaps Between Tracks, Remove And Repair Tape Flip Pause In 'Dear Mr. Fantasy', Remove And Repair Several Small Static Blips, Re-Track Along Similar Index Points) >FLAC (Level 8) + Tags Via xACT 2.50 By OldNeumanntapr
+
+Soundboard
+
+Second show:
+
+Killing Floor
+Red House
+Catfish Blues
+Dear Mr. Fantasy *
+Purple Haze
+
+* tape flip.
+
+

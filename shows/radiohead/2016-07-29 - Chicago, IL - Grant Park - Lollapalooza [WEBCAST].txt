@@ -1,0 +1,42 @@
+Radiohead
+Lollapalooza
+Samsung Stage
+Grant Park
+Chicago, Illinois, US
+July 29, 2016
+
+Lineage: LIVE Webcast -> downloaded .ts segments (batch script) -> TSSplitter (join) -> FFmpeg (edit) -> .ts
+Video: MPEG4 Video (H264) 1280x720 3500 Kbps 30.00 fps
+Audio: AAC 160 Kbps 48.0 KHz stereo
+
+Setlist:
+Burn the Witch
+Daydreaming
+Ful Stop
+2 + 2 = 5
+Myxomatosis
+My Iron Lung
+Climbing Up the Walls
+No Surprises
+Pyramid Song
+Bloom
+Identikit
+The Numbers
+The Gloaming
+Weird Fishes/Arpeggi
+Everything in Its Right Place >
+Idioteque
+There There
+
+Encore 1:
+Let Down
+Present Tense
+Paranoid Android
+Nude
+Bodysnatchers
+
+Encore 2:
+Street Spirit (Fade Out)
+Karma Police 
+
+TRT = 02:06:15

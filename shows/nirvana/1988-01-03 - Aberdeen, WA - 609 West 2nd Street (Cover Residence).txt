@@ -1,0 +1,54 @@
+NIRVANA
+January 3, 1988
+609 West 2nd Street (Crover residence)
+Aberdeen, WA
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Tascam DA-20mkII > Lynx Studio Technology LynxONE > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(M) > DAT(1) [48kHz/16bit] > WAV [48kHz/16bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+LENGTH:
+42:00
+
+NOTES:
+- "Love Buzz" is mono.
+
+TRACKS:
+01. Love Buzz (cuts in)
+02. If You Must (cuts in)
+03. Downer
+04. Pen Cap Chew
+05. Mexican Seafood
+06. Spank Thru
+07. Paper Cuts
+08. Erectum
+09. Aero Zeppelin
+10. Hairspray Queen
+11. Floyd The Barber
+12. Annorexorcist
+13. Gypsies, Tramps & Thieves
+
+MD5 FINGERPRINTS:
+e537b7062fdd9b40269be267554335d3 *Nirvana_1988-01-03_AUD1_t01.flac
+30687c69e5ec67ff55df349b3d4e3e5c *Nirvana_1988-01-03_AUD1_t02.flac
+a614b35c2058dc0090f21e9031360118 *Nirvana_1988-01-03_AUD1_t03.flac
+41cde3835e37b956f29fcd8e78934a73 *Nirvana_1988-01-03_AUD1_t04.flac
+7f08443db5a74c3ba087972b41428bc8 *Nirvana_1988-01-03_AUD1_t05.flac
+06910b57e094161a5eab46626df35e25 *Nirvana_1988-01-03_AUD1_t06.flac
+3877d8a659af70e4befe937cb44c09a0 *Nirvana_1988-01-03_AUD1_t07.flac
+1dd4dffb2feec382cd3791c03bffd184 *Nirvana_1988-01-03_AUD1_t08.flac
+ed13b2c9c47ea8fdba96085ef87d27b1 *Nirvana_1988-01-03_AUD1_t09.flac
+97ec6123b3cd5ba419444e534fb18115 *Nirvana_1988-01-03_AUD1_t10.flac
+c44cc928ca3aa18645718b9fea2076be *Nirvana_1988-01-03_AUD1_t11.flac
+69e149068052ba3633154bbc55a18502 *Nirvana_1988-01-03_AUD1_t12.flac
+28e857745511b122eb354e36d864849c *Nirvana_1988-01-03_AUD1_t13.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

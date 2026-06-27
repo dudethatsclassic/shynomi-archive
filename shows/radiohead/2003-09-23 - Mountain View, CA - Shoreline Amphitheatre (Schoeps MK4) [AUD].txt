@@ -1,0 +1,45 @@
+Radiohead
+September 23, 2003
+Shoreline Ampitheatre
+Mountain View, CA
+
+Source: Schoeps MK4 > KCY > mod-Lemosax > SBM-1 > D100
+
+Conversion: D100 > VXpocket > Soundforge 6.0 > Waves LinEQ > Waves MB > CD Wav > shntool > shorten32
+
+
+Track  |  Name                                     |  Time (m:s)
+------------------------------------------------------------------ 
+d1t01     2+2=5                                       04:24.36
+d1t02     Sit Down. Stand Up.                         04:39.15
+d1t03     Where I End And You Begin                   04:21.15
+d1t04     Kid A                                       03:46.03
+d1t05     Backdrifts                                  07:00.57
+d1t06     Lurgee                                      04:00.74
+d1t07     Morning Bell                                04:16.58
+d1t08     My Iron Lung                                05:21.13
+d1t09     I Might Be Wrong                            04:37.45
+d1t10     Sail to the Moon                            04:38.14
+d1t11     Paranoid Android                            06:33.05
+d1t12     A Punchup at a Wedding                      05:00.19
+d1t13     Go To Sleep                                 04:01.62
+d1 totals 62:41.41
+
+d2t01     The Gloaming                                04:03.27
+d2t02     Idioteque                                   04:09.51
+d2t03     No Surprises                                04:16.71
+d2t04     There There                                 05:59.30
+Encore 1:
+d2t05     You And Whose Army?                         03:17.34
+d2t06     The National Anthem                         05:03.20
+d2t07     A Wolf at the Door                          03:21.58
+d2t08     How To Disappear Completely                 09:52.18
+Encore 2:
+d2t09     Airbag                                      05:14.11
+d2t10     Everything In Its Right Place               08:08.56
+d2 totals 53:27.01
+
+NOTES:
+A level adjustment and some pops in the right channel in d1t01.
+
+Seeded to the Radiohead DC++ hub on 9/26/2003

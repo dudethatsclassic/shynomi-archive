@@ -1,0 +1,78 @@
+
+Information:
+
+Crash Test Dummies Live at Dalla Festa Dell Unita di Correggio 
+
+Date: 1994-07-14
+
+Videomusic
+Italian TV
+PRO PAL
+
+Linage . VHS1 - Pioneer DVD recorder - HDD - TMPGENC - Dime
+
+Setlist
+
+God Shuffeled his feet
+Androgynous
+In the days of the caveman
+The Ghost that hunt me
+I think I'll disappear now
+How does a duck know
+When I go out with artists
+The Bereft mans song
+Swimming in your ocean
+Here I stand before me
+If I had my way
+Mmm mmm mmm mmm
+Supermans Song
+Band Introductions
+Afternoon and cofeespoons
+The Voyage
+Two Knights and Maidens
+My Funeral
+
+The Band: 
+
+Benjamin Darvill - Mandolin, harmonicas.
+Katy Brown - Back-up vocals, keyboards,
+Ellen Reid - Back-up vocals, piano, keyboards, accordion
+Brad Roberts - Lead vocals, acoustic and electric guitars.
+Dan Roberts - Bass guitars, synth bass
+Mitch Dorge - Drums, percussion.
+
+Support the band: http://www.crashtestdummies.com/#/home
+
+
+Video attributes:
+  Video compression mode: MPEG-2
+  TV system: 625/50 (PAL)
+  Aspect ratio: 4:3
+  Display mode: Both Pan&scan and Letterbox
+  Source picture resolution: 720x576 (625/50)
+  Frame rate: 25.00
+  Source picture letterboxed: Not letterboxed
+  Bitrate: 7.93Mbps
+
+Audio attributes: 
+  Audio coding mode: Dolby Digital
+  Sampling rate: 48kHz
+  Audio application mode: Not Specified
+  Number of audio channels: 2.0
+  Bitrate: 224 Kbps
+  Number of audio streams: 1
+
+99bc274e87269574865d1a0706af1e5f *VIDEO_TS\VIDEO_TS.BUP
+99bc274e87269574865d1a0706af1e5f *VIDEO_TS\VIDEO_TS.IFO
+ebf98841c872ef3d63aeb73b557620fe *VIDEO_TS\VIDEO_TS.VOB
+7d20c99dd7665ae2f883dfdca39fbf5e *VIDEO_TS\VTS_01_0.BUP
+7d20c99dd7665ae2f883dfdca39fbf5e *VIDEO_TS\VTS_01_0.IFO
+30569c49a8f8d6e921c99b0db11264a5 *VIDEO_TS\VTS_01_0.VOB
+04cb3900e279d45a1305cc8e23f423ac *VIDEO_TS\VTS_01_1.VOB
+03e823a78f63f1aee7d2cfee8eda7e6f *VIDEO_TS\VTS_01_2.VOB
+6e39d729e8fa55778bfc41636704141b *VIDEO_TS\VTS_01_3.VOB
+de48fd5360449878845220c00d46e2c4 *VIDEO_TS\VTS_01_4.VOB
+ff56ebcdb9f1c148fa3881c9bef4bab4 *VIDEO_TS\VTS_01_5.VOB
+
+No errors occured.
+

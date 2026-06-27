@@ -1,0 +1,123 @@
+Band: Pantera
+Date: 1992.06.27
+Location: Hollywood, CA 
+Venue: Palladium 
+Time: 1h02m49s
+Format: NTSC Audience Shot
+Menu: Yes
+Chapters: Songs
+Audio Streams: 2
+Size: 3.70 GB
+
+Filmed by: freegersun 
+
+Transferred by: Deuce8pro
+
+Lineage: 8mm Master > Sony TRV-740 Digital8 Camera with TBC/DNR > firewire > JVC DRM-100 Dvd Recorder > flex mode > 1 dvd-r
+
+some of my workflow (hrgiger) - this was a real bitch, no one complete source, luckily between the FM and preFM we have all of the tracks.  the FM and preFM sounded totally different and not only some swearing cut out but also some mysterious disappearing lyrics to songs. I patched it up best I could.   I trimmed away a bit of the in-between banter where there was no sbd audio for it which made it difficult to understand. anyway this thing smokes now.
+
+both new SBD audio (default) and original 8mm audio are included just use your remote or pc player menu to change streams.  once you hear the difference there was no use including a menu that will never be used. 
+
+Video lineage: freegersun/Deuce8pro dvd [Dime] -> mpeg video wizard [100% stream copy] -> batch demux -> dvd lab pro authoring (no re-encode) -> Dime
+Audio lineage: FM/preFM audio [JTT] -> sound forge volume/izotope 64 bit src resample 100% quality 44->48khz -> sony vegas sync -> Tmpgenc AC3 encode 384kbps -> dvd lab pro authoring (no re-encode) -> Dime
+a little photoshop for the menu
+
+This is one BADASS Pantera show.  Everyone is on their game (especially Phil) and the performance is just incredible.  The set list is killer and it was just really a great time for this band IMO.
+
+-hrgiger
+
+Set List: 
+
+Heresy 
+Mouth For War 
+Domination/ Hollow 
+Fucking Hostile 
+This Love 
+A New Level 
+Walk 
+Psycho Holiday 
+By Demons Be Driven 
+Primal Concrete Sledge 
+Cemetary Gates 
+Cowboys From Hell
+
+
+MediaInfo from the first VOB:
+
+General
+Complete name                            : Pantera 1992.06.27 Hollywood, CA [Master 8mm + SBD]\VIDEO_TS\VTS_01_1.VOB
+Format                                   : MPEG-PS
+File size                                : 1 000 MiB
+Duration                                 : 16mn 33s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 8 444 Kbps
+Writing library                          : (c) 1998-2011 Womble Multimedia, Inc. / MPEG Video Wizard DVD 5.0.1.100 (03/2011) / Dec 15 2011
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=15
+Duration                                 : 16mn 33s
+Bit rate mode                            : Variable
+Bit rate                                 : 7 530 Kbps
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 fps
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Bottom Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.727
+Stream size                              : 889 MiB (89%)
+Writing library                          : (c) 1998-2011 Womble Multimedia, Inc. / MPEG Video Wizard DVD 5.0.1.100 (03/2011) / Dec 15 2011
+Color primaries                          : SMPTE 170M
+Transfer characteristics                 : SMPTE 170M
+Matrix coefficients                      : SMPTE 170M
+
+Audio #1
+ID                                       : 189 (0xBD)-128 (0x80)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Muxing mode                              : DVD-Video
+Duration                                 : 16mn 33s
+Bit rate mode                            : Constant
+Bit rate                                 : 384 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : -66ms
+Stream size                              : 45.5 MiB (5%)
+
+Audio #2
+ID                                       : 189 (0xBD)-129 (0x81)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Muxing mode                              : DVD-Video
+Duration                                 : 16mn 33s
+Bit rate mode                            : Constant
+Bit rate                                 : 384 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : -66ms
+Stream size                              : 45.5 MiB (5%)
+
+Menu
+

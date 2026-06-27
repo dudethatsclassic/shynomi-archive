@@ -1,0 +1,29 @@
+Ugly Kid Joe
+Z-Rock Broadcast
+2/16/92
+Dallas, TX
+FM - B / B Plus
+
+lineage: cdr received in trade->EAC for file extraction->Traders Little Helper for FLAC conversion
+
+This is when Z-Rock jumped the shark, and started to shift their programming to align with what was happening in the music
+industry....and a damn shame it was.   Any hoo, I figured some of you would be interested in this little slice of history.
+
+Setlist:
+1. Panhandlin' Prince 
+2. Too Bad 
+3. Madman 
+4. Sweet Leaf 
+5. Funky Fresh Country Club 
+6. Cats In The Cradle 
+7. Goddamn Devil 
+8. Everything About You
+
+57b37fa2d59cd1ecdf3ce76b074dc1cf *1.flac
+2b30cf5d5016c3d8e8b22bd2b9599cd7 *2.flac
+c0539935fcde0c3b1dc36151a4c561c9 *3.flac
+22d6deb141757080a1cc37108fd465e0 *4.flac
+10347258c0f31ba0252324a84d1df134 *5.flac
+a9fad51671fb1c1c55b58c19679b6eec *6.flac
+bf6cceaffe60434802852fc805a1ed40 *7.flac
+3b6271c8a45b9a09ddac51837dc3554d *8.flac

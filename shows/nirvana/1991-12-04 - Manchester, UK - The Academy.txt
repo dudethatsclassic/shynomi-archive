@@ -1,0 +1,85 @@
+NIRVANA
+December 4th, 1991
+The Academy, Manchester
+UNITED KINGDOM
+
+DISC #1/1 (60:42)
+-----------------
+01) Unknown
+02) Drain You
+03) Aneurysm
+04) School
+05) Floyd The Barber
+06) Smells Like Teen Spirit
+07) About A Girl
+08) Polly (part of)
+09) (New Wave) Polly
+10) Come As You Are
+11) Lithium
+12) Sliver
+13) Breed
+14) Been A Son
+15) Negative Creep
+16) On A Plain
+17) Blew
+18) Unknown jam
+19) Unknown (unknown song from 11/25/91 session)
+20) Territorial Pissings
+
+GENERATION
+-----------------
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+SOURCE (AUD #2)
+-----------------
+Unknown > Unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-3 > Custom RCA to 1/4"TRS cables > Echo Mia Midi analog-in (PW) > Adobe Audition 1.5 > CD WAVE 1.94 > FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- False start for About a Girl !
+- Tape flip between "Come As You Are" and "Lithium".
+- Cut after "Blew", apparently no music was lost.
+- It was hard to track between the unknown jam and the unknown song from 11/25/91 session, so I set the start of the second 
+one when the whole band is playing as one, Krist starts the bass line of the second song quite early while Dave is still jamming 
+on the first unknown song.
+
+SPECIAL THANKS TO
+-----------------
+Steve D. for lending the tape, extremely appreciated.
+Douglas Baptie & LNCU-UK for their great work.
+
+MD5 FINGERPRINTS
+----------------
+44e3480f408e019052c8953f6d7333cf *nirvana1991-12-04d1t01.flac
+c7a9a91d1901beb61ebd59415c77e0a3 *nirvana1991-12-04d1t02.flac
+6ff143169c0e941aa7f2e79725a6287a *nirvana1991-12-04d1t03.flac
+b11ee401a4f0784fed94b2d37591fcec *nirvana1991-12-04d1t04.flac
+2db45b8a628a39bf8ee6e30da48d4b95 *nirvana1991-12-04d1t05.flac
+b4b4f2f13adaf336dba963d7ab3d24bd *nirvana1991-12-04d1t06.flac
+5056cc960c39dc0c3cfa38dac46f0e81 *nirvana1991-12-04d1t07.flac
+684741c55bd630852cf734ba53a93527 *nirvana1991-12-04d1t08.flac
+e50527bd9544bf2f854a04c75e45e350 *nirvana1991-12-04d1t09.flac
+4caf9705c844004869e8fd395754c376 *nirvana1991-12-04d1t10.flac
+9e9c2e1609c0afc91a8db94d7fda76b4 *nirvana1991-12-04d1t11.flac
+4e928ac551cc022c55b754424ba339b9 *nirvana1991-12-04d1t12.flac
+80164e35c0a1ac4391f7dce8603e3c4b *nirvana1991-12-04d1t13.flac
+49c452a40b84af3a177f037a2d3e9416 *nirvana1991-12-04d1t14.flac
+6b4430a9cd83263742472a4f3d994db9 *nirvana1991-12-04d1t15.flac
+492cd5a8e8aab94a462f6936803a920f *nirvana1991-12-04d1t16.flac
+9c0b38a9bf23160423c99f388b1aac1c *nirvana1991-12-04d1t17.flac
+b4af2c4ce9a785d49c4645feb33f4db3 *nirvana1991-12-04d1t18.flac
+2c0ff360b8bde74928c1b966e4fb54e0 *nirvana1991-12-04d1t19.flac
+a21ce542179da56560e0209cecf80f1f *nirvana1991-12-04d1t20.flac
+
+
+TRANSFERRED BY
+Pierre LEROY assisted by Cyril DUVAL
+
+DO NOT EVEN TRY TO SELL THIS !
+DO NOT EVEN TRY TO TRADE THIS IN ANOTHER FILE FORMAT THAN FLAC or AUDIO CD-R
+PLEASE RECONSIDER THE CONSUMER's CASE
+S H A R E   T H E   M U S I C

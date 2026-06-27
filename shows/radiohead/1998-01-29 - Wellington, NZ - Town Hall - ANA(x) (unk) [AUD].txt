@@ -1,0 +1,37 @@
+RADIOHEAD
+January 29, 1998
+Town Hall
+Wellington, New Zealand
+
+Source: unknown analog audience audio
+Lineage: ANA(x) > WAV > EQ and tracksplit > FLAC(8)
+Quality: 7.0
+Time: 93:14
+
+Side A: (46:35)
+<01> [fitter, happier]
+<02> airbag
+<03> talk show host
+<04> the bends
+<05> karma police
+<06> exit music (for a film)
+<07> my iron lung
+<08> climbing up the walls
+<09> creep
+<10> subterranean homesick alien (cuts out at the end)
+
+Side B: (46:39)
+<11> paranoid android
+<12> planet telex
+<13> fake plastic trees
+<14> no surprises
+<15> bones
+<16> just
+<17> lucky
+encore:
+<18> let down
+<19> (nice dream)
+<20> street spirit (fade out) *cuts out at the end)
+
+Notes: Thanks to Henrik for transferring his cassette of this show. I ran an EQ filter on the audio, normalized it, and split the tracks in CDWAV. This is not a great recording, as it is overdriven, occasionally muffled, and there are occasional dropouts. That being said, it's got a nice, gritty analog feel that is pleasing to listen to if you're used to that sort of thing. Great show! Thom stops the show after "The Bends" to ask the crowd to calm down.  
+

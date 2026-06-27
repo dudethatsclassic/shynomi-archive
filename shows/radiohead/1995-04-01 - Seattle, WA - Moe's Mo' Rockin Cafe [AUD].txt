@@ -1,0 +1,31 @@
+Radiohead
+April 1, 1995
+Moe's Mo' Rockin' Cafe
+Seattle, WA
+
+Taper: Steve R.
+Field: SONY ECM909>SONY WM-D3 (Master)
+
+Transfer: dwonk@hotmail.com
+PP: Nakamichi DR-3 (Master)>SONY PCM-R300 (SBM)>M-Audio AP2496>Sound Forge XP4.5>CDWave1.6>mkwACTb0.97f
+
+
+1.  Intro
+2.  Bends
+3.  Just >
+4.  Any One Can Play Guitar
+5.  Bones
+6.  High and Dry
+7.  Black Star
+8.  Banana Co.
+9.  Street Spirit
+10. Fake Plastic Trees
+11. Planet Telex
+12. Prove Yourself
+13. Creep
+14. My Iron Lung
+15. You
+
+Notes: Nakamichi DR-3 used for playback of Master, Master on TDK SA-X100, 1 foot interconnects
+
+SONY PCM-R300 for AD conversion only, no DAT generations. SBM @ 44.1kHz 

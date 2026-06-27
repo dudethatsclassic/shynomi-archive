@@ -1,0 +1,27 @@
+The Jimi Hendrix Experience
+"Monday, Monday"
+BBC Playhouse Theatre
+London, England, FM
+1967-04-10 
+
+Lineage: unknown reel > wav > flac >
+
+jimiclones: Sound Studio for manually adjusting audio to smooth fades, dropouts, etc. >
+
+goody's additional lineage:
+Audition (Pitch Bender, various amounts; fades) > TLH (FLAC Level 8; Align sector boundaries; .ffp) > foobar2000 (tags)
+
+Jimi Hendrix - guitar, vocals
+Noel Redding - bass, bkg vocals
+Mitch Mitchell - drums, bkg vocals
+
+01. Purple Haze 3:03
+02. Foxy Lady 3:11
+----------------------------------------------------
+Runtime: 6:14 min.
+
+
+The speed/pitch of the source runs extremely fast/sharp. I've brought it down to what it most likely sounded like the day of the performances.
+Further edits to smooth the audio a bit performed by jimiclones.
+This edition - January 29, 2025
+

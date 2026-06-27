@@ -1,0 +1,78 @@
+Radiohead
+Keep In Contact With Old Friends:  OK Computer Live
+19th December 1997
+Hammerstein Ballroom
+New York City, New York
+
+
+01 Airbag
+02 Paranoid Android
+03 Subterranean Homesick Alien
+04 Exit Music (For A Film)
+05 Let Down
+06 Karma Police
+07 Fitter Happier
+08 Electioneering
+09 Climbing Up The Walls
+10 No Surprises
+11 Lucky
+12 The Tourist
+
+
+-------------------------------
+Original DVD: Live To The Nation (not the tenspot)
+-------------------------------
+VIDEO:
+fancam, tripod @ front row balcony, source unknown
+vhs2 (firewire)>dv>avi (dv codec)
+
+Proshot Promo VHS 
+VHS (gen 0)> firewire)>dv>avi (dv codec)
+
+AUDIO:
+[marcsounds>sony tcd-d8>dat1>wav] +
+[sbd>pro-shot video>cdr>wav]>flac
+transfer: dat1 > tascam da-20 > monster coax > dio 2496 > cep 2.1
+mix and edit by blg
+
+Render:
+2 pass VBR 5.25 mbps (8.00 mbps max), 192kbps AC-3
+
+post recording transfer, editing, rendering & assembly: vegas video 5.0 & dvd architect 2.0
+-------------------------------
+Conversion
+-------------------------------
+VIDEO:
+nowdyDVD> Smart Ripper 2.4.1> single vob> Vegas Video 7.0> fades, pan & scan** > 5.5 mbps CBR
+** pan & scan = "4:3 zoom" in order to lose VHS perimeter artifacts
+
+Audio: 
+original source as above (not rip from Live To The Nation)
+flac> wav 16/44.1> Vegas Video 7.0 (fades, transitions)> 48 khz lpcm
+
+DVD:
+Authoring in DVD Architect 4.0
+-------------------------------
+
+Keep In Contact With Old Friends is presented in honor of the 10th anniversary of OK Computer's
+release.  whether he remembers or not, the concept for this was originally suggested by keir.
+The title comes from "Fitter Happier" which was also suggested by keir.
+
+"Live To The Nation" was edited, authored and shared a few years ago.  video is ripped from 
+the original dvd files.  apologies to the purists who prefer not to see re-encoding.  doing
+this without re-ripping the VHS sources and re-editing the entirety was not schedulable and
+a tribute at this time is appropriate.  :)
+
+Live To The Nation is the tenspot promo with a tripod shot fan cam edited in because the
+promo has many titles, and drops out video completely along with smaller portions of audio, 
+when MTV cut to commercials during the broadcast of this show.  the promo was blended with
+the fan-cam to  make an uninterrupted video without titles and synched to the similarly
+"corrected" audio source listed above.  the fan-cam has it's own merits and is used 
+liberally throughout, not simply to lose logos or add video when none existed on the promo.
+
+every track from OK Computer was played at this show.  with some track rearrangement, this
+makes a complete, in order track for track, uninterrupted performance of OK Computer from
+a single, excellent show.
+
+-------------------------------
+by a fan, for the fans.  share.  never sell.

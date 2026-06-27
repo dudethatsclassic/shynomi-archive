@@ -1,0 +1,57 @@
+NIRVANA
+May 13, 1990
+Duffy's Tavern
+Lincoln, NE 
+
+SOURCE (SBD #1):
+soundboard > Tascam 4-Track Portastudio
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+56:04
+
+TRACKS:
+01. School
+02. Floyd The Barber
+03. Spank Thru
+04. Scoff
+05. Dive
+06. About A Girl
+07. Breed
+08. Big Cheese
+09. Love Buzz
+10. Here She Comes Now
+11. Polly
+12. Stay Away
+13. Been A Son
+14. Stain
+15. Negative Creep
+16. Blew
+
+MD5 FINGERPRINTS:
+2d16996649c73eb29f9cc33214f55b93 *Nirvana_1990-05-13_SBD1_t01.flac
+cd5761183ab6d8ceb6604fef63fcc9b4 *Nirvana_1990-05-13_SBD1_t02.flac
+6f1efefbad85d399449af4dbe95d187f *Nirvana_1990-05-13_SBD1_t03.flac
+f97866c305f72e2088e392b25362a46f *Nirvana_1990-05-13_SBD1_t04.flac
+bda4f7d1eadb65ead3c359b38d7743c3 *Nirvana_1990-05-13_SBD1_t05.flac
+92fb2a03df18942aa82d17cbc94427c5 *Nirvana_1990-05-13_SBD1_t06.flac
+b3fbeda5699c5171885414dc0ede445f *Nirvana_1990-05-13_SBD1_t07.flac
+d02779859b80e94f193cbfe617dc2ca8 *Nirvana_1990-05-13_SBD1_t08.flac
+5d8be5d4b59413778bdbd03c8e5a123f *Nirvana_1990-05-13_SBD1_t09.flac
+24050563da4fd6eb88a0fa0e29f83239 *Nirvana_1990-05-13_SBD1_t10.flac
+1b0f5e73781413eaf7ae1460992bec13 *Nirvana_1990-05-13_SBD1_t11.flac
+3f08bcf2a8f87e92be292326442d8eef *Nirvana_1990-05-13_SBD1_t12.flac
+ff2a8da5fab23bb9cee4e2dded48006b *Nirvana_1990-05-13_SBD1_t13.flac
+8de8b69369ecc5f40476800106d8ec07 *Nirvana_1990-05-13_SBD1_t14.flac
+abab320ce76d192b040c7bbae62713b8 *Nirvana_1990-05-13_SBD1_t15.flac
+396479bf631ddf3ed4554d5f373b4477 *Nirvana_1990-05-13_SBD1_t16.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,44 @@
+NIRVANA
+March, 1987
+17 Nussbaum Road (house party)
+Raymond, WA
+
+DISC #1/1 (46:04)
+-----------------
+01) Downer (soundcheck) (cut)
+02) Aero Zeppelin
+03) If You Must
+04) Heartbreaker (jam)
+05) How Many More Times (jam)
+06) Mexican Seafood
+07) Pen Cap Chew
+08) Spank Thru
+09) Hairspray Queen
+
+GENERATION
+-----------------
+ANA(1) -> remaster -> MP3 [256kbps] -> DAT(1) -> WAV [32kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1a)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+6b58513f0a29512684e5cb1dbf2fd25e *nirvana1987-03-00t01.flac
+a54199349cfcb336119355fc9e3ef840 *nirvana1987-03-00t02.flac
+ce5f83843272197390f747e003eb36ed *nirvana1987-03-00t03.flac
+f47c438e83682c11351ebe384c9c6922 *nirvana1987-03-00t04.flac
+9a57066c5c5cc14f66869104f09bd0ba *nirvana1987-03-00t05.flac
+3c856c107a8a26345c76e2a664ed8256 *nirvana1987-03-00t06.flac
+9d09a2a7b9f5fc5ed7e7486b316fd43f *nirvana1987-03-00t07.flac
+ef662b4da5aef25fdd2cf5679b62951b *nirvana1987-03-00t08.flac
+65a1fc6e80d92682a2dcfc9c8362695e *nirvana1987-03-00t09.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

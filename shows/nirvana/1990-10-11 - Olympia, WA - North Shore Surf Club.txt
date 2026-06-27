@@ -1,0 +1,66 @@
+NIRVANA
+October 11, 1990
+North Shore Surf Club
+Olympia, WA
+
+DISC #1/1 (70:37)
+-----------------
+01) Son Of A Gun
+02) Molly's Lips
+03) D-7
+04) Blew
+05) Negative Creep
+06) Been A Son
+07) Stain
+08) Floyd The Barber
+09) About A Girl
+10) Spank Thru
+11) School
+12) Stay Away
+13) Breed
+14) Big Cheese
+15) In Bloom
+16) Dive
+17) Love Buzz
+18) Scoff
+19) Sliver
+20) Turnaround
+
+GENERATION
+-----------------
+ANA(M) -> CDR(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Plextor PlexWriter PX-W4824A -> Exact Audio Copy V0.95 -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+6a78c5ba0a51f7b791d7f2b69e6845ad *nirvana1990-10-11t01.flac
+fff99eca999d5a08bad7fd82fdd276a2 *nirvana1990-10-11t02.flac
+b336be00ee0614ecfcf63ebff46cc5b3 *nirvana1990-10-11t03.flac
+3e66ced6b25361d2bc80c25c33a6a611 *nirvana1990-10-11t04.flac
+a94d71a967fb64d00a97ec23f4e38765 *nirvana1990-10-11t05.flac
+3530cf7920cec2dc7a688da5b6fe0117 *nirvana1990-10-11t06.flac
+54cde50d4807bbf5783d8f95278d3d3d *nirvana1990-10-11t07.flac
+8959dfd7716be378f18e97fbf8887596 *nirvana1990-10-11t08.flac
+088239584f41627c2fcfd80d1c6004e5 *nirvana1990-10-11t09.flac
+600f32c5e02fe993e1f7b05141d0471f *nirvana1990-10-11t10.flac
+5528f507cbb9ec6611d3b26ef84f5b28 *nirvana1990-10-11t11.flac
+d91f0d47a4a8da8531fb6c9df8ff5ee1 *nirvana1990-10-11t12.flac
+27537e8cb71d700110245b188246a3ba *nirvana1990-10-11t13.flac
+3b4cccc1291c8500f45f9abb2004b6bc *nirvana1990-10-11t14.flac
+21a3e9e6a2e06a53f40c6dbb5e1e567c *nirvana1990-10-11t15.flac
+9d6b70597bae5713bb1a2c002086b9e8 *nirvana1990-10-11t16.flac
+b721053535d3447be2949141cdb2ff15 *nirvana1990-10-11t17.flac
+31dea091c24f35b763e5883f5bc2ca33 *nirvana1990-10-11t18.flac
+15e30bad8eece795101ae2c270e6d7db *nirvana1990-10-11t19.flac
+e0265025562125d6ccfab023bc9c6a1a *nirvana1990-10-11t20.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

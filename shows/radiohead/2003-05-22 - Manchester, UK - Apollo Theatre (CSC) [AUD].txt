@@ -1,0 +1,72 @@
+RADIOHEAD
+Apollo Theatre, Manchester, UK
+May 22nd, 2003
+
+
+  source: CoreSound Cardioids (on a hat) > Sony TCD-D7 (@ 48khz)
+transfer: Sony TCD-D7 (digital out) > Emagic AudioWerk8 (coax in) > Cool Edit Pro 2.0
+   edits: Cool Edit Pro 2.0 (resampling + edits) > CDWave Audio Editor 1.6 (track splits) 
+          > mkw Audio Compression Tool 0.97 BETA 1 (.wav > .shn)
+   taper: etasoitinpaa@gmail.com
+
+
+                 **************************************************
+                 *        PLEASE DO NOT SELL THIS SHOW !!!        *
+                 *                                                *
+                 * PLEASE DO NOT DISTRIBUTE THIS SHOW AS MP3S !!! *
+                 **************************************************
+
+
+setlist:
+
+Disc 1:
+
+01 intro                           01:26.13
+02 There There                     05:27.00
+03 2+2=5                           03:42.53
+04 The National Anthem             05:16.15
+05 Morning Bell                    04:22.24
+06 Lucky                           04:36.42
+07 Backdrifts                      06:29.58
+08 Sail to the Moon                04:37.61
+09 Sit Down Stand Up               04:19.18
+10 Scatterbrain                    04:07.40
+11 Kid A                           04:08.31
+12 No Surprises                    03:58.00
+13 Myxamatosis                     04:30.36
+14 We Suck Young Blood             06:04.04
+15 Paranoid Android                06:59.04
+
+              disc one total time: 70:07.24
+
+Disc 2:
+
+01 My Iron Lung                    05:22.58
+02 Idioteque                       04:32.35
+03 Everything in it's Right Place  10:26.10
+---
+04 "Happy Birthday to Phillip"     00:34.01
+05 The Gloaming                    03:24.24
+06 I Might Be Wrong                04:48.51
+07 Just                            04:10.52
+08 The Tourist                     07:27.63
+---
+09 Talk Show Host                  05:18.61
+10 Fake Plastic Trees              05:31.09
+
+              disc two total time: 51:38.64
+
+
+                      total time: 121:44.13
+
++ with fades for burning to cdr:
+
+d1t15 Paranoid Android w/fade-out  06:56.68
+d2t01 My Iron Lung w/fade-in       05:33.59
+
+
+                 **************************************************
+                 *        PLEASE DO NOT SELL THIS SHOW !!!        *
+                 *                                                *
+                 * PLEASE DO NOT DISTRIBUTE THIS SHOW AS MP3S !!! *
+                 **************************************************

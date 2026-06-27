@@ -1,0 +1,26 @@
+Deftones
+Verizon Wireless Amphitheater
+Irvine CA
+09-22-2012
+
+This is a stereo recording
+
+lineage: Coresound binaural mics w/bass roll off filter > Olympus LS-11 PCM Recorder > WAV > Audacity > FLAC
+
+Track #9: Leathers - World Premier
+
+setlist:
+
+01 Intro
+02 Rocket Skates
+03 Diamond Eyes
+04 Be Quiet & Drive (Far Away)
+05 My Own Summer (Shove It)
+06 Digital Bath
+07 You've Seen The Butcher
+08 Bloody Cape
+09 Leathers 
+10 Rosemary
+11 Change (In The House Of Flies)
+12 7 Words
+

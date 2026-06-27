@@ -1,0 +1,27 @@
+PANTERA
+Music Hall , Frankfurt, Germany
+1993-02-04
+
+Source: Audience (DAT)
+Generation: 1st
+Tape: TDK SA (type II)
+Taper:R Köhler
+
+Tape transfered and edited by Mats.l (2020-09-13) from my old collection
+
+Lineage: TDK SA > technics cassette deck > Zoom h2n (wav 24/48) > sandisk > usb > Pc > Audacity (edits) > dBpoweramp music cenverter 
+wav 16/44 > TLH (fixing SBE`s) > CD wave editor (cue sheet) > dBpoweramp music converter > FLAC (level 8)
+
+Setlist:
+1. A New Level
+2. Walk
+3. The Art of Shredding
+4. Domination
+5. Hollow
+6. Fucking hostile
+7. This Love
+8. Rise
+9. By Demons Be Driven
+10. Mouth for war
+11. Primal Concrete Sledge
+12. Cowboys From Hell

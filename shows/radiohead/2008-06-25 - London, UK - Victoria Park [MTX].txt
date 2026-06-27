@@ -1,0 +1,61 @@
+Radiohead
+Victoria Park, London
+25 June 2008
+
+---------------------------------------------------------------------------------------------------------------------------
+This was originally torrented here
+
+http://www.dimeadozen.org/torrents-details.php?id=214895
+
+Under Torrent  #214895. Comments suggested that it was unlistenable due to interference. It was suggested to go through the recording and correct interference using the tools in Adobe Audition 3.0. I have done this and corrected as best I can each piece of mobile / cell phone and static  interference as best I can either using Auto Heal, high pass filters or automatic click remover. If it was a loop (drum beat in Reckoner or 15 Step) then I patched it from an unaffected piece of the recording. Where the interference was too bad then I took the affected source out and changed levels as best as I could (only did this 2 or 3 times I think). I then remixed it again. Perpndculous suggested placing samples up so "anyone who doesn't want it can pass and anyone who snatches it and complains is a wanker". Samples of the worst of it are below.
+
+I think I will announce my retirement from doing these sorts of recordings now. It is way too much like hard work and there has to be something better to do with life! Besides my flat was broken in to the other week and my receiver stolen. I think somebody somewhere is trying to tell me something.
+---------------------------------------------------------------------------------------------------------------------------
+
+
+Source 1: Sony ECM TS-125 mic > MD [JVC XMR-700SL] > 3.5mm OFC > Genius 5.1 PCI > Audacity > WAV > FLAC
+Downloaded from Zomb.
+
+Source 2: SP-CMC-16 > SP-PREAMP-11 > Edirol R-09 (48kHz 24 bit) (48Khz 24 bit) bass frequencies only
+My audience master which sounded terrible apart from bass frequencies.
+
+Source 3: Popcorn Superheat Receiver > Sharp MT877MD
+
+my demos at myspace
+
+http://www.myspace.com/beefybollocks
+http://www.myspace.com/nepalmusic
+
+See photos for taping position of sources 2 and 3
+---
+
+CD1:
+
+1. Reckoner
+2. 15 Step
+3. There There
+4. All I Need
+5. Lucky
+6. Nude
+7. Arpeggi
+8. Myxomatosis
+9. National Anthem
+10. Faust Arp
+11. No Surprises
+12. Jigsaw
+13. Optimistic
+14. Videotape
+15. Everything In Its Right Place
+16. Idioteque
+
+CD2:
+
+17. Bodysnatchers
+18. House of Cards
+19. The Bends
+20. Bangers + Mash
+21. My Iron Lung
+22. Karma Police
+23. Go Slowly
+24. 2+2=5
+25. Paranoid Android 

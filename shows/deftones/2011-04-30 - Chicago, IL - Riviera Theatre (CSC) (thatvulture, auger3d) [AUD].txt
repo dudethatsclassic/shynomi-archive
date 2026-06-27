@@ -1,0 +1,40 @@
+Deftones
+Riviera Theatre, Chicago, IL
+April 30, 2011
+
+Source: ThatVulture, auger3d [tixs & mics; thanks!] (dimeadozen.org)
+
+Lineage: CS Stealthy Cardioids -> Sony PCM-M10 (44kHz/24 bit WAV) -> Sound Forge 10.0 -> iZotope Ozone 4 -> FLAC (Level 8) / (16 bit)
+
+Runtime: 1:40:21
+
+Setlist:
+01 Intro
+02 Diamond Eyes
+03 Rocket Skates
+04 Birthmark
+05 Engine No. 9
+06 Be Quiet And Drive (Far Away)
+07 My Own Summer (Shove It)
+08 Digital Bath
+09 Korea
+10 Knife Party
+11 Hexagram
+12 Minerva
+13 Bloody Cape
+14 You've Seen The Butcher
+15 Sextape
+16 Beauty School
+17 Feiticeira
+18 Elite
+19 Change (In the House Of Flies)
+20 Passenger
+21 Back To School (Mini Maggit)
+
+Encore:
+22 Root
+23 7 Words
+
+Show notes:
+
+Pretty good show, although everything was very loud. I think the recording sounded better than the show in some ways (at least after working on it). I put this thru Ozone, boosted everything between 10 kHz and 20 kHz, made some adjustments with EQ then dithered down to 16 bit. Good stuff, Enjoy!

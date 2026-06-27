@@ -1,0 +1,89 @@
+Radiohead
+2008.08.04
+August 4th, 2008
+Cuyahoga Falls. OH, USA
+Blossom Music Center
+
+
+Taper:		Joe Cooper (jdcooper@bucknell.edu) (db.etree.org/thierryhenry/)
+Location:		Absolute FOB, DFC. Section 24, Row S, Seat 37. 2 Rows Directly In Front Of The Soundboard. Mics Hounted On Hat, AB.
+Source:		SP-CMC-8 (AT933's) > SP-SPSB-6 (Bass Roll Off @ 95Hz) > IRiver IHP-120 (Rockbox, 44.1 Khz)
+Transfer:		Iriver IHP-120 > USB Cable > PC (USB IN) > Sony Vegas 8.0 (Volume Increase, Normalize) > CD Wave (44.1 Khz, 16 Bit, Stereo) (Track Splits) > WAV > FLAC Frontend 8 > FLAC (Level 8) > Md5Summer
+Filesize:		1.25 GB WAV, 742 MB FLAC
+
+<><><><><><><><><><><><><><><><>
+--------------------------------------------
+Please Do Not Convert To Mp3.
+Please Do Not Sell.
+Please Attach This File When Distributing.
+--------------------------------------------
+<><><><><><><><><><><><><><><><>
+
+Setlist:
+
+01:	15 Step %				-		02.47.10
+02:	There There			-		06.17.37
+03:	Morning Bell			-		04.20.08
+04:	All I Need				-		04.23.21
+05:	Pyramid Song			-		05.15.62
+06:	Nude				-		04.29.30
+07:	Weird Fishes/Arpeggi		-		05.35.20
+08:	The Gloaming			-		03.17.68
+09:	The National Anthem		-		04.50.13
+10:	A Wolf At The Door			-		03.49.69
+11:	Faust Arp				-		02.32.23
+12:	Exit Music (For A Film)		-		04.52.34
+13:	Jigsaw Falling Into Place		-		04.05.71
+14:	Idioteque				-		04.14.20
+15:	Climbing Up The Walls		-		04.15.02
+16:	Bodysnatchers			-		05.20.11
+17:	How To Disappear Completely		-		06.30.19
+18:	Encore				-		01.48.07
+19:	Videotape				-		05.09.74
+20:	Paranoid Android			-		06.12.37
+21:	Dollars & Cents			-		06.13.21
+22:	Reckoner				-		05.20.64
+23:	Street Spirit (Fade Out)		-		04.26.17
+24:	Encore				-		03.27.27
+25:	House Of Cards			-		06.34.52
+26:	Lucky				-		05.05.47
+27:	Everything In Its Right Place		-		06.37.17
+
+
+Total:					-		127.52.56
+
+
+Show Notes:
+
+% = A Bit Of 15 Step Is Cut Off In the Middle, I Am Unsure How This Happened, It Isn't
+Noticeable Unless I Would Have Mentioned It.
+Special Thanks To Jeremy For Ticket Hookup.
+
+
+rh2008-08-04d1t01.flac:33af4c7b2ac5b9c460d1af3957f49f49
+rh2008-08-04d1t02.flac:7e2f865784ef30a65defd5cd4828b08b
+rh2008-08-04d1t03.flac:0ee1e2360994132acf666442c5daf5d1
+rh2008-08-04d1t04.flac:633f2f328940a2a11e4f669eec303734
+rh2008-08-04d1t05.flac:b714d9f89d40cdec6d0be789ace7665d
+rh2008-08-04d1t06.flac:2809753329e66f7703f08be94b2d87d1
+rh2008-08-04d1t07.flac:7d0b6fadcaa873ef1d150e45f9e41853
+rh2008-08-04d1t08.flac:8aef68ae5ac7052817b184c943d5a55a
+rh2008-08-04d1t09.flac:10ea339c0e3d45465e59815f6201d622
+rh2008-08-04d1t10.flac:036177925ef563b2f46fba77a00e6294
+rh2008-08-04d1t11.flac:7fe27dd9ecdcacf2718c91680615bc9b
+rh2008-08-04d1t12.flac:9404adcec9a94636fadd7fb42ce0c970
+rh2008-08-04d1t13.flac:f2334f2875a1ff3fa5843a3d8a699867
+rh2008-08-04d1t14.flac:ce52bd767dca3d96638758c55e950a3f
+rh2008-08-04d1t15.flac:3c8293b1df46ddb5e6342d476e9fbf07
+rh2008-08-04d1t16.flac:a1802ffdc12f7de14c392e2c59060e32
+rh2008-08-04d1t17.flac:5c713ad217a1fbffbe44da9df4407808
+rh2008-08-04d1t18.flac:59fe255d1e34a08342f9389bf66d4563
+rh2008-08-04d1t19.flac:c1a5a4dd844ecb5f8c1cfc68ef63527c
+rh2008-08-04d1t20.flac:240a6c80a981586a08256fe23ceca532
+rh2008-08-04d1t21.flac:fa8fa02ee8c30668f360297f7e5dbd88
+rh2008-08-04d1t22.flac:5fbd790cedca320a864cd0d40f0db0c1
+rh2008-08-04d1t23.flac:31c5ee38a109cdd5fbd048346606604f
+rh2008-08-04d1t24.flac:b7f488de146958de485e59fdfb153091
+rh2008-08-04d1t25.flac:7cf4face577d1a8ceb76470c937d0711
+rh2008-08-04d1t26.flac:6b9963f9aecda73bca21629f50480a23
+rh2008-08-04d1t27.flac:26a010219cd856576f1d536f38ab4182

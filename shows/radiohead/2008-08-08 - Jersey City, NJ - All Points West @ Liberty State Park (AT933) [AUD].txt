@@ -1,0 +1,86 @@
+Radiohead
+2008.08.08
+August 8th, 2008
+Jersey City, NJ, USA
+All Points West Festival
+Blue Comet Stage
+
+Taper:		Joe Cooper (jdcooper@bucknell.edu) (db.etree.org/thierryhenry/)
+Location:		FOB, DFC, Right Side, About 50-70' From Right Stack. Mics Mounted On Hat, AB.
+Source:		SP-CMC-8 (AT933's) > SP-SPSB-6 (Bass Roll Off @ 95Hz) > IRiver IHP-120 (Rockbox, 44.1 Khz)
+Transfer:		Iriver IHP-120 > USB Cable > PC (USB IN) > Sony Vegas 8.0 (Volume Increase, Normalize) > CD Wave (44.1 Khz, 16 Bit, Stereo) (Track Splits) > WAV > FLAC Frontend 8 > FLAC (Level 8) > Md5Summer
+Filesize:		1.31 GB WAV, 734 MB FLAC
+
+<><><><><><><><><><><><><><><><>
+--------------------------------------------
+Please Do Not Convert To Mp3.
+Please Do Not Sell.
+Please Attach This File When Distributing.
+--------------------------------------------
+<><><><><><><><><><><><><><><><>
+
+Setlist:
+
+01:	15 Step					-		05.10.13
+02:	There There				-		05.50.23
+03:	Morning Bell				-		04.17.42
+04:	All I Need					-		04.45.02
+05:	Lucky					-		04.19.67
+06:	Nude					-		04.37.58
+07:	Weird Fishes/Arpeggi			-		05.20.06
+08:	The Gloaming				-		03.32.44
+09:	Optimistic					-		05.17.07
+10:	Videotape					-		05.00.19
+11:	Reckoner					-		05.35.50
+12:	Jigsaw Falling Into Place			-		04.38.11
+13:	You And Whose Army?			-		03.18.02
+14:	Idioteque					-		04.06.71
+15:	Climbing Up The Walls			-		04.41.41
+16:	Bodysnatchers				-		04.31.31
+17:	How To Disappear Completely			-		07.30.00
+18:	Encore					-		02.31.71
+19:	House Of Cards				-		06.17.36
+20:	Pyramid Song				-		05.11.06
+21:	Paranoid Android				-		06.16.08
+22:	Dollars & Cents				-		05.35.23
+23:	Street Spirit (Fade Out)			-		04.20.31
+24:	Encore					-		04.22.05
+25:	Cymbal Rush				-		05.07.59
+26:	Just					-		05.06.04
+27:	Everything In Its Right Place			-		05.43.16
+
+
+Total:						-		133.03.71
+
+Show Notes:
+
+Windnoise May Be Heard At Some Quiet Parts But Unlikely, I Used Big Windscreens.
+Thanks To Eduardo For Hooking Me Up With The Ticket.
+
+rh2008-08-08d1t01.flac:9a6c69d7018b23446656784b663f86f1
+rh2008-08-08d1t02.flac:e8a398ca15f4978d3dbd6f296d4366ae
+rh2008-08-08d1t03.flac:ad967504570399e4e6647627ce28b90a
+rh2008-08-08d1t04.flac:5ebd22bf160dc35e958917e3062fb8c7
+rh2008-08-08d1t05.flac:872dbbc6b532edcfb4756faabbc69579
+rh2008-08-08d1t06.flac:250fb544c16f07673953b01f0c54dfac
+rh2008-08-08d1t07.flac:f0727f84df55783b5df548af5baf66d4
+rh2008-08-08d1t08.flac:f5dbbfacbc69540c36506b0bcf8b0b84
+rh2008-08-08d1t09.flac:689ed7eb99df40328114497fd3e22ba9
+rh2008-08-08d1t10.flac:6f92601870422dd08ed716ac8571182d
+rh2008-08-08d1t11.flac:91c5d27ac9785cde994c52bb2cfab75b
+rh2008-08-08d1t12.flac:2794e3f1d047563cfb4aed2d403e4c9e
+rh2008-08-08d1t13.flac:a118ee058a0262ea37da354f27bd339a
+rh2008-08-08d1t14.flac:972f1a289f76a6c753041f16b7374671
+rh2008-08-08d1t15.flac:1fd922b74e3a5db7a9e60e3e8c2f7b2a
+rh2008-08-08d1t16.flac:573b795d1d33d589898d7cce982261b1
+rh2008-08-08d1t17.flac:90b453cc4b0eb131bd854729bfab4a73
+rh2008-08-08d1t18.flac:94b550bd8423af6cde1bb247ab5ef0b7
+rh2008-08-08d1t19.flac:00b2a6b5b76c2f435d7ad2e0268b5308
+rh2008-08-08d1t20.flac:7677862db6ada352c1b80dfec2e14ec7
+rh2008-08-08d1t21.flac:6b06ee58b420bf436dee4f7f42c1b8d8
+rh2008-08-08d1t22.flac:f124635e1163a6dddb3dba76519ead60
+rh2008-08-08d1t23.flac:d7e6ffcda903b0858980361d3668ddc0
+rh2008-08-08d1t24.flac:62d97c2cb1fc4f8c08d362d7065b9c38
+rh2008-08-08d1t25.flac:a352c671becfd9e9f13b50f0b63ac4d7
+rh2008-08-08d1t26.flac:d7de72a95b31c0ed4e5573b15ce8b5b0
+rh2008-08-08d1t27.flac:10e9c1f8ea9ef4512b8d24800a41fbb3

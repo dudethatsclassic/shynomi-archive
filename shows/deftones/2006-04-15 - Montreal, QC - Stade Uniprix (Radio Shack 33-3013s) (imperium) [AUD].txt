@@ -1,0 +1,42 @@
+Deftones
+Saturday, April 15th, 2006
+Stade Uniprix
+Montreal, QC, CA
+
+Source: 
+AUD > Radio Shack 33-3013 mics > MZ-RH10 (PCM, Mic In)
+Manual Gain Control
+
+Transfer/Lineage/Conversion:
+PCM data > USB > PC > WAV > FLAC (level 8)
+
+Editing:
+Audacity 1.2.6 (Normalize, Amplify to -0.8dB, Fade In, Fade Out)
+Winamp 5.531 (EQ, hard limiting w/ Enhancer 0.17 plug-in)
+CD Wave 1.97 (track splits)
+EasyTAG 2.1 (files tagged)
+
+Setlist/Tracklist:
+01. (introduction)
+02. Feiticeira
+03. My Own Summer (Shove It)
+04. Nosebleed
+05. Beware
+06. Hexagram
+07. No Ordinary Love (with Street Drum Corps)
+08. Rx Queen (with Street Drum Corps)
+09. Bloody Cape
+10. Be Quiet And Drive
+11. Around the Fur
+12. Change (In the House of Flies)
+13. 7 Words / Birthmark / Root / Engine No. 9
+
+Notes:
+This was the last date of the 2006 Taste of Chaos tour.  The venue is a tennis stadium so the recording had a lot of bass and reverb and there is some brickwalling, but it has been greatly improved with equalization.  I'd say that the sound quality is roughly a 7 or 8 out of 10.  Stephen gets an A+ for the evening from Chino and says that someone should "throw weed at him."  Thanks to def-head for some help with the set list.  Listen loud and enjoy!
+
+Total Playing Time (when burned to CD):
+01h:07m:50s
+
+PLEASE DO NOT BUY OR SELL THIS RECORDING
+PLEASE DO NOT SHARE AS MP3 OR OTHER LOSSY FILES
+PLEASE DISTRIBUTE THIS RECORDING WITH THIS TEXT FILE

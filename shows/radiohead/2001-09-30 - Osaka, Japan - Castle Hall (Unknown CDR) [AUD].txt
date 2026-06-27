@@ -1,0 +1,81 @@
+01 Track 1.wav:  successfully encoded to '01 Track 1.flac' (ratio = 0.749; foreign metadata 'LIST' removed).
+02 Track 2.wav:  successfully encoded to '02 Track 2.flac' (ratio = 0.602; foreign metadata 'LIST' removed).
+03 Track 3.wav:  successfully encoded to '03 Track 3.flac' (ratio = 0.675; foreign metadata 'LIST' removed).
+04 Track 4.wav:  successfully encoded to '04 Track 4.flac' (ratio = 0.716; foreign metadata 'LIST' removed).
+05 Track 5.wav:  successfully encoded to '05 Track 5.flac' (ratio = 0.703; foreign metadata 'LIST' removed).
+06 Track 6.wav:  successfully encoded to '06 Track 6.flac' (ratio = 0.721; foreign metadata 'LIST' removed).
+07 Track 7.wav:  successfully encoded to '07 Track 7.flac' (ratio = 0.749; foreign metadata 'LIST' removed).
+08 Track 8.wav:  successfully encoded to '08 Track 8.flac' (ratio = 0.692; foreign metadata 'LIST' removed).
+09 Track 9.wav:  successfully encoded to '09 Track 9.flac' (ratio = 0.600; foreign metadata 'LIST' removed).
+10 Track 10.wav:  successfully encoded to '10 Track 10.flac' (ratio = 0.662; foreign metadata 'LIST' removed).
+11 Track 11.wav:  successfully encoded to '11 Track 11.flac' (ratio = 0.761; foreign metadata 'LIST' removed).
+12 Track 12.wav:  successfully encoded to '12 Track 12.flac' (ratio = 0.661; foreign metadata 'LIST' removed).
+13 Track 13.wav:  successfully encoded to '13 Track 13.flac' (ratio = 0.763).
+14 Track 14.wav:  successfully encoded to '14 Track 14.flac' (ratio = 0.647; foreign metadata 'LIST' removed).
+15 Track 15.wav:  successfully encoded to '15 Track 15.flac' (ratio = 0.715; foreign metadata 'LIST' removed).
+16 Track 16.wav:  successfully encoded to '16 Track 16.flac' (ratio = 0.756; foreign metadata 'LIST' removed).
+17 Track 1.wav:  successfully encoded to '17 Track 1.flac' (ratio = 0.653; foreign metadata 'LIST' removed).
+18 Track 2.wav:  successfully encoded to '18 Track 2.flac' (ratio = 0.723; foreign metadata 'LIST' removed).
+19 Track 3.wav:  successfully encoded to '19 Track 3.flac' (ratio = 0.736; foreign metadata 'LIST' removed).
+20 Track 4.wav:  successfully encoded to '20 Track 4.flac' (ratio = 0.606; foreign metadata 'LIST' removed).
+21 Track 5.wav:  successfully encoded to '21 Track 5.flac' (ratio = 0.650; foreign metadata 'LIST' removed).
+22 Track 6.wav:  successfully encoded to '22 Track 6.flac' (ratio = 0.712; foreign metadata 'LIST' removed).
+23 Track 7.wav:  successfully encoded to '23 Track 7.flac' (ratio = 0.644; foreign metadata 'LIST' removed).
+
+No errors occured.
+
+
+01 Track 1.flac:  tested ok (file is decodable without error).
+02 Track 2.flac:  tested ok (file is decodable without error).
+03 Track 3.flac:  tested ok (file is decodable without error).
+04 Track 4.flac:  tested ok (file is decodable without error).
+05 Track 5.flac:  tested ok (file is decodable without error).
+06 Track 6.flac:  tested ok (file is decodable without error).
+07 Track 7.flac:  tested ok (file is decodable without error).
+08 Track 8.flac:  tested ok (file is decodable without error).
+09 Track 9.flac:  tested ok (file is decodable without error).
+10 Track 10.flac:  tested ok (file is decodable without error).
+11 Track 11.flac:  tested ok (file is decodable without error).
+12 Track 12.flac:  tested ok (file is decodable without error).
+13 Track 13.flac:  tested ok (file is decodable without error).
+14 Track 14.flac:  tested ok (file is decodable without error).
+15 Track 15.flac:  tested ok (file is decodable without error).
+16 Track 16.flac:  tested ok (file is decodable without error).
+17 Track 1.flac:  tested ok (file is decodable without error).
+18 Track 2.flac:  tested ok (file is decodable without error).
+19 Track 3.flac:  tested ok (file is decodable without error).
+20 Track 4.flac:  tested ok (file is decodable without error).
+21 Track 5.flac:  tested ok (file is decodable without error).
+22 Track 6.flac:  tested ok (file is decodable without error).
+23 Track 7.flac:  tested ok (file is decodable without error).
+
+No errors occured.
+
+
+40907a68b5251f59595036871e6c53ef *01 Track 1.flac
+64e1179032a6aa58f70a6600775cb4ee *02 Track 2.flac
+2fa7c58a2ded2f9a531914c96c8bdf06 *03 Track 3.flac
+22e1ad10adcd0180e5f3c7e37829cf91 *04 Track 4.flac
+e03dcecb9aa5b86df25094a37a5ec12c *05 Track 5.flac
+5030894c33c523a77c1c61ed4d8284fb *06 Track 6.flac
+71000c0c774abb05b934678d831fa2de *07 Track 7.flac
+e8496c1f346f7692d683a442319886de *08 Track 8.flac
+7a899a6cbc2d29e1c6fbb7559c8419fa *09 Track 9.flac
+0ca3c32eaa24d34c25f69e4ea7da606b *10 Track 10.flac
+fb73c0cae648a5aa0429e8350bfd9d32 *11 Track 11.flac
+c5e64bfe8c3476fe3b943506cc1f1507 *12 Track 12.flac
+d783b937d5440c6339504f25e17c4a18 *13 Track 13.flac
+a763d849b819cef3e1d9169f65f21067 *14 Track 14.flac
+43b7f375f5f25da2d7f0e311d06b2c23 *15 Track 15.flac
+f2d6346338c7fd69a2d52fffdeb61cdc *16 Track 16.flac
+a9df4e457b43d3802c42c200b31e3e3e *17 Track 1.flac
+e1897696a110f9976c1ea20280a7f6b8 *18 Track 2.flac
+d75e843a9f42ff58a7ca50840a6da170 *19 Track 3.flac
+ef0321f8fbc7db98dc4e071b141b1b9d *20 Track 4.flac
+2d0d01afe9c8b41444bc04fab5e69e91 *21 Track 5.flac
+dbefc8f01d4a0664f98e9119bdfb3248 *22 Track 6.flac
+bbd3d813985cfee83131ae17a1358101 *23 Track 7.flac
+
+Checksum file saved to disk.
+
+No errors occured.

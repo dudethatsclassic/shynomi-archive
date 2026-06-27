@@ -1,0 +1,61 @@
+NIRVANA
+April 18, 1990 
+Manray Nightclub
+Cambridge, MA
+
+SOURCE (AUD#1):
+Unknown > Sony WM-D6 
+
+TRANSFER:
+Nakamichi DR-1 > Canare cable > D.A.L. CardDeluxe > Adobe Audition CC > SoundForge 12.1 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(1)> WAV[24 bit/48kHz] > WAV[16 bit/44.1kHz] > FLAC [Level 8]
+
+DURATION:
+56:10
+
+SETLIST:
+01. School
+02. Floyd The Barber
+03. Love Buzz
+04. Dive
+05. Scoff
+06. About A Girl
+07. Spank Thru
+08. Breed
+09. In Bloom
+10. Big Cheese
+11. Molly's Lips
+12. Been A Son
+13. Stain
+14. Negative Creep
+15. Blew
+16. Pay To Play [Stay Away]
+
+MD5 FINGERPRINTS:
+c68801a147113916e29db9bce11bcfc1 *NIRVANA 1990-04-18 AUD#1 ANA(1) 01 School.flac
+c1b5e22f6a97ca8c75b6e69943a9ca18 *NIRVANA 1990-04-18 AUD#1 ANA(1) 02 Floyd The Barber.flac
+12629ca77d89b64b857609b62b374cb5 *NIRVANA 1990-04-18 AUD#1 ANA(1) 03 Love Buzz.flac
+8940c07211eb6200e83907f965ccb8b7 *NIRVANA 1990-04-18 AUD#1 ANA(1) 04 Dive.flac
+be1ce557ea8f0bb4ac45cde0c54c38f3 *NIRVANA 1990-04-18 AUD#1 ANA(1) 05 Scoff.flac
+af4d1ae291df1a341abae1e41b5bd1eb *NIRVANA 1990-04-18 AUD#1 ANA(1) 06 About A Girl.flac
+e5309ae21c0cb546d53b8bd08ad7c18c *NIRVANA 1990-04-18 AUD#1 ANA(1) 07 Spank Thru.flac
+7d15f83b57238831a4944a1f7e0f7d2d *NIRVANA 1990-04-18 AUD#1 ANA(1) 08 Breed.flac
+e0ed7f86999da55a8f3b7e6d699a8da9 *NIRVANA 1990-04-18 AUD#1 ANA(1) 09 In Bloom.flac
+348ebc1d67c33ef64a7c76e1b8e95468 *NIRVANA 1990-04-18 AUD#1 ANA(1) 10 Big Cheese.flac
+d40763b148af59f26c410cbdb7568333 *NIRVANA 1990-04-18 AUD#1 ANA(1) 11 Molly's Lips.flac
+3cfc6f0610920b1530e162551120ce41 *NIRVANA 1990-04-18 AUD#1 ANA(1) 12 Been A Son.flac
+39b5ec3dfef073aebe270ae24a93a2e0 *NIRVANA 1990-04-18 AUD#1 ANA(1) 13 Stain.flac
+053830c9f429eb2f0fb2c14d69687681 *NIRVANA 1990-04-18 AUD#1 ANA(1) 14 Negative Creep.flac
+a7206d50b360a18af3158f803e10c7cd *NIRVANA 1990-04-18 AUD#1 ANA(1) 15 Blew.flac
+a6fe31627637c9b099b342de44a17f8f *NIRVANA 1990-04-18 AUD#1 ANA(1) 16 Pay To Play.flac
+
+TRANSFER: 
+Members of LiveNIRVANA.com
+
+DISTRIBUTION:
+Mike Wilkinson and members of LiveNIRVANA.com
+2020-12-11
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

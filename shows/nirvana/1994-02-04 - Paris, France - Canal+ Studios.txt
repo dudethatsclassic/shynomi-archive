@@ -1,0 +1,38 @@
+NIRVANA
+February 4, 1994
+Canal+ Studios (Nulle Part Ailleurs)
+Paris, France
+
+Codecs--
+Video: 8mb/s CBR (PAL)
+Audio: PCM 
+
+SETLIST (12:21)
+-----------------
+intro / Rape Me / Pennyroyal Tea / Drain You
+
+GENERATION
+-----------------
+TV -> VHS(1) [PAL] -> AVI [DV25] -> M2V/WAV [8Mbps CBR/48kHz PCM] -> DVDR(0)
+
+SOURCE (PRO#1a)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9500 -> Canopus ADVC55 -> IEEE 1394 -> Adobe Premiere Pro 2.0 -> TMPGEnc Plus 2.5 -> Adobe Encore DVD 2.0
+
+MD5 FINGERPRINTS
+-----------------
+7dd9713ba067693df6020e803b89a205 *VIDEO_TS/VIDEO_TS.BUP
+7dd9713ba067693df6020e803b89a205 *VIDEO_TS/VIDEO_TS.IFO
+558bd2bc39f5fcc28ac28165fe15e441 *VIDEO_TS/VIDEO_TS.VOB
+99bd4a6aff7a4ac6e36786225418cf16 *VIDEO_TS/VTS_01_0.BUP
+99bd4a6aff7a4ac6e36786225418cf16 *VIDEO_TS/VTS_01_0.IFO
+52c1c7239469e9c3b43df6f1f1811080 *VIDEO_TS/VTS_01_0.VOB
+85ddf529a53690cc514c3db3a749e6bc *VIDEO_TS/VTS_01_1.VOB
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

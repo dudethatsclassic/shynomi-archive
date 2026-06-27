@@ -1,0 +1,65 @@
+NIRVANA
+April 20, 1990
+Olde Club, Swarthmore College
+Swarthmore, PA
+
+SOURCE (AUD #1):
+unknown > unknown
+
+EXTRACTION:
+Sony Optiarc AD-7230S > Exact Audio Copy V1.0 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(M) > CDR(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+70:37
+
+TRACKS:
+01. intro
+02. School
+03. Floyd The Barber
+04. Love Buzz
+05. Dive
+06. About A Girl
+07. Breed
+08. Polly
+09. Molly's Lips
+10. Spank Thru
+11. Big Cheese
+12. In Bloom
+13. jam
+14. Stay Away
+15. Been A Son (cuts in)
+16. Negative Creep
+17. Blew
+18. Scoff
+19. Stain (part of)
+20. Stain
+
+MD5 FINGERPRINTS:
+608d3794f0d62dc0a7d171f28636fbae *Nirvana_1990-04-20_AUD1_t01.flac
+57b69c954868a04de45169e525f4a455 *Nirvana_1990-04-20_AUD1_t02.flac
+29904df24fa591b1268a68842709d79d *Nirvana_1990-04-20_AUD1_t03.flac
+12315d5a072b26108e480ae46082d96f *Nirvana_1990-04-20_AUD1_t04.flac
+850f39f6589e5dbe12f09280a2210ab5 *Nirvana_1990-04-20_AUD1_t05.flac
+640f1ef692d05beeba53ccc4f4934766 *Nirvana_1990-04-20_AUD1_t06.flac
+7d876cc839eb9b15c61597daf717d83d *Nirvana_1990-04-20_AUD1_t07.flac
+1e7f3ca2b8da9449f9493ec41163d923 *Nirvana_1990-04-20_AUD1_t08.flac
+3bca1e84c2865cf667b63d2178864bd3 *Nirvana_1990-04-20_AUD1_t09.flac
+71e2dce3ea5f4309597eca0e5db261a9 *Nirvana_1990-04-20_AUD1_t10.flac
+85b33bd1e60c40073f943e546a65f1b4 *Nirvana_1990-04-20_AUD1_t11.flac
+55bb9ec57f690e5e3991457708ccc3dd *Nirvana_1990-04-20_AUD1_t12.flac
+7c26b26b644b07b872960388077bf60a *Nirvana_1990-04-20_AUD1_t13.flac
+59da515fd569b7ce51f334a4cf55a104 *Nirvana_1990-04-20_AUD1_t14.flac
+658fe59c7cf7786ef12fdf025815da95 *Nirvana_1990-04-20_AUD1_t15.flac
+aa7ccbbbe91862d3aab8b0cdc129aeb5 *Nirvana_1990-04-20_AUD1_t16.flac
+3bef1f70b927a0032e6b55d1badef208 *Nirvana_1990-04-20_AUD1_t17.flac
+8d325d3f8e7645b547b9e3d25a3a928e *Nirvana_1990-04-20_AUD1_t18.flac
+f0dd671ac6e56309cfea34180cd6d04e *Nirvana_1990-04-20_AUD1_t19.flac
+0bbb7ac38a2b7c262f708a9c58dac1dd *Nirvana_1990-04-20_AUD1_t20.flac
+
+EXTRACTED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

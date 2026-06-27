@@ -1,0 +1,74 @@
+Radiohead 
+2008-06-14 
+Nimes, France
+Arenes
+
+
+Taper : [Inconnu]
+
+SP-CMC-8(cardioid-low sensitivity)
+SP-SPSB10(rocker on are 1-4, for right and left)
+Editol R-09, 48khz-24 bit ->
+Audition(normalisation) ->
+Audition 44khz-16 bit ->
+CD Wave(tracksplit) ->
+Db Power Amp(flac8)
+
+
+
+*****************************
+Ne pas vendre, ne pas acheter
+*****************************
+
+Vous pouvez convertir pour vous même en mp3.
+
+**********************************************************
+Ne pas distribuer sous format avec perte(mp3, wma, ogg...)
+**********************************************************
+
+
+****************************
+Don't sell it, never buy it.
+****************************
+
+You can convert in mp3 if you want for personnal use. 
+
+********************************************************
+Do not distribute in any lossy form(mp3, ogg, wma...)
+********************************************************
+
+
+Setlist : 
+
+Cd1. 77'05
+
+01 - Reckoner				6:53
+02 - Weird fishes/Arpeggi		5:43
+03 - Myxomatosis			4:09
+04 - All I Need				4:43
+05 - Pyramid Song			6:02
+06 - Nude				4:57
+07 - There There			5:38
+08 - The National Anthem		4:40
+09 - Faust Arp				2:41
+10 - Videotape				5:00
+11 - No Surprises			4:05
+12 - 15 Step				4:26
+13 - Where I End and You Begin		4:10
+14 - Idioteque				4:25
+15 - Everything In Its Right Place	4:51
+16 - Street Spirit(fade out)		4:36
+
+Cd2. 45'28
+
+17 - Bodysnatchers			4:26
+18 - [Encore]				3:06
+19 - House of Cards			5:32
+20 - Talk Show Host			6:15
+21 - Exit Music(for a film)		5:06
+22 - Jigsaw Falling Into Place		4:22
+23 - Karma Police			4:28
+24 - [Encore]				3:04
+25 - Bangers and Mash			4:27
+26 - Planet Telex			4:36
+

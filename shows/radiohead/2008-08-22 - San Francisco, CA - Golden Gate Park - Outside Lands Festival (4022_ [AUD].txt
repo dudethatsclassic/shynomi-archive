@@ -1,0 +1,28 @@
+shntool 3.0.4
+Copyright (C) 2000-2007 Jason Jordan <shnutils@freeshell.org>
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:11.28       65510300 B   ---   --   ---xx   flac  0.5561  radiohead2008-08-22d1t01.flac
+     5:22.71       56967836 B   ---   --   ---xx   flac  0.5591  radiohead2008-08-22d1t02.flac
+     5:11.57       54994508 B   ---   --   ---xx   flac  0.5071  radiohead2008-08-22d1t03.flac
+     5:44.10       60705164 B   ---   --   ---xx   flac  0.5148  radiohead2008-08-22d1t04.flac
+     4:37.63       49011020 B   ---   --   ---xx   flac  0.4547  radiohead2008-08-22d1t05.flac
+     4:50.35       51238364 B   ---   --   ---xx   flac  0.4161  radiohead2008-08-22d1t06.flac
+     4:53.10       51708764 B   ---   --   ---xx   flac  0.5220  radiohead2008-08-22d1t07.flac
+     4:52.70       51673484 B   ---   --   ---xx   flac  0.5687  radiohead2008-08-22d1t08.flac
+     3:41.24       39040892 B   ---   --   ---xx   flac  0.5248  radiohead2008-08-22d1t09.flac
+     5:04.61       53769116 B   ---   --   ---xx   flac  0.4160  radiohead2008-08-22d1t10.flac
+     5:12.48       55149740 B   ---   --   ---xx   flac  0.5610  radiohead2008-08-22d1t11.flac
+     4:10.04       44109452 B   ---   --   ---xx   flac  0.5550  radiohead2008-08-22d1t12.flac
+     4:49.13       51010220 B   ---   --   ---xx   flac  0.4994  radiohead2008-08-22d1t13.flac
+     4:15.18       45024380 B   ---   --   ---xx   flac  0.5925  radiohead2008-08-22d1t14.flac
+     3:52.70       41089484 B   ---   --   ---xx   flac  0.5616  radiohead2008-08-22d1t15.flac
+     4:43.66       50076476 B   ---   --   ---xx   flac  0.3779  radiohead2008-08-22d2t01.flac
+     4:10.39       44191772 B   ---   --   ---xx   flac  0.5819  radiohead2008-08-22d2t02.flac
+     2:50.10       30011564 B   ---   --   ---xx   flac  0.4004  radiohead2008-08-22d2t03.flac
+     5:55.25       62680844 B   ---   --   ---xx   flac  0.4188  radiohead2008-08-22d2t04.flac
+     3:42.64       39311372 B   ---   --   ---xx   flac  0.4176  radiohead2008-08-22d2t05.flac
+     6:22.64       67535372 B   ---   --   ---xx   flac  0.5241  radiohead2008-08-22d2t06.flac
+     5:07.44       54258332 B   ---   --   ---xx   flac  0.4425  radiohead2008-08-22d2t07.flac
+     8:22.15       88588124 B   ---   --   ---xx   flac  0.4715  radiohead2008-08-22d2t08.flac
+   114:06.09     1207656580 B                            0.4980  (23 files)

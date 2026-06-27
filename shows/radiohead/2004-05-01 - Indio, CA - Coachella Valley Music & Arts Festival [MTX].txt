@@ -1,0 +1,59 @@
+Radiohead
+Coachella Valley Music & Arts Festival
+Empire Polo Field
+Inio, CA  USA
+May 1st, 2004
+
+Setlist:
+
+01. Intro
+02. Where Bluebirds Fly
+03. There There
+04. 2+2=5
+05. Lucky
+06. Myxomatosis
+07. My Iron Lung
+08. Exit Music
+09. The Gloaming
+10. Karma Police
+11. Sail To The Moon
+12. I Might Be Wrong
+13. Sit Down Stand Up
+14. No Surprises
+15. National Anthem
+16. Paranoid Android
+17. Idioteque
+18. (oops!) <--- lazy bum figured it out after everything was done (so be it)
+19. Street Spirit (Fade Out)
+20. (encore break)
+21. You & Whose Army
+22. (Jonny tease's w/a few bars of Let Down - or does he?)
+23. Planet Telex
+24. Creep
+25. Everything in Its Right Place
+
+--------------------matrix of 3 recordings--------------------
+
+Sources:
+
+Taper: formengr
+AT831 (SP-CMC-2)>SPSB-1 w/ rolloff @ 69Hz>Nomad Jukebox 3, Line in (not mic), 16 bit 44.1kHz, +4 db gain>firewire>PC
+recorded from 10' left of the front of the sbd, maybe 100' or so from the stage, mics 6' up (clear shot)
+
+Taper: BLG
+Source: DPA 4061s > PZmod battery box > Sony PCM-M1 > DAT-M 48khz 
+Location: approx 40' in line with left hanging stack
+Transfer: Tascam DA-20 > Monster coax > DiO 2496 > Soundforge 6.0 (resample to 44.1) > CDWave > FLAC
+
+Taper: ???
+Source: FOB RoC Schoeps MK41 > KC5 > CMC6XT > Aeta PSP-3 > 1/8" > Creative Labs Nomad Jukebox 3 (16/48Khz)
+Source Notes: Ran in Hat mics spaced 7.5” pointed slightly inward; ran 50’ from stage – 20’ RoC (Walkway with security in middle prevented me from getting any closer to middle)
+Transfer:Creative Labs Nomad Jukebox 3 > Firewire > PC
+Mastering: Wavelab 4 - swap channels, normalize to 0db, Resample 48Khz > 44.1Khz>CD-Wave Tracking>FLAC 1.1.0 (Frontend) Encoding
+
+Mixing: formengr
+
+Synched>+2.5 db for BLG's source, others at +0>fades>render to one wav (all preceding in Vegas Video 5.0)>CD Wave to split>flac level 6
+
+
+*************The Radiohead Hub: www.radiohub.org (for info), radioheadlive.no-ip.org (to direct connect)*************

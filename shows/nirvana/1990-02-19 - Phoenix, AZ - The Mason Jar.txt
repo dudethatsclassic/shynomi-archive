@@ -1,0 +1,55 @@
+NIRVANA
+February 19, 1990
+The Mason Jar
+Phoenix, AZ
+
+SOURCE (AUD #1):
+Aiwa > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.94.5 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+50:24
+
+TRACKS:
+01. intro
+02. School
+03. Floyd The Barber
+04. Scoff
+05. Dive
+06. Polly
+07. Spank Thru
+08. Breed
+09. About A Girl
+10. Been A Son
+11. Stain
+12. Negative Creep
+13. Blew
+14. Molly's Lips
+15. Love Buzz
+
+MD5 FINGERPRINTS:
+ccd9b94314f57685313f3d1c1249d831 *Nirvana_1990-02-19_AUD1_t01.flac
+819af1d594a3271e052806ba8fbd8cd1 *Nirvana_1990-02-19_AUD1_t02.flac
+6a40b87d4941ea8d5ca71351e98422b2 *Nirvana_1990-02-19_AUD1_t03.flac
+b34dd219bded83d59f1b28c4fa8db4cf *Nirvana_1990-02-19_AUD1_t04.flac
+df478048fa589a6388d89552b873827b *Nirvana_1990-02-19_AUD1_t05.flac
+1247c6e723d104ddc926e5a1cd9d89e8 *Nirvana_1990-02-19_AUD1_t06.flac
+6466d5e43cc528ece121b969e7e4d79d *Nirvana_1990-02-19_AUD1_t07.flac
+3b0f8008b5cd56367b1ba64205fa1f69 *Nirvana_1990-02-19_AUD1_t08.flac
+09611000e775416e5bd48a2e41b8b5a9 *Nirvana_1990-02-19_AUD1_t09.flac
+7c75d59eac1885c907cc9e1d8421a207 *Nirvana_1990-02-19_AUD1_t10.flac
+3aea5e882d735d683c12b1907e3faa83 *Nirvana_1990-02-19_AUD1_t11.flac
+11d9beea356b495c7f3ab87c11d3517d *Nirvana_1990-02-19_AUD1_t12.flac
+b7ef8866a816b043dfa406215413b7e3 *Nirvana_1990-02-19_AUD1_t13.flac
+d1628e27b4335eb713c8e3cfa2c2e0e9 *Nirvana_1990-02-19_AUD1_t14.flac
+a466f526904ac15bc1a1089f2170319a *Nirvana_1990-02-19_AUD1_t15.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,65 @@
+NIRVANA
+November 17, 1991
+Bloom
+Mezzago, Italy
+
+SOURCE (AUD #1):
+unknown -> Sony WM-D6C
+
+TRANSFER:
+Nakamichi DR-3 > Schulz ADPS 1 > Fireface UC > Adobe Audition 3.0 > CD Wave 1.98
+
+GENERATION:
+ANA(1) > WAV [32bit/96kHz] > WAV [16bit/44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+65:13
+
+TRACKS:
+01. intro
+02. Drain You (aborted)
+03. Drain You
+04. Aneurysm
+05. School
+06. Floyd The Barber
+07. Smells Like Teen Spirit
+08. About A Girl
+09. Polly
+10. Lithium
+11. Breed
+12. Sliver
+13. In Bloom
+14. Been A Son
+15. Negative Creep
+16. On A Plain
+17. Blew
+18. Talk To Me
+19. Oh, The Guilt
+20. Territorial Pissings
+
+MD5 FINGERPRINTS:
+0a4f508d5b6e61b2480053ce8b985f87 *Nirvana_1991-11-17_AUD1_t01.flac
+73bab2fe743a5e4b41ffc1ad3174512c *Nirvana_1991-11-17_AUD1_t02.flac
+085ac38596c87d4d69eecffa43bf4e69 *Nirvana_1991-11-17_AUD1_t03.flac
+9a5242e71ef6d9e566eb2449321ed545 *Nirvana_1991-11-17_AUD1_t04.flac
+82ce28344d498f9425896f172a19f655 *Nirvana_1991-11-17_AUD1_t05.flac
+155a23734c4890fe06bdd39fc2e3d9f2 *Nirvana_1991-11-17_AUD1_t06.flac
+91edd81a2b1dce076347ddf733803fe0 *Nirvana_1991-11-17_AUD1_t07.flac
+c4a428da2ed4d4d497f315e713152c8a *Nirvana_1991-11-17_AUD1_t08.flac
+e036879024ec7b971c952f85180fd660 *Nirvana_1991-11-17_AUD1_t09.flac
+8da068d56267a85f72f23c9681107cfc *Nirvana_1991-11-17_AUD1_t10.flac
+726b22c5d1d7705b79a6f8bf9e4f95ba *Nirvana_1991-11-17_AUD1_t11.flac
+50a361bde64daa54fd35ee189c6d1715 *Nirvana_1991-11-17_AUD1_t12.flac
+6c9b03e634de1d9b751f5b9690b980fa *Nirvana_1991-11-17_AUD1_t13.flac
+45a155be0c3e94115b6b3807c17c1929 *Nirvana_1991-11-17_AUD1_t14.flac
+0603f7e3bd8e06f695a406038b79e01e *Nirvana_1991-11-17_AUD1_t15.flac
+1ee16d994eee737aad2441487dc430c2 *Nirvana_1991-11-17_AUD1_t16.flac
+a623484cca0652afd895568d7af92375 *Nirvana_1991-11-17_AUD1_t17.flac
+ff0bf4268ef5252d9bf18f5612ed7f6a *Nirvana_1991-11-17_AUD1_t18.flac
+360e1e058de972821970b76fee23e1b0 *Nirvana_1991-11-17_AUD1_t19.flac
+ce2dc87c63a01d556ce4d9e64d96a113 *Nirvana_1991-11-17_AUD1_t20.flac
+
+TRANSFERRED BY:
+Daniel Bär
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

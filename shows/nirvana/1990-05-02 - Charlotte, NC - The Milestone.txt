@@ -1,0 +1,54 @@
+NIRVANA
+May 2, 1990
+The Milestone
+Charlotte, NC
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.95.1 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+47:05
+
+NOTES:
+- Has an open microphone mixed in on the left channel.
+- Has some minor dropouts and choppiness during some songs.
+
+TRACKS:
+01. Here She Comes Now (cuts in)
+02. Floyd The Barber
+03. Love Buzz
+04. Dive
+05. About A Girl
+06. Polly
+07. Scoff
+08. Stay Away
+09. Molly's Lips
+10. School
+11. Big Cheese
+12. Spank Thru (cuts out)
+
+MD5 FINGERPRINTS:
+1bd18d0b38a5a87e8cdd1772cdae6060 *Nirvana_1990-05-02_SBD1_t01.flac
+1c6e324ec1c290c09f2390790bd523e5 *Nirvana_1990-05-02_SBD1_t02.flac
+ac523d96527a60a74ddee646d8f8481a *Nirvana_1990-05-02_SBD1_t03.flac
+97230646c25513db73814f136b85b437 *Nirvana_1990-05-02_SBD1_t04.flac
+ef3f2e443ad1fd06c05d188e33ff7eec *Nirvana_1990-05-02_SBD1_t05.flac
+9ee74b955fd93a3138f7e6a513f80919 *Nirvana_1990-05-02_SBD1_t06.flac
+540da48be83a063772c4ca591a528fbb *Nirvana_1990-05-02_SBD1_t07.flac
+beedaacc260a4a25a7cab0fecc02ceba *Nirvana_1990-05-02_SBD1_t08.flac
+bee7b916cd1273ea7f7f3b49694b295b *Nirvana_1990-05-02_SBD1_t09.flac
+b295a9fb7a85036e375b87f23309ad85 *Nirvana_1990-05-02_SBD1_t10.flac
+33113c22c17ef3b629d22b388c421f7a *Nirvana_1990-05-02_SBD1_t11.flac
+a8cd6b7ae95f457cadcccc39bfbed169 *Nirvana_1990-05-02_SBD1_t12.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3
+

@@ -1,0 +1,23 @@
+Radiohead
+In rainbows
+From The Basement
+
+Broadcast on VH1 - May 3, 2008
+
+1.  Bodysnatchers
+2.  Nude
+3.  Myxomatosis
+4.  Weird Fishes/Arpeggi
+5.  House Of Cards
+6.  15 Step
+7.  Optimistic
+8.  Reckoner
+9.  Where I End and You Begin
+
+Capture:  JVC DR-MV1 standalone DVD recorder (48 kHz 16 bit wav)
+Extract: SUPER (44.1 Khz 16 bit wav)
+Edit:  Vegas Video 7.0 (trim/fade/+8db gain)
+Track:  CD Wave Editor
+Compress:  Traders Little Helper (flac level 8)
+
+captured/edited by formengr

@@ -1,0 +1,43 @@
+NIRVANA
+January 10, 1992
+MTV Studios
+New York, NY
+
+SOURCE (PRO #1a):
+soundboard > unknown
+
+TRANSFER:
+JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+VHS(1) > AVI [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+40:57
+
+TRACKS:
+01. On A Plain (soundcheck) (cuts in)
+02. Been A Son (soundcheck) (cuts in)
+03. Drain You
+04. School
+05. Molly's Lips
+06. Polly
+07. Aneurysm
+08. Smells Like Teen Spirit
+09. Territorial Pissings
+
+MD5 FINGERPRINTS:
+e1354f8d12850f3ce04b5163d11a340e *Nirvana_1992-01-10_PRO1a_t01.flac
+c30c716074385e96e6ade18144d7e473 *Nirvana_1992-01-10_PRO1a_t02.flac
+3479063fe427475111f75f71249008b6 *Nirvana_1992-01-10_PRO1a_t03.flac
+80e0894bbaa51911226b2329e52dd4a5 *Nirvana_1992-01-10_PRO1a_t04.flac
+b2ffeaeb37c83b75e4b21b9802016fe1 *Nirvana_1992-01-10_PRO1a_t05.flac
+41b4793e5d30640a83b10b6b7fc7ef12 *Nirvana_1992-01-10_PRO1a_t06.flac
+e3f5be8b5116c812dda80f39245866b6 *Nirvana_1992-01-10_PRO1a_t07.flac
+9aafc4f598d9791b01d62429908259cf *Nirvana_1992-01-10_PRO1a_t08.flac
+b7e6195f7ea4c792ed095b4483a70184 *Nirvana_1992-01-10_PRO1a_t09.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

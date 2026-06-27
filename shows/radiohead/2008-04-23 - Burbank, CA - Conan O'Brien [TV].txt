@@ -1,0 +1,108 @@
+General
+ID                                       : 291 (0x123)
+Complete name                            : /Volumes/Downloads/Radiohead (Conan 2008-04-23)/Radiohead-House_of_Cards_(Conan_20080423)-Ma1215.ts
+Format                                   : MPEG-TS
+File size                                : 755 MiB
+Duration                                 : 7 min 1 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 15.0 Mb/s
+Frame rate                               : 29.970 FPS
+Movie name                               : Late Night With Conan O'Brien
+Law rating                               : TV-14
+
+Video
+ID                                       : 17 (0x11)
+Menu ID                                  : 1 (0x1)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@High
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : Variable
+Format settings, picture structure       : Frame
+Codec ID                                 : 2
+Duration                                 : 7 min 1 s
+Bit rate mode                            : Variable
+Bit rate                                 : 13.9 Mb/s
+Maximum bit rate                         : 65.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Bottom Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.223
+Time code of first frame                 : 09:46:10;09
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+Stream size                              : 697 MiB (92%)
+
+Audio
+ID                                       : 20 (0x14)
+Menu ID                                  : 1 (0x1)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : 129
+Duration                                 : 7 min 1 s
+Bit rate mode                            : Constant
+Bit rate                                 : 384 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : -591 ms
+Stream size                              : 19.3 MiB (3%)
+Service kind                             : Complete Main
+
+Text #1
+ID                                       : 17 (0x11)-CC1
+Menu ID                                  : 1 (0x1)
+Format                                   : EIA-608
+Muxing mode                              : A/53 / DTVCC Transport
+Muxing mode, more info                   : Muxed in Video #1
+Duration                                 : 7 min 1 s
+Duration of the visible content          : 6 min 52 s
+Start time (commands)                    : 18 h 26 min
+Start time                               : 18 h 26 min
+End time                                 : 18 h 33 min
+Bit rate mode                            : Constant
+Stream size                              : 0.00 Byte (0%)
+Type of the first event                  : RollUp
+
+Text #2
+ID                                       : 17 (0x11)-CC3
+Menu ID                                  : 1 (0x1)
+Format                                   : EIA-608
+Muxing mode                              : A/53 / DTVCC Transport
+Muxing mode, more info                   : Muxed in Video #1
+Duration                                 : 7 min 1 s
+Bit rate mode                            : Constant
+Stream size                              : 0.00 Byte (0%)
+
+Text #3
+ID                                       : 17 (0x11)-1
+Menu ID                                  : 1 (0x1)
+Format                                   : EIA-708
+Muxing mode                              : A/53 / DTVCC Transport
+Muxing mode, more info                   : Muxed in Video #1
+Duration                                 : 7 min 1 s
+Bit rate mode                            : Constant
+Stream size                              : 0.00 Byte (0%)
+
+Text #4
+ID                                       : 17 (0x11)-2
+Menu ID                                  : 1 (0x1)
+Format                                   : EIA-708
+Muxing mode                              : A/53 / DTVCC Transport
+Muxing mode, more info                   : Muxed in Video #1
+Duration                                 : 7 min 1 s
+Bit rate mode                            : Constant
+Stream size                              : 0.00 Byte (0%)
+

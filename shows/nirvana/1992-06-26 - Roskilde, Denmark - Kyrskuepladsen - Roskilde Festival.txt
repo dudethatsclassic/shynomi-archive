@@ -1,0 +1,104 @@
+NIRVANA
+June 26, 1992
+Dyrskuepladsen (Roskilde Festival)
+Roskilde, Denmark
+
+SOURCE (AMT #1 and AMT #2):
+unknown > unknown
+
+SOURCE (PRO #1c):
+soundboard > unknown
+
+TRANSFER (AMT #1, AMT #2, and PRO #1c):
+JVC HR-S9911U > Sony DCR-TRV730 > IEEE 1394 > Adobe Premiere Pro 2.0 > TMPGEnc Plus 2.5 > Adobe Encore DVD 2.0
+
+GENERATION (AMT #1):
+VHS(1) > AVI [DV25] > M2V/WAV [8Mbps CBR/48kHz PCM] > DVDR(0) [dual layer]
+
+GENERATION (AMT #2):
+VHS(2) > AVI [DV25] > M2V/WAV [8Mbps CBR/48kHz PCM] > DVDR(0) [dual layer]
+
+GENERATION (PRO #1c):
+VHS(x) > AVI [DV25] > M2V/WAV [8Mbps CBR/48kHz PCM] > DVDR(0) [dual layer]
+
+LENGTH (AMT #1):
+74:08
+
+LENGTH (AMT #2):
+14:11
+
+LENGTH (PRO #1c):
+7:14
+
+NOTES:
+- AMT #1 is labeled "AMATEUR ANGLE 1" on the DVD.
+- AMT #1 has a dropout in "Aneurysm."
+- AMT #2 is labeled "AMATEUR ANGLE 2" on the DVD.
+- AMT #2 has a cut from the source tape during the intro, causing some blockiness for about 2 seconds.
+- PRO #1c is labeled "PRO SHOT & INTERVIEW" on the DVD.
+- On PRO #1c, "Swap Meet" is only a brief clip with no video.
+
+CHAPTERS (AMT #1):
+01. intro
+02. Aneurysm
+03. Drain You
+04. Stay Away
+05. Sliver
+06. School
+07. In Bloom
+08. Breed
+09. About A Girl
+10. Scoff
+11. Polly
+12. Lithium
+13. Blew
+14. Been A Son
+15. On A Plain
+16. Swap Meet
+17. Negative Creep
+18. Something In The Way
+19. Come As You Are
+20. Love Buzz
+21. Smells Like Teen Spirit
+22. Territorial Pissings
+
+CHAPTERS (AMT #2):
+01. intro
+02. Aneurysm
+03. Drain You
+04. Stay Away
+05. Sliver (cuts out)
+
+CHAPTERS (PRO #1c):
+01. On A Plain
+02. Swap Meet (cuts out)
+03. interview
+04. Lithium (cuts in, cuts out)
+05. interview
+
+MD5 FINGERPRINTS:
+b8c5d7598e9a0998e89923f9f6d9776d *VIDEO_TS/VIDEO_TS.BUP
+b8c5d7598e9a0998e89923f9f6d9776d *VIDEO_TS/VIDEO_TS.IFO
+2b9118b5c757edf9be11b7ceef0015e3 *VIDEO_TS/VIDEO_TS.VOB
+eec1a0089c4772302b7c9d325fa3925a *VIDEO_TS/VTS_01_0.BUP
+eec1a0089c4772302b7c9d325fa3925a *VIDEO_TS/VTS_01_0.IFO
+0c494aa7777342b50b297616e8c9f370 *VIDEO_TS/VTS_01_0.VOB
+e70cafaa6c406fdd25dcee4cf61bbf9c *VIDEO_TS/VTS_01_1.VOB
+80a41ed5b0f493d06b4fda8a382872fb *VIDEO_TS/VTS_01_2.VOB
+e0d98b15e8b24bd9e77410a87698cffe *VIDEO_TS/VTS_01_3.VOB
+5f0fe10c8a244430ecda6a64558ab5d4 *VIDEO_TS/VTS_01_4.VOB
+05b19dee841cebfa0abf87d5c8af79fe *VIDEO_TS/VTS_01_5.VOB
+dcb5652fb2313165581cfc2ce58d1c9e *VIDEO_TS/VTS_01_6.VOB
+040fea755e64138d32ce44e425fb2a5b *VIDEO_TS/VTS_02_0.BUP
+040fea755e64138d32ce44e425fb2a5b *VIDEO_TS/VTS_02_0.IFO
+2b9118b5c757edf9be11b7ceef0015e3 *VIDEO_TS/VTS_02_0.VOB
+e88c3bd4348584f408cfa9d6dc0a4d4d *VIDEO_TS/VTS_02_1.VOB
+6bd8d6a4055d61e2a62c912bf8c3703f *VIDEO_TS/VTS_03_0.BUP
+6bd8d6a4055d61e2a62c912bf8c3703f *VIDEO_TS/VTS_03_0.IFO
+2b9118b5c757edf9be11b7ceef0015e3 *VIDEO_TS/VTS_03_0.VOB
+4bf10d69a32310bbfee9f3cb2e6a8478 *VIDEO_TS/VTS_03_1.VOB
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO ANY OTHER FORMAT

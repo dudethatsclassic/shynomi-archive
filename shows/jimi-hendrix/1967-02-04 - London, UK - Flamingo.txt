@@ -1,0 +1,36 @@
+Flamingo, London, England
+Saturday 4 February 1967
+Low gen composite
+
+1 Killing floor (start cut, fades in)
+2 Mercy, mercy
+3 Can you see me
+4 Like a rolling stone
+5 Rock me baby
+6 Catfish blues
+7 Stone free
+8 Hey Joe
+9 Wild thing
+
+A complete continous version of the Flamingo tape does not seem to circulate. Most existing copies of this tape have the end of the tape missing with the very end of Wild Thing cut or with Wild Thing complete but the MC's end announcement missing. All circulating copies also seem to be cut just before Catfish Blues, fortunately different dubs either have overlap or have the cut at a different points so it's possible to patch it. See notes below for more detailed information. 
+
+Some people will no doubt find that the source circulating as "2nd gen" sounds better. That version however has been heavily eq'd, is in digital mono and runs at a different speed. The main source used for this composite would seem to be a an unaltered raw low gen version so it will sound quite different to what many people are used to listen to. The aim was to present the original master as complete as possible and as close to the way it originally sounded as possible.
+
+Source info:
+
+Composite of two sources, phase & pitch corrected (by +5%). A raw low gen source was used as the main source. A cut before Catfish Blues was patched from a heavily eq'd 2nd gen source, the eq was reversed but since the 2nd gen tape was digital mono there is a change in the hiss (from stereo to mono) in the patched section. Some clicks not on the master were removed and drop-outs fixed (as well as possible) at 0.39 in Rock Me Baby, 2.24 in Hey Joe and 6.40 in Wild Thing. 
+
+At least the first two drop-outs were not on the original master as they are in stereo which is why it was possible to improve them by patching one channel with the other. Ultimately this composite is a compromise for the time being, somewhere there must be a straight low gen transfer of the complete uncut mono master or perhaps the master itself will pop up one day.
+
+Source 1:		Master (reel?) > ? > cdr > cdr > wav
+Raw low gen source.
+The MC's speech after Wild Thing is complete. 
+The cut before Catfish Blues takes place before Jimi mentions Muddy Waters, several seconds are missing.
+Phase & pitch corrected (by +5%)
+
+Source 2:		Master (reel?) > 2nd gen
+Heavily eq'd digital mono 2nd gen source.
+This source was used to patch the cut before Catfish Blues.
+The MC's speech after Wild Thing is missing.
+The cut before Catfish Blues takes place after Jimi mentions Muddy Waters. There's a short repeat section on the tape at this point so there's actually no audio lost.
+

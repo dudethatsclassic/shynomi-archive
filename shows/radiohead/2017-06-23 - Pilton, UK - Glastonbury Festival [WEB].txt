@@ -1,0 +1,107 @@
+Radiohead
+Glastonbury Festival of Contemporary Performing Arts
+Pyramid Stage
+Worthy Farm
+Pilton, UK
+June 23, 2017
+
+Lineage: LIVE Webcast -> AdobeHDS script -> .flv -> FFmpeg (edit) -> .ts
+Video: MPEG4 Video (H264) 1280x720 16:9 5365 kbps 50.00 fps
+Audio: HE-AAC 96.0 Kbps 48.0 KHz stereo
+(HE-AAC 96.0 is equivalent to AAC 192 kbps)
+
+Setlist: 
+Daydreaming
+Lucky
+Ful Stop
+Airbag
+15 Step
+Myxomatosis
+Exit Music (for a Film)
+Pyramid Song
+Everything in Its Right Place
+Let Down
+Bloom
+Weird Fishes/Arpeggi
+Idioteque
+You and Whose Army?
+There There
+Bodysnatchers
+Street Spirit (Fade Out)
+
+Encore 1:
+No Surprises
+Nude
+2 + 2 = 5
+Paranoid Android
+Fake Plastic Trees
+
+Encore 2:
+Lotus Flower
+Creep
+Karma Police
+
+TRT = 02:14:32
+
+Captured and uploaded to DIME by indykid. 
+
+MediaInfo:
+General
+ID                          : 1 (0x1)
+Complete name               : Radiohead - 2017-06-23 Glastonbury Festival, Worthy Farm, Pilton, UK - Webcast [720p50].ts
+Format                      : MPEG-TS
+File size                   : 5.16 GiB
+Duration                    : 2 h 14 min
+Overall bit rate mode       : Variable
+Overall bit rate            : 5 489 kb/s
+
+Video
+ID                          : 256 (0x100)
+Menu ID                     : 1 (0x1)
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L3.2
+Format settings, CABAC      : Yes
+Format settings, ReFrames   : 2 frames
+Codec ID                    : 27
+Duration                    : 2 h 14 min
+Width                       : 1 280 pixels
+Height                      : 720 pixels
+Display aspect ratio        : 16:9
+Frame rate                  : 50.000 FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+
+Audio
+ID                          : 257 (0x101)
+Menu ID                     : 1 (0x1)
+Format                      : AAC
+Format/Info                 : Advanced Audio Codec
+Format version              : Version 4
+Format profile              : HE-AAC / LC
+Muxing mode                 : ADTS
+Codec ID                    : 15
+Duration                    : 2 h 14 min
+Bit rate mode               : Variable
+Channel(s)                  : 2 channels
+Channel positions           : Front: L R
+Sampling rate               : 48.0 kHz / 24.0 kHz
+Frame rate                  : 23.438 FPS (1024 spf)
+Compression mode            : Lossy
+Delay relative to video     : -2 s 262 ms
+
+Menu
+ID                          : 4096 (0x1000)
+Menu ID                     : 1 (0x1)
+Duration                    : 2 h 14 min
+List                        : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                : Service01
+Service provider            : FFmpeg
+
+Captured and uploaded to DIME by indykid. 

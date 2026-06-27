@@ -1,0 +1,61 @@
+NIRVANA
+May 1, 1990
+Cat's Cradle
+Chapel Hill, NC
+
+SOURCE (SBD#1b):
+Unknown > Unknown
+
+TRANSFER:
+Sony TC-WR745 > unknown cable > Focusrite Scarlett 2i2 > Protools > Izotope RX9 > Audition 2017 > SoundForge 12.1 > Trader's Little Helper 2.8.4
+
+GENERATION:
+ANA(2) > WAV [24 bit/44.1kHz] > WAV [16 bit/44.1kHz] > FLAC [Level 8]
+
+DURATION:
+44:07
+
+SETLIST:
+00. Intro
+01. School
+02. Floyd The Barber
+03. Love Buzz
+04. Dive
+05. Spank Thru
+06. Breed
+07. About A Girl
+08. Scoff
+09. Big Cheese
+10. In Bloom
+11. Polly
+
+MD5 FINGERPRINTS:
+c6f27c35f4aa49a4c7e1e12fec1e47b1 *NIRVANA 1990-05-01 SBD#1b ANA(2) 00 Intro.flac
+bb71bd2ad2747e62e5702a4b682a6387 *NIRVANA 1990-05-01 SBD#1b ANA(2) 01 School.flac
+fd30148684c26b40ba269da6b5d5c2a0 *NIRVANA 1990-05-01 SBD#1b ANA(2) 02 Floyd The Barber.flac
+15d4c84990fdfe7036ed93b9ee6217a6 *NIRVANA 1990-05-01 SBD#1b ANA(2) 03 Love Buzz.flac
+1da51ff7ae7d3cef5edf523ce4871179 *NIRVANA 1990-05-01 SBD#1b ANA(2) 04 Dive.flac
+a2fd305c9ea0453f771e239cb1991b90 *NIRVANA 1990-05-01 SBD#1b ANA(2) 05 Spank Thru.flac
+b4e517214b8cf3257b43f73952921c54 *NIRVANA 1990-05-01 SBD#1b ANA(2) 06 Breed.flac
+d5e474f689589dae4c9cc64cce2a7287 *NIRVANA 1990-05-01 SBD#1b ANA(2) 07 About A Girl.flac
+c38670db1c3081bb21b184165985c731 *NIRVANA 1990-05-01 SBD#1b ANA(2) 08 Scoff.flac
+ec30e5088efd5259c86f796ac48536c6 *NIRVANA 1990-05-01 SBD#1b ANA(2) 09 Big Cheese.flac
+30dcbbed985a9d063150d3b9677d75f7 *NIRVANA 1990-05-01 SBD#1b ANA(2) 10 In Bloom.flac
+212640d80616cbd942b11b40e94824ea *NIRVANA 1990-05-01 SBD#1b ANA(2) 11 Polly.flac
+
+TRANSFER:
+L.P.
+
+DISTRIBUTION:
+Members of LiveNIRVANA.com
+
+NOTES:
+• Does not have any of the cuts that are present on SBD #1a.
+• There's a dropout during "Polly".
+• The sound is a little deteriorated during "Polly".
+• Missing everything after "Polly".
+
+TECHNICAL NOTES:
+Right channel had continuous clunking sounds approximately once per second; all were surgically eradicated via spectral editing and replaced with cloned Left channel content. (MW)
+
+2022-05-01

@@ -1,0 +1,46 @@
+Radiohead
+2008-08-24
+Hollywood Bowl
+Hollywood, CA, USA
+
+Source: CSC > battery box > Microtrack (24bit 48kHz)
+By: faninor
+Transfer: Microtrack > Adobe Audition (converted to 32bit 48kHz volume
+          amplified, fades added, dithered to 24 bit 48kHz WAV)
+          > CD Wave (tracking) > FLAC
+By: faninor
+
+------------------------------------------------------------------- [130:14.000]
+01 - intro                                                           [01:21.800]
+02 - 15 Step                                                         [04:28.800]
+03 - There There                                                     [06:00.400]
+04 - Morning Bell                                                    [04:14.880]
+05 - All I Need                                                      [04:34.320]
+06 - Pyramid Song                                                    [05:11.800]
+07 - Nude                                                            [04:38.000]
+08 - Weird Fishes/Arpeggi                                            [05:12.800]
+09 - The Gloaming                                                    [03:38.200]
+10 - The National Anthem                                             [05:02.200]
+11 - A Wolf at the Door                                              [03:43.800]
+12 - Faust Arp                                                       [02:32.000]
+13 - Exit Music (for a Film)                                         [04:46.400]
+14 - Jigsaw Falling into Place                                       [03:56.600]
+15 - Idioteque                                                       [03:54.000]
+16 - Climbing Up the Walls                                           [04:30.200]
+17 - Bodysnatchers                                                   [04:27.800]
+18 - How to Disappear Completely                                     [07:12.000]
+19 - encore                                                          [02:15.933]
+20 - Videotape                                                       [05:36.267]
+21 - Paranoid Android                                                [06:21.000]
+22 - Dollars and Cents                                               [05:47.200]
+23 - Street Spirit (Fade Out)                                        [05:21.000]
+24 - Reckoner                                                        [05:09.600]
+25 - encore                                                          [02:45.000]
+26 - House of Cards                                                  [05:28.000]
+27 - Lucky                                                           [04:49.000]
+28 - Electrolite/Everything in Its Right Place                       [07:15.000]
+
+Notes --------------------------------------------------------------------------
+Night 1, pool 3rd row on the right
+
+-- faninor -------- please don't convert to lossy formats -------- 2008-10-22 --

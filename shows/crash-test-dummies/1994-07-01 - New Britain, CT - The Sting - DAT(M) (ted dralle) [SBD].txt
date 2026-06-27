@@ -1,0 +1,120 @@
+Crash Test Dummies  
+1994-07-01 - 
+The Sting 
+667 West Main Street,
+New Britain, CT  
+ 
+Source: SBD > Sony D-10 PRO (16/44.1) > MDAT
+Lineage: MDAT > Tascam DA-20 > Digital S/PDIF Out >Scarlett 18i20 > Mac Pro > Adobe Audition > WAV (16/44.1) xACT > FLAC  
+Recorded by: Ted Dralle
+Transferred & Mastered by: Scott Medeiros
+Tracked and edited by: Rich Lemire
+From the Collection Belonging to: Toni Fishman, Scott Medeiros and Bill Hoy.  
+
+01. intro 
+02. God Shuffled His Feet
+03. banter
+04. Androgynous
+05. In the Days Of the Caveman #
+06. The Ghosts That Haunt Me
+07. I Think I'll Disappear Now ->
+08. How Does a Duck Know? ->
+09. The Country Life **
+10. banter 
+11. When I Go Out With Artists
+12. Comin' Back Soon (The Bereft Man's Song)
+13. banter
+14. Swimming In Your Ocean ->
+15. Here I Stand Before Me
+16. banter
+17. Samson & Delilah
+18. Mmm Mmm Mmm Mmm
+19. banter
+20. Superman's Song
+21. band intros, "Afternoons & Coffeespoons" intro >
+22. Afternoons & Coffeespoons ++
+   Encore:  
+23. encore break
+24. The Voyage
+25. Two Knights & Maidens
+26. At My Funeral  
+
+#=digi issues 0:45-0:46
+**=compression issues starting at 3:23
+++=dropout  @ 1:13
+
+Ellen Reid (Ellen Lorraine Reid) - keys, piano, accordion, tin whistle, b.vox, vox
+Brad Roberts (Bradley Kenneth Roberts) - electric guitar, acoustic guitar, vox
+Dan Roberts - bass, b.vox
+Michel "Mitch" Dorge (Mitchell Dorge) - drums, percussion
+Benjamin Darvill - harmonicas, mandolin, acoustic guitar, percussion, b.vox
+Kathy Brown - keys, b.vox
+
+Scott Medeiros Notes (2025-05):  
+--Maxell 120
+--Low db  
+
+vg NOTES (2025-05-10):  
+--Thanks so much to Ted Dralle for recording & sharing this Crash Test Dummies 1994 show & to the whole team of Toni Fishman, Bill Hoy, Scott Medeiros & Rich Lemire for all their parts in getting this beauty out to the masses for all of us to enjoy.  Absolutely Appreciated all around!!
+--I added more detail to the band members info
+--added more detail to the setlist info & venue info
+--this venue no longer exists...it was a 1,200 capacity nightclub in operation from November 1990 until September 1998...it eventually closed due to financial issues, including a large judgment against the business, & competition from casinos & other venues
+--created md5 & ffp checksum files
+--added the ffp fingerprints & md5 checksums to the text file  
+--added pics  
+
+ffp:  
+01 Intro.flac:535d461bc89b8f4c9f82875cd1ee3f26
+02 God Shuffled His Feet.flac:0963325518e39673575363164e4e1f41
+03 banter.flac:40b373a958b23ea704228f652de968f6
+04 Androgynous.flac:7522ef167c812aa1c3d9a91f7f380b53
+05 In The Days Of The Caveman.flac:d5ff4e5172124911ad1edeea428c36d2
+06 The Ghosts That Haunt Me .flac:a6aff4a11281b8d147afd24b34d28060
+07 I Think I'll Disappear Now.flac:e2f20afb52f3c681add65ec55cbe224e
+08 How Does A Duck Know.flac:ac05e0cc7ec55f3f3f9eed760c3f6760
+09 The Country Life.flac:3435cf9c215f7dc110d844213402dd38
+10 banter.flac:d421c10de2701859e5e2a195c28dfa96
+11 When I Go Out With Artists.flac:d5c48342aa65ceaced80b035726fb4ef
+12 Comin Back Soon (The Bereft Man's Song).flac:64c6b4aec06855617e5fbf0fcbdafdb9
+13 banter.flac:e1b83e7df3e75abe2b1fddf1a8c2f930
+14 Swimming In Your Ocean.flac:8670c4c2e6860b4148063db93aeef42a
+15 Here I Stand Before Me.flac:1edb37cda948d5a32dee4a9a8297d10d
+16 banter.flac:d0653e078675b728060d88d9a075633a
+17 Samson And Delilah.flac:0bf23efd86d38079e9cf6c062696cc4f
+18 Mmm Mmm Mmm Mmm.flac:57d78cd149bd364e8a520facadbae7a5
+19 banter.flac:2f6c5765cc717a9c24e20c3bee0fa867
+20 Superman_s Song.flac:287f077acf944bd88fc15be372cf4c8e
+21 band introductions - Afternoons & Coffeespoons intro.flac:7992a05ca04a12576481e7954bd3c757
+22 Afternoons & Coffeespoons.flac:b1661552c6419d6793c221c7e4919caa
+23 encore break.flac:81061649ca79ca087f6487a8d2e6ff96
+24 The Voyage.flac:51aee799d39ab2c65de9bc436ddd8356
+25 Two Knights And Maidens.flac:58fff2d9e2dcec27559c0b0839a5c146
+26 At My Funeral.flac:7ce6b1e7614beb25714d558d3c17fde2  
+
+md5:  
+057d10d3b04c6ad00c2682fac838403a *01 Intro.flac
+1d985fe7e57f91a22f1238d35d81380d *02 God Shuffled His Feet.flac
+004a5e2a0aeee69cba8d904f3b5c933d *03 banter.flac
+f277bf110a9b8d78abae56e609430af0 *04 Androgynous.flac
+98d852504a498ce4793d7f2d15b8ddf3 *05 In The Days Of The Caveman.flac
+3d4ac6881da5bee69c08f020ef263b5b *06 The Ghosts That Haunt Me .flac
+c86dbab447339f963cc1bc2c96e7769d *07 I Think I'll Disappear Now.flac
+5c996b47b5c4130628f40939ca8a6513 *08 How Does A Duck Know.flac
+240ac9c85ef9f017e31d409be998e76c *09 The Country Life.flac
+e17e13b793451aff5ca506552b97c4d1 *10 banter.flac
+243f7091d859203e2b9042f0d7ec8a19 *11 When I Go Out With Artists.flac
+b026ec7bf05b21a17e773a94a951a787 *12 Comin Back Soon (The Bereft Man's Song).flac
+cea48e98a3fe18aa15b831e3277db5d1 *13 banter.flac
+30292779c97badcc8342b734c9485f09 *14 Swimming In Your Ocean.flac
+e32a0e25b48121c72e9a29c111ae3317 *15 Here I Stand Before Me.flac
+d697a010dcb14303bd26167e0a9c10f6 *16 banter.flac
+2e53d93e8d68ebcc285a9d1499bae845 *17 Samson And Delilah.flac
+fe7adc0b0ca8d9f6fc3dc904472e2610 *18 Mmm Mmm Mmm Mmm.flac
+d287c00ef80e9cb3e5f68c24757e8ecc *19 banter.flac
+2b94e674bf0735db95fcb10ac3689b8a *20 Superman_s Song.flac
+ade62ec902fb8c871049eecd977b6e42 *21 band introductions - Afternoons & Coffeespoons intro.flac
+3a6392df6fd7d1a89efa08aab2f765ce *22 Afternoons & Coffeespoons.flac
+466066d7f8c4ee91baca49f5e11b6034 *23 encore break.flac
+fa12bbf7294343a0a2e8eca5069439ce *24 The Voyage.flac
+d5a9cd8d24357850c3afedf422ac1c25 *25 Two Knights And Maidens.flac
+fb2c23deeb3f63d718278e5809467844 *26 At My Funeral.flac  

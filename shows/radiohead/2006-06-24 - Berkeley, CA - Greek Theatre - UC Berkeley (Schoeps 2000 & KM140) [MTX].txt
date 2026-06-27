@@ -1,0 +1,71 @@
+Radiohead
+Saturday June 24 2006
+Greek Theatre, UC Berkeley
+Berkeley CA
+
+---
+
+Lineage
+
+Source 1:
+Audience: Neumann KM140s > Sound Devices MP2 > Sony SBM1 (48k) > Sony D7
+Transfer: DAT master > Standalone CD > EAC > PC/WAV > FLAC
+
+Source 2:
+Audience: Schoeps 2000->Heisenberg compensator->Tricorder
+Credits: The Man
+
+Added some pixie dust to the whole record from some other sources
+Applied some L3 and Q2 to the whole mix. Mixed in Adobe Audition 2.0
+Show Version: Mix 7
+
+Mixed and compiled by senecastj@yahoo.com
+
+---
+
+Tracklisting:
+
+Disc 1:
+01. Intro
+02. Airbag
+03. 2+2=5
+04. Where I End and You Begin
+05. 15 Steps
+06. Kid A
+07. Dollars and Cents
+08. Down is the New Up
+09. Nude
+10. Nude #2
+11. Paranoid Andriod
+12. No Suprises
+13. The Gloaming
+14. All I Need
+15. Climbing up the Walls
+
+Disc 2: 
+16. Go Slowly
+17. Myxomatosis
+18. Bangers and Mash
+19. How to Disappear
+20. Encore #1 Break
+21. Fake Plastic Trees
+22. Arpeggi
+23. Black Star
+24. True Love Waits
+25. Everything in its Right Place
+26. Encore #2 Break
+27. Bodysnatchers
+28. The Tourist
+
+---
+
+Please don't sell this recording in any way - no cash for blanks, 2:1s, or
+any other form of "getting paid for your time". Just share it freely.
+
+If you're going to destroy the sound of some ultra-spiffy high-end rigs by encoding and spreading them via poorly encoded mp3's, please keep them on your own computer and not dilute the tradepool. The man thanks you.
+
+Ran some of the wave effects to balance things out, selectively adding in other sources when needed a little extra oomph. Only source currently available for the public on this mix is the (fantastic) KM140 source.
+
+Should be a fun mix, good to listen to this a year after the show. Definately a top show of the tour, and blew away night one. One of the microphone sources had some occasional digital noise, I removed most of what I heard but might have missed a few.
+
+If you have any comments/issues on the sound or project as a whole, feel free to email me. 

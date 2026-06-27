@@ -1,0 +1,80 @@
+RADIOHEAD
+2008-06-15
+Les Arènes,
+Nîmes, France
+
+
+IEM #1/1 (129:01)
+-----------------
+01. 15 Step
+02. Bodysnatchers
+03. All I need
+04. Airbag
+05. Nude
+06. Pyramid song
+07. Weird fishes/Arpeggi
+08. The gloaming
+09. Dollars and cents
+10. Faust arp
+11. Videotape
+12. Optimistic
+13. Just
+14. Reckoner
+15. Everything in its right place
+16. Fake plastic trees
+17. Jigsaw falling into place
+18. House of cards
+19. There there
+20. Bangers and mash
+21. Paranoid android
+22. How to disappear completely
+23. Cymbal rush
+24. You and whose army?
+25. Idioteque
+
+GENERATION
+----------
+.WAV[16bits/48kHz/Mono] > .FLAC Lvl.8[16bits/48kHz/Mono]
+
+SOURCE
+------
+Mono Scanner > Edirol R-09
+
+TRANSFER
+--------
+
+NOTES
+-----
+Ed's earpiece. Slight EQ on the recording, and normalization.
+
+MD5
+---
+f64cc2bf0777937a975bf3cbe84b1bbf *radiohead.20080615.arenes_nimes.iem-t01.flac
+6ba03e0abee019f0a6826ebb230bca14 *radiohead.20080615.arenes_nimes.iem-t02.flac
+1e5b4d106a640f9b321ca7ba5aabe39a *radiohead.20080615.arenes_nimes.iem-t03.flac
+6a6da556d551e15fea8cfe53cafdcd0d *radiohead.20080615.arenes_nimes.iem-t04.flac
+dacbde596aed4cafabde24268c9a1747 *radiohead.20080615.arenes_nimes.iem-t05.flac
+d98caa3c642d5f5b04bb18ec54278c9c *radiohead.20080615.arenes_nimes.iem-t06.flac
+01bff84e3cea75a87727b23b37bdc89d *radiohead.20080615.arenes_nimes.iem-t07.flac
+bc517852b6d5df691c72ada9b0dcd123 *radiohead.20080615.arenes_nimes.iem-t08.flac
+c8fce5eee9c5d2a390bfdc9b24c29dae *radiohead.20080615.arenes_nimes.iem-t09.flac
+a6b421ee2fd16cbcca794b2e6de7fa92 *radiohead.20080615.arenes_nimes.iem-t10.flac
+48a6d4d37a675f62a4fcd8d953623440 *radiohead.20080615.arenes_nimes.iem-t11.flac
+fdce5cf258899b996f2ce66fce3307cf *radiohead.20080615.arenes_nimes.iem-t12.flac
+bf58068a92b150beb645df7fdf49bb76 *radiohead.20080615.arenes_nimes.iem-t13.flac
+8322f2a50effce6187695f1be25eff2b *radiohead.20080615.arenes_nimes.iem-t14.flac
+0b2ffaeef3f7fc0195b186419cca11f5 *radiohead.20080615.arenes_nimes.iem-t15.flac
+54b6aa27185c8a08a64583598338a5e6 *radiohead.20080615.arenes_nimes.iem-t16.flac
+0ca397a8bff9246d7008838a42b41e5b *radiohead.20080615.arenes_nimes.iem-t17.flac
+5deaddc4af935d3939e5e70f120b9afe *radiohead.20080615.arenes_nimes.iem-t18.flac
+c58d19c0ef4ce60eb376472368a2881a *radiohead.20080615.arenes_nimes.iem-t19.flac
+249a788ce8f1ccd46e7664e17956e0ad *radiohead.20080615.arenes_nimes.iem-t20.flac
+82418452f636fb66cd4d69f72a47fd2d *radiohead.20080615.arenes_nimes.iem-t21.flac
+7741760aa9c40ce5f16d62350c3cb7c9 *radiohead.20080615.arenes_nimes.iem-t22.flac
+85de9dbd55418c6a96a0adab36624231 *radiohead.20080615.arenes_nimes.iem-t23.flac
+f1bbe9b41f50a73230eaf8c91560080b *radiohead.20080615.arenes_nimes.iem-t24.flac
+7966af5a94e0582d236e88143520aaae *radiohead.20080615.arenes_nimes.iem-t25.flac
+
+
+Taped by A&C&J
+PLEASE DO NOT RE-ENCODE OR SELL!

@@ -1,0 +1,105 @@
+Radiohead
+2006-08-28
+Heineken Music Hall
+Amsterdam
+The Netherlands
+
+Taper     : BNZ
+Source    : SP-CMC-8 - SP-SPSB-6 (Bass Roll-off at 107 HZ) - Sony PCM-M1 at 44.1 Khz
+Transfer  : Sony PCM-M1 > Oade 7-pin active cable > Phonic Digitrack (S/PIDIF in) > USB > PC > Soundforge 8.0 > Cdwave > Shorten > SHN
+Total Time: 115:21 min
+
+
+01 Intro                              1:32 
+02 You And Whose Army?                3:16
+03 The National Anthem                5:10
+04 Morning Bell                       4:02
+05 15 Step                            4:19 
+06 Arpeggi                            4:30
+07 Exit Music                         4:27
+08 Dollars And Cents                  5:16 
+09 Videotape                          5:04 
+10 Paranoid Android                   6:59 
+11 Street Spirit                      4:23
+12 The Gloaming                       4:42
+13 Bangers N Mash                     3:14
+14 Nude                               4:22
+15 Myxomatosis                        4:06
+16 Spooks                             1:13 
+17 Idioteque                          4:15
+18 How To Disappear Completely        7:25
+
+Encore 1: 
+19 Like Spinning Plates               3:18 
+20 Bodysnatchers                      4:54
+21 There There                        5:41
+22 Everything In Its Right Place      8:36 
+
+Encore 2: 
+23 Fake Plastic Trees                 5:13  
+24 All I Need                         4:38 
+25 Lucky                              4:35
+
+Do not sell, do not convert to lossy formats, do not remaster ect ect.
+
+Enjoy !!
+
+
+RH-2006-08-28-01.wav:  successfully encoded to 'RH-2006-08-28-01.shn'
+RH-2006-08-28-02.wav:  successfully encoded to 'RH-2006-08-28-02.shn'
+RH-2006-08-28-03.wav:  successfully encoded to 'RH-2006-08-28-03.shn'
+RH-2006-08-28-04.wav:  successfully encoded to 'RH-2006-08-28-04.shn'
+RH-2006-08-28-05.wav:  successfully encoded to 'RH-2006-08-28-05.shn'
+RH-2006-08-28-06.wav:  successfully encoded to 'RH-2006-08-28-06.shn'
+RH-2006-08-28-07.wav:  successfully encoded to 'RH-2006-08-28-07.shn'
+RH-2006-08-28-08.wav:  successfully encoded to 'RH-2006-08-28-08.shn'
+RH-2006-08-28-09.wav:  successfully encoded to 'RH-2006-08-28-09.shn'
+RH-2006-08-28-10.wav:  successfully encoded to 'RH-2006-08-28-10.shn'
+RH-2006-08-28-11.wav:  successfully encoded to 'RH-2006-08-28-11.shn'
+RH-2006-08-28-12.wav:  successfully encoded to 'RH-2006-08-28-12.shn'
+RH-2006-08-28-13.wav:  successfully encoded to 'RH-2006-08-28-13.shn'
+RH-2006-08-28-14.wav:  successfully encoded to 'RH-2006-08-28-14.shn'
+RH-2006-08-28-15.wav:  successfully encoded to 'RH-2006-08-28-15.shn'
+RH-2006-08-28-16.wav:  successfully encoded to 'RH-2006-08-28-16.shn'
+RH-2006-08-28-17.wav:  successfully encoded to 'RH-2006-08-28-17.shn'
+RH-2006-08-28-18.wav:  successfully encoded to 'RH-2006-08-28-18.shn'
+RH-2006-08-28-19.wav:  successfully encoded to 'RH-2006-08-28-19.shn'
+RH-2006-08-28-20.wav:  successfully encoded to 'RH-2006-08-28-20.shn'
+RH-2006-08-28-21.wav:  successfully encoded to 'RH-2006-08-28-21.shn'
+RH-2006-08-28-22.wav:  successfully encoded to 'RH-2006-08-28-22.shn'
+RH-2006-08-28-23.wav:  successfully encoded to 'RH-2006-08-28-23.shn'
+RH-2006-08-28-24.wav:  successfully encoded to 'RH-2006-08-28-24.shn'
+RH-2006-08-28-25.wav:  successfully encoded to 'RH-2006-08-28-25.shn'
+
+No errors occured.
+
+
+e5b1dc65c29b19559a66b3ff7fe39175 *RH-2006-08-28-01.shn
+95df84c6254cd7ca97b6713ec85ff2d9 *RH-2006-08-28-02.shn
+d4ebd8e61184667abd670da208f3411e *RH-2006-08-28-03.shn
+1b6d60be3d9f2244d9dd0679db179717 *RH-2006-08-28-04.shn
+023ddb95cef164ca17988d8228587417 *RH-2006-08-28-05.shn
+708676a3918fc7cc52786036b23e5ba8 *RH-2006-08-28-06.shn
+d70ea854f9df85c59ef13fa587d1a95e *RH-2006-08-28-07.shn
+9d14124ee18de52980d59fed9e6e6fca *RH-2006-08-28-08.shn
+1076a3aecb08470dc02caaaebb4460e1 *RH-2006-08-28-09.shn
+3d039b63cdbef1fa692356ff205e95e3 *RH-2006-08-28-10.shn
+4eb43ab46a530ccc833f5837bb002207 *RH-2006-08-28-11.shn
+f0288bc9f8839b74390d867fb3703946 *RH-2006-08-28-12.shn
+3a64b1b1dcf9f46b2be2552923ce8930 *RH-2006-08-28-13.shn
+385a950f3464e66aa34118c181e15d63 *RH-2006-08-28-14.shn
+a306e95b911e44e9ce672bbe7eb83e5d *RH-2006-08-28-15.shn
+dac4d606af34bfdee45632ed273ee5ca *RH-2006-08-28-16.shn
+255d36efdc57b27a9f212a9febd0e534 *RH-2006-08-28-17.shn
+d4ed2361f7153525beb13e3a6bfbac48 *RH-2006-08-28-18.shn
+46c54498c189a27f09668031e6a80206 *RH-2006-08-28-19.shn
+362ca22c424803cf8e2e1f12f1fc3f0d *RH-2006-08-28-20.shn
+537e1a7ed4f922b09eb4770095c2be90 *RH-2006-08-28-21.shn
+65c337a8713750a19e2b0cc9c4429b7e *RH-2006-08-28-22.shn
+2c68b205ffdf9690e5d423bbda01b06f *RH-2006-08-28-23.shn
+4f1ccdddae7db114f17861c813030d65 *RH-2006-08-28-24.shn
+19883a09e6baa5eadd1791b35d904232 *RH-2006-08-28-25.shn
+
+No errors occured.
+
+Checksum file saved to disk.
