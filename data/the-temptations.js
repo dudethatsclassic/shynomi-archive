@@ -2,12 +2,11 @@ const ARTIST_DATA = {
   "id": "the-temptations",
   "name": "The Temptations",
   "drive": "D",
-  "showCount": 2,
+  "showCount": 1,
   "firstYear": 1982,
-  "lastYear": 1984,
+  "lastYear": 1982,
   "years": [
-    1982,
-    1984
+    1982
   ],
   "shows": [
     {
@@ -23,19 +22,6 @@ const ARTIST_DATA = {
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1982-07-10 - Owings Mills, MD - Painters Mill Music Fair (Master) [SBD].txt"
-    },
-    {
-      "year": 1984,
-      "month": 10,
-      "day": null,
-      "dateStr": "10-XX-1984",
-      "city": "Milano",
-      "state": "Italy",
-      "location": "Milano, Italy",
-      "venue": "RAI 3",
-      "notes": "unk",
-      "version": "SBD",
-      "format": "FLAC"
     }
   ],
   "misc": []
