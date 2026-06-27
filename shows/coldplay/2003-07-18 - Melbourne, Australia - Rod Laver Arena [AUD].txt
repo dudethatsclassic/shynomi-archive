@@ -1,0 +1,47 @@
+Coldplay
+Rod Laver Arena
+Melbourne, Australia
+Friday 18 July 2003
+
+Support: Betchadupa
+
+Lineage: CDR->EAC->WAV->Foobar 2000 V1.5.5 (merge tracks into 1 file)->iZotope Ozone 9 (EQ adjustments)->Audacity V2.4.2 (split tracks into separate files again and convert to Flac Level 8). All tracks tagged using Foobar 2000 V1.5.5.
+
+Unknown taper and equipment
+
+01 - Politik *** Missing from recording
+02 - God Put A Smile Upon Your Face
+03 - A Rush Of Blood To The Head
+04 - Daylight
+05 - Trouble
+06 - One I Love
+07 - Don't Panic
+08 - See You Soon
+09 - Everything's Not Lost
+10 - Moses
+11 - Yellow
+12 - The Scientist
+13 - What A Wonderful World (Louis Armstrong cover)
+
+Encore 1
+14 - Clocks
+15 - In My Place
+16 - Chris talks
+17 - Amsterdam
+
+Encore 2
+18 - 1.36
+19 - Life Is For Living
+
+Chris Martin - lead vocals, piano, guitar
+Guy Berryman - bass guitar, vocals
+Jonny Buckland - lead guitar, harmonica, vocals
+Will Champion - drums, vocals
+
+Show notes: Coldplay's second tour of Australia and first since becoming massive - in early 2001 it was a mid afternoon festival slot and small club shows, by mid 2003 it was now 10,000 people at Rod Laver Arena, not bad for 2 1/2 years! This is Coldplay in the time they were still learning to become an arena band. I attended this show, and while I thought it was a great show, it suffered from pacing a bit, with a few too many slower songs and songs people hadn't heard before (eg. One I Love and Moses). As Chris told the crowd after Don't Panic 'sometimes it's hard for us to organise our concert beacuse we really only have 2 hits, it's not like U2 or The Stones where they can play hits from start to finish. We appreciate your patience in listening to some of the more shit songs we've written. We promise we'll reward you with the good ones later'. Don't worry Chris, your stadium shows with giant balloons and glowing wrist bands will come later! The other notable thing from this show is the performance of the B-Side song '1.36', which according to setlist fm was only played 6 times. Despite Chris' self-deprecation this is a great show from a band destined for much bigger things from here.
+
+Also please note, the Sydney shows on 21 and 22 July 2003 were released on the 'Coldplay Live 2003' DVD/CD - this is the Melbourne show from a few days prior. I'm not aware of any part of this show being officially released.
+
+Recording notes: I'd rate this recording as very good. It sounds nice and clear, some audience chatter but minimal, only let down by some mild distortion on the louder songs (good thing it's Coldplay and there isn't many). I'd wager this was recorded on a mini disc. Like some other shows I've been sharing lately, I received it on CDR some 15 years or so ago and it sat in a CD folder forgotten about until these Covid 19 times prompted me to start going through my collection. I gave it an EQ adjustment in iZotope Ozone 9 to try and improve it somewhat. The first song of the show Politik is not on my CD, I'm assuming the taper didn't record that track. Samples provided.
+
+Torrent notes: I looked through the Dime archives to see if this had ever been shared here, but could not find it, so possibly this is the first time it's been torrented. I tagged all the files, and added a a ticket from the show as well as a poster I found online. Enjoy!

@@ -1,0 +1,69 @@
+Coldplay
+October 21st, 2008.
+Quicken Loans Arena - 
+Cleveland, OH.
+
+Taper: live2cd <live2cd@bex.net>
+Location: section 111 [club level], row 24, seat 18; mics mounted on shoulder.
+Source: HEB DPA4060 + Edirol R-09 (@48kHz) > Cep v.2.0 > (@44.1kHz) > Cd Wave
+Conversion: live2cd <live2cd@bex.net>
+Equipment: SanDisk 4GB SDHC Card > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+--------------------------------------------------------------------------------------------------------
+Disc One: (51:48)
+
+01. Life In Technicolor 			2:31
+02. Violet Hill 				3:38
+03. Clocks 					4:24
+04. In My Place 				4:13
+05. Speed Of Sound				6:23
+06. Cemeteries Of London			3:30
+07. Chinese Sleep Chant 			3:14
+08. 42 						4:07
+09. Fix You 					5:15
+10. Strawberry Swing				4:37
+11. God Put A Smile Upon Your Face * >		5:41
+    Talk *
+12. The Hardest Part *				4:15			
+
+--------------------------------------------------------------------------------------------------------
+Disc Two: (45:27)
+
+01. Viva La Vida 				4:45
+02. Lost!					4:00
+03. ~ Band moves to stage C ~			2:26
+04. The Scientist + 				4:07
+05. Death Will Never Conquer +			1:20
+06. ~ Band moves to stage A ~			3:48
+    Viva La Vida [Remix] plays >
+07. Politik  					5:54
+08. Lovers In Japan 				5:14
+09. Death And All His Friends 			3:53
+10. ~ Encore ~					2:19
+11. Yellow					4:54
+12. Viva La Vida [Album closing] plays 		2:47
+
+--------------------------------------------------------------------------------------------------------
+Notes:
+  
+* = Performed on stage B, located on the main floor. (Shorter, techo versions)
++ = Performed on stage C, located between sections 227 & C127.
+
+You will hear a few level adjustments during the 2nd stage performances.
+They were a tad bit lower, so I boosted the volume by 6% to even out the feel of the tape.
+
+Tracks d2t6 & d2t12 are not the band playing live. These are CD cuts playing over
+the PA. One being the band moving back to the main stage, the second being the closing
+music as the house lights came back up & people began to leave. I decided to stay & record.
+
+All in all, I lucked out w/ my seating location, as I had a speaker stack pointed directly
+at me. I'm also extremely glad I decided to bring my gear. I almost did not. I am usually 
+against making arena recordings with my omnis, as they sound very distant & muddy, but I am pretty 
+happy w/ this one. I hope you enjoy the recording as much as I did taping it! :)
+
+This is a truly wonderful band.
+
+--------------------------------------------------------------------------------------------------------
+For more information on Coldplay, please visit:
+
+http://coldplay.com/index.php

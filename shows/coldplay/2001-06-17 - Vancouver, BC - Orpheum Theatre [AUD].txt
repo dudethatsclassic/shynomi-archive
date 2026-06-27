@@ -1,0 +1,29 @@
+Coldplay
+2001-06-17
+Orpheum Theatre
+Vancouver, BC
+
+Taper: Andy Swinburnson <swinburnson@yahoo.com>
+Source: CSBmod > M1
+Conversion: M1 > coax > Tascam CDRW-700 > EAC(secure) > CDWAV > mkw 
+
+
+Track 01: Intro							00:56
+Track 02: Shiver						05:37
+Track 03: Animals						06:10
+Track 04: Don't Panic						02:42
+Track 05: Spies							05:29
+Track 06: Murder						05:05
+Track 07: Everything's Not Lost					06:35
+Track 08: We Never Change					04:13
+Track 09: God Put A Smile Upon Your Face			05:33
+Track 10: Yellow						05:33
+Track 11: A Rush of Blood to the Head				05:50
+Track 12: See You Soon						04:20
+Track 13: Interlude						01:04
+Track 14: Trouble						05:06
+Track 15: In My Place						04:35
+Track 16: Lost Highway [Hank Williams]				04:53
+Track 17: Warning Sign						05:12
+---------------------------------------------------------------------
+Total Length:   						78:32

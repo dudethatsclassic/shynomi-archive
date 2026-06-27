@@ -1,0 +1,43 @@
+﻿Coldplay 
+September 10, 2002 
+Greek Theatre 
+Los Angeles, CA 
+
+2 Source Mix: 
+
+Source 1: in ear monitor (mono) 
+taper : benchboy 
+transfer : markp 
+
+Source 2: DPA 4061’s > CSBox > Sony PCM-M1 
+Lineage: DAT Master 16/48 > FLAC 
+Transfer (BLG): DA-20 > coax > Marantz PMD-670 > usb reader > Adobe Audition > WavePad > xACT > FLAC 
+Taper: Ed Davis 
+
+Mastering (BLG): Adobe Audition (edits,alignment,mixdown) > iZotope Ozone 5 (EQ,Exciter,Imaging,Dynamics) > WavePad (tracking) > xACT (tags) > FLAC 
+
+01 Intro 
+02 Politik 
+03 Shiver 
+04 Spies 
+05 Daylight 
+06 Trouble 
+07 One I Love 
+08 Don’t Panic 
+09 Everything’s Not Lost 
+10 Green Eyes 
+11 God Put a Smile Upon Your Face 
+12 Yellow 
+13 The Scientist 
+14 A Rush of Blood To the Head 
+
+Encore: 
+15 Clocks 
+16 In My Place 
+17 Life Is For Living 
+
+Total Time: 91:15 
+
+Notes: Mix was done by request and all things considered, I think it came out ok. I would normally use more of the audience source, but it had some issues with crowd noise. I’d estimate the mix is 30% AUD, 70% IEM. 
+
+Thanks to both tapers.

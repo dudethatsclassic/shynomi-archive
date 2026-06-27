@@ -1,0 +1,47 @@
+Coldplay
+Hollywood Bowl
+Los Angeles, CA
+May 31, 2003
+FM Broadcast -> Silver Pressed CD -> CDEx -> WAV -> FLAC
+
+Quality: A
+
+Size: 554 MB
+
+01 Intro (0:14)
+02 Politik (6:43)
+03 A Rush Of Blood To The Head (6:07)
+04 Daylight (5:38)
+05 Trouble (5:22)
+06 One I Love (5:08)
+07 Don't Panic (3:12)
+08 Moses (5:14)
+09 Everything's Not Lost (7:41)
+10 Poor Me (4:56)
+11 Yellow (5:44)
+12 The Scientist (5:00)
+13 What A Wonderful World (1:02)
+14 Clocks (5:31)
+15 In My Place (4:46)
+16 Amsterdam (4:59)
+
+Fantastic gig. Only God Put A Smile Upon Your Face is missing.
+No artwork available.
+
+Flac Fingerprints
+cp2003-05-31t01.flac:7818e48b0c4320923132d8722a8b5073
+cp2003-05-31t02.flac:82aa8c1a41b999e9e2ab5884160eda4e
+cp2003-05-31t03.flac:55f8ca68d8b07f27c4266c36a8639807
+cp2003-05-31t04.flac:3fdbaa325753f1f8aabaa7390d34e7b6
+cp2003-05-31t05.flac:a80bd8637e841c499f473ed1d41b8065
+cp2003-05-31t06.flac:e3761599167974d84991546a9bde33d9
+cp2003-05-31t07.flac:6a6b3497f0b4c490e7776b64792a91fd
+cp2003-05-31t08.flac:15179ca4a0c7855f19d589f756a7909d
+cp2003-05-31t09.flac:9dc9f32782c14b1e39eb339db5c12564
+cp2003-05-31t10.flac:0ae1d126a7d668c238a707bd44ae4dce
+cp2003-05-31t11.flac:1245eca808f82ba8412b0867b278cb67
+cp2003-05-31t12.flac:492a729e68e7b17bab67e38f7cbffc6e
+cp2003-05-31t13.flac:cdff8ba21d4aeaad69cd44b92107e91b
+cp2003-05-31t14.flac:c41115bc6d2ca784fa0b135c7ba496d2
+cp2003-05-31t15.flac:8c23737e33ec11a0140bf777d29cfe9a
+cp2003-05-31t16.flac:e9bf8d0add5b905e78fea3a5ad2bfcb0

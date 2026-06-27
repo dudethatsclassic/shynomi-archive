@@ -1,0 +1,20 @@
+Coldplay 
+Global Citizen Festival 
+Central Park 
+New York, New York 
+September 26, 2015 
+
+Lineage: Live Webcast -> FFmpeg (capture & edit) -> .ts 
+Video: MPEG4 Video (H264) 1920x1080 16:9 4350 Kbps 30.00 fps 
+Audio: AAC 256 Kbps 48.0 KHz stereo 
+
+Setlist: 
+Every Teardrop Is a Waterfall 
+Viva La Vida 
+Yellow 
+Just a Little Bit of Your Heart (cover with Arianna Grande) 
+Sky Full of Stars 
+Amazing Day (live debut) 
+
+audio extracted from the following pro-shot video source
+Note: audio is lossy as per broadcast!

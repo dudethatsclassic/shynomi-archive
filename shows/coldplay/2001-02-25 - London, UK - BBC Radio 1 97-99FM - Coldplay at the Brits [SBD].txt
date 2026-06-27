@@ -1,0 +1,51 @@
+Coldplay (Will Champion and Chris Martin)
+Coldplay At The Brits
+February 25, 2001
+BBC Radio 1 97-99 FM
+London, UK
+
+Length: 04:10,705
+Quality: Excellent Soundboard (Webcast)
+Size: 32,4 MB compressed (SHN)
+Complete Show: N/A
+
+Captured/Converted By: Henry Chinaski <oneilove@notme.com>
+
+*** DO NOT ENCODE THIS SHOW TO MP3
+*** THIS SHOW SHOULD BE TRADED AS SHN ONLY
+*** THIS SHOW SHOULD ONLY BE TRADED ON A 1:1 BASIS
+*** THIS SHOW IS NOT TO BE PUT FOR SALE ON ANY WEBSITE FOR ANY PRICE
+
+Tracklist
+---------
+01. Rajesh Talks To Coldplay - Backstage At The Brits 2001	[4:10]
+
+Source:
+http://www.bbc.co.uk/radio1/artist_area/coldplay/
+> Real Media file (RM) (64.7 Kbps 44.100 Hz, 16-bit, Mono)
+  captured with StreamBox VCR 1.0 Beta 3.1 - FlyingRaichu RTSP/PNM (T1 LAN)
+
+Conversion:
+> Streambox Ripper 2.009
+> WAV (44.100 Hz, 16-bit, Mono)
+> Sound Forge 5.0 (WAV edit):
+- Bit Depth Converter: 32-bit (IEEE float)
+- Channel Converter: Mono to Stereo - 100 % (no faders) [Convert to specified channels only]
+- Normalize: 0,00 dB (100,00 %) [peak level]
+- Bit Depth Converter: 16-bit
+> WAV (44.100 Hz, 16-bit, Stereo)
+> mkwAudio Compression Tool 0.97b1
+> SHN
+
+Notes:
+-
+
+Comments (BBC Radio 1):
+The hot topic of gossip backstage was the rumour that Craig David wouldn't be receiving any 
+awards this year, despite being nominated in six categories. Coldplay are nominated in five, and 
+they're certainly hoping they'll pick up a few. They followed Westlife in the rehearsals, with an 
+intimate rendition of 'Trouble', the song they'll be performing on the show. It certainly cuts a 
+stark contrast to Westlife's performance! Singer Chris' voice was sounding a bit croaky in 
+rehearsal - fingers crossed it'll hold out on the night. Rajesh spoke to Chris and Will from the 
+band about how many awards they think they're going to win (five!), who they'll be hanging out 
+with at the show (At The Drive-In), and what they think about those Craig David rumours.

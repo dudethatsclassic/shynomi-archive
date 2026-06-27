@@ -1,0 +1,53 @@
+Coldplay
+Austin City Limits Festival
+Austin, TX
+recorded September 16, 2011
+broadcast December 31, 2011 on PBS-TV
+
+Chris Martin - vocals, piano, guitar
+Guy Berryman - bass
+Jonny Buckland - guitar 
+Will Champion - drums
+
+Lineage: digital cable > TiVo box > PC via TiVo Desktop > VideoReDo TV Suite V4 (tracking) > .mpg > TMPGEnc Authoring Works 4 > TS folder
+
+Menu/chapters by song
+
+Audio:
+AC3
+48000 Hz
+192 kb/s
+2 channels
+
+Video:
+MPEG2
+720 x 480
+2800 kbps
+NTSC
+4:3
+
+Setlist:
+intro
+interview
+Mylo Xyloto/Hurts Like Heaven
+Yellow
+In My Place
+Major Minus
+Lost!
+The Scientist
+Violet Hill
+God Put A Smile Upon Your Face
+Everything's Not Lost
+Us Against The World
+Politik
+Viva La Vida
+Charlie Brown
+Paradise
+Clocks
+Fix You
+Every Teardrop Is A Waterfall 
+closing credits
+
+
+Entire broacast streaming at PBS's website:
+http://video.pbs.org/video/2179574429

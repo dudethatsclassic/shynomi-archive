@@ -1,0 +1,32 @@
+2003-07-20 - Coldplay, Splendour in the Grass festival. Byron Bay Australia.
+
+Source: Radio broadcast -> Marantz FM tuner -> stereo line out to soundcard line in ->  recorded then edited in goldwave -> CD Wav -> SHN
+Seeded by: Drewgie
+
+01.	Intro
+02.	Politik
+03.	God Put A Smile Upon Your Face
+04.	Trouble
+05.	My Happiness (Powderfinger cover) 
+06.	Don't Panic
+07.	Everything's Not Lost
+08.	The Scientist
+09.	Yellow
+10.	Clocks
+11.	In My Place
+12.	Amsterdam
+13.	What A Wonderful World
+
+Notes:
+This is recorded from Australian radio station, Triple J. 
+Broadcast on 3rd August 2003. 
+
+See you soon and One I love were played but not broadcast.
+
+This broadcast has been edited using goldwave to remove the radio voice overs from between the tracks. Each edit was carefully performed by removing the offending voice over and fading the ends of the two tracks by equal amounts. The last second of that track was then mixed with the first second of the next track. The broadcast was broken into two parts, with the second beginning at the scientist. This was joined back together in a similar manner as above. Fades were added to each end of the subsequent wav. This wav was then spliced using CD wav. Then encoded to SHN. 
+
+There are a few small skips (eg Everything's not lost, In my place) but unfortunately they were in the file that I recorded from the broadcast. I was able to improve a small skip in the scientist in cool edit pro,  but could not fix the other two.
+
+*** DO NOT ENCODE THIS SHOW INTO MP3 FORMAT ***
+*** DO NOT SELL THIS SHOW, IT IS NOT YOUR MUSIC AND YOU HAVE NO RIGHT TO PROFIT FROM IT! ***
+*** SHARE THIS SHOW WITH AS MANY COLDPLAY FANS AS POSSIBLE ***

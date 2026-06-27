@@ -1,0 +1,131 @@
+Coldplay
+Halle Tony Garnier
+Lyon, France
+September 4, 2008
+08:00 pm
+
+SOURCE 
+------
+
+CHURCH-AUDIO STC11 > EDIROL R09
+
+GENERATION 
+----------
+
+.WAV [24bit/48kHz] > .WAV [16bit/44.1kHz] > .FLAC [16bit/44.1kHz] 
+
+TRANSFER 
+--------
+
+USB > R8BRAIN > SOUND FORGE > CDWAVE > TLH
+
+SETLIST 
+-------
+
+01. Life In Technicolor
+02. Violet Hill
+03. Clocks
+04. In My Place
+05. Speed Of Sound
+06. Cemeteries Of London
+07. Chinese Sleep Chant
+08. 42
+09. Fix You
+10. Strawberry Swing
+11. God Put A Smile Upon Your Face
+12. The Hardest Part (Chris Martin Solo)
+13. Postcards From Far Away
+14. Viva La Vida
+15. Lost!
+16. The Scientist (Acoustic)
+17. Death Will Never Conquer (Acoustic by Will Champion)
+18. Remix Interlude
+19. Politik
+20. Lovers In Japan
+21. Death And All His Friends
+22. Yellow
+23. The Dubliners
+24. The Escapist
+
+NOTE
+----
+
+Master recording brought to you by DrBBalls (maisquefaitlapolice AT yahoo DOT fr)
+
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     2:18.18       24385580 B   ---   --   -----    wav  1.0000  coldplay-20080904-t01.wav
+     3:31.63       37368620 B   ---   --   -----    wav  1.0000  coldplay-20080904-t02.wav
+     4:37.64       49013372 B   ---   --   -----    wav  1.0000  coldplay-20080904-t03.wav
+     4:05.08       43236860 B   ---   --   -----    wav  1.0000  coldplay-20080904-t04.wav
+     5:34.72       59086988 B   ---   --   -----    wav  1.0000  coldplay-20080904-t05.wav
+     3:31.53       37345100 B   ---   --   -----    wav  1.0000  coldplay-20080904-t06.wav
+     3:15.56       34529756 B   ---   --   -----    wav  1.0000  coldplay-20080904-t07.wav
+     4:25.09       46767212 B   ---   --   -----    wav  1.0000  coldplay-20080904-t08.wav
+     5:21.57       56758508 B   ---   --   -----    wav  1.0000  coldplay-20080904-t09.wav
+     4:41.61       49711916 B   ---   --   -----    wav  1.0000  coldplay-20080904-t10.wav
+     4:14.29       44873852 B   ---   --   -----    wav  1.0000  coldplay-20080904-t11.wav
+     4:05.65       43370924 B   ---   --   -----    wav  1.0000  coldplay-20080904-t12.wav
+     0:53.59        9488012 B   ---   --   -----    wav  1.0000  coldplay-20080904-t13.wav
+     4:33.15       48192524 B   ---   --   -----    wav  1.0000  coldplay-20080904-t14.wav
+     5:38.40       59717324 B   ---   --   -----    wav  1.0000  coldplay-20080904-t15.wav
+     3:57.10       41830364 B   ---   --   -----    wav  1.0000  coldplay-20080904-t16.wav
+     1:39.57       17597708 B   ---   --   -----    wav  1.0000  coldplay-20080904-t17.wav
+     3:55.12       41482268 B   ---   --   -----    wav  1.0000  coldplay-20080904-t18.wav
+     6:03.16       64070876 B   ---   --   -----    wav  1.0000  coldplay-20080904-t19.wav
+     4:56.15       52249724 B   ---   --   -----    wav  1.0000  coldplay-20080904-t20.wav
+     7:00.59       74226812 B   ---   --   -----    wav  1.0000  coldplay-20080904-t21.wav
+     5:01.34       53176412 B   ---   --   -----    wav  1.0000  coldplay-20080904-t22.wav
+     1:20.53       14236700 B   ---   --   -----    wav  1.0000  coldplay-20080904-t23.wav
+     2:27.24       25987292 B   ---   --   -----    wav  1.0000  coldplay-20080904-t24.wav
+    97:11.49     1028704704 B                            1.0000  (24 files)
+
+7c78b9f5aeecda52cf0ea57d08b2a17c *coldplay-20080904-t01.wav
+c3a4e25c49bdf0afad631ada383f59a7 *coldplay-20080904-t02.wav
+79aaf224d7bfd532ab85b89ceecb0878 *coldplay-20080904-t03.wav
+4a6b1bd3c986e278e9557506da335e6b *coldplay-20080904-t04.wav
+5fc3055cc10d3504bfeac3d327318eae *coldplay-20080904-t05.wav
+ed1866ef99f4a48accebde804dbaa9cc *coldplay-20080904-t06.wav
+af452e9541828a6d260b9c3df24821a5 *coldplay-20080904-t07.wav
+0d3dae39db852bad1efb3e6866df3169 *coldplay-20080904-t08.wav
+5bfaa5ed500ae128d46e71db03327ed7 *coldplay-20080904-t09.wav
+2dd091210385b3b3c44acd690c5f6087 *coldplay-20080904-t10.wav
+9d4be25941c2fbaae416959fc1405490 *coldplay-20080904-t11.wav
+a96dbe2f69fcaae7db39707522a59335 *coldplay-20080904-t12.wav
+c76c6ed29a9913862007c0d6589b0fc2 *coldplay-20080904-t13.wav
+0f3dc4851a4d719315eab492b9e04e2d *coldplay-20080904-t14.wav
+11c0b7128bf1dd621ebff6a96278cffb *coldplay-20080904-t15.wav
+e9e1cc5e7a866f4891233f8e5f0ea543 *coldplay-20080904-t16.wav
+43f43cd4863c8f629eda2803424719cb *coldplay-20080904-t17.wav
+935345f3f2827edb48a76a66d8ced3ac *coldplay-20080904-t18.wav
+47055af2ebffb102284d0adbb3cde6b7 *coldplay-20080904-t19.wav
+7538a4659c621ef4e8c5d13f0bc86428 *coldplay-20080904-t20.wav
+47625d43ba29a6a993de12c6a14172f6 *coldplay-20080904-t21.wav
+397ee302f1870c19cd8edf834a5b9e73 *coldplay-20080904-t22.wav
+a738b4f63f2ceaffb173f4b491920ed7 *coldplay-20080904-t23.wav
+b3735ebb5b7518926d2246380e8cdf15 *coldplay-20080904-t24.wav
+
+coldplay-20080904-t01.flac:2da6ffea14c34be9515a08b58fb9300d
+coldplay-20080904-t02.flac:cefaf17ce434de648e7ac1f2b7dc8b82
+coldplay-20080904-t03.flac:5c826172edf25808ee4e236073f84faa
+coldplay-20080904-t04.flac:03a073340897107559b607d463215e5f
+coldplay-20080904-t05.flac:8953424e5c66d098b6157f60ee42ce46
+coldplay-20080904-t06.flac:3d82825ed1076c4517fcebd70e84becd
+coldplay-20080904-t07.flac:cd92cc9a59072eeeaf2a9d96bc117642
+coldplay-20080904-t08.flac:fab5da1bfffd859706c2d99d54dd8bb0
+coldplay-20080904-t09.flac:2edae01f20657af11222de85f04ef795
+coldplay-20080904-t10.flac:1ee20753ead704a181d9a97d244747cf
+coldplay-20080904-t11.flac:603fea74f3f976b222af33f0fe655b07
+coldplay-20080904-t12.flac:0c6f510a13f3bfbb2e2b93c512dd7c09
+coldplay-20080904-t13.flac:f969460a4ecf7bf407a7d175bd0c1e9b
+coldplay-20080904-t14.flac:5a76a0a63001db09d044a1dd894fea53
+coldplay-20080904-t15.flac:77acf0537ceb008383d4b3b47894bb59
+coldplay-20080904-t16.flac:7be4b2d17bfaad944d249a0fd69478bc
+coldplay-20080904-t17.flac:da1509647cffee896e3d7c84aa0ae14b
+coldplay-20080904-t18.flac:8a0090aa891cb6f01d54911b55e0dfa1
+coldplay-20080904-t19.flac:1ce80df0784c0fd283849cace1efa99b
+coldplay-20080904-t20.flac:616bcd0ef475a727b8a81ee0120c6077
+coldplay-20080904-t21.flac:c6dfba6d34c2f928f42d1aaa1ec384b6
+coldplay-20080904-t22.flac:f7a0e1902154d6de4f099fcf01a93e0c
+coldplay-20080904-t23.flac:063689d81b556c0d951f88ce1b1ccf15
+coldplay-20080904-t24.flac:1b03789fab5976d4580cd91b3adc2b2b

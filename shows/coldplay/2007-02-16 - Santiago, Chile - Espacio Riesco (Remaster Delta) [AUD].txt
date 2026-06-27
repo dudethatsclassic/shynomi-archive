@@ -1,0 +1,62 @@
+Coldplay
+16th February, 2007
+Espacio Riesco, Huechuraba
+Santiago, Chile
+
+
+
+Setlist:
+
+CD1
+
+01.Introduction
+02.Square One
+03.Politik
+04.Yellow
+05.White Shadows
+06.Trouble
+07.Don't Panic
+08.In My Place
+09.God Put A Smile Upon Your Face
+10.What If
+11.High Speed
+12.Talk
+13.Chat
+14.Green Eyes
+15.Clocks
+16.The Scientist
+
+
+CD2
+
+01.Encore
+02.Speed Of Sound
+03.Organ Introduction
+04.Fix You
+05.End Of Concert
+
+
+Remastered from "Macguner" version
+
+
+Lineage: 
+
+
+FILTERING:
+
+- Vegas Pro 12
+- iZotope Ozone 5 -> EQ, Studio Reverb, Stereo Imaging
+- Waves -> X-Crackle, X-Hum, Z-Noise, C4 EQ, C1 Compressor/Gate
+
+
+POST-EDITING & SPLITTING TRACKS PROCESS:
+
+- Adobe Audition 3 -> Saved as 44.1kHz/16-bit WAV files
+
+
+ENCODING:
+
+Trader's Little Helper -> WAV > SHN + MD5 Signature Creation
+
+
+Enjoy this set!

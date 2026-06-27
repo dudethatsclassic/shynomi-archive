@@ -1,0 +1,42 @@
+Coldplay
+Eden Park, Auckland, New Zealand
+2024-11-13
+
+Taper: LosslessJoel
+
+Lineage:
+CA-14 Cardioid -> Battery Box -> Roland R-07 -> WAV(24/96) -> USB -> PC -> iZotope RX7 -> Adobe Audition -> FFMPEG(16/48) -> Flac(8)
+
+Setlist:
+01. Haka
+02. Pre-show music
+03. Sustainability video
+04. Intro
+05. Higher power
+06. Adventure of a Lifetime
+07. Paradise
+08. The Scientist
+09. Viva la Vida
+10. Hymn for the Weekend
+11. Up&Up
+12. God Put a Smile Upon Your Face
+13. Yellow
+14. ALL MY LOVE
+15. Human Heart
+16. People of the Pride
+17. Clocks
+18. WE PRAY
+19. Infinity Sign
+20. Something Just Like This
+21. My Universe
+22. A Sky Full of Stars
+23. Encore
+24. Sparks
+25. The Jumbotron Song
+26. Fix You
+27. GOOD FEELiNGS
+28. feelslikeimfallinginlove
+29. Outro
+
+-Do not sell this recording, share it for free.
+-Support the artists.

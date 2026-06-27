@@ -1,0 +1,41 @@
+Coldplay
+2008-09-10
+Palais Omnisport de Bercy
+Paris, France
+
+AUDIO #1/1 (16:28)
+—————–
+01. Intro
+02. Life In Technicolor
+03. Violet Hill
+04. Clocks
+05. In My Place
+06. Outro
+
+GENERATION
+—————–
+FM [NRJ] > .WAV[44kHz] > .FLAC [Lvl.8]
+
+SOURCE
+—————–
+Unknown > Sounboard
+
+TRANSFER
+—————–
+Fisher FM Tuner > Edirol R-09 > Flac Frontend 1.7.1
+
+Notes
+—————–
+Broadcasted live
+
+MD5
+—————
+373d2336dcdc5a3acd970442d703bb35 *coldplay.20080910.paris.fm-t01.flac
+aef0a574f81c2a7fb30d3b0803c861d5 *coldplay.20080910.paris.fm-t02.flac
+7e66f02603b5f9e74e5a95a3273af5e4 *coldplay.20080910.paris.fm-t03.flac
+1353c58395a77cc12d83ba648935bd16 *coldplay.20080910.paris.fm-t04.flac
+fcfbd37568186b702ae5c286e0d4c599 *coldplay.20080910.paris.fm-t05.flac
+3df053a46f0a55504d8d98f7655a9813 *coldplay.20080910.paris.fm-t06.flac
+
+Taped by Julien & Amande for http://www.lossless.fr
+DON'T REENCODE TO MP3 OR OTHER LOSSY FORMATS.

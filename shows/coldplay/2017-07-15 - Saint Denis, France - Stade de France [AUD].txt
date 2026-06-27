@@ -1,0 +1,65 @@
+Coldplay
+2017-07-15
+Stade de France
+Saint-Denis
+France
+
+GENERATION : Roland R-05 (internal mics) > WAV [24bit/48kHz] > Audacity 2.0.3 > WAV [16bit/44.1kHz] > FLAC [Level 8]
+  
+LENGTH : 2 h 01 m 32 s
+
+TRACKS:
+
+01. Intro
+02. A head full of dreams
+03. Yellow
+04. Every teardrop is a waterfall
+05. The scientist
+06. God put a smile upon your face
+07. Paradise
+08. Always in my head
+09. Magic
+10. Everglow
+11. Clocks
+12. Midnight
+13. Charlie brown
+14. Hymn for the weekend
+15. Fix you
+16. Viva la vida
+17. Adventure of a lifetime
+18. Kaleidoscope
+19. In my place
+20. Don't panic
+21. Us against the world
+22. Something just like this 
+23. A sky full of stars
+24. Up & up
+
+083e563f57480aeb9f498816bbeb7561 - 01-Intro.flac
+e39e209b8cecc2347a2f0ffb417cd32a - 02-A Head Full Of Dreams.flac
+38b152ccea70d5907e4c74fd7afe3b58 - 03-Yellow.flac
+d87d8337347af57311fcf76ee134a667 - 04-Every Teardrop Is A Waterfall.flac
+ceed457d749c659b1d40fc061e5de8cf - 05-The Scientist.flac
+2814792544966b718746126ab56b6a1b - 06-God Put A Smile Upon Your Face.flac
+613c4ee5369c54929a096dae558b9f57 - 07-Paradise.flac
+3f93ba97ba74f35274ab03883a538152 - 08-Always In My Head.flac
+9206773246b8f934345bb0134bb48699 - 09-Magic.flac
+f05a27772384e3b0db7bd33fcd8223fd - 10-Everglow.flac
+1ce3edca3d82712485b0dc9b03ac1c22 - 11-Clocks.flac
+1a86da235878caff8af764d43490723c - 12-Midnight.flac
+f2149ccafa74825b49a761fe96f0b509 - 13-Charlie Brown.flac
+a971f8d4a22af42470f8a78ca09ad385 - 14-Hymn For The Weekend.flac
+5efda31b52127ba3f2084e7ca674d4d4 - 15-Fix You.flac
+906f5c7f16f7e883dc350cbcf107c370 - 16-Viva La Vida.flac
+1d3cdd955316dc73087c19e20415d2c0 - 17-Adventure Of A Lifetime.flac
+152b8d7ee5cbe4c4fb292e32d2de19e2 - 18-Kaleidoscope.flac
+484cf75b14a444680c04820fcf010299 - 19-In My Place.flac
+a61e4e10d2f2e9f5cd562bbf62780d13 - 20-Don't Panic.flac
+bf3c405ddf34c97b442ce51c9b369a54 - 21-Us Against The World.flac
+c55b84f0baee4cf8da750b05a570dace - 22-Something Just Like This.flac
+fec6c146260a63a2a22c0b0c7beb4823 - 23-A Sky Full Of Stars.flac
+98f7b03a06df10572d67cff859864096 - 24-Up&Up.flac
+
+PLEASE DO NOT SELL OR ENCODE TO MP3 
+ENJOY & SUPPORT LIVE MUSIC !
+G - May 2020

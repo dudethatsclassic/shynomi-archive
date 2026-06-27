@@ -1,0 +1,48 @@
+Coldplay
+MTV Live: MTVe.com Goes Roskilde
+Roskilde Festival
+June 27, 2003
+Orange Stage
+Roskilde, Denmark
+
+Length: 16:44
+Quality: Very Good Soundboard (Webcast)
+Size: 112 MB compressed (SHN)
+Complete Show: No
+
+Captured/Converted By: Henry Chinaski <oneilove@notme.com>
+
+*** DO NOT ENCODE THIS SHOW TO MP3
+*** THIS SHOW SHOULD BE TRADED AS SHN ONLY
+*** THIS SHOW SHOULD ONLY BE TRADED ON A 1:1 BASIS
+*** THIS SHOW IS NOT TO BE PUT FOR SALE ON ANY WEBSITE FOR ANY PRICE
+
+Tracklist
+---------
+01. Politik				[5:25]
+02. God Put A Smile Upon Your Face	[5:04]
+03. A Rush Of Blood To The Head		[6:15]
+
+Source:
+http://www.mtv.fr/
+> Real Media file (RM) (269 Kbps 44.100 Hz, 16-bit, Mono)
+  captured with StreamBox VCR 1.0 Beta 3.1 - FlyingRaichu RTSP/PNM (T1 LAN)
+
+Conversion:
+> Streambox Ripper 2.009
+> WAV (44.100 Hz, 16-bit, Mono)
+> Sound Forge 5.0 (WAV edit):
+- Bit Depth Converter: 32-bit (IEEE float)
+- Channel Converter: Mono to Stereo - 100 % (no faders) [Convert to specified channels only]
+- Normalize: 0,00 dB (100,00 %) [peak level]
+- Bit Depth Converter: 16-bit
+> WAV (44.100 Hz, 16-bit, Stereo)
+> mkwAudio Compression Tool 0.97b1
+> SHN
+
+Notes:
+-
+
+Comments (MTV.fr):
+Retrouve sur MTV.fr/live les meilleurs moments du Roskilde festival, en juillet dernier au 
+Danemark. Avec le performance live de Coldplay.

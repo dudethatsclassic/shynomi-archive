@@ -1,0 +1,47 @@
+Coldplay
+May 9, 2005
+102.1 FM "The Edge" Session
+Toronto, Ontario
+
+SOURCE:
+RCA RV-9970A Receiver > JB3 Line-In
+
+EXTRACTION:
+JB3 > Firewire > OnBoard SBLive Audio > CDWave Editor 1.94.4 > FLAC Frontend 1.7.1
+
+GENERATION:
+FM > WAV [44.1kHz] > FLAC [Level 8] > You (Your copy will be CDR(1) if burnt)
+
+LENGTH: 
+
+TRACKS:
+01 Intro
+02 A Message
+03 Till Kingdom Come
+04 Interview 
+05 Clocks (part of)
+06 The Scientist
+07 Dont Panic
+08 Tuning up and Chris talking
+09 Yellow
+
+NOTES:
+-Originally broadcast live on FM 102.1 "The Edge" on May 9, 2005. This recording is a rebroadcast in celebration of the "British Invasion  Week" here in Toronto. (There is about 10 shows this week alone by artists from the UK)
+-Band members present are Chris and Johnnie.
+-Cut out some DJ talk before and after the commercials that Wasn't important to the show.
+-More info and some videos available at: http://www.edge.ca/live/coldplay.cfm
+
+
+Excerpt from www.edge.ca:
+
+"Thousands of screaming fans. Yonge Street shut down. Police on horses. Squad cars everywhere. Bylaw fines. The threat of criminal charges. And the whole thing was broadcast live on the Edge. And on tape. Wow.
+
+Not only did Coldplay perform two news songs from their still-unreleased album, they played two older songs for the broadcast and two more just for the fans in the studio and on the street. Talking to Chris Martin and Johnny Buckland later, they couldn’t possibly have enjoyed themselves more. Monday afternoon will go down in history as one of the wildest and coolest events in the history of 102.1 the Edge.
+
+Absolutely legendary."
+
+
+RECORDED BY:
+Dave Caley (2006.03.20)
+
+PLEASE DO NOT SELL OR CONVERT TO MP3

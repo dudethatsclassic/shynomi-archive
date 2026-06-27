@@ -1,0 +1,76 @@
+Coldplay
+07-14-2009
+Sleep Train Ampitheater
+Marysville, CA
+
+--
+
+Wireless Sources
+Vocals + Guitar + Bass > Multitrack recorder(s)
+
+--
+
+Wave editing + time alignment in Adobe Audition
+Mixing in Nuendo 3
+
+Used Ozone Izotope 4
+Final Post-Processing done in Harbal
+Cut up + flac'ed by CD Wave
+
+Recorded, mixed, produced, and tracked by Hoserama. Solo job this time!
+
+This is mix 2.0
+
+--
+
+01. Life In Technicolor 1
+02. Violet Hill
+03. Clocks
+04. In My Place
+05. Yellow
+06. Glass of Water
+07. Cemeteries of London
+08. 42
+09. Fix You
+10. Strawberry Swing
+11. Stage Break
+12. God Put A Smile Upon Your Face
+13. Talk
+14. Postcards from the Edge + The Hardest Part
+15. Viva La Vida
+16. Lost
+17. Stage Break
+18. Green Eyes
+19. Sitting on the Dock of the Bay
+20. Death Will Never Conquer Me
+21. Billie Jean
+22. Stage Break
+23. Politik
+24. Lovers In Japan
+25. Death and All His Friends
+26. Encore Break
+27. Chris Talk
+28. The Scientist
+29. Life In Technicolor II
+
+Well I bought a new laptop and decided to dig out a show I did last summer. I taped it, time aligned the feeds, and then shelved it because my ADD mind got focused on some other shows. Anyways, dug out the files and loaded them up on the new laptop. 
+
+I remember being pleasantly impressed by the show. Biggest difference in my opinion is the band opting to actually do a 2 hour show. All the past shows I've seen by Coldplay were ~85 minutes which was disappointing. Plus they seemed to have a good set overall, even if I'm not thrilled on the new album.
+
+Regarding the recording, this is an IEM-only matrix mix. Three feeds (Vocals + Guitar + Bass). They put some heavy noise gating on the vocal channels, so when they're not playing you get just about no crowd noise. So in between the stage breaks, there was music playing to the crowd...but it doesn't come through on this recording. They are fans of the click track but its not too bad overall. There is some occasional static and fuzz. I did as much as I could to filter it out but some of it is gonna stay in there unfortunately. 
+
+The mix is what it is too. Some times the backing vocals are loud in the mix. Some times the piano is too low in the mix. Tell it to the boys to change their mix around a bit. I did what I could as far as balancing things out.
+
+There are a few glitches. I accidently hit a wrong button on one feed during Fix You and you'll hear it kick down to Mono for a bit, drop out for a second, flip back on, then go back to regular. Somewhat annoying and I was kicking myself for it. Other than that, the opening track balance is a little off at first but settles in once I dialed things in. I was going in blind and figuring out all the feeds as they were playing. Always a joy to pull that off.
+
+Would absolutely love to mix in an audience recording for this show, but never was able to track down on. So if anybody has a lead on an audience source of this show, drop me a line and I will mix it in for the benefit of all.
+
+Time aligned and static cleanup in Adobe Audition 3. Mixed in Adobe Audition. Used mostly Izotope Ozone 4 for a lot of the processing. Ran Harbal at the end up the stream to balance out the EQ.
+
+If you have issues with the sound, or can't stand the "in your face" sound of the IEMs, move onto the next recording. I am mixing for my own ears and I enjoyed this mixing job, although would love an audience. 
+
+Please don't sell this recording in any way - no cash for blanks, 2:1s, or any other form of "getting paid for your time". Just share it freely.
+
+Please do not attempt to remaster this recording and spread it around. There is little to no point of trying to compete with the original processing. If you need to re-eq it for your own listening pleasure, that's fine, just don't spread it around.
+
+If you're going to destroy the sound of some ultra-spiffy high-end rigs by encoding and spreading them via mp3's, please keep them on your own computer and not dilute the tradepool. And I would really appreciate not seeing this sendspaced, ysi'ed , torrented etc all over the web in 17 different formats. If I want it torrented on a different site, I'll do it myself.

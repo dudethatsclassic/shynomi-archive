@@ -1,0 +1,53 @@
+Coldplay
+
+Music Of The Spheres Tour 2022
+Olympiastadion, Berlin, Germany 
+July 13, 2022
+
+Taper: oni (of no interest)
+
+Lineage: DPA4061 w/Soft Boost Grid -> DPA D:VICE MMA:A (low pass filter -80hz) -> iPhone 12 mini (96/24) -> iZotope RX 9 (declicked/clapping, some screams reduced, EQed, normalized, resampled 44/16) -> FLAC -> xACT (SBE, tagged)
+
+Position: Block F2 (side stage, row 9, nearly in line with PA stack)
+
+Tracks:
+
+01 - Intro 1:39
+02 - Taped: Light Through the Veins (Jon Hopkins Song; Sustainability Video Intro) 2:51
+03 - Taped: Flying Theme (John Williams Song from E.T.) 1:23
+04 - Taped: Music Of The Spheres 0:52
+05 - Higher Power 3:27
+06 - Adventure Of A Lifetime 4:53
+07 - Paradise 4:53
+08 - Charlie Brown 4:38
+09 - The Scientist 8:18
+10 - Viva La Vida 5:23
+11 - Hymn For The Weekend 4:28
+12 - Let Somebody Go (with H.E.R.) 5:47
+13 - Politik 5:01
+14 - In My Place 3:50
+15 - Yellow 6:20
+16 - Taped: Sunrise 1:40
+17 - Human Heart 3:09
+18 - People Of The Pride 3:46
+19 - Clocks 4:25
+20 - Infinity Sign (with excerpts of "Music Of The Spheres II" and "Every Teardrop Is A Waterfall") 1:51
+21 - Something Just Like This (shortened; pre-recorded vocals with Chris performing in sign language) 2:06
+22 - Midnight (remix; contains elements of Lone's "Blue Moon Tree") 1:42
+23 - My Universe 4:10
+24 - A Sky Full Of Stars (Stopped) 4:07
+25 - A Sky Full Of Stars (Restarted) 4:52
+26 - Encore Break 5:03
+27 - Sparks 3:51
+28 - Chris Martin Speech before Magic 2:31
+29 - Magic (sung in German) 4:56
+30 - Humankind 5:12
+31 - Fix You 5:26
+32 - Biutyful 3:49
+33 - Outro (with taped: A Wave) 4:02
+
+Total 2:10:34
+
+Comments: Spontaneously bought a 35 EURO ticket the night before in block F2, which was more behind than to the side of the stage. The block was very loud with a lot of screaming, unrythmic clapping and loud conversations, preferably in the quieter passages. The recording is below average despite the edits, but a good documentation of the complete show and the "Greatest Hits" block from "Politics" to "Yellow" is well audible.
+
+Published under the following license: WTFPL – Do What the Fuck You Want to Public License (www.wtfpl.net)

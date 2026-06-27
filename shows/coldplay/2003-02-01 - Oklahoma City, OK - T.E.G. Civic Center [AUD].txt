@@ -1,0 +1,48 @@
+Coldplay
+February 1, 2003 
+Thelma E. Gaylord Civic Center Music Hall
+Oklahoma City, OK
+
+Taper:   	Fred Goodwin
+Source:  	AT 931 -> Bat Box -> M1 @ 48
+Conversion1:	DA302 -> Hosa Digital -> SEKD Prodif + -> Samplitude 6.0 -> Wav
+Conversion2:	John Fletcher
+Equipment:	WavLab 3.0 (EQ, Compression, Normalizing) ->
+		CD WAV (tracking) -> MKW (.shn)
+
+
+****************************************************
+*** PLEASE DO NOT ENCODE THIS SHOW TO MP3 FORMAT ***
+****************************************************
+
+
+Disc One____________________________________________
+01:	Intro				00:23
+02:	Politik 			05:30
+03:	God Put A Smile Upon Your Face	05:01
+04:	Spies 				06:39
+05:	Daylight			05:54
+06:	Trouble				05:18
+07:	One I love			05:05
+08:	Warning Sign			05:42
+				-------------
+				Total:	39:32
+
+Disc Two____________________________________________
+01:	Dont Panic			03:15
+02:	Everything's Not Lost 		08:26
+03:	Moses				05:39
+04:	Yellow				05:24
+05:	The Scientist -->
+	Yoshimi Battles the Pink Robots	08:06
+--{Encore}--
+06:	Clocks				05:27
+07:	In my place			06:28
+08:	A Ladder to the sun		05:50
+				-------------
+				Total:	48:35
+
+
+--Notes--
+- 'Yoshimi Battles the Pink Robots' is a Flaming Lips cover.
+- Compiled by Fred Goodwin on 02-04-2003.

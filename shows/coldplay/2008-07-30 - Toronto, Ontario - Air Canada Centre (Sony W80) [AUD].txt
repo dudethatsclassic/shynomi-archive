@@ -1,0 +1,39 @@
+Artist: Coldplay
+Date: July 30, 2008
+Location: Air Canada Centre, Toronto
+Taper: open6l
+----------------------------------------------------------------
+Source Info: >Sony W80 Camera
+Format: FLAC
+----------------------------------------------------------------
+additional info: Recorded From Section 320 Row 1
+----------------------------------------------------------------
+Setlist:
+
+01&02 	- Life in Technicolor, Violet Hill
+03 	- Clocks
+04 	- In My Place (only the start)
+05 	- Viva La Vida
+06 	- Yes
+07 	- 42
+08 	- Fix You
+09 	- Strawberry Swing (only the start)
+10&11 	- Chinese Sleep Chant, God Put A Smile Upon Your Face
+12 	- Speed of Sound
+13&14 	- Yellow, Lost
+15&16 	- The Scientist, Death Will Never Conquer
+17 	- Talk (Remix)
+18 	- Politik
+19 	- Lovers in Japan
+20a 	- Death and All His Friends (Snippet)
+20b 	- Death and All His Friends
+21&22 	- Don't Panic, Dubliners (Encore)
+
+----------------------------------------------------------------
+
+Note:
+MPEG1 files copied from camera - audio demuxed using dgindex. Nothing has been done to these files. They are as is from the camera (unfortunately this is the quality my camera captured at so it doesn't get any better than this but the quality sounds pretty good for what it is.) I might upload the video (6gb of MPEG data) - haven't decided yet. Some tracks are combined (recorded right through) and others have missing parts. All others without notes are complete.
+
+Track 04 (In My Place) had problems and thus I only have a small clip.
+Track 09 (Strawberry Swing) also had problems and thus only a small clip.
+Track 20 (Death and All His Friends) is missing some audio and thus is recorded into 2 separate files

@@ -1,0 +1,74 @@
+Coldplay
+Soldier Field,
+Chicago, IL, USA
+17th August, 2017
+
+Lineage: Samsung VR Live Webcast > Batch script (*.ts segments) > TSSplitter (join) > Uncompressed.ts > FLAC (ffmpeg) > Adobe Audition CC 2017 > Seperate Stereo FLAC
+
+Setlist:
+01. Intro
+02. A Head Full Of Dreams 
+03. Yellow 
+04. Every Teardrop Is A Waterfall 
+05. The Scientist 
+06. God Put A Smile Upon Your Face 
+07. Paradise (with Tiësto Remix outro) 
+B-Stage 
+08. Always in My Head 
+09. Magic 
+10. Everglow 
+A-Stage 
+11. Clocks 
+12. Midnight 
+13. Charlie Brown 
+14. Hymn for the Weekend 
+15. Fix You 
+16. Viva la Vida 
+17. Adventure of a Lifetime 
+C-Stage 
+18. Kaleidoscope 
+19. In My Place 
+20. Don't Panic 
+21. Us Against the World 
+A-Stage 
+22. Something Just Like This (The Chainsmokers & Coldplay cover) 
+23. A Sky Full of Stars 
+24. Up&Up
+
+Quality: Soundboard
+
+Notes: Original video rip from jerpaa on DIME. Audio split by me (stephen@coldplaying.com)
+
+Media Info:
+File name:                    01. Intro.flac
+Handled by:                   flac format module
+Length:                       5:04.243
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  48000
+Average bytes/sec:            192000
+Rate (calculated):            192000
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    58414736 bytes
+Chunk size:                   58414772 bytes
+Total size (chunk size + 8):  58414780 bytes
+Actual file size:             27876852
+File is compressed:           yes
+Compression ratio:            0.4772
+CD-quality properties:
+  CD quality:                 no
+  Cut on sector boundary:     n/a
+  Sector misalignment:        n/a
+  Long enough to be burned:   n/a
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a

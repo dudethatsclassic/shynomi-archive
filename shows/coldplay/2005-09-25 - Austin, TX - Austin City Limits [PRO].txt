@@ -1,0 +1,56 @@
+Artist: Coldplay 
+Show: Austin City Limits - http://www.imdb.com/title/tt0516641/ - http://acltv.com/anthology/
+Location: Austin City Limits, TX, USA
+Date: 25 September 2005
+Airdate: 17 December 2005
+Airing: S31E08 - https://thetvdb.com/?tab=episode&seriesid=71649&seasonid=32463&id=402981&lid=7
+
+Show Info
+=========
+This English band has made a name for themselves in the world of rock and roll. Special guest, Michael Stipe from R.E.M., drops by to play some songs with the band.
+
+Setlist
+=======
+Notes
+-----
+BO = Broadcast order
+SO = Setlist order
+xx = Not broadcast
+
+BO  SO  Song
+--  --  ----
+xx. 01. Square One
+02. 02. Yellow
+01. 03. Speed of Sound
+xx. 04. X&Y
+03. 05. White Shadows 
+04. 06. Til Kingdom Come
+05. 07. Ring of Fire (Johnny Cash cover)
+07. 08. In the Sun (Joseph Arthur cover) (with Michael Stipe)
+08. 08. Nightswimming (R.E.M. Cover) (with Michael Stipe)
+06. 10. Clocks
+09. 11. Talk
+
+Encore
+------
+xx. 12. Swallowed in the Sea
+10. 13. In My Place
+11. 14. Fix You
+
+Encore 2
+--------
+xx. 15. Have Yourself a Merry Little Christmas (Hugh Martin & Ralph Blane cover)
+
+Video Info
+==========
+Source: PBS (WJCT HD) > TS
+Format: TS
+Total Time: 55:36
+Video tech info: 1280x720, MPEG, 59.940 fps, 9,465 kb/s 
+Audio tech info: AC3, 48000Hz, 384 kb/s, stereo
+
+Uploader Notes
+==============
+Coldplay played Austin City Limits for the first time in September 2005. The show was heavily edited, with the setlist order and broadcast order differing in several places, and a few songs left out of the broadcast.
+
+They played a Christmas song as a second encore with the intention of it being left in (as the show was broadcast just 8 days before Christmas, but recorded in September) but in the end it was left out of the broadcast.

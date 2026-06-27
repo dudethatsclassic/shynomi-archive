@@ -1,0 +1,37 @@
+Coldplay
+KBCO Studio C
+Boulder, CO
+08/16/02
+
+Taper: Pushkar Ojha
+Source: FM-->tape-->Turtle Beach Soundcard-->
+
+Conversion: Jason Green (www.groove-salad.com/forum)
+Cool Edit Pro 2.0 > MKWAct 0.97 > SHN
+
+DO NOT ENCODE TO MP3
+
+Disc 01
+
+01. Intro		00:38	
+02. In My Place		03:44
+03. Interview		02:34
+04. Trouble 		03:46
+05. Ending		00:32
+
+Total			11:14
+
+
+
+
+compiled by Jason Green (AIM:ChumKui)
+on 08/24/2002	
+
+
+--md5 Signature--
+
+f08bd6c76d9c78c8a8eeaec14df7df3b *cp2002-08-16.d01t01.shn
+017c9e641a2bee2c56739a66c9bda878 *cp2002-08-16.d01t02.shn
+966ab2641471440abe38ad5b943e5a47 *cp2002-08-16.d01t03.shn
+6b2ad5c71c81cda8f623fd3c5342487f *cp2002-08-16.d01t04.shn
+1b6c9375140c6f8d49fb24a2f167a240 *cp2002-08-16.d01t05.shn

@@ -1,0 +1,48 @@
+Coldplay - Radio 1's Big Weekend, Stockwood Park, Luton, Luton, England - Date 26th May 2024
+
+BBCi Player > Jdownloader > You
+
+Tracks
+
+Higher Power
+Paradise
+Viva la Vida
+Hymn for the Weekend
+Clocks
+Fix You
+People of the Pride
+Something Just Like This (The Chainsmokers cover)
+Yellow
+A Sky Full of Stars
+Orange
+
+Technical info
+
+Stream 0
+Codec: H264 - MPEG-4 AVC (part 10) (avc1)
+Type: Video
+Video resolution: 1920x1080
+Buffer dimensions: 1920x1088
+Frame rate: 50
+Decoded format: 
+Orientation: Top left
+Colour primaries: ITU-R BT.709
+Colour transfer function: ITU-R BT.709
+Colour space: ITU-R BT.709 Range
+Chroma location: Left
+Video Bitrate: 10172kbps
+
+Stream 1
+Codec: MPEG AAC Audio (mp4a)
+Type: Audio
+Channels: Stereo
+Sample rate: 48000 Hz
+Bits per sample: 32
+Audio Bitrate: 128kbps
+
+Shared by Howdo on Zomb 27/05/2024
+
+For Oasis Media - http://letmebetheone.epizy.com/
+
+Enjoy
+

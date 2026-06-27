@@ -1,0 +1,15 @@
+Coldplay
+Patriot Center - 99.1 WHFS Hfsmas Nutcracker
+Faifax, VA
+2001-12-01
+
+
+Source: aud >> dynamic audio custom binaural >> custom bb >> sharp ms722 >> sb Live (ANA) >> cooledit 2000 >> cdwave >> cdr
+
+Setlist: (23:24)
+
+01. Shiver 
+02. Yellow
+03. God Put A Smile Upon Your Face
+04. Trouble
+05. Lost Highway 

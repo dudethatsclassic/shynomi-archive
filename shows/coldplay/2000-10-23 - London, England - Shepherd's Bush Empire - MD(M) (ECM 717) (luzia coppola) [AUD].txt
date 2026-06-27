@@ -1,0 +1,80 @@
+Coldplay
+23rd October 2000
+Shepherd's Bush Empire
+London, England
+
+SETLIST (67:13)
+-----------------
+01. (intro)
+02. Spies
+03. Trouble
+04. Bigger Stronger
+05. High Speed
+06. (Chris chatting)
+07. Shiver
+08. (Chris chatting)
+09. Animals
+10. (Chris chatting) 
+11. Sparks
+12. Don't Panic
+13. (Chris chatting)
+14. Help Is Around The Corner
+15. Yellow
+16. (Chris chatting and false start)
+17. Everything's Not Lost
+18. (encore break)
+19. We Never Change
+20. (Chris chatting)
+21. In My Place
+
+GENERATION
+-----------------
+MD(M) -> CDR(0) -> FLAC
+
+SOURCE
+-----------------
+ECM 717 -> Sony MZR55 -> MD(M) -> CDR(0)
+
+TRANSFER
+-----------------
+MD(M) -> Philips CDR630 -> CDR(0)
+
+EDITING
+-----------------
+CDR(0) -> EAC -> WAV -> foobar2000 (single WAV) -> Adobe Audition 2017 (edits/fades/normalise) -> CDWave (splits) -> foobar2000 -> FLAC(8)
+
+NOTES
+-----------------
+Taped by Luzio Coppola.
+Encore break already mostly edited out by the taper.
+Early versions of "Animals" and "In My Place".
+My edits were: removed 1 min of crowd noise at start; reduce level of mic drop after "Everything's Not Lost"; normalized to 98%; re-tracked.
+PA music comes in immediately as "In My Place" finishes, hence the hasty fade-out.
+
+FLAC FINGERPRINTS
+-----------------
+coldplay-2003-oct-23-aud-t01.flac:50ac0d087a8b86179bcdacd74111b5f8
+coldplay-2003-oct-23-aud-t02.flac:46527991091db7151853a3dfa84fe9ee
+coldplay-2003-oct-23-aud-t03.flac:1d602c804d812020801ba101daef2597
+coldplay-2003-oct-23-aud-t04.flac:f952af7e91f0bca6ce89c12b6735a6cb
+coldplay-2003-oct-23-aud-t05.flac:dc40632f93187ba43af45236f619cb45
+coldplay-2003-oct-23-aud-t06.flac:e655bccd17548eb897166de4bce24fc0
+coldplay-2003-oct-23-aud-t07.flac:35c31990751b77562030ad5aa677c4bd
+coldplay-2003-oct-23-aud-t08.flac:b09b79c049047d35b156f4f6caa5e867
+coldplay-2003-oct-23-aud-t09.flac:237e8bd8208e068e0b0de1282ce36f21
+coldplay-2003-oct-23-aud-t10.flac:f014ff284245aba7ea953e06879734c4
+coldplay-2003-oct-23-aud-t11.flac:fc92aba0d7c83a45d81bf7acc32156ca
+coldplay-2003-oct-23-aud-t12.flac:e83cbd4585a423eecd590d283b9e9632
+coldplay-2003-oct-23-aud-t13.flac:6df7e2105e9911ddd2587bdbdd9948e0
+coldplay-2003-oct-23-aud-t14.flac:012b737561112d54e0d612528a2da79d
+coldplay-2003-oct-23-aud-t15.flac:e6c3b73d5e306e351c4e2b65c50d2fa9
+coldplay-2003-oct-23-aud-t16.flac:b42e0111376501b3a799fe15db338734
+coldplay-2003-oct-23-aud-t17.flac:e8f0bba1dbf646775dfd3d66c9b2fda7
+coldplay-2003-oct-23-aud-t18.flac:e19413ed458bab40b67b9e3882496163
+coldplay-2003-oct-23-aud-t19.flac:ad44263751fd56de05d48c6ab5cbe40c
+coldplay-2003-oct-23-aud-t20.flac:a2c05bdb1ce97ade77e144d2b216144f
+coldplay-2003-oct-23-aud-t21.flac:b8ef8e99a461507eef04eabc3ca02500
+
+Edit and remaster by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

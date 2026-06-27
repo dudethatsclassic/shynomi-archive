@@ -1,0 +1,39 @@
+Coldplay
+Ed Sullivan Studio - Live on Letterman
+NY, NY US
+2011-09-20
+Broadcast on 2011-10-22
+
+Lineage: fm (Onkyo TX8511)>SoundBlaster (Live! 24 bit External)>wav(CD Wave Editor @ 16bit)>flac
+
+Mylo Xyloto/Hurts Like Heaven 5:01
+Yellow 4:14
+In My Place 4:05
+Major Minus 4:34
+Paradise 4:49
+Viva La Vida 4:10
+Charlie Brown 4:20
+The Scientist 5:35
+Clocks 4:18
+Fix You 5:03
+Every Teardrop Is A Waterfall 4:35
+Us Against The World 4:59
+
+Total Time: 55:48
+
+st5 fingerprints:
+
+82ae81583b75cb05014527e98ce5c2b0  [shntool]  coldplay 2011-10-2202.flac
+8d526dacd89ebbbe2b0130d1c5f6581b  [shntool]  coldplay 2011-10-2203.flac
+989d7b68afd85a6d79005f802e2a9524  [shntool]  coldplay 2011-10-2204.flac
+6b80a917bed3ad73ce7b4220e5dfa58e  [shntool]  coldplay 2011-10-2205.flac
+fa5ea9a8d1040d10b9c8ee6383ab76aa  [shntool]  coldplay 2011-10-2206.flac
+a567ac233cdc9b01d81c1e93a0de2624  [shntool]  coldplay 2011-10-2208.flac
+09d5f654384b753a68fe72cb2b47f430  [shntool]  coldplay 2011-10-2209.flac
+64ef9a6ffb63ec480ddaa576f6115e83  [shntool]  coldplay 2011-10-2210.flac
+99a4717ddf4603a6fe41e47fcecb09ab  [shntool]  coldplay 2011-10-2211.flac
+f1d8d17810223d80a4d036d9b7fab97d  [shntool]  coldplay 2011-10-2212.flac
+954392aa4601e2d5ef24165dda562906  [shntool]  coldplay 2011-10-2213.flac
+14d6bcffa91d7d9185d5a773681c18a6  [shntool]  coldplay 2011-10-2214.flac
+
+No errors occured.

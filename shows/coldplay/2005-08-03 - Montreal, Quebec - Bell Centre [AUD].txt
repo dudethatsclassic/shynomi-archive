@@ -1,0 +1,54 @@
+Coldplay
+Montreal, Canada
+Bell Centre
+2005-08-03
+Audience Recording
+
+**************************DO NOT ENCODE TO MP3*****************************
+
+Setlist:
+
+Disc 1:
+
+01.  Square One
+02.  Politik
+03.  Yellow (Mess Up)
+04.  Yellow
+05.  GPASUYF
+06.  Speed Of Sound
+07.  Low
+08.  Hardest Part
+09.  Everythings Not Lost
+10.  White Shadows
+11.  The Scientist
+12.  'Till Kingdom Come
+13.  Dont Panic
+14.  Clocks
+15.  Talk
+
+Disc 2:
+
+01.  Swallowed By The Sea
+02.  In My Place
+03.  Fix You
+
+Flac Fingerprints:
+
+Coldplay 2005-08-03d1t01 Square One.flac:d0b3a91f5ea57c9f539cfde2fa488987
+Coldplay 2005-08-03d1t02 Politik.flac:31579ff384eaa8f224fbffd491a5a988
+Coldplay 2005-08-03d1t03 Yellow(Mess Up).flac:e5ab97ee51e3993e9ef502e98e42dbd0
+Coldplay 2005-08-03d1t04 Yellow.flac:9d5ebcbff467be0a152bd1ea68380356
+Coldplay 2005-08-03d1t05 God Put A Smile Upon Your Face.flac:20cab3b5c8c1e3a0662fbd5410857a41
+Coldplay 2005-08-03d1t06 Speed Of Sound.flac:7755b83eaa30fdb4acc5b1f945126da7
+Coldplay 2005-08-03d1t07 Low.flac:4fc3e3709c33f3712c35895c1aaaa29b
+Coldplay 2005-08-03d1t08 The Hardest Part.flac:aa3b51146a415fcb0c847b7dc7907e97
+Coldplay 2005-08-03d1t09 Everythings Not Lost.flac:e3e4ab167d8dbaa5e55c7379528b5108
+Coldplay 2005-08-03d1t10 White Shadows.flac:06c333c13506c6ebc1fbf13ab979a814
+Coldplay 2005-08-03d1t11 The Scientist.flac:f683277dad4dc24a8b7aee493673cd25
+Coldplay 2005-08-03d1t12 'Til Kingdom Come.flac:f951ccba856ece89b65ad7f43662c8a3
+Coldplay 2005-08-03d1t13 Don't Panic.flac:994f4b62fb06a48ec48e374c9cf88e50
+Coldplay 2005-08-03d1t14 Clocks.flac:aac03e810b6762809906450225072283
+Coldplay 2005-08-03d1t15 Talk.flac:e0ea6fc41412bec9b4643ccca8648d0c
+Coldplay 2005-08-03d2t01 Swallowed By The Sea.flac:54c6d12b0b66c5c780d5d20b012ef63a
+Coldplay 2005-08-03d2t02 In My Place.flac:325099b32cc80c0539d5809fbbab8903
+Coldplay 2005-08-03d2t03 Fix You.flac:37b8aa865bf256c88985d1234c14d36a

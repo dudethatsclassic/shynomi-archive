@@ -1,0 +1,72 @@
+Coldplay
+"iHeartRadio Music Festival 2015"
+MGM Grand Theater, Las Vegas, Nevada, USA
+September 18, 2015
+
+
+Setlist:
+
+01. Paradise
+02. Viva La Vida
+03. Clocks
+04. Fix You
+05. A Sky Full of Stars
+
+AUDIO EXTRACTED FROM FOLLOWING PROSHOT VIDEO SOURCE.  AUDIO IS LOSSY.
+Lineage: Yahoo webstream (720p) -> downloaded .ts segments (DTA) -> TSSplitter (join)
+
+
+Mediainfo:
+
+General
+ID                                       : 1 (0x1)
+Complete name                            : Coldplay 2015-09-18 iHeartRadio Music Festival [720p].ts
+Format                                   : MPEG-TS
+File size                                : 1.03 GiB
+Duration                                 : 23mn 29s
+Overall bit rate                         : 6 292 Kbps
+
+Video
+ID                                       : 481 (0x1E1)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Format settings, GOP                     : M=3, N=60
+Codec ID                                 : 27
+Duration                                 : 23mn 30s
+Bit rate mode                            : Constant
+Bit rate                                 : 6 000 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 30.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.217
+Stream size                              : 984 MiB (93%)
+
+Audio
+ID                                       : 482 (0x1E2)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Muxing mode                              : ADTS
+Codec ID                                 : 15
+Duration                                 : 23mn 29s
+Bit rate mode                            : Constant / Variable / Variable
+Bit rate                                 : 128 Kbps
+Minimum bit rate                         : 116 Kbps / 116 Kbps
+Maximum bit rate                         : 159 Kbps / 159 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 8ms
+Stream size                              : 21.5 MiB (2%)

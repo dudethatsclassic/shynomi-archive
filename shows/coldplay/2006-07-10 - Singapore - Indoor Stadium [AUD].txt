@@ -1,0 +1,60 @@
+Coldplay
+(Twisted Logic Tour '06)
+Singapore - Indoor Stadium
+10 July, 2006
+
+
+*** Do not distribute this show in lossy formats - i.e.: MP3, Ogg Vorbis, AAC
+*** Do not distribute remastered copies of this show
+*** Do trade it and finally,
+*** Do enjoy the show! :)
+
+
+Track Listing (88:54):
+01. Square One
+02. Politik
+03. Yellow
+04. Speed Of Sound
+05. God Put A Smile Upon Your Face
+06. What If
+07. How You See The World
+08. White Shadows
+09. The Scientist
+10. Til Kingdom Come
+11. Ring Of Fire (Johnny Cash cover)
+12. Trouble
+13. Clocks
+14. Talk
+15. Encore break
+16. Swallowed In The Sea
+17. In My Place
+18. Fix You
+
+
+Taping Spot:
+Block T04, Row 19
+
+Source:
+Audio-Technica 831s
+-> Home-made 3-wire battery box
+-> iRiver H120 (Rockbox firmware)
+-> WAV (16bit/44.1kHz PCM)
+
+Transfer:
+iRiver H120 (via USB2.0 link-up)
+-> HDD
+-> Adobe Audition v1.5 (edited out unwanted sections)
+-> CD Wave v1.94.8 (for track splitting)
+-> FLAC Frontend v1.7.1
+-> FLAC
+
+
+Notes:
+Many thanks to Clint who sent me his AT mics while he got my Sennheisers repaired.
+No thanks to Microphone Madness who did absolutely fuck all in repairing them. Their
+after sales service is absolutely atrocious. 
+
+
+Compiled by:
+K.C. Leong
+December 3, 2006

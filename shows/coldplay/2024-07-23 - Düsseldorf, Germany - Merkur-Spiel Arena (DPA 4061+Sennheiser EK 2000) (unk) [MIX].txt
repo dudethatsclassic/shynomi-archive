@@ -1,0 +1,52 @@
+Coldplay
+
+Music Of The Spheres Tour 2024
+Merkur-Spiel Arena, Düsseldorf, Germany 
+July 23, 2024
+
+Source 1: DPA 4061
+Source 2: Sennheiser EK 2000
+
+Matrix made with Logic Pro
+
+Tracks:
+
+01 - Taped: Light Through the Veins (Jon Hopkins Song; Sustainability Video Intro) 4:13
+02 - Taped: Flying Theme (John Williams Song from E.T.) 1:54
+03 - Taped: Music Of The Spheres 0:52
+04 - Higher Power 3:24
+05 - Adventure Of A Lifetime 4:31
+06 - Paradise 5:48
+07 - The Scientist 7:32
+08 - Viva La Vida 5:14
+09 - Hymn For The Weekend 4:22
+10 - Chris Talking 4:07
+11 - Everglow 3:05
+12 - Charlie Brown 4:10
+13 - Yellow 6:09
+14 - Human Heart (Stopped) 0:54
+15 - Human Heart (Restarted) 3:09
+16 - People Of The Pride 3:41
+17 - Clocks 4:23
+18 - Infinity Sign 1:51
+19 - Something Just Like This 4:52
+20 - My Universe 4:08
+21 - A Sky Full Of Stars (Stopped) 3:16
+22 - A Sky Full Of Stars (Restarted) 4:53
+23 - Encore Break 1:23
+24 - Taped: Sunrise 1:57
+25 - Sparks 7:06 (*)
+26 - The Jumbotron Song 3:26
+27 - Fix You 5:12
+28 - Good Feelings 3:47
+29 - feelslikeimfallinginlove 4:40
+33 - Taped: A Wave 2:24
+
+(*) disturbed by the sound of leaf blowers used by the cow to clean the stage from the confetti while the band was on the C-Stage
+
+Total 1:56:38
+
+Comments (Mix 3): The drums on the IEM feed were barely usable because the click track overlaid everything. Therefore, only the drums from the audience recording were used. In return, the bass from the audience recording is completely missing. Vocals and other instruments from the IEM recording dominate, but the audience is audible without being annoying.
+
+
+Published under the following license: WTFPL – Do What the Fuck You Want to Public License (www.wtfpl.net)

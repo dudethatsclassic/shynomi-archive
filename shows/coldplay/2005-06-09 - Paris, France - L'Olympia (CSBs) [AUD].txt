@@ -1,0 +1,91 @@
+Coldplay
+2005-06-09
+L'Olympia, Paris. France
+
+
+*** DO NOT ENCODE THIS SHOW TO MP3
+*** THIS SHOW SHOULD BE TRADED AS FLAC ONLY
+*** THIS SHOW IS NOT TO BE PUT FOR SALE ON ANY WEBSITE FOR ANY PRICE
+
+
+Length : 82:06 min 
+Quality : 8.9 Stereo Audience
+Size : 480 MB compressed (Flac) 
+Complete Show : Yes
+DAE in Lineage : No
+
+
+Tracklist :
+01. Square One				[5.02]
+02. Politik				[5.29]
+03. Yellow				[4.52]
+04. Low					[5.48]
+05. Speed of Sound			[5.27]
+06. God Put A Smile Upon Your Face	[4.23]
+07. A Warning Sign			[5.28]
+08. Everything's Not Lost		[5.34]
+09. White Shadows (stopped)*		[2.30]
+10. The Scientist			[7.06]
+11. 'Til Kingdom Come			[4.15]
+12. Don't Panic				[2.31]
+13. Clocks				[6.34]
+14. What If**				[4.54]
+15. Encore				[2.23]
+16. In My Place				[4.08]
+17. Fix You				[5.42]
+
+* The band had to stopped the song after 30 sec, maybe for drums problems..
+** A gap between t14 and t15. No music was lost. The recording stops automatically, 
+with the orginal Iriver firmware, after 74 minutes. Thanks to Rockbox guys to have repaired 
+this trouble with their great alternative firmware (www.rockbox.org)
+
+
+Source : 
+CSBs > Iriver H120
+
+Location : 
+GA. 20 meters in front of the stage. Just under the balcony
+
+Genealogy : 
+HDD > FLAC
+
+Transfert :
+Iriver H120 > USB > Wav. > CdWave > Flac Frontend (level 8) > Flac
+
+Taper : 
+Greg B.
+
+
+Comments :
+Not a great performance of Coldplay this evening, which took place during their X&Y promotional tour. 
+Lot of technical problems during the set.
+
+The sound fluctuates from time to time, mics can get distorsion in some places.
+Cause to fucking screamers and overall, a very chatty crowd , I'd got to change my location during Yellow, 
+so the recording sounds very muffled on this track.
+Anyway, I m quite glad 
+
+
+Mastered in Flac on 2006-02-04
+-----------------------------------------------------------
+coldplay2005-06-09t01.flac:a6cf96f82980eaf15805e5a3e6d6d5fd
+coldplay2005-06-09t02.flac:c18a7da0ffda4efcd139e9d91d4fc582
+coldplay2005-06-09t03.flac:745323c093491d01054b5c9adfd8ce5f
+coldplay2005-06-09t04.flac:5806de7bafd15bf2c24127850198630c
+coldplay2005-06-09t05.flac:ad4be54c7c9aebafe68307aaf52feab3
+coldplay2005-06-09t06.flac:b294ef9d32665a40007d8b151f0c1e4c
+coldplay2005-06-09t07.flac:59b5b5df89a6947609a65aedfeaff65b
+coldplay2005-06-09t08.flac:917c5488e235aaf07b3ec51f02cbb666
+coldplay2005-06-09t09.flac:66d0398d34abbff9c49100c12e437199
+coldplay2005-06-09t10.flac:86b1d6847367f6972a0ec4c75f8191de
+coldplay2005-06-09t11.flac:2b2cc7fba72d72638361ace4de5a855c
+coldplay2005-06-09t12.flac:e687496ea62a1bfe857f960e56937890
+coldplay2005-06-09t13.flac:1afcbbdd287d497c78949b90491fe240
+coldplay2005-06-09t14.flac:8c78db0ba44041df29f96606f3e347e4
+coldplay2005-06-09t15.flac:539ffe7188d532721a96568163a34f8a
+coldplay2005-06-09t16.flac:da1f502fc19d53b0c633a1dc155a9b86
+coldplay2005-06-09t17.flac:0e0f4fa587d6f10ce4990547261e7631
+
+
+
+

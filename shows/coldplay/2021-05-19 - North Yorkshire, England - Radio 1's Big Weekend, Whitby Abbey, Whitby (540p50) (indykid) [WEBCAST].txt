@@ -1,0 +1,93 @@
+Coldplay
+Radio 1's Big Weekend of Live Music 2021
+Whitby Abbey
+Whitby, North Yorkshire, England
+May 19, 2021
+(broadcast date: May 30, 2021)
+
+Lineage: BBC LIVE Webcast -> downloaded .ts segments (batch script) -> TSSplitter (join) -> FFmpeg (edit) -> uncompressed .ts
+Video: MPEG4 Video (H264) 960x540 16:9 3080 kbps 50.00 fps
+Audio: HE-AAC with Spectral Band Replication 96 Kbps 48.0 KHz stereo
+
+Setlist:
+Higher Power
+Something Just Like This (The Chainsmokers and Coldplay song)
+The Scientist
+Magic
+-Q&A with Greg James-
+Human Heart (featuring We Are KING)	 
+Adventure of a Lifetime
+Viva La Vida
+Fix You
+A Sky Full of Stars
+
+TRT = 00:45:53
+
+Note: This is a perfect capture of the webcast.
+No imperfections were inherent in the broadcast.
+
+Captured and uploaded to DIME by indykid.
+
+MediaInfo:
+General
+ID                                       : 1 (0x1)
+Complete name                            : Coldplay - 2021-05-19 Radio 1's Big Weekend, Whitby Abbey, Whitby, North Yorkshire, England [540p50].ts
+Format                                   : MPEG-TS
+File size                                : 1.02 GiB
+Duration                                 : 45 min 53 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 3 178 kb/s
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, RefFrames               : 2 frames
+Codec ID                                 : 27
+Duration                                 : 45 min 53 s
+Width                                    : 960 pixels
+Height                                   : 540 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC LC SBR
+Format/Info                              : Advanced Audio Codec Low Complexity with Spectral Band Replication
+Commercial name                          : HE-AAC
+Format version                           : Version 4
+Format settings                          : Implicit
+Muxing mode                              : ADTS
+Codec ID                                 : 15-2
+Duration                                 : 45 min 55 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 23.438 FPS (2048 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : -1 s 920 ms
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Duration                                 : 45 min 53 s
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television
+
+Captured and uploaded to DIME by indykid.

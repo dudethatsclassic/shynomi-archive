@@ -1,0 +1,194 @@
+01 - Comes A Time.flac:efacced530b8676482b54c2e3b17a6e2
+02 - Love Remains The Same.flac:5dcf9d96a108274c3d16b204841531cf
+03 - Landslide.flac:435696ce018750e040e545b8d48da186
+04 - Sometimes It Snows In April.flac:b9ef67b95119b0f86ea9c84d371a1cdf
+05 - Come Down.flac:8afef4005956fd4be57d944fbed18171
+06 - Vagabond.flac:94fb3c5e1a5197ac56d7c739ebdeb037
+07 - Woman.flac:6146aee4c3660510cef0192a5398205e
+08 - Cosmic Egg.flac:9edc4950f0da43b27583dac84d40f457
+09 - White Feather.flac:2f5c71079984ad37212263cdd0f187d7
+10 - Joker & The Thief.flac:285e09c74ead750cac0f7895a41c1b2f
+11 - Blue Ridge Mountains.flac:59455955823634c2dc8b394348d61c33
+12 - Sun It Rises.flac:8f699009062f5cc9508f5913416c1611
+13 - Your Protector.flac:d3398f54a71780003948c54e27878af4
+14 - Blue Spotted Tail.flac:72968e119d5acb9ad4da1572a55cc769
+15 - White Winter Hymnal.flac:42e5ad6f46d049aac7da3172becd0f01
+16 - He Doesn't Know Why.flac:ade04073c45c81a0f6d06b8bc043cd39
+17 - Mykonos.flac:8d9426085917b29351a2d2cd0c668390
+18 - Whole Lotta Losin'.flac:e67385d700a74bfdbba8ef917fe0b1d9
+19 - Man Called Truth.flac:7f6d17c4bfd4dc99d30926a9019f2455
+20 - The Right Place.flac:96938078f61a4e9a8c4089841c8d32d8
+21 - The Sandman, The Brakeman And Me.flac:a7b359af3d5df6b9b8c27ce4b7b60c20
+22 - Baby Boomer.flac:158b285832a21432dd99990d39e5cea9
+23 - Another Travelin' Song.flac:55b59e088ff0c78c171621b1e41b8f59
+24 - His Master's Voice.flac:b8cc5feecead473d31666210fbb47255
+25 - Love Is Free.flac:166572a5c82737460088b97b4ba29682
+26 - No One Said It WOuld Be Easy.flac:25c78017f03aba4bbdb30c5f8dd6fd96
+27 - Drunk With The Thought Of You.flac:d3aed3bcb2d1b350455dca3eb168c6a1
+28 - You've Got To Hide Your Love Away.flac:92d2e9893ee2e45804c06024152e6ae2
+29 - Lullaby For Wyatt.flac:6cbcb41d815920b9e068fc33c2bb0e0c
+30 - If It Makes You Happy.flac:11297abfaef98ce5861492e8e317c586
+31 - Soak Up The Sun.flac:9b1cfa14ee761539dee429f80ee6a6f6
+32 - I Will Play For Gumbo.flac:deb3e6107f431f290cfd6325f2c5bc72
+33 - Scarlett Begonias.flac:8568b70a74d72fb6706f700b39b41720
+34 - Come Monday.flac:18e35eceac8115331c1a05e115ac7302
+35 - One Particular Harbour.flac:1075fc9c78b43eac9932449934af9c88
+36 - Volcano.flac:de770cd732acdf3292c2f6dc70319586
+37 - Pirate Looks At 40.flac:a0910b51a665ac1ba9335828a283454f
+38 - Margaritaville.flac:ed6fa4aa7a76290efb043645ddcea023
+39 - Instrumental.flac:7e316acba60baf4eb6c535ca9b257966
+40 - Clocks - I Left My Heart In San Francisco.flac:d69675ead3a1bcb8234a135389a9f83f
+41 - Lost.flac:7daefb7346d1b7abfd5a5b7bb02b9952
+42 - My Love Will Not Let You Down.flac:08df5cb270c8b5e1ea0ee98bea9d4b82
+43 - Yellow.flac:9b3c2ec501df3be9ebccd031efb55094
+44 - Maple Leaf Rag - Viva La Vida.flac:5f1b4c6f8054c9c081e495c6fab38a47
+45 - Earth Angel.flac:419422e784ae583910b1d0f6ed59c5df
+46 - Spiderwebs.flac:40541e922253bfa049df0df84df7a457
+47 - Underneath It All.flac:b1ed1e553cdf39f18f1e22cd7547b0dc
+48 - Just A Girl.flac:eaf9359f6e6db2778f49363f42c198b5
+49 - Simple Kind Of Life.flac:6839fe0c71b14ae51c4431e9ec1e9370
+50 - Magic's In The Makeup.flac:156e2720c631a60fe65e4678fed1343c
+51 - Don't Speak.flac:024f8dd03601c8f9a41419f07775547f
+52 - It's My Life.flac:703a78a52573b1d2a761efa7cef4248c
+53 - I Am A Child.flac:682e388a6e8425f2f183190ca075e910
+54 - Sugar Mountain.flac:3c8a77884dd4e83e424150e5d8b9c11a
+55 - Out On The Weekend.flac:0fccc2a07bcb2016a2baaf2c132bfe7a
+56 - Already One.flac:6539d88ab980cde2656a396c1b8edb0a
+57 - From Hank To Hendrix.flac:645500778cca16a5f8e0da43cc0d95ae
+58 - Old King.flac:48dd087d591f62b7098e9f002c7e0048
+59 - Harvest Moon.flac:1925a71457b5263b75a364c3ebbfa0df
+60 - Comes A Time.flac:c27fc4d0da23992b469859da00116c02
+
+No errors occured.
+
+
+
+
+d15b02cecc03991b93311c2f66800ee4 *01 - Comes A Time.flac
+8114e98c0e5a159767987a309def7375 *02 - Love Remains The Same.flac
+56a60c77d8c0b310dc1c9e96fe2132e6 *03 - Landslide.flac
+2847a573fb505462cf610f6f9e794161 *04 - Sometimes It Snows In April.flac
+78857c778497d770c6362b45e71551e6 *05 - Come Down.flac
+b15f2a9135739c17903225be48e2d2df *06 - Vagabond.flac
+5510da6b1b73f316004b1460f52233db *07 - Woman.flac
+ff28040a25a63053cd21b42cc873be58 *08 - Cosmic Egg.flac
+277026722a35e80ec89432dcc3634195 *09 - White Feather.flac
+6bde3ebafc5f89c5d518de201886b6ef *10 - Joker & The Thief.flac
+33f8f8ef0b8a4ef226e461cf8c3198de *11 - Blue Ridge Mountains.flac
+dc7779cc5a7a4d2393c49105742fdaf0 *12 - Sun It Rises.flac
+c534a658e8eacd59d3468aaa401f2cf6 *13 - Your Protector.flac
+467a70ae97a1c7e0f2ce378187ea8f7b *14 - Blue Spotted Tail.flac
+2c52a3df2afca9cc201506a8e9cb2573 *15 - White Winter Hymnal.flac
+51f5278e10ef744bf1fb73f975520ecb *16 - He Doesn't Know Why.flac
+b31638435f604431f60c6748247d5b1d *17 - Mykonos.flac
+c4082c9dd7e22e430bdba134e2021273 *18 - Whole Lotta Losin'.flac
+24b8e150174f1d906e68cf0ec544a9c4 *19 - Man Called Truth.flac
+346b8278e0298a51382f4a88b5f82a5d *20 - The Right Place.flac
+12391fa122e7e02bf2699c3486ab23ef *21 - The Sandman, The Brakeman And Me.flac
+c6856b35937015acad43ad12ce83a3d5 *22 - Baby Boomer.flac
+e3b88f2fe86061cfcf9ba8689ad2479a *23 - Another Travelin' Song.flac
+00c451d4e7878289fc78cdc5cbd6952e *24 - His Master's Voice.flac
+31c1d458f3a8f2fd21cfbcea1aad48b8 *25 - Love Is Free.flac
+bcdcdf14dde7d408722b324ad553732f *26 - No One Said It WOuld Be Easy.flac
+2138a770017a61e17eaabfa1b1dee4c7 *27 - Drunk With The Thought Of You.flac
+f10015360f2e548d15a5d8659e4ac04e *28 - You've Got To Hide Your Love Away.flac
+62bccdf28fcd1b63a547d2149e7f91a5 *29 - Lullaby For Wyatt.flac
+ab3942d2c9669d1a5680c14fcfee8e54 *30 - If It Makes You Happy.flac
+4a052c13066fcdfd6b13c3ee2d95c248 *31 - Soak Up The Sun.flac
+f3f19d22a351f9e2aa1d4210121155d2 *32 - I Will Play For Gumbo.flac
+e4b1c67ba9a1628eab58125daffcd64e *33 - Scarlett Begonias.flac
+a73f076248eb6c47dd12d21cbd8fdd36 *34 - Come Monday.flac
+8c26dddc4c2ba4d672afa410616f2137 *35 - One Particular Harbour.flac
+a78f239e3cbdbdcb9fa4e27356316eab *36 - Volcano.flac
+56a498d7e9b96990e70ba5b7fa6812f0 *37 - Pirate Looks At 40.flac
+14e7b6cda4787da9d85aed0277c05b49 *38 - Margaritaville.flac
+b90591b80f2bb3bb9aa16e23b7f680ee *39 - Instrumental.flac
+7d072e252be77f4bf2ac4ad692783270 *40 - Clocks - I Left My Heart In San Francisco.flac
+c9bdbcd674a9d39d20c8ff52fdd93d11 *41 - Lost.flac
+33458b870c110f996ad472b6087e695d *42 - My Love Will Not Let You Down.flac
+f855b57e11fbd43a842baae8dab5797f *43 - Yellow.flac
+6bc428111609edadad917969c5619cae *44 - Maple Leaf Rag - Viva La Vida.flac
+e074fb3fd24986dd458815853ed82e3c *45 - Earth Angel.flac
+8e2a96c0f5f95fa1eef4a4a518d50b3a *46 - Spiderwebs.flac
+e68f49d1b106e74daa150f889f586faa *47 - Underneath It All.flac
+e733e8c865b43021a95714dabf4669ec *48 - Just A Girl.flac
+c797f3ec596fbaeb46a4936c67737411 *49 - Simple Kind Of Life.flac
+2d48252e10c07cf68a4506e73757edaa *50 - Magic's In The Makeup.flac
+d0e0d388c514716fe363792b909b3054 *51 - Don't Speak.flac
+3e7d9f61ad484c50b54a294d144468ab *52 - It's My Life.flac
+7f626b5540b5db2728dcb5a6e54de6e1 *53 - I Am A Child.flac
+71f406523cd2044830f86539e76ed116 *54 - Sugar Mountain.flac
+bf55e535b5e4c8a226a0b882def1c276 *55 - Out On The Weekend.flac
+8c1f20206ed9c039ed01a185ac30ca49 *56 - Already One.flac
+8556efbd49442c0c27484d6be18c588c *57 - From Hank To Hendrix.flac
+6956753fa58d83ed4f27d29c7010de11 *58 - Old King.flac
+d5ff904081a66f411a3cc978e6af6f58 *59 - Harvest Moon.flac
+1a1f073e194749442357b42721e5f712 *60 - Comes A Time.flac
+
+No errors occured.
+
+
+
+
+efacced530b8676482b54c2e3b17a6e2  [shntool]  01 - Comes A Time.flac
+5dcf9d96a108274c3d16b204841531cf  [shntool]  02 - Love Remains The Same.flac
+435696ce018750e040e545b8d48da186  [shntool]  03 - Landslide.flac
+b9ef67b95119b0f86ea9c84d371a1cdf  [shntool]  04 - Sometimes It Snows In April.flac
+8afef4005956fd4be57d944fbed18171  [shntool]  05 - Come Down.flac
+94fb3c5e1a5197ac56d7c739ebdeb037  [shntool]  06 - Vagabond.flac
+6146aee4c3660510cef0192a5398205e  [shntool]  07 - Woman.flac
+9edc4950f0da43b27583dac84d40f457  [shntool]  08 - Cosmic Egg.flac
+2f5c71079984ad37212263cdd0f187d7  [shntool]  09 - White Feather.flac
+285e09c74ead750cac0f7895a41c1b2f  [shntool]  10 - Joker & The Thief.flac
+59455955823634c2dc8b394348d61c33  [shntool]  11 - Blue Ridge Mountains.flac
+8f699009062f5cc9508f5913416c1611  [shntool]  12 - Sun It Rises.flac
+d3398f54a71780003948c54e27878af4  [shntool]  13 - Your Protector.flac
+72968e119d5acb9ad4da1572a55cc769  [shntool]  14 - Blue Spotted Tail.flac
+42e5ad6f46d049aac7da3172becd0f01  [shntool]  15 - White Winter Hymnal.flac
+ade04073c45c81a0f6d06b8bc043cd39  [shntool]  16 - He Doesn't Know Why.flac
+8d9426085917b29351a2d2cd0c668390  [shntool]  17 - Mykonos.flac
+e67385d700a74bfdbba8ef917fe0b1d9  [shntool]  18 - Whole Lotta Losin'.flac
+7f6d17c4bfd4dc99d30926a9019f2455  [shntool]  19 - Man Called Truth.flac
+96938078f61a4e9a8c4089841c8d32d8  [shntool]  20 - The Right Place.flac
+a7b359af3d5df6b9b8c27ce4b7b60c20  [shntool]  21 - The Sandman, The Brakeman And Me.flac
+158b285832a21432dd99990d39e5cea9  [shntool]  22 - Baby Boomer.flac
+55b59e088ff0c78c171621b1e41b8f59  [shntool]  23 - Another Travelin' Song.flac
+b8cc5feecead473d31666210fbb47255  [shntool]  24 - His Master's Voice.flac
+166572a5c82737460088b97b4ba29682  [shntool]  25 - Love Is Free.flac
+25c78017f03aba4bbdb30c5f8dd6fd96  [shntool]  26 - No One Said It WOuld Be Easy.flac
+d3aed3bcb2d1b350455dca3eb168c6a1  [shntool]  27 - Drunk With The Thought Of You.flac
+92d2e9893ee2e45804c06024152e6ae2  [shntool]  28 - You've Got To Hide Your Love Away.flac
+6cbcb41d815920b9e068fc33c2bb0e0c  [shntool]  29 - Lullaby For Wyatt.flac
+11297abfaef98ce5861492e8e317c586  [shntool]  30 - If It Makes You Happy.flac
+9b1cfa14ee761539dee429f80ee6a6f6  [shntool]  31 - Soak Up The Sun.flac
+deb3e6107f431f290cfd6325f2c5bc72  [shntool]  32 - I Will Play For Gumbo.flac
+8568b70a74d72fb6706f700b39b41720  [shntool]  33 - Scarlett Begonias.flac
+18e35eceac8115331c1a05e115ac7302  [shntool]  34 - Come Monday.flac
+1075fc9c78b43eac9932449934af9c88  [shntool]  35 - One Particular Harbour.flac
+de770cd732acdf3292c2f6dc70319586  [shntool]  36 - Volcano.flac
+a0910b51a665ac1ba9335828a283454f  [shntool]  37 - Pirate Looks At 40.flac
+ed6fa4aa7a76290efb043645ddcea023  [shntool]  38 - Margaritaville.flac
+7e316acba60baf4eb6c535ca9b257966  [shntool]  39 - Instrumental.flac
+d69675ead3a1bcb8234a135389a9f83f  [shntool]  40 - Clocks - I Left My Heart In San Francisco.flac
+7daefb7346d1b7abfd5a5b7bb02b9952  [shntool]  41 - Lost.flac
+08df5cb270c8b5e1ea0ee98bea9d4b82  [shntool]  42 - My Love Will Not Let You Down.flac
+9b3c2ec501df3be9ebccd031efb55094  [shntool]  43 - Yellow.flac
+5f1b4c6f8054c9c081e495c6fab38a47  [shntool]  44 - Maple Leaf Rag - Viva La Vida.flac
+419422e784ae583910b1d0f6ed59c5df  [shntool]  45 - Earth Angel.flac
+40541e922253bfa049df0df84df7a457  [shntool]  46 - Spiderwebs.flac
+b1ed1e553cdf39f18f1e22cd7547b0dc  [shntool]  47 - Underneath It All.flac
+eaf9359f6e6db2778f49363f42c198b5  [shntool]  48 - Just A Girl.flac
+6839fe0c71b14ae51c4431e9ec1e9370  [shntool]  49 - Simple Kind Of Life.flac
+156e2720c631a60fe65e4678fed1343c  [shntool]  50 - Magic's In The Makeup.flac
+024f8dd03601c8f9a41419f07775547f  [shntool]  51 - Don't Speak.flac
+703a78a52573b1d2a761efa7cef4248c  [shntool]  52 - It's My Life.flac
+682e388a6e8425f2f183190ca075e910  [shntool]  53 - I Am A Child.flac
+3c8a77884dd4e83e424150e5d8b9c11a  [shntool]  54 - Sugar Mountain.flac
+0fccc2a07bcb2016a2baaf2c132bfe7a  [shntool]  55 - Out On The Weekend.flac
+6539d88ab980cde2656a396c1b8edb0a  [shntool]  56 - Already One.flac
+645500778cca16a5f8e0da43cc0d95ae  [shntool]  57 - From Hank To Hendrix.flac
+48dd087d591f62b7098e9f002c7e0048  [shntool]  58 - Old King.flac
+1925a71457b5263b75a364c3ebbfa0df  [shntool]  59 - Harvest Moon.flac
+c27fc4d0da23992b469859da00116c02  [shntool]  60 - Comes A Time.flac
+
+No errors occured.

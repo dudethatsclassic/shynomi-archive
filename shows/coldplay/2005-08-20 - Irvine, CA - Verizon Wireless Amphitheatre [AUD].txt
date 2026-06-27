@@ -1,0 +1,60 @@
+Coldplay
+August 20, 2005
+Irvine, CA
+Verizon Wireless Amphitheater
+
+
+Source: 	Sound Professional AT933 Hyper Cardioids > 
+		Sound Pro Battery Box (Roll off @ 107Hz) > 
+		Sony PCM-M1 (@ 44.1khz)
+
+Location:	Loge 6 Row RR
+
+Transfer:	Sony PCM-M1 >
+		Core-Sounds 7 Pin to Coax >
+		Zoltrix Nightingale Pro 6 >
+		Cool Edit (Equal out left and right and fades) >
+		CDWav (for track splitting) >
+		Flac Frontend (FLAC)
+
+Taper: 		chrisedge@yahoo.com
+	
+
+
+****************************************************************
+I DON'T CARE WHAT YOU DO WITH THIS RECORDING.
+MP3, FTP SERVER, DC, WEB, REMASTER, WHATEVER, 
+I CAN'T STOP YOU ANYWAYS!
+****************************************************************
+
+Disc One:
+
+01. 'Intro'
+02. Square One
+03. Politik
+04. Yellow
+05. God Put A Smile Upon Your Face
+06. Speed Of Sound
+07. Low
+08. A Rush Of Blood To The Head
+09. Everything's Not Lost
+10. White Shadows
+
+
+Disc Two:
+
+01. The Scientist
+02. 'Fans and Johnny Cash'
+03. Til Kingdom Come
+04. Ring Of Fire
+05. Don't Panic
+06. Clocks
+07. Talk
+Encore
+08. Swallowed In The Sea
+09. In My Place
+10. Fix You
+11. 'Outro'
+
+
+Screamers Suck

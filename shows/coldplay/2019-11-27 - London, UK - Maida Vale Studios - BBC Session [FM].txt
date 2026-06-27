@@ -1,0 +1,49 @@
+Coldplay
+BBC Session (for Annie Mac show)
+Maida Vale Studios
+London
+U.K.
+2019-11-27
+
+https://www.bbc.co.uk/programmes/m000bnfy
+
+https://ichef.bbci.co.uk/images/ic/640x360/p07w8x6y.jpg
+
+also:
+http://ichef.bbci.co.uk/images/ic/128x72/p07w8x6y.jpg
+http://ichef.bbci.co.uk/images/ic/144x81/p07w8x6y.jpg
+http://ichef.bbci.co.uk/images/ic/192x108/p07w8x6y.jpg
+http://ichef.bbci.co.uk/images/ic/256x144/p07w8x6y.jpg
+http://ichef.bbci.co.uk/images/ic/384x216/p07w8x6y.jpg
+http://ichef.bbci.co.uk/images/ic/480x270/p07w8x6y.jpg
+http://ichef.bbci.co.uk/images/ic/624x351/p07w8x6y.jpg
+http://ichef.bbci.co.uk/images/ic/608x342/p07w8x6y.jpg
+http://ichef.bbci.co.uk/images/ic/640x360/p07w8x6y.jpg
+http://ichef.bbci.co.uk/images/ic/864x486/p07w8x6y.jpg
+http://ichef.bbci.co.uk/images/ic/944x531/p07w8x6y.jpg
+http://ichef.bbci.co.uk/images/ic/976x549/p07w8x6y.jpg
+http://ichef.bbci.co.uk/images/ic/1024x576/p07w8x6y.jpg
+http://ichef.bbci.co.uk/images/ic/1280x720/p07w8x6y.jpg
+http://ichef.bbci.co.uk/images/ic/1632x918/p07w8x6y.jpg
+http://ichef.bbci.co.uk/images/ic/1920x1080/p07w8x6y.jpg
+etc ...
+
+Digital Satellite broadcast 2019-11-27 MPEG1 layer 2 48kHz @ 192kbps:
+BBC Radio 1 > DVB-S > TBS 6984 > DVBviewer > .mp2 >
+Mpeg2Schnitt (trimming) > .mp2. Tags added with Mp3tag.
+
+  1. Introduction
+  2. Guns
+  3. Orphans
+  4. Daddy
+  5. Interview
+  6. Lovers In Japan
+  7. Arabesque
+  8. Interview
+  9. Gypsy Woman (She's Homeless)
+ 10. Everyday Life
+ 11. Closing comments
+Total Time : [35:01]
+
+https://www.coldplay.com/
+

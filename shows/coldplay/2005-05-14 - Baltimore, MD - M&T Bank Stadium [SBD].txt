@@ -1,0 +1,24 @@
+COLDPLAY
+May 14, 2005
+M&T Bank Stadium
+Baltimore, MD
+
+Source: Soundboard > ? > closed-circuit TV > Sony TCD-D8
+Taper: Jeff Sebastianelli
+Lineage: DAT(M) > WAV [32] > WAV [44.1] > FLAC
+Transfer: Sony PCM-R500 > M-Audio Audiophile 192 > Sound Forge
+Edits/EQ: dual-mono (right channel pasted x2), RX7 Music Rebalance (Vocal -1.0, Bass 1.0)
+Notes: WHFStival "Main Stage"
+
+01 - intro
+02 - Square One
+03 - Politik
+04 - Yellow
+05 - White Shadows
+06 - Clocks
+07 - talk
+08 - Fix You
+09 - In My Place
+
+
+Compiled June 2019 by CPS

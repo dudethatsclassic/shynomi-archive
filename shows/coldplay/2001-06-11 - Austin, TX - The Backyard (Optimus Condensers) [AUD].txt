@@ -1,0 +1,31 @@
+Coldplay
+The Backyard - Austin, Texas
+June 11 2001
+
+dAUD FOB (MASTER) -- Optimus Condensers (AB Stereo) > D8 (44.1, auto levels)
+ 
+· recording: Optimus Condensers (AB Stereo) > Sony D8 (44.1, auto levels)
+
+· mastering: Sony DTC-790 (toslink) > Hosa Optical to SPDIF converter (SPDIF) > Opcode SonicPort (USB) > CoolEdit Pro (light EQ, normalizing)  > CD Architect > mkwACT > SHN
+
+Taper: David Cox [protool_98@yahoo.com]
+
+Tracklist:
+
+01:	Shiver						-	05:41.48
+02:	Animal						-	05:54.05
+03:	Don't Panic					-	02:21.07
+04:	Spies						-	05:53.15
+05:	Murder						-	04:33.52
+06:	Everything's Not Lost				-	05:15.74
+07:	We Never Change					-	04:57.25
+08:	God Put A Smile Upon Your Face			-	05:09.73
+09:	Yellow						-	05:25.55
+10:	A Rush Of Blood To The Head			-	05:47.73
+11:	See You Soon					-	03:17.57
+12:	break ["the concert is not over yet"]		-	01:25.17
+13:	Trouble						-	04:52.64
+14:	In My Place					-	05:08.05
+15:	Lost Highway [Hank Williams cover]		-	03:13.13
+
+Total:							-	68:57.58

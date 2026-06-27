@@ -1,0 +1,80 @@
+Coldplay
+February 8th, 2003
+"Pratt Private Reserve"
+
+Martini Ranch
+
+Scottsdale, AZ
+
+
+
+Source: preFM > ? > CDR(0) > EAC > CDWav > CDR(1)
+
+CD > WAV: EAC v0.9 beta 4 > WAV
+
+WAV > SHN: WAV > Amadeus II 3.5.4 (split/edit) > Shorten 3.5 > Shntool 1.2 > SHN (Converted 04.01.2003) 
+
+
+01 Intro
+02 In My Place
+03 Don't Panic
+04 Green Eyes
+05 Warning Sign (false start)
+06 Warning Sign
+07 Yellow
+08 DJ talk/interview with Chris
+09 The Scientist
+10 DJ/Chris talking
+11 Shiver
+12 Outro
+
+
+
+Notes:  
+
+
+
+~ This a complete preFM sourced version of this show.  
+
+  It is not the part that was broadcasted on the radio.
+
+
+
+More Notes:
+
+
+
+~ Chris and Jon played a 7-song acoustic set and did interviews for a small audience of radio station contest winners at the Martini Ranch nightclub in Scottsdale, AZ. Hosted by 101.5 KZON disc jockey Dave Pratt. The radio station broadcasted 4 tracks (Green Eyes, Yellow, Shiver, In My Place) on 02-10.
+
+
+Added by Lynne 2008-04-06:
+
+shntool len:
+    length     expanded size   cdr  WAVE problems filename
+     5:18.34       56175212    ---   --   ---xx   coldplay2003-02-08t01.shn
+     4:05.72       43387388    ---   --   ---xx   coldplay2003-02-08t02.shn
+     3:47.04       40052252    ---   --   ---xx   coldplay2003-02-08t03.shn
+     5:12.22       55088588    ---   --   ---xx   coldplay2003-02-08t04.shn
+     1:22.34       14544812    ---   --   ---xx   coldplay2003-02-08t05.shn
+     6:18.60       66820364    ---   --   ---xx   coldplay2003-02-08t06.shn
+     4:32.66       48136076    ---   --   ---xx   coldplay2003-02-08t07.shn
+     4:46.30       50521004    ---   --   ---xx   coldplay2003-02-08t08.shn
+     6:38.14       70240172    ---   --   ---xx   coldplay2003-02-08t09.shn
+     2:52.20       30387884    ---   --   ---xx   coldplay2003-02-08t10.shn
+     4:55.11       52063916    ---   --   ---xx   coldplay2003-02-08t11.shn
+     0:28.42        5038028    ---   --   ---xx   coldplay2003-02-08t12.shn
+    50:18.34      532455696 B                     (totals for 12 files, 0.4999 overall compression ratio)
+    
+shntool md5s:
+8e4f0c4cb2decf0c9cf57142dc84bcfd  [shntool]  coldplay2003-02-08t01.shn
+bd6c87c998eb6fb276528b1e4a3430f2  [shntool]  coldplay2003-02-08t02.shn
+3d224436814073c8efdda21ef71a1664  [shntool]  coldplay2003-02-08t03.shn
+9ec46731389061217954de0ad12a48bc  [shntool]  coldplay2003-02-08t04.shn
+0e7559ee378f26aa7d4e3a60e12431be  [shntool]  coldplay2003-02-08t05.shn
+910d0d165f4c39c2516bb35187726fb2  [shntool]  coldplay2003-02-08t06.shn
+c2c837c082bbb139bd4169ce22946e37  [shntool]  coldplay2003-02-08t07.shn
+459f8b84939b42a149029639fb549abd  [shntool]  coldplay2003-02-08t08.shn
+b3f50ff4feeea59d5b0cadbcfe8b41b8  [shntool]  coldplay2003-02-08t09.shn
+03323e052585ca42bb03b768655e3769  [shntool]  coldplay2003-02-08t10.shn
+4dc47167763dfaf9763ae3395e4dc471  [shntool]  coldplay2003-02-08t11.shn
+ac3f770f083157f46debf6ea529f5015  [shntool]  coldplay2003-02-08t12.shn

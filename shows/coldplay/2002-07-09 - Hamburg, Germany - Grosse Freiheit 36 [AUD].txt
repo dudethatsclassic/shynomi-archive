@@ -1,0 +1,44 @@
+COLDPLAY
+2002-07-09
+Grosse Freiheit 36
+Hamburg, Germany
+
+
+source: 	Core Sound Binaurals > Sony SBM-1 > Sony TCD-D100
+		(2-3m from right PA stack)
+
+dat -> shn:	Sony PCM-R300 > coax cable (custom made) > DiO 2448 
+		> Cool Edit Pro v1.2a > T-Racks 24 v2.0 
+		> CDWave v1.6 > mkw ACT 0.97 > shn
+
+genealogy:	aud>dat-m>dEdit>shn
+
+tracklist:	--CD1--
+		 1. Politik
+		 2. Shiver
+		 3. Spies
+		 4. Daylight
+		 5. Trouble
+		 6. One I Love	
+		 7. Don't Panic
+		 8. Everything's Not Lost
+		 9. See You Soon
+		10. God Put a Smile upon Your Face
+		11. Yellow
+		12. The Scientist
+
+		--CD2--
+		-encore #1-
+		 1. Clocks
+		 2. In My Place
+		 3. Life Is For Living
+		-encore #2-
+		 4. Hunting High and Low [by A-HA; Chris Martin solo]
+		-encore #3-
+		 5. Lips Like Sugar [by Ian McCulloch/Echo & The Bunnymen] 
+
+
+notes:		THIS RECORDING IS NOT FOR SALE!!!
+		FEEL FREE TO TRADE.
+		DO NOT ENCODE TO MP3!
+		DO NOT POST TO PUBLIC FTP!

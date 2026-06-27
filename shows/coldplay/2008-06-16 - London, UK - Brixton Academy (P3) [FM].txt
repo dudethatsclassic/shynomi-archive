@@ -1,0 +1,61 @@
+COLDPLAY
+June 16, 2008
+Brixton Academy
+London, United Kingdom
+
+SOURCE (SBD):
+soundboard > unknown (FM)
+
+TRANSFER:
+Cable FM > Leadtek WinFast TV 2000XP Expert PCI > RealTek HD Audio in > Adobe Audition 2.0 > CD Wave 1.96.1 > FLAC Frontend 1.7.1
+
+GENERATION:
+FM > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+67:27
+
+NOTES:
+- Sveriges Radio P3 LIVE broadcast on June 25, 2008.
+- Cut between 'Death Will Never Conquer' and 'Fix You' to remove house music containing official material.
+
+TRACKS:
+01. Life In Technicolor
+02. Violet Hill
+03. Clocks
+04. In My Place
+05. Viva La Vida
+06. Chinese Sleep Chant
+07. God Put A Smile
+08. 42
+09. Square One
+10. Trouble
+11. Lost!
+12. Strawberry Swing
+13. Yellow
+14. Death Will Never Conquer
+15. Fix You
+16. Lovers in Japan
+
+MD5 FINGERPRINTS:
+1b578c43e5415860571409c3252a3599 *coldplay2008-06-16t01.flac
+7f00f0a5ddc0804849634284e5701a0a *coldplay2008-06-16t02.flac
+9e234db2290c290826a8173060c46f65 *coldplay2008-06-16t03.flac
+dea36e344165a844964e9f0a3392c272 *coldplay2008-06-16t04.flac
+2eb522f780cfb82b54e4f804d339d4a0 *coldplay2008-06-16t05.flac
+70a55a49dee9613a2e215f9cf80389a0 *coldplay2008-06-16t06.flac
+dd7506ba07f606700b9159ad344ffdc3 *coldplay2008-06-16t07.flac
+3306a5c53d90174c8e00d7d36b233552 *coldplay2008-06-16t08.flac
+42d62c5c60f5ae9f31271febdb40e400 *coldplay2008-06-16t09.flac
+03c8b267161102da2712072fa762d236 *coldplay2008-06-16t10.flac
+36c55ba86538fa42e7e80954484d438d *coldplay2008-06-16t11.flac
+57b3ac5062c2f2f4422a018bed7adc20 *coldplay2008-06-16t12.flac
+9cfb58ebe7833f0aff48ebd5ed5012e8 *coldplay2008-06-16t13.flac
+4a1bd8d6cd5f416afed9f7fc58070b24 *coldplay2008-06-16t14.flac
+e56d6cbbacbceb313527478db1ece6a1 *coldplay2008-06-16t15.flac
+bf0ec3bea1e49e2fd864ac5eaa862402 *coldplay2008-06-16t16.flac
+
+RECORDED & TORRENTED BY:
+Miki Johansen
+
+***PLEASE DO NOT SELL OR ENCODE TO MP3***

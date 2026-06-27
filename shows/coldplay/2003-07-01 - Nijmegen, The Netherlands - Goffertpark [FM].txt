@@ -1,0 +1,35 @@
+Coldplay
+Nijmegen, The Netherlands
+Goffertpark
+2003-07-01
+
+Broadcast: 01-07-2003 (live) on Dutch radio station '3FM'
+Recorded by: Martijn Middel (mrmiddel@home.nl)
+
+Source/conversion: FM > Creative SB Live! > Cool Edit Pro 2 > .wav > mkw Audio Compression Tool 0.97 Beta 1 > .shn
+
+
+Track listing:
+
+01. A Rush Of Blood To The Head*          1:43
+02. One I Love                            5:26
+03. Trouble                               4:46
+04. God Put A Smile Upon Your Face        5:17
+05. Everything's Not Lost                 8:27
+06. Yellow                                5:37
+07. The Scientist                         5:05
+08. Clocks                                5:54
+09. In My Place                           4:02
+10. encore break with dj talk             0:49
+11. Amsterdam                             5:14
+12. What A Wonderful World (cover)*       1:51
+13. Giel Beelen interviewing Chris Martin 4:40
+ 
+* Track 01: with radio-introduction
+* Track 12: with radio-outro
+
+Notes: Rating is a 9 out of 10
+---
+- Filtered out sound above 15.10kHz
+
+- Boosted some bass and treble frequencies

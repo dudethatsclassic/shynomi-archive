@@ -1,0 +1,24 @@
+Coldplay
+2001-02-09
+Showbox Theater
+Seattle, WA
+
+Taper: Steve Robinson
+Source: SS DSM6S > PA-6LC > D8
+Conversion: D8 > Hoontech Digital > Samplitude > CDR(0) > EAC > SHN
+
+
+Track 01: Intro	-> Spies					07:25
+Track 02: Trouble						04:47
+Track 03: Shiver						05:44
+Track 04: High Speed						04:59
+Track 05: Don't Panic						03:28
+Track 06: Animals						05:27
+Track 07: Sparks						05:26
+Track 08: Yellow						05:03
+Track 09: Everything's Not Lost					05:46
+Track 10: In My Place						06:01
+Track 11: You Only Live Twice					05:47
+Track 12: What The World Needs Now Is Love [Bacharach / David]	01:36
+---------------------------------------------------------------------
+Total Length:   						61:29

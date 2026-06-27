@@ -1,0 +1,72 @@
+Coldplay
+2001-11-26
+fm
+
+01 - Shiver (False Starts) 
+02 - Dont Panic
+03 - Trouble
+04 - Yellow
+05 - Lost Highway
+
+
+EAC extraction logfile from 24. January 2004, 2:54 for CD
+Coldplay2001-11-26fmt / Unknown Title
+
+Used drive  : AOPEN   CD-RW CRW5232   Adapter: 1  ID: 0
+Read mode   : Secure with NO C2, accurate stream, disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+   Filename D:\SHN\Coldplay2001-11-26fmt01.wav
+
+   Peak level 98.0 %
+   Track quality 99.9 %
+   Copy CRC 1C726B45
+   Copy OK
+
+Track  2
+   Filename D:\SHN\Coldplay2001-11-26fmt02.wav
+
+   Peak level 94.3 %
+   Track quality 100.0 %
+   Copy CRC EB93B5E9
+   Copy OK
+
+Track  3
+   Filename D:\SHN\Coldplay2001-11-26fmt03.wav
+
+   Peak level 100.0 %
+   Track quality 99.9 %
+   Copy CRC 6EB548EC
+   Copy OK
+
+Track  4
+   Filename D:\SHN\Coldplay2001-11-26fmt04.wav
+
+   Peak level 96.7 %
+   Track quality 100.0 %
+   Copy CRC E4568887
+   Copy OK
+
+Track  5
+   Filename D:\SHN\Coldplay2001-11-26fmt05.wav
+
+   Peak level 93.9 %
+   Track quality 100.0 %
+   Copy CRC FCEE879C
+   Copy OK
+
+No errors occured
+
+
+End of status report

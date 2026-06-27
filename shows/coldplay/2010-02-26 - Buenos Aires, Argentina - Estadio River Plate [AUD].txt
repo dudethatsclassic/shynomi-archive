@@ -1,0 +1,43 @@
+Artist	 :	Coldplay
+Venue    :	Estadio River Plate - Buenos Aires, Argentina
+Date     :	26 Feb 2010
+Type     :  AUD from the first rows :)
+Equipment:	SP-CMC-8 + windscreens AT8109 -> SP-SPSB-10 -> Edirol R-09HR
+Details  :  WAV 24-bit/96kHz, AGC: OFF, LOW CUT: OFF, MIC GAIN: LOW
+Lineage  :  Edirol R-09HR -> MacbookPro (Wav)-> WaveEditor/Ozone4 -> MP3
+Taper	 :  RolandX
+
+SetList  :
+
+1. Life In Technicolor 
+2. Violet Hill 
+3. Clocks 
+4. In My Place 
+5. Yellow 
+6. Glass of Water 
+7. Cemeteries of London 
+8. 42 
+9. Fix You 
+10. Strawberry Swing 
+11. God Put A Smile Upon Your Face 
+12. Talk 
+13. The Hardest Part 
+14. Postcards From Far Away 
+15. Viva La Vida 
+16. Lost 
+17. Death Will Never Conquer 
+18. Billie Jean (Michael Jackson cover) 
+19. Don Quixote 
+20. Viva La Vida (Remix) 
+21. Politik 
+22. Lovers In Japan 
+23. Death And All His Friends 
+24. Encore:
+25. The Scientist 
+26. Life In Technicolor ii 
+27. The Escapist 
+
+
+Notes:
+
+And finally.. after more than 10 years of wait.. I were able to see them live (I had to travel to Argentina for this :D) one of the best days of my life :). Some close clapping, talk and screams here and there.

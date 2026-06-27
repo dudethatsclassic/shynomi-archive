@@ -1,0 +1,50 @@
+Coldplay
+June 11, 2016
+Letzigrund Stadion
+Zurich, Switzerland
+A HEAD FULL OF DREAMS TOUR
+Source: Live radio broadcast on SRF3 Swiss Radio, 11 June 2016
+
+Lineage: Digital satellite radio (Astra 2B) -> PCI DVB Card -> HD (MPEG-2 TS)
+
+
+Format: 192kbps/48KHz Stereo MP2 (original broadcast bitstream)
+
+Running Time: 119m 38s
+
+
+MP2 transcoded to WAV using mkwACT 
+WAV files tracked using Audition CC 2015
+Wav -> Flac (level 6) using traders little helper 
+
+Setlist:
+
+01 - SRF3 Radio DJ Intro
+02 - A Head Full Of Dreams
+03 - Yellow
+04 - Every Teardrop Is A Waterfall
+05 - The Scientist
+06 - Birds
+07 - Paradise
+08 - Paradise (Remix)
+09 - Magic
+10 - Ink
+11 - Everglow
+12 - Clocks
+13 - Midnight (Intermission)
+14 - Charlie Brown
+15 - Hymn For The Weekend
+16 - Fix You
+17 - Heroes (David Bowie cover)
+18 - Viva La Vida
+19 - Adventure Of A Lifetime
+20 - Kaleidoscope
+21 - In My Place
+22 - Strawberry Swing
+23 - See You Soon
+24 - Amazing Day
+25 - A Sky Full of Stars
+26 - Up&Up
+
+Notes: Please share this recording freely, DO NOT SELL UNDER ANY CIRCUMSTANCE, 
+Do not encode to lossy format.

@@ -1,0 +1,43 @@
+COLDPLAY
+November 29, 2005
+Palais Omnisports Paris-Bercy
+Paris, France
+
+Taper: Zinc
+Source: Mini-Disc Sony MZ-NH700(Hi-SP mode) (AUD #1)
+Location: Right side, in front of the scene, about 10 meters in front of the soundboard
+Lineage: MD > WAV > FLAC > edited in Audacity > WAVs split in CDWAV > FLAC(8)
+Quality: 8.0
+Time: 95:07
+
+Setlist: 
+01. Square One
+02. Politik
+03. Yellow
+04. Speed of Sound (false start)
+05. Speed of Sound
+06. God Put A Smile Upon Your Face
+07. Trouble
+08. X & Y
+09. How You See The World No. 2
+10. White Shadows
+11. The Scientist
+12. Till Kingdom Come (acoustic)
+13. Don't Panic (acoustic)
+14. Green Eyes (acoustic)
+15. Clocks
+15. Talk
+17. encore break
+18. Swallowed In The Sea
+19. In My Place
+20. Fix You
+
+Remaster / Audio notes: 
+* Edited out the intro (5 minutes of music over the PA) and outro (1 minute of music over the PA).
+* Added a bit of EQ, normalized the audio, and added a bit of compression to add brightness and depth to the recording. 
+* Edited out mini-gaps between each song, which were left over from the original CD rip of this source. 
+* This is a typical Mini-Disc recording but it's nice.
+
+Show notes: Wonderful show! The setlist is slightly longer than most other shows on this tour, with a full 18 songs and 95 minutes instead of the 16 or 17 songs and 85-90 minutes that were common on this leg.  
+
+Edited and remastered on November 29, 2025 - the 20th anniversary of the show. 

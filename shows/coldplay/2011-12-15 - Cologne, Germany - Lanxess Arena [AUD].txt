@@ -1,0 +1,85 @@
+Contrast Clause (if needed): http://www.dimeadozen.org/torrents-details.php?id=386985
+
+This torrent was upped to replace Metamarc's original upload as some people were unable to decode the files in Traders Little Helper and getting this message: .... flac fingerprint cannot be checked since it was unset in the streaminfo block.  I was also told it would not decode with dBpoweramp correctly.
+
+So Metamarc was kind enough to send me the files, as he was quite busy, and I tested them out and all works well now.  So the new lineage, I think will be:
+
+SP-CMC-25 with SP-EMC-1 Croakie Mount Option > SP-PREAMP - Sound Professionals - Low Noise Gain-Selectable Portable Stereo Preamp (0db gain) > Edirol R-09HR (16 bit, 44.1 kHz) > WAV > equalized with Har-Bal; tweaked with Magix Audio Cleaning Lab 17 > Encoded with Traders Little Helper Flac Level 6 > ffp, md5 > you
+
+So again, big thanks to Metamarc for taping and sharing.  If anyone has any Coldplay shows, please dig them out and share with the world.  Good karma.
+
+Artwork by timmy included.
+
+- Corum
+www.coldplaybootlegs.com
+
+
+
+Original Info:
+
+TORRENT TITLE:
+COLDPLAY - COLOGNE LANXESS ARENA 2011-12-15
+
+ARTIST NAME:
+COLDPLAY
+
+BOOTLEG TITLE:
+HUPFEN, BITTE HUPFEN!
+
+VENUE CITY COUNTRY DATE:
+LANXESS ARENA, COLOGNE, GERMANY, 2011-12-15
+
+TRACK LIST:
+01 INTRO
+02 Mylo Xyloto
+03 Hurts like heaven
+04 Yellow
+05 In my place
+06 Chris Martin speaks
+07 Major Minus
+08 Lost!
+09 The Scientist
+10 Violet Hill
+11 God put a smile upon your face
+12 Up in flames
+13 Shiver
+14 Us against the world
+15 Politik
+16 Viva La Vida
+17 Charlie Brown
+18 Paradise
+19 ENCORE BREAK
+20 Clocks
+21 White Christmas
+(Irving Berlin cover)
+22 Fix you
+23 Every teardrop is a waterfall
+
+LINE UP:
+Guy Berryman – bass guitar, backing vocals
+Jonny Buckland – guitars, backing vocals
+Will Champion – drums, percussion, backing vocals
+Chris Martin – lead vocals, keyboards, guitar
+
+MD CHECKSUM:
+Included
+
+ARTWORK:
+NONE (would love to have some...)
+
+SOURCE:
+Audience Recording / Exc. (-)
+
+TAPER
+METAMARC
+
+LINEAGE:
+SP-CMC-25 with SP-EMC-1 Croakie Mount Option > SP-PREAMP - Sound Professionals - Low Noise Gain-Selectable Portable Stereo Preamp (0db gain) > Edirol R-09HR (16 bit, 44.1 kHz) > WAV to FLAC conversion with AVS Audio Converter - md5 checksum with Traders Little Helper-Torrent file with Maketorrent; equalized with Har-Bal; tweaked with Magix Audio Cleaning Lab 17
+
+NOTES:
+A very nice show (though in my opinion some of the weaker songs from Mylo Xyloto were chosen) and a great enthusiastic crowd in a hall that had a rather bad sound (for which the Lanxess Arena is known for). I did not have the perfect taping spot (Block 204, Row 17, Seat 19) but the recording came out quite nice though not truely excellent.The music may not be as strong as the early years but the live show is still absolutely impressive. So, enjoy the show, relive the moment!
+
+
+If you find this recording enjoyable please support the band and buy their stuff via www.coldplay.com
+
+No mp3's from this upload, never, nowhere!!! Please don't alter the info file in case of uploads to other torrent sites. Give credit to all the tapers out there when uploading their work onto other trackers. Share the gift of music.

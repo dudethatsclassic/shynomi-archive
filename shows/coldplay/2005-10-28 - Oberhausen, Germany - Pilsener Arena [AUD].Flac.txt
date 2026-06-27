@@ -1,0 +1,52 @@
+Coldplay - Twisted Logic Tour 2005
+Oberhausen, Germany. König Pilsener Arena
+Friday October 28, 2005
+
+
+Complete Show: Yes
+DAE in Lineage: No
+
+
+Tracklist:
+
+01 Intro Music
+02 Square One 
+03 Politik
+04 Yellow 
+05 Speed Of Sound
+06 X&Y
+07 God Put A Smile Upon Your Face (with a cover of Rammstein 'America')
+08 How You See The World
+09 White Shadows
+10 The Scientist
+11 'Til Kingdom Come
+12 Ring Of Fire (cover of Jonny Cash) 
+13 Don't Panic (with a short riff of Depeche Mode 'Enjoy the silence') 
+14 Clocks
+15 Talk
+16 Encore Break
+17 Swallowed In The Sea
+18 In My Place
+19 Fix You
+20 Outro
+
+
+History:
+OKMIIR Mics
+-> A3 Adaptor
+-> Archos Gmini 220 (1.13.0 Firmware) (Wav 44.1kHz)
+-> PC (USB)
+-> Cool Edit Pro 2.1 (Fades, normalize and fix (see comment below)
+-> WAV
+-> CD WAVE Editor Track Splitting
+-> WAV
+-> TLH > 
+-> Flac Level 8 (Verified & Tested)
+
+
+Seat Location: Block 203, Row H, Seat 5 
+
+Taper: Robert Brands
+
+
+comment: Unfortunately there were several strange digi noises during the recording which have been fixed in Cool Edit Pro.

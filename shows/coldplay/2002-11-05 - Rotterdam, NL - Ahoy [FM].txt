@@ -1,0 +1,51 @@
+Coldplay
+Netherlands, Rotterdam - Ahoy
+2002/11/05
+
+Length: 79:22 min 
+Quality: Excellent + FM broadcast 
+Size: 576 MB compressed (SHN) 
+Complete Show: No
+DAE in Lineage: No 
+Conversion: macphisto@gmx.de 
+
+
+Tracklist
+
+Disc 1
+
+1. Politik
+2. Shivers
+3. Spies
+4. Daylight
+5. Trouble
+6. One I Love
+7. Don't Panic
+8. Everything's Not Lost
+9. Green Eyes
+10. Mooeie Ellebogen
+11. God Put A Smile Upon Your Face
+12. Yellow
+13. The Scientist
+14. Clocks
+15. In My Place
+16. Live Is For Living 
+
+
+
+History: 
+FM broadcast (Radio1) (cable)
+-> analog Sony DAT DTC-60ES w/ SBM (A>D @ 44.1kHz)
+-> DAT-M
+-> DAT2WAV w/ Sony SDT-9000
+-> Wavelab 3.0 / fades (see comments)
+-> CD WAVE Editor Track splitting
+-> WAV
+-> MKW Audio Compression Tools 0.97b
+-> SHNv3
+
+
+Comments:
+-cut/fade between track 8/9 to cut out DJ talk
+-short diginoise at the beginning of track 12 (was already there during the broadcast)
+

@@ -1,0 +1,80 @@
+Coldplay
+18th December 2000
+Kentish Town Forum
+London, England
+
+SETLIST (67:58)
+-----------------
+01. (intro)
+02. Spies
+03. Trouble
+04. (Chris talking and false start)
+05. High Speed
+06. (Chris talking)
+07. Shiver
+08. Animals
+09. Don't Panic
+10. Bigger Stronger
+11. (Chris talking)
+12. Sparks
+13. Yellow
+14. (Chris talking)
+15. Everything's Not Lost
+16. (encore break -> Chris talking)
+17. We Never Change
+18. In My Place
+19. (Chris talking)
+20. You Only Live Twice
+21. Have Yourself A Merry Little Christmas
+
+GENERATION
+-----------------
+MD(M) -> CDR(0) -> FLAC
+
+SOURCE
+-----------------
+ECM 717 -> Sony MZR55 -> MD(M) -> CDR(0)
+
+TRANSFER
+-----------------
+MD(M) -> Philips CDR630 -> CDR(0)
+
+EDITING
+-----------------
+CDR(0) -> EAC -> WAV -> foobar2000 (single WAV) -> Adobe Audition 2017 (edits/fades/normalise) -> CDWave (splits) -> foobar2000 -> FLAC(8)
+
+NOTES
+-----------------
+Taped by Luzio Coppola.
+Track 20 is a Nancy Sinatra cover.
+Track 21 is a Judy Garland cover.
+Some crowd chatter throughout.
+My edits were: removed 1 min of crowd noise at start; normalized to 98%; re-tracked.
+
+FLAC FINGERPRINTS
+-----------------
+coldplay-2000-dec-18-aud-t01.flac:a94112ee97c6129ea22deedf02800128
+coldplay-2000-dec-18-aud-t02.flac:0b67dd44429a713208dea25f4f99a038
+coldplay-2000-dec-18-aud-t03.flac:1168de47719c1ace4b8e4179b7e57bb5
+coldplay-2000-dec-18-aud-t04.flac:07dbc5b7831d25fa1629569e469a79d3
+coldplay-2000-dec-18-aud-t05.flac:0eb6215a4caabd050ef7efd4bce69617
+coldplay-2000-dec-18-aud-t06.flac:7d3afeddabf4995cf25730d66e5531be
+coldplay-2000-dec-18-aud-t07.flac:40bf6c3123d1672fc28bcedbff8b84ae
+coldplay-2000-dec-18-aud-t08.flac:6303d4855df599e317ed7d6c06935a0e
+coldplay-2000-dec-18-aud-t09.flac:cf1a6e4b14735d2e5b116b1656220621
+coldplay-2000-dec-18-aud-t10.flac:2f8d5a667d1e3f29a2f2b53345f56cf8
+coldplay-2000-dec-18-aud-t11.flac:e6c084ac386dd6220140fa6fb5184aa1
+coldplay-2000-dec-18-aud-t12.flac:7226e9fd7447bb54367f9c96a1bab5c4
+coldplay-2000-dec-18-aud-t13.flac:d63446e22fae3e3e96a65477e083459b
+coldplay-2000-dec-18-aud-t14.flac:ff2f03d664f24c028f902e2802c9481e
+coldplay-2000-dec-18-aud-t15.flac:b512f29fa324a537a9d2b051ee43a71d
+coldplay-2000-dec-18-aud-t16.flac:ee2e15891e4792e41cbe5f0165e092e4
+coldplay-2000-dec-18-aud-t17.flac:ab9d0b7d5f2b6a7d346a1e69d705841f
+coldplay-2000-dec-18-aud-t18.flac:5fa8e3882621946145d6d03293f9a0df
+coldplay-2000-dec-18-aud-t19.flac:158825b3978e6a63b4df1436d255aae9
+coldplay-2000-dec-18-aud-t20.flac:334ad7c57179650283e8102d194f6f16
+coldplay-2000-dec-18-aud-t21.flac:41f38c1a9746184e1c62b032010d7c8e
+
+Edit and remaster by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

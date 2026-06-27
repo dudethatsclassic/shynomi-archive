@@ -1,0 +1,60 @@
+Coldplay
+Tuesday November 18, 2008
+Toyota Center
+Houston, TX
+
+
+Taper: prof_peabody
+Location: section E, row 10, 30 feet right of center
+Source: DPA4023 -> Aerco MP2 -> R-09HR (24/48)
+Transfer: USB -> Wavelab 5 edits (dither with UV22HR) -> CDWAVE -> FLAC
+
+*******************************************************************
+- Do not sell this live recording
+*******************************************************************
+
+Notes:
+
+Original WAVE files were dithered from 24/48 to 16/44.1 using the the UV22HR algorithm.
+
+
+Disc 1
+01. intro ^
+02. Life In Technicolor
+03. Violet Hill
+04. Clocks
+05. In My Place
+06. Speed Of Sound
+07. Cemeteries Of London
+08. Chinese Sleep Chant
+09. 42
+10. Fix You
+11. Strawberry Swing
+12. God Put A Smile Upon Your Face *
+13. Talk *
+14. The Hardest Part > Postcards From Far Away @
+15. Viva La Vida
+16. Lost!
+17. <band walking to back of Toyota Center>
+
+Disc 2
+01. The Scientist #
+02. Death Will Never Conquer #%
+03. Viva La Vida (remix) <band return to mainstage> ^
+04. Politik
+05. Lovers In Japan
+06. Death And All His Friends
+07. <encore break>
+07. Yellow
+08. The Escapist (outro music) ^
+
+
+* Techno version
+@ Chris - solo piano
+# Acoustic
+% Will singing
+^ PA music
+
+Comments:
+
+Some minor drop outs from faulty output jack in track 1.

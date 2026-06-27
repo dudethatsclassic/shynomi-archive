@@ -1,0 +1,76 @@
+Coldplay
+
+11 June 2006
+
+Isle of Wight Festival
+
+Isle of Wight, UK
+
+
+Source: Live radio broadcast on Virgin Radio, 9.24pm-10.50pm, 11 June 2006
+
+Lineage: Digital satellite radio (Astra 2B) -> PCI DVB Card -> HD (MPEG-2 TS)
+
+
+Format: 192kbps/48KHz Stereo MP2 (original broadcast bitstream)
+
+Running Time: 87m 25s
+
+
+MP2 transcoded to WAV using Pazera Audio Extractor 
+WAV files tracked using Nero WAV editor
+Wav -> Flac (level 6) using traders little helper 
+(I cannot attest to the digital quality of these tracks - likely lossy?)
+  But stop being a jackass and enjoy the great music!!!
+
+TRACK LISTING
+
+
+
+01 - [DJ Intro]
+
+02 - Square One
+
+03 - Politik
+
+04 - Yellow
+
+05 - Speed Of Sound
+
+06 - God Put A Smile Upon Your Face
+
+07 - What If?
+
+08 - Don't Panic -> Do The Crouch
+
+09 - White Shadows
+
+10 - The Scientist
+
+11 - [Chat - Crowd Member Of The Year]
+
+12 - Kingdom Come
+
+13 - Perfect Day
+
+14 - Clocks
+
+15 - Talk -> Do The Crouch
+
+16 - [DJ Chat]
+
+
+Encore:
+
+
+17 - Swallowed In The Sea
+
+18 - In My Place
+
+19 - Fix You
+
+20 - [DJ Outtro]
+
+
+
+

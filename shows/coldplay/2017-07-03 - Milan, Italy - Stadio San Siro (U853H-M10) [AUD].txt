@@ -1,0 +1,52 @@
+﻿Artist:         Coldplay
+
+Place:          Milan, IT
+Venue:          Stadio Giuseppe Meazza (S.Siro)
+Date:           July 3, 2017
+                
+Taper:          PaulCayard
+Position:       General admission floor
+Equipment:      Audio Technica U853 (H) > CA-UBB > Sony M10 [24/96]
+Audio Transfer: Adobe Audition CC (clapping attenuation, normalization, resampling [16/48]) >
+                CD Wave Editor 1.98 (track splitting) >
+                Foobar 2000 (Flac conversion) >
+                TagScanner (tags editing) >
+                Trader's Little Helper (Flac test)
+
+Album:          2017-07-03, Live in Milan
+Tracks:         28
+Playtime:       02:05:08
+Size:           595 MB
+Codec:          FLAC
+
+Tracklist:
+01. (Intro - O Mio Babbino Caro) (03:53)
+02. A Head Full of Dreams (04:41)
+03. Yellow (05:56)
+04. Every Teardrop Is a Waterfall (04:03)
+05. The Scientist (06:33)
+06. God Put a Smile Upon Your Face (04:57)
+07. Paradise (07:06)
+08. Always in My Head (03:35)
+09. Magic (05:02)
+10. (Chris' Speech) (02:22)
+11. Everglow (skipped) (00:39)
+12. Everglow (04:46)
+13. Clocks (04:19)
+14. Midnight (01:49)
+15. Charlie Brown (skipped) (02:04)
+16. Charlie Brown (06:04)
+17. Hymn for the Weekend (04:12)
+18. Fix You (05:55)
+19. Viva la Vida (04:10)
+20. Adventure of a Lifetime (04:44)
+21. (Break - Kaleidoscope) (04:24)
+22. In My Place (04:32)
+23. Don't Panic (02:33)
+24. Us Against the World (06:25)
+25. Something Just Like This (04:04)
+26. A Sky Full of Stars (05:15)
+27. Up&Up (08:22)
+28. (Exit) (02:31)
+
+PaulCayard // July 9, 2017 // Turin, IT

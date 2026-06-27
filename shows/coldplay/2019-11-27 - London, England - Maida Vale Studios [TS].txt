@@ -1,0 +1,86 @@
+Coldplay
+Radio 1's Future Sounds with Annie Mac
+Maida Vale Studios
+London, England
+November 27, 2019
+
+Lineage: BBC iPlayer Webcast -> Livestreamer -> uncompressed .ts
+Video: MPEG4 Video (H264) 1280x720 16:9 5230 Kbps 50.00 fps
+Audio: AAC 128 Kbps 48.0 KHz stereo
+
+Coldplay and some special guests perform a 'Everyday Life' promo set at Maida Vale Studios for BBC Radio 1's Annie Mac.
+
+Setlist:
+-introduction by Annie Mac-
+Guns
+Orphans
+Daddy 
+-Q&A with Annie Mac-
+Lovers in Japan (acoustic with string section)
+Arabesque (with Femi Kuti)
+-Q&A with Annie Mac-
+Gypsy Woman (She's Homeless) (Crystal Waters cover)
+Everyday Life
+
+TRT = 00:34:51
+
+Note: This is a perfect capture of a perfect webcast.
+No imperfections were inherent in the broadcast.
+
+Captured and uploaded to DIME by indykid.
+
+MediaInfo:
+General
+ID                                       : 16727 (0x4157)
+Complete name                            : Coldplay - 2019-11-27 Maida Vale Studios, London, England [720p50].ts
+Format                                   : MPEG-TS
+File size                                : 1.31 GiB
+Duration                                 : 34 min 51 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 5 359 kb/s
+
+Video
+ID                                       : 33 (0x21)
+Menu ID                                  : 16727 (0x4157)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.2
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, RefFrames               : 4 frames
+Codec ID                                 : 27
+Duration                                 : 34 min 52 s
+Maximum bit rate                         : 5 070 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 34 (0x22)
+Menu ID                                  : 16727 (0x4157)
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Format version                           : Version 4
+Muxing mode                              : ADTS
+Codec ID                                 : 15-2
+Duration                                 : 34 min 51 s
+Bit rate mode                            : Variable
+Maximum bit rate                         : 128 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : -20 ms
+Language                                 : English
+
+Captured and uploaded to DIME by indykid.

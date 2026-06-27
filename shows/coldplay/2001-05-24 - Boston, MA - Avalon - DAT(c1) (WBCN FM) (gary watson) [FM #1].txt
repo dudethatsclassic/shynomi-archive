@@ -1,0 +1,74 @@
+Coldplay
+24th May 2001
+Avalon
+Boston, MA
+
+SETLIST (70:17)
+---------------
+01. Animals
+02. Shiver
+03. Spies
+04. (Chris talking)
+05. Don't Panic
+06. High Speed
+07. (Chris talking)
+08. Murder
+09. (Chris talking)
+10. Everything's Not Lost
+11. We Never Change
+12. Yellow
+13. God Put A Smile Upon Your Face
+14. A Rush Of Blood To The Head
+15. (encore break)
+16. Trouble
+17. In My Place
+18. (Chris talking)
+19. See You Soon
+
+GENERATION
+---------------
+DAT(C1) -> FLAC
+
+SOURCE (FM #1)
+-----------------
+WBCN FM -> unknown FM receiver -> Sony DTC-690 -> DAT(M) -> optical -> Sony DTC-60ES -> DAT(C1)
+
+TRANSFER
+-----------------
+DAT(C1) -> Tascam DA-20 MkII -> Tendak coax/TOSlink digital converter -> Maya44 eX PCIe audio interface ->
+-> WAV (44kHz/16bit) -> Adobe Audition 2021 (capture/fades/normalise) -> CDWave (splits) -> foobar2000 -> FLAC(8)
+
+NOTES
+-----------------
+This was recorded from a slightly "crunchy" but still great-sounding FM signal.
+This is from the 1st July 2001 rebroadcast, received in a trade shortly after.
+A couple of spots of digi-noise during track 06.
+Swearing has been "mixed" out by the radio station.
+An edit that removed a DJ ID was poorly done, so I've mix-faded it out during track 09.  No music was lost.
+Another edit at the beginning of track 13 was unfortunately missing the first couple of notes of the song, I've applied another mix-fade.
+
+FLAC FINGERPRINTS
+-----------------
+coldplay-2001-may-24-fm-t01.flac:166571e80cb4817afcb3f477051886ed
+coldplay-2001-may-24-fm-t02.flac:2bc39f2ae1da179d84ee89819e296d82
+coldplay-2001-may-24-fm-t03.flac:624c7249bbfd9194560ae5f1d725ebad
+coldplay-2001-may-24-fm-t04.flac:525468f20c181a2953d668fbca501320
+coldplay-2001-may-24-fm-t05.flac:4d138141508d556d3b32f0b5490f6846
+coldplay-2001-may-24-fm-t06.flac:60e3ded7a1ff0168acff92f0091ba4a7
+coldplay-2001-may-24-fm-t07.flac:26bb6c02bb069eb98855ab8da39b65e7
+coldplay-2001-may-24-fm-t08.flac:3c57f9b94a8a9885bf0b8257ddb0d7c1
+coldplay-2001-may-24-fm-t09.flac:96f05ad6c816329260ceebe6d3b3ca50
+coldplay-2001-may-24-fm-t10.flac:17da47e8cf2b515c9088e3889d517c07
+coldplay-2001-may-24-fm-t11.flac:6de1727f7d60f5ab034c52aae062aead
+coldplay-2001-may-24-fm-t12.flac:149014201054b36e2af9e3b89426b252
+coldplay-2001-may-24-fm-t13.flac:09e7128f2b7862f8a573f285836879c6
+coldplay-2001-may-24-fm-t14.flac:dfed87c1896f6123710aa2f7d41c4740
+coldplay-2001-may-24-fm-t15.flac:60e846648e8f8819cf810970ac976616
+coldplay-2001-may-24-fm-t16.flac:c34287602862295516f84b8e1e950148
+coldplay-2001-may-24-fm-t17.flac:abb2dbe6f3fbcda54742090f08f951b0
+coldplay-2001-may-24-fm-t18.flac:ec2f7c2b74f4756f4a5cd413dc49df4d
+coldplay-2001-may-24-fm-t19.flac:04c1c2645d113eff5886580bc54645c7
+
+Transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

@@ -1,0 +1,60 @@
+Coldplay
+(Viva La Vida Tour '09)
+Singapore - Indoor Stadium
+23 March 2009
+
+
+*** Do not distribute this show in lossy formats - i.e.: MP3, Ogg Vorbis, AAC
+*** Do not distribute remastered copies of this show
+*** Do trade it and finally,
+*** Do enjoy the show! :)
+
+
+Track Listing (108:31):
+01. Life In Technicolor
+02. Violet Hill
+03. Clocks
+04. In My Place
+05. Yellow
+06. Glass Of Water
+07. Cemeteries Of London
+08. 42
+09. Fix You
+10. Strawberry Swing
+11. God Put A Smile Upon Your Face -> Talk (techno)
+12. The Hardest Part (Chris piano, Will)
+13. Postcards From Far Away
+14. Viva La Vida
+15. Lost!
+16. Speed Of Sound (acoustic)
+17. Death Will Never Conquer (acoustic - Will vocals)
+18. I'm A Believer (Neil Diamond Cover - acoustic)
+19. Encore break (Viva La Vida remix interlude including Coldwave)
+20. Politik
+21. Lovers In Japan
+22. Death And All His Friends
+23. Encore break
+24. The Scientist
+25. Life in Technicolor II -> The Escapist (outro)
+
+
+Taping Spot:
+Block T37, Row 25
+
+Source:
+Audio-Technica ES943/C's
+-> Home-made 3-wire battery box
+-> Tascam DR-07
+-> WAV (16bit/44.1kHz PCM)
+
+Transfer:
+Tascam DR-07 (via USB2.0 link-up)
+-> HDD
+-> Adobe Audition v1.5 (+10 dB Amplification)
+-> CD Wave v1.98 (for track splitting)
+-> FLAC
+
+
+Compiled by:
+K.C. Leong
+March 24 2009

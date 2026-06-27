@@ -1,0 +1,78 @@
+COLDPLAY
+December 17, 2011
+Ahoy
+Rotterdam, The Netherlands
+
+TRACKS:
+01. Back to the Future  
+02. MX/Hurts Like Heaven
+03. Yellow
+04. In My Place
+05. Major Minus
+06. Lost!
+07. The Scientist
+08. Violet Hill
+09. God Put A Smile Upon Your Face
+10. Up in Flames
+11. Us Against the World
+12. Politik
+13. Viva La Vida
+14. Charlie Brown (pt. 1)
+15. Charlie Brown (pt. 2)
+16. Paradise
+17. Clocks
+18. White Christmas (Irving Berlin cover)
+19. Fix You
+20. Every Teardrop Is A Waterfall
+
+
+LENGTH:
+81:28
+
+SOURCE (AUD #1):
+built-in > Zoom Q3HD
+
+TRANSFER:
+Zoom Q3HD > PC > wav > Trader's Little Helper 2.6.9 (Build 168) > FLAC [level 8] > You
+
+GENERATION:
+WAV [16bit/44.1kHz] > FLAC [Level 8]
+
+FINGERPRINTS:
+CP_2011-12-17_AUD_t01.flac:4356bb3216898617a12f57458d1f39fb
+CP_2011-12-17_AUD_t02.flac:f58ed0b1365d8b621499a9aa2668c1bc
+CP_2011-12-17_AUD_t03.flac:910a8aa49c702ff029f1ebac4ad844c1
+CP_2011-12-17_AUD_t04.flac:62df00d0725fdbb36284658d23b18827
+CP_2011-12-17_AUD_t05.flac:f8dabb1958b1e913d9f3475bafe4b738
+CP_2011-12-17_AUD_t06.flac:2c658941c07e94b1540272f6caede15f
+CP_2011-12-17_AUD_t07.flac:57f452b7adb486c181d999e51da7dbb0
+CP_2011-12-17_AUD_t08.flac:d38782a628f667a125816d8aed73699d
+CP_2011-12-17_AUD_t09.flac:d20b039f60265adfacb8d6ea6500e627
+CP_2011-12-17_AUD_t10.flac:6c63f0f8b4a8d643957e292bca4d589e
+CP_2011-12-17_AUD_t11.flac:96674bcb078fd7a73f7dd2c9629f34be
+CP_2011-12-17_AUD_t12.flac:f9084e11f9fe129785ff2ea9cb6681cc
+CP_2011-12-17_AUD_t13.flac:3e6a4d3420531c02ae0c8b8a0573a917
+CP_2011-12-17_AUD_t14.flac:5e15005cfd385a878ace8193db4dc69b
+CP_2011-12-17_AUD_t15.flac:3c4c1c5dd415a4ecf7d0e7a7ff0bba5b
+CP_2011-12-17_AUD_t16.flac:aff63be459822393a7c82866249d255a
+CP_2011-12-17_AUD_t17.flac:fe6aaf8d881677ea656d92f2b00e9bc0
+CP_2011-12-17_AUD_t18.flac:6c9ede360caaf44e6cbd94d4c68c8aa2
+CP_2011-12-17_AUD_t19.flac:dd88b9b55d1cdc6b3f14c35316672e41
+CP_2011-12-17_AUD_t20.flac:03c48d89e6f8339114cc1ccc27cb633b
+
+
+
+RECORDED & EDITED BY:
+Lost! in Technicolor (coldplaying.com)
+Lost                 (coldplaybootlegs.com)
+
+
+NOTES: "Charlie Brown" is incomplete due to battery change.
+
+
+Artwork would be appreciated very much :)
+
+
+--- PLEASE DO NOT DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE ---
+
+--- PLEASE DO NOT CONVERT THIS RECORDING TO LOSSY FORMATS (MP3, MP2, WMA, OGG, MP4 ETC.) ---

@@ -1,0 +1,40 @@
+Coldplay
+Radio 2 In Concert
+BBC Radio Theatre
+London , UK
+8th December 2014
+
+Source: Live radio broadcast on BBC Radio 2, 8th Dec. 2014
+
+Lineage: Digital satellite radio (Dongle PVR) -> PCI DVB Card -> *.mp2
+
+
+Format: 192kbps/48KHz Stereo MP2 (original broadcast bitstream)
+
+Running Time: 74m 30s
+
+
+MP2 transcoded to WAV using Adobe Audition 3 
+WAV files tracked using Adobe Audition 3
+WAV -> Flac (level 6) using traders little helper 
+
+
+Setlist
+
+01. Intro by Jo Whiley
+02. Always In My Head
+03. Charlie Brown
+04. Paradise
+05. Magic
+06. Clocks
+07. The Scientist
+08. Ink
+09. True Love
+10. Viva La Vida
+11. Midnight
+12. Every Teardrop is a Waterfall
+13. Fix You
+14. A Sky Full of Stars
+15. Christmas Lights
+
+Running Time - 67m

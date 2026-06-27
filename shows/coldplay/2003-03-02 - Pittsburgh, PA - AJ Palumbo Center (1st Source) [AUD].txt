@@ -1,0 +1,35 @@
+Coldplay
+March 2, 2003
+AJ Palumbo Center: Pittsburgh, PA
+
+source:  Schoeps Mk4->KCY actives->Schoeps VMS5U->Sony PCM-M1
+ 	 RightOB - Sec A1 Row 2
+conversion: Sony M1->SGI Octane coax->SGI Sound Editor->samba->Soundforege6**->CDWAV->shn
+	    ** peak normalize
+
+Disc 1:
+
+01	Politik				6:34.59				
+02	God Put A Smile Upon Your Face	4:49.35
+03	Poor Me				5:10.28
+04	Daylight			6:49.12
+05	Trouble				4:50.19
+06	One I Love			5:00.34
+07	Warning Sign			6:41.74
+08	new song			2:52.08
+09	Don't Panic			2:31.45
+
+
+Disc 2:
+
+01	Everything's Not Lost		8:16.48
+02	Moses				5:23.47
+03	Yellow				5:45.05
+04	The Scientist			5:13.17
+05	encore break			1:31.06
+06	Happy Birthday Chris		0:29.39	
+07	Clocks	->			5:29.46
+08	In My Place			4:34.03
+09	Life is For Living		4:47.13
+
+AUD 9.4 86:43 min

@@ -1,0 +1,36 @@
+2012-09-12 - Olympiastadion, Munich, Germany - FM (44.1 KHz)
+
+German radio broadcast of the complete Coldplay concert!
+
+Recorded at BAYERN 3 radio (DVB-S) -> Dreambox (Transport Stream) -> ProjectX (Demux) -> mp2 48000Hz 320kbps -> Audacity (Normalize, cut) -> WAV 44100Hz -> flac
+
+I know it's not lossless - but I think really close to that...
+
+01-Intro (Jay-Z - 99 Problems) (3:40)
+02-Back To The Future Theme (1:21)
+03-Mylo Xyloto - Hurts Like Heaven (4:57)
+04-In My Place (5:05)
+05-Major Minus (3:31)
+06-Lovers In Japan (3:47)
+07-The Scientist (6:32)
+08-Yellow (7:04)
+09-Violet Hill (3:16)
+10-God Put A Smile Upon Your Face (5:27)
+11-Princess Of China (3:45)
+12-Up In Flames (3:19)
+13-Warning Sign (4:27)
+14-A Hopeful Transmission (0:32)
+15-Don't Let It Break Your Heart (3:39)
+16-Viva La Vida (4:26)
+17-Charlie Brown (4:21)
+18-Paradise (6:02)
+19-Applause (3:11)
+20-Us Against The World (4:39)
+21-Speed Of Sound (5:09)
+22-Clocks (4:26)
+23-Fix You (5:58)
+24-Happy Birthday To Jonny Buckland (1:18)
+25-Every Teardrop Is A Waterfall (4:21)
+26-Outo (0:46)
+
+Duration: 105 minutes

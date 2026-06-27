@@ -1,0 +1,22 @@
+coldplay
+12.12.02 Nassau Coliseum, Uniondale, NY
+
+Taper:            J.Kunzler
+Source:           RS33-3028>sony mz-r70
+Location:       50 feet from stage, dead center
+Conversion:   mz-r70>Coax Cable>cool edit pro      
+Resampling:   software downsample via cooledit pre/post filter High Qaulity 999, 44.1k 16 bit stereo   
+SHN:             master wav's > MKW Audio Compression Tool
+
+******************************************************************************************************************
+	                    THIS SHOW IS NOT TO BE MP3-ENCODED	
+******************************************************************************************************************
+
+Disc 1
+1. politik
+2. in my place
+3. clocks
+4. yellow
+5. the scientist
+
+***wishing it be a merry christmas , so i can get some proper equipment***

@@ -1,0 +1,39 @@
+Coldplay
+The Orpheum Theatre
+Boston, MA
+December 11, 2002
+WBCN Christmas Rave with Zwan
+
+Taper:       Dave Reid
+Source:      Dynamic Audio Binaurals > D.A. battery 
+		 box/rolloff > M1 @44.1 kHz
+Location:    Balcony Left, Row K, i.e. the Nosebleeds
+Conversion:  DATm>M1>Core Sound Coax-to-7-pin Cable>
+		 Zoltrix Nightingale>Cool Edit Pro      
+Resampling:  none
+Editor:      Dave Reid
+Editing:     digital mastering with T-RackS 2.0; 
+		 Tracking with CD Wave
+SHN:         master waves > MKW Audio Compression Tool
+Notes:	 digital clipping/error during "Shiver" at 
+		 4:20-4:30.  Last minute or so of 
+		 "In My Place" cut (ran out of tape).
+
+Track List:
+
+1.  Politik
+2.  Shiver
+3.  Daylight
+4.  Trouble
+5.  One I Love 
+6.  Don't Panic
+7.  Green Eyes
+8.  Everything's Not Lost
+9.  Warning Sign
+10. God Put A Smile Upon My Face
+11. Yellow
+12. The Scientist
+13. Clocks
+14. In My Place
+
+Notes: Rating is a 6 out of 7

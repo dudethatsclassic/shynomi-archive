@@ -1,0 +1,28 @@
+COLDPLAY
+Manchester, Evening News Arena
+11 October 2002
+MTV2 Europe Broadcast
+************************************
+01. Intro
+02. Politik
+03. A Rush Of Blood To The Head
+04. Yellow
+05. God Put A Smile Upon My Face
+06. One I Love
+07. The Scientist
+08. Daylight
+09. Clocks
+10. Everything's Not Lost
+11. In My Place
+12. Life Is For Living
+*************************************
+AUDIO: MPEG1, LAYER2, 192 kbps (original bitstream)
+VIDEO: MPEG2, VBR ~3500 kbps, 520x576, 25 fps, 4:3, PAL (original bitstream)
+LINEAGE: digital SAT stream -> Nokia dBox2 -> SimpleGrab -> HD -> TMGENC DVD AUTHOR -> Video_ts
+LENGTH: 60 Minutes
+MENU: yes
+*************************************
+Direct Capture from MTV2 Europe
+No re-encode involved, no dropped frames.
+What you get on this DVD is exactly what was broadcasted! 
+*************************************

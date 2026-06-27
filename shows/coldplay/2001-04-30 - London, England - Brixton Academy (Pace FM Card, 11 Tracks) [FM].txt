@@ -1,0 +1,12 @@
+31a61c5aeaeb6e840211ee6cd02e5f24 *2001-04-30.txt
+52ace7fc4cae594b8c8b90a73f92de13 *Coldplay2001-04-30t01Animal.shn
+83ec9686b13357a5d8af341170003e09 *Coldplay2001-04-30t02Shiver.shn
+b07d6e0cd248d1ffa5f7abd73ccf6004 *Coldplay2001-04-30t03Spies.shn
+5bec610bb05a798fb6b29ad8e176aaaf *Coldplay2001-04-30t04Don't Panic.shn
+43452dea6a2d83dae345b495b01434a8 *Coldplay2001-04-30t05High Speed.shn
+2498c307f242db2e18fbae8ed4c79a68 *Coldplay2001-04-30t06Everything's Not Lost.shn
+9a6937615ad535b2058177a8be5b78eb *Coldplay2001-04-30t07We Never Change.shn
+d557a73e5557afb80f0179562c565251 *Coldplay2001-04-30t08Yellow.shn
+2459171860a5fc542d1cee97fd51307f *Coldplay2001-04-30t09Trouble.shn
+2a4ccc2a8746a1bc9109eb4143748745 *Coldplay2001-04-30t10In My Place.shn
+952eb6b818648e59ff8d5f57a9c1d889 *Coldplay2001-04-30t11See You Soon.shn

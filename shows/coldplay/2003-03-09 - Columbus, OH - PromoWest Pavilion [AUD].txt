@@ -1,0 +1,46 @@
+Coldplay
+Columbus, Ohio
+Promowest Pavillion
+2003-03-09
+
+
+Source:         Countryman Isomax II (Cardiod) > PS2 > Sony D-7
+
+SHN Transfer: 	Sony D-7 > M-Audio DiO 2448 > Cool Edit Pro v1.2 (@48kHz) > Shorten.exe
+		(shn files have seek tables appended)
+                **No DAE or resampling**                 
+
+WAV Transfer: 	WAV > Cool Edit Pro v1.2 (resample @ 44.1kHz) > CDWave
+
+Detailed info:  ~20' from right stacks, hat mount
+
+Minor Edits:    Fades in/out beg/end of sets, Slight Bass Rolloff, 1dB high-freq. boost
+
+
+
+___________________________________________________________________________
+
+
+Setlist:
+
+01. Intro
+02. Politik
+03. God Put a Smile Upon Your Face
+04. Spies
+05. Daylight
+06. Trouble
+07. One I Love
+08. A Rush of Blood to the Head
+09. Don't Panic
+10. Everything's Not Lost
+11. Pour Me 
+12. Yellow
+13. The Scientist
+14. Clocks
+15. In My Place
+16. Encore Break
+17. Proof
+
+Total Length: 86:01.486
+
+Notes: Rating is a 6 out of 7

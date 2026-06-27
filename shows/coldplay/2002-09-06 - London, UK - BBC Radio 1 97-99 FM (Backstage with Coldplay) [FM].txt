@@ -1,0 +1,47 @@
+Coldplay
+Backstage With Coldplay
+September 6, 2002
+BBC Radio 1 97-99 FM
+London, UK
+
+Length: 38:00
+Quality: Excellent Soundboard (Webcast)
+Size: 187 MB compressed (SHN)
+Complete Show: N/A
+
+Captured/Converted By: Henry Chinaski <oneilove@notme.com>
+
+*** DO NOT ENCODE THIS SHOW TO MP3
+*** THIS SHOW SHOULD BE TRADED AS SHN ONLY
+*** THIS SHOW SHOULD ONLY BE TRADED ON A 1:1 BASIS
+*** THIS SHOW IS NOT TO BE PUT FOR SALE ON ANY WEBSITE FOR ANY PRICE
+
+Tracklist
+---------
+01. Rajesh Backstage With Coldplay		[15:45]
+02. The Uncut Interview With The Whole Band	[4:40]
+03. The Uncut Interview With Chris Martin	[17:35]
+
+Source:
+http://www.bbc.co.uk/radio1/artist_area/coldplay/
+> Real Media file (RM) (64 kbps 44.100 Hz, 16-bit, Mono)
+  captured with StreamBox VCR 1.0 Beta 3.1 - FlyingRaichu RTSP/PNM (T1 LAN)
+
+Conversion:
+> Streambox Ripper 2.009
+> WAV (44.100 Hz, 16-bit, Mono)
+> Sound Forge 5.0 (WAV edit):
+- Bit Depth Converter: 32-bit (IEEE float)
+- Channel Converter: Mono to Stereo - 100 % (no faders) [Convert to specified channels only]
+- Bit Depth Converter: 16-bit
+> WAV (44.100 Hz, 16-bit, Stereo)
+> mkwAudio Compression Tool 0.97b1
+> SHN
+
+Notes:
+-
+
+Comments (BBC Radio 1):
+When Coldplay played the Kentish Town Forum, Rajesh went backstage to talk with the band before 
+they performed the gig. Now's your chance to hear the exclusive - and uncut - interview in full, 
+and listen again to the intimate gig which they performed, only for Radio 1.

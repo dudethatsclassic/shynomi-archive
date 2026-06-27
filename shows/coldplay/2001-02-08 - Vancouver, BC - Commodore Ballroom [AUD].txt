@@ -1,0 +1,24 @@
+Coldplay
+2001-02-08
+Commodore Ballroom
+Vancouver, BC
+
+Taper: Andy Swinburnson <swinburnson@yahoo.com>
+Source: CSBmod > M1
+Conversion: M1 > coax > Tascam CDRW-700 > EAC(secure) > CDWAV > mkw
+
+
+Track 01: Intro	-> Spies					07:18
+Track 02: Trouble						04:53
+Track 03: Shiver						05:48
+Track 04: High Speed						04:31
+Track 05: Don't Panic						02:58
+Track 06: Animals						05:55
+Track 07: Sparks						04:43
+Track 08: Yellow						05:15
+Track 09: Everything's Not Lost					08:01
+Track 10: In My Place						05:42
+Track 11: You Only Live Twice (stopped)				00:49
+Track 12: What The World Needs Now Is Love [Bacharach / David]	01:36
+---------------------------------------------------------------------
+Total Length:   						57:29

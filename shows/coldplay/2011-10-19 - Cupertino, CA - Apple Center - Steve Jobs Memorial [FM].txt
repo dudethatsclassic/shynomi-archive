@@ -1,0 +1,23 @@
+Coldplay
+19th October, 2011
+Steve Jobs Memorial
+Apple Center, Cupertino
+California, USA
+
+
+Setlist
+
+01.Introduction
+02.Yellow
+03.Viva La Vida
+04.Fix You
+05.Every Teardrop Is A Waterfall
+
+
+-----md5 signature-----
+
+56b2c5fd1e5a965dc177c57edde7553a *coldplay 2011.10.19 t01.shn
+a18e2ec9c84e5a4db24d6eae3f931bf5 *coldplay 2011.10.19 t02.shn
+8a0ff82848233fbca6ae38d102386128 *coldplay 2011.10.19 t03.shn
+1f3b807e1c855b8cfac9de9235652f0e *coldplay 2011.10.19 t04.shn
+cd9c949777d9951a2413738aca999f4f *coldplay 2011.10.19 t05.shn

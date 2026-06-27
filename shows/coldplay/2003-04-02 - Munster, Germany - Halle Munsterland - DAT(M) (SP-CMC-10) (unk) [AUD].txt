@@ -1,0 +1,45 @@
+Coldplay
+A Rush Of Blood To The Head Tour
+Halle Münsterland, Münster, Germany
+April 2, 2003
+
+History:
+Sound Professionals SP-CMC-10 (AT933H)
+-> Sound Professionals Battery Box (Bass Roll-Off @87Hz)
+-> AIWA HD-S200 DAT (Line-In; 44,1kHz)
+-> DAT Master (44,1kHz, stereo)
+-> Optical Terratec EWX 24/96 (SPDIF-In Clock Sync)
+-> Sound Forge 4.5 WAV Edit
+-> CD WAVE Editor Track Splitting
+-> WAV
+-> RX10 (Declick/clapping)
+-> Ozone 10 (EQ/Maximizer)
+-> FLAC
+-> xACT (SBE, Tags, FFP)
+
+Tracklist
+
+01 - Taped Music 2:45
+02 - Intro 1:14
+03 - Politik 5:37
+04 - God Put A Smile Upon Your Face 4:59
+05 - Spies 6:47
+06 - Daylight 6:37
+07 - The Scientist 5:16
+08 - One I Love 5:01
+09 - A Rush Of Blood To The Head 6:22
+10 - Don't Panic 3:20
+11 - Everything's Not Lost 8:01
+12 - Pour Me 4:58
+13 - Yellow 5:47
+14 - Amsterdam plus Encore Break 7:12
+15 - Clocks 5:27
+16 - In My Place 3:54
+17 - Encore Break 1:56
+18 - Trouble 5:08
+
+Total 1:30:28
+
+Comments:
+
+Recorded the day the Clocks single was released in Germany. To my own surprise, this was the last show I recorded before a very long hiatus (15 years until October 19, 2018, but that's a different story). When cleaning up, first the recording appeared on the computer (WAV file without any further reference), when searching then also the associated DAT tape. I have no memory of the show (my wife remembered that the drove me to that show and picked me up afterwards because as students we weren't able to buy two tickets), the exact location of the recording (somewhere inside probably), but here is the memento of my first Coldplay concert. There's at least one more recording floating around, but this one is uncirculated so far. Some hiss, some chatter, some audience noise.

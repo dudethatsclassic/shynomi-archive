@@ -1,0 +1,49 @@
+Coldplay
+August 5th, 2011
+Grant Park (Lollapalooza Festival)
+Chicago, IL
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+Youtube.com > Replay Media Catcher 3.11 > FLVExtract 1.6.2 > tsMuxerGUI 1.10.6
+
+GENERATION:
+Webstream > FLV [H.264 960x540, 2.5Mbps/AAC 96kbps 48khz]  > Transport Stream
+
+LENGTH:
+91:35
+
+NOTES:
+- Highest quality web stream directly captured, extracted and then remuxed into a TS container. No re-encoding. 960x540 resolution, H.264 codec at 2.5Mbps. 96kbps 48khz AAC audio.
+
+TRACKS:
+01. MX
+02. Hurts Like Heaven
+03. Yellow
+04. In My Place
+05. Major Minus
+06. Lost!
+07. The Scientist
+08. Shiver
+09. Violet Hill
+10. God Put A Smile Upon Your Face
+11. Everything's Not Lost
+12. Us Against The World
+13. Politik
+14. Viva La Vida
+15. Charlie Brown
+16. Life Is For Living
+17. Clocks 
+18. Fix You
+19. Every Teardrop is a Waterfall
+
+MD5 FINGERPRINTS:
+191b4054605ca6dad3c16959043971d4 *Coldplay 2011-08-05 Lollapalooza.ts
+
+
+RECORDED AND TRANSFERRED BY:
+Simon Kilmore
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,44 @@
+COLDPLAY
+2003-04-05
+Sporthalle
+Boeblingen, Germany
+
+- SOURCE -
+DAT Audience [Soundman OKM-IIr > Sony SBM-1 > Sony PCM-M1]
+
+- LOCATION -
+5 meters from right stacks
+
+- TRANSFER -
+DAT-Master > Sony DTC-ZE700 DAT deck > Terratec EWX 24/96 digital sound card
+    > Steinberg WaveLab 4.0f > Digital Editing > FLAC version 1.1.0
+
+- EDITING -
+EQ in Sonic Foundry Sound Forge V6.0 via Steinberg FreeFilter V1.5 ME
+Volume boost, slight additional EQ and tube compression in T-RackS V2.0
+Fades in Steinberg WaveLab V4.0f
+Track Splits in CD Wave Editor V1.92
+
+- RESAMPLING -
+48.0 kHz > 44.1 kHz in Cool Edit Pro V2.0 (setting 999)
+
+- DISC 1 -
+01 Intro
+02 Politik
+03 God Put a Smile Upon Your Face
+04 Spies
+05 Daylight
+06 The Scientist
+07 One I Love
+08 A Rush of Blood to the Head
+09 Don't Panic
+
+- DISC 2 -
+01 Everything's Not Lost
+02 Poor Me
+03 Yellow
+04 Amsterdam
+05 Clocks
+06 In My Place
+07 Ladder to the Sun
+08 Trouble / Du Hast [Rammstein] (tease)

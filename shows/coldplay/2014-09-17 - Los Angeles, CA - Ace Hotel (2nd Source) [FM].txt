@@ -1,0 +1,45 @@
+COLDPLAY
+17th Sep, 2014
+Ace Hotel Downtown
+Los Angeles, California
+USA
+
+
+Setlist
+  
+1. Broadcast Intro
+2. Always in My Head 
+3. Charlie Brown 
+4. Paradise 
+5. Magic 
+6. Clocks (Dedicated to Matthew Bellamy/With snippet of "Madness" by MUSE)
+7. The Scientist 
+8. God Put A Smile Upon Your Face 
+9. 'Til Kingdom Come 
+10.Ink 
+11.True Love 
+12.Viva La Vida 
+13.Midnight 
+14.Every Teardrop Is A Waterfall 
+15.Encore
+16.Oceans 
+17.A Sky Full of Stars 
+18.Fix You
+19.Broadcast Outro 
+
+
+
+Source: Live radio broadcast on KROQ, 17 Sep. 2014
+
+Lineage: Digital satellite radio (Dongle PVR) -> PCI DVB Card -> *.mp2
+
+
+Format: 192kbps/48KHz Stereo MP2 (original broadcast bitstream)
+
+Running Time: 74m 30s
+
+
+MP2 transcoded to WAV using Adobe Audition 3 
+WAV files tracked using Adobe Audition 3
+WAV -> Flac (level 6) using traders little helper 
+

@@ -1,0 +1,30 @@
+Coldplay
+26th June 2000
+Amsterdam
+Paradiso (Kleine Zaal)
+
+DAT Master LP 32kHz, recorded by JS
+
+Transfer in January 2012 by AO :
+DAT Master FM Broadcast LP 32kHz > Sony DTC-ZE700 > Optical SP-DIF Cable > 
+Sample Rate Converter Soundpool SRC44 (resampling to 44.1kHz) >  Coaxial SP-DIF CABLE > 
+M-Audio Delta Audiophile 2496 Optical In > Cool Edit Pro 2.1 > HDD
+
+Additional work by AO February 17th, 2026 :
+- Adobe Audition 2022 : Edit + Trimming
+- iZotope Ozone 11 Dynamic EQ Vocal Presence, Enhance Low End + Gentle Polish
+- Audacity 2.4.2 Tracks and Tags
+
+45:34 min
+
+01 Intro : Once Upon A Time In The West
+02 Spies
+02 Bigger Stronger
+04 Don´t Panic
+05 High Speed
+06 Yellow
+07 Trouble
+08 Shiver
+09 Everything's Not Lost
+10 You Only Live Twice
+

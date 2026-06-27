@@ -1,0 +1,45 @@
+Coldplay
+Pier Six Concert Pavilion
+Baltimore, MD
+2002-09-16
+
+Taper:	George Wang 
+
+Source:	DPA4022 > Sonosax SX-M2 > SBM-1 (Oade Mod)
+
+Location:	Sec. LFT Row T Seat 44, 50 ft. right stage stack
+
+DAT > SHN:	Archive Python DDS/DAT2WAV > .wav > CD-WAV/mkwACT > .shn
+(Direct DAT extraction, no soundcard)
+
+Setlist:
+
+Disc One:
+
+01:	Intro			00:28.866
+02:	Intro  			01:13.333
+03:	Politik			05:25.400
+04:	Shiver			05:25.400
+05:	Spies			06:25.600
+06:	Daylight		07:02.866
+07:	Trouble			04:42.400
+08:	One I Love		05:34.866
+09:	Don't Panic		04:22.000
+10:	Everything's Not Lost	08:46.466
+11:	Green Eyes		04:45.800
+12:	Streets Of Baltimore	03:02.000
+
+
+
+Disc Two:
+
+01:	God Put A Smile Upon Your Face	05:07.466
+02:	Yellow				05:49.000
+03:	The Scientist			06:06.133
+04:	A Rush Of Blood To The Head	08:09.866
+05:	Clocks				05:34.000
+06:	In My Place			04:24.400
+07:	Life is for Living		04:46.133
+
+
+compiled by George Wang on 09-23-2002

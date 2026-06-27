@@ -1,0 +1,20 @@
+Coldplay
+June 26, 2000
+Wisseloord Studios
+Hilversum, The Netherlands
+
+Lineage : FM -> Sony DTC-ZE700 (with SBM) -> Terratec 64 XLW -> Sound Forge 4.5 -> Nero 5.0 ->
+		CDR (Plextor SCSI 12/4/32) -> EAC -> SHN --> MWP
+
+
+01:	Don't Panic			02:17
+02:	Shiver				05:04
+03:	High Speed			04:06
+04:	Yellow				04:28
+05:	Harmless *			00:54
+06:	Trouble				04:31
+07:	We Never Change			04:14
+				-------------
+				Total:	25:34
+
+* short part of this new song

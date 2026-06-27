@@ -1,0 +1,49 @@
+Coldplay
+Murant Theater
+Indianapolis, IN
+March 4, 2003
+
+Taper:          	Jon Ice (ice@justdmb.com)
+Source:		AKG ck63 (hypercardiod caps) > Active Cables > JK LABS DVC > M1 @ 48k
+Location:	Orch C, Row M
+
+DAT > CD Conversion: Jon Ice (ice@justdmb.com)
+
+Equipment: Tascam DA-30  > Digital Coax > Audiowerk2 >
+	   Samplitude > Cool Edit Pro > MKW Audio Compression Tool
+
+** No DAE - DAT > .WAV > .SHN
+** Seek Tables Appended
+
+
+Disc 1
+01:	Politik				07:02
+02:	God Put A Smile Upon Your Face	04:56
+03:	Spies 				06:47
+04:	Daylight			06:37
+05:	Trouble 			05:27
+06:	One I Love			05:00
+07:	A Rush of Blood to the Head	05:55
+
+Total					41:44
+
+Disc 2
+08:	Don't Panic			03:18
+09:	Everything's Not Lost		08:10
+10:	Poor Me			05:28
+11:	Yellow 				05:35
+12:	The Scientist 			07:09
+
+Encore 1
+13:	Clocks 				05:28
+14:	In My Place 			06:31
+
+Encore 2
+15:	Proof				04:17
+
+Total					45:56
+
+Notes:
+Spliced in about 25 seconds from the FM source during 
+Politik due to a cable problem.
+At 2:16 into God Put A Smile Upon Your Face the House PA cut out.

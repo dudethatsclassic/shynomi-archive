@@ -1,0 +1,52 @@
+Coldplay
+23rd November, 2011
+Senkvelds, Folkteateret
+Oslo, Norway
+
+
+Setlist
+
+01.Intro
+02.Mylo Xyloto
+03.Hurts Like Heaven
+04.Yellow
+05.In My Place
+06.Speech
+07.Major Minus
+08.The Scientist
+09.Violet Hill
+10.God Put A Smile Upon Your Face
+11.Paradise
+12.Up in Flames
+13.Snippet
+14.Viva La Vida
+15.Charlie Brown
+16.Life Is For Living
+17.Clocks
+18.Fix You
+19.Every Teardrop Is A Waterfall
+20.End
+
+
+-----md5 signature-----
+
+68ded2c95f51f641a88d1797dad4d294 *coldplay 2011.11.23 t01.shn
+559140b183053a7c78fc90747fcb6895 *coldplay 2011.11.23 t02.shn
+18640d13809aa4ea5afab714ccf12c15 *coldplay 2011.11.23 t03.shn
+b416732221cc207241eb63eab39e6d40 *coldplay 2011.11.23 t04.shn
+58d0863b5e8e6cbdb78ebcaf09db913f *coldplay 2011.11.23 t05.shn
+33d9d91f69d5d6e291ec0d42477567b6 *coldplay 2011.11.23 t06.shn
+bb568e2be22774714e1755ef6f21a512 *coldplay 2011.11.23 t07.shn
+9ad251d47dae16f32a6ff1726b1a5fb2 *coldplay 2011.11.23 t08.shn
+78954eac3cce6865018b0e0482fb67db *coldplay 2011.11.23 t09.shn
+e5e17db6f350a06e82ffbd0bcae95029 *coldplay 2011.11.23 t10.shn
+9386b7f9678ced47ec2e4721fa25b8a6 *coldplay 2011.11.23 t11.shn
+9767cbff742c00e2b7b71929d5a7040c *coldplay 2011.11.23 t12.shn
+f4efe99a9484f1e554056dbc19ca5f5f *coldplay 2011.11.23 t13.shn
+e766d770c2b7aacacf123b4c9f354fe2 *coldplay 2011.11.23 t14.shn
+f9dd89b759394e79fa6d94b24cbae720 *coldplay 2011.11.23 t15.shn
+70f12d48bf07778f95e2479195909f2c *coldplay 2011.11.23 t16.shn
+cd0ff00f42ebaf471f14789e7ec078bf *coldplay 2011.11.23 t17.shn
+2f32b462edd76ec2f80505443466e254 *coldplay 2011.11.23 t18.shn
+990ed93f88626512388bf674b7f986f9 *coldplay 2011.11.23 t19.shn
+f79221825f5ff80726f5f6a44d52359f *coldplay 2011.11.23 t20.shn

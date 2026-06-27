@@ -1,0 +1,42 @@
+Coldplay
+MainStage - Coachella Music & Arts Festival 
+April 30, 2005 
+Empire Polo Grounds, Indio, California. 
+
+Source: Master Audience DAT: DPAs=DanishProAudio 6040's (9V BatBox >Line In) > Sony PCM-M1 > Maxell 90m DAT @48k 
+
+
+Playback/Transfer: Fostex D5 Master (DAT) Recorder > Tascam CD-RW5000 
+(AES/EBU out > Coax in) > CD > Peak 4.0 ( Extraction, Tracking, Fades ) > verify SBE OK, generate .aiff.checksum, compress to flac level 7, generate fingerprint, verify via xACT 1.4b23
+
+01 Intro
+02 Square one
+03 Politik
+04 God put a smile upon your face
+05 Speed of sound
+06 Warning sign
+07 Yellow
+08 Low
+09 The scientist
+10 Till kingdom come
+11 Clocks
+12 What if
+13 A message
+14 In my place
+15 Fix you
+
+1:33.39 16496972 --- -- ---xx Coldplay2005-4-30t01.flac 
+5:22.28 56866700 --- -- ---xx Coldplay2005-4-30t02.flac 
+5:25.13 57360620 --- -- ---xx Coldplay2005-4-30t03.flac 
+4:38.66 49194476 --- -- ---xx Coldplay2005-4-30t04.flac 
+4:46.15 50485724 --- -- ---xx Coldplay2005-4-30t05.flac 
+5:41.06 60166556 --- -- ---xx Coldplay2005-4-30t06.flac 
+5:47.33 61288460 --- -- ---xx Coldplay2005-4-30t07.flac 
+5:47.24 61267292 --- -- ---xx Coldplay2005-4-30t08.flac 
+6:52.02 72681548 --- -- ---xx Coldplay2005-4-30t09.flac 
+4:10.23 44154140 --- -- ---xx Coldplay2005-4-30t10.flac 
+6:44.06 71279756 --- -- ---xx Coldplay2005-4-30t11.flac 
+6:53.53 72977900 --- -- ---xx Coldplay2005-4-30t12.flac 
+4:40.45 49497884 --- -- ---xx Coldplay2005-4-30t13.flac 
+4:45.42 50372828 --- -- ---xx Coldplay2005-4-30t14.flac 
+5:08.20 54378284 --- -- ---xx Coldplay2005-4-30t15.flac 

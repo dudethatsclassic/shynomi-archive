@@ -1,0 +1,46 @@
+COLDPLAY
+2012-09-09
+Paralympic Games Closing Ceremony, 
+Olympic Stadium, London, UK
+AUDIO RIP
+
+The closing ceremony was held on 9 September 2012 at the Olympic Stadium; 
+prominently featuring live performances of 15 songs by the British rock band Coldplay 
+set to sequences representing the four seasons, 
+along with guest performances by Barbadian singer Rihanna 
+(who performed their collaboration "Princess of China") 
+and American rapper Jay-Z (who performed "Run This Town" with Rihanna and Coldplay, 
+and joined in a reprise of "Paradise")
+
+Sky Sport HD Italia > ??? > .mkv > cut & join & chapters (mkvmerge) > .mkv (Coldplaybootlegs.com) 
+Audio extracted to lossless Wav using Pazera Audio Extractor 1.4.0.0
+track seperation achieved using Nero Wav editor
+WAV -> FLAC (level 6) using traders little helper
+
+Initial Video 
+Captured by J silver
+Edited by GYBR77
+
+Setlist:
+01 - Us Against The World
+02 - Yellow
+03 - Up In Flames
+04 - Paradise
+05 - 42
+06 - Good Put A Smile Upon Your Face
+07 - Clocks
+08 - Charlie Brown
+09 - Princess of China (with Rihanna)
+10 - Straberry Swing (with The British Para-orchestra)
+11 <Rihanna> - We Found Love (feat Chris Martin on piano)
+12 - Viva La Vida
+13 <Jay-Z and Rihanna and Coldplay> - Run This Town/Paradise(reprise)
+14 - The Scientist
+15 - Every Teardop Is A Waterfall 
+16 <Closing Ceremony Fireworks> (Including 'Politik' orchestral variation) 
+-------------------------------------
+Total time: 01 hour 11 min 55 sec
+
+Format: matroska 
+Video info: 1920x1080 (1.778), AVC (Main@L4.0), 12.1 Mbps, 50.0 fps interlaced
+Audio info: AC3, 48 KHz, 2 channels, 384 kbps

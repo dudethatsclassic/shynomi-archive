@@ -1,0 +1,37 @@
+Coldplay
+5 May 2012
+KROQ Weenie Roast
+Irvine, CA, USA
+
+KROQ stream > RPC 4 > FLV Extract > mkvtoolnix > .mkv
+Captured by happy (from Coldplace.eu)
+
+Audio Ripped to lossless WAV using Pazera Audio Extractor 1.4.0.0
+Files tracked using Nero Wav editor
+Wav -> Flac (level 6) using traders little helper
+
+Setlist:
+1. Intro
+2. Mylo Xyloto 
+3. Hurts Like Heaven 
+4. In My Place 
+5. Major Minus 
+6. The Scientist 
+7. Yellow 
+8. Violet Hill 
+9. God Put A Smile Upon Your Face 
+10. Viva La Vida 
+11. Charlie Brown 
+12. Paradise 
+13. (You Gotta) Fight for Your Right To Party! (Beastie Boys cover)
+14. Clocks 
+15. Fix You  
+16. Every Teardrop is a Waterfall 
+-------------------------------------
+Total time: 1 hour 09 min 41 sec
+
+Original Video Specs.
+
+Format: mkv 
+Video: MPEG4 Video (H264) 640x358 29.97fps
+Audio: MPEG Audio Layer 3 44100Hz stereo 96kbps 

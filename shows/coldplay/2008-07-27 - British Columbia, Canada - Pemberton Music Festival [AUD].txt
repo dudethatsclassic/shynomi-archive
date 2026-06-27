@@ -1,0 +1,179 @@
+***Please note that some of these files have long file names and are nested in folders with long names as well.  This may cause path names that are too long for Windows to handle.  This won't be an issue for most but if this affects you, try renaming folders to a shorter name.
+
+Title: 1st Pemberton Dust Project
+Date: 2008-07-25-27
+Release date: 2009-02-14
+
+
+This was the first annual Pemberton Music Festival in the incredibly beautiful Pemberton, British Columbia, Canada and it was an absolutely wonderful experience.  As you can tell by some of the screencaps of articles included in this release, there were some definite growing pains that resulted in some difficult times but it was clear that for the most part, everyone made a huge effort to keep things rolling.  And roll it did!  There was a light police presence but I didn't see any problems that would have required them.  First aid responders were aplenty and reported nothing serious.
+
+Just driving to Pemberton was an adventure; the mountain views were incredible and the winding cliff roads were spectacular but treacherous. I knew this was going to be a special event before I even got there when it took me twice as long to drive there as I kept stopping to take photos and admire the beauty.
+
+The main issue at the festival grounds was the dust.  It was incredibly & insanely dusty and dirty.  The dust got everywhere and covered everything.  Truth be told, any normal person would NEVER have taken out their electronics in such an environment.  I suspect that is why no recordings have yet to surface.  Luckily for you, I'm not a normal person.  You could not get away from the dust and even if you took some time to clean yourself off at the water stations, it did not matter; 5 minutes later you were filthy again.  Lots of people were wearing bandanas around their faces to try and protect themselves.  Everything was covered in dust.
+
+The overall weather was quite good but unfortunately winds did pick up a bit from time to time and there was some rain.  The wind and rain came as a comfort in the dust-filled heat and wasn't unwelcome by anyone other than those with electronics out in the open (like me).  I would have gladly forsaken the cooling-off effects of the rain to keep my mics dry.
+
+I really felt for the soundmen and artists as they sure didn’t get a lot of time for soundchecks.  The daily morning soundchecks concerned me as you could hear the sound echoing and bouncing off the distant mountains and it did not sound like it would be high quality.  The actual sound quality at the festival slightly varied by show but for the most part was surprisingly high.  I was very impressed with the quality that the engineers were able to squeeze out; it was completely unexpected and greatly appreciated.  Some of the mixes were a little weak being a bit too low in vocals here or guitar there or whatever but it was the exception rather than the rule.
+
+All of these shows were recorded stealthily and outdoors.  This was my first time recording outdoors and it definitely has its challenges.  For many shows I was completely squashed up against people and people were pushing up against me.  Scores of inebriated people would push by during the artist’s performances as they tried to make their way to the front in an exercise in futility.  I was often being knocked about but I had a great spot very close to the stage, FOB and well centred so I did what it took to make sure I did not lose my place despite the dynamic wave-like motions of the crowd.  I was leaning up against a security fence and was often holding on for dear life.  For a few of the shows there were high winds and rain.  Because of these reasons, you’ll occasionally hear people talking, infrequent phase shifting as I move my head (I was as still as possible), the security fence being banged on and some occasional light wind rumble.  Obviously, this is the nature of all outdoor audience recordings and can’t be controlled.  Luckily I used my cardioid mics with big wind screens which greatly limited much of the peripheral and wind noise.
+
+The recorded sound quality that I was able to obtain was very high.  Due to some of the above reasons, it is difficult to rate all of these shows accurately as it varies.  They all fall in between a VG+ at the low end and EX+ on the high end.  They probably average about EX-.
+
+UPDATE: At the time of this writing (2008-11-30), it's still not clear if there will be a 2nd annual Pemberton Music Festival.  The provincial Agricultural Land Commission (ALC) has just now finally approved the application by Live Nation Canada for non-farm use of the 2008 festival site.  This seemed to be the major sticking point.  It looks like it's a go but this only leaves about 8 months of planning before the event.  My fingers are certainly crossed.  All in all, this festival was a filthy success.
+
+UPDATE 2: Unfortunately at the time of this writing (2009-01-15) it looks like the 2009 Pemberton Music Festival is a no go.  Organizers have promised a 2010 version but they say that they did not have enough time to properly organize a show after the ALC took so long to give permission to use the land.  I have added an image of a news report that was published on piquenewsmagazine.com
+
+Finally, a small technical note.  For the convenience of those who still burn to CD, I've set the disc thresholds at 74 minutes or 650ish MB; whichever comes first. Like most festivals, the artists at Pemberton typically did not perform full length sets however sometimes still went over these thresholds.  In these 5 cases, I chose to make 2 smaller yet more even-balanced discs as opposed to a full disc and an almost empty disc.  This does not affect your listening pleasure!
+
+
+
+
+
+
+
+
+
+**********************************************
+Please share this recording freely.
+Do not encode to .mp3 (or any other lossy format).
+**********************************************
+01010011 01100101 01110100 01101000
+
+
+
+
+#########################################################################
+
+
+
+
+**********************************************
+16 bit / 44100 Hz version
+**********************************************
+
+Artist/Band: Coldplay
+
+Date: 2008-07-27 (Sunday)
+Title: It's Gonna Be a Good One!
+Venue: Pemberton Music Festival - Outdoors - Pemberton, British Columbia, Canada
+Recording location: FOB - approx. 15 to 20 metres from stage & 1 metre left of centre
+Source: Audience/Stealth
+Recordist: Seth
+Lineage: Church Audio ST-11 cardiod mics > Church Audio 9100 v3.0 pre-amp with bass roll off turned off > Edirol R-09 (24/48) > Adobe Audition 3.0 (track splitting, fades, downsampling) > Trader's Little Helper v.2.4.1 build 160 (flac 8, fix SBE's & create .ffp and .md5 files)
+Sound Quality: Various sound ratings between VG+ to EX+.  See descriptions for more details.
+All photos taken by Seth with the exception of "Zygote" images courtesy of Micah and Benson.
+Artwork by Moonwall
+
+Total .wav size:        824 MB
+Total .flac(8) size:    397 MB
+
+---------------------------------
+Disc 01:
+d01t00 - Ambiance & Atmosphere - 2:36
+d01t01 - Life in Technicolor - 2:26
+d01t02 - Violet Hill - 3:37
+d01t03 - Clocks - 4:22
+d01t04 - In My Place - 4:51
+d01t05 - Viva La Vida - 4:29
+d01t06 - 42 - 4:13
+d01t07 - Fix You - 5:49
+d01t08 - Chinese Sleep Chant - 2:53
+d01t09 - God Put A Smile on Your Face - 2:39
+
+Total Disc 01 - 38:00
+
+---------------------------------
+Disc 02:
+d02t01 - Speed of Sound - 6:03
+d02t02 - Yellow - 5:07
+d02t03 - Lost! - 4:22
+d02t04 - Musical Interlude - band making way to middle of crowd - 0:55
+d02t05 - The Scientist - 4:38
+d02t06 - Death Will Never Conquer - 2:34
+d02t07 - Musical Interlude - band making way back to stage - 1:54
+d02t08 - Politik - 5:50
+d02t09 - Lovers in Japan - 4:38
+d02t10 - Death and All His Friends - 3:42
+d02t11 - Life in Technicolor (closing) - 3:51
+
+Total Disc 02 - 43:39
+
+---------------------------------
+Total Time: 1:21:40
+---------------------------------
+
+**********************************************
+
+This show took a LONG time to set up and start and the crowd was HUGE and getting very antsy.  It was the last show of the festival and I think almost everyone (including all the staff, volunteers and concession stand owners were somehow squeezed in for it.  It certainly was well worth the wait.  This was one of the bands that drew me to this festival.  I had never seen Coldplay and was very eager to see them live.  Because of the traffic jams to get to the site, all the shows were already well behind schedule.  Of course this caused the snowball effect on all the following bands.  By the time Coldplay was done, it was quite late and I'm guessing that because of this and the site's desire to follow city ordinances was probably the reason why there was no encore.  They did not dissapoint and put on a fantastic show nonetheless.  
+
+Again with the very cool lights.  There were 3 large inflated baloons that lit up from the inside.  They didn't just light up with colours, though, as they also became spinning globes, faces and other things throughout the show - they were kind of like 3D projectors.  There were lasers that went off into the infinity of the sky, flying paper butterflies, weird colourfully lighted "zygotes"  bouncing through the crowds that would change colour when touched and of course, a wonderful performance by Coldplay.
+
+At one point, the band made their way right past me onto a little stage about 20 metres behind me.  Without thinking, I turned around along with everyone else to watch but after a few seconds I realized that my mics, although pointing right at the band, were now pointing in the exact wrong direction; not being omnis, I quickly turned them around creating a tangle of wires that was tricky to deal with.  It was very weird having my mics pointing directly behind me.  I found that pretty amusing but then again I'm easily amused.
+
+These guys are experienced musicians and artists and real pros.  They definitely are well polished and know how to please a crowd.  What a way to end the festival!
+
+Things to listen for:
+The person who stated Chris Martin has a sexy voice.  The fact that Chris Martin kept calling the light man "Sparky".
+
+This recording will naturally sound much better cranked up loud with quality headphones!
+
+Peace & enjoy,
+Seth
+
+
+FFP's:
+d01t00 - Ambiance & Atmosphere.flac:da1760b48cc4cc55d6b25b538d3efcb9
+d01t01 - Life in Technicolor.flac:5fb344001d23f6076f1b350fc0001025
+d01t02 - Violet Hill.flac:bced80a9231576a1b683d74abfdecdb2
+d01t03 - Clocks.flac:9786c578d6cd94e71875f5efbc9cb03f
+d01t04 - In My Place.flac:6610f384a507ee270cdd7d3a3458690d
+d01t05 - Viva La Vida.flac:3dabe8ddb54508f0d7af650f6aa2e85d
+d01t06 - 42.flac:c6f54cdcbdbaf71a2fe5cd440f56ea8a
+d01t07 - Fix You.flac:1e0d1beeb6bd628433cc59eac34bff1c
+d01t08 - Chinese Sleep Chant.flac:c33685f8d377b6c878a9a653371dffaf
+d01t09 - God Put A Smile on Your Face.flac:e14a8af8bfa616c34e5dce0640627c60
+d02t01 - Speed of Sound.flac:7952b7b2ee3b06c53d9af17d7c57cff4
+d02t02 - Yellow.flac:d92f144cbf45c686e469677619f7aee5
+d02t03 - Lost.flac:13e65b3294747469e46e432f711b8b35
+d02t04 - Musical Interlude - band making way to middle of crowd.flac:550b44bbd33d662e6ae52350822ce3b8
+d02t05 - The Scientist.flac:3fe720abb937872855892223d3e06461
+d02t06 - Death Will Never Conquer.flac:294ae48521430a761c8f0784a4b99c33
+d02t07 - Musical Interlude - band making way back to stage.flac:a090bc7d694b0ffcb2c695a2ba63b053
+d02t08 - Politik.flac:7302b920a6f3c65996306ab9637e9535
+d02t09 - Lovers in Japan.flac:24dba49fb8cbb1df7823f95cd3168619
+d02t10 - Death and All His Friends.flac:a30d54198bf8e50b72b5b4fed5afbeed
+d02t11 - Life in Technicolor (closing).flac:0d322b7b88c5c13c03fe7d9ac4af861a
+
+
+
+First seeded on Yeeshkul! 2009-02-14
+**********************************************
+Please share this recording freely.
+Do not encode to .mp3 (or any other lossy format).
+**********************************************
+01010011 01100101 01110100 01101000
+
+
+
+
+===========================
+1st Pemberton Dust Project statistics
+===========================
+11 Bands
+Total discs: 16
+Total tracks: 156
+Total music in time: 12:03:08
+Longest set: 1:38:49 (Tom Petty)
+Shortest set: 43:37 (Sam Roberts)
+Average set: 1:05:44
+Longest track: 13:46 (d01t08 - Mind Flood) - Sam Roberts
+Shortest track: 0:55 (d02t04 - Musical Interlude - band making way to middle of crowd) - Coldplay
+Total .wav size: 7.14062 GB
+Total .flac(8) size: 3.58398 GB
+Total .jpg's: 375 (669.8 MB)
+Total no. of all files: 548 files, 44 folders
+Total size of all files: 4.23 GB
+===========================
+===========================
+
+***END***

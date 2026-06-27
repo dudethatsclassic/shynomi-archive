@@ -1,0 +1,22 @@
+Coldplay
+2001-06-28
+Radio City Music Hall
+New York, NY
+
+1. Shiver
+2. Animals 
+3. Don't Panic 
+4. Spies 
+5. Murder 
+6. Everything's Not Lost
+7. We Never Change 
+8. God Put A Smile Upon Your Face 
+9. Yellow 
+10. A Rush Of Blood To The Head 
+11. See You Soon 
+12. Idiot 
+13. Trouble 
+14. In My Place 
+15. Lost Highway 
+
+Source: CSBmod > D7(48khz) > Coaxial > SPIDF > Zoltrix ZA2 > WAV > SHN 

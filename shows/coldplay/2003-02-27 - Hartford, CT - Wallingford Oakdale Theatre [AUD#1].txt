@@ -1,0 +1,37 @@
+Coldplay
+Wallingford Oakdale Theatre
+Hartford, CT
+27th February 2003 
+
+
+TRACKS:
+01. Politik
+02. God Put A Smile On Your Face
+03. Spies
+04. Daylight
+05. Trouble
+06. One I Love
+07. Warning Sign
+08. Don't Panic
+09. Everythings Not Lost
+10. Poor Me
+11. Yellow
+12. The Scientist
+13. Clocks
+14. In My Place
+15. Ladder To The Sun
+
+LENGTH:
+104:01
+
+SOURCE (AUD):
+DPA (B&K) 4022s > Sound Devices MP-2 > Sony D100 > DAT
+
+TRANSFER:
+Tascam DA-20mkii > Emagic EMI 2|6 > Apple PowerBookG4 > Sound Studio 2.0.7 > Peak 3.2 > shntool 1.2.0-rc1 > SHN > FLAC
+
+
+TAPER: 
+Scott Brown
+
+http://db.etree.org/emii

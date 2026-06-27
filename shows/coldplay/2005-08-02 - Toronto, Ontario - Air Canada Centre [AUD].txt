@@ -1,0 +1,35 @@
+COLDPLAY
+Toronto, ON - Air Canada Centre
+Twisted Logic Tour
+2005/08/02
+
+Setlist	
+
+Square One
+Politik
+Yellow
+God Put A Smile Upon Your Face
+Speed Of Sound
+Low
+Warning Sign
+Everything's Not Lost
+White Shadows
+The Scientist
+Till Kingdom Come
+Don't Panic
+Clocks
+Talk
+Swallowed In The Sea
+In My Place
+Fix You
+
+
+History: 
+-> analog Sony DAT DTC-60ES w/ SBM (A>D @ 44.1kHz)
+-> DAT-M
+-> DAT2WAV w/ Sony SDT-9000
+-> Wavelab 3.0 / fades (see comments)
+-> CD WAVE Editor Track splitting
+-> WAV
+-> TLH
+-> FLAC

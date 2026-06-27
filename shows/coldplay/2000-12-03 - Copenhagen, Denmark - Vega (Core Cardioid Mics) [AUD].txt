@@ -1,0 +1,24 @@
+Coldplay
+Copenhagen Vega, DK
+2000-12-03
+
+source: core cardiod mics->sharp md
+transfer: stationary md->optical->hd->cep->cdwav->flac
+
+01. Intro
+02. Spies  
+03. Trouble  
+04. Bigger Stronger  
+05. High Speed  
+06. Shiver  
+07. Animals  
+08. Don't Panic  
+09. Sparks  
+10. Yellow  
+11. Everything's Not Lost
+---
+12. In My Place  
+13. You Only Live Twice (Nancy Sinatra) 
+
+
+
