@@ -1,0 +1,28 @@
+Disk 1
+Wilco 20 Mar 05 d1t1.flac:750e8dfed183936fad364929f0f894ba
+Wilco 20 Mar 05 d1t2.flac:3cdffaa2918d4a89f87d953e8defc03c
+Wilco 20 Mar 05 d1t3.flac:a351793d2f18da453ce09c9ff49a6039
+Wilco 20 Mar 05 d1t4.flac:a1c5c4ebef5cc6ab32cca250226c8ae4
+Wilco 20 Mar 05 d1t5.flac:5a93a4827af6763d3f87c76b74262e51
+Wilco 20 Mar 05 d1t6.flac:04f8db69f81d5cc831c5d1fe1483f900
+Wilco 20 Mar 05 d1t7.flac:512129a011388c5dee18d13e455655a6
+Wilco 20 Mar 05 d1t8.flac:81ed1425358334a9f02bf7591954be9e
+Wilco 20 Mar 05 d1t9.flac:c791863b199d8ee79e0428e319a17ba6
+Wilco 20 Mar 05 d1t10.flac:f358a4bbaef9c7eca1bb2407d165dddb
+Wilco 20 Mar 05 d1t11.flac:f5e539a2ce1ce44f0eeb63d9aeab9a36
+Wilco 20 Mar 05 d1t12.flac:fd49912bb65342178d004f61880ae747
+
+Disk 2
+Wilco 20 Mar 05 d2t1.flac:1c31eb7b203a60afc5ebc926b7ec7b3d
+Wilco 20 Mar 05 d2t2.flac:904348a952e340598e5477f4c288888e
+Wilco 20 Mar 05 d2t3.flac:53baeac9f3810178ee987754722740be
+Wilco 20 Mar 05 d2t4.flac:e1b2ecc4ef6349006e2b32fafc2daaca
+Wilco 20 Mar 05 d2t5.flac:80c363a5c88316f5386bcdc103bae1ef
+Wilco 20 Mar 05 d2t6.flac:7e7f9925b7763c5ffd21b34caae713b2
+Wilco 20 Mar 05 d2t7.flac:32f8adf2a44f4a2b47c0f063fa0df2d0
+Wilco 20 Mar 05 d2t8.flac:c95d0645639257fa5347a80d452ce46a
+Wilco 20 Mar 05 d2t9.flac:4a8e6f98c1dce61ba50dc1e8730f3986
+Wilco 20 Mar 05 d2t10.flac:2effd6349e9a8208390036b5928736e3
+Wilco 20 Mar 05 d2t11.flac:03c86d33d13c00f8348b041cd4f1fdf1
+Wilco 20 Mar 05 d2t12.flac:b85ee986bb285983a0de8b4ffcdb7720
+Wilco 20 Mar 05 d2t13.flac:1a384b5b6c2eda7e67b5bf87062d7ee4

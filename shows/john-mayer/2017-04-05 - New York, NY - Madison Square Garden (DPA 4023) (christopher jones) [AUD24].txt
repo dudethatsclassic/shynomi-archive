@@ -1,0 +1,50 @@
+John Mayer
+5 April 2017
+Madison Square Garden
+New York, New York
+
+Recorded by: Christopher Jones <jones.chris@gmail.com>
+Source: DPA 4023 Compact Cardioid > Rupert Neve Designs Portico 5012-H Microphone Preamplifier (ÒSilkÓ circuit engaged) > Mogami XLR Interconnect > Mytek Digital Stereo192 Analog-to-Digital Converter (@ 24-bit / 96 kHz) > Mogami AES / EBU Digital Interconnect > Sound Devices 722 Hard Disk Recorder (slaved to Stereo192 @ 96 kHz; @ 24-bit / 96 kHz)
+Location: Section A, row 18, seat 1.  Microphones elevated 3 meters, A-B, directly in front of stageright line array.
+HD > .flac: Sound Devices 722 Hard Disk Recorder > Apple Macbook Pro (2.53 GHz Intel Core 2 Duo / 4GB 1067 MHz DDR3) > Audiofile Engineering Wave Editor v1.5.8 > xACT v2.39
+
+t01 Introduction  						01:36.70
+t02 Moving On And Getting Over  				07:11.65
+t03 Helpless  							06:02.32
+t04 Slow Dancing In A Burning Room  				07:08.38
+t05 Intro To...  						00:49.34
+t06 Waiting On The World To Change > War # >  			05:47.54
+t07 Something Like Olivia  					04:21.71
+t08 Walt GraceÕs Submarine Test, January 1967			05:27.68
+t09 Emoji Of A Wave 						05:01.48
+t10 Free FallinÕ %  						04:21.04
+t11 Intro To...  						02:50.01
+t12 Crossroads +  						04:13.52
+t13 Vultures 							07:07.25
+t14 Bold As Love ~  						09:17.52
+t15 Who Says >  						02:57.59
+t16 Stop This Train						05:21.09
+t17 Queen Of California >  					06:34.26
+t18 Fire On The Mountain $ > Queen Of California		08:19.68
+t19 Still Feel Like Your Man  					07:15.22
+t20 ÒThank You Guys..."  					03:12.36
+t21 Why Georgia  						06:17.39
+---
+t22 Love On The Weekend  					04:21.27
+t23 Gravity  							10:44.46
+t24 YouÕre Gonna Live Forever In Me  				05:40.64
+
+								132:03.35
+
+>  Indicates a segue into the next song
+#  Bob Marley And The Wailers cover
+%  Tom Petty cover
++  Robert Johnson cover
+~  Jimi Hendrix Experience cover
+$  Grateful Dead cover
+
+Notes:
+
+Thanks to Scott Brown for the 4023s while my 4022s were on the bench.
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 13 April 2017.

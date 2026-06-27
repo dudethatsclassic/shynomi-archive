@@ -1,0 +1,136 @@
+Wilco
+Greek Theatre
+Berkeley, CA
+08-24-2007
+
+
+Mic: Sony ECM MS907 (120-degree setting)
+Mic config: handheld, chest level
+Location: FOB DFC, 3 concrete platform levels down inside the first semicircle walkway above the pit. 
+Source:  Sony MZ-R37 MD Recorder
+Lineage: source > Total Recorder (16-bit, 44.1khz) > TLH FLAC16 (Level 6)
+
+Edits to track 16 and fade-ins/outs done with Goldwave.
+
+Recorded by: litmus
+
+Transferred and mastered by litmus
+www.bigmicroscope.com
+
+A 'From Where I Stand' Release: FWIS-014
+
+This recording is strictly for non-commercial use. Please do not distribute in any lossy format, such as mp3.
+
+PLEASE SUPPORT THE ARTIST BY PURCHASING OFFICIAL RELEASES AND ATTENDING LIVE SHOWS!
+ 
+846 MB in folder
+
+------------------------------------
+Set List
+------------------------------------
+
+01. [07:55] Sunken Treasure*
+02. [04:58] You Are My Face
+03. [05:29] I Am Trying to Break Your Heart
+04. [03:14] Either Way
+05. [00:46] Jeff Chatter
+06. [06:24] Handshake Drugs
+07. [04:33] Pot Kettle Black
+08. [03:27] War on War
+09. [06:39] Shake It Off
+10. [05:12] Side With the Seeds
+11. [05:08] A Shot in the Arm
+12. [06:11] Impossible Germany
+13. [03:40] Sky Blue Sky
+14. [04:10] Too Far Apart
+15. [05:21] Via Chicago
+16. [04:47] Jesus, etc.**
+17. [01:03] Jeff Chatter
+18. [05:05] Hate It Here
+19. [04:38] Walken
+20. [04:02] I'm the Man Who Loves You
+21. [01:58] Applause
+
+
+22. [06:53] Misunderstood***
+23. [05:15] California Stars
+24. [03:38] Hummingbird
+25. [04:24] On and On and On
+26. [01:52] Applause
+
+
+27. [03:52] I'm Always in Love
+28. [03:06] Outtasite (Outta Mind)
+29. [03:15] In a Future Age
+30. [13:35] Spiders (Kidsmoke)
+
+Total time: 02:20:30	
+
+------------------------------------
+Notes
+------------------------------------
+
+* Cell-phone-induced diginoise (not mine) from 3:47-3:49
+
+** i had to make both a battery and disc change right at the tail end of tweedy's comments and the beginning of 'jesus, etc.'. for a smoother listening experience, i created a 'patched' track version with the front part of the "jesus, etc." from my bonnaroo recording of 06-17-2007 this year. track is built as follows:
+- 00:00 to 00:40 from 08-24-2007
+- 00:41 to 01:50 from 06-17-2007
+- 01:51 to end   from 08-24-2007
+
+if you want a nothing-but-berkeley show with the fades and missing intro on 'jesus, etc.', you can swap in the alternate t16 (contained in the t16_alt subfolder) in your listening set (don't change the folder/file hierarchy in the stuff you seed, of course)
+
+*** 42 "nothin'"s in coda.
+
+- great night in a great place. the greek is a classic venue and wilco clearly enjoys playing there. great energy and an interesting setlist dipping even back to "A.M." i wish nels had been turned up a bit more and more active, but the overall band dynamic was superb.
+
+------------------------------------
+FFP Info
+------------------------------------
+
+wilco2007-08-24.FWIS-014.t01.flac:15e34659571d7f53007cdd24dcca63f2
+wilco2007-08-24.FWIS-014.t02.flac:0bca514381569327a5c4de19f4cc8306
+wilco2007-08-24.FWIS-014.t03.flac:6dfb2efde7f297f15c92d51772148470
+wilco2007-08-24.FWIS-014.t04.flac:0183debde0c1214de5ec61f4e9654022
+wilco2007-08-24.FWIS-014.t05.flac:8cfdb76db3525aac406f67c5f6c68028
+wilco2007-08-24.FWIS-014.t06.flac:54f0eb6d3b3f59437459e6bb8a0e6063
+wilco2007-08-24.FWIS-014.t07.flac:34e4fc3062fd23742eda269a768b38e9
+wilco2007-08-24.FWIS-014.t08.flac:a22a276b1f144a9556d5ed837ac6fa62
+wilco2007-08-24.FWIS-014.t09.flac:e715212387b2274ad1a179de6c9a4bc8
+wilco2007-08-24.FWIS-014.t10.flac:b5aef86c3a9b2ebee46932de5db85d1b
+wilco2007-08-24.FWIS-014.t11.flac:40d9e0ead44fdfdc35bf6e66d646f957
+wilco2007-08-24.FWIS-014.t12.flac:137030a0f8a271bdb0aa495a2b4923ff
+wilco2007-08-24.FWIS-014.t13.flac:21221eff97e783ffb8578909ca181802
+wilco2007-08-24.FWIS-014.t14.flac:31671519b1f3244ae798fc56ed778895
+wilco2007-08-24.FWIS-014.t15.flac:144e38040b52e1f46f0b6d02e1a2d815
+wilco2007-08-24.FWIS-014.t16.flac:c75807b66dd4ca67ad30846a63cefe29
+wilco2007-08-24.FWIS-014.t17.flac:9b19238eef131606dec507f0be12b23d
+wilco2007-08-24.FWIS-014.t18.flac:6a6c36272d551b5a3f062fb4b34a4b6a
+wilco2007-08-24.FWIS-014.t19.flac:d098aaf5fbaa5695442435553b577205
+wilco2007-08-24.FWIS-014.t20.flac:ad91e27f464b00e909b52716948e74da
+wilco2007-08-24.FWIS-014.t21.flac:864b18f060160d643d30638ecf96c917
+wilco2007-08-24.FWIS-014.t22.flac:e1689b9840f1aec4dcc1c3fa108aac88
+wilco2007-08-24.FWIS-014.t23.flac:4afbe05c8f690b0dccb81677025fcbe2
+wilco2007-08-24.FWIS-014.t24.flac:22ae83a4bea7ec911d48cd03f79d1abd
+wilco2007-08-24.FWIS-014.t25.flac:df9381acd46eb93652ec993306f562b0
+wilco2007-08-24.FWIS-014.t26.flac:9ea24204f886d00066068ddd15eca7cd
+wilco2007-08-24.FWIS-014.t27.flac:73a8a98bca1d6aafbeabac4982a03bc4
+wilco2007-08-24.FWIS-014.t28.flac:6b02161dd1f950c0e1cc3a014d25059e
+wilco2007-08-24.FWIS-014.t29.flac:6e72f36654297f1bc037613494b7578d
+wilco2007-08-24.FWIS-014.t30.flac:9528e17db030d2db851e0fe0dc2252fd
+
+
+Alt Track 16 FFP info
+
+wilco2007-08-24.FWIS-014.t16alt.flac:4f1963fafff9f656fad95cc06d742012
+
+-----------------------------------
+
+Do NOT sell this show. If you see this show for sale on eBay or anywhere else, please report the seller to eBay and Paypal.
+
+https://www.paypal.com/wf/f=pps_prohib
+http://pages.ebay.com/help/policies/replica-counterfeit.html
+http://pages.ebay.com/help/policies/rfe-previously-suspended.html
+
+
+
+

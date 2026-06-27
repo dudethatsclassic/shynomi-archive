@@ -1,0 +1,76 @@
+Jeff Tweedy
+March 25, 1998
+Lounge Ax, Chicago IL
+
+Source: AKG C1000 S's w/ PPC 1000 > Sony TCD-D10proII (48 kHz), FOB
+
+Transfer: Dat Master > Tascam DA-20mkII > Zefiro ZA2 (resampling to 44.1 kHz) > HD > CD Wave (tracking) > 
+Sound Forge (fade and 2 sec silence to t01) > shn
+
+Taped & transferred by Gerald Eaglebarger (chitaper@mindspring.com)
+
+Track Listing:
+
+01 Via Chicago
+02 Hesitating Beauty
+03 When The Roses Bloom Again
+04 Forget The Flowers
+05 John Wesley Harding
+06 -Stage Banter-
+07 *A Shot In The Arm
+08 New Madrid
+09 -Stage Banter-
+10 Christ For President
+11 -Stage Banter
+12 James Alley Blues
+13 Red-Eyed And Blue
+14 I Got You (At The End Of The Century)
+15 -Stage Banter-
+16 *Nothing'severgonnastandinmyway(again)
+17 Passenger Side
+18 -Stage Banter-
+19 Hoodoo Voodoo
+20 Pecan Pie
+21 %Wait Up
+22 California Stars
+23 Misunderstood
+24 -Encore Break-
+25 -Stage Banter- 
+26 I'm Always In Love
+27 Thirteen
+28 Yesterday
+
+* first time played
+% has cuts in the middle and at the end due to battery problems in the master dat deck 
+
+Note: This show fits on an 80 min. cd
+
+md5 checksums:
+3a526ee646bb2ac04cb77d8497eb38d6 *jt1998-03-25t01.shn
+bf254e62f2c767a0f4935681e30e34e3 *jt1998-03-25t02.shn
+8703b4523c09e166bda17430d5dcf366 *jt1998-03-25t03.shn
+05d88d4b2011e9ab17555907575eb7b1 *jt1998-03-25t04.shn
+0cefd83a44dd7c2ed6d0485322e0d6de *jt1998-03-25t05.shn
+5881f5e8ac2e9797c153adf32ff08541 *jt1998-03-25t06.shn
+49893838f049623f6b47f5b24eff4718 *jt1998-03-25t07.shn
+38f7a0a17b5d47b9aaac09f837b35414 *jt1998-03-25t08.shn
+65538915c325c8138c3e6a8213fb31b3 *jt1998-03-25t09.shn
+1805623a297cc9493cc4fa9d20c5cba7 *jt1998-03-25t10.shn
+98432545b775280ba302bf52e70d523d *jt1998-03-25t11.shn
+f05133922d4c9ba5dd7afa207d47c5df *jt1998-03-25t12.shn
+72a12780ac382501b43b9eaa44430446 *jt1998-03-25t13.shn
+e5f82fd04f6653088baba82de8d36273 *jt1998-03-25t14.shn
+1a6aadf75fd4a44b9db26ff7cc81a7a4 *jt1998-03-25t15.shn
+4dd207ca0fa72e8bbebc52b3b049b4d1 *jt1998-03-25t16.shn
+4f800868acdc8089e1368f596c4188ac *jt1998-03-25t17.shn
+79d3532c246ca8aa91165da4bf0d1d11 *jt1998-03-25t18.shn
+0af39e9fc000874d50700f4f024457a6 *jt1998-03-25t19.shn
+4ae71d92035f8aa86ee68ed85f1e1fb6 *jt1998-03-25t20.shn
+2dd75bef9e67c6423e515085d883f36c *jt1998-03-25t21.shn
+7d41ce5f0282b03aab3c100d340b2952 *jt1998-03-25t22.shn
+75c346b02439872a81e80d05d16167de *jt1998-03-25t23.shn
+88aacd7da7647c35655bb697f985429b *jt1998-03-25t24.shn
+f5c69e633da7d5e22278e5cb7c57b6ea *jt1998-03-25t25.shn
+cf69141b3d25f24b0a3b0794330fa943 *jt1998-03-25t26.shn
+962a9b170c62775407410debaaf522a4 *jt1998-03-25t27.shn
+ca76e049fe79a68a31a909a3f5ee55df *jt1998-03-25t28.shn

@@ -1,0 +1,91 @@
+Dave Matthews Band
+Sigma Phi Epsilon Fratenity House,
+University of North Carolina - Chapel Hill
+Chapel Hill, NC
+February 11, 1993
+
+RE-CONVERSION with Additional songs
+
+Taper:      	Unknown
+Source Info:    SBD -> Cassette (unknown generation) -> CD
+
+Conversion: Adam Nelson (nelso222@msu.edu)
+
+CD > flac:  EAC (secure mode, all tracks 100%) -> WAV -> flac frontend (level 6)
+Tracks split using CD Wave v1.93.3
+
+
+                          ********************
+                          PRESERVE THE QUALITY
+                          DO NOT ENCODE TO MP3
+                          ********************
+
+
+Track   |       Name         		   |   Time (m:s)
+------------------------------------------------------------------
+Set I:
+d1t01		All Along The Watchtower	04:02	
+d1t02		Also Sprach Zarathustra ->	01:48		
+d1t03		Ants Marching			05:21
+d1t04		Help Myself			05:46
+d1t05		One Sweet World			05:48
+d1t06		So Much To Say			05:03
+d1t07		Two Step			13:39		
+d1t08		Granny				04:53
+d1t09		True Reflections		06:20
+d1t10		What Would You Say		05:21
+d1t11		Song That Jane Likes		05:25	
+d1t12		Best Of What's Around		06:25
+
+d2t01		Intro				00:23
+d2t02		Jimi Thing			12:31
+d2t03		Rhyme & Reason			16:19
+d2t04		Recently			09:15
+d2t05		Jam ->				06:54
+d2t06		Typical Situation		08:39
+d2t07		Lie In Our Graves		07:15
+d2t08		Warehouse			08:38
+
+
+
+NOTES:
+----------
+This is the reconverted version from different source CDs. The first version 
+circulated was not complete. This contains additional songs 
+(Watchtower, Recently, Jam -> Typical, LIOG, and Warehouse)
+
+Boyd mentions their opening show for Widespread Panic the next day (02/12/93) 
+at Hampden-Sydney College.
+
+The start of Watchtower is misssing. The begining of LIOG is also missing. 
+
+There are some small digital pops in this recording.
+
+There was a cut during True Reflections that was removed. The song was 
+patched back together to remove the dead space but it is not a seemless fix.
+
+This show has been around before, but no proper conversion/pitch
+adjustment has been done until now. 
+
+These rare older shows have been collected and converted through a 
+collaborative effort to get them into circulation. Sometimes these 
+shows do not have the best sound quality (and maybe that's why they 
+aren't circulated much to begin with), but people should have access 
+to them. 
+
+Thanks to Andy Svenson for donating the CD source used for the conversion.
+
+Compiled By Adam Nelson on December 10, 2006
+
+Update by Henry Hart on 12.18.06:
+This show needed no adjustments, but this was added from my original conversion:
+
+This show has recently been refered to as taking place at the
+"Sigma Phi" fraternity house in Chapel Hill. As far as I know, there
+has never been a Sigma Phi chapter at Chapel Hill and being from NC
+and spending many a late night at UNC since I was 15, I'm confident
+in my findings. That narrows this down to Delta Sigma Phi and Sigma
+Phi Epsilon. My future brother-in-law is a Phi Kappa Sig brother from the
+mid 90's and says DMB never played at Delta Sig. I am changing this venue to
+the Sigma Phi Epsilon frat house until any evidence can prove
+otherwise.

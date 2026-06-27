@@ -1,0 +1,36 @@
+Wilco
+Tastefest, Fisher Building Parking Lot, Detroit MI
+July 2, 2003
+
+Recording Info:
+MG 210 > sxm2 > sbm1 > D8 DAT Master @ 16bit/48kHz
+
+Processing:
+DAT Master > tascam da45-hr > usbpre2 > adobe audition > cdwav > tlh flac 8
+
+these are 16bit/48kHz flac files
+
+01. The Late Greats
+02. I'm Always In Love
+03. Muzzle Of Bees
+04. I'm the Man Who Loves You
+05. Poor Places
+06. Reservations
+07. I Am Trying to Break Your Heart
+08. War On War
+09. At Least That's What You Said
+10. How to Fight Loneliness
+11. Heavy Metal Drummer
+12. Jesus, Etc.
+13. Red-Eyed and Blue
+14. I Got You (At the End of the Century)
+15. We've Been Had
+16. Casino Queen
+17. When You Wake Up Feeling Old
+18. When the Roses Bloom Again
+19. Misunderstood
+20. Forget the Flowers
+21. New Madrid
+22. California Stars
+23. Monday
+24. Outta Mind (Outta Sight)

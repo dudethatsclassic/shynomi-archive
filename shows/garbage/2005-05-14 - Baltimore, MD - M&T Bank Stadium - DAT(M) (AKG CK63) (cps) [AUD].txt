@@ -1,0 +1,25 @@
+GARBAGE
+May 14, 2005
+M&T Bank Stadium
+Baltimore, MD
+
+Source: AKG CK63 > JK Labs DVC iii > Sony PCM-M1
+Location: twenty-five feet from overhead right PA, floor 
+Taper: CPS
+Lineage: DAT(M) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Sony PCM-R500 > Audiophile 192 > Amadeus Pro
+Edits/EQ: +0.9dB, Ozone Imager (-100/-5.1 @ 250Hz), Ozone Maximizer (-2dB/-0.3dB)
+Notes: Main Stage @ WHFStival
+
+01 - intro
+02 - Bad Boyfriend
+03 - Stupid Girl
+04 - Vow
+05 - Bleed Like Me
+06 - I Think I'm Paranoid
+07 - Push It
+08 - Only Happy When It Rains
+09 - Why Do You Love Me
+
+
+Compiled May 2019 by CPS

@@ -1,0 +1,80 @@
+Wilco
+Schmilco World Tour - Chicago Theater
+Chicago, IL US
+2017-02-25
+
+Lineage: HD over fm>Sangean HDT-1>Rotel-05 SE>SoundBlaster (Live! 24 bit External)>wav(CD Wave Editor)>flac
+
+Announcer 2:11
+Normal American Kids 2:58
+If I Ever Was a Child 3:12
+Cry All Day 4:31
+Sunken Treasure 6:35
+Kamera 3:20
+The Joke Explained 3:47
+Someone to Lose 3:39
+Misunderstood 4:25
+The Lonely 1 4:12
+Impossible Germany 9:39
+Shouldn't Be Ashamed 3:28
+We Aren't the World (Safety Girl) 3:24
+Dawned on Me 4:14
+Theologians 4:55
+Via Chicago 5:31
+Jesus, Etc. 5:10
+Locator 4:40
+Heavy Metal Drummer > 3:20
+I'm the Man Who Loves You (digiskip @ 2:00) 4:07
+Hummingbird 3:43
+The Late Greats 3:09
+
+Crowd/Inane DJ (cut)
+
+Encore:
+Box Full of Letters 3:36
+Random Name Generator 4:40
+Red-Eyed and Blue> 2:26
+I Got You (At the End of the Century)>4:00
+Outtasite (Outta Mind) 2:37
+Spiders (Kidsmoke) (digiskip @ 4:33) 10:34
+
+Crowd/Inane DJ (cut)
+
+Encore 2:
+A Shot in the Arm (Acoustic) 4:31
+
+Total Time: 126:46
+
+st5 fingerprints:
+
+8cdc306b9a3f52d5cad70c647d137285  [shntool]  wxrt wilcom 2017-02-2501.flac
+d36e91eb0eb20c290cfeb8c199c546d4  [shntool]  wxrt wilcom 2017-02-2502.flac
+c98158b8c1f19bcb9eb5c64fcbc0c60b  [shntool]  wxrt wilcom 2017-02-2503.flac
+aa53167053e4748fe80971a48e949913  [shntool]  wxrt wilcom 2017-02-2504.flac
+4f6c4483c6c9da77128d991f93c6160a  [shntool]  wxrt wilcom 2017-02-2505.flac
+860afbb0382105bc6a68997b23f01e74  [shntool]  wxrt wilcom 2017-02-2506.flac
+a71cc4ae9bbc31c2ece15af7e0dff6dd  [shntool]  wxrt wilcom 2017-02-2507.flac
+75d202499d9ca2f0c7202815d1778968  [shntool]  wxrt wilcom 2017-02-2508.flac
+45022fcedf7e59e6c3493e87cc466393  [shntool]  wxrt wilcom 2017-02-2509.flac
+a5faffdf81ad9e95985b02999523df54  [shntool]  wxrt wilcom 2017-02-2510.flac
+49ab490253668180154efd0e8559ea7a  [shntool]  wxrt wilcom 2017-02-2511.flac
+ee39aeb4b7378fda98c16cb765408c41  [shntool]  wxrt wilcom 2017-02-2512.flac
+07c7d052d5e93f3a72ec8b659523f28f  [shntool]  wxrt wilcom 2017-02-2513.flac
+9ba0e546bee3b2b42cfe72baebb7ee9c  [shntool]  wxrt wilcom 2017-02-2514.flac
+2dfc1fbd61b16a179176567be3adffbe  [shntool]  wxrt wilcom 2017-02-2515.flac
+bf6eefb41c7fbae7c553d4f3745e025e  [shntool]  wxrt wilcom 2017-02-2516.flac
+dd76d30d478d92fc353f5ef0196b1531  [shntool]  wxrt wilcom 2017-02-2517.flac
+e6e6d72d6bb5c580888dc724e65e56bc  [shntool]  wxrt wilcom 2017-02-2518.flac
+aab799238be43c43d89c4b0e8f902f42  [shntool]  wxrt wilcom 2017-02-2519.flac
+f55e72339cfc52225ff709303b60b5c0  [shntool]  wxrt wilcom 2017-02-2520.flac
+801f38bc4d6f2864fd5cd76ac2cef763  [shntool]  wxrt wilcom 2017-02-2521.flac
+81f665c809612a3e71046b27c7792394  [shntool]  wxrt wilcom 2017-02-2522.flac
+93b17bd8d4ed8a0878b7e9a92eea4993  [shntool]  wxrt wilcom 2017-02-2523.flac
+252a538d7c1976344234d2c891e3df9e  [shntool]  wxrt wilcom 2017-02-2524.flac
+019dfdea6786b5439289a280a13b6c70  [shntool]  wxrt wilcom 2017-02-2525.flac
+8d3a4ba43ab215b357b4864e208f5633  [shntool]  wxrt wilcom 2017-02-2526.flac
+d63131c051d53b73dace400fab20fe98  [shntool]  wxrt wilcom 2017-02-2527.flac
+f34fede408c15291ee34ecffceccb11c  [shntool]  wxrt wilcom 2017-02-2528.flac
+557e6f501db919a867be893deb2a5e3d  [shntool]  wxrt wilcom 2017-02-2529.flac
+
+No errors occured.

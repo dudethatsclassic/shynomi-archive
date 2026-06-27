@@ -1,0 +1,27 @@
+SIGUR ROS
+
+southside festival
+neuhausen ob eck
+germany
+june 20th 2008
+
+austrian alternative radio FM4 broadcast. aired july 14th 2008
+
+
+onkyo t4500 tuner -> audiophile delta 24/96 soundcard  -> 
+music cleaning lab (16bit/48khz-recording & track splitting) -> flac8 (traders little helper) -> dime
+
+
+01 Svefn-g-englar
+02 Ny Batteri
+03 Glósóli
+04 við spilum endalaust
+05 Hoppipola/með blóðnasir
+06 inní mér syngur vitleysingur
+07 Hafsol
+08 Gobbledigook
+09 Popplagið
+
+
+recorded and seeded on dime by gobolino
+so long and thanks for all the fish

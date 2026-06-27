@@ -1,0 +1,99 @@
+Wilco
+2008-03-26
+Palace Theatre, Melbourne
+
+Taper: Adam
+Location: Balcony, 5m from right stack
+
+Source: Audix m1290 > UA-5 (bm2p+) > iriver H140 (rockbox digi-in)
+Conversion: iriver>USB>Adobe Audition>CDWav 1.94.3>FLAC Frontend 1.7.1 (Level 8)
+
+
+---FEEL FREE TO ENCODE TO LOSSY FORMATS (eg MP3) FOR PERSONAL USE, BUT PLEASE ONLY TRADE LOSSLESS (FLAC) VERSION---
+
+Disc 1:						[73:12]
+
+01. Intro						[00:35]
+02. Misunderstood					[06:10]
+03. Reservations					[03:52]
+04. Company In My Back				[04:05]
+05. Sunken Treasure				[07:30]
+06. You Are My Face				[04:50]
+07. Side With the Seeds				[05:54]
+08. Shouldn't Be Ashamed			[03:55]
+09. Handshake Drugs				[06:02]
+10. A Shot in the Arm				[05:00]
+11. How to Fight Loneliness			[04:55]
+12. Impossible Germany				[06:32]
+13. She's a Jar					[05:40]
+14. Summer Teeth					[03:38]
+15. Pot Kettle Black				[04:28]
+
+Disc 2:						[74:00]
+
+01. Intro to...					[00:16]
+02. Via Chicago					[05:46]
+03. Jesus, Etc.					[04:03]
+04. Spiders (Kidsmoke)				[11:28]
+05. Crowd Noise					[02:31] 
+
+Encore 1:
+
+06. Intro to...					[00:49]
+07. California Stars				[05:43]
+08. Walken						[05:19]
+09. I'm the Man Who Loves You			[05:10]
+10. Passenger Side				[04:01]
+11. Hate It Here					[05:26]
+12. Red-Eyed and Blue				[02:15]
+13. I Got You (At the End of the Century)	[04:11]
+14. Casino Queen					[03:18]
+15. Outtasite (Outta Mind)			[03:03]
+16. I'm a Wheel					[04:51]
+
+Encore 2:
+
+17. The Lonely 1					[05:44]
+
+
+Notes:
+
+Simply unbelievable show.
+
+--NEVER PAY FOR LIVE AUDIENCE RECORDINGS--
+
+
+FLAC FINGERPRINTS:
+============================================================
+wilco2008-03-26.m1290.d1t01.flac:9ec26d9fe3d3d66ca1491e6fa32c1274
+wilco2008-03-26.m1290.d1t02.flac:a0c7d2c0e3cae3cfcc1f9864e37bc82a
+wilco2008-03-26.m1290.d1t03.flac:1dd51021dc869d2ae718b0ec3910875a
+wilco2008-03-26.m1290.d1t04.flac:f5e1a8bdcbedc7f159c77c2f46813ac4
+wilco2008-03-26.m1290.d1t05.flac:c42ce53d79eee402d4f9256322021a6c
+wilco2008-03-26.m1290.d1t06.flac:508bab8d443ad5cf052cfbcbb9c6c0d3
+wilco2008-03-26.m1290.d1t07.flac:62d6402cb095b593b8da2ca582e57982
+wilco2008-03-26.m1290.d1t08.flac:6f966f298483979fee955d1ff68398ed
+wilco2008-03-26.m1290.d1t09.flac:0e94e75cc77d8f584401d3065ad67c53
+wilco2008-03-26.m1290.d1t10.flac:05a370e3c4ee51f29243cd0e21628235
+wilco2008-03-26.m1290.d1t11.flac:8dad3ad8079b6415f57475f84ce1b953
+wilco2008-03-26.m1290.d1t12.flac:0d069e779b8ffc9a19218c70edf00b9b
+wilco2008-03-26.m1290.d1t13.flac:e8c670b8a4ba9615b4d29b867294b6b2
+wilco2008-03-26.m1290.d1t14.flac:35cd2328398a445608ab4d9924b3f58f
+wilco2008-03-26.m1290.d1t15.flac:380a2ac1bdf455262c050c04b46e110b
+wilco2008-03-26.m1290.d2t01.flac:42b94d33a2d24334e089e67294e89313
+wilco2008-03-26.m1290.d2t02.flac:bb3425edca0ef7e5c1191b6bc3d37fbc
+wilco2008-03-26.m1290.d2t03.flac:5b733cdfba4512b0016723a068d64ca2
+wilco2008-03-26.m1290.d2t04.flac:202481773ba7cb384635c11a5724a07d
+wilco2008-03-26.m1290.d2t05.flac:49403d8d6341e1c8cac021ad00111d48
+wilco2008-03-26.m1290.d2t06.flac:39460b3903489db6d63c58d74f1d2110
+wilco2008-03-26.m1290.d2t07.flac:1fbef6d2a7bf2e6f6370e41d0968a2a7
+wilco2008-03-26.m1290.d2t08.flac:16446bc5c00ba1d11a2c64d7e13f33d4
+wilco2008-03-26.m1290.d2t09.flac:a91bab2f441c8a5f5e91a6c7dbbf5dee
+wilco2008-03-26.m1290.d2t10.flac:5289f60393851703120859721809bbe3
+wilco2008-03-26.m1290.d2t11.flac:4d405e3f6fd67cc73768d939304bb7ad
+wilco2008-03-26.m1290.d2t12.flac:ada6e9bba1a399882629d7d8c233184a
+wilco2008-03-26.m1290.d2t13.flac:e4748ffe9e611109f442b67457b24e88
+wilco2008-03-26.m1290.d2t14.flac:99141da86d399607f1c9d7b4b7d6368a
+wilco2008-03-26.m1290.d2t15.flac:2b8edfb0f6e4ef1f7be31a2f10214b09
+wilco2008-03-26.m1290.d2t16.flac:81c92ae5c9f42640db59aeeec85a2fc0
+wilco2008-03-26.m1290.d2t17.flac:22e1b6eae552cbe4e06a8e35d5850b07

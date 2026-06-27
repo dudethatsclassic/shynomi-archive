@@ -1,0 +1,43 @@
+Wilco 
+
+Coachella Music & Arts Festival 
+30 April 2005 
+Empire Polo Grounds, Indio, California. 
+
+Source: Master Audience DAT: DPAs=DanishProAudio 6040's (9V BatBox >Line In) > Sony PCM-M1 > Maxell 90m DAT @48k 
+
+
+Playback/Transfer: Fostex D5 Master (DAT) Recorder > Tascam CD-RW5000 
+(AES/EBU out > Coax in) > CD > Peak 4.0 ( Extraction, Tracking, Fades ) > verify SBE OK, generate .aiff.checksum, compress to flac level 7, generate fingerprint, verify via xACT 1.4b23, seeded to EZT via Azureus 2.2.0.2 by BoldCaptain May 2005. 
+
+Taper location about half way up security rail left hand side of stage.
+
+
+setlist:
+
+1. The Late Greats   
+2. I Am Trying To Break Your Heart   
+3. At Least That's What You Said   
+4. Muzzle Of Bees   
+5. Handshake Drugs   
+6. A Shot In The Arm   
+7. Hummingbird   
+8. Jesus, Etc.   
+9. War On War   
+10. Spiders (Kidsmoke)   
+
+
+setlist from Wilcobase.com 
+
+fingerprint:
+
+Wilco2005-4-30-DPAs-t01.flac:300cda61389482ad7b807cb5606b7704 
+Wilco2005-4-30-DPAs-t02.flac:fa387be42303bfde4d657389c2707b20 
+Wilco2005-4-30-DPAs-t03.flac:7d3bd6412841c82818e6ce6da641566b 
+Wilco2005-4-30-DPAs-t04.flac:c96675571c1179cf1c8f545e23d5b725 
+Wilco2005-4-30-DPAs-t05.flac:4db62e2d6aaf7d9831f6e64245d903a9 
+Wilco2005-4-30-DPAs-t06.flac:27587209f1d0fc27ae8fcd203de09237 
+Wilco2005-4-30-DPAs-t07.flac:f5490bc5728a57ac88bd8f4a4ee29e03 
+Wilco2005-4-30-DPAs-t08.flac:789df22942821fcb8b617f50ad8706ad 
+Wilco2005-4-30-DPAs-t09.flac:ecda8740f8e6486bcc4b3878e79b29d9 
+Wilco2005-4-30-DPAs-t10.flac:ce2fa0e681bef395a13cadc9abece13b 

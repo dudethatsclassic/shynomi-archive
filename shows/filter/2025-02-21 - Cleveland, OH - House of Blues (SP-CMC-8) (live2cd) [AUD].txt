@@ -1,0 +1,66 @@
+Filter
+February 21st, 2025.
+The House of Blues - 
+Cleveland, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   20ft back from right stack; mics mounted on baseball hat brim.
+Source:     SP-CMC-8 Cardioids (4.7k mod) > SP-SPSB-11 (@16Hz) > Sony PCM-A10 (24 bit @48kHz) >
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Sony PCM-A10 > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (1:32:08)
+
+01. You Walk Away				5:16
+02. The Drowning				4:05
+03. For The Beaten				4:12
+04. What Do You Say				4:03
+05. Face Down					3:46
+06. (Can't You) Trip Like I Do			5:04
+07. No Love					4:42
+08. Obliteration				3:59
+09. The Take					3:34
+10. Jurassitol					5:36
+11. Take A Picture				6:37
+12. Soldiers Of Misfortune			4:22
+13. Captain Bligh				6:05
+14. Thoughts And Prayers			4:29
+15. So I Quit					4:00
+16. American Cliche				4:41
+17. Drug Boy					3:57
+18. Welcome To The Fold 			6:05
+19. Hey Man Nice Shot				7:35
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+My first Filter show in over 10 years. Ironically, the last time I saw them
+was paired with Local H (who opened this show) and Helmet in 2014. Richard
+whined and complained on stage that night when people started to leave (tons
+of local support on a weeknight, they went on late, etc) so I got a pretty
+bad taste in my mouth not wanting to see them again. Especially when they 
+cut their set short by about 5 songs due to his bitch fit. Anyway, that is
+now water under the bridge. This show was quite the opposite. This was not
+only a rare headliner (on a tour where they are supporting Jerry Cantrell),
+but a homecoming for Richard, as he is from Cleveland. His mom was actually
+seated right above me in the balcony. It was packed, too. I couldn't move
+much on the floor and there was crowd surfing!! It felt like 1996 again.
+It was a tremendous show and I left pleasantly surprised. The new songs 
+sounded great slotted in next to the classics. The bass was extremely heavy,
+tho, so I did my best in post to EQ it down. The first third of the show
+was the worst, so I spent considerable time on that section. Local H's
+set sounded much better, but this is still quite good. 
+
+This recording is dedicated to the memory of fellow Cleveland taper (and
+Filter fan), Jason "nameloc01". He was gracious enough to send me CD-Rs in
+the mail over the years including a show we were both at (Filter at the Grog
+in 2010) when my rig failed! He was on my mind when I was taping this. RIP.
+
+Local H opened. [recorded].
+
+---------------------------------------------------------------------------------------------------------
+For more information on Filter, please visit:
+
+http://www.officialfilter.com/

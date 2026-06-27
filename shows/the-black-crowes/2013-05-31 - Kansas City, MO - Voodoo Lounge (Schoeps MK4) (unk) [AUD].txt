@@ -1,0 +1,25 @@
+The Black Crowes
+2013-05-31
+Voodoo Lounge
+Kansas City, MO
+
+Source: Schoeps MK4 / CMR > Naiant Tinybox > Sony PCM-M10 @ 48 kHz / 24-bit
+Lineage: 48/24 WAV > Audacity 2.0.0 (normalize, split tracks, resample to 44.1 kHz, dither to 16-bit, convert to FLAC level 8)
+
+
+Setlist:
+
+01 Been A Long Time Waiting (On Love)
+02 Jealous Again
+03 Thick 'N' Thin
+04 Hotel Illness
+05 Good Night Captain
+06 Ballad In Urgency
+07 Wiser Time
+08 She Talks To Angels
+09 Whoa, Mule
+10 Thorn In My Pride
+11 Soul Singing
+12 Hard To Handle -> Hush -> Hard To Handle
+13 ~ encore break ~
+14 Remedy

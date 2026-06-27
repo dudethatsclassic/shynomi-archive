@@ -1,0 +1,44 @@
+** Plz do not sell this recording **
+
+Recorded  By Rocco 
+Encoded by Yoann Moulin / yoann@mistur.org
+Sigur ros Live - Auditorium de Lyon - France
+24/02/2003
+
+Source :
+
+Dat : Sony PCM1-M1
+Mic : Sony ECM 999 RP
+
+setlist :
+
+Vaka
+Mìlanò
+Samskeyti
+Ny batteri
+Gong
+Salka
+Olsen Olsen
+Vidrar vel til loftarasa
+Hafsol
+Smaskifa
+---------
+Staralfur
+Popplagid
+
+
+md5sum :
+
+7a057870750fb9aa25bbe0e4e399d2b9  01-Vaka.shn
+3e88ee3b12a319f7422f381c898b77c9  02-Mìlanò.shn
+22928f9370fe486601d42dacf449ad3c  03-Samskeyti.shn
+f4976404f0160df9c1ab219a387af0a3  04-Ný batterí.shn
+78a00e6a6d717e94cc4364867040f3ee  05-Gong.shn
+13de035c41a97cc2c4b70b86cbd3963d  06-Salka.shn
+a2b06f05965f92f4a91da89b2da51f73  07-Olsen Olsen.shn
+e9d83ef5fabb4d842f87ba68ec3352a3  08-Vidrar vel til loftarasa.shn
+deb0553c52674746ea977334822f99bf  09-Hafsol.shn
+7c9baa1485f937f671b720571e465085  10-Smaskifa.shn
+96389e48002e67265cf98fd42babe1ff  11-Staralfur.shn
+8d4dd1f9a46220ff5fcf12242a0e6c4f  12-Popplagið.shn
+c54069ab93f752c23a2da4e3f59492df  13-Outro.shn

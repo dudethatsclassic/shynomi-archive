@@ -1,0 +1,68 @@
+EVERCLEAR
+October 13, 2023
+Quarry Park Amphitheatre
+Rocklin, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. So Much for the Afterglow
+02. Everything to Everyone
+03. Heroin Girl
+04. You Make Me Feel Like a Whore
+05. Father of Mine
+06. Sunflowers
+07. Sing Away [Art Alexakis song]
+08. Like a California King
+09. Wonderful
+10. Sweet Home Alabama [Lynyrd Skynyrd cover jam]
+11. Strawberry
+12. AM Radio [w/ extended jam intro]
+13. Local God
+14. I Will Buy You a New Life
+15. curfew medley jam
+	// Living After Midnight [Judas Priest cover]
+	// Another One Bites the Dust [Queen cover]
+	// Rock You Like a Hurricane [Scorpions cover]
+	// Living, Loving Maid (She's Just a Woman) [w/ "Rock and Roll" drum outro, Led Zeppelin covers] ->
+16. Santa Monica
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.5
+Sound Professionals SP-CMC-4U > Sony PCM-A10
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (AT-U853's, with SP UE-H-PAIR hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > Sony PCM-A10 High-Resolution Digital Audio Recorder > WAV [48kHz/24-bit] > USB connector > Insignia NS-PA3C3A USB-C to USB adapter > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 23.2 [post-production/mastering] > xACT 2.54 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+FLAC FINGERPRINTS:
+-------------------
+everclear2023-10-13_AUD1_t00.flac:fa381427597820d1b7cb13bc99f5491e
+everclear2023-10-13_AUD1_t01.flac:0c59e2089606fa1df66288b1d83a8773
+everclear2023-10-13_AUD1_t02.flac:4ce0cb8addd56630186a8ad64fca07e0
+everclear2023-10-13_AUD1_t03.flac:56009fe830d98cd769ea094a1e70c69d
+everclear2023-10-13_AUD1_t04.flac:57c302e4c5d4a9b8315b53acbcc5158e
+everclear2023-10-13_AUD1_t05.flac:6d554f19c56574d0641e88ed7e13e03e
+everclear2023-10-13_AUD1_t06.flac:9d138bdfb87c0abf2c25f0ae2807a9f4
+everclear2023-10-13_AUD1_t07.flac:63b144d4cf3d258b269e755ba273d3be
+everclear2023-10-13_AUD1_t08.flac:56c67b94db2b844370301d6a6fe0294e
+everclear2023-10-13_AUD1_t09.flac:efc96550c0e669d55d579808fc793786
+everclear2023-10-13_AUD1_t10.flac:68e88ed5761d0b82a5505f00dec493b0
+everclear2023-10-13_AUD1_t11.flac:4bba36266c8e9d8abe14ff67ac7803d7
+everclear2023-10-13_AUD1_t12.flac:f95b594a79a4cd7500ee85c012f2c3b4
+everclear2023-10-13_AUD1_t13.flac:142f9235cdddaaaa3bc588ee29529ec4
+everclear2023-10-13_AUD1_t14.flac:b8d0bbc624edfd4af6ea18730ed61be3
+everclear2023-10-13_AUD1_t15.flac:2bad23e2e685b3d60895944961422a60
+everclear2023-10-13_AUD1_t16.flac:de0a61b43bd7dbfda34519ec490b174d
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

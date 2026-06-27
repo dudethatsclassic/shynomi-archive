@@ -1,0 +1,117 @@
+JOHN MAYER
+Jones Beach Ampitheater
+Wantagh NY
+08-23-2017
+
+01 Helpless
+02 Moving on and Getting Over
+03 banter
+04 China cat Sunflower / Something Like Olivia
+05 Who Says
+06 Rosie
+07 Dreaming with a Broken Heart / Walt Grace
+08 Walking on the Moon / Daughters
+09 banter
+10 Free Fallin
+11 banter
+12 Good Love is on the Way
+13 Wait Until Tomorrow
+14 Vultures
+15 In the Blood
+16 banter
+17 If I Ever Get Around to Living
+18 Slow Dancing in a Burning Room
+19 Edge of Desire
+20 banter
+21 Why Georgia
+22 crowd
+23 Stop This Train
+24 Gravity
+25 You're Going to Live Forever in Me
+
+Microtech Gefell M210's > Oade M-248 > Sound Devices 722 > WAV 2448.
+Floor section FOB, concert recording by Jon Pasternak.
+WAV 2448 > R8Brain > Wavelab > CD-Wave > TLH > FLAC 1644.
+Note: Don Browning's source patches Olivia 3:25 thru Who Says 1:19.
+
+ac5bbb885c9d429171935744496187ff *jm2017-08-23t01.flac
+cd307a3a344833a41c3da38d14bfedd8 *jm2017-08-23t02.flac
+db9d3c0bf462dffac7423426e31f8704 *jm2017-08-23t03.flac
+d2d2fdc2b2c1c549f9b390cc6f01fecf *jm2017-08-23t04.flac
+6fa8ab8c031b391960b247c683e44eb3 *jm2017-08-23t05.flac
+ec887baed3bbf158f2874b44c9e87e58 *jm2017-08-23t06.flac
+f0c55fe7b54ccb5fcbf04c037b57db6c *jm2017-08-23t07.flac
+c5065422c7818e3ac4de3167e705bf47 *jm2017-08-23t08.flac
+90c499157efe9f94329792eff192348f *jm2017-08-23t09.flac
+739663c4d1f1b96a2458b491f4f6e02f *jm2017-08-23t10.flac
+972180d969f163e9ba33639e22de7fff *jm2017-08-23t11.flac
+318c91f62f894cf0bc9a27a96a32b1eb *jm2017-08-23t12.flac
+a0d140e420caec9198c1273e1c4d1a32 *jm2017-08-23t13.flac
+8ed513005c68e6d367e035118e314601 *jm2017-08-23t14.flac
+149813a0caeb0e7134eff53424beec49 *jm2017-08-23t15.flac
+d3d3feca2f212d04355d472a4fb97cdb *jm2017-08-23t16.flac
+d31ff80ef61e67e9af3d4def011764a4 *jm2017-08-23t17.flac
+f9d236d6c9b7ec8eb98ce15edebd5c8e *jm2017-08-23t18.flac
+21de2238b4dabdae9b3a347b8db5e66b *jm2017-08-23t19.flac
+bec044125d14f0e1b83e88ace58935c2 *jm2017-08-23t20.flac
+7489994d00f4c90165be5a8b3aac4f28 *jm2017-08-23t21.flac
+e47ef826c465268ced22717250433847 *jm2017-08-23t22.flac
+51459dee33302a9e5eb3ae50a1efb68c *jm2017-08-23t23.flac
+e56f4c8d00859f564dafc8294255225a *jm2017-08-23t24.flac
+e8991036fbedc8817e3f3a74f517d644 *jm2017-08-23t25.flac
+
+jm2017-08-23t01.flac:fa3ecfb6ab0b67f93028fb760f05fb80
+jm2017-08-23t02.flac:ca4889116bf2b1f02136c61562bc428b
+jm2017-08-23t03.flac:d289e75dc6bd555645862ab16a7c1378
+jm2017-08-23t04.flac:3ec000aff8933cc5707c4dd2fe7d9ecb
+jm2017-08-23t05.flac:156152b7afe5e65d106707bece64b156
+jm2017-08-23t06.flac:32ae817614387f414484edc9527c51a2
+jm2017-08-23t07.flac:74bd9a3087f8ec3a8f3f8ecfa7d7d65c
+jm2017-08-23t08.flac:f92fdeb4f85237351995c1c51b20660a
+jm2017-08-23t09.flac:55ab19c769052b40452509fa0e32b9cf
+jm2017-08-23t10.flac:75ff03edf243ca333093444673fe1343
+jm2017-08-23t11.flac:aa132878e53bd07cbb47d3fde405815a
+jm2017-08-23t12.flac:6d17b9bb23fba39403351858816c69eb
+jm2017-08-23t13.flac:cbbb09658938f22c706e3c0e43efe3e1
+jm2017-08-23t14.flac:444f03fa93887e6f26484698ac12189c
+jm2017-08-23t15.flac:78e9c93cadefd77e1c0e6fc49d90bedb
+jm2017-08-23t16.flac:4098715c1cda6582e47ff3d06891a2e0
+jm2017-08-23t17.flac:3224925c8002735998ebd545d9d542e4
+jm2017-08-23t18.flac:53c96afb1245e6a999c447fec6b2139a
+jm2017-08-23t19.flac:450fce77e16ae831cb2262567c516027
+jm2017-08-23t20.flac:ead5f14228b503d9eb28f0454d222e69
+jm2017-08-23t21.flac:03a1a6f6d92340c07382037cc0df12aa
+jm2017-08-23t22.flac:4ee59810e9f0b4590153e773e2fb4c58
+jm2017-08-23t23.flac:504b3195fc451e74b6b8fd8e29db7044
+jm2017-08-23t24.flac:b0a62b0cfd4665d52840630d225d89e4
+jm2017-08-23t25.flac:4a82a091ab1de2689d0240d3771bfa69
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:03.46       64141436 B   ---   --   ---xx   flac  0.5757  jm2017-08-23t01.flac
+     6:10.39       65359772 B   ---   --   ---xx   flac  0.5642  jm2017-08-23t02.flac
+     1:00.11       10609916 B   ---   --   ---xx   flac  0.4530  jm2017-08-23t03.flac
+     5:09.19       54552332 B   ---   --   ---xx   flac  0.6024  jm2017-08-23t04.flac
+     3:40.37       38895068 B   ---   --   ---xx   flac  0.4892  jm2017-08-23t05.flac
+     4:58.38       52656620 B   ---   --   ---xx   flac  0.5499  jm2017-08-23t06.flac
+     7:02.71       74607836 B   ---   --   ---xx   flac  0.4340  jm2017-08-23t07.flac
+     4:55.30       52108604 B   ---   --   ---xx   flac  0.5041  jm2017-08-23t08.flac
+     1:49.09       19248812 B   ---   --   ---xx   flac  0.3933  jm2017-08-23t09.flac
+     4:18.30       45581804 B   ---   --   ---xx   flac  0.4931  jm2017-08-23t10.flac
+     2:31.22       26688188 B   ---   --   ---xx   flac  0.3937  jm2017-08-23t11.flac
+     4:40.35       49474364 B   ---   --   ---xx   flac  0.6142  jm2017-08-23t12.flac
+     4:42.59       49883612 B   ---   --   ---xx   flac  0.6370  jm2017-08-23t13.flac
+     7:48.16       82592876 B   ---   --   ---xx   flac  0.5280  jm2017-08-23t14.flac
+     4:12.72       44622188 B   ---   --   ---xx   flac  0.5683  jm2017-08-23t15.flac
+     1:02.61       11080316 B   ---   --   ---xx   flac  0.4221  jm2017-08-23t16.flac
+    13:25.45      142107884 B   ---   --   ---xx   flac  0.5869  jm2017-08-23t17.flac
+     7:40.20       81191084 B   ---   --   ---xx   flac  0.5268  jm2017-08-23t18.flac
+     6:01.46       63788636 B   ---   --   ---xx   flac  0.6063  jm2017-08-23t19.flac
+     3:29.70       37032284 B   ---   --   ---xx   flac  0.4484  jm2017-08-23t20.flac
+     6:17.20       66549884 B   ---   --   ---xx   flac  0.5989  jm2017-08-23t21.flac
+     1:43.47       18279788 B   ---   --   ---xx   flac  0.4323  jm2017-08-23t22.flac
+     5:14.47       55500188 B   ---   --   ---xx   flac  0.4692  jm2017-08-23t23.flac
+     9:34.10      101277164 B   ---   --   ---xx   flac  0.5433  jm2017-08-23t24.flac
+     3:36.41       38198876 B   ---   --   ---xx   flac  0.3988  jm2017-08-23t25.flac
+   127:10.41     1346029532 B                            0.5349  (25 files)
+
+No errors occured.

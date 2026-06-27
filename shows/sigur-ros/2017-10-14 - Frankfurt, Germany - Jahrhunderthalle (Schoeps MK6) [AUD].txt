@@ -1,0 +1,34 @@
+SIGUR RÓS
+2017-10-14
+Jahrhunderthalle
+Frankfurt am Main, Germany
+
+Source:     Schoeps MK6 (cardioid) > NBob actives > Naiant tinybox > Sony PCM-M10
+Mic Config: DIN-A (90°, 17cm)
+Location:   right side, ~20m from stage
+Transfer:   Master WAV > dEdit > FLAC V1.3.1
+Editing:    Digital editing in Apple Logic Pro X V10.3.1
+            EQ, volume boost and compression using iZotope Ozone7 V7.0.1299
+            Single claps removed using iZotope RX 6 De-click V6.00.1210
+            Fades in Audiofile Engineering Wave Editor V1.5.7
+Dithering:  MBIT+
+Format:     16 bit / 44.1 kHz
+
+Disc 1 (Set 1):
+01 Á
+02 Ekki Múkk
+03 Glósóli
+04 E-Bow
+05 Dauðalagið
+06 Niður
+07 Varða
+
+Disc 2 (Set 2):
+08 Óveður
+09 Sæglópur
+10 Ný Batterí
+11 Vaka
+12 Festival
+13 Kveikur
+14 Popplagið
+15 (Outro)

@@ -1,0 +1,15 @@
+01 Intro.flac:287740a31569ebfcdcb856688024e524
+02 Push It.flac:dce91e22f6040169f5163235e5ffc230
+03 Temptation Waits.flac:50e0415dce81c7a3c3722fb37f3b020c
+04 I Think I'm Paranoid.flac:2e15652ba97d6c9798c022bf75ab1a2b
+05 Special.flac:2c3242dd88af5c4d7c89c4f5842b0def
+06 Cup Of Coffee.flac:078d768154e041cbe873d492efd78ec5
+07 Til The Day I Die.flac:dac623be92f981ae92202f8dec95cbdc
+08 Hammering In My Head.flac:07066b5613ad8390fd0ae93a6ebd01e1
+09 Shut Your Mouth.flac:997c171f990855a90c58dc126dcbcbc7
+10 Parade.flac:e92b3ca86aa6775bb751a9935a116c34
+11 Stupid Girl.flac:822eface0243645294d35f6a75d53fc4
+12 Cherry Lips (Go Baby Go).flac:3a7223cb32e9ecc04a0ba670dc160266
+13 Vow.flac:8ae87b252bc6f76575be11f23a3e10f2
+14 Milk.flac:549aa003eeaea70f7653133c8823cc1b
+15 Outro.flac:9b0509c97c051422f2352849100f9c51

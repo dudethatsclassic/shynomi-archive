@@ -1,0 +1,27 @@
+Sevendust
+93x Clambake
+Roy Wilkins Auditorium
+St. Paul, MN
+August 22, 1999
+
+Source:
+unknown soundboard recording >MD master >MD copy
+>wave >cd-r >cd-r(2) >EAC >wave >TLH >FLAC(level 8).
+
+Set/Track List:
+1. Home
+2. Terminator
+3. Denial
+4. Speak
+5. Headtrip
+6. Crumbled
+7. Black
+8. Rumble Fish
+9. Bitch
+
+Notes:
+Other bands on the bill were Staind, StaticX, Skunk Anansie, Slipknot, Machine Head and Powerman 5000.
+Setlist.fm shows that Too Close to Hate was played after Black. If so, it isn't in this recording.
+Frequency analysis shows a steep dropoff around 16khz but the wave continues beyond.
+
+

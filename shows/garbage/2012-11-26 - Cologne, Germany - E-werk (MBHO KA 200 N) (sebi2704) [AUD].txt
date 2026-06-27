@@ -1,0 +1,48 @@
+GARBAGE
+2012-11-26
+E-Werk
+Köln, Germany
+
+Source:     MBHO KA 200 N > Naiant Tinybox > Sony PCM-M10
+Mic Config: A-B
+Location:   ~10m from the stage, right side
+Transfer:   Master WAVs > dEdit > FLAC V1.2.1
+Editing:    Volume boost and EQ in Apple Logic Pro V9.1.8
+            Fades in Audiofile Engineering Wave Editor V1.5.4
+Resampling: 48.0 kHz > 44.1 kHz resampling using iZotope 64-bit SRC
+Dithering:  MBIT+
+Format:     16 bit / 44.1 kHz
+
+Disc 1:
+01 (Intro)
+02 Queer
+03 Automatic Systematic Habit
+04 Shut Your Mouth
+05 (Banter)
+06 Why Do You Love Me
+07 Metal Heart
+08 Stupid Girl
+09 Vow
+10 I Hate Love
+11 The Trick is To Keep Breathing
+12 I Think I'm Paranoid (abandoned) / (Banter)
+13 I Think I'm Paranoid
+14 Special
+15 Sorrow [David Bowie] (tease)
+16 Blood For Poppies
+
+Disc 2:
+01 Cherry Lips (Go Baby Go!)
+02 Battle in Me
+03 Cup of Coffee
+04 Push It
+05 Only Happy When It Rains
+06 You Look So Fine
+07 (Encore Break)
+08 (Banter)
+09 Trip My Wire
+10 The World is Not Enough
+11 Milk
+12 #1 Crush
+13 > When I Grow Up
+14 (Outro)

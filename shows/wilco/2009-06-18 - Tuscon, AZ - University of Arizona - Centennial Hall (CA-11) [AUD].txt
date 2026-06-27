@@ -1,0 +1,97 @@
+Wilco: "It's all your fault Tucson"
+
+Centennial Hall - UofA Tucson, Arizona
+June 18, 2009
+
+Recorded by u22utoo. IMHO, this is a nice recording.  I pulled it from just stage right of the Soundboard. There are a few, very short, sound issues caused by me moving the mic connection at various times during the show.  I had to do a lot of up and down (from seated to standing).  These are all minor issues.  By some miracle, I had no loud clappers, coughers, sneezers, talkers or anything of that nature close to me.  Just good, clean Wilco music!  If you are a Wilco fan, you won't be disappointed with this one.  I promise.
+
+Lineage: CA-11 > Zoom H2 (44.1 kHz/16 bit, hi gain - 100% level) > PC > CD Wave (cut tracks) > TLH (.flac 6, .md5, ensured alignment on sector boundaries)
+
+Disc One
+1.  Hell is Chrome
+2.  Handshake Drugs
+3.  Wilco (the song)
+4.  Muzzle of Bees
+5.  You are My Face
+6.  Bull Black Nova
+7.  I am Trying to Break Your Heart
+8.  Pot Kettle Black
+9.  One Wing
+10. A Shot in the Arm
+11. Side with the Seeds
+12. Via Chicago
+13. "It's all your fault Tucson"
+14. Jesus, etc.
+15. Impossible Germany
+16. Poor Places 
+17. Reservations
+18. Spiders (Kidsmoke)
+19. Hummingbird
+20. "Thank You guys"
+21. Hotel Arizona 
+22. The Late Greats
+23. Hate it Here
+24. Walken
+25. I'm the Man Who Loves You
+26. Kingpin
+27. I'm a Wheel
+
+Recommended disc split after track 16.
+
+DO NOT SELL.  TRADE FREELY. Help preserve the integrity of this recording by not trading in a lossy format. 
+
+Wilco Taping Policy (no longer on their webpage): 
+
+	Wilco does permit audio taping and trading of live performances wherever it does not conflict with venue or other restrictions beyond our control.
+
+	We do not allow direct soundboard patches.
+
+	We also do not allow videotaping.
+
+	Wilco supports the free trading of live recordings for non-commercial purposes.
+
+
+.md5 Checksum Information:
+
+762e9db7c07dd18f6b58fc1e2a5766e0 *Wilco200901.flac
+eed13156eedf1e4a0f86310b745749b2 *Wilco200902.flac
+f4c9a403eb2985ed20f1e55de3433945 *Wilco200903.flac
+a6dd5845c5666a167c4bf2690c4be0eb *Wilco200904.flac
+d1d3f01361a968f5029d8dbc0eb1ec38 *Wilco200905.flac
+13b9c02bf351ac832056a979ed48130f *Wilco200906.flac
+302b4aac0b9666957b5032a0d5bee73e *Wilco200907.flac
+a29782e7dc35ed9dbc188705c453e63d *Wilco200908.flac
+845efbed37af4e935ca0dd7a0356198b *Wilco200909.flac
+eefd4836fc1d73ad8b4e3e2d6319131c *Wilco200910.flac
+931d9b4e3e073c74b0c6a8f47a352fe6 *Wilco200911.flac
+c5939fc3a089cf701af4dd33764efa83 *Wilco200912.flac
+829db342e8df7d0ea3b62b8ee1a49b23 *Wilco200913.flac
+10cc58da7ed448b646c745ffd5923ce7 *Wilco200914.flac
+597ac4af3f42b6373617ececcc02e5a4 *Wilco200915.flac
+27db8633c4ace508c85d54e97f7535dd *Wilco200916.flac
+2e04a31e37c906f8dfdad2b89b6f708f *Wilco200917.flac
+6c7af683301d29020ade3bdb931cc3c0 *Wilco200918.flac
+7f2b24ee83160ef7866e88d0739fd88e *Wilco200919.flac
+f5a1207238ab1d3db740c4532f2bbdc4 *Wilco200920.flac
+4e892a9e7931b97190ddbe3960ef4dcf *Wilco200921.flac
+a5d0b032d436b5994c496d47bb2cdb91 *Wilco200922.flac
+7a364d94bf469e05d18c658b4b9ac2fe *Wilco200923.flac
+a4daed403b5a1f665c30910f4cca692d *Wilco200924.flac
+3403da48849b136728f3b9d6996afcc8 *Wilco200925.flac
+56e1f827ecf483adc325aa48cdaa7f65 *Wilco200926.flac
+20e67ab20af43a8a06f37fb82a217b0a *Wilco200927.flac
+
+Checksum file saved to disk.
+
+No errors occured.
+
+
+Another steller recording of this show is located here: http://bt.etree.org/details.php?id=526058
+
+He had a rig set up right next to the soundboard - full sized mics, etc.  Great stuff.
+Source: AKG ck3|a60m|c460b > Segue Dogstar XLRs > Fostex FR-2LE (24bit/44.1khz)
+Transfer: CF Card > .bwf > Audacity (gain/fades/dither) > CDWav > .wav > .flac
+
+Location: directly right of SBD cage, 8'ROC, ~85' from stage, stand @ 7'
+Config: 23cm @ 70*
+taped/transferred by: (jbanyai97@yahoo.com)

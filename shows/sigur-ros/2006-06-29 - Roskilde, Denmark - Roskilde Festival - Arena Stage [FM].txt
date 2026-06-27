@@ -1,0 +1,33 @@
+Sigur Rós 
+Arena Stage
+Roskilde Festival
+Denmark
+2006-06-29
+
+Source: SR P3 (FM analog cable)
+
+Transfer: Denon DRA-585RD -> SB Audigy 2 ZS -> Adobe Audition 1.5
+
+Encoding: FLAC8 (Align on sector boundaries)
+
+Setlist:
+00. Takk... [Announcer introducing Sigur Rós]
+01. Glósóli
+02. Ný Batterí
+03. Sæglópur
+04. Hoppípolla
+05. Með Blóðnasir
+06. Olsen Olsen
+07. Sé Lest
+xx. Viðrar Vel Til Loftárása
+xx. Hafssól
+08. Popplagið
+
+xx - Not broadcasted
+
+Notes:
+As broadcasted on Swedish Radio's P3 Live 2006-11-20.
+No talking during the broadcast! Thank you, Mikael Brodin!
+You can omit track 00 if you dislike the Swedish language. :)
+
+/jakimo

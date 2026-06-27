@@ -1,0 +1,30 @@
+Keane  
+Vive Latino 2025  
+Amazon Music Stage  
+Estadio GNP Seguros  
+Iztacalco  
+Mexico City, Mexico  
+March 16th, 2025
+
+Lineage: Live Twitch webcast -> streamlink -> ffmpeg (trim) ->.mkv  
+Video: MPEG4 Video (H264) 1920x1080 16:9 6000 Kbps 29.97 fps  
+Audio: AAC 96 Kbps 48.0 KHz stereo
+
+Setlist:  
+Silenced by the Night  
+Bend and Break  
+Nothing in My Way  
+Spiralling
+We Might as Well Be Strangers  
+You Are Young  
+Everybody's Changing  
+A Bad Dream  
+Is It Any Wonder?  
+This Is the Last Time  
+Crystal Ball  
+Somewhere Only We Know  
+Sovereign Light Café  
+Bedshaped
+
+
+trt = 65:35

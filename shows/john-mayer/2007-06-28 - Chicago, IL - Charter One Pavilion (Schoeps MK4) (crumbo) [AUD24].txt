@@ -1,0 +1,46 @@
+John Mayer
+Charter One Pavillion
+Chicago, IL
+June 28, 2007
+
+
+Taper:  Crumbo
+Location: Section 103 Row H Seats 11 & 12
+Source:  Schoeps MK4 (DIN, ~7.5') > active cables > nbox+ > SD 722 (24/96)
+Conversion:  SD 722 > Wavelab 5.01b > CDWav 1.95.1 > xACT 0.5.9 > foobar2000
+
+
+***DO NOT DISTRIBUTE IN LOSSY FORMATS***
+***16/44.1 Version exists in flac format***
+
+
+01 Intro                                                 01:01.227
+02 Belief                                                06:29.707
+03 No Such Thing                                         04:34.507
+04 Good Love is On the Way                               04:52.307
+05 I Don't Trust Myself (With Loving You)                10:27.440
+06 Neon                                                  06:18.413
+07 Bigger Than My Body                                   05:37.120
+08 (Old School Medley)                                   01:06.280
+09 Wheel                                                 08:55.067
+10 Jam >                                                 03:02.000
+11 I Don't Need No Doctor                                09:33.320
+12 Why Georgia                                           05:06.067
+13 Vultures                                              09:56.853
+14 Waiting on the World to Change                        06:10.040
+15 Gravity                                               08:12.240
+16 Encore Break                                          02:17.093
+17 The Hurt >                                            00:36.693
+18 I'm Gonna Find Another You                            07:54.000
+
+Total: 102:10.373
+
+
+
+Notes:
+
+-Windy show, rumblings can be heard during the quieter parts.
+-Thanks to Cristina for the tix, eat and greet and all the help.
+
+
+Compiled by Crumbo 6-29-2007.

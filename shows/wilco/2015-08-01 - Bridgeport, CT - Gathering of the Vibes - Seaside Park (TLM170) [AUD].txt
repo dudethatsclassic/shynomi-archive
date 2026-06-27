@@ -1,0 +1,49 @@
+Wilco
+Gathering Of The Vibes
+Seaside Park
+Bridgeport, CT
+8/1/2015
+
+Neumann TLM170 (hypercardoids, 40 feet split at the front L/R edges of the SBD) -> Sound Devices 722 (@24/96); FLAC File processing in SoundForge 11 (L/R channel time alignment; volume normalization; resample to 44.1 with iZotope 64-Bit SRC set higher than "Highest Quality" setting w/anti-alias filter; 24->16 bit dither using iZotope MBIT+ Dither with Ultra noise shaping, High dither settings; minor clap scrubbing); Tracked in CDWav. IDv3 tagged in Tag&Rename 3.9.1
+
+"Stars Wars" Album complete performance:
+1.  EKG (pre-recorded playback over PA) ->
+2.  More...
+3.  Random Name Generator
+4.  The Joke Explained
+5.  You Satellite
+6.  Taste the Ceiling
+7.  Pickled Ginger
+8.  Where Do I Begin
+9.  Cold Slope
+10. King of You
+11. Magnetized
+12. banter - new album
+
+Other stuff:
+13. Handshake Drugs
+14. Kamera
+15. I Am Trying to Break Your Heart ->
+16. Art of Almost
+17. Via Chicago
+18. banter - 20th anniversary
+19. Shouldn't Be Ashamed
+20. Walken
+21. I'm the Man Who Loves You 
+22. Jesus, Etc.
+23. Born Alone ->
+24. Laminated Cat 
+25. Impossible Germany
+26. Passenger Side 
+27. banter - thanks / Warren
+28. California Stars *
+
+* = w/Warren Haynes on additional guitar and Joe Russo on percussion
+
+Total time:1:52:38
+
+I hand scrubbed claps from T7(2 claps), T11(1 clap), T13(2 claps), T14(2 claps), T16(10 claps), T17(2 claps), T25(7 claps + 1 yell)
+
+Special thanks to Steve Toney and Ted Gatkais for letting me clamp my mics to their stands to run my split!
+
+Recorded, mastered, tracked and posted by Scott Bernstein (8/25-9/2/2015)

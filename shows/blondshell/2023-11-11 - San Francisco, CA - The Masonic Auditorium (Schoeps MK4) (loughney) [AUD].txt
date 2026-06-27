@@ -1,0 +1,17 @@
+Blondshell - 2023 11 11 @ 	The Masonic Auditorium, San Francisco CA
+
+1 Veronica Mars
+2 Cartoon Earthquake
+3 Sepsis
+4 Joiner
+5 Man
+6 Deceptacon [Le Tigre]
+7 Street Rat
+8 Olympus
+9 Kiss City
+10 Salad
+11 Tarmac
+
+Taper: loughney
+Location: floor in front of the left stack
+Lineage: Schoeps MK4 > BabyNBox > Sony A10 > WAV (44.1/24) > SoundForge (fades, volume normalization) > CDWAVE (splits) > FLAC 		

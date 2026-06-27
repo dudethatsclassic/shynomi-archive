@@ -1,0 +1,39 @@
+Soul Asylum 
+Unknown
+Athens, GA
+1986-02-13 or 14
+
+Source:   AUD > C by Jon Wells
+Transfer: C (UX 90) > Nak CR-7A > Tascam DA-3000 (DSF 1-bit/5.6 MHz) > EZ CD Audio Converter > PCM @ 2496 
+Master:   Wavelab 11 (tracking, levels, resample, Lin dither) > FLAC 1644
+
+Thanks to Jon Wells for taping or collecting the tape, and Ted Mattes for facilitating
+
+01. Tied To The Tracks
+02. Lap Of Luxury
+03. Made To Be Broken
+04. Can't Go Back
+05. Don't It (Make Your Troubles Seem Small)
+06. Never Really Been
+07. Crashing Down
+08. Do You Know
+09. Lookin' For A Love
+10. Carry On
+11. Growing Pain
+12. Long Way Home
+13. Sad And Lonesome Day
+14. Ain't That Tough
+15. Whoa
+16. Cocktails
+
+Encore:
+17. unknown
+
+This appears to be uncirculated and also misdated.  The cassette was marked "Feb 8 Athens, GA" but the band was in Philadelphia on the 8th.  It was in Athens on February 13 (at the University's Tate Center) and 14 (Club 688).  There's nothing on the recording to indicate venue or date.  So, the 13th or 14th could be correct.  
+
+The recording is up front and loud, as you might except from a small theater or club.  The levels take a few moments to settle in.  There was a strange channel imbalance during Can't Go Back, which has been fixed.  
+
+Enjoy!
+
+--mhg :: 2023-08-19
+

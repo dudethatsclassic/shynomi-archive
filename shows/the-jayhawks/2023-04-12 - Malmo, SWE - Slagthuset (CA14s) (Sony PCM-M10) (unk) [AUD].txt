@@ -1,0 +1,30 @@
+The Jayhawks
+Malmö Slagthuset, SWE
+2023-04-12
+
+Source: ca14->ca9100->sony pcm-m10 -> wav (48 khz/24 bit)
+Transfer: sony pcm-m10->hd->cep->cdwav (44,1 khz/16 bit)->flac
+
+01. Intro
+02. I'm Gonna Make You Love Me
+03. The Man Who Loved Life
+04. Angelyne
+05. Waiting For The Sun
+06. Nothing Left to Borrow
+07. Everybody Knows (The Chicks)
+08. All the Right Reasons
+09. Bitter Pill
+10. I'd Run Away
+11. Trouble
+12. Backwards Women
+13. Save It For a Rainy Day
+14. We'll Sweep Out the Ashes in the Morning (Gram Parsons)
+15. Quiet Corners & Empty Spaces
+16. Somewhere in Ohio
+17. Blue
+18. Tailspin
+---
+19. Listen Joe (Golden Smog)
+20. Settled Down Like Rain
+21. Big Star
+22. Bad Time (Grand Funk Railroad)

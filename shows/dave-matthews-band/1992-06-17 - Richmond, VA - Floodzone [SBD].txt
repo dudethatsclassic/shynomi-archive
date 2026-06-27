@@ -1,0 +1,86 @@
+Dave Matthews Band
+Floodzone
+Richmond, VA
+June 17, 1992
+
+
+Taper:      Thomas Vinson (and unknown vid taper)
+Source Info:    SBD/Aud -> VHS -> DVD
+
+Conversion: Jason Stessel (JayBTV / Billie'sTV)
+
+CD > flac:  Audition extract Audio from VOBs --> TLH
+(level 6)
+
+Tracks split using CD Wave 
+
+
+
+Track  |      Name          |  Time (m:s)
+------------------------------------------------------------------
+
+Set I:
+
+xxxxx Two Step (Included as Filler)
+
+d1t01 Intro (00:16)
+d1t02 Song That Jane Likes (03:12)
+d1t03 Cry Freedom (06:11)
+d1t04 Satellite (04:13)
+d1t05 Ants Marching (05:23)
+d1t06 Spotlight (05:48)
+d1t07 One Sweet World (Swim Naked) (05:19)
+d1t08 All Along The Watchtower (06:24)
+d1t09 Minarets -> (05:31)
+d1t10 Blue Water (09:06)
+d1t11 Tripping Billies (04:36)
+d2t12 So Much To Say (04:36)
+
+d2t01 Best Of What's Around (09:31)
+d2t02 True Reflections (06:56)
+d2t03 The Maker (06:28)
+d2t04 Dancing Nancies (06:25)
+d2t05 Angel From Montgomery * (05:39)
+d2t06 Warehouse (06:43)
+d2t07 Help Myself (05:24)
+d2t08 What Would You Say (04:37)
+d2t09 Improv Jam -> (08:03)
+d2t10 Typical Situation (08:18)
+d2t11 Once On A Wild Afternoon (08:29)
+
+FILLER:
+
+Two Step (6:29) (Alt Source for continuity)
+
+
+NOTES:
+----------
+* = John Prine Cover
+
+I went through hell to get this out for all of us.  
+
+As for notes.  SBD starts part way through STJL (d1t02).  SBD continues until
+midway through Nancies where the SBD source cuts.  Used the alternate audience 
+source (Never before released as well) and spliced the rest of the set on.  Thus
+from mid-nancies to the end of Wild Afternoon is audio from a video camera.  Still
+very good considering and MUCH MUCH better than the current circulating source (see 
+Two Step filler for comparison).
+
+I included Cry Freedom from the circulating source (major gen loss) for continuity.  
+I didn't think it fit at the beginning of this recording since the other tracks all 
+sound great.  Burn as you see fit.
+
+This is the only known full performance of Wild Afternoon.  It was cut on the prior
+audio source of this show.
+
+Dave makes a mistake during Best of What's Around which leads to an extended jam.
+
+Stefan sings backup in a few places including Minarets and WWYS.
+
+This cost me a lot of time and $$$ so please enjoy - did it for my love of DMB.
+
+Enjoy,
+
+-JayBTV (www.youtube.com/jaybtv + www.myspace.com/jaybtv)
+
+Compiled 10/18/09

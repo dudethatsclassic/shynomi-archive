@@ -1,0 +1,71 @@
+John Mayer
+2008 summer Tour
+July 30, 2008
+Cricket Wireless Pavilion
+Phoenix, AZ
+
+Source:         Sony ECM-719 > Olympus LS-10
+Conversion:     LS-10 > WAV > FLAC Frontend
+Taper:          Debbie Ocoboc (docoboc.u@yuku.com)
+Transferred By: Claude Sawyer (csawyer@tapergeek.com)
+
+01. Bigger Than My Body
+02. Something's Missing
+03. I Don't Trust Myself (With Loving You)
+04. Good Love is On the Way
+05. Ain't Nobody's Bizness
+06. Untitled into Free Falling
+07. Belief
+08. Stitched Up
+09. No Such Thing
+10. Waiting on the World to Change
+11. Vultures (Missing)
+12. Say
+13. Neon
+14. Crossroads
+15. Sweet Chad O'Mine
+16. Gravity
+
+Notes: The recorder shut off just prior to Vultures.  Vultures was
+not recorded.  NEVER buy or sell live recordings.  If you enjoy
+live shows pick up John's new live DVD/CD "Where the Light Is."
+
+http://www.TaperGeek.com
+
+FLAC Fingerprint:
+jmayer2008-07-30t01.flac:945bcb4966562e66416cd2edf0e1a02e
+jmayer2008-07-30t02.flac:b3196a02cf2f9de641de4dcaaaeb543e
+jmayer2008-07-30t03.flac:87433d8271368c870e35c5caec20cafc
+jmayer2008-07-30t04.flac:807fa187ffb519ebdcbbb5230b85936d
+jmayer2008-07-30t05.flac:dea3bfe80b54f3f3170ef51e182f4075
+jmayer2008-07-30t06.flac:70642c0ad47e24105664c0933f31c80a
+jmayer2008-07-30t07.flac:2cf757cd2f3c96b3d561c78cc9e5bdb2
+jmayer2008-07-30t08.flac:d2c2cd992b1b7fcb300eb44b1d0a80f1
+jmayer2008-07-30t09.flac:f8e5ab76196e2892dfb427f4ddcb8f0b
+jmayer2008-07-30t10.flac:5007460a49efb78416bf9521e2920942
+jmayer2008-07-30t11.flac:bde7c5253ca8019e73921599bd94ed66
+jmayer2008-07-30t12.flac:820a1bb583d86a7455480bbf7cfe560c
+jmayer2008-07-30t13.flac:d5a23bea127a17283f5745c6a7ca42c0
+jmayer2008-07-30t14.flac:147b70db8da2270d758afa07d5bc56a9
+jmayer2008-07-30t15.flac:841bcacf734e864315a4d7e64f2d738f
+jmayer2008-07-30t16.flac:31022227cd33e934dcd90ce3a30c431c
+
+MD5 Checksum
+751211b396616cbb4bf04f00b6b7d983 *jmayer2008-07-30t01.flac
+4ac4481d5e59efac46f6e3b12a67a74e *jmayer2008-07-30t02.flac
+968c4baf9ce1949f810b09f506509e16 *jmayer2008-07-30t03.flac
+e8c898e81b0ea676490ebbe6f7b27002 *jmayer2008-07-30t04.flac
+ab93d49b95180486a20f6abcb7618a61 *jmayer2008-07-30t05.flac
+df5ee76a66cf60227cdad6a0e9bf61b0 *jmayer2008-07-30t06.flac
+29c84f0ce8ba9ec483286cb11ad7cf7e *jmayer2008-07-30t07.flac
+0e54b1a8cc4d1b56b17bc5b0d4ccdca4 *jmayer2008-07-30t08.flac
+65f09b19668cd3f9fbdfe1e6db0979eb *jmayer2008-07-30t09.flac
+f370642495610db2da13bee7ba9d3ef5 *jmayer2008-07-30t10.flac
+7e8bc8d17a4a36f8ded0017794fa4502 *jmayer2008-07-30t11.flac
+c9db99d1d180bb4fbc9253856993536f *jmayer2008-07-30t12.flac
+0163ec1c50b835aa479393d44a2fe5af *jmayer2008-07-30t13.flac
+b2c96c0d21c2f81c93d7229087499bc0 *jmayer2008-07-30t14.flac
+e8b9d343df3c112a933ca5d0d01eb154 *jmayer2008-07-30t15.flac
+738d983308039ffd0cebc587f73a0f04 *jmayer2008-07-30t16.flac
+
+

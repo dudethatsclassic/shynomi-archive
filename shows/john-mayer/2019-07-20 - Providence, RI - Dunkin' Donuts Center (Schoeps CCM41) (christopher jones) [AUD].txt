@@ -1,0 +1,59 @@
+John Mayer
+20 July 2019
+Dunkin' Donuts Center
+Providence, Rhode Island
+
+Recorded by: Christopher Jones <jones.chris@gmail.com>
+Source: Schoeps CCM41 Handmatched Compact Supercardioid > Rupert Neve Designs Portico 5012-H Microphone Preamplifier (ÒSilkÓ circuit engaged) > Mogami XLR Interconnect > Mytek Brooklyn Analog-to-Digital Converter (@ 24-bit / 96 kHz) > Mogami AES / EBU Digital Interconnect > Sound Devices 722 Hard Disk Recorder (slaved to Mytek Brooklyn @ 96 kHz; @ 24-bit / 96 kHz)
+Location: FOH; microphones elevated approximately 4.5 meters, A-B
+HDD > .flac: Sound Devices 722 Hard Disk Recorder > Apple Macbook Pro (2.53 GHz Intel Core 2 Duo / 4GB 1067 MHz DDR3) > Apple Logic Pro X > Sound Forge Pro Mac 3.0.0 (Build 100) > xACT v2.41
+
+Resampled with iZotope 64-bit SRC at highest quality setting; dithered using iZotope MBIT+ with a "Normal" amount of "Ultra" noise shaping applied.  24-bit / 96 kHz version of this recording available in .flac24.  
+
+Set I:
+
+t01 Introduction  						02:29.44
+t02 Intro To...  						00:19.56
+t03 Heartbreak Warfare  					05:15.32
+t04 Love On The Weekend  					04:13.48
+t05 I Don't Trust Myself (With Loving You)  			08:07.34
+t06 No Such Thing  						04:27.21
+t07 Waiting On The Day  					07:35.13
+t08 Helpless  							06:37.14
+t09 Who Says  							03:43.28
+t10 Paper Doll  						05:46.06
+t11 Changing  							07:28.21
+t12 Dear Marie  						05:42.60
+
+Set II:
+
+t13 Introduction  						01:16.71
+t14 Walt Grace's Submarine Test, January 1967  			06:36.11
+t15 Your Body Is A Wonderland  					04:16.49
+t16 Free Fallin' +  						04:54.19
+t17 In The Blood  						04:34.56
+t18 Still Feel Like Your Man  					06:31.26
+t19 Dreaming With A Broken Heart  				04:33.51
+t20 Queen Of California >  					04:43.54
+t21 Fire On The Mountain %  					08:14.62
+t22 (The Beautiful Ones #) >  					01:21.25
+t23 Slow Dancing In A Burning Room  				08:43.62
+t24 Waiting On The World To Change   				03:52.40
+t25 "Thank You..." 						02:44.71
+t26 I Guess I Just Feel Like  					09:17.63
+---
+t27 Gravity (I've Got Dreams To Remember +)  			08:17.22
+t28 New Light  							05:25.02
+
+								147:11.11
+
+() Indicates a tease or partial song if not part of a song with a parenthetical subtitle
++  Tom Petty cover
+>  Indicates a segue into the next song
+%  Grateful Dead cover
+#  Prince cover
++  Otis Redding cover
+
+Notes:
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 14 August 2019.

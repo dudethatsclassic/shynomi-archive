@@ -1,0 +1,83 @@
+Garbage
+Date: 16 October 2001
+Location: United Center, Chicago, IL
+
+There was a technical difficulty during Shut Your Mouth, and after the song the stage crew worked on Duke’s guitar amp while the rest of the band entertained the crowd with snippets of Day Tripper and Thirteen.
+
+Set list:
+
+cd1:
+
+01 Intro
+02 Push It
+03 Special
+04 I Think I'm Paranoid
+05 Silence Is Golden
+06 Drive You Home
+07 #1 Crush
+08 Stupid Girl
+09 Shut Your Mouth
+10 Shirley Chats 1
+11 Technical Difficulties
+12 Only Happy When It Rains
+
+Original Lineage: Sony MZ-R90 MD > Professionals CMC-7, Premium Cardioids (Audio Technica 933 mics) > Battery Box > CDR
+
+Source:
+
+The source for this release is a CDr recording that has recently been obtained as part of the circa 200+ private collection of Garbage Live Shows, which im presently indexing, converting to Flac and then sharing.
+
+As such I have no other information to work with. I have no info on the original source, the taper, location or their equipment. Spectural anlaysis for several files are provided, for information.
+
+If the native Info files are available on these CD's, then that data will be captured in the info file that are generated, for each release. If this is your original release, thank you for recording, and please advise of any further data that you may have.
+
+There are also a number of audio cassettes to work through to, which will be addressed once the CD's have been concluded.
+
+A huge thank you again to the original collector Jayson Kaap who gathered up all these shows over the years.
+
+Another huge thanks again to the https://www.garbagebase.com website, which has proven to be a valuable resource for helping out with show dates, locations & track listings etc.
+
+Any constructive / helpful comments that you may have, are always welcome.
+
+
+ALWAYS, ALWAYS SUPPORT THE ARTISTS
+DO NOT SELL THIS SHOW
+DO NOT ENCODE TO MP3
+DO TRADE IT IN LOSSLESS FORMAT
+
+
+Transfer: 
+
+CDr > Exact Audio Copy V1.6.  No other filters, effects or fades have been applied, just the CDr ripped from Wav into Flac format.
+
+Compression	 				: Flac 1024 kBit/s 
+Quality 					: High Add 
+ID3 tag 					: Yes
+Read mode               			: Secure
+Utilize accurate stream 			: Yes
+Defeat audio cache      			: Yes
+Make use of C2 pointers 			: No
+Combined read/write offset correction       	: 0
+Overread into Lead-In and Lead-Out          	: No
+Fill up missing offset samples with silence 	: Yes
+Delete leading and trailing silent blocks   	: No
+Null samples used in CRC calculations       	: Yes
+Used interface                              	: Native Win32 interface for Win NT & 2000
+Gap handling                                	: Not detected, thus appended to previous track
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  0:43.70 |         0    |     3294   
+        2  |  0:43.70 |  4:14.23 |      3295    |    22367   
+        3  |  4:58.18 |  4:05.06 |     22368    |    40748   
+        4  |  9:03.24 |  3:45.51 |     40749    |    57674   
+        5  | 12:49.00 |  3:58.23 |     57675    |    75547   
+        6  | 16:47.23 |  4:02.46 |     75548    |    93743   
+        7  | 20:49.69 |  5:50.28 |     93744    |   120021   
+        8  | 26:40.22 |  4:18.47 |    120022    |   139418   
+        9  | 30:58.69 |  3:25.50 |    139419    |   154843   
+       10  | 34:24.44 |  3:07.61 |    154844    |   168929   
+       11  | 37:32.30 |  3:18.28 |    168930    |   183807   
+       12  | 40:50.58 |  4:30.61 |    183808    |   204118   

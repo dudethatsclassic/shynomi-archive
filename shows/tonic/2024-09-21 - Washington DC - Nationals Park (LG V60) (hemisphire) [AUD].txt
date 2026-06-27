@@ -1,0 +1,15 @@
+Tonic
+September 21st, 2024
+Nationals Park, Washington, DC
+HFStival
+
+Taper: hemisphire
+Source: LG V60 > RecForge II Pro > WAV
+Lineage: WAV > ffmpeg (track split) > Trader's Little Helper > FLAC
+
+01. intro
+02. Open Up Your Eyes
+03. Take Me As I Am
+04. You Wanted More
+05. Top Falls Down
+06. If You Could Only See

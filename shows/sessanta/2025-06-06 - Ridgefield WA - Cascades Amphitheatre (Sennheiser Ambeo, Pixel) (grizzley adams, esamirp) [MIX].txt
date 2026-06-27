@@ -1,0 +1,90 @@
+Sessanta v2.0 - Primus, Puscifer, A Perfect Circle
+June 6th, 2025 (Friday)
+Cascades Amphitheatre
+Ridgefield, Washington
+
+Source 1:  Sennheiser Ambeo > iPhone > Apogee MetaRecorder - Recorded by Grizzly Adams, row 2
+Source 2:  Built in mics > Pixel > PCM Recorder - Recorded by esamirp, lawn
+Transfer:  WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:46:44
+01 intro
+Act I: 
+A Perfect Circle
+02 Counting Bodies Like Sheep to the Rhythm of the War Drums
+03 Disillusioned
+04 Blue
+Primus
+05 Here Come the Bastards
+06 Groundhog's Day
+07 Duchess and the Proverbial Mind Spread
+Puscifer
+08 Man Overboard
+09 Horizons
+10 Indigo Children
+Act II: 
+Primus
+11 Little Lord Fentanyl (with Maynard James Keenan)
+12 Welcome to This World
+13 My Name Is Mud
+14 Jerry Was a Race Car Driver
+Puscifer
+15 Flippant
+16 No Angel
+17 Bullet Train to Iowa
+18 The Algorithm
+A Perfect Circle
+19 The Contrarian
+20 The Doomed
+21 Weak and Powerless
+22 The Outsider
+Act III: 
+Puscifer
+23 The Humbling River
+24 Polar Bear
+25 The Remedy
+Primus
+26 Pablo's Hippos (with Maynard James Keenan)
+27 Too Many Puppies
+A Perfect Circle
+28 The Noose
+29 Kindred
+30 Judith
+Primus
+31 Southbound Pachyderm (with all 3 drummers)
+All 3 Bands
+32 Grand Canyon
+
+fingerprints:
+Sessanta2025-06-06mtx01 - intro.flac:ac17d6f04c5efe1231d183d9170d2852
+Sessanta2025-06-06mtx02 - Counting Bodies.flac:f487d4754752ea165a569b886c17a5d3
+Sessanta2025-06-06mtx03 - Disillusioned.flac:1bf1f8a70b19dd717efa275cf53d9a14
+Sessanta2025-06-06mtx04 - Blue.flac:4903559ecaadd46891395ad411f37467
+Sessanta2025-06-06mtx05 - Here Come the Bastards.flac:1096c7e06c61448b2994a9a0257eedaf
+Sessanta2025-06-06mtx06 - Groundhog.flac:207d2f1e65759206f7e0e91c45de21b4
+Sessanta2025-06-06mtx07 - Duchess.flac:e26d75d5464ac0a227e83a611de01d6e
+Sessanta2025-06-06mtx08 - Man Overboard.flac:fbeba94859ac054788dbc303e6a85506
+Sessanta2025-06-06mtx09 - Horizons.flac:5cd7d0a36bf4a7bc0e0e93e695d380bb
+Sessanta2025-06-06mtx10 - Indigo Children.flac:6ffddf93e711c08dd8d611574783072a
+Sessanta2025-06-06mtx11 - Little Lord Fentanyl.flac:f8ffa209eac2a654eb78a2c828e4e3f4
+Sessanta2025-06-06mtx12 - Welcome to This World.flac:c4c1fd7129ca88ece5be38684f9699ca
+Sessanta2025-06-06mtx13 - My Name Is Mud.flac:9479e09183f49e0c2df1fec4554b62d3
+Sessanta2025-06-06mtx14 - Jerry.flac:a46bd4adbdecb0cec339162272a6aa96
+Sessanta2025-06-06mtx15 - Flippant.flac:b7d8b4aaf681fb3a3e391604896418d7
+Sessanta2025-06-06mtx16 - No Angel.flac:7324fcae13046e0309c96307bc6dc20a
+Sessanta2025-06-06mtx17 - Bullet Train to Iowa.flac:86e3a92c0f4a57f104740fa22d35add2
+Sessanta2025-06-06mtx18 - The Algorithm.flac:28b027efe76853d87a1523309ab6c566
+Sessanta2025-06-06mtx19 - The Contrarian.flac:57d9a3a10e0d06fa86e89daa8eec11cb
+Sessanta2025-06-06mtx20 - The Doomed.flac:12f8813fc22bbb8ee71e1bd62059345e
+Sessanta2025-06-06mtx21 - Weak and Powerless.flac:07ff9fb8b37d04f91329be34639bbe67
+Sessanta2025-06-06mtx22 - The Outsider.flac:e2c3549540ab54016842dc5681a8447a
+Sessanta2025-06-06mtx23 - The Humbling River.flac:72254cba324e0eada1025606efb378fb
+Sessanta2025-06-06mtx24 - Polar Bear.flac:4d69d3f7de79cf8b3439538572cd7f2b
+Sessanta2025-06-06mtx25 - The Remedy.flac:bd22d30c23f8050c54ea880cf62138fa
+Sessanta2025-06-06mtx26 - Pablo.flac:2c18e9bf6e5f3a9651fcfe36384a3955
+Sessanta2025-06-06mtx27 - Too Many Puppies.flac:8530ccebad8196c7b9bd99476810fa64
+Sessanta2025-06-06mtx28 - The Noose.flac:d3f8e179bf6a25856396ccd1aede6bef
+Sessanta2025-06-06mtx29 - Kindred.flac:e593e3f73e4c0adf87a6bec9860c9bd5
+Sessanta2025-06-06mtx30 - Judith.flac:62c513197a11a64f021a4e524be54dc6
+Sessanta2025-06-06mtx31 - Southbound Pachyderm.flac:711e6ceadd153f57420a24a513f3fc9d
+Sessanta2025-06-06mtx32 - Grand Canyon.flac:dcb1f9ec97eeb4e95f660b10c179de18

@@ -1,0 +1,67 @@
+John Mayer
+May 7, 2022
+UBS Arena - Elmont, NY
+
+**** THIS IS A 24 BIT RECORDING, NOT INTENDED FOR CD BURNING ***
+*** The normal 16 bit CD quality version of this show is available for download/CD burning ***
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 6 II (32 Bit Float)
+Location: Floor, Rear of FOH, Approx. 150' from Stage, Mics DIN @ 9'
+Editing: WAV > Reaper 6.57 (Gain, Mixing, Normalizing) > Audacity 3.1.3 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. Last Train Home
+03. Belief
+04. Who Says
+05. Mayer Speak: Room 2307
+06. Wild Blue
+07. Something Like Olivia
+08. I Guess I Just Feel Like
+09. Helpless¹
+10. The Heart of Life²
+11. Walt Grace's Submarine Test, January 1967²³
+12. Neon²
+13. Mayer Speak: Hot Rooms
+14. Your Body Is a Wonderland
+15. Still Feel Like Your Man⁴
+16. Rosie
+17. Edge of Desire
+18. Stop This Train⁵
+19. Slow Dancing in a Burning Room
+20. In the Blood
+21. Mayer Speak: Band Intros & Threesomes⁶
+22. Gravity
+23. Encore Break
+24. New Light
+
+John Mayer:
+
+John Mayer - Guitar, Lead Vocals
+Isaiah Sharkey - Guitar
+Aaron Sterling - Drums
+Lenny Castro - Percussion
+Pino Palladino - Bass
+Greg Phillinganes - Keyboards
+Jamie Muhoberac - Keyboards
+Tiffany Palmer - Backing Vocals
+Carlos Ricketts Jr. - Backing Vocals
+
+Notes:
+
+¹ Greg Phillinganes' keytar malfunctions during his solo
+² Performed by John Mayer solo on a twelve string resonator guitar
+³ with Tiffany Palmer and Carlos Ricketts Jr. on backing vocals
+⁴ Snippet sung by John Mayer
+⁵ with "Homeward Bound" (Simon and Garfunkel) outro
+⁶ with ad-libbed "It’s the End of the World as We Know It (And I Feel Fine)" (R.E.M.) snippet to celebrate the end of the tour
+
+David Ryan Harris was not in attendance for this performance due to a positive COVID-19 diagnosis.
+
+Big thanks to the Mayer tour team for helping me get my gear into the venue, navigating security, and letting me set up at FOH.
+
+This recording is dedicated to all the tapers before me who continue to preserve live music.
+
+Compiled on 2022/05/08.

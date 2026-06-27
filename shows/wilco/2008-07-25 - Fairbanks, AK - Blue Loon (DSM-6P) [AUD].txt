@@ -1,0 +1,132 @@
+Wilco
+Blue Loon
+Fairbanks, AK
+07-25-2008
+
+
+Source: Audience recording > Sonic Studios DSM-6P > Edirol R-09 > wav 16/44.1
+               Recorded by Steve "ballsup" Hagar
+Lineage: wav > iZotope RX 6 Advanced > iZotope Ozone 5 Advanced > CD Wave > TLH Flac 16
+
+
+
+01   crowd
+02   Either Way
+03   Company In My Back
+04   You Are My Face
+05   Side With The Seeds
+06   War On War
+07   A Shot In The Arm
+08   One Wing
+09   Jesus, etc.
+10   Impossible Germany
+11   Sunny Feeling
+12   Summer Teeth
+13   Handshake Drugs
+14   Pot Kettle Black
+15   Poor Places >
+16   Spiders (Kidsmoke)
+17   ~~encore break~~
+
+encore 1
+
+18   California Stars
+19   Hate It Here
+20   Can't Stand It
+21   Walken
+22   I'm The Man Who Loves You
+23   ~~encore break~~
+
+encore 2
+
+24   Heavy Metal Drummer
+25   Red-Eyed And Blue >
+26   I Got You (At The End Of The Century) >
+27   Monday >
+28   Outtasite (Outta Mind) >
+29   Hoodoo Voodoo
+
+
+
+
+Notes:
+
+- I made a number of level adjustmentss, attenuated the loud claps and removed a number of clicks and other artifacts.
+- "Break" during  "Impossible Germany" cleaned up as best I could.
+
+
+
+Thanks to Steve for sending this to me
+
+
+edited and mastered
+SIRMick
+July 2017
+
+
+shntool output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:27.47        4873388 B   ---   --   ---xx   flac  0.4950  wilco2008-07-25t01.flac
+     3:08.68       33323180 B   ---   --   ---xx   flac  0.5764  wilco2008-07-25t02.flac
+     3:52.74       41098892 B   ---   --   ---xx   flac  0.5900  wilco2008-07-25t03.flac
+     4:37.17       48902828 B   ---   --   ---xx   flac  0.5900  wilco2008-07-25t04.flac
+     5:58.37       63238268 B   ---   --   ---xx   flac  0.5839  wilco2008-07-25t05.flac
+     3:21.22       35508188 B   ---   --   ---xx   flac  0.6134  wilco2008-07-25t06.flac
+     5:18.00       56095244 B   ---   --   ---xx   flac  0.6216  wilco2008-07-25t07.flac
+     5:25.25       57388844 B   ---   --   ---xx   flac  0.5975  wilco2008-07-25t08.flac
+     4:09.38       44013020 B   ---   --   ---xx   flac  0.5940  wilco2008-07-25t09.flac
+     6:29.26       68680796 B   ---   --   ---xx   flac  0.6446  wilco2008-07-25t10.flac
+     4:33.71       48324236 B   ---   --   ---xx   flac  0.6361  wilco2008-07-25t11.flac
+     3:29.22       36919388 B   ---   --   ---xx   flac  0.5979  wilco2008-07-25t12.flac
+     6:13.11       65823116 B   ---   --   ---xx   flac  0.5773  wilco2008-07-25t13.flac
+     4:33.71       48324236 B   ---   --   ---xx   flac  0.5839  wilco2008-07-25t14.flac
+     4:51.25       51391244 B   ---   --   ---xx   flac  0.5685  wilco2008-07-25t15.flac
+    11:04.62      117275468 B   ---   --   ---xx   flac  0.6048  wilco2008-07-25t16.flac
+     2:19.22       24571388 B   ---   --   ---xx   flac  0.5824  wilco2008-07-25t17.flac
+     5:20.71       56615036 B   ---   --   ---xx   flac  0.5977  wilco2008-07-25t18.flac
+     4:52.37       51595868 B   ---   --   ---xx   flac  0.6153  wilco2008-07-25t19.flac
+     4:39.30       49286204 B   ---   --   ---xx   flac  0.6365  wilco2008-07-25t20.flac
+     4:32.60       48121964 B   ---   --   ---xx   flac  0.5994  wilco2008-07-25t21.flac
+     4:00.39       42427772 B   ---   --   ---xx   flac  0.6364  wilco2008-07-25t22.flac
+     2:14.48       23750540 B   ---   --   ---xx   flac  0.6012  wilco2008-07-25t23.flac
+     4:25.00       46746044 B   ---   --   ---xx   flac  0.6354  wilco2008-07-25t24.flac
+     2:12.08       23303660 B   ---   --   ---xx   flac  0.6121  wilco2008-07-25t25.flac
+     4:25.30       46816604 B   ---   --   ---xx   flac  0.6661  wilco2008-07-25t26.flac
+     3:36.71       38269436 B   ---   --   ---xx   flac  0.6797  wilco2008-07-25t27.flac
+     2:33.65       27142124 B   ---   --   ---xx   flac  0.6826  wilco2008-07-25t28.flac
+     6:15.54       66277052 B   ---   --   ---xx   flac  0.6576  wilco2008-07-25t29.flac
+   129:04.26     1366104028 B                            0.6126  (29 files)
+
+flac fingerprints:
+
+wilco2008-07-25t01.flac:17d6ffcf4654b2069157ae535f36355b
+wilco2008-07-25t02.flac:7d6b80ff9c7d66660f9ff23387a2cb3c
+wilco2008-07-25t03.flac:1e9a1d603c2e809831b20512ec2d7280
+wilco2008-07-25t04.flac:fe7fbface8586d6e5f4d119be4c04111
+wilco2008-07-25t05.flac:3a37144f034964618b1f10b9062fcacc
+wilco2008-07-25t06.flac:8d52412f4082a120e502b7572befa22c
+wilco2008-07-25t07.flac:a55d7466f94b78a582d054868be28549
+wilco2008-07-25t08.flac:30d32b831d04d4bd8b00f7033a3dcdb3
+wilco2008-07-25t09.flac:13fb4b89090e8f5a7106a650b3e0bb39
+wilco2008-07-25t10.flac:e3a83ef249c40b7ebd7ddfa53fe484c7
+wilco2008-07-25t11.flac:4ebb2b45f11f82611b6f4924e5cf1195
+wilco2008-07-25t12.flac:7fe441722f57ab2f83484c74324f5b13
+wilco2008-07-25t13.flac:be15468ec3239576fc0a6f0fd5a9e5ac
+wilco2008-07-25t14.flac:648464f9c60c4049e8e02769502d3d40
+wilco2008-07-25t15.flac:10974c6469df5814e9c4c5e69ae574f2
+wilco2008-07-25t16.flac:a9f434c8b14a93eab5f9bcb2cf79d353
+wilco2008-07-25t17.flac:0d4785ffe318374145f1aa2f6d58daa4
+wilco2008-07-25t18.flac:a4bb18e18d17d141b2d073603e67cd74
+wilco2008-07-25t19.flac:3ac0f68903dd3362562edbb18fcc8ba2
+wilco2008-07-25t20.flac:d4ef844a8d32ebc6cdc1b13def7ff1f8
+wilco2008-07-25t21.flac:f5274864c6c496f4fe66400b7a98a61b
+wilco2008-07-25t22.flac:2876e428a6610ee6dadfb3c376f9ef92
+wilco2008-07-25t23.flac:1e95a4545b387273e128742e98497580
+wilco2008-07-25t24.flac:70e2126afd6b6e7a87a133218986fde3
+wilco2008-07-25t25.flac:1d6efeb6e1ab32a6170a9c1e2803b8b3
+wilco2008-07-25t26.flac:794f658a609179c5b069bd7eb8596bc2
+wilco2008-07-25t27.flac:d63a827712165ed2ae53af882966ac42
+wilco2008-07-25t28.flac:750b652f0147a699d45d95029919d4f5
+wilco2008-07-25t29.flac:44e2e51952794eca38eaba952c2cbf9c
+

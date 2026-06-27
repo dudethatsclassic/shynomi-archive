@@ -1,0 +1,102 @@
+WILCO
+
+10 Oct 2012 
+Padova, Italy
+Teatro Geox
+
+Audience recording
+Neumann km140 > Denecke PS-2 > Marantz PMD661 (16 bit - 44.1 KHz) > Cool Edit > CD Wave
+taper: romeo
+
+01. One Sunday Morning >
+02. Poor Places >
+03. Art of Almost
+04. I Might
+05. At Least That's What You Said
+06. Handshake Drugs >
+07. Wishful Thinking
+08. Impossible Germany
+09. Born Alone
+10. Via Chicago
+11. Whole Love
+12. Theologians
+13. Jesus, etc.
+14. Hate It Here
+15. Heavy Metal Drummer >
+16. I'm the Man Who Loves You 
+17. (Encore break) 
+18. Dawned On Me
+19. Late Greats
+20. California Stars
+21. Walken
+22. Hummingbird >
+23. Shot in the Arm
+24. (2nd Encore break) 
+25. Outtasite (Outta Mind)
+26. I'm A Wheel
+
+total time 2:01:45
+
+Jeff Tweedy lead vocal, guitar
+John Stirratt bass
+Nels Cline lead guitar
+Pat Sansone keyboard, guitar
+Mikael Jorgensen keyboard, real-time sound manipulations
+Glenn Kotche drums
+
+md5 file
+aa99d5c3e828eaf0725d405c28bda4e1 *wilco2012-10-10-km140t01.flac
+f94ed8367f4b75c100194a6f39808ac2 *wilco2012-10-10-km140t02.flac
+14af544931e579d10b5348486d313b33 *wilco2012-10-10-km140t03.flac
+94abd54571300ea19f90332229f2fdb9 *wilco2012-10-10-km140t04.flac
+e36657ed18738402f2a211f67accbc02 *wilco2012-10-10-km140t05.flac
+aae58a0443a9c2896b4897d176a47d0f *wilco2012-10-10-km140t06.flac
+1d744d2610e4c157f780320b8fa3a848 *wilco2012-10-10-km140t07.flac
+ae22fbff6de011608269950574a613ef *wilco2012-10-10-km140t08.flac
+debca575042862748378466ae59c6cd3 *wilco2012-10-10-km140t09.flac
+c97eb801cd9eba03572d0b07a52e272d *wilco2012-10-10-km140t10.flac
+262be4c95e238d1c2e78baeb04107090 *wilco2012-10-10-km140t11.flac
+db3275f522e177f9d23076d05d6335b3 *wilco2012-10-10-km140t12.flac
+b12e1cf93136804d36c7f2c31a6ef0b1 *wilco2012-10-10-km140t13.flac
+22db44b6c639fbabea7ef1815c6d98b2 *wilco2012-10-10-km140t14.flac
+9eded4fb268791dc8d5473522f49bfe5 *wilco2012-10-10-km140t15.flac
+6324ba182646c70048334c6236522f67 *wilco2012-10-10-km140t16.flac
+2f955750d246006b1bbe9df5cadbbd0b *wilco2012-10-10-km140t17.flac
+fdd94e7992053446e8fba4e62610f933 *wilco2012-10-10-km140t18.flac
+54d592387a9f3d0b138840851565cd63 *wilco2012-10-10-km140t19.flac
+6a46d7a7ca4dffe25e0d5d5b11364121 *wilco2012-10-10-km140t20.flac
+ceab58ba15630573b9d20ae46dddce1f *wilco2012-10-10-km140t21.flac
+9e5dd0254563ef6321866ab1fa383838 *wilco2012-10-10-km140t22.flac
+a863e663a77227b51645eb409f3ce094 *wilco2012-10-10-km140t23.flac
+5ac1d77e20aa554ccabdce4666343b68 *wilco2012-10-10-km140t24.flac
+ee79f7cdd8bd52dc66e11e645623bbc8 *wilco2012-10-10-km140t25.flac
+9e3d29e8d093f96647b966c676683852 *wilco2012-10-10-km140t26.flac
+
+ffp file
+wilco2012-10-10-km140t01.flac:1d558a64b61cea1335a28ccd8334c639
+wilco2012-10-10-km140t02.flac:03810783b7579c379ca9eed0fdafef79
+wilco2012-10-10-km140t03.flac:0ddfb5e530b08bffad66fb93aec2316f
+wilco2012-10-10-km140t04.flac:dc0bcf174dd933577c12f0a0eb14eb1c
+wilco2012-10-10-km140t05.flac:5d6e3d413d919e4aa33a374cd941d170
+wilco2012-10-10-km140t06.flac:3dd3c9578ca6f983a2eb9645b921a907
+wilco2012-10-10-km140t07.flac:a19f90e98178e99933f67449961ccb0c
+wilco2012-10-10-km140t08.flac:f29832db7ec27d3fafc71f5280a17b38
+wilco2012-10-10-km140t09.flac:67d76a69ff9ff1329d078ee119f55b5e
+wilco2012-10-10-km140t10.flac:0be01a2f7df2a71c444aa412e3304b13
+wilco2012-10-10-km140t11.flac:5a66bfc6d4715eacb8f7ea882751c6f2
+wilco2012-10-10-km140t12.flac:64a9a929059364975beb3a15842cb4f5
+wilco2012-10-10-km140t13.flac:989b9ec8a41554e811fb8cf5b66983a9
+wilco2012-10-10-km140t14.flac:85bc902798afbc3e857fc6727c4a1875
+wilco2012-10-10-km140t15.flac:3014a7ea271bd27e7d89e11fe602ebeb
+wilco2012-10-10-km140t16.flac:1582d9ef4838bd244dee21c63640325d
+wilco2012-10-10-km140t17.flac:e2795a305460e6af1aa5193479ec1c78
+wilco2012-10-10-km140t18.flac:8be33277ab28b6bb6482ec2f7b562200
+wilco2012-10-10-km140t19.flac:418f41bc6d08f799a13f1e5c674188c7
+wilco2012-10-10-km140t20.flac:06a59db066ca0e8ee73e1e3549703394
+wilco2012-10-10-km140t21.flac:b6a790517546e7079d4d2b72bda4c644
+wilco2012-10-10-km140t22.flac:736f3e0cf8cf62b2abe46e3cd6ebe273
+wilco2012-10-10-km140t23.flac:97085fced2da9982dc90d1258eb35ffd
+wilco2012-10-10-km140t24.flac:b59dc3ce9127f98890005791e604c14d
+wilco2012-10-10-km140t25.flac:b1f6c4326b15919661edc38f7a566b72
+wilco2012-10-10-km140t26.flac:263178344e3f49a762ae17755414a526
+

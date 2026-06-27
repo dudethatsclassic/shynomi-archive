@@ -1,0 +1,44 @@
+Dave Matthews Band
+The Gorge Amphitheatre
+George, WA
+August 29, 2025
+
+Taper: Jason Johnson (taperjason@gmail.com)
+Location: Right FOB, DIN @ 14'
+Source: akg ck63s > nbob actives > SD MixPre-6ii (32/48)
+Conversion: MixPre-6ii > Adobe Audition (hi pass filter, dither, resample) > Trader's Little Helper > Foobar2000
+
+01: Intro
+02: Seek Up
+03: The Song That Jane Likes
+04: Big Eyed Fish
+05: Bartender
+06: Drive In Drive Out
+07: Say Goodbye
+08: Break Free
+09: So Much to Say >
+10: Anyone Seen the Bridge >
+11: Too Much [fake] >
+12: Word Up!
+13: Lover Lay Down
+14: I Did It
+15: Dancing Nancies
+16: Lie in Our Graves @
+17: Ants Marching @
+18: Gravedigger
+19: Everyday
+20: Joyride
+21: So Right
+22: Encore Break
+23: Some Devil *
+24: Two Step
+
+Notes:
+@ Jake Renick Simpson on fiddle
+* Dave solo
+
+24/48 version also exists.
+Thanks Caleb for the entry assist and Jason for keeping an eye on the gear.
+
+Compiled by Jason Johnson on August 30, 2025.
+www.greppson.net

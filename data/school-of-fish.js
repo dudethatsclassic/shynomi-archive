@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Redondo Beach, CA",
       "venue": "Music Plus",
-      "notes": "Sony TCM-37V · van · inc",
+      "notes": "Sony TCM-37V \u00b7 van \u00b7 inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-08-21 - Redondo Beach, CA - Music Plus (Sony TCM-37V) (van) (inc) [AUD].txt"
     }
   ],
   "misc": []

@@ -1,0 +1,19 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01 - Stare It Cold.wav:  track looks like CDDA with probability 100%.
+02 - A Conspiracy.wav:  track looks like CDDA with probability 100%.
+03 - Hard To Handle.wav:  track looks like CDDA with probability 100%.
+04 - Hotel Illness.wav:  track looks like CDDA with probability 99%.
+05 - Wiser Time.wav:  track looks like CDDA with probability 100%.
+06 - Sting Me.wav:  track looks like CDDA with probability 100%.
+07 - Announcer Stefan Wermelin.wav:  track looks like CDDA with probability 100%.
+08 - Jealous Again.wav:  track looks like CDDA with probability 100%.
+09 - Seeing Things.wav:  track looks like CDDA with probability 100%.
+10 - Feelin' Alright.wav:  track looks like CDDA with probability 100%.
+11 - She Gave Good Sunflower.wav:  track looks like CDDA with probability 100%.
+12 - Remedy.wav:  track looks like CDDA with probability 100%.

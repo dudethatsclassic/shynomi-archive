@@ -1,0 +1,40 @@
+311
+September 18, 1995
+IMU Main Lounge
+Iowa City, IA
+
+Source: Core Sound Binaural > Sony TCD-D7
+Taper: SO
+Lineage: DAT(M) > DAT(1) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20 > M-Audio Delta DiO 2496 > Cool Edit Pro
+Edits/EQ: limiter @ -6dB start of "Do You Right", R -1.5dB, +1.5dB
+
+01 - Freak Out
+02 - Do You Right
+03 - Hive
+04 - Silver
+05 - Visit
+06 - Taiyed
+07 - Nutsymptom
+08 - Sweet
+09 - Homebrew
+10 - Don't Let Me Down
+11 - Nix Hex
+12 - Plain
+13 - Applied Science
+14 - Summer of Love
+15 - Down
+16 - Paradise
+17 - T & P Combo
+18 - My Stoney Baby
+19 - Lucky
+20 - Jackolantern's Weather
+21 - Omaha Stylee
+22 - Unity
+23 - Hydroponic
+24 - Offbeat Bare Ass
+25 - Fuck the Bullshit
+
+
+Compiled January 2019 by CPS
+Seeded January 2019 to dimeadozen.org by CPS

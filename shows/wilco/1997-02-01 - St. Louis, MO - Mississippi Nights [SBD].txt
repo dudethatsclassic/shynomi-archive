@@ -1,0 +1,63 @@
+Wilco
+February 1, 1997
+Mississippi Nights - St. Louis, MO  
+
+Source:		SBD
+Lineage:	CD-R (unknown generation)->EAC(V0.95)->WAV->FLAC Frontend, level 8(1.7.1)->FLAC
+
+CD 1 
+Misunderstood (missing opening lines)
+That's Not the Issue
+Forget the Flowers
+Someday Soon
+Pick Up the Change
+Red-Eyed and Blue -> I Got You (at the end of the century)
+Someone Else's Song
+(Was I) In Your Dreams
+Why Would You Wanna Live
+Shouldn't Be Ashamed
+I Must Be High
+Passenger Side
+Passenger Side (punk)
+Hotel Arizona
+Monday
+
+CD2
+Kingpin
+Outtasite (outta mind)
+The Lonely 1
+Box Full of Letters (slow)
+Box Full of Letters (fast) -> We've Been Had
+Casino Queen
+Gun
+The Long Cut
+Dreamer in My Dreams 
+
+Notes: The tracking is a bit off, but its a great show!
+
+Fingerprints:
+wilco1997-02-01D1Track01.flac:f220f86c995986435374e8ab0a62c820
+wilco1997-02-01D1Track02.flac:948d7e2b37b571dabf78492262624c42
+wilco1997-02-01D1Track03.flac:129c1ec360c64457b0f7895bd5a24d67
+wilco1997-02-01D1Track04.flac:de73c588186c5da35d86e6173b1e2f88
+wilco1997-02-01D1Track05.flac:d90660149e9c800544fcb36c894dd81f
+wilco1997-02-01D1Track06.flac:2f9911ba4dddfe10bc8bd19c4cf5cbf9
+wilco1997-02-01D1Track07.flac:c044acde85e1fa3fdfc849a38deeadca
+wilco1997-02-01D1Track08.flac:a238b0999ab4d539c8b83fa0813474fc
+wilco1997-02-01D1Track09.flac:631851db0bde689d5c36223b9fa9d7c7
+wilco1997-02-01D1Track10.flac:ab01de908c36e9d72a4574aa90289a3c
+wilco1997-02-01D1Track11.flac:8ac91565c5c686d5faca39c1fb12294d
+wilco1997-02-01D1Track12.flac:b7476e9215878f00d409064c9103b428
+wilco1997-02-01D1Track13.flac:fc7d6dc79ab46b0b22638eca99098946
+wilco1997-02-01D1Track14.flac:7e28c6d4e5c089a7abea4344ecf57b59
+wilco1997-02-01D1Track15.flac:e83ec4986471b72873dd0cf08eff6e2f
+wilco1997-02-01D2Track01.flac:7a1bfe012af8824e898d887f01028b46
+wilco1997-02-01D2Track02.flac:c47df912065bedd7a636eb1a3e10108a
+wilco1997-02-01D2Track03.flac:cd6a952906de882d741eaa315e7424f8
+wilco1997-02-01D2Track04.flac:b67f0a5103a6b9adf8b8f2dee9255944
+wilco1997-02-01D2Track05.flac:e601d35502107cbcf2b0ba82304671db
+wilco1997-02-01D2Track06.flac:463372ae842d724a0b74245f8d65ca54
+wilco1997-02-01D2Track07.flac:1990dbd87c2cd0f908561b33447753db
+wilco1997-02-01D2Track08.flac:3af94c9346d794127a4dc7b8e83f2f0b
+wilco1997-02-01D2Track09.flac:26764390cebae0c4aeac0c31e179007f
+

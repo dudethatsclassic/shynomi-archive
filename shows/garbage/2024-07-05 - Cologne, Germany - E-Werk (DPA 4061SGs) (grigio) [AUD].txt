@@ -1,0 +1,84 @@
+---------------------------------------------------------------------
+Garbage - 2024-07-05 - E-Werk - Cologne (DE)(DPA4061SGs){stl - Grigio}
+---------------------------------------------------------------------
+
+Artist...............: Garbage
+Album................: 2024-07-05 - E-Werk - Cologne (DE)(DPA4061SGs){stl - Grigio}
+Genre................: Pop
+Source...............: DPA4060SGs
+Year.................: 2024
+Ripper...............:  & 
+Codec................: Free Lossless Audio Codec (FLAC)
+Version..............: reference libFLAC 1.3.2 20170101
+Quality..............: Lossless, (avg. compression: 63 %)
+Channels.............: Stereo / 44100 HZ / 16 Bit
+Tags.................: VorbisComment
+Information..........: 
+
+Ripped by............:  on 14 Jul 2024
+Posted by............:  on 14 Jul 2024
+News Server..........: 
+News Group(s)........: 
+
+Included.............: NFO, MD5
+
+
+---------------------------------------------------------------------
+                       Tracklisting
+---------------------------------------------------------------------
+
+   1. Garbage - Intro                                         [00:55]
+   2. Garbage - Happy Home (Instrumental Taped)               [01:06]
+   3. Garbage - #1 Crush                                      [04:50]
+   4. Garbage - Godhead                                       [04:13]
+   5. Garbage - I Think I'm Paranoid                          [04:06]
+   6. Garbage - Cherry Lips (Go Baby Go!)                     [03:08]
+   7. Garbage - Shirley Speech                                [02:26]
+   8. Garbage - Special                                       [03:57]
+   9. Garbage - The Men Who Rule The World                    [04:25]
+  10. Garbage - Shirley Speech                                [00:58]
+  11. Garbage - Metal Heart                                   [04:29]
+  12. Garbage - Run Baby Run                                  [03:59]
+  13. Garbage - Shirley Improvising and Happy Birthday for a fan[04:28]
+  14. Garbage - Hammering In My Head                          [05:00]
+  15. Garbage - The Creeps                                    [03:53]
+  16. Garbage - Shirley Speech                                [02:16]
+  17. Garbage - The Trick Is To Keep Breathing                [04:28]
+  18. Garbage - Shirley Improvising                           [03:08]
+  19. Garbage - Bleed Like Me                                 [04:33]
+  20. Garbage - Stupid Girl                                   [04:19]
+  21. Garbage - Wolves                                        [03:58]
+  22. Garbage - No Gods No Masters                            [03:44]
+  23. Garbage - Cities In Dust                                [04:25]
+  24. Garbage - Vow                                           [05:10]
+  25. Garbage - When I Grow Up                                [04:05]
+  26. Garbage - Why Do You Love Me                            [04:28]
+  27. Garbage - Push It                                       [04:41]
+  28. Garbage - Encore Break                                  [01:50]
+  29. Garbage - Shirley Speech                                [00:40]
+  30. Garbage - Milk                                          [04:30]
+  31. Garbage - Only Happy When It Rains                      [04:29]
+  32. Garbage - Outro                                         [01:07]
+
+Playing Time.........: 01:54:00
+Total Size...........: 749,84 MB
+
+NFO generated on.....: 14 Jul 2024 11:35:58
+
+
+---------------------------------------------------------------------
+Recorded by stl: 
+DPA4061 Soft Boost Grid -> 
+DPA D:VICE MMA-A (low pass filter -80hz) -> 
+iPhone 5s (96/24) -> 
+iZotope RX9 (declick/clapping) -> 
+FLAC -> 
+xAct (ffp)
+
+Edited by Grigio (grigio.mastering@gmail.com):
+iZOTOPE RX10 Advanced Audio Editor (64-bit) v10.4.0.1926 ->
+Wavelab Pro v11.2 Build 13 ->
+Adobe Audition CC 2018 Build 11.1.0.184
+---------------------------------------------------------------------
+
+

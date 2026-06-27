@@ -1,0 +1,64 @@
+John Mayer
+August 5, 2010 *
+Hersheypark Stadium
+Hershey, PA
+
+
+* Postponed from July 25, 2010 due to storm damage
+
+
+Taper: Rockinman 
+Location: FOB,DFC,mics DINA 90 config, stand at 13 feet       
+Source: AKg460mods/ck63(hyper caps)>Edirol UA5(Wmod)>M-Audio 
+        Microtrack II (24/48kHz)
+Transfer: Microtrack II->USB->PC
+Conversion: 24/48kHz wav->Soundforge 8.0 for resample and dither to 16/44               kHz,No normalization, L3 Waves Volume Maximizer applied->                   CDWave Editor->Flac Frontend(level 5)
+
+
+*************************************************************************
+***** DO NOT ENCODE THIS SHOW TO LOSSY FORMATS EXCEPT FOR PERSONAL USE*** 
+****** DO NOT SELL OR DISTRIBUTE FOR PROFIT******************************
+*************************************************************************   
+
+
+Disc 1
+
+01: Intro (Chest Fever)->
+02: Bigger Than My Body
+03: Clarity
+04: Heartbreak Warfare
+05: Ain't No Sunshine (Wrapped Around Your Finger interpolation &) $   
+06: Vultures
+07: War of My Life
+08: Perfectly Lonely
+
+Disc 2
+
+09: The Heart of Life
+10: No Such Thing (Truncated, fast version)
+11: Assassin
+12: Gravity
+13: Drum solo->
+14: Waiting on the World to Change
+   (Do You Know Me Banter)
+15: Do You Know Me
+16: Why Georgia
+
+17: Encore Break
+
+
+Encore
+
+18: Who Says
+19: Half of My Heart
+
+
+
+
+& Police cover
+$ Bill Withers cover
+
+
+
+
+Compiled by Tom Gambichler on August 6, 2010

@@ -1,0 +1,73 @@
+Wilco
+
+2011-05-06 (06 May 2011)
+Verizon Wireless Theatre, Houston, Texas, USA
+
+Source: AT933(853C)>3wbb>iRiver H140 rockboxed
+Transfer: H140>DellHD>Audacity(fade in, volume +10.6dB/11.0dB, fade out)>CD Wave>FLAC
+
+Loc: ROC, near board (rear of room), on stand at 10'.
+
+Recorded, transferred, edited and FLAC'd by: Humbug
+
+Disc 1, time: 64:43
+
+1. Ashes Of American Flags
+2. Bull Black Nova
+3. I Am Trying to Break Your Heart
+4. Kamera
+5. Handshake Drugs
+6. One Wing
+7. War On War
+8. A Shot in the Arm
+9. At Least That’s What You Said
+10. Via Chicago
+11. Impossible Germany
+12. Airline To Heaven
+
+Disc 2, time: 59:17
+
+1. Jesus, etc.
+2. Theologians
+3. Hummingbird
+4. Walken
+5. I’m The Man Who Loves You
+---encore 1---
+6. The Late Greats
+7. Misunderstood>
+8. Spiders (Kidsmoke)
+9. Heavy Metal Drummer
+10. I’m A Wheel
+---encore 2---
+11. Hoodoo Voodoo (w/bass-guitar-keyboard tech Josh on cowbell)
+
+Notes:
+Nice sounding open recording. 
+Thanks to Prof Peabody for clamp space on his stand, Stan for getting us in, and bbop for setlist.
+
+Flac fingerprint:
+wilco2011-05-06at933d1t01.flac:ef996080982b209893e83b7f0645d294
+wilco2011-05-06at933d1t02.flac:70569ec8adb45dfe2058537504231210
+wilco2011-05-06at933d1t03.flac:f11ff46373d1a27ef94d27b4b492caec
+wilco2011-05-06at933d1t04.flac:055e848bbdd9194b1805f163a96997ea
+wilco2011-05-06at933d1t05.flac:e5f700e2648925911509f39266d2152f
+wilco2011-05-06at933d1t06.flac:b031a0b634608099c12de89eb205d188
+wilco2011-05-06at933d1t07.flac:f651c164d46438bec26bb9e8fe8d6a45
+wilco2011-05-06at933d1t08.flac:aee00b3d2ff505935db8591489c25035
+wilco2011-05-06at933d1t09.flac:d42f076e84fa3852905fbf78c719e3fb
+wilco2011-05-06at933d1t10.flac:1871f7ffbb4932e55ee4e6ededc24fea
+wilco2011-05-06at933d1t11.flac:aff45c74c8031dbb926e90a3ca50ad67
+wilco2011-05-06at933d1t12.flac:1ddbbe72c519bc3cad50823b2c113246
+wilco2011-05-06at933d2t01.flac:ddde36ef80fd7a878a149a4982867eb1
+wilco2011-05-06at933d2t02.flac:15012725fa8f181376eae8a9e2bd6096
+wilco2011-05-06at933d2t03.flac:0bb20e1ec5ef1f97f8a3e6a2f00c3d07
+wilco2011-05-06at933d2t04.flac:cc4691322dcf3c29a7009187d7378b92
+wilco2011-05-06at933d2t05.flac:033d4e9806938732c1e5d6a50af163c0
+wilco2011-05-06at933d2t06.flac:91ff150f5c010ded64a2eafa284da1dc
+wilco2011-05-06at933d2t07.flac:84749dec2ca8d3c979ecfb3a4a2d6b64
+wilco2011-05-06at933d2t08.flac:07916335b57825e0f333bfa50d8d40cb
+wilco2011-05-06at933d2t09.flac:a52a76349e3a8a54398b569ba3dcb357
+wilco2011-05-06at933d2t10.flac:fc115406324f064a8fd0122293cccff0
+wilco2011-05-06at933d2t11.flac:96359c4ef0cceda41d9036b2f2ef63e1
+
++++PLEASE DO NOT PROFIT FROM THIS RECORDING+++

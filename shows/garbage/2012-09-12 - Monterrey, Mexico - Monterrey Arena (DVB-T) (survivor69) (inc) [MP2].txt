@@ -1,0 +1,33 @@
+GARBAGE - MONTERREY (2012/09/12) PAL DVD (DVB SOURCE)
+
+DVB-T> DVB TUNER CARD> HDD> MPG> EDITING+AUTHORING> DVD-R
+Menu and chapters
+
+SIZE:  939 MB
+VIDEO: MPEG-2, 720X576, 16/9, PAL, 25 fps, variable bitrate around 3 mbps
+AUDIO: MPEG-1 Layer 2, stereo, 192 kbps, 48 khz
+
+
+Monterrey Arena (2012/09/12)
+Monterrey, Mexico
+42 mn 18s
+
+SETLIST:
+
+- Supervixen
+- I Think I'm Paranoid
+- Blood For Poppies
+- Stupid Girl
+- Queer
+- Control
+- Cherry Lips
+- #1 Crush
+- Push It
+- Only Happy When It Rains
+
+NOTE:
+
+This is the DVB stream (untouched, 100% digital, no loss)
+Partial set
+
+Special thanks to survivor69 for recording and sharing the source

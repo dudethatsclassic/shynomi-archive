@@ -20,9 +20,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bill Graham Civic Auditorium",
-      "notes": "unk · inc",
+      "notes": "unk \u00b7 inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-05-07 - San Francisco, CA - Bill Graham Civic Auditorium (unk) (inc) [AUD].txt"
     },
     {
       "year": 1996,
@@ -33,9 +34,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-30 - San Francisco, CA - The Fillmore (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 2003,
@@ -46,9 +48,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "UCF Arena",
-      "notes": "MD(M) · CSB · dunebug81",
+      "notes": "MD(M) \u00b7 CSB \u00b7 dunebug81",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-11-03 - Orlando, FL - UCF Arena - MD(M) (CSB) (dunebug81) [AUD].txt"
     },
     {
       "year": 2025,
@@ -61,7 +64,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-02-28 - Anaheim, CA - House of Blues (DPA 4081) (faninor) [AUD24].txt"
     }
   ],
   "misc": []

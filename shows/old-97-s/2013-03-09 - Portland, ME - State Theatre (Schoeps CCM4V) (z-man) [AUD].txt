@@ -1,0 +1,100 @@
+old 97's
+State Theatre
+Portland, Maine
+3/9/2013
+
+Source: Schoeps CCM4V'S(din)>Lunatec V2>Benchmark AD2K>
+Sound Devices 722 (24/48)
+FOB/DFC/KFC/ZFC/AARP 1st Row Of Seats, Approximately 32' From Stage, 8' High
+DSP: Sound Devices 722>Sound Forge 9.0>CD Wave>flac(16)
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Disc I 
+
+01 Greeting/Tuning
+02 Barrier Reef
+03 Won't Feel So Bad
+04 Brown Haired Daughter
+05 Lonely Holiday
+06 West Texas Teardrops
+07 Champaign, Illinois
+08 The Other Shoe
+09 Doreen
+10 Stoned
+11 Big Brown Eyes
+12 Every night Is Friday Night (Without You)
+13 I'm A Trainwreck >
+14 Crash On The Barrelhead
+15 Jagged >
+16 Dance With Me
+17 Roller Skate Skinny
+18 Time Bomb
+
+Flac Fingerprint 
+
+old97's2013-03d01t01.flac:28b4f5a158b50766b1bf02d1488231a7
+old97's2013-03d01t02.flac:0997b3796b78727f2f45a927ce7ce7d6
+old97's2013-03d01t03.flac:daebcefbf7abbf82f0e6bbfaa025e3f6
+old97's2013-03d01t04.flac:6ff34cc5b0c8679f99e1e9a9f01f27f8
+old97's2013-03d01t05.flac:7f71e01177a106ca6ef511ddbf62fa9f
+old97's2013-03d01t06.flac:bec5aa8f9f3212890b969f551deb8f27
+old97's2013-03d01t07.flac:1c326ea31a9a1ef65ae49ad37f057711
+old97's2013-03d01t08.flac:068587082ae22f40582c984e0e92fa37
+old97's2013-03d01t09.flac:c620bbcbadac2237d4b899689e702877
+old97's2013-03d01t10.flac:6813c16708f6bd1fe016a0929e50ad64
+old97's2013-03d01t11.flac:9f85bd3b2d77efd3aa7107aa4918dbfb
+old97's2013-03d01t12.flac:edc6ac399becf164977f314e6fb1f42d
+old97's2013-03d01t13.flac:d7df9afb82a645e39a81cd837bbdb79e
+old97's2013-03d01t14.flac:68231e29e04bc57be2b32fe02c67bc36
+old97's2013-03d01t15.flac:263452b7d0884bb395321b8833b69305
+old97's2013-03d01t16.flac:bb53a36d20a0f5c2265766f9b3de1ec4
+old97's2013-03d01t17.flac:90c6079e5ac15d1bab55a68e56ee6a8f
+old97's2013-03d01t18.flac:dd69f7dbcca69bbb5a95773abdba1766
+
+Shntool 
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:27.19        4807532 B   ---   --   ---xx   flac  0.4352  old97's2013-03d01t01.flac
+     3:52.01       40927196 B   ---   --   ---xx   flac  0.5441  old97's2013-03d01t02.flac
+     3:56.46       41738636 B   ---   --   ---xx   flac  0.5464  old97's2013-03d01t03.flac
+     3:40.34       38888012 B   ---   --   ---xx   flac  0.5201  old97's2013-03d01t04.flac
+     4:27.23       47152940 B   ---   --   ---xx   flac  0.5318  old97's2013-03d01t05.flac
+     3:29.62       37013468 B   ---   --   ---xx   flac  0.5124  old97's2013-03d01t06.flac
+     3:43.21       39386636 B   ---   --   ---xx   flac  0.5498  old97's2013-03d01t07.flac
+     2:38.01       27873596 B   ---   --   ---xx   flac  0.5299  old97's2013-03d01t08.flac
+     3:52.60       41065964 B   ---   --   ---xx   flac  0.5471  old97's2013-03d01t09.flac
+     3:52.02       40929548 B   ---   --   ---xx   flac  0.5094  old97's2013-03d01t10.flac
+     4:48.04       50812652 B   ---   --   ---xx   flac  0.5367  old97's2013-03d01t11.flac
+     2:52.63       30489020 B   ---   --   ---xx   flac  0.5313  old97's2013-03d01t12.flac
+     3:40.28       38873900 B   ---   --   ---xx   flac  0.5593  old97's2013-03d01t13.flac
+     2:58.45       31505084 B   ---   --   ---xx   flac  0.4942  old97's2013-03d01t14.flac
+     3:03.60       32422364 B   ---   --   ---xx   flac  0.5417  old97's2013-03d01t15.flac
+     2:52.50       30458444 B   ---   --   ---xx   flac  0.5422  old97's2013-03d01t16.flac
+     3:58.36       42067916 B   ---   --   ---xx   flac  0.5463  old97's2013-03d01t17.flac
+     3:29.32       36942908 B   ---   --   ---xx   flac  0.5566  old97's2013-03d01t18.flac
+    61:43.62      653355816 B                            0.5350  (18 files)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,66 @@
+John Mayer
+March 9, 2010
+American Airlines Center 
+Dallas, TX
+
+Source: AKG 483 > 744t (24/48)
+Location: DFC, FOH, DIN @ 15'
+Transfer: 744 (24/48) > Sound Forge 10.0a (MBIT+) > CDWave > FLAC (6)
+Taped and Transferred by OFOTD
+
+1.  Intro
+2.  Heartbreak Warfare >
+3.  Good Love is on the Way 
+4.  No Such Thing 
+5.  Vultures 
+6.  Perfectly Lonely
+7.  Slow Dancing In A Burning Room 
+8.  Assassin 
+9.  Stop This Train/My Stupid Mouth/Tracing/My Stupid Mouth > 
+10. Neon
+11. Free Fallin'
+12. Steve Jordan solo >
+13. Waiting on the World To Change 
+14. Edge Of Desire  
+15. Bigger Than My Body
+16. Half of My Heart >
+17. Dreams
+18. Why Georgia 
+Encore:
+19. Who Says 
+20. Gravity
+
+
+
+
+http://www.texastapers.org
+
+
+
+[==-->> Support artists that support tapers! <<--==]
+
+
+
+FLAC Fingerprint
+-----------------------------------------------------
+jm2010-03-09t01.flac:3e2317b1d1580276f337bcb40e77895d
+jm2010-03-09t02.flac:68cd149e07a8913ddb706338da9fc7ac
+jm2010-03-09t03.flac:6029c60243386ec6bfe4cbc2af1e9ef6
+jm2010-03-09t04.flac:ff3af1ceba8bf3a818d852d618254ec6
+jm2010-03-09t05.flac:98568e25b0fccfd5e1ceba69584d42f5
+jm2010-03-09t06.flac:396437329f7123f7d778e7f29f359b90
+jm2010-03-09t07.flac:7c3e1c34505dcf0dbf1d9eec6cb608b0
+jm2010-03-09t08.flac:1a80dfae907aee552ede1025362de911
+jm2010-03-09t09.flac:ae28ce1e400b99b9c0a943a274706f80
+jm2010-03-09t10.flac:fd7a0291ee43c588e1b0a760705862f8
+jm2010-03-09t11.flac:1496acde9bcc8791d3ea9a7cbbc38daf
+jm2010-03-09t12.flac:caf3fdcd4b245e8f672f3f8bd40d7d9c
+jm2010-03-09t13.flac:d11e2bfc6d67ee5365f62ea47e7f76f5
+jm2010-03-09t14.flac:dcc74656c063a2b47214aa13e7e6dd91
+jm2010-03-09t15.flac:746b4d58bb5ca3183fc62e86bbee5bc2
+jm2010-03-09t16.flac:ce86c66de79d8bd4ed88761881e420e8
+jm2010-03-09t17.flac:ca9b261b714741e1fc489a87dd0bf532
+jm2010-03-09t18.flac:1d4f2e506a1123c1d5a0080e7d51c465
+jm2010-03-09t19.flac:9128491490d8694a56f1a1cb61974022
+jm2010-03-09t20.flac:812400dafa356ac4db878078416542c0
+-----------------------------------------------------

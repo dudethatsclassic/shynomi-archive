@@ -1,0 +1,126 @@
+Shared by Axel(a.k.a. RoryGallagher), Friesland, Germany.
+
+
+The Black Crowes:
+
+Lineage: FM radio broadcast > unknown recording and transfer equipment > liberated 'High In Houston' 2CD set > EAC(secure mode, enjoy attached EAC logs in German language) > Wav > Flac Frontend(level8) > Flac (> YOU)
+Taped by: unknown, HANX :-)
+Title: 'High In Houston'
+File Size: 653MB (648MB flac and 5.36MB art)
+Artwork added, scanned by myself
+Art lineage: CD art > HP Scanjet 4370(at 200dpi) > HD > jpeg's named to their destination (> YOU)
+Length: 104:56min
+Information: http://www.crowesbase.com/tapelisting.cfm?TapeID=616
+More information: http://db.etree.org/lookup_show.php?shows_key=73967
+
+
+Sam Houston Coliseum, Houston, TX, USA, 06th February 1993
+CD1: (57:57min)
+01) No Speak No Slave
+02) Sting Me
+03) Hard To Handle
+04) My Morning Song
+05) Jam ~
+06) Thorn In My Pride
+07) Bad Luck Blue Eyes Goodbye
+08) Twice As Hard
+CD2: (46:59min)
+01) Black Moon Creeping
+02) Thick'N'Thin
+03) Hotel Illness
+04) Stare It Cold ~
+05) Three Little Birds
+06) Sometimes Salvation
+07) Jealous Again
+08) Remedy
+Length: 104:56min
+Personal:
+Chris Robinson: Vocals, Chris'isms
+Rich Robinson: Guitar, Vocals
+Marc Ford: Guitar
+Ed Harsch: Keyboards
+Johnny Colt: Bass
+Steve Gorman: Drums
+
+
+You are told to AVOID MP3 ~ Don't Let It Bring You Down
+
+This show is for free trading only ~ if you sell you'll go to hell
+
+
+Enjoy,
+P&L
+
+(Source: liberated 'High In Houston' 2CD set)
+
+
+the finger of tbc1993-02-06:
+
+tbc1993-02-06d1t01.flac:563c2a62f7744201a1f5fa961533ae82
+tbc1993-02-06d1t02.flac:51d5706da406310bfa805da6ea4a39be
+tbc1993-02-06d1t03.flac:73f5983074725660abd9efc834b2b46a
+tbc1993-02-06d1t04.flac:ae44c5b308bfb7693e436c8a80a83c47
+tbc1993-02-06d1t05.flac:dca810c040d3f8dd8ccf39f3a05fd1aa
+tbc1993-02-06d1t06.flac:aa9b3a20183a2c3bffbf91a1136b39f4
+tbc1993-02-06d1t07.flac:431f90fefb0a2371826a7a9e7e8660d3
+tbc1993-02-06d1t08.flac:0d7b74b679efc42db90b2b8f511dbd8b
+tbc1993-02-06d2t01.flac:a3c8d40f9f379658da4c402c7d3573a0
+tbc1993-02-06d2t02.flac:f62f4891a712a160df3b8c98421e91f1
+tbc1993-02-06d2t03.flac:f451533b3fdcf0a8cb485c96b3df652b
+tbc1993-02-06d2t04.flac:2538201c96a95e003774e86581d4344c
+tbc1993-02-06d2t05.flac:5fc7d5520e560243cec455e4b6dbb29f
+tbc1993-02-06d2t06.flac:e575eb98b83c650e3e08a1cc99a8b6e1
+tbc1993-02-06d2t07.flac:13d4433f1d19aef436d16774cd5cc159
+tbc1993-02-06d2t08.flac:9401544236c42039dc5e69edc12f7666
+
+(Flac Frontend and TLH used.)
+
+
+shntool st5 of tbc1993-02-06:
+
+563c2a62f7744201a1f5fa961533ae82  [shntool]  tbc1993-02-06d1t01.flac
+51d5706da406310bfa805da6ea4a39be  [shntool]  tbc1993-02-06d1t02.flac
+73f5983074725660abd9efc834b2b46a  [shntool]  tbc1993-02-06d1t03.flac
+ae44c5b308bfb7693e436c8a80a83c47  [shntool]  tbc1993-02-06d1t04.flac
+dca810c040d3f8dd8ccf39f3a05fd1aa  [shntool]  tbc1993-02-06d1t05.flac
+aa9b3a20183a2c3bffbf91a1136b39f4  [shntool]  tbc1993-02-06d1t06.flac
+431f90fefb0a2371826a7a9e7e8660d3  [shntool]  tbc1993-02-06d1t07.flac
+0d7b74b679efc42db90b2b8f511dbd8b  [shntool]  tbc1993-02-06d1t08.flac
+a3c8d40f9f379658da4c402c7d3573a0  [shntool]  tbc1993-02-06d2t01.flac
+f62f4891a712a160df3b8c98421e91f1  [shntool]  tbc1993-02-06d2t02.flac
+f451533b3fdcf0a8cb485c96b3df652b  [shntool]  tbc1993-02-06d2t03.flac
+2538201c96a95e003774e86581d4344c  [shntool]  tbc1993-02-06d2t04.flac
+5fc7d5520e560243cec455e4b6dbb29f  [shntool]  tbc1993-02-06d2t05.flac
+e575eb98b83c650e3e08a1cc99a8b6e1  [shntool]  tbc1993-02-06d2t06.flac
+13d4433f1d19aef436d16774cd5cc159  [shntool]  tbc1993-02-06d2t07.flac
+9401544236c42039dc5e69edc12f7666  [shntool]  tbc1993-02-06d2t08.flac
+
+No errors occured. (TLH used, attached st5 by Audiophilia and to be verified with TLH.)
+
+
+MD5 is My Morning Song.
+
+3bb19d4ec79ad1762233354e53a4ce19 *tbc1993-02-06 1 inlay outside.jpg
+2305fba7c470958a07a9d075ee5a8051 *tbc1993-02-06 2 inlay inside.jpg
+86f70160d8fff7766d61bad4dd576cc7 *tbc1993-02-06 3 back inside.jpg
+092650cad4971b02632068a8e9631771 *tbc1993-02-06 4 back outside.jpg
+6e0ed74d1fb68560db23a19248271ba8 *tbc1993-02-06 5 CD1.jpg
+e6a7964643e3a9d72ff5c9a356806e5a *tbc1993-02-06 6 CD2.jpg
+067bb6490f3b97bcd42eea25de3d90ee *tbc1993-02-06d1t01.flac
+b2201cc5f51aa04ab97d9430bdbd4cc7 *tbc1993-02-06d1t02.flac
+da0132b0435b075492998f2ae6977a06 *tbc1993-02-06d1t03.flac
+5bf0427c6b0af2b8f34a698479b47b65 *tbc1993-02-06d1t04.flac
+63d3eac16fd660f84632c597f7f108dc *tbc1993-02-06d1t05.flac
+72168857f3aebf4f7c2bdd8be7cc019c *tbc1993-02-06d1t06.flac
+1fff3f9d27424b9b85a081dac89e757e *tbc1993-02-06d1t07.flac
+12a6f0f46fb2dc012e02115bc38b9f34 *tbc1993-02-06d1t08.flac
+e5beb9a989de4e5c5da569c513aa8a11 *tbc1993-02-06d2t01.flac
+ee2929b7299fa672f598ecd95551756e *tbc1993-02-06d2t02.flac
+4ff658e6f3858da69d94658ee8cbf8f6 *tbc1993-02-06d2t03.flac
+be7267f013544d863a9441ca8385b2de *tbc1993-02-06d2t04.flac
+83047e7bfed79d23d3e6e8437b45dd8c *tbc1993-02-06d2t05.flac
+fa173a81baed96952ec6e065ceffb65c *tbc1993-02-06d2t06.flac
+ab7aef6eb43e2ffda5afb39e7351b811 *tbc1993-02-06d2t07.flac
+cb7c064c230c2c9b13821fb44d81a543 *tbc1993-02-06d2t08.flac
+
+No errors occured. (TLH used, attached MD5 by MD5summer.)

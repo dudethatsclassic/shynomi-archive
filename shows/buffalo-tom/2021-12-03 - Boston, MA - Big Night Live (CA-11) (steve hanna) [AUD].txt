@@ -1,0 +1,80 @@
+Buffalo Tom
+Big Night Live
+Boston, MA
+December 3, 2021
+
+** 16 BIT **
+
+Source:  CA-11 cardioids > CA Battery Box > Sony PCM-M10 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX9 Advanced v9.0.0.1130 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded by:  Steve Hanna
+Mastered by:  Dennis Orr
+
+Setlist: (1:48:36)
+01 Intro
+02 Tree House
+03 Summer
+04 Mineral
+05 Kitchen Door
+06 Scottish Windows
+07 Chat
+08 Staples
+09 Sodajerk
+10 Sparklers
+11 Larry >
+12 I'm Allowed
+13 Torch Singer
+14 Roman Cars
+15 When You Dance, I Can Really Love
+16 You'll Never Catch Him
+17 All Be Gone
+18 Chat & Tuning
+19 Autumn Letter
+20 Chat & Tuning
+21 Birdbrain
+22 Late At Night
+23 Tangerine
+24 Encore Break
+- Encore -
+25 Taillights Fade
+26 Foggy Notion (1)
+27 Chat
+28 Velvet Roof
+29 Wiser
+
+(1) With Ted Leo
+
+Bill Janovitz - lead vocals & guitar
+Chris Colbourn - bass & vocals
+Tom Maginnis - drums & percussion
+
+BuffaloTom2021-12-03t01.flac:159966f62bd05668f122132f8b52075a
+BuffaloTom2021-12-03t02.flac:4e16c7adc5c7466c727076098d3b1205
+BuffaloTom2021-12-03t03.flac:d1468c2d54ecb929e99a0248ed118c50
+BuffaloTom2021-12-03t04.flac:d72d2fb7edd46c02da3d709b5c6191ab
+BuffaloTom2021-12-03t05.flac:19e16499a7f41f4a2c1f4fa8d7a54fd1
+BuffaloTom2021-12-03t06.flac:ba8cee16923d518985cf5b4893e2b132
+BuffaloTom2021-12-03t07.flac:ce1acbaaa54b37d33069a877081bc323
+BuffaloTom2021-12-03t08.flac:51c69cb59fbd1794c7f826d47a536792
+BuffaloTom2021-12-03t09.flac:bf0650b0bb0d200a9353139a97b0b227
+BuffaloTom2021-12-03t10.flac:7f1943b61d4cbce5fb823eb319c816f5
+BuffaloTom2021-12-03t11.flac:93e2af25943a72f695792ed517bdc873
+BuffaloTom2021-12-03t12.flac:82477a9f6bef51d917ffef3f373bc5e1
+BuffaloTom2021-12-03t13.flac:dacac2480fff89b958d19fac7f01a975
+BuffaloTom2021-12-03t14.flac:015cb012d43fb6d9cadf70734f4ed50f
+BuffaloTom2021-12-03t15.flac:8a7d19737f8ab985c4362ac2b6ac2a06
+BuffaloTom2021-12-03t16.flac:2fbc5035e1ec969150a65ba86f2d3107
+BuffaloTom2021-12-03t17.flac:977bbe8504ca1e36866f3de1a2d821e7
+BuffaloTom2021-12-03t18.flac:c2d16ed5c6a3ea7c7b81c0745bb9f488
+BuffaloTom2021-12-03t19.flac:46f895daea3aa6d50f6f94a9602a3315
+BuffaloTom2021-12-03t20.flac:bcfa886bb8414cd29d860bfd3396b89b
+BuffaloTom2021-12-03t21.flac:c231b632edaa8bd0a0c636ab5268bf7b
+BuffaloTom2021-12-03t22.flac:212526a8d45951c956ade923041fa20d
+BuffaloTom2021-12-03t23.flac:3b66b50726a5ed5f991528196a8d6e76
+BuffaloTom2021-12-03t24.flac:7ffc29a0e243125a78f6c28f829ac1dd
+BuffaloTom2021-12-03t25.flac:7b524d06830abefa2598fa1909e88a3e
+BuffaloTom2021-12-03t26.flac:2025a61fec90320a869075e819afab32
+BuffaloTom2021-12-03t27.flac:c3379dcf02524236ca68179f165a350f
+BuffaloTom2021-12-03t28.flac:9620c3e8e798152e850924aad723100a
+BuffaloTom2021-12-03t29.flac:c4bd2a43eeab5059b292875985b854ff

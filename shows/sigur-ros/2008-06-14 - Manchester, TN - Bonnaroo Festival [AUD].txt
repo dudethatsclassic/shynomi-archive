@@ -1,0 +1,37 @@
+Sigur Rós
+2008-06-14
+Bonnaroo
+Manchester, Tennessee
+Sunday, June 15th, 2008 1:02AM
+
+Source: Sound Professionals BMC-2 Microphones -> Sonund Professionals SPSB-3 Battery Box -> Macally iVoice III iPod Microphone Attachment -> .wav (16bit, 44.1kHz) -> Macbook (2.0GHz Intel Dual Core, 2GB RAM, 500GB) -> Audacity v1.3.12-beta (Unicode) -> FLAC v1.2.1 -> .flac (Level 8)
+Length: 
+Size: 539.5MB (FLAC8 v1.2.1)
+
+Setlist:
+ 1.	Svefn g Englar
+ 2. Vaka
+ 3. (Exploding)
+ 4. Sé Lest
+ 5. Við Spilum Endalaust
+ 6. Hoppípolla
+ 7. Með Blóðnasir
+ 8. Festival
+ 9. Fljótavík
+10. Suð í Eyrum
+11. (How are you...)
+12. Góðan Daginn
+13. Olsen Olsen
+14. Inní Mér Syngur Vitleysingur
+15. Hafssól
+
+Encore:
+16. (Encore)
+17. Heysátan
+18. Gobbledigook
+19. All Alright
+20. (It's over...)
+
+Notes: Electrical errors start from 17:20, their errors. Comes in and out occasionally. Full marching band comes out during Við Spilum Endalaust. The show is listed as being the 14th, but it was 1AM on the 15th, tough call. The last track starts right at 3:00AM, not really a song but after show song-ish composed noise.
+
+Recorded & Seeded by Matthew Callis, http://superfamicom.org/

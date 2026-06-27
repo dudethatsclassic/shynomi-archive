@@ -1,0 +1,71 @@
+The Black Crowes
+Zepp Osaka Bayside
+Osaka, Japan
+November 8, 2022
+
+** 24 BIT **
+
+Source:  AKG C451B cardioids > Zoom F6 @ 32 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > iZotope MBIT+ (dithered
+and downsampled to 24 bit/48 kHz) > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging) 
+Location:  Mics @ 150 cm high, on the rail, 1 meter left of dead center
+Recorded by:  toshi
+Mastered by:  Dennis Orr
+
+Setlist: (1:38:26)
+01 Intro Music ["Get Up (I Feel Like Being A) Sex Machine"]
+02 Twice As Hard
+03 Jealous Again
+04 Chat
+05 Sister Luck
+06 Could I've Been So Blind
+07 Seeing Things
+08 Chat
+09 Hard To Handle
+10 Thick N' Thin
+11 She Talks To Angels
+12 Struttin' Blues
+13 Stare It Cold
+14 Kickin' My Heart Around
+15 Wiser Time
+16 Thorn In My Pride
+17 Sting Me
+18 Remedy
+19 Encore Break
+- Encore -
+20 Rock 'N' Roll
+
+Chris Robinson – lead vocals, harmonica, acoustic guitar, & percussion
+Rich Robinson – guitar & backing vocals
+Sven Pipien – bass & backing vocals
+Isaiah Mitchell – guitar & backing vocals
+Joel Robinow – keyboards & backing vocals
+Brian Griffin – drums & percussion
+Leslie Grant - backing vocals
+Mackenzie Adams - backing vocals
+
+Taper Note:
+Toshi would like to extend special thanks to Boa (R.I.P.) for helping facilitate his first Crowes recording last year, and to assistant tour manager Chad Galactic for coordinating with the venues to
+allow recording.
+There was a front speaker on the stage (slightly left of Toshi's taping position), and the vocals are mostly from that speaker.  Sven's bass is prominent as Toshi was directly in front of him.
+
+tbc2022-11-08t01.flac:76e53f12d405e0a31df8fa378e9aa6e4
+tbc2022-11-08t02.flac:a030c6c125724a96ddeef55c2e12257b
+tbc2022-11-08t03.flac:f4a46f91bcdff1652aa7315563addf80
+tbc2022-11-08t04.flac:4604635d97c3c468e1d29ee977ada1d4
+tbc2022-11-08t05.flac:938d2015467a4b7bcaae43ff308bedf9
+tbc2022-11-08t06.flac:4e68839abc853169e4ad29fa42ad70c1
+tbc2022-11-08t07.flac:31cb82d729109f4dd40ebe65e7fd96d1
+tbc2022-11-08t08.flac:8face60ef5aeeb0efb8eb78f3792d5e1
+tbc2022-11-08t09.flac:c9c50a1d6f848d6467f6e44c74293549
+tbc2022-11-08t10.flac:0869c2817be5b914b8d8bc2dc65275a7
+tbc2022-11-08t11.flac:c08e9e87a749a11e1fa5a1ae80cad314
+tbc2022-11-08t12.flac:64fff3ffce690a00bd1a7206f90aa3f4
+tbc2022-11-08t13.flac:c096e275681bcc6d4cae06ba43cd1a47
+tbc2022-11-08t14.flac:9429150582101b99a52439ce0c4ddd37
+tbc2022-11-08t15.flac:94b7a513421379b5fdd82c4ac0bd0e01
+tbc2022-11-08t16.flac:bcdcd72c7016b63f43cf4e5cd1ed367e
+tbc2022-11-08t17.flac:f71476885190228e474f9a4926a2f956
+tbc2022-11-08t18.flac:c23f4dff1fab3a3854509bd20a06d850
+tbc2022-11-08t19.flac:1e2ab68f1232a8885ea8ef5143759472
+tbc2022-11-08t20.flac:943ccbb1cbb6900b1bc6c97a4bde2d90

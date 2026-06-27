@@ -1,0 +1,44 @@
+John Mayer
+Verizon Wireless Amphitheatre
+Charlotte, NC
+Friday July 16, 2010
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA 4023 > Sonosax SX-M2 > Audio Magic Presto II > Sound
+		Devices 722 @ 24/96
+Location:	Section 2 Row R Seat 35+36, 18th row stage right
+
+WAV > FLAC:	.wav @ 24/96 > Audacity 1.3.9 (Unicode) (dither to 16/44.1)
+
+Disc One:
+
+01: Intro >				-	02:50.65
+02: Chest Fever > Vultures		-	08:02.55
+03: Clarity				-	05:37.00
+04: Intro >				-	01:20.55
+05: No Such Thing			-	04:37.40
+06: Ain't No Sunshine			-	07:03.00
+07: Heartbreak Warfare			-	05:19.25
+08: Intro >				-	02:27.30
+09: Perfectly Lonely			-	05:31.45
+10: Gravity				-	07:50.00
+11: Assassin				-	08:19.60
+
+Total:					-	59:00.00
+
+Disc Two:
+
+01: Intro >				-	01:21.25
+02: Who Says				-	03:49.50
+03: Do You Know Me			-	06:44.15
+04: Bigger Than My Body			-	05:54.40
+05: Band Introduction			-	03:40.20
+06: Half of My Heart > (Dreams) >
+    (Carolina In My Mind)		-	17:03.15
+07: Stop This Train			-	04:37.10
+08: Why Georgia				-	04:25.65
+09: Edge Of Desire			-	08:46.32
+
+Total:					-	56:22.47
+
+compiled by George Wang on 07-21-2010

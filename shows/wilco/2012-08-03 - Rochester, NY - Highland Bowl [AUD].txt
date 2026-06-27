@@ -1,0 +1,61 @@
+WILCO
+2012/08/03 - Highland Bowl; Rochester, NY, USA
+
+Set List:
+
+01 - Poor Places				5:11
+02 - Art of Almost				7:17
+03 - I Might					4:07
+04 - War On War					3:20
+05 - I Am Trying to Break Your Heart		6:13
+06 - Spiders (Kidsmoke)				6:26
+07 - Impossible Germany				7:43
+08 - Born Alone					4:12
+09 - Laminated Cat (aka Not For The Season)	5:28
+10 - Radio Cure					5:31
+11 - Whole Love					3:56
+12 - Handshake Drugs				7:23
+13 - Jesus, Etc.				4:33
+14 - When You Wake Up Feeling Old		3:42
+15 - Box Full of Letters			3:22
+16 - Dawned On Me				3:39
+17 - Happy Birthday [Hill/Hill/Coleman]		1:24
+18 - Shot in the Arm				4:34
+19 - Hummingbird				5:42
+
+Encore:
+20 - Misunderstood				5:54
+21 - Forget the Flowers				4:00
+22 - The Late Greats				2:47
+23 - I'm Always In Love				4:16
+24 - Heavy Metal Drummer			3:08
+25 - I'm the Man Who Loves You			4:46
+26 - California Stars				5:02
+27 - Walken					4:50
+28 - Casino Queen				4:18
+
+				Total Time - 2:12:44
+
+     SOURCE: AUD > RØDE NT5 (ORTF stereo pair 7' high) > Pro Co BPBQXF10 >
+	     M-Audio MicroTrack 24/96 > WAV (16bit/44.1kHz)
+
+   LOCATION: Front-right corner of Tapers' Section in front of SBD.
+
+      FLAWS: Minor clipping (a few samples) when the band played louder 
+	     during the last set; easily restored in Cool Edit.
+
+      NOTES: wilco2012-08-03d1t15nt5fade.flac and
+	     wilco2012-08-03d2t00nt5.flac are fade files for burning to the
+	     show to 2 CDRs.  They can be omitted from a playlist for 
+	     gapless playback of the show in a media player.
+
+    EDITING: Cool Edit Pro 2.0 to repair minor clipping
+	     Cool Edit Pro 2.0 to Fade Out
+	     CD Wave Audio Editor 1.98 Shareware to split tracks
+
+COMPRESSION: FLAC Frontend 1.7.1 Etree edition with FLAC-1.2.1b (Level: 7)
+
+RECORDED BY: Bryan Schuff (bryan DOT schuff AT gmail DOT com)
+
+  THANK YOU: to Stan Doty for the power plug and awesome sound!  
+	     Happy birthday!

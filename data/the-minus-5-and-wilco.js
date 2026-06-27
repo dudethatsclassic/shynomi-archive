@@ -26,7 +26,8 @@ const ARTIST_DATA = {
       "venue": "Lounge Ax",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "2000-01-09 - Chicago, IL - Lounge Ax [SBD].txt"
     },
     {
       "year": 2000,
@@ -39,7 +40,8 @@ const ARTIST_DATA = {
       "venue": "The Showbox",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "2000-11-04 - Seattle, WA - The Showbox [SBD].txt"
     },
     {
       "year": 2001,
@@ -52,7 +54,8 @@ const ARTIST_DATA = {
       "venue": "Abbey Pub",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2001-09-15 - Chicago, IL - Abbey Pub [AUD].txt"
     },
     {
       "year": 2002,
@@ -63,9 +66,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "John Anson Ford Theatre",
-      "notes": "DAT(M) · anonymous",
+      "notes": "DAT(M) \u00b7 anonymous",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "2002-09-09 - Los Angeles, CA - John Anson Ford Theatre - DAT(M) (anonymous) [SBD].txt"
     },
     {
       "year": 2003,
@@ -78,7 +82,8 @@ const ARTIST_DATA = {
       "venue": "Abbey Pub",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2003-04-17 - Chicago, IL - Abbey Pub [AUD].txt"
     },
     {
       "year": 2003,
@@ -91,7 +96,8 @@ const ARTIST_DATA = {
       "venue": "World Cafe WXPN",
       "notes": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "textFile": "2003-04-30 - Philadelphia, PA - World Cafe WXPN [FM].txt"
     },
     {
       "year": 2015,
@@ -102,9 +108,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "Cocoanut Grove Ballroom",
-      "notes": "SP-CMC-25 · robert mullen",
+      "notes": "SP-CMC-25 \u00b7 robert mullen",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2015-03-19 - Santa Cruz, CA - Cocoanut Grove Ballroom (SP-CMC-25) (robert mullen) [AUD].txt"
     },
     {
       "year": 2022,
@@ -117,7 +124,8 @@ const ARTIST_DATA = {
       "venue": "Capitol Theater",
       "notes": "unk",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2022-08-04 - Olympia, WA - Capitol Theater (unk) [AUD].txt"
     },
     {
       "year": 2022,
@@ -128,9 +136,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Doug Fir Lounge",
-      "notes": "Core Sounds Cards · rob gronotte",
+      "notes": "Core Sounds Cards \u00b7 rob gronotte",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2022-08-05 - Portland, OR - Doug Fir Lounge (Core Sounds Cards) (rob gronotte) [AUD].txt"
     },
     {
       "year": 2025,
@@ -141,7 +150,7 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Hamilton",
-      "notes": "Gefell MV400L-M41 · alex leary",
+      "notes": "Gefell MV400L-M41 \u00b7 alex leary",
       "version": "AUD",
       "format": ""
     }

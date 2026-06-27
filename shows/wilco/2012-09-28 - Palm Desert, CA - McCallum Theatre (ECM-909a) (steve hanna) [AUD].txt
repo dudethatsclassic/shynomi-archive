@@ -1,0 +1,85 @@
+Wilco
+McCallum Theatre
+Palm Desert, CA 
+September 28, 2012
+
+** 16 BIT **
+
+Source:  Sony ECM-909a stereo mic > Edirol R-09HR @ 16 bit/44.1 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v9.0.0.1130 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded by:  Steve Hanna
+Mastered by:  Dennis Orr
+
+Setlist: (2:01:11)
+01 Crowd
+02 Art Of Almost
+03 I Might
+04 Ashes Of American Flags
+05 Spiders (Kidsmoke)
+06 Born Alone
+07 Laminated Cat
+08 Misunderstood
+09 Far, Far Away
+10 Impossible Germany
+11 Handshake Drugs
+12 Chat
+13 Shouldn't Be Ashamed
+14 I'm Always In Love
+15 Chat/"Happy Birthday" To A Fan
+16 Jesus, Etc.
+17 Chat
+18 Whole Love
+19 Heavy Metal Drummer
+20 Chat
+21 Dawned On Me
+22 Hummingbird >
+23 A Shot In The Arm
+24 Encore Break
+- Encore -
+25 California Stars
+26 I Must Be High
+27 The Late Greats
+28 I'm The Man Who Loves You
+29 Red-Eyed And Blue
+30 I Got You (At The End Of The Century) >
+31 Outtasite (Outta Mind)
+
+Jeff Tweedy – lead vocals, guitars, & harmonica 
+Nels Cline – lead guitar, loops, & lap steel
+John Stirratt – bass, rhythm guitar, keyboards, backing vocals
+Mikael Jorgensen – samples and sound manipulation, keyboards, synthesizers, effects, piano, & organ
+Pat Sansone – keyboards, rhythm and lead guitars, backing vocals, synthesizers, maracas, & tambourine
+Glenn Kotche – drums & percussion
+
+Wilco2012-09-28t01.flac:d7a96d6f1ffe18f370afa9e8c6c5a1d1
+Wilco2012-09-28t02.flac:f686533cd394294222d5c7381ced959f
+Wilco2012-09-28t03.flac:3b68bf217521d1a0e612d97302bdcfc8
+Wilco2012-09-28t04.flac:c6e93a4b45e0f0f955cab637b6f06845
+Wilco2012-09-28t05.flac:d2f2210c44eccbd110eb11d1e1d8b89d
+Wilco2012-09-28t06.flac:707f35435f218ebd0c983c8f4c809209
+Wilco2012-09-28t07.flac:479b43e724bf056298e0c238c1545f0c
+Wilco2012-09-28t08.flac:804c657974fe7211c3ddb1e6b4bc5504
+Wilco2012-09-28t09.flac:89d3f0826ccaa7da2114b612efdbb43b
+Wilco2012-09-28t10.flac:ac657924700a84e42653e8803e883f6f
+Wilco2012-09-28t11.flac:f18b08248a58b748fa1682060647cc59
+Wilco2012-09-28t12.flac:add2b5f9b1da6a938a450ac96d08bd9b
+Wilco2012-09-28t13.flac:2162025e92258bd4a3868d87a5ee9c4e
+Wilco2012-09-28t14.flac:edbd132183674826ba05c0babcfab16e
+Wilco2012-09-28t15.flac:9e65c9973b368cd99b277eda288c7511
+Wilco2012-09-28t16.flac:540cc4d4c3014ddba0f8319a92bed2d8
+Wilco2012-09-28t17.flac:c4f6e07e91432afead7568cdb30e9bf1
+Wilco2012-09-28t18.flac:f2fed25f9350573d6909349b2572e76e
+Wilco2012-09-28t19.flac:f57ad99a3d46053bced00355a785a892
+Wilco2012-09-28t20.flac:46c13ad95b3918504b7e56ba9609fc77
+Wilco2012-09-28t21.flac:283ca92f77e37446c3bd23caafb86921
+Wilco2012-09-28t22.flac:430f577c44315fb8017bcaf1b55f62ee
+Wilco2012-09-28t23.flac:6f407866c61217a7ed99b00ba723dc9b
+Wilco2012-09-28t24.flac:9381200d0d6f919ac557246b52d5c02f
+Wilco2012-09-28t25.flac:3c8fd7781471aba3d5ae0cd676614824
+Wilco2012-09-28t26.flac:8598f97f1840de37957c69f97ec29834
+Wilco2012-09-28t27.flac:24d9dd2981bb5cefab60295876425f77
+Wilco2012-09-28t28.flac:8af230e2042ea66158ed21fa09001930
+Wilco2012-09-28t29.flac:c3c3adb2410d53632907ef699fb5b224
+Wilco2012-09-28t30.flac:ca9813847e99e7022662d880cfd2ab84
+Wilco2012-09-28t31.flac:6b612106d08c8c496c7726ff4bc73556

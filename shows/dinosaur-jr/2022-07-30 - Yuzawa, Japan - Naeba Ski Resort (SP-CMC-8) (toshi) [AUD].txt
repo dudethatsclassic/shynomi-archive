@@ -1,0 +1,57 @@
+Dinosaur Jr.
+Fuji Rock Festival '22
+Naeba Ski Resort
+Yuzawa, Japan 
+July 30, 2022
+
+** 16 BIT **
+
+Source:  SP-CMC-8 (cardioids) > SP-SPSB-10 > Roland R-07 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX9 Advanced v9.0.0.1130 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > 
+iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  On the rail, 3 meters right of dead center
+Recorded by:  toshi
+Mastered by:  Dennis Orr
+
+Setlist: (1:20:38)
+01 Soundcheck
+02 Intro  
+03 Thumb
+04 The Wagon
+05 I Ain't
+06 Garden
+07 I Met The Stones
+08 Chat & Tuning
+09 Little Fury Things
+10 Out There
+11 Feel The Pain
+12 Been There All The Time
+13 Start Choppin'
+14 Just Like Heaven
+15 Freak Scene
+16 Chat & Tuning
+17 Gargoyle
+18 Training Ground
+
+J Mascis - lead vocals & guitar
+Lou Barlow - bass & backing vocals
+Murph (Emmett Jefferson Murphy III) - drums
+
+DinosaurJr2022-07-30t01.flac:bd859ff89403cef931b65ae151ba8ff1
+DinosaurJr2022-07-30t02.flac:76cdbe2a1a7ba31d006e5d672f588f0c
+DinosaurJr2022-07-30t03.flac:59b9edcd5625f92459c33725779a2934
+DinosaurJr2022-07-30t04.flac:08ddf4dc121b4da784c9199de43efe27
+DinosaurJr2022-07-30t05.flac:e3f5e42c0a7b7cf18ad8e492586b1e70
+DinosaurJr2022-07-30t06.flac:dda572a5f5ff429270011ff8c50e653f
+DinosaurJr2022-07-30t07.flac:21d441fb8ad880931d1115254be6cbb4
+DinosaurJr2022-07-30t08.flac:51c3374cc18b0b7077312e225f4502a0
+DinosaurJr2022-07-30t09.flac:43d91d3f01126579e2eaec5277dfc5f8
+DinosaurJr2022-07-30t10.flac:120a8aa95c3d2eeb23c95ecab3e00574
+DinosaurJr2022-07-30t11.flac:4bb264bfee3fb385498c890fc9c96aba
+DinosaurJr2022-07-30t12.flac:eca89603121c4e3695c49982ce9680c6
+DinosaurJr2022-07-30t13.flac:2ffb42b2fbecc9b6876024fa13725c74
+DinosaurJr2022-07-30t14.flac:102e58c7de95dba3a770eb9fb0ec4271
+DinosaurJr2022-07-30t15.flac:bd2fc5aefddb96f602ae2c55044d527c
+DinosaurJr2022-07-30t16.flac:aa15ba43568269b74a0d9223ced0f781
+DinosaurJr2022-07-30t17.flac:bf1e60db12ef226f43a52696a7685512
+DinosaurJr2022-07-30t18.flac:a4f9b31124f72da88f7601e452fc54f4

@@ -1,0 +1,59 @@
+Wilco
+Verizon Wireless Amphitheatre
+Irvine, California
+August 3, 2013
+
+01. At My Window Sad And Lonely
+02. You Are My Face
+03. I Am Trying To Break Your Heart
+04. Art Of Almost
+05. Bang Bang (My Baby Shot Me Down)
+06. These Boots Are Made For Walkin'
+07. Happy Birthday To You
+08. When You Wake Up Feeling Old
+09. Impossible Germany
+10. Born Alone
+11. New Madrid
+12. Forget The Flowers
+13. California Stars
+14. Heavy Metal Drummer
+15. Casino Queen
+16. Cinnamon Girl
+
+Band Members
+Jeff Tweedy - vocals, guitar
+Nels Cline - guitar
+Glenn Kotche - drums
+Pat Sansone - guitar
+John Stirratt - bass
+Mikael Jorgensen - keyboards
+
+Comments
+"Bang Bang (My Baby Shot Me Down)" and "These Boots Are Made For Walkin'" with Nancy Sinatra
+"New Madrid" and "Forget The Flowers" with Richard Bowden
+"California Stars" with Rocky, My Morning Jacket's, Ryan Bingham's, Jackson Browne
+"Casino Queen" with Ryan Bingham, Richard Bowden
+"Cinnamon Girl" with My Morning Jacket
+
+source: soomlos
+6th row orchestra in front of left stack
+neumann skm140 > naiant little box (ot) > sony pcm-m10 (24/48)
+sony pcm-m10 > usb > pc > sound forge pro 10 > cd wave editor > flac (24/48)
+
+ffp
+wilco2013-08-03t01.flac:e6e672bdfa2d4da679d9f83ad9d5ae30
+wilco2013-08-03t02.flac:c5f20447cb8d2fe1f24b0e03b4de8531
+wilco2013-08-03t03.flac:4fb04363955ea1b61939edb6fde64127
+wilco2013-08-03t04.flac:1be9ce3faca354b26f9debd74ce4e8e1
+wilco2013-08-03t05.flac:f884c2364bd7ca5ed9697bcd415f6319
+wilco2013-08-03t06.flac:a6af1c1ccd3a464a9902f985df73a097
+wilco2013-08-03t07.flac:ab584beba82f8b0d2c3ec84819845c0b
+wilco2013-08-03t08.flac:312707c4b3ccda7639997863de1d31cd
+wilco2013-08-03t09.flac:f9f2c4496d7675ca581f063ede16939f
+wilco2013-08-03t10.flac:58fda35e5fe686960ebaa0b350fcd68e
+wilco2013-08-03t11.flac:7eb47fa400842e5af3cb55725b94d10e
+wilco2013-08-03t12.flac:32f809566d663ba6d7426204141d58e9
+wilco2013-08-03t13.flac:011a4b620bdcfa2ebc2d4c6b3032489e
+wilco2013-08-03t14.flac:1ab2c273fa566dfbe6d52d6c8e171a58
+wilco2013-08-03t15.flac:2fd17107452835fc3541199fe08bcb5e
+wilco2013-08-03t16.flac:3cbc3c84850b01fa2366f34ec157556c

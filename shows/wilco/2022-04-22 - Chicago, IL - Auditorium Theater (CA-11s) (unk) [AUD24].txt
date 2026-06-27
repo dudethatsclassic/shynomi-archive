@@ -1,0 +1,63 @@
+Wilco
+Auditorium Theater
+Chicago, Illinois
+April 22, 2022
+
+Source: Church Audio CA-11 cards => UGLY pre-amp => Tascam DR-2D (24-bit)
+Transfer: DR-2D => WAV => Magix Audio Cleaning Lab => WAV => FLAC (level 8) 
+
+Location: 12th row center
+
+Setlist:
+
+Disc one (54:36):
+(1)  I Am Trying to Break Your Heart (6:24) *
+(2)  Kamera (3:39)
+(3)  Radio Cure (4:55)
+(4)  War On War (4:10)
+(5)  Jesus, Etc. (4:06)
+(6)  Ashes of American Flags (4:39)
+(7)  Heavy Metal Drummer (3:22)
+(8)  I'm The Man Who Loves You (3:57)
+(9)  Pot Kettle Black (4:20)
+(10)  Poor Places (5:33)
+(11)  Reservations (7:04)
+(12)  Encore break (2:21)
+
+Disc two (30:25):
+(1)  Banter/band introductions (2:42)
+(2)  Be Not So Fearful (2:35)
+(3)  Jay Bennett tribute (0:29)
+(4)  Pieholden Suite (3:24)
+(5)  Cars Can't Escape (4:05)
+(6)  A Magazine Called Sunset (3:01)
+(7)  Hummingbird (3:28)
+(8)  Banter (0:29)
+(9)  The Good Part (3:27)
+(10)  Banter (0:29)
+(11)  Monday (4:01)
+(12)  Outta Site (Outta Mind) (2:39)
+
+* alternate source for first 2:03
+
+There are no fades applied, so the above disc splits are just a suggestion.
+
+Md5 signature file is included. Sorry, no artwork (feel free to make some) 
+
+Comments: 
+
+First show of a three-night run in Chicago celebrating the 20th anniversary of their classic album "Yankee Hotel Foxtrot." Despite the limited nature of this tour (5 nights in New York plus 3 in Chicago), the band pulled out all the stops with a tightly choreographed stage show including a four-piece string quartet and three-piece horn section, as well as full stage lighting, strobes, etc. The live performance contained all of the idiosyncratic audio elements of the album, either reproduced onstage or augmented via tapes. 
+
+The YHF set was mesmerizing. After 20 years, one forgets how incredible and groundbreaking the album was, but the live reproduction was both faithful to the original and served to remind us of how brilliant the songwriting was. 
+
+The "post-encore" set was interesting and entertaining. Rather than reprise a series of their most well-known songs, the band played six YHF outtakes to stick with the theme, followed by two "Being There" songs to close the show. A bit short at 90 minutes, but gripping and highly entertaining.
+
+I recorded this from 12th row center; there were talkers and clappers around me, but somehow they are not really represented on the recording. On the negative side, I thought the sound was a bit disappointing -- I think the PA's must have been aiming further back on the floor.
+
+Wilco kicked off the set without much of a break after the string quartet intro -- as a result, I was in the lobby, unprepared, when they started their set (despite being in the door before the published start time). I missed the first 2:03 of "I Am Trying To Break Your Heart" -- however, Dime member "Freteluco" was in the house recording from the upper level, and captured the entire performance. His recording supplements the first part of IATTBYH and I think I was able to insert his recording seamlessly. Hopefully Wilco fans are satisfied with my efforts; given that no other recording has surfaced in the last few months, I suppose either way it will have to do. :) For completeness' sake, I am including files for the raw (cut) master as well as the complete 1st song with the merged sources.
+
+Mp3 samples are included in the comments.
+
+Can't wait to catch them again (hopefully) later in 2022!
+
+Mp3 samples are included in the comments.

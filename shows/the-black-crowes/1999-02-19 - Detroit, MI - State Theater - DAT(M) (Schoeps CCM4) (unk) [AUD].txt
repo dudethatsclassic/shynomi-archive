@@ -1,0 +1,36 @@
+the black crowes
+state theater, detroit michigan
+february 19, 1999
+
+recording gear:
+schoeps ccm4 > sonosax > D8 DAT Master @ 16bit/44.1kHz
+
+lineage:
+DAT Master > my DAT
+
+processing:
+DAT > tascam da-45hr > mt 2496 > adobe audition > cdwav > tlh flac8
+
+these are 16bit/44.1kHz flac files
+
+01. Remedy
+02. Go Faster
+03. Sting Me
+04. Kickin' My Heart Around
+05. Thick N' Thin
+06. Horsehead
+07. She Gave Good Sunflower
+08. Good Friday
+09. My Morning Song
+10. Thorn In My Pride
+11. Heavy
+12. Blackberry
+13. Go Tell The Congregation
+14. Only A Fool
+15. Nonfiction
+16. By Your Side
+17. Jealous Again
+18. No Speak No Slave
+19. She Talks To Angels
+20. 1969 
+21. Virtue and Vice

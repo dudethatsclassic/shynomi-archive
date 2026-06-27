@@ -1,0 +1,22 @@
+Tori Amos
+February 10, 1994
+Live 105 FM Radio
+San Francisco, CA
+
+
+Source: FM > Cassette
+
+Transfer: 90 min TDK Type II Cassette (0 or 1st generation) > Stereo/Tape Deck > 
+Line in > Audacity 1.2.3 > (Amplification, Tape hiss removal) > CD Wave Editor > WAV 
+> FLAC Frontend > FLAC (Level 8)
+
+
+Tracks:
+
+01. Interview
+02. Icicle
+03. Interview
+04. Crucify
+05. Interview
+06. Cloud on My Tongue
+07. Outro

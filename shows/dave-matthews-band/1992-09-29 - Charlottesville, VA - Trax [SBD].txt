@@ -1,0 +1,76 @@
+Dave Matthews Band
+Trax
+Charlottesville, VA
+September 29, 1992
+
+Taper:      	Unknown
+Source Info:    SBD -> Analog (unknown generation) -> CD
+
+Conversion: Adam Nelson (nelso222@msu.edu) & Henry Hart
+
+CD > flac > wav > flac (see notes below): 
+	EAC (secure mode, all tracks 100%) -> WAV -> 
+	flac frontend (level 6) Tracks split using 
+	CD Wave v1.93.3 > wav > AddaWav > Cool Edit Pro v2.1 > 
+	CDWav > flac frontend
+
+                          ********************
+                          PRESERVE THE QUALITY
+                          DO NOT ENCODE TO MP3
+                          ********************
+
+
+Track   |       Name           	 |   Time (m:s)
+------------------------------------------------------
+Set I:
+d1t01		Intro					00:52
+d1t02		Minarets				06:46
+d1t03		Blue Water				07:17
+d1t04		Tripping Billies			05:26
+d1t05		Recently				08:08
+d1t06		Angel From Montgomery		05:59
+d1t07		Pay For What You Get		07:27
+d1t08		Drive In Drive Out		04:06
+
+d2t01		All Along The Watchtower	01:11
+d2t02		I'll Back You Up			05:02
+d2t03		Dancing Nancies			07:48
+Set II:						
+d2t04		Cry Freedom				06:02
+d2t05		True Reflections *		11:24	
+d2t07		Warehouse *				09:15
+d2t08		Two Step *				04:05
+
+
+NOTES:
+----------
+Entire show with Miguel Valdez on percussion
+Stefan did not play during this show either except for the last 3 songs with a *.
+
+Carter hurt his hand so Miguel filled in for this show and the Floodzone show the next night. These were special acoustic shows.
+
+This is not a great recording and it has a lot of flaws, but it's a sweet show that was difficult to find. 
+
+This recording has a lot of hiss. 
+
+Dave mentions a show in Washington D.C. the past weekend (09/26/92 - possibly at the Bayou although the exact venue is unknown)
+
+There is no segue between Minarets and Blue Water.
+
+DIDO has a 1 sec cut near the end of the song, then the end of the song is missing. 
+
+Most of the Watchtower is missing.
+
+Two Step is cut off.
+
+These rare older shows have been collected and converted through a collaborative effort to get them into circulation. Sometimes these shows do not have the best sound quality (and maybe that's why they aren't circulated much to begin with), but people should have access to them. 
+
+Thanks to Dan Pyrik for the CD source used for the conversion. 
+
+Compiled By Adam Nelson on November 8, 2006
+
+UPDATE by Henry Hart on 11.22.06:
+I cut everything above 10kHz to get rid of a lot of the tape hiss and
+did some volume adjustments. It sounds better now, but still has a lot
+of hiss during parts of the show. This was done in Cool Edit Pro v2.1
+and retracked in CDWav.

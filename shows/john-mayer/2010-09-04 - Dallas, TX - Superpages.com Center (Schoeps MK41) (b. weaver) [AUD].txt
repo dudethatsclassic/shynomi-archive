@@ -1,0 +1,63 @@
+{\rtf1\ansi\ansicpg1252\cocoartf949\cocoasubrtf460
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww14260\viewh13000\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0 John Mayer\
+Superpages.com Center\
+Dallas, TX\
+September 4, 2010\
+\
+Source: Schoeps MK41 > KC5 > CMC6xt > Sound Devices 702 (24/48) \
+Location: SBD, DFC, Mics @ 13' (DinA)\
+Transfer: 
+\f1 SDHC Card > iMac > Soundbooth CS4 (fade in/out, add +6 db, dither to 16bit) > Sound Studio 3 (tracking) > xACT > .Flac\
+\
+Taped and Transferred by B.Weaver\
+\
+<<<<Please do not encode to .mp3 or other lossy format>>>>
+\f0 \
+\
+01.	Vultures\
+02.	No Such Thing\
+03. 	Perfectly Lonely\
+04.	Ain't No Sunshine\
+05.	Slow Dancing in a Burning Room\
+06.	Heartbreak Warfare\
+07.	Don't Think Twice, Its all right	>\
+08.	3x5 \
+09.	Your Body is a Wonderland\
+10.	Why Georgia\
+11.	Voodoo Child\
+12.	Who Says\
+13.	Gravity\
+14.	Half of My Heart > Don't Stop Believing\
+---------------------\
+15.	E: Edge Of Desire\
+\
+Total: 2:00:57:730 \
+\
+Notes:\
+- There was quite a bit of wind noise. (thanks to the venue for installing fans inside the venue) I have ran a filter cutting out some of the wind noise. It is still audible during the quiet spots. \
+\
+Huge Thanks to Phil Chung for letting me borrow the 702!\
+\
+
+\f1 compiled by B.Weaver on 2010-09-30\
+\
+JM2010-09-04.MK41.t01.flac:a2cec116a5ed68217c4668ef84154a69\
+JM2010-09-04.MK41.t02.flac:2037066d6302c8c2264322261bc2a7bd\
+JM2010-09-04.MK41.t03.flac:71a7e3039a95a8705f98fe686c1d208e\
+JM2010-09-04.MK41.t04.flac:9d7d5b93af8f3b9180c4257708e1ba86\
+JM2010-09-04.MK41.t05.flac:f78b85c913c6d1f44a87baca4c8aac86\
+JM2010-09-04.MK41.t06.flac:ab1249284fafa48515213cd7f2ddc878\
+JM2010-09-04.MK41.t07.flac:e1cf420d2fd63f3bdb1b14f97b19e1c8\
+JM2010-09-04.MK41.t08.flac:e07140b18c818a46a9bf3007175ae6c3\
+JM2010-09-04.MK41.t09.flac:6046ae71ee38663e01395592240bd4aa\
+JM2010-09-04.MK41.t10.flac:7bba43310520bf6f318af07d7254f887\
+JM2010-09-04.MK41.t11.flac:2a4090cdb9d1f5ed0eb0e3a111383d30\
+JM2010-09-04.MK41.t12.flac:d7d58bd5013e93c7af602895b6311471\
+JM2010-09-04.MK41.t13.flac:d845881be5f51dbefc245b598bdbdf4f\
+JM2010-09-04.MK41.t14.flac:b4747c071cd0fbae3cacd9d661a4419c\
+JM2010-09-04.MK41.t15.flac:6eee837bc670a0b966fbc7d29ea9dac3}

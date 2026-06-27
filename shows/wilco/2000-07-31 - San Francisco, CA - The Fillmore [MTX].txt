@@ -1,0 +1,71 @@
+Wilco
+The Fillmore
+San Francisco, CA
+July 31, 2000
+Monday
+
+:: 44.1kHz/16 bit FILE SET ::
+
+MATRIX:
+SBD > Sony D8 > DAT Master (44.1kHz/16bit)
+Schoeps CCM4's > Aerco MP-2 > 
+Sony D8 > DAT Master (44.1kHz/16bit)
+
+LOCATION:
+Mics OTRF, left of center, 8 feet high, 
+75 feet from the stage at SBD in 
+the back of the venue
+
+MASTERING:
+DAT Masters > Sony PCM-R300 > ProTools 8.0.5 
+(EQ, compression, mixing, mastering) > 
+WAV (44.1kHz/16bit) > FLAC
+
+ 1.	Airline To Heaven
+ 2.	Feed Of Man
+ 3.	Christ For President
+ 4.	Blood Of The Lamb
+ 5.	California Stars
+ 6.	Remember The Moutain Bed
+ 7.	Hesitating Beauty
+ 8.	Secret Of The Sea
+ 9.	Ashes Of An American Flag
+10.	Red Eyed And Blue
+11.	I Got You (At The End Of The Century) >
+12.	Somebody Else's Song
+13.	How To Fight Loneliness
+14.	Hotel Arizona
+15.	I'm Always In Love
+16.	Candyfloss
+17.	Should've Been In Love
+18.	Passenger Side
+19.	Forget The Flowers
+:: encore one ::
+20.	Can't Stand It
+21.	We've Been Had
+22.	The Long Cut
+23.	New Madrid
+24.	She's A Jar
+25.	Shot In The Arm
+26.	Misunderstood
+:: encore two ::
+27.	Do Not Remove
+28.	Monday
+29.	Outtasite (Outta Mind)
+
+Jeff Tweedy: guitar, vocals
+John Stirratt: bass, vocals
+Jay Bennett: guitar, vocals
+Ken Coomer: drums
+Leroy Bach: keyboards
+
+NOTES:
+Third show of a three night run
+
+BILL:
+Wilco
+Howe Gelb
+Christy McWilson
+
+TAPER REQUEST:
+Suport the artist! Buy their records, tickets and merchandise. Share freely and never for profit. Post and seed on other trackers and blogs. Please maintain this file set at the original sample rate of the master recording. Convert or down sample for your personal use only.

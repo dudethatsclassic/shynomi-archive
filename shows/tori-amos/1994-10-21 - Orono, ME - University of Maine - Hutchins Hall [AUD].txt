@@ -1,0 +1,51 @@
+Fine recording of Tori Amos.  Applause has been balanced and vvarious interfering sounds were removed where possible.  Enjoy.
+
+Fault: Usual audience expressions of enthusiasm are appropriate and interfere with the listen only to a minor degree.
+
+TORI AMOS
+Orono, ME  --  University of Maine Hutchins Hall
+1994-10-21  --  81:00
+
+01.  The Good, the Bad, and the Ugly
+02.  I'm on Fire
+03.  Space Dog
+04.  Leather
+05.  The Waitress
+06.  -talk-
+07.  Icicle
+08.  God
+09.  Winter    
+10.  Precious Things
+11.  Bells for Her   
+12.  Me and a Gun
+13.  Baker, Baker
+14.  -applause-
+15.  Cornflake Girl
+16.  A Case of You
+17.  -applause, talk-
+18.  Tear in Your Hand
+19.  Landslide
+
+note:
+t01: snippet
+t08,15: prerecorded backing track
+t11>12: tape flip - applause reduced, no loss of music, possible loss of talk
+Tori Amos - songwriter, except
+t01: by Ennio Morricone
+t02: by Bruce Springsteen
+t16: by Joni Mitchell
+t19: by Stevie Nicks
+
+musician:
+Tori Amos - vocals, piano, t11: detuned piano
+
+No artwork.
+
+Source: trade cassette; previous history unknown
+Transferred by stevemtl: cassette > Nakamichi Dragon > Lucid AD9624 (mod) > R44 (24/48) > SD chip > HD
+Mastered and posted to DIME by stevemtl on 2019-05-25:
+HD > Soundforge (@24/48: trim, edit, L2 level adjust) > R8brain (downsample > 24/44.1) > Soundforge (dither > 16/44.1) > CDwave (track cut) > TLH (flac level 8, ffp, md5) > TLH (torrent) > DIME
+
+Support Tori Amos by purchasing official releases and merchandise.
+Please pass on in a lossless format; reserve mp3 and other degrades for your own use only.
+Do not profit in any material way from this recording.

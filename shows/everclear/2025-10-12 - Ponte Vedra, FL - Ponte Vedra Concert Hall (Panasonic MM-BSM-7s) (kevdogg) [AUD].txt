@@ -1,0 +1,51 @@
+Everclear
+Ponte Vedra Concert Hall
+Ponte Vedra, FL 
+October 12, 2025
+
+Lineage: 
+Panasonic MM-BSM-7's >Tascam DR-05X >44.1khz, 16bit wave
+>SanDisk microSD card >Audition 1.5 >wave >TLH >FLAC(level 8). 
+
+Location: 
+GA floor center. Directly in front of soundboard.
+
+Taper: 
+kevdogg 
+
+Set/Track List: 
+Disc One
+1. intro
+2. Electra Made Me Blind
+3. Heroin Girl
+4. You Make Me Feel Like a Whore
+5. Father of Mine / Santa Monica
+6. Summerland
+7. Strawberry
+8. Heartspark Dollarsign
+9. Everything to Everyone / Highway To Hell / Whole Lotta Love
+
+Disc Two
+10. The Twistinside
+11. Her Brand New Skin
+12. Nehalem
+13. Queen of the Air
+14. Wonderful
+15. Pale Green Stars
+16. Chemical Smile
+17. My Sexual Life
+18. So Much for the Afterglow
+19. I Will Buy You a New Life
+20. Santa Monica
+
+Notes: 
+The 26th show of the Sparkle & Fade 30th anniversary tour. Sponge and Local H opened and both were recorded.
+Everclear played a great show. Scott from Local H joined them for the LedZepp snippet and Vinnie helped out on
+Santa Monica. I don't know why they're doing a SM snippet early in the set but I left that a part of track 5. I like the
+setlist but they shoulda/should drop Father and New Life and play some deeper cuts instead. They have so much
+great stuff in the catalog. This was my first visit to this venue since the major remodeling and I think it turned out
+well. The new p.a. is small but it sounds great; a pair of L-Acoustics L2D's and various center and side fills along
+the walls and ceiling. I'm looking forward to catching some more good bands at this place. In Audition I gave a
+subtle increase in the 2-6.3khz range with the EQ and a hard limit to -.1db with a 9db boost. I am quite pleased
+with the results. Cover art is included in the torrent. Enjoy the show.
+-kevdogg

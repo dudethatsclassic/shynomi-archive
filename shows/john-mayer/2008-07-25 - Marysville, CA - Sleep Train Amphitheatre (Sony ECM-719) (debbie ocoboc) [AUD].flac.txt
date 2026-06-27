@@ -1,0 +1,61 @@
+John Mayer
+Summer 2008 Tour
+July 25, 2008
+Sleep Train Amphitheatre
+Marysville, CA
+
+Source:         Sony ECM-719 > Olympus LS-10
+Conversion:     LS-10 > WAV > FLAC Frontend
+Taper:          Debbie Ocoboc (docoboc.u@yuku.com)
+Transferred By: Claude Sawyer (csawyer@tapergeek.com)
+
+01. Belief
+02. Bigger Than My Body
+03. No Such Thing
+04. Crossroads
+05. Dreaming With A Broken Heart
+06. Stitched Up
+07. I Don't Trust Myself (With Loving You)
+08. Free Falling
+09. Mercy
+10. Vultures - Burning Down The House
+11. Good Love is On the Way
+12. Why Georgia
+13. Gravity
+14. I Don't Need No Doctor
+15. Waiting on the World to Change
+16. Say
+
+FLAC Fingerprint:
+jmayer2008-07-25t01.flac:bd0a67c02971c1081eb26cb859d16a6b
+jmayer2008-07-25t02.flac:529ed6539e93d63d91b431582ecee119
+jmayer2008-07-25t03.flac:68f368b24a0dfdca55177e20601bcd3a
+jmayer2008-07-25t04.flac:e0eafc025af2ea6b90720be992ab02db
+jmayer2008-07-25t05.flac:3ae06697cbe6498cf04c52e36d5902e5
+jmayer2008-07-25t06.flac:2b4a4e7adec1f98bd588d6d77361f69b
+jmayer2008-07-25t07.flac:4c5fddf826780c27eb37cd6128ff7f2e
+jmayer2008-07-25t08.flac:9cb98ca59a3d4dd92b598b148f0ecfad
+jmayer2008-07-25t09.flac:e52acd05402e221e90754a667af06dc3
+jmayer2008-07-25t10.flac:c5236bafb7b1ec612705eacdab0aa1bd
+jmayer2008-07-25t11.flac:cb52497f5e489c8076d4e1650070f08b
+jmayer2008-07-25t12.flac:c3423de379223e6a40787e8ebc20bcb1
+jmayer2008-07-25t13.flac:d4c490366a9fe97c9ba901d653d12a0a
+jmayer2008-07-25t14.flac:e9fbd7d7673eb2cfb5f841d9e87f6c2e
+jmayer2008-07-25t15.flac:ba9fdc8d5ff4a49c5e5fab18157f1c06
+
+MD5 CHECKSUM:
+34e1f516d61b3dc7363665beb37270ac *jmayer2008-07-25t01.flac
+a4a1c43b2b77c622134794a2a5c4dc22 *jmayer2008-07-25t02.flac
+829e4ac50d13c2bc844128d10691c1cd *jmayer2008-07-25t03.flac
+daa805e34f514bf5d7dbe8e76b0f0e3a *jmayer2008-07-25t04.flac
+0c23c5dc36b7564da3b069eea7abdc4f *jmayer2008-07-25t05.flac
+2d4c3822d61ba70971c5d050784088ac *jmayer2008-07-25t06.flac
+6c1d2d06c0451d998b9e63ee03326071 *jmayer2008-07-25t07.flac
+b824eb3e9729857201fa05850ef88c81 *jmayer2008-07-25t08.flac
+6379d64b97f61f9e4fdc448210c3e62a *jmayer2008-07-25t09.flac
+d004c81cdcb464118ae6dee1cfd40b22 *jmayer2008-07-25t10.flac
+39c6981c24b058c99c0690f1aed47e0b *jmayer2008-07-25t11.flac
+667a5c0888a9d67a83e5859aafe59d77 *jmayer2008-07-25t12.flac
+bb8d546917a5bd8e3cae670e63cc3d5f *jmayer2008-07-25t13.flac
+394824c3cd2ea1bfb2f9b1d395ff8d65 *jmayer2008-07-25t14.flac
+edaac04267217d9b3b983a2e2853f845 *jmayer2008-07-25t15.flac

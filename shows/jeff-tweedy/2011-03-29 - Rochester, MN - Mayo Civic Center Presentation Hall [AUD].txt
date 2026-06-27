@@ -1,0 +1,45 @@
+Jeff Tweedy
+Mayo Civic Center Presentation Hall
+Rochester, MN, USA
+March 29th, 2011
+
+source: Church Audio CA-14's > Church 9100 preamp > 1/8" out > Edirol R-09 (line in @24bit-48k)
+location: MF2, Row 7, Seat 7 (so in between where Tweedy was standing and the left stacks as facing the stage)
+
+editing notes:
+Sound Forge used to raise the levels and for fade in/outs
+R8Brain used to dither to 44k-16bit
+CDWAV used to split the tracks 
+Shntool used to verify/correct Sector Boundaries
+
+Disc 1
+1. Spiders (Kidsmoke)
+2. Remember The Mountain Bed
+3. One Wing
+4. I Am Trying to Break Your Heart (w/ Yankee Doodle instrumental fragment)
+5. Cars Can’t Escape
+6. Via Chicago
+7. You And I
+8. Far, Far Away
+9. Muzzle Of Bees
+10. Not For The Season
+11. New Madrid
+12. I’m Always In Love
+13. I Was Born To Die Alone (new song)
+14. I’ll Fight
+15. Jesus, etc.
+
+Disc 2
+1. Forget The Flowers
+2. Radio King
+3. Hummingbird
+4. Theologians
+5. I’m The Man Who Loves You
+Encores #1
+6. Pecan Pie
+7. Casino Queen
+8. Passenger Side
+9. A Shot in the Arm
+Encores #2
+10. Walken (performed at edge of stage w/o PA system)
+11. Dreamer In My Dreams (performed at edge of stage w/o PA system)

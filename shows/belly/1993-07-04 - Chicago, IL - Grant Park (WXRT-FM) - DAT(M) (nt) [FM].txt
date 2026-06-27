@@ -1,0 +1,40 @@
+Belly
+July 4, 1993
+Grant Park, Chicago
+Live Broadcast from Taste of Chicago Festival,
+WXRT FM->Cassette Master (XL-IIS (no dolby))->DAT->FLAC
+(Opened for Matthew Sweet)
+
+Running time: 53:20.42
+1.  Low Red Moon
+2.  Dusted
+3.  Angel
+4.  Full Moon, Empty Heart
+5.  Star
+6.  Dream On Me
+7.  White Belly
+8.  Gepetto
+9.  Sexy S
+10. Feed The Tree
+11. Slow Dog
+12. Stay
+
+WXRT FM->Cassette Master (XL-IIS (no dolby))->DAT (32kHz)->
+     PC (Sony PCM R500 into LynxONE digital I/O card) -> FLAC
+
+Cassette master recorded by NT; CM transfer to DAT by TN, 1993.
+DAT->FLAC conversion by TN, July, 2005.
+
+Resampled from 32kHz to 44.1 kHz via Sound Forge Studio 6.0d.
+Fade in/outs, removal of analog cuts between songs via Sound Forge Studio.
+cdwave used for track splits.
+
+-------------------------
+ 
+Hyperion88 Reseed Notes:
+
+Reseed # 027 - Downloaded: 2009-02-13 Reseeded: 2021-06-14
+
+Recently found copies of the approximately 1000 Dime recordings I downloaded 15 years ago that I thought were lost. Seeing there are a lot that are no longer seeded, so thought it was time to start offering back to show some gratitude to you all for the enjoyment you have given me over the years. 
+
+Long pause in my reseeding - busy getting ready to move house. But I have a spare couple of minutes to do some reseeding. I have a few more Belly recordings to share after this one. 

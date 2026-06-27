@@ -1,0 +1,67 @@
+Wilco
+June 06, 2004
+Pittsburgh, PA
+Point State Park Symphony Stage
+Three Rivers Arts Festival
+
+Source: AKG se300b/CK91 (FOB, DFC, ~ 7.5' high, DIN) > Graham Patton DMIC-20 > Hosa ODL-312 > Nomad Jukebox 3 (@ 16bit/48kHz)
+Transfer: Nomad Jukebox 3 > firewire > Cakewalk Sonar 4.0 (resampled on export to 44.1kHz) > CD Wave Editor (exported as FLAC)
+Taped and transfered by: Alex Herd (AlexHerd@TapersSection.com)
+
+Disc One:
+01. Company In My Back
+02. Hummingbird
+03. Ashes of American Flags
+04. Heavy Metal Drummer
+05. I Am Trying To Break Your Heart
+06. War On War
+07. I'm Always in Love
+08. A Shot in the Arm
+09. Hell is Chrome
+10. Theologians
+11. At Least That's What You Said
+12. Muzzle of Bees
+13. Poor Places
+14. I'm the Man Who Loves You
+15. The Late Greats
+
+Disc Two:
+Encore One:
+01. When the Roses Bloom Again
+02. One by One
+03. Sunken Treasure
+04. Handshake Drugs
+05. California Stars
+Encore Two:
+06. Spiders (Kidsmoke)
+07. I'm a Wheel
+
+Notes:
+-No fades between discs so that the show can be joined seamlessly on longer media
+
++Thanks to Wilco for allowing taping! Please support them by going to their shows and by buying their merchandise!+
+
+
+FLAC fingerprint:
+Wilco2004-06-06akg391d1t01.flac:6fa021f957b57e5be3a25df2f62d54f9
+Wilco2004-06-06akg391d1t02.flac:e2300930833466170543e7a32323f90a
+Wilco2004-06-06akg391d1t03.flac:7acc2033e7434bc4baa7cc317e319996
+Wilco2004-06-06akg391d1t04.flac:2a8cc0e5a8943f276ce24cdea5479e86
+Wilco2004-06-06akg391d1t05.flac:73476be1497c06a42110ab9fd2a4fb8d
+Wilco2004-06-06akg391d1t06.flac:c7e23d74ca23798b875931281bae90f7
+Wilco2004-06-06akg391d1t07.flac:f64bb5f47febab7005084c506507d877
+Wilco2004-06-06akg391d1t08.flac:e672027eb3c4c49334882e12b0623674
+Wilco2004-06-06akg391d1t09.flac:3be427fdd7e8d76572df04c885a2aa09
+Wilco2004-06-06akg391d1t10.flac:c3d804b2ea7e189ff5459a26306dc0ca
+Wilco2004-06-06akg391d1t11.flac:447886ac5de955fbdb5f88c1ac055fd4
+Wilco2004-06-06akg391d1t12.flac:a8c437ce595be735644a307ff133a43f
+Wilco2004-06-06akg391d1t13.flac:5c0dd400706597a6935dfe7c637ffd05
+Wilco2004-06-06akg391d1t14.flac:61e47a890fd0082c919e48e8c951e6d5
+Wilco2004-06-06akg391d1t15.flac:aea4336e8f1adce77e435e37f316bb5f
+Wilco2004-06-06akg391d2t01.flac:2228b0eb10388515fd450b3c5b8812b5
+Wilco2004-06-06akg391d2t02.flac:22f5490b7ec262836bfadeaf6f7eca69
+Wilco2004-06-06akg391d2t03.flac:9f6cf3122d7e8b7e6d4d98e3ad1e3e35
+Wilco2004-06-06akg391d2t04.flac:a057a288bada0560e153e60d52f3eebf
+Wilco2004-06-06akg391d2t05.flac:ec975b79bc440422e9403da14c26c25b
+Wilco2004-06-06akg391d2t06.flac:65b851d89c86f0afc4d6700b6384066e
+Wilco2004-06-06akg391d2t07.flac:b97b263b9760fd676899466d945232f3

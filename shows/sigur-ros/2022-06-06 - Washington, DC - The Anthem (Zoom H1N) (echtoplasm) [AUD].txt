@@ -1,0 +1,38 @@
+Sigur Rós
+2022-06-06
+The Anthem, Washington, DC
+
+Source Info:
+Zoom H1N
+> WAV (24/96)
+> dither to WAV 16/48 to save space
+> Audacity (normalize to -3 dB, fades, volume adjustments)
+> r8brain (convert to WAV 16/44)
+> CDWave
+> FLAC
+
+Running time: 150'
+Taper: ECHtoplasm
+
+----
+vaka
+fyrsta
+samskeyti
+svefn-g-englar
+ný batterí
+gold 2
+fljótavík
+heysátan
+dauðalagið
+smáskifa
+glósóli
+e-bow
+ekki múkk
+sæglópur
+gong
+andvari
+gold 4
+festival
+kveikur
+popplagið
+----

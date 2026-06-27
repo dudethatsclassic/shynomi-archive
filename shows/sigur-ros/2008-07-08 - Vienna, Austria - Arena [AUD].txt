@@ -1,0 +1,40 @@
+Sigur Ros
+2008-07-08
+Arena, Vienna, Austria
+
+OKM2R->A3->Archos Gmini 400
+-> Soundforge & CD-Wave for Cut/Fadein/Out
+-> Flac Level 5
+
+There is a mp3 version on the sigur ros dc-hub, it's created with razorlame/lame in 128-192kbps vbr.
+
+FLAC Version on dimeadozen.org
+
+01 Svefn-G-Englar
+02 Glosoli
+03 Se Lest
+04 Ny Batt
+05 Vid Spilum Endalaust
+06 Hoppipolla
+07 Med
+08 Fljotavic
+09 Vidrar
+10 Saeglopur
+11 Inni Mer Syngur
+12 Olsen Olsen
+13 Hafsol
+14 Gobbledigook
+15 Popplagid
+16 All alright
+17 Outro
+
+
+
+
+
+
+
+
+
+
+

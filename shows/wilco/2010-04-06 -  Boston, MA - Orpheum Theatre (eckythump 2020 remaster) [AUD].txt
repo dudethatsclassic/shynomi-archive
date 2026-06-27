@@ -1,0 +1,71 @@
+Wilco
+Orpheum Theatre
+Boston, MA
+Tuesday 6 April 2010
+
+Source: AKG 391 > Edirol UA-5 (digimod) > Edirol R-09 (24/44.1) 
+Transfer: SD > WAV (24/44.1) > Audacity v1.3.11 (dither, minor edits) > WAV (16/44.1) > CD Wave v1.98 (tracking) > FLAC(6)
+Location: Mezzanine rail, ~15 ft ROC, mics DIN
+Recorded and transferred by: vanark (vanarkATgmailDOTcom)
+
+Remastered by eckythump 29 November 2020: iZotope RX8 Advanced (azimuth adjustment) -> Ozone 9 (EQ adjustments) -> Audacity 2.4.2 (split tracks and FLAC Level 8) -> Foobar 1.6.2 (Files tagged) -> Traders Little Helper 2.8.4
+
+Track List:
+
+00 - Intro 
+01 - Wilco (the song)
+02 - Bull Black Nova
+03 - You Are My Face
+04 - I Am Trying To Break Your Heart
+05 - One Wing
+06 - A Shot in the Arm
+07 - One By One
+08 - Either Way
+09 - Company In My Back
+10 - Sonny Feeling
+11 - Handshake Drugs
+12 - Impossible Germany
+13 - It's Just That Simple
+14 - California Stars
+15 - Poor Places
+
+Acoustic Set
+
+16 - Spiders (Kidsmoke)
+17 - How To Fight Loneliness
+18 - You And I
+19 - Banter - dinner giveaway
+20 - Forget The Flowers
+21 - Banter - Solid Sound announcement
+22 - Someday, Some Morning, Sometime
+23 - Laminated Cat (aka Not For The Season)
+24 - When You Wake Up Feeling Old
+25 - War On War
+26 - Passenger Side
+27 - I Must Be High 
+
+Electric Set continues
+
+28 - Airline To Heaven
+29 - Via Chicago
+30 - Theologians
+31 - You Never Know
+32 - Jesus, etc.
+33 - Hate It Here
+34 - Heavy Metal Drummer
+35 - I'm Always In Love
+36 - Walken
+37 - I'm The Man Who Loves You
+38 - Thank You Friends (Big Star cover)
+39 - Encore break
+40 - Dreamer In My Dreams
+41 - Casino Queen
+42 - Outtasite (Outta Mind)
+
+Show notes: The Spring 2010 US 'An Evening With Wilco' tour was remarkable for its very lengthy sets, and this one is one of the longest of the lot, clocking in at a Springsteen like 39 songs and 3 hours and 2 minutes! This is a tremendous show in front of a very appreciative crowd. Jeff also revealed to the crowd the details about Solid Sound Festival to the crowd, which was the first time it was made public. A simply fantastic show.
+
+Recording notes: This was already a very good recording, but I gave it an azimuth adjustment and an EQ adjustment and I now think it sounds a little crisper and sharper than the original. It's an excellent recording any Wilco fan will enjoy listening to.
+
+Some wonderful photos included taken by Tim Bugbee at Tinnitus Photography - all copyright belongs to him, I simply provide them here to supplement the recording.
+
+Tim's review can also be found here - https://www.prefixmag.com/photos/wilco-the-orpheum-theatre-in-boston-picsreview/

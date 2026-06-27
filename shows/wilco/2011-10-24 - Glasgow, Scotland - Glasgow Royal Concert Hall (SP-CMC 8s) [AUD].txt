@@ -1,0 +1,63 @@
+
+Wilco
+
+Glasgow Royal Concert Hall
+Glasgow, Scotland UK
+
+24th October 2011
+
+Jeff Tweedy : vocals, acoustic and electric guitars
+John Stirratt : bass, vocals
+Nels Cline : guitars, synths
+Glenn Kotche : drums, percussion
+Pat Sansone : keyboards, guitars, vocals
+Mikael Jorgensen : keyboards
+
+Cd A 67 min 59 sec
+
+01 One Sunday Morning (Song For Jane Smiley's Boyfriend)
+02 Poor Places
+03 Art of Almost
+04 I Might
+05 I Am Trying to Break Your Heart
+06 One Wing
+07 Bull Black Nova
+08 You Are My Face
+09 Rising Red Lung
+10 Impossible Germany
+11 chat
+12 Handshake Drugs
+
+Cd B 48 min 34 sec
+
+01 Standing O
+02 Jesus, Etc.
+03 Born Alone
+04 War On War
+05 Dawned On Me
+06 Shot in the Arm
+---------------
+07 Whole Love
+08 California Stars
+09 Heavy Metal Drummer
+10 I'm the Man Who Loves You
+11 Misunderstood
+
+Recorded from row K, facing Nels Cline.
+Aud->SP CMC-8s->SP-SPSB-8(R/o=0) ->
+Edirol R09(16bit 44.1Khz, gain +20)
+USB transfer to pc->Nero Wave Editor(volume balancing, volume boosting)
+->CDWave(split)->Flac sector 8, sector boundaries aligned.
+FLACs created, checked and ffp's created using Traders' Little Helper
+
+Sound : The GRCH is a large, echoey venue, so this is less immediate sounding
+than my recording of their Barrowlands set last year.
+It was a lovely set, and the recording has decent sound quality, although I wish Jeff's vocals had been a bit higher in the mix.
+Note : at the start of Rising Red Lung, a fight broke out in the balcony.
+Jeff dealt with it very well, and re-started the song.
+
+Recorded, converted and upped by Evangeline.
+Share freely in lossless formats only.
+No selling in any form.
+
+Check out Wilco's wonderful new album "The Whole Love", especially the 2cd limited edition, well worth the extra.

@@ -1,0 +1,30 @@
+Vertical Horizon
+Bowery Ballroom
+New York, NY
+6.28.99
+
+Source: akg c1000s(xy)>d100 
+Conversion: Allan Chen
+            Sony r300>sek'd prodif plus>samplitude (48>44.1)
+
+
+Track 	|	Name			|	Time (MM:SS)
+------------------------------------------------------------
+d1t01 	Intro					00:21
+d1t02 	Finding Me				04:46
+d1t03 	You're A God				04:26
+d1t04 	Everything You Want			04:56
+d1t05 	Wash Away				07:11
+d1t06 	Shackled				06:19
+d1t07 	Best I Ever Had				05:23
+d1t08 	Send It Up				05:41
+d1t09 	We Are					04:52
+d1t10 	The Man Who Would Be Santa		08:15
+d1t11 	E:Heart In Hand				05:50
+Total Time:					58:05
+
+Notes:
+Levels on DAT are incredibly low, so I normalized peak to -4db.
+Increased overall volume only slightly, but to a more tolerable level.
+
+Compiled by:  Ray Domingue <rpd004@yahoo.com>

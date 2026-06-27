@@ -1,0 +1,108 @@
+Jeff Tweedy & Friends
+Solid Sound Festival
+Joe's Field
+MASS MoCA
+North Adams, MA
+June 30, 2024
+
+** 24 BIT **
+
+Source #1:  Schoeps MK4V radial cardioids (in a Kangol hat) > Nbob actives > Nbox Platinum > Roland R-05 @ 24 bit/48 kHz
+Source #2:  SP-BMC-12 (binaurals) > SP-SPSB-10 battery box > Sony PCM-M10 @ 24 bit/48 kHz
+Mastering:  .WAV's > iZotope RX11 Advanced v11.0.1.3871 (De-Click) > Adobe Audition CC Version 2022, Build 22.2.0.61 (matrix mixdown) > Sound Forge Pro 14.0 Build 140 [minor edits, 
+normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.17 (tagging)
+Locations:  Source #1 - In front of the left stacks, 20 feet from the stage, Source #2 - In front of the right stacks, about 15 feet from the stage
+Recorded by:  Source #1 - Jim Kelly (musicjaime), Source #2 - ManOfStealth
+Mastered by:  Dennis Orr
+
+Setlist: (1:51:47)
+01 Crowd/Intro
+02 Feel Free
+03 I Know What It's Like
+04 KC Rain
+05 Gwendolyn
+06 Western Skies
+07 How Hard It Is For A Desert To Die (1)
+08 Some Birds
+09 Low Key
+10 Ain't It A Shame
+11 Chat
+12 Half‐Asleep
+13 Band Intros
+14 Don't Forget
+15 Chat
+16 A Robin Or A Wren
+17 Evergreen
+18 Chat & Tuning
+19 Natural Disaster
+20 Save It For Me
+21 Chat & Tuning
+22 Summer Noon
+23 You're Not Going To Win
+24 The Red Brick >
+25 Warm (When The Sun Has Died)
+26 Guess Again
+27 Chat
+28 Enough
+29 Family Ghost
+30 Let's Go Rain (2)
+31 You Are Not Alone
+32 Chat & Tuning
+33 Friendship 
+34 Chat & Tuning
+35 California Stars (3)
+36 Chat
+37 Cosmic Dancer (4)
+38 Crowd
+
+(1) with Karly Hartzman from the band Wednesday - vocals
+(2) with Scott McCaughey from the band The Young Fresh Fellows - vocals
+(3) with members of Wilco and Jeff's family
+(4) Sammy Tweedy - lead vocals
+
+Jeff Tweedy - lead vocals & guitar
+Jim Elkington - guitar & pedal steel
+Liam Kazar - guitar & backing vocals
+Macie Stewart - backing vocals & fiddle
+Sima Cunningham - backing vocals
+Sammy Tweedy - backing vocals
+Spencer Tweedy - drums
+
+JeffTweedy2024-06-30MATRIX-t01.flac:28ae0ec6df9434b0a22fdcf868664547
+JeffTweedy2024-06-30MATRIX-t02.flac:59af67a9f15f351022d2343b3238a1f2
+JeffTweedy2024-06-30MATRIX-t03.flac:4f0f447b003688242e4439d40a9ac904
+JeffTweedy2024-06-30MATRIX-t04.flac:00d8e7b5a2de6c1c32081d265a373ed2
+JeffTweedy2024-06-30MATRIX-t05.flac:b3a4c4599e0f681324a846d5b9906848
+JeffTweedy2024-06-30MATRIX-t06.flac:3ddc27ed40a3359f46c077c51f5af42d
+JeffTweedy2024-06-30MATRIX-t07.flac:0b4e831d2b5cc51683ae5d2abcdff889
+JeffTweedy2024-06-30MATRIX-t08.flac:c88caa1389ea1fa71c51d708f7e3d24b
+JeffTweedy2024-06-30MATRIX-t09.flac:5fe385a5671c7881168e5c9571c0bba9
+JeffTweedy2024-06-30MATRIX-t10.flac:705dbf9265b7f80ffa95c946974c5c01
+JeffTweedy2024-06-30MATRIX-t11.flac:ccc16aa00ad080ec56412a55d558ad3c
+JeffTweedy2024-06-30MATRIX-t12.flac:c1a6ae081974a44d86837e154597ec23
+JeffTweedy2024-06-30MATRIX-t13.flac:55889fdfb973f663b797c512f3f8bffa
+JeffTweedy2024-06-30MATRIX-t14.flac:d64fb15844db4c4d0bf88b8cc163ceef
+JeffTweedy2024-06-30MATRIX-t15.flac:d744e1b0d97ce109b9d53c074de6eab6
+JeffTweedy2024-06-30MATRIX-t16.flac:2334064f4ebf5a789a5d435b29167506
+JeffTweedy2024-06-30MATRIX-t17.flac:f156aeb5c4e5296b88d07337b8d7c728
+JeffTweedy2024-06-30MATRIX-t18.flac:5d318746fb76f729b9008bf4b2b958b1
+JeffTweedy2024-06-30MATRIX-t19.flac:85d8ec892f7d3788570f4301f40ab5b9
+JeffTweedy2024-06-30MATRIX-t20.flac:c8f9540759ce03acc4b2e23bc62e9624
+JeffTweedy2024-06-30MATRIX-t21.flac:1137f037a4eae4a91529e353a7e5b1f8
+JeffTweedy2024-06-30MATRIX-t22.flac:b617dfa41fc4f9cfe45de6656ae456e6
+JeffTweedy2024-06-30MATRIX-t23.flac:30c8b3f36908581422f1032992112d6b
+JeffTweedy2024-06-30MATRIX-t24.flac:1247ee56ea5f05acedb05ba7057f3198
+JeffTweedy2024-06-30MATRIX-t25.flac:b33e77f1560ca177aa213759c1a19d1c
+JeffTweedy2024-06-30MATRIX-t26.flac:1cf295ab2c9eb3c9288616291224ae7c
+JeffTweedy2024-06-30MATRIX-t27.flac:ac6ff9a970158a570522559a2ba09847
+JeffTweedy2024-06-30MATRIX-t28.flac:d5254f93fea50d11802d91949139f59c
+JeffTweedy2024-06-30MATRIX-t29.flac:3b3d098bc8e1217dbc9e50b933232bc3
+JeffTweedy2024-06-30MATRIX-t30.flac:ca8cf52d464e262d1e145fea1b9e00e0
+JeffTweedy2024-06-30MATRIX-t31.flac:28e41b9e796f7813610e0ca7e9f4fbb5
+JeffTweedy2024-06-30MATRIX-t32.flac:056e88bcd81c0e09f0852ccc884291f8
+JeffTweedy2024-06-30MATRIX-t33.flac:ab01b37e458fae1606b649a23cb38bf9
+JeffTweedy2024-06-30MATRIX-t34.flac:0d7809107572d59fdda52dd0e8c4ad83
+JeffTweedy2024-06-30MATRIX-t35.flac:3758bb3b5cb6349edf97c6f534b02650
+JeffTweedy2024-06-30MATRIX-t36.flac:0994817d30d2176a64687f9c336d43b3
+JeffTweedy2024-06-30MATRIX-t37.flac:173372dbd8f04b50583be2adabc79d75
+JeffTweedy2024-06-30MATRIX-t38.flac:417877ad427213bdff585b639ddb5153

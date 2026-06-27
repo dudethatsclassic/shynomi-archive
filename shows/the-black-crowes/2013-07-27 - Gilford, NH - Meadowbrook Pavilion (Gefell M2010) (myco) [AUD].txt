@@ -1,0 +1,46 @@
+The Black Crowes
+Meadowbrook Pavilion
+Gilford, NH
+07/27/2013
+
+Source: Microtech Gefell M210 hypercard's (slightly less than DIN 90) > Aerco MP-2 > Tascam DR-680 (Busman mod) @ 24/96
+Location: Left rear corner of soundboard pit, approximately 10' high
+Transfer: DR-680> Soundforge 10.0c 
+(resampled to 44.1 w/ iZotope 64-bit SRC, dither to 16bit w/ iZotope MBIT + Dither, tracked, & fades) > Traders Little Helper for flac compression)
+
+Recorded by: Myco
+Transferred by: Myco
+
+Setlist
+
+01- Sting Me
+02- Twice As Hard
+03- A Conspiracy
+04- Hotel Illness
+05- Black Moon Creeping
+06- By Your Side
+07- Ballad In Urgency
+08- Wiser Time
+09- She Talks To Angels
+10- Thorn In My Pride
+11- Remedy
+12- Hard to Handle>Hush> Hard to Handle
+13- crowd
+14- Show Me
+15- Turn On Your Lovelight
+
+Black Crowes2013-07-27d1t01.flac:5923c8a8b3c07468b14f07c3b2d10b52
+Black Crowes2013-07-27d1t02.flac:89a0e4a14b5ed67f11e8ab5d922dea55
+Black Crowes2013-07-27d1t03.flac:05b9961609c415c9bd6da551c6a99a19
+Black Crowes2013-07-27d1t04.flac:980bbcbf652e39042d0ccc9e7ee5f30c
+Black Crowes2013-07-27d1t05.flac:05d9309a33ed5e7d9a1568bb4392e71c
+Black Crowes2013-07-27d1t06.flac:f0e410f7d387a9f4ce919c7d28a24ef2
+Black Crowes2013-07-27d1t07.flac:305d1ef2487727d1b63518d133ac2ef0
+Black Crowes2013-07-27d1t08.flac:b34b9ae6e6e92ed8f9068791bcccbf2b
+Black Crowes2013-07-27d1t09.flac:a208e455ebddf0721edcc15fd93d1332
+Black Crowes2013-07-27d2t10.flac:ee476c8bc1302f66eae2e6a465f1555e
+Black Crowes2013-07-27d2t11.flac:0ab8b19cd04b1c4bc608c78bc58a872f
+Black Crowes2013-07-27d2t12.flac:57f27c96d25e69a312071f04f47e3b24
+Black Crowes2013-07-27d2t13.flac:69351a97363f44617f1f9b6ff714ca47
+Black Crowes2013-07-27d2t14.flac:2a48191552c33fa1a00e2b038adb0876
+Black Crowes2013-07-27d2t15.flac:e1c05f6c301987ff82a24e672461adca

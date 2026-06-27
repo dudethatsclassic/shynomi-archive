@@ -1,0 +1,18 @@
+Sleater-Kinney
+The Tonight Show with Jimmy Fallon
+New York City, New York
+March 15, 2024
+
+Untidy Creature
+
+[04:47]
+
+MPEG-2 TS
+1920 x 1080
+Interlaced
+16:9
+29.97 fps
+8.7 Mbps
+AC3 5.1, 48 kHz, 384 kbps
+
+ATSC > Avermedia Tuner > Womble

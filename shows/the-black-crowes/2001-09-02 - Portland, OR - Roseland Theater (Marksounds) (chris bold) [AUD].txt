@@ -1,0 +1,80 @@
+The Black Crowes
+Roseland Theater
+Portland, OR
+September 2, 2001
+
+** 16 BIT **
+
+Source:  Marcsounds Binaural Mics > Marcsounds battery box > Aiwa HD-S200 DAT
+Transfer:  DAT master > Tascam DA-30 > Edirol R-44 > .WAV @ 16 bit/48 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 130 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging) 
+Recorded & transferred by:  Chris Bold
+Mastered by:  Dennis Orr
+
+Setlist: (2:13:39)
+01 Midnight From The Inside Out
+02 No Speak No Slave
+03 Black Moon Creeping
+04 Go Faster
+05 Greasy Grass River
+06 Chat
+07 Remedy
+08 High Head Blues
+09 Lickin'
+10 Sometimes Salvation
+11 Girl From A Pawnshop
+12 Young Man Old Man
+13 My Morning Song
+14 Soul Singing
+15 Chat
+16 Wiser Time (1)
+17 One Mirror Too Many
+18 Hotel Illness >
+19 Stare It Cold
+20 Hard To Handle
+21 Cosmic Friend
+22 Encore Break
+- Encore -
+23 Tied Up And Swallowed
+24 By Your Side
+
+(1) with Dave Scher (Beachwood Sparks) - pedal steel
+
+Chris Robinson - lead vocals, harp, & acoustic guitar
+Rich Robinson - guitars & backing vocals
+Audley Freed - guitars
+Andy Hess - bass
+Eddie Harsch - keyboards
+Steve Gorman - drums
+Mona Lisa Young - backing vocals
+Portia Griffin - backing vocals
+
+
+Taper Notes:
+Best of the three 2001 shows I saw and taped in terms of recording quality and setlist. Venue was crap and crowd was worse. I had things thrown at me for standing up during the show.
+
+tbc2001-09-02t01.flac:64903fab95fe090928da2f195717b6e9
+tbc2001-09-02t02.flac:92f9c1ce975d0a8531e074b3a3ea4894
+tbc2001-09-02t03.flac:c252d5931cc8b45a037ecaadb8dca428
+tbc2001-09-02t04.flac:a995fe5fa9db99af10f6cd60c748fbbd
+tbc2001-09-02t05.flac:dc3dd5e0963184017415bd5af1ee15c3
+tbc2001-09-02t06.flac:489d6f6e4f7b52cb219bbd80f55e8479
+tbc2001-09-02t07.flac:9fb8bcad075672a230ede7013eac301a
+tbc2001-09-02t08.flac:53dcc9742259cf2947d5d6b997ae8416
+tbc2001-09-02t09.flac:3f2d4d09548cd667cd73156186042474
+tbc2001-09-02t10.flac:6866e10d2abd393c12611d6fad5bc790
+tbc2001-09-02t11.flac:9135dcd07ffcad11c8749b048668898e
+tbc2001-09-02t12.flac:9981e3561c88ae2e46b0382321c9318a
+tbc2001-09-02t13.flac:6e8ba7d6a4d03c2934716ff47592433e
+tbc2001-09-02t14.flac:fffb7af4238f916d4db7a4dbba5ccaab
+tbc2001-09-02t15.flac:ecb84e33ea2c7ed45fe7119f33ce8c57
+tbc2001-09-02t16.flac:dce76508e83e21cf181c804f559195c6
+tbc2001-09-02t17.flac:828aeb3c452c2625d6ccb9d00e4c3c3c
+tbc2001-09-02t18.flac:9a85a328d24bf9dbe0918595218322d8
+tbc2001-09-02t19.flac:14be9dabbb73e4033db51fccaad7a77c
+tbc2001-09-02t20.flac:8de3ddae14207bced9356edc52dcb356
+tbc2001-09-02t21.flac:2a8e126df6140dd71ad343b343314ef3
+tbc2001-09-02t22.flac:8b51474667e5cb52fc0784dad13ec47f
+tbc2001-09-02t23.flac:9b6a755685e6a5cfd7f71cb2472e5b86
+tbc2001-09-02t24.flac:c238ce69879ff6a3719fa51ea79ff573

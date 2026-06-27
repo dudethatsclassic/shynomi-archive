@@ -1,0 +1,75 @@
+the Black Crowes  
+August 8, 1995 - 
+Jones Beach Amphitheater, 
+1000 Ocean Parkway, 
+Jones Beach State Park, Nassau County, 
+Wantagh, Hempstead, Long Island, NY  
+"1995 H.O.R.D.E. Tour"  
+
+Source: Nakamichi 300 cardioids > Sony D7
+Location: Orchestra center 20th row Stand at 8'
+Recorded, edited and seeded by Michael Buzzeo  
+
+01. Wiser Time
+02. Thick n' Thin
+03. A Conspiracy >
+04. Evil Eye
+05. Thorn's Progress Jam >
+06. Thorn In My Pride
+07. Bad Luck Blue Eyes Goodbye
+08. Jealous Again
+09. High Head Blues
+10. Nonfiction
+11. Pimper's Paradise
+12. Remedy  
+
+Chris Robinson (Christopher Mark Robinson) - harmonica, acoustic guitar, percussion, vox
+Rich Robinson (Richard Spencer Robinson) - guitar, b.vox
+Steve Gorman - drums, percussion
+Johnny Colt (Charles Brandt) - bass
+Marc Ford - guitar, b.vox  
+Eddie Harsch (Edward Hawrysch) - keys, piano  
+Chris Trujillo - percussion
+
+Buzzeo Notes:  
+--This was part of the Hordefest tour  
+
+vg NOTES (2024-02-28):  
+--H.O.R.D.E. stands for "Horizons of Rock Developing Everywhere" & was a touring summer rock festival originated by Blues Traveler in 1992
+--artists on the bill that day (from headliners to openers):  the Black Crowes;  Blues Traveler;  Ziggy Marley & the Melody Makers;  G.Love & Special Sauce;  Wilco;  God Street Wine;  Joan Osborne;  Cycomotogoat;  Fiji Mariners;  et al (others are unknown at this time...if anyone out there knows who else played on this day, won't you please chime in & let us all know??)
+--https://www.bluestraveler.net/projects/horde/95/index.html
+--added the band members info
+--This venue opened in June 1952 & was originally named "New Jones Beach Marine Stadium" (1952-1953), then "Jones Beach Marine Theater" (1954-1994), then "Jones Beach Amphitheater" (1994-2000), then "Jones Beach Theater" (2000-2002), then "Tommy Hilfiger at Jones Beach Theater" (2002-2006), then "Nikon at Jones Beach Theater" (2006-2016), then "Northwell Health at Jones Beach Theater" (2017-present [2024]).  
+--https://en.wikipedia.org/wiki/Jones_Beach_Theater
+--https://www.longisland.com/news/04-06-22/crazy-facts-about-jones-beach-theater.html?print=1&page=1
+--created an ffp checksum file
+--added the ffp fingerprints & md5 checksums to the text file
+--added a poster of the event
+
+ffp:  
+BC1995-08-0801.flac:f0452168a772583203d86ca0213f8006
+BC1995-08-0802.flac:107aa6470093804d5ba7d7d3d7cfe1e7
+BC1995-08-0803.flac:85e01d418337ec5d3851d419759931e4
+BC1995-08-0804.flac:183eddc6b84c914d9b0533e2d05da1cc
+BC1995-08-0805.flac:568417d90345fde7e90cde3a8ec5f18c
+BC1995-08-0806.flac:a5cedc8b2f96b46fc41dd7a9770e7aca
+BC1995-08-0807.flac:34ee7af039c47b1f77f1272f6e13d2b0
+BC1995-08-0808.flac:001a8986dcfa2b1b935c87717df5af2b
+BC1995-08-0809.flac:d1e392698e4ad9b54b4c79c7c7162eb3
+BC1995-08-0810.flac:630b9d3a026d8620146c067e67519807
+BC1995-08-0811.flac:026ef7abf629abe558419a959e3072ee
+BC1995-08-0812.flac:031feb2ed2a52fb2ea5efb46e2b889e6  
+
+md5:  
+e7723a59bb12f4fbd2a606d65c066422 *BC1995-08-0801.flac
+0f260d7d452682dd0e6493cad3ec9fda *BC1995-08-0802.flac
+b06e3de9ea240ecbad37380b8d7502ec *BC1995-08-0803.flac
+fc5ca981394572e7b58f331a75e790d8 *BC1995-08-0804.flac
+8022259f3a438e86ce3280e95ddb53a3 *BC1995-08-0805.flac
+bf8a37e3eba0eb19b2de923768417be4 *BC1995-08-0806.flac
+1b5e500e788909731b5ef995c0b4116c *BC1995-08-0807.flac
+e2549060e4947e9f0c465cce02964fa7 *BC1995-08-0808.flac
+55e3db2aa649f003be553248217cf8c3 *BC1995-08-0809.flac
+07f26e9ae3c2f5bf45ceac25c16428af *BC1995-08-0810.flac
+1f74c1e832fe3740c4c25430dcc956c4 *BC1995-08-0811.flac
+a2aa82b21dc264730c5e987a2c7578d8 *BC1995-08-0812.flac  

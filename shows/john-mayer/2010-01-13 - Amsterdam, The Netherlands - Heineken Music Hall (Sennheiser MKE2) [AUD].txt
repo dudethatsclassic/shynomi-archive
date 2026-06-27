@@ -1,0 +1,39 @@
+John Mayer
+2010-01-13
+Heineken Music Hall
+Amsterdam
+The Netherlands
+
+Source: MM-HLSO-MICRO (Sennheiser MKE2 caps) > SP-SPSB-10 > Marantz PMD620 (24bit/48kHz)
+Transfer: USB > Sound Studio 3.6 (editing, high pass filter @ 100Hz, normalizing, tracking, dither/resample to 16bit/44.1kHz) > xACT 1.64 FLAC level 8
+Location: about 2 meters FOB, just right of center
+
+John Mayer - guitar & vocals
+David Ryan Harris - guitar & vocals
+Robbie McIntosh - guitar, slide guitar
+Sean Hurley - bass
+Steve Jordan - drums
+Charlie Wilson - keys
+Julie Delgado - backing vocals
+Melanie Taylor - backing vocals
+
+setlist:
+01. Girls screaming…
+02. Heartbreak Warfare 
+03. Vultures 
+04. Belief 
+05. I Don't Trust Myself (With Loving You) 
+06. Perfectly Lonely 
+07. Why Georgia 
+08. Drum solo
+09. Waiting on the World to Change > Brown Sugar (D'Angelo cover) 
+10. Crossroads (Robert Johnson cover) 
+11. Half of My Heart 
+12. Bigger Than My Body 
+13. Gravity 
+14. Encore break
+15. Free Fallin' (Tom Petty cover) 
+16. Who Says 
+17. Friends, Lovers or Nothing
+
+http://johnmayer.com/

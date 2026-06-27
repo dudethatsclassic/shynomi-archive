@@ -1,0 +1,54 @@
+Wilco
+Riviera Theater
+Chicago, Il.
+December 31, 1999 - January 1, 2000
+
+Lineage:  SB => Master DAT => DAT => CDR => EAC => Magix Audio Cleaning Lab => WAV => FLAC Conversion (level 8)
+
+Track Listing:
+
+Disc 1 (52:40):
+(1)  Intro (0:26)
+(2)  Sunken Treasure (6:56)
+(3)  Too Far Apart (4:07)
+(4)  Candyfloss (3:03)
+(5)  Red Eyed and Blue (2:27) =>
+(6)  I Got You (2:00) =>
+(7)  Martian Invasion (2:37) =>
+(8)  Elvis Intro (0:28) =>
+(9)  Hound Dog (2:06)
+(10)  Revolution (3:51) =>
+(11)  I Got You (reprise) (1:07)
+(12)  Countdown (1:41)
+(13)  Auld Lang Syne (1:12)
+(14)  Someone Else's Song (3:17)
+(15)  I'm Always In Love (3:53)
+(16)  How To Fight Loneliness (4:49)
+(17)  Hotel Arizona (5:01)
+(18)  Nothingsevergonnastandinmywayagain (3:31)
+
+Disc 2 (51:42):
+(1)  She's A Jar (4:36)
+(2)  A Shot In The Arm (5:15)
+(3)  Misunderstood (6:47)
+(4)  Should've Been In Love (3:43)
+(5)  Hesitating Beauty (3:13)
+(6)  I Can't Stand It (4:07)
+(7)  Monday (4:36)
+(8)  The Long Cut (4:31)
+(9)  Box Full Of Letters (3:28)
+(10)  California Stars (4:05)
+(11)  Forget The Flowers (3:38)
+(12)  Outta Site (Outta Mind) (3:38)
+
+Fingerprints:  In separate txt file
+
+File size:
+       -  FLAC compressed:  581 mb
+       -  Uncompressed:  1.02 Gb
+
+Notes:  Great Wilco New Year's Eve set from 1999/2000 headlining a double bill with Steve Earle.  While not as wild a setlist as the New York 2004 show, this was fun . . . the band started "I Got You" at 11:45 PM, and shortly into the song costumed "Martians" burst onto the stage and pretended to kidnap the band.  The lead Martian introduced the audience to the world's new "king," and an Elvis impersonator (the roadie whose name escapes me came out, did a couple of songs, and helped the band count down to midnight.  The joke fell pretty flat, and Tweedy made several jokes about it during the rest of the show in trying to recover.  You'll see why they reverted to a taped "Auld Lang Syne" in 2004 -- none of the band knows the words, and their guesses on the lyrics are much funnier than the Martian joke.
+
+The recording is great -- very well mixed.  Levels are a little hot, but I didn't hear any distortion.  I used Audix to edit out a couple of brief static bursts between songs (from the monitor - not diginoise); otherwise this recording is untouched. 
+
+No artwork; sorry.  Please make some!

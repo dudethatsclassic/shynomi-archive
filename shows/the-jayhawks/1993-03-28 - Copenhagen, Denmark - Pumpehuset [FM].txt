@@ -1,0 +1,16 @@
+Jayhawks
+Copenhagen Pumpehuset, DK
+1993-03-28
+
+source: fm->dat
+transfer: dat->cas->tapedeck->sony pcm1->usb->hd-Cep->cdwav->flac
+
+01. Intro
+02. Clouds
+03. Settled down like Rain
+04. Crowded in the Wings
+05. Pray for Me
+06. Take Me with you (When You Go)
+07. Two Angels
+08. Waiting for the Sun
+09. Wichita

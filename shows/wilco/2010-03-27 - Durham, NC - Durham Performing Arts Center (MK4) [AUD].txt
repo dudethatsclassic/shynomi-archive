@@ -1,0 +1,99 @@
+Wilco
+Durham Performing Arts Center
+Durham, NC
+March 27, 2010
+
+Source:  Schoeps MK4 (ORTF) > KC5 > CMC6 > Lunatec V3 > Marantz PMD-671 at 24/44.1
+
+Location: Grand Tier Balcony 1st row DFC
+
+Conversion:  24 bit 44.1 k wav files dithered to 16 bit with Sound Forge 6.0, split into tracks with CD Wave, fades at beginning & end of sets with Sound Forge 6.0, FLAC files generated with FLAC front end.
+
+Recording & conversion by Robbie Dunn
+
+Disc 1 [64:52]
+01. Intro
+02. Wilco (The Song)
+03. Bull Black Nova
+04. You Are My Face
+05. I Am Trying to Break Your Heart
+06. At Least That's What You Said
+07. Deeper Down
+08. Handshake Drugs
+09. Side With The Seeds
+10. One Wing
+11. She's a Jar
+12. I'll Fight
+13. Impossible Germany
+
+Disc 2 [62:58]
+01. Summerteeth
+02. California Stars
+03. Poor Places
+04. Spiders (Kidsmoke)*
+05. Forget the Flowers*
+06. When the Roses Bloom Again*
+07. War on War*
+08. When You Wake Up Feeling Old*
+09. Not For The Season*
+10. Passenger Side*
+11. Airline to Heaven
+12. A Shot in the Arm
+13. Hate It Here (aborted)
+14. Hate it Here
+
+Disc 3 [42:30]
+01. Heavy Metal Drummer
+02. You Never Know
+03. Jesus, Etc.
+04. Walken
+05. I'm the Man Who Loves You
+06. Thank You Friends**
+Encore
+07. Via Chicago
+08. Hoodoo Voodoo
+09. I'm a Wheel
+
+Notes:
+*Acoustic
+***Big Star cover dedicated to the late great Alex Chilton
+
+
+-------------- FLAC FINGERPRINT --------------------------
+
+wilco2010-03-27d1t01.flac:887300ca07c232b42e2a74d324e9b095
+wilco2010-03-27d1t02.flac:d4b9ac8d6cb449c829f70f0b7ff29204
+wilco2010-03-27d1t03.flac:bb10b357386d46c9c091b366aecb81f1
+wilco2010-03-27d1t04.flac:698101bd9456ba56f3ef74ae2f17a0cb
+wilco2010-03-27d1t05.flac:299cb7b494dce448b3d4bd30bf34194f
+wilco2010-03-27d1t06.flac:fddb5d24951b7e84c1aec40acd3dbe7f
+wilco2010-03-27d1t07.flac:67d89026ed25ef34c666a1577e30ed71
+wilco2010-03-27d1t08.flac:044f7a202a9e5de7ae3ce4fe8fdc729a
+wilco2010-03-27d1t09.flac:e66a5d7b9d055787164ff8105041889d
+wilco2010-03-27d1t10.flac:9ceb7002c666af555cce588193d3e623
+wilco2010-03-27d1t11.flac:82f2f37b5481fd2a42d4339ea04ccdee
+wilco2010-03-27d1t12.flac:7d891405dfd5e4c1840da1a52183c89c
+wilco2010-03-27d1t13.flac:8dd49f11f8baec7194d14caff0a99758
+wilco2010-03-27d2t01.flac:38c8bbc45ede0af30173b198ae8e27dc
+wilco2010-03-27d2t02.flac:f8e25860a3ca42624e848cdcf077fabd
+wilco2010-03-27d2t03.flac:3e26d8a0624e08961d9a3cde660c20a9
+wilco2010-03-27d2t04.flac:976a018470ea713267fec444e87008f1
+wilco2010-03-27d2t05.flac:d32df6588738cd86c7dd5a9563cad60c
+wilco2010-03-27d2t06.flac:224b1f208ab6ced63958f222889f944d
+wilco2010-03-27d2t07.flac:cb4e41c8b83c125fbb6b814e0164ac96
+wilco2010-03-27d2t08.flac:aa3571eb4dcee700d51854f87ba04ada
+wilco2010-03-27d2t09.flac:fee990d7ce112b936cd299cd6129242c
+wilco2010-03-27d2t10.flac:a3f7df9ae1d0de66290aec49ddc745bb
+wilco2010-03-27d2t11.flac:4b1f45af7f0cb59023b0ba4b25de585c
+wilco2010-03-27d2t12.flac:06e90ea3adc1111d00b88a9274306a0b
+wilco2010-03-27d2t13.flac:d81dbca6d6236c418aa34c4cf06dc69d
+wilco2010-03-27d2t14.flac:1331eb4fc2201d94c210e02e3305468f
+wilco2010-03-27d3t01.flac:89d7bbb779318f159ea6906054252f00
+wilco2010-03-27d3t02.flac:81a31607d6e25f7c13721729f456f19f
+wilco2010-03-27d3t03.flac:bd340a1c0bb5f5264f3a5022abc60098
+wilco2010-03-27d3t04.flac:630f0c51f1629c20ded212202494f0b0
+wilco2010-03-27d3t05.flac:03e8b04d146d8d2add1024db7ba0214c
+wilco2010-03-27d3t06.flac:89b0af4e36fabcdbe31e3c83bc899d7b
+wilco2010-03-27d3t07.flac:3df48a2c9a654e0f178f76458d9b17f6
+wilco2010-03-27d3t08.flac:080ea48af6ac3ff587d1c2d072d92937
+wilco2010-03-27d3t09.flac:b260ab9b8a3c4c6229e02de30ba2ead8

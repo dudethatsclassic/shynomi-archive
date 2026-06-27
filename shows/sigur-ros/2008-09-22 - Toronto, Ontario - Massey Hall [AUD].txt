@@ -1,0 +1,51 @@
+Sigur Rós
+Massey Hall
+Toronto, Ontario, Canada
+September 22, 2008
+
+Source: Sonic Studios DSM-6S/L > PA-6LC3B(170) > Sony M1 DAT
+Lineage: M1 > 7-pin > Core Sound 7-pin cable > Audiophile 2496 > SoundForge 6.0 > CDWAV > Flac via FLAC Frontend
+Taped & Transferred By: Mike P. (mikep852@gmail.com)
+Recorded centre 2nd balcony, row A
+
+File Size: 444 MB (FLAC)
+
+Setlist 
+=======
+01 Heysatan
+02 Glosoli
+03 Ny batteri
+04 Vid Spilum Endalaust
+05 Hoppipolla
+06 Med blodnasir
+07 Festival
+08 Fljotavik
+09 E-bow
+10 Inni
+11 Saeglopur
+12 Popplagid
+--
+13 Illgresi
+14 Gobbledigook
+
+FLAC Fingerprints
+sigurros2008-09-22t01.flac:922c9c3af37875664169470af6847db7
+sigurros2008-09-22t02.flac:bbce0237ae729c9f9e43f0c101bc0d48
+sigurros2008-09-22t03.flac:6fb6cd52b46f70cc0fcd00567a00f651
+sigurros2008-09-22t04.flac:a7548dc4a8cbdc821221d77ff0f0549c
+sigurros2008-09-22t05.flac:7f90e6fcc7c48017ddc0cc8be0524dcc
+sigurros2008-09-22t06.flac:28ba8217ca5412f2b48b99ddd0231325
+sigurros2008-09-22t07.flac:416798228063586099ee4e26b6f51ddb
+sigurros2008-09-22t08.flac:1e0c0d9b3da99a60735467453e9d251c
+sigurros2008-09-22t09.flac:bad14345aecc6746ce462fd9a8c51f8c
+sigurros2008-09-22t10.flac:12b5ce6f60198a78cefb72236bece77e
+sigurros2008-09-22t11.flac:f9756427ea775d98e860d918e9ddcab4
+sigurros2008-09-22t12.flac:1bbeb9f61e993f244d188549d0318679
+sigurros2008-09-22t13.flac:0064b6d605950d3db9bc116a4cb51c5a
+sigurros2008-09-22t14.flac:96efeb4886035b47b3815cd0b327cb17
+
+Editing Notes
+Volume normalized but may still be low in spots. 2 minor glitches fixed during Fljotavik.
+
+
+!!! IF YOU MUST MP3 THIS, PLEASE DO SO FOR YOUR OWN PERSONAL USE AND DO NOT DISTRIBUTE IN MP3 FORMAT !!!

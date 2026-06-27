@@ -1,0 +1,45 @@
+Wilco
+1995-07-05
+MTC Cologne, Germany
+
+Source/Lineage Unknown AUD > ? > EAC > FLAC Frontend
+
+
+d1t01 Give Back The Key To My Heart
+d1t02 Shouldn’t Be Ashamed
+d1t03 I Must Be High
+d1t04 Box Full Of Letters
+d1t05 Should’ve Been In Love
+d1t06 Don't You Honey Me (Honeybee)
+d1t07 New Madrid
+d1t08 Pick Up The Change
+d1t09 Wait Up
+d1t10 That’s Not The Issue
+d1t11 Walk Where He Walked
+d1t12 It’s Just That Simple
+d1t13 No Sense In Lovin’
+d1t14 Passenger Side
+d1t15 Casino Queen
+d1t16 We’ve Been Had
+d1t17 I Got You (at the end of the century)
+d1t18 The Long Cut
+d1t19 Watch Me Fall
+d1t20 Gun
+
+d2t01 Wherever
+d2t02 Who Were You Thinking Of?
+d2t03 Let’s Hear It for Rock
+d2t04 Outtasite (outta mind)
+d2t05 Listen To Her Heart
+d2t06 Acuff-Rose
+d2t07 banter
+d2t08 Henry & The H-Bombs
+
+
+- Notes(original): In case you are wondering why there are 3 tracks on the EAC logs that don't appear here - d1t21 was Wherever (partial); d2t09 & d2t10 
+were filler tracks from an unknown source.  I deleted these 3 tracks as I felt they were unnecessary.
+EAC extraction logfile from 13. April 2005, 15:55 for CD Wilco / 1995-07-05 d1
+
+- Notes: kerouacAW 2022-05-13
+The orginal logfile date 2005-04-13 ten years after the show not sure when the last time it was uploaded very nice AUD recording give an - A - last show of European Tour. 
+Also all credit goes to original taper and original uploaders unknown who he or she is but very nice job and appreciated!

@@ -1,0 +1,76 @@
+Garbage
+October 27th, 2018.
+Kings Theatre - Brooklyn, NY.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   section 1, row L, seat 1; mics mounted on baseball hat brim.
+            (see chart here: http://www.ticketmaster.com/seatingchart/393357/78083) 
+Source:     AT853 Cardioids (4.7k mod) > SP-SPSB-11 (@69Hz) > Sony PCM-M10 (24 bit @48kHz) >
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  SanDisk 32GB MicroSD Card > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+-------------------------------------------------------------------------------------------------------
+Total Time: (2:10:45)
+
+01. Afterglow					3:56
+02. Deadwood					4:25
+03. Temptation Waits				4:36
+04. Wicked Ways ^				4:51
+05. Special					4:08
+06. The World Is Not Enough			3:51
+07. 13x Forever # 				8:04
+08. Get Busy With The Fizzy			3:39
+09. Hammering In My Head			5:21
+10. Medication					6:28
+11. Thirteen *					6:19
+12. Can't Seem To Make You Mine + 		4:30
+13. I Think I'm Paranoid			4:00
+14. Sleep Together				4:10
+15. Dumb % 					7:33
+16. Soldier Through This			4:27
+17. Lick The Pavement				2:41
+18. Push It					4:49
+19. When I Grow Up				4:14
+20. You Look So Fine @				7:34
+21. ~ Encore ~					5:57
+22. The Trick Is To Keep Breathing		7:39
+23. No Horses !					6:08
+24. #1 Crush $					7:36
+25. Cherry Lips (Go Baby Go!)			3:48
+
+-------------------------------------------------------------------------------------------------------
+Notes:
+
+^ = Features "Personal Jesus" snippet [Depeche Mode]. 
+# = Features "Tired Of Waiting For You" snippet [The Kinks].
+* = Originally Recorded By Big Star.
++ = Originally Recorded By The Seeds.
+% = Features "Happy House" snippet [Siouxsie & The Banshees].
+@ = Features "Dreams" snippet [Fleetwood Mac].
+! = Abandoned 4:10 in due to technical difficulties.
+$ = Audible fan request from front row.
+
+What a wonderful night. This was my first time in the Kings Theatre and it
+makes me wish I lived back in NY! (I grew up on Long Island). What a venue!
+Not only was it quite beautiful but the acoustics were tremendous and every
+seat (from what I could tell) had a great view of the stage. Shirley was
+very talkative. Im not sure if shes been doing this every show or if she
+had more to say to us being in NY on the final night of the tour. If
+you notice some track times are longer than the song should be, thats
+her! "#1 Crush" was not on the setlist and was played as an audible
+when the band abandoned (an almost complete) "No Horses". I did have some
+clappers near me, so I ran the automatic click remover between most songs
+(not all) in Adobe Audition during the worst parts. On a final note, please
+be aware during the first 1:10 or so of "Afterglow" my line in cable
+was not plugged all the way in on the SP-SPSB-11. Therefore, it only
+recorded one channel. That section appears as a dual mono. I was checking
+both L and R levels before putting the deck away and resolved it before
+Shirley even sang a note. Thank god! Always check your gear, tapers! This
+could have been mono the whole way through had I not been thorough.
+Mistakes DO happen. Enjoy everyone! =)
+
+-------------------------------------------------------------------------------------------------------
+For more information on Garbage, please visit:
+
+http://garbage.com/

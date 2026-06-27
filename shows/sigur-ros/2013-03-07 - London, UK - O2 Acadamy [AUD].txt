@@ -1,0 +1,60 @@
+Sigur Ros
+
+Venue
+O2 Acadamy
+
+Location
+Brixton, London
+
+Equipment
+CA11 Omnis > CA Ugly > Sony M10
+
+Lineage
+Master > Sony M10 > M-Audiophile 192 Soundcard > Adobe Audition 1.5 > Normalise/Fades > Track > THL Flac(8)
+
+Taper
+Whiskybob
+
+**********************************************
+**********************************************
+
+Set list
+
+Yfirborð
+I gaer
+Vaka
+Brennisteinn
+Sæglópur
+Fljótavík
+E-bow
+Varúð
+Hoppípolla
+Með Blóðnasir
+Olsen Olsen
+Festival
+Kveikur
+
+Svefn-g-englar
+Popplagið
+
+***********************************************
+***********************************************
+
+01.Yfirborð.flac:cb27dc6e7782f3783cd636b745617520
+02.I gaer.flac:626756d01a4739019e47f9a6d6b04051
+03.Vaka.flac:a9f5b1e2012de5ec7ceb12c2f7840a22
+04.Brennisteinn.flac:a0797d3fec628eccecd974f8dba7cf0a
+05.Sæglópur.flac:64cad3ee0968a17dfe1b619c96545019
+06.Fljótavík.flac:4adb68cea74055e41a64c779f394e7a0
+07.E-bow.flac:29f2c439bc8a003309e182e28b07239c
+08.Varúð.flac:163a5e363070b49acdc6679421869230
+09.Hoppípolla.flac:a389b06d9715dc08009e56da69e0e36a
+10.Með Blóðnasir.flac:ff24a4aca5a9b9a6da29c5d7b7f0322f
+11.Olsen Olsen.flac:44d93d030338bc0ffaaea40d28939a31
+12.Festival.flac:3b0da3f46572a3a38722750545f1d279
+13.Kveikur.flac:89dca9c6a08c7f24b921d83587585289
+14.Encore break.flac:b58bf4774e2c36e9fbaba50a7ca63f5e
+15.Svefn-g-englar.flac:6d77c8b85c526104517477fae5160fea
+16.Popplagið.flac:218f956750ace38748af5740b9460bcc
+17.Curtain Call.flac:7b7e963b3c813a8a743d511660c2170d
+

@@ -1,0 +1,59 @@
+Dave Matthews & Tim Reynolds
+18 February 2022
+Moon Palace Resort - Beach Stage - Cancun, MX
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 6 II (32 Bit Float)
+Location: Approx. 200' from House Left Stack, Left of FOH, Mics DIN @ 15'
+Editing: WAV > Reaper 6.47 (Gain, Mixing, Normalizing) > Audacity 3.1.3 (Fades, Tracking) > FLAC (Level 8)
+
+01. Intro
+02. Good Good Time
+03. Bartender
+04. Grey Street
+05. Tuning
+06. Grace Is Gone
+07. Too High
+08. Oh
+09. Up and Away
+10. The Stone^
+11. A Tangled Web We Weave$
+12. Sweet
+13. #41
+14. Samurai Cop (Oh Joy Begin)
+15. Jimi Thing
+16. Virginia in the Rain
+17. So Damn Lucky
+18. Manfood$
+19. Out of My Hands#
+20. Dave Speak: Egg Salad & Warthogs
+21. Tripping Billies
+22. Gravedigger
+23. The Best of What's Around
+24. Dave Speak: The Airport Asshole
+25. Crush
+26. Encore Break
+27, Corn Bread
+28. Two Step*
+
+Dave Matthews - Guitar, Piano, Vocals
+Tim Reynolds - Guitar, Effects Pedals
+
+Notes:
+
+$ Tim Solo
+^ with Can't Help Falling in Love interpolation
+# with improv intro
+* with Time Bomb intro
+
+Performed on a beach with constant wind off the water, so intermittent wind noise is expected throughout the recording. This is also an all inclusive resort, so the occasional intoxicated concert goer decided to make their presence known.
+
+Tim had some intermittent feedback issues through the performance.
+
+Huge thanks to Greg Mendelsohn, Keith Antaya, and Mark Terrell for helping with some spare equipment and long distance troubleshooting.
+
+My undying gratitude to Meghan Lanigan, Emily Davis, Amiee Stephenson, Richard Yaworski, Cheryl Bayma, Melinda Perry, Sherry Ensminger, Tim & Tabitha Paulin, Amy Fleming, Megan Allen, Nicole Gerrars, Nicole Spitzer, Jeanna Pignatiello, Cynthia McInturff, Nichole Klatt, Anna Nelson, Scott Theriault, Karen Barr, Steven Smith, Dan Hansen, Matthew Salmons, Bradley Neathery, Michelle Rose, Elise Rosenhek, Amie Teller, Dan Mataragas, Nicole Flynn, Taylor Abernathy, Amanda Ferrel, Jessika Filler, Bethany Duke, Grant Francke, Stephanie Hemmingson, Sophie Roland, Margaret Barrett, Marily Febre, Cindy Spoljaric, Jennt Hawkins, Sally Avenson, Kati Wright, Maria Francis, Karly Gallagher, Robert McCardle, Casey Huff, Vanessa Vandawalker, Scotty Merrill, Cassandra Jackson, Bridget Bernard, Jennifer Hickey, Kristi Bridges, Aimee Toussaint, Katie Burke, Jamie Kamin, Anna Koutoupis, Kristen Yearling, Brittney Daniel, Dave Cole, Susan Klippel, Mark Edwards, Angie Quade, Samantha Brogue, Tina Motz, Susan Bush, Anke Kamp, and the entire Dave & Tim Mexico Facebook Group for making this weekend's recordings happen.
+
+This recording is dedicated to all the tapers before me who continue to preserve live music.
+
+Compiled on 2022/02/19.

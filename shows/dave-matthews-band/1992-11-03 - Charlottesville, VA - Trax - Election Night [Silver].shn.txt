@@ -1,0 +1,55 @@
+Dave Matthews Band
+November 3, 1992
+Trax
+Charlottesville, VA
+
+"Election Night"
+
+Source:		Sbd-> C[0] 
+
+Conversion:	EAC V0.9 Beta 4[secure mode]. All Tracks 100%.
+		SoundForge 5.0 used for editing.		
+		CDWAV used for tracking.
+		MKW Audio Compression Tool.
+		
+
+Disc One: [Set 1]
+
+01:		Halloween			04:00
+02:		Pay For What You Get   		04:03
+03:		Lie In Our Graves		05:18
+04:		Ants Marching ->		04:12
+05:		Dancing Nancies			07:29
+06:		The Song That Jane Likes	03:12
+07:		The Maker	 		06:37
+08:		Two Step	    		11:01
+09:		True Reflections		06:37
+10:		Griesar Jam/Intro to ->		05:00
+11:		Exodus				02:48
+
+Total					      1:00:21
+
+
+Disc Two: [Set 2]
+
+01:		Band Intros/Jam..		05:05
+02:		Warehouse	    		12:55
+03:		Tripping Billies		05:00
+04:		Cry Freedom			03:27
+05:		I'll Back You Up ->		01:47
+06:		So Much To Say 	  		07:04
+07:		What Would You Say		05:09
+08:		One Sweet World			05:16
+09:		Satellite	  		04:54
+
+Total						50:43
+
+
+Notes:
+----------------------------------------------------------------
+*  drop out after Two Step. a fade in/out was inserted.
+*  drop out after True Relections. a fade in/out was inserted.
+
+**  thanks to Mark Lynn for the show...
+
+**  compiled by Rob Hartman on 1/6/2003.

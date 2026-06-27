@@ -1,0 +1,68 @@
+John Mayer
+July 31, 2010
+Jiffy Lube Live (Formerly Nissan Pavilion)
+Bristow, VA
+
+
+Taper: Rockinman 
+Location: Behind soundboard,DFC,mics DINA 90 config, stand at 12 feet       
+Source: AKg460mods/ck63(hyper caps)>Edirol UA5(Wmod)>M-Audio 
+        Microtrack II (24/48kHz)
+Transfer: Microtrack II->USB->PC
+Conversion: 24/48kHz wav->Soundforge 8.0 for resample and dither to 16/44               kHz,No normalization, L3 Waves Volume Maximizer applied->                   CDWave Editor->Flac Frontend(level 5)
+
+
+*************************************************************************
+***** DO NOT ENCODE THIS SHOW TO LOSSY FORMATS EXCEPT FOR PERSONAL USE*** 
+****** DO NOT SELL OR DISTRIBUTE FOR PROFIT******************************
+*************************************************************************   
+
+
+Disc 1
+
+01: Intro (Chest Fever)->
+02: Vultures
+03: Bigger Than My Body *
+04: No Such Thing
+05: Slow Dancing in a Burning Room
+06: Ain't No Sunshine &
+07: Belief
+08: Perfectly Lonely
+09: Gravity
+
+Disc 2
+
+10: Who Says (You Don't Know How it Feels outro $)
+11: Don't Think Twice, It's Alright-> %
+12: War of My Life
+13: Heartbreak Warfare (Sledgehammer outro #)
+14: Do You Know Me
+   (Do You Want to Take it Higher)
+15: Drum solo->
+16: Waiting on the World to Change
+17: Half of My Heart
+
+18: Encore Break
+
+
+Encore
+
+19: Edge of Desire
+
+
+
+
+* Due to a stoppage in recording (accidental or technical), a crossfade was   applied at the end for continuity with the restart of the recording.  No    music is missing as the recording stopped during the applause and the   restart occurred in between songs.
+
+
+
+
+& Bill Withers cover
+$ Tom Petty cover
+% Bob Dylan cover
+# Peter Gabriel cover
+
+
+
+
+Compiled by Tom Gambichler on August 1, 2010

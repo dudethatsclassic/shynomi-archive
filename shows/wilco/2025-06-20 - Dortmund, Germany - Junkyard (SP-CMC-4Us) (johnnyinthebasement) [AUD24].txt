@@ -1,0 +1,50 @@
+foobar2000 v2.1.5 / DR Meter v0.7
+log date: 2025-06-23 08:25:07
+
+--------------------------------------------------------------------------------
+Analyzed: My Recording / ?
+--------------------------------------------------------------------------------
+
+DR         Peak           RMS       Duration Track
+--------------------------------------------------------------------------------
+DR17      -1.78 dBFS   -21.71 dBFS      5:08 01-Wishful Thinking
+DR16      -1.84 dBFS   -20.23 dBFS      4:30 02-Company In My Back
+DR13      -0.35 dBFS   -16.86 dBFS      6:40 03-Handshake Drugs
+DR14      -1.01 dBFS   -18.14 dBFS      5:33 04-I Am Trying To Break Your Heart
+DR14      -0.88 dBFS   -18.79 dBFS      4:16 05-One Wing
+DR15      -0.51 dBFS   -18.31 dBFS      3:40 06-Evicted
+DR17      -3.07 dBFS   -22.60 dBFS      3:25 07-If I Ever Was A Child
+DR14      -1.46 dBFS   -20.21 dBFS      5:38 08-Via Chicago
+DR15      -1.56 dBFS   -19.97 dBFS      4:29 09-Tired Of Taking It Out On You
+DR14      -1.11 dBFS   -19.17 dBFS      3:56 10-Forget The Flowers
+DR15      -0.65 dBFS   -20.00 dBFS      9:10 11-Bird Without A Tail / Base Of My Skull
+DR16      -0.18 dBFS   -19.89 dBFS      3:59 12-Cruel Country
+DR14      -1.01 dBFS   -18.49 dBFS      4:47 13-Everyone Hides
+DR12      -2.89 dBFS   -18.75 dBFS      6:22 14-Quiet Amplifier
+DR16      -1.21 dBFS   -22.15 dBFS      3:49 15-Either Way
+DR13      -1.02 dBFS   -17.42 dBFS      5:47 16-At Least That's What You Said
+DR14      -0.80 dBFS   -17.00 dBFS      6:00 17-Cold Slope / King Of You
+DR13      -1.29 dBFS   -18.44 dBFS      5:15 18-Side With The Seeds
+DR14      -2.07 dBFS   -18.95 dBFS      4:47 19-The Whole Love
+DR14      -3.06 dBFS   -19.98 dBFS      4:11 20-Jesus Etc.
+DR14      -1.91 dBFS   -20.73 dBFS      3:43 21-Hummingbird
+DR14      -1.27 dBFS   -19.35 dBFS     11:03 22-Impossible Germany
+DR14      -1.48 dBFS   -17.78 dBFS      3:53 23-Box Full Of Letters
+DR14      -1.71 dBFS   -17.77 dBFS      4:54 24-Annihilation
+DR14      -2.12 dBFS   -17.99 dBFS      3:17 25-Heavy Metal Drummer
+DR14      -0.92 dBFS   -18.46 dBFS     14:40 26-Spiders (Kidsmoke)
+DR13      -2.94 dBFS   -18.55 dBFS      3:44 27-Falling Apart (Right Now)
+DR13      -3.32 dBFS   -20.06 dBFS      4:59 28-California Stars
+DR14      -0.99 dBFS   -18.18 dBFS      4:46 29-Walken
+DR12      -1.39 dBFS   -15.78 dBFS      4:49 30-I Got You (At The End Of The Century)
+--------------------------------------------------------------------------------
+
+Number of tracks:  30
+Official DR value: DR14
+
+Samplerate:        48000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           1543 kbps
+Codec:             FLAC
+================================================================================

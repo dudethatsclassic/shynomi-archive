@@ -1,0 +1,56 @@
+Wilco
+December 14, 1996
+Melkweg - Amsterdam, Netherlands
+
+Source:		SBD
+Lineage:	CD-R (unknown generation) -> EAC(V0.95) -> WAV -> FLAC Frontend,level 8(1.7.1) -> FLAC
+
+Disc 1
+misunderstood
+red eyed and blue
+i got you
+someone else's song
+someday soon
+forget the flowers
+new madrid
+why would you wanna live
+hotel arizona
+monday
+kingpin
+
+Disc 2
+we've been had
+outtasite
+*crowd noise*
+the long cut
+casino queen
+passenger side (fast)
+*Jeff Talking*
+cold turkey (with JP and Adam)
+will you still love me tommorow  
+
+Notes:
+
+Ripped and encoded by scottjh
+
+Fingerprints:
+wilco1996-12-14d1Track01.flac:b88fcb9e2b6463eff6b262507644e00a
+wilco1996-12-14d1Track02.flac:d9339722daa7b2ff78ae4198d9b1b2dc
+wilco1996-12-14d1Track03.flac:15a565ec1fc809d29e6813bf00bb4512
+wilco1996-12-14d1Track04.flac:8d8378e7af678d372830e091863676c5
+wilco1996-12-14d1Track05.flac:0cd6f3f89de2cc1f77d181c2e7e5ba1b
+wilco1996-12-14d1Track06.flac:ee1f6def646e91274aa5fc4bce230ad9
+wilco1996-12-14d1Track07.flac:9c0501c77fedaa9855ba9dd5475cc500
+wilco1996-12-14d1Track08.flac:1c5759407351c2a7e03b9516fc87bcd1
+wilco1996-12-14d1Track09.flac:ce6c648591fc7add64f15dd09cee8674
+wilco1996-12-14d1Track10.flac:609d8f4d646825b5f748853c67eab481
+wilco1996-12-14d1Track11.flac:57c53288977581450a68503bfaa20bc1
+wilco1996-12-14d2Track01.flac:6a0c2c68c7ca60ab086834667801c2bd
+wilco1996-12-14d2Track02.flac:d0d8f107d8b4f278026f0b1bd9e4caa5
+wilco1996-12-14d2Track03.flac:1ff20bb2df466cfa923bb26135d4a7af
+wilco1996-12-14d2Track04.flac:419e0fef79e22270e65f48faf3e37e46
+wilco1996-12-14d2Track05.flac:1168c440594afe585e34878f2c2baa9d
+wilco1996-12-14d2Track06.flac:04ccba822de946ea5e6842b83f9a044f
+wilco1996-12-14d2Track07.flac:b93344fd505a4616226eff6fb78c9ab4
+wilco1996-12-14d2Track08.flac:aaada61d4e8af1f5c2bd0c8a65a93c6b
+wilco1996-12-14d2Track09.flac:717ecd8c4ab28e20fc9bb82fc292df75

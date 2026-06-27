@@ -1,0 +1,49 @@
+WILCO
+2007-05-28
+LKA Longhorn
+Stuttgart, Germany
+
+Source:     MBHO MBP 603 A / KA 200 N > Sound Devices MP-2 > Edirol R-09
+Mic Config: on a stand, 2.25m above the ground, DIN (20cm, 90°)
+Location:   inside the soundboard cage, center
+Transfer:   Master WAVs > Digital Editing > CD Wave Editor V1.95.1
+              > FLAC V1.1.4
+Editing:    EQ, volume boost and fades in Steinberg WaveLab V5.01b
+Dithering:  UV22 HR dithering in Steinberg WaveLab V5.01b
+Resampling: 48.0 kHz > 44.1 kHz resampling in Steinberg WaveLab V5.01b
+
+Disc 1:
+01 Shake It Off
+02 You Are My Face
+03 I Am Trying to Break Your Heart
+04 Kamera
+05 Handshake Drugs
+06 A Shot in the Arm
+07 Side with the Seeds
+08 Via Chicago
+09 Pot Kettle Black
+10 War On War
+11 Hummingbird
+12 Jesus, etc.
+13 Hate It Here
+14 Walken
+15 I'm the Man Who Loves You
+16 (Encore Break #1)
+17 [Fade Out]
+
+Disc 2:
+01 [Fade In]
+02 Impossible Germany
+03 Sky Blue Sky
+04 Poor Places
+05 > Spiders (Kidsmoke)
+06 (Encore Break #2)
+07 On and On and On
+08 Heavy Metal Drummer
+09 The Late Greats
+10 I'm Always in Love
+11 I'm a Wheel
+
+Notes:
+This is the 16-bit version of this recording.
+To seamlessly join the two discs, simply remove D1T17 and D2T01.

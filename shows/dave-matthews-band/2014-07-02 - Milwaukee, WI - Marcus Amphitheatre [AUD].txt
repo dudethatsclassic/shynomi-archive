@@ -1,0 +1,84 @@
+Dave Matthews Band
+July 2, 2014
+Milwaukee Summerfest
+Marcus Amphitheater
+Milwaukee, WI
+
+
+
+Taper: Rockinman 
+Location: Rear of GA PIT, Right stack, mics A-B config, stand height @ 14 Feet
+Source: akg460mods/ck63 hypercaps(linear bass setting)>UA5 preamp(Wmod)>Marantz PMD661(SPDIF In) @ 24/48 kHz 
+Transfer: PMD661->USB->PC 
+Conversion: 24/48kHz wav->Sound Forge Pro 10> iZotope 64-Bit SRC & iZotope MBIT+ for resample and dither to 16/44.1 kHz, No normalization, Fade in fade out applied, Waves L3 Ultramaximizer applied->CDWave Editor->Flac (level 5)> Foobar 2000 for tagging 
+
+******************************************************************************************************************** 
+ *********DO NOT ENCODE THIS SHOW TO LOSSY FORMATS EXCEPT FOR PERSONAL USE************** 
+ ************************DO NOT SELL OR DISTRIBUTE FOR PROFIT****************************************** 
+ ********************************************************************************************************************
+
+Set I (Acoustic Set)
+
+Disc 1
+
+01. Intro
+02. Slip Slidin' Away
+03. So Damn Lucky
+04. Rhyme & Reason
+05. #27
+06. Lie in Our Graves
+07. Stolen Away on 55th & 3rd
+08. Sweet
+09. Ants Marching (Direct intro) &
+
+Set Break
+
+Set II (Main Set)
+
+Disc 2
+
+10. Intro
+11. Minarets (Scat intro)->
+12. The Stone (Can't Help Falling in Love outro)
+13. The Song That Jane Likes
+14. Save Me
+15. Crush (Stefan bass intro)
+16. Write a Song
+17. Seven
+18. Belly Belly Nice
+19. If Only
+
+Disc 3
+
+20. Warehouse (Traditional, Salsa jam outro
+21. Big Eyed Fish->
+22. So Much to Say->
+23. Anyone Seen the Bridge->
+    Too Much (fake)->
+24. What Would You Say
+25. Grey Street
+
+26. Encore Break
+
+Encore
+
+27. The Needle and the Damage Done *
+28. Drunken Soldier
+29. Shake Me Like a Monkey
+
+
+
+& Static occurred in PA system at beginning and end of Ants Marching
+
+* Dave solo
+
+
+
+ 
+Thanks to Cliff for the beers.  Thanks to Sophie for the ride to the venue and all her hospitality.  Special thanks to Kim for her emergency help when setting up in the PIT.  You were a lifesaver!
+
+
+
+
+
+Compiled by Tom Gambichler on July 3, 2014 

@@ -1,0 +1,56 @@
+John Mayer
+On Center
+Syracuse, NY
+Tuesday 27 February 2007 8:00pm
+
+Taper:      Chad J
+Source:     MK4 ORTF > KCy I > VMS 02b IB > R09 (24/48)
+Location:   Syracuse Crunch Player's Bench, stand at 10ft approx 150ft from stack
+Conversion: WAV > PC > Soundforge 8.0.53 (normalize) > CDWav 1.94.5 > FLAC 1.7.1
+
+******************************************************************
+***  DO NOT USE CRAPPY QUALITY NO MP3 UNLESS FOR /YOUR/ IPOD -  ***
+***    NO EDITING OR CHANGING OF THESE FILES FOR ANY REASON -   ***
+***       NO MIXING IN ANY WAY IS PERMITTED WITH OUT THE       ***
+*** TAPER'S PERMISSION -  NO SELLING OR EBAYING THIS RECORDING - ***
+******************************************************************
+
+CD1
+---
+01 - Belief                                 07:38.70
+02 - Bigger Than My Body                    04:50.64
+03 - No Such Thing                          04:55.73
+04 - Slow Dancing in a Burning Room         05:39.51
+05 - Good Love is on the Way                04:25.59
+06 - The Heart of Life                      04:33.45
+07 - I Don't Need No Doctor &               05:30.18
+08 - Waiting on the World to Change         04:23.74
+19 - Why Georgia                            06:13.11
+10 - Vultures                               09:44.32
+11 - Gravity                                09:38.23
+12 - Encore                                 02:06.52
+13 - Stop This Train                        05:26.63
+14 - Your Body is a Wonderland              05:16.56
+15 - I'm Gonna Find Another You             07:53.05
+TOTAL                                       88:18.21
+
+Notes:
+------
+* Compiled 02 Mar 2007 by Izaak Micah
+& Ray Charles Cover
+
+9f37fe2ac64495623887358766266744 *jmayer20070227d01t01.flac
+b4f4735025d33a8c60453d83c3492484 *jmayer20070227d01t02.flac
+c4776bafe53a336230c51095b1a972be *jmayer20070227d01t03.flac
+575736ea647fdefe489bec7d8d3a676e *jmayer20070227d01t04.flac
+91b49e70d51f717910aa194af730dc7a *jmayer20070227d01t05.flac
+c4e727f8e8b5afb22865c7a97ad6e626 *jmayer20070227d01t06.flac
+92ceaeb6f20e18ca58ed3e9d41bdf4ae *jmayer20070227d01t07.flac
+2078636886c66662871c67078b68648f *jmayer20070227d01t08.flac
+339a470a061112c022122b5a1250ad6a *jmayer20070227d01t09.flac
+e727d302630fa509105d3dbae6759d59 *jmayer20070227d01t10.flac
+87f5f7b76195561647ee5a5b6d54a4b2 *jmayer20070227d01t11.flac
+9efad0238ace1b872249ba8841953fc4 *jmayer20070227d01t12.flac
+0793c238ed2bdfc89ef0d5c45c3e10a2 *jmayer20070227d01t13.flac
+05c4021d98facd7df754aed762ed7fa8 *jmayer20070227d01t14.flac
+d8c79f2d30b4378d731ae1f5f9b92cd6 *jmayer20070227d01t15.flac

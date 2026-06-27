@@ -1,0 +1,26 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:14.66        2624876 B   ---   --   ---xx   flac  0.5928  wilco2011-11-29d1t01.flac
+    10:23.69      110059532 B   ---   --   ---xx   flac  0.4594  wilco2011-11-29d1t02.flac
+     5:07.06       54168956 B   ---   --   ---xx   flac  0.4572  wilco2011-11-29d1t03.flac
+     7:23.18       78187580 B   ---   --   ---xx   flac  0.4900  wilco2011-11-29d1t04.flac
+     3:57.28       41872700 B   ---   --   ---xx   flac  0.5000  wilco2011-11-29d1t05.flac
+     6:13.27       65860748 B   ---   --   ---xx   flac  0.4881  wilco2011-11-29d1t06.flac
+     3:50.01       40574396 B   ---   --   ---xx   flac  0.4611  wilco2011-11-29d1t07.flac
+     5:56.44       62901932 B   ---   --   ---xx   flac  0.4948  wilco2011-11-29d1t08.flac
+     4:13.11       44655116 B   ---   --   ---xx   flac  0.3938  wilco2011-11-29d1t09.flac
+     7:10.07       75868508 B   ---   --   ---xx   flac  0.4819  wilco2011-11-29d1t10.flac
+     4:28.16       47312876 B   ---   --   ---xx   flac  0.5058  wilco2011-11-29d1t11.flac
+     3:50.10       40595564 B   ---   --   ---xx   flac  0.4571  wilco2011-11-29d1t12.flac
+     0:42.59        7547612 B   ---   --   ---xx   flac  0.3826  wilco2011-11-29d2t01.flac
+     4:18.74       45685292 B   ---   --   ---xx   flac  0.4466  wilco2011-11-29d2t02.flac
+     5:55.48       62734940 B   ---   --   ---xx   flac  0.4994  wilco2011-11-29d2t03.flac
+     3:43.43       39438380 B   ---   --   ---xx   flac  0.5247  wilco2011-11-29d2t04.flac
+     3:31.05       37232204 B   ---   --   ---xx   flac  0.4603  wilco2011-11-29d2t05.flac
+     3:59.69       42321932 B   ---   --   ---xx   flac  0.4783  wilco2011-11-29d2t06.flac
+     4:51.55       51461804 B   ---   --   ---xx   flac  0.5347  wilco2011-11-29d2t07.flac
+     3:09.19       33384332 B   ---   --   ---xx   flac  0.4882  wilco2011-11-29d2t08.flac
+     3:37.03       38285900 B   ---   --   ---xx   flac  0.4913  wilco2011-11-29d2t09.flac
+     3:16.04       34583852 B   ---   --   ---xx   flac  0.5342  wilco2011-11-29d2t10.flac
+     3:23.21       35858636 B   ---   --   ---xx   flac  0.5334  wilco2011-11-29d2t11.flac
+     0:46.44        8217932 B   ---   --   ---xx   flac  0.4823  wilco2011-11-29d2t12.flac
+   104:03.72     1101435600 B                            0.4827  (24 files)

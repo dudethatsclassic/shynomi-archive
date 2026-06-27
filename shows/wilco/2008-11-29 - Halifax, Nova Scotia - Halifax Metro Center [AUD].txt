@@ -1,0 +1,59 @@
+Wilco - Blue Halifax Sky
+Halifax, Nova Scotia, Canada
+Halifax Metro center
+2008 Nov 29
+
+Opening with Everst for Mr. Neil Young
+
+Lineage - Custom homemade mics -->Battery Box with 160hz roll off filter-->24bit 44k1   Edirol R-09-->Soundforge-->adjust volume-->downsample to 16 bit--->FLAC
+
+Recorded from the floor, infront of the mixing board.
+
+No alterations to the sound was done on this show. I only increased the volume..no EQ..nothing.
+
+In hindsight, I think that the lower levels can be a little higher, but I will leave that up to you.
+
+I was unsure of the track titles, so I did not include them.
+
+As always, feel free to trade and post on other sites, but I ask that the title and info notes
+remain with the files.
+Do not sell or reconvert to lossy format unless it is for personal use only.
+
+As Neil Young says.."keep on rockin' in the fre world!"
+
+Please feel free to let me know what you think of the recording. I love the feedback.
+
+Also, I am always looking for other shows by Canadian acts like Sum41, Danko Jones, April Wine, Matt Mays and Plaskett.
+
+Thanks
+scotianbill
+
+wilco01.wav:  successfully encoded to 'E:\Wilco - Blue Halifax Sky\wilco01.flac' (ratio = 0.515).
+wilco02.wav:  successfully encoded to 'E:\Wilco - Blue Halifax Sky\wilco02.flac' (ratio = 0.579).
+wilco03.wav:  successfully encoded to 'E:\Wilco - Blue Halifax Sky\wilco03.flac' (ratio = 0.558).
+wilco04.wav:  successfully encoded to 'E:\Wilco - Blue Halifax Sky\wilco04.flac' (ratio = 0.503).
+wilco05.wav:  successfully encoded to 'E:\Wilco - Blue Halifax Sky\wilco05.flac' (ratio = 0.533).
+wilco06.wav:  successfully encoded to 'E:\Wilco - Blue Halifax Sky\wilco06.flac' (ratio = 0.518).
+wilco07.wav:  successfully encoded to 'E:\Wilco - Blue Halifax Sky\wilco07.flac' (ratio = 0.556).
+wilco08.wav:  successfully encoded to 'E:\Wilco - Blue Halifax Sky\wilco08.flac' (ratio = 0.552).
+wilco09.wav:  successfully encoded to 'E:\Wilco - Blue Halifax Sky\wilco09.flac' (ratio = 0.566).
+wilco10.wav:  successfully encoded to 'E:\Wilco - Blue Halifax Sky\wilco10.flac' (ratio = 0.585).
+
+No errors occured.
+
+
+wilco01.flac:e726675371261fe304244a85769ab2a2
+wilco02.flac:b632d4452295df4950b24852bb5f4f3a
+wilco03.flac:50db89d5384e55852e48cf2a98ebdc77
+wilco04.flac:69f539842ce19b012c546ad6477a654b
+wilco05.flac:dada9044525e929db8317c03dcb1435f
+wilco06.flac:86f2607efbeda899b66d819b6e087d7d
+wilco07.flac:a7062f8c3cb19e5f4620d4df69de400d
+wilco08.flac:6031e7e860b13449dc43d7bb49f84f77
+wilco09.flac:78801697446d88836fe7afd886bcf3ec
+wilco10.flac:204b5f0f4e9100bbd6361169edbaa5f9
+
+Checksum file saved to disk.
+
+
+

@@ -25,7 +25,8 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows",
       "notes": "KROQ",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-06-17 - Irvine, CA - Irvine Meadows - KROQ Weenie Roast [FM].txt"
     },
     {
       "year": 1995,
@@ -36,7 +37,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -62,9 +63,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Sunrise, FL",
       "venue": "Markham Park",
-      "notes": "Zetafest · DSM-6P · datfly",
+      "notes": "Zetafest \u00b7 DSM-6P \u00b7 datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-07-05 - Sunrise, FL - Markham Park - Zetafest 97 (DSM-6P) (datfly) [AUD].txt"
     },
     {
       "year": 2015,
@@ -77,7 +79,8 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2015-12-29 - Dallas TX - House of Blues [DVD].txt"
     },
     {
       "year": 2021,
@@ -88,9 +91,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Huber Heights, OH",
       "venue": "Rose Music Center",
-      "notes": "CA-14s · charles dewey cole",
+      "notes": "CA-14s \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-09-11 - Huber Heights, OH - Rose Music Center (CA-14s) (charles dewey cole) [AUD].txt"
     },
     {
       "year": 2024,
@@ -101,9 +105,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "3rd & Lindsey",
-      "notes": "SP-CMC-8 + SBD · mr sifter",
+      "notes": "SP-CMC-8 + SBD \u00b7 mr sifter",
       "version": "MIX",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-05-05 - Nashville, TN - 3rd & Lindsey (SP-CMC-8 + SBD) (mr sifter) [MIX24].txt"
     },
     {
       "year": 2025,
@@ -114,9 +119,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Mason, OH",
       "venue": "Mason Municipal Campus",
-      "notes": "CA-14 · live2cd",
+      "notes": "CA-14 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-07-03 - Mason, OH - Mason Municipal Campus (CA-14) (live2cd) [AUD].txt"
     }
   ],
   "misc": []

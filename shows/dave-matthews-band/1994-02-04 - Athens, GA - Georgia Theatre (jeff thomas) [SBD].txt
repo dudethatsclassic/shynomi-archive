@@ -1,0 +1,57 @@
+Dave Matthews Band
+Georgia Theatre
+Athens, GA
+February 4, 1994
+
+Taper: 		??? (DAT sourced by Peter Jaeger)
+Source: 	DSBD
+Conversion: 	DAT > Sony DTC-A7 > Sound Blaster Z optical in > Adobe Audition 2019 > CD Wave Editor 1.98 (Tracking and coversion to flac level 8)
+Mixing:		Normalized to -0.1
+
+SOUNDCHECK
+Taper:		Jeff Thomas / Jon Weber
+Source Info:	dSBD / DAT > c(0)
+
+Conversion:	Jon Weber
+analog > DAT:	Sony 3-head deck > Tascam DA20 DAT
+DAT > CD:	Sony TCD-D7 > Marantz CDR630
+
+CD > SHN:	David Baty
+		EAC v0.9pb7 @ 1x > CEP 1.1 (normalized) > CDWAV > mkwACT
+
+01 - Introduction						0:30
+02 - Ants Marching						7:31
+03 - Seek Up						       14:38
+04 - Satellite							6:22
+05 - What Would You Say						7:04
+06 - Tripping Billies						5:38
+07 - Lover Lay Down						7:13
+08 - #36							8:50
+09 - One Sweet World						9:27
+----------
+10 - Minarets >							8:04
+11 - Typical Situation					       12:11
+12 - The Song that Jane Likes					4:18
+13 - Jimi Thing						       11:39
+14 - Granny							5:39
+15 - Dancing Nancies						9:06
+16 - Recently 						       15:38
+==========
+17 - Warehouse (Wild Thing)					10:13
+
+SOUNDCHECK
+18 - jam							13:15
+
+TOTAL							       157:18
+
+This is a newly converted source of the existing soundboard. It does not contain the dropout in Ants or diginoise in Warehouse, and is meant to replace that source. It is a clean and complete listen.
+
+This tape had two 3-second skips in What Would You Say and #36. I patched them using the existing source, you shouldn't notice.
+
+==========
+
+This is a newly converted source to circulation as of winter 2023. It is part of a collection of tapes that Peter Jaeger provided and allowed us to review for sources that didn't make it into the digital age. Huge thanks to Peter for trusting us with his personal DATs to help us provide as many listening opportunity for fans as possible.
+
+If you have any sources that we can help review whether it matches extant sources or want help converting and spreading, please reach out to us at dmbalmanac@gmail.com. We are willing to take on as much of the work as we can to share this music that maybe you might be the only one in possession.
+
+compiled on 1/11/2023 by dmbalmanac.com

@@ -1,0 +1,42 @@
+Wilco
+2008-12-12
+Wachovia Spectrum - Philadelphia, PA
+(Matrix)
+
+  **SBD -&- (AUD) **Schoeps mk-41, (Mix/Matrix)
+
+
+Set List:
+
+01.  Via Chicago
+02.  Impossible Germany
+03.  You Are My Face
+04.  Spiders (Kidsmoke)
+05.  Hummingbird
+06.  Jesus Etc.
+07.  Hate It Hear
+08.  Walken
+09.  I'm The Man Who Loves You
+
+-- Note: Opened for Neil Young
+
+
+-- **Source One:
+- Master:  soundboard > denon portable DAT recorder
+- Clone:  DAT master > HHB CDR recorder
+- **Taper: Unknown
+
+
+-- **Source Two:
+- Source : schoeps mk-41> actives > nbox > edirol r-09 > 24/44.1 wav > 
+dsp quattro x 2.5.2 (volume,tracking & fades)MBIT+ dither > 16/44.1 wav > xACT 1.62 > flac
+-- **Taper: edtyre
+
+
+-- **Matrix/Mix:
+- SBD -&- Schoeps mk41 Source's => Samplitude Pro X3 (Mix & Bounce) => Sound Forge 11 (Minor Edits) => TLH (SBE's,File Integrity & Checksums) => Tagged in Foobar2000 => Deluge => You
+
+
+- Thanks to edtyre for the great AUD recording that was used in this Mix/Matrix and the Uknown SBD taper,  the SBD was uploaded by julsay so thank you much. The SBD is still seeded on TTD. Much appreciation to the both of you. Also thanks to all the taper's who capture all these great shows to Owl and Bear,Via Chicago, JamBase and many more. 
+
+- As always thanks to Wilco and all their crew for allowing taping and the sharing of their live music. Don't forget to support Wilco by purchasing albums, shirts and Concert Tickets!

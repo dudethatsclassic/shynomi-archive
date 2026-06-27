@@ -1,0 +1,71 @@
+The Black Crowes
+Tennessee Performing Arts Center
+Jackson Hall
+Nashville, TN
+April 12, 1995
+
+** 16 BIT **
+
+Source:  Unjnown mics & recorder > DAT master > DAT clone @ 48 kHz > Cassettes (1)
+Transfer:  Cassettes (1) > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Mastering: .WAV's > Sound Forge Pro 11.0 (Build 299) [Splicing; iZotope Mastering Suite (declick); minor edits, normalize, & fades] > iZotope RX6 Advanced v6.00.1210 (Spectral de-noise) > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.30 (tagging)
+Recorded by:  Unknown
+Transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist: (1:51:47)
+01 Hotel Illness
+02 Twice As Hard
+03 Gone
+04 Tied Up And Swallowed
+05 Sister Luck
+06 Jam > 
+07 My Morning Song
+08 Descending
+09 Waiting Guilty
+10 Black Moon Jam > 
+11 Black Moon Creeping
+12 Jealous Again
+13 Hard To Handle
+14 She Gave Good Sunflower
+15 Stare It Cold
+16 Encore Break
+- Encore -
+17 Mellow Down Easy
+18 High Head Blues
+19 Chat
+20 Remedy
+
+Chris Robinson - lead vocals & harp
+Rich Robinson - guitars & backing vocals
+Marc Ford - guitars & backing vocals
+Johnny Colt - bass & backing vocals
+Ed Harsch - keyboards
+Steve Gorman - drums
+
+The Dirty Dozen Brass Band opened the sold out show.
+
+Mastering Notes:
+- Tape flip during the applause after "My Morning Song" - seamlessly spliced, nothing lost due to the overlap of the original DAT transfer
+- Tape flip during the applause after "Stare It Cold" - seamlessly spliced, nothing lost due to the overlap of the original DAT transfer
+
+tbc1995-04-12t01.flac:56aa54da02575e277b8ccc55c860df43
+tbc1995-04-12t02.flac:71157a485c8fa6ff0cab28fd837a0396
+tbc1995-04-12t03.flac:c924769f1331ebf3ecb9422ee868d886
+tbc1995-04-12t04.flac:6166ac57fe37c01883a2305cebe00e56
+tbc1995-04-12t05.flac:aeed391d692d2530dfc63dc96a85599d
+tbc1995-04-12t06.flac:72366f56df1e060b5551383d54bc3349
+tbc1995-04-12t07.flac:7fb69119f4ebfe7d4c00104222a014dc
+tbc1995-04-12t08.flac:102900edc6c5f088d27d181dc6d3f166
+tbc1995-04-12t09.flac:f80854a8b98524f2413234744658830d
+tbc1995-04-12t10.flac:1ff6b81440eb7ee3df269f81d6a2824e
+tbc1995-04-12t11.flac:e63a6fe95535ccafced8991c587c6324
+tbc1995-04-12t12.flac:9ba32bfe94d47fdc275d8c5acf55c9d8
+tbc1995-04-12t13.flac:b9d2b9f119b4941e76fc9f9a052c0118
+tbc1995-04-12t14.flac:ea13e29db577b87209700f7524dde1a1
+tbc1995-04-12t15.flac:f9c9f7948272a9db66f6208620d9caf4
+tbc1995-04-12t16.flac:4055d018efd3702b92602047f6e6706b
+tbc1995-04-12t17.flac:e7e82bc881a1208a7552ca9008d28280
+tbc1995-04-12t18.flac:2f0ca951c18c386c707a6203965f646f
+tbc1995-04-12t19.flac:2d6ec9db72ba4a15bb424f78bec6f451
+tbc1995-04-12t20.flac:06eea71fad3d4648a4b7ef66c1659e07

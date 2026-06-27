@@ -20,9 +20,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Vegoose Festival",
-      "notes": "DAT(M) · Schoeps MSTC64 · bigbluetarp",
+      "notes": "DAT(M) \u00b7 Schoeps MSTC64 \u00b7 bigbluetarp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-10-30 - Las Vegas, NV - Vegoose Festival - DAT(M) (Schoeps MSTC64) (bigbluetarp) [AUD].txt"
     },
     {
       "year": 2024,
@@ -35,7 +36,8 @@ const ARTIST_DATA = {
       "venue": "The Tonight Show with Jimmy Fallon",
       "notes": "",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2024-03-15 - New York, NY - The Tonight Show with Jimmy Fallon [TV].txt"
     },
     {
       "year": 2024,
@@ -46,9 +48,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theatre of Living Arts",
-      "notes": "DPA 4061s · unk",
+      "notes": "DPA 4061s \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-03-18 - Philadelphia, PA - Theatre of Living Arts (DPA 4061s) (unk) [AUD].txt"
     },
     {
       "year": 2024,
@@ -59,9 +62,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Newport Music Hall",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-03-20 - Columbus, OH - Newport Music Hall (SP-CMC-8) (live2cd) [AUD].txt"
     },
     {
       "year": 2024,
@@ -72,9 +76,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Regency Ballroom",
-      "notes": "SP-CMC-4U · huskerdu1972",
+      "notes": "SP-CMC-4U \u00b7 huskerdu1972",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-03-31 - San Francisco, CA - Regency Ballroom (SP-CMC-4U) (huskerdu1972) [AUD].txt"
     },
     {
       "year": 2024,
@@ -87,20 +92,22 @@ const ARTIST_DATA = {
       "venue": "Festival Paredes de Coura",
       "notes": "circle",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-08-15 - Paredes de Coura, Portugal - Festival Paredes de Coura (circle) [FM].txt"
     },
     {
       "year": 2024,
       "month": 8,
       "day": 20,
       "dateStr": "8-20-2024",
-      "city": "Köln",
+      "city": "Ko\u0308ln",
       "state": "Germany",
-      "location": "Köln, Germany",
-      "venue": "Bürgerhaus Stollwerck",
-      "notes": "Zoom H4N · minimax",
+      "location": "Ko\u0308ln, Germany",
+      "venue": "Bu\u0308rgerhaus Stollwerck",
+      "notes": "Zoom H4N \u00b7 minimax",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-08-20 - Ko\u0308ln, Germany - Bu\u0308rgerhaus Stollwerck (Zoom H4N) (minimax) [AUD].txt"
     },
     {
       "year": 2024,
@@ -111,9 +118,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "All Points East",
-      "notes": "Victoria · DPA 4060s · unk",
+      "notes": "Victoria \u00b7 DPA 4060s \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-08-25 - London, UK - All Points East - Victoria Park (DPA 4060s) (unk) [AUD].txt"
     },
     {
       "year": 2024,
@@ -124,9 +132,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Leeds, UK",
       "venue": "Brudenell Social Club",
-      "notes": "DPA 4060s · unk",
+      "notes": "DPA 4060s \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-08-28 - Leeds, UK - Brudenell Social Club (DPA 4060s) (unk) [AUD].txt"
     },
     {
       "year": 2025,
@@ -139,7 +148,8 @@ const ARTIST_DATA = {
       "venue": "Stern Grove Festival",
       "notes": "Webstream",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-06-29 - San Francisco, CA - Stern Grove Festival (Webstream) [WEB].txt"
     }
   ],
   "misc": []

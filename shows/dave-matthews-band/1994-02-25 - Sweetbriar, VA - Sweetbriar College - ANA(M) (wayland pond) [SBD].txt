@@ -1,0 +1,54 @@
+Dave Matthews Band
+February 25, 1994
+Sweetbriar College
+Sweetbriar, VA
+
+Source:	DSBD > Cassette master
+		Wayland Pond
+
+Conversion:	Teac v-1030 3 head cassette (RCA out, azimuth adjust) >
+		Apogee MiniMe (XLR in) > RME Digi96/PAD (coax in)
+		Sound Forge 4.5a (record/resample) > CDWav > MKWact
+		Louie Rendek <ljr7@yahoo.com>
+
+Disc One <set I>:
+
+01:		Seek Up				13:46.27
+02:		The Song That Jane Likes	04:16.29
+03:		Satellite			06:06.44
+04:		Lie In Our Graves		06:07.04
+05:		Dancing Nancies			08:51.74
+06:		#36  				08:22.42
+07:		True Reflections		07:59.14
+08:		Tripping Billies		04:31.52
+
+Total						60:01.61
+
+Disc Two <set II>:
+
+01:		Pay For What You Get 		06:04.28
+02:		So Much To Say			04:24.08
+03:		Exodus 				07:25.05
+04:		Jimi Thing			12:11.57
+05:		What Would You Say		06:56.64
+06:		Recently			08:31.70
+07:		Minarets			07:02.50
+08:		Typical Situation		10:31.23
+09:		Ants Marching			06:48.61
+
+Total						69:56.55
+
+Notes:
+----------
+*	There was another source spreading from this show with
+	unknown cassette generations.  This should be spread in
+	it's place, since this was taken from the cassette master.
+*	All splices were done seamlessly with cross fades.
+*	There was some static between PFWYG and SMTS that I fixed
+	with some creative splicing.
+*	There is some distortion starting around 2:30 into
+	Recently and it lasts for 20 seconds or so.
+*	There was no encore because they ran right up until the
+	time where they had to be off stage.
+
+*  compiled by Louie Rendek <ljr7@yahoo.com> on December 5, 2003.

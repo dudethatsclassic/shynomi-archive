@@ -1,0 +1,33 @@
+Turnstile
+2023-06-01
+Parc del Fòrum, Sant Adrià de Besòs, Barcelona, Spain
+Primavera Sound Festival
+
+Complete webstream recording
+Lineage: Twitch Tracker stream URL -> TwitchRecover-CLI-v1.2 -> .m3u8 URL -> yt-dlp v2023.03.04 -> MP4 -> LosslessCut v3.54.0 (trim nonrelevant content) -> MP4
+Capture: zzed101
+Video specifications: AVC ~4001kb/s 1920x1080 30FPS
+Audio specifications: 125kbps AAC 48kHz stereo
+
+Notes: Great pro-shot video with nice cinematography. The sound is well mixed, but cuts off at around 13kHz.
+
+Track list:
+
+01. Mystery
+02. T.L.C. (Turnstile Love Connection)
+03. Endless
+04. Underwater Boi
+05. Don't Play
+06. Fly Again
+07. New Heart Design
+08. Real Thing
+09. Drum Solo
+10. Big Smile
+11. Gravity
+12. Drop
+13. Hummanoid / Shake It Up
+14. Alien Love Call
+15. Holiday
+16. Blackout
+
+Total time: 51:02

@@ -1,0 +1,70 @@
+Tori Amos (w/The Like)
+Meadow Brook Music Festival 
+Rochester Hills, MI
+August 28th, 2005
+
+Taper: Aron41
+Location: Row T, Seat 201
+Source: AT831s (in hat) > SP-SPSB-1 (w/ bass rolloff set @ 95 Hz) > (line-in) > JB3 (@ 48 khz)
+Conversion: JB3 > USB > r8brain (resampling) > CDWav 1.94.5 > Audacity (fade in/fade out) > FLAC Frontend 1.1.1 (Level 6)
+
+	*PLEASE DO NOT SELL THIS RECORDING*
+	*PLEASE DO NOT TRADE ANY LOSSY COMPRESSED VERSIONS OF THIS RECORDING*
+	*PLEASE SUPPORT LIVE MUSIC*
+
+Tori Amos
+
+01. Intro
+02. Original Sinsuality
+03. Pretty Good Year
+04. Amber Waves
+05. Donut Song
+06. China
+07. Barons of Suburbia
+08. God ("Running Up That Hill" by Kate Bush interpolation)
+09. Karma Police (Radiohead cover)
+10. Vincent (Starry Starry Night) (Don McLean cover)
+11. Carbon
+12. Crucify
+13. Siren
+14. The Beekeeper
+15. Parasol
+16. Baker Baker
+17. Twinkle
+18. Tear in Your Hand
+
+The Like
+
+01. Intro
+02.
+03.
+04.
+05. (cover)
+06.
+07.
+
+thelike2005-08-28-05.06.flac:d41276139bc71ad3d9a139b5c5244fbb
+thelike2005-08-28-05.t01.flac:be296b1498909511eaa0ac5be3fdf017
+thelike2005-08-28-05.t02.flac:bb45bd8f4355b4f2b025f9f7ac4cde9a
+thelike2005-08-28-05.t03.flac:dab40baec5b96963feb7116792b66992
+thelike2005-08-28-05.t04.flac:193269c43d719b4b2311a56088f10aae
+thelike2005-08-28-05.t05.flac:6e36c487f71a772b923bccf6f07080e1
+thelike2005-08-28-05.t07.flac:0f927b38d991525eb30c66bf0a9f2818
+tori2005-08-28.t01.flac:6030854bdff85ac33d6c986720ce5923
+tori2005-08-28.t02.flac:a183b2bf404ebee4588d86a481f2531c
+tori2005-08-28.t03.flac:fb30b034e67cc09a9492026df4e634f0
+tori2005-08-28.t04.flac:d1b6906d70e33b3cf1ef90dfd8e576e2
+tori2005-08-28.t05.flac:16b5a928035271809068b1625e2cc60a
+tori2005-08-28.t06.flac:8a54fa5ac34c11b465ec61b4d20ae584
+tori2005-08-28.t07.flac:0435f7a8ac299e93b9855d07ab6b0445
+tori2005-08-28.t08.flac:d0e075e5f304e20f5045e51b92142bf8
+tori2005-08-28.t09.flac:3db77afb50810f23024d9dc494738a97
+tori2005-08-28.t10.flac:bd50408dcf815a43f2dca1808df22754
+tori2005-08-28.t11.flac:4eceaa2345d9a0181330d4b453fc9ed2
+tori2005-08-28.t12.flac:e17b7eb81836d86507dfde418c388de7
+tori2005-08-28.t13.flac:28665c6f19bc253121d5534395a7d567
+tori2005-08-28.t16.flac:4020cdb592448830b02bf4718bf7e30f
+tori2005-08-28t14.flac:5a806e2ec491ee435adc89e5d76d4466
+tori2005-08-28t15.flac:e2aa4b6da42aeb543c671251dd9703a3
+tori2005-08-28t17.flac:4d86645e3b5a7abbdf03cfb724b812b1
+tori2005-08-28t18.flac:18a1bc07db6e165a2c7cd75fd06be9f8

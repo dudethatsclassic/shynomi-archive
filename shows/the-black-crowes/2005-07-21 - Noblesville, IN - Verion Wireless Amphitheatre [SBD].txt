@@ -1,0 +1,30 @@
+The Black Crowes
+21 July 2005
+Verizon Wireless Amphitheater
+Noblesville, IN
+
+01. Don't Do It
+02. Black Moon Creeping
+03. Go Tell The Congregation
+04. Ballad In Urgency ->
+05. Wiser Time
+06. Good Friday
+07. Thorn Jam -> 
+08. Thorn In My Pride
+09. Feathers
+10. Soul Singing
+11. Twice As Hard 
+
+source: 	sbd > R44 @ 24/44.1	
+
+tbc2005-07-21.sbd_01_Dont_Do_It.flac:83506c9760c099b5a29ba99eb0a25d59
+tbc2005-07-21.sbd_02_Black_Moon_Creeping.flac:a43c61ab5e43ffa9e42e36cf05ca10f9
+tbc2005-07-21.sbd_03_Go_Tell_The_Congregation.flac:15dd200af752b51807717ce390d47f05
+tbc2005-07-21.sbd_04_Ballad_In_Urgency.flac:0fe47893a95aba7c9ad6adb75cc9f63a
+tbc2005-07-21.sbd_05_Wiser_Time.flac:58f8833573bdbd7bec513bcb5fe6a0a7
+tbc2005-07-21.sbd_06_Good_Friday.flac:b69bc215898642db3f3bce896c1b60d9
+tbc2005-07-21.sbd_07_Thorn_Jam.flac:97c1abadc0fc34ac17c09893cb5f424c
+tbc2005-07-21.sbd_08_Thorn_In_My_Pride.flac:77107d183f514ebb7e0e01cb2394f686
+tbc2005-07-21.sbd_09_Feathers.flac:b00618da0a6f6b5548fa61aad8e58788
+tbc2005-07-21.sbd_10_Soul_Singing.flac:803f5893aa42baa1e81b918049c19476
+tbc2005-07-21.sbd_11_Twice_As_Hard.flac:540ee4829159ae917a55ded7a206fffd

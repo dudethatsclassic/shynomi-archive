@@ -1,0 +1,58 @@
+Sigur Rós
+Arena (Open Air)
+Vienna, Austria
+2012-09-04
+
+Notes: chatty audience, DSLR shutter noise
+
+Lineup:
+Jón "Jónsi" Þór Birgisson - voc, git, key
+Georg "Goggi" Hólm - bs, voc
+Orri Páll Dýrason - dr, key
+Ólafur Björn Ólafsson - key, voc
+Kjartan Dagur Hólm - git, xylophone
+? - violin, voc
+? - violin, voc
+? - viola, voc
+? - trumpet, voc
+? - horn, voc
+? - trombone, flute, voc
+
+Source: Core Sound Binaurals (on chest under T-Shirt) > Battery Box with Bass-Roll-Off filter > Sony PCM-M10 (Mic-Sens: Low, 24/96) > WAV
+Lineage: Sony PCM-M10 > USB > HD > Audacity (SBE save track split, amplification, fades) > WAV > Flac(8) > foobar2000 (tags)
+
+Location: ~6m from stage/stack, right
+
+Taped and transfered by wzbw88 
+First uploaded 2012-09-16 to Dime by wzbw88 (justbulk<.>gmail.com) 
+
+Artist: http://www.sigur-ros.co.uk
+Venue: http://www.arena.co.at
+Photos:
+http://www.flickr.com/photos/enemy_austria/sets/72157631427047906
+http://www.earlier.at/News/2012/9/5/sigur-ros
+
+Enjoy this recording. Do not use for profit. Support the artists.
+
+Filesize: 2.30 GB 
+Running time: 121:23 
+(24bit/96kHz)
+
+Setlist:
+
+01. [08:42] Í Gær
+02. [06:43] Vaka
+03. [09:17] Ný batterí
+04. [11:07] Svefn-g-englar
+05. [07:30] Sæglópur
+06. [09:55] Viðrar Vel Til Loftárása
+07. [04:18] Hoppípolla
+08. [01:58] Með Blóðnasir
+09. [07:27] Olsen Olsen
+10. [08:11] Festival
+11. [06:35] Varúð
+12. [07:45] Hafsól
+13. [03:47] (encore break)
+14. [06:08] Ekki Múkk
+15. [06:37] Glósóli
+16. [15:24] Popplagið

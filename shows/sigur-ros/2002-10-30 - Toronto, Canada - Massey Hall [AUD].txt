@@ -1,0 +1,33 @@
+Sigur Rós	
+Toronto, CAN
+Massey Hall 
+October 30th, 2002
+
+Taper:             Fares Halteh
+Source:            DSM6S>PA6LC3B(85)>M1
+Location:          1st balcony, DEAD center, front row, mics clipped to rail.
+Conversion:        PCM-M1>Coax Cable>midiman 2496 audiophile>cool edit pro>cdwave editor>mkw audio compression tool(shn)
+Resampling:        none, show taped at 44.1k
+SHN:               master wav's > cdwave editor > MKW Audio Compression Tool
+
+--------------------------------------------------------
+
+Disc 1: [68:49]
+----------
+01. Vaka  
+02. Fyrsta
+03. Samskeyti
+04. Ný Batterí (abandoned)
+05. Mílanó
+06. Ný Batterí
+07. Njósnavélin
+08. Svefn-G-Englar 
+09. Salka
+
+Disc 2: [42:06]
+----------
+01. Hafssól
+02. Dauðalagið
+03. Popplagið
+
+   

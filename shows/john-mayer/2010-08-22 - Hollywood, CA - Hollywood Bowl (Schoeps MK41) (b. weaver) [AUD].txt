@@ -1,0 +1,46 @@
+John Mayer
+Hollywood Bowl
+Hollywood, CA
+August 22, 2010
+
+Source: Schoeps MK41 > KC5 > CMC6xt > Sound Devices MP-2 > Edirol R-09HR (24/48) 
+Location: SBD, DFC, Mics @ 13' (DinA)
+Transfer: SDHC Card > iMac > Soundbooth CS4 (fade in/out, add +5 db, dither to 16bit) > Sound Studio 3 (tracking) > xACT > .Flac
+
+Taped and Transferred by B.Weaver
+
+<<<<Please do not encode to .mp3 or other lossy format>>>>
+
+Set I:
+01. 	Wind Cries Mary	#
+02.	Can't Find My Way Home	#
+03.	Going to California > Stop This Train	#
+04.	Bittersweet Symphony	#
+
+Set II:
+05.	Chest Fever > Vultures
+06.	Clarity
+07.	Why Georgia
+08.	Ain't No Sunshine
+09.	Perfectly Lonely
+10.	I Don't Trust Myself (with Loving You)
+11.	Heartbreak Warfare
+12.	Intro to...	>
+13.	Gravity
+14. 	Who Says
+15.	Drum Intro to...   >
+16.	Waiting on the World to Change
+17.	Do You Know Me
+18.	Half Of My Heart > Don't Stop Believing 
+============================
+19.	E: Intro to... >
+20.	E: Edge of Desire
+
+Total: 2:46:57:558
+
+Notes: 
+#	John w/ Brad Mehldau on Piano for Set I
+
+compiled by B.Weaver on 2010-08-29
+
+JM2010-08-22.MK41.t01.flac:6af3178ea0f0bf981a3e15aa34d3128dJM2010-08-22.MK41.t02.flac:aec90f1a8c5a8fc7987e5088ffa66e0eJM2010-08-22.MK41.t03.flac:a1b33463902ce7ea0e2e881eeb794830JM2010-08-22.MK41.t04.flac:04b42f18db055de5232afdf83b151dbbJM2010-08-22.MK41.t05.flac:2869597589f7a49a251e1c03931ad4ccJM2010-08-22.MK41.t06.flac:022cef95eff151853b7f64444b8a63ceJM2010-08-22.MK41.t07.flac:c21fb27d7dcd72af83c38177a6ce1cf9JM2010-08-22.MK41.t08.flac:50dee6497e27dd3027df012e424499aeJM2010-08-22.MK41.t09.flac:766dba78822d766801054bf9beb2c9b0JM2010-08-22.MK41.t10.flac:0126f63a548a391a02581c32eba65359JM2010-08-22.MK41.t11.flac:2e4ca56944dec31671d55ec349301eb4JM2010-08-22.MK41.t12.flac:89ce00e841407437c3f8cf9007351649JM2010-08-22.MK41.t13.flac:1bb1bef03f4738a82f21d64bba5c935cJM2010-08-22.MK41.t14.flac:60778eaca9169d9cc9aa14c0f72d5850JM2010-08-22.MK41.t15.flac:3d45108947ff3aec52f58bc46db6dbcfJM2010-08-22.MK41.t16.flac:a0c92bb81dedc0bfc68613e9a94b696dJM2010-08-22.MK41.t17.flac:848285f83750af37c997da8932e2f09aJM2010-08-22.MK41.t18.flac:c1653bf3f629a6574da94381069d5dc2JM2010-08-22.MK41.t19.flac:54d76322c5e47260e7dc6464cf3465a6JM2010-08-22.MK41.t20.flac:20773c1f0676fac9cb1c47645a9738df

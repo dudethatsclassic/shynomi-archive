@@ -1,0 +1,35 @@
+Black Crowes
+
+October 24th, 2013
+
+Terminal 5, New York, NY
+
+
+Master/Conversion:
+Microtech Gefell M210's>Oade M248>SD-722, SD-722>Tascam CDRW2000>CD
+by Jon Pasternak
+
+Extraction:
+CD>xACT 2.24 (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+Disc 1 Total: [62:48.25]
+01. Movin' On Down The Line           [07:58.26]
+02. Hotel Illness                     [04:12.49]
+03. Another Roadside Tragedy          [09:02.20]
+04. Houston Don't Dream About Me      [05:37.26]
+05. Darling Of The Underground Press  [04:27.16]
+06. Girl From A Pawnshop              [07:50.50]
+07. Share The Ride -> Jam             [08:17.49]
+08. Magic Rooster Blues               [04:41.01]
+09. Lowdown ->                        [10:41.13]
+
+Disc 2 Total: [75:37.15]
+01. Wiser Time                        [18:26.31]
+02. She Talks To Angels               [06:44.44]
+03. Oh Sweet Nuthin'                  [09:29.70]
+04. Sometimes Salvation               [05:10.27]
+05. Remedy                            [05:41.24]
+06. Jealous Again                     [07:35.37]
+07. E: Feathers                       [10:16.02]
+08.     And The Band Played On        [12:13.05]

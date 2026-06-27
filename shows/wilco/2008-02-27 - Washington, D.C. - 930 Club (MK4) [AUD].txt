@@ -1,0 +1,153 @@
+Wilco
+02/27/2008
+9:30 Club Washington DC
+
+****16 Bit 44.1k****
+
+Source: Schoeps MK4(7'stand, DIN, TS, LOC)>KC5>CMC6>
+Oade M248>Apogee MiniME>Tascam HD-P2(24bit/96k)
+
+Processing: CF>HP Vista Laptop>Wavelab 5.0(tracking/fades/Resample/UV22HR Dither)>
+Flac 1.1.2(Level 8, Align on Sector Boundaries)>Tag & Rename 3.4.6(Tags)
+
+Recorded and Processed by Innis Nelson innisn@gmail.com
+
+CD1
+01. Sunken Treasure
+02. Remember The Mountain Bed
+03. Company In My Back
+04. You Are My Face
+05. Side With the seeds
+06. She's A Jar
+07. Shot In The Arm
+08. Neverevergonna
+09. Handshake Drugs
+10. Pot Kettle Black
+11. Roses Bloom Again
+12. Impossible Germany
+13. It's Just That Simple
+CD2
+14. Someday Soon
+15. Box Full Of Letters
+16. I'm Always In Love
+17. Pieholden Suite
+18. Jesus etc
+19. Hate It Here
+20. Walken
+21. I'm The Man Who Loves Uou
+22. Hummingbird
+23. On And On
+24. Crowd
+25. Via Chicago
+26. California Stars
+27. Crowd
+28. Casino Queen
+29. I'm A Wheel
+30. Monday
+
+Flac Fingerprint:
+
+wilco20080227d1_01_Sunken_Treasure.flac:1216717d5ea567eaf316375792634db4
+wilco20080227d1_02_Remember_The_Mountain_Bed.flac:35adc4a3921e37bda6dc65c4a022e235
+wilco20080227d1_03_Company_In_My_Back.flac:fac37cdefa270413f36a2a86896fff27
+wilco20080227d1_04_You_Are_My_Face.flac:23d7c334316402812761d14538513bad
+wilco20080227d1_05_Side_With_the_seeds.flac:4eaa9daab6372c5b923b4f0a959efda6
+wilco20080227d1_06_Shes_A_Jar.flac:497538011531889fb0393eb02d0da849
+wilco20080227d1_07_Shot_In_The_Arm.flac:1d915729423d28793aa7a065b2241210
+wilco20080227d1_08_Neverevergonna.flac:8e43c64468a3a225f4e92d830d44891e
+wilco20080227d1_09_Handshake_Drugs.flac:dd8d83644fd8f9b71eeebbc3269e8aca
+wilco20080227d1_10_Pot_Kettle_Black.flac:59641ccb58f2872abd24dfe269a76cf8
+wilco20080227d1_11_Roses_Bloom_Again.flac:2d9d1322932f0d88df9c54454cb77636
+wilco20080227d1_12_Impossible_Germany.flac:e06695f2060c3e52147ecf4c131a7d3f
+wilco20080227d1_13_Its_Just_That_Simple.flac:cd4bf82d92508fed9283a56fa8820edf
+wilco20080227d2_01_Someday_Soon.flac:5c0e443163db238d79fde8b827fa9321
+wilco20080227d2_02_Box_Full_Of_Letters.flac:b5f5a8299b7a9ff8f76f30e633053954
+wilco20080227d2_03_Im_Always_In_Love.flac:9de8888a5b88b43dda6955f297ba68d0
+wilco20080227d2_04_Pieholden_Suite.flac:3e938599743f64816f1852ef59198657
+wilco20080227d2_05_Jesus_etc.flac:05856a26e51161fc982722663c866680
+wilco20080227d2_06_Hate_It_Here.flac:5c448d93a5e03e1d22b885beaafabb9c
+wilco20080227d2_07_Walken.flac:11b1bbe0a68213d696d40eaeddc876ac
+wilco20080227d2_08_Im_The_Man_Who_Loves_You.flac:c66afdb18ebbd85613bb3b9a5bf83c82
+wilco20080227d2_09_Hummingbird.flac:c5e8ecfe7e2784817f4060cafed0fbd3
+wilco20080227d2_10_On_And_On.flac:56ed18d089f52885abff9990ee5efbfb
+wilco20080227d2_11_Crowd.flac:57973852cfafe283d2870af1b9c364dd
+wilco20080227d2_12_Via_Chicago.flac:f002e096c9be75010cf043a1e46483c8
+wilco20080227d2_13_California_Stars.flac:309f65bd11c46d45aa3be81087de68a5
+wilco20080227d2_14_Crowd.flac:5418ba31250792d26bf81b2b93827559
+wilco20080227d2_15_Casino_Queen.flac:2862453c52b1f21d5996910be8306d94
+wilco20080227d2_16_Im_A_Wheel.flac:0b1a70b1fa052344f4bdb95d0c78b5f2
+wilco20080227d2_17_Monday.flac:1feda7490ea3a90ecdf7f5e2cf173c3f
+
+Shntool output:
+
+G:\Music\FlacArchive\wilco20080227.mk4.flac16>shntool len *.wav
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+shntool [len]: warning: cannot open non-existent file: [*.wav]
+     0:00.00              0 B                            0.0000  (0 files)
+
+G:\Music\FlacArchive\wilco20080227.mk4.flac16>shntool len *.flac
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     7:45.05       82037804 B   ---   --   ---xx   flac  0.4083  wilco20080227d1
+_01_Sunken_Treasure.flac
+     6:53.56       72984956 B   ---   --   ---xx   flac  0.4855  wilco20080227d1
+_02_Remember_The_Mountain_Bed.flac
+     3:58.00       41983244 B   ---   --   ---xx   flac  0.5559  wilco20080227d1
+_03_Company_In_My_Back.flac
+     4:43.70       50085884 B   ---   --   ---xx   flac  0.5507  wilco20080227d1
+_04_You_Are_My_Face.flac
+     5:14.60       55530764 B   ---   --   ---xx   flac  0.5335  wilco20080227d1
+_05_Side_With_the_seeds.flac
+     4:34.57       48467708 B   ---   --   ---xx   flac  0.5261  wilco20080227d1
+_06_Shes_A_Jar.flac
+     5:45.29       60926252 B   ---   --   ---xx   flac  0.5980  wilco20080227d1
+_07_Shot_In_The_Arm.flac
+     5:43.61       60648716 B   ---   --   ---xx   flac  0.5503  wilco20080227d1
+_08_Neverevergonna.flac
+     6:13.40       65891324 B   ---   --   ---xx   flac  0.5797  wilco20080227d1
+_09_Handshake_Drugs.flac
+     4:40.18       49434380 B   ---   --   ---xx   flac  0.5974  wilco20080227d1
+_10_Pot_Kettle_Black.flac
+     5:24.54       57280652 B   ---   --   ---xx   flac  0.4992  wilco20080227d1
+_11_Roses_Bloom_Again.flac
+     6:12.47       65731388 B   ---   --   ---xx   flac  0.5646  wilco20080227d1
+_12_Impossible_Germany.flac
+     4:20.65       46016924 B   ---   --   ---xx   flac  0.5410  wilco20080227d1
+_13_Its_Just_That_Simple.flac
+     4:26.40       47016524 B   ---   --   ---xx   flac  0.5362  wilco20080227d2
+_01_Someday_Soon.flac
+     3:17.45       34856684 B   ---   --   ---xx   flac  0.6363  wilco20080227d2
+_02_Box_Full_Of_Letters.flac
+     4:33.62       48303068 B   ---   --   ---xx   flac  0.6277  wilco20080227d2
+_03_Im_Always_In_Love.flac
+     4:03.66       43020476 B   ---   --   ---xx   flac  0.5110  wilco20080227d2
+_04_Pieholden_Suite.flac
+     4:44.51       50217596 B   ---   --   ---xx   flac  0.5064  wilco20080227d2
+_05_Jesus_etc.flac
+     4:57.32       52466108 B   ---   --   ---xx   flac  0.5914  wilco20080227d2
+_06_Hate_It_Here.flac
+     4:36.13       48717020 B   ---   --   ---xx   flac  0.6061  wilco20080227d2
+_07_Walken.flac
+     4:33.24       48213692 B   ---   --   ---xx   flac  0.6219  wilco20080227d2
+_08_Im_The_Man_Who_Loves_You.flac
+     3:40.51       38927996 B   ---   --   ---xx   flac  0.5566  wilco20080227d2
+_09_Hummingbird.flac
+     4:23.14       46426172 B   ---   --   ---xx   flac  0.5039  wilco20080227d2
+_10_On_And_On.flac
+     4:28.72       47444588 B   ---   --   ---xx   flac  0.5534  wilco20080227d2
+_11_Crowd.flac
+     5:35.18       59136380 B   ---   --   ---xx   flac  0.5251  wilco20080227d2
+_12_Via_Chicago.flac
+     4:36.62       48832268 B   ---   --   ---xx   flac  0.5899  wilco20080227d2
+_13_California_Stars.flac
+     2:47.14       29491772 B   ---   --   ---xx   flac  0.5789  wilco20080227d2
+_14_Crowd.flac
+     3:20.66       35435276 B   ---   --   ---xx   flac  0.6507  wilco20080227d2
+_15_Casino_Queen.flac
+     2:33.51       27109196 B   ---   --   ---xx   flac  0.6565  wilco20080227d2
+_16_Im_A_Wheel.flac
+     4:52.08       51527660 B   ---   --   ---xx   flac  0.6612  wilco20080227d2
+_17_Monday.flac
+   143:03.51     1514162472 B                            0.5560  (30 files)
+
+G:\Music\FlacArchive\wilco20080227.mk4.flac16>
+

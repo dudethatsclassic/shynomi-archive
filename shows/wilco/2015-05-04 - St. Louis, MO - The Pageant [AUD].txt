@@ -1,0 +1,64 @@
+Wilco
+May 04, 2015
+The Pageant
+St. Louis, MO
+
+Source: Source 1: AKG CK91's (DIN) > AKG MK90/3's (Digigal mod) > AKG SE300B's > Tascam DR-680 (Busman mod) (80Hz HPF) (16/44.1) + Source 2: Audio-Technica BP4025 (X/Y) > Tascam DR-680 (Busman mod) (80Hz HPF) (16/44.1)
+Location: DFC, FOB, ~40' back, ~8' high
+Transfer: Tascam DR-680 > USB > Audacity 1.3.13-beta > WAV > FLAC Frontend 1.7 (Level 5) + FLAC 1.2.1 > FLAC
+Taped and Transferred by Chris Finn (cfinn@primary.net)
+
+One Set
+01. Intro > At Least That's What You Said
+02. I Am Trying to Break Your Heart >
+03. Art of Almost
+04. Hummingbird
+05. Panthers
+06. Banter > Handshake Drugs
+07. Camera
+08. Either Way
+09. Banter (It's Good to Be Back)
+10. Secret of the Sea
+11. Banter (Three Cheers for Tweedy's Dad) >
+12. Heavy Metal Drummer
+13. I'm the Man Who Loves You
+14. Banter (700 Chords)
+15. Nothing'severgonnastandinmyway(again)
+16. Far, Far Away
+17. Impossible Germany
+18. Banter (Tweedy's Solo)
+19. Jesus, Etc.
+20. Born Alone >
+21. Dark Neon
+22. Banter (Three People Know That Song)
+23. Red-Eyed and Blue >
+24. I Got You (At the End of the Century)
+25. Banter (It's How I Roll)
+26. Dawned on Me
+27. Banter (One More Song, a Twofer, and Tweedy and Wilco)
+28. California Stars
+29. Crowd
+
+Encore
+30. Hate It Here
+31. Kingpin >
+32. Monday
+33. Crowd
+
+Encore
+34. Casino Queen *
+35. Too Far Apart *
+36. Banter (Uncle Tupelo, Mississippi Nights) *
+37. We've Been Had *
+38. Give Back the Key to My Heart *
+39. Misunderstood > Outro *
+
+Notes
+* Acoustic
+Post-production in Audacity: Mix and Render, Normalized to -4dB, Amplified to -1dB, Splits, and Fades.
+Fades applied to Tracks 01 and 39.
+
+Many thanks to Steve Brothers and Neal Jenney for their assistance and much needed extra hands.
+
+http://www.wilcoworld.net/
+http://www.thepageant.com/

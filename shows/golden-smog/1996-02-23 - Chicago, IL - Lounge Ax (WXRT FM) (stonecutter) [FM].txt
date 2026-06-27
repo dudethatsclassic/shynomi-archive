@@ -1,0 +1,55 @@
+GOLDEN SMOG
+
+Friday, 23 February 1996
+
+Lounge Ax
+2438 N. Lincoln Avenue 
+Chicago, Illinois  60614
+USA
+
+
+FLAC master, 8 February 2017, by elegymart:
+Analog radio broadcast (stereo): WXRT-FM (Chicago) broadcast, 1997 > DAT master > Maxell XLII-S 90 {Type II CrO2} analog audio cassette {from the Stonecutter Archives} > Sony TC-WE435 (azimuth adjustment) > Roland R05 (24/96) > Cool Edit Pro 2.0 (fades, edit tape flip, minor cleanup, convert to 16/44) > SHNtool (fixed SBE) > CD Wave (track splits) > TLH (WAV > FLAC8).
+Created this text file.
+
+
+Total running time  [60:57]
+----------------------------------
+01  introduction [0:29]
+02  V [3:35] 
+03  Walk Where He Walked [2:57] 
+04  Glad & Sorry [4:09] 
+05  Ill Fated [4:06] 
+06  On the Beach [6:21] 
+07  Pecan Pie [3:06] 
+08  Red Headed Stepchild [3:36] 
+09  Seven Year Ache [3:56]  
+10  Love and Mercy [3:08] 
+11  Nowhere Bound [4:11] 
+12  She Don't Have to See You [4:26] 
+13  Do Anything You Wanna Do [3:52]
+14  Won't Be Coming Home [4:06] 
+15  Radio King [3:48] 
+16  Five Years [5:03]
+
+
+Band line-up:
+Kraig Johnson (aka Jarrett Decatur) - guitar, bass, harmonica, vocals
+Dan Murphy (aka David Spear) - guitar, vocals
+Jeff Tweedy (aka Scot Summit) - guitar, bass, vocals
+Gary Louris (aka Michael Macklyn) - electric lead guitar, slide, vocals
+Marc Perlman (aka Raymond Virginia) - bass, guitar, mandolin, vocals
+Noah Levy (aka Leonardson Saratoga) - drums, percussion
+
+
+Notes:
+
+WXRT-FM ID between t09 and t10.
+
+Covers:
+t04 Ronnie Lane/Faces
+t06 Neil Young
+t09 Rosanne Cash
+t10 Brian Wilson
+t16 David Bowie
+

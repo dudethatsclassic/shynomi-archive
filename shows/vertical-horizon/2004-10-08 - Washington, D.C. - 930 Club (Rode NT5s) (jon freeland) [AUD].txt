@@ -1,0 +1,15 @@
+Vertical Horizon
+October 8, 2004
+9:30 Club
+Washington, DC
+
+Taper: Jon Freeland
+Source: Rode NT5s > Edirol UA-5 (48kHz) > optical > Nomad Jukebox 3
+Conversion: JB3 > G5 > Spark XL (48kHz > 44kHz) > AIFF > xACT > SHN
+
+01 Inside *                    	01:16.2302 You're a God               	06:17.2903 On The Sea                 	09:20.4504 Famous                     	04:10.1805 Best I Ever Had            	05:08.3806 Shackled                   	06:58.1207 Goodbye Again              	05:12.4308 Wash Away >                 	09:36.3309 Eleanor Rigby > $           	02:09.1610 Wash Away                  	01:23.3711 The Man Who Would Be Santa 	06:45.5912 Everything You Want        	06:00.7213 I'm Still Here             	04:42.6514 We Are ^                    	05:48.22				74:50.62
+
+* partial song$ Beatles
+^ Spirit of the Radio outro
+
+Compiled by Jon Freeland on 10/18/05

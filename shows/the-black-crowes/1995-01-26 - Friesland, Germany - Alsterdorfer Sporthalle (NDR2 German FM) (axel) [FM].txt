@@ -1,0 +1,145 @@
+Shared by Axel(a.k.a. RoryGallagher), Friesland, Germany.
+
+
+The Black Crowes:
+
+Lineage: NDR2 German FM radio broadcast(see below) > via satellite FM > Pace satellite receiver > Sony tuner > Akai VCR > BASF 240min master VHS's(on SP) > playback on Akai VCR > Pioneer stand alone CD recorder > 2CD set > EAC(secure mode, enjoy attached EAC logs in German language) > Wav > Flac Frontend(level8) > Flac (> YOU)
+note: original broadcast on 28th January and 01st April 1995
+Taped by: Axel himself
+Title: 'Mellow Down Hamburg'
+File Size: 649MB
+No artwork...
+Length: 102:14min
+Information: http://www.crowesbase.com/tapelisting.cfm?TapeID=491
+More information: http://db.etree.org/lookup_show.php?shows_key=65581
+
+
+Alsterdorfer Sporthalle, Hamburg, Germany, 26th January 1995
+CD1: (78:58min)
+01) Announcement NDR2 by Klaus Wellershaus on 28th January 1995
+02) Twice As Hard
+03) Sting Me
+04) Gone
+05) High Head Blues
+06) Thorn's Progress ~
+07) Thorn In My Pride
+08) Seeing Things
+09) Mellow Down Easy
+10) Hard To Handle(Chris Introduction)
+11) Announcement NDR2 by Klaus Wellershaus on 01st April 1995
+12) Hard to Handle
+13) Wiser Time
+14) P.25 London
+15) Stare It Cold
+16) Jealous Again
+17) Announcement NDR for the encores
+CD2: (23:16min)
+01) Announcement NDR2 for the encores
+02) Ballad In Urgency
+03) She Gave Good Sunflower
+04) Could I've Been So Blind
+05) Remedy ~ Final Announcement NDR2
+Length: 102:14min
+Personal:
+Chris Robinson: Vocals, Chris'isms
+Rich Robinson: Guitar, Vocals
+Marc Ford: Guitar
+Ed Harsch: Keyboards
+Johnny Colt: Bass
+Steve Gorman: Drums
+Chris Trujilo: Percussion
+
+
+You are told to AVOID MP3 ~ Don't Let It Bring You Down
+
+This show is for free trading only ~ if you sell you'll go to hell
+
+
+Enjoy,
+P&L
+
+(Source: NDR2 German FM radio broadcast)
+
+
+the finger of tbc1995-01-26:
+
+tbc1995-01-26d1t01.flac:195489ee18067dcdc4d95d099f428f15
+tbc1995-01-26d1t02.flac:be62b7c61ab8039b856007bdae32656a
+tbc1995-01-26d1t03.flac:1ca919848416abb589838d69fa203dea
+tbc1995-01-26d1t04.flac:d1a4d01d0f5c4752aaa66862647551c5
+tbc1995-01-26d1t05.flac:e89512bd0d878a2524adb27a02fd5ff8
+tbc1995-01-26d1t06.flac:9ede61d6d7a5638d312aff61f3b9e257
+tbc1995-01-26d1t07.flac:b1a9b93cab96ab51a4c9a8ea58783f0c
+tbc1995-01-26d1t08.flac:e35333c35ed72dbbb4650e17a8b1d707
+tbc1995-01-26d1t09.flac:d3911f8d686c355aaec1ef574fe29166
+tbc1995-01-26d1t10.flac:3cf40e7935ebd6bab2c56bc738f460d8
+tbc1995-01-26d1t11.flac:836a14eaf6d5fd9139297e46ccfb1b7c
+tbc1995-01-26d1t12.flac:775e88cb00e7f8fc4b5575aea50e5cb6
+tbc1995-01-26d1t13.flac:1318c2a2a5aea489df5dab0386c3cddd
+tbc1995-01-26d1t14.flac:080ad06c97fe38fd45cbca9b15b33c89
+tbc1995-01-26d1t15.flac:656e54d9297378af18eee5e86c099a15
+tbc1995-01-26d1t16.flac:7cc33eeb7dd0ea131525a5b19aefd03f
+tbc1995-01-26d1t17.flac:c5e251761f4348e06fbcec2c591a7e3a
+tbc1995-01-26d2t01.flac:c953122cb4861516c8fbeb0095822bf9
+tbc1995-01-26d2t02.flac:df25bfe27ce2b4f27da5817345228291
+tbc1995-01-26d2t03.flac:5699a25dc361c40230d5bd6810d3a202
+tbc1995-01-26d2t04.flac:1ec7ba5849cbeec187a0883c6ca09127
+tbc1995-01-26d2t05.flac:e222185ebb7229197537d28a391fd8a8
+
+(Flac Frontend and TLH used.)
+
+
+shntool st5 of tbc1995-01-26::
+
+195489ee18067dcdc4d95d099f428f15  [shntool]  tbc1995-01-26d1t01.flac
+be62b7c61ab8039b856007bdae32656a  [shntool]  tbc1995-01-26d1t02.flac
+1ca919848416abb589838d69fa203dea  [shntool]  tbc1995-01-26d1t03.flac
+d1a4d01d0f5c4752aaa66862647551c5  [shntool]  tbc1995-01-26d1t04.flac
+e89512bd0d878a2524adb27a02fd5ff8  [shntool]  tbc1995-01-26d1t05.flac
+9ede61d6d7a5638d312aff61f3b9e257  [shntool]  tbc1995-01-26d1t06.flac
+b1a9b93cab96ab51a4c9a8ea58783f0c  [shntool]  tbc1995-01-26d1t07.flac
+e35333c35ed72dbbb4650e17a8b1d707  [shntool]  tbc1995-01-26d1t08.flac
+d3911f8d686c355aaec1ef574fe29166  [shntool]  tbc1995-01-26d1t09.flac
+3cf40e7935ebd6bab2c56bc738f460d8  [shntool]  tbc1995-01-26d1t10.flac
+836a14eaf6d5fd9139297e46ccfb1b7c  [shntool]  tbc1995-01-26d1t11.flac
+775e88cb00e7f8fc4b5575aea50e5cb6  [shntool]  tbc1995-01-26d1t12.flac
+1318c2a2a5aea489df5dab0386c3cddd  [shntool]  tbc1995-01-26d1t13.flac
+080ad06c97fe38fd45cbca9b15b33c89  [shntool]  tbc1995-01-26d1t14.flac
+656e54d9297378af18eee5e86c099a15  [shntool]  tbc1995-01-26d1t15.flac
+7cc33eeb7dd0ea131525a5b19aefd03f  [shntool]  tbc1995-01-26d1t16.flac
+c5e251761f4348e06fbcec2c591a7e3a  [shntool]  tbc1995-01-26d1t17.flac
+c953122cb4861516c8fbeb0095822bf9  [shntool]  tbc1995-01-26d2t01.flac
+df25bfe27ce2b4f27da5817345228291  [shntool]  tbc1995-01-26d2t02.flac
+5699a25dc361c40230d5bd6810d3a202  [shntool]  tbc1995-01-26d2t03.flac
+1ec7ba5849cbeec187a0883c6ca09127  [shntool]  tbc1995-01-26d2t04.flac
+e222185ebb7229197537d28a391fd8a8  [shntool]  tbc1995-01-26d2t05.flac
+
+No errors occured. (TLH used, attached st5 by Audiophilia and to be verified with TLH.)
+
+
+MD5 is a Thorn In My Pride.
+
+e3b17ce79f942b57f6c1f29a04d2acd9 *tbc1995-01-26d1t01.flac
+e098e18035ee3717b4f1e20cd2a008f8 *tbc1995-01-26d1t02.flac
+aa34343c2cd1a402f9fa1d2047271d6a *tbc1995-01-26d1t03.flac
+dd3cc7296071b2a8eecdb171ee0de8df *tbc1995-01-26d1t04.flac
+0ed437cbad3c4295902c233e738732b5 *tbc1995-01-26d1t05.flac
+a24216a6eec32d47bc2306bf6d10b62c *tbc1995-01-26d1t06.flac
+6c4f7cfe0dc1e35c4d789bce32d9c7f3 *tbc1995-01-26d1t07.flac
+fd17c538ca9a2ede08940029f1a05451 *tbc1995-01-26d1t08.flac
+4b9ae55c960bcf5497c08c8ac0d69ca4 *tbc1995-01-26d1t09.flac
+a9a64ac29e5960f610a2a7e9cdf60eb7 *tbc1995-01-26d1t10.flac
+8c98f08756b1c59176742a24ed874db4 *tbc1995-01-26d1t11.flac
+8d953a0b7e7963d52ea3f90bd63420f7 *tbc1995-01-26d1t12.flac
+92713b0a5fd327e9dbc9e4f6fe769d44 *tbc1995-01-26d1t13.flac
+3d5a02f9c1b24e9aaaba251e1c5ebd4c *tbc1995-01-26d1t14.flac
+3d3a58610ea6e1de86c0639595338202 *tbc1995-01-26d1t15.flac
+df207599ee2e6bef1f244a10d856365e *tbc1995-01-26d1t16.flac
+e75d66e3aabd381fa3dc7f017e2a3cc5 *tbc1995-01-26d1t17.flac
+4c939fc5eeb052b8ead8fda635296f10 *tbc1995-01-26d2t01.flac
+bb6925dfdadae13e7d91294b158d5124 *tbc1995-01-26d2t02.flac
+77fe157059232b34b9c39da87deeeb2f *tbc1995-01-26d2t03.flac
+6d0f5b2d18ab1b7f2679f4e42594ada5 *tbc1995-01-26d2t04.flac
+9f26e19642d025fcc2b3aa416bde4034 *tbc1995-01-26d2t05.flac
+
+No errors occured. (TLH used, attached MD5 by MD5summer.)

@@ -1,0 +1,27 @@
+John Mayer
+25 February 2010
+Madison Square Garden
+New York, New York
+
+Recorded by: Christopher Jones <jones.chris@gmail.com> 
+Source: DPA 4015-TL Transformerless Handmatched Wide Cardioid > Cardas Audio Golden Reference Cu XLR Interconnect > Daniel Weiss Digital Audio ADC2 Integrated Microphone Pre-Amplifier | 24-bit / 192 kHz Analog-to-Digital Converter (@ 24-bit / 176.4 kHz) > Cardas Audio Neutral Reference Cu AES / EBU Digital Interconnect > Sound Devices 722 Hard Disk Recorder (slaved to Weiss ADC2 @ 176.4 kHz; @ 24-bit / 176.4 kHz)
+Location: Section 4, Row D, Seats 1 and 2.  Microphones elevated 4 meters, directly in front of stageright stack, ORTF.
+HD > .flac: Sound Devices 722 Hard Disk Recorder > Apple Mac Pro (2 x 2.66 GHz Dual-Core Intel Xeon / 9GB 667 MHz DDR2 FB-DIMM) > Audiofile Engineering Wave Editor v1.4.6b4 > xACT v1.62
+
+Resampled with iZotope Resampler at highest quality setting and a filter steepness of "150"; dithered using iZotope MBIT+ with a "Normal" amount of "Ultra" noise shaping applied.  24-bit / 176.4 kHz version of this recording available in .flac24.
+d1t01 Introduction				02:31.73d1t02 Heartbreak Warfare >			04:35.29d1t03 Intro To... >				00:53.17d1t04 Crossroads #				03:13.56d1t05 Vultures					08:04.68d1t06 No Such Thing				05:22.21d1t07 Perfectly Lonely				06:29.16d1t08 Intro To... % >				00:57.36d1t09 Slow Dancing In A Burning Room		06:23.66d1t10 Assassin					08:58.34d1t11 (My Stupid Mouth) * >			01:00.07d1t12 (Daughters) * > 				01:25.20d1t13 (3 x 5) *					03:58.30d1t14 Ain't No Sunshine ^			07:25.21						61:19.44d2t01 "Steve Jordan..."	>			04:56.45d2t02 Waiting On The World To Change		03:52.10d2t03 Bigger Than My Body			04:58.48d2t04 Intro To...				01:10.60d2t05 Half Of My Heart > (Dreams @)		08:46.15d2t06 Why Georgia				05:31.15d2t07 (City Love)				01:13.48d2t08 "Thank You..."				02:47.34d2t09 Gravity > (Empire State of Mind $)	12:14.08
+---
+d2t10 (Stop This Train)				00:41.36d2t11 Who Says					03:16.38d2t12 Friends, Lovers, or Nothing		09:10.17						58:38.74
+>  Indicates a segue into the next song
+#  Robert Johnson cover
+%  Featuring David Ryan Harris on vocals
+() Indicates a tease or partial song if not part of a song with a  
+   parenthetical subtitle
+*  John solo
+^  Bill Withers cover
+@  Fleetwood Mac cover
+$  Jay-Z / Alicia Keys interpretation
+
+Notes:
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 7 March 2010.

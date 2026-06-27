@@ -1,0 +1,47 @@
+Wilco
+Three Rivers Arts Festival
+Point State Park Symphony Stage - Pittsburgh, PA (2-AUD MTX)
+2004-06-06
+
+-Source One: Unknown mics > Unknown > Unknown
+Transfer: Unknown
+Taped: presumed J.Gould
+
+-Source Two: AKG se300b/CK91 (FOB, DFC, ~ 7.5' high, DIN) > Graham Patton DMIC-20 > Hosa ODL-312 > Nomad Jukebox 3 (@ 16bit/48kHz)
+Transfer: Nomad Jukebox 3 > firewire > Cakewalk Sonar 4.0 (resampled on export to 44.1kHz) > CD Wave Editor (exported as FLAC)
+Taped and transfered by: Alex Herd
+
+-Final Two Source AUD Mix: Samplitude Pro X3(mixdown 2 Aud sources) > Sound Forge 11(iZotope mastering suite,minor edits) > Foobar2000(tagging) >
+TLH(Fix SBE's,ffp,md5sum) > 
+
+
+
+1. Company In My Back
+2. Hummingbird
+3. Ashes Of American Flags
+4. Heavy Metal Drummer
+5. I Am Trying To Break Your Heart
+6. War On War
+7. I'm Always In Love
+8. A Shot In The Arm
+9. Hell Is Chrome
+10. Theologians
+11. At Least That's What You Said
+12. Muzzle Of Bees
+13. Poor Places
+14. I'm the Man Who Loves You
+15. The Late Greats
+Encore One:
+16. When the Roses Bloom Again
+17. One by One
+18. Sunken Treasure
+19. Handshake Drugs
+20. California Stars
+Encore Two:
+21. Spiders (Kidsmoke)
+22. I'm a Wheel
+
+
+Notes: There is some light crowd chatter mostly during quietier songs. 
+Thanks to J.Gould and Alex Herd for their recordings and sharing!
+KerouacAW/Zayver 2022-06-12(uploaded to Dime)

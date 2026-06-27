@@ -1,0 +1,38 @@
+Sigur Ros
+Palais Royale, Toronto, ON
+05-04-2001
+[94:23]
+ 
+
+sound : A
+
+source : MD (AUD) > CDr
+  	
+format : *
+remark : smooth-18
+archive : CD897/898-aud
+
+ný batterí 
+nýja lagið
+e-bow
+rimur 3
+rimur 5
+rimur 1
+popplagið 
+samskipti
+olsen olsen
+hafssól
+svefn-g-englar 
+  	
+9:00
+12:09
+8:33
+6:51
+5:25
+4:34
+11:26
+6:11
+7:21
+9:54
+13:21
+lineage : ECM-DS70P>MZ-R50

@@ -1,0 +1,140 @@
+**********************************************
+16 bit / 44100 Hz version
+STEREO
+**********************************************
+
+Artist/Band: Wilco
+
+Date: 2012-02-05 (Sunday)
+Title: Jeff's Sunday Sportsball Infraction
+Venue: Orpheum Theatre - Vancouver, British Columbia, Canada
+Venue concert seating capacity: 2780
+Estimated attendance: Full House
+Weather conditions: Indoor show - not applicable
+Type: Open-Air Audience/Open
+Source: CA-14 Cardioids > CA-9100 > Zoom H4n (XLR inputs) @ 24 bit/48 kHz
+Transfer: .WAV > Audacity 1.3.14-beta (fades, gain, tracking, downsampling) > Trader's Little Helper v.2.7.0 build 172 (flac 8, fix SBE's & create .ffp and .md5 files) 
+Recording location: DFC - mics placed over dress circle (lowest) balcony rail in A/B configuration 75cm's apart
+Sound Quality: SUP, A+, 10/10 - I really lucked out with the sound here and got a capture as good as any I've ever gotten.  I could not have pulled a better capture with and reached the absolute limitations of my equipment.  There is clear stereo separation as the house mix itself was in stereo.  From the gentlest and quietest notes right up to the loudest cacophony of instruments; it's all here as true as it gets.  The sound that night , thanks to FOH engineer Stan Doty, was surprisingly clear and of the highest quality.  The placement of my mics over the edge protected them from the closest talkers and clappers but still got enough of the audience sounds to remind you that this is a live show.
+Recorded by: Seth Meister (http://gplus.to/seth01)
+Mastered by: Seth Meister
+Release date: 2012-02-09
+All photos taken by Seth Meister and licensed under Creative Commons BY-NC-ND
+http://creativecommons.org/licenses/by-nc-nd/3.0/ 
+
+---------------------------------
+Setlist:
+01 - One Sunday Morning (Song For Jane Smiley's Boyfriend) - 10:48
+02 - Poor Places - 5:27
+03 - Art of Almost - 7:23
+04 - I Might - 4:11
+05 - I Am Trying to Break Your Heart - 5:15
+06 - One Wing - 4:12
+07 - Radio Cure - 5:12
+08 - Impossible Germany - 7:36
+09 - Banter - 0:43
+10 - Born Alone - 4:22
+11 - Spiders (Kidsmoke) * - 5:38
+12 - I'll Fight - 4:15
+13 - Banter - 1:03
+14 - Handshake Drugs - 5:50
+15 - Banter - 1:14
+16 - Via Chicago - 5:05
+17 - "Can-uh-dee-an" Banter - 0:43
+18 - California Stars ** - 4:38
+19 - I Must Be High - 3:40
+20 - Pot Kettle Black - 4:35
+21 - Dawned On Me - 3:39
+22 - Shot in the Arm - 5:04
+23 - Encore Break - 1:48
+Encore:
+24 - Whole Love - 4:15
+25 - Heavy Metal Drummer - 3:21
+26 - Walken - 4:51
+27 - Red-Eyed and Blue - 2:39
+28 - I Got You (At the End of the Century) - 3:55
+29 - Outtasite (Outta Mind) - 3:37
+
+* Spiders (Kidsmoke) performed w/ acoustic arrangement
+** lyric change: "Can-uh-dee-an Stars"
+
+---------------------------------
+Total Time:  2:05:15
+Total .flac(8) size: 	495 MB
+Total .wav size: 	1.23 GB
+---------------------------------
+
+
+Band Members:
+Jeff Tweedy - vocals, acoustic guitar, electric guitar 
+John Stirratt - bass, vocals 
+Glenn Kotche - drums, percussion 
+Mikael Jorgensen - keyboards, etc 
+Pat Sansone - keyboards, guitars, vocals, percussion, etc 
+Nels Cline - electric guitar, lap steel guitar 
+
+Please support artists by attending concerts & purchasing their official merchandise:
+http://wilcoworld.net/
+http://en.wikipedia.org/wiki/Wilco
+
+**********************************************
+
+This was Superbowl Sunday and downtown Vancouver Granville Street was absolutely crawling with people - of every ilk.  It seems I got to meet a lot of them having arrived very early to be first in line and be able to find the time to speak with the house manager at the Orpheum so they're comfortable with my gear and what I'm doing.  Thankfully, Wilco, unlike many other taper friendly bands, were very good at notifying the venue of their policies.
+
+I managed to set up in my usual Orpheum spot with the blessing of the house manager Greg, who I'm always grateful to see working any night I'm there taping.  He's professional and polite and has helped me get my gear in on several occasions so kudos and huge thanks go out to him.
+
+The show itself was a true joy and delight.  Great lights & effects without going overboard and as I previously mentioned, the sound was stunning.  The performance itself was top notch as these boys were as tight as I've ever seen any band.  The crowd was a little bit rowdy for the first few songs but quickly settled in for the ride.  The band smoothly transitioned from one song to the other without the slightest hesitation and Jeff's banter was cute but short & sweet.  At one point towards the end of the show, someone threw some yellow referee flags on stage and you'll hear Jeff joke about them.  For more details of the performance, I direct you to the several included screen captures of online reviews from that night.  Although they almost all mention some couple fighting during the performance, thankfully, I neither saw nor captured it on my recording.  The band did not seem affected either.
+
+If you like Wilco, you will love this recording.  Great quality, great performance.  Enjoy and please don't forget to rate this show & leave your comments. 
+
+**********************************************
+
+Fight the Loudness War!  http://en.wikipedia.org/wiki/Loudness_war
+No compression was used in the post-processing of this recording to preserve it's dynamic range, listenability and authenticity.
+This recording will naturally sound much better cranked up loud with quality headphones!
+Peace & enjoy,
+Seth
+
+
+FFP's:
+Wilco2012-02-05-CA-14cards-t01.flac:e6b38e6cabe8984318e8565dfdf9171f
+Wilco2012-02-05-CA-14cards-t02.flac:9e06e90e471724be1248cece7db45454
+Wilco2012-02-05-CA-14cards-t03.flac:dab9b449f23db81e906ae7b18ce45105
+Wilco2012-02-05-CA-14cards-t04.flac:f80f70bdd75abd893331c41806964579
+Wilco2012-02-05-CA-14cards-t05.flac:4f3a7cdfbf4c0301e23b762bd362436a
+Wilco2012-02-05-CA-14cards-t06.flac:b6a551585b4acda0c0714de8eee803f4
+Wilco2012-02-05-CA-14cards-t07.flac:0bae6d59d7a268d23c170260e0ee97d7
+Wilco2012-02-05-CA-14cards-t08.flac:9c07a9f58c3807aedc886085ae5e6e51
+Wilco2012-02-05-CA-14cards-t09.flac:9b60a8b95b59586c524572bf2aa468f0
+Wilco2012-02-05-CA-14cards-t10.flac:0bc641a02cbbc05e644f953d7033b129
+Wilco2012-02-05-CA-14cards-t11.flac:155f77dd34b158d898a75bf85e74a023
+Wilco2012-02-05-CA-14cards-t12.flac:7b0ca08020b33794c1e768c38f15bb95
+Wilco2012-02-05-CA-14cards-t13.flac:c626a0be8e66a52f60261d356e2e5a89
+Wilco2012-02-05-CA-14cards-t14.flac:40c34e3a354e49a53a767fd64b07ab99
+Wilco2012-02-05-CA-14cards-t15.flac:ec710cf74df92f40b3037715721c55d5
+Wilco2012-02-05-CA-14cards-t16.flac:18e9dc54745d5a3954023ab72470c3ef
+Wilco2012-02-05-CA-14cards-t17.flac:61c12a7ed4418e439cc09a9f9e31fb41
+Wilco2012-02-05-CA-14cards-t18.flac:688c1fcb6ddaa370e7c1ab5c0bf96f81
+Wilco2012-02-05-CA-14cards-t19.flac:8198d64e0ef8d549897064bdd1488adc
+Wilco2012-02-05-CA-14cards-t20.flac:54e5790f7ec30ffb88aeda5545e2e0b0
+Wilco2012-02-05-CA-14cards-t21.flac:ce7a89a47c80e6178b5859fb27a4cd5a
+Wilco2012-02-05-CA-14cards-t22.flac:9dba16f0d6e3b73867736cc77722c582
+Wilco2012-02-05-CA-14cards-t23.flac:17fba92dea25d38e4a274d45ecb83fcf
+Wilco2012-02-05-CA-14cards-t24.flac:81aaea929102b779fc174979994b0fed
+Wilco2012-02-05-CA-14cards-t25.flac:901d253a6f7bb5c10e13421767ab2191
+Wilco2012-02-05-CA-14cards-t26.flac:69dc8bc03eb91c384daaa51f5d862085
+Wilco2012-02-05-CA-14cards-t27.flac:73b4ab2de01a772c581a40fab05f31a9
+Wilco2012-02-05-CA-14cards-t28.flac:df8b433eefdff182eec9f661caec9dd6
+Wilco2012-02-05-CA-14cards-t29.flac:ad95620e49c7e49b0a656149c53d20ff
+
+
+
+First released exclusively on: Dime ( http://www.dimeadozen.org )
+**********************************************
+Please share this recording freely - refrain from posting to other sites before contacting me.
+Do not encode to .mp3 (or other lossy format).
+**********************************************
+01010011 01100101 01110100 01101000
+
+
+***END***

@@ -1,0 +1,73 @@
+wilco
+2008-03-09
+Val Air Ballroom
+Des Moines, IA
+
+Source: Church-Audio STC-11 cards > Church-Audio STC-9100 preamp > MT2496 (16 bit 44 khz)
+Transfer: MT2496>PC>Adobe Audition 2.0 (amplify right channel, fades)>CD Wave Editor>Wav>Flac Frontend>Flac
+Taped/Transferred by: Ralph Bryant (rbryant at gmail dot com)
+
+Size: 779 MB
+
+Set:
+Disc One
+01. Ashes of American Flags
+02. Remember The Mountain Bed
+03. You Are My Face
+04. Muzzle of Bees
+05. Handshake Drugs
+06. Cars Can't Escape
+07. Pot Kettle Black
+08. A Shot in the Arm
+09. Side With The Seeds
+10. She's a Jar
+11. Impossible Germany
+12. California Stars 
+13. Summer Teeth
+14. A Magazine Called Sunset
+
+Disc Two:
+01. Via Chicago
+02. Jesus, etc.
+03. Walken
+04. I'm The Man Who Loves You
+Encore 1:
+05. Hate It Here
+06. Kingpin
+07. Passenger Side
+08. Heavy Metal Drummer
+09. Red-Eyed and Blue>
+10. I Got You (At The End of the Century)
+11. Monday>
+12. Outtasite (Outta Mind)
+Encore 2:
+13. I'm A Wheel
+
+FFP:
+wilco2008-03-09d1t01.flac:01a123ea266a76b712b3eb20d98a4302
+wilco2008-03-09d1t02.flac:b778e1a5f08fc9cfe0aa54d9091d79ec
+wilco2008-03-09d1t03.flac:eafaf1744e4cc94ba6c8253c7e9e36e9
+wilco2008-03-09d1t04.flac:fb428ac362a9e0764a15d41abee33c0c
+wilco2008-03-09d1t05.flac:91c86ce626679dbb6b25ba076d82b503
+wilco2008-03-09d1t06.flac:4d2fa6a2511362251fbf3e617f3dd714
+wilco2008-03-09d1t07.flac:4d315a0bcad3534e090fdbdf22404a03
+wilco2008-03-09d1t08.flac:4ee7d104e6153700df71138795eb183e
+wilco2008-03-09d1t09.flac:3a462a88179ce497df6fe27c550db1ee
+wilco2008-03-09d1t10.flac:bc0abb61dd11485f41ccc04a84f0529b
+wilco2008-03-09d1t11.flac:f733c152e9474b827e32196acb427cb3
+wilco2008-03-09d1t12.flac:1debcbd1f6e65b58728a4b48fd3814a0
+wilco2008-03-09d1t13.flac:37fe4b31255b9382210390a889c90e3a
+wilco2008-03-09d1t14.flac:0bc7e9524dbf4a9e5e7104278b085d82
+wilco2008-03-09d2t01.flac:b03b716bc248ae02a24e5388c024b032
+wilco2008-03-09d2t02.flac:10582bef62fc98a72d6195fee44863c5
+wilco2008-03-09d2t03.flac:04df819740fd6827d505358f59e97aeb
+wilco2008-03-09d2t04.flac:d0989d629926bc6a1ebd1f190802d5ce
+wilco2008-03-09d2t05.flac:2914016df95f48e28faf679b8aa72d43
+wilco2008-03-09d2t06.flac:06df8e1efa0ef72fe96d238b1d6b12b3
+wilco2008-03-09d2t07.flac:8f8de3f90815cc6f162f8d2efad1d0c6
+wilco2008-03-09d2t08.flac:9982d37d52c9b5dab0728344c4c3a5d1
+wilco2008-03-09d2t09.flac:f8b146b143b1ddaca21c5540fb6a3f9a
+wilco2008-03-09d2t10.flac:6e25b0b671d9942ed5e70a3174a34184
+wilco2008-03-09d2t11.flac:5e72da1d0a45fd77eb18628f7ebcfb8c
+wilco2008-03-09d2t12.flac:5084dcf0c0788677d6204be7e9b2b912
+wilco2008-03-09d2t13.flac:0e7973d68a46a19e48f8733462690495

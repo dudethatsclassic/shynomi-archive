@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pomona, CA",
       "venue": "The Fox Theater",
-      "notes": "Slavesound Omnis · mixter_",
+      "notes": "Slavesound Omnis \u00b7 mixter_",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -31,7 +31,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pomona, CA",
       "venue": "The Fox Theater",
-      "notes": "Schoeps MK4 · me, i'm not",
+      "notes": "Schoeps MK4 \u00b7 me, i'm not",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -44,7 +44,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pomona, CA",
       "venue": "The Fox Theater",
-      "notes": "Sony DSC-HX50V · jamm007",
+      "notes": "Sony DSC-HX50V \u00b7 jamm007",
       "version": "AUD",
       "format": "MP4"
     },
@@ -57,7 +57,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Grounds",
-      "notes": "Coachella · CA-11 · djdarkbeat",
+      "notes": "Coachella \u00b7 CA-11 \u00b7 djdarkbeat",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -70,7 +70,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Grounds",
-      "notes": "Coachella · M · Schoeps · unk",
+      "notes": "Coachella \u00b7 M \u00b7 Schoeps \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -83,7 +83,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Grounds",
-      "notes": "Coachella · YouTube HLS · cynicmuse",
+      "notes": "Coachella \u00b7 YouTube HLS \u00b7 cynicmuse",
       "version": "PRO",
       "format": "MKV"
     },
@@ -96,7 +96,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Pearl Theatre",
-      "notes": "Tascam DR-100MKII · sheldon j",
+      "notes": "Tascam DR-100MKII \u00b7 sheldon j",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -109,7 +109,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Pearl Theatre",
-      "notes": "Schoeps MK4 · me, i'm not",
+      "notes": "Schoeps MK4 \u00b7 me, i'm not",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -122,7 +122,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Monterey, CA",
       "venue": "Golden State Theater",
-      "notes": "SP-CMC-2 · notorioustimp",
+      "notes": "SP-CMC-2 \u00b7 notorioustimp",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -135,7 +135,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Monterey, CA",
       "venue": "Golden State Theater",
-      "notes": "Schoeps MK4 · me, i'm not",
+      "notes": "Schoeps MK4 \u00b7 me, i'm not",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -148,7 +148,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Regency Ballroom",
-      "notes": "AT-831s · notorioustimp",
+      "notes": "AT-831s \u00b7 notorioustimp",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -161,7 +161,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Regency Ballroom",
-      "notes": "PCM-M10 Internals · armogi",
+      "notes": "PCM-M10 Internals \u00b7 armogi",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -174,7 +174,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Regency Ballroom",
-      "notes": "Schoeps MK4 · me, i'm not",
+      "notes": "Schoeps MK4 \u00b7 me, i'm not",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -187,7 +187,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Regency Ballroom",
-      "notes": "Nokia 808 PureView phone · bill perry",
+      "notes": "Nokia 808 PureView phone \u00b7 bill perry",
       "version": "AUD",
       "format": "MP4"
     },
@@ -200,7 +200,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Paramount Theater",
-      "notes": "Nevaton MCE400 · mike b",
+      "notes": "Nevaton MCE400 \u00b7 mike b",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -213,7 +213,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Paramount Theater",
-      "notes": "Schoeps MK41 · taperbt",
+      "notes": "Schoeps MK41 \u00b7 taperbt",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -226,7 +226,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "notes": "CA-14c · jon g.",
+      "notes": "CA-14c \u00b7 jon g.",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -239,7 +239,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "notes": "DAT(M) · Sony ECM-717 · ryanj",
+      "notes": "DAT(M) \u00b7 Sony ECM-717 \u00b7 ryanj",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -252,7 +252,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "notes": "Schoeps MK4s · vikas bhatia",
+      "notes": "Schoeps MK4s \u00b7 vikas bhatia",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -265,7 +265,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theatre",
-      "notes": "Schoeps MK4s · tapeworm48",
+      "notes": "Schoeps MK4s \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -291,7 +291,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "House of Blues",
-      "notes": "DPA 4061 · bennyblanco",
+      "notes": "DPA 4061 \u00b7 bennyblanco",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -304,7 +304,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Montclair, NJ",
       "venue": "Wellmont Theatre",
-      "notes": "Zoom H2 · unsaneroot",
+      "notes": "Zoom H2 \u00b7 unsaneroot",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -330,7 +330,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Apollo Theater",
-      "notes": "Canon PowerShot SX260 · ninjaw p.b.",
+      "notes": "Canon PowerShot SX260 \u00b7 ninjaw p.b.",
       "version": "AUD (48k)",
       "format": "FLAC"
     },

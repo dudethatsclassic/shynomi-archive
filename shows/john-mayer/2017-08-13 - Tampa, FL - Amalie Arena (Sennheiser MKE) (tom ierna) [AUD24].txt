@@ -1,0 +1,14 @@
+John Mayer
+The Search For Everything Tour
+August 13, 2017
+Amalie Arena
+Tampa, FL
+
+Source:     Sennheiser MKE > MM-MBM w/60Hz Rolloff > Olympus LS-10 @ 48kHz/24bit
+Conversion: Olympus LS-10 > SoundStudio 3.51 > Max (Front End for FLAC 1.2.1)
+Taper:      Tom Ierna (tom@ierna.com)
+
+01 - Queen of California02 - Rosie03 - John Intros The Search for Everything04 - Belief Intro05 - Belief06 - Intro to Who Says07 - Who Says08 - Why Georgia09 - Rambling Intro to Your Body Is A Wonderland10 - Your Body Is A Wonderland11 - Rambling Intro to In Your Atmosphere12 - In Your Atmosphere13 - Free Fallin'14 - John Mayer Trio Intro Video15 - Who Did You Think I Was16 - Vultures17 - Wait Until Tomorrow
+18 - Intro to Helpless19 - Helpless20 - Intro to If I Ever Get Around to Living21 - If I Ever Get Around to Living22 - In the Blood23 - Intro to Slow Dancing in a Burning Room24 - Slow Dancing in a Burning Room25 - John Thanks Crowd, Introduces Band26 - Drum Intro to Waiting on the World to Change27 - Waiting on the World to Change28 - Crowd Cheers for Encore29 - Inner City Blues (Make Me Wanna Holler)30 - Moving On and Getting Over31 - Gravity32 - Crowd Cheers for Second Encore33 - Big Shirt34 - You're Gonna LIve Forever In Me35 - Theme from "The Search For Everything"
+
+Notes: Recorded Binaurally with matched Sennheiser MKEs through a Mintbox Battery Module (MM-MBM) with 60Hz Rolloff to an Olympus LS-10 @ 48kHz/24bit.

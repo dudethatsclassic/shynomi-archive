@@ -33,7 +33,8 @@ const ARTIST_DATA = {
       "venue": "Rugman's Youth Club - Whitesands",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Grundig Dynamic Mic · Alex Wilson"
+      "notes": "Grundig Dynamic Mic \u00b7 Alex Wilson",
+      "textFile": "1969-11-16 - Dumfries, Scotland - Rugman's Youth Club - Whitesands (Grundig Dynamic Mic) (alex wilson) [AUD].txt"
     },
     {
       "year": 1970,
@@ -46,7 +47,8 @@ const ARTIST_DATA = {
       "venue": "Kouzenthans",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1970-03-04 - Cologne, Germany - Kouzenthans (unk) [AUD].txt"
     },
     {
       "year": 1972,
@@ -59,7 +61,8 @@ const ARTIST_DATA = {
       "venue": "Winterland",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1972-03-10 - San Francisco, CA - Winterland - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1974,
@@ -72,7 +75,8 @@ const ARTIST_DATA = {
       "venue": "Civic Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1974-02-02 - Pittsburgh, PA - Civic Arena - ANA(2) (unk) [AUD].txt"
     },
     {
       "year": 1975,
@@ -85,7 +89,8 @@ const ARTIST_DATA = {
       "venue": "International Ampitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "stratcat58 · Unknown"
+      "notes": "stratcat58 \u00b7 Unknown",
+      "textFile": "1975-07-16 - Chicago, IL - International Ampitheatre - ANA(1) (unk) (stratcat58) [AUD].txt"
     },
     {
       "year": 1975,
@@ -98,7 +103,8 @@ const ARTIST_DATA = {
       "venue": "Asbury Park Convention Hall",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Thir13en Remaster"
+      "notes": "Thir13en Remaster",
+      "textFile": "1975-08-06 - Asbury Park, NJ - Asbury Park Convention Hall (thir13en remaster) [SBD].txt"
     },
     {
       "year": 1976,
@@ -111,7 +117,8 @@ const ARTIST_DATA = {
       "venue": "Selland Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown · R.c. · Krw_co Transfer"
+      "notes": "Unknown \u00b7 R.c. \u00b7 Krw_co Transfer",
+      "textFile": "1976-11-09 - Fresno, CA - Selland Arena - ANA(M) (unk) (r.c.) (krw_co transfer) [AUD].txt"
     },
     {
       "year": 1977,
@@ -137,7 +144,8 @@ const ARTIST_DATA = {
       "venue": "Selland Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown · R.c. · Krw_co Transfer"
+      "notes": "Unknown \u00b7 R.c. \u00b7 Krw_co Transfer",
+      "textFile": "1978-09-22 - Fresno, CA - Selland Arena - ANA(M) (unk) (r.c.) (krw_co transfer) [AUD].txt"
     },
     {
       "year": 1983,
@@ -150,7 +158,7 @@ const ARTIST_DATA = {
       "venue": "Olympen",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M · Peter"
+      "notes": "M \u00b7 Peter"
     },
     {
       "year": 1983,
@@ -163,7 +171,8 @@ const ARTIST_DATA = {
       "venue": "Olympen",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony Walkman · Tung Pung"
+      "notes": "Sony Walkman \u00b7 Tung Pung",
+      "textFile": "1983-08-23 - Lund, Sweden - Olympen (Sony Walkman) (tung pung) [AUD].txt"
     },
     {
       "year": 1984,
@@ -189,7 +198,8 @@ const ARTIST_DATA = {
       "venue": "Cincinnati Gardens",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D3 · Govner"
+      "notes": "Sony D3 \u00b7 Govner",
+      "textFile": "1992-10-20 - Cincinnati, OH - Cincinnati Gardens (Sony D3) (govner) [AUD].txt"
     },
     {
       "year": 2001,
@@ -202,7 +212,8 @@ const ARTIST_DATA = {
       "venue": "The Docks  - Ozzfest 2001",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "2001-07-24 - Toronto, ON - The Docks  - Ozzfest 2001 (unk) [AUD].txt"
     },
     {
       "year": 2013,
@@ -215,7 +226,8 @@ const ARTIST_DATA = {
       "venue": "Forum K?benhavn",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H2 · Davemurray"
+      "notes": "Zoom H2 \u00b7 Davemurray",
+      "textFile": "2013-11-26 - Copenhagen, Denmark  - Forum K\u00f8benhavn (Zoom H2) (davemurray) [AUD].txt"
     },
     {
       "year": 2025,
@@ -228,7 +240,8 @@ const ARTIST_DATA = {
       "venue": "",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "2025-07-05 - Villa Park Birmingham, UK - Back to the Beginning (Zoom H2) (unk) [AUD].txt"
     },
     {
       "year": 2025,

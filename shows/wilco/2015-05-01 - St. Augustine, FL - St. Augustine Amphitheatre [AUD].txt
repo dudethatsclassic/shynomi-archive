@@ -1,0 +1,98 @@
+Wilco
+5-1-2015
+St. Augustine Amphitheatre
+St. Augustine, FL
+
+Source: Busman BSC1 (Hypercard caps) > Grace Design Lunatec V2 > Tascam DR-100mkII (24/48) > SD Card
+Location: FOB/DFC/6' High (Back of GA Floor)
+Transfer: Audacity (Normalizing/Fades) > dBpoweramp (Conversion to 16/44.1) > CD Wave (Tracking) > Trader's Little Helper (Fix SBEs/FLAC Level 8)
+Recorded & Transferred by mccordo
+
+One Set
+1. Crowd/Intro
+2. Via Chicago
+3. Handshake Drugs
+4. I Am Trying to Break Your Heart
+5. One Wing
+6. Hummingbird
+7. Panthers
+8. Pot Kettle Black
+9. Tweedy banter - song request
+10. Cars Can't Escape
+11. Tweedy banter - Mermaid Avenue song dedication
+12. Secrets of the Sea
+13. Heavy Metal Drummer
+14. I'm the Man Who Loves You
+15. (Was I) In Your Dreams
+16. Tweedy banter - Alright
+17. Jesus, Etc.
+18. Born Alone
+19. Dark Neon
+20. Impossible Germany
+21. Poor Places >
+22. Art of Almost
+23. Airline to Heaven
+24. A Magazine Called Sunset
+25. Box Full of Letters
+26. Camera
+27. Dawned On Me
+28. A Shot in the Arm
+(Encore)
+29. Crowd
+30. Monday
+31. Hoodoo Voodoo*
+(Encore II)
+32. Crowd/Thanks
+33. California Stars^
+34. Tweedy banter - Anniversary of Uncle Tupelo's last show
+35. We've Been Had^
+36. Give Back the Key To My Heart^+
+37. Misunderstood^
+38. Crowd/Outro
+
+Notes:
+* - with shirtless crew member on cowbell
+^ - full band acoustic
++ - Doug Sahm cover
+
+Royal Thunder opened. Second encore was performed unamplified with the entire band on acoustic instruments played into mics arranged at the front of the stage. I did not boost the recording levels for the second encore, so the levels are lower during that portion. Many thanks to Wilco and the St. Augustine Amphitheatre for allowing the recording of this show.
+
+FFP:
+Wilco2015-05-01t01.flac:0dcb620d968bd619306f8a3d075b1ba1
+Wilco2015-05-01t02.flac:cca9bd46682b5636da1ff285609c0fa8
+Wilco2015-05-01t03.flac:5509551af3ec5d023e73164ee7ddc22d
+Wilco2015-05-01t04.flac:9721855e61b5a5ae22297b772c34881c
+Wilco2015-05-01t05.flac:59ebbcadf4e55ff3d639ae2a9080df04
+Wilco2015-05-01t06.flac:f9f6d1c8d7b68711062713fb4193e491
+Wilco2015-05-01t07.flac:b76ac0f3cf483598163c5cc4d505ff2d
+Wilco2015-05-01t08.flac:616f763ad5bc99368bfacb2eab5e5ff5
+Wilco2015-05-01t09.flac:665d3955c346868a865db30dc346331f
+Wilco2015-05-01t10.flac:0027e62992645072f628b0bb54f79fd2
+Wilco2015-05-01t11.flac:d984cba83dcc1c6d21d8da0c45766187
+Wilco2015-05-01t12.flac:0b50f2b50c28d3678571a5663e27a874
+Wilco2015-05-01t13.flac:45a6a304c546fb1977faeb62db7256be
+Wilco2015-05-01t14.flac:89a45b1fb264a5ffec2c3b5b7a3460d5
+Wilco2015-05-01t15.flac:b1cd356148279fc1ba9dc3963f520414
+Wilco2015-05-01t16.flac:c56cc5bddbc3ca884bb6b29d4570ba19
+Wilco2015-05-01t17.flac:eee32a6ab2e4463435f004e2bd082e5a
+Wilco2015-05-01t18.flac:4d8c2fb633114480e3946da5b16ec27a
+Wilco2015-05-01t19.flac:e9f812f15d331bbfe796da4140c86c9a
+Wilco2015-05-01t20.flac:b40ef19c92aee43c46f5928e3ea182df
+Wilco2015-05-01t21.flac:740d970e1e14182bcb8eadc5da050e05
+Wilco2015-05-01t22.flac:ffb897db2ae690eb268c93acd1a16116
+Wilco2015-05-01t23.flac:03f73b83fca00f639caf4272ee2c2410
+Wilco2015-05-01t24.flac:e1d3b144f8942834ad3aa7f852e51614
+Wilco2015-05-01t25.flac:d9913929db7e769c22eb8a721f5fa49a
+Wilco2015-05-01t26.flac:aba66c6248c9f545576ec1521a6a32a7
+Wilco2015-05-01t27.flac:f364b43ce104687a9c6b26bcaa521307
+Wilco2015-05-01t28.flac:a3009db73f5fb2b5feb62ddf57c4541a
+Wilco2015-05-01t29.flac:0b613c7f452d10df8d6e88d91fe8cc37
+Wilco2015-05-01t30.flac:bd58951c5b340e75b0ff602bf3c2b52a
+Wilco2015-05-01t31.flac:a6fd74119db7c95aef223f80d4dab317
+Wilco2015-05-01t32.flac:23c55e7bf44a3aa6a7f5672a77bca0d7
+Wilco2015-05-01t33.flac:a74f8e3a71085fa79d07119e1eb9c0bf
+Wilco2015-05-01t34.flac:669436f1a10b1a314f489064e619ada1
+Wilco2015-05-01t35.flac:eac45b715df7454753d5f1a4315ce25d
+Wilco2015-05-01t36.flac:cf16ac8008f45c3916dbf3c001e8a22d
+Wilco2015-05-01t37.flac:ff11242cf050c58ed63ac10f81f50c5a
+Wilco2015-05-01t38.flac:72adefb911d4ef5e14f1180d0c60df9d

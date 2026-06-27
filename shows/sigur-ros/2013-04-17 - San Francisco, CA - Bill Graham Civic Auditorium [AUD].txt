@@ -1,0 +1,34 @@
+Sigur Ros
+
+April 17, 2013
+
+Bill Graham Civic Auditorium
+San Francisco, CA
+
+AK40 >> LC3 >> KM100 >> Tinybox >> M-10 >> WAV @ 24bit/44KHz
+
+Adobe Audition 3.0 >> Ozone 4 VST >> multiband exciter >> loudness maximizer >> stereo image >> dither to 16 bit (MBIT+) >> FLAC conversion with TLH
+
+01 (intro)
+02 Yfirboro
+03 Ny Batteri
+04 Vaka
+05 Hrafntinna
+06 Saeglopur
+07 Svefn-G-Englar
+08 Varuo
+09 Hoppipola > Med Blodnasir
+10 Olsen Olsen
+11 Kveikur
+12 Festival
+13 Brennisteinn
+
+encore
+14 Glosoli
+15 Popplagid
+
+
+http://www.sigur-ros.co.uk/
+
+
+

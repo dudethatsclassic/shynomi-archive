@@ -1,0 +1,114 @@
+John Mayer
+Philips Arena
+Atlanta, Georgia
+3/17/2010
+
+Source: Schoeps CCM4V'S(din)>Lunatec V2>Benchmark AD2K>
+Sound Devices 722 (24/48)
+SBD/DFC/KFC/ZFC/AARP 7' High
+DSP: Sound Devices 722>Sound Forge 9.0>CD Wave>flac(16)
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Disc I 
+
+01 Crowd/Jam >
+02 Heartbreak Warfare >
+03 No Such Thing
+04 Vultures
+05 Perfectly Lonely
+06 Slow Dancin' In A Burning Rain
+07 Assassin
+08 *1983 >
+09 *My Stupid Mouth
+10 *Saint Patrick's Day
+11 Ain't No Sunshine
+
+Disc II 
+
+01 Banter
+02 You Wanna Take It Higher >
+03 Drum Solo >
+04 Jam >
+05 #Waitin' On The World To Change
+06 Banter
+07 Bigger
+08 Just Like A Woman >
+09 Half Of My Heart >
+10 Don't Stop Believing
+11 Banter
+12 Band Introductions
+13 Gravity >
+14 I've Got Dreams To Remember
+Encore:
+15 Jam >
+16 Who Says
+17 Georgia
+
+* John Mayer Solo Acoustic
+# With Michael Franti On Vocals
+
+Flac Fingerprint 
+
+johnmayer2010-03-17d01t01.flac:a20c12195e8f2b0a3d466467e5bb89fa
+johnmayer2010-03-17d01t02.flac:eebec090e956575cbf7d26670c4baa1a
+johnmayer2010-03-17d01t03.flac:31cf860345aacf4e362b710773a6fd49
+johnmayer2010-03-17d01t04.flac:bf1910a3fa99044c7889d1f007e17519
+johnmayer2010-03-17d01t05.flac:9c854de8216407347a7bb84d9ada2ddd
+johnmayer2010-03-17d01t06.flac:37fb8a394495fcc68bd380645301fb52
+johnmayer2010-03-17d01t07.flac:5ce5fef0d995304b3521e23e38e906b3
+johnmayer2010-03-17d01t08.flac:555db672a08ee4a0815ae3231e94faf0
+johnmayer2010-03-17d01t09.flac:073dbd25e9d426ce4f2d426661c86358
+johnmayer2010-03-17d01t10.flac:a41eb51d94d15d1e1ee6b2f2663b1489
+johnmayer2010-03-17d01t11.flac:a92cdee02bf3beb8ed573fe4c6c7813d
+johnmayer2010-03-17d02t01.flac:351b5916914311eed6a461790f65d410
+johnmayer2010-03-17d02t02.flac:0571bbcb34fefe3f3c9030ed504d93a5
+johnmayer2010-03-17d02t03.flac:6ae89eaa9f598e36a62d612bedbd4fe9
+johnmayer2010-03-17d02t04.flac:31bc9d1ca67055063543234066b5e0af
+johnmayer2010-03-17d02t05.flac:f627d7ff93a225a27c13e4725fcd1ca8
+johnmayer2010-03-17d02t06.flac:a036085123424fc2cec9c0246ef44de3
+johnmayer2010-03-17d02t07.flac:8abb46721d28fe66e99da8b916a6287e
+johnmayer2010-03-17d02t08.flac:5c56e84cc9949fe5d99ced4bfb366656
+johnmayer2010-03-17d02t09.flac:ca0b933649ea2502cee089a05754e863
+johnmayer2010-03-17d02t10.flac:24ddefe2b6f746a3f30d8d7e75f8de8b
+johnmayer2010-03-17d02t11.flac:094f1c4fa85d14a3930b558efc46054d
+johnmayer2010-03-17d02t12.flac:70b44368dd16655f0eb52313802dd7d2
+johnmayer2010-03-17d02t13.flac:1a5704f974c52f8f010557fc9d8546ef
+johnmayer2010-03-17d02t14.flac:020a9ec158adc63dc699c2e235ccb647
+johnmayer2010-03-17d02t15.flac:306ad28d8fb7378c9c1b9be5019870d8
+johnmayer2010-03-17d02t16.flac:66c80472b7b86f8b3a804ec8ca3e9e40
+johnmayer2010-03-17d02t17.flac:66f70a8e307c1d9d14d3aebe6cc4a7e8
+
+Shntool 
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:49.05        8655404 B   ---   --   ---xx   flac  0.3573  johnmayer2010-03-17d01t01.flac
+     4:54.65       52014524 B   ---   --   ---xx   flac  0.5593  johnmayer2010-03-17d01t02.flac
+     4:54.03       51868700 B   ---   --   ---xx   flac  0.5235  johnmayer2010-03-17d01t03.flac
+     6:59.26       73972796 B   ---   --   ---xx   flac  0.4934  johnmayer2010-03-17d01t04.flac
+     6:23.33       67638860 B   ---   --   ---xx   flac  0.4891  johnmayer2010-03-17d01t05.flac
+     6:37.68       70190780 B   ---   --   ---xx   flac  0.4733  johnmayer2010-03-17d01t06.flac
+     9:32.04      100910252 B   ---   --   ---xx   flac  0.5134  johnmayer2010-03-17d01t07.flac
+     2:10.71       23099036 B   ---   --   ---xx   flac  0.4572  johnmayer2010-03-17d01t08.flac
+     2:40.12       28252268 B   ---   --   ---xx   flac  0.5067  johnmayer2010-03-17d01t09.flac
+     6:24.21       67787036 B   ---   --   ---xx   flac  0.4869  johnmayer2010-03-17d01t10.flac
+     7:04.45       74899484 B   ---   --   ---xx   flac  0.4630  johnmayer2010-03-17d01t11.flac
+     0:31.57        5602508 B   ---   --   ---xx   flac  0.3971  johnmayer2010-03-17d02t01.flac
+     0:43.54        7712252 B   ---   --   ---xx   flac  0.4581  johnmayer2010-03-17d02t02.flac
+     2:06.50       22344044 B   ---   --   ---xx   flac  0.5110  johnmayer2010-03-17d02t03.flac
+     2:23.07       25241708 B   ---   --   ---xx   flac  0.5306  johnmayer2010-03-17d02t04.flac
+     8:34.08       90688460 B   ---   --   ---xx   flac  0.4796  johnmayer2010-03-17d02t05.flac
+     1:22.00       14464844 B   ---   --   ---xx   flac  0.3808  johnmayer2010-03-17d02t06.flac
+     5:36.00       59270444 B   ---   --   ---xx   flac  0.5123  johnmayer2010-03-17d02t07.flac
+     1:05.53       11590700 B   ---   --   ---xx   flac  0.3528  johnmayer2010-03-17d02t08.flac
+     7:38.08       80810060 B   ---   --   ---xx   flac  0.4739  johnmayer2010-03-17d02t09.flac
+     3:00.14       31784972 B   ---   --   ---xx   flac  0.5119  johnmayer2010-03-17d02t10.flac
+     1:57.06       20652956 B   ---   --   ---xx   flac  0.4394  johnmayer2010-03-17d02t11.flac
+     1:58.41       20911676 B   ---   --   ---xx   flac  0.4294  johnmayer2010-03-17d02t12.flac
+     4:17.61       45478316 B   ---   --   ---xx   flac  0.4438  johnmayer2010-03-17d02t13.flac
+     5:39.03       59806700 B   ---   --   ---xx   flac  0.5157  johnmayer2010-03-17d02t14.flac
+     0:47.02        8295548 B   ---   --   ---xx   flac  0.3713  johnmayer2010-03-17d02t15.flac
+     3:36.59       38241212 B   ---   --   ---xx   flac  0.4514  johnmayer2010-03-17d02t16.flac
+     6:13.30       65867804 B   ---   --   ---xx   flac  0.5085  johnmayer2010-03-17d02t17.flac
+   116:01.56     1228053344 B                            0.4870  (28 files)
+

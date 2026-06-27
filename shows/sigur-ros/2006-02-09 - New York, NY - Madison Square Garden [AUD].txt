@@ -1,0 +1,67 @@
+Sigur Ros
+2006-02-09
+The Theatre at Madison Square Garden
+New York, NY  USA
+
+Master Audience Recording
+Section 204 Row H, Seat 13,
+approximately 75 feet directly in front of left PA speaker
+
+Core Sound Cardiods > M-Audio Microtrack 24/96 > .wav > 
+Soundforge* > CDWave (tracking) > Flac Frontend (level 7, 
+align sector boundaries) > flac
+
+Soundforge was used for set fades, level boost, and minor
+crowd noise editing.
+
+The sound quality in the venue was outstanding.  The large theatre
+was easily filled by the sound amplification, and the separation of
+instruments was superb.  Its a pleasure recording sound of this 
+high quality.  There is some talking near the taper, but its mostly
+pertinent commentary and no music is interrupted.
+
+recorded and edited by
+danlynch 2006-02-10
+http://bjorklossless.goudwater.nl
+
+
+Tracklist:
+01  Takk/Glósóli
+02  Ný Batterí
+03  Saeglopur
+04  Gong
+05  Andvari
+06  Hoppípolla
+07  Meo Blódnasir
+08  Sé Lest
+09  Olsen Olsen
+10  Viõrar Vel Til Loftárasa
+11  Svo Hljótt
+12  Heysátan
+Encores:
+13  Starálfur
+14  Hafssól
+15  Untitled #8 (Popplagið)
+
+
+thanks to the Sigur Ros message board for 
+setlist assistance:
+http://www.sigur-ros.co.uk/board/index.php
+
+
+Flac Fingerprints:
+SigurRos2006-02-09_AudienceMaster_t01.flac:71e48ee8ea2ed9e9cc8161ad766aecdc
+SigurRos2006-02-09_AudienceMaster_t02.flac:9f064e3c72d64b0c8af14f21625bce5b
+SigurRos2006-02-09_AudienceMaster_t03.flac:68d5ab32b707ab970801f3b31d84fd54
+SigurRos2006-02-09_AudienceMaster_t04.flac:188f6dcb0e60b9ab8ece952d7cb06768
+SigurRos2006-02-09_AudienceMaster_t05.flac:748d0c413763311b5e1640099df8bbb9
+SigurRos2006-02-09_AudienceMaster_t06.flac:53a1cffbec9e9907adc4c48df3ff5c64
+SigurRos2006-02-09_AudienceMaster_t07.flac:41e6a7307cd602a6d37471bf70956c20
+SigurRos2006-02-09_AudienceMaster_t08.flac:241a213838b8e121924b01b1acf32605
+SigurRos2006-02-09_AudienceMaster_t09.flac:3c9314e8587231115b88217263b681cb
+SigurRos2006-02-09_AudienceMaster_t10.flac:85c394a6b367bff0a3578d1db55912a9
+SigurRos2006-02-09_AudienceMaster_t11.flac:8ea8c871e4f1e3e8014a2c70a0c8c3ab
+SigurRos2006-02-09_AudienceMaster_t12.flac:f6bab648e5c14a0f533d551c2925fe53
+SigurRos2006-02-09_AudienceMaster_t13.flac:ca23127bc0fad603db1e9a986dd91caa
+SigurRos2006-02-09_AudienceMaster_t14.flac:251b8ce98c369abe6add378b67f2e3cb
+SigurRos2006-02-09_AudienceMaster_t15.flac:cbe3df0b88fd402f02687b4379f1bdc7

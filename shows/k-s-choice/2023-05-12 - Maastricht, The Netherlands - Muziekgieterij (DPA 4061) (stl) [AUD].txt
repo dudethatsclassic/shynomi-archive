@@ -1,0 +1,45 @@
+K's Choice
+
+Muziekgieterij, Maastricht, Netherlands
+May 12, 2023
+
+Taper: stl 
+
+Lineage: DPA4061 Core Omnis w/Softboost Grid -> DPA D:VICE MMA-A (low pass filter -80hz) -> iPhone 12 Mini (96/24) -> iZotope RX11 (Declick/Azimuth/Music Rebalance to reduce audience noise - Ozone 11 EQ/Clarity/Tonal Balance Control 2/Maximizer - Resample 44/16) -> FLAC -> xACT (SBE/FFP/Tags)
+
+Position: Balcony right side oft stage directly in front of the right PA stack
+
+Tracks: 
+
+01 - Intro 1:37
+02 - Everything For Free 3:42
+03 - Bag Full Of Concrete 4:08
+04 - Perfect Scar 3:56
+05 - Almost Happy 4:12
+06 - If This Isn't Right 3:36
+07 - Come Live The Life 4:10
+08 - Time Is A Parasit 3:15
+09 - Echo Mountain 4:33
+10 - Not An Addict 7:15
+11 - Love Is Letting Go 2:48
+12 - Surrender 3:49
+13 - The Phantom Cowboy 4:28
+14 - Woman 2:58
+15 - Live For Real 3:52
+16 - Brother 4:20
+17 - I Was Wrong About Everything 3:09
+18 - Believe 3:41
+19 - I Will Cary You 4:40
+20 - Encore Break 2:21
+21 - Another Year 4:02
+22 - We Are The Universe 4:23
+23 - We Are Glaciers 6:21
+24 - Outro 1:22
+
+Total 1:32:56
+
+Comments: 
+
+Excellent show. Good audience interaction, but in a very positive way. Always love their shows. 
+
+Published under the following license: WTFPL – Do What the Fuck You Want to Public License (www.wtfpl.net) - but remember: if you try to make money with my recordings, you lose your karma.

@@ -1,0 +1,102 @@
+Dave Matthews Band
+Ameris Bank Amphitheatre
+Alpharetta, Georgia
+5/15/2026
+
+Source: Schoeps CCM4'S>Sound Devices Mix-Pre 6 II (48/32)
+BOB/DRFC/KFC/ZFC/AARP Right ADA Section, Behind Section 101, Seat 8, 8 1/2' High
+DSP: Sound Devices Mix-Pre 6 II>Sound Forge 18.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000
+Recorded By: Z-Man
+Seeded By: Z-Man
+Taper's Assistant: Andrew
+
+Show #118 Of 2025
+
+A Team Dirty South And Home Team Recording
+
+Disc I 
+
+01 Why I Am 
+02 Lie In Our Graves 
+03 American Babies 
+04 Kit Kat Jam 
+05 Dreamgirl
+06 One Sweet World
+07 Virginia In The Rain 
+08 Don't Drink The Water 
+09 Monsters
+10 Typical Situation
+11 *For What It's Worth 
+12 Dancing Nancies 
+13 The Best Of What's Around 
+14 Band Introductions/Banter
+15 Mercy 
+16 #41
+17 What You Are 
+Encore:
+18 @Peace On Earth
+19 Lie In Our Graves Reprise
+20 Pantala Naga Pampa >
+21 Pig
+
+* First Time Played
+@ Dave Solo
+
+Dave Matthews - Acoustic Guitar, Electric Guitar And Vocals
+Tim Reynolds - Electric Guitar
+Steffan Lassard - Bass
+Buddy Strong - Keyboards And Vocals
+Jeff Coffin - Saxophone, Flute, Clarinet, And Vocals
+Rashawn Ross - Trumpet And Vocals
+Carter Buford - Drums 
+
+dave2026-05-15d01t01.flac:e4b61454b3e89f3f8a3041d1849a3a1c
+dave2026-05-15d01t02.flac:7631fa0c05b8fadf6773e064aa37e523
+dave2026-05-15d01t03.flac:fe4b8faed19b5856355b995e85ae89b8
+dave2026-05-15d01t04.flac:a3bd48f64fa06dfe82e05442e6499d71
+dave2026-05-15d01t05.flac:e3875b2fbe47d6696ad576739dc45410
+dave2026-05-15d01t06.flac:fb67d4339175b3808dc65239e18cf5e5
+dave2026-05-15d01t07.flac:973222616c6f34d8ea08924529af4e57
+dave2026-05-15d01t08.flac:249e4d1cb3b29873fb7aa49f4c04755d
+dave2026-05-15d01t09.flac:638f62d01b7c9431f2ace56cc36471b4
+dave2026-05-15d01t10.flac:1ee90279624fd8147b684be335b4110a
+dave2026-05-15d01t11.flac:5a0f99d77bf61e5423a850213160d249
+dave2026-05-15d01t12.flac:25a57f59714d08186daa3a74daae8cc8
+dave2026-05-15d01t13.flac:33a1acee03a7583d0059ca72885c692a
+dave2026-05-15d01t14.flac:4835ca5c8aeee5f024be0a0540111c80
+dave2026-05-15d01t15.flac:66ab3ec299b8266df65cf3f4886e0e0a
+dave2026-05-15d01t16.flac:8fa0255698d00aa46ca7a58e317425af
+dave2026-05-15d01t17.flac:1de4c24074185851094e35f86262beb5
+dave2026-05-15d01t18.flac:4b38668f2a141d5f2930c9c9b8ef2ec9
+dave2026-05-15d01t19.flac:8ec8d57490496fbb30a1fe5b8c5eecc7
+dave2026-05-15d01t20.flac:f97df00596030dc7b98ec911cb71b7c8
+dave2026-05-15d01t21.flac:0b1e64bfd50c64ad1198218a9612634b
+
+  length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:04.12       53653868 B   ---   --   ---xx   flac  0.5135  dave2026-05-15d01t01.flac
+    10:17.47      108949388 B   ---   --   ---xx   flac  0.5410  dave2026-05-15d01t02.flac
+     5:55.73       62793740 B   ---   --   ---xx   flac  0.5307  dave2026-05-15d01t03.flac
+     4:35.01       48512396 B   ---   --   ---xx   flac  0.5319  dave2026-05-15d01t04.flac
+     5:03.55       53578604 B   ---   --   ---xx   flac  0.5062  dave2026-05-15d01t05.flac
+     8:22.23       88606940 B   ---   --   ---xx   flac  0.5075  dave2026-05-15d01t06.flac
+     7:57.45       84248684 B   ---   --   ---xx   flac  0.4638  dave2026-05-15d01t07.flac
+     8:11.20       86659484 B   ---   --   ---xx   flac  0.5498  dave2026-05-15d01t08.flac
+     5:42.45       60434684 B   ---   --   ---xx   flac  0.5509  dave2026-05-15d01t09.flac
+    13:40.58      144784460 B   ---   --   ---xx   flac  0.5000  dave2026-05-15d01t10.flac
+     3:47.17       40082828 B   ---   --   ---xx   flac  0.4793  dave2026-05-15d01t11.flac
+    11:30.27      121779548 B   ---   --   ---xx   flac  0.5115  dave2026-05-15d01t12.flac
+     6:11.49       65559692 B   ---   --   ---xx   flac  0.5693  dave2026-05-15d01t13.flac
+     2:13.05       23473004 B   ---   --   ---xx   flac  0.4422  dave2026-05-15d01t14.flac
+     6:29.29       68687852 B   ---   --   ---xx   flac  0.4290  dave2026-05-15d01t15.flac
+    10:03.65      106522124 B   ---   --   ---xx   flac  0.5244  dave2026-05-15d01t16.flac
+     6:07.36       64823516 B   ---   --   ---xx   flac  0.5336  dave2026-05-15d01t17.flac
+     5:43.46       60613436 B   ---   --   ---xx   flac  0.4085  dave2026-05-15d01t18.flac
+     1:35.22       16809788 B   ---   --   ---xx   flac  0.4902  dave2026-05-15d01t19.flac
+     0:42.66        7564076 B   ---   --   ---xx   flac  0.5589  dave2026-05-15d01t20.flac
+     8:25.36       89166716 B   ---   --   ---xx   flac  0.5286  dave2026-05-15d01t21.flac
+   137:41.27     1457304828 B                            0.5103  (21 files)
+
+
+
+

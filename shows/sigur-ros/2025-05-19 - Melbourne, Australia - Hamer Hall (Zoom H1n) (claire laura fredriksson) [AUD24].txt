@@ -1,0 +1,85 @@
+Sigur Rós with the Melbourne Symphony Orchestra
+Hamer Hall
+Melbourne, Australia
+May 19, 2025
+
+Taped by Claire Laura Fredriksson (CLF, choc e_Claire, fuzzbluerain, etc.)
+Specs: Zoom H1n internal mics, bass rolloff @ 80 Hz, positioned on leg
+Position: seat M40 on the balcony (long way back, dead centre)
+Lineage: 24/48 .wav > DarkAudacity (fades, tracking, applause down by -12, whole show up by +8) > TLH (level 8 FLAC) > foobar2000 (tagging)
+
+Track listing:
+----------Set 1----------
+ 1. [set 1 intro]    3:12
+ 2. Blóðberg         7:54
+ 3. Ekki múkk        7:10
+ 4. Fljótavík >      3:29
+ 5. 8                5:18
+ 6. Von              6:58
+ 7. Andvari          5:21
+ 8. Starálfur        6:07
+ 9. Dauðalogn >      4:43
+10. Varðeldur        7:08
+    set total       57:20
+----------Set 2----------
+ 1. [set 2 intro]    1:21
+ 2. Vaka             7:06
+ 3. Samskeyti        6:37
+ 4. Ylur             5:37
+ 5. Skel             4:35
+ 6. All Alright      5:51
+ 7. Álafoss          6:07
+ 8. Sé lest          8:08
+ 9. Hoppípolla       4:21
+10. Avalon           3:12
+11. [outro]          3:25
+    set total       56:20
+-------------------------
+    total         1:53:40
+
+Personnel:
+Jón Þór "Jónsi" Birgisson – vocals, guitar, keyboards
+Georg "Goggi" Hólm – bass guitar, keyboards
+Kjartan "Kjarri" Sveinsson – piano, keyboards
+Ólafur Björn "Óbó" Ólafsson – drums, percussion
+Robert Ames - conductor
+Melbourne Symphony Orchestra - strings, horns, percussion
+
+Review:
+The last time Sigur Rós came to Australia, in 2022, I had to miss out because I'd already spent
+enough money on big arena shows around that time. But if you'd told me then that they were going to
+come back and play with an entire orchestra on stage around them, I would have sacrificed seeing
+their regular lineup in a heartbeat. Having heard about their various orchestral performances in
+2023 and 2024, I was very much hoping it would end up making its way to Australian shores, and it
+was an instant buy when the tickets went on sale last year.
+
+I arrived at the arts centre early and had an anxious wait to be let in to my seat (which was
+directly in line with the middle of the stage - kudos, past Claire), hoping that the MSO security
+would be lax enough for me to tape (they had many signs everywhere saying "no photography or
+recording", but once I was in my seat in the dark they couldn't really do anything about it). The
+orchestra came on a couple of minutes late, tuned up, and were then accompanied by the Icelandic
+quartet at centre stage (except for the drummer at the back, who has a seemingly very easy job at
+these shows) to rapturous applause. The performance sounded great right from the beginning, it was
+clear that they've gotten their practice in and sound great at every show now. It took a little bit
+of time to adjust to Jónsi's vocals being accompanied by such a dense spectrum of sound, but we
+were pretty golden beyond then.
+
+They played two sets, nine songs each, with seven of their eight-ish albums represented in the
+setlist (sorry, Kveikur fans, this show isn't allowed to scare people - I wish it was). It was a
+well-paced show, too, with a strong sense of flow between the hits from older records and the more
+fitting new material. 'Starálfur' was my highlight of the first set, naturally, but the second was
+the better one - opening with two songs from the untitled album and closing with 'Sé lest' (the
+marching band horn section was a delight to hear live) into a triumphant 'Hoppípolla' (which was
+the loudest song of the show by far, and one where the conductor was practically leaping off his
+stand).
+
+I hadn't learned my lesson from the Eiko Ishibashi show, and so I had to boost the recording volume
+up quite a bit in post-production after reducing all of the claps - it still sounds pretty good,
+except perhaps at the start of 'Avalon', which the orchestra started while we were clapping the
+main band off. Hopefully you enjoy this one!
+
+Requests:
+Please don't sell this - nobody, tapers or artists, will like you if you do.
+Please keep this info file around if you post it anywhere else (which you're welcome to do!)
+If you give this recording a remaster/matrix treatment, please message me before you do so.
+I can be reached on Twitter (fuzzybluerain) or Dimeadozen (fuzzbluerain) most easily.

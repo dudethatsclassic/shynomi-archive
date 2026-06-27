@@ -1,0 +1,98 @@
+Wilco
+
+Ferrara, IT
+Piazza Castello
+July 4, 2016
+
+Audience recording
+Neumann km140 > Denecke PS-2 > Marantz PMD661 (16 bit - 44.1 KHz) > Cool Edit > CD Wave
+taper: romeo 
+
+CD 1 (1:05:46)
+01 - More...
+02 - Random Name Generator
+03 - I Am Trying to Break Your Heart
+04 - Art of Almost
+05 - Pickled Ginger
+06 - Hummingbird
+07 - Handshake Drugs
+08 - Cold Slope
+09 - King of You
+10 - Via Chicago
+11 - Spiders (Kidsmoke)
+12 - Jesus, Etc.
+13 - Box Full of Letters
+
+CD 2 (46:22)
+14 - Heavy Metal Drummer
+15 - I'm the Man Who Loves You
+16 - Dawned On Me
+17 - Impossible Germany
+18 - The Late Greats
+19. (encore break) 
+20 - Misunderstood
+21 - War On War
+22 - I'm Always In Love
+23 - California Stars
+24 - A Shot in the Arm
+
+total time: 1:52:09
+
+Jeff Tweedy
+John Stirratt
+Glenn Kotche
+Mikael Jorgensen
+Nels Cline
+Pat Sansone
+
+md5 file
+5c9a0325af451135b3c558b015c2cf74 *wilco2016-07-04-km140-t01.flac
+606c057a340aa3e1c1725f6356c067a6 *wilco2016-07-04-km140-t02.flac
+719413241cd0368793cec6ad8263651d *wilco2016-07-04-km140-t03.flac
+98e475048009b69ed8011a4ec563e63f *wilco2016-07-04-km140-t04.flac
+9b848b41239a806528704ac52206637c *wilco2016-07-04-km140-t05.flac
+d2dfde83ec42c348ac19e14394293031 *wilco2016-07-04-km140-t06.flac
+b7c517cc2f0b867568a18cde2007cc8d *wilco2016-07-04-km140-t07.flac
+1eedac72b6241d9d3fa0160e4c5c159e *wilco2016-07-04-km140-t08.flac
+edf1575adf655f61e7528a4d75ca3974 *wilco2016-07-04-km140-t09.flac
+39a94de1a59129c487b5ce811f8b6e68 *wilco2016-07-04-km140-t10.flac
+15fad0c7f97e6cc4233918eaa1b0d9f3 *wilco2016-07-04-km140-t11.flac
+6861afdf11e1e9d4169a4de2744b9089 *wilco2016-07-04-km140-t12.flac
+ebd133218c022bf3000ed56788f5dfa3 *wilco2016-07-04-km140-t13.flac
+e7280679e777dfa52ec6164b927a2437 *wilco2016-07-04-km140-t14.flac
+b811474a0fc3987fda14c29a2b534cd8 *wilco2016-07-04-km140-t15.flac
+79da22f6ced909c3393859aeffe42832 *wilco2016-07-04-km140-t16.flac
+142d5b3954cf8d4536dc2ed44764bdb2 *wilco2016-07-04-km140-t17.flac
+5ab213c6bea18c26613d6660345cb77b *wilco2016-07-04-km140-t18.flac
+22eb30beb42a59a63da89f6ecdb9662c *wilco2016-07-04-km140-t19.flac
+fb9b938e90beae8ff8e768c617d3d6c2 *wilco2016-07-04-km140-t20.flac
+df09f32b5a1eca34e39e71137da971d8 *wilco2016-07-04-km140-t21.flac
+ca30edbfd27cd6c40ec2452f3f4b961e *wilco2016-07-04-km140-t22.flac
+2094447c20b05bd72832dcf31fc8cffd *wilco2016-07-04-km140-t23.flac
+de199b14cd05dab62b734751fd795842 *wilco2016-07-04-km140-t24.flac
+
+ffp file
+wilco2016-07-04-km140-t01.flac:3f5ba281df95496c6ef9b6cde4e814f3
+wilco2016-07-04-km140-t02.flac:7e8887d5b54edb1460ca6724071fe4d0
+wilco2016-07-04-km140-t03.flac:de1a422d4c6a4392493a4636d93bd509
+wilco2016-07-04-km140-t04.flac:1fb9afe171b03f26091ea7ae0066ef11
+wilco2016-07-04-km140-t05.flac:3b12d6c7d1d5c4c62800285566f127d2
+wilco2016-07-04-km140-t06.flac:dc3bbdedc61b6643da679a568414a7bb
+wilco2016-07-04-km140-t07.flac:412304434a30b09dae6dd6ffe230f9ea
+wilco2016-07-04-km140-t08.flac:cd597990668ee691361a6a4940c97538
+wilco2016-07-04-km140-t09.flac:395a142f4486207ae90432cde9f9e336
+wilco2016-07-04-km140-t10.flac:07dcfcc37d57ce866a4da832f025b555
+wilco2016-07-04-km140-t11.flac:b6a84aa4c6f4fec3e953d6bcf08534ff
+wilco2016-07-04-km140-t12.flac:c276e583ee33e2adfd0e1fcb6ce6c699
+wilco2016-07-04-km140-t13.flac:08550fb2003daf0e59d2219f67a48694
+wilco2016-07-04-km140-t14.flac:2196c220d6738afb7cff6d6922f5fc1d
+wilco2016-07-04-km140-t15.flac:7e321b944a66d69175c4cb394a319f4c
+wilco2016-07-04-km140-t16.flac:56e9c59209a5f87228aea6328339e7df
+wilco2016-07-04-km140-t17.flac:422b3c2b9f1bde22f9f8565adefcf48e
+wilco2016-07-04-km140-t18.flac:3da41ae654706c86a3a3389cdd95e25b
+wilco2016-07-04-km140-t19.flac:3c8f8c3f553a4852567c5d25611e6010
+wilco2016-07-04-km140-t20.flac:85d4e7eeb895f048580af20278be7b06
+wilco2016-07-04-km140-t21.flac:3472a48f78211f18b7347031343d29de
+wilco2016-07-04-km140-t22.flac:01784e1bc4524f327cd0114a5e18b9e3
+wilco2016-07-04-km140-t23.flac:b78a5836c7edf738c3a6677a1ac05974
+wilco2016-07-04-km140-t24.flac:eea0d5027cb5015e833f6c21ea80c653

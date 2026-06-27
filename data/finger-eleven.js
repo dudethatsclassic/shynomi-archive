@@ -19,9 +19,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The King of Clubs",
-      "notes": "CA-14 · live2cd",
+      "notes": "CA-14 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-10-09 - Columbus, OH - The King of Clubs (CA-14) (live2cd) [AUD].txt"
     },
     {
       "year": 2025,
@@ -32,9 +33,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "The Theatre at Great Canadian Casino Resort",
-      "notes": "Zoom H1n · bowlingron",
+      "notes": "Zoom H1n \u00b7 bowlingron",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-12-05 - Toronto, ON - The Theatre at Great Canadian Casino Resort (Zoom H1n) (bowlingron) [AUD].txt"
     },
     {
       "year": 2025,
@@ -45,9 +47,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Ottawa, ON",
       "venue": "TD Place",
-      "notes": "iPhone 16 Pro · palm0014",
+      "notes": "iPhone 16 Pro \u00b7 palm0014",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-12-06 - Ottawa, ON - TD Place (iPhone 16 Pro) (palm0014) [AUD24].txt"
     },
     {
       "year": 2026,
@@ -58,9 +61,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "The Hi-Fi",
-      "notes": "CA-14 · live2cd",
+      "notes": "CA-14 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2026-03-14 - Indianapolis, IN - The Hi-Fi (CA-14) (live2cd) [AUD].txt"
     },
     {
       "year": 2026,
@@ -71,9 +75,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Hamilton, ON",
       "venue": "TD Coliseum",
-      "notes": "Zoom H1n · bowlingron",
+      "notes": "Zoom H1n \u00b7 bowlingron",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2026-05-03 - Hamilton, ON - TD Coliseum (Zoom H1n) (bowlingron) [AUD].txt"
     }
   ],
   "misc": []

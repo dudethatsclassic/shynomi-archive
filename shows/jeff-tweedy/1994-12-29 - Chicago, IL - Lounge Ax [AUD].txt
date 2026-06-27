@@ -1,0 +1,103 @@
+JEFF TWEEDY with JAY BENNETT
+Lounge Ax, Chicago, IL, USA
+December 29, 1994
+
+SOURCE
+CSB mics (battery box, low-end roll-off) clipped on glasses, five feet from the left speaker > Denon DTR-80P
+Transfer: Master DAT > Tascam DA-20 > M-Audio Audiophile USB > PC > Wavelab 5.0 (fades, normalizing) > CDWave (tracking) > 
+          Flac Front End (level 6)
+Taped and transferred by mrpember
+
+NOTES
+
+This was the first of Jeff Tweedy's legendary acoustic shows at Lounge Ax, and his first ever "solo" show.  He was visibly 
+nervous before and during the show, but I thought and still think that he pulled if off really well. I had mixed feelings 
+about Wilco at the time based on the shows I'd seen in Chicago and St. Louis, so I was very happy that I enjoyed this show so much. 
+Very nice setlist, with songs from every Uncle Tupelo album, most of the better songs that ended up on AM, and some choice covers, 
+some of which were only played at this show. This was the first time that I really came to appreciate Jay Bennett, his guitar and 
+harmonica work were stellar.
+
+The recording is very good for a stealth audience, though as is often the case with quiet shows in rowdy clubs the audience is a bit 
+loud between songs.
+
+Dedicated to my road trip partner, Jeff Downing.
+
+
+DISC 1
+
+01 introduction
+02 Acuff-Rose
+03 Gun
+04 Watch Me Fall
+05 technical difficulties
+06 New Madrid
+07 Wait Up
+08 The Long Cut
+09 Walk Where He Walked
+10 Pecan Pie
+11 Pick Up The Change   
+12 Should've Been In Love   
+13 Give Back The Key To My Heart (Doug Sahm)
+14 Satan, Your Kingdom Must Come Down (traditional)
+15 Promising   
+16 If That's Alright
+17 Black Eye
+18 Dash 7   
+19 No Sense In Lovin'
+20 Casino Queen   
+21 Who Were You Thinking Of (Texas Tornadoes)   
+22 The TB Is Whippin' Me (Ernest Tubb)
+23 Passenger Side   
+
+DISC 2
+
+01 audience requests
+02 We've Been Had
+03 Too Far Gone (Neil Young)
+04 Screen Door*
+05 Listen To Her Heart (Tom Petty)  
+06 Reincarnation (Roger Miller)
+07 Box Full Of Letters
+
+* very slight flaw at 0:15 as someone brushed up against the mics
+
+
+LINEUP:
+
+Jeff Tweedy: vocals, acoustic guitar
+Jay Bennett: electric guitar, harmonica, vocals
+
+
+FLAC Fingerprints:
+
+Tweedy1994-12-29_d1_t01.flac:bb02526144f94e30c8ee5a8b4ae98ed4
+Tweedy1994-12-29_d1_t02.flac:f5cb1f5402e1c5fbd30fc8e8323eb39e
+Tweedy1994-12-29_d1_t03.flac:5c034a6ac330af5198c741f93835b66e
+Tweedy1994-12-29_d1_t04.flac:81e7ead5d6f8c572c1994e212d6eac6a
+Tweedy1994-12-29_d1_t05.flac:6ab8583248cb2ae7ea787dfccc621584
+Tweedy1994-12-29_d1_t06.flac:f2a3469b57299daa20d252668054c81e
+Tweedy1994-12-29_d1_t07.flac:a7f1e7f8c46d91e6311c15f9d41db9de
+Tweedy1994-12-29_d1_t08.flac:aaa33c0b94976a451e6c49286581c3e2
+Tweedy1994-12-29_d1_t09.flac:94c3fbaea60ae5f1dc801a6e7faa4ba9
+Tweedy1994-12-29_d1_t10.flac:1697d44e418a7eb3666410471b98281b
+Tweedy1994-12-29_d1_t11.flac:17d3bf17e89f0b2b847c2eeff3f29db3
+Tweedy1994-12-29_d1_t12.flac:f42131181f0df519abbaeb5e9f3652fe
+Tweedy1994-12-29_d1_t13.flac:232ae780920614a3e2ac3a59f13be73c
+Tweedy1994-12-29_d1_t14.flac:57447d022bcd37e91481626f9b12fd01
+Tweedy1994-12-29_d1_t15.flac:acfc02cebb00a008af53c5467a0f5c8e
+Tweedy1994-12-29_d1_t16.flac:a6921422837c3c2afff2cedf4ec9f957
+Tweedy1994-12-29_d1_t17.flac:980ffe0ffdac85c23a164a6955f11e20
+Tweedy1994-12-29_d1_t18.flac:126519dbd476a8a1e93f4a24c4e3401f
+Tweedy1994-12-29_d1_t19.flac:8bf515549a57fee76065f572e49ee144
+Tweedy1994-12-29_d1_t20.flac:b1659b2c8d6f2245cdbff4b8c1537107
+Tweedy1994-12-29_d1_t21.flac:4c97e9554840df8d231215ef70784b9c
+Tweedy1994-12-29_d1_t22.flac:19bf6d7349a54b9ad1e5a8dda186dd3d
+Tweedy1994-12-29_d1_t23.flac:f8eb0e829c3237809fde31899b56f27c
+
+Tweedy1994-12-29_d2_t01.flac:c679d900f15eb823bcf2769a5b882e8c
+Tweedy1994-12-29_d2_t02.flac:b8067964ebbcbd5249aa95eab5fad0b8
+Tweedy1994-12-29_d2_t03.flac:401eac1346c500e4baa66b8824a5958f
+Tweedy1994-12-29_d2_t04.flac:a3feaff2c645de0e0d8cf70b18d6d6f4
+Tweedy1994-12-29_d2_t05.flac:1823c08839b925a5abab4d7f3e3e0169
+Tweedy1994-12-29_d2_t06.flac:cf8a36bf2a4ed1e30cb651a1817a2830
+Tweedy1994-12-29_d2_t07.flac:1f76e83378a47fde490cf006b14b7ec2

@@ -19,7 +19,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "WNYC Radio",
-      "notes": "Folk · with Woody Guthrie",
+      "notes": "Folk \u00b7 with Woody Guthrie",
       "version": "FM",
       "format": "FLAC"
     },
@@ -32,9 +32,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Hogg Auditorium",
-      "notes": "University · KUT Radio Broadcast",
+      "notes": "University \u00b7 KUT Radio Broadcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1949-06-15 - Austin, TX - Hogg Auditorium - University of Texas (KUT Radio Broadcast) [FM].txt"
     }
   ],
   "misc": []

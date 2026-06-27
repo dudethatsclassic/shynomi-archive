@@ -1,0 +1,48 @@
+
+K's Choice
+
+30 Years Of K's Choice Tour 2023
+OLT Rivierenhof, Deurne, Belgium
+August 22, 2023
+
+Taper: stl 
+
+
+Lineage: DPA4061 Omnis w/Softboost Grid -> DPA D:VICE MMA-A (low pass filter -80hz) -> iPhone 12 mini (96/24) -> iZotope RX10 (Declick/Music Rebalance to reduce audience noise - Ozone 10 Maximizer - Resample 44/16 - Fades) -> FLAC -> xACT (FFP/SBE/Tags)
+
+Position: FOB mid stage
+
+Tracks: 
+
+01 - Intro 1:38
+02 - Everything For Free 3:50
+03 - Bag Full Of Concrete 4:03
+04 - Perfect Scar 3:20
+05 - Almost Happy 4:33
+06 - If This Isn't Right 4:13
+07 - Come Live The Life 4:20
+08 - Time Is A Parasite 3:05
+09 - Echo Mountain 4:29
+10 - Not An Addict 6:45
+11 - God In My Bed 3:09
+12 - Surrender 3:52
+13 - The Phantom Cowboy 4:43
+14 - Woman 3:16
+15 - Live For Real 3:50
+16 - Brother 4:28
+17 - I Was Wrong About Everything 3:14
+18 - Believe 3:40
+19 - I Will Carry You 4:24
+20 - Encore Break 1:54
+21 - Another Year 3:54
+22 - We Are The Universe 4:39
+23 - We Are Glaciers 6:16
+24 - Outro 1:05
+
+Total 01:32:51
+
+Comments: 
+
+K's Choice, in their thirtieth year, are musically at a peak, even if the voice of Sam (Sarah) has unfortunately lost its uniqueness due to the sex change; the emotiveness, the passion are stronger than ever, the timbre continues to be heard, but the timbre has changed very clearly. Nevertheless, every minute is a joy and the show is worth it for We Are Glaciers alone. The OLT Rivierenhof is one of the most beautiful open air venues I've had the pleasure of experiencing, and the standing room directly in front of the board at the end of the tiers is wonderful for recording (if the right people are around). Many (quiet) conversations, the one or other scream, but otherwise a very good recording.
+
+Published under the following license: WTFPL – Do What the Fuck You Want to Public License (www.wtfpl.net) - but remember: if you try to make money with my recordings, you lose your karma.

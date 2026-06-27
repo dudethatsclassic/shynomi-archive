@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theater",
       "notes": "unk",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-06-11 - Boulder, CO - Fox Theater (unk) [FM] .txt"
     }
   ],
   "misc": []

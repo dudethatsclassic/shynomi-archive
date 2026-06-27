@@ -1,0 +1,50 @@
+John Mayer
+Nationwide Arena
+Columbus, OH
+February 23, 2007
+
+
+Taper:  Crumbo
+Location: Floor 1, Row M, Seats 3 & 4
+Source:  Source: Schoeps MK21 (DINa, ~7'-15') > KC5 active cables > Schoeps CMC6xt > SD 722 (24/96)
+Conversion:  SD 722 > Wavelab 5.01b > CDWav 1.94.4 > xACT 0.5.7 > foobar2000
+
+
+***DO NOT DISTRIBUTE IN LOSSY FORMATS***
+***16/44.1 Version exists in flac format***
+
+
+01 Intro                                                    01:01.120
+02 Vultures                                                 07:28.120
+03  Good Love Is On The Way                                 04:55.333
+04  Why Georgia                                             05:01.213
+05  I Don't Need No Doctor                                  06:15.360
+06  I Don't Trust Myself (With Loving You)                  06:02.973
+07  Heart of Life                                           05:18.360
+08  Clarity                                                 07:07.960
+09  Waiting On The World To Change                          04:03.640
+10  Bigger Than My Body                                     05:31.867
+11  No Such Thing                                           04:33.747
+12  Belief                                                  08:08.387
+13  Gravity                                                 10:45.307
+14  Encore Break                                            03:12.413
+15  Wait Until Tomorrow                                     03:51.640
+16  Your Body Is A Wonderland                               05:49.560
+17  I'm Gonna Find Another You                              09:31.747
+
+Total: 98:38.747
+
+
+Notes:
+
+-Security made us lower the stand from 15' to 7' after D1T03...you may notice a difference in levels.
+-Thanks to Julie and Cristina for all the help.
+
+Compiled by Crumbo 2-26-2007.
+
+
+
+
+
+
+

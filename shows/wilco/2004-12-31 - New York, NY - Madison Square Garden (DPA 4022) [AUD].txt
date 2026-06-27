@@ -1,0 +1,56 @@
+Wilco
+Madison Square Garden
+New York, NY
+Friday December 31, 2004
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA4022 > Sonosax SX-M2 > Audio Magic Hyper-Conductor > SBM-1 (Oade T-Mod)
+Location:	Sec 1, Row J, Seat 1, 10th row stage left stack, 20 ft. stage left stack
+
+DAT > FLAC:	D100 > Digigram VXPocket V2 > Steinberg WaveLab v5.00a > CD-WAV >
+		FLAC frontend v1.7.1 > .flac
+
+Disc One:
+
+01:	Intro				-	02:31.400
+02:	Less Than You Think		-	06:03.400
+03:	Spiders (Kidsmoke)		-	10:49.733
+04:	Hummingbird			-	03:28.733
+05:	Handshake Drugs			-	05:56.133
+06:	I Am Trying To Break Your Heart	-	06:08.600
+07:	A Shot In The Arm		-	04:46.400
+08:	At Least That's What You Said	-	06:54.133
+09:	Jesus, Etc.			-	04:14.466
+
+Total:					-	50:53.000
+
+Disc Two:
+
+01:	Disc Two Intro			-	01:16.800
+02:	Theologians			-	03:50.866
+03:	Poor Places			-	05:08.133
+04:	New Year's Eve Countdown >	-	00:47.000
+05:	Auld Lang Syne			-	05:23.600
+06:	Happy Birthday			-	00:31.000
+07:	Livin' After Midnight		-	04:47.266
+08:	Love Will Keep Us Together	-	04:09.133
+09:	Political Science		-	02:26.000
+10:	I Shall Be Released		-	04:02.200
+11:	Something In The Air		-	04:58.266
+12:	Heavy Metal Drummer		-	03:37.000
+13:	Kingpin				-	05:56.133
+14:	I'm The Man Who Loves You	-	04:16.266
+15:	The Late Greats			-	02:52.466
+16:	I'm A Wheel			-	03:28.400
+17:	(Don't Fear) The Reaper		-	05:22.000
+18:	Gut Feeling >			-	03:11.266
+19:	Slap Your Mammy			-	01:18.866
+20:	Comment (If All Men Are Truly
+	Brothers)			-	06:08.000
+21:	Outro				-	02:17.675
+
+Total:					-	75:48.341
+
+Note:	some noise caused by balloons hitting the mics in d2t05-d2t10
+
+compiled by George Wang on 01-05-2005

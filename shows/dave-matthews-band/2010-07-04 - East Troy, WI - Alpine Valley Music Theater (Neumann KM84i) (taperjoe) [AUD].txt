@@ -1,0 +1,42 @@
+The Dave Matthews Band
+Alpine Valley Music Theater
+East Troy, WI
+July 4, 2010
+
+Source: (2) Neumann km84i (DFC @ FOH) > Sound Devices 722 (24/48 w/ 40Hz roll-off @ 18dB/oct.)
+
+Transfer: 722 HD > Audiogate (+5 dB, dither/re-sample to 16/44.1, tracking) > xACT (flac 8 w/ SBA & tags)
+
+Recorded & transferred by taperjoe with mics from Marc M. (thanks man!).
+
+01. crowd & tuning
+02. One Sweet World
+03. Bartender
+04. Everyday
+05. Spaceman >
+06. Corn Bread
+07. Break For It
+08. Say Goodbye
+09. Lying In the Hands of God
+10. Digging a Ditch
+11. Drive In Drive Out
+12. Grey Street
+13. Jimi Thing >
+14. Thank You (Falettinme Be Mice Elf Agin) >
+15. Sexy M.F.
+16. Why I Am
+17. Needle And The Damage Done
+18. Tripping Billies
+19. Gravedigger
+20. You Might Die Trying
+21. Ants Marching
+22. crowd
+Encore:
+23. I'll Back You Up 
+24. Time Bomb >
+25. The Star Spangled Banner >
+26. All Along The Watchtower
+
+Thanks to the DMB FOH crew for allowing me to record while I worked!  Setlist copied from DMB's site.
+
+Enjoy!!

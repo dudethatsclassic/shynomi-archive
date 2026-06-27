@@ -1,0 +1,38 @@
+Sigur Ros with Wordless Music Orchestra 
+
+August 26, 2023
+
+Greek Theatre
+UC Berkeley
+Berkeley, CA
+
+MK4 pair (section D, LOC, FOB, etc) >> Nbob active cables >> Babynbox >> A-10 (24/48)
+
+Reaper v5.1 [-level automation on applause] >> Ozone 5 VST [dynamics, exciter, compression, image] >> WAV >> tracked in CD Wave >> FLAC conversion with TLH
+
+** 24 bit, 48 KHz fileset **
+
+Set 1:
+01 (intro)
+02 Blodberg
+03 Ekki Mukk
+04 Fljotavik
+05 8
+06 Von
+07 Andvari
+08 Staralfur
+09 Daudalogn
+10 Vardeldur
+
+Set 2:
+01 Untitled #1 - Vaka
+02 Untitled #3 - Samskeyti
+03 Heysatan
+04 Ylur
+05 Skel
+06 All Alright
+07 Untitled #5 - Alafoss
+08 Se Lest
+09 Hoppipolla
+10 Avalon
+11 (crowd)

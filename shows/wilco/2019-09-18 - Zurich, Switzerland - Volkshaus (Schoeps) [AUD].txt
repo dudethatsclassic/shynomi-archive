@@ -1,0 +1,46 @@
+WILCO
+2019-09-18
+Volkshaus
+Zürich, Switzerland
+
+Source:     Schoeps CMC541V > Sound Devices MixPre-6
+Mic Config: DIN (90°, 20cm)
+Location:   FoB, slightly left of center
+Transfer:   Master WAVs > dEdit > FLAC V1.3.2
+Editing:    Digital editing in Apple Logic Pro X V10.3.1
+            EQ, compression and volume boost using iZotope Ozone 7 V7.0.1299
+            Fades in iZotope RX 7 V7.00.218
+Dithering:  MBIT+
+Format:     16 bit / 44.1 kHz
+
+Disc 1:
+01 Bright Leaves
+02 Before Us
+03 Company in My Back
+04 War on War
+05 One and a Half Stars
+06 If I Ever Was a Child
+07 Handshake Drugs
+08 Hummingbird
+09 At Least That's What You Said
+10 White Wooden Cross
+11 Via Chicago
+12 How to Fight Loneliness
+13 Bull Black Nova
+14 Random Name Generator
+
+Disc 2:
+01 Reservations
+02 Impossible Germany
+03 Love Is Everywhere (Beware)
+04 Box Full of Letters
+05 Everyone Hides
+06 Dawned on Me
+07 Jesus, etc.
+08 Theologians
+09 I'm the Man Who Loves You
+10 (Encore Break)
+11 Misunderstood
+12 Hold Me Anyway
+13 California Stars
+14 The Late Greats

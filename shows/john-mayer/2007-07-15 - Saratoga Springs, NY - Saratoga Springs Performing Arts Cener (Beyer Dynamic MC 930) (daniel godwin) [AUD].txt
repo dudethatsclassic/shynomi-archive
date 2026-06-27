@@ -1,0 +1,29 @@
+John Mayer
+July 15th, 2007
+Saratoga Springs Performing Arts Center
+Saratoga Springs, NY
+
+Source:  Beyer Dynamic MC 930 -> R4 (24/48)
+Transfer: R4 -> audition (EQ/fades/M bit + dither/resample) -> CDwav -> flac  **16 bit**
+Taped by: Daniel Godwin (daniel@upstatetapers.org)
+Transferred by: Daniel Godwin (daniel@upstatetapers.org)
+Size: 546 mb (flac)
+
+Setlist:
+01. intro
+02. Bigger Than My Body
+03. Belief
+04. My Stupid Mouth
+05. I Don't Trust Myself (With Loving You)
+06. Good Love is On the Way
+07. Gravity
+08. No Such Thing
+09. Waiting on the World to Change
+10. Slow Dancing in a Burning Room
+11. I Don't Need No Doctor
+12. Why Georgia
+13. I'm Gonna Find Another You
+-- encore --
+14. Vultures
+
+Notes:  Fairly heavy EQ was performed on this recording.  Small dropout in right channel at beginning of track 5 (left channel duplicated)  We taped about 6' from the left stack, and it was quite muddy sounding.  Questions, email me: daniel@upstatetapers.org

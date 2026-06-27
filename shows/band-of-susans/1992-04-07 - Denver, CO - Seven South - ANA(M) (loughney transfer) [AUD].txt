@@ -1,0 +1,25 @@
+Band of Susans - 1992 04 07 Seven South, Denver, CO
+
+Show note:
+Recording has a few technical defects, but otherwise is a pretty good recording. Really enjoy the encore of Guitar Trio.
+
+Transfer note:
+Show starts abruptly with Trash Train. Tape flip after The Red and the Black, cutting the last few seconds and the intro to Sermon on Competition Part 2. Sound quality suffers for a little bit into Sermon. 
+I ripped this from my CDR, but was unhappy with the left channel being weaker, some track starts and gaps in a few places, so I cleaned those up, so think of this as new rip/transfer for 2021.
+
+1 Trash Train
+2 Hope Against Hope
+3 Silver Lining 
+4 The Persuit of Happiness
+5 Learning to Sin
+6 Pearls of Wisdom
+7 It's Locked Away 
+8 Stained Glass
+9 The Red and the Black
+10 Sermon on Compitition Part 2
+11 Now is Now
+12 Following My Heart
+13 Mood Swing
+14 Guitar Trio [Rhys Chatham]
+
+Lineage: Audience Master > unknown tape gen > Audio CDR > EAC > Audacity (normalization) > CDWAVE (Splits) > FLAC [loughney xfer]

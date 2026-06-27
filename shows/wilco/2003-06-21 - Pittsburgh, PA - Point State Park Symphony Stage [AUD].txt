@@ -1,0 +1,74 @@
+Wilco
+June 21, 2003
+Pittsburgh, PA 
+Point State Park Symphony Stage
+Three Rivers Arts Festival
+
+Source: Superlux SMK-H8K/U (FOB, DFC, DIN) > Mogami XLRs > Samson Mixpad 4 > Sharp MT-MD180
+Transfer: Sony MDS-S707 > iRiver H120 > USB > Cakewalk Sonar 4.0 > CD Wave Editor (exported as FLAC)
+Taped and transfered by: Alex Herd (AlexHerd@TapersSection.com)
+
+Disc One:
+01. Ashes of American Flags
+02. Muzzle of Bees
+03. I Am Trying to Break Your Heart
+04. Kamera
+05. War on War
+06. At Least That's What You Said
+07. How To Fight Loneliness
+08. Via Chicago
+09. Jesus, Etc.
+10. Heavy Metal Drummer
+11. Spiders (Kidsmoke)
+12. Pot Kettle Black
+13. I'm the Man Who Loves You
+14. Poor Places
+15. Reservations
+
+Disc Two:
+Encore One:
+01. One By One
+02. Forget the Flowers
+03. California Stars
+Encore Two:
+04. Misunderstood
+05. Red-Eyed & Blue
+06. I Got You (At The End Of The Century) 
+07. Kicking Television
+08. Casino Queen
+09. Outta Mind (Outta Sight) 
+
+
+Notes:
+This is a new completely digital transfer (November 2007). The original transfer had an analog (MD D>A > soundcard A>D) generation.
+-I used a second MD recorder (Sony MZ-R37) to record for a few seconds while I switched discs in the MT180 after 80 minutes. I edited the pieces together in Sonar which is how the recording of the show is seamless from beginning to end.
+-No fades in between discs so that the show can be joined seamlessly on longer media.
+
++Thanks to Wilco for allowing taping!!! Please support them by going to their show and by buying their merchandise+
+
+
+FLAC fingerprint:
+Wilco2003-06-21h8kd1t01.flac:849ba4f1f6ee7832410de30a1005a3f7
+Wilco2003-06-21h8kd1t02.flac:7cebf83d2945d96fc2f8504849603e35
+Wilco2003-06-21h8kd1t03.flac:7730810e1c4b45904f9dac00de628c5d
+Wilco2003-06-21h8kd1t04.flac:e7bf1b19d7c5f1a11051bd0f1333f509
+Wilco2003-06-21h8kd1t05.flac:a4a537dd0180fd189eab619dd5d59213
+Wilco2003-06-21h8kd1t06.flac:1db85e7607183d360f46f06062769d11
+Wilco2003-06-21h8kd1t07.flac:6c10ea42af46715df15731eff7322916
+Wilco2003-06-21h8kd1t08.flac:5ec09a487955619e8a686650ac94512f
+Wilco2003-06-21h8kd1t09.flac:ac516b7c46c964a021a2921a179ea4d1
+Wilco2003-06-21h8kd1t10.flac:9c945c4f69c3717b1e24928855b47d12
+Wilco2003-06-21h8kd1t11.flac:fedb4fb6981e119a01058a505ee36623
+Wilco2003-06-21h8kd1t12.flac:5cc20d7ab724ce5040aacb55e408c7d7
+Wilco2003-06-21h8kd1t13.flac:23e480b1db6cb9775c5a76b39d4adfb8
+Wilco2003-06-21h8kd1t14.flac:f301681a38160035376394fbfdf8ca10
+Wilco2003-06-21h8kd1t15.flac:59ce985d8dd06fab182194b9ed59fcd8
+Wilco2003-06-21h8kd2t01.flac:efb924fa31e81967509f665ae72d709e
+Wilco2003-06-21h8kd2t02.flac:1dce1e05fe8d023dd2ee67997cb70455
+Wilco2003-06-21h8kd2t03.flac:cf88c98bdffc1f9017b1f202204de27d
+Wilco2003-06-21h8kd2t04.flac:6dd0564b5e1ea4146f0bad9b04242e9a
+Wilco2003-06-21h8kd2t05.flac:284782165a388599b6af7e77806cf752
+Wilco2003-06-21h8kd2t06.flac:d60232686f957ea455fca96e2ff75e36
+Wilco2003-06-21h8kd2t07.flac:4efde17132c77bc679eb1c0abd1aac6b
+Wilco2003-06-21h8kd2t08.flac:7e84079f06a59f99f0a3d4c98a828bbc
+Wilco2003-06-21h8kd2t09.flac:a1ea332f84a4a084406227abc00c7ee0

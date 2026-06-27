@@ -1,0 +1,43 @@
+Jeff Tweedy
+Music Hall
+Tarrytown, NY
+December 6, 2010
+
+The Music Hall is an old venue, the rows are small and the seats are packed 
+tight together, I guess people were much smaller back then.  Some of the seats 
+are what you might call a little squeaky, during quite points you may hear a 
+squeak, as someone gets up.  There are two points in the show where the taper 
+actually had his microphones knocked over, the beginning of Via Chicago and the
+end of Late Greats, so there is some noise on the tape.  Editing was done with 
+Audacity, for the most part is was only used between songs to bring the audience
+down and make the recording more enjoyable.  However during the two songs where 
+the microphones where knocked over some editing was done, I isolated the loud 
+"thuds" and adjusted the volume to manageable levels.
+
+Original taper - Josh Sarner
+Editing and packaging - John Bosco
+
+Orchestra Center, Row L ->
+Zoom H1 (internal mics) 24bit/48kHz WAV ->
+micro SD ->
+Audacity (editing) ->
+Fission (splicing) ->
+xACT (FLAC)
+
+1) Sunken Treasure
+2) Remember The Mountain Bed
+3) I Am Trying To Break Your Heart
+4) One Wing
+5) Via Chicago
+6) Laminated Cat
+7) Please Be Patient With Me
+8) Muzzle Of Bees
+9) The Ruling Class
+10) Hummingbird
+11) One By One
+12) Jesus, Etc.
+13) What's The World Got In Store
+14) New Madrid
+15) The Late Greats
+16) Passenger Side (with Autumn Defense)
+17) California Stars (with Autumn Defense) 

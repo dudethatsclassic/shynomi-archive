@@ -1,0 +1,66 @@
+Tori Amos
+October 25, 1992
+Buckley Recital Hall
+Amherst, MA
+
+CD1
+1.	Sugar  
+2.	Crucify  
+3.	Silent All These Years  
+4.	Precious Things  
+5.	Happy Phantom  
+6.	Leather  
+7.	Upside Down  
+8.	Whole Lotta Love ->  
+9.	Thank You  
+
+CD2
+1.	Me And A Gun  
+2.	Winter  
+3.	Take To The Sky  
+4.	Smells Like Teen Spirit  
+5.	Mother  
+6.	China  
+7.	Song For Eric  
+
+
+This show was previously seeded on Dime (it is the 16-bit version) and all files are 
+the same except I re-named to conform to TT format and then made a new MD5.
+
+These are the original notes:
+
+This is a fine early Tori show held in a small, sold-out recital hall.  
+Setting the recording levels was a challenge during the first song, “Sugar”.  
+The volume was first set too low, and was adjusted at the 30-second mark.  
+Then around 3:00, Tori shot the meters into the red.  What range on that girl!  
+After that, a good medium recording level was set for the rest of the show.  
+
+Overall, there was a polite and very enthusiastic crowd for this show.  
+No talkers near the mike, but loud applause from the entire audience after each song.  
+I lowered the amplitude of the audience’s applause after each song, 
+which results in (I think) a great recording.
+
+Hope you enjoy it.
+
+
+Taped by Kevin Hall and Carl Morstadt (dantalion8@yahoo.com)
+
+Sony D-5 Professional Walkman recorder
+2 Beyer M-700 microphones
+Maxell metal cassettes
+
+Mastered and FLAC'ed by Carl 
+	
+Master Cassette -> 
+Sony K707ES cassette deck -> 
+M-Audio Firewire Audiophile 2496 -> 
+CD Wave 24-bit/96-KHz wav files ->
+Goldwave (normalizing and crossfades) ->
+CD Wave (track breaks) ->
+dBpowerAMP Audio Converter (24-bit/96-KHz wav files converted to 
+  16-bit/44.1 KHz wav files) ->
+FLAC Front End (FLAC 8 with sector boundary alignment)
+
+No EQ'ing.
+
+A 24-bit/96-KHz flac24 version of this recording is also available.

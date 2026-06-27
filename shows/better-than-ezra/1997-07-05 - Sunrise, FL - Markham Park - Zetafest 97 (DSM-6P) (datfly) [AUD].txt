@@ -1,0 +1,43 @@
+Better Than Ezra
+Zetafest 1997
+Markham Park
+Sunrise, FL
+July 5, 1997
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P > Denon DTR-80P > DAT Master > .WAV @ 16 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > 
+iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded & transferred by:  Michael ("Datfly") Wolf
+Mastered by:  Dennis Orr
+
+Setlist: (41:51)
+01 Good
+02 Rewind
+03 Chat
+04 Rosealia
+05 Long Lost
+06 Teenager
+07 King Of New Orleans >
+08 Pull >
+09 Summerhouse
+10 Desperately Wanting >
+11 In The Blood
+
+Kevin Griffin – lead vocals, guitar, & piano
+James Arthur Payne Jr. – guitar, keyboards, backing vocals
+Tom Drummond – bass & backing vocals
+Travis McNabb - drums
+
+BetterThanEzra1997-07-05t01.flac:13fbf89461c0b55d5be83ec2305ef919
+BetterThanEzra1997-07-05t02.flac:d83044eb278634517fccf8454ec66a29
+BetterThanEzra1997-07-05t03.flac:07142c5e6167791e87b2ef018b9a01bb
+BetterThanEzra1997-07-05t04.flac:5c25b640b46d2ed8708022521dffdae7
+BetterThanEzra1997-07-05t05.flac:c0e43c0307b91475c285b950aa9f848b
+BetterThanEzra1997-07-05t06.flac:9dce84b196f1268a032b6d6a2d78c30f
+BetterThanEzra1997-07-05t07.flac:6700a35548fdf9c8d1380090bd0421fa
+BetterThanEzra1997-07-05t08.flac:8c9337382876d9166717fb0b7b5f236c
+BetterThanEzra1997-07-05t09.flac:cfa08d366e462b68b2179e16a1865729
+BetterThanEzra1997-07-05t10.flac:93138d03659af1212d3252299b0b7cef
+BetterThanEzra1997-07-05t11.flac:04e0c82dea8b2261594f9cc94dc02320

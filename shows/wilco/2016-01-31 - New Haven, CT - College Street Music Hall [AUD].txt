@@ -1,0 +1,74 @@
+Wilco
+01/31/2016
+College Street Music Hall
+New Haven, CT
+
+Source: Schoeps MK4V > Sonosax SX/M2 L/S > Sony PCM-M10
+Location: Front row, center mezzanine clamped to rail 
+Recorded by Jesse Hurlburt
+
+
+01 Intro (EKG)
+02 More...
+03 Random Name Generator
+04 The Joke Explained
+05 You Satellite
+06 Taste the Ceiling
+07 Pickled Ginger
+08 Where Do I Begin
+09 Cold Slope
+10 King of You
+11 Magnetized
+12 Handshake Drugs
+13 Art of Almost
+14 Via Chicago
+15 Bull Black Nova
+16 Hummingbird
+17 Heavy Metal Drummer
+18 I'm the Man Who Loves You
+19 Passenger Side
+20 Jesus, Etc
+21 Born Alone	
+22 Impossible Germany
+23 Late Greats
+
+Encore: (Acoustic)
+24 Misunderstood
+25 It's Just The Simple
+26 War on War
+27 I'm Always In Love
+28 California Stars
+29 A Shot in the Arm
+
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:29.47       15810188 B   ---   --   ---xx   flac  0.4990  wilco2016-01-31.mk4v.t01.flac
+     2:45.51       29225996 B   ---   --   ---xx   flac  0.5279  wilco2016-01-31.mk4v.t02.flac
+     4:17.63       45483020 B   ---   --   ---xx   flac  0.5417  wilco2016-01-31.mk4v.t03.flac
+     2:41.24       28456892 B   ---   --   ---xx   flac  0.5001  wilco2016-01-31.mk4v.t04.flac
+     5:31.72       58557788 B   ---   --   ---xx   flac  0.5238  wilco2016-01-31.mk4v.t05.flac
+     3:34.56       37881356 B   ---   --   ---xx   flac  0.4819  wilco2016-01-31.mk4v.t06.flac
+     2:36.67       27676028 B   ---   --   ---xx   flac  0.4924  wilco2016-01-31.mk4v.t07.flac
+     3:08.46       33271436 B   ---   --   ---xx   flac  0.4853  wilco2016-01-31.mk4v.t08.flac
+     3:14.09       34242812 B   ---   --   ---xx   flac  0.4964  wilco2016-01-31.mk4v.t09.flac
+     2:45.67       29263628 B   ---   --   ---xx   flac  0.5455  wilco2016-01-31.mk4v.t10.flac
+     4:35.26       48571196 B   ---   --   ---xx   flac  0.4514  wilco2016-01-31.mk4v.t11.flac
+     5:43.21       60554636 B   ---   --   ---xx   flac  0.5164  wilco2016-01-31.mk4v.t12.flac
+     7:26.40       78768524 B   ---   --   ---xx   flac  0.5279  wilco2016-01-31.mk4v.t13.flac
+     5:44.04       60691052 B   ---   --   ---xx   flac  0.4739  wilco2016-01-31.mk4v.t14.flac
+     6:03.04       64042652 B   ---   --   ---xx   flac  0.5277  wilco2016-01-31.mk4v.t15.flac
+     4:35.47       48620588 B   ---   --   ---xx   flac  0.4638  wilco2016-01-31.mk4v.t16.flac
+     3:16.44       34677932 B   ---   --   ---xx   flac  0.5543  wilco2016-01-31.mk4v.t17.flac
+     4:08.27       43810748 B   ---   --   ---xx   flac  0.5403  wilco2016-01-31.mk4v.t18.flac
+     3:54.16       41315276 B   ---   --   ---xx   flac  0.4810  wilco2016-01-31.mk4v.t19.flac
+     4:26.11       46948316 B   ---   --   ---xx   flac  0.4605  wilco2016-01-31.mk4v.t20.flac
+     4:29.52       47573948 B   ---   --   ---xx   flac  0.5379  wilco2016-01-31.mk4v.t21.flac
+     7:37.12       80643068 B   ---   --   ---xx   flac  0.5045  wilco2016-01-31.mk4v.t22.flac
+     5:20.38       56537420 B   ---   --   ---xx   flac  0.4981  wilco2016-01-31.mk4v.t23.flac
+     4:20.22       45915788 B   ---   --   ---xx   flac  0.4731  wilco2016-01-31.mk4v.t24.flac
+     4:46.48       50563340 B   ---   --   ---xx   flac  0.4855  wilco2016-01-31.mk4v.t25.flac
+     3:31.03       37227500 B   ---   --   ---xx   flac  0.5220  wilco2016-01-31.mk4v.t26.flac
+     4:15.09       45003212 B   ---   --   ---xx   flac  0.5069  wilco2016-01-31.mk4v.t27.flac
+     4:45.38       50363420 B   ---   --   ---xx   flac  0.4625  wilco2016-01-31.mk4v.t28.flac
+     5:17.58       56055260 B   ---   --   ---xx   flac  0.4827  wilco2016-01-31.mk4v.t29.flac
+   126:23.47     1337753020 B                            0.5019  (29 files)

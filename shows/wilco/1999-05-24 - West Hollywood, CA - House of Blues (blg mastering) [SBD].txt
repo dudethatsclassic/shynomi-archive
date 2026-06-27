@@ -1,0 +1,44 @@
+Wilco
+May 24, 1999
+House of Blues
+West Hollywood, CA
+
+Source: SBD > DAT
+Lineage: DAT > CDR > AIF > FLAC
+Mastering (BLG): Adobe Audition > iZotope Ozone 9 > WavePad > xACT > FLAC
+
+01 I'm Always In Love
+02 I Must Be High
+03 Summer Teeth
+04 How To Fight Loneliness
+05 Hotel Arizona
+06 Nothing'severgonnastandinmyway(again)
+07 Red-Eyed and Blue
+08 I Got You (At the End of the Century)
+09 She's a Jar
+10 A Shot in the Arm
+11 We're Just Friends
+12 Hesitating Beauty
+13 Christ For President
+14 Passenger Side
+15 My Darling
+16 Can't Stand It
+17 Monday
+
+Encore 1:
+18 Forget the Flowers
+19 When You Wake Up Feeling Old
+20 New Madrid
+21 California Stars
+
+Encore 2:
+22 Casino Queen
+23 Outtasite (Outta Mind)
+24 Hoodoo Voodoo
+
+Total Time: 98:20
+
+Notes: Both encore breaks were faded out.  I'm not sure where this recording originated from, but a friend sent it over several months ago.  The spectral goes above 20 (screenshot included), which leads me to believe it is from a 48 or 44.1 khz DAT source and not a webcast.  Excellent sound and a really good show.
+
+.txt compiled on Jan 22, 2022
+

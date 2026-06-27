@@ -1,0 +1,73 @@
+Band Of Horses
+
+2010-08-26 (26 Aug 2010)
+Bush Hall, Shepherds Bush, West London, UK
+
+Source: AT933(853C)>CA9100>H140 Rockboxed
+Transfer: H140>USB>DellHD>Audacity (fade in, volume +2/0dB, fade out)>CD Wave>FLAC
+
+Location: Dead centre, ~10m from stage.
+
+Recorded, transferred, FLAC'd and seeded by Humbug
+
+Disc 1, time: 46:13
+
+1. Intro
+2. Neighbor
+3. Compliments
+4. Cigarettes, Wedding Bands
+5. Window Blues
+6. Older
+7. Part One
+8. Factory
+9. Blue Beard
+10. No One Goes Out (Tyler Ramsey)
+
+Disc 2, time: 45:43
+
+1. Laredo
+2. Weed Party
+3. Is There A Ghost?
+4. Ode to LRC
+5. The Funeral
+---encore---
+6. Evening Kitchen
+7. No One's Gonna Love You
+8. Monsters
+9. The General Specific
+
+Notes:
+Nice sounding recording. There are some chatty people in one or two quiet bits, but this is to be expected.
+Free gig. My wife can't even remember entering a competition to win tickets, but we really enjoyed it! Bush Hall is a cool little atmospheric hall that holds 350.
+
+Line-up:
+Ben Bridwell, vocals, guitar
+Ryan Monroe, keys
+Tyler Ramsey, guitar, vocals
+Bill Reynolds, bass
+Creighton Barrett, drums
+
+FLAC Fingerprint:
+
+boh2010-08-26d1t01.flac:a7fc02205fcbdd750c5a55130d0d2277
+boh2010-08-26d1t02.flac:35e15fc83430c495456385ebeb6ca986
+boh2010-08-26d1t03.flac:5f7aa6b5659e56dd07127079eaacdd91
+boh2010-08-26d1t04.flac:457bcc845cbc65cc573df6f4e87e769d
+boh2010-08-26d1t05.flac:b6cf1e57c5272c85f9f04e185762b54d
+boh2010-08-26d1t06.flac:09d09c6cf10cb4836815b9178a7f08a8
+boh2010-08-26d1t07.flac:573a67d61dbfa9b7ca15c6b78c86f175
+boh2010-08-26d1t08.flac:9e6b970d8f7ea2bf042b8c302bf15654
+boh2010-08-26d1t09.flac:b0d7639405fa542ab735dd508856e629
+boh2010-08-26d1t10.flac:cd57128d4dab64357bf71937fa248108
+boh2010-08-26d2t01.flac:e412320d5e1345f32e7443f15ce65e62
+boh2010-08-26d2t02.flac:4a967a33e6050679fd7cd7dbbaf180cb
+boh2010-08-26d2t03.flac:b3214b0956f8310e2ee344fe46837dbe
+boh2010-08-26d2t04.flac:dcd5c536652dc09231fa567c167d1ea1
+boh2010-08-26d2t05.flac:ce62f023b874ce2a3f14ea733694cb5d
+boh2010-08-26d2t06.flac:2f18fd55f8cdb893565a27a9a76fd853
+boh2010-08-26d2t07.flac:c5117b6d586d1d3a992ae7e2d257c9b7
+boh2010-08-26d2t08.flac:3c32a24556385b4554d493b683b2a6d0
+boh2010-08-26d2t09.flac:1dabea4806c84d7081d50b94514567a4
+
+** FEEL FREE TO CONVERT TO MP3 FORMAT AND REUPLOAD **
+** PLEASE DO NOT PROFIT FROM THIS RECORDING **

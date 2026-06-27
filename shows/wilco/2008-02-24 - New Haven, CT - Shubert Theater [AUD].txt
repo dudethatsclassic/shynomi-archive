@@ -1,0 +1,109 @@
+Wilco
+02/24/2008
+Shubert Theater
+New Haven, CT
+
+Set I: 
+01. Remember The Mountain Bed
+02. California Stars
+03. Company in my back
+04. Pot Kettle Black
+05. A Shot In The Arm
+06. Radio Cure
+07. You Are My Face
+08. Side with the Seeds
+09. Pick Up The Change
+10. Hotel Arizona
+11. I'm always in love
+12. Impossible Germany
+13. Jesus, etc.
+14. Misunderstood
+15. Airline To Heaven
+16. Theologians
+17. Walken
+18. I'm The Man Who Loves You
+19. On and On and On
+
+Encore:
+01. Hate It Here
+02. Heavy Metal Drummer
+03. Red-Eyed and Blue >
+04. I Got You (At the End of the Century) >
+05. Monday >
+06. Outtasite (Outta mind)
+
+
+Notes:
+John Doe - opening act also recorded
+
+Source:
+FOB LOC Schoeps MK41 (7' High 20' from stage (Row C BTWN seats 111-112) 15cm left pointed at 75 deg from center right point at 60 deg from center) > KC5 > CMC6xt > E.A.A. PSP-2 > Sound Device 702 (2.40) (24/96 WAV)
+
+Source Notes:
+Wish I would have run 21's, but all I had where 41's and ran a little too wide IMO as the vocals seem distance.  There where other Schoeps sources using Card's which may sound better.
+
+Transfer:
+SD702 > Firewire > PC
+
+Mastering:
+Mastered to 16/44.1 using Wavelab 5.0 (UV22 HR Dithering to 16bit; Resampling to 44.1Khz; +4db)
+
+Taped by:
+Richard Campbell
+
+shntool Output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     7:05.56       75101756 B   ---   --   ---xx   flac  0.4861  wilco2008-02-24s1p01-1644.flac
+     4:47.50       50744444 B   ---   --   ---xx   flac  0.5546  wilco2008-02-24s1p02-1644.flac
+     4:04.07       43058108 B   ---   --   ---xx   flac  0.5662  wilco2008-02-24s1p03-1644.flac
+     4:22.56       46348556 B   ---   --   ---xx   flac  0.5966  wilco2008-02-24s1p04-1644.flac
+     5:04.63       53773820 B   ---   --   ---xx   flac  0.6220  wilco2008-02-24s1p05-1644.flac
+     5:11.02       54865148 B   ---   --   ---xx   flac  0.4724  wilco2008-02-24s1p06-1644.flac
+     4:47.68       50786780 B   ---   --   ---xx   flac  0.5397  wilco2008-02-24s1p07-1644.flac
+     5:53.26       62330396 B   ---   --   ---xx   flac  0.5219  wilco2008-02-24s1p08-1644.flac
+     3:48.70       40383884 B   ---   --   ---xx   flac  0.5049  wilco2008-02-24s1p09-1644.flac
+     4:38.65       49192124 B   ---   --   ---xx   flac  0.5605  wilco2008-02-24s1p10-1644.flac
+     4:00.35       42418364 B   ---   --   ---xx   flac  0.6256  wilco2008-02-24s1p11-1644.flac
+     6:39.37       70470668 B   ---   --   ---xx   flac  0.5367  wilco2008-02-24s1p12-1644.flac
+     4:06.02       43399148 B   ---   --   ---xx   flac  0.4926  wilco2008-02-24s1p13-1644.flac
+     6:02.71       64023836 B   ---   --   ---xx   flac  0.5028  wilco2008-02-24s1p14-1644.flac
+     5:19.60       56412764 B   ---   --   ---xx   flac  0.5581  wilco2008-02-24s1p15-1644.flac
+     3:38.71       38622236 B   ---   --   ---xx   flac  0.5553  wilco2008-02-24s1p16-1644.flac
+     4:39.26       49276796 B   ---   --   ---xx   flac  0.5607  wilco2008-02-24s1p17-1644.flac
+     4:36.08       48705260 B   ---   --   ---xx   flac  0.5916  wilco2008-02-24s1p18-1644.flac
+     6:30.14       68828972 B   ---   --   ---xx   flac  0.5011  wilco2008-02-24s1p19-1644.flac
+     5:12.14       55069772 B   ---   --   ---xx   flac  0.5675  wilco2008-02-24se1p01-1644.flac
+     3:22.08       35651660 B   ---   --   ---xx   flac  0.6118  wilco2008-02-24se1p02-1644.flac
+     2:11.54       23235452 B   ---   --   ---xx   flac  0.4956  wilco2008-02-24se1p03-1644.flac
+     4:00.10       42359564 B   ---   --   ---xx   flac  0.6441  wilco2008-02-24se1p04-1644.flac
+     3:55.38       41543420 B   ---   --   ---xx   flac  0.6567  wilco2008-02-24se1p05-1644.flac
+     3:03.59       32420012 B   ---   --   ---xx   flac  0.6472  wilco2008-02-24se1p06-1644.flac
+   117:03.70     1239022940 B                            0.5536  (25 files)
+
+FLAC Fingerprints:
+wilco2008-02-24s1p01-1644.flac:34d5e06b00b00d2fd809f02f9b708b28
+wilco2008-02-24s1p02-1644.flac:7ea33ffd7cd50e3d373dd88db04e9dfd
+wilco2008-02-24s1p03-1644.flac:5a928dc7f935993c7096d07b3316c34f
+wilco2008-02-24s1p04-1644.flac:ec43f5ba69cbdcf3a784b4ee869314bd
+wilco2008-02-24s1p05-1644.flac:460758c0a249691cf360c3c535bae19c
+wilco2008-02-24s1p06-1644.flac:f579b225eebf415b189954ef3469cad6
+wilco2008-02-24s1p07-1644.flac:8257c9f60b72d6e8034bf1b1f22e144b
+wilco2008-02-24s1p08-1644.flac:5bb2745f0dc8c64921460be6bc55a03a
+wilco2008-02-24s1p09-1644.flac:47fe909196de59283eae0ee0f85d2821
+wilco2008-02-24s1p10-1644.flac:94118e4151bca527d62ffba08fa0fc4e
+wilco2008-02-24s1p11-1644.flac:3b4c8bc1b84d1cb6f63bd4787ce9e594
+wilco2008-02-24s1p12-1644.flac:c2d9992a15762b4e111b9240f2629900
+wilco2008-02-24s1p13-1644.flac:0dd186e71e0eaaad3b3a65fa2383d001
+wilco2008-02-24s1p14-1644.flac:f91471bc386de2b9f88d669ab67583d5
+wilco2008-02-24s1p15-1644.flac:18ea4c7b1c78745f4309963c6911200b
+wilco2008-02-24s1p16-1644.flac:96195c081e2923744dc15dca54e86f23
+wilco2008-02-24s1p17-1644.flac:59dd77c88dc64d118fbead85bd152fb9
+wilco2008-02-24s1p18-1644.flac:4e9587564f3d7032a24520e00e0a6100
+wilco2008-02-24s1p19-1644.flac:fc58fdba8243eae725402cc4d3635559
+wilco2008-02-24se1p01-1644.flac:b508b64a13f4276f774a9fc6aaf21086
+wilco2008-02-24se1p02-1644.flac:1caec173f54c678fe89394e3989146bd
+wilco2008-02-24se1p03-1644.flac:52e8479f6a8d57b234916ffc54e1e03f
+wilco2008-02-24se1p04-1644.flac:7389271f9bb478e526145ade48161247
+wilco2008-02-24se1p05-1644.flac:b1cc3b9c36377a6c2f7045bde41caafa
+wilco2008-02-24se1p06-1644.flac:c747a10ba933528077c05cb1882946df

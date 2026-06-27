@@ -1,0 +1,46 @@
+Dave Matthews and Tim Reynolds
+2-21-94
+The Birchmere, Alexandria, VA
+
+taper:  unknown
+source:  SBD
+
+conversion:  mike vernal
+equipment:  tascam dap1>Audiomedia III
+
+DAE:  allan chen
+using:  EAC.  all tracks 100%
+
+wav>shn:  allan chen
+using:  mkw compression tool
+
+tracks
+---------------------
+d1t01 - Pay For What You Get
+d1t02 - Lie In Our Graves
+d1t03 - So Much To Say
+d1t04 - Satellite
+d1t05 - Recently
+d1t06 - You Are My Sanity (Tim Solo)
+d1t07 - Warehouse
+d1t08 - Typical Situation
+d1t09 - Help Myself
+
+d2t01 - Humans From Earth (Tim and T-Bone Burnett)
+d2t02 - Minarets
+d2t03 - Tripping Billies
+d2t04 - I'll Back You Up
+d2t05 - Dancing Nancies
+d2t06 - Stream (Tim Solo)
+d2t07 - Cry Freedom
+d2t08 - Ants Marching
+d2t09 - One Sweet World
+d2t10 - Christmas Song
+
+encore
+d2t11 - Angel From Montgomery
+d2t12 - All Along the Watchtower
+
+
+compiled by:  allan chen
+10/19/99 

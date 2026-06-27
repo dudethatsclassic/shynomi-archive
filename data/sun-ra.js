@@ -27,7 +27,8 @@ const ARTIST_DATA = {
       "venue": "Buffalo State College",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1978-11-05 - Buffalo, NY - Buffalo State College [AUD].txt"
     },
     {
       "year": 1979,
@@ -40,7 +41,8 @@ const ARTIST_DATA = {
       "venue": "Bayou",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1979-05-10 - Washington, D.C. - Bayou [AUD].txt"
     },
     {
       "year": 1982,
@@ -53,7 +55,8 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1982-06-24 - Mannheim, West Germany - Unknown Venue [AUD].txt"
     },
     {
       "year": 1985,
@@ -66,7 +69,8 @@ const ARTIST_DATA = {
       "venue": "Stache's",
       "notes": "ayreeayl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1985-01-04 - Columbus, OH - Stache's (ayreeayl) [AUD].txt"
     },
     {
       "year": 1985,
@@ -79,7 +83,8 @@ const ARTIST_DATA = {
       "venue": "Stache's",
       "notes": "ayreeayl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1985-01-05 - Columbus, OH - Stache's (ayreeayl) [AUD].txt"
     },
     {
       "year": 1985,
@@ -92,7 +97,8 @@ const ARTIST_DATA = {
       "venue": "Museum of Modern Art",
       "notes": "ayreeayl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1985-07-09 - Stockholm, Sweden - Museum of Modern Art [AUD].txt"
     },
     {
       "year": 1985,
@@ -105,7 +111,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1985-10-27 - Hamburg, W. Germany (ayreeayl) [AUD].txt"
     },
     {
       "year": 1986,
@@ -118,7 +125,8 @@ const ARTIST_DATA = {
       "venue": "UIC Pavilion",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1986-05-15 - Chicago, IL - UIC Pavilion [AUD].txt"
     },
     {
       "year": 1987,
@@ -131,7 +139,8 @@ const ARTIST_DATA = {
       "venue": "SUNY Binghampton",
       "notes": "Nelson",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1987-12-06 - Vestal, NY - SUNY Binghampton - Nelson Mandela Room [SBD].txt"
     },
     {
       "year": 1988,
@@ -144,7 +153,8 @@ const ARTIST_DATA = {
       "venue": "Petrillo Band Shell",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-09-03 - Chicago, IL - Petrillo Band Shell [FM].txt"
     },
     {
       "year": 1988,
@@ -157,7 +167,8 @@ const ARTIST_DATA = {
       "venue": "Kuumbwa Jazz Center",
       "notes": "DAT(M)",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-10-30 - Santa Cruz, CA - Kuumbwa Jazz Center - DAT(M) [SBD].txt"
     },
     {
       "year": 1990,
@@ -170,7 +181,8 @@ const ARTIST_DATA = {
       "venue": "Piazza della Riforma",
       "notes": "Estival",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-06-27 - Lugano, Switzerland - Piazza della Riforma - Estival Jazz [SBD].txt"
     }
   ],
   "misc": []

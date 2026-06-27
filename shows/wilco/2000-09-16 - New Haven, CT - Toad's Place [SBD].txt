@@ -1,0 +1,67 @@
+Wilco
+September 16, 2000
+Toad's Place - New Haven, CT  
+
+Source:		SBD
+Lineage:	CD-R (unknown generation)->EAC(V0.95)->WAV->FLAC Frontend,level 8(1.7.1)->FLAC
+
+ 
+DISC 1
+1 Airline To Heaven 
+2 Feed Of Man 
+3 Christ For President 
+4 Remember The Mountain Bed 
+5 California Stars
+6 Hesitating Beauty
+7 Secret Of The Sea
+8 Red Eyed And Blue > 
+9 I Got You >
+10 Someone Else's Song
+11 How To Fight Loneliness
+12 Hotel Arizona
+13 I'm Always in Love
+14 She's A Jar
+15 Shot In The Arm
+
+DISC 2:
+
+1 Misunderstood
+2 I'm The Man Who Loves You
+3 Forget The Flowers
+4 New Madrid
+5 Passenger Side
+6 Passenger Side (punk)
+7 Casino Queen >
+8 Hoodoo Voodoo >
+9 Casino Queen (reprise)
+10 Outtasite (Outta Mind) 
+
+
+Ripped and encoded by scottjh
+ 
+Fingerprints:
+wilco2000-09-16D1Track01.flac:3c5eb7c3ae37d17f620d76d3f157a7c7
+wilco2000-09-16D1Track02.flac:f1fe77a04cbf3d11c60960f87ce13159
+wilco2000-09-16D1Track03.flac:31c3f1ee5bc88ab8705ef91bf67964a1
+wilco2000-09-16D1Track04.flac:432deaa433d4adccd28861e299d1e077
+wilco2000-09-16D1Track05.flac:83b955fac4dbc27afa3f6b5dbba02628
+wilco2000-09-16D1Track06.flac:d28f8acb46e56577c0f967f55a16db59
+wilco2000-09-16D1Track07.flac:0d9d33e22c076074eb70d5ef913f880c
+wilco2000-09-16D1Track08.flac:8fc5b4e228e53dd510c964a447db4fac
+wilco2000-09-16D1Track09.flac:b2429b05319dac0a9d96fc39a37461db
+wilco2000-09-16D1Track10.flac:834f59a854f2d80a102f7f648f172eab
+wilco2000-09-16D1Track11.flac:ab1cd7b593eaa83dc7773306e1359301
+wilco2000-09-16D1Track12.flac:1e55195254c1eb2cedbb795ee4919340
+wilco2000-09-16D1Track13.flac:186db864ccca5cd30af4c76037a672dc
+wilco2000-09-16D1Track14.flac:af6f5722faa934f6bd6711f752848ad0
+wilco2000-09-16D1Track15.flac:516b72de732befec7b7675440c4d779c
+wilco2000-09-16D2Track01.flac:501fc0bc3832b12b6351c181163251ce
+wilco2000-09-16D2Track02.flac:3a53345a755e45ce1cc8d24ce122cd43
+wilco2000-09-16D2Track03.flac:ae04271719abb7d0e797b435df8881e8
+wilco2000-09-16D2Track04.flac:e13c38f84bdd45ec419118aa2db8afb6
+wilco2000-09-16D2Track05.flac:ec22fb040eb49c3936ceb1fae0696217
+wilco2000-09-16D2Track06.flac:38aab00ceaadbc4d1d29d0b70780425d
+wilco2000-09-16D2Track07.flac:aae76cec475a71858b85f719b149e4ab
+wilco2000-09-16D2Track08.flac:43cd9ab564cdcfa2aa443e8dd55ccfb3
+wilco2000-09-16D2Track09.flac:f585319a19db0b437b89e8e337f0e109
+wilco2000-09-16D2Track10.flac:64eb450986fc9af8139c692af19e54da

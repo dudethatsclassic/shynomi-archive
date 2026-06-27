@@ -1,0 +1,54 @@
+Wilco
+7-2-03
+Comerica Tastefest
+MGM Grand Detroit Casino Stage
+Fisher Building Parking Lot
+Detroit, MI
+
+Source:	DAB>DA-120F>NJB3@44.1khz>IEEE-1394(lossless)>
+Soundforge 5.0>CD Wave>SHN
+
+Taper:  SpeshulEd
+Email:	SpeshulEd69@hotmail.com
+
+Mastering: SHN>MKW>WAV>Soundforge 4.5(fades d1t01 and d2t12)>
+MKW>SHN
+
+1. The Late Greats
+2. I'm Always in Love
+3. Muzzle of Bees
+4. I'm the Man Who Loves you
+5. Poor Places
+6. Reservations
+7. I Am Trying to Break Your Heart
+8. War on War
+9. At Least That's What You Said
+10. How To Fight Loneliness
+11. Heavy Metal Drummer
+12. Jesus, Etc.
+
+Disc 2
+1. Red-Eyed and Blue>
+2. I Got You (At the End of the Century)
+3. We've Been Had
+4. Casino Queen
+Encore 1
+5. When You Wake up Feeling Old
+6. When the Roses Bloom Again
+7. Misunderstood
+8. Forget the Flowers
+9. New Madrid
+10. California Stars
+Encore 2
+11. Monday
+12. Outtasite (Outta Mind)
+
+DAB     - Dynamic Audio Binaurals
+DA-120F - Dynamic Audio Fixed Battery Module
+NJB3	- Nomad Jukebox 3 (recording at 16/44.1khz)
+
+Notes:
+The mixer had some problems at the beginning, crackle in the 
+mics, and a little out of mix, however, that was fixed as the 
+show went on.  It seems as if the bass was slowly taken out 
+tho, wasn't me tho.

@@ -1,0 +1,40 @@
+Wilco
+2011-05-08
+Cain's Ballroom
+Tulsa, OK
+
+Source: SP-CMC-9 (AT 898) > SP-SPSB-10 > Olympus LS-10 @ 48 kHz / 24-bit
+Lineage: 48/24 WAV > Audacity 1.2.6 (split tracks, resample to 44.1 kHz, dither to 16-bit) > Traders Little Helper (convert to flac - level 7)
+
+Some (not very good) artwork included in the torrent.
+
+
+Setlist:
+
+Disc 1:
+
+01 Ashes Of American Flags
+02 Bull Black Nova
+03 Company In My Back
+04 I Am Trying To Break Your Heart
+05 Kamera
+06 Handshake Drugs
+07 One Wing
+08 A Shot In The Arm
+09 I'll Fight
+10 Via Chicago
+11 Impossible Germany
+12 ~ banter ~
+13 Jesus, Etc.
+14 Box Full Of Letters
+15 Airline To Heaven
+16 Theologians
+17 Walken
+18 I'm The Man Who Loves You
+19 ~ encore break ~
+20 Passenger Side
+21 Misunderstood
+22 Heavy Metal Drummer
+23 Red-Eyed And Blue ->
+24 I Got You (At The End Of The Century) ->
+25 Hoodoo Voodoo

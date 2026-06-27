@@ -1,0 +1,92 @@
+Leadbelly
+Hogg Auditorium
+University Of Texas
+Austin, TX
+June 15, 1949
+
+Source : KUT radio broadcast > ?? > CD-R Trade (circa 1999) > EAC > Wave > TLH (sbe aligned) > Flac 8
+
+Traders Den - June 17, 2023
+
+posted by kingrue upload #3692
+==================================
+
+
+Total Time = 59:26 (extended version)
+
+Set list
+01 Irene, Goodnight
+02 Hoday, Hoday
+03 I Ain't Goin' Down to the Well No More
+04 Rock Island Line
+05 Old Hannah
+06 Shine On Me
+07 What Can I Do To Change Your Mind
+08 Skip To My Lou
+09 Mary and Martha
+10 Scrambled Egg Song
+11 Whoa Buck
+12 John Henry (Henry Thomas cover)
+13 Backwater Blues (Bessie Smith cover)
+14 Ella Louise
+15 I Don't Want No More Of Army Life (Irving Berlin cover)
+16 Relax Your Mind
+17 Irene, Goodnight
+18 Old Ship of Zion (with vocals by Martha Leadbetter)
+19 I Will Be So Glad When I Get Home
+
+
+Contrast Clause (short version)
+https://www.thetradersden.org/forums/showthread.php?t=171217
+
+===================================
+
+Mpeg test results are CDDA Lossless
+
+
+01 Irene, Goodnight.wav:  track looks like CDDA with probability 100%.
+02 Hoday, Hoday.wav:  track looks like CDDA with probability 100%.
+03 I Ain't Goin' Down to the Well No More.wav:  track looks like CDDA with probability 100%.
+04 Rock Island Line.wav:  track looks like CDDA with probability 100%.
+05 Old Hannah.wav:  track looks like CDDA with probability 100%.
+06 Shine On Me.wav:  track looks like CDDA with probability 100%.
+07 What Can I Do To Change Your Mind.wav:  track looks like CDDA with probability 100%.
+08 Skip To My Lou.wav:  track looks like CDDA with probability 100%.
+09 Mary And Martha.wav:  track looks like CDDA with probability 100%.
+10 Scrambled Egg Song.wav:  track looks like CDDA with probability 100%.
+11 Whoa Buck.wav:  track looks like CDDA with probability 100%.
+12 John Henry.wav:  track looks like CDDA with probability 100%.
+13 Backwater Blues.wav:  track looks like CDDA with probability 100%.
+14 Ella Louise.wav:  track looks like CDDA with probability 99%.
+15 I Don't Want No More Of Army Life.wav:  track looks like CDDA with probability 100%.
+16 Relax Your Mind.wav:  track looks like CDDA with probability 100%.
+17 Irene, Goodnight.wav:  track looks like CDDA with probability 100%.
+18 Old Ship of Zion.wav:  track looks like CDDA with probability 100%.
+19 I Will Be So Glad When I Get Home.wav:  track looks like CDDA with probability 100%.
+
+No errors occured.
+
+
+01 Irene, Goodnight.flac:3ed3144a9e4c5291275991e01635698e
+02 Hoday, Hoday.flac:8fa094c5cd45d05a6d50ba6079adecb2
+03 I Ain't Goin' Down to the Well No More.flac:1f766d5a3ade729db788b9d355ca16f3
+04 Rock Island Line.flac:d36b423963213b34c395c142bd3551d2
+05 Old Hannah.flac:2cda27ebca8e6af8d39f9b9f470e5786
+06 Shine On Me.flac:5c1abb8d52cdcd56213526ea3213c720
+07 What Can I Do To Change Your Mind.flac:9c4802f6beae6d98bb39539d3dea5e04
+08 Skip To My Lou.flac:8bc67332fc09686bb9a4b84a8b649599
+09 Mary And Martha.flac:5b0a81c70f45c6b2e7d9655128917c0c
+10 Scrambled Egg Song.flac:e0b05273de15c543075eaeb353390623
+11 Whoa Buck.flac:87baa1b858d55f8fdf41c05102c5d8d8
+12 John Henry.flac:c4b5a9ce2f38f1de359d2e2d8cfd060d
+13 Backwater Blues.flac:51f441d6ed9fb2bca0952fbbb92b7917
+14 Ella Louise.flac:970306d7972fc1bb0d3ef20714721b10
+15 I Don't Want No More Of Army Life.flac:be9ae1bcc2fb920eb842a622f5ececa6
+16 Relax Your Mind.flac:634e839f257b364147e28b5490808df1
+17 Irene, Goodnight.flac:ec2b4b86db95b55d2ae69f8b607f3ec3
+18 Old Ship of Zion.flac:1a68dcb6457375612e45811ff75a7dea
+19 I Will Be So Glad When I Get Home.flac:95e3310dc4d8965dc259110d237b4b47
+
+Checksum file saved to disk.
+
+No errors occured.

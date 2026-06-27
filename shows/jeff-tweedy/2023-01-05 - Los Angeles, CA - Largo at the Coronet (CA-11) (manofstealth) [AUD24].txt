@@ -1,0 +1,80 @@
+Jeff Tweedy
+Largo at The Coronet
+Los Angeles, CA
+January 5, 2023
+
+** 24 BIT **
+
+Source:  CA-11 cardioids > CA Battery Box > Sony PCM-M10 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) >
+Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded by:  ManOfStealth
+Mastered by:  Dennis Orr
+
+Setlist: (1:24:45)
+01 I Am My Mother
+02 Cruel Country
+03 The Universe
+04 Tonight I'll Be Staying Here With You
+05 Gwendolyn
+06 Chat
+07 Little Lies
+08 Tired Of Taking It Out On You
+09 Dawned On Me
+10 Chat & Tuning
+11 New Madrid
+12 Chat & Tuning
+13 Many Worlds
+14 Chat
+15 Country Song Upside-Down
+16 Pot Kettle Black
+17 Chat
+18 Don't Forget
+19 You Are Not Alone
+20 Chat & Tuning
+21 Having A Hard Time
+22 Chat
+23 Hummingbird
+24 Chat & Tuning
+25 I'm The Man Who Loves You
+26 Encore Break
+- Encore - 
+27 One True Vine
+28 Laminated Cat (aka Not For The Season)
+29 Passenger Side
+
+Jeff Tweedy - vocals, guitar, & harp
+
+Notes:
+An excellent review of the show can be found here:
+https://viachicago.org/topic/55374-jeff-tweedy-%E2%80%94-5-january-2023-los-angeles-ca-largo-at-the-coronet-theatre-night-1-of-4/
+
+JeffTweedy2023-01-05t01.flac:fdcfc148ff22c2a4642a259353340ba7
+JeffTweedy2023-01-05t02.flac:26262e60c52327c205d3be99f00fbafa
+JeffTweedy2023-01-05t03.flac:0f478d2fe999b9ebc9bdbe284dc39144
+JeffTweedy2023-01-05t04.flac:c2267f599dc273f67df484b19980db65
+JeffTweedy2023-01-05t05.flac:33c75ed09f17163118dbba429c97b45f
+JeffTweedy2023-01-05t06.flac:92074499911fcf08aa867d913c2463b1
+JeffTweedy2023-01-05t07.flac:124f0e175f065cfca4d1e16eb3a97538
+JeffTweedy2023-01-05t08.flac:f6ff287617bb17e297120f90c80f569b
+JeffTweedy2023-01-05t09.flac:cffbe017bbf50129da723ccc2f46266b
+JeffTweedy2023-01-05t10.flac:73faec6ef0d2ec24abaf09142bc0723f
+JeffTweedy2023-01-05t11.flac:86ddefef07ec4dd0d716a0fb2e9eb30e
+JeffTweedy2023-01-05t12.flac:6a825865e0848d55fe7c51a40fe96f24
+JeffTweedy2023-01-05t13.flac:0f8e40c585491cedd598490e88548265
+JeffTweedy2023-01-05t14.flac:c676bc527fd96bb0cf234c455c4be2e2
+JeffTweedy2023-01-05t15.flac:48e6c868feb7a1ce7199be59d4102351
+JeffTweedy2023-01-05t16.flac:8ed3fa90ef73665fee404bd175888b7c
+JeffTweedy2023-01-05t17.flac:46d63c123adf5bee33b78948974d0c92
+JeffTweedy2023-01-05t18.flac:77cb2bf87e072a9cf9734a8379246392
+JeffTweedy2023-01-05t19.flac:6093bef21469dc11142279db16763b87
+JeffTweedy2023-01-05t20.flac:29ee3d942b255caccdc913e685331d4e
+JeffTweedy2023-01-05t21.flac:aad682d554b98fc95fb1e0936b045e87
+JeffTweedy2023-01-05t22.flac:078391bae9861d021291b35f8b1c1728
+JeffTweedy2023-01-05t23.flac:27a8451dc4664b4ba088ab5d5effb340
+JeffTweedy2023-01-05t24.flac:f8876a7a92383b9a45075e7d8e3d59c8
+JeffTweedy2023-01-05t25.flac:243253c1f05f23bd54e88e712a170426
+JeffTweedy2023-01-05t26.flac:dbe0a5b507f6d8acd2d55602829faf92
+JeffTweedy2023-01-05t27.flac:f40fab51a1b61b5583157d58ee1ad407
+JeffTweedy2023-01-05t28.flac:1e9b3befb423bb2dd0c6b348885aa669
+JeffTweedy2023-01-05t29.flac:e3eaa2c1b7e123a3c8a5e6643b3f91be

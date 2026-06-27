@@ -1,0 +1,74 @@
+Dave Matthews Band
+July 28, 1995
+Oak Mountain
+Birmingham, AL
+
+
+Source: AUD
+
+analog > DAT: Nakamichi CR7 > Lucid A/D > Fostex D5
+		Mark Lynn
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling & CDWAV used for tracking
+		Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:		Intro				00:15.44
+02:		Seek Up				14:49.13
+03:		Drive In Drive Out		07:09.56
+04:		Best Of What's Around		07:10.44
+05:		Tripping Billies		06:13.34
+06:		Rhyme And Reason		06:44.57
+07:		crowd noise			01:52.22
+08:		Recently (Some Do) #		10:08.21
+09:		All Along The Watchtower #	12:52.28
+10:		Pay For What You Get #		06:40.48
+
+Total						73:56.58
+
+Disc Two:
+
+01:		Dancing Nancies #		09:42.44
+02:		Jimi Thing			11:50.62
+03:		Proudest Monkey ->		03:50.31
+04:		Satellite			04:56.03
+05:		What Would You Say ->		03:39.64
+06:		Carter Drum solo ->		03:00.50
+07:		#36 ->				08:47.08
+08:		Ants Marching			07:10.64
+09:		encore intro			00:40.16
+10:		E:  Hold Me Down		02:53.23
+11:		E:  Exodus %			12:57.48
+
+Total						68:49.56
+
+#	with Tim Reynolds on guitar.
+%	with David Ryan Harris on guitar.
+
+Notes:
+----------
+*	There was a really bad "dentist drilling sound that starts
+	0:23 into Billies and continues in R&R.  Spectrum analysis
+	in SoundForge showed that the two primary frequencies causing
+	this noise were at 15,786Hz and 9057Hz.  a notch filter
+	at -25dB attenuation was implented at these frequencies in both
+	tracks during the problem regions.  The sound can still be
+	heard, but it is listenable now.
+*	There is a tape flip after R&R, a fade out/in was inserted.
+*	There is a one second dropout in Recently, no editing was done.
+*	There is a tape flip after Nancies, a fade out/in was inserted.
+*	The levels were a bit different during Jimi right after Nancies.
+	No editing was done to fix the levels.
+*	There is a tape flip after Satellite and the Dave speak between
+	Satellite and WWYS is in & out, so i removed it.  WWYS starts
+	abruptly (missing the first 10 seconds or so).  A fade out/in
+	was inserted to make this transition smooth.
+*	There is a few second dropout near 1:00 into #36.
+*	There was a tape flip a minute after Dave started playing
+	Hold Me Down and the song was started over on the other side
+	of the tape.  I put a fade out/in before the encore intro and
+	Hold Me Down to make this transition smooth.
+
+*  compiled by Louie Rendek <ljr7@po.cwru.edu> on June 5, 2002.

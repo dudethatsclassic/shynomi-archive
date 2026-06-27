@@ -1,0 +1,28 @@
+Garbage
+November 6, 2002
+Denver Coliseum
+Denver, CO
+(Opening for No Doubt)
+
+Taper: Ken Mininger (ken@mininger.org)
+Source: AT853s > SPSB1 > Sony MZR70
+Transfer: Sony MDS-JE510 > Zoltrix Nightingale Pro 6 > SoundForge 6 Pro > wav
+Editing/Tracking: SoundForge 6 Pro/CDWav 1.71
+Conversion: wav > SHNTool > mkwAct > SHN
+
+Disc 1
+01 - Supervixen                03:35.56
+02 - I Think I'm Paranoid      04:23.66
+03 - Shut Your Mouth           03:27.67
+04 - Vow                       06:26.52
+05 - #1 Crush                  04:48.62
+06 - Push It                   04:09.43
+07 - Only Happy When It Rains  05:22.29
+08 - Milk                      05:14.33
+09 - Cherry Lips (Go Baby Go!) 03:25.20
+10 - When I Grow Up            04:22.10
+Total -                        45:16.63
+
+Notes:
+- beginning slightly cut
+- slight dropout at 00:08 on T1 and 05:39 on T2

@@ -1,0 +1,394 @@
+Wilco
+Lockn' Festival
+Arrington, Virginia
+9/6/2014 
+
+Source: Schoeps CCM4V'S(din)>Lunatec V2>Benchmark AD2K>
+Sound Devices 722 (24/48)
+FOB/DFC/KFC/ZFC/AARP Approximately 55' From Stage, 7' High 
+DSP: Sound Devices 722>Sound Forge 10.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Disc I 
+
+01 War On War
+02 So Misunderstood
+03 Impossible Germany
+04 Shouldn't Be Ashamed
+05 Forget The Flowers
+06 I'm The Man Who Loves You
+07 Red-Eyed And Blue
+08 Jesus Etc.
+09 Handshake Drugs 
+
+Disc II 
+
+01 Born Alone >
+02 Laminated Cat
+03 Passenger Side
+04 California Stars
+05 Walkin'
+06 Dawned On Me
+07 A Shot In The Arm
+
+wilco2014-09-06d01t01.flac:66924301b787890ad9a2561d99d4baaa
+wilco2014-09-06d01t02.flac:99ab09d11a364877320a7a7f7bf733ef
+wilco2014-09-06d01t03.flac:79a6c90d92d0dc838ba05c0eb00c3a7c
+wilco2014-09-06d01t04.flac:6f68b9c4e6d0ddf36033520dc9c3aaf4
+wilco2014-09-06d01t05.flac:9797afb243123236ecd08091c4291029
+wilco2014-09-06d01t06.flac:8f9b8e83c95f2e0db593d370ec0706b3
+wilco2014-09-06d01t07.flac:11ede18f385399796738abbcb0d69fab
+wilco2014-09-06d01t08.flac:e60113668fe0d582c9476bf0aaa29509
+wilco2014-09-06d01t09.flac:2b62d1f461868d09919b10f4ec7ddda3
+wilco2014-09-06d02t01.flac:272fd2e5b435e4f2b6700bd8cc85d10d
+wilco2014-09-06d02t02.flac:f0d77e47e8306131eac2f9cd321bdfac
+wilco2014-09-06d02t03.flac:975b83766aa430a4a130b45a20d4351f
+wilco2014-09-06d02t04.flac:b1fdd721e6d48f09caebc863e8fa7203
+wilco2014-09-06d02t05.flac:5975791c4fd9a27320095cbb1675fb68
+wilco2014-09-06d02t06.flac:ba2ab9d3ef89246026ccff9c576de50d
+wilco2014-09-06d02t07.flac:112c5b435c1c830011203b8a73891b2e
+
+ length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:34.53       37874300 B   ---   --   ---xx   flac  0.5126  wilco2014-09-06d01t01.flac
+     6:14.08       65992460 B   ---   --   ---xx   flac  0.4558  wilco2014-09-06d01t02.flac
+     7:22.65       78121724 B   ---   --   ---xx   flac  0.4659  wilco2014-09-06d01t03.flac
+     4:47.25       50685644 B   ---   --   ---xx   flac  0.4657  wilco2014-09-06d01t04.flac
+     2:57.50       31340444 B   ---   --   ---xx   flac  0.4617  wilco2014-09-06d01t05.flac
+     4:46.30       50521004 B   ---   --   ---xx   flac  0.4826  wilco2014-09-06d01t06.flac
+     6:56.53       73507100 B   ---   --   ---xx   flac  0.4824  wilco2014-09-06d01t07.flac
+     4:20.22       45915788 B   ---   --   ---xx   flac  0.4302  wilco2014-09-06d01t08.flac
+     6:02.19       63901532 B   ---   --   ---xx   flac  0.4895  wilco2014-09-06d01t09.flac
+     4:37.18       48905180 B   ---   --   ---xx   flac  0.4986  wilco2014-09-06d02t01.flac
+     5:33.18       58783580 B   ---   --   ---xx   flac  0.4773  wilco2014-09-06d02t02.flac
+     4:05.57       43352108 B   ---   --   ---xx   flac  0.4726  wilco2014-09-06d02t03.flac
+     5:53.16       62306876 B   ---   --   ---xx   flac  0.4662  wilco2014-09-06d02t04.flac
+    13:25.62      142147868 B   ---   --   ---xx   flac  0.4822  wilco2014-09-06d02t05.flac
+     3:42.00       39160844 B   ---   --   ---xx   flac  0.5264  wilco2014-09-06d02t06.flac
+     5:22.03       56807900 B   ---   --   ---xx   flac  0.5278  wilco2014-09-06d02t07.flac
+    89:41.49      949324352 B                            0.4803  (16 files)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

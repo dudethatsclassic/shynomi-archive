@@ -32,7 +32,8 @@ const ARTIST_DATA = {
       "venue": "Montreux Jazz Festival",
       "notes": "",
       "version": "",
-      "format": ""
+      "format": "",
+      "textFile": "1991-07-03 - Montreux, Switzerland - Montreux Jazz Festival [SBD].txt"
     },
     {
       "year": 1991,
@@ -45,7 +46,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "textFile": "1991-12-12 - Toscas Sunderland (Radio show) [FM].txt"
     },
     {
       "year": 1992,
@@ -58,7 +60,8 @@ const ARTIST_DATA = {
       "venue": "Shaw Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-01-30 - London, UK - Shaw Theatre [AUD].txt"
     },
     {
       "year": 1992,
@@ -71,7 +74,8 @@ const ARTIST_DATA = {
       "venue": "Sheffield University",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-02-21 - Sheffield, UK - Sheffield University [AUD].txt"
     },
     {
       "year": 1992,
@@ -84,7 +88,8 @@ const ARTIST_DATA = {
       "venue": "Free Trade Hall",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-04-10 - Manchester, UK - Free Trade Hall [AUD].txt"
     },
     {
       "year": 1992,
@@ -97,7 +102,8 @@ const ARTIST_DATA = {
       "venue": "Bottom Line (Early and Late Shows",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-04-20  New York City, NY (late).txt"
     },
     {
       "year": 1992,
@@ -110,7 +116,8 @@ const ARTIST_DATA = {
       "venue": "Rivoli Tavern",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-04-25 - Toronto, Canada - Rivoli Tavern [AUD].txt"
     },
     {
       "year": 1992,
@@ -123,7 +130,8 @@ const ARTIST_DATA = {
       "venue": "Night Stage",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-04-28 - Cambridge, MA - Night Stage [AUD].flac.txt"
     },
     {
       "year": 1992,
@@ -136,7 +144,8 @@ const ARTIST_DATA = {
       "venue": "Backstage Tavern *A Kiss On the Glass",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-05-06 - Ballard, WA - Backstage Tavern - A Kiss on the Glass [Siilver].txt"
     },
     {
       "year": 1992,
@@ -149,7 +158,8 @@ const ARTIST_DATA = {
       "venue": "Alte Oper *Pieces of Me",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-06-07 - Frankfurt, Germany - Alte Oper - Pieces of Me [Silver].txt"
     },
     {
       "year": 1992,
@@ -162,7 +172,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "textFile": "1992-06-16 -  London, UK - BBC Radio 2 - Steve Wright in the Afternoon Show [FM].txt"
     },
     {
       "year": 1992,
@@ -175,7 +186,8 @@ const ARTIST_DATA = {
       "venue": "Montreux Jazz Festival *Live in Montreux 1992",
       "notes": "",
       "version": "Silver CD",
-      "format": "2 sources"
+      "format": "2 sources",
+      "textFile": "1992-07-07  Montreux, Switzerland (2nd source).txt"
     },
     {
       "year": 1992,
@@ -188,7 +200,8 @@ const ARTIST_DATA = {
       "venue": "Carefree Theatre *Blooming",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-08-16 - West Palm Beach, FL - Carefree Theatre - Blooming [AUD].txt"
     },
     {
       "year": 1992,
@@ -201,7 +214,8 @@ const ARTIST_DATA = {
       "venue": "Fonda Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-08-24 - Los Angeles, CA - Fonda Theatre [AUD].txt"
     },
     {
       "year": 1992,
@@ -214,7 +228,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-08-28 - Portland, OR - Roseland Theatre [AUD].txt"
     },
     {
       "year": 1992,
@@ -227,7 +242,8 @@ const ARTIST_DATA = {
       "venue": "Moore Theatre *Me And A Piano",
       "notes": "",
       "version": "Silver CD",
-      "format": "2 sources"
+      "format": "2 sources",
+      "textFile": "1992-08-29  Seattle, WA - Me and a Piano (2nd source).txt"
     },
     {
       "year": 1992,
@@ -240,7 +256,8 @@ const ARTIST_DATA = {
       "venue": "Palace of Fine Arts",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-09-02 - San Francisco, CA - Palace of Fine Arts [AUD].txt"
     },
     {
       "year": 1992,
@@ -253,7 +270,8 @@ const ARTIST_DATA = {
       "venue": "Coach House *After the Rain",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-09-04 - San Juan Capistrano, CA - Coach House - After the Rain [Silver].txt"
     },
     {
       "year": 1992,
@@ -266,7 +284,8 @@ const ARTIST_DATA = {
       "venue": "*Years of Silence",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-09-04 - San Juan Capistrano, CA - Coach House - Years of Silence [Silver].txt"
     },
     {
       "year": 1992,
@@ -279,7 +298,8 @@ const ARTIST_DATA = {
       "venue": "Mountain Stage",
       "notes": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "textFile": "1992-09-20 - Charleston, WV - Mountain Stage [FM].txt"
     },
     {
       "year": 1992,
@@ -292,7 +312,8 @@ const ARTIST_DATA = {
       "venue": "Count Basie Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-10-11 - Red Bank, NJ - Count Basie Theatre [AUD].txt"
     },
     {
       "year": 1992,
@@ -305,7 +326,8 @@ const ARTIST_DATA = {
       "venue": "Buckley Recital Hall",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-10-25 - Amherst, MA - Buckley Recital Hall [AUD].txt"
     },
     {
       "year": 1992,
@@ -318,7 +340,8 @@ const ARTIST_DATA = {
       "venue": "Phoenix Concert Theatre",
       "notes": "",
       "version": "FM",
-      "format": "4 sources"
+      "format": "4 sources",
+      "textFile": "1992-10-28  Toronto, Canada - Silent All These Years.txt"
     },
     {
       "year": 1992,
@@ -331,7 +354,8 @@ const ARTIST_DATA = {
       "venue": "St Andrew's Hall",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-10-30 - Detroit, MI - St. Andrew's Hall [AUD].txt"
     },
     {
       "year": 1992,
@@ -344,7 +368,8 @@ const ARTIST_DATA = {
       "venue": "Page Hall *I Like Led Zeppelin and I Love the Stones",
       "notes": "SC 52018",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-11-08 - Albany, NY - Page Hall - I Like Led Zeppelin and I Love the Stones [Silver].txt"
     },
     {
       "year": 1992,
@@ -357,7 +382,8 @@ const ARTIST_DATA = {
       "venue": "Toad's Place",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1992-11-09 - New Haven, CT - Toad's Place [AUD].txt"
     },
     {
       "year": 1993,
@@ -370,7 +396,8 @@ const ARTIST_DATA = {
       "venue": "WKQX",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1993-03-03 - Chicago, IL - WKQX [FM].txt"
     },
     {
       "year": 1994,
@@ -383,7 +410,8 @@ const ARTIST_DATA = {
       "venue": "Johnny Walker Show",
       "notes": "Radio",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "textFile": "1994-02-05 - London, UK - Johnny Walker Show - Radio 1 [FM].txt"
     },
     {
       "year": 1994,
@@ -396,7 +424,8 @@ const ARTIST_DATA = {
       "venue": "105 Radio FM",
       "notes": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "textFile": "1994-02-10 - San Francisco, CA - 105 Radio [FM].flac.txt"
     },
     {
       "year": 1994,
@@ -407,9 +436,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "KFOG Studios",
-      "notes": "ANA(x) · wally breese",
+      "notes": "ANA(x) \u00b7 wally breese",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "textFile": "1994-02-10 - San Francisco, CA - KFOG Studios - ANA(x) (wally breese) [FM].txt"
     },
     {
       "year": 1994,
@@ -422,7 +452,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-03-06  London, UK.txt"
     },
     {
       "year": 1994,
@@ -435,7 +466,8 @@ const ARTIST_DATA = {
       "venue": "HMV",
       "notes": "",
       "version": "UNK",
-      "format": ""
+      "format": "",
+      "textFile": "1994-03-13 - Tokyo, Japan - HMV [UNK].txt"
     },
     {
       "year": 1994,
@@ -448,7 +480,8 @@ const ARTIST_DATA = {
       "venue": "Meany Hall at the University of WA *Rhapsody In Pink",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-03-20 - Seattle, WA - Meany Hall - Rhapsody in Pink [Silver].txt"
     },
     {
       "year": 1994,
@@ -461,7 +494,8 @@ const ARTIST_DATA = {
       "venue": "Meany Hall at the University of WA",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-03-20 - Seattle, WA - Meany Hall at the University of WA [AUD].txt"
     },
     {
       "year": 1994,
@@ -474,7 +508,8 @@ const ARTIST_DATA = {
       "venue": "Wadsworth Theatre",
       "notes": "UCLA",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-03-22 - Los Angeles, CA - Wadsworth Theatre - Space Doggin' Bruins [Silver].txt"
     },
     {
       "year": 1994,
@@ -487,7 +522,8 @@ const ARTIST_DATA = {
       "venue": "Vic Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-03-24 - Chicago, IL - Vic Theatre [AUD].txt"
     },
     {
       "year": 1994,
@@ -500,7 +536,8 @@ const ARTIST_DATA = {
       "venue": "CFNY-FM Inteview and Performance",
       "notes": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "textFile": "1994-03-26a - Toronto, Canada - CFNY interview & Performance [FM].txt"
     },
     {
       "year": 1994,
@@ -513,7 +550,8 @@ const ARTIST_DATA = {
       "venue": "Convocation Hall",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-03-26 - Toronto, Canada - Convocation Hall [AUD].txt"
     },
     {
       "year": 1994,
@@ -526,7 +564,8 @@ const ARTIST_DATA = {
       "venue": "Symphony Space *Spirit in the Sky",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-03-29 - New York City, NY - Symphony Space - Spirit in the Sky [Silver].txt"
     },
     {
       "year": 1994,
@@ -539,7 +578,8 @@ const ARTIST_DATA = {
       "venue": "*Dreaming",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-03-31 - Cambridge, MA - Dreaming [Silver].txt"
     },
     {
       "year": 1994,
@@ -552,7 +592,8 @@ const ARTIST_DATA = {
       "venue": "Cente Stage *Tori the Fox",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-04-01 - Atlanta, GA - Centre Stage - Tori the Fox [Silver].txt"
     },
     {
       "year": 1994,
@@ -565,7 +606,8 @@ const ARTIST_DATA = {
       "venue": "Olympic Theatre *Canadien Spring",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-04-02 - Montreal, Quebec - Olympic Theatre - Canadien Spring [Silver].txt"
     },
     {
       "year": 1994,
@@ -578,7 +620,8 @@ const ARTIST_DATA = {
       "venue": "Trinitatiskrine Cathedral *Summertime",
       "notes": "",
       "version": "preFM",
-      "format": ""
+      "format": "",
+      "textFile": "1994-04-09 - Berlin, Germany - Trinitatiskrine Cathedral - Summertime [AUD].txt"
     },
     {
       "year": 1994,
@@ -591,7 +634,8 @@ const ARTIST_DATA = {
       "venue": "CCH2 *Under the Pink Tour 1994",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-04-10 - Hamburg, Germany - CCH2 - Under the Pink Tour 1994 [Silver].txt"
     },
     {
       "year": 1994,
@@ -604,7 +648,8 @@ const ARTIST_DATA = {
       "venue": "Robert Schumann Saal",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-04-13 - Duesseldorf, Germany - Robert Schumann Saal [AUD].txt"
     },
     {
       "year": 1994,
@@ -617,7 +662,8 @@ const ARTIST_DATA = {
       "venue": "Kleine Liedehalle",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-04-14 - Stuttgart, Germany - Kleine Liedehalle [Silver].txt"
     },
     {
       "year": 1994,
@@ -630,7 +676,8 @@ const ARTIST_DATA = {
       "venue": "*Live Storm",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-04-18 - Milan, Italy - Live Storm [Silver].txt"
     },
     {
       "year": 1994,
@@ -643,7 +690,8 @@ const ARTIST_DATA = {
       "venue": "*Milan 1994",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-04-18 - Milan, Italy - Milan 1994 [Silver].txt"
     },
     {
       "year": 1994,
@@ -656,7 +704,8 @@ const ARTIST_DATA = {
       "venue": "The Palladium *A Woman On A Mission",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-04-19 - Rome, Italy - The Palladium - A Woman on a Mission [Silver].txt"
     },
     {
       "year": 1994,
@@ -682,7 +731,8 @@ const ARTIST_DATA = {
       "venue": "Guild Hall",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-04-21 - Portsmouth, UK - Guild hall [AUD].txt"
     },
     {
       "year": 1994,
@@ -695,7 +745,8 @@ const ARTIST_DATA = {
       "venue": "Barbicon",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-04-24 - York, UK - Barbicon [AUD].flac.txt"
     },
     {
       "year": 1994,
@@ -708,7 +759,8 @@ const ARTIST_DATA = {
       "venue": "St. David Hall",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-04-26 - Cardiff, Wales - St. David Hall [AUD].txt"
     },
     {
       "year": 1994,
@@ -721,7 +773,8 @@ const ARTIST_DATA = {
       "venue": "The Palladium",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-04-28 - London, UK - The Palladium [AUD].txt"
     },
     {
       "year": 1994,
@@ -734,7 +787,8 @@ const ARTIST_DATA = {
       "venue": "The Palladium *Anything But Honey",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-04-29 - London, UK - Anything But Honey [Silver].txt"
     },
     {
       "year": 1994,
@@ -747,7 +801,8 @@ const ARTIST_DATA = {
       "venue": "Civic Hall *I Love Toffee Apples",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-05-02 - Wolverhampton, UK - I Love Toffee Apples [Silver].txt"
     },
     {
       "year": 1994,
@@ -760,7 +815,8 @@ const ARTIST_DATA = {
       "venue": "Mecc",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-05-07 - Maastricht, Netherlands - Mecc [AUD].txt"
     },
     {
       "year": 1994,
@@ -773,7 +829,8 @@ const ARTIST_DATA = {
       "venue": "Beacon Theater *Perfect Girl",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-06-15 - New York City, NY - Perfect Girl [AUD].txt"
     },
     {
       "year": 1994,
@@ -786,7 +843,8 @@ const ARTIST_DATA = {
       "venue": "State Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-06-25 - Portland, ME - State Theatre [AUD].txt"
     },
     {
       "year": 1994,
@@ -799,7 +857,8 @@ const ARTIST_DATA = {
       "venue": "Flynn Theater",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-06-26 - Burlington, VT - Flynn Theatre [AUD].txt"
     },
     {
       "year": 1994,
@@ -812,7 +871,8 @@ const ARTIST_DATA = {
       "venue": "State Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-07-02 - Detroit, MI - State Theatre [AUD].txt"
     },
     {
       "year": 1994,
@@ -825,7 +885,8 @@ const ARTIST_DATA = {
       "venue": "State Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-07-04 - Detroit, MI - State Theatre [AUD].txt"
     },
     {
       "year": 1994,
@@ -838,7 +899,8 @@ const ARTIST_DATA = {
       "venue": "Raleigh Memorial Auditorium *Childhood Memories",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-07-29 - Raleigh, NC - Raleigh Memorial Auditorium - Childhood Memories [Silver].txt"
     },
     {
       "year": 1994,
@@ -851,7 +913,8 @@ const ARTIST_DATA = {
       "venue": "Tampa Theatre *Anything But Honey",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-08-03  Tampa, FL - Tampa Theatre - Anything But Honey [Silver].txt"
     },
     {
       "year": 1994,
@@ -864,7 +927,8 @@ const ARTIST_DATA = {
       "venue": "Tampa Theatre *Tori and Her Mask",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-08-03  Tampa, FL - Tampa Theatre - Tori and Her Mask [Silver].txt"
     },
     {
       "year": 1994,
@@ -877,7 +941,8 @@ const ARTIST_DATA = {
       "venue": "Ryman Auditorium",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-08-08 - Nashville, TN - Ryman Auditorium [AUD].txt"
     },
     {
       "year": 1994,
@@ -890,7 +955,8 @@ const ARTIST_DATA = {
       "venue": "Cullen Performance Hall",
       "notes": "inc",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-08-12 - Houston, TX - Cullen Performance Hall [AUD].txt"
     },
     {
       "year": 1994,
@@ -903,7 +969,8 @@ const ARTIST_DATA = {
       "venue": "The Backyard at Bee Cave",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-08-13 - Austin, TX - The Backyard at Bee Cave [AUD].txt"
     },
     {
       "year": 1994,
@@ -916,7 +983,8 @@ const ARTIST_DATA = {
       "venue": "Majestic Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-08-14 - Dallas, TX - Majestic Theatre [AUD].txt"
     },
     {
       "year": 1994,
@@ -929,7 +997,8 @@ const ARTIST_DATA = {
       "venue": "Phoenix Symphony Hall",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-08-19 - Phoenix, AZ - Phoenix Symphony Hall [AUD].txt"
     },
     {
       "year": 1994,
@@ -942,7 +1011,8 @@ const ARTIST_DATA = {
       "venue": "KSCA",
       "notes": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "textFile": "1994-08-24 - Los Angeles, CA - KSCA [FM].txt"
     },
     {
       "year": 1994,
@@ -955,7 +1025,8 @@ const ARTIST_DATA = {
       "venue": "105 Radio FM",
       "notes": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "textFile": "1994-08-30 - San Francisco, CA - 105 Radio FM [FM].flac.txt"
     },
     {
       "year": 1994,
@@ -968,7 +1039,8 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-08-31 - San Francisco, CA - Orpheum Theatre [AUD].txt"
     },
     {
       "year": 1994,
@@ -981,7 +1053,8 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre *Sugar Baby",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-09-01 - San Fransisco, CA - Orpheum Theatre - Sugar Baby [Silver].txt"
     },
     {
       "year": 1994,
@@ -994,7 +1067,8 @@ const ARTIST_DATA = {
       "venue": "Community Center Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-09-09 - Sacramento, CA - Community Center Theatre [AUD].txt"
     },
     {
       "year": 1994,
@@ -1007,7 +1081,8 @@ const ARTIST_DATA = {
       "venue": "KPFA FM",
       "notes": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "textFile": "1994-09-10 - Berkeley, CA - KPFA FM [FM].flac.txt"
     },
     {
       "year": 1994,
@@ -1020,7 +1095,8 @@ const ARTIST_DATA = {
       "venue": "Hult Center",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-09-12 - Eugene, OR - Hult Center [AUD].txt"
     },
     {
       "year": 1994,
@@ -1033,7 +1109,8 @@ const ARTIST_DATA = {
       "venue": "Riverside Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "3 sources"
+      "format": "3 sources",
+      "textFile": "1994-10-05  Milwaukee, WI (Source 3 - complete concert).txt"
     },
     {
       "year": 1994,
@@ -1046,7 +1123,8 @@ const ARTIST_DATA = {
       "venue": "Masonic Auditorium",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-10-13 - Toledo, OH - Masonic Auditorium [AUD].txt"
     },
     {
       "year": 1994,
@@ -1059,7 +1137,8 @@ const ARTIST_DATA = {
       "venue": "Hill Auditorium",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-10-15 - Ann Arbor, MI - Hill Auditorium [AUD].txt"
     },
     {
       "year": 1994,
@@ -1072,7 +1151,8 @@ const ARTIST_DATA = {
       "venue": "Wharton Center",
       "notes": "",
       "version": "AUD",
-      "format": "2 sources"
+      "format": "2 sources",
+      "textFile": "1994-10-16  East Lansing, MI - I Touch Myself (Source 2).txt"
     },
     {
       "year": 1994,
@@ -1085,7 +1165,8 @@ const ARTIST_DATA = {
       "venue": "University of Maine",
       "notes": "Hutchins",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-10-21 - Orono, ME - University of Maine - Hutchins Hall [AUD].txt"
     },
     {
       "year": 1994,
@@ -1098,7 +1179,8 @@ const ARTIST_DATA = {
       "venue": "Powers Theatre @ Clemens Center",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-10-25 - Elmira, NY - Powers Theatre - Clemens Center [AUD].txt"
     },
     {
       "year": 1994,
@@ -1111,7 +1193,8 @@ const ARTIST_DATA = {
       "venue": "Toad's Place *I'm On Fire",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-10-26 - New Haven, CT - Toad's Place - I'm on Fire [Silver].txt"
     },
     {
       "year": 1994,
@@ -1124,7 +1207,8 @@ const ARTIST_DATA = {
       "venue": "Massey Hall",
       "notes": "Early and Late Show",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-10-29  Toronto, Canada (late).txt"
     },
     {
       "year": 1994,
@@ -1137,7 +1221,8 @@ const ARTIST_DATA = {
       "venue": "Centre on the Square",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-11-01 - Kitchener, Canada - Centre on the Square [AUD].txt"
     },
     {
       "year": 1994,
@@ -1150,7 +1235,8 @@ const ARTIST_DATA = {
       "venue": "National Arts Center Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-11-03 - Ottawa, Canada - National Arts Center Theatre [AUD].txt"
     },
     {
       "year": 1994,
@@ -1163,7 +1249,8 @@ const ARTIST_DATA = {
       "venue": "Hamilton Place",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-11-05 - Hamilton, Canada - Hamilton Place [AUD].txt"
     },
     {
       "year": 1994,
@@ -1176,7 +1263,8 @@ const ARTIST_DATA = {
       "venue": "Salle Albert Rosseau",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-11-07 - Quebec City, Canada - Salle Albert Rosseau [AUD].txt"
     },
     {
       "year": 1994,
@@ -1189,7 +1277,8 @@ const ARTIST_DATA = {
       "venue": "The Spectrum",
       "notes": "MuchMusic",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-11-09  Montreal, Canada - The Spectrum - Piano Girl Up North [Silver].txt"
     },
     {
       "year": 1994,
@@ -1202,7 +1291,8 @@ const ARTIST_DATA = {
       "venue": "The Spectrum *Piano Girl Up North",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-11-09 - Montreal, Canada - The Spectrum - Kiss Me [Silver].txt"
     },
     {
       "year": 1994,
@@ -1215,7 +1305,8 @@ const ARTIST_DATA = {
       "venue": "Festival Theatre *Down Under the Pink '94",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-12-10 - Adelaide, Australia - Festival Theatre - Down Under the Pink '94 [Silver].txt"
     },
     {
       "year": 1996,
@@ -1228,7 +1319,8 @@ const ARTIST_DATA = {
       "venue": "Bullet Sound Studios",
       "notes": "2 Meter Sessies",
       "version": "preFM",
-      "format": ""
+      "format": "",
+      "textFile": "1996-01-25 - Nederhorst den Berg, The Netherlands - Bullet Sound Studios (2 Meter Sessies) [preFM].txt"
     },
     {
       "year": 1996,
@@ -1241,7 +1333,8 @@ const ARTIST_DATA = {
       "venue": "*Sellout",
       "notes": "First",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1996-04-09 - Tampa, FL - Sellout - First Night of the US Tour [AUD].txt"
     },
     {
       "year": 1996,
@@ -1254,7 +1347,8 @@ const ARTIST_DATA = {
       "venue": "USF Arena",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1996-04-13 - Orlando, FL - UCF Arena [AUD].txt"
     },
     {
       "year": 1996,
@@ -1267,7 +1361,8 @@ const ARTIST_DATA = {
       "venue": "Massey Hall",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1996-05-28 - Toronto, ON - Massey Hall [AUD].txt"
     },
     {
       "year": 1998,
@@ -1280,7 +1375,8 @@ const ARTIST_DATA = {
       "venue": "Stadtpark *Hamburg Swirl",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "1998-06-11 - Stadtpark, Hamburg - Hamburg Swirl [SBD].txt"
     },
     {
       "year": 1998,
@@ -1293,7 +1389,8 @@ const ARTIST_DATA = {
       "venue": "Molson Center",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1998-07-26 - Montreal, QC - Molson Center [AUD].txt"
     },
     {
       "year": 1998,
@@ -1306,7 +1403,8 @@ const ARTIST_DATA = {
       "venue": "Starlight Theater",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1998-08-28 - Kansas City, MO - Starlight Theater [AUD].flac.txt"
     },
     {
       "year": 1998,
@@ -1319,7 +1417,8 @@ const ARTIST_DATA = {
       "venue": "Zorn Arena",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1998-11-03 - Eau Claire, WI - Zorn Arena [AUD].flac.txt"
     },
     {
       "year": 2001,
@@ -1332,7 +1431,8 @@ const ARTIST_DATA = {
       "venue": "Polskie Radio 3",
       "notes": "",
       "version": "preFM",
-      "format": ""
+      "format": "",
+      "textFile": "2001-12-16 - Warsaw, Poland - Polskie Radio 3 [preFM].txt"
     },
     {
       "year": 2003,
@@ -1345,7 +1445,8 @@ const ARTIST_DATA = {
       "venue": "Warner Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2003-03-19 - Erie, PA - Warner Theatre [AUD].txt"
     },
     {
       "year": 2003,
@@ -1358,7 +1459,8 @@ const ARTIST_DATA = {
       "venue": "Northrop Auditorium",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2003-08-09 - Minneapolis, MN - Northrup Auditorium [AUD].txt"
     },
     {
       "year": 2003,
@@ -1371,7 +1473,8 @@ const ARTIST_DATA = {
       "venue": "Alltel Pavilion at Walnut Creek",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2003-08-30 - Raleigh, NC - Alltel Pavilion at Walnut Creek [AUD].txt"
     },
     {
       "year": 2005,
@@ -1384,7 +1487,8 @@ const ARTIST_DATA = {
       "venue": "Meadow Brook Music Festival",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2005-08-28 - Rochester Hills, MI - Meadow Brook Music Festival (2nd source) [AUD].txt"
     },
     {
       "year": 2007,
@@ -1397,7 +1501,8 @@ const ARTIST_DATA = {
       "venue": "Northrop Memorial Auditorium",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2007-11-07 - Minneapolis, MN - Northrup Auditorium [AUD].txt"
     },
     {
       "year": 2014,
@@ -1410,7 +1515,8 @@ const ARTIST_DATA = {
       "venue": "De Doelen",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2014-05-26 - Rotterdam, Netherlands - De Doelen [AUD].txt"
     },
     {
       "year": 2014,
@@ -1423,7 +1529,8 @@ const ARTIST_DATA = {
       "venue": "Beacon Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2014-08-12 - New York, NY - Beacon Theatre (Night 1 of 2) [AUD].txt"
     },
     {
       "year": 2014,
@@ -1436,7 +1543,8 @@ const ARTIST_DATA = {
       "venue": "Beacon Theatre",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2014-08-13 - New York, NY - Beacon Theatre (Night 2 of 2) [AUD].txt"
     },
     {
       "year": 2017,
@@ -1449,7 +1557,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2017-09-10 - Luxembourg - Luxembourg at Den Atelier [AUD].flac.txt"
     },
     {
       "year": 2017,
@@ -1462,7 +1571,8 @@ const ARTIST_DATA = {
       "venue": "Brucknerhaus",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2017-09-20 - Linz, Austria - Brucknerhaus [AUD].txt"
     },
     {
       "year": 2017,
@@ -1475,7 +1585,8 @@ const ARTIST_DATA = {
       "venue": "Palace Theatre",
       "notes": "Native",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2017-10-05 - Manchester, TN - Palace Theatre [AUD].txt"
     },
     {
       "year": 2017,
@@ -1488,7 +1599,8 @@ const ARTIST_DATA = {
       "venue": "02 Academy",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2017-10-06 - Glasgow, Scotland - O2 Academy [AUD].txt"
     },
     {
       "year": 2017,
@@ -1501,7 +1613,8 @@ const ARTIST_DATA = {
       "venue": "The O'Shaughnessy",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2017-10-24 - St. Paul, MN - The O'Shaughnessy [AUD].txt"
     },
     {
       "year": 2022,
@@ -1512,9 +1625,10 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Olympia Theater",
-      "notes": "SP-CMC-8 · sufisdance",
+      "notes": "SP-CMC-8 \u00b7 sufisdance",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2022-03-18 - Dublin, Ireland - Olympia Theater (SP-CMC-8) (sufisdance) [AUD].txt"
     }
   ],
   "misc": [

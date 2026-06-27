@@ -1,0 +1,42 @@
+GARBAGE
+1998-06-18
+Kongresshalle
+Böblingen, Germany
+
+Source:     Sony T mic > Sony WM-GX322
+Location:   balcony
+Transfer:   CAS-M > Sony TC-D5M > Edirol R-09HR
+                > CD Wave Editor V1.95.1 > FLAC V1.2.1
+Editing:    Volume boost and fades in Audiofile Engineering Wave Editor V1.4.1
+Resampling: 96.0 kHz > 44.1 kHz resampling using iZotope 64-bit SRC
+Dithering:  MBIT+
+
+Disc 1:
+01 (Intro)
+02 > Dumb
+03 Not My Idea
+04 Push It
+05 Queer
+06 Special
+07 My Lover's Box
+08 Hammering In My Head
+09 Medication
+10 Stupid Girl
+11 Temptation Waits
+12 Trip My Wire
+
+Disc 2:
+01 #1 Crush
+02 Vow
+03 I Think I'm Paranoid
+04 When I Grow Up
+05 Only Happy When It Rains
+---
+06 Thirteen
+07 Girl Don't Come
+08 You Look So Fine
+
+Notes:
+The Sony T mic is the cheap microphone supplied with the WM-GX322 recorder.
+Tape flip between "Trip My Wire" and "#1 Crush".
+This is the 16 bit version of this recording.

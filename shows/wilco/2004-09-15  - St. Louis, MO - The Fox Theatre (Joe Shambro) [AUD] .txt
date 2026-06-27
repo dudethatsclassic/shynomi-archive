@@ -1,0 +1,93 @@
+Wilco
+September 15, 2004
+The Fox Theater
+St. Louis, MO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Original info file (additional notes below !):
+
+
+Taper: Joe Shambro (joe@209productions.com)
+
+Source: Earthworks SR77 > Lunatec V2 > D100
+
+Orchestra pit, front row very hard left,
+mics a/b at stack.
+
+Conversion: D100 > S/PDIF > Digidesign Digi002-r > Protools 6.0 >
+Peak 3.2 (trackbreaks) > FLAC frontend
+
+!!!! DO NOT SPREAD IN MP3 FORMAT !!!!
+
+Disc 01:
+
+01: Intro
+02: Muzzle of Bees
+03: Company in My Back
+04: I Am Trying to Break Your Heart
+05: A Shot in the Arm
+06: Hummingbird   
+07: Hell is Chrome
+08: Handshake Drugs   
+09: A Magazine Called Sunset
+10: War on War
+11: Jesus, Etc.
+12: At Least That's What You Said
+13: Pot Kettle Black
+
+Disc 02:
+
+01: Theologians ->
+02: I'm the Man Who Loves You
+03: Poor Places ->
+04: Spiders (Kidsmoke)
+
+Encore 1:
+05: The Late Greats
+06: Casino Queen 
+07: Kingpin
+08: I'm A Wheel
+
+Encore 2:
+09: Christ For President  
+10: Be Not So Fearful
+11: New Madrid
+12: The Lonely 1
+
+Notes:
+- The option was at my seats, 6th row dead center in the pit, with no just monitors and
+some small Bose front-fills, or further back at FOH in the boomiest room on earth, so I did
+some negotiation with security and they allowed me to set up immediately in front of a small
+repeater stack on the hard left side of the pit.  Anyone who's been to the Fox knows why this
+was a good choice, although I'm sure the couple of centered tapes I saw rolling won't be too
+bad, as there's a pretty nice sweet spot (that's still a little boomy) halfway back.  As such,
+I was very close to the stack, and had the gain on the V2 as low as it could go with the HPF
+active.  There's some distortion that was present in the actual mix (not sure if it was intentional,
+or just overdriving of the sidefill to try to make up for the boomy room).
+
+- During the last half of the show the V2 low battery light was flashing, so out of paranoia
+for losing battery power, I switched the V2 off during the encore breaks.  Since it didn't really
+save you any disc space, I left the drop-outs in place.  There's also a dropout in crowd noise
+about an hour and a half into the show as I replaced the D100 batteries.  No song material lost,
+just crowd noise, if this is a problem, I don't know what to say to you. :)
+
+Compiled 9/16/2004 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Notes to the 12-2016 edition:
+I have ripped this show from CDs that I have received a little more than ten years ago in a trade, labelled as Soundboard recording.
+It always sounded like a Soundboard to me - until I decided to fix its little errors, searched for an info file on db.etree.org
+and found the notes above. Sure enough, the long cuts from switching off the V2 were there. So, after all, it's a gorgeous Audience recording!!
+
+There were about ten stray clicks in four songs (most likely from a bad CD copy further up in the lineage) which I could eliminate 
+with barely a trace left and I also cut out the dead air described. Additionally, I re-joined the two CDs to its former uncut state.
+There are two weak spots @ 3:10 in Handshake Drugs and @ 2:14 in Christ For President, were there are half-second skips.
+Also, there are strange small cuts before I Am Trying to Break Your Heart and At Least That's What You Said that I left as found.
+But as this outstanding tape is currently not around elsewhere I decided to share it anyway, I hope you enjoy this as much as I did.
+All due thanks to the taper. Support the artists, go to their shows. wilcoworld.net
+[2016-12-29]
+
+
+trade CDs > EAC > Wav > Sound Forge Pro 10.0 > CD Wave 1.98 > TLH > FLAC
+

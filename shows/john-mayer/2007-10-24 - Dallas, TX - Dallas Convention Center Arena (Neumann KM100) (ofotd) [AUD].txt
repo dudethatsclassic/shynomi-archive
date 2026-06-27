@@ -1,0 +1,50 @@
+John Mayer
+October 24, 2007
+Dallas Convention Center Arena,
+Dallas, TX
+
+Source: Neumann KM100 > LC3 > AK40 > ACM V3 > R4 Pro (24/96)
+Location: ROC, Next to FOH, DIN @ 8' 
+Transfer: R4 Pro (24/96) > Wavelab 5.01b > CDWave > FLAC (6)
+Taped and Transferred by OFOTD
+
+
+
+1.  Vultures
+2.  No Such Thing
+3.  I Don't Trust Myself
+4.  Waiting On The World To Change
+5.  Bigger Than My Body
+6.  Belief
+7.  I Don't Need No Doctor
+8.  Why Georgia
+9.  Gravity
+10. Your Body Is A Wonderland
+11. I'm Gonna Find Another You
+
+
+Notes:
+
+- The was a private show for the InterContinental Hotel Group
+- 24 bit copy of this show is available
+
+
+
+[==-->> Support artists that support tapers! <<--==]
+
+
+
+FLAC Fingerprint
+-----------------------------------------------------
+jm2007-10-24t01.flac:90664c770e7520fa818e38a5082baf13
+jm2007-10-24t02.flac:ac608061b346df9fdef4e4ce2ed0e231
+jm2007-10-24t03.flac:e325c712cf983db78677c29ca4316fb8
+jm2007-10-24t04.flac:e063e7e67fac4c8a28319a358a217e28
+jm2007-10-24t05.flac:f730c78fd7f8999bff230b7104609daf
+jm2007-10-24t06.flac:9fad2afbce4482502c965aa71f41bc98
+jm2007-10-24t07.flac:1fbf8877c4ca678fb6cef35b50070e56
+jm2007-10-24t08.flac:58db07afe031b5343f60871a8e62147e
+jm2007-10-24t09.flac:6638538e83a8a53236aae69ac68a80bd
+jm2007-10-24t10.flac:01205fa059c7919e28e25ad1531686cc
+jm2007-10-24t11.flac:2e03413c93e51ee70fe2669654ba5634
+-----------------------------------------------------

@@ -1,0 +1,87 @@
+Wilco
+February 24, 2005 (Thursday) 
+9:30 Club
+Washington, DC
+
+Recordist	: "Charlies" 
+Source       	: Soundboard > Sony SBM1 > Sony PCM-M1
+Recorded Format	: 16 bit, 44.1 kHz
+Conversion   	: DAT master > Fostex D5 > iRiver H120 > IBM ThinkPad T41
+Editing		: none
+Dither       	: none
+Final Format 	: 16 bit, 44.1 kHz
+Tracking	: CD Wave
+Compression	: FLAC Frontend, Level 6
+
+DAT transfer, tracking and FLAC compression performed by Tim Burke - tburke@upstatetapers.org
+
+
+One Set: 141m 45s
+
+ t01. Handshake Drugs
+ t02. Company In My Back
+ t03. Hummingbird
+ t04. Should've Been In Love
+ t05. Jesus, Etc.
+ t06. Muzzle Of Bees
+ t07. Theologians
+ t08. I'm Always In Love
+ t09. At Least That's What You Said
+ t10. I Am Trying To Break Your Heart
+ t11. A Shot In The Arm
+ t12. Wishful Thinking
+ t13. Poor Places
+ t14. Reservations
+ t15. Spiders (Kidsmoke)
+ t16. crowd
+Encore One: 
+ t17. Misunderstood
+ t18. California Stars
+ t19. I'm The Man Who Loves You
+ t20. The Late Greats
+ t21. Outtasite (Outta Mind)
+ t22. crowd
+Encore Two: 
+ t23. Bob Dylan's 49th Beard
+ t24. Hesitating Beauty
+ t25. Heavy Metal Drummer
+ t26. I'm A Wheel
+ t27. Kingpin
+ t28. (Don't Fear) The Reaper
+ t29. Comment (If All Men Are Truly Brothers)
+
+Notes: 
+ Detholz opened 
+ All flaws are also on the DAT master 
+
+
+Flac Fingerprint
+wilco2005-02-24t01.flac:9dd06d53fc4bad47a812b886f6a6c2fc
+wilco2005-02-24t02.flac:dc4f46f71b991a78088e3aa3b6ad0039
+wilco2005-02-24t03.flac:cb8414b8d6141948cb45bdb6524ac97c
+wilco2005-02-24t04.flac:537e8bf4a05e25cdfa790b0dfb643c80
+wilco2005-02-24t05.flac:2b71da62568f7c5bb4e707f0d09c7a33
+wilco2005-02-24t06.flac:8e3a9588bc8e91268b18285fd9acd1b8
+wilco2005-02-24t07.flac:2085498d20f778a3beb5f09f36540582
+wilco2005-02-24t08.flac:64977f186b4db9145edb446c2170e2d3
+wilco2005-02-24t09.flac:3ad9edc96c6c3fc301d2c3b82cd9a7ec
+wilco2005-02-24t10.flac:dec8295a17ece39ea832300ce7713eba
+wilco2005-02-24t11.flac:0b7fd13b5dd40e74bb073171c1988317
+wilco2005-02-24t12.flac:e8bad018c98dcc866f1aa8bdf773f7e9
+wilco2005-02-24t13.flac:9ac356f215b216dc0776a68ac67a617a
+wilco2005-02-24t14.flac:8d638c6ac82afd5ee5f6eacdad62c16a
+wilco2005-02-24t15.flac:55d9ad72986efc0bc2cfeec2f10706ba
+wilco2005-02-24t16.flac:8f773ecdc7b3e8b5e843eb61b2987ad8
+wilco2005-02-24t17.flac:8b15b090b1ea925bc1e1ea185fe098d4
+wilco2005-02-24t18.flac:319f57dfe58a34b4e6fdadc18c4240f1
+wilco2005-02-24t19.flac:a0f4ee8ac3e7e9986ebbeabffb0bbe31
+wilco2005-02-24t20.flac:3c3246b62fbb7bfc5df4672925d88715
+wilco2005-02-24t21.flac:d7449f55be62540cfa3a7015c1ef9dc2
+wilco2005-02-24t22.flac:4f402dc9dfe544dde0633aa58fe2ccd8
+wilco2005-02-24t23.flac:b1432dd2ef1af8fc95568ea94e289304
+wilco2005-02-24t24.flac:c61311a3949fa14c1aeca8c4030e34eb
+wilco2005-02-24t25.flac:ef62af30d511a24a9add2f9bdd3440ea
+wilco2005-02-24t26.flac:e609e26b3ef2fad19cc10c4181c52dc3
+wilco2005-02-24t27.flac:33b3803049c07d00719239d32f49858f
+wilco2005-02-24t28.flac:1bffa88810cc23a2aca64455dd9fa66e
+wilco2005-02-24t29.flac:09ace7769bd616f003a57c38951108b5

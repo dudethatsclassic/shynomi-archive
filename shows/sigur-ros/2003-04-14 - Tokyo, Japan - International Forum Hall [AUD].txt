@@ -1,0 +1,44 @@
+sigur rós
+2003-04-14
+International Forum Hall, Tokyo, Japan
+
+source info:
+
+DSM6S>SONY TCD-D100>TASCAM DA-20MKII>COAX>TASCAM DA-20MKII
+
+setlist:
+
+01. vaka 				
+02. mílanó 			
+03. ný batterí 			
+04. göng 			
+05. olsen olsen 		
+06. njósnavélin 		
+07. viðrar vel til loftárása 	
+08. hafssól 			
+09. smáskífa 			
+10. gítardjamm 			
+11. starálfur 
+12. svefn-g-englar		
+13. popplagið			
+                       	
+---------------------------------------------------------------------
+comment:
+
+original setlist		original filenames/tracking
+01. vaka 			cd1 01 Track01		
+02. mílanó 			cd1 02 Track02
+03. ný batterí 			cd1 03 Track03
+04. göng 			cd1 04 Track04
+05. olsen olsen 		cd1 05 Track05
+06. njósnavélin 		cd2 01 Track01
+07. viðrar vel til loftárása 	cd2 02 Track02	
+08. hafssól 			cd2 03 Track03
+09. smáskífa 			cd2 04 Track04
+10. gítardjamm 			cd2 05 Track05	
+11. starálfur 
+(beginning of svefn-g-englar)	cd2 06 Track06
+12. svefn-g-englar		cd2 07 Track07
+13. popplagið			cd2 08 Track08
+
+setlist: starálfur wasn´t played

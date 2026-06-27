@@ -1,0 +1,29 @@
+John Mayer
+March 1, 2007
+Robin Hood Foundation Benefit
+Studio Mezmor - New York City, NY
+
+Taper: docoboc
+Source: Edirol R-09 (with internal mic)
+Location: practically holding hands with security
+Edit: wav > Sony Soundforge 7.0b > wav > CD Wave > wav
+Conversion: wav > FLAC frontend 1.7.1 > .flac
+
+01: Intro					[00:19]
+02: Belief					[06:24]
+03: No Such Thing				[04:17]
+04: Bigger Than My Body				[05:22]
+05: I Don't Trust Myself (With Loving You)	[07:07]
+06: I Don't Need No Doctor			[05:41]
+07: I'm Gonna Find Another You			[03:10]
+08: Good Love Is On The Way			[04:21]
+09: Intro to...					[02:22]
+10: Vultures					[06:25]
+11: Why Georgia					[06:37]
+12: Waiting On The World To Change		[04:55]
+13: Gravity					[09:00]
+Total:						[66:00]
+
+Mastered & tracked by: Jon Koch on 3.04.07
+Notes: Tape made up front and center. The drums and electric guitar were, well, a bit
+on the overpowering side.

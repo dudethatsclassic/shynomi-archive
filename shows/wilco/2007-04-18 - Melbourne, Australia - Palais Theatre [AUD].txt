@@ -1,0 +1,90 @@
+Wilco
+2007-04-18
+Palais Theatre, Melbourne
+
+Taper: Adam
+Location: Front Row, Balcony, 50ft from right speaker stack.
+
+Source: Audix m1290 > UA-5 (bm2p+) > iriver H140 (rockbox digi-in)
+Conversion: iriver>USB>Adobe Audition>CDWav 1.94.3>FLAC Frontend 1.7.1 (Level 8)
+
+
+---FEEL FREE TO ENCODE TO LOSSY FORMATS (eg MP3) FOR PERSONAL USE, BUT PLEASE ONLY TRADE LOSSLESS (FLAC) VERSION---
+
+Disc 1:					[71:59]
+
+01. You Are My Face			[05:53]
+02. I Am Trying to Break Your Heart	[06:29]
+03. Handshake Drugs			[06:00]
+04. Shot in the Arm			[06:52]
+05. Impossible Germany			[06:03]
+06. Remember the Mountain Bed		[07:06]
+07. Side With Seeds			[05:25]
+08. War On War				[05:07]
+09. When the Roses Bloom Again	[05:16]
+10. Airline to Heaven			[06:44]
+11. Jesus, Etc.				[05:56]
+12. Hate It Here				[05:04]
+
+
+Disc 2:					[65:01]
+
+01. Theologians				[03:41]
+02. Walken					[04:30]
+03. I'm the Man Who Loves You		[04:22]
+04. Hummingbird				[05:47]
+
+
+Encore 1:
+
+05. California Stars			[05:00]
+06. Late Greats				[03:35] 
+07. Kingpin					[08:38]
+
+
+Encore 2:
+
+08. Shake It Off				[06:01]
+09. Heavy Metal Drummer			[03:27]
+10. Poor Places				[04:59]
+11. Spiders					[11:40]
+
+
+Encore 3:
+
+12. Acuff-Rose*				[03:21]
+
+Notes:
+
+* Acoustic, unplugged
+
+
+--NEVER PAY FOR LIVE AUDIENCE RECORDINGS--
+
+
+FLAC FINGERPRINTS:
+============================================================
+wilco2007-04-18.d1t01.flac:7db6142d8b29cc5089b4ac82b7af2fc8
+wilco2007-04-18.d1t02.flac:c1368b84e7c6fa630e406679feafefed
+wilco2007-04-18.d1t03.flac:0bb4f1d5e44c7ac860458c824e1ea2ad
+wilco2007-04-18.d1t04.flac:2419bc65ad2f2c6b7bdf7dc8a34d3a97
+wilco2007-04-18.d1t05.flac:05e848a20e1b447f0d288c170db88172
+wilco2007-04-18.d1t06.flac:db83c64372d776107933f3cc8563d086
+wilco2007-04-18.d1t07.flac:a001a5a21effacb7c7e7da3d0a14e204
+wilco2007-04-18.d1t08.flac:db5239af6fec3a35f497978125b14fde
+wilco2007-04-18.d1t09.flac:ce65e164271b9c2a28848ced81bf2e6c
+wilco2007-04-18.d1t10.flac:5086fb27c4bb5d9fe79f7ed58d16053e
+wilco2007-04-18.d1t11.flac:4ff4543349057ecd04e577d5555e19db
+wilco2007-04-18.d1t12.flac:45eb1ffb01083c1d76280ec84a11c19c
+wilco2007-04-18.d2t01.flac:32104e5a1f8a8169c5443e3faf145489
+wilco2007-04-18.d2t02.flac:c260fd14664b69d9933e22ddfd2f439f
+wilco2007-04-18.d2t03.flac:f326dbf294c71df5ada244fad0c8bad1
+wilco2007-04-18.d2t04.flac:c09ce4cccc81e00cf23bb39c8f3d93df
+wilco2007-04-18.d2t05.flac:13848d0a0a16b755bccf2a66c276fcb9
+wilco2007-04-18.d2t06.flac:1e4f0fc63bc080ac5a8ff570ce442e30
+wilco2007-04-18.d2t07.flac:b30ef041db6df7694a8d4ddfea8fb5f2
+wilco2007-04-18.d2t08.flac:c484fededdf63c10860091ad7895d3d1
+wilco2007-04-18.d2t09.flac:b045120009532aa3533c33c60ae79fb8
+wilco2007-04-18.d2t10.flac:5ae78266f7b72094b37b1343cb3c4ba4
+wilco2007-04-18.d2t11.flac:1d24948e2fb4d8aac5b26bb3c2728f74
+wilco2007-04-18.d2t12.flac:70565cad0383ef03ca952e3cb3f175fa

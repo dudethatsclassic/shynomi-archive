@@ -1,0 +1,35 @@
+Wilco
+2013-09-07
+Loufest
+Forest Park
+St. Louis, MO
+
+Source: Schoeps MK41 / CMR > Naiant Tinybox > Sony PCM-M10 @ 48 kHz / 24-bit
+Lineage: 48/24 WAV > Audacity 2.0.0 (split tracks, resample to 44.1 kHz, dither to 16-bit, convert to FLAC level 8)
+
+
+Setlist:
+
+01 Misunderstood
+02 Forget The Flowers
+03 Give Back The Key To My Heart
+04 I Am Trying To Break Your Heart
+05 Art Of Almost
+06 I Might
+07 Via Chicago
+08 Passenger Side
+09 Handshake Drugs
+10 Impossible Germany
+11 Born Alone
+12 New Madrid
+13 California Stars #
+14 Box Full Of Letters
+15 Happy Birthday (to Tweedy's father)
+16 Heavy Metal Drummer ->
+17 I'm The Man who Loves You #
+18 Casino Queen
+19 Hoodoo Voodoo
+
+# with members of The National
+
+

@@ -1,0 +1,56 @@
+Wilco
+December 3, 2014
+Riverside Theater, Milwaukee WI
+
+Source: Earthworks SR77's (ORTF) > Lunatec V3 @24/48 > Microtrack II
+
+Transfer: Wavelab 6 (normalized, smoothed out +10db preamp level boost before hootenanny
+          set, UV22 HR dithering to 16/44.1) > CD Wave (tracking) > Wavelab 6 (fades in 
+          t01 and t34) > Trader's Little Helper (flac encoding level 8)
+
+Taped and transferred by Gerald Eaglebarger (chitaper@mindspring.com)
+
+Tracks:
+01 Company In My Back
+02 Poor Places >
+03 Art Of Almost
+04 I Might
+05 Hell Is Chrome
+06 Ashes Of American Flags
+07 War On War
+08 No More Poetry (Tweedy solo)
+09 Cars Can't Escape
+10 Feed Of Man
+11 -Tweedy Banter- 
+12 Someday Soon
+13 It's Just That Simple
+14 Airline To Heaven
+15 Jesus Etc.
+16 Born Alone >
+17 Laminated Cat
+18 She's A Jar
+19 You And I
+20 -Tweedy Banter-
+21 Box Full Of Letters
+22 The Late Greats
+23 Heavy Metal Drummer
+24 Walken 
+25 I'm The Man Who Loves You
+26 -Encore Break-
+27 Passenger Side
+28 Dawned On Me
+29 A Shot In The Arm
+30 -Encore Break-
+    
+   -Acoustic Set*-
+31 Misunderstood
+32 New Madrid
+33 Casino Queen
+34 Dreamer In My Dreams
+
+*Jeff Tweedy: Guitar
+John Stiratt: Guitar
+Nels Kiline: Dobro
+Pat Sansone: Banjo
+Mikael Jorgensen: Guitar and Melodica
+Glenn Kotche: Percussion

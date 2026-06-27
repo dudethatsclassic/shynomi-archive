@@ -1,0 +1,81 @@
+Garbage
+Date: 10 October 2001
+Location: Notre Dame Joyce Center, South Bend, IN
+
+Set list:
+
+cd1:
+
+01 Intro
+02 Push It
+03 Special
+04 I Think I’m Paranoid
+05 Silence Is Golden
+06 Drive You Home
+07 Stupid Girl
+08 Shut Your Mouth
+09 Androgyny
+10 Til The Day I Die
+11 Only Happy When It Rains
+12 Cherry Lips (Go Baby Go !)
+
+Lineage: AUD/DAT (M1)/CoreSounds/Battery Box/CDR
+
+Source:
+
+The source for this release is a CDr that has recently been obtained as part of the circa 200+ private collection of Garbage Live Shows, which im presently indexing, converting to Flac and then sharing.
+
+As such I have no other information to work with. I have no info on the original source, the tapper, location or their equipment. Spectral analysis for several files are provided, for information.
+
+If the native Info files are available on these CD's, then that data will be captured in the info file that are generated, for each release. If this is your original release, thank you for recording, and please advise of any further data that you may have.
+
+There are also a number of audio cassettes to work through to, which will be addressed once the CD's have been concluded.
+
+A huge thank you again to the original collector Jayson Kaap who gathered up all these shows over the years.
+
+Another huge thanks again to the https://www.garbagebase.com website, which has proven to be a valuable resource for helping out with show dates, locations & track listings etc.
+
+Any constructive / helpful comments that you may have, are always welcome.
+
+
+ALWAYS, ALWAYS SUPPORT THE ARTISTS
+DO NOT SELL THIS SHOW
+DO NOT ENCODE TO MP3
+DO TRADE IT IN LOSSLESS FORMAT
+
+
+Transfer: 
+
+CDr > Exact Audio Copy V1.6.  No other filters, effects or fades have been applied, just the CDr ripped from Wav into Flac format.
+
+Compression	 				: Flac 1024 kBit/s 
+Quality 					: High Add 
+ID3 tag 					: Yes
+Read mode               			: Secure
+Utilize accurate stream 			: Yes
+Defeat audio cache      			: Yes
+Make use of C2 pointers 			: No
+Combined read/write offset correction       	: 0
+Overread into Lead-In and Lead-Out          	: No
+Fill up missing offset samples with silence 	: Yes
+Delete leading and trailing silent blocks   	: No
+Null samples used in CRC calculations       	: Yes
+Used interface                              	: Native Win32 interface for Win NT & 2000
+Gap handling                                	: Not detected, thus appended to previous track
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  0:35.70 |         0    |     2694   
+        2  |  0:35.70 |  4:13.74 |      2695    |    21743   
+        3  |  4:49.69 |  3:46.51 |     21744    |    38744   
+        4  |  8:36.45 |  4:09.56 |     38745    |    57475   
+        5  | 12:46.26 |  4:00.41 |     57476    |    75516   
+        6  | 16:46.67 |  3:46.21 |     75517    |    92487   
+        7  | 20:33.13 |  4:57.06 |     92488    |   114768   
+        8  | 25:30.19 |  3:39.70 |    114769    |   131263   
+        9  | 29:10.14 |  3:14.35 |    131264    |   145848   
+       10  | 32:24.49 |  3:42.16 |    145849    |   162514   
+       11  | 36:06.65 |  4:17.02 |    162515    |   181791   
+       12  | 40:23.67 |  3:17.65 |    181792    |   196631   

@@ -1,0 +1,54 @@
+Garbage
+December 6, 1998
+Metropol
+Pittsburgh, PA
+
+
+DISC 1/1 (59:00)
+----------------
+01) intro
+02) Temptation Waits
+03) I Think I'm Paranoid (cut)
+04) intro
+05) Special
+06) My Lover's Box
+07) Thirteen
+08) #1 Crush
+09) Stupid Girl
+10) Vow
+11) Can't Seem to Make You Mine (jam)
+12) When I Grow Up
+13) Queer
+14) "thanks"
+15) Push It
+16) "she's old enough to drink"
+17) Only Happy When it Rains
+
+
+LINEAGE
+----------------
+ANA(M) > WAV [44.1kHz] > FLAC [Level 8]
+
+SOURCE
+----------------
+Sound Professionals SP-BMC-1 > Sony WM-D3
+
+MD5 Checksum
+----------------
+e6a1c06f8fde43eea7ef7a84a5a939fa *Garbage_1998-12-06_t01.flac
+a225481d9a253e4b4a7f3836599fe1da *Garbage_1998-12-06_t02.flac
+b957a3fba541459a3974ee6ee3223467 *Garbage_1998-12-06_t03.flac
+521428b20fbd3b5e3fbfeac9da14ac96 *Garbage_1998-12-06_t04.flac
+fad0bfab3e839c7365760999dae0cea8 *Garbage_1998-12-06_t05.flac
+932d73e898ddc89996a289aea8f1d212 *Garbage_1998-12-06_t06.flac
+35264a1ee60b2484ef7a894d03974915 *Garbage_1998-12-06_t07.flac
+6900c8bda22effd6ac7f8958866ee245 *Garbage_1998-12-06_t08.flac
+14a5fc734e388a98921df2c9a350374d *Garbage_1998-12-06_t09.flac
+b6c87e946b33dcf8e467689ef0168387 *Garbage_1998-12-06_t10.flac
+eaf3985650ea117ccba74e1770447d07 *Garbage_1998-12-06_t11.flac
+478197ba2f825e13f63f50256b9b8257 *Garbage_1998-12-06_t12.flac
+28b48c9f06e48dbd131dafb7ea96785b *Garbage_1998-12-06_t13.flac
+508d832c096e79a8e665854e2ffb7bf8 *Garbage_1998-12-06_t14.flac
+0fb78ac7c572d6e6bac2ed6d396207bc *Garbage_1998-12-06_t15.flac
+21b4e524b2a1a66dafbe525acb22e458 *Garbage_1998-12-06_t16.flac
+d2f89d0df1e43f84b1654425f8f552e4 *Garbage_1998-12-06_t17.flac

@@ -1,0 +1,26 @@
+Vertical Horizon
+Samford University
+Birmingham, Alabama
+5.4.95
+
+Taper:  Unknown
+Source:  SDBD
+
+Track 	|	Name				|	Time (m:s)
+------------------------------------------------------------------
+d1t01	Intro*-->Candyman				05:34
+d1t02	Footprints In The Snow				04:03
+d1t03	Fragments					03:38
+d1t04	Angel Without Wings				04:07
+d1t05	The Promise Of Tomorrow				05:34
+d1t06	Heart In Hand					04:28
+d1t07	Liberty						03:21
+d1t08	Trying To Find Purpose				03:35
+d1t09	Message in A Bottle-->On The Sea (twice)	05:36
+Total:							39:56
+
+Notes:
+* Cary Pierce introduces the band (opening band/act for JACKOPIERCE)
+- This is just an acoustic show with Keith and Matt.
+
+Compiled by:  Ray Domingue <rpd004@yahoo.com>

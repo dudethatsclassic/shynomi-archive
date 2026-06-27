@@ -1,0 +1,37 @@
+Wilco
+April 30, 2005
+Coachella Festival
+Indio, CA
+
+*** THIS IS A 16-BIT FILESET INTENDED FOR AUDIO CD ***
+
+SOURCE: schoeps ccm4 > sound devices 722 (24/96)
+PROCESSING: soundforge 8.0 (tracking, fades, resample, dither) > flac 1.2.0a
+
+DISK ONE
+
+01 intro
+02 Late Greats
+03 I Am Trying To Break Your Heart
+04 At Least That's What You Said
+05 Muzzle Of Bees
+06 Handshake Drugs
+07 Shot In The Arm
+08 Hummingbird
+09 Jesus etc.
+10 War On War
+11 Spiders (Kidsmoke)
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:17.22        3050588 B   ---   --   ---xx   flac  0.3803  wilco2005-04-30_ccm4_t01.flac
+     2:30.08       26478860 B   ---   --   ---xx   flac  0.4562  wilco2005-04-30_ccm4_t02.flac
+     5:57.67       63132428 B   ---   --   ---xx   flac  0.4511  wilco2005-04-30_ccm4_t03.flac
+     5:30.45       58317884 B   ---   --   ---xx   flac  0.4157  wilco2005-04-30_ccm4_t04.flac
+     5:19.45       56377484 B   ---   --   ---xx   flac  0.3864  wilco2005-04-30_ccm4_t05.flac
+     5:52.38       62182220 B   ---   --   ---xx   flac  0.4665  wilco2005-04-30_ccm4_t06.flac
+     4:45.60       50415164 B   ---   --   ---xx   flac  0.4906  wilco2005-04-30_ccm4_t07.flac
+     3:26.67       36496028 B   ---   --   ---xx   flac  0.4032  wilco2005-04-30_ccm4_t08.flac
+     4:05.00       43218044 B   ---   --   ---xx   flac  0.3947  wilco2005-04-30_ccm4_t09.flac
+     3:22.08       35651660 B   ---   --   ---xx   flac  0.4844  wilco2005-04-30_ccm4_t10.flac
+    10:07.23      107128940 B   ---   --   ---xx   flac  0.4619  wilco2005-04-30_ccm4_t11.flac
+    51:15.08      542449300 B                            0.4425  (11 files)

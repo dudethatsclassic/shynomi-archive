@@ -1,0 +1,72 @@
+Wilco
+August 1, 2012
+The Bushnell Theater
+Hartford, CT
+
+
+Taper: Sean Moran
+Location: FOB Orch Sec D Row R 6' Right of DFC 6'high
+Source: CA-11>Sony PCM-M10(24/48)
+Transfer: Sony PCM-M10>USB>Soundforge 9.0(16/44)>CDWav>FLAC (Level 8)
+
+
+01 - Poor Places
+02 - Art of Almost
+03 - I Might
+04 - I Am Trying to Break Your Heart
+05 - Pot Kettle Black
+06 - Side with the Seeds
+07 - Rising Red Lung
+08 - Spiders (Kidsmoke)
+09 - Impossible Germany
+10 - Born Alone
+11 - Laminated Cat (aka Not For The Season)
+12 - Radio Cure
+13 - Too Far Apart
+14 - Capitol City
+15 - Handshake Drugs
+16 - Whole Love
+17 - I'm Always In Love
+18 - Dawned On Me
+19 - Shot In the Arm
+20 - Encore Crowd
+21 - Via Chicago
+22 - Hate It Here
+23 - Heavy Metal Drummer
+24 - I'm the Man Who Loves You
+25 - Encore Crowd
+26 - The Late Greats
+27 - Monday
+28 - Outtasite (Outta Mind)
+
+No EQ other than Fade In and Fade Out
+Good Recording, came out well I hope You enjoy It
+
+01 Poor Places.flac:c9b217a6f935fdcfb38284f447574623
+02 Art Of Almost.flac:26f31d16414f09a7b5adcc52d1743acd
+03 I Might.flac:2ad21db16aabbcc09fc26a7ed50a1d4b
+04 I Am Trying To Break Your Heart.flac:8ca23caa80865694e04a67129b930797
+05 Pot Kettle Black.flac:edcf16a8dd0c433ecb01c43553a89b20
+06 Side With The Seeds.flac:7f827d0ea6d9d80f90b9d9a42fe800bc
+07 Rising Red Lung.flac:6a753fe7081e4ae5a92520b683ca3ed0
+08 Spiders (Kidsmoke).flac:d2c4866535da5d8a34ee0c7a0d0d9a6f
+09 Impossible Germany.flac:3876bbc8ef870351f09f10e1fc745864
+10 Born Alone.flac:112a92234686b9648326b175ee8b637a
+11 Laminated Cat (aka Not For The Season).flac:012b21eddccb68a5f60c909396766f20
+12 Radio Cure.flac:a92ce1f4cc62376f532312609775873e
+13 Too Far Apart.flac:9a50be644405ff21e9ade5c3ec62c43d
+14 Capital City.flac:d6a15f8a25a7dc54a6cd326b56023b57
+15 Handshake Drugs.flac:ffc42918aa6cd2369f1080665d504731
+16 Whole Love.flac:a3784da1a5d863a9d6bdd0e769900b6a
+17 I'm Always In Love.flac:8e3f31fec3c2b9228a3dc0ef9a6f46fb
+18 Dawned On Me.flac:78f27d750e994b43242e226915b550a2
+19 Shot In The Arm.flac:310dafd18231b9ce21acec48ed3917c6
+20 Encore Break.flac:7b2ed0b90349079275f1fb08f907bace
+21 Via Chicago.flac:f81cdd9a4bd570db0fca5d491a7cf189
+22 Hate It Here.flac:e08a87966654a595fc910fdd827e11b9
+23 Heavy Metal Drummer.flac:47e7130b1c47a1c3e728edd3a132b77a
+24 I'm The Man Who Loves You.flac:4878866d89055ecfe12b177c5f679225
+25 Encore Crowd.flac:15c122c0bfc97290312e33d63153981b
+26 The Late Greats.flac:2276cc7d36fceb4848145acddd74680e
+27 Monday.flac:e9496480459dac67b40a42020e3319af
+28 Outtasite (Outta Mind).flac:03a33ac42de1b6a8f3aeeb3506f20b7e

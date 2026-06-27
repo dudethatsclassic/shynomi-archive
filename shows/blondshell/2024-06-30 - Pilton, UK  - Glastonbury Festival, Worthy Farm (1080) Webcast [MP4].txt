@@ -1,0 +1,27 @@
+Blondshell
+Glastonbury Festival, Woodsies Stage
+Worthy Farm, Pilton, England
+June 30th 2024
+
+Lineage: BBC VOD -> get_iplayer -> mp4
+Video: MPEG4 Video (H264) 1920x1080 16:9 8785 kbps 50.00 fps
+Audio: 128 Kbps 48.0 KHz stereo
+
+Setlist:
+Veronica Mars
+Docket
+Cartoon Earthquake
+Sepsis
+(Unknown)
+Joiner
+Sober Together
+T&A
+Olympus
+Dangerous
+(Unknown)
+Kiss City
+Tarmac
+Jane Says (Jane’s Addiction Cover)
+Salad 
+
+Run time 54:51 min

@@ -1,0 +1,58 @@
+SIGUR RÓS
+ACCOMPANIED BY WORDLESS MUSIC ORCHESTRA
+2024/09/25 - The Anthem, Washington DC
+
+Source: CA-14 (omnis) > Church ST-9100 > Edirol R09-HR @ 24/88.2
+Location: DFC, approx. 40ft from stage
+Editing:  Lots of editing on this one, per usual with this group.  Sigur Rós is always VERY quiet, and in order to make the recording enjoyable through standard methods of playback, I need to increase the volume.  I first combined each recording into a single stereo audio file and then painstakingly went literally clap by clap during each session of applause, enveloping nearby claps / reducing their peak volume ~10-25dB for each individual pop of ~0.05seconds.  After this, I normalized each channel independently to -0.10db.  I noticed that the final two songs were much louder than the rest of the set.  This difference I attribute to the big drums (timpani?) and decided to roll-off about 4dB of low-end, from ~160Hz and below, thus bringing the peaks closer to the overall volume of the set (though still noticably louder).  I then grabbed each applause session as a whole and applied a volume reduction of ~5db overall, fading in and out and matching along with the swell / decay of the crowd so as to minimize disruption / detection during playback.  I then applied a gentle EQ to the entire recording.  Tracks were once again normalized individually to -0.10dB.  The result of these processes is an overall volume increase of ~22dB to the music.  The show was then tracked, with fade in/out's applied where appropriate to the start / end of each set.  All processes performed in Sony Soundforge 9.0a (Build 297) as a wav file.  NOTE: I did tinker in "Izotope RX," Spectral analyzer to see whether I could reduce the noise that resulted from such an increase in volume, but all attempts produced undesirable artifacts and disrupted the overall sound and feel of the music.  I decided to release only this version, without any manipulations to attempt to remove the noise.  
+Conversion: Trader's Little Helper v.2.7.0 (Build 172)
+
+
+
+TRACKLIST:					TIME:
+
+SET ONE:	
+01. Intro					00:26
+02. Blóðberg					08:03
+03. Ekki múkk					07:15
+04. Fljótavík					03:33
+05. 8						05:27
+06. Von						06:46
+07. Andvari					06:02
+08. Starálfur					06:19
+09. Dauðalogn					05:20
+10. Varðeldur					06:12
+
+				SET ONE TOTAL:	55:23
+
+SET TWO:
+11. Intro					00:17
+12. Untitled I (Vaka)				07:11
+13. Untitled III (Samskeyti)			06:34
+14. Heysátan					05:00
+15. Ylur					05:45
+16. Skel					04:24
+17. All Alright					05:57
+18. Untitled V (Álafoss)			06:03
+19. Sé lest					07:27
+20. Hoppípolla					04:28
+21. Avalon *					03:16
+
+				SET TWO TOTAL:	56:22
+
+				  GRAND TOTAL: 111:45
+
+* - Performed only by Wordless Music Orchestra (without Sigur Rós)
+
+
+
+MISC NOTES:
+This is my fifth time seeing and recording Sigur Rós and somehow I am always caught flat-footed with respect to their astonishingly quiet performances.  I tried my very best to capture as wonderful a recording as I could, but I need to note here, in hopes that I will revist this note for my sixth time seeing them, that I need to crank my preamp to max and set my input level to like "45" on my R09HR in order to hopefully capture more volume on the primary recording and thus save myself noise on the backend.  There were no other bands performing.
+
+Hope you enjoy!
+
+Wordless Music Orchestra, conducted by Robert Ames - strings, percussion, brass, choral vocals on Dauðalogn, Vaka
+Jón Þór "Jónsi" Birgisson - vox, guitar, piano, keys
+Georg "Goggi" Hólm - bass, keys
+Ólafur Björn "Óbó" Ólafsson - percussion, keys
+Kjartan "Kjarri" Sveinsson - guitar, keys

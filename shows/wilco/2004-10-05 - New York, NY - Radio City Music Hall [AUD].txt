@@ -1,0 +1,67 @@
+Wilco
+Radio City Music Hall
+New York City, NY
+5 October 2004
+
+FOB (Row G, seat 311)
+Schoeps CMXY 4v > Lunatec V3 > D8 
+Transfer: DAP1 > Phillips 765
+CD > EAC > WAV > SHN
+Recorded and transferred by Pete Costello
+Seeded by Aaron Stein (astein174@comcast.net)
+
+00bba85e61533c29700b661419735ebb *wilco2004-10-05d201.shn
+ef2aad45a3e785d37f0a784f86221be6 *wilco2004-10-05d202.shn
+64093eca5aba663b316b08fa237140c5 *wilco2004-10-05d203.shn
+aadab027c8422c74d4398c738e84a4ee *wilco2004-10-05d204.shn
+2bb31eafa15dde32877f700069ab4f5c *wilco2004-10-05d205.shn
+6d96fa127a0db09a02fd239a8b523297 *wilco2004-10-05d206.shn
+f50b11b68c3c4a828c23bcc85706b268 *wilco2004-10-05d207.shn
+f5c088649adb9ec9b0acaf2a7af70139 *wilco2004-10-05d208.shn
+5c4a45a12a6f78c37b960c3ccad85d33 *wilco2004-10-05d209.shn
+3cf75803dfc42e5e078eaa0c376e7ea8 *wilco2004-10-05d210.shn
+1e7d15faa93def891fcfada21339d8cc *wilco2004-10-05d211.shn
+081cb4930279c0266223fefacba36b3f *Wilco2004-10-05d101.shn
+6bf7627a7697bf5cb4ca322ef8c6b364 *Wilco2004-10-05d102.shn
+25482bb4a47d0376e26cb062a839fe15 *Wilco2004-10-05d103.shn
+3baa35423465f8eca3df994644b8078f *Wilco2004-10-05d104.shn
+e0ffa395d59bc75943e05764d91fe04a *Wilco2004-10-05d105.shn
+2a8efcf77de99ac8c6721b9a449f4f59 *Wilco2004-10-05d106.shn
+9b926883fa24e346a5d727054811ac03 *Wilco2004-10-05d107.shn
+64a1aea4c84117ca8f2c4a6df68660d1 *Wilco2004-10-05d108.shn
+bd26c1f96ca60169e4e2cdb900f9b5d8 *Wilco2004-10-05d109.shn
+b376f57a2c61a06c231b3d1e7f888aa8 *Wilco2004-10-05d110.shn
+bd686230f45b4351895691281c89a9cc *Wilco2004-10-05d111.shn
+75aea5b3c146c4db10499709e980591c *Wilco2004-10-05d112.shn
+
+
+Tracks/Setlist:
+1. Hummingbird   
+2. Muzzle Of Bees   
+3. Hell Is Chrome   
+4. I Am Trying To Break Your Heart   
+5. A Shot In The Arm   
+6. At Least That's What You Said   
+7. Via Chicago   
+8. Handshake Drugs   
+9. Jesus, Etc.   
+10. Ashes Of American Flags   
+11. Theologians   
+12. I'm The Man Who Loves You   
+
+Disc 2:
+1. Poor Places   
+2. Reservations   
+3. Spiders (Kidsmoke)   
+
+Encore 1:
+4. Candyfloss   
+5. Kingpin   
+6. The Late Greats   
+7. I'm A Wheel   
+
+Encore 2:
+8. Passenger Side   
+9. California Stars   
+10. War On War   
+11. Be Not So Fearful   

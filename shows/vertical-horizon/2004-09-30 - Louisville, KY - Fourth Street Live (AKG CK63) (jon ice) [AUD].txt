@@ -1,0 +1,40 @@
+Vertical Horizon
+
+date:  September 30, 2004
+
+venue:  Fourth Street Live!, Louisville, Kentucky
+
+taped by:   Jon Ice <ice@dmbtaper.com>
+
+location:  Approx 15' from stage right stack. Stand @ 8'
+
+source:  AKG ck63 > Active Cables > JK Labs DVC > Apogee Mini-Me (soft limit on) > 
+              Apple G4 Powerbook @ 24/48 via Spark XLv2.8 > xACT > SHN
+
+lineage:  AUD(M) > WAV > SHN (seek tables appended) - No D.A.E.
+
+size:  631 MB
+
+***************************************************************************************************
+
+       PLEASE DO NOT ENCODE TO MP3 OR OTHER LOSSY COMPRESSION SCHEMES
+
+***************************************************************************************************
+
+01 Inside
+02 You're a God
+03 When You Cry
+04 Sunshine
+05 Best I Ever Had
+06 Shackled (Kashmir intro)
+07 Won't Go Away
+08 Comfortably Numb
+09 Send it Up
+10 Goodbye Again
+11 Wash Away (incl. Eleanor Rigby)
+12 Everything You Want
+13 I'm Still Here
+14 We Are
+
+More notes:
+This is a very old dime post from the days of easytree.  Back then I burned things to CD as a matter of course.  So add to the liniage that I burned it to CD using simplyburns, then later extracted it to flac using max.  I removed intro because it consisted of a complete rush song played through the pa system and nothing else.  Removing the intro makes it comply with dimes officialness standards and has the advantage that if for some reason you decide to burn the files to CD, they will all fit on one disk.  Of course, I then edited the info file with updated track info and removed the SHN fingerprints which would be incorrect for these files.

@@ -1,0 +1,43 @@
+John Mayer
+February 17, 2002
+9:30 Club, Washington D.C.
+
+Taper:       Marc Becker
+Source:      Earthworks SR78 -> Sound Devices MP-2 -> M1
+
+
+Conversion:    Marc Becker (mbecker@richmond.edu)
+DAT>SHN:       D8 > m audio dio 2448 > Cool Edit Pro (Celeron/863mhz) > CDWav > SHN
+
+------------------------------------------------------------------------------------
+
+
+Disc 1:
+
+01.  Intro
+02.  Why Georgia
+03.  No Such Thing (Always on Time)
+04.  Back to You
+05.  Great Indoors
+06.  My Stupid Mouth
+07.  3x5
+08.  Lenny
+09.  Wind Cries Mary
+10.  Love Soon
+11.  Love Song for No One
+
+
+Disc Two:
+
+01.  St. Patrick's Day
+02.  City Love
+03.  Your Body is a Wonderland
+04.  Intro to Neon
+05.  Neon
+06.  My Buddy*
+07.  83 (Girl's Just Wanna Have Fun/Break My Stride/Rock with You)
+08.  Comfortable
+
+* Theme song to the toy "My Buddy"
+
+GEAR USED: trade CDR > EAC > TLH > .flac files

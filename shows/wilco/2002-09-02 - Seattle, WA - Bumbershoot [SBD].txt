@@ -1,0 +1,102 @@
+# wlco_2002-09-02.txt; version 1.0; December 11, 2002; initial setup
+# wlco_2002-09-02.txt; version 1.0; November 25, 2003; added tracklist, completed lineage
+
+ARTIST   Wilco
+TITLE    Live In Seatltle
+VENUE    Bumbershoot, Seattle Arts Festival, 74-acre Ground, Seattle Center
+CITY     Seattle
+STATE    Washington
+COUNTRY  U.S.A.
+DATE     September 2, 2002
+
+A WOLF HiQuality Remastering -- Initially circulated November 2003 as torrent using STG's tracker.
+
+Tracklist:
+  Disc 1
+     1. Spiders (Kidsmoke)
+     2. I'm Trying To Break Your Heart
+     3. War On War
+     4. Kamera
+     5. Sunken Treasure
+     6. A Shot In The Arm *
+     7. How To Fight Loneliness *
+     8. Heavy Metal Drummer
+     9. I'm The Man Who Loves You
+  
+  Disc 2
+     1. Jesus, Etc. *
+     2. I'm Always In Love *
+     3. Red Eyed And Blue
+     4. I Got You
+     5. Less Than You Think
+     6. California Stars
+     7. Misunderstood
+     8. Far Far Away
+     9. Hesitating Beauty
+    10. I'm A Wheel
+    11. Outtaside (Outtamind) *
+    
+  * Wrong or misspelled title on inlay-card.
+  
+Artwork:
+  In subdirectory "artwork"
+
+Lineage:
+  SBD >? >CDRx? >WaveLab (DAE & Digital Remastering) >wav >mkwACT
+  >shn >wav >FLAC v1.1.0 (with sector alignment option set) >flac
+  >wav >mkwACT >shn
+  
+Size:
+  553 MB
+
+Comment:
+  These shn files decode to the original remastered wav files as
+  received from WOLF himself. No DAE since remastering.
+
+WAV MD5 checksums of this release:
+  d79cd5ac0bbd0031587f0b4d962e14de *wlco_2002-09-02_d1t01.wav
+  bd3ddecdeb65167ae70bc143ece0726a *wlco_2002-09-02_d1t02.wav
+  7f9bbc2e99b7e69fa82787bb81700d7b *wlco_2002-09-02_d1t03.wav
+  0524bd7002062dc2cc1c830d93a81822 *wlco_2002-09-02_d1t04.wav
+  5bc361aa4d18c6f6fff1a723ef1ad508 *wlco_2002-09-02_d1t05.wav
+  d603a269ad4f721bc2442adb6275ec47 *wlco_2002-09-02_d1t06.wav
+  402aab7c0e9cd7f74029b6c54b233be5 *wlco_2002-09-02_d1t07.wav
+  bcda02d6fe84a27b2c4b1d1408d7487f *wlco_2002-09-02_d1t08.wav
+  63a27b2f40c2a2d879ee1de5f2e0fe7f *wlco_2002-09-02_d1t09.wav
+  368e29ea2ede1d2086a2b358e872e728 *wlco_2002-09-02_d2t01.wav
+  60e73bc07cd397c0798cd3833289ad94 *wlco_2002-09-02_d2t02.wav
+  823577984416a10f28f85a61e0e1d4ce *wlco_2002-09-02_d2t03.wav
+  93177de79e8d2991fe7106fb0634c003 *wlco_2002-09-02_d2t04.wav
+  c0ce147bc9e10bab62df2404c40ec6d7 *wlco_2002-09-02_d2t05.wav
+  89a7a45a35f6c0fed2dbb24be820563d *wlco_2002-09-02_d2t06.wav
+  d1442a92c4604fade6870c6c27eab475 *wlco_2002-09-02_d2t07.wav
+  1cdfea0469e0607be36f4f46982d0a50 *wlco_2002-09-02_d2t08.wav
+  4f0ed423b92079265746110fdeb95372 *wlco_2002-09-02_d2t09.wav
+  7caea73e0d96e794d20c0d68b549c89d *wlco_2002-09-02_d2t10.wav
+  a87e8e6771082970ada0b77d7f07a97b *wlco_2002-09-02_d2t11.wav
+  
+FLAC fingerprints of this release:
+  wlco_2002-09-02_d1t01.flac:193a624144ddd2aa58c0922d1aae240c
+  wlco_2002-09-02_d1t02.flac:dfbd3ca45fb22e7b15a740d539ebd15e
+  wlco_2002-09-02_d1t03.flac:7bdb6ab0c501e49591f697a5a31e198b
+  wlco_2002-09-02_d1t04.flac:87f7922d7c3793fa481aaf441875e62b
+  wlco_2002-09-02_d1t05.flac:d1d5d5cf44bf82a8d1b570f597bbc552
+  wlco_2002-09-02_d1t06.flac:99ba03f124fbbeb45fb4041dad8b7503
+  wlco_2002-09-02_d1t07.flac:ecbdae7c7ac6b42f98f8de2e5e96138f
+  wlco_2002-09-02_d1t08.flac:10bcb1786d4c2bff907e37c90458fd82
+  wlco_2002-09-02_d1t09.flac:9e9154ee94a35da6c2ec306a4ddd9b3d
+  wlco_2002-09-02_d2t01.flac:24adcce5ac994332807830fdbfcecc0e
+  wlco_2002-09-02_d2t02.flac:375461604a8661a85f5eee873cfba5ef
+  wlco_2002-09-02_d2t03.flac:d977fb65075ac5aac46f49116c45208c
+  wlco_2002-09-02_d2t04.flac:5dffd33c33c1a0cc14bb32103cb1a8f9
+  wlco_2002-09-02_d2t05.flac:4fc226abb20f548929113251ae2b93ae
+  wlco_2002-09-02_d2t06.flac:8fe2783efe6b1645fb6d220cb6d31deb
+  wlco_2002-09-02_d2t07.flac:371b60659b60a4bb94789f188b895a38
+  wlco_2002-09-02_d2t08.flac:9cf96ca451f22233906cdc9b3a3f3cce
+  wlco_2002-09-02_d2t09.flac:ccefa424eed6f7c6579efb700b6e745b
+  wlco_2002-09-02_d2t10.flac:3eb34e7b667c4b40d7232a90cba1024a
+  wlco_2002-09-02_d2t11.flac:4e394624d04effa91c214e63dffadade
+  
++---------------------------------+  
+! these shn files created by ERWE !
++---------------------------------+  

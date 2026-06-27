@@ -1,0 +1,68 @@
+John Mayer
+August 3, 2008
+Woodlands Pavilion, 
+The Woodlands, TX
+
+Source: DPA 4021 > ACM V3 > 744 (24/48)
+Location: ROC 20', ORTF @ 7'
+Transfer: 744 (24/48) > Sound Forge 9.0e (MBIT+) > CDWave > FLAC (6)
+Taped and Transferred by OFOTD
+
+
+Disc One:
+
+1. Waiting On The World To Change
+2. Why Georgia
+3. Crossroads
+4. I Don't Trust Myself (With Loving You)
+5. Wheel @
+6. Bigger Than My Body
+7. Mercy
+
+Disc Two:
+
+1. Free Falling #
+2. Good Love is On the Way
+3. Find Another You
+4. Stitched Up
+5. Belief
+6. Gravity $
+Encore
+7. Vultures
+8. Say
+
+
+
+Notes:
+
+@ - Still Haven't Found What I'm Looking For (U2) tease
+# - You Don't Know How It Feels (Tom Petty) tease
+$ - w/ Colbie Caillat
+
+- Colbie Caillat and Brett Dennen opened
+- 24bit version of this source exists
+
+
+
+[==-->> Support artists that support tapers! <<--==]
+
+
+
+FLAC Fingerprint
+-----------------------------------------------------
+jm2008-08-02d1t01.flac:036dbbda0bf659379b43192762a7ec30
+jm2008-08-02d1t02.flac:01b494544fdf239988add73fe69ece1c
+jm2008-08-02d1t03.flac:d5b6c0f7bf40edc8e2f28ca366f3e51d
+jm2008-08-02d1t04.flac:da316e9dacae1871aea480eb2db2124a
+jm2008-08-02d1t05.flac:4118a42c10e54df4262034380e0c377f
+jm2008-08-02d1t06.flac:8e0faeaee096babe897543e3a0208d17
+jm2008-08-02d1t07.flac:872c0e379fb2ed76a9fafc1f62d69a6e
+jm2008-08-02d2t01.flac:be17d3b0066dd7fc0d93c7a96a582acf
+jm2008-08-02d2t02.flac:94a0c0fa96c2c56e2395b01bb47c2959
+jm2008-08-02d2t03.flac:1b282944a046edc747a08aef8e22f4db
+jm2008-08-02d2t04.flac:da2613f1224f06dd7bd7e099f9e85492
+jm2008-08-02d2t05.flac:a4d1c6df3975148648a4712bda8b1bd2
+jm2008-08-02d2t06.flac:6bb0979cddabce7853fd3e3e5d87ce2d
+jm2008-08-02d2t07.flac:d503fdb5301f7ca5984ef6022ec35350
+jm2008-08-02d2t08.flac:7b048b64c525cae98500099f0fde64ae
+-----------------------------------------------------

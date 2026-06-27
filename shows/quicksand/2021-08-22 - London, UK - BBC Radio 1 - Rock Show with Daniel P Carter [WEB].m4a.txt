@@ -1,0 +1,30 @@
+Quicksand
+
+Radio 1's Rock Show with Daniel P Carter
+BBC Radio 1, London, UK
+2021-08-22, 22nd August 2021
+
+-----
+
+Source: get_iplayer (320kpbs AAC M4A) -> MP4Box (to AAC files) -> mp3DirectCut (trimming & splitting) -> ffmpeg (to M4A file) -> Foobar (metadata & tagging)
+
+Total Running time: 15mins 37secs [35.6mb]
+
+01 DJ Intro + Interview Pt 1 [03:08]
+02 Missile Command [03:41]
+03 Interview Pt 2 [01:56]
+04 Colossus [03:10]
+05 Interview Pt 3 [01:17]
+06 Lightning Field [02:25]
+-----
+
+Notes:
+
+Radio 1's Rock Show with Daniel P Carter: Quicksand in session
+https://www.bbc.co.uk/programmes/m000yzxb
+
+New York post-hardcore band Quicksand perform live tracks from their new album Distant Populations.
+
+Broadcast on BBC Radio 1 on August 22nd 2021. Session was recorded remotely by the band at Vinegar Hill Studios, Brooklyn. A video of the Colossus recording from this session was released on YouTube by Epitaph Records here: https://www.youtube.com/watch?v=gOSWyHYmc44
+
+This is the entire performance, cut and repackaged entirely without re-encoding from the original quality ripped from the stream.

@@ -1,0 +1,38 @@
+Sebadoh - 1995 02 24 Filmore, SF                         
+
+Show note:
+NIce sounding soundboard. Band is a little all over the place, lots of early Harmacy songs.  They get nearly psychedelic towards the end.
+
+Transfer note:
+Most songs have a 6/10ths of second gap. Maybe the taper paused between most songs to cut out the tuning, etc.  I tried to do as seamless blends after removing the gaps.
+
+1 instrumental intro
+2 Soulmate 
+3 Too Pure 
+4 Ocean 
+5 Rebound 
+6 The Freed Pig 
+7 Dramamine 
+8 Soul And Fire 
+9 Together Or Alone 
+10 Give Up 
+11 Sixteen spit 11 / junk bonds
+12 Junk Bonds 
+13 Zone Doubt
+14 Hillbilly 
+15 Beauty Of The Ride 
+16 instrumental
+17 Not A Friend 
+18 Really Insane 
+19 2 Years, 2 Days 
+20 License To Confuse 
+21 Shit Soup 
+22 Sister 
+23 Crystal Gypsy 
+24 Social Medicine 
+25 Bolder 
+26 Reasons I’m In Prison 
+27 Instrumental 
+28 Flood
+
+Lineage: DAT SBD > 1st gen analog tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]

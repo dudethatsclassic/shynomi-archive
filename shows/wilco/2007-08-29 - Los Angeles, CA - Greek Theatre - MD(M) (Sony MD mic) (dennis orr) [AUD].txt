@@ -1,0 +1,85 @@
+Wilco
+Greek Theatre
+Los Angeles, CA
+August 29, 2007
+
+** 16 BIT **
+
+Source:  Unknown Sony MiniDisc recorder with supplied mic > Master MiniDisc (Sony HI-MD)
+Transfer:  Master MiniDisc > Sony Hi-MD Walkman MZ-NH900 (line out) > Sony PCM-A10 (line in) @ 24 bit/48 kHz
+Mastering:  .WAV's > iZotope RX10 Advanced v10.0.0.1705 (De-Click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.17 (tagging)
+Recorded & transferred by:  ManOfStealth
+Mastered by:  Dennis Orr
+
+Setlist: (1:52:09)
+< You Are My Face >
+01 I Am Trying to Break Your Heart (fade in - snippet)
+02 Side With The Seeds
+03 Shake It Off
+04 Handshake Drugs
+05 A Shot In The Arm
+06 Impossible Germany
+07 Sky Blue Sky
+08 Chat
+09 Too Far Apart
+10 Chat
+11 Pot Kettle Black
+12 War On War
+13 Via Chicago
+14 Chat
+15 Jesus, Etc.
+16 Chat
+17 Walken
+18 I'm the Man Who Loves You
+19 Hummingbird
+20 On And On And On
+21 Encore Break #1
+- Encore #1 -
+22 California Stars
+23 Chat
+24 Hate It Here
+25 I'm Always In Love
+26 Outtasite (Outta Mind)
+17 Encore Break #2
+- Encore #2 -
+28 Heavy Metal Drummer
+29 Spiders (Kidsmoke)
+30 Crowd
+
+Jeff Tweedy - lead vocals, guitar, & harp
+Nels Cline - guitar & lap steel
+Pat Sansone - keyboards, guitar, & backing vocals
+Mikael Jorgensen - samples, keyboards, & synthesizers
+John Stirratt - bass, keyboards, & backing vocals
+Glenn Kotche - drums & percussion
+
+Wilco2007-08-29t01.flac:6ab60a4ed2c1e2d599ba125d796a0aca
+Wilco2007-08-29t02.flac:00ce2744b28a55ee6ff2a406203fb892
+Wilco2007-08-29t03.flac:48e1a7258600c2004790dd7b128dbee8
+Wilco2007-08-29t04.flac:9407b6e405c63ebf533e41ac3a7ae0eb
+Wilco2007-08-29t05.flac:e9ca5e13b10818d584667c57d72d913e
+Wilco2007-08-29t06.flac:002debd5e9f963808dc961d34e60e745
+Wilco2007-08-29t07.flac:8c1ed49fc7b97d645be4e3b647e64b59
+Wilco2007-08-29t08.flac:fd63e62c48e37415fe0be6d59c4a4bb9
+Wilco2007-08-29t09.flac:63bc5c1611db9a2e2ac3402c197a5250
+Wilco2007-08-29t10.flac:1488dca189731a5c30da6963ed9fdd93
+Wilco2007-08-29t11.flac:5f63d2ab4708f02d2cfc2fb8f72d8e35
+Wilco2007-08-29t12.flac:7958fc25126bc6b729f0a8c73e01b284
+Wilco2007-08-29t13.flac:d8b7c23bf26f3d46e37321733f8fc9b6
+Wilco2007-08-29t14.flac:6db4dbd794700d540b3d5bcdf609fe7b
+Wilco2007-08-29t15.flac:c55e6a68799228df7f6429e0ef35759d
+Wilco2007-08-29t16.flac:6bf85316cbac5d0517d0b4fc8adb0798
+Wilco2007-08-29t17.flac:519d20a091cec4b160d0d0665e659de4
+Wilco2007-08-29t18.flac:eaae652f5c45636e82445b4c30337f2e
+Wilco2007-08-29t19.flac:98b1b312fd00f14b96064ebd3cd36bb4
+Wilco2007-08-29t20.flac:32074f17edfaa24fc0f4b01518b571d8
+Wilco2007-08-29t21.flac:b03101eb6de8c01c3d6915cc0ecb8640
+Wilco2007-08-29t22.flac:189e9f3453059ebd72207c6647cf8737
+Wilco2007-08-29t23.flac:6a86faa88e41be6c2f884c6682c8ee54
+Wilco2007-08-29t24.flac:dcdcd7ec4e939e20e1e9979c36666f9f
+Wilco2007-08-29t25.flac:9321a67112dad0da2df9a7c9519a8e35
+Wilco2007-08-29t26.flac:d1949ac13918be8a0f72381140815101
+Wilco2007-08-29t27.flac:d93e3168757292e41ea5ba10767e8e39
+Wilco2007-08-29t28.flac:5e36317f5b633a89af38dce64d28c1e1
+Wilco2007-08-29t29.flac:ddd291421d3d93263327ad13b46ef04e
+Wilco2007-08-29t30.flac:9b2c63f6d136586b9a1ede4d78361b76

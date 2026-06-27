@@ -1,0 +1,93 @@
+  The Black Crowes
+  Nov 11, 2013 
+  Boulder Theater
+  Boulder, CO
+  Total Time = 	109:33
+
+  Source: DPA 4022 (XY) -> V3 -> 
+          Tascam DR680
+
+  Location: FOB, DFC. 
+
+  Transfer: Tascam DR680 (24/96) wav -> 
+  USB cable -> PC
+
+  Editing: Wavelab plugins -> Flac(16)
+
+  MD5's and SBE checked and verified.
+  11/12/2013
+
+  Recorded by Patrick H.	
+    
+  Disc 1  Set 1 (71:06) 
+  01 Let It Bleed		 5:44
+  02 Shady Grove		 5:06
+  03 Anotehr Roadside Tragedy	 8:43
+  04 A Train still makes 	 4:24
+     a Lonely sound
+  05 Jealous Again		 6:20
+  06 Oh Josephine		 7:47
+  07 Thorn in My Pride		12:38
+  08 Magic Rooster Blues	 4:13
+  09 Quinn The Eskimo		 6:51
+  10 Garden Gate		 4:52
+  11 East Viginia Blues		 4:28
+
+  Disc 1  Set 1 (38:22) 
+  01 Wiser Time			18:32
+  02 Soul Singing		 4:19
+  03 Remedy			 5:52
+  04 Encores: Gods Got it	 4:27
+  05 Shine Along		 5:12
+   
+  Notes: There was no opener and the BC
+  came on at 9:05 and played till 10:55.
+  This was a monday sold out show at the
+  Boulder theater. 
+
+  Sound at the venue was good. Recording 
+  sound is good.  Crowd noise is minimal
+
+  Performance: A
+  Sound Quality: A-
+
+  Support Live Music!
+
+
+  shntool
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:44.01       60683996 B   ---   --   -----    wav  1.0000  BC_2013-11-11_D101.wav
+     5:06.58       54114860 B   ---   --   -----    wav  1.0000  BC_2013-11-11_D102.wav
+     8:43.43       92358380 B   ---   --   -----    wav  1.0000  BC_2013-11-11_D103.wav
+     4:24.17       46609628 B   ---   --   -----    wav  1.0000  BC_2013-11-11_D104.wav
+     6:20.38       67121420 B   ---   --   -----    wav  1.0000  BC_2013-11-11_D105.wav
+     7:47.63       82527020 B   ---   --   -----    wav  1.0000  BC_2013-11-11_D106.wav
+    12:38.50      133828844 B   ---   --   -----    wav  1.0000  BC_2013-11-11_D107.wav
+     4:13.74       44803292 B   ---   --   -----    wav  1.0000  BC_2013-11-11_D108.wav
+     6:51.22       72552188 B   ---   --   -----    wav  1.0000  BC_2013-11-11_D109.wav
+     4:52.06       51522956 B   ---   --   -----    wav  1.0000  BC_2013-11-11_D110.wav
+     4:28.00       47275244 B   ---   --   -----    wav  1.0000  BC_2013-11-11_D111.wav
+    18:32.03      196163900 B   ---   --   -----    wav  1.0000  BC_2013-11-11_D201.wav
+     4:19.23       45741740 B   ---   --   -----    wav  1.0000  BC_2013-11-11_D202.wav
+     5:52.16       62130476 B   ---   --   -----    wav  1.0000  BC_2013-11-11_D203.wav
+     4:27.27       47162348 B   ---   --   -----    wav  1.0000  BC_2013-11-11_D204.wav
+     5:12.05       55048604 B   ---   --   -----    wav  1.0000  BC_2013-11-11_D205.wav
+   109:33.71     1159644896 B                            1.0000  (16 files)
+
+  ffp
+BC_2013-11-11_D101.flac:86ed05484f887c317c89d8554b06520b
+BC_2013-11-11_D102.flac:a5e35d184ea3a2c26c0bcdce4489648e
+BC_2013-11-11_D103.flac:372e8687e1afa0026eca7048f1754d77
+BC_2013-11-11_D104.flac:a11323fea0295638362265073ce8cc4f
+BC_2013-11-11_D105.flac:b2aa3f3f7e91d72b2965814de553fbab
+BC_2013-11-11_D106.flac:ad2da067d1ff78cb05d3e42adeeafbaf
+BC_2013-11-11_D107.flac:28c0658feaebd471d1fbbe41f7afebee
+BC_2013-11-11_D108.flac:37dba254d87474b46960ea0396c8f7f3
+BC_2013-11-11_D109.flac:f9b5a21ee31b19987fff40a923d5539f
+BC_2013-11-11_D110.flac:58160a963d86c757d824ce448a237292
+BC_2013-11-11_D111.flac:406aed76013a7547adaac8bc2911218e
+BC_2013-11-11_D201.flac:5dd24ac2dbf704dbac1cd5df19d5d8a3
+BC_2013-11-11_D202.flac:0257dcab6c54253a4f5897660bb0f6ae
+BC_2013-11-11_D203.flac:0b090568c98347afe379d73b0ca4d0ad
+BC_2013-11-11_D204.flac:89f2f18cbd9fddd65f2dac047ed600a8
+BC_2013-11-11_D205.flac:535e3a8e5419b62b2fc2d69681fadec7

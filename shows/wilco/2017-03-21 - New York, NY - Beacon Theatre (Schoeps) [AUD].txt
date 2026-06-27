@@ -1,0 +1,569 @@
+Wilco
+Beacon Theatre
+New York City, New York
+3/21/2017
+
+Source: Schoeps CCM4V's>Lunatec V2>Benchmark AD2K>
+Sound Devices 722 (24/44)
+FOB/DFC/KFC/ZFC/AARP Center Section, Row M, Seat 107 5' High
+DSP: Sound Devices 722>Sound Forge 10.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Disc I 
+
+
+01 On And On And On
+02 Normal American Kids
+03 If I Ever Was A Child
+04 Cry All Day 
+05 I Am Trying To Break Your Heart >
+06 The Art Of Almost
+07 She's A Jar
+08 Misunderstood
+09 Someone To Lose
+10 Reservations
+11 Impossible Germany
+12 Jesus Etc.
+
+Disc II 
+
+01 We Aren't The World (Safety Girl)
+02 Not For The Season
+03 Via Chicago
+04 Locator
+05 Jeff Banter
+06 Heavy Metal Drummer >
+07 I'm The Man Who Loves You
+08 Hummingbird 
+09 Thanks Val For Painting
+10 The Late Greats
+Encore I:
+11 I'm Always In Love Part I
+12 I'm Always In Love Part II
+13 Random Name Generator
+14 Box Full Of Letters
+15 Monday >
+16 Outtasite (Outta Mind)
+Encore II:
+17 Thanks
+18 California Stars >
+19 When The Roses Bloom Again
+
+wilco2017-03-21d01t01.flac:aba7a62b381ac9dd0e655c0f6e8df695
+wilco2017-03-21d01t02.flac:9673eb3db3f34f96c669784ed10fff79
+wilco2017-03-21d01t03.flac:1956d38e925bd692d6b71dedeeda5d52
+wilco2017-03-21d01t04.flac:74fe9a5c2b602a531356ac50a3901fa8
+wilco2017-03-21d01t05.flac:a8cc652c6ab3ed6be62e03258242b564
+wilco2017-03-21d01t06.flac:394f88e8fa73428c1521ad6537b387da
+wilco2017-03-21d01t07.flac:d4fbd3897927a772049b51654af8b3e6
+wilco2017-03-21d01t08.flac:e3c904acd5bac297ea099ff9bcbcc8de
+wilco2017-03-21d01t09.flac:8f0c5931872a0622154f86b33d2bae5d
+wilco2017-03-21d01t10.flac:2c30cb01c26d4beb3a0d11e1201ac29b
+wilco2017-03-21d01t11.flac:42b833e0c7de230291ed49a8cdac353c
+wilco2017-03-21d01t12.flac:af2299cf12ae5cabc50ebc73f0ad4bb1
+wilco2017-03-21d02t01.flac:d5a7a7a4de43049334e1c1866a6944ad
+wilco2017-03-21d02t02.flac:a5e740000208fb1fd4e809d92eec0ad9
+wilco2017-03-21d02t03.flac:ce187c68d1e8276adc4c12e21f7ec5f9
+wilco2017-03-21d02t04.flac:3ee12ea55524109793cba8f8fd392212
+wilco2017-03-21d02t05.flac:e5f96667e2455329523a75f715dc2378
+wilco2017-03-21d02t06.flac:119ca41d8c57ef22aa38db4f7ac5babb
+wilco2017-03-21d02t07.flac:a52f5e58f3b9e2824aa59d9eb10ddb62
+wilco2017-03-21d02t08.flac:7b809b35fc67373d50b0f53bfb162bf2
+wilco2017-03-21d02t09.flac:7eeca35ba10c96e9cd54b9c9337217ef
+wilco2017-03-21d02t10.flac:1f7cf299bf3473d55ede4dea473782fb
+wilco2017-03-21d02t11.flac:da563d39f5cd96d8c9e38f0be31181e1
+wilco2017-03-21d02t12.flac:d8a5c50f7a5cb4f4bddbdf2e2faa5530
+wilco2017-03-21d02t13.flac:6d0e6485866833bea5a22f63dd2754e2
+wilco2017-03-21d02t14.flac:a3591f89f292aa4e5334c425d6adf193
+wilco2017-03-21d02t15.flac:80a2381b08e28650e567e8479cfbc992
+wilco2017-03-21d02t16.flac:9a2621f0d4d46ce52425229bd2dd4adb
+wilco2017-03-21d02t17.flac:b2d24efb927b0aaa8522150d2b186cdd
+wilco2017-03-21d02t18.flac:e2812a2fdffb0590921ce9b63d17dfbb
+wilco2017-03-21d02t19.flac:f63b5638bd3a1d1edbfadd16dce11e56
+
+  length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:21.24       46096892 B   ---   --   ---xx   flac  0.4467  wilco2017-03-21d01t01.flac
+     2:56.39       31138172 B   ---   --   ---xx   flac  0.3499  wilco2017-03-21d01t02.flac
+     3:15.20       34445084 B   ---   --   ---xx   flac  0.4506  wilco2017-03-21d01t03.flac
+     4:37.20       48909884 B   ---   --   ---xx   flac  0.4761  wilco2017-03-21d01t04.flac
+     5:22.13       56831420 B   ---   --   ---xx   flac  0.5023  wilco2017-03-21d01t05.flac
+     7:37.55       80744204 B   ---   --   ---xx   flac  0.5154  wilco2017-03-21d01t06.flac
+     5:18.57       56229308 B   ---   --   ---xx   flac  0.4462  wilco2017-03-21d01t07.flac
+     4:30.54       47755052 B   ---   --   ---xx   flac  0.4175  wilco2017-03-21d01t08.flac
+     3:36.46       38210636 B   ---   --   ---xx   flac  0.4734  wilco2017-03-21d01t09.flac
+     3:57.11       41832716 B   ---   --   ---xx   flac  0.3647  wilco2017-03-21d01t10.flac
+    10:12.46      108065036 B   ---   --   ---xx   flac  0.4851  wilco2017-03-21d01t11.flac
+     4:09.42       44022428 B   ---   --   ---xx   flac  0.4428  wilco2017-03-21d01t12.flac
+     3:29.07       36884108 B   ---   --   ---xx   flac  0.4881  wilco2017-03-21d02t01.flac
+     5:26.19       57551132 B   ---   --   ---xx   flac  0.5090  wilco2017-03-21d02t02.flac
+     5:45.08       60876860 B   ---   --   ---xx   flac  0.4721  wilco2017-03-21d02t03.flac
+     3:22.00       35632844 B   ---   --   ---xx   flac  0.5522  wilco2017-03-21d02t04.flac
+     2:06.35       22308764 B   ---   --   ---xx   flac  0.3707  wilco2017-03-21d02t05.flac
+     4:00.15       42371324 B   ---   --   ---xx   flac  0.5493  wilco2017-03-21d02t06.flac
+     3:30.26       37105196 B   ---   --   ---xx   flac  0.5758  wilco2017-03-21d02t07.flac
+     3:23.26       35870396 B   ---   --   ---xx   flac  0.4820  wilco2017-03-21d02t08.flac
+     1:48.32       19126508 B   ---   --   ---xx   flac  0.4249  wilco2017-03-21d02t09.flac
+     2:52.06       30354956 B   ---   --   ---xx   flac  0.5354  wilco2017-03-21d02t10.flac
+     2:57.16       31260476 B   ---   --   ---xx   flac  0.5664  wilco2017-03-21d02t11.flac
+     2:46.18       29324780 B   ---   --   ---xx   flac  0.5173  wilco2017-03-21d02t12.flac
+     4:58.48       52680140 B   ---   --   ---xx   flac  0.5203  wilco2017-03-21d02t13.flac
+     3:08.03       33170300 B   ---   --   ---xx   flac  0.5704  wilco2017-03-21d02t14.flac
+     4:19.36       45772316 B   ---   --   ---xx   flac  0.5958  wilco2017-03-21d02t15.flac
+     2:39.24       28104092 B   ---   --   ---xx   flac  0.5918  wilco2017-03-21d02t16.flac
+     2:32.16       26850476 B   ---   --   ---xx   flac  0.4639  wilco2017-03-21d02t17.flac
+     4:28.13       47305820 B   ---   --   ---xx   flac  0.5132  wilco2017-03-21d02t18.flac
+     3:35.47       38036588 B   ---   --   ---xx   flac  0.4821  wilco2017-03-21d02t19.flac
+   127:03.72     1344867908 B                            0.4902  (31 files)
+
+Dennis Lichtman - Mandolin, Fiddle, Clarinet, And Vocals
+Skip Krevens - Guitar And Vocals
+Raphael McGregor Lap Steel Guitar And Vocals 
+Andrew Hall - Bass 
+Kevin Dorn - Drums 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

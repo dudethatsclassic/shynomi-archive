@@ -1,0 +1,93 @@
+John Meyer - 2025 01 30 @ Kia Forum, Los Angeles CA
+
+Note:
+Solo Acoustic. Introduced by Pink. FireAid concert. Support families who lost everything, donate: https://fireaidla.org/
+
+Neon
+Gravity
+Free Fallin' [Tom Petty]
+
+Source: Webstream > yt-dlp > LosslessCut > MP4
+
+Line-up:
+Intuit Dome, Inglewood, CA, USA
+Rod Stewart
+Earth, Wind & Fire
+Gracie Abrams
+Tate McRae
+Jelly Roll
+Katy Perry
+Lil Baby
+Olivia Rodrigo
+Sting
+Peso Pluma
+Billie Eilish
+Stevie Wonder
+Lady Gaga
+
+Kia Forum, Inglewood, CA, USA
+Green Day
+Alanis Morissette
+Anderson .Paak
+Joni Mitchell
+Dawes
+Stephen Stills & Graham Nash
+P!nk
+John Mayer
+The Black Crowes
+John Fogerty
+No Doubt
+Stevie Nicks
+Nirvana
+Red Hot Chili Peppers
+
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom (isom/iso2/mp41)
+File size                                : 158 MiB
+Duration                                 : 17 min 38 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 254 kb/s
+Frame rate                               : 29.970 FPS
+Writing application                      : Lavf60.3.100
+
+Video
+ID                                       : 1
+Format                                   : VP9
+Codec ID                                 : vp09
+Duration                                 : 17 min 38 s
+Bit rate                                 : 1 115 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 29.970 FPS
+Minimum frame rate                       : 29.412 FPS
+Maximum frame rate                       : 30.303 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bits/(Pixel*Frame)                       : 0.018
+Stream size                              : 141 MiB (89%)
+Language                                 : English
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : Opus
+Codec ID                                 : Opus
+Duration                                 : 17 min 38 s
+Source duration                          : 17 min 38 s
+Bit rate mode                            : Variable
+Bit rate                                 : 131 kb/s
+Sampling rate                            : 48.0 kHz
+Compression mode                         : Lossy
+Stream size                              : 16.5 MiB (10%)
+Source stream size                       : 16.5 MiB (10%)
+Language                                 : English
+Default                                  : Yes
+Alternate group                          : 1
+
+

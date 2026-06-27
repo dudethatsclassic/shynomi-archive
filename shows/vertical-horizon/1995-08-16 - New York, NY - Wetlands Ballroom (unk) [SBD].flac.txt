@@ -1,0 +1,51 @@
+Vertical Horizon
+Wetlands Ballroom
+New York, NY
+8.16.95
+
+Taper:	Unknown
+Source:	DSBD -> DAT
+
+DAT > CD Conversion:	Avi Sareen (Supernash@vt.edu)
+
+Equipment: Tascam DA-30 mkII > Monster Coax > Sek'd Prodif Plus >
+	   Samplitude v5.5 (48>44.1) > Cool Edit Pro > MKW Audio Compression Tool
+
+** No DAE - DAT > .WAV > .SHN
+
+*******************************************************
+***    DO NOT ENCODE THIS SHOW INTO MP3 FORMAT!!    ***
+*******************************************************
+
+Disc One
+Track 	|	Name				|	Time (MM:SS)
+---------------------------------------------------------------------
+d1t01	Intro						00:18.655
+d1t02	Candyman					04:18.916
+d1t03	Mountain Song					03:41.758
+d1t04	Famous						03:21.785
+d1t05	Footprints In The Snow				06:07.722
+d1t06	Fragments					05:03.237
+d1t07	Japan						05:59.222
+d1t08	Liberty	*					04:06.066
+d1t09	Lines Upon Your Face				06:08.155
+d1t10	Heart In Hand					06:57.173
+
+Disc Two
+Track 	|	Name				|	Time (MM:SS)
+---------------------------------------------------------------------
+d2t01	Life In The City				06:19.718
+d2t02	Trying To Find Purpose				04:34.659
+d2t03	Call It Even					05:06.366
+d2t04	Love's Light *					04:32.495
+d2t05	On The Sea					09:10.372
+d2t06	The Man Who Would Be Santa			05:21.389
+d2t07	Wash Away					10:27.348
+d2t08	Falling Down					05:09.865
+
+Notes:
+* Keith solo
+- Darren Cambell on Drums
+- Ryan Fisher on Bass Guitar
+
+Compiled by:  Avi Sareen on 4/23/01

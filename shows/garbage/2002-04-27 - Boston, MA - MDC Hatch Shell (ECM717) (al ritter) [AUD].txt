@@ -1,0 +1,24 @@
+GARBAGE
+April 27, 2002
+MDC Hatch Shell
+Boston, MA
+
+Source: Sony ECM-717 > Sony TCD-D8
+Taper: Al Ritter
+Location: front of stack
+Lineage: DAT(M) > WAV [44.1] > FLAC
+Transfer: Sony TCD-D8 > Sound Devices 744T > ffmpeg > Sound Forge > CD Wave
+Edits/EQ: fixed phase inversion
+Notes: WBOS 92.9 EarthFest
+
+01 - intro
+02 - Push It
+03 - Androgny
+04 - Special
+05 - Breaking up the Girl
+06 - Stupid Girl
+07 - Cherry Lips (Go Baby Go!)
+08 - Only Happy When It Rains
+
+
+Compiled February 2021 by CPS

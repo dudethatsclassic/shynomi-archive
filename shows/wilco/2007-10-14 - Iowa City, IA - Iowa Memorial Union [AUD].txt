@@ -1,0 +1,67 @@
+wilco
+2007-10-14
+Iowa Memorial Union
+Iowa City, IA
+
+Source: Church-Audio STC-11 cards > Church-Audio STC-9100 preamp > MT2496 (16 bit 48 khz)
+Transfer: MT2496>PC>Adobe Audition 2.0 (resample, amplify right channel)>CD Wave Editor>Wav>Flac Frontend>Flac
+Taped/Transferred by: Ralph Bryant (rbryant at gmail dot com)
+
+Set:
+Disc One:
+01. Bob Newhart Introduction
+02. Shake It Off
+03. A Shot In The Arm
+04. Side With The Seeds
+05. You Are My Face
+06. I Am Trying To Break Your Heart
+07. War on War
+08. Company In My Back
+09. Handshake Drugs
+10. Impossible Germany
+11. It's Just That Simple
+12. Jesus, Etc.
+13. Too Far Apart
+14. Walken
+15. I'm The Man Who Loves You
+
+Disc Two:
+01. Poor Places
+02. Spiders (Kidsmoke)
+Encore One:
+03. What Light
+04. Hate It Here
+05. Hummingbird
+06. Heavy Metal Drummer
+Encore Two:
+07. The Late Greats
+08. I'm A Wheel
+09. Outtamind Outtasite
+
+FFP:
+wilco2007-10-14d01t01.flac:3334a6ad260929f38908d57cf5d55706
+wilco2007-10-14d01t02.flac:974406395a68ea28d4f9221c3d6098d9
+wilco2007-10-14d01t03.flac:34fddeba58c0b732a23cc2977f870755
+wilco2007-10-14d01t04.flac:a1d046a7c9b05b162e24f9fefe99b0d6
+wilco2007-10-14d01t05.flac:c00b92b585802bd13e49e2024d088ee1
+wilco2007-10-14d01t06.flac:2fa6eb44b3f2fe91d7d86f14ec05eedd
+wilco2007-10-14d01t07.flac:cdbec8b1a31e088ec3fd17340c453e34
+wilco2007-10-14d01t08.flac:00b54bf970fe2ddc138c62720263ad9f
+wilco2007-10-14d01t09.flac:62ace528de7a3a750f68d4939ae0df97
+wilco2007-10-14d01t10.flac:9bea23fa2de5ff9cee9055933259a31b
+wilco2007-10-14d01t11.flac:784f44615de9aab918179366f5269a04
+wilco2007-10-14d01t12.flac:c6170fa8c8e7cc032b9d5657308e6521
+wilco2007-10-14d01t13.flac:2ca77a2302532b825d181c6a8c62fcf8
+wilco2007-10-14d01t14.flac:e50575d1e9a01eafc639958366ee699f
+wilco2007-10-14d01t15.flac:b90366579d3cfdbcba9ea91addc08bd2
+wilco2007-10-14d02t01.flac:0653f04e8c4a36b297110e3c0f0473d3
+wilco2007-10-14d02t02.flac:9a41af7becba0e1a419e768cdf2c628c
+wilco2007-10-14d02t03.flac:f0dfe553c5b22fd39cf1970cef77d81b
+wilco2007-10-14d02t04.flac:0c0f165df51076f6903cd150a587f071
+wilco2007-10-14d02t05.flac:f9c73d91ba633a4781a9aac50ad93a17
+wilco2007-10-14d02t06.flac:5305aed816b78d4c4f5aac462c9fd46a
+wilco2007-10-14d02t07.flac:1016b9df4361add9f129d80dd8ab2859
+wilco2007-10-14d02t08.flac:c189a62b6ee89d25a964dae10fb3b458
+wilco2007-10-14d02t09.flac:ec3836cb3aa5720f643c1c071acc4ae6
+
+

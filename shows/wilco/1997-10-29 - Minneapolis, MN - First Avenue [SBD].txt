@@ -1,0 +1,58 @@
+Wilco
+October 29, 1997
+First Avenue - Minneapolis, MN  
+
+Source:		SBD
+Lineage:	CD-R (unknown generation)->EAC(V0.95)->WAV->FLAC Frontend,level 8(1.7.1)->FLAC
+
+Disc 1
+Misunderstood
+True Love Will Find You in the End
+Forget the Flowers
+That’s Not the Issue
+Someday Soon
+She’s a Jar
+New Madrid
+I Got You
+Someone Else’s Song
+I Must Be High
+Passenger Side punk
+Hotel Arizona
+Monday
+Kingpin
+Outtasite 
+ 
+Disc 2 
+Led Zepplin tease -> Casino Queen
+We’ve Been Had
+Box Full of Letters
+Gun
+Acuff Rose
+Dreamer in My Dreams 
+
+Ripped and encoded by scottjh
+
+Notes:  Most notable for the live introduction of "She's a Jar".  Also the last time "Dreamer in My Dreams" was the show closer.
+ 
+Fingerprints:
+wilco1997-10-29d1Track01.flac:d09f081c66a8d3af09bf5be5b82a2440
+wilco1997-10-29d1Track02.flac:da6c49fd802b8d406cf4bccaf02aacfc
+wilco1997-10-29d1Track03.flac:a151c4e2618e51534c6576f33fdf6426
+wilco1997-10-29d1Track04.flac:92c3f6ddad5c04c3a98d6cf674eb3c0e
+wilco1997-10-29d1Track05.flac:ef61d827ddb1601ea6c8e9fa126a59e1
+wilco1997-10-29d1Track06.flac:ce7f6197886b0af205c3913f03b4e2e8
+wilco1997-10-29d1Track07.flac:1473322ba1c1289fabc583ea15b80549
+wilco1997-10-29d1Track08.flac:7813154ffbe06b99cae46c0be2e2d559
+wilco1997-10-29d1Track09.flac:dc036b106b51bee20f0b540a299dc5c0
+wilco1997-10-29d1Track10.flac:c612546c41b6c9c688e2e3492b3a6daa
+wilco1997-10-29d1Track11.flac:c39e78f12191e8c9e6bb765a4dabf508
+wilco1997-10-29d1Track12.flac:9ccd9be29afc43b7bc31fa6ae8bf12db
+wilco1997-10-29d1Track13.flac:07afce3ff56a57eea5cffc4ff4cf62a9
+wilco1997-10-29d1Track14.flac:254e63acbdd854b330f53514b5d77999
+wilco1997-10-29d1Track15.flac:129a91e2873fb7c76be17da7c7fbdfe8
+wilco1997-10-29d2Track01.flac:331f6c3a43f4772fa9a1af24f50e7c7b
+wilco1997-10-29d2Track02.flac:a79d7970d68f2e16ae7e628b0a11334a
+wilco1997-10-29d2Track03.flac:2098ee2ea91102c698a9e70758bbe31e
+wilco1997-10-29d2Track04.flac:605e63b95a5eeb033558cc7c4facf32a
+wilco1997-10-29d2Track05.flac:f18f7914a677276423de8c1efed89c12
+wilco1997-10-29d2Track06.flac:1cef6ff80bf831a83f952d7894c23cec

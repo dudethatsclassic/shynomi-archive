@@ -1,0 +1,53 @@
+Wilco
+
+Sentrum Scene
+Oslo, Norway
+May 24th 2010
+
+
+Source: 
+Schoeps MK41 > Nbox+ > Edirol R-09 (24bit/48kHz) 
+FOB, dead centre 
+Transfer: 
+USB > Adode Audition: Fade i/o, level adjustments, 16bit/44.1kHz conversion(dithering w/ Ozone Mbit+) > CDWave (tracking) > Flac(8) 
+
+
+Tracklist:
+
+01. Intro
+02. Ashes Of American Flags
+03. Bull Black Nova
+04. Muzzle Of Bees
+05. You Are My Face
+06. I'll Fight
+07. Company In My Back
+08. One Wing
+09. A Shot In The Arm
+10. At Least That's What You Said
+11. Deeper Down
+12. One By One
+13. Handshake Drugs
+14. Impossible Germany
+15. Via Chicago
+16. Someday, Some Morning, Sometime
+17. Not For The Season
+18. You and I (guest vocal by an audience member)
+19. War On War
+20. Jesus Etc. (first 2/3 sung by the audience)
+21. Sonny Feeling
+22. Hate It Here
+23. Walken
+24. I'm The Man Who Loves You
+25. Hummingbird
+26. encore break
+27. The Late Greats
+28. Heavy Metal Drummer
+29. Monday
+30. Hoodoo Voodoo
+31. I'm A Wheel
+
+Total time: 2:20:50
+
+Suggested track splits for CD burning:
+CD1: Tracks 01-15
+CD2: Tracks 16-31

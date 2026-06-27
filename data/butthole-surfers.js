@@ -20,9 +20,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB's",
-      "notes": "Aiwa CM30 · tapegeek",
+      "notes": "Aiwa CM30 \u00b7 tapegeek",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1985-06-08 - New York, NY - CBGB's (Aiwa CM30) (tapegeek) [AUD].txt"
     },
     {
       "year": 1985,
@@ -35,7 +36,8 @@ const ARTIST_DATA = {
       "venue": "Pandoras Music Box",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1985-10-12 - Rotterdam, The Netherlands - Pandoras Music Box [FM].txt"
     },
     {
       "year": 1986,
@@ -48,7 +50,8 @@ const ARTIST_DATA = {
       "venue": "CBGB'S",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1986-02-12 - New York, NY - CBGB'S (unk) [AUD].txt"
     },
     {
       "year": 1986,
@@ -58,10 +61,11 @@ const ARTIST_DATA = {
       "city": "Hilversum",
       "state": "Netherlands",
       "location": "Hilversum, Netherlands",
-      "venue": "ëBacklineí",
-      "notes": "VPRO-FM · notsaved",
+      "venue": "e\u0308Backlinei\u0301",
+      "notes": "VPRO-FM \u00b7 notsaved",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1986-04-30 - Hilversum, Netherlands - e\u0308Backlinei\u0301 - VPRO-FM (notsaved) [FM].txt"
     },
     {
       "year": 1996,
@@ -72,9 +76,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Unknown City",
       "venue": "Unknown Venue",
-      "notes": "*Tejass · Stryder LTD 026",
+      "notes": "*Tejass \u00b7 Stryder LTD 026",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-10 - Unknown City, Unknown Venue - Tejass - Live in Pepperland (Stryder LTD 026) [Silver].txt"
     }
   ],
   "misc": []

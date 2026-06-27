@@ -1,0 +1,43 @@
+Sigur Ros
+Auditorium Theatre, Chicago
+September 30, 2013
+
+
+Set - 1:36:53
+-----------------------
+01. Yfirborð
+02. Brennisteinn
+03. Vaka
+04. Glósóli
+05. Hrafntinna
+06. Stormur
+07. Sæglópur
+08. Varúð
+09. Hoppípolla
+10. Með Blóðnasir
+11. Rafstraumur
+12. Kveikur
+13. Festival
+14. Popplagið
+
+ 
+
+SAMPLE TYPE
+-----------
+24 bit 96 kHz
+
+SOURCE
+------
+Core Sound HEB 4060 (Base Rolloff On) > Sony PCM-M10 (Mic In)
+
+LOCATION
+--------
+Row L Center Section
+
+NOTES
+-----
+Taper: 			JB
+e-mail:			radioheadusa@comcast.net
+Web:			http://home.comcast.net/~radioheadusa/
+date of seeding:	October 1, 2013
+Other Version:		16 bit 44.1 kHZ is available on Dimeadozen

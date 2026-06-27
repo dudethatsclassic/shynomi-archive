@@ -1,0 +1,67 @@
+Ash
+August 26, 2002
+Astoria Theatre
+London, England
+
+SETLIST (41:50)
+---------------
+01) Girl From Mars
+02) Envy
+03) Projects
+04) Shining Light
+05) Cherry Bomb
+06) Oh Yeah
+07) Teenage Kicks
+08) Petrol
+09) A Life Less Ordinary
+10) Kung Fu
+11) Burn Baby Burn
+
+GENERATION
+---------------
+DAT(M) -> FLAC
+
+SOURCE (AUD #1)
+---------------
+Marantz EM-8 -> D8 -> DAT(M)
+
+TRANSFER
+---------------
+DAT(M) -> Tascam DA-20 mkII -> M-Audio Audiophile 24/48 -> CEP 2.1 (capture/amplify/fade) -> CD Wave 1.95.1 -> FLAC(8)
+
+NOTES
+-----
+Missing at least the first 2-3 songs, Girl From Mars cuts in.  Supporting Foo Fighters at their "secret" post-Reading Festival show.
+
+FLAC FINGERPRINTS
+-----------------
+ash-2002-08-26-aud1-t01.flac:0291172e81a9efbfc05e6d2e13ddf425
+ash-2002-08-26-aud1-t02.flac:cdbdf3667a30cc81360f3c73a8dab33e
+ash-2002-08-26-aud1-t03.flac:8585ca6e58ce83c209e76ee172626b4a
+ash-2002-08-26-aud1-t04.flac:86469cf4acf595971d67c9abf06033b2
+ash-2002-08-26-aud1-t05.flac:a45be733e39ab8e4c8e0da89c744fa49
+ash-2002-08-26-aud1-t06.flac:a577beae6412c9389c7033c9ab2318cc
+ash-2002-08-26-aud1-t07.flac:eb2e3a69e54ece9efbdb2f1aa2b23d0f
+ash-2002-08-26-aud1-t08.flac:ec3311f25b4881a010039b905a8bbcc0
+ash-2002-08-26-aud1-t09.flac:d50aedf54dccfbf9c202463b5c420999
+ash-2002-08-26-aud1-t10.flac:6006fb008344aacbc4ea9c09341e2ee0
+ash-2002-08-26-aud1-t11.flac:2fbd6e4db9d5afa3ecfa2023fcdaa7ff
+
+MD5 CHECKSUMS
+---------------
+f3d12ae60b1ae445c5c1396e07c8b79b *ash-2002-08-26-aud1-t01.flac
+de5456ce950bb408ffc6049d99f1baba *ash-2002-08-26-aud1-t02.flac
+c603a5c7ffbaf6c433f8bd4d2f372f67 *ash-2002-08-26-aud1-t03.flac
+429b506056b9c84adfbcb520a36f0cc6 *ash-2002-08-26-aud1-t04.flac
+cad736e122880d21e141163830aa5ac5 *ash-2002-08-26-aud1-t05.flac
+82679b5dd3beff65898f383e54c8e92f *ash-2002-08-26-aud1-t06.flac
+084ce80e337a0c62329127e0bb9c9e75 *ash-2002-08-26-aud1-t07.flac
+f1542c16549983f13f9d2858153546f2 *ash-2002-08-26-aud1-t08.flac
+f0203fa34fc207dfcc88e69b831c7aee *ash-2002-08-26-aud1-t09.flac
+24c9d35b08e4fecf3fca6cfea9b7246e *ash-2002-08-26-aud1-t10.flac
+2f274469949f02b19c64f9e70cd1a2bd *ash-2002-08-26-aud1-t11.flac
+
+
+Transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL OR RE-ENCODE TO LOSSY FORMATS!

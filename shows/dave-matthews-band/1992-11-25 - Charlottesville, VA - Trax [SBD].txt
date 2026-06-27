@@ -1,0 +1,105 @@
+Dave Matthews Band
+Trax
+Charlottesville, VA
+November 25, 1992
+
+Taper:      	Unknown
+Source Info:    SBD -> Analog (unknown generation) -> CD
+
+Conversion: Adam Nelson (nelso222@msu.edu)
+
+CD > flac:  EAC (secure mode, all tracks 100%) -> WAV -> flac frontend (level 6)
+Tracks split using CD Wave v1.93.3
+
+
+                          ********************
+                          PRESERVE THE QUALITY
+                          DO NOT ENCODE TO MP3
+                          ********************
+
+
+Track   |       Name           		 |   Time (m:s)
+------------------------------------------------------------------
+Set I:
+d1t01		Lover Lay Down			06:55
+d1t02		Spotlight			05:54
+d1t03		The Maker			06:18
+d1t04		Angel From Montgomery		05:34
+d1t05		Help Myself	`		06:51
+d1t06		Dancing Nancies			06:48
+d1t07		People People #			03:00
+d1t08		Tripping Billies		04:09
+d1t09		Jimi Thing &			12:10
+
+Set II:
+d2t01		Intro				01:03
+d2t02		Halloween			05:11
+d2t03		Pay For What You Get *		05:47
+d2t04		Lie In Our Graves		05:25
+d2t05		So Much To Say			05:13
+d2t06		True Reflections		06:22
+
+
+NOTES:
+----------
+* = Dave & Carter only
+
+There is a LOT of tape hiss on this one and some analog warble at the begining 
+of LLD and Jimi Thing.
+
+Dave mentions the upcoming NYE show in at the Omni Hotel in Richmond.
+
+Before SMTS Peter dedicates the song to a friend in the crowd. Yes, Peter 
+actually speaks. That's even more rare than hearing Tim Reynolds speak at a D&T 
+show.
+
+People People is cut off.
+
+The very end of Billies is missing. OSW is completely missing. 
+
+
+
+These rare older shows have been collected and converted through a collaborative 
+effort to get them into circulation. Sometimes these shows do not have the best 
+sound quality (and maybe that's why they aren't circulated much to begin with), 
+but people should have access to them. 
+
+
+Thanks to Dan Pyrik for the CD source used for the conversion. 
+
+
+
+
+Compiled By Adam Nelson on November 8, 2006
+
+
+UPDATE:  Received the wav files from Adam to review. First off, Lover Lay Down starts abruptly and may or may not be the opening track. Dmbalmanac.com lists Spotlight as the opener, however it cannot be determined if either track is the opener nor can True Reflections be deemed the closer.  Using Soundforge, I normalized the right channel on all tracks of disc 1 to -8db due to clipping,did the same with the left channel only on disc 2. Applied 10 band Graphic EQ to 0db on all tracks to as well to enhance this source a bit. Using the Paragraphic EQ,cut the hiss on all tracks above 8kHz by 6db. The hiss is reduced but the tone had to be preserved so I couldn't do a radical hiss removal. It is clear that this came from multi-generation cassette recording as the hiss and tape warbling is heard throughout the show. Retracked all wav files and created new flac files and fingerprints via Flac Frontend.
+
+
+ # Feedback spike can be heard on both channels at the 1:55 mark of    People People. Fade out applied at 2:57 mark as the track is cut off    at 3:00.
+
+ & Jimi Thing still has a lot of clipping despite the normalization       applied
+
+
+
+Updated by Tom Gambichler on October 11, 2008
+
+
+
+
+
+dmb1992-11-25d1t01.flac:51eaac0409124ef5c1af91d5ef3b51cf
+dmb1992-11-25d1t02.flac:9d75344a2cfd3ed2a7c4e9308b122cf7
+dmb1992-11-25d1t03.flac:ca89150308670bd32a9b8cd28eb9800f
+dmb1992-11-25d1t04.flac:2cde1fbf62ce1cfa74cff651f625b394
+dmb1992-11-25d1t05.flac:52df09609b380da259c93c10c006ccae
+dmb1992-11-25d1t06.flac:31abb905d4d74a15d036add1e9b4e56c
+dmb1992-11-25d1t07.flac:e32ceab9a3d80847ebd5dbadd74cd986
+dmb1992-11-25d1t08.flac:86cc8fc26cbaa26338c91decfd8fd711
+dmb1992-11-25d1t09.flac:5e934c43e84d4acaf556fc12a66d1418
+dmb1992-11-25d2t01.flac:22f9c8364c206ff3b13c8e7e582e990d
+dmb1992-11-25d2t02.flac:79d1cd0f43f6077e3dadbfa060ae016c
+dmb1992-11-25d2t03.flac:e2e121e94bb8abef3f16a8b61b0b0199
+dmb1992-11-25d2t04.flac:166c85c7414a18d4df7c6b4f4cd55366
+dmb1992-11-25d2t05.flac:64790a701b69c522c259e910e7742744
+dmb1992-11-25d2t06.flac:ef1118cc9ddd6da3a0596684e781948d

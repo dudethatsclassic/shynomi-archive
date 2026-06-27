@@ -1,0 +1,54 @@
+John Mayer
+15 April 2017
+Xcel Energy Center
+Saint Paul, Minnesota
+
+Recorded by: Christopher Jones <jones.chris@gmail.com>
+Source: DPA 4023 Compact Cardioid > Rupert Neve Designs Portico 5012-H Microphone Preamplifier (“Silk” circuit engaged) > Mogami XLR Interconnect > Sound Devices 744T Hard Disk Recorder (@ 24-bit / 96 kHz)
+Location: Behind FOH, DFC.  Microphones elevated 4.5 meters A-B, as part of a modified Corey-Martin surround array
+HD > .flac: Sound Devices 744T Hard Disk Recorder > Apple Macbook Pro (2.53 GHz Intel Core 2 Duo / 4GB 1067 MHz DDR3) > Audiofile Engineering Wave Editor v1.5.8 > xACT v2.39
+
+Resampled with iZotope Resampler at highest quality setting and a filter steepness of "150"; dithered using iZotope MBIT+ with a "Normal" amount of "Ultra" noise shaping applied.  24-bit / 96 kHz stereo and 4.1-channel surround versions of this recording available in .flac24.
+
+t01 Introduction  						01:29.24
+t02 Intro To...  						00:53.49
+t03 Belief 							05:03.05
+t04 Moving On And Getting Over  				06:29.33
+t05 I Don’t Trust Myself (With Loving You)  			07:18.11
+t06 Who Says  							03:43.04
+t07 Changing  							08:28.47
+t08 Covered In Rain (Still Feel Like Your Man)   		03:14.41
+t09 In Your Atmosphere  					04:49.11
+t10 (Quiet)  							00:31.74
+t11 Free Fallin’ +  						04:55.17
+t12 Neon  							05:27.71
+t13 Intro To...  						02:47.03
+t14 Jam In E 							04:23.05
+t15 Intro To...  						01:22.59
+t16 Vultures  							05:19.27
+t17 Crossroads #  						07:46.28
+t18 Waiting On The Day 						07:25.45
+t19 Rosie  							05:41.28
+t20 Something Like Olivia  					04:05.15
+t21 Why Georgia  						05:04.64
+t22 “Thank You Guys..."  					01:50.59
+t23 Intro To...  						01:24.20
+t24 Waiting On The World To Change  				05:25.08
+---
+t25 Slow Dancing In A Burning Room  				07:47.28
+t26 Intro To...  						00:46.09
+t27 Still Feel Like Your Man  					07:21.06
+t28 Intro To...  						00:18.09
+t29 You’re Gonna Live Forever In Me  				05:35.13
+
+								126:47.63
+
+()  Indicates a tease or partial song if not part of a song with a parenthetical subtitle
++   Tom Petty cover
+#   Robert Johnson cover
+
+Notes:
+
+Thanks to Scott Brown for the 4023s.
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 30 April 2017.

@@ -1,0 +1,82 @@
+Lori McKenna
+Club Passim
+Cambridge, MA
+December 21, 2024 - Early (5 PM) show
+
+** 24 BIT **
+
+Source:  Schoeps MK4V radial cardioids (in a Kangol hat) > Nbob actives > Nbox Platinum > Roland R-05 @ 24 bit/48 kHz
+Mastering:  .WAV's > iZotope RX11 Advanced v11.0.1.3871 (De-Click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > CDWav 
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.17 (tagging)
+Location:  Second table from the stage, center
+Recorded by:  Jim Kelly (musicjaime)
+Mastered by:  Dennis Orr
+
+Setlist: (1:27:20)
+01 Opening Announcement & Intro
+02 Three Kids No Husband (1)
+03 Chat & Tuning
+04 Tied To You (1)
+05 Chat & Tuning
+06 People Get Old
+07 Chat & Tuning
+08 Happy People
+09 Chat & Tuning
+10 The Luxury Of Knowing
+11 Chat & Tuning
+12 Girl Crush
+13 The Town In Your Heart
+14 Chat & Tuning
+15 Salt
+16 Chat & Tuning
+17 1988
+18 Chat & Tuning
+19 Marie
+20 Chat & Tuning
+21 The Tunnel
+22 Chat & Tuning
+23 North Pole
+24 Chat & Tuning
+25 Wonderful Christmastime
+26 Chat, Tuning, & Band Intros
+27 Humble And Kind
+28 Chat & Tuning
+29 Crowded Table
+
+(1) Lori and Mark only
+
+Lori McKenna - lead vocals & guitar
+Mark Erelli - harmony vocals & guitar
+Paul Kochanski - bass
+Jamie Edwards - keyboards
+John Sands - drums
+
+LoriMcKenna2024-12-21t01.flac:baf1581655e366cdba14d2a56927da75
+LoriMcKenna2024-12-21t02.flac:d19c40b2cdaa339e5e3353d55c2e79a9
+LoriMcKenna2024-12-21t03.flac:3a011accecaf457a63c8a45738fc586d
+LoriMcKenna2024-12-21t04.flac:9dd205e43b38c5ded66249c181f9d7a5
+LoriMcKenna2024-12-21t05.flac:6d14d3ac13c50b01b08867833c4abb0e
+LoriMcKenna2024-12-21t06.flac:c0e6847e5dde21e40ed0195ccea3e269
+LoriMcKenna2024-12-21t07.flac:a25262aa2ca89df61c4f681f8d1f7594
+LoriMcKenna2024-12-21t08.flac:05ab3c83eac820719800308955924eab
+LoriMcKenna2024-12-21t09.flac:d2b4f0885a63e38f60beaa4b04c68377
+LoriMcKenna2024-12-21t10.flac:952426e14806865e5eedc8c88bca3e1f
+LoriMcKenna2024-12-21t11.flac:df38ceb86959fd14fc5716de5ead9575
+LoriMcKenna2024-12-21t12.flac:1dd514259483734ef1c8489abba2c4cd
+LoriMcKenna2024-12-21t13.flac:b856a61d041b7db384e3228692944b4d
+LoriMcKenna2024-12-21t14.flac:6a085de80e2336e71381a0ec3eda4478
+LoriMcKenna2024-12-21t15.flac:aee68166e0a8024d37b7eaea85b145a9
+LoriMcKenna2024-12-21t16.flac:2af99fb134d7c45b130996389dac330e
+LoriMcKenna2024-12-21t17.flac:f2868f62af8b7df5c356c0551f918288
+LoriMcKenna2024-12-21t18.flac:4d2f283250fc6e4131d27240fe53b6e3
+LoriMcKenna2024-12-21t19.flac:17ae7e3a2cf2fb389b5c4123fe5c66d9
+LoriMcKenna2024-12-21t20.flac:e5b5a2309f8265484d2c293639908059
+LoriMcKenna2024-12-21t21.flac:171ff8b4be0cfba3f1884a5783cab8f7
+LoriMcKenna2024-12-21t22.flac:9b07e13c8af2f8e4df0c2bccce3274bb
+LoriMcKenna2024-12-21t23.flac:07e4984d47e1eb51d8d0e4857efd4eaa
+LoriMcKenna2024-12-21t24.flac:c03504895d44407c6eeb8d01e31b7cfa
+LoriMcKenna2024-12-21t25.flac:2483412337d0bc2d58dcca66c1a7333a
+LoriMcKenna2024-12-21t26.flac:eef30bbc529311596ebfc8940ce081c3
+LoriMcKenna2024-12-21t27.flac:c718f7dbb6ccde1c845fb6f990375aaa
+LoriMcKenna2024-12-21t28.flac:88ca145c5d5b83b573b8118d42830f06
+LoriMcKenna2024-12-21t29.flac:23ea44b10e4449e545dd77652c76177b

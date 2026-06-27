@@ -1,0 +1,60 @@
+John Mayer
+August 18, 2010
+Phoenix, AZ Cricket Pavilion
+
+Recorded by u22utoo in compliance with John Mayer's audience recording policy*.
+Gear: CA-11 (med gain, approx 95 recording level, windsocks on) > Zoom H2 > San Disc > PC > Audacity > CD Wave > TLH (encode level 6)
+
+Location: Section 102, Row L, Seat 8 (in front of stage left stacks).  
+Audacity Edits: I made some minor recording level adjustments during track #1 and between track #1 and #2. I leveled these out in Audacity by making a +1 db volume increase in two locations.
+
+Set List:
+1,  Chest Fever > Vultures 
+2.  Clarity 
+3.  Waiting on the World to Change 
+4.  I Don't Trust Myself (With Loving You) 
+5.  Why Georgia 
+6.  Ain't No Sunshine 
+7.  Perfectly Lonely 
+8.  War Of My Life 
+9.  Gravity 
+10. Heartbreak Warfare 
+11. Do You Know Me 
+12. No Such Thing 
+13. Bigger Than My Body 
+
+ENCORE
+14. Who Says
+15. Half of My Heart
+
+Recommend disc split after track #8.
+
+http://www.johnmayer.com/tour/show/584
+*John Mayer allows audio recording at most concerts. We ask that all tapers respect venue policies as 
+well as fellow concert-goers’ personal space and view of the show. Photography is allowed, but no 
+professional still cameras or video cameras are permitted without appropriate media credentials.
+JM supports the free distribution of live recordings. If you have such a recording that you would 
+like to have listed on johnmayer.com, send a message to recordings@johnmayer.com. Include your name, the concert
+date, venue/city, and an email or url that can be accessed in order to obtain a copy of the recording.
+
+DO NO BUY OR SELL. TRADE FREELY.  SUPPORT THE ARTIST BY BUYING OFFICIAL RELEASES AND GOING TO LIVE SHOWS.
+
+0ae91092da3b683ccc42ba7b613130e0 *jm20100818 CA-11 01.flac
+94c4a71c195c055ed9ef1cc61c45c45e *jm20100818 CA-11 02.flac
+7d171e5433d57f24c2b55a816f058064 *jm20100818 CA-11 03.flac
+c387ff134b66257393a7bf11a3e635bb *jm20100818 CA-11 04.flac
+148d9b369d85e9fd25cf7de0e8eaeb86 *jm20100818 CA-11 05.flac
+54eee3c06bab5af212376c0c701e0d7a *jm20100818 CA-11 06.flac
+c5377a52528261b159efcfc9e3ad72c7 *jm20100818 CA-11 07.flac
+610b92c5760bdd7879a5ca84fbbc2d5e *jm20100818 CA-11 08.flac
+37f6a86170925cec4cb6e860bc6a18b3 *jm20100818 CA-11 09.flac
+a05e31a2957933e9efb71bf26a43fb5c *jm20100818 CA-11 10.flac
+cb110f105d88c73f2161ce9dc0863155 *jm20100818 CA-11 11.flac
+ed023130755a240799044e6ffddae116 *jm20100818 CA-11 12.flac
+49b47dbc9bf1d3fa57335b0de6497cd6 *jm20100818 CA-11 13.flac
+c535b517583978c776c84807f88b1fd4 *jm20100818 CA-11 14.flac
+54811ad8a4f9d40dba1b091f3c63115a *jm20100818 CA-11 15.flac
+
+No errors occured.
+
+Create checksum file log saved to file.

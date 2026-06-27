@@ -1,0 +1,36 @@
+Dave Matthews Band
+September 28, 2021
+Riverbend Music Center
+Cincinnati, OH
+
+Taper: Mike Peters (mikepeters@petersmotorsports.com)
+Location: Front of House (mics DIN at ~6ft)
+Source: AKG CK61-ULS Caps (Active Cables) > Naiant Midbox > Sony PCM-10 (24/96 LPCM)
+Conversion: Samsung Pro 64GB SD Card > USB 3.0 > Sound Forge Pro 11 (Normalize to -0.01dB, Resample to 44,100 Hz with anti-alias filter, Convert to 16 bit [iZotope MBIT+ advanced ultra dither]) > CD Wave Editor 1.97 (Tracking) > foobar2000 (Tagging, conversion to FLAC Level 8)
+
+*** A 24-bit 96kHz version of this source is also available ***
+
+01: Introduction
+02: Seek Up
+03: When the World Ends
+04: Squirm
+05: Sweet
+06: Pig
+07: Can't Stop
+08: Satellite
+09: Dancing Nancies >
+10: Warehouse
+11: Walk Around the Moon
+12: Crush
+13: You Never Know
+14: Grace Is Gone
+15: Why I Am
+16: Funny the Way It Is
+17: You & Me
+18: Louisiana Bayou
+19: Grey Street
+20: Encore Break
+21: The Ocean and the Butterfly
+22: Don't Drink the Water
+
+Compiled by: Mike Peters 9/29/2021

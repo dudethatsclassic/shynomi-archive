@@ -1,0 +1,44 @@
+Mammoth WVH 
+2024-07-12 
+Madrid, Spain
+Estadio Metropolitano
+
+
+Master #159, 2024
+
+Le son ressemblait plus à une bouillie qu'autre chose...
+
+
+------------------------------------
+SP-CMC-2	     		    
+Roland R07(44/16) 		    
+CD WAV(split) 			    
+Trader's Little Helper(Flac 8 & md5)
+------------------------------------
+
+Setlist : 29'31
+
+01 - [4:49]	Another Celebration at the End of the World
+02 - [4:14]	You're to Blame
+03 - [4:56]	I'm Alright
+04 - [4:16]	Like a Pastime
+05 - [7:05]	Take a Bow
+06 - [4:09]	Don't Back Down
+
+md5
+---
+65c989554d8966c03ea4724964b10719 *01 - Another Celebration at the End of the World.flac
+5f5f64e5ce95ddbc9a7aaaa7efc307ce *02 - You're to Blame.flac
+8f284463d4f5fbb947d1cf1ce52067d4 *03 - I'm Alright.flac
+7388f29a34a706c68d7daac9f0f38f86 *04 - Like a Pastime.flac
+d4174dfc55872b2909b6c21d265a7ef6 *05 - Take a Bow.flac
+c4ed19b553f3fba0324ef5039ecbb771 *06 - Don't Back Down.flac
+
+ffp
+---
+01 - Another Celebration at the End of the World.flac:841d9ca7c265d7e0ddc6122781504cbe
+02 - You're to Blame.flac:0256bcb0eed32db152b817dede07c1a2
+03 - I'm Alright.flac:ce2f077a8f96fc3eebe8b751bb2a6f2d
+04 - Like a Pastime.flac:c6458217e425743051ca56b19f2db7e4
+05 - Take a Bow.flac:540f2515532dcf8c0a6051f5d812b1d2
+06 - Don't Back Down.flac:72476201e0366b2248ea27d642e895d1

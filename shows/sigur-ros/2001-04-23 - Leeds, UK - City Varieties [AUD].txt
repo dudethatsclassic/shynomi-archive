@@ -1,0 +1,46 @@
+Sigur Ros
+City Varieties
+Leeds
+
+April 23, 2001
+
+Disc 1
+intro 
+nyja lagid
+ny batteri
+syndir guds
+svefn-g-englar
+rimur 1
+rimur 3
+
+Disc 2
+samskipti
+von
+daudalagid
+olsen olsen
+hafssol
+popplagid
+
+I got the setlist from db.etree, so please make any corrections if necessary.
+
+Received in a trade, so I don't have any lineage information, although I would guess that
+it's an audience recording and it sounds very nice indeed. 
+So, audience > cdr > eac > flac.
+
+
+
+
+
+sigurros20010423d1t1.flac:5b57cc10fd5538591b647687e1074c60
+sigurros20010423d1t2.flac:35aea8410129dfcb5ae127f0b47f515a
+sigurros20010423d1t3.flac:0ca306b95762a2e9fca8f9f811513eca
+sigurros20010423d1t4.flac:a00333a654b85432253e44d96b4c6bfa
+sigurros20010423d1t5.flac:c79079593e8af107efd75346c0907e6a
+sigurros20010423d1t6.flac:3d726bd7ca08d914f7d2afaf1cd6dfe7
+sigurros20010423d1t7.flac:af8f51a513e4d7b26d3d37562d08a18b
+sigurros20010423d2t1.flac:731027f0be0eb6323a3222c104815f79
+sigurros20010423d2t2.flac:0ad46b52fc7a837f6b43350bbcec9c80
+sigurros20010423d2t3.flac:21d3e33281680988fbe2bc02f8fc9df4
+sigurros20010423d2t4.flac:b97fd60a88bedd9f162d197250e0a5d6
+sigurros20010423d2t5.flac:fb5e01614015629c34f6d53d68a7d27f
+sigurros20010423d2t6.flac:59674adc9c5f03a2021f62e1fd93280c

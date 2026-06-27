@@ -21,9 +21,10 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "E Rutherford, NJ",
       "venue": "MetLife Stadium",
-      "notes": "M · Sony ECM-717 · ukj69",
+      "notes": "M \u00b7 Sony ECM-717 \u00b7 ukj69",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-08-04 - E Rutherford, NJ - MetLife Stadium (M) (Sony ECM-717)  (ukj69) [AUD].txt"
     },
     {
       "year": 2023,
@@ -34,9 +35,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Ace of Spades",
-      "notes": "Multiple IEM, Taskca DR-2D · hoserama",
+      "notes": "Multiple IEM, Taskca DR-2D \u00b7 hoserama",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-08-26 - Sacramento, CA - Ace of Spades (Multiple IEM, Taskca DR-2D) (hoserama) [MIX].txt"
     },
     {
       "year": 2023,
@@ -47,9 +49,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The Bluestone",
-      "notes": "CA-14 · live2cd",
+      "notes": "CA-14 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-11-07 - Columbus, OH - The Bluestone (CA-14) (live2cd) [AUD].txt"
     },
     {
       "year": 2023,
@@ -60,9 +63,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Glenside, PA",
       "venue": "Keswick Theater",
-      "notes": "Schoeps MK4s · ironchef",
+      "notes": "Schoeps MK4s \u00b7 ironchef",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-11-19 - Glenside, PA - Keswick Theater (Schoeps MK4s) (ironchef) [AUD].txt"
     },
     {
       "year": 2024,
@@ -73,9 +77,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Old National Centre",
-      "notes": "Egyptian · SP-CMC-8s · ironchef",
+      "notes": "Egyptian \u00b7 SP-CMC-8s \u00b7 ironchef",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-02-27 - Indianapolis, IN - Old National Centre - Egyptian Room (SP-CMC-8s) (ironchef) [AUD].txt"
     },
     {
       "year": 2024,
@@ -86,9 +91,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-03-01 - Cincinnati, OH - Bogart's (SP-CMC-8) (live2cd) [AUD].txt"
     },
     {
       "year": 2024,
@@ -98,10 +104,11 @@ const ARTIST_DATA = {
       "city": "Paris",
       "state": "FR",
       "location": "Paris, FR",
-      "venue": "Le Zénith",
-      "notes": "CA-11c · kurddt",
+      "venue": "Le Ze\u0301nith",
+      "notes": "CA-11c \u00b7 kurddt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-04-29 - Paris, FR - Le Ze\u0301nith (CA-11c) (kurddt) [AUD].txt"
     },
     {
       "year": 2024,
@@ -112,9 +119,10 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Aura",
-      "notes": "OKMIIr · massu2",
+      "notes": "OKMIIr \u00b7 massu2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-05-05 - Portland, ME - Aura (OKMIIr) (massu2) [AUD].txt"
     },
     {
       "year": 2024,
@@ -125,9 +133,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Brooklyn Bowl",
-      "notes": "SP-CMC-8 · mr. sifter",
+      "notes": "SP-CMC-8 \u00b7 mr. sifter",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-05-16 - Nashville, TN - Brooklyn Bowl (SP-CMC-8) (mr. sifter) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -138,9 +147,10 @@ const ARTIST_DATA = {
       "state": "Finland",
       "location": "Tampere, Finland",
       "venue": "Olympia",
-      "notes": "M · CA-11 · j3saari",
+      "notes": "M \u00b7 CA-11 \u00b7 j3saari",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-06-08 - Tampere, Finland - Olympia (M) (CA-11) (j3saari) [AUD].txt"
     },
     {
       "year": 2024,
@@ -151,9 +161,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Frannz",
-      "notes": "Roland CS-110 · unk",
+      "notes": "Roland CS-110 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-06-20 - Berlin, Germany - Frannz (Roland CS-110) (unk) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -164,9 +175,10 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Madrid, Spain",
       "venue": "Estadio Metropolitano",
-      "notes": "SP-CMC_2 · unk",
+      "notes": "SP-CMC_2 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-07-12 - Madrid, Spain - Estadio Metropolitano (SP-CMC_2) (unk) [AUD].txt"
     },
     {
       "year": 2024,
@@ -177,9 +189,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Foxborough, MA",
       "venue": "Gillette Stadium",
-      "notes": "OKMIIr · massu2",
+      "notes": "OKMIIr \u00b7 massu2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-08-02 - Foxborough, MA - Gillette Stadium (OKMIIr) (massu2) [AUD] .txt"
     },
     {
       "year": 2025,
@@ -190,9 +203,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Fillmore Detroit",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-11-19 - Detroit, MI - The Fillmore Detroit (SP-CMC-8) (live2cd) [AUD].txt"
     },
     {
       "year": 2025,
@@ -203,9 +217,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Kemba LIVE",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-11-20 - Columbus, OH - Kemba LIVE (SP-CMC-8) (live2cd) [AUD].txt"
     },
     {
       "year": 2026,
@@ -218,7 +233,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2026-03-08 - Toronto, ON - Danforth Music Hall (Zoom H1n) bowlingron) [AUD].txt"
     },
     {
       "year": 2026,
@@ -229,9 +245,10 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "notes": "OKMIIr · massu2",
+      "notes": "OKMIIr \u00b7 massu2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2026-03-11 - Portland, ME - State Theatre (OKMIIr) (massu2) [AUD].txt"
     },
     {
       "year": 2026,
@@ -242,9 +259,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2026-04-01 - Cincinnati, OH - Bogart's (SP-CMC-8) (live2cd) [AUD].txt"
     }
   ],
   "misc": []

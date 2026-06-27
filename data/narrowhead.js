@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Regency",
-      "notes": "Homesick · Schoeps MK4 · loughney",
+      "notes": "Homesick \u00b7 Schoeps MK4 \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-02-02 - San Francisco, CA - The Regency - Homesick Festival (Schoeps MK4) (loughney) [AUD24].txt"
     }
   ],
   "misc": []

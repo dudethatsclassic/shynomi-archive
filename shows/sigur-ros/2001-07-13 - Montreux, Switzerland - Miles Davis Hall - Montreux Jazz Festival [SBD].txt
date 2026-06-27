@@ -1,0 +1,52 @@
+Sigur Rós
+Montreux Jazz Festival, Switzerland
+2001-07-13
+
+
+Lineage: Soundboard DAT (PIAS promo recording) > CD-R (1st gen) > EAC v0.99 prebeta 5 (Secure Mode) > FLAC > Abode Audition 3 > FLAC > you
+
+
+Setlist:
+01. Nýja Lagið
+02. Fyrsta
+03. Samskeyti
+04. Svefn-G-Englar
+05. Ný Batterí
+06. Vaka
+07. Mìlàno
+08. Olsen Olsen
+09. Dauðalagið
+10. Hafssól
+11. Popplagið
+
+
+Note: 
+I uploaded a version of this recording in 2006, but that was from a 2nd generation copy which had had some noise reduction applied to it an attempt to counter the sound imperfections (clicks which were mostly restricted to the first track). 
+However, this process degraded the sound quality significantly in other areas.
+So this new version is a rip from 1st gen cd-r's which had no NR applied to them.
+I ripped the cd-r's and sent the flac's to Jon to remaster. Jon runs the Victory Rose blog (http://victoryrosemusic.blogspot.com/), and works alot with Sigur Rós live recordings. 
+Please visit his site for an amazing amount of goodies.
+His work eliminated the clicks and enhanced the already outstanding quality of this recording.
+This is without doubt the best live recording of Sigur Rós available.
+
+So this is a significant upgrade over what was previously circulating.
+
+Here is an outline of the work Jon did on the remaster.
+Had a look and for the most part here is what I used to arrive at that particular sound for this particular concert:
+A. Removed all extraneous crackling from the entire concert (for consistency)
+B. Reduced volume a LOT on the bangs and feedback (tried a lot of different methods but in the end, so as no to adversely affect the overall sound I just reduced it as much as possible
+C. Olsen Olsen starts quietly but as I couldn't be sure if this is 'as source' I just left it alone. (you wouldn't have noticed probably!)
+1. T-racks Vintage EQ-eqp 1a - Started with 'warm suite + presence' and worked from there.
+2. T-racks Compressor [wont bore you with settings] but increased stereo enhancement by 2.3db
+3. T-racks Vintage Comp. 670 - Little bit of work on the R channel
+4. T-racks Brick wall Limiter - 'clean'
+5. Ozone Mastering Suite 4 - Harmonic exciter
+6. Hard Limiting - 1.2 db boost
+(Probably did some other bits and bobs but this is what I can easily trace)
+All the above is the end result of going through a LOT of different settings/sequences/set ups. Once I found the sound I liked I worked with the specifics. Then checked through ESI nEar 05 Monitor speakers / Shure SE530 headphones/ Sennheisser MX560 - through iPod & Creative 0404 external Soundcard to see how it would sound on different set ups
+
+
+
+
+enjoy,
+einzack (2010-02-27)

@@ -1,0 +1,34 @@
+Buffalo Tom
+
+CBGB
+New York NY
+USA
+
+22nd February 1992
+
+AUD: Sony 929 mic > Sony WM-D6 > analog master (Maxell MX-s 100)
+Transfer: analog master > BBE > hard drive > Audacity (volume adjustments) > WAV
+Recording and transfer: Scott Simpson
+
+Received as untracked wav from Scott Simpson, February 2026
+> CDWave (tracking) > TLH (flac, checksum)
+
+01 soundchecking
+02 Staples 
+03 Sunflower Suit 
+04 Mineral 
+05 Velvet Roof 
+06 Fortune Teller 
+07 Sally Brown 
+08 Enemy 
+09 Racine 
+10 Taillights Fade 
+11 Crawl 
+12 I'm Not There 
+13 Larry 
+14 Birdbrain
+
+Running time [56:54]
+
+auto_pilot
+February 2026

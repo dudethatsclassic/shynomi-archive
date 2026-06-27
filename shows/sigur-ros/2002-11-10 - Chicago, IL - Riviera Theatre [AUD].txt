@@ -1,0 +1,15 @@
+removed clicks between tracks (sector boundary errors??):
+d1t02-t03
+d1t03-t04
+d2t01-t02
+
+using cdwave and cooledit 2000. 
+
+new md5
+076b752e05f08a0ed0d01eb85aaa8f49 *sr2002-11-10d1t02.shn
+99092405c13161a8e3432c69da49730f *sr2002-11-10d1t03.shn
+a50481fa96ac645e326f23dfd3fc9e58 *sr2002-11-10d1t04.shn
+
+ef24af58c55b2db460e2eeaac31c4b6f *sr2002-11-10d2t01.shn
+d7618ccc78f48e0a2b39e45192d6d8ea *sr2002-11-10d2t02.shn 
+

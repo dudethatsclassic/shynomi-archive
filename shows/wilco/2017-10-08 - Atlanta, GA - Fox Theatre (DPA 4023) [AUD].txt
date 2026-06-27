@@ -1,0 +1,52 @@
+Wilco
+Fox Theatre
+Atlanta, GA
+Sunday October 8, 2017
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		(DPA 4023 + DPA 4028) > Sound Devices MixPre-6 @ 24/48
+Location:	Orchestra Center Row D Seat 111, 9th row center
+
+WAV > FLAC:	.wav @ 24/48 > Audacity 2.1.2 (dither to 16/44.1)
+
+Disc One:
+
+01: Intro				-	00:19.00
+02: You Are My Face			-	05:06.00
+03: Cry All Day				-	04:28.40
+04: I Am Trying To Break Your Heart	-	05:25.00
+05: Art Of Almost			-	07:20.35
+06: Pickled Ginger			-	02:40.60
+07: Side With The Seeds			-	05:23.55
+08: If I Ever Was A Child		-	03:54.00
+09: Handshake Drugs			-	06:14.20
+10: Misunderstood			-	04:12.55
+11: Someone To Lose			-	03:52.00
+12: War On War				-	03:38.20
+13: Via Chicago				-	05:39.15
+14: Bull Black Nova			-	06:25.00
+15: Reservations			-	04:08.00
+
+Total:					-	68:47.00
+
+Disc Two:
+
+01: Impossible Germany			-	09:48.00
+02: Forget The Flowers			-	03:26.00
+03: California Stars			-	06:23.55
+04: Box Full Of Letters			-	03:23.35
+05: Theologians				-	03:56.40
+06: Heavy Metal Drummer			-	03:05.20
+07: I’m The Man Who Loves You		-	04:32.15
+08: Hummingbird				-	06:03.00
+09: Random Name Generator		-	04:36.20
+10: Jesus, Etc.				-	04:34.40
+11: Hate It Here			-	04:47.15
+12: The Late Greats			-	04:53.40
+13: The Waiting				-	04:05.20
+14: Monday				-	04:01.00
+15: Outtasite (Outta Mind)		-	03:24.15
+
+Total:					-	71:00.00
+
+compiled by George Wang on 10-14-2017

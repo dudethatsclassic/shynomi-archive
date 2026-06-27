@@ -1,0 +1,75 @@
+Dave Matthews Band
+Victoria Curling Club
+Victoria, BC
+May 14, 1996
+
+** 24 BIT **
+
+Source:  Sony FM/AM Stereo Cassette-Corder WM-F46 with supplied mic > Master cassette (2 x Maxell XLII-S)
+Transfer:  Master cassettes > Nakamichi LX-5 (azimuth adjusted) > PreSonus AudioBox USB Audio Interface > Sound Forge Pro 11.0 (Build 299) (HP Elitebook 8440P laptop) > .WAV @
+24 bit/48 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 130 [splicing, minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > 
+CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging) 
+Taped by:  "crowflies"
+Transferred & mastered by:  Dennis Orr
+
+Setlist: (1:52:17)
+01 Tuning/Intro
+02 One Sweet World
+03 Drive In Drive Out
+04 Chat & Tuning
+05 #41
+06 Two Step
+07 Crash Into Me
+08 Chat
+09 Dancing Nancies
+10 Warehouse
+11 Cry Freedom
+12 Chat
+13 Too Much
+14 So Much To Say
+15 Say Goodbye
+16 Nature Intro > Tripping Billies
+17 Recent
+18 All Along The Watchtower
+19 Encore Break
+- Encore - 
+20 Little Thing (1)
+21 Chat & Tuning
+22 Ants Marching
+
+(1) Dave solo
+
+Dave Matthews – lead vocals & guitar
+Boyd Tinsley – violin, mandolin, & backing vocals
+LeRoi Moore – saxophone & winds
+Stefan Lessard – bass 
+Carter Beauford – drums, percussion, & backing vocals
+
+Mastering Notes:
+Tape flip @ 2:44 of "Warehouse" - song fades out and back in, some music was lost
+Tape flip @ 2:05 of "All Along The Watchtower" - song fades out and back in, some music was lost
+The recorder was shut off and re-started during the "Encore Break" applause - no music was lost
+
+dmb1996-05-14t01.flac:d4a3c3d621ae3ecf3e4cd099c587ec5e
+dmb1996-05-14t02.flac:4b6abc83b18706eb2d65cb497d643083
+dmb1996-05-14t03.flac:620fc2a9bdacd4548eb85e6feb6dd021
+dmb1996-05-14t04.flac:9e456868ce02a494a23a62a15073affd
+dmb1996-05-14t05.flac:dd8c91192429bcdfa9f81d6f071c9911
+dmb1996-05-14t06.flac:9249da7c41248c7631a41fea30eebb6f
+dmb1996-05-14t07.flac:5f77e853b9d6f0ee16728e1e81d3a490
+dmb1996-05-14t08.flac:1a64b945631f6f58ef047cc38880ba78
+dmb1996-05-14t09.flac:981b91937a61d22c4b37cbae70cb907e
+dmb1996-05-14t10.flac:ce0c549f59c59e38884cdae084c094a2
+dmb1996-05-14t11.flac:55419883ae7cffe2a68652c5f43ef939
+dmb1996-05-14t12.flac:cd3d191630781dd752baed6f2d6202c5
+dmb1996-05-14t13.flac:5bd1273877c1b7c7fe90b5941c2afe10
+dmb1996-05-14t14.flac:37e6fdb6f5e9ef701b2fc40700b5c1fe
+dmb1996-05-14t15.flac:8b620724d37450bf1d96c41a74e7b58b
+dmb1996-05-14t16.flac:e81178265439c4b8c9d8696999a6f14b
+dmb1996-05-14t17.flac:5b73aa9aa76f579ab71b37280dda841a
+dmb1996-05-14t18.flac:204371bd70e05bd565fe4de190e89278
+dmb1996-05-14t19.flac:2f94cd4e24c5b380cf2e10b2282ebaa4
+dmb1996-05-14t20.flac:0afc787f7b5472b4979260ff77c61095
+dmb1996-05-14t21.flac:d328ed6bc756f523c5af1c3427081529
+dmb1996-05-14t22.flac:36a1ffde2fdebae6ad22467b1820fe99

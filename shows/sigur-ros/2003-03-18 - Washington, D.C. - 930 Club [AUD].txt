@@ -1,0 +1,31 @@
+SIGUR ROS
+9:30 club
+Washington DC
+2003-03-18
+-
+
+
+Recording:  Oktava mc012's(cardiod ortf) dfc clamped on the balcony> Graham Patten Dmic 20> Sony PCM-M1 dat @ 48k
+
+Transfer:   Tascam DA MK30II>coax>Zoltrix Nightengale 6.0 >SoundForge 6.0 > resample to 44.1k(highset setting)> CDwav(track split) >SHN
+
+recording and transfer by spoogles
+
+************ PLEASE DO NOT ENCODE TO MP3****************
+
+d1:
+01.vaka
+02.fyrsta
+03.samskeyti
+04.njósnavélin
+05.gong
+06.mílanó
+07.salka
+
+d2:
+01.ný batterí
+02.viðrar vel til loftárása
+03.hafssól
+04.smáskífa
+05.starálfur
+06.popplagið

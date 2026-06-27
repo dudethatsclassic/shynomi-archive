@@ -1,0 +1,59 @@
+
+Golden Smog
+Paradise Rock Club
+Boston, MA, USA
+December 8th, 1998
+
+rig info(soundcheck): unknown
+location: unknown
+rig info(show): Core Sound HEB's > SBM-1 > Sony M1
+location: fob/dfc
+
+conversion:
+trade CDR's (direct from taper) > EAC (Secure Mode with offsets) > wav > flac > you 
+Sector Boundaries verified with Shntool 
+
+Disc 1:
+1. Looking Forward To Seeing You
+2. Ill Fated
+3. Won't Be Coming Home
+4. Lost Love
+5. Signed D.C.
+6. White Shell Road
+7. To Call My Own
+8. Glad and Sorry
+9. V
+10. Walk Where He Walked
+11. Keys
+12. I Can't Keep From Talking
+13. Jennifer Save Me
+14. Pecan Pie
+15. Fooled Around and Fell in Love
+
+Disc 2:
+1. If I Only Had a Car
+2. All the Same To Me
+3. Until You Came Along
+Encores:
+4. Radio King
+5. Please Tell My Brother
+6. Hurricane
+7. Revolution Blues
+
+filler material (soundcheck from same day):
+1. tuning
+2. tuning
+3. tuning
+4. tuning (Making Waves)
+5. tuning
+6. If I Only Had a Car
+7. tuning
+8. I'll Be There
+9. tuning
+10. Hurricane
+11. tuning
+12. Until You Came Along
+
+additional uploader notes:  :-)
+- the filler material, the soundcheck, is from a different source as the rest of the show. 
+  Quite a bit lower in sound quality too, so you've been warned

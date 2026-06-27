@@ -1,0 +1,32 @@
+Artist: Jeff Tweedy
+Venue: Auditorio Kursaal, San Sebastian, Spain
+Date: February 10, 2026
+
+Taper: unaesfingelunar
+
+Lineage: iPhone SE > Zoom iQ5 > wav (24-48) > Cubase (EQ, Compression...) > wav > TLH > flac (level 8)
+
+01 I Am Trying to Break Your Heart
+02 Caught Up in the Past
+03 Ashes of American Flags
+04 Throwaway Lines
+05 Impossible Germany
+06 New Madrid
+07 You and I
+08 Forever Never Ends
+09 Don't Forget
+10 A Lifetime to Find
+11 Via Chicago
+12 Handshake Drugs
+13 Stray Cats in Spain
+14 Remember the Mountain Bed
+15 Please Tell My Brother
+16 If I Ever Was a Child
+17 Dawned on Me
+18 Feel Free
+19 Jesus, Etc.
+20 California Stars
+
+encore:
+21 Lou Reed Was My Babysitter
+22 I'm the Man Who Loves You

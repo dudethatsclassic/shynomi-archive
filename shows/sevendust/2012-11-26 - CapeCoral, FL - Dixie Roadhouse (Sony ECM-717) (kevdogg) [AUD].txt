@@ -1,0 +1,43 @@
+Sevendust
+Dixie Roadhouse
+Cape Coral, FL
+November 26, 2012
+
+Source:
+Sony ECM-717 >Edirol R-09 >44.1khz, 16bit wave >SanDisk 8gb SD card
+>Audition 1.5(e.q., hard limit, fades and tracks) >wave >FLAC(level 8).
+
+Location:
+About 10' from front rail. Dead center pit.
+
+Taper:
+kevdogg
+
+Set/Track List:
+1. intro
+2. Splinter
+3. Denial
+4. Praise
+5. Enemy
+6. Suffocate
+7. Strong Arm Broken
+8. Forever
+9. Crucified
+10. Black
+11. Driven
+12. Pieces
+13. The End is Coming
+14. Face To Face
+
+Notes:
+The last of a four-show run leading to their departure on the Shiprocked cruise, to return for
+one more date (Dec 1st) in Ft. Lauderdale. I started out dead center but I did have to relocate
+a few times throughout the show to avoid the pit madness. Sheena Brook's band opened but
+was not recorded. I think they did a good cover of Tool's Sober. This has been shared before
+on ttd but I felt it was time to remaster it (as I have become much better at it) and to create
+some cover art as well. I started from scratch using the raw wave file and used graphic e.q. to
+boost the low frequencies and did a hard limit to -.1db with a 4db boost. I also eliminated the
+encore break track mark and left the encore as part of track 13. If you already have this in your
+catalog, I suggest replacing it with this version and giving it a listen on the 13th anniversary of it.
+Cover art is included in the torrent. Enjoy.
+-kevdogg

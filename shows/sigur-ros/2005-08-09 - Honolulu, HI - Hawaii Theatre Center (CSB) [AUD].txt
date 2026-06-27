@@ -1,0 +1,20 @@
+Sigur Ros
+2005-08-09
+Hawaii Theatre, Honolulu, Hawaii
+
+SETLIST
+11 Tracks
+
+RUNTIME: 97:08
+
+SOURCE
+DAT Master (CSBs > Battery Box (Flat) > Line In > Sony TCD-D8 @32khz) > Sony PCM-R500 > Coaxial Digital Output > ESI U24 XL (Coaxial Digital Input) > Audacity > WAV (16 bit, 32khz) > Audacity (Normalization) > r8brain 1.9 (resampled to 44.1khz WAV) > CDWAVE 1.97 (track splits) > TLH > FLAC (6) 
+
+COMMENTS
+A pretty nice recording. I sat in the right balcony. No encores but they came back on stage and bowed twice at the end due to all the applause.
+
+I normalized this recording because the levels were pretty low, and then resampled it from 32khz to 44.1khz, but otherwise no processing was done. 
+
+Any help on the setlist would be appreciated.
+
+Enjoy!

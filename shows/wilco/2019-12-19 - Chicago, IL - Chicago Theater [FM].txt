@@ -1,0 +1,51 @@
+
+Wilco
+Chicago Theatre: Chicago, IL
+December 19, 2019
+
+Source: WXRT FM > Sony PCM-M10 @ 24-bit / 44.1kHz
+Transfer: M10 > USB > Audacity (amplify/dither) > CDWave > TLH
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 WXRT Intro (fades in)
+02 Bright Leaves
+03 Before Us (broadcast glitch)
+04 I Am Trying to Break Your Heart
+05 War on War
+06 Handshake Drugs
+07 At Least That's What You Said
+08 One and a Half Stars
+09 I Might
+10 Hummingbird
+11 Via Chicago
+12 Bull Black Nova
+13 Random Name Generator
+14 Reservations
+15 Impossible Germany
+16 Jesus, Etc.
+17 We Were Lucky
+18 Love Is Everywhere (Beware)
+19 Box Full of Letters
+20 Everyone Hides
+21 Dawned on Me
+22 Monday
+23 Outtasite (Outta Mind)
+24 I'm the Man Who Loves You
+25 Hold Me Anyway
+26 Misunderstood
+27 -Encore Break-
+28 California Stars (w/ James Elkington)
+29 Spiders (Kidsmoke)
+30 Happy Xmas (War Is Over) [John Lennon & Yoko Ono] (w/ Sharon Van Etten)
+31 WXRT Outro
+
+Notes: Final night of Wilco Winterlude, a 4-night stand in Chicago to close out their last shows of the year/decade. Recorded from the live WXRT FM broadcast. Recording and broadcast were both complete. One song experienced some technical issues from the broadcast source. Entire file amplified by +1.5dB prior to dithering.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 12/28/2019
+
+*** DO NOT REMASTER WITHOUT PERMISSION. DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY ***  

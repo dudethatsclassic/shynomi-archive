@@ -1,0 +1,33 @@
+Tori Amos
+De Doelen
+Rotterdam, Netherlands
+2014-may-26
+
+Taper: easy77
+Location: Parkett, right side, Row 1, Seat 23 
+Source: Teac VR-10, OKM 2 Microphone
+Transfer: USB
+Post-processing: Magix Music Cleaning Lab (normalization, Brilliance) > .wav > .flac (with DB Power Amp Music Converter)
+
+Setlist:
+
+Parasol
+Concertina
+Wild Way
+Virginia
+Don't Make Me Come to Vegas
+Selkie
+Digital Ghost
+Silent All These Years
+Silver Springs (Fleetwood Mac)
+I'm on Fire (Bruce Springsteen)
+Cooling
+Fire on the Side
+Sugar
+iieee
+
+Encore:
+Cornflake Girl
+Precious Things
+Love Is a Battlefield (Pat Benatar)
+16 Shades of Blue 

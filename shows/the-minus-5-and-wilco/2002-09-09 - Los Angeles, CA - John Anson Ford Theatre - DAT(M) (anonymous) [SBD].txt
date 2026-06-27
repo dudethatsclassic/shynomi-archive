@@ -1,0 +1,30 @@
+The Minus 5
+September 09, 2002
+John Anson Ford Theatre
+Los Angeles, CA
+
+Source: SBD > Sony DTC-60ES
+Lineage: DAT Master 16/44.1 > FLAC
+Transfer (RyanJ): Tascam DA-20 > coax > Marantz PMD-671 > Audition > .wav
+Mastering (BLG): Adobe Audition > Ozone 9 > WavePad > xACT > FLAC
+Taper: anonymous
+
+01 Intro
+02 Twilight Distillery
+03 Got You
+04 You Don't Mean It
+05 The Girl I Never Meet
+06 Down Like Me
+07 Great News Around You
+08 I'm Not Bitter
+09 Retrieval of You
+10 Dear Employer (The Reason I Quit)
+11 Lies of the Living Dead
+12 Your Day Will Come
+13 Strychnine
+
+Total Time: 47:20
+
+Notes: Opening for Wilco.
+
+.txt compiled on Feb 21, 2022 by BLG

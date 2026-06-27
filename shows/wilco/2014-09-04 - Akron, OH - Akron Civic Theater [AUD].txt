@@ -1,0 +1,65 @@
+Wilco
+2014-09-04
+Akron, OH - Akron Civic Theater
+
+Jeff Tweedy
+John Stirrat
+Nels Cline
+Glenn Kotche
+Pat Sansone
+Mikael Jorgensen
+
+Taper:      spyboychoir (spyboychoir@gmail.com)
+Source:     Audio Technica AT822 (fixed cards XY, 15’ left of center, 50' back FOB, seated head height) > Kind Kables > Tascam DR-2d (24/48)
+Conversion: DR-2d > USB > Sound Studio 3.6.1 > WAV > Sample Manager 3.4.1 > xACT 2.29 > FLAC (level 8)
+Format:     16bit, 44.1kHz
+Editing:    Sound Studio 3.6.1 (tracking, fades, normalization to peak (-0.2dB))
+	    Sample Manager 3.4.1 (iZotope Resampler, MBIT+ dither)
+
+Support the musicians!
+http://wilcoworld.net/
+
+
+DISC ONE (1:06:32)
+
+01. I’m The Man Who Loves You
+02. Hummingbird
+03. I Am Trying To Break Your Heart
+04. Art Of Almost
+05. I Might
+06. Via Chicago
+07. Impossible Germany
+08. Cars Can’t Escape
+09. War On War
+10. Jesus, Etc.
+11. Born Alone
+12. Poor Places
+13. Spiders (Kidsmoke)
+
+DISC TWO (1:06:53)
+
+01. Kamera
+02. Box Full Of Letters
+03. Whole Love
+04. A Magazine Called Sunset
+05. Heavy Metal Drummer
+06. Dawned On Me
+07. Misunderstood
+08. True Love Will Find You In The End *
+
+ENCORE 1
+
+09. The Late Greats
+10. I’m Always In Love
+11. A Shot In The Arm
+
+ENCORE 2
+
+12. California Stars
+13. Passenger Side
+14. Kingpin
+
+NOTES:
+
+* Daniel Johnston cover
+Original 24bit version available upon request

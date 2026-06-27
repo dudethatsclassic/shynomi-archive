@@ -1,0 +1,27 @@
+Mammoth WVH 
+2024-04-29
+Le Zénith, Paris 
+France
+
+01/ Another Celebration at the End of the World
+02/ You're to Blame
+03/ I'm Alright
+04/ Like a Pastime
+05/ Take a Bow (With Myles Kennedy)
+06/ Don't Back Down
+
+
+Total : 32 min 
+
+Taper : Kurddt
+Lineage : Church Audio CA-11c > Roland R-05 > WAV [24bit/96kHz] > Ocenaudio 3.13.8 (normalize+gain+fadein/out) > WAV [16bit/44.1kHz] > CD Wave Audio Editor 1.98 (tracks split) > FLAC [Level 8] (Trader's little helper 2.6.0)
+
+97e16b12cffbaf913285ef8a8317a5cb *01 - Another Celebration at the End of the World.flac
+708ebdd5e17c4d7be70c47fdaed7a5c5 *02 - You're to Blame.flac
+436d2b01a181894155c9231f5174d4ff *03 - I'm Alright.flac
+709fefbe4e6aa8e4b632b52eb50856e2 *04 - Like a Pastime.flac
+a5bf3bf3da0d005ad1a4bada96177aa3 *05 - Take a Bow.flac
+eea7b6003ddc4f63ee494fa87caf5b52 *06 - Don't Back Down.flac
+
+
+*** DO NOT SPREAD IN LOSSY FORMAT OR SELL *** 

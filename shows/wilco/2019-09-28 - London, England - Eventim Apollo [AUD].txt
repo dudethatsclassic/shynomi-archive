@@ -1,0 +1,133 @@
+Wilco
+Eventim Apollo,
+London, England 
+Ode to Joy Tour 
+September 28th, 2019
+
+
+Source: AT833b's > Roland R-07 > wav 24/96
+Lineage:Wav 24/96 > iZotope RX7 Advanced > iZotope Neutron 2 > iZotope Ozone 5 Advanced > iZotope RX7 Advanced > wav 16/44.1 > CD Wave > Flac 16
+ 
+
+
+01   crowd
+02   Bright Leaves
+03   Before Us
+04   I Am Trying To Break Your Heart
+05   War On War
+06   One And A Half Stars
+07   If I Ever Was A Child
+08   Handshake Drugs
+09   Hummingbird (with false start)
+10   At Least That's What You Said
+11   White Wooden Cross
+12   Via Chicago
+13   How To Fight Loneliness
+14   Bull Black Nova
+15   Random Name Generator
+16   Reservations
+17   Love Is Everywhere (Beware)
+18   Impossible Germany
+19   California Stars
+20   Box Full Of Letters
+21   Everyone Hides
+22   Jesus, Etc.
+23   Theologians
+24   I'm The Man Who Loves You
+25   Hold Me Anyway
+26   Misunderstood
+27   ~~encore break~~
+
+encore
+
+28   I'm Always in Love *
+29   Heavy Metal Drummer *
+30   The Late Greats *
+
+
+
+
+Jeff Tweedy – lead vocals, guitars
+John Stirratt – bass guitar, backing vocals
+Glenn Kotche – drums, percussion
+Mikael Jorgensen – keyboards, synthesizers, effects
+Nels Cline – lead guitar, lap steel, loops,
+Pat Sansone – keyboards, guitars, backing vocals, synthesizers, percussion
+
+* with OHMME, who were the support act.
+
+
+
+recorded, edited and mastered
+SIRMick
+October 2019
+
+
+shntool output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:33.707       6471724 B   cxx   --   ---xx   flac  0.4856  wilco2019-09-28t01.flac
+     4:32.387      52298284 B   cxx   --   ---xx   flac  0.4309  wilco2019-09-28t02.flac
+     3:21.107      38612524 B   cxx   --   ---xx   flac  0.4457  wilco2019-09-28t03.flac
+     5:19.933      61427244 B   cxx   --   ---xx   flac  0.4839  wilco2019-09-28t04.flac
+     3:31.667      40640044 B   cxx   --   ---xx   flac  0.5232  wilco2019-09-28t05.flac
+     3:32.187      40739884 B   cxx   --   ---xx   flac  0.4492  wilco2019-09-28t06.flac
+     3:39.520      42147884 B   cxx   --   ---xx   flac  0.4286  wilco2019-09-28t07.flac
+     6:29.507      74785324 B   cxx   --   ---xx   flac  0.4891  wilco2019-09-28t08.flac
+     3:54.760      45073964 B   cxx   --   ---xx   flac  0.4475  wilco2019-09-28t09.flac
+     5:57.960      68728364 B   cxx   --   ---xx   flac  0.4688  wilco2019-09-28t10.flac
+     3:22.547      38889004 B   cxx   --   ---xx   flac  0.4505  wilco2019-09-28t11.flac
+     5:26.667      62720044 B   cxx   --   ---xx   flac  0.4592  wilco2019-09-28t12.flac
+     4:43.653      54461484 B   cxx   --   ---xx   flac  0.4080  wilco2019-09-28t13.flac
+     7:08.667      82304044 B   cxx   --   ---xx   flac  0.4756  wilco2019-09-28t14.flac
+     4:27.533      51366444 B   cxx   --   ---xx   flac  0.5201  wilco2019-09-28t15.flac
+     4:00.947      46261804 B   cxx   --   ---xx   flac  0.3881  wilco2019-09-28t16.flac
+     4:17.520      49443884 B   cxx   --   ---xx   flac  0.4366  wilco2019-09-28t17.flac
+     8:59.667     103616044 B   cxx   --   ---xx   flac  0.4934  wilco2019-09-28t18.flac
+     4:46.333      54976044 B   cxx   --   ---xx   flac  0.4756  wilco2019-09-28t19.flac
+     4:19.960      49912364 B   cxx   --   ---xx   flac  0.5056  wilco2019-09-28t20.flac
+     3:49.773      44116524 B   cxx   --   ---xx   flac  0.4699  wilco2019-09-28t21.flac
+     4:21.973      50298924 B   cxx   --   ---xx   flac  0.4548  wilco2019-09-28t22.flac
+     3:36.840      41633324 B   cxx   --   ---xx   flac  0.5103  wilco2019-09-28t23.flac
+     4:30.333      51904044 B   cxx   --   ---xx   flac  0.5131  wilco2019-09-28t24.flac
+     4:11.787      48343084 B   cxx   --   ---xx   flac  0.4390  wilco2019-09-28t25.flac
+     6:15.293      72056364 B   cxx   --   ---xx   flac  0.4682  wilco2019-09-28t26.flac
+     2:43.667      31424044 B   cxx   --   ---xx   flac  0.4949  wilco2019-09-28t27.flac
+     4:18.800      49689644 B   cxx   --   ---xx   flac  0.5374  wilco2019-09-28t28.flac
+     3:33.813      41052204 B   cxx   --   ---xx   flac  0.5311  wilco2019-09-28t29.flac
+     3:24.453      39255084 B   cxx   --   ---xx   flac  0.5217  wilco2019-09-28t30.flac
+   133:12.960    1534649640 B                            0.4735  (30 files)
+
+
+flac fingerprints:
+
+wilco2019-09-28t01.flac:6df68b774904dc2dd254150c3fc35be6
+wilco2019-09-28t02.flac:dc2749de4d956b13a0abd56c8090a56a
+wilco2019-09-28t03.flac:87f9b52f7093f6b4c27036647d3d8e99
+wilco2019-09-28t04.flac:40f73fac840aaeb70bdd42751ff5f5f4
+wilco2019-09-28t05.flac:8ca02509c98d8fee835a22105a23f67b
+wilco2019-09-28t06.flac:a473c7f987a298f420f203487d412953
+wilco2019-09-28t07.flac:4e73ff053cdc49ce09b02f2d0289664f
+wilco2019-09-28t08.flac:7787f6b87b0ca91f24073e91518a2029
+wilco2019-09-28t09.flac:20aec83255e2c3e3012cbc2aea5d0f6d
+wilco2019-09-28t10.flac:47e06b188e71f9f97ba93d65df8caf8b
+wilco2019-09-28t11.flac:dcc65ee1b2cd58f4de5f5ff04ec993f4
+wilco2019-09-28t12.flac:352ec5cb00684908a420cf8649c35e88
+wilco2019-09-28t13.flac:76d59c9952cc15ea31ce68123dad9b46
+wilco2019-09-28t14.flac:a14f5ccf1c1ecce7694d4d564d76789c
+wilco2019-09-28t15.flac:f5b1f18f61b0fcc0d8893a29e086614a
+wilco2019-09-28t16.flac:35f6f7df3c1b34da617b15c89d776cab
+wilco2019-09-28t17.flac:10a5038225277f7f4f4c15a0abcbc055
+wilco2019-09-28t18.flac:916a206e239f582e25779019d285562f
+wilco2019-09-28t19.flac:75d65c8bf6cc3495c1a58f58c4a43605
+wilco2019-09-28t20.flac:aee6c1b5cf507be283ca47248c0686bc
+wilco2019-09-28t21.flac:e663c0bb9303a74105e98efc1d378f32
+wilco2019-09-28t22.flac:002d02d12a6467befc0072ead93f278f
+wilco2019-09-28t23.flac:b35f2e38aae40b7e27093690e3fac65a
+wilco2019-09-28t24.flac:df94003c0eab97bc2b3a3f525ffee88a
+wilco2019-09-28t25.flac:1261211735c7ebf64ff934686809c11b
+wilco2019-09-28t26.flac:a59671806faf709e1154f12d5d5a88ce
+wilco2019-09-28t27.flac:2e0344fcb9a3077b52adeb338a5797a0
+wilco2019-09-28t28.flac:066d480a2cc666806c1cbf5bf3a64638
+wilco2019-09-28t29.flac:01676a8ed577174c0332d35cf7467f9f
+wilco2019-09-28t30.flac:b811f991240fd006fe5bd79688c65d75

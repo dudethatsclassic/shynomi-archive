@@ -1,0 +1,70 @@
+The Black Crowes
+Universal Amphitheater, Universal City, CA
+November 1, 1990
+
+Source : Sony WM-R2 w/internal mics > Cassette Master (recorded by Big D Productions Vol 1)
+
+Transfer : Sony TC-WE 475 > Tascam SD-20M Wave Recorder (16/44)
+
+Editing : Sound Forge (tracking & volume) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - March 7, 2021
+
+Transferred and Tracked by kingrue upload #3025
+==============================================
+
+Here we have a brand new source for this Black Crowes show, opening for Robert Plant.
+
+This is the start of a new series from Big D Productions.
+
+The taper was friends with Wes M. and borrowed his tape recorder for every show.
+
+I have the tapers entire audio collection and will be releasing new tape sources from many hard rock bands from the 90's.
+
+This Black Crowes date wasn't even listed in the etreedb database, until now....
+
+Thanks to the taper and enjoy this new series as it rolls out.
+
+Band line-up
+Chris Robinson - vocals
+Rich Robinson - guitar, backing vocals
+Steve Gorman - drums, percussion
+Jeff Cease - lead gutar, backing vocals
+Johhny Colt - bass, backing vocals
+
+
+Total time = 47:30
+
+Set list
+01 Introduction
+02 Thick n' Thin
+03 Twice As Hard
+04 Shake 'em On Down
+05 Get Back
+06 She Talks to Angels
+07 Could I've Been So Blind -- tape cut @ 0:52 --
+08 Hard To Handle
+09 Stare It Cold
+10 Jealous Again
+11 Struttin' Blues (cuts off)
+
+
+======================
+
+No errors occured.
+
+01 Introduction.flac:07974e78c734a16e987ab414c7654e41
+02 Thick n' Thin.flac:a06ce514030f6b84f2854f197ad984c5
+03 Twice As Hard.flac:c141472979112cbc69f506c9ade3e324
+04 Shake 'em On Down.flac:c7aa3801c981e7ae8abf8c38b8a23a30
+05 Get Back.flac:0d0b77187156c426c15986c169a5859d
+06 She Talks to Angels.flac:80efad69ed0452a45a95290c5d78ce3b
+07 Could I've Been So Blind.flac:4093290f5b1d84bc155ceb58e6c5403d
+08 Hard To Handle.flac:741bb0dd4c4c4e896a00c35560e5b7b6
+09 Stare It Cold.flac:3bd5fa2acf6fb8e4b2d8e4c523c824bb
+10 Jealous Again.flac:59ff965e897f2779beee7340ced58d0d
+11 Struttin' Blues.flac:6477cb70ad44b24e739807af2f8eae7b
+
+Checksum file saved to disk.
+
+No errors occured.

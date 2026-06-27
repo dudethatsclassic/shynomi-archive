@@ -1,0 +1,72 @@
+Dave Matthews Band
+Benchwarmers
+Lawrence, Kansas
+Mar. 7, 1994
+
+Source: DSBD
+
+CD>WAV>SHN: Ryan Darmofalski (hsihp81@yahoo.com)
+Equipment: Plextor 12x10x32x > EAC v0.9pb7 (all tracks 100%) >
+	   Goldwave v4.21 > mkw Audio Compression Tool v0.97b1
+
+Disc 1:
+-------
+(Set I)
+01:  Intro				-	01:02.75
+02:  One Sweet World			-	10:09.86
+03:  Tripping Billies			-	04:53.50
+04:  Satellite				-	06:28.16
+05:  Lie In Our Graves			-	07:54.18
+06:  The Song That Jane Likes		-	05:23.11
+07:  What Would You Say			-	07:02.41
+08:  Dancing Nancies			-	08:11.02
+09:  True Reflections *			-	06:54.04
+Total:					-	57:53.03
+
+Disc 2:
+-------
+(Set II)
+01:  Minarets >				-	07:32.17
+02:  Typical Situation			-	12:36.87
+03:  Help Myself			-	04:37.04
+04:  Warehouse				-	08:39.68
+05:  Angel From Montgomery		-	07:32.31
+06:  #36				-	09:36.15
+07:  Recently				-	13:34.62
+Encore:
+08:  Ants Marching			-	06:33.60
+Total:					-	70:39.44
+
+* Comments:
+-----------
+* True Reflections is not listed in any of the setlist engines searched,
+  but it was on the same track as Nancies. The songs flow seamlessly
+  with no evidence of a cut, and the sound dynamics are the same. Also,
+  Dave says the band is taking a short break just after TR ends.
+  Therefore, I'm leaving it in as the Set I closer.
+
+- Track break fixes: disc 2 was TAO; edited out all gaps/snaps at track
+  breaks. Also, track 5 contained Angel, #36 and Recently, so that was
+  broken up. A couple intros were misplaced; Help Myself and Ants had the
+  first 20 seconds or so on the track before, so that was fixed as well.
+
+Compiled by Ryan Darmofalski
+02/13/01
+
+146dbc4366604f93b8496651b603055d  [shntool]  dmb1994-03-07d1t01.shn
+093747db2b1c3f7eb0223c124cc070eb  [shntool]  dmb1994-03-07d1t02.shn
+3f44284972e0cd69a0f64f095861d8f7  [shntool]  dmb1994-03-07d1t03.shn
+5de9b8ed84f9b02f8ad14b51bc0d2202  [shntool]  dmb1994-03-07d1t04.shn
+5dfa9085765be62ec74505736a5da47b  [shntool]  dmb1994-03-07d1t05.shn
+373ab0de5b558b3503423a1a3a19b777  [shntool]  dmb1994-03-07d1t06.shn
+37adb2f992a59f2ee3a19ef76cbcc997  [shntool]  dmb1994-03-07d1t07.shn
+7527017c16224c1bf2ee6dbfe38a44d8  [shntool]  dmb1994-03-07d1t08.shn
+dfd25f1ef51f135df6e300144b23f4d3  [shntool]  dmb1994-03-07d1t09.shn
+199e24f43059e5a7c35619d604ac7ed4  [shntool]  dmb1994-03-07d2t01.shn
+8ff232e91fd544c18dff37698f4dbaa1  [shntool]  dmb1994-03-07d2t02.shn
+3825cd7a216ddcdc25b073c4ec4573ef  [shntool]  dmb1994-03-07d2t03.shn
+e2f44ece53bee4ee7c9ab970698a89be  [shntool]  dmb1994-03-07d2t04.shn
+6476ef61fef57dac5bcdbb3f41a671f9  [shntool]  dmb1994-03-07d2t05.shn
+78c2b9191c0805809e1a310d76d3d699  [shntool]  dmb1994-03-07d2t06.shn
+b46744fcdb2db062ce97e68b297b89a2  [shntool]  dmb1994-03-07d2t07.shn
+79fbf23d465c90d3d6722686a16b7470  [shntool]  dmb1994-03-07d2t08.shn

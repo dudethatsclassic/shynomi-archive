@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "The Metropol",
-      "notes": "w/ Trent Reznor · unk",
+      "notes": "w/ Trent Reznor \u00b7 unk",
       "version": "AUD",
       "format": "MP3"
     },

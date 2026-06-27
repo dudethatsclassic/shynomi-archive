@@ -1,0 +1,67 @@
+Dave Matthews Band
+June 11th, 2022
+Jiffy Lube Live
+Bristow, VA
+
+Source: Neumann AK-40s (15' on stand, Pit, ROC)->Active Cables->Neumann KM-100s->Tascam DR-70D (24 bit/48 kHz)
+Transfer: SDHC -> PC
+Processing: Fade in, fade out & tracking using SoundForge 11.0
+Conversion: WAV -> Flac Level 8 using Trader's Little Helper
+Recorded by: Tim Brown (timothydavidbrown@gmail.com)
+
+*****************************************************************
+********* PLEASE SPREAD, BUT PLEASE INCLUDE SOURCE INFO *********
+****** DO NOT SELL OR DISTRIBUTE FOR A PROFIT BY ANY MEANS ******
+*****************************************************************
+
+01. Intro
+02. That Girl Is You
+03. When the World Ends
+04. Grey Street
+05. Madman's Eyes
+06. The Maker
+07. So Right
+08. Come On, Come On
+09. Sledgehammer
+10. Lying in the Hands of God
+11. Don't Drink the Water
+12. Lover Lay Down
+13. Rooftop
+14. Do You Remember
+15. Crush
+16. Walk Around the Moon
+17. Louisiana Bayou
+18. You & Me
+19. Warehouse
+20. Encore Break
+21. Virginia in the Rain
+22. Ants Marching
+
+Notes:
+Thanks to Ron Powell for the ticket!
+Thanks to Chris Howell for the use of the Neumann gear!
+Thanks to Zach Semcken for the use of the Tascam!
+
+Dave Matthews Band 2022-06-11t01.flac:97480400912930201bc508bcf15ddfe7
+Dave Matthews Band 2022-06-11t02.flac:06a1d8fe6e119622670cfdb4a4f8ffc4
+Dave Matthews Band 2022-06-11t03.flac:d5d2f93071a4805bdd947df4a08d698e
+Dave Matthews Band 2022-06-11t04.flac:c627d3b749814f4ba17ddc2645127f26
+Dave Matthews Band 2022-06-11t05.flac:8e5262d841546f34c4d3c15f9ca32322
+Dave Matthews Band 2022-06-11t06.flac:d657808f2432a678e9b55419de1a82ee
+Dave Matthews Band 2022-06-11t07.flac:b241a28cb15cbc368b90d4a38375d775
+Dave Matthews Band 2022-06-11t08.flac:66be67e4a1f41d711fdc0817bdaa9e60
+Dave Matthews Band 2022-06-11t09.flac:ec37ceb25d66b6dac0b4b5c305f82b0b
+Dave Matthews Band 2022-06-11t10.flac:17ed1e178f3103ba1514983b1dfa5dc7
+Dave Matthews Band 2022-06-11t11.flac:51135fb9f5b98f65bf0b6dab8ebd38a3
+Dave Matthews Band 2022-06-11t12.flac:9c4fd4066ef78dcfda8b175fa4fd0b51
+Dave Matthews Band 2022-06-11t13.flac:3958e7161342cef65029366d574e98de
+Dave Matthews Band 2022-06-11t14.flac:f02225f09197f493321a4affdc9700e4
+Dave Matthews Band 2022-06-11t15.flac:40d8ac3b5a2913e0246e6677d7542aec
+Dave Matthews Band 2022-06-11t16.flac:aaa3654caf4ab238c06fe87ec85770fa
+Dave Matthews Band 2022-06-11t17.flac:79829b94081317e7390a87e9c195fab0
+Dave Matthews Band 2022-06-11t18.flac:d7ce18c0b0ba5331e6e9a7a6039c0ce5
+Dave Matthews Band 2022-06-11t19.flac:4f8ecf9801ee9a9901caf7e0c43f6114
+Dave Matthews Band 2022-06-11t20.flac:7653a4f6da154aab560569a7cfa402d8
+Dave Matthews Band 2022-06-11t21.flac:b2ed0ce023a1caee3f409afdcd06a8b7
+Dave Matthews Band 2022-06-11t22.flac:df5ffd7e0ea98caef3ca46ce6ee0066a
+

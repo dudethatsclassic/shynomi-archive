@@ -1,0 +1,57 @@
+Wilco
+September 6, 2003
+Shoreline Amphitheatre
+Mountain View, California
+KFOG Summer Picnic
+
+Source: Schoeps MK4 > KCY > mod-Lemosax > SBM-1 > D100
+Conversion: D100 > VXpocket > Soundforge 6.0 > Waves LinEQ > Waves MB > CD Wav > shntool > shorten32 
+[> Sound Forge Pro 17 > CD Wave 1.98 > TLH 2.84 > FLAC]
+Originally compiled by Alex Kabella
+
+01 A Magazine Called Sunset 
+02 Box Full Of Letters
+03 Kingpin
+04 I'm The Man Who Loves You
+05 Poor Places
+06 Reservations
+07 I Am Trying To Break Your Heart
+08 Jesus, Etc.
+09 Should've Been In Love
+10 One By One	
+11 California Stars
+12 War On War
+13 Kicking Television	
+
+
+57:48
+
+
+I've found out that there are many Wilco shows up to ~2005 that have probably never been torrented (at least not since ~2005)
+but have only been traded, presumably in the last years of traditional trading. Somehow, these shows were forgotten in the first
+waves of torrenting - or deemed not worthy of digital distribution ... or simply those traders in possesion never made the step to
+torrenting and then stopped trading altogether, like most everybody did.
+I've searched high and low, checked countless old lists and sent a lot of asking mails to ancient email addresses. About half of them
+bounced, another quarter didn't reply - and the ones that did hadn't traded (or stopped collecting) in a long time. But then I
+found some nice persons who were willing to share shows with me. 
+Arrangements were made and in 2018/19 I was able to share almost 30 Wilco and Jeff Tweedy shows with you.
+As a result, a couple more Wilco collectors got in touch and provided me with some more shows that I'll be able to share with you,
+some have never circulated, others have not been torrented for a long, long while.
+I still have not listened to them all, most need some work. I guess many of the original CDs are flawed by now,
+but most can be rescued or restored with just some problems remaining, it'll take some time, please be patient. 
+
+If anybody knows of or has a connection to 'old-time' Wilco traders or even tapers, please ask them to get in touch,
+there are still a couple dozen shows out there that are known to have been recorded and traded in the pre-torrent era.
+
+notes to the 2023 edition:
+Short 'festival' set, but what a nice setlist !
+Received this as an almost flawless set of SHN files. I repaired the low volume on the first half of the first track
+where the taper is searching for the best recording level. Other that that I just converted to FLAC, everything else remained untouched.
+Many thanks to Jeff !
+
+[2023-06-14 + 17]
+
+
+Respect the Artists
+Never sell - for trade only
+Please do not encode to lossy formats

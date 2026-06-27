@@ -23,9 +23,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Orbit Room",
-      "notes": "CSBmod · arnold leal",
+      "notes": "CSBmod \u00b7 arnold leal",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-08-03 - Dallas, TX - Orbit Room (CSBmod) (arnold leal) [AUD].DAT.txt"
     },
     {
       "year": 1996,
@@ -36,9 +37,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tramps",
-      "notes": "ANA(M) · AT8022 · auto_pilot",
+      "notes": "ANA(M) \u00b7 AT8022 \u00b7 auto_pilot",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-15 - New York, NY - Tramps - ANA(M) (AT8022) (auto_pilot) [AUD].txt"
     },
     {
       "year": 1998,
@@ -49,9 +51,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "notes": "CSBmod · dave asselin",
+      "notes": "CSBmod \u00b7 dave asselin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-04-17 - Boston, MA - Paradise Rock Club (CSBmod) (dave asselin) [AUD].DAT.txt"
     },
     {
       "year": 1999,
@@ -62,9 +65,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "The Middle East",
-      "notes": "CSBmod · dave asselin",
+      "notes": "CSBmod \u00b7 dave asselin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-10-20 - Cambridge, MA - The Middle East (CSBmod) (dave asselin) [AUD].txt"
     },
     {
       "year": 2007,
@@ -75,9 +79,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
-      "notes": "DPA 4060 · charles dewey cole",
+      "notes": "DPA 4060 \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-10-13 - Chicago, IL - The Metro (DPA 4060) (charles dewey cole) [AUD].txt"
     },
     {
       "year": 2022,
@@ -88,9 +93,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Suttree Landing Park",
-      "notes": "CA-14 · ryan teske",
+      "notes": "CA-14 \u00b7 ryan teske",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-09-30 - Knoxville, TN - Suttree Landing Park (CA-14) (ryan teske) [AUD].txt"
     },
     {
       "year": 2024,
@@ -101,9 +107,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Subterranean",
-      "notes": "CA-14 · ryan teske",
+      "notes": "CA-14 \u00b7 ryan teske",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-07-25 - Chicago, IL - Subterranean (CA-14) (ryan teske) [AUD].txt"
     },
     {
       "year": 2024,
@@ -116,7 +123,8 @@ const ARTIST_DATA = {
       "venue": "Subterranean",
       "notes": "benjamin gordon",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-07-25 - Chicago, IL - Subterranean (benjamin gordon) [SBD].txt"
     }
   ],
   "misc": []

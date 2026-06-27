@@ -1,0 +1,52 @@
+Wilco
+April 22, 2006
+William & Mary Hall
+The College of William & Mary 
+Williamsburg, Va
+
+***Matrix 16/44.1***
+Source: SBD (xlr out)>SD 722 @ 24/96 + AKG 461(ortf)>MP-1>SBM-1>D8 @ 16/48
+
+Transfer: Audience recording DAT Sony PCM-R300>SD 722
+Matrix:   WaveLab 6.00b montage.  
+
+Audience source was upsampled to 24/96 and mixed in 32bit float domain.
+Dither to 16 bits with uv22hr and resampled with Crystal Resampler.
+flac'd with frontend 1.7.1 compression 6
+
+SBD recording by John Paradiso
+Taped by:  John Paradiso (SBD) and Brad Manning (AUD)
+Transferred, tracked, Matrix'd and flac'd by: John Paradiso
+
+One Set
+CD1:
+01. Intro
+02. IATTBYH
+03. War on War
+04. Company In My Back 
+05. Hell Is Chrome
+06. Handshake Drugs
+07. Shot In The Arm
+08. At Least That's What You Said 
+09. Jesus, Etc.
+10. Ashes of Ameican Flags
+11. Theologians
+12. Spiders
+13. Hummingbird
+14. Walken
+15. I'm the Man Who LOves You
+
+CD 2:
+Encore 1
+01. Via Chicago
+02. Kingpin
+03. Late Greats
+Encore 2
+04. Heavy Metal drummer
+05. I'm A Wheel
+
+notes: slight cut at the start of Via Chicago due to dat change was faded with sbd source for seamless transition.
+       Many thanks to Stan Doty for hookin' this up.
+       ****Please, please never profit or sell recordings that Wilco or any other taping friendly artist(s) 
+       make available.  Doing so may result in being sodomized by satan's dogs.
+       No animals were hurt during the making of this recording.

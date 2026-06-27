@@ -1,0 +1,68 @@
+John Mayer
+3 October 2023
+Madison Square Garden
+New York, New York
+
+Recorded and mixed by: Christopher Jones <jones.chris@gmail.com>
+
+Source: 4.1 Channel LPCM @ 24-bit / 96 kHz
+
+Lf / Rf: Schoeps CCM 41 compact supercardioid (matched) > lemo-to-XLR > Sonosax SX-M2D2 (@ 96 kHz) > AES / EBU > Sonosax SX-R4+ (non-U.S. version with unconstrained headroom; @ 24-bit / 96 kHz)
+
+Lr / Rr: Schoeps CMC1L41V (Schoeps CMC1L microphone preamplifier with matched Schoeps MK41V supercardioid capsules) > Lemo-to-XLR > Sonosax SX-R4+ (@ 24-bit / 96 kHz)
+
+LFE: band-passed material from Lf / Rf (LFE intentionally minimized in the mix; presumes the use of full-range speakers for playback; no rolloff in mains on account of LFE; rely on bass management as appropriate)
+
+Location: FOH, DFC; microphones elevated approximately 4.5 meters, ORTF
+SD > .flac: Apple 14" Macbook Pro (Apple M1 Max / 32GB RAM) > Avid Pro Tools Ultimate v. 2021.12.0 > Dell Precision 7670 16" (i9-12950HX / 32GB RAM) > Merging Technologies Pyramix 14 Native Premium (@ 24-bit / 96 kHz) > Merging Technologies Horus (w/ DA8P Premium output module; @ 24-bit / 96 kHz) > Mogami Gold DB25 / XLR3M snake > Manley Massive Passive stereo tube program equalizer > Mogami Gold XLR > 2 x Pulse Techniques Pultec EQP-1A tube program equalizers > Mogami Gold XLR > Rupert Neve Designs Portico II Master Buss Processor > Mogami Gold XLR > Network Sound Mamba XLR-to-DB25 patchbay > Merging Technologies Horus (w/ 4 x AKD8DP Premium input modules; @ 24-bit / 96 kHz) > Merging Technologies Pyramix 14 Native Premium (@ 24-bit / 96 kHz) > Apple 14" Macbook Pro (Apple M1 Max / 32GB RAM) > Avid Pro Tools Ultimate v. 2021.12.0 > xACT v2.52
+
+24-bit / 96 kHz and 16-bit / 44.1 kHz stereo versions of this recording available.
+
+t01 Introduction  						01:30.97
+t02 Heartbreak Warfare  					05:08.44
+t03 XO %  							04:24.45
+t04 Shot In The Dark >  					04:01.66
+t05 Split Screen Sadness  					04:02.52
+t06 January 16, 2002: "Room for Squares" Promo Video		00:54.10
+t07 Intro To...  						00:59.05
+t08 Neon  							07:37.69
+t09 I'm On Fire + >  						01:37.11
+t10 3 x 5  							08:40.11
+t11 Waitin' On The Day  					05:14.24
+t12 In Your Atmosphere 						07:25.74
+t13 Who Says  							03:47.11
+t14 Walt Grace's Submarine Test, January 1967			05:40.39
+t15 (Friend Of The Devil #)  					01:19.23
+t16 You're Gonna Live Forever In Me  				03:19.38
+t17 Changing  							05:46.03
+t18 "Continuum" Interview					01:26.36
+t19 Stop This Train 						04:46.98
+t20 Slow Dancing In A Burning Room ^  				06:30.87
+t21 Your Body Is A Wonderland  					05:38.18
+t22 In The Blood  						04:24.32
+t23 "Steve Miller..."  						00:58.67
+t24 The Joker * ~						07:02.02
+t25 A Face To Call Home  					04:54.99
+t26 Edge Of Desire  						07:34.14
+---
+t27 (Comfortable)  						00:12.71
+t28 Comfortable  						06:13.55
+t29 Free Fallin' @ 						05:10.36
+
+%  Beyonce cover
+>  Indicates a segue into the next song
++  Bruce Springsteen cover
+() Indicates a tease or partial song if not part of a song with a parenthetical subtitle
+#  Grateful Dead cover
+^  Main line array cuts out briefly during song; FOH appears to have mistakenly muted it
+*  Steve Miller Band cover
+~  Featuring Steve Miller
+@  Tom Petty cover
+
+Notes:
+
+Some panning of guitar and vocals audible throughout the performance.
+
+Rear channels synthesized using Altiverb.
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 4 November 2023.

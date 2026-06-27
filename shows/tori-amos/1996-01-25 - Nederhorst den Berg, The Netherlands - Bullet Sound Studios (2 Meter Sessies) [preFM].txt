@@ -1,0 +1,42 @@
+Tori Amos
+2 Meter Sessies
+1996-01-25 (January 25, 1996)
+Bullet Sound Studios, Nederhorst den Berg, The Netherlands
+
+This is a pre-FM CDR of the entire recording.
+
+Tracks:
+1. Horses / Fool On The Hill
+2. This Old Man / Putting The Damage On
+3. Apollo's Frock / Doughnut Song
+4. Muhammad My Friend
+5. Caught A Lite Sneeze
+
+Very nice recording of a very special performance. Track 3 has an improv of a song that wouldn't be released on CD until 6 years later!
+
+Enjoy!
+
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     7:19.04       77449052 B   ---   --   ---xx   flac  0.3913  tori1996-01-25t01.flac
+     6:33.06       69339356 B   ---   --   ---xx   flac  0.4021  tori1996-01-25t02.flac
+     7:02.32       74516108 B   ---   --   ---xx   flac  0.4160  tori1996-01-25t03.flac
+     3:00.25       31810844 B   ---   --   ---xx   flac  0.4486  tori1996-01-25t04.flac
+     3:48.33       40296860 B   ---   --   ---xx   flac  0.4199  tori1996-01-25t05.flac
+    27:43.25      293412220 B                            0.4103  (5 files)
+
+FFP:
+tori1996-01-25t01.flac:66aabb5ee34edce2d998a20d9bdd2aaf
+tori1996-01-25t02.flac:d2127e77d825de08b85af24c43b24f8a
+tori1996-01-25t03.flac:0f7f4c824eae5a211a42b1e5026f41b9
+tori1996-01-25t04.flac:33abc277a498407c2d979a6f09552739
+tori1996-01-25t05.flac:ca9245b311eccbb2fecb7bff653912be
+
+MD5:
+7f12a37e7cf728e0e8181ebba7baa9f9 *tori1996-01-25t01.flac
+d2083542313e5798c16b054804d69af9 *tori1996-01-25t02.flac
+2fca0785cdecfa5fa07f87b0c1eba7e2 *tori1996-01-25t03.flac
+f2c3a73d03045709e8321f2134b3b27a *tori1996-01-25t04.flac
+d116c7e67bcbe0f6d53fae935b76e6a8 *tori1996-01-25t05.flac
+
+

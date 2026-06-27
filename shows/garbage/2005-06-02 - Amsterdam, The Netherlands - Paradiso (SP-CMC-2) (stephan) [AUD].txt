@@ -1,0 +1,61 @@
+Garbage
+Paradiso
+Amsterdam, The Netherlands
+June 2, 2005
+
+Source:  Audience recording > SP-CMC-2 (AT831)  > SP-SPSB-1 (160Hz.) > IM-DR420H (SP) > line in > DMX X-Fire 1024 > Adobe Audition 1.5 > CD Wave v.1.94b3 > FLAC Frontend v1.1.2 > FLAC. Tapd by Stephan. 
+
+CD 1:
+xx.  Hurt [Johnny Cash] - taped intro
+02.  Queer
+03.  Bad Boyfriend
+04.  Supervixen
+05.  Stupid Girl
+06.  Sex Is Not The Enemy
+07.  Hammering In My Head
+08.  Cherry Lips (Go Baby Go!)
+09.  When I Grow Up
+10.  Vow
+11.  Metal Heart
+12.  I Think I'm Paranoid
+13.  Run Baby Run
+14.  Push It
+15.  Only Happy When It Rains
+16.  Why Do You Love Me
+
+CD 2:
+17.  (encore break)
+18.  Bleed Like Me
+19.  Not My Idea
+20.  Right Between The Eyes
+
+Total time = 81:42
+
+Notes:  The intro (Johnny Cash - Hurt) is not part of this bootleg, because it has been commercially released.  Disclaimer:  This recording is not to be sold for profit of any kind. Trade freely in a lossless format.
+
+Personnel:
+Shirley Manson - vocals
+Steve Marker - guitars & keyboards
+Duke Erikson - guitars & keyboards
+Butch Vig - drums
+Eric Avery - bass
+
+garbage2005-06-02t02.flac:3832ce0d60afb4b58eca74e479ff953f
+garbage2005-06-02t03.flac:0e29f5ae94d4e781be5cd800a59434dd
+garbage2005-06-02t04.flac:ba28f7b45e03de1b4b6ef0b83f27acdb
+garbage2005-06-02t05.flac:73df1ebe658d44c2a229af4dcf5ea77c
+garbage2005-06-02t06.flac:d548d8cb7ab669cf9409050a05892808
+garbage2005-06-02t07.flac:008dfbeaa141265a85fe67d491e866ef
+garbage2005-06-02t08.flac:66fb24afaae795cf0c4846f6a25e7036
+garbage2005-06-02t09.flac:118967c6f37ef9106dc3019c617e00da
+garbage2005-06-02t10.flac:6ce48701dd8fda7c620f1df72c6e1be6
+garbage2005-06-02t11.flac:f069d188102abe29c81400522bc7a45d
+garbage2005-06-02t12.flac:5c1bdd23eef25017afa34df51a2f454c
+garbage2005-06-02t13.flac:a12238b8aa37312eae319c0e35ac4280
+garbage2005-06-02t14.flac:1354828f3bfa6c7ede9ba57475d9601a
+garbage2005-06-02t15.flac:7ca7ec97eee0ca1c0939d52d5d306b1d
+garbage2005-06-02t16.flac:b2e6ef90682a8fdbbcc43ed9b3b1eff6
+garbage2005-06-02t17.flac:f747f8fcc7b137c4141e93af25239ed1
+garbage2005-06-02t18.flac:031a8673249f6936ba4c3f5b0014bc06
+garbage2005-06-02t19.flac:23934946a071d916cb9448f93a3338ea
+garbage2005-06-02t20.flac:af1d663183a5b3f4598a3476252c69f0

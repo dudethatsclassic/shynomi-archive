@@ -48,9 +48,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-22 - San Francisco, CA - The Fillmore (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 1995,
@@ -63,7 +64,8 @@ const ARTIST_DATA = {
       "venue": "Webster Lake",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-04-27 - Webster, MA - Webster Lake (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -76,7 +78,8 @@ const ARTIST_DATA = {
       "venue": "Samford University",
       "notes": "unk",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-04 - Birmingham, AL - Samford University (unk) [SBD].flac.txt"
     },
     {
       "year": 1995,
@@ -89,7 +92,8 @@ const ARTIST_DATA = {
       "venue": "Wetlands Ballroom",
       "notes": "unk",
       "version": "",
-      "format": ""
+      "format": "",
+      "textFile": "1995-08-16 - New York, NY - Wetlands Ballroom (unk) [SBD].flac.txt"
     },
     {
       "year": 1995,
@@ -102,7 +106,8 @@ const ARTIST_DATA = {
       "venue": "The Wetlands",
       "notes": "unk",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-09-13 - New York, NY - The Wetlands (unk) [SBD].txt"
     },
     {
       "year": 1995,
@@ -115,7 +120,8 @@ const ARTIST_DATA = {
       "venue": "White Rabbit",
       "notes": "unk",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-11-08 - Austin, TX - White Rabbit (unk) [SBD].txt"
     },
     {
       "year": 1996,
@@ -126,9 +132,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "328 Performance Hall",
-      "notes": "Awarefest · unk",
+      "notes": "Awarefest \u00b7 unk",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-17 - Nashville, TN - 328 Performance Hall - Awarefest (unk) [SBD].shn.txt"
     },
     {
       "year": 1996,
@@ -141,7 +148,8 @@ const ARTIST_DATA = {
       "venue": "Chameleon Club",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-05-04 - Atlanta, GA - Chameleon Club (unk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -154,7 +162,8 @@ const ARTIST_DATA = {
       "venue": "The Brewery (unk",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-13 - Raleigh, NC - The Brewery (unk) [SBD].txt"
     },
     {
       "year": 1996,
@@ -167,7 +176,8 @@ const ARTIST_DATA = {
       "venue": "White Rabbit",
       "notes": "michael olivier",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-26 - Austin, TX - White Rabbit (michael olivier) [SBD].txt"
     },
     {
       "year": 1997,
@@ -180,7 +190,8 @@ const ARTIST_DATA = {
       "venue": "Record Exchange",
       "notes": "unk",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-04-05 - Charlotte, NC - Record Exchange (unk) [SBD].txt"
     },
     {
       "year": 1997,
@@ -193,7 +204,8 @@ const ARTIST_DATA = {
       "venue": "Ziggy's",
       "notes": "bill lakenan",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-10-17 - Winston Salem, NC - Ziggy's (bill lakenan) [SBD].txt"
     },
     {
       "year": 1997,
@@ -206,7 +218,8 @@ const ARTIST_DATA = {
       "venue": "Alley Katz",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-10-22 - Richmond, VA - Alley Katz (unk) [AUD].txt"
     },
     {
       "year": 1997,
@@ -219,7 +232,8 @@ const ARTIST_DATA = {
       "venue": "Cat's Cradle",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-10-24 - Chapel Hill, NC - Cat's Cradle (unk) [AUD].flac.txt"
     },
     {
       "year": 1997,
@@ -232,7 +246,8 @@ const ARTIST_DATA = {
       "venue": "Mam Kin Music Hall",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-12-26 - Boston, MA - Mam Kin Music Hall (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -245,7 +260,8 @@ const ARTIST_DATA = {
       "venue": "Ziggy's",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-10-09 - Winston Salem, NC - Ziggy's (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -258,7 +274,8 @@ const ARTIST_DATA = {
       "venue": "Ziggy's",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-12-28 - Winston-Salem, NC - Ziggy's (unk) [AUD].txt"
     },
     {
       "year": 1999,
@@ -271,7 +288,8 @@ const ARTIST_DATA = {
       "venue": "Union Building",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-02-12 - Gettysburg, PA - Union Building (unk) [AUD].txt"
     },
     {
       "year": 1999,
@@ -284,7 +302,8 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "notes": "michael oliver",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-04-15 - College Station, TX - Unknown Venue (michael oliver) [SBD].txt"
     },
     {
       "year": 1999,
@@ -297,7 +316,8 @@ const ARTIST_DATA = {
       "venue": "Center City Festival",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-04-25 - Charlotte, NC - Center City Festival (unk) [AUD].txt"
     },
     {
       "year": 1999,
@@ -310,7 +330,8 @@ const ARTIST_DATA = {
       "venue": "Tremont Music Hall",
       "notes": "unk",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-06-24 - Charlotte, NC - Tremont Music Hall (unk) [SBD].txt"
     },
     {
       "year": 1999,
@@ -321,9 +342,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Bowery Ballroom",
-      "notes": "AKG C1000s · allan chen",
+      "notes": "AKG C1000s \u00b7 allan chen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-06-28 - New York, NY - Bowery Ballroom (AKG C1000s) (allan chen) [AUD].flac.txt"
     },
     {
       "year": 1999,
@@ -336,7 +358,8 @@ const ARTIST_DATA = {
       "venue": "Trax",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-08-27 - Charlottesville, VA - Trax (unk) [AUD].txt"
     },
     {
       "year": 1999,
@@ -347,9 +370,10 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Charlottesville, VA",
       "venue": "Trax",
-      "notes": "Sony TC-WE835S · unk",
+      "notes": "Sony TC-WE835S \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-10-28 - Charlottesville, VA - Trax (Sony TC-WE835S) (unk) [AUD].txt"
     },
     {
       "year": 1999,
@@ -360,9 +384,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Winston Salem, NC",
       "venue": "Ziggy's",
-      "notes": "AKG 480 · will foy",
+      "notes": "AKG 480 \u00b7 will foy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-10-30 - Winston Salem, NC - Ziggy's (AKG 480) (will foy) [AUD].txt"
     },
     {
       "year": 1999,
@@ -375,7 +400,8 @@ const ARTIST_DATA = {
       "venue": "Bogarts",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-11-20 - Cincinatti, OH - Bogarts (unk) [AUD].txt"
     },
     {
       "year": 1999,
@@ -388,7 +414,8 @@ const ARTIST_DATA = {
       "venue": "Mississippi Nights",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-12-08 - St. Louis, MO - Mississippi Nights (unk) [AUD].txt"
     },
     {
       "year": 1999,
@@ -399,9 +426,10 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "BJCC Auditorium",
-      "notes": "Core Sound Omnis · shane e. calhoon",
+      "notes": "Core Sound Omnis \u00b7 shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-12-31 - Birmingham, AL - BJCC Auditorium (Core Sound Omnis) (shane e. calhoon) [AUD].txt"
     },
     {
       "year": 2000,
@@ -412,9 +440,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Crest Theater",
-      "notes": "AKG 480-CK61 · allan chen",
+      "notes": "AKG 480-CK61 \u00b7 allan chen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-01-21 - Sacramento, CA - Crest Theater (AKG 480-CK61) (allan chen) [AUD].txt"
     },
     {
       "year": 2000,
@@ -427,7 +456,8 @@ const ARTIST_DATA = {
       "venue": "Irving Plaza",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-16 - New York, NY - Irving Plaza (unk) [AUD].txt"
     },
     {
       "year": 2000,
@@ -438,9 +468,10 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Landover, MD",
       "venue": "FedEx Field",
-      "notes": "VHS(x) · unk",
+      "notes": "VHS(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-28 - Landover, MD - FedEx Field - VHS(x) (unk) [AUD].txt"
     },
     {
       "year": 2000,
@@ -453,7 +484,8 @@ const ARTIST_DATA = {
       "venue": "Jones Beach",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-07-28 - Wantagh, NY - Jones Beach (unk) [AUD].txt"
     },
     {
       "year": 2000,
@@ -464,9 +496,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rockford, IL",
       "venue": "On The Waterfront",
-      "notes": "Core Sound Omnis · shane e. calhoon",
+      "notes": "Core Sound Omnis \u00b7 shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-09-02 - Rockford, IL - On The Waterfront (Core Sound Omnis) (shane e. calhoon) [AUD].txt"
     },
     {
       "year": 2000,
@@ -477,9 +510,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theatre",
-      "notes": "Core Sound Omnis · shane e. calhoon",
+      "notes": "Core Sound Omnis \u00b7 shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-12-02 - Chicago, IL - Chicago Theatre (Core Sound Omnis) (shane e. calhoon) [AUD].txt"
     },
     {
       "year": 2001,
@@ -490,9 +524,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
-      "notes": "Core Sound Omnis · shane e. calhoon",
+      "notes": "Core Sound Omnis \u00b7 shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-05-03 - St. Louis, MO - The Pageant Theatre (Core Sound Omnis) (shane e. calhoon) [AUD].txt"
     },
     {
       "year": 2001,
@@ -505,7 +540,8 @@ const ARTIST_DATA = {
       "venue": "CTNow.com Meadows Music Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-07-20 - Hartford, CT - CTNow.com Meadows Music Center (unk) [AUD].txt"
     },
     {
       "year": 2003,
@@ -518,7 +554,8 @@ const ARTIST_DATA = {
       "venue": "The Chance",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-05-01 - Poughkeepsie, NY - The Chance (unk) [AUD].txt"
     },
     {
       "year": 2003,
@@ -529,9 +566,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Clifton Park, NY",
       "venue": "Northern Lights",
-      "notes": "Rode NT5s · jon freeland",
+      "notes": "Rode NT5s \u00b7 jon freeland",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-05-02 - Clifton Park, NY - Northern Lights (Rode NT5s) (jon freeland) [AUD].txt"
     },
     {
       "year": 2003,
@@ -544,7 +582,8 @@ const ARTIST_DATA = {
       "venue": "Lupo's",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-09-27 - Providence, RI - Lupo's (unk) [AUD].txt"
     },
     {
       "year": 2003,
@@ -557,7 +596,8 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-09-29 - Farmingdale, NY - Unknown Venue (unk) [AUD].txt"
     },
     {
       "year": 2003,
@@ -568,9 +608,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
-      "notes": "Core Sound Stealthy Cardiods · shane e. calhoon",
+      "notes": "Core Sound Stealthy Cardiods \u00b7 shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-10-15 - St. Louis, MO - Mississippi Nights (Core Sound Stealthy Cardiods) (shane e. calhoon) [AUD].txt"
     },
     {
       "year": 2004,
@@ -581,9 +622,10 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Knight's Hall",
-      "notes": "Bellarmine · jon ice",
+      "notes": "Bellarmine \u00b7 jon ice",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-04-03 - Louisville, KY - Knight's Hall - Bellarmine University (jon ice) [AUD].txt"
     },
     {
       "year": 2004,
@@ -594,9 +636,10 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Fourth Street Live",
-      "notes": "AKG CK63 · jon ice",
+      "notes": "AKG CK63 \u00b7 jon ice",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-09-30 - Louisville, KY - Fourth Street Live (AKG CK63) (jon ice) [AUD].txt"
     },
     {
       "year": 2004,
@@ -607,9 +650,10 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "930 Club",
-      "notes": "Rode NT5s · jon freeland",
+      "notes": "Rode NT5s \u00b7 jon freeland",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-10-08 - Washington, D.C. - 930 Club (Rode NT5s) (jon freeland) [AUD].txt"
     },
     {
       "year": 2005,
@@ -620,9 +664,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "Unknown Venue",
-      "notes": "SP-CMC-22 · matt wedick",
+      "notes": "SP-CMC-22 \u00b7 matt wedick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-07-19 - Orlando, FL - Unknown Venue (SP-CMC-22) (matt wedick) [AUD].txt"
     },
     {
       "year": 2005,
@@ -659,9 +704,10 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "930 Club",
-      "notes": "Rode NT5s · jon freeland",
+      "notes": "Rode NT5s \u00b7 jon freeland",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-08-04 - Washington, D.C. - 930 Club (Rode NT5s) (jon freeland) [AUD].txt"
     },
     {
       "year": 2005,
@@ -672,9 +718,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "notes": "DPA 4022s · scott brown + christopher jones",
+      "notes": "DPA 4022s \u00b7 scott brown + christopher jones",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-08-12 - New York, NY - Irving Plaza (DPA 4022s) (scott brown + christopher jones) [AUD].txt"
     },
     {
       "year": 2005,
@@ -685,9 +732,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga Springs, NY",
       "venue": "High Rock Pub at Prime Hotel",
-      "notes": "Core Sound HEB · smores",
+      "notes": "Core Sound HEB \u00b7 smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-09-09 - Saratoga Springs, NY - High Rock Pub at Prime Hotel (Core Sound HEB) (smores) [AUD].txt"
     },
     {
       "year": 2005,
@@ -698,9 +746,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "Harrah's Casino",
-      "notes": "Voodoo · Studio Projects C4s · shane e. calhoon",
+      "notes": "Voodoo \u00b7 Studio Projects C4s \u00b7 shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-10-06 - Maryland Heights, MO - Harrah's Casino - Voodoo Cafe & Lounge (Studio Projects C4s) (shane e. calhoon) [AUD].txt"
     },
     {
       "year": 2009,
@@ -711,9 +760,10 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Toad's Place",
-      "notes": "MC-930s · steve walkuski",
+      "notes": "MC-930s \u00b7 steve walkuski",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-10-27 - New Haven, CT - Toad's Place (MC-930s) (steve walkuski) [AUD].txt"
     },
     {
       "year": 2009,
@@ -724,9 +774,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Borders on State Street",
-      "notes": "In-store · CA-14s · brian emerick",
+      "notes": "In-store \u00b7 CA-14s \u00b7 brian emerick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2009-11-06 - Chicago, IL - Borders on State Street (In-store) (CA-14s) (brian emerick) [AUD24].txt"
     },
     {
       "year": 2009,
@@ -737,9 +788,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Double Door",
-      "notes": "CA-14s · brian emerick",
+      "notes": "CA-14s \u00b7 brian emerick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2009-11-06 - Chicago, IL - The Double Door (CA-14s) (brian emerick) [AUD24].txt"
     },
     {
       "year": 2013,
@@ -750,9 +802,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Earthfest",
-      "notes": "SP-CMC-2 · unk",
+      "notes": "SP-CMC-2 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-05-18 - Boston, MA - Earthfest (SP-CMC-2) (unk) [AUD].txt"
     },
     {
       "year": 2015,
@@ -763,9 +816,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Crystal Lake, IL",
       "venue": "Lakeside Legacy Arts Park",
-      "notes": "Zoom H1 · acady",
+      "notes": "Zoom H1 \u00b7 acady",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-07-02 - Crystal Lake, IL - Lakeside Legacy Arts Park (Zoom H1) (acady) [AUD].txt"
     },
     {
       "year": 2018,
@@ -776,9 +830,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Express Live",
-      "notes": "CA-14s · live2cd",
+      "notes": "CA-14s \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-06-06 - Columbus, OH - Express Live (CA-14s) (live2cd) [AUD].txt"
     },
     {
       "year": 2021,
@@ -789,9 +844,10 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Vienna, VA",
       "venue": "Wolf Trap",
-      "notes": "Phone · saevurr",
+      "notes": "Phone \u00b7 saevurr",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2021-08-19 - Vienna, VA - Wolf Trap (Phone) (saevurr) [AUD-LOSSY].txt"
     },
     {
       "year": 2024,
@@ -802,9 +858,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Norwegian Jade",
       "venue": "Stardust Theater",
-      "notes": "Summer · Edirol R09HR · unk",
+      "notes": "Summer \u00b7 Edirol R09HR \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-04-27 - Norwegian Jade - Stardust Theater - Summer of 99 & Beyond (Edirol R09HR) (unk) [AUD].txt"
     },
     {
       "year": 2024,
@@ -815,9 +872,10 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Essex Junction, VT",
       "venue": "Champlain Valley Fairgrounds and Exposition Center",
-      "notes": "Sony PCM-A10 · darren phaneuf",
+      "notes": "Sony PCM-A10 \u00b7 darren phaneuf",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-08-24 - Essex Junction, VT - Champlain Valley Fairgrounds and Exposition Center (Sony PCM-A10) (darren phaneuf) [AUD].txt"
     },
     {
       "year": 2025,
@@ -828,9 +886,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Del Mar, CA",
       "venue": "The Sound",
-      "notes": "Matt · AKG C414 XLS · dave mallick",
+      "notes": "Matt \u00b7 AKG C414 XLS \u00b7 dave mallick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-04-05 - Del Mar, CA - The Sound - Matt Scannell (AKG C414 XLS) (dave mallick) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -841,9 +900,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The Columbus Athenaeum",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-08-13 - Columbus, OH - The Columbus Athenaeum (SP-CMC-8) (live2cd) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -854,9 +914,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Palace Theatre",
-      "notes": "Sony PCM-A10 · shane e. calhoon",
+      "notes": "Sony PCM-A10 \u00b7 shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-10-03 - Albany, NY - Palace Theatre (Sony PCM-A10) (shane e. calhoon) [AUD].txt"
     },
     {
       "year": 2025,
@@ -867,9 +928,10 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Concord, NH",
       "venue": "Chubb Theatre",
-      "notes": "Sony PCM-A10 · shane e. calhoon",
+      "notes": "Sony PCM-A10 \u00b7 shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-10-05 - Concord, NH - Chubb Theatre (Sony PCM-A10) (shane e. calhoon) [AUD].txt"
     },
     {
       "year": 2025,
@@ -880,9 +942,10 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "notes": "Sony PCM-A10 · shane e. calhoon",
+      "notes": "Sony PCM-A10 \u00b7 shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-10-06 - Portland, ME - State Theatre (Sony PCM-A10) (shane e. calhoon) [AUD].txt"
     }
   ],
   "misc": []

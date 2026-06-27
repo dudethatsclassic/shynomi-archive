@@ -1,0 +1,56 @@
+John Mayer
+Summer 2008 Tour
+July 23, 2008
+California Mid-State Fair
+Paso Robles, CA
+
+Source:         Sony ECM-719 > Olympus LS-10
+Conversion:     LS-10 > WAV > FLAC Frontend
+Taper:          Debbie Ocoboc (docoboc.u@yuku.com)
+Transferred By: Claude Sawyer (csawyer@tapergeek.com)
+
+
+01. Bigger Than My Body
+02. Vultures
+03. I Don't Trust Myself (With Loving You)
+04. Crossroads
+05. Stitched Up
+06. Waiting on the World to Change
+07. Mercy
+08. Belief
+09. No Such Thing > Why Georgia
+10. Say
+11. Stop This Train
+12. Free Falling
+13. Gravity
+
+FLAC Fingerprint
+jmayer2008-07-23t01.flac:1a5cfb0a620210c9947d4acb7a58ee5a
+jmayer2008-07-23t02.flac:8b8eaeb907cd783a11a8ff6349989680
+jmayer2008-07-23t03.flac:0af17baee732668707278c3e43dad680
+jmayer2008-07-23t04.flac:83c6a44b236e527afc5baedb2ec75ef5
+jmayer2008-07-23t05.flac:c634578d7f6833a32fbefb54e066f5ee
+jmayer2008-07-23t06.flac:e5bdec9b024d62d708b647abbf528f6d
+jmayer2008-07-23t07.flac:9f3d5f362e2c347318b68acc4d6ce59b
+jmayer2008-07-23t08.flac:b261a4b34e0946ddc6949c8b82f2d211
+jmayer2008-07-23t09.flac:db785fbbc2e1ce4512226e585b7f463b
+jmayer2008-07-23t10.flac:30d32de11225a133f35fb140567cb10c
+jmayer2008-07-23t11.flac:aa6292067a33bef0782944b9c50be246
+jmayer2008-07-23t12.flac:747bba156f3fb36249b3c3ac9a90a9ec
+jmayer2008-07-23t13.flac:09bd4c7744fac2eb2875a8c9ec22c213
+
+MD5 Checksum
+3d02f9b5219b3116964b64c69137a002 *jmayer2008-07-23t01.flac
+69090e4968fdb52f27b3929760bb8adc *jmayer2008-07-23t02.flac
+2846a8ce6b643af50528b25f493f510a *jmayer2008-07-23t03.flac
+628892ed5296ec09c72ca9e3af0a8d11 *jmayer2008-07-23t04.flac
+50349a00c2d534eed1232a17dd3e2d0f *jmayer2008-07-23t05.flac
+e03a33b6b0c1d148f5d4e9b2f7997486 *jmayer2008-07-23t06.flac
+27ca9b02d3920383e2bf8fe9f31d3114 *jmayer2008-07-23t07.flac
+6a6a7ca0139fe097de7bedcadf00a720 *jmayer2008-07-23t08.flac
+23a0179ca59711fcbc26cb2cae05c47a *jmayer2008-07-23t09.flac
+92928daca13389daebac46758b28c5a5 *jmayer2008-07-23t10.flac
+34993b4433226bab542113b5ebd70663 *jmayer2008-07-23t11.flac
+62da87861ed89698ce12075fbccfb2a8 *jmayer2008-07-23t12.flac
+2fff930a10fcabb73140c8ac68914e85 *jmayer2008-07-23t13.flac
+

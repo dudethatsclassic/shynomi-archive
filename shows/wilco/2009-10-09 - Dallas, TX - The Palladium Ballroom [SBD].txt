@@ -1,0 +1,69 @@
+Wilco
+The Palladium Ballroom
+Dallas, TX
+October 9, 2009
+
+Source: Soundboard -> Korg MR-1 (24/48)
+Transfer: Korg MR-1 -> Audacity (16/44) -> CD Wave -> FLAC
+
+1. Wilco (the Song)
+2. A Shot in the Arm
+3. One Wing
+4. I Am Trying to Break Your Heart
+5. Bull Black Nova
+6. You Are My Face
+7. Company in My Back
+8. Kamera
+9. Handshake Drugs
+10. I'll Fight
+11. Cars Can't Escape
+12. Impossible Germany
+13. Sonny Feeling
+14. Hate It Here
+15. "Sartorial Interlude"
+16. Walken
+17. I'm the Man Who Loves You
+18. Hummingbird
+Encore:
+19. Theologians
+20. Jesus, Etc.
+21. Can't Stand It
+22. You Never Know (with Liam Finn)
+Encore 2:
+23. The Late Greats
+24. Heavy Metal Drummer
+25. Kingpin
+26. Casino Queen
+27. Hoodoo Voodoo
+28. I'm a Wheel
+
+
+
+wilco2009-10-09t01.flac:1337dfd100da944aec9c8cbdcc26713f
+wilco2009-10-09t02.flac:5786cde21e63bc3b29e57f023ab2f651
+wilco2009-10-09t03.flac:5b3f98c6b16ed3c396f289b5e2745b23
+wilco2009-10-09t04.flac:ed514965592944bb801c326c4919a20f
+wilco2009-10-09t05.flac:b87cfed561a9da635844ebf39adcffc4
+wilco2009-10-09t06.flac:2566a2ad1e1a2cc7575ce72df268c036
+wilco2009-10-09t07.flac:b6cc54bc2854c558fa304ca8abc06bb9
+wilco2009-10-09t08.flac:8926d7c7acbb18afc33fc6353f100973
+wilco2009-10-09t09.flac:128768c7287ab522f28c2256fc7e9e30
+wilco2009-10-09t10.flac:fc4900d17a0e1eb0962e077e5a6bd85f
+wilco2009-10-09t11.flac:6bbf8766b87c61f4cd1da4b09235c841
+wilco2009-10-09t12.flac:9629859203e6725fff554045f14f0b3e
+wilco2009-10-09t13.flac:bf6b2c1365fdaadd6817cdbb2d5b9f6f
+wilco2009-10-09t14.flac:3a8fcd401eacdc52b6c90cf00a20cb93
+wilco2009-10-09t15.flac:aba5fb36f8351b39039e49dfadd55d82
+wilco2009-10-09t16.flac:e1e43feb5d7e81984e16556a12ce3b65
+wilco2009-10-09t17.flac:6ff4c0ef8740c1e353759ba9e78a750e
+wilco2009-10-09t18.flac:cbe00c87d29bbacd5182ba27e341d2d6
+wilco2009-10-09t19.flac:277f56fd6fdce9a7b353a4de4905ab7c
+wilco2009-10-09t20.flac:8eb7921393a0e6c5ea3fcfabe687dcea
+wilco2009-10-09t21.flac:0fde71b74b420a01aaa587cf069485e1
+wilco2009-10-09t22.flac:0b337bd9d1692acd6e51f78335a1fb03
+wilco2009-10-09t23.flac:2a59b1b0bf2d6efba48f7c53bead49c6
+wilco2009-10-09t24.flac:2087ee9e92b5807cbf0f5a87bf0d3dfd
+wilco2009-10-09t25.flac:06fc8cec64d97effab1f4724b4d2e03f
+wilco2009-10-09t26.flac:c7c42382babea930ff82fbbb3a6fc85e
+wilco2009-10-09t27.flac:d6049d28a7b9cea8dcd283ca7b33e79f
+wilco2009-10-09t28.flac:5016c1f3809736d9092e9dc1bce9fe70

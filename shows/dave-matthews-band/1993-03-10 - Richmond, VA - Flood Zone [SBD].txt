@@ -1,0 +1,43 @@
+Dave Matthews Band
+March 10, 1993
+Flood Zone
+Richmond, VA
+
+Miguel Valdez Benefit
+
+Source: DSBD/ASBD 
+
+Conversion: DAT> U2A (optical in)> DELL I8200> Cool Edit> CD wave
+
+Do Not Encode To MP3
+
+Disk I
+
+d1t1: Warehouse
+d1t2: One Sweet World
+d1t3: Granny
+d1t4: Rhyme and Reason
+d1t5: #34
+
+Disk II
+
+d2t1: All Along The Watchtower
+d2t2: Jimi Thing
+d2t3: Pay For What Your Get ^
+d2t4: Best of What's Around ^
+d2t5: Recently ^*
+
+notes:
+all songs with Ernesto LaBois (name spelling?),Tim Reynolds, and Peter Griesar
+
+^ this is when the dsbd dat ended, an analog tape was edited in, after Pay
+For What You Get it fades in around 6:03 fades were used both in and out.
+
+* this song is cut after about 59 seconds, faded out at the end.
+
+Some minor spots of diginoise and other sounds, this is all present 
+on the actual DAT youll probably never hear most of it so dont worry about it.
+
+Thanks to Jake Vigliotti and Eric Naylor for help with the ASBD tracks.
+
+reconverted and edited by: Eric Phipps (phippsce@muohio.edu) 1.22.03

@@ -1,0 +1,43 @@
+Dave Matthews Band
+12.11.92
+Lexington, VA
+
+
+Source:  SBD > Anlg (Unknown Gen.) > CD
+Conversion:  Optimus SCT-86 (Dolby NR) > Pioneer PDR-555RW [Eric Naylor]
+SHN:  Chris Manichanh [chris_83_01@yahoo.com] EAC v0.9pb7 > MKW Audio Compression Tool
+
+
+**DO NOT COMPRESS THIS SHOW INTO MP3 FORMAT**
+
+
+track           name                              time (m:s)
+------------------------------------------------------------
+d1t01           Pay for What You Get              04:57.94
+d1t02           Lie in Our Graves                 04:32.58
+d1t03           Warehouse                         08:54.16
+d1t04           Tripping Billies                  05:16.16
+d1t05           Boyd Tinsley Surprise *           04:01.10
+d1t06           The Maker                         05:57.92
+d1t07           True Reflections #                05:14.84
+d1t08           Two Step                          13:23.52
+d1t09           [Encore] Jam $ >                  09:36.50
+d1t10           Typical Situation                 07:01.53
+ total 68:56.2
+------------------------------------------------------------
+
+
+Notes:
+* the band urges Boyd to give the crowd the "Boyd Tinsley Surprise," which is a long violin jam
+# this song was cut off by the end of the analog tape
+$ this is a long jam medley, featuring part of "Little Drummer Boy"
+
+I did this conversion due to the shear rarity of this show.  I have never seen anyone else who
+had this, so I put my copy to CD.  I used Dolby NR to reduce the hiss, and the sound came out
+decent.  I'm fairly certain that set 1 is missing, but I have no way of knowing for sure because
+there are no records of this show anywhere.
+
+
+Compiled by Eric Naylor
+dmbtrade@hotmail.com
+3/15/00

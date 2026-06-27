@@ -1,0 +1,44 @@
+Wilco
+Cirkus, Stockholm,
+Sweden
+2010-05-23
+May 23 2010
+
+Source: CA STC-11 -> CA bbox -> iRiver H320 (rockbox)
+Transfer: iRiver -> usb -> hdd -> soundforge(normalize) -> cdwave -> tlh -> flac
+
+01. Intro
+02. Wilco (the song) *
+03. I am Trying To break Your Heart
+04. Bull Black Nova
+05. You Are My Face
+06. One Wing
+07. A Shot In The Arm
+08. Radio Cure
+09. Either Way
+10. One By One
+11. Sonny Feeling
+12. Handshake Drugs
+13. Deeper Down
+14. Impossible Germany
+15. Via Chicago
+16. I'll Fight
+17. War On War
+18. Jesus, Etc.
+19. You Never Know
+20. Heavy Metal Drummer
+21. Passenger Side
+22. Hate It Here
+23. Walken
+24. I'm The Man Who Loves You
+25.  - encore break -
+26. The Late Greats
+27. Hoodoo Voodoo
+28. Hummingbird
+29. On and On and On
+
+* incomplete due to mic problems
+
+Recorded, transfered and uploaded to DaD by pata63 in May 2010.
+
+Don't convert and share. Keep those crappy mp3's to yourself!

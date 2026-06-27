@@ -24,9 +24,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Split Rail",
-      "notes": "Sonic Studios · markp",
+      "notes": "Sonic Studios \u00b7 markp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-03-16 - Austin, TX - Split Rail (Sonic Studios) (markp) [AUD].txt"
     },
     {
       "year": 1998,
@@ -39,7 +40,8 @@ const ARTIST_DATA = {
       "venue": "Rathskeller",
       "notes": "University",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-04-18 - Madison, WI - Rathskeller - University of WI [SBD].txt"
     },
     {
       "year": 2008,
@@ -50,9 +52,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
-      "notes": "Peluso CEMC-6-CK4 · larry tucker",
+      "notes": "Peluso CEMC-6-CK4 \u00b7 larry tucker",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-10-03 - Carrboro, NC - Cat's Cradle (Peluso CEMC-6-CK4) (larry tucker) [AUD].txt"
     },
     {
       "year": 2011,
@@ -63,9 +66,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Greenfield, MA",
       "venue": "Green River Festival",
-      "notes": "Zoom H2 · unk",
+      "notes": "Zoom H2 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-07-16 - Greenfield, MA - Green River Festival (Zoom H2) (unk) [AUD].txt"
     },
     {
       "year": 2013,
@@ -76,9 +80,10 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "notes": "Schoeps CCM4V · z-man",
+      "notes": "Schoeps CCM4V \u00b7 z-man",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-03-09 - Portland, ME - State Theatre (Schoeps CCM4V) (z-man) [AUD].txt"
     },
     {
       "year": 2013,
@@ -91,7 +96,8 @@ const ARTIST_DATA = {
       "venue": "Capitol Theatre",
       "notes": "unk",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-03-15 - Port Chester, NY - Capitol Theatre (unk) [SBD].txt"
     },
     {
       "year": 2014,
@@ -102,9 +108,10 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Annapolis, MD",
       "venue": "Annapolis Smokehouse and Tavern",
-      "notes": "MBHO603A-KA200 · kubacheck",
+      "notes": "MBHO603A-KA200 \u00b7 kubacheck",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-06-01 - Annapolis, MD - Annapolis Smokehouse and Tavern (MBHO603A-KA200) (kubacheck) [AUD].txt"
     },
     {
       "year": 2026,
@@ -115,9 +122,10 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "930 Club",
-      "notes": "Gefell MV400L · alex leary",
+      "notes": "Gefell MV400L \u00b7 alex leary",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-04-04 - Washington, DC - 930 Club (Gefell MV400L) (alex leary) [AUD24].txt"
     }
   ],
   "misc": []

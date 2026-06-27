@@ -1,0 +1,56 @@
+Wilco
+September 16, 2012
+Live on 9th Street
+The Blue Note
+Columbia, MO
+
+Source: AKG C480B / CK61-ULS's (DIN) > Naiant Littlebox > Sony PCM-M10 (16/44.1)
+Location: FOH (in SBD cage), ~3' LOC, ~50' from stage, ~8' high
+Transfer: PCM-M10 > USB > Audacity 1.3.13-beta (fades, normalize, amplify, splits) > WAV > FLAC Frontend 1.7 (Level 5) + FLAC 1.2.1 > FLAC
+Taped and Transferred by Chris Finn (cfinn@primary.net)
+
+One Set
+01. Crowd
+02. Misunderstood
+03. Art of Almost
+04. I Might
+05. Bull Black Nova
+06. At Least That's What You Said
+07. Spiders (Kidsmoke)
+08. Banter (Columbia)
+09. Impossible Germany
+10. Born Alone * >
+11. Laminated Cat
+12. One Wing
+13. Banter (New Madrid Into)
+14. New Madrid
+15. Banter (Special for You)
+16. Handshake Drugs
+17. Hummingbird
+18. Banter (Jonathan Richman)
+19. Whole Love
+20. Banter (Sound Check)
+21. Box Full of Letters
+22. Banter (Almost Any Woman)
+23. I'm Always In Love
+24. Heavy Metal Drummer >
+25. I'm the Man Who Loves You
+26. Dawned on Me
+27. A Shot in the Arm
+28. Crowd
+
+Encore
+29. Via Chicago
+30. Banter (The Whole Love)
+31. Passenger Side
+32. Banter (A Few More)
+33. Christ for President
+34. Candyfloss
+35. Casino Queen >
+36. Outtasite (Outta Mind)
+
+Notes
+* with false start
+
+Outside show on 9th street (outside The Blue Note)
+Jonathan Richman opened

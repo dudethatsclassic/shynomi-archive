@@ -1,0 +1,62 @@
+Soul Coughing
+October 23, 1998
+Irving Plaza
+NYC NY
+
+*** THIS IS A 16-BIT FILESET INTENDED FOR AUDIO CD ***
+
+SOURCE:  schoeps cmc6/mk4 > sonosax sx-m2 > sony pcm-m1
+PROCESSING:  sony r500 > zefiro acoustics za-2 > soundforge 4.5 (normalization, tracking, fades, resample) > goldenhawk cd-rwin > audio CD master
+EXTRACTION:  EAC 0.95 prebeta 5 (logs included) > flac 1.20a (level 8)
+
+DISK ONE
+01  intro > Screenwriter's Blues
+02  Rolling >
+03  Monster Man
+04  Soundtrack to Mary >
+05  Soft Serve
+06  Blue-Eyed Devil
+07  The Idiot Kings
+08  Maybe I'll Come Down
+09  $300
+10  Circles
+11  Bus To Beelzebub
+12  I Miss The Girl
+13  St. Louise Is Listening
+14  White Girl
+15  Is Chicago, Is Not Chicago
+
+DISK TWO
+01  Mr. Bitterness
+02  Girl In A Box >
+03  Moon Sammy
+
+ENCORE
+
+04  True Dreams of Wichita
+05  Blame
+06  Super Bon Bon
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     8:15.70       87482684 B   ---   --   ---xx   flac  0.4948  soulcoughing1998-10-23_mk4_d1t01.flac
+     4:40.15       49427324 B   ---   --   ---xx   flac  0.5728  soulcoughing1998-10-23_mk4_d1t02.flac
+     3:58.06       41997356 B   ---   --   ---xx   flac  0.5537  soulcoughing1998-10-23_mk4_d1t03.flac
+     2:48.05       29647004 B   ---   --   ---xx   flac  0.5307  soulcoughing1998-10-23_mk4_d1t04.flac
+     4:29.63       47599820 B   ---   --   ---xx   flac  0.5149  soulcoughing1998-10-23_mk4_d1t05.flac
+     6:07.14       64771772 B   ---   --   ---xx   flac  0.5554  soulcoughing1998-10-23_mk4_d1t06.flac
+     4:10.15       44135324 B   ---   --   ---xx   flac  0.5423  soulcoughing1998-10-23_mk4_d1t07.flac
+     6:47.04       71804252 B   ---   --   ---xx   flac  0.4389  soulcoughing1998-10-23_mk4_d1t08.flac
+     4:30.02       47632748 B   ---   --   ---xx   flac  0.5440  soulcoughing1998-10-23_mk4_d1t09.flac
+     3:46.20       39913484 B   ---   --   ---xx   flac  0.5146  soulcoughing1998-10-23_mk4_d1t10.flac
+     5:11.17       54900428 B   ---   --   ---xx   flac  0.5592  soulcoughing1998-10-23_mk4_d1t11.flac
+     5:29.02       58040348 B   ---   --   ---xx   flac  0.5687  soulcoughing1998-10-23_mk4_d1t12.flac
+     4:27.72       47268188 B   ---   --   ---xx   flac  0.5442  soulcoughing1998-10-23_mk4_d1t13.flac
+     2:49.47       29922188 B   ---   --   ---xx   flac  0.5519  soulcoughing1998-10-23_mk4_d1t14.flac
+     3:54.55       41407004 B   ---   --   ---xx   flac  0.5555  soulcoughing1998-10-23_mk4_d1t15.flac
+     6:01.18       63722780 B   ---   --   ---xx   flac  0.6075  soulcoughing1998-10-23_mk4_d2t01.flac
+     0:39.61        7023116 B   ---   --   ---xx   flac  0.4492  soulcoughing1998-10-23_mk4_d2t02.flac
+     6:48.48       72084140 B   ---   --   ---xx   flac  0.5561  soulcoughing1998-10-23_mk4_d2t03.flac
+     5:04.46       53733836 B   ---   --   ---xx   flac  0.4558  soulcoughing1998-10-23_mk4_d2t04.flac
+     4:29.59       47590412 B   ---   --   ---xx   flac  0.5477  soulcoughing1998-10-23_mk4_d2t05.flac
+     5:33.20       58788284 B   ---   --   ---xx   flac  0.5789  soulcoughing1998-10-23_mk4_d2t06.flac
+   100:02.59     1058892492 B                            0.5368  (21 files)

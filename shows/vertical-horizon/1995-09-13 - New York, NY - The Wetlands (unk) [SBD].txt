@@ -1,0 +1,47 @@
+Vertical Horizon
+The Wetlands
+New York City, New York
+9.13.95
+
+Taper: Unknown
+Source Info: SBD>DAT
+Conversion: Sony PCM-M1 > Hosa 1M > SEKD Prodif plus > HP7200e (Fred Goodwin)
+Seed Provider: Matt Edlhuber
+Media: 2 cdrs. or 1x60m DAT
+
+Disc One
+Track 	|	Name					|	Time (MM:SS)
+----------------------------------------------------------------------------
+d1t01	Introduction						00:21	
+d1t02	Falling Down						05:21
+d1t03	The Moutain Song					03:46
+d1t04	Famous							03:04
+d1t05	Call It Even						04:33
+d1t06	Fragments						04:37
+d1t07	Japan							05:19
+d1t08	Footprints In The Snow					05:36
+d1t09	Love's Light *						04:09
+d1t10	Life In The City					06:10
+d1t11	Candyman						05:00
+d1t12	Heart In Hand						05:15
+Total:								53:11
+
+Disc Two
+Track 	|	Name					|	Time (MM:SS)
+----------------------------------------------------------------------------
+d2t01	Message In A Bottle-->On The Sea			08:16
+d2t02	Liberty *						03:47
+d2t03	The Man Who Would Be Santa				04:59
+d2t04	Trying To Find Purpose					04:30
+d2t05	Wash Away						09:20
+d2t06	E1:Sunrays & Saturdays **				04:00
+d2t07	E1:Promise Of Tomorrow					06:17
+d2t08	E2:Minarets Tease->Walking On The Moon->Watchtower	09:15
+Total:								50:24
+
+Notes:
+* Keith Solo
+** Matt Solo
+- Devin Lyles on drums
+
+Compiled by:  Ray Domingue <rpd004@yahoo.com>

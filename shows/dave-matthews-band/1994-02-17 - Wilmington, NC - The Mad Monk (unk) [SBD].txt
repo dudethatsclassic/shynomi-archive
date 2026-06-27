@@ -1,0 +1,36 @@
+Dave Matthews Band
+The Mad Monk
+Wilmington, NC
+February 17, 1994
+
+Taper:      	Unknown
+Source Info:    SBD -> Cassette (unknown generation) -> CD
+Conversion: 	Adam Nelson (nelso222@msu.edu) + Henry Hart
+CD > flac:  	EAC (secure mode, all tracks 100%) -> WAV -> flac frontend (level 6)
+Tracks split using CD Wave v1.93.3 > Adobe Audition 2024 > CD Wave Editor v1.98 to .flac, level 8
+Mixing (2025):	pitch/speed correction +0.4 semitones, various volume and fade in/out adjustments
+
+SET I:
+01 - One Sweet World				09:26
+02 - Tripping Billies				04:59
+03 - Satellite					06:46
+04 - Song That Jane Likes			04:06
+05 - Help Myself				05:11
+06 - Angel From Montgomery			06:32
+07 - What Would You Say				06:01
+
+SET II:
+08 - Minarets (ending) > Typical Situation	11:40
+09 - Jimi Thing					12:02
+10 - Lover Lay Down				07:53
+11 - True Reflections				07:03	
+==========
+12 - Ants Marching				04:53
+
+This recording is incomplete as most of the second set and possibly some of the first is missing.
+
+This original conversion circulated with the Minarets> Typical, Jimi as the encore, which it obviously wasn't, so it moves those songs to their standard position in the set. There are several cuts between songs which suggests the taper intended to fit as much of the show on a 90-minute cassette as possible and these songs were simply placed out of order for some reason.
+
+This 2025 reconversion also increases the speed/pitch of the tape by almost a half semitone.
+
+Compiled by Henry Hart on behalf of the dmbalmanac on 4.20.2025

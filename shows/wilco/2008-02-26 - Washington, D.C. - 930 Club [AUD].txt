@@ -1,0 +1,81 @@
+Wilco
+February 26, 2008
+9:30 Club
+Washington DC
+
+**16 bit source**
+
+Source: B&K 4022(xy)>V2>744T @ 24/48
+Transfer: 744T > WaveLab 6.01b (fades/resample/UV22) > flac 8
+Taped & transferred by John Paradiso
+
+One Set:
+Disc One:
+01 intro
+02 (Was I) In Your Dreams
+03 Blood Of The Lamb
+04 You Are My Face
+05 Pot Kettle Black
+06 A Shot In The Arm
+07 Side With The Seeds
+08 Pieholden Suite
+09 Impossible Germany
+10 Sky Blue Sky
+11 Handshake Drugs
+12 Too Far Apart
+13 Summer Teeth
+14 Jesus, Etc
+15 Walken
+16 I´m The Man Who Loves You
+17 Hummingbird
+18 A Magazine Called Sunset
+
+Disc Two:
+01 Red Eyed And Blue
+02 I Got You (At The End Of The Century)
+03 Monday
+04 Outtamind (Outta Sight)
+05 pre-encore crowd
+06 Hate It Here
+07 Can't Stand It
+08 The Thanks I Get
+09 Just A Kid
+10 pre-encore crowd
+11 Shouldn't Be Ashamed
+12 War On War
+13 Heavy Metal Drummer
+14 Late Greats
+
+
+wilco2008-02-26d1t01 Intro.flac:c07865613047c8b4ac3883322fd17e8f
+wilco2008-02-26d1t02 (Was I) In Your Dreams.flac:35b15f8280294b33e78eb7893694a413
+wilco2008-02-26d1t03 Blood of The Lamb.flac:64a65a40d95d8694507c997042d9468c
+wilco2008-02-26d1t04 You Are My Face.flac:9a55aa62ae5e6deb7c953139f869cd67
+wilco2008-02-26d1t05 Pot Kettle Black.flac:5510f556dea83a1bcdbc4b6ea41d8cfb
+wilco2008-02-26d1t06 Shot in The Arm.flac:b9dcf3ce5a9eb6c781b9f54a58f0e481
+wilco2008-02-26d1t07 Side With The Seeds.flac:74f173bcc8dca66844cb6efb175ca755
+wilco2008-02-26d1t08 Pieholden Suite.flac:c8bb8133ab427808bea949fe0ffb637c
+wilco2008-02-26d1t09 Impossible Germany.flac:6bfeb184f76b98ebe6528a4ab1d7ce25
+wilco2008-02-26d1t10 Sky Blue Sky.flac:ae3696d41f22a7ad8674004d286b31d7
+wilco2008-02-26d1t11 Handshake Drugs.flac:0b31102e1b95f9a0b9107255d2126929
+wilco2008-02-26d1t12 Too Far Apart.flac:6fc6546e4d9b2faae2b56a03cdaf6a69
+wilco2008-02-26d1t13 summerteeth.flac:0f4dc3b8edfa8a65b3470b8707927f68
+wilco2008-02-26d1t14 Jesus - Etc.flac:62740af63b7e06ca63c335ecb3fa0330
+wilco2008-02-26d1t15 Walken.flac:3ec6c688734268c0a0cda042907117e2
+wilco2008-02-26d1t16 I'm The Man Who Loves You.flac:87244d0ac8e2dc3e02be2c6e1f230b7c
+wilco2008-02-26d1t17 Hummingbird.flac:dd70216052f1bf8a0a5112ca3e6bc057
+wilco2008-02-26d1t18 A Magazine Called Sunset.flac:e823321d0f46475866eec9c63891fcc8
+wilco2008-02-26d2t01 Red Eyed And Blue -.flac:a681944ea7947f4faa54b502db359b74
+wilco2008-02-26d2t02 I Got You (At The End Of The Century).flac:8b95eb214ab3bb901e00e04f67e7e1e7
+wilco2008-02-26d2t03 Monday.flac:59c984fb0da8c34f55122ab0214d37a3
+wilco2008-02-26d2t04 Outtamind (Outa Site).flac:bfe654ec591685d403bd4c3da7e882ef
+wilco2008-02-26d2t05 pre-encore crowd.flac:e7b2f5164d52135837f9317fd8bab081
+wilco2008-02-26d2t06 Hate It Here.flac:8a79ef463d02fb875cfa51dfd0649b6c
+wilco2008-02-26d2t07 Can't Stand It.flac:cd28aa5c1c7a270505d0d3e9c92680ef
+wilco2008-02-26d2t08 The Thanks I Get.flac:055a3fd03b9a68d541c2f9e736adba6f
+wilco2008-02-26d2t09 Just A Kid.flac:b664ca91c51678221e12f1d0ea3673a6
+wilco2008-02-26d2t10 pre-encore crowd.flac:cf96d8e48a9b137c6ebed350c0baef86
+wilco2008-02-26d2t11 Shouldn't Be Ashamed.flac:0bb262ff9150a5af76b57c6a80adf8a3
+wilco2008-02-26d2t12 War on War.flac:dc31eae0fecce1cf8e54d6e7242f58c5
+wilco2008-02-26d2t13 Heavy Metal Drummer.flac:18b49bfcd179a1cdd50e68d247db0cbc
+wilco2008-02-26d2t14 Late Greats.flac:7da0f7ad409b0287564124094170ed54

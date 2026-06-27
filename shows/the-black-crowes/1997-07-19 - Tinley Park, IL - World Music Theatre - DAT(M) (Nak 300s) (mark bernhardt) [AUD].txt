@@ -1,0 +1,31 @@
+The Black Crowes @ the Furthur Festival
+World Music Theater
+Tinley Park, IL
+July 19, 1997
+
+Source: Nak 300s (most likely) > DAT (48k)
+
+Transfer: DAT/m in Tascam DA30-MKII > Sound Devices 722 (AES/EBU) > Audacity (flip phase on right channel) > Audiogate (fades, tracking, re-samle to 44.1) > xACT (flac 8 w/ SBA & tags)
+
+Recorded by Mark Bernhardt, transferred by taperjoe.
+
+1. Intro
+2. Remedy
+3. Stare It Cold
+4. If It Ever Stops Raining
+5. Sloppy Drunk*
+6. Bad Luck Blue Eyes Goodbye
+7. Nonfiction > **
+8. Hard To Handle***
+Encore / Finale jam:
+9. tuning
+10. Feelin' Alright
+11. Chain Of Fools
+12. Got My Mojo Workin'
+13. Knocking On Heaven's Door
+
+* w/ Jorma
+** w/ Dave Ellis on sax
+*** w/ Bob Weir
+
+Thanks to Mark for taping & sending the DATs to transfer!

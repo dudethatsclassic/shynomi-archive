@@ -1,0 +1,64 @@
+The Black Crowes
+Paramount Theatre
+Seattle, WA
+October 2, 2007
+
+** 16 BIT **
+
+Source:  SP-CMC-8 cardioids > SP-SPSB-7 battery box > Archos Gmini 400 @ 16 bit/44.1 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 130 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  Section MF 3, Row A, Seat 11
+Recorded by:  Chris Bold
+Mastered by:  Dennis Orr
+
+Setlist: (1:48:05)
+01 Crowd
+02 Virtue And Vice
+03 Gone
+04 Sting Me
+05 Cypress Tree
+06 Good Friday
+07 Soul Singing
+08 Everybody I Love You (1)
+09 My Morning Song
+10 You Don't Miss Your Water (2)
+11 Downtown Money Waster >
+12 Jam >
+13 Thorn In My Pride
+14 Remedy
+15 Encore Break
+- Encore -
+16 Don't Do It
+
+(1) Rich shared lead vocals and Chris played electric guitar
+(2) Chris played acoustic guitar
+
+Chris Robinson - lead vocals, harp, & guitars
+Rich Robinson - guitars & vocals
+Paul Stacey - guitars
+Sven Pipien - bass & backing vocals
+Adam MacDougall - keyboards & backing vocals
+Steve Gorman - drums & percussion
+Charity White - backing vocals
+Mona Lisa Young - backing vocals
+
+Show Notes:
+The Buffalo Killers opened the show
+
+tbc2007-10-02t01.flac:862422f9c87e0814a42c285c4567bf8c
+tbc2007-10-02t02.flac:5bcc3ebfac4565f2cdf6ba4438ecc401
+tbc2007-10-02t03.flac:169999562c5e6518ab267a26da0cd8c3
+tbc2007-10-02t04.flac:d116be32e3387ea15411745e8d04ae69
+tbc2007-10-02t05.flac:ed7b45d06ea9ffbf0f5ed5248e8f5347
+tbc2007-10-02t06.flac:6657973a4e5231b0c2340776b13bcb73
+tbc2007-10-02t07.flac:01b25c4da227b7327a2e175aa018e3ff
+tbc2007-10-02t08.flac:1a76a539f63f90dc5290e1d45cbaffb9
+tbc2007-10-02t09.flac:e51d4677c4f7dc1de5733ed26490a510
+tbc2007-10-02t10.flac:7e1d02926c237b55c6527ce5d0f59f4c
+tbc2007-10-02t11.flac:3d17780cca80d7aa9c313c69b6c1ba6f
+tbc2007-10-02t12.flac:de17227adc8ab1d35cab845419fe23fe
+tbc2007-10-02t13.flac:a4e06127e458697304a4937481743bb3
+tbc2007-10-02t14.flac:7a704b9eff20ac05e5e838e47bb15d51
+tbc2007-10-02t15.flac:297ffe304f897a102f23efd93d057b3f
+tbc2007-10-02t16.flac:2dd34ffb32b85450a221bd6771cc7eb5

@@ -19,9 +19,10 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "empe, AZ",
       "venue": "Club Rio",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1998-05-10 - Tempe, AZ - Club Rio - ANA(x) (unk) [DVD].txt"
     },
     {
       "year": 2025,
@@ -32,7 +33,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Federal Theater",
-      "notes": "Olympus LS-P4 · bluejane99",
+      "notes": "Olympus LS-P4 \u00b7 bluejane99",
       "version": "AUD",
       "format": "FLAC 24"
     }

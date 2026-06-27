@@ -1,0 +1,44 @@
+Sigur Rós
+Festival Hall
+Melbourne, Australia
+August 1st, 2008
+
+Recorded by Chris Jacques
+http://db.etree.org/SeanceMascara
+
+
+
+Recorded with:
+Church Audio STC-11 > Church Audio ST-9100 w/Bass Rolloff at 80hz > iRiver iHP-120 w/Rockbox installed
+
+Transfer:
+iRiver iHP-120 > Sony Sound Forge 8 (Raised Volume +6dB, Fade In/Out, Splits) > FLAC Frontend (Level 8) > FLAC
+
+
+Recording Notes:
+Show was recorded on the left side of the sound desk. About 5ft left and 1ft forward of where the sound guy was standing.
+Microphones were clipped to the brim of a hat about 6ft from the ground and spaced 6 inches apart.
+My levels were low so I raised the gain during Glósóli. I added more volume to the first song and a half post-production so 
+it sounds even the whole way through. During All Alright some guy directly to my left yells out. I lowered that section 
+about -15dB so that it sounds even with the other yells.
+
+
+
+Setlist:
+1.  Svefn-G-Englar
+2.  Glósóli
+3.  Sé Lest
+4.  Ný Batterí
+5.  Við Spilum Endalaust
+6.  Hoppipolla
+7.  Með Blóðnasir
+8.  Festival
+9.  Fljótavík
+10. Sæglópur
+11. Inní Mér Syngur Vitleysingur
+12. Hafsól
+13. Gobbledigook
+~~~~~~~~~~~~~~~~
+14. Popplagið
+~~~~~~~~~~~~~~~~
+15. All Alright

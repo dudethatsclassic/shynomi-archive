@@ -1,0 +1,54 @@
+John Mayer
+Summer 2008 Tour
+August 30, 2008
+Ford Amphitheatre
+Tampa, FL
+
+Source:     Sennheiser MKE > MM-MBM w/60Hz Rolloff > Zoom H2 @ 48kHz/24bit
+Conversion: Zoom H2 WAV > SoundStudio 3.51 > Max (Front End for FLAC 1.2.1)
+Taper:      Tom Ierna (tom@ierna.com)
+
+01 - Opening
+02 - Belief
+03 - Good Love is on the Way
+04 - I Don't Trust Myself (With Loving You)
+05 - Daughters
+06 - Crossroads
+07 - Slow Dancing in a Burning Room
+08 - Free Fallin'
+09 - Mercy
+10 - Bigger Than My Body
+11 - Reading a Sign
+12 - No Such Thing
+13 - Why Georgia
+14 - Wheel Medly, includes Fortress Around Your Heart (Sting), No Surprises (Radiohead)
+15 - Vultures
+16 - Band Introductions
+17 - Gravity
+18 - Crowd Demands Encore
+19 - Waiting on the World to Change
+20 - Say
+
+Notes: Recorded Binaurally with matched Sennheiser MKEs through a Mintbox Battery Module (MM-MBM) with 60Hz Rolloff to a Zoom H2 @ 48kHz/24bit.
+
+FLAC Fingerprint:
+jmayer2008-08-30t01_24.flac: 864f6041ec61e53227c56d9fcab4dafb
+jmayer2008-08-30t02_24.flac: 5ba02339ce7b1a0371f8f04f40375702
+jmayer2008-08-30t03_24.flac: 620f4e8dcd814aa07f295641a084ae82
+jmayer2008-08-30t04_24.flac: e1dd26082600d67084ec6fac91dadf3b
+jmayer2008-08-30t05_24.flac: a7e2ec00e658101715f2d5e624eb1050
+jmayer2008-08-30t06_24.flac: a34ea3b65938a55e54b7f7fcedbb979e
+jmayer2008-08-30t07_24.flac: 3cd5cfe2293363c1926d7cf174d9b4fa
+jmayer2008-08-30t08_24.flac: 45b01c07c075b88a9b318d9eea73ca82
+jmayer2008-08-30t09_24.flac: d30fc42cf915973599f2fd836aba2b6c
+jmayer2008-08-30t10_24.flac: b895f0463e241d05d39370f23f94d74b
+jmayer2008-08-30t11_24.flac: e4de0936b4e0b51af595a23675fb2e64
+jmayer2008-08-30t12_24.flac: eca2469e392b7d592765d49b68884e12
+jmayer2008-08-30t13_24.flac: f816847c29691474b1072ea6797b6dcb
+jmayer2008-08-30t14_24.flac: 51c5f3d3c4ecf816f5d4ba596d8fa3db
+jmayer2008-08-30t15_24.flac: c1e6619afc2b744e4ec460f8bfe48eb7
+jmayer2008-08-30t16_24.flac: 63904dc69c7ab02be25655482ed9ee57
+jmayer2008-08-30t17_24.flac: 5967d7fa684f2275903513cc386a7a52
+jmayer2008-08-30t18_24.flac: 1dfaefa755be0e6cabf2a82bd32b2fab
+jmayer2008-08-30t19_24.flac: e10faf0da326db757216f9561433657e
+jmayer2008-08-30t20_24.flac: c155b0c61f9801038751a7a1bbd73b5b

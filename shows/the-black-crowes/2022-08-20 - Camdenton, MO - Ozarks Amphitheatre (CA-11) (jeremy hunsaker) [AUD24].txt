@@ -1,0 +1,82 @@
+The Black Crowes
+Ozarks Ampitheatre
+Camdenton, MO
+August 20, 2022
+
+** 24 BIT **
+
+Source:  CA-11 omnis mounted on hat (split by the hat itself)> mini-XLR > 1/8" stereo > Tascam DR-2d (mic in, low gain w/onboard phantom power on) @ 24 bit/96 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > 
+Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded by:  Jeremy Hunsaker  telepicker97/drivingwheel
+Mastered by:  Dennis Orr
+
+Setlist: (1:39:16)
+01 Crowd
+02 Shake Your Money Maker Intro >
+03 Twice As Hard
+04 Jealous Again
+05 Chat
+06 Sister Luck
+07 Could I've Been So Blind
+08 Chat
+09 Seeing Things
+10 Chat
+11 Hard To Handle
+12 Thick N' Thin
+13 She Talks To Angels
+14 Struttin' Blues
+15 Stare It Cold
+16 Chat
+17 Horsehead
+18 Oh Josephine
+19 Wiser Time
+20 Thorn In My Pride
+21 Remedy
+22 Encore Break
+- Encore -
+23 Good Morning Captain
+
+Chris Robinson – lead vocals, harmonica, acoustic guitar, & percussion
+Rich Robinson – guitar & backing vocals
+Sven Pipien – bass & backing vocals
+Isaiah Mitchell – guitar & backing vocals
+Joel Robinow – keyboards & backing vocals
+Brian Griffin – drums & percussion
+Leslie Grant - backing vocals
+Mackenzie Adams - backing vocals
+
+Taper Notes:
+Special thanks to mrfender for the omnis 
+
+Support taper friendly bands, venues, and websites.  
+Please make it a point to go to their gigs, purchase their merch, trade links (or old-school tapes or CDs!) of their music, 
+Spread the word and visit their websites:  https://theblackcrowes.com/
+
+Always share, never sell, and as Ribblefribbitz says: "Please do not convert to Edison tin cylinders or 78 rpm wax discs."
+
+Dedicated to boa and huck.
+
+tbc2022-08-20t01.flac:0b5969c477fb5dbf94aa8be5841c58d0
+tbc2022-08-20t02.flac:3a147650ec75663c96a946b9fb2c9787
+tbc2022-08-20t03.flac:9f929e98641fed134463ac6bc445707f
+tbc2022-08-20t04.flac:1f6dbd303146857d3f72bd0ff7756930
+tbc2022-08-20t05.flac:eec51b3826790080e2b1e0e88fb2df80
+tbc2022-08-20t06.flac:84ee35948a3f2072250a6399e4b60075
+tbc2022-08-20t07.flac:fc81e23a80f595f86575a7b07fc19ab3
+tbc2022-08-20t08.flac:502f64da4b2e8b5e86cc4320e28c3e14
+tbc2022-08-20t09.flac:bbfe88eb9af51a0b45474e77c5249d11
+tbc2022-08-20t10.flac:00adeb123e50fac1fd29d89efeb79cca
+tbc2022-08-20t11.flac:54a47a79c00684158d6db514a1254143
+tbc2022-08-20t12.flac:08eff3207bd02ed9fbf2555d90474ea3
+tbc2022-08-20t13.flac:5961b88fd1d8f72ae32d7e2a2a3bfa91
+tbc2022-08-20t14.flac:4f2a6e691b61c0ca68500d714a1f6beb
+tbc2022-08-20t15.flac:895df16b3eaa72209a48e330530d643a
+tbc2022-08-20t16.flac:f5ab8fd77f14d79583446db36bf7fed9
+tbc2022-08-20t17.flac:c35132ec05991362ced018ca0a7a36b9
+tbc2022-08-20t18.flac:e03f790c204410c0ca5740584c2ca1d7
+tbc2022-08-20t19.flac:14d85b86d2ac50c74249857523a29175
+tbc2022-08-20t20.flac:8ff1b2b272b20a8c25c67bc58a170a4c
+tbc2022-08-20t21.flac:0ea6510b9011ca4b5cabbad6cf8b67c5
+tbc2022-08-20t22.flac:742878b050f53ab443d1249cfb34578f
+tbc2022-08-20t23.flac:9686b4d1bf6b48daa993b7dc47d15060

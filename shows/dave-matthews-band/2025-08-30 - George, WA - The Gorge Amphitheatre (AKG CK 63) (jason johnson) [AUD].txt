@@ -1,0 +1,46 @@
+Dave Matthews Band
+The Gorge Amphitheatre
+George, WA
+August 30, 2025
+
+Taper: Jason Johnson (taperjason@gmail.com)
+Location: Left FOB, DIN @ 14'
+Source: akg ck63s > nbob actives > SD MixPre-6ii (32/48)
+Conversion: MixPre-6ii > Adobe Audition (hi pass filter, dither, resample) > Trader's Little Helper > Foobar2000
+
+01: Intro
+02: All Along the Watchtower
+03: You Never Know
+04: Corn Bread !
+05: It Could Happen
+06: #41 @
+07: Pantala Naga Pampa >
+08: Rapunzel
+09: The Last Stop #
+10: Don't Drink the Water #
+11: Stay (Wasting Time)
+12: Halloween
+13: The Stone
+14: Crush
+15: The Dreaming Tree
+16: Pig $
+17: Spoon #$
+18: Satellite #$
+19: Tripping Billies $
+20: Encore Break
+21: Rye Whiskey *
+22: What Would You Say
+
+Notes:
+! Joe Lawlor
+@ Bela Fleck & The Flecktones
+# Bela Fleck
+$ Jake Renick Simpson
+* Dave solo
+
+24/48 version also exists.
+Thanks Caleb for the entry assist and Katie for keeping an eye on the gear.
+Light wind throughout recording, but nothing that takes away from overall sound of the recording.
+
+Compiled by Jason Johnson on August 31, 2025.
+www.greppson.net

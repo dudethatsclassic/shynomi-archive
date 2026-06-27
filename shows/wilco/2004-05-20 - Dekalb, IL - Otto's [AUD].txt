@@ -1,0 +1,79 @@
+Wilco
+May 20, 2004
+Otto's
+DeKalb, IL
+
+Source: Earthworks SR77's (FOB, ORTF) > Lunatec V3 (44.1kHz, ANSR on) > Sony TCD-D10proII
+
+Transfer: Tascam DA20mkII > Delta DiO 2496 > HD > CD Wave (tracking ) > Sound Forge 6.0
+(fades in d1t01 and d2t14) > .flac
+
+Taped & transfered by Jerry Eaglebarger: chitaper@mindspring.com
+
+Disc 1
+01 Thax Douglas poem, "Wilco #7"
+02 -Crowd-
+03 The Late Greats
+04 I'm Always In Love
+05 A Shot In The Arm
+06 Hummingbird
+07 At Least That's What You Said
+08 Ashes Of American Flags
+09 Heavy Metal Drummer
+10 Jesus, Etc.
+11 -Tuning/Stage Banter-
+12 Muzzle Of Bees
+13 -Stage Banter-
+14 Hell Is Chrome
+15 Far, Far Away
+16 One By One
+
+Disc 2
+01 I Am Trying To Break Your Heart
+02 Kamera
+03 Poor Places
+04 I'm The Man Who Loves You
+05 Handshake Drugs
+06 -Encore Break #1-
+07 Via Chicago
+08 Spiders
+09 -Band Introductions-
+10 Theologians
+11 -Encore Break #2-
+12 Company In My Back
+13 I'm A Wheel
+14 Kicking Television
+
+*********************************************
+
+FLAC Fingerprint:
+wilco2004-05-20d1t01.flac:6ba6704ee1309685996dc7cbe77efc35
+wilco2004-05-20d1t02.flac:c92ccf3640d68f4aba6531c1a188bc29
+wilco2004-05-20d1t03.flac:35fe8a3f62782f2fc9d58cba7370de40
+wilco2004-05-20d1t04.flac:09072677a7dea03f3933d0d2ea0d03ff
+wilco2004-05-20d1t05.flac:9cb1a85392a56e4b312994d45fe7f3c4
+wilco2004-05-20d1t06.flac:9e82ce585582d6b832d612735a904515
+wilco2004-05-20d1t07.flac:a733c83155d104b21bd1af33549ba5b8
+wilco2004-05-20d1t08.flac:9857d2cb1064a89f31627bcd1f1984e5
+wilco2004-05-20d1t09.flac:14b33019b561cf9d62989312cab81d9e
+wilco2004-05-20d1t10.flac:cebee555a281af6d0d95610f30586a81
+wilco2004-05-20d1t11.flac:8e34fbb638210c15a8d2bd5b6d6ec931
+wilco2004-05-20d1t12.flac:481fcdab6578c6cfee2568b8de452184
+wilco2004-05-20d1t13.flac:c705d2492053bc3d8ffa6f0a9491945c
+wilco2004-05-20d1t14.flac:56b304f8786996fdfef773dc7b02e595
+wilco2004-05-20d1t15.flac:2b3e7dd5261c3d8ab02e7d08650e19bc
+wilco2004-05-20d1t16.flac:74ceec68a8013b903cfd06f9f042ceb5
+wilco2004-05-20d2t01.flac:ee56b6d297ae3d93db5f6a56022d45ee
+wilco2004-05-20d2t02.flac:703e89dd88c0032b0065677bd6974db8
+wilco2004-05-20d2t03.flac:b949229c29122b512c82406dc557aa39
+wilco2004-05-20d2t04.flac:0e17381c04d35c64b0481af7d5630289
+wilco2004-05-20d2t05.flac:77031147fb7f753310baa68b3093382a
+wilco2004-05-20d2t06.flac:e30e49ca4d8c1ac5e4fd5360bff36e3a
+wilco2004-05-20d2t07.flac:ec87e30cfd88a39e23ff75ad00866653
+wilco2004-05-20d2t08.flac:e32f3d98326baadf032201af10dad186
+wilco2004-05-20d2t09.flac:a23ca737a405d715d0d72e4c71f54380
+wilco2004-05-20d2t10.flac:01439711f48b2f094430165b06d3e781
+wilco2004-05-20d2t11.flac:bef3ab99ac5e98febf5542462dc7bc79
+wilco2004-05-20d2t12.flac:33a537eb5f3447c0605ca8484063f9da
+wilco2004-05-20d2t13.flac:030b0bb70c343a8b4cb2d083a227e52f
+wilco2004-05-20d2t14.flac:06f36b40700c0e650b0e7a6d39cc3f6c

@@ -1,0 +1,62 @@
+Wilco
+August 31, 1999
+Jannus Landing - St. Petersburg, FL
+
+Source:		SBD
+Lineage:	CD-R (unknown generation)->EAC (V0.95)->WAV->FLAC Frontend,level 8(1.7.1)->FLAC
+
+Disc 1
+1. California Stars
+2. I'm Always In love
+3. I Must Be High
+4. Summerteeth
+5. How To Fight The Loneliness
+6. Hotel Arizona
+7. Nothingsevergonnastandinmyway
+8. Red Eyed & Blue
+9. I Got You (at the end of the century)
+10. She's A Jar
+11. Shot In The Arm
+12. Misunderstood
+13. Hesitating Beauty
+14. Christ For President
+15. Passenger Side
+16. My Darling 
+
+Disc 2
+1. Can't Stand It
+2. Monday
+3. Don't Forget the Flowers
+4. New Madrid
+5. When You Wake Up Feelin Old
+6. The Lonely One
+7. Casino Queen
+8. Kingpin
+9. Outta Sight Outta Mind
+
+Fingerprints:
+wilco1999-08-31d1Track01.flac:6013680f834f0caa4a4fe71a0450d2be
+wilco1999-08-31d1Track02.flac:25cff4d91c4a045dcedcd67ee16770a6
+wilco1999-08-31d1Track03.flac:fc182a384c94c1d8b31b898ded04d816
+wilco1999-08-31d1Track04.flac:9a547d3bc522a0e58946e0e723790679
+wilco1999-08-31d1Track05.flac:282a300e4f64852dac66ccc7642bc01c
+wilco1999-08-31d1Track06.flac:f0d05933ce0a42662f59353737ec1b28
+wilco1999-08-31d1Track07.flac:fd2270ece7094c2333254ee9ebcdbc1f
+wilco1999-08-31d1Track08.flac:3ba606e9319ffca987f76d67cf15fb27
+wilco1999-08-31d1Track09.flac:f7f41378d90ac8a2e88e7447845476a2
+wilco1999-08-31d1Track10.flac:77aa8cc238b3c61a51fea2c4bd7b0cc3
+wilco1999-08-31d1Track11.flac:dd4b1aaab5b11c199ddf615bbac75282
+wilco1999-08-31d1Track12.flac:94a148547ce64f65bf62758e98224f91
+wilco1999-08-31d1Track13.flac:c0166b70dd38c95b0e517a21078b132b
+wilco1999-08-31d1Track14.flac:f5d4fc519b5055210ec4e81ee6d47e32
+wilco1999-08-31d1Track15.flac:f4906a75973632600b0839567f680c77
+wilco1999-08-31d1Track16.flac:9bb1d03e64de1faecb6050906ee72639
+wilco1999-08-31d2Track01.flac:20cbc147c185e044e0ef2d1516a8534c
+wilco1999-08-31d2Track02.flac:08b1a7c1c517940fed64da85484feb6c
+wilco1999-08-31d2Track03.flac:368327423b594fd41865e76319839c8b
+wilco1999-08-31d2Track04.flac:8c27e0fa8e077314d48a2597ffe75275
+wilco1999-08-31d2Track05.flac:85f736983683b0250d868c6c8c49c0cb
+wilco1999-08-31d2Track06.flac:8f538326f91d68f578002cab288176de
+wilco1999-08-31d2Track07.flac:b389a654898da5eb7a45a166867bc487
+wilco1999-08-31d2Track08.flac:113e9317a078fc11470adc8eaf7395df
+wilco1999-08-31d2Track09.flac:7685903ed0b989cfde976f7c01a0d1c1

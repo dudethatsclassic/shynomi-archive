@@ -1,0 +1,39 @@
+Dave Matthews Band
+5/24/23
+BankPlus Amphitheater at Snowden Grove
+Southaven, MS
+
+Source: Schoeps MK41(dina) > KC5 > CMC6 > Lunatec V3 + Schoeps MK4(ortf) > KC5 > CMC6 > Lunatec V3 > Tascam DR-680(24/96)
+Location: fob/sloc/Section 13, Row D, Clamped to foh pole @ 7 1/2' high
+Transfer: SD Card > ThinkPad > Magix Samplitude 20(4-Channel > 2-Channel) > Sony Sound Forge 7.0(EQ/Fade) > CD WAVE > TLH(Level 8)
+Taped and seeded by Jesse McAlister
+
+***24bit, not for CD***
+
+[0]
+
+01. Pig
+02. Come On Come On
+03. Sweet
+04. Madman's Eyes
+05. Crush
+06. All You Wanted Was Tomorrow
+07. Warehouse
+08. Looking for a Vein
+09. Grey Street
+10. The Space Between
+11. It Could Happen
+12. Lie in Our Graves
+13. Walk Around the Moon
+14. Monsters
+15. Kill the Preacher [partial]
+16. Why I Am
+17. You & Me
+18. Jimi Thing >
+19. Brick House [partial]
+
+[E]
+
+20. Singing From the Windows
+21. Break Free
+22. Louisiana Bayou

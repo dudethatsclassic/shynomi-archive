@@ -1,0 +1,55 @@
+Dave Matthews Band
+21 September 2021
+Northwell Health at Jones Beach Theater
+Wantagh, New York
+
+Recorded by: Christopher Jones <jones.chris@gmail.com>
+Source: Schoeps CMC122 (handmatched MK22 open cardioid and CMC 1 preamplifier) > Mogami Gold Neglex Quad XLR > Sonosax SX-R4+ (non-U.S. version with unconstrained headroom; @ 24-bit / 96 kHz)
+Location: GA Pit; microphones elevated approximately 3.5 meters, approximately 3 meters from stageright line array, A-B  
+SD > .flac: SD Card > Apple 16" Macbook Pro (2.4 GHz 8-Core Intel i9 / 32GB 2667 MHz DDR4) > Avid Pro Tools Ultimate v. 2021.3.1 > DSP-Quattro 5.6.1 (resample to 44.1 kHz; dither to 16-bit) > xACT v2.50
+
+t01 Introduction  						02:51.23
+t02 Seek Up  							19:16.20
+t03 Funny The Way It Is  						06:42.09
+t04 When The World Ends  						04:45.07
+t05 You Never Know  						07:54.26
+t06 That Girl Is You  						06:03.70
+t07 Squirm  							06:18.68
+t08 So Much To Say >  						04:13.13
+t09 Anyone Seen The Bridge >  					01:56.51
+t10 Too Much  							06:29.10
+t11 The Space Between  						05:54.47
+t12 Sweet Up And Down  						05:42.34
+t13 Jimi Thing >  						09:53.39
+t14 (I Want A New Drug #) >  					01:25.55
+t15 (Sexy M.F. ^) >  						02:58.05
+t16 (Brown Sugar ~ > Bitch ~) >  					00:22.29
+t17 (I Can't Get No) Satisfaction ~  				05:29.07
+t18 #41  							11:59.67
+t19 Say Goodbye  						06:51.31
+t20 Dancing Nancies  						10:45.54
+t21 The Song That Jane Likes  					04:07.03
+t22 So Damn Lucky > (Thank You (Falettinme Be Mice Elf Agin) +)  	12:26.18
+t23 Grey Street  						10:12.55
+---
+t24 Some Devil %  						04:39.13
+t25 Intro To...  						03:40.68
+t26 Don't Drink The Water  					08:16.61
+
+								171:16.58
+
+>  Indicates a segue into the next song
+() Indicates a tease or partial song if not part of a song with a parenthetical subtitle
+#  Huey Lewis And The News cover
+^  Prince cover
+~  The Rolling Stones cover
++  Sly And The Family Stone cover
+%  Dave solo
+
+Notes:
+
+Modest wind throughout the evening.  Gusts sometimes faintly audible between songs.  Some intermittent kick drum distortion slightly audible through PA from time to time.
+
+Thanks to Scott Brown for driving.
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 25 September 2021.

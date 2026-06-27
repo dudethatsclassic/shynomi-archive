@@ -1,0 +1,41 @@
+The Black Crowes
+Humphrey's Concert By the Bay
+San Diego, CA
+May 21, 2010
+
+Source: DPA 4021 > Aerco MP2  > Korg MR-1
+Location: DFC / ~ 20' from Stage FOB / 4' high / ORTF
+Transfer: MR-1 > Korg Audiogate > Steinberg Wavelab 6 (Izotope Ozone) > Sony SoundForge> Korg Audiogate > Trader's Little Helper
+Lineage: 1-bit/2.8 MHz > 24-bit/192 kHz > 16-bit/44.1 kHz > FLAC (Level 8)
+Editing: Korg Audiogate - Convert 1-bit/2.8 MHz to 24-bit/192 kHz; Wavelab - Fades; Izotope Ozone - 4 band Compression - Widening Preset, Parametric EQ; Sony SoundForge - Tracking; Korg Audiogate - Convert 24-bit/192 kHz to 16-bit/44.1 kHz (AQUA dither algorithm); Trader's Little Helper - Align Sector Boundaries, Convert to FLAC level 8
+Foobar2000: Live Show Tagger: Tagging
+
+Taped, edited and seeded by Ted Yun
+
+01. Intro
+02. Halfway To Everywhere
+03. Good Friday
+04. Jealous Again
+05. Walk Believer Walk
+06. Ballad In Urgency >
+07. Wiser Time
+08. Appaloosa
+09. Whoa Mule
+10. Jam >
+11. Thorn In My Pride
+12. Sometimes Salvation
+13. Goodbye Daughters Of the Revolution
+14. No Speak No Slave
+15. encore
+16. Don't Do It
+17. Remedy
+
+Taper's notes:
+
+Humphrey's is a "No Recording Allowed" venue, and I did not get word from the venue or from boa whether the band's open taping policy superceded the venue's. In addition, I scored a great seat, and even if it was open taping, I didn't want to set up by the soundboard, especially in an outdoor venue. So I tried my hand at stealthing. It would have turned out OK, except for the drunk lady next to me, singing throughout most of the show, and interjecting strategic "Woo!'s" during the instrumental parts. So I dedicate this recording to her, and if she ever hears this tape, I hope she enjoys her crappy duets with Chris, complete with offkey singing, missed cues and wrong lyrics.
+
+Honestly, I don't know what possesses a person to sing along during a show, especially with a top notch singer like Chris Robinson.
+
+Seriously though, I hope this tides everyone over until the LBC is released. 
+
+In terms of EQ'ing, the recording came out with a bit too much low-end than I liked. I tried to make it sound to my taste with my preferred setup (iMod > Headamp Pico > UE Triple.fi's), but tried to make it sound OK for very different sounding headphones as well (Grado SR-80, Yuin OK-1). I  hope it turned out OK.

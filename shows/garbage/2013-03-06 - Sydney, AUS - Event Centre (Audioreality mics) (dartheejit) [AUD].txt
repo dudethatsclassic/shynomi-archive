@@ -1,0 +1,53 @@
+Garbage
+
+2013-03-06
+The Star
+Event Centre
+Sydney, AU
+
+Equipment: Audioreality.com mics > battery box > Roland R-09HR > 8GB SDHC
+Lineage: WAV (24-bit, 48 kHz) > Adobe Audition 3 (resample to 16-bit, 44.1 kHz, splits, EQ, fades, compression) 
+> TLH (fix SBEs, FLAC level 8, create checksums) > mp3tag (add tags)
+
+Notes: 1st time gig at a new venue at the Star casino. A strange pitch shifting effect appears for a second or 
+so in the 1st chorus of "Automatic Systematic Habit". I double checked and it appears in the source WAV file as well.
+
+Taper: dartheejit
+
+Setlist:
+
+01 intro
+02 Push It
+03 Queer
+04 Metal Heart
+05 Control
+06 Blood for Poppies
+07 Special
+08 Why Do You Love Me
+09 #1 Crush
+10 I Think I'm Paranoid
+11 I Hate Love
+12 The Trick Is to Keep Breathing (+ band intro)
+13 Cherry Lips
+14 Man on a Wire
+15 Stupid Girl
+16 Cup of Coffee
+17 Only Happy When It Rains
+18 Vow
+19 Beloved Freak (+ break)
+
+Encore
+20 Automatic Systematic Habit
+21 When I Grow Up
+22 You Look So Fine
+
+approx time: 1:46:30
+
+Shirley Manson – vocals
+Steve Marker – guitar, keyboards
+Duke Erikson – guitar, keyboards
+Butch Vig – drums
+Eric Avery – bass guitar
+
+Please do not convert to MP3, except for personal use.  Trade in lossless, and always for free.  Do not sell this recording.
+Support the artist and buy their music.

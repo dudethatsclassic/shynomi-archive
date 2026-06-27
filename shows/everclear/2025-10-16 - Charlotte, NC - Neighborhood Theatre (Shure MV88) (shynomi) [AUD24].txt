@@ -1,0 +1,63 @@
+Everclear
+2025-10-16
+Charlotte, NC
+Neighborhood Theatre
+
+Tour: Sparkle and Fade 30th Anniversary
+Openers: Sponge, Local H (also taped)
+
+Taper: shynomi
+Lineage: Shure MV88 > Motiv Audio App > iPhone 13 Pro
+Transfer: .WAV (24/48) > Logic Pro 11.01 > Splits and Fades > xACT 2.57 > FLAC (Level 8)
+Edits: Beginning and End Fades, Waves L2 Limiter, Light EQ
+
+Location: Back of the room directly beside the left of the sound booth. Slightly elevated above crowd.
+
+Tracklist:
+
+1. Electra Made Me Blind
+2. Heroin Girl
+3. You Make Me Feel Like a Whore
+4. Father of Mine
+5. Summerland
+6. Strawberry
+7. Heartspark Dollarsign
+8. Everything to Everyone
+9. Highway to Hell (AC/DC cover) (Snippet)
+10. Whole Lotta Love (Led Zeppelin cover) (with Scott Lucas) (Snippet)
+11. The Twistinside
+12. Her Brand New Skin
+13. Nehalem
+14. Queen of the Air
+15. Wonderful
+16. Pale Green Stars
+17. Chemical Smile
+18. My Sexual Life
+
+Encore:
+19. So Much for the Afterglow
+20. I Will Buy You a New Life
+21. Santa Monica
+
+01 Electra Made Me Blind.flac:1e3ea7d64079c5da986ae288145941d0
+02 Heroin Girl.flac:b2db18e591e61ed35e31b74714f89699
+03 You Make Me Feel Like a Whore.flac:ef5c32e88ba5456de2d6acaee2d7ae65
+04 Father of Mine.flac:d32b06f2c643f1bd0b074837e75e6195
+05 Summerland.flac:ab4e575d1e17e58578fc3d91833afad2
+06 Strawberry.flac:b78d1ede989d0c8cac029aaec10eca57
+07 Heartspark Dollarsign.flac:bbaf0e50c894cd7fa9893b1a16892230
+08 Everything to Everyone.flac:d70dccec581d89212584d0fa5c115b0f
+09 Highway to Hell (ACDC cover).flac:5d1459cabe4ab3206b7d5f538ee2f2a5
+10 Whole Lotta Love (Led Zeppelin cover).flac:8980b3877ab6b653940810d8d727558e
+11 The Twistinside.flac:1334a737441d717d6e73228fcbdc1a05
+12 Her Brand New Skin.flac:781297d9a2f79e38fa3483c70765888b
+13 Nehalem.flac:29f5cb15fd5ef41fd4bb03c57f14be4e
+14 Queen of the Air.flac:0dd1bdcdcbf407136d07ee067db5e1dd
+15 Wonderful.flac:2de1a2a61733a8300c9f7f01978dbab6
+16 Pale Green Stars.flac:567658fa1a6dc5cb1dc013ba7160ca20
+17 Chemical Smile.flac:65dff444ff1d58292d40578cec7f5f63
+18 My Sexual Life.flac:a097f220a0694e8a65b333271a3016ce
+19 So Much for the Afterglow.flac:9b4dc22669d05913a1d72d05f5c6aa59
+20 I Will Buy You a New Life.flac:b2e02e862cafee75fbdd83c3fde787c8
+21 Santa Monica.flac:da23eb1cb3a06d384daf770903e23e4a
+

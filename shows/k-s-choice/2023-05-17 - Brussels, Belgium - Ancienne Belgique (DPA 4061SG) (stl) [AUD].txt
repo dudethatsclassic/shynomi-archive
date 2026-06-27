@@ -1,0 +1,47 @@
+K's Choice
+
+Ancienne Belgique, Brussels, Belgium
+May 17, 2023
+
+Taper: stl 
+
+Lineage: DPA4061 Core Omnis w/Softboost Grid -> DPA D:VICE MMA-A (low pass filter -80hz) -> iPhone 12 Mini (96/24) -> iZotope RX10 (Declick/Azimuth/Music Rebalance to reduce audience noise - Ozone 11 Clarity/Master Rebalance/Tonal Balance Control 2/Dynamics/Maximizer) -> iZotope RX10 (Resample 44/16) -> FLAC -> xACT (SBE/FFP/Tags)
+
+Position: 1st Balcony left side oft stage directly side stage in front of the PA
+
+Tracks: 
+
+01 - Intro 0:42
+02 - Everything For Free 3:47
+03 - Bag Full Of Concrete 3:52
+04 - Perfect Scar 3:17
+05 - Almost Happy 4:42
+06 - If This Isn't Right 3:28
+07 - Sam Talking 1:03
+08 - Come Live The Life 4:09
+09 - Time Is A Parasit 3:00
+10 - Echo Mountain 4:36
+11 - Not An Addict 6:58
+12 - Love Is Letting Go 3:12
+13 - Surrender 3:50
+14 - The Phantom Cowboy 4:37
+15 - Woman 3:07
+16 - Live For Real 3:55
+17 - Brother 4:40
+18 - I Was Wrong About Everything 3:09
+19 - Believe 3:38
+20 - I Will Cary You 4:28
+21 - Encore Break 1:56
+22 - Another Year 3:59
+23 - We Are The Universe 3:26
+24 - Sam Saying Thank You 1:28
+25 - We Are Glaciers 6:26
+26 - Outro 1:21
+
+Total 1:33:59
+
+Comments: 
+
+First of two homecoming shows at the AB in 2023. Phantastic show, Sam playing for his family and friends from LA. Lots of audience interaction, but in a very positive way. Looking forward to see them again this winter and spring for a few acoustic shows in the Netherlands and Belgium. 
+
+Published under the following license: WTFPL – Do What the Fuck You Want to Public License (www.wtfpl.net) - but remember: if you try to make money with my recordings, you lose your karma.

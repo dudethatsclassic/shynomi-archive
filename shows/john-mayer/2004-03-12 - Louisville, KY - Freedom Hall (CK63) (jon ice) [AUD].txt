@@ -1,0 +1,49 @@
+John Mayer
+3.12.04
+Freedom Hall
+Louisville, KY
+
+Source:		ck63 > Active Cables > JK Labs DVC > Apogee Mini-Me (line in) > M1 @ 48k
+Location:	Sec. 144, Row L, Seats 5,6	Stand @ 7' due to security restriction
+Taper:		Jon Ice (ice@justdmb.com)
+
+DAT > CD Equipment: 	M1 > Emagic EMI 2|6 > Sound Forge 6.0 > shntool
+
+** No DAE - DAT > .WAV > .SHN
+** Seek Tables Appended
+
+Disc One
+01:	Intro				01:37
+02:	Bigger Than My Body	%	05:17
+03:	Why Georgia			05:33
+04:	Somethings Missing		09:47
+05:	Intro to...			01:29
+06:	Clarity				06:00
+07:	Great Indoors			03:57
+08:	No Such Thing			05:04
+09:	Daughters			05:25
+10:	My Stupid Mouth			05:59
+11:	Hummingbird			05:11
+Total				55:19
+
+Disc Two
+01:	Intro to...			01:23
+02:	Back To You			05:56
+03:	Your Body Is a Wonderland	07:32
+04:	Empty Arms			03:42
+05:	Come Back To Bed		14:01
+06:	Intro to...	&		03:18
+07:	83				13:03
+Encore
+08:	St. Patrick's Day	>	03:38
+09:	"Scotty's Birthday"	>	01:12
+10:	St. Patrick's Day		02:39
+Total				56:24
+
+%	level adjustment during song
+&	Peter Gabriel's "Big Time" tease
+
+Notes:
+Security required that stands be kept no higher than head height.
+
+compiled 3.17.04

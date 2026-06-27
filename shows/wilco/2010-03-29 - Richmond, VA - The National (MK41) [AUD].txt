@@ -1,0 +1,95 @@
+Wilco
+March 29, 2010
+The National
+Richmond, VA
+
+**16bit** 
+
+Source: mk41 > kc5 > cmc6 > m248 > mme > hd-p2 (24/48)
+Location: SLoC, Pointed @ Stacks, 25' stand
+Transfer: CF > Wavelab (spliced first 3min 4011>v2>722, tracked/resampled/dithered) > FLAC (lvl 6)
+Taped & transferred by Todd (titotito at gmail)
+
+Set 1/Disc 1:
+01. Intro
+02. Wilco (The Song)
+03. I Am Trying To Break Your Heart
+04. Bull Black Nova
+05. You Are My Face
+06. One Wing
+07. A Shot in the Arm
+08. Shake it Off
+09. I'll Fight
+10. Company In My Back
+11. Handshake Drugs
+12. You And I
+13. Deeper Down
+14. Impossible Germany
+15. Poor Places > Space Jam
+16. Spiders (Kidsmoke)*
+17. She's A Jar*
+18. Stage Banter
+19. Forget the Flowers*
+20. Someday, Some Morning, Sometime*
+21. Laminated Cat*
+22. How to Fight Loneliness*
+23. California Stars*
+24. Passenger Side*
+25. Outtasite (Outta Mind)*
+26. Misunderstood
+27. Can't Stand It 
+28. Jesus, etc.
+29. Ashes of American Flags
+30. You Never Know
+31. Hate It Here
+32. Theologians
+33. Walken
+34. I'm the Man Who Loves You 
+35. Monday
+36. Thank You Friends +
+ENCORE:
+37. Heavy Metal Drummer
+38. I'm a Wheel
+
+* acoustic
++ dedicated to Alex Chilton
+Thanks to Mark Lynzzz and Gray for the first few mins of patch, huge!
+
+wilco2010-03-29d1t01_Intro.flac:255f51ab2156408c5a96cdf47ca889fd
+wilco2010-03-29d1t02_Wilco_The_Song.flac:0b79fc21c3397dd37ccfe6e36a30892b
+wilco2010-03-29d1t03_I_Am_Trying_To_Break_Your_Heart.flac:75b08d907a92aa1f44513e40f5360d50
+wilco2010-03-29d1t04_Bull_Black_Nova.flac:c5daa997f250975f04863794a7cc2410
+wilco2010-03-29d1t05_You_Are_My_Face.flac:a8482ef848e6119a44b41ec3e2b13800
+wilco2010-03-29d1t06_One_Wing.flac:7fdf9741b59ab1681761db6c339cd663
+wilco2010-03-29d1t07_A_Shot_in_the_Arm.flac:7d9da8b44ce910e7fd801c52f52bc759
+wilco2010-03-29d1t08_Shake_it_Off.flac:89b7b27b3424b43f7742c3cabbd87f30
+wilco2010-03-29d1t09_Ill_Fight.flac:cc67ae26942220bca3f86b982a3475ba
+wilco2010-03-29d1t10_Company_In_My_Back.flac:ea417c12ee46b69e751323ad4dd07944
+wilco2010-03-29d1t11_Handshake_Drugs.flac:95b83e26f1a2320933a9ee8fcdf3b860
+wilco2010-03-29d1t12_You_And_I.flac:a304145fd9a04a53b17d54847a91fce3
+wilco2010-03-29d1t13_Deeper_Down.flac:0047d1ed2cc466b015d1485c55718d20
+wilco2010-03-29d1t14_Impossible_Germany.flac:d0f06aaa70e4d79b00b4f622774758fb
+wilco2010-03-29d1t15_Poor_Places_Space_Jam.flac:f401b0899955c609ffdfe07cd4555ce3
+wilco2010-03-29d1t16_Spiders_Kidsmoke.flac:fa40b7ff48afac69417d02cd08081a7c
+wilco2010-03-29d1t17_Shes_A_Jar.flac:f34c826a49fa779b62d32df2ac3b02ca
+wilco2010-03-29d1t18_Stage_Banter.flac:ffd57823df098c8a35bc84097e536a25
+wilco2010-03-29d1t19_Forget_the_Flowers.flac:a06a57a4693e870fc7b4aa100681deaf
+wilco2010-03-29d1t20_Someday_Some_Morning_Sometime.flac:2968f84d2e44b9f73e98204f9b3f350f
+wilco2010-03-29d1t21_Laminated_Cat.flac:44a2963eae58d01ac20c12d45442cf0a
+wilco2010-03-29d1t22_How_to_Fight_Loneliness.flac:fa5006e6cba9a89e4316ffeadd92a4cd
+wilco2010-03-29d1t23_California_Stars.flac:4b8f88250fd47d8cf9291b0bea055f6f
+wilco2010-03-29d1t24_Passenger_Side.flac:1b3973343758a4e1ca2a32867afa0eaf
+wilco2010-03-29d1t25_Outtasite_Outta_Mind.flac:f9e9d1a741f0b19e1995820aca82464f
+wilco2010-03-29d1t26_Misunderstood.flac:a14de6f56abe9fb2359393a1b41f9e38
+wilco2010-03-29d1t27_Cant_Stand_It.flac:822add9ceba91150307a761294848743
+wilco2010-03-29d1t28_Jesus_etc.flac:756cc85434e1ded72acc5af76a895a03
+wilco2010-03-29d1t29_Ashes_of_American_Flags.flac:6ef28a8fcfe2719d72155ffe53aba85a
+wilco2010-03-29d1t30_You_Never_Know.flac:c27e0eea0a1800596c864176c3336647
+wilco2010-03-29d1t31_Hate_It_Here.flac:b8e104668f7853936cc34378733b05f3
+wilco2010-03-29d1t32_Theologians.flac:de188d61569225ce0025ee4bff8a6204
+wilco2010-03-29d1t33_Walken.flac:7fca3144da57a5c0c1afa8fa3d1d9f69
+wilco2010-03-29d1t34_Im_the_Man_Who_Loves_You.flac:2500f29a77a7323c64090c51971f5aad
+wilco2010-03-29d1t35_Monday.flac:d0d1038bf711f053dde1702fed62a728
+wilco2010-03-29d1t36_Thank_You_Friends.flac:ddd4e11f7b9769ef5916af695742d741
+wilco2010-03-29d1t37_Heavy_Metal_Drummer.flac:2b838c7dba797ab998ad60a07b320392
+wilco2010-03-29d1t38_Im_a_Wheel.flac:c8e0adaed8bca81ca02bac7b654994b1

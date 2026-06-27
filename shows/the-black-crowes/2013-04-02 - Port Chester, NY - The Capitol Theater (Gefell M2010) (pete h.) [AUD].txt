@@ -1,0 +1,48 @@
+The Black Crowes
+
+04-02-2013 (Tues)
+
+The Capitol Theater
+
+Port Chester, New York
+
+
+
+Source:  Microtech Gefell M210> Naiant Midbox (output transformers)> 
+         Oade Concert Mod Marantz PMD 661(@24bit/48khz)>SDHC card
+
+Location:  BOB, DFC, under balcony
+Config:  PAS, Mics on Stand @ 7.5'
+
+Transfer:  SDHC>iMAC>Audiofile Wave Editor (+Gain, resample 48>44.1khz,      dither, 24>16bit, tracking)>xACT (Flac level 8, tags) 
+
+Taped, transferred, and seeded by Pete H. (pocono_pete@yahoo.com)  
+
+t01)  Twice As Hard
+t02)  Sting Me
+t03)  Thick And Thin 
+t04)  Hotel Illness
+t05)  Medicated Goo
+t06)  Ballad In Urgency> 
+t07)  Jam>
+t08)  Wiser Time
+t09)  She Talks To Angels*
+t10)  Whoa Mule# 
+t11)  High Head Blues
+t12)  Soul Singing
+t13)  Thorn In My Pride
+t14)  Remedy
+t15)  Jealous Again
+t16)  Been A Long Time (Waiting On Love)
+t17)  E1:  Feathers
+t18)  E2:  Hard To Handle> Hush> Hard To Handle
+
+*  Jackie Greene on mandolin
+#  Jackie Greene on banjo
+
+Chris Robinson Ð vocals, harmonica
+Rich Robinson - guitar, vocals
+Jackie Greene Ð guitars, mandolin, banjo, vocals
+Adam MacDougall Ð keyboards
+Sven Pipien Ð bass
+Steve Gorman Ð drums, percussion

@@ -1,0 +1,18 @@
+Blondshell
+The Tonight Show with Jimmy Fallon
+New York City, New York
+April 4, 2023
+
+Salad
+
+[05:04]
+
+MPEG-2 TS
+1920 x 1080
+Interlaced
+16:9
+29.97 fps
+13 Mbps
+AC3 5.1, 48 Khz, 384 Kbps
+
+ATSC > Avermedia Tuner > Womble

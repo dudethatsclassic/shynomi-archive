@@ -1,0 +1,73 @@
+The Black Crowes
+Le Zenith
+Paris, France
+February 4, 1995
+
+** 16 BIT ** 
+
+Source:  Soundboard > Unknown recorder > Cassette (M) > Cassette (1) > Cassette (2)
+Transfer:  Cassette (2) > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Mastering:  .WAV's > Sound Forge Pro 11.0 (Build 299) [Splicing; minor edits, normalize, & fades] > iZotope RX6 Advanced v6.00.1210                (Spectral denoise) > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging) 
+Recorded by:  Unknown
+Transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist: (1:42:14)
+01 Sting Me
+02 Twice As Hard
+03 P.25 London
+04 High Head Blues
+05 Thorn's Progress > Pastoral Jam > 
+06 My Morning Song
+07 Ballad In Urgency >
+08 Wiser Time
+09 Thick N' Thin
+10 Hard To Handle
+11 Chat
+12 Nonfiction
+13 Waitin' Guilty
+14 Stare It Cold
+15 Jealous Again
+16 Encore Break
+- encore -
+17 She Talks to Angels
+18 She Gave Good Sunflower (cut, fades out)
+
+MISSING:
+Shake Your Money Maker (with Jimmy Page)
+Mellow Down Easy (with Jimmy Page)
+Remedy
+
+Chris Robinson - lead vocals & harp
+Rich Robinson - guitars & vocals
+Marc Ford - guitars & backing vocals
+Johnny Colt - bass & backing vocals
+Eddie Harsch - keyboards
+Chris Trujillo - percussion
+Steve Gorman - drums
+
+Notes:
+"Amorica or Bust" European Tour.
+The first 100 minutes of this show (i.e. minus the last three songs) was sent to some members of the TALLER Bootleg Exchange from Chris Robinson to start off the members with a show to trade.
+
+Mastering Notes:
+Tape flip @ 51:24 (at 7:06 of "Ballad In Urgency") - seamlessly spliced, but some music lost
+
+tbc1995-02-04t01.flac:2cdaeed65d2e8d3f4671501a8aedbd9d
+tbc1995-02-04t02.flac:7228f7788824e836d71c34027eb5801f
+tbc1995-02-04t03.flac:fbdf33f41e54a5448cae6dde58a6dc51
+tbc1995-02-04t04.flac:22a10955443b10c318ee6398350f4bcc
+tbc1995-02-04t05.flac:66825ab0b13cea0c914c5ca2a4893402
+tbc1995-02-04t06.flac:4b46c60e2b3b125f89c98922345fa04c
+tbc1995-02-04t07.flac:0b2fac438e637ea27e9a997fec986f32
+tbc1995-02-04t08.flac:7761c722c11b5db52cee5098346956ea
+tbc1995-02-04t09.flac:cbaa65b99a9fbf0b093b9ef60b216b8e
+tbc1995-02-04t10.flac:1d3c012397f8282e6efc92b2e187575f
+tbc1995-02-04t11.flac:54e19b32d50bcfba55a1d507cd3cbfe1
+tbc1995-02-04t12.flac:23091a4bdcef5f0b90469d1cb46b5e0f
+tbc1995-02-04t13.flac:90bd3b8b98fdc5662df135ae5305afb8
+tbc1995-02-04t14.flac:84f3265b29eee716c2313b3131134870
+tbc1995-02-04t15.flac:16b8df6481b4d1c59d5abe9b4efd23ad
+tbc1995-02-04t16.flac:d203725b1d62afde9de9f224531ac144
+tbc1995-02-04t17.flac:556b5503ba69c86fcadf18d3c114dbbc
+tbc1995-02-04t18.flac:350e40409fa5be5a2ab07459c6117dd5

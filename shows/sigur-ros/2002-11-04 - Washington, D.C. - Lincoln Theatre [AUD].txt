@@ -1,0 +1,19 @@
+sigur ros
+11/04/2002
+Lincoln Theater; Washington ,DC
+
+rec: fob>sonic studio dsmp6s>pa-6>Sony PCM-M1 dat @44.1
+transfer: tascam da 30-mkII>zoltrix nightengale6.0>soundforge6.0>cdwav>mkw>shn
+
+setlist
+
+01 Vaka 
+02-03 Fyrsta / Samskeyti  
+04 Salka 
+05 Ný Batterí 
+06 Njósnavélin 
+07 Svefn-g-englar 
+08 Mílanó 
+09 Hafsól 
+10 Olsen Olsen 
+11 Popplagið 

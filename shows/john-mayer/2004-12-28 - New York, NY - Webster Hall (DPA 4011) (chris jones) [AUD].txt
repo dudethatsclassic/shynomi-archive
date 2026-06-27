@@ -1,0 +1,36 @@
+John Mayer
+28 December 2004
+Webster Hall
+New York, New York
+
+Taper: Chris Jones <jones.chris@gmail.com>
+Source: DPA 4011 > Luminous Audio Technology Synchestra 4/9's Silver XLR Interconnect > Apogee Trak2 Integrated Pre | 24/96 A/D (@ 96kHz) > Luminous Audio Technology Allegro Signature 4/9's Silver AES/EBU Interconnect > Metric Halo Mobile I/O 2882 +DSP FireWire Interface (slaved to Trak2 clock @ 96kHz via AES/EBU) > Apple Titanium Powerbook G4 1gHz/768MB > Metric Halo Mobile I/O Beta Recording Console dspBeta26 (@ 24-bit/96khz)
+Location: Slightly stageleft of DFC, just FOB, ~ 50' from stage; stand at 14', mics ORTF.
+HD > .flac: Apple Powerbook G4/1ghz/768MB > Apple Power Mac G4 MP800/512 > MOTU Digital Performer 4.12 > T.C. Works Spark XL 2.8 > xACT v1.12
+
+Dithered to 16-bit and resampled via MegaBitMax and its Ultra-Noiseshaping function.
+
+d1t01 Introduction					01:06.36
+d1t02 Empty Arms					04:18.34
+d1t03 So Excited					04:56.20
+d1t04 Bleeding Hearts Blues				11:50.07
+d1t05 Feels Like Rain					08:31.28
+d1t06 I'm Tore Down					06:29.73
+
+							37:12.48
+
+d2t01 Little Wing					08:31.10
+d2t02 Wait Until Tomorrow (Steal My Kisses)		05:41.24
+d2t03 Machine Gun / Voodoo Chile (Slight Return)	18:07.40
+---
+d2t04 Wind Cries Mary					05:08.24
+d2t05 Come Back To Bed					07:20.42
+
+							44:48.65
+
+Notes:
+
+24/96 .flac24 files available.
+
+Compiled by Chris Jones <jones.chris@gmail.com> 1 January 2005.
+

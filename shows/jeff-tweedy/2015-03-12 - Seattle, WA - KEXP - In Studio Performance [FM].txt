@@ -1,0 +1,43 @@
+Tweedy
+In Studio Performance
+"The Midday Show"
+KEXP-FM
+Seattle, WA
+March 12, 2015
+
+** 16 BIT **
+
+Source:  KEXP-FM Windows Media stream @ 1.4Mbps > Sound Forge Pro 10.0a @ 24 bit/48 kHz
+Mastering:  .WAV > Sound Forge Pro 10.0a (normalize & fades) > CDWav (tracking) > iZotope MBIT+ (dithered and downsampled to 16 
+            bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 5.1 (tagging)
+Recorded and mastered by:  Dennis Orr
+
+Setlist:
+01 DJ Intro/Band Intros 
+02 World Away
+03 Interview
+04 Summer Noon
+05 Interview
+06 The Losing End (When You're On)
+07 Interview
+08 Low Key
+09 Outro
+
+Jeff Tweedy - lead vocals & guitar
+Jim Elkington - guitar 
+Darin Gray - bass
+Liam Cunningham - guitar, keyboards, & backing vocals
+Sima Cunningham - backing vocals
+Spencer Tweedy - drums
+
+DJ - Cheryl Waters
+
+Tweedy2015-03-12KEXP-t01.flac:500b519795559f92bdde96221ea64bca
+Tweedy2015-03-12KEXP-t02.flac:3276005260c084a3a8b6239bb95dc7c4
+Tweedy2015-03-12KEXP-t03.flac:1c4cbd1e8b5880d6f9cb33d59f82d591
+Tweedy2015-03-12KEXP-t04.flac:a52f501f6f7cafe5d081b3dc0900fd94
+Tweedy2015-03-12KEXP-t05.flac:7157e71e4b9f98acf53b451d851ec35a
+Tweedy2015-03-12KEXP-t06.flac:a10fe6cce3d3a07f7d1393e4b7c90d0a
+Tweedy2015-03-12KEXP-t07.flac:9308d518159b2d02f9be18e27b095fb3
+Tweedy2015-03-12KEXP-t08.flac:3b71b402bf4616132e9dabc859e1f8eb
+Tweedy2015-03-12KEXP-t09.flac:6ed78c1c1ae614ea3d2c62ac6e389a7d

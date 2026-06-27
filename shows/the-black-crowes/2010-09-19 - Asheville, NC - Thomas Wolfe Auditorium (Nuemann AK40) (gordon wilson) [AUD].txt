@@ -1,0 +1,86 @@
+The Black Crowes
+09/19/2010
+Thomas Wolfe Auditorium
+Asheville, NC
+
+source:   Neumann ak40 > lc3 > km100 (din) > Lunatec V3 > Edirol R-44 @ 24/48
+location: Row T seats 11&12, FOB just LOC mics at 7' set one and 7.5' set two
+transfer: SDHC card > PC > wavelab 6.1 > cd wave > traders little helper (flac level 8)
+
+all editing (fades, Crystal Resampler (high), dither w/ iZotope Ozone 4) done in wavelab 6.1
+
+*16bit/44.1khz fileset*
+
+recorded and transferred by Gordon Wilson
+
+A Team Dirty South Recording
+
+set one/acoustic:
+
+01. Intro
+02. Jealous Again
+03. Hotel Illness
+04. Whoa Mule
+05. Lost my Driving Wheel
+06. What Is Home
+07. Ballad In Urgency
+08. Wiser Time
+09. East Virginia Blues
+10. Oh Josephine
+11. Nonfiction
+12. My Morning Song
+13. Miracle To Me
+
+set two/electric:
+
+01. Move It On Down The Line
+02. Black Moon Creeping
+03. Let It Be Gone
+04. Greenhorn
+05. Poor Elijah/Tribute To Johnson
+06. Downtown Money Waster
+07. Thorn In My Pride >
+08. Drums >
+09. Blues Jam >
+10. Thorn In My Pride 
+11. Hard To Handle
+12. Remedy
+
+encore:
+13. She Talks To Angels
+14. Hot Burrito #2
+
+
+shntool 3.0.4
+Copyright (C) 2000-2007 Jason Jordan <shnutils@freeshell.org>
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:20.18       14154380 B   ---   --   ---xx   flac  0.4590  blackcrowes2010-09-19s1t01.flac
+     6:52.23       72730940 B   ---   --   ---xx   flac  0.6000  blackcrowes2010-09-19s1t02.flac
+     4:00.25       42394844 B   ---   --   ---xx   flac  0.6191  blackcrowes2010-09-19s1t03.flac
+     7:37.59       80753612 B   ---   --   ---xx   flac  0.5674  blackcrowes2010-09-19s1t04.flac
+     8:50.35       93574364 B   ---   --   ---xx   flac  0.5388  blackcrowes2010-09-19s1t05.flac
+     6:28.16       68480876 B   ---   --   ---xx   flac  0.5823  blackcrowes2010-09-19s1t06.flac
+    10:31.31      111381356 B   ---   --   ---xx   flac  0.5716  blackcrowes2010-09-19s1t07.flac
+    13:39.00      144471644 B   ---   --   ---xx   flac  0.5631  blackcrowes2010-09-19s1t08.flac
+     5:36.20       59317484 B   ---   --   ---xx   flac  0.5359  blackcrowes2010-09-19s1t09.flac
+     8:20.04       88209452 B   ---   --   ---xx   flac  0.5718  blackcrowes2010-09-19s1t10.flac
+     9:35.61      101573516 B   ---   --   ---xx   flac  0.5657  blackcrowes2010-09-19s1t11.flac
+     7:29.08       79222460 B   ---   --   ---xx   flac  0.6425  blackcrowes2010-09-19s1t12.flac
+     6:32.19       69193532 B   ---   --   ---xx   flac  0.5350  blackcrowes2010-09-19s1t13.flac
+     8:47.59       93101612 B   ---   --   ---xx   flac  0.5210  blackcrowes2010-09-19s2t01.flac
+     9:34.06      101267756 B   ---   --   ---xx   flac  0.5586  blackcrowes2010-09-19s2t02.flac
+     5:57.47       63085388 B   ---   --   ---xx   flac  0.5373  blackcrowes2010-09-19s2t03.flac
+     8:04.12       85405868 B   ---   --   ---xx   flac  0.4856  blackcrowes2010-09-19s2t04.flac
+    13:57.54      147773852 B   ---   --   ---xx   flac  0.5283  blackcrowes2010-09-19s2t05.flac
+    13:26.10      142201964 B   ---   --   ---xx   flac  0.5353  blackcrowes2010-09-19s2t06.flac
+     5:45.74       61032092 B   ---   --   ---xx   flac  0.5316  blackcrowes2010-09-19s2t07.flac
+     5:22.47       56911388 B   ---   --   ---xx   flac  0.5398  blackcrowes2010-09-19s2t08.flac
+     3:27.56       36646556 B   ---   --   ---xx   flac  0.5802  blackcrowes2010-09-19s2t09.flac
+     2:24.41       25498076 B   ---   --   ---xx   flac  0.5493  blackcrowes2010-09-19s2t10.flac
+     3:40.48       38920940 B   ---   --   ---xx   flac  0.5629  blackcrowes2010-09-19s2t11.flac
+     8:08.40       86177324 B   ---   --   ---xx   flac  0.5468  blackcrowes2010-09-19s2t12.flac
+     6:34.71       69668636 B   ---   --   ---xx   flac  0.5069  blackcrowes2010-09-19s2t13.flac
+     5:37.30       59517404 B   ---   --   ---xx   flac  0.5455  blackcrowes2010-09-19s2t14.flac
+   197:43.14     2092667316 B                            0.5519  (27 files)
+

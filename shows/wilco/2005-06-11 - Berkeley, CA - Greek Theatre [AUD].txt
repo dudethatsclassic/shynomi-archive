@@ -1,0 +1,70 @@
+WILCO
+Greek Theatre - Berkeley, CA
+June 11, 2005
+
+***16-BIT VERSION***
+
+***PLEASE DO NOT ENCODE TO MP3!***
+***PLEASE DO NOT SELL!!!***
+
+-source-
+AKG C414 B-XLS/ST (DIN; cardioid, 20cm, °90) > Edirol UA-5 (Oade T-mod +) @24/48 > Samsung P30/WaveLab v5.00
+(first row behind board)
+
+-conversion-
+WaveLab v5.00 (3db boost, fades, resampling, dither using UV22 HR) > CDWave v1.93 > FLAC frontend 
+
+-tracklist-
+*CD1*
+01. Misunderstood
+02. Company in My Back
+03. Airline to Heaven
+04. I'm Trying to Break Your Heart
+05. Kamera
+06. The Late Greats
+07. Handshake Drugs
+08. Muzzle of Bees
+09. A Shot in the Arm
+10. At Least That's What You Said
+11. Jesus, etc.
+12. Hummingbird
+13. Theologians
+14. I'm the Man Who Loves You
+
+*CD2*
+01. Poor Places
+02. Spiders (Kidsmoke)
+(encore #1)
+03. Bob Dylan's 49th Beard
+04. Sunken Treasure
+05. Kingpin
+06. I'm a Wheel
+07. Just a Kid
+(encore #2)
+08. California Stars
+09. Passenger Side
+10. Heavy Metal Drummer
+
+
+-fingerprints-
+qotsa2005-05-31d1t01.flac:12ba03808ccb3be44dbc4c1f8b6cc4a1
+qotsa2005-05-31d1t02.flac:c1c06d616c816f7de037eb8f7eca1b7b
+qotsa2005-05-31d1t03.flac:9ff264875475c386eabe7fb89f11e938
+qotsa2005-05-31d1t04.flac:03f2253b300466d2be395cb9efb5edeb
+qotsa2005-05-31d1t05.flac:1d4ae0e56abcaf3076a3d63569b88b97
+qotsa2005-05-31d1t06.flac:094a1208a611218ca46a0da3b01be40c
+qotsa2005-05-31d1t07.flac:760cf69dac650d658dc52011655548c6
+qotsa2005-05-31d1t08.flac:c5030b7c066b0312ca8136fa44e5da3d
+qotsa2005-05-31d1t09.flac:5cae08834166ebe696ac797251f570cd
+qotsa2005-05-31d1t10.flac:4d6a08d394bfff69c53170c0b4f48ed1
+qotsa2005-05-31d1t11.flac:99b73ab178f2e1523600630339b4b037
+qotsa2005-05-31d2t01.flac:06cb0a6c42baad478cbbbf66411d3eaa
+qotsa2005-05-31d2t02.flac:40cbefcabda382abb7294332824848d8
+qotsa2005-05-31d2t03.flac:6f5819c5214b3771713b54eb729429d8
+qotsa2005-05-31d2t04.flac:bbc22cd669df456799ce53e5d03e33ec
+qotsa2005-05-31d2t05.flac:02126247e21a6a01ea39ee88f32a1bb9
+qotsa2005-05-31d2t06.flac:8a3d29abd82d866b9803901b0578ec82
+qotsa2005-05-31d2t07.flac:f55aa1bc8eb35de73d1b941c4d36de4f
+qotsa2005-05-31d2t08.flac:6a10bd9ec767df4af244c08d04cd660c
+qotsa2005-05-31d2t09.flac:cdee457783e62597f37849f1b60647ca
+qotsa2005-05-31d2t10.flac:ba40be8dafb5120b358d0b8f835d7ca2

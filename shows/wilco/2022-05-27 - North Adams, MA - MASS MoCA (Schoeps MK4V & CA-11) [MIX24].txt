@@ -1,0 +1,101 @@
+Wilco
+Solid Sound Festival 
+Joe's Field
+MASS MoCA
+North Adams, MA
+May 27, 2022
+
+** 24 BIT **
+
+Source #1:  Schoeps MK4V radial cardioids (in a Kangol hat) > Nbob actives > Nbox Platinum > Roland R-05 @ 24 bit/48 kHz
+Source #2:  CA-11 cardioids > CA Battery Box > Roland R-05 @ 24 bit/48 kHz
+Mastering:  .WAV's > Adobe Audition CC Version 6.0, Build 732 (matrix mixdown) > iZotope RX9 Advanced v9.0.0.1130 (De-Click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, 
+Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  Source #1:  Right side, approximately even with the SBD, Source #2:  Right of centre, 30 feet from the stage
+Recorded by:  Source #1:  Jim Kelly (musicjaime), Source #2:  ManOfStealth
+Mastered by:  Dennis Orr
+
+Setlist: (1:54:19)
+01 Crowd
+02 I Am My Mother
+03 Cruel Country
+04 Hints
+05 Ambulance
+06 The Empty Condor
+07 Tonight’s The Day
+08 All Across The World
+09 Darkness Is Cheap
+10 T
+11 Tired Of Taking It Out On You
+12 The Universe
+13 Many Worlds
+14 Hearts Hard To Find
+15 Falling Apart (Right Now)
+16 Please Be Wrong
+17 Story To Tell
+18 A Lifetime To Find
+19 Country Song Upside-Down
+20 Mystery Binds
+21 Sad Kind Of Way
+22 The Plains
+23 Encore Break
+- Encore -
+24 It's Just That Simple (1)
+25 New Madrid
+26 Chat
+27 Climbing
+28 Wild Mountain Thyme
+29 Chat
+30 Once A Day (2)
+31 Chat
+32 She's My Rock
+33 Chat
+34 Reincarnation
+
+(1) John - lead vocals & guitar, Jeff - bass & backing vocals
+(2) with Neko Case & Nora O'Connor - vocals
+
+Jeff Tweedy - lead vocals, guitars, & bass
+Nels Cline - lead guitar, loops, & lap steel
+Pat Sansone - keyboards, rhythm & lead guitars, backing vocals, synthesizers, maracas, & tambourine
+John Stirratt - bass, guitar, & backing vocals
+Mikael Jorgensen - samples & sound manipulation, keyboards, synthesizers, effects, piano, & organ
+Glenn Kotche - drums & percussion
+
+Notes:
+Release party for Wilco's new double CD "Cruel Country".  The album is played in its entirety, and in order.
+
+Wilco2022-05-27MATRIX-t01.flac:f2eb1a68d4c5b39e5ffcc191e8ced6f1
+Wilco2022-05-27MATRIX-t02.flac:100471a2a7e4941585e7123f69f5db54
+Wilco2022-05-27MATRIX-t03.flac:76a47120b83e2a023ee3bc015ddcdd98
+Wilco2022-05-27MATRIX-t04.flac:16c8e4e72cc13b9c2c0ab28b581fbcef
+Wilco2022-05-27MATRIX-t05.flac:95fdd8bf35ff59a518db888832a9730a
+Wilco2022-05-27MATRIX-t06.flac:b832d68efdd30d1d14f78ba14c746dc3
+Wilco2022-05-27MATRIX-t07.flac:5d3d6d699fb8bc266f2bcf1fcea6021a
+Wilco2022-05-27MATRIX-t08.flac:a94b1389d097dda9f52aa33e1e798676
+Wilco2022-05-27MATRIX-t09.flac:cac1e9462048dcdb589d045a703dc893
+Wilco2022-05-27MATRIX-t10.flac:d0e405e7894959655273ca3f1ef300bb
+Wilco2022-05-27MATRIX-t11.flac:29970478d9f02ca2cce4c989ab0e7f58
+Wilco2022-05-27MATRIX-t12.flac:56e9433a6595c49a088a1f24e322ffab
+Wilco2022-05-27MATRIX-t13.flac:b402fe7be02fd136520ac7a86a8c8d3e
+Wilco2022-05-27MATRIX-t14.flac:2e373f33ffef88f26f977de189652b93
+Wilco2022-05-27MATRIX-t15.flac:38beef267f0242a4900c0f1815a04a2c
+Wilco2022-05-27MATRIX-t16.flac:3c84551e537b378374298a141420e3b2
+Wilco2022-05-27MATRIX-t17.flac:5f4d2d9d1f6dc38e2073931b2c476568
+Wilco2022-05-27MATRIX-t18.flac:847e31d1de006b478c27d6d939d8f3c5
+Wilco2022-05-27MATRIX-t19.flac:d7c119f01b77023d1053b4b12e9c0b0f
+Wilco2022-05-27MATRIX-t20.flac:c6c2d4a5fbbd3bbe466e9dfa6bfbc083
+Wilco2022-05-27MATRIX-t21.flac:442a338fe8ca9b531254e954e7e10634
+Wilco2022-05-27MATRIX-t22.flac:c18e2d0a355b731c5dea13d57151ff96
+Wilco2022-05-27MATRIX-t23.flac:f8e0652540cd33fca995ce9471a57b38
+Wilco2022-05-27MATRIX-t24.flac:c01818df42c29c99c74e0265aac706fc
+Wilco2022-05-27MATRIX-t25.flac:6925bb1e83cd6a8c2fd9ce3fd969a4d4
+Wilco2022-05-27MATRIX-t26.flac:5c976f9b9c75420b88f55827f0fe2d2d
+Wilco2022-05-27MATRIX-t27.flac:d7dc3a444e4a1bce23d119bbb3f4ad24
+Wilco2022-05-27MATRIX-t28.flac:57d4e6bc3209d2728c1d6171f39fc66f
+Wilco2022-05-27MATRIX-t29.flac:e844a696f51e6e617578cdda6709c31b
+Wilco2022-05-27MATRIX-t30.flac:49eecb9ec4e98658547d8791125a963d
+Wilco2022-05-27MATRIX-t31.flac:b929244bb267a8f8271e9880a9e7413b
+Wilco2022-05-27MATRIX-t32.flac:ec49b86f108c6aa46305f76b2d5fc571
+Wilco2022-05-27MATRIX-t33.flac:d4030ae8be946a2b37c5758bf92dee84
+Wilco2022-05-27MATRIX-t34.flac:16d3f0c93d8a6abf7646415e4f83cce9

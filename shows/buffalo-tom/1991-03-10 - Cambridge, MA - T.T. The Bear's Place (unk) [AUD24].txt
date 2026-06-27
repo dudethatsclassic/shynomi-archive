@@ -1,0 +1,31 @@
+Buffalo Tom
+T.T. The Bear's Place
+Cambridge, Massachusetts, USA
+March 10, 1991
+
+Source: audience recording, unknown equipment, unknown gen. but likely from master tape or not far off the master tape, via:
+https://archive.org/details/buffalo-tom-buffalo-brain-tt-the-bears-cambridge-ma-1991-03-10
+Lineage: single flac stereo file @ 24b/48k > wav > Adobe Audition (track/edit) > wav @ 24b/48k > TLH > flac
+Taper: 'Taped by Sluggo'
+
+Set List
+
+01.Intro
+02.Crawl
+03.Staples >
+04.Enemy
+05.Saving Grace
+06.Taillights Fade >
+07.Birdbrain
+08.Fortune Teller
+09.Flushing Stars
+10.Mineral
+11.Larry
+12.Impossible
+
+TT: 44'50
+
+Notes
+-cleaned up brief dropouts and/or cuts during the post song portions of tracks #2, #4 & #9
+-edited cut between tracks #11 & #12
+-no other edits/processing

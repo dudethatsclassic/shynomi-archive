@@ -1,0 +1,68 @@
+Wilco
+September 15th, 2004
+The Fox Theater
+St. Louis, MO
+
+Taper: det1967
+
+Source: Coresound binaurals>Sony M-1 DAT (line-in)
+
+Transfer: 7 pin to coax out>WAV>Eq'd in Tracktion>FLAC
+
+Notes: Recorded 2nd row dead center in the orchestra pit.
+
+Set I 
+Muzzle Of Bees
+Company In My Back
+I Am Trying To Break Your Heart
+A Shot In The Arm
+Hummingbird
+Hell Is Chrome
+Handshake Drugs
+A Magazine Called Sunset
+War On War
+Jesus, Etc.
+At Least That's What You Said
+Pot Kettle Black
+Theologians
+I'm The Man Who Loves You
+Poor Places
+Spiders (Kidsmoke)
+
+Encore 1:
+The Late Greats
+Casino Queen
+Kingpin
+I'm A Wheel
+
+Encore 2:
+Christ For President
+Be Not So Fearful
+New Madrid
+The Lonely 1
+
+
+FFP:
+1.Muzzle Of Bees.flac:8d12137f5e6edae4a772ec6d4a9b1b4d
+2.Company In My Back.flac:5c47f151fa6dfac2db28f3d6faff11bf
+3.I Am Trying To Break Your Heart.flac:596496fb9d11e17cad06a74d19922cf8
+4.A Shot In The Arm.flac:0c54a1c97080367d11fd42059d313428
+5.Hummingbird.flac:d6e56b78705a6ee7d83f56cd37df51d1
+6.Hell Is Chrome.flac:1d73a4206636e9f32fe957f201db8af1
+7.Handshake Drugs.flac:dff088a2b91e86b710840fcb86f657b5
+8.A Magazine Called Sunset.flac:6caa597d95b2a45496db90071e84da44
+9.War On War.flac:bbf1ac822854917acf5c3feadf737d05
+10.Jesus, Etc.flac:84dada2cc094390c40fa4a1edaa26feb
+11.At Least That's What You Said.flac:33748e263bc438a00c1bb2852d71b421
+12.Pot Kettle Black.flac:4507ed7ad509846189c6035237ada4be
+13.Theologians.flac:a8a08e0e076891ed96b82a93b4a0dce8
+14.I'm The Man Who Loves You.flac:20db5394b63e4ecfe36f6d2f2d19428b
+15.Poor Places.flac:ac5de9d6862d53dc3c750a09e18d21a0
+16.Spiders (Kidsmoke).flac:1011a81b053710931f104c85beb08cbe
+17.The Late Greats.flac:9d4ae43fe95c00a36955ddd45542d372
+18.Casino Queen.flac:22e0e38a10e9eabd506c27556c741684
+19.Kingpin.flac:a94009aa68b449078837e860fad992c7
+20.I'm A Wheel.flac:027b816890de2ac28380959c670d470b
+21.Christ For President.flac:acf5251688c7d65f807be30acbd63eb6
+22.Be Not So Fearful-New Madrid.flac:1f664ac3f9963cb60fd415b951e2dfde
+23.Lonely One.flac:f3e75405ff5cf619d4ff96bf27ca4823

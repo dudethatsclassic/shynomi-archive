@@ -1,0 +1,48 @@
+Jeff Tweedy
+Alabama Theatre - Birmingham, AL
+01/27/2007
+
+Source: Schoeps mk4> Reutelhuber> Edirol Ua-5> iriver h120 (16/44.1)
+Location: Orch Center, Row D, Seat 105 (4th Row DFC)
+Transfer: h120> usb> Audacity 1.3.2 (see notes)> xACT (fixed SBE's and converted to .flac)
+Taped and Transferred by Patrick Moore (pat@taperssection.com)
+
+One Set 
+Disc One
+01 Spiders (Kidsmoke)
+02 Remember the Mountain Bed
+03 I am Trying to Break your Heart
+04 Muzzle of Bees
+05 Sunken Treasure
+06 Wait Up
+07 The Ruling Class
+08 She's A Jar
+09 Be Patient With Me
+10 New Madrid
+11 Airline to Heaven
+
+Disc Two
+Encore
+01 Crowd/Banter
+02 Not for the Season
+03 Gun
+04 Theologians
+05 Bob Dylan's 49th Beard
+06 Heavy Metal Drummer
+07 Jesus, etc.
+08 I'm The Man Who Loves You
+
+Encore 2
+09 Shot in the Arm
+10 Someone Else's Song*
+11 Acuff-Rose*
+
+
+Notes:
+To avoid having thunderous digital clips on the recording, I used a slightly steep compressor to level off the crowd cheers between songs.  This brought the applause from a clipping level to about -10db or so.  I also used a click remover plugin to take out some harsh claps happening inches from the microphones.  Even still, the music is significantly quieter than the audience cheers.  I wanted to do as little dynamic editing possible; the room sounded great, and I don't want to take all the dynamics from the recording in exchange for a more "loud" final mix.  If it's too soft, turn it up :)
+
+*Jeff performed the final 2 songs unplugged on stage lip.  Even though we were fairly close, I boosted levels about +10db to compensate for the low signals.  
+
+Audience patch from 0:00 - 0:32 of d1t01.  
+Source: Neumann ak20/40 (m/s)> Busman-mod R4 (24/96)
+Thanks to Kevin Lowe for the patch

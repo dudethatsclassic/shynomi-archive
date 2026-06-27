@@ -1,0 +1,40 @@
+Dave Matthews Band 
+August 29, 2016
+William Randolph Hearst Greek Theatre - Berkeley, CA
+
+Taper: Jon Koch 
+Source: Schoeps MK4 > active cables > Nbox+ > Edirol R-09HR (24/48) 
+Location: Outside railing in line with right side coverage stack, Mics DIN ~ 13'
+Transfer: Edirol R-09HR > SDHC > PC 
+Edit: wav > Sony Soundforge 9.0a > wav > CD Wave > wav 
+Conversion: wav > Trader's Little Helper 2.4.1 > .flac 
+
+---PRESERVE THE QUALITY, PLEASE DO NOT ENCODE INTO MP3 OTHER THAN FOR PERSONAL USE--- 
+
+01: Intro				[01:57]
+02: One Sweet World			[07:20]
+03: Old Dirt Hill			[09:17]
+04: The Song That Jane Likes		[04:42]
+05: Proudest Monkey >			[09:06]
+06: Satellite				[05:31]
+07: Lie In Our Graves			[13:34]
+08: Gravedigger				[09:21]
+09: Samurai Cop				[07:08]
+10: Warehouse				[12:04]
+11: #41					[12:53]
+12: Minarets				[09:06]
+13: Improv Jam				[01:25]
+14: Bob Law				[07:02]
+15: Grey Street				[06:27]
+16: Burning Down The House		[04:51]
+17: You & Me				[06:02]
+18: Belly Belly Nice			[04:20]
+19: You Might Die Trying		[08:17]
+20: Encore break/intro			[08:04]
+21: Oh					[04:04]
+22: All Along The Watchtower		[10:57]
+Total:	      			       [2:43:28] 
+
+Notes: This recording is dedicated to the memory of LeRoi Moore. 
+
+Compiled on 08.30.16

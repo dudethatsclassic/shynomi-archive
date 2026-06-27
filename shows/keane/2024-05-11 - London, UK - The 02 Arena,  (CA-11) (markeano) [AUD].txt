@@ -1,0 +1,66 @@
+Keane
+Live at The O2 Arena
+London
+2024.05.11
+
+Taper: Markeano
+Edited by: Pieteker
+Equipment: CA 11 Microphones (cards) > Ugly Battery Box > Roland R-05 (24-bit/44.1kHz)
+Transfer: SD Card > MSI Gaming Laptop > Audacity (amplification & tracking) > .WAV > TLH (FLAC level 6) > DIME
+Artwork: Included
+
+Setlist:
+
+Can't Stop Now
+Silenced by the Night
+Bend and Break
+Your Eyes Open
+Nothing in My Way
+The Way I Feel
+Sunshine
+You Are Young
+Everybody's Changing
+On a Day Like Today
+Perfect Symmetry
+A Bad Dream
+Untitled 1
+Spiralling
+Is It Any Wonder?
+She Has No Time
+This Is the Last Time
+Crystal Ball
+Somewhere Only We Know
+We Might as Well Be Strangers
+Sovereign Light Café
+Bedshaped
+
+Running Time: 1 hour 50 minutes 8 seconds
+
+Notes: Keane packed out the O2 arena for a second night in a row and played their landmark album "Hopes and Fears" in its entirety.
+
+FLAC Fingerprint:
+
+01 - Intro.flac:15fde645c0eb9472a0bc76fe99a7aec4
+02 - Can't Stop Now.flac:2e22632e536a94f1c94b1a3e52cadfbe
+03 - Silenced By The Night.flac:636691e17c73795cf5b1c1290be4b1ab
+04 - Bend And Break.flac:ba7748fd9689fde250aa2cb3cf18842d
+05 - Your Eyes Open.flac:d3895113042baf6efddd1f1c4b6b95d9
+06 - Nothing In My Way.flac:8ed512a9dc7b6c8111c63d55ed28423e
+07 - The Way I Feel.flac:34f35c07d73f433a60d9988063524dd7
+08 - Sunshine.flac:7d541fb538aea5907106e840eca3ff1d
+09 - You Are Young.flac:64c6fa882ccf7336110cb8f6e76b93ec
+10 - Everybody's Changing.flac:0254b4c1acdb0c51128a2ce8e6d4b267
+11 - On A Day Like Today.flac:533f82ae9723ce1f70dbe52d19e93052
+12 - Perfect Symmetry.flac:fbdc7401d0292a996f26f176b39eb87b
+13 - A Bad Dream.flac:e84b526999ca1d71e547b8efd42e2857
+14 - Untitled 1.flac:7d3bbe404ecd05fced46d2f37dea4cbe
+15 - Spiralling.flac:2c894aa432ca464a6084bf18ed496fd0
+16 - Is It Any Wonder.flac:0a43152a2bb9462459322ff1ea6d6895
+17 - She Has No Time.flac:04f520c4dd4666a257c3687361274f09
+18 - This Is The Last Time.flac:6286700e68f42570cd7e29d1e7834364
+19 - Crystal Ball.flac:7bfad9bba09772387d18d4cfd7a7c398
+20 - Somewhere Only We Know.flac:6860eae3a87f4dbbd75f5b1f50e0939f
+21 - We Might As Well Be Strangers.flac:7db9ebef71c88e4af018e46bf06fba78
+22 - Sovereign Light Café.flac:7ce2b8b689b3b75cebc447a9ced0d5ad
+23 - Bedshaped.flac:55f1744b25fccd43d756af224f0116cb
+24 - Outro.flac:0bf938a7a8e042cd80015800abb6d869

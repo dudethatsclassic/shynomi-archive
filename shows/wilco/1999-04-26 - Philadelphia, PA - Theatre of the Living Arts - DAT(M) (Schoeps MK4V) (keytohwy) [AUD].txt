@@ -1,0 +1,75 @@
+Wilco
+April 26, 1999
+Theatre of the Living Arts
+Philadelphia, Pennsylvania
+
+Schoeps MK4V>VMS>SBM1>Sony M1
+
+Master DAT > Sony 59ES > optical > PowerMac G5
+Amadeus for tracking, xACT for FLAC
+[> ? > m4a > dbpoweramp 16.4 > SSRC > Soundforge Pro 17 > CDWave 1.98 > TLH 2.84 > FLAC]
+
+DL master 
+
+01 I’m Always In Love
+02 I Must Be High
+03 Summer Teeth >
+04 How To Fight Loneliness >
+05 Hotel Arizona
+06 Nothing'severgonnastandinmyway (again)
+07 Red-Eyed And Blue >
+08 I Got You (At The End Of The Century)
+09 She’s A Jar
+10 A Shot In The Arm
+11 We’re Just Friends
+12 Forget The Flowers
+13 New Madrid tease
+14 Hesitating Beauty
+15 Christ for President
+16 Passenger Side
+17 Can’t Stand It
+18 Monday
+19 ELT
+20 My Darling
+21 When You Wake Up Feeling Old
+22 New Madrid
+23 California Stars %
+24 Hoodoo Voodoo >
+25 Casino Queen >
+26 Outtasite (Outta Mind)
+
+100:03
+
+
+I've found out that there are many Wilco shows up to ~2005 that have probably never been torrented (at least not since ~2005)
+but have only been traded, presumably in the last years of traditional trading. db.etree currently lists ~130 such Wilco/Tweedy shows !!
+
+Somehow, these shows were forgotten in the first waves of torrenting - or deemed not worthy of digital distribution 
+... or simply those traders in possesion never made the step to torrenting and then stopped trading altogether, like most everybody did.
+I've searched high and low, checked countless old lists and sent a lot of asking mails to ancient email addresses. 
+About half of them bounced, another quarter didn't reply - and the ones that did hadn't traded (or stopped collecting) in a long time. 
+But then I found some nice persons who were willing to share shows with me. 
+
+Arrangements were made and in 2018/19 I was able to share close to 30 Wilco and Jeff Tweedy shows with you.
+As a result, a couple more Wilco collectors got in touch and provided me with some more shows that I'll be able to share with you,
+some have never circulated, others have not been torrented for a long, long while.
+I still have not listened to them all, most need some work, it'll take some time, please be patient. 
+Now, by August 2023, all in all almost 50 shows have been unearthed - and there are still about 15 shows you may look forward to !
+
+If anybody knows of or has a connection to 'old-time' Wilco traders or even tapers, please ask them to get in touch,
+there are still a couple dozen shows out there that are known to have been recorded and traded in the pre-torrent era.
+
+
+notes to the 2023 edition:
+Very energetic show at the intimate TLA in Philadelphia, including an hilarious mid-show section featuring a crazy Dylanesque New Madrid tease.
+I received this directly from the taper as lossless 16/48 m4a files. There were very tiny errors at the track marks, probably from one of the conversions, but these could be repaired. 
+Also, there were two drops, presumably on the DAT master, that I have patched with the other circulating recording from 'billydee', in track 01 from 3:02 to 3:06 and 
+in track 9 from 4:33 to track 10 0:06.Additionally, I have tried to smoothen a volume drop from track 06 @ 0:58 to track 8 @ 1:19
+Many thanks to keytohwy !
+
+[2023-08-08 + 09]
+
+
+Respect the Artists
+Never sell - for trade only
+Please do not encode to lossy formats

@@ -1,0 +1,31 @@
+Tori Amos
+March 18, 2022
+Dublin, Ireland
+3Olympia Theater
+
+Taper: Sufisdance
+Location: Stalls, row C, slightly right of center (special thanks to Douglas for the seat swap)
+Source: SP-CMC-8 Cardioids (courtesy of Sophia)  > SP-SPSB-6 (rolloff @ 107Hz) > Tascam DR-07 44.1 kHz, 16-bit stereo WAV 
+Transfer: SD card slot > Copy wav to Hard drive > CDWave (tracking) > Flac Frontend > flac (level 8) > Mp3 tag (flac tagging)
+
+Setlist
+01. Juarez
+02. Bouncing Off Clouds (with a line from Reindeer King)
+03. hello/band intro 
+04. Crucify
+05. Give
+06. Ocean to Ocean
+07. 1000 Oceans
+08. chat
+09. Indian Summer (solo)
+10. Russia
+11. Little Amsterdam
+12. Addition of Light Divided
+13. Take to the Sky (with I Feel The Earth Move)
+14. Black-Dove (January)
+15. Devil's Bane
+16. Cornflake Girl
+17. --encore break
+18. Spies
+19. Precious Things
+

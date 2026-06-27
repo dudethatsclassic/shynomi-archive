@@ -1,0 +1,35 @@
+Wilco
+12/16/2008
+Madison Square Garden
+New York, NY
+
+Recorded by: scb
+Source; DPA (B&K) 4023s > Sound Devices 722 @ 24 bit, 96khz
+Sound Devices 722 > Apple MacBook Pro > Spark XL 2.8.2 (tracking, normalize) > Sample Manager 3.1.2 (Izotope resampling to 44.1khz, MBIT+ dither to 16 bit) > xACT 1.65 > flac
+
+
+Disc 1
+
+01 Intro                           00:37.08
+02 You Are My Face                 04:52.61
+03 I Am Trying To Break Your Heart 06:02.71
+04 Handshake Drugs                 06:01.47
+05 A Shot In The Arm               05:06.72
+06 Impossible Germany              07:03.45
+07 Jesus                           05:18.21
+08 The Late Greats                 03:12.53
+09 Hate It Here                    04:42.34
+10 Walken                          05:03.44
+11 I'm The Man Who Loves You       04:41.45
+
+Disc 1 Total: 52:43.51
+
+
+notes: 
+-opening for Neil Young
+-Crazy old man rambling on between tracks 6 and 7
+-This is a 16 bit, 44.1khz copy for CD. The original 24 bit, 96khz recording exists in flac format. 
+
+Thanks to Larry for the ticket!
+
+compiled by scb on 1/19/2009

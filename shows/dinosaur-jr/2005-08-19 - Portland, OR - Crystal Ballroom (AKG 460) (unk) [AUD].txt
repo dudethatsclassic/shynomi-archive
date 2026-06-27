@@ -1,0 +1,25 @@
+Dinosaur Jr - 2005 08 19 @ Crystal Ballroom, Portland, OR
+
+Notes:
+Does it Float was split in 2 tracks, so I merged them in SoundForge.  Bulbs of Passion and Chunks were one track, so I split them.
+
+1 intro
+2 Quest
+3 Raisans
+4 Yeah We Know
+5 Gargoyle
+6 In a Jar
+7 Forget the Swan
+8 Little Fury Things
+9 Kracked
+10 Does It Float
+11 Mountain Man
+12 The Lung
+13 Sludgefeast
+14 Just Like Heaven [The Cure]
+15 Freak Scene
+16 Bulbs of Passion
+17 Chunks [Last Rights]
+
+Location: 40 ft from stage
+Lineage; AKG 460 w/ CK-63 (Mics in DIN-A) > Lunatec V3 (Rolloff on V3 @ 75 Hz / 6 db) > Tascam DA-P1 > Echo Mia Midi > Cool Edit > down sample > CDR > EAC > CDWAVE (splits) > FLAC

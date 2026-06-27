@@ -1,0 +1,26 @@
+GARBAGE
+October 23, 1996
+Hilton Coliseum
+Ames, IA
+
+Source: Core Sound Binaural > Sony TCD-D7
+Location: Sec. P11 row 7
+Taper: CPS
+Lineage: DAT(M) > DAT(1) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: +10.5 dB
+Notes: first two songs cut, opening for Smashing Pumpkins
+
+[cut] Queer
+[cut] Fix Me Now
+01 - (cuts in) Not My Idea
+02 - My Lover's Box
+03 - Milk
+04 - Supervixen
+05 - Stupid Girl
+06 - Only Happy When It Rains
+07 - Vow
+
+
+Compiled February 2019 by CPS
+Seeded February 2019 to dimeadozen.org by CPS

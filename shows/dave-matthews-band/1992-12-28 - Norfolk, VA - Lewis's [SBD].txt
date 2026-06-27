@@ -1,0 +1,92 @@
+Dave Matthews Band
+Lewis's
+Norfolk, VA
+December 28, 1992
+
+
+Taper:      	Unknown
+Source Info:    SBD -> Cassette (unknown generation) -> CD
+
+Conversion: Adam Nelson (nelso222@msu.edu) & Henry Hart
+
+CD > flac > wav > flac (see notes below): 
+	EAC (secure mode, all tracks 100%) -> WAV -> 
+	flac frontend (level 6) Tracks split using 
+	CD Wave v1.93.3 > wav > AddaWav > Cool Edit Pro v2.1 > 
+	CDWav > flac frontend
+
+                          ********************
+                          PRESERVE THE QUALITY
+                          DO NOT ENCODE TO MP3
+                          ********************
+
+
+Track   |       Name           	|   Time (m:s)
+----------------------------------------------------
+Set I:
+d1t01		Minarets ->				06:35
+d1t02		Blue Water				13:18
+d1t03		Kind Intentions (tease)		01:47			
+d1t04		Best of What's Around		07:14
+d1t05		Song That Jane Likes		03:27
+d1t06		Spotlight				06:50
+d1t07		The Maker				06:17
+d1t08		Dancing Nancies			09:34
+d1t09		True Reflections			06:40
+
+d2t01		What Would You Say		07:50
+d2t02		Lie In Our Graves			04:19
+d2t03		Pay For What You Get *		07:18
+d2t05		So Much To Say			04:51
+Set II:
+d2t06		Recently				11:07
+d2t07		Tripping Billies			07:31
+d2t08		Help Myself				05:07
+d2t09		Angel From Montgomery		05:04
+
+d2t10		Warehouse (aborted)		01:04
+d3t01		Improv Jam ->			10:03
+d3t02		Typical Situation			09:30
+d3t03		One Sweet World			05:48
+d3t04		Cry Freedom				06:29
+d3t05		Halloween				07:33
+d3t06		Two Step				14:03		
+	
+
+NOTES:
+----------
+* = Dave & Carter only
+
+
+This recording has some flaws and a lot of tape hiss (see UPDATE notes
+below), but it's a sweet show with a really long set.
+
+There is some feedback during the begining of Minarets.
+
+The very end of The Maker is cut.
+
+Set II has less hiss, but also higher levels. The levels are actually too high for set 2, so there is some clipping, especially during Halloween. 
+
+Dave mentions that Metallica is pretty lighthearted compared to DMB when they are in their Heavy Metal mode because they have Carter Beauford.
+
+The Grace is Gone tease is just Dave (chords only). (see UPDATE notes
+below on what this tease may actually be)
+
+SMTS has a slight skip in it at 01:43.
+
+Warehouse is aborted. Dave mentions it was a false start...."the condom broke".
+
+These rare older shows have been collected and converted through a collaborative effort to get them into circulation. Sometimes these shows do not have the best sound quality (and maybe that's why they aren't circulated much to begin with), but people should have access to them. 
+
+Thanks to Dan Pyrik for the CD source used for the conversion. 
+
+Compiled By Adam Nelson on November 9, 2006
+
+UPDATE by Henry Hart on 11.25.06:
+I cut everything above 10kHz in Set 1 to remove some of the hiss.
+No music was present in this high frequency range. I left Set 2 as is.
+
+There is DMB lore of a Grace Is Gone tease before So Much To Say.
+I think this is actually Dave teasing Norwegian Wood... it actually
+sounds like he is just figuring the song out. The two interpolations
+just before and after this tease supports my theory.

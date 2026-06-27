@@ -1,0 +1,61 @@
+Wilco
+Hammersmith Apollo
+London, England
+March 14, 2005
+FIXED VERSION
+
+Taper:		mrk (mklists@yahoo.com)
+Source:		SBD > Sony TCD-D8 @ 44.1kHz 
+Transfer:	DATM > D8 > coaxial > Hoontech Digital XG > 
+                Cool Edit > CD-WAV > FLAC frontend
+Fixed: 		Phase of the left channel is inverted in Cool Edit Pro
+
+--------------------------------------------------------------------------------------
+     *** DO NOT SELL ANY COPIES OF THIS RECORDING OR DISTRIBUTE IN MP3 FORMAT ***
+--------------------------------------------------------------------------------------
+
+
+DISC ONE
+01. Poor Places
+02. Less Than You Think
+03. Hell Is Chrome
+04. Handshake Drugs
+05. Muzzle Of Bees
+06. At Least That's What You Said
+07. Jesus, Etc.
+08. Hummingbird
+09. She's A Jar
+10. I Am Trying To Break Your Heart
+11. I'm The Man Who Loves You
+12. A Shot In The Arm
+13. Ashes Of American Flags 
+14. War On War
+
+
+DISC TWO
+01. Reservations
+02. Spiders
+------
+03. Political Science
+04. Heavy Metal Drummer
+05. Theologians
+06. I'm A Wheel
+07. Kingpin
+------
+08. Misunderstood
+09. The Late Greats
+10. Be Not So Fearful 
+
+
+FIX NOTES : 
+This is a fixed version. The original recording had the channels out of phase.
+Most likely the way in which the signal was split between the soundman's MD and my DAT
+caused one channel to have inverted polarity.
+
+Basically when one speaker was supposed to move in it actually moved out. This caused
+the recording to sound not quite right and lack some bass. It sounded pretty good anyway
+and it didn't occur to me that there were problems. This fix brings out the low end and
+the whole thing sounds much smoother. Please don't distribute the original files anymore.
+
+ORIGINAL NOTES:
+The recording levels are quite high, but there's no audible distortion or other flaws.

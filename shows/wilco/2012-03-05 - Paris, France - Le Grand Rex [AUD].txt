@@ -1,0 +1,35 @@
+Wilco
+March 5, 2012
+Paris, France
+Le Grand Rex
+
+1.  (fade in) Art of Almost
+2. I Might 
+3. I Am Trying to Break Your Heart 
+4. One Wing
+5. Bull Black Nova
+6. At Least That's What You Said
+7. Black Moon
+8. Spiders (Kidsmoke)
+9. Impossible Germany
+10. Born Alone
+11. Laminated Cat
+12. Via Chicago
+13. banter
+14. Whole Love
+15. banter
+16. Box Full of Letters
+17. Capitol City 
+18. Handshake Drugs
+19. Dawned On Me
+20. A Shot in the Arm
+(encore: fade out and fade in for  battery change)
+21. Misunderstood
+22. Jesus, Etc.
+23. Theologians
+24. Heavy Metal Drummer
+25. I'm The Man Who Loves You
+26. I'm A Wheel (fade out)
+
+lineage: right behind board, Sennheiser MKE2002 > Edirol R-09HR > 48khz, 24bit WAV > Cool Edit (15db amplification, fade in and out, pasted a few seconds from right to left when there were mics noise, did not remove any music) > Cd Wave (tracks split) > Audacity (conversion to 44khz, 16bit) > TLH flac 8
+taped by Gray

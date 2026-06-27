@@ -1,0 +1,26 @@
+Tori Amos
+September 10, 1994
+KPFA FM Radio
+Berkeley, CA
+
+
+Source: FM > Cassette
+
+Transfer: 90 min TDK Type II Cassette (0 or 1st generation) > Stereo/Tape Deck > 
+Line in > Audacity 1.2.3 > (Amplification, Tape hiss removal) > CD Wave Editor > WAV 
+> FLAC Frontend > FLAC (Level 8)
+
+
+Tracks:
+
+01. Interview **
+02. Interview
+03. She’s Leaving Home
+04. Interview
+05. A Case of You
+06. Interview
+07. Honey
+08. Interview
+
+
+** Removed Past the Mission and Baker Baker, which were the studio track versions.

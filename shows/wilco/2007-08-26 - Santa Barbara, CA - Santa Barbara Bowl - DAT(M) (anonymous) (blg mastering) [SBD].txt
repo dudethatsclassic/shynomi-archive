@@ -1,0 +1,42 @@
+Wilco
+August 26, 2007
+Santa Barbara Bowl
+Santa Barbara, CA
+
+Source: SBD > Sony PCM-M1 
+Lineage: DAT Master 16/44.1 > FLAC
+Transfer (RyanJ): Tascam DA-20 > coax > Marantz PMD-671 > Audition > .wav
+Mastering (BLG): Adobe Audition > iZotope Ozone 9 > WavePad > xACT > FLAC
+Taper: anonymous
+
+01 Either Way
+02 You Are My Face
+03 I Am Trying To Break Your Heart
+04 Handshake Drugs
+05 Pot Kettle Black
+06 War On War
+07 Side With the Seeds
+08 A Shot in the Arm
+09 Impossible Germany
+10 Sky Blue Sky
+11 Too Far Apart
+12 Jesus, Etc.
+13 Theologians
+14 Walken
+15 I'm the Man Who Loves You
+16 Hummingbird
+17 On And On And On
+
+Encore 1:
+18 Via Chicago
+19 Spiders (Kidsmoke)
+
+Encore 2:
+20 California Stars
+21 Hate It Here
+22 The Late Greats
+23 The Lonely 1
+
+Total Time: 120:17
+
+.txt compiled on Feb 20, 2022 by BLG

@@ -1,0 +1,71 @@
+The Black Crowes
+Northern Alberta Jubilee Auditorium
+Edmonton, AB
+May 8, 2006
+
+** 16 BIT ** 
+
+Source:  SP-CMC-8 cardioids > SP battery box > Archos Gmini 400 @ 16 bit/44.1 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 130 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  Taper section, Rich's side
+Recorded by:  Chris Bold
+Mastered by:  Dennis Orr
+
+Setlist: (2:18:00)
+01 Crowd
+02 Don't Do It
+03 Go Faster
+04 Chat
+05 Hotel Illness
+06 Another Roadside Tragedy
+07 Ballad In Urgency >
+08 Wiser Time
+09 Girl From The North Country (1)
+10 You've Got To Hide Your Love Away (2)
+11 Jam > 
+12 Thorn In My Pride
+13 Alabama (3)
+14 Soul Singing
+15 Sometimes Salvation
+16 By Your Side
+17 Hard To Handle
+18 Remedy
+19 Encore Break
+- Encore -
+20 Yer Blues
+
+(1) Chris played acoustic guitar
+(2) Rich sang lead vocals and played 12 string acoustic guitar and Chris played acoustic guitar
+(3) Marc sang lead vocals and Chris played electric guitar
+
+Chris Robinson - lead vocals, harp, & guitars
+Rich Robinson - guitars & backing vocals
+Marc Ford - guitars & backing vocals
+Sven Pipien - bass & backing vocals
+Eddie Harsch - keyboards
+Steve Gorman - drums & percussion
+
+Notes:
+Matt Mays and El Torpedo opened the show
+
+tbc2006-05-08t01.flac:7163d7a3be0f4684a0cf0975869286e6
+tbc2006-05-08t02.flac:46ab1f09ebb747145efbc52210bc9f65
+tbc2006-05-08t03.flac:cf0968047a78624404771b22aef961ba
+tbc2006-05-08t04.flac:eb5abad423099e407e8bac8c49dddf61
+tbc2006-05-08t05.flac:3c692889a58ac0318d4a3d63eced5ec7
+tbc2006-05-08t06.flac:afd3c28b8ee05713876c45a4065e87dd
+tbc2006-05-08t07.flac:5d9446b967c2ee6eb1925759c25eeba2
+tbc2006-05-08t08.flac:5dcb789e6a12f9d8916ee0c8b2b052c0
+tbc2006-05-08t09.flac:1890677e45a26d8af993aea4d1b364d3
+tbc2006-05-08t10.flac:048f2c35a7c1a9a091dc669c5b342cd0
+tbc2006-05-08t11.flac:f6d74c8862561a0788bcad1ff9f6e01e
+tbc2006-05-08t12.flac:61927c06c33117bd1360cbfee61f104a
+tbc2006-05-08t13.flac:e692667317e2e904c6d0d34538e52966
+tbc2006-05-08t14.flac:7edb69dbe64a5dedc5260da1ad6f4de6
+tbc2006-05-08t15.flac:212c0f4a66a76c8ccdc6fc2cbb619471
+tbc2006-05-08t16.flac:6e45e61ee5d4ea40b341ee1191846753
+tbc2006-05-08t17.flac:461c12e037c4484f68109fbcf44f47bf
+tbc2006-05-08t18.flac:1eb037a6be3f412fe649ae1184075878
+tbc2006-05-08t19.flac:67a31f6aba1c2934b0ef07ac851c4fa9
+tbc2006-05-08t20.flac:d46dfb0160d84895c153c6a0cd80c9bb

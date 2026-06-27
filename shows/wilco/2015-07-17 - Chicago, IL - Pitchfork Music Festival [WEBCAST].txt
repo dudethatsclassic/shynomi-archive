@@ -1,0 +1,84 @@
+Wilco
+Pitchfork Music Festival
+Main Stage
+Union Park
+Chicago, Illinois
+July 17, 2015
+
+Lineage: Live Webcast -> FFmpeg -> Avidemux 2.6.8 (cut) -> .mkv (no transcoding)
+Video: MPEG4 Video (H264) 1920x1080 4230 Kbps 30.00 fps
+Audio: AAC 251 Kbps 48.0 KHz stereo
+
+Setlist:
+More... (live debut)
+Random Name Generator (live debut)
+The Joke Explained (live debut)
+You Satellite (live debut)
+Taste the Ceiling (live debut)
+Pickled Ginger (live debut)
+Where Do I Begin (live debut)
+Cold Slope (live debut)
+King of You (live debut)
+Magnetized (live debut)
+Handshake Drugs
+Camera
+I Am Trying to Break Your Heart
+Art of Almost
+Via Chicago
+Impossible Germany
+Red-Eyed and Blue
+I Got You (At the End of the Century)
+Outtasite (Outta Mind)
+Heavy Metal Drummer
+I'm the Man Who Loves You 
+
+TRT = 1 hr 28 mins 40 secs
+(Note: The web stream froze a few times during this broadcast)
+
+MediaInfo:
+General
+Unique ID                                : 300636216734857672030617906428845516007 (0xE22C6DE135FC5BDAB911D674B67C64E7)
+Complete name                            : Wilco - 2015-07-17 Pitchfork Music Festival [1080p].mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 2.43 GiB
+Duration                                 : 1h 28mn
+Overall bit rate                         : 3 937 Kbps
+Writing application                      : Lavf54.63.104
+Writing library                          : Lavf54.63.104
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 1 frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 28mn
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 30.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 28mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 10ms
+Default                                  : Yes
+Forced                                   : No

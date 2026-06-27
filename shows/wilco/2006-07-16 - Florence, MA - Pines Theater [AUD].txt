@@ -1,0 +1,43 @@
+WILCO
+Pines Theater
+Florence, Massachusetts
+July 16, 2006
+
+   *  *  * 16-bit version *  *  *
+
+Source: DPA 4027 > Lunatec V3 > SD 722 (96k/24)
+Peak Pro 5.2 (sample rate conversion; bit-rate reduction)> xACT
+
+Disc 1:
+ 1. prelude 
+ 2. Via Chicago
+ 3. new song (What Light)
+ 4. The Late Greats
+ 5. I Am Trying To Break Your Heart
+ 6. Hell Is Chrome
+ 7. Handshake Drugs
+ 8. War On War
+ 9. new song (Impossible Germany)
+10. A Shot In The Arm
+11. At Least That's What You Said
+12. Jesus, Etc.
+13. Walken
+14. Theologians	
+
+Disc 2:
+ 1. I'm The Man Who Loves You
+ 2. Hummingbird 
+ 3. new song (Let's Fight)
+ 4. Misunderstood
+ 5. Wishful Thinking
+ 6. Spiders (Kidsmoke)
+ 7. Airline To Heaven
+ 8. Hesitating Beauty
+ 9. Heavy Metal Drummer
+10. Kingpin
+11. Far, Far Away
+--
+
+setlist from wilcobase
+
+http://www.wilcobase.com/event.php?event_key=961

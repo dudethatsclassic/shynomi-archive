@@ -1,0 +1,28 @@
+SOUL COUGHING
+July 8, 1996
+Let It Be Records
+Minneapolis, MN
+
+Source: Sonic Studios (DSM6) > PA-6LC > Sony TCD-D8
+Taper: Jay Saari
+Location: front of band, slightly right
+Lineage: DAT(M) > CDR(1) > WAV [44.1] > FLAC
+Transfer: Sony TCD-D100 > Tascam CD-RW700
+Edits/EQ: removed mic noise @ 3:43 in "Disseminated" with iZtotope RX8 Spectral De-noise
+Notes: none
+
+01 - intro
+02 - Lazybones
+03 - White Girl
+04 - Soundtrack to Mary
+05 - Disseminated
+06 - Soft Serve
+07 - Collapse
+08 - True Dreams of Wichita
+09 - The Idiot Kings
+10 - Super Bon Bon
+11 - Sleepless
+12 - outtro
+
+
+Compiled June 2023 by CPS

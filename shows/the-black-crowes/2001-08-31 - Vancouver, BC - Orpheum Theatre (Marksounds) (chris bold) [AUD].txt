@@ -1,0 +1,86 @@
+The Black Crowes
+Orpheum Theatre
+Vancouver, BC
+August 31, 2001
+
+** 16 BIT **
+
+Source:  Marcsounds Binaural Mics > Marcsounds battery box > Aiwa HD-S200 DAT (end was patched with AT lapel mics > Sony TCD-D7 source - see note below)
+Transfer:  DAT master > Tascam DA-30 > Edirol R-44 > .WAV @ 16 bit/48 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 130 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging) 
+Location:  Dress Circle, RC, Row 1, Seat 153
+Recorded & transferred by:  Chris Bold
+Mastered by:  Dennis Orr
+
+Setlist: (2:12:06)
+01 Intro
+02 Midnight From The Inside Out
+03 Sting Me
+04 A Conspiracy
+05 Kickin' My Heart Around
+06 Greasy Grass River
+07 Remedy
+08 Cursed Diamond
+09 Lickin'
+10 Sometimes Salvation
+11 Sister Luck
+12 Young Man Old Man
+13 My Morning Song
+14 Chat
+15 Soul Singing
+16 Wiser Time
+17 Nebakanezer
+18 Jealous Again
+19 Twice As Hard
+20 Hard To Handle
+21 Cosmic Friend (fades in)
+22 Encore Break
+- Encore -
+23 She Talks To Angels
+24 Chat
+25 Virtue And Vice
+
+Chris Robinson - lead vocals, harp, & acoustic guitar
+Rich Robinson - guitars & backing vocals
+Audley Freed - guitars
+Andy Hess - bass
+Eddie Harsch - keyboards
+Steve Gorman - drums
+Mona Lisa Young - backing vocals
+Portia Griffin - backing vocals
+
+Taper Notes:
+Recorded from the lower balcony. Not a bad tape but not super either. Had to patch with my secondary rig source (Sony TCD-D7 with Audio Technica lapel mics) as I tried to do a tape 
+flip to avoid using 90 meter DATs.)
+
+Mastering Notes:
+Slight cut just before the start of "Hard To Handle".  Some of Chris' talking was lost.
+"Cosmic Friend" fades in, a few seconds of music was lost
+
+tbc2001-08-31t01.flac:7f606e6971934d0b191fc042eb14e022
+tbc2001-08-31t02.flac:17d6b267cfd32b6b0b906204c89e6845
+tbc2001-08-31t03.flac:1b85a7a43d9e084dd51b3132fd503495
+tbc2001-08-31t04.flac:6f0c5230dcc47f7c4f0a0a1b8c5f5b85
+tbc2001-08-31t05.flac:07a45945eac2dd9c471a40fc6dc2aff5
+tbc2001-08-31t06.flac:619f651d25407d6238c42e47bb560ea5
+tbc2001-08-31t07.flac:0ff7668423f3a2af7ee2479adc72d585
+tbc2001-08-31t08.flac:7f34ddfdc36f778cbde6a7c814d3bdea
+tbc2001-08-31t09.flac:4c5557b1f5a3148224ec102d115f76fe
+tbc2001-08-31t10.flac:781fcb952e0f2b812e22743141fc4425
+tbc2001-08-31t11.flac:099d9b4a88b49703f344406978291136
+tbc2001-08-31t12.flac:7ed09a1cde2e50559d6265913643db7c
+tbc2001-08-31t13.flac:215178caa0730cf8c7fd6fafe0ee94c7
+tbc2001-08-31t14.flac:c0d8ff99a6477e564fb849b28b19d4ba
+tbc2001-08-31t15.flac:a44642cda960fefd69ac85f3b1a6c2e0
+tbc2001-08-31t16.flac:0eb8fed489c15f8d71522e7ad19e6601
+tbc2001-08-31t17.flac:8f8e9d5444cb9942ccd95b2fe6a7534b
+tbc2001-08-31t18.flac:537cb36497fe1fe0e801df7cd61a76b1
+tbc2001-08-31t19.flac:f82c4c60f0a079c10f020a7180bcd7e4
+tbc2001-08-31t20.flac:6734e2c6dbb3f239b24111fbe96f86e4
+tbc2001-08-31t21.flac:53d38e70fd17e177043b4036a1b5b4be
+tbc2001-08-31t22.flac:182d45fcca1d6de038087f8e804e22f4
+tbc2001-08-31t23.flac:58a2d29c1fc5c560d23c9c6f10ef1274
+tbc2001-08-31t24.flac:d894f44030f21691d140c84c7aadf3b2
+tbc2001-08-31t25.flac:ba821fdaf863d76dde8d48551f60d1b4
+

@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "Necco Place",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-06-22 - Boston, MA - Necco Place [SBD].txt"
     },
     {
       "year": 1991,
@@ -34,7 +35,8 @@ const ARTIST_DATA = {
       "venue": "Arrowhead Ranch",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-07-20 - Parksville, NY - Arrowhead Ranch [SBD].txt"
     },
     {
       "year": 1992,
@@ -45,9 +47,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Lost Horizon",
-      "notes": "AKG C460s · terry sullivan",
+      "notes": "AKG C460s \u00b7 terry sullivan",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1992-02-20 - Syracuse, NY - Lost Horizon (AKG C460s) (terry sullivan) [AUD24].txt"
     },
     {
       "year": 1992,
@@ -58,7 +61,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Ithaca, NY",
       "venue": "The Haunt",
-      "notes": "AKG C460s · terry sullivan",
+      "notes": "AKG C460s \u00b7 terry sullivan",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -71,9 +74,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Downtown Festival Tent",
-      "notes": "AKG C460s · terry sullivan",
+      "notes": "AKG C460s \u00b7 terry sullivan",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1992-07-16 - Rochester, NY - Downtown Festival Tent (AKG C460s) (terry sullivan) [AUD24].txt"
     }
   ],
   "misc": []

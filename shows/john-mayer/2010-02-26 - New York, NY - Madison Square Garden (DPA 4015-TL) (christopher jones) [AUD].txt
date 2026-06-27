@@ -1,0 +1,26 @@
+John Mayer
+26 February 2010
+Madison Square Garden
+New York, New York
+
+Recorded by: Christopher Jones <jones.chris@gmail.com> 
+Source: DPA 4015-TL Transformerless Handmatched Wide Cardioid > Cardas Audio Golden Reference Cu XLR Interconnect > Daniel Weiss Digital Audio ADC2 Integrated Microphone Pre-Amplifier | 24-bit / 192 kHz Analog-to-Digital Converter (@ 24-bit / 176.4 kHz) > Cardas Audio Neutral Reference Cu AES / EBU Digital Interconnect > Sound Devices 722 Hard Disk Recorder (slaved to Weiss ADC2 @ 176.4 kHz; @ 24-bit / 176.4 kHz)
+Location: Section 1, Row O, Seats 9 and 10.  Microphones elevated 4 meters, in front of stageleft stack, ORTF.
+HD > .flac: Sound Devices 722 Hard Disk Recorder > Apple Mac Pro (2 x 2.66 GHz Dual-Core Intel Xeon / 9GB 667 MHz DDR2 FB-DIMM) > Audiofile Engineering Wave Editor v1.4.6b4 > xACT v1.62
+
+Resampled with iZotope Resampler at highest quality setting and a filter steepness of "150"; dithered using iZotope MBIT+ with a "Normal" amount of "Ultra" noise shaping applied.  24-bit / 176.4 kHz version of this recording available in .flac24.
+d1t01 Introduction				03:24.19d1t02 Heartbreak Warfare >			04:41.43d1t03 Good Love Is On The Way			04:14.73d1t04 Vultures					06:58.58d1t05 Perfectly Lonely				06:50.32d1t06 Intro To... >				01:57.58d1t07 I Don't Trust Myself With Loving You	08:03.46d1t08 Comfortable * >				05:01.14d1t09 Free Fallin' * #				05:42.35d1t10 "Steve Jordan..."	>			03:54.25d1t11 Waiting On The World To Change @		07:47.14						58:36.42d2t01 Assassin					07:59.14d2t02 Crossroads ^				04:02.60d2t03 Intro To...				01:32.59d2t04 Half Of My Heart > (Dreams %)		09:44.66d2t05 "Band Introduction..."			01:16.23d2t06 (Why Georgia) > 				03:40.61d2t07 No Such Thing				06:36.45
+---
+d2t08 (Stop This Train) > 			00:42.46d2t09 Who Says > (Empire State of Mind $)	03:13.67d2t10 Intro To... >				01:39.38d2t11 Gravity > ("Loveless")			14:48.24						55:17.53>  Indicates a segue into the next song
+*  John solo
+#  Tom Petty cover
+@  Featuring Michael Franti
+^  Robert Johnson cover
+() Indicates a tease or partial song if not part of a song with a  
+   parenthetical subtitle
+%  Fleetwood Mac cover
+$  Jay-Z / Alicia Keys interpretation
+
+Notes:
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 8 March 2010.

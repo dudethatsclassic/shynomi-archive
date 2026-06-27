@@ -1,0 +1,84 @@
+Dave Matthews Band
+The H.O.R.D.E. at Classic Amphitheater, Richmond, VA
+August 24, 1994
+
+Track list:
+
+01 One Sweet World		
+02 Dancing Nancies
+03 Warehouse		
+04 Say Goodbye		
+05 Rhyme And Reason		
+06 Tripping Billies		
+07 Satellite		
+08 Jimi Thing *	
+09 All Along The Watchtower *
+
+Band:
+
+Dave Matthews - acoustic guitar and vocals
+Boyd Tinsley - violin and backing vocals
+Carter Beauford - drums and backing vocals
+Stefan Lessard - bass
+Leroi Moore - woodwinds
+
+* with Warren Haynes - acoustic guitar
+
+H.O.R.D.E. Festival '94 lineup: Dave Matthews Band, The Allman Brother Band, Blues Traveler, Big Head Todd and the Monsters, Screamin' Cheetah Wheelies
+
+Run time:
+Format: FLAC 16 bit/48 kHZ and AAC
+
+House audio recorded by Mark Lynn: Casio DA-7 @ 48 kHZ.
+Transferred by Mark Lynn: Fostex D-5 > Tascam CD-RW700 / EAC by Louie Rendek.
+Remastered by Dillon Fries (September 2021).
+
+
+*** This is a remaster of the files shared by Rob Hartman and Louie Rendek.  The text is here: ***
+
+
+"Dave Matthews Band
+August 24, 1994
+Classic Amphitheatre 
+Richmond, VA
+
+H.O.R.D.E. Tour
+
+Taper:	Mark Lynn
+Source: DSBD->Casio DA7 DAT [master | 48kHz]
+	 	
+DAT>CD: Mark Lynn
+Equip:	Fostex D5 > Tascam CDRW700
+	 	
+
+CD>SHN:	Louie Rendek <ljr7@po.cwru.edu>
+Equip:	Plextor 8/20 and EAC 0.85b4 secure mode:  all tracks 100%
+	CDWAV used for retracking
+	
+**  seeded by Rob Hartman <rhart@firstworld.net> and Louie Rendek <ljr7@po.cwru.edu>
+
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+d1t01		Intro					01:28.56
+d1t02		One Sweet World intro			03:39.58
+d1t03		One Sweet World				05:19.02
+d1t04		Dancing Nancies ->			07:14.19
+d1t05		Warehouse				08:30.41
+d1t06		Say Goodbye				06:23.69
+d1t07		Rhyme And Reason			07:54.61
+d1t08		Tripping Billies			04:33.51
+d1t09		Satellite				06:14.58
+d1t10		Jimi Thing # ->				12:47.57
+d1t11		All Along The Watchtower #		07:18.47
+d1t12		Mark Lynn interview of Dave after show	02:28.14
+
+d1 totals 						73:54.12
+
+#	with Warren Haynes on guitar
+
+NOTES:
+----------
+*	There are a couple quick spots of diginoise in Warehouse around 5:30 to 6:00.
+*	There is a dropout in between songs after Satellite.
+
+* compiled by Louie Rendek <ljr7@po.cwru.edu>"

@@ -1,0 +1,256 @@
+Sigur Rós
+
+Forest National/Vorst Nationaal
+Brussels
+Belgium
+
+26th February 2013 (2013-02-26)
+
+
+RECORDING:
+
+Type: Audience master, recorded centre stage, 20 - 25 metres back from the very
+      high, suspended PA.
+
+Source: Factory-matched pair of Schoeps CCM 41V microphones (DINa mounted) ->
+	Marantz PMD661 recorder with Oade Concert Mod
+	(-18 dB gain/44.1 kHz/24 bit WAV)
+
+Lineage: Audacity 2.0.2
+	   * applied variable amplification for consistency across recording
+	   * audience noise attenuated
+	   * added fades
+	   * split tracks
+	   * converted to 16 bit
+	 -> FLAC (compression level 8) [libFLAC 1.2.1 20070917]
+
+Taper: Ian Macdonald (ianmacd)
+
+
+SET LIST:
+
+01. [04:34] Yfirborð
+02. [07:30] Í Gær
+03. [08:54] Ný Batterí
+04. [06:45] Vaka
+05. [08:01] Brennisteinn
+06. [07:42] Sæglópur
+07. [08:01] Olsen Olsen
+08. [08:52] E-Bow
+09. [06:34] Varúð
+10. [04:24] Hoppípolla
+11. [02:07] Með Blóðnasir
+12. [06:35] Glósóli
+13. [06:04] Kveikur
+14. [01:21] [encore break]
+15. [12:20] Svefn-g-Englar
+16. [06:13] Hrafntinna
+17. [15:07] Popplagið
+18. [02:54] [curtain call]
+
+Total running time: 123:58
+
+
+MD5 CHECKSUMS:
+
+ce07eb46d3b38308b611dd1bb73e39d4 *flac/01_yfirborð.flac
+c9c82e9a076888b1ae9a8c4f068d618b *flac/02_í_gær.flac
+fdcf753d901542089d3f2b5094319322 *flac/03_ný_batterí.flac
+9b80c50d626f59682b871a567d00f1ec *flac/04_vaka.flac
+acee29c3e0bd5e342798eb7e0ff4ac53 *flac/05_brennisteinn.flac
+7c079842303adec53fb0c18f249ba083 *flac/06_sæglópur.flac
+b2ee886e315b3c561e5645d7de584ff2 *flac/07_olsen_olsen.flac
+031a01e0e2aad3cb07a3fcd662df423b *flac/08_ebow.flac
+7eba90002b299dfdc9fa75949ff025ef *flac/09_varúð.flac
+149671e84eb932c41683f4e8a04382b7 *flac/10_hoppípolla.flac
+75911559129c8a27f224ba19c367cfb7 *flac/11_með_blóðnasir.flac
+51d3908ca8fb64431d20c0ae6c319bb0 *flac/12_glósóli.flac
+12281146adf91f4cfaa7941679a3d4b2 *flac/13_kveikur.flac
+6bd4abed41eb7686c98c2caba4799a95 *flac/14_encore_break.flac
+7b491574f6baead4b9a7c2df8f225e63 *flac/15_svefngenglar.flac
+b5ac736acd5fc2a7ea91fd8f5dc2fa68 *flac/16_hrafntinna.flac
+8e767a10838cfc586fcd52a4edea5936 *flac/17_popplagið.flac
+b7ebb07772e0d4d3256ff516b3e9979a *flac/18_curtain_call.flac
+72b70064270ec8a5d4b61cdfd2ba09a9 *flac/checksums.ffp
+6ff55eb36766235b960bc868972257dc *photo/20130227_230438.jpg
+
+
+NOTES:
+
+This gig had started out as my insurance that I would get to see Sigur Rós at
+least once on this tour. You see, the Amsterdam gig was due to take place
+during a school holiday, and with those being our family's only opportunities
+to travel, there was a significant chance that we wouldn't be in Amsterdam by
+the time the gig rolled around. I thus purchased a ticket for Brussels, too,
+in the fan pre-sale, musing that I would ultimately use one ticket and sell
+the other.
+
+Well, we ultimately didn't go away during the 'krokusvakantie' and so I had
+the opportunity to see the band twice within seven days. I just needed to
+drive to Brussels. Just that.
+
+I've travelled to Brussels for gigs before, but usually not mid-week. As (bad)
+luck would have it, I also had to hang around at home for some workmen to
+arrive, so it was just before 16:00 before I got on the road, an hour later
+than I had intended to be setting out.
+
+What a nightmare. What should have been a 2¼ hour drive ends up taking close
+to 3½. Adding in a pit-stop to answer the call of nature, this means I don't
+arrive at the venue until 19:30. It takes a further ten minutes of driving
+around the packed, narrow streets surrounding the venue before I spot a length
+of kerb that looks just about large enough to squeeze my car into.
+
+It works. I get out, gather my gear together and then leg it up the hill to
+the venue.
+
+Rushing through the doors of this completely unfamiliar place, I immediately
+look for a sign indicating the location of the lavatories. I eventually find
+the gents' on the far left-hand side of the building.
+
+They want and extra 50 cents on top of the ticket price for the privilege of
+pointing my penis at the porcelain. Oh well, the ones you have to pay for are
+usually cleaner, I remind myself, because the sixty-a-day chain-smoking old
+lady who takes your coin at the door has nothing else to do all day but mop up
+the piss left on the floor.
+
+I emerge from the cubicle as Taper Man, but now I can't find my way down to
+the floor of the venue. It doesn't sound like a formidable intellectual
+challenge, I know, but every door seems to lead to yet another section of
+seats on the balcony. Aargh.
+
+It's now getting perilously close to 20:00.
+
+I eventually find the stairs, right in front of the window selling hamburgers.
+Damn, I'd really like one of those hamburgers, or anything really, but there's
+no time. 'Get the gig in the bag', I dutifully think to myself. 'You can
+always eat later.' OK, it's only the support act, but I'm a bit religious
+about my taping ('anal' is the word my wife would probably use). Besides, I
+rather like Blanck Mass after seeing him perform in Amsterdam and I don't want
+to miss his performance tonight.
+
+I enter the main hall, but aargh again, it's one of those places where the PA
+is mounted from a ceiling so high that it might as well be in the clouds.
+There's no way to get near it for my usual kind of face-in-the-stack PA
+recording.
+
+The seats are all taken and, in any case, they're located so far back in the
+venue that they're unappealing for my purpose, anyway.
+
+There isn't much time and my options are limited. I move to the spot that
+forms an equilateral triangle with those gigantic, suspended speakers on
+either side of the stage. It's not my preferred location, particularly in such
+a large venue (this place has a capacity of 7,000 and is sold-out), but it's
+really the only viable option tonight.
+
+Blanck Mass's set is largely ignored by the masses, or at least by the people
+around me. There's so much talking and indifference that it might as well be
+the barely audible music in the supermarket that you buy milk and potatoes to.
+
+After the support finishes, I move forward by a couple of metres to get away
+from the extreme chatterboxes around me and the lamppost of a geezer causing a
+total eclipse of the stage in front of me. A few metres make all the
+difference.
+
+My new neighbour sees me changing batteries and realises I'm a taper. He
+points to his microphones, currently dangling around his neck, and smiles. A
+member of the same species! I've made a friend. He has driven down from
+Rotterdam this evening with his girlfriend.
+
+Just after nine o'clock, the lights go down and Sigur Rós come on.
+
+What follows is basically a repeat performance of what took place in Amsterdam
+five days earlier (and probably each of the days in-between, too).
+
+The set-list has solidified, the only difference tonight being that 'Vaka' has
+been brought forward and placed in front of 'Brennisteinn'. It's a subtle
+change, subtle enough that I don't even notice it at the time. It's not until
+I'm encoding the FLAC files for this recording that I notice that the set-list
+for Amsterdam doesn't match what was played in Brussels.
+
+I don't often find myself centre stage and, to be honest, it's a nice change.
+From this angle, the band are much more visible behind the curtain that
+shrouds them during the first new songs. The brass and string sections are
+clearly visible, too, whereas they had been all but obscured from view in
+Amsterdam.
+
+With the entire stage in my field of vision, it's a treat for the eyes as well
+as the ears. As a result, I probably enjoy this gig a little more than the one
+in Amsterdam, although I couldn't say that one performance was superior to the
+other. There is so little in it. The band play a blinder every single night. A
+bad Sigur Rós gig? I don't think it exists.
+
+It gets uncomfortably hot in the venue. It's freezing outside, but after a
+couple of hours in here, the temperature has risen significantly. And that's
+with a static crowd. I'd hate to be in here when people are dancing.
+
+It's an epic finale again, 'Popplagið' exploding on stage in the way that only
+'Popplagið' can. If the hairs on the back of your neck don't stand on end when
+experiencing this song live, check yourself for a pulse.
+
+As the lights come back up and I make my way out of the auditorium, I'm
+praying the burger lady upstairs hasn't packed up and gone home for the night.
+She hasn't.
+
+I tuck into a cheap and cheerful belated dinner of 'braadworst', made more
+interesting by the presence of ketchup and onions on the bun. It ain't much,
+but after having been on the road all afternoon, with the stress of wondering
+whether I was going to reach the venue on time, followed by more than three
+hours of standing motionless on the same spot in stifling heat, it tastes like
+ambrosia to me.
+
+I follow up with a drink and then make my way through the fresh night air,
+back to the car. At least it won't take as long to get out of Brussels as it
+did to get in. Or will it?
+
+They've closed all of the city's wacky tunnels for maintenance, so I'm forced
+to drive above ground, incurring every traffic-light on the long haul out of
+here. It seems as if the entire world is trying to get out of the Belgian
+capital tonight. It's already after midnight, but it takes a full 45 minutes
+before I finally hit the E19 and escape the gravity of this traffic black
+hole.
+
+I make it past Antwerp and up across the border near Breda. I'm somewhere
+south of Lexmond when I finally hit the wall. I'm too tired to drive any
+further, so I pull into a petrol-station, check my e-mail and then allow
+myself to fall asleep. I wake up shivering 45 minutes later, start the engine
+and continue on my way, finally rolling into the driveway at 03:15.
+
+And then it's a 07:00 start to get the children ready for school. Lovely.
+
+What has this got to do with music? you might be wondering. Absolutely
+nothing, you're dead right, but hey, you're downloading this for free and it's
+my prerogative to let you know what it took for me to be able to bring this to
+you.
+
+But now to what really matters...
+
+With hundreds, if not thousands of people in front of me, rather than the
+usual few dozen, there is necessarily more crowd noise on this recording than
+on the one I made in Amsterdam. Being much further from the PA also lends this
+recording a more spacious sound, which some listeners may prefer.
+
+For my money, the recording doesn't quite beat Amsterdam. The music sounds
+every bit as great, but the rapturous audience response that greets the songs
+occasionally drowns out one of the more delicate beginnings or endings.
+
+The Belgian audience also had the annoying habit of occasionally trying to
+clap along, revealing themselves strangely unable to keep time. Nevertheless,
+the audience participation adds extra drama to the climax of 'Popplagið' and
+never forms a distraction at any point during the listening experience.
+
+I will say, however, how tiresome it is that there are always a few people in
+any concert hall who don't understand that when one of Sigur Rós's songs
+softens into a whisper, it doesn't necessarily mean that it is two seconds
+away from ending. Case in point: 'Svefn-g-Englar'. Don't whistle and don't
+applaud until the music actually stops.
+
+Anyway, don't be lulled into thinking that this is anything other than an
+excellent recording. It sounds superb to my ears and I'm very pleased with the
+result.
+
+It's also good to have a recording that better captures the stereo image of
+the performance and that does so whilst including more of the venue's
+acoustics. Otherwise, what we'd have here would be more or less a carbon copy
+of Amsterdam.
+
+Samples are included to help you decide whether this is worth your while.

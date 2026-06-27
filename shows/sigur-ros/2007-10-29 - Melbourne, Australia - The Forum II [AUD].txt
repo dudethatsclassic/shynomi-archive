@@ -1,0 +1,38 @@
+Sigur Rós
+The Forum II
+Melbourne, Australia
+29th October, 2007
+
+Recorded by Chris Jacques
+http://db.etree.org/SeanceMascara
+http://www.myspace.com/christopherjacques
+
+Never circulate as MP3. Only convert to lossless forms for your own use (iPod, etc)
+
+
+Recorded with:
+SP-CMC-2 > Homemade 9v 3 wire battery box > iRiver iHP-120 w/Rockbox installed
+
+Transfer:
+iRiver iHP-120 > Sony Sound Forge 8 (Raised Volume +32dB (+16 for Q+A), Fade In/Out, Split) > FLAC Frontend (Level 8)
+
+
+Recording Notes:
+The show was recorded about 7 rows back and maybe 3 seats left of center. Mics were clipped the the zip 
+of a jumper: facing forwards and slightly outwards. I didn't get a chance to check my levels due to 
+stealth taping this so I had to raise them later. Because of this there is a bit of a hiss on the recording.
+This is only as noticable on the acoustic part of the set. I had time to adjust my levels for the Q+A so I 
+only needed to raise the volume +16db.
+
+
+Show Notes: 
+
+
+Setlist:
+Set 1:
+1. Ágætis Byrjun
+2. Heima
+3. Njósnavélin
+
+Set 2:
+Q+A with the band and manager.

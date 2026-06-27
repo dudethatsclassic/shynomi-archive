@@ -1,0 +1,66 @@
+Wilco
+1997-02-19
+The Horseshoe Tavern
+Toronto, Ontario, Canada
+
+01. Misunderstood
+02. Far Far Away
+03. Forget the Flowers
+04. That's Not the Issue
+05. Someday Soon
+06. New Madrid
+07. Pick Up the Change
+08. Red-Eyed & Blue > 
+09. I Got You > 
+10. Someone Else's Song
+11. I Must Be High
+12. Passenger Side (fast!!)
+13. Hotel Arizona
+14. Monday
+15. Box Full of Letters
+16. Casino Queen
+17. ...radio outro
+
+sounds like this show may be from an FM source. (it is)  Tweedy attempts to say the word "shit" which is digitally changed into something sounding more like '*&@*#'.
+
+great sounding show...
+
+shntool:
+    length     expanded size   cdr  WAVE problems filename
+     6:16.29       66394652    ---   --   ---xx   01 - Wilco - Misunderstood.flac
+     3:50.29       40640252    ---   --   ---xx   02 - Wilco - Far Far Away.flac
+     3:03.73       32452940    ---   --   ---xx   03 - Wilco - Forget the Flowers.flac
+     3:42.27       39224348    ---   --   ---xx   04 - Wilco - That's Not the Issue.flac
+     3:21.47       35566988    ---   --   ---xx   05 - Wilco - Someday Soon.flac
+     4:04.63       43189820    ---   --   ---xx   06 - Wilco - New Madrid.flac
+     2:48.37       29722268    ---   --   ---xx   07 - Wilco - Pick Up the Change.flac
+     1:52.28       19822700    ---   --   ---xx   08 - Wilco - Red-Eyed & Blue .flac
+     4:36.07       48702908    ---   --   ---xx   09 - Wilco - I Got You .flac
+     3:14.14       34254572    ---   --   ---xx   10 - Wilco - Someone Else's Song.flac
+     3:03.68       32441180    ---   --   ---xx   11 - Wilco - I Must Be High.flac
+     2:11.72       23277788    ---   --   ---xx   12 - Wilco - Passenger Side (fast!!).flac
+     4:59.30       52814204    ---   --   ---xx   13 - Wilco - Hotel Arizona.flac
+     4:39.72       49384988    ---   --   ---xx   14 - Wilco - Monday.flac
+     3:58.65       42136124    ---   --   ---xx   15 - Wilco - Box Full of Letters.flac
+     6:20.31       67104956    ---   --   ---xx   16 - Wilco - Casino Queen.flac
+     1:34.42       16680428    ---   --   ---xx   17 - Wilco - ...radio outro.flac
+    63:39.59      673811116 B                     (totals for 17 files, 0.5884 overall compression ratio)
+
+ffp:
+01 - Wilco - Misunderstood.flac:			f7a0a79554d259d730a272c07e2cbcff
+02 - Wilco - Far Far Away.flac:			5ccb50a2d96cdd6a2208d7df6a405bd0
+03 - Wilco - Forget the Flowers.flac:		7a0e3a1a3803f324bba101d7b4cc59b0
+04 - Wilco - That's Not the Issue.flac:		d7cc6ff36c7a3e711b00963a064725e0
+05 - Wilco - Someday Soon.flac:			8116e1be7db7a3068d3b887235659386
+06 - Wilco - New Madrid.flac:				0c0bfeb94070595eecf722fad4256f14
+07 - Wilco - Pick Up the Change.flac:		9774ef78ccc3b6905904ff57dede130a
+08 - Wilco - Red-Eyed & Blue .flac:			a0d522373bf09fd065c7baf546b4fe66
+09 - Wilco - I Got You .flac:				5660c54a778f323dab5bce2bc8132977
+10 - Wilco - Someone Else's Song.flac:		62a93dbd528e9d49a1dc6af86c08ff37
+11 - Wilco - I Must Be High.flac:			bab27fde83d7bed14e1166cabfc2760a
+12 - Wilco - Passenger Side (fast!!).flac:	4c1eee5b224c40e5e76e1ba43beaed72
+13 - Wilco - Hotel Arizona.flac:			0e50610a73cab082cc16aa6dc120a094
+14 - Wilco - Monday.flac:				98bf7443149b970b2a7c578ca7d2c70c
+15 - Wilco - Box Full of Letters.flac:		d15f71522f5e9be5dbc1be5cb15127e7
+16 - Wilco - Casino Queen.flac:			b131afb95ce9a4754e0bc835c4d67093
+17 - Wilco - ...radio outro.flac:			6e2dd747f82353451ab50cd57f3fce59

@@ -1,0 +1,19 @@
+Vertical Horizon
+Bogarts
+Cincinatti, Ohio
+11.20.99
+
+Track 	|	Name		|	Time (m:s)
+--------------------------------------------------
+d1t01	Intro-->			01:22
+d1t02	Finding Me			04:34
+d1t03	You're A God			05:11
+d1t04	Wash Away			06:26
+d1t05	Shackled			05:31
+d1t06	Send It Up			04:49
+d1t07	Everything You Want		04:07
+d1t08	The Man Who Would Be Santa	06:09
+d1t09	We Are				04:32
+Total:					42:41
+
+Compiled by:  Ray Domingue <rpd004@yahoo.com>

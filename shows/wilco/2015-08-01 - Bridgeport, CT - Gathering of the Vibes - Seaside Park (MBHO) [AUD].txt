@@ -1,0 +1,71 @@
+Wilco
+Gathering of the Vibes@Seaside park
+Bridgepport, CT
+2015-08-01
+
+OTS/~15'ROC/mics@~9'
+Source: MBHO603/ka200n (dina) > V3 (24/48) > Tascam DR680
+Transfer: SDEC10 > Sound Forge 11.0 (track, fades, normalize select tracks/-3db & iZotope MBIT+ dither/64-Bit SRC resample) > TLH (flac8 & ffp)
+
+Recorded, transferred and seeded:  B Crupi
+
+01. EKG (walk on) --> More. . .  
+02. Random Name Generator
+03. The Joke Explained
+04. You Satellite
+05. Taste the Ceiling
+06. Pickled Ginger
+07. Where Do I Begin
+08. Cold Slope -->
+09. King of You
+10. Magnetized
+11. Handshake Drugs
+12. Camera
+13. I Am Trying to Break Your Heart-->
+14. Art of Almost
+15. Via Chicago
+16. Shouldn’t Be Ashamed
+17. Walken
+18. I’m the Man Who Loves You
+19. Jesus, Etc.
+20. Born Alone-->
+21. Laminated Cat
+22. Impossible Germany
+23. Passenger Side
+24. California Stars*
+
+* with Warren Haynes
+
+Flac fingerprint:
+
+wilco2015-08-01s01t01.flac:1867dbb934899c4e4aaf44bbc9612045
+wilco2015-08-01s01t02.flac:8e0480daa4c644f0a038e472c9133006
+wilco2015-08-01s01t03.flac:8989f891ba9f4a5dd74b5b5c61848ad9
+wilco2015-08-01s01t04.flac:ca7fe34918c5e257b03ea3a36e10a45d
+wilco2015-08-01s01t05.flac:d53b0867e78cda1d99eb2013ae41399f
+wilco2015-08-01s01t06.flac:d854e7a29c0d70a8cf198c8153e79e02
+wilco2015-08-01s01t07.flac:2ff1078b482a5ac7213cf79bf3f95803
+wilco2015-08-01s01t08.flac:d1e84f51247e0008d7f276595ba42dc1
+wilco2015-08-01s01t09.flac:1651a83932748802538e8b83c993fe04
+wilco2015-08-01s01t10.flac:27fcd5967339591ccd1447e80f5d052c
+wilco2015-08-01s01t11.flac:fd6e082c23574ad1b2186c35c1902149
+wilco2015-08-01s01t12.flac:1767dbf2ad445cc0474279f85e601301
+wilco2015-08-01s01t13.flac:2f00b4feb6e816aa254cc655d6a213e3
+wilco2015-08-01s01t14.flac:a0755b405753b3262b0bab44e047cf74
+wilco2015-08-01s01t15.flac:c366f1e771e08a474999dcdfcf5d00aa
+wilco2015-08-01s01t16.flac:c467a85006c5c50eaa71b93286a0c4e6
+wilco2015-08-01s01t17.flac:6f0407ce0dbf8b9f306846cc837ea207
+wilco2015-08-01s01t18.flac:a6534b016045410849e751d432fccf56
+wilco2015-08-01s01t19.flac:726e5ee07f35c7930eba0cfc2a8f0069
+wilco2015-08-01s01t20.flac:3b87e0e42f6a7b509736fc092ed933f3
+wilco2015-08-01s01t21.flac:57219a40156ebf2e2c2bfed9d91fe717
+wilco2015-08-01s01t22.flac:41db41126e7c59d1ab1791febb247df8
+wilco2015-08-01s01t23.flac:9852490df9c6fd07e7a3f509cb8e1180
+wilco2015-08-01s01t24.flac:4e043e21bcbc3479e7b8812c1691edc2
+
+
+
+	
+
+
+

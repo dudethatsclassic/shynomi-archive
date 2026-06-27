@@ -1,0 +1,23 @@
+boygenius
+Coachella Valley Music and Arts Festival
+Indio, California
+22 April 2023
+
+Lineage: yt-dlp > ffmpeg (trim)
+Video: VP9 1920x1080 1659 Kbps 30 fps
+Audio: AAC 128 Kbps 44.1 kHz stereo
+
+Setlist
+01 Without You Without Them
+02 $20
+03 Satanist
+04 Emily I'm Sorry
+05 True Blue
+06 Cool About It
+07 Souvenir
+08 Me & My Dog
+09 We're in Love
+10 Anti‐Curse
+11 Letter to an Old Poet
+12 Not Strong Enough
+13 Salt in the Wound

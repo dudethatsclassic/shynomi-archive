@@ -1,0 +1,38 @@
+FILTER
+2024-03-20
+Im Wizemann (Club)
+Stuttgart, Germany
+
+Source:     Schoeps MK41V/CMC1L > RiotBox > Sony PCM-A10
+Mic Config: DIN-A (90°, 17cm)
+Location:   7m from the stage, center
+Transfer:   Master WAVs > dEdit > FLAC V1.4.3
+Editing:    Digital editing in Cockos Reaper V7.03
+            EQ, compression and volume boost using iZotope Ozone 9
+            Fades in iZotope RX 8
+Dithering:  MBIT+
+Format:     16 bit / 44.1 kHz
+
+Disc 1:
+01 (Intro)
+02 You Walk Away
+03 The Drowning
+04 For the Beaten
+05 What Do You Say
+06 Face Down
+07 (Can't You) Trip Like I Do
+08 Obliteration
+09 The Take
+10 Jurassitol
+
+Disc 2:
+01 Take A Picture
+02 Captain Bligh
+03 Thoughts and Prayers
+04 Dose
+05 It's Gonna Kill Me
+06 American Cliché
+07 Drug Boy
+08 Welcome to the Fold
+09 So I Quit
+10 Hey Man Nice Shot

@@ -1,0 +1,11 @@
+01 -intro-.flac:178d6e624d029f8c8db6a4863dd8731b
+02 Omission.flac:04e057b72e94a60085368788bdea176b
+03 How Soon Is Now.flac:7bfeda897697fef86bc3807f9c3062bb
+04 Head To Wall.flac:22b1b991be6929b71f43aa41b8df41e2
+05 Clean Slate.flac:55448af1dc3c5c6788580d0c25281802
+06 Dine Alone.flac:a8c3b05e3867fdcee0724260ae3ff04c
+07 Fazer.flac:5e069f7860ddfc3db3a5422c5945196e
+08 Lie And Wait.flac:c996fd993d8102ed6abcef8be2ee21e0
+09 Freezing Process.flac:ab7881d8bd1d581a19c162e93ec49d7d
+10 Unfulfilled.flac:0329546d97e76b2b1800802acaba1a10
+11 Baphomet (with lyrics).flac:bd40dcf0330caf371b952d8f33e7c4cc

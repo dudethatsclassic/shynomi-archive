@@ -1,0 +1,56 @@
+Artist: Garbage 
+Date Y-M-D: 1999-02-07 
+Venue: Palladium
+City: Cologne
+Country: Germany
+Source: AUD
+
+Sharp-MD MT20 & Aiwa CM30A -> Sony MDS-JE770 -> Optic Cabel -> Philips CD-R Recorder - > WAVE -> FLAC 8 -> Dime
+
+101 Temptation Waits
+102 Not My Idea
+103 I Think I'm Paranoid
+104 Special
+105 My Lovers Box
+106 Hammering In My Head
+107 Milk
+108 Stupid Girl
+109 Vow
+110 Sleep Togehter
+111 Queer
+112 Push It
+113 Only Happy When It Rains
+114 You Look So Fine
+115 Medication
+
+201 The Trick Is To Keep Beathing
+202 Horsepower Metal Jam
+203 When I Grow up
+204 Encore Talk
+205 Can't Seem To Make You Mine
+206 Trip My Wire
+
+Shared by Colonel Parker on Dime 7th May 2012
+
+f0b3b5b4da3600eda9ecfbd7e728208d *101 Temptation Waits.flac
+c69586f85529f37f0a4615a45f0fae91 *102 Not My Idea.flac
+c5bef1a828060554daf38700bd265f47 *103 I Think I'm Paranoid.flac
+8ff328debc3dc812cc7370dcf37a42be *104 Special.flac
+4e073c5025855052d4fbfad98b8ccf0f *105 My Lovers Box.flac
+3162680579d6dd11f891cdbd067474f2 *106 Hammering In My Head.flac
+41e177814a308a079e44e66284d19830 *107 Milk.flac
+47cf87a5b9a0b29bb0e6b89cd58e3cf1 *108 Stupid Girl.flac
+735bca95f5b54571abc232b93f6808df *109 Vow.flac
+f62259f89602185f29eff897ea937ad5 *110 Sleep Togehter.flac
+f7873d60b61fd11177db82c156dd0335 *111 Queer.flac
+a274b0530357d99b61ad6806dd587785 *112 Push It.flac
+5216b88b6510c1a045358d4e10692352 *113 Only Happy When It Rains.flac
+b3c38c78f1357a6b8469cd38138d3f39 *114 You Look So Fine.flac
+85ef8be19b9099ad5cc38d4253c3fffc *115 Medication.flac
+8eb0d6e1c775f83830ebd0b54d61aecb *201 The Trick Is To Keep Beathing.flac
+239a48bedb1634d3832dd1e15d86d94d *202 Horsepower Metal Jam.flac
+ebbb965fbfbe4a9b5bed9d03e359ee5e *203 When I Grow up.flac
+f2cec04b9985b39437fdb0fdaf33c127 *204 Encore Talk.flac
+3fc718740b13d040b89aca31c825806d *205 Can't Seem To Make You Mine.flac
+fd7caf4c96906f6f9accf85e16a7f862 *206 Trip My Wire.flac
+

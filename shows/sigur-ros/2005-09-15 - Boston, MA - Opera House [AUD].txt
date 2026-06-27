@@ -1,0 +1,42 @@
+Sigur Ros
+Opera House, Boston, MA
+09-15-2005
+[96:35] 
+ 
+
+sound : A+
+
+source : DAT (AUD) > FLAC
+  	
+format :
+remark : flat
+archive : CD106/107-aud
+
+takk
+glósóli
+ný batterí
+sæglópur
+vaka
+gong
+andvari
+viðrar vel til loftárása
+hoppípolla > með blóðnasir
+hafssól
+samskifa
+popplagið
+outro 	
+3:01
+6:44
+8:36
+8:32
+7:21
+5:27
+6:01
+10:50
+6:42
+8:45
+9:15
+12:48
+2:33
+ 
+lineage : CSB (w/ bass roll off) > TCD-D8

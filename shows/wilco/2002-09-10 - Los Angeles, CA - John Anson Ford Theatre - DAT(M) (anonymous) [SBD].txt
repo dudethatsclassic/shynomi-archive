@@ -1,0 +1,59 @@
+Wilco
+September 10, 2002
+John Anson Ford Theatre
+Los Angeles, CA
+Night 2 of 2
+
+Source: SBD > Sony DTC-60ES
+Lineage: DAT Master 16/44.1 > FLAC
+Transfer (RyanJ): Tascam DA-20 > coax > Marantz PMD-671 > Audition > .wav
+Mastering (BLG): Adobe Audition > iZotope Ozone 9 > WavePad > xACT > FLAC
+Taper: anonymous
+
+01 Intro (Willy Wonka)
+02 Ashes of American Flags
+03 I Am Trying To Break Your Heart
+04 Sunken Treasure
+05 Less Than You Think
+06 War On War
+07 Kamera
+08 A Shot in the Arm
+09 How To Fight Loneliness
+10 She's a Jar
+11 Heavy Metal Drummer
+12 Pot Kettle Black
+13 Jesus, Etc.
+14 I'm the Man Who Loves You
+15 Misunderstood
+16 Reservations
+
+Encore 1:
+17 Someone Else's Song
+18 One By One
+19 Hesitating Beauty
+20 California Stars
+
+Encore 2:
+21 Monday
+22 I'm Always in Love
+23 Outtasite (Outta Mind)
+
+Soundcheck from Sep 09, 2002:
+
+24 Handshake Drugs (cuts in)
+25 The Thanks I Get
+26 Heavy Metal Drummer
+
+Soundcheck from Sep 10, 2002
+
+27 Spiders (Kidsmoke)
+28 Laminated Cat
+29 One By One
+30 Say You Miss Me
+
+Total Time: 106:44 show, 44:12 soundchecks
+
+.txt compiled on Feb 19, 2022 by BLG
+
+
+

@@ -1,0 +1,72 @@
+Keane
+May 4th, 2024
+Utilita Arena Birmingham
+Birmingham, UK
+
+CELEBRATING 20 YEARS OF HOPES AND FEARS
+
+Taped by Trickymicky
+Mastered by Dennis Orr 
+Tracked and FLAC'd by Pieteker
+
+Source: Zoom H2n (X/Y @ 24bit/44.1kHz)
+Transfer: SD card > .WAV 
+Mastering: .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-clip, De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > Trader's Little Helper > FLAC (level 5) > Mp3tag
+
+Setlist:
+01. Can't Stop Now  
+02. Silenced by the Night  
+03. Bend and Break  
+04. Your Eyes Open  
+05. Nothing in My Way  
+06. The Way I Feel  
+07. Sunshine  
+08. You Are Young  
+09. Everybody's Changing  
+10. On a Day Like Today  
+11. Perfect Symmetry  
+12. A Bad Dream  
+13. Untitled 1  
+14. Spiralling  
+15. Is It Any Wonder?  
+16. She Has No Time  
+17. This Is the Last Time  
+18. Crystal Ball  
+19. Somewhere Only We Know  
+
+Encore:
+20. We Might as Well Be Strangers  
+21. Sovereign Light Café  
+22. Bedshaped  
+
+Duration: 114min 18sec
+
+Notes: Keane delivered a stunning performance in celebration of their iconic album 'Hopes and Fears' at a packed Utilita Arena in Birmingham. For anyone who hasn't had the pleasure of experiencing them live this year, you're in for a real treat. Despite severe clipping in the original master file, Dennis Orr worked his magic and managed to salvage the audio. Dennis, we owe you a huge debt of gratitude, and of course, thanks to Mike Tovey for recording!
+
+Artwork is included.
+
+MD5 checksum
+37a7f5c828bd8cd0e6aa6a87183be77e *01 - Intro.flac
+9b3009490ae21144a25f72bd339d9ae6 *02 - Can't Stop Now.flac
+a01d9fd890c16f1e171b2cfd765af6a1 *03 - Silenced By The Night.flac
+52f8e6ca2f63b78090f407ba3005f2d6 *04 - Bend And Break.flac
+a039f61470e7288a2435d519840c7d15 *05 - Your Eyes Open.flac
+adc1f8c6628c27e7f04968a22934b445 *06 - Nothing In My Way.flac
+0b5644d99679a10bba2cb9e7d529bb30 *07 - The Way I Feel.flac
+3c7b2d46d894995f8053087cf81501d7 *08 - Sunshine.flac
+b7780838ca868b4362770f172a0fa919 *09 - You Are Young.flac
+368aed5234dc6aa9a29e9e41d3c33ac9 *10 - Everybody's Changing.flac
+e49be8f954ceb65e17012c2304b254c3 *11 - On a Day Like Today.flac
+fbc6d73f86f5c212e78708f653c18097 *12 - Perfect Symmetry.flac
+b87539d15eefd71a803c3a7c1d8b3aaf *13 - A Bad Dream.flac
+ae8bfeeb5452df346847758df1dbf9a8 *14 - Untitled 1.flac
+818fb928dd2f2fdb60b1b0cd549e5cc5 *15 - Spiralling.flac
+1619a17ba88320f2878a3a74001ea918 *16 - Is It Any Wonder.flac
+c00983d4a0ad9d40d823a4094f75e991 *17 - She Has No Time.flac
+a4ef1538adf612d9c534fe56a2378471 *18 - This Is the Last Time.flac
+d2a86eca995affff781b326c973ae600 *19 - Crystal Ball.flac
+584fc7a53a01e21b57a71fabe26aaf17 *20 - Somewhere Only We Know.flac
+2f3b4e8e65a053caf1456a81450b6c5d *21 - We Might as Well Be Strangers.flac
+db96cd886556a68f3779614d0ec289dc *22 - Sovereign Light Café.flac
+28192f31b468c078a26a6eb6bb465433 *23 - Bedshaped.flac
+dd88a7e9e2d8ae6a65f136511c1fbe20 *24 - Outro.flac

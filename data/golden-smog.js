@@ -24,7 +24,8 @@ const ARTIST_DATA = {
       "venue": "Uptown Bar",
       "notes": "DAT(x)",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "1994-07-25 - Minneapolis, MN - Uptown Bar - DAT(x) [SBD].txt"
     },
     {
       "year": 1995,
@@ -35,9 +36,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "SXSW",
-      "notes": "Electric · unk",
+      "notes": "Electric \u00b7 unk",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1995-03-17 - Austin, TX - SXSW - Electric Lounge (unk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -48,9 +50,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
-      "notes": "WXRT FM · stonecutter",
+      "notes": "WXRT FM \u00b7 stonecutter",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "textFile": "1996-02-23 - Chicago, IL - Lounge Ax (WXRT FM) (stonecutter) [FM].txt"
     },
     {
       "year": 1996,
@@ -61,9 +64,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tramps",
-      "notes": "julsay · joe noel edit",
+      "notes": "julsay \u00b7 joe noel edit",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "1996-04-13 - New York, NY - Tramps (julsay) (joe noel edit) [SBD].txt"
     },
     {
       "year": 1996,
@@ -74,9 +78,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "888 Seventh Ave.",
-      "notes": "10th · stonecutter",
+      "notes": "10th \u00b7 stonecutter",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "textFile": "1996-04-14 - New York, NY - 888 Seventh Ave. - 10th Floor (stonecutter) [FM].txt"
     },
     {
       "year": 1996,
@@ -87,9 +92,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theater of Living Arts",
-      "notes": "DAT(M) · Schoeps CMC4-MK41 · billydee",
+      "notes": "DAT(M) \u00b7 Schoeps CMC4-MK41 \u00b7 billydee",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1996-04-16 - Philadelphia, PA - Theater of Living Arts - DAT(M) (Schoeps CMC4-MK41) (billydee) [AUD].txt"
     },
     {
       "year": 1996,
@@ -100,9 +106,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
-      "notes": "CSB + SBD mix · mr. pember",
+      "notes": "CSB + SBD mix \u00b7 mr. pember",
       "version": "MIX",
-      "format": ""
+      "format": "",
+      "textFile": "1996-04-18 - Carrboro, NC - Cat's Cradle (CSB + SBD mix) (mr. pember) [MIX].txt"
     },
     {
       "year": 1996,
@@ -115,7 +122,8 @@ const ARTIST_DATA = {
       "venue": "Great American Music Hall",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "1996-06-26 - San Francisco, CA - Great American Music Hall [SBD].txt"
     },
     {
       "year": 1996,
@@ -126,9 +134,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Lounge Ax",
-      "notes": "unk · with Soundcheck",
+      "notes": "unk \u00b7 with Soundcheck",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1996-12-31 - Chicago, IL - Lounge Ax (unk) (with Soundcheck) [AUD].txt"
     },
     {
       "year": 1998,
@@ -141,7 +150,8 @@ const ARTIST_DATA = {
       "venue": "Theatre of the Living Arts",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "1998-12-04 - Philadelphia, PA - Theatre of the Living Arts [SBD].txt"
     },
     {
       "year": 1998,
@@ -154,7 +164,8 @@ const ARTIST_DATA = {
       "venue": "WNEW Idiot's Delight",
       "notes": "stonecutter",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "textFile": "1998-12-06 - New York, NY - WNEW Idiot's Delight (stonecutter) [FM].txt"
     },
     {
       "year": 1998,
@@ -167,7 +178,8 @@ const ARTIST_DATA = {
       "venue": "Paradise Rock Club",
       "notes": "unk",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1998-12-08 - Boston, MA - Paradise Rock Club (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -180,7 +192,8 @@ const ARTIST_DATA = {
       "venue": "The Metro",
       "notes": "unk",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1998-12-11 - Chicago, IL - The Metro (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -193,7 +206,8 @@ const ARTIST_DATA = {
       "venue": "First Avenue",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "1998-12-12 - Minneapolis, MN - First Avenue [SBD].txt"
     },
     {
       "year": 2006,
@@ -206,7 +220,8 @@ const ARTIST_DATA = {
       "venue": "Vic Theatre",
       "notes": "Sonic Studios",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2006-09-19 - Chicago, IL - Vic Theatre (Sonic Studios) [AUD].txt"
     },
     {
       "year": 2006,
@@ -219,7 +234,8 @@ const ARTIST_DATA = {
       "venue": "Vic Theatre",
       "notes": "",
       "version": "FM",
-      "format": ""
+      "format": "",
+      "textFile": "2006-09-19 - Chicago, IL - Vic Theatre [FM].txt"
     }
   ],
   "misc": [

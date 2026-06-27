@@ -1,0 +1,47 @@
+Wilco
+Pikes Peak Center
+Colorado Springs, CO
+Thursday May 8th, 2008
+
+Source: KM184 > V3 > HD-P2 > WAV 24/48
+Location: Orchestra Row P, Seat 25
+Microphone configuration: DIN, 6.5' high
+Digital Editing: WAV 24/48 > sndfile-resample 44.1 > sndfile-convert 16 bit > CDwave > flac16
+
+disc 1:
+wilco2008-05-08d1t01. Either Way
+wilco2008-05-08d1t02. You Are My Face
+wilco2008-05-08d1t03. Sunken Treasure
+wilco2008-05-08d1t04. Blood of the Lamb
+wilco2008-05-08d1t05. Handshake Drugs
+wilco2008-05-08d1t06. Pot Kettle Black
+wilco2008-05-08d1t07. Impossible Germany
+wilco2008-05-08d1t08. Far, Far Away
+wilco2008-05-08d1t09. Muzzle of Bees
+wilco2008-05-08d1t10. Shot in the Arm
+wilco2008-05-08d1t11. Shake it Off
+wilco2008-05-08d1t12. Hummingbird
+wilco2008-05-08d1t13. At Least That's What You Said
+wilco2008-05-08d1t14. Jesus, etc.
+wilco2008-05-08d1t15. Hate it Here
+
+disc 2:
+wilco2008-05-08d2t01. Walken
+wilco2008-05-08d2t02. I'm the Man Who Loves You false start
+wilco2008-05-08d2t03. I'm the Man Who Loves You
+encore 1:
+wilco2008-05-08d2t04. Misunderstood
+wilco2008-05-08d2t05. California Stars
+wilco2008-05-08d2t06. Heavy Metal Drummer
+wilco2008-05-08d2t07. Kingpin
+encore 2:
+wilco2008-05-08d2t08. Passenger Side
+wilco2008-05-08d2t09. Red Eyed and Blue -->
+wilco2008-05-08d2t10. I Got You (End of the Century)
+wilco2008-05-08d2t11. Casino Queen
+wilco2008-05-08d2t12. Hoodoo Voodoo
+
+
+Taped and transfered by Alex Georgopoulos
+
+Notes: There is some audience clipping during a few songs

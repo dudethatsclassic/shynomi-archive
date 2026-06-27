@@ -1,0 +1,38 @@
+Wilco
+What Stage, Bonnaroo
+Manchester, TN
+6/13/2009
+
+Neumann TLM-170 (hypercardoid, 60' back from stage "in the pit", against right-center rail) -> Sound Devices 722 (@24 bit/96 khz); FLAC File processing in SoundForge Audio Studio 9.0c (Peak Level Normalize to 0db; resample to 44.1 with interpolation accuracy 4, anti-alias filter; 24->16 bit highpass triangular dither with high pass contour noise shaping); Tracked in cdwav.
+
+1.  Wilco (the song)
+2.  I Am Trying to Break Your Heart
+3.  Company in My Back
+4.  Handshake Drugs
+5.  Bull Black Nova
+6.  You Are My Face
+7.  One Wing
+8.  Pot Kettle Black
+9.  Side With the Seeds
+10. Shot in the Arm
+11. At Least That's What You Said
+12. banter - if anybody boos us...
+13. Jesus, etc.
+14. Impossible Germany
+15. California Stars
+16. Misunderstood ->
+17. Spiders (Kidsmoke)
+18. Hummingbird
+19. You Never Know
+20. The Late Greats
+21. Hate It Here
+22. Walken
+23. I’m the Man Who Loves You
+24. encore break
+25. Hoodoo Voodoo
+26. crowd
+27. Robert F. Kennedy, Jr. speaks about "clean" coal and Montaintop removal mining
+
+Most of track 1, patched from Brian Hadella <bhadella@taperssection.com>'s source:
+Source: DPA 4022 (FOB, 5' ROC, 8' up, ORTF) > Lunatec V3 (digital out) > Edirol R44 (24/48)
+Transfer: SDHC Card > PC > Wavelab 5 (Fades, Resampled via resampler 192, MBIT+ Dither) > CD Wave > Trader's Little Helper

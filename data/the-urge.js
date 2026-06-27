@@ -19,9 +19,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-06-21 - San Francisco, CA - The Warfield (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 2019,
@@ -32,9 +33,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "Hollywood Casino Amphitheater",
-      "notes": "Nokia Lumia Icon · cptncrash76",
+      "notes": "Nokia Lumia Icon \u00b7 cptncrash76",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-08-31 - Maryland Heights, MO - Hollywood Casino Amphitheater (Nokia Lumia Icon) (cptncrash76) [AUD].txt"
     }
   ],
   "misc": []

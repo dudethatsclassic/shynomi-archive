@@ -1,0 +1,36 @@
+Band Of Horses
+2016-11-03
+Rebel, Toronto, Ontario
+ 
+AT831>SP-SPSB-8>Tascam Dr-03 (24/48)>Cool Edit Pro 2.1 (clap removal, amplify L +0.67, fade in / out, resample to 16/44.1)>CDWave (tracking)>TLH (encoding, checksums, verify)>flac 8
+
+disc 1
+01. For Annabelle			4.30
+02. The Great Salt Lake		5.17
+03. Islands On The Coast		4.12
+04. Casual Party			4.00
+05. Marry Song			5.02
+06. Throw My Mess			2.55
+07. Electric Music			5.22
+08. No One's Gonna Love You		4.45
+09. The End's Not Near		3.20
+10. Dull Times / The Moon		7.19
+11. Our Swords			2.39
+12. Laredo				4.03
+				53.24
+
+disc 2
+13. Country Teen			5.17
+14. St Augustine			4.28
+15. Hag				4.05
+16. Cigarettes, Wedding Bands		7.00
+17. The Funeral			5.53
+18. encore break			3.37
+19. In A Drawer			4.22
+20. Is There A Ghost			4.29
+21. The General Specific		3.29
+				42.50
+
+notes: The venue used to be called "The Sound Academy", hosted lots of concerts but new ownership seems to have the place heading into a nightclub, still great sound on this night. Recorded directly infront of the soundboard, little to no interferance from anyone nearby, and as such the recording came out really nice. Wonderful show, the band were having fun as you can tell from listening. For those that burn cd's I have the track split between 12 and 13 at a quiet part, no fades were added to either track 12 or 13, it flows seemlessly.
+
+compiled by coffeecup Jan 2017

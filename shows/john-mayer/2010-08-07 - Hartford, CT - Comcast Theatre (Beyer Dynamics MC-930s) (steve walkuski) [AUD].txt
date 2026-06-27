@@ -1,0 +1,60 @@
+John Mayer
+August 7, 2010 
+Comcast Theatre
+Hartford, CT
+
+
+Taper: Steve Walkuski(steve4134@gmail.com)
+Location: Right Stack, Sec 100, Row L, mics A-B config, stand at 10 feet       
+Source: Beyer Dynamics MC-930's(fixed cardioids)->Naiant Littlebox->Edirol          R09HR (24/96kHz)
+Transfer: R09HR->USB->PC->DVD+R
+Conversion: T.Gambichler,24/96kHz wav->Soundforge 8.0 for resample and                  dither to 16/44 kHz,No normalization, L3 Waves Volume Maximizer             applied,fade in/fade outs applied->CdWav Editor->Flac                       Frontend(level 5)  
+
+*************************************************************************
+***** DO NOT ENCODE THIS SHOW TO LOSSY FORMATS EXCEPT FOR PERSONAL USE*** 
+****** DO NOT SELL OR DISTRIBUTE FOR PROFIT******************************
+************************************************************************* 
+  
+
+Disc 1
+
+01: Intro (Chest Fever)->
+02: Bigger Than My Body 
+03: No Such Thing 
+04: Clarity 
+05: Slow Dancing in a Burning Room (David Ryan Harris intro) 
+06: Perfectly Lonely 
+07: Ain't No Sunshine $ 
+08: Gravity 
+09: Who Says
+
+Disc 2
+
+10: Drum solo-> 
+11: Waiting on the World to Change 
+12: Heartbreak Warfare 
+13: Do You Know Me 
+14: The Boys of Summer #% 
+15: Half of My Heart 
+
+16: Encore Break
+
+
+Encore
+
+17: Edge of Desire
+
+
+
+
+$ Bill Withers cover
+# Don Henley cover
+% with Patrick Monahan guesting on vocals
+
+
+
+Thanks to Chris Jones for the clamp space and company.
+
+
+
+Compiled by Tom Gambichler on August 11, 2010

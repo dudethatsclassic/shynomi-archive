@@ -20,9 +20,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1996-03-30 - San Francisco, CA - The Fillmore (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 2007,
@@ -35,7 +36,8 @@ const ARTIST_DATA = {
       "venue": "930 Club",
       "notes": "unk",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2007-05-17 - Washington, DC - 930 Club (unk) [AUD].txt"
     },
     {
       "year": 2009,
@@ -48,7 +50,8 @@ const ARTIST_DATA = {
       "venue": "Pearl Street Ballroom (Zoom H2) (bcc32065) (2025 remaster) [",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2009-09-19 - Northampton, MA - Pearl Street Ballroom (Zoom H2) (bcc32065) (2025 remaster) [AUD24].txt"
     }
   ],
   "misc": []

@@ -1,0 +1,77 @@
+Liz Phair
+The Troubadour
+West Hollywood, CA
+August 10, 2005
+
+** 24 BIT **
+
+Source:  Unknown mic > Sony WM-D3 > Maxell XLII cassette
+Transfer:  Sony WM-D6 (line out) > Sony PCM-M10 (line in) > .WAV @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX11 Advanced v11.0.1.3871 (De-click) > Sound Forge Pro 14.0 Build 140 [splicing, minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > 
+CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.17 (tagging)
+Taped & transferred by:  ManOfStealth
+Mastered by:  Dennis Orr
+
+Setlist: (1:09:54)
+01 Polyester Bride (fades in)
+02 Baby Got Going
+03 Extraordinary
+04 Mesmerizing
+05 Chat & Tuning
+06 Lazy Dreamer
+07 Soap Star Joe
+08 Girls' Room
+09 6'1"
+10 Chat
+11 Somebody's Miracle
+12 Chat
+13 Wild Thing
+14 Don't Hold Your Breath (If I Ever Pay You Back)
+15 May Queen
+16 Everything To Me
+17 Chat
+18 Divorce Song
+19 Chat & Tuning
+20 Supernova
+21 H.W.C.
+22 Why Can't I?
+23 Fuck And Run
+24 Encore Break
+- Encore -
+25 Chat
+26 Uncle Alvarez
+27 Flower
+
+Liz Phair - lead vocals & guitar
+Dino Meneghin - guitar & backing vocals
+
+Mastering Notes:
+Tape flip at 1:31 of "Divorce Song" - song is faded out and back in, a few seconds of music were lost
+
+LizPhair2005-08-10t01.flac:067ace26b655427a8c965dbb066136c7
+LizPhair2005-08-10t02.flac:ede7aad52c52c044b23718fbf2af629e
+LizPhair2005-08-10t03.flac:dbd1c261d6fcd5218eb3befb686b4d36
+LizPhair2005-08-10t04.flac:c93c9721fe38f54d9bf795bfaf295d9e
+LizPhair2005-08-10t05.flac:d8363444436c50a20e4ff19f0c452ad8
+LizPhair2005-08-10t06.flac:9246f0ddb3aad7790c06781a5bce5e4c
+LizPhair2005-08-10t07.flac:ae3cf044e4e87c4d68fb5e426a14031b
+LizPhair2005-08-10t08.flac:940aed85f0d147d946510aa2132c47e6
+LizPhair2005-08-10t09.flac:f1846d615b03df1843d0a594f50899e8
+LizPhair2005-08-10t10.flac:d439803dd91fbf6104e43c418c1b84b4
+LizPhair2005-08-10t11.flac:6ca62bb9df36c81476235a7193a0d362
+LizPhair2005-08-10t12.flac:87c468e478a54eef0134f85afdc2a2b9
+LizPhair2005-08-10t13.flac:6f657f4884d7117d9ce7516136f2843e
+LizPhair2005-08-10t14.flac:d10523806cdaa813ed9129d56ce6095b
+LizPhair2005-08-10t15.flac:0a9159d483981a0823ecd3d861685621
+LizPhair2005-08-10t16.flac:064fb8af036be230ec87cc6d566beb95
+LizPhair2005-08-10t17.flac:2ee588ac31e2fb5e8059ca8b4e732268
+LizPhair2005-08-10t18.flac:71b7d5506408fe63762aae3c1879657f
+LizPhair2005-08-10t19.flac:4637b48996652555fd406bdf12f6cc43
+LizPhair2005-08-10t20.flac:464cbd5c636aae275be4a38cb76d022c
+LizPhair2005-08-10t21.flac:135b64c5d6a2a36e6eb38f81c4289ddd
+LizPhair2005-08-10t22.flac:37020eb4e9f99215ed1bc038bf83792b
+LizPhair2005-08-10t23.flac:122ab9346e5da8a38f718d227791e7c8
+LizPhair2005-08-10t24.flac:aab4bb0e54f92f50e8874480785891a2
+LizPhair2005-08-10t25.flac:7183f53f43e4dfc3682164510114099c
+LizPhair2005-08-10t26.flac:2c4e6469f16ced2fc4573618cd2af122
+LizPhair2005-08-10t27.flac:f9b5953429a4c397f2958f1407168d54

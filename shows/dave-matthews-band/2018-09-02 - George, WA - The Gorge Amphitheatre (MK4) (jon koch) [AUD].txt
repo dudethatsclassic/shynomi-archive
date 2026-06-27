@@ -1,0 +1,46 @@
+Dave Matthews Band 
+September 2, 2018
+Gorge Amphitheatre - George, WA
+
+Taper: Jon Koch 
+Source: Schoeps MK4 > active cables > Nbox Platinum > Edirol R-09HR (24/48) 
+Location: Back rail of the pit, in line with right stack, Mics DIN ~12'  
+Transfer: Edirol R-09HR > SDHC > PC 
+Edit: wav > Sony Soundforge 9.0a > wav > CD Wave > wav 
+Conversion: wav > Trader's Little Helper 2.4.1 > .flac 
+
+---PRESERVE THE QUALITY, PLEASE DO NOT ENCODE INTO MP3 OTHER THAN FOR PERSONAL USE--- 
+
+01: Intro			[02:40]
+02: One Sweet World		[07:29]
+03: #27				[05:16]
+04: So Much To Say		[04:56]
+05: That Girl Is You #		[11:47]
+06: So Right			[07:27]
+07: Jimi Thing			[18:50]
+08: Again And Again		[05:03]
+09: Superstition		[09:15]
+10: Proudest Monkey		[11:02]
+11: Tripping Billies		[07:37]
+12: Captain			[05:54]
+13: She @			[05:25]
+14: Typical Situation		[15:41]
+15: The Song That Jane Likes	[05:52]
+16: Lie In Our Graves $		[12:42]
+17: Funny The Way It Is		[05:41]
+18: Hello Again			[06:05]
+19: Ants Marching		[10:54]
+20: Encore break/intro		[05:18]
+21: Butterfly +			[03:14]
+22: All Along The Watchtower	[07:13]
+23: Corn Bread			[06:54]
+Total:	      		       [3:02:15] 
+
++ Dave solo
+# w/ Preservation Hall Jazz Band 
+@ w/ Joe Fotheringham
+$ w/ Hamilton de Holanda
+
+Notes: This recording is dedicated to the memory of LeRoi Moore.
+
+Compiled on 09.06.18

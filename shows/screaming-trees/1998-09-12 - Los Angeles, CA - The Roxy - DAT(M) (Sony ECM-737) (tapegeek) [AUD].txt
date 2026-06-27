@@ -1,0 +1,62 @@
+SCREAMING TREES
+September 12, 1998
+The Roxy Theatre
+West Hollywood, CA
+
+SOURCE:
+Sony ECM-737 > Sony TCD-D8
+
+TRANSFER:
+Panasonic SV-3700 > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+DAT(M) [48kHz/16bit] > WAV [48kHz/16bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+LENGTH:
+74:39
+
+TRACKS:
+01. Halo Of Ashes
+02. Dying Days
+03. Caught Between
+04. Nearly Lost You
+05. Dollar Bill
+06. Butterfly
+07. Winter Song
+08. Change Has Come
+09. All I Know
+10. Witness
+11. Dime Western
+12. Gospel Plow
+13. Shadow Of The Season
+14. Where The Twain Shall Meet
+15. Ash Gray Sunday
+16. Julie Paradise
+17. Sworn And Broken
+
+FLAC FINGERPRINTS:
+screamingtrees1998-09-12t01.flac:949c95f997a01832c1e749ae5282126e
+screamingtrees1998-09-12t02.flac:80db631ee94b3c575da6c4c629609d15
+screamingtrees1998-09-12t03.flac:fd121a7a5b3f72f6b3ae2de07eb93fd4
+screamingtrees1998-09-12t04.flac:dfd2a9c3548c195a349c66c79f7518b6
+screamingtrees1998-09-12t05.flac:47e9e64f7bc768665da08d6cc0550a41
+screamingtrees1998-09-12t06.flac:863dc4f4d79466905c45e8a9403617b7
+screamingtrees1998-09-12t07.flac:322e894a95ce5681c06bf5c278f3faef
+screamingtrees1998-09-12t08.flac:989f18c9b0e96a80af949170530a487b
+screamingtrees1998-09-12t09.flac:eab9df75dadcb5a92fa3627e227f52ce
+screamingtrees1998-09-12t10.flac:fbd6c5210fb3eca07cb2ff3c754e3a1e
+screamingtrees1998-09-12t11.flac:6d03146da3c2de9332e33966e4c7a31b
+screamingtrees1998-09-12t12.flac:945cbd28cb1edd374eb735a7d1933b20
+screamingtrees1998-09-12t13.flac:96adad4383ae3b545e74dd10350b3307
+screamingtrees1998-09-12t14.flac:0f9dec2019c398e0e14e936c90fbda61
+screamingtrees1998-09-12t15.flac:61d96a9dec042ffaab92dec6168d92e6
+screamingtrees1998-09-12t16.flac:654801d33e9744d7cffb0dab7c60eee4
+screamingtrees1998-09-12t17.flac:8a43a0103398ed8b5f37e5b9fefbeba8
+
+RECORDED BY:
+Jonathan Wolff
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

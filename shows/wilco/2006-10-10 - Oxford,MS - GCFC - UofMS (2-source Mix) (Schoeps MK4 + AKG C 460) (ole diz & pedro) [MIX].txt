@@ -1,0 +1,54 @@
+Wilco
+2006-10-10
+Gertrude Castello Ford Center
+University of MS. Oxford, MS (Two Source AUD MIX)
+
+
+-Two Source AUD MIX: Schoeps MK4/CMC6(DIN) -&- AKG C 460 + CK 61
+
+01. Handshake Drugs 
+02. A Shot In The Arm  
+03. Impossible Germany
+04. I Am Trying To Break Your Heart 
+05. Muzzle Of Bees
+06. Kamera 
+07. Company In My Back 
+08. At Least That's What You Said 
+09. Jesus, etc. 
+10. Walken
+11. Theologians 
+12. She's A Jar 
+13. War On War **
+14. I'm The Man Who Loves You
+15. Hummingbird 
+16. - Encore break One -
+17. The Late Greats 
+18. Heavy Metal Drummer  
+19. I'm A Wheel  ## 
+20. Kingpin
+21. - Encore break Two -  
+22. Let's Not Get Carried Away
+23. Passenger Side  
+
+**False start due to problem with John's bass
+##False start due to problem with Pat's guitar
+
+--Source One:
+
+-Source: Schoeps MK4/CMC6(DIN)>Sound Devices 722(24/96)
+-Location: Orchestra Row D
+-Levels, fades, dither and bit dpth conversion in Sound Forge 8
+-Recorded by Stuart Tackett
+
+--Source Two:
+
+-Source: AKG C 460 + CK 61 > Oade M148 > Marantz PMD-671 [Oade mod]
+-Location: 2nd Row / DFC / DIN @ 6'
+-Transfer: Marantz PMD-671 > Sound Studio (via USB)
+-Taped & Transfered: Ole Diz & Pedro
+       
+--Two source AUD Mix: Schoeps MK4/CMC6(DIN)>Sound Devices 722(24/96) -&-  AKG C 460 + CK 61 > Oade M148 > Marantz PMD-671 [Oade mod]
+
+-Samplitude Pro X3 > Sound Forge Pro 11 (iZotope mastering and repair,track edits) > TLH (SBE's,ffp,md5sum)
+
+Thanks to Stuart, Ole and Pedro for these wonderful recordings, many thanks!

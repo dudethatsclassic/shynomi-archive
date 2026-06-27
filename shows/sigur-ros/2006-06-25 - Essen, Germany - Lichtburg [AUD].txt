@@ -1,0 +1,63 @@
+Torrent  #181396  sigur rós 2006.06.25 essen
+Torrent file sr20060625essen.torrent (will be personalized for you upon download) 
+Downloads as sr20060625essen 
+Info hash 0f6e11c13956725a2c0838f83a3a530d5adce2cf 
+Description Sigur Ros 
+2006-06-25 
+Lichtburg 
+Essen, Germany 
+
+Dat PCM M1- sony 
+Mic ECM999PR - sony 
+CD -> WAV using xact 
+WAV -> FLAC using flac frontend 1.12 (flac 8) 
+
+disc 1 
+01 takk [2.22] 
+02 glósóli [6.29] 
+03 ný batterí [9.31] 
+04 sæglópur [8.05] 
+05 njósnavélin [8.07] 
+06 gong [5.47] 
+07 andvari [6.11] 
+
+disc 2 
+01 hoppípolla + með blóðnasir [6.57] 
+02 se lest [10.07] 
+03 olsen olsen [8.07] 
+04 svo hjótt + heysátan [13.03] 
+05 popplagid [13.57] 
+06 avalon [2.36] 
+
+
+taped by: http://www.popplagid.com/Setlists/20060625.htm 
+torrented by: http://www.drrnwbb.com/bt/ 
+
+
+
+sr20060605-d1-t01.flac:231dc2ba6c9e528df65212aebb9cb448 
+sr20060605-d1-t02.flac:099b42841fa01e923db5bc41cb841bb6 
+sr20060605-d1-t03.flac:f1dbb630d8c680e1ec1a77d812c1859c 
+sr20060605-d1-t04.flac:7399b01c7a841899e30f3fae671d7a01 
+sr20060605-d1-t05.flac:3ffcf5374aae382cfe2fd3f31a283c39 
+sr20060605-d1-t06.flac:6e187ff6e200530cfab81ea937d33908 
+sr20060605-d1-t07.flac:aaf60943d07d9a0eb47df5f6239017c2 
+sr20060605-d2-t01.flac:9582ed3f5d3eaa49401020f874265987 
+sr20060605-d2-t02.flac:d68cb37617b011be38b4c92a5db2cd5c 
+sr20060605-d2-t03.flac:500eb9f2ab2a0a813d4fc0cb1abc6cb6 
+sr20060605-d2-t04.flac:b8a4a450d0cdc23d493c8444e9dc435c 
+sr20060605-d2-t05.flac:ca0edc2bcdc9f43eb0b1f57aa38a0bac 
+sr20060605-d2-t06.flac:b32c1a66b4a4c9c99cc4489a6aa79b80 
+Info file View Info file (1.06 KB) 
+Category Rock 
+Last seeder Last activity 3:39 ago 
+Size 608.72 MB (638,290,485 bytes) 
+Added Tue 29th Jan, 2008 18:41 GMT 
+Views 503 
+Hits 129 
+Snatched 88 time(s) 
+Upped by dwdwdw 
+Num files
+[See full list] 15 files 
+Peers
+[See full list] 2 seeder(s), 0 leecher(s) = 2 peer(s) total 

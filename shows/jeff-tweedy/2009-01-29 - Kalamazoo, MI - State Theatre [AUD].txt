@@ -1,0 +1,130 @@
+Jeff Tweedy
+29 January 2009
+State Theatre
+Kalamazoo, MI
+
+Source: Peluso CK41(Hypercardiod Dina at 7', right of center, pointed at stacks) > CECM6 > Canare StarQuad > SD 722 > line out > Korg MR-1 (1bit/2.8MHz)
+
+Location: Main Floor Right, Row Q, Seat 3 & 4
+
+Taper: Tom C
+
+Transfer: Korg MR-1 > USB > PC > AudioGate (v2.01) > WAV (16bit, 44.1kHZ) > Sound Forge (Fades) > CDWAVE (Track Splits) > FLAC
+
+-------------------------------------------------
+
+Track List
+
+1.  Intro
+2.  One By One   
+3.  Spiders (Kidsmoke)   
+4.  Bob Dylan's 49th Beard   
+5.  Jesus, Etc.   
+6.  Everlasting Everything
+7.  Solitaire
+8.  Summer Teeth
+9.  Banter (Kalamazoo, New Zealand, etc)  
+10. The Ruling Class
+11. Tuning / Banter
+12. Hummingbird   
+13. I'll Fight
+14. Banter
+15. Passenger Side
+16. Banter  
+17. Impossible Germany   
+18. I Am Trying To Break Your Heart   
+19. A Shot In The Arm   
+20. Encore Break / Applause
+Encore 1:
+21. Fake Plastic Trees
+22. Wilco (The Song)
+23. Banter (Kingpin on an acoustic guitar discussion)
+24. Kingpin
+25. Banter 
+26. I'm The Man Who Loves You   
+27. Encore Break / Applause
+Encore 2:
+28. The Thanks I Get
+29. Acuff-Rose (played at edge of stage w/o PA)
+
+-----------------------------------------------
+
+So here's the deal. I kept hoping that another source for this show would turn up, but so far no luck so I thought that I would share this copy of the show I got from a friend.
+
+There is a glitch early on in the recording due to the recorder (Korg MR-1) being bumped when the taper was (almost) being thrown out of the theatre by security. You can hear security on the recording, and faintly hear the taper trying to talk with security to say it is all cool with taping. He almost got kicked out, but fortunately Stan Doty (Wilco soundman) helped the taper out and got security to back off and not throw him out. 
+
+The taper followed the golden rule in taping; never stop recording! Fortunately he did, for we at least have one source to share.
+
+I know that the taper was not too happy with the recording, and wanted to do some cleaning up of the recording to make it more listenable, but he never had the time. I had pleaded with him to share a copy with me, and this is what I am sharing here. 
+
+This is not the greatest recording, but it will have to do until the other source turns up.
+
+------------------------------------------------
+
+FLAC Fingerprints:
+
+jt2009-01-29t01.flac:38cc54e4f08ba12d043b5bff09cdd68b
+jt2009-01-29t02.flac:23ff0cf3e78f06eeda3d0639daca2667
+jt2009-01-29t03.flac:53ec3964cfdf75336faef1813da1397c
+jt2009-01-29t04.flac:5f60d59576e4f35b7afe2a50d692d34e
+jt2009-01-29t05.flac:2b3739f8a15fd188cd3f4d3506692cb1
+jt2009-01-29t06.flac:0fef41445040d0e4ab6140fda0af4238
+jt2009-01-29t07.flac:d1f495f245835a6116dd4f1e08d8bb69
+jt2009-01-29t08.flac:e1171026f7ee5abb55f2e31a9f2e268a
+jt2009-01-29t09.flac:0a326268002c750ef173c2ff04ec0f54
+jt2009-01-29t10.flac:94d07b298913ab3eb2fdf22e44e963b8
+jt2009-01-29t11.flac:f2af7737d86298a049a2c8f0a25d2b78
+jt2009-01-29t12.flac:203138317931793d2828831a17639ee9
+jt2009-01-29t13.flac:db7df46cb388528c4e23ae52693b7cf8
+jt2009-01-29t14.flac:20c22e20de1bc0451cf68edd9070075c
+jt2009-01-29t15.flac:a80f4d6429f55372a3c0e64010b78c20
+jt2009-01-29t16.flac:f1d85dde3b686be08f05d6743fdeb21c
+jt2009-01-29t17.flac:55826adc55a28a4c95b767074113e3b1
+jt2009-01-29t18.flac:4265ef1bc32a8e3cdd393dec77dab34a
+jt2009-01-29t19.flac:8c2c26f5120bb6394f4fcf87c73cf8de
+jt2009-01-29t20.flac:757019a13fe2b3ef99b581a10e89fed0
+jt2009-01-29t21.flac:dc1869d513027eaff37a65371174e8d2
+jt2009-01-29t22.flac:38921020e785c09e742c68236e3d388c
+jt2009-01-29t23.flac:c4372c08991b7e8963678daead6c7092
+jt2009-01-29t24.flac:6f80c72b5726a191147aeae82e8893b1
+jt2009-01-29t25.flac:56a0a4488f3dc7e80c72f9b5bcf53c88
+jt2009-01-29t26.flac:f06987ab5de1b1409c56c5910680c8c8
+jt2009-01-29t27.flac:a226a6e7832894886a83421217e94e20
+jt2009-01-29t28.flac:69865f3be04a93fe0fdaeebd1b905861
+jt2009-01-29t29.flac:f6cf3811b90e9be87aede104da7d792a
+
+---------------------------------------------------
+
+MD5 for WAV Files:
+
+be55f22dd1005060cbf45c1569862d11 *jt2009-01-29t01.wav
+b0f910a381bd2e49b61cbc1d08741cdc *jt2009-01-29t02.wav
+352337b3b845411252632849e67ccba6 *jt2009-01-29t03.wav
+c6de75761e4f1cabfbff032117c23576 *jt2009-01-29t04.wav
+14017662444b14d64c96799fc3a9f265 *jt2009-01-29t05.wav
+d5f964965829a4dcf94713156e3939be *jt2009-01-29t06.wav
+18c0409c773936bf96014eb01c67d0c9 *jt2009-01-29t07.wav
+fa2fcb58896a364cb5586278bf78fb19 *jt2009-01-29t08.wav
+19b978e33b505f008c2cba760ecf103a *jt2009-01-29t09.wav
+86f3312395c10f9569767a33d72d377d *jt2009-01-29t10.wav
+4019aa0858c75cb31aafd39f98677dc0 *jt2009-01-29t11.wav
+c2f77bbdb901341011fb4dc244427222 *jt2009-01-29t12.wav
+5316508a1bf20a7ce12d6674d8335a01 *jt2009-01-29t13.wav
+1848e874b39ca5d8d6ae140054643ecf *jt2009-01-29t14.wav
+00cfebc2d744a8f197904d9774e51d1b *jt2009-01-29t15.wav
+83d00b0581684c9363b31943e2780b71 *jt2009-01-29t16.wav
+671ebd5f7f5c382c0ba7b6f36ba38307 *jt2009-01-29t17.wav
+fbf2fcf69bd5a8481f9cad0bb696bbb2 *jt2009-01-29t18.wav
+6f89f111995e2646906dbab2c7fcb29c *jt2009-01-29t19.wav
+c19b1423e55c42dd55e5f56482cafac1 *jt2009-01-29t20.wav
+08ec9b3ffdfe658110ea2c1d838882e8 *jt2009-01-29t21.wav
+69ed6f49bcad818713c244f84450a872 *jt2009-01-29t22.wav
+287cea1572d62137a7f408edc9523431 *jt2009-01-29t23.wav
+8b71d6835caa4f7ea5157997a3a99a81 *jt2009-01-29t24.wav
+1524837e3b050518e9c5c0b33f7edcca *jt2009-01-29t25.wav
+8a871ffcfa0f534cd0c1c2bb839362b0 *jt2009-01-29t26.wav
+17dcf880c35fe416af48e1bbae1f564f *jt2009-01-29t27.wav
+030801b9de929282d2763ef64a96ece5 *jt2009-01-29t28.wav
+63ffe06abf0ee8ac49af8ec48dfb4a9d *jt2009-01-29t29.wav
+
+---------------------------------------------------

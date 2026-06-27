@@ -1,0 +1,56 @@
+Sigur Rós
+2008-06-16
+Manhattan Center Grand Ballroom
+New York, NY  USA
+
+Digital Master Recording
+Recorded from FOB
+Row E, Seat 3
+
+Sony ECM-DS70P > i-River (Rockbox) > 16bit 44.1kHz wav >
+Soundforge (set fades, slight level adjustment) > CD Wave >
+Flac Frontend (level 7, align sector boundaries) > flac
+
+Please support this superb band:
+http://www.sigurros.com/
+
+Premiere Download offered Simultaneously at
+http://www.oneforthegooddays.com/
+http://www.nyctaper.com
+
+Recorded by oneforthegooddays
+Produced by nyctaper
+2008-06-28
+
+
+Setlist
+[total time 1:36:19]
+01  Svefn-g-Englar
+02  Glósóli
+03  Sé Lest
+04  Ny Batteri
+05  Við Spilum Endalaust
+06  Hoppipola/Með Blóðnasir
+07  Heysatan
+08  Viõrar Vel Til Loftárasa
+09  Sæglópur
+10  Olsen Olsen
+11  Hafsol
+12  Inní Mér Syngur Vitleysingur
+13  Gobbledigook
+Encore:Popplagið (not recorded)
+
+Flac Fingerprints:
+SigurRos2008-06-16_SonyECM_t01.flac:f9d745180c10a64e9b02f75a5a2faaac
+SigurRos2008-06-16_SonyECM_t02.flac:1ca38842c265f6ae4f9b7dcc32630667
+SigurRos2008-06-16_SonyECM_t03.flac:d03fbbd86573c9d5d3beb7fbdf7376f7
+SigurRos2008-06-16_SonyECM_t04.flac:23cc764230fd27769dc78f68d7421fc6
+SigurRos2008-06-16_SonyECM_t05.flac:72f5e67dead7eb247d97ef46af2ff063
+SigurRos2008-06-16_SonyECM_t06.flac:22f0296633a3069c07dbb82b4fb8baca
+SigurRos2008-06-16_SonyECM_t07.flac:be4c9b28abe05bd69d2fa72ee53a6ddc
+SigurRos2008-06-16_SonyECM_t08.flac:1e1809940c8872573052c49fe18bf3b5
+SigurRos2008-06-16_SonyECM_t09.flac:95ad72814397ccc2acfb8bea0e9ccd79
+SigurRos2008-06-16_SonyECM_t10.flac:549c9e57762e83ae55d5d2d2b403d9dc
+SigurRos2008-06-16_SonyECM_t11.flac:a392cb63188d0e85dc6d201b175fd33f
+SigurRos2008-06-16_SonyECM_t12.flac:8bcc3355d40adad5b5e3d4eb850d6c65
+SigurRos2008-06-16_SonyECM_t13.flac:70a2c665b4af1b84c795c3d72ef194b3

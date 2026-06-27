@@ -1,0 +1,94 @@
+Wilco
+Peabody Opera House
+October 04, 2011
+St. Louis, MO
+
+---16 bit source---
+
+SOURCE: 4 Mic Mix. 
+
+SOURCE 1: B&K 4021s (XY) > EAA-PSP2 > Tascam DR-680 @ 24/96 FOB right side row J on the center aisle, between seat 1 & 2. 
+ 
+SOURCE 2: Schoeps Mk21 (NOS - 30cm @ 90 degrees)> KC5 > CMC6 > Tascam DR-680 @ 24/96 FOB right side row J on the center aisle, between seat 1 & 2.
+
+MIX: The 2 mic sources were run right on top of each other on the same stand and into the same DR-680, mixed in post. Mix is mostly the B&Ks with a bit of the Schoeps mixed in to open things up a bit.
+
+LINEAGE: Tascam DR-680 > Computer hard drive > Samplitude 11 (mix, fades, EQ, peak limiting, normalize, resample & dither to 16/44.1) > CD Wave > Traders Little Helper flac level 6. 
+
+TAPED BY:  Steve Brothers
+
+TRANSFERRED BY: Steve Brothers
+
+FILSIZE: 713 MB
+
+SETLIST: 
+
+Disk 1 (Part 1) (65:08)
+
+01: One Sunday Morning (Song For Jane Smiley's Boyfriend)
+02: Poor Places
+03: Art of Almost
+04: I Might
+05: I Am Trying to Break Your Heart
+06: One Wing
+07: Bull Black Nova
+08: Rising Red Lung
+09: Impossible Germany
+10: Shouldn't Be Ashamed
+11: New Madrid (Uncle Tupelo)
+
+Disk 2 (Part 2) (66:21)
+
+01: Handshake Drugs
+02: Standing O
+03: Jesus, Etc.
+04: Born Alone
+05: War On War
+06: Dawned On Me
+07: Shot in the Arm
+
+Encore:
+08: Via Chicago
+09: Whole Love
+10: 36 Inches High*  (Jim Ford)
+11: I Love My Label*  (Nick Lowe)
+12: Heavy Metal Drummer
+13: I'm the Man Who Loves You
+14: Casino Queen
+15: Outtasite (Outta Mind)
+
+* = with Nick Lowe
+
+---Nick Lowe opened---
+
+---For trade only, not for sale---
+
+FFP CHECKSUM:
+
+a70162b39d752aef220782ebfdcfe7dc *Wilco2011-10-04d1t01.flac
+a0a2ed3ad6d504a9b836a96d03de4ed4 *Wilco2011-10-04d1t02.flac
+08ddcf1eba9f6df4adeeb3b600bf3d6a *Wilco2011-10-04d1t03.flac
+9a3fe30b0009dbe6221018ef65882891 *Wilco2011-10-04d1t04.flac
+4e9e4dede483c5b7316cb9b64f705611 *Wilco2011-10-04d1t05.flac
+299eadbef9b17703c63b8e8ce096cb4f *Wilco2011-10-04d1t06.flac
+93f7261a583397a810e54bd1d9375b26 *Wilco2011-10-04d1t07.flac
+527838fad7e8da1c86f80b36c920115b *Wilco2011-10-04d1t08.flac
+30ad533eff4530bcfd02594a189f97e9 *Wilco2011-10-04d1t09.flac
+27a39deb911cffb246c6251526fb0079 *Wilco2011-10-04d1t10.flac
+594519f04645dd8cdcb67936c12269a8 *Wilco2011-10-04d1t11.flac
+795321b21807c5a6defadf875209f16e *Wilco2011-10-04d2t01.flac
+566919a8149fc21b27aab36201d5c9f4 *Wilco2011-10-04d2t02.flac
+2ffc5860c6ba2cff75a43827e9a99bd1 *Wilco2011-10-04d2t03.flac
+d715d7dc13df9fd9eec45388f6ee641b *Wilco2011-10-04d2t04.flac
+deb0887080d71d10962b0faabfe5af9f *Wilco2011-10-04d2t05.flac
+56fb5d8ac63dbc62643d12b770d5108b *Wilco2011-10-04d2t06.flac
+ddcf3833c4b0fa79a26c32b3935ce79d *Wilco2011-10-04d2t07.flac
+47bc25d2ccd3d6df3639874c3e0650da *Wilco2011-10-04d2t08.flac
+3f8ca2138cf28045eb70de5fc8a63098 *Wilco2011-10-04d2t09.flac
+bc0f6e4b72b57dc52a1fb4a734c90599 *Wilco2011-10-04d2t10.flac
+39d5d09f39787cfe428aff90f85d2524 *Wilco2011-10-04d2t11.flac
+51a2851d44c3f56c1cb6adade3860049 *Wilco2011-10-04d2t12.flac
+7f4e09e4a29aa08619f73543d352c181 *Wilco2011-10-04d2t13.flac
+f69c49f5da2681c3ae466a55d625de2a *Wilco2011-10-04d2t14.flac
+d867c5736991e171fe336153bdf87c95 *Wilco2011-10-04d2t15.flac
+

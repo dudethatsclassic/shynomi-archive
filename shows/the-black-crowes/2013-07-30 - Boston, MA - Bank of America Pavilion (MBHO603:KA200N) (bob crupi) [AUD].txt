@@ -1,0 +1,50 @@
+Black Crowes
+Bank of America Pavilion
+Boston, MA
+2013-07-30
+
+Location: FOB/slight ROC (Sec 2, Row AA, seats 9 & 10); mics @~ 8ft   
+Source:   MBHO603/ka200n (~NOS) > V3 > Sony PCM-D50 (48/24)
+Transfer: Sony ProDuo Card > Sound Forge (convert 44.1/16, track and fades) > TLH (flac@8 and ffp)
+Recorded, trasferred and seeded:  Bob Crupi (axomxa@comcast.net) 
+
+
+01. Soul Singing
+02. Only Halfway to Everywhere
+03. Peace Anyway
+04. Goodbye Daughters of the Revolution
+05. She Gave Good Sunflower
+06. Girl From the Pawnshop
+07. Wiser Time
+08. She Talks to Angels
+09. Hi Head Blues
+10. Been A Long Time (Waiting on Love)
+11. Remedy
+12. Hard to Handle > 
+13. Hush > Hard to Handle
+
+Encores:
+14. Lets Go Get Stoned*
+15. Lovelight**
+
+
+*  w Derek, Susan (vocal), Mike Mattison and Mark Rivers (vocals) and Koffi (keys)
+** w Derek, Susan (vocal and guitar), Tash Neal (guitar and vocals), Falcon and Koffi (keys) 
+
+Flac fingerprints:
+
+blackcrowes2013-07-30s01t01.flac:c0d9730153330892855bf088d85f3343
+blackcrowes2013-07-30s01t02.flac:e059832d9ffd1453035997b18e82726e
+blackcrowes2013-07-30s01t03.flac:92afd232fb1642275d206bdffdf08b86
+blackcrowes2013-07-30s01t04.flac:386ccdd03ab550bd3c94223434883fc1
+blackcrowes2013-07-30s01t05.flac:c7287953439145961d02f42d51f88763
+blackcrowes2013-07-30s01t06.flac:be1b8c745e7025ea42e9e61c510e196f
+blackcrowes2013-07-30s01t07.flac:142d3380b5d830a7e4b846a6317efff8
+blackcrowes2013-07-30s01t08.flac:019ba199f3afccd98a7adbd0ad35d93f
+blackcrowes2013-07-30s01t09.flac:40c58fad5362ff3754028774a4f3f8c0
+blackcrowes2013-07-30s01t10.flac:d2c679412e94983decde067ba85d5372
+blackcrowes2013-07-30s01t11.flac:bce7c5046fa49c5ec9f92fa3e6f63242
+blackcrowes2013-07-30s01t12.flac:1f86f49c112be7ebcfac5c770de8be24
+blackcrowes2013-07-30s01t13.flac:57016be388445b4eadae962f2fc655a5
+blackcrowes2013-07-30s01t14.flac:56ecb819b06cd64ba5d172773707fec5
+blackcrowes2013-07-30s01t15.flac:4372d0ab0abfb9cf658214ee7c232925

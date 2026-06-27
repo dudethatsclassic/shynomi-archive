@@ -1,0 +1,37 @@
+﻿artist: Sigur Rós
+venue: Margaret Court Arena, Melbourne, Australia
+date: Thursday 27 July 2017
+
+https://en.wikipedia.org/wiki/Sigur_Rós
+https://www.discogs.com/artist/8299-Sigur-Rós
+https://sigurros.com/
+
+(total 1:56:14)
+-- set 1 --
+1. Á (7:05)
+2. Ekki Múkk (6:35)
+3. Glósóli (6:11)
+4. E-Bow (8:55)
+5. Dauðalagið (12:29)
+6. Fljótavík (3:57)
+7. Niður (5:01)
+8. Varða (8:49)
+-- set 2 --
+9. Óveður (7:07)
+10. Sæglópur (7:08)
+11. Ný batterí (8:02)
+12. Vaka (6:54)
+13. Festival (7:06)
+14. Kveikur (6:07)
+15. Popplagið (15:42)
+
+master recorded and encoded by crankingamps
+
+lineage: 2x DPA4061 mics on hat > DPA MMA6000 (flat response, no filter)
+> Sony PCM-M10 digital recorder (line in) > internal memory as 24-bit 48kHz .wav file
+> Adobe Audition CC 2020 edit, track, export as flac (24bit, 48kHz, level 8)
+> mp3tag > Traders Little Helper
+
+notes: no equalisation, no compression, no effects;
+recorded seated and standing in the front row to the right;
+not for sale or commercial exchange, for trade or give away only

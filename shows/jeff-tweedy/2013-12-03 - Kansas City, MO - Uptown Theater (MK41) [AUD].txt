@@ -1,0 +1,39 @@
+Jeff Tweedy
+2013-12-03
+Uptown Theater
+Kansas City, MO
+
+
+Source: Schoeps MK41 / CMR > Naiant Tinybox > Sony PCM-M10 @ 48 kHz / 24-bit
+Lineage: 48/24 WAV > Audacity 2.0.0 (split tracks, resample to 44.1 kHz, dither to 16-bit, convert to FLAC level 8)
+
+Notes: First song (Solitaire) not recorded, lowered applause volume in post-processing.
+
+
+Setlist:
+
+(00) Solitaire (not recorded)
+01 I Am Trying To Break Your Heart
+02 Remember The Mountain Bed
+03 Sunken Treasure
+04 Long Time Ago
+05 Passenger Side
+06 Dawned On Me
+07 Radio Cure
+08 Chinese Apple
+09 Kamera
+10 One True Vine
+11 Ruling Class
+12 You And I
+13 Bob Dylan's 49th Beard
+14 Jesus, Etc.
+15 Born Alone
+16 Laminated Cat (aka Not For The Season)
+E:
+17 New Madrid
+18 California Stars
+19 The Thanks I Get
+20 Shot In The Arm
+21 Acuff Rose #
+
+# unamplified at stage front

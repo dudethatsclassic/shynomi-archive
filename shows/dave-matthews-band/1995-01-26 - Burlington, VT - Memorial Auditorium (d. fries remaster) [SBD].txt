@@ -1,0 +1,99 @@
+Dave Matthews Band
+Memorial Auditorium, Burlington, VT
+January 26, 1995 
+
+Set
+		
+Seek Up			
+#36
+Dancing Nancies	
+Best Of What's Around
+Rhyme And Reason		
+Jimi Thing *	
+Recently *	
+Water Wine Jam *
+Ants Marching *
+Tripping Billies
+Dave Matthews - acoustic guitar and vocals
+Boyd Tinsley - violin and backing vocals
+Carter Beauford - drums and backing vocals
+Stefan Lessard - bass
+Leroi Moore - woodwinds
+
+* with Trey Anastasio - electric guitar
+
+Run time:
+Format: FLAC 16 bit/44.1 kHZ
+
+SBD mix remastered by D. Fries (2021).
+
+
+*** This is a remaster of the 16 bit/44.1 kHZ files shared by Tom Gambichler (September 25, 2008).  The previous text is here: ***
+
+
+"Dave Matthews Band
+January 26, 1995 
+Memorial Auditorium
+Burlington, VT
+
+
+Source:		DSBD > DAT
+
+Conversion:	Tascam da20 > M-audio Firewire Audiophile spdif in
+		Sound Forge 7.0 (record/resample) > CDWav > MKWact
+		Louie Rendek [ljr7@yahoo.com]
+
+Disc One:
+
+01:		Intro				-	00:57.53
+02:		Seek Up				-	12:56.55
+03:		Carter drum intro ->		-	01:03.56
+04:		#36				-	07:51.08
+05:		Dancing Nancies ->		-	08:43.12
+06:		Best Of What's Around		-	06:58.08
+07:		Rhyme And Reason		-	07:32.55
+08:		Jimi Thing #			-	13:52.43
+09:		Recently # ->			-	02:43.35
+10:		Water Wine Jam # ->		-	03:55.73
+11:		Ants Marching #			-	07:27.16
+12:		E:  Tripping Billies $		-	05:55.16
+
+Total:						-	79:56.30
+
+#	with Trey Anastasio on guitar.
+$	Nature intro.
+
+Notes:
+----------
+*	Thanks to Steve Warzala for digging up this DAT.  There are
+	other SHNs that spread for this show, but they are all errored
+	to some extent and even though they are listed as SBD, they
+	are undoubtedly DAUD recordings.  This is a true DSBD, you can
+	easily hear the difference between the other SHNs and this set.
+*	A few feedback spots were smoothed in the intro track, aside
+	from that, there is nothing, this show was perfect.
+*	There was a cut on the DAT during the encore break and I
+	performed a crossfade to join the sections.
+
+*  compiled by Louie Rendek [ljr7@yahoo.com] on September 30, 2005.
+
+
+UPDATE:  Received the wav file direct from the DAT on a DVD and it is indeed flawless and is the real deal DSBD.  Created flac files and fingerprints and we're ready to roll it out.  Thanks a ton to Louie for sending me the true source to seed and share it finally with the dmb community.
+
+
+Updated by Tom Gambichler on September 25, 2008
+
+
+
+dmb1995-01-26d1t01.flac:1c79350598289d043ff191244d286906
+dmb1995-01-26d1t02.flac:707839e7ae2ee06191fce2f3ab815b49
+dmb1995-01-26d1t03.flac:3cef688b63d764bb1bad959c5ae1d0dd
+dmb1995-01-26d1t04.flac:9d9398a695275ba1ea934c021600f1ab
+dmb1995-01-26d1t05.flac:03bfd1d988404bfb5365681af2554168
+dmb1995-01-26d1t06.flac:f3a60f0688c07625fbf3507eac2613d4
+dmb1995-01-26d1t07.flac:a231db61b1d25d6853595cbfd4721cff
+dmb1995-01-26d1t08.flac:8a9993579b39681d448a1b6b64cbc993
+dmb1995-01-26d1t09.flac:13542b3bafa7925c5ab68dbf6425444d
+dmb1995-01-26d1t10.flac:2813df9c20ab102b2f16914519d6feef
+dmb1995-01-26d1t11.flac:8e230531178c9ae8b9c781f61f875aca
+dmb1995-01-26d1t12.flac:1ac452f1df1da9669c507c49c70b5984"

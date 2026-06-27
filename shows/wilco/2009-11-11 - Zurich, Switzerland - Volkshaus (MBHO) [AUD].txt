@@ -1,0 +1,51 @@
+WILCO
+2009-11-11
+Volkshaus
+Zürich, Switzerland
+
+Source:     MBHO MBP 603 A / KA 200 N > Sound Devices MP-2 > Edirol R-09HR
+Mic Config: DIN (20cm, 90°)
+Location:   ~20m from the stage, ~2.2m above the ground, FoB, center
+Transfer:   Master WAVs > dEdit > FLAC V1.2.1
+Editing:    Volume boost and EQ in Apple Logic Pro V9.0.2
+            Fades in Audiofile Engineering Wave Editor V1.4.5
+Resampling: 96.0 kHz > 44.1 kHz resampling using iZotope 64-bit SRC
+Dithering:  MBIT+
+
+Disc 1:
+01 Ashes of American Flags
+02 > Bull Black Nova
+03 You Are My Face
+04 I Am Trying to Break Your Heart
+05 > One Wing
+06 A Shot in the Arm
+07 At Least That's What You Said
+08 Either Way
+09 Impossible Germany
+10 Country Disappeared
+11 Handshake Drugs
+12 War On War
+13 Jesus, etc.
+14 I'll Fight
+15 [Fade Out]
+
+Disc 2:
+01 [Fade In]
+02 Hate It Here
+03 Walken
+04 > I'm the Man Who Loves You
+05 (Encore Break #1)
+06 Via Chicago
+07 Poor Places
+08 > Spiders (Kidsmoke)
+09 (Encore Break #2)
+10 The Late Greats
+11 Heavy Metal Drummer
+12 Monday
+13 > Hoodoo Voodoo
+14 I'm a Wheel
+
+Notes:
+This is the 16 bit/44.1 kHz version of this recording.
+To seamlessly join the two discs, simply remove the fade tracks D1T15
+and D2T01.

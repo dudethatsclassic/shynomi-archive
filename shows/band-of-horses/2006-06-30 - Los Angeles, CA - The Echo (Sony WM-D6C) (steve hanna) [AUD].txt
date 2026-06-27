@@ -1,0 +1,73 @@
+Band Of Horses
+The Echo
+Los Angeles, CA
+June 30, 2006
+
+** 16 BIT **
+
+Source:  Sony WM-D6C with supplied mic > Master Cassette
+Transfer:  Master Cassette > Sony WM-D6C > Sony PCM-M10 @ 24 bit/48 kHz
+Mastering:  .WAV's > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 (Build 140) [Splicing, minor edits, normalize, & fades, Boz Digital Labs T-Bone (slant EQ)] >
+CDWav (tracking) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded & transferred by:  Steve Hanna
+Mastered by:  Dennis Orr
+
+Setlist: (1:03:58)
+01 Monsters
+02 The First Song
+03 Chat
+04 The Great Salt Lake
+05 Chat
+06 No One's Gonna Love You
+07 Chat
+08 Our Swords
+09 Part One
+10 Chat
+11 Detlef Schrempf
+12 Wicked Gil
+13 Chat
+14 You Make My Dreams
+15 Chat
+16 The Funeral
+17 Encore Break
+- Encore -
+18 (Biding Time Is A) Boat To Row
+19 Weed Party
+20 Wicked Gil
+21 Chat
+22 Ode To LRC
+
+Ben Bridwell - lead vocals & guitar
+Joe Arnone – guitar & keyboards 
+Mat Brooke - guitar & backing vocals
+Rob Hampton - bass
+Creighton Barrett - drums
+
+Show Notes:
+Yes, they did play "Wicked Gil" twice!
+
+Mastering Notes:
+Tape flip during the "Encore Break" applause - seamlessly spliced, no music lost
+
+BOH2006-06-30t01.flac:8a6bc0fe04eb23d0ad1c5987ca686a96
+BOH2006-06-30t02.flac:d40837b26b0635a3dd758682e4158641
+BOH2006-06-30t03.flac:0d4b9876cc030444feadd26df68c0af3
+BOH2006-06-30t04.flac:f62d35a6477b5c6adf3d7cb93fd65be8
+BOH2006-06-30t05.flac:f6f3baa03323d10e5a9a29a2a94d7618
+BOH2006-06-30t06.flac:d93c79b3f89a4bffd56065a6f6c515b4
+BOH2006-06-30t07.flac:443193abc3bfe68745c690e3a6972e4b
+BOH2006-06-30t08.flac:a7aa4b06e9754c7434bdf582fdb977ca
+BOH2006-06-30t09.flac:2719d007a9ff8de7b5298b52d02fb7af
+BOH2006-06-30t10.flac:218e09b383ccd5f8dee96149a7955a48
+BOH2006-06-30t11.flac:905fcb6ba092edc66b5a19526fa602a3
+BOH2006-06-30t12.flac:2df4a89958773fbc94421f6082dffe48
+BOH2006-06-30t13.flac:da7e9a5cb62a20372585b5c610225835
+BOH2006-06-30t14.flac:a6b0d4f1a83bb7b74485ca3259202d66
+BOH2006-06-30t15.flac:87e329c1456909f7dd0a0be9a3782032
+BOH2006-06-30t16.flac:169996c2a3be4b4684f78409ec6e49b3
+BOH2006-06-30t17.flac:33cb5be940fac3ddd9e3a133607961de
+BOH2006-06-30t18.flac:f4a28e87c19e266a6055a2c9973c72d8
+BOH2006-06-30t19.flac:0cee91fca08688568e54d2fa76f77a6b
+BOH2006-06-30t20.flac:7fa8bf47a10578355ba5058a77314258
+BOH2006-06-30t21.flac:f536230c02886e8109b155db904afc02
+BOH2006-06-30t22.flac:b72f71ad5e66b42fcfdb7705a1fe1a15

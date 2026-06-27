@@ -19,9 +19,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB",
-      "notes": "Sony PC62 · george n.",
+      "notes": "Sony PC62 \u00b7 george n.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-07-11 - New York, NY - CBGB (Sony PC62) (george n.) [AUD].txt"
     },
     {
       "year": 1993,
@@ -32,7 +33,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "notes": "ANA(M) · ECM-909 · tjcruz",
+      "notes": "ANA(M) \u00b7 ECM-909 \u00b7 tjcruz",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -47,7 +48,8 @@ const ARTIST_DATA = {
       "venue": "Livid Festival",
       "notes": "Triple J Live at the Wireless Broadcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-11-25 - Brisbane, Australia - Livid Festival (Triple J Live at the Wireless Broadcast) [FM].txt"
     }
   ],
   "misc": [

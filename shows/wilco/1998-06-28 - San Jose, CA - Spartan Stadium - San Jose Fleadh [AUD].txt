@@ -1,0 +1,27 @@
+Wilco
+Spartan Stadium
+"San Jose Fleadh"
+San Jose,Ca
+June 28, 1998
+
+source  : marcsounds > sony tcd-d100
+taper   : markp
+
+
+some wind noise and mic movement noise
+
+
+sorry no setlist
+
+Track01.flac:c92b34287fb494eceab617b36b8ab9d5
+Track02.flac:8b516d7297b5e77f3d0a5a91959fdc20
+Track03.flac:52fabbf1de8e8f8258ecca507b8fe48a
+Track04.flac:ea514bbaaba8e2f02ff35c8fb5c32705
+Track05.flac:772317ba6810b181ccc1ca57bb0eac70
+Track06.flac:b61b5520845d902a129d374854034b08
+Track07.flac:4a36e4fefc169342466774260a0262c3
+Track08.flac:f5dabf79470f512aaf10a8342520813f
+Track09.flac:0ac686cc89d1810f4722506ef18d7307
+Track10.flac:7f4e23de04a0a095eabf909e8bf25048
+Track11.flac:fe1cb0e455ccd8c1a80c4339fe61057c
+Track12.flac:7f647bbcad888c35b1f4a4ef77c14c88

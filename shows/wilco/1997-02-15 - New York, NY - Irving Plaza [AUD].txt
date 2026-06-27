@@ -1,0 +1,102 @@
+Wilco
+1997-02-15
+Irving Plaza
+New York, NY USA
+
+danlynch Master Series Volume 3
+
+Audience Master Recording
+Recorded from 30 feet, dead center, front of board, with mic pole.
+Schoeps microphones (unknown model)  > DAT deck (unknown model) >
+patched to Sony D-7 DAT
+
+DAT Master > Panasonic SV-3800 > digital coaxial > Audigy 2 ZS Platinum > 
+Soundforge* > 16 bit 44.1 wav > CD Wave (tracking) > Flac Frontend  (level 7, 
+align sector boundaries) > flac
+
+*Soundforge was used to capture, boost levels (150%), two patches, and set fades.  
+This 9 year old DAT was extracted 5 times before I could get an acceptable extraction.  
+Two skips in the best extraction were patched with identical pieces from a prior 
+extraction, but one small blip in the loud portion of Kingpin could not be completely 
+fixed (you might not even hear it).
+
+The Show:
+Three of us tapers brought our rigs to this show, but the venue would only allow one 
+rig--so we chose the Schoeps guy.  Thanks a ton to the guy who ran the rig, and gave 
+out two patches.
+This is the infamous "deli tray" Wilco show.  If you're a Wilco collector, you probably 
+have a dry soundboard recording of this show, and the DVD of the HBO partial broadcast 
+authored by the excellent JHamm.
+Of all the Wilco shows I attended, this is the best one.  The band's performance is energetic, 
+fun, tight and inspired.  This recording captures that energy in a way that the soundboard 
+recording does not.  I received a DAT of that soundboard years ago from my friend Mark 
+Linton, and he agreed that my audience master was a better listen.  Enjoy!
+
+
+(Total Time 1:41:26)
+Setlist:
+01  Misunderstood
+02  Far, Far Away
+03  Forget The Flowers
+04  That's Not The Issue
+05  Someday Soon
+06  New Madrid
+07  Red-Eyed And Blue
+08  I Got You (At The End Of The Century)
+09  Someone Else's Song
+10  Why Would You Wanna Live
+11  I Must Be High
+12  Passenger Side (punk)
+13  Hotel Arizona
+14  Monday
+15  Kingpin
+16  Outtasite (Outta Mind)
+Encores:
+17  Box Full Of Letters
+18  Casino Queen
+19  [The Deli Tray Incident]
+20  We've Been Had
+21  The Long Cut
+22  Dreamer In My Dreams
+23  Will You Love Me Tomorrow
+
+
+Recorded, extracted and edited by danlynch
+2005-12-22
+
+
+The danlynch Master Series is presented as the free share of the many DAT
+masters I recorded in the 1990's in and around New York City.  The series is
+dedicated to the variety of artists who have entertained over the years, and
+the many music collectors who have generously shared their unique collections
+both online and through personal trades.
+
+
+PLEASE SUPPORT THIS ARTIST and buy their official releases at:
+http://www.wilcoweb.com/store.html
+
+
+Flac Fingerprints:
+wilco1997-02-15_Audience_Master_t01.flac:3bf54178023e85fb3baa054bdf216f0e
+wilco1997-02-15_Audience_Master_t02.flac:f8f661877502a5f3f35a6d436c2d4dfe
+wilco1997-02-15_Audience_Master_t03.flac:6c5fc406fa65140afefe9b13e40223f8
+wilco1997-02-15_Audience_Master_t04.flac:a916fc77936a6be279bea01ebc0aa54a
+wilco1997-02-15_Audience_Master_t05.flac:8fe26766602d1a7c2dffce039a05348f
+wilco1997-02-15_Audience_Master_t06.flac:061dac0d0f202cf984da9fab5847f330
+wilco1997-02-15_Audience_Master_t07.flac:8e401c234c8dea241c0dc223d5e3fe77
+wilco1997-02-15_Audience_Master_t08.flac:960a34b70dbadf47ca62fbd43a0e19d0
+wilco1997-02-15_Audience_Master_t09.flac:8dcee6c51c37fe55c73eddaf443f5cf7
+wilco1997-02-15_Audience_Master_t10.flac:808b36a2e9dd6b7dfccbcf806f52790a
+wilco1997-02-15_Audience_Master_t11.flac:885fca2e790b6d8b0b2d8fc02c46d18f
+wilco1997-02-15_Audience_Master_t12.flac:cf0c45641b00fa70c324e4dfe5ba48b9
+wilco1997-02-15_Audience_Master_t13.flac:07657f3d2152af55154d9bcfa03c3da6
+wilco1997-02-15_Audience_Master_t14.flac:3928d6599c3ea4b05896e5cfda430870
+wilco1997-02-15_Audience_Master_t15.flac:8de1c1fab9ac0d6242d643d588d24e58
+wilco1997-02-15_Audience_Master_t16.flac:c0707d2e3712eb4c536abd7cba113a25
+wilco1997-02-15_Audience_Master_t17.flac:0f9e4836c67f815bab6496cee190ebb3
+wilco1997-02-15_Audience_Master_t18.flac:c153b638dd2dac7be5db65db7a135c7c
+wilco1997-02-15_Audience_Master_t19.flac:be6241a55015002e913675efdafdf1a0
+wilco1997-02-15_Audience_Master_t20.flac:2b0e7a764489db043ae12e054f35dde8
+wilco1997-02-15_Audience_Master_t21.flac:7faf57a6637cf27f5528ceab34c412a2
+wilco1997-02-15_Audience_Master_t22.flac:e8c71d03eb85f2e13e897edebfd74dd1
+wilco1997-02-15_Audience_Master_t23.flac:c38fa4c79cf7086b040ccc75e2896297

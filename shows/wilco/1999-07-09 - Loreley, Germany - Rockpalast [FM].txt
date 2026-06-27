@@ -1,0 +1,37 @@
+Wilco
+9/7/99
+Rockpalast - Loreley, Germany
+
+Source: sbd (or FM?) > ? > cdr > .wav (via EAC) > .shn (via mkw)
+
+Disc 1:
+ 1. california stars		 4:48
+ 2. i'm always in love		 3:58
+ 3. i must be high		 3:16
+ 4. hotel arizona		 4:15
+ 5. nothing'severgonnastand...	 3:22
+ 6. red-eyed and blue		 2:38
+ 7. i got you		 	 3:27
+ 8. she's a jar		 	 5:07
+ 9. a shot in the arm		 4:33
+10. we're just friends		 3:18
+11. misunderstood		 6:44
+12. my darling		 	 3:39
+13. christ for president	 4:23
+14. i can't stand it		 4:29
+15. monday		 	 4:02
+16. tweedy/bennett interview	 5:57
+
+Total time: 67:57
+
+2/18/04 NOTE: Thanks to a first-attempt upload mistake, the following files in this folder are junk:
+
+- the noname md5 file
+- the .shn titled "Wilco1999-07-09.shn" (notice no disc/track info, and only 561 bytes)
+- the .shn titled "Wilco-1999-07-09d1t02.shn" (it has a hyphen after the Wilco and is only 3.07 MB)
+
+The titled md5 file is correct, and the other .shn's represent the entire upload/show. 
+Sorry for the error.
+
+- rcb
+robertbeverly@adelphia.net 

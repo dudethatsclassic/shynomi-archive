@@ -1,0 +1,74 @@
+Wilco
+1999-05-07
+Riviera Theatre
+Chicago, IL
+
+Source: AKG 481~>V2~>ADC-20 948kHz)~>DA-P1
+Location: FOB, mics on stand, XY
+Transfer: Tascam DA-20~>Roland UA-30~>Wavelab5~>CDWav>Wavlab5 [resample]~>FLAC 9level8)
+Taped: Jamie Syrek
+Transfered and seeded: Stagger (Josh Evans)
+
+Disc 1:
+1. I'm Always In Love
+2. I Must Be High
+3. Summer Teeth
+4. How To Fight Loneliness
+5. Hotel Arizona
+6. Nothing'severgonnastandinmyway(again)
+7. Red-Eyed And Blue
+8. I Got You (At The End Of The Century)
+9. She's A Jar
+10. A Shot In The Arm
+11. We're Just Friends
+12. Hesitating Beauty
+13. Christ For President
+14. Passenger Side
+15. My Darling
+16. Can't Stand It
+17. Monday
+
+Encore 1:
+18. Via Chicago
+19. Forget The Flowers
+
+Disc 2:
+01. When You Wake Up Feeling Old
+02. New Madrid
+03. California Stars
+
+Encore 2:
+04. ELT
+05. Casino Queen
+06. Outtasite (Outta Mind)
+
+Encore 3:
+07. Hoodoo Voodoo
+
+***FFP***
+wilco1999-05-07d1t01.flac:6472c84a8b3dcf536b23870b6492433c
+wilco1999-05-07d1t02.flac:93b3059d2a31a49b4f2708ac575a3580
+wilco1999-05-07d1t03.flac:069fdbc70c757f1734ac45278559587a
+wilco1999-05-07d1t04.flac:ccf78868984cc9b6cc92ad623be95235
+wilco1999-05-07d1t05.flac:c17a72c20e953b73d2c17217fa5765af
+wilco1999-05-07d1t06.flac:1ddad0069fb6793ebbb66ae88ad3469c
+wilco1999-05-07d1t07.flac:63cded126dd70b55752ac31dbf9e2ea6
+wilco1999-05-07d1t08.flac:804cc5bfeb2d8bd12487054d04569331
+wilco1999-05-07d1t09.flac:2cd0aedc1851555f3ff2ffe917a9a7d8
+wilco1999-05-07d1t10.flac:6017e27a89b993346b59752d2641e595
+wilco1999-05-07d1t11.flac:28e872ff99a0f6f04011771b59a4e125
+wilco1999-05-07d1t12.flac:a44afa02f400aae00c1cdccaa350ea40
+wilco1999-05-07d1t13.flac:14fec6fc29a0db7a2308e5fff6e1caf1
+wilco1999-05-07d1t14.flac:be5e5ca77886a273b12727385d593e92
+wilco1999-05-07d1t15.flac:79825d996cf3a83b17c8433553e2f3ea
+wilco1999-05-07d1t16.flac:ebc827a6a97fbd65a4bbce9e7e5bde5b
+wilco1999-05-07d1t17.flac:bf25b463462ae0436685c0c58e7a1caf
+wilco1999-05-07d1t18.flac:e4e20c928607a097f12fe3c3f0ab1b72
+wilco1999-05-07d1t19.flac:e2339fb02863e4a662c73c75f9da4550
+Wilco1999-05-07d2t01.flac:9715a8b1c9441df1dad65683edbd4156
+Wilco1999-05-07d2t02.flac:75a0c71d56788d4660999ac781b6b08a
+Wilco1999-05-07d2t03.flac:4a7d8a66a4491a7a440be1ff7608d765
+Wilco1999-05-07d2t04.flac:63071b0517e9751661b3350498dbe685
+Wilco1999-05-07d2t05.flac:a836715d68c93aa7578441a7fc05e53e
+Wilco1999-05-07d2t06.flac:b1bc2d1156149f2496c72fad8b83cdc0
+Wilco1999-05-07d2t07.flac:2d6fbf2aad6b13bfced787a9b3420a19

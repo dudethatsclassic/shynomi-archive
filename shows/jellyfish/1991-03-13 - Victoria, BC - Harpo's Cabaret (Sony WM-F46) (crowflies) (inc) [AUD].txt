@@ -1,0 +1,51 @@
+﻿Jellyfish
+Harpo's Cabaret
+Victoria, BC
+March 13, 1991
+
+** 16 BIT **
+
+Source:  Sony FM/AM Stereo Cassette-Corder WM-F46 with supplied mic > Master cassette (Maxell XLII)
+Transfer:  Master cassette > Nakamichi LX-5 (azimuth adjusted) > Focusrite Scarlett 4I4 3rd Generation USB Audio Interface > 
+Sound Forge Pro 11.0 (Build 299) (Dell PRECISION M6800 laptop) > .WAV
+Mastering:  .WAV > Sound Forge Pro 11.0 Build 299 (iZotope Mastering Suite (declick); minor edits, normalize, & fades) > 
+iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > WavePad (split tracks) > Trader's Little Helper (level 8) > 
+FLAC > TagScanner 6.0.35 (tagging)  
+Taped by:   "crowflies"
+Transferred & mastered by:  Dennis Orr
+Tracked & FLAC'd by:  Rob Gronotte
+
+Setlist: (44:12)
+01 Hold Your Head Up
+02 Hello
+03 Calling Sarah
+04 The King Is Half-Undressed
+05 I Wanna Stay Home
+06 Mr. Late
+07 Bye, Bye, Bye
+08 She Still Loves Him
+09 Will You Marry Me?
+10 Fast Car (tease) >
+11 Now She Knows She's Wrong
+
+Andy Sturmer – lead vocals, drums, keyboards, & guitar
+Roger Manning – keyboards, piano, guitar, percussion, & backing vocals
+Jason Falkner – guitars, bass, keyboards, & backing vocals
+Chris Manning – bass & backing vocals
+
+Notes:
+This is only part of the show.  Unfortunately either the recording button wasn't depressed properly, or it popped out of place. 
+In any case Side B of the tape was blank.
+
+Jellyfish1991-03-13t01.flac:89ad6890f6993618947937e408d1a890
+Jellyfish1991-03-13t02.flac:47d67ea9df10cca029475abf62cedd40
+Jellyfish1991-03-13t03.flac:e5b43d8253ff5e9c4a877bab75a39c3d
+Jellyfish1991-03-13t04.flac:b78fd58f8d7636fce6d2fff22f0b43aa
+Jellyfish1991-03-13t05.flac:e92db83ea7732f28f40b8cdba5f3e87c
+Jellyfish1991-03-13t06.flac:f133017dd2bef0fbb709176dc5672b8e
+Jellyfish1991-03-13t07.flac:d559f5d0b3e55fa9d1f7954bd5f93e26
+Jellyfish1991-03-13t08.flac:75eaf367f0029cd357803520e7c9d56b
+Jellyfish1991-03-13t09.flac:a71e5bf72bc23d94c91969a3861f349e
+Jellyfish1991-03-13t10.flac:993fec2fdba7c0cf28ad41fa545d2c95
+Jellyfish1991-03-13t11.flac:f642bbeb05740ee9170de3bdf2b550b2
+

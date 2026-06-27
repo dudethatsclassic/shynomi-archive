@@ -1,0 +1,40 @@
+Dave Matthews Band
+05/14/2015
+Austin360 Amphitheater
+Austin, TX
+
+Source: AKG 483 > Tascam DR-680 24/48
+Location: FOB, DFC, clamped at 6 ft
+Transfer: Tascam DR-680 > Wavelab 6.0 (resample, dither) > CDWave (tracking) > flac level 6
+Taped, transferred and seeded by Larry Pillman (atxtaperATyahooDOTcom)
+
+Set 1 - Acoustic Set: 
+01 Snow Outside
+02 Save Me
+03 Satellite
+04 So Damn Lucky
+05 Grace Is Gone
+06 Take Me to Tomorrow (Dave solo)
+07 Tripping Billies
+08 What Would You Say
+09 Two Step 
+
+Set 2 - Electric Set: 
+01 #41
+02 Black and BlueBird
+03 You Might Die Trying
+04 Belly Belly Nice
+05 Mercy
+06 Raven
+07 Shake Me Like a Monkey
+08 Dancing Nancies 
+09 Warehouse
+10 You & Me, Grey Street 
+11 Encore Break
+12 Granny
+13 Water into Wine
+14 Pantala Naga Pampa 
+15 Rapunzel
+
+Notes:
+Due to technical difficulties, there was a late start to set 1.  Added a fade-in to smooth the transition.

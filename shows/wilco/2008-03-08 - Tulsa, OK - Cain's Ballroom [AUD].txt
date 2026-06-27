@@ -1,0 +1,103 @@
+Wilco
+Cain's Ballroom
+Tulsa, OK
+March 08, 2008 
+
+---16 bit source---
+
+SOURCE: B&K 4021s (ORTF) > EAA-PSP2 > 722 @ 24/96 DFC FOB directly under the mirror ball. 
+
+LINEAGE: 722 > Wavelab (fades, resample & dither to 16/44.1 > CD Wave > Flac Frontend level 6. 
+
+TAPED BY:  Rodney Bryan
+
+TRANSFERRED BY: Steve Brothers
+
+FILSIZE: 688 MB
+
+SETLIST: 
+
+Disk 1 (Part 1) (75:35 - requires 80 minute CD)
+
+01: intro
+02: You Are My Face
+03: Muzzle of Bees
+04: One By One
+05: California Stars
+06: Impossible Germany
+07: Handshake Drugs
+08: I'm Always In Love
+09: A Shot in the Arm
+10: Side With The Seeds
+11: She's a Jar
+12: Jesus, etc.
+13: Pick Up The Change
+14: Airline to Heaven
+15: Forget the Flowers
+16: At My Window Sad and Lonely
+
+Disk 2 (Part 2) (69:47)
+
+01: Hotel Arizona
+02: War on War
+03: Via Chicago
+04: The Late Greats
+
+Encore 1:
+05: Hate It Here
+06: Heavy Metal Drummer
+07: Walken
+08: I'm The Man Who Loves You
+09: Red-Eyed and Blue>
+10: I Got You (At The End of the Century)
+11: —happy birthday sung to Brendan Canty and belated happy birthday sung to Andy, the merch guy—
+12: Kingpin
+13: Hoodoo Voodoo
+
+Encore 2:
+14: Monday
+15: I'm A Wheel
+
+
+---For trade only - not for sale---
+
+---Special thanks to Brian Sax for the use of the 722---
+---Thanks to bbop on Via Chicago for posting the set list---
+
+---John Doe opened---
+
+FFP CHECKSUM:
+
+wilco2008-03-08d1t13.flac:5f0fcd8afb8ba91d9f8d45f088b3aa09
+wilco2008-03-08d1t14.flac:b36a5237f0e9ee4e5655033d08e2d992
+wilco2008-03-08d1t15.flac:7401d0fe0f9322ae0d412daa0d21b865
+wilco2008-03-08d1t16.flac:d2805793a1d8dcf1ba4e91145ebf770f
+wilco2008-03-08d2t01.flac:576b5cd3a23e93455398382a43f09594
+wilco2008-03-08d2t02.flac:3f3dfcddc30dfe8bdf54c7e8cdb4da59
+wilco2008-03-08d2t03.flac:e5ac086d8c20bd5693264bdc9360c8be
+wilco2008-03-08d2t04.flac:e1f46c1b9fd8d81cac9a32b318b59578
+wilco2008-03-08d2t05.flac:d7cc815eef72a7b1acbe7796ced058e1
+wilco2008-03-08d2t06.flac:9dbfc4db6f83cb95cecd8e77087f478b
+wilco2008-03-08d2t07.flac:b2fd6b4810477450e77a77b02a492268
+wilco2008-03-08d2t08.flac:d5f6960fae4d2236b811334f96d07c4c
+wilco2008-03-08d2t09.flac:e69e2b3cbf1d04393ee35632337f73c8
+wilco2008-03-08d2t10.flac:6d409d7b24212f5bb0f9312ab24f3ffa
+wilco2008-03-08d2t11.flac:1be4b6acdff15d940f32372dc19199d7
+wilco2008-03-08d2t12.flac:ffab6bee30784a5f1f1a1cb0469fceab
+wilco2008-03-08d2t13.flac:750a8798602ac33a94f7a4e8a4047801
+wilco2008-03-08d2t14.flac:b211f20573ebad8a88f0d10b4addbbb4
+wilco2008-03-08d2t15.flac:c4ef76eda926a8a68cd8cf2ac7eec23a
+wilco2008-03-08d1t01.flac:60c55f8ad222e3c913a0ad6fc4ac8a8a
+wilco2008-03-08d1t02.flac:f014265a9d0a3127adfafccdd56d1d41
+wilco2008-03-08d1t03.flac:c74755e9ce4d6c005f45358a81dd677a
+wilco2008-03-08d1t04.flac:bdaa8b4d9e0e9de8ffc96a27cf2b5109
+wilco2008-03-08d1t05.flac:ddcfc5a1ab27537faea21c22b57170e9
+wilco2008-03-08d1t06.flac:9442865aaef0c4998d64be5999733f05
+wilco2008-03-08d1t07.flac:ed3a11d35c06ed1fbf74238955d35a57
+wilco2008-03-08d1t08.flac:6ba2771bb3b503b7227430e81ad9342d
+wilco2008-03-08d1t09.flac:1f88bc1e2708354210e0bdd4035e6544
+wilco2008-03-08d1t10.flac:e10764f0686a61e2e53a9b55e2f42274
+wilco2008-03-08d1t11.flac:1e2bc697b08571c57ad73e449f8e4dd0
+wilco2008-03-08d1t12.flac:3bdcac4616ed59586b76feee23d0f80d
+
+

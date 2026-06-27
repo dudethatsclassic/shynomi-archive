@@ -1,0 +1,33 @@
+Wilco
+Circus Krone
+Munich, Germany
+September 24, 2010
+
+Lineage: DVB-S broadcast -> transport stream (MP2, 320Kbps, 48kHz, 2ch) ->
+         Audacity (normalization, track splits) -> FLAC (16-bit, 44.1kHz, 2ch)
+
+Source: DVB radio broadcast
+Station: Bayern 2
+Airdate: October 3rd, 2010 8.30pm CET
+Duration: 59:42 min.
+Data size: 385.6 MB
+
+Digital recording
+
+Track listing:
+01 Intro
+02 Wilco (The Song)
+03 Interview p1
+04 Bull Black Nova
+05 Ashes of American Flags
+06 I Am Trying to Break Your Heart
+07 One Wing
+08 You Are My Face
+09 A Shot in the Arm
+10 Interview p2
+11 Impossible Germany
+12 Jesus, Etc.
+13 You Never Know
+14 Heavy Metal Drummer
+
+Recorded and initially seeded on Dime by tcb_guy

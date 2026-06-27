@@ -1,0 +1,121 @@
+Wilco
+The Fillmore
+San Francisco, CA
+USA
+2016-09-07
+
+
+Source:  CA-11s Cardioid caps (DINA) > CA-9100 > Edirol R-05 (24bit- 48kHz)
+Lineage: source > Sandisk 8GB SDHC card to HD > Pro Tools 8.05 (mastering, editing) > Audacity (track splitting, conversion to 16.1/48kHz) > xACT (FLAC Level 6 encoding, tagging, verification, creation of mp3 version)
+
+Location: On stand at 9’ in back left corner of room (facing the stage), probably 20
+
+Recorded by: litmus
+
+Transferred and mastered by litmus
+www.bigmicroscope.com
+
+A 'From Where I Stand' Release: FWIS-315
+
+This recording is strictly for non-commercial use.
+
+PLEASE SUPPORT THE ARTIST BY PURCHASING OFFICIAL RELEASES AND ATTENDING LIVE SHOWS!
+ 
+778 MB in folder
+
+ 
+------------------------------------
+Set List
+------------------------------------
+
+01. [03:23] Normal American Kids
+02. [03:12] If I Ever Was a Child
+03. [04:24] Cry All Day
+04. [04:06] Wishful Thinking
+05. [06:08] Bull Black Nova
+06. [04:14] Far, Far Away
+07. [03:26] Someone to Lose
+08. [03:22] Cold Slope >
+09. [02:53] King of You
+10. [04:29] The Lonely 1
+11. [09:54] Impossible Germany
+12. [03:24] Pick Up the Change
+13. [03:29] Nope
+14. [03:25] Hesitating Beauty
+15. [04:29] Cars Can't Escape
+16. [02:42] Locator
+17. [06:23] Laminated Cat
+18. [05:17] Dawned on Me
+19. [02:51] We Aren't the World (Safety Girl)
+20. [04:03] Hummingbird
+21. [03:17] The Late Greats
+
+22. [01:49] Encore Break 1
+23. [09:56] Spiders (Kidsmoke)
+
+24. [01:51] Encore Break 2
+25. [04:21] New Madrid
+26. [03:39] War on War
+27. [03:58] Passenger Side
+28. [04:46] Misunderstood
+
+
+Total time: 01:59:11	
+
+------------------------------------
+Notes
+------------------------------------
+
+Some weird, occasional low noise in the left channel that might be due to "wind" from overhead (not Wilco) fans in the Fillmore. Only audible in between a few songs. 
+
+Cover art uses a photo by Philip Cosores (found on Consequence of Sound).
+
+
+------------------------------------
+Thoughts
+------------------------------------
+
+How many times have I seen Wilco over the years? A lot. They never cease to delight, amaze, and deliver. This stripped-down, more acoustic version of the Wilco stage show was just as intriguing and captivating as the more traditional 'electric' show. The "Schmilco" songs sounded great alongside the rest of their stupendous catalogue, which is saying a lot considering I'd only been able to spin the whole record once before this show. All in all, a great show and a nice waltz through the history of Wilco, song-wise.
+
+Taping at the Fillmore is a rarity, so it was nice to be able to set up with a stand (thanks to the band), even it was in the very back corner. Sounds pretty good considering I wasn't able to get right next to the board like I prefer to do.
+
+------------------------------------
+FFP Info
+------------------------------------
+
+Wilco.2016-09-07.FWIS-315.flac16.t01.flac:6366dcc18fe59fe2e33dc8d7f551d80c
+Wilco.2016-09-07.FWIS-315.flac16.t02.flac:d2ef673daea33b64dd7bbc8ad49c5dc9
+Wilco.2016-09-07.FWIS-315.flac16.t03.flac:e3a36991db7d68fa770881f0b3aaefec
+Wilco.2016-09-07.FWIS-315.flac16.t04.flac:aa8af1fdf9c0e83b18f406cc9610c53f
+Wilco.2016-09-07.FWIS-315.flac16.t05.flac:b3ffd503918991cf826573e3b8c4a125
+Wilco.2016-09-07.FWIS-315.flac16.t06.flac:14f77869eb81728e53d55910361fd32f
+Wilco.2016-09-07.FWIS-315.flac16.t07.flac:4ec5de3ba944403058a9cae84f5e8e61
+Wilco.2016-09-07.FWIS-315.flac16.t08.flac:fb6a2fb036c4da6ff316f9343dbede52
+Wilco.2016-09-07.FWIS-315.flac16.t09.flac:d5500e6887eae73cb8761eceec0e8a5b
+Wilco.2016-09-07.FWIS-315.flac16.t10.flac:e9584492a683c9439d4ff51b88ee06b8
+Wilco.2016-09-07.FWIS-315.flac16.t11.flac:c1fe63b46e76580b39a15606423d02f9
+Wilco.2016-09-07.FWIS-315.flac16.t12.flac:ae01c1a737268ddadf6f9f56af4c533d
+Wilco.2016-09-07.FWIS-315.flac16.t13.flac:aab63fc04a2cd06cb1cb615b2c6248fc
+Wilco.2016-09-07.FWIS-315.flac16.t14.flac:02d67c7463c2831e907e9bf2fb957fb7
+Wilco.2016-09-07.FWIS-315.flac16.t15.flac:5dcd11654877c71b626ef8e3439d92f9
+Wilco.2016-09-07.FWIS-315.flac16.t16.flac:be6ae6ac58555d6a36b0ee691f8402d5
+Wilco.2016-09-07.FWIS-315.flac16.t17.flac:b4ebaab8e8be1a818a10e99198b33a10
+Wilco.2016-09-07.FWIS-315.flac16.t18.flac:5cea52bb712ff94121334bcad72cf542
+Wilco.2016-09-07.FWIS-315.flac16.t19.flac:81d3b8cbd90d7409f412bb803bb79ff2
+Wilco.2016-09-07.FWIS-315.flac16.t20.flac:ef1e058b2f06d73560da48cce507e451
+Wilco.2016-09-07.FWIS-315.flac16.t21.flac:3483229c8a998a18a279076c8668bccf
+Wilco.2016-09-07.FWIS-315.flac16.t22.flac:24eafd76c881dac2df766fcf6034039b
+Wilco.2016-09-07.FWIS-315.flac16.t23.flac:608eef473862f4437377371f541751aa
+Wilco.2016-09-07.FWIS-315.flac16.t24.flac:ed157b8ae8a19c89568cba919739dbd8
+Wilco.2016-09-07.FWIS-315.flac16.t25.flac:fee977250100b1b1d9b1c8278c5354de
+Wilco.2016-09-07.FWIS-315.flac16.t26.flac:7735e52ee513b04560c3ce807b0bf1ed
+Wilco.2016-09-07.FWIS-315.flac16.t27.flac:27eebe7c2c20d47084686ab82ad9ba9d
+Wilco.2016-09-07.FWIS-315.flac16.t28.flac:05aa21039ad17dd775c588b8a994d847
+
+-----------------------------------
+
+Do NOT sell this show. If you see this show for sale on eBay or anywhere else, please report the seller to eBay and Paypal.
+
+https://www.paypal.com/wf/f=pps_prohib
+http://pages.ebay.com/help/policies/replica-counterfeit.html
+http://pages.ebay.com/help/policies/rfe-previously-suspended.html

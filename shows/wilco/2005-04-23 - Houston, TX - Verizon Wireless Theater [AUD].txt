@@ -1,0 +1,68 @@
+Wilco
+April 23, 2005
+Verizon Wireless Theater
+Houston, Texas
+
+two possible sources:
+DSM-6S>PA-6LC3>M1
+or
+CSB>d8>imac>spin dr wave>toast>lacie external>fujifilm 80 cdr
+
+trade CDs > EAC > Wav > Sound Forge Pro 10.0 > TLH > FLAC
+
+
+01 At Least That's What You Said
+02 Muzzle Of Bees
+03 I Am Trying To Break Your Heart
+04 Handshake Drugs
+05 Hummingbird
+06 A Shot In The Arm
+07 Jesus, Etc.
+08 Kamera
+09 War On War
+10 Via Chicago
+11 I'm Always In Love
+12 Theologians
+13 I'm The Man Who Loves You
+14 Poor Places
+15 Reservations
+16 Spiders (Kidsmoke)
+17 Candyfloss
+18 The Late Greats
+19 Kingpin
+20 I'm A Wheel
+21 Misunderstood
+22 Passenger Side
+23 California Stars
+
+124:38 
+
+
+I've found out that there are many Wilco shows up to ~2005 that have probably never been torrented (at least not since ~2005) 
+but have only been traded, presumably in the last years of traditional trading. Somehow, these shows were forgotten in the first 
+waves of torrenting - or deemed not worthy of digital distribution ... or simply those traders in possesion never made the step to
+torrenting and then stopped trading altogether, like most everybody did.
+I've searched high and low, checked countless old lists and sent a lot of asking mails to ancient email addresses. About half of them
+bounced, another quarter didn't reply - and the ones that did hadn't traded (or stopped collecting) in a long time. But then I
+found two friendly persons, one in Seattle, the other on the East Coast who were willing to share shows with me. Arrangements 
+were made and now I am able to (re-)introduce about two dozen Wilco and Jeff Tweedy shows to you.
+I have not yet listened to all, most need some work. I guess many of the original CDs are flawed by now, but apart of some
+occasional odd digi scratches, everything can be rescued or restored, it'll take some time, please be patient.
+
+
+notes to the 2018 edition:
+April 23, 2005, Houston, Texas
+DSM-6S>PA-6LC3>M1 -or- 
+CSB>d8>imac>spin dr wave>toast>lacie external>fujifilm 80 cdr
+> trade CDs > EAC > Wav > Sound Forge Pro 10.0 > TLH > FLAC
+
+Not many digital flaws, but there seem to be strange skips in 'Spiders' t16 @ 0:44 and 4:15. 
+I chose to patch the originally separated applause tracks onto the preceeding ones and re-joined the two CDs (13/10). 
+Thanks Robert.
+
+[2018-05-10]
+
+
+Respect the Artists
+Never sell - for trade only
+Please do not encode to lossy formats

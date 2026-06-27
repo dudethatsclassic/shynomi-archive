@@ -1,0 +1,82 @@
+Wilco
+6/28/07
+Bank of America Pavilion
+Boston, MA
+ 
+Taper: PG 
+Source: Neumann AK40 > LC3 > KM100 > Oade m148 > Grace Lunatec V3 > TCD-D100
+Location: Section 2 Row BB Seats 12+13
+Conversion: PCM-M1 > M-Audio USB > CDWave > FLAC 1.7.1 (Level 6)
+
+Disc 1 
+
+01 Intro
+02 Shot in the Arm
+03 Side With the Seeds
+04 You Are My Face
+05 I am Trying to Break Your Heart 
+06 Kamera
+07 Handshake Drugs 
+08 On and On and On
+09 Impossible Germany
+10 Sky Blue Sky
+11 War on War
+12 Jesus, Etc.
+13 Theologians
+
+Disc 2
+
+01 Walken
+02 I'm The Man Who Loves You
+03 Hummingbird 
+04 Spiders (Kidsmoke)
+
+-----------
+05 Heavy Metal Drummer
+06 California Stars  
+07 Hate it Here 
+-----------
+
+08 Via Chicago
+09 Passenger Side
+10 Late Greats
+11 I'm Always in Love
+12 OuttaSite (OuttaMind)
+
+
+Recording Notes:
+*Mics in a DIN configuraton
+*Recorded at 44.1
+*ANSR used on the Lunatec V3
+*Fades and volume boost done with Adobe Audition
+
+*Security had me to lower my stand to head height at the beginning of the show. I'm short so I 
+went to about 6'5". During the second half of the show many people around me had either left or
+were sitting so the height wasn't a huge issue. 
+
+
+wilco2007-06-28d0203.flac:1ea2c6d5a376aa2e370c0c9ff6719be5
+wilco2007-06-28d0204.flac:d7a89cbacc61652bfd667c54a93cc88d
+wilco2007-06-28d0205.flac:9f555b8420ba7cda7c895b4393e9790e
+wilco2007-06-28d0206.flac:9de05fa840a7207484d2312c2e106e3a
+wilco2007-06-28d0207.flac:43e7608f393891f06b8484348ddae765
+wilco2007-06-28d0208.flac:20841f27ed8378747eb4d368133ebe68
+wilco2007-06-28d0209.flac:b6dd4fff08ea8b056e501c6a5ef24866
+wilco2007-06-28d0210.flac:de136d4d156001e92df2892eb1703c4b
+wilco2007-06-28d0211.flac:d3676bf62e747a00b625bf10ca68a1b1
+wilco2007-06-28d0212.flac:0ace450ac4c5d1be1b0ce9a02755b935
+wilco2007-06-28d0101.flac:8371276e7c383ec3dbd83af899660265
+wilco2007-06-28d0102.flac:e826434ebbbb719b67d3e3ba4f43a882
+wilco2007-06-28d0103.flac:8de1b53b5df553b8e40446202b5adc59
+wilco2007-06-28d0104.flac:dfac5c12542550f52e77a774b473d790
+wilco2007-06-28d0105.flac:95a75b3b2c5205c0094a3d5e5a70db6e
+wilco2007-06-28d0106.flac:9ca5ac1fbdaec38da5a36e374038e982
+wilco2007-06-28d0107.flac:f71ed3237ab2c64c9b71291adad17d8b
+wilco2007-06-28d0108.flac:60b72bf0e3e94086eea42b0116fd21f7
+wilco2007-06-28d0109.flac:0d5d0137169811a794a67df744266376
+wilco2007-06-28d0110.flac:a5c4a7b4c1d12f88ce77eb3a0e926207
+wilco2007-06-28d0111.flac:8186d80a79f2314d882c246a7b3d9b54
+wilco2007-06-28d0112.flac:d1985c9a67a348e1e97c9ba4128c5c05
+wilco2007-06-28d0113.flac:22222e579bd6180829a6ea8c70f24af4
+wilco2007-06-28d0201.flac:5f580eb2fe01146faf7061f2dcd3e7a3
+wilco2007-06-28d0202.flac:1853d58301a7605cd53a26422e8ffceb

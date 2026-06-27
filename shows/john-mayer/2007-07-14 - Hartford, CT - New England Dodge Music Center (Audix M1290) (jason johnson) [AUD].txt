@@ -1,0 +1,42 @@
+John Mayer
+New England Dodge Music Center
+Hartford, Connecticut
+July 14, 2007
+
+Taper: Jason Johnson (taperjason@gmail.com)
+Location: Section 200, Row U, Seat 11
+Source: Audix m1290 Cards (DIN, ~9') > Lunatec V3 (75 Hz bass rolloff) > NJB3
+Conversion: NJB3 > USB > WaveLab 5.0a > CDWav 1.71 > Flac Frontend 1.7.1 (Level 8) > xACT 0.5.7
+
+***********************************************
+**   PLEASE DO NOT SPREAD IN LOSSY FORMATS!  **
+** PLEASE DO NOT REMASTER WITHOUT PERMISSION **
+***********************************************
+
+01 Intro                                            00:38.72
+02 No Such Thing                                    04:34.23
+03 Belief                                           06:44.68
+04 Good Love Is On The Way                          04:49.74
+05 I Don't Trust Myself (With Loving You)           11:01.13
+06 Neon                                             06:48.27
+07 Dreaming With A Broken Heart                     04:36.34
+08 Waiting On The World To Change                   04:45.54
+09 Finally Legal Jam >                              02:05.65
+10 Vultures                                         06:51.24
+11 Bigger Than My Body                              05:13.06
+12 I Don't Need No Doctor                           07:25.23
+13 Why Georgia                                      06:43.70
+14 Gravity                                          10:40.63
+15 Encore Break                                     02:31.07
+16 Slow Dancing *                                   05:58.47
+17 Your Body Is A Wonderland *                      04:59.43
+18 I'm Gonna Find Another You                       07:33.40
+
+Total: 104:03.03
+
+Notes:
+* Acoustic
+
+Recommended track splits: t01-t10, t11-t18.
+Compiled by Jason Johnson on July 16, 2007.
+www.greppson.net

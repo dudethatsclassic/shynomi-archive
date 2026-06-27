@@ -1,0 +1,93 @@
+Sigur Ros
+2008-11-23
+Laugardalshöll
+Reykjavík
+Iceland
+
+FM Source:
+
+Taper      : Bjössi
+
+
+
+Lineage    : Icelandic National Broadcasting Service (Ríkisútvarpið RUV) > FM > Sound Studio 3.0 > .aiff > Amadeus II 3.8.4 > xACT > .flac
+
+Audience Source:
+
+Taper      : bnz
+
+Lineage    : at831 - SP-SPSB-11 (Bass Roll-off at 107 HZ) - Edirol R09 at 16 bit 44.1 Khz > SD card > SDslot > PC > Audition 1.5 > Cdwave > TLH > FLAC (8)
+
+Mastering  : rdwm
+Matrix by  : rdwm
+info file  : bnz
+
+Total Time : 106:10 min
+
+01 Svefn g englar			[10:10]
+02 Glosoli				[07:05]
+03 Ný batterí				[08:40]
+04 Fljótavik				[03:32]
+05 Við spilum endalaust			[04:14]
+06 Hoppípolla				[05:16]
+07 Með blóðnasir			[02:06]
+08 Inní mér syngur vitleysingur		[04:17]
+09 E-bow				[09:37]
+10 Sæglópur				[07:00]
+11 Festival				[07:36]
+12 Hafsól				[09:14]
+13 Gobbledigook				[05:32]
+---	
+14 All alright				[05:46]
+15 Popplagið 				[16:05]
+
+Band:
+
+Jón Þór (Jónsi) Birgisson  - Vocals, Guitar, Bow, Keyboards 
+Kjartan (Kjarri) Sveinsson - Keyboards, Vocals, Guitar 
+Orri Páll Dýrason          - Drums, Strange Hat 
+Georg (Goggi) Holm         - Bass, Drumstick Bass 
+
+- Kjartan Holm - Xylophone on Hafsól 
+- Kjartan Holm, Guðfinnur Sveinsson, Elvar J. Guðmundsson, Jóhannes Ólafsson - Drums on Gobbledigook 
+
+
+
+Notes going with the FM Source:
+
+
+
+Dime:
+
+Hi all - I was requested to seed this broadcast in comments to the audience recording of this show: http://www.dimeadozen.org/torrents-details.php?id=532718
+
+
+I have not changed anything in the files; the text below appears exactly as it was (including typos!) except it had to become .txt instead of .rtf;
+I removed one of the dead links and added ‘0’ to track numbers 1 > 9.
+Please enjoy this beautiful show! Keep it lossless!
+
+
+seeded to dime July 2015
+
+Original:
+
+It's an fm broadcast by the Icelandic National Broadcasting Service (Ríkisútvarpið RUV) recorded on november 23rd 2008 and aired on december 31st 2008.
+
+I do my best to remove Dj comments between songs but it's impossible for me to remove all this comments (especially on tracks 5, 6, 8 and 9).
+Also, I boosted the volume on each tracks.
+
+A review : http://returntoreykjavik.blogspot.com/2008/11/sigur-rs-in-concert.html
+
+« Un grand merci » 
+to Bjössi for the original recording 
+
+Please do not sell or encode to lossy format, except for personnal use.
+
+Share it with your friends and buy the official realeases.
+
+
+Bonne écoute, Rodion
+
+Enjoy !!
+
+2016-06-23

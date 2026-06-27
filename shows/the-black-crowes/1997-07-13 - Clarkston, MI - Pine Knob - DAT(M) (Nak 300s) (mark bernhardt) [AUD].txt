@@ -1,0 +1,28 @@
+The Black Crowes closing The Furthur Festival
+Pine Knob
+Clarkston, MI
+July 13, 1997
+
+Source: Unknown mics (Nak 300s? or PZMs?) > DAT (48k)
+
+Transfer: DAT/m in Tascam DA30-MKII > Sound Devices 722 (AES/EBU) > Spark XL (flip phase on right channel) > Audiogate (fades, tracking, re-sample to 44.1) > xACT (flac 8 w/ SBA & tags)
+
+Recorded by Mark Bernhardt, transferred by taperjoe.
+
+1. Cursed Diamond
+2. Hollow Day Jam >
+3. My Morning Song
+4. Black Moon Jam >
+5. Black Moon Creeping
+6. Jealous Again
+7. Torn And Frayed
+8. She Talks To Angels
+9. Nebakanezer
+10. crowd & tuning
+
+Finale jam:
+11. Got My Mojo Working
+12. Iko Iko
+13. Good Lovin'
+
+Thanks to Mark for taping & sending the DATs to transfer!

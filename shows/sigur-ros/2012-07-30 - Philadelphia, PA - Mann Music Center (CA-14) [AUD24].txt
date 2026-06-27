@@ -1,0 +1,36 @@
+SIGUR ROS
+2012/07/30 - Skyline Stage at Mann Center for the Performing Arts; Philadelphia PA, USA
+
+Source: CA-14's (Cards) > Church Audio ST-9100 > Edirol R09-HR @ 24/96
+Location: *STEALTH*
+Editing:  Tracking, fades, and normalization (each channel independently to -0.10dB) were done while the show was laid in Sony Soundforge 9.0a (Build 297) as a wav file.  Periodic loud points (ie: nearby clapping) were enveloped to allow for more headrooom in normalization.
+Conversion: Trader's Little Helper v.2.7.0 (Build 172)
+
+
+
+TRACKLIST:					TIME:
+
+01. Intro					01:05
+02. Ekki Múkk 					06:15
+03. Varúð 					05:50
+04. Ný Batterí					09:09
+05. Í Gær 					07:23
+06. Vaka					06:34
+07. Sæglópur 					07:44
+08. Gong					05:04
+09. Andvari					05:15
+10. Viðrar Vel Til Loftárása 			09:10
+11. Hoppípolla					04:12
+12. Með Blóðnasir				02:02
+13. Olsen Olsen					07:23
+14. Festival					07:33
+15. Hafsól					09:43
+16. Glósóli					06:07
+17. Popplagið					14:22
+
+				 GRAND TOTAL-  114:51
+
+
+
+MISC NOTES:
+I first taped Sigur Ros at two back to back shows in St Louis and Kansas City way back in February 2006.  Both of those tapes are pretty much disastrous and as a result I never processed or released them.  This show was my first chance for redemption and as soon as the show was announced I bought a pair of tickets for me and my girl.  They ended up adding a second concert at this same venue on the night prior (July 29th), but we had already made arrangements to attend just the oone day.  We headed up to Philly that morning (I'm from the DC area) and after snagging a delicious cheesesteak lunch at Jim's on South, we headed over to the Mann Center for the Performing Arts and jumped in line.  The show was AMAZING, and I'm really pretty darn happy with the tape.  Without going into too much detail, suffice it to say that my rig was portable, so whenever I found myself standing next to chatty or otherwise loud / obnoxious people (which wasn't too often, surprisingly), I would move away from them and head someplace quieter.  You can head some slight phasing at some places on the tape as a result, but I had decided that quiet neighbors was more important for future listening! Enjoy it, I certainly am!

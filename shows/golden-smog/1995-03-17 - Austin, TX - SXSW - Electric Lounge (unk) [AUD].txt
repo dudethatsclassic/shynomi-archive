@@ -1,0 +1,9 @@
+GOLDEN SMOG
+AUSTIN,TX:ELECTRIC LOUNGE
+SOUTH BY SOUTHWEST
+1995-03-17
+
+Unknown Mic -> D7
+DA20 -> CDRW700 -> EAC -> Soundforge -> FLAC
+
+(no setlist)

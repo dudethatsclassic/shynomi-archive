@@ -1,0 +1,65 @@
+Wilco
+October 14, 2002
+The 9:30 Club
+Washington, DC
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Original info file (additional notes below !): 
+
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA4022 > Sonosax SX-M2 > Audio Magic Excalibur II XLRs >
+		Apogee Mini-Me @ 16/44.1 > Digigram VXPocket V2 >
+		Screenblast Sound Forge Deluxe V1.0b > Sony Vaio PCG-SRX87
+Location:	40 ft. stage right stack, taper's section
+
+.wav > SHN:	.wav > CD-WAV/mkwACT > .shn
+
+Disc One:
+
+01:	Intro				-	03:37.000
+02:	Spiders		  		-	05:07.333
+03:	I Am Trying To Break Your Heart	-	06:17.666
+04:	Sunken Treasure	  		-	08:06.600
+05:	War on War			-	04:00.733
+06:	Kamera  			-	03:18.533
+07:	Shot in the Arm 		-	04:42.733
+08:	Ashes Of American Flags		-	06:41.600
+09:	Someone Else's Song 		-	03:41.133
+10:	Heavy Metal Drummer		-	03:54.533
+11:	Jesus, Etc. 			-	03:57.733
+12:	Man Who Loves You		-	04:17.400
+
+Total:					-	57:43.000
+
+Disc Two:
+
+01:	Red Eyed and Blue >		-	02:24.200
+02:	I Got You			-	04:40.800
+03:	I'm Always In Love		-	04:54.600
+04:	Misunderstood			-	10:46.400
+05:	Reservations			-	03:22.000
+06:	Not For the Seasons		-	10:35.333
+07:	Hesitating Beauty 		-	05:13.666
+08:	California Stars		-	09:02.200
+09:	Less Than You Think		-	03:07.800
+10:	Monday				-	04:04.000
+11:	Outtasite 			-	03:09.600
+12:	Casino Queen			-	04:05.400
+
+Total:					-	65:26.000
+
+compiled by George Wang on 10-16-2002
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+notes to the 01-2017 edition:
+
+CDs > EAC > Wav > Sound Forge Pro 10.0 > CD Wave 1.98 > TLH > FLAC
+
+I have ripped this show from CDs that I had burned from a download from the now defunct Bluegrass Box.
+Unfortunately, at that time I did not save the files but just burned them to CD.
+There was no need to do any fixing with this show so I left it exactly as it was originally seeded.
+This is another excellent Audience recording of a very fine show, including 54 "Nothing"s in Misunderstood !
+
+All due thanks to the taper. Support the artists, go to their shows. wilcoworld.net
+[2017-01-04] 

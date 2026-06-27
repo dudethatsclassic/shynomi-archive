@@ -1,0 +1,54 @@
+Wilco
+The Tabernacle Atlanta, GA
+Thursday February 11, 2016
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA 4023 > Lunatec V3 (Oade ACM mod) > Audio Magic Presto II > Sound
+		Devices 722 @ 24/96
+Location:	Section 303 Row A Seat 6
+
+WAV > FLAC:	.wav @ 24/96 > Audacity 2.1.2 (dither to 16/44.1)
+
+Disc One:
+
+01: Intro					-	01:07.55
+02: Intro (EKG)					-	01:13.20
+03: More...					-	02:44.35
+04: Random Name Generator			-	04:18.20
+05: The Joke Explained				-	02:37.00
+06: You Satellite				-	05:37.20
+07: Taste The Ceiling				-	03:33.55
+08: Pickled Ginger				-	02:36.55
+09: Where Do I Begin				-	03:37.70
+10: Cold Slope					-	03:00.45
+11: King Of You					-	02:39.00
+12: Magnetized					-	04:05.55
+13: Spiders (Kidsmoke)				-	09:42.00
+14: I Am Trying To Break Your Heart		-	06:12.30
+15: Art Of Almost				-	07:52.65
+16: Sunken Treasure				-	06:23.00
+17: Hummingbird					-	03:37.00
+18: Heavy Metal Drummer				-	03:07.55
+19: I’m The Man Who Loves You			-	04:53.65
+
+Total:						-	79:00.00
+
+Disc Two:
+
+01: Jesus, Etc.					-	04:21.35
+02: Born Alone					-	04:22.40
+03: Impossible Germany				-	08:32.00
+04: Red-Eyed And Blue				-	02:12.40
+05: I Got You (At The End Of The Century)	-	04:02.50
+06: Outtasite (Outta Mind)			-	05:40.25
+07: Misunderstood				-	04:08.40
+08: Hate It Here				-	05:04.00
+09: Casino Queen				-	02:59.35
+10: Passenger Side				-	03:37.60
+11: California Stars				-	04:37.15
+12: A Shot In The Arm				-	04:39.00
+13: Space Oddity				-	05:42.40
+
+Total:						-	60:00.00
+
+compiled by George Wang on 06-12-2016

@@ -1,0 +1,65 @@
+Wilco
+9-3-02
+Roseland Theater, Portland, OR.
+
+SBD>XLR's>+(FOB/DFC, 1st row balcony, x/y 90')MG200's>X-streams>
+Behringer MX-602A>SMB-1>D8 (90% SBD, 10% AUD, Matrix)
+
+Transfer- D8>coax>U2A>Cool Edit>CDWAV>MKW
+
+
+Disc 1 (71:07)
+
+1)Not for the Seasons>
+2)Sunken Treasure
+3)I am Trying to Break Your Heart
+4)War on War
+5)Kamera
+6)Radio Cure
+7)Someone Else's Song
+8)A Shot in the Arm (cut short)*
+9)A Shot in the Arm
+10)She's a Jar
+11)Bob Dylan's Beard
+12)Heavy Metal Drummer
+13)I'm the Man Who loves You
+14)Misunderstood>
+15)Far Far Away
+
+Disc 2/Encores (28:38)
+
+Encore 1-
+1)Jesus Ect
+2)Less then You Think
+3)California Stars
+
+Encore 2-
+4)I'm Always In Love
+5)Red Eyed & Blue
+6)I got You>
+7)I'm a Wheel
+
+
+*Scott from the opening band Minus 5 sneeks up to join in on
+a shot in the arm, distracting Jeff, causing the song to be cut short.
+
+Notes- During the Encores Minus 5 joins in.
+
+Recording notes- At the begining of the show I had recieved a loud
+pop in the right channel for a few seconds that came from the sbd.
+I cut it out and patched in the left channel of that section.
+I had originaly tracked this show making disc 1 11 tracks then realized
+I could fit the rest up to the encore on it. So there is a tiny fade
+at the end of d1t11 and begining d1t12, it's so minor and
+hardly noticable that I decided to just leave it there then
+go back and re-track the whole show. The space between the
+encores was long and had a loud poping sound from some onstage
+equipment problems so all encore crowd noise was deleted.
+
+Setlist and pictures provided by- www.wilcotimeline.gloriousnoise.com
+
+Recorded and transfered by- Ian Clark
+Questions, problems, or comments- mmphish@yahoo.com
+
+seek tables appended + sector boundaries fixed - wagner@bluegrassbox.com - 03/01/03
+

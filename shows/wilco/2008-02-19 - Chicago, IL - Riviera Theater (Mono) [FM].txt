@@ -1,0 +1,127 @@
+Wilco
+The Riviera
+Chicago, IL USA
+2008-0219
+
+
+Lineage: fm (Onkyo TX8511)>SoundBlaster (Live! 24 bit External)>wav(CD Wave Editor)>flac 
+
+Thanks to the people at Viachicago for the set list. Station IDs were left in the first set because they put them in over intros, deleted from the second set because they were over crowd noise.
+
+Setlist
+0. Intro 1:18
+1. Outta Mind (Outta Site) 3:22
+2. I Must Be High 3:33
+3. Impossible Germany 6:20
+4. Radio Cure 5:18
+5. Leave Me Like You Found Me (live debut) 4:17
+6. Company In My Back 4:19
+7. Handshake Drugs 6:54
+8. War On War 3:37
+9. Shake It Off 5:50
+10. Summerteeth 4:32
+11. In A Future Age 3:46
+12. ELT 3:28
+13. A Shot In The Arm 4:40
+14. Poor Places 5:22
+15. Reservations 3:27
+16. Spiders 10:59
+17. On And On And On 6:09
+
+--Break--
+
+18. Hotel Arizona 4:14
+19. Too Far Apart 5:18
+20. Was I In Your Dreams? (w/horns) 3:31 
+21. Misunderstood 6:15
+22. Someday Soon 2:45
+23. California Stars 4:33
+24. Hate It Here (w/horns) 5:26
+25. The Thanks I Get (w/horns) 5:03
+26. Walken (w/horns) 5:04
+27. I'm The Man Who Loves You (w/horns) 4:11
+28. I'm A Wheel (w/horns) 2:56
+29. Kingpin 6:42
+30. Outta Site (Outta Mind) 2:51
+
+--Encore--
+Inane DJ Chater/Crowd Noise 3:18
+31. The Late Greats 3:06
+
+Total Time: 152:37
+
+md5 fingerprints:
+a17cc3ab17bbbe1088d5783b08bc694a *wilco 2008-02-1902.flac
+794ae0f0a4550e52670e11603136c121 *wilco 2008-02-1903.flac
+f91f4d8df36cdd9325143ffa903a795f *wilco 2008-02-1904.flac
+8784b879d4c04dba2db9a2c3a906b610 *wilco 2008-02-1905.flac
+13155dffa2e0ceda1d4175fc583c738c *wilco 2008-02-1906.flac
+946ffd432cf476631538f5d967d98981 *wilco 2008-02-1907.flac
+e9e60a0f7214fc2ff548984d2b50773d *wilco 2008-02-1908.flac
+451263c13fef824341497cdd3fb4bebf *wilco 2008-02-1909.flac
+434a7bda639f7627cf6c3f34367ab1b0 *wilco 2008-02-1910.flac
+7fdab0fd1119fd52664673a1008cd4d5 *wilco 2008-02-1911.flac
+febcb3fcccb0a7dae2fc59e5b79cb4f5 *wilco 2008-02-1912.flac
+3cee6ff9027da8632f43b3c23a154f57 *wilco 2008-02-1913.flac
+4af5f361f77815d4378eb92958cdfe4e *wilco 2008-02-1914.flac
+80503a736f39c3703d7c7b7c54e8fb4e *wilco 2008-02-1915.flac
+2345a1ce45184c343a4365a40e6b90ee *wilco 2008-02-1916.flac
+fec4972b648026236507755bb56fb79d *wilco 2008-02-1917.flac
+d5f0e91039a3fcc5928345af3fb3bbcc *wilco 2008-02-1918.flac
+723f219fba916465dbada6943ceb120b *wilco 2008-02-1919.flac
+4164b5adffd51b39a62c2c0c61b666e8 *wilco 2008-02-1922.flac
+8d2639619e31e80a137cbb3607972ad2 *wilco 2008-02-1923.flac
+1eb2f3817fd02dfc9dc1a4a167ec855c *wilco 2008-02-1924.flac
+b02b9e52b80ba907ffb2fd623396b8ff *wilco 2008-02-1925.flac
+5418e0e771e8cdbe02a9f14b405d18ff *wilco 2008-02-1927.flac
+201fc99a4c08d1ab8285f133ef3d6c31 *wilco 2008-02-1928.flac
+8b016c07bcdd8ce35eb88cc7b3442fd4 *wilco 2008-02-1929.flac
+2325f1c69cb661ccef0ed218bfb6e4e1 *wilco 2008-02-1930.flac
+c0f8a021ae19e530f328ed0d236e3035 *wilco 2008-02-1931.flac
+5b51ec052dd1f25928a55b09d50cdca1 *wilco 2008-02-1933.flac
+2d1433cef2e0083fb18db4ab5b52e58c *wilco 2008-02-1934.flac
+3ba8da957d4d9fce46b3e4147925b869 *wilco 2008-02-1935.flac
+11224bea6776ed1ace8013ecc0517d7e *wilco 2008-02-1936.flac
+f3acdb39d26d790faba10fbfaf37f791 *wilco 2008-02-1937.flac
+edeb2b54ef533b04ddeb87d95c16e84a *wilco 2008-02-1938.flac
+
+No errors occured.
+
+ffp fingerprints:
+
+
+wilco 2008-02-1902.flac:18fa082cca4b8182154f34e88846aa03
+wilco 2008-02-1903.flac:5234a780c63ee0be994b2a5f17187976
+wilco 2008-02-1904.flac:8dbc41eae9fc62970db807e3b9dcc5bd
+wilco 2008-02-1905.flac:678a439017f262a8e81640c712feb6fb
+wilco 2008-02-1906.flac:5ac45fd1d3b3c8c60ffe39ecb016eceb
+wilco 2008-02-1907.flac:8db4e68da006a5bed4af8daf9bd11816
+wilco 2008-02-1908.flac:4a59f6eb930675f176ca7515cab22048
+wilco 2008-02-1909.flac:1db640d29730c2af9426bf97df134048
+wilco 2008-02-1910.flac:9998bb8ce31fc1f7d6f679647804c5e0
+wilco 2008-02-1911.flac:c44f9242967f3e2efcec834cc440dd8f
+wilco 2008-02-1912.flac:086d6bb9a910469db2b7582bb1b29ba4
+wilco 2008-02-1913.flac:67f3b85124a01d1838761f25546ea46c
+wilco 2008-02-1914.flac:9c68a86c6791df8be22bacb00594538c
+wilco 2008-02-1915.flac:eecee8407ce2d6fd7687db23c46a40c2
+wilco 2008-02-1916.flac:6bf46dbfdf0e51964290000b23430bb1
+wilco 2008-02-1917.flac:d9576db6e9aeac648e72f58c794affff
+wilco 2008-02-1918.flac:8c4cfb6f53a27dc92226afa0665219c8
+wilco 2008-02-1919.flac:de219467aaa94439e0827fe205cdbd9a
+wilco 2008-02-1922.flac:8ee53019f407cd04b3d6f8ec8eee0b4d
+wilco 2008-02-1923.flac:76250e5e4e1737b0fe4885cf92291da0
+wilco 2008-02-1924.flac:3684020228e1b7de934d9b0c1cf85099
+wilco 2008-02-1925.flac:84f4eccf9a2e0b9d4c97c1146e907e06
+wilco 2008-02-1927.flac:b395d9aa7820c4e384f26acdcaf9125a
+wilco 2008-02-1928.flac:9a75033ec231e84931cc2f42f61f9c5f
+wilco 2008-02-1929.flac:67ee8930bdc7b209ceb963615f477d26
+wilco 2008-02-1930.flac:4ebaaa949b3c2263dcedcb72babbcfba
+wilco 2008-02-1931.flac:e8ed2d97dfeb90a4e81382cdcd6899ed
+wilco 2008-02-1933.flac:90b88cbaf8d43b18525247b34b043ec2
+wilco 2008-02-1934.flac:b9b6cf24b007639aed35a2000b9addd5
+wilco 2008-02-1935.flac:2d94733669564a70ac47c69519c3c379
+wilco 2008-02-1936.flac:3cab1ce59254aad7d354856c96b26ed1
+wilco 2008-02-1937.flac:db9fe97631cc18b4277d22689c08f90c
+wilco 2008-02-1938.flac:169f5e330472fe3127302683b5285cde
+
+No errors occured.

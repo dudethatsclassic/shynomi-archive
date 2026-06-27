@@ -1,0 +1,41 @@
+Wilco
+2012-09-16
+Live On 9th Street
+Columbia, MO
+
+
+Source: Schoeps MK4 / CMR > Naiant Tinybox > Sony PCM-M10 @ 48 kHz / 24-bit
+Lineage: 48/24 WAV > Audacity 2.0.0 (split tracks, resample to 44.1 kHz, dither to 16-bit) > Traders Little Helper (convert to flac - level 8)
+
+Setlist:
+
+01 Misunderstood
+02 Art Of Almost
+03 I Might
+04 Bull Black Nova
+05 At Least That's What You Said
+06 Spiders (Kidsmoke)
+07 ~ chat ~
+08 Impossible Germany
+09 Born Alone
+10 Laminated Cat (aka Not For The Season)
+11 One Wing
+12 New Madrid (Uncle Tupelo)
+13 Handshake Drugs
+14 Hummingbird
+15 Whole Love
+16 Box Full Of Letters
+17 I'm Always In Love
+18 Heavy Metal Drummer ->
+19 I'm The Man Who Loves You
+20 Dawned On Me
+21 Shot In The Arm
+22 ~ encore break ~
+23 Via Chicago
+24 Passenger Side
+25 Christ For President
+26 Candy Floss
+27 Casino Queen
+28 Outtasite (Outta Mind)
+
+All thanks to Wilco for allowing recording and sharing of their shows.

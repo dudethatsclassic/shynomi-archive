@@ -1,0 +1,59 @@
+Wilco
+Mershon Auditorium
+Columbus, OH
+2009-10-12
+
+Jeff Tweedy
+John Stirrat
+Nels Cline
+Glenn Kotche
+Pat Sansone
+Mikael Jorgensen
+
+Source: AT853 (subcards) > CA ST9100 > Edirol R-09HR (24/48)
+Location: Balcony Section B1, Row 1 Seat 6 (approx. 40' from stage), mics DIN, clamped to balcony rail
+Transfer: SD > USB > Sound Forge 8 > CD Wave > FLAC (Level 8)
+Editing: Sound Forge: normalization to peak (-0.2db), fades, resample, dither CD Wave: tracking
+Format: 16 bit, 44.1 kHz
+Taped/Transferred By: 3-Fan (de3x8in2001@yahoo.com)
+
+**Please do not convert to a lossy format except for personal use**
+**Never For Sale**
+**Please support bands that allow taping by buying merch. and attending shows**
+
+01 intro - Price Is Right Theme Music 
+02 Wilco (The Song)
+03 I Am Trying To Break Your Heart >
+04 One Wing
+05 A Shot In The Arm
+06 Bull Black Nova
+07 You Are My Face
+08 One By One
+09 I'll Fight
+10 At Least That's What You Said 
+11 Deeper Down
+12 Impossible Germany
+13 Country Disappeared
+14 Handshake Drugs
+15 Wishful Thinking
+16 banter and band introductions from Glenn's drum pads
+17 You Never Know *
+18 I'm Always in Love
+19 Jesus, Etc.
+20 Theologians
+21 I'm The Man Who Loves You
+22 encore applause
+23 Misunderstood
+24 The Late Greats
+25 California Stars $
+26 Heavy Metal Drummer
+27 Hate It Here
+28 Walken >
+29 Monday
+30 Hoodoo Voodoo *
+31 I'm A Wheel
+
+Notes:
+* with Liam Finn
+$ with Liam Finn and Jane Barnes
+a 24 bit version is available.

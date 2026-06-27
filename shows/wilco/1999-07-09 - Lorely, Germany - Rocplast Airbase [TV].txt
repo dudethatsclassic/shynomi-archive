@@ -1,0 +1,158 @@
+EAC extraction logfile for CD
+Unknown Artist / Unknown Title
+
+
+Track  1
+   Filename C:\Ivan\EAC\Track01.wav
+
+Unknown Artist / Unknown Title 0:00:02.00
+
+   Peak level 63.0 %
+   Track quality 100.0 %
+   Copy CRC FE13A8D0
+   Copy OK
+
+Track  2
+   Filename C:\Ivan\EAC\Track02.wav
+
+   Copy CRC FE13A8D0 0:05:08.13
+
+   Peak level 61.0 %
+   Track quality 100.0 %
+   Copy CRC 7FDAF8EF
+   Copy OK
+
+Track  3
+   Filename C:\Ivan\EAC\Track03.wav
+
+   Copy CRC 7FDAF8EF 0:09:10.88
+
+   Peak level 62.8 %
+   Track quality 100.0 %
+   Copy CRC 34FF2530
+   Copy OK
+
+Track  4
+   Filename C:\Ivan\EAC\Track04.wav
+
+   Copy CRC 34FF2530 0:12:10.72
+
+   Peak level 62.7 %
+   Track quality 100.0 %
+   Copy CRC A167EB18
+   Copy OK
+
+Track  5
+   Filename C:\Ivan\EAC\Track05.wav
+
+   Copy CRC A167EB18 0:16:36.50
+
+   Peak level 65.3 %
+   Track quality 100.0 %
+   Copy CRC FEAA3209
+   Copy OK
+
+Track  6
+   Filename C:\Ivan\EAC\Track06.wav
+
+   Copy CRC FEAA3209 0:19:51.01
+
+   Peak level 59.7 %
+   Track quality 100.0 %
+   Copy CRC 7D950E72
+   Copy OK
+
+Track  7
+   Filename C:\Ivan\EAC\Track07.wav
+
+   Copy CRC 7D950E72 0:22:25.40
+
+   Peak level 91.4 %
+   Track quality 100.0 %
+   Copy CRC BCC14803
+   Copy OK
+
+Track  8
+   Filename C:\Ivan\EAC\Track08.wav
+
+   Copy CRC BCC14803 0:26:15.73
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 24DCFADE
+   Copy OK
+
+Track  9
+   Filename C:\Ivan\EAC\Track09.wav
+
+   Copy CRC 24DCFADE 0:31:06.45
+
+   Peak level 59.4 %
+   Track quality 100.0 %
+   Copy CRC C02BC6B9
+   Copy OK
+
+Track 10
+   Filename C:\Ivan\EAC\Track10.wav
+
+   Copy CRC C02BC6B9 0:35:36.60
+
+   Peak level 61.2 %
+   Track quality 100.0 %
+   Copy CRC 4FF8604F
+   Copy OK
+
+Track 11
+   Filename C:\Ivan\EAC\Track11.wav
+
+   Copy CRC 4FF8604F 0:38:48.50
+
+   Peak level 62.9 %
+   Track quality 100.0 %
+   Copy CRC F57AD341
+   Copy OK
+
+Track 12
+   Filename C:\Ivan\EAC\Track12.wav
+
+   Copy CRC F57AD341 0:45:40.10
+
+   Peak level 58.5 %
+   Track quality 100.0 %
+   Copy CRC 216F3174
+   Copy OK
+
+Track 13
+   Filename C:\Ivan\EAC\Track13.wav
+
+   Copy CRC 216F3174 0:49:11.93
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC C24D99DD
+   Copy OK
+
+Track 14
+   Filename C:\Ivan\EAC\Track14.wav
+
+   Copy CRC C24D99DD 0:53:35.38
+
+   Peak level 64.5 %
+   Track quality 99.9 %
+   Copy CRC 089444FA
+   Copy OK
+
+Track 15
+   Filename C:\Ivan\EAC\Track15.wav
+
+   Copy CRC 089444FA 0:58:03.44
+
+   Peak level 58.9 %
+   Track quality 100.0 %
+   Copy CRC D0A0978D
+   Copy OK
+
+No errors occured
+
+
+End of status report

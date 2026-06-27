@@ -1,0 +1,69 @@
+Wilco
+The Palladium Ballroom
+Dallas, TX
+September 14, 2007
+
+Source: Milab VM44 Link -> Lunatec V2 -> Korg MR-1000 (1bit/5.6MHz DSD)
+
+Location: front of soundboard rail, 8’ right of center, 10’ stand
+
+Transfer: Korg MR-1000 -> AudioGate (16/44) -> CD Wave -> FLAC
+
+Disc 1
+1. Shake It Off
+2. A Shot In The Arm
+3. Side With The Seeds
+4. You Are My Face
+5. I Am Trying To Break Your Heart
+6. Pot Kettle Black
+7. Handshake Drugs
+8. Impossible Germany
+9. It’s Just that Simple
+10. Misunderstood
+11. Jesus, Etc.
+12. Too Far Apart
+
+Disc 2
+1. Walken
+2. I’m The Man Who Loves You
+3. Poor Places
+4. Spiders (Kidsmoke)
+encore 1:
+5. Red-Eyed And Blue
+6. I Got You (At The End Of The Century)
+7. Hesitating Beauty
+8. Hate It Here
+9. I’m Always In Love
+10. Outtasite (Outta Mind)
+encore 2:
+11. Heavy Metal Drummer
+12. Hummingbird
+13. On And On And On
+
+
+
+wilco2007-09-14d1t01.flac:f70e373c38d01d95d2c402eb7512e36b
+wilco2007-09-14d1t02.flac:74740c20bec4f9731bb51ad6e7a672df
+wilco2007-09-14d1t03.flac:9c087ca27cd457a266b6e9250da9b18f
+wilco2007-09-14d1t04.flac:6636abf6927bbee4d580a0d65f1c12fa
+wilco2007-09-14d1t05.flac:891317aae4ea35f5e86610dd4730e643
+wilco2007-09-14d1t06.flac:aa1db94f45213f91b967ef3c38c90f11
+wilco2007-09-14d1t07.flac:c137fe375dfd6c0ea84045e598d835e4
+wilco2007-09-14d1t08.flac:16eae95f709e709642dd33018c863ef3
+wilco2007-09-14d1t09.flac:d54a46fc8d6a281875b80b82f5907f81
+wilco2007-09-14d1t10.flac:2397096d9a8e8e67fbcb3b0e6bf1525e
+wilco2007-09-14d1t11.flac:b7f7c881223deca602f4acfce84819b4
+wilco2007-09-14d1t12.flac:c06aad8c403fbbc15893b65da5b70e28
+wilco2007-09-14d2t01.flac:47449425125363871ea42fbbdb440fdd
+wilco2007-09-14d2t02.flac:e68780841577b428fc2f4c8745e9ecd3
+wilco2007-09-14d2t03.flac:ade83d9587f55df1a3457fb1379f6dfb
+wilco2007-09-14d2t04.flac:8c29a89b481f3be4419c9ac6c90005d9
+wilco2007-09-14d2t05.flac:63eb086d283a5a2c8270688dca052844
+wilco2007-09-14d2t06.flac:882592ca263f4d10a248447e29db8a91
+wilco2007-09-14d2t07.flac:c90a898ab776f7a10e93d907991cdc55
+wilco2007-09-14d2t08.flac:aa0d868b5217ada7cabcd377b6d38669
+wilco2007-09-14d2t09.flac:161837255c4fa85d950cda166fc5f811
+wilco2007-09-14d2t10.flac:514a607dd1a7003135fd6e3116b01ee3
+wilco2007-09-14d2t11.flac:0ccbecd8e0ab629250a3cba2ad89c9ba
+wilco2007-09-14d2t12.flac:dc69e4d8d4d151be14f18bf7187e41e4
+wilco2007-09-14d2t13.flac:de1f1ce2c9e12dc07dddd6a271fc22f9

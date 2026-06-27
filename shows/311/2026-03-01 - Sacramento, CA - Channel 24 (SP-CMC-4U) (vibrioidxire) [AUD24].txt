@@ -1,0 +1,79 @@
+311
+March 1, 2026
+Channel 24
+Sacramento, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter -> introductory sequence [P.A. tape]
+01. Beautiful Disaster
+02. Freeze Time
+03. Large in the Margin
+04. All Mixed Up
+05. Hive
+06. Sick Tight
+07. Lovesong [The Cure cover]
+08. You're Gonna Get It
+09. bass solo [P-Nut]
+10. Come Original
+11. Eons
+12. Don't Stay Home
+13. Champagne
+14. Applied Science
+15. Use of Time
+16. Freak Out
+17. One and the Same
+18. Amber
+19. Creatures (for a While)
+20. Omaha Stylee
+21. Down
+
+
+SOURCE:
+-------------------
+AUDIENCE AUDIO - Quality: 9.5
+Sound Professionals SP-CMC-4U > TASCAM DR-2d
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (Audio Technica AT-U853's, with UE-H hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > TASCAM DR-2d Portable Solid State Recorder > SanDisk 32GB Extreme UHS-I SDHC Memory Card > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 25.3 [post-production/mastering] > xACT 2.57
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- During "Applied Science", the song transitioned from a drum solo to three drumsets being used by the entire band, then segueing back to the song.
+
+
+FLAC FINGERPRINTS:
+-------------------
+311_2026-03-01_AUD_t00.flac:fc5e362dbe875e2ef265bc9faa3a02a7
+311_2026-03-01_AUD_t01.flac:25529ffbb373f3b76e0450c801144b14
+311_2026-03-01_AUD_t02.flac:089c0d3de53911927c2866da93070348
+311_2026-03-01_AUD_t03.flac:2b99c01dd8c04674f9c1087b68741d5e
+311_2026-03-01_AUD_t04.flac:fc0a821bd93ce9b21c4ce7dd03bca450
+311_2026-03-01_AUD_t05.flac:19322f46c1a58e613191d02bd17b3815
+311_2026-03-01_AUD_t06.flac:948bf56b5102f6fa87ee415f38e3f9f7
+311_2026-03-01_AUD_t07.flac:d09077caa75ffe6242338b81cf2c94a5
+311_2026-03-01_AUD_t08.flac:daf898cef1664651373c39361a5b79d2
+311_2026-03-01_AUD_t09.flac:1b87dd5d95ed1d5ac435c8bc360c53a2
+311_2026-03-01_AUD_t10.flac:299b209aa8c4ff4ea78439589308401e
+311_2026-03-01_AUD_t11.flac:64b8990933e32befd0a42aca7986fe0d
+311_2026-03-01_AUD_t12.flac:a1ade5f571f848f9ae0cdfac1ed17020
+311_2026-03-01_AUD_t13.flac:dde2d371ca04821ea1103e3f8c408e7d
+311_2026-03-01_AUD_t14.flac:6927c9e303d627b2e1597f3a8ed99462
+311_2026-03-01_AUD_t15.flac:9709310ea661af7b5e0a76fba862018c
+311_2026-03-01_AUD_t16.flac:703f53f3c9a66a97f35fe4cfceb7a628
+311_2026-03-01_AUD_t17.flac:e8b26348203ece69b8d3f1b2094661da
+311_2026-03-01_AUD_t18.flac:38b5776833fb611a18cf6b099601685b
+311_2026-03-01_AUD_t19.flac:621438cd4640204314ed511d10344466
+311_2026-03-01_AUD_t20.flac:3e7952e3e31004b4ea3e2fe0fc8e0901
+311_2026-03-01_AUD_t21.flac:fc032adf5b4fd3d318c740500d21ec4e
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

@@ -1,0 +1,35 @@
+SIGUR ROS
+2013/03/24 - Patriot Center (George Mason University); Fairfax VA, USA
+
+Source: CA-14's (Cards) > Church Audio ST-9100 > Edirol R09-HR @ 24/96
+Location: *STEALTH*
+Editing:  Tracking and fades and EQ were done while the show was laid in Sony Soundforge 9.0a (Build 297) as a wav file.  Audience applause between songs was mitigated using Soundforge's "Click and Crackle Removal" tool and remaining periodic loud points (ie: nearby claps) were enveloped to allow for more headroom in Normalization (each channel independently to -0.10dB).
+Conversion: 24/96 source wav files were resampled / redithered using r8brain 1.9 at "Very High" quality setting.  16/44.1 wav's encoded to wav using Trader's Little Helper v.2.7.0 (Build 172)
+
+
+
+TRACKLIST:					TIME:
+
+01. Intro					00:54
+02. Yfirborð					04:15
+03. Ný Batterí 					09:21
+04. Vaka					06:44
+05. Hrafntinna					06:40
+06. Sæglópur					07:32
+07. Fljótavík					04:12
+08. E-bow					08:50
+09. Varúð					06:38
+10. Hoppípolla					04:04
+11. Með Blóðnasir				02:13
+12. Olsen Olsen 				08:44
+13. Brennisteinn				10:20
+14. Popplagið					15:40
+
+				 GRAND  TOTAL-  96:06
+
+
+
+MISC NOTES:
+This was not my first time seeing Sigur Ros at all, so luckily I knew what to expect with respect to levels and volume.  I am pretty happy with this tape, though there are some artifacts that I might explain.  Firstly, in the song, "Vaka," at about 3:03, you will hear the ever-so lovely sound of a guy to my left dropping a plastic cup full of beer.  Then in the applause at the end of that song (about 6:32), you will here a different guy to my left ask me to "slide over," because I was "slowly creeping in on [him]."  At least he was kind enough to wait until the song was over to ask, so I played nice and stayed out of his view for the rest of the night.  The third artifact I will mention is that Jonsi was experiencing some rather significant issues with what appeared to be his in-ear monitor.  The problem cast a bit of a damper over the performance and I suspect that its persistence was the catalyst behind the band's decision not to play the song "Glósóli" in the encore, as was the plan according to the setlist.  His performance looked rather strained, as her frequently turned towards the monitor desk off stage left and gestured towards his ear, pointed up, and indicated different band members whom he could not hear.  The issue was plainly visible to all of us in the crowd, but the show went on very well in spite of it, with one member of the audience yelling out "Sounded great to us!" after the song, "Olsen Olsen" (at about 8:20), and eliciting an applause of concurrence when that same audience member a few seconds later yells: "Sounds GREAT!"
+
+I hope you agree with us who were there, I certainly enjoyed the show and the production that went into it.  I hope you enjoy the tape!

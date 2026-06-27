@@ -1,0 +1,39 @@
+Wilco
+2012-05-10
+Arkansas Music Pavillion
+Fayetteville, AR
+
+Source: Schoeps MK4 / CMR > Naiant Tinybox > Olympus LS-10 @ 48 kHz / 24-bit
+Lineage: 48/24 WAV > Audacity 2.0.0 (split tracks, resample to 44.1 kHz, dither to 16-bit) > Traders Little Helper (convert to flac - level 7)
+
+
+Setlist:
+
+01 Misunderstood
+02 The Art Of Almost
+03 I Might
+04 Company In My Back
+05 War On War
+06 Via Chicago
+07 One Wing
+08 Handshake Drugs
+09 Black Moon
+10 Spiders (Kidsmoke)
+11 Impossible Germany
+12 Born Alone
+13 Laminated Cat (aka Not For The Season)
+14 Jesus, Etc.
+15 Hate It Here
+16 Box Full Of Letters
+17 Dawned On Me
+18 Shot In The Arm
+19 ~ encore break ~
+20 Whole Love
+21 Candy Floss
+22 Heavy Metal Drummer
+23 Walken
+24 I'm The Man Who Loves You
+25 ~ encore break ~
+26 Red Eyed And Blue ->
+27 I Got You (At The End Of The Century) ->
+28 Outtasite (Outta Mind)

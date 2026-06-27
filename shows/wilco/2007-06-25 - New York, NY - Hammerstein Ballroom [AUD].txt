@@ -1,0 +1,83 @@
+wilco
+6-25-07
+hammerstein ballroom
+nyc
+
+source: schoeps mk4 (ortf, 20' from stage, dfc, @ 6.5') > kc5 > cmc6 > sd744 (24/96) > audacity (fades) > cdwav (tracks) > audacity (downsample/dither to 16/44) > flacfrontend. md5 via mkw.
+
+recorded/transferred: david barfield
+
+disc 1
+1 - you are my face
+2 - side with the seeds
+3 - shot in the arm
+4 - i am trying to break your heart
+5 - kamera
+6 - handshake drugs
+7 - shake it off
+8 - hummingbird
+9 - via chicago
+10- jesus, etc.
+11- hate it here
+12- walken
+
+disc 2 
+1 - i'm the man who loves you
+2 - poor places
+3 - spiders (kidsmoke)
+encores:
+4 - impossible germany
+5 - sky blue sky
+6 - california stars
+7 - war on war
+8 - heavy metal drummer
+9 - i'm always in love
+10- i'm a wheel
+
+ffp:
+wilco2007-6-25d1t01.flac:ffe4ba95845d753a09d3d1dabf9615fd
+wilco2007-6-25d1t02.flac:81e23b7863530381a4a6722c1a1a3f5f
+wilco2007-6-25d1t03.flac:5b89a39b0233b39bd064122d25cf5eec
+wilco2007-6-25d1t04.flac:d1c88ff543d6aba9a738d1c1736fd378
+wilco2007-6-25d1t05.flac:f1ff79e110e33e227716dbefe943473b
+wilco2007-6-25d1t06.flac:ebec950c12e1a88ca2c306a5f087d657
+wilco2007-6-25d1t07.flac:82b54ed5f0b9b72533ac50af95329b26
+wilco2007-6-25d1t08.flac:630c1032c8f22c6bd2b36e2363181d11
+wilco2007-6-25d1t09.flac:124b17b6a5829e78d307d34a108dcdbc
+wilco2007-6-25d1t10.flac:31394a6a493fb099cf023da8d10bff33
+wilco2007-6-25d1t11.flac:9aebc3d032dae195e8477fe19ca0a82d
+wilco2007-6-25d1t12.flac:1db77219cda37263a0e4d0ae299be7e0
+wilco2007-6-25d2t01.flac:89c1ef1ddb1cfe4510462180b4a0891b
+wilco2007-6-25d2t02.flac:72099c577442cd144a6982ffba25cce3
+wilco2007-6-25d2t03.flac:ef792fc72fadc4c0b2f98d25c02ea7a4
+wilco2007-6-25d2t04.flac:851f4fa23fa5b655c4fede1f4be7f974
+wilco2007-6-25d2t05.flac:1c7ee5f0e61febb9a151150528181118
+wilco2007-6-25d2t06.flac:bd4cdce3eb203626f12b7510a097445d
+wilco2007-6-25d2t07.flac:abcd1b87301a5c15ef50aafb9957be82
+wilco2007-6-25d2t08.flac:e26cc5f7c52cfa70256c16639e611a98
+wilco2007-6-25d2t09.flac:00f8ac7179dbcc407cc90fbba3a69883
+wilco2007-6-25d2t10.flac:be77728c2661faacf76f8d541301745a
+
+md5:
+b9d5e5c3683952cedeae9083cf88ec9e *wilco2007-6-25d1t01.flac
+59b9728fd91efceefe10e34a4c384894 *wilco2007-6-25d1t02.flac
+a3961df11ba87f87126e3a4ceac4e026 *wilco2007-6-25d1t03.flac
+bde048c5cd21cdf7c94ef3f0c7ff6c08 *wilco2007-6-25d1t04.flac
+ca01c8877335ceb65f097d560b84adee *wilco2007-6-25d1t05.flac
+1ce14209a82bc9a23c5e6b43aa22819d *wilco2007-6-25d1t06.flac
+75e19a136d96816bf350044556a7fcaa *wilco2007-6-25d1t07.flac
+5851edd360d74a780fabf266ffebc24e *wilco2007-6-25d1t08.flac
+db41d44be59a404948ee08c6928d475d *wilco2007-6-25d1t09.flac
+d9f7e14308f2bebd786f85b19df7ec7a *wilco2007-6-25d1t10.flac
+f728d1e9af097689027883d953e133a9 *wilco2007-6-25d1t11.flac
+d4ce57c9cbc72e55b7dfca2a4206e800 *wilco2007-6-25d1t12.flac
+abe5d43c0daf014c10d7077f7706afb8 *wilco2007-6-25d2t01.flac
+866cf47700a191d404598e2f461cb784 *wilco2007-6-25d2t02.flac
+2d764fcb37c61bda98940fcf61797591 *wilco2007-6-25d2t03.flac
+1835d6fdecaea470dfc8d75bb42cc73c *wilco2007-6-25d2t04.flac
+016983708f4504e94b9b716065c092ca *wilco2007-6-25d2t05.flac
+686348ef88746caf1c61152380c8f7bb *wilco2007-6-25d2t06.flac
+f52a619aa77513552734251f46301bba *wilco2007-6-25d2t07.flac
+c87f2dae3c3ff6d62a9d14913a520c7f *wilco2007-6-25d2t08.flac
+95f5dda30ac4b2b2121360c0305cda56 *wilco2007-6-25d2t09.flac
+a72f3a51a9b83bf631ab9f56a01512b7 *wilco2007-6-25d2t10.flac

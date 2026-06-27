@@ -1,0 +1,33 @@
+Garbage
+
+2023-06-03
+RV Inn Style Resorts Amphitheater
+Ridgefield, WA
+
+SP-CMC-9 Cardioids -> SP-SPSB-1 Battery Box -> Tascam DR-05 (16/44.1) -> iZotope RX10 declick and spectral repair -> UVR5 remove chat -> WavePad slight compression, normalize, and split tracks -> TLH convert to FLAC
+
+
+01 intro
+02 Supervixen
+03 #1 Crush
+04 The Men Who Rule The World
+05 Run Baby Run
+06 chat
+07 Special
+08 Wolves
+09 Beloved Freak
+10 chat
+11 Bleed Like Me
+12 Cities In Dust (Siouxsie and the Banshees)
+13 I Think I'm Paranoid
+14 Stupid Girl
+15 Push It
+16 chat
+17 No Gods No Masters
+18 Only Happy When It Rains
+19 Vow
+20 encore
+21 When I Grow Up
+
+
+set time 1:14:07

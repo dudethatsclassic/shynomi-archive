@@ -1,0 +1,41 @@
+John Mayer
+First Midwest Bank Amphitheatre
+Tinley Park, IL
+July 18, 2008
+
+
+Taper: Crumbo
+Location:  Section 104, Row F, Seats 5 & 6
+Source: Sennheiser MKH 8040 (A-B, ~16') > SD 722 (24/48)
+Conversion: SD 722 > Wavelab 5.01b > CDWav 1.97 > xACT 0.5.9 > foobar2000
+
+
+***DO NOT DISTRIBUTE IN LOSSY FORMATS***
+***16/44.1 Version exists in flac format***
+
+
+01 Intro                                                    00:50.480
+02 Bigger Than My Body                                     06:38.387
+03 Belief                                                  05:53.493
+04 No Such Thing >                                         02:43.920
+05 Why Georgia                                             06:48.080
+06 I Don't Trust Myself (With Loving You)                  11:06.213
+07 Crossroads                                              06:46.213
+08 Wheel                                                   12:11.053
+09 3x5                                                     06:10.720
+10 Free Falling                                            05:31.867
+11 Intro to... >                                           00:40.027
+12 Waiting On The World To Change.                         04:10.640
+13 Good Love Is On the Way                                 05:28.053
+14 Mercy                                                   10:56.187
+15 Vultures                                                06:38.600
+16 Encore Break                                            02:33.320
+17 Panama                                                  04:32.760
+18 Gravity                                                 08:03.808
+19 Say                                                     05:22.093
+
+Total: 113:05.915
+
+
+
+Compiled by Crumbo 7-19-2008.

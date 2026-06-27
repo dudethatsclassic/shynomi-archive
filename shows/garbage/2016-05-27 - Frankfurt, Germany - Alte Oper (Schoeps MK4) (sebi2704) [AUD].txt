@@ -1,0 +1,47 @@
+GARBAGE
+2016-05-27
+Alte Oper
+Frankfurt am Main, Germany
+"Women of the World Festival"
+
+Source:     Schoeps MK4 > NBob actives > Naiant tinybox > Sony PCM-M10
+Mic Config: A-B
+Location:   ~20m from the stage, center
+Transfer:   Master WAVs > dEdit > FLAC V1.3.1
+Editing:    Digital editing in Apple Logic Pro X V10.2.1
+            EQ, compression and volume boost using iZotope Ozone7 V7.0.1299
+            Fades in Audiofile Engineering Wave Editor V1.5.7
+Dithering:  MBIT+
+Format:     16 bit / 44.1 kHz
+
+Disc 1:
+01 (Intro)
+02 Sometimes
+03 Empty
+04 Stupid Girl
+05 Special
+06 Blood for Poppies
+07 Bleed Like Me
+08 My Lover's Box
+09 Sex Is Not the Enemy
+10 A Stroke of Luck
+11 Control
+12 #1 Crush
+13 I Think I'm Paranoid
+14 Battle in Me
+
+Disc 2:
+01 The Trick Is to Keep Breathing
+02 Why Do You Love Me
+03 Blackout
+04 Push It
+05 Vow
+06 Only Happy When It Rains
+07 (Encore Break)
+08 (Banter)
+09 Automatic Systematic Habit
+10 Even Though Our Love Is Doomed
+11 Cherry Lips (Go Baby Go!)
+
+Notes:
+Matt Walker on drums.

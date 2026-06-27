@@ -1,0 +1,53 @@
+FEEDER - 2001-03-05 - London Maida Vale BBC Studios [FM Master]
+
+Feeder
+BBC Maida Vale Studios,
+Maida Vale, 
+London,
+England, U.K.
+5th March 2001
+BBC Radio 1 FM broadcast (tracks 01 -11)
+
+Included is a bit of extra material that was at the end of original archived CD-R :-
+
+Bonus tracks (tracks 12 - 14) :-
+
+Feeder
+"One Big Sunday" (BBC Radio 1),
+Irving,
+North Ayrshire,
+Scotland, U.K.
+15th July 2001
+BBC Radio 1 FM broadcast
+
+
+Lineage (master FM captures) :- 
+
+BBC Radio 1 FM -> roof aerial -> Marantz ST151L FM tuner -> Creative SB Extigy soundcard -> CoolEdit pro 2.1 -> WAV -> CD-R 
+
+Conversion to FLAC :-
+
+Archived CD-R -> EAC -> WAV -> TLH -> FLAC 8 & .ffp 
+
+
+Tracklist :-
+
+01 - Insomnia
+02 - We Can't Rewind
+03 - Buck Rogers
+04 - Seven Days In The Sun
+05 - Turn
+06 - Standing On The Edge
+07 - Sweet 16
+08 - Cement
+09 - Can't Dance To Disco
+10 - High
+11 - Shade
+-------------------------------
+12 - Buck Rogers
+13 - Turn
+14 - Seven Days In The Sun
+
+Total length = 58 mins 45 secs approx.
+( Maida Vale part = 46 mins approx. )
+

@@ -1,0 +1,67 @@
+Wilco
+Riverside Theater
+Milwaukee, WI
+June 18, 2017
+
+Taper:  bersey (kjb530@gmail.com)
+Location:  Clamped to balcony railing, dead center
+Source:  CA-11 cardioids > CA-9100 > Sony PCM-M10 @ 24 bit/48kHz
+Conversion:  Sony PCM-M10 > PC > Sony Sound Forge Audio Studio 9.0 (fades, normalize,  
+             resample to 44.1 kHz, dither to 16 bit) > CD Wave Editor (tracking) > 
+             Trader's Little Helper (encode to flac,level 6) > foobar 2000 (tagging)
+
+********************************************************************************************
+*************************DO NOT DISTRIBUTE IN LOSSY FORMATS LIKE MP3************************
+***********************RECORDING IS NOT FOR SALE OR ANY COMMERCIAL USE**********************
+********************************************************************************************
+
+01. Via Chicago                        05:54.00
+02. Normal American Kids               03:07.00  
+03. If I Ever Was a Child              03:16.00
+04. Cry All Day                        05:02.00 
+05. Muzzle of Bees                     05:00.00
+06. I Am Trying to Break Your Heart    05:17.00
+07. Art of Almost                      07:20.00
+08. Pickled Ginger                     03:59.00
+09. Misunderstood                      04:20.00
+10. Someone to Lose                    03:33.00
+11. Poor Places                        04:46.00
+12. Reservations                       03:59.00
+13. Impossible Germany                 09:21.00
+14. How to Fight Loneliness            05:29.00
+15. Forget the Flowers                 03:24.00
+16. Box Full of Letters                04:06.00
+17. Heavy Metal Drummer                03:07.00
+18. I'm the Man Who Loves You          04:27.00
+19. Hummingbird                        04:13.00
+20. The Late Greats                    02:50.00
+21. Encore Break                       02:10.00 
+22. California Stars *                 05:59.00
+23. Locator                            03:36.00
+24. Random Name Generator              04:01.00
+25. Spiders (Kidsmoke)                 11:17.00
+26. I'm a Wheel                        02:37.00 
+27. Encore Break                       01:29.00
+28. Monday                             04:09.00
+29. Outtasite (Outta Mind)             03:32.00 
+    
+Total:                               2:11:20.00
+
+
+Notes:
+Opening act - Kacy & Clayton
+* with Kacy & Clayton
+
+
+Wilco:
+Jeff Tweedy - acoustic guitar, electric guitar, vocals
+John Stirratt - bass, acoustic guitar, backing vocals
+Nels Cline - electric guitar, slide guitar
+Pat Sansone - keys, electric guitar, acoustic guitar, banjo, percussion, backing vocals
+Mikael Jorgensen - keys
+Glenn Kotche - drums, percussion
+
+
+Thanks to Wilco and the Riverside Theater for letting me tape the show!
+
+Compiled by Kurt Berwanger on June 25, 2017

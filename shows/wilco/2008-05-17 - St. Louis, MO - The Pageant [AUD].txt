@@ -1,0 +1,100 @@
+Wilco
+The Pageant
+St. Louis, MO
+May 17, 2008
+
+---16 bit source---
+
+SOURCE: B&K 4021s (17cm aimed at outside of stacks 12' tall) > EAA-PSP2 > 722 @ 24/96 DFC FOB At first drink rail. 
+
+LINEAGE: 722 > Wavelab (resample & dither to 16/44.1, fades, normalize)  > CD Wave > Flac level 6. 
+
+TAPED BY: Steve Brothers
+
+TRANSFERRED BY: Steve Brothers
+
+FILE SIZE: 807 MB
+
+SETLIST: 
+
+Disk 1 (part 1) (75:01  - requires 80 minute disk)
+01: Misunderstood  
+02: Blood Of The Lamb  
+03: You Are My Face  
+04: Hummingbird  
+05: A Shot In The Arm  
+06: ELT  
+07: Pot Kettle Black  
+08: Handshake Drugs  
+09: Side With The Seeds  
+10: She's A Jar  
+11: Box Full Of Letters  
+12: Airline To Heaven  
+13: Jesus, Etc.  
+14: Impossible Germany  
+15: Pick Up The Change   
+
+Disk 2 (part 2) (78:04 - requires 80 minute disk)
+01: Too Far Apart  
+02: Theologians  
+03: I'm The Man Who Loves You  
+
+Encore 1: 
+04: Hate It Here  
+05: Walken  
+06: Monday  
+07: Kingpin  
+
+Encore 2: 
+08: Bob Dylan's 49th Beard  
+09: Heavy Metal Drummer  
+10: Just A Kid  
+11: Red-Eyed And Blue  
+12: I Got You (At The End Of The Century)  
+13: Casino Queen  
+14: Hoodoo Voodoo  
+15: Outtasite (Outta Mind)  
+
+Encore 3: 
+16: I'm A Wheel 
+
+
+---For trade only - not for sale---
+
+---Thanks to Wilco for allowing taping and trading---
+
+---Thanks to Brian Sax for use of the 722---
+
+FFP CHECKSUM:
+
+Wilco2008-05-17d2t16.flac:7e16bf2ead64e8cd60a86eac827ac14f
+Wilco2008-05-17d1t01.flac:64d104b76fc7b587bf3233b62128cf55
+Wilco2008-05-17d1t02.flac:95c1eadecaedb870e29ecb94f21ec0eb
+Wilco2008-05-17d1t03.flac:2e4be05dc117ea404d1cc64d20709560
+Wilco2008-05-17d1t04.flac:046545627af67cb7d392a0442928f0a5
+Wilco2008-05-17d1t05.flac:27c2567b027d8429fe6d92c73861b43a
+Wilco2008-05-17d1t06.flac:e77d092f5f407cbc9f2a8e7b0ad55c9a
+Wilco2008-05-17d1t07.flac:e78d31b32099d5169a96cbe014ef3e1f
+Wilco2008-05-17d1t08.flac:94f675e74123aa4b8feb589958b2ebd9
+Wilco2008-05-17d1t09.flac:777329ff18d5abc1a4462222273f418d
+Wilco2008-05-17d1t10.flac:700cef3cab03161679c68049975476d9
+Wilco2008-05-17d1t11.flac:3938e3d772956c04fb6050ac5f2cebda
+Wilco2008-05-17d1t12.flac:a06930fa2cc626613d425eb6eaccc92d
+Wilco2008-05-17d1t13.flac:b6b69e2ab1a55f4a38f2e8927b19d2d8
+Wilco2008-05-17d1t14.flac:6e7a50f9932c09f35875f7f959c4b0da
+Wilco2008-05-17d1t15.flac:f709aeb5c204e2cdc400225a09acdd41
+Wilco2008-05-17d2t01.flac:66f09eb5843a5b3169685afa2bbb945e
+Wilco2008-05-17d2t02.flac:89ef5c477d430a9e7e7589237b5c89d7
+Wilco2008-05-17d2t03.flac:2bb4bf62f99d00128838338f72c4b76c
+Wilco2008-05-17d2t04.flac:8b3ed28d5c5dac7305da274c2845bbb7
+Wilco2008-05-17d2t05.flac:8230e6708421d2afd94ff08d101815e3
+Wilco2008-05-17d2t06.flac:1800e91e8a94f5465cb193152b906e03
+Wilco2008-05-17d2t07.flac:ea03f3eacfa9827f5306a7a5204d8c49
+Wilco2008-05-17d2t08.flac:3083c161bad68479060ea924180cebde
+Wilco2008-05-17d2t09.flac:700a821c2f240dfb8229a03ceb894ba7
+Wilco2008-05-17d2t10.flac:2ce368775cf64bb0135bf81c05eb9226
+Wilco2008-05-17d2t11.flac:e82ceb473fed60b42b7acfbe095fcc26
+Wilco2008-05-17d2t12.flac:570470792ff13f721b372ea43b8fd3b7
+Wilco2008-05-17d2t13.flac:558ae5d952a51041a7c0dabbc4a3759f
+Wilco2008-05-17d2t14.flac:df10c1773459bbe6fe5bfae7a1c10670
+Wilco2008-05-17d2t15.flac:1536e4e2dd3093d2fa1cc08866537be2

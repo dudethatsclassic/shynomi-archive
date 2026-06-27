@@ -1,0 +1,72 @@
+Wilco
+2004-08-03
+The Mod Club
+Toronto, ON
+
+
+Source:
+------------------------------------------------------------
+KM184 > V2 > UA-5 > JB3
+(50', 10'ROC, 8'up, 70º/20cm)
+
+
+Transfer:
+------------------------------------------------------------
+firewire > CEP 2.1 > CDWave > FLAC
+
+
+Disc 1
+------------------------------------------------------------
+01 Muzzle Of Bees
+02 Handshake Drugs
+03 Shot In The Arm
+04 Hummingbird 
+05 Hell Is Chrome
+06 I Am Trying To Break Your Heart
+07 Kamera
+08 At Least That's What You Said
+09 Company In My Back
+10 Jesus etc.
+11 Heavy Metal Drummer
+12 Theologians
+13 I'm The Man Who Loves You
+14 Poor Places
+15 Spiders (Kidsmoke)
+
+Disc 2
+------------------------------------------------------------
+01 I'm A Wheel
+02 Kicking Television
+03 Late Greats
+04 Far, Far Away
+05 Via Chicago
+06 California Stars
+07 The Lonely One
+
+------------------------------------------------------------
+Recorded and mastered by David Klein <davidklein@canada.com>
+------------------------------------------------------------
+
+FLAC Fingerprint
+wilco2004-08-03d1t01.flac:c5b41f08cdfca9e013be3797230d7f52
+wilco2004-08-03d1t02.flac:548e7988de385ac717157c103e154a3a
+wilco2004-08-03d1t03.flac:eeb66f830048a2ae84b526c8259160a6
+wilco2004-08-03d1t04.flac:f7ae2d3d28782ed1d641380627305c22
+wilco2004-08-03d1t05.flac:6e8c3c5836d8035f12936428f9078c78
+wilco2004-08-03d1t06.flac:e803eb806dd89ed359aefcc6d2b36175
+wilco2004-08-03d1t07.flac:f9fa0bbc3106d6548274df8e0fb44ae7
+wilco2004-08-03d1t08.flac:5f6671e51e01ec92dc5f301f753d73fb
+wilco2004-08-03d1t09.flac:69b74b72d30c00c9096ef33ad958a3ed
+wilco2004-08-03d1t10.flac:8f6c9c3902f31978e0c8d0bb68d2feb3
+wilco2004-08-03d1t11.flac:fda10d434e63fd88bda57d23591d1e61
+wilco2004-08-03d1t12.flac:0937b41358f9795d46df844d58f9a8d6
+wilco2004-08-03d1t13.flac:cd6c39b5f8a4da60776aede0c6c62b76
+wilco2004-08-03d1t14.flac:a344bec6f5a3c76d471f3112d7b56e73
+wilco2004-08-03d1t15.flac:cefb23e12b52c49484fd47cb73221d0b
+wilco2004-08-03d2t01.flac:95a653a80ca7f8684a641b4c45904bde
+wilco2004-08-03d2t02.flac:1fba87499eaee241471e3e6a9ae4e13d
+wilco2004-08-03d2t03.flac:3e21299a73657734c0eb81b4a594df1e
+wilco2004-08-03d2t04.flac:820510756613066c10b355813331555f
+wilco2004-08-03d2t05.flac:467d0a658d9afe7fe0f687162b88c6c0
+wilco2004-08-03d2t06.flac:e6b8f0389a6af6e1cf64e35dccf91647
+wilco2004-08-03d2t07.flac:78f4c30bd05e829974f44d625de47089

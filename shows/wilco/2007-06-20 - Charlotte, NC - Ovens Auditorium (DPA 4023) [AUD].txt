@@ -1,0 +1,48 @@
+Wilco
+Ovens Auditorium
+Charlotte, NC
+Wednesday June 20, 2007
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA 4023 > Oade M148 > Mogami interconnect > Edirol R-09 @ 24/48
+Location:	Sec ORCHC, Row B, Seat 105, 10 feet center
+
+WAV > FLAC:	.wav @ 24/48 > Steinberg WaveLab v5.00a (dither with Apogee UV22HR to
+		16/44.1) > CD-WAV/FLAC frontend v1.7.1 > .flac
+
+Disc One:
+
+01: Intro					-	00:35.000
+02: Sunken Treasure				-	07:56.266
+03: You Are My Face				-	04:45.533
+04: Side With The Seeds				-	04:46.466
+05: I Am Trying To Break Your Heart		-	06:33.000
+06: Shake It Off				-	06:26.000
+07: Handshake Drugs				-	06:28.733
+08: Impossible Germany				-	06:07.133
+09: Sky Blue Sky				-	03:38.666
+10: California Stars				-	04:52.466
+11: Hummingbird					-	03:44.133
+12: On And On And On				-	04:38.133
+
+Total:						-	60:31.533
+
+Disc Two:
+
+01: Intro >					-	00:09.600
+02: War On War					-	03:20.666
+03: Intro >					-	03:16.333
+04: Jesus, Etc.					-	04:01.400
+05: Intro >					-	01:05.466
+06: Hate It Here				-	04:56.533
+07: Walken					-	04:31.600
+08: I'm The Man Who Loves You			-	06:14.266
+09: I'm Always In Love				-	03:54.266
+10: Spiders (Kidsmoke)				-	12:11.133
+11: A Shot In The Arm				-	04:48.333
+12: Heavy Metal Drummer				-	03:02.666
+13: Outro					-	01:24.702
+
+Total:						-	52:56.969
+
+compiled by George Wang on 07-23-2007

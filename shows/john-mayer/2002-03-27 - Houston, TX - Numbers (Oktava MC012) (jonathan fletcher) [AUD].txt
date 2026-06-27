@@ -1,0 +1,34 @@
+John Mayer
+March 27, 2002
+Numbers
+Houston, TX
+
+Taper: Jonathan Fletcher 
+Source: Oktava mc012 (card) > Samson Mixpad 4 > Sony M1
+Location: Behind Sbd approx. 30 Feet back @ ~10'
+Conversion: Tascam DA-302->Hosa Digital-> SEKD Prodif +-> Samplitude 6.0 48/44.1->Wav-> MKW->SHN > WAV >CDWAV > MKW  > SHN
+
+Do Not Convert to MP3 or you will contract Shigellosis
+
+Disc One
+01	Intro
+02	My Stupid Mouth
+03	No Such Thing
+04	83
+05	Not Myself
+06	City Love
+07	This Will All Make Perfect Sense Someday
+08	Your Body is a Wonderland
+09	Old Love > Lover You Should Have Come Over
+
+Disc Two
+01	Sucker
+02	Love Song For No One
+03	Back to You
+04	Why Georgia
+05	Neon Intro
+06	Neon
+07	3 x 5
+08	Comfortable
+
+GEAR USED: trade CDR > EAC > TLH > .flac files

@@ -1,0 +1,40 @@
+All-American Rejects - 2025-05-14, Green Bay, WI
+
+All-American Rejects
+Phoenix Park
+Green Bay, WI
+2025-05-14
+
+TRACK LISTING
+01 - Dirty Little Secret
+02 - Someday's Gone 4:09
+03 - Swing, Swing 7:24
+04 - Sandbox 12:19
+05 - Easy Come, Easy Go 14:44
+06 - I Wanna 18:23
+07 - It Ends Tonight 22:02
+08 - Move Along 28:30
+09 - Flagpole Sitta 32:42
+10 - Gives You Hell 38:25
+
+FLAC FINGERPRINTS or MD5 checksum for the musical content only (*)
+01 - Dirty Little Secret.flac:7646b27d78edff0164f09c60d0a89fa5
+02 - Someday's Gone.flac:0b08e291cfb041d0a6888855b6f3e4e3
+03 - Swing, Swing.flac:2361536133b6edfb717076972849e258
+04 - Sandbox.flac:dbc6903a8500f8974b076e4d91ddb255
+05 - Easy Come, Easy Go.flac:26e8e013574acfa5098b1d618f7137d5
+06 - I Wanna.flac:05113831350a40b001c9d58a33ded00c
+07 - It Ends Tonight.flac:8779e9e4cf22a2bbe82568eb921a9a65
+08 - Move Along.flac:68953a7f9fdd86835817242f8e1eaf2a
+09 - Flagpole Sitta.flac:51c70cbaf01a62aeebf92de369a8cd45
+10 - Gives You Hell.flac:6b7c51cb85fcd1b6885e78d0f20052be
+
+AUD SOURCE 1
+Shure mv88 -> iPhone Motiv app wav -> amplified & split in Audacity -> flac
+AUD SOURCE 2
+Sennheiser Ambeo Smart Headset -> iPhone Apogee Metarecorder app wav -> split in Audacity -> flac
+AUD SOURCE 3
+Zoom H2 -> amplified & split in Audacity -> flac
+
+Buy their stuff.
+Go see them live.

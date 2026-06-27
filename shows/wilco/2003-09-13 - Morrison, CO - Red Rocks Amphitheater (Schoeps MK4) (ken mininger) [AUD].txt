@@ -1,0 +1,37 @@
+Wilco
+September 13, 2003
+Red Rocks Amphitheatre
+Morrison, CO
+
+(Opening for REM)
+
+Taper: Ken Mininger (ken@mininger.org)
+Source: Schoeps mk4 (DinA) > actives > nbox > D7
+Transfer: DAT master > CTD8000 DDS-2 > DAT2WAV > wav (Direct DAT extraction, no soundcard)
+Editing/Tracking: Sound Forge v6.0d (48kHz>44.1kHz) > waves L2/CDWav 1.74
+Conversion: wav > SHNTool > mkwAct > SHN (seek tables appended)
+
+Disc 1 (53:48.05)
+01 - Intro                           00:33.21
+02 - Kicking Television              03:07.31
+03 - I'm The Man Who Loves You       03:40.15
+04 - Poor Places                     05:50.39
+05 - Reservations                    04:20.71
+06 - I'm Trying To Break Your Heart  05:43.46
+07 - War On War                      04:04.59
+08 - A Magazine Called Sunset        02:40.64
+09 - One By One                      03:55.20
+10 - Jesus, etc.                     04:19.29
+11 - Kingpin                         03:51.15
+12 - Misunderstood *                 05:47.66
+13 - California Stars *%             05:52.54
+
+* w/Scott McCaughey on keyboards
+% w/Peter Buck on acoustic guitar and Bill Rieflin on percussion
+
+Notes:
+- I had some problems with my D7 and it caused diginoise pops (present on the DAT Master) at about 2:36 in track 2, at about 3:31 in track 12, and at about 3:46 in track 13.
+
+- Thanks to Rob T. for the tickets.
+
+Taped, transferred, edited, and converted by Ken Mininger (ken@mininger.org)

@@ -1,0 +1,72 @@
+Wilco
+2010-05-05
+Forum Theatre, Melbourne
+
+Source: Audix m1290s > UA-5 (bm2p+) > iriver H140 (rockbox optical-in)
+Conversion: iriver H140>USB>Adobe Audition>CDWav 1.94.3>FLAC Frontend 1.7.1 (Level 8)
+
+
+--NEVER PAY FOR AUDIENCE RECORDED LIVE MUSIC--
+
+Disc 1:					[44:40]
+
+01. Intro				[01:16]
+02. Wilco				[03:21]
+03. I'm Trying to Break Your Heart	[06:23]
+04. One Wing				[04:11]
+05. Bull Black Nova			[05:40]
+06. Your Are My Face			[05:10]
+07. Muzzle of Bees			[05:17]
+08. I'll Fight				[04:21]
+09. War On War				[03:24]
+10. At Least That's What You Said	[05:37]
+
+Disc 2:					[42:09]
+
+01. Country Disappeared			[05:04]
+02. Handshake Drugs			[06:35]
+03. Impossible Germany			[06:41]
+04. Its Just That Simple		[04:40]
+05. Box Full of Letters			[03:35]
+06. Via Chicago				[05:11]
+07. Shot In the Arm			[06:28]
+08. Jesus, Etc*				[03:55]
+
+
+* NB This is a partial recording as my battery died a beer-sodden death immediately after Jesus, Etc.
+For the record, the rest of the show went as follows:
+
+Forget the Flowers
+California Stars
+Heavy Metal Drummer
+Can't Stand It
+You Never Know
+Theologians
+I'm the Man That Loves You
+Monday
+Outtasite
+----
+Late Greats
+I'm a Wheel
+
+
+FLAC Fingerprints:
+=================================================================
+wilco2010-05-05.d1t01.flac:27a9382526dbd9113340da6ecaa0dbae
+wilco2010-05-05.d1t02.flac:afa402182aaa52d0d3a55453b8445c20
+wilco2010-05-05.d1t03.flac:abfef2e4a5b41bfd17cfbae22fd735b1
+wilco2010-05-05.d1t04.flac:57de93053e7217130f5dbfa81c5699be
+wilco2010-05-05.d1t05.flac:078c30cf5d93e6675475f2501917445e
+wilco2010-05-05.d1t06.flac:4c35613197d0540d1622869f3ccd533c
+wilco2010-05-05.d1t07.flac:dfb3b28ae78506fce26d591d874c0f62
+wilco2010-05-05.d1t08.flac:504d36f21024056f2ea707e5c379d75d
+wilco2010-05-05.d1t09.flac:2fd3f80c3180ea879281ad9e644f2508
+wilco2010-05-05.d1t10.flac:ac0b179a548184a1f55f62696f63958f
+wilco2010-05-05.d2t01.flac:d8af81f6813dd1af2549d9c92ef0f3f6
+wilco2010-05-05.d2t02.flac:09fed976e7ab52a1b7efda5a6c43ea38
+wilco2010-05-05.d2t03.flac:b7be98358446d72f77f1e14ab3635f3e
+wilco2010-05-05.d2t04.flac:b85117f766cdc3ec954723d1c04d3226
+wilco2010-05-05.d2t05.flac:53faed7f6e5eca74f3146c700e6debe2
+wilco2010-05-05.d2t06.flac:bc25d18bc1b8ecb69dcbdfd7ccca5463
+wilco2010-05-05.d2t07.flac:daee1485cb9d7ebf75a78045a61097a0
+wilco2010-05-05.d2t08.flac:b2f7a7af546c5e9a09d772d872ddd874

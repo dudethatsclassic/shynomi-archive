@@ -1,0 +1,50 @@
+Jeff Tweedy
+2014-06-17
+Missouri Theater
+Columbia, MO
+
+
+Source: Schoeps MK41 / CMR > Naiant Tinybox > Sony PCM-M10 @ 48 kHz / 24-bit
+Lineage: 48/24 WAV > Audacity 2.0.0 (split tracks, resample to 44.1 kHz, dither to 16-bit, convert to FLAC level 8)
+
+Notes: Tracks 1-14, 28-29 with band. Tracks 15-26, 30 Jeff solo. Reduced between song clapping / crowd and amplified solo tracks.
+
+
+Setlist:
+
+01 Down From Above
+02 Diamond Light
+03 High As Hello
+04 Desert Bell
+05 Flowering
+06 Honey Combed
+07 World Away
+08 New Moon
+09 Summer Noon
+10 Where My Love
+11 Fake Fur Coat
+12 ~ band intros ~
+13 Slow Love
+14 Nobody Dies Anymore
+15 Via chicago
+16 New Madrid
+17 I Am Trying To Break Your Heart
+18 ~ chat / Casual Conversation ~
+19 Radio King
+20 Laminated Cat
+21 Passenger Side
+22 The Ruling Class
+23 Should've Been In Love
+24 Gun
+25 Born Alone
+26 Jesus, Etc.
+
+Encore:
+
+27 ~ chat ~
+28 Wait For Love
+29 California Stars
+30 Misunderstood #
+
+
+# unamplified at front of stage

@@ -1,0 +1,100 @@
+Garbage
+Modern Rock Live
+Capitol Recording Studios
+Los Angeles
+14 April 1996
+
+This is not a typical MRL show, as the band is in front of a small audience in the studio and all the music is played live, no prerecorded music. 
+It is the usual host/call-in Q&A. The live songs are outstanding, tho, as is the quality of the recording. 
+I recorded it myself on a Nakamichi MR-2 cassette deck. Transferred to a Tascam CDRW-700 standalone CD recorder. 
+Cassette > CD > EAC > FLAC 6. No artwork. Runs 73:48. 
+
+Track listing:
+
+Queer
+Trip My Wire
+Stupid Girl
+Kick My Ass
+Only Happy When It Rains
+Milk
+Girl Don't Come
+
+
+EAC extraction logfile from 15. September 2006, 21:24 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0  LUN: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : C:\Documents and Settings\Owner\My Documents\flac112a.exe   (User Defined Encoder)
+                     128 kBit/s
+                     Additional command line options : -8 -V -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+   Filename C:\Documents and Settings\Owner\Desktop\Track01.wav
+
+   Peak level 100.0 %
+   Track quality 99.9 %
+   Copy CRC B8C71B71
+   Copy OK
+
+Track  2
+   Filename C:\Documents and Settings\Owner\Desktop\Track02.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC D0F3D5EE
+   Copy OK
+
+Track  3
+   Filename C:\Documents and Settings\Owner\Desktop\Track03.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC A1415A73
+   Copy OK
+
+Track  4
+   Filename C:\Documents and Settings\Owner\Desktop\Track04.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC CFF24010
+   Copy OK
+
+Track  5
+   Filename C:\Documents and Settings\Owner\Desktop\Track05.wav
+
+   Peak level 100.0 %
+   Track quality 99.9 %
+   Copy CRC 1EE16954
+   Copy OK
+
+Track  6
+   Filename C:\Documents and Settings\Owner\Desktop\Track06.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC CCD11150
+   Copy OK
+
+No errors occured
+
+
+End of status report
+
+
+Track06.flac:32cadd70cd590f4f13160228fff4b6ec
+Track01.flac:b2ce59a84cffe47665b861a11d4ceaae
+Track02.flac:182d0dac406543bea72725b1eafc3983
+Track03.flac:0c5e6706a090b0716cb38ef74f774f1f
+Track04.flac:8b23a15b7299ee81267c0f3a13e8afa9
+Track05.flac:543ab1bc304705e1493a6e85dbb8edf3

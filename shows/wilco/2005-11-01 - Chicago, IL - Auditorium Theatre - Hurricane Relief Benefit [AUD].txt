@@ -1,0 +1,91 @@
+Wilco
+2005-11-01
+Chicago, IL - Auditorium Theatre
+Hurricane Relief Benefit
+
+Taper        : Brian Skalinder / bskalinder@yahoo.com
+Location     : Orch, Row V, Seat 306
+Mic Config   : Blumlein (Figure-8, 0cm, 90º)
+Source       : AKG C414B-XLS > Transparent-PLUS Edirol UA-5 > MicroTrack 2496
+Record Format: 24-bit, 44.1 kHz
+Conversion   : MicroTrack 2496 > USB > PC
+Edit         : Cool Edit Pro 2.0 (fades)
+Dither       : MegaBitMax
+Final Format : 16-bit, 44.1 kHz
+Track        : CD-Wave
+
+************************************************************************
+*                                                                      *
+*  ###  FREE  ###                                                      *
+*                                                                      *
+*  The musicians allowed this recording for FREE.  PLEASE...           *
+*                                                                      *
+*    - Only share this recording with others for FREE.                 *
+*    - Do NOT sell or trade this recording for profit of any kind.     *
+*                                                                      *
+*  ###  SUPPORT MUSICIANS  ###                                         *
+*                                                                      *
+*  Help ensure live recordings remain easily accessible and FREE by    *
+*  supporting the musicians:                                           *
+*                                                                      *
+*    - attend their live tours                                         *
+*    - purchase their dry goods                                        *
+*    - buy their studio releases                                       *
+*                                                                      *
+*  For more information on the musicians, their tours, and studio      *
+*  recordings:                                                         *
+*                                                                      *
+*    - http://www.wilcoworld.net                                       *
+*                                                                      *
+************************************************************************
+
+DISC ONE
+
+01. Kingpin
+02. Hell Is Chrome
+03. Handshake Drugs
+04. I Am Trying To Break Your Heart
+05. On & On & On
+06. Hummingbird
+07. At Least That's What You Said
+08. War On War
+09. Jesus, Etc.
+10. Muzzle Of Bees
+11. A Shot In The Arm
+12. Via Chicago
+13. Walken
+14. I'm The Man Who Loves You
+15. [ fade out ]
+
+DISC TWO
+
+01. [ fade in ]
+02. Spiders (Kidsmoke)
+
+ENCORE 1
+
+03. Sunken Treasure
+04. The Late Greats
+05. Monday [1]
+60. Outta Site (Outta Mind)
+07. I'm A Wheel
+
+ENCORE 2
+
+08. Hoodoo Voodoo
+
+NOTES
+
+[1] with the New Orleans Horns
+
+To seamlessly join the two discs, simply remove D1T15 and D2T01.
+
+Anticipating a longer 2nd encore, I stopped and re-started my recording during the applause between the last song of encore 1 (D2T07) and encore 2 (D2T08) to ensure I didn't run out of file space mid-song of the 2nd encore.  In hindsight, given the short 2nd encore, I didn't need to do so.  Better safe than sorry!  The band clearly wanted to play more, but it seems the Aud Th shut 'em down.  At any rate, guaranteed:  NO music missing, only a few seconds of applause.  I cross-faded the applause for a seamless transition between the two tracks.
+
+Started the recorder a bit late due to sorting out some technical problems.  Patched the beginning of the first song with an alternate source.  Thanks to Neutrino for the patch source:
+
+Taper     : neutrino@ameritech.net
+Location  : Orch, Row Z, Seat 305, 8' up
+Location  : FOB, DFC, 8' stand
+Mic Config: DINA (17cm, 90º)
+Source    : Schoeps MK41 > Sonosax SX-M2/LS2 > MicroTrack 2496 (24-it/44.1kHz)

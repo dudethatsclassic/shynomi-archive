@@ -1,0 +1,86 @@
+Wilco
+2007-04-19
+Palais Theatre, Melbourne
+
+Taper: Adam
+Location: Balcony, Front Row, Centre
+
+Source: Audix m1290 > UA-5 (bm2p+) > iriver H140 (rockbox digi-in)
+Conversion: iriver>USB>Adobe Audition>CDWav 1.94.3>FLAC Frontend 1.7.1 (Level 8)
+
+
+---FEEL FREE TO ENCODE TO LOSSY FORMATS (eg MP3) FOR PERSONAL USE, BUT PLEASE ONLY TRADE LOSSLESS (FLAC) VERSION---
+
+Disc 1:					[61:51]
+
+01. Via Chicago				[06:20]
+02. You Are My Face			[04:50]
+03. I Am Trying to Break Your Heart	[06:25]
+04. Handshake Drugs			[06:20]
+05. At Least That's What You Said	[06:49]
+06. Muzzle of Bees			[04:57]
+07. Shot In the Arm			[06:59]
+08. Impossible Germany			[06:08]
+09. Sky Blue Sky				[03:35]
+10. Hummingbird				[03:50]
+11. War On War				[05:42]
+
+
+Disc 2:					[56:37]
+
+01. Jesus, Etc.				[04:17]
+02. Walken					[04:30]
+03. I'm the Man Who Loves You		[05:37]
+
+
+Encore 1:
+
+04. Misunderstood				[05:54]
+05. What Light				[03:28] 
+06. Late Greats				[02:57]
+07. Kingpin					[08:55]
+08. I'm a Wheel				[04:42]
+
+
+Encore 2:
+
+09. Reservations				[04:01]
+10. Hesitating Beauty			[03:00]
+11. California Stars			[05:22]
+12. Passenger Side			[03:58]
+
+
+Notes:
+
+Great show - considerably more enjoyable than the previous night.
+Mix was a lot better too.
+Some small creaking evident throughout the recording from the old leather chairs 30ft below.
+
+--NEVER PAY FOR LIVE AUDIENCE RECORDINGS--
+
+
+FLAC FINGERPRINTS:
+============================================================
+wilco2007-04-19.d1t01.flac:c1d879fe01b3c3336753bb9b242390c9
+wilco2007-04-19.d1t02.flac:d0e86aa0afc36e7c2c62bf8104f0cf48
+wilco2007-04-19.d1t03.flac:12b6d15de8cad02c9bb3bb2e23fe443f
+wilco2007-04-19.d1t04.flac:940abe9023cf6dca70879a6509d065c3
+wilco2007-04-19.d1t05.flac:e48d20c78f35c7c7eab78e7beeca99e2
+wilco2007-04-19.d1t06.flac:af9e862277a9492496dea1095ef2bd14
+wilco2007-04-19.d1t07.flac:d979c01e408f320afd438b18711bfb05
+wilco2007-04-19.d1t08.flac:deeebbe4cda619e9121985426064f4cd
+wilco2007-04-19.d1t09.flac:548cf738592cc4051e30756b493d9cc4
+wilco2007-04-19.d1t10.flac:39028424c3f3c50859c15d56655d3bc2
+wilco2007-04-19.d1t11.flac:3e3999754082ed4e5ee065fae2aa2a3b
+wilco2007-04-19.d2t01.flac:55efdfad6af0cf8ec1ce72fae71456d9
+wilco2007-04-19.d2t02.flac:0b958e92452e7976d8350e8d7f7481cc
+wilco2007-04-19.d2t03.flac:3296126ac9f61cf0e21cd915d1601cf9
+wilco2007-04-19.d2t04.flac:cfd982bd6cf5bc288124c1c341ccd909
+wilco2007-04-19.d2t05.flac:306f62074a03bee3a5d70bb5562ddbfd
+wilco2007-04-19.d2t06.flac:17eaa1a31beee59d66f3a6c39c638f18
+wilco2007-04-19.d2t07.flac:e1a0592856dbe0380c787c662c9ee2fd
+wilco2007-04-19.d2t08.flac:ade1aa96526a4bffdae57bdbe01c2eb7
+wilco2007-04-19.d2t09.flac:5ac311f3233e8e50276c2855d10b307c
+wilco2007-04-19.d2t10.flac:2c82910e24f952103216e90416ebd845
+wilco2007-04-19.d2t11.flac:413cef33ab40e810f7abac4e124efaa1
+wilco2007-04-19.d2t12.flac:b3a9615bccef104ae770fcbc1d71ac6d

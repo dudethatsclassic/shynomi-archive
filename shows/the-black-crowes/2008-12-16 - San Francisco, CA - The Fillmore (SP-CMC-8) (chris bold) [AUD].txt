@@ -1,0 +1,71 @@
+The Black Crowes
+The Fillmore
+San Francisco, CA
+December 16, 2008
+
+** 16 BIT **
+
+Source:  SP-CMC-8 cardioids > SP-SPSB-7 battery box > Edirol R-09 @ 16 bit/44.1 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 130 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded by:  Chris Bold
+Mastered by:  Dennis Orr
+
+Setlist: (2:04:58)
+01 Intro/Crowd
+02 Wounded Bird >
+03 Gone
+04 Twice As Hard
+05 Thick N' Thin
+06 P.25 London
+07 Evergreen
+08 Dirty Hair Halo
+09 Sister Luck
+10 Whoa Mule
+11 Losing My Mind
+12 Wheels
+13 Wee Who See The Deep >
+14 Take Off From The Future >
+15 Spider In The Sugar Bowl Blues (tease) >
+16 Thorn In My Pride
+17 Oh Josephine
+18 Remedy
+19 Encore Break
+- Encore -
+20 Shake Your Money Maker
+21 Sometimes Salvation
+22 Let's Go Get Stoned
+23 Crowd
+
+Chris Robinson – lead vocals, harmonica, & guitars
+Rich Robinson – guitars & backing vocals
+Luther Dickinson – guitars & harmonica
+Sven Pipien – bass & backing vocals
+Adam MacDougall – keyboards & backing vocals
+Steve Gorman – drums & percussion
+Charity White - backing vocals
+Mona Lisa Young - backing vocals
+
+tbc2008-12-16t01.flac:a8162b05cbd9e0bb87128ec46d559836
+tbc2008-12-16t02.flac:beb2e0da0bb38c1e0efdd515647c702d
+tbc2008-12-16t03.flac:8c13f4d841a83c50ddca91326d994f91
+tbc2008-12-16t04.flac:4739c4ac7de5d1efa91692a6bdc50922
+tbc2008-12-16t05.flac:2fb6d3bdc415755cf88a5fc877124001
+tbc2008-12-16t06.flac:0e087b16c88bc6b3c54e6aff3f80e9ce
+tbc2008-12-16t07.flac:bef014167947644a485dd9ecf0bb5099
+tbc2008-12-16t08.flac:fd1c786cf351c65a0e8cdc327ca45851
+tbc2008-12-16t09.flac:402faa6caedc4da9df1bb5c542fbcc7d
+tbc2008-12-16t10.flac:a63786baf2b188575af0be918cf25f83
+tbc2008-12-16t11.flac:3e34a82879fd2b299809cb600f8f1fb8
+tbc2008-12-16t12.flac:d63307c6e176d830624c048b64b80ad8
+tbc2008-12-16t13.flac:b6944387cd58686366cc649f9a9d0579
+tbc2008-12-16t14.flac:445791a17e9cc1f074507ec12b14e415
+tbc2008-12-16t15.flac:d7ea4412e8db50fb489c7f1a9901581b
+tbc2008-12-16t16.flac:f8820ec66f9a1f5c8bc841ebd50f630f
+tbc2008-12-16t17.flac:dec73b90f0ad6daa468627e479e9f186
+tbc2008-12-16t18.flac:e20c6531a6fe6f5fb11d96c6dbfae27d
+tbc2008-12-16t19.flac:a27d786ebdd1cfc942557cf1312398bb
+tbc2008-12-16t20.flac:fbcf1935dc16896c0ddc3711a6ac6d1e
+tbc2008-12-16t21.flac:60d4dd2c02c7fef8057fe2377efcf0d6
+tbc2008-12-16t22.flac:28007db9c23c7277ce323fe1eae8bb1b
+tbc2008-12-16t23.flac:1a3b892d7e1c4664b0e3fd1aae48c09f

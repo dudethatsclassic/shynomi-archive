@@ -1,0 +1,33 @@
+Marcy Playground
+2024-09-19
+The Regent Theater
+Los Angeles, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro
+02 - Poppies
+03 - Pigeon Farm
+04 - Rock and Roll Heroes
+05 - Special
+06 - Saint Joe on the School Bus
+07 - Rebel Sodville
+08 - Deadly Handsome Man
+09 - Bye Bye
+10 - Punk Rock Superstar [false start]
+11 - Punk Rock Superstar
+12 - Wave Motion Gun
+13 - Sex and Candy
+14 - Star Baby
+
+-- Notes --
+Opening for Everclear. Jimmie's Chicken Shack also performed.
+
+Length: 46m00s
+
+-- faninor -- 2024-09-30 --

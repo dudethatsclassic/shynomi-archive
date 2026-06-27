@@ -1,0 +1,23 @@
+Elastica
+
+Glastonbury Festival, Pilton, UK
+June 25, 1995
+
+1. Gloria
+2. Line Up
+3. S.O.F.T.
+4. No More Heroes
+5. Connection
+6. Stutter
+7. Car Song
+8. See That Animal
+-- Waking Up
+-- Blue
+
+-- Played but not in this broadcast
+
+Audio: AAC LC 320 kbps 48 kHz
+Lineage: BBC Radio 6 > Streamlink > mp3DirectCut (cut, cue) > MP4Box > m4a
+TT: 23:51
+
+Captured by Pawel

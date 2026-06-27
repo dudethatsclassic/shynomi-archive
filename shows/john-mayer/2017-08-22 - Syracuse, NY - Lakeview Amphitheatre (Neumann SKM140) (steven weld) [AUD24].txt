@@ -1,0 +1,116 @@
+John Mayer
+Lakeview Amphitheater
+Syracuse, NY
+Tuesday, August 22nd 2017
+
+****24bit Recording****
+
+Set: 02:09:25
+d1t01. crowd
+d1t02. Helpless
+d1t03. Wild Fire
+d1t04. banter
+d1t05. Moving On & Getting Over
+d1t06. Queen Of California
+d1t07. Covered In Rain
+d1t08. Why Georgia>No Such Thing>Why Georgia
+d1t09. Emoji Of A Wave
+d1t10. XO
+d1t11. Your Body Is A Wonderland
+d1t12. Trio video intro
+d1t13. Vultures
+d1t14. Crossroads Blues
+d1t15. Who Do You Think I Was?
+d1t16. Voodoo Chile Slight Return
+d1t17. Still Feel Like Your Man
+d1t18. In The Blood
+d1t19. Slow Dancing In A Burning Room*
+d1t20. Steve Jordan solo
+d1t21. Waiting On The World To Change
+d1t22. Band intros
+d1t23. Dear Marie
+d1t24. (E) Gravity
+d1t25. You're Gonna Live Forever In Me
+
+*w/ Prince's "The Beautiful Ones" intro
+
+"The Search For Everything" Tour
+
+John Mayer – guitars & lead vocals
+Steve Jordan – drums
+Pino Palladino – bass
+Larry Goldings – keyboards
+David Ryan Harris – guitar
+Tiffany Palmer – vocals
+Carlos Ricketts – vocals
+Isaiah Sharkey – guitar
+
+
+Location: sec 200, row P, seat 5, mic stand bungee'd to rail pole behind seats.
+
+Mic config: DINA Kwonbar, Shure A81WS screens, Large Manfrotto air-cushioned stand @ 7 ft
+
+Source: Neumann SKM140(AK40's/LC3's/KM100's)>GAKables xlr>Lunatec V2>GAKables xlr>Apogee Mini-Me@24/48>AES/EBU>Sound Devices 722 @24bit/48kHz
+
+Transfer, editing, mastering & conversion: Sound Devices 722 master file @24bit/48kHz>firewire>Sound Forge Pro 11.0>CD Wave v1.98(tracking)>FLAC24 via TLH v2.7.0(level 8), tag w/Tag Scanner6.0.25, ffp & md5-TLH
+
+Notes: ~ S.F. 11.0(fade out, iZotope master limiter +4.0db) ~
+~ Stormy & windy evening ~
+~ Apogee - soft limit on ~
+~ Recording, transfer, editing, mastering & conversion by Steven Weld sunboy@verizon.net ~
+~ Many Thanks to John Mayer & crew & the venue staff & crew for allowing us to record and share the music ~
+
+
+ffp:
+johnmayer2017-08-22t01.flac:082f3e1027147dd2cb71153fcdb6de4c
+johnmayer2017-08-22t02.flac:675f22f13a9fcf0ec258134bf41b90a3
+johnmayer2017-08-22t03.flac:f33d1c25c327eaa963750dfcd4f3c52e
+johnmayer2017-08-22t04.flac:778d2101aad229ef4568bb7a74e0b2da
+johnmayer2017-08-22t05.flac:b7654e91bb5f56fa93de04691b27cef6
+johnmayer2017-08-22t06.flac:8fc786356578c7778769bd06a083ed49
+johnmayer2017-08-22t07.flac:4ff850afdd162001389f8f66b25db5ee
+johnmayer2017-08-22t08.flac:037a3f7139f8a1cc58326682ad88c09b
+johnmayer2017-08-22t09.flac:68ea5c9a0ac2598ecbb8ceae414c5a98
+johnmayer2017-08-22t10.flac:c09b4b2182b79daf26f8259c65b65c89
+johnmayer2017-08-22t11.flac:33e5ae95c05365ffd9b232fd55ffd309
+johnmayer2017-08-22t12.flac:432a61dfcc0f4106b4e04ed7b81152f3
+johnmayer2017-08-22t13.flac:40455caa905223d7b5305e4d0e00027a
+johnmayer2017-08-22t14.flac:4a4df1108ebf959a07914fe18e152904
+johnmayer2017-08-22t15.flac:e8f43c2328b9d54ceb25271901ea99d2
+johnmayer2017-08-22t16.flac:e858774c8324360a2f18a5eb0e409ecd
+johnmayer2017-08-22t17.flac:5bccf16037b0ccf585b671f3e5482987
+johnmayer2017-08-22t18.flac:aaa530a990d2be293cd399d7776ae81f
+johnmayer2017-08-22t19.flac:12bbbeeb9f84768a8f0d369c1ff74127
+johnmayer2017-08-22t20.flac:f8be0269983f56e24025081cd3930c2b
+johnmayer2017-08-22t21.flac:ffa24cb85ec07297e432a35f4742ddf7
+johnmayer2017-08-22t22.flac:0a552a497ca426c3d97e9462252f994e
+johnmayer2017-08-22t23.flac:a3c2e8936a809e5b9ca79c1a1b56189b
+johnmayer2017-08-22t24.flac:00f050943e625274aa8d7b08a3f7a7fa
+johnmayer2017-08-22t25.flac:98145e5e52d2abe3666b9bce1dd1df2e
+
+md5:
+d63258f145a0263a5cee766e72542d39 *johnmayer2017-08-22t01.flac
+a84043858c7ebd245f98cf928d449485 *johnmayer2017-08-22t02.flac
+bd4b9ced5757c545c676df2fc2be9215 *johnmayer2017-08-22t03.flac
+5aff8bca6dba1b8b9614bb5300152d45 *johnmayer2017-08-22t04.flac
+e0a91efdfd08a78590558e6c163755a9 *johnmayer2017-08-22t05.flac
+d33b98415939dd44cf1c4828a891b6bc *johnmayer2017-08-22t06.flac
+2e619cd56e3af081ae57db4817f9a26d *johnmayer2017-08-22t07.flac
+71ce84ac3e8e27b2d1250c90b2425196 *johnmayer2017-08-22t08.flac
+65c0d4e3a28f4f5e18cc780126a62467 *johnmayer2017-08-22t09.flac
+bae097893084def4f3eabb699c14c0be *johnmayer2017-08-22t10.flac
+e72e18cb37d4cf995ae6aedf1653f199 *johnmayer2017-08-22t11.flac
+0ed31a500f542fa401e83426b64d25d6 *johnmayer2017-08-22t12.flac
+4a954cc620023a1601e066a085414427 *johnmayer2017-08-22t13.flac
+f97e67a1fbaab146c0c8d8b495923386 *johnmayer2017-08-22t14.flac
+536c8e786e876229683e73fb2bdccf55 *johnmayer2017-08-22t15.flac
+be0f67835d93a95bea733b3f5e4ee05f *johnmayer2017-08-22t16.flac
+5dd4f856baf7d86e7fd4a8300d4cc8ed *johnmayer2017-08-22t17.flac
+962a9fd736da1793e444e2b9a2a9ca41 *johnmayer2017-08-22t18.flac
+b9a514682d2f63fbc4ffd0f510078d58 *johnmayer2017-08-22t19.flac
+9b574a1006b1a1222fa8a08caf987f9a *johnmayer2017-08-22t20.flac
+ae19198a52614ba328c395cc8b349624 *johnmayer2017-08-22t21.flac
+d83331fc3941045186a48e03289e743f *johnmayer2017-08-22t22.flac
+a0ec93c565b348de93176d7b9821941f *johnmayer2017-08-22t23.flac
+77763ec4e4300d21c41a02bcf5cece68 *johnmayer2017-08-22t24.flac
+90d5e91a35a58c9bda623084632a936a *johnmayer2017-08-22t25.flac

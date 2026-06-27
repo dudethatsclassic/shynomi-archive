@@ -1,0 +1,45 @@
+JEFF TWEEDY 2/28/19
+THE PAGEANT THEATRE, ST. LOUIS, MO
+
+DISC ONE:
+
+Via Chicago
+Remember The Mountain Bed
+Bombs Above
+Some Birds
+I Am Trying To Break Your Heart
+New Madrid
+Hummingbird
+Lost Love
+Having Been Is No Way To Be
+Impossible Germany
+Family Ghost
+
+DISC TWO:
+
+Don't Forget
+Heavy Metal Drummer
+Let's Go Rain
+Passenger Side
+Evergreen
+Jesus, Etc.
+I Know What It's Like
+We've Been Had
+Casino Queen
+On And On And On
+Misunderstood
+It Must Be Love
+Acuff-Rose
+
+TAPER: SHANE E. CALHOON
+       (tapersec1968(at)gmail(dot)com)
+
+GEAR USED: Studio Projects C4 MKII Cardioid Caps >
+	   Tascam DR-07 Portable Recorder >
+	   Sound Forge 9.0 > CDWav > TLH > .flac files
+
+Remastered by cptncrash76 w/adobe audition 1.5
+FFT Filter - started with "Kill The Mic Rumble" preset and made adjustments from there
+Normalize
+dynamics processing: "limit soft -24 db w/boost" preset to get the difference between the music
+and the applause between songs a little closer.

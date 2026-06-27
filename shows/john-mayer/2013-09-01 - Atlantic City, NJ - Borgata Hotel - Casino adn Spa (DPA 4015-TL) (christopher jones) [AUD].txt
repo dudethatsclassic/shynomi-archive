@@ -1,0 +1,53 @@
+John Mayer
+1 September 2013
+Event Center
+Borgata Hotel, Casino and Spa
+Atlantic City, New Jersey
+
+Recorded by: Christopher Jones <jones.chris@gmail.com>
+Source: DPA 4015-TL Transformerless Handmatched Wide Cardioid > Mogami Gold Neglex Studio Quad XLR Microphone Cable > Rupert Neve Designs Portico 5012-H Microphone Preamplifier > Mogami Gold Neglex Studio Quad XLR Interconnect > Daniel Weiss Digital Audio ADC2 Analog-to-Digital Converter (@ 24-bit / 192 kHz) > Cardas Audio Neutral Reference Cu AES / EBU Digital Interconnect > Sound Devices 722 Hard Disk Recorder (slaved to Weiss ADC2 @ 192 kHz; @ 24-bit / 192 kHz)
+Location: Stageleft GA, approximately 8 meters from the stage.  Microphones elevated 4 meters, ORTF, directly in front of stageleft line array.
+HD > .flac: Sound Devices 722 Hard Disk Recorder > Apple Mac Pro (2 x 2.66 GHz Dual-Core Intel Xeon / 9GB 667 MHz DDR2 FB-DIMM) > Audiofile Engineering Wave Editor v1.5.5 > xACT v2.23
+
+Resampled with iZotope Resampler at highest quality setting and a filter steepness of "150"; dithered using iZotope MBIT+ with a "Normal" amount of "Ultra" noise shaping applied.  24-bit / 192 kHz version of this recording available in .flac24.
+
+t01 Introduction  					00:35.33
+t02 Intro To...  					01:11.36
+t03 Queen of California >  				06:01.61
+t04 Paper Doll > 					06:01.58
+t05 Intro To...  					00:34.65
+t06 I Don't Trust Myself (With Loving You)  		06:44.38
+t07 Something Like Olivia  				04:53.39
+t08 Going Down the Road Feelin' Bad # >  		07:59.20
+t09 Slow Dancing In A Burning Room  			06:31.14
+t10 (Another Kind of Green)  				00:25.42
+t11 Half of My Heart  					05:28.07
+t12 Waiting On The Day  				07:02.66
+t13 Your Body Is A Wonderland * >  			03:40.69
+t14 Neon * >  						04:15.00
+t15 (Your Body Is A Wonderland) *  			01:32.61
+t16 Wildfire  						04:39.29
+t17 If I Ever Get Around To Living  			08:52.03
+t18 Who Says  						03:27.57
+t19 Waiting On The World To Change  			03:48.09
+t20 Call Me The Breeze %  				05:31.73
+t21 Dear Marie  					04:42.27
+t22 Age of Worry  					04:19.72
+t23 "Study Abroad..."  					01:38.41
+t24 Gravity  						10:50.67
+---
+t25 I Will Be Found (Lost At Sea)  			05:25.37
+t26 Vultures  						08:11.18
+
+							124:26.67
+
+>  Indicates a segue into the next song
+() Indicates a tease or partial song if not part of a song with a 
+   parenthetical subtitle
+#  As interpreted by The Grateful Dead
+*  John solo
+%  J.J. Cale cover
+
+Notes:
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 7 September 2013.

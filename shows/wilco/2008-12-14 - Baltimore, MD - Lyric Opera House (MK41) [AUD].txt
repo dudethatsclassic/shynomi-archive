@@ -1,0 +1,176 @@
+Wilco
+12/14/2008
+Lyric Opera House
+Baltimore, MD
+
+**16bit, intended for CD**
+
+Source: Schoeps mk41 > kc5 > cmc6 > Oade m248 > 
+Tascam hd-p2 (24bit/88.2k)
+Location: Balc, DFC, DIN
+Transfer: CF > Wavelab (fades/tracking/Waves L3 Multimaximizer/
+SRC/Apogee UV22HR dithering) > 
+FLAC (lvl 6/Align on Sector Boundaries) >
+Tag & Rename(Tags)
+Taped & transferred by Innis Nelson (innisn at gmail)
+
+CD1:
+  1.  Intro
+  2.  Sunken Treasure
+  3.  You Are My Face
+  4.  War on War
+  5.  Tweedy Banter
+  6.  Handshake Drugs
+  7.  Impossible Germany
+  8.  It's Just That Simple
+  9.  Forget the Flowers
+  10. Tweedy Banter
+  11. Box Full of Letters
+  12. Tweedy Banter
+  13. Jesus Etc
+  14. Tweedy Banter
+  15. I Am Trying to Break Your Heart >
+  16. Spiders (Kidsmoke)
+  17. Hummingbird (Soma)
+  18. A Shot In The Arm
+CD2:
+  19. Tweedy Banter
+  20. Hate it Here
+  21. Tweedy Banter
+  22. Walken
+  23. I'm the Man Who Loves You
+  24. Crowd
+  Encore 1:
+  25. Via Chicago
+  26. California Stars
+  27. Tweedy Banter
+  28. Kingpin
+  29. Crowd
+  Encore 2:
+  30. Late Greats
+  31. Heavy Metal Drummer
+  32. Tweedy Banter
+  33. Red-Eyed and Blue >
+  34. I Got You (At the End of the Century) >
+  35. Outtasite (Outta Mind)
+
+
+"I do not smoke pot and but if I did, that
+is exactly what would happen to me.  Wow."
+			-Jeff Tweedy
+
+Thanks to Carrington "Team Black" Crawford for use
+of his Oade M248 and CBD for watching the gear in
+the balcony.
+
+Shntool output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:35.42        6272828 B   ---   --   ---xx   flac  0.5501  wilco20091214d1
+t01_Intro.flac
+     7:26.20       78721484 B   ---   --   ---xx   flac  0.4590  wilco20091214d1
+t02_Sunken_Treasure.flac
+     4:55.29       52106252 B   ---   --   ---xx   flac  0.5743  wilco20091214d1
+t03_You_Are_My_Face.flac
+     3:38.63       38603420 B   ---   --   ---xx   flac  0.6390  wilco20091214d1
+t04_War_on_War.flac
+     0:43.35        7667564 B   ---   --   ---xx   flac  0.5064  wilco20091214d1
+t05_Tweedy_Banter.flac
+     6:20.40       67126124 B   ---   --   ---xx   flac  0.6216  wilco20091214d1
+t06_Handshake_Drugs.flac
+     6:27.25       68325644 B   ---   --   ---xx   flac  0.5797  wilco20091214d1
+t07_Impossible_Germany.flac
+     4:20.26       45925196 B   ---   --   ---xx   flac  0.5684  wilco20091214d1
+t08_Its_Just_That_Simple.flac
+     3:19.34       35183612 B   ---   --   ---xx   flac  0.5884  wilco20091214d1
+t09_Forget_the_Flowers.flac
+     0:30.07        5308508 B   ---   --   ---xx   flac  0.4688  wilco20091214d1
+t10_Tweedy_Banter.flac
+     3:20.70       35444684 B   ---   --   ---xx   flac  0.6541  wilco20091214d1
+t11_Box_Full_of_Letters.flac
+     0:30.21        5341436 B   ---   --   ---xx   flac  0.4439  wilco20091214d1
+t12_Tweedy_Banter.flac
+     4:07.00       43570844 B   ---   --   ---xx   flac  0.5444  wilco20091214d1
+t13_Jesus_Etc.flac
+     1:21.54       14415452 B   ---   --   ---xx   flac  0.5492  wilco20091214d1
+t14_Tweedy_Banter.flac
+     6:55.51       73325996 B   ---   --   ---xx   flac  0.6058  wilco20091214d1
+t15_I_am_Trying_to_Break_Your_Heart.flac
+    10:53.03      115196300 B   ---   --   ---xx   flac  0.6278  wilco20091214d1
+t16_Spiders_Kidsmoke.flac
+     3:23.65       35962124 B   ---   --   ---xx   flac  0.5752  wilco20091214d1
+t17_Hummingbird_Soma.flac
+     5:03.40       53543324 B   ---   --   ---xx   flac  0.6682  wilco20091214d1
+t18_A_Shot_In_The_Arm.flac
+     0:52.28        9238700 B   ---   --   ---xx   flac  0.4785  wilco20091214d2
+t19_Tweedy_Banter.flac
+     4:29.32       47526908 B   ---   --   ---xx   flac  0.6175  wilco20091214d2
+t20_Hate_it_Here.flac
+     0:18.30        3245804 B   ---   --   ---xx   flac  0.5816  wilco20091214d2
+t21_Tweedy_Banter.flac
+     4:43.16       49958876 B   ---   --   ---xx   flac  0.6130  wilco20091214d2
+t22_Walken.flac
+     4:32.38       48070220 B   ---   --   ---xx   flac  0.6375  wilco20091214d2
+t23_Im_the_Man_Who_Loves_You.flac
+     2:36.27       27581948 B   ---   --   ---xx   flac  0.6423  wilco20091214d2
+t24_Crowd.flac
+     5:21.03       56631500 B   ---   --   ---xx   flac  0.5686  wilco20091214d2
+t25_Via_Chicago.flac
+     4:37.52       48985148 B   ---   --   ---xx   flac  0.6023  wilco20091214d2
+t26_California_Stars.flac
+     1:00.30       10654604 B   ---   --   ---xx   flac  0.5159  wilco20091214d2
+t27_Tweedy_Banter.flac
+     6:48.03       71978300 B   ---   --   ---xx   flac  0.6303  wilco20091214d2
+t28_Kingpin.flac
+     2:09.61       22899116 B   ---   --   ---xx   flac  0.6263  wilco20091214d2
+t29_Crowd.flac
+     3:22.57       35766908 B   ---   --   ---xx   flac  0.6080  wilco20091214d2
+t30_Late_Greats.flac
+     3:11.03       33699500 B   ---   --   ---xx   flac  0.6544  wilco20091214d2
+t31_Heavy_Metal_Drummer.flac
+     0:28.07        4955708 B   ---   --   ---xx   flac  0.6304  wilco20091214d2
+t32_Tweedy_Banter.flac
+     2:16.41       24086876 B   ---   --   ---xx   flac  0.5580  wilco20091214d2
+t33_Red-Eyed_and_Blue.flac
+     4:09.15       43958924 B   ---   --   ---xx   flac  0.6828  wilco20091214d2
+t34_I_Got_You_At_the_End_of_the_Century.flac
+     3:40.49       38923292 B   ---   --   ---xx   flac  0.6746  wilco20091214d2
+t35_Outtasite_Outta_Mind.flac
+   128:30.67     1360203124 B                            0.6008  (35 files)
+
+Flac Fingerprint:
+wilco20091214d1t01_Intro.flac:540e778d7b21ddc6607ee969b3057ad4
+wilco20091214d1t02_Sunken_Treasure.flac:822be4491c67dacb1cdcb3334ba0fd66
+wilco20091214d1t03_You_Are_My_Face.flac:789d3425e55e9df6d41019e28f1aa403
+wilco20091214d1t04_War_on_War.flac:f28c1f816847d386e65cc2c58623a727
+wilco20091214d1t05_Tweedy_Banter.flac:7b34576871b9898db1b33e27f0417841
+wilco20091214d1t06_Handshake_Drugs.flac:bcda3f1b3746d92c5cacf01bbc30e226
+wilco20091214d1t07_Impossible_Germany.flac:d984c74b3c3af735eeecb1bb562b2d4d
+wilco20091214d1t08_Its_Just_That_Simple.flac:f3c676d91c1736b874cad02c5cc331ff
+wilco20091214d1t09_Forget_the_Flowers.flac:e3b12a491394ec6557a056c9d5cabd8d
+wilco20091214d1t10_Tweedy_Banter.flac:6f4d8975b14efb3fceba69903db231e8
+wilco20091214d1t11_Box_Full_of_Letters.flac:c29bde4b9686e62acd654a5c61412faa
+wilco20091214d1t12_Tweedy_Banter.flac:547a84bb7ef5d543aa4bebc1d32ef119
+wilco20091214d1t13_Jesus_Etc.flac:66932c1667ccf7345b7cfc98d0250073
+wilco20091214d1t14_Tweedy_Banter.flac:1a5ecf6b8c96d6f0262e8893e69fad9e
+wilco20091214d1t15_I_am_Trying_to_Break_Your_Heart.flac:312a29552bbd16c0f1aa5bd691a3cb23
+wilco20091214d1t16_Spiders_Kidsmoke.flac:5b92bbc864fd4e7eb63657a8133c1ebc
+wilco20091214d1t17_Hummingbird_Soma.flac:76ec44a456e8a8f772c0ddd5c10a7193
+wilco20091214d1t18_A_Shot_In_The_Arm.flac:3181307e0226a50d41c7698181001566
+wilco20091214d2t19_Tweedy_Banter.flac:e9da50e21fd972cd3f25ad2f50a4eade
+wilco20091214d2t20_Hate_it_Here.flac:0aa6878890d45fc9cee70a88491c7bfe
+wilco20091214d2t21_Tweedy_Banter.flac:7625c9e9a958be6354e128fe4230f326
+wilco20091214d2t22_Walken.flac:d48c084412ecdeaa510f45117f63467d
+wilco20091214d2t23_Im_the_Man_Who_Loves_You.flac:1b8351aa9e098967de9730736bead79f
+wilco20091214d2t24_Crowd.flac:f8c79857acfb684f2c28b90c7e562593
+wilco20091214d2t25_Via_Chicago.flac:f0d2d7ba8c3d499c3db275ec298a55d1
+wilco20091214d2t26_California_Stars.flac:03caeec93fb777d939f3f34982f4c26f
+wilco20091214d2t27_Tweedy_Banter.flac:ca80cd12c2f5ab542e67f818387494ec
+wilco20091214d2t28_Kingpin.flac:b36c8b077333bc84fcc7506403c7cd59
+wilco20091214d2t29_Crowd.flac:9f9d81eff0b1b29f4cba1e18933f1100
+wilco20091214d2t30_Late_Greats.flac:f7ee499aa7b442891148a342f49659df
+wilco20091214d2t31_Heavy_Metal_Drummer.flac:37c1e08ab24705c369e48073ac531087
+wilco20091214d2t32_Tweedy_Banter.flac:ed161511eaffb4909cd7bf433b7c2e21
+wilco20091214d2t33_Red-Eyed_and_Blue.flac:885eeee142eaa927969e5fcad41c5549
+wilco20091214d2t34_I_Got_You_At_the_End_of_the_Century.flac:a32a281fa1223ee90d5a248babb270fa
+wilco20091214d2t35_Outtasite_Outta_Mind.flac:cbec4e14ae4855bb1991d9e02d1d16b6

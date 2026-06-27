@@ -1,0 +1,93 @@
+Jeff Tweedy & Friends
+Solid Sound Festival 
+Joe's Field
+MASS MoCA
+North Adams, MA
+May 29, 2022
+
+** 24 BIT **
+
+Source #1:  Schoeps MK4V radial cardioids (in a Kangol hat) > Nbob actives > Nbox Platinum > Roland R-05 @ 24 bit/48 kHz
+Source #2:  Source:  CA-11 cardioids > CA Battery Box > Roland R-05 @ 24 bit/48 kHz
+Mastering:  .WAV's > Adobe Audition CC Version 6.0, Build 732 (matrix mixdown) > iZotope RX9 Advanced v9.0.0.1130 (De-Click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, 
+Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  Source #1:  Left of centre, about 30 feet from the stage, Source #2:  Right of centre, 15 feet from the stage
+Recorded by:  Source #1:  Jim Kelly (musicjaime), Source #2:  ManOfStealth
+Mastered by:  Dennis Orr
+
+Setlist: (1:32:32)
+01 Crowd/Intro
+02 Evergreen
+03 Love Is The King
+04 A Robin Or A Wren
+05 Opaline
+06 Band Intros
+07 Gwendolyn
+08 Having Been Is No Way To Be
+09 I Know What It's Like
+10 Save It For Me
+11 The Red Brick
+12 Warm (When The Sun Has Died)
+13 Don't Forget
+14 Half‐Asleep
+15 Natural Disaster
+16 Even I Can See
+17 World Away
+18 Chat
+19 Bombs Above
+20 Some Birds
+21 Chat
+22 Guess Again
+23 Chat
+24 Let's Go Rain
+25 Chat
+26 Family Ghost
+27 Helpless (1)(2)
+28 It Must Be Love (1)
+29 Chat
+30 California Stars (1)(3)
+31 Outro
+
+(1) with Rick Rizzo & Janet Beveridge Bean from Eleventh Dream Day, and Sam Evian
+(2) Sammy Tweedy - lead vocals
+(3) with David Byrne - vocals & guitar, and members of Wilco
+
+Jeff Tweedy - lead vocals & guitar
+Jim Elkington - guitar & pedal steel
+Liam Kazar - guitar & backing vocals
+Macie Stewart - backing vocals & fiddle
+Sima Cunningham - backing vocals
+Sammy Tweedy - backing vocals
+Spencer Tweedy - drums
+
+JeffTweedy2022-05-29MATRIX-t01.flac:a1afb29fa6f8b6a4afb2659bb779957c
+JeffTweedy2022-05-29MATRIX-t02.flac:804f6edd54ea881554dff23e7a7a10c5
+JeffTweedy2022-05-29MATRIX-t03.flac:d9eaa09d347142d1cbf45d28e9d596d6
+JeffTweedy2022-05-29MATRIX-t04.flac:631fbc5fdf3c76c85372ecb274f6f3e5
+JeffTweedy2022-05-29MATRIX-t05.flac:3d2dd752996f9620ea583e75de6ac32e
+JeffTweedy2022-05-29MATRIX-t06.flac:97d9b29272f940ca00968f9913edf117
+JeffTweedy2022-05-29MATRIX-t07.flac:a15377452862a33cd2e625d4791ed161
+JeffTweedy2022-05-29MATRIX-t08.flac:fbc0fe08be0b1f69c1a82fa38056cbac
+JeffTweedy2022-05-29MATRIX-t09.flac:31b812b87dff05b1f2dff1d998161c49
+JeffTweedy2022-05-29MATRIX-t10.flac:df3db8f9076c7ac4e5143bad2e436bd9
+JeffTweedy2022-05-29MATRIX-t11.flac:0367e7441cb6de9662904b2b8b618c20
+JeffTweedy2022-05-29MATRIX-t12.flac:521d2dccf92b1b010c2cdb4d9b40500c
+JeffTweedy2022-05-29MATRIX-t13.flac:77a64f6f1604e3a4d72219c2d368e197
+JeffTweedy2022-05-29MATRIX-t14.flac:2390be0979835c4661befdfbcec07f93
+JeffTweedy2022-05-29MATRIX-t15.flac:a2ffc0dc9a42b854f5c3de72208d9985
+JeffTweedy2022-05-29MATRIX-t16.flac:fcf457bc597834b0fbb3227be2f4f387
+JeffTweedy2022-05-29MATRIX-t17.flac:053d2fbe97a882abacfa2f3336e762b3
+JeffTweedy2022-05-29MATRIX-t18.flac:fe0aca851f487b997f3b416223f7a0f2
+JeffTweedy2022-05-29MATRIX-t19.flac:2c6ff74936e8c9bb548c4de548a388d8
+JeffTweedy2022-05-29MATRIX-t20.flac:5491627e0b2a45c93416b1a06d3d5115
+JeffTweedy2022-05-29MATRIX-t21.flac:8b841838546e69f31c8187b4620b152a
+JeffTweedy2022-05-29MATRIX-t22.flac:fde5990c5a4d0ec493112ba833601b8d
+JeffTweedy2022-05-29MATRIX-t23.flac:228bb9d0fb28f6385c241505b734b26b
+JeffTweedy2022-05-29MATRIX-t24.flac:9c6e0178ea30e877fe569c1108a26c9f
+JeffTweedy2022-05-29MATRIX-t25.flac:e6625a3aed95fb99d1087c50fa085924
+JeffTweedy2022-05-29MATRIX-t26.flac:fb5b8ca6830434dccf53f60615b6aa8d
+JeffTweedy2022-05-29MATRIX-t27.flac:85eb6d1af0ca2c5229ad1dd20ef6e87f
+JeffTweedy2022-05-29MATRIX-t28.flac:74ecb7008980b9cecc1569238b6ba260
+JeffTweedy2022-05-29MATRIX-t29.flac:27556ae77f44b030d04a731e9be007f2
+JeffTweedy2022-05-29MATRIX-t30.flac:c712b5b20257976461b0709716d0dcf4
+JeffTweedy2022-05-29MATRIX-t31.flac:f4dbf61b11d493534969c1880a8e6d0e

@@ -1,0 +1,37 @@
+John Mayer
+September 05, 2010
+The Cynthia Woods-Mitchell Pavilion
+The Woodlands, TX
+
+Taper:  Justin Kacz 
+Location: FOH area, Stand at Head Height
+Source: DPA4021 (ortf) -> Oade ACM Grace Lunatec V3 (digi out) -> Oade CM R-44 (24/48)
+Transfer: USB -> Audacity (EQ, amplify to -0.1db, tracking) -> xACT (flac+tagging)
+
+************************************************************************
+Please support artists and venues that support live taping.
+************************************************************************   
+
+01: Chest Fever > Vultures
+02: Clarity
+03: Why Georgia
+04: Ain't No Sunshine
+05: Heartbreak Warfare > [Sledgehammer]
+06: I Don't Trust Myself (With Loving You)
+07: Beast of Burden > Perfectly Lonely
+08: No Such Thing
+09: [Wonderwall Tease]
+10: Free Falling
+11: Who Says
+12: Gravity [I've Got Dreams To Remember]
+13: Do You Know Me
+14: Half of My Heart > [Don't Stop Believing] 
+----- Encore Break -----
+15: [Dedication to Micayla Patterson] 
+16: Edge of Desire
+
+
+Notes:  Special thanks to Chad Franscoviak for allowing me to setup my gear at FOH 
+when the venue was giving me a hard time.
+
+Compiled by: Justin Kacz  2010-09-23

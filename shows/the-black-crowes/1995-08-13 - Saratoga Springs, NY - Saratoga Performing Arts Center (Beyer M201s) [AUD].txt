@@ -1,0 +1,46 @@
+The Black Crowes
+August 13, 1995
+H.O.R.D.E.
+Saratoga Performing Arts Center
+Saratoga Springs, NY
+
+www.blackcrowes.com
+www.crowesbase.com
+
+Master AUD: Beyer M201's X-Y 90 feet from stage > Sony TCD5M (Maxell XL II 100 min, no Dolby)
+Transfer: Sony KCA650 ES > Echo Gina 24@16/44.1 > BIAS PEAK VST 2.8 > Mac G-4 dual 533 > Adaptec Toast > Matshita CD-RW 7808 > EAC (PC w/pentium III 700) > FLAC (level 8)
+Mastered by Dana Hagerty
+Transferred by Kyle Holbrook (kyle@rocksuitcase.com)
+
+Disc 1
+01. Black Moon Creeping
+02. She Gave Good Sunflower
+03. Shake Your Money Maker
+04. My Morning Song
+05. She Talks To Angels
+06. P.25 London
+07. Thick n' Thin
+08. Wiser Time
+
+
+Disc 2
+01. Evil eye
+02. Nonfiction
+03. Remedy
+04. Feelin' Allright
+
+Audio File Details:
+    length     expanded size   cdr  WAVE problems filename
+     9:45.66      103349276    ---   --   ---xx   tbc1995-08-13d1t01.flac
+     6:04.69       64371932    ---   --   ---xx   tbc1995-08-13d1t02.flac
+     3:43.12       39365468    ---   --   ---xx   tbc1995-08-13d1t03.flac
+    17:03.09      180478412    ---   --   ---xx   tbc1995-08-13d1t04.flac
+     6:36.35       69936764    ---   --   ---xx   tbc1995-08-13d1t05.flac
+     4:16.03       45165500    ---   --   ---xx   tbc1995-08-13d1t06.flac
+     3:18.06       34941356    ---   --   ---xx   tbc1995-08-13d1t07.flac
+     7:39.22       81019388    ---   --   ---xx   tbc1995-08-13d1t08.flac
+     4:48.02       50807948    ---   --   ---xx   tbc1995-08-13d2t01.flac
+     9:30.08      100566860    ---   --   ---xx   tbc1995-08-13d2t02.flac
+     9:27.73      100190540    ---   --   ---xx   tbc1995-08-13d2t03.flac
+     6:34.03       69508700    ---   --   ---xx   tbc1995-08-13d2t04.flac
+    88:47.08      939702144 B                     (totals for 12 files, 0.5845 overall compression ratio)

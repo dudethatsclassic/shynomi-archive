@@ -1,0 +1,31 @@
+SEVENDUST
+September 13, 2001
+Wassman Arena
+Superior, WI
+
+Source: Core Sound Cardioid > Sony PCM-M1
+Location: ten feet from right PA
+Taper: CPS
+Llineage: DAT(M) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: 1:46-1:50 limiter @ -5dB, +1.7dB
+
+01 - intro
+02 - Useless As Tits on a Boar
+03 - Terminator
+04 - Praise
+05 - Denial
+06 - Rumblefish
+07 - Deadset
+08 - Angel's Son
+09 - Black
+10 - Trust
+11 - Too Close to Hate
+12 - Walk
+13 - Waffle
+14 - encore cheers - talk
+15 - Crucified
+16 - Bitch
+
+
+Compiled April 2019 by CPS

@@ -27,7 +27,8 @@ const ARTIST_DATA = {
       "venue": "C'est What",
       "notes": "with Jay Bennett",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1996-11-20 - Toronto, Ontario - C'est What (with Jay Bennett) [AUD].txt"
     },
     {
       "year": 1997,
@@ -40,7 +41,8 @@ const ARTIST_DATA = {
       "venue": "Lounge Ax",
       "notes": "with Jay Bennett",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1997-07-09 - Chicago, IL - Lounge Ax (with Jay Bennett) [AUD].txt"
     },
     {
       "year": 1997,
@@ -53,7 +55,8 @@ const ARTIST_DATA = {
       "venue": "The Iron Horse",
       "notes": "with Jay Bennett",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1997-11-24 - Northampton, MA - The Iron Horse (with Jay Bennett) [AUD].txt"
     },
     {
       "year": 1997,
@@ -66,7 +69,8 @@ const ARTIST_DATA = {
       "venue": "The Middle East",
       "notes": "with Jay Bennett",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1997-11-25 - Cambridge, MA - The Middle East (with Jay Bennett) [AUD].txt"
     },
     {
       "year": 1998,
@@ -79,7 +83,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1998-05-23 - Angel's Camp, CA - Calaveras County Fairgrounds - (with Jay Bennett) [AUD].txt"
     },
     {
       "year": 2007,
@@ -92,7 +97,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2007-01-20 - Dallas, TX - The Grenada Theater (with Scott McCaughey) [AUD].txt"
     },
     {
       "year": 2017,
@@ -118,7 +124,8 @@ const ARTIST_DATA = {
       "venue": "Joe's Field",
       "notes": "Mass",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2019-06-30 - North Adams, MA - Joe's Field - Solid Sound Festival [AUD].txt"
     },
     {
       "year": 2019,
@@ -142,9 +149,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Joe's Field",
-      "notes": "Solid · Schoeps MK4V · jim kelly",
+      "notes": "Solid \u00b7 Schoeps MK4V \u00b7 jim kelly",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2022-05-29 - North Adams, MA  - Joe's Field - Solid Sound Festival (Schoeps MK4V) (jim kelly) [AUD].txt"
     },
     {
       "year": 2022,
@@ -155,9 +163,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Joe's Field",
-      "notes": "MASS · Schoeps MK4V + CA-11 · musicjaime + manofstealth",
+      "notes": "MASS \u00b7 Schoeps MK4V + CA-11 \u00b7 musicjaime + manofstealth",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2022-05-29 - North Adams, MA - Joe's Field - MASS MoCA (Schoeps MK4V + CA-11) (musicjaime + manofstealth) [MIX].txt"
     },
     {
       "year": 2024,
@@ -168,9 +177,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "North Adams, MA",
       "venue": "Joe's Field MASS MoCA",
-      "notes": "Schoeps MK4V+SP-BMC-12 · jim kelly",
+      "notes": "Schoeps MK4V+SP-BMC-12 \u00b7 jim kelly",
       "version": "MIX",
-      "format": ""
+      "format": "",
+      "textFile": "2024-06-30 - North Adams, MA - Joe's Field MASS MoCA (Schoeps MK4V+SP-BMC-12) (jim kelly) [MIX24].txt"
     }
   ],
   "misc": []

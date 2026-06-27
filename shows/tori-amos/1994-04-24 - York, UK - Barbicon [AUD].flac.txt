@@ -1,0 +1,36 @@
+Tori Amos
+April 24, 1994
+York, United Kingdom
+at the Barbican
+
+Source: Cassette from the collection of Wally Breese (cassette insert reads "recorded on D-6, yours is second generation")
+Transfer: Transfer: JVC KD-W5 > Realistic 31-2020 10-band stereo equalizer (tape hiss lowered by lowering 8KHz) > Marantz Stereo Receiver SR940 
+> Line Out/In > Tascam DR-07 > SD Card > Card Slot > Copy wav to HD > CoolEdit Pro (append tracks, amplification, hard limiting) > CDWave (wav splitter) > 
+Wavs > Trader's Little Helper > FLACs
+
+Notes: Some mic shuffling and some pre-ghosting. I removed two small bits of silence that were sandwiched in between song applause. 
+
+Setlist:
+01. Icicle
+02. Crucify
+03. story >
+04. Pretty Good Year
+05. Precious Things
+06. Happy Phantom
+07. story >
+08. Sister Janet
+09. God
+10. Silent All These Years
+11. The Waitress
+12. Bells for Her 
+13. Me and a Gun
+14. Baker Baker
+15. --Encore 1:
+16. Cornflake Girl
+17. Yes, Anastasia 
+18. --Encore 2:
+19. story >
+20. On Saturday Afternoons In 1963
+21. Tear in Your Hand 
+--Encore 3:
+22. Angie

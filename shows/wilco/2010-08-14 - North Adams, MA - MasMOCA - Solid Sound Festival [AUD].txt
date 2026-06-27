@@ -1,0 +1,11 @@
+Wilco
+Solid Sound Festival
+MasMOCA
+North Adams, MA
+8-14-2010
+
+Source: (At the Soundboard) Neumann U89(Sub, DIN, -80Hz)> Grace Design Lunatec V3 + Neumann KM184(DIN)> Grace Design Lunatec V2> (Oade Concert Modified) Endrol R-44 (24/48) on a SDHC card.
+
+Transfer: SDHC Card> Card Reader> PC> Samplitude SE No. 9 (Fade in/out, Merge 2 sources, Resample to 44.1k, and Dither to 16 bit)> CD Wav (Tracked and Converted to Flac @ Level 8).
+
+Recorded by: Ed Guidry (tufflitestudios@yahoo.com)

@@ -1,0 +1,56 @@
+Sigur Ros
+April 11, 2006
+Palais Theatre, Melbourne
+Taper: whatboutbob
+
+Location: DFC, 30 rows back, stealthSource: at853s > Battery box (homebrew 3 wire) > iRiver H120 (rockbox line-in)Conversion: iRiver>USB>Adobe Audition>CDWav 1.94.3>FLAC Frontend 1.7.1 (Level 8)
+
+Tracking: FLAC to WAV using frontend 1.7.1 > tracked/split using CD Wave 1.94.8 > encoded to FLAC using FLAC Frontend 1.7.1 (Level 8)
+(tracking and torrenting done by darren : www.drrnwbb.com/bt/ sigur rós torrents)
+
+
+
+---FEEL FREE TO ENCODE TO LOSSY FORMATS (eg MP3) FOR PERSONAL USE, BUT PLEASE ONLY TRADE LOSSLESS (FLAC) VERSION---
+
+Disc 1:
+01.  Takk [2.43]
+02.  Glósóli [7.03]
+03.  Ný Batterí [9.40]
+04.  Sæglópur [7.42]
+05.  E-bow [9.41]
+06.  Svo hjótt [7.07]
+07.  Heysátan [4.41]
+08.  Olsen Olsen [8.02]
+
+Disc 2:
+01.  Hoppípolla [4.28]
+02.  Með Blóðnasir [2.16]
+03.  Njósnavélin [8.16]
+04.  Viðrar Vel Til Loftárása [10.31]
+05.  Hafsól [9.33]
+06.  Smáskífa [9.00]
+07.  Popplagið [16.03]
+
+
+Concert Total : (116.46)
+
+
+
+--NEVER PAY FOR LIVE AUDIENCE RECORDINGS--
+
+FLAC FINGERPRINTS:============================================================
+SigurRos2006-04-11-d01t01.flac:b88dbe28e1a0a701978af5d8dafd967c
+SigurRos2006-04-11-d01t02.flac:a6d44c1caee64ad5d640baa487401d43
+SigurRos2006-04-11-d01t03.flac:606ad55b0e35780f6679b6cd0a72a65c
+SigurRos2006-04-11-d01t04.flac:882aec6b26ab98d3e55691fc11c5d222
+SigurRos2006-04-11-d01t05.flac:21832d63799a1c091dc7af725e29ae13
+SigurRos2006-04-11-d01t06.flac:fec6d8769708ffe6a07632da5ac6163d
+SigurRos2006-04-11-d01t07.flac:15b1da19084ad2063d96d1336baf0afe
+SigurRos2006-04-11-d01t08.flac:2cdbeae37da59120ae0d446d2a7504b5
+SigurRos2006-04-11-d02t01.flac:34fdfb789951722ce7d692b9c5354fdf
+SigurRos2006-04-11-d02t02.flac:b29659cbcdfd115a1a9d6eaf71546739
+SigurRos2006-04-11-d02t03.flac:a9e7e3f498894833f5a1e3486f9e492f
+SigurRos2006-04-11-d02t04.flac:78b500858488ee353319ee58e329f919
+SigurRos2006-04-11-d02t05.flac:205484ca259e42d78574f680f5c9c2f1
+SigurRos2006-04-11-d02t06.flac:7144bf6d70513e56c644d5275ac2a9fe
+SigurRos2006-04-11-d02t07.flac:839a02157aca383d7d5e260d8dfa885a

@@ -1,0 +1,66 @@
+Wilco
+February 21, 2005
+Ovens Auditorium
+Charlotte, North Carolina
+
+AT 853-H (FOB @ ORCHCR Row V Seat 1, DIN on stand @ 6\') > SD MP-2 > NJB3 (line in @ 44.1kHz) > 
+Notmad Explorer v8.7.0 > CD Wave v1.94.2 beta > Wavelab v4.0c > Flac Frontend v1.7.1
+
+trade CDs > EAC > Wav > Sound Forge Pro 10.0 > TLH > FLAC
+
+
+01 One By One
+02 Hell Is Chrome
+03 I Am Trying To Break Your Heart
+04 The Late Greats
+05 Hummingbird
+06 Muzzle Of Bees
+07 At Least That's What You Said
+08 Jesus, Etc.
+09 Theologians
+10 Poor Places
+11 Remember The Mountain Bed
+12 Handshake Drugs
+13 A Shot In The Arm
+14 Via Chicago
+15 Spiders (Kidsmoke)
+16 I'm The Man Who Loves You
+17 Candyfloss
+18 Political Science
+19 War On War
+20 Kingpin
+21 I'm A Wheel
+22 Outtasite (Outta Mind)
+
+116:15 
+
+
+I've found out that there are many Wilco shows up to ~2005 that have probably never been torrented (at least not since ~2005) 
+but have only been traded, presumably in the last years of traditional trading. Somehow, these shows were forgotten in the first 
+waves of torrenting - or deemed not worthy of digital distribution ... or simply those traders in possesion never made the step to
+torrenting and then stopped trading altogether, like most everybody did.
+I've searched high and low, checked countless old lists and sent a lot of asking mails to ancient email addresses. About half of them
+bounced, another quarter didn't reply - and the ones that did hadn't traded (or stopped collecting) in a long time. But then I
+found two friendly persons, one in Seattle, the other on the East Coast who were willing to share shows with me. Arrangements 
+were made and now I am able to (re-)introduce about two dozen Wilco and Jeff Tweedy shows to you.
+I have not yet listened to all, most need some work. I guess many of the original CDs are flawed by now, but apart of some
+occasional odd digi scratches, everything can be rescued or restored, it'll take some time, please be patient.
+
+
+notes to the 2018 edition:
+February 21, 2005, Charlotte, North Carolina
+AT 853-H (FOB @ ORCHCR Row V Seat 1, DIN on stand @ 6\') > SD MP-2 > NJB3 (line in @ 44.1kHz) > 
+Notmad Explorer v8.7.0 > CD Wave v1.94.2 beta > Wavelab v4.0c > Flac Frontend v1.7.1 > trade CDs > EAC > Wav > Sound Forge Pro 10.0 > TLH > FLAC
+
+Angered by a shouted song request during the very last line of 'Remember The Mountain Bed', Jeff lectures that particular person and, from there on, 
+is in his best rant mode, epecially after 'Mountain Bed', but also after 'Spiders'. Hilarious and not for the faint-hearted.
+I chose to patch the originally separated banter tracks onto the preceeding ones. See original info file. 
+Almost no digital flaws, all repaired. Some occasional light clipping, just recorded a bit hot, but very good.
+I re-joined the two CDs. Thanks Rob.
+
+[2018-05-10]
+
+
+Respect the Artists
+Never sell - for trade only
+Please do not encode to lossy formats

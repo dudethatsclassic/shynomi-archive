@@ -1,0 +1,39 @@
+The Swell Season
+
+feat. Glen Hansard/Marketa Irglova
+
+Divadlo Archa, Prague, Czech Republic
+2008-06-08
+
+Source: Radio1
+Transfer: ether > Technics ST-GT650 > Zoom H2 LineIn WAV@48kHz/24bit > SoX* > CDWave cue & foobar2k split > FLAC 
+*sox in.wav -b 16 out.wav gain 3 rate -v -a 44.1k dither -s
+
+
+Setlist:
+00 Say It to Me Now [not aired]
+01 All The Way Down
+02 Lies
+03 The Moon
+04 When Your Mind's Made Up
+05 God Bless Mom
+06 I Have Loved You Wrong
+07 Falling Slowly
+08 Leave
+09 What Happens When The Heart Just Stops
+10 Astral Weeks (Van Morrison)
+11 Gently Johnny
+12 True
+13 Suspicious Minds (Elvis Presley)
+14 Your Face
+15 Go With Happiness
+16 Once
+17 If You Want Me
+18 -talk-
+19 Blue Shoes (Colm)
+20 Fitzcarraldo
+21 Star Star (Will Oldham)
+22 Forever Young (Bob Dylan)
+
+
+http://glenhansardlive.blogspot.com

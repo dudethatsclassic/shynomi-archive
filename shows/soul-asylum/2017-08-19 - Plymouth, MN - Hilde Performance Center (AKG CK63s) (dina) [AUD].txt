@@ -1,0 +1,42 @@
+Soul Asylum
+Hilde Performance Center
+Plymouth, MN
+2017-08-19 (August 19th, 2017)
+
+source: AKG ck63's > Nbob colletes > Naint PFA > Tascam DR680 @ 24bit-48k
+location: just right of the SBD, mics about 8ft^ 
+mic config: DINa
+
+1. Tuning/etc
+2. 99%
+3. Shutdown
+4. Just Like Anyone
+5. Misery -> Silly Love Songs
+6. Spinnin'
+7. Lately
+8. Bus Named Desire
+9. Whatcha Need
+10. Crazy Mixed Up World
+11. Supersonic
+12. Cool
+13. Somebody To Shove
+14. Black Gold
+15. Runaway Train
+16. Summer Of Drugs
+17. Don't Bother Me
+18. Doomsday
+19. Stand Up And Be Strong (with Chris Osgood on acoustic gtr)
+20. Crowd noise
+Encore #1
+21. Leave Without A Trace
+22. Leave My Town
+23. Crowd noise
+Encore #2
+24. April Fool
+
+editing notes:
+Pro Tools 12 for some EQ
+Sound Forge used to to lower any peaks, raise overall levels some and for fade in/outs
+R8Brain used to dither to 44k-16bit
+CDWAV used to split the tracks
+Shntool used to verify/correct Sector Boundaries

@@ -1,0 +1,33 @@
+John Mayer
+Colonial Center
+Columbia, SC
+Thursday February 8, 2007
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA4023 > Oade M148 > Sound Devices 722 @ 24/96
+Location:	Sec FC Row 19 Seat 11+12, 19th row center
+
+WAV > FLAC:	.wav @ 24/96 > CD-WAV/FLAC frontend v1.7.1 > .flac
+
+01: Intro					-	01:00.533
+02: Belief					-	05:56.733
+03: Good Love Is On The Way			-	04:38.000
+04: Why Georgia					-	05:41.733
+05: Slow Dancing In A Burning Room		-	06:17.400
+06: Clarity					-	06:22.866
+07: Vultures					-	08:27.733
+08: Bigger Than My Body				-	05:12.000
+09: I Don't Trust Myself (With Loving You)	-	06:19.000
+10: Intro >					-	01:26.533
+11: No Such Thing				-	04:37.466
+12: Waiting On The World To Change		-	03:58.000
+13: Intro >					-	02:20.266
+14: Gravity					-	12:10.533
+15: Who Did You Think I Was			-	04:22.000
+16: Your Body Is A Wonderland			-	04:25.200
+17: Covered In Rain				-	04:13.000
+18: Neon					-	07:12.000
+
+Total:						-	94:41.000
+
+compiled by George Wang on 02-10-2007

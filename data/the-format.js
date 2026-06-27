@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "notes": "MS-CMC-25 · sedgewick1",
+      "notes": "MS-CMC-25 \u00b7 sedgewick1",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-09-30 - New York, NY - Beacon Theatre (MS-CMC-25) (sedgewick1) [AUD24].txt"
     }
   ],
   "misc": []

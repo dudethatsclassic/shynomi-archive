@@ -1,0 +1,66 @@
+Keane - Shepherd's Bush Empire, London, UK
+Date: 2024-02-20
+
+Source: MT350 Omni-directional microphones > Roland R-05 (24bit/44.1kHz)
+Transfer: Roland R-05 > SanDisk 16GB SDHC Card > Audacity (fade in, volume boost, fade out > dithered to 16bit/44.1kHz) > FLAC
+Location: Centre, approximately 10m from the stage
+
+Recorded, transferred, and FLAC'd by: Pieteker
+Duration: 91 minutes and 26 seconds
+
+01. Can't Stop Now
+02. Bend and Break
+03. Silenced by the Night
+04. We Might as Well Be Strangers
+05. Spiralling
+06. The Way I Feel
+07. Your Eyes Open
+08. Disconnected
+09. Is It Any Wonder?
+10. Nothing in My Way
+11. Bedshaped
+12. This Is the Last Time
+13. A Bad Dream
+14. Everybody's Changing
+15. Somewhere Only We Know
+
+Encore:
+
+16. The Night Sky
+17. Neon River
+18. Crystal Ball
+19. Sovereign Light Café 
+
+Notes:
+Great gig by an amazing band! I tried to record the entire show using three different sources, but unfortunately, my primary recorder stopped right after the first set. Thankfully, my backup recorder captured the entire performance, although I was a bit disappointed about the technical hiccup. While the recording could have been better, it's still an enjoyable listen. Apologies for the boomy bass and the loud crowd, but they were really into it tonight (and who can blame them?).
+
+Artists:
+Tom Chaplin - Vocals
+Tim Rice-Oxley - Piano
+Richard Hughes - Drums
+Jesse Quin - Bass
+
+FLAC Fingerprints: 
+01 Can't Stop Now.flac:d93abd7e4d6d0803d622796e7c791193
+02 Bend And Break.flac:31910520ef49db6ee90b51fa0554f0cb
+03 Silenced By The Night.flac:e348aa1ddf4c7a71cf96eb629f65ae67
+04 We Might As Well Be Strangers.flac:ba2f71c155059561471054ae8335a717
+05 Spiralling.flac:204e8023785ea248469bd6f585d3c7b2
+06 The Way I Feel.flac:d4d00e7c726ca7acafd84e331356495f
+07 Your Eyes Open.flac:f29f39e290f47cb47f5796a6ea052315
+08 Disconnected.flac:49d03782c8224dc9595390adb67a389d
+09 Is It Any Wonder?.flac:c33928b97fe5302dea46cd79073ee391
+10 Nothing In My Way.flac:66fcbbecf1e00da8141db24042473e79
+11 Bedshaped.flac:c5a9dc484f9c49613bc4756c86312bb0
+12 This Is The Last Time.flac:9dc3e929ceeae63eefbfe82eabcf1099
+13 A Bad Dream.flac:9e713eea6042121668ec3f1404e7ddba
+14 Everybody's Changing.flac:e5a074befeb79daca02113a69470e503
+15 Somewhere Only We Know.flac:55139c5edb02c7542a10a2cd74e59dbb
+16 The Night Sky.flac:e7f734ce7d6fb5a38587043f0e111f5c
+17 Neon River.flac:547e509c5b5962f59065d1ad15439521
+18 Crystal Ball.flac:4cf1a04d1cf1622840009e99e8c335a7
+19 Sovereign Light Café.flac:30c769bc1bb6cba705a1e0205c9a7bea
+
+** PLEASE FEEL FREE TO TRADE THIS SHOW IN ANY FORMAT YOU LIKE **
+** PLEASE DO NOT PROFIT FROM THIS RECORDING **
+

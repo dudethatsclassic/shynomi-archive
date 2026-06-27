@@ -1,0 +1,44 @@
+SIGUR ROS
+November 1, 2002
+Beacon Theater, NYC, NY
+
+Source: audience
+Lineage: Core Sound Binaurals> Sony DAT D8> SBLive>WavLab>CDWave>Flac Frontend
+Taper: PT
+Transferred by: newspaper
+
+Disc One
+1- vaka
+2- fyrsta
+3- samskeyti
+4- salka
+5- nybattery
+6- njosnavelin
+7- svefn
+
+Disc Two
+1- milano
+2- hafsol
+3- olsen
+4- pop
+5- (applause)
+
+jón þor (jónsi) birgisson (vocals, guitars), 
+kjartan (kjarri) sveinsson (keyboards), 
+orri páll dýrason (drums) 
+georg (goggi) holm (bass). 
+
+backed by a string quartet
+
+SigurRos2002-11-1-D2T05.flac:0462e55f7d6980a4da3519a9f1274547
+SigurRos2002-11-1-D1T02.flac:bc865d7b71f1517940fa5d53139fedbf
+SigurRos2002-11-1-D1T03.flac:581aa83b41450dd0d4883e9167c7dc88
+SigurRos2002-11-1-D1T04.flac:11a4908a8c3660b495c5cd400ef9de93
+SigurRos2002-11-1-D1T05.flac:d4080d6b67653d46fc5ce2b6b2473d83
+SigurRos2002-11-1-D1T06.flac:735bf76a179222dff711fbf0a5b8efa5
+SigurRos2002-11-1-D1T07.flac:392dc460022f68beead46cf0ad71b67c
+SigurRos2002-11-1-D2T01.flac:39b1807319567670d666ccebb979001d
+SigurRos2002-11-1-D2T02.flac:f8d039797105baf74974dc3adf8f9cc3
+SigurRos2002-11-1-D2T03.flac:1dedb7898389613703b7fbf1fb8fa507
+SigurRos2002-11-1-D2T04.flac:0c9011199478b09ce10c4f72f5609d96
+SigurRos2002-11-1-D1T01.flac:70e4fd0a377e5336f93c745f619058d0

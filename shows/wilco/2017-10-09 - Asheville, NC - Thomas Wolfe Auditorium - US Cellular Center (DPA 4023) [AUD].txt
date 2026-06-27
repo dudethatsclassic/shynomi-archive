@@ -1,0 +1,53 @@
+Wilco
+US Cellular Center
+Thomas Wolfe Auditorium
+Asheville, NC
+Monday October 9, 2017
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		(DPA 4023 + DPA 4028) > Sound Devices MixPre-6 @ 24/48
+Location:	Orchestra Center Row C Seat 1, 6th row center
+
+WAV > FLAC:	.wav @ 24/48 > Audacity 2.1.2 (dither to 16/44.1)
+
+Disc One:
+
+01: Intro				-	00:24.20
+02: You Are My Face			-	05:02.00
+03: Cry All Day				-	04:30.00
+04: I Am Trying To Break Your Heart	-	05:23.20
+05: Art Of Almost			-	07:23.35
+06: Pickled Ginger			-	02:41.20
+07: At Least That's What You Said	-	05:43.00
+08: If I Ever Was A Child		-	03:12.40
+09: Misunderstood			-	04:20.35
+10: Someone To Lose			-	04:16.20
+11: Handshake Drugs			-	05:56.00
+12: Side With The Seeds			-	05:08.55
+13: Via Chicago				-	05:40.00
+14: Bull Black Nova			-	06:17.55
+15: Reservations			-	04:01.00
+
+Total:					-	70:00.00
+
+Disc Two:
+
+01: Impossible Germany			-	08:29.20
+02: Forget The Flowers			-	03:15.55
+03: California Stars			-	07:29.55
+04: Box Full Of Letters			-	03:30.40
+05: I’m Always In Love			-	04:49.00
+06: Heavy Metal Drummer			-	03:04.20
+07: I’m The Man Who Loves You		-	04:44.15
+08: Hummingbird				-	05:50.00
+09: Random Name Generator		-	05:24.55
+10: Jesus, Etc.				-	05:40.30
+11: Hate It Here			-	04:31.65
+12: Monday				-	03:56.55
+13: Outtasite (Outta Mind)		-	04:56.20
+14: The Waiting				-	04:27.55
+15: The Late Greats			-	03:50.00
+
+Total:					-	74:00.00
+
+compiled by George Wang on 10-20-2017

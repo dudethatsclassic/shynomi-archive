@@ -22,7 +22,8 @@ const ARTIST_DATA = {
       "venue": "Coachella Festival",
       "notes": "1080p",
       "version": "Webcast",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2015-04-10 - Indio, CA - Coachella Festival (1080p) [WEBCAST].txt"
     },
     {
       "year": 2021,
@@ -33,9 +34,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Douglass Park",
-      "notes": "Riot · AT853s · tj",
+      "notes": "Riot \u00b7 AT853s \u00b7 tj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-09-17 - Chicago, IL - Douglass Park - Riot Festival (AT853s) (tj) [AUD].txt"
     },
     {
       "year": 2022,
@@ -46,9 +48,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "August Hall (Anthony Green)",
-      "notes": "DAT(M) · SP-CMC-4U · loughney",
+      "notes": "DAT(M) \u00b7 SP-CMC-4U \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-24 - San Francisco, CA - August Hall (Anthony Green) - DAT(M) (SP-CMC-4U) (loughney) [AUD].txt"
     }
   ],
   "misc": []

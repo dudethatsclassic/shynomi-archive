@@ -1,0 +1,60 @@
+Dave Matthews Band
+11.17.92
+Trax, Charlottesville, VA
+
+
+Source:  SBD > Anlg (Unknown Gen.) > CD
+Conversion:  Optimus SCT-86 > AudioSrouce EQ 100 > Pioneer PDR-555RW [Eric Naylor]
+SHN:  Chris Manichanh [chris_83_01@yahoo.com] EAC v0.9pb7 > MKW Audio Compression Tool
+
+
+**DO NOT COMPRESS THIS SHOW INTO MP3 FORMAT**
+
+
+track           name                                        time (m:s)
+----------------------------------------------------------------------
+d1t01           [Set 1]Granny *                             03:48.97
+d1t02           Cry Freedom **                              04:21.13
+d1t03           Recently *                                  03:44.93
+d1t04           Pay for What You Get ***                    04:16.84
+d1t05           Halloween                                   06:52.52
+d1t06           Typical Situation                           08:38.92
+d1t07           Jimi Thing                                  10:42.53
+d1t08           The Song That Jane Likes                    03:14.14
+d1t09           Lie in Our Graves                           04:25.36
+d1t10           Help Myself                                 05:03.20
+ total 55:08.5
+
+d2t01           Satellite                                   05.25.66
+d2t02           Tripping Billies                            04:10.33
+d2t03           Lover Lay Down                              08:12.84
+d2t04           One Sweet World                             04:43.45
+d2t05           [Set 2] Granny *                            03:18.06
+d2t06           I'll Back You Up *                          04:39.17
+d2t07           Warehouse                                   07:55.25
+d2t08           Angel from Montgomery                       05:27.98
+d2t09           True Reflections #                          05:21.21
+ total 49:13.9
+
+d3t01           Me & Julio down by the Schoolyard           05:32.01  
+d3t02           Two Step                                    11:17.34
+d3t03           Minarets >                                  05:57.60
+d3t04           Blue Water                                  10:09.01
+d3t05           E: So Much to Say                           06:28.17
+d3t06           E: Ants Marching                            04:56.49
+ total 44:20.6
+----------------------------------------------------------------------
+
+
+Notes:
+* Dave Matthews solo
+** Dave Matthews and Peter Griesar
+*** Dave Matthews and Carter Beauford
+# the end of this song is cut off
+
+This conversion was done as a request.  It is a fairly rare show with no know digital copies in existance, which is why I put the work into converting it.  The sound isn't fantastic, but the hiss is definitely tolerable.
+
+
+Compiled by Eric Naylor
+dmbtrade@hotmail.com
+3/14/00

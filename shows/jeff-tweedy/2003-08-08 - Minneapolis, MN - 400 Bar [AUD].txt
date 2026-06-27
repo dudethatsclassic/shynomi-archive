@@ -1,0 +1,20 @@
+Jeff Tweedy
+400 Bar
+Minneapolis, MN
+August 8th, 2003
+
+Recorded by norma023
+
+source: Dat Audience -> SP-CMC-7 (stereo cardioids) > SP-SPSB-1 > Sony TCD-D7
+transfer: D7(m) > 7 pin-Coax > Pioneer stand alone
+conversion: cdr(m) > EAC (Secure Mode w/Offsets) > CDWAV > SHN
+Sector Boudaries verified with Shntool
+
+Jeff Tweedy (solo and with guests)
+1. Late Greats
+2. I'm the Man Who Loves You
+3. Rhythm (aka Cars Can't Escape) w/Jessy
+4. Box Full of Letters 
+5. Be Not So Fearful (Bill Fay cover) w/Jessy
+6. Pecan Pie w/Kraig Johnson and Dan Murphy helping out
+7. The Lonely One w/Jessy

@@ -1,0 +1,52 @@
+
+K's Choice
+
+30 Years Of K's Choice Tour 2023
+OLT Rivierenhof, Deurne, Belgium
+August 22, 2023
+
+Taper: stl 
+
+
+Lineage: DPA4061 Core Omnis w/Softboost Grid -> DPA D:VICE MMA-A (low cut filter -80hz) -> iPhone 12 mini (96/24) -> iZotope RX10 (Declick/Azimuth/Music Rebalance to reduce audience noise - Ozone 11 EQ/Clarity/Dynamics/Maximizer - Resample 44/16) -> FLAC -> xACT (FFP/SBE/Tags)
+
+Position: FOB mid stage
+
+Tracks: 
+
+01 - Intro 1:39
+02 - Everything For Free 4:01
+03 - Bag Full Of Concrete 4:01
+04 - Perfect Scar 3:19
+05 - Almost Happy 4:38
+06 - If This Isn't Right 3:30
+07 - Come Live The Life 4:51
+08 - Time Is A Parasite 3:12
+09 - Echo Mountain 4:35
+10 - Not An Addict 6:37
+11 - God In My Bed 2:49
+12 - Surrender 3:51
+13 - The Phantom Cowboy 4:37
+14 - Woman 3:13
+15 - God In My Bed 3:58
+16 - Brother (*) 4:16
+17 - I Was Wrong About Everything 3:10
+18 - Believe 3:42
+19 - I Will Carry You 4:27
+20 - Encore Break (**) 2:29
+21 - Another Year 4:01
+22 - We Are The Universe 3:25
+23 - Sam Talking 1:02
+24 - We Are Glaciers 6:09
+25 - Outro 0:58
+
+Total 01:32:43
+
+(*) 1 second cut from outro applause due to loud cough
+(**) w/intro speech after encore break, 1 sec variation in quality due to defective mic cable
+
+Comments: 
+
+As good as the night before at the same location; excellent show. Recorded from the same spot, less people talking, but an older screamer in front of me (mostly between songs). Another very good recording.
+
+Published under the following license: WTFPL – Do What the Fuck You Want to Public License (www.wtfpl.net) - but remember: if you try to make money with my recordings, you lose your karma.

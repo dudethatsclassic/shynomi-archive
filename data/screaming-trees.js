@@ -26,7 +26,8 @@ const ARTIST_DATA = {
       "venue": "Hal Holmes Community Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1987-02-06 - Ellensburg, WA - Hal Holmes Community Center (unk) [AUD].txt"
     },
     {
       "year": 1987,
@@ -37,9 +38,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Long Beach, CA",
       "venue": "Bogart's",
-      "notes": "Sony D3 · db",
+      "notes": "Sony D3 \u00b7 db",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1987-10-14 - Long Beach, CA - Bogart's (Sony D3) (db) [AUD].txt"
     },
     {
       "year": 1987,
@@ -52,7 +54,8 @@ const ARTIST_DATA = {
       "venue": "KXLU Los Angeles",
       "notes": "Splat",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1987-10-18 - Los Angeles, CA - KXLU Los Angeles - Splat Winger's Brain Cookies Show [FM].txt"
     },
     {
       "year": 1987,
@@ -65,7 +68,8 @@ const ARTIST_DATA = {
       "venue": "UCSD Gym Steps",
       "notes": "m2 FM upgrade",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1987-11-17 - San Diego, CA - UCSD Gym Steps (m2 FM upgrade) [FM].txt"
     },
     {
       "year": 1989,
@@ -76,9 +80,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Schwenningen, Germany",
       "venue": "Bourdon's",
-      "notes": "ANA(M) · urschrei",
+      "notes": "ANA(M) \u00b7 urschrei",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-02-05 - Schwenningen, Germany - Bourdon's - ANA(M) (urschrei) [AUD].txt"
     },
     {
       "year": 1989,
@@ -89,9 +94,10 @@ const ARTIST_DATA = {
       "state": "West Germany",
       "location": "Duisburg, West Germany",
       "venue": "Old Daddy",
-      "notes": "inc · bobfather",
+      "notes": "inc \u00b7 bobfather",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-02-07 - Duisburg, West Germany - Old Daddy (inc) (bobfather) [AUD].txt"
     },
     {
       "year": 1990,
@@ -102,9 +108,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Oldenburg, Germany",
       "venue": "Alhambra",
-      "notes": "Sony WM-D3 · stadthfelder",
+      "notes": "Sony WM-D3 \u00b7 stadthfelder",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-03-04 - Oldenburg, Germany - Alhambra (Sony WM-D3) (stadthfelder) [AUD].txt"
     },
     {
       "year": 1992,
@@ -115,9 +122,10 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "msterdam, NL",
       "venue": "Melkweg",
-      "notes": "ANA(M) · Audio Technica mics · unk",
+      "notes": "ANA(M) \u00b7 Audio Technica mics \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-06-23 - Amsterdam, NL - Melkweg - ANA(M) (Audio Technica mics) (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -130,7 +138,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1992-08-30 - Reading, England - Reading Festival - VHS(1) [DVD].txt"
     },
     {
       "year": 1992,
@@ -143,7 +152,8 @@ const ARTIST_DATA = {
       "venue": "Bogarts *Winter Song",
       "notes": "HAWK",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-11-17 - Long Beach, CA - Bogarts - Winter Song (HAWK) [Silver].txt"
     },
     {
       "year": 1993,
@@ -156,7 +166,8 @@ const ARTIST_DATA = {
       "venue": "Radiohuset-Studio 4",
       "notes": "magnus gusrafsson",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-02-08 - Stockholm, Sweden - Studio 4 - Radiohuset (magnus gustafsson) [FM].txt"
     },
     {
       "year": 1993,
@@ -169,7 +180,8 @@ const ARTIST_DATA = {
       "venue": "Vara Studios",
       "notes": "Unplugged",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-02-21 - Hilversum, The Netherlands - Vara Studios (Unplugged) [FM].txt"
     },
     {
       "year": 1993,
@@ -182,7 +194,8 @@ const ARTIST_DATA = {
       "venue": "The Coach House",
       "notes": "Westwood One Broadcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-03-29 - San Juan Capistrano, CA - The Coach House [FM].txt"
     },
     {
       "year": 1993,
@@ -193,9 +206,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Skytop Field",
-      "notes": "ANA(M) · Aiwa J505 · smores",
+      "notes": "ANA(M) \u00b7 Aiwa J505 \u00b7 smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-04-24 - Syracuse, NY - Skytop Field - ANA(M) (Aiwa J505) (smores) [AUD].txt"
     },
     {
       "year": 1993,
@@ -208,7 +222,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-06-11 - Birmingham, AL - Oak Mountain Amphitheatre - Screaming Trees Live! (Home Records) [SIlver].txt"
     },
     {
       "year": 1993,
@@ -219,9 +234,10 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Pelham, AL",
       "venue": "Oak Mountain Amphitheatre",
-      "notes": "DAT(M) · CSB · willy sales",
+      "notes": "DAT(M) \u00b7 CSB \u00b7 willy sales",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-06-11 - Pelham, AL - Oak Mountain Amphitheatre - DAT(M) (CSB) (willy sales) [AUD].txt"
     },
     {
       "year": 1993,
@@ -232,9 +248,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Bayfront Park Amphitheatre",
-      "notes": "DAT(M) · SS-DSM6P · datfly",
+      "notes": "DAT(M) \u00b7 SS-DSM6P \u00b7 datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-06-15 - Miami, FL - Bayfront Park Amphitheatre - DAT(M) (SS-DSM6P) (datfly) [AUD].txt"
     },
     {
       "year": 1996,
@@ -258,9 +275,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Syracuse NY",
       "venue": "State Fairgrounds",
-      "notes": "Sony D7 DAT · steve hagar",
+      "notes": "Sony D7 DAT \u00b7 steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-13 - Syracuse NY - State Fairgrounds (Sony D7 DAT) (steve hagar) [AUD].txt"
     },
     {
       "year": 1996,
@@ -271,9 +289,10 @@ const ARTIST_DATA = {
       "state": "WV",
       "location": "Charles Town, WV",
       "venue": "Charles Town Raceway",
-      "notes": "Lollapalooza · Sony D7 DAT · steve hagar",
+      "notes": "Lollapalooza \u00b7 Sony D7 DAT \u00b7 steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-16 - Charles Town, WV - Charles Town Raceway - Lollapalooza (Sony D7 DAT) (steve hagar) [AUD].txt"
     },
     {
       "year": 1996,
@@ -284,7 +303,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "Spartan Stadium",
-      "notes": "Lollapalooza · unk · neekrive",
+      "notes": "Lollapalooza \u00b7 unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -297,9 +316,10 @@ const ARTIST_DATA = {
       "state": "Holland",
       "location": "Amsterdam, Holland",
       "venue": "Paradiso",
-      "notes": "VPRO · hanwaker transfer",
+      "notes": "VPRO \u00b7 hanwaker transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-16 - Amsterdam, Holland - Paradiso (VPRO) (hanwaker transfer) [FM].txt"
     },
     {
       "year": 1998,
@@ -312,7 +332,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-09-07 - Seattle, WA - Bumbershoot & Beyond - DAT(M) (NAK 700s) (jems) + July 1998 Demos [AUD].txt"
     },
     {
       "year": 1998,
@@ -323,9 +344,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Roxy",
-      "notes": "DAT(M) · Sony ECM-737 · tapegeek",
+      "notes": "DAT(M) \u00b7 Sony ECM-737 \u00b7 tapegeek",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-09-12 - Los Angeles, CA - The Roxy - DAT(M) (Sony ECM-737) (tapegeek) [AUD].txt"
     }
   ],
   "misc": [

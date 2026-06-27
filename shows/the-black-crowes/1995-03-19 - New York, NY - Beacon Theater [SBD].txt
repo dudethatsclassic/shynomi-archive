@@ -1,0 +1,78 @@
+Artist: The Black Crowes
+
+Date: March 19, 1995
+
+Venue: Beacon Theatre. New York, New York
+	    
+Source: Soundboard
+
+Lineage: DAT > CDr > EAC (secure) > WAV > Traders Little Helper > FLAC [level 8]
+
+001 Intro
+002 My Morning Song
+003 Twice as Hard
+004 High Head Blues
+005 Exit
+006 Thorn's Progress Jam > 
+007 Thorn in My Pride
+008 Ballad in Urgency
+009 Wiser Time
+010 Sting Me
+011 No Speak No Slave
+012 Title Song
+013 Hotel Illness >
+014 Stare it Cold
+015 Jealous Again
+016 Hard to Handle (a)
+017 Seeing Things (b)
+018 She Gave Good Sunflower (b)
+
+(a) with The Dirty Dozen Brass Band
+(b) encore
+
+Notes: "Shake Your Money Maker" and "Remedy" were performed as part of the encore but are most likely on another DAT tape.
+
+This is a 24-Track SBD recording made by the Record Plant mobile unit for the live album that never materialized.
+
+I removed a micro-gap between tracks 008 and 009 with Cool Edit Pro v2.0 and retracked the entire show with CD Wave v1.98
+
+ffp:
+bc1995-03-19t01.flac:2e7af1015adc3e3074a59a811dc9ef48
+bc1995-03-19t02.flac:c9a97f7a6ed96f967b85e739ecbaece7
+bc1995-03-19t03.flac:26ae333cb46a1a1bd9ef2bf57633ea7f
+bc1995-03-19t04.flac:eefe381cf650746c15258ce530a5a979
+bc1995-03-19t05.flac:b6096e3ef34c2aed759f086f405c82ea
+bc1995-03-19t06.flac:7e3b9c0751d2228da5aaeee27603cac7
+bc1995-03-19t07.flac:8270f7f780f0f04012b013eda73cdd1f
+bc1995-03-19t08.flac:03bb1370b6d675b6051190a9332509ba
+bc1995-03-19t09.flac:3da521aa26431fbd5070eca7f902831f
+bc1995-03-19t10.flac:85b26d43873e310f0b1fb6609a19e155
+bc1995-03-19t11.flac:14789e8711acddb0d2b7d5e441a95a98
+bc1995-03-19t12.flac:c5ae3f26ef0f1da7d257d00acb9f39c2
+bc1995-03-19t13.flac:744c57cec9a800fefd28d6248c75dd6c
+bc1995-03-19t14.flac:ec27e4027b5fb92416ef5a52f8356963
+bc1995-03-19t15.flac:40939c638226476c7f0865d9babd7f03
+bc1995-03-19t16.flac:ddce0b1f94e1acef8ba1bd2b289e9707
+bc1995-03-19t17.flac:f870020f1ccd4bb21b81183488320310
+bc1995-03-19t18.flac:ec5cc55b21088007a2d1395d49ead03c
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+       2:07.71         22569836 B   ---   --   ---xx   flac  0.3923  bc1995-03-19t01.flac
+     10:51.13       114867020 B   ---   --   ---xx   flac  0.6172  bc1995-03-19t02.flac
+       5:11.33         54938060 B   ---   --   ---xx   flac  0.6241  bc1995-03-19t03.flac
+       8:10.10         86459564 B   ---   --   ---xx   flac  0.6067  bc1995-03-19t04.flac
+       6:48.50         72088844 B   ---   --   ---xx   flac  0.6165  bc1995-03-19t05.flac
+       5:45.00         60858044 B   ---   --   ---xx   flac  0.5935  bc1995-03-19t06.flac
+     12:46.08       135141260 B   ---   --   ---xx   flac  0.5940  bc1995-03-19t07.flac
+       8:48.43         93240380 B   ---   --   ---xx   flac  0.5168  bc1995-03-19t08.flac
+       7:40.18         81186380 B   ---   --   ---xx   flac  0.5973  bc1995-03-19t09.flac
+       5:10.15         54719324 B   ---   --   ---xx   flac  0.6155  bc1995-03-19t10.flac
+       6:16.70         66491084 B   ---   --   ---xx   flac  0.5882  bc1995-03-19t11.flac
+       8:10.69         86598332 B   ---   --   ---xx   flac  0.5546  bc1995-03-19t12.flac
+       3:43.15         39372524 B   ---   --   ---xx   flac  0.6176  bc1995-03-19t13.flac
+       4:59.66         52898876 B   ---   --   ---xx   flac  0.6363  bc1995-03-19t14.flac
+       6:03.06         64047356 B   ---   --   ---xx   flac  0.5719  bc1995-03-19t15.flac
+       5:09.68         54667580 B   ---   --   ---xx   flac  0.5779  bc1995-03-19t16.flac
+       6:59.39         74003372 B   ---   --   ---xx   flac  0.5425  bc1995-03-19t17.flac
+       6:21.47         67318716 B  -b-   --   ---xx   flac  0.6150  bc1995-03-19t18.flac
+   121:04.41     1281466552 B                                0.5873  (18 files)

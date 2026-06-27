@@ -1,0 +1,64 @@
+Garbage
+July 1st, 2023.
+Riverbend Music Center - Cincinnati, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   section 100, row L, seat 104; mics mounted on baseball hat brim.
+            (see chart here: http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch6/14490s_a.gif)
+Source:     CA-14 Cardioids > CA-9200 > Sony PCM-A10 (24 bit @48kHz) >
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Sony PCM-A10 > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (1:06:33)
+
+01. Supervixen					4:16
+02. #1 Crush					4:52
+03. The Men Who Rule The World			4:30
+04. Run Baby Run				6:59
+05. Special					3:55
+06. Wolves					4:08
+07. Beloved Freak				4:22
+08. Bleed Like Me				4:29
+09. Cities In Dust *				4:17
+10. I Think I'm Paranoid			3:47
+11. Stupid Girl					4:24
+12. Push It					4:34
+13. No Gods No Masters				3:43
+14. Only Happy When It Rains			4:46
+15. Cherry Lips (Go Baby Go!)			3:30
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+* = Originally Recorded By Siouxsie and the Banshees.
+
+This may have been one of the most sparsely attended shows I have ever seen
+in an outdoor pavilion. Taylor Swift was headlining 2 sold out nights at
+Paycor Stadium 10 minutes down the road, but I dont believe that to be the
+reason for the attendance issues. Riverbend can hold 20k+ people and this did
+not come close to half. There was barely anyone on the lawn. I do believe they
+were letting those holding lawn tickets into the rear of the pavilion. I
+purchased my ticket during a presale and paid full price to be up front for
+good sound in section 100. Those ticket prices did not change. However, all
+of the sections behind the front 3 were offered as BOGO's, Groupons and were
+all heavily discounted on TM leading up to the show. I really think this tour
+should have been placed in larger theaters instead of these gigantic outdoor
+summer sheds. Cincinnati was not the only city, this was across the tour. I
+had heard from a friend Detroit's was even worse. The good news? With so few
+people in attendance, I had little to no distractions with the recording. I
+did have some whistlers in the area in between songs and corrected those in
+iZotope RX 7. The sound gets slightly better during "#1 Crush", just needed
+to be properly dialed in. Out of all 3 sets that night, Garbage sounded the
+best. Their FOH seems to always know what they're doing whenever I go to see
+them. Great show, excellent setlist. What a treat it is getting to hear their
+Siouxsie and the Banshees cover this tour. That will probably get the most
+repeat listens from me. Turn it up!
+
+Co-headliner with Noel Gallagher's High Flying Birds. Metric opened [both recorded].
+
+---------------------------------------------------------------------------------------------------------
+For more information on Garbage, please visit:
+
+http://garbage.com/

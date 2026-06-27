@@ -1,0 +1,93 @@
+*Always include this source file when sharing further*
+*All musicial loveliness within is credited to its creators and performers*
+*Support the artists when able*
+http://www.sigur-ros.co.uk
+
+Sigur Rós
+UIC Pavilion
+Chicago, Illinois, USA
+2013-04-02
+2059-2255
+
+Taper
+Jon G.
+
+Location
+Section 109 LoC
+
+Lineage/Source
+> Church Audio CA-14c (Hat-mount, 6" spacing)
+> Church Audio CA-9100 v4.0
+> CtG 1/8" TRS interconnect
+> Edirol Roland R-09HR v3.00 (Line-in, unity gain, 24-bit/96kHz WAV)
+> 8GB SanDisk Ultra II SDHC
+> Transfer to PC with SD reader
+> TLH 2.7.0.172 (FLAC Lvl. 8, FFP)
+> CD Wave 1.98 (Tracking, exported as 24-bit/96kHz WAV)
+> Sony Sound Forge 10.0c (Amplification, channels balanced, equalisation, light compression, fades, dithered/resamples/saved as 16-bit/44.1kHz WAV)
+> TLH 2.7.0.172 (FLAC Lvl. 8, FFP)
+> Foobar2000 1.1.14a (Tagging)
+
+Sigur Rós this night was:
+Jón Þór Birgisson - Lead Vocals, guitar, keyboard
+Ólafur Björn Ólafsso - Keyboard, piano
+Kjartan Dagur Hól - Guitar
+Georg Hólm - Bass guitar, backing vocals
+Orri Páll Dýrason - Drums
+Six un-named members of the string and horn section (Help with names, please!)
+
+Play Time - 01:55:59
+Yfirborð
+Ný batterí
+Hrafntinna
+Untitled #1 (Vaka)
+Sé lest^ > Sæglópur
+Fljótavík
+Untitled #6 (E-Bow)
+Varúð
+Hoppípolla
+Með blóðnasir
+Kveikur
+Olsen Olsen
+Festival
+Brennisteinn
+Glósóli
+Untitled #8 (Popplagið)
+
+^ Only the last thirty seconds or so with a smooth segue
+
+Notes
+Though I was able to see Jónsi's solo material several times in 2010, this is the
+first time seeing Sigur Rós for me. As highly energetic as those shows were, this was
+emotional. A very beautiful performance and one I'm glad I was able to attend and
+capture.
+
+I'm not quite sure what to make of Oneohtrix Point Never, though, as most of
+the time his music was rather difficult to follow and lacking in any sort of energy,
+in my opinion. Most everyone else seemed to be of a similar mind.
+
+The show was immensely enjoyable, and of particular note was the stage setup. An enour-
+mous projection screen formed the backdrop of the stage on which a mix of live footage,
+official videos, and animations/videos created specifically for this tour were shown.
+Additionally, the couple dozen incandescent lights about the stage were quite beautiful
+and added a warm, inviting feeling every now and again. From my perspective they seemed
+to spell something, but I'm unsure if they actually did, and if so, what. Otherwise,
+the stage was setup in the usual Sigur Rós fashion, although they did perform behind a
+semi-translucent white curtain until partway through 'Ný batterí'. Some minor song
+switches, with 'Hrafntinna'/'Vaka' and 'Olsen Olsen'/'Kveikur' both switching places.
+
+The pull itself is rather decent. This show didn't sell out, although I was quick to
+purchase a ticket as soon as they went on sale, and had I left it at that I would've
+been way to the left in section 113. As tickets hadn't sold out immediately, however,
+I continued to check Ticketmaster every few days or so, and luckily I scored a very
+good, slightly left of centre seat in the dead centre section 109. The seat was very
+close to the main entrance and hallway, and although curtains kept most of the light
+out, drafts, and more importantly non-music/crowd sounds make cameos. Listen for the
+clanking bottles during 'Brennisteinn'!
+
+Some background hiss is mildly noticeable due to the amount of amplification I had to
+apply. That said, it isn't the worst, but it's there. The crowd was largely respectful
+and quiet during songs, excepting some clapping and hooting before the songs actually
+end, and well after the songs have begun. Excitement I suppose.
+
+Overall, a great experience. Enjoy!

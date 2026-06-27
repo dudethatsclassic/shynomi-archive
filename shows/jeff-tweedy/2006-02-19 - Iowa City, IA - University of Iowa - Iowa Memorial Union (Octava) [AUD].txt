@@ -1,0 +1,76 @@
+Jeff Tweedy
+Iowa Memorial Union
+University of Iowa
+Iowa City, IA
+2006-02-19
+
+Source: Oktava MC 012 Condenser Mics (hyper-cardioid cap/pickup pattern) > 
+Deneke  PS-2 (phantom power) >  Marantz PMD670 Solid State Recorder @ 44.1 kHz > 
+analog cable > Sony TCD-D100
+Transfer: Sony TCD-D100 > analog cable > Soundblaster Audigy ZS > 
+Adobe Audition 1.5 (Amplify/Fades) > CDWave > FLAC16
+Taped by: anodyne23@gmail.com and rbryant@gmail.com
+Transfered by: rbryant@gmail.com
+
+Disc One
+01. Sunken Treasure   
+02. She's A Jar
+03. Blasting Fonda
+04. Pieholden Suite   
+05. Please Tell My Brother
+06. Black Eye
+07. One By One   
+08. Bob Dylan's 49th Beard   
+09. Muzzle Of Bees
+10. Spiders (Kidsmoke)   
+11. Summer Teeth
+12. (Was I) In Your Dreams   
+13. The Ruling Class
+14. I Am Trying To Break Your Heart   
+15. Forget The Flowers
+16. Airline To Heaven
+17. Theologians   
+18. Is That The Thanks I Get?
+
+Disc Two
+Encore 1:
+01. Not For The Season    
+02. The Late Greats   
+03. War On War  
+04. Far, Far Away   
+05. Heavy Metal Drummer   
+06. A Shot In The Arm   
+07. I'm The Man Who Loves You
+08. Acuff-Rose* 
+
+# with Glenn Kotche on drums
+* Performed at the edge of the stage without the PA system
+
+Flac Fingerprints:
+jtweedy2006-02-19d2t08.flac:3897dbfa62791e6c164c562c418d2132
+jtweedy2006-02-19d1t01.flac:33a8a8383fab230f2b9e2de185eece4c
+jtweedy2006-02-19d1t02.flac:39c4415d16431b4873aa4342fd80fa42
+jtweedy2006-02-19d1t03.flac:eccfedf3db44ebb41cafded1959c3c22
+jtweedy2006-02-19d1t04.flac:b063c8f05d665c9d111441bed1e44c84
+jtweedy2006-02-19d1t05.flac:d8c8e031cbace8033e6ecba0310c98c1
+jtweedy2006-02-19d1t06.flac:8b8cf8dbc3258d205365d47845653800
+jtweedy2006-02-19d1t07.flac:0938cc6de8535aa522517972efee3ed0
+jtweedy2006-02-19d1t08.flac:491df39e378cef37072a57bec91cb8b6
+jtweedy2006-02-19d1t09.flac:b11780db1db383e82c237046fb3bc683
+jtweedy2006-02-19d1t10.flac:e77339d727394e7a95dd55e10fe4ee9c
+jtweedy2006-02-19d1t11.flac:1ca66e6d8724e8d4d8b9ca0fcf35329d
+jtweedy2006-02-19d1t12.flac:e27bd74b2ea57ae51bd0122f6c77184e
+jtweedy2006-02-19d1t13.flac:9e3a9c5d2427d36f727c9c4504464cbf
+jtweedy2006-02-19d1t14.flac:102b22884e2d9db73550090657600f07
+jtweedy2006-02-19d1t15.flac:af271ddc0fd7531bc1c2f11ccae6e594
+jtweedy2006-02-19d1t16.flac:f69991d48d5901cc793443426ba53ca3
+jtweedy2006-02-19d1t17.flac:c69727395f41d7f732a25f8160ab5cac
+jtweedy2006-02-19d1t18.flac:9c11014200e6e9fe2a4e08e762d31ad0
+jtweedy2006-02-19d2t01.flac:0dd645c682e369f565ce06c06267abc1
+jtweedy2006-02-19d2t02.flac:a9b13d21ce4d345c53bda58a96967f67
+jtweedy2006-02-19d2t03.flac:5cfed38736893a31604bd5537f90acb9
+jtweedy2006-02-19d2t04.flac:53eca542dc9ebb08cacd1132d4ae3b81
+jtweedy2006-02-19d2t05.flac:d5988efc26175d3801bc0e8720019fc0
+jtweedy2006-02-19d2t06.flac:67049995455268b6fcc9171307f5b31e
+jtweedy2006-02-19d2t07.flac:b1d02e323499d6e7ba6a93acd4d20baf
+

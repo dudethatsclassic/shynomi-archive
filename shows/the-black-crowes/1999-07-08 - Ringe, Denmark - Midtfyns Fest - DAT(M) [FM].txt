@@ -1,0 +1,11 @@
+BC 7-8-99 DK 01.flac:  successfully fixed/rewritten to 'BC 7-8-99 DK 01-fixed.flac'.
+BC 7-8-99 DK 02.flac:  successfully fixed/rewritten to 'BC 7-8-99 DK 02-fixed.flac'.
+BC 7-8-99 DK 03.flac:  successfully fixed/rewritten to 'BC 7-8-99 DK 03-fixed.flac'.
+BC 7-8-99 DK 04.flac:  successfully fixed/rewritten to 'BC 7-8-99 DK 04-fixed.flac'.
+BC 7-8-99 DK 05.flac:  successfully fixed/rewritten to 'BC 7-8-99 DK 05-fixed.flac'.
+BC 7-8-99 DK 06.flac:  successfully fixed/rewritten to 'BC 7-8-99 DK 06-fixed.flac'.
+BC 7-8-99 DK 07.flac:  successfully fixed/rewritten to 'BC 7-8-99 DK 07-fixed.flac'.
+BC 7-8-99 DK 08.flac:  successfully fixed/rewritten to 'BC 7-8-99 DK 08-fixed.flac'.
+BC 7-8-99 DK 09.flac:  successfully fixed/rewritten to 'BC 7-8-99 DK 09-fixed.flac'.
+
+Padded last file with 284 zero-bytes.

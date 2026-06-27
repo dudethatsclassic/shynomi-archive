@@ -1,0 +1,109 @@
+Dave Matthews Band
+TD Boston Garden
+Boston, Massachusetts
+11/9/2010
+
+Source: Schoeps CCM4V'S(din)>Lunatec V2>Benchmark AD2K>
+Sound Devices 722 (24/48)
+FOB/DLFC/KFC/ZFC/AARP Suite 537, Row 1, Seat 1, 6' High
+DSP: Sound Devices 722>Sound Forge 9.0>CD Wave>flac(16)
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Disc I 
+
+01 Tuning
+02 Proudest Monkey 
+03 Satellite 
+04 Don’t Drink the Water 
+05 Last Stop 
+06 Seek Up 
+07 Gravedigger  
+
+Disc II 
+
+01 Stay Or Leave 
+02 Seven 
+03 Shake Me Like a Monkey 
+04 Lying In the Hands of God 
+05 #41 
+06 Grey Street 
+07 *Ill Back You Up 
+
+Disc III 
+
+01 Crush 
+02 Why I Am 
+03 Cant Stop  
+04 You and Me 
+05 Ants Marching 
+Encore: 
+06 Dave Banter
+07 #Some Devil 
+08 Everyday 
+09 Pantala Naga Pampa >
+10 Rapunzel 
+
+* Dave, Carter, Tim, And Stefan
+# Dave Solo
+
+Flac Fingerprint 
+
+dmb2010-11-09d01t01.flac:815d01bf83df864eaf3c7b5b6d078bf3
+dmb2010-11-09d01t02.flac:9857dc39fa6ada5d4e64b5426c527ea4
+dmb2010-11-09d01t03.flac:e5ea1f6c187c5c04757d24b26638bf38
+dmb2010-11-09d01t04.flac:ce9f1bd597df91ffddb426e872ca33fc
+dmb2010-11-09d01t05.flac:0096b3b09c3b9b30d334702a8308d32e
+dmb2010-11-09d01t06.flac:e17aab077fba7806519f54c7d37d827a
+dmb2010-11-09d01t07.flac:f386bb6f2f10590cc1fbf9665012d8c9
+dmb2010-11-09d02t01.flac:c99006d9e4f30878a1c2afa1837fa27f
+dmb2010-11-09d02t02.flac:15fe9ab979f0bd6a94008e34923ba3f4
+dmb2010-11-09d02t03.flac:238ad1c1c56a879403c86559cb772741
+dmb2010-11-09d02t04.flac:7defbf2862fe8f8a2038d524ed3ef4c9
+dmb2010-11-09d02t05.flac:1c7fbea1a9ed1c45fce0553a73c5d142
+dmb2010-11-09d02t06.flac:a1aa2fb9e1e81efc928b628672b3e188
+dmb2010-11-09d02t07.flac:0eb9ace36b4b171c6519923ce2c53c97
+dmb2010-11-09d03t01.flac:d81f53dbf5ce47efb4adbec1723fea47
+dmb2010-11-09d03t02.flac:2d0764b4a592ffaaddc2c2c5575a1045
+dmb2010-11-09d03t03.flac:2467b19a9025a9460fb6fe5a7c10748c
+dmb2010-11-09d03t04.flac:67954ce6035ed9a960c404bb0c41a097
+dmb2010-11-09d03t05.flac:c05c2f186174c340867cfbf26d605fba
+dmb2010-11-09d03t06.flac:202cd4ae14d66b364ff9f16c33b61c1c
+dmb2010-11-09d03t07.flac:e9e8b78c8d51750e1f2cfa32eeea5295
+dmb2010-11-09d03t08.flac:76536370e645a85293d9683c7b4c7bf6
+dmb2010-11-09d03t09.flac:1ad9416102e2c558fff8d286efea905a
+dmb2010-11-09d03t10.flac:8ca8cef307fcb2b35473b80481d3eb11
+
+Shntool 
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:19.72        3520988 B   ---   --   ---xx   flac  0.4020  dmb2010-11-09d01t01.flac
+     7:26.06       78688556 B   ---   --   ---xx   flac  0.4482  dmb2010-11-09d01t02.flac
+     6:03.68       64193180 B   ---   --   ---xx   flac  0.5209  dmb2010-11-09d01t03.flac
+     7:54.16       83651276 B   ---   --   ---xx   flac  0.5515  dmb2010-11-09d01t04.flac
+    12:09.50      128713244 B   ---   --   ---xx   flac  0.5687  dmb2010-11-09d01t05.flac
+    17:00.73      180099740 B   ---   --   ---xx   flac  0.5089  dmb2010-11-09d01t06.flac
+     5:12.65       55189724 B   ---   --   ---xx   flac  0.5236  dmb2010-11-09d01t07.flac
+     5:20.00       56448044 B   ---   --   ---xx   flac  0.5104  dmb2010-11-09d02t01.flac
+     5:59.28       63393500 B   ---   --   ---xx   flac  0.5352  dmb2010-11-09d02t02.flac
+     4:49.44       51083132 B   ---   --   ---xx   flac  0.5408  dmb2010-11-09d02t03.flac
+    16:03.10      169896764 B   ---   --   ---xx   flac  0.5212  dmb2010-11-09d02t04.flac
+     8:54.11       94223516 B   ---   --   ---xx   flac  0.5150  dmb2010-11-09d02t05.flac
+     6:28.29       68511452 B   ---   --   ---xx   flac  0.5640  dmb2010-11-09d02t06.flac
+     4:43.10       49944764 B   ---   --   ---xx   flac  0.3877  dmb2010-11-09d02t07.flac
+    13:42.41      145097276 B   ---   --   ---xx   flac  0.5519  dmb2010-11-09d03t01.flac
+     4:33.11       48183116 B   ---   --   ---xx   flac  0.5411  dmb2010-11-09d03t02.flac
+     6:24.03       67744700 B   ---   --   ---xx   flac  0.5105  dmb2010-11-09d03t03.flac
+     5:42.39       60420572 B   ---   --   ---xx   flac  0.5093  dmb2010-11-09d03t04.flac
+     9:16.19       98123132 B   ---   --   ---xx   flac  0.5693  dmb2010-11-09d03t05.flac
+     1:05.44       11569532 B   ---   --   ---xx   flac  0.3704  dmb2010-11-09d03t06.flac
+     5:02.16       53310476 B   ---   --   ---xx   flac  0.3596  dmb2010-11-09d03t07.flac
+     8:33.23       90547340 B   ---   --   ---xx   flac  0.4639  dmb2010-11-09d03t08.flac
+     0:41.49        7347692 B   ---   --   ---xx   flac  0.5058  dmb2010-11-09d03t09.flac
+     7:49.36       82816316 B   ---   --   ---xx   flac  0.5419  dmb2010-11-09d03t10.flac
+   171:16.13     1812718032 B                            0.5168  (24 files)
+
+
+
+
+

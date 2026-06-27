@@ -1,0 +1,41 @@
+Sigur Rós
+2005-11-14
+Academy, Birmingham, UK
+
+Taper: Rob
+Location: Front of stack (right), ~3m back
+Source: Core Sound Binaurals > Core Sound Battery Box (no bass roll-off) > Sony MZ-NH900 (Hi-SP) (line in)
+Transfer: MZ-NH900 > USB > wave (Sonic Stage 3.0)
+Editing: fades, EQ, light peak limiting & normalising (Goldwave) > track indexes (CD Wave) > splits, Level 8 FLAC Compression & tagging (foobar2000)
+
+
+************************************
+Do Not Sell Copies Of This Recording
+************************************
+
+Please do not circulate copies of this recording in MP3 or other lossy formats.
+
+
+Disc I:
+
+01. Takk...
+02. Glósóli
+03. Ný batterí
+04. Sé lest
+05. Sæglópur
+06. Njósnavélin
+07. Gong
+08. Andvari
+09. Hoppípolla
+10. Með blóðnasir
+
+Disc II:
+
+01. Olsen Olsen
+02. Viðrar vel til loftárása
+03. Svo hljótt
+04. Heysátan
+05. Popplagið
+
+
+supported by Amiina

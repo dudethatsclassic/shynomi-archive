@@ -1,0 +1,70 @@
+The Black Crowes
+
+2011-07-17 (17 July 2011)
+Paradiso, Amsterdam, The Netherlands
+
+Source: AT933(C)>CA9100>iRiver H108 (CF mod / rockboxed)
+
+Transfer: H108>USB>DellHD>Audacity (fade in, volume boost set 1 +5.9/6.9dB, set 2 +3.7/4.7dB, fade out)>CD Wave>FLAC
+
+Location: ~30m from stage, left of centre, DIN on stand at 8.5'.
+
+Recorded, transferred, FLAC'd and seeded by Humbug 
+
+Set 1 (Accoustic, 1:08:31)
+
+01. Intro
+02. Remedy
+03. Hotel Illness
+04. Whoa Mule
+05. Tornado
+06. Thorn In My Pride
+07. Polly
+08. What Is Home
+09. Downtown Money Waster
+10. She Talks To Angels
+11. Soul Singing
+
+Set 2 (Electric, 1:33:05)
+
+12. My Morning Song (incl. Stare It Cold)
+13. Ballad In Urgency
+14. Wiser Time
+15. Shine Along
+16. Feathers
+17. By Your Side
+18. Sometimes Salvation
+19. Jealous Again
+20. Wounded Bird
+---encore---
+21. Oh! Sweet Nuthin' 
+
+Notes: Nice sounding open recording. There's the occasional tiny knock, when someone trips over my stand, but that's about it.
+First of the two farewell concerts, before the latest hiatus. Excepting possibly the first time when I caught the band in 1992, the best concerts I've seen by the band.
+
+FLAC Fingerprint:
+
+bc2011-07-17at933ca9100t01.flac:88254e3dafdceed9a2938239fd2e5402
+bc2011-07-17at933ca9100t02.flac:c233b7116d25df9c6bb058468e888597
+bc2011-07-17at933ca9100t03.flac:2d360b6bcb9c18f45dfdd76d1b472439
+bc2011-07-17at933ca9100t04.flac:229be99484c7592c8588e6a93b63fd8c
+bc2011-07-17at933ca9100t05.flac:4a5f2f3f028aa8ba17bb5561027005a0
+bc2011-07-17at933ca9100t06.flac:8bf31f6d6b7509f602bc5067a6040f53
+bc2011-07-17at933ca9100t07.flac:8edf3c054ab2674677ae1f4b4b6d86ae
+bc2011-07-17at933ca9100t08.flac:5e52e7d61218b89faaaa01125242981e
+bc2011-07-17at933ca9100t09.flac:9388dd33cf41cfefdf3a2b2cd946841b
+bc2011-07-17at933ca9100t10.flac:32e8c90587c7c0cedc8ea635a0c5d168
+bc2011-07-17at933ca9100t11.flac:252d39b774840f6a35ae90a169ccec83
+bc2011-07-17at933ca9100t12.flac:d75231a571a14b2ac6acc25530baddea
+bc2011-07-17at933ca9100t13.flac:8c9d26c57e3fb31382824c828feb0765
+bc2011-07-17at933ca9100t14.flac:cdbc67502b4129a421eb3a9e40bbe227
+bc2011-07-17at933ca9100t15.flac:401468754090a0f92239d6269d42c119
+bc2011-07-17at933ca9100t16.flac:afbcbc66deea8fd324bcec9c1d4e6b93
+bc2011-07-17at933ca9100t17.flac:0f3b73490ec8817818d782f830bbf350
+bc2011-07-17at933ca9100t18.flac:f0c75d8a17a85707047b000435de68e9
+bc2011-07-17at933ca9100t19.flac:5ff7f50ca5569e5905b25850871b7c92
+bc2011-07-17at933ca9100t20.flac:732e7caa48b867bfa9c4beda7b462b97
+bc2011-07-17at933ca9100t21.flac:748a826acc725356d3e429bc34290dec
+
+** PLEASE DO NOT TRADE IN MP3 FORMAT**
+** PLEASE DO NOT PROFIT FROM THIS RECORDING **

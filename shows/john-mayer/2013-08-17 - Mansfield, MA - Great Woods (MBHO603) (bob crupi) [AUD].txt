@@ -1,0 +1,64 @@
+John Mayer
+Great Woods (aka Comcast Center)
+Mansfield, MA
+2013-08-17
+
+Location:  Adjacent to BOB ~30 ft ROC (Sec 5, Row E Seats 23 & 24); mics at ~9ft
+Source:    MBHO603/ka200n (din) > V3 (optical) > Sony PCM-D50 (d01t01-d02t04: 96/24; d02t05-d02t12: 48/24)
+Transfer:  Sony ProDuo Card > Sound Forge 9.0 (convert 44.1/16, track and fades) > TLH (flac@8, align & ffp)
+Recorded, transferred and seeded by Bob Crupi (Tracking by Jennings Crupi)
+
+Disc 1:
+01. Intro > Queen of California >
+02. Jam > Paper Doll
+03. I Don't Trust Myself
+04. Fool to Love You
+05. Something Like Olivia
+06. Who Says
+07. Goin' Down the Road Feeling Bad >
+08. Love is a Verb
+09. Slow Dancing in a Burning Room
+10. Boston banter/Comfortable intro >
+11. Comfortable
+
+Disc 2:
+01. Free Falling
+02. Wildfire
+03. If I Ever Get Around to Living 
+04. Half of My Heart
+05. Vultures 
+06. Age of Worry banter
+07. Age of Worry
+08. Dear Marie
+09. Born and Raised
+10. thank you banter > band intros
+11. Waiting on the World to Change
+
+Encore:
+12. Gravity
+
+Flac fingerprints:
+
+jm2013-08-17d01t01.flac:f842a6e256ebad323a723980fee77826
+jm2013-08-17d01t02.flac:4724dc0919245ecf4db56c6299f09555
+jm2013-08-17d01t03.flac:a71f9b753ee0ff1ac11eac4034ad0d70
+jm2013-08-17d01t04.flac:daf46900239df4e29e3a8369968b00d8
+jm2013-08-17d01t05.flac:9f7a5e5c5d97bb95317cc88460440869
+jm2013-08-17d01t06.flac:a4e081c15d791201c06edbd19459dcac
+jm2013-08-17d01t07.flac:57e87939b9131a257d3e926175a1b4ab
+jm2013-08-17d01t08.flac:6db574d2c591e5598f573d7df01774f6
+jm2013-08-17d01t09.flac:8a4beaaa57ff373de2f5ad625a32c87d
+jm2013-08-17d01t10.flac:b8590454dad0eccaac45323bdcbee8b0
+jm2013-08-17d01t11.flac:d2672f068eef6b7cc58edd99c2944ebb
+jm2013-08-17d02t01.flac:b740c33d768a18a1852583f5ad1fc9ab
+jm2013-08-17d02t02.flac:7b9d7f20de4533876e5fa00b1d09563d
+jm2013-08-17d02t03.flac:dcff13c99c71eaa7a9d946c06b6f36d8
+jm2013-08-17d02t04.flac:1c684d0d0f0772bf7e92f2b5b54ae644
+jm2013-08-17d02t05.flac:43a65833a89f356ad75d9d1302feb723
+jm2013-08-17d02t06.flac:b5b0d3916cc2771025b90f2e1f9265fc
+jm2013-08-17d02t07.flac:becb50b3ba24db6f3f2ad16895fff6ac
+jm2013-08-17d02t08.flac:7096d24431684978f39d8c300545957d
+jm2013-08-17d02t09.flac:40e9e3e7ecf1a64ff6b75a45831e517d
+jm2013-08-17d02t10.flac:281bc7090c4c2ef853b4876b7a919d76
+jm2013-08-17d02t11.flac:207fde14edbd47dc38290242d7ccb43f
+jm2013-08-17d02t12.flac:a07c5265213ef9f3ea8c70cf30b300a3

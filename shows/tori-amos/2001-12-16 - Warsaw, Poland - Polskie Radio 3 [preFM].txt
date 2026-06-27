@@ -1,0 +1,40 @@
+Tori Amos
+2001-12-16
+Warsaw, Poland
+Polskie Radio 3
+
+Pre-FM
+
+Fixed Version
+
+shared by hennwill
+edited by mundi
+
+Fixed the gaps at the end of each song with WaveLab5.
+Converted to FLAC, tagged and renamed with foobar2k
+
+
+Setlist:
+
+01 - Introduction
+02 - Leather
+03 - Purple People
+04 - Rattlesnakes
+05 - Take to the Sky
+06 - Lust
+07 - Upside Down
+08 - Cloud on My Tongue
+09 - Cooling
+10 - Winter
+
+Total Size : 258MB (270 909 686 bytes)
+Last Modified : 2009-07-10 08:04:38
+Duration : 50:50.144 (134511362 samples)
+Sample Rate : 44100 Hz
+Channels : 2
+Bits Per Sample : 16
+Avg. Bitrate : 711 kbps
+Codec : FLAC
+Encoding : lossless
+Tool : reference libFLAC 1.2.1 20070917
+Embedded Cuesheet : no

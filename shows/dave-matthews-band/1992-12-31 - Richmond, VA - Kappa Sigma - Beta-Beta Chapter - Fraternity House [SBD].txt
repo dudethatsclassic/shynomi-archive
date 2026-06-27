@@ -1,0 +1,68 @@
+Dave Matthews Band
+Fraternity House
+Kappa Sigma, Beta-Beta Chapter 
+Richmond, VA
+December 31, 1992
+
+Taper:      	Unknown
+Source Info:    SBD -> Analog (unknown generation) -> CD
+
+Conversion: Adam Nelson (nelso222@msu.edu)
+
+CD > flac:  EAC (secure mode, all tracks 100%) -> WAV -> flac frontend (level 6)
+Tracks split using CD Wave v1.93.3
+
+
+                          ********************
+                          PRESERVE THE QUALITY
+                          DO NOT ENCODE TO MP3
+                          ********************
+
+
+Track   |       Name           		 |   Time (m:s)
+------------------------------------------------------------------
+d1t01		Halloween			05:27
+d1t02		Jimi Thing			13:17
+d1t03		Help Myself			04:43
+d1t04		Song That Jane Likes		03:20
+d1t05		Angel From Montgomery *		04:55
+d1t06		What Would You Say		05:50
+
+
+NOTES:
+----------
+* = with Kristen Asbury
+
+The exact date for this show is unknown. It may actually be from around NYE 1992, or it maybe from another time period entirely. 
+
+This show often appeared labeled as 11/07/92 in the ye olde analog days, but that's probably a mis-date. 
+
+Halloween starts abruptly. The begining of the song is missing. 
+
+The recording ends just after WWYS is finished. It is likely there was more to this show that was not taped.
+
+
+These rare older shows have been collected and converted through a collaborative effort to get them into circulation. Sometimes these shows do not have the best sound quality (and maybe that's why they aren't circulated much to begin with), but people should have access to them. 
+
+Thanks to Chris Mitchell for the CD source used for the conversion. 
+
+
+
+
+Compiled By Adam Nelson on December 11, 2006
+
+
+
+UPDATE:  Received the source on dvd from Adam. Dmbalmanac.com seems to confirm that this is the show date 12/31/92. Using Soundforge 8.0, Normalized all tracks to -8db and applied Parametric EQ to reduce hiss. Applied fade in to Halloween since it's missing the beginning. Removed a loud click at the end of Halloween and in the beginning of Jimi Thing. Applied a fade out at the end of WWYS. The source has a lot of tape warble and distortion at times since it's origin is a multi-generation cassette but it's certainly listenable. Created new flac files and fingerprints using Flac Frontend.
+
+
+Reconverted by Tom Gambichler on October 29, 2008 
+
+
+
+dmb1992-12-31.asbd.d1t01.flac:968f0d059d2837d87b28886f8cd88f18
+dmb1992-12-31.asbd.d1t02.flac:1b774ca6e8eb6b38ac49fbd2c480a08f
+dmb1992-12-31.asbd.d1t03.flac:925c0785142b379db3f95663c80db5c4
+dmb1992-12-31.asbd.d1t04.flac:d7948069f6b4cb12e4b04539c5fdc262
+dmb1992-12-31.asbd.d1t05.flac:a610c06d7015cd77c8cdea610b3e64a8
+dmb1992-12-31.asbd.d1t06.flac:3bb55ae48c91753d51761bdb495617aa

@@ -1,0 +1,61 @@
+Tori Amos
+June 7, 1992
+Alte Oper
+Frankfurt, Germany
+(plus bonus tracks)
+
+Location: n/a
+Transfer: n/a
+Lineage: silver cd>eac>flac 6>YOU :)
+
+Liberated bootleg release "Pieces Of Me".
+
+note: Log file shows errors on last 2 tracks of disc one.  This is due to an acutal flaw in the cd.  There is a "dimple" in the aluminum data layer of the disc itself.  Playback of the original disc is problematic, there is clicking that varies in volume along with the level of the music.  Luckily, ripping it with EAC seemed to solve this problem.  Gotta love technology, eh? ;)  
+
+Tracklist:
+
+Disc One:
+Listing On Jewel Box (erroneous)
+|
+|   Actual Tracks on CD
+|   |
+01.  01. Impromptu (New Shoes)
+02.      Flying Dutchman
+-    02. Crucify
+03.  03. Silent All These Years
+04.      Precious Things
+05.  04. Leather
+06.  05. Whole Lotta Love
+07.      Thank You
+-        Upside Down
+08.      Happy Phantom
+09.  06. China
+10.      Tear In Your Hand
+11.  07. Me And A Gun
+12.  08. Winter
+13.  09. Smells Like Teen Spirit
+
+Disc Two:
+
+01.  Mother
+02.  Sentimental Journey
+03.  Sugar
+04.  A Case Of You
+05.  Here In My Head*
+06.  Little Earthquakes*
+07.  Ain't No Sunshine+
+08.  Mary#
+09.  Little Drummer Boy%
+10.  Imagine+
+11.  Song For Eric*
+12.  Girl@
+13.  Take To The Sky&
+14.  Angie^
+
+* Seattle, WA 1992-08-29
++ Sunderland, UK 1991-12-12
+# Detroit, MI 1992-10-30
+% Santa Barbara, CA 1992-08-25
+@ San Juan Capistrano, CA 1992-09-05
+& Red Bank, NJ 1992-10-11
+^ Hamburg, Germany6/8/92

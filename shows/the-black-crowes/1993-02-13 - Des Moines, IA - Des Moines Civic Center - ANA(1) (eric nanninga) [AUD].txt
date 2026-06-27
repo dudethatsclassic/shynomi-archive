@@ -1,0 +1,429 @@
+-------------------------------------------------------------------------------
+File name:                    tbc1993-02-13 Des Moines, IA - Ana 1Gen Track 01.No Speak No Slave.flac
+Handled by:                   flac format module
+Length:                       5:16.49
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    55857648 bytes
+Chunk size:                   55857684 bytes
+Total size (chunk size + 8):  55857692 bytes
+Actual file size:             36864320
+File is compressed:           yes
+Compression ratio:            0.6600
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1993-02-13 Des Moines, IA - Ana 1Gen Track 02.Sting Me.flac
+Handled by:                   flac format module
+Length:                       4:44.41
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    50194032 bytes
+Chunk size:                   50194068 bytes
+Total size (chunk size + 8):  50194076 bytes
+Actual file size:             33135308
+File is compressed:           yes
+Compression ratio:            0.6601
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1993-02-13 Des Moines, IA - Ana 1Gen Track 03.Hard To Handle.flac
+Handled by:                   flac format module
+Length:                       4:00.15
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    42371280 bytes
+Chunk size:                   42371316 bytes
+Total size (chunk size + 8):  42371324 bytes
+Actual file size:             27419608
+File is compressed:           yes
+Compression ratio:            0.6471
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1993-02-13 Des Moines, IA - Ana 1Gen Track 04.My Morning Song.flac
+Handled by:                   flac format module
+Length:                       9:55.62
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    105103824 bytes
+Chunk size:                   105103860 bytes
+Total size (chunk size + 8):  105103868 bytes
+Actual file size:             68357782
+File is compressed:           yes
+Compression ratio:            0.6504
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1993-02-13 Des Moines, IA - Ana 1Gen Track 05.Jam ~ Thorn In My Pride.flac
+Handled by:                   flac format module
+Length:                       21:19.26
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    225676752 bytes
+Chunk size:                   225676788 bytes
+Total size (chunk size + 8):  225676796 bytes
+Actual file size:             145910460
+File is compressed:           yes
+Compression ratio:            0.6465
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1993-02-13 Des Moines, IA - Ana 1Gen Track 06.Bewildered.flac
+Handled by:                   flac format module
+Length:                       10:01.54
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    106143408 bytes
+Chunk size:                   106143444 bytes
+Total size (chunk size + 8):  106143452 bytes
+Actual file size:             68242969
+File is compressed:           yes
+Compression ratio:            0.6429
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1993-02-13 Des Moines, IA - Ana 1Gen Track 07.Twice As Hard.flac
+Handled by:                   flac format module
+Length:                       4:22.21
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    46266192 bytes
+Chunk size:                   46266228 bytes
+Total size (chunk size + 8):  46266236 bytes
+Actual file size:             29899540
+File is compressed:           yes
+Compression ratio:            0.6462
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1993-02-13 Des Moines, IA - Ana 1Gen Track 08.Black Moon Creeping.flac
+Handled by:                   flac format module
+Length:                       6:31.31
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    69045312 bytes
+Chunk size:                   69045348 bytes
+Total size (chunk size + 8):  69045356 bytes
+Actual file size:             44602363
+File is compressed:           yes
+Compression ratio:            0.6460
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1993-02-13 Des Moines, IA - Ana 1Gen Track 09.Thick N' Thin.flac
+Handled by:                   flac format module
+Length:                       2:48.00
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    29635200 bytes
+Chunk size:                   29635236 bytes
+Total size (chunk size + 8):  29635244 bytes
+Actual file size:             19309819
+File is compressed:           yes
+Compression ratio:            0.6516
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1993-02-13 Des Moines, IA - Ana 1Gen Track 10.Jealous Again.flac
+Handled by:                   flac format module
+Length:                       5:26.03
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    57513456 bytes
+Chunk size:                   57513492 bytes
+Total size (chunk size + 8):  57513500 bytes
+Actual file size:             37272534
+File is compressed:           yes
+Compression ratio:            0.6481
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1993-02-13 Des Moines, IA - Ana 1Gen Track 11.Stare It Cold.flac
+Handled by:                   flac format module
+Length:                       5:42.05
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    60340560 bytes
+Chunk size:                   60340596 bytes
+Total size (chunk size + 8):  60340604 bytes
+Actual file size:             39905459
+File is compressed:           yes
+Compression ratio:            0.6613
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1993-02-13 Des Moines, IA - Ana 1Gen Track 12.Sometimes Salvation.flac
+Handled by:                   flac format module
+Length:                       5:14.36
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    55474272 bytes
+Chunk size:                   55474308 bytes
+Total size (chunk size + 8):  55474316 bytes
+Actual file size:             34502859
+File is compressed:           yes
+Compression ratio:            0.6220
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1993-02-13 Des Moines, IA - Ana 1Gen Track 13.Remedy.flac
+Handled by:                   flac format module
+Length:                       11:07.59
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    117797568 bytes
+Chunk size:                   117797604 bytes
+Total size (chunk size + 8):  117797612 bytes
+Actual file size:             74061782
+File is compressed:           yes
+Compression ratio:            0.6287
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a

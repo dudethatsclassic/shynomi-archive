@@ -1,0 +1,59 @@
+Dave Matthews Band
+Trax
+Charlottesville, VA
+December 8, 1992
+
+Taper:      	Unknown
+Source Info:    SBD -> Analog (unknown generation) -> CD
+
+Conversion: Adam Nelson (nelso222@msu.edu)
+
+CD > flac:  EAC (secure mode, all tracks 100%) -> WAV -> flac frontend (level 6)
+Tracks split using CD Wave v1.93.3
+
+
+                          ********************
+                          PRESERVE THE QUALITY
+                          DO NOT ENCODE TO MP3
+                          ********************
+
+
+Track   |       Name           		 	|   Time (m:s)
+------------------------------------------------------------------
+d1t01		Warehouse				08:32
+d1t02		Halloween				05:11
+d1t03		Granny					03:22
+d1t04		What Would You Say			04:31
+d1t05		Spotlight				05:44
+d1t06		The Maker				06:09
+d1t07		All Along The Watchtower		06:06
+d1t08		Me & Julio Down By The Schoolyard	06:03
+
+d2t01		Help Myself				04:53			
+d2t02		Minarets ->				06:18
+d2t03		Blue Water				12:46
+d2t04		Lover Lay Down				09:38
+d2t05		Lie In Our Graves			04:13
+d2t06		True Reflections			06:44
+
+
+NOTES:
+----------
+The date of this show is not known exactly. It is often traded as 07/15/92 Trax, but that is certainly wrong given the presence of Granny & Halloween in the setlist. An approximate time period for this is late November or early December just based on the setlist, but it is most likely either December 1 or December 8 at Trax. 
+
+Dave mentions Tuesday night, so it's almost certainly a Trax show. Plus he says "Merry Christmas". It seems unlikely he would say that if it was still November (like 11/24 - around Thanksgiving), and there are only two Trax shows in December that are not already recorded (12/01 and 12/08). It may be more likely Dave would say Merry Christmas if it was later in December, possibly around the time many UVA students are finishing up with their finals exams and heading home for Christmas. That is why I picked December 8th as the date but it may never be 100% confirmed.
+
+Me & Julio is cut at the start of the song and also at the end of the song.
+
+There is some noticible tape hiss on this recording but it's not overpowering.
+
+
+
+These rare older shows have been collected and converted through a collaborative effort to get them into circulation. Sometimes these shows do not have the best sound quality (and maybe that's why they aren't circulated much to begin with), but people should have access to them. 
+
+Thanks to Rob Jones for the CD source used for the conversion. 
+
+
+
+
+Compiled By Adam Nelson on November 12, 2006

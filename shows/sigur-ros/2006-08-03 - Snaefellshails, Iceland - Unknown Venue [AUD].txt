@@ -1,0 +1,51 @@
+sigur rós
+2006.08.03 seyðisfjörður, iceland
+
+(this is the evening concert. the band also did a morning concert in snæfellsskála)
+
+
+recording info:
+recorded using a Panasonic SJ-MR220 in LP2 mode with a stereo AIWA tie-clip mic.
+The transfer was done optically in real time from a Sony MDS-JE780 to a Philips CDR600.
+CD -> WAV using xact
+WAV -> FLAC using flac frontend 1.12 (flac 8)
+
+recorded by: BluntmanJim
+transferred by: Actorguide
+flac'd + torrented by: www.drrnwbb.com/bt/
+
+
+disc 1
+Vaka		[7.31]
+fyrsta		[9.11]
+samskeyti 	[5.05]
+sæglopur	[8.07]
+hoppípolla + með blóðnasir [6.55]
+von	 	[10.07]
+olsen olsen	[8.15]
+svefn g englar	[11.02]
+(disc length) 	[66.16]
+
+disc 2
+svo hjótt 	[7.25]
+heysátan	[6.23]
+dauðalagið 	[12.37]
+popplagið	[14.15]
+(outro)  	[3.29]
+(disc length) 	[44.11]
+
+
+flac fingerprints:
+sr20060803-d1t01.flac:c5d92feb21836264b0c1e3bbc7d53568
+sr20060803-d1t02.flac:6725777a43e234e1420025ffb7face03
+sr20060803-d1t03.flac:c03ac0503a8241672b3048555b774266
+sr20060803-d1t04.flac:e666c7701c963ee5ba99484d83ebd13c
+sr20060803-d1t05.flac:a5145249ee1c300a8479a147d0f535c4
+sr20060803-d1t06.flac:9c395b6a6e92955e0f91f4cc7461c86c
+sr20060803-d1t07.flac:f09582b0a77c7e593ace3595f575fa34
+sr20060803-d1t08.flac:4477d3b427e94e060a2a2e74ffc86661
+sr20060803-d2t01.flac:833c55c8d685411577f8dcd7a3c004b7
+sr20060803-d2t02.flac:efd945e8edc4febdb045eeebbfc46a1b
+sr20060803-d2t03.flac:85feb72456d98d7ba59ebc1b16ec5536
+sr20060803-d2t04.flac:59a18942df6583eff456fd31335a6598
+sr20060803-d2t05.flac:06f7405b17236c0b46b08ddae723731e

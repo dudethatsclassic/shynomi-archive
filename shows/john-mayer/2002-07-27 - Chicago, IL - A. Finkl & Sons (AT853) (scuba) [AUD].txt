@@ -1,0 +1,55 @@
+John Mayer
+A. Finkl & Sons
+Chicago, IL
+July 27, 2002
+
+Taper: "Scuba" Jeremy Tregler
+
+Chain: AT853 > SP-SPSB-2 > Sharp MD-SR60
+
+Location: Stage Left, 60' from stage. 9' up, XY90
+
+MD to DAT: Pioneer MJ-D707 > MidiMan Co2 > 
+	   PCM-M1 (44.1 Khz)
+
+Conversion: Archive Python DDS > VDAT v1.0 >
+	    Cool Edit Pro 2K > CDwave > MKW
+
+No soundcard used.
+
+Disc 1
+d1t01: Introduction
+d1t02: 3x5
+d1t03: My Stupid Mouth
+d1t04: No Such Thing
+d1t05: Back To You	
+d1t06: City Love
+d1t07: Covered in Rain
+d1t08: Never Tear Us Apart
+d1t09: Love Song for No One
+d1t10: Your Body is a Wonderland
+d1t11: Why Georgia
+
+Disc 2
+d2t01: Something's Missing ^
+d2t02: Great Indoors
+d2t03: King of Pain Intro to...
+d2t04: 83
+d2t05: *: Love Soon
+d2t06: *: Sucker
+d2t07: *: Comfortable
+d2t08: e: Neon
+
+^ - Filler source from MC012 DAT
+* - John solo, side stage
+e - Full band encore
+
+Taper's Notes: This version of the A. Finkl show is the MiniDisc master I ran on the same stand as the MC012 DAT copy. The mics used on this source had better wind screening, and turned out a little better than the DAT source as far as wind noise. Some people may prefer the lack of compression in the DAT source, so I released them both, and you may decide for yourself which you like better.
+
+Because of the tape flip just before "Something's Missing", I spliced in the MC012 DAT copy. I adjusted the levels so that they would be "good", but you will probably notice a slight difference in clarity and wind noise. Sorry. To put it lightly, the taper gods were not smiling the evening of July 27th, 2001. This is the best I could come up with. Enjoy.
+
+
+Converted and Compiled 10-23-02
+"Scuba" Jeremy Tregler
+jeremy@scubajeremy.net
+http://www.scubajeremy.net

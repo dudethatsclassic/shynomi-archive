@@ -1,0 +1,69 @@
+Jeff Tweedy
+Haw River Ballroom
+April 20, 2018
+
+01. Via Chicago
+02. Drawing From Memory
+03. I Am Trying To Break Your Heart
+04. banter - We Just Got Out Of Jail
+05. New Madrid
+06. Ashes Of American Flags
+07. New Wave Theater
+08. banter - You Guys Feel Like Singing Along
+09. Nope
+10. Passenger Side
+11. banter - Requests
+12. Remember The Mountain Bed
+13. Jesus, Etc.
+14. Let's Go Rain
+15. banter - It's Gary Louris
+16. Radio King (with Gary Louris)
+17. Pecan Pie (with Gary Louris)
+18. Hummingbird
+19. We've Been Had
+20. banter - Clapping
+21. I'm The Man Who Loves You
+Encores:
+22. Misunderstood
+23. Ain't No Doubt About It (with OHMME)
+24. California Stars (with OHMME)
+25. A Shot In The Arm
+
+Source: Schoeps MK4/CMC6 > Sound Devices 744T at 24/96
+
+Location: FOB right side of room
+
+Conversion:  24 bit 96k wav time digitally re-cheesed with Audacity (reduced crowd noise between songs, removed the occaisional loud clapper & normalized), split into tracks with CD Wave, fades at beginning & end of show with Sound Forge 6.0, FLAC files generated with dBpoweramp Music Converter, tagged with foobar2000.
+
+Recording & conversion by Robbie Dunn
+
+------------ FLAC Fingerprints ----------------------
+
+Jeff Tweedy 2018-04-20 t01.flac:5c59c659c5364f5b3ddadc330385fb2e
+Jeff Tweedy 2018-04-20 t02.flac:335a73d91efd2da8ae91d4cd0a18426d
+Jeff Tweedy 2018-04-20 t03.flac:260e32bc80eaaf5c8f37970b4a240fc5
+Jeff Tweedy 2018-04-20 t04.flac:5f64b376c2230f349a473e335d1478d4
+Jeff Tweedy 2018-04-20 t05.flac:124c5b325f741336e6b0b324f33a150b
+Jeff Tweedy 2018-04-20 t06.flac:1d89129c2b5d68b52ae0be5cedab02d2
+Jeff Tweedy 2018-04-20 t07.flac:84c31853b92817754388b1da36474f46
+Jeff Tweedy 2018-04-20 t08.flac:a6f75cb4f03ce1c64aa30af9880e20b4
+Jeff Tweedy 2018-04-20 t09.flac:558e2ada4a720229fd4634571323c3bb
+Jeff Tweedy 2018-04-20 t10.flac:46785c90a0ac44910327dafd9e09215f
+Jeff Tweedy 2018-04-20 t11.flac:9d938b68322a9fcfe991e7ae1ade6250
+Jeff Tweedy 2018-04-20 t12.flac:67683dc3f0f727d2ec7c88aa3fb23963
+Jeff Tweedy 2018-04-20 t13.flac:393393522e7359ee9f639789890c3285
+Jeff Tweedy 2018-04-20 t14.flac:738d2620f2aafed815eb595904ef4a7c
+Jeff Tweedy 2018-04-20 t15.flac:7da3b3320320b298e41e2cc62af9630c
+Jeff Tweedy 2018-04-20 t16.flac:39befd2c645f55e66b2a208dcb565315
+Jeff Tweedy 2018-04-20 t17.flac:169ce31253f2ddcd1821aa7628c07eca
+Jeff Tweedy 2018-04-20 t18.flac:c0887203ec2cd251586fc604d763272f
+Jeff Tweedy 2018-04-20 t19.flac:26aeb53f16de3068f89d204c00b319e6
+Jeff Tweedy 2018-04-20 t20.flac:a533edb05ca1cd3929457aa491017af5
+Jeff Tweedy 2018-04-20 t21.flac:4a716e3a87ffdf519cd6620da715d681
+Jeff Tweedy 2018-04-20 t22.flac:60d9c9281072bc1bb5dd3d5691b67355
+Jeff Tweedy 2018-04-20 t23.flac:6d3404419d72fb121e26172f1f4859ce
+Jeff Tweedy 2018-04-20 t24.flac:7eac564f9f6514e6e10808ff1b1e7ab3
+Jeff Tweedy 2018-04-20 t25.flac:e7e111e732cb2c3af7ed3bff8cafab8b
+
+No errors occured.
+

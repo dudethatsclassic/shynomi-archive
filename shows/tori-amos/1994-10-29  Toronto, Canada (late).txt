@@ -1,0 +1,33 @@
+Tori Amos 
+10/29/1994, Late Show
+Toronto, Ontario, Canada
+Massey Hall
+
+Lineage: Sennheiser MKE2002's > Denon DTR80P DAT @ 16/48 > DAT Clone 2 
+Transfer: Sony PCM R500->Canare LV-61S 75 ohm coax->Edirol R44 SDHC->WAV (48/16) (Trimmed in Wavelab 6.0)
+
+Editing: wav > Cool Edit Pro (Hard Limiting/input boost) > CDWave 
+(split tracks) > FLAC Frontend > FLACs (Encoding Level 8) 
+
+Notes: Some light mic rustling. 
+*small digital glitch in track present in original wav file
+
+Setlist:
+01. intro
+02. Honey
+03. Crucify
+04. Space Dog
+05. Hello/story 
+06. Pretty Good Year
+07. Precious Things
+08. God
+09. China
+10. The Waitress*
+11. Me and a Gun
+12. Bells For Her
+--Encore 1
+13. Tear in Your Hand
+14. Landslide*
+--Encore 2
+15. Silent All These Years
+16. Famous Blue Raincoat

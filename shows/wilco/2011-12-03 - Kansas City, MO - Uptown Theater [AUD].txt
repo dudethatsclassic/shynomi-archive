@@ -1,0 +1,39 @@
+Wilco
+12-03-2011
+Uptown Theater
+Kansas City, MO
+
+Source: Schoeps MK4 > Naiant Tinybox > Olympus LS-10 @ 48 kHz / 24-bit
+Lineage: 48/24 WAV > Audacity 1.2.6 (normalize, split tracks, resample to 44.1 kHz, dither to 16-bit) > Traders Little Helper (convert to flac - level 7)
+
+
+Setlist:
+
+01 Less Than You Think ->
+02 The Art Of Almost
+03 I Might
+04 Misunderstood
+05 Black Moon
+06 Via Chicago
+07 You And I
+08 Kamera
+09 Box Full Of Letters
+10 Born Alone
+11 Radio Cure
+12 Impossible Germany
+13 Capitol City
+14 New Madrid
+15 Someday Soon
+16 War On War
+17 Dawned On Me
+18 Hummingbird
+19 Shot In The Arm
+20 ~ encore break ~
+21 Whole Love
+22 Heavy Metal Drummer ->
+23 I'm The Man Who Loves You
+24 Standing O
+25 Monday
+26 Outtasite (Outta Mind)
+27 ~ encore break 2 ~
+28 Cruel To Be Kind (w/ Nick Lowe)

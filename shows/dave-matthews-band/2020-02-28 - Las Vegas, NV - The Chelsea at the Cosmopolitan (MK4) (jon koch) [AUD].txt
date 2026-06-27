@@ -1,0 +1,41 @@
+Dave Matthews Band 
+February 28, 2020
+The Chelsea at the Cosmopolitan of Las Vegas - Las Vegas, NV
+
+Taper: Jon Koch 
+Source: Schoeps MK4 > active cables > Nbox Platinum > Edirol R-09HR (24/48) 
+Location: Soudbooth, back of floor, Mics DIN ~9'  
+Transfer: Edirol R-09HR > SDHC > PC 
+Edit: wav > Sony Soundforge 9.0a > wav > CD Wave > wav 
+Conversion: wav > Trader's Little Helper 2.4.1 > .flac 
+
+---PRESERVE THE QUALITY, PLEASE DO NOT ENCODE INTO MP3 OTHER THAN FOR PERSONAL USE--- 
+
+01: Intro				[02:13]
+02: Granny				[05:24]
+03: Grey Street				[05:57]
+04: #41					[09:13]
+05: Do You Remember			[05:48]
+06: What Would You Say			[05:17]
+07: The Riff				[07:47]
+08: Stolen Away on 55th & 3rd		[05:53]
+09: Warehouse				[12:23]
+10: Lying in the Hands of God		[12:11]
+11: Why I Am				[05:20]
+12: Jimi Thing >			[12:15]
+13: Tell Me Something Good		[04:47]
+14: Beach Ball				[04:15]
+15: What You Are			[06:58]
+16: Come Tomorrow			[06:58]
+17: Long Train Runnin'			[03:54]
+18: Crash into Me			[06:17]
+19: Pantala Naga Pampa > Rapunzel	[06:53]
+20: Encore break/intro			[06:36]
+21: Sweet Up and Down >			[03:26]
+22: Ants Marching			[09:15]
+Total:	      			       [2:29:00] 
+
+Notes: This recording is dedicated to the memory of LeRoi Moore. 
+Thanks to Ryan Hoyt for the help with the line :)
+
+Compiled on 02.29.20

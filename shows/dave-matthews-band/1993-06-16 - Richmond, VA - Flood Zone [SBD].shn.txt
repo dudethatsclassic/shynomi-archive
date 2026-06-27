@@ -1,0 +1,57 @@
+Dave Matthews Band
+June 16, 1993
+Flood Zone
+Richmond, VA
+
+
+Source:		DSBD > Casio D7 (lead deck out)
+		Mark Lynn
+
+Conversion:	Jason Woods on 04/20/00
+Equipment:	D8 > DATPort > CEP (resampled from 48 to 44.1) > WAV > SHN
+
+Track 	|		Name			|	Time (m:s)
+--------------------------------------------------------------------
+[Set I]
+d1t01		Best of What's Around			07:15
+d1t02		Granny					05:28
+d1t03		Tripping Billies			06:49
+d1t04		Typical Situation			11:28
+d1t05		Lie In Our Graves			11:35
+d1t06		Recently Intro -->			02:04
+d1t07		Recently -->				11:22
+d1t08		Ants Marching				04:29
+d1 totals 60:30
+
+[Set II]
+d2t01		Dancing Nancies *			10:34
+d2t02		Satellite				06:36
+d2t03		"The Kinda Funk You Can Smell..."	01:14
+d2t04		Warehouse *				09:53
+d2t05		Seek Up					16:36
+d2t06		True Reflections *			07:05
+d2t07		E:  Cry Freedom				06:22
+d2 totals 58:22
+
+* w/Richard Harding on flute and sax
+
+Notes:
+----------
+*	The fades I performed were into and out of each set.
+*	The entire show was normalized to 93% DAT provided by Ian Hoppe.
+
+UPDATE:
+----------
+*	Mark Lynn notified us that he taped this show at the Floodzone and
+	that the encore was missing from most DATs that spread around.
+	He had actually put the encore for this show on another tape he
+	made back then (5/19/93).  I have added Cry Freedom from the 5/19/93
+	SHNs to this show and updated the MD5 files.
+*	Here are Mark's notes:
+
+"There was actually an encore performed on this night I just recorded it
+on the end of my 5/19/93 master. So Cry Freedom is missing from this as
+it circulates. Take the Cry Freedom from 5/19/93 and put it at the end
+of this one and you have the complete show(See notes on 5/19/93.) I
+think this is one of the best sounding boards from The Floodzone. Man
+did they have the mix dialed in on this night!"

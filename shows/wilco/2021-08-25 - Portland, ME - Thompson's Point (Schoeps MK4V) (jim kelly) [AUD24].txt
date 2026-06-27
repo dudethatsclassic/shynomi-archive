@@ -1,0 +1,81 @@
+Wilco
+Thompson's Point
+Portland, ME
+August 25, 2021
+
+** 24 BIT **
+
+Source:  Schoeps MK4V radial cardioids (in a Kangol hat) > Nbob actives > Nbox Platinum > Roland R-05 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  In front of the SBD, approximately 50 yards from the stage   
+Recorded by:  Jim Kelly (musicjaime)
+Mastered by:  Dennis Orr
+
+Setlist: (1:32:15)
+01 A Shot In The Arm
+02 Random Name Generator
+03 At Least That's What You Said
+04 One Wing
+05 Love Is Everywhere (Beware)
+06 I Am Trying To Break Your Heart >
+07 Art Of Almost
+08 If I Ever Was A Child
+09 Impossible Germany
+10 Hummingbird
+11 Chat
+12 Everyone Hides
+13 Chat
+14 Box Full Of Letters
+15 Dawned On Me
+16 Jesus, Etc.
+17 Theologians
+18 Chat
+19 Heavy Metal Drummer
+20 I'm The Man Who Loves You
+21 Chat
+22 I'm Always In Love
+23 Encore Break
+- Encore -
+24 The Late Greats
+25 Outtasite (Outta Mind)
+
+Jeff Tweedy - lead vocals & guitars
+Nels Cline - lead guitar, loops, & lap steel
+Pat Sansone - keyboards, rhythm & lead guitars, backing vocals, synthesizers, maracas, & tambourine
+John Stirratt - bass & backing vocals
+Mikael Jorgensen - samples & sound manipulation, keyboards, synthesizers, effects, piano, & organ
+Glenn Kotche - drums & percussion
+
+Shiw Notes:
+It was Jeff's 54th birthday.
+
+Mastering Notes:
+The recorder was accidentally shut off at the 0:40:749 mark of the first song when Jim tried to lower his levels.  The transition is pretty much seamless, but a couple seconds of music 
+was lost.
+
+Wilco2021-08-25t01.flac:3549d166d1e6b707f254d14b05f8a7ab
+Wilco2021-08-25t02.flac:7e821ece5bfe47a8348413befe282cce
+Wilco2021-08-25t03.flac:16a72ccb05d8500eae76f9278e6bdf4f
+Wilco2021-08-25t04.flac:8ea56f32c188d026899cd6a229df2dde
+Wilco2021-08-25t05.flac:64f4048403874b95ee660ba5eaac000e
+Wilco2021-08-25t06.flac:a84ff12db3253f2b7a4751c74b59e346
+Wilco2021-08-25t07.flac:c9c774f73ba3d5dfb7f4bb38d33accc3
+Wilco2021-08-25t08.flac:f727b221c2b60b7b3d5692b68cc72db9
+Wilco2021-08-25t09.flac:f8bde6205632e43d277e68df93a0b892
+Wilco2021-08-25t10.flac:bc9df05f0988d127648e2a59777f9566
+Wilco2021-08-25t11.flac:3ab1b1dd8d6d7481f8fa68d263fd53fc
+Wilco2021-08-25t12.flac:78b1379630f2d6f6ff54af55f5f82cd6
+Wilco2021-08-25t13.flac:1b87fc1fd6510611cb25e5f38c83a00b
+Wilco2021-08-25t14.flac:5ed86fc8865384b9ad4a60d5a16bdead
+Wilco2021-08-25t15.flac:a25d0de57bbb3152e5fec8b6cc997801
+Wilco2021-08-25t16.flac:82b45516651330bbfa783a86ce7e0545
+Wilco2021-08-25t17.flac:b3ff6a295cfcadba9c5d38ea1d221c45
+Wilco2021-08-25t18.flac:767fb97fbce50e1be397c4584ab31a99
+Wilco2021-08-25t19.flac:4641fb3e8500072b91b52f20d513273a
+Wilco2021-08-25t20.flac:2e036bc4a47b53f31e49aba2a034b52c
+Wilco2021-08-25t21.flac:5ab6c64e251108b8a5246a378a3bcd86
+Wilco2021-08-25t22.flac:8dc620b3c009a09a4628f3761183de7e
+Wilco2021-08-25t23.flac:76b02386f000d1e1991eea6b2a8fe076
+Wilco2021-08-25t24.flac:54ce1e9ddf943c15facb128ca545604f
+Wilco2021-08-25t25.flac:7e203adde537519c3432fa3d9317f3d9

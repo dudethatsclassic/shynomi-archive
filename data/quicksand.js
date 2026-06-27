@@ -28,7 +28,8 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows Amphitheatre",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-09-05 - Irvine, CA - Irvine Meadows Amphitheatre [FM].txt"
     },
     {
       "year": 1993,
@@ -39,9 +40,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Burbank, CA",
       "venue": "Hilton Ballroom",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-09-09 - Burbank, CA - Hilton Ballroom - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -52,9 +54,10 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Club Babyhead",
-      "notes": "ANA(M) · Sony PC-62 · phil183",
+      "notes": "ANA(M) \u00b7 Sony PC-62 \u00b7 phil183",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-01-22 - Providence, RI - Club Babyhead - ANA(M) (Sony PC-62) (phil183) [AUD].txt"
     },
     {
       "year": 2012,
@@ -65,9 +68,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hall of Williamsburg",
-      "notes": "Edirol R-09HR · bliv",
+      "notes": "Edirol R-09HR \u00b7 bliv",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-08-25 - New York, NY - Hall of Williamsburg (Edirol R-09HR) (bliv) [AUD].txt"
     },
     {
       "year": 2014,
@@ -78,9 +82,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "S036",
-      "notes": "Zoom H2 · uninvited94",
+      "notes": "Zoom H2 \u00b7 uninvited94",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-06-10 - Berlin, Germany - S036 (Zoom H2) (uninvited94) [AUD].txt"
     },
     {
       "year": 2017,
@@ -91,9 +96,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Thalia Hall",
-      "notes": "Core Sound HEB 4060 · jb",
+      "notes": "Core Sound HEB 4060 \u00b7 jb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-09-27 - Chicago, IL - Thalia Hall (Core Sound HEB 4060) (jb) [AUD].txt"
     },
     {
       "year": 2017,
@@ -104,9 +110,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "notes": "SP-CMC-8 · nitcomb",
+      "notes": "SP-CMC-8 \u00b7 nitcomb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-09-30 - New York, NY - Irving Plaza (SP-CMC-8) (nitcomb) [AUD].txt"
     },
     {
       "year": 2021,
@@ -119,7 +126,8 @@ const ARTIST_DATA = {
       "venue": "BBC Radio 1",
       "notes": "Rock",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-08-22 - London, UK - BBC Radio 1 - Rock Show with Daniel P Carter [WEB].m4a.txt"
     },
     {
       "year": 2021,
@@ -130,9 +138,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Bluebird",
-      "notes": "AUD(M) · Olympia LS-12 · exene",
+      "notes": "AUD(M) \u00b7 Olympia LS-12 \u00b7 exene",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-10-08 - Denver, CO - Bluebird - AUD(M) (Olympia LS-12) (exene) [AUD].txt"
     },
     {
       "year": 2021,
@@ -143,9 +152,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Great American Music Hall",
-      "notes": "Sony PCM-M10 · unk",
+      "notes": "Sony PCM-M10 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2021-10-15 - San Francisco, CA - The Great American Music Hall (Sony PCM-M10) (unk) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -156,9 +166,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "24 Oxford",
-      "notes": "SP-CMC-4U · unk",
+      "notes": "SP-CMC-4U \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-10-06 - Las Vegas, NV - 24 Oxford (SP-CMC-4U) (unk) [AUD].txt"
     },
     {
       "year": 2022,
@@ -169,9 +180,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Fillmore",
-      "notes": "Olympus LS-P4 · bluejane99",
+      "notes": "Olympus LS-P4 \u00b7 bluejane99",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-10-13 - Denver, CO - Fillmore (Olympus LS-P4) (bluejane99) [AUD].txt"
     },
     {
       "year": 2023,
@@ -182,9 +194,10 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Slaktkyrkan",
-      "notes": "Instamic Pro Plus · qew",
+      "notes": "Instamic Pro Plus \u00b7 qew",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-10-13 - Stockholm, SWE - Slaktkyrkan (Instamic Pro Plus) (qew) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -195,9 +208,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bimbos",
-      "notes": "Schoeps MK4 · loughney",
+      "notes": "Schoeps MK4 \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-12-01 - San Francisco, CA - Bimbos (Schoeps MK4) (loughney) [AUD].txt"
     },
     {
       "year": 2024,
@@ -208,9 +222,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "GAMH",
-      "notes": "Schoeps MK4s · loughney",
+      "notes": "Schoeps MK4s \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-06-24 - San Francisco, CA - GAMH (Schoeps MK4s) (loughney) [AUD24].txt"
     }
   ],
   "misc": []

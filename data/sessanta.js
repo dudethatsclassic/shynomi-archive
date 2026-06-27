@@ -19,9 +19,10 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Bonner Springs, KS",
       "venue": "Azura Amphitheater",
-      "notes": "Tascam DR-05 · unk",
+      "notes": "Tascam DR-05 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-04-30 - Bonner Springs, KS - Azura Amphitheater (Tascam DR-05) (unk) [AUD].txt"
     },
     {
       "year": 2024,
@@ -32,9 +33,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Clarkston, MI",
       "venue": "Pine Knob Music Theatre",
-      "notes": "Sony UX560F · fiver",
+      "notes": "Sony UX560F \u00b7 fiver",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-05-02 - Clarkston, MI - Pine Knob Music Theatre (Sony UX560F) (fiver) [AUD].txt"
     },
     {
       "year": 2025,
@@ -47,7 +49,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-04-25 - Las Vegas, NV - PH Live (M) (AT853) (unk) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -58,9 +61,10 @@ const ARTIST_DATA = {
       "state": "AR",
       "location": "Rogers, AR",
       "venue": "Walmart Amp",
-      "notes": "Sennheiser Ambeo · grizzly adams",
+      "notes": "Sennheiser Ambeo \u00b7 grizzly adams",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-05-02 - Rogers AR - Walmart Amp (Sennheiser Ambeo) (grizzly adams) [AUD].txt"
     },
     {
       "year": 2025,
@@ -71,9 +75,10 @@ const ARTIST_DATA = {
       "state": "NE",
       "location": "Omahe, NE",
       "venue": "Baxter Arena",
-      "notes": "Samsung S22 · silence95",
+      "notes": "Samsung S22 \u00b7 silence95",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-06-03 - Omahe, NE - Baxter Arena (Samsung S22) (silence95) [AUD].txt"
     },
     {
       "year": 2025,
@@ -84,9 +89,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Ridgefield WA",
       "venue": "Cascades Amphitheatre",
-      "notes": "Sennheiser Ambeo, Pixel · grizzley adams, esamirp",
+      "notes": "Sennheiser Ambeo, Pixel \u00b7 grizzley adams, esamirp",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-06-06 - Ridgefield WA - Cascades Amphitheatre (Sennheiser Ambeo, Pixel) (grizzley adams, esamirp) [MIX].txt"
     }
   ],
   "misc": []

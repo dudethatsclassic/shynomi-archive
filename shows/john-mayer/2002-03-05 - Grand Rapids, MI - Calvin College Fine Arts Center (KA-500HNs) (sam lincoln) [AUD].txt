@@ -1,0 +1,38 @@
+John Mayer
+March 5, 2002
+Calvin College Fine Arts Center
+Grand Rapids, MI
+
+Source: MBHO KA-500HN's > actives > 603A's > MP-2 > SBM-1@44.1k > D8
+Mics were run XY 90 degrees, ~9 feet up just to the left of direct center by the 'board.
+DAT > FLAC: Sony R-300 > Audiowerk 2 > Peak 3.0 LE (fades) > CDWav > mkwACT .97b > xACT > Wave Editor 1.4.6 (normalize) > xACT
+
+Taped and transferred by Sam Lincoln
+
+Disc 1
+01. Why Georgia
+02. My Stupid Mouth
+03. Back To You
+04. City Love
+05. This Will All Make Perfect Sense Someday
+06. Your Body Is A Wonderland%
+07. Old Love @
+08. Love Soon #
+
+Disc Two
+01. No Such Thing &
+02. 3x5
+03. St. Patrick's Day
+04. Neon
+05. encore
+06. 83 $
+07. Something's Missing@
+
+Notes:
+----------------------------------------------------
+% The weird flutter noise came from the PA, it will be on every tape
+@ John solo
+# John and David
+& Always on Time intro
+$ 80's medley
+* I originally wanted to do a complete retransfer of this show, however the  master DAT was too degraded.  Fortunately the master shn file set was fine.  Enjoy this fine show. 

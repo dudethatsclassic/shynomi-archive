@@ -62,7 +62,8 @@ const ARTIST_DATA = {
       "venue": "KABL Radio",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-11-02 - Minneapolis, MN - KABL Radio [FM].txt"
     },
     {
       "year": 1990,
@@ -75,7 +76,8 @@ const ARTIST_DATA = {
       "venue": "Music Faucet",
       "notes": "WFMU",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-05-26 - East Orange, NJ - Music Faucet - WFMU [FM].txt"
     },
     {
       "year": 1990,
@@ -88,7 +90,8 @@ const ARTIST_DATA = {
       "venue": "Gabe's Oasis",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-06-20 - Iowa City, IA - Gabe's Oasis [SBD].txt"
     },
     {
       "year": 1990,
@@ -101,7 +104,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Union Terrace",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-06-30 - Madison, WI - Memorial Union Terrace [FM].txt"
     },
     {
       "year": 1990,
@@ -114,7 +118,8 @@ const ARTIST_DATA = {
       "venue": "Hyatt Hotel",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-09-01 - Minneapolis, MN - Hyatt Hotel [SBD].txt"
     },
     {
       "year": 1991,
@@ -127,7 +132,8 @@ const ARTIST_DATA = {
       "venue": "Maxwell's",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "1991-07-16 - Hoboken, NJ - Maxwell's [SBD].txt"
     },
     {
       "year": 1991,
@@ -140,7 +146,8 @@ const ARTIST_DATA = {
       "venue": "Uptown Bar",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "1991-09-27 - Minneapolis, MN - Uptown Bar [SBD].txt"
     },
     {
       "year": 1992,
@@ -166,7 +173,8 @@ const ARTIST_DATA = {
       "venue": "KCRW Studios",
       "notes": "Glboal",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-10-24 - Santa Monica, CA - KCRW Studios - Global Gumbo [FM].txt"
     },
     {
       "year": 1993,
@@ -179,7 +187,8 @@ const ARTIST_DATA = {
       "venue": "The Metro",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-02-14 - Chicago, IL - The Metro [SBD].txt"
     },
     {
       "year": 1993,
@@ -192,7 +201,8 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-03-23 - Amsterdam, The Netherlands - Unknown Venue [SBD].txt"
     },
     {
       "year": 1993,
@@ -205,7 +215,8 @@ const ARTIST_DATA = {
       "venue": "Pumpehuset",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-03-28 - Copenhagen, Denmark - Pumpehuset [FM].txt"
     },
     {
       "year": 1993,
@@ -218,7 +229,8 @@ const ARTIST_DATA = {
       "venue": "Saturn Club",
       "notes": "",
       "version": "MTX",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1993-03-30 - Oslo, Norway - Saturn Club (SBD-AUD) [MTX].txt"
     },
     {
       "year": 1993,
@@ -231,7 +243,8 @@ const ARTIST_DATA = {
       "venue": "Toad's Place",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-05-14 - New Haven, CT - Toad's Place [SBD].txt"
     },
     {
       "year": 1993,
@@ -242,7 +255,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "notes": "ANA(M) · ECM-909 · tjcruz",
+      "notes": "ANA(M) \u00b7 ECM-909 \u00b7 tjcruz",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -257,7 +270,8 @@ const ARTIST_DATA = {
       "venue": "People's Bar & Grill",
       "notes": "mr. sifter remaster",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-02-12 - Ames, IA - People's Bar & Grill  (mr. sifter remaster) [SBD].txt"
     },
     {
       "year": 1995,
@@ -268,7 +282,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -283,7 +297,8 @@ const ARTIST_DATA = {
       "venue": "The Troubadour",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-22 - West Hollywood, CA - The Troubadour (unk) [AUD].txt"
     },
     {
       "year": 2000,
@@ -294,9 +309,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Theater of the Living Arts",
-      "notes": "Schoeps MK4vs · bill haegele",
+      "notes": "Schoeps MK4vs \u00b7 bill haegele",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2000-11-11 - Philadelphia, PA - Theater of the Living Arts (Schoeps MK4vs) (bill haegele) [AUD24].txt"
     },
     {
       "year": 2015,
@@ -322,7 +338,8 @@ const ARTIST_DATA = {
       "venue": "Electric Fetus",
       "notes": "AKG CK63",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-07-16 - Minneapolis, MN - Electric Fetus (AKG CK63) [AUD].txt"
     },
     {
       "year": 2020,
@@ -335,7 +352,8 @@ const ARTIST_DATA = {
       "venue": "Academy of Music Theatre",
       "notes": "notarydpo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2020-03-08 - Northampton, MA - Academy of Music Theatre (notarydpo) [AUD].txt"
     },
     {
       "year": 2019,
@@ -346,9 +364,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Ardmore, PA",
       "venue": "Ardmore Music Hall",
-      "notes": "SBD + Neumann KM84s · julsay",
+      "notes": "SBD + Neumann KM84s \u00b7 julsay",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-06-15 - Ardmore, PA - Ardmore Music Hall (SBD + Neumann KM84s) (julsay) [MIX].txt"
     },
     {
       "year": 2021,
@@ -359,9 +378,10 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "The Hamilton",
-      "notes": "Gefell M21 · alex leary",
+      "notes": "Gefell M21 \u00b7 alex leary",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2021-10-08 - Washington, D.C. - The Hamilton (Gefell M21) (alex leary) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -372,9 +392,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Chapel",
-      "notes": "Schoeps CCM4 · unk",
+      "notes": "Schoeps CCM4 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-10-24 - San Francisco, CA - The Chapel (Schoeps CCM4) (unk) [AUD].txt"
     },
     {
       "year": 2022,
@@ -385,9 +406,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Minnesota State Fair",
-      "notes": "ATM-11 SM · mike mahoney",
+      "notes": "ATM-11 SM \u00b7 mike mahoney",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-09-04 - St. Paul, MN - Minnesota State Fair (ATM-11 SM) (mike mahoney) [AUD].txt"
     },
     {
       "year": 2023,
@@ -398,9 +420,10 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Malmo, SWE",
       "venue": "Slagthuset",
-      "notes": "CA14s · Sony PCM-M10 · unk",
+      "notes": "CA14s \u00b7 Sony PCM-M10 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-04-12 - Malmo, SWE - Slagthuset (CA14s) (Sony PCM-M10) (unk) [AUD].txt"
     },
     {
       "year": 2024,
@@ -411,9 +434,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Evanston, IL",
       "venue": "S.P.A.C.E.",
-      "notes": "Late Show · DPA 4060 · ademotte",
+      "notes": "Late Show \u00b7 DPA 4060 \u00b7 ademotte",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-02-24 - Evanston, IL - S.P.A.C.E. (Late Show) (DPA 4060) (ademotte) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -424,9 +448,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Evanston, IL",
       "venue": "S.P.A.C.E.",
-      "notes": "Edirol R-07 · lucca",
+      "notes": "Edirol R-07 \u00b7 lucca",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-02-25 - Evanston, IL - S.P.A.C.E. (Edirol R-07) (lucca) [AUD].txt"
     },
     {
       "year": 2024,
@@ -437,9 +462,10 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Infinity Music Hall",
-      "notes": "DPA 4061s + CSBs · km",
+      "notes": "DPA 4061s + CSBs \u00b7 km",
       "version": "MIX",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-05-03 - Hartford, CT - Infinity Music Hall (DPA 4061s + CSBs) (km) [MIX24].txt"
     },
     {
       "year": 2024,
@@ -450,9 +476,10 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Infinity Hall",
-      "notes": "Tascam DR22 · john lombardi · inc",
+      "notes": "Tascam DR22 \u00b7 john lombardi \u00b7 inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-05-03 - Hartford, CT - Infinity Hall (Tascam DR22) (john lombardi) (inc) [AUD].txt"
     },
     {
       "year": 2025,
@@ -463,9 +490,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Chesterfield, MO",
       "venue": "The Factory",
-      "notes": "Sony PCM-A10 · shane e. calhoon",
+      "notes": "Sony PCM-A10 \u00b7 shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-08-03 - Chesterfield, MO - The Factory (Sony PCM-A10) (shane e. calhoon) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -476,9 +504,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Salt Shed",
-      "notes": "iPhone · ryan fisher",
+      "notes": "iPhone \u00b7 ryan fisher",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-08-07 - Chicago, IL - The Salt Shed (iPhone) (ryan fisher) [AUD].txt"
     },
     {
       "year": 2025,
@@ -489,9 +518,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Ardmore, PA",
       "venue": "Ardmore Music Hall",
-      "notes": "AKG C414B · jamie burks",
+      "notes": "AKG C414B \u00b7 jamie burks",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-09-26 - Ardmore, PA - Ardmore Music Hall (AKG C414B) (jamie burks) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -502,9 +532,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Tarrytown, NY",
       "venue": "Tarrytown Music Hall",
-      "notes": "Instamic Pro Plus C · km",
+      "notes": "Instamic Pro Plus C \u00b7 km",
       "version": "AUD",
-      "format": "MIX 24"
+      "format": "MIX 24",
+      "textFile": "2025-11-22 - Tarrytown, NY - Tarrytown Music Hall (Instamic Pro Plus C) (km) [MIX24].txt"
     }
   ],
   "misc": [

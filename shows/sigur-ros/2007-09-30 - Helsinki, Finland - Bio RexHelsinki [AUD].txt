@@ -1,0 +1,21 @@
+SIGUR RÓS
+Bio Rex, Helsinki, Finland
+September 30th, 2007
+
+source: DPA4061>MPS6010>MT2496 (@ 24bit/48kHz)
+edits: Adobe Audition (normalizing (separately for music & applause), dropout fixes, hiss reduction, dither&downsample to 16bit/44.1kHz) > CDWave (splits) > FLAC
+taped & edited by voiton.ruusu@gmail.com
+
+setlist:
+01 njósnavélin 5:31
+02 heima 4:09
+03 ágætis byrjun 7:18
+04 q+a with Dean DeBlois and Sigur Rós 15:45
+
+total time: 32:43
+
+Flac fingerprints:
+sigurros2007-09-30t01.flac:ce6cebe417139423c184f47c5ca7b653
+sigurros2007-09-30t02.flac:2680486a09347c4a122156b77329e56a
+sigurros2007-09-30t03.flac:b8d639916f677a02c473abef4d6097dc
+sigurros2007-09-30t04.flac:a850a55c13fa0b14a50146db5fccf19b

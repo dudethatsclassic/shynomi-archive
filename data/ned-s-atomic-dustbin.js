@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "KROQ Noontime Free Concert at the Roxy Theatre",
       "notes": "van",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-07-25 - West Hollywood, CA - KROQ Noontime Free Concert at the Roxy Theatre (van) [AUD].txt"
     },
     {
       "year": 2023,
@@ -32,7 +33,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Wolverhampton, UK",
       "venue": "The Halls at the Civic",
-      "notes": "Roland R05 · motr1912",
+      "notes": "Roland R05 \u00b7 motr1912",
       "version": "AUD",
       "format": "FLAC"
     }

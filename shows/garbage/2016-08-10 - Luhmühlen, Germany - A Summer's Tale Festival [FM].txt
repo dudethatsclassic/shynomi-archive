@@ -1,0 +1,35 @@
+Garbage 2016-08-10 - Luhmühlen, Germany, A Summer's Tale Festival
+
+Digital broadcast NDR-Blue, 31.03.2017
+
+lineage: Harman Kardon AVR 11 (cable) -> Realtek HD Audio -> AIMP2-Recorder -> digital tape (flac, level 8) -> edit and split with Audacity 1.3 -> tracks (wave 16/44) -> fix SBE's with TLH -> tracks (wave 16/44) -> final tag and convert to flac with foobar 2000 (tracks, level 8)
+
+setlist (full concert was broadcasted)
+
+1. Supervixen
+2. Stupid Girl
+3. Sex Is Not The Enemy
+4. Doomed
+5. Special
+6. Blackout
+7. Bleed Like Me
+8. Push It
+9. VOW
+10. Only Happy
+11. Cherry Lips
+
+total time: 52 min.
+
+
+-- flac fingerprints --
+01. Supervixen.flac:ce1a4ed8cbd3041861e043e649c45977
+02. Stupid Girl.flac:e42e71225b165d2e1397e33f0af2230f
+03. Sex Is Not The Enemy.flac:9041889d9747f862d132feb74f7db591
+04. Doomed.flac:5f925caf3d8dab23c06a6f35c745db75
+05. Special.flac:a8f704c1b0c3951cf54c6067aeafe00a
+06. Blackout.flac:d40d3a7cafd7f2eb738dc866452e5e24
+07. Bleed Like Me.flac:9dc82e4d7130c87fa5c66629dad7308b
+08. Push.flac:1fa292ce26d8adb36100bd59f52fbe6d
+09. VOW.flac:f126e5a216605124a8664fe72386767b
+10. Only Happy.flac:81ef544c2150a3c5b229bfc7f6e9418d
+11. Cherry Lips.flac:7f6d7b24f6531bfd1a40472a751a2715

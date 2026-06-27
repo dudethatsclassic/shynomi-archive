@@ -1,0 +1,20 @@
+01. Queen of California.flac:  successfully fixed/rewritten to '01. Queen of California-fixed.flac'.
+02. Half of My Heart.flac:  successfully fixed/rewritten to '02. Half of My Heart-fixed.flac'.
+03. Belief.flac:  successfully fixed/rewritten to '03. Belief-fixed.flac'.
+04. Who Says.flac:  successfully fixed/rewritten to '04. Who Says-fixed.flac'.
+05. I Don't Trust Myself (With Loving You).flac:  successfully fixed/rewritten to '05. I Don't Trust Myself (With Loving You)-fixed.flac'.
+06. No Such Thing.flac:  successfully fixed/rewritten to '06. No Such Thing-fixed.flac'.
+07. Waiting on the Day.flac:  successfully fixed/rewritten to '07. Waiting on the Day-fixed.flac'.
+08. Slow Dancing in a Burning Room.flac:  successfully fixed/rewritten to '08. Slow Dancing in a Burning Room-fixed.flac'.
+09. XO.flac:  successfully fixed/rewritten to '09. XO-fixed.flac'.
+10. Free Fallin'.flac:  successfully fixed/rewritten to '10. Free Fallin'-fixed.flac'.
+11. Wildfire.flac:  successfully fixed/rewritten to '11. Wildfire-fixed.flac'.
+12. Speak for Me.flac:  successfully fixed/rewritten to '12. Speak for Me-fixed.flac'.
+13. Waiting on the World to Change.flac:  successfully fixed/rewritten to '13. Waiting on the World to Change-fixed.flac'.
+14. If I Ever Get Around to Living.flac:  successfully fixed/rewritten to '14. If I Ever Get Around to Living-fixed.flac'.
+15. Edge of Desire.flac:  successfully fixed/rewritten to '15. Edge of Desire-fixed.flac'.
+16. Dear Marie.flac:  successfully fixed/rewritten to '16. Dear Marie-fixed.flac'.
+17. Your Body Is a Wonderland.flac:  successfully fixed/rewritten to '17. Your Body Is a Wonderland-fixed.flac'.
+18. Gravity.flac:  successfully fixed/rewritten to '18. Gravity-fixed.flac'.
+
+Padded last file with 1400 zero-bytes.

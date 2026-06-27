@@ -1,0 +1,70 @@
+John Mayer
+August 16, 2013
+Comcast Theatre
+Hartford, CT
+
+
+
+Taper: Steve Walkuski 
+Location: Sec 300, Row P, Seats 311 & 312, Left stack, mics A-B config, stand at 12 feet* 
+Source: Beyer mc930> Naiant Bigbox (XLR out)> Edirol R-09HR (1/8 Mini In) @ 24/96 kHz
+Transfer: Beyer mc930->USB->PC
+Conversion: Tom Gambichler 24/96kHz wav->Soundforge Pro 10.0 for resample and dither to 16/44.1 kHz, No normalization, Waves L3 UltraMaximizer applied->CDWave Editor->Flac Frontend(level 5)> Foobar 2000 for tagging
+
+*************************************************************************
+***** DO NOT ENCODE THIS SHOW TO LOSSY FORMATS EXCEPT FOR PERSONAL USE*** 
+**********DO NOT SELL OR DISTRIBUTE FOR PROFIT***************************
+************************************************************************* 
+
+Disc 1
+
+01. Intro 
+02. Queen of California->
+03. Lay Down Sally $
+04. Paper Doll
+05. Half of my Heart *
+06. Speak For Me (w/John banter intro)
+07. I Don't Trust Myself
+08. Dear Marie
+09. If I Ever Get Around to Living
+10. Vultures
+11. Free Fallin' (acoustic) &
+12. '83 (acoustic)
+13. Your Body is a Wonderland (acoustic)
+
+Disc 2
+
+14. Wildfire
+15. Something Like Olivia
+16. Waiting on the World to Change
+17. Age of Worry
+18. Waiting on the Day->
+19. Who Says
+20. Born & Raised (Harmonica intro)
+21. Going Down the Road Feeling Bad->
+22. Slow Dancing in a Burning Room
+
+23. Encore Break
+
+Encore
+
+24. Gravity
+
+
+
+$ Eric Clapton cover
+& Tom Petty cover
+
+
+
+
+* During Half of My Heart, security requested the mic stand be lowered to 9 feet for the remainder of the show
+
+
+
+Thanks to Steve for sending me the wav file to convert
+
+
+
+
+Compiled by Tom Gambichler on August 18, 2013

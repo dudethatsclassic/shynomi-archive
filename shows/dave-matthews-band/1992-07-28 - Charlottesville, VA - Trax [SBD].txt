@@ -1,0 +1,83 @@
+Dave Matthews Band
+Trax
+Charlottesville, VA
+July 28, 1992
+
+
+Taper:      	Unknown
+Source Info:    SBD -> Cassette (unknown generation) -> CD
+
+Conversion: Adam Nelson (nelso222@msu.edu) & Henry Hart
+
+CD > flac:  EAC (secure mode, all tracks 100%) -> WAV -> flac frontend (level 6)
+Tracks split using CD Wave v1.93.3
+
+
+                          ********************
+                          PRESERVE THE QUALITY
+                          DO NOT ENCODE TO MP3
+                          ********************
+
+
+Track   |       Name           	|   Time (m:s)
+---------------------------------------------------
+Set I:
+d1t01		Best Of What's Around		05:39
+d1t02		Help Myself				05:00
+d1t03		Jimi Thing ->			11:54
+d1t04		Seek Up				04:28
+d1t05		Typical Situation			08:07
+d1t06		Angel From Montgomery ^		04:29
+d1t07		Satellite				04:17
+d1t08		Warehouse				07:32
+d1t09		Lover Lay Down			07:04
+d1t10		All Along The Watchtower ->	05:54
+d1t11		What Would You Say		04:44
+
+Set II:
+d2t01		Drive In Drive Out *		03:39
+d2t02		Lie In Our Graves *		02:21
+d2t03		Tangerine *				05:38
+d2t04		True Reflections ->		06:38
+d2t05		Minarets				06:30
+d2t06		Song That Jane Likes		03:39
+d2t07		Ants Marching ->			04:23
+d2t08		Recently ->				07:44		
+d2t09		Spotlight				05:32
+d2t10		Cry Freedom				06:42
+d2t11		Two Step				07:52
+d2t12		Dancing Nancies			06:41
+d2t13		Tripping Billies			04:40
+
+
+
+NOTES:
+----------
+^ = John Prine Cover
+* = Dave solo
+
+This is a really sweet show, as are all of the other July 1992 shows in circulation. I am not sure why this one was not converted until now because it's a treat to hear.
+
+Dave introduces Satellite as a song by Elvis.
+
+Boyd says "I love Dave Matthews passionately and I don't give a fuck who knows."
+
+Dave's sister Jane is at the show. 
+
+Dave mentions the 07/31/92 Trax show (a rare Friday evening show) and how he wants 1000 people to show up for it.
+
+After almost every song, there is a cut in the crowd noise. 
+
+Seek Up is cut off at the very end, but seems to be only a partial
+performance and not the entire song played. 
+
+These rare older shows have been collected and converted through a collaborative effort to get them into circulation. Sometimes these shows do not have the best sound quality (and maybe that's why they aren't circulated much to begin with), but people should have access to them. 
+
+Thanks to Dan Pyrik for the CD source used for the conversion. 
+
+Compiled By Adam Nelson on November 5, 2006
+
+UPDATE by Henry Hart on 11.21.06:
+This show needed a minor speed/pitch adjustment and very small gaps of
+silence removed from between each song. I did this in Cool Edit
+Pro v2.1 and retracked.

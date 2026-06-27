@@ -1,0 +1,51 @@
+The Black Crowes 
+September 29, 1996 
+Fox Theatre 
+Boulder, CO
+
+Source: Audience DAT 
+
+Recording Information: Sony TCD-D7 with Sennheiser K6 microphones and ME66 capsules.
+(preamp/power supply or batteries unknown) 
+
+Lineage: DAT Master>Digital DAT Clone>Digital DAT Clone>WAV>FLAC
+
+Mastering Informtion: DAT converted to Wave optically via a Prodiff 96 digital 
+soundcard into Wavelab. Downsampled from 48kHz to 44.1kHz in Wavelab. Individual Wave
+tracks created in Wavelab. Wave files converted to FLAC using FLAC Frontend.
+
+DISC 1: 56:12
+
+1. Gone
+2. Let Me Share The Ride
+3. Mellow Down Easy
+4. Bring On, Bring On
+5. Sister Luck
+6. Shake Your Money Maker
+7. Jam
+8. Black Moon Creeping
+9. Could I've Been So Blind
+10. Good Friday
+11. One Mirror Too Many
+
+DISC 2: 54:38
+
+1. Just Say You're Sorry
+2. NonFiction
+3. High Head Blues
+4. Evil Eye
+5. No Speak No Slave
+6. She
+7. Chevrolet
+8. Remedy
+9. Big Time
+
+Notes: Additional Show Information @ http://www.crowesbase.com/tapelisting.cfm?TapeID=312
+
+Torrent uploaded to bt.etree.org on 5/6/05.
+
+Please do not dub to analog tape or convert to MP3 and circulate. If you are to trade 
+this show, or do a blank CDR+postage offer, please list the lineage to keep the 
+generational waters clean! 
+
+"A Spider-Web Torrent"

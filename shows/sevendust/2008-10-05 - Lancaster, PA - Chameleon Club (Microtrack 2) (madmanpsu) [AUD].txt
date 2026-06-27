@@ -1,0 +1,74 @@
+Sevendust
+Chameleon Club
+Lancaster, PA
+October 5, 2008
+
+Lineage:
+Microtrack 2 w/ included Mics >Sandisc Extreme 8 gb flashcard
+>Dell Desktop via usb >Audacity(tracks) >Mediafire file hosting
+>Audition 1.5(clip restoration, 13 db boost, minor eq, re-tracked)
+>FLAC(level 8).
+
+Taper:
+madmanpsu
+
+Mastering:
+kevdogg
+
+Set/Track List:
+Disc 1
+1. intro/Inside
+2. Alpha
+3. lajon speaks
+4. Enemy
+5. My Ruin
+6. Pieces
+7. Clueless
+8. Waffle
+9. suffocate intro
+10. Suffocate
+11. Prodigal Son
+12. Denial
+13. Driven
+14. Angels Son
+15. Praise
+
+Disc 2
+16. Bitch
+17. Face To Face
+
+Taper's Notes:
+The files there are the original wav, all I did was track them out.
+Unfortunately, I do not have a bass roll off, so there is some low
+end distortion. I am also pretty sure this is before I got my
+Soundprofessional mics so the recording lineage would be Microtrack
+2 with the included Mics, Sandisc Extreme 8 gig flashcard, Dell
+Desktop via usb, track splitting in Audacity, Mediafire. I have no
+experience editing and truthfully don't know if anything can be done
+to this show to improve it or not. I have not listened to it in a
+while, but I don't think it is terrible or unlistenable, just not
+very good either.
+-madmanpsu
+
+Mastering Notes:
+After recieving and listening to the raw version of this show I was
+convinced there was nothing I could do to make a dramatic improvement
+on it's sound. The low end was severly distorted and it carried over
+most of the higher frequencies. After some unsuccessful experiments
+I happened upon a noise reduction filter known as Clip Restoration.
+I applied it over the entire wave in the 'Restore Heavily Clipped'
+preset. After that I boosted the overall volume by 12 db and tweaked
+the eq slightly to what I felt sounded best. I eliminated a great
+deal of preshow music and preshow audience chatter. I also thought
+the track marks would flow better if I moved them around a bit.
+Lastly, I tried my best to make this a one-disc show but even with
+minimal time before intro music and abrupt fade-out after the stage
+noise is cut, it would still run to 82:01. Just too much data for a
+single cd-r. So I placed everything up to and including the encore
+break on disc 1 and their return to the stage and final 2 songs on
+disc 2. Despite the quality setbacks here, I am really glad madmanpsu
+has decided to share his recording with us. It's a given that there's
+simply not enough audio documentation of Sevendust's live performances
+in relation to how many shows they've played over the years. So send
+him your thanks and consider helping out with sharing more Sevendust!
+-kevdogg

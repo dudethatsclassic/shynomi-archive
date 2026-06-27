@@ -1,0 +1,42 @@
+Vertical Horizon
+4-3-04
+Knight's Hall, Bellarmine University
+Louisville, KY
+
+Source:		ck63 > Active Cables > JK Labs DVC > Canare Starquad Interconnects > Apogee Mini-Me > Sony M1 @ 44.1kHz
+Taper:		Jon Ice (ice@justdmb.com)
+Location:	Right stack, approx 15' from speakers @ 7'
+Conversion:	M1 > EMI Emagic 2|6 > Sound Forge v6.0 > CD Wave
+		shntool to check sector boundary errors and create shns
+
+		** No DAE - .WAV > .SHN **
+		** Seek Tables Appended **
+
+Disc One
+01:	Intro			01:28
+02:	When You Cry		03:57
+03:	You're A God		05:07
+04:	Sunsine			03:42
+05:	Best I Ever Had		05:12
+06:	Shackled		05:44
+07:	Goodbye Again		05:20
+08:	I'm Still Here		04:41
+09:	On The Sea		08:56
+Total				44:07
+
+Disc Two
+01:	Send It Up		04:53
+02:	Won't Go Away		04:00
+03:	Wash Away		16:39
+04:	Forever			04:59
+05:	Everything You Want	06:20
+Encore:
+06:	Finding Me		05:27
+07:	We Are			08:35
+Total				50:55
+
+Notes:
+None
+
+compiled by Jon Ice <4.9.04>
+

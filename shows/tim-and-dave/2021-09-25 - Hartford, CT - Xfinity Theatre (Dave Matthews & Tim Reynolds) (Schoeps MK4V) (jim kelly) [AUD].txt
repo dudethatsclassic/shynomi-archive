@@ -1,0 +1,42 @@
+Dave Matthews & Tim Reynolds
+Farm Aid 2021
+Xfinity Theatre
+Hartford, CT
+September 25, 2021
+
+** 16 BIT **
+
+Source:  Schoeps MK4V radial cardioids (in a Kangol hat) > Nbob actives > Nbox Platinum > Roland R-05 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  Section 800, Row GG - 5th row of second section back, to the left of center from the stage   
+Recorded by:  Jim Kelly (musicjaime)
+Mastered by:  Dennis Orr
+
+Setlist: (40:36)
+01 Intro
+02 Bartender
+03 Chat
+04 Save Me
+05 Chat & Tuning
+06 Stay Or Leave
+07 Chat
+08 Grey Street
+09 Warehouse
+10 Chat
+11 Ants Marching
+
+Dave Matthews - lead vocals & guitar
+Tim Reynolds - guitar
+
+DaveMatthews&TimReynolds2021-09-25t01.flac:9bd7175ba9f1ed60c6c63f05c858952e
+DaveMatthews&TimReynolds2021-09-25t02.flac:2f4cd8c7bf8ddfdbef46db58222c1a2c
+DaveMatthews&TimReynolds2021-09-25t03.flac:523fd6824b5f5e2380ff10ef7908c06f
+DaveMatthews&TimReynolds2021-09-25t04.flac:228410f580f98cb4212135aa70c71564
+DaveMatthews&TimReynolds2021-09-25t05.flac:5d14ed3bff9bbd9bd41c68727d803194
+DaveMatthews&TimReynolds2021-09-25t06.flac:781fc79d041ade0aeff16f68658fdc95
+DaveMatthews&TimReynolds2021-09-25t07.flac:9e56d3c5e03ab041ef19a0c9517f4869
+DaveMatthews&TimReynolds2021-09-25t08.flac:5a60b7ec225c7cb0be6227fe2d501b9e
+DaveMatthews&TimReynolds2021-09-25t09.flac:554618ad57bed60925894bfe46e2bb0e
+DaveMatthews&TimReynolds2021-09-25t10.flac:f8d085dfc70d3818927bd2108827aefe
+DaveMatthews&TimReynolds2021-09-25t11.flac:b31537b937f98ac2e81789462a1e7272

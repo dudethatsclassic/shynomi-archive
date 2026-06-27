@@ -1,0 +1,35 @@
+Wilco
+Alma Festival,
+Poble Espanyol
+Barcelona, Spain
+2025-06-26
+
+Source: 2 x Line Audio CM4 -> Tascam FR-AV2 at 32/48
+Transfer: USB -> Soundforge (fades, dither, resample to 16/44.1)/iZotope Ozone 11 (EQ) -> cdwave -> flac (TLH)
+Location: Centre stage 20 meters back.
+ 
+01. Company In My Back
+02. Evicted
+03. Handshake Drugs
+04. Side With The Seeds
+05. I Am Trying To Break Your Heart
+06. If I Ever Was A Child
+07. Bird Without A Tail/Base Of My Skull
+08. Via Chicago
+09. One Wing
+10. Hummingbird
+11. Quiet Amplifier
+12. Either Way
+13. Meant To Be
+14. Box Full Of Letters
+15. Annihilation
+16. Jesus, Etc.
+17. Impossible Germany
+18. Heavy Metal Drummer
+19. Spiders (Kidsmoke)
+--
+20. California Stars
+21. Walken
+22. I Got You (At The End Of The Century)
+
+pata63 - 20250914 

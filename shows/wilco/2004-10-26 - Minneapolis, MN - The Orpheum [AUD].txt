@@ -1,0 +1,66 @@
+Wilco
+October 26, 2004
+The Orpheum Theater
+Minneapolis, Minnesota
+
+dpa 4022(x-y)>oade m148>oade mod sbm1>sony m1 clamped to balcony light bar, DFC, 45' from stage. 
+Taped by Marc N. 
+Transfer: CDR>EAC(secure mode)>wav(tracks joined & split with Goldwave and CDWave)>FLAC frontend(level 8)>FLAC Transfer by bldad
+
+trade CDs > EAC > Wav > Sound Forge Pro 10.0 > TLH > FLAC
+
+
+01 Poor Places
+02 At Least That's What You Said
+03 Muzzle Of Bees
+04 Hell Is Chrome
+05 Hummingbird
+06 I Am Trying To Break Your Heart
+07 I'm Always In Love
+08 Handshake Drugs
+09 A Shot In The Arm
+10 Radio Cure
+11 War On War
+12 Jesus, Etc.
+13 Theologians
+14 I'm The Man Who Loves You
+15 Less Than You Think
+16 Spiders (Kidsmoke)
+17 A Magazine Called Sunset
+18 The Late Greats
+19 Kingpin
+20 I'm A Wheel
+21 Heavy Metal Drummer
+22 California Stars
+23 Be Not So Fearful
+
+118:08 
+
+
+I've found out that there are many Wilco shows up to ~2005 that have probably never been torrented (at least not since ~2005) 
+but have only been traded, presumably in the last years of traditional trading. Somehow, these shows were forgotten in the first 
+waves of torrenting - or deemed not worthy of digital distribution ... or simply those traders in possesion never made the step to
+torrenting and then stopped trading altogether, like most everybody did.
+I've searched high and low, checked countless old lists and sent a lot of asking mails to ancient email addresses. About half of them
+bounced, another quarter didn't reply - and the ones that did hadn't traded (or stopped collecting) in a long time. But then I
+found two friendly persons, one in Seattle, the other on the East Coast who were willing to share shows with me. Arrangements 
+were made and now I am able to (re-)introduce about two dozen Wilco and Jeff Tweedy shows to you.
+I have not yet listened to all, most need some work. I guess many of the original CDs are flawed by now, but apart of some
+occasional odd digi scratches, everything can be rescued or restored, it'll take some time, please be patient.
+
+
+notes to the 2018 edition:
+October 26, 2004, Minneapolis, Minnesota
+dpa 4022(x-y)>oade m148>oade mod sbm1>sony m1 clamped to balcony light bar, DFC, 45' from stage. 
+CDR>EAC(secure mode)>wav(tracks joined & split with Goldwave and CDWave)>FLAC frontend(level 8)>FLAC 
+> trade CDs > EAC > Wav > Sound Forge Pro 10.0 > TLH > FLAC
+
+No digital flaws, I just chose to patch the originally separated applause tracks onto the preceeding ones and re-joined the two CDs (11/12). 
+Thanks Robert.
+
+[2018-05-10]
+
+
+Respect the Artists
+Never sell - for trade only
+Please do not encode to lossy formats

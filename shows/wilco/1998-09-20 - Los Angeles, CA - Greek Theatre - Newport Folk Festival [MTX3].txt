@@ -1,0 +1,78 @@
+Wilco
+
+Newport Folk Festival
+
+Greek Theatre - Los Angeles, CA
+1998-09-20
+
+
+
+
+1. James Alley Blues
+
+2. Christ for President
+
+3. Hesitating Beauty
+
+4. When the Roses Bloom Again
+
+5. New Madrid
+
+6. She's a Jar
+
+7. Forget the Flowers
+
+8. California Stars
+
+
+
+Notes:
+-- Source: SBD/AUD Matrix
+
+(KerouacAW
+
+z/Zavyer)
+
+-- Lineage: SBD and AUD  > Ardour 5.12.1(Ubuntu Studio 16.04.03) > (Mix,fade adjustment & crossfades) > TLH (fix-SBes,sums,file integrity check)
+ > Foobar2K Live Show Editor >
+ Deluge
+
+-- Source One: SBD 
+
+Lineage: CD-R>EAC (secure w/ read offset)>WAV>FLAC (level 5)
+files re-flaced, re-named and tagged.[ Uknown taper ] Thank you for this great recording.
+
+
+
+-- Source Two : AUD marcsounds > sony tcd-d100 / Taper: markp - 
+Many thanks to markp for this great AUD, have come across many of his quality recordings and have multiple in my collection to my delight and appreciation. Thanks a million markp.
+
+
+ 
+-- Wilco was sounding exceptional at this show, a more laid back sound due to The Folk Fest atmosphere with Jeff's vocals on point.
+
+****************************************************************************************************************************
+
+ffp:
+wilco1998-09-20Matrixt01.flac:5e92f496cb3603da31ec2c79c782a78f
+wilco1998-09-20Matrixt02.flac:43ae93a9a2853928794860810a57c8f9
+wilco1998-09-20Matrixt03.flac:434e7d80c607a2e2d39e95b597735b63
+wilco1998-09-20Matrixt04.flac:441ed3f7e188bfd279889132b4b89613
+wilco1998-09-20Matrixt05.flac:2969a04787c05a191112b1fef8f9e299
+wilco1998-09-20Matrixt06.flac:26a43ff1846e5c3b3cfef932c81e4dc7
+wilco1998-09-20Matrixt07.flac:79add012e7f8886eea3502cd08014978
+wilco1998-09-20Matrixt08.flac:af0555923e9d19e9a8d4f78f2123f83e
+
+No errors occured.
+
+st5:
+5e92f496cb3603da31ec2c79c782a78f  [shntool]  wilco1998-09-20Matrixt01.flac
+43ae93a9a2853928794860810a57c8f9  [shntool]  wilco1998-09-20Matrixt02.flac
+434e7d80c607a2e2d39e95b597735b63  [shntool]  wilco1998-09-20Matrixt03.flac
+441ed3f7e188bfd279889132b4b89613  [shntool]  wilco1998-09-20Matrixt04.flac
+2969a04787c05a191112b1fef8f9e299  [shntool]  wilco1998-09-20Matrixt05.flac
+26a43ff1846e5c3b3cfef932c81e4dc7  [shntool]  wilco1998-09-20Matrixt06.flac
+79add012e7f8886eea3502cd08014978  [shntool]  wilco1998-09-20Matrixt07.flac
+af0555923e9d19e9a8d4f78f2123f83e  [shntool]  wilco1998-09-20Matrixt08.flac
+
+No errors occured.

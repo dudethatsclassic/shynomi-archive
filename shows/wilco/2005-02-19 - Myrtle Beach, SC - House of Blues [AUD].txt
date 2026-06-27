@@ -1,0 +1,79 @@
+Wilco 
+February 19, 2005
+North Myrtle Beach, House Of Blues
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Original info file (additional notes below !): 
+
+
+Source: Nakamichi CM300's [CP1, DIN, DFC in the sweet spot, Lo Cut Filter]> Line Mixer> D7> JB3 (wav, 44.1, 2 db gain boost)
+
+Transfer: JB3> USB> Cool Edit Pro 2.0> CD Wav 1.93> Flac Frontend (level 5)
+
+Taped and Transferred by Patrick Moore (direwolf207@hotmail.com)
+
+DISC 1
+
+01 Handshake Drugs			[6:49]
+02 Hell is Chrome			[4:45]
+03 Hummingbird				[3:43]
+04 Muzzle of Bees			[5:13]
+05 Jesus Etc.				[4:12]
+06 Ashes of American Flags 		[6:02]
+07 War on War				[4:03]
+08 Theologians 				[3:49]
+09 Company in My Back			[3:59]
+10 I am Trying to Break your Heart	[6:22]
+11 Shot in the Arm			[4:47]
+12 At Least that's what you Said	[5:41]
+13 Poor Places				[6:04]
+
+				Total: 	[72:02]
+DISC 2
+
+01 Reservations>			[4:24]
+02 Spiders				[11:16]
+Encore 1
+03 Crowd				[3:01]
+04 Banter				[1:27]
+05 New Madrid				[4:02]
+06 Political Science***			[2:34]
+07 I'm the Man That Loves You*		[4:19]
+08 Late Greats				[2:57]
+09 Outa Site (Outa Mind)		[4:47]
+Encore 2
+10 Happy Birthday**			[0:47]
+11 Misunderstood			[6:35]
+12 Heavy Metal Drummer			[3:45]
+13 Monday*				[4:21]
+14 I'm a Wheel (cut)			[2:20]
+15 Kingpin				[6:52]
+16 Something in the Air***		[5:06]
+
+				Total:  [75:13]
+
+* w/ Head of Femur Horn Section
+** Dedicated to Deb Bernardini, Wilco's Visual Director
+*** Randy Newman Cover
+
+
+Thanks to Steve and Jeannie for the tolerance, and the great weekend!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+notes to the 01-2017 edition:
+
+trade CDs > EAC > Wav > Sound Forge Pro 10.0 > CD Wave 1.98 > TLH > FLAC
+
+I have ripped this show from CDs that I have received a little more than ten years ago in a trade, 
+There were two loud clicks (most likely from a bad CD copy further up in the lineage) which were easy to eliminate. 
+Additionally, I re-tracked the show and spliced the two CDs seamlessly. 
+Please note that the lengths of the CDs given above were incorrect, the whole show runs 134:14
+
+I'm A Wheel is cut at the end, not much missing. The following Kingpin (just that one track) was MUCH louder, mostly clipping,
+than the rest of the recording, which was on a fairly low level, at least on the circulated copy. 
+I lowered the volume for Kingpin, then normalized the whole show. Looks a bit funny in a wave editor but it works ...
+
+All due thanks to the taper. Support the artists, go to their shows. wilcoworld.net
+[2017-01-03] 
+
+

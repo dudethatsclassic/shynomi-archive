@@ -1,0 +1,51 @@
+Garbage
+2 June 02
+Wiltern Theatre, Los Angeles, CA 
+Source: AUD DAT Master
+
+Disc One: 52:16
+
+1. Intro Music 3:24
+2. Push It 4:11
+3. Temptation Waits 6:39
+4. I Think I'm Paranoid 3:48
+5. Special 5:42
+6. Drive You Home 4:15
+7. Til the Day I Die 4:11
+8. Not My Idea 3:42
+9. When I Grow Up 4:47
+10. I Just Wanna Have Something To Do 2:41
+11. Milk 5:21
+12. Shut Your Mouth 3:35
+
+Disc Two: 39:22
+
+Parade 6:22
+You Look So Fine 1:41
+Queer 2:40
+Stupid Girl 4:45
+Cherry Lips 3:16
+Vow 8:06
+
+Encore:
+Supervixen 3:59
+Only Happy When It Rains 4:53
++
+Cherry Lips 3:40
+From Tonight Show with Jay Leno, June 3, 2002, NBC Studios, Burbank, CA
+DirecTV feed > DAT @ 48kHz.
+
+------------------------------------------------------------------------------------------------------------
+
+Bumblebee Production Notes:
+
+AT831b > Sony D100 taped from front row of balcony. Minimal EQ boost around 200Hz and fade in/out; otherwise, 
+this recording represents what's captured on tape.
+
+Transfer: Sony PCM-R500 > Sony CDR-W33. 
+SHN: Plextor SCSI 40TSI > EAC > CoolEditPro 1.2 > CDWav > MKW (SHN) > CDRWin (Master SHN Discs)
+
+Please do NOT encode to MP3 and share freely!!
+
+LeeGeddy
+Bumblebee Productions

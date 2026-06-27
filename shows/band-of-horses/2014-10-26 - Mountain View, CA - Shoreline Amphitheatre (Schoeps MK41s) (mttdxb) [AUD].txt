@@ -1,0 +1,24 @@
+Artist: Band of Horses
+Date: 	October 26th 2014
+Venue:	Shoreline Amphitheatre, Mountain View
+
+
+Setlist: 
+
+01 St. Augustine
+02 Part One
+03 Laredo
+04 Thirteen Days
+05 Is There a Ghost 
+
+
+Source:
+Schoeps MK41s > actives > Tinybox > Sony PCM-M10 (9624) > Audacity 
+[+8db, tracking, 2496>1644 conversion, FLAC Export Level 8] > TLH SBE Fix
+
+Taper: mttdxb
+Location: Section 103, Row D
+
+---------
+
+

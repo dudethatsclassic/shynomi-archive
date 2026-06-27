@@ -20,9 +20,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "W. Hollywood, CA",
       "venue": "The Troubadour",
-      "notes": "Sonic Studios · markp",
+      "notes": "Sonic Studios \u00b7 markp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-08-07 - W. Hollywood, CA - The Troubadour (Sonic Studios) (markp) [AUD].txt"
     },
     {
       "year": 1996,
@@ -33,9 +34,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-06-14 - Mountain View, CA - Shoreline Amphitheatre (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 2023,
@@ -46,9 +48,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Winston Salem, NC",
       "venue": "Bailey Park",
-      "notes": "Gears · CA-11 · ultramega",
+      "notes": "Gears \u00b7 CA-11 \u00b7 ultramega",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-08-05 - Winston Salem, NC - Bailey Park - Gears and Guitars Festival (CA-11) (ultramega) [AUD].txt"
     }
   ],
   "misc": []

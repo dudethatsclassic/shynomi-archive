@@ -1,0 +1,48 @@
+Sigur Ros
+Electric Proms
+Cecil Sharp House
+London
+24th October 2007
+BBC Radio 1 Highlights
+
+01 Vaka** 
+xx Samskeyti 
+xx Agaetis Byrjun 
+02 Staralfur* 
+03 Heima* 
+xx Njosnavellin 
+04 Von* 
+xx Heysatan 
+
+xx - not broadcast (to the best of my knowledge)
+
+Lineage for tracks marked*:
+Broadcast on Colin Murray show, 29th October 2007
+
+Digital Satellite Broadcast (192 kbps)>Sky+ hard drive>iRiver iHP-120 (Rockboxed) wav>PC>
+Audacity 1.3 beta (Fade-in/fade-out)>Shntool (Fix, postpad)>WAV>FLAC
+
+Lineage for track marked**:
+Broadcast on Zane Lowe show, 29th October 2007
+Digital Radio (BBC Radio1 @ 192kbps)>VHS>Stand-Alone CDR Burner>CD>wav> 
+Audacity 1.3 beta (Fade-in/fade-out)>Shntool (Fix, postpad)>WAV>FLAC
+
+Notes:
+I receive BBC Radio 1 via digital satellite in the UK at 192 kbps.  
+(see http://www.digitalradiotech.co.uk/uk_satellite_bit_rates.php)  
+I didn't record this off FM due to me experiencing a few problems last time out. 
+I missed the Zane Lowe track, but the excellent BuckRogers in France receives Radio 1 at the same 
+bit rate via digital satellite and provided the Zane Lowe track.  Many thanks to him for his
+efforts to enable this to be compiled.  
+
+Unfortunately the day after I deleted this from my Sky+ I noticed the optical output which I am now using for future digital transfers 
+- this was an analogue transfer to the iRiver.
+
+There is a bit of audible hiss in the quiet moments.    
+
+The songs were broadcast individually (around an interview in the case of the Colin Murray show, I didn't bother with that), 
+so all have fades in and out.  
+
+As always, if anyone has an FM upgrade please post.  
+
+mp3 samples attached.  

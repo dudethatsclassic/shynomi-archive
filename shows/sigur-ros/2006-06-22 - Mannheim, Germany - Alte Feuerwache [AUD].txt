@@ -1,0 +1,33 @@
+Sigur Rós
+2006-06-22
+Alte Feuerwache
+Mannheim, Germany
+
+Source:     MBHO MBP 603 A / KA 200 N > M-Audio MicroTrack 24/96 (@ 16/48)
+Mic Config: in hat, DINA (17cm, 90°)
+Location:   7m from the stage, dead center
+Transfer:   Master WAV > Digital Editing > CD Wave Editor V1.94 > FLAC V1.1.2
+Editing:    Volume boost and fades in Steinberg WaveLab V5.0a
+Resampling: 48.0 kHz > 44.1 kHz resampling in Steinberg WaveLab V5.0a
+
+Disc 1:
+01 Takk...
+02 Glósóli
+03 Ný Batterí
+04 Sæglópur
+05 Untitled (Njósnavélin)
+06 Hoppípolla
+07 Með Blóðnasir
+08 [Fade Out]
+
+Disc 2:
+01 [Fade In]
+02 Olsen Olsen
+03 Viðdrar Vel Til Loftárása
+04 Hafssól
+05 Untitled (Popplagið)
+06 Outro
+
+Notes:
+Intimate "warm-up" concert for the 2006 summer tour.
+To seamlessly join the two discs, simply remove D1T08 and D2T01.

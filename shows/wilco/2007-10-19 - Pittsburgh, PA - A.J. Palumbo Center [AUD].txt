@@ -1,0 +1,71 @@
+Wilco
+October 19, 2007
+Pittsburgh, PA
+A.J. Palumbo Center
+
+Source: ADK A-51TLs (FOB @ FOH, ~5' ROC, ~6.5' high, cardioids DINa) > Silverpath BumbleBee XLRs > Edirol UA-5 (Oade Warm mod) > iRiver H120 (@ 16bit/44.1kHz)
+Transfer: iRiver H120 > USB 2.0 > Cakewalk Sonar 4.0 (fades & edits) > CD Wave Editor (exported as FLAC)
+Taped & transfered by: Alex Herd (AlexHerd@TapersSection.com)
+
+Disc One:
+01. -introduction-
+02. You Are My Face
+03. Impossibly Germany
+04. Far, Far Away
+05. I Am Trying To Break Your Heart
+06. Pot Kettle Black
+07. Handshake Drugs
+08. A Shot In The Arm
+09. Side With The Seeds 
+10. Via Chicago
+11. War On War
+12. Jesus, Etc.  
+13. Too Far Apart
+14. Walken
+15. I'm The Man Who Loves You
+16. Hummingbird
+
+Disc Two:
+01. On And On And On
+Encore One:
+02. Misunderstood
+03. Cars Can't Escape >
+04. Spiders (Kidsmoke)
+Encore Two:
+05. Hate It Here
+06. Heavy Metal Drummer
+07. Red-Eyed And Blue >
+08. I Got You (At The End Of The Century)
+
+Notes:
+-Some brief level fluctuations at the beginning of You Are My Face
+-No fades between discs so that the show can be joined seamlessly on longer media
+-Thanks to Wilco's FOH engineer Stan Doty for allowing us to tape from FOH!
+
++Thanks to Wilco for allowing taping! Please support them by going to their shows and by buying their merchandise!+
+
+FLAC fingerprint:
+Wilco2007-10-19adkTLd1t01.flac:a176671fc2e11762855623bee333103e
+Wilco2007-10-19adkTLd1t02.flac:8098483008cfa06b37e955d59f4a2468
+Wilco2007-10-19adkTLd1t03.flac:71c492d3b946f3109f26d2e14c0c2b87
+Wilco2007-10-19adkTLd1t04.flac:d5b3e473daee23d2a1e4b94a9c87587d
+Wilco2007-10-19adkTLd1t05.flac:b105cb7e72aefe16c80449a8b88e5b7d
+Wilco2007-10-19adkTLd1t06.flac:85c70ef43d659bde57fc28e577b579b2
+Wilco2007-10-19adkTLd1t07.flac:7d6fbf86063ad10ffc6b754437bdb24c
+Wilco2007-10-19adkTLd1t08.flac:3e12b8714f3d27151c9f621df337d92e
+Wilco2007-10-19adkTLd1t09.flac:38f6cdcaabf76728daa5ae317e7b4f12
+Wilco2007-10-19adkTLd1t10.flac:d361fb42a5ffc46ac8b9d530c401ff0a
+Wilco2007-10-19adkTLd1t11.flac:b928267d1103565902fb8726c8600080
+Wilco2007-10-19adkTLd1t12.flac:9452dc39aace418257252dbeee208a4b
+Wilco2007-10-19adkTLd1t13.flac:4b493a059cbd5a4e832a3aa2729fbd57
+Wilco2007-10-19adkTLd1t14.flac:92874e1eb6781cb70abb14470adbae11
+Wilco2007-10-19adkTLd1t15.flac:26f97cca83f0d4c4118056d688089af0
+Wilco2007-10-19adkTLd1t16.flac:b6df201f02fa3c9110662f3310e06739
+Wilco2007-10-19adkTLd2t01.flac:532c06264b8bd14881b5fb2f3dde7f32
+Wilco2007-10-19adkTLd2t02.flac:9588d49691bec36719a504c5cb1b2575
+Wilco2007-10-19adkTLd2t03.flac:aa68ee7cc223dfc3b222f4116f649c5f
+Wilco2007-10-19adkTLd2t04.flac:a9bc6b59afe176ca095f1ff8e8384757
+Wilco2007-10-19adkTLd2t05.flac:5e8d9b223d5be16f227114da0eec2d03
+Wilco2007-10-19adkTLd2t06.flac:9350dd5421b40aad4c45366032cc2b2a
+Wilco2007-10-19adkTLd2t07.flac:456f452ccc041fda7d9a413c1078786c
+Wilco2007-10-19adkTLd2t08.flac:d4a4d0617d952244844b58d51210dec8

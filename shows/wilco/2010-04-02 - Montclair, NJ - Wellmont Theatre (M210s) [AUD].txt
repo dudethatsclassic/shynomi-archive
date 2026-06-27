@@ -1,0 +1,56 @@
+Wilco
+April 2nd, 2010
+Wellmont Theatre, Montclair, NJ
+
+Master/Conversion:
+Microtech Gefell M210's>Oade M248>SBM-1>D8, D8>Tascam CDRW2000>CD
+by Jon Pasternak
+
+Extraction:
+CD>xACT 1.71 (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+Disc 1 [72:40.16] (minutes:seconds.frames)
+01. intro                                  [01:18.48]
+02. Wilco (the song)                       [03:21.36]
+03. Bull Black Nova                        [05:58.16]
+04. You Are My Face                        [04:53.27]
+05. IATTBYH>                               [06:29.10]
+06. One Wing                               [04:06.14]
+07. Via Chicago                            [05:15.68]
+08. Company In My Back                     [04:15.18]
+09. Handshake Drugs                        [06:56.57]
+10. Side With The Seeds                    [05:37.63]
+11. Pot Kettle Black                       [05:10.10]
+12. Nothing'severgonnastandinmyway(again)  [03:43.40]
+13. I'll Fight                             [04:20.42]
+14. Impossible Germany                     [06:46.06]
+15. California Stars                       [04:27.11]
+
+Disc 2 [71:20.24]
+01. Poor Places>                           [06:27.13]
+02. Spiders (Kidsmoke)                     [05:28.47]
+03. More Like The Moon                     [06:20.35]
+04. Forget The Flowers                     [02:57.54]
+05. Someday, Some Morning, Sometime        [03:11.57]
+06. Laminated Cat                          [02:47.64]
+07. War On War                             [05:27.53]
+08. Passenger Side>                        [04:21.23]
+09. Airline To Heaven                      [04:05.40]
+10. A Shot in the Arm                      [05:18.59]
+11. Jesus, etc. (crowd singalong)          [04:59.16]
+12. You Never Know                         [05:07.42]
+13. Heavy Metal Drummer                    [04:57.71]
+14. Red-Eyed and Blue>                     [03:24.51]
+15. I Got You (At The End of the Century)  [06:23.74]
+
+Disc 3 [36:47.30]
+01. Broken Arrow [Buffalo Springfield]     [06:23.49]
+02. Hummingbird                            [03:33.68]
+03. Hate It Here                           [04:43.64]
+04. Theologians                            [03:37.34]
+05. I'm The Man Who Loves You              [04:30.14]
+06. Monday                                 [04:18.02]
+07. Thank You Friends [Big Star]           [03:32.59]
+08. E: The Late Greats                     [03:05.63]
+09.    I'm A Wheel                         [03:01.52]

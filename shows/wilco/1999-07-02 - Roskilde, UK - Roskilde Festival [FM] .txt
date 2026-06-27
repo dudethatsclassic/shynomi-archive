@@ -1,0 +1,22 @@
+Wilco
+Roskilde Festival, DK
+1999-07-02
+
+source: fm->analogue->sb live->cdr
+transfer: cdr->eac->tlh->flac
+
+01. I'm Always in Love
+02. California Stars
+03. I Must Be High
+04. Hotel Arizona
+05. Nothingsevergonnastandinmyway (again)
+06. Red-Eyed and Blue
+07. I Got You (At the End of the Century)
+08. She's a Jar
+09. Monday
+10. We're Just Friends
+11. Misunderstood
+12. My Darling
+13. Jesus Christ for President
+14. Can't Stand It
+15. A Shot in The Arm

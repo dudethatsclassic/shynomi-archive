@@ -1,0 +1,26 @@
+John Mayer
+7 August 2010
+Comcast Theatre
+Hartford, Connecticut
+
+Recorded by: Christopher Jones <jones.chris@gmail.com> 
+Source: DPA 4015-TL Transformerless Handmatched Wide Cardioid > Cardas Audio Golden Reference Cu XLR Interconnect > Daniel Weiss Digital Audio ADC2 Integrated Microphone Pre-Amplifier and Analog-to-Digital Converter (@ 24-bit / 176.4 kHz) > Cardas Audio Neutral Reference Cu AES / EBU Digital Interconnect > Sound Devices 722 Hard Disk Recorder (slaved to Weiss ADC2 @ 176.4 kHz; @ 24-bit / 176.4 kHz)
+Location: Section 100, Row L, Seats 103 and 104, approximately 15 meters from stageleft line array.  Microphones elevated 3.5 meters, ORTF.
+HD > .flac: Sound Devices 722 Hard Disk Recorder > Apple Mac Pro (2 x 2.66 GHz Dual-Core Intel Xeon / 9GB 667 MHz DDR2 FB-DIMM) > Audiofile Engineering Wave Editor v1.4.5 > xACT v1.62
+
+Resampled with iZotope Resampler at highest quality setting and a filter steepness of "150"; dithered using iZotope MBIT+ with a "Normal" amount of "Ultra" noise shaping applied.  24-bit / 176.4 kHz version of this recording available in .flac24.
+d1t01 Introduction				01:19.33d1t02 (Chest Fever *) >				01:52.53d1t03 Bigger Than My Body			05:33.43d1t04 No Such Thing				05:41.64d1t05 Clarity					05:54.03d1t06 Intro To... %				01:29.20d1t07 Slow Dancing In A Burning Room		07:13.44d1t08 Perfectly Lonely				08:52.11d1t09 Ain't No Sunshine	#			11:14.22d1t10 Gravity					08:45.48						57:56.41d2t01 "Just Engaged..."				00:38.66d2t02 "A Song For The Couple..."		01:25.47d2t03 Who Says					04:57.02d2t04 "Keith Carlock solo..." >			04:03.51d2t05 Waiting On The World To Change		05:15.19d2t06 Heartbreak Warfare			06:54.24d2t07 Do You Know Me				09:20.69d2t08 The Boys Of Summer @!			07:26.21d2t09 "Band Introduction..."			02:13.45d2t10 Half Of My Heart				09:09.31
+---
+d2t11 Edge Of Desire				08:07.14						59:32.14
+() Indicates a tease or partial song if not part of a song with a
+   parenthetical subtitle
+*  The Band cover
+>  Indicates a segue into the next song
+%  Featuring David Ryan Harris on vocals
+#  Bill Withers cover
+@  Don Henley cover
+!  Featuring Pat Monahan on vocals
+
+Notes:
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 10 August 2010.

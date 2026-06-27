@@ -1,0 +1,25 @@
+Filter
+2023-09-23
+Honda Center
+Anaheim, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - The Drowning
+02 - For the Beaten
+03 - Obliteration
+04 - Take a Picture
+05 - Welcome to the Fold
+06 - Hey Man Nice Shot
+
+-- Notes --
+Opening for Rob Zombie and Alice Cooper. Ministry also performed.
+
+Length: 30m45s
+
+-- faninor -- 2023-10-04 --

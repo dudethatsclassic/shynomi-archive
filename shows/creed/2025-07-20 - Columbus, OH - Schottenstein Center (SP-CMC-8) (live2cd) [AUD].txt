@@ -1,0 +1,49 @@
+﻿Creed
+July 20th, 2025.
+Schottenstein Center - Columbus, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   Section 121, Row Q - Seat 16
+            (see chart here: http://www.ticketmaster.com/seatingchart/41424/26899)
+Source:     SP-CMC-8 Cardioids (4.7k mod) > SP-SPSB-11 (@16Hz) > Sony PCM-A10 (24 bit @48kHz) >
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Sony PCM-A10 > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (1:40:49)
+
+01. Bullets					5:03
+02. Ode						5:54
+03. Torn					6:55
+04. Are You Ready? 	 			6:23
+05. Never Die					6:55
+06. My Own Prison	  			7:08
+07. Say I					6:30
+08. Faceless Man				8:34
+09. What If		 			9:20
+10. One						5:31
+11. What's This Life For			5:30
+12. With Arms Wide Open				5:10
+13. Higher					6:40
+14. ~ Encore ~					1:53
+15. One Last Breath				5:11
+16. My Sacrifice				8:12
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+First time seeing Creed since October 15th, 1999 - so, its been awhile.
+The set was primarily focused on the first 2 albums with a few from the
+third. I was hoping they would be playing "Weathered", but it was removed
+from the setlist this year. The band sounded incredibly tight and if you
+can stomach Scott Stapp's motivational speeches in between songs, this is
+a great listen! I guess thats what the next track button is for. I did use
+RX7 to remove some screams, yelps and unnecessary clapping when needed.
+
+Daughtry and Mammoth were also on the bill. [both recorded].
+
+---------------------------------------------------------------------------------------------------------
+For more information on Creed, please visit:
+
+https://creed.com/

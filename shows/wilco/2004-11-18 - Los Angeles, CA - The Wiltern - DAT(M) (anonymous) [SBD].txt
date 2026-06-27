@@ -1,0 +1,44 @@
+Wilco
+November 18, 2004
+The Wiltern
+Los Angeles, CA
+
+Source: SBD > Sony PCM-M1
+Lineage: DAT Master 16/44.1 > FLAC
+Transfer (RyanJ): Tascam DA-20 > coax > Marantz PMD-671 > Audition > .wav
+Mastering (BLG): Adobe Audition > iZotope Ozone 9 > WavePad > xACT > FLAC
+Taper: anonymous
+
+01 Muzzle of Bees
+02 Hummingbird
+03 Hell Is Chrome
+04 I Am Trying To Break Your Heart
+05 Company In My Back
+06 Handshake Drugs
+07 A Shot in the Arm
+08 Via Chicago
+09 Jesus, Etc.
+10 At Least That's What You Said
+11 Theologians
+12 I'm the Man Who Loves You
+13 Poor Places
+14 Reservations
+15 Spiders (Kidsmoke)
+
+Encore 1:
+16 Ashes of American Flags
+17 War On War
+18 Kingpin
+19 The Late Greats
+20 I'm a Wheel
+
+Encore 2:
+21 Another Man's Done Gone
+22 California Stars
+23 Be Not So Fearful
+
+Total Time: 122:40
+
+Notes: This recording has long circulated from CDR with unknown lineage.  This version is transferred directly from the Master DAT.  
+
+.txt compiled on Feb 20, 2022 by BLG

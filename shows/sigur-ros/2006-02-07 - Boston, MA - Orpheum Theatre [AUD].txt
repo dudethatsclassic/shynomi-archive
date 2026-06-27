@@ -1,0 +1,48 @@
+Sigur Rós
+2006.02.07
+Boston Orpheum Theater
+********************
+
+Taper - T.Harrington
+Transfered by - T.Harrington. D8->Tascam CDRW700 (Stand alone cd burner)
+
+FLAC'd + torrented by dw (http://www.drrnwbb.com/bt/)
+CD -> FLAC: CD -> (using EAC) -> WAV -> (using flac frontend level 8) FLAC 
+
+Taper Location: Taped from ORCH row U seat 208. I was DEAD center but 100 or so feet back
+Tech notes - seems a little bassy at first and kinda up and down a little on the levels but its not horrible..really. Pretty cooperative crowd.
+
+disc 1.
+intro			[2.19]
+glósóli			[5.49]
+ný batterí		[9.58]
+sæglópur			[7.44]
+njósnavélin		[7.49]
+gong + andvari		[11.49]
+hoppípolla + með blóðnasir	[6.52]
+olsen olsen		[8.08]
+
+disc 2.
+viðrar vel til loftárása	[11.00]
+svo hjótt			[7.26]
+heysátan			[6.35]
+popplagið 		[12.55]
+
+disc 1:			[60.26]
+disc 2:			[37.56]
+total: 			[98.22]
+
+*************************************************
+FLAC FINGERPRINTS:
+sigurros20060207-d1t01.flac:220f1284911ac1eb104114dd31825a5a
+sigurros20060207-d1t02.flac:2eb4867d24f7ba52a11b6fdeb69ead74
+sigurros20060207-d1t03.flac:1b058334d0bdd2dbe06fab888bc30b47
+sigurros20060207-d1t04.flac:0387864d79545a85c5a97489dfe966db
+sigurros20060207-d1t05.flac:39f048e254ecdaa826189493a06851fa
+sigurros20060207-d1t06.flac:66f346d15be919e45f803b1d0629562e
+sigurros20060207-d1t07.flac:6b29e7c943156570078d3bc296590e4f
+sigurros20060207-d1t08.flac:0da5a1860275d357ba7898614b827740
+sigurros20060207-d2t01.flac:0a9e9f234ba7b8088f54d7af66652c7e
+sigurros20060207-d2t02.flac:3eee3ca036003fe269bfa8a05515e4f8
+sigurros20060207-d2t03.flac:88a704232538c4db2f315515189dbaa5
+sigurros20060207-d2t04.flac:480fcfb55f10bda5e3c13bdc8cbf0d59

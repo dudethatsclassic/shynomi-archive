@@ -1,0 +1,17 @@
+Band of Horses
+Susquehana Bank Center
+Camden, NJ
+
+Source:	SP-CMC-2 > SP-SPSB-1 > Edirol R09-HR
+Location: Sec 203, Row B (Croakie mounted, standing 6')
+Transfer: 24/48 WAV > SD > cdwave (splitting) > TLH > flac24
+
+01 - The First Song
+02 - Compliments
+03 - Laredo
+04 - The Great Salt Lake
+05 - Is There a Ghost?
+06 - No One's Gonna Love You
+07 - Cigarettes, Wedding Bands
+08 - Ode to LRC
+09 - The Funeral

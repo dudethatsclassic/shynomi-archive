@@ -1,0 +1,45 @@
+Garbage
+October 3, 2025
+Madison, WI - The Sylvee
+
+Source: MK 4s > CMRg (left channel only) > tinybox > A10
+Transfer: WAV > Audacity (copy left channel to right, db boost, downsample) >
+CDWave > FLAC
+
+Disc 1:
+01. intro: Laura Palmer's Theme (Angelo Badalamenti)
+02. There's No Future in Optimism
+03. Hold
+04. I Think I'm Paranoid
+05. Vow
+06. Shirley talks
+07. Run Baby Run
+08. Tribute to Dave Benton of Spooner by Duke
+09. The Trick Is to Keep Breathing
+10. Not My Idea
+11. Hammering in My Head
+12. Wolves
+13. #1 Crush story
+14. #1 Crush
+15. Shirley talks
+16. Bleed Like Me
+17. Queer story
+18. Queer
+19. shoutouts
+20. Chinese Fire Horse
+
+Disc 2:
+01. When I Grow Up
+02. Push It
+03. Cherry Lips (Go Baby Go!)
+04. The Day That I Met God story
+05. The Day That I Met God
+06. encore applause
+07. band introductions
+08. Stupid Girl
+09. Shirley talks
+10. Only Happy When It Rains
+11. outro 1: The Carnival Is Over (Nick Cave & The Bad Seeds)
+12. outro 2: Magic Moments (Perry Como)
+
+Disc split has been made to fit Starcrawler's opening set on disc 2.

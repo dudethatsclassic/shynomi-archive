@@ -1,0 +1,74 @@
+https://311.com/
+
+311
+Salt Shed Fairgrounds
+Chicago, Illinois, USA
+2024-07-21
+
+Taper:
+EnglishSkylarking
+
+Location:
+Centre ~60' from stage
+
+Gear:
+> Audio-Technica AT943 / Sound Professionals SP-CMC-8 w/ 4.7k mod
+> Sony PCM-A10 (Input level 6, AGC/limiter disabled, 24-bit/48kHz WAV)
+
+Processing:
+> Audacity 3.6.1 (Manually duck "woos" and whistles)
+> MAGIX Sound Forge Pro 16.1.4 (EQ, enveloped claps, fades, resampled/dithered/saved-as 16bit/44.1kHz WAV)
+> CD Wave 1.98 (Tracking)
+> TLH 2.8.4.185 (FLAC Lvl. 8, FFP)
+
+On this night 311 was:
+Nick Hexum - vox, guitar
+Tim Mahoney - guitar
+Doug "SA" Martinez - vox, turntables
+Chad Sexton - drums
+Aaron "P-Nut" Wills - bass
+
+Play Time - 01:34:46
+-intro-
+Beautiful Disaster
+Homebrew
+Plain
+What The?!
+Come Original
+Sunset in July
+Stainless
+All Mixed Up
+Bass Solo @
+Flowing
+Visit
+Champagne
+You're Gonna Get It
+-interlude- #
+Applied Science >
+Drums > $
+Applied Science Reprise
+There's Always an Excuse
+You Wouldn't Believe
+Amber
+What Was I Thinking
+Don't Stay Home
+-banter-
+Creatures (For a While)
+Down
+-outro-
+
+@ with RATM's Killing in the Name groove
+# show briefly stopped for a medical emergency
+$ all band members joined Chad on separate drum kits
+
+Notes:
+Included extras are the sticker design by Garett Watt and some quick pics I took during the show.
+
+This was my first 311 show and I had a good time. The band was having fun and so was everyone closer
+to the front. Everyone was singing nearly every word of every song and otherwise having a good time.
+There's persistant woo-ing and some whistling near to me between tunes that I ducked thanks to Steve's
+manual duck plugin for Audacity, and a lot of louder clapping that I painstakingly enveloped. It's
+not perfect, but the sound is otherwise good, and I just take it as the sometimes-reality of being
+at a concert. Hopefully you can enjoy it, too!
+
+Manual duck plugin for Audacity: https://forum.audacityteam.org/t/manual-duck-fade-down-and-back-up-again/24037

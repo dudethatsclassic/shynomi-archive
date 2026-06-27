@@ -1,0 +1,67 @@
+Wilco
+October 15, 2002
+The 9:30 Club
+Washington, DC
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Original info file (additional notes below !): 
+
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA4022 > Lunatec V2 > Audio Magic Excalibur II XLRs >
+		Apogee Mini-Me @ 16/44.1 > Digigram VXPocket V2 >
+		Screenblast Sound Forge Deluxe V1.0b > Sony Vaio PCG-SRX87
+Location:	40 ft. stage right stack, taper's section
+
+.wav > SHN:	.wav > CD-WAV/mkwACT > .shn
+
+Disc One:
+
+01:	Intro				-	05:00.000
+02:	Not For The Season 		-	07:52.533
+03:	Sunken Treasure 		-	07:45.266
+04:	Less Than You Think 		-	03:00.733
+05:	I Am Trying To Break Your Heart	-	05:19.600
+06:	War On War 			-	03:21.133
+07:	Radio Cure			-	05:41.866
+08:	Kamera				-	03:30.666
+09:	A Shot In The Arm		-	04:36.466
+10:	Why Would You Wanna Live	-	04:00.266
+11:	She's A Jar 			-	05:21.000
+
+Total:					-	55:29.533
+
+Disc Two:
+
+01:	Disc Two Intro			-	01:36.000
+02:	Heavy Metal Drummer		-	03:23.466
+03:	Pot Kettle Black		-	04:33.800
+04:	I'm The Man Who Loves You	-	04:15.000
+05:	Poor Places			-	09:49.000
+06:	Jesus, Etc. 			-	03:59.333
+07:	Red Eyed & Blue > 		-	02:12.000
+08:	I Got You			-	04:32.866
+09:	Bob Dylan's Beard 		-	02:29.000
+10:	Hesitating Beauty	 	-	03:32.266
+11:	Passenger Side			-	04:16.533
+12:	California Stars		-	09:41.200
+13:	I'm A Wheel			-	02:50.666
+14:	Outtasite >			-	02:26.133
+15:	We've Been Had			-	05:50.200
+
+Total:					-	65:27.466
+
+compiled by George Wang on 10-16-2002
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+notes to the 01-2017 edition:
+
+CDs > EAC > Wav > Sound Forge Pro 10.0 > CD Wave 1.98 > TLH > FLAC
+
+I have ripped this show from CDs that I had burned from a download from the now defunct Bluegrass Box.
+Unfortunately, at that time I did not save the files but just burned them to CD.
+There was no need to do any fixing with this show so I left it exactly as it was originally seeded.
+This is another excellent Audience recording of a very fine show.
+
+All due thanks to the taper. Support the artists, go to their shows. wilcoworld.net
+[2017-01-04] 

@@ -1,0 +1,68 @@
+Wilco
+Durham Performing Arts Center
+Durham, NC
+Saturday March 27, 2010
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA 4023 > Sonosax SX-M2 > Audio Magic Presto II > Sound
+		Devices 722 @ 24/96
+Location:	Orchestra Section 3 Row B Seat 110, ~ 10 feet left of stage 
+		left stack
+
+WAV > FLAC:	.wav @ 24/96 > Audacity 1.3.9 (Unicode) (dither to 16/44.1)
+
+Disc One:
+
+01: Intro				-	03:05.30
+02: Intro >				-	01:16.00
+03: Wilco (The Song)			-	03:23.55
+04: Bull Black Nova			-	06:02.65
+05: You Are My Face			-	04:56.40
+06: I Am Trying To Break Your Heart	-	06:34.65
+07: At Least That's What You Said	-	06:01.10
+08: Deeper Down				-	03:36.40
+09: Handshake Drugs			-	05:54.35
+10: Side With The Seeds			-	05:11.65
+11: One Wing				-	04:18.10
+12: She's A Jar				-	05:10.45
+13: I'll Fight				-	04:27.65
+
+Total:					-	60:00.00
+
+Disc Two:
+
+01: Impossible Germany			-	06:28.40
+02: Intro >				-	01:28.45
+03: Summer Teeth			-	03:31.30
+04: California Stars			-	04:27.10
+05: Poor Places				-	06:32.50
+06: Spiders (Kidsmoke)			-	05:49.70
+07: Forget The Flowers			-	03:01.00
+08: When The Roses Bloom Again		-	04:56.65
+09: Intro >				-	02:11.30
+10: War On War				-	03:38.65
+11: When You Wake Up Feeling Old	-	03:58.00
+12: Laminated Cat			-	05:52.55
+13: Passenger Side			-	03:32.20
+14: Airline To Heaven			-	04:35.20
+
+Total:					-	60:04.50
+
+Disc Three:
+
+01: A Shot In The Arm			-	05:03.25
+02: (Hate It Here)			-	01:07.60
+03: Hate It Here			-	04:38.25
+04: Heavy Metal Drummer			-	03:43.65
+05: You Never Know			-	05:04.40
+06: Jesus, Etc.				-	04:20.60
+07: Walken				-	04:39.15
+08: I'm The Man Who Loves You		-	05:16.55
+09: Thank You Friends			-	05:04.30
+10: Via Chicago				-	05:23.65
+11: Hoodoo Voodoo			-	05:42.20
+12: I'm A Wheel				-	04:54.65
+
+Total:					-	55:00.00
+
+compiled by George Wang on 03-30-2010

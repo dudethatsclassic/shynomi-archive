@@ -1,0 +1,99 @@
+Wilco
+The Pageant
+St. Louis, MO
+May 16, 2008
+
+---16 bit source---
+
+SOURCE: SBD + AUD Matrix. 
+
+Source 1: SBD + 2 Sure KSM141 mics onstage, set to omnidirectional polar pattern. Mics positioned on the outside edges of the stage about 4' tall, aimed out toward the crowd and angled out 18 degrees to avoid phasing.  SBD and Mics run into MOTU Traveler recording interface for live mix and time alignment of SBD with onstage mics. These sources were mixed live to 2 channels with the MOTU Traveler and Mac Powerbook > 1/4" stereo output of MOTU Traveler > Sound Devices 722 @ 24/96. 
+
+Source 2: B&K 4021s (Spaced 17cm apart and aimed at outside of stacks. Mics on 12' stand just in front of the board 3' right of center.) > EAA-PSP2 > 722 @ 24/96.
+
+Source 1 & 2 linking: The 2 Sound Devices 722s were linked live via word clock link cable and C. Link cable in order to keep the same word clock on both recordings. 
+
+LINEAGE: 2 Sound Devices 722s > Firewire > computer hard drive > Samplitude 10 (line up 2 sources, mix, track, resample & dither to 16/44.1, fades, normalize)  > Flac level 6. 
+
+TAPED BY: Steve Brothers
+
+TRANSFERRED BY: Steve Brothers
+
+FILE SIZE: 684 MB
+
+SETLIST: 
+
+Disk 1 (part 1) (77:00)
+
+01: Via Chicago  
+02: I Am Trying To Break Your Heart  
+03: You Are My Face  
+04: Muzzle Of Bees  
+05: Handshake Drugs  
+06: A Shot In The Arm  
+07: Kamera  
+08: War On War  
+09: Jesus, Etc.  
+10: Impossible Germany  
+11: It's Just That Simple  
+12: Misunderstood  
+13: Forget The Flowers  
+14: California Stars  
+15: Can't Stand It  
+
+
+Disk 2 (part 2) (62:46)
+
+01: Theologians  
+02: I'm The Man Who Loves You     
+
+Encore 1:
+03: Poor Places  
+04: Reservations  
+05: Spiders (Kidsmoke)  
+
+Encore 2:
+06: I'm Always In Love  
+07: Hate It Here  
+08: Walken  
+09: Casino Queen  
+10: Hoodoo Voodoo
+
+Encore 3: 
+11: The Late Greats
+
+
+---For trade only - not for sale---
+
+---Thanks to Wilco for allowing taping and trading---
+
+---Thanks to Brian Sax and David Roberts for use of the 722s---
+
+FFP CHECKSUM:
+
+Wilco2008-05-16d2t10.flac:d6376feb3e06cca45a12deb5dbcdfcb2
+Wilco2008-05-16d2t11.flac:05e736cb3742da507dc2918f042d1473
+Wilco2008-05-16d1t01.flac:4dc8a5b98ed7789201822d6a83efc90b
+Wilco2008-05-16d1t02.flac:d24625e40d784a5c500df7c0ef07f102
+Wilco2008-05-16d1t03.flac:5fd0ed20566dfc2c603165fadafa03a4
+Wilco2008-05-16d1t04.flac:6ef06db554da8951256b897a30cf148b
+Wilco2008-05-16d1t05.flac:96a2e2fa2b636a1f95f627b3be3f6484
+Wilco2008-05-16d1t06.flac:fd28b689f4b15faa9182b6f7ff67f81b
+Wilco2008-05-16d1t07.flac:73220751802747fe24819d15fba0cfdc
+Wilco2008-05-16d1t08.flac:bafc992a36ba862e6c1964fd01587bfa
+Wilco2008-05-16d1t09.flac:0c780904c8e010eea0c203fd7996444f
+Wilco2008-05-16d1t10.flac:741bc5a12c4a4bc107d26801c6a7d8e5
+Wilco2008-05-16d1t11.flac:71b6afb80013a66459e512710ec12a07
+Wilco2008-05-16d1t12.flac:a38c1b0d56df61bdac5e39ece718ceb3
+Wilco2008-05-16d1t13.flac:8bc084a1732493626d55d8b0ad0efc3f
+Wilco2008-05-16d1t14.flac:bb42939432d148a8e520f13e339df0ae
+Wilco2008-05-16d1t15.flac:6af8894dee315d83922d82c0cdd08b1e
+Wilco2008-05-16d2t01.flac:cb501caa9af02bcb95e2489ea293b43a
+Wilco2008-05-16d2t02.flac:2062883001958508cb9788a220ea8d01
+Wilco2008-05-16d2t03.flac:88298a98044bebcb61e12715b210728e
+Wilco2008-05-16d2t04.flac:9c89bac80eddd5cca0149bf842d82282
+Wilco2008-05-16d2t05.flac:50c9c736df87f67a97baf82d8d7b4800
+Wilco2008-05-16d2t06.flac:c7b0f64d0075f6f02a57da87944eb55e
+Wilco2008-05-16d2t07.flac:361bd667105c5736d60422e715f27bb4
+Wilco2008-05-16d2t08.flac:ed9b888b30330ef87a5e136ca2af268f
+Wilco2008-05-16d2t09.flac:00ed9444d54a7c192f6ef25d0de524e0

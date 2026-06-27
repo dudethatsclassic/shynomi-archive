@@ -1,0 +1,16 @@
+﻿Fastball
+July 16, 2025
+Filene Center at Wolf Trap
+Vienna, VA, USA 
+
+Taper: hemisphire
+Source: LG V60 > RecForge II Pro > WAV
+Lineage: WAV > ffmpeg (track split) > Trader's Little Helper > FLAC
+
+01. intro
+02. Sooner Or Later
+03. You're An Ocean (with Kevin Hearn)
+04. Love Comes In Waves (The Joker)
+05. Out Of My Head (with Kevin Hearn)
+06. Fire Escape (with Ed Robertson & Kevin Hearn)
+07. The Way (with Ed Robertson & Kevin Hearn)

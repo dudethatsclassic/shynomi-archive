@@ -1,0 +1,50 @@
+Wilco
+September 09, 2002
+John Anson Ford Theatre
+Los Angeles, CA
+Night 1 of 2
+
+2 Source Mix: 
+
+Source 1: SBD > Sony PCM-M1 
+Lineage: DAT Master 16/44.1 > FLAC
+Transfer (RyanJ): Tascam DA-20 > coax > Marantz PMD-671 > Audition > .wav
+Taper: anonymous
+
+Source 2: Sony ECM-12 > Sony TCD-D8
+Lineage: DAT-M > CDR1 > .wav 16/44.1
+Transfer: Sony TCD-D8 > Pioneer PDR-509 > Toast
+Taper: Luke Freteluco
+
+Mixing/Mastering (BLG): Adobe Audition > iZotope RX9 / Ozone 9 > WavePad > xACT > FLAC
+
+01 Intro (Willy Wonka)
+02 Sunken Treasure
+03 Less Than You Think
+04 I Am Trying To Break Your Heart
+05 War On War
+06 Kamera
+07 A Shot in the Arm
+08 Why Would You Wanna Live
+09 She's a Jar
+10 Heavy Metal Drummer
+11 Jesus, Etc.
+12 Bob Dylan's 49th Beard
+13 I'm the Man Who Loves You
+14 Misunderstood
+15 Far Far Away
+
+Encore 1:
+16 Hesitating Beauty
+17 California Stars
+
+Encore 2:
+18 Laminated Cat
+19 Red-Eyed and Blue
+20 I Got You (At the End of the Century)
+21 Outtasite (Outta Mind)
+
+Total Time: 102:50
+
+.txt compiled on Feb 18, 2022 by BLG
+

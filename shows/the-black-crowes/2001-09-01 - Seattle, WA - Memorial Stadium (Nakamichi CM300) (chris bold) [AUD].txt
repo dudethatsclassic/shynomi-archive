@@ -1,0 +1,71 @@
+The Black Crowes
+Bumbershoot Festival
+Memorial Stadium
+Seattle, WA
+September 1, 2001
+
+** 16 BIT **
+
+Souce:  Nakamichi CM-300s > Sony TCD-D7
+Transfer:  DAT master > Tascam DA-30 > Edirol R-44 > .WAV @ 16 bit/48 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 130 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging) 
+Recorded & transferred by:  Chris Bold
+Mastered by:  Dennis Orr
+
+Setlist: (1:27:48)
+01 Intro
+02 Midnight From The Inside Out
+03 Sting Me
+04 Chat
+05 Greasy Grass River
+06 Remedy
+07 Jealous Again
+08 Lickin'
+09 Sometimes Salvation
+10 By Your Side
+11 Young Man Old Man
+12 Thorn In My Pride
+13 Soul Singing
+14 Twice As Hard
+15 Hard To Handle
+16 Cosmic Friend
+17 Encore Break
+- Encore -
+18 She Talks To Angels
+19 Chat
+20 Oh Well
+
+Chris Robinson - lead vocals, harp, & acoustic guitar
+Rich Robinson - guitars & backing vocals
+Audley Freed - guitars
+Andy Hess - bass
+Eddie Harsch - keyboards
+Steve Gorman - drums
+Mona Lisa Young - backing vocals
+Portia Griffin - backing vocals
+
+Taper Notes:
+Patched from a Portand area taper.  Bumbershoot is a festival and the Crowes played the biggest venue at the site. Tons of drunk frat people. Not a typical Crowes crowd, thank God for
+that.  Saw a few fights including one shoving match in the taping section.
+
+tbc2001-09-01t01.flac:300f8469d18e1cffb486b0f2c4d88fee
+tbc2001-09-01t02.flac:9998c4a364a707ddf9825d48899c30d0
+tbc2001-09-01t03.flac:66af74b9b025a14a828791dae437a6da
+tbc2001-09-01t04.flac:a3f45e1de2657574e3ad4f3ac26b784f
+tbc2001-09-01t05.flac:640f12f16d7aab388ccc5fd7a6115c2f
+tbc2001-09-01t06.flac:408e2f6703b6499c934ed2bd774705e4
+tbc2001-09-01t07.flac:29323af4cd82be9ac031143f52e51f3b
+tbc2001-09-01t08.flac:c4b80ed5e9f0ea18b43c022e96eb9dd5
+tbc2001-09-01t09.flac:1cbee55491cffd192dbd668675ae0f63
+tbc2001-09-01t10.flac:7252bb1e0e2fc9d25d28500f577ef1c5
+tbc2001-09-01t11.flac:9a6f2a976246e5297faee382c4eea9d9
+tbc2001-09-01t12.flac:5f97ba674d8365eae9fe1301669083fc
+tbc2001-09-01t13.flac:23e646b377837ca6509aabf159e40c21
+tbc2001-09-01t14.flac:9d4d8ad30d5357476f5bd0bfc6ae1d88
+tbc2001-09-01t15.flac:8ec4b732f350ee5c4705990ced553563
+tbc2001-09-01t16.flac:ae202210f646509c9409687a49efe517
+tbc2001-09-01t17.flac:d9f8901f52599044377bf2ede74d310e
+tbc2001-09-01t18.flac:3f1cdc4158384403b96011bcced0e66a
+tbc2001-09-01t19.flac:8963f4e67f73146de13ab1941cae01b9
+tbc2001-09-01t20.flac:14a294d0e172eab06661631cd30ed257

@@ -1,0 +1,121 @@
+Wilco
+The Fillmore
+San Francisco, CA
+USA
+2016-09-10
+
+
+Source:  CA-11s Cardioid caps (DINA) > CA-9100 > Edirol R-05 (24bit- 48kHz)
+Lineage: source > Sandisk 8GB SDHC card to HD > Pro Tools 8.0.5 (mastering, editing) > Audacity (track splitting, conversion to 16.1/44kHz) > xACT (FLAC Level 6 encoding, tagging, verification, creation of mp3 version)
+
+Location: On stand at 9’ in back left corner of room (facing the stage), probably 20' left of SBD.
+
+Recorded by: litmus
+
+Transferred and mastered by litmus
+www.verst.org
+
+A 'From Where I Stand' Release: FWIS-317
+
+This recording is strictly for non-commercial use.
+
+PLEASE SUPPORT THE ARTIST BY PURCHASING OFFICIAL RELEASES AND ATTENDING LIVE SHOWS!
+ 
+835 MB in folder
+
+www.wilcoworld.net
+
+------------------------------------
+Set List
+------------------------------------
+
+01. [03:22] Normal American Kids
+02. [03:11] If I Ever Was a Child
+03. [04:40] Cry All Day
+04. [05:02] She's a Jar
+05. [04:04] Kamera
+06. [02:43] The Joke Explained
+07. [04:34] Misunderstood
+08. [03:36] Either Way
+09. [06:07] At Least That's What You Said
+10. [09:20] Impossible Germany
+11. [03:06] Happiness
+12. [03:19] Nope
+13. [05:18] Poor Places
+14. [04:37] Too Far Apart
+15. [04:02] Someone to Lose
+16. [04:57] Locator
+17. [04:41] Dawned on Me
+18. [03:26] Heavy Metal Drummer
+19. [04:33] Hummingbird
+20. [04:06] We Aren't the World (Safety Girl)
+21. [03:15] The Late Greats
+22. [02:20] Encore Break 1
+
+23. [02:44] More...
+24. [04:27] Random Name Generator
+25. [04:44] Walken
+26. [04:20] I'm the Man Who Loves You
+27. [02:47] I'm a Wheel
+28. [02:30] Encore Break 2
+
+29. [04:25] Jesus, Etc.
+30. [10:15] Spiders (Kidsmoke)
+
+
+Total time: 02:10:45	
+
+------------------------------------
+Notes
+------------------------------------
+
+Cover art uses a photo by Philip Cosores (found on Consequence of Sound).
+
+------------------------------------
+Thoughts
+------------------------------------
+
+Another fabulous Wilco show at the even more fabulous Fillmore. Like my recording of the Wednesday 2016-09-07 show, I was able to set up in the far left corner of the auditorium with mics flying on a stand. The song selection was great; probably 9-10 repeats from Wednesday and a slew of other classics. Bit of a noisier crowd, but hey, it was Saturday night. All in all, I'm glad to have seen and recorded 2/5 of the Fillmore run.
+
+------------------------------------
+FFP Info
+------------------------------------
+
+Wilco.2016-09-10.FWIS-317.flac16.t-01.flac:9d2a5a051e07bf38443c9e300b8d9899
+Wilco.2016-09-10.FWIS-317.flac16.t-02.flac:38e50da0371fd049347fc2b1ec6901f5
+Wilco.2016-09-10.FWIS-317.flac16.t-03.flac:6d632c8c6960200c797b4f7b9d806de2
+Wilco.2016-09-10.FWIS-317.flac16.t-04.flac:99fa1264135318969a4e80d4f9200b73
+Wilco.2016-09-10.FWIS-317.flac16.t-05.flac:b871d3152872579f152eea8190f951fb
+Wilco.2016-09-10.FWIS-317.flac16.t-06.flac:36fe2948c4090ae22b870fe357129622
+Wilco.2016-09-10.FWIS-317.flac16.t-07.flac:f0e820aa2469b9f911b07c4ca58701e8
+Wilco.2016-09-10.FWIS-317.flac16.t-08.flac:289ab9cfd6be4aea007a2c898702db68
+Wilco.2016-09-10.FWIS-317.flac16.t-09.flac:a547093b726940e5be9bb30b8da73afd
+Wilco.2016-09-10.FWIS-317.flac16.t-10.flac:0159f05bea8a9d82c52631664f90dae8
+Wilco.2016-09-10.FWIS-317.flac16.t-11.flac:2f1d68c3b6b1bf3f8a5bc39899cf479c
+Wilco.2016-09-10.FWIS-317.flac16.t-12.flac:09b6a1dc922f9e70a9976d66654f7de8
+Wilco.2016-09-10.FWIS-317.flac16.t-13.flac:886193d16c3e82d695e0cb651fedc443
+Wilco.2016-09-10.FWIS-317.flac16.t-14.flac:2df431071129af29b8b73b6a6a318e21
+Wilco.2016-09-10.FWIS-317.flac16.t-15.flac:802aa815ff1485db405675faefe08d91
+Wilco.2016-09-10.FWIS-317.flac16.t-16.flac:103c92969d11bb5bb3aec0f6eec052c4
+Wilco.2016-09-10.FWIS-317.flac16.t-17.flac:32c73b7bd77f28630d4ee6366b16cc69
+Wilco.2016-09-10.FWIS-317.flac16.t-18.flac:eafbb3b097c1b03fdd25d6515c8c60b3
+Wilco.2016-09-10.FWIS-317.flac16.t-19.flac:e9cf00388b7b71af6f3f736e19e771be
+Wilco.2016-09-10.FWIS-317.flac16.t-20.flac:64686b21670a99f6aa9ec4b3a3524785
+Wilco.2016-09-10.FWIS-317.flac16.t-21.flac:a3c1c7a11d620f4d624fb7e281e8f1d6
+Wilco.2016-09-10.FWIS-317.flac16.t-22.flac:1ce83d52d593ddf9cdc1765f1b13281b
+Wilco.2016-09-10.FWIS-317.flac16.t-23.flac:5d1fc31918c5ace41b95457891fc7dab
+Wilco.2016-09-10.FWIS-317.flac16.t-24.flac:cc2108c9df15f3567023f6b3cfc0a9f7
+Wilco.2016-09-10.FWIS-317.flac16.t-25.flac:0e2a14d18134f38a0169cfb4c75fef33
+Wilco.2016-09-10.FWIS-317.flac16.t-26.flac:38134959b4bd6bb7fbc800975979c322
+Wilco.2016-09-10.FWIS-317.flac16.t-27.flac:5d12ced507920b6582d60146a6c53181
+Wilco.2016-09-10.FWIS-317.flac16.t-28.flac:9404b8cdaee3c86b2035f512b15b80fe
+Wilco.2016-09-10.FWIS-317.flac16.t-29.flac:9dcdad56678c3a8791db7fcf52447e45
+Wilco.2016-09-10.FWIS-317.flac16.t-30.flac:0220924535c522a1c5d1e427a57d1ca1
+
+-----------------------------------
+
+Do NOT sell this show. If you see this show for sale on eBay or anywhere else, please report the seller to eBay and Paypal.
+
+https://www.paypal.com/wf/f=pps_prohib
+http://pages.ebay.com/help/policies/replica-counterfeit.html
+http://pages.ebay.com/help/policies/rfe-previously-suspended.html

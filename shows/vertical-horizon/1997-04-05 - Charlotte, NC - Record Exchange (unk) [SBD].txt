@@ -1,0 +1,23 @@
+Vertical Horizon
+Record Exchange
+Charlotte, North Carolina
+4.5.97
+
+Taper:	Unknown
+Source:	DSBD
+
+Track 	|	Name			|	Time (m:s)
+----------------------------------------------------------
+d1t01	Liberty					04:38
+d1t02	Lines Upon Your Face			05:01
+d1t03	Matt & Keith speak			02:24
+d1t04	Millworker *				05:09
+d1t05	Footprints In The Snow			04:21	
+d1t06	Willingly				05:00
+Total:						26:33
+
+Notes:
+* James Taylor cover
+- This is just an acoustic show with Keith and Matt; instore appearance.
+
+Compiled by:  Ray Domingue <rpd004@yahoo.com>

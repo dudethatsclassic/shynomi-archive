@@ -1,0 +1,44 @@
+Wilco
+January 24, 2012
+Palladium
+Hollywood, CA
+
+Source: SBD > Sony PCM-M1 
+Lineage: DAT Master 16/44.1 > FLAC
+Transfer (RyanJ): Tascam DA-20 > coax > Marantz PMD-671 > Audition > .wav
+Mastering (BLG): Adobe Audition > iZotope Ozone 9 > WavePad > xACT > FLAC
+Taper: anonymous
+
+01 Art of Almost
+02 I Might
+03 Bull Black Nova
+04 At Least That's What You Said
+05 Red-Eyed and Blue
+06 I Got You (At the End of the Century)
+07 Born Alone
+08 You Are My Face
+09 Impossible Germany
+10 Kamera
+11 I Must Be High
+12 I'm Always In Love
+13 Jesus, Etc.
+14 Capitol City
+15 Handshake Drugs
+16 War On War
+17 Dawned On Me
+18 Hummingbird
+19 A Shot in the Arm
+
+Encore 1:
+20 Via Chicago
+21 Whole Love
+22 Candyfloss
+23 Monday
+24 Outtasite (Outta Mind)
+
+Encore 2:
+25 The Lonely 1
+
+Total Time: 118:43
+
+.txt compiled on March 09, 2022 by BLG

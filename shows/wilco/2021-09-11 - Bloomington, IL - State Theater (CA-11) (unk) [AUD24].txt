@@ -1,0 +1,64 @@
+Wilco
+State Theater
+Bloomington, Illinois
+September 11, 2021
+
+Source: Church Audio CA-11 cards => UGLY pre-amp => Tascam DR-2D (24-bit)
+Transfer: DR-2D => WAV => Magix Audio Cleaning Lab => WAV => FLAC (level 8) 
+
+Location: ~10 feet from left speaker stack
+
+Setlist:
+
+Disc one (63:18):
+(1)  A Shot in the Arm (5:03)
+(2)  Random Name Generator (4:15)
+(3)  At Least That's What You Said (5:39)
+(4)  One and a Half Stars (3:51)
+(5)  I Am Trying To Break Your Heart (5:18)
+(6)  Art of Almost (7:19)
+(7)  If I Ever Was a Child (3:22)
+(8)  Via Chicago (5:16)
+(9)  Bull Black Nova (6:59)
+(10)  Love Is Everywhere (Beware) (3:40)
+(11)  Banter (0:24)
+(12)  Impossible Germany (7:37)
+(13)  Hummingbird (3:25)
+(14)  Banter (1:03)
+
+Disc two (46:44):
+(1)  Everyone Hides (3:09)
+(2)  Banter (0:18)
+(3)  Box Full of Letters (3:13)
+(4)  Banter ():15)
+(5)  Dawned On Me (4:02)
+(6)  Jesus, Etc. (4:34)
+(7)  Theologians (3:22)
+(8)  I'm The Man Who Loves You (4:11)
+(9)  Lizard King intro (1:54) =>
+(10)  Heavy Metal Drummer (3:22)
+(11)  Intro (0:28)
+(12)  I'm Always In Love (3:46)
+(13)  Encore break (2:22)
+(14)  The Late Greats (2:42)
+(15)  Banter (1:00)
+(16)  Outta Site (Outta Mind) (3:16)
+(17)  California Stars (4:42)
+
+There are no fades applied, so the above disc splits are just a suggestion.
+
+Md5 signature file is included. Sorry, no artwork (feel free to make some) 
+
+Comments: 
+
+Wilco appeared for the first time in Bloomington, IL as the headliner of the "Black Dirt Music Festival," held outdoors in front of the State Theater in celebration of their 10th anniversary. Wilco has been co-headlining with Sleater-Kinney throughout their 2021 tour and their sets have averaged roughly 90 minutes; since S-K was not a part of this show, they extended their set to include most of the songs they have been performing on this tour.
+
+I've seen Wilco upwards of 40 times over the years, and this was as solid of a set as they've done in years. As opposed to their 2019 tour, they made an effort to include material that represented a cross-section of all of their studio releases back to 1995. It was a very enjoyable career retrospective by a band that was very happy to be active again, and performing near their hometown.
+
+On a personal level, this was the first live show I've seen (and recorded) since their 2019 run at the Chicago Theater 21 months prior, so it was glorious to experience live music again. The band was tight, fluid, and in good spirits, and I thoroughly enjoyed every moment of the show. If you are a Wilco fan, you will no doubt enjoy the musicianship.
+
+In terms of the recording, it is one of the best-sounding captures I've done in recent years, marred only by brief wind gusts throughout the show. I was able to use the SoundForge EQ function to dim the effect of the wind, and I would say that I diminished the impact by about 30%. Every other attempt I made with the software's functionality was able to eliminate the wind, but also reduce the fidelity to that of an AM radio broadcast. The final product here should be acceptable to most listeners; if anyone would like to take a stab at eliminating the wind from the raw files, contact me directly and I'll be happy to send you the raw WAV files to edit. For the vast majority of listeners, however, this should be an enjoyable listen.
+
+Don't forget to support the band, not only by purchasing their commercial releases, but also by sampling their expansive offering of archived live shows available at nugs.net.
+
+Mp3 samples are included in the comments.

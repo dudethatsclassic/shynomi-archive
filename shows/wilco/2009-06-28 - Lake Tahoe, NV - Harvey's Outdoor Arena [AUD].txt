@@ -1,0 +1,66 @@
+Wilco
+2009-06-28 (Sun) 
+Harvey's Outdoor Areana
+Lake Tahoe, NV
+
+Source: Schoeps MK4 > CMR cables and battery box > Oade C-mod pmd 620
+Transfer: Transfer: USB > Wavlab 5/Dither > CDwave track splits > flac
+
+
+Disc 1
+
+01. Wilco (the song)
+02. I am Trying to Break Your Heart
+03. Company In My Back
+04. ?
+05. A Shot In The Arm
+06. Side With The Seeds
+07. ?
+08. You Are My Face
+09. ?
+10. Handshake Drugs
+11. War On War
+12. Nothing'severgonnastandinmyway(again)
+13. Jesus, Etc.
+14. Impossible Germany
+
+
+
+Disc 2
+
+01. Reservations
+02. ?
+03. Hummingbird
+First Encore:
+04. California Stars
+05. Heavy Metal Drummer
+06. Hate It Here
+07. Walken
+08. I'm The Man Who Loves You
+Second Encore:
+09. Casino Queen
+10. Outtasite (Outta Mind)
+11. Hoodoo Voodoo
+12. I'm A Wheel
+
+wilco2009-06-28-d2t04.flac:19a6e08c09b50f1a503a1641f9bc6251
+wilco2009-06-28-d2t05.flac:c7553046d4b3e2bcac476420409ef00a
+wilco2009-06-28-d2t06.flac:45ad1b2e5d5caeb25e0266cde413f810
+wilco2009-06-28-d2t07.flac:d41c6d2eccd74c89dad1e146ec010253
+wilco2009-06-28-d2t08.flac:b281c2344458345d8b4aa9c756b87928
+wilco2009-06-28-d2t09.flac:df6a1c8d37bbdb116df988d0b8bd679b
+wilco2009-06-28-d2t10.flac:54f72b34fe9013dd9b2ec2214387ec6e
+wilco2009-06-28-d2t11.flac:537d452ae6e43fef2922d0b0b92b862a
+wilco2009-06-28-d2t12.flac:b606e6b43f523a23c32bb9a69622d96c
+wilco2009-06-28-d1t01.flac:087b6fb76c1b1c3859dbb85ac2b6ed8b
+wilco2009-06-28-d1t02.flac:5b797ce2f1ca0c5f59e96428d78c0235
+wilco2009-06-28-d1t03.flac:245d292e9d357208a3e92458eeafedcb
+wilco2009-06-28-d1t04.flac:cc8e5dae959f6d1f2a6bb9b4203c2138
+wilco2009-06-28-d1t05.flac:57ea4cc9d6308def4a63bb55c6e6b239
+wilco2009-06-28-d1t06.flac:56e571ce2d14a6b62654acc0adb4cc26
+wilco2009-06-28-d1t07.flac:a7028ba3c749798f6a1526c4f37b8a21
+wilco2009-06-28-d1t08.flac:6b88ef36821d8bdc50a7c7b7d8a055c1
+wilco2009-06-28-d1t09.flac:54da4720645d0e64d9dbc1c3149a25f6
+wilco2009-06-28-d1t10.flac:70e657f8206ae78170f5c18d1bbee93f
+wilco2009-06-28-d1t11.flac:f11784d566494fbd14d17821b62a1e67
+wilco2009-06-28-d1t12.flac:261febfefe6d37e847dc10536b8740f9

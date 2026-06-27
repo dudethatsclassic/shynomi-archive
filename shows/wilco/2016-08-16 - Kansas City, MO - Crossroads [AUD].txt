@@ -1,0 +1,41 @@
+Wilco
+2016-08-16
+Crossroads
+Kansas City, MO
+
+Source: Schoeps MK4 / CMR > Naiant PFA > Roland R-26 @ 48 kHz / 24-bit
+Lineage: 48/24 WAV > Audacity 2.1.1 (split tracks, resample to 44.1 kHz, dither to 16-bit, convert to FLAC level 8) 
+
+
+Setlist:
+
+01 EKG
+02 More...
+03 Random Name Generator
+04 The Joke Explained
+05 I Am Trying To Break Your Heart
+06 Art Of Almost
+07 Pickled Ginger
+08 Hummingbird
+09 Handshake Drugs
+10 Cold Slope
+11 Via Chicago
+12 Spiders (Kidsmoke)
+13 Jesus, Etc.
+14 If I Ever Was A Child
+15 Box Full Of Letters
+16 Heavy Metal Drummer
+17 I’m The Man Who Loves You
+18 Red-Eyed And Blue
+19 I Got You (At The End Of The Century)
+20 Impossible Germany
+21 The Late Greats
+
+Encore (all acoustic):
+
+22 Misunderstood
+23 It’s Just That Simple
+24 We’ve Been Had
+25 I’m Always In Love
+26 California Stars
+27 A Shot In The Arm

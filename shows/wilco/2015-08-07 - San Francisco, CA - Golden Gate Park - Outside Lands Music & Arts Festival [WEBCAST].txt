@@ -1,0 +1,91 @@
+Wilco
+Outside Lands Music & Arts Festival
+Lands End Stage
+Golden Gate Park
+San Francisco, California
+August 7, 2015
+
+Lineage: Live Webcast -> AdobeHDS script -> .flv -> Avidemux 2.6.8 (cut) -> .mkv
+Video: MPEG4 Video (H264) 1280x720 16:9 3400 Kbps 29.97 fps
+Audio: AAC 128 Kbps 48.0 KHz stereo 
+
+Setlist:
+'Star Wars' set:
+EKG [taped intro]
+More...
+Random Name Generator
+The Joke Explained
+You Satellite
+Taste the Ceiling
+Pickled Ginger
+Where Do I Begin
+Cold Slope
+King of You
+Magnetized
+
+Handshake Drugs
+I Am Trying to Break Your Heart
+Art of Almost
+Via Chicago
+Box Full of Letters
+Heavy Metal Drummer
+I'm the Man Who Loves You
+Impossible Germany 
+
+TRT = 1 hr 17 mins 54 secs
+
+MediaInfo:
+General
+Unique ID                                : 212531107340505872231780454033827287082 (0x9FE4009B968CEC8589FD1276DF07D02A)
+Complete name                            : Wilco - 2015-08-07 Outside Lands Music & Arts Festival [720p].mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 1.92 GiB
+Duration                                 : 1h 17mn
+Overall bit rate                         : 3 534 Kbps
+Writing application                      : Lavf54.63.104
+Writing library                          : Lavf54.63.104
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Format settings, GOP                     : M=1, N=60
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 17mn
+Bit rate mode                            : Constant
+Nominal bit rate                         : 3 404 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Standard                                 : Component
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.123
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : RGB
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 17mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 6ms
+Default                                  : Yes
+Forced                                   : No

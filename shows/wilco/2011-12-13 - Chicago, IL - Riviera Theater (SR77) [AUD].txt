@@ -1,0 +1,110 @@
+wilco2011_12_13_t01.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t02.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t03.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t04.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t05.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t06.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t07.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t08.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t09.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t10.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t11.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t12.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t13.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t14.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t15.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t16.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t17.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t18.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t19.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t20.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t21.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t22.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t23.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t24.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t25.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t26.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t27.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t28.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t29.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t30.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t31.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t32.flac:  tested ok (file is decodable without error).
+wilco2011_12_13_t33.flac:  tested ok (file is decodable without error).
+
+No errors occured.
+
+
+wilco2011_12_13_t01.flac:59f58b8f8f804a3ec9aa56832763949e
+wilco2011_12_13_t02.flac:22ee7aa2401b1b77d42e9dae9fd4eac2
+wilco2011_12_13_t03.flac:f0a8920f0bce226f094037ab94649212
+wilco2011_12_13_t04.flac:fda2d813797283eb6abb1162e6205f83
+wilco2011_12_13_t05.flac:01b4343d56efe3145c2a2efa4de7032d
+wilco2011_12_13_t06.flac:1ff54c6ce25ce57c1bdc0ccedee52196
+wilco2011_12_13_t07.flac:0a8d9544c0643b3597a9bd3315cad30d
+wilco2011_12_13_t08.flac:3094651f2c531c3c080fd14c42d53999
+wilco2011_12_13_t09.flac:67f1fdafc5faa3e61c621e5b07e7c1b5
+wilco2011_12_13_t10.flac:8ead0b8b82ae20ddb3cda0d44bad3215
+wilco2011_12_13_t11.flac:2fd979d325f91e76c21c32a13ed46d43
+wilco2011_12_13_t12.flac:48c6f3add324dec3bb710b74fbcca03c
+wilco2011_12_13_t13.flac:bd8c9672b919e1949cc94ce733e1abbc
+wilco2011_12_13_t14.flac:c618a00d863d8f9a02df6157fc55aba4
+wilco2011_12_13_t15.flac:bfcb963e57ea6deb5d7d311656fa8d1e
+wilco2011_12_13_t16.flac:da5700ce6bfbac5ce80b754e872c5880
+wilco2011_12_13_t17.flac:5dc01c79eaee5be0963df527f8537408
+wilco2011_12_13_t18.flac:edf997c5574480b364a4e2bde81e550d
+wilco2011_12_13_t19.flac:19867e16e7c1c6edf42166037945a3bf
+wilco2011_12_13_t20.flac:e5e636c09c1ec1b4f357fd3b62cceadf
+wilco2011_12_13_t21.flac:73f0ab15b9fdc374c53472d0ca123c7b
+wilco2011_12_13_t22.flac:e11084e36aec202c7c35c2d363c5227f
+wilco2011_12_13_t23.flac:7145b3a0631d4877cd345b9d2c385c7f
+wilco2011_12_13_t24.flac:6c52b6f1206a5005a77279f75fb49246
+wilco2011_12_13_t25.flac:d960c9b708888e89218b7994eff8024c
+wilco2011_12_13_t26.flac:966f301708afb24892e124e3ed93e9d3
+wilco2011_12_13_t27.flac:1d0c111055243c1680b859b371877878
+wilco2011_12_13_t28.flac:0edac76d325b56f6ba0acedb31b46303
+wilco2011_12_13_t29.flac:7b4a77751043900ae2ee11e9ac38fcf6
+wilco2011_12_13_t30.flac:7dc9db9cb4d670bde114ea921cf83beb
+wilco2011_12_13_t31.flac:b4342f0fae3c376f1748195b4fda0b4a
+wilco2011_12_13_t32.flac:4fad74f8c063146b53c9e4d8f7b0a100
+wilco2011_12_13_t33.flac:12a2286db5dc3ad07755056ad5716887
+
+Checksum file saved to disk.
+
+No errors occured.
+
+Line 01: file 'wilco2011_12_13_t01.flac' verified ok (checksum does match).
+Line 02: file 'wilco2011_12_13_t02.flac' verified ok (checksum does match).
+Line 03: file 'wilco2011_12_13_t03.flac' verified ok (checksum does match).
+Line 04: file 'wilco2011_12_13_t04.flac' verified ok (checksum does match).
+Line 05: file 'wilco2011_12_13_t05.flac' verified ok (checksum does match).
+Line 06: file 'wilco2011_12_13_t06.flac' verified ok (checksum does match).
+Line 07: file 'wilco2011_12_13_t07.flac' verified ok (checksum does match).
+Line 08: file 'wilco2011_12_13_t08.flac' verified ok (checksum does match).
+Line 09: file 'wilco2011_12_13_t09.flac' verified ok (checksum does match).
+Line 10: file 'wilco2011_12_13_t10.flac' verified ok (checksum does match).
+Line 11: file 'wilco2011_12_13_t11.flac' verified ok (checksum does match).
+Line 12: file 'wilco2011_12_13_t12.flac' verified ok (checksum does match).
+Line 13: file 'wilco2011_12_13_t13.flac' verified ok (checksum does match).
+Line 14: file 'wilco2011_12_13_t14.flac' verified ok (checksum does match).
+Line 15: file 'wilco2011_12_13_t15.flac' verified ok (checksum does match).
+Line 16: file 'wilco2011_12_13_t16.flac' verified ok (checksum does match).
+Line 17: file 'wilco2011_12_13_t17.flac' verified ok (checksum does match).
+Line 18: file 'wilco2011_12_13_t18.flac' verified ok (checksum does match).
+Line 19: file 'wilco2011_12_13_t19.flac' verified ok (checksum does match).
+Line 20: file 'wilco2011_12_13_t20.flac' verified ok (checksum does match).
+Line 21: file 'wilco2011_12_13_t21.flac' verified ok (checksum does match).
+Line 22: file 'wilco2011_12_13_t22.flac' verified ok (checksum does match).
+Line 23: file 'wilco2011_12_13_t23.flac' verified ok (checksum does match).
+Line 24: file 'wilco2011_12_13_t24.flac' verified ok (checksum does match).
+Line 25: file 'wilco2011_12_13_t25.flac' verified ok (checksum does match).
+Line 26: file 'wilco2011_12_13_t26.flac' verified ok (checksum does match).
+Line 27: file 'wilco2011_12_13_t27.flac' verified ok (checksum does match).
+Line 28: file 'wilco2011_12_13_t28.flac' verified ok (checksum does match).
+Line 29: file 'wilco2011_12_13_t29.flac' verified ok (checksum does match).
+Line 30: file 'wilco2011_12_13_t30.flac' verified ok (checksum does match).
+Line 31: file 'wilco2011_12_13_t31.flac' verified ok (checksum does match).
+Line 32: file 'wilco2011_12_13_t32.flac' verified ok (checksum does match).
+Line 33: file 'wilco2011_12_13_t33.flac' verified ok (checksum does match).
+
+No errors occured.

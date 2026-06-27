@@ -1,0 +1,73 @@
++--------------------------------------------------+
+|                                                  |
+|           garbage live in atlanta, ga            |
+|                  the tabernacle                  |
+|                                                  |
++--------------------------------------------------+
+ 
+song titles:
+1.  crowd roars
+2.  queer
+3.  bad boyfriend
+4.  supervixen
+5.  stupid girl
+6.  shirley gets air up her skirt
+7.  special
+8.  hammering in my head
+9.  shut your mouth
+10.  ten years ago
+11.  vow
+12.  shirley talks about new record
+13.  bleed like me
+14.  i think i'm paranoid
+15.  push it
+16.  only happy when it rains
+17.  why do you love me
+18.  encore intro
+19.  sex is not take 1
+20.  shirley stops the show
+21.  sex is not the enemy
+22.  when i grow up
+23.  right between the eyes
+
+artist:
+garbage
+
+album:
+live in atlanta, ga
+
+year:
+2005
+
+comment:
+at the tabernacle
+ 
+genre:
+rock
+
+date:
+14apr2005
+
+live content provider/content capture/content editor:
+bobsmith19 (or bobsmith depending on what bbs you're on)
+
+packaging/audio encoding
+bobsmith19 (or bobsmith depending on what bbs you're on)
+
+technical:
+- Source: Giant Squid Omni's -> Giant Squid Battery Box -> Sony MZ-NH1 (PCM mode) -> USB 2.0 -> Sonic Stage v3.0 -> 44.1/16 wav
+- Matrix: Mic Source -> Audacity v1.2.3 (wav file split) -> Adobe Audition v1.5 (eq and amplify)
+- encoded to flac using flac v1.1.0 on fedora core 3 with switch -8
+
+notes:
+- i was about 30 feet from the stage on the floor.  a little right of center. the place was packed and it was a worknight so i got there late. this was the first time i'd seen garbage live.
+- shirley was wearing the black and white striped dress.  and looking hot!
+
+- only encode to lossy formats for your personal use!  do not distribute in lossy formats!
+- this nfo file is not to be separated from the audio files.
+- in the famous words of reggie cunningham (http://www.themrmove.com/), "it's a free tape, so don't bitch."
+ 
+thanks:
+- garbage for putting on one hell of a show.
+- visit garbage online at http://www.garbage.com/
+- support garbage and buy their cds.

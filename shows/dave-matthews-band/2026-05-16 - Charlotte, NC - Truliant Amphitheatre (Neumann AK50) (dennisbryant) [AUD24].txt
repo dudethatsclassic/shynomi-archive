@@ -1,0 +1,48 @@
+Dave Matthews Band
+2026-05-16
+Truliant Amphitheatre
+Charlotte, NC 
+
+***24 Bit***
+**A Team Dirty South & Home Team Recording**
+
+Set 1
+01) Intro
+02) You Never Know
+03) Grey Street
+04) Stay or Leave
+05) Drunken Soldier
+06) Looking For A Vein
+07) I Did It
+08) Stay (Wasting Time)
+09) Rhyme and Reason
+10) Only Takes A Moment^
+11) Everyday*
+12) Jimi Thing*
+13) Tripping Billies*
+14) The Space Between
+15) Broken Things>
+16) Warehouse
+17) You And Me
+18) Bartender
+19) Sledgehammer
+
+Encore:
+20) Paper Town**
+21) So Right
+
+Notes:
+* w/ Casey Driessen on Violin
+** Debut w/ Casey and Dave Solo
+^ Dave calls the song "Cha Cha"
+
+Recorded By: Dennis Bryant
+
+Source: Neumann AK50(DIN)>Sound Device MixPre6ii
+Location: BOB/Sec 11, Row C, Isle Seats/Stand 10ft High
+
+Lineage: Sound Device MixPre6ii>Sound Forge 17pro(Volume, EQ, Dither, Fades)>CD Wave>FlacLvl8>TLH>Foobar2000 32/48 Fileset
+
+Taped, Transferred, Mixed & Seeded By Dennis Bryant
+
+This show and many others at:  https://archive.org/details/@dirtybiz

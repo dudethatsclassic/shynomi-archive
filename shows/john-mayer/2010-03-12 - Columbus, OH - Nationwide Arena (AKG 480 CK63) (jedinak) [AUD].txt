@@ -1,0 +1,63 @@
+John Mayer 
+2010-03-12
+Nationwide Arena, Columbus OH
+
+Source: AKG 480/CK63 (DIN) > Analysis Plus Yellow Oval XLRs > SD 702 @ 24/88.2
+Transfer: Peak LE 4 (change gain +4.6db, downsample, dither to 16 bit) > CDWAV > TLH
+
+Taper: Nate Jedinak
+Transfer: Nate Jedinak
+
+Main Set:
+jm2010-03-12d1t01	Heartbreak Warfare >
+jm2010-03-12d1t02	Crossroads*
+jm2010-03-12d1t03	No Such Thing
+jm2010-03-12d1t04	Slow Dancing in a Burning Room
+jm2010-03-12d1t05	Perfectly Lonely
+jm2010-03-12d1t06	Improv Jam >
+jm2010-03-12d1t07	Vultures
+jm2010-03-12d1t08	I'm on Fire% > 3x5 mashup
+jm2010-03-12d1t09	War of My Life
+jm2010-03-12d1t10	Steve Jordan
+jm2010-03-12d1t11	Waiting on the World to Change
+jm2010-03-12d1t12	Aint no Sunshine ^
+jm2010-03-12d1t13	Assassin
+
+
+jm2010-03-12d2t01	Just Like a Woman ! >
+jm2010-03-12d2t02	Half of My Heart >
+jm2010-03-12d2t03	Don't Stop Believin' #
+jm2010-03-12d2t04	Bigger Than My Body
+jm2010-03-12d2t05	Why Georgia
+
+
+Encore:
+jm2010-03-12d2t06	Who Says
+jm2010-03-12d2t07	Gravity
+
+* Eric Clapton 
+% Bruce Springsteen 
+^ Bill Withers 
+! Bob Dylan 
+# Journey
+
+1. Heartbreak Warfare >
+2. Crossroads*
+3. No Such Thing
+4. Slow Dancing in a Burning Room
+5. Perfectly Lonely
+6. Improv Jam >
+7. Vultures
+8. I'm on Fire% > 3x5 mashup
+9. War of My Life
+10. Steve Jordan
+11. Waiting on the World to Change
+12. Aint no Sunshine ^
+13. Assassin
+14. Just Like a Woman ! >
+15. Half of My Heart >
+16. Don't Stop Believin' #
+17. Bigger Than My Body
+18. Why Georgia
+19. Who Says
+20. Gravity

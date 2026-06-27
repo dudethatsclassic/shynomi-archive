@@ -1,0 +1,59 @@
+Wilco
+Nikon at Jones Beach Theater
+Wantagh, New York
+July 27, 2013
+
+01. Born Alone
+02. Sunken Treasure
+03. Muzzle Of Bees
+04. Hesitating Beauty
+05. Hummingbird
+06. Impossible Germany
+07. Art Of Almost
+08. War On War
+09. Dawned On Me
+10. A Shot In The Arm
+11. I Am The Cosmos
+12. California Stars
+13. Loser
+14. Yer Blues
+15. Tomorrow Never Knows
+
+Band Members
+Jeff Tweedy - vocals, guitar
+Nels Cline - guitar
+Glenn Kotche - drums
+Pat Sansone - guitar
+John Stirratt - bass
+Mikael Jorgensen - keyboards
+
+Comments
+"I Am The Cosmos" with Beck on lead vocals and Roger Manning on backing vocals
+"California Stars" with Beck on acoustic guitar, harmonica and backing vocals
+"Loser" with Beck on lead vocals and Cibo Matto and Roger Manning on backing vocals
+"Yer Blues" with Sean Lennon on electric guitar and lead vocals and Beck on harmonica
+"Tomorrow Never Knows" with Sean Lennon on acoustic guitar and backing vocals, 
+Beck on tambourine and backing vocals, Cibo Matto on tambourine, keyboards and backing vocals, 
+Roger Manning on backing vocals 
+
+source: soomlos
+18th row center orchestra
+neumann skm140 > naiant little box (ot) > sony pcm-m10 (24/48)
+sony pcm-m10 > usb > pc > sound forge pro 10 > cd wave editor > flac (16/44.1)
+
+ffp
+wilco2013-07-27t01.flac:c95faf0c3b07a4bfb4e362b455a9a4fa
+wilco2013-07-27t02.flac:b42722835c9831f7f341cd1151666ed9
+wilco2013-07-27t03.flac:7c6e9e1b1fa42acce3c3e381f7d7dcad
+wilco2013-07-27t04.flac:15cecac8feff1932b315e96c98b3d1f3
+wilco2013-07-27t05.flac:8d40082921d4410f1bc94c1d38eda97c
+wilco2013-07-27t06.flac:77f6ca9db2d4bb3d1d61ba70d036e453
+wilco2013-07-27t07.flac:f2e4d6670415e7c5bf3879a8ebb58cee
+wilco2013-07-27t08.flac:bff16f673a36f0faf4981b9c7fdcc183
+wilco2013-07-27t09.flac:d268291990c2f28193e52bd97738bbe0
+wilco2013-07-27t10.flac:9976d9cdae2b8310393e65803c5a03d1
+wilco2013-07-27t11.flac:4a7a96928eb4bd2dfeb6712e2a1554b1
+wilco2013-07-27t12.flac:010f333ffbc9b0d8fc21bc30a18a40b7
+wilco2013-07-27t13.flac:8de0b6d3f8a5af087492e528e41c4b30
+wilco2013-07-27t14.flac:e59124554900b17c72d93133e5f2aaad
+wilco2013-07-27t15.flac:dee7b61fe0fc0a94a8e185caea448873

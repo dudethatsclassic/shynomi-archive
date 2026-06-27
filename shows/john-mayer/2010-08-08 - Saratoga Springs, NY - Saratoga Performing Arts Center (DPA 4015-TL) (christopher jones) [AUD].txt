@@ -1,0 +1,33 @@
+John Mayer
+8 August 2010
+Saratoga Performing Arts Center
+Saratoga Springs, New York
+
+Recorded by: Christopher Jones <jones.chris@gmail.com> 
+Source: DPA 4015-TL Transformerless Handmatched Wide Cardioid > Cardas Audio Golden Reference Cu XLR Interconnect > Daniel Weiss Digital Audio ADC2 Integrated Microphone Pre-Amplifier and Analog-to-Digital Converter (@ 24-bit / 176.4 kHz) > Cardas Audio Neutral Reference Cu AES / EBU Digital Interconnect > Sound Devices 722 Hard Disk Recorder (slaved to Weiss ADC2 @ 176.4 kHz; @ 24-bit / 176.4 kHz)
+Location: Stageleft pit, approximately 1.5 meters from stageleft line array.  Microphones elevated 3 meters, ORTF.
+HD > .flac: Sound Devices 722 Hard Disk Recorder > Apple Mac Pro (2 x 2.66 GHz Dual-Core Intel Xeon / 9GB 667 MHz DDR2 FB-DIMM) > Audiofile Engineering Wave Editor v1.4.5 > xACT v1.62
+
+Resampled with iZotope Resampler at highest quality setting and a filter steepness of "150"; dithered using iZotope MBIT+ with a "Normal" amount of "Ultra" noise shaping applied.  24-bit / 176.4 kHz version of this recording available in .flac24.
+d1t01 Introduction					01:59.18d1t02 (Chest Fever *) >					01:45.42d1t03 Vultures						06:42.43d1t04 Clarity						05:41.44d1t05 (Wheel)						00:49.28d1t06 Why Georgia					05:29.10d1t07 Voodoo Chile %					08:07.50d1t08 "Keith Carlock solo..."				02:57.42d1t09 Waiting On The World To Change			05:45.02d1t10 Gravity						11:34.70d1t11 Perfectly Lonely					07:30.06							58:22.55d2t01 In Your Atmosphere > (Something's Missing) #	06:23.32d2t02 Intro To... $					00:55.45d2t03 Free Fallin' (You Got Lucky) @ !			06:56.34d2t04 (Stop This Train #) >				00:19.67d2t05 Who Says						05:17.36d2t06 Heartbreak Warfare				06:00.32d2t07 "Prequel..." >					01:36.43d2t08 Do You Know Me					10:13.42d2t09 Raspberry Beret ~	>				03:29.29d2t10 Good Love Is On The Way				06:12.61d2t11 "Band Introduction..."				01:53.41d2t12 Half of My Heart (Don't Stop Believing +)		12:05.41
+---
+d2t13 (If You Love Somebody Set Them Free &) >		02:45.15d2t14 Edge of Desire					07:10.14							71:20.07
+
+() Indicates a tease or partial song if not part of a song with a
+   parenthetical subtitle
+*  The Band cover
+>  Indicates a segue into the next song
+%  Jimi Hendrix cover
+#  John solo
+$  Robbie McIntosh solo
+@  John, Robbie, and David Ryan Harris
+!  Tom Petty cover
+~  Prince cover
++  Journey cover
+&  Sting cover
+
+Notes:
+
+Recording from pit permitted only if stand was positioned outside line-of-sight of stageleft-most seated patrons.  Microphones positioned between subwoofer stack and main line array as a result.  Location made for an exceptionally high SPL environment.  Cabinet resonance subtly audible during certain passages.
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 13 August 2010.

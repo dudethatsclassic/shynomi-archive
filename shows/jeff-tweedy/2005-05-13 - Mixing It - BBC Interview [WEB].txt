@@ -1,0 +1,18 @@
+Jeff Tweedy BBC Radio Mixing It interview May 13th,2005
+
+
+tracklist
+
+01-intro--Jeff Talks about Sear Sound Studios--making of Spiders
+02-Spiders(AGIB version)
+03-Jeff talks about Less Than You Think
+04-Less Than You Think(AGIB Version)
+05-Jeff Talks about Ashes Of American Flags and Heavy Metal Drummer
+06-Ashes Of American Flags--Heavy Metal Drummer(YHF versions)
+07-Jeff talks about Jim O' Rourke
+08-You Were Wrong(Loose Fur)
+09-outro contest question:Who should produce Wilco's next album?
+
+interview recording from web using Creative Labs Sound Recorder
+wav. file split into tracks using Wave Splitter 2.10
+wav. tracks converted to flac. using flac frontend

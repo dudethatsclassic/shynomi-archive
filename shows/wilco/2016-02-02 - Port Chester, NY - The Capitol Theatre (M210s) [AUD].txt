@@ -1,0 +1,154 @@
+WILCO
+Capitol Theatre
+Portchester NY
+02-02-2016
+
+16bit/44.1kHz file-set
+
+01 EKG
+02 More…
+03 Random Name Generator
+04 The Joke Explained
+05 You Satellite
+06 Taste the Ceiling
+07 Pickled Ginger
+08 Where Do I Begin
+09 Cold Slope
+10 King Of You
+11 Magnetized
+12 Company In My Back
+13 Handshake Drugs
+14 Art Of Almost
+15 stage talk
+16 Box Full of Letters
+17 stage talk
+18 Heavy Metal Drummer
+19 false start
+20 I’m the Man Who Loves You
+21 Dawned On Me
+22 Impossible Germany
+23 The Late Greats
+24 stage talk
+25 Red-Eyed and Blue
+26 I Got You (At the End of the Century)
+27 Outtasite (Outta Mind)
+28 crowd
+29 Spiders (Kidsmoke)
+30 crowd
+31 Misunderstood
+32 It’s Just That Simple
+33 Airline to Heaven [with William Tyler]
+34 A Shot In the Arm [with William Tyler]
+
+Microtech Gefell M210's > Oade M-248 > SD-722 > WAV 2448.
+Mics on 7-foot stand in OTS, recording by Jon Pasternak.
+WAV 2448 > Wavelab > CD-Wave (24bit) > R8Brain > TLH > FLAC 1644 tagged.
+
+63965634e19c3a89c0ccdabcc5ad7218 *wilco2016-02-02t01.flac
+bf6392c3d046e545062380861f5ae1b7 *wilco2016-02-02t02.flac
+de4e8e62ebb76c458fcc0051339d9148 *wilco2016-02-02t03.flac
+1477106056abc213adbc9505392eec83 *wilco2016-02-02t04.flac
+2c0f4fd87f0042a65084cb4058d1394e *wilco2016-02-02t05.flac
+477297d09d2ecffdb941a555793f00a6 *wilco2016-02-02t06.flac
+d26f3230051250c918da3122f8eba0f3 *wilco2016-02-02t07.flac
+1fa233edfeefa0c5136f1d6141ddb2bf *wilco2016-02-02t08.flac
+235dd9b07c7ffc9fdd18a330a697481e *wilco2016-02-02t09.flac
+c470dfe0d53980d9b3b460840884172e *wilco2016-02-02t10.flac
+733a09cb4c7c69c24e9723530c853e0f *wilco2016-02-02t11.flac
+66e0880d07170525febaa7948b27d9b0 *wilco2016-02-02t12.flac
+04fa4872fc581cfbce4eba1364b65bd1 *wilco2016-02-02t13.flac
+c5ffe440aa285d6b7168c6f05de8f829 *wilco2016-02-02t14.flac
+b10d53fbe4a2e7eca0b89629b4461c47 *wilco2016-02-02t15.flac
+e2d649a84bc06ad90ed9f9eac255d317 *wilco2016-02-02t16.flac
+8cd265533f3ffac1736e8c82eb937d2c *wilco2016-02-02t17.flac
+50abd403540fc27417715f596b5795c0 *wilco2016-02-02t18.flac
+01f3d48fd88be1f9e3fbe970662c0538 *wilco2016-02-02t19.flac
+5875c615ec9eaa05e40d1ccf9ebe51db *wilco2016-02-02t20.flac
+c1d389a27d302839f3ff783be98503af *wilco2016-02-02t21.flac
+6eac5af87f42ecb5fe15d05aabe3efd8 *wilco2016-02-02t22.flac
+a25fb0f1908d50a2de9f6b6c60e51c60 *wilco2016-02-02t23.flac
+4f33ece78519bd5e93473c553e87cd7f *wilco2016-02-02t24.flac
+3e767b9fe0eb453376f274a6caf88748 *wilco2016-02-02t25.flac
+5f63bce6d6d30799cdcdd15f11264a9f *wilco2016-02-02t26.flac
+cb43b7feb725751c7fa2e77de9127e42 *wilco2016-02-02t27.flac
+48c5a1c601c5e13b1644d3b305fbaa14 *wilco2016-02-02t28.flac
+c0442ba4331d82a24072c9dd2f3e6262 *wilco2016-02-02t29.flac
+923d7a4e44118593d90d8e9ee0f808a3 *wilco2016-02-02t30.flac
+2888c89231f32d00c059c4abc52749a8 *wilco2016-02-02t31.flac
+aa6a3708cb23506996771170d97a17a2 *wilco2016-02-02t32.flac
+4119a724ef6cdb2923378dc0fdc2677b *wilco2016-02-02t33.flac
+61173d35b39a94c920732065a44b718d *wilco2016-02-02t34.flac
+
+wilco2016-02-02t01.flac:ca6cdecccb80a42a6087059999bab03c
+wilco2016-02-02t02.flac:72a1639b99c5091375ca3accbb4745a9
+wilco2016-02-02t03.flac:6d8cd009aca16508725612b3f15c7b87
+wilco2016-02-02t04.flac:68dc23da26d97cfdb3694a3bfe7670b7
+wilco2016-02-02t05.flac:fbf737b1d4277d54c1f06e50d398a9af
+wilco2016-02-02t06.flac:0a01766b3a9b54f19d7b2ca8f668a84a
+wilco2016-02-02t07.flac:881a47cb4b75a3c4d1022caad3d4b7db
+wilco2016-02-02t08.flac:cd7a8cf16a81ed1fffe6cce903a03bab
+wilco2016-02-02t09.flac:6325121eb7e6e6e0337de693188cd39a
+wilco2016-02-02t10.flac:1cc773cb3c0f6ca6635f15017b9e9786
+wilco2016-02-02t11.flac:df920dedd7674f284a3d120909f8f41d
+wilco2016-02-02t12.flac:6115fbb1dce5538069f402722deae96c
+wilco2016-02-02t13.flac:3b817b29d7b616c71d8e587fee1a8cc7
+wilco2016-02-02t14.flac:ee243642c54d4af4fdf16b9592631ec9
+wilco2016-02-02t15.flac:8c8c5f343028b1970b3bc9ffc00461cc
+wilco2016-02-02t16.flac:c267a02222df9eeaaa6566ea593ca1ec
+wilco2016-02-02t17.flac:e1e68d09e10de7bda3be83822cf6bb39
+wilco2016-02-02t18.flac:f891e01226936f2fbd9ed445da1f7ae3
+wilco2016-02-02t19.flac:a364408b7793f24c2d5591e286056b2e
+wilco2016-02-02t20.flac:792e7067985feb5d01edd2685276af75
+wilco2016-02-02t21.flac:077c0b76874ed88e996ec237cac86c22
+wilco2016-02-02t22.flac:8005483c6395881754120d0c1aaa91c6
+wilco2016-02-02t23.flac:b0079dc04c02a7b885414ecf093e0282
+wilco2016-02-02t24.flac:b0a686d7767eaa871e7d77a051b70451
+wilco2016-02-02t25.flac:12baea20d15981a2e63b05c94a5ba10c
+wilco2016-02-02t26.flac:a10ff3207e8147615a8c3f9903a1b61d
+wilco2016-02-02t27.flac:dc54bf061e8f575b1df52fc8a8f064f2
+wilco2016-02-02t28.flac:52e3372d96805b120059223b741bc925
+wilco2016-02-02t29.flac:ea1b003382d5f930bad3e1fbed0051f5
+wilco2016-02-02t30.flac:ac98b79074ce14b910435e4b1d0b2f0d
+wilco2016-02-02t31.flac:bd0c4ba27545e2639b630ddfa0a7fa2f
+wilco2016-02-02t32.flac:e2770edfa345ef2e350d0cea54bf6d3c
+wilco2016-02-02t33.flac:1fb41d01f1d805f4f04cb2ef142a4b73
+wilco2016-02-02t34.flac:03fffd37a2fabd68920181f4b83860eb
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:18.65       13912124 B   ---   --   ---xx   flac  0.6376  wilco2016-02-02t01.flac
+     2:50.34       30068012 B   ---   --   ---xx   flac  0.6429  wilco2016-02-02t02.flac
+     4:16.67       45316028 B   ---   --   ---xx   flac  0.6577  wilco2016-02-02t03.flac
+     2:38.41       27967676 B   ---   --   ---xx   flac  0.6185  wilco2016-02-02t04.flac
+     5:37.49       59562092 B   ---   --   ---xx   flac  0.6397  wilco2016-02-02t05.flac
+     3:34.19       37794332 B   ---   --   ---xx   flac  0.6140  wilco2016-02-02t06.flac
+     2:39.40       28141724 B   ---   --   ---xx   flac  0.6068  wilco2016-02-02t07.flac
+     3:12.15       33904124 B   ---   --   ---xx   flac  0.6006  wilco2016-02-02t08.flac
+     3:13.17       34085228 B   ---   --   ---xx   flac  0.6128  wilco2016-02-02t09.flac
+     2:41.27       28463948 B   ---   --   ---xx   flac  0.6669  wilco2016-02-02t10.flac
+     4:24.36       46654316 B   ---   --   ---xx   flac  0.5549  wilco2016-02-02t11.flac
+     4:02.54       42815852 B   ---   --   ---xx   flac  0.6306  wilco2016-02-02t12.flac
+     5:35.73       59265740 B   ---   --   ---xx   flac  0.6470  wilco2016-02-02t13.flac
+     8:16.33       87572060 B   ---   --   ---xx   flac  0.6610  wilco2016-02-02t14.flac
+     1:45.73       18693740 B   ---   --   ---xx   flac  0.4865  wilco2016-02-02t15.flac
+     3:11.58       33828860 B   ---   --   ---xx   flac  0.6924  wilco2016-02-02t16.flac
+     0:43.30        7655804 B   ---   --   ---xx   flac  0.4885  wilco2016-02-02t17.flac
+     3:07.37       33073868 B   ---   --   ---xx   flac  0.6916  wilco2016-02-02t18.flac
+     0:50.72        8989388 B   ---   --   ---xx   flac  0.5314  wilco2016-02-02t19.flac
+     3:55.09       41475212 B   ---   --   ---xx   flac  0.6748  wilco2016-02-02t20.flac
+     3:55.07       41470508 B   ---   --   ---xx   flac  0.6658  wilco2016-02-02t21.flac
+     7:51.23       83138540 B   ---   --   ---xx   flac  0.6289  wilco2016-02-02t22.flac
+     2:50.19       30032732 B   ---   --   ---xx   flac  0.6444  wilco2016-02-02t23.flac
+     1:08.51       12115196 B   ---   --   ---xx   flac  0.5163  wilco2016-02-02t24.flac
+     2:13.64       23611772 B   ---   --   ---xx   flac  0.5613  wilco2016-02-02t25.flac
+     3:59.05       42171404 B   ---   --   ---xx   flac  0.7116  wilco2016-02-02t26.flac
+     2:43.16       28790876 B   ---   --   ---xx   flac  0.7167  wilco2016-02-02t27.flac
+     4:37.70       49027484 B   ---   --   ---xx   flac  0.5053  wilco2016-02-02t28.flac
+     9:33.35      101159564 B   ---   --   ---xx   flac  0.6558  wilco2016-02-02t29.flac
+     2:22.41       25145276 B   ---   --   ---xx   flac  0.4882  wilco2016-02-02t30.flac
+     4:03.48       42978140 B   ---   --   ---xx   flac  0.4825  wilco2016-02-02t31.flac
+     4:40.33       49469660 B   ---   --   ---xx   flac  0.4975  wilco2016-02-02t32.flac
+     5:18.69       56257532 B   ---   --   ---xx   flac  0.5790  wilco2016-02-02t33.flac
+     4:50.66       51311276 B   ---   --   ---xx   flac  0.5189  wilco2016-02-02t34.flac
+   128:06.46     1355920088 B                            0.6138  (34 files)
+
+No errors occured.

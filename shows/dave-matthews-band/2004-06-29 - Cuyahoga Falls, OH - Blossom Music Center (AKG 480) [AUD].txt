@@ -1,0 +1,68 @@
+Dave Matthews Band
+6.29.04
+Blossom Music Center
+Cuyahoga Falls, OH
+
+Taper: Eric Naylor
+Source: AKG 480/ck61 > Lunatec V3 > Tascam DA-P1
+Location: 6th row, right stack, 16' stand, A-B mics
+Conversion: Tascam DA-20MKII > Audiophile 2496
+
+d1t01  Intro
+d1t02  Grey Street 
+d1t03  Rhyme & Reason >
+d1t04  Sugar Will (New Song #4)
+d1t05  One Sweet World 
+d1t06  The Space Between 
+d1t07  Joy Ride (New Song #2) 
+d1t08  Dancing Nancies > 
+d1t09  Warehouse 
+d1t10  Hello Again (New Song #3)
+d1t11  When the World Ends 
+
+d2t01  Granny 
+d2t02  What Would You Say 
+d2t03  Song that Jane Likes 
+d2t04  Crazy-Easy (New Song #1) 
+d2t05  Crash into Me 
+d2t06  The Stone 
+d2t07  Ants Marching 
+d2t08  E: So Much to Say >
+d2t09  E: Anyone Seen the Bridge >
+d2t10  E: Pantala Naga Pampa >
+d2t11  E: Rapunzel 
+
+Notes:
+Entire set with Butch Taylor on keys.
+
+Compiled by Eric Naylor
+tapingwizard@hotmail.com
+6/30/04
+
+------------------------
+
+http://db.etree.org/shninfo_detail.php?shnid=24897 - ALL MD5 info matchs Etree.  Enjoy!
+
+232cfa83a5f5f49bc4d81ceed1466780 *dmb2004-06-29-d1t10.shn
+8ce9f6fc0da21ad52a5d5d15b86a16c6 *dmb2004-06-29-d1t11.shn
+dbe662bfba784511d17d56528995c441 *dmb2004-06-29-d1t01.shn
+e555c381d38d9a56c251e48d2bc4921f *dmb2004-06-29-d1t02.shn
+30ecf45a62975951658dad8dcf1e1700 *dmb2004-06-29-d1t03.shn
+f0472afdcf1fc82f1a404863fe71b589 *dmb2004-06-29-d1t04.shn
+091ad1c65fb29cfdd2eecadd0730be14 *dmb2004-06-29-d1t05.shn
+a5385f1d8f68c84b099335779cc269b1 *dmb2004-06-29-d1t06.shn
+1761ac4ed2902aca87576ea8fbd8326a *dmb2004-06-29-d1t07.shn
+38e8ca06125ecfa6b1ede77173b299b7 *dmb2004-06-29-d1t08.shn
+29541d7b4f3a1c80464bd2a30026700c *dmb2004-06-29-d1t09.shn
+
+248264e4684483b529406fe423baf891 *dmb2004-06-29-d2t11.shn
+eb3772a1766693b2c985c17d228e7dcc *dmb2004-06-29-d2t01.shn
+5e019e411ce42660faef91de4a00dc1a *dmb2004-06-29-d2t02.shn
+714bec6db72102fec4d0161baccb6b02 *dmb2004-06-29-d2t03.shn
+590044dbc8f1ebbf0160fd74c9e1fb3a *dmb2004-06-29-d2t04.shn
+8d668d944af0489ae3ebda092108ba08 *dmb2004-06-29-d2t05.shn
+5db300950455f8384aa58a82219094d0 *dmb2004-06-29-d2t06.shn
+802fbffe8847429f6e6d76f54042dc96 *dmb2004-06-29-d2t07.shn
+d082a0f29c42fc92d20874b78bcfc5b1 *dmb2004-06-29-d2t08.shn
+13737006e0437e2e37a4b9fba4c271a4 *dmb2004-06-29-d2t09.shn
+6183c747590979058c80736c58c2e137 *dmb2004-06-29-d2t10.shn

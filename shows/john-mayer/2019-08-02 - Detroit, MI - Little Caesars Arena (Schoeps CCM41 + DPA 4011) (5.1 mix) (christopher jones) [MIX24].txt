@@ -1,0 +1,75 @@
+John Mayer
+2 August 2019
+Little Caesars Arena
+Detroit, Michigan
+
+Recorded and mixed by: Christopher Jones <jones.chris@gmail.com>
+Source: 5.1 Channel Surround (24-bit / 48 kHz Multichannel PCM)
+
+Lf / Rf: Schoeps CCM41 Handmatched Compact Supercardioid > Sound Devices 788T-SSD Hard Disk Recorder (@ 24-bit / 48 kHz)
+
+
+C: DPA d:dicateª 4011A (Handmatched MMC4011 Cardioid and MMP-A Preamplifier) > DPA AO0182 XLR > Sound Devices 788T-SSD Hard Disk Recorder (@ 24-bit / 48 kHz)
+
+LFE: Material from Lf / Rf and C channels band-passed to LFE.  LFE minimally included in mix (LFE peaks around -35 dB) under presumption that full range speakers will be used for playback.  No rolloff in mains on account of LFE band-pass.  Rely on playback bass management as appropriate.
+
+Lr / Rr: DPA d:dicateª 4015ER (Handmatched MMC4015 Wide Cardioid and MMP-ER Preamplifier) > Sound Devices 788T-SSD Hard Disk Recorder (@ 24-bit / 48 kHz)
+
+Location: FOH; surround array elevated approximately 4.5 meters; Lf / Rf oriented A-B; C aimed forward, bisecting main line array; Lr / Rr facing rear of venue, ORTF
+
+HDD > .flac: Sound Devices 788T-SSD Hard Disk Recorder > Apple Macbook Pro (2.53 GHz Intel Core 2 Duo / 4GB 1067 MHz DDR3) > Apple Logic Pro X > Sound Forge Pro Mac 3.0.0 (Build 100) > xACT v2.41
+
+24-bit / 48 kHz and 16-bit / 44.1 kHz 2-channel stereo versions of this recording available in .flac24 and .flac16, respectively.  
+
+Set I:
+
+t01 Introduction  						00:51.50
+t02 Love On The Weekend  					04:04.00
+t03 Vultures  							05:29.00
+t04 Who Says  							04:37.00
+t05 Something Like Olivia  					04:02.50
+t06 Clarity 							05:21.00
+t07 Changing  							07:51.00
+t08 No Such Thing  						05:21.00
+t09 Speak For Me  						04:22.00
+t10 Helpless  							07:42.50
+t11 Still Feel Like Your Man  					07:06.50
+
+Set II:
+
+t12 Introduction  						01:18.50
+t13 XO % 							03:59.50
+t14 Intro To...  						01:40.00
+t15 Neon  							08:04.50
+t16 Your Body Is A Wonderland  					04:19.50
+t17 Intro To... 						00:52.50
+t18 Belief  							06:06.00
+t19 Intro To...  						01:50.12
+t20 Moving On And Getting Over  				06:19.62
+t21 Edge Of Desire  						05:53.75
+t22 Intro To...  						01:04.50
+t23 Rosie  							06:06.00
+t24 In The Blood  						04:31.00
+t25 (The Beautiful Ones #)  					01:26.00
+t26 Slow Dancing In A Burning Room  				08:22.50
+t27 "Worry..."  						02:49.50
+t28 (Let My Love Open The Door +) >				01:22.00
+t29 The Age of Worry 						02:49.50
+t30 Waiting On The World To Change  				03:40.50
+t31 "Thank You All..."  					03:19.00
+t32 Gravity (I've Got Dreams To Remember $) 			10:54.00
+---
+t33 Friend Of The Devil ^  					07:36.50
+t34 New Light  							05:12.50
+
+%  BeyoncŽ cover
+() Indicates a tease or partial song if not part of a song with a parenthetical subtitle
+#  Prince cover
++  Pete Townshend cover
+>  Indicates a segue into the next song
+$  Otis Redding cover
+^  Grateful Dead cover
+
+Notes:
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 18 August 2019.

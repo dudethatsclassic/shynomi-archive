@@ -1,0 +1,62 @@
+John Mayer
+August 31, 2013
+Jiffy Lube Live
+Bristow, VA
+
+
+Taper: Rockinman
+Location: Behind soundboard, DFC, mics DINA 90 config, stand height @ 13 feet
+Source: akg460mods/ck63 hypercaps(linear bass setting)>UA5 preamp(Wmod)>Marantz PMD661(SPDIF In) @ 24/48 kHz
+Transfer: PMD661->USB->PC 
+Conversion: 24/48kHz wav->Sound Forge Pro 10> iZotope 64-Bit SRC & iZotope MBIT+ for resample and dither to 16/44.1 kHz, Normalized to -0.01db, Fade in and fade out applied->CDWave Editor-> Flac(level 5)> Foobar 2000 for tagging
+
+*************************************************************************
+***** DO NOT ENCODE THIS SHOW TO LOSSY FORMATS EXCEPT FOR PERSONAL USE*** 
+******************DO NOT SELL OR DISTRIBUTE FOR PROFIT*******************
+*************************************************************************
+
+Disc 1 
+
+01. Intro
+02. Queen of California
+03. Something Like Olivia
+04. Vultures
+05. Half of My Heart
+06. Goin' Down the Road Feeling Bad-> #
+07. Love is a Verb
+08. Slow Dancing in a Burning Room
+09. On the Way Home
+10. Covered in Rain-> *%
+11. Your Body is a Wonderland-> *
+12. Neon (Isn't She Lovely, Tom's Diner interpolations)-> *
+13. Your Body is a Wonderland *
+
+Disc 2
+
+14. Wildfire
+15. I Don't Trust Myself (With Loving You)
+16. Waiting on the World to Change
+17. Waiting on the Day
+18. Who Says
+19. Call Me the Breeze @
+20. Age of Worry
+21. Gravity
+
+22. Encore Break
+
+Encore
+
+23. If I Ever Get Around to Living
+
+
+
+
+# Grateful Dead cover
+* John solo acoustic set
+% By request, last verse forgotten by John
+@ Lynyrd Skynyrd cover
+
+
+
+Compiled by Tom Gambichler on September 1, 2013
+ 

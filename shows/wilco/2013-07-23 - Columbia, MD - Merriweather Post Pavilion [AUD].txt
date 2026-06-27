@@ -1,0 +1,36 @@
+WILCO
+AMERICANARAMA TOUR
+2013/07/23 - Merriweather Post Pavilion; Columbia MD, USA
+
+Source: CA-14's (Cards) > Church Audio ST-9100 > Edirol R09-HR @ 24/96
+Location: *STEALTH*
+Editing:  Tracking and fades were done while the show was laid in Sony Soundforge 9.0a (Build 297) as a wav file.  Periodic loud points were gently enveloped to allow for more headroom in normalization.  Normalization performed on each channel independently to -0.10dB.
+Conversion: Trader's Little Helper v.2.7.0 (Build 172)
+
+
+
+TRACKLIST:					TIME:
+
+01. Ashes of American Flags			07:04
+02. Bull Black Nova				05:49
+03. Blood of the Lamb				04:03
+04. Christ for President			02:43
+05. I Am Trying to Break Your Heart		06:05
+06. Art of Almost				07:44
+07. Jesus, Etc.					04:13
+08. Can't Stand It				04:36
+09. Born Alone					04:29
+10. Passenger Side				03:50
+11. I Got You (At the End of the Century)	04:14
+12. Heavy Metal Drummer				03:13
+13. I'm the Man Who Loves You			04:14
+14. Dawned on Me				03:39
+15. A Shot in the Arm				05:10
+16. The Lonely 1				04:10
+
+				 GRAND TOTAL-   75:16	
+
+
+
+MISC NOTES:
+The tour featured (in order of appearance): Ryan Bingham, My Morning Jacket, Wilco, and Bob Dylan.  I taped all four acts of this incredible bill.

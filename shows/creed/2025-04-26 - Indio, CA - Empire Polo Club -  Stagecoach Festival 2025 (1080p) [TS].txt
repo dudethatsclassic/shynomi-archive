@@ -1,0 +1,23 @@
+Creed
+Stagecoach Festival 2025
+Palomino Stage
+Empire Polo Club  
+Indio  
+CA, USA  
+April 26th, 2025
+
+Lineage: Live Twitch webcast -> streamlink -> ffmpeg ->.mkv  
+Video: MPEG4 Video (H264) 1920x1080 16:9 6000 Kbps 30 fps  
+Audio: AAC 256 Kbps 44.1 KHz stereo
+
+Setlist:  
+Bullets  
+What If  
+My Own Prison  
+One  
+With Arms Wide Open  
+Higher  
+One Last Breath  
+My Sacrifice  
+
+trt = 51:19

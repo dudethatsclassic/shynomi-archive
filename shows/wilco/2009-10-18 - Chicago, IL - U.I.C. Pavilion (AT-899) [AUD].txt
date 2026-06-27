@@ -1,0 +1,63 @@
+Wilco
+U.I.C. Pavilion
+Chicago, Illinois
+October 18, 2009
+
+*** Contrast clause:  This is a different torrent (different taper, different equipment, and different location) than the torrent located here:
+
+http://www.dimeadozen.org/torrents-details.php?id=272506
+
+Source:  Audio Technica AT-899 omnis => Edirol R-09 (24-bit)
+Transfer: R-09 => WAV => Adobe Audition => dither to 16-bit WAV => Magix Audio Cleaning Lab => WAV => FLAC (level 8)
+
+Location: Side stage, 4th row
+
+Track listing:
+
+Disc one (68:34):
+(1)  Wilco (The Song) (3:06)
+(2)  A Shot in the Arm (4:55)
+(3)  Bull Black Nova (5:47)
+(4)  You Are My Face (4:54)
+(5)  I Am Trying To Break Your Heart (6:28)
+(6)  One Wing (4:09)
+(7)  Misunderstood (6:18)
+(8)  At Least That's What You Said (5:30)
+(9)  Banter (0:54)
+(10)  Deeper Down (3:28)
+(11)  Impossible Germany (6:41)
+(12)  It's Just That Simple (4:13)
+(13)  I'll Fight (4:59)
+(14)  Handshake Drugs (7:06)
+
+Disc two (67:21):
+(1)  Sonny Feeling (4:09)
+(2)  Banter (1:05)
+(3)  Jesus, Etc. (4:24)
+(4)  Theologians (3:31)
+(5)  I Can't Stand It (3:55)
+(6)  Hate It Here (5:16)
+(7)  Walken (4:41)
+(8)  I'm The Man Who Loves You (3:56)
+(9)  Encore break (2:46)
+(10)  You Never Know (4:17)
+(11)  Band introductions (1:30)
+(12)  Heavy Metal Drummer (3:50)
+(13)  Just a Kid (3:10)
+(14)  Kingpin (6:10)
+(15)  Monday (3:59) =>
+(16)  Outta Site (Outta Mind) (2:27)
+(17)  Hoodoo Voodoo (5:31)
+(18)  I'm a Wheel (2:34)
+
+Checksum file is included.
+
+Comments:
+
+Second-to-last date of their 2009 North American tour, playing to their largest paying audience (i.e. excluding their free show in Grant Park in 2001) ever in Chicago.  The show was solid, but I didn't think it really took off until the last hour of the show .... I think the early part of the set was, if anything, too mellow for the big room they were playing in.  Wilco on an average night is better than most bands on a good night, though; I think this is worth it just for the encore which includes the somewhat rare "Just a Kid."  
+
+I was located next to the stage in a section that hadn't been sold to the public, but security was making no effort to keep people out of, either.  At the beginning of the show, I was one of about ten people in the section; by the end, it was largely full.  I didn't figure out early enough that I was slightly out of the optimal line to the PA, so this recording is somewhat lacking compared to the second night.  It's got good range (though I used Audio Cleaning Lab to increase the +3 kHz range) but the acoustics of the room are just not ideal.  Since I was very close to the stage, it does have an "in your face" feel without a lot of reverb on vocals or instruments.  Even though this was a stealth recording, there is very little crowd noise to distract from one's enjoyment.
+
+Definitely a listenable recording; probably a B or B+.  Certainly my gear was amateur compared with many Wilco tapers -- but it seems that most of them stayed home this night (I only saw one mic stand, way back by the board).  Mp3 samples are included in the comments.
+
+Mp3 samples are attached.  

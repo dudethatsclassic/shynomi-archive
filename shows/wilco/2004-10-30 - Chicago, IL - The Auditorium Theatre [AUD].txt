@@ -1,0 +1,80 @@
+Wilco
+@ The Auditorium Theatre
+October 30th 2004
+Chicago, IL
+
+Source: Midas Soundboard > Analog RCA to 8th inch pin cable > Sony Hi-MD Walkman MZ-NHF800 
+(Hi-SP recording setting) >usb transfer to computer in OpenMG format
+
+Conversion: OMG > WAV via HIMDRENDER.exe ( http://www.marcnetsystem.co.uk/ ) > 
+fade in and out via cool edit pro 2.0 > track cuts made by CD Wav Editor > 
+SNH via MKW Audio Compression Tool
+
+Setlist: 
+
+1. house music
+2. introduction by Frankie Lee from 93.1 XRT > more house music
+3. house music
+4. house music
+5. Hummingbird
+6. At least that’s what you said
+7. Radio Cure
+8. Muzzle of bees
+9. Company in my back
+10. I am trying to break your heart
+11. Pot Kettle Black
+12. A Shot In The Arm
+13. Jesus, etc.
+14. Handshake Drugs
+15. Heavy Metal Drummer
+16. Theologians
+17. I'm The Man Who Loves You
+
+Disc 2
+1. Poor Places > 
+2. Reservations >
+3. Spiders*
+
+E1
+4. War on War
+5. In A Future Age
+6. Kingpin
+7. The Late Greats
+8. I'm a wheel
+
+E2
+9. Another Man's Done Gone
+10. Ashes Of American Flags
+11. Passenger Side
+12. Be Not So Fearful > house music
+
+Notes:
+
+* spiders is patched during the last 3 mins of the song plus some during some aud cheering
+
+- Also i was told that there were problems with the guitar, which is what caused a bit of static during 
+a couple of the songs. It's just light static and only momentary, nothing big at all.
+
+* The patch on spiders is from 10-31-04 which was taped and converted 
+by: Jeff Frank jsfrank@sbcglobal.net
+Taped from the 1st row of the balcony in the right corner. Seat 201. 
+
+source of patch: AKG 483 > V3 > D8
+Transfer: Tascam DA20 > Edirol UA-1D > CD Wave > 
+Adobe Audition 1.0 (48 > 44.1) > CD Wave > FLAC
+
+Notes on the patch:
+
+To patch this I used cool edit pro 2.0 in a multitrack session.  At 7:06:180 on the sbd, I layered the 
+2nd half of spiders from 10-31-04 onto the track which enabled me to slowly fade it in over a 7.423 
+second period so that it makes a good slow transition into the the audio recording.  On the aud 
+recording I used a slow fade over that 7.423 second period which gradually brought it from 20% 
+amplification back up to its original 100% setting so that it sounds seamless.  I then raised the 
+remaining minute and a half of audience yelling on the soundboard 2.5 db (except for the part where 
+Tweedy says "thanks a lot")  to match the aud and then slow faded down the audience recording 
+during the last 40 seconds to bring it back to equilibrium with the soundboard by the end of the track.  
+
+Kevin Licciardello
+floatingpancake@hotmail.com
+
+Enjoy.. 

@@ -1,0 +1,63 @@
+Dave Matthews Band
+December 9, 1992
+The Floodzone
+Richmond, VA
+
+
+Source:		DSBD
+
+DAT > CD:	DAT > Standalone CD
+		Jeff Travitz
+
+CD > SHN:	plextor manager 2000 > mkwact
+		Allan Chen
+
+Disc One <set I>:
+
+01:		Minarets
+02:		One Sweet World (Instrumental Intro)
+03:		So Much To Say
+04:		Lover Lay Down
+05:		Angel From Montgomery
+06:		Halloween
+07:		Granny
+08:		Tripping Billies
+09:		Two Step
+
+Disc Two <set II>:
+
+01:		Pay For What You Gget
+02:		Lie In Our Graves
+03:		True Reflections
+04:		Davespeak Talking about NYE
+05:		Satellite
+06:		Dancing Nancies
+07:		Warehouse
+
+Disc Three <set II continued>:
+
+01:		All Along The Watchtower
+02:		The Maker
+03:		Spotlight
+04:		Blue Water
+
+
+Notes:
+----------
+*	The original CD source was DAT > CD by Jeff Travitz and he sent the
+	audio discs to Allan to convert to SHN.  The original DAT came from
+	Mark Lynn.  Somehow, PFWYG and LIOG were not included on the audio
+	CDs Jeff sent to Allan.  For years, this show has spread without
+	these two songs.  I took a DAT I had of this show that included
+	PFWYG and LIOG and joined this splice together with the rest of
+	the original second set.  So, the SHNs from the first set are the
+	same as the old set, but the whole second set is new (due to do the
+	shift I had to apply to fix SBE issues).
+*	My DAT conversion was done direct to SHN as follows:
+
+	Conversion:	Tascam da20 > M-audio Firewire Audiophile spdif in
+			Sound Forge 7.0 (record/resample) > CDWav > MKWact
+			Louie Rendek [ljr7@yahoo.com]
+
+*  originally compiled by Allan Chen on August 24, 2000.
+*  update compiled by Louie Rendek [ljr7@yahoo.com] on December 3, 2005.

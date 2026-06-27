@@ -1,0 +1,29 @@
+Sebadoh - 1993 06 14 Corky's, Frankfurt, Ger
+
+Remaster note:
+Audio is very clear on this, but was very compressed, weak bass and little stereo seperation. I raised the bass, added light reverb to get a sound less compressed then normalized the volume).
+
+01 Intro
+02 Elixir Is Zog
+03 No Way Out
+04 Emma Get Wild
+05 Fast Times at Riot Grrl High
+06 As The World Dies, the Eyes of God Grow Bigger
+07 Mystery Man
+08 Two Years Two Days
+09 Soul And Fire
+10 Forced Love
+11 Really Insane
+12 Cliche
+13 Together Or Alone
+14 Vampire
+15 Give Up
+16 Its So Hard To Fall In Love
+17 Ride The Darker Wave
+18 Whitey Peach
+19 Soul Mate
+20 Gimme Indie Rock
+21 Improvisation
+22 Visibly Wasted
+
+Lineage: Audience Video Master > 1st Gen VHS > CDR (audio only) > EAC (WAV + CUE) > SoundForge (levels, bass boost, added light reverb) > CDWAVE (splits) > FLAC

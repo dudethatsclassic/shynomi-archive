@@ -1,0 +1,31 @@
+Dave Matthews Band
+Trax
+Charlottesville, VA
+December 15, 1992
+
+Taper:		Jon Weber
+Source Info:	SBD > c(0)
+
+Conversion:	Jon Weber
+analog > DAT:	Sony 3-head deck > Tascam DA20 DAT
+DAT > CD:	Sony TCD-D7 > Marantz CDR630
+
+CD > SHN:	David Baty
+		EAC v0.9pb7 @ 1x > CEP 1.1 (normalized) > CDWAV > mkwACT
+
+
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+d1t01		Intro					00:16.54
+d1t02		What Would You Say?			04:52.52
+d1t03		Lie In Our Graves			03:55.07
+d1t04		Lover Lay Down				09:38.12
+d1t05		Dancing Nancies				08:07.17
+d1t06		Recently				08:12.20
+d1t07		Two Step				14:15.70
+d1t08		True Reflections			06:27.14
+d1t09		Help Myself				05:14.50
+d1t10		Granny					03:48.48
+d1t11		Halloween				04:29.14
+d1t12		Tripping Billies			04:47.08
+d1 totals 74:06.66

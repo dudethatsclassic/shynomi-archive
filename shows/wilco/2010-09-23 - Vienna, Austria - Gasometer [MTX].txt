@@ -1,0 +1,78 @@
+
+Wilco
+The Barrowlands
+Glasgow 
+Scotland
+
+16th September 2010
+
+Wilco are :
+Jeff Tweedy
+John Stirratt
+Glenn Kotche
+Nels Cline
+Pat Sansone
+Mikael Jorgensen
+
+Tracklisting :
+
+Cd A 63 min 40 sec
+
+01 Wilco/band intros
+02 Muzzle of Bees
+03 Bull Black Nova
+04 I am Trying to Break Your Heart
+05 One Wing
+06 You Are My Face
+07 Shot In The Arm
+08 Impossible Germany 
+09 Via Chicago
+10 One by One
+11 I'll Fight
+12 Handshake Drugs
+
+Cd B 53 min 24 sec
+
+01 Airline to Heaven
+02 California Stars
+03 Hate it Here
+04 Red Eyed and Blue 
+05 I Got You (At the End of the Century)
+06 I'm Always in Love
+---------------------
+07 Misunderstood 
+08 You Never Know [with "Synthesizer Patel"]
+09 Jesus etc 
+10 Walken
+11 I'm The Man Who Loves You
+12 Kicking Television
+
+Info : 
+http://wilcoworld.net/
+This was Wilco's last UK date, and they are off to Europe for
+the next stage of their tour.
+
+Aud->SP CMC-8s+AT-P12106 h-c caps->SPSB-6S(r/o:69Hz)->
+Edirol R09(16bit 44.1Khz, gain +17)
+USB transfer to pc->Nero Wave Editor(volume balancing, volume boosting, fades)
+->CDWave(split)->Flac sector 8, sector boundaries aligned.
+
+Great set, superb singing by Jeff Tweedy.
+Nels Cline is a genius :-) He played an array of electric guitars, 
+including a double neck and two lap steel guitars.
+A stamping, cheering crowd didn't want it to end; the band was on stage
+for almost 2 hours.
+
+Sound: the clarity improves during the first 2 songs, otherwise 
+good throughout, clear, well balanced.
+There's a sound glitch at the end of "One By One" (not mine) and
+a couple of slight recording glitches during the set (loose connection).
+Not enough to spoil it in any way IMO.
+
+Support : Phil Selway (Radiohead)
+
+Recorded and upped by Evangeline.
+No selling in any form.
+Share freely in lossless formats only.
+Please support this wonderful band any way you can.
+Let's hope they don't leave it another 3 years to come back to Scotland.

@@ -1,0 +1,77 @@
+John Mayer
+Summer 2008 Tour
+July 27, 2008
+Irvine Meadows - Verizon Wireless Amphitheater
+Irvine, CA
+
+Source:         Sony ECM-719 > Olympus LS-10
+Conversion:     LS-10 > WAV > FLAC Frontend
+Taper:          Debbie Ocoboc (docoboc.u@yuku.com)
+Transferred By: Claude Sawyer (csawyer@tapergeek.com)
+
+01. Bigger Than My Body
+02. Belief
+03. Crossroads
+04. I Don't Trust Myself (With Loving You)
+05. Good Love Is On The Way
+06. Slow Dancing in a Burning Room (No Surprises) (acoustic)
+07. Free Fallin'
+08. Taking On Water
+09. Waiting on the World to Change
+10. Mercy
+11. No Such Thing > Why Georgia
+12. Stitched Up
+13. Vultures
+14. Say
+15. The Hurt
+16. Panama
+17. Gravity
+18. Bold As Love
+
+Notes: Stage left Row D 35 feet from the stage.
+Never buy or sell live recordings.
+http://johnmayer.yuku.com/
+http://TaperGeek.com
+
+FLAC Fingerprint:
+
+jmayer2008-07-27d1t01.flac:f6cf26b24b7799c94fdeaf9b8c880a6b
+jmayer2008-07-27d1t02.flac:daa520249a147b585368de72132611e6
+jmayer2008-07-27d1t03.flac:a21df3202d1620aa182b3252d9c5b28f
+jmayer2008-07-27d1t04.flac:6ae4153d768d4aed916a173a1082624d
+jmayer2008-07-27d1t05.flac:72f569bc25aeb342ba77faaa9bd0a0ce
+jmayer2008-07-27d1t06.flac:01f658dd020f55f11948a0cb8078f62e
+jmayer2008-07-27d1t07.flac:dfa885f74f8cfd89a921df16047da57d
+jmayer2008-07-27d1t08.flac:d40aa6ac2457153ec2930f68184a3495
+jmayer2008-07-27d1t09.flac:82c4a9a29bcb37f0946daddf0ba1cf97
+jmayer2008-07-27d1t10.flac:63536ea7503b1175193e7e0e5c793b33
+jmayer2008-07-27d2t01.flac:55167a9a7e8238b9c04e277df101a9b4
+jmayer2008-07-27d2t02.flac:5eb3536027635827dc7f7bfba0e245da
+jmayer2008-07-27d2t03.flac:c7792954a9dd6f2734f9bcac8352fd21
+jmayer2008-07-27d2t04.flac:91dc61c53b9d722aa300852c2363ec31
+jmayer2008-07-27d2t05.flac:d5e04b04bde4bd329d9ba29cfb173f26
+jmayer2008-07-27d2t06.flac:4663916d134e0ebc08d1034ff4ef482f
+jmayer2008-07-27d2t07.flac:715d5b027d023a9e4f5304114ff8bea7
+jmayer2008-07-27d2t08.flac:ba7f3fb33c3f9553cb9491a5272f9bee
+
+MD5 Checksum:
+
+731cc98583c22c1b7e5f67ee7b0f3adb *jmayer2008-07-27d1t01.flac
+d7a7a29d942d4ad916ef83823b91a541 *jmayer2008-07-27d1t02.flac
+5c323627a248a86c239384984c46b12a *jmayer2008-07-27d1t03.flac
+f072c37e0398d9713b64535ef4242c70 *jmayer2008-07-27d1t04.flac
+405c9735855299cd3c5768f23eca6a37 *jmayer2008-07-27d1t05.flac
+356439b0fc2d4adb142c2b44e739f43e *jmayer2008-07-27d1t06.flac
+793030aa4dc5d65abe1d14784e76500a *jmayer2008-07-27d1t07.flac
+19ee4f4f5814efb010c509358bc9d0d5 *jmayer2008-07-27d1t08.flac
+bba4745aca3743166422102e3e250689 *jmayer2008-07-27d1t09.flac
+b8d996852b3a82eb2907e2a11f3e1250 *jmayer2008-07-27d1t10.flac
+d35d5ad706e4c0d9729d1f892d7f7b61 *jmayer2008-07-27d2t01.flac
+69e5a0b0542ab58e7219bcd8af245543 *jmayer2008-07-27d2t02.flac
+222df056a77fd651ebb9475a6f73b01b *jmayer2008-07-27d2t03.flac
+82c2c3b96ddd18ab076ba8470ea280d0 *jmayer2008-07-27d2t04.flac
+1780d3ff5c089e8ea06c8113664654f4 *jmayer2008-07-27d2t05.flac
+e8b46df65e8314c5d71e06f8f6dbf7d8 *jmayer2008-07-27d2t06.flac
+b4c2e82adbb6a853d0c00d5c59d118a8 *jmayer2008-07-27d2t07.flac
+70d97eab0a25ce7d5a0d3ce203310e90 *jmayer2008-07-27d2t08.flac
+

@@ -1,0 +1,62 @@
+Dave Matthews Band
+The H.O.R.D.E. at Star Lake Amphitheater, Burgettstown, PA
+August 21, 1994
+
+Track list:
+
+01 Satellite (*)
+02 Tripping Billis (**)
+03 Say Goodbye
+04 Minarets
+05 Typical Situation
+06 Ants Marching
+
+Band:
+
+Dave Matthews - acoustic guitar and vocals
+Boyd Tinsley - violin and backing vocals
+Carter Beauford - drums and backing vocals
+Stefan Lessard - bass
+Leroi Moore - woodwinds
+
+* Fades in, Right channel drops in/out, mastered in mono.
+** Fades in.
+
+Run time: 38 min 53 sec
+Format: FLAC 16 bit/44.1 kHZ and AAC
+
+House audio recorded (August 21, 1994): DAT @ 48 kHZ
+Transferred by Mark Domyancich: Tascam DA-20 MKII / Audiophile 2496 / Sound Forge
+Remastered by D. Fries (September 2021).
+
+
+*** This is a remaster of the following files: ***
+
+"Dave Matthews Band
+8/21/1994
+Star Lake Amphitheatre, Burgettstown, PA
+H.O.R.D.E. Tour
+
+Source: SBD > DAT @ 48kHz
+Conversion: DA-20 MK II > S/PDIF > Audiophile 2496 > Sound Forge > SoX > flac16
+DAT provided by: John White
+Converted by: Mark Domyancich (mark.domyancich@gmail.com)
+
+***DO NOT ENCODE TO MP3 OR ANY OTHER LOSSY FORMAT***
+
+CD 1:                     [38:55.65]
+
+1. //Satellite            [03:15.59]
+2. //Tripping Billies     [03:52.29]
+3. Say Goodbye            [06:33.37]
+4. Minarets               [08:38.10]
+5. Typical Situation      [10:06.17]
+6. Ants Marching          [06:29.63]
+
+Notes:
+-This show is not without its flaws - "Satellite" and "Tripping Billies" cut in,
+ and "Satellite" is marred with dropouts in both channels and sometimes the
+ right channel. It seems that the board outputs were having issues. Spikes in
+ the waveform which are typical with cables being plugged in/out were edited
+ out. Dave's closing goodbye is cut as well.
+-Resampled with SoX to 44.1kHz (polyphase setting)."

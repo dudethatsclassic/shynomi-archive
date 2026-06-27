@@ -1,0 +1,31 @@
+Glen Hansard & Marketa Irglova of The Swell Season
+The Anthem
+Washington, DC
+August 15, 2023
+
+Taper: hemisphire
+Source: LG V60 > RecForge II Pro > WAV
+Lineage: WAV > ffmpeg (track split) > Trader's Little Helper > FLAC
+
+01. intro
+02. Lies
+03. The Answer Is Yes
+04. One Of Us Will Lose
+05. When Your Mind's Made Up
+06. I Leave Everything To You
+07. The Moon
+08. My Roots Go Deep
+09. Factory Street Bells
+10. Pretty Stories
+11. Sure As The Rain (take 1)
+12. Sure As The Rain
+13. Leave
+14. Low Rising
+15. Into The Mystic
+16. If You Want Me
+17. Fitzcarraldo
+18. Falling Slowly
+19. The People We Used To Be
+20. Say It To Me Now
+21. Gold
+22. Buzzin' Fly

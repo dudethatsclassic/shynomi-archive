@@ -1,0 +1,53 @@
+Wilco
+Koka Booth Amphitheatre At Regency Park
+Cary, NC
+Friday August 8, 2008
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA 4023 > Oade M148 > Audio Magic Presto II > Sound Devices 722 @ 24/96
+Location:	75 feet center
+
+WAV > FLAC:	.wav @ 24/96 > Steinberg WaveLab v5.00a (dither with Apogee
+		UV22HR to 16/44.1)
+
+Disc One:
+
+01: Intro					-	01:31.000
+02: You Are My Face				-	05:11.666
+03: Muzzle Of Bees				-	04:52.866
+04: A Shot In The Arm				-	04:58.466
+05: Radio Cure					-	05:33.533
+06: Impossible Germany				-	06:31.600
+07: Remember The Mountain Bed			-	07:21.533
+08: Handshake Drugs				-	06:24.866
+09: One Wing					-	05:43.466
+10: Jesus, Etc.					-	04:08.800
+11: Misunderstood				-	06:08.200
+
+Total:						-	58:26.000
+
+Disc Two:
+
+01: Pot Kettle Black				-	04:26.266
+02: Poor Places					-	05:31.533
+03: Reservations				-	04:06.600
+04: Spiders (Kidsmoke)				-	15:13.733
+05: Hate It Here *				-	04:46.000
+06: Walken *					-	05:16.400
+07: I'm The Man Who Loves You *			-	04:05.733
+08: Monday *					-	04:20.133
+09: Outtasite (Outta Mind)			-	05:28.866
+10: The Late Greats				-	03:09.733
+11: Heavy Metal Drummer				-	03:59.266
+12: Red-Eyed And Blue				-	02:15.533
+13: I Got You (At The End Of The Century)	-	04:10.333
+14: Hoodoo Voodoo *				-	05:28.866
+15: Outro					-	01:41.000
+
+Total:						-	74:00.000
+
+Notes:
+
+* with The Total Pros horn section
+
+compiled by George Wang on 08-13-2008

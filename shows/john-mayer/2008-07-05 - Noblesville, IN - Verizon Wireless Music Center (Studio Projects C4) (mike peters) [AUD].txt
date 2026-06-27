@@ -1,0 +1,76 @@
+John Mayer
+July 5, 2008
+Verizon Wireless Music Center
+Noblesville, IN
+
+Taper: Mike Peters (mikepeters33@gmail.com) 
+Location: Section C Row T Seats 7 and 8 (Mics at ~10ft)
+Source: Studio Projects C4's (Cardioid Caps/Bass Rolloff) -> Edirol UA-5 (Digimod) -> iRiver iHP-120 (Optical In)
+Transfer: iRiver iHP-120 > USB 2.0 -> Sound Forge 9.0 -> CDWave -> FLAC Frontend (Level 8)
+
+Please do not distribute in MP3 or other lossy formats.
+Support venues and artists who allow audience taping!
+
+Disc 1
+
+01. Intro
+02. Good Love Is On The Way
+03. Vultures
+04. I Don't Trust Myself (With Loving You)
+05. Free Falling +
+06. Stop This Train
+07. Bigger Than My Body
+08. No One % >
+09. No Such Thing >
+10. Why Georgia
+
+Total Disc Time: 47:58
+
+
+Disc 2
+
+01. Belief
+02. Stitched Up
+03. Mercy
+04. Waiting on the World to Change
+05. Gravity
+06. Encore Break
+07. Covered In Rain
+08. Say
+
+Total Disc Time: 61:18
+
+
+Show Notes:
++ Tom Petty cover
+% Alicia Keys cover
+
+
+Notes: 
+
+Thanks to Crumbo for the tickets
+Thanks to Andrew for the food, beers, and setup/teardown help
+
+
+Complied by Mike Peters on July 6th, 2008
+
+FLAC FINGERPRINTS
+jmayer2008-07-05d02t03.flac:c323ff493d49e4159269be9e8d32e9bf
+jmayer2008-07-05d02t04.flac:b517dd49d10b0e22ba3e48e895f12f18
+jmayer2008-07-05d02t05.flac:27d76d41dd5bf56163f63b79e7c01a1a
+jmayer2008-07-05d02t06.flac:86f9a68cb7f4a4e1fa83dfebbd2bf70c
+jmayer2008-07-05d02t07.flac:b70daec1a694734cc1042db9faed8f27
+jmayer2008-07-05d02t08.flac:64fc67c8b42176076c06b69e03f1c0db
+jmayer2008-07-05d01t01.flac:a5bf576a10fbd39f210c7b1d53366e30
+jmayer2008-07-05d01t02.flac:8d7e847bade5f2ad79b336cd0045f017
+jmayer2008-07-05d01t03.flac:d80cb00dc00ec6ac574d9a8fe8817677
+jmayer2008-07-05d01t04.flac:345c71bd53c62dcefae922f01717aa16
+jmayer2008-07-05d01t05.flac:dbc81956e8e2a0887b6062cbd6752f27
+jmayer2008-07-05d01t06.flac:4e75dcefbf349af05b8264ba39ef148c
+jmayer2008-07-05d01t07.flac:1efcb745383b6fa41356b110b21ce59d
+jmayer2008-07-05d01t08.flac:a5c2796b0d872132dc21b3be8908a5cd
+jmayer2008-07-05d01t09.flac:d84ce443dc937b48552c83bd6022e8cd
+jmayer2008-07-05d01t10.flac:33d918c58184f61f5d1d565a1a9d3a7c
+jmayer2008-07-05d02t01.flac:67ccc78241137a2abd13e52b4aa3da88
+jmayer2008-07-05d02t02.flac:daaaca14ff122bd8814b1152051c2662
+

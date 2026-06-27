@@ -1,0 +1,60 @@
+John Mayer
+19 August 2017
+PNC Bank Arts Center
+Holmdel, New Jersey
+
+Recorded by: Christopher Jones <jones.chris@gmail.com>
+Source: Neumann U89i Large Diaphragm Condenser (Hypercardioid) > Luminous Audio Technology Monarch II XLR Microphone Cable > Rupert Neve Designs Portico 5012-H Microphone Preamplifier (ÒSilkÓ circuit engaged) > Luminous Audio Technology Monarch II XLR Interconnect > Daniel Weiss Digital Audio ADC2 Analog-to-Digital Converter (@ 24-bit / 96 kHz) > Cardas Audio Neutral Reference AES / EBU Digital Interconnect > Sound Devices 722 Hard Disk Recorder (slaved to Weiss ADC2 @ 96 kHz; @ 24-bit / 96 kHz)
+Location: FOH, DFC, approximately 30 meters from the stage.  Microphones elevated approximately 4 meters, ORTF.
+HD > .flac: Sound Devices 722 Hard Disk Recorder > Apple Macbook Pro (2.53 GHz Intel Core 2 Duo / 4GB 1067 MHz DDR3) > Audiofile Engineering Wave Editor v1.5.8 > xACT v2.41
+
+Resampled with iZotope Resampler at highest quality setting and a filter steepness of "150"; dithered using iZotope MBIT+ with a "Normal" amount of "Ultra" noise shaping applied.  24-bit / 96 kHz version of this recording available in .flac24.
+
+t01 Introduction / Roastmaster General Jeff Ross  		08:40.29
+t02 Moving On And Getting Over  				05:40.58
+t03 Love On The Weekend  					04:21.11
+t04 Helpless (Miss You +)  					05:54.31
+t05 Who Says >  						03:00.74
+t06 Why Georgia > No Such Thing > Why Georgia  			06:22.32
+t07 IÕm On Fire %  						03:34.66
+t08 Emoji Of A Wave  						06:23.59
+t09 Your Body Is A Wonderland >  				02:55.21
+t10 Neon (TomÕs Diner ^)  					04:23.42
+t11 Intro To...  						02:32.40
+t12 Good Love Is On The Way  					04:21.20
+t13 Intro To...  						01:30.13
+t14 Vultures  							05:25.36
+t15 Wait Until Tomorrow #  					05:41.56
+t16 In The Blood  						05:01.23
+t17 (China Cat Sunflower *) > Something Like Olivia  		05:29.72
+t18 If I Ever Get Around To Living  				10:58.04
+t19 (The Beautiful Ones ~ $) > 					01:22.69
+t20 Slow Dancing In A Burning Room 				07:36.49
+t21 Rosie  							05:52.51
+t22 ÒThank You..."  						03:35.26
+t23 Intro To...  						01:54.28
+t24 Waiting On The World To Change 				05:46.61
+---
+t25 Intro To...  						00:17.14
+t26 Born And Raised >  						04:38.32
+t27 Gravity  							09:42.15
+---
+t28 Jeff and John Intro...  					01:24.10
+t29 YouÕre Gonna Live Forever In Me  				03:38.41
+t30 Theme From ÒThe Search For EverythingÓ  			02:09.13
+
+								140:16.46
+
+() Indicates a tease or partial song if not part of a song with a parenthetical subtitle
++  Rolling Stones cover
+>  Indicates a segue into the next song
+%  Bruce Springsteen cover
+^  Suzanne Vega cover
+#  Jimi Hendrix cover
+*  Grateful Dead cover
+~  Price cover
+$  Featuring David Ryan Harris on vocals
+
+Notes:
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 17 September 2017.

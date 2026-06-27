@@ -1,0 +1,66 @@
+John Mayer
+September 6, 2007
+A Concert for Virginia Tech
+Virginia Polytechnic Institute- Lane Stadium
+Blacksburg, VA
+
+Opening for Dave Matthews Band
+
+
+Taper: Rockinman (Tgambichler@comcast.net)
+Location: FOH,DFC, stand at approx 11 ft.
+Source: SPC4 mics(bass rolloff)> UA5 preamp> Nomad JB3(Optical In)
+Transfer: JB3->USB->PC
+Processing: Normalizing (to -0.1db) and Waves L3 Volume Maximizer applied using SoundForge 8.0. 
+Conversion: CD Wave Editor for track splitting and Flac16 Conversion @ level 5
+
+*****************************************************************
+*****  DO NOT ENCODE THIS SHOW TO LOSSY FORMATS *****
+****** DO NOT SELL OR DISTRIBUTE FOR PROFIT*********
+*****************************************************************
+
+
+
+Disc 1 of 1
+
+
+01. Intro (includes introduction by Dave Matthews)
+02. Belief
+03. No Such Thing
+04. I Don't Trust Myself (With Loving You)
+05. Vultures
+06. Waiting on the World to Change
+07. I Don't Need No Doctor
+08. Why Georgia
+09. Gravity *
+
+
+
+* Leroi Moore on saxophone
+
+
+
+
+Compiled by Tom Gambichler on September 15, 2007
+
+
+
+
+jm2007-09-06d1t01.flac:d03039ff245d2fe9e790149d26f1180b
+jm2007-09-06d1t02.flac:6057d2005caf95793b33f0a7fd08308e
+jm2007-09-06d1t03.flac:7d40d3f6653026ccb6e03f85259e56bb
+jm2007-09-06d1t04.flac:500d2401e578a30e1414b7e48545cd27
+jm2007-09-06d1t05.flac:2cd9418ab42a564f322dd056b80f0097
+jm2007-09-06d1t06.flac:d3d7d09fe2a778bf0a106ac299233b24
+jm2007-09-06d1t07.flac:54035d1f8e40a763841461891aabebd4
+jm2007-09-06d1t08.flac:48eb8b89611362b6d6fb8c0a00affc1b
+jm2007-09-06d1t09.flac:a679495e8bb5aa8610490439d34e328f
+jm2007-09-06d1t01.flac:b2a97c656160c773ebde664a3b67e886
+jm2007-09-06d1t02.flac:7d0d042b9d786abdaf922c83d89ece90
+jm2007-09-06d1t03.flac:4c303bc0ef0bcfd8637cfe57c4d5966e
+jm2007-09-06d1t04.flac:ab1beaf6f143f7abb8a5266afcbab96e
+jm2007-09-06d1t05.flac:4c6b4ced5de2f39e8f427ef756443c2a
+jm2007-09-06d1t06.flac:d42272c59ab657ef17881d088310d952
+jm2007-09-06d1t07.flac:88f96750b76d091df8344d3608a243c4
+jm2007-09-06d1t08.flac:53864639bc755548678cae143f30e02e
+jm2007-09-06d1t09.flac:68a635f5d63f18efdf74b125756ee8cc

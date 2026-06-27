@@ -1,0 +1,125 @@
+Garbage
+10 Giorni Suonati 2012
+Castello Sforzesco
+Vigevano, Italy
+2012-07-11 
+
+[GP026dm]
+
+--- 16-bit version ---
+
+source: 	AUD (see location below) > Church Audio CA-14 Cardioids > Church Audio battery box >
+		> Edirol R-09 (24-bit/48.0 kHz, LINE-IN, rec. level 25/30) > SDHC Panasonic RP-SDM04G 
+location: 	25 m from the stage, 15 m right, hat-mounted mic
+transfer: 	SDHC Panasonic RP-SDM04G > HD (via USB) > Audacity 2.0.0 (cut/amplified[+5.0dB(L)/+7.0dB(R)]/faded-out) > 
+		> CD Wave 1.97 (track splitting) > r8brain 1.9 (44.1 kHz resampling/very high quality 16-bit dithering) >
+		> TLH 2.7.0.172 (sector boundaries alignment/level 8 compression) > FLAC 
+generation: 	master (no optical media extraction) 
+taper: 		Giuseppe Pastorelli [G.P.] (doublec) 
+
+Mainset: 
+
+01 [01:54] *** intro ***
+02 [03:31] Automatic Systematic Habit 
+03 [03:45] I Think I'm Paranoid 
+04 [03:34] Shut Your Mouth 
+05 [04:56] Metal Heart
+06 [04:41] Queer
+07 [04:52] Stupid Girl 
+08 [05:00] Why Do You Love Me
+09 [05:42] Control
+10 [03:08] Beloved Freak 
+11 [03:22] Cherry Lips (Go Baby Go!) 
+12 [04:35] Blood For Poppies
+13 [04:14] Special 
+14 [04:57] #1 Crush 
+15 [05:44] Battle In Me 
+16 [03:50] Big Bright World 
+17 [06:13] Push It
+18 [06:38] Vow 
+19 [03:43] *** encore break *** 
+
+Encore: 
+
+20 [04:28] Supervixen 
+21 [05:02] Only Happy When It Rains
+
+Total running time 	[1:33:58] 
+WAV 16-bit 		948 MB
+FLAC 16-bit 		521 MB 
+
+Tape story:
+The venue is an amazing historic castle (Shirley had very good words for it).
+I have located myself in front of the right stack, about 25 m from the stage.
+Few people were around me and also very quiet.
+The sound is very very good. Imho one of the best recordings I have ever done.
+
+What about the show? 
+It was my first Garbage concert and I enjoyed a lot even if I had to fight with dozens of mosquitoes from nearby ricefields.
+Shirley was surprised that a girl in the first row awaited 15 years to come to see them... I bought the Subhuman CD single in 1995...
+The gig was part of the third edition of a ten-day summer festival (10 Giorni Suonati) held at the Castello di Vigevano
+A summer storm hit the area few hours before the concert with no effect on the show and the crowd. 
+"Beloved Freak" is just an improvisation because was not rehearsed for the tour (and remains the first and unique rendition of it).
+"#1 Crush" contains a snippet of Madonna's Erotica at the beginning
+Shirley Manson was as usual very talkative and more-or-less long talks appear at the end of tracks 05/08/09/12/15/17/19
+
+Technical notes: 
+- The total running time of the recording was 1:35:55; I have cut the last useless 2 mins reducing the master to 1:33:58
+- Few seconds at the beginning of "Automatic Systematic Habit" with problem to set correctly the recording volume (too high)
+- I have amplified the whole recording (+5.0 dB on the left channel, +7.0 dB on the right channel) and faded-out the last 10 secs
+- If you burn to audio CD, you will need 2 CDs (CD1: 1-11; CD2: 12-21)
+
+Please do not sell nor convert to mp3 for distribution (mp3 only for personal use!) 
+Feel free to share in the way you prefer, but please share this fileset as originally torrented (so preserve file integrity!) 
+
+First seeded by doublec @ DIME on 2012-11-04
+
+Fingerprints: 
+
+garbage2012-07-11t01.flac:bdb595bacdfb2e3a33d139569eaf4ce5
+garbage2012-07-11t02.flac:89bc78c052c3c65f02bf25e41418c825
+garbage2012-07-11t03.flac:a9e2b78d19a7e7351ede4cb2bb5459d8
+garbage2012-07-11t04.flac:ad5496a3a0064306c351ce391c9456d4
+garbage2012-07-11t05.flac:43705f0a9abd9f86f9217f5823298004
+garbage2012-07-11t06.flac:38fe92dc6603f1886158c50eaed21b0c
+garbage2012-07-11t07.flac:fdd14e1e4d128b5a4e299a9b30520592
+garbage2012-07-11t08.flac:fbbdda68e3922ba4e9d9f29d00ce5555
+garbage2012-07-11t09.flac:5c9841b050ffd1164631074acc4a3f09
+garbage2012-07-11t10.flac:ad289d913c0c0a23e1d7d57c1a6a0d24
+garbage2012-07-11t11.flac:2d618cb193ce346e2210b49dccd45c14
+garbage2012-07-11t12.flac:ba0e20dfd57d05037bc62d286e3ecf50
+garbage2012-07-11t13.flac:78c3819299f4d867a559c51d8b62bad8
+garbage2012-07-11t14.flac:6881f3dc81b2e32697d844a6d72dc4fe
+garbage2012-07-11t15.flac:6d73b54345f9343426aac17194593c6d
+garbage2012-07-11t16.flac:7847fdcaf931978d037b16f3bd620c0f
+garbage2012-07-11t17.flac:3a6116beed80a37ca9a45b7e5aff49ff
+garbage2012-07-11t18.flac:8555fac4047348e759001d90cc029942
+garbage2012-07-11t19.flac:58487bffc500f090d6fcc8f397834b05
+garbage2012-07-11t20.flac:12bee370a3ab978a8fd4439129426c68
+garbage2012-07-11t21.flac:80b4c56e201efe5ab3851107adc49699
+
+Track lengths:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:54.26       20170796 B   ---   --   ---xx   flac  0.5118  garbage2012-07-11t01.flac
+     3:31.27       37283948 B   ---   --   ---xx   flac  0.6140  garbage2012-07-11t02.flac
+     3:45.46       39798236 B   ---   --   ---xx   flac  0.5739  garbage2012-07-11t03.flac
+     3:34.42       37848428 B   ---   --   ---xx   flac  0.5888  garbage2012-07-11t04.flac
+     4:56.54       52341452 B   ---   --   ---xx   flac  0.5546  garbage2012-07-11t05.flac
+     4:41.51       49688396 B   ---   --   ---xx   flac  0.5557  garbage2012-07-11t06.flac
+     4:52.30       51579404 B   ---   --   ---xx   flac  0.5730  garbage2012-07-11t07.flac
+     5:00.32       52995308 B   ---   --   ---xx   flac  0.5638  garbage2012-07-11t08.flac
+     5:42.42       60427628 B   ---   --   ---xx   flac  0.5192  garbage2012-07-11t09.flac
+     3:08.16       33200876 B   ---   --   ---xx   flac  0.4502  garbage2012-07-11t10.flac
+     3:22.12       35661068 B   ---   --   ---xx   flac  0.5460  garbage2012-07-11t11.flac
+     4:35.24       48566492 B   ---   --   ---xx   flac  0.5818  garbage2012-07-11t12.flac
+     4:14.70       44970284 B   ---   --   ---xx   flac  0.5761  garbage2012-07-11t13.flac
+     4:57.22       52442588 B   ---   --   ---xx   flac  0.5533  garbage2012-07-11t14.flac
+     5:44.26       60742796 B   ---   --   ---xx   flac  0.5554  garbage2012-07-11t15.flac
+     3:50.51       40691996 B   ---   --   ---xx   flac  0.5754  garbage2012-07-11t16.flac
+     6:13.04       65806652 B   ---   --   ---xx   flac  0.5379  garbage2012-07-11t17.flac
+     6:38.30       70277804 B   ---   --   ---xx   flac  0.5819  garbage2012-07-11t18.flac
+     3:43.64       39487772 B   ---   --   ---xx   flac  0.4018  garbage2012-07-11t19.flac
+     4:28.69       47437532 B   ---   --   ---xx   flac  0.5461  garbage2012-07-11t20.flac
+     5:02.02       53277548 B   ---   --   ---xx   flac  0.5351  garbage2012-07-11t21.flac
+    93:58.65      994697004 B                            0.5500  (21 files)

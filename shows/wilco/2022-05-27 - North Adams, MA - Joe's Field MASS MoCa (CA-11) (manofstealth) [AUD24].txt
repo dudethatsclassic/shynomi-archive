@@ -1,0 +1,99 @@
+﻿Wilco
+Solid Sound Festival 
+Joe's Field
+MASS MoCA
+North Adams, MA
+May 27, 2022
+
+** 24 BIT **
+
+Source:  CA-11 cardioids > CA Battery Box > Roland R-05 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX9 Advanced v9.0.0.1130 (De-click, De-wind) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded by:  ManOfStealth
+Mastered by:  Dennis Orr
+
+Setlist: (1:54:18)
+01 Crowd
+02 I Am My Mother
+03 Cruel Country
+04 Hints
+05 Ambulance
+06 The Empty Condor
+07 Tonight’s The Day
+08 All Across The World
+09 Darkness Is Cheap
+10 Bird Without A Tail / Base Of My Skull
+11 Tired Of Taking It Out On You
+12 The Universe
+13 Many Worlds
+14 Hearts Hard To Find
+15 Falling Apart (Right Now)
+16 Please Be Wrong
+17 Story To Tell
+18 A Lifetime To Find
+19 Country Song Upside-Down
+20 Mystery Binds
+21 Sad Kind Of Way
+22 The Plains
+23 Encore Break
+- Encore -
+24 It's Just That Simple (1)
+25 New Madrid
+26 Chat
+27 Climbing
+28 Wild Mountain Thyme
+29 Chat
+30 Once A Day (2)
+31 Chat
+32 She's My Rock
+33 Chat
+34 Reincarnation
+
+(1) John - lead vocals & guitar, Jeff - bass & backing vocals
+(2) with Neko Case & Nora O'Connor - vocals
+
+Jeff Tweedy - lead vocals, guitars, & bass
+Nels Cline - lead guitar, loops, & lap steel
+Pat Sansone - keyboards, rhythm & lead guitars, backing vocals, synthesizers, maracas, & tambourine
+John Stirratt - bass, guitar, & backing vocals
+Mikael Jorgensen - samples & sound manipulation, keyboards, synthesizers, effects, piano, & organ
+Glenn Kotche - drums & percussion
+
+Notes:
+Release party for Wilco's new double CD "Cruel Country".  The album is played in its entirety, and in order.
+
+Wilco2022-05-27t01.flac:87ae373d2248be65d14d54cc0c5e63fe
+Wilco2022-05-27t02.flac:2ab9017631fd51d84f8a8ff613ba2bb8
+Wilco2022-05-27t03.flac:7ea8ff234de5af88695056ee9ad7977b
+Wilco2022-05-27t04.flac:36507d922495de6d310377b0937d2d92
+Wilco2022-05-27t05.flac:e9c10629d9b83682c6628b3ba147205d
+Wilco2022-05-27t06.flac:21fe46c05880d56592a94e2476d9cf51
+Wilco2022-05-27t07.flac:eff2048c6800b02c1534a4ced4c734df
+Wilco2022-05-27t08.flac:7231147f3417d98e8e682de788973f9b
+Wilco2022-05-27t09.flac:13e402e26e4ee9435398993339b78f00
+Wilco2022-05-27t10.flac:c157b8cb43f79600fdde0c091579e8a9
+Wilco2022-05-27t11.flac:7062f484e84751cb772f019f025133b7
+Wilco2022-05-27t12.flac:9f7a8ebacbc99d1e4bc66bac9e3db72c
+Wilco2022-05-27t13.flac:7b9bc697c5388fac4d60d79cdc93497b
+Wilco2022-05-27t14.flac:5fabc0d5e8e138061fb0bb1bb4c91133
+Wilco2022-05-27t15.flac:a464d704b2be0aaa95d03df40c7b8d1e
+Wilco2022-05-27t16.flac:9ec392d828de1d591c0f0d99ea34bd55
+Wilco2022-05-27t17.flac:9aa274acd891305e66e073e3ea59fde8
+Wilco2022-05-27t18.flac:98a831e7b650c98a91983f525fd98fd4
+Wilco2022-05-27t19.flac:857f2ea54eea53ea2d68c330e7771f07
+Wilco2022-05-27t20.flac:acfa91530259a39ce0cb9768c2072584
+Wilco2022-05-27t21.flac:96412c4fe2fd6cdf77a1559fd2bfdb58
+Wilco2022-05-27t22.flac:4dbf78f02bf912addcb8f3ecacb25b4c
+Wilco2022-05-27t23.flac:e64fc9732ea121d1ef524a400e5a523a
+Wilco2022-05-27t24.flac:a3e554e51e5f3fca1075ad249b20d4cb
+Wilco2022-05-27t25.flac:889c6724ea3db478ea4dc7ff37f97aac
+Wilco2022-05-27t26.flac:cae37daf019b9542e6751953d3559295
+Wilco2022-05-27t27.flac:c637c7ba4e4259ef8e41f841141cc8ed
+Wilco2022-05-27t28.flac:b57b5136e76cf364d8cd46f37d8df7c0
+Wilco2022-05-27t29.flac:a2bc5ae5855a04def89dadd38663fd13
+Wilco2022-05-27t30.flac:77e8daffc96f5c3de764a6ce030d4974
+Wilco2022-05-27t31.flac:7b202bcedbc8e47a3d1cedc72a6aad65
+Wilco2022-05-27t32.flac:3ca0fce92d42faf8433ae95d5adcd048
+Wilco2022-05-27t33.flac:383fc3ca55d1a8a8e848529eedf3f799
+Wilco2022-05-27t34.flac:706508545d973255a330c16ee550557c

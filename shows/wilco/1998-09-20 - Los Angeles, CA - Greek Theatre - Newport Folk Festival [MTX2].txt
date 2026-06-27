@@ -1,0 +1,51 @@
+Wilco
+
+Newport Folk Festival
+
+Greek Theatre - Los Angeles,CA
+1998-09-20
+
+
+
+
+1. James Alley Blues
+
+2. Christ for President
+
+3. Hesitating Beauty
+
+4. When the Roses Bloom Again
+
+5. New Madrid
+
+6. She's a Jar
+
+7. Forget the Flowers
+
+8. California Stars
+
+
+
+
+--Source: SBD/AUD Matrix
+
+KerouacAW
+
+/Zavyer
+
+SBD and AUD mix : Ardour 5.12.1(Ubuntu Studio 16.04.03) > (Mix,fade adjustment & crossfades) > TLH (fix-SBes,sums,file integrity check)
+ > Foobar2K Live Show Editor >
+ Deluge
+
+--Source One: SBD 
+
+Lineage: CD-R>EAC (secure w/ read offset)>WAV>FLAC (level 5)
+files re-flaced, re-named and tagged.[ Uknown taper ] Thank you for this great recording.
+
+
+
+--Source Two : AUD marcsounds > sony tcd-d100 / Taper: markp
+Many thanks to markp for this great AUD, have come across many of his quality recordings and have multiple in my collection to my delight and appreciation. Thanks a million markp.
+
+
+ 

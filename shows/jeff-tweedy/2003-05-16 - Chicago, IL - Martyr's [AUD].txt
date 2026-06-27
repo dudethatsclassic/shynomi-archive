@@ -1,0 +1,44 @@
+Jeff Tweedy
+May 16, 2003
+Martyr's, Chicago IL
+
+Source: Earthworks SR 77's > Graham-Patten DMIC-20 (44.1 kHz) > 
+Sony TCD-D10proII 
+
+Transfer: Tascam DA-20mkII > Delta DiO 2496 > HD > Sound Forge 6.0 (noise 
+reduction plugin to remove noisy ventilation system noise) > CD Wave (tracking) 
+> Sound Forge 6.0 (fades and 2 sec. silence added to d1t01 and d2t13) > 
+mkw ACT (.shn)
+
+Disc 1
+01 My Words
+02 At Least That's What You Said
+03 (?) - new song
+04 Muzzle Of Bees
+05 Be Not So Fearful 
+06 -Stage Banter-
+07 Remember The Mountain Bed
+08 Bob Dylan's 49th Beard
+09 I'm The Man Who Loves You
+10 Airline To Heaven 
+11 You're Really Gone (?) -Anodyne-era song fragment
+12 Millionaire 
+13 Heavy Metal Drummer 
+
+Disc 2
+01 Dear Employer 
+02 Misunderstood (w/ Frere Jacques intro)
+03 Poor Places 
+04 More Like The Moon 
+05 Theologians 
+06 A Shot in the Arm 
+07 -Encore Break-
+08 Company in My Back 
+09 Hummingbird 
+10 "Being There"-era song 
+11 War on War 
+12 Kickin' Television 
+13 I'm A Wheel
+
+Notes: If you know the names of the new songs please contact the Timeline Chick -
+dixiecupdrinker@earthlink.net

@@ -1,0 +1,49 @@
+Wilco
+6-29-2013
+Aaron's Amphitheater at Lakewood
+Atlanta, GA
+
+Source: Church Audio CA-11 (cards) > Church Audio CA-9200 > Sony PCM-M10 (24/48) > Micro SD Card
+Location: FOB/LOC (Section 102, Row X, in front of left stack) clipped to Orlando's Human Mic Stand (~6' high)
+Transfer: dBpoweramp > Audacity (Normalizing/Fades) > CD Wave (Tracking) > Trader's Little Helper > Flac 16 (Level 8)
+
+Recorded & Transferred by mccordo
+
+One Set
+1. Intro/Crowd
+2. Airline to Heaven
+3. When the Roses Bloom Again
+4. You Shouldn't Be Ashamed
+5. You Are My Face
+6. One Sunday Morning
+7. Art of Almost
+8. Dark Star* >
+9. California Stars* >
+10. Dark Star*
+11. I'm Always in Love
+12. Heavy Metal Drummer
+13. Dawned on Me
+14. Monday
+15. Outtasite (Outta Mind)
+
+Notes:
+Part of the AmericanaramA traveling fest with Bob Dylan, My Morning Jacket and Bob Weir
+* with Bob Weir on guitar and vocals / Nels Cline on Duane Allman's gold 1957 Les Paul guitar
+
+FFP:
+Wilco2013-06-29t01.flac:86a32e841d79eafcd496414810a29307
+Wilco2013-06-29t02.flac:18aa8d31d6dab27518ebbe8b5dfbc512
+Wilco2013-06-29t03.flac:7e8f17c0e02374a490cfa3e386b66184
+Wilco2013-06-29t04.flac:15b8a3ebdb18dcd861895da797c27c6f
+Wilco2013-06-29t05.flac:077dd014ddb2e5102dd3efb3742ae5be
+Wilco2013-06-29t06.flac:cd5ba164dd37608e8bf1a5bb9cc88a16
+Wilco2013-06-29t07.flac:ed767c7e2661d46f983c2f4e30e35cd1
+Wilco2013-06-29t08.flac:c9d0a7ddf29101bfdd08526fb9552337
+Wilco2013-06-29t09.flac:13eebebd1c37c456c2ff89ce31676075
+Wilco2013-06-29t10.flac:a2d8d3b3ffb5682a2ecb45f4386287af
+Wilco2013-06-29t11.flac:3ea36e8b6adf13572f45372cd049b527
+Wilco2013-06-29t12.flac:c59212e4d24222c3c1c9b288d5a5346e
+Wilco2013-06-29t13.flac:c7ed428f5a5a4870a3f45a05e0a25fc5
+Wilco2013-06-29t14.flac:22df669f072e5ea7655df0a76c961afa
+Wilco2013-06-29t15.flac:547dde59e6da7d8d0183a37fc89e827f
+Wilco2013-06-29t16.flac:888be18f2a19c5ebb903c3bac0f5ab72

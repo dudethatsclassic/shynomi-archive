@@ -1,0 +1,84 @@
+Wilco - 6/19/07
+Chastain Park Amphitheater - Atlanta, GA
+
+Disc One:
+
+01) Either Way
+02) You Are My Face
+03) Impossible Germany
+04) Sky Blue Sky
+05) I Am Trying To Break Your Heart
+06) Kamera
+07) Handshake Drugs
+08) Shot In The Arm
+09) Side With The Seeds
+10) Shake It Off
+
+Disc Two:
+
+01) War On War
+02) Jesus Etc.
+03) Hate It Here
+04) Walken
+05) I'm The Man Who Loves You
+06) Hummingbird
+07) E1:) Via Chicago
+08) Spiders (Kidsmoke)
+09) E2:) Heavy Metal Drummer
+10) Outtasite (Outta Mind)
+
+www.wilcoworld.net
+
+Source: Neumann KM-184(DIN)> Lunatec V2> Nomad Jukebox 3
+Transfer: Nomad Jukebox 3> Firewire> Cool Edit Pro(DSP)> CDWave> FLAC Frontend
+
+[Thanks to Stan Doty (Wilco FOH) for graciously allowing me space under the soundboard canopy to keep my gear dry]
+
+Recorded and transferred by Sloan Simpson
+
+wilco2007-06-19d1t04.flac:162781a230945358b0f457dd87922e93
+wilco2007-06-19d1t05.flac:7aec2e23b93c9dc762c19cc894917630
+wilco2007-06-19d1t06.flac:b5bdc1a4efa9804c2e658f7dc4098a7b
+wilco2007-06-19d1t07.flac:7b98bdbb3358d04a3df21795ba0fb097
+wilco2007-06-19d1t08.flac:30288d60921964a716863b12796d24ce
+wilco2007-06-19d1t09.flac:5ad892d68973dd0588d606e6d4216f94
+wilco2007-06-19d1t10.flac:6bd1c1df0eb3481a29b63c04a0197a4d
+wilco2007-06-19d2t01.flac:d00787cdb8d729e9dc2923e3e67a559f
+wilco2007-06-19d2t02.flac:94885297ffcac4074d0c791bb1d12b8a
+wilco2007-06-19d2t03.flac:093d06d99dd4b2a1dae63df4b4c0e1ca
+wilco2007-06-19d2t04.flac:04b709ca8f2930a18eefbb51e726ca7c
+wilco2007-06-19d2t05.flac:9aa4104de8dad43d0d386782303c550c
+wilco2007-06-19d2t06.flac:0dfb3399ed7242769b5b61f3522f973d
+wilco2007-06-19d2t07.flac:ff19a1a4bad1a5e19d967e1248fc931c
+wilco2007-06-19d2t08.flac:a51cbcf86cf885cde2a93fafc3301284
+wilco2007-06-19d2t09.flac:9595e64cf00520d36a284346b9876e24
+wilco2007-06-19d2t10.flac:dd9b1f083e74e7d6d6b857ccb8e4622d
+wilco2007-06-19d1t01.flac:78135a6eec7350a55ce370db4a90ec62
+wilco2007-06-19d1t02.flac:d7d3dc8e193cb52f055fadbef5340d7d
+wilco2007-06-19d1t03.flac:1ff8b0dd94b9d00823f6857955091e19
+
+   length     expanded size   cdr  WAVE problems filename
+     4:04.74       43215692    ---   --   ---xx   wilco2007-06-19d1t01.flac
+     5:02.66       53428076    ---   --   ---xx   wilco2007-06-19d1t02.flac
+     6:18.52       66801548    ---   --   ---xx   wilco2007-06-19d1t03.flac
+     3:33.20       37620284    ---   --   ---xx   wilco2007-06-19d1t04.flac
+     6:15.33       66227660    ---   --   ---xx   wilco2007-06-19d1t05.flac
+     4:45.29       50342252    ---   --   ---xx   wilco2007-06-19d1t06.flac
+     6:03.50       64150844    ---   --   ---xx   wilco2007-06-19d1t07.flac
+     4:45.03       50281100    ---   --   ---xx   wilco2007-06-19d1t08.flac
+     4:55.50       52155644    ---   --   ---xx   wilco2007-06-19d1t09.flac
+     6:36.54       69981452    ---   --   ---xx   wilco2007-06-19d1t10.flac
+     4:18.32       45586508    ---   --   ---xx   wilco2007-06-19d2t01.flac
+     4:05.01       43220396    ---   --   ---xx   wilco2007-06-19d2t02.flac
+     4:49.50       51097244    ---   --   ---xx   wilco2007-06-19d2t03.flac
+     4:32.48       48093740    ---   --   ---xx   wilco2007-06-19d2t04.flac
+     3:51.50       40866044    ---   --   ---xx   wilco2007-06-19d2t05.flac
+     5:15.34       55646012    ---   --   ---xx   wilco2007-06-19d2t06.flac
+     5:07.23       54208940    ---   --   ---xx   wilco2007-06-19d2t07.flac
+    13:30.45      142989884    ---   --   ---xx   wilco2007-06-19d2t08.flac
+     3:40.74       38982092    ---   --   ---xx   wilco2007-06-19d2t09.flac
+     3:06.44       32913932    ---   --   ---xx   wilco2007-06-19d2t10.flac
+   104:40.07     1107809344 B                     (totals for 20 files, 0.6099 o
+verall compression ratio)
+
+

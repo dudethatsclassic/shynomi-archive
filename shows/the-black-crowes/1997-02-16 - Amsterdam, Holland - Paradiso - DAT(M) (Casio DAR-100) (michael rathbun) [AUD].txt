@@ -1,0 +1,65 @@
+
+Cleaning the polluted Crowes waters with source material! 
+
+The Black Crowes 
+February 16, 1997 
+Paradiso
+Amsterdam, Holland
+
+Source: Audience DAT 
+
+Recording Information: Casio DAR-100 & Aerco preamp with Microtech Gefell SMS 2000 
+microphones and M 210 capsules. Recorded 75 feet dead center from the stage.
+ 
+Taper: Michael Rathbun
+
+Lineage: DAT Master>Digital DAT Clone>WAV>FLAC
+
+Mastering Information: DAT converted to Wave optically via a Prodiff 96 digital 
+soundcard into Wavelab. Downsampled from 48kHz to 44.1kHz in Wavelab. Individual Wave
+tracks created in Wavelab. Wave files converted to FLAC (level 8) using FLAC Frontend.
+
+I have listed below the tracks broken out into what I think would be a correct split to 
+span the show over two 74 or 80 minute CDRs, as the naming convention of the FLAC files
+suggest. Note that the last track on Disc 1 and the first track on Disc 2 can be joined 
+together without a loss of continuity.
+
+DISC 1: 56:31
+
+1. One Mirror Too Many
+2. Blackberry
+3. She Gave Good Sunflower
+4. Black Moon Jam
+5. Black Moon Creeping
+6. Sister Luck
+7. Spider In The Sugar Bowl Blues
+8. Jam
+9. NonFiction
+10. Hotel Illness
+
+DISC 2: 47:45
+
+1. Downtown Money Waster
+2. Let Me Share The Ride
+3. Willin'
+4. Wiser Time
+5. No Speak No Slave
+6. Better When You're Not Alone
+7. Jealous Again
+8. Happy
+
+Notes: Additional Show Information @ http://www.crowesbase.com/tapelisting.cfm?TapeID=28
+
+Torrent uploaded to bt.etree.org on 3/12/06.
+
+Please do not manipulate this recording in any way. Please do not dub to analog tape 
+or convert to MP3 and circulate. 
+
+If you are to trade this show, or do a blank CDR+postage offer, please list the lineage 
+to keep the generational waters clean! 
+
+If you would like to re-seed this torrent in the future, please use the exact files contained 
+in the torrent with no file manipulation. This will insure that the FLAC fingerprints 
+and MD5 hashes verify, keeping the integrity of the torrent intact.
+
+"A Spider-Web Torrent"

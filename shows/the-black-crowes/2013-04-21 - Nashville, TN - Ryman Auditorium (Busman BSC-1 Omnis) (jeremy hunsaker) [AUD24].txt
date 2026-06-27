@@ -1,0 +1,105 @@
+The Black Crowes
+Ryman Auditorium
+Nashville, TN
+April 21, 2013
+
+** 24 BIT **
+
+Source:  Busman BSC-1 omnis > t-mod Fostex FR-2LE @ 24 bit/44.1 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 130 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  Right side under balcony lip, mics head high for the main set, then @ 7' for the encore
+Recorded by:  Jeremy Hunsaker
+Mastered by:  Dennis Orr
+
+Setlist: (2:27:44)
+01 Crowd/Intro
+02 Soul Singing
+03 Hotel Illness
+04 Welcome To The Goodtimes
+05 Whoa Mule (1)(4)
+06 Feelin' Alright (1)(2)(3)
+07 Thorn In My Pride 
+08 Cash On The Barrelhead (1)(6)
+09 The Garden Gate (1)(4)
+10 My Heart's Killing Me (1)
+11 Deep River Blues (1)(7)
+12 All Along The Way (8)
+13 Someday Past The Sunset (9)
+14 East Virginia Blues (10)
+15 Lips That Lie
+16 The Last Place That Love Lives (10)
+17 Oh, The Rain (10)
+18 The Night They Drove Old Dixie Down (5)(10)
+19 What Is Home?
+20 Drivin' Wheel
+21 Shine Along (11)
+22 Just Like Tom Thumb's Blues (11)
+23 Encore Break
+- Encore -
+24 Poor Elijah/Tribute To Johnson 
+25 That's How Strong My Love Is (1)(2)
+26 Boomer's Story (1)(2)
+
+Per Crowesbase.com
+(1) With Sam Bush - mandolin
+(2) With Audley Freed - guitar
+(3) Rich - lead vocals
+(4) Jackie Greene - banjo
+(5) Jackie Green - organ
+(6) Chuck Mead - lead vocals
+(7) Jackie Greene - lead vocals, with Chris and Sally & Sarah only
+(8) Rich - solo acoustic
+(9) Chris - solo acoustic
+(10) Chris, Rich, and Jackie only, with Old Crow Medicine Show
+(11) With all of the guests
+
+Chris Robinson – lead Vocals, harp, & guitar
+Rich Robinson - guitars & backing vocals
+Jackie Greene – guitars, banjo, organ, & backing vocals
+Adam MacDougall – keyboards
+Sven Pipien – bass & backing vocals
+Steve Gorman – drums & percussion
+
+Show notes:
+Acoustic show, one set.
+"Just Like Tom Thumb's Blues" and "That's How Strong My Love Is" were played for the first time.
+
+Taper notes:
+Ryman security are fucking Nazi douchebag assholes; at first they weren't going to let me in ("no backpacks") - had to call Boa. No tapers' section and the SBD cage is at the back of 
+the venue, so I had to tape from my seats (which were to the side under the lip of the balcony on Rich's side), but you can hear everyone pretty cleanly.  Then they wouldn't let me put
+my mics any higher than head height so as "not to obstruct other's views (!!!!)".  At one point during "Hotel Illness" they were gonna make me move my rig, because the usher escorted 
+us to the wrong seats (one row off; thankfully the seat owners agreed to just sit in our seats to keep me from having to move everything mid-song). When my other rig died (batteries) 
+I raised the stand for the encore, which cut down on the chattiness a bit, but for real it was just a chatty crowd and the Ryman is all wood and so acoustically sound that a whisper 
+gets amplified...
+
+Mastering notes:
+I want to personally "thank" the "fucking hippie kid" (Jeremy's description) and his girlfriend for screaming constantly throughout the show. Lowering those to reasonable levels was a 
+lot of fun.  As Jeremy says, "I hope they've since choked to death on tofu and patchouli."
+
+tbc2013-04-21t01.flac:330d426edfc5b5cbee31df03a3206fb4
+tbc2013-04-21t02.flac:de1226adefc52bcd6c5ce5200ccd1700
+tbc2013-04-21t03.flac:2b1d744bf6e87774c124b90c7f0139a0
+tbc2013-04-21t04.flac:ef542bddd1086da43931e3fd4d7bbd95
+tbc2013-04-21t05.flac:28656ce87b3a8627b445122e0d120960
+tbc2013-04-21t06.flac:b8271ca618c11a83ca94a9ec4208e9e7
+tbc2013-04-21t07.flac:60267249e2834d56b5e88c00e651565f
+tbc2013-04-21t08.flac:f287968a33ed03b44ec7ab2a894e38ac
+tbc2013-04-21t09.flac:26838517494c6cb3019a5831b4d8d153
+tbc2013-04-21t10.flac:beebde2cbd15ccf7dd7b4b65b8aff690
+tbc2013-04-21t11.flac:4961bc1f797ec1c43ebe22d497c5a348
+tbc2013-04-21t12.flac:b5e60d15298e782998461c91b00ff0ab
+tbc2013-04-21t13.flac:df72d1cf6e36359ef758092d76af2ced
+tbc2013-04-21t14.flac:8c8bc598fa03e4d58c6bd1d1600fa3ef
+tbc2013-04-21t15.flac:264b94e41f456c6f59d08495caa6daa5
+tbc2013-04-21t16.flac:b7d64cfbbd85e509e3d2c57ce3d87af0
+tbc2013-04-21t17.flac:4f7f2050ce95bd28131826ce4f085171
+tbc2013-04-21t18.flac:0cc8da67d1b617833cb4d5d74130036b
+tbc2013-04-21t19.flac:c413077ccbab3cf61e7e7ae592787702
+tbc2013-04-21t20.flac:3dfd2b5f602a772ef4b13b9ed465d33f
+tbc2013-04-21t21.flac:c8e2f1402fadecbcf94d18b7fd624c3a
+tbc2013-04-21t22.flac:de9fba22fda43b82b21e9e4ad1a57ef6
+tbc2013-04-21t23.flac:bd53bb6d63e31e14436e565dac215453
+tbc2013-04-21t24.flac:ff778d62cb8c5aa56a4560315559b691
+tbc2013-04-21t25.flac:27c51d86ee46a8a751502d784d309e8c
+tbc2013-04-21t26.flac:584f1652a4a203e4837cc8e745164a44

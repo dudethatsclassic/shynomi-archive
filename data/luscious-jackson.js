@@ -24,9 +24,10 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's Heartbreak Hotel",
-      "notes": "ANA(M) · Sony PC-62 · phil h.",
+      "notes": "ANA(M) \u00b7 Sony PC-62 \u00b7 phil h.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-17 - Providence, RI - Lupo's Heartbreak Hotel - ANA(M) (Sony PC-62) (phil h.) [AUD].txt"
     },
     {
       "year": 1994,
@@ -39,7 +40,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre",
       "notes": "KROQ's",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-12-10 - Los Angeles, CA - Universal Amphitheatre - KROQ's Almost Acoustic Christmas [FM].txt"
     },
     {
       "year": 1995,
@@ -50,9 +52,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Palace",
-      "notes": "ECM737 · unk",
+      "notes": "ECM737 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-16 - Hollywood, CA - The Palace (ECM737) (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -65,7 +68,8 @@ const ARTIST_DATA = {
       "venue": "Star Lake Amphitheater",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-06-10 - Burgettstown, PA - Star Lake Amphitheater [SBD].txt"
     },
     {
       "year": 1995,
@@ -78,7 +82,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-06-24 - New York, NY - Madison Square Garden [SBD].txt"
     },
     {
       "year": 1996,
@@ -91,7 +96,8 @@ const ARTIST_DATA = {
       "venue": "The Roxy",
       "notes": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-12-28 - New York, NY - The Roxy [preFM].txt"
     },
     {
       "year": 1997,
@@ -102,9 +108,10 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Victoria, BC",
       "venue": "The Limit",
-      "notes": "Sony WM-F46 · crowflies",
+      "notes": "Sony WM-F46 \u00b7 crowflies",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-02-08 - Victoria, BC - The Limit (Sony WM-F46) (crowflies) [AUD].txt"
     },
     {
       "year": 1998,
@@ -115,9 +122,10 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "JFK Stadium",
-      "notes": "Tibetan · M · unk",
+      "notes": "Tibetan \u00b7 M \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-14 - Washington, DC - JFK Stadium - Tibetan Freedom Concert - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -128,9 +136,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Burgettstown, PA",
       "venue": "CCSLA",
-      "notes": "CSB · smores",
+      "notes": "CSB \u00b7 smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-08-09 - Burgettstown, PA - CCSLA (CSB) (smores) [AUD].txt"
     },
     {
       "year": 1999,
@@ -143,7 +152,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival",
       "notes": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-08-29 - Reading, UK - Reading Festival [preFM].txt"
     }
   ],
   "misc": []

@@ -1,0 +1,95 @@
+The Black Crowes
+The Fillmore
+San Francisco, CA
+August 10, 2005
+
+** 16 BIT **	
+
+Source:  SP-CMC-8 cardioids > SP-SPSB-7 battery box > Archos Gmini 400 @ 16 bit/44.1 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 130 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  A little closer than 1/2 way back, DFC, floor
+Recorded by:  Chris Bold
+Mastered by:  Dennis Orr
+
+Setlist:
+- Set One - (1:18:51)
+01 Crowd
+02 One Mirror Too Many
+03 Sting Me
+04 Go Faster
+05 Jam > 
+06 Black Moon Creeping
+07 Paint An 8
+08 Bad Luck Blue Eyes Goodbye
+09 Space Captain
+10 Jam > 
+11 How Much For Your Wings? >
+12 Jam > 
+13 Thorn In My Pride
+- Set Two - (1:12:56)
+01 Crowd
+02 Sunday Night Buttermilk Waltz (1)
+03 Darling Of The Underground Press (2)
+04 Sin City (3)(4)
+05 Tonight I'll Be Staying Here With You (5)
+06 Wyoming And Me (3)(6)
+07 Better When You're Not Alone (6)
+08 Feathers
+09 Under A Mountain
+10 Evil Eye
+11 She Gave Good Sunflower
+12 Happy
+13 Encore Break #1
+- Encore #1 -
+14 Happiness Is A Warm Gun (3)
+15 Encore Break #2
+- Encore #2 -
+16 Willin'
+
+(1) Rich and Marc only - all acoustic
+(2) Rich and Marc played acoustic guitars
+(3) First time played
+(4) Chris played acoustic guitar and Rich played lap steel guitar
+(5) Chris played acoustic guitar
+(6) Rich played 12 string acoustic guitar
+
+Chris Robinson - lead vocals, harp, & acoustic guitar
+Rich Robinson - guitars & vocals
+Marc Ford - guitars & backing vocals
+Sven Pipien - bass & backing vocals
+Eddie Harsch - keyboards
+Steve Gorman - drums & percussion
+Charity White - backing vocals
+Mona Lisa Young - backing vocals
+
+tbc2005-08-10set1t01.flac:45da14e4ddd32ca7f2c5e00e527dc04d
+tbc2005-08-10set1t02.flac:6dc5b5a400984610278bf62facffa3f4
+tbc2005-08-10set1t03.flac:abd6f50dcf9ff766616e16f7b38c029d
+tbc2005-08-10set1t04.flac:febec662d91cfba8d2cea115c629da3a
+tbc2005-08-10set1t05.flac:a4f807afb85cfbeaccdf7a28142cf76a
+tbc2005-08-10set1t06.flac:b6a5acad878fc153893fd0249a841129
+tbc2005-08-10set1t07.flac:5a90b813674d2911ba62d345342bd25b
+tbc2005-08-10set1t08.flac:6ef77cca4411af2e8f05257e00cd6cb6
+tbc2005-08-10set1t09.flac:d0aa24300f8b67c19a64b9c5a96eb979
+tbc2005-08-10set1t10.flac:a45ad0c4af48dd6e2cc6720944a0da39
+tbc2005-08-10set1t11.flac:f599c296359ea6ebb6d9c386bcb38e9e
+tbc2005-08-10set1t12.flac:8f9eed30b654a5c02508e209a056324f
+tbc2005-08-10set1t13.flac:961f634e15dded92aa13e26bab6b28fa
+tbc2005-08-10set2t01.flac:6375469b493365d517282d7dbb2ac6ce
+tbc2005-08-10set2t02.flac:bf600a22c961c0359a313f1b13a0f0b0
+tbc2005-08-10set2t03.flac:1360bc39c63626cfe67c1563bc25a24a
+tbc2005-08-10set2t04.flac:20c754314c17ab701b71a06febc3be3b
+tbc2005-08-10set2t05.flac:7fc6cfcda79f4a3d83992ec7ff8b5921
+tbc2005-08-10set2t06.flac:b877eb131525150337081592242ce12d
+tbc2005-08-10set2t07.flac:7a771ba9e70ad61a353230266b88c463
+tbc2005-08-10set2t08.flac:301f88b3783b92bd94458b9e1d744189
+tbc2005-08-10set2t09.flac:111da4c81db005b5adc0c2c6e08099b1
+tbc2005-08-10set2t10.flac:fbaeb3407aaf317eac17f857b1d87bf3
+tbc2005-08-10set2t11.flac:56791140ee2f607d8c20c14bf10e9c30
+tbc2005-08-10set2t12.flac:70d120870b15bc7e7642dde31df2cf06
+tbc2005-08-10set2t13.flac:1b11237395b19f3487d8acb7bb404def
+tbc2005-08-10set2t14.flac:696225d5f15312ba1b2b2ee1b7ba918c
+tbc2005-08-10set2t15.flac:69607798fa6d51c0944d3993c7a36651
+tbc2005-08-10set2t16.flac:c000dd924855f05b6b205c081b9714c7
+

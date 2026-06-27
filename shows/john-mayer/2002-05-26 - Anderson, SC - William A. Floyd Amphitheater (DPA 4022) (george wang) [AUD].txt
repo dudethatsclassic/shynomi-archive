@@ -1,0 +1,52 @@
+John Mayer
+Freedom Weekend Aloft
+William A. Floyd Amphitheater
+Anderson, SC
+Sunday May 26, 2002
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA4022 > Sonosax sx-m2 > Audio Magic X-Stream XLRs >
+		Sonic ad2k+ @ 44.1 16ns3
+Location:	90 ft. from right stage stack
+
+DAT > SHN:	Archive Python DDS/DAT2WAV > .wav > CD-WAV/mkwACT > .shn
+		(Direct DAT extraction, no soundcard)
+
+Disc One:
+
+01:	Intro I				-	02:26.000
+02:	Intro II			-	00:48.266
+03:	Why Georgia Intro >		-	01:22.533
+04:	Why Georgia			-	04:43.600
+05:	83				-	07:38.266
+06:	City Love			-	05:33.133
+07:	This Will All Make Perfect
+	Sense Someday Intro >		-	01:35.333
+08:	This Will All Make Perfect
+	Sense Someday			-	07:03.133
+09:	Back to You			-	07:15.866
+10:	Breakaway #			-	05:20.000
+11:	(I Want It That Way) * >	-	01:43.000
+12:	Love Song for No One *		-	04:00.533
+
+Total:					-	49.29.666
+
+Disc Two:
+
+01:	My Stupid Mouth			-	04:52.133
+02:	Your Body Is a Wonderland	-	08:19.000
+03:	Covered in Rain			-	09:50.000
+04:	No Such Thing (w/Ja Rule intro)	-	05:46.000
+05:	Neon Intro >			-	02:04.333
+06:	Neon				-	09:49.533
+
+Total:					-	40:41.000
+
+Notes:	mics in kangol hat because I was unclear whether audio taping was permitted
+	due to previous acts' no taping policies and the festival's no audio/video
+	policy
+
+#	John & Matt only
+*	John & DeLa only
+
+compiled by George Wang on 05-28-2002

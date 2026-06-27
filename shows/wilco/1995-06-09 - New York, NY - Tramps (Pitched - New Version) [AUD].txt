@@ -1,0 +1,82 @@
+Wilco
+June 9, 1995
+Tramps
+New York City, NY
+
+
+One of the 4 etree owners said about this show "Notes:AUD Source. Vocals are are tad distant,but a good early show! "
+Recording source: Audience
+Transfer source: my cassette to pc from sony D3 through SB X-Fi Audio 2400 sound card
+Transfer: Sony D3 > Jet Audio (>PCM 44,1000 kHz, 16 Bit, Stereo) > CDWav > Flac Level 8 
+Taper:   unknown
+
+Another Classic from the DUBWISE GARAGE COLLECTION
+
+Additional 2009 lineage
+[> CD > EAC > Wav > Soundforge 7.0 > CDWave > TLH > FLAC]
+
+Additional 2018 lineage
+[> CD > EAC > Wav > Soundforge Pro 10.0 > CDWave > TLH > FLAC]
+
+
+01 If That's Alright 
+02 Give Back The Key To My Heart 
+03 Shouldn't Be Ashamed 
+04 I Must Be High %
+05 Box Full Of Letters 
+06 Too Far Apart 
+07 Should've Been In Love 
+08 No Sense In Lovin' 
+09 It's Just That Simple 
+10 Pick Up The Change
+11 New Madrid 
+12 Wait Up 
+13 That's Not The Issue 
+14 Passenger Side
+15 Casino Queen 
+16 We've Been Had 
+17 The Long Cut 
+18 Watch Me Fall 
+19 Gun
+20 Don't You Honey Me
+21 Reincarnation 
+22 Pecan Pie 
+23 Who Were You Thinking Of %
+24 I Got You (At The End Of The Century)
+25 Outtasite (Outta Mind) 
+26 I Can't Keep From Talkin'
+27 Listen To Her Heart 
+28 Acuff-Rose 
+
+notes to the 2009 edition
+The whole show was pitched and slowed down by ~0.8 semitones with Soundforge, 
+except d1t01-04 which were slowed ~0.6 semitones.
+
+[2009-08-16]
+
+
+notes to the 2018 edition:
+I've found out that there are many Wilco shows up to ~2005 that have probably never been torrented (at least not since ~2005) 
+but have only been traded, presumably in the last years of traditional trading. Somehow, these shows were forgotten in the first 
+waves of torrenting - or deemed not worthy of digital distribution ... or simply those traders in possesion never made the step to
+torrenting and then stopped trading altogether, like most everybody did.
+I've searched high and low, checked countless old lists and sent a lot of asking mails to ancient email addresses. About half of them
+bounced, another quarter didn't reply - and the ones that did hadn't traded (or stopped collecting) in a long time. But then I
+found two friendly persons, one in Seattle, the other on the East Coast who were willing to share shows with me. Arrangements 
+were made and now I am able to (re-)introduce about two dozen Wilco and Jeff Tweedy shows to you.
+I have not yet listened to all, most need some work. I guess many of the original CDs are flawed by now, but apart of some
+occasional odd digi scratches, everything can be rescued or restored, it'll take some time, please be patient.
+
+
+Finally, I've found the last five tracks of this show !
+WilcoBase lists t26 as Just Wanted To Thank You, but of course it's I Can't Keep From Talkin'.
+This segment surely come from the same recording, but (for whatever reason) the five tracks are in Mono !
+As the first 11 songs are missing from the new version, I have just added the new tracks to the 2009 edition instead of 
+preparing a complete new mono version. The new segment was pitched and slowed down by ~0.3 semitones with Soundforge.
+I also found an ugly flaw in t12 that I was able to repair. Thanks Robert.
+
+[2018-05-12]
+
+Respect the Artists
+Never sell - for trade only
+Please do not encode to lossy formats

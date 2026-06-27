@@ -1,0 +1,16 @@
+Garbage
+05.02.02  House Of Blues Myrtle Beach, SC
+
+Taper:              unknown
+Source:             AT 831b  >  HOSA MIT-176 Input Transformers  > DAT (D100)  
+Location:           unknown
+Conversion:         PCM-M1>Coax Cable>Midiman Audiophile 2496 
+Resampling:         None
+Editor:             Jayson Kaap	
+Editing:            Cool Edit Pro
+SHN:                master DAT > Cool Edit Pro > MKW Audio Compression Tool
+
+
+******************************************************************************************************************
+	                    THIS SHOW IS NOT TO BE MP3-ENCODED	
+******************************************************************************************************************

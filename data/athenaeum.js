@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "Wingate College",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-04-10 - Wingate, NC - Wingate College (unk) [AUD].txt"
     }
   ],
   "misc": []

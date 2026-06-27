@@ -1,0 +1,43 @@
+WILCO
+2012-10-22
+Theaterhaus
+Stuttgart, Germany
+
+Source:     MBHO KA 200 N > Naiant Tinybox > Sony PCM-M10
+Mic Config: A-B
+Location:   ~20m from the stage, FoB, center
+Transfer:   Master WAVs > dEdit > FLAC V1.2.1
+Editing:    Volume boost in Apple Logic Pro V9.1.4
+            Fades in Audiofile Engineering Wave Editor V1.5.4
+Resampling: 48.0 kHz > 44.1 kHz resampling using iZotope 64-bit SRC
+Dithering:  MBIT+
+Format:     16 bit / 44.1 kHz
+
+Disc 1:
+01 One Sunday Morning (Song For Jane Smiley's Boyfriend)
+02 Art of Almost
+03 I Might
+04 At Least That's What You Said
+05 Spiders (Kidsmoke)
+06 Impossible Germany
+07 Born Alone
+08 > Laminated Cat
+09 Sky Blue Sky
+10 California Stars
+11 Handshake Drugs
+
+Disc 2:
+01 Whole Love
+02 What Light
+03 Heavy Metal Drummer
+04 I'm the Man Who Loves You
+05 Dawned On Me
+06 Hummingbird
+07 > Shot in the Arm
+08 (Encore Break)
+09 Via Chicago
+10 Jesus, Etc.
+11 Hate It Here
+12 Monday
+13 > Outtasite (Outta Mind)
+14 > Hoodoo Voodoo

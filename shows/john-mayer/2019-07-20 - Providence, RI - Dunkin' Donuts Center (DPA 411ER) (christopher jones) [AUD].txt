@@ -1,0 +1,60 @@
+John Mayer
+20 July 2019
+Dunkin' Donuts Center
+Providence, Rhode Island
+
+Recorded by: Christopher Jones <jones.chris@gmail.com>
+Source: DPA 4011ER > Tascam DR-100 MKIII (@ 24-bit / 96 kHz)
+Location: FOH; microphones elevated approximately 4.5 meters, ORTF
+HDD > .flac: Tascam DR-100 MKIII > Apple Macbook Pro (2.53 GHz Intel Core 2 Duo / 4GB 1067 MHz DDR3) > Apple Logic Pro X > Sound Forge Pro Mac 3.0.0 (Build 100) > xACT v2.41
+
+Resampled with iZotope 64-bit SRC at highest quality setting; dithered using iZotope MBIT+ with a "Normal" amount of "Ultra" noise shaping applied.  24-bit / 96 kHz version of this recording available in .flac24.  
+
+Set I:
+
+t01 Introduction  						02:24.58
+t02 Intro To...  						00:19.34
+t03 Heartbreak Warfare  					05:15.18
+t04 Love On The Weekend  					04:13.65
+t05 I Don't Trust Myself (With Loving You)  			08:07.21
+t06 No Such Thing  						04:27.20
+t07 Waiting On The Day  					07:35.21
+t08 Helpless  							06:36.71
+t09 Who Says  							03:43.14
+t10 Paper Doll  						05:46.53
+t11 Changing  							07:28.05
+t12 Dear Marie  						05:23.61
+
+Set II:
+
+t13 Facebook Live  						05:27.25
+t14 Introduction						01:10.15
+t15 Walt Grace's Submarine Test, January 1967  			06:36.04
+t16 Your Body Is A Wonderland  					04:16.55
+t17 Free Fallin' +  						04:53.16
+t18 In The Blood  						04:35.62
+t19 Still Feel Like Your Man  					06:31.29
+t20 Dreaming With A Broken Heart  				04:33.28
+t21 Queen Of California >  					04:43.73
+t22 Fire On The Mountain %  					08:14.46
+t23 (The Beautiful Ones #) >  					01:21.44
+t24 Slow Dancing In A Burning Room  				08:43.56
+t25 Waiting On The World To Change   				03:52.29
+t26 "Thank You..." 						02:44.70
+t27 I Guess I Just Feel Like  					09:17.56
+---
+t28 Gravity (I've Got Dreams To Remember +)  			08:17.37
+t29 New Light  							05:41.38
+
+								152:23.74
+
+() Indicates a tease or partial song if not part of a song with a parenthetical subtitle
++  Tom Petty cover
+>  Indicates a segue into the next song
+%  Grateful Dead cover
+#  Prince cover
++  Otis Redding cover
+
+Notes:
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 15 August 2019.

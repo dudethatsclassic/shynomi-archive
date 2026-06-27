@@ -1,0 +1,33 @@
+Tori Amos 
+10/29/1994, Early Show
+Toronto, ON, Canada
+Massey Hall
+
+Lineage: Sennheiser MKE2002's > Denon DTR80P DAT @ 16/48 > DAT Clone 2 
+Transfer: Sony PCM R500->Canare LV-61S 75 ohm coax->Edirol R44 SDHC->WAV (48/16) (Trimmed in Wavelab 6.0)
+
+Editing: wav > Cool Edit Pro (Hard Limiting/input boost) > CDWave (split tracks) > FLAC Frontend > FLACs (Encoding Level 8)
+
+Notes: Some light mic rustling. 
+
+Setlist:
+01. intro
+02. I'm on Fire
+03. Yes, Anastasia
+04. Precious Things
+05. hello / story / hymn / Led Zeppelin
+06. Icicle
+07. Leather
+08. God
+09. The Waitress
+10. Bells for Her
+11. Me and a Gun
+12. When Sunny Gets Blue 
+--Encore 1:
+13. Cornflake Girl
+14. A Case of You 
+--Encore 2:
+15. Past the Mission
+16. Here. In My Head 
+--Encore 3:
+17. Winter 

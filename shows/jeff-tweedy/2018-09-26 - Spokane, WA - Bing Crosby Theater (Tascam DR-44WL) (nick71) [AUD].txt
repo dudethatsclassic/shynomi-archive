@@ -1,0 +1,71 @@
+Jeff Tweedy
+Bing Crosby Theater
+Spokane, WA
+Wednesday, September 26, 2018
+
+AUD:
+TASCAM DR-44WL on board mics in XY configuration
+- recorder chest high @ ORCH, CNTR Row K (seated right of center)
+
+TRANSFER:
+TASCAM DR-44WL(16-bit wav)>HD>Audacity(compressed above -4dB @ 10:1 ratio to reduce loud audience peaks, fades)>CDwav(tracking)>FLAC16
+
+Recorded and transferred by nick71 @ etree/LL/dime
+
+One set:
+01. - intro
+02. Bombs Above
+03. - applause
+04. Some Birds
+05. - applause
+06. I Am Trying To Break Your Heart
+07. - applause
+08. One Wing
+09. - applause
+10. I Know What It's Like
+11. - applause
+12. Hummingbird
+13. - applause
+14. More Like the Moon
+15. - applause
+16. - banter/#MeToo moment
+17. Having Been Is No Way To Be
+18. - applause
+19. - banter/everybody ok?
+20. New Madrid
+21. - applause
+22. - banter/How's Jay?
+23. Jesus, Etc.
+24. - applause
+25. Evergreen
+26. - applause
+27. Not For The Season
+28. - applause
+29. - banter/song intro
+30. Let's Go Rain
+31. - applause
+32. - banter
+33. Radio King
+34. - applause
+35. Impossible Germany
+36. - applause
+37. - banter/song requests
+38. An Empty Corner
+39. - applause
+40. - banter
+41. Dawned On Me
+42. - applause
+43. - banter/fake encore
+44. I'm The Man Who Loves You
+45. - applause
+46. Misunderstood
+47. - applause
+48. California Stars
+49. - applause
+50. Acuff Rose
+51. - outro
+
+
+
+Notes:
+The Bing is a small old theater, so despite a row 10 placement, we were near the back of the first level and swinging doors leading into the lobby can be heard occasionally. With low mike placement the crowd/applause noise volume is substantial, and some seat squeaking is audible.

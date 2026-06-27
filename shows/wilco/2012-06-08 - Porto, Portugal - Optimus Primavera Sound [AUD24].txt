@@ -1,0 +1,49 @@
+---------------------------------------------------------------------------
+Artist: Wilco
+Date: 2012-06-08
+Location: Optimus Primavera Sound
+Palco Optimus
+Porto
+Portugal
+---------------------------------------------------------------------------
+Recorded, transferred & encoded by: Antoine V.
+http://db.etree.org/avtaper
+---------------------------------------------------------------------------
+Generation: Aud>DPA 4061>DPA MMA 6000>Edirol R-09
+>Wav(24/48)>Flac24
+---------------------------------------------------------------------------
+Lineage: Aud
+>DPA 4061
+>DPA MMA 6000
+>Edirol R-09
+>.Wav(24bits/48khz)
+>Amadeus Pro 2.0.6 (Normalization)
+>flac24 (Level 8)
+---------------------------------------------------------------------------
+Total time: 1:30:38
+Fileset size: 877.4MB
+---------------------------------------------------------------------------
+Note: 
+---------------------------------------------------------------------------
+Setlist: t01: Art Of Almost
+t02: I Might
+t03: At Least That's What You Said
+t04: Spiders (Kidsmoke)
+t05: Impossible Germany
+t06: Born Alone
+t07: Side With The Seeds
+t08: Radio Cure
+t09: Laminated Cat *
+t10: War On War
+t11: Via Chicago
+t12: Whole Love
+t13: I'm Always In Love
+t14: Heavy Metal Drummer
+t15: I'm The Man Who Loves You
+t16: Dawned On Me
+t17: A Shot In The Arm
+t18: Jesus, Etc.
+t19: The Late Greats 
+---------------------------------------------------------------------------
+*    Loose Fur
+---------------------------------------------------------------------------

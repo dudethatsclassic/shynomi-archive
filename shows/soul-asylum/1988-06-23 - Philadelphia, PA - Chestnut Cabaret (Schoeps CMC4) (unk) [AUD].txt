@@ -1,0 +1,46 @@
+Soul Asylum
+June 23rd, 1988
+Chestnut Cabaret
+Philadelphia PA
+
+01. Sometime To Return
+02. Little Too Clean
+03. Closer To The Stars
+04. Growing Pain
+05. Cartoon
+06. Ode
+07. Never Really Been
+08. Beggars and Choosers
+09. Standing In The Doorway
+10. Right Place Wrong Time
+11. Made To Be Broken
+12. Sexual Healing
+13. Freaks
+14. Just Plain Evil
+15. Marionette
+16. Whoa!
+
+Encores:
+17. I Can See Clearly Now
+18. Juke Box Hero
+
+total time- 01:11:53
+
+Note, this info file was updated, the file set was tagged, and a new FFP file was generated on October 22nd, 2022. No other changes have been made to the music files since they were first shared in 2015.
+
+Recording info: Schoeps CMC4/MK41 > Sony PCM-F1 (16bit) > Beta video recorder 
+Transfer: Sony Beta video deck > Modified Sony 601EsD PCM digital out > Edirol R44 (PCM emphasis decoded)
+Processing: Adobe audition > cdwav > TLH flac 8
+Additional processing: Tagged the flac files w foobar2000 and created a new FFP file (October 2022)
+
+These are 16bit/44.1kHz files
+
+Special thanks to Nicky C & WR for doing the PCM transfers and initial processing. 
+
+
+
+
+
+
+
+

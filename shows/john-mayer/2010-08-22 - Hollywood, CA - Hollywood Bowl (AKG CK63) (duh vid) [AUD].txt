@@ -1,0 +1,57 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf290
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww8020\viewh15040\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0 John Mayer\
+August 22, 2010\
+Hollywood Bowl\
+Hollywood, CA\
+\
+Taper: Duh Vid [duhvid AT gmail DOT com]\
+Location: slightly ROC, SBD, FOH stand at 10 feet\
+Source: AKG ck63 > AKG c460b > GAKCables > Marantz PMD670\
+Transfer: SanDisk II 4gb > USB > Macbook Intel Core 2 Duo\
+Processing: .wav > Adobe Soundbooth CS4 > .wav\
+Conversion: .wav > xACT > .flac16
+\f1 \
+\pard\pardeftab720\ql\qnatural
+
+\f0 \cf0 \
+
+\f1 PLEASE DO NOT DISTRIBUTE THIS SHOW IN MP3 \
+DO NOT SELL OR DISTRIBUTE FOR PROFIT \
+SUPPORT ARTISTS THAT ALLOW TAPING\
+
+\f0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 01: Wind Cries Mary*                                           [06:39.566]\
+02: Can't Find My Way Home*                           [04:17.589]\
+03: Going To California > Stop This Train*      [07:20.943]\
+04: Bittersweet Symphony*                                 [05:47.502]\
+=Set Break=\
+05: Chest Fever > Vultures                                 [08:36.632]\
+06: Clarity                                                               [06:24.399]\
+07: Why Georgia                                                   [06:12.098]\
+08: Ain't No Sunshine                                          [06:37.112]\
+09: Perfectly Lonely                                              [09:38.747]\
+10: I Don't Trust Myself (With Loving You)        [10:16.767]\
+11: Heartbreak Warfare                                       [05:25.281]\
+12: Gravity                                                             [13:29.731]\
+13: Who Says                                                        [04:31.970]\
+14: Drum Jam                                                        [02:48.590]\
+15: Waiting On The World To Change             [06:28.742]\
+16: Do You Know Me                                          [10:30.456]\
+17: Half Of My Heart                                            [06:24.933]\
+18: Don't Stop Believing                                     [03:13.914]\
+19: Encore Break                                                 [02:22.248]\
+20: Edge Of Desire                                              [08:37.854]\
+\
+Notes:\
+*with Brad Mehldau on Piano\
+Owl City opened the show, was partially taped by another taper\
+Thanks to the sound crew for being so accommodating with us tapers and letting us tape from the soundboard cage.\
+\
+Compiled by: Duh Vid 8.30.2010\
+}

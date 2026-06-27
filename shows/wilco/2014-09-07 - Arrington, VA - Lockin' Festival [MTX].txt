@@ -1,0 +1,30 @@
+Wilco
+09/07/14 - Sunday
+Lockn' Music Festival, Arrington, VA
+
+01. Ashes of American Flags
+02. Hummingbird
+03. I Am Trying to Break Your Heart >
+04. Art of Almost
+05. I Might
+06. Via Chicago
+07. Whole Love
+08. Box Full of Letters
+09. I'm Always in Love
+10. Wide With the Seeds
+11. Give Back the Key to My Heart
+12. Hesitating Beauty
+13. The Late Greats
+14. Heavy Metal Drummer
+15. banter
+16. Airline to Heaven
+17. Hoodoo Voodoo
+18. Outtasite (Outta Mind)
+
+Source: CA-14s(Cards/~AB/~1' spread) > STC-9200(+15db) > DR-2d(Line) + Teac ME-80(CP-2/Center) > XLR > DR-2d(Mic) > WAV(24bit/48khz) > Audacity(matrix, dithered/resampled) > WAV(16bit/44.1khz) > CD Wave Editor(tracked) > FLAC8(TLH) > Foobar2000(tagged)
+
+Location: Front of TS, FOB, Right of VIP section, ~7.5' high
+
+Notes: This recording is a 3 channel matrix of CA-14 cards and a center Teac ME-80 with a Nak CP-2 omni capsule.
+
+-jagraham84ATgmailDOTcom

@@ -1,0 +1,103 @@
+Garbage
+Date: 11 May 2002
+Location: Eagles Ballroom, Milwaukee, WI
+
+Set list:
+
+cd1:
+
+01 Push It
+02 Temptation Waits
+03 I Think I’m Paranoid
+04 Special
+05 #1 Crush
+06 Til The Day I Die
+07 Not My Idea
+08 When I Grow Up
+09 Hammering In My Head
+10 So Like A Rose
+
+cd2:
+
+11 Shut Your Mouth
+12 Get Busy with the Fizzy
+13 Parade
+14 Stupid Girl
+15 Cherry Lips (Go Baby Go!)
+16 Vow
+17 Supervixen
+18 Milk
+19 Only Happy When it Rains
+
+Lineage: AT933 Mic / MD
+
+Source: 
+
+The source for this release is a CDr (which is an Audience recording) that has recently been obtained as part of the circa 200+ private collection of Garbage Live Shows, which im presently indexing, converting to Flac and then sharing.
+
+As such I have no other information to work with. I have no info on the original source, the tapper, location or their equipment. Spectural anlaysis for several files are provided, for information.
+
+If the native Info files are available on these CD's, then that data will be captured in the info file that are generated, for each release. If this is your original release, thank you for recording, and please advise of any further data that you may have.
+
+There are also a number of audio cassettes to work through to, which will be addressed once the CD's have been concluded.
+
+A huge thank you again to the original collector Jayson Kaap who gathered up all these shows over the years.
+
+Another huge thanks again to the https://www.garbagebase.com website, which has proven to be a valuable resource for helping out with show dates, locations & track listings etc.
+
+Any constructive / helpful comments that you may have, are always welcome.
+
+
+ALWAYS, ALWAYS SUPPORT THE ARTISTS
+DO NOT SELL THIS SHOW
+DO NOT ENCODE TO MP3
+DO TRADE IT IN LOSSLESS FORMAT
+
+
+Transfer: 
+
+CDr > Exact Audio Copy V1.6.  No other filters, effects or fades have been applied, just the CDr ripped from Wav into Flac format.
+
+Compression	 				: Flac 1024 kBit/s 
+Quality 					: High Add 
+ID3 tag 					: Yes
+Read mode               			: Secure
+Utilize accurate stream 			: Yes
+Defeat audio cache      			: Yes
+Make use of C2 pointers 			: No
+Combined read/write offset correction       	: 0
+Overread into Lead-In and Lead-Out          	: No
+Fill up missing offset samples with silence 	: Yes
+Delete leading and trailing silent blocks   	: No
+Null samples used in CRC calculations       	: Yes
+Used interface                              	: Native Win32 interface for Win NT & 2000
+Gap handling                                	: Not detected, thus appended to previous track
+
+TOC of the extracted CD1
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  4:23.28 |         0    |    19752   
+        2  |  4:23.28 |  4:40.74 |     19753    |    40826   
+        3  |  9:04.27 |  4:01.19 |     40827    |    58920   
+        4  | 13:05.46 |  5:22.59 |     58921    |    83129   
+        5  | 18:28.30 |  5:39.62 |     83130    |   108616   
+        6  | 24:08.17 |  3:24.36 |    108617    |   123952   
+        7  | 27:32.53 |  3:45.17 |    123953    |   140844   
+        8  | 31:17.70 |  4:02.55 |    140845    |   159049   
+        9  | 35:20.50 |  6:11.35 |    159050    |   186909   
+       10  | 41:32.10 |  7:32.20 |    186910    |   220829   
+
+TOC of the extracted CD2
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  4:22.17 |         0    |    19666   
+        2  |  4:22.17 |  3:57.67 |     19667    |    37508   
+        3  |  8:20.09 |  5:11.40 |     37509    |    60873   
+        4  | 13:31.49 |  4:43.13 |     60874    |    82111   
+        5  | 18:14.62 |  3:23.17 |     82112    |    97353   
+        6  | 21:38.04 |  5:55.66 |     97354    |   124044   
+        7  | 27:33.70 |  4:28.57 |    124045    |   144201   
+        8  | 32:02.52 |  4:50.39 |    144202    |   165990   
+        9  | 36:53.16 |  4:28.55 |    165991    |   186145   

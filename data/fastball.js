@@ -21,9 +21,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Penn's Landing",
-      "notes": "Jam · Nakamichi cm700's · tunegrabber",
+      "notes": "Jam \u00b7 Nakamichi cm700's \u00b7 tunegrabber",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-05-31 - Philadelphia, PA - Penn's Landing - Jam on the River (Nakamichi cm700's) (tunegrabber) [AUD].txt"
     },
     {
       "year": 2018,
@@ -34,9 +35,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Miller Lite Oasis -Summerfest",
-      "notes": "AT U853 · unk",
+      "notes": "AT U853 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-07-01 - Milwaukee, WI - Miller Lite Oasis -Summerfest (AT U853) (unk) [AUD].txt"
     },
     {
       "year": 2021,
@@ -47,9 +49,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Ft. Lauderdale, FL",
       "venue": "Culture Room",
-      "notes": "Sony ECM-DS70P · kevdogg",
+      "notes": "Sony ECM-DS70P \u00b7 kevdogg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-10-23 - Ft. Lauderdale, FL - Culture Room (Sony ECM-DS70P) (kevdogg) [AUD].txt"
     },
     {
       "year": 2025,
@@ -62,7 +65,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-07-16 - Vienna, VA - Filene Center at Wolf Trap (LG V60) (hemisphire) [AUD].txt"
     }
   ],
   "misc": []

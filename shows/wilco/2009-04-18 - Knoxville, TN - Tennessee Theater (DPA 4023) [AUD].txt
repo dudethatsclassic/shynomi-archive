@@ -1,0 +1,54 @@
+Wilco
+Tennessee Theatre
+Knoxville, TN
+Saturday April 18, 2009
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA 4023 > Sonosax SX-M2 > Audio Magic Presto II > Sound Devices 722 @ 24/96
+Location:	Sec Orch Center Row Y; 27th row center
+
+WAV > FLAC:	.wav @ 24/96 > Steinberg WaveLab v5.00a (dither with Apogee UV22HR to
+		16/44.1) > CD-WAV/FLAC frontend v1.7.1 > .flac
+
+Disc One:
+
+01: Intro					-	00:42.533
+02: Outta Mind (Outta Sight)			-	03:10.866
+03: Misunderstood				-	05:58.733
+04: Hummingbird					-	03:29.000
+05: You Are My Face				-	05:03.133
+06: Company In My Back				-	03:43.133
+07: I Am Trying To Break Your Heart		-	06:25.133
+08: Kamera					-	03:19.000
+09: At Least That's What You Said		-	05:34.133
+10: Ashes Of American Flags			-	06:27.866
+11: Intro >					-	01:07.600
+12: Shouldn't Be Ashamed			-	03:27.400
+13: Intro >					-	02:17.266
+14: Jesus, Etc.					-	04:18.733
+15: Impossible Germany				-	06:35.266
+16: Intro >					-	01:13.600
+17: Forget The Flowers				-	03:06.600
+
+Total:						-	66:00.000
+
+Disc Two:
+
+01: Intro >					-	00:53.266
+02: Box Full Of Letters				-	03:23.866
+03: Heavy Metal Drummer				-	03:12.133
+04: A Shot In The Arm				-	08:02.533
+05: The Late Greats				-	03:08.466
+06: Hate It Here				-	04:52.266
+07: Walken					-	04:44.266
+08: I'm The Man Who Loves You			-	06:36.333
+09: California Stars				-	04:49.866
+10: Red-Eyed And Blue >
+    I Got You (At The End Of The Century)	-	06:20.800
+11: Casino Queen				-	03:39.466
+12: Outtasite (Outta Mind)			-	02:34.866
+13: Hoodoo Voodoo				-	06:41.866
+
+Total:						-	59:00.000
+
+compiled by George Wang on 05-06-2009

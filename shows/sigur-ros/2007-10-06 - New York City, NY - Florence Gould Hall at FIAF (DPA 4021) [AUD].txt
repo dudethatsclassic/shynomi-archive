@@ -1,0 +1,37 @@
+Sigur Rós
+2007-10-07
+Midnight Show
+Florence Gould Hall
+New York, NY  USA
+
+Digital Master Recording
+Recorded from 15th Row Center
+
+DPA 4021's > Marantz PMD-660 (Oade BCM) > 16bit 44.1 .wav >
+Soundforge (level boosts and balance, set fades) > CDWave 1.95 
+(tracking) > Flac Frontend (level 7, align sector boundaries) > flac
+
+This is certainly a subpar recording.  I set my record levels far too
+low, and when the lights went down I never checked them.  The levels
+had to be boosted significantly in post-production, to the point where
+hiss is evident in the music portion of the recording.
+
+Recorded and Produced by
+nyctaper
+2007-10-07
+
+Premiere Download offered at 
+http://www.nyctaper.com
+nyctaper@nyctaper.com
+
+Setlist
+[Total Time 17:40]
+01  Ágætis Byrjun
+02  Heima
+03  Njósnavélin
+
+
+Flac fingerprints:
+SigurRos2007-10-06_DPAs_t01.flac:69781f4e928caf121bec002298f4ee34
+SigurRos2007-10-06_DPAs_t02.flac:1fce211bb5e33051645fe199d40aed10
+SigurRos2007-10-06_DPAs_t03.flac:5b902e773b2a46dd4bfc9a5cd9133131

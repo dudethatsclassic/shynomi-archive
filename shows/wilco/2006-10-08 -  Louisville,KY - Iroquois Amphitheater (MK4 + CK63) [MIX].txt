@@ -1,0 +1,53 @@
+Wilco
+2006-10-08
+Iroquois Amphitheater
+Louisville, KY
+(Two Source AUD/Mix)
+
+Two Source AUD/Mix: Schoeps MK4 -&- ck 63
+
+
+
+01. Intro
+02. A Shot In The Arm 
+03. Handshake Drugs  
+04. Impossible Germany  
+05. I Am Trying To Break Your Heart  
+06. Muzzle Of Bees  
+07. At Least That's What You Said  
+08. Jesus, Etc.   
+09. Airline To Heaven  
+10. Christ For President   
+11. Walken  
+12. Theologians  
+13. I'm The Man Who Loves You   
+14. Poor Places   
+15. Reservations  
+16. Hummingbird 
+17. The Late Greats 
+18. Ashes Of American Flags 
+19. War On War  
+20. Heavy Metal Drummer 
+21. Let's Not Get Carried Away
+22. Kingpin
+
+**Two Source AUD/Mix Source's: Schoeps MK4 -&- ck 63
+
+*Source One:
+Source: Schoeps MK4/CMC6>Sound Devices 722(24/96)
+Location: FOB, DFC
+Levels,fades, dither and bit depth conversion in Sound Forge 8
+Recorded by Stuart Tackett
+
+*Source Two:
+Taper:	Jon Ice
+Source:	ck 63 > Active Cables > JK Labs DVC > Apogee Mini-Me > Microtracker @ 24/48
+Location: Sec 2, Row H, Seat 110/111 @ ~ 8'
+Conversion: Spark XL v2.82 to track, resample, and dither.  xACT to create flac file set.
+
+**Two Source - Four Track(duplicated two sources) AUD/Mix : 
+*Schoeps MK4 -&- ck 63 > Samplitude Pro X3 (Four Track Mix,Levels,Pan & Bounce) > Sound Forge Pro 11 (Izotope Mastering Suite & Minor Edits) > TLH (SBE's,ffp,md5) > You
+
+Thanks to Jon and Stuart for these already excellent quality recordings which are a great listen individually and I am Grateful to have in my collection.
+
+Don't forget to support Wilco buy merch and tickets.

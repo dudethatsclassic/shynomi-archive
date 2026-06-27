@@ -1,0 +1,45 @@
+John Mayer
+WVU Coliseum
+Morgantown, WV	
+March 11, 2004
+
+Taper:		Ian White <ian.white@adelphia.net>
+Location:	Floor, Row Q, Seat 1 (left stack)
+Source:		Sennheiser MKH-800s @ ~ 9' (hypers/A-B) >
+		Lunatec V3 @ 16/48 > Sony PCM-M1
+Conversion:	Sony PCM-R300 > Audiophile 2496 > Goldwave 5.06 >
+		CDWAV 1.93 > shntool 1.2.3 > md5sum
+
+
+** DO NOT CONVERT TO MP3 OR OTHER LOSSY FORMAT **
+
+Disc 1: 51:45
+01	Intro					00:57
+02	Clarity					05:01
+03	Bigger Than My Body			06:51
+04	Why Georgia				05:34
+05	Covered In Rain				09:30
+06	(Jam) % ->				03:19
+07	No Such Thing				04:04
+08	Homelife $				05:11
+09	Hummingbird				06:12
+10	My Stupid Mouth				05:01
+
+Disc 2: 54:14
+01	Your Body Is A Wonderland		07:13
+02	Come Back To Bed			14:33
+03	Something's Missing			09:08
+04	(Jam) % ->				02:29
+05	83					11:19	
+-Encore-
+06	Daughters				04:37
+07	Back To You				04:51
+
+*  Entire set with David Ryan Harris
+
+%  Unknown improv
+$  Mayer solo
+-> Indicates a segue into the next song
+
+
+Compiled by Ian White on 3-12-04

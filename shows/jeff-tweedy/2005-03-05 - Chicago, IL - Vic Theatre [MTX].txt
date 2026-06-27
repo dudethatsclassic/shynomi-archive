@@ -1,0 +1,121 @@
+Jeff Tweedy
+Vic Theatre
+Chicago, IL
+Saturday March 5, 2005
+
+==================================================
+
+This shows is distributed with express permission 
+of Jeff Tweedy.  For more info on the artist -- 
+and how to purchase studio CD's and merchandise
+go to:  http://www.wilcoworld.net
+
+A big thank you goes out to Stan Doty for the main
+mix -- and Aadam J. for the matrix mix.
+
+==================================================
+
+
+Source: matrix of stereo board feed + Crown PZM mics > Tascam DAT Recorder (line out) > Creative Nomad Jukebox 3 (44.1Khz WAV)
+Transfer: JB3 (via USB) > WAV on Computer > Peak 4.1 (Fades and normalization) > CDWav (Tracking) > Flac Frontend (1.04) Level 8 w/Verify > FLAC
+This source recorded by: ckc (wilcotrades_at_yahoo_dot_com)
+Transfer by: ckc
+
+
+Disc 1
+01. Thax Douglas Poem - "Jeff Tweedy #8"
+02. Someone Else's Song 
+03. Remember The Mountain Bed 
+04. I Am Trying To Break Your Heart 
+05. Airline To Heaven 
+06. (Was I) In Your Dreams 
+07. Wait Up
+08. Black Eye
+09. Radio King 
+10. Chinese Apple
+11. Bob Dylan's 49th Beard 
+12. Someday Some Morning Sometime 
+13. Blasting Fonda
+14. Someday Soon 
+15. Nothing'severgonnastandinmyway(again) 
+16. Summer Teeth 
+17. ELT 
+18. I Can't Keep From Talking
+
+Disc 2
+01. [Encore 1 Break]
+02. Gun [aborted]
+03. Gun
+04. We've Been Had
+05. Candyfloss 
+06. Henry & The H Bombs 
+07. Acuff-Rose
+08. [banter: What's w/the Cell Phones?]
+09. I'm The Man Who Loves You 
+10. [Encore 2 Break]
+11. Misunderstood 
+12. [Encore 3 Break]
+13. Laminated Cat (with Glenn) 
+14. The Family Gardener (with Glenn, Mike and Pat)
+15. How To Fight Loneliness 
+16. John Wesley Harding 
+17. [banter: Calling Nels]
+18. Political Science
+19. Hummingbird 
+20. The Late Greats 
+21. [Encore 4 Break]
+22. Passenger Side 
+23. California Stars 
+24. I Shall Be Released
+
+On Tracks 13->24, except where noted, Jeff was joined by all other members of Wilco (except Nels)
+
+jtweedy2005-03-05matrixd1t01.flac:6be19eaee6d2773376f9b744dd634d00
+jtweedy2005-03-05matrixd1t02.flac:e3e856fe3a5fe2eff05d94d860021724
+jtweedy2005-03-05matrixd1t03.flac:4dac68f765875582b23f86a1e8a964ed
+jtweedy2005-03-05matrixd1t04.flac:89bcc877c5e62f31ac94ed9b24c9cb93
+jtweedy2005-03-05matrixd1t05.flac:7f10613ed27cf0266d744340bb15ae89
+jtweedy2005-03-05matrixd1t06.flac:90790da50865d474e4da58b066b64804
+jtweedy2005-03-05matrixd1t07.flac:b781c8a01b5b89c6c8f7c23da42a3be4
+jtweedy2005-03-05matrixd1t08.flac:56cad77038cb1071066b77120d7fa132
+jtweedy2005-03-05matrixd1t09.flac:75562b7ed10137f0b344444847da5733
+jtweedy2005-03-05matrixd1t10.flac:80b8e8157ab35d55f955dc399b362b72
+jtweedy2005-03-05matrixd1t11.flac:b1e6efe3c23179376ca56e5273c8567d
+jtweedy2005-03-05matrixd1t12.flac:5eb2a57659e7397ecc6cdac5d8e43f11
+jtweedy2005-03-05matrixd1t13.flac:7dbcdc04c959892cd2236ff93f59514b
+jtweedy2005-03-05matrixd1t14.flac:abf4c3096720cf63ff9bc31e9ccbc093
+jtweedy2005-03-05matrixd1t15.flac:9e7b6ec51be210c569b701ae14d873f9
+jtweedy2005-03-05matrixd1t16.flac:fb86d3d05a66df27f4df3ba279a53aef
+jtweedy2005-03-05matrixd1t17.flac:da33216b501273aa24267dbb52eff43f
+jtweedy2005-03-05matrixd1t18.flac:62972d215c0dd40545fdecedb83bc6ed
+
+jtweedy2005-03-05matrixd2t01.flac:aa2b55b69b67e72f84ccf4fb7d8aafe2
+jtweedy2005-03-05matrixd2t02.flac:04b9660884787db02e4603c7bb5797b1
+jtweedy2005-03-05matrixd2t03.flac:4353e412dfdd9dd214bb5b12c8c02e95
+jtweedy2005-03-05matrixd2t04.flac:1a1e48557af6d9b710d61eff1490e31d
+jtweedy2005-03-05matrixd2t05.flac:e533143527d0be050a642178abd74d4d
+jtweedy2005-03-05matrixd2t06.flac:261cc97379422868728c7c8a15cfefdf
+jtweedy2005-03-05matrixd2t07.flac:4f95e641ad4a1e88d7c805b635853ba7
+jtweedy2005-03-05matrixd2t08.flac:cfd66a898c6e97dbb2c645e9f46affbb
+jtweedy2005-03-05matrixd2t09.flac:8c6380868da31eeece7c2a11bb8465a2
+jtweedy2005-03-05matrixd2t10.flac:f6821fb9d50c4d2df9b8ff2118092acd
+jtweedy2005-03-05matrixd2t11.flac:82d387b81889af3767b2c00d17f486e4
+jtweedy2005-03-05matrixd2t12.flac:b1ad7436f575bce5e4bbab3d179fcecc
+jtweedy2005-03-05matrixd2t13.flac:41a8bac85a123751a5038b68ed1a5abc
+jtweedy2005-03-05matrixd2t14.flac:b6ba99e28445c8b010dd331a6a681f5f
+jtweedy2005-03-05matrixd2t15.flac:41d28321ac96de6ed6a5bc335cea62f9
+jtweedy2005-03-05matrixd2t16.flac:7b8fbeb3d15cb7cddd9d78192f1144a7
+jtweedy2005-03-05matrixd2t17.flac:90aaf2aa0ef027c4c2210d8c59215139
+jtweedy2005-03-05matrixd2t18.flac:92e48e3043da4727586d2f3c1b445349
+jtweedy2005-03-05matrixd2t19.flac:4a3b97b04f1c95c7cd68880cf34f795e
+jtweedy2005-03-05matrixd2t20.flac:95dfe5e6d34a2c2eb248afd1db917149
+jtweedy2005-03-05matrixd2t21.flac:6730b104b47e21096db52036ee92d632
+jtweedy2005-03-05matrixd2t22.flac:2363164f3840dca8ae7ab75fcfd21cb5
+jtweedy2005-03-05matrixd2t23.flac:323d548c8085a58e58386678acda8425
+jtweedy2005-03-05matrixd2t24.flac:2c77c513d13f57891ae598da04419c22
+
+
+
+
+
+

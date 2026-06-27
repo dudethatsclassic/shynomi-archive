@@ -1,0 +1,30 @@
+Wilco
+Sydney Opera House, NSW, Australia 
+2013-04-02
+
+Roland R05 Internalmics>24bit/96hz>sdcarrd>harddisk> audacity>remove some loud clapping & raise levels>cdwave editor track split &-->16bit/44.1hz>tlh flac level8
+
+01 One Sunday Morning
+02 Poor Places
+03 Art of Almost
+04 I Might
+05 At Least That's What You Said
+06 Banter 1
+07 Handshake Drugs
+08 Banter 2
+09 One By One
+10 Banter 3
+11 Impossible Germany
+12 Born Alone
+13 Sunken Treasure
+14 Whole Love
+15 Banter 4
+16 Always In Love
+17 Banter 5
+18 Heavy Metal Drummer
+19 I'm the Man Who Loves You
+20 Dawned On Me
+21 A Shot In The Arm
+
+
+Levels raised for all tracks but slightly more for One Sunday Morning & banter tracks

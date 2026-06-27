@@ -1,0 +1,58 @@
+John Mayer
+21 October 2023
+UBS Arena
+Elmont, New York
+
+Recorded by: Christopher Jones <jones.chris@gmail.com>
+Source: Neumann U67 large diaphragm tube microphone (S2 jumper open; flat frequency response to 20 Hz; cardioid) > Neumann UC 5 microphone cable > Neumann NU 67 V power supply > Canare XLR > Sonosax SX-R4+ (non-U.S. version with unconstrained headroom; @ 24-bit / 96 kHz)
+Location: FOH, DFC; microphones elevated approximately 3 meters, ORTF
+SD > .flac: Apple 14" Macbook Pro (Apple M1 Max / 32GB RAM) > Avid Pro Tools Ultimate v. 2021.12.0 > Dell Precision 7670 16" (i9-12950HX / 32GB RAM) > Merging Technologies Pyramix 14 Native Premium (@ 24-bit / 96 kHz) > Merging Technologies Horus (w/ DA8P Premium output module; @ 24-bit / 96 kHz) > Mogami Gold DB25 / XLR3M snake > Manley Massive Passive stereo tube program equalizer > Mogami Gold XLR > 2 x Pulse Techniques Pultec EQP-1A tube program equalizers > Mogami Gold XLR > Rupert Neve Designs Portico II Master Buss Processor > Mogami Gold XLR > Network Sound Mamba XLR-to-DB25 patchbay > Merging Technologies Horus (w/ 4 x AKD8DP Premium input modules; @ 24-bit / 96 kHz) > Merging Technologies Pyramix 14 Native Premium (@ 24-bit / 96 kHz) > Apple 14" Macbook Pro (Apple M1 Max / 32GB RAM) > DSP-Quattro 5.9 (resample to 44.1 kHz; dither to 16-bit) > xACT v2.52
+
+24-bit / 96 kHz version of this recording available in .flac24.
+
+t01 Introduction  							01:30.73
+t02 Slow Dancing In A Burning Room  					04:05.17
+t03 Wild Blue  								03:51.14
+t04 Love On The Weekend  						03:51.72
+t05 Emoji Of A Wave  							03:42.73
+t06 January 16, 2002: "Room for Squares" Interview  			00:53.13
+t07 Why Georgia  							05:50.44
+t08 Daughters  								04:39.13
+t09 (Bird Song +)  							00:33.23
+t10 Who Says >  							02:56.06
+t11 Waitin' On The Day  						03:58.11
+t12 (Kodachrome #)  							02:12.15
+t13 (Althea $) >							01:59.53
+t14 The Age Of Worry  							03:36.69
+t15 In Your Atmosphere  						06:30.03
+t16 You're Gonna Live Forever In Me  					03:23.69
+t17 (I Will Be Found (Lost At Sea)) >  					01:22.58
+t18 Changing  								05:39.25
+t19 "Continuum" Interview  						01:26.27
+t20 Stop This Train  							07:26.46
+t21 (Never On The Day You Leave)  					00:47.64
+t22 Still Feel Like Your Man  						03:43.43
+t23 (Still Feel Like Your Man)  					02:19.38
+t24 Your Body Is A Wonderland 						04:14.38
+t25 In The Blood  							04:29.47
+t26 Walt Grace's Submarine Test, January 1967  				05:11.60
+t27 Dear Marie  							05:15.65
+t28 (Perfectly Lonely)  						01:15.57
+t29 Edge Of Desire 							08:03.42
+---
+t30 Intro To...  							00:38.43
+t31 Neon  								06:26.19
+t32 Free Fallin' @  							05:02.73
+
+									117:00.38
+
+() Indicates a tease or partial song if not part of a song with a parenthetical subtitle
++  Jerry Garcia cover
+>  Indicates a segue into the next song
+#  Paul Simon cover
+$  Grateful Dead cover
+@  Tom Petty cover
+
+Notes:
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 25 November 2023.

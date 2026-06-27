@@ -1,0 +1,76 @@
+Jeff Tweedy
+October 19, 1999
+Lounge Ax, Chicago IL USA
+
+Source: AKG 480's w/ ck-61 cardioid caps > Lunatec V2 > Graham-Patten ADC-20 (48 kHz), FOB
+
+Transfer: Dat Master > Tascam DA-20mkII > Zefiro ZA2 (resampled to 44.1 kHz) > HD > Sound Forge (d1t05-d2t10 volume 
+increased 3.5 dB, d1t02-d1t04 volume increased 8.5dB and d1t01 volume increased 11.5 dB to compensate for level 
+adjustments made during show) > CD Wave (tracking) > Sound Forge (fades and 2 sec. silence to d1t01 and d2t10)
+
+Taped and transferred by Gerald Eaglebarger (chitaper@mindspring.com), patched from Jamie Syrek's rig
+
+
+
+
+Disc 1
+01 *Alone
+02 Blood Of The Lamb
+03 (Was I) In Your Dreams
+04 *Heavy Metal Drummer
+05 California Stars
+06 Lost Love
+07 The Auld Triangle
+08 Hesitating Beauty (false start, tells story instead)
+09 Hesitating Beauty
+10 *Ashes Of American Flags 
+11 She's A Jar
+12 Candy Floss
+13 We've Been Had 
+14 Please Tell My Brother
+15 What's The World Got In Store
+16 Red Eyed & Blue
+17 I Got You (At The End Of The Century)
+
+Disc 2
+01 Pecan Pie
+02 Sunken Treasure
+03 -Encore Break #1-
+04 Tuning > Acuff Rose
+05 Bob Dylan's 49th Beard
+06 Via Chicago
+07 -Encore Break #2-
+08 How To Fight Loneliness
+09 I'm Always In Love
+10 A Fool Such As I
+
+*first time played
+
+Md5 checksums:
+2ed01eee2418a4fef913acae4ff9f723 *jt1999-10-19d1t01.shn
+84b3ad285e263b65457760b0c0ea8fe3 *jt1999-10-19d1t02.shn
+6bb67252654b94a38271aa037adbb683 *jt1999-10-19d1t03.shn
+024d161f0642ef9a9b11a14889150840 *jt1999-10-19d1t04.shn
+2cf83f85d6d2c9904a3c9227308f03ab *jt1999-10-19d1t05.shn
+91f0bf1e86302bbe4be844d42b4c5ddc *jt1999-10-19d1t06.shn
+cc3e374d44e4da5ddd74a0937084e2c3 *jt1999-10-19d1t07.shn
+19fd24a9a6d22d1e08aab4ed32eeed61 *jt1999-10-19d1t08.shn
+27680d23c57baf66558b7a0a81f042d9 *jt1999-10-19d1t09.shn
+6f90bb64f5ca769e70c9cb2e1d8a15fb *jt1999-10-19d1t10.shn
+5e5bd8af05e26cbe7f6562298992149e *jt1999-10-19d1t11.shn
+91bfa3703dfe1eacc6b4322af4645f78 *jt1999-10-19d1t12.shn
+77f5f48e1473d2b629a89e88c4cf9ab2 *jt1999-10-19d1t13.shn
+b9ea6dbdd9c66515a6b639170ea65868 *jt1999-10-19d1t14.shn
+b7df095a4e479e1d5772a51f72d51860 *jt1999-10-19d1t15.shn
+f6ce60751763742446ef91830528b409 *jt1999-10-19d1t16.shn
+f4654e657cc9c9c9592aab2c06846e34 *jt1999-10-19d1t17.shn
+5a26425d060b62ae4138e95ff7d2dd35 *jt1999-10-19d2t01.shn
+ae1090d2b69a61ddbf0d02ca2a4855fd *jt1999-10-19d2t02.shn
+bab4189a45a03e03d571f9448555ccfb *jt1999-10-19d2t03.shn
+d157058031b8c6bebab38a429c045a0d *jt1999-10-19d2t04.shn
+bed04dd1a26a20864047046ae3455767 *jt1999-10-19d2t05.shn
+e5145b3ba34b0b990758e02402ac9634 *jt1999-10-19d2t06.shn
+3260ab24d9a48cc51ecc43aa27f71eda *jt1999-10-19d2t07.shn
+9422dc175cc7dfeb233236c64afd2564 *jt1999-10-19d2t08.shn
+4ddb25504b39f04bdff227ad3dabffe7 *jt1999-10-19d2t09.shn
+4139adcc5b0b9b78c461a5616ed9661c *jt1999-10-19d2t10.shn

@@ -1,0 +1,25 @@
+John Mayer
+February 1st, 2001
+Shine, New York, NY
+
+Master/Conversion:
+Microtech Gefell M210's>Oade M248>SBM-1>D8, D8>Tascam CDRW2000>CD
+20 feet from stage, at soundboard, mics 8 feet high
+by Jon Pasternak
+
+Extraction:
+CD>xACT 1.66 (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+01. No Such Thing             [02:58.09]
+02. My Stupid Mouth           [02:53.24]
+03. Kid A                     [02:09.31]
+04. Why Georgia               [04:30.28]
+05. Your Body Is A Wonderland [05:48.08]
+06. St. Patrick's Day         [06:21.34]
+07. Back To You               [04:26.04]
+08. Love Song For No One      [04:11.04]
+09. Suppose I Said            [04:15.74]
+                       Total: [37:33.66]
+
+Sound is subpar for the first minute of track 1, then improves greatly.

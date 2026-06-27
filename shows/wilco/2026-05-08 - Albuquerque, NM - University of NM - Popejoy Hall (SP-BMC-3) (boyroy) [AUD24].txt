@@ -1,0 +1,102 @@
+Wilco
+Popejoy Hall
+University of New Mexico
+Albuquerque, NM
+May 8, 2026
+
+** 24 BIT **
+
+Source:  SP-BMC-3 binaurals > battery box > Edirol R-07 @ 24 bit/48 kHz
+Mastering:  FLAC > iZotope RX12 Advanced v12.0.0.1410 (De-Click) > Sound Forge 2026.0.0. Build 46 [minor edits, Boz Digital Labs T-Bone2 plug-in (tilt EQ), normalize, & fades] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.20 (tagging)
+Recorded by:  boyroy
+Mastered by:  Dennis Orr
+
+Setlist:
+- Set One - (1:13:33)
+01 Handshake Drugs
+02 If I Ever Was A Child
+03 Cruel Country
+04 Chat
+05 Forget The Flowers
+06 Evicted
+07 Bird Without A Tail / Base Of My Skull
+08 I'm Always In Love
+09 Everyone Hides
+10 Hummingbird
+11 It's Just That Simple
+12 You And I
+13 Country Song Upside-Down
+14 War On War
+15 Via Chicago
+16 California Stars
+17 Chat
+18 Falling Apart (Right Now)
+- Set Two (1:22:31)
+01 Box Full Of Letters (fades in)
+02 Annihilation
+03 Chat & Crew Intros
+04 I Am Trying To Break Your Heart
+05 Kamera
+06 Love Is Everywhere
+07 Either Way
+08 Impossible Germany
+09 Jesus, Etc.
+10 The Universe
+11 Hate It Here
+12 Walken
+13 Kingpin
+14 Heavy Metal Drummer >
+15 I'm The Man Who Loves You
+16 Encore Break
+- Encore -
+17 The Late Greats
+18 I Got You (At The End Of The Century)
+19 Outtasite (Outta Mind)
+
+Jeff Tweedy – lead vocals, guitars, & harp
+Nels Cline – guitars, lap steel
+Pat Sansone – keyboards, guitars, synthesizers, maracas, tambourine, & backing vocals
+Mikael Jorgensen – samples and sound manipulation, keyboards, synthesizers, effects, piano, & organ
+John Stirratt – bass, guitar, keyboards, & backing vocals
+Glenn Kotche – drums & percussion
+
+Mastering Note:
+Due to a technical problem the first song of set two fades in, the first two verses are missing.
+
+Wilco2026-05-08set1t01.flac:8ee4352ab0654f3e507d5e3058884cb3
+Wilco2026-05-08set1t02.flac:89253d39c1afc8334e35e5c32e4c23ca
+Wilco2026-05-08set1t03.flac:597781b6c456270c39733939cc2df669
+Wilco2026-05-08set1t04.flac:92197917485a0cf4912398dfc91f0a2f
+Wilco2026-05-08set1t05.flac:6c518dcc1b89d89462a7cab1622a0956
+Wilco2026-05-08set1t06.flac:71cad379dc93d090ecfc4fe2f07fef52
+Wilco2026-05-08set1t07.flac:fdabf6ee4d931a0d1f27388d477c3feb
+Wilco2026-05-08set1t08.flac:b21103e1011459ff4496638bea705512
+Wilco2026-05-08set1t09.flac:d1d44c8d56fc2ff3e4aa48a64df40b69
+Wilco2026-05-08set1t10.flac:e77d328ba9bddc04adac2ef43820d35b
+Wilco2026-05-08set1t11.flac:f0e98a6732ddab448bf9636dc5375257
+Wilco2026-05-08set1t12.flac:2ed051d78275076b8f66c77bdf018d84
+Wilco2026-05-08set1t13.flac:c36e4efcfb82e1f861704e1dd55622ea
+Wilco2026-05-08set1t14.flac:73d1942c404ec1ad9b95dbb6be3c0060
+Wilco2026-05-08set1t15.flac:f07eba0d58de81ce8dd1e42fb936068c
+Wilco2026-05-08set1t16.flac:d659e4cf170495d4b182b8915a7c59a5
+Wilco2026-05-08set1t17.flac:b690457b3dd770326e9e867b30e7fce0
+Wilco2026-05-08set1t18.flac:70caea17d89d21f0935a3bea799f3c2f
+Wilco2026-05-08set2t01.flac:18433cf144c0df92935fec0bf8609966
+Wilco2026-05-08set2t02.flac:6b5d1cf024c80ec5ee406f2bd30478cd
+Wilco2026-05-08set2t03.flac:a7aef8d3c8c88813257fd6c7db0a97fc
+Wilco2026-05-08set2t04.flac:f078b7a60d1cffd5c70b465ba33d179b
+Wilco2026-05-08set2t05.flac:32e7e956c7e25930900a0003ba9ec10d
+Wilco2026-05-08set2t06.flac:fc24fcfdede83c60461e9602aceac3b1
+Wilco2026-05-08set2t07.flac:d78ac573aad97f72c3de732d584aea70
+Wilco2026-05-08set2t08.flac:1c352949636d54c3456444c3646f98ac
+Wilco2026-05-08set2t09.flac:fb1bb624895550c20b790e2e4b22d071
+Wilco2026-05-08set2t10.flac:a4ea61304b09dda0db47ffc7af4c03ab
+Wilco2026-05-08set2t11.flac:a418432abe52ff810413fbc2d608a7fd
+Wilco2026-05-08set2t12.flac:0d3b935f0155d398bf1c08849df354e2
+Wilco2026-05-08set2t13.flac:915447125c9f265f3f861bf22672179b
+Wilco2026-05-08set2t14.flac:de881fa8a6bbc4c978bdc4897702bad5
+Wilco2026-05-08set2t15.flac:5e001c2abefb7169785ecf688ce13eb8
+Wilco2026-05-08set2t16.flac:c40bc7c836f4ced78976cb55b71f66e4
+Wilco2026-05-08set2t17.flac:07021241a2253b088c512e4241a957e8
+Wilco2026-05-08set2t18.flac:bf89edfd1ba58dca1743a61c82ba2fa8
+Wilco2026-05-08set2t19.flac:17996e769044782fe4f110a1e484910b

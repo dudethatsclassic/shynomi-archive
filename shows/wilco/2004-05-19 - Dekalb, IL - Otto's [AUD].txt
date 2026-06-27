@@ -1,0 +1,73 @@
+Wilco
+May 19, 2004
+Otto's
+DeKalb, IL
+
+Source: Earthworks SR77's (FOB, ORTF) > Lunatec V3 (44.1 kHz, ANSR on) > Sony TCD-D10proII
+
+Transfer: Tascam DA20 mkII > Delta DiO 2496 > HD > CD Wave (tracking) > Sound Forge 6.0
+(fades on d1t01 and d2t10) > flac
+
+Taped and transfered by Jerry Eaglebarger: chitaper@mindspring.com
+
+Disc 1
+01 Thax Douglas Poem, "Wilco #7"
+02 -Crowd-
+03 Ashes Of American Flags
+04 Company In My Back
+05 She's A Jar
+06 Hummingbird
+07 At Least That's What You Said
+08 Hell Is Chrome
+09 Jesus, Etc.
+10 Muzzle Of Bees
+11 Wishful Thinking
+12 When The Roses Bloom Again
+13 One By One
+14 Poor Places >
+15 Reservations
+16 I Am Trying To Break Your Heart
+17 War On War
+
+Disc 2
+01 -Encore Break #1-
+02 -Band Introductions-
+03 Handshake Drugs
+04 Theologians
+05 I'm The Man Who Loves You
+06 Sunken Treasure
+07 -Encore Break #2-
+08 The Late Greats
+09 I'm A Wheel
+10 The Lonely 1
+
+*************************************************************************
+
+FLAC Fingerprints:
+wilco2004-05-19d1t01.flac:8a3f538116566cb7725bab334da04d08
+wilco2004-05-19d1t02.flac:5b98be9b20ef1365c6acc5979eb0e8c2
+wilco2004-05-19d1t03.flac:34fae406be528fefa8eb3aa07952b2e4
+wilco2004-05-19d1t04.flac:97a0a1a9142747564c4713fb9a26266f
+wilco2004-05-19d1t05.flac:4bfcb6ac40819f5dbe0ddf3e5c7087c1
+wilco2004-05-19d1t06.flac:5e6b82f84af76eb5fa1ce4c800652376
+wilco2004-05-19d1t07.flac:87a322b116a620141ad9ddd304685e11
+wilco2004-05-19d1t08.flac:4dd5e90fe0f799ead6852f8299aca9c8
+wilco2004-05-19d1t09.flac:1b530d1d96914f996b4c9698a56211c4
+wilco2004-05-19d1t10.flac:015647843539fcd8c7a3e9a79e03c77e
+wilco2004-05-19d1t11.flac:51fd070b87a250999d9ab5f08ba397e0
+wilco2004-05-19d1t12.flac:140fd5800c3a359a56167fbe9656528b
+wilco2004-05-19d1t13.flac:ad5fb3df8a1934f6171f37f6980648a4
+wilco2004-05-19d1t14.flac:c4e36fdf4e6b6f3086537f9729e005da
+wilco2004-05-19d1t15.flac:cd5cff5e0171e27cbcfea73fce5611b0
+wilco2004-05-19d1t16.flac:25d9953187cf3704d078f63debc24a00
+wilco2004-05-19d1t17.flac:f03ef95c5bbc29afd3db3fe9eebb2cf8
+wilco2004-05-19d2t01.flac:74c52cf7a48d12631bbf66c04d8ff6c9
+wilco2004-05-19d2t02.flac:5b7e2760bdd9e1bd6cf2563ccc144b75
+wilco2004-05-19d2t03.flac:7911b1decddfbfb49eb9e718a828a646
+wilco2004-05-19d2t04.flac:e7d57aca234026c8a7f309df7ae5ac71
+wilco2004-05-19d2t05.flac:aeb027648428f3d5432bf130fac8f503
+wilco2004-05-19d2t06.flac:6d69c905ffe484919db47940f08f9def
+wilco2004-05-19d2t07.flac:4aa000b53360207c6a6511b53f5cf1c2
+wilco2004-05-19d2t08.flac:718aa3568a172f2b73c921bc58866f99
+wilco2004-05-19d2t09.flac:1fae08d28b1da6adf6f034c567cb69ac
+wilco2004-05-19d2t10.flac:a4ef70e6f190e8155b43ce996ea9838e

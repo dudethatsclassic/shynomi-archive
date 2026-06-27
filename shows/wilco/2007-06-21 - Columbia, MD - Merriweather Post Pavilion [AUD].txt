@@ -1,0 +1,91 @@
+Wilco
+June 21st, 2007
+Merriweather Post Pavilion
+Columbia, MD
+
+Taper: Timothy Brown (timothydavidbrown@gmail.com)
+Location: SBD Area,FOB, ROC
+Source: AKG 460/Ck63s (X/Y,4'on stand)->PS2->AD20->JB3(Optical In)
+Transfer: JB3->Firewire->PC
+Processing: Normalizing (to -0.1db), fade in and fade out applied using SoundForge 8.0. 
+Conversion: CDWav 1.93.3 for track splitting and Flac16 Conversion @ level 5
+
+*****************************************************************
+***** PLEASE DO NOT ENCODE THIS SHOW TO LOSSY AUDIO FORMATS *****
+********* PLEASE SPREAD, BUT PLEASE INCLUDE SOURCE INFO *********
+****** DO NOT SELL OR DISTRIBUTE FOR A PROFIT BY ANY MEANS ******
+*****************************************************************
+
+Disc 1
+01. Intro
+02. Shot in the Arm
+03. Side With the Seeds
+04. You Are My Face
+05. I Am Trying to Break Your Heart
+06. Kamera
+07. Handshake Drugs
+08. Via Chicago
+09. Shake it Off
+10. War On War
+11. Sky Blue Sky
+12. Impossible Germany
+13. Jesus, Etc.
+14. Walken
+
+Disc 2
+01. Theologians
+02. I'm the Man Who Loves You
+03. Hummingbird
+Encore 1:
+04. California Stars
+05. Poor Places ->
+06. Spiders (Kidsmoke)
+Encore 2:
+07. Heavy Metal Drummer
+08. Late Greats
+09. I'm Always In Love
+10. Outtasite (Outta Mind)
+11. I'm A Wheel
+Encore 3:
+12. What Light
+
+Notes:
+"Sunken Treasure" was on the setlist to be played as the first song but was not played. 
+"I'm Always In Love" and "I'm A Wheel" were not on the setlist but were played.
+"What Light" was moved from the first song of the second encore to the third encore.
+
+Thanks to Peter King for the ticket hook up.
+Thanks to Scott Mogol for use of the 460s.
+Thanks to Team Baltimore/Washington for a good time!
+
+*****************************************
+****Please support artists and venues**** 
+************that allow taping************
+*****************************************
+
+wilco2007-06-21d1t01.flac:7876d0ce3a1785cd7bdfa0d95ea696f1
+wilco2007-06-21d1t02.flac:0ec2b2e918aa50be7c63f5fd69107d0a
+wilco2007-06-21d1t03.flac:1a754608e309c242e00b16910095d285
+wilco2007-06-21d1t04.flac:bf922c922d5562e1e8abf088d727624f
+wilco2007-06-21d1t05.flac:d698a5acb6af81591a9c36226fb8b073
+wilco2007-06-21d1t06.flac:b638675f84746da8cca5674e05b9770a
+wilco2007-06-21d1t07.flac:47f78836a2cf0530989ecccd47cc3237
+wilco2007-06-21d1t08.flac:0bca8024fea88bcddca805a6c3b3bc91
+wilco2007-06-21d1t09.flac:ba52e44dc74b18e4775d33c399219669
+wilco2007-06-21d1t10.flac:36176fb1c00e24255dc8342121930b6c
+wilco2007-06-21d1t11.flac:4f1470c84d778e41d9ab2ad487dd4507
+wilco2007-06-21d1t12.flac:736bcd273cada97b8116036b715bd9d4
+wilco2007-06-21d1t13.flac:2d8499c1b274866bb0be67fac1baad7b
+wilco2007-06-21d1t14.flac:ed20a8b1103a26d2d305bccc370e1ad1
+wilco2007-06-21d2t01.flac:2de33975888ebe252ba45921124eac12
+wilco2007-06-21d2t02.flac:92a4ec748c41e2e7241aa4c3b09f5fdc
+wilco2007-06-21d2t03.flac:66bca5b1854eaa5cf08341dfdf083e43
+wilco2007-06-21d2t04.flac:896920bff89222ed0e543e2a05501785
+wilco2007-06-21d2t05.flac:1dd229457f8e4eb49d853bf55d6f7e84
+wilco2007-06-21d2t06.flac:1c10e95470522651f3d1a5dad6866f3d
+wilco2007-06-21d2t07.flac:3549db27dc8d06aa0f6f34b7757cf837
+wilco2007-06-21d2t08.flac:499c0e4777346ca738b20803ee728fce
+wilco2007-06-21d2t09.flac:48a43b68df46d404a76da2796a978bd6
+wilco2007-06-21d2t10.flac:bab8bee8e6e2d0c7c005ab8800f4bc52
+wilco2007-06-21d2t11.flac:a98ffe84e95d68c051a533b2831123c9
+wilco2007-06-21d2t12.flac:cb76a88281e65fbff724073a52621756

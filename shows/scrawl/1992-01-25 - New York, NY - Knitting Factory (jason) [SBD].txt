@@ -1,0 +1,40 @@
+Scrawl
+Knitting Factory
+New York, NY
+1992-01-25
+
+Source:   SBD > D6 (Dolby C) by Jason Brodsky
+Transfer: MC (SA 60) > Nak CR-7A (Dolby off) > Tascam DA-3000 (DSF 1-bit/5.6 MHz) > Tascam HRE > PCM @ 2496 
+Master:   Wavelab 11 (tracking, levels, DDI Codec (Dolby C @ -37.5 dBFS), remove DC offset, resample, Lin Dither) > FLAC 1644
+
+Thanks to Jason for taping and Ted Mattes for facilitating
+
+01. intro
+02. Gutterball
+03. Charles
+04. You're Gonna Cry >
+05. I Can't Relax
+06. Clock Song
+07. Time To Come Clean
+08. tuning
+09. Please Have Everything
+10. Love's Insecticide >
+11. For Your Sister >
+12. Our Daily Bread *
+13. I Don't Know What It Is // *
+14. Happy Birthday to Dave O'Classen
+15. banter
+16. I Need You
+17. outro
+
+* actual title unknown
+
+Marcy Mays - guitar, vocals
+Sue Harshe - bass, vocals
+Carolyn O'Leary - drums
+
+A tight set, opening for the Meat Puppets. The tape ran out during track 13.  Dave O'Classen (sp?) was the band's soundman.
+
+Enjoy!
+
+--mhg :: 2023-04-02

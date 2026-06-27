@@ -1,0 +1,55 @@
+Garbage
+2018-10-06
+Cal Jam Festival
+Main Stage
+Glen Helen Amphitheater
+San Bernardino, CA
+
+SOURCE: 
+SP-CMC-8 (w/Mods) > SONY PCM-M10 > Sandisk Mini-SD Card (32gb - Class 10) 
+
+TRANSFER: 
+.WAV (24 Bit) > Adobe Audition 2022 CC (normalize/amplify/tracking/dithering/downsampling) > .WAV (16 Bit) > Trader's Little Helper > FLAC (Level 8) 
+
+SETLIST:
+
+00. (Unknown) (not taped)
+01. Dumb
+02. Stupid Girl
+03. Why Do You Love Me
+04. #1 Crush
+05. Vow (false start)
+06. Shut Your Mouth
+07. Vow
+08. Only Happy When It Rains
+09. Push It
+
+NOTES:
+
+Okay, it's been a few years since I taped this, and I am just now getting around to sharing this. No idea why it's taken me so long, but alas, here we are, regardless. This was my first time, and so far only time (I passed on the chance to catch them and Alanis Morrissette at the Hollywood Bowl due to outrageous, IMHO, ticket prices), seeing them, and they did not disappoint, even in a shortened festival set setting. I have to say right off the bat, I missed either the first or first couple of songs of this set. I hate missing songs and having an incomplete recording, but the number of bands I wanted to check out and the way the stages were laid out, it was almost guaranteed that I was going to have to sacrifice the early part of one desired set, and it turned out to be Garbage's unfortunately. If I remember right, I was at one of the smaller stages (Sun Stage?) seeing (and recording) Deer Tick (and I have a rule that if I start recording, I won't stop until the set ends, so no leaving early), and as soon as they ended, I had to skip seeing Black Mountain, who were about to perform on the stage right next to where I was (and who I would have loved to have seen, but I had seen them before and not Garbage, so of course the latter won out), and book it for about what felt like a mile up this huge hill to where the main stage was, all while running and dodging people throughout the crowd AND setting up my recorder, not an easy task.
+
+I'm not sure how many songs in they were when I arrived, but it could only be either the first or second song (you can hear Shirley say "thank you" right at the beginning of this recording, as I had just arrived when they ended whatever song it was they were playing). And again, I'm not sure which song(s) I missed, because as I found out while tracking/editing this recording, the current setlist on Setlist.fm is completely wrong for this performance, so I can't reference it with any confidence.
+
+Anyway, I met up with my friend and his girlfriend (who booked it home after this set if you can believe it, I don't think they stayed for Iggy Pop, and I know they didn't stay for Foo Fighters) and enjoyed a pretty solid set from the band. It was cool to finally see Shirley and Butch play live. I was happy to scratch them off the list. Interestingly, Butch was playing an electronic Roland drum set during this set, which I guess he moved over to playing on given his hearing problems or something. I don't think it really affected the sound/songs at all, as you really wouldn't have noticed if you weren't looking out for that sort of thing to begin with.
+
+The most memorable thing about this set though of course, that I and many others remember, is that it actually started raining during, yup you guessed it, "Only Happy When It Rains". The weather had been teasing rain all weekend with all sorts of omnious clouds, but not a drop fell from the sky until right when Gargabe hit their notes to that song. How fucking strange and weirdly awesome is that? I mean, if there was ever one song to hear at an open air stage while its raining, I guess that one would be near the top. As soon as the song ended, the rain stopped. No joke. It was like it had been planned the entire time. Sometimes there is just that magic in (and falling from) the air. Certainly was this night.
+
+CHECKSUMS: 
+
+a53df7c86626e91a2613498141e1c2b4 *garbage-2018-10-06-caljam-aud-16bit-t01-dumb.flac
+2109e946789fed93296d6f276bb69bbe *garbage-2018-10-06-caljam-aud-16bit-t02-stupid-girl.flac
+4251e8a82e3b59d996daa3ed4edbdd5a *garbage-2018-10-06-caljam-aud-16bit-t03-why-do-you-love-me.flac
+d0f9f6c63f978b8f61c76e4663c0df73 *garbage-2018-10-06-caljam-aud-16bit-t04-1-crush.flac
+e5e84f8ea94d317b0609fbd08a3bfe78 *garbage-2018-10-06-caljam-aud-16bit-t05-vow-false-start.flac
+6cfc20918284352bde9cc7a22d67d96a *garbage-2018-10-06-caljam-aud-16bit-t06-shut-your-mouth.flac
+5b187099be3531575d9e37182b691aca *garbage-2018-10-06-caljam-aud-16bit-t07-vow.flac
+63dff0c30beb391c5ed766802a425a73 *garbage-2018-10-06-caljam-aud-16bit-t08-only-happy-when-it-rains.flac
+38731f00969a2ac2186e8eff034890d5 *garbage-2018-10-06-caljam-aud-16bit-t09-push-it.flac
+
+Check out my site: 
+
+https://www.themojavetent.com 
+https://www.facebook.com/coachellarecordings 
+https://www.twitter.com/livecoachella
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT, OR ELSE THE KARMA POLICE WILL GET YOU***

@@ -1,0 +1,33 @@
+The Jayhawks 
+Space
+Evanston, IL
+February 25, 2024
+
+intro
+I'm Gonna Make You Love Me
+Leaving The Monsters Behind
+Angelyne
+Waiting For The Sun
+Tampa To Tulsa
+Save It For A Rainy Day
+Backwards Women
+This Forgotten Town
+Sixteen Down
+Kingston Girl
+Bottomless Cup
+The Night They Drove Old Dixie Down (The Band)
+All The Right Reasons
+Trouble
+Settled Down Like Rain
+Lovers Of The Sun
+Blue
+I'd Run Away
+We'll Sweep Out The Ashes In The Morning (Gram Parsons)
+Drivin' Wheel (David Wiffen)
+Until You Came Along (Golden Smog)
+outtro
+
+Source: Edirol R-07> SP-SPSB-10 power supply> SP-CMC-8 Cardiod Stereo Mics
+Taper: Lucca
+Location: stage left at stage in line with left stack -  mics on collar
+Lineage: Edirol R-07> wav> ACL (normalization, tracking)> flac

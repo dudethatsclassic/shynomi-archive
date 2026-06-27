@@ -1,0 +1,48 @@
+Golden Smog
+Great American Music Hall, San Francisco, CA
+June 26th, 1996
+
+
+01 Walk Where He Walked
+02 Ill Fated
+03 Glad and Sorry
+04 Yesterday Cried
+05 Easy To Be Hard
+06 V
+07 Revolution Blues
+08 Love and Mercy
+09 Won't Be Coming Home
+10 Pecan Pie
+11 He's a Dick
+12 To Call My Own
+13 Who Loves the Sun
+14 Hanging on the Telephone
+15 Friend
+16 She Don't Have To See You
+
+17 crowd
+18 Until You Came Along
+19 Red Headed Stepchild
+-- Encores:
+20 crowd
+21 Radio King
+22 Signed D.C.
+23 Five Years 
+24 Spooky
+
+
+
+Lineup (this night, or tour):
+Gary Louris - vocals guitar
+Dan Murphy - vocals guitar
+Kraig Johnson - vocals guitar
+Jeff Tweedy - vocals guitar
+Marc Perlman - bass
+drums=?? (I'll guess Jody Stephens)
+If you hear any violin, that'd be Jessy Greene 
+
+
+
+source: SBD>DAT>CDR
+transfer: clone(x) > 7 pin-coax > Pioneer Stand Alone CDR(m)
+conversion: CDR(m) > EAC(Secure Mode w/offsets) > CDWAV > mkwACT > SHN>(your cdr) Sector Boundaries verified using Shntool

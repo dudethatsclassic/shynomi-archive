@@ -1,0 +1,32 @@
+Sigur Ros au Paleo festival de Nyon 
+France
+July 25, 2013
+
+ARTE Live (SBD) 
+
+Lineage: webcast rip (Replay Media Catcher 4) > FLV (720x406 AVC video; 16 bit 48 kHz 160 kbps AAC audio) > audio extract to aiff (MPEG Streamclip) > flac, raise overall volume (Audacity) > equalize volumes between channels, track (Adobe Audition) > flac level 8
+
+'delivery team'
+stream capture: austinbrock
+extract audio, volume: inez
+equalize channels, track: joebreslin
+
+Hi everyone - so here's our rip of the webcast with some improvements as specified. Volume was super-low, and uneven between channels - so to work it up a bit, we had to convert it to flac. This however is looking very good - the spectra go all the way to 19 even 20 kHz and it's nice to have a SBD recording of an awesome show!
+
+Tracklist
+
+01 Yfirborð
+02 Brennisteinn
+03 Glósóli
+04 Vaka
+05 Sæglópur
+06 Svefn-g-englar
+07 Hrafntinna
+08 Varúð
+09 Hoppípolla/Með blóðnasir
+10 Kveikur
+11 Festival
+12 Popplagið
+
+
+**Please support the artists, buy official releases!!!**

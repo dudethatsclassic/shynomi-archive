@@ -1,0 +1,83 @@
+Jeff Tweedy
+Imperial Theatre
+Saint John, New Brunswick, Canada 
+April 14, 2018
+
+Source: Church Audio CA-14 (omnis) > TASCAM Dr-2d > 24 bit/48 Khz WAV 
+Transfer: 24 bit/48 Khz WAV > Audacity (normalize, set fades, envelope on loud audience, dither to 16 bit) > CDWAV tracking > Traders Little Helper (FLAC level 8) > tagged with Foobar2000 
+
+Recorded and Transferred by: Colin Waldschutz (colinwaldschutz @ gmail.com) 
+
+
+Setlist
+01. Via Chicago
+02. Bombs Above
+03. I Am Trying To Break Your Heart
+04. Spiders (Kidsmoke)
+05. banter - guitar / Supertramp
+06. New Madrid
+07. banter
+08. Lost Love
+09. Laminated Cat
+10. Bull Black Nova
+11. banter - hissing / border story / Gordon Lightfoot
+12. Passenger Side
+13. Hummingbird
+14. Hesitating Beauty
+15. Born Alone
+16. banter - bad clapping
+17. Jesus, etc
+18. banter - new song
+19. Noah's Flood (Let's Go Rain Again)
+20. Impossible Germany
+21. Theologians
+22. I'm The Man Who Loves You
+23. encore break
+24. E: Misunderstood
+25. E: banter
+26. E: California Stars
+27. E: The Late Greats
+28. E: A Shot In The Arm
+
+
+Notes: 
+Solo acoustic show as part of the Canadian tour.
+Ohmme opened with a 30 minute set.
+
+Thank you to Jeff Tweedy for supporting and encouraging audience recorded live music.
+This recording is NOT FOR SALE or commercial gain of any type. Please share freely with fans, and never sell or buy audience recorded live music. Support the band by buying official releases and merchandise or going to shows! 
+
+https://twitter.com/JeffTweedy
+http://wilcoworld.net/
+
+
+
+
+jefftweedy2018-04-14t01.flac:a57ead2ec0b6bc62f3263c24066b71a9
+jefftweedy2018-04-14t02.flac:a4f03c2b94c1996fd7ce2790c2ffb8bb
+jefftweedy2018-04-14t03.flac:48399d0f6a4c4568ed1f8a774b98fac6
+jefftweedy2018-04-14t04.flac:cd78bcb9c37ee06a7b0fb97597b86c87
+jefftweedy2018-04-14t05.flac:9c92b339a5d83fbdd3e6b422ae89d737
+jefftweedy2018-04-14t06.flac:6c0413ba55560089eb47fbf7c1e12e55
+jefftweedy2018-04-14t07.flac:8bb98b3b2f1562761d43be6ac32f1fa7
+jefftweedy2018-04-14t08.flac:dfd14091dab07d851e5da801cbf4ac16
+jefftweedy2018-04-14t09.flac:03846940bc47569b5830974aa218d331
+jefftweedy2018-04-14t10.flac:20c5d9fe757ced8e18f6b93381c6eecc
+jefftweedy2018-04-14t11.flac:c76cb7e3fa75a7678a54ca95299df1d1
+jefftweedy2018-04-14t12.flac:eba2c08f0d90c50784b51415d2bda9af
+jefftweedy2018-04-14t13.flac:068c5a263b332555ea88f72e7d395a18
+jefftweedy2018-04-14t14.flac:52ebd435127a83fa737f720ef20aab96
+jefftweedy2018-04-14t15.flac:8ab52291446292b98d0458a9e1acfb5e
+jefftweedy2018-04-14t16.flac:c7d36a403fc080c9388b1c7749090132
+jefftweedy2018-04-14t17.flac:c98996f998a0c3e447c23cc4b7a09e6c
+jefftweedy2018-04-14t18.flac:921c515382e7b586a0570225be4169d9
+jefftweedy2018-04-14t19.flac:cf556f0d242e358f9fa2a69c6108a359
+jefftweedy2018-04-14t20.flac:bcbf9324d9c0bb6cfd507a5efaaa2f7a
+jefftweedy2018-04-14t21.flac:8f709b42e909d93786d7dfa8b6d8abe8
+jefftweedy2018-04-14t22.flac:044773936db13fcf18954b7313c671c3
+jefftweedy2018-04-14t23.flac:53d49ab1b9d044e984cf897cd7be2bd6
+jefftweedy2018-04-14t24.flac:92c291438a76140637ce99982560db0a
+jefftweedy2018-04-14t25.flac:0d2531af28efb3a16887822ae9e7b109
+jefftweedy2018-04-14t26.flac:51ffd45beff550f6617ac882de285861
+jefftweedy2018-04-14t27.flac:02318cc1b756cd1ffce9b3c83e324dad
+jefftweedy2018-04-14t28.flac:d4434e3a207b91a101ad079a3447d1eb

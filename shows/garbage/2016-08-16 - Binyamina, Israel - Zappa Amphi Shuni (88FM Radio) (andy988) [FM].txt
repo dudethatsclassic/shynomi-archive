@@ -1,0 +1,61 @@
+GARBAGE
+16 August, 2016
+Zappa Amphi Shuni
+Binyamina, Israel
+
+SOURCE:
+88FM Radio Broadcast
+
+LINEAGE:
+FM Tuner -> Zoom H1 -> WAV (16bit, 44.1 kHz) -> PC -> Audacity -> TLH -> FLAC
+
+RATING: A (Excellent)
+
+CATALOG: ANDY-045
+
+TRACKLIST:
+01. Supervixen
+02. I Think I'm Paranoid
+03. Stupid Girl
+04. Automatic Systematic Habit
+05. Blood for Poppies
+06. talk (Shirley)
+07. The Trick Is to Keep Breathing
+08. My Lover's Box
+09. talk (Shirley)
+10. Sex Is Not the Enemy
+11. Special
+12. A Stroke of Luck
+13. talk (Shirley)
+14. Even Though Our Love Is Doomed
+15. Why Do You Love Me
+16. Shut Your Mouth
+17. Blackout
+18. Bleed Like Me
+19. Push It
+20. Vow
+21. Only Happy When It Rains
+22. Cherry Lips (Go Baby Go!)
+-ENCORE BREAK REMOVED-
+23. Sometimes
+24. Empty
+25. #1 Crush
+
+LENGTH:
+1:41:38
+
+EDITING:
+Normalization (0.0 dB)
+Added fade in/out
+Tracked
+Fixed SBEs, Flac'd, tested and created checksums.
+
+# This recording was made, edited and released by andy988
+
+# Uploaded to Dimeadozen on 18 August, 2016
+
+----------------------------
+PLEASE:
+DO NOT SELL OR ENCODE TO MP3
+DO NOT CHANGE THE FILES
+----------------------------

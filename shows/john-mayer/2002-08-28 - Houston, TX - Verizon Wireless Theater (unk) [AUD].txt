@@ -1,0 +1,81 @@
+John Mayer
+Verizon Wireless Theater 
+Houston, TX
+Wednesday, August 28, 2002
+
+Length: 97 Min
+Source: Audience
+Quality: 7.5
+
+Lineage: CDR > EAC > WAV > Flac Level 8 (w/ verify)
+
+Setlist:
+
+01. No Such Thing 5:14
+02. My Stupid Mouth 5:06
+03. City Love 8:10
+04. Back to You 5:37
+05. This Will All Make Perfect Sense Someday 8:00
+06. Lenny * > 2:02
+07. The Wind Cries Mary @ > 1:41
+08. Man on the Side
+09. Love Song for No One 5:37
+10. Your Body Is a Wonderland 6:20
+11. (King of Pain &) > 1:23
+12. 83 7:07
+13. Something's Missing 7:34
+14. My Stupid Mouth 5:17
+15. 3x5 11:14
+16. Neon 10:22
+
+* Stevie Ray Vaughan and Double Trouble cover
+@ The Jimi Hendrix Experience cover
+& The Police cover
+
+Band:
+John Mayer - Guitar, Vocals
+Michael Travis - Guitar, Keyboards
+Steven Tropec - Drums
+David Labrior - Bass
+
+
+compiled on 12/30/10
+
+NOT FOR SALE - STRICTLY TRADES ONLY
+
+FLAC Fingerprints:
+jm2002-08-28t01.flac:374c3942df7324f1841b6f3263fa25a1
+jm2002-08-28t02.flac:cf2fd3376a19f45e47b1d607e126129f
+jm2002-08-28t03.flac:9f93c09d024bd1a145b568a593f504a9
+jm2002-08-28t04.flac:dc3eaa4bab6aeb1ed046d70afc125107
+jm2002-08-28t05.flac:3741137af56a95bbccc0532dc0cbb81b
+jm2002-08-28t06.flac:63a72c7e10002988f62461740d57111a
+jm2002-08-28t07.flac:6c2203e47d26cbcbea7a5b40b4471cef
+jm2002-08-28t08.flac:c61c8c509f56b134a58d1ca0f9bd41db
+jm2002-08-28t09.flac:1b45a4c16c699c874250eb4269c22f13
+jm2002-08-28t10.flac:3132a3fc6a67d0272c222f52afa657bc
+jm2002-08-28t11.flac:027d871fe8a5279bb1efe239e9c3f30c
+jm2002-08-28t12.flac:16f0183d557f8d08e211046ce5fec460
+jm2002-08-28t13.flac:ad7fecdde306bad26a4c64f84ff54869
+jm2002-08-28t14.flac:1b00b1c9f40b84758fd44f06a4b334d7
+jm2002-08-28t15.flac:c3a87067c79a3825b39ef9251f6b2e15
+jm2002-08-28t16.flac:ae11bfbe16e4e9bd41c31e5aa9fb42d2
+
+
+MD5 Checksums:
+1a03d591d6f272e3ffb944f6375240ab *jm2002-08-28t01.flac
+853a3383050ae750995de504609513bf *jm2002-08-28t02.flac
+70555e423bd7e2e4936b74c5496c8ee9 *jm2002-08-28t03.flac
+d06431a8cec167e3f0978da18c76c902 *jm2002-08-28t04.flac
+6fcf302513386020e82697457e7963b8 *jm2002-08-28t05.flac
+ddf1776be59fa254f96ca5ef664a0796 *jm2002-08-28t06.flac
+cdfb685ddeb67acb54fd9a0820305427 *jm2002-08-28t07.flac
+594355ac27dee473f86fe2235047ab03 *jm2002-08-28t08.flac
+504324a625ca1e39bf6eaf6af5388cd4 *jm2002-08-28t09.flac
+8d032ead20ab7d848a8377ac2fb8d9cc *jm2002-08-28t10.flac
+8268f8c99e5a203b5aa80df594b2ab3d *jm2002-08-28t11.flac
+885be720639f90e0621a012fe5d4470f *jm2002-08-28t12.flac
+2d7bbf47170e82c107d8862ce62137c3 *jm2002-08-28t13.flac
+1671a00f441831d8a9c1d6e8ee2f424f *jm2002-08-28t14.flac
+bd413ba7766f36204387e74a1ddcfb8c *jm2002-08-28t15.flac
+ee3ccecf52e59f989fbc40755b48b65a *jm2002-08-28t16.flac

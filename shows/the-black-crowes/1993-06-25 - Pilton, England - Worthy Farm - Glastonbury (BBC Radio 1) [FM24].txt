@@ -1,0 +1,64 @@
+Black Crowes
+Glastonbury
+Worthy Farm, Pilton, England
+1993-06-25
+BBC Radio 1 FM Broadcast
+
+FM>Cassette master (Teac or Aiwa)>Teac V1050 cassette deck>PC Line in>Audacity capture 24bit 48kHz>track names, markers, changed output to 16bit and saved to flacs using Magix Music Editor.
+
+
+Setlist:
+01 - No Speak No Slave
+02 - Sting Me
+03 - Twice As Hard
+04 - Black Moon Creeping
+05 - Stare It Cold
+06 - Jealous Again
+07 - Remedy
+Run time:- 00:43:01
+
+24bit:
+md5
+3f633c7e01381cf4b75d49af8f0af6fc *01 No Speak No Slave.flac
+5de8fb178253dccd6142b28462894950 *02 Sting Me.flac
+d254e9d5298799317287718ab5c0952a *03 Twice As Hard.flac
+643178b0c740277e44d41d02b2d794a3 *04 Black Moon Creeping.flac
+819d7bb3a14b6350cca17f878e9a9996 *05 Stare It Cold.flac
+ed2efad877b152724daf310032533d30 *06 Jealous Again.flac
+ddbedea1a96192c84f3038e205a1baae *07 Remedy.flac
+
+ffp
+01 No Speak No Slave.flac:e5699b46fe0960d455cab34c653abc9d
+02 Sting Me.flac:61f60bcfbcdc25a2dc94437babf09057
+03 Twice As Hard.flac:8708100b9b3b7215102a67b4e963581a
+04 Black Moon Creeping.flac:0083e9dfa77de5c09c68abbae2d3dde9
+05 Stare It Cold.flac:dce0cd141850cdce5ad3d8fa460c7d56
+06 Jealous Again.flac:59352ef28d7b9eeb31d036890ea551cf
+07 Remedy.flac:eb1455faeaf107b22c09ce0c43db792d
+
+16bit:
+md5
+033293cde9493b1a1a0f1f53d99aba99 *01 No Speak No Slave.flac
+178e19b88628e86458ddeb6095166bfb *02 Sting Me.flac
+d48a363947c749b97231dbacc990f91b *03 Twice As Hard.flac
+7f31fdf7332e8b2f4fa3712ff4be2ac7 *04 Black Moon Creeping.flac
+d16dcab20eb9c34bee787aa4fb4f41e7 *05 Stare It Cold.flac
+4b6f22ecc1cc66bca5dcd173770153ac *06 Jealous Again.flac
+6f253bc7dfa4b4830fc0e5627ca804b4 *07 Remedy.flac
+
+ffp
+01 No Speak No Slave.flac:2dc57bd698b1cd63dfc0c80aff202a83
+02 Sting Me.flac:b0eed9bd7c5f4a23617b0ea0df97daa0
+03 Twice As Hard.flac:e786981e98099365d109a0af7819d529
+04 Black Moon Creeping.flac:915f81f71de2f1a07ef3ee04ed35c06e
+05 Stare It Cold.flac:149c626cbdbcd3308b5d56309224b715
+06 Jealous Again.flac:2d6659cc2daa25eee50cdea4c86a3180
+07 Remedy.flac:ded8ac26e18be538a485b35d9b362d8d
+
+Play It LOUD!
+
+Enjoy.
+
+The flacs are in two separate folders clearly labelled 24Bit or 16Bit, your download client should show these with an option to uncheck the folder you don't want to download.
+
+NOTE: The 24-bit format part of this upload may be burned to a DVD. It cannot be burned to a CD as is.

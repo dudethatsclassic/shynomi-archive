@@ -1,0 +1,39 @@
+Garbage
+October 4, 2025
+Minneapolis, MN - First Avenue
+
+Source: MK 4s > CMRg (left channel only) > tinybox > A10
+Transfer: WAV > Audacity (copy left channel to right, hard limiter, db boost,
+downsample) > CDWave > FLAC
+
+Disc 1:
+01. intro: Laura Palmer's Theme (Angelo Badalamenti)
+02. There's No Future in Optimism
+03. Hold
+04. I Think I'm Paranoid
+05. Vow
+06. Run Baby Run
+07. Shirley talks
+08. The Trick Is to Keep Breathing
+09. Not My Idea
+10. Shirley talks
+11. Hammering in My Head
+12. Wolves
+13. #1 Crush
+14. Shirley talks
+15. Bleed Like Me
+16. Queer
+17. Chinese Fire Horse
+18. When I Grow Up
+19. Push It
+
+Disc 2:
+01. Cherry Lips (Go Baby Go!)
+02. Shirley talks
+03. The Day That I Met God
+04. encore applause
+05. band introductions
+06. Stupid Girl
+07. Only Happy When It Rains
+
+Disc split has been made to fit Starcrawler's opening set on disc 2.

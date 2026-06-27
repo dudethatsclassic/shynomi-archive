@@ -1,0 +1,29 @@
+﻿OLD 97'S 3/15/13
+CAPITOL THEATRE, PORT CHESTER, NY
+
+01 Intro
+02 Barrier Reef
+03 Won't Be Home No More
+04 Brown Haired Daughter
+05 Lonely Holiday
+06 Champaign, Illinois
+07 West Texas Teardrops
+08 Ivy
+09 The Other Shoe
+10 The Dance Class
+11 Four-Leaf Clover
+12 Stoned
+13 Mama Tried
+14 Question
+15 Big Brown Eyes
+16 Every Night Is Friday Night
+17 Can't Get A Line
+18 Jagged
+19 Dance With Me
+20 Rollerskate Skinny
+21 Time Bomb
+
+GEAR USED:
+
+SBD > flac file > TLH > WAV >
+Sound Forge Pro 17.0 > CDWav > TLH > .flac files

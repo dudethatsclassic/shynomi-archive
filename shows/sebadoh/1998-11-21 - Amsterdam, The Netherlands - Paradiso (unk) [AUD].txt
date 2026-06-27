@@ -1,0 +1,29 @@
+Sebadoh - 1998 11 21 Paradiso, Amsterdam, NL
+
+Show note:
+Details are scarce on this show.
+
+Remaster note:
+There were several bits of digi-noise or other glitches. I removed them. There was a thin later of hiss, which I removed via Audacity Noise Reduction. I upped the bass and treble to balance the sound, and normalized the volume in sctions to maximize the overall sound.
+
+01 Too Pure
+02 Love Is Strong
+03 Skull
+04 Rebound
+05 Thrive
+06 Weird
+07 It's All You
+08 Bird in the Hand
+09 Mind Reader
+10 So Long
+11 Drag Down
+12 Love to Fight
+13 Homemade
+14 Cliche
+15 Soul and Fire
+16 Beauty of the Ride
+17 Break Free
+18 Colorblind
+19 Crystal Gypsy
+
+Lineage: Audience Master > CDR > EAC (WAV + CUE) > CDWAVE (splits) > FLAC

@@ -1,0 +1,97 @@
+Midtown
+2022-10-14
+Garden Amphitheatre
+Garden Grove, CA
+
+SOURCE: 
+SP-CMC-8 (w/Mods) > Roland R-07 > Sandisk Mini-SD Card (32gb - Class 10)
+
+TRANSFER: 
+.WAV (24 Bit) > Adobe Audition 2022 CC (normalize/amplify/tracking/dithering/downsampling) > .WAV (16 Bit) > Trader's Little Helper > FLAC (Level 6)
+
+SETLIST:
+
+01. Intro
+02. Become What You Hate (includes a snippet of Pixie's "Where Is My Mind?")
+03. Like A Movie
+04. (talking)
+05. Find Comfort In Yourself
+06. (talking)
+07. Just Rock and Roll
+08. Direction
+09. (talking)
+10. Get It Together
+11. Help Me Sleep
+12. (talking)
+13. No Place Like Home
+14. (talking)
+15. Let Go
+16. Another Boy
+17. Knew It All Along
+18. (talking)
+19. Is It Me, Is It True?
+20. So Long As We Keep Our Bodies Numb We're Safe
+21. Come On
+22. (talking)
+23. Empty Like the Ocean
+24. (talking)
+25. Give It Up
+26. (encore break)
+
+--- ENCORE ---
+
+27. Frayed Ends
+28. Faulty Foundation
+
+NOTES:
+
+My co-worker, friend and now roommate (next thing I know, we'll probably find out we're related) has talked about Midtown for as long as I can remember/known him (12+ years). They're his favorite band next to, I can only guess, Blink 182 and Man Overboard, or the Strokes (it changes every now and then I think). He used to say he'd travel anywhere in the world to go see them if they ever reunited. Apparently they broke up back in 2005/2006ish? I don't know for sure as I don't know shit about this band other than hearing what he had to say about them over the years. I don't go out of my way to listen to pop-punk. It's one of the genres I just don't pay attention to anymore (and hardly did back in the day), but I knew this band was a big deal and pretty important to him, so when he said he had an extra ticket to their show in Garden Grove (never heard of it nor know where it is? Yeah, me neither...), I figured I'd go with him and record them. I mean what else was I going to do? Stay home and watch Rings of Power? I knew he'd enjoy a recording and this was their only headlining west coast date I think (they're on tour and opening for My Chemical Romance all the other dates)? So here we are...
+
+The venue, Garden Amphitheatre, was quite small and intimate I must say, and it's outside. It actually rained...err...sprinkled during the opener, Alex Sucks (I think that's what they were called? I didn't record them). It doesn't have the best nor loudest sound, but given the small size and how close you are (whether you're standing in the "pit" or seated (I chose the seated section)), I could see it being a cool venue to see a band you like. Apparently Turnstile played the venue a little while back, and I could see how that would have been a really cool show. There's plenty of bands I can think of that would have been awesome to see in such a small outdoor venue.
+
+For Midtown, I chose a seat (though I didn't actually sit for the show) that was in line with the left speaker stack, hoping to get some halfway decent sound for my mics. I think it worked out as I'm pretty happy with the recording. People who were there said the guitar mix wasn't that great (I guess either the lead or rhythm guitar was turned down too much?), but I don't know the band or their music well enough to comment. It sounded fine to my ears.
+
+The guys in the band did look old. I get they've been gone for 20 years, and it's just crazy how much you can age in 20+ years, especially if you have kids and start a family, which a few of the members did/have done. Also, apparently the lead singer (who plays bass for the band too) broke his finger about 10 days prior to this show, so he couldn't play the bass for the show, so they had his friend and fellow bandmate from Cobra Starship, Alex Suarez, fill in on the four-string. On another note, both the lead singer and the guitarist Tyler Rann, had their kids at the show and on stage with them. That was fine for one song, but after 5 songs of watching the kids run around the stage, hit members of the band and continuously "stage dive", it became annoying. Hand those buggers off to the grandparents and get on with the show. I dunno, kids annoy me I guess.
+
+The band seemed in happy spirits though. They said they reformed 20 years later so their kids could see them play live, which I think is true. The show wasn't sold out, so I'm doubting they're making a ton of money on this reunion gig, but it doesn't seem money is what it's about. They just seemed genuinely humbled and happy to be playing in front of their fans 20 years after the fact, which is pretty cool I guess. They did play a couple snippets I thought were cool. The Pixies' "Where Is My Mind?" during "Become What You Hate", and Modern English's "I Melt With You" as the intro to "Come On".
+
+So yeah, if you're a pop-punk fan from the early 2000's and have been clamoring for some of your old favorites to return, then you should probably check this out. He asked the crowd if they were more excited for this reunion or Blink's, and of course the crowd cheered them on. I'd agree, but then again, I don't care for Blink! But this isn't about them. Enjoy Midtown instead.
+
+CHECKSUMS: 
+
+5df2d19c8f191b8453922a0057b04d8d *midtown-2022-10-14-garden-grove-aud-16bit-t01-intro.flac
+ee6ef65d1393e7ff5f76b54d350a3a5b *midtown-2022-10-14-garden-grove-aud-16bit-t02-become-what-you-hate.flac
+9d2cd1c4e51aaeb15341b5349af1cbb3 *midtown-2022-10-14-garden-grove-aud-16bit-t03-like-a-movie.flac
+c7301f3e7900c8ce3b48a571be48b3fd *midtown-2022-10-14-garden-grove-aud-16bit-t04-talking.flac
+648d783ee7a4525aa02799efe3ef1a99 *midtown-2022-10-14-garden-grove-aud-16bit-t05-find-comfort-in-yourself.flac
+7acfe8dad485179933bde78be2852c56 *midtown-2022-10-14-garden-grove-aud-16bit-t06-talking.flac
+cb02161f6f37281918310721047af7c9 *midtown-2022-10-14-garden-grove-aud-16bit-t07-just-rock-and-roll.flac
+3014b2d4a91e9f878435bf03cf36c267 *midtown-2022-10-14-garden-grove-aud-16bit-t08-direction.flac
+02a35ad6528a01fdb4112d4438315abf *midtown-2022-10-14-garden-grove-aud-16bit-t09-talking.flac
+3c9b9a835b773093d13f25f09bc1940f *midtown-2022-10-14-garden-grove-aud-16bit-t10-get-it-together.flac
+e9e3b913bca47dd478189646ff7a220a *midtown-2022-10-14-garden-grove-aud-16bit-t11-help-me-sleep.flac
+5e854c61a407eff3113b08430bb5c19f *midtown-2022-10-14-garden-grove-aud-16bit-t12-talking.flac
+88820b3d87be015bfe0f0ad15c07b5a7 *midtown-2022-10-14-garden-grove-aud-16bit-t13-no-place-like-home.flac
+761bdea175ecc2f127f285a7f6573594 *midtown-2022-10-14-garden-grove-aud-16bit-t14-talking.flac
+eb449b846e62367abbe8be61b086b203 *midtown-2022-10-14-garden-grove-aud-16bit-t15-let-go.flac
+7d92ffce4c7860e7e1aa0c99312521b9 *midtown-2022-10-14-garden-grove-aud-16bit-t16-another-boy.flac
+3123f7c79fa4064edad03fe625b806a1 *midtown-2022-10-14-garden-grove-aud-16bit-t17-knew-it-all-along.flac
+9a3c7c312586cb8da56ca2149784c7ec *midtown-2022-10-14-garden-grove-aud-16bit-t18-talking.flac
+cd3944da769537cf318918f8de411204 *midtown-2022-10-14-garden-grove-aud-16bit-t19-is-it-me-is-it-true.flac
+d0eaa3c89a25a49a95b35770a21f1ef8 *midtown-2022-10-14-garden-grove-aud-16bit-t20-so-long.flac
+525e335623a9fe3f508b329c4cd76658 *midtown-2022-10-14-garden-grove-aud-16bit-t21-come-on.flac
+770e9ebd424db1178a6c252b08b127df *midtown-2022-10-14-garden-grove-aud-16bit-t22-talking.flac
+18a2ab80895531dc368f6f1dd5f76aaa *midtown-2022-10-14-garden-grove-aud-16bit-t23-empty-like-the-ocean.flac
+3080e369156be2d8cd69b9e196621d80 *midtown-2022-10-14-garden-grove-aud-16bit-t24-talking.flac
+018e181f630bd6eed958aaf267dc5b29 *midtown-2022-10-14-garden-grove-aud-16bit-t25-give-it-up.flac
+b71093c8ff449eab58b212ef2b701bb3 *midtown-2022-10-14-garden-grove-aud-16bit-t26-encore-break.flac
+07430445f920c935ddfb6d9216814c1c *midtown-2022-10-14-garden-grove-aud-16bit-t27-frayed-ends.flac
+9f595204d67292f729940ea619ecd6e6 *midtown-2022-10-14-garden-grove-aud-16bit-t28-faulty-foundation.flac
+
+Check out my site: 
+
+https://www.themojavetent.com 
+https://www.facebook.com/coachellarecordings 
+https://www.twitter.com/livecoachella
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT, OR ELSE THE KARMA POLICE WILL GET YOU***

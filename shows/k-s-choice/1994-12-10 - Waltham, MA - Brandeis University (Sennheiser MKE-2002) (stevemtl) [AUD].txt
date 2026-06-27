@@ -1,0 +1,45 @@
+SPECIAL PLEA: Some DIME members have enormous speed and/or bandwidth and frequently accumulate twice or more the upload total of the nearest seeder. Please, would any such member remove themself from my torrent after fifteen or maybe thirty minutes of seeding. The upload volume thus released would allow the many seeders below you to benefit by increasing their share. This might be of critical importance to some of us. Thank you in advance.
+!!!PLEASE NOTE: I have no trouble with some seeders accumulating an upload total somewhat greater than mine.  It is only when that lead reaches a level of gross exaggeration, as described above, that I object.
+
+Another band about which I know very little; did my best with track splits and titles.  All corrections or help of any kind very welcome.  The torrent has applause in balance, many talk and some music levels raised, and hoots, etc. removed. It is a fresh transfer from my master and therefore will differ from previous torrents of this performance, if any.
+
+Faults: See note re t01.  Nearly constant very mild audience chatter, typical of the lack of respect shown opening bands.
+
+K's CHOICE
+Waltham, MA  --  Brandeis University
+1994-12-10  --  37:20
+
+01.  Elegia
+02.  The Ballad of Lea & Paul
+03.  I Wanna Meet the Man
+04.  My Heart
+05.  -talk-
+06.  Breakfast
+07.  -talk-
+08.  I Smoke a Lot
+09.  Walk Away  >>
+10.  Me Happy
+11.  Come Together
+12.  -talk-
+13.  Something's Wrong
+
+note: opening set for 'Indigo Girls'
+t01: Starts at a very quiet level but volume increase to maximum; be careful!
+
+musicians:
+Sam Bettens - 
+Gert Bettens -
+Jan van Sichem, Jr. - guitar
+Erik Verheyden - bass 
+Bart Van Der Zeeuw - drums
+
+No artwork.
+
+Recorded by stevemtl: Sennheiser MKE-2002 > Denon DTR80P (DAT: 16bits/48khz)
+Transferred by stevemtl: DAT > Sony PCM-R500 > Roland R44 > SD chip > my fingers > slot on computer > HD
+Mastered by stevemtl: HD > Sound Forge (L2 dither > 24/48: edit, L2 talk and applause level adjust, fades) > r8brain (vhq downsample > 24/44.1) > Sound Forge (L2 dither > 16/44.1) > CDwave (track cut) > TLH (flac level 8, ffp, md5) > TLH (torrent marker)
+Circulated by stevemtl: Torrent marker uploaded to DIME on 2021-08-25.
+
+Support K's Choice by purchasing official releases and merchandise.
+Please pass on in a lossless format only; reserve mp3 and other degrades for your own use exclusively.
+Do not profit in any material way from this recording.

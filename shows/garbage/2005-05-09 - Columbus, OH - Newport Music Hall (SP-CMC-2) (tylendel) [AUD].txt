@@ -1,0 +1,53 @@
+Garbage
+Newport Music Hall
+Columbus, OH  (USA)
+May 9, 2005
+
+Source:  Audience recording > SP-CMC-2 (AT831s) > SP-SPSB-6 (w/ bass rolloff @107Hz) > Sharp MD-DR7 minidisc recorder (line-in, SP stereo) > Minidisc master >  Sharp MD-DR7 (presumably the same one that recorded the show) > iMic > WAV > CD Wave > FLAC Frontend > FL:AC. Taped by tylendel.  This recording was made possible by the generosity of John A.  Thank you, John!  Thanks also to Danielle and David for help figuring out the setlist.
+. 
+CD 1:
+01. Queer
+02. Bad Boyfriend
+03. Supervixen
+04. Stupid Girl
+05. Sex Is Not The Enemy
+06. Hammering In My Head
+07. When I Grow Up
+08. Vow
+09. Bleed Like Me
+10. I Think I'm Paranoid
+11. Push It
+12. Only Happy When It Rains
+13. Why Do You Love Me?
+14. Metal Heart
+15. Cherry Lips (Go Baby Go!)
+16. Fall To Pieces [Patsy Cline]
+17. Right Between The Eyes
+
+Total time = 75:55
+
+Personnel:
+Shirley Manson - vocals
+Steve Marker - guitars & keyboards
+Duke Erikson - guitars & keyboards
+Butch Vig - drums
+Eric Avery - bass
+
+garbage2005-05-09t01.flac:f068f07d70bd04ff45664a09ceb8954a
+garbage2005-05-09t02.flac:df819e92fb7e583f59cd6be5400f2c04
+garbage2005-05-09t03.flac:ca42f7500bcd3a4113ea813fdb1c7b1a
+garbage2005-05-09t04.flac:aa39b465bd72ebe871fe593781d7b3aa
+garbage2005-05-09t05.flac:0b374854ca3bc8a29647b75b0020f368
+garbage2005-05-09t06.flac:2dca1406b74e9a2478ea3215d627d87e
+garbage2005-05-09t07.flac:a6d1c775a36b742d518cb53ce7e3890c
+garbage2005-05-09t08.flac:2d372f52f50f3852632d630c242f2225
+garbage2005-05-09t09.flac:319878889845d3da68bc7124d3782833
+garbage2005-05-09t10.flac:724d726efd41232fe3bf9ea1097fc6c1
+garbage2005-05-09t11.flac:f31a4c77431bd04485387a8510e1c112
+garbage2005-05-09t12.flac:23729d47ed50b44aa2069869eec063dd
+garbage2005-05-09t13.flac:2817f555715f01698847a901498020a7
+garbage2005-05-09t14.flac:3fad6d31aec2a878d1d005de3ec49ca1
+garbage2005-05-09t15.flac:4fec91fa2d7105d406a10cfce0114a57
+garbage2005-05-09t16.flac:97121454fe02e7b38fced8c786c8ac75
+garbage2005-05-09t17.flac:4a71e57b681cf8b2e4d687afd6bb3269
+

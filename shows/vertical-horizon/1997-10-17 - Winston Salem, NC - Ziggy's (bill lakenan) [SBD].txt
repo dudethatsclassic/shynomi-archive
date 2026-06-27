@@ -1,0 +1,41 @@
+Vertical Horizon
+October 17, 1997
+Ziggy's
+Winston-Salem, NC
+
+Source: 	DSBD
+
+DAT > SHN:	Archive Python DDS/vdat > .wav (Direct DAT extraction, no soundcard)
+		Bill Lakenan <blakenan@us.net> 
+
+Tracks Split by: Jeffrey Hyder <jmh@mhmvab.com> using CDWAV
+SHN:		MKW Audio Compression Tool   (NO DAE)
+
+****************************************************************
+	THIS SHOW IS NOT TO BE MP3-ENCODED	
+****************************************************************
+
+Disc 1:
+
+01: Intro
+02: Heart in Hand
+03: Candyman
+04: Fragments
+05: You're a God
+06: The Unchosen One
+07: Message in a Bottle > On the Sea
+08: Life in the City
+09: Slow in Time
+10: Japan
+
+Disc 2:
+
+01: Send It Up
+02: The Man Who Would be Santa
+03: Famous
+04: We Are
+05: Wash Away
+06: Encore Break
+07: Sunrays and Saturdays
+08: Liberty
+09: Falling Down> Nightshift > Millworker > Falling Down

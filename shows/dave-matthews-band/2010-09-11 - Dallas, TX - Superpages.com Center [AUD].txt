@@ -1,0 +1,66 @@
+Dave Matthews Band
+Superpages.com Center
+Dallas, TX
+Sept 11, 2010
+
+** 16-bit/44.1khz **
+
+Source: Schoeps CCM4 (DINa, 15 ft high, slightly ROC at SBD cage) > Sound Devices 702 (24/44.1)
+Lineage: 702 > Sound Forge Pro 10 (fades/volume/bitrate) > CD Wave (tracking) > Trader's Little 
+Helper 2.6.0 (flac v1.2.1) > foobar2000 (id3 tags)
+
+Runtime: 148min
+
+01. Intro
+02. Last Stop
+03. Shake Me Like A Monkey
+04. Granny
+05. Why I Am
+06. #41
+07. Big Eyed Fish
+08. Seven
+09. Can't Stop
+10. Spaceman >
+11. Cornbread
+12. Write A Song
+13. Lie In Our Graves
+14. Baby Blue (1)
+15. You & Me (2)
+16. Everyday
+17. Jimi Thing
+
+Encore:
+
+18. Some Devil (1)
+19. Ants Marching
+
+(1) Dave Matthews solo
+(2) with Ivete Sangalo on vocals
+
+(setlist courtesy of www.dmbsetlist.com)
+
+Notes: Black Joe Lewis opened.  Thanks to the band for allowing taping,
+Bill for the great seat, and the soundguy for the hospitality!
+
+
+Flac FingerPrint:
+
+dmb2010-09-11t01.flac:e41ba82ae402d0ed43404193355981eb
+dmb2010-09-11t02.flac:33efa15e82276e6618ac9690676e7f34
+dmb2010-09-11t03.flac:00b3f8c305c038d8abb2252e91e3221c
+dmb2010-09-11t04.flac:11985c27a15177c2ad7ce38acd81a4ca
+dmb2010-09-11t05.flac:4a6e74d7ffa8adbb3370a77bc8396951
+dmb2010-09-11t06.flac:ba1849fbfe0aa8fe9f0643869c72d9a1
+dmb2010-09-11t07.flac:eb606a37ca5c6622edb7c819cda849ce
+dmb2010-09-11t08.flac:fdf52b25af8f105c5b94b1352653888b
+dmb2010-09-11t09.flac:5f41615a064a6efed7c028d07504f59c
+dmb2010-09-11t10.flac:0ad9d9ed997f2fd8c6c8094edcca2c44
+dmb2010-09-11t11.flac:59e0228dd2bbddbca280c28c7ed69241
+dmb2010-09-11t12.flac:9ffe990e6bc08632a219134b8b759e31
+dmb2010-09-11t13.flac:ee2c576e79379c0cf6c58759201c4e3a
+dmb2010-09-11t14.flac:c969b15353ced5fc428c4b0f33a41bb1
+dmb2010-09-11t15.flac:688faa656d4a5730fe0459afa5bbdda6
+dmb2010-09-11t16.flac:d45a563d1cdcf338bf1bcbd97b23957b
+dmb2010-09-11t17.flac:e4d4ab0b78ab34d4b1fd8c9943de8ffe
+dmb2010-09-11t18.flac:b02d6393e83465950dc9e0a1c28abb5d
+dmb2010-09-11t19.flac:0095ea9867349d339b7e5bbafbcadc41

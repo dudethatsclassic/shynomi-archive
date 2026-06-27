@@ -1,0 +1,28 @@
+Garbage
+11-2-2002
+"Voodoo Music Festival"
+Cox Communications Stage
+New Orleans, La
+
+Taper: Ethan C (lyinrgrvs@yahoo.com)
+Source: AT831's > SBM-1 > M1
+Conversion : Archive Python SCSI DAT drive>wav>soundforge 6.0 >
+(fades and normalize)>shntool (alex@kabella.org)
+
+Disc 1 
+
+01 Intro				[01:05.14]
+02 Supervixen				[04:06.43]
+03 Temptation Waits			[05:10.63]
+04 I think I'm Paranoid			[07:33.22]
+05 Shut Your Mouth			[04:31.08]
+06 Vow					[05:12.67]
+07 #1 Crush				[05:11.00]
+08 Push It				[04:09.42]
+09 I'm Only Happy When It Rains 	[05:09.40]
+10 Cup Of Coffee			[04:39.14]
+11 Stupid Girl				[04:52.64]
+12 Cherry Lips				[03:35.41]
+13 When I Grow Up			[04:04.07]
+
+Total					[59:21.50]

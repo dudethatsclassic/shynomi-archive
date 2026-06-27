@@ -1,0 +1,99 @@
+Wilco
+Mass MoCA
+North Adams, MA
+JUne 21, 2013
+
+
+*** THIS IS A 16-BIT FILESET INTENDED FOR AUDIO CD ***
+
+SOURCE: mbho603a/ka200 > Naiant adapter cable > Tinybox > Edirol r05 (24/48)
+PROCESSING: soundforge 9.0 (tracking, fades, resample, dither) > traders little helper > flac level 8
+Taped, Processed, Upped by Kubacheck
+Many thanks to Dan Lynch for the clamp space and dead rats
+
+
+d1t01 Intro
+d1t02 The Boys Are Back In Town (Thin Lizzy)
+d1t03 Cut Your Hair (Pavement)
+d1t04 In The Street (Big Star)
+d1t05 New Madrid (Uncle Tupelo)
+d1t06 Dead Flowers (Rolling Stones)
+d1t07 A Simple Twist Of Fate (Bob Dylan)
+d1t08 Emcee break
+d1t09 Ripple (Grateful Dead)
+d1t10 Who Loves The Sun (Velvet Underground)
+d1t11 And Your Bird Can Sing (Beatles)
+d1t12 And Your Bird Can Sing (redux)
+d1t13 Psychotic Reaction (Count 5)
+d1t14 Emcee break
+d1t15 Tom Courtenay (Yo La Tengo, with Yo La Tengo)
+d1t16 Emcee break
+d1t17 James Alley Blues (Richard "Rabbit" Brown"
+d1t18 Waterloo Sunset (Kinks, with Lucious' Jess Wolfe and Holly Laessig)
+d1t19 Waterloo (Abba, with Lucious' Jess Wolfe and Holly Laessig))
+d1t20 (What's So Funny About) Peace, Love and Understanding (Brinsley Schwarz)
+d2t01 Emcee Break
+d2t02 Marquee Moon (Television)
+d2t03 Emcee Break
+d2t04 Don't Fear The Reaper (Blue Oyster Cult)
+d2t05 Cinnamon Girl (Neil Young)
+d2t06 Emcee Break Stump The Band 1
+d2t07 Emcee Break Stump The Band 2
+d2t08 Get Lucky (Daft Punk)
+d2t09 Surrender (Cheap Trick)
+d2t10 Color Me Impressed (Replacements, with Tommy Stinson)
+d2t11 Emcee break
+d2t12 Kingpin (Wilco)
+d2t13 Thank You Friends (Big Star)
+d2t14 The Weight (The Band, with Lucious' Jess Wolfe and Holly Laessig)
+d2t15 Roadrunner (Jonathan Richman and Modern Lovers, with Yo La Tengo)
+
+Emcee was John Hodgeman
+
+ffp verification files included
+
+d1t01 Intro.flac:8f085dadc5b06b1a041e0e6e3ab7617e
+d1t02 The Boys Are Back In Town.flac:e6d43f7d9730e2302ee86fd58dc43f12
+d1t03 Cut Your Hair.flac:19d7b600d48b186ccd16db879b9bd9ef
+d1t04 In The Street.flac:483934e036c35dec84d7daad8aba61be
+d1t05 New Madrid.flac:f703698852659f302f4cb58722a5cecf
+d1t06 Dead Flowers.flac:6e9caca3c7d91e936f6118aa3fefc724
+d1t07 A Simple Twist Of Fate.flac:2de970017c30c7cf9e31dc8bd7aa195e
+d1t08 Emcee break.flac:47fbfe0ac9714dacd40cf514bf734afa
+d1t09 Ripple.flac:efa72f1358e72f02f2014e8a24a355a5
+d1t10 Who Loves The Sun.flac:c809bbb7ef59a1d2c029648d6e7dbaf8
+d1t11 And Your Bird Can Sing.flac:4e8689cb9aff16c40d8153e8fa5fd93c
+d1t12 And Your Bird Can Sing (redux).flac:b57e858a8af5edf35e0dd1b4cf81a273
+d1t13 Psychotic Reaction.flac:a2001d714d61f91c83c310bc609c8fd3
+d1t14 Emcee break.flac:891ed75dfbcfabf2497cd44e84205d27
+d1t15 Tom Courtenay.flac:68d30a2246a3d724a5a01622ee5b151c
+d1t16 Emcee break.flac:d1f56c3ffc7f30a5cb41453d1f60e48c
+d1t17 James Alley Blues.flac:04c912d2e0acd187a651cc31235ccc25
+d1t18 Waterloo Sunset.flac:565343cae39ed19e16a5efa7e6298c17
+d1t19 Waterloo.flac:ed4a8960a76a9d84a665f7ead99217cb
+d1t20 (What's So Funny About) Peace, Love and Understanding.flac:bc995a8fa6526a0b26cc9e30854bc749
+d2t01 Emcee Break.flac:1aa7abdf27f00c4cdf84149a7145f9c9
+d2t02 Marquee Moon.flac:75dd26272ff45d40528211e603f82f7e
+d2t03 Emcee Break.flac:6c8677c12c1ee41d010c2054e53de7ef
+d2t04 Don't Fear The Reaper.flac:c23bdb596692766329b102d986e360df
+d2t05 Cinnamon Girl.flac:b8b55b1871f4bace9c8cdcec93f6fe21
+d2t06 Emcee Break Stump The Band 1.flac:f42756f0d2cb54945472aa14a3055168
+d2t07 Emcee Break Stump The Band 2.flac:f32405f96d1cd207885cdfedabd0de8a
+d2t08 Get Lucky.flac:840850b669810129ffce9dc41d99fa88
+d2t09 Surrender.flac:28ce272f4742c4ea1196e0fa43df39a5
+d2t10 Color Me Impressed.flac:b0185592fc74d968fb94b52aefda231b
+d2t11 Emcee break.flac:56f365a83747928d9803fe9a8d9daf11
+d2t12 Kingpin.flac:88a573a4adb4ff39f7b9cd678d881892
+d2t13 Thank You Friends.flac:43ac7bd6c3e87b655e1ed07c853a7640
+d2t14 The Weight.flac:9ceba7522dda56766e09c83234af9cad
+d2t15 Roadrunner.flac:33970ab034e27aa0b0f4a9cf4002802c
+
+notes: very cool "all covers" show, although they did end up doing 
+one Wilco tune and one Uncle Tupelo song that Jeff wrote…. most of the 
+Emcee breaks were John Hodgeman using the "Randomizer" to announce the 
+next song….. 
+
+as always:
+do not sell 
+do trade freely
+

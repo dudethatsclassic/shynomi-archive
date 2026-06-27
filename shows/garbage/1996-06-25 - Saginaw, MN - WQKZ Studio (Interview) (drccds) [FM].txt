@@ -1,0 +1,100 @@
+Garbage
+WQKZ Studio
+Saginaw, Mn.
+25 June 1996
+
+I was lucky enough to have a friend working at this station at the time Garbage was opening for Smashing Pumpkins when they started their tour in Saginaw. 
+He told me to come to the station and meet them, etc. The first track is a phone interview Shirley did with the morning show DJ's from her hotel. She was not at the radio station for the interview with Butch on Steve.
+The main part is the on-air interview Butch Vig and Steve Marker did at the radio station. The last track is all the calls they took while doing the interview, whether they made it to air or not. 
+They took calls from fans during songs and commercial breaks and broadcast the ones they liked, but I have all of them here. I was able to record it directly from their board, altho onto cassette. 
+I transferred it to cassette myself from a Nakamichi MR-2 to a Tascam CDRW-700 standalone CD recorder. Cassette > CD > EAC > FLAC 6. All commericals and songs have been taken out. 
+It runs about 42 minutes with the edits. No artwork. 
+
+
+EAC extraction logfile from 17. September 2006, 11:10 for CD
+ / 
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0  LUN: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : C:\Documents and Settings\Owner\My Documents\flac112a.exe   (User Defined Encoder)
+                     128 kBit/s
+                     Additional command line options : -8 -V -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+   Filename C:\Documents and Settings\Owner\Desktop\Garbage - Track01.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 7B90C6DB
+   Copy OK
+
+Track  2
+   Filename C:\Documents and Settings\Owner\Desktop\Garbage - Track02.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC C90AAECD
+   Copy OK
+
+Track  3
+   Filename C:\Documents and Settings\Owner\Desktop\Garbage - Track03.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC C0AAD4EA
+   Copy OK
+
+Track  4
+   Filename C:\Documents and Settings\Owner\Desktop\Garbage - Track04.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC B69B43DC
+   Copy OK
+
+Track  5
+   Filename C:\Documents and Settings\Owner\Desktop\Garbage - Track05.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 4A03C13A
+   Copy OK
+
+Track  6
+   Filename C:\Documents and Settings\Owner\Desktop\Garbage - Track06.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 4DD92F13
+   Copy OK
+
+Track  7
+   Filename C:\Documents and Settings\Owner\Desktop\Garbage - Track07.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 3BC4DE49
+   Copy OK
+
+No errors occured
+
+
+End of status report
+
+
+Garbage - Track01.flac:08a317d3673353721c2e096fb6aacec0
+Garbage - Track02.flac:ec5c3e0944841b23ddb30d473f99a5ee
+Garbage - Track03.flac:cbf4074161b32740aaec04b6f452b561
+Garbage - Track04.flac:22d95daff7faf31b2f8a738e800d62ac
+Garbage - Track05.flac:2de225e7b085bbda43650775a51fd7b7
+Garbage - Track06.flac:4a2d3da2ed9abfaf7b2d74e20e9b32f0
+Garbage - Track07.flac:e4217767e90337ea434adaa62a0d1419

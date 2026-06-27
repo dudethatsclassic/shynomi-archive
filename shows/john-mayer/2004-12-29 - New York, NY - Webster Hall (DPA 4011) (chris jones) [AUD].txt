@@ -1,0 +1,40 @@
+John Mayer
+29 December 2004
+Webster Hall
+New York, New York
+
+Taper: Chris Jones <jones.chris@gmail.com>
+Source: DPA 4011 > Luminous Audio Technology Synchestra 4/9's Silver XLR Interconnect > Apogee Trak2 Integrated Pre | 24/96 A/D (@ 96kHz) > Luminous Audio Technology Allegro Signature 4/9's Silver AES/EBU Interconnect > Metric Halo Mobile I/O 2882 +DSP FireWire Interface (slaved to Trak2 clock @ 96kHz via AES/EBU) > Apple Titanium Powerbook G4 1gHz/768MB > Metric Halo Mobile I/O Beta Recording Console dspBeta26 (@ 24-bit/96khz)
+Location: Slightly stageleft of DFC, just FOB, ~ 50' from stage; stand at 14', mics ORTF.
+HD > .shn: Apple Powerbook G4/1ghz/768MB > Apple Power Mac G4 MP800/512 > MOTU Digital Performer 4.12 > T.C. Works Spark XL 2.8 > xACT v1.12
+
+Dithered to 16-bit and resampled via MegaBitMax and its Ultra-Noiseshaping function.
+
+d1t01 Introduction					00:41.47
+d1t02 Rainy Day, Dream Away				05:55.27
+d1t03 I'll Play The Blues For You			07:15.59
+d1t04 I'm Tore Down					04:49.30
+d1t05 "A Very Special Guest"				00:50.52
+d1t06 Killing Floor *					04:32.44
+d1t07 Stormy Monday *					10:32.65
+d1t08 Empty Arms					06:25.07
+
+							41:03.31
+
+d2t01 Intro To...					01:41.09
+d2t02 Come Back To Bed					08:53.41
+d2t03 Ain't Gone 'N Give Up Love			13:24.64
+d2t04 Shake, Rattle, and Roll				11:12.13
+---
+d2t05 Voodoo Chile					15:44.19
+
+							50:55.71
+
+
+Featuring Hubert Sumlin on guitar.
+
+Notes:
+
+24/96 .flac24 files available.
+
+Compiled by Chris Jones <jones.chris@gmail.com> 1 January 2005.

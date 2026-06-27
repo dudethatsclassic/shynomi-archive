@@ -1,0 +1,27 @@
+Wilco
+Greek Theatre
+Newport Folk Festival
+Los Angeles CA
+1998-09-20
+
+
+SBD>CD-R>EAC (secure w/ read offset)>WAV>FLAC (level 5)
+files re-flacced, re-named and tagged.
+
+
+
+Additional lineage: TLH(check SBEs,audio encoding,ffp,md5sum,shntool) > TLH Live Show Tagger > Deluge > You
+
+I would like to thank this unamed taper/transferer for all his hard work and being kind to share this recording. Many thank to all tapers/transferer's for all their hard work it's greatly appreciated. All credit goes to these folks for spreading the music and allowing us/me to continue to listen,enjoy and help spread good vibes. Many of these are probably reseeds, that dont't seem to have been seeded in a long while. Thanks again to the original seeders and uploaders! Peace..
+
+
+
+
+01. James Alley Blues
+02. Christ For President
+03. Hesitating Beaut
+04. When The Roses Bloom Again
+05. New Madrid
+06. She's A Jar
+07. Forget The Flowers
+08. California Stars

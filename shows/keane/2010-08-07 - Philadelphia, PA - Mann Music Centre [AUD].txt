@@ -1,0 +1,27 @@
+Keane
+Philadelphia Mann Music Centre
+7th August 2010
+
+source 2xcdr(1) trade DAT recording - EAC to WAV to FLAC via FLAC frontend
+
+1. Again And Again
+2. Bend And Break
+3. Everybody's Changing
+4. Nothing In My Way
+5. Clear Skies
+6. This Is The Last Time
+7. Stop For A Minute
+8. Disconnected
+9. Try Again
+10. Your Love
+11. Spiralling
+12. Is It Any Wonder
+13. A Bad Dream
+14. Tom speech
+15. Perfect Symmetry
+16. Somewhere Only We Know
+17. Bedshaped
+18. encore break
+19. My Shadow
+20. Crystal Ball
+

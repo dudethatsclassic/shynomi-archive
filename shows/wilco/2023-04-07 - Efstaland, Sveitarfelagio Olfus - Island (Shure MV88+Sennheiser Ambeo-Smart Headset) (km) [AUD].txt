@@ -1,0 +1,91 @@
+Wilco
+April 7, 2023 - Afternoon Show
+Ingólfsskáli Veitingahús
+Efstaland, Sveitarfélagið Ölfus, Island
+
+Lineage 1: Shure MV88 > ShurePlus MOTIV for iOS (iPhone 11MAX Pro)(24/48) 
+Lineage 2: Sennheiser Ambeo-Smart headset  > ShurePlus MOTIV for iOS (iPhone 13) (24bit/48kHz)
+Transfer: Audacity-Mixed, Tracked and Downsampled to 16/44, Converted to FLAC Level 6
+Position: 30' From Stage right, in front of soundboard (Nels' side)
+
+Recorded & Tracked: KM
+
+[> Soundforge Pro 12 (light EQ, Levels raised] > CDWave 1.98 > TLH 2.70 > FLAC, re-named files, added new info file]
+
+01 I Am My Mother  [3:41]
+02 Cruel Country  [3:38]
+03 Art Of Almost *  [4:14]
+04 Hearts Hard To Find  [3:43]
+05 Banter  [1:00]
+06 Please Be Wrong *  [3:47]
+07 Bird Without A Tail / Base Of My Skull  [9:26]
+08 Tired Of Taking It Out On You  [3:35]
+09 Ambulance *  [3:23]
+10 New Madrid *  [3:53]
+11 Banter  [1:11]
+12 Someone To Lose *  [3:34]
+13 Banter  [0:57]
+14 She's My Rock *  [3:05]
+15 Banter  [1:54]
+16 Falling Apart (Right Now)  [3:34]
+
+Total Time: 54:42
+
+
++ My incomplete alternate recording (in separate folder)
+
+Lineage: Edirol R-09 w/internal mics - 24bit/48kHz
+Transfer: Panasonic SD Card > HD > Soundforge Pro 12 > SSRC > CDWave 1.98 > TLH 2.70 > FLAC
+Position: 30' From Stage left, next to the entry, below 'PA' speaker (Pat's side)
+
+01 Bird Without A Tail / Base Of My Skulll  [9:51]
+02 Tired Of Taking It Out On You  [3:36]
+03 Ambulance *  [3:23]
+04 New Madrid *  [5:04]
+05 Someone To Lose *  [4:32]
+06 She's My Rock *  [3:04]
+07 Falling Apart (Right Now) {including false start}  [6:09]
+
+Total Time: 35:42
+
+
+So we finally made it to Iceland. 
+This was a very emotional trip for me in more ways than one, but in the end I made it to all the shows
+and managed to have some beautiful off days on that great island called Iceland, seeing gorgeous waterfalls and geysirs
+and of course the Þingvellir, took a sea cruise to watch whales (we saw one !) and spend a rainy day at the Blue Lagoon.
+In between all of this, we saw three excellent shows (69 songs in 3 shows - no repeats !) at the very impressing Harpa. 
+I have included a few photos from each night to show its elegance and beauty.
+
+Plus there was this crazy bonus show way out in the wild countryside ...
+
+The original, already mixed, files of the complete recording of this show were given to me by KM, all dues to him, many thanks for sending them my way.
+I just added some light EQ (basically taking out some of the lower bass frequencies), raised the volume and re-tracked it (leaving KM's track splits more or less intact).
+
+My own incomplete recording was taken right from the other side of this small crowded room, I have added it for completeness sake in a separate folder.
+
+Why is my recording incomplete ? Well, here's the whole story:
+Even before we ordered tickets in August 2022, Claudine and I agreed that the package including the Bonus Show would be too expensive for us.
+But we agreed that we should try to get to the then still unknown location nonetheless and see if there would be a chance to at least somehow hear the show.
+Originally, it was announced in December that the secret or bonus show would take place on the island of Viðey, off the coast of Reykjavik.
+That would have been virtually impossible to attend as the ferries to the island only run on weekends until May.
+Then on Tuesday, April 4 it was announced that, due to the bad weather conditions, the show would take place at Ingólfsskáli Veitingahús, about 50 kilometers east of Reykjavik.
+Now I have a good friend, an old Dylan accomplice of mine, that lives in Reykjavik. He was terribly ill that week but said that this
+would be that kind of clandestine operation which would please him and that he would drive me there and would try to talk us into the show. Thank you HT, I'll never forget that !
+What a ride that was, fog all around us, heavy gusts of wind from all sides, and the road took us right to the middle of ... nowhere, just that fake viking restaurant and nothing else around.
+There was nobody around when we arrived, no one else had dared to go there without a ticket, then the audience arrived in five busses, and soon after that the band rolled in as well.
+While they were in the makeshift 'backstage area', my friend had a talk with the one guy at the door - but he refused to turn a blind eye.
+But when everybody was inside, audience and band, I walked to the door and started my recording to at least got it covered somehow, as you could clearly hear the music, alas muffled.
+After about the fourth song, that guy opened the door again and walked out to smoke - and I in walked and found myself in the 'auditorium', directly under a 'PA' speaker.
+I stayed right were I landed, lucky enough to be there and just soaked up that crazy atmosphere, far far from home, my heart full of emotions...hoping the show would last forever.
+
+Highlight of that show was the acoustic version of 'Art of Almost', a real stunner. But everything else was great, too, and everybody was in good spirits.
+Songs marked * above were only played that afternoon, making it 75 songs in 3.5 shows !
+And how happy I was when KM contacted me and said he recorded the whole show, thank you for allowing me to share it here.
+I have added the songs that I have recorded inside to round out this upload - and please see the photos to get an idea what a funny adventure that was.
+
+Dedicated to the memory of my wife Claudine
+
+
+Respect the Artists
+Never sell - for trade only
+Please do not encode to lossy formats

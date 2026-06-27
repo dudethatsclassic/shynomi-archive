@@ -1,0 +1,108 @@
+Wilco
+
+Milan, Italy 
+Fabrique
+November 12, 2016
+
+Audience recording
+Neumann km140 > Denecke PS-2 > Marantz PMD661 (16 bit - 44.1 KHz) > Cool Edit > CD Wave
+taper: romeo 
+
+CD 1 (60:42) 
+01. Ashes of American Flags
+02. Normal American Kids
+03. If I Ever Was A Child
+04. Cry All Day
+05. I Am Trying to Break Your Heart
+06. Art of Almost
+07. Pickled Ginger
+08. Misunderstood
+09. Someone to Lose
+10. Via Chicago
+11. Reservations
+12. Impossible Germany
+
+CD 2 (63:25) 
+13. Jesus, Etc.
+14. Locator
+15. We Aren't the World (Safety Girl)
+16. Box Full of Letters
+17. Heavy Metal Drummer
+18. I'm the Man Who Loves You
+19. Hummingbird
+20. The Late Greats
+21.  encore break 
+22. Random Name generator
+23. Spiders (Kidsmoke)
+24.  encore break 2
+25. California Stars
+26. War on war
+27. A Shot in the Arm 
+
+total time: 2:04:08 
+
+Jeff Tweedy
+John Stirratt
+Glenn Kotche
+Mikael Jorgensen
+Nels Cline
+Pat Sansone
+
+md5 file
+9ff1a373804bd3cc5237114c8cc5562a *wilco2016-11-12t01.flac
+20c820848c648b8c45a1f2df1d0fecf0 *wilco2016-11-12t02.flac
+5b0f2f7f884bd9bbd790bbbedbdaaf6f *wilco2016-11-12t03.flac
+caac355e8d720af70a8e35a0d455e419 *wilco2016-11-12t04.flac
+749bdcc820104143268b78b5c6068df1 *wilco2016-11-12t05.flac
+9afdb761df6b4b1f80e761b94411f211 *wilco2016-11-12t06.flac
+c2c10dd290e0b1529f3bb1e78f39e6c6 *wilco2016-11-12t07.flac
+fce9bcb32139f6ab501ee0a732f7aedf *wilco2016-11-12t08.flac
+5a3de767578248784fa5621493e85b00 *wilco2016-11-12t09.flac
+1446b4050084c8c7adbdd0f61217d4d4 *wilco2016-11-12t10.flac
+1e79258ad4fd5790aec12014c44e95f0 *wilco2016-11-12t11.flac
+d649c3760c55806ecba790d8e8f3d4f7 *wilco2016-11-12t12.flac
+80f977aafd283d9698fc53b2865b2d88 *wilco2016-11-12t13.flac
+3094eb31f7990566c9205144b295b9df *wilco2016-11-12t14.flac
+15f808b8701ba740f04b96e8bd2f8402 *wilco2016-11-12t15.flac
+a46b977a0e0874af9bd7c5817d814861 *wilco2016-11-12t16.flac
+2b22933f18503d803948a75edf4fa54a *wilco2016-11-12t17.flac
+ed4041b53a1e9371ee08ad40342afd9b *wilco2016-11-12t18.flac
+3191c65f83add893ca42c658fd2f95a9 *wilco2016-11-12t19.flac
+6fbbff1dc9ac8bd808f93c61181a861e *wilco2016-11-12t20.flac
+849c7a79a0697e8e5830b3832f8dbfd3 *wilco2016-11-12t21.flac
+d8a280d7851e4ebb10a8e79a7fddc26a *wilco2016-11-12t22.flac
+54fa22df578d68e94451c9e8d9648ca5 *wilco2016-11-12t23.flac
+f9961c65a1f8724f8f2185bdcff44f0f *wilco2016-11-12t24.flac
+dec650dbbe79c589d056bb94ddb74d44 *wilco2016-11-12t25.flac
+a82a285f8de9add09fa61baa45a8254e *wilco2016-11-12t26.flac
+011d86784c6d62b30bdbe77d2cb1c2f9 *wilco2016-11-12t27.flac
+
+ffp file
+wilco2016-11-12t01.flac:634c75ceb35c0af59b363771939f0d97
+wilco2016-11-12t02.flac:120a520f8e785d217bae005d58696ca4
+wilco2016-11-12t03.flac:654dfe073215290b4eb93d65e22c8d8c
+wilco2016-11-12t04.flac:1135a8c90addf017f569f4dee209c8c1
+wilco2016-11-12t05.flac:c87eff2c691efc830af0809ff31f2a96
+wilco2016-11-12t06.flac:0b6cfd05b9268d64087d9ff6e0500311
+wilco2016-11-12t07.flac:c149f8476d62cd2235f61fd94a324fa4
+wilco2016-11-12t08.flac:684b6c8c095aa0b723d4dbe0171cdf2f
+wilco2016-11-12t09.flac:d9b9f9abc0c19fea18c39709595a3a79
+wilco2016-11-12t10.flac:90a0d00e0ec27d7f4a6a3708a76bec8d
+wilco2016-11-12t11.flac:94a475de0501ce83e2a4dbc734293f71
+wilco2016-11-12t12.flac:31f2fb8294ca76ee7ab0028a3cf446a6
+wilco2016-11-12t13.flac:39639c90c0b214864444829155bc221d
+wilco2016-11-12t14.flac:919a3323516b980b0e4ab7ed08dbc5a8
+wilco2016-11-12t15.flac:b7d60c9e50bff16fff960b02e3f9f0ce
+wilco2016-11-12t16.flac:05bf719c7edfc825ebb5d2c1ee330129
+wilco2016-11-12t17.flac:e215cee3a25ee2d132680931c3445bc5
+wilco2016-11-12t18.flac:0c7c3b8c583d1094759986586644322f
+wilco2016-11-12t19.flac:42c9375f452c528ad6a3162c9861fbc6
+wilco2016-11-12t20.flac:50a5b82fd5ea131e02542e9f76c9d28c
+wilco2016-11-12t21.flac:de387ee20112f4791f87e158db8eb36a
+wilco2016-11-12t22.flac:7f5b7e10630e7c553b08733b32d49d28
+wilco2016-11-12t23.flac:410dbc889610833730f24189eb494f54
+wilco2016-11-12t24.flac:4cadfa8a5d89fa9b5b14c8ac82481c6b
+wilco2016-11-12t25.flac:1fd7f683328d518b9b468d9777dca727
+wilco2016-11-12t26.flac:26d774ef69acf5b6d6d80e5027c73a5a
+wilco2016-11-12t27.flac:788b59fde7378f981f134c4bde49c8e8
+ 

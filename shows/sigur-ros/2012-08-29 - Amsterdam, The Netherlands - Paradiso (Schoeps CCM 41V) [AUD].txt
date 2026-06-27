@@ -1,0 +1,150 @@
+Sigur Rós
+
+Paradiso
+Amsterdam
+The Netherlands
+
+29th August 2012 (2012-08-29)
+
+
+RECORDING:
+
+Type: Audience master, recorded 3 metres back from the left-hand side
+      PA stack.
+
+Source: Factory-matched pair of Schoeps CCM 41V microphones (DINa mounted) ->
+	Marantz PMD661 recorder with Oade Concert Mod
+	(-18 dB gain/44.1 kHz/24 bit WAV)
+
+Lineage: Audacity 2.0.0
+	   * applied selective amplification for consistency across concert
+	   * attenuated sections of loud applause
+	   * added fades
+	   * split tracks
+	   * converted to 16 bit
+	 -> FLAC (compression level 8) [libFLAC 1.2.1 20070917]
+
+Taper: Ian Macdonald (ianmacd)
+
+
+SET LIST:
+
+01. [07:49] Í Gær
+02. [09:03] Ný Batterí
+03. [06:50] Vaka
+04. [04:03] Fljótavík
+05. [10:55] Svefn-G-Englar
+06. [11:16] Gong/Andvari
+07. [07:47] Sæglópur
+08. [09:25] E-bow
+09. [06:25] Hoppípolla/Með Blóðnasir
+10. [08:51] Festival
+11. [06:27] Varúð
+12. [08:01] Hafsól
+13. [01:40] [encore break]
+14. [06:17] Ekki Múkk
+15. [06:36] Glósóli
+16. [14:35] Popplagið
+17. [01:56] [curtain call]
+
+Total running time: 127:55
+
+
+MD5 CHECKSUMS:
+
+fa2c5285123571947fb2c1996c01cda1  flac/01_í_gær.flac
+e84caa9734ac6f13d57b8be97e188a2d  flac/02_ný_batterí.flac
+c2c865448501c1276b2fb1e1efad5db5  flac/03_vaka.flac
+1d8d4257338e3194cad1cc83d4ab7ee6  flac/04_fljótavík.flac
+57d65ed5c182171e07a76bfaf9cf1b68  flac/05_svefngenglar.flac
+b3a73cacffc8c9290876045fcb37c0ab  flac/06_gongandvari.flac
+71cbedd724f0b89522f5ef314b034622  flac/07_sæglópur.flac
+df12d7f488a4fe474e1f93101ac8decb  flac/08_ebow.flac
+5cf80a963bfc1bce07d6011983afdc32  flac/09_hoppípollameð_blóðnasir.flac
+b83ddc5e16da5da6da8fa58a45afbea2  flac/10_festival.flac
+729b5d23bacfb87ff5f1e897c2985aee  flac/11_varúð.flac
+86cf19e3942e8c9cda182b94f0bef73e  flac/12_hafsól.flac
+5bc6317cdd7787cf4eb1bbbb78ebd2b5  flac/13_encore_break.flac
+45f323210ea5023713b9c438cee83d5d  flac/14_ekki_múkk.flac
+a2a72578b47978f762ece5b5e2f3ceeb  flac/15_glósóli.flac
+ab6cd43ddf726588f579451d1861a6c8  flac/16_popplagið.flac
+9d25ec4e41fea7d17b30e5d27b6ae381  flac/17_curtain_call.flac
+cedc95cff4764c8294bd811cded15a07  flac/checksums.ffp
+
+
+NOTES:
+
+Night two of Sigur Rós in the Paradiso and another sold-out gig, although it
+seems slightly less jam-packed than the night before. It's probably just my
+imagination, though.
+
+When bands play consecutive nights in the same venue, some of the biggest fans
+will attend multiple gigs. More casual listeners don't see the point, because
+each performance is more a less a repeat of the previous, with very little
+variation. Perhaps a song will be added or removed, but generally the
+repertoire of a tour is well-rehearsed and, more and more often, set in stone
+by the use of specific instruments or software configured to perform a
+particular set of songs in a predefined sequence or dependent on the presence
+of certain samples.
+
+And so there's no expectation that tonight's Sigur Rós set will be notably
+different from Tuesday's.
+
+The Paradiso is a furnace again, particularly downstairs in the taper's
+dressing-room (a.k.a. the lavatories), where I have to wait for a free cubicle
+in which to change into that most nerdy of superheroes, Taper Man!
+
+I emerge drenched in sweat (at least it's my own), the best part of an hour
+before the band will play their first note. I take up position in the same
+spot as the night before and await the entrance of Iceland's finest.
+
+They come on at 20:30 prompt again and open the proceedings with the familiar
+strains of 'Í Gær', followed by 'Ný Batterí'.
+
+'Vaka' is next, marred ever so slightly by a bum piano note at the worst
+possible moment, just as the song is drawing to a close.
+
+The next song comes as a surprise. It's 'Fljótavík' from 'Með Suð Í Eyrum Við
+Spilum Endalaust'.
+
+The anticipated running order resumes with 'Svefn-G-Englar' but then deviates
+again with the insertion of 'Gong' and 'Andvari', bringing the total number of
+tracks from 'Takk' played this evening to an impressive six.
+
+'Sæglópur' follows, but 'Viðrar Vel Til Loftárása' and 'Olsen Olsen' are then
+jettisoned in favour of 'E-bow'.
+
+From 'Hoppípolla' onwards, the running order is the same as the previous
+evening's, with still only two tracks performed from the new album, 'Valtari'.
+
+So, for the trivia fans, that's two songs more than were played on Tuesday, if
+we count the 'Gong/Andvari' segue as two. Four new songs were added to the set
+on Wednesday and only two were removed', making for a show that was seven
+minutes longer than the first night's.
+
+If you ask me, the second night's performance is even better than the first.
+'Sæglópur', 'Hafsól' and 'Popplagið' all seem more intense to me, but it's so
+subjective that it could easily be my imagination again. Certainly, no-one who
+attended either night should feel short-changed. Both performances are
+stellar.
+
+As 'Popplagið' melts down and diffuses its mushroom cloud of noise, it hits
+the Paradiso like waves dashing the rocks of a sea stack. If one could harness
+the energy emanating from the stage right now, it would surely light the homes
+of a small village. I stand in front of the PA as a lighthouse in a storm. I
+am blown away, figuratively, if not physically.
+
+The curtain call is also more rousing than the previous evening's. It's hard
+to imagine a more rapturous ovation enveloping the band as they take their
+bows and wave farewell.
+
+Once again, the recording has received no equalisation in post-processing.
+Excessive audience noise has been attenuated and the songs have been
+selectively amplified for a more consistent listening experience across the
+entire concert.
+
+The band were once again mixed to perfection and this is, of course, reflected
+by the recording. It is as good, if not better than the first night's. Samples
+are once again included for your aural scrutiny.
+
+I think I'm falling in love with these new microphones.

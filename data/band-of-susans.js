@@ -24,7 +24,8 @@ const ARTIST_DATA = {
       "venue": "Club Soda",
       "notes": "AUD(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-09-25 - Montreal, QUE - Club Soda - AUD(M) [AUD].txt"
     },
     {
       "year": 1989,
@@ -37,7 +38,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-06-30 - Roskilde, DEN - Darupvej [FM].txt"
     },
     {
       "year": 1989,
@@ -50,7 +52,8 @@ const ARTIST_DATA = {
       "venue": "First Avenue",
       "notes": "ANA(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-09-25 - Minneapolis, MN - First Avenue - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1991,
@@ -63,7 +66,8 @@ const ARTIST_DATA = {
       "venue": "Swedish National Radio",
       "notes": "loughney transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-05-30 - Lund, Sweden - Swedish National Radio (loughney transfer) [FM].txt"
     },
     {
       "year": 1991,
@@ -74,9 +78,10 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Loppen",
-      "notes": "DAT(M) · Sony ECM 155s · mailman",
+      "notes": "DAT(M) \u00b7 Sony ECM 155s \u00b7 mailman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-06-02 - Copenhagen, Denmark - Loppen - DAT(M) (Sony ECM 155s) (mailman) [AUD].txt"
     },
     {
       "year": 1991,
@@ -87,9 +92,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Gent, Belgium",
       "venue": "Democrazy",
-      "notes": "ANA(2) · loughney transfer",
+      "notes": "ANA(2) \u00b7 loughney transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-06-19 - Gent, Belgium - Democrazy - ANA(2) (loughney transfer) [SBD].txt"
     },
     {
       "year": 1992,
@@ -100,9 +106,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Seven South",
-      "notes": "ANA(M) · loughney transfer",
+      "notes": "ANA(M) \u00b7 loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-04-07 - Denver, CO - Seven South - ANA(M) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1992,
@@ -113,9 +120,10 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Maxwell's",
-      "notes": "ANA(M) · 1 · loughney transfer",
+      "notes": "ANA(M) \u00b7 1 \u00b7 loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-05-22 - Hoboken, NJ - Maxwell's - ANA(M)-ANA(1) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1993,
@@ -126,9 +134,10 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Gothenburg, Sweden",
       "venue": "Magasinet",
-      "notes": "Sony WM-D6 · loughney transfer",
+      "notes": "Sony WM-D6 \u00b7 loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-06-08 - Gothenburg, Sweden - Magasinet (Sony WM-D6) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1993,
@@ -139,9 +148,10 @@ const ARTIST_DATA = {
       "state": "BE",
       "location": "Bissegem, BE",
       "venue": "De Kreun",
-      "notes": "Sony WM-D3 · loughey transfer",
+      "notes": "Sony WM-D3 \u00b7 loughey transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-01 - Bissegem, BE - De Kreun (Sony WM-D3) (loughey transfer) [AUD].txt"
     },
     {
       "year": 1993,
@@ -152,9 +162,10 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Loppen",
-      "notes": "DAT(M) · Sony ECM 155s · mailman",
+      "notes": "DAT(M) \u00b7 Sony ECM 155s \u00b7 mailman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-07 - Copenhagen, Denmark - Loppen - DAT(M) (Sony ECM 155s) (mailman) [AUD].txt"
     },
     {
       "year": 1993,
@@ -165,9 +176,10 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Gothenberg, SWE",
       "venue": "Magasinet (Sony WM-D6)",
-      "notes": "AUD(M) · 2 · loughney transfer",
+      "notes": "AUD(M) \u00b7 2 \u00b7 loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-08 - Gothenberg, SWE - Magasinet (Sony WM-D6) - AUD(M)-ANA(2) (loughney transfer) [AUD].txt"
     }
   ],
   "misc": []

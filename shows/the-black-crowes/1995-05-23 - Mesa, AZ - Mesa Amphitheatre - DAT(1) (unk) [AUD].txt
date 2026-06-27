@@ -1,0 +1,528 @@
+-------------------------------------------------------------------------------
+File name:                    tbc1995-05-23 Mesa, AZ - Dat 1Gen Track 01.High Head Blues.flac
+Handled by:                   flac format module
+Length:                       7:08.04
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    75508608 bytes
+Chunk size:                   75508644 bytes
+Total size (chunk size + 8):  75508652 bytes
+Actual file size:             45486836
+File is compressed:           yes
+Compression ratio:            0.6024
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1995-05-23 Mesa, AZ - Dat 1Gen Track 02.She Gave Good Sunflower.flac
+Handled by:                   flac format module
+Length:                       6:47.26
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    71855952 bytes
+Chunk size:                   71855988 bytes
+Total size (chunk size + 8):  71855996 bytes
+Actual file size:             43232073
+File is compressed:           yes
+Compression ratio:            0.6016
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1995-05-23 Mesa, AZ - Dat 1Gen Track 03.Thick N' Thin.flac
+Handled by:                   flac format module
+Length:                       4:03.60
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    43006320 bytes
+Chunk size:                   43006356 bytes
+Total size (chunk size + 8):  43006364 bytes
+Actual file size:             25443913
+File is compressed:           yes
+Compression ratio:            0.5916
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1995-05-23 Mesa, AZ - Dat 1Gen Track 04.Chevrolet.flac
+Handled by:                   flac format module
+Length:                       4:24.52
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    46691904 bytes
+Chunk size:                   46691940 bytes
+Total size (chunk size + 8):  46691948 bytes
+Actual file size:             27420107
+File is compressed:           yes
+Compression ratio:            0.5873
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1995-05-23 Mesa, AZ - Dat 1Gen Track 05.Feathers.flac
+Handled by:                   flac format module
+Length:                       7:28.62
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    79173024 bytes
+Chunk size:                   79173060 bytes
+Total size (chunk size + 8):  79173068 bytes
+Actual file size:             45490697
+File is compressed:           yes
+Compression ratio:            0.5746
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1995-05-23 Mesa, AZ - Dat 1Gen Track 06.Jam ~ Thorn In My Pride.flac
+Handled by:                   flac format module
+Length:                       24:25.07
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    258442464 bytes
+Chunk size:                   258442500 bytes
+Total size (chunk size + 8):  258442508 bytes
+Actual file size:             153156437
+File is compressed:           yes
+Compression ratio:            0.5926
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1995-05-23 Mesa, AZ - Dat 1Gen Track 07.Motivational Speech.flac
+Handled by:                   flac format module
+Length:                       1:20.58
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    14248416 bytes
+Chunk size:                   14248452 bytes
+Total size (chunk size + 8):  14248460 bytes
+Actual file size:             7681505
+File is compressed:           yes
+Compression ratio:            0.5391
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1995-05-23 Mesa, AZ - Dat 1Gen Track 08.Evil Eye.flac
+Handled by:                   flac format module
+Length:                       5:02.49
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    53388048 bytes
+Chunk size:                   53388084 bytes
+Total size (chunk size + 8):  53388092 bytes
+Actual file size:             31558742
+File is compressed:           yes
+Compression ratio:            0.5911
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1995-05-23 Mesa, AZ - Dat 1Gen Track 09.Wiser Time.flac
+Handled by:                   flac format module
+Length:                       7:33.34
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    79989168 bytes
+Chunk size:                   79989204 bytes
+Total size (chunk size + 8):  79989212 bytes
+Actual file size:             48001279
+File is compressed:           yes
+Compression ratio:            0.6001
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1995-05-23 Mesa, AZ - Dat 1Gen Track 10.Jealous Again.flac
+Handled by:                   flac format module
+Length:                       4:59.57
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    52877664 bytes
+Chunk size:                   52877700 bytes
+Total size (chunk size + 8):  52877708 bytes
+Actual file size:             31980193
+File is compressed:           yes
+Compression ratio:            0.6048
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1995-05-23 Mesa, AZ - Dat 1Gen Track 11.Stare It Cold.flac
+Handled by:                   flac format module
+Length:                       6:06.52
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    64684704 bytes
+Chunk size:                   64684740 bytes
+Total size (chunk size + 8):  64684748 bytes
+Actual file size:             39711624
+File is compressed:           yes
+Compression ratio:            0.6139
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1995-05-23 Mesa, AZ - Dat 1Gen Track 12.Woke Up This Morning.flac
+Handled by:                   flac format module
+Length:                       4:52.47
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    51619344 bytes
+Chunk size:                   51619380 bytes
+Total size (chunk size + 8):  51619388 bytes
+Actual file size:             31017238
+File is compressed:           yes
+Compression ratio:            0.6009
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1995-05-23 Mesa, AZ - Dat 1Gen Track 13.Hard To Handle.flac
+Handled by:                   flac format module
+Length:                       4:03.74
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    43039248 bytes
+Chunk size:                   43039284 bytes
+Total size (chunk size + 8):  43039292 bytes
+Actual file size:             26240850
+File is compressed:           yes
+Compression ratio:            0.6097
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1995-05-23 Mesa, AZ - Dat 1Gen Track 14.Nonfiction.flac
+Handled by:                   flac format module
+Length:                       9:30.40
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    100642080 bytes
+Chunk size:                   100642116 bytes
+Total size (chunk size + 8):  100642124 bytes
+Actual file size:             59758225
+File is compressed:           yes
+Compression ratio:            0.5938
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1995-05-23 Mesa, AZ - Dat 1Gen Track 15.Pimper's Paradise.flac
+Handled by:                   flac format module
+Length:                       6:21.27
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    67271904 bytes
+Chunk size:                   67271940 bytes
+Total size (chunk size + 8):  67271948 bytes
+Actual file size:             37970271
+File is compressed:           yes
+Compression ratio:            0.5644
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    tbc1995-05-23 Mesa, AZ - Dat 1Gen Track 16.Remedy.flac
+Handled by:                   flac format module
+Length:                       9:27.05
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    100030560 bytes
+Chunk size:                   100030596 bytes
+Total size (chunk size + 8):  100030604 bytes
+Actual file size:             58491750
+File is compressed:           yes
+Compression ratio:            0.5847
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a

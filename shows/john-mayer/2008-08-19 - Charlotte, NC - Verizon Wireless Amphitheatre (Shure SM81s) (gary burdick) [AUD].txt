@@ -1,0 +1,75 @@
+John Mayer
+Verizon Wireless Amphitheatre
+Charlotte, NC
+Tuesday, August 19, 2008
+
+Source: Shure SM81s (xy90) > Fostex FR2-LE @ 24/48
+Location: Section 2, row T, center, ~ 8'
+Transfer: .wav > Sound Forge > Goldwave > Trader's Little Helper (FLAC level 6)
+Taped & Transferred by Gary Burdick
+
+Set List
+
+01. Introduction
+02. Bigger Than My Body
+03. Belief
+04. I Don't Trust Myself (With Loving You)
+05. johnspeak
+06. Crossroads #
+07. Wheel
+08. Free Fallin' *
+09. Good Love Is on the Way
+10. johnspeak
+11. Mercy ^
+12. Vultures
+13. johnspeak
+14. I'm Gonna Find Another You >
+15. Stitched Up @
+16. No Such Thing >
+17. Why Georgia 
+18. johnspeak
+19. Waiting On the World to Change
+20. Band Introductions
+21. Gravity
+22. Encore Break
+23. Who Did You Think I Was
+24. The Boy in the Bubble %
+25. Say
+
+# Robert Johnson cover
+* Tom Petty cover
+^ Duffy cover
+@ Herbie Hancock cover
+% Paul Simon cover
+
+Thanks to Brian Hadella for the clamp space.
+
+Compiled 8/29/08.  Updated 8/25/23.
+
+FLAC Fingerprints:
+
+jm2008-08-19t01.flac:48b4ccb3e183747209ed94c1e26498e2
+jm2008-08-19t02.flac:351a12bee73327e5651bf94d829d4160
+jm2008-08-19t03.flac:7c9a6067f36d0d47f867a4eef51d280f
+jm2008-08-19t04.flac:6a1fdcce1556a1d2ed417b0a41db82e5
+jm2008-08-19t05.flac:6c606cf976c115a16e7cef32a6b664ed
+jm2008-08-19t06.flac:8e498e72b12e38c433f05ccc690fbbee
+jm2008-08-19t07.flac:27c4c282d5b40e746431ffcc7b0e9113
+jm2008-08-19t08.flac:4d49a3ec4313f8de81ee516b2cf4d026
+jm2008-08-19t09.flac:822add53e625a444b156d2aec23320d2
+jm2008-08-19t10.flac:534fb65bafb668dd6fd48093485ef8ee
+jm2008-08-19t11.flac:4cb75c7c1d2182600ca4cb9bc1b078e5
+jm2008-08-19t12.flac:639f3426767bb776b002de068991ae2f
+jm2008-08-19t13.flac:3ce1f67c30a07e2268ec6d01915b85e9
+jm2008-08-19t14.flac:1edc02ecb615c6c936033fa8dc911885
+jm2008-08-19t15.flac:bad55d67c57d1cd8ba6d589e240b6657
+jm2008-08-19t16.flac:0841eb76737512ea7a458cfab407b764
+jm2008-08-19t17.flac:e5a40c02e1d5108a0338e15759331605
+jm2008-08-19t18.flac:7df7885fe934108df14fa07de5c08b8a
+jm2008-08-19t19.flac:364cee3eb45d4281fc00fd8ecd6bfc8d
+jm2008-08-19t20.flac:84e4b83b0e3cd1d805a70c74abb128d5
+jm2008-08-19t21.flac:2240229f05deb0142d630659e270d159
+jm2008-08-19t22.flac:d4e62be3f6ce2e177be3df5bfc84eb8a
+jm2008-08-19t23.flac:446ff5a91567e56409c2203044629322
+jm2008-08-19t24.flac:d231c5f81698354f36559b8da0e7f943
+jm2008-08-19t25.flac:93cc9ca37d9efe8898ea911f8c20bc27

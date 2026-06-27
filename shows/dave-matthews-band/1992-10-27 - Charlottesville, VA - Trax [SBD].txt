@@ -1,0 +1,81 @@
+Dave Matthews Band
+Trax
+Charlottesville, VA
+October 27, 1992
+
+Taper:       Unknown
+Source Info:    SBD -> Analog (unknown generation) -> CD
+
+Conversion: Adam Nelson (nelso222@msu.edu)
+
+CD > flac:  EAC (secure mode, all tracks 100%) -> WAV -> flac frontend
+
+(level 6)
+Tracks split using CD Wave v1.93.3
+
+
+                         ********************
+                         PRESERVE THE QUALITY
+                         DO NOT ENCODE TO MP3
+                         ********************
+
+
+Track   |       Name           |   Time (m:s)
+------------------------------------------------------------------
+d1t01 Blue Water 07:21
+d1t02 One Sweet World 05:35
+d1t03 So Much To Say 04:48
+d1t04 What Would You Say 05:29
+d1t05 Pay For What You Get * 04:13
+d1t06 Lie In Our Graves 02:13
+d1t07 Tripping Billies 06:07
+d1t08 Improv Jam        08:07
+
+d2t01 Jimi Thing 10:49
+d2t02 Recently -> 09:34
+d2t03 Ants Marching 06:03
+d2t04 All Along The Watchtower 06:47
+d2t05 Dancing Nancies 06:33
+
+
+NOTES:
+----------
+* = Dave & Carter only
+
+This is a cool show. It has some flaws, but some unique oddities that make it worth a listen.
+
+Blue Water fades in at the start. This is probably not the start of the show.
+
+Dave mentions the upcoming Halloween show and promises 5 new songs.
+
+Dave thanks Gwen Stefani and No Doubt twice. They must have opened for DMB at this show.
+
+This is a sweet Watchtower. Dave is very talkative and mentions his time playing the song while he was in Amsterdam. He beings with improvised lyrics of "Since I got a haircut I don't smoke too much weed, but every now and then I put on a wig and blow my mind away".
+
+WWYS is played very fast..."California style".
+
+Dave asks the audience what they want for songs during the encore.
+
+There is a lot of hiss in this recording. Plus on disc two the levels are really high.
+
+There is a skip in WWYS.
+
+LIOG has an 11 sec drop out.
+
+The begining of Jimi Thing is missing at the start of Disc 2.
+
+
+
+These rare older shows have been collected and converted through a collaborative effort to get them into circulation. Sometimes these shows do not have the best sound quality (and maybe that's why they aren't circulated much to begin with), but people should have access to them.
+
+Thanks to Dan Pyrik for the CD source used for the conversion.
+
+
+
+Compiled By Adam Nelson on November 8, 2006
+
+
+
+UPDATE: Received the source from Adam and decoded back to wav format to review.  Using Soundforge applied Normalization to all tracks, applied fade in to Jimi Thing, Volume decrease by 3db to OSW,WWYS,LIOG,Billies,Improv Jam,Jimi Thing,Ants and especially Watchtower due to clipping. These tracks still have some clipping and Watchtower still has even more clipping and distortion, not much more could be done there. Using Audacity, smoothed out big pop at 22 sec mark of Improv Jam but pop still noticeable although mostly removed.  LIOG has 11 sec of silence not just a drop out. Retracked and created new flac files and fingerprints.
+
+Updated and reconverted by Tom Gambichler on September 20, 2008

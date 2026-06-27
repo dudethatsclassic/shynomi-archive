@@ -21,9 +21,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Evanston, IL",
       "venue": "McCormick Auditorium",
-      "notes": "unk · aadam jacobs",
+      "notes": "unk \u00b7 aadam jacobs",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-04-02 - Evanston, IL - McCormick Auditorium (unk) (aadam jacobs) [AUD24].txt"
     },
     {
       "year": 1996,
@@ -34,7 +35,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -47,7 +48,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Echo Lounge",
-      "notes": "SM57-LC · demarestfarmer",
+      "notes": "SM57-LC \u00b7 demarestfarmer",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -62,7 +63,8 @@ const ARTIST_DATA = {
       "venue": "L'Epicerie Moderne",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-19 - Lyon, France - L'Epicerie Moderne [SBD].txt"
     }
   ],
   "misc": []

@@ -1,0 +1,14 @@
+BELLY
+HOLLYWOOD,CA:VIRGIN MEGASTORE
+2/13/95
+
+ECM737 -> D7 
+DA20 -> CDRW700 -> EAC -> Soundforge -> FLAC Frontend Level 8 
+
+01. -intro-
+02. King
+03. Now They'll Sleep
+04. Seal My Fate
+05. Superconnected
+06. Red
+07. Judas My Heart

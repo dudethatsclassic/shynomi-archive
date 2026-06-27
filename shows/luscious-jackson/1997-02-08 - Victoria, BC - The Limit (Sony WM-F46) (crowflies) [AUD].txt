@@ -1,0 +1,54 @@
+Luscious Jackson
+The Limit
+Victoria, BC
+February 8, 1997
+
+** 16 BIT **
+
+Source:  Sony FM/AM Stereo Cassette-Corder WM-F46 with supplied mic > Master cassette (Maxell XLII-S)
+Transfer:  Master cassette > Nakamichi LX-5 (azimuth adjusted) > PreSonus AudioBox USB Audio Interface > Sound Forge Pro 11.0 (Build 299) (HP Elitebook 8440P laptop) > .WAV
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [splicing, minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > iZotope 
+MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging) 
+Taped by:  "crowflies"
+Transferred & mastered by:  Dennis Orr
+
+Setlist: (1:19:48)
+01 I Want Love That's Real
+02 Chat
+03 Pelé Merengue
+04 Energy Sucker
+05 Naked Eye
+06 Strongman
+07 Chat
+08 Bam-Bam
+09 Here
+10 "Unknown"
+11 Soothe Yourself
+12 Rock Freak
+13 Mood Swing
+14 Angel
+15 Electric
+16 Deep Shag
+17 One Thing
+18 Under Your Skin
+19 Faith
+20 Chat & Tuning
+21 Surprise
+22 Encore Break #1
+- Encore #1 - 
+23 Citysong
+24 Chat
+25 Satellite 
+26 Encore Break #2
+- Encore #2 -
+27 Chat & Tuning
+28 Keep On Rockin' It
+29 Outro
+
+Jill Cunniff - vocals & bass
+Gabby Glaser - vocals & guitar 
+Vivian Trimble - keyboards & backing vocals (R.I.P. May 24, 1963 – April 4, 2023)
+Kate Schellenbach - drums
+
+Mastering Notes:
+Tape flip during applause after "Angel" - applause is faded out and a bit of the between song stuff is lost

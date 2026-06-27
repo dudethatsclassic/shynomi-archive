@@ -1,0 +1,69 @@
+Wilco
+January 21, 2012
+Tempe, AZ - ASU Gammage Auditorium
+
+A u22utoo recording.
+CA-11 > Zoom H2 (medium gain) > Audacity (boost 5 dB) > CD Wave (cut tracks) > TLC (Encode Level 8, Align on sector boundaries checked but not needed)
+
+Orchastra 2, Row 6, Seat 46 (in front of stage left stacks)
+
+Set List:
+1. One Sunday Morning
+2. Art of Almost
+3. I Might
+4. I am Trying to Break Your Heart
+5. One Wing
+6. Bull Black Nova
+7. (Was I) In Your Dreams
+8. Black moon
+9. Impossible Germany
+10. I'll fight
+11. Hotel Arizona
+12. Jesus, Etc.
+13. Born Alone
+14. Capitol City
+15. Handshake Drugs
+16. I'm Always in Love
+17. Dawned on Me
+18. Hummingbird
+19. Shot in the Arm
+
+Encore
+20. Via Chicago
+21. Whole Love
+22. Box Full of Letters
+23. California Stars
+24. Heavy Metal Drummer
+25. Walken
+26. I'm the Man Who Loves You
+
+84e4fdd61304810abbb0f613c03b1056 *Wilco2012-01-21t01.flac
+e5e128b808049be1fbe9135b4fb6a833 *Wilco2012-01-21t02.flac
+c0a62b82459d177cca8a94228d7f57f3 *Wilco2012-01-21t03.flac
+c7a42f7bf822c7f73d56c8083ef05498 *Wilco2012-01-21t04.flac
+35fdddf16d9b5fe081d5483619f434d7 *Wilco2012-01-21t05.flac
+7a7cf1a9ca1fd6a86cff96c68bc3848b *Wilco2012-01-21t06.flac
+aff94f7687793604d4308eb4d6eefeaf *Wilco2012-01-21t07.flac
+06906aff64ee0e9031a739167d0a171f *Wilco2012-01-21t08.flac
+269fece7df6d78ee7e39bd6494b840ca *Wilco2012-01-21t09.flac
+d057e1b0c2093f26ecec476eb6ae1e9f *Wilco2012-01-21t10.flac
+ecd7e00e0719ecfc212be2803db95236 *Wilco2012-01-21t11.flac
+13c6158bce6ff261b9c2b127ea9e3899 *Wilco2012-01-21t12.flac
+08b4cfadecf71023440df7e5954e42a5 *Wilco2012-01-21t13.flac
+b64ee684be5a92b894fc16ae14c00146 *Wilco2012-01-21t14.flac
+c57e226175134b50ac9d630444653508 *Wilco2012-01-21t15.flac
+e870e08d1bd9bd835c6466ef177f53be *Wilco2012-01-21t16.flac
+cbef8f03f7bf02237ef38aa628258710 *Wilco2012-01-21t17.flac
+34d7baefee5e4355d44c092cc8250378 *Wilco2012-01-21t18.flac
+d22a32f7a8b0d7c961f853112651cb2e *Wilco2012-01-21t19.flac
+89896d9a1642f1d83bc3367c77812835 *Wilco2012-01-21t20.flac
+1cc39b7fd38c7d4928ee9a046644a11f *Wilco2012-01-21t21.flac
+d20b05c425f6850060a8d1a4469ca8b0 *Wilco2012-01-21t22.flac
+fb69f38f57035a00ed4684d8b43c884c *Wilco2012-01-21t23.flac
+c5c00dd1d057264cf522c56e4df0c65d *Wilco2012-01-21t24.flac
+028bd0d23fba71c1bad39255cae7678a *Wilco2012-01-21t25.flac
+ebb5211733d5c4959c67d5fbe0ba45b8 *Wilco2012-01-21t26.flac
+
+Checksum file saved to disk.
+
+No errors occured.

@@ -1,0 +1,52 @@
+Dave Matthews Band
+Flood Zone
+Richmond, VA
+July 14, 1993
+
+Taper:      	unknown
+Source:		unknown asbd > .mp3 + ASBD (unknown generation) -> CD
+Conversion: 	Henry Hart (2025) + Adam Nelson (nelso222@msu.edu) & Henry Hart (2006)
+
+2006 source:
+CD > flac > .wav > flac (see notes below):
+	EAC (secure mode, all tracks 100%) -> WAV -> flac frontend
+	(level 6) Tracks split using CD Wave v1.93.3 > .wav > AddaWav >
+	Cool Edit Pro v2.1 > CDWav
+
+2025 source:
+.mp3 files from Andy Svenson > Adobe Audition 2024 
+
+Mixing:
+Adobe Audition minor cuts and line noise notch filters on the Set II source, mix paste Set I and Set II > CD Wave Editor v1.98 to .flac, level 8
+
+SET I:
+01 - Any Noise (Dave solo)		05:04
+02 - One Sweet World			05:35
+03 - Dancing Nancies			08:12
+04 - Typical Situation			09:45
+05 - Lie in Our Graves			07:27
+06 - Help Myself			04:33
+07 - Granny				04:22
+08 - Tripping Billies			09:29
+
+Set II:
+09 - Seek Up				15:26
+10 - Spotlight				07:00
+11 - So Much To Say			05:07
+12 - Ants Marching			05:53
+13 - Warehouse				10:11
+14 - Recently				10:50
+==========
+15 - True Reflections (w/Tri Poetics)	09:33
+16 - Halloween				07:49
+
+
+The endings of both So Much to Say and Halloween are cut.
+
+Thanks to Daniel Norman for the CD source used for the 2nd half of this conversion.
+
+Set II source compiled By Adam Nelson on October 15, 2006 and updated by Henry Hart on 10.24.2006
+
+Set I source provided by Andy Svenson in 2021 with previously uncirculated audio of this portion of the performance. Putting together these two sets, almost 20 years after I worked on the original Set II circulation, continues to motivate me by bringing more unheard live performances to the community... and is also just kinda neat. <3
+
+Compiled by Henry Hart on behalf of the dmbalmanac on 4.5.2025

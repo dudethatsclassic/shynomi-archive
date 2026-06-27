@@ -1,0 +1,84 @@
+
+Wilco 2015-09-30 (this show is actually 2015-09-29) 
+Stubb's BBQ  
+Austin, TX
+
+source:  Milab VM44 Classic > DR680mkII @ 24/48 dithered to 16bit
+lineage:  Adobe Audacity (level adjustments, fades), IzotopeRX (dither to 16bit), CDwav (track splits), TLH (flac lvl 8)
+recorded by:  Drew Falconieri  drewloo@yahoo.com
+location:  right front corner of sbd
+
+
+More... 
+Random Name Generator 
+The Joke Explained 
+You Satellite 
+Taste the Ceiling 
+Pickled Ginger 
+Where Do I Begin 
+Cold Slope 
+King of You 
+Magnetized 
+At Least That's What You Said 
+Camera 
+I Am Trying to Break Your Heart 
+Art of Almost 
+You Are My Face 
+Hummingbird 
+Box Full of Letters 
+Heavy Metal Drummer 
+I'm the Man Who Loves You 
+Dawned on Me 
+Impossible Germany 
+Red-Eyed and Blue 
+I Got You (At the End of the Century) 
+Outtasite (Outta Mind) 
+
+Encore:
+Spiders (Kidsmoke)
+
+Second Encore(Acoustic)
+Misunderstood 
+I'm Always in Love 
+It's Just That Simple 
+Casino Queen 
+California Stars 
+A Shot in the Arm 
+
+
+notes:  5dB of gain were ungracefully added to the acoustic encore since it was so low.
+        -also some bleedover from another venue near Stubb's can be heard during encore.
+
+
+a901da63ef8992c1febe565b47c3b0b6 *Wilco 2015-09-30 Milab1601.flac
+af66313455556ec517cfb5b9df9f8726 *Wilco 2015-09-30 Milab1602.flac
+d87d10f1e9cb8a80cb41577522cc3734 *Wilco 2015-09-30 Milab1603.flac
+a0baf8a5ca11b526f13e9e0a80a48370 *Wilco 2015-09-30 Milab1604.flac
+ec0b93f289abf3859c4279b181c2f6a5 *Wilco 2015-09-30 Milab1605.flac
+b55576fd263e4681c0cb4e625adc13cc *Wilco 2015-09-30 Milab1606.flac
+3e339eccda9e4ca180ccc7f648fa0fe0 *Wilco 2015-09-30 Milab1607.flac
+e68fc50b21e51d313a6aa9a247200ac6 *Wilco 2015-09-30 Milab1608.flac
+b8f197da3d5ef61b5708dee060fb5777 *Wilco 2015-09-30 Milab1609.flac
+2da9eef9ab8d81acbb249704020b9d01 *Wilco 2015-09-30 Milab1610.flac
+b408b8d13cd3273ad27229c355c3488f *Wilco 2015-09-30 Milab1611.flac
+a317a83dd90349bf6b9f4312a2e75078 *Wilco 2015-09-30 Milab1612.flac
+d27d8717fcdeb43a39fba21c95e8a2cb *Wilco 2015-09-30 Milab1613.flac
+ab3a460f5073e1049086bc1b8794a9fd *Wilco 2015-09-30 Milab1614.flac
+c1036e79f97cee753e7545ae41cb3575 *Wilco 2015-09-30 Milab1615.flac
+df3b17de37be828ea4a8ef9331e75b37 *Wilco 2015-09-30 Milab1616.flac
+46fe8537bf8d89a7a8ff77eab44965d8 *Wilco 2015-09-30 Milab1617.flac
+9126216eec05322005802d3a00ee2247 *Wilco 2015-09-30 Milab1618.flac
+cbeb5e5e2eb8982b91e78848f2594d7d *Wilco 2015-09-30 Milab1619.flac
+5dbc1b79adc60612fcb328d609ffaad8 *Wilco 2015-09-30 Milab1620.flac
+bd864e68c4e404b88ca61c9e4667f36a *Wilco 2015-09-30 Milab1621.flac
+563383598219bbc3087789db923c6987 *Wilco 2015-09-30 Milab1622.flac
+377e7367b5391662cde3f38fc8097467 *Wilco 2015-09-30 Milab1623.flac
+c3cdcd809db91668399e1d89c3b68837 *Wilco 2015-09-30 Milab1624.flac
+e1372807b8dadb003a252c5f26ef8023 *Wilco 2015-09-30 Milab1625.flac
+670c32218064d4db16314576bcb88b64 *Wilco 2015-09-30 Milab1626.flac
+a631d7277a6f732941a35e40d1b4f7c6 *Wilco 2015-09-30 Milab1627.flac
+51e484fc0f7e9425f5df375e204b75ce *Wilco 2015-09-30 Milab1628.flac
+c75fa142898f6ae34f68b9b1f0e1012b *Wilco 2015-09-30 Milab1629.flac
+ef7a9bbf9ef11f0611aec2de5903bbd1 *Wilco 2015-09-30 Milab1630.flac
+63e3e5a4e50e0b099b2defab6f883d60 *Wilco 2015-09-30 Milab1631.flac
+

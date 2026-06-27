@@ -1,0 +1,49 @@
+Wilco
+04-16-2007
+The Tivoli - Brisbane QLD Australia
+
+Source: AUD > Binaural SP Mics > Soundpro Mic Preamp >NH600 HiMD Minidisc (master)  
+Transfer: SonicStage decoded to wav with HiMDRenderer(Win) Split with EAC then FLAC encoded                                      
+Taped, Transfered, end prepared by Brendan Eales (ex_king_john@hotmail.com)
+
+It 's all there except for 
+1) the first few bars of Theologians [tape/battery change at about 60min] 
+2) some between song chat between Impossible Germany and Sky Blue Sky [pitstop at about 4 beers]
+3) crowd noise between main set and beginning of first encore
+
+No processing of signal was done. Go ahead if you think it needs it but remember everytime you create an mp3 file god kills a puppy.  But I'm a cat man so feel free.
+
+
+
+
+FILE LIST
+MAIN SET
+d1t01) You Are My Face (4:46.160)
+d1t02) I Am Trying To Break Your Heart (6:26.253)
+d1t03) Muzzle Of Bees (5:27.587)
+d1t04) Handshake Drugs (6:24.480)
+d1t05) Shot In The Arm (5:03.347)
+d1t06) Impossible Germany (5:50.680)
+d1t07) Banter (0:47.867)
+d1t08) Sky Blue Sky (3:53.627)
+d1t09) Airline To Heaven (4:38.267)
+d1t10) Ashes (6:11.733)
+d1t11) War On War (3:26.533)
+d1t12) At Least That's What You Said (5:44.707)
+d1t13) Banter (1:01.227)
+d1t14) Jesus etc (4:02.227)
+d1t15) Theologians (2:50.307)
+d1t16) Banter (0:53.307)
+d1t17) Walken (4:21.347)
+d1t18) I'm The Man Who Loves You (3:58.880)
+
+ENCORES
+d2t01) Hate It Here (5:40.830)
+d2t02) Hummingbird (3:19.413)
+d2t03) Californian Stars (4:48.973)
+d2t04) The Late Greats (2:49.987)
+d2t05) Kingpin (6:47.653)
+d2t06) Crowd Calls (2:01.360)
+d2t07) Heavy Metal Drummer (3:34.480)
+d2t08) Spiders (11:36.400)
+d2t09) Passenger Side (3:55.093)

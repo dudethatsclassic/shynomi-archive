@@ -1,0 +1,34 @@
+Sigur ros
+Eurockéennes, Belfort, France
+2006/07/02
+
+Taper : Elysium
+
+Sony Ecm 719 -> Sony MZ-NH600 (PCM)
+Sonic Stage -> Sony sound forge pro (equalization, normalization) -> Sound Forge (cut) -> Flac (8)
+
+***************************************
+** NE PAS ENCODER EN MP3 ** 
+** NE PAS VENDRE ** 
+** UNIQUEMENT DESTINE AUX ECHANGES **
+*************************************** 
+
+01-Takk
+02-Glosoli
+03-Ny batteri
+04-Saoglopur
+05-Hoppipolla
+06-Olsen olsen
+07-Se lest
+08-Vidrar vel til loftarasa
+09-Popplagia
+
+89032ee060f0cee612013c4a1cffba17 *01-Takk.flac
+f9292ce8d17df8ad5cd3630bc84e289f *02-Glosoli.flac
+339e45d4192ce087bcbbf82eb48fa71e *03-Ny batteri.flac
+2ba501a2cb95eeaf3e4babde8b2c7eff *04-Saoglopur.flac
+6c7703ddba5236a87827c5958cfbe0a3 *05-Hoppipolla.flac
+4f09ec2104abc11e4ed8641129c9aa5e *06-Olsen olsen.flac
+5d893b8170ecbda12e00d3b5c4bac204 *07-Se lest.flac
+1eee78c11f275c46c7a089e7ee04ade1 *08-Vidrar vel til loftarasa.flac
+896166626cbb5637e7c5094ca53b06de *09-Popplagia.flac

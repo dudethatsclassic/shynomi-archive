@@ -1,0 +1,32 @@
+Garbage
+Stora Scenen, Gröna Lund,
+Stockholm,
+Sweden
+2026-06-03
+June 03 2026
+
+Source: 2 x Schoeps CMC 1 U/MK41 -> Tascam FR-AV2 at 32/48
+Transfer: USB -> Soundforge (fades, dither, resample to 16/44.1)/iZotope Ozone 11 (EQ) -> cdwave -> flac (TLH)
+
+01. Intro
+02. There’s No Future in Optimism
+03. Hold
+04. Empty
+05. I Think I'm Paranoid
+06. Stupid Girl
+07. Right Between the Eyes
+08. Vow
+09. No Horses
+10. It’s All Over but the Crying
+11. Have We Met (The Void)
+12. Control
+13. Chinese Fire Horse
+14. Boys Wanna Fight
+15. Cherry Lips (Go Baby Go!)
+16. When I Grow Up
+17. Push It
+18. The Day That I Met God
+19. Special
+20. Only Happy When It Rains 
+
+pata63 2026-06-04

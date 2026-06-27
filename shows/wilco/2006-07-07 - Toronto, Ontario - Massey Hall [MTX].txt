@@ -1,0 +1,92 @@
+Wilco
+2006-07-07
+Massey Hall
+Toronto, ON
+
+
+Sources:
+------------------------------------------------------------
+KM184 > V2 \  
+            EMagic A62 > laptop (Kristal 4x24/44.1)
+soundboard / 
+
+
+Mic Config:
+------------------------------------------------------------
+(70º/20cm, 50', DFC, 7'up)
+
+
+Post-Mixing:
+------------------------------------------------------------
+CEP 2.1 (32 bit mixdown) > Waves L2 (dither) > CDWave > flac
+
+
+Editing Notes:
+------------------------------------------------------------
+The soundboard feed ended up being an odd subgroup and 
+unusable mix.  There were no vocals - mostly keys and drums
+so it was mixed in very sparingly.  Consider this an audience
+recording with a little bit of help and not a true mic/board
+mix.
+
+
+Disc 1
+-----------------------------------------
+01 Intro
+02 What Light (new)
+03 I Am Trying To Break Your Heart
+04 Handshake Drugs
+05 Impossible Germany (new)
+06 A Shot In The Arm
+07 At Least That's What You Said
+08 Misunderstood
+09 Wishful Thinking
+10 Airline To Heaven
+11 Hesitating Beauty
+12 Walken
+13 Theologians
+14 I'm The Man Who Loves You
+15 Jesus, etc.
+16 Hummingbird
+
+Disc 2 (encores)
+-----------------------------------------
+01 War On War
+02 The Late Greats
+03 chat
+04 Heavy Metal Drummer
+05 Kingpin
+06 Via Chicago
+07 Spiders (Kidsmoke)
+
+
+------------------------------------------------------------
+Recorded and mastered by David Klein <david@davidklein.ca>
+------------------------------------------------------------
+
+
+Flac Fingerprint:
+------------------------------------------------------------
+wilco2006-07-07d1t01.flac:c1cf9ffa724a7412e389b86ab9392767
+wilco2006-07-07d1t02.flac:7d54906fb2b13411597fb84766cccefb
+wilco2006-07-07d1t03.flac:d936d36bd1cafc037ecd4292e935be7b
+wilco2006-07-07d1t04.flac:35b7d967b775f87a91232c061f61a0e9
+wilco2006-07-07d1t05.flac:aada73eccb37b75e5f97bffd9433396b
+wilco2006-07-07d1t06.flac:7a6b0938b24274a30bfaecd3d779182b
+wilco2006-07-07d1t07.flac:f52b99933e51d062a732d3f89d1c9c0c
+wilco2006-07-07d1t08.flac:4b475b806f0465599e18536847547a5b
+wilco2006-07-07d1t09.flac:508225737d0b57554950abdaf75fef63
+wilco2006-07-07d1t10.flac:939b8c652e93a4e4f2a65c3b3afbda97
+wilco2006-07-07d1t11.flac:3ac2b8c674d903d2c17d5f92d46d6d0a
+wilco2006-07-07d1t12.flac:a84450bd4109980a4af139587e82b1ed
+wilco2006-07-07d1t13.flac:4d3b42d3007c6a01048e22f0a9267390
+wilco2006-07-07d1t14.flac:ae770c015b0bd8034b3be1166133972f
+wilco2006-07-07d1t15.flac:d5df579269eabf78f05e687cad6b6638
+wilco2006-07-07d1t16.flac:7a5e1ca00dbd2218ae35fab7a6dd9cc1
+wilco2006-07-07d2t01.flac:c47404778af11d80efa8304b9d6103c8
+wilco2006-07-07d2t02.flac:3d27282520dfcfc62d39a9ef15adeac0
+wilco2006-07-07d2t03.flac:26e53ee2e80e90c9bd9caac336de3b5f
+wilco2006-07-07d2t04.flac:531874acaa90001ca2f26732d754b579
+wilco2006-07-07d2t05.flac:ad89b420fe5305b0abcbe487ec1090d6
+wilco2006-07-07d2t06.flac:378c7520797dd84c012a13407e18e0e7
+wilco2006-07-07d2t07.flac:3b4b4ed5de93184fb76381892ac35e3b

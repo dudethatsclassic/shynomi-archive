@@ -1,0 +1,28 @@
+d2t09Corvette.flac:22b033140e408e2c426f375412c9fd88
+d2t10Radio King.flac:ea233a962d43e8ed4009ef9bbff8fe8d
+d2t11Listen Joe.flac:96a2e441b43f63f0ef12de3565bad2d1
+d2t12Dang Me.flac:dccaa0fb7884708dc34064a581974677
+d2t13Until You Came Along.flac:424092555357824823b1966b3f6c33db
+d2t14Until You Came Along.flac:b06e4a23279c2a1986ff00fe2d32dd89
+d1t01Looking Forward to Seeing You.flac:ab881bd76c7bb12461c05889f756ea22
+d1t02You Make It Easy.flac:eccc3b6184f6aa1c6c25fc7dfbc8512f
+d1t03V.flac:d36117d576d0897a50d670ba746bbb65
+d1t04To Call My Own.flac:7a1e0da4d6d3cca87633b5c3c571971a
+d1t05Easy To Be Hard.flac:6d5836adc371f171047bea92ef71f19d
+d1t06Can't Keep From Talking.flac:36fab92091ad843aec9720dd5572fef5
+d1t07Long Time Ago.flac:74fc2147c02e477b0d362e35e1c29b77
+d1t08Glad & Sorry.flac:036e8eaf4d5c8fc1aedc286c061491b1
+d1t09Ill Fated.flac:1ca9c62226493894746bb61b359ed3bd
+d1t11Never Felt Before.flac:4177ed7026dda72622b91481744ebe5d
+d1t12Starman.flac:cf2e29e9f0b4c9b88ccbb0ed051ef0c8
+d1t13Frying Pan Eyes.flac:1f09510bad5471c15d1b3e3cde00cffe
+d1t14Jennifer Save Me.flac:152fd59fc5ff7bb697518fb98d54167f
+d1t105-22-02.flac:0d4fa058d7a238e78ce1cc6b108fafc6
+d2t01Lost Love.flac:40791e327c111c7334d59b4856b3dabd
+d2t02Hurricane.flac:564b0e0259bff12355a3cc6490965997
+d2t03Lay Down Sally.flac:bcbd806c90731578a41892dcbe7e7006
+d2t04Won't Be Coming Home.flac:1d0b57ea574665764c86113f9c858aca
+d2t05Red Headed Stepchild.flac:7289f7dd8771aa75734444e926590c22
+d2t06Beautiful Mind.flac:f696b9918501785dc741557174e1324c
+d2t07He's a Dick.flac:82fad1b6e1d03201035f64ae068e898c
+d2t08If I Only Had A Car.flac:4447a86c1e41ff2814f85e723ceb5fad

@@ -1,0 +1,67 @@
+Wilco
+2004-08-04
+Capital Music Hall, Ottawa, ON
+
+Source: SP-BMC3 (8" apart, centre of front of balcony) > SP-SPSB1 > Sharp MD-MT15S
+Transfer: Sharp MD-MT15S > Creative Soundblaster Audigy > CDWav > Shorten-3.5.1
+
+d1t01 Hummingbird
+d1t02 Company In My Back
+d1t03 I Am Trying To Break Your Heart
+d1t04 A Shot In The Arm
+d1t05 I'm Always In Love
+d1t06 banter
+d1t07 Muzzle Of Bees
+d1t08 tuning
+d1t09 She's A Jar
+d1t10 Handshake Drugs
+d1t11 I'm The Man Who Loves You
+d1t12 Ashes Of American Flags
+d1t13 At Least That's What You Said
+d1t14 Jesus, Etc.
+
+d2t01 banter.one-and-a-quarter
+d2t02 Theologians > Poor Places [dropouts @3:52,4:00,5:17,5:24,6:46]
+d2t03 Spiders (Kidsmoke)
+d2t04 call for encore
+d2t05 The Late Greats
+d2t06 I'm A Wheel
+d2t07 California Stars
+d2t08 Passenger Side
+d2t09 The Lonely One
+
+Notes:
+1. The levels are a bit low.
+2. There was a disc change between d2t03 and d2t04.
+
+This was my first (and so far, only) Wilco show, and I think I was the only taper. 
+I don't have the titles for a lot of the songs, so I hope people more familiar with their songs can fill in the ?s.
+
+b252c182678582dae1c0a13a576a8d21 *wilco2004-08-04d1t01.shn
+18ca1c67b006140fc8aa79391b52b656 *wilco2004-08-04d1t02.shn
+41ad62b781942c7c99d8ee050e4bd3fa *wilco2004-08-04d1t03.shn
+e1d30983bd3a5c48ae1da7d1785ca75a *wilco2004-08-04d1t04.shn
+a3eefb98618f68cd92458918263a783d *wilco2004-08-04d1t05.shn
+3745d9087221c210caf7ec2f91b725b5 *wilco2004-08-04d1t06.shn
+059e37d9d4acd7a3cfff633f286760c4 *wilco2004-08-04d1t07.shn
+9f6937d5cc04985f2d9694e893e9caa6 *wilco2004-08-04d1t08.shn
+5b4322cfb41fa9261ad43d0bf24c0b7e *wilco2004-08-04d1t09.shn
+a787a46e28e667394ca085ec08c9a151 *wilco2004-08-04d1t10.shn
+51a47faae643d311b0e8379a37efa005 *wilco2004-08-04d1t11.shn
+541aaed13118e251969e13d6ea20e2a1 *wilco2004-08-04d1t12.shn
+45dc0d7f3b37ae0cf751779230d6a1c5 *wilco2004-08-04d1t13.shn
+cdef8866f7263e7f0e8df79f6e1ab2c2 *wilco2004-08-04d1t14.shn
+
+8a51827fede437a210711c080fefab5b *wilco2004-08-04d2t01.shn
+28f59888585a39f73d72d6a7f8647670 *wilco2004-08-04d2t02.shn
+636bc3ee4037d850b16fb8511837b0cd *wilco2004-08-04d2t03.shn
+42720dc4b7b7db30e81b9a820dcbba59 *wilco2004-08-04d2t04.shn
+ed4e76348d1ac0aed22409b54571514a *wilco2004-08-04d2t05.shn
+d80eafc637bc32c862d67503f7733e49 *wilco2004-08-04d2t06.shn
+31bfe07301755cd5b1d02e8c451b249d *wilco2004-08-04d2t07.shn
+40de05b7ea7287fe9c54980c0362d3f4 *wilco2004-08-04d2t08.shn
+6e8b60674283970eed3453ceeb64fee1 *wilco2004-08-04d2t09.shn
+
+Edit to add: I got the set list and matched it up to the tracks, and pasted in the contents of the .txt file. Thanks, everybody.
+
+Taped and transferred by BradM (bradmcmail@yahoo.ca).

@@ -1,0 +1,59 @@
+Dave Matthews Band
+John Paul Jones Arena (University of Virginia)
+Charlottesville, VA
+November 20, 2010
+
+
+
+Taper: Crumbo
+Location:  Earth
+Source: Schoeps CCM4 (DINa, ~17') > Sound Devices 722 (24/48)
+Conversion: Sound Devices 722 > Wavelab 6.11 (resample, dither w/MegaBitMax) > CDWav 1.98 > xACT 0.5.9 > foobar2000
+
+
+***DO NOT DISTRIBUTE IN LOSSY FORMATS***
+***24/48 Version exists in flac format*** 
+
+
+01 Intro                                                                        03:30.17
+02 You Might Die Trying *                                                       08:47.44
+03 Proudest Monkey * >                                                          07:49.51
+04 Satellite *                                                                  05:22.70
+05 Say Goodbye *                                                                09:24.32
+06 Funny The Way It Is *                                                        07:18.00
+07 Rhyme And Reason *+                                                          08:04.46
+08 Eh Hee  *                                                                    04:04.07
+09 Crush *                                                                      14:58.07
+10 Cant Stop  *                                                                 07:05.09
+11 Corn Bread *~                                                                08:44.72
+12 Digging a Ditch *                                                            05:53.24
+13 Lying In the Hands of God *                                                  18:41.25
+14 The Song That Jane Likes *                                                   05:03.08
+15 Write A Song *                                                               04:58.56
+16 Why I Am *                                                                   04:00.33
+17 Dancing Nancies *                                                            11:12.55
+18 Long Black Veil                                                              05:41.60
+19 What You Are *                                                               09:45.22
+20 Two Step *                                                                   16:30.27
+21 Encore Break                                                                 07:44.13
+22 Some Devil #                                                                 04:46.12
+23 Granny                                                                       04:34.09
+24 (#40)                                                                        01:21.10
+25 Last Stop *                                                                  16:52.71
+26 (Too Much)* > Anyone Seen The Bridge * > (Too Much)* >                       02:20.11
+27 Ants Marching *                                                              10:52.29
+
+Total: 215:27.70
+
+
+
+Notes:
+
+* Jeff Coffin
++ Joe Lawlor
+~ Trombone Shorty
+# Dave Solo
+-Thanks to David for the tix and Jason for the clamp space.
+
+
+Compiled by Crumbo 11-21-2010.

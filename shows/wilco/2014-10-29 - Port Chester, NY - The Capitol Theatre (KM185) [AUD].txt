@@ -1,0 +1,51 @@
+Wilco
+October 29,2014
+Capitol Theater
+Port Chester NY
+
+*** THIS IS A 16-BIT FILESET INTENDED FOR AUDIO CD ***
+
+SOURCE: neumann km185 (hypercardioid, roughly PAS, on stand, 9') > sound devices 702 > line out > tascam dr-05
+PROCESSING: soundforge 11.0 (tracking, fades, resample, dither) > flac 1.2.1b
+
+01 crowd
+02 Company in My Back
+03 Poor Places >
+04 Art of Almost
+05 I Might
+06 Hell Is Chrome
+07 Ashes of American Flags
+08 Hotel Arizona
+09 Pot Kettle Black
+10 Nothing'severgonnastandinmyway(again)
+11 What's the World Got in Store
+12 I'll Fight
+13 Cars Can't Escape
+14 Should've Been in Love
+15 Someday Soon
+16 It's Just That Simple
+17 You and I 
+18 Airline to Heaven *
+19 Jesus, Etc.
+20 Born Alone
+21 Laminated Cat ^
+22 Radio Cure
+23 Box Full of Letters
+24 The Late Greats
+25 Heavy Metal Drummer
+--------------------
+26 pre-encore crowd
+27 banter
+28 Walken
+29 I'm the Man Who Loves You
+--------------------
+30 pre-encore crowd
+31 True Love Will Find You in the End %
+32 That's Not the Issue 
+33 Be Not So Fearful #
+34 California Stars *
+
+* Billy Bragg & Wilco
+^ Loose Fur
+% Daniel Johnston
+# Bill Fay

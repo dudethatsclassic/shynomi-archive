@@ -1,0 +1,50 @@
+Artist:
+
+Ash
+
+Date:
+
+2004-07-11 (Sunday)
+
+
+Location:
+
+Oxegen Festival,
+Punchestown,
+County Kildare,
+Ireland.
+
+Setlist:
+
+01.Evil Eye
+02.Oh Yeah
+03.Shining Light
+04.Renegade Cavalcade
+05.Starcrossed
+06.Kung Fu
+07.Orpheus
+08.The Boys Are Back In Town
+09.Burn Baby Burn
+
+Lineup:
+
+Tim Wheeler — Guitar/Piano/Lead Vocals 
+Mark Hamilton — Bass 
+Rick McMurray — Drums 
+Charlotte Hatherley — Guitar/Piano/Backing Vocals
+
+Lineage:
+
+F.M. Stereo > Creative SB Live Soundcard > Soundforge (split tracks/cut dj talk) > wav > flac8 > Dime
+
+Fingerprint:
+
+01.Evil Eye.flac:ea3f35d30937caaf885e38d9d386ac74
+02.Oh Yeah.flac:6ae896b76fea66841e9430a05da60e29
+03.Shining Light.flac:c98ed7b9243fd43f4d5905eb67c4c8fd
+04.Renegade Cavalcade.flac:7d7ad67c18d89b0bffc50fec3b45868a
+05.Starcrossed.flac:b836af85151b8f45673b0edda5aff84b
+06.Kung Fu.flac:4ad01de53e02157e2a138d12bce0678f
+07.Orpheus.flac:f98fec1fb140fe49d6d1a7fc97f03e7a
+08.The Boys Are Back In Town.flac:8007e7c9ba07e5695637750c04f8760a
+09.Burn Baby Burn.flac:4232e35ebef1c513d5ab46e763cd4429

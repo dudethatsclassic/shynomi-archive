@@ -1,0 +1,39 @@
+Sigur Ros
+Metropolis, Montréal, QC
+10-31-2002
+[113:34]
+ 
+
+sound : A
+
+source : mini-disc master (AUD)
+  	
+format :
+remark : back
+archive : master-audio
+
+vaka
+frysta
+samskipti
+ný batterí
+njósnalagið
+salka
+svefn-g-englar 
+milano
+hafssól
+dauðalagið
+popplagið
+  	
+8:48
+9:34
+7:53
+8:12
+8:34
+7:37
+12:25
+8:09
+9:09
+16:40
+16:13
+ 
+lineage : MZ-R55 > ECM-DS70P

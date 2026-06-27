@@ -1,0 +1,71 @@
+Wilco
+Koka Booth Amphitheatre
+Cary, NC
+August 8, 2008
+
+Disc 1
+01 You Are My Face
+02 Muzzle Of Bees
+03 Shot In The Arm
+04 Radio Cure
+05 Impossible Germany
+06 Remember The Mountain Bed
+07 Handshake Drugs
+08 One Wing
+09 Jesus, Etc.
+10 Misunderstood
+11 Pot Kettle Black
+
+Disc 2
+01 Poor Places
+02 Reservation
+03 Spiders
+Encore 1
+04 Hate It Here *
+05 Walken *
+06 I'm The Man Who Loves You *
+07 Monday *
+08 Outta Site Outta Mind
+Encore 2
+09 Late Greats
+10 Heavy Metal Drummer
+11 Red-Eyed & Blue
+12 Hoodoo Voodoo *
+
+* with Total Pros horns
+
+Source:  Schoeps MK4 (ORTF) > KC5 > CMC6 > Lunatec V3 > Marantz PMD-671 at 24/48
+
+Location: FOB just right of center
+
+Conversion:  24 bit 48 k wav files resampled to 44.1 with Sound Forge 6.0 at highest quality settings and dithered to 16 bit, split into tracks with CD Wave, fades at beginning & end of show with Sound Forge 6.0, FLAC files generated with FLAC front end.
+
+Recording & conversion by Robbie Dunn
+
+
+------------ FLAC Fingerprint -----------------------------
+
+wilco2008-08-08d1t01.flac:ccf9b7a7b70d67d77ad68c68de282e55
+wilco2008-08-08d1t02.flac:674d96059a90db5f03934a38e36fb41b
+wilco2008-08-08d1t03.flac:dcd939e7f903fb43940e7fcac33feaa8
+wilco2008-08-08d1t04.flac:1b1a4615209b80406d5c22fde687f7db
+wilco2008-08-08d1t05.flac:50f6a8c8f399a782586928d096774ca0
+wilco2008-08-08d1t06.flac:52f1047e49ce316d940ff841898d8c4f
+wilco2008-08-08d1t07.flac:028b4e37d757f42d552aea06854791ea
+wilco2008-08-08d1t08.flac:85e8ca4c466a574b2377dbdd6c1caaa5
+wilco2008-08-08d1t09.flac:35e155ce5e6bee5c6be57ed396127171
+wilco2008-08-08d1t10.flac:41fd31f77fe9583ab3c035e633e57ec9
+wilco2008-08-08d1t11.flac:ff22cdf91b8860edf23082d426dfcdc4
+wilco2008-08-08d2t01.flac:04533b446ddb8e9f8a83f4ae787c4162
+wilco2008-08-08d2t02.flac:ad8feaf276e0f7eba3fcd190037092b3
+wilco2008-08-08d2t03.flac:9e2d28a926be76ba1f6a67712190cadb
+wilco2008-08-08d2t04.flac:5940801e0aa93e29548cbe90de6f4d9a
+wilco2008-08-08d2t05.flac:3c1c76e888f95182ac613bbad1b79437
+wilco2008-08-08d2t06.flac:8808d53a8394519e5d67504ef4050448
+wilco2008-08-08d2t07.flac:6523bad9088d2b88fa8075f46ba6f66d
+wilco2008-08-08d2t08.flac:4d4ae6d7e0f68e6822427b945ad373af
+wilco2008-08-08d2t09.flac:1771ff54d3e17b48bd1e02935b429990
+wilco2008-08-08d2t10.flac:f604af1efcf364a2e962e98f0b527d31
+wilco2008-08-08d2t11.flac:f449700c96ca3ea0aa7ba576734d02d5
+wilco2008-08-08d2t12.flac:16a3c051f13fdf559dc0ab44a6fbf466
+

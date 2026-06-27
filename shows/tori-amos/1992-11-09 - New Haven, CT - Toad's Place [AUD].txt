@@ -1,0 +1,65 @@
+Tori Amos
+November 9, 1992
+Toad's Place
+New Haven, CT
+
+Seat Location: 	2nd row center
+Source: 	CM-S20 > Aiwa HJ-800S (mic in, autogain) > Cassette 
+		master
+Transfer: 	Sony TC-RX370 > SB16 (analog) > CD Wave > Cool Edit 
+		96 (dehissing)
+SHN: 		wav > CD Wave > mkwACT > shn
+
+Taped and Seeded by woj(@smoe.org)
+
+Toad's had the chairs out for this show, one of the few times I've
+been there when they did. This made taping a lot easier.
+
+As usual, the Toad's crowd was rowdy so there is a lot of audience
+interaction. Fortunately, it's more entertaining than irritating.
+
+The background hum is Toad's most excellent ventilation system. I
+tried removing it but doing so made Tori's vocals distractingly 
+burbly, so I opted to just only remove the tape hiss instead. The
+hum is not bad -- you'll only hear it at high volumes and through
+headphones.
+
+The tape I used to record the show was not tightly wound so there 
+are a couple spots where the sound "burps" when it unwound quickly. 
+These whirrings are noted below.
+
+Finally, you get to hear me yell for "Sweet Dreams" at the beginning
+of the first encore. Hey, even a taper has to have a little fun too!
+
+Despite all the above caveats, this is still a good recording!
+
+Setlist:
+
+Disc 1:
+
+ 1. intro (left channel is a bit wonky for first 1:30)
+ 2. Sugar
+ 3. Crucify
+ 4. chat - grandmother
+ 5. Silent All These Years
+ 6. Precious Things
+ 7. Happy Phantom
+ 8. chat - first kiss
+ 9. Leather
+10. Tear in Your Hand (major tape whirr near beginning)
+11. chat - minister's daughter
+12. Whole Lotta Love / Thank You
+
+Disc 2:
+
+ 1. Upside Down
+ 2. Me And A Gun
+ 3. Winter
+
+First Encore:
+ 4. Flying Dutchman (slight tape whirr at beginning)
+ 5. Smells Like Teen Spirt
+
+Second Encore:
+ 6. China (motor whirr near end)
+ 7. Mother

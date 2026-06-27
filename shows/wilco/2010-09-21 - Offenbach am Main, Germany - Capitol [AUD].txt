@@ -1,0 +1,50 @@
+WILCO
+2010-09-21
+Capitol
+Offenbach am Main, Germany
+
+Source:     MBHO MBP 603 A / KA 200 N > Sound Devices MP-2 > Edirol R-09HR
+Mic Config: A-B
+Location:   ~20m from the stage, center
+Transfer:   Master WAVs > FLAC V1.2.1
+Editing:    Volume boost and EQ in Apple Logic Pro V9.1.1
+            Fades in Audiofile Engineering Wave Editor V1.4.6
+Resampling: 96.0 kHz > 44.1 kHz resampling using iZotope 64-bit SRC
+Dithering:  MBIT+
+
+Disc 1:
+01 (Intro)
+02 Wilco (The Song)
+03 Ashes of American Flags
+04 Company in My Back
+05 I Am Trying to Break Your Heart
+06 Bull Black Nova
+07 You Are My Face
+08 > A Shot in the Arm
+09 One Wing
+10 Impossible Germany
+11 Poor Places
+12 > Spiders (Kidsmoke)
+13 [Fade Out]
+
+Disc 2:
+01 [Fade In]
+02 Misunderstood
+03 It's Just That Simple
+04 Handshake Drugs
+05 Heavy Metal Drummer
+06 Jesus, etc.
+07 You Never Know
+08 Walken
+09 I'm the Man Who Loves You
+10 (Encore Break)
+11 Hate It Here
+12 Red-Eyed and Blue
+13 > I Got You (At the End of the Century)
+14 Outtasite (Outta Mind)
+15 > Hoodoo Voodoo
+
+Notes:
+This is the 16 bit/44.1 kHz version of this recording.
+To seamlessly join the two discs, simply remove the fade tracks D1T13
+and D2T01.

@@ -1,0 +1,70 @@
+WILCO
+Joe's Field, Mass MOCA (Museum of Contemporary Art)
+Part of the Solid Sound Festival
+North Adams MA 06-23-2017
+
+(Being There Set)
+
+01. Nick Offerman Intro
+02. Misunderstood
+03. Far Far Away
+04. Monday 
+05. Outtasite (Outta Mind)
+06. Forget The Flowers
+07. Red-Eyed & Blue
+08. I Got You (At The End Of The Century)
+09. What's The World Got In Store?
+10. Hotel Arizona
+11. Say You Miss Me
+12. Sunken Treasure 
+13. Someday Soon
+14. Outta Mind (Outta Sight)
+15. Someone Else's Song
+16. Kingpin
+17. Was I In Your Dreams
+18. Why Would You Wanna Live
+19. The Lonely 1 
+20. Dreamer In My Dreams
+21. Crowd Break
+
+(YHF Set)
+
+22. I Am Trying To Break Heart
+23. Kamera
+24. Radio Cure
+25. War On War
+26. Jesus, Etc
+27. Ashes Of American Flags
+28. Heavy Metal Drummer
+29. I'm The Man Who Loves You
+30. Pot Kettle Black
+31. Poor Places
+32. Reservations 
+
+Field:
+Tracks 1-31:
+AKG 460B/ck8 shotguns (PAS) @ soundboard
+MiAGi II Silver Cables->
+Tascam DR70 24/96
+
+Tracks 32-33
+AKG ck63 hypercardioids DIN @ soundboard
+nbob actives->Naiant pfa->
+Fostex FR2-LE (Oade wmod) 24/48
+
+Post:
+Fade / Normalize & Downsample in Audacity
+Track Splits in CDWave
+FLAC’ed & Torrent in TLH
+Tagged in foobar
+
+Trade Freely / Never for Sale
+Support The Artists & Live Venues:
+
+www.wilcoworld.net
+www.solidsoundfestival.com
+www.massmoca.org
+
+Recorded / Tracked / Seeded by
+Bob Hundertmark June 2017 
+

@@ -1,0 +1,38 @@
+Wilco
+September 18, 2004
+Stubb's BBQ
+Austin TX
+
+source:  mbho 603a/ka200n > sound devices mp2 > modSBM (48k) > d8
+transfer:  archive python > dat2wav > sf 4.5 (tracking, downsampling) > shntool > flac
+
+1. Hummingbird   
+2. Muzzle Of Bees   
+3. Company In My Back   
+4. I Am Trying To Break Your Heart   
+5. A Shot In The Arm   
+6. Handshake Drugs   
+7. Hell Is Chrome   
+8. At Least That's What You Said   
+9. Jesus, Etc.   
+10. War On War   
+11. Via Chicago   
+12. How To Fight Loneliness   
+13. A Magazine Called Sunset   
+14. Theologians   
+15. Poor Places   
+16. Spiders (Kidsmoke)   
+
+Encore 1:
+17. The Late Greats   
+18. Kingpin   
+19. I'm The Man Who Loves You (with Calexico horns)   
+
+Encore 2:
+20. I'm A Wheel   
+21. Christ For President   
+22. California Stars (with Calexico horns)
+
+props to stan, amy, chris, philip, darkmeevish, and black francis.
+
+i'd like to put it on record that i sacrificed seeing the pixies in order to catch this show.  was it worth it?  yes!  nels cline is the man!

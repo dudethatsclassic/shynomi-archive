@@ -1,0 +1,32 @@
+The Black Crowes
+Convocation Center, Eastern Michigan University, Ypsilanti MI
+October 11, 2001
+
+recording info:
+Sony 959 > D8 DAT Master @ 16bit/44.1kHz
+- on floor next to board
+
+processing:
+DAT Master > tascam da45-hr > waveterminal > adobe audition > cdwav > tlh flac 8
+
+these are 16bit/44.1kHz flac files
+
+01. No Speak No Slave
+02. Sting Me
+03. Go Faster
+04. Remedy
+05. Cosmic Friend
+06. One Mirror Too Many
+07. High Head Blues
+08. Hotel Illness
+09. Sometimes Salvation
+10. How Much For Your Wings
+11. Cypress Tree
+12. Buttermilk Waltz Jam > Thorn's Progress Jam > Thorn In My Pride
+13. Soul Singing
+14. Wiser Time
+15. Thick N' Thin
+16. Twice As Hard
+17. Hard To Handle
+18. Ballad In Urgency
+19. Virtue And Vice

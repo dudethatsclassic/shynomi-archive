@@ -1,0 +1,59 @@
+Sigur Ros
+2008-07-05
+Werchter
+Belgium
+
+Taper      : bnz
+Source     : at943 - SP-SPSB-6 (Bass Roll-off at 107 HZ) - Edirol R09 at 16 bit 44.1 Khz
+Transfer   : SD card > SDslot > PC > Audition 1.5 > 10 db boost > Cdwave > TLH > FLAC (8)
+Total Time : 75:30 min
+Position   : FOB, 2 meters right of center, mics on hat
+
+01 Intro
+02 Svefn-g-englar
+03 Ny batterí
+04 Glósóli
+05 Sæglópur
+06 Vid spilum endalaust
+07 Hoppípolla / Med blódnasir
+08 Inní mér syngur vitleysingur
+09 Hafsól
+10 Gobbledigook
+11 Popplagid
+
+Do not sell, do not convert to lossy formats, do not remaster ect ect.
+
+Enjoy !!
+
+bnz, 2008-07-08
+
+SR_2008-07-05_Werchter_01_Intro.wav:  successfully encoded to 'SR_2008-07-05_Werchter_01_Intro.flac'
+SR_2008-07-05_Werchter_02_Svefn-g-englar.wav:  successfully encoded to 'SR_2008-07-05_Werchter_02_Svefn-g-englar.flac'
+SR_2008-07-05_Werchter_03_Ny Batterí.wav:  successfully encoded to 'SR_2008-07-05_Werchter_03_Ny Batterí.flac'
+SR_2008-07-05_Werchter_04_Glósóli.wav:  successfully encoded to 'SR_2008-07-05_Werchter_04_Glósóli.flac'
+SR_2008-07-05_Werchter_05_Sæglópur.wav:  successfully encoded to 'SR_2008-07-05_Werchter_05_Sæglópur.flac'
+SR_2008-07-05_Werchter_06_Vid spilum endalaust.wav:  successfully encoded to 'SR_2008-07-05_Werchter_06_Vid spilum endalaust.flac'
+SR_2008-07-05_Werchter_07_Hoppípolla_Med blódnasir.wav:  successfully encoded to 'SR_2008-07-05_Werchter_07_Hoppípolla_Med blódnasir.flac'
+SR_2008-07-05_Werchter_08_Inní mér syngur vitleysingur.wav:  successfully encoded to 'SR_2008-07-05_Werchter_08_Inní mér syngur vitleysingur.flac'
+SR_2008-07-05_Werchter_09_Hafsól.wav:  successfully encoded to 'SR_2008-07-05_Werchter_09_Hafsól.flac'
+SR_2008-07-05_Werchter_10_Gobbledigook.wav:  successfully encoded to 'SR_2008-07-05_Werchter_10_Gobbledigook.flac'
+SR_2008-07-05_Werchter_11_Popplagid.wav:  successfully encoded to 'SR_2008-07-05_Werchter_11_Popplagid.flac'
+
+No errors occured.
+
+
+SR_2008-07-05_Werchter_01_Intro.flac:d62e25db4764d57f051ad133b653df53
+SR_2008-07-05_Werchter_02_Svefn-g-englar.flac:664c57735bc6d5c3deff442202626817
+SR_2008-07-05_Werchter_03_Ny Batterí.flac:68a0b522e2a040a35ef34ce86e8cb4fa
+SR_2008-07-05_Werchter_04_Glósóli.flac:2ae676df64eed938221ff81049d9e7af
+SR_2008-07-05_Werchter_05_Sæglópur.flac:474bd0c47caa142fb2ab0223155e4b5a
+SR_2008-07-05_Werchter_06_Vid spilum endalaust.flac:f6648a3ec43000cddb93c7c922532c3f
+SR_2008-07-05_Werchter_07_Hoppípolla_Med blódnasir.flac:e9c920d5f35bc28593631937c6227fe0
+SR_2008-07-05_Werchter_08_Inní mér syngur vitleysingur.flac:5ee1dce146d001c18573a1251753977e
+SR_2008-07-05_Werchter_09_Hafsól.flac:42ebd4e3d13c9869756eb1a9c7ae1ccf
+SR_2008-07-05_Werchter_10_Gobbledigook.flac:e946337b19d779f0b0f7502f863b54d4
+SR_2008-07-05_Werchter_11_Popplagid.flac:db69d17756a0c656e5f4324c5ab18ebf
+
+No errors occured.
+
+Checksum file saved to disk.

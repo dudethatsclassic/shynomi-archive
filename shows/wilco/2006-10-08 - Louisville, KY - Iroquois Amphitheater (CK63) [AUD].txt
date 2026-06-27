@@ -1,0 +1,47 @@
+Wilco
+10.8.06
+Iroquois Ampitheater
+Louisville, KY
+
+Taper:		Jon Ice <ice@dmbtaper.com>
+Source:		ck 63 > Active Cables > JK Labs DVC > Apogee Mini-Me > Microtracker @ 24/48
+Location:	Sec 2, Row H, Seat 110/111 @ ~ 8'
+Conversion:	Spark XL v2.82 to track, resample, and dither.  xACT to create flac file set.
+
+Disc 1
+
+01 Intro                           01:53.14
+02 A Shot In The Arm               04:51.31
+03 Handshake Drugs                 06:48.48
+04 Impossible Germany              05:57.65
+05 I Am Trying To Break Your Heart 06:30.18
+06 Muzzle of Bees                  05:00.10
+07 At Least That's What You Said   06:26.17
+08 Jesus, Etc.                     04:17.47
+
+Disc 1 Total: 41:45.25
+
+
+Disc 2
+
+01 Airline To Heaven               04:31.29
+02 Christ For President            02:54.65
+03 Walken                          04:55.62
+04 Theologians                     03:16.39
+05 I'm The Man Who Loves You       04:04.36
+06 Poor Places                     05:21.50
+07 Reservations                    03:43.14
+08 Hummingbird                     06:35.67
+09 Late Greats                     02:46.39
+10 Ashes of American Flags         06:17.27
+11 War On War                      05:45.49
+12 Heavy Metal Drummer             03:26.65
+13 New Song                        05:22.46
+14 Kingpin                         08:28.60
+
+Disc 2 Total: 67:31.48
+
+Notes:
+Thanks to Brian for letting me clamp.
+
+compiled by Jon Ice <10.9.06>

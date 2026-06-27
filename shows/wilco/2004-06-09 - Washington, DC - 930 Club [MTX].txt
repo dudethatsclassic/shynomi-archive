@@ -1,0 +1,92 @@
+Wilco
+June 9, 2004
+9:30 Club
+Washington, DC
+
+source: DSBD + DAUD Matrix
+
+SBD source:
+SBD > 1/4" - RCA > Sony Sbm-1 (stock) @ 48k > d8
+transfer:  archive python > dat2wav > sf 4.5 (trims)
+taped and transferred by sleepypedro
+resampled to 44.1khz in adobe audition > tracked in cdwav
+
+AUD source:
+DPA 4022 (OTS, ORTF) > Oade m248 > V3 > d-8 (@44.1khz)
+taped by Jonny Schuster
+transfer: Sony R-300 > sek'd prodif plus > wavelab 4.0c 
+by Damon Monterisi
+Flaw removed from aud source at 1:56-1:58 of The Late Greats
+
+Aud source gain reduced by 8db in Wavelab 5.00a
+Matrix created in Wavelab 5.00a by Damon Monterisi
+tracked in cdwav
+Seeded by Damon Monterisi
+
+
+***************PLEASE DO NOT ENCODE TO MP3******************************
+
+Disc 1
+Disc One:
+01. The Late Greats
+02. Company In My back
+03. Hummingbird
+04. At Least That's What You Said
+05. War On War
+06. I Am Trying To Break Your Heart
+07. Jesus, etc.
+08. I'm Always In Love
+09. Hell Is Chrome
+10. Muzzle of Bees
+11. Shot In The Arm
+12. Radio Cure
+13. I'm The Man Who Loves You
+14. One By One
+15. Poor Places
+16. Handshake Drugs
+
+Disc Two:
+Encore 1:
+01. Theologians
+02. California Stars
+03. Heavy Metal Drummer
+04. I'm A Wheel
+Encore 2:
+05. Via Chicago
+06. Spiders (Kidsmoke)
+07. The Lonely 1
+Encore 3:
+08. Happy Birthday to Frankie
+09. Passenger Side
+
+===========FLAC FINGERPRINT======================
+wilco2004-06-09-matrix-d1t01.flac:7d1a731e141b4f33b6edd148daa9607b
+wilco2004-06-09-matrix-d1t02.flac:4ff0c4af7a4fa9b16126b58785194a33
+wilco2004-06-09-matrix-d1t03.flac:3ff80158de7bdbc25108ba9ad1038bde
+wilco2004-06-09-matrix-d1t04.flac:cf9f8653658d9f747609a740f4120852
+wilco2004-06-09-matrix-d1t05.flac:c31093f32df6aa3e4ae34e78926b3c0c
+wilco2004-06-09-matrix-d1t06.flac:296fb3c41372d145c79a5b0965a15c6d
+wilco2004-06-09-matrix-d1t07.flac:05fc3ba9a38c07c60e632b2a5c9e118e
+wilco2004-06-09-matrix-d1t08.flac:a5b1d8861b8ca5852d7357142ca2121d
+wilco2004-06-09-matrix-d1t09.flac:ddd414d66f4e05302d136a1d12bbc6dc
+wilco2004-06-09-matrix-d1t10.flac:a2fe835e33fb47f63747b34a2d3a9728
+wilco2004-06-09-matrix-d1t11.flac:9fbdfd66b33b5d2272cdf519057a7447
+wilco2004-06-09-matrix-d1t12.flac:5076bcfd6d9f7062e9e30936d23b8c15
+wilco2004-06-09-matrix-d1t13.flac:d96f3b2972635a8087dcd01b33896a4d
+wilco2004-06-09-matrix-d1t14.flac:9789c232ff1c598ee89ae20bf1775219
+wilco2004-06-09-matrix-d1t15.flac:4997251ea4f24b4478b54f53f82306cc
+wilco2004-06-09-matrix-d1t16.flac:81023259b61fccd188abb143225c9a07
+wilco2004-06-09-matrix-d2t01.flac:1c5c01cdcccb5a6d8d4bedcd4b833243
+wilco2004-06-09-matrix-d2t02.flac:38208307336f152601d4f94484c45574
+wilco2004-06-09-matrix-d2t03.flac:9061f9025a76b368a7f52fd07e72e94b
+wilco2004-06-09-matrix-d2t04.flac:bf09b884051077a3b31721d2d18bdd23
+wilco2004-06-09-matrix-d2t05.flac:a8e0929af7852327e0c3c09f82d3f73a
+wilco2004-06-09-matrix-d2t06.flac:a57bdefd7ad0e06182c25ac5f529eb02
+wilco2004-06-09-matrix-d2t07.flac:7e041bd226d71f380abd6f534e406251
+wilco2004-06-09-matrix-d2t08.flac:6b56edaa43aa7412c6290e7a2aecf1ee
+wilco2004-06-09-matrix-d2t09.flac:6edd4ef85290cd746fca408541fad8fe
+
+
+
+
+

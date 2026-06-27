@@ -1,0 +1,48 @@
+Wilco
+2009-07-03
+Red Rocks
+Morrison, CO
+
+### 16 BIT VERSION - 24 BIT ALSO AVAILABLE ###
+
+SOURCE: Beyerdynamic MC930 > Fostex FR2LE (@ 24/48)
+
+LOCATION: Left side of SBD
+
+CONVERSION: Sound Forge 9.0 (Fades + EQ + Waves L3 Multimaximizer) > CD Wave (tracking) > r8brain (convert to 16/44.1) > Traders Little Helper (FLAC level 6) > Foobar 2000 (tagging)
+
+SETLIST:
+
+1. Intro (Price Is Right Theme)
+2. Wilco (The Song)
+3. I Am Trying To Break Your Heart
+4. Bull Black Nova
+5. You Are My Face
+6. One Wing
+7. A Shot In The Arm
+8. At Least That's What You Said
+9. Deeper Down
+10. Impossible Germany
+11. It's Just That Simple
+12. Can't Stand It
+13. Jesus, Etc.
+14. Shouldn't Be Ashamed
+15. Hate It Here
+16. Handshake Drugs
+17. You Never Know
+18. Walken
+19. I'm The Man Who Loves You
+20. Everlasting Everything
+
+Encore 1:
+21. [Encore Break]
+22. Ashes Of American Flags
+23. California Stars (with Okkervil River)
+24. Misunderstood
+25. Spiders (Kidsmoke)
+26. Hummingbird
+
+Encore 2:
+27. The Late Greats
+28. Heavy Metal Drummer
+29. Hoodoo Voodoo

@@ -1,0 +1,198 @@
+Garbage
+7th St. Entry
+Minneapolis, Mn.
+5 November 1995
+
+REV 105 Interview
+
+This is an audience recording of their first ever show done in a very small room attached to the First Avenue club in Minneapolis. 
+Also included is a short interview they did at a local radio station the day of the show. 
+I have no recollection of where I got this recording, but I most likely got it on cassette. 
+Transferred from cassette by me using a Nakamichi MR-2 to a Tascam CDRW-700. Cassette > CD > EAC > FLAC 6.  
+It is a very good audience recording, altho they obviously took out almost all the space in between tracks, for some unknown reason. 
+So there is no between song banter. I would rate it an 8 overall. No artwork. The show runs 63:08, the interview 6:40.
+
+Track listing:
+
+Supervixen
+Stupid Girl
+My Lover's Box
+As Heaven Is Wide
+Fix Me Now
+Subhuman
+A Stroke of Luck
+Trip My Wire
+Queer
+Only Happy When It Rains
+Not My Idea
+Vow
+Milk
+Girl Don't Come
+
+Interview
+
+EAC extraction logfile from 14. September 2006, 22:00 for CD
+ / 
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0  LUN: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : C:\Documents and Settings\Owner\My Documents\flac112a.exe   (User Defined Encoder)
+                     128 kBit/s
+                     Additional command line options : -8 -V -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+   Filename C:\Documents and Settings\Owner\Desktop\Track01.wav
+
+   Peak level 100.0 %
+   Track quality 99.7 %
+   Copy CRC 85AE6CBC
+   Copy OK
+
+Track  2
+   Filename C:\Documents and Settings\Owner\Desktop\Track02.wav
+
+   Peak level 68.5 %
+   Track quality 99.5 %
+   Copy CRC 080295A4
+   Copy OK
+
+Track  3
+   Filename C:\Documents and Settings\Owner\Desktop\Track03.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 41A8E93C
+   Copy OK
+
+Track  4
+   Filename C:\Documents and Settings\Owner\Desktop\Track04.wav
+
+   Peak level 100.0 %
+   Track quality 98.9 %
+   Copy CRC 7268054B
+   Copy OK
+
+Track  5
+   Filename C:\Documents and Settings\Owner\Desktop\Track05.wav
+
+   Peak level 81.3 %
+   Track quality 98.9 %
+   Copy CRC 1CB0F2D7
+   Copy OK
+
+Track  6
+   Filename C:\Documents and Settings\Owner\Desktop\Track06.wav
+
+   Peak level 92.8 %
+   Track quality 98.9 %
+   Copy CRC 6CECE591
+   Copy OK
+
+Track  7
+   Filename C:\Documents and Settings\Owner\Desktop\Track07.wav
+
+   Peak level 91.4 %
+   Track quality 99.0 %
+   Copy CRC 7DA833F6
+   Copy OK
+
+Track  8
+   Filename C:\Documents and Settings\Owner\Desktop\Track08.wav
+
+   Peak level 100.0 %
+   Track quality 99.0 %
+   Copy CRC EF704178
+   Copy OK
+
+Track  9
+   Filename C:\Documents and Settings\Owner\Desktop\Track09.wav
+
+   Peak level 82.9 %
+   Track quality 99.0 %
+   Copy CRC 8CCD0EEC
+   Copy OK
+
+Track 10
+   Filename C:\Documents and Settings\Owner\Desktop\Track10.wav
+
+   Suspicious position 0:00:00
+
+   Peak level 100.0 %
+   Track quality 98.7 %
+   Copy CRC EB067350
+   Copy finished
+
+Track 11
+   Filename C:\Documents and Settings\Owner\Desktop\Track11.wav
+
+   Peak level 100.0 %
+   Track quality 98.9 %
+   Copy CRC F450CD26
+   Copy OK
+
+Track 12
+   Filename C:\Documents and Settings\Owner\Desktop\Track12.wav
+
+   Suspicious position 0:00:00
+
+   Peak level 100.0 %
+   Track quality 98.8 %
+   Copy CRC 98E8CD70
+   Copy finished
+
+Track 13
+   Filename C:\Documents and Settings\Owner\Desktop\Track13.wav
+
+   Peak level 100.0 %
+   Track quality 98.7 %
+   Copy CRC 1E524115
+   Copy OK
+
+Track 14
+   Filename C:\Documents and Settings\Owner\Desktop\Track14.wav
+
+   Suspicious position 0:00:00
+
+   Peak level 100.0 %
+   Track quality 98.1 %
+   Copy CRC 59B878A7
+   Copy finished
+
+Track 15
+   Filename C:\Documents and Settings\Owner\Desktop\Track15Int.wav
+
+   Peak level 100.0 %
+   Track quality 98.9 %
+   Copy CRC E8E38476
+   Copy OK
+
+There were errors
+
+
+End of status report
+
+
+Track15Int.flac:9661145b39a2b02ab77a2ab447b3a334
+Track01.flac:cf81edd52546f45f86f86b80651660f6
+Track02.flac:34d5c8322b65d8b3258b1c0c76ceecad
+Track03.flac:2d3f0fcda626af22c57a326190e24924
+Track04.flac:faede2d8f692bb7d3cd05464ae3fdc7c
+Track05.flac:c1f35baff8d0dd2f14df1814d13bbfb6
+Track06.flac:1cd277ce476bad938f0b4388b0fb1f38
+Track07.flac:bd89e21816b4b438ba92184d4758711e
+Track08.flac:69a29a53351f10f3c3cb33ca8747f746
+Track09.flac:5afa5ef3859aa9fdedb8649eb5e6c601
+Track10.flac:cc0d3113558b0c9a8a74b312e2bf695a
+Track11.flac:e0809052207e10806131f71f3f47eeff
+Track12.flac:0c52ef09963dd9f256834b748cac2051
+Track13.flac:35b5a60949311803866e138b0da11712
+Track14.flac:505e541e5c242bfb65d9f742022f37a4

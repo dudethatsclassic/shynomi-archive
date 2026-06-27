@@ -1,0 +1,28 @@
+Wilco
+Circus Krone
+Munich, Germany
+September 24, 2010
+
+Lineage: DVB-S broadcast -> transport stream (MP2, 320Kbps, 48kHz, 2ch) -> mp3DirectCut -> MP2 tracks
+
+Source: DVB-S radio
+Station: NDR 2
+Airdate: April 18th, 2011, 9:00 p.m. CET
+Duration: 52:57 min.
+Data size: 121 MB
+
+Tracklisting:
+01 Intro (1:07)
+02 Wilco (The Song) (3:24)
+03 Ashes of American Flags (5:47)
+04 One Wing (3:55)
+05 You Are My Face (4:46)
+06 A Shot in the Arm (5:26)
+07 Impossible Germany (6:27)
+08 Everlasting (4:08)
+09 I'll Fight (4:53)
+10 Jesus etc. (4:14)
+11. Walken (4:42)
+12. You Never Know (4:08)
+
+Recorded and initially seeded on Dime by tcb_guy

@@ -1,0 +1,12 @@
+shntool 3.0.4
+Copyright (C) 2000-2007 Jason Jordan <shnutils@freeshell.org>
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:39.34       49295612 B   ---   --   ---xx   flac  0.4552  wilco1998-10-03t01.flac
+     3:16.39       34666172 B   ---   --   ---xx   flac  0.4866  wilco1998-10-03t02.flac
+     3:25.53       36286700 B   ---   --   ---xx   flac  0.4906  wilco1998-10-03t03.flac
+     2:54.53       30818300 B   ---   --   ---xx   flac  0.5571  wilco1998-10-03t04.flac
+     4:13.04       44638652 B   ---   --   ---xx   flac  0.4895  wilco1998-10-03t05.flac
+     3:05.73       32805740 B   ---   --   ---xx   flac  0.5236  wilco1998-10-03t06.flac
+     4:28.01       47277596 B   ---   --   ---xx   flac  0.5674  wilco1998-10-03t07.flac
+    26:03.32      275788772 B                            0.5081  (7 files)

@@ -1,0 +1,41 @@
+Wilco
+June 16, 2005
+Telluride Bluegrass Festival
+Telluride, CO
+
+Schoeps CCM5 > Lunatec V3 > Digigram VX-Pocket > Sony Vaio > 24bit/48k WAV
+
+-mics run ORTF/FOB center on 7'stand and 40' in front of SBD area 
+-source files resampled, dithered, edited and converted to 16bit/44.1k FLAC
+
+===RECORDING/MASTERING: NASHPHIL===
+
+
+01  Company In My Back   
+02  Muzzle Of Bees   
+03  Airline To Heaven   
+04  I Am Trying To Break Your Heart   
+05  At Least That's What You Said   
+06  Handshake Drugs   
+07  A Shot In The Arm   
+08  Bob Dylan's 49th Beard   
+09  Sunken Treasure   
+10  Hummingbird   
+11  Jesus Etc.   
+12  Hesitating Beauty   
+13  I'm The Man Who Loves You   
+14  Spiders (Kidsmoke)   
+ (E)
+15  Remember The Mountain Bed   
+16  Heavy Metal Drummer   
+17  Kingpin   
+
+-----------------------------------
+
+suggested track split is after t14
+I grabbed this years ago from the now defunkt BlueGrassBox
+and, having not stored the FLACs for whatever reason, had to
+re-EAC the whole thing, no problem as the continous recording
+was stored on a 90 min CD. Maybe someone could dig out his 
+original file set ??
+(2009-08-24)

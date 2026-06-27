@@ -1,0 +1,13 @@
+Band of Horses
+
+January 18, 2013
+
+1. Laredo, 2. The Great Salt Lake, 3. Is There a Ghost, 4. Feud, 5. Cigarettes, Wedding Bands, 6. Knock Knock.
+
+Track Info: Big Day Out Festival, Sydney, NSW, Australia
+Source Info: FM>LPCM>WAV>FLAC [Sharp Tuner > Edirol R-09]
+Mastering: Adobe Audition (normalise to –0.1DB, edit out station Ids, down sample to 16 bit 44khz and tracksplit). 
+Converter: Roman79
+Length: 24:39
+Sound Comments/Faults?: Very good FM broadcast. DJ introduces the set.  Station IDS have been omitted other than the station ID during The Great Salt Lake that is over Ben’s vocal so I couldn’t omit that one. They did broadcast the first two minutes of Ode to LRC after Knock Knock, but my cable connection got broken so rather than put the last corrupted partially broadcast song I have chosen to omit it. Hence the capture fades out at the start of Ode to LRC.
+Show Comments: Captured live on January 18, 2013. Only a partial broadcast. There was no extended encore broadcast later that year despite the DJ saying at the time that they would broadcast a more complete set later.

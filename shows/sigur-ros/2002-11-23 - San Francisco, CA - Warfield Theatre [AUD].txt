@@ -1,0 +1,67 @@
+Sigur Ros
+Warfield Theatre - San Francisco, CA
+11/23/2002
+
+Source: AUD > Core Sound mics > Master Sony D-100 DAT > CD > EAC> FLAC 
+
+Location: 1st row balcony, CSBs worn on glasses
+
+Seeded by: Mike Tausig (mike at tausig dot net)
+
+
+Disc 1: 
+
+Vaka
+Samskeyti
+Salka
+Ny Batteri
+Njosnavelin
+Sven Genglar
+Milano
+
+Disc 2:
+
+Haffsol
+Olsen Olsen
+Von
+Popplagio
+
+
+Comments (12/31/06):
+
+As with any Sigur Ros show, it's pretty quiet during songs.  Decent recording, though
+the audio goons were out this night, looking for tapers.  I did the best I could with
+the setlist.  If you find errors, please post a comment.
+
+As with all of my masters, I don't do ANYTHING to them...raw.  You'll even need to put
+your own fades in if you want them.
+
+I have NEVER traded this out, so this source is uncirculated.  I hope
+you enjoy.  HAPPY NEW YEAR everyone!!!
+
+mike
+
+
+***DO NOT ENCODE TO MP3, OR OTHER LOSSY FORMAT***
+***DO NOT SELL OR OTHERWISE PROFIT FROM THIS RECORDING***
+***IF YOU SELL MUSIC, YOU SUCK***
+
+
+For the details on FLAC and the software needed to decompress these files go to:
+http://wiki.etree.org/index.php?page=FLAC
+
+**********************************************************************
+FLAC Fingerprint
+
+
+Sigur Ros 2002-11-23 d1t01.flac:cba8f6cad767d28ee77ebea9be3a0408
+Sigur Ros 2002-11-23 d1t02.flac:2f1667dfc45e8963a7febc8f0782ca5d
+Sigur Ros 2002-11-23 d1t03.flac:afd5fa8cb7365c94ce03a287aff23e16
+Sigur Ros 2002-11-23 d1t04.flac:0d90ad6b683d86a697535d9819aa79a8
+Sigur Ros 2002-11-23 d1t05.flac:e31ac5cb0512f2f22194ad010bed58bb
+Sigur Ros 2002-11-23 d1t06.flac:838514897b754cb98eb32f5ed576aa8e
+Sigur Ros 2002-11-23 d1t07.flac:b09352fb83f30f1354525f0e2a72c597
+Sigur Ros 2002-11-23 d2t01.flac:0dce9e7fb5b20090401e4d6f525e0185
+Sigur Ros 2002-11-23 d2t02.flac:ec617d1979a42d7ff98352ac2e7841a0
+Sigur Ros 2002-11-23 d2t03.flac:66bb54bbd56a0d9a7d3e7f054d25b6a3
+Sigur Ros 2002-11-23 d2t04.flac:5435b61d132b3ec69dd44ce4b641eb64

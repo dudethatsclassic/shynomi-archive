@@ -1,0 +1,86 @@
+The Black Crowes
+State Theater
+Portland, ME
+June 20, 1998
+
+** 16 BIT **
+
+Source:  Microtech Gefell SM2000 mics with SM2010 hypercardioid caps > AERCO MP-2 > Casio DA-R100 (1993 Model) DAT master @ 16 bit/48 kHz
+Transfer:  DAT master > .WAV optically via a Prodiff 96 digital soundcard into Wavelab
+Mastering:  .WAV > iZotope RX9 Advanced v9.0.0.1130 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  15 feet from the left PA (facing stage)
+Recorded & transferred by:  Scott Weber ("Spider-Web")
+Mastered by:  Dennis Orr
+
+Setlist: (1:26:32)
+01 Intro
+02 Remedy
+03 Sting Me
+04 Black Moon Creeping
+05 Thick N' Thin
+06 Chat & Tuning
+07 By Your Side
+08 Ballad In Urgency > 
+09 Wiser Time
+10 My Morning Song
+11 Hard To Handle
+12 Stare It Cold
+13 No Speak No Slave
+14 Encore Break
+- Encore - 
+15 Seeing Things
+16 Jealous Again
+17 Band Intros
+18 Twice As Hard
+
+Chris Robinson - lead vocals
+Rich Robinson - guitars & backing vocals
+Audley Freed - guitars
+Sven Pipien - bass & backing vocals
+Eddie Harsch - keyboards
+Steve Gorman - drums
+???? - backing vocals
+ 
+Scott's Notes:
+Flower children beware! Hippies run for cover! The Black Crowes are again a true Rock-N- Roll band! Back to the early 90's when I fell in love with them.
+
+The boys descended upon Portland, Maine tonight, and if this keeps up, by the time I'm finished seeing the first six New England shows, I'll need some medication to put on my ass from it 
+being kicked so damn hard! The State Theatre is a 1500 seater, similar to the Orpheum in Boston, the Beacon in New York, or the Greek in Berkeley. The oriental rugs were out, the incense was 
+lit, and they were totally in their element. Chris hit the stage with a black sports jacket on, and the black top hat with a feather sticking out - he was riled up from the get-go! The 
+playing was better than last night; tight, hard, fast and over-powering.
+
+The stand out tonight was unquestionably Audley Freed. Many of us miss Marc Ford dearly; I practically was walking around in a coma over his departure. But guess what kiddies, life has to go 
+on, and I suggest giving Audley a chance - he's gonna kick your ass!  What really did it for me were his solos in Black Moon Creeping and Wiser Time - flawless!! And his slide playing on 
+Stare It Cold was a jaw dropper! And he doesn't stand still! He's got the moves, the ability - and he LOOKS like he belongs! Wearing a very cool purple velvet top, the man rocked the entire 
+show - he's one bad ass!!
+
+The two black female back-up singers are an absolute trip - not only do they sing fantastically, but they dance with Chris, and are very enjoyable to watch. It's scary to think this band is 
+just gonna get better! Sven's bass playing was fine - he is finding his niche quickly. Steve, Eddie and Rich were rocking as usual, and the entire band looks like they are having more fun 
+than they have had in years! Chris is speaking much more, and it's not about "peace" and "respect thy neighbor", it's about having a good old rock-n-roll time!
+
+So all be warned- you will see a few Amorica and Three Snakes songs, but the days of the drastically different setlists are gone (which is a bit of a bummer). But the upside is all that 
+"communal" bullshit is gone - finally!! It should have always been left to the Deadheads anyway... This is straight-ahead, uncompromising, back to the roots Black Crowes band - they should 
+have never left that style.
+
+I've been fortunate to have seen about 40 Crowes shows from 1990 on, and in my opinion, the energy I saw tonight can only be rivaled by the early 1992 shows! Hippies stay home, or bring your 
+ear plugs! This one was a keeper. - [SW]
+ 
+tbc1998-06-20t01.flac:1c830471f4bd195982c92b6654dec4c3
+tbc1998-06-20t02.flac:15f02208a182376e2b5d6a50e05465d5
+tbc1998-06-20t03.flac:02bd932d15d500410f30232ec25750d9
+tbc1998-06-20t04.flac:cb1e1078d5f6df7ebe3106a62f4b954b
+tbc1998-06-20t05.flac:f3dafdcf95c8c10bca45a938d18e9ce7
+tbc1998-06-20t06.flac:e23958c5b0098f89300328b9c051c4ff
+tbc1998-06-20t07.flac:6edfbe119f28653027326558aad7ca3c
+tbc1998-06-20t08.flac:478530ec76d5ac571fba06f79034bdc3
+tbc1998-06-20t09.flac:f1eda0d0db5a3849b2835f68650425e7
+tbc1998-06-20t10.flac:c44002762fc993a6689dcd877ad3e14c
+tbc1998-06-20t11.flac:365c34aa819745c04468252300fb8252
+tbc1998-06-20t12.flac:75a9f311f3a28cd82b2737c17437278a
+tbc1998-06-20t13.flac:2af4b4fd24ad18129c497cc9e7c7059a
+tbc1998-06-20t14.flac:760e0360f5d96c1e375a6f06a734ff47
+tbc1998-06-20t15.flac:bc986c4f2b7ae7740e02b98bfec4c009
+tbc1998-06-20t16.flac:14e444fa43304df9b0c794240768c2f5
+tbc1998-06-20t17.flac:76aa3d41920c35033d48ee3ba0275b4b
+tbc1998-06-20t18.flac:19d550f6a50d47b398845c4c42716ea2

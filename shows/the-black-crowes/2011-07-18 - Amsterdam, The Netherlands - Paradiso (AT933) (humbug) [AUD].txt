@@ -1,0 +1,79 @@
+The Black Crowes
+
+2011-07-18 (18 July 2011)
+Paradiso, Amsterdam, The Netherlands
+
+Source: AT933(853C)>3wbb>iRiver H140 rockboxed
+
+Transfer: H140>USB>DellHD>Audacity (fade in, volume boost set 1, 11.6dB, set 2, 9.5dB, fade out)>CD Wave>FLAC
+
+Location: ~30m from stage, mics DIN, clamped to centre of balcony.
+
+Recorded, transferred, FLAC'd and seeded by Humbug 
+
+Set 1 (Accoustic, 1:17:11)
+
+01. Good Friday
+02. Appaloosa
+03. Sister Luck
+04. Wiser Time
+05. No Expectations (The Rolling Stones cover)
+06. How Much For Your Wings >
+07. Bring On, Bring On 
+08. Darling of the Underground Press
+09. Nonfiction
+10. My Morning Song
+
+Set 2 (Electric, 1:38:01) 
+
+01. Good Morning Captain
+02. High Head Blues
+03. I Just Want to See His Face (The Rolling Stones cover)
+04. Girl From A Pawnshop
+05. Thorn In My Pride
+06. Poor Elijah / Tribute To Johnson (Delaney and Bonnie cover)
+07. Hard to Handle (Otis Redding cover)
+08. Seeing Things
+09. Soul Singing
+10. Jealous Again
+---encore---
+11. Torn and Frayed (The Rolling Stones cover)
+12. Willin' (Little Feat cover) 
+
+Notes: Nice sounding open recording. 
+Second of the two farewell concerts, before the latest hiatus. Excepting possibly the first time when I caught the band in 1992, the best concerts I've seen by the band.
+
+Chris Robinson, guitar, vocals
+Rich Robinson, guitar, vocals
+Steve Gorman, drums
+Adam MacDougall, keyboards, vocals
+Sven Pipien, bass
+Luther Dickinson, guitar, vocals
+
+FLAC Fingerprint:
+
+bc2011-07-18at933t01.flac:4ad9eac90ce6604b24e270714bd3647e
+bc2011-07-18at933t02.flac:7b185e3ae97b56d61a3404c141a7868a
+bc2011-07-18at933t03.flac:d19a61f11007b90da3acee7d00779c33
+bc2011-07-18at933t04.flac:086f581bc2bf5ef32060d23dc5b34815
+bc2011-07-18at933t05.flac:0d3bd02e35db92d225be8f265a9a6c14
+bc2011-07-18at933t06.flac:892875919942290b9877ab9f1908efed
+bc2011-07-18at933t07.flac:0825d042b4fc45d978d9a51afcd23e47
+bc2011-07-18at933t08.flac:8870a9a70bcc9197bf442c60b312e049
+bc2011-07-18at933t09.flac:3e6c4d350f2ffd12467aa8a6bf548cbd
+bc2011-07-18at933t10.flac:4e7de368254309cc4615abca6e2fcf69
+bc2011-07-18at933t11.flac:129f378e658caaedb233e8c2e959595e
+bc2011-07-18at933t12.flac:60c32f7222a098efceff0ad67a50c78c
+bc2011-07-18at933t13.flac:32786fea7e3b3ea7b933ba56f1f71bea
+bc2011-07-18at933t14.flac:b2945ff86f0268e8c65571aab30cacd0
+bc2011-07-18at933t15.flac:b0b715387413c3f7e556d7f684244d5e
+bc2011-07-18at933t16.flac:86f6cc7343229e2c7d31291079f60f93
+bc2011-07-18at933t17.flac:73f66895d992bbad3c9393534eddb35f
+bc2011-07-18at933t18.flac:c84d7ae12e87081f2d5447e77c08a8db
+bc2011-07-18at933t19.flac:f9937aa22befab2571683f5968dc1e92
+bc2011-07-18at933t20.flac:85f282a04294fb6793038b991e9ea92d
+bc2011-07-18at933t21.flac:7bd48f1224439bd59833f8391af47d4c
+bc2011-07-18at933t22.flac:3ab875b5d3a20a5d94a5cc8d299c7169
+
+** PLEASE DO NOT TRADE IN MP3 FORMAT**
+** PLEASE DO NOT PROFIT FROM THIS RECORDING **

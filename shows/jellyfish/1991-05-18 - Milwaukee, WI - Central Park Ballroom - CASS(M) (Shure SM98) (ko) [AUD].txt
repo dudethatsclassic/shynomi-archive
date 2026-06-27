@@ -1,0 +1,27 @@
+JELLYFISH
+May 18, 1991
+Central Park Ballroom
+Milwaukee, WI
+
+Source: Shure SM98 > Shure 94A1670 > Sony WM-D6C
+Taper: KO
+Lineage: Cassette(M) > DAT(1) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20 > M-Audio Delta DiO 2496 > Cool Edit Pro > Sound Forge
+Edits/EQ: -3dB limiter @ 0:00-1:43, +2.9dB
+Notes: opening for Black Crowes
+
+01 - (cuts in) Hello
+02 - Calling Sarah
+03 - The King Is Half-Undressed
+04 - Baby's Coming Back
+05 - She Still Loves Him
+06 - I Wanna Stay Home
+07 - From Now On
+08 - Will You Marry Me?
+09 - That Is Why
+10 - Mr. Late
+11 - No Matter What
+12 - All I Want is Everything
+
+
+Compiled May 2021 by CPS

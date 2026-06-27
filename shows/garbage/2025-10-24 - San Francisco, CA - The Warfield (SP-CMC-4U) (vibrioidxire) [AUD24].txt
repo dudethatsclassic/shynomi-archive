@@ -1,0 +1,71 @@
+GARBAGE
+October 24, 2025
+The Warfield
+San Francisco, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter -> Laura Palmer's Theme [Angelo Badalamenti song, P.A. tape]
+01. There's No Future in Optimism
+02. Hold
+03. I Think I'm Paranoid
+04. Vow
+05. Run Baby Run
+06. The Trick Is to Keep Breathing
+07. Not My Idea [w/ New Order's "Temptation" interpolation]
+08. Hammering in My Head
+09. Wolves
+10. #1 Crush
+11. Bleed Like Me
+12. Queer
+13. Chinese Fire House
+14. When I Grow Up
+15. Cherry Lips (Go Baby Go!)
+16. Push It
+17. The Day That I Met God
+18. Stupid Girl
+19. Only Happy When It Rains
+
+
+SOURCE:
+-------------------
+AUDIENCE AUDIO - Quality: 9.0
+Sound Professionals SP-CMC-4U > TASCAM DR-2d
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (Audio Technica AT-U853's, with UE-H hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > TASCAM DR-2d Portable Solid State Recorder > SanDisk 32GB Extreme UHS-I SDHC Memory Card > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 25.3 [post-production/mastering] > xACT 2.57
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+
+FLAC FINGERPRINTS:
+-------------------
+garbage2025-10-24_AUD_t00.flac:0855fe7d623909623a739a4ab9373ffb
+garbage2025-10-24_AUD_t01.flac:ff2493d8750c1af22c2c3ccece7fb414
+garbage2025-10-24_AUD_t02.flac:3f039541aad10874e78eeeb4dfe5b687
+garbage2025-10-24_AUD_t03.flac:96a40f4c2edd9937eda88122e6ca1e07
+garbage2025-10-24_AUD_t04.flac:1ae39f0a97d08efe13fe478f7fa58e9a
+garbage2025-10-24_AUD_t05.flac:10737951e8ebbf1a5142061f08780c11
+garbage2025-10-24_AUD_t06.flac:8ea0de33a1d0ce8ac32d973a1b7676a5
+garbage2025-10-24_AUD_t07.flac:30370c1c452fe37c9218fb156d006188
+garbage2025-10-24_AUD_t08.flac:4e6bdc41f3c6317881a84d98201d1088
+garbage2025-10-24_AUD_t09.flac:5e62d787c40d4f7128865e0e61d9e359
+garbage2025-10-24_AUD_t10.flac:ec3988a67f5ad3b80002652c7548a691
+garbage2025-10-24_AUD_t11.flac:1c2d4893ec196ade8c8dbb2a2187d86c
+garbage2025-10-24_AUD_t12.flac:93b423d24e2a2fd18c9479dd9aeab576
+garbage2025-10-24_AUD_t13.flac:86fd82516aa69ba3db347ebaf6e6f761
+garbage2025-10-24_AUD_t14.flac:9c436252f901cff25670935ff27e3f82
+garbage2025-10-24_AUD_t15.flac:aa6f9bb80a98e4f8f9f1f668d89df434
+garbage2025-10-24_AUD_t16.flac:b039c346e4e42cd1979fb6d97f2ebe43
+garbage2025-10-24_AUD_t17.flac:fdd3c10ce79542e9a978dce61a311a3b
+garbage2025-10-24_AUD_t18.flac:c456bfe22d5fd423fee497a28053bf88
+garbage2025-10-24_AUD_t19.flac:b3772df29ee1e570bf5fd5f2c3b7a195
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

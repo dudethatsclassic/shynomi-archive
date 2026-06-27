@@ -1,0 +1,87 @@
+The Black Crowes
+Grand Ole Opry House
+Nashville, TN
+April 2, 2024
+
+** 24 BIT **
+
+Source:  CA-14 cards mounted on hat w/windscreens (X-Y pos), > 1/8" stereo > Tascam DR-2d (mic in, low gain w/onboard phantom power on) @ 24 bit/96 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > 
+CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.16 (tagging)
+Location:  Row F, first mezzanine, on Nico's side
+Recorded by:  Jeremy Hunsaker  telepicker97/drivingwheel
+Mastered by:  Dennis Orr
+
+Setlist: (1:34:53)
+01 Intro 
+02 Bedside Manners
+03 Rats & Clowns
+04 Twice As Hard
+05 My Morning Song
+06 Cross Your Fingers (1)
+07 Wanting & Waiting
+08 Chat
+09 Hard To Handle
+10 Kickin' My Heart Around
+11 Lainey Wilson Intro
+12 Wilted Rose (1)(2)
+13 She Talks To Angels (2)
+14 Flesh Wound (1)
+15 I Ain't Hiding
+16 Sting Me
+17 Thorn In My Pride
+18 Jealous Again
+19 Remedy
+20 Encore Break
+- Encore -
+21 Chat & Tuning
+22 White Light/White Heat
+
+(1) First time played
+(2) With Lainey Wilson - vocals
+
+Chris Robinson – lead vocals, harmonica, acoustic guitar, & percussion
+Rich Robinson – guitar & backing vocals
+Nico Bereciartua – guitar & backing vocals
+Erik Deustch – keyboards & backing vocals
+Sven Pipien – bass & backing vocals
+Cully Symington – drums & percussion
+Leslie Grant - backing vocals & percussion
+Mackenzie Adams - backing vocals & percussion
+
+Taper Notes:
+Had to MacGyver my mic clip back into the R mic capsule and clip it into place with the clip, then clipped both mics to my hat seconds before showtime and thus could not move my head 
+for fear of it shaking loose...and then about 90 seconds into Bedside Manners, this guy who was constantly leaving his seat was passing in the aisle and actually knocked the recorder 
+out of my hand; I caught it, but not before the mic jack came out of the recorder as it fell.  As such, approx 2 sec of Bedside Manners is patched with audio from Samsung Galaxy Z 
+Flip 4 > HP 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz 2.70 GHz > Tascam DR-2D (Line in @ 24/96).
+
+Support taper friendly bands, venues, and websites.  
+Please make it a point to go to their gigs, purchase their merch, trade links (or old-school tapes or CDs!) of their music, 
+Spread the word and visit their websites:  https://theblackcrowes.com/
+
+Always share, never sell, and as Ribblefribbitz says: "Please do not convert to Edison tin cylinders or 78 rpm wax discs."
+
+Dedicated to Brit, boa and huck.
+
+tbc2024-04-02t01.flac:3ef99324889c38ae77b7e7067fb49257
+tbc2024-04-02t02.flac:9c9f46d6c6fa052cc994072b2d73d1de
+tbc2024-04-02t03.flac:3592a4c0b651d52d07109aa00eff6869
+tbc2024-04-02t04.flac:dbba8a3ae1cf43f59b0f86fcb091bbba
+tbc2024-04-02t05.flac:e1a961f67f171ddf6e597195518ef437
+tbc2024-04-02t06.flac:df39b849f2d39349a6b3473e1e0ab4b6
+tbc2024-04-02t07.flac:97165d26c6fb5a5905c86140d726b643
+tbc2024-04-02t08.flac:542cd4ac4a3128c249bbd0c0c20fba57
+tbc2024-04-02t09.flac:4d6161300e585318da13143b547ec643
+tbc2024-04-02t10.flac:d56e7e675e5a4dd23ecf9c371eb94962
+tbc2024-04-02t11.flac:408b4f47ec389a8fe901bf9b34341a06
+tbc2024-04-02t12.flac:6c906bf218a801984402ed944ed8bb9b
+tbc2024-04-02t13.flac:2ef6ce363e26ca5e77b3edeb2ebccd9a
+tbc2024-04-02t14.flac:6502f8caa8de477676a770838099af3a
+tbc2024-04-02t15.flac:6985258e07d18a47c8cff4ab1c189652
+tbc2024-04-02t16.flac:b93cd3a9c44a1ecb547cf46c9bf761b2
+tbc2024-04-02t17.flac:3620537c402d522a8db1f5741289a2cb
+tbc2024-04-02t18.flac:f440166fdea31a337e48c4dcbba219de
+tbc2024-04-02t19.flac:03c0c7811059de07f516c86230075c33
+tbc2024-04-02t20.flac:3c2a284932ca495e77e4c68f0bcc24db
+tbc2024-04-02t21.flac:3e0234ebfb25705bcac4d4e0ed3f1b9b
+tbc2024-04-02t22.flac:3826e1afd83de4f9e7b4d33d0c4a5467

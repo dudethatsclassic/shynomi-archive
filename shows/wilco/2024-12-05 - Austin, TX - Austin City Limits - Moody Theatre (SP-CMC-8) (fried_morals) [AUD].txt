@@ -1,0 +1,113 @@
+Wilco
+"The Austin Winterlude - Night 1"
+2024-12-05
+ACL Live/Moody Theatre
+Austin, TX
+
+SOURCE: 
+SP-CMC-8 (w/Mods) > Sony PCM-A10 > SanDisk micro-SD (32gb)
+
+TRANSFER: 
+.WAV (24 Bit) > Adobe Audition 2025 CC (normalize/amplify/tracking/dithering/downsampling) > .WAV (16 Bit) > Trader's Little Helper > FLAC (Level 6)
+
+SETLIST:
+
+=== SET 1 ===
+
+0X. One Sunday Morning ^^^
+0X. Company in My Back ^^^
+01. Country Song Upside-Down (incomplete)
+02. Shouldn't Be Ashamed
+03. How to Fight Loneliness
+04. I Am Trying to Break Your Heart
+05. Hints
+06. Country Disappeared
+07. Misunderstood
+08. Far Far Away
+09. Bob Dylan's 49th Beard
+10. It's Just that Simple
+11. Secret of the Sea
+12. Hesitating Beauty
+13. Bird Without A Tail / Base of My Skull
+
+=== SET 2 ===
+
+14. Hell is Chrome
+15. Panthers
+16. Levee
+17. You Satellite
+18. You Are My Face
+19. Pot Kettle Black
+20. Box Full of Letters
+21. Random Name Generator
+22. Side With the Seeds
+23. Someone to Lose
+24. I'm Always in Love
+25. On and On and On
+26. Theologians
+27. I'm the Man Who Loves You
+28. Shot in the Arm
+29. (encore break)
+
+=== ENCORE ===
+
+31. Too Far Apart
+32. Casion Queen
+
+^^^ Not recorded
+ 
+NOTES:
+
+Welp I got called into Austin to come dog/house sit for a friend for a few weeks before Christmas, and given I had nothing going on, I was up for it, so off I went. Thankfully though, I packed my audio recorder/mics on the off chance I went to a show while I was in town (it is Austin, the "live music capital", afterall), and I'm so glad I had that foresight, for only a couple nights into my stay, my friend Anna informed me Wilco was in town for a three night residency, dubbed their "Winterlude", where they play unique sets each night (consisting of no openers, and two sets with an intermission) with no repeating songs, and asked if I was interested in attending if she picked up a few tickets. The answer was an easy yes!
+
+Unfortunately, I was only tagging along in the backseat, so I had no control over when everyone was ready nor when we arrived, hence, we arrived right when they started the first song. No biggie, I'll miss the first song (in regards to my recording), I can live with that (though it does annoy me). Well problem two was that when I snuck in my audio recorder, I accidentally screwed the case on both ends (meaning I couldn't easily open it and set up the recorder). And I didn't have a screwdriver with me. FUCK! Was I screwed? Was I not going to be able to record this? Right when I started panicking with all these thoughts, they started up the second song, "Company in My Back", one of my favorite songs of theirs! Crap!!!
+
+I struggled to find a way to open my case to get my recorder out, all while trying to stand in the crowd and not make any noise nor a scene to anyone around me (why don't others at these concerts show the same courtesy I wonder??). Finally, after another few minutes, I was able to push the top of the case down, creating a small gap to pry with my finger, which popped my recorder and microphones out, phew! What a pain! Now I still had to wire myself up in the middle of the crowd without attracting any attention. I managed to do so, and get everything turned on and tested while they were in the middle of their third song "Country Song Upside-Down", which is why this song cuts in.
+
+Wasn't my ideal way of starting to record a show, but at least I was able to salvage it within the first 10 minutes. To think I would have had my recorder/mics on me and NOT be able to record the show? That thought would have driven me mad.
+
+Anyway, the rest of the night went off without a hitch and they played a lot of great stuff, though not two of my favorites that I was hoping to hear live in "Spiders" and "One by One". I didn't have any plans of going to the next two nights, so this was my only chance of hearing these, but I knew the odds were against me, especially with two more nights of unique sets ahead of them. So I can't say I was surprised.
+
+For the second set, I managed to move my way more dead center as others took restroom breaks and went to merch. It had been 19 years since I had last seen Wilco, which is totally crazy to me. The last (and only time) was at my first Coachella festival, back in 2005. 19 years later, Jeff had gone completely gray, but he (and the rest of the band) still sounded just the same, just as good. I was so happy to be there. Time really does fly, but at least I was able to capture 2.5 hours of it to listen back to and share with y'all.
+
+CHECKSUMS: 
+
+bdb54f6159dd6c161432d8ec4dd8fcb7 *wilco-2024-12-05-austin-tx-aud-16bit-t01-country-song-upside-down.flac
+7f96b2791bcfafd572b39848eb4f7d46 *wilco-2024-12-05-austin-tx-aud-16bit-t02-shouldnt-be-ashamed.flac
+9e583332d32e4a6df36bd4c7b823e1e8 *wilco-2024-12-05-austin-tx-aud-16bit-t03-how-to-fight-loneliness.flac
+bd98c5ea2fb4ba46d1a0c8217c610666 *wilco-2024-12-05-austin-tx-aud-16bit-t04-i-am-trying-to-break.flac
+57f6fc72b80d28217ee34277c6f81390 *wilco-2024-12-05-austin-tx-aud-16bit-t05-hints.flac
+6d1091feb093bd961f3d6c0fc1b91530 *wilco-2024-12-05-austin-tx-aud-16bit-t06-country-disappeared.flac
+a7af3d77205f62c0e01a6a751fe30350 *wilco-2024-12-05-austin-tx-aud-16bit-t07-misunderstood.flac
+03455df3b5bfd478a35b77c7be6b2087 *wilco-2024-12-05-austin-tx-aud-16bit-t08-far-far-away.flac
+c36228cb10d52cedf921eb1ea72919f9 *wilco-2024-12-05-austin-tx-aud-16bit-t09-bob-dylans-49th-beard.flac
+e6e64d4dc7f45802dddcb13dc70ed14e *wilco-2024-12-05-austin-tx-aud-16bit-t10-its-just-that-simple.flac
+96aebdfc575b6b2e9825dc44f3d6a1cb *wilco-2024-12-05-austin-tx-aud-16bit-t11-secret-of-the-sea.flac
+b17f1aabe2f34c50e749b27eaf23ddbf *wilco-2024-12-05-austin-tx-aud-16bit-t12-hesitating-beauty.flac
+06d03084a5c496c6d335b09dcd6f752b *wilco-2024-12-05-austin-tx-aud-16bit-t13-bird-without-a-tail-base-of-my-skull.flac
+9128990ff0302b6f63d9ebcc8e1c4eb6 *wilco-2024-12-05-austin-tx-aud-16bit-t14-hell-is-chrome.flac
+30deadf05cb42b470d87649c6260aef7 *wilco-2024-12-05-austin-tx-aud-16bit-t15-panthers.flac
+9480be6d04efe59cb717f743159807f3 *wilco-2024-12-05-austin-tx-aud-16bit-t16-levee.flac
+d28a4c8bce67e5b7c87b8291c4cbd5ce *wilco-2024-12-05-austin-tx-aud-16bit-t17-you-satellite.flac
+448af62deaa6930167c6e2902675d292 *wilco-2024-12-05-austin-tx-aud-16bit-t18-you-are-my-face.flac
+732a265cd16ef26a61278c5b3668b001 *wilco-2024-12-05-austin-tx-aud-16bit-t19-pot-kettle-black.flac
+f96192822f99cd8eb71d0ad98eea7d85 *wilco-2024-12-05-austin-tx-aud-16bit-t20-box-full-of-letters.flac
+e406d04ab1a25c154f27b9b3a0d3b09f *wilco-2024-12-05-austin-tx-aud-16bit-t21-random-name-generator.flac
+1b3eb13e19684f9b92039cb31ba73547 *wilco-2024-12-05-austin-tx-aud-16bit-t22-side-with-the-seeds.flac
+be023adf1845f86d0516572d068e3b32 *wilco-2024-12-05-austin-tx-aud-16bit-t23-someone-to-lose.flac
+73955d34de1bd5487c517317206ffd3a *wilco-2024-12-05-austin-tx-aud-16bit-t24-im-always-in-love.flac
+fd6c497e4efb3afc71edee623bfd76d4 *wilco-2024-12-05-austin-tx-aud-16bit-t25-on-and-on-and-on.flac
+3d15d4c0a49af8b9a09f1f4876bb4374 *wilco-2024-12-05-austin-tx-aud-16bit-t26-theologians.flac
+1e9685ccb12a7424c65a92b7f4a45bab *wilco-2024-12-05-austin-tx-aud-16bit-t27-im-the-man-who-loves-you.flac
+bbe9247835c57be05818c3f717be9f2d *wilco-2024-12-05-austin-tx-aud-16bit-t28-a-shot-in-the-arm.flac
+f9fe20597fc272e3358e7cb7b83979d4 *wilco-2024-12-05-austin-tx-aud-16bit-t29-encore-break.flac
+f5eeac3a6581dfede8b526cf72002370 *wilco-2024-12-05-austin-tx-aud-16bit-t30-too-far-apart.flac
+f86b752118dbc9a12283ff2e5e95f4e3 *wilco-2024-12-05-austin-tx-aud-16bit-t31-casino-queen.flac
+
+Check out my site: 
+
+https://www.themojavetent.com 
+https://www.facebook.com/coachellarecordings 
+https://www.twitter.com/livecoachella
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT, OR ELSE THE KARMA POLICE WILL GET YOU***

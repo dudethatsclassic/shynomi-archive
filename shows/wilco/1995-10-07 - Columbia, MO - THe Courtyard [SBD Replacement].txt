@@ -1,0 +1,45 @@
+Wilco
+October 7, 1995
+The Courtyard
+Columbia, MO
+
+SBD > ? > SHN > Via Chicago > WAV > Soundforge 7.0 > TLH > FLAC
+
+An acoustic show played during the day, 
+in between two night sets at the Blue Note (10-6 and 10-7)
+
+
+01 New Madrid  [05:49.38]
+02 Box Full Of Letters  [03:18.19]
+03 Pick Up The Change  [03:36.62]
+04 Forget The Flowers  [03:05.03]
+05 That's Not The Issue  [03:32.00]
+06 Don't You Honey Me  [03:22.37]
+07 Childlike and Evergreen  [03:07.31]
+08 Satan, Your Kingdom Must Come Down  [03:01.09]
+09 Casino Queen  [04:18.54]
+10 Give Back The Key To My Heart  [05:29.41]
+11 Reincarnation (w/ Brian on maracas)  [03:00.43]
+12 I Must Be High  [03:00.74]
+13 Screen Door  [02:48.25]
+14 Pecan Pie  [03:12.54]
+15 The Long Cut  [05:13.61]
+16 Acuff-Rose  [02:54.61]
+
+[58:52.12]
+
+t01+02 - manually removed hundreds (!) of large spots of digi noise, probably derived 
+from a cable problem with the snare drum microphone. some digital artefacts remain.
+I also did some volume balancing on t02.
+
+t 03 - digital static noise @ 1:10 to 1:20 + some weird incidental music, you'll find out...
+
+t10-15  - return of the digi noise, these look more like from a faulty transfer, this time dozens of tiny spots
+were repaired, nonetheless I am sure that I have not found them all and there remains an undercurrent 
+of crackles and bumps -- which is a pity as this an extraordinary recording and performance  !!
+
+Still this is well worth having !
+
+Respect the Artists 
+Never sell - for trade only 
+Please do not encode to lossy formats

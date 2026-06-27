@@ -1,0 +1,69 @@
+Dave Matthews & Tim Reynolds
+20 February 2022
+Moon Palace Resort - Beach Stage - Cancun, MX
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 6 II (32 Bit Float)
+Location: Approx. 200' from House Left Stack, Left of FOH, Mics DIN @ 15'
+Editing: WAV > Reaper 6.49 (Gain, Mixing, Normalizing) > Audacity 3.1.3 (Fades, Tracking) > FLAC (Level 8)
+
+01. Intro/Dave Speak: New Song
+02. Something to Tell My Baby
+03. One Sweet World
+04. The Maker&
+05. What Would You Say
+06. Fool to Think
+07. Where Are You Going
+08. Dave Speak: Pandemic Walks
+09. Walk Around the Moon
+10. So Much to Say
+11. Stream
+12. Little Thing
+13. Too Much
+14. Dave Speak: Telescopes
+15. Black and Blue Bird
+16. #27
+17. Kashmir%
+18. When I'm Weary^
+19. Lying in the Hands of God^#
+20. Steady As We Go^
+21. Dave Speak: Pandeiro Repique Duo
+22. Warehouse^*
+23. Don't Drink the Water^*$
+24. Minarets^*@
+25. Ants Marching^*!
+26. Encore Break #1
+27. Waste~?
+28. Everyday~
+29. Encore Break #2
+30. Some Devil
+31. Dave Speak: Crazy Train, Pool Pissing, & Aliens
+32. Rapunzel
+33. Encore Break #3/Dave Speak: Against My Better Judgement
+34. Singing from the Windows
+
+Dave Matthews - Guitar, Piano, Vocals
+Tim Reynolds - Guitar, Effects Pedals
+
+Notes:
+
+& Daniel Lanois cover
+% Led Zeppelin cover
+^ with Buddy Strong on Piano
+# with American Baby Intro and Bourbon & Lacs interpolations
+* with Bernardo Aguiar on Pandeiro and Gabriel Policarpo on Repique
+$ with extended intro
+@ with Dave scat intro
+! with pandeira/repique intro and extended outro
+~ with Trey Anastasio (Phish) on Guitar and Vocals
+? Phish cover
+
+Performed on a beach with constant wind off the water, so intermittent wind noise is expected throughout the recording. Sporadic aircraft noise can be heard due to flight path diversions from Cancun International Airport. This is also an all inclusive resort, so the occasional intoxicated concert goer decided to make their presence known.
+
+Huge thanks to Greg Mendelsohn, Keith Antaya, and Mark Terrell for helping with some spare equipment and long distance troubleshooting.
+
+My undying gratitude to Meghan Lanigan, Emily Davis, Aimee Stephenson, Richard Yaworski, Cheryl Bayma, Melinda Perry, Sherry Ensminger, Tim & Tabitha Paulin, Amy Fleming, Megan Allen, Nicole Gerrars, Nicole Spitzer, Jeanna Pignatiello, Cynthia McInturff, Nichole Klatt, Anna Nelson, Scott Theriault, Karen Barr, Steven Smith, Dan Hansen, Matthew Salmons, Bradley Neathery, Michelle Rose, Elise Rosenhek, Amie Teller, Dan Mataragas, Nicole Flynn, Taylor Abernathy, Amanda Ferrel, Jessika Filler, Bethany Duke, Grant Francke, Stephanie Hemmingson, Sophie Roland, Margaret Barrett, Marily Febre, Cindy Spoljaric, Jennt Hawkins, Sally Avenson, Kati Wright, Maria Francis, Karly Gallagher, Robert McCardle, Casey Huff, Vanessa Vandawalker, Scotty Merrill, Cassandra Jackson, Bridget Bernard, Jennifer Hickey, Kristi Bridges, Aimee Toussaint, Katie Burke, Jamie Kamin, Anna Koutoupis, Kristen Yearling, Brittney Daniel, Dave Cole, Susan Klippel, Mark Edwards, Angie Quade, Samantha Brogue, Tina Motz, Susan Bush, Anke Kamp, and the entire Dave & Tim Mexico Facebook Group for making this weekend's recordings happen.
+
+This recording is dedicated to all the tapers before me who continue to preserve live music.
+
+Compiled on 2022/02/22.

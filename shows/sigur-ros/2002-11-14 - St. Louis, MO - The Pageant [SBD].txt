@@ -1,0 +1,44 @@
+Sigur Rós
+November 14, 2002
+The Pageant
+St. Louis, MO
+
+Taper:		Joe Shambro (joe@209productions.com)
+
+Source:		SBD > D7 (auto levels)
+
+Conversion:	D7 > S/PDIF > Digidesign Digi002-R (S/PDIF in) >
+		ProTools 6.1.2 (slight EQ, compression/limiting) > 
+		Peak 3.2 (track breaks) > WAV > CDR
+
+CD Rip:		Brian Emerick (shadowraven@gmail.com) CDR > EAC .095 (100%) > 
+		WAV > Sound Forge 7.0 > Flac Frontend
+
+***************************
+***DO NOT TRADE AS MP3!!***
+***************************
+
+Disc 1
+
+01: Intro			01:14
+02: Vaka / Fyrsta / Samskeyti	24:43
+03: Salka			07:37
+04: Ný Batterí			07:46
+05: Njósnavélin			08:27
+
+Disc 2
+
+01: Svefn-G-Englar		12:24
+02: Mílanó 			10:41
+03: Hafssól			08:41
+04: Olsen Olsen			08:06
+05: Popplagid			11:10
+06: Outro			05:45
+
+-----------------------
+
+
+notes:  Joe ran it hot, and that made the limiter kick in like a mofo.
+	this explains the quick roll-off.
+
+compiled by Brian Emerick on 10/27/04.

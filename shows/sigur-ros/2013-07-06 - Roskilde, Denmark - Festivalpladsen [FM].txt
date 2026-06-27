@@ -1,0 +1,31 @@
+Band: Sigur Ros
+Date: July 6th 2013
+Location: Roskilde Denmark
+Venue: Festivalpladsen (http://roskilde-festival.dk/)
+Source: FM Recording
+Taper: kravad
+
+Equipment: Onkyo AV FM Receiver (TX-SR608) -> Sony Digital Recorder (PCM-M10) @ 24bit/48khz
+Lineage: SDHC Card -> PC -> Soundforge 10 (Volume Raised) -> Audacity (Resample/Dither 16bit/44khz) -> CD Wave Editor (Tracksplits) -> Traders Little Helper (Flac Level 8/SBE Fix)
+
+d029faca2cdc17161fc512f4f3f05bd0 *sigurros-2013-07-06-t01.flac
+aca31ce5bd44c6e65cb46ca8c9a34ab9 *sigurros-2013-07-06-t02.flac
+94fa99ef077de5d9410959b0b861a4a8 *sigurros-2013-07-06-t03.flac
+
+Total playing time: 19 minutes 41 seconds.
+
+Recording notes: Sigur Ros playing live at Roskilde Festival 2013.
+Only partial show broadcasted on radio (3 songs).
+This was broadcasted by Swedish Public Radio Channel 3 2013-08-14.
+Enjoy!
+
+http://www.sigur-ros.co.uk/kveikur/
+http://en.wikipedia.org/wiki/Sigur_R%C3%B3s
+https://myspace.com/sigurros
+https://twitter.com/sigurros
+
+* DO NOT CONVERT TO MP3 *
+* DO NOT SELL *
+* SUPPORT THE ARTISTS *
+* BUY THEIR ALBUMS *
+* GO SEE THEIR SHOWS *

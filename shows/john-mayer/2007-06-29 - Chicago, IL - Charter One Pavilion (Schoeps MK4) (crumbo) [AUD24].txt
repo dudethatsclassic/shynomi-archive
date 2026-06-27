@@ -1,0 +1,46 @@
+John Mayer
+Charter One Pavillion
+Chicago, IL
+June 29, 2007
+
+
+Taper:  Crumbo
+Location: Section 104, Row H, Seats 7 & 8
+Source:  Schoeps MK4 (DIN, ~10') > active cables > nbox+ > SD 722 (24/96)
+Conversion:  SD 722 > Wavelab 5.01b > CDWav 1.95.1 > xACT 0.5.9 > foobar2000
+
+
+***DO NOT DISTRIBUTE IN LOSSY FORMATS***
+***16/44.1 Version exists in flac format***
+
+
+01 Intro                                          01:18.707
+02 Waiting on the World to Change                 03:56.707
+03 Bigger Than My Body                            06:28.733
+04 Slow Dancing in a Burning Room                 06:46.440
+05 No Such Thing                                  04:10.160
+06 Love Soon >                                    01:36.240
+07 Clarity                                        06:29.307
+08 Dreaming With A Broken Heart                   04:30.813
+09 (The Eraser) >                                 01:41.400
+10 Vultures                                       07:59.080
+11 Intro                                          01:33.893
+12 Gravity                                        11:30.733
+13 Why Georgia                                    05:24.467
+14 Belief                                         08:41.467
+15 I Don't Need No Doctor                         09:26.800
+16 Encore Break                                   02:03.960
+17 Something's Missing (acoustic)                 06:53.160
+18 Covered in Rain (acoustic)                     06:09.853
+19 Your Body is a Wonderland                      07:04.773
+
+Total: 103:46.693
+
+
+Notes:
+
+-Windy show, rumblings can be heard during the quieter parts.
+-Thanks to Cristina for the tix and all the help.
+
+
+Compiled by Crumbo 7-2-2007.

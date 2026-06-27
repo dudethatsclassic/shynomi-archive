@@ -1,0 +1,26 @@
+FILTER
+December 31, 1995
+Agora Theatre
+Cleveland, OH
+
+Source: Core Sound Binaural > Sony TCD-D7
+Taper: jlizard
+Location: front row center balcony
+Lineage: DAT(M) > WAV [48] > FLAC
+Transfer: Sony PCM-R500 > M-Audio Audiophile 192 > Amadeus > xACT
+Edits/EQ: none
+Notes: none
+
+01 - Spent
+02 - Dose
+03 - It's Over
+04 - Gerbil
+05 - White Like That
+06 - Stuck in Here
+07 - Consider This
+08 - Take Another
+09 - Hey Man Nice Shot
+10 - Under
+
+
+Compiled December 2020 by CPS

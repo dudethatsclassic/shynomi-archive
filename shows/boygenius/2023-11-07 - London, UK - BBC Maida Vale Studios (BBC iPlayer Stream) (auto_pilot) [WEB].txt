@@ -1,0 +1,29 @@
+boygenius
+
+BBC Maida Vale studios
+London
+UK
+
+Recording date: ?? November 2023
+Broadcast date: Tuesday 7th November 2023
+
+Pre-recorded session for BBC 6Music Artist Collection
+https://www.bbc.co.uk/programmes/m001rz07
+
+BBC iPlayer archive stream > get_iplayer > .ts (aac, 320kbps/48kHz) > ffmpeg (trimming, rewrap as m4a)
+
+
+Not Strong Enough
+Cool About It
+Emily I'm Sorry
+True Blue
+$20
+Anti Curse
+We're In Love
+
+Running time [27:55]
+
+A brand new and exclusive session from boygenius, one of 6 Music's artists of the year. Featuring seven tracks from the supergroup made up of Phoebe Bridgers, Julien Baker and Lucy Dacus, all of which originally feature on the debut album The Record which was released earlier this year.
+
+auto_pilot
+November 2023

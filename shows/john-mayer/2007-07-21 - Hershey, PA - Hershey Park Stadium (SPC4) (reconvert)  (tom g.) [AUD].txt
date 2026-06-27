@@ -1,0 +1,88 @@
+John Mayer
+July 21, 2007
+Hershey Park Stadium
+Hershey, Pennsylvania
+
+
+
+Taper: Tom G. 
+
+Source: SPC4 (Bass rolloff setting) > Edirol UA5 > Nomad Jukebox 3 
+
+Location: SOB (left side of soundboard) near Section E Row 2, 90 degree config,stand at approx. 10 ft.
+
+Conversion: JB3 > Soundforge 8.0(Fade in and Fade out applied)> Normalized at 0.1 db
+                  L3 Volume Maximizer> Cd Wave Editor for track splitting
+
+Reconvert of original source adding L3 Volume Maximizer
+
+
+Disc 1           
+
+d1t01 Introduction					
+d1t02 Why Georgia 
+d1t03 Intro to Vultures--> 
+d1t04 Vultures  
+d1t05 Intro to Belief--> 
+d1t06 Belief 
+d1t07 Intro to Neon-->
+d1t08 Neon
+d1t09 Dreaming with a Broken Heart 
+d1t10 Bigger Than My Body 
+
+Disc 2
+
+d2t01 Intro to No Such Thing-->
+d2t02 No Such Thing
+d2t03 Slow Dancing in a Burning Room 
+d2t04 I Don't Trust Myself (With Loving You)
+d2t05 Good Love is on the Way
+d2t06 Waiting on the World to Change 
+d2t07 Gravity 
+
+d2t08 Encore Break
+
+**Encore**
+
+d2t09 Your Body is a Wonderland (Acoustic) 
+d2t10 I Don't Need No Doctor@ 
+
+
+
+@  Ray Charles cover
+   
+
+
+Notes: Hershey Park security made me take down the rig before I even completed setting up in the 10th row left stack due to ONE person complaining that the mic stand was blocking their view. I moved            over to the left side of the soundboard out of everyone's way.             Security however was nice enough to watch the rig during the               recording so I could sit in my seat. 
+
+       Volume level after conversion is a little low, just turn it up.
+
+
+ 
+
+Compiled by Tom Gambichler on September 21, 2007
+
+
+
+
+ 
+jm2007-07-21d1t01.flac:accca70ed075b1a929bd7143628d67fc
+jm2007-07-21d1t02.flac:5f12b9d02123dd67045fa8dc0549a1b9
+jm2007-07-21d1t03.flac:8ffa9f7fe5146fa9033b129a6b3a75f7
+jm2007-07-21d1t04.flac:27db5c3111a53ca39ade79b50cacc715
+jm2007-07-21d1t05.flac:2a697f6fc0d6c9212c30f30f52ec014b
+jm2007-07-21d1t06.flac:108af806d263ef075d3ad5f797a2f360
+jm2007-07-21d1t07.flac:0d269b55a396aaa66c818bc01449252d
+jm2007-07-21d1t08.flac:e8f224bab8407838d6ae2bc3100e697d
+jm2007-07-21d1t09.flac:adc4c4b030040ec8b031a698f3cf2333
+jm2007-07-21d1t10.flac:e152eca877f3a6893eef243b01c4bc90
+jm2007-07-21d2t01.flac:2ff5a01a443496a2220d305c6d64de75
+jm2007-07-21d2t02.flac:c2cff0461356c6df90c1cc642e28f3a1
+jm2007-07-21d2t03.flac:19be318782440c62c1b7e9235e33ed6c
+jm2007-07-21d2t04.flac:b4a4fb293d46a3d2335131da5d38b5c4
+jm2007-07-21d2t05.flac:299b6d05267ec32a361492ba4c501b47
+jm2007-07-21d2t06.flac:164cd6252ef75fe4da885c2eb19bc110
+jm2007-07-21d2t07.flac:550b017ff19dddd5ad7375b8b4b7ba6e
+jm2007-07-21d2t08.flac:4cd5b801b31542d7a474ba25425b1c9e
+jm2007-07-21d2t09.flac:eef15807078bc301b8a73b587b55c6c3
+jm2007-07-21d2t10.flac:77f3d4d2733ffbc423ebe388eec75434

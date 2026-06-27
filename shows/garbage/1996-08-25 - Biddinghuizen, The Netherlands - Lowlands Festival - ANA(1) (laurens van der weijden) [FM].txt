@@ -1,0 +1,40 @@
+GARBAGE
+August 25, 1996
+Lowlands Festival
+Biddinghuizen, The Netherlands
+
+
+DISC #1/1 (18:28)
+-----------------
+01) Fix Me Now (Cuts in in the last part)
+02) Not My Idea
+03) As Heaven Is Wide
+04) My Lovers Box
+05) Milk
+
+
+GENERATION
+-----------------
+FM -> ANA(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+
+SOURCE 
+-----------------
+soundboard -> Unknown
+
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> Audacity 1.2.6 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+
+NOTE
+-----------------
+Recorded from FM radio in 1995, this is all that was aired.
+
+
+INFO
+-----------------
+Taped & Transferred by Laurens van der Weijden.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+

@@ -20,9 +20,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Waltham, MA",
       "venue": "Brandeis University",
-      "notes": "Sennheiser MKE-2002 · stevemtl",
+      "notes": "Sennheiser MKE-2002 \u00b7 stevemtl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-12-10 - Waltham, MA - Brandeis University (Sennheiser MKE-2002) (stevemtl) [AUD].txt"
     },
     {
       "year": 1996,
@@ -46,9 +47,10 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Maastricht, The Netherlands",
       "venue": "Muziekgieterij",
-      "notes": "DPA 4061 · stl",
+      "notes": "DPA 4061 \u00b7 stl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-05-12 - Maastricht, The Netherlands - Muziekgieterij (DPA 4061) (stl) [AUD].txt"
     },
     {
       "year": 2023,
@@ -59,22 +61,24 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Brussels, Belgium",
       "venue": "Ancienne Belgique",
-      "notes": "DPA 4061SG · stl",
+      "notes": "DPA 4061SG \u00b7 stl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-05-17 - Brussels, Belgium - Ancienne Belgique (DPA 4061SG) (stl) [AUD].txt"
     },
     {
       "year": 2023,
       "month": 5,
       "day": 27,
       "dateStr": "5-27-2023",
-      "city": "Liège",
+      "city": "Lie\u0300ge",
       "state": "Belgium",
-      "location": "Liège, Belgium",
+      "location": "Lie\u0300ge, Belgium",
       "venue": "Classic 21 Festival 2023",
       "notes": "Country",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-05-27 - Lie\u0300ge, Belgium - Classic 21 Festival 2023 - Country Hall [FM].txt"
     },
     {
       "year": 2023,
@@ -85,9 +89,10 @@ const ARTIST_DATA = {
       "state": "Leuven",
       "location": "Oude Markt, Leuven, Belgium",
       "venue": "Beleuvenissen",
-      "notes": "CA-14 · trebor",
+      "notes": "CA-14 \u00b7 trebor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-07-07 - Oude Markt, Leuven, Belgium - Beleuvenissen (CA-14) (trebor) [AUD].txt"
     },
     {
       "year": 2023,
@@ -98,9 +103,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Deurne, Belgium",
       "venue": "OLT Rivierenhof",
-      "notes": "DPA 4061 · stl",
+      "notes": "DPA 4061 \u00b7 stl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-08-22 - Deurne, Belgium - OLT Rivierenhof (DPA 4061) (stl) [AUD].txt"
     },
     {
       "year": 2023,
@@ -111,9 +117,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Deurne, Belgium",
       "venue": "Openluchttheater Rivierenhof",
-      "notes": "Sony ECM 717 · tisnix",
+      "notes": "Sony ECM 717 \u00b7 tisnix",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-08-23 - Deurne, Belgium - Openluchttheater Rivierenhof  (Sony ECM 717) (tisnix) [AUD].txt"
     },
     {
       "year": 2023,
@@ -124,9 +131,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Deurne, Belgium",
       "venue": "OLT Rivierenhof",
-      "notes": "DPA 4061 · stl",
+      "notes": "DPA 4061 \u00b7 stl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-08-23 - Deurne, Belgium - OLT Rivierenhof (DPA 4061) (stl) [AUD].txt"
     }
   ],
   "misc": []

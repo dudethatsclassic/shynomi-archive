@@ -1,0 +1,38 @@
+Hoobastank
+2023-12-11
+The Echo
+Los Angeles, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro (Baby Got Back)
+02 - Same Direction
+03 - Out of Control
+04 - What Happened to Us?
+05 - Escape
+06 - Just One
+07 - Lucky
+08 - From the Heart
+09 - The Reason
+10 - Let It Out
+11 - Unaffected
+12 - Never There
+13 - Disappear
+14 - Give It Back
+15 - Slow Down
+16 - Running Away
+17 - Head Over Heels
+18 - Do Ya Think I'm Sexy?
+19 - Crawling in the Dark
+
+-- Notes --
+The Reason 20th anniversary show. Return to Dust opened.
+
+Length: 1h33m15s
+
+-- faninor -- 2024-01-02 --

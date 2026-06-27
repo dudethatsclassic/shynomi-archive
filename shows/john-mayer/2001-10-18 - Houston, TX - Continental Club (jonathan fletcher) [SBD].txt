@@ -1,0 +1,68 @@
+John Mayer
+October 18, 2001
+Continental Club - Houston, TX
+
+Taper: Jonathan Fletcher (j86442@yahoo.com)
+Source: SBD [mono] > MZR70
+Conversion: Sharp MD-R3 > DiO 2448 > Soundforge 5.0 (.wav) > CDWAVE (tracking) > MKW (.shn)
+
+
+01 Intro
+02 Why Georgia (try 1)
+03 A Song that doesnt exist
+04 Why Georgia (continued)
+05 My Stupid Mouth
+06 City Love
+07 Covered in Rain Outro Jam
+08 Back to You
+09 Your Body is a Wonderland
+10 Love Song for No One
+11 Why Did You Mess With Forever
+12 Not Myself
+13 3x5
+14 No Such Thing Intro
+15 No Such Thing
+16 Neon Intro
+17 Neon
+
+Total: 79:04
+
+This show will fit on one 80 minute disc, or Start Disc2 with Why did you Mess with Forever if you wish.
+
+Flac fingerprints:
+jm2001-10-18 01.flac:58015aa33c71e010e72b5c389f225673
+jm2001-10-18 02.flac:37bc85b53c786731996a07b7e867f434
+jm2001-10-18 03.flac:33345d790f3e99200fd53b581e543fac
+jm2001-10-18 04.flac:f28f2ea04ec2866f4660275de0c40f54
+jm2001-10-18 05.flac:208ead5b0bfa475e28181e362e1fa8b8
+jm2001-10-18 06.flac:7429c5e038c57f1900a8fb4d58bb4184
+jm2001-10-18 07.flac:04a011c7fa1b029865e49f78ac7b93be
+jm2001-10-18 08.flac:e2162b2aca70d13548ee592a78de719b
+jm2001-10-18 09.flac:971873946ba9d040f4fe169952c715f4
+jm2001-10-18 10.flac:6ed840dbcd335fe5b2b3b2f7b9446d82
+jm2001-10-18 11.flac:25959fb66ec918cf7387ce747b11c37f
+jm2001-10-18 12.flac:b1a9c6f43c334e723ddbe3dd45f9536e
+jm2001-10-18 13.flac:4fd9f0963796d1b392b14b3c166cdac0
+jm2001-10-18 14.flac:5dca55d2bd13dc6928a248b99ff88304
+jm2001-10-18 15.flac:010013e178655c4eeae999cddc931ac9
+jm2001-10-18 16.flac:216fa5e922be423650f5d9e45fd48502
+jm2001-10-18 17.flac:58d197191fe28edd55c3d7b97a9f87c5
+
+MD5 Checksums:
+89d4d82a009ed2b5707658fd47c16a54 *jm2001-10-18 01.flac
+8f2edd9be3205388c3fb82202fcd7eb3 *jm2001-10-18 02.flac
+78fa3c86ca007bf5341561fceee13d8f *jm2001-10-18 03.flac
+a5097620358d023afde797891c811b53 *jm2001-10-18 04.flac
+73e0c89852ad9539626592c2d40de775 *jm2001-10-18 05.flac
+4facbfd56134301d3610370a545c8f7a *jm2001-10-18 06.flac
+4d487bb23d69bd37ac08c16fdea2ff0f *jm2001-10-18 07.flac
+868a18904353ca11c66e72964cb3adff *jm2001-10-18 08.flac
+8263439e0720bdf6501feefde9a35458 *jm2001-10-18 09.flac
+91784f2763d2e102e6281593228173ad *jm2001-10-18 10.flac
+0bdcf4a4afd96c1cad1a7530e4e1dada *jm2001-10-18 11.flac
+9644fb069ada03a3800619319f545040 *jm2001-10-18 12.flac
+f25ea5c42298149e77924bded1a9f2b3 *jm2001-10-18 13.flac
+d8f5eb46fd8b02fa410c138869a17efc *jm2001-10-18 14.flac
+5a8987aae86cef67084faf4ba5357426 *jm2001-10-18 15.flac
+50c6ced0d7e22aa6da9b28a7827e96ff *jm2001-10-18 16.flac
+a3a3fb1d4392e8f1dac5ca86debfeee3 *jm2001-10-18 17.flac

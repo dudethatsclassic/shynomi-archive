@@ -1,0 +1,100 @@
+Wilco
+LC Pavilion
+Columbus, OH
+August 04 2012
+
+---16 bit source---
+
+SOURCE: 4 Mic Mix.
+
+SOURCE 1: Schoeps MK21 Subcard (NOS - 30cm @ 90 degrees, 12' tall ) > KC5 > CMC6 > Tascam DR-680 @ 24/96 FOB DFC back of the floor.   
+
+SOURCE 2: DPA 4021s (XY 12' tall) > EAA-PSP2 > Tascam DR-680 @ 24/96 FOB DFC back of the floor.
+
+MIX: The 2 mic sources were run right on top of each other on the same stand into the same DR-680, mixed in post. Mix is about 50/50 Schoeps & DPAs. 
+
+LINEAGE: Tascam DR-680 > Computer hard drive > Samplitude 11 (mix, fades, EQ with EQ116, light peak limiting with sMax11, normalize, resample & dither to 16/44.1) > CD Wave (Track) > Traders Little Helper (flac level 6) > Foobar 2000 (tags). 
+
+KNOWN FLAw 1: There was a burst of strange distortion on the Schoeps source at about 9:41 into the recording during the song   I Might. The DPA source fills in this space but you can the Schoeps source fade in and out.
+
+KMOWN FLAW 2: The DPAs had some wind rumble due to lesser wind screens so I ran a steep high pass to remove as much as I could on just that source and then removed the segments of that DPA source with wind noise between songs. 
+
+RECORDED BY:  Steve Brothers
+
+TRANSFERRED BY: Steve Brothers
+
+FILSIZE: 706 MB
+
+SETLIST: 
+
+Disk 1 (Part 1) (67:29)
+
+01: Art of Almost
+02: I Might
+03: War On War 
+04: Sunken Treasure
+05: Hell is Chrome
+06: Handshake Drugs
+07: I Am Trying to Break Your Heart
+08: Kamera
+09: Impossible Germany
+10: Born Alone
+11: Say You Miss Me
+12: Whole Love
+13: ELT
+
+
+Disk 2 (Part 2) (67:34)
+
+01: Via Chicago 
+02: Hate It Here
+03: Box Full of Letters
+04: I'm Always In Love
+05: Dawned On Me
+06: Shot in the Arm
+07: Hummingbird
+
+Encore:
+08: Passenger Side
+09: Airline to Heaven 
+10: Kingpin
+11: Standing O
+12: Heavy Metal Drummer
+13: I'm the Man Who Loves You
+14: Casino Queen
+
+---Lee Ranaldo Band (of Sonic Youth) opened---
+
+---For trade only, not for sale---
+
+MD5 CHECKSUM:
+
+5b03e4d1d542adc4520980c94021b89c *Wilco2012-08-04_SchoepsMK21_DPA4021_d1t01.flac
+f731de177de4da3957d9fc17ca598aef *Wilco2012-08-04_SchoepsMK21_DPA4021_d1t02.flac
+e7b2a01ee3a3e88cd2a7a66fce9e2661 *Wilco2012-08-04_SchoepsMK21_DPA4021_d1t03.flac
+8d2672e5549e857ca46c95bf3fc12dcb *Wilco2012-08-04_SchoepsMK21_DPA4021_d1t04.flac
+e17d32a953d6a84a5ea1c16c8617d868 *Wilco2012-08-04_SchoepsMK21_DPA4021_d1t05.flac
+06dc45f001b7e8485b3304c0b7e3467a *Wilco2012-08-04_SchoepsMK21_DPA4021_d1t06.flac
+d5787530801a9cba58a90cbc49cc3eff *Wilco2012-08-04_SchoepsMK21_DPA4021_d1t07.flac
+5c0cfe8e1dc62d319c69542eac74738b *Wilco2012-08-04_SchoepsMK21_DPA4021_d1t08.flac
+61954ad7cfe028e303fa26d788d0d034 *Wilco2012-08-04_SchoepsMK21_DPA4021_d1t09.flac
+5e8131e4b767c65e9f63ee5408999022 *Wilco2012-08-04_SchoepsMK21_DPA4021_d1t10.flac
+609d45cae34930045e1e51f2288d140a *Wilco2012-08-04_SchoepsMK21_DPA4021_d1t11.flac
+1dd78a936502dae9c7ac478384a5fb30 *Wilco2012-08-04_SchoepsMK21_DPA4021_d1t12.flac
+8b7d466488fcaad980c1821fb19fe236 *Wilco2012-08-04_SchoepsMK21_DPA4021_d1t13.flac
+ef2dc6def2db3ba2f84af5661c1d7881 *Wilco2012-08-04_SchoepsMK21_DPA4021_d2t01.flac
+afe865c26c9e0f6b1ca8c5deb3983967 *Wilco2012-08-04_SchoepsMK21_DPA4021_d2t02.flac
+2798a8a244803700bc4f0fa48e224f68 *Wilco2012-08-04_SchoepsMK21_DPA4021_d2t03.flac
+ba78dd82d092ac56a3ed02b83b08d1b3 *Wilco2012-08-04_SchoepsMK21_DPA4021_d2t04.flac
+0a2eb5a0417ebe19cdfdeb1fd2370273 *Wilco2012-08-04_SchoepsMK21_DPA4021_d2t05.flac
+156c640935a51a9e3e049f4173c894f0 *Wilco2012-08-04_SchoepsMK21_DPA4021_d2t06.flac
+5156b940bc3062f3a6ff04647a999667 *Wilco2012-08-04_SchoepsMK21_DPA4021_d2t07.flac
+ff02757353d11471d5c62d148b779ad1 *Wilco2012-08-04_SchoepsMK21_DPA4021_d2t08.flac
+3e5dd08313615fb411add895220a5b56 *Wilco2012-08-04_SchoepsMK21_DPA4021_d2t09.flac
+13cc1c5b81bd592736a684c8d7ac8ca5 *Wilco2012-08-04_SchoepsMK21_DPA4021_d2t10.flac
+68771783e3cccba939887602e1c41eb6 *Wilco2012-08-04_SchoepsMK21_DPA4021_d2t11.flac
+3e886867b3c8f02948ab50f47103ff2d *Wilco2012-08-04_SchoepsMK21_DPA4021_d2t12.flac
+d39ba6c8e7866084d9e0abfc35ed7ade *Wilco2012-08-04_SchoepsMK21_DPA4021_d2t13.flac
+cd9202b34ffc4729905ed9368cf4ca39 *Wilco2012-08-04_SchoepsMK21_DPA4021_d2t14.flac
+
+

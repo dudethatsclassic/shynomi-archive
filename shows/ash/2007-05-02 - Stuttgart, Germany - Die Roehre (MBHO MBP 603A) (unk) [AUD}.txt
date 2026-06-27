@@ -1,0 +1,34 @@
+ASH
+2007-05-02
+Die Roehre
+Stuttgart, Germany
+
+Source: MBHO MBP 603 A / KA 200 N > Sound Devices MP-2 > Edirol R-09
+Mic Config: in hat, DINA (17cm, 90°)
+Location: ~7m from the stage, center
+Transfer: Master WAV > Digital Editing > CD Wave Editor V1.95.1
+> FLAC V1.1.3
+Editing: EQ, volume boost and fades in Steinberg WaveLab V5.01b
+Dithering: UV22 HR dithering in Steinberg WaveLab V5.01b
+Resampling: 48.0 kHz > 44.1 kHz resampling in Steinberg WaveLab V5.01b
+
+Setlist:
+01 (Intro)
+02 Burn Baby Burn
+03 Orpheus
+04 You Can't Have It All
+05 Goldfinger
+06 Ritual
+07 Walking Barefoot
+08 Polaris
+09 A Life Less Ordinary
+10 Oh Yeah
+11 Girl From Mars
+12 Twilight of the Innocents
+13 (Encore Break)
+14 Jack Names the Planets
+15 Kung Fu
+
+Notes:
+Part of the "Visions Spring Tour".
+This is the 16-bit version of this recording. 

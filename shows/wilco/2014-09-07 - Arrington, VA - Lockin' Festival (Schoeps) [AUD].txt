@@ -1,0 +1,397 @@
+Wilco
+Lockn' Festival
+Arrington, Virginia
+9/7/2014 
+
+Source: Schoeps CCM4V'S(din)>Lunatec V2>Benchmark AD2K>
+Sound Devices 722 (24/48)
+FOB/DFC/KFC/ZFC/AARP Approximately 42' From Stage, 8' High 
+DSP: Sound Devices 722>Sound Forge 10.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Disc I 
+
+01 Ashes
+02 Hummingbird
+03 IATTBYH >
+04 Art Of Almost
+05 I Might
+06 Via Chicago
+07 The Whole Love
+
+Disc II 
+
+01 Box Full Of Letters
+02 I'm Always In Love 
+03 Side With The Seeds
+04 *Give Back The Key To My Heart
+05 Hesitating Beauty
+06 Late Greats
+07 Heavy Metal Drummer
+08 Airline To Heaven
+09 Hoodoo Voodoo
+10 Outta Mind, Outta Sight
+
+* with Mickey Rafael On Harmonica
+
+wilco2014-09-07d01t01.flac:702a41ccd0d9aa25d88bd1e5f3276436
+wilco2014-09-07d01t02.flac:08146ae78a73db9cb77ba5ca35ae4f77
+wilco2014-09-07d01t03.flac:6b780f58ddc0c6d80eb24374264fa971
+wilco2014-09-07d01t04.flac:53abf71922fee71f5dede71f2d5b073d
+wilco2014-09-07d01t05.flac:26ced56df57da0a579a908f7905869c8
+wilco2014-09-07d01t06.flac:f3579036d385fc314dc78610e6d947a3
+wilco2014-09-07d01t07.flac:7edc22ee3fa1c520437da48ba76079eb
+wilco2014-09-07d02t01.flac:bd6a29056b73d832e14d55b16b080126
+wilco2014-09-07d02t02.flac:fdd80aacf84ab8d7308e7d4b1f16cc28
+wilco2014-09-07d02t03.flac:9b05cbcca15df715d5619efb7688ba21
+wilco2014-09-07d02t04.flac:5ec1744772a4737a721bf6b783a7d3af
+wilco2014-09-07d02t05.flac:b78323ecae37ab9515e6e6828a5c2731
+wilco2014-09-07d02t06.flac:e2ee754a51e0b11f0e857bbef61e6fa1
+wilco2014-09-07d02t07.flac:25d47eb41fdcbadc97d20551c58159bd
+wilco2014-09-07d02t08.flac:f73f3a8db2b2e99730e0a81725dd6cf9
+wilco2014-09-07d02t09.flac:a30b563f035fcf4b28ba32c08e71f652
+wilco2014-09-07d02t10.flac:d92260c46748efe06cf59ddc01634e12
+
+  length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:09.30       65162204 B   ---   --   ---xx   flac  0.4221  wilco2014-09-07d01t01.flac
+     3:17.38       34840220 B   ---   --   ---xx   flac  0.4322  wilco2014-09-07d01t02.flac
+     6:19.29       66923852 B   ---   --   ---xx   flac  0.4756  wilco2014-09-07d01t03.flac
+     7:19.21       77489036 B   ---   --   ---xx   flac  0.4764  wilco2014-09-07d01t04.flac
+     5:46.02       61039148 B   ---   --   ---xx   flac  0.4644  wilco2014-09-07d01t05.flac
+     5:30.74       58386092 B   ---   --   ---xx   flac  0.4337  wilco2014-09-07d01t06.flac
+     4:50.32       51231308 B   ---   --   ---xx   flac  0.4342  wilco2014-09-07d01t07.flac
+     3:40.30       38878604 B   ---   --   ---xx   flac  0.5040  wilco2014-09-07d02t01.flac
+     3:49.16       40433276 B   ---   --   ---xx   flac  0.5450  wilco2014-09-07d02t02.flac
+     5:17.20       55965884 B   ---   --   ---xx   flac  0.4226  wilco2014-09-07d02t03.flac
+     4:12.21       44502236 B   ---   --   ---xx   flac  0.4522  wilco2014-09-07d02t04.flac
+     3:14.34       34301612 B   ---   --   ---xx   flac  0.4238  wilco2014-09-07d02t05.flac
+     3:00.30       31822604 B   ---   --   ---xx   flac  0.4611  wilco2014-09-07d02t06.flac
+     3:18.40       35021324 B   ---   --   ---xx   flac  0.5098  wilco2014-09-07d02t07.flac
+     6:09.49       65206892 B   ---   --   ---xx   flac  0.4580  wilco2014-09-07d02t08.flac
+     5:59.22       63379388 B   ---   --   ---xx   flac  0.5253  wilco2014-09-07d02t09.flac
+     3:47.43       40143980 B   ---   --   ---xx   flac  0.4951  wilco2014-09-07d02t10.flac
+    81:42.06      864727660 B                            0.4657  (17 files)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

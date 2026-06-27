@@ -1,0 +1,60 @@
+Wilco
+May 9, 1997
+The Fillmore - San Francisco, CA  
+
+Source:		SBD
+Lineage:	CD-R (unknown generation)->EAC(V0.95)->WAV->FLAC Frontend,level 8(1.7.1)->FLAC
+
+Disc 1 
+Misunderstood
+Far Far Away
+Forget the Flowers
+That's Not the Issue
+Someday Soon
+New Madrid
+The Lonely 1
+Red Eyed and Blue ->I Got You
+Someone Else's Song
+I Must Be High
+Passenger Side(fast)
+Hotel Arizona
+Monday
+Kingpin
+Outtasite(Outtamind)
+
+Disc2
+Sunken Treasure
+Casino Queen
+We've Been Had -> Casino Queen(reprise)
+Dueling Banjos -> I Wanna Be Sedated -> Color Me Impressed
+Box Full of Letters
+The Long Cut
+Immigrant Song
+
+Notes:  There are a few tracking errors, but nothing that takes away from this fine recording!
+
+Ripped and encoded by scottjh
+ 
+Fingerprints:
+wilco1997-05-09d1Track01.flac:63348fa0485ffe2b14ed6e5d67a01e75
+wilco1997-05-09d1Track02.flac:817bcb2f0cb4eb3f7d13eaeff9d5e1c6
+wilco1997-05-09d1Track03.flac:64a0e5b93a814eaca56404b15c0599b9
+wilco1997-05-09d1Track04.flac:fb3553f55f95be15f3121af059b52a6a
+wilco1997-05-09d1Track05.flac:1ef8b7a2a954f37c66809ca0e220fa66
+wilco1997-05-09d1Track06.flac:dfd29b3806350443dba0e92260f2fbec
+wilco1997-05-09d1Track07.flac:846008a9d3921b4a699fd38f954795dd
+wilco1997-05-09d1Track08.flac:094459053795cea1a74f0cf6a12af667
+wilco1997-05-09d1Track09.flac:f3f424b4052254d9e822c2df7aaf3b73
+wilco1997-05-09d1Track10.flac:0821f4b7701f1604fed070c83311a1cb
+wilco1997-05-09d1Track11.flac:2438ae466f8c06e7b6d91d8e12c1224a
+wilco1997-05-09d1Track12.flac:77b349b4271d96d83cf1125b209facbb
+wilco1997-05-09d1Track13.flac:18420f1d72b47a1258e956890b64794d
+wilco1997-05-09d1Track14.flac:c61322009508a33dfd6d38ec7aef5726
+wilco1997-05-09d1Track15.flac:467fe62b12e0cd39c509bfadb50fa77c
+wilco1997-05-09d2Track01.flac:b62d799d20dcf4ca691a22741f167ec3
+wilco1997-05-09d2Track02.flac:fc4342547433f1ca216d3b0e397df199
+wilco1997-05-09d2Track03.flac:377c722a2944d48a59f24d1b087760ad
+wilco1997-05-09d2Track04.flac:480be355d42f4663adbecbed44034ce2
+wilco1997-05-09d2Track05.flac:e7d098b2ca2b3ac9a608017be6063a30
+wilco1997-05-09d2Track06.flac:cbb348b0445e03f99055be500dcdd270
+wilco1997-05-09d2Track07.flac:7f275c186c2118f0bd201e6fc65de085

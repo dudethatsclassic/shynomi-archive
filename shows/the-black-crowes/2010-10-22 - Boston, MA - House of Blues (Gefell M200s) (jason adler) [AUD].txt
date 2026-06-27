@@ -1,0 +1,40 @@
+The Black Crowes
+House of Blues
+Boston, MA
+2010-10-22
+
+Source: Microtech Gefell M200's(DIN)>Audio Magic Hyper-Conductors>Edirol R-4(Oade T mod) @ 24/96
+
+Mic Placement: @sbd
+
+Transfer: R-4>USB>pc>Sound Forge 7(track, resample and dither to 16/44.1)> Flac Frontend 1.7.1
+
+Taped and Transferred by Jason Adler Jason at Galactic-Trading dotcom
+
+Set 1 acoustic set
+01. Jealous Again
+02. Hotel Illness
+03. Torn & Frayed
+04. My Hearts Killing Me
+05. Downtown Money Waster
+06. Thorn In My Pride
+07. Girl From A Pawnshop
+08. Wee Who See The Deep
+09. Time Will Tell
+10. My Morning Song
+
+Set 2 electric set
+01. Exit
+02. P.25 London
+03. Jam -> 
+04. Black Moon Creeping
+05. Ballad In Urgency ->
+06. Wiser Time
+07. Song Of Love
+08. Oh Josephine
+09. Hard To Handle
+10. Remedy
+11. encore break/banter
+12. She Talks To Angels
+13. Hey Grandma
+

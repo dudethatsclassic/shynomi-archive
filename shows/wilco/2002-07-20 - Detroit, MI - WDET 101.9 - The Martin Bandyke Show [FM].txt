@@ -1,0 +1,28 @@
+wilco
+wdet 101.9 fm, detroit mi
+'the martin bandyke show'
+
+recorded on:
+july 20, 2002
+
+broadcast on:
+july 22, 2002
+
+recording info:
+FM > sbm1 > da20 dat master @ 16bit/48kHz
+
+processing:
+dat master > da20 > waveterminal > adobe audition > cdwav > tlh flac 8
+
+these are 16bit/48kHz flac files
+
+01. intro
+02. i am trying to break your heart
+03. chat
+04. she's a jar
+05. chat
+06. war on war
+07. chat
+08. i'm the man who loves you
+09. outro
+

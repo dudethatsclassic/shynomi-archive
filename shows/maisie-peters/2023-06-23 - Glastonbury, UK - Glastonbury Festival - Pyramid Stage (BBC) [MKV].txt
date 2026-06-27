@@ -1,0 +1,212 @@
+Maisie Peters
+Pyramid Stage
+Glastonbury Festival
+U.K.
+2023-06-23 (Friday)
+
+https://www.bbc.co.uk/events/ec59hn
+https://www.bbc.co.uk/events/ec59hn/acts/avn9xj
+https://www.bbc.co.uk/events/ec59hn/play/avn9xj/p0fsyy2m
+https://www.bbc.co.uk/events/ec59hn/play/avn9xj/p0fw7qs5
+
+https://ichef.bbci.co.uk/images/ic/496x279/p0fwycp1.jpg
+https://ichef.bbci.co.uk/images/ic/304x171/p0fwy7zz.jpg
+https://ichef.bbci.co.uk/images/ic/304x171/p0fwy79k.jpg
+
+also:
+http://ichef.bbci.co.uk/images/ic/128x72/p0fwycp1.jpg
+http://ichef.bbci.co.uk/images/ic/144x81/p0fwycp1.jpg
+http://ichef.bbci.co.uk/images/ic/192x108/p0fwycp1.jpg
+http://ichef.bbci.co.uk/images/ic/256x144/p0fwycp1.jpg
+http://ichef.bbci.co.uk/images/ic/384x216/p0fwycp1.jpg
+http://ichef.bbci.co.uk/images/ic/480x270/p0fwycp1.jpg
+http://ichef.bbci.co.uk/images/ic/624x351/p0fwycp1.jpg
+http://ichef.bbci.co.uk/images/ic/608x342/p0fwycp1.jpg
+http://ichef.bbci.co.uk/images/ic/640x360/p0fwycp1.jpg
+http://ichef.bbci.co.uk/images/ic/864x486/p0fwycp1.jpg
+http://ichef.bbci.co.uk/images/ic/944x531/p0fwycp1.jpg
+http://ichef.bbci.co.uk/images/ic/976x549/p0fwycp1.jpg
+http://ichef.bbci.co.uk/images/ic/1024x576/p0fwycp1.jpg
+http://ichef.bbci.co.uk/images/ic/1280x720/p0fwycp1.jpg
+http://ichef.bbci.co.uk/images/ic/1632x918/p0fwycp1.jpg
+http://ichef.bbci.co.uk/images/ic/1920x1080/p0fwycp1.jpg
+etc ...
+
+BBC Website Live Stream > download script > ffmpeg > .mp4 > mkvmergeGUI v77.0.0 (chapters & audio delay) > .mkv file
+
+Video : 3840 x 2160p / 50fps @ 24Mbps
+Video Codec : V_MPEGH/ISO/HEVC
+Aspect Ratio : 16:9
+no logo
+Audio track : AAC 48kHz @ 192kbps
+Length : 56:28
+
+md5s:
+34405f673d6122f702204359cfdd934d *Maisie Peters 2023-06-23 Glastonbury Pyramid Stage HEVC 2160p Body Better.mkv
+47915d739f75d040f3878f6b521ceb8a *Maisie Peters 2023-06-23 Glastonbury Pyramid Stage HEVC 2160p.mkv
+========================================================================
+
+From highlights replay, with large "Recorded earlier" on-screen graphic :
+  1. Body Better (complete)
+Total Time : [3:20]
+
+Live stream :
+  1. Body Better (incomplete and with audio problems for the first minute)
+  2. I'm Trying (Not Friends)
+  3. Love Him I Don’t
+  4. You're Just A Boy (And I'm Kinda The Man)
+  5. Cate's Brother
+  6. Not Another Rockstar
+  7. Worst Of You
+  8. Villain
+  9. Run
+ 10. You Signed Up For This
+ 11. Brooklyn
+ 12. John Hughes Movie
+ 13. Lost The Breakup
+ 14. Blonde
+Total Time : [53:08]
+
+https://www.maisiepeters.co.uk/
+
+MediaInfo output:
+========================================================================
+General
+Unique ID                                : 236956036078005996047029318558591249056 (0xB2441291E3A65342321AEE2095046AA0)
+Complete name                            : Maisie Peters 2023-06-23 Glastonbury Pyramid Stage HEVC 2160p Body Better.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 576 MiB
+Duration                                 : 3 min 20 s
+Overall bit rate                         : 24.2 Mb/s
+Frame rate                               : 50.000 FPS
+Movie name                               : Maisie Peters 2023-06-23 Glastonbury Pyramid Stage : Body Better
+Encoded date                             : 2023-06-27 22:10:08 UTC
+Writing application                      : mkvmerge v77.0 ('Elemental') 64-bit
+Writing library                          : libebml v1.4.4 + libmatroska v1.7.1
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5.1@Main
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 3 min 20 s
+Bit rate                                 : 24.0 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Standard                                 : Component
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.058
+Stream size                              : 571 MiB (99%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.2020
+Transfer characteristics                 : HLG
+transfer_characteristics_Original        : HLG / BT.2020 (10-bit)
+Matrix coefficients                      : BT.2020 non-constant
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 3 min 20 s
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : 50 ms
+Stream size                              : 4.51 MiB (1%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Body Better
+========================================================================
+General
+Unique ID                                : 184411323974178530871407822045776514205 (0x8ABC543F6993D5C7DC2250F438910C9D)
+Complete name                            : Maisie Peters 2023-06-23 Glastonbury Pyramid Stage HEVC 2160p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 8.98 GiB
+Duration                                 : 53 min 8 s
+Overall bit rate                         : 24.2 Mb/s
+Frame rate                               : 50.000 FPS
+Movie name                               : Maisie Peters 2023-06-23 Glastonbury Pyramid Stage
+Encoded date                             : 2023-06-27 22:17:04 UTC
+Writing application                      : mkvmerge v77.0 ('Elemental') 64-bit
+Writing library                          : libebml v1.4.4 + libmatroska v1.7.1
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5.1@Main
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 53 min 8 s
+Bit rate                                 : 24.0 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Standard                                 : Component
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.058
+Stream size                              : 8.90 GiB (99%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.2020
+Transfer characteristics                 : HLG
+transfer_characteristics_Original        : HLG / BT.2020 (10-bit)
+Matrix coefficients                      : BT.2020 non-constant
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 53 min 8 s
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : 50 ms
+Stream size                              : 72.0 MiB (1%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Body Better
+00:03:01.000                             : en:I'm Trying (Not Friends)
+00:06:32.000                             : en:Love Him I Don't
+00:10:32.000                             : en:You're Just A Boy (And I'm Kinda The Man)
+00:14:18.000                             : en:Cate's Brother
+00:17:36.000                             : en:Not Another Rockstar
+00:21:01.000                             : en:Worst Of You
+00:25:16.000                             : en:Villain
+00:29:34.000                             : en:Run
+00:32:35.000                             : en:You Signed Up For This
+00:36:25.000                             : en:Brooklyn
+00:40:37.000                             : en:John Hughes Movie
+00:44:52.000                             : en:Lost The Breakup
+00:48:41.320                             : en:Blonde
+========================================================================

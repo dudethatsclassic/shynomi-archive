@@ -1,0 +1,39 @@
+Jellyfish
+The Grand, New York City, NY
+1993-05-26
+
+Source: Audience
+Lineage: Cass(?) Maxell XLII>Sony TC-WE305>Sound Forge>WAV>FLAC(8)
+
+Setlist:
+All Is Forgiven
+Sabrina, Paste & Plato
+That Is Why
+New Mistake
+Joining A Fan CLub
+I Wanna Stay Home
+He's My Best Friend
+The Ghost At #1
+The Man I Used To Be
+Baby's Coming Back
+The King Is Half Undressed
+No Matter What
+All I Want Is Everything
+Calling Sarah
+I Can Hear The Grass Grow
+
+01 AllIsForgiven.flac:542adb8829b219a18fd61c105abc7884
+02 SabrinaPaste&Plato.flac:ed755d9e75bde930b2bfb89cda2e2feb
+03 ThatIsWhy.flac:96b210289120fc5932125b44b64ddb6f
+04 NewMistake.flac:4fbf6acfd1a9f87a9d13eaa93b6a1093
+05 JoiningAFanClub.flac:2dfdd0dcebecbc3db7e17d95466616c4
+06 IWannaStayHome.flac:19d6768bdb2e0f7eedcaac76894015de
+07 BestFriend.flac:0e0712dfd7f168e0eddd5da27edd62b3
+08 TheGhostAtNumber1.flac:4abfda7e6d3110787e1e3a2e5625da9e
+09 TheManIUsedToBe.flac:3f21e12f68628c82ccd7e26567dabdfe
+10 BabysComingBack.flac:dd75a0662d920a245c3ee85336bf4a4a
+11 TheKingIsHalfUndressed.flac:b89ebcb9fbdcb7030cf78c20ea3d0a29
+12 NoMatterWhat.flac:136a9e36db4f1c94e917f1cb59e01a38
+13 AllIWantIsEverything.flac:7f85345656448ddc95f618144a3eb3d1
+14 CallingSarah.flac:7280ce35f715f5cced4bc63edfa43548
+15 ICanHearTheGrassGrow.flac:ab474f1d32d369c2de7664a2924352ed

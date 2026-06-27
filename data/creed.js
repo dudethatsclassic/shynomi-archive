@@ -26,7 +26,8 @@ const ARTIST_DATA = {
       "venue": "Deep Ellum",
       "notes": "ANA(x)",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-10-31 - Dallas, TX - Deep Ellum - ANA(x) [SBD].txt"
     },
     {
       "year": 1997,
@@ -39,7 +40,8 @@ const ARTIST_DATA = {
       "venue": "Gabe's Oasis",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-12-06 - IowaCity, IA - Gabe's Oasis (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -52,7 +54,8 @@ const ARTIST_DATA = {
       "venue": "Clutch Cargo's",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-02-13 - Pontiac, MI - Clutch Cargo's (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -65,7 +68,8 @@ const ARTIST_DATA = {
       "venue": "WBCN Studios and More",
       "notes": "FM + Fillers",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-02-25 - Boston, MA - WBCN Studios and More (FM + Fillers) [FM].txt"
     },
     {
       "year": 1998,
@@ -78,7 +82,8 @@ const ARTIST_DATA = {
       "venue": "Graffiti Lounge",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-03-05 - Pittsburgh, PA - Graffiti Lounge (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -89,7 +94,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "DAT(M) · CPS Transfer",
+      "notes": "DAT(M) \u00b7 CPS Transfer",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -102,9 +107,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-09-15 - New York, NY - Roseland Ballroom - ANA(x) (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -117,7 +123,8 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-12-12 - Orlando, FL - House of Blues [FM].txt"
     },
     {
       "year": 1999,
@@ -130,7 +137,8 @@ const ARTIST_DATA = {
       "venue": "Incognito",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-03-22 - Munich, Germany - Incognito [AUD].txt"
     },
     {
       "year": 1999,
@@ -143,7 +151,8 @@ const ARTIST_DATA = {
       "venue": "Woodstock 99",
       "notes": "East",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1999-07-25 - Rome, NY - Woodstock - East Stage [SBD24].txt"
     },
     {
       "year": 1999,
@@ -154,9 +163,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Auburn Hills, MI",
       "venue": "The Palace of Auburn Hills",
-      "notes": "ECM-MS907 · live2cd",
+      "notes": "ECM-MS907 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-10-15 - Auburn Hills, MI - The Palace of Auburn Hills (ECM-MS907) (live2cd) [AUD].txt"
     },
     {
       "year": 1999,
@@ -167,9 +177,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "Freeman Coliseum",
-      "notes": "SFX Radio Network · unk",
+      "notes": "SFX Radio Network \u00b7 unk",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-11-04 - San Antonio, TX - Freeman Coliseum (SFX Radio Network) (unk) [FM].txt"
     },
     {
       "year": 2000,
@@ -180,9 +191,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "West Palm Beach, FL",
       "venue": "Mars Music Amphitheater",
-      "notes": "VHS(x) · unk",
+      "notes": "VHS(x) \u00b7 unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2000-11-22 - West Palm Beach, FL - Mars Music Amphitheater - VHS(x) (unk) [DVD].txt"
     },
     {
       "year": 2002,
@@ -195,7 +207,8 @@ const ARTIST_DATA = {
       "venue": "Compaq Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-01-21 - Houston, TX - Compaq Center (unk) [AUD].txt"
     },
     {
       "year": 2002,
@@ -206,9 +219,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Air Canada Centre",
-      "notes": "Sony WM-DC3 · bowlingron",
+      "notes": "Sony WM-DC3 \u00b7 bowlingron",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-02-04 - Toronto, ON - Air Canada Centre (Sony WM-DC3)  (bowlingron) [AUD].txt"
     },
     {
       "year": 2002,
@@ -221,7 +235,8 @@ const ARTIST_DATA = {
       "venue": "Hershey Stadium *By The Light of the Silvery Moon",
       "notes": "SMP-005",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-08-24 - Hershey PA - Hershey Stadium - By The Light of the Silvery Moon (SMP-005) [Silver].txt"
     },
     {
       "year": 2024,
@@ -232,9 +247,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Port Canaveral, FL",
       "venue": "Pool Deck Mainstage",
-      "notes": "Norwegian · Edirol R09 · unk",
+      "notes": "Norwegian \u00b7 Edirol R09 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-04-27 - Port Canaveral, FL - Pool Deck Mainstage - Norwegian Jade - SUMMER OF 99 (Edirol R09) (unk) [AUD].txt"
     },
     {
       "year": 2024,
@@ -245,9 +261,10 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Pelham, AL",
       "venue": "Oak Mountain Amphitheatre",
-      "notes": "Schoeps MK4 · jesse mc",
+      "notes": "Schoeps MK4 \u00b7 jesse mc",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-08-14 - Pelham, AL - Oak Mountain Amphitheatre (Schoeps MK4) (jesse mc) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -258,9 +275,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Wheatland, CA",
       "venue": "Toyota Amphitheatre",
-      "notes": "SP-CMC-4U · vibrioidexire",
+      "notes": "SP-CMC-4U \u00b7 vibrioidexire",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-09-01 - Wheatland, CA - Toyota Amphitheatre (SP-CMC-4U) (vibrioidexire) (AUD24].txt"
     },
     {
       "year": 2025,
@@ -271,9 +289,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Norwegian Gem",
       "venue": "Summer of 99 Cruise -Pool Deck",
-      "notes": "Edirol R09HR · unk",
+      "notes": "Edirol R09HR \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-04-09 - Norwegian Gem - Summer of 99 Cruise -Pool Deck (Edirol R09HR) (unk) [AUD].txt"
     },
     {
       "year": 2025,
@@ -284,9 +303,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Club",
-      "notes": "Stagecoach · 1080p",
+      "notes": "Stagecoach \u00b7 1080p",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2025-04-26 - Indio, CA - Empire Polo Club -  Stagecoach Festival 2025 (1080p) [TS].txt"
     },
     {
       "year": 2025,
@@ -297,9 +317,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Schottenstein Center",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-07-20 - Columbus, OH - Schottenstein Center (SP-CMC-8) (live2cd) [AUD].txt"
     }
   ],
   "misc": [

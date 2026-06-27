@@ -1,0 +1,14 @@
+the black crowes
+meadowbrook amphitheater, rochester hills mi
+july 11, 1996
+
+recording gear:
+sony 959 > sony D3 DAT master @ 16bit/48kHz
+
+lineage:
+DAT Master > my DAT
+
+processing:
+Tascam DA-20 > jb3 > adobe audition > cdwav > tlh flac 8
+
+these are 16 bit/48kHz flac files

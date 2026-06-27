@@ -1,0 +1,29 @@
+Tori Amos
+8/28/1992
+Portland, OR
+at the Roseland Theatre
+
+Cassette from the collection of Wally Breese, generation unknown
+
+Transfer by Lisa071573: Marantz tape deck/graphic stereo equalizer >Line in >
+CoolEdit Pro (append wavs, light hiss removal, amplification of Me and a Gun) > CDWave (wav splitter) > Flac Frontend > flac (level 8)
+
+Notes: The range on this - like most of the 1992 Tori boots - is all over the place. Some of the stuff is very quiet and other songs are louder, almost clipping. I amplified Me and a Gun because it was very quiet, but didn't amplify any of the rest of it so as not to clip the recording during the loud parts.
+
+01. Numbness
+02. Crucify
+03. Silent All These Years
+04. Precious Things
+05. Happy Phantom
+06. Leather
+07. Here. In My Head
+08. Little Earthquakes
+09. Whole Lotta Love/Thank You
+10. Me and a Gun
+11. Winter
+12. Assholes Are Cheap Today
+13. Smells Like Teen Spirit
+14. Mother
+15. Sugar
+16. China
+17. Angie

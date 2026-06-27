@@ -1,0 +1,68 @@
+The Black Crowes
+Concord Pavilion
+Concord, CA
+August 21, 2021
+
+** 24 BIT **
+
+Source:  AKG C451B > Zoom F6 @ 32 bit/48 kHz)
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 130 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > iZotope 
+MBIT+ (dithered and downsampled to 24 bit/48 kHz) > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging) 
+Location:  Front row, 5 seats to the right of DFC, between Chris and Rich
+Recorded by:  Toshi
+Mastered by:  Dennis Orr
+
+Setlist: (1:44:30)
+01 Twice As Hard
+02 Jealous Again
+03 Sister Luck
+04 Could I've Been So Blind
+05 Chat
+06 Seeing Things
+07 Hard To Handle
+08 Thick N' Thin
+09 She Talks To Angels
+10 Struttin' Blues
+11 Stare It Cold
+12 No Speak No Slave
+13 Kickin' My Heart Around
+14 Soul Singing
+15 Wiser Time
+16 Band Intros
+17 Thorn In My Pride
+18 Sting Me
+19 Remedy
+20 Encore Break
+- Encore - 
+21 Hey, Hey, What Can I Do
+
+Chris Robinson – lead vocals, harmonica, acoustic guitar, & percussion
+Rich Robinson – guitar, backing vocals
+Sven Pipien – bass, backing vocals
+Isaiah Mitchell – guitar, backing vocals
+Joel Robinow – keyboards, backing vocals
+Brian Griffin – drums, percussion
+Leslie Grant - backing vocals
+Mackenzie Adams - backing vocals
+
+tbc2021-08-21t01.flac:5e4d8299f12a646f1030b5a34340e7d0
+tbc2021-08-21t02.flac:dcdddf187eeccfa47f5af00400741439
+tbc2021-08-21t03.flac:39c65644cc1ba33757c8847c03f6d6fd
+tbc2021-08-21t04.flac:092c6fd7ee56bf28195448d90922e455
+tbc2021-08-21t05.flac:30096484e199e6e08043626e11c6d827
+tbc2021-08-21t06.flac:687016632ad73b60c77954a87d6649ac
+tbc2021-08-21t07.flac:42984f318aefb916f81e1c4b93ef0d5d
+tbc2021-08-21t08.flac:a9f109addc61721dad4f815fb50c94f0
+tbc2021-08-21t09.flac:0475914695a4932c0cda415e46b9c966
+tbc2021-08-21t10.flac:21374a27cd44ed4c6af75693c068a2d0
+tbc2021-08-21t11.flac:f205adfcf85ca0767b0437c1d280fd75
+tbc2021-08-21t12.flac:7df731f8d60316c3b17692ab1920c3e0
+tbc2021-08-21t13.flac:8f78554f1d46d6f46a744c100a98a902
+tbc2021-08-21t14.flac:7f974244bdc0141a2eb2aa91a57dd72b
+tbc2021-08-21t15.flac:3451e2f1b86c6c1bbc1a747f0b9f264c
+tbc2021-08-21t16.flac:c4be9216fff33dc19d71f49680ca7cef
+tbc2021-08-21t17.flac:685ab02c0d0c477b97d2b194d6180138
+tbc2021-08-21t18.flac:e2c961ba8428acdb89fddd59b1c8b473
+tbc2021-08-21t19.flac:1af150dd63350c8706355056b40093d9
+tbc2021-08-21t20.flac:19b7491f156c956540f7ba7ee79194b1
+tbc2021-08-21t21.flac:812ab852194b284d9c5483e9a6e1cfaf

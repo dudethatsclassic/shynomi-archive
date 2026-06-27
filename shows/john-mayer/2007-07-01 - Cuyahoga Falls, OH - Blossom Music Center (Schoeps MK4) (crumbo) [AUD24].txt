@@ -1,0 +1,43 @@
+John Mayer
+Blossom Music Center
+Cuyahoga Falls, OH
+July 1, 2007
+
+
+Taper: Crumbo
+Location: Section 14, Row D, Seats 16 & 17
+Source: Schoeps MK4 (DIN, ~10') > active cables > nbox+ > SD 722 (24/96)
+Conversion: SD 722 > Wavelab 5.01b > CDWav 1.95.1 > xACT 0.5.9 > foobar2000
+
+
+***DO NOT DISTRIBUTE IN LOSSY FORMATS***
+***16/44.1 Version exists in flac format***
+
+
+01 Intro                                                   01:06.373
+02 Belief                                                  06:14.693
+03 Why Georgia                                             05:32.413
+04 I Don't Trust Myself (With Loving You)                  10:19.040
+05 Good Love is On the Way                                 04:12.307
+06 Gravity                                                 09:26.187
+07 Bigger Than My Body                                     07:05.440
+08 Waiting on the World to Change                          04:21.720
+09 No Such Thing                                           04:52.800
+10 Vultures                                                07:09.827
+11 Covered in Rain                                         07:01.160
+12 (Karma Police) > Victoria >                             02:05.467
+13 Clarity                                                 08:13.827
+14 I Don't Need No Doctor                                  09:01.080
+15 Encore Break                                            02:28.987
+16 Your Body is a Wonderland (acoustic)                    04:59.213
+17 I'm Gonna Find Another You                              07:30.480
+
+Total: 101:41.013
+
+
+Notes:
+
+-Thanks to Cristina and Julie for the tix, ride and all the help.
+
+
+Compiled by Crumbo 7-2-2007.

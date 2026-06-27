@@ -1,0 +1,72 @@
+The Black Crowes 
+Seminole Hard Rock Hotel & Casino
+Hollywood, FL
+June 9, 2022
+
+** 16 BIT **
+
+Source:  Schoeps CCM-4’s (cardioids) > Naiant Tinybox > Roland R-05 @ 16 bit/44.1 kHz
+Mastering:  .WAV > iZotope RX9 Advanced v9.0.0.1130 (De-click, De-wind) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Waves C4 Multiband Parametric Processor (UNcompressor), Boz 
+Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  Balcony Rail, in line with stage left stack
+Recorded by:  Jon D
+Mastered by:  Dennis Orr
+
+Setlist: (1:46:13)
+01 Crowd 
+02 Shake Your Money Maker Intro >
+03 Twice As Hard
+04 Jealous Again
+05 Sister Luck
+06 Could I've Been So Blind
+07 Seeing Things
+08 Chat
+09 Hard To Handle
+10 Thick N' Thin
+11 She Talks To Angels
+12 Struttin' Blues
+13 Stare It Cold
+14 No Speak No Slave
+15 Sting Me
+16 Papa Was A Rolling Stone
+17 Wiser Time
+18 Band Intros
+19 Thorn In My Pride
+20 Remedy
+21 Encore Break
+- Encore - 
+22 Moonage Daydream
+23 Crowd
+
+Chris Robinson – lead vocals, harmonica, acoustic guitar, & percussion
+Rich Robinson – guitar & backing vocals
+Sven Pipien – bass & backing vocals
+Isaiah Mitchell – guitar & backing vocals
+Joel Robinow – keyboards & backing vocals
+Brian Griffin – drums & percussion
+Leslie Grant - backing vocals
+Mackenzie Adams - backing vocals
+
+tbc2022-06-09t01.flac:af42772622d692cfa049bde9673fa8e4
+tbc2022-06-09t02.flac:b98714f97bb3bb09f1d2d32c90db0c91
+tbc2022-06-09t03.flac:9b045aa26bef9f50587414131e8cbaea
+tbc2022-06-09t04.flac:5dc5781ef67acee7202cae2648f1ff03
+tbc2022-06-09t05.flac:38cfb9cf4b33ccaadd4c457445a1dade
+tbc2022-06-09t06.flac:214fa2e6f83d44d14ab7d227d95a9258
+tbc2022-06-09t07.flac:859db2840139e4448e8c1ef7aa8eefed
+tbc2022-06-09t08.flac:f4bc419cf608c05292a1b2ced951eb70
+tbc2022-06-09t09.flac:b97dd2eeda5cee11ee9eaca0cbfcb013
+tbc2022-06-09t10.flac:77ed1d0cf162c6a183faadcbd9f9d4eb
+tbc2022-06-09t11.flac:3be8dc5d034fe959cc876f77aae76599
+tbc2022-06-09t12.flac:f45c919abde7ea406d046dbcc494966f
+tbc2022-06-09t13.flac:b6d86c3a4050cd0d91991f10202c2c89
+tbc2022-06-09t14.flac:6baba53f44548b4c970dca79c2dec721
+tbc2022-06-09t15.flac:2c65fe55f3263f050859a1893a809cf5
+tbc2022-06-09t16.flac:5869a00bc91d9a8e7bd52a254048ace9
+tbc2022-06-09t17.flac:d477495ef96b8a7d6170de5b6af64d4b
+tbc2022-06-09t18.flac:2f9b5a5e6561187bba5192fc996cc10d
+tbc2022-06-09t19.flac:e71d2bd888b691efa5ffce2b24aedb60
+tbc2022-06-09t20.flac:78d3a9c04c9b8973bdd3b013f0b72439
+tbc2022-06-09t21.flac:37fc07f17be9d7c299bfe1ebcdfc511d
+tbc2022-06-09t22.flac:66f6fd4dbfd14ca2f22454d98944a0bf
+tbc2022-06-09t23.flac:c254a363b962dd0f91c037fa14831ebb

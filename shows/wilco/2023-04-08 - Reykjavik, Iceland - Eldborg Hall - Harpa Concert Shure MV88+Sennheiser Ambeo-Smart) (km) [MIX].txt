@@ -1,0 +1,53 @@
+Wilco
+April 8, 2023
+Eldborg Hall, Harpa Concert & Conference Center
+Reykjavik, Iceland
+
+Lineage 1: Shure MV88 > ShurePlus MOTIV for iOS (iPhone 11MAX Pro) (24bit/48kHz)
+Lineage 2: Sennheiser Ambeo-Smart headset  > ShurePlus MOTIV for iOS (iPhone 13) (24bit/48kHz)
+Transfer: Audacity-Mixed, Tracked and Downsampled to 16/48, Converted to FLAC Level 6
+[> Soundforge Pro 12 (light EQ, Levels raised] > SSRC > CDWave 1.98 > TLH 2.70 > FLAC, re-named files, added new info file]
+Position: Row 12, Front orchestra, stage left (Pat's Side)
+
+Recorded & Tracked: KM
+
+
+01 At Least That's What You Said  [5:19]
+02 Spiders (Kidsmoke)  [10:48]
+03 The Universe  [3:34]
+04 I Am My Mother  [2:32]
+05 Cruel Country  [3:40]
+06 You Are My Face  [5:10]
+07 Whole Love  [4:05]
+08 Banter  [0:30]
+09 Mystery Binds  [3:10]
+10 Side With The Seeds  [5:15]
+11 One And A Half Stars  [3:33]
+12 Banter  [5:15]
+13 Tired Of Taking It Out On You  [3:48]
+14 Impossible Germany  [9:09]
+15 Banter  [0:33]
+16 Sunken Treasure > [6:17]
+17 Not For The Season  [8:52]
+18 Reservations  [3:55]
+19 Jesus, Etc.  [4:05]
+20 Either Way  [3:07]
+21 Banter  [1:24]
+22 Hate It Here  [4:51]
+23 Dawned On Me  [3:30]
+24 Encore Break  [2:25]
+25 The Late Greats  [2:52]
+26 Heavy Metal Drummer  [3:16]
+27 A Shot In The Arm  [5:02]
+28 On And On And On   [5:21]	
+
+Total Time: 121:32
+
+
+The original, already mixed, files of this show were given to me by KM, all dues to him, many thanks for sending them my way.
+I just added some light EQ (basically taking out some of the lower bass frequencies), raised the volume and re-tracked it (leaving KM's track splits more or less intact).
+
+
+Respect the Artists
+Never sell - for trade only
+Please do not encode to lossy formats

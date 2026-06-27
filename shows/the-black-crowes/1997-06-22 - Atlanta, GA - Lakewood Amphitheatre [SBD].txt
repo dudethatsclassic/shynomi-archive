@@ -1,0 +1,15 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+    12:56.34      136966412 B   ---   --   ---xx   flac  0.6137  bc1997-06-22t01.flac
+     4:56.07       52230908 B   ---   --   ---xx   flac  0.6251  bc1997-06-22t02.flac
+     5:10.51       54803996 B   ---   --   ---xx   flac  0.5973  bc1997-06-22t03.flac
+     5:12.08       55055660 B   ---   --   ---xx   flac  0.5709  bc1997-06-22t04.flac
+     6:43.50       71206844 B   ---   --   ---xx   flac  0.6247  bc1997-06-22t05.flac
+     4:34.66       48488876 B   ---   --   ---xx   flac  0.6493  bc1997-06-22t06.flac
+     2:53.25       30576044 B   ---   --   ---xx   flac  0.6239  bc1997-06-22t07.flac
+     7:12.15       76240124 B   ---   --   ---xx   flac  0.5797  bc1997-06-22t08.flac
+     5:36.50       59388044 B   ---   --   ---xx   flac  0.6356  bc1997-06-22t09.flac
+     2:52.51       30460796 B   ---   --   ---xx   flac  0.6509  bc1997-06-22t10.flac
+     5:51.00       61916444 B   ---   --   ---xx   flac  0.6153  furthurjam1997-06-22t01.flac
+     6:03.55       64162604 B   ---   --   ---xx   flac  0.5959  furthurjam1997-06-22t02.flac
+     9:53.38      104694620 B   ---   --   ---xx   flac  0.5862  furthurjam1997-06-22t03.flac
+    79:57.00      846191372 B                            0.6091  (13 files)

@@ -1,0 +1,104 @@
+Wilco
+
+Zurich, Switzerland
+Volkshaus
+November 15, 2016
+
+Audience recording
+Neumann km140 > Denecke PS-2 > Marantz PMD661 (16 bit - 44.1 KHz) > Cool Edit > CD Wave
+taper: romeo
+
+CD 1 (55:52) 
+01. On and On and On
+02. Normal American Kids
+03. If I Ever Was a Child
+04. Cry All Day
+05. I Am Trying to Break Your Heart
+06. Art of Almost
+07. Pickled Ginger
+08. Via Chicago
+09. Bull Black Nova
+10. Reservations
+11. Impossible Germany
+
+CD 2 (63:18) 
+12. Misunderstood
+13. Someone to Lose
+14. We Aren't the World (Safety Girl)
+15. Box Full of Letters
+16. Cold Slope 
+17. King of You
+18. Hummingbird
+19. Heavy Metal Drummer
+20. I'm the Man Who Loves You
+21. The Late Greats
+22.  encore break
+23. Jesus, Etc.
+24. Locator
+25. Random Name Generator
+26. Spiders (Kidsmoke)
+
+total time: 1:59:11
+
+Jeff Tweedy
+John Stirratt
+Glenn Kotche
+Mikael Jorgensen
+Nels Cline
+Pat Sansone
+
+md5 file
+2ef19dceaf32c9d9f9b8d4594bc2c9dd *wilco2016-11-15t01.flac
+4af00b81714f2986780d3cc19093ed02 *wilco2016-11-15t02.flac
+f2c919d1ba7ff3f4ec168e887b1774c6 *wilco2016-11-15t03.flac
+a0d04979849b0817b792617be3c17846 *wilco2016-11-15t04.flac
+19eeba65a7a15b46fcef584409a05582 *wilco2016-11-15t05.flac
+743c5e5f165777b76613c6b1d88d5bc0 *wilco2016-11-15t06.flac
+86e97f0cf31dd48fe2b7edc644e31e11 *wilco2016-11-15t07.flac
+481d447d592294acea6cdebf4ec2e89d *wilco2016-11-15t08.flac
+1b15e393ae82c7db3b311b0c2189f276 *wilco2016-11-15t09.flac
+52b86a161dadef863050561ddd2c2ce3 *wilco2016-11-15t10.flac
+079110c07cfdac0b5537df1cbca11253 *wilco2016-11-15t11.flac
+26e3b659094db3a92dea263440906457 *wilco2016-11-15t12.flac
+c7195fe4a0abccdaacb785e8eb54c589 *wilco2016-11-15t13.flac
+47b280083220ea821c5f1795b2c3c420 *wilco2016-11-15t14.flac
+6ad578d870817fc7f057343bdcc43d83 *wilco2016-11-15t15.flac
+07ff73d540452d9a8541b0385a4fa76b *wilco2016-11-15t16.flac
+b6b67c8a148c1768d4d821a3cbe0205c *wilco2016-11-15t17.flac
+a0db50a2078b8c95fd4ee4140f00497f *wilco2016-11-15t18.flac
+5a1734001734a287b51d9a50ef19a6ae *wilco2016-11-15t19.flac
+93cd1989968e32d22f86cb53d2c6dd4e *wilco2016-11-15t20.flac
+1ce9ed18a745e4dd8896db811219defe *wilco2016-11-15t21.flac
+5071085f299d14d48a7ac945154c1ccd *wilco2016-11-15t22.flac
+896464d9a277f35ac701ec74c59d3498 *wilco2016-11-15t23.flac
+b41f5624319ed95198a17ed379fd42b6 *wilco2016-11-15t24.flac
+9b3002bb0780e7b798d85fbcd105ff1b *wilco2016-11-15t25.flac
+2e8ec63bf7661ea788b20596ba5972fd *wilco2016-11-15t26.flac
+
+ffp file
+wilco2016-11-15t01.flac:8819eaf67b564cfe16756b76bab8688c
+wilco2016-11-15t02.flac:8e283c527e254339197545056c4de9af
+wilco2016-11-15t03.flac:6fe1000079bcee2df4b0616673294dd0
+wilco2016-11-15t04.flac:96b3e218f257c578de7c6e434f643874
+wilco2016-11-15t05.flac:0ad9b2a76b7549c1fc01603d1badb4b5
+wilco2016-11-15t06.flac:3548d3c6311919284a987d5fd67f5047
+wilco2016-11-15t07.flac:3c5c5751401601b4a41be5632c7d4daf
+wilco2016-11-15t08.flac:6be4bfbc2b66e0383d25958f5c93bd9a
+wilco2016-11-15t09.flac:b6aaf3e4078a5f341f9b89fb1882de26
+wilco2016-11-15t10.flac:5e6a6040964cb3a5b098b34b0737ba61
+wilco2016-11-15t11.flac:902d6e34d5ee590cdc23d6b2bb6a10fa
+wilco2016-11-15t12.flac:c41a9a86f469be9ca50f8449ec1ff3b5
+wilco2016-11-15t13.flac:a030775d4dbe6800d6ba0d50ae4e7f30
+wilco2016-11-15t14.flac:2a102364877f1ce5c6740ffbe0e3c278
+wilco2016-11-15t15.flac:d69b243e987821b9df7bd8689921891b
+wilco2016-11-15t16.flac:3f859eb6dd17eabfa5d2d702a2e88749
+wilco2016-11-15t17.flac:e5b9b906cdc7928021b315317b81f854
+wilco2016-11-15t18.flac:260d53e8278ec9e3cf4c1a7f1dd9f6ea
+wilco2016-11-15t19.flac:1e92d16a2a30f0096af01f1985ae28a9
+wilco2016-11-15t20.flac:380a597e0d7db83dd5858208f51ee3c0
+wilco2016-11-15t21.flac:15742594ff52f4fcff52c5da9df1bf2e
+wilco2016-11-15t22.flac:f0346add10b0129858c0840987c86a35
+wilco2016-11-15t23.flac:da87d7f2f8326009542999c3156340a6
+wilco2016-11-15t24.flac:cc4211ebf40e10d365b181fc6fbc8bf7
+wilco2016-11-15t25.flac:9792654c01ab226c119a2011aaf70fed
+wilco2016-11-15t26.flac:18cc0c80b26a568989f5a543624bc6ff

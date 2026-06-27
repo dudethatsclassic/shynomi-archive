@@ -1,0 +1,56 @@
+Soul Asylum
+"MTV Alternative Nation Tour"
+Bayfront Park Amphitheater
+Miami, FL
+June 15, 1993
+(Opened for Spin Doctors)
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P > Denon DTR-80P > DAT Master > .WAV @ 16 bit/48 kHz
+Mastering:  .WAV > iZotope RX9 Advanced v9.0.0.1130 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > 
+iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded by:  Michael ("Datfly") Wolf
+Mastered by:  Dennis Orr
+
+Setlist: (48:56)
+01 Intro
+02 Without A Trace
+03 All The King's Friends
+04 Cartoon
+05 Keep It Up
+06 Get On Out
+07 New World
+08 Black Gold
+09 Runaway Train
+10 Spinnin' >
+11 Somebody To Shove
+12 April Fool
+13 Suspicious Minds >
+14 Jessica
+15 99%
+
+Dave Pirner - lead vocals & guitar
+Dan Murphy - lead guitar & backing vocals
+Karl Mueller - bass
+Joey Huffman - keyboards
+Grant Young - drums
+
+Notes:
+The lineup was Screaming Trees, Soul Asylum, and Spin Doctors
+
+SoulAsylum1993-06-15t01.flac:1c51d339ee2e18c96edccc71f8cb8b0d
+SoulAsylum1993-06-15t02.flac:f2b216f7820d49f3924c4ba8690fbab7
+SoulAsylum1993-06-15t03.flac:fa82214684805ae71453e68c14f14b9b
+SoulAsylum1993-06-15t04.flac:4e82b47fa852d2e8073f6b6511bf47a8
+SoulAsylum1993-06-15t05.flac:28dc9dfc060565a57c2b10c2605edcab
+SoulAsylum1993-06-15t06.flac:c63800b968b53dcbe1c56b8e9efa756d
+SoulAsylum1993-06-15t07.flac:cf35fd4446df0d65f01194b3d81c0fb5
+SoulAsylum1993-06-15t08.flac:1600d820887951a52e6baddea3d780e0
+SoulAsylum1993-06-15t09.flac:fe1026312912a8545a8f715aae0ee165
+SoulAsylum1993-06-15t10.flac:553d8a32bb2aa8120b504ff29d535d04
+SoulAsylum1993-06-15t11.flac:7e1513635e55f12686fa190ac46e3ecc
+SoulAsylum1993-06-15t12.flac:ba4fbd0aa2abdb79646726854f78ca43
+SoulAsylum1993-06-15t13.flac:5a9bd840e0f1eecfda8da2f2baea41b1
+SoulAsylum1993-06-15t14.flac:aa41b77982914ac887b89392fc66c4f5
+SoulAsylum1993-06-15t15.flac:6f21ec776407d3d4499a87a310d6eaf0

@@ -1,0 +1,78 @@
+wilco2011_12_15_marty_lennartz_intro.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t01.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t02.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t03.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t04.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t05.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t06.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t07.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t08.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t09.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t10.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t11.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t12.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t13.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t14.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t15.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t16.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t17.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t18.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t19.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t20.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t21.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t22.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t23.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t24.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t25.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t26.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t27.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t28.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t29.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t30.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t31.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t32.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t33.flac:  tested ok (file is decodable without error).
+wilco2011_12_15t34.flac:  tested ok (file is decodable without error).
+
+No errors occured.
+
+
+wilco2011_12_15_marty_lennartz_intro.flac:d1a1538e246cbe49c5fb890daee1b131
+wilco2011_12_15t01.flac:2593ed01d6e18f160c1b6ecd1a3e1a32
+wilco2011_12_15t02.flac:c62c83986f376a04a3e6fd257f28c778
+wilco2011_12_15t03.flac:82980bcc875355f2a74529b92b78c83d
+wilco2011_12_15t04.flac:94bf4939dfdbf55698cdd55702464605
+wilco2011_12_15t05.flac:f8a9844cede461ed8a6e6d6258ff6996
+wilco2011_12_15t06.flac:66ab29ddd30442994bfd0b16e877b862
+wilco2011_12_15t07.flac:d3734bdcfddfc93be49ad32389bc69f9
+wilco2011_12_15t08.flac:5cb5c5a264b5d254e938ef2d121d9f26
+wilco2011_12_15t09.flac:0dfefaebafae9180ad62e8fda64fafe8
+wilco2011_12_15t10.flac:d7db49770356cda73e5c75faad2c0a6f
+wilco2011_12_15t11.flac:761dfafa8e7c81c1124556c168132edd
+wilco2011_12_15t12.flac:95e6d76086a7a60bfc62c43aa033834c
+wilco2011_12_15t13.flac:42e79ec2bccbcd609f45dd403689d43a
+wilco2011_12_15t14.flac:52834f28d079b2b655c0cd6b441c6b91
+wilco2011_12_15t15.flac:104fa4027e0dae1412fcdc59d9c28158
+wilco2011_12_15t16.flac:06c4d05f2ec17ff38352549263dd2be9
+wilco2011_12_15t17.flac:5de0cc8013352dedb1db2b9ce75d2ae8
+wilco2011_12_15t18.flac:a78fd7aa954bcd58f16486a66be5d94e
+wilco2011_12_15t19.flac:077794cba0e771946da1e4db344b228d
+wilco2011_12_15t20.flac:78a4f19e63dbef0da3a9de71967df415
+wilco2011_12_15t21.flac:4b4dd0f02c7d8e245adea195ecf7d199
+wilco2011_12_15t22.flac:44f8ae09e4d41c8242e680aff313e228
+wilco2011_12_15t23.flac:c26a00fb7cb062ae308957723b325ee9
+wilco2011_12_15t24.flac:bc9c38b19063469315455cb6e5286af8
+wilco2011_12_15t25.flac:faea43617bfc3c08a369dbbdd63a1eb9
+wilco2011_12_15t26.flac:260c133a6288462d80b4035829679040
+wilco2011_12_15t27.flac:1988cbfaadda8b3dd8380ab604de9e30
+wilco2011_12_15t28.flac:4a70e5201c4de2a957fb7bd4a67155a0
+wilco2011_12_15t29.flac:4cb22d87955722e56e7bfe154a05d57b
+wilco2011_12_15t30.flac:b7af1a60f75e89318086d2db1d8414f0
+wilco2011_12_15t31.flac:d5e56ce5c668a3a324cfb1923dc485c4
+wilco2011_12_15t32.flac:f35f8c40bcee4604defa88885103ddd7
+wilco2011_12_15t33.flac:8b34bf95691902e35b85dc0dab6970d9
+wilco2011_12_15t34.flac:c606eab3e28f8fb218733d4ab817a0a7
+
+Checksum file saved to disk.
+
+No errors occured.

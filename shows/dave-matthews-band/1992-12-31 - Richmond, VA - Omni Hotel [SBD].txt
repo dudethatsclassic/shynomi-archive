@@ -1,0 +1,48 @@
+Dave Matthews Band
+Omni Hotel - Richmond, VA
+December 31, 1992
+
+Source: DSBD
+Conversion: Sony 60ES > Digi-Coax > Lucid PCI24 > Samplitude/CD-Wav
+Converted by: Bill Lakenan <blakenan@us.net>
+
+Disc 1:
+- Set I -
+01: Seek Up * <cut>
+02: Cry Freedom *
+03: One Sweet World
+04: What Would You Say
+05: Pay For What You Get
+06: Help Myself
+07: Lie In Our Graves
+08: So Much To Say
+09: True Reflections
+
+Disc 2:
+- Set II - 
+01: <Countdown> -> Ants
+02: Two Step
+03: Jimi Thing
+04: Satellite
+05: Angel from Montgomery
+06: Halloween
+
+Disc 3:
+01: Minarets ->
+02: Blue Water
+03: Granny
+04: Lover Lay Down
+05: Dancing Nancies
+06: Spotlight
+07: <encore intro>
+08: I'll Back You Up
+09: Tripping Billies
+
+* - Dave Matthews Solo Acoustic
+
+Notes:
+- I made one edit after transferring at 9:47 of Blue Water.  There was
+a short pop in the right channel.  I simply cloned 20 samples from the
+left channel to replace the "pop" samples.  I generally don't make
+edits, but I figured that less than 1/2000th of a second is hardly a big
+deal.

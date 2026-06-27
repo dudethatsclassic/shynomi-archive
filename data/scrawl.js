@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "Knitting Factory",
       "notes": "jason",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-01-25 - New York, NY - Knitting Factory (jason) [SBD].txt"
     }
   ],
   "misc": []

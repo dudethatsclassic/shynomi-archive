@@ -1,0 +1,20 @@
+Sigur Ros
+Roskilde Festival, Roskilde, Denmark
+July 6, 2013
+
+Lineage: Sveriges Radio Webcast Audio (192kbps AAC)>avconv 9.16-6:9.16-0ubuntu0.14.04.1>wav>flac
+
+01 Yfirborð
+02 Brennisteinn
+03 Glósoli
+04 Vaka (Untitled 1)
+05 Sæglópur
+06 E-Bow (Untitled 6)
+07 Hrafntinna
+08 Varuð
+09 Hoppípolla
+10 Kveikur
+11 Festival
+
+not broadcast: 12 Popplagið (Untitled 8)
+

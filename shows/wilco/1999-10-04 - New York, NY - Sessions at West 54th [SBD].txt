@@ -1,0 +1,46 @@
+Wilco
+10-4-99 
+Sessions At West 54th, New York, NY
+
+Source: SBD>?>shn>wav>CDWav(trimmed TAO gaps)>Sound Forge 7.0(applied fades at beginning and end)>shntool(verified and joined wavs)>CDWav(re-split tracks)>MKW>shn
+
+1. crowd noise
+2. intro
+3. California Stars
+4. I'm Always in Love
+5. I Must be High
+6. How to Fight Loneliness
+7. Nothing'severgonnastandinmyway(again)
+8. Red-Eyed and Blue>
+9. I Got You (At the End of the Century)
+10. She's a Jar
+11. A Shot in the Arm
+12. Misunderstood
+13. Hesitating Beauty
+14. My Darling
+15. Can't Stand It
+16. Monday
+
+Shntool results:
+
+C:\Documents and Settings\Owner\My Documents\My Music\converted>shntool len *.shn
+
+    length     expanded size   cdr  WAVE  probs   filename
+     0:46.54       8241452     ---   --    -xx    wilco1999-10-04t01.shn
+     0:38.25       6762044     ---   --    -xx    wilco1999-10-04t02.shn
+     4:22.66      46372076     ---   --    -xx    wilco1999-10-04t03.shn
+     4:12.70      44617484     ---   --    -xx    wilco1999-10-04t04.shn
+     3:10.18      33558380     ---   --    -xx    wilco1999-10-04t05.shn
+     5:07.18      54197180     ---   --    -xx    wilco1999-10-04t06.shn
+     3:17.58      34887260     ---   --    -xx    wilco1999-10-04t07.shn
+     2:29.36      26368316     ---   --    -xx    wilco1999-10-04t08.shn
+     3:42.33      39238460     ---   --    -xx    wilco1999-10-04t09.shn
+     4:28.35      47357564     ---   --    -xx    wilco1999-10-04t10.shn
+     4:34.16      48371276     ---   --    -xx    wilco1999-10-04t11.shn
+     6:24.18      67779980     ---   --    -xx    wilco1999-10-04t12.shn
+     4:23.27      46456748     ---   --    -xx    wilco1999-10-04t13.shn
+     5:27.18      57725180     ---   --    -xx    wilco1999-10-04t14.shn
+     6:41.00      70736444     ---   --    -xx    wilco1999-10-04t15.shn
+     5:22.16      56838476     ---   --    -xx    wilco1999-10-04t16.shn
+    65:08.58     689508320 B                      (totals for 16 files, 0.5590 o
+verall compression ratio)

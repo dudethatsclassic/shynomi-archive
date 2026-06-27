@@ -1,0 +1,71 @@
+Wilco
+June 20, 2024 (Thursday)
+Filene Center, Wolf Trap National Park for the Performing Arts
+Vienna, Virginia
+
+
+Source: Sony PCM-A10 (24/48) using internal mics. Audacity and CDWav to process.
+Recorded by Bzl.
+
+01 (Misunderstood) empty placeholder
+02 ...Forget the Flowers (ending only)
+03 Handshake Drugs
+04 At Least That's What You Said
+05 I Am My Mother
+06 Cruel Country
+07 I Am Trying to Break Your Heart
+08 Meant to Be
+09 If I Ever Was a Child
+10 Theologians
+11 Cousin
+12 Bird Without a Tail / Base of My Skull
+13 Hummingbird
+14 Evicted
+15 Box Full of Letters
+16 I'm Always in Love
+17 Jesus, Etc.
+18 Impossible Germany
+19 Heavy Metal Drummer
+20 A Shot in the Arm
+encore:
+21 California Stars
+22 Falling Apart (Right Now)
+23 Via Chicago
+24 Spiders (Kidsmoke)
+
+Notes:
+- Sold out show
+- Summer solstice occurred a couple hours before the show, despite what Tweedy says before track 09.
+- I didn't plan to record until I found that I was in the perfect spot. Hence, missing most of the first two songs.
+- After the first half hour there was a slight breeze which the mics occasionally picked up. It was most audible between songs, so I removed much of that. 
+- This recording came out very well, overall. Enjoy!
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:00.027          7724 B   cxx   --   ---xx   flac  13.0307  Wilco2024-06-20_01.flac
+     1:02.240      17925164 B   cxx   --   ---xx   flac  0.6781  Wilco2024-06-20_02.flac
+     6:27.720     111663404 B   cxx   --   ---xx   flac  0.6716  Wilco2024-06-20_03.flac
+     5:46.640      99832364 B   cxx   --   ---xx   flac  0.6483  Wilco2024-06-20_04.flac
+     2:36.320      45020204 B   cxx   --   ---xx   flac  0.6414  Wilco2024-06-20_05.flac
+     3:45.733      65011244 B   cxx   --   ---xx   flac  0.6438  Wilco2024-06-20_06.flac
+     5:25.733      93811244 B   cxx   --   ---xx   flac  0.6665  Wilco2024-06-20_07.flac
+     4:05.600      70732844 B   cxx   --   ---xx   flac  0.6703  Wilco2024-06-20_08.flac
+     4:36.813      79722284 B   cxx   --   ---xx   flac  0.6107  Wilco2024-06-20_09.flac
+     3:45.827      65038124 B   cxx   --   ---xx   flac  0.6686  Wilco2024-06-20_10.flac
+     4:31.653      78236204 B   cxx   --   ---xx   flac  0.6852  Wilco2024-06-20_11.flac
+     9:54.627     171252524 B   cxx   --   ---xx   flac  0.6682  Wilco2024-06-20_12.flac
+     4:21.667      75360044 B   cxx   --   ---xx   flac  0.6404  Wilco2024-06-20_13.flac
+     3:48.413      65783084 B   cxx   --   ---xx   flac  0.6581  Wilco2024-06-20_14.flac
+     3:38.107      62814764 B   cxx   --   ---xx   flac  0.6908  Wilco2024-06-20_15.flac
+     3:56.507      68113964 B   cxx   --   ---xx   flac  0.7047  Wilco2024-06-20_16.flac
+     4:12.707      72779564 B   cxx   --   ---xx   flac  0.6403  Wilco2024-06-20_17.flac
+    10:53.120     188098604 B   cxx   --   ---xx   flac  0.6586  Wilco2024-06-20_18.flac
+     3:13.960      55860524 B   cxx   --   ---xx   flac  0.7103  Wilco2024-06-20_19.flac
+     5:13.973      90424364 B   cxx   --   ---xx   flac  0.7211  Wilco2024-06-20_20.flac
+     5:22.760      92954924 B   cxx   --   ---xx   flac  0.6600  Wilco2024-06-20_21.flac
+     3:23.747      58679084 B   cxx   --   ---xx   flac  0.6620  Wilco2024-06-20_22.flac
+     4:52.093      84122924 B   cxx   --   ---xx   flac  0.6573  Wilco2024-06-20_23.flac
+    12:29.600     215884844 B   cxx   --   ---xx   flac  0.6897  Wilco2024-06-20_24.flac
+   117:25.587    2029130016 B                            0.6680  (24 files)
+
+No errors occurred.
+

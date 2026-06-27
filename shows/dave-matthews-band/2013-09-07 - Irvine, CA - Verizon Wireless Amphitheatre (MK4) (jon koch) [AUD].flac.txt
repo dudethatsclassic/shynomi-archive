@@ -1,0 +1,48 @@
+Dave Matthews Band 
+September 7, 2013 
+Verizon Wireless Amphitheatre - Irvine, CA
+
+Taper: Jon Koch 
+Source: Schoeps MK4 > active cables > Nbox+ > Edirol R-09HR (24/48) 
+Location: Sec 1, Row G Seat 121 (Outside Aisle), Mics DIN ~ 12' 
+Transfer: Edirol R-09HR > SDHC > PC 
+Edit: wav > Sony Soundforge 9.0a > wav > CD Wave > wav 
+Conversion: wav > Trader's Little Helper 2.4.1 > .flac 
+
+---PRESERVE THE QUALITY, PLEASE DO NOT ENCODE INTO MP3 OTHER THAN FOR PERSONAL USE--- 
+
+01: Intro	 				[01:50] 
+02: Squirm					[05:42]
+03: The Stone					[11:13]
+04: Big Eyed Fish >				[05:18]
+05: Granny					[05:41]
+06: When The World Ends				[04:18]
+07: Gravedigger					[07:06]
+08: Runnin' Down A Dream			[06:33]
+09: #34						[06:39]
+10: What Would You Say				[05:59]
+11: If Only					[08:48]
+12: Belly Belly Nice				[04:20]
+13: All Along The Watchtower *			[14:46]
+14: The Space Between				[04:24]
+15: Kill The Preacher [partial]			[01:37]
+16: Don't Drink The Water			[07:53]
+17: Rhyme & Reason #				[09:34]
+18: Jimi Thing +				[21:17]
+19: Rooftop					[06:28]
+20: Pantala Naga Pampa > Rapunzel		[07:00]
+21: Encore Break/intro				[07:21]
+22: Save Me					[04:18]
+23: Ants Marching >				[09:04]
+24: Halloween					[05:20]
+Total:	             			       [2:52:29] 
+
+* with Gary Clark, Jr.
+# with Mike McCready 
++ with Bob Mintzer & Lasim Richards 
+
+Notes: This recording is dedicated to the memory of LeRoi Moore. 
+
+Thanks to Ryan Hoyt for the help and clamp space. 
+
+Compiled on 9.10.13 

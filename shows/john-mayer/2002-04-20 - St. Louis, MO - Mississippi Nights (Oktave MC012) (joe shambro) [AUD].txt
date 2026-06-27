@@ -1,0 +1,44 @@
+John Mayer
+April 20, 2002
+Mississippi Nights
+St. Louis, MO
+
+Taper:	Joe Shambro
+
+Source:	Oktava MC012 > DMP2 > ADC20 > D7
+Straight ahead, 7 feet from right stack, 10 feet high, clamped to ceiling support beam.
+
+Conversion:	D7 > S/PDIF > Montego II+ > Samplitude (48khz>44.1) > CDWave > MKWAct
+
+Note:  Somehow my DAT got put in pause until the first 1:38 of Why GA went by, so I spliced that from a friend's
+laptop patch.  
+
+DO NOT CONVERT TO MP3 FORMAT!
+
+Disc 1:
+
+01.	Why Georgia
+02.	My Stupid Mouth
+03.	Back To You
+04.	City Love
+05.	Covered in Rain
+06.	83
+07.	Message In A Bottle
+08.	Love Song For Noone
+
+Disc 2:
+
+01.	Always On Time Intro >
+02.	No Such Thing 
+03.	Your Body Is A Wonderland
+04.	This Will All Make Perfect Sense Someday
+05.	Jam >
+06.	Neon
+07.	Encore Break
+08.	e: 3x5
+09.	e: Comfortable
+
+Compiled by Joe Shambro 4/21/02
+1.0
+
+GEAR USED: trade CDR > EAC > TLH > .flac files

@@ -1,0 +1,73 @@
+The Black Crowes
+The Pageant
+St. Louis, MO
+April 19, 2013
+
+** 16 BIT ** 
+
+Source:  AT-853s (subcards) > CA-9100 > Tascam DR-2d @ 24 bit/44.1 kHz
+Transfer:  .WAV > Sound Forge Pro 10.0a (fades, minor edits, & normalize) > CDWav (tracking) > iZotope MBIT+ 
+           (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 
+           5.1 (tagging)
+Location:  mics @ 7.5', LOC, inside SBD cage 
+Recorded by:  Jeremy Hunsaker
+Mastered by:  Dennis Orr
+
+Setlist:
+01 Crowd & Tuning
+02 Twice As Hard
+03 Sting Me
+04 Hotel Illness
+05 Movin' On Down The Line
+06 Medicated Goo
+07 Sister Luck
+08 Wiser Time
+09 She Talks To Angels (1)
+10 Cold Boy Smile
+11 By Your Side
+12 Thorn In My Pride
+13 Soul Singing
+14 Jealous Again...With A Restless Heart
+15 Wounded Bird
+16 Hard To Handle > 
+17 Hush > 
+18 Hard To Handle
+19 Encore Break
+- Encore - 
+20 Feathers
+21 Oh Well 
+22 Crowd
+
+(1) Jackie on mandolin 
+ 
+Chris Robinson – lead Vocals & harp
+Rich Robinson - guitars & backing vocals
+Jackie Greene – guitars, mandolin, & backing vocals
+Adam MacDougall – keyboards
+Sven Pipien – bass & backing vocals
+Steve Gorman – drums & percussion
+
+tbc2013-04-19t01.flac:78dc2314ef93c45cde942f3ae8560a93
+tbc2013-04-19t02.flac:dcb92ae9fe43b37c6220f33b0549b2f1
+tbc2013-04-19t03.flac:fbef17fe797957c71abf525a0c645681
+tbc2013-04-19t04.flac:1a4736170eb78c72e78ad96f59e0d0bf
+tbc2013-04-19t05.flac:ff16a47150ef04558e65d510f13dab07
+tbc2013-04-19t06.flac:00d56c71115604fa1a981ef20533d440
+tbc2013-04-19t07.flac:2f33dcb3eb5add0a323e56087a5ef373
+tbc2013-04-19t08.flac:7e3e3d7739f49c451315f7b98e093760
+tbc2013-04-19t09.flac:1374724e1f87a8b59e6d4b0221d9186c
+tbc2013-04-19t10.flac:6b4f1af2f7f95a5d9dd3b0fca6a940a2
+tbc2013-04-19t11.flac:d5f691ed37a53a1b4084bb99c7e8f959
+tbc2013-04-19t12.flac:af7421c5e94fdc25d1a8a6aabb3f89f5
+tbc2013-04-19t13.flac:ac15dd6681689e3ac2947efa0a8c2547
+tbc2013-04-19t14.flac:c17388c2a9efad1a65d5f19f483f8555
+tbc2013-04-19t15.flac:4c910656f215ca500233d247f981a4a9
+tbc2013-04-19t16.flac:f35e86548bc028011c61185453fc947f
+tbc2013-04-19t17.flac:26c0e28b4b314ccb9476c0364e42cdc3
+tbc2013-04-19t18.flac:fc210355a9c54be87fba8a31f22be992
+tbc2013-04-19t19.flac:803a0de8bfe3f210e9aff74f4ca52da4
+tbc2013-04-19t20.flac:72ca8a3e1c8cef0aa1b243ad417bc5f4
+tbc2013-04-19t21.flac:fb67e55c02b4cb16ca7d45f3ca6c4f9a
+tbc2013-04-19t22.flac:2e413d88b70a304ed06e124e08ebe24d
+
+ 

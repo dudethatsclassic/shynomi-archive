@@ -1,0 +1,41 @@
+Wilco
+Civic Opera House, Chicago, IL USA
+12-Dec-2011
+
+lineage: Edirol R09 (internal mikes) 16/44
+   -> CD Wave Editor (for track breaks)
+   -> FLAC level 6 -> DIME 
+
+Setlist:
+0 DJ Intro
+1 One Sunday Morning
+2 Poor Places
+3 Art of Almost
+4 I Might
+5 Misunderstood
+6 I Am Trying to Break Your Heart
+7 One Wing
+8 Rising Red Lung
+9 Impossible germany
+10 Far Far Away
+11 What Light
+12 Born Alone
+13 Jesus Etc.
+14 Capitol City
+15 War on War
+16 Box Full of Letters
+17 Pot Kettle Black
+18 Dawned on Me
+19 Shot in the Arm
+20  encore break
+21 Whole Love
+22 Heavy Metal Drummer
+23 Candyfloss
+24 I'm the Man Who Loves You
+25 Out of Sight (Out of Mind)
+26  2nd emcpre break
+27 Cruel to Be Kind (w Nick Lowe)
+28 You're Not Alone (w Mavis Staples)
+29 The Weight (w Nick Lowe and Mavis Staples)
+
+tracks 0-15 fit on 1st CD, 16-29 on 2nd

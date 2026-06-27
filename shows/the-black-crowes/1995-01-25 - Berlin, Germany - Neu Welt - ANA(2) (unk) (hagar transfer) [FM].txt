@@ -1,0 +1,78 @@
+The Black Crowes
+Neu Welt
+Berlin, Germany
+January 25, 1995
+
+** 16 BIT **
+
+Source:  FM Broadcast > Cassette Master > Cassettes (1) > Cassettes (2)
+Transfer:  Cassettes (2) > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Mastering:  .WAV's > Sound Forge Pro 11.0 (Build 299) [Splicing; iZotope Mastering Suite (declick); minor edits, normalize, & fades] > iZotope RX6 
+Advanced v6.00.1210 (Spectral de-noise) > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.30 (tagging)
+Recorded by:  Unknown
+Transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist: (2:03:32)
+01 Intro > Hotel Illness
+02 Sting Me
+03 A Conspiracy > 
+04 Ballad In Urgency Jam
+05 P.25 London
+06 Chat
+07 Buttermilk Waltz Jam (1) > 
+08 My Morning Song
+09 Bad Luck Blue Eyes Goodbye
+10 Sometimes Salvation
+11 Hard To Handle
+12 High Head Blues
+13 Grinnin' (1)
+14 She Gave Good Sunflower
+15 Stare It Cold >
+16 Jealous Again
+17 Encore Break/Announcer Chatter
+- Encore - 
+18 Ballad In Urgency
+19 Feelin' Alright
+20 Wiser Time
+21 Remedy (fades out)
+
+(1) First time played
+
+Chris Robinson - lead vocals & harp
+Rich Robinson - guitars & backing vocals
+Marc Ford - guitars & backing vocals
+Johnny Colt - bass & backing vocals
+Ed Harsch - keyboards
+Steve Gorman - drums
+
+Show Notes:
+Amorica or Bust European Tour
+Dillon Fence opened the show
+
+Mastering Notes:
+- Tape flip during the applause after "Bad Luck Blue Eyes Goodbye" - seamlessly spliced, no music lost
+- Tape flip during the applause after "Ballad In Urgency" - seamlessly spliced, no music lost
+- A couple of small radio dropouts were cut, and should not be noticeable
+
+tbc1995-01-25t01.flac:0ccac5bc50c6373cb1d6dc8d9bd646c4
+tbc1995-01-25t02.flac:9c9cef6f49a3fcd8935bbe65cb99b99c
+tbc1995-01-25t03.flac:0ebf111c915d9540a5edc9306526c080
+tbc1995-01-25t04.flac:0fda1a24e686fc167608972612ad2db3
+tbc1995-01-25t05.flac:06b4cd87959c4aa28081e89c75e69a87
+tbc1995-01-25t06.flac:77469e860f308cc64457faef1918885e
+tbc1995-01-25t07.flac:bef9523f22fa927fb92dde57ae496479
+tbc1995-01-25t08.flac:ba5441f29d35e501b9d218e80fdcc6fd
+tbc1995-01-25t09.flac:79018832858277c317f686dfda23158f
+tbc1995-01-25t10.flac:9af4d6e192bc27153550bf92ae749d18
+tbc1995-01-25t11.flac:2afa1fef627e4fab7d6188efe40a8928
+tbc1995-01-25t12.flac:24a43b573f4c13eec1e84eb4902f9a91
+tbc1995-01-25t13.flac:b32ec93e78b112ea15b123ece18c75d1
+tbc1995-01-25t14.flac:021572c08905b89c982bb986bb37f0c4
+tbc1995-01-25t15.flac:123464f2f398dd37baf18f677ca7d135
+tbc1995-01-25t16.flac:6d1e226ffb00ae78ef48cf9c7fa3f31f
+tbc1995-01-25t17.flac:689e0846cc1fd4e1b683e75dbc32626a
+tbc1995-01-25t18.flac:e2d41a1f39bfa239341615e6a995caca
+tbc1995-01-25t19.flac:3edd661fc9f06b776a0de799f362353d
+tbc1995-01-25t20.flac:a0e5eac7d5f4591b20d5dfb644e436e7
+tbc1995-01-25t21.flac:1e416ac34470167e35f5eaab5ce8138e

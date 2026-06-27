@@ -1,0 +1,48 @@
+
+00:00 Edith Bowman interview intro
+03:32 Control
+07:51 #1 Crush
+12:43 Stupid Girl
+17:39 Only Happy When It Rains
+21:30 No Horses
+27:25 Push It
+31:51 Vow 
+40:52 Special
+44:41 When I Grow Up
+48:49 Parade 
+
+
+General
+ID : 1 (0x1)
+Complete name : E:\Isle Of Wight 2019\Garbage - Isle Of Wight Festival 2019 1080i HDMania.ts
+Format : MPEG-TS
+File size : 4.74 GiB
+Duration : 53 min 53 s
+Overall bit rate mode : Variable
+Overall bit rate : 12.6 Mb/s
+
+Video
+ID : 100 (0x64)
+Menu ID : 2 (0x2)
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4
+Format settings : CABAC / 2 Ref Frames
+Format settings, CABAC : Yes
+Format settings, RefFrames : 2 frames
+Format settings, GOP : M=2, N=12
+Codec ID : 27
+Duration : 53 min 53 s
+Width : 1 920 pixels
+Height : 1 080 pixels
+Display aspect ratio : 16:9
+Frame rate : 25.000 FPS
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Interlaced
+Scan type, store method : Separated fields
+Scan order : Top Field First
+Color range : Limited
+
+Butch is replaced by Matt Walker for this tour, as BV tore his rotator cuff and needs medical time out. 

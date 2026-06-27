@@ -1,0 +1,27 @@
+Lineage:
+Core Sound Binaural ->
+Sony PCM-M1->
+Core Sound 7pin cable ->
+Edirol UA-1D ->
+Wavelab ->
+FLAC frontend v1.7.1 Etree Edition
+
+01 (01:43) Takk ...
+02 (06:24) Glosoli
+03 (09:57) Ny Batteri
+04 (07:16) Saeglopur
+05 (08:12) Njosnavelin
+06 (05:04) Gong
+07 (06:23) Andvari
+08 (05:08) Hoppipolla
+09 (02:12) Med Blodnasir
+10 (08:27) Olsen Olsen
+11 (10:47) Vidrar vel til loftarasa
+12 (06:53) Svo Hljott
+13 (06:29) Heysatan
+14 (13:56) Popplagid
+15 (02:48) Outro
+Playing Time : 101:39 
+
+
+Many Tnx to LP for recording this great gig!!

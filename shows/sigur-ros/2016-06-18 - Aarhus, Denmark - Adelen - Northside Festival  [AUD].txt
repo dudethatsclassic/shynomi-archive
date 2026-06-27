@@ -1,0 +1,46 @@
+Sigur Ros
+
+Northside Festival 
+Aarhus
+Denmark
+June 18, 2016
+
+
+
+Taper		: bnz
+Source		: at943 - SP-SPSB-11 (Bass Roll-off at 107 HZ) - Edirol R09 at 24bit 48Khz
+Transfer        : SD card > SDslot > PC > Mastering > Adobe Audition CC 2015 > 16bit at 44.1Khz > Cdwave > FLAC (8)
+Mastering       : rdwm 
+Total Time      : 80:44 min
+
+Setlist
+
+01. Óveður
+02. Starálfur
+03. Sæglópur
+04. Glósóli
+05. Vaka
+06. Ný Batterí
+07. E-Bow
+08. Festival
+09. Yfirborð
+10. Kveikur
+11. Popplagið 
+
+
+Mastering notes:
+
+recording treated with HarBal 2.3 to reduce boominess and increase tonal balance, then mastered with Wavelab using:
+- Magneto 2.5 (low values)
+- Waves L3 Multimaximizer with low level values
+
+Support the artists!! Buy their official releases and go see them live
+Keep lossless please, use lossy formats for personal use only.
+
+seeded to dime July 2, 2016
+
+
+
+Enjoy!
+
+bnz.

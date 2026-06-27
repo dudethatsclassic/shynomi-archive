@@ -1,0 +1,67 @@
+John Mayer
+21 February 2022
+Madison Square Garden
+New York, New York
+
+Recorded and mixed by: Christopher Jones <jones.chris@gmail.com>
+
+Source: 5.1-Channel Surround (24-bit / 96 kHz multichannel LPCM)
+
+Lf / Rf: DPA d:dicateª 4011ER (handmatched MMC 4011 cardioid and MMP-ER preamplifier) > Sonosax SX-R4+ (non-U.S. version with unconstrained headroom; @ 24-bit / 96 kHz)
+
+Center: DPA d:screetª 4061 omnidirectional miniature microphone > Sonosax SX-R4+ (@ 24-bit / 96 kHz).  Center channel minimally included in mix to make less audible potentially distracting crowd noise captured by the omni.
+
+LFE: Material below 100 Hz from left channel of DPA d:dicateª 4011ER pair band-passed to LFE.  LFE minimally included in mix (LFE peaks around -30 dB) under presumption that full range speakers will be used for playback.  No rolloff in mains on account of LFE band-pass.  Rely on playback bass management as appropriate.
+
+Lr / Rr: Schoeps CMC1L4V (handmatched MK4V cardioid and CMC1L preamplifier) > Mogami XLR Interconnect > Sonosax SX-M2D2 integrated preamplifier and analog-to-digital converter (@ 24-bit / 96 kHz) > AES / EBU TA3 interconnect > Sonosax SX-R4+ (@ 24-bit / 96 kHz).  Rear surround channels derived from forward-facing backup microphone pair; rear ambience imputed using impulse response of large arena in Altiverb 7, tailored to sound similar to dedicated rear channels recorded at Madison Square Garden by me in the recent past.
+
+Location: Section A, row 1; microphone array elevated approximately 2.5 meters  
+
+SD > .flac: SD Card > Apple 14" Macbook Pro (Apple M1 Max / 32GB RAM) > Avid Pro Tools Ultimate v. 2021.12.0 > DSP-Quattro 5.8 > xACT v2.50
+
+t01 Introduction							01:03.74
+t02 Neon	#			  				05:57.80
+t03 Last Train Home		  				03:47.52
+t04 Shot In The Dark	  					04:34.11
+t05 Belief		 					04:53.89
+t06 In The Blood		  					04:33.07
+t07 If I Ever Get Around To Living	  			07:03.98
+t08 New Light	 						04:46.83
+t09 Wild Blue  							07:06.11
+t10 Your Body Is A Wonderland		  			04:42.37
+t11 In Your Atmosphere # >  					04:23.21
+t12 (Something's Missing #)					02:26.41
+t13 Daughters ~			  				04:40.87
+t14 Free Fallin' % ^  						04:37.91
+t15 Carry Me Away			  			03:06.49
+t16 Who Says >							02:54.76
+t17 Stop This Train						06:48.43
+t18 'Til The Right One Comes >					03:28.98
+t19 (You Can Call Me Al *) > 'Til The Right One Comes 		01:55.20
+t20 "He Has Come To Save The Day..."  				01:25.16
+t21 Vultures +  							06:14.98
+t22 Clarity +  							05:14.62
+t23 Something Like Olivia +  					03:17.08
+t24 "Thanks..."  						03:03.62
+t25 (The Beautiful Ones @) >  					01:29.06
+t26 Slow Dancing In A Burning Room +  				08:30.61
+---
+t27 Gravity +  							08:00.70
+
+#  John solo
+>  Indicates a segue into the next song
+() Indicates a tease or partial song if not part of a song with a parenthetical subtitle
+~  John and Lenny Castro
+%  John and David Ryan Harris
+^  Tom Petty cover
+*  Paul Simon cover
++  Featuring Questlove on drums
+@  Prince cover
+
+Notes:
+
+Most of this performance played acoustic, as Steve Ferrone and Carlos Ricketts tested positive for COVID-19 before the show.
+
+Thanks to band and house crew for the accommodations.
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 25 April 2022.

@@ -1,0 +1,62 @@
+John Mayer
+7 May 2022
+UBS Arena
+Elmont, New York
+
+Recorded and mixed by: Christopher Jones <jones.chris@gmail.com>
+
+Source: 5.1-Channel Surround (24-bit / 48 kHz multichannel LPCM)
+
+Lf / Rf: Sennheiser MKH 800 TWIN dual capsule condenser (forward-facing capsules mixed to hypercardioid) > Neumann 5-pin multichannel XLR interconnect > Mogami Gold Neglex XLR > Sonosax SX-R4+ (non-U.S. version with unconstrained headroom; @ 24-bit / 48 kHz)
+
+Center: Schoeps CCM41 compact supercardioid > Schoeps lemo-to-XLR microphone cable > Sonosax SX-M2D2 integrated preamplifier and analog-to-digital converter (@ 24-bit / 48 kHz) > AES / EBU TA3 interconnect > Sonosax SX-R4+ (@ 24-bit / 48 kHz)
+
+LFE: Material below 120 Hz from Lf band-passed to LFE.  LFE minimally included in mix (LFE peaks around -30 dB) under presumption that full range speakers will be used for playback.  No rolloff in mains on account of LFE band-pass.  Rely on playback bass management as appropriate.
+
+Lr / Rr: Sennheiser MKH 800 TWIN dual capsule condenser (rear-facing capsules mixed to wide cardioid) > Neumann 5-pin multichannel XLR interconnect > Canare XLR > Sonosax SX-R4+ (@ 24-bit / 48 kHz)
+
+Location: FOH, DFC; microphone array elevated approximately 4.5 meters.  MKH 800 TWIN mains A-B; CCM41 center channel bisects mains pair.  CMC122 pair for overheads aimed vertically toward ceiling, A-B; CMC122 included in Dolby Atmos immersive mix, but not the 5.1 mix
+ 
+SD > .flac: SD Card > Apple 14" Macbook Pro (Apple M1 Max / 32GB RAM) > Avid Pro Tools Ultimate v. 2021.12.0 > DSP-Quattro 5.8 > xACT v2.50
+
+24-bit / 48 kHz stereo lossless version of this recording available in .flac24.
+
+Dolby TrueHD with Atmos content 7.1.4 immersive mix available as 24-bit / 48 kHz lossless render in .mka24.  Lossy immersive render in Dolby Digital Plus with Atmos content available in .ec3f.
+
+t01 Introduction  						00:50.18
+t02 Last Train Home  						04:23.45
+t03 Intro To...  						00:49.41
+t04 Belief  							05:23.63
+t05 Who Says  							03:25.44
+t06 "Room 2307..." 						01:59.17
+t07 Wild Blue  							05:17.06
+t08 Something Like Olivia  					03:59.23
+t09 I Guess I Just Feel Like  					07:29.83
+t10 Helpless  							08:35.24
+t11 The Heart Of Life # > 					03:04.45
+t12 Walt Grace's Submarine Test, January 1967 #  			04:46.04
+t13 Intro To... # > 						01:04.56
+t14 Neon #  							06:50.82
+t15 Your Body Is A Wonderland  					07:37.75
+t16 "Still Feel Like Your Fan..."  				00:29.65
+t17 Rosie  							05:33.06
+t18 Edge Of Desire  						06:07.91
+t19 Stop This Train  						05:44.32
+t20 Slow Dancing In A Burning Room  				06:56.47
+t21 In The Blood  						04:23.30
+t22 "Thank You All..."  						03:32.61
+t23 Intro To...  						01:06.35
+t24 Gravity  							08:53.33
+---
+t25 New Light  							04:38.57
+								
+#  John solo
+>  Indicates a segue into the next song
+
+Notes:
+
+Show rescheduled from 1 March 2022.
+
+David Ryan Harris did not perform due to COVID-19 protocol.  
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 20 May 2022.

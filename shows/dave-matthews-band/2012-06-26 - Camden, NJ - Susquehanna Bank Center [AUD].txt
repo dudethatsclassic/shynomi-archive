@@ -1,0 +1,67 @@
+Dave Matthews Band 
+June 26 , 2012 
+Susquehanna Bank Center
+Camden, NJ
+
+
+
+Taper: Rockinman 
+Location: Behind soundboard, DFC, mics DINA 90 config, stand height @ 14 feet 
+Source: akg460mods/ck63 hypercaps(linear bass setting)>UA5 preamp(Wmod)>Marantz PMD661(SPDIF In) @ 24/48 kHz 
+Transfer: PMD661->USB->PC 
+Conversion: 24/48kHz wav->Sound Forge Pro 10> iZotope 64-Bit SRC & iZotope MBIT+ for resample and  dither to 16/44.1 kHz,No normalization, Fade in and fade out applied->CDWave Editor->Flac Frontend(level 5)> Foobar 2000 for tagging 
+
+************************************************************************* 
+***** DO NOT ENCODE THIS SHOW TO LOSSY FORMATS EXCEPT FOR PERSONAL USE*** 
+******************DO NOT SELL OR DISTRIBUTE FOR PROFIT******************* 
+************************************************************************* 
+
+Disc 1 
+
+01. Intro
+02. Everyday (Acoustic intro)
+03. Eh Hee
+04. Seek Up
+05. Seven
+06. Where Are You Going
+07. Minarets
+
+Disc 2
+
+08. Pantala Naga Pampa->
+09. Rapunzel
+10. The Space Between *
+11. Stay or Leave
+12. Don't Drink the Water
+13. Mercy
+14. Spaceman->
+15. Corn Bread
+16. Crush (Stefan bass intro)
+17. When the World Ends
+
+
+Disc 3
+
+18. Typical Situation
+19. Grey Street
+
+20. Encore Break
+
+Encore
+
+   (Good Good Time tease)
+21. Gaucho
+22. All Along the Watchtower (Stefan bass intro)
+
+
+* Dave solo
+
+
+
+Many thanks to Frank V. for his hospitality
+
+
+
+
+Compiled by Tom Gambichler on June 27, 2012 
+

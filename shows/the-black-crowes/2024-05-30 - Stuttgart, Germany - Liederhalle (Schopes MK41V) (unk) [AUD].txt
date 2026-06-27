@@ -1,0 +1,37 @@
+THE BLACK CROWES
+2024-05-30
+Liederhalle, Beethovensaal
+Stuttgart, Germany
+
+Source:     Schoeps MK41V/CMC1L > RiotBox > Sony PCM-A10
+Mic Config: DIN-A (90°, 17cm)
+Location:   10m from the stage, left side
+Transfer:   Master WAVs > dEdit > FLAC V1.4.3
+Editing:    Digital editing in Cockos Reaper V7.03
+            EQ, compression and volume boost using iZotope Ozone 11
+            Clap removal and fades in iZotope RX 8
+Dithering:  MBIT+
+Format:     16 bit / 44.1 kHz
+
+Disc 1:
+01 (Intro: AC/DC - It's a Long Way to the Top (If You Wanna Rock 'n' Roll))
+02 Bedside Manners
+03 Dirty Cold Sun
+04 Twice as Hard
+05 P.25 London
+06 By Your Side
+07 Cross Your Fingers
+08 Seeing Things
+09 Road Runner [Bo Diddley]
+
+Disc 2:
+01 Thorn in My Pride
+02 Wanting and Waiting
+03 Hard to Handle [Otis Redding]
+04 She Talks to Angels
+05 Follow the Moon
+06 Sting Me
+07 Jealous Again
+08 Remedy
+09 (Encore Break)
+10 Virtue and Vice

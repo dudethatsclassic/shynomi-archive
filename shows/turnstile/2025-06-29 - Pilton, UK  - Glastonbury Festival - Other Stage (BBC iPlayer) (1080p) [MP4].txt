@@ -1,0 +1,34 @@
+Turnstile
+
+Other Stage
+Glastonbury Festival
+Pilton, UK
+2025-06-29, 29th June 2025
+
+-----
+
+Source: BBC iPlayer>get_iplayer>MKVToolNix
+
+Total Running time: 55mins 56secs [4.6gb]
+
+Tech Specs:
+Video: MPEG4 Video (H264) 1920x1080 50fps ~11500kb/s
+Audio: AAC 48000Hz stereo 128kb/s
+
+Setist:
+01 - NEVER ENOUGH
+02 - T.L.C. (TURNSTILE LOVE CONNECTION)
+03 - ENDLESS
+04 - I CARE / DULL
+05 - DON'T PLAY
+06 - 7
+07 - Keep It Moving
+08 - Drop
+09 - FLY AGAIN
+10 - SEEIN' STARS
+11 - Come Back for More / Fazed Out
+12 - HOLIDAY
+13 - LOOK OUT FOR ME
+14 - MYSTERY
+15 - BLACKOUT
+16 - BIRDS

@@ -1,0 +1,57 @@
+Dave Matthews Band
+The Floodzone
+Richmond, VA
+October 14, 1992
+
+Taper:		Steve Jones
+Source Info:	DSBD --> Master Soundboard Cassette (Nak BX 100 w/Dolby B)
+
+Analog -> DAT:	Mark Lynn
+		Nakamichi CR 7 --> Lucid AD9624 (AES/EBU out) --> Fostex D5 (48kHz)
+
+DAT -> CD:	Mark Lynn
+		Fostex D5 --> Tascam CDRW700
+
+CD -> SHN:	Louie Rendek <ljr7@po.cwru.edu>
+		Plextor 8x20 and EAC 0.85b4 secure mode:  all tracks 100%
+
+Disc 1
+
+Track #	Name					Time
+1.	Intro -->			01:48.58
+2.	Satellite			05:24.69
+3.	Song That Jane Likes		04:07.06
+4.	Best Of What's Around		6:56.73
+5.	Pay For What You Get		05:27.44
+6.	Tripping Billies		05:05.02
+7.	Jimi Thing 			0:18.73
+8.	Typical Situation (Boyd intro)	13:20.26
+9.	So Much To Say -->  		05:13.29
+10.	Two Step			08:20.19
+
+Total:					66:03.24
+
+Disc 2
+
+Track #	Name				Time
+1.	Lie In Our Graves  		02:57.35
+2.	I'll Back You Up		04:31.27
+3.	Minarets 			06:23.03
+4.	Recently			11:55.43
+5.	Jam				03:21.42
+6.	What Would You Say		04:38.45
+7.	Spotlight			06:28.44
+8.	Ants Marching			06:26.48
+	Encore
+9.	Cry Freedom			02:54.68
+10.	Warehouse  			08:14.21
+
+Total:					57:52.01
+
+NOTES:
+----------
+The sound cuts out for 21 seconds in d1t04.  It sounds like a board problem since there is a spot where the sound comes back on at lower volume.
+
+There is a split second spot of diginoise in d2t04.
+
+Remember, this came from an analog master, so there are tape flip spots that have fadeouts.  These come after d1t07 and d2t03

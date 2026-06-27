@@ -1,0 +1,62 @@
+Dave Matthews Band
+November 11, 1992
+Trax
+Charlottesville, VA
+
+Taper:		unknown
+Source Info:	DMIX
+
+DAT > CD:	Mike Vernal
+Equip:		Sony R500 > Audiomedia III > Pro Tools 4.3.2 >
+		Panasonic 7502 (burn/extract)
+
+THIS SHOW IS NOT TO BE MP3-ENCODED
+
+
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+Set I:
+d1t01		Halloween				0:06:12.42
+d1t02		Pay For What You Get			0:04:17.66
+d1t03		Lie In Our Graves			0:05:09.70
+d1t04		Spotlight				0:05:54.62
+d1t05		One Sweet World				0:05:13.82
+d1t06		Satellite				0:05:36.57
+d1t07		Ants Marching				0:05:17.52
+d1t08		Boyd jam/Stefan jam			0:07:37.61
+d1 totals 45:29.22
+
+d2t01		Jimi Thing				0:10:43.98
+d2t02		What Would You Say?			0:06:37.98
+d2t03		Tripping Billies			0:04:48.42
+
+Encore:
+
+d2t04		Warehouse				0:07:48.04
+
+Filler:
+
+d2t05		Best Of What's Around			0:06:43.08
+d2t06		So Much To Say				0:04:27.96
+d2t07		The Maker				0:05:29.82
+d2 totals 46:39.28
+
+Notes:
+The show is most likely a DMIX of SBD and mics, because the audience is more vocal
+and more easily heard than a typical SBD show.  I am assuming that the show is a DMIX.
+
+The only site that has a setlist for this show is:
+
+http://www.phantomnet.com/vault/92/111192.html3
+
+They list the show ending at Warehouse and Dave certainly says,
+"good night everybody" for the last time after Warehouse here.  The other songs were
+on the DAT and each have breaks in between and sound noticeably different from the rest
+of the show, so I am assuming that these are filler.
+
+There is a slight click in d1t02 around 3:24, there is a 2 second dropout between d1t07
+and d1t08 and there is a small click in d1t08 around 7:32, all of which were on the DAT
+and are barely noticeable.
+
+
+

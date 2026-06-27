@@ -1,0 +1,35 @@
+Wilco
+University of North Texas Auditorium
+Denton, TX
+May 7, 2011
+
+Source: Milab VM-44 Link -> Lunatec V2 -> Tascam DR-680 (24/48)
+
+Location: center section, row AA, seat 28, 8’ stand
+
+Transfer: sdhc -> audiogate (16/44) -> cd wave -> flac (level 6)
+
+01. Ashes of American Flags
+02. Bull Black Nova
+03. I Am Trying to Break Your Heart
+04. Pot Kettle Black
+05. I'll Fight
+06. Handshake Drugs
+07. One Wing
+08. War on War
+09. Shot in the Arm
+10. At Least That's What You Said
+11. Via Chicago
+12. Jesus, Etc.
+13. Impossible Germany
+14. Airline to Heaven
+15. I Hate It Here
+16. Walken
+17. I'm The Man That Loves You
+encore:
+18. Wilco (The Song)
+19. Red-Eyed and Blue
+20. I Got You
+21. Hoodoo Voodoo
+22. Heavy Metal Drummer 
+

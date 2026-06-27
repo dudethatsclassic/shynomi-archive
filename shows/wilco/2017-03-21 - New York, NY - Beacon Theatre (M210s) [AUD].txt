@@ -1,0 +1,144 @@
+WILCO
+Beacon Theater
+New York NY
+03-21-2017
+
+01 On and On and On
+02 Normal American Kids
+03 If I Ever Was a Child
+04 Cry All Day
+05 I Am Trying to Break Your Heart
+06 The Art of Almost
+07 She's a Jar
+08 Misunderstood
+09 Someone to Lose
+10 Reservations
+11 Impossible Germany
+12 Jesus, Etc.
+13 We Aren't the World (Safety Girl)
+14 Laminated Cat (Not for the Season)
+15 Via Chicago
+16 Locator
+17 banter
+18 Heavy Metal Drummer
+19 I'm the Man Who Loves You
+20 Hummingbird
+21 banter
+22 The Late Greats
+23 crowd
+24 I'm Always in Love
+25 I'm Always in Love - continued
+26 Random Name Generator
+27 Box Full of Letters
+28 Monday
+29 Outtasite (Outta Mind)
+30 crowd
+31 California Stars
+32 Forget the Flowers
+
+Microtech Gefell M210's > Oade M-248 > SD-722 > WAV 2448.
+Mics on stand, center orchestra section FOB, recording by Jon Pasternak.
+WAV 2448 > Wavelab > CD-Wave (24bit) > R8Brain > TLH > FLAC 1644 tagged.
+
+2646364e1501de55d6406bc72b51bb00 *wilco2017-03-21t01.flac
+619527582cb5341e192170ef433ad90a *wilco2017-03-21t02.flac
+b1fdd422d2b888a4a3818af7d01d8313 *wilco2017-03-21t03.flac
+56ab7dd38d92c7df36d1f9af9682dc07 *wilco2017-03-21t04.flac
+0fbc6379100352984cf6a98b4cb173fd *wilco2017-03-21t05.flac
+198c4eab7928d1b47d9f20689393f4c7 *wilco2017-03-21t06.flac
+6238583064433811f6292d2c1aac0ddb *wilco2017-03-21t07.flac
+b18288bee14e63714b2841b03caae9ed *wilco2017-03-21t08.flac
+4cf181ba141038a5b5cc1b6337372938 *wilco2017-03-21t09.flac
+64bdcf65dd9a444484b51a68b07b00f8 *wilco2017-03-21t10.flac
+95cd9ab3e15dbf6850e832ac2edfd089 *wilco2017-03-21t11.flac
+652de8050add7b36b5d731df09126bc2 *wilco2017-03-21t12.flac
+fe306199ab7135a3b3849b2493f68e49 *wilco2017-03-21t13.flac
+d9b7a5e15dd83a45e9ac4de5c4a43df5 *wilco2017-03-21t14.flac
+f0d1f6b41ca6523c575929dca132fcab *wilco2017-03-21t15.flac
+23b7e619fb65782e8e0aaa13345c6dbd *wilco2017-03-21t16.flac
+c29fec13b4d8eda69ccbc3a40ac07b2b *wilco2017-03-21t17.flac
+1bdf9ee02e969adcc1014d7feb04f964 *wilco2017-03-21t18.flac
+64da6c23b61a816859ee704b315f4dc9 *wilco2017-03-21t19.flac
+2ea31d0b5fec70c7d77702091ad05d32 *wilco2017-03-21t20.flac
+178b3367b32b7d81f5868cf8626ec7c0 *wilco2017-03-21t21.flac
+267f0bd0e7a664fdd64900b64b2452ec *wilco2017-03-21t22.flac
+f22b7cc9bfb9c559ed97de36e232ec75 *wilco2017-03-21t23.flac
+dca1687086a901944d582d1166ea134f *wilco2017-03-21t24.flac
+6070934a02c967fbcb7e7a8d6bd14b13 *wilco2017-03-21t25.flac
+3ef0d0eac5795852261f12934c8727aa *wilco2017-03-21t26.flac
+01c0e8e87be6f72e7c54f3cabd916642 *wilco2017-03-21t27.flac
+e7945aaca97a7d07d4a094e4f38e0440 *wilco2017-03-21t28.flac
+9b96044605d40bbe0a3f6b4290cdde08 *wilco2017-03-21t29.flac
+0d3e2ccb17c33410e30a73c67b99740c *wilco2017-03-21t30.flac
+5cdcde86524bb6d28385f0787df4c769 *wilco2017-03-21t31.flac
+68237b2570844974ed022ff8c4ebcee6 *wilco2017-03-21t32.flac
+
+wilco2017-03-21t01.flac:51afca1498e4cdfbc33774cc4749f3e5
+wilco2017-03-21t02.flac:3cbdd14b410f4a384ab4b4a02f46ff7a
+wilco2017-03-21t03.flac:4a1a06f3ea65e742534fd0eb80f19e28
+wilco2017-03-21t04.flac:561037cfa12afa34a86ff30f23c49b87
+wilco2017-03-21t05.flac:f08f2a7031cd8c67dba103ee2491a2d1
+wilco2017-03-21t06.flac:f93d574cf4df4e007009c333fe2a9077
+wilco2017-03-21t07.flac:da07764d29649b75a17c0b00f73c52fb
+wilco2017-03-21t08.flac:624285c641a0f579be4d303387bc9c97
+wilco2017-03-21t09.flac:3317f68b019267caf21a811d53dad6fc
+wilco2017-03-21t10.flac:0fbfe222a2f55b211755cebbe9e1d820
+wilco2017-03-21t11.flac:5d4b513efdcb7b0b5a9b9ca8d184c8d8
+wilco2017-03-21t12.flac:c9c21c0f968404de85231a1ad53eed85
+wilco2017-03-21t13.flac:5896e1444d79cc3cce5fe97a15801f1b
+wilco2017-03-21t14.flac:cda8da29e0d21e6ae1a24c386cc57407
+wilco2017-03-21t15.flac:53b7d9af110ecd24b800dbab882222b6
+wilco2017-03-21t16.flac:33cbfd71dc865a444ffcdfe35679d215
+wilco2017-03-21t17.flac:48780f75393ba4e9aad48342c3445621
+wilco2017-03-21t18.flac:683010d3b6896f5e364b1bfed37d0256
+wilco2017-03-21t19.flac:2237cb34080e985fb3475062879c3373
+wilco2017-03-21t20.flac:3faf077688869ef7ffbfd75978def43f
+wilco2017-03-21t21.flac:71df9831be32d925817a80ec0ad7ba36
+wilco2017-03-21t22.flac:9db85a0ec2312db4f32b9c1b257d7d79
+wilco2017-03-21t23.flac:4464ed0d943f72d0f914f33f5b8621c3
+wilco2017-03-21t24.flac:24e9646f57571d1552592fefb9be7a84
+wilco2017-03-21t25.flac:91a872536c048ed7340fa32c8606a66d
+wilco2017-03-21t26.flac:50d15d1393cf3449ae366bc6fc1aa46e
+wilco2017-03-21t27.flac:0ba4514849221e0a02007a1de627fff3
+wilco2017-03-21t28.flac:81b7b9b87b1071fffae8cc34b0ed486f
+wilco2017-03-21t29.flac:75da0e7b8239fb93548e8df07782b57a
+wilco2017-03-21t30.flac:20906addfe841c1d15016464c6254512
+wilco2017-03-21t31.flac:f47f4841503965104b1a5c100fad4b2e
+wilco2017-03-21t32.flac:f740beb2584dfba3a3ac1ec9e1f58bed
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:54.19       51906332 B   ---   --   ---xx   flac  0.4556  wilco2017-03-21t01.flac
+     2:58.00       31399244 B   ---   --   ---xx   flac  0.4056  wilco2017-03-21t02.flac
+     3:14.65       34374524 B   ---   --   ---xx   flac  0.4966  wilco2017-03-21t03.flac
+     4:37.47       48973388 B   ---   --   ---xx   flac  0.5291  wilco2017-03-21t04.flac
+     5:18.52       56217548 B   ---   --   ---xx   flac  0.5883  wilco2017-03-21t05.flac
+     7:40.71       81311036 B   ---   --   ---xx   flac  0.5920  wilco2017-03-21t06.flac
+     5:20.71       56615036 B   ---   --   ---xx   flac  0.5286  wilco2017-03-21t07.flac
+     4:35.70       48674684 B   ---   --   ---xx   flac  0.5037  wilco2017-03-21t08.flac
+     3:26.38       36427820 B   ---   --   ---xx   flac  0.5641  wilco2017-03-21t09.flac
+     3:57.67       41964428 B   ---   --   ---xx   flac  0.4482  wilco2017-03-21t10.flac
+    10:13.48      108246140 B   ---   --   ---xx   flac  0.5691  wilco2017-03-21t11.flac
+     4:48.30       50873804 B   ---   --   ---xx   flac  0.5124  wilco2017-03-21t12.flac
+     2:48.72       29804588 B   ---   --   ---xx   flac  0.5998  wilco2017-03-21t13.flac
+     5:28.57       57993308 B   ---   --   ---xx   flac  0.5873  wilco2017-03-21t14.flac
+     5:42.24       60385292 B   ---   --   ---xx   flac  0.5459  wilco2017-03-21t15.flac
+     3:28.46       36799436 B   ---   --   ---xx   flac  0.6242  wilco2017-03-21t16.flac
+     1:59.53       21116300 B   ---   --   ---xx   flac  0.4381  wilco2017-03-21t17.flac
+     3:06.39       32902172 B   ---   --   ---xx   flac  0.6368  wilco2017-03-21t18.flac
+     4:25.14       46778972 B   ---   --   ---xx   flac  0.6342  wilco2017-03-21t19.flac
+     3:25.29       36230252 B   ---   --   ---xx   flac  0.5525  wilco2017-03-21t20.flac
+     1:47.74       19048892 B   ---   --   ---xx   flac  0.4806  wilco2017-03-21t21.flac
+     2:47.05       29470604 B   ---   --   ---xx   flac  0.6146  wilco2017-03-21t22.flac
+     2:52.02       30345548 B   ---   --   ---xx   flac  0.4986  wilco2017-03-21t23.flac
+     2:49.36       29896316 B   ---   --   ---xx   flac  0.6508  wilco2017-03-21t24.flac
+     2:48.43       29736380 B   ---   --   ---xx   flac  0.5867  wilco2017-03-21t25.flac
+     4:58.34       52647212 B   ---   --   ---xx   flac  0.5964  wilco2017-03-21t26.flac
+     3:09.67       33497228 B   ---   --   ---xx   flac  0.6433  wilco2017-03-21t27.flac
+     4:14.60       44946764 B   ---   --   ---xx   flac  0.6702  wilco2017-03-21t28.flac
+     2:38.00       27871244 B   ---   --   ---xx   flac  0.6704  wilco2017-03-21t29.flac
+     2:33.18       27031580 B   ---   --   ---xx   flac  0.5217  wilco2017-03-21t30.flac
+     4:29.59       47590412 B   ---   --   ---xx   flac  0.5872  wilco2017-03-21t31.flac
+     3:23.01       35811596 B   ---   --   ---xx   flac  0.5631  wilco2017-03-21t32.flac
+   130:05.36     1376888080 B                            0.5615  (32 files)
+
+No errors occured.

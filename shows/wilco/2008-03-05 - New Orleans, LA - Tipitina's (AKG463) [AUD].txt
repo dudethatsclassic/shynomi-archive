@@ -1,0 +1,33 @@
+shntool 3.0.4
+Copyright (C) 2000-2007 Jason Jordan <shnutils@freeshell.org>
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:44.16       39551094 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d1_tr1.wav
+     4:16.43       45260390 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d1_tr10.wav
+     3:38.40       38548774 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d1_tr11.wav
+     4:41.12       49597382 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d1_tr12.wav
+     3:46.45       39971958 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d1_tr13.wav
+     3:40.25       38868086 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d1_tr14.wav
+     3:31.44       37322870 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d1_tr2.wav
+     5:07.07       54170742 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d1_tr3.wav
+     3:59.03       42167414 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d1_tr4.wav
+     7:03.68       74776694 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d1_tr5.wav
+     6:04.62       64356470 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d1_tr6.wav
+     5:26.35       57587830 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d1_tr7.wav
+     4:55.49       52152438 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d1_tr8.wav
+     6:06.48       64676486 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d1_tr9.wav
+     3:42.54       39288950 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d2_tr1.wav
+     3:44.51       39633014 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d2_tr10.wav
+     2:51.69       30326902 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d2_tr11.wav
+     3:20.05       35291254 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d2_tr12.wav
+     3:17.57       34885750 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d2_tr13.wav
+     3:13.26       34107510 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d2_tr14.wav
+     4:25.06       46760054 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d2_tr2.wav
+     3:39.51       38751350 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d2_tr3.wav
+     4:49.51       51098742 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d2_tr4.wav
+     6:59.19       73957494 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d2_tr5.wav
+     3:30.49       37159030 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d2_tr6.wav
+     4:58.67       52723830 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d2_tr7.wav
+     4:35.35       48591990 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d2_tr8.wav
+     3:15.68       34557046 B   -b-   -e   -----    wav  1.0000  Wilco-2008-3-5_d2_tr9.wav
+   122:27.54     1296141544 B                            1.0000  (28 files)

@@ -1,0 +1,40 @@
+Sebadoh - 1995 03 03 The Metro, Chicago, IL
+
+Show note:
+Nice recording, nice setlist. Not sure about tracks 23 and 24 - vox are a little too low to make out the lyrics.
+
+Transfer note:
+There were some very loud parts that eclipsed the rest of the show.  I lowered the volume on a couple of the applause sections, and reduced a few loud peaks. I normalized / maximized the volume to 0 db, then ran light compression (2:1 @ 
+-6 db) to just get the overall loudness to the right level.
+
+01 Soul and Fire
+02 Not a Friend
+03 Together or Alone
+04 Sixteen
+05 Give Up
+06 Ocean
+07 Rebound
+08 Freed Pig
+09 Dramamine
+10 Zone Doubt
+11 Hillbilly II
+12 Prince-S
+13 Brand New Love
+14 Sacred Attention
+15 Beauty of the Ride
+16 Pink Moon
+17 Shit Soup
+18 Sing Something
+19 Sister
+20 Boulder
+21 Social Medicine
+22 No Matter Who You Are
+23
+24 
+25 Flood
+
+Also played:
+The Frogs
+Evergreen
+
+Lineage: Audience Master > CDR > EAC (WAVE + CUE) > SoundForge (levels, mastering) > CDWAVE (splits) > FLAC

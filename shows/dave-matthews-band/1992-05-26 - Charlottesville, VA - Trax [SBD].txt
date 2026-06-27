@@ -1,0 +1,66 @@
+Dave Matthews Band
+Trax
+Charlottesville, VA
+May 26, 1992
+
+
+Taper:      	Unknown
+Source Info:    SBD -> Cassette (unknown generation) -> CD
+
+Conversion: Adam Nelson (nelso222@msu.edu) & Henry Hart
+
+CD > flac > wav > flac (see notes below): 
+EAC (secure mode, all tracks 100%) -> WAV -> 
+flac frontend (level 6) Tracks split using 
+CD Wave v1.93.3 > wav > AddaWav > Cool Edit Pro v2.1 > 
+CDWav > flac frontend
+
+                          ********************
+                          PRESERVE THE QUALITY
+                          DO NOT ENCODE TO MP3
+                          ********************
+
+
+Track   |       Name           	|   Time (m:s)
+----------------------------------------------------
+Set I:
+d1t01		Dancing Nancies			06:10			
+d1t02		Best Of What's Around		05:47
+d1t03		The Maker				06:13
+d1t04		Minarets ->				05:29
+d1t05		Blue Water				07:41
+d1t06		So Much To Say			05:06
+d1t07		Spotlight				05:36
+d1t08		Song That Jane Likes		03:10
+
+d2t01		Satellite				04:03
+d2t02		Lover Lay Down			07:10
+d2t03		Help Myself				04:55
+Set II:
+d2t04		One Sweet World			05:09
+d2t05		People People			05:48
+d2t06		Two Step				09:02
+d2t07		Ants Marching			04:37
+d2t08		Tripping Billies			04:39
+
+
+NOTES:
+----------
+This is the first time the band did the Minarets -> Blue Water medley
+that we know of.
+
+This show has one of only 10 known recordings of People People. 
+
+After Two Step Leroi yells "Crunchberries, Crunchberries, Crunchberries!". 
+
+Tripping Billies probably did not close this show.
+
+These rare older shows have been collected and converted through a collaborative effort to get them into circulation. Sometimes these shows do not have the best sound quality (and maybe that's why they aren't circulated much to begin with), but people should have access to them. 
+
+Thanks to Dan Pyrik for the CD source used for the conversion. 
+
+Compiled By Adam Nelson on November 5, 2006
+
+UPDATE by Henry Hart on 11.21.06:
+This show needed a speed/pitch adjustment and to have small gaps of
+silence removed. I did this in Cool Edit Pro v2.1 and retracked.

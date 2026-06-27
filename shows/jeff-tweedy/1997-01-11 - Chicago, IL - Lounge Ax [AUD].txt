@@ -1,0 +1,78 @@
+Jeff Tweedy & Bob Egan
+1997-01-11
+Lounge Ax
+Chicago, IL
+
+Source: Schoeps mk4+CMC6~>Beyer MV-100~>AD-500E~>DA-P1 (16/48 - Mics on Stand)
+Transfer: Tascam DA-20~>Roland UA-30~>Wavelab 5~>CDWav~>Wavelab 5 [Dither and Resample]~>FLAC (level 8 - Set to align on sector boundries)
+DATs provided by Steve Brothers
+Transfer & Seeding: Stagger (Josh Evans)
+Setlist courtesy of: http://wilcobase.com/
+
+Disc 1:
+1. Red-Eyed And Blue
+2. I Got You (At The End Of The Century)
+3. Black Eye
+4. Oklahoma USA
+5. Outtasite (Outta Mind)
+6. Someone Else's Song
+7. Far, Far Away
+8. Kingpin
+9. Sunken Treasure
+10. (Was I) In Your Dreams
+11. Hotel Arizona
+12. Forget The Flowers
+13. Why Would You Wanna Live
+14. Someday Soon
+15. Twinkle Twinkle Little Star
+
+Disc 2:
+01. Passenger Side
+02. Thirteen
+03. I'm Only Sleeping
+04. Wait Up
+05. Casino Queen
+06. Misunderstood
+07. Peace In The Valley
+08. The Lonely 1
+09. Dreamer In My Dreams
+10. Acuff-Rose
+11. The Long Cut
+12. Too Far Apart
+13. That's Not the Issue
+14. One More Night
+15. New Madrid
+16. Box Full Of Letters
+
+***FFP***
+tweedy1997-01-11d1t01.flac:164228bafb4a2155ad574f4ccd58e087
+tweedy1997-01-11d1t02.flac:08ffb0cfe6338d2bc5c4bc061859bd7f
+tweedy1997-01-11d1t03.flac:704c4242fd3ddd36c669be7675764bdc
+tweedy1997-01-11d1t04.flac:ef250709d6ae0fe7fb1a406c025278b7
+tweedy1997-01-11d1t05.flac:01827d7ce88cf0d82ea9a26f20083d60
+tweedy1997-01-11d1t06.flac:93b12403815fee5f01899ae83a0e467e
+tweedy1997-01-11d1t07.flac:0c84c85b3d465664663affe86bcaa33d
+tweedy1997-01-11d1t08.flac:8ab23045a5a41c055db8be898f7014df
+tweedy1997-01-11d1t09.flac:76ffbe1c0cd07d0daac9b24bc8778492
+tweedy1997-01-11d1t10.flac:079e55a19ddcfeb76c5558710dc95389
+tweedy1997-01-11d1t11.flac:2cb70cbff8671836d0256cc82e940b4c
+tweedy1997-01-11d1t12.flac:56a276c7a99dea9f583ad2ccabcd9251
+tweedy1997-01-11d1t13.flac:a37ebbb85a264faa6e4e89d9a05e1013
+tweedy1997-01-11d1t14.flac:da01eaa494f01e407ff86a3530800121
+tweedy1997-01-11d1t15.flac:64c4b9ec9a4c173d7a382adcc1463b95
+tweedy1997-01-11d2t01.flac:01b912c777c2032c5e6e6d8d85798df4
+tweedy1997-01-11d2t02.flac:802e5dcf3b6f7d6a145bc871fe168355
+tweedy1997-01-11d2t03.flac:7736c499f3802cf8b9c5b3d8cdd5d6a1
+tweedy1997-01-11d2t04.flac:2ec90627e74d9da64db43da266ea6687
+tweedy1997-01-11d2t05.flac:6e6ec4e58d5f974b519e5eb6a453e655
+tweedy1997-01-11d2t06.flac:e46df328ee69d98a5035e424d5ebc7fc
+tweedy1997-01-11d2t07.flac:a92e727c5d04c36698f65007bb8732f5
+tweedy1997-01-11d2t08.flac:fd49ab21f707bc302f3276038fe6cae8
+tweedy1997-01-11d2t09.flac:02c520aa3fd56d6040740d4c42b6c628
+tweedy1997-01-11d2t10.flac:10baddd12533762d8f762e2bd54edf02
+tweedy1997-01-11d2t11.flac:b2aa34f22235e0ad0a0bedcd699c36bd
+tweedy1997-01-11d2t12.flac:528d4aa8bf6f868de9f2c7c26980b775
+tweedy1997-01-11d2t13.flac:c13052930af129c851f6f39cd7182f14
+tweedy1997-01-11d2t14.flac:a62b9b3d4063a909d41058a9d71dda20
+tweedy1997-01-11d2t15.flac:145a0a21c318053225f65ccc29145139
+tweedy1997-01-11d2t16.flac:4944d866c99f05a7d2b48c01d0132b36

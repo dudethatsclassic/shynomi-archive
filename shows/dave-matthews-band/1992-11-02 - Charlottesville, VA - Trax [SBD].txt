@@ -1,0 +1,33 @@
+Dave Matthews Band
+November 2, 1992
+Trax
+Charlottesville, VA
+
+Source: 	DSBD
+DAT > SHN:	Archive Python DDS/vdat > .wav (Direct DAT extraction, no soundcard)
+		Bill Lakenan <blakenan@us.net>
+
+
+Disc One
+
+01:	Intro					-	00:13:97
+02:	One Sweet World				-	10:12:46
+03:	Tripping Billies			-	05:00:62
+04:	Granny					-	04:40:31
+05:	Lie In Our Graves			-	06:34:17
+06:	Help Myself				-	04:32:01
+07:	Two Step				-	09:05:12
+08:	Jimi Thing				-	14:57:57
+09:	What Would You Say			-	06:15:34
+
+
+Disc Two
+
+01:	Say Goodbye(beginning cut)		-	04:23:05
+02:	I'll Back You Up			-	06:37:74
+03:	Warehouse				-	08:48:54
+04:	Satellite				-	05:29:17
+05:	Dancing Nancies------>			-	07:26:51
+06:	Typical Situation			-	11:03:74
+07:	Ants Marching				-	07:55:25
+08:	Christmas Song				-	05:25:65

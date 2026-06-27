@@ -1,0 +1,87 @@
+Wilco
+9th Street Summerfest
+Outdoors on 9th Street
+Columbia, MO
+September 19, 2007
+
+---16 bit source---
+
+SOURCE: B&K 4021s (ORTF) > EAA-PSP2 > Sound Devices 722 @ 24/96 DFC FOB. 
+
+LINEAGE: 722 > Wavelab (resample & dither to 16/44.1, fades)  > CD Wave > Flac level 6. 
+
+TAPED BY: Steve Brothers
+
+TRANSFERRED BY: Steve Brothers
+
+FILSIZE: 626 MB
+
+SETLIST: 
+
+Disk 1 (part 1) (76:51)
+
+01: You Are My Face
+02: I Am Trying To Break Your Heart
+03: Pot Kettle Black
+04: War On War
+05: Handshake Drugs
+06: Side With The Seeds
+07: A Shot In The Arm
+08: Impossible Germany 
+09: Sky Blue Sky
+10: Too Far Apart
+11: Jesus, Etc. 
+12: Walken 
+13: I'm The Man Who Loves You  
+14: Via Chicago   
+15: Hummingbird   
+
+Disk 2 (part 2) (51:42)
+
+Encore 1:
+16. Hate It Here 
+17. Hesitating Beauty   
+18. Heavy Metal Drummer   
+19. California Stars  
+
+Encore 2:
+20. What Light   
+21. Red-Eyed And Blue   
+22. I Got You (At The End Of The Century)   
+23. Casino Queen   
+24. Outtasite (Outta Mind)   
+25. Passenger Side   
+26. Spiders (Kidsmoke)   
+
+---Thanks to Brian Sax for the use of the 722---
+---Setlist taken from Wilcobase.com---
+---For trade only - not for sale---
+
+FFP CHECKSUM:
+
+Wilco2007-09-19d1t09.flac:75ac249d1bcfd7bfcc15d5d7f1e3568b
+Wilco2007-09-19d1t10.flac:bc7844fec7f03db890aa7cc4d1bd00b7
+Wilco2007-09-19d1t11.flac:dadc8cbfa448f7af53f0569667726caa
+Wilco2007-09-19d1t12.flac:f9319bebc78ced6dad854a09a5edb075
+Wilco2007-09-19d1t13.flac:040a23041a4f51a1e76305474033857b
+Wilco2007-09-19d1t14.flac:b786062209f3dc6e31db9f2d96b1b38d
+Wilco2007-09-19d1t15.flac:37fef5752c94596ccd2d123d890ea1a1
+Wilco2007-09-19d2t01.flac:53e05dd2afb2844a80fe4d02c5dc98be
+Wilco2007-09-19d2t02.flac:f4cd91450f11963965acefc18e493e9e
+Wilco2007-09-19d2t03.flac:ef91db761b97a140c462b22cd1fee3d5
+Wilco2007-09-19d2t04.flac:fed3b5447dc71129f37c61fe605579eb
+Wilco2007-09-19d2t05.flac:62d4101aab9677ca990cc877a14cd0f2
+Wilco2007-09-19d2t06.flac:9f6ff4c26b2617af8c0e60fd5aca4c93
+Wilco2007-09-19d2t07.flac:4758f10246f28876095a401afe837ad0
+Wilco2007-09-19d2t08.flac:57f6d9116791a44efb74e9a71bc8942c
+Wilco2007-09-19d2t09.flac:2b7ac92ecc96cd1a9859307afc2c0e81
+Wilco2007-09-19d2t10.flac:11ede3544070e50a8f5d71754e5dc597
+Wilco2007-09-19d2t11.flac:29b500e06a564a68a088ae14976dab26
+Wilco2007-09-19d1t01.flac:32d6860aa4ef64c274d4eae6f0272047
+Wilco2007-09-19d1t02.flac:58ce990a85a2a65854329a450431c3e2
+Wilco2007-09-19d1t03.flac:7fef7cd5efd2df3a83954e89cb6e3d0c
+Wilco2007-09-19d1t04.flac:68a1bc6cffb4cdcb4fdb02c43d7acae0
+Wilco2007-09-19d1t05.flac:d2036c1fcbf889726ba3ee0124f179e8
+Wilco2007-09-19d1t06.flac:1c0234a386fe9bcaaa990e3d29e26ba2
+Wilco2007-09-19d1t07.flac:e594393c2d2fadf11a7ec37225ba59db
+Wilco2007-09-19d1t08.flac:5a61e8ac2c8ec7a77f55a04a7307dedd

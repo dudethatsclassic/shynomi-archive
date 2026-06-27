@@ -1,0 +1,98 @@
+Wilco
+4-26-2015
+Capital City Amphitheater
+Tallahassee, FL
+
+Source: Church Audio CA-11 (cards) > Church Audio CA-9200 > Sony PCM-M10 (24/48) > Micro SD Card
+Location: BOB/DFC/Clipped to Orlando's Human Mic Stand ~6' high (Front row of GA Lawn, directly behind SBD)
+Transfer: Audacity (Normalizing/Fades) > dBpoweramp (Conversion to 16/44.1) > CD Wave (Tracking) > Trader's Little Helper (Fix SBEs/FLAC Level 8)
+Recorded & Transferred by mccordo
+
+One Set
+1. Crowd/Intro
+2. I Am Trying to Break Your Heart >
+3. Art of Almost
+4. Via Chicago
+5. Whole Love
+6. Tweedy banter - Tallahassee
+7. I Must Be High
+8. Handshake Drugs
+9. Panthers
+10. Hotel Arizona
+11. Pot Kettle Black
+12. Tweedy banter - Fantastic audience
+13. Forget the Flowers
+14. Tweedy banter - Come say hello
+15. Airline to Heaven
+16. Tweedy banter - Go back to your seats
+17. Secrets of the Sea
+18. Hummingbird
+19. On and On and On
+20. Impossible Germany
+21. A Magazine Called Sunset
+22. Camera
+23. Jesus, Etc.
+24. Theologians
+25. I'm Always In Love
+26. Heavy Metal Drummer
+27. I'm the Man Who Loves You
+28. Dawned On Me
+(Encore)
+29. Crowd
+30. Kingpin
+31. Monday
+(Encore II)
+32. Crowd
+33. Capitol City*
+34. War On War*
+35. Tweedy banter - Dobro spring
+36. New Madrid*
+37. California Stars*
+38. Misunderstood*
+39. Crowd/Outro
+
+Notes:
+* - full band acoustic
+
+Royal Thunder opened (not recorded). This is NOT a flawless recording, but it is the only known source and I believe is still listenable. The venue did not allow recording, so I had to go 007 to pull a tape. There was an issue with my right mic capsule that went completely unnoticed until after the show and resulted in an audible buzz in the right channel for 3/4 of the show. As a result, this is a mono recording consisting of only the left channel doubled to cover both channels. Also, despite using windscreens there is some intermittent wind noise, a couple of trains pass by on the tracks that were about 100 yards behind the lawn and the crowd gets a little loud with their clapping/cheering a few times. Second encore was performed unamplified with the entire band on acoustic instruments played into mics arranged at the front of the stage. I did not boost the recording levels for the second encore, so the levels are lower during that portion. Many thanks to Wilco for allowing the recording of this show.
+
+FFP:
+Wilco2015-04-26t01.flac:9b377c8604f71957e8259655fd9644a6
+Wilco2015-04-26t02.flac:51dcfba3ccefdd6519c0ed49d4b3667a
+Wilco2015-04-26t03.flac:95ff6b0978f2533fb4a5579d2ff481eb
+Wilco2015-04-26t04.flac:95bc31cb5faff73e2429bd1ec363cf0f
+Wilco2015-04-26t05.flac:dab3f3dd48ee205b78b1031f1b620b2c
+Wilco2015-04-26t06.flac:5cf767e93d81552a7c4f3979ec00e073
+Wilco2015-04-26t07.flac:c22bd4ca70b38f0b87c73a7192995a10
+Wilco2015-04-26t08.flac:6ad37359835e7770e0c99918916f5680
+Wilco2015-04-26t09.flac:787f4da2dd74f1f47bc9f2b927215a11
+Wilco2015-04-26t10.flac:0c3a788ff06c36de47862f7a53b3ac2c
+Wilco2015-04-26t11.flac:abc7a40c84ed1883d5b975c1ca870207
+Wilco2015-04-26t12.flac:176c4cdc1ae836d64f1a09a5534a8083
+Wilco2015-04-26t13.flac:f4fb14136476d2ca596c5abc7bf4cc6f
+Wilco2015-04-26t14.flac:87b367cac72f0eb998c2ccaa3718777e
+Wilco2015-04-26t15.flac:8d34909c5af6cc445335d122930d8e86
+Wilco2015-04-26t16.flac:d4dccb57cd503233dfaf90bbec9d72e0
+Wilco2015-04-26t17.flac:a4a492b85be36672ba3a00ebc3a55fdf
+Wilco2015-04-26t18.flac:510f19e7d2610bfa4392acd8d8a89d8f
+Wilco2015-04-26t19.flac:b0b4e145be33af3bf9c7e687f56af155
+Wilco2015-04-26t20.flac:fd5b4fe4c640e146a01ce28134085332
+Wilco2015-04-26t21.flac:743d9e8e3100ef2efc73bfbe450f51b4
+Wilco2015-04-26t22.flac:f0972f475b5b32537ec3f1ab4370a65d
+Wilco2015-04-26t23.flac:389c7f7c7345641623a1959177c3c1fc
+Wilco2015-04-26t24.flac:9d1b774105cc224002470f8e2b4a52b5
+Wilco2015-04-26t25.flac:7df2a96e779e200ab185dbbac33c3e52
+Wilco2015-04-26t26.flac:657a28125d38f40e191bc4f3c40f7818
+Wilco2015-04-26t27.flac:14702f8d3d444d2e0e31c11db1d01fa2
+Wilco2015-04-26t28.flac:ebb7d5f09b06a5bc78d40cc4708712bf
+Wilco2015-04-26t29.flac:cbaca861b4b15863deb19bbeedbaf2ab
+Wilco2015-04-26t30.flac:4d3bb658b0c32edf081261c4bdf414a6
+Wilco2015-04-26t31.flac:af124b79222e1b7f7d6f93759a87e41e
+Wilco2015-04-26t32.flac:d1305bf58cfd9c65b2279fd65d0e1a1d
+Wilco2015-04-26t33.flac:ebb393dea9b9f557b04773cd4b598f49
+Wilco2015-04-26t34.flac:7932534d7a9ee2a5383059c48c5a5936
+Wilco2015-04-26t35.flac:1c98121a841771c137a98a5536abe55a
+Wilco2015-04-26t36.flac:102e6815c540dc710a9cbd2b01bd9351
+Wilco2015-04-26t37.flac:5a7ea5d523ee961e004573ff588b020f
+Wilco2015-04-26t38.flac:20aa70ea580181f83825ceae203868f3
+Wilco2015-04-26t39.flac:4f8542ac30d1b3465d4de866061b1c05

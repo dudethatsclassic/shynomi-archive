@@ -1,0 +1,43 @@
+Sigur Rós
+Hamburg, Germany - Schlachthof
+11/17/2000
+
+
+Length: 89:40 min 
+Quality: Excellent + FM broadcast
+Size: 556 MB compressed (SHN) 
+Complete Show: Yes
+DAE in Lineage: No
+Conversion: macphisto@gmx.de 
+
+
+Tracklist
+
+1. Nyja Lagid
+2. E Bow
+3. Alafoss
+4. Dauda
+5. Von
+6. Olsen Olsen
+7. Svefn - e - englar
+8. Vidrar vel til loft
+9. Hafsol 
+
+
+
+History:
+Radio1 (cable) 
+-> Sony Tuner ST-S390 
+-> Sony DAT DTC-670 (A>D)
+-> optical Soundpool SRC44 (48kHz>44.1kHz)
+-> optical Midia Prodif 100
+-> CD Wave Editor recording
+-> Wavelab 3.0 cuts/fading
+-> CD WAVE Editor Track Splitting
+-> WAV
+-> MKW Audio Compression Tools 0.97b
+-> SHNv3
+
+
+Comments:
+-

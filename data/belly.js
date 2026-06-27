@@ -39,7 +39,8 @@ const ARTIST_DATA = {
       "venue": "Woughton Centre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-02-21 - Milton Keynes, UK - Woughton Centre [AUD].txt"
     },
     {
       "year": 1993,
@@ -52,7 +53,8 @@ const ARTIST_DATA = {
       "venue": "The Junction",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-02-24 - Cambridge, England - The Junction (unk) [AUD].txt"
     },
     {
       "year": 1993,
@@ -63,9 +65,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Koln, Germany",
       "venue": "Luxor",
-      "notes": "AUD(M) · buenaventura",
+      "notes": "AUD(M) \u00b7 buenaventura",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-03-02 - Koln, Germany - Luxor - AUD(M) (buenaventura) [AUD].txt"
     },
     {
       "year": 1993,
@@ -78,7 +81,8 @@ const ARTIST_DATA = {
       "venue": "KCRW Morning Becomes Eclectic",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-04-15 - Santa Monica, CA - KCRW Morning Becomes Eclectic [FM].txt"
     },
     {
       "year": 1993,
@@ -89,9 +93,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Santa Monica Pier",
-      "notes": "KROQ · Sony TCM-37V · van",
+      "notes": "KROQ \u00b7 Sony TCM-37V \u00b7 van",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-04-16 - Santa Monica, CA - Santa Monica Pier - KROQ Free Concert (Sony TCM-37V) (van) [AUD].txt"
     },
     {
       "year": 1993,
@@ -102,9 +107,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Santa Monica Pier",
-      "notes": "2-cam · chrisedge",
+      "notes": "2-cam \u00b7 chrisedge",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1993-04-16 - Santa Monica, CA - Santa Monica Pier (2-cam) (chrisedge) [DVD].txt"
     },
     {
       "year": 1993,
@@ -115,9 +121,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Grant Park (WXRT-FM)",
-      "notes": "DAT(M) · nt",
+      "notes": "DAT(M) \u00b7 nt",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-07-04 - Chicago, IL - Grant Park (WXRT-FM) - DAT(M) (nt) [FM].txt"
     },
     {
       "year": 1993,
@@ -128,9 +135,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Cameo Theatre",
-      "notes": "SS-DSM-6 · datfly",
+      "notes": "SS-DSM-6 \u00b7 datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-09-23 - Miami, FL - Cameo Theatre (SS-DSM-6) (datfly) [AUD].txt"
     },
     {
       "year": 1993,
@@ -143,7 +151,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-12 - Universal City, CA - Universal Amphitheatre [FM].txt"
     },
     {
       "year": 1995,
@@ -154,9 +163,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Virgin Megastore",
-      "notes": "ECM737 · unk",
+      "notes": "ECM737 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-02-13 - Hollywood, CA - Virgin Megastore (ECM737) (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -169,7 +179,8 @@ const ARTIST_DATA = {
       "venue": "Shepherds Bush Empire",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-03-18 - London, UK - Shepherds Bush Empire [FM].txt"
     },
     {
       "year": 1995,
@@ -180,9 +191,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theatre",
-      "notes": "MarcR binaurals · marcr",
+      "notes": "MarcR binaurals \u00b7 marcr",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1995-04-19 - Denver, CO - Ogden Theatre (MarcR binaurals) (marcr) [AUD24].txt"
     },
     {
       "year": 1995,
@@ -195,7 +207,8 @@ const ARTIST_DATA = {
       "venue": "TLA",
       "notes": "ANA(x)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-13 - Philadelphia, PA - TLA - ANA(x) [AUD].txt"
     },
     {
       "year": 1995,
@@ -208,7 +221,8 @@ const ARTIST_DATA = {
       "venue": "Fort Apache Studio",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-06-15 - Cambridge, MA - Fort Apache Studio [FM].txt"
     },
     {
       "year": 1995,
@@ -221,7 +235,8 @@ const ARTIST_DATA = {
       "venue": "Roskilde Festival",
       "notes": "pherron",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-06-29 - Roskilde, Denmark - Roskilde Festival (pherron) [FM].txt"
     },
     {
       "year": 1995,
@@ -234,7 +249,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-07-24 - Manchester, UK (unk) [FM].txt"
     },
     {
       "year": 1995,
@@ -247,7 +263,8 @@ const ARTIST_DATA = {
       "venue": "La Luna Club",
       "notes": "Sony DSM6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-30 - Portland, OR - La Luna Club (Sony DSM6) [AUD].txt"
     },
     {
       "year": 1995,
@@ -258,7 +275,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -273,7 +290,8 @@ const ARTIST_DATA = {
       "venue": "Teragram",
       "notes": "AT831",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-08-24 - Los Angeles, CA - Teragram (AT831) [AUD].txt"
     },
     {
       "year": 2016,
@@ -284,9 +302,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "notes": "MK4 · daspyknows",
+      "notes": "MK4 \u00b7 daspyknows",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-08-26 - San Francisco, CA - Great American Music Hall (MK4) (daspyknows) [AUD].txt"
     },
     {
       "year": 2017,
@@ -297,9 +316,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Wesley Stace's Cabinet of Wonders Winery",
-      "notes": "CA-14s · neil d",
+      "notes": "CA-14s \u00b7 neil d",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-05-05 - New York, NY - Wesley Stace's Cabinet of Wonders Winery (CA-14s) (neil d) [AUD].txt"
     },
     {
       "year": 2018,
@@ -312,7 +332,8 @@ const ARTIST_DATA = {
       "venue": "World Cafe",
       "notes": "WXPN",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-05-03 - Philadelphia, PA - World Cafe - WXPN Studio [FM].txt"
     },
     {
       "year": 2023,
@@ -323,9 +344,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Gramercy Theatre",
-      "notes": "Nokia Lumia Icon · viper",
+      "notes": "Nokia Lumia Icon \u00b7 viper",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-10-08 - New York, NY - Gramercy Theatre (Nokia Lumia Icon) (viper) [AUD].txt"
     },
     {
       "year": 2025,
@@ -336,9 +358,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Sony Hall",
-      "notes": "AT-853 · neil d",
+      "notes": "AT-853 \u00b7 neil d",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-10-24 - New York, NY - Sony Hall (AT-853) (neil d) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -349,9 +372,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Teragram Ballroom",
-      "notes": "SP-CMC-4U · ijwthstd",
+      "notes": "SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-11-07 - Los Angeles, CA - Teragram Ballroom (SP-CMC-4U) (ijwthstd) [AUD].txt"
     }
   ],
   "misc": [

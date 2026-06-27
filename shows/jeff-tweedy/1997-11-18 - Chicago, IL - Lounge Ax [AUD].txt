@@ -1,0 +1,45 @@
+Jeff Tweedy
+November 18, 1997 
+Lounge Ax, Chicago IL
+
+Source: Microtech-Gefell SMS2000 w/ 200 cardioid caps > Audio Magic active cables > Sonosax > 
+Sony TCD-D8 (48 Khz), FOB
+
+Transfer: Dat Master > Tascam DA-20mkII > Zefiro ZA2 (resampling to 44.1 Khz) > HD > CD Wave (tracking) > 
+Sound Forge (fades and 2 sec. silence in d1t01 and d2t14) > .shn > CDR > Flac (dBpowerAMP)
+
+Disc 1
+01 James Alley Blues
+02 Auld Triangle
+03 Forget the Flowers
+04 *Via Chicago
+05 Pecan Pie
+06 That Year
+07 *Candy Floss
+08 *Hoodoo Voodoo
+09 *She's a Jar
+10 Ever fallen in Love 
+11 Henry & the H-Bombs
+12 I'm Always in Love
+13 Wait Up
+14 Screen Door
+15 Acuff Rose
+
+Disc 2 
+01 Dash 7
+02 I Got You
+03 How to Fight Loneliness
+04 Box Full of Letters
+05 Thirteen
+06 Someone Else's Song
+07 Casino Queen
+08 -Encore Break-
+09 Black Eye
+10 Please Tell My Brothers
+11 Dreamer in My Dreams
+12 The Long Cut
+13 Sugar Baby
+14 True Love Will Find You In The End
+
+*1st time played
+

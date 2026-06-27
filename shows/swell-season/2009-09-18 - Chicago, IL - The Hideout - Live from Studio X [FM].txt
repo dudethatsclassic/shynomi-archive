@@ -1,0 +1,43 @@
+The Swell Season
+Live from Studio X
+The Hideout
+Chicago, IL US
+2009-09-18
+
+Lineage: fm (Onkyo TX8511)>SoundBlaster (Live! 24 bit External)>wav(CD Wave Editor @ 16bit)>flac
+
+Glen Hansard and Marketa Irglova
+
+Intro 0:50
+The Swell Season 4:22
+Low Rising 5:09
+Maybe I Was Born to Hold You in These Arms 5:33
+Announcer/Interview 10:37
+Feeling the Pull 3:03
+Paper Cup 5:03
+I've Loved You Wrong 5:32
+Announcer/Interview 6:29
+When Your Minds Made Up 3:18
+Untitled (It's Called Sumtin') 4:16
+Falling Slowly 4:23
+
+Total Time: 58:42
+
+st5 fingerprints:
+
+
+ac0c2f6761d68b70f3420511a60650ac  [shntool]  01 Intro.flac
+999197527f9817bca6d28387ca479e80  [shntool]  02 The Swell Season.flac
+a749720dc81069578df54dfb25d6b18d  [shntool]  03 Low Rising.flac
+0d6ffc8b3f043edb40620c6488460598  [shntool]  04 Maybe I Was Born to Hold You in These Arms.flac
+bc4b13dffb18aae1838ff0594d4bc209  [shntool]  05 Interview.flac
+732c60437967ee450e8acae522f3b402  [shntool]  06 Feeling the Pull.flac
+b78151ef7a21568d6eae4975f06e582a  [shntool]  07 Paper Cup.flac
+bd7166cf0cec694b14ef9fafa2f014d3  [shntool]  08 I've Loved You Wrong.flac
+9de00b52f03b1c72048e359a4f6818cf  [shntool]  09 Interview.flac
+045d21c781df4d3957caf7d5cf6c141b  [shntool]  10 When Your Mind's Made Up.flac
+081d96cabeea35c3394b2d35e7171435  [shntool]  11 It's Called Sumtin.flac
+e9c92dab8526cc4e03d6588b0577dadb  [shntool]  12 Falling Slowly.flac
+
+No errors occured.
+

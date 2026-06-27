@@ -1,0 +1,25 @@
+Blondshell
+2026-04-11
+Coachella Valley Music & Arts Festival, Outdoor Theatre
+Empire Polo Club, Indio, CA
+
+Lineage: YouTube livestream > livestream_dl (yt-dlp) > ffmpeg (split, no reencode) > mkvpropedit
+Video: Matroska (VP9) 3840x2160 16:9 29.970 fps 7344 kb/s
+Audio: AAC 128 kb/s 44.1 kHz stereo
+
+Setlist:
+01. Veronica Mars
+02. 23's a Baby
+03. Docket
+04. Sepsis
+05. T&A
+06. My Heart
+07. Change
+08. Olympus
+09. Tarmac
+10. Kiss City
+11. Salad
+
+Setlist source: https://www.setlist.fm/setlist/blondshell/2026/empire-polo-club-outdoor-theatre-indio-ca-b76c5ae.html
+
+Total runtime: 00:42:31

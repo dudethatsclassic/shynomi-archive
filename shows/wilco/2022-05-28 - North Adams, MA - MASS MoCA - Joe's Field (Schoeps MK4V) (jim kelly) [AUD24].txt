@@ -1,0 +1,97 @@
+Wilco
+Solid Sound Festival 
+Joe's Field
+MASS MoCA
+North Adams, MA
+May 28, 2022
+
+** 24 BIT **
+
+Source:  Schoeps MK4V radial cardioids (in a Kangol hat) > Nbob actives > Nbox Platinum > Roland R-05 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX9 Advanced v9.0.0.1130 (De-click > Sound Forge Pro 14.0 Build 140 [normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > Trader's Little 
+Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  Standing left of center, behind and to the left of the SBD
+Recorded by:  Jim Kelly (musicjaime)
+Mastered by:  Dennis Orr
+
+Setlist: (2:04:55)
+01 You Are My Face
+02 War On War
+03 Muzzle Of Bees
+04 Chat
+05 I Am My Mother
+06 Cruel Country
+07 Side With The Seeds
+08 If I Ever Was A Child
+09 Bird Without A Tail / Base Of My Skull
+10 Tired Of Taking It Out On You
+11 Hotel Arizona
+12 At Least That's What You Said
+13 Either Way
+14 Impossible Germany
+15 She's A Jar
+16 What Light
+17 Story To Tell
+18 Love Is Everywhere (Beware)
+19 Chat
+20 Falling Apart (Right Now)
+21 Walken
+22 Encore Break
+- Encore -
+23 Chat (1)
+24 The Good Part 
+25 Chat
+26 Jesus, Etc. (2)
+27 Chat
+28 Heavy Metal Drummer
+29 Dawned On Me
+30 A Lifetime To Find
+31 Red-Eyed And Blue >
+32 I Got You (At The End Of The Century) >
+33 Outtasite (Outta Mind)
+34 Outro
+
+(1) Jeff Tweedy tells security to give the crowd back their beach ball - "This is a beach ball kind of song"
+(2) With Michelle Zauner lead vocals, and Macie Stewart & Molly Gerber - backing vocals
+
+Jeff Tweedy - lead vocals, guitars, & bass
+Nels Cline - lead guitar, loops, & lap steel
+Pat Sansone - keyboards, rhythm & lead guitars, backing vocals, synthesizers, maracas, & tambourine
+John Stirratt - bass, guitar, & backing vocals
+Mikael Jorgensen - samples & sound manipulation, keyboards, synthesizers, effects, piano, & organ
+Glenn Kotche - drums & percussion
+
+Wilco2022-05-28t01.flac:74e0633267dd5ac04395d16ac88a428f
+Wilco2022-05-28t02.flac:7871193d5a0b518ea1b310c2a167ef80
+Wilco2022-05-28t03.flac:f103535a2ecb4948daa6e3c256a764f4
+Wilco2022-05-28t04.flac:951854e6c1906e510060618b9017fab1
+Wilco2022-05-28t05.flac:f88d20d83c56659c7e7ec5a4c707e7b3
+Wilco2022-05-28t06.flac:5296393aa4d54e839478d616ca4ef140
+Wilco2022-05-28t07.flac:c9fe0a5dedcd70f042ed1c2d53f427e6
+Wilco2022-05-28t08.flac:33c673ff323b0ccf067092e4f0f9192d
+Wilco2022-05-28t09.flac:024cd09c3a3461bd700458d08f5a3b25
+Wilco2022-05-28t10.flac:f7e6030fae03f62fc265df8de1734612
+Wilco2022-05-28t11.flac:1eaa624700db76adec2438a6bd4eac77
+Wilco2022-05-28t12.flac:98607f18d8d05340d9041cd15fcc0a48
+Wilco2022-05-28t13.flac:643607ec85c521467cb7950bc42c0cb2
+Wilco2022-05-28t14.flac:526e8848d01e37775fb6289f83a66e47
+Wilco2022-05-28t15.flac:e411e81a4241464d3c5885f4f225fdf7
+Wilco2022-05-28t16.flac:380286a2cca6a38325fdc98a8ef9aea1
+Wilco2022-05-28t17.flac:1dbff13da6f5bc44bee1f3851faa47ee
+Wilco2022-05-28t18.flac:1618da9fc137aa5ac03c04cf8acf8796
+Wilco2022-05-28t19.flac:3a5f856be3905ef89e9429c43bc75dd5
+Wilco2022-05-28t20.flac:d0485637a179700d947b32b7f7146b99
+Wilco2022-05-28t21.flac:63457b2aab74cbc4dd7813090ea8686e
+Wilco2022-05-28t22.flac:d6284f3848af195e5622baa37f77d92e
+Wilco2022-05-28t23.flac:bdac676fdd9f2039d82b2855dc1e1c68
+Wilco2022-05-28t24.flac:f79b47741f0c0067eb478b05e51cc079
+Wilco2022-05-28t25.flac:357b8ad488e64884f2152c5054b17d25
+Wilco2022-05-28t26.flac:dbd39a3e7889d3468e569e29a6abc58b
+Wilco2022-05-28t27.flac:423fb971377ab9ec646c6395e4b7c69a
+Wilco2022-05-28t28.flac:3fa617421742211d7deaa13aa9d3d6ea
+Wilco2022-05-28t29.flac:ee5374576852380b8b848177a14f0f56
+Wilco2022-05-28t30.flac:1a55793cddfffd6893a057e0c8f6802c
+Wilco2022-05-28t31.flac:fe40be32e156f3465b5631ca8c406b25
+Wilco2022-05-28t32.flac:cb0844801bc66daf4b89ec616f32ba2f
+Wilco2022-05-28t33.flac:ba95c5066c13ee52bb738bcc33833d91
+Wilco2022-05-28t34.flac:92ee9acd76188dd9e1a4244a2f7f7297

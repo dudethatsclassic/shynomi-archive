@@ -1,0 +1,45 @@
+Sevendust
+The Cuban Club
+Tampa, FL
+November 24, 2012
+
+Source:
+Sony ECM-717 >Edirol R-09 >44.1khz, 16bit wave >SanDisk 8gb SD card
+>Audition 1.5(e.q., hard limit, fades and tracks) >wave >FLAC(level 8).
+
+Location:
+About 10' from left p.a. column. In the pit.
+
+Taper:
+kevdogg
+
+Set/Track List:
+1. intro / Splinter
+2. Denial
+3. Praise
+4. Enemy
+5. Suffocate
+6. Strong Arm Broken
+7. Forever
+8. Crucified
+9. Alpha
+10. Black
+11. Driven
+12. Pieces
+13. The End Is Coming
+14. Face to Face
+
+Notes:
+The second of a four-show run leading to their departure on the Shiprocked cruise, to return
+for one more date (Dec 1st) in Ft. Lauderdale. Given my proximity to the p.a. and the subs I
+decided to engage the low-cut switch on the R-09 which resulted in a loss of low end which I
+hadn't noticed until recently. This has been shared before on ttd but I felt it was time to remaster
+it (as I have become much better at it) and to create some cover art as well. I started from
+scratch using the raw wave file and used graphic e.q. to boost the low frequencies and did a
+hard limit to -.1db with a 4db boost. I also eliminated the encore break track mark and left the
+encore as part of track 13. If you already have this in your catalog, I suggest replacing it with
+this version and giving it a listen on the 13th anniversary of it. It was a great show. LJ's voice
+was starting to get rough but it's only noticeable during the banter. This was an outdoor concert
+held in the back courtyard of the Cuban Club. Nonpoint opened and I recorded them as well.
+Cover art is included in the torrent. Enjoy.
+-kevdogg

@@ -1,0 +1,108 @@
+John Mayer Solo Acoustic
+State Farm Arena
+Atlanta, Georgia
+10/25/2023
+
+Source: Schoeps CCM4V'S>Lunatec V2>Sound Devices 722 (48/24)
+FOB/DFC/KFC/ZFC/AARP Section 207, Roe F, Seat 1, 5' High
+DSP: Sound Devices 722>Sound Forge 10.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000 
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Show #309 Of 2023  
+
+A Team Dirty South And Home Team Recording
+
+Disc I 
+
+01 Slow Dancing In A Burning Room
+02 Daughters 
+03 Wild Blue >
+04 I Don't Trust Myself (With Loving You)
+05 Video From January 16, 2002 With Room For Squares Played
+06 Neon
+07 Who Says
+08 Waitin' On The Day 
+09 Come Back To Bed 
+10 Under Pressure 
+11 John Banter
+12 3 x 5
+
+Disc II 
+
+01 In Your Atmosphere 
+02 Video With Continuum Interview Played
+03 Stop This Train
+04 Something Like Olivia >
+05 Split Screen Sadness >
+06 New Light >
+07 The Age Of Worry
+08 Your Body Is A Wonderland 
+09 *Walt Grace's Submarine Test, January 1967
+10 #If I Ever Get Around
+11 John Banter
+12 #Edge Of Desire
+Encore:
+13 Comfortable
+14 Free Fallin'
+
+* John Plays 12 String Resonater Guiar
+# John Plays Double Neck Guitar
+
+john2023-10-25d01t01.flac:97817f8e4e5845441db1e7c49cfa1dde
+john2023-10-25d01t02.flac:7408728aacceac8fcc8dfdfe88b14d1a
+john2023-10-25d01t03.flac:d98a64e66c7a4ea2d5f16abc584d56e2
+john2023-10-25d01t04.flac:dc04bf00021e16339fd4f331227f97a6
+john2023-10-25d01t05.flac:ca846e59e73b427583cf735233fb9bbd
+john2023-10-25d01t06.flac:047b3cba68aa850a5c3292ce4cc5152a
+john2023-10-25d01t07.flac:723a66eaa1c8ac5c1f6ee034f780d497
+john2023-10-25d01t08.flac:5403f2fe3e58c595e8bec4b27c76e8b3
+john2023-10-25d01t09.flac:0a84ba7cdc99bae8df68c4aa564f7d57
+john2023-10-25d01t10.flac:d272ec9c199758bf89a0a9b173c441bc
+john2023-10-25d01t11.flac:f73d9020f404d6ad675a4bea6a059b43
+john2023-10-25d01t12.flac:9025220153ee9c440404a04f46d4c487
+john2023-10-25d02t01.flac:48b8c214782036d1acea644e27993a91
+john2023-10-25d02t02.flac:6e097564fab46a5ce1d86ed46aef7e56
+john2023-10-25d02t03.flac:59267027940316d16ef61b7ce8b5235d
+john2023-10-25d02t04.flac:a507892339fbaf86518e5b63271ec909
+john2023-10-25d02t05.flac:37b5ced68789402ec688ffe060927771
+john2023-10-25d02t06.flac:391cb4b4d64941731d79425c9d51c5a8
+john2023-10-25d02t07.flac:89ec1dc723ba80a7d545412a766e8408
+john2023-10-25d02t08.flac:2896b7d7a9b954e381dc7488197e9d12
+john2023-10-25d02t09.flac:62398730c8b7ec352df2a1b0d6ed5bbe
+john2023-10-25d02t10.flac:6a7bc545e4c07dcb31b17a5d1d91cea4
+john2023-10-25d02t11.flac:63e7a72899b4dcedd33bd18efac73d49
+john2023-10-25d02t12.flac:fb8294e97c5e6b7fb5449bb0b4fdf697
+john2023-10-25d02t13.flac:d596f2a18b03e8bbcc34c8f5cc3e1606
+john2023-10-25d02t14.flac:0687578e2495a7d7919666606f181e95
+
+  length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:22.49       56916092 B   ---   --   ---xx   flac  0.4700  john2023-10-25d01t01.flac
+     5:10.17       54724028 B   ---   --   ---xx   flac  0.4635  john2023-10-25d01t02.flac
+     3:23.46       35917436 B   ---   --   ---xx   flac  0.4296  john2023-10-25d01t03.flac
+     4:07.33       43648460 B   ---   --   ---xx   flac  0.4448  john2023-10-25d01t04.flac
+     0:53.61        9492716 B   ---   --   ---xx   flac  0.4079  john2023-10-25d01t05.flac
+     6:31.62       69118268 B   ---   --   ---xx   flac  0.4946  john2023-10-25d01t06.flac
+     4:18.25       45570044 B   ---   --   ---xx   flac  0.4424  john2023-10-25d01t07.flac
+     4:53.14       51718172 B   ---   --   ---xx   flac  0.4606  john2023-10-25d01t08.flac
+     4:05.24       43274492 B   ---   --   ---xx   flac  0.4425  john2023-10-25d01t09.flac
+     5:03.00       53449244 B   ---   --   ---xx   flac  0.4837  john2023-10-25d01t10.flac
+     1:49.22       19279388 B   ---   --   ---xx   flac  0.3859  john2023-10-25d01t11.flac
+     5:47.58       61347260 B   ---   --   ---xx   flac  0.4909  john2023-10-25d01t12.flac
+     6:34.45       69607484 B   ---   --   ---xx   flac  0.4954  john2023-10-25d02t01.flac
+     1:28.67       15680828 B   ---   --   ---xx   flac  0.3865  john2023-10-25d02t02.flac
+     5:19.73       56443340 B   ---   --   ---xx   flac  0.4469  john2023-10-25d02t03.flac
+     1:09.24       12228092 B   ---   --   ---xx   flac  0.5058  john2023-10-25d02t04.flac
+     1:35.21       16807436 B   ---   --   ---xx   flac  0.4463  john2023-10-25d02t05.flac
+     1:31.45       16158284 B   ---   --   ---xx   flac  0.4723  john2023-10-25d02t06.flac
+     3:28.66       36846476 B   ---   --   ---xx   flac  0.4529  john2023-10-25d02t07.flac
+     4:26.26       46983596 B   ---   --   ---xx   flac  0.4448  john2023-10-25d02t08.flac
+     5:21.73       56796140 B   ---   --   ---xx   flac  0.4320  john2023-10-25d02t09.flac
+     7:19.74       77613692 B   ---   --   ---xx   flac  0.4437  john2023-10-25d02t10.flac
+     2:01.12       21372668 B   ---   --   ---xx   flac  0.4287  john2023-10-25d02t11.flac
+     5:41.19       60197132 B   ---   --   ---xx   flac  0.4889  john2023-10-25d02t12.flac
+     4:57.73       52562540 B   ---   --   ---xx   flac  0.4613  john2023-10-25d02t13.flac
+     5:03.02       53453948 B   ---   --   ---xx   flac  0.4841  john2023-10-25d02t14.flac
+   107:26.56     1137207256 B                            0.4607  (26 files)
+

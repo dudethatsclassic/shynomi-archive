@@ -1,0 +1,114 @@
+Dave Matthews Band
+Ameris Bank Amphitheatre
+Alpharetta, Georgia
+7/25/2023
+
+Source: Schoeps CCM4V'S>Sound Devices Mix-Pre 6 II (48/32)
+BOB/DFC/KFC/ZFC/AARP Section 103, Behind Row BB, Between Seats 3 & 4, 8 1/2' High
+DSP: Sound Devices Mix-Pre 6 II>Sound Forge 10.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000
+Recorded By: Z-Man
+Seeded By: Z-Man
+Taper's Assistant: Jill Burdo
+A Team Dirty South And Home Team Recording
+
+Disc I 
+
+01 Spaceman
+02 #27
+03 One Sweet World
+04 Walk Around The Moon
+05 Fool In The Rain
+06 American Baby Intro >
+07 So Right 
+08 Monsters
+09 You Might Die Trying
+
+Disc II 
+
+01 Introduce Chuck Leavell
+02 *Melissa 
+03 #Grace Is Gone
+04 @Honky Tonk Women
+05 Looking For A Vein
+06 So Damn Lucky >
+07 Thank You Fa Lettin' Me Be Mice Elf 
+08 Madman's Eyes 
+09 Lie In Our Graves
+10 Water Into Wine >
+11 You And Me
+12 Pantela Naga Pampa >
+13 Rapunzel
+
+Disc III Encore08 
+
+01 Thanks
+02 ^Baby Blue
+03 Two Step
+
+* With Chuck Leavell On Keybord And Vocals
+# With Chuck Leavell On Keybord
+@ With Chuck Leavell On Percussion, Keyboard, And Vocals
+^ Dave Solo Acoustic, 1st Time Played Since 2012
+
+Dave Matthews - Acoustic Guitar, Electric Guitar And Vocals
+Tim Reynolds - Electric Guitar
+Steffan Lassard - Bass 
+ - Keyboards And Vocals
+Jeff Coffin - Saxophone, Flute, Clarinet, And Vocals
+Rashawn Ross - Trumpet And Vocals
+Carter Buford - Drums
+
+dave2023-07-25d01t01.flac:ff55cc731ee7c979a556b114c216337a
+dave2023-07-25d01t02.flac:665ad06e6d288ae2d7f4176ec7bdfeb0
+dave2023-07-25d01t03.flac:97faea6f856580e3d976e24589302963
+dave2023-07-25d01t04.flac:91ecb02e4f6ce8bbabe588b11e2fdb43
+dave2023-07-25d01t05.flac:9ab591781563f58dde8edb2d0201576c
+dave2023-07-25d01t06.flac:beaaa9051a332b955f476bbb649c95c2
+dave2023-07-25d01t07.flac:10ade66758c7d18e2cd8698ad1f2fc9b
+dave2023-07-25d01t08.flac:f8866ae7a35a0c2a5bcb651b8258a136
+dave2023-07-25d01t09.flac:74ec1234fdbc84e277234b2e92d06099
+dave2023-07-25d02t01.flac:82b4e69c7688df4fe81d871a96b35570
+dave2023-07-25d02t02.flac:e0c3e842b74bca715196cb7d8fa49462
+dave2023-07-25d02t03.flac:09f17381259ae99f5ffe8a4a3243b9c8
+dave2023-07-25d02t04.flac:64ee85a44ab17e52b784958a5cbcf882
+dave2023-07-25d02t05.flac:c080bfa72e7dbe4cceb1d706feb6eba8
+dave2023-07-25d02t06.flac:94c68d9e20dfa19e6ccfa4cd3d90d12d
+dave2023-07-25d02t07.flac:be2021bd016dbf2e25b1b676b917046b
+dave2023-07-25d02t08.flac:004e0869c67237680ae4514ae7c870e6
+dave2023-07-25d02t09.flac:ba4abf53988b1bac04468b3984320475
+dave2023-07-25d02t10.flac:232843707a9312220f2df3c96b910d74
+dave2023-07-25d02t11.flac:23d404c72f1d2301f1bbc1f2bcfb9eb7
+dave2023-07-25d02t12.flac:1a0e2e13af9b38c2519798dff886810f
+dave2023-07-25d02t13.flac:407126aebdb976d7695bd62c4d68ebcd
+dave2023-07-25d03t01.flac:135eec1bc2042218b64bb16f8c462ff1
+dave2023-07-25d03t02.flac:3a65f596850280dcfb8fa24a2db093e2
+dave2023-07-25d03t03.flac:22ee846ac3204a84279311ea1ba24b64
+
+ length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:51.55       72629804 B   ---   --   ---xx   flac  0.4650  dave2023-07-25d01t01.flac
+     5:23.24       57033692 B   ---   --   ---xx   flac  0.4697  dave2023-07-25d01t02.flac
+     7:41.68       81480380 B   ---   --   ---xx   flac  0.4820  dave2023-07-25d01t03.flac
+     6:07.21       64788236 B   ---   --   ---xx   flac  0.4653  dave2023-07-25d01t04.flac
+     7:14.33       76635260 B   ---   --   ---xx   flac  0.4922  dave2023-07-25d01t05.flac
+     8:06.55       85859804 B   ---   --   ---xx   flac  0.4306  dave2023-07-25d01t06.flac
+     7:49.18       82773980 B   ---   --   ---xx   flac  0.4857  dave2023-07-25d01t07.flac
+     5:51.16       61954076 B   ---   --   ---xx   flac  0.4783  dave2023-07-25d01t08.flac
+     8:03.52       85323548 B   ---   --   ---xx   flac  0.5054  dave2023-07-25d01t09.flac
+     1:29.06       15713756 B   ---   --   ---xx   flac  0.4011  dave2023-07-25d02t01.flac
+     5:18.41       56191676 B   ---   --   ---xx   flac  0.4537  dave2023-07-25d02t02.flac
+     7:00.48       74200940 B   ---   --   ---xx   flac  0.4694  dave2023-07-25d02t03.flac
+     7:07.43       75423980 B   ---   --   ---xx   flac  0.4692  dave2023-07-25d02t04.flac
+     3:16.66       34729676 B   ---   --   ---xx   flac  0.3951  dave2023-07-25d02t05.flac
+     8:42.28       92146700 B   ---   --   ---xx   flac  0.5045  dave2023-07-25d02t06.flac
+     2:19.01       24521996 B   ---   --   ---xx   flac  0.4185  dave2023-07-25d02t07.flac
+     7:57.35       84225164 B   ---   --   ---xx   flac  0.4460  dave2023-07-25d02t08.flac
+    12:13.59      129440012 B   ---   --   ---xx   flac  0.4646  dave2023-07-25d02t09.flac
+     1:27.54       15473852 B   ---   --   ---xx   flac  0.3296  dave2023-07-25d02t10.flac
+     5:06.51       54098396 B   ---   --   ---xx   flac  0.4878  dave2023-07-25d02t11.flac
+     0:41.42        7331228 B   ---   --   ---xx   flac  0.4918  dave2023-07-25d02t12.flac
+     6:34.15       69536924 B   ---   --   ---xx   flac  0.5165  dave2023-07-25d02t13.flac
+     1:02.36       11021516 B   ---   --   ---xx   flac  0.3726  dave2023-07-25d03t01.flac
+     4:16.68       45318380 B   ---   --   ---xx   flac  0.3654  dave2023-07-25d03t02.flac
+    18:05.06      191408156 B   ---   --   ---xx   flac  0.4753  dave2023-07-25d03t03.flac
+   155:49.41     1649261132 B                            0.4672  (25 files)

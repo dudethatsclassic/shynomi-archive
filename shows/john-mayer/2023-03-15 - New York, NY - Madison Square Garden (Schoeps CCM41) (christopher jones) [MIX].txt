@@ -1,0 +1,59 @@
+John Mayer
+15 March 2023
+Madison Square Garden
+New York, New York
+
+Recorded by: Christopher Jones <jones.chris@gmail.com>
+Source: Microphone matrix
+
+Primary: Schoeps CCM41 compact supercardioid > lemo-to-XLR microphone cable > Sonosax SX-R4+ (non-U.S. version with unconstrained headroom; @ 24-bit / 96 kHz) 
+
+Secondary: DPA d:screetª 4061 miniature omni > Sonosax SX-R4+ (non-U.S. version with unconstrained headroom; @ 24-bit / 96 kHz) 
+
+Location: Schoeps CCM41 in Section C, Row 15, elevated approximately 2.5 meters, A-B; DPA 4061 in front of Section C, stageleft, elevated approximately 2 meters
+SD > .flac: Apple 14" Macbook Pro (Apple M1 Max / 32GB RAM) > Avid Pro Tools Ultimate v. 2021.12.0 > Dell Precision 7670 16" (i9-12950HX / 32GB RAM) > Merging Technologies Pyramix 14 Native Premium (@ 24-bit / 96 kHz) > Merging Technologies Horus (w/ DA8P Premium output module; @ 24-bit / 96 kHz) > Mogami Gold DB25 / XLR3M snake > Manley Massive Passive stereo tube program equalizer > Mogami Gold XLR > Rupert Neve Designs Portico II Master Buss Processor > Mogami Gold XLR > Network Sound Mamba XLR-to-DB25 patchbay > Merging Technologies Horus (w/ 4 x AKD8DP Premium input modules; @ 24-bit / 96 kHz) > Merging Technologies Pyramix 14 Native Premium (@ 24-bit / 96 kHz) > Apple 14" Macbook Pro (Apple M1 Max / 32GB RAM) > DSP-Quattro 5.9 (resample to 44.1 kHz; dither to 16-bit) > xACT v2.50
+
+24-bit / 96 kHz version of this recording available in .flac24.
+
+t01 Introduction  						00:53.64
+t02 Slow Dancing In A Burning Room  				04:25.10
+t03 Heartbreak Warfare  					05:16.36
+t04 Intro To...  						00:44.08
+t05 Queen Of California  					04:01.70
+t06 Shouldn't Matter But It Does  				04:09.27
+t07 January 16, 2002: "Room For Squares" Promo Video		00:50.48
+t08 Why Georgia  						05:01.73
+t09 Neon  							09:43.55
+t10 (Go Easy On Me)  						01:00.19
+t11 Who Says  							06:19.74
+t12 The Age Of Worry  						03:58.15
+t13 Driftin' 							04:29.29
+t14 "Daddy..."  						01:41.28
+t15 In Your Atmosphere  					06:20.56
+t16 (New Light) >  						01:20.62
+t17 You're Gonna Live Forever In Me  				03:59.47
+t18 Changing  							06:26.05
+t19 "Continuum" Promo Video					01:37.21
+t20 Stop This Train  						04:59.47
+t21 "My Dad..."  						01:29.11
+t22 Last Train Home  						03:21.39
+t23 Whiskey, Whiskey, Whiskey  					06:48.24
+t24 Your Body Is A Wonderland  					04:40.49
+t25 Walt Grace's Submarine Test, January 1967			05:22.63
+t26 Friend Of The Devil %					05:14.44
+t27 If I Ever Get Around To Living  				07:30.68
+t28 Edge Of Desire  						07:40.36
+---
+t29 All I Want Is To Be With You  				04:40.47
+t30 Free Fallin' +						05:04.18
+
+								129:13.68
+
+() Indicates a tease or partial song if not part of a song with a parenthetical subtitle
+>  Indicates a segue into the next song
+%  Grateful Dead cover
++  Tom Petty cover
+
+Notes:
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 31 March 2023.

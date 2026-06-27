@@ -1,0 +1,96 @@
+Buffalo Tom
+Please Come To Boston Festival
+Arts at the Armory
+Somerville, MA
+November 1, 2024
+
+** 24 BIT **
+
+Source: SP-CMC-8 (cardioids) > SP-SPSB-10 battery box > Sony PCM-M10 @ 24 bit/48 kHz
+Mastering: .WAV > iZotope RX11 Advanced v11.0.1.3871 (De-Click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ), WAVES PS22 Spread
+Stereo plug-in] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.17 (tagging)
+Recorded by: ManOfStealth
+Mastered by: Dennis Orr
+
+Setlist: (1:44:49)
+01 Intro
+02 Staples
+03 Taillights Fade
+04 Chat & Tuning
+05 Mountains Of Your Head
+06 Mineral
+07 Darl
+08 Chat & Tuning
+09 Larry >
+10 Into The Mystic
+11 Velvet Roof
+12 Chat & Tuning
+13 I'm Not There
+14 Stymied
+15 Porchlight
+16 Frozen Lake
+17 Chat & Tuning
+18 Saving Grace
+19 Chat & Tuning
+20 Crutch
+21 Chat & Tuning
+22 Recipes
+23 Chat
+24 Sodajerk
+25 Helmet
+26 Chat & Tuning
+27 Tangerine
+28 Encore Break
+- Encore -
+29 Chat & Tuning
+30 Autumn Letter
+31 All Be Gone
+32 Chat & Tuning
+33 Impossible
+34 Chat & Tuning
+35 Scottish Windows
+36 Birdbrain
+
+Show Notes:
+Playing the album "Let Me Come Over" in its entirety, followed by other songs from their catalogue.  "Saving Grace" was played for the first time since 2018. 
+
+Bill Janovitz - lead vocals & guitar
+Chris Colbourn - bass & vocals
+Tom Maginnis - drums & percussion
+
+BuffaloTom2024-11-01t01.flac:6fd8e6f6325afb0844dbc10a0ccf7ac6
+BuffaloTom2024-11-01t02.flac:1d67e43bb419ef550d1ae05cd044e8b4
+BuffaloTom2024-11-01t03.flac:25cc9930d9f7887195709cda0d686247
+BuffaloTom2024-11-01t04.flac:bcb30bf576ab864a22d8f5029d18e353
+BuffaloTom2024-11-01t05.flac:3d1d7c765c70be6b33a591867f4b7de9
+BuffaloTom2024-11-01t06.flac:b7d96e4d83e94ee663a07c21e1c56ed9
+BuffaloTom2024-11-01t07.flac:191c00d13beb1c875134c9a76e037fc7
+BuffaloTom2024-11-01t08.flac:6cbb17b45fd7a2a1d1fffef44b44c66f
+BuffaloTom2024-11-01t09.flac:8370a93b2f74c129ffc2d85ab08ff261
+BuffaloTom2024-11-01t10.flac:16e2831db27e574fbca25dab79771cb6
+BuffaloTom2024-11-01t11.flac:20ff2cdf743926526319897539f3691f
+BuffaloTom2024-11-01t12.flac:c9a569b305b09a99cdcd0c447ab432b5
+BuffaloTom2024-11-01t13.flac:aec93e1c3e4b622a18dd0c3d1a750b47
+BuffaloTom2024-11-01t14.flac:04018a41016f80267c056f337bedcbe5
+BuffaloTom2024-11-01t15.flac:68c15186890837128e9e3efc86d6b999
+BuffaloTom2024-11-01t16.flac:9fb16be1fa18a6336e9f5337ca469690
+BuffaloTom2024-11-01t17.flac:65d5d47071f6370bcb9e1d44e7e72e06
+BuffaloTom2024-11-01t18.flac:aa2273fe75360a87dfc003f2cdcf787c
+BuffaloTom2024-11-01t19.flac:695f529ddc055aee6ca893b620ce159e
+BuffaloTom2024-11-01t20.flac:9d8441d49aee8dd1bcb71e666b529b20
+BuffaloTom2024-11-01t21.flac:5b207a2cd07a858c42f153785b4ac4d4
+BuffaloTom2024-11-01t22.flac:ef52610e85373794f750d3d97c49ec70
+BuffaloTom2024-11-01t23.flac:5a015e000fe1eda2302760c2e80a833a
+BuffaloTom2024-11-01t24.flac:5563cbf95e2397c058dadfd5817d13ef
+BuffaloTom2024-11-01t25.flac:a5a05fbc92474cab253691914165dc25
+BuffaloTom2024-11-01t26.flac:0cb8af85192403fcf939139f42bf8365
+BuffaloTom2024-11-01t27.flac:28aefc5f8f917d16711cdf2d3d78ac4e
+BuffaloTom2024-11-01t28.flac:2261fe19bc1790cda979c4f76d9dc26e
+BuffaloTom2024-11-01t29.flac:e924151084dd484dc9a602f8a0f02732
+BuffaloTom2024-11-01t30.flac:e30cf161978cc7db11a8c1a819d240d3
+BuffaloTom2024-11-01t31.flac:928e17042c40299f760173fe8d620b97
+BuffaloTom2024-11-01t32.flac:19f17e9b5b93e20900da5a90589453ec
+BuffaloTom2024-11-01t33.flac:56a6ac3548c6edf9acdcbdafe8b40613
+BuffaloTom2024-11-01t34.flac:3465286aa1ac04f16f55a54bc63e37f4
+BuffaloTom2024-11-01t35.flac:7dadb2ed3aa13c80dee00b7a5a7dd03c
+BuffaloTom2024-11-01t36.flac:b25435b761524576b80de9a4b86131e8

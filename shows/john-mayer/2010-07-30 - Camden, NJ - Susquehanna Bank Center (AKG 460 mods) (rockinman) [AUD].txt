@@ -1,0 +1,59 @@
+John Mayer
+July 30, 2010
+Susquehanna Bank Center
+Camden, NJ
+
+
+Taper: Rockinman 
+Location: Behind soundboard,DFC,mics DINA 90 config, stand at 13 feet       
+Source: AKg460mods/ck63(hyper caps)>Edirol UA5(Wmod)>M-Audio 
+        Microtrack II (24/48kHz)
+Transfer: Microtrack II->USB->PC
+Conversion: 24/48kHz wav->Soundforge 8.0 for resample and dither to 16/44               kHz,No normalization, L3 Waves Volume Maximizer applied->                   CDWave Editor->Flac Frontend(level 5)
+
+
+*************************************************************************
+***** DO NOT ENCODE THIS SHOW TO LOSSY FORMATS EXCEPT FOR PERSONAL USE*** 
+****** DO NOT SELL OR DISTRIBUTE FOR PROFIT******************************
+*************************************************************************   
+
+
+Disc 1
+
+01: Intro (Chest Fever)->
+02: Vultures
+03: Clarity
+04: Why Georgia
+05: Ain't No Sunshine &
+   (Do You Want to Take it Higher)
+06: Drum solo->
+07: Waiting on the World to Change
+08: Perfectly Lonely
+09: Gravity
+10: Who Says
+
+Disc 2
+
+11: War of My Life (You Don't Know How It Feels intro $)
+12: Heartbreak Warfare
+13: Do You Know Me
+14: Raspberry Beret-> %
+15: Good Love is on the Way
+16: Half of My Heart->
+17: Don't Stop Believin' @
+
+18: Encore Break
+
+Encore
+
+19: Edge of Desire
+
+
+
+& Bill Withers cover
+$ Tom Petty cover
+% Prince cover
+@ Journey cover
+
+
+Compiled by Tom Gambichler on July 31, 2010

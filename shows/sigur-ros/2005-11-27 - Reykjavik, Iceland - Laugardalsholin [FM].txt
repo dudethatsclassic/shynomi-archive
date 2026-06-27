@@ -1,0 +1,58 @@
+Sigur Rós
+2005-11-27
+Laugardalshöll
+Reykjavík, Iceland
+
+FM Master Source
+
+FM > CDR (x1) > EAC > wav > Flac Frontend
+(level 7, align sector boundaries) > flac
+
+This was recorded directly from the Icelandic FM broadcast,
+and it NOT the webcast source.
+
+Thanks to Anonymous for the Icelandic source !
+
+extraction and flac files by 
+danlynch 2006-02-28
+
+[Total Time 1:50:08)
+Setlist:
+01 Glósóli
+02 Sæglópur
+03 Njósnavélin
+04 Göng / Andvari
+05 Hoppípolla / Með Blóðnasir
+06 Sé Lest
+07 Olsen Olsen
+08/09 Viðrar Vel Til Loftárása
+10 Svo Hljótt / Heysátan
+11 Hafssól
+12 Smáskífa
+13 Popplagið
+
+*appears to be missing Ný Batterí performance
+*tracking is how it came to me on the source CDs.
+
+
+Special Message to Sigur Ros Message Board and Sigur Ros Hub:
+This is a LOSSLESS recording of a rare source from a very generous 
+Icelandic trader.  Please do not convert this flac set to mp3 under any 
+circumstances.  If you must share lossy music, just share the webcast 
+source, because that's already lossy!
+
+
+Flac Fingerprints:
+SigurRos2005-11-27_FM_Master_t01.flac:c3e0abf64338897364cce1ad54b68a49
+SigurRos2005-11-27_FM_Master_t02.flac:eb2c7a61650af92d6002087477c3592c
+SigurRos2005-11-27_FM_Master_t03.flac:a5bdc6bc70b3f2191fb4f63496b6b51e
+SigurRos2005-11-27_FM_Master_t04.flac:aa8462ebf308d1fbaffa2b5280e15996
+SigurRos2005-11-27_FM_Master_t05.flac:81e41583f2ff0d935662ea9138c09e2b
+SigurRos2005-11-27_FM_Master_t06.flac:38c00c87c991a5f449585828d62d526c
+SigurRos2005-11-27_FM_Master_t07.flac:59aad2c05c2d532fdda28df8d88d3083
+SigurRos2005-11-27_FM_Master_t08.flac:cc7bdfee873a01c94f8df2ec9a9eaba4
+SigurRos2005-11-27_FM_Master_t09.flac:03daf4d75bb18c64deddf53c5cab37ff
+SigurRos2005-11-27_FM_Master_t10.flac:b6d8d79ef11c1fd95a00a186c6cb4ffd
+SigurRos2005-11-27_FM_Master_t11.flac:c165e43fe1f0630ce36bdec3e2414452
+SigurRos2005-11-27_FM_Master_t12.flac:fa03452a4d16c66a21abf60716ec640e
+SigurRos2005-11-27_FM_Master_t13.flac:aef3c2d7e55897a1c575e6c676134c48

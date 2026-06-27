@@ -1,0 +1,40 @@
+ Garbage
+October 18, 2012  (2012-10-18)
+Pepsi Music Festival
+Costanera Sur
+Buenos Aires, Argentina 
+
+Source: Pro-Shot PAL DVD video > PC > Dime > (grner1 - January 2013) > Cinematize Pro (lossless extraction) > Apple Macintosh Final Cut Pro (minor "nip and tuck" edits and chaptering) > Compressor (down-sampling) > DVD Studio Pro (menu and chapters authoring) > VIDEO_TS file set. 
+Audio post capture processing in Pro Tools (Mormalization). Audio placed back into Final Cut Pro before Compressor down-sampling. 
+
+Format: PAL
+Video: 3803 Kbps, 756x576 (16:9), at 25.000 fps 
+Audio: 256 Kbps, 48.0 HZ, 2 Channels AC3
+
+00:00:00 Supervixen 
+00:03:40 I Think I'm Paranoid 
+00:07:38 Shut Your Mouth 
+00:11:47 Why Do You Love Me 
+00:15:46 Queer 
+00:20:54  Stupid Girl (With "Love to love you baby" snippet by Donna Summer) 
+00:25:36 Hammering in My Head
+00:31:32 talk
+00:33:01 Control 
+00:39:19 The One 
+00:44:07 #1 Crush 
+00:49:57 Cherry Lips (Go Baby Go!) 
+00:53:23 Blood for Poppies 
+00:57:40 Special 
+01:01:44 The Trick Is to Keep Breathing 
+01:07:10 Battle in Me 
+01:11:31 Push It 
+01:15:44 Vow (*) 
+01:20:17 Only Happy When It Rains (*) 
+01:24:14 encore break
+01:26:51 Automatic Systematic Habit 
+01:30:22 You Look So Fine (With "Dreams" snippet by Fleetwood Mac) 
+01:40:41 end
+
+(*) Audio/video Sync glitches 
+
+Notes: Thanks to the capturer and all who have shared this show in the past before this remastering. Please support the artists and live venues any way that you can. Enjoy and SHARE!

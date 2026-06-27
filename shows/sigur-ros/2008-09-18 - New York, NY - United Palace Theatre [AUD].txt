@@ -1,0 +1,60 @@
+Sigur Rós
+2008-09-18
+United Palace Theatre
+New York, NY  USA
+
+Digital Audience Master Recording
+Recorded from Upper Loge Row B Right Side
+
+DPA 4021's > Marantz PMD-660 (Oade BCM) > 16bit 44.1 wav >
+Soundforge (set fades, level boost, slight eq) > CDWave 1.95 
+(tracking) > Flac Frontend (level 7, align sector boundaries) > flac
+
+Please support this superb band:
+http://www.sigurros.com/
+
+Premiere Download offered at
+http://www.nyctaper.com
+nyctaper@nyctaper.com
+
+Recorded and Produced by
+nyctaper
+2008-09-19
+
+Setlist:
+[Total Time 1:50:26]
+01  Svefn-G-Englar
+02  Glósóli
+03  Ný Batteri
+04  Fljótavík
+05  Við Spilum Endalaust
+06  Hoppípolla
+07  Með Blóðnasir / Svo Hljótt
+08  Heysátan
+09  Viðrar Vel Til Loftárása
+10  Inní Mér Syngur Vitleysingur
+11  Sæglópur
+12  Hafsól
+13  Gobbledigook
+14  [encore break]
+15  Illgresi
+16  Popplagið
+
+
+Flac Fingerprints:
+SigurRos2008-09-18_DPA4021_t01.flac:d74c0b90aed9d1d9c75a22721f59f393
+SigurRos2008-09-18_DPA4021_t02.flac:95d7928a8e53c07762b3c34bb13b0d87
+SigurRos2008-09-18_DPA4021_t03.flac:154d7b28ad6c507cb98e85a8c2948b23
+SigurRos2008-09-18_DPA4021_t04.flac:26c6a6454327ba9804a319279e700619
+SigurRos2008-09-18_DPA4021_t05.flac:18be9c1e000af71f6d62f0604f259645
+SigurRos2008-09-18_DPA4021_t06.flac:a4345e7b52da6f805f0898425779282c
+SigurRos2008-09-18_DPA4021_t07.flac:ee4696ac818d74508c7262a042371612
+SigurRos2008-09-18_DPA4021_t08.flac:03e90a98ac30e95b6be5c433dbc58747
+SigurRos2008-09-18_DPA4021_t09.flac:5c13082519ef6f7e33fa7b2a620ee3d5
+SigurRos2008-09-18_DPA4021_t10.flac:2f05ba9b8e25867a3b554837bcbabcc0
+SigurRos2008-09-18_DPA4021_t11.flac:5d0d4ee083b669a61d1e310ed6f90376
+SigurRos2008-09-18_DPA4021_t12.flac:b89863ca4f610f20497aceb5ed682111
+SigurRos2008-09-18_DPA4021_t13.flac:7a7da91a7f57a1924cb138aaadd254af
+SigurRos2008-09-18_DPA4021_t14.flac:5710ec2c4f654398c14f59f006dd30f2
+SigurRos2008-09-18_DPA4021_t15.flac:255141b1a7b790211773f71cd5b55ef3
+SigurRos2008-09-18_DPA4021_t16.flac:a3fc6023fcfd1b4a7986b599f328490a

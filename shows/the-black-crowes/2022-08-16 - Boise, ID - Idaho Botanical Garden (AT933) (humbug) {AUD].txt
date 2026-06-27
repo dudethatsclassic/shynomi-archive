@@ -1,0 +1,70 @@
+The Black Crowes
+
+2022-08-16 (16 Aug 2022)
+Outlaw Field at the Idaho Botanical Garden, Boise, ID, USA
+
+Source: AT933(853C) > CA-9200 preamp > Sony M10 @ 24/48
+Transfer: M10>Audacity (fade in, volume boost +5.9/5.9dB, Fade out>dither to 16/44.1)>CD Wave>FLAC
+
+Location: DFC, mics clipped to collar, sat on lawn in front of 'board
+
+Recorded, transferred, and FLAC'd by Humbug. 
+
+Time: 98:20
+
+01. intro - Shake Your Money Maker (Elmore James) 
+02. Twice As Hard
+03. Jealous Again
+04. Sister Luck
+05. Could I've Been So Blind
+06. Seeing Things
+07. Hard to Handle (Otis Redding)
+08. Thick N' Thin 
+09. She Talks To Angels
+10. Struttin' Blues
+11. Stare It Cold
+12. Soul Singing 
+13. Sometimes Salvation
+14. Wiser Time
+15. Thorn In My Pride
+16. Remedy
+---encore---
+17. Virtue and Vice
+
+Notes:
+Alright sounding stealth recording. 
+This is the backup recording - the Schoeps MK4 'open' recording was 
+abandoned because of excessive crowd noise in the vicinity of the mics.
+
+Artist:
+Chris Robinson – lead vocals, harmonica, acoustic guitar, & percussion
+Rich Robinson – guitar, backing vocals
+Sven Pipien – bass, backing vocals
+Isaiah Mitchell – guitar, backing vocals
+Eric Dodge* – keyboards, backing vocals
+Brian Griffin – drums, percussion
+Leslie Grant - backing vocals
+Mackenzie Adams - backing vocals
+* I think
+
+FLAC Fingerprint: 
+tbc2022-08-16at933_16t01.flac:32b2f41461a08bded52864cfafbf299b
+tbc2022-08-16at933_16t02.flac:ae709d25ee7b75fd6b1c14b6b9a4016c
+tbc2022-08-16at933_16t03.flac:11721a06175be3f3d8b29bd240c3dcea
+tbc2022-08-16at933_16t04.flac:34b99cb4e6d2ebffe6e994c7e9a89943
+tbc2022-08-16at933_16t05.flac:5d25643c84a8c8439f797d106861eb14
+tbc2022-08-16at933_16t06.flac:a51c359f6e8e071c6dc05e2c8634693c
+tbc2022-08-16at933_16t07.flac:3820e02be58fe528d0cf8905667130c2
+tbc2022-08-16at933_16t08.flac:86af5f199b1e983713e7fcb04900711c
+tbc2022-08-16at933_16t09.flac:f222629c9dfd188f58d3db50da545bb5
+tbc2022-08-16at933_16t10.flac:a52758d63996cbcfd2b64bb83370e2b8
+tbc2022-08-16at933_16t11.flac:4040e0c7ceccee0b70c9b52a5b770c84
+tbc2022-08-16at933_16t12.flac:fc45f81016952ea18aa72c6169cad0ad
+tbc2022-08-16at933_16t13.flac:04b368d57fafc4f19b2b3e0310969fb1
+tbc2022-08-16at933_16t14.flac:5ff4cc46e5f69de56e89a243a7ceee15
+tbc2022-08-16at933_16t15.flac:796ed53119f8e98a024c6d7dd335c139
+tbc2022-08-16at933_16t16.flac:515e36de424713288ba4237e701668d8
+tbc2022-08-16at933_16t17.flac:f0fa60a70e32f0b52cd95f4280c8cc08
+
+** PLEASE FEEL FREE TO TRADE THIS SHOW IN MP3 FORMAT **
+** PLEASE DO NOT PROFIT FROM THIS RECORDING **

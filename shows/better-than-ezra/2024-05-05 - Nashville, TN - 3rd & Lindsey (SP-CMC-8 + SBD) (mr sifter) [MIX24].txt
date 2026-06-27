@@ -1,0 +1,37 @@
+Better Than Ezra
+May 5, 2024
+3rd & Lindsey
+Nashville, TN
+
+AUD + (partial) SBD/webcast matrix
+
+AUD Source:
+Taper: Mr. Sifter
+Source: SP-CMC-8 pair > battery box > Zoom H1essential > EQ/mastering via Izotope Ozone > 16/48 FLAC
+
+Webcast Source:
+Volume.com video stream > audio extracted via FFMpeg
+
+Notes:
+The first hour of this show was broadcast on the radio and webcast on Volume.com. Demixed the webcast source via DeMixPro. Primary audio source was my AUD recording, but for whatever reason there wasn't much bass in the venue, so used the isolated bass track to remedy, with slight mixing in of vocals, guitars, and drums. The webcast ended after "Desperately Wanting" so the last three songs are the AUD tape only. 
+
+A great hometown (for Kevin, at least) show with a lively (at times too lively, as you'll hear) crowd, two days after their new record was released. 
+
+
+intro
+King of New Orleans
+Misunderstood
+Live a Little
+A Lifetime
+I Wanna Be Sedated / Sincerely, Me
+Killing It
+Grateful
+Super Magick
+Never Tear Us Apart
+Mystified
+Good
+Desperately Wanting
+Laid
+Juicy
+This Time
+In the Blood

@@ -29,7 +29,8 @@ const ARTIST_DATA = {
       "venue": "Quartfestivalen",
       "notes": "NRK",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-04 - Kristiansand, Norway - Quartfestivalen - NRK P3 [FM].txt"
     },
     {
       "year": 1997,
@@ -42,7 +43,8 @@ const ARTIST_DATA = {
       "venue": "KB",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-02-07 - Malmo, Sweden - KB [FM].txt"
     },
     {
       "year": 1998,
@@ -53,9 +55,10 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Riddarholmen",
-      "notes": "ANA(M) · unk · qew transfer",
+      "notes": "ANA(M) \u00b7 unk \u00b7 qew transfer",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1998-08-14 - Stockholm, Sweden - Riddarholmen - ANA(M) (unk) (qew transfer) [AUD].txt"
     },
     {
       "year": 1998,
@@ -66,9 +69,10 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "Cooper's Field",
-      "notes": "Radio · drumsboy transfer",
+      "notes": "Radio \u00b7 drumsboy transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-09-13 - Cardiff, Wales - Cooper's Field - Radio One (drumsboy transfer) [FM].txt"
     },
     {
       "year": 2001,
@@ -81,7 +85,8 @@ const ARTIST_DATA = {
       "venue": "Castlegar Sports Grounds",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-06-01 - Galway, Ireland - Castlegar Sports Grounds [FM].txt"
     },
     {
       "year": 2002,
@@ -92,9 +97,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "The Astoria Theatre",
-      "notes": "DAT(M) · Marantz EM8 · gary watson",
+      "notes": "DAT(M) \u00b7 Marantz EM8 \u00b7 gary watson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-08-26 - London, England - The Astoria Theatre - DAT(M) (Marantz EM8) (gary watson) [AUD].txt"
     },
     {
       "year": 2004,
@@ -107,7 +113,8 @@ const ARTIST_DATA = {
       "venue": "Oxygen Festival",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-07-11 - County Kildare, Ireland - Oxygen Festival [FM].txt"
     },
     {
       "year": 2004,
@@ -118,9 +125,10 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Zambujeira do Mar, Portugal",
       "venue": "Sudoeste Festival",
-      "notes": "Herdade · kreative",
+      "notes": "Herdade \u00b7 kreative",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-08-07 - Zambujeira do Mar, Portugal - Sudoeste Festival - Herdade da Casa Branca (kreative) [SBD].txt"
     },
     {
       "year": 2007,
@@ -131,9 +139,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Die Roehre",
-      "notes": "MBHO MBP 603A · unk",
+      "notes": "MBHO MBP 603A \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-05-02 - Stuttgart, Germany - Die Roehre (MBHO MBP 603A) (unk) [AUD}.txt"
     },
     {
       "year": 2013,
@@ -146,7 +155,8 @@ const ARTIST_DATA = {
       "venue": "SuperBock SuperRock Festival",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-07-20 - Meco, Sesimbra Portugal - SuperBock SuperRock Festival [FM].txt"
     },
     {
       "year": 2014,
@@ -157,9 +167,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Echo",
-      "notes": "Nakamichi CM100 · markp",
+      "notes": "Nakamichi CM100 \u00b7 markp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-01-31 - Los Angeles, CA - The Echo (Nakamichi CM100) (markp) [AUD].txt"
     },
     {
       "year": 2015,
@@ -172,7 +183,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-06-12 - Manchester, England - Sound Control (Sony ECM-125) (unk) [AUD].txt"
     }
   ],
   "misc": []

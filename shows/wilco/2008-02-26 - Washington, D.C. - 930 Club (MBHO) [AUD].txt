@@ -1,0 +1,79 @@
+Wilco
+February 26, 2008
+930 Club
+Washington DC
+
+*** THIS IS A 16-BIT FILESET INTENDED FOR AUDIO CD ***
+
+SOURCE:  mbho 603a/ka500hn (hyper, DINa) > sound devices mp2 > busman t-mod edirol r4 (24/96)
+PROCESSING:  soundforge 8.0 (tracking, fades, resample, dither) > flac 1.2.0a
+
+01  intro
+02  (Was I) In Your Dreams   
+03  Blood Of The Lamb
+04  You Are My Face
+05  Pot Kettle Black
+06  A Shot In The Arm
+07  Side With The Seeds
+08  Pieholden Suite
+09  Impossible Germany
+10  Sky Blue Sky
+11  Handshake Drugs
+12  Too Far Apart
+13  Summer Teeth
+14  Jesus, Etc
+15  Walken
+16  I´m The Man Who Loves You
+17  Hummingbird
+18  A Magazine Called Sunset
+19  I Got You (At The End Of The Century)
+20  Monday
+21  Outtamind (Outta Sight)
+22  pre-encore crowd
+23  encore intro
+24  Hate It Here
+25  Can't Stand It
+26  The Thanks I Get
+27  Just A Kid
+28  pre-encore crowd
+29  intro
+30  Shouldn't Be Ashamed
+31  War On War
+32  Heavy Metal Drummer
+33  Late Greats
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:34.66        6152876 B   ---   --   ---xx   flac  0.5270  wilco2008-02-26_mbho_t01.flac
+     2:59.39       31667372 B   ---   --   ---xx   flac  0.4878  wilco2008-02-26_mbho_t02.flac
+     4:29.55       47581004 B   ---   --   ---xx   flac  0.4943  wilco2008-02-26_mbho_t03.flac
+     5:16.49       55857692 B   ---   --   ---xx   flac  0.5009  wilco2008-02-26_mbho_t04.flac
+     4:25.27       46809548 B   ---   --   ---xx   flac  0.5816  wilco2008-02-26_mbho_t05.flac
+     4:49.50       51097244 B   ---   --   ---xx   flac  0.6162  wilco2008-02-26_mbho_t06.flac
+     5:11.67       55018028 B   ---   --   ---xx   flac  0.5166  wilco2008-02-26_mbho_t07.flac
+     4:39.56       49347356 B   ---   --   ---xx   flac  0.4646  wilco2008-02-26_mbho_t08.flac
+     6:33.34       69405212 B   ---   --   ---xx   flac  0.5293  wilco2008-02-26_mbho_t09.flac
+     5:06.13       54009020 B   ---   --   ---xx   flac  0.4157  wilco2008-02-26_mbho_t10.flac
+     6:06.41       64658876 B   ---   --   ---xx   flac  0.5513  wilco2008-02-26_mbho_t11.flac
+     4:58.24       52623692 B   ---   --   ---xx   flac  0.5521  wilco2008-02-26_mbho_t12.flac
+     4:18.43       45612380 B   ---   --   ---xx   flac  0.5333  wilco2008-02-26_mbho_t13.flac
+     4:30.16       47665676 B   ---   --   ---xx   flac  0.4797  wilco2008-02-26_mbho_t14.flac
+     4:32.71       48147836 B   ---   --   ---xx   flac  0.5704  wilco2008-02-26_mbho_t15.flac
+     4:14.60       44946764 B   ---   --   ---xx   flac  0.6097  wilco2008-02-26_mbho_t16.flac
+     3:43.74       39511292 B   ---   --   ---xx   flac  0.5046  wilco2008-02-26_mbho_t17.flac
+     2:48.33       29712860 B   ---   --   ---xx   flac  0.5568  wilco2008-02-26_mbho_t18.flac
+     6:08.20       64962284 B   ---   --   ---xx   flac  0.5699  wilco2008-02-26_mbho_t19.flac
+     4:07.35       43653164 B   ---   --   ---xx   flac  0.6495  wilco2008-02-26_mbho_t20.flac
+     2:39.25       28106444 B   ---   --   ---xx   flac  0.6420  wilco2008-02-26_mbho_t21.flac
+     3:25.46       36270236 B   ---   --   ---xx   flac  0.5447  wilco2008-02-26_mbho_t22.flac
+     0:42.34        7488812 B   ---   --   ---xx   flac  0.4350  wilco2008-02-26_mbho_t23.flac
+     5:10.03       54691100 B   ---   --   ---xx   flac  0.5503  wilco2008-02-26_mbho_t24.flac
+     5:37.62       59592668 B   ---   --   ---xx   flac  0.5881  wilco2008-02-26_mbho_t25.flac
+     4:51.42       51431228 B   ---   --   ---xx   flac  0.5803  wilco2008-02-26_mbho_t26.flac
+     2:43.42       28852028 B   ---   --   ---xx   flac  0.6201  wilco2008-02-26_mbho_t27.flac
+     2:51.01       30166796 B   ---   --   ---xx   flac  0.5658  wilco2008-02-26_mbho_t28.flac
+     0:07.19        1279532 B   ---   --   ---xx   flac  0.4708  wilco2008-02-26_mbho_t29.flac
+     3:11.26       33753596 B   ---   --   ---xx   flac  0.5890  wilco2008-02-26_mbho_t30.flac
+     4:07.31       43643756 B   ---   --   ---xx   flac  0.5623  wilco2008-02-26_mbho_t31.flac
+     3:59.50       42277244 B   ---   --   ---xx   flac  0.5823  wilco2008-02-26_mbho_t32.flac
+     3:04.48       32570540 B   ---   --   ---xx   flac  0.5845  wilco2008-02-26_mbho_t33.flac
+   132:08.27     1398564156 B                            0.5489  (33 files)

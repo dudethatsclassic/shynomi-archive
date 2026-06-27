@@ -1,0 +1,63 @@
+Wilco
+Memorial Auditorium
+Chapel Hill, NC
+March 6, 2006
+
+Disc 1  [76:57]
+01 Wishful Thinking
+02 Company In My Back
+03 At Least That's What You Said
+04 I Am Trying To Break Your Heart
+05 On and On and On
+06 Spiders (Kidsmoke)
+07 Jesus, Etc.
+08 Handshake Drugs
+09 Magazine Called Sunset
+10 Ashes of American Flags
+11 I Will Try To Understand*
+12 Theologians
+13 Poor Places
+14 Shot In The Arm
+
+Disc 2  [32:35]
+--First Encores--
+01 Walken
+02 Someday Soon
+03 Hummingbird
+04 California Stars
+--Second Encores--
+05 The Good Part
+06 I'm The Man Who Loves You
+07 Late Greats
+
+* = New song, first time played
+
+Source:  Schoeps MK4 (ORTF) > KC5 > CMC6 > Lunatec V2 > Marantz PMD-671
+Location: Row J DFC
+Conversion:  24 bit 48 k wav files resampled to 44.1 with Sound Forge 6.0 at highest quality settings and dithered to 16 bit, split into tracks with CD Wave, fades at beginning & end of show with Sound Forge 6.0, FLAC files generated with FLAC front end.
+
+Recording & conversion by Robbie Dunn... with a thanks to Jimbo for the clamp space & "minding the rig".
+
+------------ FLAC Fingerprint -----------------------------
+
+wilco2006-03-06d1t01.flac:894e3215ff927d457e7fd88b6401da47
+wilco2006-03-06d1t02.flac:237fcec913b1c90fe691aa40a1268698
+wilco2006-03-06d1t03.flac:ed2f8f468ebc3e0be1ce965c266b0a4f
+wilco2006-03-06d1t04.flac:9a9c75189a30de59a53fcdc120e4836c
+wilco2006-03-06d1t05.flac:3ea8b095067d30bab8a330cc1bbbf064
+wilco2006-03-06d1t06.flac:c60db14244873cb7d12020a0a8ba148f
+wilco2006-03-06d1t07.flac:0d038a51300da966c6756ef28720636d
+wilco2006-03-06d1t08.flac:b8badcd9de675e15bfc6b64dd4265768
+wilco2006-03-06d1t09.flac:2258bc882f8053454e63a669e819076a
+wilco2006-03-06d1t10.flac:6c1cae8a417f0cbeec70e46fc31d18f1
+wilco2006-03-06d1t11.flac:93abddf61bede8f773b2ca86da2eb467
+wilco2006-03-06d1t12.flac:41a5464cc59f30ac1a0acd1ebf823989
+wilco2006-03-06d1t13.flac:536a125746c828772f1a3596ba70f238
+wilco2006-03-06d1t14.flac:51199f08c633790b269570b299955cba
+wilco2006-03-06d2t01.flac:670a80716a5ddefcc9a4c28cbe6f311f
+wilco2006-03-06d2t02.flac:d132683a6f6eadf5a3a196490331fc2e
+wilco2006-03-06d2t03.flac:54bc01a97d11f7f59b56b7eb51c9c5a2
+wilco2006-03-06d2t04.flac:17c437464a5913f8edf2cadb66cc2a93
+wilco2006-03-06d2t05.flac:2aac2cb43c117025a664d52c756cf5e3
+wilco2006-03-06d2t06.flac:a0c4e28a193494da3e40b1b51c530b92
+wilco2006-03-06d2t07.flac:51146ea82dae5e1ba69bd952870663fa

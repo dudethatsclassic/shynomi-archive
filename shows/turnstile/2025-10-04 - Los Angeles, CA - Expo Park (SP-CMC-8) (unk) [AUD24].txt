@@ -1,0 +1,80 @@
+Turnstile
+2025-10-04
+Expo Park
+Los Angeles, CA
+
+SOURCE: 
+SP-CMC-8 (w/Mods) > Sony PCM-A10 > Sandisk Mini-SD Card (64gb - Class 10)
+
+TRANSFER: 
+.WAV (24 Bit) > Adobe Audition 2025 CC (normalize/amplify/tracking) > Trader's Little Helper > FLAC (Level 6)
+
+SETLIST:
+
+01. Intro
+02. NEVER ENOUGH
+03. T.L.C. (TURNSTILE LOVE CONNECTION)
+04. ENDLESS
+05. (talking)
+06. I CARE / DULL
+07. DON'T PLAY
+08. Real Thing
+09. Drop
+10. LIGHT DESIGN
+11. Come Back for More / Fazed Out
+12. SUNSHOWER
+13. Keep It Moving
+14. Pushing Me Away
+15. FLY AGAIN
+16. SOLE
+17. SEEIN' STARS
+18. HOLIDAY
+19. LOOK OUT FOR ME
+20. MYSTERY
+21. BLACKOUT
+22. BIRDS
+23. Outro
+
+NOTES:
+
+This was my second time seeing Turnstile I think, and though this show sold out instantly, I was able to use a little pull and get an internal ticket buy just a few days before for my roommate and I (he's a much bigger fan than I). It was held out on the south lawn of Expo Park, which was set up like a mini outdoor festival I guess you can say, which I think was perfect for the crowd size they were expecting. We got there before Amyl and the Sniffers performed (who I also recorded) and though it looked crowded, I saw an opening to get right to the front of the soundboard, and went for it and got a perfect spot. 
+
+As soon as the band started, the place erupted into chaos, as expected. It reminded me of when the Misfits took the stage at No Values, and the place just exploded with pits, moshing, pushing and more. Apparently a few people up front lit off flares? I couldn't see it from where I was standing. Surprisingly though, the crowd around me was really respectful and pretty quiet for the most part, which made for ideal recording conditions (UNLIKE the Misfits show previously mentioned) and I think this recording came out really clear and loud and sounds excellent. One of my better ones for sure.
+
+There were definitely people halfway through the show who were trying to escape the pits from up front, drenched in sweat, and some looking shell shocked, and naturally they walk back to the soundboard where they run into the barrier (and myself and others who are standing there) with nowhere left to go. One dude just hopped the railing into the soundboard to escape. No one chased after him though, I don't think anyone cared. Security seemed pretty lax, and outside of a few flares apparently, the crowd seemed really respectful despite the crazy moshing and pits going on up front (again, UNLIKE that damn Misfits crowd at No Values) - maybe the younger crowd/moshers and nicer than the old heads? Seems that way sometimes. Anyway, I can't believe I'm saying nice things about an LA crowd, but it's true. It had a good vibe, even if a bit squishy at times, and the recording came out great. So what is there to complain about?
+
+This was a massive show for a band that is just continuing to blow up. I'll see them at Coachella next year (at the Outdoor Theatre I hope)...
+
+CHECKSUMS: 
+
+0fe53d49f0c177a44bd4569a6edaa2ca *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t01-intro.flac
+6775c72a9364f5392f67909925353572 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t02-never-enough.flac
+373e53246a99cce95ad5595fb36d20f4 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t03-tlc.flac
+67398d5a758d73967472968fdbbbfcf3 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t04-endless.flac
+cee8e79c924f1287f4ec088d465883a7 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t05-talking.flac
+13b7d2b7ff1907ec80ddc7897aa9b7b4 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t06-i-care-dull.flac
+21f597c4b60172b5260e9000adf48120 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t07-dont-play.flac
+e763afe7cc1ac9470cf1ef0b8ba6cd2c *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t08-real-thing.flac
+fff613bb52ba83ca4c7f6a1f825dacf8 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t09-drop.flac
+c05e87ba8b854f3708afd817d9568bda *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t10-light-design.flac
+a778546a0067a9c8c5f0bc39fe9be6b2 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t11-come-back-for-more.flac
+67098accfc1e2ddd5510c5c78ea7721a *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t12-sunshower.flac
+c47dbf5d8a69cc73b51bcfd9c8a09290 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t13-keep-it-moving.flac
+a4dfdbb32382a95786439cde5e7604f6 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t14-pushing-me-away.flac
+2ad54285b8f663ad4c687cfc918659de *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t15-fly-again.flac
+f826badeb8c222a93a5d6025d8e8f701 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t16-sole.flac
+1ff322bc68d1dd53d88f07ca7bccd5da *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t17-seein-stars.flac
+dc10cf27b709247e5110519fa631f6d1 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t18-holiday.flac
+788a26df0b004b5cd1fa7f71f7ae32e7 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t19-look-out-for-me.flac
+069094e3326f82e9f8dde5c141ecdc71 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t20-mystery.flac
+780390aae8b3dfa7bcd9f10598812766 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t21-blackout.flac
+76d2a8c1ab6832a714c7436093668f85 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t22-birds.flac
+b8bc59c5ebacfd3600c12e133b572bc6 *turnstile-2025-10-04-los-angeles-ca-aud-24bit-t23-outro.flac
+
+Check out my site: 
+
+https://www.themojavetent.com 
+https://www.facebook.com/coachellarecordings 
+https://www.twitter.com/livecoachella
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT, OR ELSE THE KARMA POLICE WILL GET YOU***

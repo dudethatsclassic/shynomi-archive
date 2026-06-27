@@ -1,0 +1,239 @@
+This is a show a friend of mine recorded. I am seeding it with their knowledge. 
+The mics are core sound with a bass roll off filter. The MD player is a Sharp using manual levels. 
+It was put on CD with an analog cable into a Harmon Kardon standalone CD recorder. Indexed by them. 
+I rate it an 8, maybe 9. CD > EAC > FLAC 6. No artwork. Runs about 84 minutes.
+
+CD1: 
+
+Push It
+Temptation Waits
+(Talking)
+I Think I'm Paranoid
+Special
+Cup of Coffee
+Til The Day I Die
+Not My Idea
+When I Grow Up
+Hammering In My Head
+
+CD2:
+
+So Like A Rose
+Shut Your Mouth
+Parade
+Stupid Girl
+Cherry Lips
+Vow
+Milk
+Only Happy When It Rains
+
+
+
+CD2Track01.flac:f9c8da48b8a13bf5dc73fc6c09cbc437
+CD2Track02.flac:5df08b90c5bb811e0df126c311d9216b
+CD2Track03.flac:7f057017839a7b96b8d056afba1cb13a
+CD2Track04.flac:08cbd471f4fdff96b2dd7fdd068be71e
+CD2Track05.flac:379e7e0e337b90b81014d4f56a41dc96
+CD2Track06.flac:f39015c6fd205b2de229856f6e3eecea
+CD2Track07.flac:e8583734f789fe1eb8c9ab726a67fa87
+CD2Track08.flac:a610b36f7886914350688d8197d5cc94
+Track01.flac:860755453f4ab1975761097e1b2b2302
+Track02.flac:cb03d9dcb45be4aac0e3f57d3d4afab4
+Track03.flac:bdee38a3827b02572b11823f6eef63b2
+Track04.flac:40c50a6646c7c7bfd15b1e7eb36a9fc9
+Track05.flac:43f8d1a3f698eaf0012218aa7dc7ed78
+Track06.flac:adc5e43f7097d106efcdda1d4b340226
+Track07.flac:762172da379ef2ff9e8d16275820d2e2
+Track08.flac:3e3a4251ac95789a66168a4547141347
+Track09.flac:639758cf289a606a6ef32aec1487f646
+Track10.flac:e37e6eed772350401ac66efef863c983
+
+EAC extraction logfile from 22. September 2006, 20:09 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0  LUN: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : C:\Documents and Settings\Owner\My Documents\flac112a.exe   (User Defined Encoder)
+                     128 kBit/s
+                     Additional command line options : -8 -V -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+   Filename G:\Track01.wav
+
+   Peak level 100.0 %
+   Track quality 99.9 %
+   Copy CRC 7A9F04F0
+   Copy OK
+
+Track  2
+   Filename G:\Track02.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC BCE97C61
+   Copy OK
+
+Track  3
+   Filename G:\Track03.wav
+
+   Peak level 59.1 %
+   Track quality 100.0 %
+   Copy CRC EE3DF0DF
+   Copy OK
+
+Track  4
+   Filename G:\Track04.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC A7670F26
+   Copy OK
+
+Track  5
+   Filename G:\Track05.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 5978CD55
+   Copy OK
+
+Track  6
+   Filename G:\Track06.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 74360EF8
+   Copy OK
+
+Track  7
+   Filename G:\Track07.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 658993C8
+   Copy OK
+
+Track  8
+   Filename G:\Track08.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC D69FE35A
+   Copy OK
+
+Track  9
+   Filename G:\Track09.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 0E5677C4
+   Copy OK
+
+Track 10
+   Filename G:\Track10.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC C2CC278C
+   Copy OK
+
+No errors occured
+
+
+End of status report
+
+EAC extraction logfile from 22. September 2006, 20:16 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0  LUN: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : C:\Documents and Settings\Owner\My Documents\flac112a.exe   (User Defined Encoder)
+                     128 kBit/s
+                     Additional command line options : -8 -V -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+   Filename G:\CD2Track01.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 82913EB1
+   Copy OK
+
+Track  2
+   Filename G:\CD2Track02.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC AFE35E0B
+   Copy OK
+
+Track  3
+   Filename G:\CD2Track03.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 6D5D7AA6
+   Copy OK
+
+Track  4
+   Filename G:\CD2Track04.wav
+
+   Peak level 100.0 %
+   Track quality 99.9 %
+   Copy CRC 44E79223
+   Copy OK
+
+Track  5
+   Filename G:\CD2Track05.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 469E1215
+   Copy OK
+
+Track  6
+   Filename G:\CD2Track06.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC EF98D0CE
+   Copy OK
+
+Track  7
+   Filename G:\CD2Track07.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC AF185524
+   Copy OK
+
+Track  8
+   Filename G:\CD2Track08.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 3B4B5AB7
+   Copy OK
+
+No errors occured
+
+
+End of status report

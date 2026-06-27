@@ -1,0 +1,57 @@
+Wilco
+December 13, 2011
+The Riviera Theater
+Chicago, IL
+
+Taper:  Brian Emerick
+Location:  Clamped to soundboard divider, center, 8' high
+Source:  CA-14 Cards > CA-9100 Pre-amp > Edirol R-09HR 24-bit 48K > SDHC
+Conversion: SDHC > iZotope RX 2 (noise removal) > Audacity (6db bass boost) > xACT > FLAC (8)
+
+Setlist:
+
+01: Intro
+02: Less Than You Think *
+03: Art Of Almost 
+04: I Might 
+05: Black Moon 
+06: Bull Black Nova 
+07: Side With The Seeds 
+08: Red-Eyed and Blue >
+09: I Got You (At The End Of The Century) 
+10: Born Alone 
+11: You Are My Face 
+12: Open Mind 
+13: Kamera 
+14: I Must Be High 
+15: I'm Always In Love 
+16: Capitol City 
+17: Handshake Drugs 
+18: Can't Stand It 
+19: Dawned On Me 
+20: Hummingbird 
+Encore:
+21: Via Chicago 
+22: Whole Love 
+23: The Late Greats 
+24: Walken 
+25: Just A Kid 
+26: Monday >
+27: Outtasite (Outta Mind) 
+Encore 2:
+28: Reservations >
+29: Spiders (Kidsmoke) 
+30: I'm A Wheel
+
+-------------------
+
+* jump cut/fade early on due to dropping the recorder and it shutting off
+
+Notes:
+There is some crowd cell phone interference, most notably in Less Than You Think, and the start of Red Eyed and Blue.
+
+Thanks to Chandler Coyle for keeping an eye on my levels so I could sit upstairs.
+
+**24-bit recording, cannot be burned to CD unless converted to 16-bit or MP3 first**
+
+compiled 12/14/2011 by brian dot emerick at gmail dot com

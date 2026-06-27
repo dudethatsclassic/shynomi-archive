@@ -1,0 +1,85 @@
+Sigur Rós
+(featuring the Wordless Orchestra)
+2023-08-28
+The Greek Theatre
+Los Angeles, CA
+
+SOURCE: 
+SP-CMC-8 (w/Mods) > Sony PCM-A10 > Sandisk Mini-SD Card (32gb - Class 10)
+
+TRANSFER: 
+.WAV (24 Bit) > Adobe Audition 2023 CC (normalize/amplify/tracking) > Trader's Little Helper > FLAC (Level 6)
+
+SETLIST:
+
+=== SET 1 ===
+
+01. Intro
+02. Blóðberg
+03. Ekki múkk
+04. Fljótavík
+05. 8 (short version)
+06. Von (Hvarf/Heim version)
+07. Andvari
+08. Starálfur
+09. Dauðalogn
+10. Varðeldur
+
+--- INTERMISSION ---
+
+=== SET 2 ===
+
+11. Untitled #1 - Vaka
+12. Untitled #3 - Samskeyti
+13. Heysátan
+14. Ylur
+15. Skel
+16. All Alright
+17. Untitled #5 - Álafoss
+18. Sé lest
+19. Hoppípolla
+20. Avalon
+
+NOTES:
+
+Finally, after 20 years, I was able to see Sigur Rós live and scratch them off my list. I've had a few opportunities in the past to catch them at festivals (Coachella 2006, Coachella 2013 and Outside Lands 2012) but set time conflicts always came into play and I would end up skipping their set. Granted, I was able to see Jónsi solo, so that counted for something, but a full set by the full band kept alluding me until tonight. I didn't actually come across the ticket until only 2 days prior when a couple friends I was hiking with were discussing the show and one of them told the other that they couldn't make it. So he turned around and asked if I wanted the ticket. The answer was of course yes. Simple as that.
+
+I left the strategy and parking up to him and therefore we parked on some hidden side street down in the hills and ended up having to hike (up stairs and on actual trails) to the venue, which was a first for me (though honestly, a much preferred option now that I've experienced it - though if I had known we were going to be doing that, I probably would have worn something other than my "Jesus sandals" on my feet).
+
+We had pretty good seats up in section CRC, in the second row, almost dead center. I actually don't think there's a bad seat at the Greek Theatre if I'm being honest. And thankfully, there weren't very many loud talkers or obnoxious people near me. Though right before the band came on, some random couple came up to the row behind us and asked if this other couple would want to switch seats down further (closer) to the stage in another section. Apparently their friends were sitting in the row behind us and they wanted to sit with them, but the people down below didn't want to switch to seats further back of course, so they offered their better seats to this other couple, which seemed like a no brainer trade I suppose (as long as you weren't seated next to assholes) but the dude was definitely not happy about this for whatever reason, and I thought we were gonna get an argument right behind right as the show started, but he eventually said "I want no part of this decision" and the girl said "well if we're doing this, let's do it now and quick" and they were off. Crisis/talking averted. Right when they left, the band took the stage. Perfect timing I suppose.
+
+They were playing with the Wordless Orchestra on this tour, so many of the songs were rearranged to work within the orchestra, which I didn't mind at all, I thought their contributions really added to the songs and sounded great. I think it's safe to say the highlight was "Hoppípolla", though really I could switch that out with 5-6 other songs and it wouldn't matter. It was an amazing night.
+
+On the hike back out, passing the Griffith Observatory, we came across a view of Los Angeles, underneath a clear starry sky and the almost full moon, lit up like I've never seen it before (I included some photos of it and the show in a separate folder with this recording). It was quite the sight and view, and an ending to an amazing night of music, one of which I soon won't forget.
+
+CHECKSUMS: 
+
+00d4ca3375091ef40b426a0d7a672939 *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t01-intro.flac
+d3f2ad86ff259d9f99c712355c3bf0b5 *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t02-blodberg.flac
+9cfd9701b8e80f623b2b2e1ea55353ca *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t03-ekki-mukk.flac
+59df2df44f86a1826fee228513a65347 *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t04-fljotavik.flac
+8878cf8990a634462cff7995fa60272e *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t05-8.flac
+69ca055f97cd68d00541ceabf009c463 *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t06-von.flac
+932e962d72162783082ddd97b5166c0b *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t07-andvari.flac
+85fbdf4b74790e9fae2a4a6e4a9d818c *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t08-staralfur.flac
+73969679a06c1469afc77451967d9305 *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t09-daudalogn.flac
+435c82509c28bef7f01a4629fad9e2af *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t10-vardeldur.flac
+1760468f5b9c5b22bf57a975aab02bdc *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t11-untitled-1-vaka.flac
+adcf12b1f2673842721f55ed20e720d8 *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t12-untitled-3-samskeyti.flac
+50cb63c2081dc0693a5031a3c92c2159 *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t13-heysatan.flac
+867ad01395ed687abe9a701175f7b152 *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t14-ylur.flac
+7ae458831f4058350c53c3e808693db9 *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t15-skel.flac
+c814c05b8d31663359db3df0e59f24ca *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t16-all-alright.flac
+422272642aa0611af90186d9d42d0a42 *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t17-untitled-5-alafoss.flac
+50ae46af30074bd8bb04e5f7c1c4c946 *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t18-se-lest.flac
+83d562253a29ed7372c114b54863fac8 *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t19-hoppipolla.flac
+3106b7cbc04edacac5b128c927989746 *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t20-avalon.flac
+9563b020d2115fe7ec16b5f0bbab8207 *sigur-ros-2023-08-28-greek-theatre-los-angeles-aud-24bit-t21-outro.flac
+
+Check out my site: 
+
+https://www.themojavetent.com 
+https://www.facebook.com/coachellarecordings 
+https://www.twitter.com/livecoachella
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT, OR ELSE THE KARMA POLICE WILL GET YOU***

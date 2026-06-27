@@ -1,0 +1,51 @@
+Vertical Horizon
+Ziggy's
+Winston-Salem, North Carolina
+10.30.99
+
+Taper: 	Will Foy
+Source: AKG 480 in X-Y formation, front of board, with
+	CK-61 cardioid capsules -> Beyerdynamic MV-100 -> Tascam DA-P1
+
+Conversion: Allan Chen
+            Sony r300>sek'd prodif plus>samplitude (48>44.1)>cdwav
+
+**no DAE. dat>wav>shn
+
+Disc One
+Track 	|	Name				|	Time (m:s)
+------------------------------------------------------------------
+d1t01	Intro-->					02:15
+d1t02	Brickhouse ***					00:55
+d1t03	Finding Me					04:47
+d1t04	You're A God					04:16
+d1t05	Fragments					04:54
+d1t06	Candyman					05:08
+d1t07	Trying To Find Purpose				04:24
+d1t08	Unchosen One					07:10
+d1t09	Wash Away					11:27
+d1t10	Send It Up **					05:00
+Total:							50:16
+
+Disc Two
+Track 	|	Name				|	Time (m:s)
+------------------------------------------------------------------
+d2t01	Everything You Want				05:40
+d2t02	Japan						05:06
+d2t03	Heart In Hand					08:27
+d2t04	We Are						08:30
+d2t05	E1:Sunrays and Saturdays *			04:46
+d2t06	E1:Famous					06:10
+d2t07	E2:Still Haven't Found What I'm Looking For %	12:44
+	   Falling Down-->
+	   Wild Thing-->
+	   Falling Down
+Total:							51:23
+
+Notes:
+* Matt solo acoustic
+** w/ Mark Williams of Jonecé
+*** The Commodores cover
+% U2 cover
+
+Compiled by:  Ray Domingue <rpd004@yahoo.com>

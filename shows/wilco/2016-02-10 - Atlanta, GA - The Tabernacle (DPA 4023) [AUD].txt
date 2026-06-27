@@ -1,0 +1,53 @@
+Wilco
+The Tabernacle Atlanta, GA
+Wednesday February 10, 2016
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA 4023 > Lunatec V3 (Oade ACM mod) > Audio Magic Presto II > Sound
+		Devices 722 @ 24/96
+Location:	Section 302 Row A Seat 1
+
+WAV > FLAC:	.wav @ 24/96 > Audacity 2.1.2 (dither to 16/44.1)
+
+Disc One:
+
+01: Intro (EKG)				-	01:20.40
+02: More...				-	02:45.35
+03: Random Name Generator		-	04:16.40
+04: The Joke Explained			-	02:37.35
+05: You Satellite			-	05:29.00
+06: Taste The Ceiling			-	03:34.40
+07: Pickled Ginger			-	02:38.20
+08: Where Do I Begin			-	03:17.35
+09: Cold Slope				-	03:17.40
+10: King Of You				-	02:39.35
+11: Magnetized				-	04:26.20
+12: Handshake Drugs			-	06:10.00
+13: Kamera				-	03:33.00
+14: I Am Trying To Break Your Heart	-	06:17.35
+15: Art Of Almost			-	07:21.60
+16: Via Chicago				-	05:31.15
+
+Total:					-	65:16.00
+
+Disc Two:
+
+01: Bull Black Nova			-	06:18.00
+02: Hummingbird				-	04:21.00
+03: Box Full Of Letters			-	03:40.55
+04: Heavy Metal Drummer			-	03:04.60
+05: I’m The Man Who Loves You		-	04:13.15
+06: Dawned On Me			-	04:25.60
+07: Impossible Germany			-	08:00.15
+08: The Late Greats			-	05:30.40
+09: Misunderstood			-	04:14.40
+10: It's Just That Simple		-	04:17.00
+11: War On War				-	03:30.00
+12: I’m Always In Love			-	04:13.00
+13: Jesus, Etc.				-	04:07.65
+14: A Shot In The Arm			-	04:31.45
+15: Space Oddity			-	06:33.00
+
+Total					-	71:00.00
+
+compiled by George Wang on 07-03-2016

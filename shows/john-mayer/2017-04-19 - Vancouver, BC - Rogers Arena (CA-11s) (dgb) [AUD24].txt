@@ -1,0 +1,102 @@
+John Mayer
+"The Search For Everything World Tour"
+Rogers Arena
+Vancouver, BC
+April 19, 2017
+
+** 24 BIT **
+
+Source:  Church Audio CA-11's (cardioids) > Sony PCM-M10 (mic in) > SD Memory Card @ 24 bit/48 kHz 
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > CDWav (tracking) >               Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging) 
+Location:  Section 105, row 6, seat 2
+Recorded By:  "DGB"
+Mastered By:  Dennis Orr
+
+Setlist:
+01 Crowd
+02 Moving On And Getting Over (1)
+03 Helpless (1)
+04 Chat
+05 Who Says (1)
+06 Rosie (1)
+07 Belief (1)
+08 3x5 (2)
+09 Chat
+10 Friend Of The Devil (2)
+11 Chat
+12 Free Fallin' (3)
+13 Chat
+14 Your Body Is A Wonderland (2)
+15 John Mayer Trio Intro
+16 Who Did You Think I Was (4)
+17 Vultures (4)
+18 Crossroads (4)
+19 Chat
+20 Changing (1)
+21 Queen Of California (1)
+22 Why Georgia (1)
+23 Chat & Happy Birthday (for David Ryan Harris)
+24 Slow Dancing In A Burning Room (1)
+25 Chat & Band Intros
+26 Dear Marie (1)
+27 Encore Break #1
+- Encore #1 -
+28 No Such Thing (1)
+29 Gravity (1)
+30 Encore Break #2
+- Encore #2 - 
+31 Changing (tease) > You're Gonna Live Forever In Me (5)
+
+(1) Full band
+(2) John solo acoustic
+(3) John acoustic, with David Ryan Harris
+(4) John Mayer Trio (Mayer, Palladino, Jordan)
+(5) John solo, on piano
+
+John Mayer - lead vocals & guitars
+Pino Palladino - bass
+Steve Jordan - drums & percussion
+David Ryan Harris - guitar & backing vocals
+Barry Golden - keyboards & harp
+Tiffany Palmer - backing vocals
+Carlos Ricketts - backing vocals
+Isaiah Sharkey - guitar
+
+Show Notes:
+The battery died on the CA-9200 preamp.  Luckily DGB noticed the problem before the opening band started, and was able to reconfigure his gear and run his mics through the "mic in" jack of the recorder.
+LANY opened.
+
+Mastering Notes:
+Some VERY minor distortion in a couple of the louder crowd screams, likely due to the above mentioned "mic in" situation.
+
+JohnMayer2017-04-19t01.flac:562bcea99a6aa13ee559115df07221e4
+JohnMayer2017-04-19t02.flac:75945492b983d0fc90f779acc125fbc2
+JohnMayer2017-04-19t03.flac:d0136364e38b0cfcaa281a224009708d
+JohnMayer2017-04-19t04.flac:1f3c9eadc312ecf98161fb53b7b9d2d5
+JohnMayer2017-04-19t05.flac:52fa8bce62eee0bbb5ee056fa0794ed7
+JohnMayer2017-04-19t06.flac:4698cfcbd04bc3a03387f853c720de91
+JohnMayer2017-04-19t07.flac:12afa55846352b023c28b74006a54828
+JohnMayer2017-04-19t08.flac:a8e50fb11b2ece25394e6595c8bfe8c2
+JohnMayer2017-04-19t09.flac:f6d8434467917dc71ba62e282ae8efd8
+JohnMayer2017-04-19t10.flac:31234048693d9c7bb98b417dd62f22e4
+JohnMayer2017-04-19t11.flac:36c3d66734863a3085960cee7e724b45
+JohnMayer2017-04-19t12.flac:48bef12cb002839a0c83bfecde3fee83
+JohnMayer2017-04-19t13.flac:5eab42dcca4207f0582aa7eac4ac5f1c
+JohnMayer2017-04-19t14.flac:cbe0b2150feaaafeb647fa70f79d69a7
+JohnMayer2017-04-19t15.flac:6d9fa8aab433c50762500b511fc0c5de
+JohnMayer2017-04-19t16.flac:eabe50d4f8e1de36f2256b8b2079f647
+JohnMayer2017-04-19t17.flac:b9833de0f3fc8a4ef1b0cf3cedf55bb4
+JohnMayer2017-04-19t18.flac:032c9bfebe7a259a9aa72b5a46937e6e
+JohnMayer2017-04-19t19.flac:bcd4d5851dad13c5fda13360966f776b
+JohnMayer2017-04-19t20.flac:5ae70929c51e8b44c49fab951b6fee5e
+JohnMayer2017-04-19t21.flac:5530f9dde095ed63c12059f55ce65766
+JohnMayer2017-04-19t22.flac:9c8f6850743ebea230451bd8a3fc2bcf
+JohnMayer2017-04-19t23.flac:eda405b9080845335c7f3ecd4c0edfa0
+JohnMayer2017-04-19t24.flac:527cbcb239f6364e11762a7156868608
+JohnMayer2017-04-19t25.flac:a31770879303ef469b72c7bd02c8bca6
+JohnMayer2017-04-19t26.flac:6b58249b7364d5b8d3e01b395032b9e9
+JohnMayer2017-04-19t27.flac:18f426371037539bd2e07435c33bbfcd
+JohnMayer2017-04-19t28.flac:a1ba910492afb4084418074e6f307a41
+JohnMayer2017-04-19t29.flac:7d5e0c032d1e8d8c3cc4ce38364e99cc
+JohnMayer2017-04-19t30.flac:0a1a0fcf5f92558fb723c41e69c4757c
+JohnMayer2017-04-19t31.flac:2dd17e7acfa20b21d06bd1e570febd13

@@ -1,0 +1,43 @@
+Wilco
+04/12/2013 (Fri)
+Zepp DiverCity Tokyo
+Tokyo, Japan
+
+(Disc1)
+01.Less Than You Think
+02.Art of Almost
+03.I Might
+04.One Wing
+05.Sunken Treasure
+06.Spiders(Kidsmoke)
+07.Impossible Germany
+08.Born Alone
+09.Radio Cure
+10.Sky Blue Sky
+11.Say You Miss Me
+12.I Must Be High
+13.Whole Love
+
+(Disc2)
+01.Theologians
+02.Heavy Metal Dummer
+03.Dawned on Me
+04.A Shot in the Arm
+05.Hummingbird
+06.crowd
+Encore
+07.California Stars
+08.The Late Greats
+09.I'm The Man Who Loves You
+10.Monday
+11.Kicking Television
+
+Source : DPA4023>Apogee Mini-Me(analog out)>Sony D50(48/24)
+Lineage : USB > MBPci7-Apogee ensemble / Studio One2-Sonnox,McDSP(premastering) > DSPQ(tracking,resampling 48/24 > 44.1/16) > WAV > xACT > FLAC
+Taped by : GAKU TANIGUCHI (trailights record)
+Transferred by : GAKU TANIGUCHI (trailights record)
+
+Notes : Taper Section at right of PA booth.
+Thanks TAKE for ticket.
+Thanks 41 for clamping.
+I enjoyed this show.

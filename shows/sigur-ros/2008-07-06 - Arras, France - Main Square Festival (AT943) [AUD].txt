@@ -1,0 +1,55 @@
+Sigur Ros
+2008-07-06
+Square Festival
+Arras
+France
+
+Taper      : bnz
+Source     : at943 - SP-SPSB-6 (Bass Roll-off at 107 HZ) - Edirol R09 at 16 bit 44.1 Khz
+Transfer   : SD card > SDslot > PC > Audition 1.5 > 15 db boost > Cdwave > TLH > FLAC (8)
+Total Time : 60:10 min
+Position   : FOB, 2 meters right of center, mics on hat
+Conditions : windy, not very disturbing on the recording for me, but its there ...
+
+01 Intro
+02 Svefn-g-englar
+03 Sæglópur
+04 Vid spilum endalaust
+05 Hoppípolla / Med blódnasir
+06 Inní mér syngur vitleysingur
+07 Hafsól
+08 Gobbledigook
+09 Popplagid
+
+Do not sell, do not convert to lossy formats, do not remaster ect ect.
+
+Enjoy !!
+
+bnz, 2008-07-10
+
+SR_2008-07-06_Arras_01_Intro.wav:  successfully encoded to 'SR_2008-07-06_Arras_01_Intro.flac'
+SR_2008-07-06_Arras_02_Svefn-g-englar.wav:  successfully encoded to 'SR_2008-07-06_Arras_02_Svefn-g-englar.flac'
+SR_2008-07-06_Arras_03_Sæglópur.wav:  successfully encoded to 'SR_2008-07-06_Arras_03_Sæglópur.flac'
+SR_2008-07-06_Arras_04_Vid spilum endalaust.wav:  successfully encoded to 'SR_2008-07-06_Arras_04_Vid spilum endalaust.flac'
+SR_2008-07-06_Arras_05_Hoppípolla_Med blódnasir.wav:  successfully encoded to 'SR_2008-07-06_Arras_05_Hoppípolla_Med blódnasir.flac'
+SR_2008-07-06_Arras_06_Inní mér syngur vitleysingur.wav:  successfully encoded to 'SR_2008-07-06_Arras_06_Inní mér syngur vitleysingur.flac'
+SR_2008-07-06_Arras_07_Hafsól.wav:  successfully encoded to 'SR_2008-07-06_Arras_07_Hafsól.flac'
+SR_2008-07-06_Arras_08_Gobbledigook.wav:  successfully encoded to 'SR_2008-07-06_Arras_08_Gobbledigook.flac'
+SR_2008-07-06_Arras_09_Popplagid.wav:  successfully encoded to 'SR_2008-07-06_Arras_09_Popplagid.flac'
+
+No errors occured.
+
+
+SR_2008-07-06_Arras_01_Intro.flac:27ca63662f48f0433b7624e827b1032f
+SR_2008-07-06_Arras_02_Svefn-g-englar.flac:ca19bfcc4b594e067b91198fce5768ed
+SR_2008-07-06_Arras_03_Sæglópur.flac:8f289f78fc4da5a7b9796fc52ba24edd
+SR_2008-07-06_Arras_04_Vid spilum endalaust.flac:c320b7d10916f571f990e3250fcd67da
+SR_2008-07-06_Arras_05_Hoppípolla_Med blódnasir.flac:905781fd340e383ea29bf7a4f123e389
+SR_2008-07-06_Arras_06_Inní mér syngur vitleysingur.flac:1c2bebbc0af5460eb18bd8996dbcb013
+SR_2008-07-06_Arras_07_Hafsól.flac:a16b7e931fae49c45a0a4b89dcac0cda
+SR_2008-07-06_Arras_08_Gobbledigook.flac:3c861a454b8fbacfe1e380a598ef2a01
+SR_2008-07-06_Arras_09_Popplagid.flac:423d25b32d953b38ef3ace5d28e9ebc5
+
+No errors occured.
+
+Checksum file saved to disk.

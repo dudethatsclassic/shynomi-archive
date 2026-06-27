@@ -1,0 +1,36 @@
+Vertical Horizon
+June 6th, 2018.
+Express LIVE! -
+Columbus, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   30ft back from right stack; mics mounted on baseball hat brim.
+Source:     CA-14 Omni > CA-9200 > Sony PCM-10 (24 bit @48kHz) > 
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  SanDisk 32GB MicroSD Card > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (45:40)
+
+01. Written In The Stars			5:48
+02. Send It Up					5:33
+03. The Lucky One				4:44
+04. Best I Ever Had (Grey Sky Morning)		5:15
+05. We Are					4:21
+06. I'm Still Here				4:10
+07. I'm Gonna Save You	 			7:07
+08. You're A God				3:29
+09. Everything You Want				5:12
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+Opening for Tonic and the Gin Blossoms. VH went on promptly at 7pm and
+played a stellar 45minute set. The PA was heavy on the bass, so I did EQ
+this a bit before normalizing in post.
+
+---------------------------------------------------------------------------------------------------------
+For more information on Vertical Horizon, please visit:
+
+http://www.verticalhorizon.com/

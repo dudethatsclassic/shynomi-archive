@@ -1,0 +1,58 @@
+Dave Matthews Band
+July 27, 1993
+The FloodZone
+Richmond, VA
+
+Source: 	DSBD [Master; 48kHz]
+		Mark Lynn
+Conversion: 	Fostex D5 > Tascam CDRW700
+	 	Mark Lynn
+CD > SHN:	Plextor 8/20 and EAC 0.85b4 secure mode:  all tracks 100%
+		CDWAV used for retracking
+		Louie Rendek <ljr7@po.cwru.edu>
+
+**  seeded by Rob Hartman <rhart@firstworld.net> and Louie Rendek <ljr7@po.cwru.edu>
+
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+d1t01		Rhyme And Reason @			03:42.28
+d1t02		I'll Back You Up @			03:09.67
+d1t03		Two Step @				04:58.66
+d1t04		Any Noise/Anti Noise @			04:02.35
+d1t05		Best Of What's Around @			03:22.14
+d1t06		<band setting up>			04:50.51
+d1t07		Jimi Thing				15:08.45
+d1t08		One Sweet World intro			03:02.68
+d1t09		One Sweet World				06:39.07
+d1t10		Lie In Our Graves			07:37.45
+d1t11		Tripping Billies (Nature intro)		07:08.24
+d1t12		Recently (pretty girl)			08:38.14
+d1 totals 						72:21.14
+
+d2t01		Disc Two intro				00:26.00
+d2t02		Warehouse				08:46.53
+d2t03		Set II intro				02:47.62
+d2t04		Ants Marching #				05:11.64
+d2t05		Dancing Nancies #			09:27.31
+d2 totals						26:39.60
+
+d3t01		Granny %				08:45.19
+d3t02		Jam -> #36 -> Jam %			24:01.68
+d3t03		True Reflections -> %			08:06.03
+d3t04		Jam %					11:03.65
+d3 totals 						51:57.05
+
+@	Dave solo
+*	with Doug Wannamaker on organ the whole show (aside from the dave solo tracks).
+#	with Mike Durham on guitar.
+%	with Mike Durham on guitar and Oteil Burbridge on bass.
+
+NOTES:
+----------
+*	If you have 80 minute discs around, burn this as a two disc show by putting d2
+	and d3 together on one 80 minute disc.
+*	Rhyme And Reason is missing the beginning.  the track fades into the song.  most
+	of it is there however.
+*	There is a 2-3 second long diginoise zap ~3:00 into Two Step.
+
+* compiled by Louie Rendek <ljr7@po.cwru.edu>

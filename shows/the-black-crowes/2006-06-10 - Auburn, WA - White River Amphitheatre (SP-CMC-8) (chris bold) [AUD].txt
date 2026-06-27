@@ -1,0 +1,65 @@
+The Black Crowes
+White River Amphitheatre
+Auburn, WA
+June 10, 2006
+
+** 16 BIT **
+
+Source:  SP-CMC-8 cardioids > SP-SPSB-7 battery box > Archos Gmini 400 @ 16 bit/44.1 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 130 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  Secion 205, Row 4, Seat 10
+Recorded by:  Chris Bold
+Mastered by:  Dennis Orr
+
+Setlist: (1:59:05)
+01 Crowd/Tuning
+02 Wiser Time
+03 Jam > 
+04 Black Moon Creeping
+05 High Head Blues
+06 Got To Get Better In A Little While (1)
+07 Darling Of The Underground Press
+08 Jam > 
+09 Thorn In My Pride
+10 Up On Cripple Creek (2)
+11 Soul Singing
+12 L.A. (3)
+13 Hard To Handle
+14 Jealous Again
+15 Encore Break
+- Encore -
+16 Around And Around
+
+(1) Chris played electric guitar
+(2) Rich sang lead vocals and played acoustic guitar and Chris played acoustic guitar
+(3) Marc sang lead vocals and Chris played electric guitar
+
+Chris Robinson - lead vocals, harp, & guitars
+Rich Robinson - guitars & vocals
+Marc Ford - guitars & backing vocals
+Sven Pipien - bass & backing vocals
+Eddie Harsch - keyboards
+Steve Gorman - drums & percussion
+Charity White - backing vocals
+Mona Lisa Young - backing vocals
+
+Show Notes:
+Drive-By Truckers and Robert Randolph & The Family Band opened the show
+
+tbc2006-06-10t01.flac:ddfb6a044eb09cc5f87ad0da433a9eeb
+tbc2006-06-10t02.flac:ae01cab3c8757a5b4ee1a802f51c6079
+tbc2006-06-10t03.flac:77a36a2e7a20e7f17b9d241683faf3b2
+tbc2006-06-10t04.flac:45ec62fcd046f565b20895c5fa01bb85
+tbc2006-06-10t05.flac:533c2cd8295c240c684d9dc5c1952d4c
+tbc2006-06-10t06.flac:82d4c1aa948eee7487e02028dbed831b
+tbc2006-06-10t07.flac:7eca1223751dde79d8d97d11a1df9cb5
+tbc2006-06-10t08.flac:10ea0465bd380786bf6a84aa6c5a6862
+tbc2006-06-10t09.flac:d0528eee91a9a5a326b1720a5f1c3c64
+tbc2006-06-10t10.flac:1236c0fb1f43214a20c26b7c22ce5690
+tbc2006-06-10t11.flac:115a4ea0295228ba91597da0766c58a4
+tbc2006-06-10t12.flac:ea324bced6be387b40f780ec0b7922b5
+tbc2006-06-10t13.flac:67d8322b85553c495534be6f4fc51313
+tbc2006-06-10t14.flac:dfa524e005bb167f6e9e81186693694d
+tbc2006-06-10t15.flac:3444970774e0db9c785fc3f1f7091349
+tbc2006-06-10t16.flac:4f28d76aa42e00748c04225b39ac40cf

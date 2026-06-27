@@ -1,0 +1,45 @@
+shntool report:
+Disc 1
+    length     expanded size   cdr  WAVE problems filename
+     4:11.61       44419916    ---   --   -----   01 - Hotel Illness.wav
+     5:12.39       55128572    ---   --   -----   02 - Twice As Hard.wav
+     5:43.09       60526412    ---   --   -----   03 - No Speak No Slave.wav
+    20:01.35      211938764    ---   --   -----   04 - A Conspiracy,Dreams.wav
+     7:11.07       76044908    ---   --   -----   05 - She Talks To Angels.wav
+     9:45.39      103285772    ---   --   -----   06 - Nonfiction.wav
+     4:49.37       51066668    ---   --   -----   07 - Darling Of The Underground Press.wav
+     5:01.15       53131724    ---   --   -----   08 - Sting Me.wav
+     4:58.15       52602524    ---   --   -----   09 - Jealous Again.wav
+    66:54.32      708145260 B                     (totals for 9 files, 1.0000 overall compression ratio)
+
+Disc 2
+   length     expanded size   cdr  WAVE problems filename
+     5:33.71       58908236    ---   --   -----   01 - Stare It Cold.wav
+     4:56.73       52386140    ---   --   -----   02 - Woke Up This Morning.wav
+     4:23.38       46482620    ---   --   -----   03 - Hard To Handle.wav
+     7:37.67       80772428    ---   --   -----   04 - Descending.wav
+     7:21.35       77874764    ---   --   -----   05 - Wiser Time.wav
+     4:03.28       42931100    ---   --   -----   06 - Chevrolet.wav
+     8:16.70       87659084    ---   --   -----   07 - Remedy.wav
+    42:14.07      447014372 B                     (totals for 7 files, 1.0000 overall compression ratio)
+
+Flac Fingerprints:
+Disc 1
+01 - Hotel Illness.flac:b67f3380a25cae8f8bf0ce302b91eb1f
+02 - Twice As Hard.flac:5e20361f265b77a0fe61d3dd0b89aa6b
+03 - No Speak No Slave.flac:cf1bb4679fe83bbfc4f4fda63c2e15b6
+04 - A Conspiracy,Dreams.flac:8f401f558081ec723f2a23143924f811
+05 - She Talks To Angels.flac:ba1e266d2c5c5bf47f2f3a10bae75aa0
+06 - Nonfiction.flac:c457346453ec16148c10f8b6dbd2fddc
+07 - Darling Of The Underground Press.flac:f31ee230783301907afcd89c6f9b93ad
+08 - Sting Me.flac:1c45cd10cfd7c33eda4a8574a5d46846
+09 - Jealous Again.flac:51fe272d3379dcc221ca1f298497b1ab
+
+Disc 2
+01 - Stare It Cold.flac:d305ee03429360de7655110d735d9227
+02 - Woke Up This Morning.flac:cc14e6e5f95d5b3ad2d05147f9cd53ec
+03 - Hard To Handle.flac:aab7c77483d738d1cba44de9feb122a0
+04 - Descending.flac:3485990814ba9b772f1f2f33ac8341c0
+05 - Wiser Time.flac:790063f096aaa4359d21b0fdb521668c
+06 - Chevrolet.flac:15a02a9b7ae5ed7e448312e14b4b3c6b
+07 - Remedy.flac:f41322c891fdf4ab446ab7f06651512e

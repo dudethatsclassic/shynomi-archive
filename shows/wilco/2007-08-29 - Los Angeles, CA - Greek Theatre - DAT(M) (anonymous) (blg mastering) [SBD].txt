@@ -1,0 +1,42 @@
+Wilco
+August 29, 2007
+Greek Theatre
+Los Angeles, CA
+
+Source: SBD > Sony PCM-M1 
+Lineage: DAT Master 16/44.1 > FLAC
+Transfer (RyanJ): Tascam DA-20 > coax > Marantz PMD-671 > Audition > .wav
+Mastering (BLG): Adobe Audition > iZotope Ozone 9 > WavePad > xACT > FLAC
+Taper: anonymous
+
+01 You Are My Face
+02 I Am Trying To Break Your Heart
+03 Side With the Seeds
+04 Shake It Off
+05 Handshake Drugs
+06 A Shot in the Arm
+07 Impossible Germany
+08 Sky Blue Sky
+09 Too Far Apart
+10 Pot Kettle Black
+11 War On War
+12 Via Chicago
+13 Jesus, Etc.
+14 Walken
+15 I'm the Man Who Loves You
+16 Hummingbird
+17 On And On And On
+
+Encore 1:
+18 California Stars
+19 Hate It Here
+20 I'm Always In Love
+21 Outtasite (Outta Mind)
+
+Encore 2:
+22 Heavy Metal Drummer
+23 Spiders (Kidsmoke)
+
+Total Time: 121:22
+
+.txt compiled on Feb 22, 2022 by BLG

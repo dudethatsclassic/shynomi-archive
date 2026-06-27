@@ -1,0 +1,41 @@
+Dave Matthews Band
+Meigs Field/Mistake by the Lake (RIP Alpine)
+Chicago, IL
+June 30, 2018
+
+Taper: Crumbo
+Location: Back of pit/runway #2
+Source: AKG ck63 (DINa-ish, ~15') > NBob Actives > nbox platinum > Sony PCM-M10 (24/96)
+Conversion: Sony PCM-M10 > Wave Editor 1.58 (iZotope Resampler, iZotope MBIT+ Dither) > xACT 2.45
+
+***24/96 Version exists in flac format***
+
+01. Intro                            02:53.24
+02. That Girl Is You                 05:21.52
+03. One Sweet World                  08:26.48
+04. Stand Up (For It)                07:08.07
+05. Dancing Nancies                  10:41.40
+06. Satellite                        05:54.33
+07. Seek Up                          19:53.51
+08. Funny the Way It Is              06:18.19
+09. Idea of You >                    04:53.12
+10. Crush                            20:35.65
+11. Samurai Cop (Oh Joy Begin)       05:58.65
+12. Gravedigger                      06:49.11
+13. Warehouse                        10:57.67
+14. Come Tomorrow                    07:49.25
+15. Tripping Billies                 07:32.29
+16. She                              06:31.33
+17. Ants Marching                    10:24.02
+18. Encore Break                     05:02.30
+19. Pantala Naga Pampa > Rapunzel >  06:44.44
+20. Stay (Wasting Time)              06:25.23
+
+Total: 166:22.05
+
+Notes:
+
+-Thanks to Jason for the help and Jay for the lounge passes
+-Some wind rumblings during the quieter parts
+
+Compiled by Crumbo on 7-1-18

@@ -1,0 +1,58 @@
+Wilco
+Shoreline Amphitheatre
+Mountain View, California
+August 4, 2013
+
+01. Via Chicago
+02. I Am Trying To Break Your Heart
+03. Art Of Almost
+04. Passenger Side
+05. Forget The Flowers
+06. Born Alone
+07. The New World
+08. Heavy Metal Drummer
+09. I'm The Man Who Loves You
+10. I Got You (At The End Of The Century)
+11. Ripple
+12. Dark Star >
+13. California Stars >
+14. Dark Star >
+15. St. Stephen
+16. When I Paint My Masterpiece
+
+Band Members
+Jeff Tweedy - vocals, guitar
+Nels Cline - guitar
+Glenn Kotche - drums
+Pat Sansone - guitar
+John Stirratt - bass
+Mikael Jorgensen - keyboards
+
+Comments
+"Passenger Side" and "Forget The Flowers" with Richard Bowden
+"The New World" with John Doe
+"Ripple", "Dark Star" > "California Stars" > "Dark Star" > "St. Stephen" with Bob Weir
+"When I Paint My Masterpiece" with John Doe, Bob Weir, Ryan Bingham and My Morning Jacket
+
+source: soomlos
+16th row orchestra in front of left stack
+neumann skm140 > naiant littlebox (ot) > sony pcm-m10 (24/48)
+sony pcm-m10 > usb > pc > sound forge pro 10 > cd wave editor > flac (16/44.1)
+
+ffp
+wilco2013-08-04t01.flac:35fcc4a91f26ef988fbe9b157a360097
+wilco2013-08-04t02.flac:ba9c76f2d750121d5044924cbdb4b0b9
+wilco2013-08-04t03.flac:2e34246880ab4403090a48fe5cc2587e
+wilco2013-08-04t04.flac:2f5e8111f9b3d3646213d365d4f20744
+wilco2013-08-04t05.flac:d389e193270a366a799a1bb708b41994
+wilco2013-08-04t06.flac:ff4a3a17ea1b58edab9ced3978b679b9
+wilco2013-08-04t07.flac:80290e75c8ea1bb25e20a3245dd4db68
+wilco2013-08-04t08.flac:a1f0728a25f5b24ff234da1ecc1a9f73
+wilco2013-08-04t09.flac:d47b5fad1b3b10d86e47777621ab6a03
+wilco2013-08-04t10.flac:1fea3283a1b4442b60f64dc1c9dc0ced
+wilco2013-08-04t11.flac:e981a87765b622a7e138a3f17c47b5de
+wilco2013-08-04t12.flac:52189dc46849eb91da8438de3392a872
+wilco2013-08-04t13.flac:47890a1eb51b32d91d09cd04905578d2
+wilco2013-08-04t14.flac:55389b9972b15c2a1e34680fcb5dcad9
+wilco2013-08-04t15.flac:7f637028e6f682bc7f2a3c746c4da6d2
+wilco2013-08-04t16.flac:88de3d7fa53c1d3c20465fa0586dc9cf

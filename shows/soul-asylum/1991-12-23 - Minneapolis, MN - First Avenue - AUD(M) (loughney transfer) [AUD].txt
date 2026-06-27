@@ -1,0 +1,19 @@
+Soul Asylum - 1991 12 23 First Avenue, MPLS, MN
+
+Dan & Dave acoustic set of all covers. 
+
+1 Seasons Of Wither [Aerosmith]
+2 I Put A Spell On You [Screaming Jay Hawkins]
+3 Rhinestone Cowboy [Glen Campbell]
+4 Cocaine Blues [Johnny Cash]
+5 Puff The Magic Dragon [Peter, Paul and Mary]
+6 Ooh La La [The Faces]
+7 Tracks Of My Tears [Miracles]
+8 Only Women Bleed [Alice Cooper]
+9 Smells Like Teen Spirit > Wild Thing [Nirvana / The Troggs]
+10 Living After Midnight [Judas Priest]
+11 Little Drummer Boy [Katherine Kennicott Davis]
+
+Lineage: Audience Master > 3rd gen tape > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC) [loughney xfer]
+
+

@@ -1,0 +1,18 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:54.787      15778604 B   cxx   --   ---xx   flac  0.7508  TracyChapman1988-05-07t01.flac
+     3:49.360      66055724 B   cxx   --   ---xx   flac  0.7462  TracyChapman1988-05-07t02.flac
+     3:54.680      67587884 B   cxx   --   ---xx   flac  0.7393  TracyChapman1988-05-07t03.flac
+     2:33.093      44090924 B   cxx   --   ---xx   flac  0.7380  TracyChapman1988-05-07t04.flac
+     3:38.587      62953004 B   cxx   --   ---xx   flac  0.7382  TracyChapman1988-05-07t05.flac
+     2:16.773      39390764 B   cxx   --   ---xx   flac  0.7387  TracyChapman1988-05-07t06.flac
+     6:37.800     114566444 B   cxx   --   ---xx   flac  0.7401  TracyChapman1988-05-07t07.flac
+     3:39.893      63329324 B   cxx   --   ---xx   flac  0.7344  TracyChapman1988-05-07t08.flac
+     3:51.907      66789164 B   cxx   --   ---xx   flac  0.7296  TracyChapman1988-05-07t09.flac
+     3:24.787      58978604 B   cxx   --   ---xx   flac  0.7297  TracyChapman1988-05-07t10.flac
+     4:11.453      72418604 B   cxx   --   ---xx   flac  0.7312  TracyChapman1988-05-07t11.flac
+     2:23.853      41429804 B   cxx   --   ---xx   flac  0.7519  TracyChapman1988-05-07t12.flac
+     3:45.107      64830764 B   cxx   --   ---xx   flac  0.7379  TracyChapman1988-05-07t13.flac
+     5:36.627      96948524 B   cxx   --   ---xx   flac  0.7448  TracyChapman1988-05-07t14.flac
+     3:47.160      65422124 B   cxx   --   ---xx   flac  0.7489  TracyChapman1988-05-07t15.flac
+     2:32.005      43777580 B   cxx   --   ---xx   flac  0.7506  TracyChapman1988-05-07t16.flac
+    56:57.872     984347840 B                            0.7399  (16 files)

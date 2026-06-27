@@ -1,0 +1,34 @@
+Wilco
+2013-04-12
+Zepp DiverCity Tokyo, Koto-ku, Tokyo, Japan
+
+Setlist: 
+01. Less Than You Think
+02. Art Of Almost
+03. I Might
+04. One Wing
+05. Sunken Treasure
+06. Spiders (Kidsmoke)
+07. Impossible Germany
+08. Born Alone
+09. Radio Cure
+10. Sky Blue Sky
+11. Say You Miss Me
+12. I Must Be High
+13. Whole Love
+14. Theologians
+15. Heavy Metal Drummer
+16. Dawned On Me
+17. A Shot In The Arm
+18. Hummingbird
+19. Encore
+20. California Stars
+21. The Late Greats
+22. I'm The Man Who Loves You
+23. Monday
+24. Outtasite (Outta Mind)
+
+Source: 
+Rode NT4 > Edirol UA-5 Digi-mod (Digital 44.1kHz, 16Bit) > iriver iHP-120 Rockbox (Digital) > Adobe Audition 3.0 (Normalize, Fade) > CD wave (Split Tracks) > Trader's Little Helper > FLAC (Level 8)
+
+Recording by Watanabe Satoshi

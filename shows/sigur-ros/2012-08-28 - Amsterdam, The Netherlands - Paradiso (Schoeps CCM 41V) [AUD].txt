@@ -1,0 +1,150 @@
+Sigur Rós
+
+Paradiso
+Amsterdam
+The Netherlands
+
+28th August 2012 (2012-08-28)
+
+
+RECORDING:
+
+Type: Audience master, recorded 2½ metres back from the left-hand side
+      PA stack.
+
+Source: Factory-matched pair of Schoeps CCM 41V microphones (DINa mounted) ->
+	Marantz PMD661 recorder with Oade Concert Mod
+	(-18 dB gain/44.1 kHz/24 bit WAV)
+
+Lineage: Audacity 2.0.0
+	   * applied minor amplification
+	   * attenuated sections of loud applause
+	   * added fades
+	   * split tracks
+	   * converted to 16 bit
+	 -> FLAC (compression level 8) [libFLAC 1.2.1 20070917]
+
+Taper: Ian Macdonald (ianmacd)
+
+
+SET LIST:
+
+01. [07:59] Í Gær
+02. [09:09] Ný Batterí
+03. [06:37] Vaka
+04. [11:00] Svefn-G-Englar
+05. [07:24] Sæglópur
+06. [10:03] Viðrar Vel Til Loftárása
+07. [07:38] Olsen Olsen
+08. [06:31] Hoppípolla/Með Blóðnasir
+09. [07:52] Festival
+10. [06:33] Varúð
+11. [07:39] Hafsól
+12. [02:00] [encore break]
+13. [06:20] Ekki Múkk
+14. [00:41] Glósóli (false start)
+15. [06:41] Glósóli
+16. [14:54] Popplagið
+17. [01:56] [curtain call]
+
+Total running time: 120:56
+
+
+MD5 CHECKSUMS:
+
+389d36c4231ea5807ef54c6a3a9b48c2  flac/01_í_gær.flac
+875d3039bb1537d05260364afbd22747  flac/02_ný_batterí.flac
+98a1f4a066062b8aeddb804d6ce97286  flac/03_vaka.flac
+9ac1aa7256bbafbcb04bd9fb5b8fbd1e  flac/04_svefngenglar.flac
+13a744951d2a4aaa341363567a56d8c8  flac/05_sæglópur.flac
+3836090e3f5f6014690ba112f923e313  flac/06_viðrar_vel_til_loftárása.flac
+272ab2aa45786d48cbc84eced08a8843  flac/07_olsen_olsen.flac
+0e771480b180d14ce5068dd25fca9415  flac/08_hoppípollameð_blóðnasir.flac
+05692329cd1d31fd6f5677e4c0ba849f  flac/09_festival.flac
+2f0ae9357e419a88fe4075dfcae7e701  flac/10_varúð.flac
+1f7a68d6a20da2c4d5aaaea5fce5ceca  flac/11_hafsól.flac
+05ae8fc19963e8464cbf11cb4033e511  flac/12_encore_break.flac
+884f657624f2af3b57783e84c0b7e676  flac/13_ekki_múkk.flac
+568cb4b7b8f557d0e2d1fd8289466022  flac/14_glósóli_false_start.flac
+5a4cf41d628932e5af156b04d39c32a2  flac/15_glósóli.flac
+eaed9f956b8876dd73b52ae80b4e66e3  flac/16_popplagið.flac
+c021a0deeb235755cbf2c4e60b86b700  flac/17_curtain_call.flac
+3743d3f01ea315d4ee1ff1a39fc45d5d  flac/checksums.ffp
+
+
+NOTES:
+
+After a month spent hiking over the remote, beautiful hills and combing the
+secluded beaches of Shetland, there can't be a more fitting gig to return home
+for than that of Sigur Rós, themselves returning to live work after a four
+year hiatus. Jónsi's solo work was pleasant filler in the interim, but this is
+the real thing.
+
+Although it felt as if I hadn't been to a gig for several months, it had
+really only been a little over one month. Actually, it hadn't even been that
+long, because whilst in Shetland, I went to see Maggie Adamson and Brian
+Nicholson playing at the Fiddle Frenzy in Lerwick's Garrison Theatre (a gig I
+sadly wasn't able to tape).
+
+After a month of 16°C or lower, Amsterdam feels horribly muggy. The Sigur Rós
+gig had sold out within minutes and I knew it was going to be packed to the
+rafters tonight.
+
+The last time the band were here, they played in the much larger Heineken
+Music Hall and easily filled it. This time, rather surprisingly, the band have
+instead opted for two nights in the Paradiso. Given the paucity of dates the
+band are playing on the European leg of their tour, I feel extremely lucky
+that they have chosen to play not one, but two of them in Amsterdam.
+
+The band take to the stage at 20:30 sharp with no support. It's nice to see
+that they have swollen to include a string section again, along with some
+brass. The stage is packed with musicians and equipment. Bassist Georg Hólm's
+younger brother, none other than For A Minor Reflection's Kjartan Hólm,
+replaces Kjartan Sveinsson on this tour, the latter having had enough of
+touring.
+
+For every fan, there's a unique, ideal set-list; but it's never the one
+actually played. Tonight, however, the chosen repertoire comes close to
+approximating my dream set-list for the band. Off the top of my head, I can't
+think of any changes I would make. Or is that just because I can never
+remember the titles?
+
+Old material nestles harmoniously next to new, the transitions from one period
+to the next effortless and natural. Surprisingly, new album 'Valtari' donates
+only two of its eight tracks to the cause tonight.
+
+It's hard to pick highlights, the band peaking during the first number and not
+letting up until the lights came up after the customary curtain call.
+
+If I had to choose highlights, I would picky 'Sæglópur' and 'Hoppípolla', my
+personal favourites. After those had been performed, everything else was
+merely icing on the cake.
+
+The set was closed with an astonishingly powerful, fifteen minute rendition of
+'Popplagið' that has the hairs on the back of my neck standing on end as I
+listen to it now on the recording. It's a veritable avalanche of sound, Jónsi
+thrashing the guitar with his bow, bass and drums thundering the song along to
+its inevitable cathartic crescendo, heralded by brass. Dazzling.
+
+My batteries were running on vapour by the end of the two hour set. I didn't
+think I was going to make it to the end, but somehow stayed afloat to catch
+everything. Bless you, NiMH.
+
+The Paradiso was roasting hot last night. I was glad to get out onto the
+street and bike home for a cold shower before mastering the gig.
+
+Very little has been done to the recording, because very little was needed.
+I've attenuated some audience noise between songs, but the supercardioids did
+a good job of that at source, anyway.
+
+The band were mixed to perfection and the recording reflects this. There's not
+much I can say about this record of the gig, other than that it sounds
+fantastic to my ears, on a par with the Patti Smith recording I made in the
+same venue before the summer holiday.
+
+This recording is, without a shadow of a doubt, amongst my very best work. I
+have no hesitation whatsoever in strongly encouraging you to worsen your share
+ratio to acquire it. And, should there be any doubt in your mind, samples are
+provided to whet your appetite.
+
+I'll be back in the Paradiso again this evening for more of the same.

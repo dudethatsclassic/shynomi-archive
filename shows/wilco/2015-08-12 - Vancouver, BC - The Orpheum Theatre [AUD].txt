@@ -1,0 +1,82 @@
+Wilco w/Jenny Lewis
+Wednesday August 12th 2015
+The Orpheum Theatre
+601 Smithe Street
+Vancouver BC Canada
+
+Taper:  LeifH
+Source:  CSB (filter) > Zoom H1 @ 24/48 > Scandisk 16GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, amplify, tracking, downsample to 16/44.1) > flac (8) Frontend
+
+Setlist:  2:17:28
+00 EKG 
+01 More...
+02 Random Name Generator
+03 The Joke Explained
+04 You Satellite
+05 Taste the Ceiling
+06 Pickled Ginger
+07 Where Do I Begin
+08 Cold Slope
+09 King of You
+10 Magnetized
+11 Handshake Drugs
+12 Kamera
+13 Muzzle of Bees
+14 Art of Almost
+15 At Least That's What You Said
+16 Hummingbird
+17 Secret of the Sea 
+18 Heavy Metal Drummer
+19 I'm the Man Who Loves You
+20 Dawned on Me
+21 Via Chicago
+22 Jesus, Etc.
+23 Born Alone
+24 Impossible Germany
+25 The Late Greats
+
+26 Misunderstood
+27 I'm Always in Love
+28 It's Just That Simple
+29 War on War
+30 California Stars
+31 A Shot in the Arm
+
+I went to this show without being very familiar with Wilco.  Another taper, Seth, couldn't make it and offered me his ticket if I'd go and record.  So thanks to him for making this recording possible.
+
+Jenny Lewis and her band opened the show, and played on the last two encore songs with Wilco.  It was a sold out crowd, and a fairly well behaved audience.  Wilco played one song after another with very little time in between tracks.  They were recording themselves too.  The first 10 songs are what makes up their latest studio album.  
+
+fingerprints:
+00 - EKG.flac:8176a6fcfcc2fa5c57300aec469e88e3
+01 - More.flac:3712486cff48ca6f17b3ad71fcbfc9b9
+02 - Random Name Generator.flac:b4e28494d12936ad9f07dc3bbb75596e
+03 - The Joke Explained.flac:0c91312be7b327ed42b2c6e736bd4ed4
+04 - You Satellite.flac:cd5fdd4ae33e93d188831639c6aba7b5
+05 - Taste the Ceiling.flac:025bed87c2985cfd9c7e1703012c9a76
+06 - Pickled Ginger.flac:4700889c4eaa069fa92b278961ca2d1f
+07 - Where Do I Begin.flac:c124f692587301b4b79f4c467273f924
+08 - Cold Slope.flac:de0b02ce1b35f7c3ea9e6621f191b906
+09 - King of You.flac:6f03ceccc0de62a12203a60f2132b94c
+10 - Magnetized.flac:28618d85b9fbc98e15f861353ff77fe5
+11 - Handshake Drugs.flac:f61211c968446ebcc4da6034af1e8b7c
+12 - Kamera.flac:8f33a3a3475e67598bdf71727cf8095b
+13 - Muzzle of Bees.flac:2111fd341312436595f80d2f55c2bf2e
+14 - Art of Almost.flac:a45db014bbd2efc2cbcd69bbb3a1b62d
+15 - At Least That's What You Said.flac:edcd6991ab547781a18cd147ccfd9460
+16 - Hummingbird.flac:d46d772733c1d13e8216bcc571a954e1
+17 - Secret of the Sea.flac:2c66018a81ea216efb52b7c3131bfe60
+18 - Heavy Metal Drummer.flac:dc2bdc7bd4d59c02a8f8b246f2f9ed77
+19 - I'm The Man Who Loves You.flac:6119fd7dfddfd80272f2d645131e24cb
+20 - Dawned On Me.flac:860ee79c482fd94729ef6130ba3d63af
+21 - Via Chicago.flac:16dd49c0748823e6cb90e291f2e79ae9
+22 - Jesus etc.flac:768139ad7b397f21306c6cc2e214e91f
+23 - Born Alone.flac:2b6c500de96ab3355e630e362f2f2328
+24 - Impossible Germany.flac:a963bfa479ad1a999a9d6fc28450351f
+25 - The Late Greats.flac:cdb914ad2a75b0682efa88f5ff3ed4be
+26 - Misunderstood.flac:2625d990373e39c4baad0878036993f8
+27 - I'm Always in Love.flac:ddef717ef55bc571feb34438d98c2d26
+28 - Its Just That Simple.flac:bb66ba5e558d4862e42cfe9fac7bcd7f
+29 - War on War.flac:bb67e79d7481fc88a34371bcda91d307
+30 - California Stars.flac:8b2fb3d1f8c410d2906976f0f8c63e58
+31 - A Shot in the Arm.flac:91689139b83a54970bf5d124c64ebbd2

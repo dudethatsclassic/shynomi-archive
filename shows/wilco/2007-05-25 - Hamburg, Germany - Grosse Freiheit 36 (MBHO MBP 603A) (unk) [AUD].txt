@@ -1,0 +1,42 @@
+WILCO
+Grosse Freiheit 36 - Hamburg, Germany
+May 25, 2007
+
+source: MBHO MBP 603A / KA200N > Sound Devices MP-2 > Edirol R-09
+location: inside soundboard cage, 2m stand
+mic config: DIN (20cm, 90º)
+record format: 24bit/48.0kHz 
+conversion: SD card reader > USB 2.0 > PC
+final format: 16bit/44.1kHz
+editing: WaveLab v5.00 (3db boost, fades, resample, dither using UV22 HR)
+tracking: CDWave v1.93  
+
+tracklist:
+-CD1-
+01. You Are My Face
+02. I Am Trying to Break Your Heart
+03. Handshake Drugs
+04. A Shot in the Arm
+05. At Least That's What You Said
+06. Side with the Seeds
+07. War on War
+08. Via Chicago
+09. Pot Kettle Black
+10. Hummingbird
+11. Jesus, etc.
+12. Walken
+13. Theologians >
+14. I'm the Man Who Loves You
+
+-CD2-
+(encore #1)
+01. Impossible Germany
+02. Sky Blue Sky
+03. Poor Places >
+04. Spiders (Kidsmoke)
+(encore #2)
+05. What Light
+06. The Late Greats
+07. I'm a Wheel
+
+SBE's found & fixed!

@@ -1,0 +1,107 @@
+Dave Matthews Band
+Mid Florida Credit Union Amphitheatre At The Florida State Fairgrounds
+Tampa, Florida
+5/26/2026
+
+Source: Schoeps CCM4'S>Sound Devices Mix-Pre 6 II (48/32)
+BOB/DRFC/KFC/ZFC/AARP Section 15, Row A, Between Seats 21 & 22. 7' High
+DSP: Sound Devices Mix-Pre 6 II>Sound Forge 18.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000
+Recorded By: Z-Man
+Seeded By: Z-Man
+Taper's Assistant: K-Mac
+
+Show #128 Of 2026
+
+A Team Dirty South And Home Team Recording
+
+Disc I 
+
+01 So Much To Say >
+02 Anyone Seen The Bridge >
+03 Too Much 
+04 So Right 
+05 Busted Stuff
+06 Monsters 
+07 Grey Street
+08 Lying In The Hands Of God 
+09 American Baby Intro 
+10 American Baby
+11 Drive In Drive Out 
+12 Stolen Away On 55th & 3rd 
+13 Warehouse
+14 The Maker 
+15 You & Me
+16 You Might Die Trying  
+17 Shake Me Like A Monkey 
+18 *Crash Into Me 
+19 Halloween 
+Encore:
+20 Dave Banter
+21 #Peace On Earth
+22 @Don't Drink The Water
+
+* Dave Solo Acoustic
+# With Dixie Chicken Lyrics
+@ With This Land Is Your Land Lyrics
+
+Dave Matthews - Acoustic Guitar, Electric Guitar And Vocals
+Tim Reynolds - Electric Guitar
+Steffan Lassard - Bass
+Buddy Strong - Keyboards And Vocals
+Jeff Coffin - Saxophone, Flute, Clarinet, And Vocals
+Rashawn Ross - Trumpet And Vocals
+Carter Buford - Drums And Vocals
+
+dmb2026-05-26d01t01.flac:b5a7beae2f85e539ff015216367e4437
+dmb2026-05-26d01t02.flac:70b4b6180c7c214122b0be6c47f09f35
+dmb2026-05-26d01t03.flac:a677a25309a7e67d42c96bcd00813e73
+dmb2026-05-26d01t04.flac:8b2917f2545165ec6efe18c54d559566
+dmb2026-05-26d01t05.flac:b3cbc9bf36c585dee6f59e35f6566a17
+dmb2026-05-26d01t06.flac:af33e64a49388cf6debf62b9dc5e1cdd
+dmb2026-05-26d01t07.flac:75fe1f691f774d84884ae81a1f6259c1
+dmb2026-05-26d01t08.flac:2b2812161899db672f179e274309b64a
+dmb2026-05-26d01t09.flac:dcf4d33e612e833dfac8c2d0f6753f5f
+dmb2026-05-26d01t10.flac:2b2fe6943c7206c18e2b0c6c44ae4410
+dmb2026-05-26d01t11.flac:0e966fb3b27f42ba9988448f493db786
+dmb2026-05-26d01t12.flac:bc96fbd0e87a34b1fa0b1fd03c869a48
+dmb2026-05-26d01t13.flac:d4f8f9c5702841da82af47b190333f9b
+dmb2026-05-26d01t14.flac:4de7b806121f67f0501d12cea1f18e0f
+dmb2026-05-26d01t15.flac:c35681ad5b9e47931d43a6b15b6f6dd3
+dmb2026-05-26d01t16.flac:7ad28d196fc77e7228c4a712fdd74405
+dmb2026-05-26d01t17.flac:fe1335ee89d10b865559e10e7593c568
+dmb2026-05-26d01t18.flac:d17df634f8968b22da5383ff133764e9
+dmb2026-05-26d01t19.flac:0b20625d6312d403ef2d5446b7639d52
+dmb2026-05-26d01t20.flac:c6a3a516e45f5c32d176c1512a7bdee9
+dmb2026-05-26d01t21.flac:d7d11fddfb98a3d7af8808646185fcf0
+dmb2026-05-26d01t22.flac:0cbed053f1640c2b9d0aac25299c2354
+
+ length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:48.16       50840876 B   ---   --   ---xx   flac  0.5208  dmb2026-05-26d01t01.flac
+     1:25.46       15102236 B   ---   --   ---xx   flac  0.5479  dmb2026-05-26d01t02.flac
+     7:12.32       76280108 B   ---   --   ---xx   flac  0.5559  dmb2026-05-26d01t03.flac
+     7:37.10       80638364 B   ---   --   ---xx   flac  0.5348  dmb2026-05-26d01t04.flac
+     6:17.57       66636908 B   ---   --   ---xx   flac  0.4805  dmb2026-05-26d01t05.flac
+     6:50.22       72375788 B   ---   --   ---xx   flac  0.5106  dmb2026-05-26d01t06.flac
+     8:27.69       89597132 B   ---   --   ---xx   flac  0.5598  dmb2026-05-26d01t07.flac
+     7:38.46       80899436 B   ---   --   ---xx   flac  0.4890  dmb2026-05-26d01t08.flac
+     5:29.57       58169708 B   ---   --   ---xx   flac  0.4779  dmb2026-05-26d01t09.flac
+     6:22.70       67549484 B   ---   --   ---xx   flac  0.5185  dmb2026-05-26d01t10.flac
+     7:27.56       78982556 B   ---   --   ---xx   flac  0.5025  dmb2026-05-26d01t11.flac
+     6:38.13       70237820 B   ---   --   ---xx   flac  0.4573  dmb2026-05-26d01t12.flac
+    11:28.52      121485548 B   ---   --   ---xx   flac  0.5263  dmb2026-05-26d01t13.flac
+     7:30.53       79504700 B   ---   --   ---xx   flac  0.4832  dmb2026-05-26d01t14.flac
+     5:07.37       54241868 B   ---   --   ---xx   flac  0.5075  dmb2026-05-26d01t15.flac
+     9:51.10      104275964 B   ---   --   ---xx   flac  0.5215  dmb2026-05-26d01t16.flac
+     4:40.15       49427324 B   ---   --   ---xx   flac  0.5293  dmb2026-05-26d01t17.flac
+     5:44.25       60740444 B   ---   --   ---xx   flac  0.5294  dmb2026-05-26d01t18.flac
+     5:28.66       58014476 B   ---   --   ---xx   flac  0.5689  dmb2026-05-26d01t19.flac
+     1:26.26       15231596 B   ---   --   ---xx   flac  0.4110  dmb2026-05-26d01t20.flac
+     4:36.70       48851084 B   ---   --   ---xx   flac  0.4056  dmb2026-05-26d01t21.flac
+     7:32.07       79749308 B   ---   --   ---xx   flac  0.5524  dmb2026-05-26d01t22.flac
+   139:43.30     1478832728 B                            0.5135  (22 files)
+
+
+
+
+

@@ -1,0 +1,52 @@
+Wilco 
+June 24, 2005
+Agganis Arena 
+Boston, MA
+
+Source: AKG 480b/ck63 > Oade W/+ mod UA-5 > Nomad JB3
+Location: Floor sec. 4, Row G (left of center)
+Editing: CD-Wave (tracking), Cool Edit Pro 2.1 (fades)
+Taper: PGrow (PG)
+
+Disc 1 [59:25]
+
+01 Airline To Heaven 
+02 I'm The Man Who Loves You 
+03 A Shot In The Arm 
+04 Hell Is Chrome 
+05 Handshake Drugs 
+06 Company In My Back 
+07 I Am Trying To Break Your Heart 
+08 Heavy Metal Drummer 
+09 Muzzle Of Bees 
+10 At Least That's What You Said 
+11 Jesus, Etc. 
+12 Theologians 
+
+Disc 2  [61:45]
+
+01 I'm Always In Love 
+02 Sunken Treasure 
+03 Spiders (Kidsmoke) 
+
+Encore 1:
+04 Misunderstood 
+05 War On War 
+06 The Late Greats 
+07 Kingpin 
+
+Encore 2:
+08 Hummingbird 
+09 I'm A Wheel 
+10 Outtasite (Outta Mind) 
+11 I Shall Be Released
+
+
+edit: I have misplaced the original FLAC set from Via Chicago but I had to made three corrections anyway, 
+repair done on d1t07@0:23, d2t01@3:35 and d2t07@3:08 [fixed drop outs]
+
+this is a mono recording, at least my copy is, that accounts for the small file size
+
+additional lineage: FLAC > CD > EAC > Soundforge 7.0 > TLH >FLAC
+
+(2009-08-24)

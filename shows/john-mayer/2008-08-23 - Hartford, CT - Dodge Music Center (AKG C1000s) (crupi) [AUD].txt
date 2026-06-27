@@ -1,0 +1,37 @@
+John Mayer
+August 23, 2008
+Dodge Music Center
+Hartford, CT
+
+Source: AKG C1000S (hyper caps, x-y @ ~ 15 ft) > Custom Canare Star Quad mic cables > V3 @ 24/48.1, hpf2, ANSR  > Belkin PureAVSilver Series Optical > PCM-D50
+
+Transfer: Sony PCM-D50 > USB 2.0 >Sound Forge 9.0
+
+Processing:  tracked, dithered to 16 bit,  resampled to 44.1khz, db+ & selected fades in Sound Forge 9.0
+
+Conversion:  to flac @ level 8, align boundries and ffp generated in Tapers Little Helper  
+
+Recorded and processed by Crupi, except tracked by Jennings (axomxa@comcast.net)
+
+Disc I
+01 Belief
+02 Vultures
+03 Crossroads
+04 I Don't Trust Myself
+05 Dreaming With A Broken Heart
+06 Stop This Train
+07 Daughters
+08 Free Falling
+09 Mercy
+
+Disc II
+No Such Thing > Georgia
+I'm Gonna Find Another You
+Stiched Up
+"Prang"
+Bigger Than My Body
+Band Intros
+Gravity
+E 1: Can't Always Get What You Want > In Repair
+E 2: Waiting On The World To Change
+E 3: Say	

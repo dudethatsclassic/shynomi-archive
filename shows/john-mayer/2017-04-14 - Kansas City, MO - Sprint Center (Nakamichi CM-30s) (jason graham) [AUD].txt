@@ -1,0 +1,40 @@
+John Mayer
+April 14, 2017 - Friday
+Sprint Center, Kansas City, MO
+
+01. Intro
+02. Helpless
+03. Moving On and Getting Over
+04. Love on the Weekend
+05. Who Says
+06. Slow Dancing in a Burning Room
+07. Acoustic Intro
+08. Daughters
+09. Walt Grace's Submarine Test, January 1967
+10. Free Fallin'
+11. Trio Intro
+12. Vultures
+13. Who Did You Think I Was
+14. Crossroads
+15. Full Band Reprise Intro/Banter
+16. Queen of California
+17. Rosie
+18. Stop This Train
+19. Still Feel Like Your Man
+20. Banter/Band Intros
+21. Why Georgia
+22. break
+23. E: The Heart of Life
+24. Gravity
+25. E2: You're Gonna Live Forever in Me
+26. Outro
+
+Source: Nakamichi CM-300s/CP-1s > XLRs > DR-70D(Mic) > WAV(24bit/48khz) > Audacity(amplified, dithered/resampled) > WAV(16bit/44.1khz) > CD Wave Editor(tracked) > FLAC8(TLH) > Foobar2000(tagged)
+
+Location: Back of floor behind board cage, ~5' ROC, ~7' high
+
+Notes: CM-300s pointed outside of stacks, powered with 12V each, and connected to inputs 3-4 on recorder via GAKables custom XLRs. DR-70D gain set to low.
+
+Taper: Jason Graham(jagraham84ATgmailDOTcom)
+
+Thanks to John Mayer and the Sprint Center for allowing this recording. I would also like to commend Mayer's fans on a kind act a few years ago. My last Mayer show was at Sandstone Amphitheater in Bonner Springs, KS in 2013. My mom died 4 days after the show and our last conversation was regarding Mayer acknowledging my FOB taping stand. After a couple weeks I got around to posting the recording and received many nice messages from Mayer fans that had noticed my story. This note is a thank you for that. It really meant a lot to me at the time, and I had too much going on to get back to any of you. I hope you all get some enjoyment out of these recordings.

@@ -1,0 +1,69 @@
+Dave Matthews Band
+Deer Creek Music Center
+Noblesville, IN
+August 13, 2021
+
+Taper:  bersey
+Location:  Section G, Row G, Right Stack-ish, mics about 12' high
+Source:  CA-11 cardioids > CA-9100 > Sony PCM-M10 @ 24 bit/48kHz
+Conversion:  Sony PCM-M10 > PC > Sony Sound Forge Audio Studio 9.0 (fades, normalize)  
+             > CD Wave Editor (tracking) > Trader's Little Helper (encode to flac,
+             level 6) > foobar 2000 (tagging)
+
+**************************************************************************************
+**********************DO NOT DISTRIBUTE IN LOSSY FORMATS LIKE MP3*********************
+********************RECORDING IS NOT FOR SALE OR ANY COMMERCIAL USE*******************
+**************************************************************************************
+
+01. Tripping Billies	                     06:50.00
+02. Grace Is Gone                            06:53.00
+03. Dancing Nancies                          09:55.00
+04. Warehouse                                09:47.00
+05. Sweet                                    07:10.00
+06. The Only Thing *                         06:48.00
+07. #41                                      11:12.00
+08. The Best of What's Around                07:27.00
+09. Do You Remember                          05:53.00
+10. So Damn Lucky                            12:01.00 
+11. Shake Me Like a Monkey                   05:51.00
+12. Write a Song                             05:51.00 
+13. Louisiana Bayou                          09:16.00
+14. Davespeak (Singing From the Windows)     02:22.00
+15. Singing From the Windows ~               03:23.00 
+16. Proudest Monkey                          07:12.00
+17. Satellite                                06:18.00
+18. You Might Die Trying                     10:57.00
+19. Corn Bread                               06:45.00
+20. Ants Marching                            09:04.00
+21. Encore Break                             07:02.00
+22. Granny                                   04:30.00
+23. Bass Intro...                            01:21.00
+24. All Along the Watchtower ^               08:32.00 
+     
+Total:                                     2:52:20.00
+
+
+Notes:
+- Original show date of 6.19.20, postponed to 6.18.21
+  due to COVID-19 pandemic then rescheduled to 8.13.21
+- some wind noise present on recording but generally
+  not noticeable when band is playing, if I felt it
+  was unacceptable, I wouldn't share the recording
+* song debut
+~ Dave solo
+^ Bob Dylan cover with Stairway to Heavan interpolation
+
+
+Dave Matthews Band:
+Dave Matthews - acoustic guitar, electric guitar, ukulele, vocals
+Carter Beauford - drums, percussion, backing vocals
+Stefan Lessard - electric bass guitar
+Tim Reynolds - electric guitar
+Jeff Coffin - saxophones, flute, backing vocals
+Rashawn Ross - trumpet, backing vocals
+Arthur "Buddy" Strong - keys, backing vocals
+
+
+Thanks to Dave Matthews Band and Deer Creek for letting me tape the show!
+
+Compiled by Kurt Berwanger on August 15, 2021

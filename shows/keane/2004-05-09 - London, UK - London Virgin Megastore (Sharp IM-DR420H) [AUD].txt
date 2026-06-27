@@ -1,0 +1,29 @@
+Keane
+London Virgin Megastore
+9th May 2004
+
+Sharp IM-DR420H(S) LP2 MASTER / Sony ECM-TS125 mic -> Standalone Phillips CDR775 Recorder -> Maxell CDR-74M
+
+EAC -> WAV -> tracks renamed -> FLAC Front End
+
+Late night launch show for Hopes And Fears album. Followed by post-midnight purchase and signing of the album
+
+Setlist
+
+1. Can't Stop Now
+2. Everybody's Changing
+3. Bend And Break
+4. We Might As Well Be Strangers
+5. Somewhere Only We Know
+6. This Is The Last Time
+7. Bedshaped
+
+Fingerprints:
+
+01 Can't Stop Now.flac:0a6c36ffbb0eb5fb8abe3f5daafea9f4
+02 Everybody's Changing.flac:4b431baa7ebe156838beaf5a742bd40f
+03 Bend And Break.flac:ff0034d32c300f69c7089f85a7f794c3
+04 We Might As Well Be Strangers.flac:7d4acb4740a5e154f51f3900bfc0d176
+05 Somewhere Only We Know.flac:546689c10c02c7cb9c7dc287ef1890ea
+06 This Is The Last Time.flac:65d609b1bc217f02470af3317964dd17
+07 Bedshaped.flac:6fe66e6af3620ac4b9302c2e17d1ea25

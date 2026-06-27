@@ -1,0 +1,65 @@
+The Black Crowes
+The Fillmore
+San Francisco, CA
+December 19, 2008
+
+** 16 BIT **
+
+Source:  SP-CMC-8 cardioids > SP-SPSB-7 battery box > Edirol R-09 @ 16 bit/44.1 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 130 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded by:  Chris Bold
+Mastered by:  Dennis Orr
+
+Setlist: (1:57:32)
+01 Intro/Crowd
+02 Cursed Diamond
+03 Horsehead
+04 Goodbye Daughters Of The Revolution
+05 Hotel Illness
+06 Comin' Home
+07 Under A Mountain
+08 Bring On, Bring On
+09 Girl From A Pawnshop
+10 Girl From The North Country
+11 Good Friday
+12 Title Song
+13 Bewildered
+14 Soul Singing
+15 Hard To Handle
+16 Wounded Bird
+17 Encore Break
+- Encore -
+18 God's Got It
+19 Can't You Hear Me Knocking
+20 Crowd
+
+Chris Robinson – lead vocals, harmonica, & guitars
+Rich Robinson – guitars & backing vocals
+Luther Dickinson – guitars & harmonica
+Sven Pipien – bass & backing vocals
+Adam MacDougall – keyboards & backing vocals
+Steve Gorman – drums & percussion
+Charity White - backing vocals
+Mona Lisa Young - backing vocals
+
+tbc2008-12-19t01.flac:48736706eebb0475aef965335461b409
+tbc2008-12-19t02.flac:ba3135c4411b66c029a5859c51bacd83
+tbc2008-12-19t03.flac:414111921d28649fd3e714f53055e83a
+tbc2008-12-19t04.flac:89e26c38176d193d0a587ce6612815fd
+tbc2008-12-19t05.flac:1a26edf84e13b8b9c13621f0c2ab7978
+tbc2008-12-19t06.flac:22eb0b502f659dbed99282c54fc866d5
+tbc2008-12-19t07.flac:e117d06085593ec6504a8848b5e4dfad
+tbc2008-12-19t08.flac:e4757adcb187e4d0f8a14ed78ca8827a
+tbc2008-12-19t09.flac:5aab50a5a305fa7e64f17389f89d4ff0
+tbc2008-12-19t10.flac:70d7aa1add8925730476825050bb498a
+tbc2008-12-19t11.flac:7d5213f3fda54d554f07d5e0e9cb963f
+tbc2008-12-19t12.flac:bf51006cf9a69e45a46a177c75f381d5
+tbc2008-12-19t13.flac:659d940b01c434d34ede70086bfa212f
+tbc2008-12-19t14.flac:5356e54915db5661f1ef521438a3afb2
+tbc2008-12-19t15.flac:942a4fb969b4a23caa027c292f542d9a
+tbc2008-12-19t16.flac:fa275e1740d221e32295568016c47057
+tbc2008-12-19t17.flac:49a8643007cab1fd9060d4955617f575
+tbc2008-12-19t18.flac:2057da3b26f3c394549257268bf139ae
+tbc2008-12-19t19.flac:d95f44bd615719ecc6f091aea4dc36f3
+tbc2008-12-19t20.flac:9d0b4471ca9554b2bdc9c4f1bd84ad83

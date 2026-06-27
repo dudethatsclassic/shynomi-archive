@@ -1,0 +1,96 @@
+Garbage
+Moscow, Russia, Crocus City Hall
+2015/11/11
+
+Source: AUD
+Quality: Very Good
+Generation : MASTER
+
+Taped by: Orion34 (Oleg Ku.) with Roland R05 + SP-CMC-8, mounted on baseball cap
+(thanks to ironfelix for these mics)
+
+Lineage: WAV (24 bit/48 kHz) -> Adobe Audion (High pass filter 40Hz order 6, autopan) -> GoldWave (track 01-02: treble boost: 6kHz +3db, 15kHz +3db; 
+track 03-04: treble boost: 6kHz +3db, 15kHz +2db; 
+track 05: treble boost: 6kHz +2db, 15kHz +2db
+track 06: no EQ;
+track 07-12: treble boost: 6kHz +2db, 15kHz +2db
+track 13-24: no EQ;
+all tracks: reducing peaks and maxmatch) -> WAV 24 bit/48 kHz -> FLAC files
+
+Setlist:
+
+01 Alien Sex Fiend (intro).flac
+02 Subhuman.flac
+03 Supervixen.flac
+04 Queer.flac
+05 Girl Don't Come.flac
+06 As Heaven Is Wide.flac
+07 Butterfly Collector.flac
+08 Not My Idea.flac
+09 Driving Lesson.flac
+10 Milk.flac
+11 Fix Me Now.flac
+12 My Lover's Box.flac
+13 Sleep.flac
+14 Dog New Tricks.flac
+15 Vow.flac
+16 A Stroke Of Luck.flac
+17 Only Happy When It Rains.flac
+18 Stupid Girl.flac
+19 N1 Crush.flac
+
+Encore:
+
+20 Shirley speaks.flac
+21 Trip My Wire.flac
+22 Kick My Ass.flac
+23 Cherry Lips.flac
+24 Push It.flac
+
+Total time: 1:53:44
+
+Note by Orion34:
+
+I’ve been into Garbage since 1998, from their Version 2.0 and frankly I’ve always thought it to be their best output. But I cannot but agree that their self-titled debut Garbage is the absolute classic. So I was more than excited to learn the band was going to present a setlist consisting of 95-96 songs and to include never-played-before B-sides!
+
+The gig was fabulous. I deeply respect that the band that perfectly performed that many ‘new’ tracks (if compared to the earlier setlists. ‘Cause if we think of it, the band never played lots of these songs since late 90s! Shirley made a small mistake in the played-to-death Milk. I’ve always wondered how it is possible for her to remember lyrics to the rarely performed tracks and make errors in popular ones, which they play almost @ every gig (for instance, it happened to Cheery Lips @ the latest gig I attended in Moscow).
+
+Some stats.
+
+Songs that were never performed live before (correct me if I’m wrong): Butterfly Collector, Sleep – B-sides; Driving Lesson (album version). Songs they haven’t played for a long time and which I personally thought I would never witness live: Subhuman, Girl Don't Come, Trip My Wire, As Heaven As Wide, My Lover's Box, Sleep, Dog New Tricks, A Stroke Of Luck.
+
+As always, Shirley, was very talkative. She was constantly complimenting the Russian audience for some kind of special support of the band. She mentioned it last time in Moscow in 2012, and frankly I cannot understand what she was talking about? What support? I doubt the Russian fans differ that much from any other fans around the globe. But I cannot say it was not pleasant to hear these words! :-)) And one more thing to mention – she was very good at uttering names of the Russian cities the band had visited before: "We've been to Samara, Novosibirsk, Nizhny Novgorod...". The latter name is especially difficult to pronounce for a foreigner, but not for Shirley, she put it easily and as if she were Russian! :-)
+
+--------------------------------------------------------------------------------------------------
+
+The same story in russian:
+
+Я слушаю Garbage с 1998-ого, с их второго альбома Version 2.0 и, пожалуй, его я всегда считал 
+лучшим. Но не могу не согласиться с тем фактом, что их первый альбом, selftitled "Garbage" - 
+абсолютная классика. Так что я был очень рад, когда узнал, что в Москве будет сыграна программа 
+полностью состоящая из песен периода 1995-1996, включая никогда ранее не исполнявшиеся 
+би-сайды!
+
+Концерт мне очень понравился. Очень уважаю группу за то, что они безупречно сыграли такое 
+количество (фактически, по сравнению с концертами последних туров) нового материала. Ведь если 
+вдуматься, большую часть песен они не играли с конца 90-х годов! Ширли ошиблась только в 
+заигранной до дыр "Milk". Меня всегда удивляло, что она отлично помнит не так часто исполняемые 
+вещи и ошибается в популярных, играющихся на почти на каждом концерте (на прошлом московском концерте,
+где я был, это была песня Cherry Lips, например).
+
+Немного статистики.
+Песни, никогда ранее не игравшиеся на концертах (насколько я знаю): Butterfly Collector, Sleep, 
+(би-сайды); Driving Lesson (альбомная).
+Песни, давно не игравшиеся и которые, я был уверен, лично я никогда в живую не услышу: 
+Subhuman, Girl Don't Come, Trip My Wire, As Heaven As Wide, My Lover's Box, Sleep, Dog New Tricks, 
+A Stroke Of Luck.
+
+Ширли, как всегда, была очень общительна на концерте. Она не уставала благодарить российских 
+поклонников за какую-то особенную поддержку группы. Ширли и в прошлый раз (в 2012-ом) говорила 
+об этом же на московском концерте, но лично я не могу взять в толк, о какой особенной поддержке 
+она говорит, так как с моей точки зрения наши поклонники ни чем от любых других поклонников не 
+отличаются. Впрочем, конечно, слушать об этом приятно! :-)) И должен отметить, что у неё 
+отлично получилось произнести названия российских городов, в которых Garbage играли в прошлом: 
+"We've been in Samara, Nizhny Novgorod, Novosibirsk...". Нижний Новгород - это русское название 
+особенно сложно для иностранного произношения, но Ширли удалось произнести его просто и 
+непринуждённо и понятно для русского! :-)

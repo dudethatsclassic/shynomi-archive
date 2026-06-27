@@ -1,0 +1,35 @@
+John Mayer
+Tarble Athletic and Recreation Center
+Carthage College
+Kenosha, WI
+Saturday, March 27, 2004
+ 
+Source: AKG CK93 > SE300b (DIN @ 70*) > UA-5 (stock) > Wavelab 4.0g @ 24-bit/48kHz
+ 
+Transfer: Wavelab 4.0g (6sec. fades applied to beginning and end of show, applied 60Hz bass roll off, increased gain during quiet segments, resample, dither) > CDWave 1.92 > FLAC
+ 
+Taped & transfered by Allan Short (mirth AT rafansrule DOT org)
+
+Disc 1:
+01. Bigger Than My Body
+02. No Such Thing
+03. Something's Missing
+04. Still Raining, Still Dreaming * (jam)
+05. City Love
+06. Back to You
+07. Daughters
+ 
+Disc 2:
+01. John talking
+02. Clarity
+03. My Stupid Mouth
+04. (So Excited +) » Come Back to Bed
+05. Your Body Is a Wonderland
+06. Why Georgia
+07. Neon
+08. Hummingbird
+09. 83
+
+* The Jimi Hendrix Experience cover
++ Stevie Ray Vaughan and Double Trouble cover
+

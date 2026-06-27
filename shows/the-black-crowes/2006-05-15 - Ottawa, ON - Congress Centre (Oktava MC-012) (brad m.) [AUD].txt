@@ -1,0 +1,36 @@
+Black Crowes
+Monday, May 15, 2006
+Congress Centre, Ottawa, ON
+
+Source: matched Oktava MC-012 (cardioid,-10db,ORTF) > Edirol UA-5 (Oade digi-mod,44.1kHz) > optical > Creative Nomad JB3 (WAV)
+Transfer: Creative Nomad JB3 > SB1394 > Creative Soundblaster Audigy > CDWav > Shorten-3.5.1
+
+d1t01 intro
+d1t02 Virtue And Vice
+d1t03 Wiser Time >
+d1t04 Greasy Grass River
+d1t05 bunker into garden banter
+d1t06 Girl From The North Country[1]
+d1t07 By Your Side
+d1t08 Girl From A PawnShop
+d1t09 You've Got To Hide Your Love Away[2]
+d1t10 My Morning Song
+
+d2t01 L.A.[3]
+d2t02 Share The Ride
+d2t03 Mellow Down Easy[4]
+d2t04 High Head Blues
+d2t05 Soul Singing
+d2t06 Remedy
+d2t07 applause/call for encore
+d2t08 She Talks To Angels
+
+[1] Bob Dylan cover.
+[2] The Beatles cover.
+[3] Neil Young cover.
+[4] Little Walter cover.
+
+Notes:
+1. The mics were on a stand 9' up, at the front-right corner of the sound booth.
+
+Taped and transferred by BradM (bradmcmail@yahoo.ca).

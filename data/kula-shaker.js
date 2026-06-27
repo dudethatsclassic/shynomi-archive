@@ -73,9 +73,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Bristol, UK",
       "venue": "Rough Trade Records",
-      "notes": "SP-CMC-9 · boombox",
+      "notes": "SP-CMC-9 \u00b7 boombox",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-02-05 - Bristol, UK - Rough Trade Records (SP-CMC-9) (boombox) [AUD].flac.txt"
     }
   ],
   "misc": []

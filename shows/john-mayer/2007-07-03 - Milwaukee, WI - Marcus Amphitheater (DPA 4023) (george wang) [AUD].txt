@@ -1,0 +1,43 @@
+John Mayer
+Summerfest
+Marcus Amphitheater
+Milwaukee, WI
+Tuesday July 3, 2007
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA4023 > Sound Devices 722 @ 24/96
+Location:	Sec 2 Row Q Seat 50, 14th row stage right stack
+
+WAV > FLAC:	.wav @ 24/96 > Steinberg WaveLab v5.00a (dither with Apogee
+		UV22HR to 16/44.1)
+
+Disc One:
+
+01: Intro					-	01:30.133
+02: Belief					-	06:17.400
+03: No Such Thing				-	04:12.866
+04: Good Love Is On The Way			-	04:39.733
+05: I Don't Trust Myself (With Loving You)	-	10:28.266
+06: Neon					-	07:37.733
+07: Dreaming With A Broken Heart		-	04:47.533
+08: Waiting On The World To Change		-	04:10.333
+09: I Don't Need No Doctor			-	09:29.400
+10: Why Georgia					-	04:49.600
+
+Total:						-	58:03.000
+
+Disc Two:
+
+01: Intro >					-	00:33.133
+02: Vultures					-	07:24.133
+03: Bigger Than My Body				-	04:54.866
+04: Intro >					-	02:51.400
+05: Gravity					-	13:45.000
+06: Slow Dancing				-	04:31.266
+07: Your Body Is A Wonderland			-	05:00.200
+08: I'm Gonna Find Another You			-	06:32.533
+09: Outro					-	00:56.466
+
+Total:						-	46:29.000
+
+compiled by George Wang on 08-04-2007

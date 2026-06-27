@@ -1,0 +1,65 @@
+Everclear
+October 27th, 2025.
+The House of Blues - 
+Cleveland, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   20ft back from right stack; mics mounted on baseball hat brim.
+Source:     SP-CMC-8 Cardioids (4.7k mod) > SP-SPSB-11 (@16Hz) > Sony PCM-A10 (24 bit @48kHz) >
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Sony PCM-A10 > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+*** "Sparkle And Fade" 30th Anniversary ***
+---------------------------------------------------------------------------------------------------------
+Total Time: (1:28:49)
+
+01. Electra Made Me Blind			3:30
+02. Heroin Girl					2:40
+03. You Make Me Feel Like A Whore		5:14
+04. Father Of Mine				5:38
+05. Summerland					7:17
+06. Strawberry					3:33
+07. Heartspark Dollarsign			3:00
+08. Everything To Everyone			5:02
+09. Communication Breakdown ^			3:17
+10. The Twistinside				4:47
+11. Her Brand New Skin				2:09
+12. Nehalem					2:45
+13. Queen Of The Air				5:23
+14. Wonderful					6:19
+15. Pale Green Stars				4:21
+16. Chemical Smile				3:10
+17. My Sexual Life				4:59
+18. So Much For The Afterglow			6:43
+19. I Will Buy You A New Life			4:09
+20. Santa Monica *		 		4:51
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+^  Features Scott Lucas (Local H) on lead vocals.
+*  Joined by Vinnie Dombroski (Sponge) on lead vocals.
+
+Everclear are touring in support of their "Sparkle And Fade" record which is
+celebrating 30 years in 2025. They are playing the full album interspliced
+throughout the set. Art Alexakis has been pretty vocal about his MS diagnosis
+9 years ago, so its a blessing he is still going out and playing live. I have
+been fairly hard on him over the years (I saw a few of their Summerland tours),
+and haven't seen them since 2017 because - well, they bored the hell outta me.
+But, lowering my expectations (greatly) for this while knowing we were going
+to get a lot of deep tracks from one of their best records had me a little
+excited. They definitely delivered a good show (not great) and Freddy Herrera
+did a wonderful job (no pun intended) giving Art some breaks every few songs
+to speak to the crowd and thank the opening bands, etc. Some of it was a bit
+repetitive and monotonous, but I get why they were doing it. Art's vocals
+were a tad high in the mix, so keep that in mind when listening. I also had
+to boost the bass (which is rare for rock shows) to get this sounding better.
+iZotope RX7 was used to remove some screams, whoos, and yelps when needed.
+
+Sponge and Local H opened. [both recorded].
+
+---------------------------------------------------------------------------------------------------------
+For more information on Everclear, please visit:
+
+http://www.everclearonline.com/

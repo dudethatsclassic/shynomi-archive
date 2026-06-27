@@ -1,0 +1,55 @@
+Wilco
+Webster Bank Arena 
+Bridgeport, Connecticut
+July 19, 2013
+
+01. (Was I) In Your Dreams 
+02. When The Roses Bloom Again 
+03. Misunderstood 
+04. Forget The Flowers 
+05. Handshake Drugs 
+06. Nothing'severgonnastandinmyway(again) 
+07. I Am Trying To Break Your Heart 
+08. One Wing 
+09. Impossible Germany 
+10. Waterloo Sunset
+11. California Stars 
+12. Born Alone 
+13. Radio Cure 
+14. Art Of Almost 
+15. Heavy Metal Drummer 
+16. I'm The Man Who Loves You 
+
+Band Members
+Jeff Tweedy - vocals, guitar
+Nels Cline - guitar
+Glenn Kotche - drums
+Pat Sansone - guitar
+John Stirratt - bass
+Mikael Jorgensen - keyboards
+
+Comments
+"Nothingsevergonnastandinmywayagain", "Waterloo Sunset" and "California Stars" with Lucius
+
+source: soomlos
+side stage bleachers
+audio technica 853's > 3-wire battery box > sony pcm-m10 (24/48)
+sony pcm-m10 > usb > pc > sound forge pro 10 > cd wave editor > flac (16/44.1)
+
+ffp
+wilco2013-07-19t01.flac:c7dca38ab91eaaadd68b937b7ab33302
+wilco2013-07-19t02.flac:e4803df022cca0c69b9b2a486546113b
+wilco2013-07-19t03.flac:ed913a09dfb93ca481b074c25e24b6e6
+wilco2013-07-19t04.flac:86a070da2d610c52215a2193ca0b8544
+wilco2013-07-19t05.flac:4fa39f33069ec81c657b9fef4a0d1cbf
+wilco2013-07-19t06.flac:1c50c78215af8471d435225be97a4d80
+wilco2013-07-19t07.flac:e15e52c4a97e1bbd052e3b85ebd34005
+wilco2013-07-19t08.flac:f0a1a241b5fcfab534afc98d3d1f49b5
+wilco2013-07-19t09.flac:712474c08e6fcccca31b5fbc2595e1eb
+wilco2013-07-19t10.flac:bb6885b5aafb1a45219ef65f7572b25d
+wilco2013-07-19t11.flac:0241c18dc4ee160db90f5d530d374cc3
+wilco2013-07-19t12.flac:05ad91c7f2045ebd48d59abefb17828e
+wilco2013-07-19t13.flac:87a0336b024685e4bb93c56f9c9813b3
+wilco2013-07-19t14.flac:0ffbfa44cffb803ab582c90c4d6faef6
+wilco2013-07-19t15.flac:355b087aa17dfdea37d37985887f1b07
+wilco2013-07-19t16.flac:94f3f9aa4e45f069023a84af6318b8a6

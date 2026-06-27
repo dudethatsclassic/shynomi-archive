@@ -1,0 +1,34 @@
+Everclear
+House of Blues
+Lake Buena Vista(Orlando), FL
+March 4, 1998
+
+Source:
+unknown soundboard recording >cd-r >cd-r(2)
+>EAC >wave >TLH >FLAC(level 8).
+
+Set/Track List:
+1. So Much for the Afterglow
+2. You Make Me Feel Like a Whore
+3. Electra Made Me Blind
+4. El distorto de Melodica
+5. Like a California King
+6. Amphetamine
+7. Strawberry
+8. Heartspark Dollarsign
+9. My Sexual Life
+10. Father of Mine
+11. I Will Buy You a New Life
+12. Everything to Everyone
+13. Santa Monica
+14. Heroin Girl
+15. Normal Like You
+16. The Twistinside
+17. Summerland
+18. Local God
+19. Sin City
+
+Notes:
+Obtained in a snail-mail trade in 2003. There is a steep frequency dropoff at
+10khz but the frequencies continue beyond 21khz. Perhaps this is really an
+iem feed or some low-pass output from the board...

@@ -1,0 +1,164 @@
+Jimmy Page and The Black Crowes
+2000.06.30
+Holmdel, New Jersey US
+PNC Bank Art Center
+
+Soundboard Recording
+"Excess All Areas 2000!" - Watchtower (WT 2001015/2001016)
+
+Lineage: My silvers > EAC > FLAC > TLH > 
+Tested for SBE's > FLAC Level 8
+
+Disc 1
+101 - The Wanton Song
+102 - Misty Mountain Hop
+103 - Hots on for Nowhere
+104 - No Speak No Slave
+105 - Sick Again
+106 - What is and What Should Never Be
+107 - Horsehead
+108 - Oh Well
+109 - Ten Years Gone
+110 - In My Time of Dying
+
+Disc 2
+201 - Your Time is Gonna Come
+202 - Remedy
+203 - The Lemon Song
+204 - In the Light
+205 - Shapes of Things
+206 - Nobody's Fault but Mine
+207 - Heartbreaker
+208 - Bring it on Home
+209 - She Talks to Angels
+210 - Out on the Tiles
+211 - Whole Lotta Love
+
+Artwork, FLAC fingerprint, MD5 verification, Spectral Analysis, and Frequency Analysis files are included.
+----------------------------------------------------------------------------------------------------------
+Thanks to Amduscia for this!
+----------------------------------------------------------------------------------------------------------
+
+101 - The Wanton Song.flac:  audio data is cut on a sector boundary.
+102 - Misty Mountain Hop.flac:  audio data is cut on a sector boundary.
+103 - Hots on for Nowhere.flac:  audio data is cut on a sector boundary.
+104 - No Speak No Slave.flac:  audio data is cut on a sector boundary.
+105 - Sick Again.flac:  audio data is cut on a sector boundary.
+106 - What is and What Should Never Be.flac:  audio data is cut on a sector boundary.
+107 - Horsehead.flac:  audio data is cut on a sector boundary.
+108 - Oh Well.flac:  audio data is cut on a sector boundary.
+109 - Ten Years Gone.flac:  audio data is cut on a sector boundary.
+110 - In My Time of Dying.flac:  audio data is cut on a sector boundary.
+201 - Your Time is Gonna Come.flac:  audio data is cut on a sector boundary.
+202 - Remedy.flac:  audio data is cut on a sector boundary.
+203 - The Lemon Song.flac:  audio data is cut on a sector boundary.
+204 - In the Light.flac:  audio data is cut on a sector boundary.
+205 - Shapes of Things.flac:  audio data is cut on a sector boundary.
+206 - Nobody's Fault but Mine.flac:  audio data is cut on a sector boundary.
+207 - Heartbreaker.flac:  audio data is cut on a sector boundary.
+208 - Bring it on Home.flac:  audio data is cut on a sector boundary.
+209 - She Talks to Angels.flac:  audio data is cut on a sector boundary.
+210 - Out on the Tiles.flac:  audio data is cut on a sector boundary.
+211 - Whole Lotta Love.flac:  audio data is cut on a sector boundary.
+
+There were no sector boundary errors.
+
+101 - The Wanton Song.flac:  tested ok (file is decodable without error).
+102 - Misty Mountain Hop.flac:  tested ok (file is decodable without error).
+103 - Hots on for Nowhere.flac:  tested ok (file is decodable without error).
+104 - No Speak No Slave.flac:  tested ok (file is decodable without error).
+105 - Sick Again.flac:  tested ok (file is decodable without error).
+106 - What is and What Should Never Be.flac:  tested ok (file is decodable without error).
+107 - Horsehead.flac:  tested ok (file is decodable without error).
+108 - Oh Well.flac:  tested ok (file is decodable without error).
+109 - Ten Years Gone.flac:  tested ok (file is decodable without error).
+110 - In My Time of Dying.flac:  tested ok (file is decodable without error).
+201 - Your Time is Gonna Come.flac:  tested ok (file is decodable without error).
+202 - Remedy.flac:  tested ok (file is decodable without error).
+203 - The Lemon Song.flac:  tested ok (file is decodable without error).
+204 - In the Light.flac:  tested ok (file is decodable without error).
+205 - Shapes of Things.flac:  tested ok (file is decodable without error).
+206 - Nobody's Fault but Mine.flac:  tested ok (file is decodable without error).
+207 - Heartbreaker.flac:  tested ok (file is decodable without error).
+208 - Bring it on Home.flac:  tested ok (file is decodable without error).
+209 - She Talks to Angels.flac:  tested ok (file is decodable without error).
+210 - Out on the Tiles.flac:  tested ok (file is decodable without error).
+211 - Whole Lotta Love.flac:  tested ok (file is decodable without error).
+
+No errors occured.
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:58.63       42131420 B   ---   --   ---xx   flac  0.6195  101 - The Wanton Song.flac
+     5:16.16       55780076 B   ---   --   ---xx   flac  0.6108  102 - Misty Mountain Hop.flac
+     4:56.43       52315580 B   ---   --   ---xx   flac  0.5896  103 - Hots on for Nowhere.flac
+     4:49.06       50993756 B   ---   --   ---xx   flac  0.6013  104 - No Speak No Slave.flac
+     5:18.73       56266940 B   ---   --   ---xx   flac  0.5813  105 - Sick Again.flac
+     5:53.34       62349212 B   ---   --   ---xx   flac  0.5450  106 - What is and What Should Never Be.flac
+     5:05.26       53863196 B   ---   --   ---xx   flac  0.5940  107 - Horsehead.flac
+     4:37.49       48978092 B   ---   --   ---xx   flac  0.5280  108 - Oh Well.flac
+     7:13.26       76442396 B   ---   --   ---xx   flac  0.5206  109 - Ten Years Gone.flac
+    11:04.24      117186092 B   ---   --   ---xx   flac  0.5552  110 - In My Time of Dying.flac
+     7:09.37       75762668 B   ---   --   ---xx   flac  0.5370  201 - Your Time is Gonna Come.flac
+     6:11.39       65536172 B   ---   --   ---xx   flac  0.5965  202 - Remedy.flac
+     9:24.55       99619004 B   ---   --   ---xx   flac  0.5847  203 - The Lemon Song.flac
+     9:38.35      102041564 B   ---   --   ---xx   flac  0.5543  204 - In the Light.flac
+     3:31.12       37248668 B   ---   --   ---xx   flac  0.5358  205 - Shapes of Things.flac
+     7:01.05       74276204 B   ---   --   ---xx   flac  0.5520  206 - Nobody's Fault but Mine.flac
+     7:19.58       77576060 B   ---   --   ---xx   flac  0.5425  207 - Heartbreaker.flac
+     5:39.28       59865500 B   ---   --   ---xx   flac  0.5162  208 - Bring it on Home.flac
+     6:57.07       73575308 B   ---   --   ---xx   flac  0.4789  209 - She Talks to Angels.flac
+     3:30.42       37142828 B   ---   --   ---xx   flac  0.5644  210 - Out on the Tiles.flac
+     6:49.41       72244076 B   ---   --   ---xx   flac  0.5138  211 - Whole Lotta Love.flac
+   131:26.44     1391194812 B                            0.5556  (21 files)
+
+No errors occured.
+
+MD5
+f7e34ecc9e642df0b70e07711172d25c *101 - The Wanton Song.flac
+7bf9cc26676ce2217f3b53de406bc9fb *102 - Misty Mountain Hop.flac
+8995a43d6c3ec4bf1cef51fdea8bd952 *103 - Hots on for Nowhere.flac
+1e2e2a95333c1c1cf424b9e5f90cff50 *104 - No Speak No Slave.flac
+fc465acd824ef5ca2d29134a7e45a941 *105 - Sick Again.flac
+12f37351f6e5b127a0c62f6caba528ca *106 - What is and What Should Never Be.flac
+fbdae25ac937cfe76ad3d91bbf786b7b *107 - Horsehead.flac
+4dcf004635dc001b0687d27e55b46a86 *108 - Oh Well.flac
+9454948af101e44e72a6bb9aad771e73 *109 - Ten Years Gone.flac
+09f1dee87147329e03a7660cd3b3aa90 *110 - In My Time of Dying.flac
+4c24315cc62718515344d39ed49f588b *201 - Your Time is Gonna Come.flac
+329c4355869ddd07c4ff81edf1dd862d *202 - Remedy.flac
+478871d15d0b63eb067903b22395f880 *203 - The Lemon Song.flac
+8edb8e0bbec22aefe5a5093a2e81dba7 *204 - In the Light.flac
+9499e11e4adbb686fed588989a1dd9b7 *205 - Shapes of Things.flac
+91b95bdd98c8e04a3c6145c6ac5a9986 *206 - Nobody's Fault but Mine.flac
+44833c1b89480dce792ea0c5acad9b05 *207 - Heartbreaker.flac
+aeb2c303b8d48fb06ab763b600dd3254 *208 - Bring it on Home.flac
+65dd4e8ae7465c52c053f2bbef6c8c38 *209 - She Talks to Angels.flac
+986f7ec8c9f257b7cd97593cf3063d1d *210 - Out on the Tiles.flac
+dd7f99670932fbe0192f2f99aca27859 *211 - Whole Lotta Love.flac
+
+No errors occured.
+
+FFP
+101 - The Wanton Song.flac:37fa86cc800098c2dc3905825384d017
+102 - Misty Mountain Hop.flac:d37ae2004b811ad720a3540faa7a4087
+103 - Hots on for Nowhere.flac:9ca07eed276eb387997f71e0ae792277
+104 - No Speak No Slave.flac:49fead273949664358bd9483f9e8d403
+105 - Sick Again.flac:3eb3e600effabd48e95dba380badaa48
+106 - What is and What Should Never Be.flac:d6dd6ef309d3050b3bbaf90e247967c9
+107 - Horsehead.flac:83cb6e7ba06d626a1083d97601bc822b
+108 - Oh Well.flac:bed392a666a7b8850c2f5ee6463300a1
+109 - Ten Years Gone.flac:be9e7d288a060184c0caae4c63998489
+110 - In My Time of Dying.flac:6b1a18d5ca39d351868694c6e6c9ecf3
+201 - Your Time is Gonna Come.flac:ff64f02606cb06eea03bc12dfd234a47
+202 - Remedy.flac:0ad58af4dc2adc8e15101a43f7ea597e
+203 - The Lemon Song.flac:8afe6d8fd4b40e9cc79da58f918dd1c2
+204 - In the Light.flac:7321f1158965906c2b561243d47f97e4
+205 - Shapes of Things.flac:1f366039935448520195a2c3bfbd462b
+206 - Nobody's Fault but Mine.flac:011c93e9f4c21545b810ed1797f27c1f
+207 - Heartbreaker.flac:fea0a1ca07254c103de271c2234d87d5
+208 - Bring it on Home.flac:407ef77f786ef5880e8d5168e64f1c2c
+209 - She Talks to Angels.flac:e5c41224fd4e3cf7c82b566ed790ae35
+210 - Out on the Tiles.flac:490069c8d693648d81c320014a68be1f
+211 - Whole Lotta Love.flac:ef5044f3a835ba929f0ffe589550faa5
+
+No errors occured.

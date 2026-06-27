@@ -1,0 +1,44 @@
+GARBAGE
+2018-09-17
+E-Werk
+Köln, Germany
+
+Source:     Schoeps MK41V > NBob actives > Naiant tinybox > Sony PCM-M10
+Mic Config: DIN-A (90°, 17cm)
+Location:   7m from the stage, right side
+Transfer:   Master WAVs > dEdit > FLAC V1.3.2
+Editing:    Digital editing in Apple Logic Pro X V10.3.1
+            EQ, compression and volume boost using iZotope Ozone7 V7.0.1299
+            Fades in Audiofile Engineering Wave Editor V1.5.7
+Dithering:  MBIT+
+Format:     16 bit / 44.1 kHz
+
+Disc 1:
+01 (Intro)
+02 Afterglow
+03 Deadwood
+04 Temptation Waits
+05 Wicked Ways / Personal Jesus [Depeche Mode]
+06 Special
+07 The World Is Not Enough
+08 13x Forever / Tired of Waiting for You [The Kinks] (tease)
+09 Get Busy with the Fizzy
+10 Hammering in My Head
+11 Medication
+12 Thirteen [Big Star]
+13 Can't Seem to Make You Mine [The Seeds]
+14 I Think I'm Paranoid
+
+Disc 2:
+01 Sleep Together
+02 Dumb
+03 Soldier Through This
+04 Lick the Pavement
+05 Push It
+06 When I Grow Up
+07 You Look So Fine / Dreams [Fleetwood Mac] (tease)
+08 (Encore Break)
+09 (Banter)
+10 The Trick Is to Keep Breathing
+11 No Horses
+12 Cherry Lips (Go Baby Go!)

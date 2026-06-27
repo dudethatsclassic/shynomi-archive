@@ -1,0 +1,13 @@
+golden smog
+theater of living arts, philadelphia pa
+april 16, 1996
+
+a 'billydee' DAT Master
+
+recording gear:
+Schoeps CMC4/MK41 > Custom Power Supply > Sony D7 DAT Master @ 16bit/32kHz
+
+processing:
+DAT Master > tascam da20 > waveterminal > adobe audition > cdwav > tlh flac 8
+
+these are 16bit/32kHz flac files

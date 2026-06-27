@@ -1,0 +1,41 @@
+Jeff Tweedy
+
+December 10, 2013
+
+Jackson Hall
+Mondavi Center
+Davis, CA
+
+AK40 (Orchestra Terrace Right) >> LC3 >> KM100 >> Tinybox (w/OT) >> M-10 >> WAV @ 24bit/48KHz
+
+Adobe Audition 3.0 >> parallel compression >> Ozone 4 VST >> loudness maximizer >> multi-band exciter >> stereo image >> dither to 16 bit (MBIT+) >> WAV >> conversion to 44.1 KHz with r8brain >> WAV >> FLAC conversion with TLH
+
+01 Via Chicago
+02 I Am Trying to Break Your Heart
+03 Remember the Mountain Bed
+04 New Madrid
+05 A Long Time Ago
+06 Dawned on Me
+07 Bull Black Nova
+08 You Are Not Alone 		(Mavis Staples cover)
+09 The Ruling Class 		(Loose Fur song)
+10 So Much Wine (Butterfly)     (The Handsome Family cover)
+11 At Least That's What You Said
+12 I'm Always in Love
+13 Spiders (Kidsmoke)
+14 Radio King		        (Golden Smog song)
+15 Forget the Flowers
+16 (banter)
+17 Born Alone
+18 Jesus, Etc.
+19 Laminated Cat	        (Loose Fur song)
+
+Encore:
+20 California Stars
+21 Heavy Metal Drummer
+22 The Thanks I Get
+23 I'm the Man Who Loves You
+24 A Shot in the Arm
+
+Encore 2:
+25 Acuff-Rose 			(off-mic)

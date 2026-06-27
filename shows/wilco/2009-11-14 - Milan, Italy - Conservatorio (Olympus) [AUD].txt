@@ -1,0 +1,31 @@
+Wilco001intro.flac:  successfully fixed/rewritten to 'Wilco001intro-fixed.flac'.
+Wilco002 Ashes Of American Flag.flac:  successfully fixed/rewritten to 'Wilco002 Ashes Of American Flag-fixed.flac'.
+Wilco003 Mountain Bed.flac:  successfully fixed/rewritten to 'Wilco003 Mountain Bed-fixed.flac'.
+Wilco004 Company In My Back.flac:  successfully fixed/rewritten to 'Wilco004 Company In My Back-fixed.flac'.
+Wilco005 Bull Black Nova.flac:  successfully fixed/rewritten to 'Wilco005 Bull Black Nova-fixed.flac'.
+Wilco006 You Are My Face.flac:  successfully fixed/rewritten to 'Wilco006 You Are My Face-fixed.flac'.
+Wilco007 I Am Trying to break your heartne Wing.flac:  successfully fixed/rewritten to 'Wilco007 I Am Trying to break your heartne Wing-fixed.flac'.
+Wilco008 One Wing.flac:  successfully fixed/rewritten to 'Wilco008 One Wing-fixed.flac'.
+Wilco009 A Shot In My Arm.flac:  successfully fixed/rewritten to 'Wilco009 A Shot In My Arm-fixed.flac'.
+Wilco010 Side With The Seed .flac:  successfully fixed/rewritten to 'Wilco010 Side With The Seed -fixed.flac'.
+Wilco011 Deeper Down.flac:  successfully fixed/rewritten to 'Wilco011 Deeper Down-fixed.flac'.
+Wilco012 Misunderstood.flac:  successfully fixed/rewritten to 'Wilco012 Misunderstood-fixed.flac'.
+Wilco013 Impossible Germany.flac:  successfully fixed/rewritten to 'Wilco013 Impossible Germany-fixed.flac'.
+Wilco014 Via Chicago.flac:  successfully fixed/rewritten to 'Wilco014 Via Chicago-fixed.flac'.
+Wilco015 talk.flac:  successfully fixed/rewritten to 'Wilco015 talk-fixed.flac'.
+Wilco016 California Stars.flac:  successfully fixed/rewritten to 'Wilco016 California Stars-fixed.flac'.
+Wilco017 Handshake Drugs.flac:  successfully fixed/rewritten to 'Wilco017 Handshake Drugs-fixed.flac'.
+Wilco018 Sonny Feeling.flac:  successfully fixed/rewritten to 'Wilco018 Sonny Feeling-fixed.flac'.
+Wilco019 talk.flac:  successfully fixed/rewritten to 'Wilco019 talk-fixed.flac'.
+Wilco020 Jesus, Ect.flac:  successfully fixed/rewritten to 'Wilco020 Jesus, Ect-fixed.flac'.
+Wilco021 Hate It Here.flac:  successfully fixed/rewritten to 'Wilco021 Hate It Here-fixed.flac'.
+Wilco022 I'm The Masn Who Loves You.flac:  successfully fixed/rewritten to 'Wilco022 I'm The Masn Who Loves You-fixed.flac'.
+Wilco023 Hummingbird.flac:  successfully fixed/rewritten to 'Wilco023 Hummingbird-fixed.flac'.
+Wilcoe1 The Late Greats.flac:  successfully fixed/rewritten to 'Wilcoe1 The Late Greats-fixed.flac'.
+Wilcoe2 Heavy Metal Drummer.flac:  successfully fixed/rewritten to 'Wilcoe2 Heavy Metal Drummer-fixed.flac'.
+Wilcoe3 PoorPlaces.flac:  successfully fixed/rewritten to 'Wilcoe3 PoorPlaces-fixed.flac'.
+Wilcoe4 Reservations.flac:  successfully fixed/rewritten to 'Wilcoe4 Reservations-fixed.flac'.
+Wilcoe5 Spiders.flac:  successfully fixed/rewritten to 'Wilcoe5 Spiders-fixed.flac'.
+Wilcoe6 I'm A Wheel.flac:  successfully fixed/rewritten to 'Wilcoe6 I'm A Wheel-fixed.flac'.
+
+Padded last file with 1488 zero-bytes.

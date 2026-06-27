@@ -1,0 +1,83 @@
+John Mayer
+March 13, 2023
+TD Garden - Boston, MA
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 24/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 10 II (32 Bit Float @ 96)
+Location: Rear of FOH, DFC, Mics PAS @ 10'
+Editing: WAV > Reaper 6.78 (Gain, Mixing, Normalizing, Resample 32/48) > Audacity 3.2.5 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. Assassin¹
+03. Mayer Speak: Hello Boston
+04. XO²³
+05. Mayer Speak: Explore My Wife's Wonderland
+06. Waitin' on the Day³
+07. January 16, 2002⁴
+08. No Such Thing
+09. Neon⁵
+10. Whiskey, Whiskey, Whiskey³⁶
+11. Mayer Speak: One Spot Haircut
+12. Your Body Is a Wonderland
+13. Mayer Speak: Overconfident or Overcompensating
+14. Driftin'
+15. Mayer Speak: You're Not Done
+16. Walt Grace's Submarine Test, January 1967
+17. New Light (Partial)⁷ >
+18. You're Gonna Live Forever in Me⁷
+19. Changing⁷
+20. In Your Atmosphere⁹
+21. Mayer Speak: Remember Me When You Go Platinum⁰
+22. Stop This Train⁰
+23. Slow Dancing in a Burning Room
+24. The Age of Worry
+25. Mayer Speak: Anxietyᵇ
+26. 3x5
+27. If I Ever Get Around to Livingᶜ
+28. Edge of Desireᶜ
+29. Encore Break
+30. Wheelᵈ
+31. Free Fallin'ᵉ
+
+Set Time: [02:11:37.798]
+
+John Mayer: Vocals, Guitars, Piano, Harmonica
+
+Notes:
+
+¹ with "Shot in the Dark" snippet
+² Beyoncé cover
+³ John Mayer on Harmonica
+⁴ Promo video from the Room for Squares Tour at Tower Records on Sunset Boulevard in Hollywood, CA is played on the monitors. The title is taken from the title of the video clip.
+⁵ with extended intro
+⁶ with "Last Goodbye" (Jeff Buckley) snippet
+⁷ John Mayer on Piano
+⁸ with false start, with looped piano & electric guitar outro
+⁹ with "Wherever I Go" outro
+⁰ with "Miss Misery" (Elliot Smith) snippet
+ᵃ with 'Homeward Bound' (Simon & Garfunkel) snippet
+ᵇ with "Ooh La La" (Faces) snippet
+ᶜ John Mayer on Double Neck Acoustic Guitar
+ᵈ John Mayer on Electric Guitar
+ᵉ Tom Petty cover
+
+During "Your Body Is a Wonderland", the video screen did an overlay of unicorns, rainbows, and hearts circling John.
+
+During "Drifting'", the arena spontaneously starting swaying their "lighters" (phone lights) in the air. This caused John to become choked up during the ending portion of the song.
+
+Emoji of a Wave, I'm on Fire, All I Want Is to Be With You, and Dear Marie was on the printed setlist but was not played.
+
+Obnoxious claps and trills in the right channel are courtesy of a drunken fan that was asked several times by security to return to their seat. I made some edits in post to minimize their impact on the recording.
+
+Big thanks to the TD Garden security crew who made this quite possibly one of the best arena taping experiences I've ever had at an arena.
+
+This recording is dedicated to Laura Medeiros, a wonderful security team member at TD Garden that went above and beyond to make sure that people didn't wander near my equipment. Without her help, this recording would be significantly worse.
+
+Compiled on 2023/03/16.

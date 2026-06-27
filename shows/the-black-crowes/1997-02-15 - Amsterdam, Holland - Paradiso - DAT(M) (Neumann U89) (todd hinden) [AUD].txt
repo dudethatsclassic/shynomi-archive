@@ -1,0 +1,63 @@
+
+Cleaning the polluted Crowes waters with source material! 
+
+The Black Crowes 
+February 15, 1997 
+Paradiso
+Amsterdam, Holland
+
+Source: Audience DAT 
+
+Recording Information: Sony TCD-D7 with Neumann U 89 microphones.
+(preamp/power supply unknown)
+ 
+Taper: "Taper" Todd Hinden
+
+Lineage: DAT Master>Digital DAT Clone>WAV>FLAC
+
+Mastering Information: DAT converted to Wave optically via a Prodiff 96 digital 
+soundcard into Wavelab. Downsampled from 48kHz to 44.1kHz in Wavelab. Individual Wave
+tracks created in Wavelab. Wave files converted to FLAC (level 8) using FLAC Frontend.
+
+I have listed below the tracks broken out into what I think would be a correct split to 
+span the show over two 74 or 80 minute CDRs, as the naming convention of the FLAC files
+suggest. Note that the last track on Disc 1 and the first track on Disc 2 can be joined 
+together without a loss of continuity.
+
+DISC 1: 63:54
+
+1. Cursed Diamond
+2. My Morning Song
+3. High Head Blues
+4. Sloppy Drunk
+5. Descending
+6. Jam
+7. Thorn In My Pride
+8. Under A Mountain
+
+DISC 2: 61:46
+
+1. Evil Eye
+2. Tied Up And Swallowed
+3. Oh Sister
+4. Sting Me
+5. How Much For Your Wings?
+6. Hard To Handle
+7. Good Friday
+8. Come On Baby Let's Go Downtown
+9. Remedy
+
+Notes: Additional Show Information @ http://www.crowesbase.com/tapelisting.cfm?TapeID=3
+
+Torrent uploaded to bt.etree.org on 2/27/06.
+
+Please do not manipulate this recording in any way. Please do not dub to analog tape 
+or convert to MP3 and circulate. 
+
+If you are to trade this show, or do a blank CDR+postage offer, please list the lineage 
+to keep the generational waters clean! 
+
+If you would like to re-seed this show in the future, please use the exact flac files,
+fingerprint file and information file.
+
+"A Spider-Web Torrent"

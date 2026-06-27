@@ -1,0 +1,15 @@
+the black crowes
+the fox theater, detroit mi
+march 29, 1995
+
+recording gear:
+modified sony 959a > Sony tcd-d3 DAT Master @ 16bit/48kHz
+
+lineage:
+DAT Master > My DAT
+
+processing:
+my DAT > tascam da20 > jb3 > adobe audition > cdwav > tlh flac 8
+
+these are 16bit/48kHz flac files
+

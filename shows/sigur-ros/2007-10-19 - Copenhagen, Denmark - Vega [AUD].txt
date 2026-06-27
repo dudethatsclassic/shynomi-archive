@@ -1,0 +1,25 @@
+SIGUR RÓS 
+Vega, Copenhagen, DK 
+October 19th, 2007 
+
+Lineage : SP-CMC-2->SP-SPSB-1->iRiver H120 w.rockbox->CEP->Cdwave->FLAC 
+
+setlist: 
+01 intro
+02 ágætis byrjun 6:19 
+03 heima 4:01 
+04 njósnavélin 5:15 
+
+total time: 16:27
+
+The Q/A session took about 45 min but is not included.
+
+Same setlist as other places.
+
+Enjoy, share freely 
+
+Flac fingerprints: 
+SigurRos_071019NFDN01.flac:95c04ee63f991c4a4093e7747913aa92
+SigurRos_071019NFDN02.flac:67728d7b122d6626bad4d13b4c02dac1
+SigurRos_071019NFDN03.flac:bacb372f8260c00c63d1515d605ed966
+SigurRos_071019NFDN04.flac:317cf25a977d66ea0f14410f85c8ac3e

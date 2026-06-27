@@ -1,0 +1,126 @@
+The Black Crowes
+Live in Seattle, WA
+Bumbershoot Festival
+Sat. September 1, 2001
+
+
+Lineage:
+The Black Crowes live onstage > PA system, monitor speakers, and live sound through the outdoor air > either a Sony PC62 or a Sony ECM-DS70P stereo condenser microphone in my hat > Sony WM DC3 Professional Cassette Recording Walkman > Maxell XL-II 90 master tapes > Dolby ON type 2 bias for recording. Playback on Denon DRM500 deck azimuth adjusted Dolby OFF type 1 bias > Sentrek analog EQ (bass warmth and air-y highs) > Soundblaster 16-bit card (grounded and tweaked) > Wavelab 4.0 (tracking and small fades) > CDR > EAC secure extraction > TLH > FLAC8 > TTD > YOU!
+
+
+Notes:
+After seeing their show in Vancouver, B.C. the night before and being so impressed, I felt compelled to follow them to Seattle. As I told you in the info for the Vancouver show, I had seen them in Seattle and Vancouver way back in 1990, and I personally had a very rough night the day before this show, so I was very happy to go for a 3 day weekend of concert attendance! I also got to see Ratdog play and a very energetic show by "Diamond" David Lee Roth! Quite a wild weekend! It almost made up for the shitty experience of getting robbed at knifepoint in my convenience store job the day before. Quite a contrast of experiences in a couple of days!
+
+I was stunned at how many taping rigs were at these shows. Huge mics on 20 or 30 foot stands. Nagra recorders, all manner of DAT machines, a bloody mixer! Mucho dinero! I almost felt out of place with my cruddy little Sony WM DC3. I got on tape what they couldn't get - proximity! I stood about 15 or 20 rows of standing people away from the front of the stage, which was set up on something like a big outdoor football field-ish stadium. When I looked behind me, the soundboard and the open tapers must have been a couple hundred feet behind me. Of course there's more obnoxious crowd noises of drunken festivalgoers who aren't there as fans of TBC, but as rowdy party animals out for anything! What there also is in my (is it called FOB - front of board) recording is a more immediate stage sound, I think. Stealth hat mounted mics and pocket-sized gear over the $25 000+ rig! Well, maybe not, but I was happy with my results.
+
+I originally made this as a 3-disc package for these two shows, Vancouver and Seattle. Each show is a full disc and a part of another. If I had it all to do over, I might edit this differently, but for now this is the only digital version of my analog tapes. I mastered this before I thought of making data backups of anything. There was only the single CDR copy burned, and the wav files deleted from the HDD. EAC seemed to have no problems secure reading them, and they seem to sound fine. There may have been other tapers at these shows, especially the Seattle show (many big rigs), but this is my tape, and this was my only CDR copy ever made. Vancouver's disc one is a little long at a bit over 81 minutes, but most burners will do the overburn fine. If yours doesn't, you'll have to figure out a new track running order. Hard to break up for discs!
+
+I've split the shared disc up to make the set into its 2 concerts to torrent as individual shows. If you grab both concerts, you can assemble the shared disc tracks again. I now notice I mixed the day/month/year and month/day/year formats up a bit. You can still figure out which one it is, though. Oops!
+I also tracked some songs a little funny. You'll notice a few songs like "Thorn In My Pride" has 1, 2 after them. The song went on a tangent, and a jam, and back. One long song - several parts.
+
+I've made scans of some artworthy things like master tapes, autographed tickets, original tape and cdr covers, handbills and stickers, etc., as well as including some photos I got from the Crowesbase.com site. I am pictured in one of them! I also include some text files from there reviewing the show. If you are a Photoshop friendly person and you make up some real covers for this release, please post them where you got this, and please email them to me as well. I love to get artworx for my recordings! Thanks!
+
+If you look below, you will see the song listing. Please don't EnCrap these songs to MP3 files or any other lossy formats, unless it's just for your own use and you sign an oath in blood that you will guard those MPcrap files with your life! Better yet, just SMASH YOUR IPOD, YOU FESTERING NERD! Friends don't let friends listen lossy! Share these files freely, but do not alter the original files in any way. If you're going to Re-Torrent, make new files and add them to these pre-existing ones. Keep this torrent backwards compatible. Keep all these files together, and add your NEW files to this folder. Don't Re-Master, except for your own use. It only makes sense to do a fresh master from the original tapes again one day in 24/96, so wait for that!
+
+Thanks for listening, and look for the other part of this set : The Black Crowes - Live in Vancouver, B.C Orpheum Theatre Friday August 31, 2001
+
+audioarchivist@hotmail.com
+
+
+Here's what Trader's Little Helper spat out about The Black Crowes Bumbershoot Seattle Sept 1 2001 part 1:
+
+
+No need for fixing SBEs (all wav files are already sector-aligned).
+
+TBC01092001D1T01 announcer.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T01 announcer.flac'
+TBC01092001D1T02 intro.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T02 intro.flac'
+TBC01092001D1T03 Midnight From The Inside Out.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T03 Midnight From The Inside Out.flac'
+TBC01092001D1T04 Sting Me.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T04 Sting Me.flac'
+TBC01092001D1T05 Greasy Grass River.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T05 Greasy Grass River.flac'
+TBC01092001D1T06 Remedy.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T06 Remedy.flac'
+TBC01092001D1T07 Jealous Again.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T07 Jealous Again.flac'
+TBC01092001D1T08 Lickin'.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T08 Lickin'.flac'
+TBC01092001D1T09 Sometimes Salvation.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T09 Sometimes Salvation.flac'
+TBC01092001D1T10 By Your Side.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T10 By Your Side.flac'
+TBC01092001D1T11 Young Man Old Man.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T11 Young Man Old Man.flac'
+TBC01092001D1T12 Thorn In My Pride 1.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T12 Thorn In My Pride 1.flac'
+TBC01092001D1T13 Thorn In My Pride 2.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T13 Thorn In My Pride 2.flac'
+TBC01092001D1T14 Soul Singing.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T14 Soul Singing.flac'
+TBC01092001D1T15 Twice As Hard.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T15 Twice As Hard.flac'
+TBC01092001D1T16 Hard To Handle.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T16 Hard To Handle.flac'
+TBC01092001D1T17 Cosmic Friend.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC01092001D1T17 Cosmic Friend.flac'
+TBC20092001D1T18 bonus By Your Side on Conan O'Brien.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC20092001D1T18 bonus By Your Side on Conan O'Brien.flac'
+
+No errors occured.
+
+
+TBC01092001D1T01 announcer.flac:  tested ok (file will decode properly)
+TBC01092001D1T02 intro.flac:  tested ok (file will decode properly)
+TBC01092001D1T03 Midnight From The Inside Out.flac:  tested ok (file will decode properly)
+TBC01092001D1T04 Sting Me.flac:  tested ok (file will decode properly)
+TBC01092001D1T05 Greasy Grass River.flac:  tested ok (file will decode properly)
+TBC01092001D1T06 Remedy.flac:  tested ok (file will decode properly)
+TBC01092001D1T07 Jealous Again.flac:  tested ok (file will decode properly)
+TBC01092001D1T08 Lickin'.flac:  tested ok (file will decode properly)
+TBC01092001D1T09 Sometimes Salvation.flac:  tested ok (file will decode properly)
+TBC01092001D1T10 By Your Side.flac:  tested ok (file will decode properly)
+TBC01092001D1T11 Young Man Old Man.flac:  tested ok (file will decode properly)
+TBC01092001D1T12 Thorn In My Pride 1.flac:  tested ok (file will decode properly)
+TBC01092001D1T13 Thorn In My Pride 2.flac:  tested ok (file will decode properly)
+TBC01092001D1T14 Soul Singing.flac:  tested ok (file will decode properly)
+TBC01092001D1T15 Twice As Hard.flac:  tested ok (file will decode properly)
+TBC01092001D1T16 Hard To Handle.flac:  tested ok (file will decode properly)
+TBC01092001D1T17 Cosmic Friend.flac:  tested ok (file will decode properly)
+TBC20092001D1T18 bonus By Your Side on Conan O'Brien.flac:  tested ok (file will decode properly)
+
+No errors occured.
+
+
+TBC01092001D1T01 announcer.flac:30b70470627353e7e8b0e78332a57ccf
+TBC01092001D1T02 intro.flac:cafd3351f200c715e72f95cbc938d35b
+TBC01092001D1T03 Midnight From The Inside Out.flac:4111e1133bcf45184d57998fd3716d01
+TBC01092001D1T04 Sting Me.flac:f2fff9a346882cc91bfde2f57ba687fa
+TBC01092001D1T05 Greasy Grass River.flac:4740fc319590c910e710acc4aa9afb84
+TBC01092001D1T06 Remedy.flac:59ff6ae26c26937fd0c6d187c2efbdd1
+TBC01092001D1T07 Jealous Again.flac:1995c60783653e9c75b779073c92875c
+TBC01092001D1T08 Lickin'.flac:28f6bc3d458b33f9a88760cb9b815439
+TBC01092001D1T09 Sometimes Salvation.flac:a7e7005d0417f1f4f9cc71865effb162
+TBC01092001D1T10 By Your Side.flac:ed9540587a8ac74544cb6258deb1dc46
+TBC01092001D1T11 Young Man Old Man.flac:a0a4ad40fed744e451c847e2578bbb16
+TBC01092001D1T12 Thorn In My Pride 1.flac:cbac8873286829d48516396b412705f3
+TBC01092001D1T13 Thorn In My Pride 2.flac:dc9037e11241f19b935cde1a8d00e6d3
+TBC01092001D1T14 Soul Singing.flac:db6f6d68cd872cdd6dc70054d74feabc
+TBC01092001D1T15 Twice As Hard.flac:7546f0f59abe619fdcc0bab6e4d23dea
+TBC01092001D1T16 Hard To Handle.flac:ba6ced058404dbc7d6522e5592d922c9
+TBC01092001D1T17 Cosmic Friend.flac:e8aa61e4028676c7eb16f0e3973c91de
+TBC20092001D1T18 bonus By Your Side on Conan O'Brien.flac:fd4603905d8efef784548f736d8bdd4a
+
+No errors occured.
+
+Checksum file saved to disk.
+
+Here's what Trader's Little Helper spat out about The Black Crowes Bumbershoot Seattle Sept 1 2001 part 2:
+
+No need for fixing SBEs (all wav files are already sector-aligned).
+
+TBC09012001D2T13 - encore -.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC09012001D2T13 - encore -.flac'
+TBC09012001D2T14 She Talks To Angels.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC09012001D2T14 She Talks To Angels.flac'
+TBC09012001D2T15 Oh Well.wav:  successfully encoded to 'E:\The Black Crowes Bumbershoot Seattle Sept 1 2001 Audioarchivist Analog Master FLAC\TBC09012001D2T15 Oh Well.flac'
+
+No errors occured.
+
+
+TBC09012001D2T13 - encore -.flac:  tested ok (file will decode properly)
+TBC09012001D2T14 She Talks To Angels.flac:  tested ok (file will decode properly)
+TBC09012001D2T15 Oh Well.flac:  tested ok (file will decode properly)
+
+No errors occured.
+
+
+TBC09012001D2T13 - encore -.flac:3b3105fc87a393dd7c01c496d4eec5d4
+TBC09012001D2T14 She Talks To Angels.flac:1d353baa6b80f7472db35e152a183019
+TBC09012001D2T15 Oh Well.flac:b2cf279c4905d7ffdcf2e74fffe3613d
+
+No errors occured.
+
+Checksum file saved to disk.

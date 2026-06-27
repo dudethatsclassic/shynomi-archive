@@ -1,0 +1,113 @@
+Wilco
+
+Padova, IT
+Gran Teatro Geox
+September 20, 2019
+
+Audience recording
+Neumann km140 > Denecke PS-2 > Marantz PMD661 (16 bit - 44.1 KHz) > Cool Edit > CD Wave
+taper: romeo 
+
+01 Bright Leaves
+02 Before Us
+03 I Am Trying to Break Your Heart
+04 One Wing
+05 One and a Half Stars
+06 If I Ever Was A Child
+07 Handshake Drugs
+08 At Least That's What You Said
+09 You And I
+10 Hummingbird
+11 White Wooden Cross
+12 Via Chicago
+13 How to Fight Loneliness
+14 Bull Black Nova
+15 Reservations
+16 Love Is Everywhere (Beware)
+17 Impossible Germany
+18 California Stars
+19 Box Full of Letters
+20 Everyone Hides
+21 Red Eyed and Blue
+22 I Got You (At the End of the Century)
+23 Hold Me Anyway
+24 Misunderstood
+25 (encore break)
+26 Random Name Generator
+27 Jesus, Etc.
+28 The Late Greats
+29 Heavy Metal Drummer
+30 I'm the Man Who Loves You
+
+total time: 2:14:35
+
+Jeff Tweedy
+John Stirratt
+Glenn Kotche
+Mikael Jorgensen
+Nels Cline
+Pat Sansone
+
+md5 file
+f3e3a2ca73c48c1872b0a776955e6977 *wilco2019-09-20-km140-t01.flac
+4388bdbe33687419cb675623f6e81312 *wilco2019-09-20-km140-t02.flac
+b046212329fe58ea739bacc8e225b128 *wilco2019-09-20-km140-t03.flac
+1e7aaad26340267c4e72eae9a9bbe2b6 *wilco2019-09-20-km140-t04.flac
+91a2b468759f79916e538a892e3f005b *wilco2019-09-20-km140-t05.flac
+c423312133fd2565272ee20b4138096c *wilco2019-09-20-km140-t06.flac
+36896f3535f7f8052000a4f974fd18d9 *wilco2019-09-20-km140-t07.flac
+68f634abd9003593a047f117fd89638d *wilco2019-09-20-km140-t08.flac
+3d06a6e9eca2cef053765aa83d6cfe89 *wilco2019-09-20-km140-t09.flac
+a9c53f2bedea6434d65585e9adecffdd *wilco2019-09-20-km140-t10.flac
+86e6c150c927225d0e7abe95bf3d725b *wilco2019-09-20-km140-t11.flac
+aa2672568a9e88b9546cfbe4511dfffe *wilco2019-09-20-km140-t12.flac
+c5f6df351747491d1f47ef568687c2c3 *wilco2019-09-20-km140-t13.flac
+8334a3056262c8dbb2f68e57b9d094b1 *wilco2019-09-20-km140-t14.flac
+f699eb1251d8e22a70ea87835f5e1978 *wilco2019-09-20-km140-t15.flac
+36586f4d070cff41ffd6111a0215c9a4 *wilco2019-09-20-km140-t16.flac
+0dffbb1bab2225e697b8851954ab6ac3 *wilco2019-09-20-km140-t17.flac
+786c2c33ba1bc78cec4883f264bebed7 *wilco2019-09-20-km140-t18.flac
+a07fb81c7c2c68a4bcaf0104a51fd842 *wilco2019-09-20-km140-t19.flac
+cb64044cf7617f3c359fe8430495ad3f *wilco2019-09-20-km140-t20.flac
+6f2121598f542ab31d8b80d0c60ec763 *wilco2019-09-20-km140-t21.flac
+d88970dc53dfe27f2b068edad83fe92f *wilco2019-09-20-km140-t22.flac
+c5091da2ccd68bb88fd82773ab60b9c1 *wilco2019-09-20-km140-t23.flac
+17629251ca9b15ad2a646a53d3ac0cc2 *wilco2019-09-20-km140-t24.flac
+510f61428b0a7c0bee477dfe7062c884 *wilco2019-09-20-km140-t25.flac
+3b3d38dba557383465adddd586496d38 *wilco2019-09-20-km140-t26.flac
+04b7df1b931f759b9e81c6af022db2be *wilco2019-09-20-km140-t27.flac
+3ee381da5e24a80a2db3bc16fe0518ea *wilco2019-09-20-km140-t28.flac
+866e4652678e5e86f16e116d20e4ec62 *wilco2019-09-20-km140-t29.flac
+7c7f8597a4c4f1f1ebf6b44a781b8f46 *wilco2019-09-20-km140-t30.flac
+
+ffp file
+wilco2019-09-20-km140-t01.flac:8648ca9fc831c2194f27d10ea5ff8575
+wilco2019-09-20-km140-t02.flac:6700820a1972b6991a9d2186386181a7
+wilco2019-09-20-km140-t03.flac:d406ceee90eb5eea020a861544714d9d
+wilco2019-09-20-km140-t04.flac:62f262cefd33e0cbfd6fcc9bb4f9ee76
+wilco2019-09-20-km140-t05.flac:6fdf13fb31d44d305556763cb738ed18
+wilco2019-09-20-km140-t06.flac:e6d88ed2516a3b56253b54bf156070d7
+wilco2019-09-20-km140-t07.flac:aa26f125794ab865586175fae43027b3
+wilco2019-09-20-km140-t08.flac:77a8d9451e6fc300c993b1a5679e5ac2
+wilco2019-09-20-km140-t09.flac:74b3c93de3b7f3f2ec1db91994b8435e
+wilco2019-09-20-km140-t10.flac:8da22e15f4e8e7dc05c96a8386d40388
+wilco2019-09-20-km140-t11.flac:74f0e4d70e20eea9911b4f42ed86c76d
+wilco2019-09-20-km140-t12.flac:97914e9859617f1ed9950ced6d7f383e
+wilco2019-09-20-km140-t13.flac:98dc714ce696c41c7af2d465188bb107
+wilco2019-09-20-km140-t14.flac:d22caa3eaf811bde65b3b93f4af73473
+wilco2019-09-20-km140-t15.flac:2125eb04809e25fac584bdc237cfbea0
+wilco2019-09-20-km140-t16.flac:fc5ab574f8ec715a4577ca22219f859d
+wilco2019-09-20-km140-t17.flac:a281f4632d1d6bd4df002b6f39ea71a0
+wilco2019-09-20-km140-t18.flac:336caaa58ac9d9b65a5e556702307a35
+wilco2019-09-20-km140-t19.flac:3ded1b7797142c0cd3aca7c2f609f25a
+wilco2019-09-20-km140-t20.flac:4da9d8c58b51e488e2d922d81cb61cc0
+wilco2019-09-20-km140-t21.flac:906e1b8a0b567a583fe3d0d39b227c23
+wilco2019-09-20-km140-t22.flac:a9cb4de3b4f97e8a34921cf4a6d6c1cb
+wilco2019-09-20-km140-t23.flac:6e8192a436ea7c33dfe9ab81160056f4
+wilco2019-09-20-km140-t24.flac:5f11d1a13d05857e40081428142899be
+wilco2019-09-20-km140-t25.flac:41d8d9e2e33db87d291f88750e4444a7
+wilco2019-09-20-km140-t26.flac:6f600dd87ec32e6ce78f1d5ade5c03e2
+wilco2019-09-20-km140-t27.flac:7834361bc00f1d91f17675409651e184
+wilco2019-09-20-km140-t28.flac:0b0e99831e9f3117058fe6685e8ba65e
+wilco2019-09-20-km140-t29.flac:944fe68ee6b9154a52d38059202bfd55
+wilco2019-09-20-km140-t30.flac:90564fb2d995afb750f87d75f486698a

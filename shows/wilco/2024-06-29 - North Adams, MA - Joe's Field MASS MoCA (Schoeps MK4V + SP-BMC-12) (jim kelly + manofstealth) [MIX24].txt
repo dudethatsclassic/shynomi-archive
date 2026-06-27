@@ -1,0 +1,92 @@
+Wilco
+Solid Sound Festival
+Joe's Field
+MASS MoCA
+North Adams, MA
+June 29, 2024
+
+** 24 BIT **
+
+Source #1:  Schoeps MK4V radial cardioids (in a Kangol hat) > Nbob actives > Nbox Platinum > Roland R-05 @ 24 bit/48 kHz
+Source #2:  SP-BMC-12 (binaurals) > SP-SPSB-10 battery box > Sony PCM-M10 @ 24 bit/48 kHz
+Mastering:  .WAV's > iZotope RX11 Advanced v11.0.1.3871 (De-Click) > Adobe Audition CC Version 2022, Build 22.2.0.61 (matrix mixdown) > Sound Forge Pro 14.0 Build 140 [minor edits, 
+normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.17 (tagging)
+Locations:  Source #1 - 30 feet behind the SBD, to the left, Source #2 - in front of the right stacks, about 10 feet from the stage
+Recorded by:  Source #1 - Jim Kelly (musicjaime), Source #2 - ManOfStealth
+Mastered by:  Dennis Orr
+
+Setlist: (2:23:43)
+01 Via Chicago
+02 Infinite Surprise
+03 I Am Trying To Break Your Heart
+04 Meant To Be
+05 Annihilation
+06 Whole Love
+07 Say You Love Me (1)
+08 Evicted
+09 Bird Without A Tail / Base Of My Skull
+10 Random Name Generator
+11 At Least That's What You Said
+12 Hell Is Chrome
+13 Spiders (Kidsmoke)
+14 Muzzle Of Bees
+15 Hummingbird
+16 Handshake Drugs
+17 Wishful Thinking
+18 Company In My Back
+19 I'm A Wheel
+20 Theologians
+21 Less Than You Think > 
+22 Noise Jam/Encore Break
+- Encore -
+23 The Late Greats (1)
+24 Jesus, Etc. (1)
+25 Impossible Germany (1)
+26 Chat
+27 Falling Apart (Right Now) (1)
+28 Chat
+29 A Shot In The Arm (1)
+30 Crowd
+
+(1) with Macie Stewart - vocals & violin
+
+Jeff Tweedy - lead vocals, guitars, & bass
+Nels Cline - lead guitar, loops, & lap steel
+Pat Sansone - keyboards, rhythm & lead guitars, backing vocals, synthesizers, maracas, & tambourine
+John Stirratt - bass, guitar, & backing vocals
+Mikael Jorgensen - samples & sound manipulation, keyboards, synthesizers, effects, piano, & organ
+Glenn Kotche - drums & percussion
+
+Mastering Notes:
+The first 30 seconds is Source #2 only
+
+Wilco2024-06-29MATRIX-t01.flac:d7e096a735f2cb3a428774a771ba1a2c
+Wilco2024-06-29MATRIX-t02.flac:4992edd555f2a8416961cbda2d6b661f
+Wilco2024-06-29MATRIX-t03.flac:51cbeac962f4588dff4aa5f0da84c954
+Wilco2024-06-29MATRIX-t04.flac:ea73a94b143c1950f7c9988533a93180
+Wilco2024-06-29MATRIX-t05.flac:625feb690927d3382fd7fb1a9593d8f1
+Wilco2024-06-29MATRIX-t06.flac:789d74feda855e651f36ada4d95f09fd
+Wilco2024-06-29MATRIX-t07.flac:40b905c8c0f06453894937dfccb823d8
+Wilco2024-06-29MATRIX-t08.flac:8918b7ab1e55259574719c896f044aac
+Wilco2024-06-29MATRIX-t09.flac:ec67572a53cf100a57fd378d566b6d3c
+Wilco2024-06-29MATRIX-t10.flac:bcb928e8076781df52ffdb4e9886da59
+Wilco2024-06-29MATRIX-t11.flac:9eed68aca47c5cbc83a6d99e0969f387
+Wilco2024-06-29MATRIX-t12.flac:8b629d119b391f5194433a5875a5cd47
+Wilco2024-06-29MATRIX-t13.flac:151861a14d60c99689618411feb5d30c
+Wilco2024-06-29MATRIX-t14.flac:45a7a6f5c9cf54f8c974222bd33b7d88
+Wilco2024-06-29MATRIX-t15.flac:2b6ceba5de6399b90115f923180a7911
+Wilco2024-06-29MATRIX-t16.flac:346ba0963223227a28a285a825b2b133
+Wilco2024-06-29MATRIX-t17.flac:a5071d49980d49b6a9a753c5ea04bcb5
+Wilco2024-06-29MATRIX-t18.flac:40ed7c3cb6a75802e1ce07c312b883ce
+Wilco2024-06-29MATRIX-t19.flac:901adfc780ac2f1280f77ed2071e97d2
+Wilco2024-06-29MATRIX-t20.flac:49d35043fd6534d5b27a920a95718cfb
+Wilco2024-06-29MATRIX-t21.flac:32e75040c75e2f58e06eb8c7194ca0ef
+Wilco2024-06-29MATRIX-t22.flac:04b5d425ec11fdc7975bd40e2dcdcb9e
+Wilco2024-06-29MATRIX-t23.flac:2e01dbfc82e3684c1897c09183106aca
+Wilco2024-06-29MATRIX-t24.flac:672da7edc336bed21fc5a483b5256523
+Wilco2024-06-29MATRIX-t25.flac:650d5727f781285f836df090042f77f7
+Wilco2024-06-29MATRIX-t26.flac:6eb0fdda5b59aa6cf5f8e4709c414298
+Wilco2024-06-29MATRIX-t27.flac:1081e23f07ecd8025bc1ce6499840541
+Wilco2024-06-29MATRIX-t28.flac:e682c5f750d145899766d2a7fa1b787e
+Wilco2024-06-29MATRIX-t29.flac:e9c9eceeba3d9db31a80a6d076c2afdc
+Wilco2024-06-29MATRIX-t30.flac:2855983165d6f5f633c4f6a0da3f8a37

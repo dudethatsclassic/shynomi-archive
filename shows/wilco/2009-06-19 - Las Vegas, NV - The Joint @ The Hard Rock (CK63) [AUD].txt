@@ -1,0 +1,39 @@
+Wilco
+06/19/09 Joint: Las Vegas, NV
+
+  source: AKG ck63 > JKL DVC > Edirol R09HR
+location: 5' front of balcony, 5' right of center, mics on 9' stand
+ lineage: .wav(M) [24bit 44.1kHz] > .wav [16bit 44.1kHz] > .flac
+transfer: R09HR > USB > Soundforge > CD Wave > FLAC frontend
+encoding: cps 06/22/09
+   edits: +4.9 dB, fade in/out, resample 24bit to 16bit
+comments: none
+
+tracklist:
+
+ 1. Wilco The Song
+ 2. A Shot In the Arm
+ 3. I Am Trying To Break Your Heart
+ 4. At Least That's What You Said
+ 5. Bull Black Nova
+ 6. You Are My Face
+ 7. One Wing
+ 8. Handshake Drugs
+ 9. Side With the Seeds
+10. Box Full of Letters
+11. Jesus, Etc.
+12. Impossible Germany
+13. California Stars
+14. Sunny Feeling
+15. Misunderstood
+16. Spiders (Kidsmoke)
+17. Hummingbird
+18. Heavy Metal Drummer
+19. A Magazine Called Sunset
+20. You Never Know
+21. Hate It Here
+22. Walken
+23. I'm The Man Who Loves You
+24. Late Greats
+25. Casino Queen
+26. Hoodoo Voodoo

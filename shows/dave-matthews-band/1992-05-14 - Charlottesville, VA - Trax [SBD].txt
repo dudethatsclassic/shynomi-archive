@@ -1,0 +1,61 @@
+Dave Matthews Band
+Trax
+Charlottesville, VA
+May 14, 1992
+
+Taper:      	Unknown
+Source Info:    SBD -> Analog (unknown generation) -> CD
+
+Conversion: Adam Nelson (nelso222@msu.edu) & Henry Hart
+
+CD > flac > wav > flac (see notes below): 
+EAC (secure mode, all tracks 100%) -> WAV -> 
+flac frontend (level 6) Tracks split using 
+CD Wave v1.93.3 > wav > AddaWav > Cool Edit Pro v2.1 > 
+CDWav > flac frontend
+
+                          ********************
+                          PRESERVE THE QUALITY
+                          DO NOT ENCODE TO MP3
+                          ********************
+
+
+Track   |       Name           	 |   Time (m:s)
+-----------------------------------------------------
+d1t01		Lie In Our Graves *		02:52
+d1t02		Song That Jane Likes *		05:43
+d1t03		One Sweet World			05:21
+d1t04		The Maker				06:13
+d1t05		Lover Lay Down			06:46
+d1t06		Satellite				06:03
+d1t07		Ants Marching ->			04:27
+d1t08		Recently				07:33
+
+d2t01		Two Step				08:42
+d2t02		Warehouse				06:34
+d2t03		Jimi Thing				15:57
+d2t04		So Much To Say			05:12
+d2t05		Angel From Montgomery		04:52
+d2t06		Tripping Billies			04:35
+
+
+NOTES:
+----------
+* = Dave solo
+
+Dave mentions the Fridays After Five show the next day, so this is an unusual Thursday night Trax show. I recieved the source CDs dated 05/12/92, but it should really be 05/14.
+
+Dave also mentions the Saturday 05/16/92 Trax show.
+
+Boyd tells the crowd it has been nine days since he quit smoking.
+
+The entire show may not have been recorded.
+
+These rare older shows have been collected and converted through a collaborative effort to get them into circulation. Sometimes these shows do not have the best sound quality (and maybe that's why they aren't circulated much to begin with), but people should have access to them. 
+
+Thanks to Rob Jones for the CD source used for the conversion. 
+
+Compiled By Adam Nelson on November 12, 2006
+
+UPDATE by Henry Hart on 11.29.06:
+I normalized this show to 100% in Cool Edit Pro v2.1 and retracked.

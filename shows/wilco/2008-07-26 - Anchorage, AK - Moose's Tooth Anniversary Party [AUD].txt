@@ -1,0 +1,60 @@
+Wilco
+Moose's Tooth Anniversary Party
+Anchorage, AK
+2008.07.26
+
+Taper: Jim Maley
+Location: Stage Left, 20 ft. back from stack
+Source: Audio-Technica AT822 mic on 8ft. stand > Edirol R-09 (24/44.1)
+        4 gb SanDisk HC Flashcard
+Transfer: SanDisk MicroMate > USB > PC
+Conversion: CDWav 1.93.3 for track splitting, All Music Converter to convert 24 > 16 
+            Wav > flac w/Traders Little Helper 
+
+
+DISC ONE
+
+01.  Via Chicago
+02.  Either Way
+03.  You Are My Face
+04.  New Song - One Wing
+05.  I Am Trying to Break 
+       Your Heart
+06.  Company in My Back
+07.  Remember the Mountain Bed
+08.  Handshake Drugs
+09.  Impossible Germany
+10.  Just That Simple
+11.  Don't Forget the Flowers
+12. Misunderstood
+13. Jesus, etc.
+14. New Song - Sunny Feeling
+
+DISC TWO
+
+01.  Walken
+02.  I'm the One Who Loves You
+03.  Hummingbird
+04.  Crowd Noise
+
+Encore 1:
+05.  The Late Greats
+06.  Shot in the Arm >
+07.  Spiders (Kidsmoke)
+
+Encore 2:
+08.  Heavy Metal Drummer
+09.  Hate It Here
+10.  Casino Queen
+11.  Outtamind (Outtasite)
+12.  I'm a Wheel
+13.  Hoodoo Voodoo**
+
+*John on acoustic guitar, vocals
+ Jeff on bass
+
+**NOTE:  I was recording on a 4 gig card that automatically
+  starts a new file at 2 gigs.  This broke at 4'02" of
+  "Hoodoo Voodoo."  There is an audible cut there that I 
+  have not tried to repair yet.  The song is split in two
+  files.

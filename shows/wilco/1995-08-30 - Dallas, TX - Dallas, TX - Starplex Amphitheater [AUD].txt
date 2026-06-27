@@ -1,0 +1,46 @@
+Wilco
+Dallas,TX
+Horde Festival
+Starplex Amphitheater
+30 August 1995
+
+Recording info:
+Sonic Studios[DSM6]>DAR100
+Taping Location: SEC 203, ROW UU, SEAT 28
+
+Transfer info:
+Master DAT(32)>Sony 59ES>HHB CDR-850 via digital coax>CDR>EAC[secure]>flac[Level 8]
+
+CMM-044 (Chris Milazzo Master)
+
+01 [00:37] Intro
+02 [04:23] Give Back The Key To My Heart
+03 [03:22] I Must Be High
+04 [03:30] Box Full Of Letters
+05 [03:18] Pick Up The Change
+06 [04:07] New Madrid
+07 [03:08] That's Not The Issue
+08 [04:07] Passenger Side
+09 [03:58] Casino Queen (w/Chris Robinson)
+------------------------------------------
+TT [30:30]
+
+Taping location my be wrong - I may have been sitting in the 1st row (AA) of section 202.
+
+No remastering was done do this recording.  Track numbers were created manually through the HHB CDR-850 CD recorder so they may not be perfect.
+
+First Torrented September 10, 2006
+Seed #44 from my master DAT collection
+
+Fingerprints:
+Track01.flac:ec7d7845a26bea705d9a9cd97304ff34
+Track02.flac:f8f60785162facdb98d25d76c723f43c
+Track03.flac:02544983c7e7f6069480916eb3eb567e
+Track04.flac:c166fba62c30974cf039b6b92a01f5f0
+Track05.flac:ac6fdc7e5c6c03842200fc7688fff789
+Track06.flac:dac502cf4943b76babd2325e5ef47293
+Track07.flac:98263b90d2712cf2718371b856e68df7
+Track08.flac:439afe3a10e5e8b26a62c57202cea749
+Track09.flac:5761ca8a4af1bc86b81e1a2674e03db8
+
+

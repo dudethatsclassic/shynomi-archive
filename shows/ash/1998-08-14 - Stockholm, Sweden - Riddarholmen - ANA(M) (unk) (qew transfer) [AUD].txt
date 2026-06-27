@@ -1,0 +1,64 @@
+ASH
+August 14, 1998
+Riddarholmen (Stockholms vattenfestival)
+Stockholm, Sweden
+
+SETLIST:
+-------------------
+00. intro/banter
+01. Lose Control
+02. Season
+03. Angel Interceptor
+04. Jesus Says
+05. Oh Yeah
+06. A Life Less Ordinary
+07. Wildsurf
+08. Innocent Smile
+09. Fortune Teller
+10. Girl From Mars
+11. Goldfinger
+12. Low Ebb
+13. Numbskull
+14. Petrol
+15. Kung Fu
+16. Jack Names The Planets
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.0
+unknown > unknown (cassette)
+
+TRANSFER:
+-------------------
+unknown mics > unknown recorder > ANA(M) > DAT(1) > ANA(1) > Yamaha KX-W202 (Dolby off) > Tascam DR-05 > WAV [48kHz-24-bit] > Adobe Audition 23.2 [post-production/mastering] > xACT 2.52 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+ANA(M) > DAT(1) > ANA(1) > FLAC [Level 8]
+
+
+FLAC FINGERPRINTS:
+-------------------
+ash1998-08-14-aud1-t00.flac:ecf76dc2eacc9417f9acaf01d9f8e98b
+ash1998-08-14-aud1-t01.flac:b8fd52f89ba6318e9fa4379859c01294
+ash1998-08-14-aud1-t02.flac:ceaa49ecdf4fa2cff12690e0eb861803
+ash1998-08-14-aud1-t03.flac:ce4516905dbe216be0681524d7bf6570
+ash1998-08-14-aud1-t04.flac:858f8b907487def7981d89eba46aa7ec
+ash1998-08-14-aud1-t05.flac:a81f516d2b1f2c539a91ddefae1865dd
+ash1998-08-14-aud1-t06.flac:78a31e84b9fb3f792c2ba587565a5360
+ash1998-08-14-aud1-t07.flac:c27edf68f5b475b51156464f55b591a0
+ash1998-08-14-aud1-t08.flac:d9629f79088a657fb45e64617193a29b
+ash1998-08-14-aud1-t09.flac:12a942071f90bee2cb6a9b10af93eaca
+ash1998-08-14-aud1-t10.flac:e6a76975181a170f43883aed49059892
+ash1998-08-14-aud1-t11.flac:9f6fede1336dd0cde8b35afa3dee0011
+ash1998-08-14-aud1-t12.flac:e74d905e79b99f3c17db82d4b91c1b94
+ash1998-08-14-aud1-t13.flac:e9e5b37ce39c5dbff1566f76c86197a0
+ash1998-08-14-aud1-t14.flac:07243cf12a20e3285c811d4f20935450
+ash1998-08-14-aud1-t15.flac:e33efe5d12bcfb71320b6749dda8a96f
+ash1998-08-14-aud1-t16.flac:499e1af685af378b3f6f1c6b73a1be8a
+
+
+Transferred by: qew
+Mastered by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

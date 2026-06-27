@@ -1,0 +1,67 @@
+Dave Matthews Band
+July 08, 2016	
+Nationwide Arena - Columbus, OH
+
+Taper: Mike Sarnovsky (mike@oarfans.com)
+Source: Neumann km-140s -> Lunatec V3 -> Sound Devices 722
+
+Location:  Stage Left, about 1/3 back
+
+Conversion: Mike Sarnovsky (mike@oarfans.com)
+Equipment: 722 -> PC -> Wavelab (Dither to 16bit) -> FLAC
+
+------------------------------------------------------------
+
+Disc One:
+
+01:	Intro                                              
+02: 	Everyday
+03:	Mercy
+04:	You Might Die Trying
+05:	Death On The High Seas
+06:	Don't Drink The Water
+07:	Satellite
+08:	Warehouse
+
+Disc Two:
+
+01:	Crash Into Me
+02:	Seven
+03:	Recently
+04:	Crush
+05:	Bismarck
+06:	Grey Street
+07:	Bob Law
+
+Disc Three:
+
+01:	#41
+02:	Sugar Will
+03:	Too Much
+04:	Jimi Thing
+05:	The Space Between
+06:	Pantala Naga Pampa -> Rapunzel
+
+------------------------------------------------------------
+
+dmb2016-07-08d1t01.flac:717d1928a854c6f62da4395ba1d86018
+dmb2016-07-08d1t02.flac:61e9a020ab6aeab93b24b8bf62f7ddb3
+dmb2016-07-08d1t03.flac:cc5fa90ec95ee68b6b2538e3ffb42f73
+dmb2016-07-08d1t04.flac:daea3ee823be7c3cbf5983f06155981f
+dmb2016-07-08d1t05.flac:3cf639d9583419f45b183db76e90b9e3
+dmb2016-07-08d1t06.flac:81b2e081af40074fe3b138dc49c30d21
+dmb2016-07-08d1t07.flac:ee646dc1a525bd648edec36eed72114f
+dmb2016-07-08d1t08.flac:d2ccdf69b2ee3e10f858d3b48aead03d
+dmb2016-07-08d2t01.flac:39eabd8fa23cf424ddceefa019627689
+dmb2016-07-08d2t02.flac:1039902c35d3e6e8ee2f122b97a7f4e2
+dmb2016-07-08d2t03.flac:459b096db8e677e718a08ec53b012b2e
+dmb2016-07-08d2t04.flac:c3e61d9a3f508fd6c6d50d2b9f36cd8c
+dmb2016-07-08d2t05.flac:c1716bc8b224ff8cf27ae222e12da1a2
+dmb2016-07-08d2t06.flac:fedc5296473b970b4603fae1a26d9334
+dmb2016-07-08d2t07.flac:d0047a84358b50ce2403000a82648062
+dmb2016-07-08d3t01.flac:089477a0804208ec66f7f4ae0aa5883f
+dmb2016-07-08d3t02.flac:5780c9c29aae6b11fd6d537e3235cdc8
+dmb2016-07-08d3t03.flac:71181195875b1769568649664c92489b
+dmb2016-07-08d3t04.flac:ef4eea74ccff666aab92d943c180b807
+dmb2016-07-08d3t05.flac:d128f9bb64dd6d4149fadb201fb4216a
+dmb2016-07-08d3t06.flac:da8fdeebaf7bee1b70c9ddd0fdbfc862

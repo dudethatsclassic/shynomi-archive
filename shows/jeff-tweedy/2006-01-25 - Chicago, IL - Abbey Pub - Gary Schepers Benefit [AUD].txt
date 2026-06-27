@@ -1,0 +1,61 @@
+Jeff Tweedy
+2006-01-25
+Chicago, IL - Abbey Pub - Gary Schepers Benefit
+
+Taper        : Brian Skalinder / bskalinder@yahoo.com
+Location     : Center, clamped to balcony's bottom rail, extended forward ~7'
+Mic Config   : DINA (17cm, 90º)
+Source       : Schoeps MK41/KC5/CMC6 > Lunatec V3 > MicroTrack 2496
+Record Format: 24-bit, 48 kHz
+Conversion   : MicroTrack 2496 > USB > PC
+Edit         : Adobe Audition 1.5, iZotope Ozone Loudness Maximizer
+Dither       : MegaBitMax, Medium Shaping
+Final Format : 16-bit, 44.1 kHz
+Track        : CD-Wave 
+
+DISC ONE
+
+01. < lead-in >
+02. The Ruling Class
+03. < sound system problems, banter >
+04. Summerteeth
+05. (Was I) In Your Dreams
+06. Bob Dylan's 49th Beard
+07. Please Tell My Brother
+08. Blasting Fonda
+09. Pieholden Suite
+10. < new tune >
+11. Airline To Heaven
+12. I'm The Man Who Loves You
+13. Heavy Metal Drummer
+14. New Madrid
+15. ELT
+16. Someday Soon
+
+ENCORE 1
+
+17. A Shot In The Arm
+18. Hoodoo Voodoo
+19. < fade-out >
+
+DISC TWO
+
+01. < fade-in >
+02. Henry And The H-Bombs
+03. Theologians
+04. Spiders (Kidsmoke)
+05. I Can't Keep From Talking
+
+ENCORE 2
+
+06. Acuff-Rose
+
+NOTES
+
+To seamlessly join the two discs, simply remove D1T19 and D2T01.
+
+Behind the public and well-known faces of musicians and bands of Chicago's vibrant and wildly diverse music scene there is a community of creative and dedicated people who make it all possible. Theirs are names you will likely never know and whose faces don't make the glossy magazines, but whose contributions to the music we all love are irreplaceable.
+
+If you have been a regular concert-goer in Chicago during the past twenty plus years, odds are strong that you have benefited from the ubiquitous and experienced ears of Gary Schepers behind the soundboard. He has been the big man with the big voice and the good heart working the sound at Lounge Ax, the Abbey Pub, Empty Bottle, Martyr's, Fitzgerald's, Schuba's and every other venue you can think of. He's been the soundman for Eleventh Dream Day, Uncle Tupelo, Son Volt, Material Issue, and John Parish. In short, Gary is one of *the* unsung people that help keep our city the vital and accessible music scene that it is.
+
+Recently, Gary was diagnosed with type 2 diabetes and is spending the holiday season in a hospital room recovering and getting treatments. Like many people in the music industry, Gary is without health insurance. To help defray his mounting medical bills, there will be a series of benefit concerts featuring just a tiny percentage of the artists he has worked with over the years. The speed and ease with which these fundraisers have come together, and the breadth of talent participating in them, is testimony to the appreciation and high regard held for Gary within the community of musicians that have performed in this city.  Gary's steady and quiet contribution to the Chicago music community is one of building, in quotidian fashion, a body of work and experience that has shaped the concert going experience for all of us. 

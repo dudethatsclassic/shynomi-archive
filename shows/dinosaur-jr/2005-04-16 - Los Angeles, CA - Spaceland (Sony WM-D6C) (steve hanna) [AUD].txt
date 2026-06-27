@@ -1,0 +1,65 @@
+Dinosaur Jr.
+Spaceland
+Los Angeles, CA
+April 16, 2005
+
+** 16 BIT **
+
+Source:  Sony WM-D6C with supplied mic > Master Cassette (Maxell XLII)
+Transfer:  Master Cassette > Sony WM-D6C > Sony PCM-M10 @ 24 bit/48 kHz
+Mastering:  .WAV's > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 (Build 140) [Splicing, minor edits, normalize, & fades, Boz Digital Labs T-Bone (slant EQ)] >
+CDWav (tracking) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded & transferred by:  Steve Hanna
+Mastered by:  Dennis Orr
+
+Setlist: (1:19:39)
+01 Crowd/Tuning
+02 Gargoyle
+03 The Post
+04 Kracked
+05 Bulbs Of Passion
+06 Raisans
+07 Tarpit
+08 Forget The Swan
+09 In A Jar
+10 Yeah We Know
+11 The Lung
+12 Encore Break #1
+- Encore #1 -
+13 Severed Lips
+14 Just Like Heaven
+15 Freak Scene
+16 Encore Break #2
+- Encore #2 -
+17 Sludgefeast
+18 Encore Break #3
+- Encore #3 - 
+19 Does It Float
+
+J Mascis – lead vocals, guitars, & keyboards
+Lou Barlow – bass & backing vocals
+Emmett Jefferson (Murph) Murphy III – drums
+
+Mastering Notes:
+Tape flip @ 1:10 of "The Lung" - seamlessly spliced, a few seconds of music were lost
+The recorder was paused during the three "Encore Break" applause sections - all were seamlessly spliced, no music was lost
+
+DinosaurJr.2005-04-16t01.flac:4089532f64cefc4a0486ddb6d078a26e
+DinosaurJr.2005-04-16t02.flac:d824ac74d7001ca3aaca01dc6bb677fd
+DinosaurJr.2005-04-16t03.flac:56e757efcdb3fce533cb94915d263bd9
+DinosaurJr.2005-04-16t04.flac:3360aea31085774418344d2d68fb01f1
+DinosaurJr.2005-04-16t05.flac:9ecb498f271927fa70756ecd58482938
+DinosaurJr.2005-04-16t06.flac:7061461c88db0e960ab0ac36f0b47369
+DinosaurJr.2005-04-16t07.flac:3322ace2b25fcd7f2910b0e466a3702f
+DinosaurJr.2005-04-16t08.flac:5be40eb4b2a5c65dbead6990b981295a
+DinosaurJr.2005-04-16t09.flac:9a7f654ff7a7e62595536464db4650c9
+DinosaurJr.2005-04-16t10.flac:db3c5c3d213b70fe380b1d6d3589c0be
+DinosaurJr.2005-04-16t11.flac:ea5e5c89c77a33db5c72e036e0c70b75
+DinosaurJr.2005-04-16t12.flac:b06f09e8297e8c2d5fac22ea89da0eaf
+DinosaurJr.2005-04-16t13.flac:fe625a8d986be62b30f297e5edf9977a
+DinosaurJr.2005-04-16t14.flac:14f2aefa7632c6088ed19be65c64fa02
+DinosaurJr.2005-04-16t15.flac:2536e92d2de983d079a946b88d9bf0af
+DinosaurJr.2005-04-16t16.flac:fb756b630c660799c7cf4387f91d136b
+DinosaurJr.2005-04-16t17.flac:f08a318052cc9f60c73d9d0b778d2341
+DinosaurJr.2005-04-16t18.flac:2ffe0cd4f5fc9b0d75d7c6275ff9e3b4
+DinosaurJr.2005-04-16t19.flac:47b36cdb80a9aca109edbb9dfd998465

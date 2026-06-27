@@ -1,0 +1,55 @@
+John Mayer
+1 April 2017
+Bell Centre
+Montreal, Québec
+Canada
+
+Recorded by: Christopher Jones <jones.chris@gmail.com>
+Source: DPA 4015-TL Handmatched Wide Cardioid > Mogami Gold Neglex Studio Quad XLR > Rupert Neve Designs Portico 5012-H Microphone Preamplifier (“Silk” circuit engaged) > Mogami XLR Interconnect > Mytek Digital Stereo192 Analog-to-Digital Converter (@ 24-bit / 96 kHz) > Mogami AES / EBU Digital Interconnect > Sound Devices 722 Hard Disk Recorder (slaved to Stereo192 @ 96 kHz; @ 24-bit / 96 kHz)
+Location: Behind FOH, DFC.  Microphones elevated 4.5 meters, A-B.
+HD > .flac: Sound Devices 722 Hard Disk Recorder > Apple Macbook Pro (2.53 GHz Intel Core 2 Duo / 4GB 1067 MHz DDR3) > Audiofile Engineering Wave Editor v1.5.8 > xACT v2.39
+
+Resampled with iZotope Resampler at highest quality setting and a filter steepness of "150"; dithered using iZotope MBIT+ with a "Normal" amount of "Ultra" noise shaping applied.  24-bit / 96 kHz version of this recording available in .flac24.
+
+t01 Introduction  						01:40.58
+t02 Helpless  							06:35.22
+t03 Vultures  							07:11.11
+t04 Love On The Weekend  					04:46.17
+t05 Who Says 							04:08.43
+t06 Still Feel Like Your Man  					08:19.07
+t07 Free Fallin’ %  						04:50.42
+t08 Whiskey, Whiskey, Whiskey  					06:29.72
+t09 Your Body Is A Wonderland  					04:21.63
+t10 Emoji Of A Wave ^  						03:51.11
+t11 Intro To...  						02:40.47
+t12 Crossroads +  						05:02.24
+t13 Bold As Love ~ 						06:13.55
+t14 Who Did You Think I Was  					08:50.59
+t15 Intro To...  						01:10.53
+t16 Waiting On The World To Change > War # >  			04:42.27
+t17 Paper Doll  						08:16.29
+t18 Moving On And Getting Over  				08:13.05
+t19 Slow Dancing In A Burning Room  				07:37.08
+t20 “Thank You Guys..."  					02:32.16
+t21 Gravity  							10:52.04
+---
+t22 Something Like Olivia  					03:39.33
+t23 I’m Gonna Find Another You  				06:28.56
+t24 You’re Gonna Live Forever In Me  				05:54.63
+
+								134:29.00
+
+%  Tom Petty cover
+^  First time played
++  Robert Johnson cover
+~  Jimi Hendrix Experience cover
+>  Indicates a segue into the next song
+#  Bob Marley And The Wailers cover
+
+Notes:
+
+Security and venue production initially prohibited audio recording of the show.  After some discussion, they decided to observe John’s recording policy and allow the entry of equipment.  Venue production staff required that the microphone stand not be near patrons, however, so I agreed to record from FOH instead of seats FOB.  Thanks to all involved in permitting the recording of this performance.
+
+Some intermittent feedback audible through the PA in the 5 kHz to 6 kHz range.
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 14 April 2017.

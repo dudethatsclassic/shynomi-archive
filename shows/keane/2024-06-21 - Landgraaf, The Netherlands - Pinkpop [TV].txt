@@ -1,0 +1,31 @@
+Keane
+Pinkpop
+Megaland, Landgraaf, The Netherlands
+June 21, 2024
+North Stage, 20:35 - 21:50
+
+
+Lineage : NPO2 Extra DVB-C - Humax iHDR-5200C - AVIdemux
+
+
+Technical details:
+File Name : Keane - 2024-06-21 - Pinkpop.ts
+Size : 2.77 GB
+Duration : 01:17:15
+Mux type : TS Stream
+
+Video Encoding : H264
+Frame rate : 25.00 fps
+Encoding size : 1920x1080
+Aspect ratio : 16:9
+
+Audio Stream: 1 (Primary)
+Codec : MPEG
+MPEGLayer : Layer 2
+Channels : 2.0
+Bit rate : 256 Kbps
+Sampling rate : 48000
+Sample size : 32 bits
+
+
+Created and uploaded by Thunderwing for TTD.

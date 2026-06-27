@@ -1,0 +1,26 @@
+Garbage
+Madison Square Garden
+New York, NY
+Wedsday October 24, 2001
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		Neumann ak40s > Neumann lc-3 active cables > Neumann km100s > 
+		Audio Magic X-Stream XLRs > Sonosax sx-m2 > Sony D100
+Location:	Sec 63 Row F Seat 3, 5th row right stage side stack
+
+DAT > SHN:	master DAT > DAT clone > master CDR
+                EAC V0.9 beta 4 (secure mode, offsets set) > .wav > mkwACT > .shn
+
+01:	I Think I'm Paranoid            03:08.22
+02:	Androgyny                       03:20.57
+03:	Drive You Home                  03:51.69
+04:	#1 Crush                        05:57.81
+05:	Stupid Girl                     04:17.16
+06:	Til The Day I Die               03:41.49
+07:	Only Happy When It Rains        04:40.58
+08:	Cherry Lips                     03:43.65
+
+Total: 32:41.20
+
+Note: Taper didn't get set up in time, so the first two songs are missing.
+The taper is walking to his seat during the beginning of the third song.

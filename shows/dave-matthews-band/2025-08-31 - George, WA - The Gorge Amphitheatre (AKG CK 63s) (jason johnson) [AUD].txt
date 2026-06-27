@@ -1,0 +1,47 @@
+Dave Matthews Band
+The Gorge Amphitheatre
+George, WA
+August 31, 2025
+
+Taper: Jason Johnson (taperjason@gmail.com)
+Location: Left FOB, DIN @ 14'
+Source: akg ck63s > nbob actives > SD MixPre-6ii (32/48)
+Conversion: MixPre-6ii > Adobe Audition (hi pass filter, dither, resample) > Trader's Little Helper > Foobar2000
+
+01: Intro
+02: Drunken Soldier
+03: Hunger for the Great Light
+04: Loving Wings
+05: Walk Around the Moon
+06: Minarets
+07: The Maker @
+08: Shotgun
+09: Jimi Thing
+10: So Damn Lucky
+11: Lying in the Hands of God >
+12: American Baby Intro 
+13: American Baby
+14: Mercy
+15: Grace Is Gone #
+16: Warehouse #
+17: Typical Situation
+18: Kill the Preacher
+19: Why I Am
+20: Grey Street
+21: Encore Break
+22: Peace on Earth *
+23: Lie in Our Graves [reprise]
+24: The Best of What's Around
+
+Notes:
+@ Rick Mitarotonda
+# Jake Renick Simpson
+* Dave solo
+
+24/48 version also exists.
+Lowered bass overload during Lying in the Hands of God.
+Wind picked up during Mercy and continued until end of show creating slight phasing and underlying rumble.
+Thanks to Mike, Tracy, and Jerry for keeping an eye on the gear.
+
+Compiled by Jason Johnson on September 1, 2025.
+www.greppson.net

@@ -1,0 +1,38 @@
+Sebadoh - 1995 06 08 Shepherd's Bush Empire, London, UK
+
+Show note:
+There were 4-5 nasty glitches in the recording. Couldn't tell if a MiniDisc was used to record this, but the glitches sounded either like a recording skip in a minidisc or some kind of loud mic glitch. Not sure about track 11, it was listed as "Smog Cover" but I am not sure which one it is. Nice sounding soundboard.  There's a 6 part video of this here: https://www.youtube.com/watch?v=BHKpvevq1Kk&list=PLLerrep_-tse6YEiE1PhR_t0Zu24tHXwP and various clips from the show with the SBD mixed in.  
+
+1 intro
+2 Think (Let Tomorrow Bee)
+3 Brand New Love
+4 Too Pure
+5 Rebound
+6 Drama Mine
+7 Magnet's Coil
+8 Careful
+9 Sing Something
+10 License to Confuse
+11 S. Soup
+12 Crystal Gypsy
+13 smog cover
+14 Hillbilly II
+15 Zone Doubt
+16 bass & drums
+17 Together or Alone
+18 Open Ended
+19 Vampire
+20 Sixteen
+21 Beauty of the Ride
+22 1/2 Undressed
+23 Social Medicine
+24 Perfect Way
+25 I Smell a Rat [Bags]
+26 No Matter Who You Are 
+
+Also played:
+Yo La Tengo
+Stereolab
+Quickspace
+
+Lineage: Soundboard Master > CDR > EAC (WAV + CUE) > SoundForge (fix glitches, raise level) > CDWAVE (splits) > FLAC	

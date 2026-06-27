@@ -1,0 +1,33 @@
+Sigur Rós
+
+2001.10.01
+St. Andrews-Wesley United Church; Vancouver, CA
+
+Taper:              Rens Lohmann
+Source:             WWW (Real Audio 176,4Kbps @ 44.1Khz) > CPU [Streambox VCR]
+Conversion:         StreamBox VCR (real audio) > HDD > Total Recorder (wave)
+Resampling:         None
+Editor:             Rens Lohmann	
+Editing:            CD Wave Editor track split
+SHN:                master WAVs > MKW Audio Compression Tool
+
+******************************************************************************************************************
+	                    THIS SHOW IS NOT TO BE MP3-ENCODED	
+******************************************************************************************************************
+
+Disc 1:
+01. Vaka                 08:30
+02. Njósnavélin          08:25
+03. Ný Batterí           08:21
+04. E-Bow                08:33
+05. Álafoss              15:06
+06. Olsen Olsen          07:08
+
+Disc 2:
+01. Fyrsta / Samskeyti   15:11
+02. Svefn-G-Englar       12:58
+03. Dauðalagið           13:47
+04. Popplagið            08:57
+
+Notes:
+Amazing quality for a webcast. Thanks to Jon Øivind Berne for identifying the track titles!

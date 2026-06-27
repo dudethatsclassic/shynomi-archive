@@ -1,0 +1,34 @@
+Vertical Horizon
+White Rabbit
+Austin, TX
+11.8.95
+
+Taper:	Unknown
+Source:	DSBD->D7
+
+Disc One
+Track 	|	Name			|	Time (m:s)
+----------------------------------------------------------
+d1t01	Candyman				05:02
+d1t02	Call It Even				03:50
+d1t03	Trying to Find Purpose			04:54
+d1t04	Famous					03:26
+d1t05	Life In The City			05:52
+d1t06	Fragments				04:38
+d1t07	The Ride				03:50
+d1t08	Heart In Hand				05:26
+d1t09	Footprints In the Snow			05:49
+d1t10	Japan					05:53
+d1t11	The Promise of Tomorrow			05:42
+d1t12	The Man Who Would Be Santa		05:31
+d1t13	Wash Away				10:08
+Total:						70:01
+
+Disc Two
+Track 	|	Name			|	Time (m:s)
+----------------------------------------------------------
+d2t01	Message In A Bottle->On The Sea (twice)	11:33
+d2t02	Falling Down				06:53
+Total:						18:26
+
+Compiled by:  Ray Domingue  <rpd004@yahoo.com>

@@ -1,0 +1,59 @@
+Dave Matthews Band
+Blossom Music Center
+Cuyahoga Falls, OH
+June 10, 2022
+
+Taper:  bersey
+Location:  Section 35, Row P, Seat 1, slightly left of center, mics about 12' high
+Source:  CA-11 cardioids > CA-9100 > Sony PCM-M10 @ 24 bit/48kHz
+Conversion:  Sony PCM-M10 > PC > Sony Sound Forge Audio Studio 9.0 (fades, normalize)  
+             > CD Wave Editor (tracking) > Trader's Little Helper (encode to flac,
+             level 6) > foobar 2000 (tagging)
+
+************************************************************************************
+*******************RECORDING IS NOT FOR SALE OR ANY COMMERCIAL USE******************
+************************************************************************************
+
+01. Intro	                   02:02.00
+02. One Sweet World                07:37.00
+03. Granny                         05:07.00
+04. What Would You Say             06:01.00
+05. Funny the Way It Is            06:43.00
+06. Break For It                   05:48.00
+07. Grace Is Gone                  08:13.00
+08. Seek Up                        21:35.00
+09. Stay or Leave                  05:06.00
+10. Walk Around the Moon           06:20.00 
+11. #41                            11:44.00
+12. Samurai Cop (Oh Joy Begin)     06:13.00 
+13. Squirm                         06:30.00
+14. The Space Between              05:33.00
+15. Come On Come On                06:05.00 
+16. Dancing Nancies >              10:39.00
+17. Warehouse                      09:24.00
+18. Gravedigger                    06:43.00
+19. Grey Street                    07:51.00
+20. Stay                           05:56.00
+21. Encore Break                   04:54.00
+22. Rye Whiskey *                  03:56.00
+23. Two Step                       11:30.00
+     
+Total:                           2:51:30.00
+
+
+Notes:
+* Dave solo
+
+
+Dave Matthews Band:
+Dave Matthews - acoustic guitar, electric guitar, vocals
+Carter Beauford - drums, percussion, backing vocals
+Stefan Lessard - electric bass guitar
+Tim Reynolds - electric guitar
+Jeff Coffin - saxophones, flute, backing vocals
+Rashawn Ross - trumpet, backing vocals
+Buddy Strong - keys, backing vocals
+
+Thanks to Dave Matthews Band and Blossom Music Center for letting me tape the show!
+
+Compiled by Kurt Berwanger on June 12, 2022

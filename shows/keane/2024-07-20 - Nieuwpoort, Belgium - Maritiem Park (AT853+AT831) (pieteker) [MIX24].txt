@@ -1,0 +1,70 @@
+Keane
+Beach Festival
+Maritiem Park
+Nieuwpoort, Belgium
+July 20, 2024
+
+** 24 BIT **
+
+Source #1:  AT853 (4.7K Mod) > SP-SPSB-10 > Roland R-05 @ 24 bit/48 kHz
+Source #2:  AT831 > Tascam DR2d @ 24 bit/48 kHz
+Mastering: .WAV's > iZotope RX11 Advanced v11.0.1.3871 (De-Click) > Adobe Audition CC Version 2022, Build 22.2.0.61 (matrix mixdown) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, 
+& fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.17 (tagging) 
+Location:  About 15-20 meters from the center of the stage, to the left of the central rail, with microphones taped to glasses
+Recorded by:  Pieteker (pietekerliverecordings@gmail.com)
+Mastered by:  Dennis Orr
+
+Setlist: (1:15:44)
+01 Intro Music
+02 Can't Stop Now
+03 Chat & Tuning
+04 Silenced By The Night
+05 Bend And Break
+06 Nothing In My Way
+07 We Might As Well Be Strangers
+08 The Way I Feel
+09 Chat
+10 You Are Young
+11 Everybody's Changing
+12 A Bad Dream
+13 Perfect Symmetry
+14 Is It Any Wonder?
+15 This Is The Last Time
+16 Crystal Ball
+17 Chat & Tuning
+18 Somewhere Only We Know
+19 Sovereign Light Café
+20 Chat
+21 Bedshaped
+
+Tom Chaplin – lead vocals
+Tim Rice-Oxley – keyboards & backing vocals
+Jesse Quin – bass, keyboards, guitar, & backing vocals
+Richard Hughes – drums & backing vocals
+
+This recording is freely available. Feel free to share and trade, but please do not sell it.
+Support live music and the artists!
+
+For merch and tickets, visit www.keanemusic.com.
+
+Keane2024-07-20MATRIX-t01.flac:da2b71c76aad801a290121526452ed5f
+Keane2024-07-20MATRIX-t02.flac:3db0435721a05a2e1a998bd6464a4ee4
+Keane2024-07-20MATRIX-t03.flac:7a313a5c62b663bf080df4116b16ad8c
+Keane2024-07-20MATRIX-t04.flac:4dbde84e63ce4feeab55ecf95a2a6a7d
+Keane2024-07-20MATRIX-t05.flac:4abd822f5e16fd67fe004b7045abc098
+Keane2024-07-20MATRIX-t06.flac:819d44ec02d7a80f4f6a5c5b412a14dc
+Keane2024-07-20MATRIX-t07.flac:3303d57b3e8cb89fa9d888fd41793085
+Keane2024-07-20MATRIX-t08.flac:189ddf00fa33181d028566df85fdc249
+Keane2024-07-20MATRIX-t09.flac:48d24321f5b02ece487b4e9d5b8797c2
+Keane2024-07-20MATRIX-t10.flac:65f2f3aa62f4442afa75b596fc0ffb59
+Keane2024-07-20MATRIX-t11.flac:5d75300307fb57c42c5db7c6e0bf48b0
+Keane2024-07-20MATRIX-t12.flac:1e8f7498cfd4c8ef681b16624c04822c
+Keane2024-07-20MATRIX-t13.flac:8b4025a7f571c4a04cd4a4df819a375f
+Keane2024-07-20MATRIX-t14.flac:4303741ec5ba3af42bc4267e5ad6b3ca
+Keane2024-07-20MATRIX-t15.flac:a49d1e322e717cddf182f233fa955355
+Keane2024-07-20MATRIX-t16.flac:116bfe25352a09595cc0c3d34f159002
+Keane2024-07-20MATRIX-t17.flac:472533594358c06da0e03dff4cdec462
+Keane2024-07-20MATRIX-t18.flac:f1303d44857f3c3d7bb120fdfae40d4f
+Keane2024-07-20MATRIX-t19.flac:2f23e4581c3e9d894259045e48782171
+Keane2024-07-20MATRIX-t20.flac:f5070cf91130084ce82b419de252e781
+Keane2024-07-20MATRIX-t21.flac:be39f973abc66d293003e1b47beb4cc9

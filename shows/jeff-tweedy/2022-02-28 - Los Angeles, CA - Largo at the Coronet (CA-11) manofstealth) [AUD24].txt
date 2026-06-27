@@ -1,0 +1,79 @@
+Jeff Tweedy
+Largo at the Coronet
+Los Angeles, CA
+February 28, 2022
+
+** 24 BIT **
+
+Source:  CA-11 cardioids > CA Battery Box > Roland R-05 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX9 Advanced v9.0.0.1130 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ), coreFX cFX Limiter 
+plug-in (limit loud crowd noise)] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded by:  ManOfStealth
+Mastered by:  Dennis Orr
+
+Setlist: (1:31:16)
+01 Out For A Walk
+02 Chat
+03 You And I
+04 New Madrid
+05 I Am My Mother
+06 The Universe
+07 Cruel Country
+08 Out For A Walk (1)
+09 Chat
+10 On And On And On
+11 All Across The World
+12 Laminated Cat
+13 One True Vine
+14 Sunlight Ends
+15 Passenger Side
+16 Chat & Tuning
+17 Ashes Of American Flags
+18 Chat
+19 Jesus, Etc. (with false start)
+20 Encore Break
+- Encore -
+21 Chat
+22 Save It For Me (2)
+23 Smothered In Hugs
+24 Chat
+25 California Stars
+26 Chat
+27 Radio King
+28 Chat & Tuning
+29 I'm The Man Who Loves You
+
+(1) A new song that the crowd liked, so he played it for a second time
+(2) With Sammy Tweedy - lead vocals
+
+Jeff Tweedy - vocals & guitar
+
+JeffTweedy2022-02-28t01.flac:2489b289fa034dc54d6ab54bccbb4691
+JeffTweedy2022-02-28t02.flac:0b98efaebad9fe4b2255816ed5190b1f
+JeffTweedy2022-02-28t03.flac:a690b93393453a264a78e7fd54116407
+JeffTweedy2022-02-28t04.flac:241ad58f74637d28d092cb51183e5eb1
+JeffTweedy2022-02-28t05.flac:2d2dcdbade3fd98697dcea45ea72c634
+JeffTweedy2022-02-28t06.flac:3811896bf03f82d39e387a0671a89b22
+JeffTweedy2022-02-28t07.flac:157cf78cade7639ebd7bdb1f51740491
+JeffTweedy2022-02-28t08.flac:5902efeb06e96ee9239457dea0fb0c3d
+JeffTweedy2022-02-28t09.flac:944d1d87e0cbd00d9fdd0923ebd02b52
+JeffTweedy2022-02-28t10.flac:bd59c7630636a65e2b819adabb7f36db
+JeffTweedy2022-02-28t11.flac:84e45bc37bc4a339aecc1b3a8fde38f7
+JeffTweedy2022-02-28t12.flac:acb7624cefdf9cc03526a0673b1c1eea
+JeffTweedy2022-02-28t13.flac:d0ef6a25fce4a840bcb11979d166c25a
+JeffTweedy2022-02-28t14.flac:23af2b85dd7ed77757f678cfd7a84b07
+JeffTweedy2022-02-28t15.flac:d7cae43ebbae3c0f77288c1b6613375b
+JeffTweedy2022-02-28t16.flac:5709f3e1ef257cfd9a98a67cf8f4a864
+JeffTweedy2022-02-28t17.flac:dc48cf2b053d30f4ff2300dcd8363771
+JeffTweedy2022-02-28t18.flac:bdd5e852affa35f36b8fe355b2ba6045
+JeffTweedy2022-02-28t19.flac:a8219af4b01b47ee7408416fad80f872
+JeffTweedy2022-02-28t20.flac:86952a474075ba0ab3a1977789e04b1c
+JeffTweedy2022-02-28t21.flac:170bf42d0865a18914e9b5741c351a31
+JeffTweedy2022-02-28t22.flac:5e821f0807c3dccacb18de628de183a1
+JeffTweedy2022-02-28t23.flac:263631a1029f03ec1b6f3092f7afe83a
+JeffTweedy2022-02-28t24.flac:7d29dfc278763a32cfbae18547f43f67
+JeffTweedy2022-02-28t25.flac:3603a07f476b526d0165b03fd57e988a
+JeffTweedy2022-02-28t26.flac:dd18dc907bdd5fe2bc97c7ee9d9d84cf
+JeffTweedy2022-02-28t27.flac:391f7d43691a6af1658e27626e3ab93e
+JeffTweedy2022-02-28t28.flac:84ff77287b859f8ed822f9fcf1d00a41
+JeffTweedy2022-02-28t29.flac:dcbd0e3f11239ba61a7ddb7f7daa8cce

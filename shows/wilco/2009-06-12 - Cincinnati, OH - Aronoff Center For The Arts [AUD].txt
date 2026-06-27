@@ -1,0 +1,39 @@
+Wilco
+June 12, 2009
+Aronoff Center For The Arts
+Cincinnati, OH
+
+source: DPA 4021 (ORTF) > Oade m148 > Sony D50 (24/48)
+transfer: Sony D50 > USB > Audacity > Sound Studio > xACT > .flac (16/44)
+
+Disc 1
+01 Crowd/Intro
+02 Wilco (The Song)
+03 I Am Trying To Break Your Heart
+04 Company In My Back
+05 Bull Black Nova
+06 You Are My Face
+07 One Wing
+08 Handshake Drugs
+09 Side With The Seeds
+10 A Shot In The Arm
+11 At Least That's What You Said
+12 Sonny Feeling
+13 Jesus, Etc.
+
+Disc 2
+01 Impossible Germany
+02 California Stars
+03 You Never Know
+04 Hummingbird
+05 Misunderstood >
+06 Spiders (Kidsmoke)
+Encore:
+07 The Late Greats
+08 Hate It Here
+09 Walken
+10 I'm The Man Who Loves You
+11 I'm A Wheel
+
+flac fingerprint:
+wilco2009-06-12d1t01.flac:d649ec3bcd0ca96eb7d01ec664cdf13dwilco2009-06-12d1t02.flac:687783cec6ac6eb837c37e515428633ewilco2009-06-12d1t03.flac:1c47aca3084c9ca5bca3d10b8bd672b0wilco2009-06-12d1t04.flac:bd1142b39c07ca0b5acdc68e92c0c973wilco2009-06-12d1t05.flac:3267a92b5bb16d389ac6f0e0c94eba5fwilco2009-06-12d1t06.flac:5d1bf3d61f0cbf73616d7dc865970675wilco2009-06-12d1t07.flac:feeccdb4f8278c7e3c4c5d8fd7ce2c22wilco2009-06-12d1t08.flac:d40e17e1c8756466c11f18666e527a92wilco2009-06-12d1t09.flac:522089e89f99bbd45a91a512265952eawilco2009-06-12d1t10.flac:508786b6cc936cb8e885fda4b397ab25wilco2009-06-12d1t11.flac:70ea0990cd68ce991cdf106b3dbe6aa9wilco2009-06-12d1t12.flac:7e592bb7273b963b8e2ba3a6b61dda58wilco2009-06-12d1t13.flac:8cda3a8b9d4938bc712b4c78d256799bwilco2009-06-12d2t01.flac:e815e421de75308e43b975b869aa658dwilco2009-06-12d2t02.flac:100c73e592ff91f7e872489b3fb696b9wilco2009-06-12d2t03.flac:f050ba55ab3cf0a5dfa71c507f635aa2wilco2009-06-12d2t04.flac:3c84f19577d11858c6a3e4de7cdbd546wilco2009-06-12d2t05.flac:67a9bd1aa970b92d5da9d8fc9c8454e7wilco2009-06-12d2t06.flac:8fec7c6bda8cf4245f7cb5bd0482de35wilco2009-06-12d2t07.flac:4cabd820263ec1cbdd2c38cd1a939d71wilco2009-06-12d2t08.flac:a742c6842b396edff458d5565fd80354wilco2009-06-12d2t09.flac:231af59dcc423387223c5d246a52501dwilco2009-06-12d2t10.flac:4a40602cc3306023f9ece7d6a3fe7c22wilco2009-06-12d2t11.flac:0e9e4b2e3e127df4359964b60231b77e

@@ -33,7 +33,8 @@ const ARTIST_DATA = {
       "venue": "Ventura Theater",
       "notes": "WW1",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-09-14 - Ventura, CA - Ventura Theater (WW1) [FM].txt"
     },
     {
       "year": 1995,
@@ -44,9 +45,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Santa Monica Pier",
-      "notes": "CASS(M) · unk",
+      "notes": "CASS(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-11-04 - Santa Monica, CA - Santa Monica Pier - CASS(M) (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -57,9 +59,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oakland-Alameda County Coliseum Arena",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-12-31 - Oakland, CA - Oakland-Alameda County Coliseum Arena (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 1996,
@@ -70,9 +73,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Opera House",
-      "notes": "M · unk",
+      "notes": "M \u00b7 unk",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-14 - Toronto, ON - Opera House (M) (unk) [FM].txt"
     },
     {
       "year": 1997,
@@ -83,9 +87,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-11-26 - San Francisco, CA - Fillmore (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 1997,
@@ -98,7 +103,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-12-06 - Universaly City, CA - Universal Amphitheatre [FM].txt"
     },
     {
       "year": 1998,
@@ -111,7 +117,8 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-03-04 - Orlando, FL - House of Blues [SBD].txt"
     },
     {
       "year": 1998,
@@ -124,7 +131,8 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows",
       "notes": "CASS(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-20 - Irvine, CA - Irvine Meadows - CASS(M) [AUD].txt"
     },
     {
       "year": 1999,
@@ -137,7 +145,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-02-09 - Sacramento, CA - Sacramento Memorial Auditorium (unk) [AUD].txt"
     },
     {
       "year": 2000,
@@ -161,9 +170,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-12-15 - San Francisco, CA - The Warfield (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 2004,
@@ -174,9 +184,10 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Hilton Head, SC",
       "venue": "Monkey Business",
-      "notes": "Studio Projects C4s · jcrab66",
+      "notes": "Studio Projects C4s \u00b7 jcrab66",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-08-30 - Hilton Head, SC - Monkey Business (Studio Projects C4s) (jcrab66) [AUD].txt"
     },
     {
       "year": 2006,
@@ -187,9 +198,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Blind Pig",
-      "notes": "STC-9000 · paramnesiac",
+      "notes": "STC-9000 \u00b7 paramnesiac",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-10-03 - Ann Arbor, MI - Blind Pig (STC-9000) (paramnesiac) [AUD].txt"
     },
     {
       "year": 2007,
@@ -200,9 +212,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Gothic Theater",
-      "notes": "Core Sound LCBs · brianblank",
+      "notes": "Core Sound LCBs \u00b7 brianblank",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-02-07 - Denver, CO - Gothic Theater (Core Sound LCBs) (brianblank) [AUD].txt"
     },
     {
       "year": 2007,
@@ -213,9 +226,10 @@ const ARTIST_DATA = {
       "state": "Alberta",
       "location": "Edmonton, Alberta",
       "venue": "Cowboys",
-      "notes": "SP-CMC-2 · sean gursky",
+      "notes": "SP-CMC-2 \u00b7 sean gursky",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-05-09 - Edmonton, Alberta - Cowboys (SP-CMC-2) (sean gursky) [AUD].txt"
     },
     {
       "year": 2009,
@@ -226,9 +240,10 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "Birmingham-Jefferson Convention Complex Parking Lot",
-      "notes": "DPA 4061s · dunebug81",
+      "notes": "DPA 4061s \u00b7 dunebug81",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-05-02 - Birmingham, AL - Birmingham-Jefferson Convention Complex Parking Lot (DPA 4061s) (dunebug81) [AUD].txt"
     },
     {
       "year": 2022,
@@ -239,9 +254,10 @@ const ARTIST_DATA = {
       "state": "ONT",
       "location": "Niagara Falls, ONT",
       "venue": "Avalon Ballroom",
-      "notes": "CA14s · binko",
+      "notes": "CA14s \u00b7 binko",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-08-27 - Niagara Falls, ONT - Avalon Ballroom (CA14s) (binko) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -252,9 +268,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Columbia, IL",
       "venue": "Songs For Soldiers",
-      "notes": "Neumann SKM 184 · shane e. calhoon",
+      "notes": "Neumann SKM 184 \u00b7 shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-09-09 - Columbia, IL - Songs For Soldiers (Neumann SKM 184) (shane e. calhoon) [AUD].txt"
     },
     {
       "year": 2023,
@@ -265,9 +282,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Wiltern",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-10-09 - Los Angeles, CA - The Wiltern (DPA 4081) (faninor) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -278,9 +296,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Rocklin, CA",
       "venue": "Quarry Park Amphitheatre",
-      "notes": "SP-CMC-4U · vibrioidxire",
+      "notes": "SP-CMC-4U \u00b7 vibrioidxire",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-10-13 - Rocklin, CA - Quarry Park Amphitheatre (SP-CMC-4U) (vibrioidxire) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -293,7 +312,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-08-10 - Liverpool, NY - Sharkey's Event Center (inc Soundcheck) (MK41) (beatkilla) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -304,9 +324,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Regent Theater",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-09-19 - Los Angeles, CA - The Regent Theater (DPA 4081) (faninor) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -317,9 +338,10 @@ const ARTIST_DATA = {
       "state": "MS",
       "location": "Biloxi, MS",
       "venue": "Mississppi Coast Coliseum",
-      "notes": "Schoeps MK4 · jesse mc",
+      "notes": "Schoeps MK4 \u00b7 jesse mc",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-04-27 - Biloxi, MS - Mississppi Coast Coliseum (Schoeps MK4) (jesse mc) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -330,9 +352,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "The Plaza Theatre",
-      "notes": "Panasonic MM-BSM7s · kevdogg",
+      "notes": "Panasonic MM-BSM7s \u00b7 kevdogg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-10-07 - Orlando, FL - The Plaza Theatre (Panasonic MM-BSM7s) (kevdogg) [AUD].txt"
     },
     {
       "year": 2025,
@@ -343,9 +366,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Ponte Vedra, FL",
       "venue": "Ponte Vedra Concert Hall",
-      "notes": "Panasonic MM-BSM-7s · kevdogg",
+      "notes": "Panasonic MM-BSM-7s \u00b7 kevdogg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-10-12 - Ponte Vedra, FL - Ponte Vedra Concert Hall (Panasonic MM-BSM-7s) (kevdogg) [AUD].txt"
     },
     {
       "year": 2025,
@@ -356,9 +380,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Neighborhood Theatre",
-      "notes": "M · Shure MV88 · shynomi",
+      "notes": "M \u00b7 Shure MV88 \u00b7 shynomi",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-10-16 - Charlotte, NC - Neighborhood Theatre (Shure MV88) (shynomi) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -369,9 +394,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-10-27 - Cleveland, OH - House of Blues (SP-CMC-8) (live2cd) [AUD].txt"
     }
   ],
   "misc": [

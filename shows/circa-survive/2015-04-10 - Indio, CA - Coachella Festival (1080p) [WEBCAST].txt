@@ -1,0 +1,71 @@
+Circa Survive
+Coachella Festival
+Coachella Stage
+Empire Polo Grounds
+Indio, CA
+April 12, 2015
+
+Lineage: Live Webcast -> FFmpeg -> Avidemux 2.6 -> .mkv (no transcoding)
+Video: MPEG4 Video (H264) 1920x1080 4000 Kbps 30.00 fps
+Audio: AAC 256 Kbps 48.0 KHz stereo
+
+Setlist:
+Child of the Desert
+Schema
+Holding Someone's Hair Back
+In the Morning and Amazing...
+Only the Sun
+Strange Terrain
+Sharp Practice
+In Fear and Faith
+Get Out
+
+TRT = 42 mins 35 secs
+
+MediaInfo:
+General
+Unique ID                                : 281893081807426877444657731795987395007 (0xD412A1FB0AD81B3182A69F04E6DEF1BF)
+Complete name                            : Circa Survive - 2015-04-12 Coachella, Indio, CA [1080p].mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 1.30 GiB
+Duration                                 : 42mn 35s
+Overall bit rate                         : 4 370 Kbps
+Writing application                      : Lavf54.63.104
+Writing library                          : Lavf54.63.104
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 1 frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 42mn 35s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 30.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 42mn 35s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : unknown
+Default                                  : Yes
+Forced                                   : No

@@ -1,0 +1,33 @@
+ffp:
+wilco1998-09-12t01.flac:6d29b42ac63a0e6b0b699f85073f900e
+wilco1998-09-12t02.flac:bcd6d5d17849cc8ebea5336b0d76fe4a
+wilco1998-09-12t03.flac:010cbfbfc97207c87a9d3bc2caec03f4
+wilco1998-09-12t04.flac:b81639ca739602f9812cfea4b4190c63
+wilco1998-09-12t05.flac:eabe4d380fd31e5a2bcd1bd7c16b2b40
+wilco1998-09-12t06.flac:fd67dbb40c7275d358ee5cd2a9fbe634
+wilco1998-09-12t07.flac:740eec5f15e1e719b58b579c8992dc9e
+wilco1998-09-12t08.flac:f22c3550ae1e18bdfc79c7b1d3e047a9
+wilco1998-09-12t09.flac:da53472fe76bdf2e012b558cacdc4be6
+wilco1998-09-12t10.flac:2b04f92397aa934af60708e7dd6774c7
+wilco1998-09-12t11.flac:3819d52a62c3d9aa780d32a3099ec246
+wilco1998-09-12t12.flac:38301872abae4c43cbb936abae676383
+wilco1998-09-12t13.flac:8dd9feaaf062de5d5066e57bc9e54170
+
+No errors occurred.
+
+st5:
+6d29b42ac63a0e6b0b699f85073f900e  [shntool]  wilco1998-09-12t01.flac
+bcd6d5d17849cc8ebea5336b0d76fe4a  [shntool]  wilco1998-09-12t02.flac
+010cbfbfc97207c87a9d3bc2caec03f4  [shntool]  wilco1998-09-12t03.flac
+b81639ca739602f9812cfea4b4190c63  [shntool]  wilco1998-09-12t04.flac
+eabe4d380fd31e5a2bcd1bd7c16b2b40  [shntool]  wilco1998-09-12t05.flac
+fd67dbb40c7275d358ee5cd2a9fbe634  [shntool]  wilco1998-09-12t06.flac
+740eec5f15e1e719b58b579c8992dc9e  [shntool]  wilco1998-09-12t07.flac
+f22c3550ae1e18bdfc79c7b1d3e047a9  [shntool]  wilco1998-09-12t08.flac
+da53472fe76bdf2e012b558cacdc4be6  [shntool]  wilco1998-09-12t09.flac
+2b04f92397aa934af60708e7dd6774c7  [shntool]  wilco1998-09-12t10.flac
+3819d52a62c3d9aa780d32a3099ec246  [shntool]  wilco1998-09-12t11.flac
+38301872abae4c43cbb936abae676383  [shntool]  wilco1998-09-12t12.flac
+8dd9feaaf062de5d5066e57bc9e54170  [shntool]  wilco1998-09-12t13.flac
+
+No errors occurred.

@@ -1,0 +1,43 @@
+Dave Matthews Band
+Shoreline Amphitheatre
+Mountain View, CA
+August 2, 2000
+
+Taper:		Craig Willoughby <marchingant@earthlink.net>
+Source Info:	neumann ak40s > neumann lc-3 active cables > neumann km100s > 
+		Lunatec V2 > Audio Magic Excalibur-II XLRs > Apogee AD-1000
+Location:	15th row, dead center
+		stand started at 10', raised to 15' during show
+
+DAT > CD:	David Baty <dbaty@usermail.com>
+Equip:		D8 > Montego II+ > CEP 1.1 > CDWAV
+
+
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+d1t01		Intro					01:47.22
+d1t02		One Sweet World				09:42.71
+d1t03		Satellite				05:18.26
+d1t04		Recently				11:35.38
+d1t05		Dancing Nancies				10:39.43
+d1t06		Grey Street				08:09.39
+d1t07		Lover Lay Down				08:21.44
+d1 totals 55:36.58
+
+d2t01		JTR					08:40.57
+d2t02		Don't Drink The Water			08:23.30
+d2t03		Typical Situation			14:02.33
+d2t04		So Much To Say -->			04:22.49
+d2t05		Anyone Seen The Bridge? -->		01:27.70
+d2t06		Too Much				06:16.39
+d2t07		Warehouse				09:28.69
+d2 totals 52:44.22
+
+d3t01		Jimi Thing				18:45.31
+d3t02		Rhyme & Reason				06:51.13
+d3t03		Two Step				24:06.25
+d3t04		Grace Is Gone				05:54.52
+d3t05		What Would You Say?			05:49.00
+d3 totals 61:19.46
+
+entire show with Butch Taylor

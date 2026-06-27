@@ -1,0 +1,110 @@
+311  
+2024-08-25 - 
+Cal Coast Credit Union Open Air Theatre, 
+San Diego State University, 
+5500 Campanile Drive, 
+San Diego, CA, USA  
+"Unity Tour Summer 2024"  
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+01. intro >
+02. Beautiful Disaster
+03. Freeze Time
+04. Sunset In July
+05. What the?!
+06. Come Original
+07. Champagne
+08. Don't Tread On Me
+09. Transistor
+10. bass solo
+11. One & the Same
+12. Lovesong
+13. Stealing Happy Hours
+14. Don't Stay Home
+15. Applied Science
+16. All Mixed Up
+17. You're Gonna Get It
+18. Amber
+19. Do You Right
+20. Creatures (For a While)
+21. encore break
+22.E: Beyond the Gray Sky
+23.    Down  
+
+Total: 1h37m20s  
+
+Nick Hexum (Nicholas Lofton Hexum) - rhythm guitar, keys, vox
+Aaron "P-Nut" Wills (Aaron Charles Wills) - bass
+Chad Sexton (Chad Ronald Sexton) - drums, percussion
+Tim Mahoney (Timothy Jerome Mahoney) - lead guitar
+Doug "SA" Martinez (Douglas Martinez) - turntables, percussion, vox  
+
+faninor Notes:  
+--Neon Trees & AWOLNATION opened.
+--faninor -- 2024-09-01 --  
+
+vg NOTES (2025-02-06):  
+--Thanks so much to faninor for recording & sharing this 311 2024 show. Absolutely Appreciated!!  
+--lineup for this evening (from start to finish):  Neon Trees;  AWOLNATION;  311  
+--Set Times: Doors:  6:00pm;  Event Start:  7:00pm;  311 Set: 8:55pm-10:30pm  
+--added the band members info
+--added more detail to the setlist info & venue info
+--venue began its life on Founder’s Day in 1941 (April) as the "Greek Theatre" & soon thereafter was named the "Open Air Theatre (or 'SDSU Open Air Theatre')" until 2014-01-01...as of 2014, it has been renamed the "Cal Coast Credit Union Open Air Theatre" (2014-present [2025])...it is also commonly known as:  "Open Air Theater", "Open Air Theatre at SDSU", "Greek Bowl", "OAT", "San Diego State University Amphitheatre", "SDSU Amphitheater", "San Diego State University SDSU OAT"
+--created an md5 checksum file
+--added the ffp fingerprints & md5 checksums to the text file
+--added a few nice pics of the venue  
+
+ffp:  
+311-2024-08-25t01.flac:8b253b890105541bebb1c9d99c7a4e02
+311-2024-08-25t02.flac:e30f248f056e62a17781b8db754c5034
+311-2024-08-25t03.flac:d1977ac5987c2a8bbf3cc92886931ce9
+311-2024-08-25t04.flac:d402ab0e4014c5bc1121732f7f9808c5
+311-2024-08-25t05.flac:a9532d62b1b9bc1ccdc3397cc7aefc0b
+311-2024-08-25t06.flac:1ba13b1d6cba6e66a27871cd6828aaaf
+311-2024-08-25t07.flac:69994c2734d9ff71516e98312aa4478a
+311-2024-08-25t08.flac:0f96e70b2a23e11267667106e8229b03
+311-2024-08-25t09.flac:1f529d98babbc2d78dc00768e7568f7b
+311-2024-08-25t10.flac:df4dfce84093ae1d4c327ba1372bd322
+311-2024-08-25t11.flac:fe31a6760f06d2d085f1f2134dffb18c
+311-2024-08-25t12.flac:c9d40362ec1fce9ec7aa65efadf8df5e
+311-2024-08-25t13.flac:04fb09d07facb450009d4e049c04870d
+311-2024-08-25t14.flac:ae0beccf52477f2aae324fe3a9788ac2
+311-2024-08-25t15.flac:c2779d51c285ba4a603e188ae9dd1ba5
+311-2024-08-25t16.flac:22f176ac124ce598f272b7efd36646a2
+311-2024-08-25t17.flac:8f4432a8caac80f0fc346678ee334256
+311-2024-08-25t18.flac:97a9dad80fb2b9b0131eb3d920cc943d
+311-2024-08-25t19.flac:ff8dd7de0c8af58c1243ee6774e2d16f
+311-2024-08-25t20.flac:45d71ab11628b65b76920539e3545f75
+311-2024-08-25t21.flac:e8bbce42898ca72c6ab0a60965ac8ee5
+311-2024-08-25t22.flac:3a8674291e728a8ed5767238af9d3583
+311-2024-08-25t23.flac:860a57e2b6726851b893e83db3417482  
+
+md5:  
+16cd59fc66e43aeb9bc054caa66d8741 *311-2024-08-25t01.flac
+ea5f9ba4cf0064b0488e9d234dbda222 *311-2024-08-25t02.flac
+fcfdf90d25d7cd522b27a3b1eae0e8d3 *311-2024-08-25t03.flac
+a8901b54fcb8076023d4ebce301273ac *311-2024-08-25t04.flac
+159477d9ed64bf72273e04bb424ddaa8 *311-2024-08-25t05.flac
+8341b659ed4bfb659d88ab3bae6c6b0b *311-2024-08-25t06.flac
+27a898b64ce562e9e566335642c66f6d *311-2024-08-25t07.flac
+713d640ce0e2a0e269488c6d12c3d271 *311-2024-08-25t08.flac
+bd3b3b6516a9787888a1c078711a459d *311-2024-08-25t09.flac
+c187a44a1ac04be57eedf642fc559606 *311-2024-08-25t10.flac
+db78d731b9cc314ebb877898d6e49311 *311-2024-08-25t11.flac
+23f065b38a644db22a1be381ee50470c *311-2024-08-25t12.flac
+52676abc714276bed686067492b1aa0f *311-2024-08-25t13.flac
+0ce531d7435d70ea67f1bd386f6fac96 *311-2024-08-25t14.flac
+b83a84fdf7436d1d2aa80205ef22b598 *311-2024-08-25t15.flac
+2af12e38d19a918318965f8becf13984 *311-2024-08-25t16.flac
+9dcbe755d895ab2b5381a35ad4f3ae5f *311-2024-08-25t17.flac
+10580bc8f17b12b0f738187e488542a2 *311-2024-08-25t18.flac
+6c0fbf56aa52fe5635ea2aea017bc713 *311-2024-08-25t19.flac
+9fff4e4fe99df4c1b6335a09939e9492 *311-2024-08-25t20.flac
+f02fcc58d07d6b35e1eb5459f91fc12e *311-2024-08-25t21.flac
+fef4c6f7b6cb88d8c140f27049bd1192 *311-2024-08-25t22.flac
+225f37e956c48b55a423091c1d49eeb9 *311-2024-08-25t23.flac  

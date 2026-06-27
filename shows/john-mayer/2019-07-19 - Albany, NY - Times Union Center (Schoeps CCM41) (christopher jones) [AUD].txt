@@ -1,0 +1,62 @@
+John Mayer
+19 July 2019
+Times Union Center
+Albany, New York
+
+Recorded by: Christopher Jones <jones.chris@gmail.com>
+Source: Schoeps CCM41 Handmatched Compact Supercardioid > Rupert Neve Designs Portico 5012-H Microphone Preamplifier (ÒSilkÓ circuit engaged) > Mogami XLR Interconnect > Mytek Brooklyn Analog-to-Digital Converter (@ 24-bit / 96 kHz) > Mogami AES / EBU Digital Interconnect > Sound Devices 722 Hard Disk Recorder (slaved to Mytek Brooklyn @ 96 kHz; @ 24-bit / 96 kHz)
+Location: FOH; microphones elevated approximately 4.5 meters, A-B
+HDD > .flac: Sound Devices 722 Hard Disk Recorder > Apple Macbook Pro (2.53 GHz Intel Core 2 Duo / 4GB 1067 MHz DDR3) > Apple Logic Pro X > Sound Forge Pro Mac 3.0.0 (Build 100) > xACT v2.41
+
+Set I:
+
+t01 Introduction  						01:50.59
+t02 Intro To...  						01:58.16
+t03 Belief  							05:18.29
+t04 Love On The Weekend  					04:34.11
+t05 Who Says  							03:47.45
+t06 Helpless  							07:59.56
+t07 Moving On And Getting Over  				04:54.07
+t08 Something Like Olivia  					04:29.39
+t09 Edge Of Desire  						05:54.40
+t10 Vultures  							05:39.50
+t11 Wildfire  							04:35.19
+t12 I Guess I Just Feel Like  					07:08.38
+
+Set II:
+
+t13 Introduction  						01:10.55
+t14 The Age Of Worry >  					02:11.42
+t15 Emoji Of A Wave  						03:52.09
+t16 Daughters  							04:33.06
+t17 (Something's Missing) >  					00:48.37
+t18 In Your Atmosphere  					05:21.53
+t19 Still Feel Like Your Man  					06:19.00
+t20 Love Is A Verb  						02:36.18
+t21 Why Georgia  						05:16.71
+t22 (The Beautiful Ones #) >  					01:16.61
+t23 Slow Dancing In A Burning Room  				09:25.04
+t24 Rosie  							08:40.06
+t25 If I Ever Get Around To Living  				10:38.31
+t26 In The Blood  						04:31.31
+t27 Waiting On The World To Change  				03:40.35
+t28 "Thank You Guys..."  					04:18.28
+t29 Gravity (I've Got Dreams To Remember +)			12:15.00
+---
+t30 Born And Raised %  						05:18.17
+t31 New Light %							04:44.23
+
+								155:08.36
+
+>  Indicates a segue into the next song
+() Indicates a tease or partial song if not part of a song with a parenthetical subtitle
+#  Prince cover
++  Otis Redding cover
+
+Notes:
+
+%  Source: DPA 4011ER > Tascam DR-100 MKIII (@ 24-bit / 96 kHz), ORTF.  Battery lost on 
+   primary source (CCM41 > Neve Portico > Mytek Brooklyn) during encore break.  DPA 4011ER 
+   backup source spliced during encore break.
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 26 August 2019.

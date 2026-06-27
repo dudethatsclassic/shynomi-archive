@@ -1,0 +1,84 @@
+Dave Matthews Band
+July 4, 2014
+FirstMerit Bank Pavilion at Northerly Island
+Chicago, IL
+
+
+
+Taper: Rockinman 
+Location: Rear of GA PIT, Right stack, mics A-B config, stand height @ 13 Feet
+Source: akg460mods/ck63 hypercaps(linear bass setting)>UA5 preamp(Wmod)>Marantz PMD661(SPDIF In) @ 24/48 kHz 
+Transfer: PMD661->USB->PC 
+Conversion: 24/48kHz wav->Sound Forge Pro 10> iZotope 64-Bit SRC & iZotope MBIT+ for resample and dither to 16/44.1 kHz, No normalization, Fade in fade out applied, Waves L3 Ultramaximizer applied->CDWave Editor->Flac (level 5)> Foobar 2000 for tagging 
+
+*************************************************************************************************
+**DO NOT ENCODE THIS SHOW TO LOSSY FORMATS EXCEPT FOR PERSONAL USE**
+*****************DO NOT SELL OR DISTRIBUTE FOR PROFIT******************************
+*************************************************************************************************
+
+Set I (Acoustic Set)
+
+Disc 1
+
+01. Intro
+02. So Damn Lucky (Thank You outro)
+03. Stolen Away on 55th & 3rd
+04. Crash into Me (Dixie Chicken)
+05. Sugar Man
+06. Ants Marching (Direct intro)
+07. Sweet
+08. Take Me to Tomorrow &
+09. What Would You Say
+
+Set Break
+
+Set II (Main Set)
+
+Disc 2
+
+10. Intro
+11. #41
+12. So Right
+13. Don't Drink the Water (w/prelude)
+14. If Only
+15. One Sweet World (Swim Naked outro)
+16. Satellite (Improv jam intro)
+17. Belly Belly Nice
+18. Seven
+
+Disc 3
+
+19. So Much to Say->
+20. Anyone Seen the Bridge->
+    Too Much (fake)->
+21. Tripping Billies (Nature intro)
+22. Drunken Soldier $
+23. Save Me $
+24. Long Black Veil $
+25. Sledgehammer $
+
+26. Encore Break
+
+Encore
+
+27. The Space Between
+28. Grey Street
+
+
+
+
+& John Denver cover
+$ Lovely Ladies guesting on vocals
+
+
+
+Notes:  Fireworks are in the background during the main electric set in celebration of Independence Day
+
+ 
+Thanks to Crumbo and Mike for the beers.  Thanks to Mike and Elana for help blocking the stand.  Special thanks to Alyson and Brad for the ride and all their hospitality!  
+
+
+
+
+
+Compiled by Tom Gambichler on July 5, 2014 

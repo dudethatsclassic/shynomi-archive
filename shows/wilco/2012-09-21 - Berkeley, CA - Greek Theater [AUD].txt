@@ -1,0 +1,48 @@
+Wilco
+
+September 21, 2012
+
+Greek Theater
+Berkeley, CA
+
+AK40 >> LC3 >> KM100 >> R-44 (Oade CM) >> WAV (24bit/44.1KHz)
+
+Adobe Audition 3.0 >> Ozone 4 VST >> multiband exciter >> loudness maximizer >> dither to 16 bit (MBIT+ algorithm) >> FLAC conversion with TLH
+
+01 - Dawned On Me
+02 - War On War
+03 - I Might
+04 - Sunken Treasure
+05 - Black Moon
+06 - Spiders (Kidsmoke)
+07 - Impossible Germany
+08 - Born Alone
+09 - Laminated Cat (aka Not For The Season)
+10 - Radio Cure
+11 - Handshake Drugs > Wishful Thinking
+12 - Shouldn't Be Ashamed
+13 - Whole Love
+14 - Box Full of Letters
+15 - I'm Always In Love
+16 - Heavy Metal Drummer
+17 - I'm the Man Who Loves You
+
+Encore:
+18 - I Am Trying to Break Your Heart
+19 - Art of Almost
+20 - Standing O
+21 - California Stars
+22 - A Magazine Called Sunset
+23 - Hummingbird
+24 - Shot in the Arm
+
+Encore:
+25 - Hoodoo Voodoo
+26 - Outtasite (Outta Mind)
+
+Show notes:
+
+Sunken Treasure (Jeff on acoustic; no harmonica)
+Spiders (Kidsmoke) (acoustic arrangement)
+Laminated Cat (aka Not For The Season)  (electric arrangement)
+Hoodoo Voodoo (w/ bass/guitar/keyboard tech Josh on cowbell)

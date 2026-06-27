@@ -1,0 +1,58 @@
+John Mayer
+2008-08-22
+Darien Lake Performing Arts Center,
+Darien Center, NY
+
+Source: audio-technica 4041's > Segue Dogstar Silver XLR > Edirol UA-5 [Oade P-mod] > Creative Nomad JB3 [44.1]
+Config: POS (~75deg)   Location: DFC, FOB, Box 23, 8ft high
+Transfer: JB3 [usb] > PC > CDWAV > FLAC (585 MB)
+Recorded & Transfered by: Seth Nochajski <nochajski@gmail.com>
+
+One Set: -108:10.71- total
+01 -04:06.50- Waiting on the World to Change,
+02 -06:19.18- Vultures,
+03 -07:26.24- I Don't Trust Myself (With Loving You),
+04 -05:05.48- Good Love is On the Way,
+05 -06:43.46- Something's Missing,
+06 -10:45.31- Mercy,
+07 -06:58.39- No Such Thing into Why Georgia,
+08 -06:15.39- Belief,
+09 -04:09.08- Taking On Water,
+10 -05:20.38- Bigger Than My Body,
+11 -12:21.40- Wheel,
+12 -01:58.42- band intros,
+13 -07:17.18- Say,
+14 -07:35.19- E: Neon,
+15 -05:08.20- Free Falling,
+16 -02:09.28- medley,
+17 -08:30.13- Gravity
+
+notes:
+
+One Republic opened
+
+Never For Sale
+
+please support bands that allow taping by buying merch. & attending shows
+
+http://www.johnmayer.com/
+
+
+FF:
+jmayer2008-08-22.at4041.t01.flac:a3cce04392d553a19b1ff6d413ea0450
+jmayer2008-08-22.at4041.t02.flac:135eae496ec9b1ad3c61e2338286297a
+jmayer2008-08-22.at4041.t03.flac:ea2adcb5285e050e88ab1ffabe241526
+jmayer2008-08-22.at4041.t04.flac:b4e7bb70b41dfae5f5440ac8fd6eb774
+jmayer2008-08-22.at4041.t05.flac:75b107d1da68c22a244c0cc697a8e977
+jmayer2008-08-22.at4041.t06.flac:bd4040fa95a150de8ea56a4c76813494
+jmayer2008-08-22.at4041.t07.flac:6043c964d505748ee74bb39c7e2a6e51
+jmayer2008-08-22.at4041.t08.flac:c51252c826a6e50f5cd8f304498482d4
+jmayer2008-08-22.at4041.t09.flac:86d1112d97cfcdf515a940acc40e7b99
+jmayer2008-08-22.at4041.t10.flac:e042d2fae83e0c940dd1f188fb96469a
+jmayer2008-08-22.at4041.t11.flac:c5dced3fce8cb50ba523cab894ac8f92
+jmayer2008-08-22.at4041.t12.flac:aa28edae23e6b6380cac8624a254fdff
+jmayer2008-08-22.at4041.t13.flac:43f4a435a90cbf55080e6fe2533298cf
+jmayer2008-08-22.at4041.t14.flac:8df70af942874b4eeab3c6790c1d3230
+jmayer2008-08-22.at4041.t15.flac:9bd2c0ae54534a1050dcb4d2bd7c73f8
+jmayer2008-08-22.at4041.t16.flac:0f7bb2d14948f3eb937202fe665b2f00
+jmayer2008-08-22.at4041.t17.flac:2eb134038eab1a812f32df0d5faaa24d

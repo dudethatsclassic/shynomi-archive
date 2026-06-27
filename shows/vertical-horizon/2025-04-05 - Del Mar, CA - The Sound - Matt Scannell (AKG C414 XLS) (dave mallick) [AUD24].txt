@@ -1,0 +1,23 @@
+Matt Scannell
+April 5th, 2025
+The Sound, Del Mar, CA
+
+Master:
+AKG C414 XLS (hypercard) > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+Stand at 8' in VIP area, 10' right of FOH
+by Dave Mallick
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.10.1 > xACT 2.57 > FLAC
+by Dave Mallick
+
+01. Send It Up                  [04:58.902]
+02. You’re A God / story        [12:00.333]
+03. The Man Who Would Be Santa  [05:51.096]
+04. I’m Still Here              [06:31.899]
+05. Give You Back               [06:20.311]
+06. Best I Ever Had             [06:10.968]
+07. Everything You Want         [06:48.283]
+                         Total: [48:41.791]
+
+Opening set for Matt Nathanson.

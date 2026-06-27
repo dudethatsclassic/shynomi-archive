@@ -1,0 +1,37 @@
+John Mayer
+Sandstone Amphitheatre
+Bonner Springs, Kansas
+July 28th, 2003
+
+Taper:	Chuck Lesiak 
+
+Source:	AT853 -> Sp-Pre-Amp -> d100
+
+Conversion: d100 -> Dio 2448 -> Soundforge 6.0 -> cdwav 1.71 -> mkwACT 0.97b1
+
+Location: Section 2 Row U Seat 5-6 @ ~13'
+
+****************************
+*** Do NOT encode to mp3 ***
+****************************
+
+01: Neon			- 06:10:25
+02: No Such Thing		- 04:23:03
+03: Back To You			- 05:18:26
+04: My Stupid Mouth		- 05:21:06
+05: Bigger Then My Body		- 05:04:64
+06: 3x5				- 09:17:14
+07: Come Back to Bed		- 12:36:16
+08: Your Body Is A Wonderland	- 06:37:31
+09: Why Georgia			- 06:30:65
+10: Encore Break		- 02:58:33
+11: Daughters			- 04:45:49
+12: 83				- 07:50:74
+
+Total				- 76:44:31
+
+Notes: 
+
+Compiled on August 20, 2003 by Chuck Lesiak
+
+GEAR USED: trade CDR > EAC > TLH > .flac files

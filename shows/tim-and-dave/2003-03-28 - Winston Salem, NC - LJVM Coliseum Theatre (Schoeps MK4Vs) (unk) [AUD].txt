@@ -1,0 +1,54 @@
+Dave Matthews and Tim Reynolds
+LJVM Coliseum Theatre: Winston-Salem, NC
+March, 28, 2003
+
+Source:     Schoeps MK4Vs->KCY actives->Schoeps VMS5U->Sony SBM-1->Sony PCM-M1
+Location:   7" from side fill monitors	
+
+Conversion: Sony M1->SGI Octane coax->SGI Sound Editor-> NFS mount(linux)->shn
+
+
+Disc One:
+
+01	intro                    		1:24.64
+02	Loving Wings(tease) ->			2:24.67
+03	Bartender				10:36.12
+04	When the World Ends(Extended Outro)	5:35.23
+05	Lie I Our Graves			8:43,54
+06	Grace is Gone				5:36.11
+07	The Stone(Wise Men Outro)		8:05.55
+08	#41					9:07.30
+09	Crash(Dixie Chicken Outro)		6:53.73
+10	Two Step				6:55.67					
+
+
+Disc 2:
+
+01	intro					0:58.74
+02 	Lover Lay Down				5:26.42
+03	Help Myself				4:10.45				
+04	Satellite(weird intro)			7:40.46
+05	The Maker				5:17.70
+06	Stay or Leave				4:44.44
+07	Gravedigger				4:45.08
+08	Tim solo				5:25.09
+09	Dave speak				2:58.27
+10	Crush					14:04.53
+11	Long Black Veil				9:24.70
+12	All Along the Watchtower		6:44.08
+
+
+Disc 3:
+
+01	Everyday(#36)				8:40.71
+02	Tim Solo				5:51.01
+03	intro to...				1:12.68
+04	Cry Freedom				7:08.67
+05	Don't Drink the Water			8:46.57
+06	Ants Marching				4:49.06
+07	encore break(DAT flip)			4:18.11
+08	Little Thing				3:44.70																
+09	Where Are You Going			4:10.44
+10	Dancing Nancies *			12.07.57
+
+* @ 4:35-4:39 diginoise was present in master so 5 sec of DPA 4022>V3>minime source was cross faded in						      

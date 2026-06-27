@@ -1,0 +1,42 @@
+Wilco 
+February 10, 2012
+Arlington Theatre
+Santa Barbara, CA
+
+Source: SBD > Sony PCM-M1 
+Lineage: DAT Master 16/44.1 > FLAC
+Transfer (RyanJ): Tascam DA-20 > coax > Marantz PMD-671 > Audition > .wav
+Mastering (BLG): Adobe Audition > iZotope Ozone 9 > WavePad > xACT > FLAC
+Taper: anonymous
+
+01 Reservations (mostly cut)
+02 Art of Almost
+03 I Might
+04 I Am Trying To Break Your Heart
+05 One Wing
+06 She's a Jar
+07 Impossible Germany
+08 Born Alone
+09 One By One
+10 California Stars
+11 Capitol City
+12 Handshake Drugs
+13 Box Full of Letters
+14 Heavy Metal Drummer
+15 I'm the Man Who Loves You
+16 Standing O
+17 Misunderstood
+18 Dawned On Me
+19 A Shot in the Arm
+
+Encore:
+20 Whole Love
+21 Hate It Here
+22 Red-Eyed and Blue
+23 I Got You (At the End of the Century)
+24 Outtasite (Outta Mind)
+25 Hoodoo Voodoo
+
+Total Time: 115:55
+
+.txt compiled on March 09, 2022 by BLG

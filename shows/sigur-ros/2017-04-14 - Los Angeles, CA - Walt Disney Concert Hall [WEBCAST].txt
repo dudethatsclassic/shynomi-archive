@@ -1,0 +1,94 @@
+Sigur Rós
+Walt Disney Concert Hall
+Los Angeles, California
+April 14, 2017
+
+Lineage: LIVE Webcast -> Livestreamer -> FFmpeg (edit) -> .ts 
+Video: MPEG4 Video (H264) 1280x720 16:9 1260 Kbps 30.00 fps
+Audio: AAC 128 Kbps 48.0 KHz stereo 
+
+Setlist:
+Set 1 (with the Los Angeles Philharmonic):
+Á
+Ekki Múkk
+Takk...
+Glósóli
+Hrafntinna
+Niður
+Fljótavík
+Starálfur
+Festival
+
+-intermission-
+
+Set 2:
+Sæglópur
+Ný Batterí
+Vaka
+E-Bow
+Kveikur
+Popplagið
+
+TRT = 02:01:05
+
+Captured and uploaded to DIME by indykid.
+
+MediaInfo:
+General
+ID                                       : 1 (0x1)
+Complete name                            : Sigur Ros - 2017-04-14 Walt Disney Concert Hall, Los Angeles, CA [720].ts
+Format                                   : MPEG-TS
+File size                                : 1.18 GiB
+Duration                                 : 2h 1mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 392 Kbps
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 1 frame
+Codec ID                                 : 27
+Duration                                 : 2h 1mn
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Muxing mode                              : ADTS
+Codec ID                                 : 15
+Duration                                 : 2h 1mn
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : -1s 125ms
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Duration                                 : 2h 1mn
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television
+
+Captured and uploaded to DIME by indykid.

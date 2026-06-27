@@ -1,0 +1,52 @@
+John Mayer
+22 July 2007
+Event Center
+The Borgata Casino, Hotel, and Spa
+Atlantic City, New Jersey
+
+Taper: Christopher Jones <jones.chris@gmail.com> 
+Source: DPA 4015-TL Transformerless Handmatched Wide Cardioid > Cardas Audio Golden Reference Cu XLR Interconnect (Matched Propagation, Golden Ratio, Constant Q, Crossfield, Pure Cu, Litz; Teflon¨ / Air Dielectric) > Daniel Weiss Digital Audio Gambit Series ADC2 Integrated Microphone Preamplifier | 24-bit / 192 kHz Analog-to-Digital Converter (@ 176.4 kHz) w/ Cardas Audio Cross AC Mains Power Cable > Cardas Audio Neutral Reference Cu XLR AES / EBU Interconnect (Matched Propagation Golden Ratio, Constant Q, Crossfield, Pure Cu, Litz; Teflon¨ / Air Dielectric) > Sound Devices 722 Hard Disk Recorder (slaved to Weiss ADC2 @ 176.4 kHz; @ 24-bit / 176.4 kHz)
+Location: DFC, ~ 30' from stage; microphones at 14', ORTF
+HD > .flac: Sound Devices 722 Hard Disk Recorder > Apple Mac Pro (2 x 2.66 GHz Dual-Core Intel Xeon / 1GB 667 MHz DDR2 FB-DIMM) > Spark XL 2.8.2 > xACT v1.59 
+
+Resampled and dithered using T.C. Works' respective highest quality resampling and Ultra-Noiseshaping functions.  24-bit / 176.4 kHz version of this recording available in .flac24. 
+
+d1t01 Introduction					01:51.27
+d1t02 Belief						06:26.67
+d1t03 No Such Thing					04:58.36
+d1t04 Intro To... >					02:30.59
+d1t05 I Don't Trust Myself (With Loving You)		07:03.42
+d1t06 Good Love Is On The Way				04:59.12
+d1t07 Dreaming With A Broken Heart			04:43.56
+d1t08 Waiting On The World To Change			04:30.54
+d1t09 Intro To... >					02:46.29
+d1t10 I Don't Need No Doctor #				07:54.42
+
+							47:45.49
+
+d2t01 Bigger Than My Body				06:32.51
+d2t02 Vultures						07:03.24
+d2t03 "Elevator Music..."				01:07.46
+d2t04 Why Georgia					06:19.02
+d2t05 "Band Introductions..."				01:06.71
+d2t06 Gravity						10:33.36
+
+---
+d2t07 (Wanted Dead or Alive) ^ %			00:54.72
+d2t08 Your Body Is A Wonderland %			04:42.57
+d2t09 Wheel						10:08.64
+
+							48:29.48
+
+
+>  Indicates a segue into the next song
+() Indicates a tease or partial song if not part of a song with a  
+   parenthetical subtitle
+#  As performed by Ray Charles
+^  Bon Jovi cover
+%  John and Robbie Macintosh acoustic
+
+
+Notes:
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 23 July 2007. 

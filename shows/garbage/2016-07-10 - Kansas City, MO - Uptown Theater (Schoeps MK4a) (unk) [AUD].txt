@@ -1,0 +1,41 @@
+Garbage
+2016-07-10
+Uptown Theater
+Kansas City, MO
+
+Source: Schoeps MK41 / CMR > Naiant Tinybox > Sony PCM-M10 @ 48 kHz / 24-bit
+Lineage: 48/24 WAV > Audacity 2.1.1 (split tracks, resample to 44.1 kHz, dither to 16-bit, convert to FLAC level 8) 
+
+
+Setlist:
+
+01 Sometimes
+02 I Think I’m Paranoid
+03 Stupid Girl
+04 Special
+05 ~ chat ~
+06 Blood For Puppies
+07 The Trick Is To Keep Breathing
+08 Empty
+09 My Lover’s Box
+10 ~ chat / intro to Sex Is Not The Enemy ~
+11 Sex Is Not The Enemy
+12 A Stroke Of Luck
+13 ~ chat ~
+14 Even Though Our Love Is Doomed
+15 Control
+16 ~ chat / intro to Blackout ~
+17 Blackout
+18 Automatic Systematic Habit
+19 Bleed Like Me
+20 Push It
+21 Vow
+22 Only Happy When It Rains
+23 Cherry Lips (Go Baby Go)
+
+Encore:
+
+24 Supervixen
+25 No. 1 Crush
+26 ~ chat / thanks ~
+27 Why Do You Love Me

@@ -1,0 +1,51 @@
+Sigur Rós w/ Amina
+Pavilhão Atlântico, Lisbon POR
+16/07/06 (Sunday)
+Support Slot: Amina
+
+*a PT tapers release*
+
+Taper: J.Mart (Stutter [at] sapo [dot] pt)
+Source: AT943's (cardioids) > SP-SPSB-6 (bass roll-off @ 69Hz) > JB3 (+10dB Gain, WAV 16bit/44kHz)
+Location: FOB DFC, DIN pointed 45º up, in headband (6,5ft)
+Lineage: Firewire > CTCMS > Adobe Audition 2.0 (normalize, fades, EQ'ing, minor glitch and artifact correction) > CDWav 1.7 > FLAC Frontend 1.1.1 and/or CD Nero 7.0
+
+
+Tracklist:*
+--------------
+01- Takk...
+02- Glósóli
+03- Ný Batterí
+04- Sæglópur
+05- Gong
+06- Andvari
+07- Hoppípolla
+08- Með Blóðnasir
+09- Sé Lest
+10- Viðrar Vel Til Loftárása ("Porque é que parou porra?!")
+11- Olsen Olsen
+12- Svo Hljótt
+13- Heysátan / Encore
+14- Popplagið / Outro
+15- "Jonsi Birgisson speaks about the end of tour"
+
+TRT: 01h:47m:44s
+
+*no fades at the middle of the show. You decide the CDs tracklist
+
+
+Notes: Not really a fan of big notes, but for a special gig, a special note: The last show of the tour, and it sounded like something really special. Decided to go to Lisbon just a few days before the concert, I knew i wasn't going to regret it, but my expectations were largely exceeded and turned out to be the best concert I've seen in a while. I've skipped their last 2 shows on Portuguese soil (Lisbon / Porto 05) and I couldn't be more angry with myself at this point. Tape doesn't really do them justice live, the shadow and light show was nothing short of stunning, and the excellent acoustics by the Pavilhão were a perfect match to the Sigur Rós sound. Some asshole that was so high that he thought he was at a Slayer concert, decided to scream at the top of his lungs during quiet parts of the concert, most noticebly during the small pause in the middle of "Viðrar Vel Til Loftárása". You can hear more from him throughout the concert. Several people spent the entire Amina set talking (loud) about how weird and "crappy" their music was instead of enjoying their beautiful music and ruining the concert for everyone else. As for the recording itself, it's an excellent audience recording, just check the samples provided. The venue was FAR from packed and got a safe distance from nasty clappers in the G.A.. I was just in front of the soundboard and wasn't very ninja hiding the mics from the sound guys, but they seemed to be ok with it. Apparently, my JB3 HD is fucked, and needing a format at least, causing some glitches and pops in the recording from time to time. I've checked the record twice for them, but i'm pretty sure i've corrected all of them, or the ones that was possible to do so. I'm also a huge paranoid with the position/angles of the microphones when using cardioids, causing (by instinct) to tap them and correct their position, leaving small "rub-like" sounds in the recording. Again, I've done my very best to correct the one I could. After leaving the stage from the encore, the whole band returned again and Jonsi Birgisson thanked the band, Amina and the whole crew for their presence and work during the tour, receiving a massive applause from the crowd, putting an end to a year long tour.
+It is however possible that I've mistracked the show or misnamed some songs. I love Sigur Rós but i couldn't name one of their less known songs to save my life, except for couple of them. I've used another sets of the tour and my Takk album as a reference for this one.
+
+-j.mart (Stutter)
+
+
+"""""""""""""""""""""""""""""""""""""Please, pass this info file along as you share the show.""""""""""""""""""""""""""""""""
+
+
+#############
+Do not distribute this show on a lossy format! I'm sharing this concert for free, it's the least you can do for me!
+Don't sell this recording as it is an act of betrayal towards the band!
+Share it freely and LOSSLESS!
+Buy Sigur Rós official releases
+#############

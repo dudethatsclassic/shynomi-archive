@@ -1,0 +1,121 @@
+WILCO
+June 28, 2012
+Big Sky Brewing Amphitheater
+Missoula, MT
+
+Source: AKG 460 ck61 mics (fob, dfc, ortf) > Lunatec V2 > Edirol R44-OCM (44.1kHz) > CDR
+Master recording by Mark Smith
+Transfer/remaster: 2-second crossover patch in Dawned to correct glitch; minor volume adjustments to balance the levels of the two channels (+ 1.0 to 2.25 dB added to left channel); both channels raised to peak level (no compression) in Sound Forge 6.0 (minor edits & fades) > CD WAV Editor 1.94.8 (seamless tracking) > FLAC Frontend (sector boundaries aligned; level 8) 
+Remaster, edit & tracking by Pastor Tim Christensen <YonderArchive at yahoo dot com>
+
+Please support Wilco by purchasing (and never burning) their commercial releases:
+http://wilco.kungfustore.com/categories/249-cds?page=1&per_page=14
+MP3's are for personal use only; please share and/or trade only the lossless FLAC files.
+Please do not transfer to Edison tin-cylinders, sub-grade wax discs, or 78 RPM Victrola platters.
+Check out the Whole Love story at http://www.WilcoWorld.net
+
+DISC ONE [65.34]
+01  Dawned On Me  4.32
+02  War On War  3.21
+03  I Am Trying To Break Your Heart  5.54
+04  I Might  4.00
+05  Misunderstood  5.37
+06  Spiders (Kidsmoke)  5.38
+07  Impossible Germany  7.21
+08  She's A Jar  4.46
+09  Born Alone  4.10
+10  Laminated Cat (aka Not For The Season)  5.12
+11  banter  0.47
+12  Jesus Etc  4.13
+13  Capitol City  4.08
+14  Handshake Drugs  5.55
+
+DISC TWO [66.58]
+15  Whole Love  5.00	
+16  Box Full Of Letters  3.18
+17  I'm Always In Love  4.27
+18  Heavy Metal Drummer  3.14
+19  "Happy Birthday, Trail 103.3 FM"  1.03
+20  A Shot In The Arm  4.52
+21  crowd  1.36
+...
+22  Poor Places >  4.58
+23  Art Of Almost  7.29
+24  Standing O  3.26
+25  Airline To Heaven  4.20
+26  crowd  1.20
+...
+27  Kingpin  6.37
+28  Walken  4.39
+29  I'm The Man Who Loves You  4.38
+30  Dreamer In My Dreams  6.01
+
+
+MONTANA LOVES WILCO!
+("States don't technically have feelings, but that's okay...")
+
+
+FFP:
+wilco2012-06-28_akg460-ck61_d1t01_DawnedOnMe.flac:5f9a832d24fa3ba7f02232073c34f5cf
+wilco2012-06-28_akg460-ck61_d1t02_WarOnWar.flac:3a8e709290d85a8e89d6f91de2171e8a
+wilco2012-06-28_akg460-ck61_d1t03_IAmTryingToBreakYourHeart.flac:b4be174185eb7e07bf6e33b82a53788e
+wilco2012-06-28_akg460-ck61_d1t04_IMight.flac:f29a3e68212f6faf8577c0607d0faadc
+wilco2012-06-28_akg460-ck61_d1t05_Misunderstood.flac:7db372e73860f9c8be287c24c8c2f928
+wilco2012-06-28_akg460-ck61_d1t06_SpidersKidsmoke.flac:f0a9a4230ab8fae5a56a778b54e5ebc8
+wilco2012-06-28_akg460-ck61_d1t07_ImpossibleGermany.flac:497ff278bef64c8a78cd56e444dda406
+wilco2012-06-28_akg460-ck61_d1t08_ShesAJar.flac:7deabc1e16ac2af4492c6f117f2d8813
+wilco2012-06-28_akg460-ck61_d1t09_BornAlone.flac:d461c44a7640119160d80e688fce35e7
+wilco2012-06-28_akg460-ck61_d1t10_LaminatedCat.flac:63fd156b52f419770ae6086d720a5f74
+wilco2012-06-28_akg460-ck61_d1t11_banter.flac:8e4320f62a9cc0007e01f20f3cf0ee0c
+wilco2012-06-28_akg460-ck61_d1t12_JesusEtc.flac:b8379f7cbca5c5a5d66117838e3c4d7a
+wilco2012-06-28_akg460-ck61_d1t13_CapitolCity.flac:03975dede998171ea8d86983db841a81
+wilco2012-06-28_akg460-ck61_d1t14_HandshakeDrugs.flac:b3af546bb84f495a1ca1fdf1984d7913
+wilco2012-06-28_akg460-ck61_d2t01_WholeLove.flac:35d75c5da4490d3757bfa7be45ab1ccf
+wilco2012-06-28_akg460-ck61_d2t02_BoxFullOfLetters.flac:77f78c842d6b1c290d54999d9e1a6e95
+wilco2012-06-28_akg460-ck61_d2t03_ImAlwaysInLove.flac:bcc0cbde060f92f91296eccd5f26a81f
+wilco2012-06-28_akg460-ck61_d2t04_HeavyMetalDrummer.flac:bfb98a4c836e114ec12a9e54ad42e949
+wilco2012-06-28_akg460-ck61_d2t05_HappyBirthdayTrail103.flac:b9b0d9c7ad579e793c314a9b190a231e
+wilco2012-06-28_akg460-ck61_d2t06_AShotInTheArm.flac:b2569a640d0b50701e4ea0367d485a31
+wilco2012-06-28_akg460-ck61_d2t07_crowd.flac:7e9fb65ac9464bdb9c0a31860496ded5
+wilco2012-06-28_akg460-ck61_d2t08_PoorPlaces-.flac:1806ab8347ecf10471ec48c7d9a7f3c2
+wilco2012-06-28_akg460-ck61_d2t09_ArtOfAlmost.flac:2471d251606bb84c582691e0261e50ae
+wilco2012-06-28_akg460-ck61_d2t10_StandingO.flac:6e0a5b9e2dc71c68b02085bf524ab27a
+wilco2012-06-28_akg460-ck61_d2t11_AirlineToHeaven.flac:688f7927b61a38480ee020c82e690a73
+wilco2012-06-28_akg460-ck61_d2t12_crowd.flac:83c834cf80bceeb415a9486980567ded
+wilco2012-06-28_akg460-ck61_d2t13_Kingpin.flac:63967f4b950c16edc7d385b58e3c9ddd
+wilco2012-06-28_akg460-ck61_d2t14_Walken.flac:1ef4ce487c9c520e8e0a6365678bc266
+wilco2012-06-28_akg460-ck61_d2t15_ImTheManWhoLovesYou.flac:684ede97dba06093befdac1ad72bd2a4
+wilco2012-06-28_akg460-ck61_d2t16_DreamerInMyDreams.flac:ae7a89b45d150a31da7390fb508d3b8c
+
+MD5:
+d08a97e39a1b57657f19af5260152e4c *wilco2012-06-28_akg460-ck61_d1t01_DawnedOnMe.flac
+f3cbd520c4e34ac9dfbba39bf082e1fa *wilco2012-06-28_akg460-ck61_d1t02_WarOnWar.flac
+c4b8915bca5135234a010a9f5075b478 *wilco2012-06-28_akg460-ck61_d1t03_IAmTryingToBreakYourHeart.flac
+ba071b91771cb02f229d29bb274d0cc8 *wilco2012-06-28_akg460-ck61_d1t04_IMight.flac
+ebe2ec9813d6b4c9f2180e9ae4937a42 *wilco2012-06-28_akg460-ck61_d1t05_Misunderstood.flac
+24766b914e205cd544410b81b8cd0f6e *wilco2012-06-28_akg460-ck61_d1t06_SpidersKidsmoke.flac
+4c39a2814799fc2606c77de95f5524c2 *wilco2012-06-28_akg460-ck61_d1t07_ImpossibleGermany.flac
+d52cd02dd11be14f558e39bb75886601 *wilco2012-06-28_akg460-ck61_d1t08_ShesAJar.flac
+2aa9e174fe69094f03c872dbcf9128c2 *wilco2012-06-28_akg460-ck61_d1t09_BornAlone.flac
+df23bb30dd46a83f2163488f9e0b16b9 *wilco2012-06-28_akg460-ck61_d1t10_LaminatedCat.flac
+976ca41917ad612f8ee5dc320e2c5b07 *wilco2012-06-28_akg460-ck61_d1t11_banter.flac
+40928d0f5d0cf4cac07a3d8a8327e6c9 *wilco2012-06-28_akg460-ck61_d1t12_JesusEtc.flac
+b5a0f60216f2c819a5807178ff4c16f0 *wilco2012-06-28_akg460-ck61_d1t13_CapitolCity.flac
+9727d17fa7870ab1c28d13b45ff088ff *wilco2012-06-28_akg460-ck61_d1t14_HandshakeDrugs.flac
+ffd2b5cba38c79b905afade3bcc7b2cd *wilco2012-06-28_akg460-ck61_d2t01_WholeLove.flac
+25b6313e5f40cadfad1764555bfea797 *wilco2012-06-28_akg460-ck61_d2t02_BoxFullOfLetters.flac
+b4383368153db2b690c20ecf8388f0c9 *wilco2012-06-28_akg460-ck61_d2t03_ImAlwaysInLove.flac
+d6b99e0c9ffc7b65513351b025fe5e9f *wilco2012-06-28_akg460-ck61_d2t04_HeavyMetalDrummer.flac
+e43f59d79f4bb7ed5da72c1ff3c4d551 *wilco2012-06-28_akg460-ck61_d2t05_HappyBirthdayTrail103.flac
+1101ca12da3e512896cf330d04690865 *wilco2012-06-28_akg460-ck61_d2t06_AShotInTheArm.flac
+eba08c9247a93f84270a20381e8887f4 *wilco2012-06-28_akg460-ck61_d2t07_crowd.flac
+636e1ad8c19add3954a315d21915f322 *wilco2012-06-28_akg460-ck61_d2t08_PoorPlaces-.flac
+d080646f6a77ccfeb6010f488d0e0c21 *wilco2012-06-28_akg460-ck61_d2t09_ArtOfAlmost.flac
+21f3012bfed4b7d89291ca7e87a94825 *wilco2012-06-28_akg460-ck61_d2t10_StandingO.flac
+6ac4fe094dfeda2bb1c3a68c2f63e679 *wilco2012-06-28_akg460-ck61_d2t11_AirlineToHeaven.flac
+d1afeb2ef30078bb438444c0d5e218c9 *wilco2012-06-28_akg460-ck61_d2t12_crowd.flac
+282fd82a6dc9e2c082f913008aae662b *wilco2012-06-28_akg460-ck61_d2t13_Kingpin.flac
+c1d4dfc733e87bd926d72521ae7eed8b *wilco2012-06-28_akg460-ck61_d2t14_Walken.flac
+17ed0a9f07d47562458763f568b728b2 *wilco2012-06-28_akg460-ck61_d2t15_ImTheManWhoLovesYou.flac
+e399f54311deead41e9a21409d9a5099 *wilco2012-06-28_akg460-ck61_d2t16_DreamerInMyDreams.flac
+

@@ -1,0 +1,28 @@
+Dave Matthews
+2016-10-22
+Shoreline Amphitheatre Mountain View, CA
+
+Recorded dead center 102.  Sound is very good.  
+
+Lineage: Schoeps MK40> Tinybox> Edirol R-05 (24 bit/48 Khz convertrd to 16/44.1 Bit with dBpPoweramp) 
+Transfer: SD/USB > WAV > Soundforge 10 (cleanup, fades & tracking) > TLH > flac(8) 
+Transferred by: ridemyllama 
+Recorded By: ridemyllama
+
+
+Setlist 
+1.	Don't Drink the Water
+2.	Satellite
+3.	Grey Street
+4.	Samurai Cop Story
+5.	Samurai Cop
+6.	Lie in Our Graves
+7.	Crush
+8.	Two Step
+
+
+Tour: Bridge School Benefit 2016
+Band: Dave Matthews 
+
+Dave Matthews - Vocals, acoustic guiter
+Tim Reynolds - acoustic guitar

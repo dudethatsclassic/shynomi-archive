@@ -1,0 +1,38 @@
+Sigur RósJun 19 2013 
+Junge garde, Dresden 
+Germany
+
+Webcast capture: austinbrock
+Webcast RTMP Stream > Replay Media Catcher 4 > FLV (audio: AAC 192 kbps) > VLC Media Player -> WAV (Audacity) -> FLAC Level 8 (44.1 kHz, 16 bit)
+Tracking: joebreslin (adobe audition 3.0)
+Digi-noise removal on popplagid: BLG
+
+Notes:
+After seeding the video of this webcast, we got several requests to also torrent the audio separately. While normally we will not be torrenting the audio rip of the webcast, the spectral analysis on this one looked really good, 'lossless'-like, going all the way to 20 kHz. In addition, there were a couple of noticeable digi-noise spikes, in Popplagid in particular, which we thought would be good to zap :-) So upon consulting with the Dime Mods, it was decided that editing those spikes out and torrenting tracked flacs (instead of the original untracked AAC file) would be best.
+Many thanks to everyone listed above and to the Mods for their help.
+
+inez (on the behalf of everyone involved)
+
+seeded to dime June 30, 2013
+
+
+setlist
+
+01 yfirbord
+02 hrafntinna
+03 isjaki
+04 kveikur
+05 brennisteinn
+06 vaka
+07 saeglopur
+08 svefn-g-englar
+09 varud
+10 hoppipolla > med blodnasir
+11 olsen olsen
+12 festival
+13 encore break
+14 glosoli
+15 popplagid
+
+	
+

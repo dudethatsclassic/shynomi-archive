@@ -1,0 +1,99 @@
+Wilco
+Gerald R. Ford Amphitheater
+Vail, CO
+August 17, 2025
+
+** 24 BIT **
+
+Source:  SP-BMC-12 binaurals > battery box > Edirol R-07 @ 24 bit/48 kHz
+Mastering:  .WAV's > iZotope RX11 Advanced v11.0.1.3871 (De-Click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in 
+(tilt EQ)] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.20 (tagging)
+Recorded by:  boyroy
+Mastered by:  Dennis Orr
+
+Setlist:
+- Set One - (1:21:10)
+01 Story To Tell
+02 Handshake Drugs
+03 I Am Trying To Break Your Heart
+04 If I Ever Was A Child
+05 Cruel Country
+06 Chat
+07 Forget The Flowers
+08 Evicted
+09 I'm Always In Love
+10 Spiders (Kidsmoke)
+11 Chat
+12 Bird Without A Tail / Base Of My Skull
+13 Hesitating Beauty
+14 Hummingbird
+15 Via Chicago
+16 It's Just That Simple
+17 You And I
+18 Falling Apart (Right Now)
+19 California Stars
+- Set Two - (1:18:41)
+01 The Late Greats
+02 Box Full Of Letters
+03 Annihilation
+04 You Are My Face
+05 Theologians
+06 Side With The Seeds
+07 Sunken Treasure
+08 Chat
+09 Either Way
+10 Impossible Germany
+11 Jesus, Etc.
+12 Love Is Everywhere (Beware)
+13 Hate It Here
+14 Heavy Metal Drummer
+15 I'm The Man Who Loves You
+16 Encore Break
+- Encore -
+17 Walken
+18 I Got You (At The End Of The Century)
+
+Jeff Tweedy – lead vocals, guitars, & harp
+Nels Cline – guitars, lap steel
+Pat Sansone – keyboards, guitars, synthesizers, maracas, tambourine, & backing vocals
+Mikael Jorgensen – samples and sound manipulation, keyboards, synthesizers, effects, piano, & organ 
+John Stirratt – bass, guitar, keyboards, & backing vocals
+Glenn Kotche – drums & percussion
+
+Wilco2025-08-17set1t01.flac:a5da5572b63cfe217d7a3c3c2f9ec0b7
+Wilco2025-08-17set1t02.flac:868b220fadd31dafefd024f2b7a2e956
+Wilco2025-08-17set1t03.flac:783d139fff0a58600b8dd5ffc9574488
+Wilco2025-08-17set1t04.flac:9a07977221e29a0838ace452cb697494
+Wilco2025-08-17set1t05.flac:cda109c475871eaab40505b55bca668d
+Wilco2025-08-17set1t06.flac:198c863730cba9a8072b8c5e211f59cb
+Wilco2025-08-17set1t07.flac:9358c6145d2c22d8aa04b6da9c37e402
+Wilco2025-08-17set1t08.flac:7237bab6c702a415c0974c4bfdc5dc27
+Wilco2025-08-17set1t09.flac:677ac8ea283daf20d5b8740a240d5e20
+Wilco2025-08-17set1t10.flac:ab3f2ed56bf20be99c5cc95001adff7c
+Wilco2025-08-17set1t11.flac:000d8da133a5f4236d78eeaa3c7be9c3
+Wilco2025-08-17set1t12.flac:da310703cfb984938453b8b1aea7e8fd
+Wilco2025-08-17set1t13.flac:821f6bf82c62ffba151f126e6ff6f8e3
+Wilco2025-08-17set1t14.flac:190ef4a296ecec0496583fa93d80ac85
+Wilco2025-08-17set1t15.flac:5fd077b4eddbccbf9c2ca39ea3dec764
+Wilco2025-08-17set1t16.flac:6fd9e7fb9da23904eb9f53be66f5d1d4
+Wilco2025-08-17set1t17.flac:64661606caa6d7fbc415f90b7da043c3
+Wilco2025-08-17set1t18.flac:83dcbf680f51c72bfa94f938cf43e13a
+Wilco2025-08-17set1t19.flac:2799fe6cef66f1d83c23beae620379e5
+Wilco2025-08-17set2t01.flac:e2a6dde7d04099e352f799194058eb39
+Wilco2025-08-17set2t02.flac:da380d71f760e738f81954ee74b827e4
+Wilco2025-08-17set2t03.flac:cdf6a95f5cc0849bf15d34860e388ecb
+Wilco2025-08-17set2t04.flac:342400926c73118e6469b6b0c11d008e
+Wilco2025-08-17set2t05.flac:1971f123dd136e112983bd9a992d2747
+Wilco2025-08-17set2t06.flac:5203c59b10e999f6817fbafc0ecdd54a
+Wilco2025-08-17set2t07.flac:437ba18ea602fe9b8272c6330c71e2be
+Wilco2025-08-17set2t08.flac:0c1a28019ef5603e172d0701098aa398
+Wilco2025-08-17set2t09.flac:d8c50ff5d53f072725d169df118832a6
+Wilco2025-08-17set2t10.flac:0ab7f84a76782461356f1504226d7b49
+Wilco2025-08-17set2t11.flac:e0fc0c1a957f1df9470d8d006274b3fa
+Wilco2025-08-17set2t12.flac:b1daa0f8512d486e2e73d8fe7cf06aea
+Wilco2025-08-17set2t13.flac:531c96077f48eb31ce7dd0890dd0b96f
+Wilco2025-08-17set2t14.flac:2976958455d349c777b90f2cef465dec
+Wilco2025-08-17set2t15.flac:a171987605e405296e9f53fac5d0fbcb
+Wilco2025-08-17set2t16.flac:b742d24c80e9ac8b3cf6daa6439077ee
+Wilco2025-08-17set2t17.flac:734ad37f793898ed64c07b67475b6d32
+Wilco2025-08-17set2t18.flac:ce4f728a42ea226c155762010783ee11

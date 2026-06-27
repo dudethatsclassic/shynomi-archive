@@ -1,0 +1,28 @@
+The Jayhawks 
+Electric Fetus
+Minneapolis, MN, USA
+2018-07-16
+
+Source: AKG ck63's > Lunatec V2 > Nbob colletes > Naint PFA > Tascam DR680 @ 24bit-48k
+location: DFC about 15 feet from the stage, mics up ~7.5ft
+mic config: DINa 
+
+1) Tuning/Intro
+2) Everybody Knows
+3) Need You Tonight
+4) Long Time Ago
+5) Come Cryin' To Me
+6) All The Right Reasons
+7) Bitter End
+8) Backwards Women
+9) brief explanation to next song
+10 ) Gonna Be A Darkness
+11) Blue
+
+editing notes:
+Pro Tools 12 for some EQ
+Sound Forge used to to lower any peaks, raise overall levels some and for fade in/outs
+R8Brain used to dither to 44k-16bit
+CDWAV used to split the tracks
+Shntool used to verify/correct Sector Boundaries
+

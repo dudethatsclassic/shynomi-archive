@@ -1,0 +1,57 @@
+Sigur Ros
+April 02, 2003
+Granada Theater
+Dallas, Tx
+
+Taper:		Mark Phillips <vphill@hotmail.com>
+
+Source:		Oktava Mc012 (hypers) > Sound Devices Mp-2 > 
+		Sony D8 @ 44.1Khz 
+
+Location:	Balcony front row DFC mics in XY
+		
+
+Conversion:	Tascam DA-302 > Frontier Design Group Wavecenter/PCI > Cdwav > 
+		Soundforge 5.0 (normalizing) > Cdwav (Tracking) > MKW (SHN)
+
+
+	********************************************
+	*	     Do Not encode to MP3          *
+	********************************************
+
+
+
+Track	Title				
+---	
+
+Disc One
+01. Intro
+02. Vaka 
+03. Milano 
+04. Ny Batteri 
+05. Gong 
+06. Olsen Olsen 
+07. Salka
+08. Vidrar 
+09. Haffsol 
+10. Smaskifa 
+
+Disc Two
+Encore: 
+01. Staralfur 
+02. Svefn g englar 
+03. Popplagið
+
+
+
+
+	********************************************
+	*	     Do Not encode to MP3          *
+	********************************************
+
+
+Notes: 
+
+---------
+
+Completed by: Mark Phillips 04-03-03

@@ -1,0 +1,32 @@
+QUICKSAND
+
+live at the Irvine Meadows Amphitheater, Irvine, CA
+September 5th 1993
+
+
+Source: Fm Broadcast --> unknown recording device --> unknown media --> CDR (1) (one track) --> EAC --> one Wav --> 
+	Soundforge 8.0 (tracking, fades) --> Flac Fronted --> Flac level 8
+
+ 
+Setlist:
+
+1. Omission			02:28
+2. How Soon Is Now?		03:13
+3. Clean Slate			03:19
+4. Dine Alone			03:25
+5. Fazer			03:34
+6. Unfulfilled			05:05
+7. Baphomet (with vocals)	04:32
+
+total time:			25:36
+
+
+Notes:
+* i got this in a trade as a single track CD. I havent changed any of the audio, i only split the ripped track into 
+  seperate tracks and added a fade-in and fade-out.
+
+
+
+*** please, do not encode to mp3 or other lossy formats for purposes other than personal use ***
+
+*** do not sell this recording ***

@@ -1,0 +1,127 @@
+Garbage
+Gran Teatro Geox
+Padua, Italy
+2016-11-03
+
+[GP070dm]
+
+--- 24-bit version ---
+
+source: 	AUD (see location below) > Church Audio CA-14 Cardioids > Church Audio battery box >
+		> Edirol R-09 (24-bit/48.0 kHz, LINE-IN, rec. level 30/30) > SDHC Panasonic RP-SDM04G 
+location: 	20 m from the stage, 3 m left from centre, hat-mounted mic
+transfer: 	SDHC Panasonic RP-SDM04G > HD > Audacity 2.1.2 (editing, see below) > 
+		> CD Wave 1.98 (track splitting) > TLH 2.7.0.172 (level 8 compression) > FLAC 
+generation: 	master (no optical media extraction) 
+taper: 		Giuseppe Pastorelli [G.P.] (doublec) 
+
+Mainset:
+
+01 [01:02] *** intro *** 
+02 [03:36] Supervixen 
+03 [03:36] I Think I'm Paranoid 
+04 [04:42] Stupid Girl 
+05 [03:32] Automatic Systematic Habit 
+06 [03:56] Blood For Poppies
+07 [07:11] A Stroke Of Luck 
+08 [03:11] Sex Is Not The Enemy 
+09 [06:25] Blackout 
+10 [03:50] Magnetized 
+11 [05:12] Special 
+12 [04:51] Queer 
+13 [05:35] Even Though Our Love Is Doomed 
+14 [04:19] Why Do You Love Me 
+15 [08:07] Night Drive Loneliness 
+16 [04:34] Bleed Like Me 
+17 [03:07] Cherry Lips (Go Baby Go!) 
+18 [05:19] Vow 
+19 [04:44] Only Happy When It Rains 
+20 [04:50] Push It 
+21 [01:14] *** encore break ***
+ 
+Encore:
+
+22 [02:54] Sometimes 
+23 [03:55] Empty 
+24 [05:35] #1 Crush 
+ 
+Total running time 	[1:45:30] 
+WAV 24-bit 		1.69 GB
+FLAC 24-bit		1.23 GB 
+
+Tape story:
+The venue is the main arena in Padua 
+I have located myself in the centre, 20 m from the stage
+Few people around me (for most part of the concert I had 1-2 m of free space in front of me)
+The recording is from very good to excellent with only occasional, distant background chatting and short clapping episodes near mics
+
+What about the show? 
+It was my third Garbage show (the others were in Vigevano 2012 and Milan 2016, both taped)
+Band in top form with a setlist mainly based on the first and the last albums
+Butch Vig was not part of the tour due to illness, replaced by Eric Gardner
+Shirley Manson was as usual very talkative and long talks appear at the end of tracks 07 ("American election day"), 11 ("the postman and Italy") and 15 ("Cherry Lips or Bleed Like Me?")
+
+Technical notes: 
+- The total running time of the recording was 1:55:23; I have cut the first 9:43 mins and last useless 10 secs reducing the master to 1:45:30.
+- I have amplified (+5.0 dB on the left channel, +6.5 dB on the right channel) and slightly compressed (-12 dB/2:1) the whole recording and faded-out the last 10 secs
+
+Please do not sell nor convert to mp3 for distribution (mp3 only for personal use!) 
+Feel free to share in the way you prefer, but please share this fileset as originally torrented (so preserve file integrity!) 
+
+First seeded by doublec @ DIME on 2016-11-06 
+
+Fingerprints: 
+
+garbage2016-11-03t01.flac:268d0a93c865e9dcc8efe4109739cd51
+garbage2016-11-03t02.flac:32bad213a01cda7e00906bd63970a189
+garbage2016-11-03t03.flac:b1ff991a27e3a1d5176074db54421ad8
+garbage2016-11-03t04.flac:d362902bdee284038f1dad428cc1c057
+garbage2016-11-03t05.flac:dc0b128279ca5fc62b08c3bb0a9e9a8d
+garbage2016-11-03t06.flac:66b3f899f51a83b0f493196a00e97673
+garbage2016-11-03t07.flac:e23755c60e85a8b20bebff8cdaaa5eda
+garbage2016-11-03t08.flac:ab3bb8adad33d55efb87d787a7c53a04
+garbage2016-11-03t09.flac:3467a9b1ed54b4ba2741b2a6fbaee9b8
+garbage2016-11-03t10.flac:13ca9862e028ec39c09cb35ffa1c7550
+garbage2016-11-03t11.flac:9a9afc329d018b55b74c809c5c591582
+garbage2016-11-03t12.flac:c47aa30edd7ad40ac5b08bde9e4da176
+garbage2016-11-03t13.flac:f15cf818db5616502365e966cf2cdf76
+garbage2016-11-03t14.flac:95f007fa04af8e2e9c09da2bb9a80511
+garbage2016-11-03t15.flac:dc9afb25f438eee8950e8706b67d5b89
+garbage2016-11-03t16.flac:98621797e87f8bf8b71609c30cf12e71
+garbage2016-11-03t17.flac:f964f767942cd32f0f4e39a09a8a6b21
+garbage2016-11-03t18.flac:00326cf91eb9085c45465727de8c9450
+garbage2016-11-03t19.flac:5b68343f216ecdaf0f1096c65c813523
+garbage2016-11-03t20.flac:c9551f14bcda12b3d52b4d263b05c963
+garbage2016-11-03t21.flac:839a0fbad02e9ea641ac481dbcb8ec98
+garbage2016-11-03t22.flac:368fad40adfcbd6ef6e35cb99a610053
+garbage2016-11-03t23.flac:c9bca656da13562e3949afff5852f5a9
+garbage2016-11-03t24.flac:4de7890e3d082b42fee74b9e7380903a 
+
+Track lengths: 
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:02.653      18044204 B   cxx   --   ---xx   flac  0.6802  garbage2016-11-03t01.flac
+     3:36.933      62476844 B   cxx   --   ---xx   flac  0.7361  garbage2016-11-03t02.flac
+     3:36.800      62438444 B   cxx   --   ---xx   flac  0.7364  garbage2016-11-03t03.flac
+     4:42.827      81454124 B   cxx   --   ---xx   flac  0.7441  garbage2016-11-03t04.flac
+     3:32.107      61086764 B   cxx   --   ---xx   flac  0.7532  garbage2016-11-03t05.flac
+     3:56.720      68175404 B   cxx   --   ---xx   flac  0.7563  garbage2016-11-03t06.flac
+     7:11.160     124174124 B   cxx   --   ---xx   flac  0.7021  garbage2016-11-03t07.flac
+     3:11.360      55111724 B   cxx   --   ---xx   flac  0.7476  garbage2016-11-03t08.flac
+     6:25.347     110979884 B   cxx   --   ---xx   flac  0.7300  garbage2016-11-03t09.flac
+     3:50.947      66512684 B   cxx   --   ---xx   flac  0.7254  garbage2016-11-03t10.flac
+     5:12.827      90094124 B   cxx   --   ---xx   flac  0.7246  garbage2016-11-03t11.flac
+     4:51.173      83857964 B   cxx   --   ---xx   flac  0.7347  garbage2016-11-03t12.flac
+     5:35.400      96595244 B   cxx   --   ---xx   flac  0.6931  garbage2016-11-03t13.flac
+     4:19.467      74726444 B   cxx   --   ---xx   flac  0.7461  garbage2016-11-03t14.flac
+     8:07.467     140390444 B   cxx   --   ---xx   flac  0.6973  garbage2016-11-03t15.flac
+     4:34.733      79123244 B   cxx   --   ---xx   flac  0.7165  garbage2016-11-03t16.flac
+     3:07.707      54059564 B   cxx   --   ---xx   flac  0.7435  garbage2016-11-03t17.flac
+     5:19.080      91895084 B   cxx   --   ---xx   flac  0.7507  garbage2016-11-03t18.flac
+     4:44.173      81841964 B   cxx   --   ---xx   flac  0.7318  garbage2016-11-03t19.flac
+     4:50.960      83796524 B   cxx   --   ---xx   flac  0.7570  garbage2016-11-03t20.flac
+     1:14.627      21492524 B   cxx   --   ---xx   flac  0.6890  garbage2016-11-03t21.flac
+     2:54.067      50131244 B   cxx   --   ---xx   flac  0.6577  garbage2016-11-03t22.flac
+     3:55.547      67837484 B   cxx   --   ---xx   flac  0.7532  garbage2016-11-03t23.flac
+     5:35.986      96764012 B   cxx   --   ---xx   flac  0.7360  garbage2016-11-03t24.flac
+   105:30.066    1823060064 B                            0.7278  (24 files)

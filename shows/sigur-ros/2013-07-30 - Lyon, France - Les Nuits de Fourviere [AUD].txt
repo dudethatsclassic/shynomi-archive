@@ -1,0 +1,48 @@
+Sigur Ros
+Les Nuits de Fourviere, Lyon, France
+2013/07/30
+
+Taper : Elysium
+
+Internal Mic -> Roland R05 (WAV [24bit/96kHz])
+Roland R05 -> USB -> WAV -> Sony sound forge pro (equalization, normalization) -> Sound Forge (cut) -> Flac (8)
+
+01-Yfirborð
+02-Brennisteinn
+03-Glósóli
+04-Vaka
+05-Ísjaki
+06-Sæglópur
+07-Olsen Olsen
+08-Hrafntinna
+09-Varúð
+10-Hoppípolla
+11-Með blóðnasir
+12-Kveikur
+13-Festival
+14-Svefn-g-englar
+15-Popplagið 
+
+***************************************
+** SUPPORT THE ARTISTS ** 
+** BUY THEIR OFFICIAL RELEASES, GO TO THEIR CONCERTS ** 
+** TRADE FREELY **
+** DO NOT BUY OR SELL **
+** KEEP IT LOSSLESS **
+*************************************** 
+
+0bca5b26e000ae1a647a3a4d0b3883af *01-Yfirboro.flac
+98c9619796fd6bd80e0de5a5a1c4f460 *02-Brennisteinn.flac
+fa7eb6bf79398f81b21923b87bf96296 *03-Glosoli.flac
+4f7125e59b1754fa3f2354d17d149c0c *04-Vaka.flac
+844d325df9d24fa85ab02f4f4270595d *05-Isjaki.flac
+c058c5a743be756434992ccb3168c574 *06-Saeglopur.flac
+1912d55463ee9bee53c1d9dff0ba08a3 *07-Olsen olsen.flac
+f18bbf5348be829bb7977f2d78551824 *08-Hrafntinna.flac
+2337fa2009d15108eb8a9f6e4d22bc74 *09-Varuo.flac
+61bed96d7609823079a9b3532989ab43 *10-Hoppinolla.flac
+f455f6f7aeac56d569605536428cfec2 *11-Meo bloonasir.flac
+38ef5562ba92cce08a47b01543d7b90c *12-Kveikur.flac
+61cf215d7169bc239ce27da6179e902c *13-Festival.flac
+6bbf30e99db47447bf61c7f35555faed *14-Svefn-g-englar.flac
+12855f26c2c7444e90cc9c800ab61aef *15-Popplagio.flac

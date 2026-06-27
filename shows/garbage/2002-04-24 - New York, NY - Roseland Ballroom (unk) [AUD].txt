@@ -1,0 +1,182 @@
+Date		Location					Format		
+							
+1995.11.05	7th Street Entry, Minneapolis, MN, USA 		CD
+1995.11.05	7th Street Entry, Minneapolis, MN, USA 		Cassette					
+1995.11.06	Shank Hall, Milwaukee, WI, USA 			CD	
+1995.11.10	Opera House, Toronto, ONT, Canada 		CD		
+1995.11.15	Theater of Living Arts, Philadelphia, PA, USA 	CD		
+1995.11.23	The Forum, London, England 			CD	
+1995.11.25	Melkweg, Amsterdam, The Netherlands 		CD	
+1995.11.27	Grosse Freiheit, Hamburg, Germany 		CD	
+1995.11.30	VK Club, Brussels, Belgium 			CD	
+1995.12.06	WMRQ Holiday Show, The Sting, New Britain, CT 	Cassette					
+1995.12.06	WMRQ Holiday Show, The Sting, New Britain, CT 	CD					
+1995.12.12	Moe?s, Seattle, WA, USA 			CD		
+1995.12.15	Berkeley Community Theater, Berkeley, CA, USA 	CD
+1995.12.17	KROQ Holiday Show, Los Angeles, CA, USA 	CD
+1995.12.18	KROQ Holiday Show, Los Angeles, CA, USA 	CD
+1996.02.27	Numbers, Houston, TX, USA 			CD	
+1996.03.14	Barrymore Theatre, Madison, WI, USA 		CD					
+1996.03.24	Brixton Academy, London, England 		CD	
+1996.04.03	Elysee Montmatre, Paris, France 		CD
+1996.04.04	Batshkapp, Frankfurt, Germany 			CD	
+1996.04.07	Phillipshelter, Dusseldorf, Germany 		CD
+1996.04.09	Leeds Metropolitan University, Leeds, England 	CD	
+1996.05.05	La Luna, Portland, OR, USA 			CD	
+1996.05.09	The Glass House, Pomona, CA, USA 		CD
+1996.06.15	KROQ Weenie Roast, Los Angeles, CA, USA 	CD	
+1996.06.27	Market Square Arena, Indianapolis IN, USA 	CD	
+1996.07.02	Memorial Auditorium, Buffalo, NY, USA 		CD
+1996.08.06	Rockefeller Music Hall, Oslo, Norway 		CD					
+1996.08.18	Black Session Festival, St. Malo, France 	CD					
+1996.08.21	Longhorn, Stuttgart, Germany 			CD					
+1996.08.23	Pukkelpop Festival, Hasselt, Belgium 		CD					
+1996.10.15	Club Quattro, Tokyo, Japan 			CD					
+1996.10.16	Club Quattro, Tokyo, Japan 			CD					
+1996.10.18	Club Quattro, Osaka, Japan 			CD					
+1996.11.07	Beacon Theatre, New York City, NY, USA 		CD					
+1996.12.14	Cow Palace, San Francisco, CA, USA 		CD					
+1998.05.15	Ryan?s Ballroom, Combined Locks, WI, USA 	CD					
+1998.05.15	Ryan?s Ballroom, Combined Locks, WI, USA 	Cassette					
+1998.05.20	Warfield, San Francisco, CA, USA 		CD					
+1998.05.20	Warfield, San Francisco, CA, USA 		Cassette					
+1998.05.21	Palace, Los Angeles, CA, USA 			CD	
+1998.05.21	Palace, Los Angeles, CA, USA 			Cassette					
+1998.05.24	Phoenix, Toronto, Ontario, Canada 		CD					
+1998.05.26	Avalon, Boston, MA, USA 			CD					
+1998.05.28	Roseland, New York, NY, USA 			CD					
+1998.05.28	Roseland, New York, NY, USA 			Cassette					
+1998.06.03	Le Zenith, Paris, France 			CD					
+1998.06.16	Libro Festival, Vienna, Austria 		CD					
+1998.06.18	Kongresshalle, Stuttgart, Germany 		CD					
+1998.06.20	Loreley Festival, Loreley, Germany 		CD					
+1998.06.26	Roskilde Festival, Roskilde, Denmark 		CD					
+1998.06.26	Roskilde Festival, Roskilde, Denmark 		Cassette					
+1998.07.02	Open Air Arena, Nancy, France 			CD					
+1998.07.07	Festa Dell?Unita, Correggio, Italy 		CD					
+1998.07.24	Aragon Ballroom, Chicago, IL, USA 		CD					
+1998.08.01	Fuji Rock Festival, Tokyo, Japan 		CD					
+1998.08.30	Reading Festival, Reading, England 		CD					
+1998.09.18	Wasatch Events Center, Salt Lake City, UT, USA 	CD					
+1998.09.20	Amory, Salem, OR, USA 				Cassette					
+1998.09.21	Plaza of Nations, Vancouver, BC			CD					
+1998.09.21	Plaza of Nations, Vancouver, BC			CD
+1998.09.24	Freeborn Hal, Davis, CA, USA 			Cassette					
+1998.09.24	Freeborn Hall, Davis, CA			CD					
+1998.09.24	Freeborn Hall - Davis CA			CD					
+1998.09.25	Event Center, San Jose, CA			CD					
+1998.09.25	Event Center, San Jose, CA			Cassette					
+1998.09.30	Kern County Fair, Bakersfield, CA		CD					
+1998.10.02	Rainbow Ballroom, Fresno, CA			CD					
+1998.10.13	Diamond Ballroom, Oklahoma City, OK		CD					
+1998.10.15	Bronco Bowl, Dallas, TX				Cassette					
+1998.10.26	Y100 Sonic Session, Philadelphia, PA		CD					
+1998.10.30	Roseland, New York, NY				CD	
+1998.10.30	Roseland, New York, NY				Cassette					
+1998.11.07	Lyric Kitchener Ontario, Canada			CD					
+1998.11.07	Lyric Kitchener Ontario, Canada			Cassette					
+1998.11.08	Warehouse, Toronto, Ontario, Canada		CD					
+1998.11.18	Dane County Expo Center, Madison, WI		CD					
+1998.11.24	Eagles Ballroom, Milwaukee, WI			CD					
+1998.11.25	Riviera Nightclub, Chicago, IL			Cassette					
+1998.11.27	Orpheum, Minneapolis, MN			CD					
+1998.11.28	Weidner Center UW, Green Bay, WI		CD					
+1998.12.05	HFSMAS, Patiot Center, Fairfax, VA		CD					
+1998.12.12	?KROQ Acoustic Christmas, Shrine Auditorium, LA CD
+1998.12.12	?KROQ Acoustic Christmas, Shrine Auditorium, LA Cassette					
+1999.01.20	Wembley Arena, London, England 			CD					
+1999.01.25	Forest National, Brussells, Belgium		CD					
+1999.01.26	Ahoy, Rotterdam, The Netherlands		Cassette					
+1999.01.27	Le Zenith, Paris, France 			CD				`	
+1999.01.29	Valbyhallen, Copenhagen, Denmark 		CD					
+1999.02.08	Transbordeur, Lyon, France 			CD					
+1999.03.09	Rosemont Horizon, Chicago, IL, USA 		Cassette					
+1999.07.01	Princes St. Gardens, Edinburgh, Scotland	CD					
+1999.07.17	Axion Beach Festival, Zeebrugge, Belgium	CD					
+1999.07.21	Paleo Festival, Nyon, Switzerland		CD					
+1999.07.24	St. Noiffs, Vannes, France			CD					
+1999.10.22	Western Hall, Macomb, IL			CD					
+1999.10.28	Civic Arena, Marshall Uni, Huntington, WV, USA	CD					
+1999.10.30	SUNY at Delhi, Delhi, NY			CD					
+1999.11.24	Bren Center UC Irvine, Irvine, CA		CD					
+2001.10.02	Virgin Megastore, Chicago, IL			CD					
+2001.10.05	Top Of The Pops TV Spot - Androngyny		CD	
+2001.10.10	Notre Dame Joyce Center, South Bend, IN		CD					
+2001.10.13	Copps Coliseum, Hamilton, ON			CD					
+2001.10.15	United Center, Chicago, IL			CD					
+2001.10.16	United Center, Chicago, IL			CD
+2001.10.24	Madison Square Garden, New York City		CD					
+2001.11.05	Grosse Freiheit 36, Hamburg, Germany		CD					
+2001.11.08	Elysee Monmartre. Paris, France			CD		
+2001.11.09	Halles De Schaerbeek, Brussels, Belgium		CD					
+2001.11.14	The Astoria, London, England			CD					
+2001.11.16	Later with Jules Holland, BBC Studios, London	CD					
+2001.11.20	BBC Radio 1  Session				CD
+2001.11.28	Saavis Center, St Louis, MO			CD					
+2001.12.01	Ice Palace, Tampa, FL				CD					
+2001.12.05	KNDD-FM Radio - 1 Track only			CD
+2001.12.13	Shrine Auditorium, Los Angeles, CA		CD					
+2002.01.05	CDUK TV Spot - Cherry Lips			CD					
+2002.01.20	Big Day Out Festival, Gold Coast, Australia	CD					
+2002.01.22	Big Day Out Festival, Horden, Sydney, Australia	CD					
+2002.01.28	Big Day Out Festival, Melbourne, Australia	CD					
+2002.01.29	Metro Nightclub, Melbourne, Australia		CD					
+2002.02.01 	Big Day Out Festival, Adelaide, Australia	CD					
+2002.02.01 	CDUK TV Spot - Cherry Lips			CD					
+2002.02.03	Big Day Out Festival, Perth, Australia		CD					
+2002.02.08	Zepp, Tokyo, Japan				CD					
+2002.02.09 	Zepp, Tokyo, Japan				CD					
+2002.02.09 	Fuji TV Spot - Androgyny			CD	
+2002.03.15	CDUK TV Spot - Breaking Up The Girl		CD					
+2002.04.01	Guildhall, Portsmouth, England			CD					
+2002.04.07	Brixton Academy, London, England		CD					
+2002.04.08	Hackney Ocean, Hackney, London, England		CD					
+2002.04.10	Palladium, Koln, Germany			CD					
+2002.04.11	Heineken Music Hall, Amsterdam, The Netherlands	CD					
+2002.04.20	Agora Theater, Cleveland, OH 			CD
+2002.04.21	State Theatre, Detroit, MI			CD					
+2002.04.24	Roseland Ballroom, New York, NY			CD					
+2002.04.26	Electric Factory, Philadelphia, PA		CD					
+2002.04.29	9:30 Club, Washington, D.C.			CD					
+2002.05.02	House of Blues, Myrtle Beach, SC		CD					
+2002.05.05	Music Midtown, Atlanta, GA			CD					
+2002.05.08	Promo West Pavillion, Colombus, OH		CD					
+2002.05.09	Riviera Theatre, Chicago, IL			CD					
+2002.05.11 	Eagles Ballroom, Milwaukee, WI			CD					
+2002.05.18	Austin Music Hall, TX, USA			CD
+2002.05.24 	Moore Theatre, Seattle WA			CD					
+2002.05.25	Roseland, Portland, OR				CD					
+2002.05.27	Warfield Theatre, San Francisco, CA		CD					
+2002.05.28	The Joint, Las Vegas, NV			CD					
+2002.05.29	Mesa Amphitheatre, Mesa, AZ			CD					
+2002.05.31	SDSU Open Air Amphitheatre, San Diego, CA	CD					
+2002.06.01	Wiltern Theatre, Los Angeles, CA		CD					
+2002.06.02	Wiltern Theatre, Los Angeles, CA		CD					
+2002.06.25	Zenith Arena, Lille, France			CD					
+2002.06.26	Zenith, Paris, France				CD					
+2002.07.03	DS Luzhniki, Moscow, Russian Federation		CD					
+2002.07.06	Seat Beach Rock, Ostend, Belgium 		CD	
+2002.08.28	Camden Electric Ballroom, London, UK		CD					
+2002.08.29	Camden Electric Ballroom, London, UK		CD					
+2002.10.24	Baltimore Arena, Baltimore, MD			CD					
+2002.10.27	UNF Arena, Jacksonville, FL, USA 		CD
+2002.11.02	Voodoo Music Festival, New Orleans		CD
+2002.11.04	Smirnoff Music Centre, Dallas, TX		CD
+2002.11.06	Denver Coliseum, Denver, CO, USA 		CD
+2002.11.25	Centennial Garden, Bakersfield, CA 		CD
+2002.11.26	Cox Arena, San Diego, CA, USA 			CD					
+2005.03.29	Olympia Theatre, Paris, France 			CD
+2005.03.30	The Scala, London, England			CD
+2005.04.10	The Warfield, San Francisco, CA, USA 		CD
+2005.04.11	The Wiltern, Los Angeles, CA, USA 		CD
+2005.04.14	Tabernacle, Atlanta, GA, USA 			CD
+2005.04.17	Avalon, Boston, MA, USA 			CD
+2005.04.21	DC101 Radio, Washington, DC, Acoustic Set	CD
+2005.05.01	Orpheum Theatre, Madison, WI, USA 		CD
+2005.05.09	Newport Music Hall, Columbus, OH		CD
+2005.06.09	Brixton Academy, London, England 		CD
+2005.06.29	Olympiskiy Hall, Moscow, Russia 		CD
+2005.07.03	Montreux Jazz Festival, Montreux, Switzerland 	CD
+2005.09.03	Arlene Schnitzer Concert Hall, Portland, OR	CD
+2005.09.07	The Catalyst, Santa Cruz, CA, USA 		CD		
+							

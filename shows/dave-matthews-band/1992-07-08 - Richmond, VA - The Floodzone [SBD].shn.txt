@@ -1,0 +1,46 @@
+Dave Matthews Band
+The FloodZone, Richmond,VA
+July 8, 1992
+
+Taper: Unknown
+Source: ASBD
+Conversion: Unknown
+
+
+Track   |               Name            |       Time (m:s)
+------------------------------------------------------------
+d1t1		Seek Up (First Ever)*		05:18
+d1t2		Drive In, Drive Out*		03:41
+d1t3		Lie In Our Graves*^		02:50
+d1t4		Dancing Nancies*		04:24
+d1t5		One Sweet World			05:39
+d1t6		The Song That Jane Likes	03:11
+d1t7		All Along the Watchtower	06:13
+d1t8		Lover Lay Down			07:02
+d1t9		Two Step			08:13
+d1t10		Minarets-->			05:28
+d1t11		Blue Water Baboon Farm		09:45
+d1t12		So Much To Say			04:38
+d1t13		Satellite			04:18
+
+
+d2t1		Introductions			01:04
+d2t2		Tripping Billies		05:41
+d2t3		Ants Marching			04:29
+d2t4		Recently			08:14
+d2t5		Help Myself			04:48
+d2t6		Angel From Montgomery		04:20
+d2t7		Jam-->				05:59
+d2t8		Typical Situation		10:25
+d2t9		Spotlight			05:51
+d2t10		Warehouse			06:57
+d2t11		Jimi Thing			09:43
+d2t12		What Would You Say?		04:34
+
+
+* Dave Solo
+^ Pops during Lie In Our Graves. Continues untill the very beginning of 
+Dancing Nancies.
+
+Compiled By: Tom Downey (tdd342@students.jwu.edu)
+

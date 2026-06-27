@@ -1,0 +1,99 @@
+https://sigurros.com/
+https://www.wordlessmusic.org/
+
+Sigur Rós
+Auditorium Theatre
+Chicago, Illinois, USA
+2024-09-21
+
+Taped By:
+EnglishSkylarking
+
+Location:
+Right of centre on the floor/orchestra section ~ 80' from stage
+
+Gear:
+> Audio-Technica AT943 / Sound Professionals SP-CMC-8 w/ 4.7k mod
+> Sony PCM-A10 (+12 input gain, agc/limiter disabled, 24/48 WAV)
+
+Processing:
+> iZotope RX11 (De-crackled the loudest claps away, magic wanding of some exceptionally loud "woos," saved-as 24/48 WAV)
+> Audacity 3.6.1 (Manually ducked some sections of cheering, saved-as 24/48 WAV)
+> MAGIX Sound Forge Pro 16.1.4 (EQ, enveloped remaining loudest claps, fades, resampled/dithered/saved-as 16/44 WAV)
+> CD Wave 1.98 (Tracking)
+> TLH 2.8.4.185 (FLAC Lvl. 8, FFP)
+
+On this night Sigur Rós was:
+Wordless Music Orchestra, conducted by Robert Ames - strings, percussion, brass, choral vox on Dauðalogn, Vaka
+Jón Þór "Jónsi" Birgisson - vox, guitar, piano, keys
+Georg "Goggi" Hólm - bass, keys
+Ólafur Björn "Óbó" Ólafsson - percussion, keys
+Kjartan "Kjarri" Sveinsson - guitar, keys
+
+Play Time - 02:00:02
+-set 1 intro: WMO walks out > final tuning > SR walks out-
+Blóðberg
+Ekki múkk
+Fljótavík
+8
+Von
+Andvari
+Starálfur
+Dauðalogn
+Varðeldur
+-set 1 outro-
+
+-set 2 intro-
+Untitled I (Vaka)
+Untitled III (Samskeyti)
+Heysátan
+Ylur
+Skel
+All Alright
+Untitled V (Álafoss)
+Sé lest
+Hoppípolla
+Avalon @
+-set 2 outro: uproarious curtain call- #
+
+@ performed by Wordless Music Orchestra only
+# three and one half minutes curtain call with standing ovation
+
+Notes:
+Good recording, mostly thanks to the tuned-in audience; there's next to no chatter except hushed words
+between tunes. Although this was generally a quieter show, the first couple tunes are a little quieter
+than the rest before I noticed how low the levels on the A10 were. Hoppípolla and Avalon were the loudest
+of the night. The band and orchestra are a well-oiled machine at this point, and I was especially taken
+by Sé lest, as every part of the orchestra gets some time in that track. Other standout pieces that
+I thought most highlighted the musicianship of Robert Ames and the Wordless Music Orchestra and their
+integration with Sigur Rós's music were Dauðalogn, Varðeldur, Vaka, and Heysátan. But really, these are
+just my preferences. The whole show is a highlight. The roaring standing ovation we gave them at the end
+of the night is a testament to that.
+
+------------
+
+If you'll suffer me waxing poetic for a moment:
+
+I last saw Sigur Rós in this very theatre eleven years ago during their Kveikur tour, though they'd been
+in Chicago a few times since, because things just hadn't lined up. I might've gone to the Minneapolis show
+last year had the daily Amtrak that runs between the two cities been a thing then, alas all I could do was
+hope they'd come around for another run of these special shows, so when they announced this one back in
+February I ecstatically grabbed a ticket. I purposefully kept away from reading or listening to anything
+about last year's shows with Wordless Music Orchestra, including the recordings that popped up here, so I
+went in thinking it was going to be something similar to the last time I'd seen them, which is their usual
+but with some orchestral accompaniment. I couldn't have been more astonished.
+
+The arrangements were so well done and the orchestra so well integrated into Sigur Rós' music that I teared
+up a couple times and ultimately left feeling that this was how Sigur Rós was always meant to be heard. I
+also found the stage lighting to be a wonderful companion to to the music, especially that from those little
+bulbs scattered around the stage at various distances and reaching up to various heights that I thought
+made the orchestra and band look to be playing in the stars. I've always felt Sigur Rós's music to have
+something of an ethereal quality to it, so those lights giving me that impression elevated the feeling I
+had of experiencing music coming down from the heavens.
+
+Listening back while working on the fileset, I just can't believe this isn't how it's always been. If you
+went to any of the orchestra shows last year, then you might already know what I'm talking about. There are
+still a few more stops left in the USA tour this year, and the Nordic tour starts November 24th, so if you're
+still on the fence about going, I highly encourage you to get off the fence and go and experience it firsthand.
+If you've also not listened to any recordings from any of the prior orchestra shows, good job, keep it up, and
+do yourself a favor by letting your first time hearing this exceptional partnership be in the concert hall.

@@ -1,0 +1,54 @@
+Wilco
+Pier A Park
+Hoboken, New Jersey
+July 26, 2013
+
+01. Dawned On Me
+02. Misunderstood
+03. Forget The Flowers
+04. Handshake Drugs
+05. I Am Trying To Break Your Heart
+06. Art Of Almost
+07. Shouldn't Be Ashamed
+08. Feed Of Man
+09. Walken
+10. I'm The Man Who Loves You
+11. I Got You (At The End Of The Century)
+12. I Wish I Was Your Mother 
+13. California Stars
+14. All The Young Dudes 
+
+Band Members
+Jeff Tweedy - vocals, guitar
+Nels Cline - guitar
+Glenn Kotche - drums
+Pat Sansone - guitar
+John Stirratt - bass
+Mikael Jorgensen - keyboards
+
+Comments
+"Feed Of Man" with Warren Haynes
+"I Wish I Was Your Mother" [Mott the Hoople cover] with James Mastro & Ian Hunter
+"California Stars" with Warren Haynes, James Mastro & Ian Hunter
+"All The Young Dudes" [Mott the Hoople cover] with Warren Haynes, Ian Hunter, James Mastro, My Morning Jacket & Ryan Bingham
+
+source: soomlos
+ga standing in front of right stack
+neumann skm140 > naiant little box (ot) > sony pcm-m10 (24/48)
+sony pcm-m10 > usb > pc > sound forge pro 10 > cd wave editor > flac (16/44.1)
+
+ffp
+wilco2013-07-26t01.flac:6721bff52e2b3d941e36b19c11ff8261
+wilco2013-07-26t02.flac:eb5c683f4b57c49893da06e151d84232
+wilco2013-07-26t03.flac:bc82b3b8c5acb9e902833dd7ff39c60b
+wilco2013-07-26t04.flac:0093e74e2cb9f9313481b8fff9e258c5
+wilco2013-07-26t05.flac:ac046244b1df21fa12677a515a31b784
+wilco2013-07-26t06.flac:60f0c88c32097495a8beb77e2713392c
+wilco2013-07-26t07.flac:e5ffb98b5d9aa21c5b01fd85ed9f0d4d
+wilco2013-07-26t08.flac:cbeda841f544e7fbfca26f6e6f5027c9
+wilco2013-07-26t09.flac:3784e9c42d4efcc94b53b51bdb11ed48
+wilco2013-07-26t10.flac:9760c178959f47bb2da8794dc076c8c2
+wilco2013-07-26t11.flac:4bdc9ad2db86b82bae1fd0951b07db76
+wilco2013-07-26t12.flac:4fc4e3908bdba9ae1e206c353f6e3699
+wilco2013-07-26t13.flac:380be14f5b5a2d9f1c47accee000acd8
+wilco2013-07-26t14.flac:b6709381941ac6b05589457ac60a16c7

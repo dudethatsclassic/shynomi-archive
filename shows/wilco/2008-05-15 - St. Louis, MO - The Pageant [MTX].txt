@@ -1,0 +1,96 @@
+Wilco
+The Pageant
+St. Louis, MO
+May 17, 2008
+
+---16 bit source---
+
+SOURCE: SBD + AUD Matrix. 
+
+Source 1: SBD + 2 Sure KSM141 mics onstage, set to omnidirectional polar pattern. Mics positioned on the outside edges of the stage about 4' tall, aimed out toward the crowd and angled out 18 degrees to avoid phasing.  SBD and Mics run into MOTU Traveler recording interface for live mix and time alignment of SBD with onstage mics. These sources were mixed live to 2 channels with the MOTU Traveler and Mac Powerbook > 1/4" stereo output of MOTU Traveler > Sound Devices 722 @ 24/96. 
+
+Source 2: B&K 4021s (Spaced 17cm apart and aimed at outside of stacks. Mics on 10' stand just in front of the board 3' right of center.) > EAA-PSP2 > 722 @ 24/96.
+
+Source 1 & 2 linking: The 2 Sound Devices 722s were linked live via word clock link cable and C. Link cable in order to keep the same word clock on both recordings. 
+
+LINEAGE: 2 Sound Devices 722s > Firewire > computer hard drive > Wavelab 5.01 (aud only - minor edits to eliminate a few instances of loud yelling) > Samplitude 10 (line up 2 sources, mix, track, resample & dither to 16/44.1, fades, normalize)  > Flac level 6. 
+
+TAPED BY: Steve Brothers
+
+TRANSFERRED BY: Steve Brothers
+
+FILE SIZE: 672 MB
+
+SETLIST: 
+
+Disk 1 (part 1) (73:49)
+
+01: Sunken Treasure
+02: You Are My Face 
+03: Hummingbird   
+04: Ashes Of American Flags   
+05: Company In My Back  
+06: Handshake Drugs 
+07: Pot Kettle Black 
+08: A Shot In The Arm 
+09: On And On And On 
+10: Misunderstood 
+11: Far, Far Away 
+12: Impossible Germany 
+13: New Madrid
+14: Jesus, Etc.   
+
+Disk 2 (part 2) (65:56)
+
+01: California Stars   
+02: Walken   
+03: I'm The Man Who Loves You  
+04: Heavy Metal Drummer   
+
+Encore 1:
+05: Spiders (Kidsmoke)   
+06: Hate It Here   
+07: Kingpin 
+
+Encore 2:
+08: Passenger Side   
+09: Red-Eyed And Blue   
+10: I Got You (At The End Of The Century)   
+11: Casino Queen   
+12: Outtasite (Outta Mind) 
+
+
+---For trade only - not for sale---
+
+---Thanks to Wilco for allowing taping and trading---
+
+---Thanks to Brian Sax and David Roberts for use of the 722s---
+
+FFP CHECKSUM:
+
+Wilco2008-05-15d1t12.flac:09409c0901a76ac03cc525a34d834b72
+Wilco2008-05-15d1t13.flac:d054e5f16a89687bd1f8805a67d664a1
+Wilco2008-05-15d1t14.flac:a32ac669fa76d688fc5cfb25d38de98c
+Wilco2008-05-15d2t01.flac:17341a4b51a7d941699546cf53ddad4d
+Wilco2008-05-15d2t02.flac:ed2257fc9aa97f75f8bc2dae3605636f
+Wilco2008-05-15d2t03.flac:b80da27d0f12e73f8bf4e0b3a96782b5
+Wilco2008-05-15d2t04.flac:c3bed9e5a4256e12461d9433177c5d6d
+Wilco2008-05-15d2t05.flac:98a0b4f2a972a7838b697f113eb4c1f9
+Wilco2008-05-15d2t06.flac:b39a12fb18644c198cea5325b3bd3400
+Wilco2008-05-15d2t07.flac:6c780894947b22936fc0107c8d1e1aa4
+Wilco2008-05-15d2t08.flac:8d905b6558a16178de39bcaec61a859b
+Wilco2008-05-15d2t09.flac:68305783cf2e12f5837428c531e60609
+Wilco2008-05-15d2t10.flac:a98ec9344d0b94777b97e3a310d8149d
+Wilco2008-05-15d2t11.flac:39f24fb4d6f4aa9821e6f4226a7be5e3
+Wilco2008-05-15d2t12.flac:80d8477760603a17de3382a2218fb79c
+Wilco2008-05-15d1t01.flac:5ac66a035768c13b35e5989f2c8e16a4
+Wilco2008-05-15d1t02.flac:7a83e6860bd8f5974f97296e2efc6b51
+Wilco2008-05-15d1t03.flac:e1d7ed6e9ee5b430eebeceff9f37f9f3
+Wilco2008-05-15d1t04.flac:f855bf48a4c59c41807d994df9856142
+Wilco2008-05-15d1t05.flac:df4f4acdc90ccf85a1708c25a8b4c343
+Wilco2008-05-15d1t06.flac:d44e64e3a9b78872b17aa9d71899d906
+Wilco2008-05-15d1t07.flac:00e83bc2ad68925f64a65b2329411300
+Wilco2008-05-15d1t08.flac:d119345533d8efeee2af4fac94b6edaa
+Wilco2008-05-15d1t09.flac:94d79b30c2692fefdd21b57d5ca406b3
+Wilco2008-05-15d1t10.flac:8e368872dbdee631b0b79a538cf310f7
+Wilco2008-05-15d1t11.flac:63ecb771242e5df854583a710b1cf374

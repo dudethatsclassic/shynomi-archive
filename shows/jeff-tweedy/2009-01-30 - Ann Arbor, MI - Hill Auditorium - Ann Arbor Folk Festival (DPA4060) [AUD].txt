@@ -1,0 +1,49 @@
+Jeff Tweedy
+30 January 2009
+Ann Arbor Folk Festival
+Hill Auditorium
+Ann Arbor MI
+
+-----------------------------------------------
+
+Taper: Tom C.
+Taping Location: Main Floor, Section 1, Row Q, Seat 107 (FOB, Right of Center)
+
+Source: DPA4060 (HRTF) > DPA MMA6000 > Korg MR-1 (DSDIFF)
+
+Transfer: Korg Audiogate v1.5 > Wave (16bit/44.1kHz) > Sound Forge 8.0d (Fades) > CD Wave (track split) > FLAC level 6
+
+Notes: This is the raw, unprocessed recording. I had wanted to work on the recording in Pro Tools to adjust for the volume issues between music and audience applause, as well as balance the EQ; but I've not had the time and just wanted to get this alternate source out there.
+
+Please do not convert to MP3.
+
+-----------------------------------------------
+
+Tracklist
+
+
+1.  Intro by Jim Lauderdale
+2.  Someone Else's Song (played at edge of stage w/o PA)
+3.  One By One
+4.  Spiders (Kidsmoke)
+5.  Everlasting Everything
+6.  Solitaire
+7.  Talk
+8.  I Am Trying To Break Your Heart
+9.  Talk
+10. Wait Up
+11. I Wanna Be Your Dog [The Stooges]
+12. Talk
+13. The Ruling Class
+14. Talk
+15. Jesus, etc.
+16. Talk
+17. Airline to Heaven
+18. Talk
+19. A Shot in the Arm
+20. Talk / Tuning
+21. I'm The Man Who Loves You
+22. Acuff-Rose (played at edge of stage w/o PA)
+
+-----------------------------------------------
+

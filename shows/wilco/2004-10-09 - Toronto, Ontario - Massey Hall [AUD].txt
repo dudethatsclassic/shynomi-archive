@@ -1,0 +1,84 @@
+Wilco 
+2004-10-09 
+Massey Hall
+Toronto, ON
+
+
+Source:
+------------------------------------------------------------
+KM184 > V2 > EMagic A62 > laptop (Kristal 24/44.1) 
+
+
+Mic Config:
+------------------------------------------------------------
+DIN (90º/20cm, ~50', FOB,DFC, 7'up)
+
+
+Post:
+------------------------------------------------------------
+CEP 2.1 > Waves (eq/L2 dither) > CDWave > flac
+
+
+Disc 1
+------------------------------------------------------------
+01 Muzzle Of Bees   
+02 Hummingbird   
+03 Company In My Back   
+04 Handshake Drugs   
+05 I Am Trying To Break Your Heart   
+06 War On War   
+07 I'm Always In Love   
+08 Hell Is Chrome   
+09 Jesus, Etc.   
+10 Via Chicago   
+11 A Shot In The Arm   
+
+Disc 2
+------------------------------------------------------------
+01 At Least That's What You Said   
+02 Theologians   
+03 Poor Places   
+04 I'm The Man Who Loves You   
+-- Encore 1 --
+05 Less Than You Think   
+06 Spiders (Kidsmoke)   
+-- Encore 2* --
+07 When The Roses Bloom Again   
+08 California Stars   
+09 Christ For President   
+10 The Late Greats   
+-- Encore 3 --
+11 I'm A Wheel   
+12 Be Not So Fearful   
+ 
+* w/Garth Hudson from The Band on keyboards 
+
+------------------------------------------------------------
+Recorded and mastered by David Klein <davidklein@canada.com>
+------------------------------------------------------------
+
+Flac Fingerprint:
+-------------------------------------------------------------
+wilco2004-10-09d1t01.flac:ef13ccaf1a78350d6fa9f81c4574a5c0
+wilco2004-10-09d1t02.flac:99dbd4bc42aa0b0720d2d6506570b725
+wilco2004-10-09d1t03.flac:e186b59695d5d6a6b1b852cb5ad15fb6
+wilco2004-10-09d1t04.flac:04f6a4abc9c8cba8b9fd600d1932c07e
+wilco2004-10-09d1t05.flac:2afe23b7c57366c5aaaf0923e4d33c92
+wilco2004-10-09d1t06.flac:5ec93b3a615d6b905cef977601489fca
+wilco2004-10-09d1t07.flac:876b79bf27b81f6242df55bda3cb5272
+wilco2004-10-09d1t08.flac:d5a7ad859fbe4196269079882d5a1018
+wilco2004-10-09d1t09.flac:cd121509e6b844a5374f7f24a25a596f
+wilco2004-10-09d1t10.flac:ff4aea1e1ce45269c2169502bf2c884f
+wilco2004-10-09d1t11.flac:c1f4bf4899b6fb8135d6dad5310a1091
+wilco2004-10-09d2t01.flac:5a5e2c8bb499f570fdcbc26350acaa1c
+wilco2004-10-09d2t02.flac:96290a1219d07705b26bbf277ae960e8
+wilco2004-10-09d2t03.flac:cc4b1482a2b5859ece94f6265775287a
+wilco2004-10-09d2t04.flac:0d34749f17fe42a0fca4c415e8ef9f7b
+wilco2004-10-09d2t05.flac:70d662cc200dab6bcef2245d275c30d7
+wilco2004-10-09d2t06.flac:8755030aa0a98193f111e5c649a12f9b
+wilco2004-10-09d2t07.flac:269760dbe9db7702325e2cb8ec48af58
+wilco2004-10-09d2t08.flac:49bba9e0fe516a8a74a834d2ab374f3d
+wilco2004-10-09d2t09.flac:40afa6f527e1ce3e1dcbccd93076ff15
+wilco2004-10-09d2t10.flac:7fe6b0f887cea0a0b727d4c9b9d061d6
+wilco2004-10-09d2t11.flac:8742e16d7439b13ce6f92dd13948f00b
+wilco2004-10-09d2t12.flac:a17fce94896c23f59fb6dd575a0afb56

@@ -1,0 +1,115 @@
+Wilco
+"The Austin Winterlude - Night 3"
+2024-12-07
+ACL Live/Moody Theatre
+Austin, TX
+
+SOURCE: 
+SP-CMC-8 (w/Mods) > Sony PCM-A10 > SanDisk micro-SD (32gb)
+
+TRANSFER: 
+.WAV (24 Bit) > Adobe Audition 2025 CC (normalize/amplify/tracking/dithering/downsampling) > .WAV (16 Bit) > Trader's Little Helper > FLAC (Level 6)
+
+SETLIST:
+
+=== SET 1 ===
+
+01. Intro
+02. Wishful Thinking
+03. Evicted
+04. Art of Almost (acoustic)
+05. Muzzle of Bees
+06. Sunken Treasure
+07. She's A Jar
+08. Either Way
+09. Handshake Drugs
+10. Via Chicago
+11. Tired of Taking It Out on You
+12. Sad Kind of Way
+13. Ashes of American Flags
+14. You and I
+15. Forget the Flowers
+16. Meant to Be
+17. Many Worlds
+
+=== SET 2 ===
+
+18. Infinite Surprise
+19. Annihilation
+20. At Least That's What You Said
+21. Hummingbird
+22. A Magazine Called Sunset
+23. Can't Stand It
+24. Sonny Feeling
+25. Say You Love Me
+26. Impossible Germany
+27. Passenger Side
+28. Dawned on Me
+29. Walken
+30. Kingpin
+31. Heavy Metal Drummer
+32. I Got You (At the End of the Century)
+33. (encore break)
+
+=== ENCORE ===
+
+34. Let's Not Get Carried Away
+35. Kicking Television
+36. Just A Kid
+ 
+NOTES:
+
+Well two nights later, after having seen the first night of their three-night stand at the Moody Theatre, I'm back and we're back on the floor. This wasn't the original plan, as my friend Anna had purchased last minute tickets on StubHub for some seats on the 2nd or third level (not sure which), which was fine with me (though I preferred the floor if given a choice), but due to some weird shenanigans with not receiving the tickets she paid for (same thing happened to another friend and their Larry David tickets they had purchased just a couple days prior), Stubhub "upgraded" her to new tickets, which were GA Floor, which was a-ok with me! What a blessing in disguise if you ask me.
+
+So yeah, just a few days into my trip, I'm seeing Wilco for the second time, and once again, with floor GA tickets. Not a bad start. Now with both "Spiders" and "One by One" having NOT been played during night 1, nor during night 2 (after checking setlist.fm), then SURELY both of those would get their dues here on the final night, especially since it was promised each night would have unique setlists with NO repeat songs. So if those songs were going to get played, then it would have to happen this final night.
+
+But of course, this is my song luck we're talking about, and by the encore, I had ruled out "One by One" being played, and 3 songs deep into the final encore, "Spiders" never made an appearance. What shit luck! Now of course, this is a first world problem, as I got to see Wilco play twice, with 60+ unique songs, in two 3 hour sets. So I really have nothing to complain about, but damn, you would have thought the odds would have been in my favor by the end of it all to hear those songs. But it wasn't meant to be. I take that as a sign to NOT play the lottery.
+
+The set was great though, and the band seemed in great spirits, despite the less than ideal weather hitting Austin at that time, which they commented on. I think they were excited to finally play a "Winterlude" set NOT in freezing Chicago in December, and here we were in the midst of a cold rain storm in Austin. Again, what luck! Anyway, the crowd was fairly good this night, my view on the floor was great, and I still got to hear plenty of songs I was hoping for that they didn't play night 1 (nor 2). I hope it's not another 19 years before I see Wilco again.
+
+CHECKSUMS: 
+
+43f31b554ec6b3083c3d15c173b82072 *wilco-2024-12-07-austin-tx-aud-16bit-t01-intro.flac
+cc1235fb5210f198e8a10955fabd88c4 *wilco-2024-12-07-austin-tx-aud-16bit-t02-wishful-thinking.flac
+e4d91f6d48fc702a336c37eb8ea7854d *wilco-2024-12-07-austin-tx-aud-16bit-t03-evicted.flac
+0be874520a2f6cb948a9a60f9dfcb2e3 *wilco-2024-12-07-austin-tx-aud-16bit-t04-art-of-almost.flac
+09e6b0abd8038c9aae46e963671c86a8 *wilco-2024-12-07-austin-tx-aud-16bit-t05-muzzle-of-bees.flac
+e14f280c3df05bb554d2f378ec96b1eb *wilco-2024-12-07-austin-tx-aud-16bit-t06-sunken-treasure.flac
+378f82dfaaf3566007f73a60ddd41b6c *wilco-2024-12-07-austin-tx-aud-16bit-t07-shes-a-jar.flac
+f13728fce8373c51321125257fb15337 *wilco-2024-12-07-austin-tx-aud-16bit-t08-either-way.flac
+14399e0de8702d68e1e64f8c69c990cd *wilco-2024-12-07-austin-tx-aud-16bit-t09-handshake-drugs.flac
+b5ac6cca88eea648658f83e22286f44d *wilco-2024-12-07-austin-tx-aud-16bit-t10-via-chicago.flac
+918e2fcfb13a14a5384e7460869f11c5 *wilco-2024-12-07-austin-tx-aud-16bit-t11-tired-of-taking-it.flac
+1d5711aa4dda9c13815f45b2dc609a70 *wilco-2024-12-07-austin-tx-aud-16bit-t12-sad-kind-of-way.flac
+6eadc63e1d54bfcac7b690432fa846eb *wilco-2024-12-07-austin-tx-aud-16bit-t13-ashes-of-american-flags.flac
+45757035a2babab5ac69e924eecaba7a *wilco-2024-12-07-austin-tx-aud-16bit-t14-you-and-i.flac
+fd7add2eef6048fc60ec59d7a2a3daeb *wilco-2024-12-07-austin-tx-aud-16bit-t15-forget-the-flowers.flac
+81c1e4c729821000263fb2ffc98e1520 *wilco-2024-12-07-austin-tx-aud-16bit-t16-meant-to-be.flac
+523a5a7bfb293e9edbc3293800d096a1 *wilco-2024-12-07-austin-tx-aud-16bit-t17-many-worlds.flac
+b0485e2a3ebd1347fec79c62cfe2a537 *wilco-2024-12-07-austin-tx-aud-16bit-t18-infinite-surprise.flac
+e5d2326f758eedb2f321a7db27e56304 *wilco-2024-12-07-austin-tx-aud-16bit-t19-annihilation.flac
+d3d03bcd7727666fd690ffe95e72d663 *wilco-2024-12-07-austin-tx-aud-16bit-t20-at-least-thats-what-you-said.flac
+0c61125640fb45d671b52f334342b91d *wilco-2024-12-07-austin-tx-aud-16bit-t21-hummingbird.flac
+12ee7eaf9c67a6d43124e6b245c9e252 *wilco-2024-12-07-austin-tx-aud-16bit-t22-a-magazine.flac
+8e259b0236a4fbe5a034832fc8358a33 *wilco-2024-12-07-austin-tx-aud-16bit-t23-cant-stand-it.flac
+ddc59a66ccb1ae6e1d84eaaed85d84f3 *wilco-2024-12-07-austin-tx-aud-16bit-t24-sonny-feeling.flac
+3ff595f191bd28b39781c286cc5597df *wilco-2024-12-07-austin-tx-aud-16bit-t25-say-you-love-me.flac
+3c8f8223a690095f0259354314e63c01 *wilco-2024-12-07-austin-tx-aud-16bit-t26-impossible-germany.flac
+9d137278d4f8b6a9db3556808abebf3d *wilco-2024-12-07-austin-tx-aud-16bit-t27-passenger-side.flac
+f11e883cb48a2fe0f6f54500fa8ef36f *wilco-2024-12-07-austin-tx-aud-16bit-t28-dawned-on-me.flac
+22382a78431bf4407d52a1afa65adf87 *wilco-2024-12-07-austin-tx-aud-16bit-t29-walken.flac
+ed01f7c2bee18b961bba63ac6292655f *wilco-2024-12-07-austin-tx-aud-16bit-t30-kingpin.flac
+1ffd1a8343e0e37675efcbe91927f5bf *wilco-2024-12-07-austin-tx-aud-16bit-t31-heavy-metal-drummer.flac
+9b73d62febafb2baa92802cfb52cf952 *wilco-2024-12-07-austin-tx-aud-16bit-t32-i-got-you.flac
+09f4fbed1ae55a754640756268894e45 *wilco-2024-12-07-austin-tx-aud-16bit-t33-encore-break.flac
+56e2c3d4c4ed4a6d8e20d62f7124bfdc *wilco-2024-12-07-austin-tx-aud-16bit-t34-lets-not-get-carried-away.flac
+cd5300c7698236f223cbe7c5ac591e08 *wilco-2024-12-07-austin-tx-aud-16bit-t35-kicking-television.flac
+dd26e35a5074ad4fffffd9c1b16a2e90 *wilco-2024-12-07-austin-tx-aud-16bit-t36-just-a-kid.flac
+
+Check out my site: 
+
+https://www.themojavetent.com 
+https://www.facebook.com/coachellarecordings 
+https://www.twitter.com/livecoachella
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT, OR ELSE THE KARMA POLICE WILL GET YOU***

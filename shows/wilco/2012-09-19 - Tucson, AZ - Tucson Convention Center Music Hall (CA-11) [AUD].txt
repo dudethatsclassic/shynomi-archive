@@ -1,0 +1,99 @@
+Wilco 09-19-2012
+Tucson, Arizona - Tucson Convention Center Music Hall
+
+Taper: Eric Gardner; Row P, Seat 48 (in front of stage right stacks)
+Lineage: CA-11 > Zoom H2 > San Disc > PC > Audacity (trim file, Amplify 10 dB, fade out) > CD Wave Editor (cut tracks); TLC (encode level 6; align on sector boundaries checked)
+
+TAPED IN ACCORDANCE WITH WILCO'S AUDIENCE RECORDIING POLICY. DO NOT SELL. SHARE FREELY.
+ 
+1. Misunderstood
+2.  Art of Almost
+3. I Might
+4. Sunken Treasure
+5. One By One
+6. Impossible Germany
+7. Born Alone
+8. Laminated Cat (aka "Not For The Season")
+9. Rising Red Lung
+10. Jesus, Etc.
+11. Handshake Drugs
+12. War On War
+13. Radio Cure
+14. Whole Love*
+15. Box Full of Letters
+16. I'm Always In Love**
+17. Heavy Metal Drummer
+18. I'm the Man Who Loves You
+19. Dawned On Me
+20. A Shot in the Arm
+
+Encore:
+21. Hummingbird***
+22. Christ for President (Woodie Guthrie)
+23. Walken
+24. Monday
+25. Outtasite (Outta Mind)
+26. The Lonely 1
+
+*Tweedy confronts a fan who attempted to look at the set list at the end of the song
+**Track begins with false start due to broken drum stick
+***Tweedy confronts person taking a picture right before track this track (same guy as in *?), then apparently has him removed or at least shoos him away from the front of the stage (note the long pause after first verse)
+
+Wilco 20120919 CA-11t01.wav:  successfully encoded to 'Wilco 20120919 CA-11t01.flac' (ratio = 0.531; no need for sector alignment).
+Wilco 20120919 CA-11t02.wav:  successfully encoded to 'Wilco 20120919 CA-11t02.flac' (ratio = 0.571; no need for sector alignment).
+Wilco 20120919 CA-11t03.wav:  successfully encoded to 'Wilco 20120919 CA-11t03.flac' (ratio = 0.550; no need for sector alignment).
+Wilco 20120919 CA-11t04.wav:  successfully encoded to 'Wilco 20120919 CA-11t04.flac' (ratio = 0.497; no need for sector alignment).
+Wilco 20120919 CA-11t05.wav:  successfully encoded to 'Wilco 20120919 CA-11t05.flac' (ratio = 0.490; no need for sector alignment).
+Wilco 20120919 CA-11t06.wav:  successfully encoded to 'Wilco 20120919 CA-11t06.flac' (ratio = 0.528; no need for sector alignment).
+Wilco 20120919 CA-11t07.wav:  successfully encoded to 'Wilco 20120919 CA-11t07.flac' (ratio = 0.567; no need for sector alignment).
+Wilco 20120919 CA-11t08.wav:  successfully encoded to 'Wilco 20120919 CA-11t08.flac' (ratio = 0.523; no need for sector alignment).
+Wilco 20120919 CA-11t09.wav:  successfully encoded to 'Wilco 20120919 CA-11t09.flac' (ratio = 0.445; no need for sector alignment).
+Wilco 20120919 CA-11t10.wav:  successfully encoded to 'Wilco 20120919 CA-11t10.flac' (ratio = 0.491; no need for sector alignment).
+Wilco 20120919 CA-11t11.wav:  successfully encoded to 'Wilco 20120919 CA-11t11.flac' (ratio = 0.536; no need for sector alignment).
+Wilco 20120919 CA-11t12.wav:  successfully encoded to 'Wilco 20120919 CA-11t12.flac' (ratio = 0.552; no need for sector alignment).
+Wilco 20120919 CA-11t13.wav:  successfully encoded to 'Wilco 20120919 CA-11t13.flac' (ratio = 0.488; no need for sector alignment).
+Wilco 20120919 CA-11t14.wav:  successfully encoded to 'Wilco 20120919 CA-11t14.flac' (ratio = 0.512; no need for sector alignment).
+Wilco 20120919 CA-11t15.wav:  successfully encoded to 'Wilco 20120919 CA-11t15.flac' (ratio = 0.549; no need for sector alignment).
+Wilco 20120919 CA-11t16.wav:  successfully encoded to 'Wilco 20120919 CA-11t16.flac' (ratio = 0.550; no need for sector alignment).
+Wilco 20120919 CA-11t17.wav:  successfully encoded to 'Wilco 20120919 CA-11t17.flac' (ratio = 0.560; no need for sector alignment).
+Wilco 20120919 CA-11t18.wav:  successfully encoded to 'Wilco 20120919 CA-11t18.flac' (ratio = 0.551; no need for sector alignment).
+Wilco 20120919 CA-11t19.wav:  successfully encoded to 'Wilco 20120919 CA-11t19.flac' (ratio = 0.559; no need for sector alignment).
+Wilco 20120919 CA-11t20.wav:  successfully encoded to 'Wilco 20120919 CA-11t20.flac' (ratio = 0.559; no need for sector alignment).
+Wilco 20120919 CA-11t21.wav:  successfully encoded to 'Wilco 20120919 CA-11t21.flac' (ratio = 0.518; no need for sector alignment).
+Wilco 20120919 CA-11t22.wav:  successfully encoded to 'Wilco 20120919 CA-11t22.flac' (ratio = 0.547; no need for sector alignment).
+Wilco 20120919 CA-11t23.wav:  successfully encoded to 'Wilco 20120919 CA-11t23.flac' (ratio = 0.549; no need for sector alignment).
+Wilco 20120919 CA-11t24.wav:  successfully encoded to 'Wilco 20120919 CA-11t24.flac' (ratio = 0.599; no need for sector alignment).
+Wilco 20120919 CA-11t25.wav:  successfully encoded to 'Wilco 20120919 CA-11t25.flac' (ratio = 0.596; no need for sector alignment).
+Wilco 20120919 CA-11t26.wav:  successfully encoded to 'Wilco 20120919 CA-11t26.flac' (ratio = 0.472; 512 zero-bytes appended for sector alignment).
+
+No errors occured.	
+
+82739f21f6db86f22c1964e2d0213aff *Wilco 20120919 CA-11t01.flac
+d0a83bd972e9cc258a1fb4e3b6fbe9eb *Wilco 20120919 CA-11t02.flac
+2bf3a358653fe812f01e7fdc5f4de550 *Wilco 20120919 CA-11t03.flac
+df5909d2d692ed65590e4fd998c73cea *Wilco 20120919 CA-11t04.flac
+5c92a66bfdba7c1158e657d78b63c1e5 *Wilco 20120919 CA-11t05.flac
+c5604c6c71157fc0ddee0d149816f826 *Wilco 20120919 CA-11t06.flac
+2961afdcad47606dd80365bcfa94b6d3 *Wilco 20120919 CA-11t07.flac
+946fab9333bf55483c19c052bae6fa5f *Wilco 20120919 CA-11t08.flac
+f514bfa4ada26d9ed3d88178be2d3f82 *Wilco 20120919 CA-11t09.flac
+9a8d847f31d648752093f25522bd2883 *Wilco 20120919 CA-11t10.flac
+850ef8a60c554f538fa74be7151080b7 *Wilco 20120919 CA-11t11.flac
+1d5d70ec95c3e4c6dcf689d0b0e33d0e *Wilco 20120919 CA-11t12.flac
+64b31abd6e25548827795e3ceee797d8 *Wilco 20120919 CA-11t13.flac
+1a759144de44079173ccdbf47217c290 *Wilco 20120919 CA-11t14.flac
+46822442645b4466c55cba7948974dfa *Wilco 20120919 CA-11t15.flac
+b797bc9e6fe46c522cfa21c3be2b339f *Wilco 20120919 CA-11t16.flac
+76b4700273576c034ffbe3189730533a *Wilco 20120919 CA-11t17.flac
+64663574d1c0a60c837853ebdcd78349 *Wilco 20120919 CA-11t18.flac
+1c0b1b36513084246950c57aaa8ef16d *Wilco 20120919 CA-11t19.flac
+f385c967981e2bd2100beffc2413be2a *Wilco 20120919 CA-11t20.flac
+9558cd083578ab3c88d56b80e147b797 *Wilco 20120919 CA-11t21.flac
+ca315f803e65f027b8e6a90f8d18bd08 *Wilco 20120919 CA-11t22.flac
+8604e7a753148151a06aaeba450e6d17 *Wilco 20120919 CA-11t23.flac
+15a9cf841d5878298928157b64df66f8 *Wilco 20120919 CA-11t24.flac
+f4bd6dc56851e5a6473534975a07a312 *Wilco 20120919 CA-11t25.flac
+82189f0e68df4567984465f57bb5a239 *Wilco 20120919 CA-11t26.flac
+
+No errors occured.
+	

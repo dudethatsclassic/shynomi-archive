@@ -1,0 +1,36 @@
+Vertical Horizon
+Awarefest
+328 Performance Hall
+Nashville, TN
+2.17.96
+
+Taper: Unknown
+Source: DSBD->DAT
+
+DAT > CD Conversion:    Avi Sareen (Supernash@vt.edu)
+Equipment: Tascam DA-30 mkII > Monster Coax > Sek'd Prodif Plus >
+            Samplitude v5.5 (48>44.1) > Cool Edit Pro > MKW Audio 
+Compression Tool
+
+** No DAE - DAT > .WAV > .SHN
+
+*******************************************************
+***    DO NOT ENCODE THIS SHOW INTO MP3 FORMAT!!    ***
+*******************************************************
+
+Disc 1
+01 - Intro *                                            01:07.586
+02 - Heart In Hand *                                    05:26.505
+03 - Candyman                                           04:42.236
+04 - Promise Of Tomorrow                                06:05.820
+05 - The Ride                                           04:15.965
+06 - Wash Away                                          09:12.105
+07 - Falling Down                                       04:02.921
+FILLER:
+08 - Wash Away (2/15/96)                                17:58.888
+
+* the right channel is almost nonexistent until about 35 seconds into 
+heart in hand.
+
+Entire show with Carter Beuford of the Dave Matthews Band on drums
+Compiled by Avi Sareen 5/24/01

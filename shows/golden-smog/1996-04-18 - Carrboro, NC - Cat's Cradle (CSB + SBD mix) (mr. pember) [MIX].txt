@@ -1,0 +1,93 @@
+GOLDEN SMOG
+Cat's Cradle, Carrboro, NC
+April 18, 1996
+
+AUDIENCE RECORDING
+Source: CSB mics (battery box, low-end rolloff) taped near ceiling of club 20 feet from the left stack, 18" apart > Denon DTR-80P
+Transfer: Master DAT > Tascam DA-20 > M-Audio Audiophile USB > PC > Wavelab 5.0
+Taped by mrpember
+
+SOUNDBOARD RECORDING
+Source: Soundboard > Sony TCD-D3
+Transfer: DAT clone > Tascam DA-20 > M-Audio Audiophile USB > PC > Wavelab 5.0
+Taped by Norwood
+
+MIX
+Wavelab 5.0 (syncing, mixing, fades) > CDWave (tracking)
+Mixed by mrpember
+
+
+NOTES
+
+Fun set from the first real Golden Smog tour.  Jessy Greene from the Geraldine Fibbers (who opened the show) guests on four songs.
+
+There were brief right channel dropouts on the audience recording in several songs. During those passages I copied the left channel
+onto the right channel before mixing with the board tape. Sound overall is very good.
+
+
+DISC 1
+
+01 intro
+02 V 
+03 Ill Fated 
+04 Glad and Sorry 
+05 Yesterday Cried 
+06 Walk Where He Walked 
+07 Signed D.C.* (Love)
+08 Backstreet Girl* (Rolling Stones)
+09 Nowhere Bound 
+10 (What's So Funny 'Bout) Peace, Love and Understanding (Nick Lowe)
+11 He's a Dick 
+12 Pecan Pie
+13 Friend 
+14 Hanging on the Telephone (The Nerves, Blondie)
+15 The Most Beautiful Girl* (Charlie Rich)
+16 Won't Be Coming Home 
+17 Love and Mercy (Brian Wilson)
+18 Red Headed Stepchild  
+
+DISC 2
+
+01 Radio King*
+02 She Don't Have to See You (To See Through You) (Bobby Patterson)
+03 Five Years (David Bowie)
+04 Powderfinger (Neil Young)
+05 I Don't Care (??)
+
+
+LINE-UP
+Gary Louris -- guitar, vocals
+Jeff Tweedy -- guitar, bass, vocals
+Dan Murphy -- guitar, vocals
+Kraig Johnson -- guitar, vocals
+Marc Perlman -- bass
+Noah Levy -- drums
+
+with
+* Jesse Greene -- violin
+
+FLAC Fingerprint:
+
+GoldenSmog1996-04-18mix-d1-t01.flac:edb191f2e24327ce2f14cdfcf274ca6f
+GoldenSmog1996-04-18mix-d1-t02.flac:915cc963fe0aac3bf0ecd49af7a09484
+GoldenSmog1996-04-18mix-d1-t03.flac:e141705906bde8875158b90cac09ffff
+GoldenSmog1996-04-18mix-d1-t04.flac:cece2013e08685a7fd4c50695af3ae9d
+GoldenSmog1996-04-18mix-d1-t05.flac:eb06e3c42e999b1afd7a4be44120fd60
+GoldenSmog1996-04-18mix-d1-t06.flac:e5c8720c3c595b7a8d9f08901fafe846
+GoldenSmog1996-04-18mix-d1-t07.flac:84ab7673ad58a15cbe00c6aceb99a1a1
+GoldenSmog1996-04-18mix-d1-t08.flac:378c81acf32c8efde173adca9e36cf2d
+GoldenSmog1996-04-18mix-d1-t09.flac:521471221eca0f21bd930c01b809b847
+GoldenSmog1996-04-18mix-d1-t10.flac:1e562ee7c26a6b4629af58de596464ea
+GoldenSmog1996-04-18mix-d1-t11.flac:d7473d5f60fa97fcd031282c14968807
+GoldenSmog1996-04-18mix-d1-t12.flac:9364f089679f639728bc9d0ed9823aa9
+GoldenSmog1996-04-18mix-d1-t13.flac:5c3eb7d8476c1564cbc9636ab67b7d3f
+GoldenSmog1996-04-18mix-d1-t14.flac:c8518131b4a1afbe05c5cce461d9a661
+GoldenSmog1996-04-18mix-d1-t15.flac:d70d9178dd751eb5cee5066ba1283d22
+GoldenSmog1996-04-18mix-d1-t16.flac:e12d169c16f5c03fb661a298fe1f2e9e
+GoldenSmog1996-04-18mix-d1-t17.flac:85a12973f5a03137b0e5979206ea9999
+GoldenSmog1996-04-18mix-d1-t18.flac:28b8ccd6f42962cced86636fbd57d0e4
+GoldenSmog1996-04-18mix-d2-t01.flac:e21f6a48be83ae88f1937b3e486eee10
+GoldenSmog1996-04-18mix-d2-t02.flac:3474f354ef2ddfa4fb054258ee346fe3
+GoldenSmog1996-04-18mix-d2-t03.flac:7ea468dd3ac3b99e816024540c867197
+GoldenSmog1996-04-18mix-d2-t04.flac:e2d4528eabb31aa208a633be73675ca4
+GoldenSmog1996-04-18mix-d2-t05.flac:442f783c5e7b2c7b034ca67d1a32c304

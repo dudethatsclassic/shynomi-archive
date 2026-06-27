@@ -1,0 +1,68 @@
+Wilco
+2004-06-23
+Wedgewood Rooms
+Portsmouth, Hampshire, England
+
+Disc One
+01 Company In My Back
+02 Hummingbird
+03 She's A Jar
+04 At Least That's What You Said
+05 Hell Is Chrome
+06 I Am Trying To Break Your Heart
+07 War On War
+08 A Shot In The Arm
+09 banter
+10 Muzzle Of Bees
+11 Heavy Metal Drummer
+12 Handshake Drugs
+13 Via Chicago
+14 banter
+15 Theologians
+16 Jesus, etc.
+17 Ashes Of American Flags
+18 I'm The Man Who Loves You 
+
+Disc Two
+01 I'm A Wheel
+- encore -
+02 Sunken Treasure
+03 Spiders (Kidsmoke)
+04 Kicking Television
+- encore II -
+05 California Stars
+06 The Lonely 1
+
+Source:
+Very FOB, about 5' from stage
+Coresound Binaurals > Sound Professionals SPSB1 (95Hz) > Nomad Jukebox 3 (44.1 kHz)
+
+Transfer:
+Nomad Jukebox 3 > USB > Creative Play Centre > Wav > CdWave > Wavs > Flac Frontend > Flac
+
+Taped, transferred and seeded by Stuart Plummer (stuart@marcbase.com)
+
+wilco2004-06-23d1t01.csb.flac:7f94d6ea13b566a5c42073dfbef8683c
+wilco2004-06-23d1t02.csb.flac:171f3024f82782bc6df7c5300cee9c91
+wilco2004-06-23d1t03.csb.flac:53bfb842cadf46c59e5c727102c4d285
+wilco2004-06-23d1t04.csb.flac:986f42955f3813c06448dd4dce55a12e
+wilco2004-06-23d1t05.csb.flac:23b70ac24b8adebefcb98c5d8e8694a9
+wilco2004-06-23d1t06.csb.flac:d06ce871bb0e34e3d2334735cbb292d9
+wilco2004-06-23d1t07.csb.flac:548f3c6b3bc76e045393df52f7a17635
+wilco2004-06-23d1t08.csb.flac:cf5fc93cdae720fbc8cdfc0ac58e36d6
+wilco2004-06-23d1t09.csb.flac:88b0b66a25011cb2c5c3023a0a4fa465
+wilco2004-06-23d1t10.csb.flac:3b153d2a6f040761c9089d50d647a682
+wilco2004-06-23d1t11.csb.flac:18c41160bc1a1c01c293588a6fa961b0
+wilco2004-06-23d1t12.csb.flac:3e6e7f6aa20239f43bc04a8f459bf380
+wilco2004-06-23d1t13.csb.flac:fabecde635a59def6c699944b1390181
+wilco2004-06-23d1t14.csb.flac:5be41624598a17ea38a133c9e1e34fa7
+wilco2004-06-23d1t15.csb.flac:674a50fae1e40f7d8f6ab64c36f29862
+wilco2004-06-23d1t16.csb.flac:1b90281772eb4a2073b8dce26cd0d4ab
+wilco2004-06-23d1t17.csb.flac:af86a9ecf7ff9d922d635187377909a0
+wilco2004-06-23d1t18.csb.flac:bc0c6b8b67c11bed2a292e070006af2a
+wilco2004-06-23d2t01.csb.flac:661bd950c9ac66bd1f7b78420535c713
+wilco2004-06-23d2t02.csb.flac:12fab73f23fa73dff32f6761721f72ae
+wilco2004-06-23d2t03.csb.flac:a30598a523ac24aa798c1439e3e96682
+wilco2004-06-23d2t04.csb.flac:82f6016b648f506c2f020b2186eebbcd
+wilco2004-06-23d2t05.csb.flac:160b047210821133bb1a6b1e76903f4a
+wilco2004-06-23d2t06.csb.flac:01de273b17efaa13c97b05facef6cf72

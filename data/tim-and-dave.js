@@ -26,7 +26,8 @@ const ARTIST_DATA = {
       "venue": "The Birchmere",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-02-21 - Alexandria, VA - The Birchmere [SBD].txt"
     },
     {
       "year": 2003,
@@ -37,9 +38,10 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Norfolk, VA",
       "venue": "Constant Convocation Center",
-      "notes": "Neumann KM184 · duncan byrd and ron powell",
+      "notes": "Neumann KM184 \u00b7 duncan byrd and ron powell",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-03-26 - Norfolk, VA - Constant Convocation Center (Neumann KM184) (duncan byrd and ron powell) [AUD].txt"
     },
     {
       "year": 2003,
@@ -50,9 +52,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Winston Salem, NC",
       "venue": "LJVM Coliseum Theatre",
-      "notes": "Schoeps MK4Vs · unk",
+      "notes": "Schoeps MK4Vs \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-03-28 - Winston Salem, NC - LJVM Coliseum Theatre (Schoeps MK4Vs) (unk) [AUD].txt"
     },
     {
       "year": 2012,
@@ -63,9 +66,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Canandaigua, NY",
       "venue": "Marvin Sands Performing Arts Center",
-      "notes": "AKG 483 · w. clark",
+      "notes": "AKG 483 \u00b7 w. clark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-07-15 - Canandaigua, NY - Marvin Sands Performing Arts Center [AUD].txt"
     },
     {
       "year": 2016,
@@ -76,9 +80,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "unk · daspyknows",
+      "notes": "unk \u00b7 daspyknows",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-10-23 - Mountain View, CA - Shoreline Amphitheater - Bridge School [AUD].txt"
     },
     {
       "year": 2017,
@@ -89,9 +94,10 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Vienna, Austria",
       "venue": "Konzerthaus",
-      "notes": "CA-14s · unk",
+      "notes": "CA-14s \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-04-01 - Vienna, Austria - Konzerthaus [AUD].txt"
     },
     {
       "year": 2017,
@@ -102,9 +108,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Meigs Field",
-      "notes": "Mistake · AKG CK63 · crumbo",
+      "notes": "Mistake \u00b7 AKG CK63 \u00b7 crumbo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-06-10 - Chicago, IL - Meigs Field - Mistake By the Lake [AUD].txt"
     },
     {
       "year": 2017,
@@ -115,9 +122,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Meigs Field",
-      "notes": "Mistake · AKG CK63 · crumbo",
+      "notes": "Mistake \u00b7 AKG CK63 \u00b7 crumbo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-06-11 - Chicago, IL - Meigs Field - Mistake By the Lake [AUD].txt"
     },
     {
       "year": 2021,
@@ -128,9 +136,10 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Xfinity Theatre",
-      "notes": "Dave Matthews & Tim Reynolds · Schoeps MK4V · jim kelly",
+      "notes": "Dave Matthews & Tim Reynolds \u00b7 Schoeps MK4V \u00b7 jim kelly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-09-25 - Hartford, CT - Xfinity Theatre (Dave Matthews & Tim Reynolds) (Schoeps MK4V) (jim kelly) [AUD].txt"
     },
     {
       "year": 2022,
@@ -141,9 +150,10 @@ const ARTIST_DATA = {
       "state": "MEX",
       "location": "Cancun, MEX",
       "venue": "Moon Palace Resort",
-      "notes": "Beach · AKG C414 · zachary semcken",
+      "notes": "Beach \u00b7 AKG C414 \u00b7 zachary semcken",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-02-18 - Cancun, MX - Moon Palace Resort - Beach Stage (AKG C414) (zachary semcken) [AUD].txt"
     },
     {
       "year": 2022,
@@ -154,9 +164,10 @@ const ARTIST_DATA = {
       "state": "MEX",
       "location": "Cancun, MEX",
       "venue": "Moon Palace Resort",
-      "notes": "Beach · AKG C414 · zachary semcken",
+      "notes": "Beach \u00b7 AKG C414 \u00b7 zachary semcken",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-02-19 - Cancun, MEX - Moon Palace Resort - Beach Stage (AKG C414) (zachary semcken) [AUD].txt"
     },
     {
       "year": 2022,
@@ -167,9 +178,10 @@ const ARTIST_DATA = {
       "state": "MEX",
       "location": "Cancun, MEX",
       "venue": "Moon Palace Resort",
-      "notes": "Beach · AKG C414 · zachary semcken",
+      "notes": "Beach \u00b7 AKG C414 \u00b7 zachary semcken",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-02-20 - Cancun, MEX - Moon Palace Resort - Beach Stage (AKG C414) (zachary semcken) [AUD].txt"
     }
   ],
   "misc": []

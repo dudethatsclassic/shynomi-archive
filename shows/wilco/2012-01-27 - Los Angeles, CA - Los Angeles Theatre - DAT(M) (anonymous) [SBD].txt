@@ -1,0 +1,42 @@
+Wilco
+January 27, 2012
+Los Angeles Theatre
+Los Angeles, CA
+
+Source: SBD > Sony PCM-M1 
+Lineage: DAT Master 16/44.1 > FLAC
+Transfer (RyanJ): Tascam DA-20 > coax > Marantz PMD-671 > Audition > .wav
+Mastering (BLG): Adobe Audition > iZotope Ozone 9 > WavePad > xACT > FLAC
+Taper: anonymous
+
+01 Less Than You Think
+02 Art of Almost
+03 I Might
+04 Black Moon
+05 Side With the Seeds
+06 Spiders (Kidsmoke)
+07 Born Alone
+08 Radio Cure
+09 Impossible Germany
+10 Shouldn't Be Ashamed
+11 Open Mind
+12 Whole Love
+13 Hate It Here
+14 Can't Stand It
+15 The Late Greats
+16 Heavy Metal Drummer
+17 Dawned On Me
+18 A Shot in the Arm
+
+Encore:
+19 Reservations
+20 Handshake Drugs
+21 You Never Know
+22 Walken
+23 Red-Eyed and Blue
+24 I Got You (At the End of the Century)
+25 I'm a Wheel
+
+Total Time: 117:17
+
+.txt compiled on March 09, 2022 by BLG

@@ -1,0 +1,93 @@
+Jeff Tweedy - Boulder Theater, Boulder, CO 2011-01-07
+
+---------------------------------
+
+Jeff Tweedy
+Boulder Theater
+Boulder, CO
+January 7, 2011
+
+Taper: Joshua Sarner
+Editing and packaging: Joshua Sarner
+
+(AUD) Attached to Railing at Front of Sound Board
+Zoom H1 (internal mics) 16bit/44.1kHz WAV
+Audacity (editing/splicing/FLAC) ->
+Trader's Little Helper (Verify/Fix SBEs, generate checksums and .torrent) 
+
+---------------------------------
+
+Disc 1
+01 Intro
+02 Spiders (Kidsmoke) [blown mic channel]
+03 Someone Else's Song (no PA)
+04 One By One
+05 I Am Trying To Break Your Heart
+06 Cars Can't Escape
+07 One Wing
+08 Muzzle Of Bees
+09 Via Chicago
+10 I'm Always In Love
+11 Country Disappeared
+12 The Ruling Class
+13 You Are Not Alone
+14 Dispensaries Banter
+
+Disc 2
+01 Hummingbird
+02 Jesus, Etc.
+03 New Madrid
+04 Hesitating Beauty
+05 Impossible Germany
+06 The Late Greats
+07 A Shot in the Arm
+08 I'm The Man Who Loves You
+09 Walken
+10 California Stars
+
+---------------------------------
+
+FLAC FINGERPRINTS
+
+d01t01 Jeff Tweedy-Boulder Theater 2011-01-07.flac:3675c62a1c796c4f9866e4eb183c6287
+d01t02 Jeff Tweedy-Boulder Theater 2011-01-07.flac:42baa3c67b4f6e4b5edb863e024cbcef
+d01t03 Jeff Tweedy-Boulder Theater 2011-01-07.flac:9428b41ab2dfaf1faee60f754bd9881f
+d01t04 Jeff Tweedy-Boulder Theater 2011-01-07.flac:7cca3a60bc0f8963afe22bc7674005ff
+d01t05 Jeff Tweedy-Boulder Theater 2011-01-07.flac:557c747319b658a8f05d23732c36569c
+d01t06 Jeff Tweedy-Boulder Theater 2011-01-07.flac:cd1ec11f6b63bac522df5ff42d94f579
+d01t07 Jeff Tweedy-Boulder Theater 2011-01-07.flac:46b9f0a79148c528877ada8c71952857
+d01t08 Jeff Tweedy-Boulder Theater 2011-01-07.flac:50fe83cbba9b937cc684b84decdefeca
+d01t09 Jeff Tweedy-Boulder Theater 2011-01-07.flac:d3053188ccfd796557b9da8b50a89ca4
+d01t10 Jeff Tweedy-Boulder Theater 2011-01-07.flac:d5fac980abda18c5cfbffac70cf9beae
+d01t11 Jeff Tweedy-Boulder Theater 2011-01-07.flac:8a44333fad190ecd2e0cded7dfc892d8
+d01t12 Jeff Tweedy-Boulder Theater 2011-01-07.flac:950db8f108fadd71b751f90d25ac5e6c
+d01t13 Jeff Tweedy-Boulder Theater 2011-01-07.flac:f897e9bffbcf433fa301246c560abe82
+d01t14 Jeff Tweedy-Boulder Theater 2011-01-07.flac:95593a03c5808058a560f5dda4516dd7
+
+No errors occured.
+
+d02t01 Jeff Tweedy-Boulder Theater 2011-01-07.flac:7c9d7922500304ca5a50741e646559f1
+d02t02 Jeff Tweedy-Boulder Theater 2011-01-07.flac:ff0438bb4f9a6bc62d9c3a9951dbaebf
+d02t03 Jeff Tweedy-Boulder Theater 2011-01-07.flac:2ab19245bc3e9071c64d8b9507007b22
+d02t04 Jeff Tweedy-Boulder Theater 2011-01-07.flac:fe2e57bff0fb93f78600e47ae205c9a7
+d02t05 Jeff Tweedy-Boulder Theater 2011-01-07.flac:6e44dfc8097841e4d14193b2f24fbf3c
+d02t06 Jeff Tweedy-Boulder Theater 2011-01-07.flac:70566175f8847347f29bfde421845468
+d02t07 Jeff Tweedy-Boulder Theater 2011-01-07.flac:f1d9cf98fa96760a1443de8ef8beddf3
+d02t08 Jeff Tweedy-Boulder Theater 2011-01-07.flac:b6322f53085bd0530845a18a66fcffb5
+d02t09 Jeff Tweedy-Boulder Theater 2011-01-07.flac:0118a7a7942798f3f860837aeb4595d8
+
+No errors occured.
+
+
+Notes:
+- Microphone channel was distorted during first song (Spiders), resulting in the
+house sound tech knocking over the other taper's rigs near the soundboard. This,
+along with the subsequent correction of the problem, can be heard during
+"Someone Else's Song" and, briefly, "One By One."
+
+- The crowd as particularly "rowdy" for an acoustic show, and the proximity of the 
+bar area to the soundboard made the positioning of my rig sub-optimal in retrospect.
+
+---------------------------------
+
+Artwork ©Joshua Sarner (jsarnerphoto.com) - All Rights Reserved

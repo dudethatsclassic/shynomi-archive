@@ -1,0 +1,7 @@
+SIGUR ROS
+HOLLYWOOD, CA @ HOLLYWOOD BOWL
+2019-09-24
+
+FM Receiver -> DAT -> CDRW700 -> EAC -> Soundforge -> FLAC
+
+(no setlist)

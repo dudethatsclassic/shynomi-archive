@@ -1,0 +1,47 @@
+Sigur Rós
+
+Auditorium
+Lyon, France
+February 24, 2003
+
+
+Taper:		Romain Lefebvre <ok.computer@free.fr>
+
+Source:		Sony Mz-n1 - Rec mode SP - Mic low position - 2 Basic MD 80 
+		Sony EMC-717 (mic)
+
+Location:	4rth row, middle left
+		
+Conversion:	Sony Mz-n1 SP > Soundforge > NORMALIZING/EDITING > WAV > FLAC
+
+
+-----------------------------------------------------------------------------
+
+I'd like to share one of the best show I attended and I'm glad I recorded it.
+The venue was great as it's an auditorium with great acoustics and some nice reverb. The audience is really nice and quiet,
+almost no screams or applause during the songs.
+
+The sound was quite low, sometimes you can hear the buzz of the smoke machine on stage during the quiet parts.
+I did some editing on the files : normalize, lower applause, some fade in and fade out at the end & beginning.
+Some minor glitches are present at the end of Smaskifa, I had a problem with my MD
+
+-----------------------------------------------------------------------------
+
+Setlist : 
+
+01. Vaka
+02. Mìlanò
+03. Samskeyti
+04. Ny batteri
+05. Gong
+06. Salka
+07. Olsen Olsen
+08. Vidrar vel til loftarasa
+09. Hafsol
+10. Smaskifa
+---------
+11. Staralfur
+12. Popplagid
+13. Avalon / Outro
+
+Duration: 51:53

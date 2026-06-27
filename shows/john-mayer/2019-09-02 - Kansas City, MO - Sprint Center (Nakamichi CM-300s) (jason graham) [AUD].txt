@@ -1,0 +1,45 @@
+John Mayer
+September 2, 2019 - Monday - Labor Day
+Sprint Center, Kansas City, MO
+
+Set I:
+01. Intro
+02. Belief
+03. Helpless
+04. Who Says
+05. No Such Thing
+06. Love On The Weekend
+07. Something Like Olivia
+08. Changing
+09. Waiting On The World To Change
+10. Moving On And Getting Over
+11. I Guess I Just Feel Like 
+
+Set II:
+12. Intro
+13. I'm On Fire >
+14. 3x5
+15. Your Body Is A Wonderland
+16. In Your Atmosphere
+17. In The Blood
+18. Edge Of Desire
+19. If I Ever Get Around To Living
+20. Stop This Train
+21. Rosie
+22. The Beautiful Ones >
+23. Slow Dancing In A Burning Room
+24. The Age Of Worry
+25. band intros
+26. Gravity 
+27. break
+28. E: Born And Raised
+29. New Light
+30. Outro
+
+Source: Nakamichi CM-300s/CP-1s > XLRs > DR-70D(Mic) > WAV(24bit/48khz) > Audacity(amplified, dithered/resampled) > WAV(16bit/44.1khz) > CD Wave Editor(tracked) > FLAC8(TLH) > Foobar2000(tagged)
+
+Location: DFC, Floor, just behind FOH area, ~10' high
+
+Notes: CM-300s pointed outside of stacks and angled at about 90 degrees, powered with 12V each, and connected to inputs 3-4 on recorder via GAKables custom XLRs. DR-70D gain set to mid.
+
+Taper: Jason Graham(jagraham84ATgmailDOTcom)

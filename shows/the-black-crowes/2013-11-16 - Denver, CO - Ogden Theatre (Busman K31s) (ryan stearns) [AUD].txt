@@ -1,0 +1,61 @@
+Black Crowes
+Ogden Theatre
+Denver, CO
+11/16/2013
+
+
+Source: Busman Audio K31 (DIN) > 1804a > BSC1 > Lunatec V3 > Tascam HD-P2 (24/48)
+Location: OTS/BOB/LOC 7ft up
+Transfer: CF > WaveLab 6 (Normalize, Fades, Convert to 16bit, Resample to 44.1 with 
+Apogee UV22HR Dither) > CDWave (Tracking) > Traders Little Helper (FLAC6)
+Tagging: FLACs Tagged With Mp3tag v2.57
+
+Recorded by Ryan Stearns
+
+Set 1:
+
+01 Intro
+02 Feelin' Alright
+03 Only Halfway To Everywhere
+04 Space Captain
+05 My Morning Song
+06 Good Morning Captain
+07 Everybody Knows This Is Nowhere
+08 Girl From A Pawnshop
+09 Medicated Goo
+10 By Your Side
+11 Wiser Time
+12 Garden Gate
+13 Polly
+14 Remedy
+15 Hard To Handle > Hush >  Hard To Handle
+16 Crowd
+Encore:
+17 She Talks To Angels
+18 Boomer's Story
+
+
+Notes
+
+Sold Out Show
+
+FLAC Fingerprint
+
+tbc2013-11-16set1track01.flac:d192fe14d92a93feaa060e540ee17d42
+tbc2013-11-16set1track02.flac:8d97026de2f57c5e6ac43d2cc32e640d
+tbc2013-11-16set1track03.flac:e5528beb536dacaafd0709d92871498e
+tbc2013-11-16set1track04.flac:e7192872852b85f49cc6256770c76795
+tbc2013-11-16set1track05.flac:24938427a3588e00d9b1485cf4ba7737
+tbc2013-11-16set1track06.flac:7c5bad6efd9c932cc851f6c91f30c3cb
+tbc2013-11-16set1track07.flac:ea573ca634051dad2608a9172d84b026
+tbc2013-11-16set1track08.flac:7c1516379f51fa58a4594ebd8686095a
+tbc2013-11-16set1track09.flac:ecd0d64becd36cc5e90975f77fceb715
+tbc2013-11-16set1track10.flac:f5b01ba97af7749a924a3b0f8cf148b9
+tbc2013-11-16set1track11.flac:b207e2b25ec685f65c8a9b18dd9bafa5
+tbc2013-11-16set1track12.flac:0fd25a7435ce07d8fc52db2158831188
+tbc2013-11-16set1track13.flac:79e128ae3dc4823f5db938c86a6c4016
+tbc2013-11-16set1track14.flac:2fefa19ba0642aac47c671ee49293acd
+tbc2013-11-16set1track15.flac:1dd6640086190e9d77e08d895f105236
+tbc2013-11-16set1track16.flac:47d3269cd757c376c5fe08484f5a8656
+tbc2013-11-16set1track17.flac:e76fce32e3cbcf1eeb099a73b50b2f41
+tbc2013-11-16set1track18.flac:e6bbe935671db54c3f1642cacf47255d

@@ -1,0 +1,122 @@
+Wilco
+2008-08-13
+McCarren Park Pool
+Brooklyn, NY  USA
+
+Digital Master Audience Recording
+Recorded from Front of Board Dead Center
+
+Neumann KM-150's (AK-50 Hypercardiod Capsules) > Monster XLR Cables  Apogee Minime > 
+digital coaxial > M-Audio Microtrack > 24bit 48kHz wav file > Soundforge 8.0 (set fades, level 
+adjustments, dither, downsample) > CD Wave 1.95 (tracking) > Flac Frontend (level 7, align 
+sector boundaries) > flac
+
+PLEASE SUPPORT WILCO:
+http://www.wilcoweb.com/
+
+Recorded and Produced
+by nyctaper
+2008-08-14
+
+Premiere Download offered at: 
+http://www.nyctaper.com
+nyctaper@nyctaper.com
+
+
+Setlist:
+[Total Time 2:23:59]
+Main Set
+01  Via Chicago
+02  Blood of The Lamb
+03  You Are My Face
+04  Hummingbird
+05  I Am Trying to Break Your Heart
+06  Shot in the Arm
+07  Side With the Seeds
+08  Misunderstood
+09  Far Far Away
+10  Impossible Germany
+11  Pieholden Suite
+12  California Stars
+13  Handshake Drugs
+14  Pot Kettle Black
+15  Poor Places
+16  Spiders (Kidsmoke)
+17  [encore break/banter]
+18  Jesus, Etc.
+19  Can't Stand It
+20  Hate it Here
+21  Walken
+22  I'm the Man Who Loves You
+23  [second encore break]
+24  Heavy Metal Drummer
+25  The Late Greats
+26  Kingpin
+27  Monday
+28  Outtasite
+29  I'm A Wheel
+
+
+Flac Fingerprints:
+Wilco2008-08-13_FOB_NeumannKM150_t01.flac:40fa652d66cf8454b479d660d920f659
+Wilco2008-08-13_FOB_NeumannKM150_t02.flac:745be75a8d1781ccf5121dc5eaf77f7f
+Wilco2008-08-13_FOB_NeumannKM150_t03.flac:efb0750f0c1664699d61cbd4e1be25f9
+Wilco2008-08-13_FOB_NeumannKM150_t04.flac:6f6be2017f3eb3facf34d0a2e9c30e58
+Wilco2008-08-13_FOB_NeumannKM150_t05.flac:823d4dace92a530a3bb8ee0bba4d2697
+Wilco2008-08-13_FOB_NeumannKM150_t06.flac:da58990dd80c05a64b30fd276b2c3b69
+Wilco2008-08-13_FOB_NeumannKM150_t07.flac:72ba0c506f8f0a3d3eee87da76d13f75
+Wilco2008-08-13_FOB_NeumannKM150_t08.flac:6862de1741fcc899c159bf5ff028818e
+Wilco2008-08-13_FOB_NeumannKM150_t09.flac:e3e142e41189950b0d0c987fb2bb487d
+Wilco2008-08-13_FOB_NeumannKM150_t10.flac:ed9f4fedad124d588779ee35a8f0a6e3
+Wilco2008-08-13_FOB_NeumannKM150_t11.flac:77fb10f50057463583a732591ed9091b
+Wilco2008-08-13_FOB_NeumannKM150_t12.flac:92b26983710183ef61eb5c2828d5b0d4
+Wilco2008-08-13_FOB_NeumannKM150_t13.flac:0918e723f96fbbe12b1b86a6efd980ba
+Wilco2008-08-13_FOB_NeumannKM150_t14.flac:612f34db160eeb91a0b0a36eb8062c02
+Wilco2008-08-13_FOB_NeumannKM150_t15.flac:9dfd67dbb357e92ee2f1d19f5cbe63e2
+Wilco2008-08-13_FOB_NeumannKM150_t16.flac:ae72c12c483d925d3d6e824630a7c12e
+Wilco2008-08-13_FOB_NeumannKM150_t17.flac:b9f00f8f1c533d5d6d822633f65135ca
+Wilco2008-08-13_FOB_NeumannKM150_t18.flac:c2ec809b9ab121bb64abc8bd94906bcb
+Wilco2008-08-13_FOB_NeumannKM150_t19.flac:cb1af8cb8f3e85fa5982f17f7b982dd5
+Wilco2008-08-13_FOB_NeumannKM150_t20.flac:a25091479a0aed9285482ddeeb8ce346
+Wilco2008-08-13_FOB_NeumannKM150_t21.flac:68f448a1c11a4c9c2f7efe39ee4d9009
+Wilco2008-08-13_FOB_NeumannKM150_t22.flac:0ad0b6efb06821fec72141920979fbbb
+Wilco2008-08-13_FOB_NeumannKM150_t23.flac:e69ddcc77296294631d0a03b98f6bb8b
+Wilco2008-08-13_FOB_NeumannKM150_t24.flac:4ba2ee473236cfdbe1b7e4019a00f463
+Wilco2008-08-13_FOB_NeumannKM150_t25.flac:bd652ce4ab061e06df7d1b6338f612a1
+Wilco2008-08-13_FOB_NeumannKM150_t26.flac:64b90baadeaae42cdfa9471b65b1d9b8
+Wilco2008-08-13_FOB_NeumannKM150_t27.flac:2a73e2e991bce4f766745f892b0d6864
+Wilco2008-08-13_FOB_NeumannKM150_t28.flac:173295ac4632a189ebaafa74889e641e
+Wilco2008-08-13_FOB_NeumannKM150_t29.flac:3836df1503fc0e2d94e0dd0d8053578e
+
+Md5:
+
+4308e92cbd0074325d0117b66fbc84af *Wilco2008-08-13_FOB_NeumannKM150_t01.flac
+c5f6aed5ef9f92c65dac08c738ba38f1 *Wilco2008-08-13_FOB_NeumannKM150_t02.flac
+fd900da4c7ef87c4867aee5bd7067d16 *Wilco2008-08-13_FOB_NeumannKM150_t03.flac
+aed7fd36c9cb730f0bdb778097d4c02d *Wilco2008-08-13_FOB_NeumannKM150_t04.flac
+30c8fd74efe506474a0f3780d3f641e4 *Wilco2008-08-13_FOB_NeumannKM150_t05.flac
+6f1fe916b85c9ebad229de60a362ea46 *Wilco2008-08-13_FOB_NeumannKM150_t06.flac
+d633fa073ae46b6dd3e8ab5b2a5bd66a *Wilco2008-08-13_FOB_NeumannKM150_t07.flac
+69a91f80cf9dc586a14888e80a666c48 *Wilco2008-08-13_FOB_NeumannKM150_t08.flac
+bad6fc582f90282ba14fc588d2c235d1 *Wilco2008-08-13_FOB_NeumannKM150_t09.flac
+eca6c05edc7876cd7e1860fe8d1efe5e *Wilco2008-08-13_FOB_NeumannKM150_t10.flac
+e13ee3356cb1d7cf813731f1956db732 *Wilco2008-08-13_FOB_NeumannKM150_t11.flac
+b24bd8a231430dfeedfc327f579f6630 *Wilco2008-08-13_FOB_NeumannKM150_t12.flac
+4112a2409ee842997f2300495f46ec1d *Wilco2008-08-13_FOB_NeumannKM150_t13.flac
+9fc49835a3dcc20289728cc97dfe3db6 *Wilco2008-08-13_FOB_NeumannKM150_t14.flac
+58625ffbf3e06a640dd86d5fbb12aa16 *Wilco2008-08-13_FOB_NeumannKM150_t15.flac
+666898639ebd2eb18e98fa72b8796232 *Wilco2008-08-13_FOB_NeumannKM150_t16.flac
+f3b94c02b99dd6a4eb4ab888d3536774 *Wilco2008-08-13_FOB_NeumannKM150_t17.flac
+5dc389418a4a6cb68098aa57fb849d4b *Wilco2008-08-13_FOB_NeumannKM150_t18.flac
+30163fbaeb6af7e8b76db579306cbbde *Wilco2008-08-13_FOB_NeumannKM150_t19.flac
+f26257ee679f823dfe04cdd10401df9f *Wilco2008-08-13_FOB_NeumannKM150_t20.flac
+73dafa93772af4827c4e5d96c7c74b87 *Wilco2008-08-13_FOB_NeumannKM150_t21.flac
+5c47ebb5c2944f065f496cbe1025dfc7 *Wilco2008-08-13_FOB_NeumannKM150_t22.flac
+0c90d3fa2a898785c19b316c343621a9 *Wilco2008-08-13_FOB_NeumannKM150_t23.flac
+fa379cb8b8cc02eeb5e326496a7bdfc6 *Wilco2008-08-13_FOB_NeumannKM150_t24.flac
+ad72de0adbfbebbfb7fbcf423b150257 *Wilco2008-08-13_FOB_NeumannKM150_t25.flac
+d6afa5a2aebed25e825ccc72330299a1 *Wilco2008-08-13_FOB_NeumannKM150_t26.flac
+047d2f9ba324be6bc63d081521c6aa13 *Wilco2008-08-13_FOB_NeumannKM150_t27.flac
+7842e08aad0e276afb59cc7a0ec70e25 *Wilco2008-08-13_FOB_NeumannKM150_t28.flac
+
+

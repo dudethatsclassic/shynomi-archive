@@ -22,7 +22,8 @@ const ARTIST_DATA = {
       "venue": "Tonight Show with Jimmy Fallon",
       "notes": "unk",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2023-04-04 - New York, NY - Tonight Show with Jimmy Fallon (unk) [TV].txt"
     },
     {
       "year": 2023,
@@ -33,9 +34,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Amoeba Music",
-      "notes": "SP-CMC-4U · ijwthstd",
+      "notes": "SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-04-16 - Hollywood, CA - Amoeba Music (SP-CMC-4U) (ijwthstd) [AUD].txt"
     },
     {
       "year": 2023,
@@ -46,9 +48,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Masonic Auditorium",
-      "notes": "Schoeps MK4 · loughney",
+      "notes": "Schoeps MK4 \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-11-11 - San Francisco, CA - The Masonic Auditorium (Schoeps MK4) (loughney) [AUD].txt"
     },
     {
       "year": 2024,
@@ -61,7 +64,8 @@ const ARTIST_DATA = {
       "venue": "Glastonbury Festival, Worthy Farm",
       "notes": "1080p",
       "version": "Webcast",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2024-06-30 - Pilton, UK  - Glastonbury Festival, Worthy Farm (1080) Webcast [MP4].txt"
     },
     {
       "year": 2026,
@@ -74,7 +78,8 @@ const ARTIST_DATA = {
       "venue": "Coachella Festival",
       "notes": "2160p VP9",
       "version": "PRO",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2026-04-11 - Indio, CA - Coachella Festival (PRO) (2160p VP9) [MKV].txt"
     },
     {
       "year": 2026,
@@ -85,9 +90,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival-  Empire Polo Grounds",
-      "notes": "Outdoor · 1080p",
+      "notes": "Outdoor \u00b7 1080p",
       "version": "PRO",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2026-04-18 - Indio, CA - Coachella Festival-  Empire Polo Grounds - Outdoor Theatre (1080p) [MKV].txt"
     }
   ],
   "misc": []

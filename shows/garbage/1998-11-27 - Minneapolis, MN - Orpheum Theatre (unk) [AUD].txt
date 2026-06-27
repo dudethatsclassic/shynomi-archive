@@ -1,0 +1,266 @@
+Garbage
+Orpheum Theatre
+Minneapolis, Mn.
+27 Nov 1998
+
+I do know who recorded it, but I am no longer in touch with them. 
+I don't have any info about how it was done but it was given to me on CD from the DAT master. 
+DAT > CD > EAC > FLAC 6. No artwork. Quite a good audience recording. I rated it a 9. 
+It runs 87 minutes. 
+
+Track listing:
+
+CD1:
+
+Intro
+Temptation Waits
+Not My Idea
+I Think I'm Paranoid
+Special
+My Lover's Box
+Hammering In My Head
+Thirteen
+No. 1 Crush
+Stupid Girl
+Vow
+Wicked ways
+Queer
+
+CD2:
+
+Push It
+Only Happy When It Rains
+You Look So Fine
+Happy Birthday
+Supernatural
+The Trick Is To Keep Breathing
+When I Grow Up
+
+
+EAC extraction logfile from 21. September 2006, 11:04 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0  LUN: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : C:\Documents and Settings\Owner\My Documents\flac112a.exe   (User Defined Encoder)
+                     128 kBit/s
+                     Additional command line options : -8 -V -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+   Filename C:\Documents and Settings\Owner\Desktop\Track01.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC AE1BC21E
+   Copy OK
+
+Track  2
+   Filename C:\Documents and Settings\Owner\Desktop\Track02.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC B95285A1
+   Copy OK
+
+Track  3
+   Filename C:\Documents and Settings\Owner\Desktop\Track03.wav
+
+   Peak level 93.4 %
+   Track quality 100.0 %
+   Copy CRC C58DF192
+   Copy OK
+
+Track  4
+   Filename C:\Documents and Settings\Owner\Desktop\Track04.wav
+
+   Peak level 93.2 %
+   Track quality 100.0 %
+   Copy CRC E98ED064
+   Copy OK
+
+Track  5
+   Filename C:\Documents and Settings\Owner\Desktop\Track05.wav
+
+   Peak level 88.3 %
+   Track quality 100.0 %
+   Copy CRC 123A78E6
+   Copy OK
+
+Track  6
+   Filename C:\Documents and Settings\Owner\Desktop\Track06.wav
+
+   Peak level 92.2 %
+   Track quality 100.0 %
+   Copy CRC 0136E9A8
+   Copy OK
+
+Track  7
+   Filename C:\Documents and Settings\Owner\Desktop\Track07.wav
+
+   Peak level 93.8 %
+   Track quality 100.0 %
+   Copy CRC 73629521
+   Copy OK
+
+No errors occured
+
+
+End of status report
+
+EAC extraction logfile from 21. September 2006, 11:28 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0  LUN: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : C:\Documents and Settings\Owner\My Documents\flac112a.exe   (User Defined Encoder)
+                     128 kBit/s
+                     Additional command line options : -8 -V -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+   Filename C:\Documents and Settings\Owner\Desktop\Track01.wav
+
+   Peak level 78.4 %
+   Track quality 100.0 %
+   Copy CRC 721963BC
+   Copy OK
+
+Track  2
+   Filename C:\Documents and Settings\Owner\Desktop\Track02.wav
+
+   Peak level 88.4 %
+   Track quality 100.0 %
+   Copy CRC 8645306D
+   Copy OK
+
+Track  3
+   Filename C:\Documents and Settings\Owner\Desktop\Track03.wav
+
+   Peak level 90.9 %
+   Track quality 100.0 %
+   Copy CRC 68D3C757
+   Copy OK
+
+Track  4
+   Filename C:\Documents and Settings\Owner\Desktop\Track04.wav
+
+   Peak level 87.0 %
+   Track quality 99.9 %
+   Copy CRC 4A39791F
+   Copy OK
+
+Track  5
+   Filename C:\Documents and Settings\Owner\Desktop\Track05.wav
+
+   Peak level 89.5 %
+   Track quality 100.0 %
+   Copy CRC DEBB2DD8
+   Copy OK
+
+Track  6
+   Filename C:\Documents and Settings\Owner\Desktop\Track06.wav
+
+   Peak level 91.0 %
+   Track quality 100.0 %
+   Copy CRC D6E6C000
+   Copy OK
+
+Track  7
+   Filename C:\Documents and Settings\Owner\Desktop\Track07.wav
+
+   Peak level 87.9 %
+   Track quality 100.0 %
+   Copy CRC BA7FC765
+   Copy OK
+
+Track  8
+   Filename C:\Documents and Settings\Owner\Desktop\Track08.wav
+
+   Peak level 68.8 %
+   Track quality 100.0 %
+   Copy CRC C79DD02D
+   Copy OK
+
+Track  9
+   Filename C:\Documents and Settings\Owner\Desktop\Track09.wav
+
+   Peak level 88.0 %
+   Track quality 100.0 %
+   Copy CRC E04EE43C
+   Copy OK
+
+Track 10
+   Filename C:\Documents and Settings\Owner\Desktop\Track10.wav
+
+   Peak level 89.9 %
+   Track quality 99.9 %
+   Copy CRC 1E149A1F
+   Copy OK
+
+Track 11
+   Filename C:\Documents and Settings\Owner\Desktop\Track11.wav
+
+   Peak level 90.2 %
+   Track quality 99.9 %
+   Copy CRC 6B98EFFE
+   Copy OK
+
+Track 12
+   Filename C:\Documents and Settings\Owner\Desktop\Track12.wav
+
+   Peak level 83.4 %
+   Track quality 100.0 %
+   Copy CRC 0B43C0B7
+   Copy OK
+
+Track 13
+   Filename C:\Documents and Settings\Owner\Desktop\Track13.wav
+
+   Peak level 96.1 %
+   Track quality 100.0 %
+   Copy CRC 7B98684B
+   Copy OK
+
+No errors occured
+
+
+End of status report
+
+Track01.flac:d47cb0cd40992a25ba5044f2a0e58d1b
+Track02.flac:e162b4c036262a4789db0ad0c02e2e42
+Track03.flac:a3b0213af60bfe59620d70aeb93c90fe
+Track04.flac:87810ce2fdcf4d836d083ae12dcb1a07
+Track05.flac:d36e04d16a8eb32e21d4ba965aa933f0
+Track06.flac:8715e193c2d4aa972fc47a20de063f0a
+Track07.flac:61146418768967aebd3f7b59f5a79cd6
+Track08.flac:7b9b25962485e0a9042f0f1892326606
+Track09.flac:760e8c7d318be37b097c7fee83b35179
+Track10.flac:f80f639fff42c47b41c40346f4f0061c
+Track11.flac:0512b2619196881af3fb9aa263f0c810
+Track12.flac:5efaf92e3abb96dc777efaf74cac7cb4
+Track13.flac:5a58e3161075275fc17fd5f84a156e0a
+CD2Track01.flac:98701a551a803fd740c77646f3f5ed06
+CD2Track02.flac:1ade3bffe6502ec30c5a6b7cb0902744
+CD2Track03.flac:90c310c0a12a933444591e22cf56548c
+CD2Track04.flac:25dac0a0c16e321862ace9f20d2e1123
+CD2Track05.flac:66e775ebdf0a6e69bc4956de4e489a6f
+CD2Track06.flac:795f9e0f3f3ac1f38b00dff744295284
+CD2Track07.flac:b262d02c64a293c87aa424be89379699
+

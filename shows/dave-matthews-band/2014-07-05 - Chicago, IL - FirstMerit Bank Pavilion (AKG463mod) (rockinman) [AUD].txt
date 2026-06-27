@@ -1,0 +1,85 @@
+Dave Matthews Band
+July 5, 2014
+FirstMerit Bank Pavilion at Northerly Island
+Chicago, IL
+
+
+
+Taper: Rockinman 
+Location: Rear of GA PIT, Right stack, mics A-B config, stand height @ 13 Feet
+Source: akg460mods/ck63 hypercaps(linear bass setting)>UA5 preamp(Wmod)>Marantz PMD661(SPDIF In) @ 24/48 kHz 
+Transfer: PMD661->USB->PC 
+Conversion: 24/48kHz wav->Sound Forge Pro 10> iZotope 64-Bit SRC & iZotope MBIT+ for resample and dither to 16/44.1 kHz, No normalization, Fade in fade out applied, Waves L3 Ultramaximizer applied->CDWave Editor->Flac (level 5)> Foobar 2000 for tagging 
+
+******************************************************************************************************************** 
+ *********DO NOT ENCODE THIS SHOW TO LOSSY FORMATS EXCEPT FOR PERSONAL USE************** 
+ ************************DO NOT SELL OR DISTRIBUTE FOR PROFIT****************************************** 
+ ******************************************************************************************************************** 
+
+Set I (Acoustic Set)
+
+Disc 1
+
+01. Intro
+02. Two Step
+03. Snow Outside
+04. Rhyme & Reason
+05. Sister
+06. Grace Is Gone
+07. #27
+08. Recently
+09. Lie in Our Graves
+
+Set Break
+
+Set II (Main Set)
+
+Disc 2
+
+10. Intro
+11. Minarets (Scat intro)
+12. The Idea of You
+13. Crush (Stefan bass intro)
+14. Warehouse (Traditional intro, Salsa jam outro)
+15. The Song That Jane Likes
+16. Rooftop
+17. Jimi Thing (Sexy MF outro)
+
+Disc 3
+
+18. The Riff
+19. Digging a Ditch
+20. Everyday (#35 intro & outro) %
+21. Can't Stop %
+22. You & Me %
+23. Stay (Wasting Time) %
+
+24. Encore Break
+
+
+Encore
+
+25. Water into Wine (partial)
+26. Pantala Naga Pampa->
+27. Rapunzel
+
+
+
+
+% Lovely Ladies guesting on vocals
+
+
+
+
+Notes:  The evening was stormy and windy so there may be parts where phasing is heard
+
+
+
+Thanks to Crumbo for the beer. Thanks to Rick for the setup help.  Thanks to Nicole for switching tickets so I could get in early to setup.  Special thanks to Alyson and Brad for the ride and all their hospitality!
+
+
+
+
+
+
+Compiled by Tom Gambichler on July 6, 2014 

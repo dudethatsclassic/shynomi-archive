@@ -1,0 +1,72 @@
+Sigur Ros
+2005-11-03
+Konserthuset
+Gothenburg, Sweden
+FKR 042-043
+
+Taper: Fisherking5@hotmail.com
+
+Source: Dpa4061->SPSB1->Sony D100 (about 8 meters from left stack)
+
+Transfer: Tascam DA20->Philips CDR765->Wavelab lite->HD->Flac level 8
+Changed gain
+EQ -3db @72Hz
+Widened stereoperspektive
+
+Setlist
+Takk
+Glósóli
+Ný Batteri
+Sé Lest
+Saeglópur
+Njosnavélin
+Gong
+Andvari
+Hoppípolla
+Med Blodnasir
+Olsen Olsen
+Vidrar vel til loftarásá
+Svo Hljótt
+Heysátan
+...
+Popplagid 
+
+Since I am not very familiar with Sigur Ros music I have no idea on where to put the trackmarks. 
+This is why the show is presented as Disc 1 and Disc 2 only. If you want to put trackmarks on it and reseed it it is perfectly fine with me.
+
+
+---------------------------------------------------------------------------------------------------
+
+
+With the kind permission of Fisherking5@hotmail.com the two original files have been tracked.
+
+[New] Transfer: Tascam DA20->Philips CDR765->Wavelab lite->HD->Flac level 8->
+[Flac frontend->wav->Cdwave 1.92->Flac frontend (verify/align on sector boundaries)->Flac level 8]
+
+
+Disc 1 (61:51)
+
+01. Takk			(02:50)
+02. Glósóli			(06:31)
+03. Ný Batteri			(09:26)
+04. Sé Lest			(08:48)
+05. Saeglópur			(07:51)
+06. Njosnavélin			(08:10)
+07. Gong			(05:06)
+08. Andvari			(06:26)	
+09. Hoppípolla			(04:05)
+10. Med Blodnasir		(02:34)
+
+Disc 2 (48:45)
+
+01. Olsen Olsen			(08:31)
+02. Vidrar vel til loftarásá	(10:37)	
+03. Svo Hljótt			(06:50)
+04  Heysátan			(06:08)
+...
+05. Popplagid			(13:49) 
+06. (outro/applause)		(02:46)
+
+
+
+Enjoy!! lintonkwesi@hotmail.com

@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-04-20 - Boulder, CO - Fox Theatre [SBD].txt"
     },
     {
       "year": 1995,
@@ -33,7 +34,8 @@ const ARTIST_DATA = {
       "venue": "The Palace *Fallen Idols",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-21 - Hollywood, CA - The Palace - Fallen Idols [Silver].txt"
     }
   ],
   "misc": [

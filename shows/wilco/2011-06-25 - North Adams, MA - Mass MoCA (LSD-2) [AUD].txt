@@ -1,0 +1,81 @@
+Wilco
+June 25, 2011
+Solid Sound Festival
+Mass MoCA
+North Adams, MA
+
+*** THIS IS A 16-BIT FILESET INTENDED FOR AUDIO CD ***
+
+SOURCE: studio projects LSD-2 (mid-side, on stand, 7') > sound devices mp2 > busman t-mod edirol r4 (24/96)
+PROCESSING: soundforge 9.0 (Voxengo MSED plugin v2.3 [+1.7 mid, +5.8 side], +3.24dB right channel, tracking, resample, dither, fades) > flac 1.2.1b
+
+DISK ONE
+
+01 intro
+02 I Love My Label *
+03 Dawned On Me &
+04 Shot In The Arm
+05 Side With The Seeds
+06 Company In My Back
+07 I’ll Fight
+08 War On War
+09 At Least That’s What You Said
+10 It’s Just That Simple
+11 What Light
+12 Can’t Stand It
+13 Standing O &
+14 Jesus, etc. %
+15 Hummingbird
+16 I Might
+17 Box Full Of Letters
+18 Hate It Here
+19 You Never Know $
+20 Born Alone
+21 pre-encore crowd
+22 The Late Greats
+23 Heavy Metal Drummer
+24 Passenger Side
+25 California Stars #
+26 Airline To Heaven
+27 Monday
+28 Outtasite (Outta Mind)
+29 Hoodoo Voodoo @
+
+* by Nick Lowe
+& live debut
+% crowd singalong
+$ with Liam Finn on electric guitar and backing vocals
+# with Sarah Lee Guthrie and Johnny Irion on vocals and tambourine
+@ with bass-guitar-keyboard tech Josh on cowbell and gong
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:29.25        5174444 B   ---   --   ---xx   flac  0.4499  wilco2011-06-25_lsdII_t01.flac
+     3:37.59       38417612 B   ---   --   ---xx   flac  0.5584  wilco2011-06-25_lsdII_t02.flac
+     3:55.61       41597516 B   ---   --   ---xx   flac  0.5329  wilco2011-06-25_lsdII_t03.flac
+     4:57.17       52430828 B   ---   --   ---xx   flac  0.5749  wilco2011-06-25_lsdII_t04.flac
+     5:10.20       54731084 B   ---   --   ---xx   flac  0.4733  wilco2011-06-25_lsdII_t05.flac
+     4:08.14       43780172 B   ---   --   ---xx   flac  0.4984  wilco2011-06-25_lsdII_t06.flac
+     4:24.53       46694300 B   ---   --   ---xx   flac  0.4830  wilco2011-06-25_lsdII_t07.flac
+     3:29.64       37018172 B   ---   --   ---xx   flac  0.5459  wilco2011-06-25_lsdII_t08.flac
+     5:48.43       61488380 B   ---   --   ---xx   flac  0.4676  wilco2011-06-25_lsdII_t09.flac
+     4:13.01       44631596 B   ---   --   ---xx   flac  0.4831  wilco2011-06-25_lsdII_t10.flac
+     3:59.43       42260780 B   ---   --   ---xx   flac  0.4782  wilco2011-06-25_lsdII_t11.flac
+     4:55.70       52202684 B   ---   --   ---xx   flac  0.5289  wilco2011-06-25_lsdII_t12.flac
+     4:02.36       42773516 B   ---   --   ---xx   flac  0.5143  wilco2011-06-25_lsdII_t13.flac
+     4:03.28       42931100 B   ---   --   ---xx   flac  0.4227  wilco2011-06-25_lsdII_t14.flac
+     4:14.69       44967932 B   ---   --   ---xx   flac  0.4559  wilco2011-06-25_lsdII_t15.flac
+     4:48.16       50840876 B   ---   --   ---xx   flac  0.5067  wilco2011-06-25_lsdII_t16.flac
+     3:46.69       40028732 B   ---   --   ---xx   flac  0.5371  wilco2011-06-25_lsdII_t17.flac
+     5:14.27       55453148 B   ---   --   ---xx   flac  0.5001  wilco2011-06-25_lsdII_t18.flac
+     5:21.09       56645612 B   ---   --   ---xx   flac  0.5395  wilco2011-06-25_lsdII_t19.flac
+     4:14.46       44913836 B   ---   --   ---xx   flac  0.5533  wilco2011-06-25_lsdII_t20.flac
+     1:59.69       21153932 B   ---   --   ---xx   flac  0.4810  wilco2011-06-25_lsdII_t21.flac
+     2:56.69       31208732 B   ---   --   ---xx   flac  0.5167  wilco2011-06-25_lsdII_t22.flac
+     3:24.73       36157340 B   ---   --   ---xx   flac  0.5548  wilco2011-06-25_lsdII_t23.flac
+     4:01.65       42665324 B   ---   --   ---xx   flac  0.4971  wilco2011-06-25_lsdII_t24.flac
+     4:49.20       51026684 B   ---   --   ---xx   flac  0.5130  wilco2011-06-25_lsdII_t25.flac
+     4:29.06       47465756 B   ---   --   ---xx   flac  0.5447  wilco2011-06-25_lsdII_t26.flac
+     4:10.40       44194124 B   ---   --   ---xx   flac  0.6048  wilco2011-06-25_lsdII_t27.flac
+     2:32.70       26977484 B   ---   --   ---xx   flac  0.6075  wilco2011-06-25_lsdII_t28.flac
+     6:48.17       72011228 B   ---   --   ---xx   flac  0.5637  wilco2011-06-25_lsdII_t29.flac
+   120:09.74     1271842924 B                            0.5182  (29 files)

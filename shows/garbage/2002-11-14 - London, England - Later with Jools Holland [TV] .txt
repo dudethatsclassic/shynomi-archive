@@ -1,0 +1,56 @@
+Garbage
+Date: 14 November 2001
+Location: Later with Jools Holland, London, England
+
+Set list:
+
+cd1:
+
+01 Til The Day I Die 
+02 Cherry Lips (Go Baby Go!)
+03 Stupid Girl 
+04 Interview with Shirley Manson
+
+
+Original Source / Lineage: TV Broadcast Audio Rip.
+
+The source for this release is a CDr recording that has recently been obtained as part of the circa 200+ private collection of Garbage Live Shows, which im presently indexing, converting to Flac and then sharing.
+
+As such I have no other information to work with. I have no info on the original source, the taper, location or their equipment. Spectural anlaysis for several files are provided, for information.
+
+If the native Info files are available on these CD's, then that data will be captured in the info file that are generated, for each release. If this is your original release, thank you for recording, and please advise of any further data that you may have.
+
+There are also a number of audio cassettes to work through to, which will be addressed once the CD's have been concluded.
+
+A huge thank you again to the original collector Jayson Kaap who gathered up all these shows over the years.
+
+Another huge thanks again to the https://www.garbagebase.com website, which has proven to be a valuable resource for helping out with show dates, locations & track listings etc.
+
+Any constructive / helpful comments that you may have, are always welcome.
+
+
+ALWAYS, ALWAYS SUPPORT THE ARTISTS
+DO NOT SELL THIS SHOW
+DO NOT ENCODE TO MP3
+DO TRADE IT IN LOSSLESS FORMAT
+
+
+Transfer: 
+
+CDr > Exact Audio Copy V1.6.  No other filters, effects or fades have been applied, just the CDr ripped from Wav into Flac format.
+
+Compression	 				: Flac 1024 kBit/s 
+Quality 					: High Add 
+ID3 tag 					: Yes
+Read mode               			: Secure
+Utilize accurate stream 			: Yes
+Defeat audio cache      			: Yes
+Make use of C2 pointers 			: No
+Combined read/write offset correction       	: 0
+Overread into Lead-In and Lead-Out          	: No
+Fill up missing offset samples with silence 	: Yes
+Delete leading and trailing silent blocks   	: No
+Null samples used in CRC calculations       	: Yes
+Used interface                              	: Native Win32 interface for Win NT & 2000
+Gap handling                                	: Not detected, thus appended to previous track
+

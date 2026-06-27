@@ -1,0 +1,60 @@
+Wilco
+February 12, 1997
+Irving Plaza - New York, NY 
+
+Source:		SBD
+Lineage:	CD-R (unknown generation)->EAC (V0.95)->WAV->FLAC Frontend, level 8 (1.7.1)->FLAC
+disc 2 files re-named, files reflacced and tagged
+
+CD1
+Misunderstood
+Far Far Away
+Forget The Flowers
+That's Not The Issue
+Someday Soon
+New Madrid
+Red Eyed And Blue
+I Got You
+Someone Else's Song
+Why Would You Wanna Live
+I Must Be High
+Passenger Side
+Hotel Arizona
+Monday
+Kingpin
+Outtasite
+
+CD2
+Box Full Of Letters
+Casino Queen
+"Deli Tray Game" -> We've Been Had
+The Long Cut
+Dreamer In My Dreams
+Will You Still Love Me Tomorrow
+
+Notes:  This show was taped for HBO Reverb and icludes the infamous Deli Tray incident.  The video is available as part of JHamm's DVD Project Volume 9.
+A comparison to the setlist at WilcoBase has the order of "Box Full of Letters" and "Casino Queen" reversed.  
+
+wilco1997-02-15d1Track01.flac:52128cc5bc4791bf9d64e26d7c0f53fc
+wilco1997-02-15d1Track02.flac:36493cc59370a71670a9a8f604c9a4a3
+wilco1997-02-15d1Track03.flac:c14fce9fe8c4d20922b34c896ccdbb46
+wilco1997-02-15d1Track04.flac:86ca56a42e69c725f4ce71ac69aa6111
+wilco1997-02-15d1Track05.flac:7e2f704c25975931e0cbc03b9594db2d
+wilco1997-02-15d1Track06.flac:69346261912523f5745fa007159139d8
+wilco1997-02-15d1Track07.flac:90c58df05911496bfe63a1eef8c95515
+wilco1997-02-15d1Track08.flac:ed4831e34fe7f2c097d6a47508a26abe
+wilco1997-02-15d1Track09.flac:64ae6c29af77cf0dff391ee0bc355728
+wilco1997-02-15d1Track10.flac:313b789b1c2ad4e07c3569b211358ea1
+wilco1997-02-15d1Track11.flac:5998b0571ab4c60349c40ae747141501
+wilco1997-02-15d1Track12.flac:c3381f6302d5e177b072b12e8125a807
+wilco1997-02-15d1Track13.flac:611f751174a87340e94a16b56d5c3c70
+wilco1997-02-15d1Track14.flac:22375ce1812d34e8b06148efa2191ca6
+wilco1997-02-15d1Track15.flac:3733c4d12a22de155ce74a7aa2135a40
+wilco1997-02-15d1Track16.flac:b5657c0d8fe782d66fe0e92bd48be60d
+wilco1997-02-15d2Track01.flac:41ce412a4c176b7124c1d9cdd9d1c25e
+wilco1997-02-15d2Track02.flac:143b75c22b7cea01f698fa87239d1726
+wilco1997-02-15d2Track03.flac:fda8652db431bd9967e11472ded71a08
+wilco1997-02-15d2Track04.flac:ce4ea9089a1b3b9635c1d4e2408b90b3
+wilco1997-02-15d2Track05.flac:1122cae7ef386f9d3b9486bd07968f3d
+wilco1997-02-15d2Track06.flac:7dd2e10383a398a4d96f6c255ba0bd46
+

@@ -1,0 +1,22 @@
+Wilco
+November 09, 2011
+Munich (Germany) "Circus Krone"
+
+Source: Digital Cable Radio Broadcast (320kbps/mp2 Stream, Stereo), German Radio "Bayern 2" on 31th December 2011, complete Broadcast, incomplete Concert
+
+Lineage: DVB-C Radiobroadcast (my own Recording) -> uncompressed Recording/Digital Receiver/HDD -> Transfer PC -> dbPowerAmp (mp2/48kHz to Wave 16Bit/44,1 kHz -> Audacity (Trackmarker, Fades) -> FLAC 8 -> DIME
+
+Setlist:
+
+01 The Late Greats
+02 Black Moon
+03 Impossible Germany
+04 Born Alone
+05 Jesus, etc.
+06 Capital City
+07 Handshake Drugs
+08 Hummingbird
+09 I'll Fight
+10 War on War
+11 The Lonely 1
+

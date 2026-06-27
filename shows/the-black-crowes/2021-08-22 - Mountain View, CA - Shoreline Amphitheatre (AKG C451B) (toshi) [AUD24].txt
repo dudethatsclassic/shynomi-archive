@@ -1,0 +1,66 @@
+The Black Crowes
+Shoreline Amphitheatre
+Mountain View, CA
+August 22, 2021
+
+** 24 BIT **
+
+Source:  AKG C451B > Zoom F6 @ 32 bit/48 kHz)
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 130 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > iZotope 
+MBIT+ (dithered and downsampled to 24 bit/48 kHz) > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging) 
+Location:  DFC, 5 meters from the stage, mics 6' high
+Recorded by:  Toshi
+Mastered by:  Dennis Orr
+
+Setlist: (1:47:23)
+01 Twice As Hard
+02 Jealous Again
+03 Sister Luck
+04 Could I've Been So Blind
+05 Seeing Things
+06 Hard To Handle
+07 Thick N' Thin
+08 She Talks To Angels
+09 Struttin' Blues
+10 Stare It Cold
+11 No Speak No Slave
+12 My Morning Song
+13 Walk Believer Walk
+14 Wiser Time
+15 Band Intros
+16 Thorn In My Pride
+17 Sting Me
+18 Remedy
+19 Encore Break
+- Encore - 
+20 It's Only Rock 'N' Roll (But I Like It)
+
+Chris Robinson – lead vocals, harmonica, acoustic guitar, & percussion
+Rich Robinson – guitar, backing vocals
+Sven Pipien – bass, backing vocals
+Isaiah Mitchell – guitar, backing vocals
+Joel Robinow – keyboards, backing vocals
+Brian Griffin – drums, percussion
+Leslie Grant - backing vocals
+Mackenzie Adams - backing vocals
+
+tbc2021-08-22t01.flac:c1333ac64232ebde96718656b6ff2afc
+tbc2021-08-22t02.flac:2d759f92d9e946855e28ce4f32fcc3ad
+tbc2021-08-22t03.flac:1a01f45abfb286075f79330a7672dbf3
+tbc2021-08-22t04.flac:920200d04e898193a2a3e027b8d2e834
+tbc2021-08-22t05.flac:1e4e50074a838c9d95a16df6be6329e7
+tbc2021-08-22t06.flac:c8d7cc03aafa6eea9ee2b7af38dd02f5
+tbc2021-08-22t07.flac:8efa732a5645d9c2df1f99040ca3b5b0
+tbc2021-08-22t08.flac:6680e2ff5e1b8abd35787e53470798ca
+tbc2021-08-22t09.flac:9cbc788158339b0284d4c449dd54d2a5
+tbc2021-08-22t10.flac:3eea01a11773b6b00c8a3aab01acfa3a
+tbc2021-08-22t11.flac:d51d8fb175830eec23a8cbcb929f3551
+tbc2021-08-22t12.flac:cc8b269defe2bb6fa0eaaec2ef5eb24a
+tbc2021-08-22t13.flac:055f69eab12aa139db1bc246c3afb2c8
+tbc2021-08-22t14.flac:04091c92d8d799f05434c94292f747dd
+tbc2021-08-22t15.flac:1b8f21e69deaffaecd750401f991b7dd
+tbc2021-08-22t16.flac:e6f0b58ad44970cceb5db583c4f2919d
+tbc2021-08-22t17.flac:fcfb20d01c2a0251f10646b683e1b302
+tbc2021-08-22t18.flac:f7f2cc8dc3e61270482fe8e3524c72c4
+tbc2021-08-22t19.flac:329f88b2b9ec52eb3b6e753c38d891d7
+tbc2021-08-22t20.flac:bd92ebade7d05b9164730d260fd7c392

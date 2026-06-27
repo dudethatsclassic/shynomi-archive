@@ -1,0 +1,42 @@
+John Mayer
+August 10th, 2013
+Klipsch Music Center
+Noblesville, IN
+
+Taper: Mike Peters
+Location: VIP Box 46 directly in front of FOH, mics at approximately 12ft
+Source: AKG 460B/CK61-ULS > Edirol UA-5 BMp2+ > iRiver iHP-120 (Rockbox)
+Conversion: iRiver iHP-120 USB > Sound Forge 10.0 (Fade in/out, normalize, EQ) > Audacity 2.0.3 (Enveloping) > CDWave 1.97 > foobar2000 (tagging)
+
+01: Introduction
+02: Queen of California
+03: I Don't Trust Myself (With Loving You)
+04: Fool To Love You
+05: Something Like Olivia
+06: Lay Down Sally %
+07: Who Says (Your So Cool Intro)
+08: Shadow Days
+09: Going Down The Road Feeling Bad #
+10: Slow Dancing In A Burning Room
+11: Neon
+12: Your Body Is A Wonderland
+13: Wildfire
+14: If I Ever Get Around
+15: Half Of My Heart
+16: Born and Raised
+17: Vultures
+18: Paper Doll
+19: The Age of Worry
+20: Waiting On The World To Change
+21: Angel From Montgomery &
+22: Gravity
+
+# Greatful Dead cover
+% Eric Clapton cover
+& John Prine cover
+
+Notes:  Thanks to David Krogh (same stand) for the patch of GSM cell noise I picked up early in the show
+		Thanks to the wonderfully cooperative Klipsch Music Center security for going out of their way to find us a tape to spot from after a patron complained.
+		Thank you to Mr. Ritter for letting us record from his box.
+		
+Compiled by: Mike Peters 8/11/2013 

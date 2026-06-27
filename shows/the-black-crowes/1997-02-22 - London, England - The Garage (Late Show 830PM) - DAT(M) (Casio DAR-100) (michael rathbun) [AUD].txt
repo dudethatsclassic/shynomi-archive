@@ -1,0 +1,63 @@
+
+Cleaning the polluted Crowes waters with source material! 
+
+The Black Crowes 
+February 22, 1997 
+The Garage (Late Show - 8:30PM)
+London, England
+
+Source: Audience DAT 
+
+Recording Information: Casio DAR-100 & Aerco preamp with Microtech Gefell SMS 2000 
+microphones and M 210 capsules. Recorded 60 feet dead center from the stage.
+ 
+Taper: Michael Rathbun
+
+Lineage: DAT Master>Digital DAT Clone>WAV>FLAC
+
+Mastering Information: DAT converted to Wave optically via a Prodiff 96 digital 
+soundcard into Wavelab. Downsampled from 48kHz to 44.1kHz in Wavelab. Individual Wave
+tracks created in Wavelab. Wave files converted to FLAC (level 8) using FLAC Frontend.
+
+I have listed below the tracks broken out into what I think would be a correct split to 
+span the show over two 74 or 80 minute CDRs, as the naming convention of the FLAC files
+suggest. Note that the last track on Disc 1 and the first track on Disc 2 can be joined 
+together without a loss of continuity. 
+
+Running Time: 101:00
+
+DISC 1: 51:22
+
+1. Remedy
+2. Bad Luck Blue Eyes Goodbye
+3. Darling Of The Undergroud Press
+4. Ballad In Urgency
+5. Wiser Time
+6. Cursed Diamond
+7. He Was A Friend Of Mine
+
+DISC 2: 49:37
+
+1. Descending
+2. Willin'
+3. Downtown Money Waster
+4. How Much For Your Wings?
+5. Hard To Handle
+6. She
+7. Girl From The North Country
+
+Notes: Additional Show Information @ http://www.crowesbase.com/tapelisting.cfm?TapeID=33
+
+Torrent uploaded to bt.etree.org on 5/22/06.
+
+Please do not manipulate this recording in any way. Please do not dub to analog tape 
+or convert to MP3 and circulate. 
+
+If you are to trade this show, or do a blank CDR+postage offer, please list the lineage 
+to keep the generational waters clean! 
+
+If you would like to re-seed this torrent in the future, please use the exact files contained 
+in the torrent with no file manipulation. This will insure that the FLAC fingerprints 
+and MD5 hashes verify, keeping the integrity of the torrent intact.
+
+"A Spider-Web Torrent"

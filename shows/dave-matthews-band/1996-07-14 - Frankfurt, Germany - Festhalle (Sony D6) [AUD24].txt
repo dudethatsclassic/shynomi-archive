@@ -1,0 +1,59 @@
+Dave Matthews Band 1996-07-14 Frankfurt, Germany.aud.flac24-48
+
+
+Dave Matthews Band
+
+Festhalle, 
+Frankfurt/Main, Germany
+1996-Jul-14 (Sunday)
+
+(opened for Neil Young & Crazy Horse)
+
+line-up:
+Dave Matthews - gtr, v
+
+Carter Beauford - dr
+Stefan Lessard - b
+LeRoi Moore - sax
+Boyd Tinsley - vi, mandolin
+
+
+01 crowd/hellos (0:34)
+02 Drive In, Drive Out (6:29)
+03 #41 (7:31)
+04 Two Step> Crash Into Me (stopped)* (8:05)
+05 Too Much (4:35)
+06 So Much To Say (4:19)
+07 Ants Marching (6:55)
+
+TT: 38:28
+
+* bridge into Crash (aborted after first few chords)
+
+
+Recording info:
+Master source: Sony D-6/Aiwa CM30A stereo mike > analogue audCassM 
+(Maxell XLII, Dolby-B on), no dB filter.
+
+Playback/transfer info:
+
+audCassM on Nak Dragon (NAAC azimuth aligned, Dolby-B off) > Tascam 
+DR40X (24-48wav) > audacity 2.2.2 (minor edits, lowered loud clapping, 
+slight level raise) > CD Wave Editor (tracking) > wav files 24-48 > 
+TLH (level 8/ffp/MD5) > flac24-48.
+
+
+Enjoy! Share! Keep it lossless! And never sell!
+
+
+01/2021 9fingerle
+_____________________________________________________________________________
+
+flac fingerprint file
+dmb1996-07-14 flac24-48 tr01.flac:d06b9537b13903c9e0bb18defa4b43f4
+dmb1996-07-14 flac24-48 tr02.flac:f64d2e10eeecf70f4e8654e06e40ba08
+dmb1996-07-14 flac24-48 tr03.flac:2ee395d1f4f1adb3e239e91f960eb70c
+dmb1996-07-14 flac24-48 tr04.flac:b0dbfd36162a44e99e17412731233dab
+dmb1996-07-14 flac24-48 tr05.flac:5ca17c5f6138301c9bb86a770b5bda2b
+dmb1996-07-14 flac24-48 tr06.flac:9bf9224a141c324def8d97a2848df362
+dmb1996-07-14 flac24-48 tr07.flac:17e2a616fb20844856b622a1b2769055

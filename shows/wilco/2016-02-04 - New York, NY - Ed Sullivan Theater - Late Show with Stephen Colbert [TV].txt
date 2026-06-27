@@ -1,0 +1,72 @@
+Wilco
+Late Show with Stephen Colbert 
+Ed Sullivan Theatre, New York 
+2016-02-04
+
+01. Random Name Generator
+
+Digital TV (10HD, Australia) -> Topfield PVR (mpeg-4) -> AviDemux (mkv) 
+
+General
+Unique ID                                : 274511110126079247285697385419931670537 (0xCE84EAAD3C8DDEB117033A4FB8445809)
+Complete name                            : C:\Users\daisy\Downloads\Desktop\colbert%28COPY%29-1.mkv
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 192 MiB
+Duration                                 : 4mn 27s
+Overall bit rate                         : 6 017 Kbps
+Writing application                      : Lavf56.36.100
+Writing library                          : Lavf56.36.100 / Lavf56.36.100
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Format settings, GOP                     : M=4, N=24
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 4mn 27s
+Bit rate                                 : 5 449 Kbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan type, store method                  : Separated fields
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 0.105
+Stream size                              : 174 MiB (91%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 4mn 27s
+Bit rate mode                            : Constant
+Bit rate                                 : 448 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Frame rate                               : 31.250 fps (1536 spf)
+Compression mode                         : Lossy
+Delay relative to video                  : -57ms
+Stream size                              : 14.3 MiB (7%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+

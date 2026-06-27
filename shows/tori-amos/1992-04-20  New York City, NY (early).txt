@@ -1,0 +1,46 @@
+Fair recording of an excellent performance; enjoy.
+
+Faults: t01 is rough; see note below.  Occasional audience chatter.
+
+TORI AMOS
+New York City, NY  --  Bottom Line
+1992-04-20-early  --  82:46
+
+01.  Little Earthquakes
+02.  -talk-
+03.  Crucify
+04.  -talk-
+05.  Silent All These Years
+06.  Precious Things
+07.  Happy Phantom
+08.  Leather
+09.  -talk-
+10.  Whole Lotta Love
+11.  Upside Down
+12.  Tear in Your Hand
+13.  -talk-
+14.  Me Anna Gunn
+15.  Winter
+16.  -talk-
+17.  Smells Like Teen Spirit
+18.  Mother
+19.  -talk-
+20.  Angie
+
+note: tape flip t12>13; some applause lost
+t01: huge level shift at 00:30; over-recorded first 01:30 
+Tori Amos - songwriter, except
+t10: by Willie Dixon, Robert Plant, Jimmy Page, John Bonham, John Paul Jones
+t17: by Kurt Cobain, Dave Grohl, Krist Novoselic
+t20: by Mick Jagger, Keith Richards
+
+No artwork.
+
+source: trade cassette; low gen but previous history unknown  
+transferred by stevemtl: cassette > Nakamichi Dragon > Lucid AD9624 (mod) > R44 (16/48) > SD chip > HD
+Mastered and posted to DIME by stevemtl on 2019-04-21:
+HD > Soundforge (L2 dither > 24/48: L2 level adjust, trim, edit) > R8brain (downsample > 24/44.1) > Soundforge (L2 dither > 16/44.1) > CDwave (track cut) > TLH (flac level 8, ffp, md5) > TLH (torrent) > DIME
+
+Support Tori Amos by purchasing official releases and merchandise.
+Please pass on in a lossless format; reserve mp3 and other degrades for your own use only.
+Do not profit in any material way from this recording.

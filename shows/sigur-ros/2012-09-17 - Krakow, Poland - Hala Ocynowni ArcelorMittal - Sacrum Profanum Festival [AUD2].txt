@@ -1,0 +1,49 @@
+Sigur Rós
+17 September 2012
+Sacrum Profanum Festival
+Hala Ocynowni ArcelorMittal, Kraków, Poland
+Audience Recording
+
+Lineage : Church Audio CAFS > Tascam DR-07 (24bit/48kHz, mic-in w/plug-in power)
+> Sound Forge Pro 10 (splitting, normalizing, conversion to 16bit/44kHz) >
+FLAC v1.2.1 (-V -8) > foobar2000 v1.1.14a (tagging) > you :)
+
+Tracklisting :
+1.01 - Í Gær [8:14]
+1.02 - Untitled #1 (Vaka) [6:51]
+1.03 - Untitled #6 (E-bow) [8:52]
+1.04 - Svefn-G-Englar [11:36]
+1.05 - Sæglópur [7:29]
+1.06 - Fljótavík [4:05]
+1.07 - Viðrar Vel Til Loftárása [9:47]
+1.08 - Hoppípolla // Með Blóðnasir [6:13]
+2.01 - Olsen Olsen [7:35]
+2.02 - Festival [8:08]
+2.03 - Varúð [6:36]
+2.04 - Hafsól [8:43]
+2.05 - encore break [2:26]
+2.06 - Ekki Múkk [6:36]
+2.07 - Glósóli (False Start 1) [0:26]
+2.08 - Glósóli (False Start 2) [0:29]
+2.09 - Glósóli [6:19]
+2.10 - Untitled #8 (Popplagið) [15:15]
+
+Quality : B- (there is no level adjustment during the recording itself this time,
+but unfortunately there's something wrong with the left channel at times, the
+master contained occasional glitches that were corrected by pasting the right
+channel over the affected area, plus there's some digital noise during the last
+two songs)
+
+Last night of the Sacrum Profanum Festival and second performance of Sigur Rós.
+Although it was very similar musically, the show itself felt quite different,
+though I may not be a good judge on this. There was significantly less lights,
+at least in my opinion, but the audience and the band were having a very good
+time, just like the previous night. After the show, the band gathered to talk
+to the fans, give them autographs and whatnot.
+
+Special thanks to my boyfriend Robert, thanks to whom I had the chance to
+experience pretty much the same music with very different feelings accompanying
+me (when compared to the previous show).
+
+Please share, but never sell.
+-dkk

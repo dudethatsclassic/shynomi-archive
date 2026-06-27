@@ -1,0 +1,45 @@
+Black Crowes - April 7, 1995
+Tampa Stadium - Tampa, FL
+
+Recording Info:
+SBD > Dat Master (44.1k)
+
+Transfer Info:
+Dat Master (Sony PCM-R500) > Sound Devices 744T > Samplitude Pro X3 Suite > FLAC
+(2 Discs Audio / 1 Disc FLAC)
+
+All Transfers and Mastering by Charlie Miller
+charliemiller87@earthlink.net
+July 10, 2017
+
+Notes:
+-- Opened For The Grateful Dead
+
+Setlist:
+01 - Soundcheck
+02 - She Gave Good Sunflower
+03 - High Head Blues
+04 - My Morning Song
+05 - Hard To Handle
+06 - Ballad In Urgency >
+07 - Wiser Time
+08 - Mellow Down Easy
+09 - Pimper's Paradise
+10 - Jealous Again
+11 - Remedy
+
+
+SHNTOOL OUTPUT:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+    16:21.20      173095484 B   ---   --   ---xx   flac  0.5274  01 Soundcheck.flac
+     6:02.55       63986204 B   ---   --   ---xx   flac  0.6068  02 She Gave Good Sunflower.flac
+     7:23.12       78173468 B   ---   --   ---xx   flac  0.6005  03 High Head Blues.flac
+    19:12.39      203304572 B   ---   --   ---xx   flac  0.5997  04 My Morning Song.flac
+     4:12.05       44464604 B   ---   --   ---xx   flac  0.6148  05 Hard To Handle.flac
+     7:24.42       78420428 B   ---   --   ---xx   flac  0.5789  06 Ballad In Urgency.flac
+     6:24.63       67885820 B   ---   --   ---xx   flac  0.6462  07 Wiser Time.flac
+     4:20.10       45887564 B   ---   --   ---xx   flac  0.5936  08 Mellow Down Easy.flac
+     5:09.54       54634652 B   ---   --   ---xx   flac  0.6267  09 Pimper's Paradise.flac
+     5:16.46       55850636 B   ---   --   ---xx   flac  0.6251  10 Jealous Again.flac
+     6:58.14       73768172 B   ---   --   ---xx   flac  0.6322  11 Remedy.flac
+    88:45.60      939471604 B                            0.5946  (11 files)

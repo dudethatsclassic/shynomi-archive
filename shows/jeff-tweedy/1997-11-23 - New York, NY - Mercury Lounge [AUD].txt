@@ -1,0 +1,84 @@
+Jeff Tweedy
+(with Jay Bennett)
+11/23/97
+Mercury Lounge, NYC
+
+Recording Information:
+Core Sound Cardiods (clipped to hat) > Master DAT (Sony D-7)
+FOB, Recorded from the center of the floor, 15 feet from stage 
+and stacks.*
+
+CD Mastering:
+Master DAT > via optical cable > HHb CDR-800 Pro > Master CD
+
+FLAC File:
+Master CD > EAC (secure mode) > .wav > FLAC Frontend > FLAC
+
+
+Recorded by, CD mastering, and FLAC file by
+Dan Lynch
+ndjd88@well.com
+dlynch4@nyc.rr.com
+
+
+CD 1:
+01  James Alley Blues     [04:41.09]
+02  New Madrid            [03:48.12]
+03  The Royal Canal^      [04:47.01]
+04  Via Chicago           [04:14.01]
+05  Forget the Flowers    [04:17.38]
+06  I Got You             [02:34.04]
+07  Hoodoo Voodoo         [02:34.55]
+08  Passenger Side        [04:51.23]
+09  She’s a Jar           [03:50.43]
+10  Wait Up               [02:21.69]
+11  Was I In Your Dreams  [02:47.47]
+12  Pecan Pie             [02:35.46]
+13  Don’t You Honey Me    [03:00.27]
+
+CD 2:
+01  Screen Door           [02:46.36]
+02  Kingpin               [04:09.47]
+03  Dreamer in My Dreams  [06:11.63]
+04  Thirteen              [03:16.66]
+05  Yesterday             [02:54.19]
+06  Gun                   [04:48.27]
+07  Casino Queen          [03:21.04]
+08  Outtasite             [03:31.14]
+09  Acuff Rose            [03:06.35]
+
+^This traditional Irish number is known by several names, including
+"The Banks of the Royal Canal", "Auld Triangle" and others.
+
+
+*I'm pretty certain that I was the only taper at this particular Tweedy
+show.  The only copies I've made of this show are a cassette for the guy
+who was standing next to me that night, and a set of CD's from the masters
+for a friend (Brett) who trades CD's in No Depression trading circles.  
+This is the first shn or flac file of this show.
+
+Flac Fingerprint:
+Disc 1
+Track01.flac:27588b4f192e7d648e96cbaad9d9d293
+Track02.flac:c795fd56cd2dac440de4b343845c2857
+Track03.flac:7d1fa1f886331d80ec2f7fac52b72ca4
+Track04.flac:5bff2676fa8e5c924c95437041ad2a44
+Track05.flac:3d26226e8ae4d445911051180dfc1c95
+Track06.flac:876e5376c4955ab114456468dae33e2e
+Track07.flac:aaaf3246df69459f209f037507952e59
+Track08.flac:9b3a94ecf59d0d22dcc35712c2aaa7fc
+Track09.flac:809230b54e43d983f60fbdd3ea53cfdc
+Track10.flac:5714b527c232b491f1cb6058f6a354b8
+Track11.flac:02b4bb92ee06cfd2221f7d4605baf311
+Track12.flac:415a606b46102daaa22f10ec31d16650
+Track13.flac:bedea820e84a179b2a1ce415f7c74bb4
+Disc 2
+Track01.flac:8eaaabaa6003773a287367969ca63984
+Track02.flac:e78c671a5ad04d597a24ccd82ca08c3a
+Track03.flac:c4be0d06e6f7adb0aeac4a18ece19d1a
+Track04.flac:c0f6c4e8af6e11e0ddce88ce8c02e97e
+Track05.flac:c1ef976b9710c221a9dc98cb7408d9c4
+Track06.flac:c1394a3a4d1b2a2fdd6fabd0079f3399
+Track07.flac:05bf8194558245b90b785d35a8e2b090
+Track08.flac:a46f29363332aba89c2eedc29ab2ab9c
+Track09.flac:bb44e3349c456a9720a1799021464388

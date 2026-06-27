@@ -1,0 +1,25 @@
+Wilco
+
+27th March 2013
+Hamer Hall
+Melbourne, Victoria, Australia 
+
+Double J Live At The Wireless
+
+
+DJ Intro
+One Sunday Morning
+I Might
+Spiders (Kidsmoke)
+Impossible Germany
+Born Alone
+Laminated Cat (Loose Fur Cover)
+Jesus etc.
+Whole Love
+Heavy Metal Drummer
+DJ Outro
+
+
+Running Time: 52.53
+
+Digital Terrestrial Broadcast on 2018-07-31 (MPEG1 Layer 2 48kHz @ 256kb/s) Double J Radio > DVB-T > AVerMedia H727 PCIe Hybrid DVBT > DVBviewer > .mp2 > BeSliced 0.9b6 (.bat Normalize  lossless) > MP3DirectCut (editing/cut, no re-encoding) > .mp2

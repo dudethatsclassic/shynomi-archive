@@ -1,0 +1,51 @@
+Dave Matthews Band
+July 4, 1992
+Brown's Island
+Richmond, VA
+
+Source:	Nak 300 Shotguns-> Sony D5[Master Cassette] 
+
+Cass-> DAT:	Nakamichi CR 7[AES/EBU]-> Lucid AD9624->
+		Fostex D5[48KHZ]. Mark Lynn
+		
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard.
+		Soundforge 5.0 used for resampling.
+		CDWAV used for tracking.
+		MKW Audio Compression Tool.
+		Rob Hartman <rob@backyardfunk.com>
+
+Disc One:
+
+01:		Ants Marching *			04:25.70
+02:		So Much To Say			04:52.80
+03:		Dancing Nancies			05:56.46
+04:		Satellite				04:37.56
+05:		Lover Lay Down			07:08.46
+06:		Two Step	  			07:55.36
+07:		All Along The Watchtower	06:19.06
+
+Total							41:15:40
+
+
+Disc Two:
+
+01:		Minarets			05:06.04
+02:		True Reflections		06:04.33
+03:		What Would You Say?	05:26.36
+04:		Help Myself			04:57.86
+05:		Spotlight			05:41.81
+06:		Tripping Billies		04:52.24
+07:		E: Recently			07:39.42
+08:		E: Warehouse		06:44.70
+
+Total						46:32:70
+
+
+Notes:
+---------------------------------------------------------------
+*  the beginning of Ants Marching is cut.
+*  opening for Widespread Panic.
+
+*  dat provided by Mark Lynn.
+
+*  compiled by Rob Hartman <rob@backyardfunk.com> on 12/26/2001.

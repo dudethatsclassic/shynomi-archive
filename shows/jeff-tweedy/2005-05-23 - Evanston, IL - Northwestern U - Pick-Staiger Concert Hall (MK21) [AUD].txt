@@ -1,0 +1,64 @@
+Jeff Tweedy
+2005-05-23
+Evanston, IL - Northwestern U - Pick-Staiger Concert Hall
+* w/ Glenn Kotche
+
+Taper:      Brian Skalinder / bskalinder@yahoo.com
+Location:   Center, Row 6, ~5' stand (seated crowd)
+Mic Config: NOS (30cm, 90º)
+Source:     Schoeps MK21/KC5/CMC6 > Lunatec V3 > Nomad JB3
+Conversion: Nomad JB3 > Adaptec FireConnect 4300 > Notmad Explorer > PC
+Format:     16-bit, 44.1 kHz
+Editing:    CD-Wave (tracking), Cool Edit Pro 2.1 (fades)
+
+** re-FLAC'd from EAC rip made from Audio CDs of this lossless file **
+
+
+DISC ONE
+
+01. [ intro ]
+02. Remember The Mountain Bed
+03. Airline To Heaven
+04. Sunken Treasure
+05. Muzzle Of Bees
+06. I Am Trying To Break Your Heart
+07. Forget The Flowers
+08. Far, Far Away
+09. Bob Dylan's 49th Beard
+10. John Wesley Harding
+11. Blasting Fonda
+12. How To Fight Loneliness
+13. Nothing'severgonnastandinmyway(again)
+14. Summerteeth
+15. Hesitating Beauty
+16. ELT
+17. Gun
+
+DISC TWO
+
+01. I'm The Man Who Loves You
+02. [ applause ]
+
+ENCORE
+
+03. Not For The Season (aka Laminated Cat) *
+04. Chinese Apple *
+05. The Late Greats *
+06. CandyFloss *
+07. Passenger Side *
+
+
+NOTES:
+
+Pick-Staiger, a classical performance space at ~1,000 person capacity, provided a pleasantly intimate performance space without feeling jam-packed uncomfortable.  
+Instead of opting for raw, powerful amplification, Stan provided solid sound reinforcement in this acoustically pleasing venue - makes sense for a solo acoustic 
+performance, after all.  The result:  a clean ambient recording conveying how it actually sounded 6th row, dead center.
+
+Of course, an ambient recording of a solo acoustic show not only captures the sound of the performance and space, but also preserves the hollers from audience 
+members nearby.  Fortunately, the courteous audience really only applauded and hooted between songs.  But boy, did they ever belt it out at times.  
+Rather than set my levels for the howling crowd and ending up with low levels and therefore poor resolution for the music, I set my levels for the music.  
+As a result, some of the especially loud hoots and hollers don't sound all that nice since fans essentially yelled straight into the mics.  
+At any rate, I compressed the applause between songs to minimize the shock of quiet playing followed by THUNDEROUS crowd.
+
+But enough focus on the crowd.  If you can get past the crowd between songs (seems a small price to pay), the real treat here:  
+a fine audience recording of an incredibly talented musician in a beautiful sounding acoustic space.

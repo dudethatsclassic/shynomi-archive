@@ -1,0 +1,67 @@
+Wilco
+Austin City Limits
+The Moody Theater
+Austin, Texas , USA
+30th November 2011
+
+
+This is a NTSC DVD encoded from a High Definition 720p broadcast.
+
+
+Lineage
+=======
+
+HD Source     : ETV HD broadcast 1280x720 16:9 29.9 fps, AC3 384 Kbps audio.( Unkown equipment)
+
+Encoding      : Power Director 8 (NTSC 16:9 720x480 29.9 fps custom video profile with AC3 384 Kbps audio)
+
+DVD Authoring : Adobe Encore CS4 - (Create Menus and add chapters only - no further encoding)
+
+
+Video
+============================ 
+       
+Video           : NTSC                    
+VideoStreamID   : xE0
+Frame rate      : 29.97 fps
+Encoding size   : 720 x 480
+Aspect ratio    : 16:9
+Header bit rate : 7.500 Mbps
+VBV buffer      : 224 KBytes
+Chroma          : 4:2:0
+Bit rate        : 6.643 Mbps
+
+
+Audio Stream
+===========================               
+
+Codec           : AC3
+Format          : DVD VOB
+Channels        : 5.1
+Sub stream id   : x80
+Bit rate        : 384 Kbps
+Sampling rate   : 48000
+Sample size     : 16 bits
+
+
+NTSC DVD Format - Menu & Chapter Selection
+==========================================
+
+Chapter List
+
+01 Art of Almost
+02 Poor Places
+03 Bull Black Nova
+04 Open Mind
+05 Born Alone
+06 One Wing
+07 Black Moon
+08 War on War
+09 Far, Far Away
+10 Dawned on Me
+11 Cruel to be Kind (with Nick Lowe) 
+12 Interview
+
+Running Time 52m 
+
+http://wilcoworld.net

@@ -1,0 +1,231 @@
+Sigur Rós
+
+Heineken Music Hall
+Amsterdam
+The Netherlands
+
+21st February 2013 (2013-02-21)
+
+
+RECORDING:
+
+Type: Audience master, recorded 8 metres back from the suspended left
+      PA stack.
+
+Source: Factory-matched pair of Schoeps CCM 41V microphones (DINa mounted) ->
+	Marantz PMD661 recorder with Oade Concert Mod
+	(-18 dB gain/44.1 kHz/24 bit WAV)
+
+Lineage: Audacity 2.0.2
+	   * normalised to 0 dB
+	   * applied variable amplification for consistency across recording
+	   * audience noise attenuated
+	   * added fades
+	   * split tracks
+	   * converted to 16 bit
+	 -> FLAC (compression level 8) [libFLAC 1.2.1 20070917]
+
+Taper: Ian Macdonald (ianmacd)
+
+
+SET LIST:
+
+01. [04:44] Yfirborð
+02. [07:11] Í Gær
+03. [09:11] Ný Batterí
+04. [08:02] Brennisteinn
+05. [07:37] Sæglópur
+06. [08:11] Olsen Olsen
+07. [06:43] Vaka
+08. [08:50] E-Bow
+09. [06:26] Varúð
+10. [04:14] Hoppípolla
+11. [02:20] Með Blóðnasir
+12. [06:20] Glósóli
+13. [06:17] Kveikur
+14. [01:19] [encore break]
+15. [11:51] Svefn-g-Englar
+16. [06:21] Hrafntinna
+17. [15:31] Popplagið
+18. [01:52] [curtain call]
+
+Total running time: 122:59
+
+
+MD5 CHECKSUMS:
+
+398fdfe47eedc6fd15fcb86bb54bc47a *flac/01_yfirborð.flac
+47d6c071d0cba7e0c1de7206e875b840 *flac/02_í_gær.flac
+f3780ea2b6d6f4fcda95e7d3f91c51cc *flac/03_ný_batterí.flac
+e1f794172acaa8aa896246c8dccbea25 *flac/04_brennisteinn.flac
+1bf75af78ca94f25d47d96776fc43b96 *flac/05_sæglópur.flac
+4e54ea4877f727df797dc846a33fdb91 *flac/06_olsen_olsen.flac
+2b8828b38afab57e478cea7b1c35cbd8 *flac/07_vaka.flac
+9dd7c41e982951b64ddecd442106e5b4 *flac/08_ebow.flac
+22f4b4c0d430cffc0ac89708527fb2e9 *flac/09_varúð.flac
+0c0728f91a0532d2fb9852a9e6149c27 *flac/10_hoppípolla.flac
+c8f702e6581d96983ba1a83efca7e4e0 *flac/11_með_blóðnasir.flac
+7fbd4bcb6e13b0adff4719417a473aa7 *flac/12_glósóli.flac
+e4ee96c35cd8ed170201327eff518215 *flac/13_kveikur.flac
+b875cfd090d7cc25007106dea8c373a7 *flac/14_encore_break.flac
+9797a414e3d59e42821e389d6e00c5f9 *flac/15_svefngenglar.flac
+84ba665b9f099917160fe26daf703e50 *flac/16_hrafntinna.flac
+2cf5632bfa1e8d323ec151c5d5f441be *flac/17_popplagið.flac
+f6055de8cfa4100803b7975e75539b7d *flac/18_curtain_call.flac
+86e054ff64073cdc88cb1ae9dda097e6 *flac/checksums.ffp
+
+
+NOTES:
+
+Sigur Rós's sold-out show at the Heineken Music Hall sees me discovering that
+I purchased not one, but two tickets in the fan pre-sale, all those months
+ago. I have no-one to go with this evening, so I must now attempt to sell one
+of my tickets.
+
+Marktplaats is a non-starter. All of those scumbag 'secondary market'
+agencies, together with scores of speculating individuals, are now scurrying
+en masse to dump their extras for half the face value.
+
+Last August's two Paradiso shows had sold out so quickly that I thought I'd
+save myself the grief this time of having to pummel my keyboard with all the
+other nutters on general sale day, and instead purchase my ticket as part of
+the fan pre-sale. That turned out to be a bad idea.
+
+Firstly, Topspin, who handled the pre-sale for the band, slapped ridiculous
+fees on the tickets, to wit a EUR 5.85 per ticket handling fee and EUR 4.88 in
+postage. When the tickets finally arrived, they had been sent to me in a plain
+envelope from the UK, at a cost of less than EUR 1.
+
+Fuck Topspin and their 21% mark-up. Fuck them very hard. Thank you.
+
+Secondly, the gig sat on the concert calendar for months, not selling out.
+When it did finally sell out, it was with just a week to go, but as mentioned
+above, much of the demand was evidently artificial, with many tickets having
+been snapped up early on by speculators.
+
+I've used this platform in the past to rant against the secondary agencies and
+individual ticket speculators, so I won't bore you with a repeat performance
+now. Suffice it to say that I like them even less than I do Topspin.
+
+Anyway, the net result of all of this is that I have to stand in the freezing
+cold outside the HMH, looking for a passing punter to sell my extra ticket to.
+However, it soon becomes clear that I am far from being the only vendor of
+such wares, so I have to shift shop a few metres closer to the metro station
+to accost passersby before they become spoilt for choice.
+
+In the end, I manage to pass my extra ticket on to a nice Brazilian chap,
+recouping its face value and losing only on the excessive Topspin fees.
+
+With that out of the way, I waste no time getting inside the venue into the
+warmth, setting up my gear and making my way to my preferred position for
+recording.
+
+The place is rapidly filling up. Everyone wants a good view of the action (if
+one can realistically call the apparent inactivity at a Sigur Rós gig action)
+and the floor is already quite densely packed, although most of the punters
+currently have their buttocks parked on it.
+
+I pass the time on WhatsApp, chatting to a taper friend of mine, who will be
+manning the right PA stack this evening. A matrix of this gig may be in your
+future if he determines that producing one would be worthwhile.
+
+A couple of minutes before 20:00, Blanck Mass comes on stage. Yes, that's
+'comes' conjugated in the 3rd person singular, because Blanck Mass is no more
+and none other than Benjamin John Power, one half of curiously named,
+Bristol-based electronic duo, Fuck Buttons.
+
+Power's set is chilled out and beguiling. I knew I was going to like it,
+because I had auditioned his album earlier in the day on Spotify. It's the
+perfect entrée for what is to come, although there isn't much to look at,
+because Power stands motionless at his keyboards and is, in any case, all but
+obscured by Sigur Rós's all-consuming stage drape.
+
+And then what is to come finally comes.
+
+There is much excitement in the air. The band have announced that they will be
+playing new material on this tour. In their own words:
+
+  "Coming to a show is the only way you're going to experience this stuff
+   outside crappy Youtube clips in the coming months."
+
+Well, quite.
+
+I had foregone the crappy YouTube clips, so tonight is to be my first
+experience of the new songs.
+
+I don't have to wait long for a tasty new morsel, either, because straight
+away, 'Yfirborð' opens the proceedings, performed from behind the translucent
+shroud.
+
+That is quickly followed by last year's set-opening duo of 'Í Gær' and 'Ný
+Batterí', after which the curtain finally drops to reveal the figures behind.
+
+As I survey the stage, a growling bass and a plodding beat introduce the
+second new song of the evening, 'Brennisteinn'.
+
+I count eleven people on stage this evening, including brass and string
+players. The brass section launch 'Brennisteinn' into a high orbit, from where
+it slowly descends to Earth.
+
+I recognise this sensation. A machine has been set in motion and there's no
+stopping it now. The whole gamut of emotions will course through me tonight
+like a swollen river. For two hours, I am but a vessel for the exhilaration
+coaxed free by this band.
+
+The music penetrates every pore of your body, every fibre of your being. It
+touches you, reminds you of your humanity, stirs thoughts of your past, forces
+you to ponder your present, wonder about the future. This music is akin to
+staring into the smiling face of your children.
+
+A grandiose 'Sæglópur' follows. It never fails to rouse me. I hang on every
+note from start to rapturous finish.
+
+There are so many highlights, too many to mention, but just listen to the
+flute on 'Olsen Olsen', followed by the song's jubilant brass climax. Don't
+you feel your pulse quicken?
+
+The crispness of Georg Hólm's bass on 'E-Bow' comes ringing through with the
+clarity of crystal. Jónsi's bowed guitar is drenched in so much reverb that it
+sounds like a DC-10 taking off.
+
+'Hoppípolla' is as joyous as ever. Ditto the pulsing, throbbing catharsis that
+is 'Glósóli'.
+
+The main set closes with our third new song of the evening, 'Kveikur'. Its
+slowed down, chugging motorik beat is instantly likeable and, together with
+the other new songs played tonight, it raises our hopes very high for the
+band's next album.
+
+The encore starts with Jónsi thanking us for being here this evening. This one
+sentence will be the only time he speaks to us, other than via the universal
+language of music. And really, words are superfluous tonight.
+
+The familiar submarine sonar of 'Svefn-g-Englar', still the perfect vehicle
+for Jónsi's plaintive falsetto, sets the encores in motion.
+
+When 'Svefn-g-Englar' subsides to make way for 'Hrafntinna', we are onto our
+fourth and final new song of the evening. It's an emotive piece with visceral,
+satisfying percussion, featuring a vast array of tiny cymbals being struck.
+
+There's really only one way to close the book on a Sigur Rós concert, and
+that's with the song that reaches the parts that even the other potent
+elements of this mighty band's canon cannot reach. That can mean only
+'Popplagið', and then preferably in a fifteen minute rendition, which is what
+we receive tonight.
+
+The band's tradition of performing a curtain call is the final event of the
+evening. Once the last of the eleven figures leaves the stage, the lights come
+up and the spell is broken. The freezing cold night air and the bill for an
+evening of severely overpriced parking await.
+
+In a set comprising just sixteen songs, a quarter of them this evening were
+brand new: the perfect mix of the old and familiar on the one hand, and the
+new and exciting on the other.
+
+My two recordings of the band from the Paradiso last year are amongst the
+finest bootlegs I have ever produced. This one has a more spacious sound that
+accurately reflects the much larger venue, but to my ears, it sounds every bit
+as good. If you are a Sigur Rós fan, you are in for a real treat.
+
+Samples are included to help you decide whether this is worth your while. Or
+you can just take my word for it when I say that it is.

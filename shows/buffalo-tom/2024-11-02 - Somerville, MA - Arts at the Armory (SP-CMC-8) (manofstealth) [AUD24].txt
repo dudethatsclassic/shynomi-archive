@@ -1,0 +1,93 @@
+Buffalo Tom
+Please Come To Boston Festival
+Arts at the Armory
+Somerville, MA
+November 2, 2024
+
+** 24 BIT **
+
+Source: SP-CMC-8 (cardioids) > SP-SPSB-10 battery box > Sony PCM-M10 @ 24 bit/48 kHz
+Mastering: .WAV > iZotope RX11 Advanced v11.0.1.3871 (De-Click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ), WAVES PS22 Spread
+Stereo plug-in] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.17 (tagging)
+Recorded by: ManOfStealth
+Mastered by: Dennis Orr
+
+Setlist: (1:39:40)
+01 Intro
+02 Sodajerk
+03 I'm Allowed
+04 Tree House
+05 Chat & Tuning
+06 Would Not Be Denied
+07 Latest Monkey
+08 My Responsibility
+09 Dry Land
+10 Torch Singer
+11 Chat & Band Intros
+12 Late At Night
+13 Chat
+14 Suppose
+15 Anything That Way
+16 Chat
+17 Fortune Teller
+18 Taillights Fade
+19 Chat & Tuning
+20 Little Ghostmaker
+21 Helmet
+22 Tangerine
+23 Encore Break
+- Encore -
+24 Chat & Tuning
+25 Wiser
+26 Chat & Tuning
+27 Reason Why
+28 Chat
+29 Autumn Letter
+30 Chat & Tuning
+31 The Bus
+32 Chat & Tuning
+33 Don't Cry No Tears
+34 Outro/Crowd
+
+Show Notes:
+Playing the album "Big Red Letter Day" in its entirety, followed by other songs from their catalogue.  "My Responsibility" was played for the first time since 1994. "Suppose" was played for
+the first time since 2002.  "Would Not Be Denied" and "Anything That Way" were played for the first time since 2016.
+
+Bill Janovitz - lead vocals & guitar
+Chris Colbourn - bass & vocals
+Tom Maginnis - drums & percussion
+
+BuffaloTom2024-11-02t01.flac:6d7110ce4d430047f4625b3ac9658939
+BuffaloTom2024-11-02t02.flac:04da750a63cdd21a0439bf7f5a582ee9
+BuffaloTom2024-11-02t03.flac:e59353f3106e5b99b14782313d042cb8
+BuffaloTom2024-11-02t04.flac:e99abd2212f88d2a8e857fe02a69b4a2
+BuffaloTom2024-11-02t05.flac:ca4ffc1e4f0ea91e9c262afc9b282e07
+BuffaloTom2024-11-02t06.flac:c6430ae635ad560232ed0144e09f9e08
+BuffaloTom2024-11-02t07.flac:a1756346f49310da35c1168c51eea4f9
+BuffaloTom2024-11-02t08.flac:8b478aa36c512cb1c2285b32cb363c16
+BuffaloTom2024-11-02t09.flac:1b744ffb8f29ad1b9d1ba526ba0467ef
+BuffaloTom2024-11-02t10.flac:98f3fd70908d58ccc50ba70f055cf827
+BuffaloTom2024-11-02t11.flac:8a9b643ba4081d367e3c369370f2893b
+BuffaloTom2024-11-02t12.flac:3778c38006ab8a425b7d3985e84f6a60
+BuffaloTom2024-11-02t13.flac:d4b6a7304ece16887c35b0d58592892b
+BuffaloTom2024-11-02t14.flac:865407508eddb9ded17a007298b6f1b9
+BuffaloTom2024-11-02t15.flac:901d7d0e3f3d304241333a8bba7309b6
+BuffaloTom2024-11-02t16.flac:c976dd97da3be522eaecd19684415333
+BuffaloTom2024-11-02t17.flac:3db9b0d5efd3ded8c53874563f72daf6
+BuffaloTom2024-11-02t18.flac:bc785ee762dc22f055a4c4c746c096c1
+BuffaloTom2024-11-02t19.flac:9dd49e206e1160e494bcf5fdd546961a
+BuffaloTom2024-11-02t20.flac:86a7e581e3079ab13553ce19dbbb36ac
+BuffaloTom2024-11-02t21.flac:ec9c6a199f84770817f2c97f7912cfe5
+BuffaloTom2024-11-02t22.flac:1595937275d92cd192ff0b3bb2144177
+BuffaloTom2024-11-02t23.flac:dd6998602263da791ae55e234d41863b
+BuffaloTom2024-11-02t24.flac:eac533a1f9613ab199e73c2ba5ef35cf
+BuffaloTom2024-11-02t25.flac:b42daeb530e576acbb4939281a4cc187
+BuffaloTom2024-11-02t26.flac:3901b655752e7f6ba1f65180f087bf07
+BuffaloTom2024-11-02t27.flac:c8cc659bfae8e108501deef074c23375
+BuffaloTom2024-11-02t28.flac:5b99003fa7258c977885678342299049
+BuffaloTom2024-11-02t29.flac:0ca8db482a770a0dd434dba3c91178f4
+BuffaloTom2024-11-02t30.flac:df85147c34287ba968ead701d71c2ab4
+BuffaloTom2024-11-02t31.flac:e7974402699392a35b6ebefaf98de568
+BuffaloTom2024-11-02t32.flac:4063204f993f15ce0a9522a2db5ba26c
+BuffaloTom2024-11-02t33.flac:e257e7a035cf341f6f7497bccb139cc8
+BuffaloTom2024-11-02t34.flac:732ea73dcf0a1671616685945c45f28e

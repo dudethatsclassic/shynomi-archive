@@ -1,0 +1,80 @@
+Garbage
+June 29th, 2022.
+Roxian Theatre - McKees Rocks, PA.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   25ft back from left stack; mics mounted on baseball hat brim.
+Source:     AT853U Cardioids (4.7k mod) > SP-SPSB-11 (@69Hz) > Sony PCM-A10 (24 bit @48kHz) >
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Sony PCM-A10 > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (1:47:48)
+
+01. Automatic Systematic Habit			4:18
+02. No Gods No Masters				3:39
+03. Stupid Girl					7:55
+04. Special					4:54
+05. Queer					4:47
+06. Godhead					4:14
+07. Cherry Lips (Go Baby Go!)			4:24
+08. Wicked Ways ^				4:43
+09. No Horses					6:14
+10. The Men Who Rule The World			4:49
+11. Metal Heart					4:50
+12. Bleed Like Me				4:27
+13. I Think I'm Paranoid			3:48
+14. Wolves					3:59
+15. Vow						5:12
+16. Push It					5:25
+17. You Look So Fine *				7:29
+18. ~ Encore ~					2:39
+19. Even Though Our Love Is Doomed		7:44
+20. Can't Cry These Tears			7:06
+21. Only Happy When It Rains			5:13
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+^ = Features "Personal Jesus" snippet [Depeche Mode]. 
+* = Features "Dreams" snippet [Fleetwood Mac].
+
+In November 2021, Garbage announced plans to tour this summer with Tears For Fears.
+While this was great news, it was one more year without any headlining shows. I really
+loved their "No Gods No Masters" record last year, so I was eagerly anticipating a 
+headlining tour in 2022. Well, in the spring they announced 7 special headlining shows
+on some days off of the TFF tour. The closest to me was in McKees Rocks, Pennsylvania!
+(wait, where?) Turns out, its essentially Pittsburgh. I just didnt know that during
+the initial announcement. Once I figured out this was a 3 hour do-able drive on a 
+work night (ouch!), I decided to take the plunge and buy a ticket. The only other
+headline dates were on the east coast. To say I was excited was an understatement.
+Well, the show dates arrived and the first 3 headliners went off without a hitch in
+Richmond, VA, this show in McKees Rocks, PA and the following show in Wilkes Barre,
+PA. Unfortunately, at this point, someone in the touring camp (or band - it was never 
+announced) caught covid. They ended up cancelling the remaining 4 headliners and
+resumed the TFF tour in Canada a week or two later. So, this means that Garbage only
+performed 3 special headline dates all year and this was one of them. Were the others
+taped? No idea. I wasnt real happy with the sound in the Roxian Theatre. I felt like
+it wasnt loud enough. Either that or the crowd was just too loud overpowering the band
+at many times throughout the set. When I got home and checked the wave, it was very
+clear that the crowd noise/applause was LOUDER than the PA was. So, I had some work
+in front of me. Not only did I have to reduce the crowd noise manually every time they
+spiked higher than the music, but I had to remove unwanted screams, claps and whistles
+as the crowd was very rambunctious around me. Seriously, I cannot recall a more excited
+crowd in some time. Turns out, this was also their first visit back to the Pittsburgh
+area in 20 years. Shirley was very engaging throughout the entire show and even acted
+as our "safety officer" providing hearing protection for some little ones who were with 
+their parents and stopping "OHWIR" for a girl who had fainted in the crowd. They then
+restarted it from the beginning and made sure to tell us to sing louder. It was
+without question the loudest singalong of the evening! What a way to go out!!! Lets
+hope Garbage add more headline dates in 2023 and beyond. While they do make a great
+opener for larger bands, they truly shine on their own. As you will hear, their fans
+could not get enough. It took me 2 months to finish working on this one. I wanted to
+make it as perfect as I could given the sound issues. "Godhead" was a favorite of the
+night. Be sure you turn this one up!
+
+---------------------------------------------------------------------------------------------------------
+For more information on Garbage, please visit:
+
+http://garbage.com/

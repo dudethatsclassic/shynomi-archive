@@ -1,0 +1,39 @@
+GARBAGE 
+FOX THEATER 
+OAKLAND CA 
+OCT 7 2015 
+
+Neumann KM140s > Sound Devices MP-2 > Edirol R09 (24/48) > PC > Audacity > 16/44 WAV > CD Wave > FLAC16
+
+Notes on mastering: This was the lowest volume Garbage concert I have ever attended. The overall live mix was very good, but the volume itself was rather low. On my master wave file, the music itself peaked around -12db, while the between song applause peaked close to 0db. The opening band was a lot louder! I can't imagine this was intentional, and it made it a little difficult to really get lost in the music. Garbage have always been known for high fidelity sound systems, but also for volume! Not sure what was going on here, but anyway I ended up doing 2 things to my master file before tracking it. First, I applied a hard limiter as -12 db. This got the peak applause to be about the same levels as the music. Then I added 11db of gain. Music and applause are about equal volume now, both peaking around -1db, and I think it's a very listenable recording. 
+
+Another Wilson66 Master... Enjoy! 
+
+01. intro 
+02. Subhuman
+03. Supervixen
+04. Queer
+05. Only Happy When It Rains
+06. As Heaven Is Wide
+07. Not My Idea
+08. A Stroke Of Luck
+09. Shirley talks!
+10. Girl Don’t Come
+11. More Shirley banter
+12. Butterfly Collector
+13. Trip My Wire
+14. Sleep
+15. Vow
+16. Stupid Girl
+17. Dog New Tricks
+18. My Lovers Box
+19. Fix Me Now
+20. Milk
+
+21. Encore / banter 
+
+22. Kick My Ass
+23. Driving Lesson
+24. I Think I’m Paranoid
+25. When I Grow Up
+26. #1 Crush

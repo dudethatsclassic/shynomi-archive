@@ -1,0 +1,126 @@
+WILCO
+February 7, 2010 (Sunday)
+Adams Center @ University of Montana
+Missoula, MT
+
+Source: mm-fgsd (Microphone Madness - flexible gooseneck Sennheiser driven; dfc, fob @ soundboard) > mm-cbm > Sony PCM-m10 (24-bit/48-kHz)
+Transfer: downsampled to 16-bit/44-kHz with Sound Forge 9.0
+Tracking: CD Wave Editor 1.94.8 (seamless) > FLAC Frontend (sector boundaries aligned; level 8)
+Master recording by Mark R. Smith
+Tracking & upload by Pastor Tim Christensen <YonderArchive@yahoo.com>
+
+Please support Wilco by purchasing (and never burning) their commercial releases:
+http://wilco.kungfustore.com/categories/249-cds?page=1&per_page=14
+MP3's are for personal use only; please share and/or trade only the lossless FLAC files.
+Please do not transfer to Edison tin-cylinders, sub-grade wax discs, or 78 RPM Victrola platters.
+Check out the Whole Love story at http://www.WilcoWorld.net
+
+
+DISC ONE [78.50]
+01  crowd...  0.48
+02  Bull Black Nova  5.59
+03  You Are My Face  4.48
+04  One Wing  4.02
+05  I Am Trying To Break Your Heart  6.40
+06  Company In My Back  3.48
+07  At Least That's What You Said  5.22
+08  Super Bowl Saints banter...  1.04
+09  Deeper Down  3.53
+10  Impossible Germany  6.53
+11  Passenger Side  3.42
+12  Handshake Drugs  6.00
+13  Shot In The Arm  5.02
+14  Remember The Mountain Bed  6.31
+15  your frickin' mountains banter...  1.04
+16  Jesus, Etc.  4.23
+17  Sonny Feeling  4.13
+18  Hate It Here  4.38
+
+DISC TWO [49.23]
+01  Walken  4.34
+02  I'm The Man Who Loves You  4.11
+03  Hummingbird  3.27
+04  crowd...  2.16
+Encore:
+05  Broken Arrow  5.58
+06  Via Chicago  5.26
+07  earplugs banter...  0.51
+08  California Stars  4.53
+09  The Late Greats  2.50
+10  Heavy Metal Drummer  3.26
+11  Casino Queen >  2.57
+12  Hoodoo Voodoo  4.56
+13  I'm A Wheel  3.38
+
+
+NOTES:
+- First night of 2010 Wilco (The Tour)
+- Sunday night just after the New Orleans Saints beat the Indianapolis Colts 31-17 in Super Bowl XLIV, 
+   notable as the first time John Stirratt's Saints had ever won a Super Bowl victory; yep, he was smiling.
+
+
+FFP:
+wilco2010-02-07_mm-fgsd_d1t01_crowd.flac:12c748bf41e095af1363909e50f66e9e
+wilco2010-02-07_mm-fgsd_d1t02_BullBlackNova.flac:5d84b3fb77145c8e65996f74b5c13bd1
+wilco2010-02-07_mm-fgsd_d1t03_YouAreMyFace.flac:177292fff7d6badebcb28029d888f38d
+wilco2010-02-07_mm-fgsd_d1t04_OneWing.flac:541467bb0b4c89abf6ebf9f6a49b32a8
+wilco2010-02-07_mm-fgsd_d1t05_IAmTryingToBreakYourHeart.flac:ac116987905e9b6ecdbfbc777a8a67bf
+wilco2010-02-07_mm-fgsd_d1t06_CompanyInMyBack.flac:9bf91710dd2e242f119235127c8ea77b
+wilco2010-02-07_mm-fgsd_d1t07_AtLeastThatsWhatYouSaid.flac:433440a6c41a14fa7dd3e44ebae4d376
+wilco2010-02-07_mm-fgsd_d1t08_SuperBowlSaintsbanter.flac:f294b30d603e661518fef4c9347a2fb7
+wilco2010-02-07_mm-fgsd_d1t09_DeeperDown.flac:2bf90b3abe0366f34fb5869b8fbb02d5
+wilco2010-02-07_mm-fgsd_d1t10_ImpossibleGermany.flac:705a056538ebaea5bfa99dd48bafec1d
+wilco2010-02-07_mm-fgsd_d1t11_PassengerSide.flac:2b701cd1177dfb22600e12aa3e2fe013
+wilco2010-02-07_mm-fgsd_d1t12_HandshakeDrugs.flac:4744d424f1e6448e7551777b496213eb
+wilco2010-02-07_mm-fgsd_d1t13_ShotInTheArm.flac:855198679de4fcafc801ee208531d30e
+wilco2010-02-07_mm-fgsd_d1t14_RememberTheMountainBed.flac:c01917be397f28d43a50a73f38c6cf58
+wilco2010-02-07_mm-fgsd_d1t15_yourfrickinmtnsbanter.flac:16a2ff23959933116cba2028cdc8369f
+wilco2010-02-07_mm-fgsd_d1t16_JesusEtc.flac:55a8df6e0da5fb7687feace76c2ba70e
+wilco2010-02-07_mm-fgsd_d1t17_SonnyFeeling.flac:b43a3a757e3ec02e7cc3538161ab660d
+wilco2010-02-07_mm-fgsd_d1t18_HateItHere.flac:beb39423bfbd2e56bd0fb011eac85136
+wilco2010-02-07_mm-fgsd_d2t01_Walken.flac:0cf12ed9594df01e073b01e844d3218c
+wilco2010-02-07_mm-fgsd_d2t02_ImTheManWhoLovesYou.flac:8de00c5fd8b496bbe10119cb3e337cec
+wilco2010-02-07_mm-fgsd_d2t03_Hummingbird.flac:766442d646e7538bd7918fc18ccc19e8
+wilco2010-02-07_mm-fgsd_d2t04_crowd.flac:850e00e9b30590acb78efacfaa732b5d
+wilco2010-02-07_mm-fgsd_d2t05_BrokenArrow.flac:b9fa3f4bc327128c230438013dbef5f5
+wilco2010-02-07_mm-fgsd_d2t06_ViaChicago.flac:b0ca2ffb641de92263e275acf0f277c7
+wilco2010-02-07_mm-fgsd_d2t07_earplugsbanter.flac:6bc672af8554809583d0f124fc0d1263
+wilco2010-02-07_mm-fgsd_d2t08_CaliforniaStars.flac:7f3a5a1269ca46d2a197152a1b44afa4
+wilco2010-02-07_mm-fgsd_d2t09_TheLateGreats.flac:9d3d98899cc9f55731a30546eaf60120
+wilco2010-02-07_mm-fgsd_d2t10_HeavyMetalDrummer.flac:1ae4f7a7cccfb6f98cea4de1260db44c
+wilco2010-02-07_mm-fgsd_d2t11_CasinoQueen-.flac:906dae1b232790e379f68bb05e42b436
+wilco2010-02-07_mm-fgsd_d2t12_HoodooVoodoo.flac:adac6e0da35b8a34b2e535385d718651
+wilco2010-02-07_mm-fgsd_d2t13_ImAWheel.flac:38e38c670a2d8ca26d36bf658ee5cfb1
+
+MD5:
+8b070f2dc062b883ba71f8ea0ab66147 *wilco2010-02-07_mm-fgsd_d1t01_crowd.flac
+c952929bb6fa3a31d1809e9cf2729241 *wilco2010-02-07_mm-fgsd_d1t02_BullBlackNova.flac
+e9c65cda23b4a99b6ab47aedb149548b *wilco2010-02-07_mm-fgsd_d1t03_YouAreMyFace.flac
+88c4eec7aa6115241469ad14e00c103e *wilco2010-02-07_mm-fgsd_d1t04_OneWing.flac
+cb25e0bf6db5116a25bb431f647cd7a8 *wilco2010-02-07_mm-fgsd_d1t05_IAmTryingToBreakYourHeart.flac
+96ac9519b6fe0f4ee2510f2a6d13de34 *wilco2010-02-07_mm-fgsd_d1t06_CompanyInMyBack.flac
+096d4f7bc5871ee4a7d1f684ba1db3a6 *wilco2010-02-07_mm-fgsd_d1t07_AtLeastThatsWhatYouSaid.flac
+b4feec15b9cfe21da8cfb36867d717a3 *wilco2010-02-07_mm-fgsd_d1t08_SuperBowlSaintsbanter.flac
+54a3f153906e9ed4144027edc36568ea *wilco2010-02-07_mm-fgsd_d1t09_DeeperDown.flac
+bf72aaa80f326a264b4acdb00523ae7d *wilco2010-02-07_mm-fgsd_d1t10_ImpossibleGermany.flac
+1846b68e424277807b897c118a4c6594 *wilco2010-02-07_mm-fgsd_d1t11_PassengerSide.flac
+f348cd8c4ec84c96435873cb08700235 *wilco2010-02-07_mm-fgsd_d1t12_HandshakeDrugs.flac
+5ba48ce81f1914ab273af04082a3a256 *wilco2010-02-07_mm-fgsd_d1t13_ShotInTheArm.flac
+1f7b13ddc7da035b0e0ec7fcf7749c61 *wilco2010-02-07_mm-fgsd_d1t14_RememberTheMountainBed.flac
+caa8416fe8691f4aaf80730ff6a8d864 *wilco2010-02-07_mm-fgsd_d1t15_yourfrickinmtnsbanter.flac
+ceb5e34c2f34467ec21398b60866c080 *wilco2010-02-07_mm-fgsd_d1t16_JesusEtc.flac
+139e9a4baf4ebd2b32646b5a69ee43c0 *wilco2010-02-07_mm-fgsd_d1t17_SonnyFeeling.flac
+5aaa1b577cafa52147a0bd58eeec3cb4 *wilco2010-02-07_mm-fgsd_d1t18_HateItHere.flac
+9d32353b8c9956aad26259b0389afb17 *wilco2010-02-07_mm-fgsd_d2t01_Walken.flac
+7bff2714338b7cb7be0a2114ca9536d0 *wilco2010-02-07_mm-fgsd_d2t02_ImTheManWhoLovesYou.flac
+d081fc2f7b74fb13b3a672f37acf3038 *wilco2010-02-07_mm-fgsd_d2t03_Hummingbird.flac
+70e0f5d10136ceedca8bfd1ef270b857 *wilco2010-02-07_mm-fgsd_d2t04_crowd.flac
+433deaafc9ffe8c9be488956fb230a14 *wilco2010-02-07_mm-fgsd_d2t05_BrokenArrow.flac
+dec841432f9b35ece932c8b2ea622197 *wilco2010-02-07_mm-fgsd_d2t06_ViaChicago.flac
+8b6284e03210fcc031a7f7c7b2a706f0 *wilco2010-02-07_mm-fgsd_d2t07_earplugsbanter.flac
+20d0859316c51be64b7d90b5e4c37b31 *wilco2010-02-07_mm-fgsd_d2t08_CaliforniaStars.flac
+f9c9dd76347ae5164d47ff8ed5b1927f *wilco2010-02-07_mm-fgsd_d2t09_TheLateGreats.flac
+618e1c99f3deec150dde16ab07eb6f06 *wilco2010-02-07_mm-fgsd_d2t10_HeavyMetalDrummer.flac
+a68e4a9079b4bb637c2f0bc0037834d6 *wilco2010-02-07_mm-fgsd_d2t11_CasinoQueen-.flac
+6230c64353ebbe47e4a053d7fe7c0afc *wilco2010-02-07_mm-fgsd_d2t12_HoodooVoodoo.flac
+041e0b263e4fad60bd03ea30c6753970 *wilco2010-02-07_mm-fgsd_d2t13_ImAWheel.flac

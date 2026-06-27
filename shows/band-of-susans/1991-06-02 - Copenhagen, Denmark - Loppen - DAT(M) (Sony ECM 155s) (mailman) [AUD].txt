@@ -1,0 +1,29 @@
+Band of Susans
+Copenhagen Loppen, DK
+1991-06-02
+
+Source: 2xSony Ecm 155->Sony tcd-d3
+Transfer: Master DAT->Sony pcm-7040->ultramatch->optical->iriver->hd->cep->cdwav->flac
+Taper: Mailman
+
+01. intro *
+02. Ice Age *
+03. Now is Now
+04. Trouble Follows
+05. Plot Twist
+06. Estranged Labor
+07. Sermon On Competition, Part 2
+08. Tourniquet
+09. Child of the Moon
+10. Throne of Blood
+11. Hard Light
+12. The Pursuit of Happiness 
+13. Silver Lingning
+---
+14. - ? -
+15. Hope Against Hope
+16. Which Dream came true
+
+NB! Mailmans recording was missing the intro and the first ca. 30 secs - I've used my own master as a patch:
+source#2: sony wm-d3 + t62 -> cassette 
+transfer: master->sherwood hx-pro>aux->hd->cep->cdwavc->flac 

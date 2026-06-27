@@ -1,0 +1,66 @@
+SEBADOH
+February 26, 1995
+Library 4300, The Evergreen State College
+Olympia, WA
+
+SETLIST (70:23)
+-----------------
+01) intro
+02) Ocean
+03) Soul Mate
+04) Rebound
+05) Magnets Coil
+06) Drama Mine
+07) License To Confuse
+08) New Worship
+09) Slightest Suggestion
+10) Hassle
+11) Vampire
+12) Pink Moon
+13) Give Up
+14) Sixteen
+15) Junk Bonds
+16) Zone Doubt
+17) Hillbilly II
+18) Satan's In The Manger
+19) Reasons I'm In Prison
+20) 
+
+GENERATION
+-----------------
+ANA(M) > WAV [48kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+SOURCE
+-----------------
+Aiwa (supplied) > Aiwa HS-JS315
+
+TRANSFER
+-----------------
+Nakamichi CR-7A > LynxONE > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+b6e5001df8360f5a39e1b3c3b04661f7 *sebadoh1995-02-26t01.flac
+a7706af2d6823a9348b0710bcdbdd1d0 *sebadoh1995-02-26t02.flac
+bd11b4d9272fb67bc1c49476300436fa *sebadoh1995-02-26t03.flac
+a8d6df5fdb9f2937f9ea0668ce9a873d *sebadoh1995-02-26t04.flac
+b9e81159ef1532ed51cce535927c751d *sebadoh1995-02-26t05.flac
+f3f5593abe80bcbc5f2f7495bd3792ab *sebadoh1995-02-26t06.flac
+1a503433ddeed23058b60a734ec8c5c6 *sebadoh1995-02-26t07.flac
+0c6f6fe1ce7af4ba1570638764eeb9c6 *sebadoh1995-02-26t08.flac
+084f44493a10f44bfd36234cbbf8422f *sebadoh1995-02-26t09.flac
+a4560e3153af3120a874af2efcf3119a *sebadoh1995-02-26t10.flac
+391c9b1395f59159891e3bde0927045d *sebadoh1995-02-26t11.flac
+2c861d6cee810f0d2f4d50bd035a9325 *sebadoh1995-02-26t12.flac
+1cf880f75f47bb4474c9ef5890f06d7d *sebadoh1995-02-26t13.flac
+cc08ab71cce32c68cd28860e294ddb2f *sebadoh1995-02-26t14.flac
+82c095ddf2c63b8cdc47c03724e1229d *sebadoh1995-02-26t15.flac
+63e541f08b2c2e53e73ca9b60f5bf2f1 *sebadoh1995-02-26t16.flac
+036f41048328a98002412f1511024f93 *sebadoh1995-02-26t17.flac
+240facb1926789e4ecf31578153886f9 *sebadoh1995-02-26t18.flac
+97eedd7981f99f21bc6325a55367a98e *sebadoh1995-02-26t19.flac
+9b9b7585facf9ab0e26541e119d853e8 *sebadoh1995-02-26t20.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

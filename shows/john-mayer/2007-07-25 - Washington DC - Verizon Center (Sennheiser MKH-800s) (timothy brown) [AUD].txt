@@ -1,0 +1,83 @@
+John Mayer
+July 25th, 2007
+Verizon Center
+Washington, DC
+
+Taper: Timothy Brown (timothydavidbrown@gmail.com)
+Location: SBD Cage, DFC
+Source: Sennheiser MKH-800s (12',ORTF)->Edirol R4 (@ 24/96)
+Transfer: R4->USB->PC
+Processing: Fade in and fade out applied using SoundForge 8.0. 
+Conversion: CDWav 1.93.3 for track splitting and Flac16 Conversion @ level 5
+
+*****************************************************************
+***** PLEASE DO NOT ENCODE THIS SHOW TO LOSSY AUDIO FORMATS *****
+********* PLEASE SPREAD, BUT PLEASE INCLUDE SOURCE INFO *********
+****** DO NOT SELL OR DISTRIBUTE FOR A PROFIT BY ANY MEANS ******
+*****************************************************************
+
+Disc 1
+01. Intro
+02. Waiting on the World to Change
+03. I Don't Trust Myself (With Loving You)
+04. My Stupid Mouth
+05. Bigger Than My Body
+06. Slow Dancing in a Burning Room
+07. Belief
+08. Intro Jam
+09. Vultures
+10. Why Georgia
+
+Disc 2
+01. Gravity
+02. The Heart of Life
+03. No Such Thing
+04. "Thank You's & Band Intros"
+05. In Repair
+Encore:
+06. Come Back to Bed #
+07. Your Body is a Wonderland %
+08. Crossroads *
+
+Notes:
+# John, David & Robbie acoustic
+% John & Robbie acoustic
+* Robert Johnson cover
+
+David Ryan Harris - Guitar and Vocals
+Robbie McIntosh - Guitar
+David LaBruyere - Bass
+Tim Bradshaw - Keyboards and Vocals
+J.J. Johnson - Drums
+Bob Reynolds - Saxophones
+Brad Mason - Trumpet
+
+Thanks to Peter King for the use of the LSD2 and R4.
+Thanks to Ian White for the use of the MKH-800s.
+Thanks to Erin, Andi & Roy for helping me haul gear and tear down.
+
+A 24/96 version exists in Flac24 format.
+
+*****************************************
+****Please support artists and venues**** 
+************that allow taping************
+*****************************************
+
+johnmayer2007-07-25d1t01.flac:2964e7fc7ab37f11af685104a112d056
+johnmayer2007-07-25d1t02.flac:e2fe0cfa1ea2b30186230f128a606254
+johnmayer2007-07-25d1t03.flac:ce855b03cba22f6876e57e81fc6b1680
+johnmayer2007-07-25d1t04.flac:636d0d0569091ea892179f66274f62a5
+johnmayer2007-07-25d1t05.flac:8c2a0842f004c4c31a4a695417808cca
+johnmayer2007-07-25d1t06.flac:23ed89189581767ef513347fdbe45545
+johnmayer2007-07-25d1t07.flac:9d55b948f2cbf2cd8db162f96621a76a
+johnmayer2007-07-25d1t08.flac:e00e736c3991b6d7c72f8e12609a30ef
+johnmayer2007-07-25d1t09.flac:9313ae386ce3f2b9c4817da68db3302f
+johnmayer2007-07-25d1t10.flac:3601d721c59f0338251bb6304439cb66
+johnmayer2007-07-25d2t01.flac:60615efad56b732872d90aad34056c9e
+johnmayer2007-07-25d2t03.flac:be199f9049b6f97adb857c7b8d88ab4b
+johnmayer2007-07-25d2t04.flac:40b6fb60cf956118cbb9a7b689c85e65
+johnmayer2007-07-25d2t05.flac:c63babb26b24820158ab7977bb3af0d6
+johnmayer2007-07-25d2t06.flac:3793b77df012af31e43b7cb1fb1462c2
+johnmayer2007-07-25d2t07.flac:12cc363c3439b2faf73c0d35f21c854e
+johnmayer2007-07-25d2t08.flac:01ad5977b05a83e904ee736758756cc5
+johnmayer2007-07-25d2t09.flac:8135a5811f652bbbf71596a557c8482d

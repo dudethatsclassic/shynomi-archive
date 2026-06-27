@@ -1,0 +1,50 @@
+WILCO
+2011-11-09
+Circus Krone Bau
+München, Germany
+
+Source:     MBHO MBP 603 A / KA 200 N > Sound Devices MP-2 > Tascam DR-2d
+Mic Config: DIN (20cm, 90°)
+Location:   ~25m from the stage, center
+Transfer:   Master WAVs > dEdit > FLAC V1.2.1
+Editing:    Volume boost and EQ in Apple Logic Pro V9.1.4
+            Fades in Steinberg WaveLab LE V7.01
+Resampling: 96.0 kHz > 44.1 kHz resampling using iZotope 64-bit SRC
+Dithering:  MBIT+
+
+Disc 1:
+01 One Sunday Morning (Song For Jane Smiley's Boyfriend)
+02 Poor Places
+03 Art of Almost
+04 I Am Trying to Break Your Heart
+05 I Might
+06 Side with the Seeds
+07 Black Moon
+08 Impossible Germany
+09 Born Alone
+10 Jesus, etc.
+11 Capitol City
+12 [Fade Out]
+
+Disc 2:
+01 [Fade In]
+02 Handshake Drugs
+03 Dawned On Me
+04 Hummingbird
+05 Misunderstood
+06 I'll Fight
+07 War On War
+08 Whole Love
+09 A Shot in the Arm
+10 (Encore Break)
+11 The Lonely 1
+12 Passenger Side
+13 The Late Greats
+14 I'm the Man Who Loves You
+15 Standing O
+16 I'm A Wheel
+
+Notes:
+This is the 16 bit/44.1 kHz version of this recording.
+To seamlessly join the two discs, simply remove the fade tracks D1T12 and
+D2T01.

@@ -1,0 +1,43 @@
+Dave Matthews Band
+1992-05-20
+Floodzone
+Richmond, VA
+
+Source: SBD -> unknown (sounded like cassette in the lineage)
+Conversion: rka -> CoolEditPro -> shn
+            Dane Christensen (dmbftp@danechristensen.net)
+
+Disc 1                        74:05
+-----------------------------------
+01 Recently +~                02:53
+02 Watchtower ~!              04:24
+03 Lie In Our Graves ~        03:22
+04 Angel From Montgomery *    07:15
+05 Ants Marching @            04:31
+06 Recently                   07:48
+07 True Reflections $         06:32
+08 Two Step %                 08:33
+09 What Would You Say ^       04:14
+10 Trippin Billies            04:20
+Encore:
+11 Jam                        11:19
+12 Typical Situation          08:54
+
+Notes:
+
++ The beginning is cut off; it fades in during the verse.
+~ Dave Solo
+
+! There's a digital glitch between 01:39.20 and 01:39.80.
+* There's a digital glitch between 00:12.38 and 00:12.80.
+@ There's a digital glitch between 03:27.85 and 03:28.34.
+$ There's a digital glitch between 00:48.14 and 00:48.68.
+% There's a digital glitch between 04:15.00 and 04:15.40, again 
+  btwn. 08:17.12 and 08:17.53.  The end is cut.
+^ There's a digital glitch between 04:13.32 and 04:13.78.
+
+Both left and right channels get shaky late in the show, when it
+gets loud, due to pre-existing clipping in the source. This also
+makes the whole show sound a bit muffled.  There was significant
+hiss in the range of the vocals & cymbals.  It is still somewhat 
+audible; I attempted to find a good balance.   DC 01-20-2003

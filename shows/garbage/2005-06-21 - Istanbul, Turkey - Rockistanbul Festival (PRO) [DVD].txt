@@ -1,0 +1,75 @@
+Garbage
+Rockistanbul Festival
+Istanbul, Turkey
+June 21, 2005
+
+Source:  TV broadcast. No info on the filmer, the equipment used, or the transfer or authoring process. 
+
+DVD:
+01. (Intro)
+02. Queer
+03. Bad Boyfriend
+04. Not My Idea
+05. Stupid Girl
+06. Sex Is Not the Enemy
+07. Why Do You Love Me
+08. Hammering in My Head
+09. Cherry Lips
+10. When I Grow Up
+11. Vow
+xx. I Think I'm Paranoid
+12. Run Baby Run
+xx. Metal Heart
+xx. Push It
+13. Only Happy When It Rains
+14. Bleed Like Me
+xx. Special
+xx. Right Between the Eyes
+
+Total time = 57:59
+
+Note:  Tracks with xx were not broadcast.
+
+Personnel:
+Shirley Manson - vocals
+Butch Vig - drums & loops
+Duke Erikson - guitar, bass, & keyboards
+Steve Marker - guitar, bass, & keyboards
+
+Type: Video
+Type: NTSC, color, simple menu but no chapters
+Codec: MPEG-1/2 Video (mpgv)
+Video resolution: 720x480
+Aspect ratio: 4:3
+Frame rate: 29.970030
+
+Type: Audio
+Codec: A52 Audio (aka AC3) (a52 )
+Channels: Stereo
+Sample rate: 48000 Hz
+Bits per sample: 32
+
+dad9b523a91ac7aeff59d85806545dd1 *VIDEO_TS\VIDEO_TS.BUP
+dad9b523a91ac7aeff59d85806545dd1 *VIDEO_TS\VIDEO_TS.IFO
+50cf0ec6aa581c09770c5911c21482ec *VIDEO_TS\VIDEO_TS.VOB
+fb6b5acdd8c2c86716ad174f9a0b364e *VIDEO_TS\VTS_01_0.BUP
+fb6b5acdd8c2c86716ad174f9a0b364e *VIDEO_TS\VTS_01_0.IFO
+5a55432d715d435fbbd7827e96dc7663 *VIDEO_TS\VTS_01_1.VOB
+18d1f7252812dfa3323ad984e8b3057f *VIDEO_TS\VTS_01_2.VOB
+c846562de288e4fced57e4709a0874de *VIDEO_TS\VTS_01_3.VOB
+
+Checksum file 'C:\Users\DeathGlider\Garbage2005-06-21 Istanbul, Turkey 57.59 Pro (DVD)\Garbage_Istanbul_21Jun05_DVD.md5'
+
+Line 01: file 'Garbage_Istanbul_cover.jpg' verified ok (checksum matches).
+Line 02: file 'Garbage_Istanbul_disc.jpg' verified ok (checksum matches).
+Line 03: file 'Garbage_Istanbul_info.txt' verified ok (checksum matches).
+Line 04: file 'VIDEO_TS\VIDEO_TS.BUP' verified ok (checksum matches).
+Line 05: file 'VIDEO_TS\VIDEO_TS.IFO' verified ok (checksum matches).
+Line 06: file 'VIDEO_TS\VIDEO_TS.VOB' verified ok (checksum matches).
+Line 07: file 'VIDEO_TS\VTS_01_0.BUP' verified ok (checksum matches).
+Line 08: file 'VIDEO_TS\VTS_01_0.IFO' verified ok (checksum matches).
+Line 09: file 'VIDEO_TS\VTS_01_1.VOB' verified ok (checksum matches).
+Line 10: file 'VIDEO_TS\VTS_01_2.VOB' verified ok (checksum matches).
+Line 11: file 'VIDEO_TS\VTS_01_3.VOB' verified ok (checksum matches).
+
+No errors occurred.

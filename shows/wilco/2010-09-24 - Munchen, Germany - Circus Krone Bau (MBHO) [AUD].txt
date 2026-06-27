@@ -1,0 +1,51 @@
+WILCO
+2010-09-24
+Circus Krone Bau
+München, Germany
+
+Source:     MBHO MBP 603 A / KA 200 N > Sound Devices MP-2 > Edirol R-09HR
+Mic Config: DIN (20cm, 90°)
+Location:   ~25m from the stage, center
+Transfer:   Master WAVs > FLAC V1.2.1
+Editing:    Volume boost and EQ in Apple Logic Pro V9.1.1
+            Fades in Audiofile Engineering Wave Editor V1.4.6
+Resampling: 96.0 kHz > 44.1 kHz resampling using iZotope 64-bit SRC
+Dithering:  MBIT+
+
+Disc 1:
+01 (Intro)
+02 Wilco (The Song)
+03 Bull Black Nova
+04 Ashes of American Flags
+05 I Am Trying to Break Your Heart
+06 > One Wing
+07 You Are My Face
+08 > A Shot in the Arm
+09 Kamera
+10 Impossible Germany
+11 Everlasting Everything
+12 Poor Places
+13 > Spiders (Kidsmoke)
+14 Via Chicago
+15 [Fade Out]
+
+Disc 2:
+01 [Fade In]
+02 I'll Fight
+03 Handshake Drugs
+04 Nothing'severgonnastandinmyway(again)
+05 Jesus, etc.
+06 Walken
+07 I'm the Man Who Loves You
+08 Hummingbird
+09 (Encore Break)
+10 You Never Know
+11 Heavy Metal Drummer
+12 Hate It Here
+13 Kingpin
+14 I'm a Wheel
+
+Notes:
+This is the 16 bit/44.1 kHz version of this recording.
+To seamlessly join the two discs, simply remove the fade tracks D1T15
+and D2T01.

@@ -1,0 +1,73 @@
+Jeff Tweedy 12/5/2013
+Paramount Theatre - Denver, CO
+
+Source: DPA 4022(FOB/DFC/10th row)->Tinybox(OT)->M-10(24/96)->UV22HR(16/44.1)->CDWave->FLAC
+
+Disc 1 (57:13):
+1. Crowd
+2. Someday Some Morning Sometime
+3. Laminated Cat
+4. Ashes of American Flags
+5. One Sunday Morning
+6. I Am Trying to Break Your Heart
+7. Banter
+8. One Wing
+9. Pecan Pie
+10. Remember the Mountain Bed
+11. Banter
+12. A Long Time Ago
+13. Please Tell My Brother
+14. Bob Dylan's 49th Beard
+15. Banter
+16. Jesus, Etc.
+
+Disc 2 (46:08):
+1. Born Alone
+2. Banter
+3. You Are Not Alone
+4. Banter
+5. The Ruling Class
+6. New Madrid
+7. Box Full of Letters
+8. California Stars
+9. Encore break
+10. (E)So Much Wine
+11. (E)Passenger Side
+12. (E)Banter
+13. (E)Anniversary
+14. (E)I'm the Man Who Loves You
+15. (E)Shot in the Arm
+
+Note: Volume of between song crowd/applause reduced to make overall recording more "listener friendly". 
+
+jefftweedy2013-12-05dpa4022d1t01.flac:f2ac0604c6474d17ffc996f6cef1c035
+jefftweedy2013-12-05dpa4022d1t02.flac:cd7866b5e85bf57c5825d1d97170912d
+jefftweedy2013-12-05dpa4022d1t03.flac:d3bb3ec09e5b88d70ae3dbafcc507071
+jefftweedy2013-12-05dpa4022d1t04.flac:a9b7e34992382a7322a543df02501664
+jefftweedy2013-12-05dpa4022d1t05.flac:7b3971d5ebbe83baeefa0b67542ba808
+jefftweedy2013-12-05dpa4022d1t06.flac:2a45dbba86309fc1bd6e27fdd038cb80
+jefftweedy2013-12-05dpa4022d1t07.flac:bb8e2d989e9c91a6108b48df006bdfd9
+jefftweedy2013-12-05dpa4022d1t08.flac:1ecea4ca7c79ec727812f38ecdc73a84
+jefftweedy2013-12-05dpa4022d1t09.flac:416b9fb44722336200c177343b427d8c
+jefftweedy2013-12-05dpa4022d1t10.flac:deba610549d82626ef06932baced7855
+jefftweedy2013-12-05dpa4022d1t11.flac:b57525ced0f19d85cfaa6d2c0839b2d7
+jefftweedy2013-12-05dpa4022d1t12.flac:7c4f49cfe4c7e085e3065b13e30e55b6
+jefftweedy2013-12-05dpa4022d1t13.flac:9edd1f828f2016eab9ea5be55c6cb99c
+jefftweedy2013-12-05dpa4022d1t14.flac:214ecbbddb5c26bb507653aa1d701fa2
+jefftweedy2013-12-05dpa4022d1t15.flac:47872fab16a7e671222856425178a82a
+jefftweedy2013-12-05dpa4022d1t16.flac:635a64603109357240c5bc37545a90fb
+jefftweedy2013-12-05dpa4022d2t01.flac:12b267c6b95981b47a6f35e5aa9b6b7e
+jefftweedy2013-12-05dpa4022d2t02.flac:6090f059887431928dd42eee96c99aaf
+jefftweedy2013-12-05dpa4022d2t03.flac:ab20627a8bc1c48f53353d8f3309086a
+jefftweedy2013-12-05dpa4022d2t04.flac:9c70f721c8b1911f8b8dd77758bfc482
+jefftweedy2013-12-05dpa4022d2t05.flac:f51ef8d3632636f2b2c64514165991f4
+jefftweedy2013-12-05dpa4022d2t06.flac:54b351dd6da34d2763d69364c0f72149
+jefftweedy2013-12-05dpa4022d2t07.flac:2b02a2a2ff1aa2d301f74c2f43a49aad
+jefftweedy2013-12-05dpa4022d2t08.flac:56d62be5b055cf87562a42717bc7ad98
+jefftweedy2013-12-05dpa4022d2t09.flac:156c66425263e2c8dafa737280bb9810
+jefftweedy2013-12-05dpa4022d2t10.flac:c453675f29184071a9884488f6fa7b8e
+jefftweedy2013-12-05dpa4022d2t11.flac:3785f93e272e5cf994f578ccb59f6237
+jefftweedy2013-12-05dpa4022d2t12.flac:6e1c6fd59e5a394115ba6e3c374352cb
+jefftweedy2013-12-05dpa4022d2t13.flac:eb3fc8dce1e1c797e9ccba6134451659
+jefftweedy2013-12-05dpa4022d2t14.flac:4dd5e3eb6a2631734ab348acd984ffa0
+jefftweedy2013-12-05dpa4022d2t15.flac:96a9ce5275ff8812678d15b1156eab2e

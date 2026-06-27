@@ -1,0 +1,49 @@
+Sigur Rós w/ Amiina
+Pavilhão Atlântico
+Lisbon, Portugal
+July 16, 2006 (Sunday)
+Support Slot: Amiina
+
+*2nd Anniversary Remaster*
+
+Taper: j.mart (Stutter [at] sapo [dot] pt)
+Source: AT943's (cardioids) > SP-SPSB-6 (bass roll-off @ 69Hz) > JB3 (+10dB Gain, WAV 16bit/44kHz)
+Location: FOB DFC, DIN pointed 45º up, in headband (6,5ft)
+Lineage: Firewire > CTCMS > Adobe Audition 2.0 (Parametric EQ'ing, glitch and artifact correction, hard-limiting in clapping sections, peak limiter, loudness maximization, normalize, fades) > CDWav 1.7 > FLAC Frontend 1.1.1 and/or CD Nero 7.0
+
+
+Tracklist:*
+--------------
+01- Takk...
+02- Glósóli
+03- Ný Batterí
+04- Sæglópur
+05- Gong
+06- Andvari
+07- Hoppípolla
+08- Með Blóðnasir
+09- Sé Lest
+10- Viðrar Vel Til Loftárása
+11- Olsen Olsen
+12- Svo Hljótt
+13- Heysátan / Encore
+14- Popplagið / Avalon
+15- "Jonsi Birgisson speaks about the end of tour"
+
+TRT: 01h:47m:41s
+
+
+Notes: I've decided to make a remaster of this recording on it's second anniversary, as I felt the original version I've seeded a couple of years back didn't quite reach it's full potential. My aim was to produce a well balanced recording, with great loudness levels, something it didn't have on the 2006 seeded. Being a big hall, the Pavilhão Atlântico is bound to affect the quality of the upper decade frequencies. The recording clearly reflects that when you try to do your generic "treble-up" EQ'ing, but on the other hand, it has a great detail on the low and mid band, something I've manipulated the least possible. EQ'ing was mostly dedicated to enhance harmonic information, within the quality limitations of the mid-high frequency band. I've used four different monitor references for mastering this recording and I honestly feel this version delivers it's full potential. Not too boomy, not too tinny, just a punchy bass drum that kicks you in the groin and pore piercing brass section. The result is, IMO, a fantastic audio document of the Takk tour, definitely a must have. This is also the last show of the Takk world tour, before the band ensued on a legendary Icelandic tour, well documented on the breathtaking Heima DVD. This one is really worth to have around when you're in the mood for some Takk tour goodness. Other changes include re-tracking (Ný Batterí was mistracked), mitigation or complete removal of rubs on the mics (n00b reflex) using a steep HPF on low-end, clap killing and loudness manipulation resorting to conservative amplification and limiting where necessary. A Amiina set remaster will follow in a near future.
+
+
+
+########### 
+-Zero tolerance for selling. Be 100% sure that this will be the last recording i will ever put in circulation from this band if this request is disregarded.
+-No public lossy distribution.
+-Please pass this info file along as you distribute the show.
+-Share it freely.
+###########
+
+
+-j.mart (http://liveiswherewelive.blogspot.com/)
+2008/07/16

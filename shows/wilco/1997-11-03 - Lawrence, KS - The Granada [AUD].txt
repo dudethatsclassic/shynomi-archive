@@ -1,0 +1,77 @@
+Wilco-1997-11-03-AUD
+
+Artist: Wilco
+Date: 1997-11-03
+Location: Lawrence, KS
+Venue: The Granada
+Source: AUD
+Lineage: Cassette Master -> CDR -> FLAC
+Recorded by: John Frank
+Transferred by: John Frank
+
+Tracklist:
+Disc One
+01. Audience Noise
+02. Misunderstood
+03. Far, Far Away
+04. Forget The Flowers
+05. That's Not The Issue
+06. Sugar Baby
+07. Someday Soon
+08. New Madrid
+09. Red Eyed and Blue ->
+10. I Got You (At the End of the Century) (includes Someone Else's Song)->
+11. I Must Be High
+12. Passenger Side (punk)
+13. Passenger Side (slow)
+14. Hotel Arizona
+15. Monday
+16. Kingpin//
+
+Disc Two
+01. Audience Noise
+02. Crash On The Levee (Down On The Flood) *
+03. Auld Triangle
+04. Ever Fallen In Love
+05. Casino Queen ->
+06. Immigrant Song
+07. Paranoid
+08. Candyfloss
+09. Box Full of Letters
+10. Long Cut
+11. Dreamer in My Dreams
+
+* aka "James Alley Blues"
+
+Notes:
+Disk One, Tracks 13-16 are extremely disturbed.  Side Two of the original master tape recorded extremely fast and uneven; I have tried to make it listenable, but these tracks are included for completeness only.
+Outtasite (Outtamind) was also performed after Kingpin, but did not get recorded due to the aforementioned recording difficulties.
+
+
+f25f427db6608c2a5fafa4d2709eb8cf *Wilco-1997-11-03-AUD-d1t01.flac
+527eecd59a057bdf5291aa09d5b1ba48 *Wilco-1997-11-03-AUD-d1t02.flac
+8de9dbbc5f6166b817406fd2450b3f26 *Wilco-1997-11-03-AUD-d1t03.flac
+b23198c23df32b9921281c1866160834 *Wilco-1997-11-03-AUD-d1t04.flac
+8b9d61a6c6cb91bc72e7c1d4e5162586 *Wilco-1997-11-03-AUD-d1t05.flac
+217ffa3b6cfa49719f5f50493a6e16cd *Wilco-1997-11-03-AUD-d1t06.flac
+0a4b80681c0973c0555a3cda52eb62ff *Wilco-1997-11-03-AUD-d1t07.flac
+ac1098be47c52ae42b49eaa792a7c133 *Wilco-1997-11-03-AUD-d1t08.flac
+c916492e3b1aabc6ad12d6dca02c4e0a *Wilco-1997-11-03-AUD-d1t09.flac
+1cb32a90ba20354d02660312b55cb8b6 *Wilco-1997-11-03-AUD-d1t10.flac
+65836dd233b771af42e3b2737afe320f *Wilco-1997-11-03-AUD-d1t11.flac
+b7d39f8a63b701f7e0eb00d7e33f6c4e *Wilco-1997-11-03-AUD-d1t12.flac
+1a09a0f157fdf22512fa527aa71c6a5f *Wilco-1997-11-03-AUD-d1t13.flac
+92217f12e99edfb16cc19ad67541904d *Wilco-1997-11-03-AUD-d1t14.flac
+906017eefc20f335ebba542a8c2eb21e *Wilco-1997-11-03-AUD-d1t15.flac
+74e6e3edc522cc3ab617449db612650f *Wilco-1997-11-03-AUD-d1t16.flac
+bdefe22fafa2dac6a845ed6dfe4c3096 *Wilco-1997-11-03-AUD-d2t01.flac
+0c2ccc23a2cae3c921ae56a740bc77be *Wilco-1997-11-03-AUD-d2t02.flac
+85c776db3a7f4dceb0b59dd943169e96 *Wilco-1997-11-03-AUD-d2t03.flac
+87cfc2cf1ebe35bc6baf7bd6bcc3168d *Wilco-1997-11-03-AUD-d2t04.flac
+d0293f115b2cdcdce890bedfd2cbb09c *Wilco-1997-11-03-AUD-d2t05.flac
+a6e3f1365e1e08e231f50c80badc9ebf *Wilco-1997-11-03-AUD-d2t06.flac
+12785720e72065642a2d041d7b766f2c *Wilco-1997-11-03-AUD-d2t07.flac
+0096a08f30c28d7cdc9444eaae77616a *Wilco-1997-11-03-AUD-d2t08.flac
+2d55451e40127cf1cd6ac15c06da3998 *Wilco-1997-11-03-AUD-d2t09.flac
+2853f721d257e76debf0fc5a7d72b42f *Wilco-1997-11-03-AUD-d2t10.flac
+8a14eb60bfbbf823cbc24c69d0b5c4f8 *Wilco-1997-11-03-AUD-d2t11.flac

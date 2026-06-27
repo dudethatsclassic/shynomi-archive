@@ -1,0 +1,57 @@
+John Mayer
+August 15, 2003
+Nissan Pavilion
+Bristow, VA
+
+Source : DPA 4060 mics > Sony PCM M1 DAT Master (recorded by Sean Stevens)
+
+Recording Location : Orchestra 1, Row F, Seat 5
+
+Transfer : Sony DTC-ZE700 > optical cable > JVC XL-R2010 CD-RW (16/44) (transferred 6/30/15)
+
+Editing : Sound Forge (CD extract & tracking) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - February 12, 2021
+
+Transferred & Tracked by kingrue upload #2981
+==========================================
+
+Here's a John Mayer I transferred many years ago.
+
+This is a new source. Unfortunately it's not complete.
+
+Previously there had been a recording made by Ian White with Sennheiser MKH-800s.
+
+The Counting Crows were the opening act ( I don't have that recording )
+
+
+Total Time = 55:23
+
+Set list
+xx. No Such Thing (not recorded)
+xx. My Stupid Mouth (not recorded)
+01. Something's Missing (ending only) 
+02. 3x5
+03. Bigger Than My Body (ending cut)
+04. 83
+05. Come Back to Bed
+06. Your Body Is a Wonderland
+07. Why Georgia
+08. Back to You
+
+======================
+
+No errors occurred.
+
+jm2003-08-15t01.flac:bacbd7e13ecbabfbd2edc481c10744b6
+jm2003-08-15t02.flac:0402e19f8829057d4b8ddff675a5094e
+jm2003-08-15t03.flac:69511432ed8f2df6a8c6f5c93ebff8c8
+jm2003-08-15t04.flac:bec60ac527ac46f66ca75b6c3a124147
+jm2003-08-15t05.flac:ed38eb9de9a5179c3c0f52a063c0894f
+jm2003-08-15t06.flac:56b4c197cb52919ee6ae396202d4eb9e
+jm2003-08-15t07.flac:ff90701237b437cd5cc0312ac1a6fd64
+jm2003-08-15t08.flac:4c3a6117c09fc9d860a1d7fcc2a36774
+
+Checksum file saved to disk.
+
+No errors occurred.

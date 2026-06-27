@@ -1,0 +1,58 @@
+The Minus 5
+Doug Fir Lounge
+Portland, OR
+August 5, 2022
+(Opened for NRBQ)
+
+** 16 BIT **
+
+Source:  Core Sound Cardioids > Battery Box > Tascam DR-05 > @ 16 bit/44.1 kHz
+Mastering:  .WAV > iZotope RX11 Advanced v11.0.1.387 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > CDWav 
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.17 (tagging)
+Recorded by:  Rob Gronotte
+Mastered by:  Dennis Orr
+
+Setlist: (39:57)
+01 Intro & Band Intros
+02 Have Love, Will Travel
+03 Every Day's A Rip-Off
+04 Chat
+05 Love Is A Beautiful Thing
+06 Beacon From RKO
+07 Cigarette
+08 I'll Be Down By The River
+09 Chat
+10 Original Luke
+11 I Was Drunk
+12 Chat
+13 Fruit Basket Blues
+14 Chat
+15 My Generation
+16 Chat
+17 Bleed Out
+18 Aw Shit Man
+
+Scott McCaughey - lead vocals & guitar
+John Ramberg - guitar
+Steve Berlin - saxophone & keyboards
+Jim Sangster - bass
+Kurt Bloch - drums
+
+TheMinus5-2022-08-05t01.flac:2f23cbe3475a98177cfc1738cef85f04
+TheMinus5-2022-08-05t02.flac:6ec49452351a427ff28312bfa97fcff0
+TheMinus5-2022-08-05t03.flac:0b3f7d977f5deb2e5a85bfb9f744b6f6
+TheMinus5-2022-08-05t04.flac:8f22a6eab1b6fe188df79e00bb1a5ee4
+TheMinus5-2022-08-05t05.flac:ba668cced3a197f49409c75a000feded
+TheMinus5-2022-08-05t06.flac:85ac328a0136def3491f95e14a2a51d8
+TheMinus5-2022-08-05t07.flac:d9b97fbbbe52c3693e3bc75d6d7c84b8
+TheMinus5-2022-08-05t08.flac:e7d19f8a502ca76268545422f0a3ea56
+TheMinus5-2022-08-05t09.flac:b815ecacc24060b9fefd13202ba6f9d4
+TheMinus5-2022-08-05t10.flac:bf6747eb205c2a03f053dc657161de10
+TheMinus5-2022-08-05t11.flac:2aa393e9de281606a8303bbb7185407d
+TheMinus5-2022-08-05t12.flac:fe2e7aad69ca3c246187f54e3b7988fb
+TheMinus5-2022-08-05t13.flac:ae90d02292620f8360b379aa3d39fbc2
+TheMinus5-2022-08-05t14.flac:117c4deb7a00f7ce6c56918dbaccc51c
+TheMinus5-2022-08-05t15.flac:3ca9b6e293f8992ed2f582c6d6602417
+TheMinus5-2022-08-05t16.flac:4a5498b9b2b4f92f3f5b4e1963c37a99
+TheMinus5-2022-08-05t17.flac:5379d042d3fa6ada2a787bd2368af13a
+TheMinus5-2022-08-05t18.flac:8051f86b488176b6526a7c85d9163a02

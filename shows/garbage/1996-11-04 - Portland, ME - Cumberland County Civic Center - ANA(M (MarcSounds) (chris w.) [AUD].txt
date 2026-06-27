@@ -1,0 +1,56 @@
+---GARBAGE---
+November 4th, 1996
+Cumberland County Civic Center
+Portland, ME
+
+
+TAPER: Chris W.
+EQUIPMENT: marcSounds -> Sony WM-D3 cassette
+
+
+SETLIST:
+
+01. intro
+02. Queer
+03. Fix Me Now
+04. Not My Idea
+05. My Lover's Box
+06. Milk
+07. Supervixen
+08. Stupid Girl
+09. Only Happy When It Rains
+10. Vow
+
+
+NOTE: There are a few small dropouts during the first song due to equipment problems.
+
+GENERATION:
+ANA(M) -> .wav [44.1 kHz] -> FLAC [level 8]
+
+TRANSFER:
+Nakamichi DR-1 -> KabelDirekt RCA -> ESI Juli@ soundcard -> Adobe Audition CS6 -> CDWave 1.98 -> Trader's Little Helper 2.7.0
+
+
+MD5 CHECKSUMS:
+2e71429fccb37532ad8308d1981162ec *garbage 1996-11-04 tr01.flac
+37e7b3700fdd00d3db71efd3bee3d0c9 *garbage 1996-11-04 tr02.flac
+541d0ba7ad32a4f00fc7045b1c8b2f0c *garbage 1996-11-04 tr03.flac
+35182c042fb778ca7ce5575dbcc6b2a5 *garbage 1996-11-04 tr04.flac
+d595da8e2115b94a58a3a498fbbba97f *garbage 1996-11-04 tr05.flac
+f44ef95131101a748e9fe64681200e47 *garbage 1996-11-04 tr06.flac
+08442fcd253916e2d7a3c5222b69a5bd *garbage 1996-11-04 tr07.flac
+ced65309521d294361c794923d291917 *garbage 1996-11-04 tr08.flac
+bd69cd61b50a18a77296db4d0c2cf09c *garbage 1996-11-04 tr09.flac
+8dda329b2f0145432e7379be9f820ffb *garbage 1996-11-04 tr10.flac
+
+
+Thanks to Chris W. for lending her tape for transfer
+
+Transferred by Rob Landis
+roblandisnow@gmail.com
+www.LiveNirvana.com
+
+DO NOT SELL THIS RECORDING
+DO NOT ENCODE TO MP3, LOSSY, OR STREAMING FORMATS WITHOUT PROVIDING A DOWNLOAD LINK FOR THE LOSSLESS FILES
+
+

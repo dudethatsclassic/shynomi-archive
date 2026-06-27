@@ -1,0 +1,80 @@
+Wilco
+July 7nth, 2007
+Kongsberg Jazz Festival 2007
+Tubaloon
+Kongsberg, Norway
+
+Recording  Engineer: Mujtaba Hussain aka muj aka babarfralindeberg aka Mr.Gefell aka the internet king.
+Location: FOB/DFC/60 ft. from stage 
+Source: NEVATON MK48 (13 ft high)>Grace Design Lunatec V3>Edirol R-09 24bit/44kHz
+Transfer: R-09 (USB)-->PC
+Processing: None except track01 (volume adjustment)
+Conversion: Sony Soundforge 8.0 for tracksplitting.Flac encoding by Db poweramp music converter (level 5)
+
+*****************************************************************
+***** PLEASE DO NOT ENCODE THIS SHOW TO LOSSY AUDIO FORMATS *****
+********* PLEASE SPREAD, BUT PLEASE INCLUDE SOURCE INFO *********
+****** DO NOT SELL OR DISTRIBUTE FOR A PROFIT BY ANY MEANS ******
+*****************************************************************
+
+SETLIST
+
+01. Side With The seeds
+02. You Are My Face
+03. I Am Trying To Break Your Heart
+04. Kamera
+05. Muzzle Of Bees
+06. Handshake Drugs
+07. A Shot In The Arm
+08. Impossible Germany
+09. Sky Blue Sky
+10. Shake It Off
+11. Hummingbird
+12. War On War
+13. Jesus, Etc.
+14. Walken
+15. I'm The Man Who Loves You
+
+Encore 1:
+
+16. The Late Greats
+17. Via Chicago >
+18. Spiders (Kidsmoke)
+
+Encore 2:
+
+19. Heavy Metal Drummer
+20. Hoodoo Voodoo
+21. Outasite (Outta Mind)
+22. I'm A Wheel
+
+NOTES:
+I had some trouble adjusting the levels on track01
+
+THANKS to Alexander Baranaov for making excellent microphones
+THANKS to Stan "The man" Doty for the sound and backing me up
+THANKS to the audience attending the show.You guys rocked.
+
+
+wilco2007-07-07t01.flac:cbe09e5fb9afe5d40b9cc6c2734d2e0c
+wilco2007-07-07t02.flac:0096f5314d97293a556d2dd440d67d27
+wilco2007-07-07t03.flac:d08ef3ffbb742eee7fddb07038648d5b
+wilco2007-07-07t04.flac:f6c50525f77a76fdd2303002d74ed45c
+wilco2007-07-07t05.flac:090e2e3547dcd47c663fe90c7e0648eb
+wilco2007-07-07t06.flac:f892ae05baabf42744f54c5562e4eb11
+wilco2007-07-07t07.flac:125dfde711b5ad2b51908db677ff8da6
+wilco2007-07-07t08.flac:6f5737e95638463743c6c628427093c4
+wilco2007-07-07t09.flac:031c715f916eb832706d128e4a509b68
+wilco2007-07-07t010.flac:07531d927da2d8a33f93a4eee75887a6
+wilco2007-07-07t011.flac:8ae27863f4c17aab4168c44a60ee8f5c
+wilco2007-07-07t012.flac:c86cdcb1eceebea1a4b196b6158185a2
+wilco2007-07-07t013.flac:9321281093d902d235ca314ae95dbd6e
+wilco2007-07-07t014.flac:3ca82316c9dbfe5ddb580032a0ebfd55
+wilco2007-07-07t015.flac:94833b2c3a0a5860d6d7b2286b85a9fc
+wilco2007-07-07t016.flac:bfa8c64055065d5801c3a3bc117e744a
+wilco2007-07-07t017.flac:00c9b62f45f99fce61cd2dafc462c6d0
+wilco2007-07-07t018.flac:8633ca4f6c3aebdf96410451b512c622
+wilco2007-07-07t019.flac:c713be915929bd028307da22adbe9399
+wilco2007-07-07t020.flac:15366778eaa35b06cb6304e10d422258
+wilco2007-07-07t021.flac:289b13d6a5437ceea16c99490695b459
+wilco2007-07-07t022.flac:abeec01088e48bdc64f11ab733a229d0

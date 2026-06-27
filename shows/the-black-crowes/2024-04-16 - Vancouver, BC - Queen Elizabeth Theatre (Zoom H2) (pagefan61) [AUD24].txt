@@ -1,0 +1,78 @@
+The Black Crowes
+"Happiness Bastards" Tour
+Queen Elizabeth Theatre
+Vancouver, BC
+April 16, 2024
+
+** 24 BIT **
+
+Source:  Zoom H2 (internal mics, 120 degree spatial) @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ), VEGAS 
+Reverb] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.16 (tagging)
+Location:  Row G, right center
+Recorded by:  Pagefan61
+Mastered by:  Dennis Orr
+
+Setlist: (1:33:45)
+01 Intro Music [It's A Long Way To The Top (If You Wanna Rock 'N' Roll)]
+02 Recorded Intro
+03 Bedside Manners
+04 Dirty Cold Sun
+05 Twice As Hard
+06 Chat
+07 She Gave Good Sunflower
+08 Paint An 8
+09 Cross Your Fingers
+10 Chat
+11 Carol
+12 Wilted Rose
+13 Chat
+14 Thorn In My Pride
+15 Wanting And Waiting
+16 Chat
+17 Hard To Handle
+18 She Talks To Angels
+19 Follow The Moon
+20 No Speak No Slave
+21 Jealous Again
+22 Remedy
+23 Encore Break
+- Encore -
+24 God's Got It
+25 Crowd
+
+Chris Robinson – lead vocals, harp, acoustic guitar, & percussion
+Rich Robinson – guitar & backing vocals
+Nico Bereciartua – guitar & backing vocals
+Erik Deustch – keyboards & backing vocals
+Sven Pipien – bass & backing vocals
+Cully Symington – drums & percussion
+Leslie Grant - backing vocals & percussion
+Mackenzie Adams - backing vocals & percussion
+
+tbc2024-04-16t01.flac:8b46531214c8e135fe11be25a50d49b2
+tbc2024-04-16t02.flac:7fef5191275fdcd9627219ba5a590bb0
+tbc2024-04-16t03.flac:46f80bd2d1520c122829c75fc268aada
+tbc2024-04-16t04.flac:a253387b914565deb1a855b2b2459577
+tbc2024-04-16t05.flac:2145c6abbdcac61f2a8049998c831ca1
+tbc2024-04-16t06.flac:1cbadbc7a98f62bb8cbf9b80db772b23
+tbc2024-04-16t07.flac:d026d8db695baa04c6a1c5579343c293
+tbc2024-04-16t08.flac:36171c6f3a042c63723741d9ac6b892f
+tbc2024-04-16t09.flac:1db5dde6dbba1138edfa4b692ca7bf73
+tbc2024-04-16t10.flac:8583d002449dda41a55e68cf0c909437
+tbc2024-04-16t11.flac:17a3b9c86b071bd78e0006c63df72c73
+tbc2024-04-16t12.flac:e1fafb5413d69282c556faff8316c257
+tbc2024-04-16t13.flac:64354e1c704eed9977903ff85d1c60f1
+tbc2024-04-16t14.flac:e751e51540f999db96c0309c5dc45e6c
+tbc2024-04-16t15.flac:ed33b71fbc35bea994b39574a1ac07e1
+tbc2024-04-16t16.flac:962feb21eb904103dcf2c2563a65d0e3
+tbc2024-04-16t17.flac:dd12557e97be6c52e6a0adff408c2ee6
+tbc2024-04-16t18.flac:512743b2f43279e8c7107c4ed65bf636
+tbc2024-04-16t19.flac:b42ba3c3d8e1b9fa69fe865f06364e09
+tbc2024-04-16t20.flac:fc707fb6559decc36b13198f4994861d
+tbc2024-04-16t21.flac:0845b467686cdbaa4f71935431bae438
+tbc2024-04-16t22.flac:7d961604e0256245a50da983b17ec4a0
+tbc2024-04-16t23.flac:44136de8da0bf60ef84c77a84c2dc923
+tbc2024-04-16t24.flac:7feba68359b8496d8cb6dfb8cbb37852
+tbc2024-04-16t25.flac:956c74a245a8d10f916454b0f6c46f5c
+

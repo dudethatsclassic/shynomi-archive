@@ -1,0 +1,18 @@
+Liz Phair
+Late Night with Seth Meyers
+New York City, New York
+November 13, 2019
+
+Good Side
+
+[03:27]
+
+MPEG-2 TS
+1920 x 1080
+Interlaced
+16:9
+29.97 fps
+14.6 Mbps
+AC3 5.1, 48 kHz, 384 kbps
+
+ATSC > Avermedia Tuner > Womble

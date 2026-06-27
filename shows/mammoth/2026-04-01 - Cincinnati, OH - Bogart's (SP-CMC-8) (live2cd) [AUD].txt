@@ -1,0 +1,61 @@
+﻿Mammoth
+November 20th, 2025.
+Bogart's - Cincinnati, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   20ft back from left stack; mics mounted on baseball hat brim.
+Source:     SP-CMC-8 Cardioids (4.7k mod) > SP-SPSB-11 (@16Hz) > SP-ATEN-1 >
+            SP-SAPM-1-USB-C > Samsung Galaxy S21 (Field Recorder App - 24 bit @48kHz) >
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Samsung Galaxy S21 > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (1:18:53)
+
+01. One Of A Kind				5:39
+02. Another Celebration At The End 		6:18
+    Of The World
+03. The Spell					3:34
+04. Epiphany					6:32
+05. Stone					7:47
+06. Happy					5:24
+07. Resolve					5:28
+08. Distance ^					4:40
+09. Something New				5:48
+10. Take A Bow					7:50
+11. I Really Wanna				4:11
+12. ~ Encore ~					1:27
+13. Never Gonna Give You Up %			2:18
+14. Band introductions				2:12
+15. Don't Back Down 				5:00
+16. The End					4:45
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+^  First half acoustic, finishes full band.
+%  Originally Recorded by Rick Astley.
+   (April Fools prank, abandoned after first verse & chorus).
+
+Mammoth on the spring headlining trek for their most recent album, "The End".
+Unfortunately, while on tour, Wolf came down with the flu and had to postpone
+a couple shows. Since the tour has been back up and running the show has been
+shortened a bit to help him get through. Missing from last fall are as follows:
+"Same Old Song", "Like A Pastime", "Optimist", "Mammoth" & "All In Good Time".
+Wolf has added "Something New" to the spring setlist, so we lost 5, but gained
+1! I was still very pleased with the show given his health and thought he still
+put on a tremendous set! The April Fools prank at the encore was hilarious and
+made all the rock news sites the next day. Funny stuff. The recording went well,
+this was the 2nd show where I have used the SP-SAPM-1-USB-C adapter into my 
+Galaxy S21 and outside of some very minor hiss during the quiet parts, it did
+the job! I still prefer my M10 or A10, but this works in a pinch when venue
+security have started asking to remove your belt and look through your things
+at the door as soon as the walk thru metal detectors go off.
+
+James and the Cold Gun [not recorded] and 10 Years opened. [recorded].
+
+---------------------------------------------------------------------------------------------------------
+For more information on Mammoth, please visit:
+
+https://mammoth.band/

@@ -1,0 +1,132 @@
+Keane
+Glastonbury Festival
+U.K.
+2024-06-29 (Saturday)
+
+https://www.bbc.co.uk/events/e35wxj
+https://www.bbc.co.uk/events/e35wxj/acts/acmvwh
+https://www.bbc.co.uk/events/e35wxj/play/acmvwh/p0j2wnwv
+https://www.bbc.co.uk/events/e35wxj/play/acmvwh/p0j3hz7h
+https://www.bbc.co.uk/sounds/play/m0020r5d
+
+https://ichef.bbci.co.uk/images/ic/416x234/p0j7bllp.jpg
+https://ichef.bbci.co.uk/images/ic/304x171/p0j7bjsw.jpg
+https://ichef.bbci.co.uk/images/ic/304x171/p0j7bkf3.jpg
+https://ichef.bbci.co.uk/images/ic/320x320/p0j7bkwh.jpg
+
+also:
+http://ichef.bbci.co.uk/images/ic/128x72/p0j7bllp.jpg
+http://ichef.bbci.co.uk/images/ic/144x81/p0j7bllp.jpg
+http://ichef.bbci.co.uk/images/ic/192x108/p0j7bllp.jpg
+http://ichef.bbci.co.uk/images/ic/256x144/p0j7bllp.jpg
+http://ichef.bbci.co.uk/images/ic/384x216/p0j7bllp.jpg
+http://ichef.bbci.co.uk/images/ic/480x270/p0j7bllp.jpg
+http://ichef.bbci.co.uk/images/ic/624x351/p0j7bllp.jpg
+http://ichef.bbci.co.uk/images/ic/608x342/p0j7bllp.jpg
+http://ichef.bbci.co.uk/images/ic/640x360/p0j7bllp.jpg
+http://ichef.bbci.co.uk/images/ic/864x486/p0j7bllp.jpg
+http://ichef.bbci.co.uk/images/ic/944x531/p0j7bllp.jpg
+http://ichef.bbci.co.uk/images/ic/976x549/p0j7bllp.jpg
+http://ichef.bbci.co.uk/images/ic/1024x576/p0j7bllp.jpg
+http://ichef.bbci.co.uk/images/ic/1280x720/p0j7bllp.jpg
+http://ichef.bbci.co.uk/images/ic/1632x918/p0j7bllp.jpg
+http://ichef.bbci.co.uk/images/ic/1920x1080/p0j7bllp.jpg
+etc ...
+
+Glastonbury Channel Live stream :
+BBC Website Live Stream > download script > .m4s fragments > ffmpeg > .mp4 >
+VideoRedo TV Suite (version 6.62.6.833 (2021-09-22)) (trimming) > mkvmergeGUI v86.0.0 (chapters) > .mkv file
+
+Video : 1280 x 720p / 50fps @ 5070kbps
+Video Codec : H.264/MPEG-4 AVC
+Aspect Ratio : 16:9
+BBC logo
+Audio track : AAC 48kHz @ 128kbps
+Length : 15:42
+
+md5:
+938af669f67a24929fbbd3cd7c5dd386 *Keane 2024-06-29 Glastonbury Channel - Interview 720p.mkv
+========================================================================
+
+Live webcast at ~14:02 on the BBC online-only "Glastonbury channel"; interview conducted by Deb Grant & Huw Stephens.
+
+  1. Everybody's Changing (Glastonbury Pyramid Stage 2005-06-25)
+  2. Interview
+  3. Somewhere Only We Know (Glastonbury Pyramid Stage 2005-06-25)
+  4. Interview
+Total Time : [15:42]
+
+https://www.keanemusic.com/
+
+MediaInfo output:
+========================================================================
+General
+Unique ID                                : 62588484780240450017075187438707826098 (0x2F161A8C299525297820FE6602A45DB2)
+Complete name                            : Keane 2024-06-29 Glastonbury Channel - Interview 720p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 585 MiB
+Duration                                 : 15 min 42 s
+Overall bit rate                         : 5 201 kb/s
+Frame rate                               : 50.000 FPS
+Movie name                               : Keane 2024-06-29 Glastonbury Channel: Interview
+Encoded date                             : 2024-08-17 11:33:19 UTC
+Writing application                      : mkvmerge v86.0 ('Winter') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 15 min 42 s
+Bit rate mode                            : Constant
+Bit rate                                 : 5 070 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.110
+Stream size                              : 570 MiB (98%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=192 / keyint_min=19 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=4928 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=5070 / vbv_bufsize=10141 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 15 min 42 s
+Bit rate                                 : 125 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 14.1 MiB (2%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Everybody's Changing
+00:03:38.000                             : en:Interview
+00:10:33.000                             : en:Somewhere Only We Know
+00:14:27.000                             : en:Interview
+========================================================================

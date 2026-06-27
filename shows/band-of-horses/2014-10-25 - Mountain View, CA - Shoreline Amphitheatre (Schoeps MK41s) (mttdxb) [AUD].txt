@@ -1,0 +1,24 @@
+Artist: Band of Horses
+Date: 	October 25th 2014
+Venue:	Shoreline Amphitheatre, Mountain View
+
+
+Setlist: 
+
+01 Is There a Ghost
+02 Laredo
+03 Weed Party
+04 No One's Gonna Love You
+05 The General Specific 
+
+
+Source:
+Schoeps MK41s > actives > Tinybox > Sony PCM-M10 (9624) > Audacity 
+[+6db, tracking, 2496>1644 conversion, FLAC Export Level 8] > TLH SBE Fix
+
+Taper: mttdxb
+Location: Section 101, Row G
+
+---------
+
+

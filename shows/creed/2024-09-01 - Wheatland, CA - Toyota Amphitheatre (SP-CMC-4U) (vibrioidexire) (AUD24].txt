@@ -1,0 +1,68 @@
+CREED
+September 1, 2024
+Toyota Amphitheatre
+Wheatland, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. Bullets
+02. Torn
+03. Are You Ready?
+04. Never Die
+05. My Own Prison
+06. Weathered
+07. What If
+08. Say I
+09. Faceless Man
+10. One
+11. What's This Life For
+12. With Arms Wide Open
+13. Higher
+14. One Last Breath
+15. My Sacrifice
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.5
+Sound Professionals SP-CMC-4U > Sony PCM-A10
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (AT-U853's, with SP UE-H-PAIR hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > Sony PCM-A10 High-Resolution Digital Audio Recorder > WAV [48kHz/24-bit] > USB connector > Insignia NS-PA3C3A USB-C to USB adapter > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 23.2 [post-production/mastering] > xACT 2.55 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- Before "Weathered", Mark announced he was giving away a guitar to whoever was the craziest during their next song "What If". After the song, a kid named Liam was declared the winner and was brought on stage.
+- After "What's This Life For", Mark brought out his daughter, Stella. The band got the crowd to  take out their flashlights to shine onto the stage for her.
+
+
+FLAC FINGERPRINTS:
+-------------------
+creed2024-09-01_AUD1_t00.flac:8cc502fdbdbc027649070167afd00975
+creed2024-09-01_AUD1_t01.flac:03d09d0e2e28f261662ba736cb85fad9
+creed2024-09-01_AUD1_t02.flac:94b6a9f896697809d1afa3d81a03abc5
+creed2024-09-01_AUD1_t03.flac:9dcc7430e34e110abdfb9125436f2f09
+creed2024-09-01_AUD1_t04.flac:4d542dc8eb8ead5fd33ca25bbe8bb163
+creed2024-09-01_AUD1_t05.flac:59e36ea1039b1ce31b09b04001e0e5b2
+creed2024-09-01_AUD1_t06.flac:29bb4c167c1fce73735a00f38a1d47de
+creed2024-09-01_AUD1_t07.flac:593e64df56772c869dfd3e852aa145f6
+creed2024-09-01_AUD1_t08.flac:822cc6dc595294beeea6514e7c82addf
+creed2024-09-01_AUD1_t09.flac:14db3904c6efc2445078b7a642206bdf
+creed2024-09-01_AUD1_t10.flac:5c00fcb8772947b9d5f6cc32d39b85fc
+creed2024-09-01_AUD1_t11.flac:d955d1573dd0163f666328bf1a808991
+creed2024-09-01_AUD1_t12.flac:163cc9b008ce9cf32610985bddd01bea
+creed2024-09-01_AUD1_t13.flac:b1b7de76d3f0be2a8cf57db5c2127faf
+creed2024-09-01_AUD1_t14.flac:2815fd7e960c9925d0a1c9da6f522ef8
+creed2024-09-01_AUD1_t15.flac:b9fac4caffedfc2f1d5a6b0523ec8208
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

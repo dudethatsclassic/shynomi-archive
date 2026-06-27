@@ -1,0 +1,95 @@
+John Mayer
+July 10, 2008
+Susquehanna Bank Center
+Camden, NJ
+
+
+Taper: Rockinman 
+
+Location: FOB,DFC,Stand at 12 feet, DINA 90 degree config 
+          
+
+Source: Akg460mods/ck63 hyper caps(bass rolloff)>UA5 preamp>Nomad JB3(Optical In)
+
+Transfer: JB3->Firewire->PC
+
+Processing: Normalization to -0.1db, Volume increase of 2.09db on left channel only, Waves L3 Volume Maximizer 
+applied using SoundForge 8.0., fade in & fade out applied 
+
+Conversion: CD Wave Editor for track splitting and Flac16 Conversion @ level 5
+
+
+**************************************************************
+*****  DO NOT ENCODE THIS SHOW TO LOSSY FORMATS *****
+****** DO NOT SELL OR DISTRIBUTE FOR PROFIT*********
+**************************************************************
+
+
+Disc 1
+
+01. Intro 
+02. Belief
+03. No Such Thing-->
+04. Why Georgia
+05. Waiting on the World to Change +
+06. Slow Dancing in a Burning Room
+07. Free Fallin' %
+08. Bigger Than My Body
+09. Mercy
+10. Vultures
+11. Heart of Life
+12. Stitched Up
+
+
+Disc 2
+
+01. Crossroads &
+02. Gravity (Fortress Around Your Heart partial intro) #
+
+03. Encore Break
+
+Encore
+
+04. Bold As Love-->
+05. The Wind Cries Mary ^
+06. Wheel
+07. Say $
+
+
+
+$ Teases of 3x5, Comfortable,Daughters & Stop This Train
+% Tom Petty cover
+& Eric Clapton cover
+^ Jimi Hendrix covers 
+# Sting cover
+
+
+Notes:  Due to clipping of most of the wav file, I had to normalize the entire show.  
+Surprisingly it sounds bassy but the otherwise a very clear and full sound. 
+
+
+
+
+Compiled by Tom Gambichler on July 11, 2008
+        
+
+
+jm2008-07-10d1t01.flac:b7bb4e56587b3fa8fdb5cf4652e46b21
+jm2008-07-10d1t02.flac:2db7f14315baa795e7c423c63463ae4a
+jm2008-07-10d1t03.flac:fceb46e40a86ca9130a9709b21f5185c
+jm2008-07-10d1t04.flac:c5dc42dd6bf85f6372b6c7d252e642a0
+jm2008-07-10d1t05.flac:9ab822c3de5a60908bfcadfc750a7691
+jm2008-07-10d1t06.flac:c08b3ddf624185b46c8f03f614856abf
+jm2008-07-10d1t07.flac:3bca7301ddfb18d5016105a7007256c9
+jm2008-07-10d1t08.flac:2f7fba0fa40fd935834f04e8b1b8b286
+jm2008-07-10d1t09.flac:0bf696128231684f0374e145b089977a
+jm2008-07-10d1t10.flac:7908e8350c44d89a83bc2f0ae52b51e1
+jm2008-07-10d1t11.flac:8f1745b3da48adff62ac8a97ef10af3a
+jm2008-07-10d1t12.flac:8b222bb29560acdcbbc5d30a1b944bc7
+jm2008-07-10d2t01.flac:5c63b5f7468af614e42c1c4389b625f3
+jm2008-07-10d2t02.flac:52eec94a8ed9f99a021cb62bf7036593
+jm2008-07-10d2t03.flac:781409acf0bb5b5be78785e6a328e717
+jm2008-07-10d2t04.flac:693865ab352b665ff0da70442bb7e98b
+jm2008-07-10d2t05.flac:6a42d700554ccc530b521c3170e84a67
+jm2008-07-10d2t06.flac:eac621fcdf55e8fcc19f938e80b17e5a
+jm2008-07-10d2t07.flac:e81ca1b1e72b068dcec938c1fc40c919

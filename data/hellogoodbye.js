@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Long Beach, CA",
       "venue": "Koo's Art Cafe",
-      "notes": "Sony MZ-R700 · the v.u.",
+      "notes": "Sony MZ-R700 \u00b7 the v.u.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-04-24 - Long Beach, CA - Koo's Art Cafe (Sony MZ-R700) (the v.u.) [AUD].txt"
     }
   ],
   "misc": []

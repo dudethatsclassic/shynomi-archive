@@ -1,0 +1,63 @@
+Dave Matthews Band
+September 19, 1992
+Phi Kappa Sigma
+Blacksburg, VA
+
+
+
+
+Taper: Unknown 
+Location: Unknown       
+Source: AUD Analog (Unknown generation)->EAC->CD (Track At Once)-> Wav
+Transfer: Wav->Flac->Wav @ 16/44.1 kHz
+Conversion: 16/44.1kHz wav->Soundforge Pro 10.0, Normalized to -0.01db-> Trader's Little Helper->Flac(level 8)->Foobar2000 for tagging
+
+******************************************************************************************
+**********DO NOT ENCODE THIS SHOW TO LOSSY FORMATS EXCEPT FOR PERSONAL USE**************** 
+********************DO NOT SELL OR DISTRIBUTE FOR PROFIT**********************************
+******************************************************************************************
+
+Set I
+
+Disc 1
+
+01. The Maker                                       06:17
+02. Warehouse                                       08:19
+03. Angel from Montgomery                           05:44 
+04. Typical Situation                               16:27 
+05. True Reflections                                07:22 
+06. What Would You Say                              05:26
+07. Satellite                                       04:42 
+08. So Much to Say                                  06:39
+
+
+
+
+Total Time: 60:58
+
+
+
+
+Notes: Set I only.  Set II could not be located.
+
+
+
+
+Conversion notes:
+CD source is analog from an unknown generation cassette. Performed frequency and spectral analysis to rule out any mp3 encoding and none was found.
+
+CD source received was in TAO (Track at Once) so there were cuts after each track and required crossfading at the end of each track into the next and done as seamlessly as possible.  Using Sound Forge applied crossfade at the end of The Maker seamlessly into Warehouse. Joined the beginning of Angel From Montgomery at the track cut leaving only a slight click in the audio. Crossfade applied during crowd at the end of Angel From Montgomery into crowd prior to Typical seamlessly. Crossfade applied at the end of Typical in the middle of Boyd introducing Leroi leaving a slight click. Crossfade applied during crowd at the end of True Reflections seamlessly into crowd prior to WWYS. Crossfade applied during crowd at the end of WWYS seamlessly into crowd prior to Satellite.  Crossfade applied at the end of Satellite into SMTS as Dave is saying thank you leaving only a slight click. 
+   
+Using Sound Forge pencil tool, removed spike in audio at 8:18 mark of Warehouse. Dropouts at the 7:10 and 11:04 marks of Typical and at the 3:09 mark of WWYS. 
+
+
+
+
+
+Thanks to Bill Kilby for the source tape and to Copperpot for sending me this wav file to convert and share with the dmb community.
+
+
+
+
+
+Compiled by Tom Gambichler on April 28, 2020

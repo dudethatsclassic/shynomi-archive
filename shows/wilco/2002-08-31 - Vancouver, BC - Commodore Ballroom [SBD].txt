@@ -1,0 +1,107 @@
+# wlco_2002-08-31.txt; version 1.0; November 25, 2003; initial setup
+
+ARTIST   Wilco
+TITLE    Live In Vancouver
+VENUE    Commodore Ballroom
+CITY     Vancouver
+STATE    
+COUNTRY  Canada
+DATE     August 31, 2002
+
+A WOLF HiQuality Remastering -- Initially circulated November 2003 as torrent using STG's tracker.
+
+Tracklist:
+  Disc 1
+     1. Intro
+     2. Not For The Season
+     3. Why Would You Wanna Live
+     4. I'm Trying To Break Your Heart
+     5. War On War
+     6. Kamera
+     7. Radio Cure
+     8. Sunken Treasure
+     9. A Shot In The Arm
+    10. She's A Jar
+    11. Heavy Metal Drummer
+     
+  Disc 2
+     1. I'm The Man Who Loves You
+     2. Misunderstood *
+     3. Far Far Away
+     4. Jesus, Etc.
+     5. Less Than You Think
+     6. California Stars
+     7. Passenger Side
+     8. Reservations
+     9. I'm Always In Love
+    10. Outtaside (Outtamind) *
+    11. I'm A Wheel
+    
+  * Wrong or misspelled title on inlay-card.
+  
+Artwork:
+  In subdirectory "artwork"
+
+Lineage:
+  DSBD >? >CDRx? >WaveLab (DAE & Digital Remastering) >wav >mkwACT
+  >shn >wav >FLAC v1.1.0 (with sector alignment option set) >flac
+  >wav >mkwACT >shn
+  
+Size:
+  655 MB
+
+Comment:
+  These shn files decode to the original remastered wav files as
+  received from WOLF himself. No DAE since remastering.
+
+WAV MD5 checksums of this release:
+e09b8ae4f8724334928ad127c3c58455 *wlco_2002-08-31_d1t01.wav
+59159a61edae00d1dc0da029236b71ef *wlco_2002-08-31_d1t02.wav
+080be0324106513eff2992060a945ca9 *wlco_2002-08-31_d1t03.wav
+f12df4c7606629ca0acb3898c4bb2295 *wlco_2002-08-31_d1t04.wav
+28e2c1f9afdcf676036eeb729ddd42a3 *wlco_2002-08-31_d1t05.wav
+185d39a8cc75b3b7194eac5979bf525f *wlco_2002-08-31_d1t06.wav
+f2b4d4197b44473b46ab7b1f042c860e *wlco_2002-08-31_d1t07.wav
+e7c82b21b519dd01f195a75ef867610b *wlco_2002-08-31_d1t08.wav
+03214c8f35b435fada0daefe0e48d09f *wlco_2002-08-31_d1t09.wav
+eee8ae881cf82d331029fa961a758923 *wlco_2002-08-31_d1t10.wav
+bcf4c0098627f907d12f4d3016e280f4 *wlco_2002-08-31_d1t11.wav
+e13ccc22fc67c087bb7d994dfa41fb61 *wlco_2002-08-31_d2t01.wav
+b71f1f511052c8776c1ac267f316bf04 *wlco_2002-08-31_d2t02.wav
+8cf3fac2254945520fdc775c87b3638e *wlco_2002-08-31_d2t03.wav
+afc4bf5fe9fca918cf85105f09ae08bd *wlco_2002-08-31_d2t04.wav
+124f831fc5636b25c34589e705c67a72 *wlco_2002-08-31_d2t05.wav
+f334b88bc2a8fddccb49edffe22de1e8 *wlco_2002-08-31_d2t06.wav
+5b73a074958d4bf7fccb0a2b287afcee *wlco_2002-08-31_d2t07.wav
+a59ba13311ee8c83a82f45008fd6311e *wlco_2002-08-31_d2t08.wav
+4134833b3ecde11f88a1874c7d50ca78 *wlco_2002-08-31_d2t09.wav
+4a8bca618969c37ad0e32b0048edd879 *wlco_2002-08-31_d2t10.wav
+63c5c62773e220299801142420a5ab45 *wlco_2002-08-31_d2t11.wav
+  
+FLAC fingerprints of this release:
+wlco_2002-08-31_d1t01.flac:4c010d5a2554836e9073c7a7df064a4b
+wlco_2002-08-31_d1t02.flac:11ee64c66d73a3176c59768c8592a05e
+wlco_2002-08-31_d1t03.flac:803b3b45aa554b3f93d53d7e315b8a85
+wlco_2002-08-31_d1t04.flac:25cf2451eb024bcc04c995b839ceef2c
+wlco_2002-08-31_d1t05.flac:85ab0841dba82107435b35756d58584c
+wlco_2002-08-31_d1t06.flac:9ddd4205002d0e9c301efde199b2430d
+wlco_2002-08-31_d1t07.flac:d3c5e7753c668216a37e54df6894f45c
+wlco_2002-08-31_d1t08.flac:4f0a0552abb2b0e993826880d750832b
+wlco_2002-08-31_d1t09.flac:74ecdba6837148b5d3d113f32a6fd4bb
+wlco_2002-08-31_d1t10.flac:21e0fbade79171ee341b0213acbef44f
+wlco_2002-08-31_d1t11.flac:7ccde8f287a87dadcfeda016418101e1
+wlco_2002-08-31_d2t01.flac:1fbf11b816eaca4afa78b6580e556dc5
+wlco_2002-08-31_d2t02.flac:94236e79b6953e99605e472bbebb474d
+wlco_2002-08-31_d2t03.flac:2e1948d87f98a02332f5ce462d886d2e
+wlco_2002-08-31_d2t04.flac:60017d0096c745770d95fcc8fbb0ce5c
+wlco_2002-08-31_d2t05.flac:7c3a8048e01f63466a11ab42ad777b05
+wlco_2002-08-31_d2t06.flac:2d9237b89c54242f89fc32cc4eca9108
+wlco_2002-08-31_d2t07.flac:d2af86bc54b7bc28a8adcef17fcd5a0a
+wlco_2002-08-31_d2t08.flac:96114cd0294a538871068ef080f0c639
+wlco_2002-08-31_d2t09.flac:a96c4f75ea9db6b61af7dbcef10cdb15
+wlco_2002-08-31_d2t10.flac:5d9348a72657ebc7f0725df67b1fd925
+wlco_2002-08-31_d2t11.flac:0a97864cc00f2742cad936d45d71735c
+  
++---------------------------------+  
+! these shn files created by ERWE !
++---------------------------------+  

@@ -1,0 +1,19 @@
+Band Of Horses
+BBC Session (for Dermot O'Leary show, with Shaun Keaveny sitting in for Dermot)
+BBC Radio 2 Studios
+London
+U.K.
+2012-09-08
+
+Digital Satellite (live?) broadcast 2012-09-08 MPEG1 layer 2 48kHz @ 192kbps:
+BBC Radio 2 > DVB-S > TBS 6984 > DVBviewer > .ts > VLC (demux) > .mp2 >
+MpegSchnitt (trimming) > .mp2. Tags added with Foobar 2000.
+
+  1. Interview
+  2. Slow Cruel Hands Of Time
+  3. Interview
+  4. Love Is Only A Feeling
+  5. Closing Comments
+Total Time : [23:05]
+
+http://www.bandofhorses.com/

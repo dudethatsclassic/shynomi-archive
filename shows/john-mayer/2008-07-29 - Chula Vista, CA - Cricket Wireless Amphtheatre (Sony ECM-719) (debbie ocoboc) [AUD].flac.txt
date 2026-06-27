@@ -1,0 +1,66 @@
+John Mayer
+Summer 2008 Tour
+July 29, 2008
+Cricket Wireless Amphitheatre
+Chula Vista, CA
+
+Source:         Sony ECM-719 > Olympus LS-10
+Conversion:     LS-10 > WAV > FLAC Frontend
+Taper:          Debbie Ocoboc (docoboc.u@yuku.com)
+Transferred By: Claude Sawyer (csawyer@tapergeek.com)
+
+
+01. Vultures
+02. Waiting on the World to Change
+03. Crossroads
+04. No Such Thing into Why Georgia
+05. Taking On Water
+06. Wheel
+07. Belief
+08. I Don't Trust Myself (With Loving You)
+09. Free Falling
+10. Mercy
+11. Clarity
+12. Gravity
+13. Who Did You Think I Was
+14. Bigger Than My Body
+15. Say
+
+NOTES: NEVER BUY OR SELL LIVE RECORDINGS.
+http://www.TaperGeek.com
+
+FLAC Fingerprint:
+jmayer2008-07-29t01.flac:186220a4ac61cbaf3546c56b5a278084
+jmayer2008-07-29t02.flac:f11215c10dba8fff91a572812d546307
+jmayer2008-07-29t03.flac:a0f747bd37a4eb5a8dc3449c7b17bb10
+jmayer2008-07-29t04.flac:766744a167ea8dbb446f888454a03a03
+jmayer2008-07-29t05.flac:69b121130ee99e75ff3d0ded7d5f64e1
+jmayer2008-07-29t06.flac:0cfd5e22106a566bc7b81820d4d58ab1
+jmayer2008-07-29t07.flac:a874be24172256545d6736b3d81f06e8
+jmayer2008-07-29t08.flac:bb8ed8a7201739613adf3f2e85479f09
+jmayer2008-07-29t09.flac:2df08b3fdf908325a0b87fcce23bc755
+jmayer2008-07-29t10.flac:e27c8c877cdecadb6b4a946d84e47ca1
+jmayer2008-07-29t11.flac:e174976401961fb4520564d814e7045e
+jmayer2008-07-29t12.flac:af6b0bd95aeef9e025fe94010f905db9
+jmayer2008-07-29t13.flac:03aba3c27b116c1c2b1a131f510c50c0
+jmayer2008-07-29t14.flac:dd8d79b88d8ae2bc3c0beea9454cc227
+jmayer2008-07-29t15.flac:1344935b274f1dca38646c7a51d3a350
+
+MD5 Checksums:
+c4b9598e8590472eccb90b8e022e4662 *jmayer2008-07-29t01.flac
+a277f62ecb6ae56f722e698f462ee4aa *jmayer2008-07-29t02.flac
+40785da7a7e005a77264cdd316d8cd48 *jmayer2008-07-29t03.flac
+558b54524f451771782c2268b0b3c006 *jmayer2008-07-29t04.flac
+0ef68ecd561b938512b67f049720471c *jmayer2008-07-29t05.flac
+e4b5f7463447f3e455c577b014538e9f *jmayer2008-07-29t06.flac
+f7e513a51125244874cc9e4ed4fc2d64 *jmayer2008-07-29t07.flac
+3de72d0cdb26236bef19499572e31f83 *jmayer2008-07-29t08.flac
+c2554e433b9ee28810e955915320d2bd *jmayer2008-07-29t09.flac
+b62eb99281a7e161da85f7f1c1c1ea06 *jmayer2008-07-29t10.flac
+cea33286e6f5b0dc944e88fd695b52c9 *jmayer2008-07-29t11.flac
+1bf209829a6d1abb3d50c3077e44bb39 *jmayer2008-07-29t12.flac
+e39ba8e0e40df3e7412cbf69e2c971ff *jmayer2008-07-29t13.flac
+9a8946ff8dfcee732e12fd094f181a77 *jmayer2008-07-29t14.flac
+c862207145a4b76535735f8bb8908fb9 *jmayer2008-07-29t15.flac
+
+

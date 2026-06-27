@@ -1,0 +1,42 @@
+The Black Crowes
+Red Rocks Ampitheater
+Morrison, CO
+Aug 29th, 2021
+
+Setlist
+  
+00 intro
+01 Twice As Hard
+02 Jealous Again
+03 Sister Luck
+04 Could I've Been So Blind
+05 Seeing Things
+06 Hard to Handle (Otis Redding)
+07 Thick N' Thin
+08 She Talks to Angels
+09 Struttin' Blues
+10 Stare It Cold
+11 No Speak No Slave
+12 My Morning Song
+13 Descending
+14 Wiser Time
+15 Thorn in My Pride
+16 Sting Me
+17 Remedy
+18 Hey Hey What Can I Do (Led Zeppelin)
+
+total time: 1hr 43min
+
+notes:
+Great show!  Last time I saw them was 1995.
+It gets windy at times, especially towards the end.  
+But hey its Red Rocks, gonna be windy.  
+If it was like this on the 16th row (where I was tonight), 
+I can only imagine how windy it was up top 
+in gen admin (where I will be the next night).
+
+lineage: 
+LS-P4 + LS-12 > wav (16/44) > Audacity (mix, rendering) > flac
+
+enjoy!
+-exene

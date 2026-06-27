@@ -1,0 +1,82 @@
+Wilco
+November 5, 1999
+Bogart's - Cincinnati, OH  
+
+Source:		SBD
+Lineage:	CD-R (unknown generation)->EAC(V0.95)->WAV->FLAC Frontend,level 8(1.7.1)->FLAC
+
+ 
+DISC 1
+1. Via Chicago 5:24
+2. Candy Floss 3:00
+3. Summerteeth 3:25
+4. I'm Always in Love 3:38
+5. I Must Be High 3:25
+6. How to Fight Loneliness 4:48
+7. Hotel Arizona 4:04
+8. Red Eyed and Blue> 3:10
+9. I Got You 3:41
+10. Nothingsevergonnastandinmyway (again) 4:00
+11. She's a Jar 4:55
+12. Shot in the Arm 5:50
+13. We're Just Friends 3:26
+14. Misunderstood 7:13
+15. My Darling 4:01  
+
+DISC 2
+1. Hesitating Beauty 2:55
+2. Christ for President 4:41
+3. Banter 0:13
+4. Passenger Side 3:41
+5. Can't Stand It 4:09
+6. Banter 1:39
+7. Forget the Flowers 2:39
+8. Buried Alive 4:34
+9. New Madrid 3:44
+10. The Lonely One 3:55
+11. California Stars 4:36
+12. Monday 4:04
+13. Any Major Dude Will Tell You 4:23
+14. Kingpin 8:12
+15. Casino Queen 4:42
+16. Drums 4:19
+17. Outtasite (Outtamind) 4:05
+18. No Romance 1:38  
+
+Ripped and encoded by scottjh
+ 
+Fingerprints:
+
+wilco1999-11-05D1Track01.flac:63ca0cb0f1251c158b8e9c33d696307d
+wilco1999-11-05D1Track02.flac:09b48aa24792bf982162e0925e81744c
+wilco1999-11-05D1Track03.flac:b6c3bc25396ce5a42f2e18b1eb276a65
+wilco1999-11-05D1Track04.flac:d7458963f422710e1f5f283aba4d267e
+wilco1999-11-05D1Track05.flac:127ffc88cad329c588ddc77a006bc3c2
+wilco1999-11-05D1Track06.flac:0ecd618fce131949a8f9848fbd81be07
+wilco1999-11-05D1Track07.flac:a9c05ed62525bd09318da993a93f246d
+wilco1999-11-05D1Track08.flac:087697f17fc2225d6fcc030535340ca1
+wilco1999-11-05D1Track09.flac:7133037cdbd08ee87613a5a3441a5c99
+wilco1999-11-05D1Track10.flac:7feb391e47480cfdc196791e6cdc9135
+wilco1999-11-05D1Track11.flac:b77710f9fd85c20efcd39f2251270ad2
+wilco1999-11-05D1Track12.flac:6d4047753fd912b94131ec044e7c76aa
+wilco1999-11-05D1Track13.flac:9ed8886e67df4ab653d95570dcd9ff3c
+wilco1999-11-05D1Track14.flac:2e2cb45d29c8bb18f3cbf16f04b0a6bc
+wilco1999-11-05D1Track15.flac:db1e41967a93b07f59c5e45b19386ec1
+wilco1999-11-05D2Track01.flac:5471669266435781d3caa22b276f5cbf
+wilco1999-11-05D2Track02.flac:07a35a162e70cf2be442d66f323ad77e
+wilco1999-11-05D2Track03.flac:55c60f3129a15df2bd7820e10cd1529f
+wilco1999-11-05D2Track04.flac:b039675ca7e8221529476a9bf93cc561
+wilco1999-11-05D2Track05.flac:15e8d718f13d496902418fa03e5ef613
+wilco1999-11-05D2Track06.flac:1b6d8c76b6278488b4f62e5041e9242e
+wilco1999-11-05D2Track07.flac:129196f3103583e07a34205803c4544c
+wilco1999-11-05D2Track08.flac:0b169ea09d25ac6e45b8423f471d166f
+wilco1999-11-05D2Track09.flac:5c269669bed402401f38cfad1383305b
+wilco1999-11-05D2Track10.flac:1975173d12b0273136cc7340c3ef9b9f
+wilco1999-11-05D2Track11.flac:68121ce774088d4a57e9d5f49f835ca1
+wilco1999-11-05D2Track12.flac:7de91f90f5a84d13ee93c02b929378e4
+wilco1999-11-05D2Track13.flac:21d9189a915423441b5cb5147c4c38f7
+wilco1999-11-05D2Track14.flac:1de0048c73ca1a734395727c493dd6de
+wilco1999-11-05D2Track15.flac:6ad290f4773665e23773d210fa29ad81
+wilco1999-11-05D2Track16.flac:94515bc2b0b4086a591ad89a6f39ca9a
+wilco1999-11-05D2Track17.flac:728d248b30ac0a069542afe250c3b0c2
+wilco1999-11-05D2Track18.flac:c5fbd328ba1826ea5530b579f79d59a4

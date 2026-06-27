@@ -1,0 +1,18 @@
+101 - Intro.flac:36801b66e441b64e9691469705cc2823
+102 - Can't Stop Now.flac:4e357556cad87fac3c98e54f0ab1f289
+103 - Silenced By The Night.flac:e426ddd1634fc8e8ed7dddc5f3b565b4
+104 - Bend and Break.flac:8f1ea8ca6964e0590ee694288ecbd570
+105 - Nothing in My Way.flac:682a27f5e942ef3afadfc0385c05f0ba
+106 - We Might as Well Be Strangers.flac:cc111a0888085410574b0e63fe7265df
+107 - The Way I Feel.flac:7e5bdc1500ba990e1cfcf3f0a53b9ed2
+108 - You Are Young.flac:764dfe9749ed0daad5468a3877b63821
+109 - Everybody's Changing.flac:6a301d8709edc1c77e8b76a6528ad82a
+110 - A Bad Dream.flac:3b52afdc17050227cdad387951fa3926
+111 - Perfect Symmetry.flac:12dfd6bd7ecdbc5665986e49f5c28588
+112 - Is It Any Wonder.flac:c0f38bc7fd78e29d1224e9a1db572518
+113 - This Is the Last Time.flac:c48f06d933952d7dee2ee978a4df7f52
+114 - Crystal Ball.flac:8e834ed0d6a69d1eaae6be664d23c591
+115 - Somewhere Only We Know.flac:9077ae3bf2fe148308a66ff163237081
+116 - Sovereign Light Café.flac:582007c752437d5fbfe2ffd77465a308
+117 - Bedshaped.flac:f8aa9d0cc7382ee07d8c10b3ca686bb3
+118 - Outro.flac:8a1eb6e21791f8ae4a643f91a624b5b9

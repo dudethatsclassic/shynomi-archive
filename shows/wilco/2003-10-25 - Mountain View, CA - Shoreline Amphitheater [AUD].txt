@@ -1,0 +1,27 @@
+Bridge School Benefit XVII  25-Oct-2003
+Shoreline Amphitheatre, Mountain View CA
+
+Master: Schoeps ccm4's > Aerco MP-2 > Sony SBM-1 > DATM (Sony TCD-D
+DAT>CDR Transfer: DAT Master > Audiomedia III > Mac 9600 > ProTools 5.1 > Waves L2 Plug-In > Adaptec Jam > CDR
+CDR>FLAC Transfer: CDR > MacBook Pro > AIFF > xACT (V. 1.62) > FLAC
+
+Wilco:
+11. One By One
+12. New Madrid
+13. I Am Trying To Break Your Heart
+14. She's a Jar
+15. Company In My Back
+16. I'm The Man Who Loves You
+17. We've Been Had
+18. Christ For President
+
+bridge2003-10-25d1t11.flac:a6840916dae762e5a4180308597bdff4
+bridge2003-10-25d1t12.flac:6bdeb9b805c94c0d2de8ce88641826d1
+bridge2003-10-25d1t13.flac:984c18bd530e40635262899c8f13da1c
+bridge2003-10-25d1t14.flac:c390e5d7e3d251967371fa054f46ef8f
+bridge2003-10-25d1t15.flac:3fa2634bf3fa006fa617ee9ac0df976b
+bridge2003-10-25d1t16.flac:ef9fb28cbb011410de19b1bb94f836ae
+bridge2003-10-25d1t17.flac:ac93abf52dca92c25ad4c3c3695f2d96
+bridge2003-10-25d1t18.flac:08c7feaff8d9263a370fcb2c037cc942
+
+Note: These tracks were taken from a torrent containing all the bands that played the show that day. The torrent was seeded at Lossless Legs, May 2011.

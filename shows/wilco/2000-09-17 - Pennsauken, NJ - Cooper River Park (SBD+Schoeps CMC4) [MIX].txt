@@ -1,0 +1,40 @@
+Wilco
+Cooper River Park, Pennsauken NJ
+2000-09-17
+
+(Mix DSBD -&- Schoeps CMC4/MK41)
+
+01. Intro > Airline To Heaven  
+02. Feed Of Man 
+03. Christ For President  
+04. Remember The Mountain Bed   
+05. California Stars
+06. Hesitating Beauty  
+07. Secret Of The Sea   
+08. Red-Eyed And Blue  
+09. I Got You (At The End Of The Century)  
+10. Someone Else's Song 
+11. How To Fight Loneliness   
+12. Hotel Arizona   
+13. I'm Always In Love   
+14. She's A Jar 
+15. A Shot In The Arm   
+16. Misunderstood  
+17. Casino Queen  
+18. Hoodoo Voodoo   
+19. Outtasite (Outta Mind)  
+
+-- Source One:
+- A 'billydee master DAT' 
+- Recording Gear: Schoeps CMC4/MK41 > Custom Power Supply > Sony D7 DAT Master @ 16bit/48kHz
+- Processing:Master DAT > Tascam DA20 > JB3 > Adobe Audition > CDWAV > TLH FLAC 8
+
+-- Source Two:
+- dsbd>dat>cdr>sound forge 7.0>wav>flac  
+
+-- *Final Mix DSBD -&-  Schoeps CMC4/MK41 > Spectral Layers 4.0 (some slight wind reduction on AUD) > Samplitude Pro X3 (Track volumes, Mix) > Sound Forge Pro 11 (final edits,iZotope mastering suite) > TLH (SBE's,ffp,md5sums)
+
+Notes: Still some audible wind present from Aud not overbearing or ruining the listening experience.
+Thanks to Billydee for the recording and the unknown DSBD taper much appreciated two very nice recordings. The DSBD uploader did mention he got the DSBD from Bill D. the same Billy Dee not sure.
+
+KeoruacAW/Zayver 2022-2-18

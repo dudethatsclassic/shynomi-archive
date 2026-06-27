@@ -37,9 +37,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Athens, GA",
       "venue": "Unknown Venue",
-      "notes": "unk · jon wells",
+      "notes": "unk \u00b7 jon wells",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1986-02-13 - Athens, GA - Unknown Venue (unk) (jon wells) [AUD].txt"
     },
     {
       "year": 1987,
@@ -50,9 +51,10 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "The Central",
-      "notes": "ANA(3) · unk",
+      "notes": "ANA(3) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1987-05-23 - Iowa City, IA - The Central - ANA(3) (unk) [AUD].txt"
     },
     {
       "year": 1988,
@@ -63,9 +65,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Eeklo, Belgium",
       "venue": "De Media",
-      "notes": "ANA(1) · Walkman · bobfather",
+      "notes": "ANA(1) \u00b7 Walkman \u00b7 bobfather",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-03-26 - Eeklo, Belgium - De Media - ANA(1) (Walkman) (bobfather) [AUD].txt"
     },
     {
       "year": 1988,
@@ -78,7 +81,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-06-19 - Charlottesville, VA - Trax  [SBD].txt"
     },
     {
       "year": 1988,
@@ -89,9 +93,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Chestnut Cabaret",
-      "notes": "Schoeps CMC4 · unk",
+      "notes": "Schoeps CMC4 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-06-23 - Philadelphia, PA - Chestnut Cabaret (Schoeps CMC4) (unk) [AUD].txt"
     },
     {
       "year": 1989,
@@ -102,9 +107,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Frankfurt, Germany",
       "venue": "Cookys",
-      "notes": "ANA(1) · Sony Walkman · a.c.",
+      "notes": "ANA(1) \u00b7 Sony Walkman \u00b7 a.c.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-05-20 - Frankfurt, Germany - Cookys - ANA(1) (Sony Walkman) (a.c.) [AUD].txt"
     },
     {
       "year": 1990,
@@ -115,9 +121,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Barrymore Theatre",
-      "notes": "ANA(1) · unk · james l.",
+      "notes": "ANA(1) \u00b7 unk \u00b7 james l.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-10-20 - Madison, WI - Barrymore Theatre - ANA(1) (unk) (james l.) [AUD].txt"
     },
     {
       "year": 1990,
@@ -128,9 +135,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Cabooze",
-      "notes": "ANA(x) · bobfather",
+      "notes": "ANA(x) \u00b7 bobfather",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-10-23 - Minneapolis, MN - Cabooze - ANA(x) (bobfather) [FM].txt"
     },
     {
       "year": 1991,
@@ -141,9 +149,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "University of MN",
-      "notes": "Great · 1 · unk",
+      "notes": "Great \u00b7 1 \u00b7 unk",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-10-11 - Minneapolis, MN - University of MN - Great Hall - ANA(1) (unk) [AUD #2].txt"
     },
     {
       "year": 1991,
@@ -154,9 +163,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "notes": "AUD(M) · loughney transfer",
+      "notes": "AUD(M) \u00b7 loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-12-23 - Minneapolis, MN - First Avenue - AUD(M) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1992,
@@ -180,9 +190,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Ave",
-      "notes": "ANA(1) · unk",
+      "notes": "ANA(1) \u00b7 unk",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-12-22 - Minneapolis, MN - First Ave - ANA(1) (unk) [AUD #2].txt"
     },
     {
       "year": 1993,
@@ -206,9 +217,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Bayfront Park Amphitheatre",
-      "notes": "SS-DSM 6P · datfly",
+      "notes": "SS-DSM 6P \u00b7 datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-06-15 - Miami, FL - Bayfront Park Amphitheatre (SS-DSM 6P) (datfly) [AUD].txt"
     },
     {
       "year": 1993,
@@ -219,9 +231,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Aladdin Theater (Sony Stereo Mic)",
-      "notes": "CASS(M) · scott tillotson",
+      "notes": "CASS(M) \u00b7 scott tillotson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-08-30 - Las Vegas, NV - Aladdin Theater (Sony Stereo Mic) - CASS(M) (scott tillotson) [AUD].txt"
     },
     {
       "year": 1993,
@@ -232,9 +245,10 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Palladium",
-      "notes": "ANA(1) · jontebus",
+      "notes": "ANA(1) \u00b7 jontebus",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-22 - Stockholm, Sweden - Palladium - ANA(1) (jontebus) [AUD].txt"
     },
     {
       "year": 1993,
@@ -245,9 +259,10 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Pelham, AL",
       "venue": "Oak Mountain Amphitheatre",
-      "notes": "DAT(M) · Sonic Studios · unk",
+      "notes": "DAT(M) \u00b7 Sonic Studios \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1993-11-06 - Pelham, AL - Oak Mountain Amphitheatre - DAT(M) (Sonic Studios) (unk) [AUD24].txt"
     },
     {
       "year": 1995,
@@ -258,9 +273,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St.Paul, MN",
       "venue": "Midway Stadium",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-08-17 - St.Paul, MN - Midway Stadium - ANA(x) (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -273,7 +289,8 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom",
       "notes": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-08-25 - Chicago, IL - Aragon Ballroom [preFM].txt"
     },
     {
       "year": 1995,
@@ -284,9 +301,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-12 - San Francisco, CA - The Warfield (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 1995,
@@ -299,7 +317,8 @@ const ARTIST_DATA = {
       "venue": "Liquid Room",
       "notes": "DAT(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-11-15 - Tokyo, Japan - Liquid Room - DAT(M) [AUD].txt"
     },
     {
       "year": 1996,
@@ -310,9 +329,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "notes": "DAT(M) · SS-DSM6 · jay saari",
+      "notes": "DAT(M) \u00b7 SS-DSM6 \u00b7 jay saari",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-22 - Minneapolis, MN - First Avenue - DAT(M) (SS-DSM6) (jay saari) [AUD].txt"
     },
     {
       "year": 1997,
@@ -323,9 +343,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tramps",
-      "notes": "DAT(M) · unk",
+      "notes": "DAT(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-04-23 - New York, NY - Tramps - DAT(M) (unk) [AUD].txt"
     },
     {
       "year": 1997,
@@ -338,7 +359,8 @@ const ARTIST_DATA = {
       "venue": "Late Show with David Letterman",
       "notes": "VHS(2)",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-05-09 - New York, NY - Late Show with David Letterman - VHS(2) [TV].txt"
     },
     {
       "year": 1997,
@@ -351,7 +373,8 @@ const ARTIST_DATA = {
       "venue": "Grand Forks Prom",
       "notes": "unk",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-06-28 - Grand Forks, ND - Grand Forks Prom (unk) [SBD].txt"
     },
     {
       "year": 1998,
@@ -364,7 +387,8 @@ const ARTIST_DATA = {
       "venue": "The Late Show with David Letterman",
       "notes": "VHS(2)",
       "version": "TV",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1998-05-20 - New York, NY - The Late Show with David Letterman - VHS(2) [TV].txt"
     },
     {
       "year": 2011,
@@ -375,9 +399,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Sheffield Garden Walk",
-      "notes": "CA-14 · brian emerick",
+      "notes": "CA-14 \u00b7 brian emerick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2011-07-23 - Chicago, IL - Sheffield Garden Walk (CA-14) (brian emerick) [AUD24].txt"
     },
     {
       "year": 2017,
@@ -388,9 +413,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Plymouth, MN",
       "venue": "Hilde Performance Center",
-      "notes": "AKG CK63s · dina",
+      "notes": "AKG CK63s \u00b7 dina",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-08-19 - Plymouth, MN - Hilde Performance Center (AKG CK63s) (dina) [AUD].txt"
     },
     {
       "year": 2018,
@@ -401,9 +427,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Irving TX",
       "venue": "Toyota Music Pavilion",
-      "notes": "AT943 · whotapes",
+      "notes": "AT943 \u00b7 whotapes",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-07-17 - Irving TX - Toyota Music Pavilion (AT943) (whotapes) [AUD].txt"
     },
     {
       "year": 2021,
@@ -414,9 +441,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Aurora, IL",
       "venue": "The Piazza",
-      "notes": "Edirol R-07 · lucca",
+      "notes": "Edirol R-07 \u00b7 lucca",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-08-21 - Aurora, IL - The Piazza (Edirol R-07) (lucca) [AUD].txt"
     },
     {
       "year": 2021,
@@ -427,9 +455,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "BMO Harris Pavilion",
-      "notes": "Summerfest · Edirol R-07 · lucca",
+      "notes": "Summerfest \u00b7 Edirol R-07 \u00b7 lucca",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-09-09 - Milwaukee, WI - BMO Harris Pavilion - Summerfest (Edirol R-07) (lucca) [AUD].txt"
     },
     {
       "year": 2022,
@@ -440,9 +469,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Waukegan, IL",
       "venue": "Genesee Theatre",
-      "notes": "Edirol R-07 · lucca",
+      "notes": "Edirol R-07 \u00b7 lucca",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-12 - Waukegan, IL- Genesee Theatre (Edirol R-07) (lucca) [AUD].txt"
     },
     {
       "year": 2022,
@@ -453,9 +483,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Northern Lights Theater",
-      "notes": "Edirol R-07 · lucca",
+      "notes": "Edirol R-07 \u00b7 lucca",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-13 - Milwaukee, WI - Northern Lights Theater (Edirol R-07) (lucca) [AUD].txt"
     },
     {
       "year": 2022,
@@ -466,9 +497,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Romeoville, IL",
       "venue": "Romeofest",
-      "notes": "Edirol R-07 · lucca",
+      "notes": "Edirol R-07 \u00b7 lucca",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-08-06 - Romeoville, IL - Romeofest (Edirol R-07) (lucca) [AUD].txt"
     },
     {
       "year": 2022,
@@ -479,9 +511,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Des Plaines, IL",
       "venue": "Events Center",
-      "notes": "Rivers · Edirol R-07 · lucca",
+      "notes": "Rivers \u00b7 Edirol R-07 \u00b7 lucca",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-10-29 - Des Plaines, IL - Events Center - Rivers Casino (Edirol R-07) (lucca) [AUD].txt"
     },
     {
       "year": 2023,
@@ -492,9 +525,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Cedar Park, TX",
       "venue": "Lakeline Park",
-      "notes": "MM-HLS0s · rjlrjlrjl",
+      "notes": "MM-HLS0s \u00b7 rjlrjlrjl",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-04-29 - Cedar Park, TX - Lakeline Park (MM-HLS0s) (rjlrjlrjl) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -505,9 +539,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "Plaza de Ceasar Chavez",
-      "notes": "Schoeps MK4 · loughney",
+      "notes": "Schoeps MK4 \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-07-21 - San Jose, CA - Plaza de Ceasar Chavez (Schoeps MK4) (loughney) [AUD].txt"
     },
     {
       "year": 2023,
@@ -518,9 +553,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Winston Salem, NC",
       "venue": "Bailey Park",
-      "notes": "Gears · CA-11 · ultramega",
+      "notes": "Gears \u00b7 CA-11 \u00b7 ultramega",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-08-05 - Winston Salem, NC - Bailey Park - Gears and Guitars Festival (CA-11) (ultramega) [AUD].txt"
     },
     {
       "year": 2023,
@@ -531,9 +567,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Sandy Springs GA",
       "venue": "City Green",
-      "notes": "Zoom H4n · unk",
+      "notes": "Zoom H4n \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-09-30 - Sandy Springs GA - City Green (Zoom H4n) (unk) [AUD].txt"
     },
     {
       "year": 2023,
@@ -544,9 +581,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Ocala, FL",
       "venue": "Reilly Arts Center",
-      "notes": "Edirol R09 · the passenger",
+      "notes": "Edirol R09 \u00b7 the passenger",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-11-17 - Ocala, FL - Reilly Arts Center (Edirol R09) (the passenger) [AUD].txt"
     },
     {
       "year": 2024,
@@ -557,9 +595,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Celeste Center",
-      "notes": "CA-14 · live2cd",
+      "notes": "CA-14 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-07-26 - Columbus, OH - Celeste Center (CA-14) (live2cd) [AUD].txt"
     },
     {
       "year": 2024,
@@ -570,9 +609,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Brick & Mortar",
-      "notes": "Schoeps MK4 · loughney",
+      "notes": "Schoeps MK4 \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-10-10 - San Francisco, CA - Brick & Mortar (Schoeps MK4) (loughney) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -583,9 +623,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Homer, NY",
       "venue": "Center for the Arts",
-      "notes": "Core Sound Mics · boeditaper",
+      "notes": "Core Sound Mics \u00b7 boeditaper",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-10-25 - Homer, NY - Center for the Arts (Core Sound Mics) (boeditaper) [AUD].txt"
     },
     {
       "year": 2024,
@@ -596,9 +637,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Amoeba Music",
-      "notes": "SP-CMC-4U · unk",
+      "notes": "SP-CMC-4U \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-11-13 - Hollywood, CA - Amoeba Music (SP-CMC-4U) (unk) [AUD].txt"
     },
     {
       "year": 2025,
@@ -609,9 +651,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Pontiac, MI",
       "venue": "Flagstar Strand Theater",
-      "notes": "Edirol R09 · dcd6575",
+      "notes": "Edirol R09 \u00b7 dcd6575",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-04-19 - Pontiac, MI - Flagstar Strand Theater (Edirol R09) (dcd6575) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -622,9 +665,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "West Chester Township, OH",
       "venue": "National VOA Museum of Broadcasting",
-      "notes": "CA-14 · live2cd",
+      "notes": "CA-14 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-07-04 - West Chester Township, OH - National VOA Museum of Broadcasting (CA-14) (live2cd) [AUD].txt"
     },
     {
       "year": 2025,
@@ -635,9 +679,10 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Uncasville, CT",
       "venue": "Mohegan Sun Arena",
-      "notes": "SP-CMC-8c · farve4",
+      "notes": "SP-CMC-8c \u00b7 farve4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-12-14 - Uncasville, CT - Mohegan Sun Arena (SP-CMC-8c) (farve4) [AUD].txt"
     }
   ],
   "misc": [

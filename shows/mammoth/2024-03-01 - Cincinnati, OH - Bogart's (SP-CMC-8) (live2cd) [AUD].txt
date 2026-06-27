@@ -1,0 +1,56 @@
+﻿Mammoth WVH
+March 1st, 2024.
+Bogart's - Cincinnati, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   20ft back from left stack; mics mounted on baseball hat brim.
+Source:     SP-CMC-8 Cardioids (4.7k mod) > SP-SPSB-11 (@16Hz) > Sony PCM-A10 (24 bit @48kHz) >
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Sony PCM-A10 > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (1:27:41)
+
+01. I'm Alright					4:27
+02. Right?					5:37
+03. Epiphany					5:22
+04. Miles Above Me				4:36
+05. Like A Pastime				4:51
+06. Horribly Right				4:27
+07. Optimist					4:55
+08. Stone					7:10
+09. Distance ^					5:12
+10. Think It Over				5:47
+11. Mammoth					5:58
+12. You're To Blame				4:21
+13. Take A Bow					7:24
+14. ~ Encore ~					1:06
+15. Another Celebration At The End 		4:50
+    Of The World
+16. Band introductions				1:46
+17. Don't Back Down 				5:18
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+^  Wolf solo acoustic.
+
+Mammoth WVH's first official headline tour. The show featured a great balanced
+split of 8 from each album. While this turned out pretty good, it sounded very
+flat to my ears and thats because I was extremely close to the PA using my
+cardioids in a relatively small room (rookie mistake). However, I did not have
+my omnis on me - so I had to make due. I used the stereo expander feature in
+Adobe Audition (at 200%) to give the recording a little space and breathing room
+from the "flat" capture that was bothering me. To my ears, it sounds slightly
+better now. I have been tinkering with this for 2 weeks and I think this is
+the happiest I'll be with it. I also had to add some bass in EQ as there was not
+much in the original recording. I also removed some unnecessary claps and screams
+with RX7 when needed in post. This show was sold out and packed in tight!
+
+Nita Strauss opened. [recorded].
+
+---------------------------------------------------------------------------------------------------------
+For more information on Mammoth WVH, please visit:
+
+https://www.mammothwvh.com/

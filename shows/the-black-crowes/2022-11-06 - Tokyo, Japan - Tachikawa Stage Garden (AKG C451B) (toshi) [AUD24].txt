@@ -1,0 +1,68 @@
+The Black Crowes
+Tachikawa Stage Garden
+Tokyo, Japan
+November 6, 2022
+
+** 24 BIT **
+
+Source:  AKG C451B cardioids > Zoom F6 @ 32 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > iZotope MBIT+ (dithered
+and downsampled to 24 bit/48 kHz) > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging) 
+Location:  Mics @ 160 cm high, 7th row, 6 seats to the right of dead center
+Recorded by:  toshi
+Mastered by:  Dennis Orr
+
+Setlist: (1:36:27)
+01 Intro Music ["Get Up (I Feel Like Being A) Sex Machine"]
+02 Twice As Hard
+03 Jealous Again
+04 Chat
+05 Sister Luck
+06 Could I've Been So Blind
+07 Seeing Things
+08 Chat
+09 Hard To Handle
+10 Thick N' Thin
+11 She Talks To Angels
+12 Struttin' Blues
+13 Stare It Cold
+14 Go Faster
+15 Goodbye Daughters Of The Revolution
+16 Wiser Time
+17 Thorn In My Pride
+18 Remedy
+19 Encore Break
+- Encore -
+20 Good Morning Captain
+21 Crowd
+
+Chris Robinson – lead vocals, harmonica, acoustic guitar, & percussion
+Rich Robinson – guitar & backing vocals
+Sven Pipien – bass & backing vocals
+Isaiah Mitchell – guitar & backing vocals
+Joel Robinow – keyboards & backing vocals
+Brian Griffin – drums & percussion
+Leslie Grant - backing vocals
+Mackenzie Adams - backing vocals
+
+tbc2022-11-06t01.flac:016dfa671b60a25a8f8603d572e2d037
+tbc2022-11-06t02.flac:e66aefe74e059ed2069a056daf5e108f
+tbc2022-11-06t03.flac:ccd20c6c4d7308c198b9b57895d52576
+tbc2022-11-06t04.flac:d28737d95c515347e1875a29c51f6ba4
+tbc2022-11-06t05.flac:40f0a629bb31e6fe24258e70ff531fa9
+tbc2022-11-06t06.flac:a411cc23b674f610bcb8a93bc3ca0258
+tbc2022-11-06t07.flac:8784bac73650e7db3ef89ae3b41e8ed5
+tbc2022-11-06t08.flac:45a7ec6627af195c5df72452e903962d
+tbc2022-11-06t09.flac:540f9481f59c044810c99d061bd5518a
+tbc2022-11-06t10.flac:496be8f21d96a7c4d18bcce96c213144
+tbc2022-11-06t11.flac:96128173f34acf8b2a008170409a25f1
+tbc2022-11-06t12.flac:2283d4f52604ee6f5dc28a78792fb25b
+tbc2022-11-06t13.flac:5cfb57b380018ee38f3404099b19a8b2
+tbc2022-11-06t14.flac:22b415c437d296db55ee45ee93cfc869
+tbc2022-11-06t15.flac:aafbcb95354c2ff809a9b4c24a04baa6
+tbc2022-11-06t16.flac:bdc896c61a6060080d458af5a4d6dc72
+tbc2022-11-06t17.flac:9f48cf1a7257d52fccbfd8dad81811fc
+tbc2022-11-06t18.flac:1c3b8d507aaa14e3613caf21f9e5d011
+tbc2022-11-06t19.flac:6a6a331ba5f51e6f68119da2d20cc122
+tbc2022-11-06t20.flac:8d076d3155bd8d0e7cf9f0d496cf0040
+tbc2022-11-06t21.flac:231c79348d17e339823f9c748710504f

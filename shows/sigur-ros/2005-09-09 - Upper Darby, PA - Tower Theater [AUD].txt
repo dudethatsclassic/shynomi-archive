@@ -1,0 +1,41 @@
+Sigur Ros
+Tower Theater, Upper Darby, PA
+09-09-2005
+[91:16] 
+ 
+
+sound : A
+
+source : JB (AUD) > CDr
+  	
+format :
+remark : flat
+archive : CD101/102-aud
+
+takk
+glósóli
+svefn-g-englar
+sæglópur
+sé lest
+gong
+andvari
+samskeyti
+viðrar vel til loftárása
+samskifa
+popplagið
+outro
+  	
+1:34
+6:46
+11:16
+8:30
+9:09
+5:20
+7:18
+7:34
+10:18
+9:09
+12:31
+1:51
+ 
+lineage : SP-CMC-8 (AT933's) > SP-SPSB-6 > NJB3

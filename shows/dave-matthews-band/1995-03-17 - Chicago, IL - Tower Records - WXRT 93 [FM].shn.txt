@@ -1,0 +1,31 @@
+Dave Matthews Band (acoustic full band)
+March 17, 1995
+Tower Records - WXRT 93 FM radio hour
+Chicago, IL
+
+Source		FM > analog
+
+Analog > DAT:	Nakamichi CR7 > Lucid A/D > Fostex D5
+		Mark Lynn
+
+Conversion:	Archive Python DDS/dat2wav > .wav; no soundcard
+		Soundforge for resampling & CDWAV used for tracking
+		Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:		Intro					00:30.67
+02:		So Much To Say			05:24.57
+03:		Dancing Nancies			06:14.30
+04:		Rhyme And Reason			06:57.72
+05:		Pay For What You Get		06:43.47
+06:		Ants Marching			05:15.68
+07:		Announcer's comments		01:50.46
+
+Total						60:09
+
+Notes:
+----------
+*	There is a thud in PFWYG.
+
+*  compiled by Louie Rendek <ljr7@po.cwru.edu> on March 3, 2002.
