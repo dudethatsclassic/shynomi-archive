@@ -62,7 +62,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Knitting Factory",
-      "notes": "DAT(M) \u00b7 DPA 4061 \u00b7 ed davis",
+      "notes": "DAT(M) · DPA 4061 · ed davis",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-01-24 - Hollywood, CA - Knitting Factory - DAT(M) (DPA 4061) (ed davis) [AUD].txt"
@@ -118,7 +118,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Cream Vintage",
-      "notes": "DAT(M) \u00b7 DSM-6S \u00b7 brian graves",
+      "notes": "DAT(M) · DSM-6S · brian graves",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-03-17 - Austin, TX - Cream Vintage - DAT(M) (DSM-6S) (brian graves) [AUD].txt"
@@ -132,7 +132,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "North Star Bar",
-      "notes": "MD(M) \u00b7 AT PRO-95 \u00b7 dan saytar",
+      "notes": "MD(M) · AT PRO-95 · dan saytar",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-05-03 - Philadelphia, PA - North Star Bar - MD(M) (AT PRO-95) (dan saytar) [AUD].txt"
@@ -160,7 +160,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "DC9",
-      "notes": "CSB \u00b7 john riviello",
+      "notes": "CSB · john riviello",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-05-05 - Washington, D.C. - DC9 (CSB) (john riviello) [AUD].txt"
@@ -202,7 +202,7 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Kiewit, Belgium",
       "venue": "Pukkelpop Festival",
-      "notes": "Kempische \u00b7 M \u00b7 OKM-IIR",
+      "notes": "Kempische · M · OKM-IIR",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-08-19 - Kiewit, Belgium - Pukkelpop Festival, Kempische Steenweg [AUD].txt"
@@ -230,7 +230,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "El Rey",
-      "notes": "DPA 4063 \u00b7 dabbler",
+      "notes": "DPA 4063 · dabbler",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-03-12 - Los Angeles, CA - El Rey (DPA 4063) (dabbler) [AUD].txt"
