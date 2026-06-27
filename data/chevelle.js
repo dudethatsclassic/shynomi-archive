@@ -36,7 +36,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Daytona Beach, FL",
       "venue": "Welcome to Rockville Festival",
-      "notes": "SP-CMC-8 \u00b7 porcelmc",
+      "notes": "SP-CMC-8 · porcelmc",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-11-12 - Daytona Beach, FL - Welcome to Rockville Festival (SP-CMC-8) (porcelmc) [AUD].txt"
@@ -50,7 +50,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Cal Coast Credit Union Open Air Theatre",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-10-02 - San Diego, CA - Cal Coast Credit Union Open Air Theatre (DPA 4081) (faninor) [AUD24].txt"
@@ -64,7 +64,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Wheatland, CA",
       "venue": "Hard Rock Live",
-      "notes": "WAV(M) \u00b7 SP-CMC-4U \u00b7 vibriodixire",
+      "notes": "WAV(M) · SP-CMC-4U · vibriodixire",
       "version": "AUD #1",
       "format": "FLAC 24",
       "textFile": "2024-04-21 - Wheatland, CA - Hard Rock Live - WAV(M) (SP-CMC-4U) (vibriodixire) [AUD #1].txt"
@@ -78,7 +78,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "Suburban Park Stage",
-      "notes": "NYS \u00b7 Schoeps MK4 \u00b7 beatkilla",
+      "notes": "NYS · Schoeps MK4 · beatkilla",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-08-24 - Syracuse, NY - Suburban Park Stage - NYS Fairgrounds (Schoeps MK4) (beatkilla) [AUD24].txt"
@@ -92,7 +92,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Sonic Temple Festival",
-      "notes": "Temple \u00b7 Schoeps MK41 \u00b7 jesse mc",
+      "notes": "Temple · Schoeps MK41 · jesse mc",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-05-11 - Columbus, OH - Sonic Temple Festival - Temple Stage (Schoeps MK41) (jesse mc) [AUD24].txt"
@@ -106,7 +106,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Fillmore Auditorium",
-      "notes": "M \u00b7 DPA 4061 \u00b7 loudpuppy",
+      "notes": "M · DPA 4061 · loudpuppy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-09-16 - Denver, CO - Fillmore Auditorium (M) (DPA 4061) (loudpuppy) [AUD].txt"
