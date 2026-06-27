@@ -1,0 +1,58 @@
+R.E.M.
+The Palace Of Auburn Hills
+Auburn Hills, MI
+Sunday 28 September 2003
+
+Support: Sparklehorse
+
+Venue was closed in 2017 and fully demolished in July 2020
+
+Lineage: CDR->EAC->WAV->Over the interwebs to me-> iZotope RX8 Advanced (deconstruct, azimuth adjustment) -> Ozone 9 (EQ adjustment) -> Audacity 2.4.2 (split tracks and export to FLAC Level 8) -> Foobar2000 1.6.1 (Files tagged)
+
+Unknown taper and equipment 
+
+CDR's ripped to WAV kindly provided to me by Nakeddave. Seeded to Dime by eckythump 19 October 2020.
+
+01 - Finest Worksong
+02 - So Fast, So Numb
+03 - Driver 8
+04 - All The Way To Reno (You're Gonna Be A Star)
+05 - Animal
+06 - What's The Frequency, Kenneth?
+07 - Michael talks - Sweet Emotion (snippet, Aerosmith cover)
+08 - Shaking Through
+09 - Michael talks
+10 - Bad Day
+11 - The One I Love
+12 - Fall On Me
+13 - Orange Crush
+14 - So. Central Rain (I'm Sorry)
+15 - Find The River
+16 - Michael talks
+17 - Losing My Religion
+18 - At My Most Beautiful
+19 - She Just Wants To Be 
+20 - Walk Unafraid
+21 - Man On The Moon
+22 - Encore break
+23 - Everybody Hurts
+24 - Nightswimming
+25 - Imitation Of Life
+26 - Michael talks - band intros
+27 - Radio Free Europe
+28 - It's The End Of The World As We Know It (And I Feel Fine)
+
+Michael Stipe - Vocals, harmonica
+Peter Buck - Guitar, mandolin
+Mike Mills - Bass Guitar, keyboards, backing vocals
+Scott McCaughey - Guitar, backing vocals
+Bill Rieflin - Drums
+Ken Stringfellow - Keyboards, guitar
+
+Show notes: After starting September in the Pacific time zone, the greatest hits tour rolls into the Eastern time zone much to Michael's delight (even though the previous days show was also in the Eastern time zone), and the band continue rolling out the chestnuts, including a very rarely performed 'Shaking Through' in the first half of the main set for the second time in two days, and 'Radio Free Europe' in the encore. Michael is even in such a good mood he tells the audience a story about seeing Aerosmith when he was 15 in 1975, then tries to sing a few bars of 'Sweet Emotion' which the band joins in on, but doesn't get far. Perhaps Toys In The Attic would have been better? He does reveal a little known fact however, that 'Me In Honey' is a re-write of Sweet Emotion. That little snippet has never been well publicised. A terrific show.
+
+Recording notes: This is not the greatest recording from this tour, but it's not bad. While it's quite clear and crisp, it unfortunately suffered from distortion during the louder portions of the music. I ran the 'deconstruct' module in iZotope RX8 to try and eliminate it, and it helped, but it's not a miracle worker. Still, it's very listenable and one you'll enjoy listening to, though if you want just the best 2003 recordings in your collection, this is not the one for you. Samples provided so you can decide for yourself.
+
+Torrent notes: This is another 2003 show that has never been circulated widely, circulating amongst a small group of collectors and never onto the wider torrent circuit, so this is its Dime debut. Thanks as always to Nakeddave for supplying the wavs we can all enjoy.
+
+And of course http://www.remtimeline.com/ for all your R.E.M. setlist needs!

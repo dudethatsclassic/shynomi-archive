@@ -1,0 +1,45 @@
+rem1983-08-21.flac16 Landover, MD - Capital Centre
+
+R.E.M. 1983-08-21 Capital Centre, Landover, MD
+R.E.M.
+Capital Centre, Landover, MD
+Source: online trade WAV's -> Switch Sound File Converter -> FLAC's (level 6)
+
+Set:
+
+01. Wolves, Lower
+02. Moral Kiosk
+03. Pilgrimage
+04. Talk About The Passion
+05. Sitting Still
+06. Harborcoat
+07. Catapult
+08. Gardening At Night
+09. Radio Free Europe
+10. Carnival Of Sorts (Boxcars) 
+
+Total length: 34 min 17 sec
+
+Line-up: Buck/Berry/Mills/Stipe
+
+
+rem1983-08-21d1t01 Wolves, Lower.flac:9bec49d863ee13ae96e6401de5d117ae
+rem1983-08-21d1t02 Moral Kiosk.flac:a5c07c2b1588da27ccec0099f6ce697a
+rem1983-08-21d1t03 Pilgrimage.flac:3e13c2d3ceeb52adf8bbf735cf950262
+rem1983-08-21d1t04 Talk About The Passion.flac:eef9c2f16700ec6f99fdc365f1b4cf69
+rem1983-08-21d1t05 Sitting Still.flac:87c9552762297a1bf7c2a4e77651787b
+rem1983-08-21d1t06 Harborcoat.flac:c794813aae1ae57dd18609448a0fd7af
+rem1983-08-21d1t07 Catapult.flac:03e45762685b7d83bf251b230657909a
+rem1983-08-21d1t08 Gardening At Night.flac:902337a584b0cd5c16b415655884dfb8
+rem1983-08-21d1t09 Radio Free Europe.flac:66c5e2f539b6168b7e9192e4e01d540a
+rem1983-08-21d1t10 Carnival Of Sorts (Boxcars).flac:5cc0f36df316b56dbfbd381a7838b75e
+
+
+No artwork
+
+Notes: in 1983, R.E.M. interrupted their Murmur tour, much to their own chagrin, to support the Police during 7 shows.
+Three of those performances by R.E.M. were recorded. This is the third. The sound is obviously AUD, and of average quality. 
+This recording has a hollow feel to it, indicative of a much larger venue than the band usually played. Attendance is estimated at 18,000.
+Thanks, as always, to the Timeline for much of the info.
+
+Info file by martine_holl October 2011

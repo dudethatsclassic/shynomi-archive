@@ -1,0 +1,43 @@
+REM
+Michael Stipe: lead vocals, harmonica 
+Peter Buck: guitar 
+Mike Mills: bass guitar, keyboards, piano, backing vocals, occasional co-lead vocals 
+Bill Berry: drums, percussion, backing vocals, occasional bass guitar and keyboards 
+
+the Living Room
+Providence, R.I. USA
+October 13, 1983
+master audience recording
+runtime: 81:15 (minutes/ seconds)
+
+1: moral kiosk 3:20
+2: catapult 3:53
+3: letter never sent 3:02
+4: pilgrimage 4:19
+5: seven Chinese brothers 4:27
+6: talk about the passion 3:06
+7: south central rain 3:27
+8: sitting still 3:30 (Mitch Easter joins on guitar)
+9: harborcoat 4:10
+10: pretty persuasion 4:13
+11: west of the fields 3:10
+12: just a touch 2:33
+13: gardening at night 3:38
+14: 9-9 2:56
+15: windout 2:32
+16: second guessing 3:05 (pause after)
+17: radio free europe 3:34 (missing 1st few seconds)
+18: theme from Barney Miller :31 
+19: wolves, lower 5:25 (paused before)
+20: 20th century boy 2:52 (T. Rex)
+21: crazy 2:56 (Pylon) pause after
+22: 1,000,000 2:56 pause after
+23: camera 4:39 (missing 1st few notes)
+24: I got you babe 2:59 (Sonny and Cher) end cuts
+
+ mono auto levelling cassette recorder >
+TDK-SA 90 minute cassette >
+Tascam 112 > soundforge 16 bit/ 44.1 khz wav) >
+flac (sb's aligned)
+
+http://www.remtimeline.com/1983.html

@@ -1,0 +1,75 @@
+R.E.M.
+Friday September 26, 2003
+United Center
+Chicago, Illinois
+
+Taper:			King of Comedy
+Location:		Underneath the Bunker in Little America
+Source:			at853 (Mics in hat) > SP-SPSB-3 (95Hz bass roll-off) > Sony PCM-M1
+DAT > CD Conversion:	Binky the Doormat
+Equipment:		M1 > Emagic 2|6 > Cool Edit Pro > CD Wav > shntool
+
+** Seek Tables Appended
+
+	**************************************************************
+	**************************************************************
+	****** PLEASE DO NOT ENCODE THIS SHOW INTO MP3 FORMAT ********
+	**************************************************************
+	**************************************************************
+
+Disc 1:
+
+01:	Intro					00:34
+02:	Finest Worksong				03:49		
+03:	Begin the Begin				03:50
+04:	So Fast, So Numb			04:45
+05:	Drive					05:35
+06:	Animal					05:44
+07:	Shaking Through *			04:42
+08:	Fall On Me				03:21
+09:	Bad Day					04:37
+10:	The One I Love				04:11
+11:	Imiation of Life			04:36
+12:	Daysleeper				04:05
+13:	All The Way To Reno (You're Gonna Be A Star)	05:43
+----------------------------------------------------------------
+Total:						55:32
+
+Disc 2:
+01:	I Believe				04:15
+02:	Losing My Religion			05:00
+03:	At My Most Beautiful			04:16
+04:	She Just Wants To Be			07:05
+05:	Walk Unafraid				05:35
+06:	Man On The Moon				07:41
+Encore:
+07:	Nightswimming (Stipe & Mills)		04:41
+08:	Everybody Hurts				07:38
+09:	Electrolite				04:25
+10:	Introductions				00:44
+11:	Get Up					02:43
+12:	It's the End of the World As We Know It (And I Feel Fine)05:47
+----------------------------------------------------------------
+Total:						59:50
+
+
+Notes:
+
+* First performance of Shaking Through since 13 November 1989
+
+Additional Musicians:
+
+Ken Stringfellow - Keyboard
+Scott McCaughney - Electric Guitar
+Bill Rieflen - Drums
+
+Special thanks to security for not wanding me while walking through the checkpoints.
+
+Compiled by 7 Chinese Bros. (29 October 2003)
+
+Additional info added 11-15-2005:
+Shntool md5s:
+b72d12faf3a03a21b673ee6fc5281aad  [shntool]  rem2003-09-26d1t01.shnf6f31831744f744c8c5124055a80c25a  [shntool]  rem2003-09-26d1t02.shn074e605fd1a79d7d46c54d3899df7f9a  [shntool]  rem2003-09-26d1t03.shn76006b88ca93adc3091e1165c88559a7  [shntool]  rem2003-09-26d1t04.shnf2721646dbf7a92eee151a95d303f47e  [shntool]  rem2003-09-26d1t05.shn49422b5cb08b3f721bace78a4867e203  [shntool]  rem2003-09-26d1t06.shna4436f1adcca169122514265774af6c3  [shntool]  rem2003-09-26d1t07.shn24354f105a64dd6ef478b435133430d5  [shntool]  rem2003-09-26d1t08.shn4989dbe67c61fb0ad08df8c5d79bad9f  [shntool]  rem2003-09-26d1t09.shn16802faa4cb458b9be704129f3155c41  [shntool]  rem2003-09-26d1t10.shnd1601116de8bf7130994f0419cfe0e7b  [shntool]  rem2003-09-26d1t11.shn6683671103ab8e629157fee4a71cd16c  [shntool]  rem2003-09-26d1t12.shn073bcd494231bc8b6b2f7da2405c38fe  [shntool]  rem2003-09-26d1t13.shn4baaedbe0a9d3ee6231059d2d600a2e8  [shntool]  rem2003-09-26d2t01.shnab8f98a3bb123fee5c6ca3a1798a6eb1  [shntool]  rem2003-09-26d2t02.shn56f64cfc48f41bf970a329ddc0a5c6e8  [shntool]  rem2003-09-26d2t03.shnbc1d7cf9401346bddc5dd78d7d762b5b  [shntool]  rem2003-09-26d2t04.shn6a282188cdf6b4b54df54780803ac051  [shntool]  rem2003-09-26d2t05.shn7c70efb78bf191915406928ae6ec7997  [shntool]  rem2003-09-26d2t06.shnbf866c19879cca7445bf8e5973b60641  [shntool]  rem2003-09-26d2t07.shnf7d2c68f5b7ea210f05c2fb5098911bd  [shntool]  rem2003-09-26d2t08.shn39ec5a48505cad926019e14b06bd0993  [shntool]  rem2003-09-26d2t09.shn2a0fc0d0c2132644285a291e37be6b16  [shntool]  rem2003-09-26d2t10.shn07978ca8db1137af4ec9682102a95c5d  [shntool]  rem2003-09-26d2t11.shn68757952c6b5f80bcce6e3034d6555a6  [shntool]  rem2003-09-26d2t12.shn
+
+Shntool Len:
+    length     expanded size   cdr  WAVE problems filename     0:34.35        6079964    ---   --   ---xx   rem2003-09-26d1t01.shn     3:49.73       40567340    ---   --   ---xx   rem2003-09-26d1t02.shn     3:50.37       40659068    ---   --   ---xx   rem2003-09-26d1t03.shn     4:45.32       50349308    ---   --   ---xx   rem2003-09-26d1t04.shn     5:35.62       59239868    ---   --   ---xx   rem2003-09-26d1t05.shn     5:44.53       60806300    ---   --   ---xx   rem2003-09-26d1t06.shn     4:42.61       49888316    ---   --   ---xx   rem2003-09-26d1t07.shn     3:21.56       35588156    ---   --   ---xx   rem2003-09-26d1t08.shn     4:37.24       48919292    ---   --   ---xx   rem2003-09-26d1t09.shn     4:11.59       44415212    ---   --   ---xx   rem2003-09-26d1t10.shn     4:36.69       48848732    ---   --   ---xx   rem2003-09-26d1t11.shn     4:05.41       43314476    ---   --   ---xx   rem2003-09-26d1t12.shn     5:43.58       60641660    ---   --   ---xx   rem2003-09-26d1t13.shn     4:15.52       45104348    ---   --   ---xx   rem2003-09-26d2t01.shn     5:00.01       52922396    ---   --   ---xx   rem2003-09-26d2t02.shn     4:16.29       45226652    ---   --   ---xx   rem2003-09-26d2t03.shn     7:05.03       74977100    ---   --   ---xx   rem2003-09-26d2t04.shn     5:35.39       59185884    ---   -e   ---xx   rem2003-09-26d2t05.shn     7:41.54       81447452    ---   --   ---xx   rem2003-09-26d2t06.shn     4:41.28       49634300    ---   --   ---xx   rem2003-09-26d2t07.shn     7:38.26       80852396    ---   --   ---xx   rem2003-09-26d2t08.shn     4:25.24       46802492    ---   --   ---xx   rem2003-09-26d2t09.shn     0:44.17        7801628    ---   --   ---xx   rem2003-09-26d2t10.shn     2:43.23       28807340    ---   --   ---xx   rem2003-09-26d2t11.shn     5:47.24       61267292    ---   --   ---xx   rem2003-09-26d2t12.shn   115:35.05     1223346972 B                     (totals for 25 files, 0.5782 overall compression ratio)

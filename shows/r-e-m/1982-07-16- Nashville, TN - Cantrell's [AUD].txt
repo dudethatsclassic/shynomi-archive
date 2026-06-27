@@ -1,0 +1,64 @@
+R.E.M. 
+1982-07-16 ::: Nashville, Davidson County, Tennessee, USA
+Cantrell's ::: 1901 Broadway (Historic District) :::M?-AUD
+
+~*~ Carefully remastered fixing various issues, without EQ or NR ~*~
+
+Set One :::
+01. Gardening At Night
+02. 9-9
+03. Pilgrimage
+04. Shaking Through
+05. We Walk 
+06. Pretty Persuasion
+07. Ages Of You
+08. West Of The Fields
+
+Set Two :::
+09. Radio Free Europe
+10. 1,000,000
+11. September Sang
+12. Wolves, Lower
+13. Laughing
+14. Romance
+15. Moral Kiosk
+16. Catapult
+17. Carnival Of Sorts (Box Cars)
+
+Encore(s) :::
+18. White Tornado
+19. Perfect Circle
+
+Total Time ::: 1:05:10
+
+::: VG AUD, w/some loud AUD in places. Check samples for byte derision, byte contemplation, or byte me asap assessments.
+::: Warts: Repaired dullspots & dropouts. AUD talk often unrelenting (Friday night/bar/downtown Nashville/mostly college kids/BEER!). #01&02 had overloaded levels. Some overload distortion thruout, but sorta clear regardless. Some abrupt stops/starts as taper cut off deck between most songs (smoothed out here).
+::: "September Sang"~song's actual live debut//1st circulating lossless version//prev.unknown performance//diff.arrangement.
+::: Apparently REM's 2nd live"Perfect Circle"outing&1 of only a few 1982 versions circulating. Odd final encore for a bar!
+::: "We Walk"&"Moral Kiosk" - 3rd known 1982 live performances & only the 2nd live '82 versions (date-wise) to circulate.
+::: Even the setlist for this date hasn't commonly circulated before - but this tape WAS on lists in the 80s.
+::: Unknown if there was opening band on the bill, or whether this is all the songs played (but it seems likely).
+::: At this time, REM only had ONE 1981 45 release & their touring karma.
+::: Already roughly their 12th Nashville gig, 5 hours from Athens. Wonder if they stayed or drove home...
+::: REM's debut gig had been more than 2 years prior to this, on 1980-04-05.
+::: Recorded Oct'81, but their debut EP"Chronic Town"wasn't released 'til 1982-08-24 (5 weeks after this gig).
+::: Tho' playing many songs from "Murmur" here, the album wasn't recorded 'til Jan/Feb'83 & issued April'83.
+::: In this era, Cantrell's & Phrank 'N' Steins were the 2 happening rock venues to go to & play at in Nashville. 
+::: Now this club address is a Mexican restaurant w/Air B&B facilities upstairs. High rent, dude.
+::: REM UPLOAD REQUESTS from this era. Both at Athens i & i club. 1982-06-25 AUD & 1982-08-03 SBD. Please.
+
+Recording Information ::: unknown mono (or indiscernable stereo) cassette recorder (likely with ALC) & built-in microphone (dictaphone recorder?) -> master cassette -> one or two analog-only cassette generations -> low generation Maxell XLII-90 cassette, Dolby B on.
+
+Playback 2021-02-xx ::: low generation Maxell XLII-90 cassette on Nakamichi 680ZX cassette deck, Dolby B on, azimuth adjusted for individual tape, heads cleaned & demagnetized -> Sony Linear PCM Recorder PCM-M10 (44.1Hz/16bit WAV file) -> computer -> Audacity [normalisation to remove DC offset, channel/phase alignment, fades, manual one-at-a-time glitch, bump, clap, pop, click, dropout & dullspot repairs, volume adjustments, several averaged pitch (speed) fixes with single pass per segment after frequency analysis & CD verification (the recorder clearly had a problem, pitch varied 2.7% on the tape! It's fairly close at this point.), NO equalisation or noise reduction] -> CD Wave (track splits) -> flacs (Trader's Little Helper) -> yr ears. Freed 2021-02-xx. (NOTE: Mono recording&both channels had almost identical frequency response, so combined then to steady the sound & save lots of dullspot work - but hence small file sizes).
+
+Line-up ::: John Michael Stipe - lead vocals // Peter Lawrence Buck - electric guitar // Michael Edward Mills - electric bass, backing vocals // William Thomas Berry - drums, percussion, backing vocals.
+
+Nothing here ever commercially released to my knowledge. If I'm wrong, please advise & I'll take the offending trax offline.
+
+DimeTravel 705 ::: Thanks to the original taper & traders! Thanks to DIMER eckythump for supplying some info about circulating recordings. Sincere thanks to whomever uploads this for me. ::: Corrections welcome ::: Last week, buried in the boxes, I came across this gem for the first time in years. Very early versions of some songs & some rare ones. Stipe is on fire throughout much of this performance. I do find some joy in the fact that I was lucky enough to see REM from the early days right on thru (tho' not quite this early), and my REM started in a bar & ended in a TV studio, with years of first pick Ticketron seats thanks to a friend - REM times were good times (tho' still wish Pete had gone to more lead guitar lessons early on). Hard to pick favorite performances, the '84 shows were fantastic (and by the way, it wasn't Dream Syndicate opening at the Hartford Agora 1984-07-20, it was The 3 O'Clock, with a rather out of sorts Michael Quercio), but I must say I was quite partial to the "Fables Of The Reconstruction" tour(s). One remarkable performance, even with the dire sound in the hockey rink (where my father had aced the ice some 30 years before), was Williams College in May '85 - outstanding! But I could go on for hours, and surely no one really cares... but hopefully a handful of you listen to this show before burying it in byteland, good stuff within... Listen, enjoy, show appreciation, share, give, spread peace. Yrs truly, Knees
+
+"SEPTEMBER SANG" - For most of its 35 or so years, there's only been a "?" on my cassette label for "September Sang", but there is a title... The excellent website www.remtimeline.com says "September Sang" was "performed once & never performed again" (& liken the song's sound to "Pilgrimage"). However, they list the sole outing as 1982-08-03 Athens (a tape still not commonly circulating, unfortunately) - but that wasn't the first & only outing! (It should be noted they also say "September Sang" isn't the same as the 1982-06-25 unknown song, so that's another rarity & one I have yet to hear). So, in it's own little way, this Cantrell's recording changes R.E.M. history, as we hear "September Sang" 2&1/2 weeks prior to the 1982-08-03 version, and many people will be hearing the song for the first time ever. The only way that "September Sang" has commonly circulated to date AFAIK is the 1982-08-03 version in lossy form on YTube - though sadly it's poor quality lossy & the only song from the show - but it is a SBD source. The appearance of this show means the song was played at least twice, and very likely at least once or twice more. It seems extremely likely this was the actual live debut of the song if the timeline is complete as it was not played at the prior gig 2 weeks before (1982-07-02 Marietta). The other thing that will interest some hardcore REM freaks is that it seems to start in the opening guitar note, so this version has some different lyrics to the Athens one a couple of weeks later ("Sanctify"?) & is not exactly the same arrangement - sort of confirming they must have worked on the song between these 2 gigs. For those that haven't checked it out, the (sadly!) lossy SBD Athens version of "September Sang" is at www.youtube.com/watch?v=pUPhH479H60
+
+Support the artists! www.remhq.com -- assorted facebook & other sites available
+
+Do whatever you want with it except sell it, 'cause that ain't cool!

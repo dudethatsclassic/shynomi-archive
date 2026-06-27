@@ -1,0 +1,30 @@
+R.E.M.
+Elbufer
+Dresden
+Germany
+15.07.2008
+
+Virgin Radio webcast from 27.07.2008 (incomplete show!).
+
+Lineage:
+Virgin Radio webcast > Audacity (Stereo, WAV, 16 bit, 44,1 kHz)
+> flac frontend > MakeTorrent 2
+
+Set:
+
+01. What's The Frequency, Kenneth?
+02. Man Sized Wreath
+03. Seven Chinese Brothers
+04. Electrolite
+05. Imitation Of Life
+06. The One I Love
+07. I've Been High
+08. Bad Day
+09. I'm Gonna DJ
+10. Supernatural Superserious
+11. Losing My Religion
+12. Hollow Man
+13. band intro
+14. Man On The Moon
+
+total running time: approx. 50 min.

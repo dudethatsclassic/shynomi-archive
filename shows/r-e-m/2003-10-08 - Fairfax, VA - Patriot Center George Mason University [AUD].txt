@@ -1,0 +1,44 @@
+R.E.M.
+October 08, 2003
+Patriot Center - George Mason University
+Fairfax, VA
+
+Recorded by: Tommy Keswick, Core Sound Low Cost Binurals > Sharp MD-MS702 from Sec-1, Row F, Seat 8
+Transferred by: matt3846, MD master > optical > DAT > coax > DATport > WAV
+(CDwav) > CDR
+Encoded by: Tommy Keswick, EAC (see LOG file) > disc image > Adobe Audition > Group Waveform Normalized to -8.4db (disc 1) and -8.7db (disc 2) with Equal Loudness Contour > split WAV by CUE sheet (EAC) > FLAC level 8
+
+disc 1
+
+01. Finest Worksong    			[0:04:26.53]
+02. Begin the Begin    			[0:03:47.12]
+03. Exhuming McCarthy    		[0:03:25.12]
+04. Drive    				[0:06:16.74]
+05. Animal    				[0:04:44.09]
+06. Fall on Me    			[0:04:32.45]
+07. Daysleeper    			[0:04:38.73]
+08. Bad Day    				[0:04:56.19]
+09. The One I Love    			[0:04:25.65]
+10. (Don't Go Back to) Rockville    	[0:04:56.26]
+11. Orange Crush    			[0:05:17.13]
+12. World Leader Pretend    		[0:05:38.35]
+13. I Believe    			[0:03:40.29]
+
+Total Time:				[1:00:46.15]
+
+
+disc 2
+
+01. Losing My Religion    		[0:06:12.33]
+02. Find the River    			[0:04:28.39]
+03. She Just Wants to Be    		[0:08:20.47]
+04. Walk Unafraid    			[0:05:12.04]
+05. Man on the Moon    			[0:08:35.30]
+06. Life and How to Live It    		[0:04:50.38]
+07. Nightswimming    			[0:05:38.51]
+08. Final Straw    			[0:06:22.01]
+09. Imitation of Life    		[0:05:11.53]
+10. Permanent Vacation			[0:02:30.26]
+11. It's The End of the World...	[0:08:06.52]
+
+Total Time: 				[1:05:28.74]

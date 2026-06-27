@@ -1,0 +1,45 @@
+REM - Michigan Theater, Ann Arbor, MI 1984-10-08 (remtorrent) 
+
+Radio Free Europe
+Harborcoat
+Letter Never Sent
+Hyena
+Pilgrimage
+Seven Chinese Brothers
+Talk About The Passion
+So. Central Rain
+Driver 8
+(Don't Go Back To) Rockville
+Just A Touch
+Gardening At Night
+The next three songes were reportedly played but are not on this recording
+*9-9
+*Windout
+*Old Man Kensey
+Pretty Persuasion
+Little America
+encore 1: 
+Barney Miller Theme
+Second Guessing
+Crazy
+Kohoutek
+1,000,000
+encore 2: 
+Moon River (incomplete)
+the following songs were reportedly played but are not on this recording) 
+*Sloop John B
+*We Walk - Behind Closed Doors Medley
+*So You Want To Be A Rock'n'Roll Star
+
+support: The dB's
+
+Above info from www.remtimline.com
+
+Next in a series of early REM shows.  Yes, I know I haven't included anything yet from 1983 but I don't have the organisational skills to do this in chronolgical order. 
+
+This may have been broadcast originally on Rock 103 - WIQB but, as this was Michigan, it was probably pronounced Raaarrwwwrrk 103
+I received this in a CD trade in the forgotten mists of time, this is a good quality FM broadcast with a little bit of tape wobble/hiss in places.This is an incomplete recording with about 6 songs missing tha, I guess, were on the original broadcast.  Sorry
+
+The recording was running about a semitone sharp/fast so I extracted the audio using EAC and batch processed/stretched all of the files  using Cool Edit 2000 to get them back to correct pitch.
+
+The files will fit onto a single CD-R

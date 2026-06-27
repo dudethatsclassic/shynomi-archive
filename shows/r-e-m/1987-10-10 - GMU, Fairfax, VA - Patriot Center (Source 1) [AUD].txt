@@ -1,0 +1,87 @@
+R.E.M. 1987-10-10 Patriot Center, George Mason University, Fairfax, VA
+R.E.M.
+Patriot Center, George Mason University, Fairfax, VA, 1987-10-10
+Source: CD WAV -> EAC WAV -> TLH FLAC (level 6)
+
+Setlist:
+
+CD 1:
+1.  Finest Worksong  
+2.  These Days
+3.  Welcome To The Occupation
+4.  Lightnin' Hopkins
+5.  Exhuming McCarthy/Disturbance At The Heron House
+6.  Orange Crush
+7.  Feeling Gravitys Pull
+8.  White Tornado
+9.  King Of Birds
+10. Sitting Still
+11. Title
+
+CD 2:
+1.  Intro
+2.  I Believe
+3.  Driver 8
+4.  Superman
+5.  Auctioneer (Another Engine)
+6.  Oddfellows Local 151
+7.  It's The End Of The World As We Know It (And I Feel Fine)
+8.  Begin The Begin 
+
+Encore 1:
+9.  Midnight Blue 
+10. Angel
+11. See No Evil
+12. The One I Love
+
+Encore 2:
+13. Life And How To Live It
+14. After Hours
+15. John The Revelator (With Natalie Merchant)
+
+Encore 3:
+16. Wolves, Lower
+17. Crazy
+18. Just A Touch
+19. So. Central Rain
+
+Line-up: Buck/Berry/Mills/Stipe
+Support: 10,000 Maniacs
+
+MD5 signature:
+2bb526bc1aff04b9b453836c6811ccd2 *Fairfax CD1\01-01.flac
+c7c7542d931a1315f6c4268ce6cd13ef *Fairfax CD1\01-02.flac
+55bebb3f4585442a839be501f23bce54 *Fairfax CD1\01-03.flac
+dabd22f207f6fbccfa587bc07ebfe9b1 *Fairfax CD1\01-04.flac
+597a697294f62337c8e33d3fc886830c *Fairfax CD1\01-05.flac
+695213244bf8989fe49fec3e68896b80 *Fairfax CD1\01-06.flac
+f83465ae521aeb8e959f422f46ad7264 *Fairfax CD1\01-07.flac
+51d2c8be02f111a07e6f7cea2bdfaadc *Fairfax CD1\01-08.flac
+13e59112f8c7741a97b47a17de43c896 *Fairfax CD1\01-09.flac
+a13e4e1b560ba5c484459cbc00d46363 *Fairfax CD1\01-10.flac
+ec9201b29d96441aa72ba69f2454d702 *Fairfax CD1\01-11.flac
+10b70d452490d3417935de095230dfc2 *Fairfax CD2\02-01.flac
+8da4959cca8e3a2315922f9cbde5f309 *Fairfax CD2\02-02.flac
+bf8caa17ea04caa683f63136a2a336ec *Fairfax CD2\02-03.flac
+b8f0634e90b02aac722bad1bd107a2cc *Fairfax CD2\02-04.flac
+74bd139b60e9d4799b28417fa3eafb34 *Fairfax CD2\02-05.flac
+f5c12753eccfd352cce301ae132da031 *Fairfax CD2\02-06.flac
+0e7d09aff2aa1e5f2370ec5e76f73fce *Fairfax CD2\02-07.flac
+9762b4e44482b6f527e9b2b909a0b772 *Fairfax CD2\02-08.flac
+6b67dda6b0addf6e56dd242a781cb35b *Fairfax CD2\02-09.flac
+a80326ee38526b9ef21a1970334549e5 *Fairfax CD2\02-10.flac
+61fc3179df26ab8ac1f3ae07482796ab *Fairfax CD2\02-11.flac
+f30d3b21b2977562a4f74df9fe056ceb *Fairfax CD2\02-12.flac
+0ffb37d56e0abd00a90792f0d1d66262 *Fairfax CD2\02-13.flac
+d98a6aaf4c3f9d99c597a9ece2484845 *Fairfax CD2\02-14.flac
+523e424b469645ab05207edf4c7c0368 *Fairfax CD2\02-15.flac
+69dad8455bb24f09899c761a61d0f13f *Fairfax CD2\02-16.flac
+dddcd9e769aa8e9a57b8a064861eefd2 *Fairfax CD2\02-17.flac
+7b9d7c552e18098ae6a1d3e13c8da46f *Fairfax CD2\02-18.flac
+7fe0f65ccfd8d84d7f2daa48bf1bc36e *Fairfax CD2\02-19.flac
+
+No artwork
+Notes: received in a trade, lineage unknown, sounds like a decent AUD recording.
+In contrast to what is found on the Timeline, there is no Time After Time or Red Rain on this recording.
+
+This one is for Karin.

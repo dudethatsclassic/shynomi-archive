@@ -1,0 +1,72 @@
+R.E.M. 
+R.J. Reynolds Memorial Auditorium, Richard J. Reynolds High School
+Winston-Salem, NC
+Sunday 8 December 1985
+
+Support: The Minutemen
+
+Contrast clause: There is a recording of this show at http://www.dimeadozen.org/torrents-details.php?id=709624 taped by Robin Brevard made with different equipment. This is a different source, however because it omitted the final 2 songs, I have used Robin's recording for those tracks to make a version as complete as possible.
+
+Jeff Ferro R.E.M. upgrade series volume 1
+
+Lineage: Tracks 1-25: Unknown taper and equipment. Digital conversion from cassette by nakeddave from the collection of Jeff Ferro 
+
+Tracks 26-27: Recorded by Robin Brevard with Panasonic stereo tape deck (built-in stereo mics) -> master tape -> tape deck + CD burner -> CD-R -> laptop --> XLD to convert files to wav
+
+Eckythump June 2021 remaster: iZotope RX8 Advanced -> iZotope Ozone 9 -> Audacity 3.0.2 (split tracks and export to FLAC Level 8) -> Traders Little Helper 2.8.4 (Fix SBE's, ffp and md5 files) -> foobar2000 1.6.6 (files tagged).
+
+First shared to Dime on 20 June 2021
+
+Main set:
+
+00. Intro
+01. Feeling Gravitys Pull
+02. Harborcoat
+03. Crazy (Pylon cover)
+04. Maps and Legends
+05. Hyena
+06. Shaking Through
+07. Michael talks
+08. Driver 8 
+09. Good Advices
+10. Sitting Still
+11. So. Central Rain (I'm Sorry)
+12. Swan Swan H
+13. Can't Get There From Here 
+14. 7 Chinese Bros.
+15. Auctioneer (Another Engine) 
+16. Michael's Kensey intro
+17. Old Man Kensey 
+18. Pretty Persuasion 
+19. Life And How To Live It 
+
+Encore 1:
+20. Gardening At Night
+21. 9-9 - Just A Touch (snippet) - Windout
+
+Encore 2:
+22. The Counting Song (traditional)
+23. Second Guessing
+24. (Don't Go Back To) Rockville
+25. Tired Of Singing Trouble
+26. Little America
+27. See No Evil (cut, Television cover) (w/ Mike Watt)
+
+Michael Stipe - Vocals, harmonica
+Peter Buck - Guitar
+Mike Mills - Bass Guitar, vocals
+Bill Berry - Drums, vocals
+
+Show notes: The final week of the very long Reconstruction tour saw the band in one of their 'home' territories in Winston-Salem (where they recorded the cassette set, their debut single and Chronic Town with Mitch Easter), putting on a tremendous show for a very enthusiastic crowd. Highlights include a rare for 1985 performance of 'Crazy' (possible explanation below), a great guitar only version of So. Central Rain, a terrific Auctioneer featuring Michael's favourite character Caroline, with Caroline getting an extended story leading into Kensey. Michael also revealed before Driver 8 where the video for the song was filmed, which was at the forefront of his mind at the time because the prior month severe floods had damaged the area (Clifton Forge, VA). For those unaware, the backstory to the Driver 8 video is the band were looking for a suitable area to film trains, and settled upon Clifton Forge, VA, as that's where Bertis Downs' uncle Gene Downs lived, who recommended the town. So Michael, Jim Herbert and Bertis stayed at the Downs camp on the Cowpasture River at a place called Griffith where the iconic scenes for the video were filmed. The 'Chessie System' was severely impacted by the floods, and was shutdown in 1986, so the scenes from the video are some of the last ever captured, along with the house Michael, Jim and Bertis stayed in, which was destroyed in the November 1985 floods. A great show from the wonderful 1985 tour.
+
+Recording notes: A good recording of this show surfaced back in 2011 by Robin Brevard, and until now has been the only source in digital circulation. Earlier this year a number of new sources of R.E.M. shows surfaced from the collection of Jeff Ferro, who collected a lot of shows back in the 1980's. Jeff sent his cassettes to Dime user nakeddave, who then transferred them and shared them to the 'Listen To Me' group, and a few of us in the forum have been sifting through them to determine which ones are worth remastering and sharing, and which ones aren't. Amongst the many recordings this source was uncovered, and despite it being unknown generation and equipment, it's a great recording, and an upgrade to Robin's recording. It includes '7 Chinese Bros' which Robin missed due to a tape flip, but as a trade off the taper's cassette ran out at the end of Tired Of Singing Trouble. With Robin's blessing I've included the 2 songs he recorded that were missing from this one. As such this is as close to a complete recording of the show that we know of in existence. It's a great recording, and even the occasional audience chatter near the taper is entertaining (eg. someone next to the taper claims they offered Peter $5 if they'd play Crazy, which must have worked as Crazy was only played a handful of times in 1985, and it was the first performance since 28 August. Coincidence? Probably not!). The recording neeeded some work, it was played extremely fast for starters, which has now been corrected.
+
+Look for more upgrades of R.E.M. shows from the Jeff Ferro archives soon.
+
+****
+
+As time passes between the end of R.E.M. and the time you read this know that there are a few of us that still care a great deal for this band. If you have any old tapes or need any questions answered about circulating shows please drop us a line. New finds from the ROIO world and anniversary releases are what we have to look forward to these days, so please don't throw those old tapes out just yet. That forum is how we uncovered this new source, and the others that are forthcoming. We're confident there's a lot more out there we'd love to get into the digital world before they're lost forever.
+
+Check us out at http://remtimeline.com/listentome/ (send me a message here if you have trouble with registering and I'll sort it out)
+
+-eckythump, June 2021

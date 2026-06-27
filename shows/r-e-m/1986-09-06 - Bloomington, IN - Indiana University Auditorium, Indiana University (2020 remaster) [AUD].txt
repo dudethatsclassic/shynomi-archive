@@ -1,0 +1,62 @@
+R.E.M.
+Indiana University Auditorium, Indiana University
+Bloomington, IN
+Saturday 6 September 1986
+
+Support: Fetchin' Bones
+
+Original Lineage: Transfer from master recording. Recorded from the balcony to a Sony recordable Walkman with a stereo Radio Shack microphone. No other details provided.
+
+Eckythump November 2020 remaster: iZotope RX8 Advanced (various adjustments) -> iZotope Ozone 9 (EQ adjustments) -> Audacity 2.4.2 (split tracks and export to FLAC Level 8) -> Foobar2000 1.6.1 (Files tagged)
+
+Originally uploaded to Dime on 11 May 2008 by timsmyname. Remastered version uploaded to Dime by eckythump 21 November 2020
+
+Track List:
+
+01 - These Days
+02 - Harborcoat
+03 - Begin The Begin
+04 - Maps And Legends
+05 - The One I Love
+06 - Old Man Kensey
+07 - Driver 8 
+08 - Shaking Through
+09 - Unknown (presumed to be an improv)
+10 - Fall On Me
+11 - The Flowers Of Guatemala (tape flip at end of song)
+12 - Last Date (Floyd Cramer cover)
+13 - I Believe - I Believe
+14 - Michael's thrush story
+15 - Swan Swan H 
+16 - California Dreamin' (The Mamas & The Papas cover)
+17 - Can't Get There From Here
+18 - Superman (The Clique cover)
+19 - Second Guessing
+20 - Pretty Persuasion (tape flip at end of song)
+21 - Life And How To Live It
+
+Encore 1
+22 - Cuyahoga
+23 - Strange (Wire cover)
+24 - Little America
+
+Encore 2
+25 - Lightnin' Hopkins
+26 - So. Central Rain (I'm Sorry) 
+27 - Just A Touch
+
+Michael Stipe - Vocals, harmonica
+Peter Buck - Guitar
+Mike Mills - Bass, vocals
+Bill Berry - Drums, vocals
+Buren Fowler - Guitar
+
+Show notes: After opening the Pageantry tour in Alabama the night before, the second show of tour moved up to Bloomington, Indiana, where the band had spent much of April and May that year recording 'Lifes Rich Pageant' with Don Gehman. As such, many songs here are performed for the second time ever, those being 'These Days', 'Begin The Begin', 'The One I Love' (introduced confusingly by Stipe as a chestnut), 'Cuyahoga', 'The Flowers Of Guatemala', 'I Believe', 'Superman', and a very different lyrically version of 'Lightnin' Hopkins'. While 'Fall On Me' was a regular in 1985, lyrically it's now the album version we all know and love. Noteworthy things at this show - the 'unknown' song sounds like something made up on the spot with some random Stipe lyrics that may or may not have existed prior. A couple of rare covers for 1986 are performed, being 'Last Date' and 'California Dreamin'. There's a tape flip with a small portion missing before Last Date, no music is lost but I suspect Michael had a bathroom break here which prompted the instrumental. It's less clear why California Dreamin' was performed, and Michael seems to regret performing it half way through. Of the 18 known times R.E.M. covered it, this is the last performance. I Believe is deliberately written in the track list twice - the first one is Michael singing an a cappella snippet of Perry Como's song of the same name, which he frequently did that tour. As often happened during this tour, the encore featured a beautiful version of 'So. Central Rain', with just Peter on guitar, Michael singing, and Bill and Mike providing harmonies. It's sublime. A fantastic show from one of my favourite tours.
+
+Recording notes: This is a very good audience recording which needed a bit of help to fulfill its potential. The audio files were horribly clipped (I've seen clipped recordings before, but this was the very definition of bricked), and the third side from Life And How To Live It was mixed way louder than the rest of the show. I declipped, ran an azimuth adjustment and tried to maintain a consistent volume throughout. The tape also ran slow so I sped it up by 2%. It sounds a lot better than the original torrent did. The notes for the original stated it was recorded with a Sony walkman and a 'Radio Shake' mic - I have assumed that was a typo, and it was actually a Radio Shack microphone (my google results for 'radio shake' did not yield anything). Not particularly sophisticated equipment but it produced a decent result. There's a few cuts for tape flips and the encore breaks were edited out, but there is no music lost. The taper must have been diligently checking the time ready for the flip. Well done. A very enjoyable listen.
+
+Torrent notes: This was torrented just the once, by someone under the Dime name 'timsmyname' back in May 2008. Tim is no longer on Dime, and this seems to be his only recording that ever made it to Dime. I lost this recording (and many others) in a hard drive crash years ago, and while I managed to get the rest back, I could not find anyone else who had a copy of this, despite it being snatched 159 times from Dime before it fell off the tracker in 2009. I figured this show was lost to the digital ages. Earlier this year in the early stages of the Covid lockdown I was bored and going through some of my old possessions I'd carried with me in many house moves and never bothered looking at, and came across a hard drive that I'd forgotten about. After figuring out how to access it (it was a weird NAS network thing I bought in 2010, not just a USB plug in thing, and needed software that was long out of date written for Windows XP), I hit gold - all my old R.E.M. shows I'd downloaded from Dime were on it! Including this one! Woohoo!!! So I bring this show back from the dead for your listening pleasure, with an added bonus of a poster of the show. Remember kids - back things up! Use the cloud! That is the end of my PSA. Enjoy!
+
+
+http://www.remtimeline.com for all your R.E.M. setlist needs
+http://www.remtimeline.com/listentome for an old school R.E.M. discussion board!

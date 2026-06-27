@@ -1,0 +1,57 @@
+R.E.M.
+The Liacouras Center, Temple University
+Philadelphia, PA
+Wednesday 1 October 2003
+
+Support: Pete Yorn
+
+Original Source/lineage: Sound Pro Cardioids -> battery box -> Sony MZR37 minidisc -> digital transfer to CD -> EAC -> CD-R -> SHN
+Digital transfer: GJordan
+Taper: tapeworm@bellatlantic.net (Floor seats 15th row)
+
+Eckythump October 2020 remaster: iZotope RX8 Advanced (azimuth adjustment) -> Ozone 9 (EQ adjustment) -> Audacity 2.4.2 (split tracks and export to FLAC Level 8) -> Foobar2000 1.6.1 (Files tagged)
+
+Track List:
+
+00 - Intro
+01 - Finest Worksong
+02 - So Fast, So Numb
+03 - Driver 8
+04 - Drive
+05 - Animal
+06 - Sitting Still
+07 - Daysleeper
+08 - Bad Day
+09 - The One I Love
+10 - Michael talks
+11 - All The Way To Reno (You're Gonna Be A Star)
+12 - Everybody Hurts
+13 - The Great Beyond
+14 - At My Most Beautiful
+15 - Losing My Religion
+16 - Find The River
+17 - She Just Wants To Be 
+18 - Walk Unafraid
+19 - Man On The Moon
+20 - Encore break
+21 - Life And How To Live It
+22 - Nightswimming
+23 - Final Straw
+24 - Michael talks - band intros
+25 - Imitation Of Life
+26 - It's The End Of The World As We Know It (And I Feel Fine)
+
+Michael Stipe - Vocals, harmonica
+Peter Buck - Guitar, mandolin
+Mike Mills - Bass Guitar, keyboards, backing vocals
+Scott McCaughey - Guitar, backing vocals
+Bill Rieflin - Drums
+Ken Stringfellow - Keyboards, guitar
+
+Show notes: The 22nd show of the North American leg of the greatest hits tour sees the band re-enter the USA after playing in Toronto the night before and onto the east coast leg, first stop Philadelphia. Not many rarities at this one, though it was only the 6th performance of Sitting Still for the tour. Michael also told an amusing story prior to All The Way To Reno about his difficulties in hitting the high note in the song. Another great show from 2003.
+
+Recording notes: This is another great recording from 2003. The original suffered a little from what was described as quite a boomy room. An aziumuth adjustment in iZotope helped eliminate that, revealing an excellent recording. Michael's talking in track 10 was cut from this recording so I patched it in from the alternate Dean Burbage source of this show. I chose this version over that one as this is the better recording. You'll enjoy listening to this one.
+
+Torrent notes: There are 2 sources for this show, this one (the 'tapeworm' version), and one recorded by Dean Burbage. Dean's has been on Dime in more recent years, but I can't find tapeworm's in the Dime archives at all, so it probably circulated on Murmurs or Dime's predecessors. As stated in the recording notes I just needed to patch in a small part of Dean's recording to make this one complete. I think this now represents the best possible version of this show. Enjoy!  
+
+http://www.remtimeline.com/ for all your R.E.M. setlist needs!

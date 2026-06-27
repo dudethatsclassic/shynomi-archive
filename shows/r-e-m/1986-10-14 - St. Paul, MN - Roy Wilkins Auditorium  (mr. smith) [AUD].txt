@@ -1,0 +1,93 @@
+
+R.E.M.
+St. Paul, MN, USA
+Roy Wilkins Auditorium
+14 October 1986
+Pageantry Tour
+stereo audience recording
+(01:32:06)
+
+***This torrent is incompatible with the CD-Audio standard. The sound is in 24-bit stereo sampled at 48kHz.***
+
+cassette side A (46:01):
+A01. start (0:17)
+A02. These Days (3:37)
+A03. Harborcoat (4:04)
+A04. Sitting Still (3:23)
+A05. Maps And Legends (3:24)
+A06. The One I Love (3:22)
+A07. Shaking Through (4:12)
+A08. Feeling Gravitys Pull (5:32)
+A09. White Tornado (2:20)
+A10. The Flowers of Guatemala (4:49)
+A11. Driver 8 (3:37)
+A12. I Believe (3:58)
+A13. Swan Swan H (3:03)
+A14. All I Have to Do Is Dream [Felice & Boudleaux Bryant] [beg. cut] (0:17)
+
+cassette side B (46:04):
+B01. All I Have to Do Is Dream [continued] (2:09)
+B02. Old Man Kensey intro (1:27)
+B03. Old Man Kensey (4:50)
+B04. Superman [The Clique] (3:28)
+B05. Can't Get There From Here intro (0:11)
+B06. Can't Get There From Here (3:42)
+B07. Pretty Persuasion (3:52)
+B08. Auctioneer (Another Engine) (3:21)
+B09. Just A Touch (2:58)
+
+encore:
+B10. interim encore applause (3:14)
+B11. Fall on Me (3:00)
+B12. Cuyahoga (4:26)
+B13. Born to Run [Bruce Springsteen] (1:48)
+B14. Spooky [Classics IV] (2:50)
+
+2nd encore:
+B15. Oddfellows Local 151 (4:42)
+
+Camper Van Beethoven was also on the bill
+
+- - - -
+
+digitizing notes:
+
+Well, I can't claim to be any kind of expert on R.E.M., as I'm afraid I never really connected with their particular style of rock. I've listened to them plenty, most of the albums and a lot of live recordings I acquired through my tape trading days. I don't know why. There's nothing wrong with it, and I don't want to offend any of their diehard fans with my admission, it's just the way it is, I reckon. That said, out of all the live shows I have heard from them, this particular show has a pretty sold vibe going for it, and by the time the tape ran out, I was actually eager to hear the remaining songs which were reported to have been played.
+
+I've seen plenty of shows in this venue when I was younger, and in later years as a member of the local stagehands union, I helped load in and set up stages for artists who performed in that room. The reason I mention this is that it's a semi-large arena space, at least larger than a venue the size of First Avenue or Cabaret Metro, but listening to this tape, the energy the band gave off made it feel like a small club show, and I mean that in the best way possible. This decent-sounding recording from Mr. Smith has never circulated until now, but I'd imagine that any R.E.M. fan reading this needs to have this show in their collection, if they don't have some version of it already. And if there *is* another more complete version of this show in circulation, I'd actually like to hear it!
+
+As always, my approach to digitization is to preserve recordings in a non-invasive manner, and in a format that should allow ample headroom for potential editing as may or may not be desired, going forward. This is why I choose to encode in 24-bit .flac, and with 48kHz sampling for increased dynamic range (replacing my previous choice for 96kHz sampling rate, which I have come to decide is generally overkill for the average 2-channel stereo recording). There is no reason that anyone should not be able to perform further surgery on anything I share freely, but it would be pointless if the files I share have already been tampered with. Hopefully this won’t be a problem for anyone, basically, to just enjoy the music!
+
+No processes applied. No noise reduction. No EQ. No fades. No normalization. No.
+
+- - - -
+
+additional notes:
+
+According to the setlists fm site, Bad Day [apparently called "PSA" at the time] is listed between Pretty Persuasion and Auctioneer, but on the recording the only thing that seems to be there is the spoken part before Auctioneer.
+
+According to the same site, these songs were also performed after Oddfellows, but are not on this recording:
+Bad Day
+Strange [Wire]
+After Hours (The Velvet Underground cover)
+We Don't Need Another Hero (Thunderdome) [Tina Turner]
+Funtime [Iggy Pop]
+Little America
+Radio Free Europe
+
+- - - -
+
+lineage:
+original master cassette [2-channel stereo] > Nakamichi LX-3 cassette deck [Azimuth adjustment applied to playback head] > Edirol R-04 [RCA/analog in; 24-bit/48kHz transfer (.wav)] > PC [via USB] > CD Wave Editor [Version 1.98; Windows Build Number: 0000.23F0] (sector boundary tracking) > Trader's Little Helper [Version 2.7.0; Build 172] (Level 8 .wav > .flac conversion, .ffp)
+
+- - - -
+
+The Mr. Smith Tapes.
+Made available to the world through the collaborative resources of these people:
+Recorded in 1986 by “Mr. Smith”.
+Digitized in 2020; and technical notes by J. Free [sonicarchives.com]
+Uploaded to DIME in 2020; any additional notes: 01001010
+
+- - - -
+
+Audio sample: Approx. 30 seconds each of: Maps And Legends and Oddfellows Local 151

@@ -1,0 +1,26 @@
+Venue: Shoreline Amphitheatre
+City:  Mountain View,Ca
+Date:  October 21, 1989
+Taper: WTFK
+Source:Soundboard
+
+set:
+01 World Leader Pretend
+02 These Days
+03 Pilgrimage
+04 Future 40s (String Of Pearls)> I Believe
+05 I Remember California
+06 //It's The End Of The World As We Know It (And I Feel Fine)
+encore:
+07 Pop Song 89
+08 Fall On Me
+09 You Are The Everything
+10 Harpers
+11 Begin The Begin
+12 King Of Birds
+13 See No Evil
+14 Low
+15 Thanks To NRBQ & Plea For Earthquake Relief Fund Contributions & Greenpeace Info
+16 Finest Worksong
+17 Perfect Circle
+18 After Hours

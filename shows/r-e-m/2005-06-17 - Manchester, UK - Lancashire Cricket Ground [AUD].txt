@@ -1,0 +1,48 @@
+R.E.M. / 06.17.05 / Lancashire Cricket Ground / FLAC
+
+Source: SP-BMC-3 > SP-SPSB-3 > NJB3/48.0KHz > WavePad v 1.2 > FLAC
+
+Location:  Slightly to left, mid-audience.
+
+Full show, but in a talkative region of crowd, especially in quiet songs like nightswimming.
+Quality probably ~ B:  Music is still clear and singing distinct, but crowd has been mixed in.
+
+Set List:
+
+Name				Track				Length	Running Time
+************************************************************************************
+
+Disk 1
+
+rem2005-06-17d1t01.flac		I Took Your Name		4.08	04.08
+rem2005-06-17d1t02.flac		Bad Day				4.15	08.24
+rem2005-06-17d1t03.flac		What's the Frequency, Kenneth?	3.55	12.20
+rem2005-06-17d1t04.flac		The One I Love			3.25	15.45
+rem2005-06-17d1t05.flac		Electron Blue			4.54	20.40
+rem2005-06-17d1t06.flac		Driver 8			3.49	24.30
+rem2005-06-17d1t07.flac		Drive				4.48	29.19
+rem2005-06-17d1t08.flac		Wanderlust			3.15	32.34
+rem2005-06-17d1t09.flac		Animal				4.25	37.00
+rem2005-06-17d1t10.flac		Leaving New York		5.13	42.13
+rem2005-06-17d1t11.flac		Everybody Hurts			6.55	49.08
+rem2005-06-17d1t12.flac		Outsiders			5.42	54.51
+rem2005-06-17d1t13.flac		Electrolite			4.28	59.19
+
+Disk 2
+
+rem2005-06-17d2t01.flac		Me In Honey			4.22	04.22
+rem2005-06-17d2t02.flac		Wanted To Be Wrong		5.43	10.05
+rem2005-06-17d2t03.flac		Orange Crush			4.03	14.08
+rem2005-06-17d2t04.flac		Walk Unafraid			5.04	19.13
+rem2005-06-17d2t05.flac		Losing My Religion		4.45	23.59
+rem2005-06-17d2t06.flac		Imitation of Life		4.08	28.07
+
+encore
+
+rem2005-06-17d2t07.flac		Great Beyond			4.53	33.00
+rem2005-06-17d2t08.flac		These Days			3.46	36.46
+rem2005-06-17d2t09.flac		Leave				5.19	42.06
+rem2005-06-17d2t10.flac		Nightswimming			4.28	46.35
+rem2005-06-17d2t11.flac		Thanks				4.03	50.38
+rem2005-06-17d2t12.flac		DJ				2.21	53.00
+rem2005-06-17d2t13.flac		Man On The Moon			7.42	60.42

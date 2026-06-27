@@ -1,0 +1,81 @@
+R.E.M.
+Indiana University Auditorium, Indiana University
+Bloomington, IN
+Saturday 6 September 1986
+
+Support: Fetchin' Bones
+
+Jeff Ferro R.E.M. upgrade series volume 4
+
+Lineage tracks 0-24: Unknown taper and equipment. C-90 Cassette (side A tracks 0-13, side B tracks 13 (rewinded)-20) -> Nakamichi DR-1 -> Tascam DA-3000 -> WAV 24/96 > FLAC 24/96. Revised by bert13 with Adobe Audition 3.0.1 (details at end).
+
+Digital conversion from cassette by nakeddave from the collection of Jeff Ferro.
+
+Lineage tracks 25-27: Transfer from master recording. Recorded from the balcony to a Sony recordable Walkman with a stereo Radio Shack microphone by timsmyname. Remastered by eckythump 21 November 2020. Beginning of Improv and Can't Get There From Here spliced in from this recording to cover missing portions from first source due to tape flips.
+
+First shared to Dime by eckythump 26 September 2021
+
+Track List:
+
+00 - Intro
+01 - These Days
+02 - Harborcoat
+03 - Begin The Begin
+04 - Maps And Legends
+05 - The One I Love
+06 - Old Man Kensey
+07 - Driver 8 
+08 - Shaking Through (original tape flip)
+09 - Improv
+10 - Fall On Me
+11 - The Flowers Of Guatemala 
+12 - Last Date (Floyd Cramer cover)
+13 - I Believe - I Believe
+14 - Michael's thrush story
+15 - Swan Swan H 
+16 - California Dreamin' (The Mamas & The Papas cover) (original tape flip)
+17 - Can't Get There From Here
+18 - Superman (The Clique cover)
+19 - Second Guessing
+20 - Pretty Persuasion 
+21 - Life And How To Live It
+
+Encore 1
+22 - Cuyahoga
+23 - Strange (Wire cover)
+24 - Little America
+
+Encore 2
+25 - Lightnin' Hopkins
+26 - So. Central Rain (I'm Sorry) 
+27 - Just A Touch
+
+Michael Stipe - Vocals, harmonica
+Peter Buck - Guitar
+Mike Mills - Bass, vocals
+Bill Berry - Drums, vocals
+Buren Fowler - Guitar
+
+Bert13 revision notes:
+Revised with Adobe Audition 3.0.1
+- normalized
+- interference at 16kHz removed
+- overlap between sides A and B removed
+- start of Can't Get There From Here amplified and EQ'd
+- silent tape trimmed
+- speed corrected 102.5 stretch
+- downsampled to 24/48
+
+Show notes: Volume 4 of the Jeff Ferro tape upgrade series moves to the Pageantry tour, and a nice upgrade on the other circulating recording by timsmyname. Jeff's tape of this show however did not contain the second encore, and the beginning of the improv and Can't Get There From Here were cut due to tape flips, so I have spliced in Tim's recording to fill in the missing portions and make them complete. As such you will hear a change in sound during those portions for a small amount of time.
+
+After opening the Pageantry tour in Alabama the night before, the second show of tour moved up to Bloomington, Indiana, where the band had spent much of April and May that year recording 'Lifes Rich Pageant' with Don Gehman. As such, many songs here are performed for the second time ever, those being 'These Days', 'Begin The Begin', 'The One I Love' (introduced confusingly by Stipe as a chestnut), 'Cuyahoga', 'The Flowers Of Guatemala', 'I Believe', 'Superman', and a very different lyrically version of 'Lightnin' Hopkins'. While 'Fall On Me' was a regular in the set from August 1985 onward, lyrically it's now the album version we all know and love. Noteworthy things at this show - the improv sounds like something made up on the spot with some random Stipe lyrics that may or may not have existed prior. A couple of rare covers for 1986 are performed, being 'Last Date' and 'California Dreamin'. Of the 18 known times R.E.M. covered the latter, this is its last performance. I Believe is deliberately written in the track list twice - the first one is Michael singing an a cappella snippet of Perry Como's song of the same name, which he frequently did that tour. As often happened during this tour, the encore featured a beautiful version of 'So. Central Rain', with just Peter on guitar, Michael singing, and Bill and Mike providing harmonies. It's sublime. A fantastic show from one of my favourite tours.
+
+Recording notes: This is a great recording and a nice upgrade on the other known source. Bert13 has done another great job fixing some of the issues with Jeff's tape. Thanks go to him, nakeddave for transferring Jeff's tape, and of course Jeff for providing his tape and giving us this great upgrade.
+
+****
+
+As time passes between the end of R.E.M. and the time you read this know that there are a few of us that still care a great deal for this band. If you have any old tapes or need any questions answered about circulating shows please drop us a line. New finds from the ROIO world and anniversary releases are what we have to look forward to these days, so please don't throw those old tapes out just yet. That forum is how we uncovered this new source, and the others that are forthcoming. We're confident there's a lot more out there we'd love to get into the digital world before they're lost forever.
+
+Check us out at http://remtimeline.com/listentome/ (send me a message here if you have trouble with registering and I'll sort it out)
+
+-eckythump, September 2021

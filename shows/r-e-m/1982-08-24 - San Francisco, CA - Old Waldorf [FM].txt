@@ -1,0 +1,16 @@
+R.E.M. - 1982-08-24 San Francisco, Old Waldorf
+
+FM (cassette master) -> cassette -> Nakamichi 682ZX -> Sony PCM R-300 DAT (d/a conversion only) -> e-mu 0404 -> Sonar LE 8.5 -> Nero (level boost) -> cd wav -> flac level 8
+
+01 Gardening At Night
+02 9-9
+03 Wolves Lower
+04 We Walk
+05 Pilgrimage
+06 Laughing
+07 Sitting Still
+08 1,000,000
+09 Catapult
+10 Moral Kiosk
+11 West of The Fields
+12 Radio Free Europe

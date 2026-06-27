@@ -1,0 +1,41 @@
+R.E.M.
+8 Juillet 2008
+Théâtre Antique de Fourvière, 
+Lyon, France 
+
+
+SETLIST (55:06) 
+--------------- 
+01. ** Linecheck
+02. ** Instrumental
+03. ** Instrumental
+04. ** Instrumental
+05. ** Instrumental
+06. Star 69
+07. Time After Time
+08. I’ve Been High
+09. Living Well Is the Best Revenge
+
+
+SOURCE 
+------ 
+IEM : Scanner Mono > Edirol R-09 (Michael Stipe)
+
+GENERATION 
+---------- 
+.WAV[16bit/44.kHz] > .FLAC [16bit/44.1kHz] 
+
+TRANSFER 
+-------- 
+USB > Adobe Audition CC 2017 > CDWave Audio Editor 1.98 > Trader's Little Helper 2.7.0 
+
+NOTES 
+----- 
+Concert dans le cadre des Nuits de Fourvière.
+Enregistré depuis l'intérieur, à l'époque l'accès aux répétitions était assez aisé.
+Oui le concert aussi a été enregistré; mais pour le moment je ne saurai dire où il est...
+Il peut y avoir quelques interférences par-ci par là, à l'époque notre méthode de captation était plutôt rudimentaire (et toute nouvelle, ça doit être le 4 ou 5ème iem qu'on a réalisé, pas plus)
+
+
+Enregistré par J&A&C
+MERCI DE NE PAS CONVERTIR EN FORMAT LOSSY, DE NE PAS VENDRE ET NE PAS DIFFUSER AILLEURS.

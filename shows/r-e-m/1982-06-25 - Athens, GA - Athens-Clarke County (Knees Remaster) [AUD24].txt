@@ -1,0 +1,67 @@
+R.E.M.
+1982-06-25 ::: Athens, Athens-Clarke County, Georgia, USA  
+i & i ("Athens Progressive Music Club" ::: 244 Oconee Street
+M?-AUD (48kHz/24bit files)
+
+~*~ Slightly remastered fixing a few issues, without EQ or NR ~*~
+
+01. == tuning/audience ==
+02. Radio Free Europe
+03. Laughing
+04. Gardening At Night
+05. 9-9
+06. Pilgrimage
+07. Shaking Through
+08. == audience/tuning/Stipe talk "We're gonna do a new song." ==
+09. ? ("Just Stay Put"*)
+10. Wolves, Lower
+11. Romance
+12. 1,000,000
+13. Pretty Persuasion
+14. Moral Kiosk
+15. == audience/tuning/song intro ==
+16. Catapult
+17. Carnival Of Sorts (Box Cars)
+18. == audience/tuning/"Perfect Circle"aborted effort
+19. White Tornado
+20. We Walk
+21. West Of The Fields
+
+Encore ::: 
+22. == audience/tuning/talk ==
+23. Sitting Still
+24. Ages Of You ->
+25. Stumble ->
+26. Ska
+		
+Total Time ::: 1:24:56
+
+::: VG+ stereo AUD. Check samples for undesirable, jury's still out, desired but need a jolt.
+::: Warts: SOME rowdy AUD but mostly between songs (including some idiotic howling). Minutia repairs not addressed (maybe another day).
+::: COMPARISON CLAUSE: This is a 2021 transfer from my '80s cassette, NOT the digital version apparently online (somewhere).
+::: If someone compares this to the previously traded online version & that one is better, please upload it.
+::: The EXC website www.remtimeline.com says these are the first known performances of "We Walk" & "Moral Kiosk". 
+::: #09 is the only known performance of this song. *Correct title unknown, tho' some repeated lyrics are "Just Stay Put".
+::: remtimeline notes after #14, drum machine starts&"Perfect Circle"opening notes played, but song aborted due to "synthesizer failure" 'til its apparent debut a week later (1982-07-02).
+::: Opening band was local Athens band, Art In The Dark.
+::: At this time, REM only had ONE 1981 45 release & their touring karma.
+::: REM's debut gig had been more than 2 years prior to this, on 1980-04-05.
+::: Embarrassed to have asked 3 people for this only to find a copy in my cassettes (tho' w/an incomplete date).
+::: Recorded Oct'81, but their debut EP"Chronic Town"wasn't released 'til 1982-08-24 (8 weeks after this gig).
+::: Tho' playing many songs from "Murmur" here, the album wasn't recorded 'til Jan/Feb'83 & issued April'83.
+::: REM UPLOAD REQUEST from this era. Athens i & i club 1982-08-03 SBD. Please.
+::: Could someone please upload 1984-02-29 Athens 40 Watt Club Hindu Love Gods & REM?
+
+Recording Information ::: unknown stereo recording equipment -> master tape (likely cassette) -> 1 or 2 cassette generations -> low generation Maxell XLII-90 cassette, Dolby off.
+
+Playback 2021-02-xx ::: low generation Maxell XLII-90 cassette on Nakamichi 680ZX cassette deck, Dolby off, azimuth adjusted for individual tape, heads cleaned & demagnetized -> Sony Linear PCM Recorder PCM-M10 (48kHz/24bit wav file) -> computer -> Audacity [normalisation to remove DC offset (NOT maximum amplitude!), channel/phase alignment (note - presumably due to stereo single-point mike in motion - alignment is unstable), fades, (did NOT do manual one-at-a-time glitch, bump, clap, pop, click, dropout & dullspot repairs), few volume adjustments, single averaged +0.6% pitch (speed) fix with single pass after frequency analysis, NO equalisation or noise reduction] -> CD Wave (track splits) -> 48kHz/24bit flacs (Trader's Little Helper) -> yr ears. Freed 2021-03-xx.
+
+Line-up ::: John Michael Stipe - lead vocals // Peter Lawrence Buck - electric guitar // Michael Edward Mills - electric bass, backing vocals // William Thomas Berry - drums, percussion, backing vocals.
+
+Nothing here ever commercially released to my knowledge. If I'm wrong, please advise & I'll take the offending trax offline.
+
+DimeTravel 708 ::: Thanks to the original taper & traders! Sincere thanks to whomever uploads this for me. ::: Corrections welcome ::: Loved this era of REM, lotta spontaneity, joyful, sometimes too much mumbling or not enough lead guitar, but... goin' places. Listen, enjoy, show appreciation, share, give, spread peace. Yrs truly, Knees
+
+Support the artists! www.remhq.com -- assorted facebook & other sites available
+
+Do whatever you want with it except sell it, 'cause that ain't cool!

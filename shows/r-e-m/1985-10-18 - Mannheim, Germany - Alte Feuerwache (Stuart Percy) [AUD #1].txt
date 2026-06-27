@@ -1,0 +1,48 @@
+rem
+1985-10-18
+Mannheim (D)
+Alte Feuerwache
+
+originally scheduled for oct 8th this was shifted to 10-18 ( source: ticket scan)
+
+analog aud-Master taped by stuart percy
+aiwa-CM30--> sony D6   (onto TDK SA 90)
+
+first digital transfer hanwaker 2010-11
+1.gen cassette played back on nakamichi CR-7e ( azimuth aligned)-> edirol 04
+wav file smoothed in audacity ( fades , volume/channel correction), tracked in cdwave--> flac(8)
+
+NOTE
+Stuart Percy transfered his master to a first gen. cassette ( the one i transferred for this torrent )  {the original tape flips are marked [/] } I tried to fix the harsh breaks  as good as possible
+
+90 mins
+01 Feeling Gravitys Pull 
+02 Harborcoat 
+03 Driver 8 
+04 Green Grow The Rushes 
+05 Gardening At Night 
+06 Fall On Me 
+07 Pretty Persuasion 
+08 So. Central Rain (Buck and Stipe)
+09 Have You Ever Seen The Rain? 
+10 There She Goes Again 
+11 Radar Love [/tape flip]
+12 Ghost Riders In The Sky 
+13 Can't Get There From Here 
+14 Seven Chinese Brothers 
+15 Auctioneer (Another Engine) 
+16 Old Man Kensey 
+17 -stipe talks-
+18 Life And How To Live It
+19 -encore noise 1-
+20 Theme From Two Steps Onward
+21 - meet jefferson holt-
+22 We Walk/Falling In Love Again/Behind Closed Doors /Tired Of SingingTrouble/After Hours 
+23 Toys In The Attic
+24 20th Century Boy 
+25 -encore noise 2 (abridged)[/]
+26 Second Guessing 
+27 Femme Fatale 
+28 See No Evil
+
+taped by stuart percy . transferred and uploaded to dime by hanwaker 2010-11

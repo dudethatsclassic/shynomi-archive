@@ -1,0 +1,39 @@
+R.E.M.
+November 7th, 1986
+Felt Forum, New York, NY
+
+Master:
+FOB Nakamichi CM300/cp-1's>Sony TC-D5>Cass(1), Nak DR-2>Tascam CDRW2000>CD
+taped by Dave Thomas, CD by Jon Pasternak
+
+Extraction:
+CD>xACT 2.13 (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+01. These Days                   [03:31.58]
+02. Sitting Still                [03:27.57]
+03. Hyena                        [04:22.55]
+04. Talk About the Passion       [03:34.60]
+05. Driver 8                     [04:13.47]
+06. Cuyahoga                     [04:31.32]
+07. Feeling Gravitys Pull        [05:53.09]
+08. The Flowers of Guatemala     [04:39.46]
+09. White Tornado                [02:13.35]
+10. I Believe                    [04:36.58]
+11. banter                       [02:15.45]
+12. Swan Swan H                  [02:45.72]
+13. Superman                     [03:09.49]
+14. Can't Get There From Here    [04:08.00]
+15. Spooky                       [03:42.40]
+16. Pretty Persuasion            [03:07.50]
+17. Auctioneer (Another Engine)  [03:47.28]
+18. Just A Touch                 [03:14.53]
+19. Fall On Me                   [03:07.63]
+20. Begin the Begin              [03:35.34]
+21. Pills                        [02:38.34]
+22. Oddfellows Local 151         [03:18.67]
+                          Total: [79:57.17]
+ 
+Notes:
+- Encores missing (Lightnin' Hopkins, Funtime, The One I Love, So.
+  Central Rain).

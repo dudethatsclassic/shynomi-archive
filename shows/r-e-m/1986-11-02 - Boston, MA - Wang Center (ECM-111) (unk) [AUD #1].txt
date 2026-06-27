@@ -1,0 +1,48 @@
+R.E.M.
+Michael Stipe: vocals
+Peter Buck: guitar
+Mike Mills: bass, backing vocals
+Bill Berry: drums, backing vocals
+
+Wang Center 
+Boston, Mass. USA
+02 November 1986
+(2nd of 2 nights there)
+the Feelies opened
+runtime: 106:35 (minutes/ seconds)
+
+setlist: (before) and after retracking
+01: these days (3:36) 3:46
+02: moral kiosk (3:26) 3:42
+03: hyena (3:16) 3:02
+04: pilgrimage (4:30) 4:29
+05: the one I love > (3:51) 3:11
+06: feeling gravitys pull (5:00) 5:49
+07. flowers of Guatemala (4:47) 4:41
+08. ghostriders in the sky  (2:26) 2:33
+09. driver 8 (3:51) 3:30
+10. tired of singing trouble > I believe (4:21) 4:40
+11. swan swan H 4:55 (4:54) 4:48 (end applause cuts, spliced, tape flip)
+12. letter never sent (3:24) 3:37
+13. superman (3:16) 3:15
+14. can't get there from here (4:05) 3:44
+15. 1,000,000 (2:59) 3:08 (end applause cuts, spliced, tape edit) 
+16. pretty persuasion (4:06) 3:55
+17. auctioneer (another engine) (2:55) 2:53
+18. Little America (3:08) 3:27 (end applause cuts, spliced, tape edit) 
+19. fall on me (3:20) 3:11
+20. Cuyahoga (4:37) 4:23
+21. see no evil (3:01) 3:07
+22. oddfellows local 151 (4:47) 4:37
+23. maps and legends (3:31) 3:28
+24. Michael talks, life and how to live it (6:38) 6:44
+25. all tomorrows parties (Michael acapella) (1:08) 1:09
+26. Lightnin' Hopkins (3:31) 3:34
+27. begin the begin (3:46) 3:59
+28. Kohoutek (Michael acapella) - toys in the attic (3:31) 3:18
+
+
+Source: Sony Mics ECM-111 > Sony D3 Deck > ANA(1) > CDR(1) > EAC > 
+mkwACTv0.97 beta1 (SHN) > flac > wav (retracking) > flac 8 (sb's aligned)
+
+levels balanced, retracked to put applause at end of tracks (no speed adjusting)

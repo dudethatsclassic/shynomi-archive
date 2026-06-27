@@ -1,0 +1,86 @@
+R.E.M. 
+Barrymore's
+Ottawa, Onatario, Canada
+Saturday 17 August 1985
+
+Support: The Three O'Clock
+
+Original lineage information: Sony TCD-6M/Nacamichi CM-300 > Audience cassette master > Cassette > Cassette > CDR > dBpowerAMP > WAV > FLAC Frontend > Flac files.
+
+My remaster: Foobar 2000 V1.5.5 (merge tracks into 1 wav file)->iZotope RX7 (declip, denoise) -> iZotope Ozone 9 (EQ adjustments)->Audacity V2.4.2 (split tracks into separate files again and convert to Flac Level 8). All tracks tagged using Foobar 2000. 
+
+Recorded by David Thomas. Originally seeded on Dime on 16 August 2005 by dl442000. 35th anniversary remastered edition uploaded to Dime by eckythump on 17 August 2020.
+       
+
+Main set:
+01. Feeling Gravitys Pull
+02. Radio Free Europe 
+03. Letter Never Sent 
+04. Pills (Bo Diddley cover) 
+05. Can't Get There From Here 
+06. 7 Chinese Bros. 
+07. Laughing 
+08. Driver 8 
+09. Maps And Legends 
+10. Fall On Me 
+11. Have You Ever Seen The Rain? (Creedence Clearwater Revival cover)  
+12. West Of The Fields (tape flip between tracks)
+13. Auctioneer (Another Engine) 
+14. Old Man Kensey 
+15. Pretty Persuasion 
+16. Moral Kiosk 
+17. Life And How To Live It 
+
+Encore 1:
+18. Moon River (Henry Mancini cover)
+19. I Can't Control Myself (The Troggs cover)
+20. 1,000,000 (w/ Facists Eat Donuts snippet by Pop O' Pies) 
+21. I Can Only Give You Everything (Them cover)
+
+Encore 2:
+22. Tired Of Singing Trouble - Boy (Go) 
+23. Paint It, Black (The Rolling Stones cover)
+24. In The Year 2525 (Zager & Evans cover)
+25. Smokin' In The Boys Room (Brownsville Station cover)
+26. Sweet Home Alabama (Lynyrd Skynyrd cover)
+27. (I'm Not Your) Stepping Stone (w/ 12XU snippet) (Paul Revere and The Raiders/Wire cover)
+28. Secret Agent Man (Johnny Rivers cover)
+29. The Lion Sleeps Tonight (The Tokens cover)
+30. God Save The Queen (Sex Pistols cover)
+31. Roadrunner (Modern Lovers cover) 
+32. 20th Century Boy (T. Rex cover)
+33. Skank (cut)
+
+Encore 3:
+34. (joins in progress) Carnival Of Sorts (Boxcars) 
+
+Michael Stipe - Vocals, harmonica
+Peter Buck - Guitar, "vocals"
+Mike Mills - Bass Guitar, vocals
+Bill Berry - Drums, vocals
+
+"There's a sense of event here, a show so great and relaxed that the band is doing whatever it wants and the crowd is loving it. As they go into 'Sweet Home Alabama' Michael is smiling and laughing more than he has in the last 24 hours. It's a pleasure to see, that moment of release. They take turns singing, forget half the words, and sound amazing anyway. They do 'Paint It Black' which sounds rehearsed, 'The Lions Sleeps Tonight' which doesn't, and 'Secret Agent Man', which Buck claims is the first song that made him want to pick up a guitar. 'In The Year 2525' is sloppy as hell and twice as funny. They also do 'Boxcars' and 'Million' though they turn down my written request for 'Wolves'. It ends, and Michael rides offstage piggy-back on top of Pete. As they leave, everybody is asking everybody else about getting a tape of the show. I feel lucky to have been here" - unknown reviewer, taken from an image found on Barrymore's website.
+
+It's hard to top that review. This show is regarded by many people (myself included) as the greatest R.E.M. show of all time. Mike Mills even referenced this show in a interview on Sirius XM earlier this year when asked about memories of the early days. 35 years later, this is the show everyone wants to say they attended, but few can. Thankfully, you can at least listen to it. 
+
+Some background to the show - Barrymore's is (was?) a small club in the Canadian capital of Ottawa with a capacity of 300. It was originally a movie theatre called the Imperial Theatre, and became Barrymore's in 1978, named in honour of the Barrymore acting family as a nod to its original purpose. It was founded by Gord Rhodes, who sadly passed away in 2013. By nature of its capacity it usually hosted up and coming acts, but it certainly punched above its weight, pulling some very big names. Notable acts to have played there include U2, James Brown, Iggy Pop, Tina Turner, Gang Of Four, John Cale, Robert Palmer, INXS, Greg Allman, and even Bryan Adams (in 1980, well before he was singing about 69'ing in summer). I could go on. The complete list is available as an Excel spreadsheet on the Barrymore's website if you're so inclined. The point is it was small, but it had earned a big reputation.
+
+By 1985, R.E.M.'s popularity in North America was rising rapidly, with clubs the size of Barrymore's well in their past, and theatres now the norm. By the end of August the band would perform in New York City at the prestigious Radio City Music Hall, a sure sign they were no longer a small band playing on the college rock circuit sleeping on floors trying to make ends meet. The Barrymore's show was not actually on the original tour itinerary - the fan club newsletter from June 1985 listed a second show for Toronto on this date. Perhaps because the first Toronto show didn't sell as well as expected or hoped, that show didn't eventuate, and with the band finding itself with a spare day on the itinerary, and still needing to be in Montreal for the 18th, decided to schedule this small club date. Nothing like a back to the roots club gig in between theatre shows to liven things up a bit!
+
+By mid August R.E.M. were 2 months into their main tour promoting Fables Of The Reconstruction (after the month in April/May performing at end of year university celebrations). It was their 37th show in 56 days, spanning 2 continents and 6 countries. There was still 9 more shows to go in the next 2 weeks before the band had a month off. Not only that, it was their fifth year of continual touring. If the band were getting tired you could understand it. While not unusual for an R.E.M. show, there had been an increasing amount of cover songs creeping into the band's sets during August - Smokin' In The Boys Room, Crazy and See No Evil were all performed 4 days earlier in Pittsburgh, and the previous night in Toronto the covers included California Dreamin', King Of The Road, and a Wild Thing medley that included Louie Louie, D.I.V.O.R.C.E and Respect. 
+
+The show began like all others on the tour, with the train horn and Peter's guitar riff on Feeling Gravitys Pull. Following up with Radio Free Europe was unexpected and perhaps the first sign this would not be a regular show, the song rarely performed in 1985. A cover of Pills also early in the set underlined that. Aside from that though, the main set was fairly standard fare for 1985. Then came the encores! In 1984 it wasn't unusual for Michael to begin an encore singing Moon River, but it hadn't been performed much so far in 1985. A rather loud and uncalled for shout of 'fuck off' from a crowd member in the middle of it certainly wasn't appreciated however. Mike was the most fired up, urging the heckler to come up on stage and say it to their face. Said heckler wisely declined the offer. A few songs later Peter invited the heckler backstage for a good old ass kicking. You don't dis Moon River in front of R.E.M. and get away with it. Here's where the combination of a long tour, small club, heckler and undoubtably plenty of alcohol combined for the most incredible encores in the band's history. What the band had actually planned to play we'll never know, but that heckler was the catalyst for the band to let off some steam and start to play a whole range of covers, some they knew well, others not so well. It didn't matter, as you can see in that review above and hear on the recording, the audience loved it. Listening to it 35 years later you will love it too. Perhaps the most bizarre of all was Michael's anti radio rant in the middle of Roadrunner (a theme he revisited with his earthquake story on the 1987 tour), name checking a whole range of artists, including sunglasses at night mid 80's heart throb Corey Hart (who coincidentally or not was due to play in Ottawa 2 days after this show according to the local newspaper). The night closed out with the band's own unreleased 'weird' song 'Skank', and things finally ended with the audience favourite Boxcars. 2 hours later, R.E.M. showed what a masterful live act they were. While the next 2 weeks of shows would see slightly more restrained setlists, these shows are arguably the best 2 weeks of R.E.M. shows you will ever listen to. And thanks to David Thomas, we are very fortunate to be able to listen to many of them.
+
+****
+
+Recording notes: This show, along with many others between 1985 and 87 was recorded by David Thomas. David is a first round ballot hall of fame R.E.M. taper. We'd have a lot less to listen to from this period were it not for him. Traded on tape between fans for many years, this show was originally uploaded to Dime in August 2005 to celebrate the show's 20th anniversary. It's from a second generation tape, and you could tell. The first 45 minutes sound really good, crisp and clear, not much to do to make it sound good because it already does. Then after the tape flip after West Of The Fields, all of a sudden there was a lot of tape hiss to deal with. The wonders of iZotope's spectral denoise however enabled me to remove it without removing any of the music. Along with an EQ adjustment, the show has never sounded better (unless you have access to the master tape, anyone?). Moon River is now devoid of hiss - for better of worse, the heckler and all the responses can be heard much clearer. Presumably due to the length of the show, the tape cut out during Skank, so the end of the song is lost, as is the beginning of Boxcars. The majority of the show though is thankfully here. This show deserved something special for its 35th anniversary, and I hope I delivered. 
+
+****
+
+Torrent notes: This show was originally uploaded to Dime by dl442000 15 years ago from time of writing, on 16 August 1985. It's been reseeded over the years, but hasn't been on the Dime tracker for a while. It should be on forever. I've included a scan of a ticket from the show, plus a photo of Barrymore's itself, taken from the Barrymore's Facebook group (not from the day R.E.M. played).
+
+If you listen to one R.E.M. show this year, this needs to be it. Chestnut!
+
+Want more information about R.E.M. setlists, recording dates, and what the band members have been getting up to since 2011? Visit www.remtimeline.com!
+
+-eckythump, 16 August 2020

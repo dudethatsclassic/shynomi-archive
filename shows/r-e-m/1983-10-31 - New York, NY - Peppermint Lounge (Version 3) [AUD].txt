@@ -1,0 +1,103 @@
+TORRENT TITLE
+
+R.E.M. - 1983-10-31 Peppermint Lounge, New York, NY
+(played under the name "It Crawled From The South")
+
+ARTIST NAME
+
+R.E.M.
+
+BOOTLEG TITLE
+
+N/A
+
+VENUE, CITY, COUNTRY, DATE
+
+Peppermint Lounge, New York, NY 1983-10-31
+
+TRACK LISTING
+
+DISC 1 (29:52)
+
+01 20th Century Boy.........................(2:55)
+02 I Can't Control Myself...................(2:50)
+03 Crazy....................................(3:00)
+04 Pale Blue Eyes...........................(2:19)
+05 So You Want To Be A Rock And Roll Star...(2:08)
+06 Femme Fatale.............................(2:30)
+07 Secret Agent Man.........................(2:55)
+08 Burning Hell.............................(2:32)
+09 Pills....................................(1:53)
+10 D.O.A....................................(3:57)
+11 I Can Only Give You Everything...........(2:49)
+
+LINE UP
+
+Bill Berry - drums
+Peter Buck - guitar
+Mike Mills - bass
+Michael Stipe - vocals
+
+FLAC FINGERPRINTS or MD5 checksum for the musical content only (*)
+
+01 20th Century Boy-255.flac:ec323089d9c53f4e0da5c1406d01eb82
+02 I Can't Control Myself-250.flac:af86999a3163fdbf584441f036119dbb
+03 Crazy-300.flac:6259e4df6980d53b8b3a93a08890c3d0
+04 Pale Blue Eyes-219.flac:23491d37837c59399b7fb1735a15b339
+05 So You Want To Be A Rock And Roll Star-208.flac:1f65cdaeb1d3d63223cb2eca47e0d29f
+06 Femme Fatale-230.flac:e548cd7aba438b6a01712d153c650d8e
+07 Secret Agent Man-255.flac:a6f8f4d75fdbce8def2b7e809e45d45c
+08 Burning Hell-232.flac:191e7750cf5f0bab595a602961645669
+09 Pills-153.flac:76939dd24eee2447a533b09127aea38a
+10 D.O.A.-357.flac:9b7c185e1fe03e2c5162e5fcf4bc2ecd
+11 I Can Only Give You Everything-249.flac:50e77fb6da1f620073e50a210e71edd0
+
+ARTWORK
+
+N/A
+
+SOURCE / LINEAGE
+
+Stereo AUD trade tape
+
+Trade tape > Computer WAV > Cool Edit (track separation) > CD-R > EAC v0.99 > Computer WAV > TLH v2.4.1 > FLAC 8 > DIME > you
+Big thanks to the original taper, and to the trader (dunno for sure) who hooked me up with a copy.
+I originally mastered this 2003-02-16, but didn't retain the original WAV fileset.
+My notes said the right channel was way way low & I bumped it up a bit; it's still a bit low.
+Beyond that, I only placed track marks before each piece.
+
+NOTES
+
+This comes from a tape trade source, not off any boot LP / CD.
+I got this either from a friend at a local record shop, or at the Hillside Inn (Rosemont, IL) record swaps.
+Or it may well have come from (Chicago area guy) Zorch Enterprises.
+
+- - - -
+
+Not the greatest sounding tape; but at least it exists to preserve a wild night of mostly covers.
+It's clear enough for listening, just not "high fidelity".
+
+Sounds fast to me; back when I mastered this, I didn't know how to deal with that.
+Since this was already done to a disc, I left it as is.
+
+There's an edit on the source after 'Pills'.
+
+- - - -
+
+Before doing their own 'Crazy', Michael says 'this is a song by a band that's about to break up'.
+
+- - - -
+
+Filenames have numbers on the end that are the TIMES (ex. - "...-359" is 3min59sec long).
+
+I mark the start of tracks when the music or count-in begins, not the talking about it before it starts.
+
+- - - -
+
+The usual schmack applies here:
+
+Please don't post this anywhere but DIME.
+Please retain this original info file data with any reseedings.
+Please don't transfer to MP3 or other lossy formats.
+Please only trade this with others, don't sell it.
+Please support the artists involved by purchasing their official product in massive quantities.

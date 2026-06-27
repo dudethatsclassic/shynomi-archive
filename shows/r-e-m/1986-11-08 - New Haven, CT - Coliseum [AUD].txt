@@ -1,0 +1,76 @@
+REM
+8 November 1986 - 
+Coliseum , New Haven, CT 
+
+Source: 1st generation analog cassette
+Taper: David O Thomas
+Equipment: Sony TCD-6M/Nacamichi CM-300 
+Lineage: cassette master>cassette>Dak's Wave Editor>wav>flac
+
+Dave and I worked very close to each other.  He would let me borrow his equipment to tape shows.
+I would return his equipment with a copy of the show I taped and he would give me shows he taped.
+He gave my roommate and I alot of REM shows.  Some of those are not widely circulated.
+This seems to be one of them.  Another great show and another very good recording.  He had a
+problem during Harborcoat (Track 2) and there is 3:49 of dead air.  The dead air is track 3.  Track 4 is
+Lightning Hopkins as it cuts in. You can decide if you want to include the dead air.  
+
+Enjoy!!
+
+Disc 1:
+These Days
+Harborcoat(cuts out)
+(dead air)
+Lightnin' Hopkins(cuts in) 
+Sitting Still 
+The One I Love
+Feeling Gravitys Pull 
+The Flowers Of Guatemala
+Ghost Riders in the Sky
+(Don't Go Back To) Rockville 
+ Tired Of Singing Trouble>I Believe
+ Swan Swan H
+
+Disc 2
+Seven Chinese Brothers
+Superman 
+Can't Get There From Here
+We Walk 
+1,000,000
+Pretty Persuasion
+Auctioneer (Another Engine) 
+encore 1: 
+Oddfellows Local 151
+Driver 8
+Long Legged Girl>Just A Touch 
+encore 2:
+Michael telling Elvis story
+Fall On Me
+Cuyahoga
+Radio Free Europe
+
+rem1986-11-08d1t1.flac:f1019623ed375563702963c8c3ac46aa
+rem1986-11-08d1t2.flac:f05cc91254c9462bf01f84d205089e6d
+rem1986-11-08d1t3.flac:d379332b1a5d02902d32203859ecdaa1
+rem1986-11-08d1t4.flac:91a5d0e162ab34393f279b21393284bb
+rem1986-11-08d1t5.flac:ba0c73eeb1b875f9afb3ddcecabd1d0a
+rem1986-11-08d1t6.flac:3322e0d837d7f8626ea2dfde321dddbd
+rem1986-11-08d1t7.flac:2ccf43551bcf02cc7389025886fdccf9
+rem1986-11-08d1t8.flac:99c67cb7ae88ec1c17b5278833979aa0
+rem1986-11-08d1t9.flac:a6a2b74795ff1ecd543987bc925eda06
+rem1986-11-08d1t10.flac:11f5458af9de84a7e23bc2f5288dff46
+rem1986-11-08d1t11.flac:c66fc669bafc60f53efd1811bd9a88c3
+rem1986-11-08d1t12.flac:e2f7bfc9706402c28d952111aab5b60c
+rem1986-11-08d2t1.flac:668b593fd3dcf4a6330eea4fde445994
+rem1986-11-08d2t2.flac:64c182f209e90d6f613924232068799d
+rem1986-11-08d2t3.flac:af520f7eb39e5acd6df2873f2ae3b512
+rem1986-11-08d2t4.flac:78cb5dba66e787689a9a8437f0ed5d6f
+rem1986-11-08d2t5.flac:0bd131b56bb68edd1a96c48adbb0ac76
+rem1986-11-08d2t6.flac:a83801c10d4d5c55dac484e7729eb42d
+rem1986-11-08d2t7.flac:0c9724a9099fbfbfa3e7ef3077c2afa3
+rem1986-11-08d2t8.flac:fc3100e13be618d70da9d58a05f5ced9
+rem1986-11-08d2t9.flac:618fd3338fa0ef40318393451d4aa3a3
+rem1986-11-08d2t10.flac:a109d24cd2d9b49e3c5114848677c486
+rem1986-11-08d2t11.flac:26fee8f7c160c1e8acfea2feebc61e99
+rem1986-11-08d2t12.flac:dcecad426d008efeae2f30358f1dd9c9
+rem1986-11-08d2t13.flac:424c547f99b5d0d69a49036d79bf753a
+rem1986-11-08d2t14.flac:3dd0746c9d433f55e59cf9361860f26e

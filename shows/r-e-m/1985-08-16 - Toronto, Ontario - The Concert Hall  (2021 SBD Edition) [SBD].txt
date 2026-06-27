@@ -1,0 +1,86 @@
+R.E.M. 
+The Concert Hall, Masonic Temple
+Toronto, Ontario, Canada
+Friday 16 August 1985
+
+Support: The Three O'Clock
+
+Contrast clause: There is an audience recording of this show at http://www.dimeadozen.org/torrents-details.php?id=559107. Aside from the first 2 songs which are patched from an audience source as these weren't on the tape, the rest of this recording is from a soundboard source and has never circulated before.
+    
+Lineage: Tracks 0-2: AUD source unknown lineage. Tracks 3-27: Soundboard > Cassette (unconfirmed generation but likely to be 3rd gen)
+
+Flac files received via We Transfer -> iZotope RX8 advanced -> iZotope Ozone 9 -> Audacity 2.4.2 (split tracks) -> Traders Little Helper 2.8.4 (fix SBE's) -> Foobar 2000 1.6.2 (tag files) -> you
+
+Uploaded to Dime by eckythump 8 January 2021
+   
+Main set:
+00. Intro by Scot Turner from CFNY-FM
+01. Feeling Gravitys Pull
+02. Harborcoat
+03. Green Grow The Rushes
+04. Hyena
+05. Pilgrimage
+06. Femme Fatale (The Velvet Underground cover)
+07. Driver 8 
+08. Fall On Me 
+09. So. Central Rain (I'm Sorry)
+10. Have You Ever Seen The Rain? (Creedence Clearwater Revival cover)  
+11. Can't Get There From Here 
+12. 7 Chinese Bros. 
+13. Auctioneer (Another Engine) 
+14. Old Man Kensey 
+15. Little America - Home On The Range
+16. Pretty Persuasion 
+17. Life And How To Live It 
+
+Encore 1:
+18. California Dreamin' (The Mamas & The Papas cover)
+19. King Of The Road (Roger Miller cover)
+20. Bandwagon
+21. Skip A Rope (Henson Cargill cover)
+22. 20th Century Boy (T-Rex cover)
+
+Encore 2:
+23. Theme From Two Steps Onward
+24. Broken Whiskey Glass (Jason & The Scorchers cover)
+25. Wild Thing - Louie Louie (The Troggs/The Kingsmen cover)*
+26. See No Evil (Television cover)
+27. Pale Blue Eyes (The Velvet Underground cover)
+
+*with snippets of D.I.V.O.R.C.E, Respect and 12XU
+
+Michael Stipe - Vocals, harmonica
+Peter Buck - Guitar
+Mike Mills - Bass Guitar, vocals
+Bill Berry - Drums, vocals
+
+****
+
+Show notes: This show may be more well known as 'the night before they went crazy with covers at Barrymore's in Ottawa', but a closer examination of this setlist shows 10 of the 27 songs performed on this night were cover songs, with only one repeated the following night (the Creedence cover which was played at nearly every show in 1985). Barrymore's was more of a sloppy affair with rarely played covers for the most part; here the covers were ones the band had more frequently played and was a little more professional.
+
+This show saw the band travel from Rochester, NY, crossing the US/Canadian border, and pulling into Toronto at the Concert Hall, part of the historic Masonic Temple which hosted many concerts over the decades under different names (the venue still exists, but doesn't seem to be used for live gigs anymore, current pandemic issues aside). This was their second time at this venue, the first on 13 July 1984. The venue is an all standing affair, with a capacity of around 1,600 (I don't know if the show was sold out). They were almost 2 months into their tour post the release of 'Fables Of The Reconstruction', and inspecting the setlists from this period shows they were quite loose affairs with many cover songs, particularly in the encores. 'Wild Thing' was a common show closer at this time. At the start of the encore Michael told the audience they had a rough day crossing the border into Canada, and combined with interviews meant there was no time for a soundcheck, and as a result they were now going to take requests much to the delight of the crowd. This led to some inspired cover choices, as well as the bands own rarely played quirky b-side 'Bandwagon'. It's one of the reasons why people love this era of R.E.M. - their popularity was increasing quickly in North America, but they could still have fun with the setlist and play whatever they felt like, whether it be obscure covers, or rarely played b-sides. 1985 felt like the last year of the 'old' party R.E.M., before a more professional and polished show became somewhat of a necessity as the band became more and more popular (and less alcohol was consumed before and during the show). There's some great recordings from this era, particularly this 2 week stretch from Toronto through to the finale of this tour leg in New York at the end of August. This show ranks up there with the best of them.
+
+Watch one of the interviews Peter and Michael did earlier that day for MuchMusic here:
+https://www.youtube.com/watch?v=EdsqSnGwX6U
+
+****
+
+Recording notes: Aside from the first 2 songs which weren't on the cassette and are sourced from an AUD recording (possibly the well circulated David Thomas source, but my copy of his recording does not include the intro before Feeling Gravitys Pull), the rest of the show is sourced from a soundboard recording. I received it from someone who's had the show for the past 26 years who got it from a friend of a friend who wanted to see it distributed for everyone to enjoy. He doesn't know where the original source came from, but I'm going to speculate:
+
+As can be heard in the intro, a person by the name of Scot Turner from Toronto radio station CFNY-FM (now known as The Edge 102.1) tells the audience the show is being recorded for a future edition of 'Thursday Night Live by Carling O'Keefe' (Carling O'Keefe being a Canadian brewing company). It would appear the show never went to air on the radio else there's a 99.9% chance a bootleg of the show would have appeared at some point. At one point Michael can be heard asking whether the show is being broadcast live so he knew it was being recorded. I don't know why the station didn't broadcast even an edited version, but I can only assume the band decided they didn't want it to be aired. Someone connected with the radio station likely made a copy for a friend with the strict instructions it could not shared. 35 and a half years later here it is.
+
+Given its a soundboard source, the recording itself is quite nice but it needed some work. It was slightly too fast so I slowed it down by 1% and made some other various adjustments. You'll notice when Michael talks before Life And How To Live It and California Dreamin' it sounds a little different - those talking sections were extremely hissy so I used iZotope's RX8 spectral denoise on them. I did not use the denoise function on any other part of the recording as I know it upsets a lot of people, but the hiss on those sections was very loud and distracting, and as it was just some brief spoken parts I deemed that to be ok. It's a nice alternative to the audience recording which while sounding very nice had a lot of talkers around the taper. This is the only known soundboard from the North American legs of the 1985 tour that has surfaced, so this is a very nice addition to your R.E.M. collection.
+
+****
+
+Torrent notes: Famed R.E.M. taper David Thomas recorded this show, and his version has circulated in the digital world for over 15 years now. This is the first time the soundboard version has gone into wide circulation, so it's quite a special thing to have. For those wanting a comparison with the audience recording, briefly put both are excellent recordings. The audience recording has a lot of talkers/commentators near the taper, which some people might like as it adds to the atmosphere of being in the audience. There is none of that on the soundboard recording. So it's personal preference really. In my view both are essential to have in your collection.
+
+I've included a scan of the ticket stub from the show as well as a newspaper ad, and the person who sent me the show included his CD cover and back which I've also included. Enjoy!
+
+****
+
+As time passes between the end of R.E.M. and the time you read this know that there are a few of us that still care a great deal for this band. If you have any old tapes or need any questions answered about circulating shows please drop us a line. New finds from the ROIO world and anniversary releases are what we have to look forward to these days, so please don't throw those old tapes out just yet. 
+
+You are welcome to message me here or check us out at http://remtimeline.com/listentome/
+
+-eckythump, 8 January 2021

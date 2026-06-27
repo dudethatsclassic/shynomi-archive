@@ -1,0 +1,25 @@
+9150bb4cae13faedc139829762a3d844  [shntool]  101 Lotus.flac
+aeb56a421c050f96d224a234669b2678  [shntool]  102 What's the Frequency, Kenneth.flac
+5f2b9635575d3c9be4ce761d20883f3f  [shntool]  103 So Fast, So Numb.flac
+d0aaf776a32da62502daebfc5cccb482  [shntool]  104 Pilgrimage.flac
+9ee186619e3f379d6e2c51745459c97b  [shntool]  105 Suspicion.flac
+359b8c1c6229f21fe1e4252e4c785664  [shntool]  106 The Wake-Up Bomb.flac
+00dae04f176dcd6e6a89e107a9da7818  [shntool]  107 Half a World Away.flac
+7f033168d4e501eb324891305d9f1fa6  [shntool]  108 The Apologist.flac
+ee02b4424b9ecddad23f701cfa249da5  [shntool]  109 Electrolite.flac
+62b6c2c623f80dbcce9d66cb2b7d1bdf  [shntool]  110 Daysleeper.flac
+ca3b891478a4446aad9f6d2fe2894eae  [shntool]  111 The Great Beyond.flac
+b87e59aaae8bdaaafafbc6a49bf97cd9  [shntool]  112 Sweetness Follows.flac
+6fd2cc2be9b30ff01e9aee06793dcc97  [shntool]  201 The One I Love.flac
+ca7450a27e5cdfae49565aa613e9b373  [shntool]  202 Find the River.flac
+1eb6cad2ad9dae05c55d61dc72195617  [shntool]  203 At My Most Beautiful.flac
+9c8e4a3f222f3653a42ad0c30496c959  [shntool]  204 Man on the Moon.flac
+6e7f909c26a27320d3f0fd493fc0ee1a  [shntool]  205 Everybody Hurts.flac
+bcdd51dbca68b94da43fab6b09b45d57  [shntool]  206 Walk Unafraid.flac
+b7c2719db7ca3b61d7460747555aa914  [shntool]  207 Losing My Religion.flac
+66cfaf2d52fe876e31c075021786e50f  [shntool]  208 Hope .flac
+b1e45fb0cba5b4916d459026a95999f2  [shntool]  209 Why Not Smile.flac
+bd4feaf9872562b5944fce6042e3dc81  [shntool]  210 Crush With Eyeliner.flac
+3b3788085d438749166f920ee2d7916c  [shntool]  211 Tongue.flac
+ec8b63bc3953e648170a5e07b93689be  [shntool]  212 Gardening at Night.flac
+32dffbed9f1f47aca6ea44a90812d228  [shntool]  213 It's the End of the World.flac

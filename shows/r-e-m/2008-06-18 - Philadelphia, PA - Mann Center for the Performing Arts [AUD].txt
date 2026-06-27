@@ -1,0 +1,76 @@
+rem2008-06-18.flac16 Philadelphia, PA - Mann Center for the Performing Arts (chris k)
+
+R.E.M.
+6/18/2008
+Mann Center for the Performing Arts
+Philadelphia, PA
+
+Source: Schoeps MK4 > Nbox > Edirol R-09 @ 24bit/48Hz
+Location: FOB,  Slightly Right of Dead Center, Orch A Center, Row Q
+Transfer: R-09 > USB > Macbook > Spark XL 2.8.2 (track/resample/dither) > Xact 1.62 > Flac (level 5)
+Recorded, transferred and edited by: Chris K (the schoeps imposter)  justgup @ yahoo.com
+
+Disc 1
+01. These Days
+02. Living Well is the Best Revenge
+03. What's the Frequency Kenneth?
+04. Wolves, Lower
+05. Man Sized Wreath
+06. Turn You Inside Out
+07. Imitation of Life
+08. Staring Down the Barrel of the Middle Distance
+09. Ignoreland
+10. Bad Day
+11. Hollow Man
+12. The Great Beyond
+13. Houston
+14. Electrolite
+15. Walk Unafraid
+
+Disc 2
+01. The One I Love
+02. Find the River
+03. Let Me In
+04. Departure
+05. Life and How to Live It
+06. Orange Crush
+07. I'm Gonna DJ
+Encore
+08. Supernatural Superserious
+09. Losing My Religion
+10. Begin the Begin *
+11. Fall on Me #
+12. Man on the Moon #
+
+Notes:
+* with Edie Veder of Pearl Jam
+# with Johnny Marr of Modest Mouse and The Smiths
+
+Flac fingerprints:
+REM2008-06-18d1t01.flac:aa501bc46897766a8ab39c5a7d9dc7da
+REM2008-06-18d1t02.flac:d2631b9f4c587d3003d355f09fb5187a
+REM2008-06-18d1t03.flac:8fbb8a869c708d01bc3ab506f824599d
+REM2008-06-18d1t04.flac:eccc692bcda98fde84ee917d3aed3708
+REM2008-06-18d1t05.flac:ac3b40ceca75abe1f4a6d60a458a2f05
+REM2008-06-18d1t06.flac:23c8d5921243a5ac1de84ab5ee8801d3
+REM2008-06-18d1t07.flac:6f79bd7debc57e6c653944adbdc618b2
+REM2008-06-18d1t08.flac:0429b729293f7aa9ad016ee8873d3376
+REM2008-06-18d1t09.flac:174f93ab03a40d1adc39c6df28c968c1
+REM2008-06-18d1t10.flac:e53129b600fd5eb858dee12d74fb2883
+REM2008-06-18d1t11.flac:a9ff4c8ec5abee1ce72b46b4ce493cf7
+REM2008-06-18d1t12.flac:e137533979b7dce0d1330ea4cd42b39d
+REM2008-06-18d1t13.flac:d882f91db90767141f5ee72d8924397f
+REM2008-06-18d1t14.flac:aed20016e89fb86421b7263c35025e6a
+REM2008-06-18d1t15.flac:7802f76b8c2cb83a1a10e37ed73a90dd
+REM2008-06-18d2t01.flac:edaa6e6f4660f659ccc4d928a9331951
+REM2008-06-18d2t02.flac:1eeeae01e5a4ab8ef57281f67d3c58c5
+REM2008-06-18d2t03.flac:563141156a508b763b1a01bb3cca1608
+REM2008-06-18d2t04.flac:9469e3b9aa3343c7fc5e3ee599457466
+REM2008-06-18d2t05.flac:dab84f57dc395fcff42e0fa0475314d7
+REM2008-06-18d2t06.flac:2ea10547bcdbc77a1e02c9c490fab0d2
+REM2008-06-18d2t07.flac:6966c15f239dfa47d8cfb5bc525ef35b
+REM2008-06-18d2t08.flac:ae131af680842034556560b2aba4c87d
+REM2008-06-18d2t09.flac:a6eda0aca3a67ba574a69af6b44b2a68
+REM2008-06-18d2t10.flac:6d07a6f33c671eb59e6744eeb342e838
+REM2008-06-18d2t11.flac:71e8f3ccb788912bf40dfa596a9c309b
+REM2008-06-18d2t12.flac:4873c52940cde43ba53aa00ece672fe0

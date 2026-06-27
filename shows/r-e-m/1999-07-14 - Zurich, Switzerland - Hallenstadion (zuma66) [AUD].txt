@@ -1,0 +1,26 @@
+cb30d46d0e372359b0e04ce6f2f217eb  [shntool]  101 Lotus .flac
+10db57b996d71a6149a47d52e9bfbc55  [shntool]  102 What's The Frequency, Kenneth.flac
+66ef1a00a8bf6f8c9b351337fe86b339  [shntool]  103 New Test Leper.flac
+0a72b6a9248f61abce37ba00b2bf022c  [shntool]  104 Suspicion.flac
+b39861b38494179658a215193bdcdf9a  [shntool]  105 The Wake-Up Bomb .flac
+9938ccc3b801797b4f604ca1d788dc63  [shntool]  106 How The West Was Won And Where It Got Us.flac
+eb309c99ededac039ff6d806ceed012e  [shntool]  107 Daysleeper.flac
+fff321f4a4ced51fd4861675d6f9af24  [shntool]  108 The Apologist.flac
+24643246ca4c35836614ca7c7cdb3ab6  [shntool]  109 Everybody Hurts.flac
+299cbf8b3b4562300e0ad049b478a70c  [shntool]  110 Sweetness Follows.flac
+1ac838b3a61eeae419603160df7eb4b6  [shntool]  111 The Great Beyond.flac
+9b77dbe5527b4ed41e7ed9ce03a70ef3  [shntool]  112 The One I Love.flac
+cb86c10da19ed530a1e9b3c877003d8d  [shntool]  201 At My Most Beautiful.flac
+ae05c8d08d2393d3cbbe1ec421670e9f  [shntool]  202 Losing My Religion.flac
+2e5591704afc0cdc469682b006f4ceb3  [shntool]  203 Country Feedback.flac
+3ae7bc314abcfc28005109eeb5a24b98  [shntool]  204 Pop Song 89.flac
+bdf5d9f5249dc84a6b93a98e14efc28b  [shntool]  205 Star 69.flac
+8f6c756cd3513f00550190931e64cb53  [shntool]  206 Walk Unafraid.flac
+a26147ce44ddcb5bbac24f0377efebd4  [shntool]  207 Privilege (Set Me Free) .flac
+78dd0f4e318899f8f9aa7020eea73f02  [shntool]  208 Man On The Moon.flac
+1d5f548cd01721981e92e3b17ea736b5  [shntool]  209 Falls To Climb.flac
+06b673333b9511a8b5fcf96249876c24  [shntool]  210 Why Not Smile.flac
+aaa73efc2ae1ce525dec37f3244cf7a3  [shntool]  211 Crush With Eyeliner.flac
+e4b6bf6e33c7c8c9c00146a0ddbcf690  [shntool]  212 Tongue.flac
+0be9119b21c2bbe7c01392cecc854163  [shntool]  213 Parakeet.flac
+6244f4eb035ef7b46e1d9e3897e24f21  [shntool]  214 It's The End Of The World As We Know It.flac

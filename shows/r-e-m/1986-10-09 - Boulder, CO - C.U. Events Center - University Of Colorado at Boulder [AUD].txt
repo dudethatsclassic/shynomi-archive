@@ -1,0 +1,86 @@
+R.E.M. 1986-10-09 C.U. Events Center, Boulder, CO 
+R.E.M.
+C.U. Events Center, Boulder, CO
+Source: online trade FLAC's -> TLH Re-encoded FLAC's (level 6)
+
+Setlist:
+
+CD 1:
+Set:
+01. (fade in) Harborcoat
+02. Talk About The Passion
+03. Sitting Still
+04. The One I Love
+05. Shaking Through
+06. Feeling Gravitys Pull
+07. The Flowers Of Guatemala
+08. Barney Miller Theme
+09. Walk, Don't Run
+10. Driver 8
+11. I Believe
+12. Michael's Tale of Mr Miller (intro to Swan Swan H)
+13. Swan Swan H
+14. Superman
+15. Can't Get There From Here
+16. 7 Chinese Bros.
+17. Pretty Persuasion
+18. Auctioneer (Another Engine)
+
+Total length: 58 min 08 sec
+
+CD 2:
+01. Little America
+
+Encore 1:
+02. Instrumental
+03. Oddfellows Local 151 (early version)
+04. Strange
+05. We Walk
+06. I See No Evil
+
+Encore 2:
+07. Fall On Me
+08. Cuyahoga/Just A Touch Story
+09. Just A Touch
+
+Total length: 32 min 29 sec
+
+Line-up: Buck/Berry/Mills/Stipe
+Support: Camper Van Beethoven
+
+MD5 lineage:
+14119be51480abc55253496ec7548b7d *CD 1\Track 01.flac
+1a01a991e3c5af9b516d1b6b411a9348 *CD 1\Track 02.flac
+d0c81b94edcac45de43a27ee4843cf59 *CD 1\Track 03.flac
+c8b25395c26348d117f5e9711530e4e7 *CD 1\Track 04.flac
+4ff35d41909c9a920b94f8adf4aeb235 *CD 1\Track 05.flac
+29aaa120226ddcac11df470959e61eb0 *CD 1\Track 06.flac
+fd66631a9393a2270636ba40a8b200be *CD 1\Track 07.flac
+87f000e27ae969224684a1f8e9bdd2d7 *CD 1\Track 08.flac
+9f3d44e22050484e20d3d34bfa68e494 *CD 1\Track 09.flac
+dccbc6e258bd0f888b9b9779ba6193ec *CD 1\Track 10.flac
+e9bd19b4075da85066883184ed2a3b6b *CD 1\Track 11.flac
+2281b17111a95e534315a31d3742bdcc *CD 1\Track 12.flac
+cff43940837863254249c1e31abb48a0 *CD 1\Track 13.flac
+1b9e86f7003fbb98b9245742b89b1446 *CD 1\Track 14.flac
+fa65118816ab9835458ca01f7f2b8a86 *CD 1\Track 15.flac
+f09b3b3e319963843f1a4eace27b2b57 *CD 1\Track 16.flac
+3c4537d918d3b45d4a5dd14b95f59f1e *CD 1\Track 17.flac
+dd4e8f303ce9d5074fc864a0f877a999 *CD 1\Track 18.flac
+6d53803829daf57b53b92ab45ef21d27 *CD 2\Track 01.flac
+612631dc9dd3949b0908025f1ab04610 *CD 2\Track 02.flac
+ff07b3a57bb7f990e9ec910f0567187f *CD 2\Track 03.flac
+f6f1c311f44ffa2331970ebf63abee44 *CD 2\Track 04.flac
+1a3082698f2dbf9b999663750fa7d731 *CD 2\Track 05.flac
+f593879151b734c1b54a708519f46e71 *CD 2\Track 06.flac
+357b3ddef2bb9da8d0c55abe358b2992 *CD 2\Track 07.flac
+348c955c467f1d112d65f4882e7225d5 *CD 2\Track 08.flac
+07d35105788c993983945f59df341e26 *CD 2\Track 09.flac
+
+No artwork
+
+Notes: this is another decent AUD recording from the Pageantry Tour.
+The taper, whoever he/she was (and it seems it was mostly men back then, doesn't it?) must have come in late, because the first song, These Days, is missing and the second song fades in.
+An otherwise unremarkable show, except for the fact that it contains 3 instrumental songs, one of which is unknown.
+
+Info file by martine_holl November 2011

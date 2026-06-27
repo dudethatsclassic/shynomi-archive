@@ -1,0 +1,89 @@
+R.E.M.
+Pacific Coliseum
+Vancouver, BC
+October 14, 1989
+JEMS Master
+remtorrent
+
+SOURCE:
+Nakamichi CM-700 > Panasonic SV-250
+
+TRANSFER:
+Tascam DA-20 MKII > PreSonus FireStudio Project > Adobe Audition 3.0 > FLAC frontend 1.7.1
+
+MASTERING:
+Adobe Audition CS5.5 (raise overall volume, resample to 16/44.1) > WavePad (tracking) > xACT > FLAC
+
+GENERATION:
+DAT(M) > WAV [48kHz/16bit] > FLAC [Level 8]
+
+TRANSFERRED BY: Mike Ziegler
+
+RECORDED BY: JEMS
+
+SETLIST:
+01 Stand
+02 The One I Love
+03 So. Central Rain (I’m Sorry)
+04 Turn You Inside-Out
+05 Belong
+06 Exhuming McCarthy
+07 Good Advices
+08 These Days
+09 Orange Crush
+10 Feeling Gravitys Pull
+11 Time After Time (Annelise)
+12 Sitting Still
+13 World Leader Pretend
+14 I Believe
+15 Underneath the Bunker
+16 Get Up
+17 Life and How To Live It
+18 It’s the End of the World As We Know It (And I Feel Fine)
+19 Pop Song 89
+20 Fall On Me
+21 You Are the Everything
+22 Harpers
+23 Begin the Begin
+24 King of Birds
+25 Auctioneer (Another Engine)
+26 Low
+27 Finest Worksong
+28 Perfect Circle
+29 Dark Globe
+30 After Hours > Word Up > After Hours
+
+Total Time: 119:46
+
+The last show of a four-night R.E.M. run for JEMS ended most memorably in Vancouver. We covered nine shows on the Green tour all told, and this was the final gig of the fall '89 run that began with us videotaping in Pullman, WA, then audio recording in Portland, Seattle, and finally Vancouver.
+
+I happen to love this period set wise, as the new album material was played brilliantly, two new songs were already in advanced preview mode ("Belong" and "Low"), there were excellent covers ("Harpers," "Dark Globe," "After Hours" and Cameo's "Word Up") and welcome forays into the past.
+
+In terms of the latter, Vancouver pulled two true gems in the rarely played "Time After Time (Annelise)" and one of my candidates for overlooked greatness, "Good Advices." Throw in the novelty of "Underneath the Bunker" and you have a very appealing set.
+
+And that would have been enough if it hadn't been for an unlikely meeting that took place after the show. As JEMS & Co. were walking back towards our car along the sidewalk outside the Pacific Coliseum, who should be walking right towards us but Peter Buck, seemingly unnoticed by other attendees. "Hey Peter, good show tonight," said J. "Thanks," said PB, and he kept walking until J added, "Peter, we saw the Pullman, Portland and Seattle shows, too." That statement not only stopped Buck in his tracks, but he turned around to come talk to us.
+
+He asked something about which show we liked best and we had a laugh about him leaving the stage during the encore the last couple of nights in some apparent frustration. Then, unexpectedly, Buck asked, "Are you guys driving back through downtown?"
+
+"Yeah," we answered.
+
+"Would you mind giving me a ride back to the hotel? I don't feel like waiting for the other guys and the bus," Buck requested as if it were the most normal thing in the world to ask of us.
+
+We were dumbfounded.
+
+"Uh, yeah, of course, let's go." And with that, the four of us walked towards JP's Volkswagon Golf. He had run ahead for reasons I don't recall, and as we got near the car, I had the clarity to recognize the moment and say to Buck, "When we walk up to the car, just say, "Hey JP."
+
+Whether this memory is 100% accurate hardly matters, but I do know that it went down like I hoped it would. JP noticed us approaching matter-of-factly, then started to process that there was an extra person, who it was and right on cue Buck says as nonchalantly as can be, "Hey JP."
+
+JP's mind must have been racing with, "What?" "Why?" "How" but he played it cool and simply opened the car. Buck was in the back with two of us, a little cramped but it worked. We told him we were tapers, which he generally supported and he mentioned they were going to perform on Arsenio's show when they went back through LA.
+
+The rest of the 15 minute conversation is a blur, but we dutifully drove Buck to the Four Seasons, dropped him off, he said thanks and goodbye and that was that.
+
+Of course IMMEDIATELY JP asked, "How the fuck did that just happen?"
+
+So this recording is of that show, a tape approved by PB no less. Samples provided.
+
+Thanks to BG for taking this one the last mile and getting it out there. We have a lot of R.E.M. masters we have not posted and we'll look to put some attention there in 2014. Consider this a preview.
+
+BK for JEMS
+

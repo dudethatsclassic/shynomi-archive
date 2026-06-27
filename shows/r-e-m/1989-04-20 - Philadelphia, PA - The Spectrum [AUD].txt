@@ -1,0 +1,35 @@
+R.E.M.
+April 20th, 1989
+The Spectrum, Philadelphia, PA
+
+Master:
+FOB Nakamichi CM100/cp1's>Sony TC-D5m>Cass(m), Nak DR-2>Tascam CDRW2000>CD
+by Jon Pasternak
+
+Extraction:
+CD>xACT 2.00a (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+01. Pop Song 89                                   [02:43.61]
+02. Exhuming McCarthy                             [03:36.23]
+03. Welcome To The Occupation                     [02:44.33]
+04. Shaking Through                               [04:16.44]
+05. Turn You Inside-Out                           [04:32.51]
+06. Disturbance At The Heron House                [05:00.60]
+07. Orange Crush                                  [03:52.40]
+08. Cuyahoga                                      [04:05.73]
+09. Feeling Gravitys Pull                         [06:37.67]
+10. Sitting Still                                 [03:16.69]
+11. World Leader Pretend                          [05:07.55]
+12. Begin The Begin                               [03:46.30]
+13. Pretty Persuasion                             [04:00.38]
+14. Rotary 10/Tired Of Singing Trouble/I Believe  [06:51.47]
+15. Get Up                                        [03:18.09]
+16. Auctioneer (Another Engine)                   [03:00.73]
+17. It's The End Of The World As We Know It       [04:45.42]
+                                           Total: [71:38.65]
+
+Notes:
+- Encores missing. Jon notes: "We taped FOB in the row in front of the
+  board. After the set break, we thought were going to get busted, so we
+  didn't tape the encores, unfortunately!"

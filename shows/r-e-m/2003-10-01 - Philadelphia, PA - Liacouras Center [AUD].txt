@@ -1,0 +1,71 @@
+R.E.M.
+October 1, 2003
+Philadelphia, PA - Liacouras Center
+
+Support: Pete Yorn
+
+Source/conversion: 
+Custom Made Stereo Binaural Microphones -> 9V Battery Box -> Sharp MD-SR60 (Line-In) -> Cool Edit Pro 2.0 (Hard Drive Line-In; record, boost left mic level) -> .wav -> Sound Forge 6.0 (Normalize) -> .flac
+(Boring Specs on Microphones at Bottom)
+
+*********DO NOT ENCODE INTO .MP3 OR OTHER LOSSY FORMATS*********
+
+Track Listing:
+
+Disc 1 (67:49):
+01 Finest Worksong		(4:16)
+02 So Fast, So Numb		(4:46)
+03 Driver 8			(3:50)
+04 Drive			(6:00)
+05 Animal			(4:20)
+06 Sitting Still		(3:49)
+07 Daysleeper			(4:11)
+08 Bad Day			(4:55)
+09 The One I Love (Electric)	(5:33)
+10 All The Way To Reno		(5:12)
+11 Everybody Hurts		(7:12)
+12 The Great Beyond		(4:52)
+13 At My Most Beautiful		(4:27)
+14 Losing My Religion		(4:24)
+
+Disc 2 (49:45):
+01 Find The River		(4:33)
+02 She Just Wants To Be		(6:38)
+03 Walk Unafraid		(5:18)
+04 Man On The Moon		(7:28)
+Encore:
+05 Life And How To Live It	(4:17)
+06 Nightswimming		(5:18)
+07 Final Straw			(5:25)
+08 Imitation Of Life		(4:05)
+09 It's The End Of The World 	(6:43)
+As We Know It (And I Feel Fine)
+
+
+
+This is basically a perfect recording of a show in a venue without good acoustics.  
+
+
+Michael Stipe .. vocals
+Peter Buck .. guitars
+Mike Mills .. bass/piano
+Bill Rieflin .. drums
+Ken Stringfellow .. guitars/keyboards (featured on select songs)
+Scott McCaughey .. guitars (featured on select songs)
+
+
+Notes: One second dropout during Losing My Religion; eight second drop out in between Losing My Religion and Find The River (fades in/out).
+
+Location: Rear of arena, dead center, even with rear stacks, in an empty bank of seats.
+
+Taped By: Dean Burbage
+
+Microphone/Battery Box Specs:
+*  20 - 20,000 Hz flat frequency response
+*  Sensitivity rated at -44 decibels +3 decibels
+*  Low sound to noise ratio > 58 dB
+*  Handcrafted brass mic element casings with solid steel clips
+*  Cast aluminum battery box protects circuitry from Radio Frequency Interference (RFI)
+*  Nickel plated brass cord grip to protect cables from kinking
+*  Gold plated 1/8 inch (3.5 mm) mini stereo microphone plug
+*  Microphone / clip units consists of electret condenser microphone cartridges.  These have a high degree of reliability under adverse shock, vibration and environmental tests.  The capsules specifications being -44 dB +1dbB sensitive and have a 20 to 20,000 hz frequency range.

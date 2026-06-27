@@ -1,0 +1,62 @@
+R.E.M.
+Irvine Meadows
+Irvine, California
+August 11, 1999
+
+
+2020 remaster by drumsboy:
+
+There have been a few R.E.M. shows that have appeared throughout the years that have been described as Ôalmost excellentÕ recordings and this is one of them. There has been a lot of confusion about the source of this show with some people thinking itÕs a soundboard and others saying it was a very high-end audience recording. Personally, given my line of work as an audio engineer, IÕm convinced that itÕs actually an IEM recording, or at least that it has its origins in that format and may have been matrixed with an audience recording at some point.
+Regardless, I thought it could have been improved sonically and having acquired some nice new toys for my studio I thought IÕd have a go at remastering the show. 
+I recently completed a masters-degree in composition and my main focus through my work was focused on how the environment has a bearing on the music performed within and how that environment can shape the listening experience. I explored methods of ÔfakingÕ this experience through various techniques such as binaural panning and placement of sources within headphones and the use of impulse response technology which takes a snapshot of a particular space and then superimposes it upon a recording. IÕve employed similar techniques in this re-master.
+While this may sound pretty heavy - In a nutshell the listening experience should now feel a lot more immersive and those listening on headphones should experience an almost surround sound feel. For anyone else listening on a different format you will hopefully experience a more spacious sounding mix. Soundboard/IEM mixes often sound very flat and very Ôup-frontÕ with no real depth of field when it comes to the sound. This remaster hopes to address that problem.
+
+If this work is well received IÕll be happy to contribute more of these remasters.
+
+Enjoy!
+
+
+
+
+
+Original info text file below:
+
+
+Source: Schoeps MK4s > rmod > D-100 (no sbm) > CDR
+
+Disc 1:
+
+t01: intro
+t02: Lotus
+t03: What's The Frequency, Kenneth?
+t04: So Fast, So Numb
+t05: Suspicion
+t06: Stand
+t07: How The West Was Won And Where It Got Us
+t08: Low Desert
+t09: Daysleeper
+t10: The Apologist
+t11: The One I Love
+t12: Sweetness Follows
+t13: The Great Beyond
+t14: Losing My Religion
+t15: Find The River
+
+Disc 2:
+
+t01: At My Most Beautiful
+t02: Pop Song 89
+t03: Walk Unafraid
+t04: Man On The Moon
+t05: Hope
+t06: Why Not Smile
+t07: Crush With Eyeliner
+t08: Tongue
+t09: So. Central Rain
+t10: It's The End Of The World As We Know It (And I Feel Fine)
+
+
+
+Notes:  This show has been mistakenly labeled as a soundboard on many lists. 
+It is actually a VERY high-end audience recording. 
+This exact source was used for a CD-R bootleg titled "Stand Up".

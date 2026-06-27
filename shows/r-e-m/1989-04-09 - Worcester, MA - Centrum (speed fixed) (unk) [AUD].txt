@@ -1,0 +1,56 @@
+REM
+Michael Stipe: vocals
+Peter Buck: guitar
+Mike Mills: bass, backing vocals
+Bill Berry: drums, backing vocals
+Peter Holsapple: guitar, keyboards
+
+Centrum
+Worcester, Mass, USA
+April 9, 1989
+runtime: 125:25 (minutes/ seconds)
+
+Setlist: (previous times) adjusted times 
+1: pop song 89 (3:12) 3:17 
+2: exhuming McCarthy (3:23) 3:27 
+3: welcome to the occupation (2:45) 2:48 
+4: disturbance at the Heron House (3:28) 3:33 
+5: turn you inside out (4:19) 4:25 
+6: maps and legends (4:48) 4:55
+7: orange crush (3:46) 3:51 
+8: feeling gravitys pull (6:34) 6:44
+9: sitting still (3:25) 3:29
+10: world leader pretend (4:59) 5:06
+11: begin the begin (3:25) 3:33 (tape flip after, spliced) 
+12: pretty persuasion (4:41) 4:47
+13: with a girl like you (2:29) 2:32 
+14: I believe (4:39) 4:45    
+15: I remember California (5:33) 5:41
+16: get up (2:37) 2:40
+17: auctioneer (another engine) (3:06) 3:10 
+18: it's the end of the world as we know it  (4:42) 4:52 (end applause spliced)
+19: stand (3:28) 3:34 
+20: fall on me (3:21) 3:26
+21: you are the everything (4:13) 4:17 (2 sec. short gap removed) 
+[encore 1]
+22: finest worksong (3:42) 3:53 (end applause spliced)
+23: king of birds (5:13) 5:19  (1 sec. of silence removed at beginning)
+24: belong (4:09) 4:14 
+[encore 2]
+25: see no evil (3:00) 3:04 (removed half sec. silent edit gap)
+26: Harpers (1:15) 1:16 [Hugo Largo cover; Michael a capella]
+27: summertime (4:51) 4:58
+28: strange (4:16) 4:22 
+[encore 3]
+29: Crazy (3:14) 3:19 [3:04] [Pylon cover]
+30: Perfect Circle (3:45) 3:50 
+31: After Hours (1:06) 1:08 [Velvet Underground cover]
+32: eleventh untitled song (3:50) 4:01 (4 secs of end applause spliced in for abrupt recording cutoff)
+
+remaster notes:
+faded in applause before opening track, adjusted level changes in beginning, 
+decreased pitch by 40 cents, balanced levels in some tracks, 
+adjusted some level changes in first couple of tracks,
+added track and set times,
+and patched tape flips/changes smoothly and seamlessly with applause sections
+(all were between songs, apparently no music was cut or missed in this show)

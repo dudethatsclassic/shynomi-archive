@@ -1,0 +1,62 @@
+Artist: R.E.M. 
+Date: 1984-10-08
+Location: Ann Arbor, MI 
+Venue: Michigan Theater
+Source: Audience 
+Lineage: ANA(M)>WAV [96kHz/24bit]>WAV [44.1kHz/16bit]>FLAC [Level 8] 
+Transfer: Nakamichi CR-7A>PreSonus FireStudio Project>Adobe Audition 3.0>Cdwave editor>FLAC frontend 1.7.1 
+Taping Gear: Sony ECM-939>Sony WM-D6C  
+Taped By: JEMS 
+Transferred By: Mike Ziegler 
+
+Band Members:
+Michael Stipe - vocals, harmonica 
+Peter Buck - guitars 
+Mike Mills - bass, vocals 
+Bill Berry - drums, percussion
+
+Setlist:
+01. Intro
+02. Radio Free Europe
+03. Harborcoat
+04. Letter Never Sent
+05. Hyena
+06. Pilgrimage
+07. Seven Chinese Brothers
+08. Talk About Passion
+09. So. Central Rain
+10. Driver 8
+11. (Don't Go Back To) Rockville
+12. Just A Touch
+13. Gardening At Night ->
+14. 9-9 ->
+15. Windout (cut in middle due to tape flip)
+16. Old Man Kensey
+17. Pretty Persuasion
+18. Little America
+Encores 1
+19. Barney Miller Theme
+20. Second Guessing
+21. Crazy
+22. Kohoutek
+23. 1,000,000
+Encores 2
+24. Moon River
+25. See No Evil
+26. Sloop John B
+27. We Walk - Behind Closed Doors Medley
+28. So You Want To Be A Rock 'n' Roll Star
+29. Carnival Of Sorts (Boxcars)
+30. After Hours
+
+Length: 95:32
+
+Notes:
+JEMS master recording. Very good recording but the vocals are hard to make out in spots. Possibly uncirculated master prior to Dec. 2010. This has the full encores some of which are not listed on the remtimeline site.
+
+"Second-ever JEMS master of R.E.M. (the first was Detroit, MI 1983 at the Saint Andrews Hall). Strong encore in terms of covers, including the theme from the TV show Barney Miller, Pylon's "Crazy," the Beach Boys' "Sloop John B," an early version of Television's "See No Evil" and the Byrds' "So You Want to Be a Rock and Roll Star.""
+
+butterking for JEMS
+
+(remtorrent)
+

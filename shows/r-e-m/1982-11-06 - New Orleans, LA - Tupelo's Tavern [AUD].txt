@@ -1,0 +1,39 @@
+REM
+1982-11-06
+New Orleans, Tupelo's Tavern
+AUD0
+Sony D5
+RH master
+
+transfer (2013): Teac w-860r analog deck (azimuth adjusted) > Sony DAT DTC-790 > playback: Sony PCM-R300 (optical out) > U24 > CEP2.0 @ WAV44.1 > TLH flac8 
+
+
+01 Moral Kiosk 
+02 Pilgrimage 
+03 Shaking Through 
+04 Wolves, Lower
+05 Laughing 
+06 Romance 
+07 Sitting Still 
+08 Pretty Persuasion
+09 Catapult 
+10 1,000,000 
+11 Gardening At Night 
+12 9-9 
+13 Radio Free Europe
+
+MISSING:
+encore 1: 
+14 White Tornado 
+15 Ages Of You 
+16 We Walk 
+17 Neverland 
+18 Gloria 
+19 Carnival Of Sorts (Box Cars)
+
+encore 2: 
+20 Last Date 
+
+21 West Of The Fields
+
+(2013 transfer)

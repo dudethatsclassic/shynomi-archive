@@ -1,0 +1,63 @@
+R.E.M.
+23th September 2008 
+München, Germany
+Olympiahalle
+
+
+
+taper:   	Ratte
+source:  	Soundprofessionals CMC-4U > SPSB10 > Sony PCM-D50 @ 24/48
+mic config: 	on my glasses 
+location:	~ 15m from stage, right side
+transfer: 	Sony PCM-D50 > USB2.0 > PC > Adobe Audition3 > Flac Frontend 1.7.1 Etree Edition (Level8)
+editing:	Audition3:	
+
+		• volumeboost on the left channel (+0.7dB)
+		• tracking
+		• fadeIn/Out
+		• dithering/downsampling to 16/44.1
+
+
+Setlist:
+
+Living Well Is The Best Revenge
+What's The Frequency Kenneth
+So Fast, So Numb
+I Took Your Name
+Drive
+Man Sized Wreath
+Ingnoreland
+Just A Touch
+So. Central Rain
+Hollow Man
+The Great Beyond
+Time After Time
+She Just Wants To Be
+Horse To Water
+The One I Love
+Electrolite
+I've Been High
+Let Me In
+Walk Unafraid
+Bad Day
+Orange Crush
+Imitation Of Life
+-----encore-------------------------
+Supernatural Superserious
+Loosing My Religion
+Country Feedback
+It's The End Of The World As We Know It (And I Feel Fine)
+Man On The Moon
+
+[125min:14sec]
+
+*****************************************************************************************************
+*****************************************************************************************************
+*****************************************************************************************************
+**********please dont upload/edit/encode this recording without my permission************************
+*****************************************************************************************************
+**************************************DON'T SELL THIS SHOW*******************************************
+*****************************************************************************************************
+*****************************************************************************************************
+*****************************************************************************************************
+

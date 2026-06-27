@@ -1,0 +1,44 @@
+R.E.M.
+Arena
+Rotterdam, The Netherlands
+1985-10-03 (3 October 1985)
+
+
+01 Feeling gravity's pull
+02 Toys in the attic [Aerosmith]
+03 Hyena
+04 Green grow the rushes
+05 Maps and legends
+06 Sitting still
+07 Talk about the passion
+08 So. Central rain
+09 Have you ever seen the rain? [Creedence Clearwater Revival]
+10 Can't get there from here
+11 Seven Chinese brothers
+12 West of the fields [cuts in]
+13 Auctioneer (another engine) [--- positive id of location at the start ---]
+14 Old man Kensey
+15 Pills [Bo Diddley]
+16 Pretty persuasion
+17 Life and how to live it
+18 White tornado
+19 Smokin' in the boys' room [Brownsville Station] / Tired of singing trouble / She's a brick house [Commodores] / Freddie's dead [Curtis Mayfield]
+20 Broken whiskey glass [Jason & the Scorchers]
+21 Bandwagon
+22 Burning hell
+23 See no evil [Television]
+24 Femme fatale [Velvet Underground, cuts out]
+
+
+Lineage: unknown audience recording > wav > Audacity (normalize, track split) > xACT (flac) > you
+
+
+Found this on Guitars101 as two untracked wav files with some minimal info. The wav files apparently came from "my friend Mauro R from a while back. [...] the accountant".
+
+Anyway, it's a pretty good sounding audience recording with very little audience audible and not too much hiss. I tracked the songs as best as I could, which was not easy given the number of covers I am unfamiliar with. The last song is incomplete; I don't know if more is on the master tape.
+
+All hail the taper, transferer, and original seeder!
+
+Enjoy,
+
+frankvink

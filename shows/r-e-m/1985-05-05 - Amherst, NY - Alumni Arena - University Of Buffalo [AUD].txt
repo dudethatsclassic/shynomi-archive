@@ -1,0 +1,68 @@
+R.E.M. Alumni Arena, University Of Buffalo, Amherst, NY
+R.E.M.
+Alumni Arena, University Of Buffalo, Amherst, NY 1985-05-05
+Source: online trade FLAC's -> TLH re-encoded FLAC's
+
+Setlist:
+
+Set:
+01. Feeling Gravitys Pull
+02. Harborcoat
+03. Green Grow The Rushes
+04. Talk About The Passion
+05. Hyena
+06. Good Advices
+07. 7 Chinese Bros.
+08. Driver 8
+09. Can't Get There From Here 
+10. So. Central Rain
+11. Maps And Legends
+12. Auctioneer (Another Engine)
+13. Old Man Kensey
+14. Pretty Persuasion
+15. Little America
+16. Life And How To Live It
+
+Encore:
+17. Second Guessing
+18. Route 66
+19. Wild Thing/Hang On Sloopy/Louie Louie
+20. Wild Thing (again)
+
+Total length: 1 hr 16 min 09 sec
+
+Line-up: Buck/Berry/Mills/Stipe
+Support: The Neats, Billy Bragg
+
+MD5 lineage:
+5e883ae71ecc25b0c863f08444309978 *Track01.flac
+78f96355fee46a6c16fd625ee8d5e07b *Track02.flac
+712fd62f82c621f3936b0e59c7c93fd6 *Track03.flac
+2a4a1619d1a8aa36bd8d9ad1c464e247 *Track04.flac
+bad85ff197242bbb2ab0b897127f1f26 *Track05.flac
+b069bcb19573d49f7273bf40651b440d *Track06.flac
+4fc3ffb4a3a4adc3d68a7034e1a01544 *Track07.flac
+5e4401b90b1364133cb68ff670e3c71a *Track08.flac
+74833ef7f1dcab7ec6c9749a7b259ac1 *Track09.flac
+0a3c5e20e706a0a7a76d73d070a6b752 *Track10.flac
+d9677b246e328e0442079887e13afb5e *Track11.flac
+3d36191791d934422ff3ed7c3062df29 *Track12.flac
+18a0c4fcb77c730315e8fe7d8c637934 *Track13.flac
+64ce0ee0c3220c1d84d4ede877a6a471 *Track14.flac
+db59fc2259533512e6cd20d22fac1b8f *Track15.flac
+d00a5f46552aa4aadd5b65a884d61c06 *Track16.flac
+e5047e57606c1ed7f4229beba2106ac1 *Track17.flac
+d6c9080b827a424316497ef62a1c4768 *Track18.flac
+b30fb2df3e1c0f2a895d9f376d136607 *Track19.flac
+6264287f6eecb71830bd54fc75c9795b *Track20.flac
+9f4cb10e97de78f21808d49c863ca8c4 *Track21.flac
+
+No artwork
+
+Notes: this is a (mostly) really excellent sounding AUD recording of the pre-construction tour.
+At first I thought it might be a SBD, but no, but it's as close as you can get. 
+Except for the end of track 19 and all of track 20. They are completely corrupted and unlistenable.
+That is a shame, because this is the entire show. Still, the rest is so good, it's worth a download, IMO.
+Note from the Timeline: Billy Bragg guests on Route 66
+
+Info file by martine_holl October 2011

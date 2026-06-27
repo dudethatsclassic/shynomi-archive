@@ -1,0 +1,102 @@
+
+R.E.M.
+Peppermint Lounge
+New York, NY
+
+November 25, 1982
+
+The Stonecutter Collection Vol 55
+
+Source: unknown recording gear > low generation cassette (Maxell XL-II)
+
+Transfer: Sony Deck TC-WE 475 > gold tipped rca cables > JVC XL-R2010 CD-RW
+
+Editing: Soundforge 9.0 > Wav > TLH [SB's aligned] Flac Level 6
+
+Traders Den 6/28/15
+
+Transferred, channels balanced and tracked by kingrue Upload 525
+
+==================================================================
+
+This particular date wasn't in the etree database, so it's not widely circulated.
+
+This should be something new for R.E.M. fans.
+
+On a technical note. This is a probable 1st generation copy.
+
+Upon closer inspection of the wave file, this appears to be a 2 channel mono recording.
+
+The left and right channels have an identical wave pattern.
+
+There are 3 cuts during this recording.
+
+There is a tape flip during track 13 @ 1:00.  A little music missing.
+
+There is an unexpected tape cut during track 14 @ 1:45.  A little music missing.
+
+There is an unexpected tape cut between tracks 14 and 15. No music missing.
+
+Peter Holsapple guest vocals on 'Judy' and 'Neverland'.
+
+Thanks goes out to Rich for obtaining a copy of this, nearly 33 years later being brought to the surface.
+
+A scan of the j-card and cassette are included in this torrent.
+
+Samples Provided.
+
+01 Intro
+02 Gardening At Night
+03 9-9
+04 Moral Kiosk
+05 Pilgrimage
+06 Shaking Through
+07 Seven Chinese Brothers
+08 Wolves, Lower
+09 Romance
+10 Sitting Still
+11 Catapult
+12 1,000,000
+13 West Of The Fields
+14 Radio Free Europe 
+15 White Tornado (Instrumental)
+16 Last Date (Instrumental)
+17 We Walk
+18 Judy
+19 Neverland
+20 Carnival of Sorts
+
+Total Time = 66:22 min
+
+Enjoy
+
+George
+
+============================
+
+Fingerprints:
+
+01 Intro.flac:3e3c2444e1fba57857ad1c5a2e60089f
+02 Gardening At Night.flac:71ed3e02550eb92c68c5f8fb0667fd72
+03 9-9.flac:ea5e6e60037e6e0baaea1fd5e1067d70
+04 Moral Kiosk.flac:588220b4142215c3cb5e13cbd69d06f4
+05 Pilgrimage.flac:bde082bd6ebfc372867b1ae631700c88
+06 Shaking Through.flac:5134fa79a261637d74ddf324454ef686
+07 Seven Chinese Brothers.flac:23d7a40cbb06d3a0c45a1976a3ba7825
+08 Wolves, Lower.flac:5aaf46bc511599a3aa6c8c2c2010f7e0
+09 Romance.flac:22c2bfdeaf9565732261ab7338541cdc
+10 Sitting Still.flac:752d3e3848123a1d2e3b7810ec08b01e
+11 Catapult.flac:16ffb8fe650b6eb4960e5b0e5bb3b9ae
+12 1,000,000.flac:3724c350044c057285f069b2f2508d35
+13 West Of The Fields.flac:8c318f4ff4aa647917269eb3f67e0266
+14 Radio Free Europe.flac:92354316242169d762daacbffdf935d3
+15 White Tornado.flac:7e4a64654f0cd9b01073597c04fbf701
+16 Last Date.flac:70338f9c1ecbbcade2aee1ff7d15ae68
+17 We Walk.flac:33d6759d61fb49873eb229b9ab37f581
+18 Judy.flac:d67678efff604063df7f4dd57f32c31a
+19 Neverland.flac:f4409d95a96d707b3540db5bba4b63a2
+20 Carnival of Sorts.flac:0e342ed7036e65ecc5aa5768ed9497e6
+
+Checksum file saved to disk.
+
+

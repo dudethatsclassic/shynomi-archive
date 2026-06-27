@@ -1,0 +1,20 @@
+01 These Days.flac:  successfully fixed/rewritten to '01 These Days-fixed.flac'.
+02 Harborcoat.flac:  successfully fixed/rewritten to '02 Harborcoat-fixed.flac'.
+03 West Of The Fields.flac:  successfully fixed/rewritten to '03 West Of The Fields-fixed.flac'.
+04 Cuyahoga.flac:  successfully fixed/rewritten to '04 Cuyahoga-fixed.flac'.
+05 Sitting Still.flac:  successfully fixed/rewritten to '05 Sitting Still-fixed.flac'.
+06 The One I Love.flac:  successfully fixed/rewritten to '06 The One I Love-fixed.flac'.
+07  Feeling Gravitys Pull.flac:  successfully fixed/rewritten to '07  Feeling Gravitys Pull-fixed.flac'.
+08 The Flowers Of Guatemala.flac:  successfully fixed/rewritten to '08 The Flowers Of Guatemala-fixed.flac'.
+09 White Tornado.flac:  successfully fixed/rewritten to '09 White Tornado-fixed.flac'.
+10 Driver 8.flac:  successfully fixed/rewritten to '10 Driver 8-fixed.flac'.
+11 Tired Of Singing Trouble,   I Believe.flac:  successfully fixed/rewritten to '11 Tired Of Singing Trouble,   I Believe-fixed.flac'.
+12 Swan Swan H.flac:  successfully fixed/rewritten to '12 Swan Swan H-fixed.flac'.
+13 Seven Chinese Brothers.flac:  successfully fixed/rewritten to '13 Seven Chinese Brothers-fixed.flac'.
+14  Superman.flac:  successfully fixed/rewritten to '14  Superman-fixed.flac'.
+15 Can't Get There From Here.flac:  successfully fixed/rewritten to '15 Can't Get There From Here-fixed.flac'.
+16 9-9.flac:  successfully fixed/rewritten to '16 9-9-fixed.flac'.
+17  Auctioneer (Another Engine).flac:  successfully fixed/rewritten to '17  Auctioneer (Another Engine)-fixed.flac'.
+18 Little America.flac:  successfully fixed/rewritten to '18 Little America-fixed.flac'.
+
+Padded last file with 2020 zero-bytes.

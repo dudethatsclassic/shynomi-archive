@@ -1,0 +1,40 @@
+R.E.M. Hyde Park, London. 16 July 2005, BBC Radio2 FM (off air) Broadcast
+
+Audio quality 10.
+
+1.What's The Frequency Kenneth
+2.One I Love
+3.Drive
+4.The Outsiders
+5.Leaving New York
+6.Everybody Hurts
+7.Electron Blue
+8.Final Straw
+9.Orange Crush
+10.Walk Unafraid
+11.Losing My Religion
+12.Man On The Moon
+
+Broadcast 23 July 2005
+
+This concert was postponed one week due to the terrorist atrocities in London.
+
+Lineage:
+FM (off air) BBC Radio2 broadcast (Denon TU260L II)> CDR Pioneer PSR-509 > EAC (secure mode)
+> Soundforge > Flac (level8, sector boundary aligned, verified)
+
+NB. FM (off air) is stated, as some cable FM sources are now coming from low quality digital feeds.
+
+DJ announcements have been removed in Soundforge.
+
+Cover artwork will be posted shortly at - www.cdr.vplay.co.uk/browse1.htm
+I will retain the copyright to this design.
+Please use this for free, and pass on for free.
+I will not tolerate it being used on ebay or elsewhere for financial gain.
+
+BBC webpage with photos for this concert/broadcast - http://www.bbc.co.uk/radio2/events/rem/
+
+Please do not sell.
+Please pass this on for free.
+Please do not encode to MP3 or other lossy formats and distribute in such formats.
+Enjoy.

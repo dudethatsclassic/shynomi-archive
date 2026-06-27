@@ -1,0 +1,87 @@
+R.E.M. 1983-10-09 Busch Student Center, Rutgers University, Piscataway, NJ
+R.E.M. 
+Busch Student Center, Rutgers University, Piscataway, NJ 1983-10-09
+Source: online trade FLAC's -> TLH re-encoded FLAC's
+
+Setlist: 
+
+Set:
+CD 1:
+01. Moral Kiosk
+02. Catapult
+03. Letter Never Sent
+04. Shaking Through
+05. Pilgrimage
+06. 7 Chinese Bros.
+07. Talk About The Passion
+08. So. Central Rain
+09. Harborcoat
+10. Sitting Still
+11. Just A Touch
+12. Pretty Persuasion
+
+Total length: 43 min 05 sec
+
+CD 2:
+01. West Of The Fields
+02. Second Guessing
+03. Gardening At Night
+04. 9-9
+05. Windout
+06. Pale Blue Eyes
+07. Radio Free Europe
+
+Encore 1:
+08. Camera
+09. We Walk
+10. Little America
+11. 1,000,000
+
+Encore 2:
+12. Wolves, Lower
+13. 20th Century Boy
+14. Pills
+15. Carnival Of Sorts (Boxcars)
+
+Total length: 45 min 45 sec
+
+Line-up: Buck/Berry/Mills/Stipe
+Support: Let's Active
+
+MD5 lineage:
+b457157eddc5fa961849143b30df3d6e *CD 1\Track 01.flac
+19ce6e1e08a70d123c37b803531c520e *CD 1\Track 02.flac
+507828f1eb621a12c320edb773aafd8a *CD 1\Track 03.flac
+4356593fc3ae5e5b49cf2b32796a385e *CD 1\Track 04.flac
+02e1f77e05ae142663c77e74c3bb4720 *CD 1\Track 05.flac
+f5399abfcc1337aea80e76dbaf808095 *CD 1\Track 06.flac
+58612dcbb04f9c7cc021c21e7517711d *CD 1\Track 07.flac
+1337c8ae9ccc7e5051d03e2ad007f024 *CD 1\Track 08.flac
+086c32e364f2038f81903c526284bd86 *CD 1\Track 09.flac
+6e52958103b71baf046ea6dd870381a7 *CD 1\Track 10.flac
+2eced45381923184baf9c5a91ac304f7 *CD 1\Track 11.flac
+f58ccd6a130905ef93f01aa9fd625faa *CD 1\Track 12.flac
+d58fc3e82bc2e8164e22c8003d2286f7 *CD 2\Track 01.flac
+893dea061216ba3eb8617b8fbc028f46 *CD 2\Track 02.flac
+f8822901a665921ce5c3846526f9e4dc *CD 2\Track 03.flac
+b7be848ddb98283bc6319558919aa0d5 *CD 2\Track 04.flac
+d1b73ee556cde917a726267ba3b2240e *CD 2\Track 05.flac
+ce006f8654d38f32698feb0ccd2c6035 *CD 2\Track 06.flac
+38fc78bc26c8e0bf5ac0a7f7d4d27bb3 *CD 2\Track 07.flac
+37a57f9533522d5db94d6aa5f8db6c4d *CD 2\Track 08.flac
+fa884ffe5aabf499a56efc12eef9a666 *CD 2\Track 09.flac
+20cb00ccebab4f6b4027a1a6f3545f9b *CD 2\Track 10.flac
+f63861d7401da9b30000f37ae45edf3b *CD 2\Track 11.flac
+cda7000270b6a8ebfa51c35f078d1726 *CD 2\Track 12.flac
+cad0b9b28b579d6e93fba981933b60fc *CD 2\Track 13.flac
+4c23a703a293d8971a7be46d66077e42 *CD 2\Track 14.flac
+95851b643b3632575dd5c7c61385058f *CD 2\Track 15.flac
+
+No artwork
+
+Notes: this is the first of 10 shows from 1983 that I will put up. I picked the ones that I have no info file for, which means I got them through a trade. 
+They may or may not have been on trackers before, but if they have I didn't see them.
+This show here is one from the Murmur tour, but a few songs that would end up on Reckoning are already being played.
+It is a an AUD recording, and not one of the better ones, but it's listenable nonetheless.
+
+Info file by martine_holl October 2011

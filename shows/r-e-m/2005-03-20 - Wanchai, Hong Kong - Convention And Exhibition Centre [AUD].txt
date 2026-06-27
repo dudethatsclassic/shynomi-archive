@@ -1,0 +1,70 @@
+R.E.M.
+March 20, 2005
+Hall 3, Hong Kong Convention and Exhibition Centre
+Wan Chai, Hong Kong
+
+SETLIST (108:52) 
+----------------- 
+01) I Took Your Name
+02) Bad Day
+03) So Fast, So Numb
+04) The Outsiders
+05) Seven Chinese Brothers
+06) Animal
+07) High Speed Train
+08) Driver 8
+09) Drive
+10) Leaving New York
+11) Orange Crush
+12) I Wanted To Be Wrong
+13) Final Straw
+14) Imitation Of Life
+15) The One I Love
+16) Walk Unafraid
+17) Losing My Religion 
+18) What's The Frequency, Kenneth?
+19) Everybody Hurts
+20) The Great Beyond
+21) I'm Gonna DJ
+22) Man On The Moon 
+
+GENERATION
+-----------------
+DAT(M) [44.1kHz] > WAV > FLAC [Level 8]
+
+SOURCE
+-----------------
+Panasonic > Sony TCD-D100
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII > LynxONE > Adobe Audition 3.0 > CD Wave 1.97 > FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+9c49e0bcc4027bbfafcf100b40314224 *rem2005-03-20t01.flac
+6ba6b0b5ea87615ecc0f608528706521 *rem2005-03-20t02.flac
+4899815082a4b563dd7c3cdf191bb25c *rem2005-03-20t03.flac
+e529886452484d5ce12d299cd3ad5e3e *rem2005-03-20t04.flac
+8cc4b26b55f6cc72f3432e0861039fdd *rem2005-03-20t05.flac
+7abe5aef69744b78f47f15a137655e44 *rem2005-03-20t06.flac
+6704f2416523704488293705104e9b81 *rem2005-03-20t07.flac
+9de031d987c2b96cacb967ad68ebf081 *rem2005-03-20t08.flac
+209453f4e70beb361387c95638856e03 *rem2005-03-20t09.flac
+958e6522330654f712db6dc74764cfe0 *rem2005-03-20t10.flac
+bd978b3843527759cb11c172bfbab3c6 *rem2005-03-20t11.flac
+0d6a97215216f82dde2a2aeb8b2ab0aa *rem2005-03-20t12.flac
+c9eb36d97af59cff83cb4b1090afbffa *rem2005-03-20t13.flac
+6a4c8696b27f4489ea6b48fffb15e7cf *rem2005-03-20t14.flac
+47beba200f6dfce66151c382d755d794 *rem2005-03-20t15.flac
+d108540a059e1df99cff7eb0b29f6d79 *rem2005-03-20t16.flac
+5c1c3eb62a7af0bb14f426bd166c13e7 *rem2005-03-20t17.flac
+7c0ac403ce9f335be7846121c5aaf484 *rem2005-03-20t18.flac
+8bde1f66f08d16793ad82ed6f1ec75f4 *rem2005-03-20t19.flac
+837b5f9c30d5ff2f8e70156832d05617 *rem2005-03-20t20.flac
+1b639e6b8f529c5ff13d734163b18e75 *rem2005-03-20t21.flac
+28da49c66dcd5239f892fc92faaad52e *rem2005-03-20t22.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

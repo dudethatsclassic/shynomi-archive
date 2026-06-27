@@ -1,0 +1,54 @@
+R.E.M. - 7 October 1987 - Radio City Music Hall, New York, NY
+
+Low gen tapes received from Glen, thanks Glen.
+
+2xTDK SA90s>Pioneer CT-W830R>M-Audio Audiophile 192@48khz>Adobe Audition>Wav>Flacfrontend 1.7.1
+
+
+01. Finest Worksong 
+02. These Days 
+03. Pilgrimage 
+04. Disturbance At The Heron House 
+05. Exhuming McCarthy 
+06. Orange Crush 
+07. Feeling Gravity’s Pull 
+08. The Flowers Of Guatemala 
+09. Fireplace 
+10. Tired Of Singing Trouble 
+11. I Believe (tape flip immediately after)
+12. Maps And Legends 
+13. Driver 8 
+14. Superman 
+15. Pretty Persuasion* 
+16. Oddfellows Local 151* 
+17. It's The End Of The World As We Know It (And I Feel Fine)* 
+18. Begin The Begin* 
+
+(suggested disc 2 start)
+encore 1: 
+19. Strange* 
+20. Title* 
+21. Fall On Me 
+encore 2:
+22. We Walk (featuring Natalie Merchant)
+23. 1,000,000
+24. See No Evil
+encore 3: 
+25. Harpers 
+26. Crazy 
+27. The One I Love 
+
+*second source
+
+I received this tape in the mail last week. Having converted it immediately to wavs and played it through, I reckon this particular tape was put together from two recording sources.
+
+Source one has quite a full sound, but also is afflicted by a curious echo in the left channel – I did some research and discovered that RCMH is notorious for its awful acoustics, particularly the echo. It is caused the by lack of any acoustic dampening on the vast ceiling and walls. The echo is more pronounced towards the edges of the theatre.
+
+I have attempted to compensate for the echo by overlaying a mono copy of the right channel, so you still get the fullness of sound, but the delay effect in the left ear is less obtrusive. You can hear the echo on the drum intro to McCarthy quite clearly. 
+
+The second source doesn’t have this problem, and I have highlighted songs from source two with an asterisk.
+ 
+Anyway, issues aside, it’s all pretty good, it’s a bit trebly on some tracks and will sound better at a lower volume. During Superman, taper one starts fiddling with his mikes so there’s some rustling and mike noise, and also the relocation of the mikes catches someone singing along.
+
+The transitions between sources are as they were on the original tape. I have smoothed out the tape flip between Pretty Persuasion and Oddfellows, and rejoined the final encore to the rest of the show. No EQ was used, but I did use some volume envelopes to make sure the volume is a bit more consistent.
+

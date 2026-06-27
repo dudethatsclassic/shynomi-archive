@@ -1,0 +1,101 @@
+R.E.M.
+
+2 July 1982
+The Strand Cabaret, Marietta, GA
+
+/// REMASTERED ///
+
+Source: Silver CD bootleg "Do The Strand" (Red Robin Records)
+AUD unk *low* gen analog, possibly reel or Elcaset based on sonics
+
+Remastering:
+EAC secure (no errors)
+Adobe Audition @ 32bit
+Phase correction
+Pitch correction
+Secret sauce
+Various cleanup edits
+Re-tracksplit at sector boundaries
+Normalization and fades
+Dither to 16bit
+FLAC
+...to you
+
+-------------
+
+01 intro
+02 West Of The Fields
+03 Shaking Through
+04 Pilgrimage
+05 Romance
+06 We Walk
+07 Wolves, Lower
+08 That Beat
+09 Pretty Persuasion
+10 Sitting Still
+11 1,000,000
+12 Gardening At Night
+13 9-9
+14 There She Goes Again
+15 Catapult
+16 Radio Free Europe
+17 Perfect Circle
+18 Laughing
+19 Moral Kiosk
+20 Carnival Of Sorts (Boxcars)
+
+--------------
+
+
+From my original seed of this on the defunct Sharing The Groove tracker:
+
+
+This is a TERRIFIC sounding audience recording of a classic pre-Murmur gig, at the Strand
+Cabaret in Marietta, GA. It's one of the best AUD recordings I've ever heard - at first I thought
+it was a soundboard recording but you can hear too much audience chatter for that to be the case.
+Either way, it's a phenomenal gig, and it is from a very critical part of the band's career - many
+of the songs that would end up on "Murmur" were written during this time, and you can hear the 
+differences pretty clearly here. "Perfect Circle" is debuted here and played with a drum machine - 
+this is why it was dropped from the live set shortly after summer 1982 until the Green tour, when 
+they could do it justice.
+
+---------------
+
+Pulled this out for a re-listen the other day and realized a couple things:
+
+1) It's too slow - per Audition, it runs about 2% slow.
+2) It's out of phase.
+3) It's muffled and otherwise poorly EQ'ed.
+
+Beyond that, it's a great little gig that took *very* well to remastering - this could fool many 
+people into thinking it's a soundboard!
+
+I'm not convinced this is a cassette master. The underlying sonics sound very much as if it was a 
+reel-to-reel tape source, or perhaps an Elcaset machine (a short-lived successor to the venerable 
+cassette pitched by Sony in the late 1970's that had better frequency response and sonics than 
+the classic cassette format). There's a Joy Division gig (Jan 18 1980 Eindhoven, Holland) 
+recorded on Elcaset that has similar sonics, which makes me think this too is possibly Elcaset.
+
+Wikipedia: http://en.wikipedia.org/wiki/Elcaset
+
+So I tarted it up quite a bit and, if I may be so humble, this is the definitive version of this 
+gig. It's that good! So trash any other version you may have of this gig and grab this. Unless, of 
+course, you have a soundboard of it ;)
+
+
+Full show info, from the timeline:
+
+2 July 1982 - The Strand Cabaret, Marietta, GA 
+support: Love Tractor 
+set: West Of The Fields / Shaking Through / Pilgrimage / Romance / We Walk / Wolves, Lower / That Beat / 
+Pretty Persuasion / Sitting Still / 1,000,000 / Gardening At Night / 9-9 / There She Goes Again / 
+Catapult / Radio Free Europe 
+encore: Perfect Circle / Laughing / Moral Kiosk / Carnival Of Sorts (Boxcars) 
+notes: For the first half of the song Sitting Still is played at half speed, before they kick into normal 
+speed. It also contains the first known live performance of Perfect Circle (complete with drum machine). 
+This show can be found on the CD bootleg "Do the Strand", which included a version of the song 'Crazy' 
+from another performance.
+
+Enjoy!
+
+Drew

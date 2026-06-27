@@ -1,0 +1,68 @@
+R.E.M.
+1989-02-11
+Thebarton Theatre, Adelaide, Australia
+master recording of unknown audience source
+
+Track listing:
+ 1. Pop Song 89 [cuts in]                                        2:59
+ 2. Exhuming McCarthy                                            3:06
+ 3. Welcome to the Occupation                                    3:05
+ 4. Orange Crush ['Be All That You Can Be' intro]                3:46
+ 5. Pilgrimage                                                   4:07
+ 6. Maps and Legends                                             3:01
+ 7. Feeling Gravitys Pull                                        5:15
+ 8. The Flowers of Guatemala                                     4:05
+ 9. These Days                                                   3:53
+10. Crazy [Pylon cover]                                          2:48
+11. World Leader Pretend ['We Live as We Dream, Alone' intro]    4:39
+12. Underneath the Bunker                                        1:34
+13. I Believe ['Tired of Singing Trouble' intro]                 4:07
+14. I Remember California [cuts in]                              4:38
+15. Little America                                               2:56
+16. Get Up                                                       2:36
+17. It's the End of the World as We Know It (And I Feel Fine)    4:02
+18. Begin the Begin [with small dropouts]                        3:35
+---------------------------------------------------------------------
+19. Stand                                                        3:05
+20. We Walk                                                      3:22
+21. Fall on Me                                                   3:09
+22. You Are the Everything                                       3:42
+---------------------------------------------------------------------
+23. Finest Worksong                                              4:01
+24. King of Birds                                                4:47
+25. See No Evil [Television cover]                               2:22
+26. Auctioneer (Another Engine)                                  2:36
+---------------------------------------------------------------------
+27. Harpers [Hugo Largo cover; Michael a capella]                2:36
+28. Strange [Wire cover]                                         2:44
+29. The One I Love                                               3:38
+30. Time After Time (AnnElise)                                   3:47
+31. The Eleventh Untitled Song                                   3:02
+32. After Hours [Velvet Underground cover]                       2:31
+---------------------------------------------------------------------
+    Total Length                                              1:49:35
+
+Here's my humble contribution to the bootleg world, the first show that I've ever done any audio
+editing on. Fairly minor stuff, and the recording's not *great*, but I think it's better and more
+listenable than it used to be (I've included the original file in the folder if you want to compare
+and have a go yourself).
+Strong show from the early days of the Green tour, R.E.M.'s first time in Australia, and a setlist
+that includes a ton of tour rarities. Kick back and enjoy.
+-choc e-Claire, April 2021
+
+Fixes:
+original file 'REM-1989-02-11-Thebarton Theater, Adelaide [M].flac' downloaded from DC++
+converted to .wav with TLH and sent to Audacity
+split into left and right audio tracks
+volume adjustments made:
+-L +2, R -3 from late in 'Pop Song 89' to 'I Believe'
+-L +5, R +3 for the start of 'I Remember California'
+-both +3 from 'I Remember California' to 'Begin the Begin', L up an extra +1
+-L +8 for 'Begin the Begin' and 'Stand'
+-L +4 from 'We Walk' to 'Auctioneer'
+-both +6 from 'Harpers' to 'The One I Love'
+-both +4 from 'Time After Time' to 'After Hours'
+mixed and rendered back to one stereo track
+split to .wav with Audacity
+converted to .flac (level 8) with TLH
+hashed and shared out

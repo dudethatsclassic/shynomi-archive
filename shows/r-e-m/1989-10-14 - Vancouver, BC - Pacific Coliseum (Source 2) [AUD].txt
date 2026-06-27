@@ -1,0 +1,99 @@
+﻿R.E.M.
+Pacific Coliseum
+Vancouver, BC
+October 14, 1989
+
+** 16 BIT **
+
+Source:  Sony FM/AM Stereo Cassette-Corder WM-F46 with supplied mic > Master cassette (1 x Maxell XLII & 1 x TDK D90)
+Transfer:  Master cassettes > Nakamichi LX-5 (azimuth adjusted) > PreSonus AudioBox USB Audio Interface > Sound Forge Pro 11.0 
+(Build 299) (HP Elitebook 8440P laptop) > .WAV
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 11.0 Build 299 [splicing, Boz Digital Labs 
+T-Bone plug-in (slant EQ), minor edits, normalize, & fades] > CDWav (tracking) > iZotope MBIT+ (dithered and downsampled to 16 
+bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging) 
+Taped by:  "crowflies"
+Transferred & mastered by:  Dennis Orr
+
+Setlist: (2:03:10)
+01 Stand
+02 The One I Love
+03 So. Central Rain (I'm Sorry)
+04 Crowd
+05 Turn You Inside-Out
+06 Belong
+07 Exhuming McCarthy
+08 Good Advices
+09 These Days
+10 Orange Crush
+11 Feeling Gravity's Pull
+12 Time After Time (Annelise)
+13 Sitting Still
+14 World Leader Pretend
+15 Future 40's (String Of Pearls) >
+16 I Believe
+17 Underneath The Bunker
+18 Get Up
+19 Life And How To Live It
+20 It's The End Of The World As We Know It (And I Feel Fine)
+21 Encore Break
+- Encore -
+22 Pop Song 89
+23 Fall On Me
+24 You Are The Everything (fade in)
+25 Harpers (1)
+26 Begin The Begin
+27 King Of Birds
+28 Auctioneer (Another Engine)
+29 Low
+30 Chat
+31 Finest Worksong
+32 Perfect Circle
+33 Dark Globe
+34 After Hours > Word Up > After Hours
+
+(1) Michael Stipe - A cappella
+
+Michael Stipe – lead vocals
+Peter Buck – lead guitar, mandolin, & banjo
+Mike Mills – bass, keyboards, & backing vocals
+Peter Holsapple – rhythm guitar & keyboards
+Bill Berry – drums, percussion, & backing vocals
+
+Mastering Notes:
+Tape flip during the applause after "Feeling Gravity's Pull" - seamlessly spliced, no music lost
+Tape flip during the applause after "Fall On Me" - first few notes of "You Are The Everything" are missing
+
+REM1989-10-14t01.flac:f4840d67238e46ff493f0dd064d817e7
+REM1989-10-14t02.flac:b92a570bd74b87d8e4e256184a6f3d89
+REM1989-10-14t03.flac:cbbccfb13b02eaa5a8967e4427597b1a
+REM1989-10-14t04.flac:779d9ebc4307d5946d7759e4e1c9b47d
+REM1989-10-14t05.flac:45e68d49e80c9a73d8d90d87b35c552a
+REM1989-10-14t06.flac:2b05c685fe0c60a3b42f82bef2c2ce7f
+REM1989-10-14t07.flac:d3dc7c2feb8f8cb0f26b19a70f70ccf6
+REM1989-10-14t08.flac:9e95caa2554234703a339c3bf2dd269b
+REM1989-10-14t09.flac:393f57ef63b6e13a6580e2e21fcf7975
+REM1989-10-14t10.flac:0d9799f655078120e94cdc535b032427
+REM1989-10-14t11.flac:90dc9a696e6472c285c5c8d231076d04
+REM1989-10-14t12.flac:d92fdeff9a0631cf1437918bf1b9f6c4
+REM1989-10-14t13.flac:f7efb8a8dcbe8a3e9b10ae1fc2130be9
+REM1989-10-14t14.flac:67349d26f17cb99cd1055c6051dc641e
+REM1989-10-14t15.flac:1e2904ec6c3c01439ce0ee564c3fb652
+REM1989-10-14t16.flac:229aee2ebf4347b99d71ee9ac3418058
+REM1989-10-14t17.flac:4ecfcb91a1339dec7434bd12f205cf38
+REM1989-10-14t18.flac:756b88df0a475137cdfce906afdca10d
+REM1989-10-14t19.flac:420ccdd63a447317aa6e24fd00470cf0
+REM1989-10-14t20.flac:8a94e05d1ed20666b17c34452655d0ec
+REM1989-10-14t21.flac:f6e1ae0fdc99d7c5068bc3870eff3be0
+REM1989-10-14t22.flac:16d86887807b8d4f018db7544996b189
+REM1989-10-14t23.flac:32d5a524dd26f5adea5f9b59f2f4f668
+REM1989-10-14t24.flac:08e852af8c16317565718314079f17ce
+REM1989-10-14t25.flac:543ca444554468a5530d7efcaa09ac81
+REM1989-10-14t26.flac:c635b18d8878df6d04dca6d240161897
+REM1989-10-14t27.flac:0c3d1d7124c5956c9bd313f39de1429f
+REM1989-10-14t28.flac:666d8dbcdfb186c8bf9e6bc84b41c528
+REM1989-10-14t29.flac:5595f23dda7036e68137953e646af25c
+REM1989-10-14t30.flac:9638c6cb7b1111ef5066210da31f9a51
+REM1989-10-14t31.flac:a0c2faabcab16a9428ad73f9967e5e0c
+REM1989-10-14t32.flac:4409a918f71984f6b994025fd7ce2c04
+REM1989-10-14t33.flac:8e50613404106c48b2396d07b9c4311b
+REM1989-10-14t34.flac:30aa1b705913e037c25e1c570f9c729a

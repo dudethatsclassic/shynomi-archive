@@ -1,0 +1,48 @@
+R.E.M.
+Crisler Arena - Ann Arbor, MI
+10/22/95
+
+DAT(AUD)>PC>FLAC
+
+DAT Master Recording: Core Sound Binaurals (no bass rolloff)-> Sony TCD-D7 DAT
+CD Transfer: Sony TCD-D7->Audiophile 2496 via Cool Edit 2000
+CE2K Post Processing:
+ * 44.1kHzSample rate conversion @ 350 quality
+ * Normalized level fluctuation
+Track Marks inserted via CDWave
+Files verified w/shntool
+FLAC conversion w/FLAC Frontend 1.7.1 w/Level 6 encoding
+
+Disc One
+1. I Took Your Name
+2. What's The Frequency Kenneth?
+3. Crush With Eyeliner
+4. Try Not To Breathe
+5. Drive
+6. Wakeup Bomb
+7. Binky The Doormat
+8. Losing My Religion
+9. Bang And Blame
+10. Undertow
+11. Strange Currencies
+12. Revolution
+13. Tongue
+
+1. Man On The Moon
+2. Country Feedback
+3. The One I Love
+4. Pop Song '89
+5. Get Up
+6. Star 69
+7. Let Me In*
+8. Dancing Barefoot**
+9. Everybody Hurts
+10. Wicked Game
+11. Departure
+//DAT change
+12. It's The End Of The World As We Know It (And I Feel Fine)
+
+* w/Patti Smith on background vocals
+** w/Patti Smith on lead vocals
+
+Recording & CD Transfer by Notorious T.I.M. (April 2007)

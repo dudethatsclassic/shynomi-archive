@@ -1,0 +1,22 @@
+3a4d26db2d6d919c19e40eef885174ba  [shntool]  101 So Fast, So Numb.flac
+65a4809e85739bb594eedee05d3a7898  [shntool]  102 Pilgrimage.flac
+acdbb6b61e32f4420dd1b647f9c19538  [shntool]  103 New Test Leper.flac
+2389f0b7d4ecd35bea1e9e98fe1068ce  [shntool]  104 Animal.flac
+63a875b106a977c69e8724f3d9c33e8e  [shntool]  105 The Great Beyond.flac
+22995dfb5486f148447c3112bb4d6a7e  [shntool]  106 Driver 8.flac
+4ccbc3e238d633a280d9d68f9e66ec1b  [shntool]  107 I've Been High.flac
+87378ffba0d8524fa0d1eb06bc677d15  [shntool]  108 Bad Day.flac
+e5059d99ff6686f0f4dbc86c3f379e48  [shntool]  109 The One I Love.flac
+dddd4ca908ea24568e6364a28ddbde5d  [shntool]  110 So. Central Rain.flac
+5e519479b34fc5c4b9dad9dfbd23b007  [shntool]  111 Fall on Me.flac
+5cffb844898f5ed9fb0bf0808d603275  [shntool]  112 Daysleeper.flac
+5b96731d18bb1ad1f713f45118bd2828  [shntool]  113 Electrolite.flac
+8c4ca50012f4dd6044f2d25c0417785f  [shntool]  201 Losing My Religion.flac
+d5ac46f7d7484658f9fc980fc08077d9  [shntool]  202 Cuyahoga.flac
+cefc905cf33d3868e67e2d5cae3229d5  [shntool]  203 Walk Unafraid.flac
+05b5a6434160a0afe0cdf68e9b971e3d  [shntool]  204 She Just Wants to Be.flac
+9399175bfcba7e32e782214bb9ef3185  [shntool]  205 Man on the Moon.flac
+7d73300261dabfe8da95311c74705ade  [shntool]  206 Everybody Hurts.flac
+472238f4886a75ba2a7c297a2549469c  [shntool]  207 Country Feedback.flac
+4a56231b7fc20ca19fa1c379fe775488  [shntool]  208 Imitation of Life.flac
+d91abea14195905d47976124613c72a5  [shntool]  209 It's the End of the World as We Know It (And I Feel Fine).flac

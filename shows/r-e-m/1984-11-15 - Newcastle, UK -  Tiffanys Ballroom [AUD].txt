@@ -1,0 +1,36 @@
+R.E.M. -  Tiffany's Ballroom, Newcastle, England 1984-11-15 (remtorrent)
+
+set: 
+Pale Blue Eyes
+Radio Free Europe
+Harborcoat
+Hyena
+Seven Chinese Brothers
+Talk About The Passion
+Auctioneer (Another Engine)
+So. Central Rain
+(Don't Go Back To) Rockville
+Sitting Still
+Driver 8
+Gardening At Night
+<the Disc One/Disc Two split comes here>
+9-9
+Frogmore
+Windout
+Old Man Kensey
+Pretty Persuasion
+Little America
+encore 1: 
+Second Guessing
+Time After Time (Annelise)
+We Walk-Falling In Love Again-After Hours-Behind Closed Doors
+Just A Touch
+encore 2: 
+Moon River
+Carnival Of Sorts (Boxcars)
+
+support: The Lucy Show
+
+Above info from the website of ultimate awesomes that is www.remtimeline.com
+
+Audience recording >> ??? >> CD-R >>> EAC >>> Cool Edit 2000  (the recording was about 1/4 semitone fast so I extracted the wav files and batch processed them all by stretching them to 102%. What a pain in the cajones that was) >> TLH >>> Flac6.  Everything else was done with TLH 

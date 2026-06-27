@@ -1,0 +1,58 @@
+Venue: Santa Cruz Civic Auditorium
+City:  Santa Cruz,Ca
+Date:  July 23, 1985
+Taper: Persic
+Source:Nakamichi cm300 (cp4) > sony tcd5m
+      transfer fom master cassette
+
+Disc One:
+01 Feeling Gravitys Pull
+02 Harborcoat
+03 Green Grow The Rushes
+04 John The Revelator
+05 Maps And Legends
+06 Hyena
+07 Laughing
+08 Driver 8
+09 Bandwagon
+10 Seven Chinese Brothers
+11 So. Central Rain
+12 Have You Ever Seen The Rain?
+
+Disc Two:
+01 Can't Get There From Here
+02 Auctioneer (Another Engine)
+03 Old Man Kensey
+04 Pretty Persuasion
+05 Life And How To Live It
+06 Little America
+encore:
+07 Femme Fatale
+08 9-9-Windout
+09 Boy (Go)-Singing Cage
+10 Theme From Two Steps Onward
+11 Radio Free Europe
+
+rem1985-07-23d1t01.flac:4c6cc53b38413e282df70a4499fd89bf
+rem1985-07-23d1t02.flac:c30203d9a30f82de02e715e73bbab426
+rem1985-07-23d1t03.flac:d7efb00768150329019f054ec317628d
+rem1985-07-23d1t04.flac:d9fd683619b857ef57c66573eecb5fa1
+rem1985-07-23d1t05.flac:7bcab8d0ee548eebf4dd0e782d83aff3
+rem1985-07-23d1t06.flac:186ceb7344596e6184e3b2874b4741b8
+rem1985-07-23d1t07.flac:e8535a69cbb4c36fc859e7fc66c3ad1d
+rem1985-07-23d1t08.flac:00589842c4a13b6530520b4cbeba2b0f
+rem1985-07-23d1t09.flac:4d0d555f9816405c257aa7a278f738b8
+rem1985-07-23d1t10.flac:6abf05a74beaf7e9e9e8983ead4b89ff
+rem1985-07-23d1t11.flac:36e8c4c9bc276dcf8b8fe3a712c11a07
+rem1985-07-23d1t12.flac:33b87534f01896af77aa969ba2aed987
+rem1985-07-23d2t01.flac:14c1110b6f77be9402d65727c2f0017d
+rem1985-07-23d2t02.flac:2aea3f77f0ad6e8f249569fb4805a85e
+rem1985-07-23d2t03.flac:d39080785bc75a6fd4e79cb2d3bc8ddb
+rem1985-07-23d2t04.flac:8e44b321c4db985b8e9ea8876058243b
+rem1985-07-23d2t05.flac:3eb6fb05d2b7bc2848c5bfd25f258859
+rem1985-07-23d2t06.flac:a17940e751c8ac04c75c1c44e57aa69c
+rem1985-07-23d2t07.flac:47066899bbf65a6a0fad8eacf074cac1
+rem1985-07-23d2t08.flac:6093920be5327b5c827ff8e49ae65ad4
+rem1985-07-23d2t09.flac:f95a039a73baad7935464ca2caa2d678
+rem1985-07-23d2t10.flac:6f57cd50ffeab922b362bc47088a8982
+rem1985-07-23d2t11.flac:cc72de23d40154346d0f180ce92e948a

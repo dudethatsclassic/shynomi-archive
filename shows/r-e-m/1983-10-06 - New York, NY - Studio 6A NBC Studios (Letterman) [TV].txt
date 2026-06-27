@@ -1,0 +1,20 @@
+REM
+"Late Night With David Letterman"
+Studio 6A, NBC Studios, New York City NY
+October 6, 1983
+
+recording info:
+~ 1990 Cable TV Rebroadcast > Mono VHS Master @ SP
+
+transfer:
+VHS Master > D8 DAT @ 16bit/48kHz
+- transfer done in 1996
+
+processing:
+DAT > Tascam DA45-HR > sd usbpre2 > Adobe Audition > CD WAV > TLH Flac 8
+
+these are 16bit/48kHz flac files
+
+01. radio free europe
+02. interview
+03. so. central rain

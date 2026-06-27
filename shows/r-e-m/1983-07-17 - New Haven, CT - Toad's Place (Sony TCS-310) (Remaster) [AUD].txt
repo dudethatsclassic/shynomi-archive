@@ -1,0 +1,75 @@
+R.E.M.
+Michael Stipe: vocals
+Peter Buck: guitar
+Mike Mills: bass, backing vocals
+Bill Berry: drums, backing vocals
+
+Toad's Place
+New Haven, CT, USA
+July 17, 1983
+runtime: 93:21 (minutes/ seconds)
+from master audience recording made with Sony TCS-310 cassette recorder
+
+       DISC ONE:
+01 ¥ WOLVES, LOWER (5:37)
+02 ¥ MORAL KIOSK (3:25) 
+03 ¥ LAUGHING  (3 :52) [3:56]
+04 ¥ PILGRIMAGE (4:03) [4:00]
+05 ¥ SEVEN CHINESE BROTHERS (4:15) 
+06 ¥ TALK ABOUT THE PASSION (3:13)
+07 ¥ EASY COME EASY GO (3:28)
+08 ¥ SITTING STILL (3:34) 
+09 ¥ HARBORCOAT (3:54) [4:00]
+10 ¥ CATAPULT (4:03) [3:58]
+11 ¥ PRETTY PERSUASION (4:50) 
+12 ¥ GARDENING AT NIGHT (3:45) [3:43] (removed a second or so of silence at end after applause fades out)
+ 
+       DISC TWO:
+13 ¥ 9-9 (3:51) (tape flip cut at :57)
+14 ¥ QUARTERS (NOW THAT YOU'RE GONE) (2:57)
+15 ¥ WEST OF THE FIELDS (2:59)
+16 ¥ RADIO FREE EUROPE (4:50) (and encore applause)
+17 ¥ WHITE TORNADO (2:48)
+18 ¥ AGES OF YOU (3:36)
+19 ¥ TIME AFTER TIME (annELISE) (3:28)
+20 ¥ WE WALK (3:25)
+21 ¥ 1,000,000 (3:58) (and encore applause)
+22 ¥ EIGHT MILES HIGH (3:37) 
+23 ¥ CARNIVAL OF SORTS (BOXCARS) (4:05)
+24 ¥ SKANK (4:54)
+
+The Alex Butterfield Archive No. ABA-029-2
+Lineage: Master cassette recorded in Sony TCS-310 > 
+recording studio mixing board > EQ > compressor > 
+Audiomedia II card > Mac IIci > Soundesigner 2 > 
+output to CD-R > ripped in iTunes > FLAC conversion in xAct
+remaster lineage:
+flac > wav (adjusts) > flac 8 (sb's aligned)
+
+Artwork included.
+Includes an impromptu cover of The Byrds' "Eight Miles High".
+"The Alex Butterfield Archive"--begun in 1978--covers punk rock, 
+garage rock, pop, rockabilly, new wave, rock 'n' roll, jazz, reggae, 
+blues, indie, folk music and more. The Archive includes bands 
+local to Connecticut as well as national and international acts.
+
+remaster notes:
+individually reduced many loud claps between songs by 3-4 DB's, 
+balanced and normalize levels to -1.5 DB peak, 
+applied DC offset, retracked the beginning of pilgrimage and catapult, 
+and reduced several loud bumps after last encore break before "eight miles high".
+this is a very good quality, clean audience recording, 
+especially considering being recorded with an auto levelling 
+stereo Sony TCS-310 walkman cassette recorder.
+some of the claps were as loud as any music, not any more.
+any processsing of the music audio (other than volume level adjusting) 
+was done in the original mastering of these files.
+except a brief tape flip cut during unlucky track 13,
+other than that, it appears to be the full concert of this night,
+including the band's stage introduction,
+and the beginning of the walkoff music when the show wrapped up,
+and all the encore cheering during at least 2 encore breaks.
+many loud claps and a few bumps and noises were reduced, 
+but nothing was edited out of this recording in this remastering
+except about a second of silence after gardening at night 
+(after the applause fades out). 

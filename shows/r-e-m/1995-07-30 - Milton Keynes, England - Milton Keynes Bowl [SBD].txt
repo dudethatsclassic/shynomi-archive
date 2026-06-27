@@ -1,0 +1,133 @@
+EAC extraction logfile from 8. January 2004, 12:31 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : SAMSUNG CDRW/DVD SN-324B   Adapter: 1  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+   Filename C:\Documents and Settings\Trent\Desktop\Trent's Stuff\Music\rem1995-07-30.flac\rem1995-07-30\d1\Unknown Artist - Track01.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC FD753FEB
+   Copy OK
+
+Track  2
+   Filename C:\Documents and Settings\Trent\Desktop\Trent's Stuff\Music\rem1995-07-30.flac\rem1995-07-30\d1\Unknown Artist - Track02.wav
+
+   Peak level 95.3 %
+   Track quality 100.0 %
+   Copy CRC DCA8C7F9
+   Copy OK
+
+Track  3
+   Filename C:\Documents and Settings\Trent\Desktop\Trent's Stuff\Music\rem1995-07-30.flac\rem1995-07-30\d1\Unknown Artist - Track03.wav
+
+   Peak level 96.7 %
+   Track quality 100.0 %
+   Copy CRC E0AAF985
+   Copy OK
+
+Track  4
+   Filename C:\Documents and Settings\Trent\Desktop\Trent's Stuff\Music\rem1995-07-30.flac\rem1995-07-30\d1\Unknown Artist - Track04.wav
+
+   Peak level 98.9 %
+   Track quality 100.0 %
+   Copy CRC 5330CF00
+   Copy OK
+
+Track  5
+   Filename C:\Documents and Settings\Trent\Desktop\Trent's Stuff\Music\rem1995-07-30.flac\rem1995-07-30\d1\Unknown Artist - Track05.wav
+
+   Peak level 91.6 %
+   Track quality 100.0 %
+   Copy CRC 077B47B0
+   Copy OK
+
+Track  6
+   Filename C:\Documents and Settings\Trent\Desktop\Trent's Stuff\Music\rem1995-07-30.flac\rem1995-07-30\d1\Unknown Artist - Track06.wav
+
+   Peak level 94.6 %
+   Track quality 100.0 %
+   Copy CRC 4E18E6DC
+   Copy OK
+
+Track  7
+   Filename C:\Documents and Settings\Trent\Desktop\Trent's Stuff\Music\rem1995-07-30.flac\rem1995-07-30\d1\Unknown Artist - Track07.wav
+
+   Peak level 91.0 %
+   Track quality 99.9 %
+   Copy CRC 7129638D
+   Copy OK
+
+Track  8
+   Filename C:\Documents and Settings\Trent\Desktop\Trent's Stuff\Music\rem1995-07-30.flac\rem1995-07-30\d1\Unknown Artist - Track08.wav
+
+   Peak level 99.8 %
+   Track quality 100.0 %
+   Copy CRC BB0CD65E
+   Copy OK
+
+Track  9
+   Filename C:\Documents and Settings\Trent\Desktop\Trent's Stuff\Music\rem1995-07-30.flac\rem1995-07-30\d1\Unknown Artist - Track09.wav
+
+   Peak level 95.8 %
+   Track quality 100.0 %
+   Copy CRC 13F542A1
+   Copy OK
+
+Track 10
+   Filename C:\Documents and Settings\Trent\Desktop\Trent's Stuff\Music\rem1995-07-30.flac\rem1995-07-30\d1\Unknown Artist - Track10.wav
+
+   Peak level 90.4 %
+   Track quality 100.0 %
+   Copy CRC 37A2A761
+   Copy OK
+
+Track 11
+   Filename C:\Documents and Settings\Trent\Desktop\Trent's Stuff\Music\rem1995-07-30.flac\rem1995-07-30\d1\Unknown Artist - Track11.wav
+
+   Peak level 84.6 %
+   Track quality 100.0 %
+   Copy CRC 5B4535EF
+   Copy OK
+
+Track 12
+   Filename C:\Documents and Settings\Trent\Desktop\Trent's Stuff\Music\rem1995-07-30.flac\rem1995-07-30\d1\Unknown Artist - Track12.wav
+
+   Peak level 81.3 %
+   Track quality 100.0 %
+   Copy CRC 6FFC804B
+   Copy OK
+
+Track 13
+   Filename C:\Documents and Settings\Trent\Desktop\Trent's Stuff\Music\rem1995-07-30.flac\rem1995-07-30\d1\Unknown Artist - Track13.wav
+
+   Peak level 76.6 %
+   Track quality 100.0 %
+   Copy CRC B624B009
+   Copy OK
+
+Track 14
+   Filename C:\Documents and Settings\Trent\Desktop\Trent's Stuff\Music\rem1995-07-30.flac\rem1995-07-30\d1\Unknown Artist - Track14.wav
+
+   Peak level 84.5 %
+   Track quality 99.9 %
+   Copy CRC 802EDB95
+   Copy OK
+
+No errors occured
+
+
+End of status report

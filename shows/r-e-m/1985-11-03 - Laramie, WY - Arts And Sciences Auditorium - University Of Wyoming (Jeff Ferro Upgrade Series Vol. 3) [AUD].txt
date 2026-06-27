@@ -1,0 +1,90 @@
+R.E.M.
+Arts And Sciences Auditorium
+University Of Wyoming
+Laramie, WY
+Sunday 3 November 1985
+
+support: 10,000 Maniacs
+
+Jeff Ferro R.E.M. upgrade series volume 3
+
+Lineage: Unknown taper and equipment. C-90 Cassette (Side A tracks 1-13, Side B tracks 14-24) -> Nakamichi DR-1 -> Tascam DA-3000 -> WAV 24/96
+
+Digital conversion from cassette by nakeddave from the collection of Jeff Ferro.
+
+Revised by Bert13 on 16 June 2021 with Adobe Audition 3.0.1 (notes below)
+Tracked with CD Wave, encoded to flac 8 with TLH, tagged with foobar2000
+Notes by eckythump
+
+First shared to Dime on 18 August 2021
+
+00. Intro
+01. Second Guessing
+02. Harborcoat
+03. Maps And Legends
+04. Green Grow The Rushes
+05. See No Evil (Television cover)
+06. 7 Chinese Bros.
+07. Sitting Still
+08. Fall On Me
+09. So. Central Rain (I'm Sorry)
+10. Have You Ever Seen The Rain? (Creedence Clearwater Revival cover)
+11. Can't Get There From Here
+12. West Of The Fields
+13. Auctioneer (Another Engine)
+- Side B with small overlap -
+14. Michael's Kensey Story
+15. Old Man Kensey
+16. Pretty Persuasion
+17. Pledge Of Allegiance - Home On The Range - Little America
+encore 1:
+18. Feeling Gravitys Pull
+19. (Don't Go Back To) Rockville
+20. Tired Of Singing Trouble
+21. Driver 8
+encore 2:
+22. Amen, Brother Ben (traditional)
+23. Theme From Two Steps Onward
+24. Toys In The Attic (Aerosmith cover)
+25. Wild Thing (The Troggs cover)
+26. Life And How To Live It
+
+Total time: 89:12
+
+Michael Stipe - Vocals, harmonica
+Peter Buck - Guitar
+Mike Mills - Bass Guitar, vocals
+Bill Berry - Drums, vocals
+
+Revision notes:
+
+Side A:
+- silent tape stretches removed
+- interference at 16kHz filtered out
+- 105.2 stretch
+- phase corrected
+- amplified/normalized/balanced
+
+Side B:
+- silent tape stretches and last part with unrelated music removed
+- ground hum at 50 and 200Hz filtered out
+- 105.2 stretch
+- phase corrected
+- amplified/balanced
+
+Show ad and article from the archives of the University Of Wyoming's student newspaper The Branding Iron (1 November 1985 edition) - archives found at https://uwdigital.uwyo.edu/islandora/object/wyu%3A169935
+
+Show notes: After completing a 1 month European tour that the band considered a failure, just 3 days later they were back in the USA in Boulder, CO, before performing for the first ever time in Wyoming the following day (it would also be the last! Peter doesn't forget shout outs for 'Wendell Gee' easily). There's a few curve balls in this setlist, firstly it's one of the very few shows in 1985 that did not begin with 'Feeling Gravitys Pull' (the previous show didn't either), moved instead to the first encore, the only known time that occurred in 1985. A band conference early in the show resulted in a very early set appeareance of the Television favourite 'See No Evil' (with many failed calls for 'Wendell Gee' from the audience captured by the taper). A terrific 'rain' trilogy soon followed, complete with the wonderful Peter guitar only version of 'So. Central Rain (I'm Sorry)', with sublime harmonies from Bill and Mike. The encores were quite unusual for 1985, with the aforementioned highly rare appearance of 'Feeling Gravitys Pull' opening the encore, as well as 'Driver 8' closing the first encore, which was typically played mid set. The second encore also mixed things up, with an impromptu 'Wild Thing' which might usually close a show with 'Louie Louie' instead here followed up by 'Life And How To Live It' to end the show. It was a long long year of touring, and with another 5 or so weeks to go and possibly still suffering from some jetlag, the band did a nice job of mixing up the setlist. Another great show in one of the band's most memorable touring years.
+
+Recording notes: This is a very nice recording. Unfortunately something went wrong with side B and it sounds muffled to begin with, but it clears up during Driver 8 and it the same quality as side A for the rest of the show. While muffled, it's still quite listenable however. Bert13 again took the lead with this one and has done a very nice job remastering Jeff's cassette. Thanks again to nakeddave for the transfer to the digital world and rescuing what is a very rarely circulated show, and of course Jeff for sharing this cassette. This is the first time this show has ever circulated widely in the digital world, and has never appeared on Dime or any other tracker before. Another fine team effort to bring this one to you. Enjoy!
+
+Trivia question - Michael recites a line from a Shakespeare play at the end of Little America. What is it and from what play? Correct answer wins nothing but our respect!
+
+
+****
+
+As time passes between the end of R.E.M. and the time you read this know that there are a few of us that still care a great deal for this band. If you have any old tapes or need any questions answered about circulating shows please drop us a line. New finds from the ROIO world and anniversary releases are what we have to look forward to these days, so please don't throw those old tapes out just yet. That forum is how we uncovered this new source, and the others that are forthcoming. We're confident there's a lot more out there we'd love to get into the digital world before they're lost forever.
+
+Check us out at http://remtimeline.com/listentome/ (send me a message here if you have trouble with registering and I'll sort it out)
+
+-eckythump, August 2021

@@ -1,0 +1,61 @@
+R.E.M.
+Langerado
+Big Cypress, FL
+March 8, 2008
+
+Source: Milab VM-44 Link -> Lunatec V2 -> Korg MR-1000 (1bit/2.8MHz DSD)
+
+Location: fob, 10’ right of center, 8’ stand
+
+Transfer: Korg MR-1000 -> AudioGate (16/44) -> CD Wave -> FLAC
+
+Disc 1:
+1. What's the Frequency, Kenneth?
+2. Living Well is the Best Revenge
+3. Bad Day
+4. Drive
+5. Hollow Man
+6. So. Central Rain
+7. Fall on Me
+8. Imitation of Life
+9. Man-Sized Wreath
+10. Begin the Begin
+11. Orange Crush
+
+Disc 2:
+1. Accelerate
+2. Electrolite
+3. Houston
+4. Losing My Religion
+5. Horse to Water
+6. Walk Unafraid
+7. The One I Love
+8. Supernatural Superserious
+9. Auctioneer (Another Engine)
+10. I'm Gonna DJ
+11. Man on the Moon
+
+
+
+rem2008-03-08d1t01.flac:72c7f23d786bac33bd462d803bbfcf48
+rem2008-03-08d1t02.flac:47cdf595af5ca91c6af7b0de22f873d3
+rem2008-03-08d1t03.flac:5e4cd1ad62559dc6bfa7100fceb92ef7
+rem2008-03-08d1t04.flac:6a5cc5e3ea515572058834ee3e3c626f
+rem2008-03-08d1t05.flac:cfd3372770bbc856f94e56a26bad08a0
+rem2008-03-08d1t06.flac:4f675e613ad9a756d7e7d2d09cbf6922
+rem2008-03-08d1t07.flac:31347a9d47d2f25373b921f215b6ee89
+rem2008-03-08d1t08.flac:eb18b3f0b0703a23f7e21c839d9af9de
+rem2008-03-08d1t09.flac:61bf130f5c9d2468ba8d4734668fe15b
+rem2008-03-08d1t10.flac:fd8112c18439729d76239e59dd9ec870
+rem2008-03-08d1t11.flac:6eba9d2a7417e0a07243f4caa4ee89ca
+rem2008-03-08d2t01.flac:d7212d830028ecc6c9b959196683cfd2
+rem2008-03-08d2t02.flac:22bc993f7ec53694e033202ae201f70b
+rem2008-03-08d2t03.flac:995954049a81e582b0886b6887384e73
+rem2008-03-08d2t04.flac:b8b908fbf01f14513731327d4b697f25
+rem2008-03-08d2t05.flac:22147be652832ed6cfc5b990dbd48891
+rem2008-03-08d2t06.flac:41cae4305185ca23fdfb11cdc17054d2
+rem2008-03-08d2t07.flac:48d562ec1675e9512d19d68b9218d634
+rem2008-03-08d2t08.flac:5a98455a02b8800ce9bc339e54994076
+rem2008-03-08d2t09.flac:6adf2c503acd19eb6f95dbff96d5f648
+rem2008-03-08d2t10.flac:c04a7c5be0b51d092fab4efd9010ad81
+rem2008-03-08d2t11.flac:8ddffab43332797f2b3a07b645d15d66

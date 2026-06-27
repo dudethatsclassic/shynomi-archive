@@ -1,0 +1,45 @@
+REM
+November 27th, 2004
+Fillmore Auditorium-Denver,CO
+
+Source: Schoeps MK4Vs > VMS-5U > SBM-1 > PCM-M1
+Transfer: Fostex D5 > SP/DIF > DIO2448 > Soundforge 7.0b > shntool 3.0.2 > flac 1.1.1
+
+**DO NOT sell copies of this recording**
+
+Disc 1:
+01. Get Up				03:01.10
+02. Begin The Begin			03:40.20
+03. So Fast, So Numb			04:28.60
+04. Animal				04:49.69
+05. Boy In The Well			05:18.73
+06. Orange Crush%			05:23.37
+07. High Speed Train			05:31.23
+08. Strange Currencies			04:11.60
+09. The Outsiders			04:46.16
+10. Imitation Of Life			04:39.42
+11. Leaving New York			05:03.48
+12. Drive				04:48.14
+13. The Great Beyond			04:49.10
+14. The One I Love			03:41.42
+
+Total:					64:13.74
+
+Disc 2:
+01. Final Straw				05:05.48
+02. Losing My Religion			04:57.33
+03. Walk Unafraid			05:22.28
+04. Life And How To Live It		04:44.66
+05. What's The Frequency, Kenneth?	04:02.36
+06. Exhuming McCarthy			03:55.66
+07. Country Feedback*			08:27.16
+08. Permanent Vacation			03:19.24
+09. I'm Gonna DJ			02:25.29
+10. Man On The Moon			07:11.29
+
+Total:					49:29.00
+
+% small dropout early in this tune. 
+* w/Charlie Mars
+
+Compiled by alex@kabella.org on 01/22/2005

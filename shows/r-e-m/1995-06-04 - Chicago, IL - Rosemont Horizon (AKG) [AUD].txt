@@ -1,0 +1,76 @@
+REM
+Rosemont Horizon
+Chicago, IL
+6/4/95
+
+(?)AKG 398(?) > Oade M118 > Sony SBM-1 > Sony D7 > DAT > Soundblaster Audigy2zs >
+Creative Wave Studio > wav > Soundforge 8.0 > CD Wave Editor > FLAC
+
+Taped by: Guy Gimbrone
+Transferred by: DreadyCubFan
+Edited by: Rev. Mike 
+
+d1t01 I Don't Sleep I Dream
+d1t02 What's the Frequency Kenneth?
+d1t03 Crush With Eyeliner
+d1t04 Drive
+d1t05 Turn You Inside Out
+d1t06 Undertow
+d1t07 false start
+d1t08 Try not to Breath
+d1t09 Bang and Blame
+d1t10 Begin the Begin
+d1t11 Strange Currencies
+d1t12 Revolution
+d1t13 Tongue
+d1t14 Stipe banter
+d1t15 Man on the Moon
+d2t01 Country Feedback
+d2t02 Losing My Religion
+d2t03 Star Me Kitten
+d2t04 I Took Your Name
+d2t05 Get Up
+d2t06 Finest Worksong
+d2t07 Star 69
+d2t08 Let Me In
+d2t09 Everybody Hurts
+d2t10 Stipe banter/band intro
+d2t11 Fall On Me
+d2t12 Departure
+d2t13 It's the End of the World As We Know it
+
+Notes:
+Show was taped stealth, mics unkown, but most likely some variation on
+the rig noted above.  Levels were adjusted slightly in Soundforge.
+Both discs could be joined seamlessly on longer media.
+
+Seed dedicated in loving memory to Guy Gimbrone (2/6/69 - 9/9/03).
+
+REM1995-06-04d1t01.flac:065fc1f83dc95885ffe59a67479d4ef1
+REM1995-06-04d1t02.flac:526b23e0af3554a2fb7751f0698ad177
+REM1995-06-04d1t03.flac:f28a2ffae217789c8dc115245d33faf4
+REM1995-06-04d1t04.flac:28b1fbd89fd5e0466e723d88621233ef
+REM1995-06-04d1t05.flac:20d65dec1e8ab52a0493deddef12c1bd
+REM1995-06-04d1t06.flac:00ff5e860e95c66a07d583aaa067e73c
+REM1995-06-04d1t07.flac:16b967d3cf3db3a4deb6d57147efd2e8
+REM1995-06-04d1t08.flac:f1bda8c8b16454dff58ca6da2cc36725
+REM1995-06-04d1t09.flac:836712fcbec43236b8ff31bf8a50f7a0
+REM1995-06-04d1t10.flac:4af53560532fd83b60a3cdb533890a1c
+REM1995-06-04d1t11.flac:713a12e565e13d7323c3687408108efd
+REM1995-06-04d1t12.flac:3edb03410c122a54e0a2c7dc29b04656
+REM1995-06-04d1t13.flac:e4d65a9ec17f19223d479e0a33b1e296
+REM1995-06-04d1t14.flac:496fbc907f0256665b787b5243fe1236
+REM1995-06-04d1t15.flac:76d8701d6d4d1f17821014331eb37033
+REM1995-06-04d2t01.flac:cc38ffd7c131e08c09bd5f359985ff50
+REM1995-06-04d2t02.flac:579357d1b2c68a4841f1597c69e7106d
+REM1995-06-04d2t03.flac:5adbc18364df96b624be97fa000995c1
+REM1995-06-04d2t04.flac:b15c69a77ec1c3837c221796eb40cf83
+REM1995-06-04d2t05.flac:6a6e80d5cf7e0c336f11707ec2cf8403
+REM1995-06-04d2t06.flac:62150f677422295799d8a9bd58dff29a
+REM1995-06-04d2t07.flac:a8e8eeadaa89694a084e1f33b4e872b6
+REM1995-06-04d2t08.flac:c15024c4d77af1e557b50c2dfd80c6fe
+REM1995-06-04d2t09.flac:292147d6c6b4a369e4aa2fad03534866
+REM1995-06-04d2t10.flac:55b6f1b4ff2ad1276d61aab16c69d183
+REM1995-06-04d2t11.flac:fc923f6797acd4e46e81ad0e9fb8d759
+REM1995-06-04d2t12.flac:f28ce14698bbb69a31f6292563165a9b
+REM1995-06-04d2t13.flac:daed74bcb79098fced8290e3e70aaf92

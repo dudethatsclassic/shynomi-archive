@@ -1,0 +1,42 @@
+REM
+27 March 1989 
+New Orleans, Senator Nat G. Kiefer University Of New Orleans Lakefront Arena
+AUD0 - Sony D6
+
+transfer (2013): Teac w-860r analog deck (azimuth adjusted) > Sony DAT DTC-790 > playback: Sony PCM-R300 (optical out) > U24 > CEP2.0 @ WAV44.1 > TLH flac8  
+
+00 Pop Song 89 (missing)
+01 Welcome To The Occupation 
+02 Disturbance At The Heron House 
+03 Turn You Inside-Out 
+04 Driver 8 
+05 Be All You Can Be - Orange Crush 
+06 Cuyahoga 
+07 Feeling Gravitys Pull 
+08 Time After Time (Annelise) 
+09 World Leader Pretend 
+10 Being the Begin
+11 Tired Of Singing Trouble - I Believe 
+12 Pretty Persuasion 
+13 Get Up 
+14 Auctioneer (Another Engine) 
+15 It's The End Of The World As We Know It (And I Feel Fine)
+
+encore 1: 
+16 Stand 
+17 Fall On Me 
+18 You Are The Everything
+
+encore 2: 
+19 Finest Worksong 
+20 King Of Birds
+21 Swan Swan Hummingbird
+
+encore 3: 
+22 See No Evil
+23 Summertime
+24 Strange 
+25 Crazy (w/ Peter Holsapple)
+26 Perfect Circle
+27 After Hours (Velvet Underground cover)
+

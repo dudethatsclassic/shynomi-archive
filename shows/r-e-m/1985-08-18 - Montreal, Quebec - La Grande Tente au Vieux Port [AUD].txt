@@ -1,0 +1,51 @@
+R.E.M.
+8/18/85 - partial
+La Grande Tente au Vieux Port,
+Montreal, QB
+
+
+source: aud cassette master
+taped by Jimmy Cooper
+
+sony ecm22p’s>sony d6
+
+nakamichi dragon>benchmark adc1 24/96
+transferred & seeded by Rob Berger 8/2016
+
+
+
+01 - Just A Touch
+02 - Pale Blue Eyes
+03 - (Don't Go Back To) Rockville
+04 - Second Guessing
+05 - See No Evil
+06 - Theme From Two Steps Onward
+07 - Radio Free Europe
+08 - Femme Fatale
+09 - Seven Chinese Brothers/
+10 - Old Man Kensey
+11 - White Tornado
+12 - Pretty Persuasion 
+13 - Little America
+14 - Life and How to Live It
+
+notes: new show to circulation as of
+this writing. setlist differs from the
+one in the etree database. 
+
+some periods of distortion
+
+rem1985-08-18d1t01.flac:a5f22721298860b31671c887bd918e41
+rem1985-08-18d1t02.flac:2c630f1d2d9fe16d0ce1083a19cf06cc
+rem1985-08-18d1t03.flac:eb5c53eb9b05b7cbf72c74fd9deabbe3
+rem1985-08-18d1t04.flac:09e918ff03836c76bc93f062db65af34
+rem1985-08-18d1t05.flac:58e83b61dea4646f2420a5ae29a82eda
+rem1985-08-18d1t06.flac:c9610f256fc5a4055caaf0fad278664f
+rem1985-08-18d1t07.flac:3f614a0f1bbc4e356275326c26aa34d8
+rem1985-08-18d1t08.flac:ba7580d966399901c47e04d15e359b75
+rem1985-08-18d1t09.flac:0f590c7da99a543dfb9e5cffe94e98c0
+rem1985-08-18d1t10.flac:6e5b87550ffec04bfce1636f6e0d910f
+rem1985-08-18d1t11.flac:39c47d55b581a7ee7e05d88b42bed84d
+rem1985-08-18d1t12.flac:7ba8b1a63e1ec2bf12f1af5b67a5d570
+rem1985-08-18d1t13.flac:817b34c72c1e0b3364e5bc4a7fb10b04
+rem1985-08-18d1t14.flac:366c413c2d7063275e74da5a81430870

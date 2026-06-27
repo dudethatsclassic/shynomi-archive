@@ -1,0 +1,88 @@
+R.E.M. 1984-09-25 Page Auditorium, Duke University, Durham, NC
+R.E.M.
+Page Auditorium, Duke University, Durham, NC
+Source: online trade AIFF -> Switch Sound File Converter -> FLAC's (level 6)
+
+Setlist:
+
+CD 1:
+Set:
+01. Radio Free Europe
+02. Harborcoat
+03. Letter Never Sent
+04. Kohoutek
+05. Sitting Still
+06. Pilgrimage
+07. 7 Chinese Bros.
+08. So. Central Rain
+09. Talk About The Passion
+10. Hyena
+11. Time After Time (Annelise)
+12. Gardening At Night
+13. 9-9
+14. Windout
+15. Old Man Kensey
+16. Pretty Persuasion
+17. Little America
+
+Encore 1:
+18. California Dreamin'
+19. Wolves, Lower
+20. Driver 8
+21. 1,000,000
+
+Total length: 1 hr 9 min 46 sec
+
+CD 2:
+Encore 2:
+01. Moon River
+02. Second Guessing
+03. Oh Susanna/Jimmy Crack Corn
+04. (Don't Go Back To) Rockville
+05. We Walk
+06. Carnival Of Sorts (Boxcars)
+07. Tusk
+
+Total length: 33 min 22 sec
+
+Line-up: Buck/Berry/Mills/Stipe
+Support: the dB's
+
+MD5 lineage:
+92bd340a493f87b7d555129dbc590a4a *disc 1\01 Audio Track.flac
+431e5a2fa78ad0c57a5c54d4fcb52128 *disc 1\02 Audio Track.flac
+4d59a54dd8f38a39fd5b9536a5fb01f3 *disc 1\03 Audio Track.flac
+45c4c65250f1715fd51f2bd9d104c849 *disc 1\04 Audio Track.flac
+d34b7bc04ea9b1d5641aeb177ad48e16 *disc 1\05 Audio Track.flac
+de90108feed8d88a5086a8f526158c57 *disc 1\06 Audio Track.flac
+a0788c5fad7191a57b150ae84f6202b9 *disc 1\07 Audio Track.flac
+f17866817443e9a66bab73430e3f1d9e *disc 1\08 Audio Track.flac
+bf3486956ff7fa197aee900e5bfe534a *disc 1\09 Audio Track.flac
+cd5182f0649aa778ffda630d8d79e19d *disc 1\10 Audio Track.flac
+11803d0573db19e000d595f2810f30f3 *disc 1\11 Audio Track.flac
+e059d0c03d82f741da56e30f35f4bd88 *disc 1\12 Audio Track.flac
+ad3bf2e3aeb711fb278d9b5a3e7844e5 *disc 1\13 Audio Track.flac
+70bbc2d7146a9b968ff120bbea89b2ea *disc 1\14 Audio Track.flac
+add45d536f1989baa3c709d31e714617 *disc 1\15 Audio Track.flac
+70eb799aa0a0714482efc3ba4f2399b4 *disc 1\16 Audio Track.flac
+93fc06c81ac8dbee4739fd30fecab84b *disc 1\17 Audio Track.flac
+921a1132ebcb53c31b8b809bfaee1562 *disc 1\18 Audio Track.flac
+8a5039367f061fb9f841ac2db1735dc4 *disc 1\19 Audio Track.flac
+127eaf086e0db8f57fe9e992c619d35a *disc 1\20 Audio Track.flac
+536ca6456d24e617d78c91ba0181a7d7 *disc 1\21 Audio Track.flac
+7ea5b3113a1b12ced3452b2342030a2a *disc 2\01 Audio Track.flac
+44943062dd75f8b1d79a42e2d6a4f5a6 *disc 2\02 Audio Track.flac
+0391f6a6651f04dc4a49674fd4ad41a0 *disc 2\03 Audio Track.flac
+6010a1f9aab4264721b4a15a465ded50 *disc 2\04 Audio Track.flac
+79168a1f2d547cdb2dd4cd154a7bb387 *disc 2\05 Audio Track.flac
+d1c9f2901b47267758e56be379cdc349 *disc 2\06 Audio Track.flac
+c75d1546f4338b7328608e874faa251b *disc 2\07 Audio Track.flac
+
+No artwork
+Notes: this is the last of Chris S's shows from 1984. It is a fair AUD recording.
+Attention: this is NOT the show that is widely known from the bootlegs "Unreleased Live LP" and "We Are Having A Heavenly Time".
+That is the show that was played the next day, in the same venue. 
+Confusingly, that often bootlegged show is sometimes listed as having been played on this date (1984-09-25 instead of 1984-09-26).
+The show that is being offered here is not from any known bootleg, and I have not seen it on any tracker before, OR on anyone's trade list except Chris's.
+
+Info file by martine_holl October 2011

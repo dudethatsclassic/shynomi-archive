@@ -1,0 +1,58 @@
+R.E.M.
+Shoreline Amphitheatre At Mountain View
+Mountain View, CA
+Saturday 6 September 2003
+
+Support: Wilco
+
+Source: Schoeps MK4 > KCY > mod-Lemosax > SBM-1 > D100
+Conversion: D100 > VXpocket > Soundforge 6.0 > Waves LinEQ > Waves MB > CD Wav > shntool > shorten32
+
+Originally uploaded to Dime 24 January 2006 by bjartur. Remastered version uploaded to Dime by eckythump 26 October 2020.
+
+Eckythump October 2020 remaster: iZotope RX8 Advanced (azimuth adjustment) -> Ozone 9 (EQ adjustment) -> Audacity 2.4.2 (split tracks and export to FLAC Level 8) -> Foobar2000 1.6.1 (Files tagged)
+
+Track List:
+
+00 - Intro
+01 - Begin The Begin
+02 - So Fast, So Numb
+03 - Drive
+04 - Animal
+05 - Fall On Me
+06 - Orange Crush
+07 - Bad Day
+08 - Michael talks
+09 - The One I Love (acoustic)
+10 - Daysleeper
+11 - Imitation Of Life
+12 - So. Central Rain (I'm Sorry)
+13 - At My Most Beautiful
+14 - Nightswimming
+15 - (Don't Go Back To) Rockville
+16 - Losing My Religion
+17 - She Just Wants To Be 
+18 - Walk Unafraid
+19 - Man On The Moon
+20 - Encore break
+21 - Everybody Hurts
+22 - Welcome To The Occupation
+23 - Chorus And The Ring (snippet) - Country Feedback
+24 - Michael talks
+25 - Permanent Vacation
+26 - It's The End Of The World As We Know It (And I Feel Fine)
+
+Michael Stipe - Vocals, harmonica
+Peter Buck - Guitar, mandolin
+Mike Mills - Bass Guitar, keyboards, backing vocals
+Scott McCaughey - Guitar, backing vocals
+Bill Rieflin - Drums
+Ken Stringfellow - Keyboards, guitar
+
+Show notes: A week into the North American leg of the 2003 greatest hits tour finds the band in a very familiar venue in Mountain View, the scene of many fine shows going back to 1989, and they deliver another terrific show (7 shows at this venue in total, 5 as the headliner and 2 with Neil Young's Bridge School Benefit). The absolute highlight here is a stunning acoustic version of 'The One I Love', performed a few times this way early in the North American leg of the tour, before they went back to the electric version for the remainder of the tour. It's worth the download alone. Any show that features Country Feedback is also a winner in my books. This would be their final show at this venue as the closest they got in 2008 was The Greek at Berkeley. A great show.
+
+Recording notes: There's some brilliant audience recordings from 2003, but in my view this is the best of the lot. Crisp, clear, free from audience interference, you could easily think you're listening to an FM broadcast (which is what the reseeder from 2012 thought). I presume this is the same taper that is responsible for the also superb recording from the same venue in 1999 (available here http://www.dimeadozen.org/torrents-details.php?id=689133). It is simply a stunning recording that would make some official releases blush (including a few official R.E.M. releases of late). Although it was great already, I gave it an azimuth adjustment and a slight EQ adjustment. While not a massive upgrade, I think it now sounds a little bit nicer.
+
+Torrent notes: The original notes I have state 'Compiled by (alex@kabella.org) on 9/8/03'. The first time I can find this in the Dime archives was in January 2006. It was then reseeded by 'DirtyOldMan' on 6 February 2012, before falling off the tracker in 2013. I suspect it was originally on Dime's predecessor or on the old Murmurs tracker originally, but I can't confirm. It's been a while since this was on Dime so it's time for another spin. Enjoy!
+
+http://www.remtimeline.com/ for all your R.E.M. setlist needs!

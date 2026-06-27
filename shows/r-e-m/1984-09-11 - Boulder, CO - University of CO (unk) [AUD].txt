@@ -1,0 +1,61 @@
+R.E.M.
+Michael Stipe: vocals
+Peter Buck: guitar
+Mike Mills: bass, backing vocals
+Bill Berry: drums, backing vocals
+
+Macky Auditorium
+University Of Colorado
+Boulder, CO, USA
+1984-09-11
+(mostly) very good audience recording
+
+Support: the dB's
+
+Source: online trade AIFF -> Switch Sound File Converter -> FLAC's (level 6)
+
+setlist:
+01. second guessing 3:04
+02. harborcoat 4:09
+03. hyena 2:58
+04. pilgrimage 4:10
+05. Kohoutek 3:41
+06. talk about the passion 3:08
+07. sitting still 3:10
+08. letter never sent 3:27
+09. so. central rain (I'm sorry) 3:18
+10. 7 Chinese brothers 4:15 
+11. driver 8 3:32
+12. gardening at night 3:24
+13. 9-9 2:35
+14. windout 2:13
+15. Old Man Kensey 3:53
+16. pretty persuasion 3:33
+17. Little America 2:54
+    encores:
+18. Moon River 2:12
+19. camera 5:51
+20. (don't go back to) Rockville 4:18
+21. we walk > behind closed doors 4:45
+22. Radio Free Europe 3:47
+23. 1,000,000 3:37
+24. carnival of sorts (boxcars) 4:25
+
+Total time: 86:31 (minutes/ seconds)
+
+Revised with Adobe Audition 3.0.1:
+
+- digital gaps and repeated material around the track transitions cleaned up
+- de-clicked
+- re-tracked
+- speed corrected 101.5 stretch
+- re-encoded to flac 8 with TLH, aligned on sbs
+
+Note that there are unfixable missing samples at 
+around some of the track transitions due to a bad CDR rip.
+
+Bert13
+September 6, 2024
+
+Original notes: this is the second of my last 4 1984 shows, that I got from Chris S.
+It's an average AUD recording, and to my knowledge it is complete.

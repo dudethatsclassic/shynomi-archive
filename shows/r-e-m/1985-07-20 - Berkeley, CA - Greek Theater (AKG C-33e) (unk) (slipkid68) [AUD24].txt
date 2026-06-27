@@ -1,0 +1,41 @@
+R.E.M. Hearst Greek Theater UC Berkeley Berkeley CA 1985-07-20
+
+AKG C-33e X-Y stereo microphone > AKG B18 48v phantom power supply > Marantz PMD 430 (DBX noise reduction, Maxell MX 90 cassette)
+
+Nakamichi Dragon > DBX 224 (dbx decoding) > Audio Antiquary Mastering Preamp (Telefunken C3g tube -10 dBV to +4 dBu gain and level setting) > QES Labs PAD-2 mkII LE (A/D conversion 24/96) > OS X Peak Pro 7 > xACT (flac, tags)
+
+01. Intro
+02. Feeling Gravity's Pull
+03. Moral Kiosk
+04. Maps and Legends
+05. Green Grow the Rushes
+06. Hyena
+07. 7 Chinese Brothers
+08. Sitting Still
+09. Driver 8
+10. Good Advices
+11. So. Central Rain (I'm Sorry)
+12. Have You Ever Seen the Rain
+13. Can't Get There From Here
+14. Auctioneer (Another Engine)
+15. Old Man Kensey
+16. Pretty Persuasion
+17. Life and How to Live It
+18. Little America
+19. Radio Free Europe
+encore 1:
+20. Second Guessing
+21. (Don't Go Back To) Rockville
+22. Carnival of Sorts (Box Cars)
+encore 2:
+23. Theme From Two Steps Onward
+24. Harborcoat
+25. Boy (Go)
+26. We Walk
+27. See No Evil
+
+Notes:
+Patches for missing material were obtained from the “1st gen 2020 edition” shared by Slipkid68
+Approximately 19 seconds for the master cassette flip at the end of track 13 to track 14
+Approximately 15 seconds at the of track 26 where side B of the master cassette ran out
+All of track 27

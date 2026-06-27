@@ -1,0 +1,67 @@
+R.E.M. 1984-06-18 Mission Theater, Santa Barbara, CA
+R.E.M.
+Mission Theater, Santa Barbara, CA, 1984-06-18
+Source: CD WAV -> EAC WAV -> TLH FLAC (level 6)
+
+Setlist: 
+
+CD 1:
+1.  Second Guessing
+2.  Hyena
+3.  Catapult
+4.  7 Chinese Bros.
+5.  Pilgrimage
+6.  Talk About The Passion
+7.  Good Advices
+8.  So. Central Rain
+9.  Letter Never Sent
+10. Gardening At Night
+11. 9-9
+12. Windout
+
+CD 2:
+13. Old Man Kensey
+14. Pretty Persuasion
+15. Driver 8
+16. Radio Free Europe
+17. Little America
+
+Encore:
+18. Moral Kiosk
+19. Time After Time (Annelise)
+20. 1,000,000
+21. Chicken Train
+22. Femme Fatale
+23. Carnival Of Sorts (Boxcars)
+
+Line-up: Buck/Berry/Mills/Stipe
+Support: Dream Syndicate
+
+MD5 signature:
+85d87ffe8a68a5a802082368705e0df7 *01 Titel 01.flac
+cead80676f6b51d2957e60c00ddce0c1 *01 Titel 02.flac
+4478d40a430dc2ed7f3970d027923a74 *01 Titel 03.flac
+7df45cfde55292d38ddf65e361cef44b *01 Titel 04.flac
+845c654e18fe839961034cc259461b9d *01 Titel 05.flac
+7daf9089fba94979a8807da8e02ea02e *01 Titel 06.flac
+75f9ab76356f139af271bfc736ce0f30 *01 Titel 07.flac
+fb9d8993302aa65cde25d74a14a021af *01 Titel 08.flac
+bef8213bec6d8ccc7b4a2a4c0d3bd4b9 *01 Titel 09.flac
+20d7dbcccd6cacbff978bb5cf6e525db *01 Titel 10.flac
+033397695ffd5cdc17f08e5bb713c68e *01 Titel 11.flac
+3cc2695e75919af678dd00f6a388b298 *01 Titel 12.flac
+00fe9bd01e75280c9b0337e4bfbbd8f6 *02 Titel 01.flac
+15bbc99e90c1bb1d987deb722f28d502 *02 Titel 02.flac
+90b8d580def1b98a61b583f565b1868c *02 Titel 03.flac
+b57eaa2d24d3fa5d6e647ee007071cce *02 Titel 04.flac
+3afb933dd21ab5962642f3771533c793 *02 Titel 05.flac
+7ce1faafd125543918772394c7e62081 *02 Titel 06.flac
+a227895e3d59cd2c8c2dffe32fd2d6ad *02 Titel 07.flac
+2066e0c1811cec613efd96a8a3105ee7 *02 Titel 08.flac
+1794d6c7a5d35b1d877cfdc5d644a0e1 *02 Titel 09.flac
+3fa8badf39f2110c3f25a1f46bfe07f4 *02 Titel 10.flac
+f39fb2ae851d1418e3b65108f9e202fc *02 Titel 11.flac
+
+No artwork
+
+Notes: Thanks to the inestimable Darryl's timeline: http://members.iinet.net.au/~darryl74/1984.html

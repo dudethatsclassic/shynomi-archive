@@ -1,0 +1,87 @@
+World debut of an upgrade to a performance that had been  available only in terrible quality and incomplete.  Thank you DIME member nakeddave for the setlist, tracking, samples, list of musicians, and the paragraphs below. Thank you also to my trade partner, whose name I have forgotten. 
+------
+We've had a flawed version of this show for several years (a mic cable came loose and made intermittent connenction for a maddening & speaker damaging combination of sound, static and loud pops for the entire middle third of the show), but were always hoping something better would come along before distributing it.  Today is that day, stevemtl has provided us with a major upgrade.  This version contains a little mic rustle, confined mostly to a couple between-song adjustments by the taper, and the middle third of this version is unmarred.  Also a couple songs cut short on the flawed version are here in their entirety. The best part of the flawed show might have been the write-up by Eckythump and he has graciously allowed me to use it here (it would be hard to top).  Thanks again to stevemtl for providing this show that until last week we had only hoped existed--ND
+
+Eckythump's Show notes: While R.E.M. were busy selling out theatres in the USA by this point, it seems Montreal was a little slower to catch on, with Montreal's The Gazette newspaper reporting in the 1 November 1986 edition about how music acts are struggling to sell out in the city (they didn't even bother to turn up to review the show). Excerpt from the article:
+"When, through accident or design, alternative does reach the airwaves, there's still no guarantee a show will sell. Take R.E.M. for instance.
+
+This fine Georgia-based folk rock band has received some local airplay, and wall-to-wall college crowd support during earlier concert appearances at the 1,100 capacity Spectrum. Their most recent LP, Lifes Rich Pageant, has been out plenty long enough to work through the collective local brain-pan. This is clearly a band on the way up.
+
+Yet R.E.M. came into the modified 3,500 seat Maurice Richard Arena last Wednesday night and played before only 1,700.
+
+R.E.M. guitarist Peter Buck blames the economy. "Ronald Reagan and the conservatives would have us believe we're all rich", he says. "But there are an awful lot of people out there without much of anything at all".
+
+Though that hasn't hurt R.E.M. elsewhere during their successful two-month tour of North America, the $16.50 ticket price and a venue that's perceived as too big, too boomy and too ugly did nothing to entice CEGEP and university students away from whatever it is that students do with their spare time in this town.
+
+Tim Mahoney, 23, is a Montreal native, Queens University graduate, guitar player and R.E.M. fan; he passed on Wednesday's show.
+
+"I'm on UIC and I can't afford these luxuries any more. Anyway, I won't stand for venues like Verdun or Maurice Richard with their horrible sound, so right now I'm reduced to listening to local bands and looking for a drummer to start one of my own" 
+
+So while the band only half sold out a poor sounding venue, they still put on a great show to those who turned up, with no less than 4 encores, and plenty of covers. The selling point for this show is the Finest Worksong - Will It Go 'Round In Circles performance - it's not Finest Worksong the complete song we know from Document, that hadn't been written yet. This is Michael reciting some of the lyrics to the song he had written at this point, which the band then ad libbed some music to, and that segued into Billy Preston's 'Will It Go 'Round In Circles', before circling back to the Finest Worksong lyrics. It's the only known the time the band did this, and is worth the price of the download alone.
+
+Tim, I hope you're out there. I look forward to hearing how your band sounded when it played Maurice Richard Arena.
+------
+
+R.E.M.
+Montreal, QC  --  Aréna Maurice-Richard
+1986-10-29  --  108:40
+
+01. These Days
+02. Harborcoat
+03. Sitting Still
+04. Hyena
+05. We Walk
+06. Feeling Gravitys Pull
+07. The Flowers Of Guatemala 
+08. Driver 8
+09. Finest Worksong (snippet)
+10. I Believe (snippet Perry Como cover)
+11. I Believe
+12. Story
+13. Swan Swan H
+14. Superman
+15. Can't Get There From Here
+16. Old Man Kensey
+17. Pretty Persuasion
+18. Auctioneer (preamble)
+19. Auctioneer 
+20. Little America
+
+Encore 1
+21. Fall On Me
+22. Cuyahoga
+23. Oddfellows Local 151
+24. Begin The Begin
+
+Encore 2
+25. Riders In The Sky (Stan Jones cover)
+26. Lightnin' Hopkins 
+27. See No Evil (Television cover)
+28. King Of Birds (spoken snippet) - Just A Touch
+
+Encore 3
+29. Finest Worksong (snippet) - King Of Birds (snippet) 
+30. Will It Go 'Round In Circles (Billy Preston cover) - Finest Worksong (snippet)
+31. Strange (Wire cover)
+32. Funtime (Iggy Pop cover)
+
+Encore 4
+33. So. Central Rain (I'm Sorry)
+
+note: 5 breaks removed
+
+musicians:
+Michael Stipe - vocals
+Peter Buck - guitar
+Mike Mills - bass, vocals
+Bill Berry - drums, vocals
+Buren Fowler - guitar
+
+Source: audiocassette master > my copy; no further info
+Transferred by stevemtl: cassette > Nakimichi Dragon > lucid AD9624 (mod) (> .wav: 16bit, 48khz) > Roland R44 > SD chip > HD
+Mastered by stevemtl: HD > Sound Forge (L2 dither > 24/48: L2 overall level adjust, edit, L2 applause level adjust, fades) > r8brain (vhq downsample > 24/44.1) > Sound Forge (L2 dither > 16/44.1) > [via transfer over the net: track cut by nakeddave] > TLH (flac level 6, ffp, md5) > TLH (torrent marker)
+Circulated by stevemtl: Torrent marker uploaded to DIME on 2020-12-09.
+
+Support R.E.M. former band members by attending gigs if and as available and purchasing official releases and merchandise.
+Please pass on in a lossless format only; reserve mp3 and other degrades for your own use exclusively.
+Do not profit in any material way from this recording.

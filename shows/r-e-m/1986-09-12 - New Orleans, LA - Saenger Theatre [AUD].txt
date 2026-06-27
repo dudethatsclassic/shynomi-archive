@@ -1,0 +1,37 @@
+REM
+12 September 1986 
+New Orleans, Saenger Theatre
+AUD0 
+Sony D6 + ECM939
+RH master
+
+transfer (2013): Teac w-860r analog deck (azimuth adjusted) > Sony DAT DTC-790 > playback: Sony PCM-R300 (optical out) > U24 > CEP2.0 @ WAV44.1 > TLH flac8 
+
+01 These Days 
+02 Hyena 
+03 Sitting Still 
+04 The One I Love 
+05 Shaking Through 
+06 Driver 8 
+07 Fall On Me 
+08 The Flowers Of Guatemala 
+09 I Believe 
+10 Swan Swan H 
+11 7 Chinese Bros. 
+12 Superman 
+13 Can't Get There From Here 
+14 Old Man Kensey 
+15 Auctioneer (Another Engine) 
+16 Pretty Persuasion 
+17 Life And How To Live It
+
+encore 1: 
+18 White Tornado 
+19 Begin The Begin 
+20 Cuyahoga 
+
+encore 2: 
+21 1,000,000 
+22 Strange 
+23 Funtime 
+24 Little America > Just A Touch > Toys In The Attic

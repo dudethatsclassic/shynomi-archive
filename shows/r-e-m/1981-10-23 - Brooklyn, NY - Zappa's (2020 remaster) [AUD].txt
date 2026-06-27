@@ -1,0 +1,63 @@
+R.E.M.
+Zappa's
+Brooklyn (Marine Park), NY
+Friday 23 October 1981 
+
+Original Lineage: 2nd gen tape > CD-R > FLAC > CD WAVE
+
+Eckythump October 2020 remaster: iZotope RX8 Advanced (various adjustments) -> iZotope Ozone 9 (EQ adjustments) -> Audacity 2.4.2 (split tracks and export to FLAC Level 8) -> Traders Little Helper 2.8.4 (Fix SBE's, ffp and md5 files) -> Foobar2000 1.6.1 (Files tagged)
+
+Recorded by Mike C, aka Mike the Bike: Analog audience recording (stereo): unknown mics > possibly Sony TC-D5 series cassette recorder
+
+More info on Zappa's history can be found here - https://forgotten-ny.com/2014/09/rock-palace-marine-park/
+
+This remaster is dedicated to the memory of Mike the Bike
+
+Set 1:
+
+01 - Ages Of You
+02 - Shaking Through 
+03 - There She Goes Again (The Velvet Underground cover)
+04 - Laughing 
+05 - Romance 
+06 - Sitting Still
+07 - That Beat 
+08 - Mystery To Me 
+09 - Permanent Vacation 
+10 - Carnival Of Sorts (Box Cars) 
+
+Set 2:
+
+11 - Just A Touch
+12 - 1,000,000 
+13 - I Can't Control Myself (The Troggs cover)
+14 - Burning Down 
+15 - Us And You (aka Ha We Get Paid For It) 
+16 - Pretty Persuasion 
+17 - Stumble 
+18 - Improvised instrumental 
+19 - When You Were Mine (Prince cover, bass snippet)
+20 - Round Is Funny (Oh Ok cover, snippet)
+21 - Gardening At Night 
+22 - Windout 
+23 - 9-9 
+24 - Radio Free Europe 
+
+Michael Stipe - Vocals 
+Pete(r) Buck - Guitar 
+Mike Mills - Bass, vocals
+Bill Berry - Drums, vocals
+
+Show notes: For avid readers of the R.E.M. Timeline website (who isn't?), you'll recall the following text in the notes for this show on the website, taken from the excellent first edition of the book It Crawled From The South by Marcus Gray: 'Described by Peter as one of the most pitiful moments in the band's career - "There were six people there. Maybe eight. The guy said he'd feed us, he gave us a box of Kentucky Fried Chicken that he'd sat under a drip in the ceiling so that it was covered in water; we lost $150 because we drank, and we didn't realise he was charging us for drinks; I got in a fight with a skinhead outside in the parking lot; and we got lost for four hours in Brooklyn before the show"'.
+So Peter doesn't hold particularly fond memories of this show, but he has been known one one or two occassions to exaggerate stories during interviews. While it doesn't sound like the venue is packed, R.E.M. had been receiving a lot of positive press in the New York area for the 'Radio Free Europe'/'Sitting Still' Hib-tone single, and it definitely sounds like more than 8 people turned out on this night, and I'm sure it helped them gain more word of mouth, and perhaps a few more Hib-Tone single sales. 
+
+Here we find a very fledgling R.E.M., 3 months after the release of their debut single, and already their fourth trip to the New York area since June that year. "We're R.E.M, we're from Georgia... this is the first time we've ever been to Brookyln... we ate at the Floridian!" exclaims Michael after the second song of the night, and before he can engage in a conversation about the merits of this dining establishment, he's cut off by his band members eager to move onto the next song. There's some great Michael dialog throughout the course of this show, including informing the audience that they can also see the band supporting Siouxsie And The Banshees the next night at The Left Bank in Mount Vernon, and if they're super keen for a weekend of non-stop R.E.M., at the Mudd Club on Sunday for a free show. Michael almost sounds like a little puppy dog here, pleading for people to come along. Yes, you could have seen R.E.M. for free in a tiny New York club in 1981!
+
+The songs here speak for themselves. This is R.E.M. in the transition period where they're retiring their 'old' simpler songs such as Dangerous Times and Hey Hey Nadine, and replacing them with more sophisticated songs like Romance, 1,000,000, Stumble and Carnival Of Sorts. While not performed here, Wolves, Lower was only a week away from its debut performance. Also featured here is one of their rarities, titled 'Us and You' because that's what Michael says it's titled after the song ends at the 6 November show; here no clue as to its title is revealed. Some people might be more familiar with its arbitrary title 'Ha We Get Paid For It' which the bootleggers named it. This was a song that was played for only a few weeks, then dropped from the set, and never played or recorded again. While I couldn't disagree with their choice to abandon it, it's a fascinating piece of their history that would be long forgotten about if it weren't for these recorded timepieces. In the second set, Bill's drumkit breaks during Stumble, so while he's trying to fix it (and swearing his head off, no roadies back then!), the band plays what's presumably an improv, but it could have been music they'd already written. This then segue's into Mike playing the bass riff for Prince's 'When You Were Mine' to pass the time, and then some acapella of the Oh Ok song 'Round Is Funny', before Bill's issues are finally resolved, and Gardening At Night begins. This is also the era before the well known trilogy order of Gardening At Night / 9-9 / Windout was in place - here Windout is put in the middle, which feels strange when you're used to it ending the trilogy. In all, a tremendous show. It's easy to listen to this with your eyes closed and pretend you're seeing them in this small club. A brilliant piece of history.
+
+Recording notes: How this show came to be recorded is just as fascinating a story as the show itself. Dime user and uploader extraordinaire elegymart provided a lot more background on his upload of the Siouxsie And The Banshees set the following night (unfortunately R.E.M.'s set was not recorded, but Siouxsie's set is still available here http://www.dimeadozen.org/torrents-details.php?id=682448). The show was recorded by a gentleman by the name of Mike C, aka 'Mike the Bike'. Elegymart explained that Mike was a Vietnam vet whose day job was working as a token booth clerk stationed at the 1st Avenue and 14th Street subway for the Mass Transit Authority in New York City. Mike first met R.E.M. when they played a free show at the bandshell in Tompkins Square Park (date unknown, not listed on the timeline), and R.E.M. put Mike on the guest list for the Zappa's show, as well as The Left Bank in Mount Vernon the following night. Mike lent his recording to his friend Gene to copy, which was passed on to Stonecutter/Rich B, and that's how this recording came to see the light of day. In a tragic ending to this story, Mike was killed in a hit-and-run accident on his bike in 2004. This is an excellent recording, Mike doing a fine job. At times the band's PA was a little too loud for Mike's microphone to handle, and some light distortion came through. I worked with the deconstruct module in iZotope RX8 advanced to try and eliminate as much as possible. There's still some there, but along with a declip and an azimuth adjustment I think it now sounds a little better. There's a small cut in 'Us And You', otherwise the show is complete. There's not many shows from 1981 in circulation, and to have one sounding this good is very special. Thanks to Mike for his foresight to record a piece of history we can all enjoy almost 40 years later.
+
+Torrent notes: This show has never been on Dime before, but was uploaded to that other well known live music site many years ago, and has circulated for some time now. I've included a few images as bonus material, one being a photo of the Hib-Tone single fully signed, given to Zappa's soundman Tommy Dean Najarian by the band on the night (posted to Facebook by Karduna Talent Associates on 12 July). For fans of R.E.M., it doesn't get much better than listening to this amazing piece of history. I hope people enjoy this remaster. Thank you again to Mike, Gene, Stonecutter and Elegymart. Enjoy!
+
+http://remtimeline.com/ for all your R.E.M. needs!
+

@@ -1,0 +1,90 @@
+﻿R.E.M.
+Alte Feuerwache, Mannheim, Germany
+October - 18 - 1985
+
+
+
+Matrix of 2 different recordings of the same show.
+
+Source 1: Stuart Percy recording (1st gen) uploaded to dime by hanwaker in 2010
+          recording and transfer info: 
+          analog aud-Master taped by stuart percy
+          aiwa-CM30--> sony D6 (onto TDK SA 90)
+          first digital transfer hanwaker 2010-11
+          1.gen cassette played back on nakamichi CR-7e ( azimuth aligned)-> edirol 04
+          wav file smoothed in audacity ( fades , volume/channel correction), tracked in cdwave--> flac(8)
+
+Source 2: MILAVALENTI master recording uploaded to dime by stacheleber in 2013 (that was falsely given as my own master)
+          recording and transfer info:
+          MILAVALENTI master recording 
+          SONY WM-D 6 with AIWA CM-30 Microphone
+          digital transfer by MILAN: cass transfer via Onkyo tapedeck TA-2330 -> Magix Audio & Music Lab -> flac
+
+
+Matrix arrangement:
+
+flac files both sources -> Magix Audio & Music Lab (edit/remaster) -> FLAC -> DIME
+
+Source 1 is missing the fragment of Maps and Legends where the band started to play it but stopped after 40 seconds to a reason unknown to me.
+Source 2 has the complete show with some seconds missing of audience noise compared to source 1. Unfortunately the recorder had some problems with the mike mainly during the first half of the concert.
+Both sources have an exceptional good sound (with the exception of the mike problems of source 2) and the matrix is close to excellent (I tried to eliminate the passages with the mike problems as good as possible). Source 1 was running a little bit slower than source 2 so I adjusted the speed of source 1 accordingly as this was a 1st gen recording.
+
+
+setlist (length 90:59 min)
+
+CD1:
+
+01 Intro
+02 Feeling Gravitys Pull
+03 Harborcoat
+04 Maps And Legends (only start)
+05 Driver 8
+06 Green Grow The Rushes
+07 Gardening At Night
+08 Fall On Me
+09 Pretty Persuasion
+10 So. Central Rain (Buck and Stipe)
+11 Have You Ever Seen The Rain?
+12 There She Goes Again
+13 Radar Love
+14 Ghost Riders In The Sky
+
+
+CD2:
+
+15 Can't Get There From Here
+16 Seven Chinese Brothers
+17 Auctioneer (Another Engine)
+18 Old Man Kensey
+19 Life And How To Live It
+20 Theme From Two Steps Onward
+21 We Walk/Falling In Love Again/Behind Closed Doors/Tired Of Singing Trouble/After Hours
+22 Toys In The Attic
+23 20th Century Boy
+24 Second Guessing
+25 Femme Fatale
+26 See No Evil 
+
+
+I made some CD artwork whih is attached here as well as a copy of the ticket stub. 
+
+
+
+Support the artists, go to their shows, buy their albums.
+Do not convert to lossy files, unless for personal use. Don't ever sell!
+
+
+
+R.E.M. 1985
+
+Michael Stipe: Vocals
+Peter Buck: Guitar
+Mike Mills: Bass
+Bill Berry: Drums 
+
+
+
+Uploaded to DIME by Stacheleber 2016/09/23
+
+
+

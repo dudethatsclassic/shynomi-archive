@@ -1,0 +1,66 @@
+REM
+Hollywood Bowl
+Hollywood, Ca
+SEptember 10, 2003
+
+source : assistive listening device 
+taper  : bench boy
+transfer : markp
+
+Disc One:
+01. Begin The Begin
+02. So Fast, So Numb
+03. Imitation Of Life
+04. Thank you
+05. /Animal
+06. Fall On Me/
+07. /Bad Day
+08. The One I Love
+09. Don't Go Back To Rockville
+10. Great Beyond
+11. Orange Crush 
+12. Daysleeper
+13. Electrolite
+14. Losing My Religion 
+15. Find The River
+16. She Just Wants To Be 
+17. Walk Unafraid 
+18. Man On The Moon
+19. crowd
+
+Disc Two:
+01. crowd
+02. Everybody Hurts
+03. Finest Worksong
+04. Nightswimming
+05. band introductions
+06. Final Straw
+07. It's The End Of The World As We Know It
+
+
+Track01.flac:142f483afb234459e35514e4a8153c78
+Track02.flac:90dd6ee24a041fe1dc446c77de5db063
+Track03.flac:c0a7e3d3c3969711709f56cb639d9eb0
+Track04.flac:85bc9af2aef1521577ad082f846962a9
+Track05.flac:75848eb875272c5083dbf13a3a49ec58
+Track06.flac:5e9e39abc8decd5617c7005894af3a83
+Track07.flac:3976f34448f932aa0e73c889e60a3589
+Track08.flac:4edcb1ca0cdf3b004efdab6505f97567
+Track09.flac:bd91ae77ba8843cb444d9588127002f8
+Track10.flac:7f5f6f047183939fb7dd8ed4f218fc48
+Track11.flac:66750a1968b310791246343202b19685
+Track12.flac:67dd6737a5b281b514c1abf0b19cdcd3
+Track13.flac:2ec02ae2faaba7d240504eb22c71da9f
+Track14.flac:de4b407969662397ffbd2f9e834307d2
+Track15.flac:3e4d337502c370e6d3981431f245a7aa
+Track16.flac:7e606a09b262c4448d179263152fdf16
+Track17.flac:0b194ccf7239f74c7179ece59c2bd845
+Track18.flac:f87d463390d0219505c5343748d2b4c2
+Track19.flac:93464aba13040d52e415d93541ebf202
+D2 Track01.flac:49249041e5cd1181450c971a2b0f9dfe
+D2 Track02.flac:7b8afe90b788262b3fbba7a66f1967ac
+D2 Track03.flac:d33df49fcd7b10860ba62a457b9db2a1
+D2 Track04.flac:7e26fba24fe672a8ea784ca2b82d5a5c
+D2 Track05.flac:c9f4322343bff291cbc72ec68c4937cc
+D2 Track06.flac:c0bbafbffcdc28a1cef193b5048bd6e8
+D2 Track07.flac:59473c73a3b80f39d734fec700732aa0

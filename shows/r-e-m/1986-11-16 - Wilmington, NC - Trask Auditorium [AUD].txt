@@ -1,0 +1,48 @@
+REM
+November 16th, 1986
+Trask Auditorium, Wilmington, NC
+
+Master:
+FOB Nakamichi CM300/cp-1's>Sony TC-D5>Cass(m)
+Cass(1)>Nak DR-2>Tascam CDRW2000>CD
+taped by Dave Thomas, CD by Jon Pasternak
+
+Extraction:
+CD>xACT 2.00a (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+Disc 1 [43:52.67]
+01. These Days                         [03:34.54]
+02. Moral Kiosk                        [03:11.61]
+03. Pilgrimage                         [04:16.13]
+04. The One I Love                     [03:13.44]
+05. Shaking Through                    [04:29.42]
+06. Feeling Gravitys Pull              [05:46.38]
+07. The Flowers Of Guatemala           [04:16.48]
+08. Ghost Riders In The Sky            [02:36.36]
+09. Driver 8                           [03:27.01]
+10. Tired Of Singing Trouble           [06:05.70]
+11. I Believe                          [02:50.26]
+12. Swan Swan H                        [00:04.09]
+
+Disc 2 [38:50.11]
+01. Lightnin' Hopkins                  [03:32.50]
+02. Superman                           [03:15.40]
+03. Can't Get There From Here          [03:41.10]
+04. Old Man Kensey/King Of Birds       [03:48.41]
+05. Auctioneer (Another Engine)        [04:21.45]
+06. Radio Free Europe                  [03:37.04]
+07. Little America                     [03:33.52]
+08. E1: Fall On Me                     [02:47.21]
+09.     Sad Lover's Waltz              [02:41.22]
+10.     (Don't Go Back to) Rockville   [04:23.66]
+11.     Spooky                         [03:07.35]
+
+Notes:
+- King of Birds is sung rather than spoken, in the tune of the eventual
+  song, more or less. Stipe also incorporates some the additional spoken
+  lines "Lenny Bruce is not afraid, Leonid Brezhnev is not afraid."
+- Last song of encore (See No Evil) is missing, as is all of second
+  encore (Singing Cage, Oddfellows Local 151, Mississippi Queen, Whole
+  Lotta Love, Funtime, After Hours). Mississippi Queen and Whole Lotta
+  Love featured Corky Laing of Mountain on drums.

@@ -1,0 +1,29 @@
+REM - Southern Illinois University, Carbondale, IL 1982-11-13
+
+Gardening At Night
+9-9
+Pilgrimage
+Shaking Through
+Wolves, Lower
+Laughing
+Romance
+Sitting Still
+Moral Kiosk
+Pretty Persuasion
+Catapult
+1,000,000
+West Of The Fields
+Radio Free Europe
+encore: 
+White Tornado
+Last Date
+Ages Of You
+Carnival Of Sorts (Boxcars)
+
+The next four tracks are from an interview from earlier the same day.  I don't know what the source of this interview is.  A local college DJ perhaps??
+
+You're all being really patient waiting for me to reseed the speed corrected version of the Minneapolis show from the previous night but, until I overcome some technical difficulties, you can enjoy this.
+
+This is a reasonable quality recording which may be audience sourced but it may, equally, be a soundboard recording.
+
+It came to me in a trade years ago and I extracted it using EAC then used TLH to encode to Flac 6.

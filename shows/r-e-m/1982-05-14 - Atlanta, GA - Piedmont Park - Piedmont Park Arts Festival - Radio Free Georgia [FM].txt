@@ -1,0 +1,53 @@
+R.E.M.
+"Radio Free Georgia" - Red Robin Records (RR9307)
+Piedmont Park Arts Festival
+Piedmont Park
+Atlanta, Georgia
+1982-05-14
+
+
+Source: FM Broadcast - WRFG (89.3 FM)
+Lineage: Silver CD -> EAC -> mkw audio compression toolkit -> SHN > WAV > FLAC-8
+Converted by: tom
+
+
+Setlist
+-----------
+01. West of the Fields (false start)
+02. West of the Fields
+03. 1,000,000
+04. Shaking Through
+05. Pilgrimage
+06. Laughing
+07. Romance
+08. Sitting Still
+09. Pretty Persuasion
+10. Gardening At Night
+11. 9-9
+12. Catapult
+13. Radio Free Europe
+14. White Tornado
+15. Carnival Of Sorts (Boxcars) 
+16. Ages of You
+
+
+Fingerprints
+-----------------
+rem1982-05-14t01.flac:258c0df4744357d59a08d7fcc8937f7d
+rem1982-05-14t02.flac:c4f01fe0c6370b5ba8028188b4884b16
+rem1982-05-14t03.flac:44cf82ff5b2593a3b4d2eb5b98dae757
+rem1982-05-14t04.flac:acaa2f2f2ac3c3602152bb20d75055b4
+rem1982-05-14t05.flac:258c21f55091962a0afd688a7bb88ff1
+rem1982-05-14t06.flac:228a347b7de06ada5397c77b2f8f812c
+rem1982-05-14t07.flac:438fce99809c59a61f93d0cf2bcb06e1
+rem1982-05-14t08.flac:54977343b159d934afdc321982313f81
+rem1982-05-14t09.flac:20189ffeebf016a0d14b38e110de1356
+rem1982-05-14t10.flac:c7b2e74f33450d95d2c6c88e16cdcbb7
+rem1982-05-14t11.flac:52dc0f13cc73c8332c1e632592ef1efe
+rem1982-05-14t12.flac:1fc5af20aa87a4395ebdeb8b59086592
+rem1982-05-14t13.flac:d01285ed3ef09c4cd3438ea155733cf4
+rem1982-05-14t14.flac:75f6ea9463dc5371b413556e2b998122
+rem1982-05-14t15.flac:046aa1ea175de6c2b55844fd061af9c2
+rem1982-05-14t16.flac:0a52e3a524478f79d7f1d6f700094d1f
+
+

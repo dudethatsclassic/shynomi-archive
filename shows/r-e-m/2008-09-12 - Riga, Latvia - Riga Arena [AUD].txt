@@ -1,0 +1,30 @@
+R.E.M.
+Arena Riga
+Riga, Latvia
+Friday 12 September 2008
+
+Support: We Are Scientists
+
+Recorded and uploaded to Dime by Patrick (remfan72) on 17 September 2008. Remastered and uploaded to Dime by eckythump 29 July 2020.
+
+Original Lineage: 1-ISI-SEHM-1-Innovative Specialists Binaural Ear Mounted Microphones (TFB-2 cardioid) Deluxe Audio Technica Cardioid > 1-SP-SPSB-6-Battery 
+Box with Bass Roll Off (set at 107 Hz) > Edirol R09 (WAV, 16 bit, 44,1 kHz) USB transfer to PC > Audacity > flac frontend > MakeTorrent 2 
+
+2020 remaster: Foobar 2000 V1.5.5 (merge tracks into 1 file)->iZotope RX7 (declip, gain)-> iZotope Ozone 9 (EQ adjustments)->Audacity V2.4.1 (remove small gaps before each song, split tracks into separate files again and convert to Flac Level 8). All tracks tagged using Foobar 2000.
+
+01. Bad Day02. Living Well Is The Best Revenge03. Walk Unafraid04. Drive05. These Days06. Man-Sized Wreath07. Harborcoat08. Ignoreland09. The Great Beyond10. Hollow Man11. Welcome To The Occupation12. Cuyahoga13. The One I Love14. Electrolite15. Fall On Me 16. What's The Frequency, Kenneth?17. I've Been High18. Let Me In19. Horse To Water20. Orange Crush21. I'm Gonna DJ22. Imitation Of Life
+23. Encore Break
+
+Encore24. Supernatural Superserious25. Losing My Religion26. Animal27. Michael talks - Band intros28. It's The End Of The World As We Know It (And I Feel Fine)29. Man On The Moon 
+
+Michael Stipe - Vocals, harmonica
+Peter Buck - Guitar, mandolin
+Mike Mills - Bass Guitar, keyboards, backing vocals
+Bill Rieflin - Drums
+Scott McCaughey - Guitar, backing vocals
+
+Show notes: This was R.E.M.'s second ever (and final) show in Latvia (first 3 years earlier) and their last month of touring in Europe ever. Michael references it being a rough couple of days during the show, referring to Peter's black rickenbacker guitar being stolen a few days earlier on 9 September in Helsinki (which could explain Bad Day being the show opener presuming Peter wrote the setlist). It was returned on 19 September, but had not yet been when this show took place. The crowd was treated to a fine performance and a great setlist, with a few chestnuts such as Harborcoat, Fall On Me and Cuyahoga featuring. I'm sure Peter was really bummed out during this week of shows, and Michael says very little throughout the show, but the band still put on a great show to a very enthusiastic crowd. 
+
+Recording notes: Patrick wrote in his original torrent notes "People around me were pretty chatty during the whole set. I tried to move a bit but then other people came chatting. Once a drunk girl bumped into my back. Hey guys, if you read this: stay at home next time or simply go into a pub if you want to chat and have some music in the background." While there's definitely audience chatter throughout the show, I didn't find it too distracting for the most part, though I'm firmly on Patrick's side, and you will notice it. The original recording was quite soft in volume and was also clipped, but after a spit and polish through the iZotope machine it now sounds really good. 
+
+Torrent notes: I downloaded this from Dime when Patrick uploaded it back in 2008, but lost it in a hard drive crash. It's proved extremely difficult to find anyone who had a copy since and it's been my bugbear being the last 2008 show I was unable to recover. I finally tracked it down again recently thanks to Dime user drumsboy who thankfully had it. He didn't have the original torrent though, it had clearly been converted to CD at some point in time, with a different text file, and the annoying gap before each song signifying it has been converted from a CD. I've removed all the gaps for your listening pleasure. Even if you're one of the few who had this show previously this will be a major upgrade. I tried to track down Patrick a while back but my efforts proved unsuccessful, and if he's still on Dime it's under a different username. If you're out there Patrick, thanks for your many great R.E.M. recordings over the years. We're all indebted to tapers like yourself. I've also included a few photos from the show I found online. Enjoy!

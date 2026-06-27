@@ -1,0 +1,30 @@
+16.07.2005
+UK, London, Hyde Park
+Hyde Park London 2005
+exc. Soundboard
+
+01. Intro [0:04]
+02. What's The Frequency, Kenneth? [3:49]
+03. One I love [3:24]
+04. Drive [5:00]
+05. The Outsiders [4:40]
+06. Leaving New York [4:39]
+07. Everybody Hurts [6:45]
+08. Electron Blue [4:33]
+09. Final Straw [4:11]
+10. Orange Crush [3:45]
+11. Walk Unafraid [4:57]
+12. Losing My Religion [4:39]
+13. Man On The Moon [4:47]
+14. Outro [0:18]
+
+Total Running Time: [55:38]
+ 
+Lineage: 
+FM (Sony STRDB1070) > Creative SBLive! > Creative Recorder > Nero Wave Editor > Flac Frontend FLAC 8 Aligned CD sector boundaries
+
+Further info: http://homepage.ntlworld.com/altisuk/fm/
+
+DJ announcements removed using Nero Wave Editor, No DAE - see lineage
+
+Lineage: Trade (CDR) EAC > WAV > FLAC (Level 8) > Torrent

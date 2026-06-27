@@ -1,0 +1,36 @@
+d1t01 1999-07-02 - Lotus.wav:  successfully encoded to 'd1t01 1999-07-02 - Lotus.flac' (ratio = 0.563).
+d1t02 1999-07-02 - Wake-Up Bomb.wav:  successfully encoded to 'd1t02 1999-07-02 - Wake-Up Bomb.flac' (ratio = 0.517).
+d1t03 1999-07-02 - What's The Frequency, Kenneth.wav:  successfully encoded to 'd1t03 1999-07-02 - What's The Frequency, Kenneth.flac' (ratio = 0.501).
+d1t04 1999-07-02 - Daysleeper.wav:  successfully encoded to 'd1t04 1999-07-02 - Daysleeper.flac' (ratio = 0.463).
+d1t05 1999-07-02 - The Apologist.wav:  successfully encoded to 'd1t05 1999-07-02 - The Apologist.flac' (ratio = 0.567).
+d1t06 1999-07-02 - Fall On Me.wav:  successfully encoded to 'd1t06 1999-07-02 - Fall On Me.flac' (ratio = 0.565).
+d1t07 1999-07-02 - Electrolite.wav:  successfully encoded to 'd1t07 1999-07-02 - Electrolite.flac' (ratio = 0.538).
+d1t08 1999-07-02 - Sweetness Follows.wav:  successfully encoded to 'd1t08 1999-07-02 - Sweetness Follows.flac' (ratio = 0.478).
+d1t09 1999-07-02 - The One I Love.wav:  successfully encoded to 'd1t09 1999-07-02 - The One I Love.flac' (ratio = 0.579).
+d1t10 1999-07-02 - The Great Beyond.wav:  successfully encoded to 'd1t10 1999-07-02 - The Great Beyond.flac' (ratio = 0.553).
+d1t11 1999-07-02 - At My Most Beautiful.wav:  successfully encoded to 'd1t11 1999-07-02 - At My Most Beautiful.flac' (ratio = 0.449).
+d1t12 1999-07-02 - Losing My Religion.wav:  successfully encoded to 'd1t12 1999-07-02 - Losing My Religion.flac' (ratio = 0.544).
+d1t13 1999-07-02 - Find The River.wav:  successfully encoded to 'd1t13 1999-07-02 - Find The River.flac' (ratio = 0.483).
+d1t14 1999-07-02 - Everybody Hurts.wav:  successfully encoded to 'd1t14 1999-07-02 - Everybody Hurts.flac' (ratio = 0.500).
+d1t15 1999-07-02 - Walk Unafraid.wav:  successfully encoded to 'd1t15 1999-07-02 - Walk Unafraid.flac' (ratio = 0.520).
+
+No errors occured.
+
+
+d1t01 1999-07-02 - Lotus.flac:  tested ok (file is decodable without error).
+d1t02 1999-07-02 - Wake-Up Bomb.flac:  tested ok (file is decodable without error).
+d1t03 1999-07-02 - What's The Frequency, Kenneth.flac:  tested ok (file is decodable without error).
+d1t04 1999-07-02 - Daysleeper.flac:  tested ok (file is decodable without error).
+d1t05 1999-07-02 - The Apologist.flac:  tested ok (file is decodable without error).
+d1t06 1999-07-02 - Fall On Me.flac:  tested ok (file is decodable without error).
+d1t07 1999-07-02 - Electrolite.flac:  tested ok (file is decodable without error).
+d1t08 1999-07-02 - Sweetness Follows.flac:  tested ok (file is decodable without error).
+d1t09 1999-07-02 - The One I Love.flac:  tested ok (file is decodable without error).
+d1t10 1999-07-02 - The Great Beyond.flac:  tested ok (file is decodable without error).
+d1t11 1999-07-02 - At My Most Beautiful.flac:  tested ok (file is decodable without error).
+d1t12 1999-07-02 - Losing My Religion.flac:  tested ok (file is decodable without error).
+d1t13 1999-07-02 - Find The River.flac:  tested ok (file is decodable without error).
+d1t14 1999-07-02 - Everybody Hurts.flac:  tested ok (file is decodable without error).
+d1t15 1999-07-02 - Walk Unafraid.flac:  tested ok (file is decodable without error).
+
+No errors occured.

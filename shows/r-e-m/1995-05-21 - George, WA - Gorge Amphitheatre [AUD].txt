@@ -1,0 +1,55 @@
+01.flac:  audio data is not cut on a sector boundary (sector misalignment = 1624 bytes).
+02.flac:  audio data is not cut on a sector boundary (sector misalignment = 1092 bytes).
+03.flac:  audio data is not cut on a sector boundary (sector misalignment = 1912 bytes).
+04.flac:  audio data is not cut on a sector boundary (sector misalignment = 2004 bytes).
+05.flac:  audio data is not cut on a sector boundary (sector misalignment = 1672 bytes).
+06.flac:  audio data is not cut on a sector boundary (sector misalignment = 1128 bytes).
+07.flac:  audio data is not cut on a sector boundary (sector misalignment = 924 bytes).
+08.flac:  audio data is not cut on a sector boundary (sector misalignment = 580 bytes).
+09.flac:  audio data is not cut on a sector boundary (sector misalignment = 1880 bytes).
+10.flac:  audio data is not cut on a sector boundary (sector misalignment = 1180 bytes).
+11.flac:  audio data is not cut on a sector boundary (sector misalignment = 1644 bytes).
+12.flac:  audio data is not cut on a sector boundary (sector misalignment = 1092 bytes).
+13.flac:  audio data is not cut on a sector boundary (sector misalignment = 376 bytes).
+14.flac:  audio data is not cut on a sector boundary (sector misalignment = 188 bytes).
+15.flac:  audio data is not cut on a sector boundary (sector misalignment = 1612 bytes).
+16.flac:  audio data is not cut on a sector boundary (sector misalignment = 596 bytes).
+17.flac:  audio data is not cut on a sector boundary (sector misalignment = 652 bytes).
+18.flac:  audio data is not cut on a sector boundary (sector misalignment = 2288 bytes).
+19.flac:  audio data is not cut on a sector boundary (sector misalignment = 492 bytes).
+20.flac:  audio data is not cut on a sector boundary (sector misalignment = 848 bytes).
+21.flac:  audio data is not cut on a sector boundary (sector misalignment = 896 bytes).
+22.flac:  audio data is not cut on a sector boundary (sector misalignment = 620 bytes).
+23.flac:  audio data is not cut on a sector boundary (sector misalignment = 2184 bytes).
+24.flac:  audio data is not cut on a sector boundary (sector misalignment = 1112 bytes).
+25.flac:  audio data is not cut on a sector boundary (sector misalignment = 628 bytes).
+
+--
+
+01 I Took Your Name.flac:  audio data is cut on a sector boundary.
+02 What’s The Frequency, Kenneth.flac:  audio data is cut on a sector boundary.
+03 Crush With Eyeliner.flac:  audio data is cut on a sector boundary.
+04 Circus Envy.flac:  audio data is cut on a sector boundary.
+05 Welcome To The Occupation.flac:  audio data is cut on a sector boundary.
+06 Turn You Inside-Out.flac:  audio data is cut on a sector boundary.
+07 Try Not To Breathe.flac:  audio data is cut on a sector boundary.
+08 So Central Rain (I’m Sorry).flac:  audio data is cut on a sector boundary.
+09 Strange Currencies.flac:  audio data is cut on a sector boundary.
+10 I Don’t Sleep, I Dream.flac:  audio data is cut on a sector boundary.
+11 Revolution.flac:  audio data is cut on a sector boundary.
+12 Tongue.flac:  audio data is cut on a sector boundary.
+13 Man On The Moon.flac:  audio data is cut on a sector boundary.
+14 Country Feedback.flac:  audio data is cut on a sector boundary.
+15 Bang And Blame.flac:  audio data is cut on a sector boundary.
+16 Losing My Religion.flac:  audio data is cut on a sector boundary.
+17 Departure.flac:  audio data is cut on a sector boundary.
+18 Finest Working.flac:  audio data is cut on a sector boundary.
+19 Get Up.flac:  audio data is cut on a sector boundary.
+20 Star 69.flac:  audio data is cut on a sector boundary.
+21 Let Me In.flac:  audio data is cut on a sector boundary.
+22 Everybody Hurts.flac:  audio data is cut on a sector boundary.
+23 Pop Song 89.flac:  audio data is cut on a sector boundary.
+24 Fall On Me.flac:  audio data is cut on a sector boundary.
+25 Drift Away - It’s The End Of The World As We Know It.flac:  audio data is cut on a sector boundary.
+
+There were no sector boundary errors.

@@ -1,0 +1,72 @@
+R.E.M.
+
+Friday, 23 November 1984  8:00 p.m.
+
+Large Common Room (LCR)
+University of East Anglia
+Norwich Research Park
+Norwich NR4 7TJ
+England
+UK
+
+
+Lineage:
+Analog soundboard recording (stereo): unknown low analog generations > probably CDR > FLAC > online download
+Created this text file. 
+
+
+Total running time  [79:10]
+-----------------------------------------------
+01  Femme Fatale [2:49]
+02  Moral Kiosk [3:25]
+03  Gardening at Night [3:31]
+04  9-9 [2:46]
+05  Windout [3:50] 
+06  Old Man Kensey [4:03]
+07  So. Central Rain (I'm Sorry) [3:56]
+08  Seven Chinese Brothers [4:09]   
+09  (Don't Go Back To) Rockville [4:23]    
+10  Thanks to the Lucy Show [0:22] 
+11  Hyena [2:59]
+12  Swing Low Sweet Chariot > Sitting Still [4:05] 
+13  Auctioneer (Another Engine) [2:43]  
+14  Talk About the Passion [2:58]    
+xx  Driver 8 
+xx  Radio Free Europe
+15  Pretty Persuasion [3:28]
+16  Little America [2:45]   
+17  Moon River [2:10]   
+18  Second Guessing [2:49] 
+19  Bandwagon [2:09]
+20  We Walk > After Hours [5:41]
+21  1,000,000 [3:12]  
+-- encore --  
+22  Ghostriders in the Sky [2:09]
+23  See No Evil [3:01]
+24  Wendell Gee [3:05]
+25  Just a Touch [2:30]
+  
+
+Band line-up:
+Michael Stipe – lead vocals, harmonica 
+Peter Buck – guitar
+Mike Mills – bass guitar, keyboards, piano, backing vocals, occasional co-lead vocals 
+Bill Berry – drums, percussion, backing vocals, occasional bass guitar and keyboards 
+
+
+Notes:
+
+Here's the nice soundboard accompaniment to pair with the audience recording just upped from the Stonecutter Archives. This one's a keeper even though there are one or two points where the levels seem a tad oversaturated -- shame that it seems to have "Driver 8" and "Radio Free Europe" omitted for the CDR trading age. If anyone has the full board of this show, by all means, please share.
+
+The Lucy Show opened. £3.50 admission, £2.75 advance.
+
+In the history of dime, this soundboard was upped by Mister Hank in March 2010, then banned two months later after the discovery that it was lossy. raya upped what was a lossless version in March 2012, and wrote: "I got my version in April 2008, can't remember where, probably from Pariscarters. It came without a lineage info so I checked that it is lossless. A very nice sound, it could be FM sourced."
+
+Don't have either version at hand to compare, but my version came without a text file, so I've included a screenshot where I've checked and it's lossless and doesn't have any FM carrier signal characteristics. Size-wise, it's closest to the raya version, and could very well be the same file set with the original text file missing. In any case, I've done nothing to the original FLAC files, except correct some titles. Otherwise they are as obtained. New files are this text file, checksums and the png of the frequency analysis screenshot.
+
+Over the years on dime, EZT, the Archival Group, and through all the various and assorted other trading groups online preceding that, and the CDR, DAT, and analog cassette traders which came before, I've gathered a moderate collection of items to share. I've helped with transfers (the Cactus and related uploads from over a decade ago here, and currently a bite out of the massive Stonecutter Archives), contributed setlists and corrections to many a torrent -- all the sort of things that don't raise one's share ratio. I've shared some of my masters back in the old snail mail days, but it's high time to give back more here from where I've received so much. I had meant to do a roll-out with something grand and possibly a series (Elegymart #1, #2, etc.), but that's been done countless times before.
+
+At this point not only have we've all aged along with dime's existence, but our media and the equipment that can play it back has as well. So rather than any fanfare or concern over share ratio, consider this upload another step in a more diligent attempt to beat the time and to circulate the collection.
+
+Enjoy,
+elegymart

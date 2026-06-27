@@ -1,0 +1,13 @@
+R.E.M.
+Greek Theater, Los Angeles CA
+August 9, 1999
+
+- a 'teddy ballgame' DAT Master
+
+recording info:
+Schoeps MK4 > RMod > D7 DAT Master @ 16bit/44.1kHz
+
+processing:
+Maxell HS-4 90m DDS Master > Tascam DA45-HR > SD USBPRE2 > Adobe Audition > CDWAV > TLH FLAC 8
+
+These are 16bit/44.1kHz flac files

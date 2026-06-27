@@ -1,0 +1,38 @@
+R.E.M.
+September 14, 2003
+Red Rocks Amphitheatre
+Morrison, CO
+
+Source: Sony ECM12's > Sony D8 (Recorded from the 4th row, in front of right stacks)
+Transfer: DAT > ??? > CDR
+Conversion: CDR > EAC 0.9 beta 4 (.wav) > mkwACT 0.97 BETA 1 (.shn) (seek tables appended)
+Recorded and Transferred by Luke
+
+Disc 1: [79:11.25]
+01. Finest Worksong                                                [04:12.28]
+02. What's The Frequency, Kenneth?                                 [04:22.41]
+03. These Days                                                     [03:56.09]
+04. Drive                                                          [05:47.46]
+05. Animal                                                         [04:50.03]
+06. Pretty Persuasion                                              [04:53.12]
+07. Bad Day                                                        [04:48.34]
+08. The One I Love                                                 [04:16.56]
+09. Electrolite                                                    [05:47.35]
+10. The Great Beyond                                               [04:27.38]
+11. Exhuming McCarthy                                              [04:12.51]
+12. Orange Crush                                                   [04:34.57]
+13. (Don't Go Back To) Rockville                                   [05:21.35]
+14. Losing My Religion                                             [06:41.16]
+15. At My Most Beautiful                                           [04:04.09]
+16. She Just Wants To Be                                           [06:55.05]
+
+Disc 2 [42:52.74]
+01. Walk Unafraid                                                 [06:37.13]
+02. Man On The Moon                                               [05:25.58]
+03. Everybody Hurts                                               [10:09.34]
+04. Imitation Of Life                                             [06:08.65]
+05. Country Feedback %                                            [07:35.63]
+06. It's The End Of The World As We Know It (And I Feel Fine) %   [06:55.66]
+
+Notes:
+% - Wilco joins in

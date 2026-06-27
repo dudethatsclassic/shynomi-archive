@@ -1,0 +1,55 @@
+REM
+Dallas,TX
+Starplex Amphitheater
+20 September 1995
+
+Recording info:
+Sonic Studios[DSM6]>DAR100
+Taping Location: SEC 204, ROW BB, SEAT 14
+
+Transfer info:
+Master DAT(48)>Sony 59ES>HHB CDR-850 via digital coax>CDR>EAC[secure]>flac[Level 8]
+
+CMM-018 (Chris M. Master)
+
+Disc 1 (74:23)
+01. Begin The Begin (3:56)
+02. What's The Frequency, Kenneth? (3:43)
+03. Crush With Eyeliner (4:46)
+04. Bang And Blame (5:48)
+05. Wake-up Bomb (6:02)
+06. Drive (3:59)
+07. Binky The Doormat (5:58)
+08. The One I Love (3:44)
+09. Undertow (5:18)
+10. (3:18)
+11. Strange Currencies (4:35)
+12. Revolution (3:54)
+13. (7:07)
+14. Man On The Moon (5:54)
+15. (6:12)
+
+Disc2 (45:45)
+01. Intro (2:45)
+02. Losing My Religion (4:58)
+03. (3:16)
+04. Get Up (2:48)
+05. Star 69 (6:29)
+06. Let Me In (4:05)
+07. Everybody Hurts (6:29)
+08. "Thanks For Coming" Song (2:15)
+09. (3:52)*
+10. Pop Song 89 (3:39)
+11. It's The End Of The World As We Know It (And I Feel Fine) (5:05)
+
+* - slight burst of digi-noise, inherent to the master.
+
+Opening act was Radiohead (CMM-010).
+
+I need help with some of the song titles.  No artwork - please share if you create some!
+
+No remastering was done do this recording.  Track numbers were created manually through the HHB CDR-850 CD recorder so they may not be perfect.
+
+First Torrented July 6, 2005
+Seed #18 from my master DAT collection
+

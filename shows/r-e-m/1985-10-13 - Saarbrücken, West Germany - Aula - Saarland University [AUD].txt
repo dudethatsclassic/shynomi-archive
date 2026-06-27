@@ -1,0 +1,81 @@
+R.E.M. 1985-10-13 University Aula, Saarbrucken, West Germany
+R.E.M.
+University Aula, Saarbrucken, West Germany 1985-10-13
+Source: online trade FLAC's -> TLH re-encoded FLAC's (level 6)
+
+Setlist:
+
+Set:
+CD 1:
+01. Feeling Gravitys Pull
+02. Radar Love
+03. Harborcoat
+04. Maps And Legends
+05. Femme Fatale
+06. Driver 8
+07. Fall On Me
+08. West Of The Fields
+09. Tired Of Singing Trouble
+10. (Don't Go Back To) Rockville
+11. So. Central Rain
+12. Have You Ever Seen The Rain?
+
+Total length: 43 min 14 sec
+
+CD 2:
+01. Can't Get There From Here
+02. Toys In The Attic
+03. Talk About The Passion
+04. Auctioneer (Another Engine)
+05. Old Man Kensey
+06. Pretty Persuasion
+07. Life And How To Live It
+
+Encore 1:
+08. Ghost Riders In The Sky
+09. Second Guessing
+10. See No Evil
+
+Encore 2:
+11. Moon River
+12. We Walk/Falling In Love Again/Behind Closed Doors/Freddie's Dead
+13. Little America
+
+Total length: 42 min 33 sec
+
+Line-up: Buck/Berry/Mills/Stipe
+
+MD5 lineage:
+d9ddca170c6660b7efc878c1dc236ae0 *CD1\Track01.flac
+59842b6ecdeebc84bafec83c62e18b4b *CD1\Track02.flac
+708428c611bd87112638662950463d0a *CD1\Track03.flac
+de869ca76bde40b9d78bd9e281afde3d *CD1\Track04.flac
+2d6683e114d941fc8badf0d48677247a *CD1\Track05.flac
+9a35b6da359409bcdd7d0519e3be913e *CD1\Track06.flac
+cf5412ec382a317346e50e0d161bab6c *CD1\Track07.flac
+a7225444becb436a50dafd3d9d2cc80c *CD1\Track08.flac
+1b0279109e4e4a5305fac953268b8570 *CD1\Track09.flac
+f0222fa7470366b2e20ee1c6d1c5f467 *CD1\Track10.flac
+324c6f23caaa0e66cfb6f9a42d10647a *CD1\Track11.flac
+f80a7610b7ea9a660047c3156165722a *CD1\Track12.flac
+af5036241b3bf357f668c0fee7374ded *CD2\Track01.flac
+a533bba34dc8dade0d4cd30dca752edd *CD2\Track02.flac
+c100b0fa86f8b2b8feb34d1fa669a132 *CD2\Track03.flac
+29b46739f3f554c9106f0ce980e72d78 *CD2\Track04.flac
+e8f067b31ae0faf28b56b8e40f8c0829 *CD2\Track05.flac
+8db6f8a81c34509f72db2b97c811fc3e *CD2\Track06.flac
+e30a372fcca74853ac4d523b2d0cf736 *CD2\Track07.flac
+1a411313b4067acb5973d3d7bac76350 *CD2\Track08.flac
+36a5f308022b1d9ddfabaa9cc463fb9c *CD2\Track09.flac
+008d230b4c5af395a1987182603b748d *CD2\Track10.flac
+c9aad1b41d31301867098fa12823d8b8 *CD2\Track11.flac
+2815592aa288a96167f35bee42db3ef8 *CD2\Track12.flac
+e51a917522de711cfb83921db84eddb3 *CD2\Track13.flac
+
+No artwork 
+
+Notes: this is a really excellent recording from the Reconstruction II tour (the European leg of Reconstruction).
+I think this may be a SBD, but I'm not sure. This is the complete set.
+For those who haven't heard it, please take note of Fall On Me. This is the original version of the song, which was played throughout 1985, before the band changed it to the album version and played that one in 1986.
+
+Info file by martine_holl October 2011

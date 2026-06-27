@@ -1,0 +1,70 @@
+R.E.M.
+SportPark am Niedersachsenstadion
+Hannover, Germany
+Tuesday 29 June 1999
+
+Support: Catatonia, Suede
+
+Current venue name: HDI-Arena
+
+Lineage: CDR->EAC->Over the interwebs to me->Foobar 2000 V1.5.4 (merge tracks into 1 file)-> Audacity V2.3.3 (fixed small silences between tracks on CD2)->iZotope RX7 standard (declip and declick)->iZotope Ozone 9 (EQ adjustments)->Audacity V2.3.3 (split tracks into separate files again). All tracks tagged using Foobar 2000
+
+Unknown taper and equipment, but sounds similar to the other German shows recorded around this period, so probably the same taper
+
+CDR's ripped to flac kindly provided to me by Henrik1978. Seeded to Dime by eckythump 31 May 2020.
+
+00 - Intro
+01 - Lotus 
+02 - What's The Frequency, Kenneth?
+03 - So. Central Rain (I'm Sorry)
+04 - Mike and Michael talk
+05 - Suspicion
+06 - Michael talks
+07 - Fall On Me
+08 - The Apologist
+09 - Low Desert
+10 - Daysleeper
+11 - Michael talks
+12 - The Wake-Up Bomb 
+13 - The One I Love
+14 - Sweetness Follows
+15 - Michael talks
+16 - Losing My Religion
+17 - Michael talks
+18 - Cuyahoga
+19 - The Great Beyond
+20 - Find The River
+21 - Everybody Hurts
+22 - Walk Unafraid
+23 - At My Most Beautiful 
+24 - Life And How To Live It
+25 - Finest Worksong
+26 - Man On The Moon
+
+Encore
+27 - Encore break
+28 - I'm Not Over You (Michael solo)
+29 - Why Not Smile
+30 - Crush With Eyeliner
+31 - Tongue
+32 - Band intros
+33 - Pop Song 89
+34 - Michael talks
+35 - It's The End Of The World As We Know It (And I Feel Fine)
+
+Michael Stipe- Vocals, guitar on I'm Not Over You
+Peter Buck - Guitar, mandolin
+Mike Mills - Bass, vocals
+Scott McCaughey - Guitar, keyboards, vocals
+Ken Stringfellow - Guitar, keyboards, vocals
+Joey Waronker - Drums, percussion
+
+Show notes: This is a great show by the band - Germany loved R.E.M., and the energy the crowd gave them definitely inspired the band to greater heights on this night. Some great banter with the audience, which began with Mike showing off his German language skills to Michael's (feigned) annoyance, and an inspired setlist with some great chestnuts, as well as a very rare performance of 'Low Desert'. This one comes highly recommended.
+
+Recording notes: This is a terrific sounding recording, the taper doing a great job. While CD 1 sounded great from the outset, there were some issues with CD 2 due to what I presume is some slight degradation of the CDR due to its age. There were some minor pops and clicks every so often, and similar to a CD I received from someone for the 6 July 1999 show, there were small gaps between the tracks (CD2 only, CD1 was fine). I fixed the gaps in Audacity, and then let iZotope do its thing to fix the pops and clicks, and gave it some EQ adjustments to fine tune it. The end result sounds great to my ears. This is the complete show, with no cut songs. A fine recording now sounds even finer.
+
+Torrent notes: I could not find any evidence this has been on Dime before (or any tracker), so this is its debut. Thanks again to Henrik1978 for providing the files to me. I also added an image of the poster for the show I found online. Enjoy!
+
+http://remtimeline.com/ for all your R.E.M. setlist needs!
+
+

@@ -1,0 +1,36 @@
+R.E.M. -  Concert Hall, Toronto, Canada 1984-07-13 (remtorrent)
+
+set: 
+Pale Blue Eyes
+Second Guessing
+Pilgrimage
+Seven Chinese Brothers - Happy Bertday
+Hyena
+Talk About The Passion
+Sitting Still
+So. Central Rain
+Driver 8
+Shaking Through
+Harborcoat
+Medicine Show
+
+<I've arbitrarily deemed this to be the Disc One/Disc Two split but, hey, you're all free spirits.  Put it where you choose>
+
+Gardening At Night
+9-9
+Windout
+Old Man Kensey
+Pretty Persuasion
+Radio Free Europe
+encore 1: 
+The Lion Sleeps Tonight
+In the Year 2525
+We Walk
+Little America
+encore 2: 
+Carnival Of Sorts (Boxcars)
+Skank
+
+support: Dream Syndicate
+
+Audience recording >> ??? >> CD-R >>> EAC >>> Cool Edit 2000  (the recording was about 3/4 semitone fast so I extracted the wav files and batch processed them all by stretching themto 107%.  That fixed the little boogers) >> TLH >>> Flac6.  Everything else was done with TLH 

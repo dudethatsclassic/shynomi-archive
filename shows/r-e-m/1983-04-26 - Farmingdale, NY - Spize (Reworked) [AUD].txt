@@ -1,0 +1,48 @@
+R.E.M.
+Spize, Farmingdale, New York
+26 April 1983 
+
+low gen tape > CD-R > Audacity (sound image widening, see method I used below) > CD WAVE > you
+
+01 Moral Kiosk  
+02 Catapult 
+03 Sitting Still
+04 Pilgrimage
+05 Talk About The Passion 
+06 Shaking Through 
+07 Romance 
+08 Wolves, Lower 
+09 Harborcoat 
+10 Pretty Persuasion
+11 Gardening At Night 
+12 9-9 
+13 Windout
+14 1,000,000 
+15 West Of The Fields
+16 Carnival Of Sorts (Box Cars) 
+17 White Tornado 
+18 Ages Of You 
+19 7 Chinese Bros 
+20 Radio Free Europe
+21 Pills 
+
+An energetic early gig by REM - the audience certainly enjoy this, but thankfully their cries don't affect too much of the music.
+
+Seven Chinese Brothers is introduced as a new song, and Michael tells a little about the background to the song after a false start to it. It's taken at a slightly slower pace than the studio version. Despite the average audio quality, this comes out quite well (at least on the processed version I've listened to more - see below) - there's a mysterious backing vocal they clearly used reverb on during the show, which makes the song stand out here.
+
+The backing vocals sound similarly good on the following number, Radio Free Europe. They end on a raucous cover of NY Dolls' Pills.
+
+This is not as good quality as the other R.E.M. gigs I posted recently - it's average bootleg quality ... however I like the sound on this 'processed' version I have made here. I have shared the 'raw'version elsewhere.
+
+If this is for you, enjoy.
+
+
+Sound image widening method I use in Audacity
+
+1 Select Split Stereo Track
+2 Highlight the two channels and select Edit-Duplicate
+3 Click at the start of one of the duplicated channels - for example the second right channel, and select Generate - Silence 0.01 seconds
+4 usually applying these settings works (all depends on how loud the original track is) - left 1 -12 db, right 1 -9db, left 2 -12 db, right 1 -6db,
+5 then sliding the balance controls to the right a little to ensure the vocal is roughly central (different settings are tried, using trial and error). Then when it sounds about right in terms of balance export and save (for example with mx appended to the title)
+6 Combine above doubled up track with untouched track, with the latter at an equal or slightly higher level.
+7 listen to finshed result - some fine tuning of high or low pass filters may be desireable, and perhaps in some case mda_image (a free plugin that can be added to Audacity).

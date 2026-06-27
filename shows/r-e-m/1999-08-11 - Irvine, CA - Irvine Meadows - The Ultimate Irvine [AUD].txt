@@ -1,0 +1,45 @@
+REM
+August 11th, 1999
+Irvine Meadows-Irvine,CA
+"The Ultimate Irvine"
+
+Source: Schoeps MK4s > Rmod box > D100 DAT
+Conversion: Fostex D5 > DIO2448 > Soundforge 7.0a > shntool 2.0.3
+
+Disc 1:
+01. Intro				00:40.18        
+02. Lotus				04:25.00       
+03. What's The Frequency Kenneth?	04:11.10       
+04. So Fast, So Numb			04:38.51      
+05. Suspicion				07:13.13       
+06. Stand				03:30.34       
+07. How The West Was Won		04:46.67       
+08. Low Desert				03:49.53       
+09. Daysleeper				04:00.69       
+10. The Apologist			04:55.59      
+11. The One I Love			04:01.65       
+12. Sweetness Follows			06:18.12       
+13. The Great Beyond			04:54.21       
+
+Total:					57:26.22      
+
+Disc 2:
+01. Losing My Religion			05:34.58       
+02. Find The River			04:17.07       
+03. At My Most Beautiful		04:13.53       
+04. Pop Song 89				03:33.62       
+05. Walk Unafraid			05:19.72       
+06. Man On The Moon			06:01.12       
+07. Hope				02:49.52       
+08. Why Not Smile			02:14.24      
+09. Crush With Eyeliner			05:19.14       
+10. Tongue				07:00.47       
+11. So. Central Rain			03:50.17       
+12. End Of The World			06:38.35       
+
+Total:					56:53.03 
+
+Notes: This show is not new in trading circles. However this is the first pure DAT source 
+conversion of this recording and should replace whatever else you have.   
+
+Compiled by alex@kabella.org on 8/17/04.   

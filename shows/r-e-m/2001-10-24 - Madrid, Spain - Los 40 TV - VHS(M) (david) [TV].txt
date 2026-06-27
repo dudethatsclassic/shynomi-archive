@@ -1,0 +1,20 @@
+R.E.M
+Los 40 TV; Madrid, Spain
+2001.05.09
+
+Gen: VHS(M) > WAV > FLAC
+Transfer: Kneissel VK400 P/S VHS > SB Live Line-In > Adobe Audition > CD Wave Editor > Flac Frontend 1.7.1
+
+Setlist
+
+01. Intro + Imitation of life
+02. The Great Beyond
+03. All the way to Reno (you're gonna be a star)
+04. Losing my religion
+05. I've been high
+06. She just wants to be
+07. Cuyahoga
+
+Notes:
+Incomplete show. Transfer by me! <david@dtrader.net>
+Edits: Hiss removed w/ Adobe Audition 1.5

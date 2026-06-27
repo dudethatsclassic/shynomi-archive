@@ -1,0 +1,72 @@
+R.E.M.
+October 20, 1989
+Concord Pavilion
+Concord, CA
+
+SOURCE: Exact recording equipment not known
+
+
+TRANSFER:
+Tascam DA-20 MKII > PreSonus FireStudio Project > Adobe Audition 3.0 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(M) > DAT(1) > WAV [48kHz/16bit] > FLAC [Level 8] > Adobe Audition 1.5 (cue points added and downsampling] WAV [44.1kHz/16bit] > FLAC frontend 1.7.1 [Level 8] 
+
+LENGTH:
+120:12
+
+RECORDED BY:
+B.W.
+
+TRANSFERRED BY:
+Mike Ziegler
+
+01 Stand
+02 The One I Love
+03 So. Central Rain (I'm Sorry) - Red Rain
+04 Be All That You Can Be - Orange Crush (drop out after)
+05 Turn You Inside-Out
+06 Belong 
+07 These Days
+08 Feeling Gravitys Pull
+09 Cuyahoga (tape flip)
+10 Auctioneer (Another Engine)
+11 We Live As We Dream, Alone - World Leader Pretend
+12 With A Girl Like You
+13 Future 40's (String Of Pearls) - I Believe
+14 Swan Swan H
+15 Pretty Persuasion
+16 Get Up
+17 Life And How To Live It
+18 It's The End Of The World As We Know It (And I Feel Fine)
+encore 1: 
+19 Pop Song 89
+20 Good Advices
+21 You Are The Everything 
+encore 2: 
+22 Harpers
+23 Begin The Begin
+24 With The People - King Of Birds - Letter Never Sent - Bow Song - With The People
+25 See No Evil 
+encore 3: 
+26 Low
+27 Finest Worksong
+28 Perfect Circle
+29 After Hours
+
+Notes: 
+
+I had a nice catch-up with Butterking from the JEMS collective on Friday, and from our respective social isolation situations 
+we agreed to get a few R.E.M. recordings up from the JEMS archive which we think haven't been shared on DIME previously.
+
+This show, but not this recording, has been on DIME a long time ago - therefore you might also be able to find Persic's recording of this show out there in the ether for the 
+purposes of comparision and completeness (if you are obsessive).
+
+This recording is complete, and for the most part the band play the show it pretty straight, there's a couple of nice touches - after
+the deadly seriousness of World Leader Pretend, Stipe invites Mills to sing a song, and he duly delivers a Troggs cover. Swan Swan H is prefaced with
+"this is new song, I'm not sure that I know words, but we're gonna give it a try..." and after Pretty Persuasion, Stipe's says you can always tell when Mike Mills 
+has been allowed to write the setlist.
+
+Then in the encores, Good Advices, is delivered as a gift, it was only played a few more times before being retired for good.
+
+The recording itself is really very good and clear, there is a bit of background hum which I think is the sound of the tape recorder used at the time. 

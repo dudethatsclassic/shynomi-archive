@@ -1,0 +1,31 @@
+***Additional Info***
+
+When I acquired these files the md5 verified correctly, but upon inspection tracks 11 & 12 had either been joined together at
+
+some point, or they hadn't been split to begin with.  Audacity was used to split the tracks, & also to speed-correct the files
+
+(an increase of 9%) so that the band no longer sounded like they'd been feasting on valium liberally sprinkled with mogadon so
+
+the lineage for these files is now :
+
+Unknown Gen Cassette > Technics RS-BX501 Stereo Cassette Deck 
+> Line Out > Roland R-05 Wave/MP3 Recorder > WAV > SD Card > 
+PC > CD Wave Editor (Track Split) > FLAC (Level 8) > Audacity (Track split & speed corr.) > Wav > TLH (Flac8) > Dime...
+
+
+The gig itself was an interesting one in front of around 40,000 highly partisan U2 fans, who spent most of the day waiting
+
+impatiently for their gods, amusing themselves by hurling abuse & missiles (bottles, cans, food, anything really) at anything
+
+that was non-U2 related & dared to step onstage...add to that bad weather throughout the day, however the taper managed to get 
+
+a fairly decent pull of REM - it's not crystal clear, but it's certainly listenable...
+
+The info file which came with these files has been included, along with a new md5 to allow for the track split. No ffp was 
+
+included, so one has been created as the tracks required renaming as well...
+
+
+Don't turn these to mp3, decode them to wav & burn 'em...
+
+Uploaded to Dime October 2016

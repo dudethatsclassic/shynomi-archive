@@ -1,0 +1,71 @@
+Venue: Oakland-Alameda County Coliseum Arena
+City:  Oakland,Ca.
+Date:  March 14, 1989
+Taper: Persic
+Source:Nakamichi cm300 > sony tcd5m
+      transfer fom master cassettes
+
+Disc One:
+01 Pop Song 89
+02 Exhuming McCarthy
+03 Welcome To The Occupation
+04 Turn You Inside-Out
+05 The One I Love
+06 Orange Crush
+07 Sitting Still
+08 Feeling Gravitys Pull
+09 The Flowers of Guatemala
+10 World Leader Pretend
+11 Begin The Begin
+12 Pretty Persuasion
+13 Tired Of Singing Trouble
+14 I Believe
+15 Get Up
+16 Just A Touch
+17 Auctioneer (Another Engine
+18 It's The End Of The World As We Know It (And I Feel Fine
+
+Disc Two:
+encores:
+01 Stand
+02 We Walk
+03 I Remember California
+04 You Are The Everything
+05 Finest Worksong
+06 King Of Birds
+07 See No Evil
+08 Crazy
+09 Dark Globe
+10 Perfect Circle
+11 After Hours
+
+rem1989-03-14d1t01.flac:a986d973baae245e65a64836de086ca7
+rem1989-03-14d1t02.flac:c35491358789a40651baee316d51386c
+rem1989-03-14d1t03.flac:269a793ae25e49377ce35052cc0dad83
+rem1989-03-14d1t04.flac:5516ba548f0a03a98810ab11554d14c6
+rem1989-03-14d1t05.flac:cf88e94651e48f8465c16e85bec3ffaf
+rem1989-03-14d1t06.flac:e200c7087ac94c4056822f7585fa03b4
+rem1989-03-14d1t07.flac:e6771bed471f3a396e1690196eef6b8c
+rem1989-03-14d1t08.flac:2ea8ddf8c10613eef23ef1ebc87c74ce
+rem1989-03-14d1t09.flac:09beceddf7e18b85b85e14eadc722469
+rem1989-03-14d1t10.flac:eb420ef38d6ab875c095edef06f1e1c4
+rem1989-03-14d1t11.flac:d04290f1d5c174576efb75e0ae839d66
+rem1989-03-14d1t12.flac:81a796efd2ab60bbd0dfb4dfd3e2b52d
+rem1989-03-14d1t13.flac:35ce00802b08749bd8d2fc1467978268
+rem1989-03-14d1t14.flac:faa2efe42a0dd82d4b9eaeeefa409216
+rem1989-03-14d1t15.flac:8947a7626f67c5ebe193da9a0d461e2f
+rem1989-03-14d1t16.flac:48ec064dbd169c66c6e709f0aa5c4cd3
+rem1989-03-14d1t17.flac:f3c5e997fe663c5d546c305607ac4560
+rem1989-03-14d1t18.flac:dc85d30995a3548e46f0033ece24d1a0
+
+rem1989-03-14d2t11.flac:d18d65d00ea57624cddb08788bc3e382
+rem1989-03-14d2t01.flac:a2b25d3a7fb3f1c428a2232cf8309cde
+rem1989-03-14d2t02.flac:99c88f8b8765f74c5881deec1e8c2077
+rem1989-03-14d2t03.flac:1ce23626841632c432048a0a13a8ad5c
+rem1989-03-14d2t04.flac:d494750815e04a84d5da7b73347098c3
+rem1989-03-14d2t05.flac:c0bbb358f81df85b800a6d7dbf052d5e
+rem1989-03-14d2t06.flac:8d467dbe98ae6fc17596c034d8946656
+rem1989-03-14d2t07.flac:b68497ce1e9a6b4eb009e31544c123ad
+rem1989-03-14d2t08.flac:67d6116ad350a0294efd41895b6d5dee
+rem1989-03-14d2t09.flac:15f32fb8280a7327a14aa1178092b7ee
+rem1989-03-14d2t10.flac:eacd36e6f745699ebeffa7e0ca475676

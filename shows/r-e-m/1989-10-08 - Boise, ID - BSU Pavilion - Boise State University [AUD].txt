@@ -1,0 +1,70 @@
+R.E.M.
+October 8, 1989
+BSU Pavilion
+Boise, ID
+
+SOURCE: Unknown recording equipment
+
+
+TRANSFER:
+Tascam DA-20 MKII > PreSonus FireStudio Project > Adobe Audition 3.0 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > DAT(1) > WAV [48kHz/16bit] > FLAC [Level 8] > Adobe Audition 1.5 (tracking and downsampling to 44.1kHz) > FLAC [Level 8]
+
+LENGTH:
+120:14
+
+RECORDED BY:
+R.S.
+
+TRANSFERRED BY:
+Mike Ziegler
+
+01 Stand 
+02 The One I Love 
+03 So. Central Rain (I'm Sorry) 
+04 [Audience Participation Moment]
+05 Turn You Inside-Out 
+06 Belong 
+07 Exhuming McCarthy 
+08 Good Advices 
+09 Orange Crush 
+10 Feeling Gravitys Pull 
+11 Time After Time (Annelise) 
+12 Sitting Still 
+13 We Live As We Dream, Alone - World Leader Pretend 
+14 Future 40's (String Of Pearls) - I Believe
+15 I Remember California 
+16 Get Up 
+17 Life And How To Live It 
+18 It's The End Of The World As We Know It (And I Feel Fine)
+ 
+encore 1: 
+19 Pop Song 89 
+20 Fall On Me 
+21 You Are The Everything 
+encore 2: 
+22 Harpers 
+23 Begin The Begin 
+24 With The People - King Of Birds 
+25 Auctioneer (Another Engine) 
+encore 3: 
+26 Low 
+27 Finest Worksong 
+28 Perfect Circle 
+29 Dark Globe 
+30 After Hours - Word Up! - After Hours
+
+Following fairly hot on the heals of last week's show from Corcord California, comes another in a long string of pearls from the JEMS collective. 
+This time recorded by the inimitable RS (this comes from the master, I believe) I think there's a bit of taper chit chat going on before Orange Crush 
+(I can't quite make it out). As with Concord, R.E.M. are firmly in their stride here, on the homeward stretch of a long world tour, which would end, 
+officially, month later in Macon, GA. Anyway they stick doggedly to task at hand, and get through pretty much the whole show with no deviations or hesitations. 
+Stipe announces that he needs a pee before Get Up, but he thankfully ties a knot in it. A short burst of Word Up! in the middle of After Hours ensures 
+that the band gets over the 2 hours mark... just!
+
+Quality is great, better than the Concord one from last week. It runs pretty hot though, so you might want to ease back on the volume/bass a little
+(check out the long deep drone at the end of King Of Birds, if it really was that intense, it would have been fucking cool). I think it was probably
+fucking cool throughout to be fair. Enjoy.
+
+- Clumsiloe for JEMS

@@ -1,0 +1,40 @@
+REM
+April 28th, 1985
+Busch Student Center, Rutgers University, Piscataway, NJ
+
+Master:
+FOB Nakamichi CM300/cp-1's>Sony TC-D5>Cass(m), 
+Cass(1)>Nak DR-2>Tascam CDRW2000>CD
+taped by Dave Thomas, CD by Jon Pasternak
+
+Extraction:
+CD>xACT 2.00a (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+Disc 1 [42:02.73]
+01. Feeling Gravitys Pull              [04:28.52]
+02. Harborcoat                         [04:00.16]
+03. Green Grow The Rushes              [04:04.69]
+04. So. Central Rain                   [03:58.26]
+05. Good Advices                       [03:47.08]
+06. Hyena                              [02:50.14]
+07. Seven Chinese Brothers             [04:12.52]
+08. Driver 8                           [03:48.19]
+09. Can't Get There From Here          [04:20.12]
+10. Sitting Still                      [03:24.04]
+11. Maps And Legends                   [03:08.26]
+
+Disc 2 [49:18.47]
+01. Talk About The Passion             [03:12.31]
+02. Auctioneer (Another Engine)        [03:04.18]
+03. Old Man Kensey                     [03:51.62]
+04. Pretty Persuasion                  [03:46.18]
+05. When I Was Young/Little America    [05:51.25]
+06. E1: Have You Ever Seen The Rain?   [03:10.27]
+07.     (Don't Go Back To) Rockville   [04:37.39]
+08.     Life And How To Live It        [04:15.59]
+09. E2: White Tornado                  [03:15.25]
+10.     Theme From Two Steps Onward    [04:13.37]
+11.     Gardening At Night             [03:47.48]
+12.     9-9                            [02:54.27]
+13.     Windout                        [03:18.06]

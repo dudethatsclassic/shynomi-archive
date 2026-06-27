@@ -1,0 +1,67 @@
+REM
+Greek Theatre
+Los Angeles,Ca
+August 10, 1999
+
+
+
+source   : nakamichi cm300 > sony tcd-d100
+taper    : markp
+
+
+
+Disc One:
+01 Lotus
+02 So Fast So Numb
+03 Electrolite
+04 Suspicion
+05 Pilgrimage
+06 The One I Love
+07 Jesus, New Test Leper
+08 The Apologist
+09 Daysleeper
+10 E-bow the Letter
+11 Sweetness Follows
+12 The Great Beyond
+13 Losing My Religion
+14 Country Feedback
+15 At My Most Beautiful
+
+Disc Two:
+01 Life and How to Live It
+02 Walk Unafraid
+03 Man on the Moon
+04 crowd
+05 Hope
+06 Why Not Smile
+07 What's the Frequency Kenneth?
+08 Tongue
+09 Half A World Away
+10 It's the End of the World As We Know it
+
+
+D1 Track01.flac:abd84a992166570df39a5564ea8f7939
+D1 Track02.flac:73a1fad1ce6530c7643d03f82151a703
+D1 Track03.flac:f4ae5993b5d48b2b697c06ff27549e64
+D1 Track04.flac:87387467cd728cdf3852a08a1c25849e
+D1 Track05.flac:1fac81c52595a460a42bb504a167c598
+D1 Track06.flac:247c90807488aaf61d96f8013d717a32
+D1 Track07.flac:aec7bac1e800dbe862c8870242f9b713
+D1 Track08.flac:c2c6d1294c224ffb22bc01de8b525bb4
+D1 Track09.flac:14e44d7908ce00a00cc81a9c1bda7fbe
+D1 Track10.flac:f67609b4ad54985cbf478cc5ee355d3e
+D1 Track11.flac:ff1b1fd2e06eba85af2a0e682ebe688d
+D1 Track12.flac:030ecbc8248ea4d8b6b86e219ee9ea8e
+D1 Track13.flac:31d63e67c08c9d4cc0a5344c0422351d
+D1 Track14.flac:156c0320f11fc1ed6c38cb50b7acc0e3
+D1 Track15.flac:e48ba467457bd1bbf8c8bc4589852c86
+D2 Track01.flac:cc466d0b4eb217132b19e18daa5699c8
+D2 Track02.flac:4b6b59f11a1007a5e292977b9eb3112e
+D2 Track03.flac:53edcc8bb68149ac44846ebd4108f867
+D2 Track04.flac:d80113209cab5cc5aaeb10a9637c35f8
+D2 Track05.flac:0b727dd27ec623f5a579f990ff752e64
+D2 Track06.flac:9a85f80390f7ed6fca7b23202e9af277
+D2 Track07.flac:2510111aade6556df5f8bf41bc73b00d
+D2 Track08.flac:2dcc753f3107fb05d024beee838778a3
+D2 Track09.flac:abc0d8d11bafa135e2f39e39f0204eeb
+D2 Track10.flac:63a701629f6f51a478c0aea3681f5191

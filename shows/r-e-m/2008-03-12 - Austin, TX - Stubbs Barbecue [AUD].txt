@@ -1,0 +1,88 @@
+REM
+Stubb's Barbecue
+Austin, TX USA
+2008-03-08
+
+
+Living Well is the Best Revenge 3:24
+Man Sized Wreath 2:39
+Second Guessing 2:56
+Drive 4:45
+Hollow Man 3:46
+Animal 4:29 (hiccup about a minute in)
+Auctioneer (Another Engine) 2:59
+Mr. Richards 3:52
+Fall On Me 2:58
+The Great Beyond 4:13
+Houston 3:10
+Electrolite 5:28
+Accelerate 3:41
+Until the Day is Done 6:24
+Final Straw 4:04
+Bad Day 4:16
+Horse to Water 2:18
+Walk Unafraid 3:56
+Supernatural Superserious 4:14
+Imitation of Life 3:59
+Happy Birthday 2:44
+I'm Gonna DJ 3:47
+Man on the Moon 5:39
+
+
+Total Time: 89:55
+
+ffp fingerprint:
+
+01 Living Well is the Best Revenge.flac:0ea1d6f45d9b632aa349e9f8a23e6fa5
+02 Man Sized Wreath.flac:9234b85b33c9fbb3f36ff50ceac1d2cc
+03 Second Guessing.flac:b2993ea8380e5ddf08e696df13ff2304
+04 Drive.flac:d892814daf32b9e64d0aa128fd393fc1
+05 Hollow Man.flac:51243092f8bfa06d56c54a28366a3b45
+06 Animal.flac:18a0cf19d0019a09153022266c2be934
+07 Auctioneer (Another Engine).flac:c8390faf99067b789d6d52fb14bb2606
+08 Mr. Richards.flac:ee595e152ff42bb9a6a75f5923c73599
+09 Fall On Me.flac:edccb7062ec322fb46540a45ac115f13
+10 The Great Beyond.flac:91a4faa27da4442aa2614524792b6a62
+11 Houston.flac:deadc4b4a754e7bbe5ffe173b5e33617
+12 Electrolite.flac:3567756cd08065c84a67adca45c0979a
+13 Accelerate.flac:b62d90891dc19bbe4a596feb0a8fbcd7
+14 Until the Day is Done.flac:6c361cbac3e416332d9a0cf8758f08ed
+15 Final Straw.flac:b34d3bfe9afdf3cc9e0afee00a46a0d9
+16 Bad Day.flac:551e96cf5746126a2784b8120d2e07cb
+17 Horse to Water.flac:ad040cf17221c3518e2ef168ba1f098d
+18 Walk Unafraid.flac:671ffa3cc11c18f1ae2f83185e40ef51
+19 Supernatural Superserious.flac:ec11a48a1eda90b4013ee19acfcf9fcc
+20 Imitation of Life.flac:079dcc61b7c2326453aab44d30d4c4d0
+21 Happy Birthday.flac:6d3d6fca986d9e3db9cc1102d6ccb6d2
+22 I'm Gonna DJ.flac:33e35a676c6e83a771e34cd71af7a979
+23 Man on the Moon.flac:4d98e8a7b861a5de3c2a09259e819a65
+
+No errors occured.
+
+md5 fingerprint:
+
+bb37d30f77965735ee970463e87b5fdc *01 Living Well is the Best Revenge.flac
+f5d3387f3c15988dfbf75ccf014ff48c *02 Man Sized Wreath.flac
+2aa19f6c9e03be27a45b7dd0381b3fb8 *03 Second Guessing.flac
+52c8366b16606693a950ae46084e9312 *04 Drive.flac
+f946ce6f234cbe2ebe65ef2d3d34719d *05 Hollow Man.flac
+93ad937200a48c5ef91eccc6d48a428a *06 Animal.flac
+c78af4bea6d488fcf8953be62515e35d *07 Auctioneer (Another Engine).flac
+f87a2c6ad898779ef30df36ebef90ff0 *08 Mr. Richards.flac
+40bc4648236d35886c4d1d421387688c *09 Fall On Me.flac
+f87c66d7e10a4c97898833e929e06be3 *10 The Great Beyond.flac
+4c5cddec730e7a7135811116a9d5897a *11 Houston.flac
+5d46dc2fa5832f20ae47be24dbb4f0b6 *12 Electrolite.flac
+1af04e067179b0dfedd8017e82881d61 *13 Accelerate.flac
+be0c584d8fc0f3e678372c9655ddb249 *14 Until the Day is Done.flac
+ad59a1337825173761825d76078edb39 *15 Final Straw.flac
+bc8036ecf1cb6cf69d5f450c22720cdb *16 Bad Day.flac
+d7e53f45f8186c7662efab5642da3eff *17 Horse to Water.flac
+3647161026d8c1623ba6038e46675a79 *18 Walk Unafraid.flac
+baa27e26fbac48246b5585f76ef52581 *19 Supernatural Superserious.flac
+46f4ac9068d6da8b52f77846cc114db9 *20 Imitation of Life.flac
+4475f7f57b70100d3856d732bd750aeb *21 Happy Birthday.flac
+658ee2a1a3c5d789f50d2034a8d4ee87 *22 I'm Gonna DJ.flac
+943ebb60faef77f7f6d4f8b420073ecb *23 Man on the Moon.flac
+
+No errors occured.

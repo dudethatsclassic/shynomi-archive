@@ -1,0 +1,40 @@
+REM
+Copenhagen Parken, DK
+2008-09-06
+
+Source: DPA 4061 > Preamp (+10dB) > iRiver
+Transfer: Iriver->hd->flac->cep->cdwav->flac
+Taper: TJ
+
+01. Intro
+02. Living Well Is The Best Revenge
+03. Bad Day
+04. What's The Frequency, Kenneth?
+05. Drive
+06. Man-Sized Wreath
+07. Departure
+08. The Great Beyond
+09. Ignoreland
+10. Hollow Man
+11. Electrolite
+12. Fall On Me
+13. Exhuming McCarthy
+14. I'm Gonna DJ
+15. Get Up
+16. (Don't Go Back To) Rockville
+17. Auctioneer (Another Engine)
+18. The One I Love
+19. Final Straw
+20. Let Me In
+21. Horse To Water
+22. Imitation Of Life
+23. Orange Crush 
+---
+24. Supernatural Superserious
+25. Losing My Religion
+26. Country Feedback
+27. At My Most Beautiful
+28. It's The End Of The World As We Know It (And I Feel Fine)
+29. Man On The Moon 
+
+notes: Ken Stringfellow guests on 'At My Most Beautiful', 'It's The End Of The World As We Know It (And I Feel Fine)' & 'Man On The Moon'

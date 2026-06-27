@@ -1,0 +1,63 @@
+R.E.M.
+June 9, 1984
+Capital Theater
+Passaic, NJ
+Complete Show
+
+Source: Master Audience Cassette > Nak Dragon > DAT > 
+             HHb CRD-850 Pro > CDR Master
+Conversion: CDR Master > EAC > WAV > CD Wave (tracking) >
+             Flac Frontend > Flac
+
+Recorded with Nak 300's > Sony D-5  (Maxell XL-II Master Cassette)
+
+Thanks to Anonymous for recording (!) and CDR Transfer
+Flac file compiled by danlynch  2004-05-14
+
+01 Pale Blue Eyes 
+02 Second Guessing 
+03 Hyena 
+04 Letter Never Sent 
+05 Harborcoat 
+06 Seven Chinese Brothers 
+07 Pretty Persuasion 
+08 So. Central Rain 
+09 Gardening At Night 
+10 9-9 
+11 Windout 
+12 Old Man Kensey 
+13 Sitting Still
+14 Driver 8
+15 Carnival Of Sorts (Boxcars)
+16 Radio Free Europe 
+17 Little America
+18 So You Want to Be a Rock'n'Roll Star*
+19 Do You Believe in Magic#
+20 Gloria*#
+
+Notes:  
+* with Roger McGuinn
+# with John Sebastian
+First performances of Driver 8, Old Man Kensey and Hyena.
+
+Flac Fingerprint:
+REM1984-06-09audt01.flac:1a94720efa18ceb20bbcaea0a485db47
+REM1984-06-09audt02.flac:b2cc2bb2af88d0ee9aa8935fab5b3806
+REM1984-06-09audt03.flac:f2c3bd4fa3aedde30979f8bb98cc192b
+REM1984-06-09audt04.flac:11a3f2817bc403f2f23418246cefa9d9
+REM1984-06-09audt05.flac:aaf2254c59b82f15195e450c6c228ece
+REM1984-06-09audt06.flac:52a41809d863cd91b87a5cbc50eef862
+REM1984-06-09audt07.flac:095c062b7a79cdcdf9804b8965e98d2e
+REM1984-06-09audt08.flac:bd867911704e41d96b0df4d4500f0288
+REM1984-06-09audt09.flac:dc0aea0b5c2cd651535910b4ec13ee7d
+REM1984-06-09audt10.flac:1a996c7a6b3b515e119f368833736565
+REM1984-06-09audt11.flac:64bbf380e29487b8b9dfff4cc4320855
+REM1984-06-09audt12.flac:b8bbe87a1ccceb9f3cd8803fdd5334c6
+REM1984-06-09audt13.flac:ac08bf923108fdf902d55931581c1960
+REM1984-06-09audt14.flac:5b075fb62ad52029f0844b596b7a8a6f
+REM1984-06-09audt15.flac:f10ec354d16010e3af61fc09a51b8531
+REM1984-06-09audt16.flac:2548f7004e9d04fea903a21b5e07e850
+REM1984-06-09audt17.flac:6d9c0f1a427e6d27e5f135db992dbaaf
+REM1984-06-09audt18.flac:4a249ab20ffb997deb5b1f31f8e038bf
+REM1984-06-09audt19.flac:003829071071051b97cb86a5e36e86a5
+REM1984-06-09audt20.flac:3d23bf9c7ced9fff3f16d17211dfe787

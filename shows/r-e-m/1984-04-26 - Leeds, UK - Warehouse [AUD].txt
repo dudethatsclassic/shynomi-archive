@@ -1,0 +1,71 @@
+R.E.M. 1984-04-26 The Warehouse, Leeds, UK
+R.E.M.
+The Warehouse, Leeds, UK 1984-04-26
+Source: online trade FLAC's -> TLH re-encoded FLAC's
+
+Setlist:
+
+Set:
+01. Second Guessing
+02. Catapult
+03. Just A Touch
+04. Letter Never Sent
+05. Pilgrimage
+06. 7 Chinese Bros.
+07. So. Central Rain
+08. Sitting Still
+09. Harborcoat
+10. West Of The Fields
+11. Gardening At Night
+12. 9-9
+13. Windout
+14. Radio Free Europe
+15. Little America
+16. Pale Blue Eyes
+17. Applause
+
+Encore 1: 
+18. (Don't Go Back To) Rockville
+19. Time After Time (Annelise)
+20. Pretty Persuasion
+
+Encore 2:
+21. 1,000,000
+22. We Walk
+23. Talk About The Passion
+24. Carnival Of Sorts (Boxcars)
+25. Skank
+
+Line-up: Buck/Berry/Mills/Stipe
+
+MD 5 signature:
+1ad888ef7ff04d9a474524fd56b3addd *Track01.flac
+2007bdb5d9b7db054b207bdae1c94c4e *Track02.flac
+24d4d3ab2d9801e388e101fc9aefb897 *Track03.flac
+6354cf7f47b2504ce118bac0e2cbd617 *Track04.flac
+3f19011c99f58a45e2bac2585191d8b4 *Track05.flac
+6b9d063ff741a4e7a2bfd33002e47ab1 *Track06.flac
+0cc8a034738d00f767a38a1a06498c93 *Track07.flac
+39c0cc095a6c18d718c6771c44dfb1d7 *Track08.flac
+8af0a768829396a7885b48af9cef6b76 *Track09.flac
+d89d6f6071a906aa4b68a54efdca29f8 *Track10.flac
+85a33e83d380594051044b6337c3b4d6 *Track11.flac
+3e77e6b280c7e898274a6b5a203c2fca *Track12.flac
+6ce66b972a82651199520be943d7a8d2 *Track13.flac
+4fdb6fdc461958b91bba46c0736a874f *Track14.flac
+e4bb87e0ac0563bb28cb86c96dda5869 *Track15.flac
+26d8a2f69f3e2d1532793846ee14b505 *Track16.flac
+5c5c34f6418727dac63fff8e598a8a6a *Track17.flac
+382dd402a6c26c031ea3fdc629cea9db *Track18.flac
+51a1e4b994119c1ec48ea79fe825e67b *Track19.flac
+23c0cc516f58330ed1a4be06e83f8372 *Track20.flac
+fb9dc1008eb2427ed048de12a74e78d6 *Track21.flac
+d376b6abb6965563b87f8beb14e1174c *Track22.flac
+bff1546f12d838bd6c0e237018ed6a3a *Track23.flac
+a58ea61db385dbfc6cea45e65ea0c39b *Track24.flac
+69e462c872f5b1d6fe88fd0d58566cfb *Track25.flac
+
+No artwork
+Notes: This is a decent AUD recording I received in a trade.
+After listening to the entire show, it seems to me that the encores started with Rockville, since just before that there is an entire track of only applause.
+This as opposed to the information on the Timeline, suggesting that the encores started with Pale Blue Eyes.

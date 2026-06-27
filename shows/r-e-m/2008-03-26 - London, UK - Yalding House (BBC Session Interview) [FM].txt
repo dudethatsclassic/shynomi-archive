@@ -1,0 +1,37 @@
+R.E.M.
+26th March 2008
+BBC Studios, London, UK
+
+Broadcast by BBC Radio One on 23rd March 2008 for "Jo Whiley"
+
+**[BBC Radio 1 is a digital and FM broadcaster. This is the digital broadcast.]**
+
+DVB-T (192kbps / 48Khz) > Nebula DigiTV > Hard Disk MP2 > mp3DirectCut
+
+Complete broadcast torrented as seperate tracks
+
+Photos and video at: http://www.bbc.co.uk/radio1/livelounge/artist/080326_rem.shtml
+
+
+Tracks
+
+01 Intro
+02 Supernatural Superserious
+03 Chat
+04 Chat (cont)
+05 Munich (Editors cover)
+06 Outro
+
+
+
+Instructions (With thanks to hamhen)
+
+QUOTE:
+Please do not use the dbpoweramp software to transcode the mp2 files to .wav. The transcoding process leads to a noticeable decrease of the sound quality!
+For transcoding the .mp2 file I recommend the freeware BeSweet/ BeLight (if you use a Windows PC Ihave to add) : http://www.free-codecs.com/download/BeLight.htm
+Both are .zip-files; unzip BeSweet first into a folder. Then you should unzip BeLight into the same folder. This done, you can start the software by clicking on the BeLight symbol in the folder. The software is easy to work with, I think; choose the register card "WAV/ PCM". Do not check any of the boxes on the left except the one for "Output Sampling Rate" (this should be 44100hz), and on the right please choose "wav" (under "Output Format") and "16 bits stereo wav" under "Output Channels".
+
+Put the mp2 file into the window on top and click on the "Start Processing" below. The transcoding process will start immediately.
+
+If BeLight does not work with your computer you should try a software named Switch. It is available for free at http://www.nch.com.au/switch/plus.html
+There are versions for Windows and Mac.

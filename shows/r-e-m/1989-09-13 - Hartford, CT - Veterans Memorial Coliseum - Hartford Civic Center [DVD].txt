@@ -1,0 +1,64 @@
+﻿Band: R.E.M.
+Venue: The Civic Center
+City: Hartford
+State: Connecticut
+Country: USA
+Date: 1989-09-13
+----------------- 
+Region: One
+Type: NTSC
+Menu: Basic
+Chapters: Every 5 Minutes
+Source: Camcorder Audience Recording 
+Artwork: No
+----------------- 
+Lineage
+1st Generation VHS Tape
+Panasonic DMR-EH50  To DVD
+DVD VOB To PC Hardrive 
+_________________
+
+SET LIST
+Stand
+Exhuming McCarthy
+The One I Love
+South Central Rain
+Wolves/Lower
+Turn You Inside-Out
+Belong
+Orange Crush
+Feeling Gravity's Pull
+King Of Birds
+These Days
+World Leader Pretend
+I Believe
+Pretty Persuasion
+Get Up
+Life And How To Live It
+It's The End Of The World As We Know It (And I Feel Fine)
+Pop Song 89
+Fall On Me
+You Are The Everything
+Begin The Begin
+Crazy
+Finest Worksong
+Perfect Circle
+After Hours/Radar Love 
+
+Running Time: 113 Minutes
+
+Shot From The Left Side Of The Stage. Full Stage View Most Of The Time.
+
+Video Attributes: 
+Video compression mode: MPEG-2 
+TV system: 704 x 480 (NTSC) 
+Aspect Ratio: 4:3 
+Frame Rate: 29,970 
+Bitrate: 4298 KBPS 
+
+Audio Attributes: 
+Audio Coding mode: AC3 2/0
+Sampling Rate: 48kHz 
+Number of Audio channels: 2 
+Bitrate: 256 Kbps 
+Number of Audio streams: 1 

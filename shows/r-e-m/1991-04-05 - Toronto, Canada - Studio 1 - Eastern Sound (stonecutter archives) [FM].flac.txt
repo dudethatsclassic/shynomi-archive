@@ -1,0 +1,59 @@
+
+R.E.M.
+Studio 1, Eastern Sound, Toronto, Ontario
+April 5, 1991
+
+The Stonecutter Archives
+
+Source: 'Command Performance', Sound Source Radio Network > 1st generation cassette (Maxell XLII-S 100) 
+
+Transfer: Tascam 202MKV > Edirol R09 (16/44) 
+
+Editing: Adobe Audition 5.5 (level boost/hiss reduction) > CD Wave Editor (track) > flac8
+
+Transferred & Tracked by Smores / posted by kingrue upload 1035
+..................................................................................................................................
+
+ 
+setlist:
+01. World Leader Pretend
+02. -interview-
+03. Half A World Away
+04. -interview-
+05. Radio Song
+06. -interview-
+07. Fretless
+08. -interview-
+09. Love Is All Around
+10. -interview-
+11. -audience questions-
+12. Losing My Religion
+
+Total Time = 56:00 min
+
+Note: several CD versions of songs were played throughout the show. These officialy released songs were edited out.
+
+This show is from the Stonecutter Archives who was kind enough to share some of his tapes for this forum. 
+
+If you have masters that you would like to share PLEASE contact me or anyone that is willing to work on them to get them out to the collecting community. Thanks.
+
+....................................................................
+
+ffp:
+
+REM 1991-04-05 Eastern Studios, Toronto01.flac:5a7a1784446f799c2f251e167ad59c42
+REM 1991-04-05 Eastern Studios, Toronto02.flac:5dae0fe1557e58fa770583d0e6e7dd5a
+REM 1991-04-05 Eastern Studios, Toronto03.flac:c985880d2fc76dbd765ecde4b4a63dd5
+REM 1991-04-05 Eastern Studios, Toronto04.flac:ee90a00e9cd510f656c17e7352d6c8b7
+REM 1991-04-05 Eastern Studios, Toronto05.flac:6286125bbda45822d1b4e169c7b4c1b8
+REM 1991-04-05 Eastern Studios, Toronto06.flac:1957995edaea1e4b20e7ede3def964e6
+REM 1991-04-05 Eastern Studios, Toronto07.flac:19566d14cb339e46282001b83a55b48a
+REM 1991-04-05 Eastern Studios, Toronto08.flac:8f37283ec709f5658ee4080d5a5d3802
+REM 1991-04-05 Eastern Studios, Toronto09.flac:3725d56a864db4aa6787558db4f8b129
+REM 1991-04-05 Eastern Studios, Toronto10.flac:3ec2868fb236e4a605929b6f9c05c91f
+REM 1991-04-05 Eastern Studios, Toronto11.flac:d3416d7eb2e90e922bf26cac22158108
+REM 1991-04-05 Eastern Studios, Toronto12.flac:263ba15120c5b429f18880df8ada046e
+
+No errors occured.
+
+Create checksum file log saved to file.

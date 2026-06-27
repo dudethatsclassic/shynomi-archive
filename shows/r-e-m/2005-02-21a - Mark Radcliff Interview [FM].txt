@@ -1,0 +1,24 @@
+Mark Radcliff interview with Michael Stipe and Peter Buck
+21 February 2005
+Hallam FM Arena, Sheffield, England
+
+Source:FM source direct to CD-R
+Lineage:CD-R>EAC>wav files>Flac Frontend>Flacs
+File size: 296MB
+Transferred by: zarok from CD-R
+
+1. Interview with Michael Stipe - 11:56
+2. small talk by Mark Radcliff  - 00:05*
+3. Interview with Michael Stipe - 13:03
+4. Interview with Peter Buck    - 12:28
+5. Inteview with Michael Stipe  - 09:47
+
+*This was a few seconds long so it can be deleted if wanted. 
+
+fingerprints:
+
+mark_radcliff_interview2005-21-02t1.flac:fc745e4aae4a2eca8207c13e5bd9f1df
+mark_radcliff_interview2005-21-02t2.flac:65ac8b56b4161b425db49a78eabc1bfa
+mark_radcliff_interview2005-21-02t3.flac:2c7a83c6cc2480f36bc5992d1d07e9cb
+mark_radcliff_interview2005-21-02t4.flac:9748bedc3c10863cdccd822d544d93c1
+mark_radcliff_interview2005-21-02t5.flac:15d0363f704de4afa7245c76342a842d

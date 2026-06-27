@@ -1,0 +1,202 @@
+TORRENT TITLE
+
+R.E.M. - 1986-10-17 Oriental Theatre, Milwaukee, WI
+
+ARTIST NAME
+
+R.E.M.
+
+BOOTLEG TITLE
+
+N/A
+
+VENUE, CITY, COUNTRY, DATE
+
+Oriental Theatre, Milwaukee, WI 1986-10-17
+
+TRACK LISTING
+
+DISC 1 (54:25)
+
+101 WARM-UP.................................(0:32)
+102 These Days..............................(3:35)
+103 Sitting Still...........................(3:31)
+104 Driver 8................................(3:54)
+105 Hyena...................................(3:02)
+106 Cuyahoga................................(4:33)
+107 The One I Love..........................(3:25)
+108 Shaking Through.........................(4:54)
+109 Feeling Gravitys Pull...................(5:01)
+110 Rotary Ten..............................(3:20)
+111 The Flowers Of Guatemala................(5:04)
+112 I Believe...............................(5:08)
+113 Superman................................(3:16)
+114 Cushy Tush..............................(1:22)
+115 Can't Get There From Here...............(3:39)
+
+DISC 2 (54:49)
+
+201 7 Chinese Brothers......................(4:27)
+202 Pretty Persuasion.......................(4:04)
+203 IMPROV - My Plane Won't Start / Auctioneer
+         (Another Engine)...................(4:34)
+204 Little America..........................(2:46)
+205 CHEERING B4 ENCORE1.....................(1:58)
+ENCORE 1
+206 Fall On Me..............................(3:07)
+207 We Walk.................................(2:53)
+208 Toys In The Attic.......................(2:37)
+209 CHEERING B4 ENCORE2.....................(2:35)
+ENCORE 2
+210 Oddfellows Local 151....................(4:17)
+211 Strange.................................(2:55)
+212 I Can Only Give You Everything..........(3:24)
+213 CHEERING B4 ENCORE3.....................(0:48)
+ENCORE 3
+214 King Of Birds...........................(1:13)
+215 Sloop John B............................(4:34)
+216 Begin The Begin.........................(3:25)
+217 Just A Touch............................(2:57)
+218 After Hours.............................(2:04)
+
+LINE UP
+
+Bill Berry - drums
+Peter Buck - guitar
+Mike Mills - bass
+Michael Stipe - vocals
+
+FLAC FINGERPRINTS or MD5 checksum for the musical content only (*)
+
+101 WARM-UP-032.flac:1ca62089b633893cacdda38891b75a76
+102 These Days-335.flac:9f3cf77a4193b0a2a95883a99b918efd
+103 Sitting Still-331.flac:73835ca3a9ecb73f0c30b8237607535b
+104 Driver 8-354.flac:0cc2d1ad77e78500a1547924b988e26d
+105 Hyena-302.flac:c715a43aad19c7d2d41a914b71ed9e65
+106 Cuyahoga-433.flac:43f2a809520e78a943676bdd9003047d
+107 The One I Love-325.flac:5a16610f92450ef89dd5f8c3e864d72f
+108 Shaking Through-454.flac:e50b4201611c3583f320b3568b75a3aa
+109 Feeling Gravitys Pull-501.flac:92b1b45e48d9906e7e64c6b404b9c0eb
+110 Rotary Ten-320.flac:42e0955afb6235606737ab9574fddc02
+111 The Flowers Of Guatemala-504.flac:5d7f668c1ee2296a181e32bd604f72b8
+112 I Believe-508.flac:ee7246af1abdd1d3636e2da49912ba5d
+113 Superman-316.flac:5301c51042b546609db9b58c36a93a77
+114 Cushy Tush-122.flac:d9f2e3af8ff6da2a42c90b512fbb4ba9
+115 Can't Get There From Here-339.flac:933afb31aaa397deda238564735c63ac
+201 7 Chinese Brothers-427.flac:b70f99695e667c75623e2dd175f1f236
+202 Pretty Persuasion-404.flac:f04854a1870ccdab916ddf8c8f44f382
+203 IMPROV - My Plane Won't Start Auctioneer (Another Engine)-434.flac:a27d541b907fae7c7768ce26dca61286
+204 Little America-246.flac:1d87f9862be14b311620382a2892c797
+205 CHEERING B4 ENCORE1-158.flac:12f156a074c76977c152d65cdd4b80c8
+206 Fall On Me-307.flac:3ed60b8f30fed7f74882f2fd3d47a394
+207 We Walk-253.flac:1dd4d332164c419cc5189c3dddeaa486
+208 Toys In The Attic-237.flac:cd220a388d4e8a71d07a6af66291aec0
+209 CHEERING B4 ENCORE2-235.flac:4916503e07c2666c8a1450931e026d42
+210 Oddfellows Local 151-417.flac:5785509b36dc175dc86f68ec07b2e189
+211 Strange-255.flac:2455b9e4bdb1c4489f4d75f3ca615ec9
+212 I Can Only Give You Everything-324.flac:78b8bc290ad33e37023f54f2dd9dca0a
+213 CHEERING B4 ENCORE3-048.flac:db3f55133fe9be5f50a6cf3103282278
+214 King Of Birds-113.flac:dcbacd9d672f285d08056bc6fbda96ef
+215 Sloop John B-434.flac:049da5a7a65b513a4f48257bcaf18628
+216 Begin The Begin-325.flac:f659b08ee8af7e9abef730e1bda42190
+217 Just A Touch-257.flac:f6f6a0d1f5d17967f184f779e985118f
+218 After Hours-204.flac:7fb18f72487c8270ee5ddb75fa870b5c
+
+ARTWORK
+
+N/A
+
+SOURCE / LINEAGE
+
+Stereo AUD master to Maxell METAL tapes
+
+Borrowed mics > Borrowed Sony WM-D6 > Master METAL tape > Computer WAV > Cool Edit 2000 > TLH v2.4.1 > FLAC 8 > DIME > you
+I don't have the specific model for the mics, but the buddy from which I borrowed the gear (thanks K!) said they cost approx. US$500.
+Mics were physically separate left / right channel lines which fed back to a single stereo line into the deck.
+The left / right lines were either pinned over each shoulder facing stage, or pinned to left/right sides under an open-holed baseball cap.
+I originally mastered this 2003-01-07 & retained the original WAV fileset.
+I did a little normalization on the computer to offset for high volume at the start.
+Beyond that, I think the only thing I did was place track marks before each piece.
+This FLAC fileset comes directly from those final WAVs's, which only needed SBE corrections in TLH; no CD-Rs or EACs.
+
+NOTES
+
+As this is an original master & isn't too bad to start with, please DON'T remaster and repost it.
+
+- - - -
+
+Camper Van Beethoven opened up the show, and you can find my recording of that set out here on DIME too.
+(I misspelled the venue name on that one, it's Theatre not Theater; as I've found the ticketstub, I'll attach it here.)
+
+- - - -
+
+Peter Buck did a local in-store appearance earlier in the day (Record Head).
+I got my Hibtone 45 signed by him that day; he pointed out to me that it was a second pressing.
+
+- - - -
+
+Yes, the day has come to finally let this cat out of the bag.  Merry Christmas!
+
+A very fine show in my opinion:
+* a nice version of The One I Love (remember this was new at this time, not played a zillion times to death)
+* same for the version of Can't Get There (the second half of each verse sung up high, I always liked that), and a fierce run thru Auctioneer
+* a good batch of covers thrown in (Strange / Toys In The Attic / After Hours among them)
+* plus Michael does a little improv riff before Auctioneer
+Fine stuff all.
+
+Peter's guitar jumps up in volume at the beginning of Gravitys, that was from the PA and not from me messing with volume.
+Cushy Tush was filler while someone's instrument was being repaired.  (thx to rem live show website guy for setting me straight about the title)
+King Of Birds is just a teaser verse sung by Michael.
+
+There's some pinheads yelling gay slurs a few times.
+Putting that aside, the band was ON & the rest of the crowd seemed quite into the set.
+
+There was a beer sign on the side of the stage ("Miller Music"), implying they had some link to that night's performance.
+After I Believe, Michael noted they do NOT believe in corporate sponsorship & neither they nor CVB condoned the sign.
+He then ripped it down & tossed it into the crowd.
+
+Hearing this again... don't get me wrong, I love the modern R.E.M., but man, I miss Bill Berry.
+
+- - - -
+
+I had this in my trade list for years, but I dunno if anyone ever picked it.
+Beyond that, it's only been heard by a few friends, and so this is likely its debut to most folks.
+Crank it up and ENJOY! it as I have, and share it so others can hear it.
+
+- - - -
+
+This tape turned out really, really good.
+It's a bit off in the beginning as I got the levels figured out - too high at first; despite that, the beginning isn't distorted.
+After that, it was smooth sailing - here & there I hear muting from people walking past my seat to get to theirs, a couple of mic bumps & that's about it.
+
+Like the CVB set, this is a good one to crank up loud.
+If you already downloaded that set, you'll know the sound here & will start this DL immediately.
+If you haven't, check out the attached samples.
+
+- - - -
+
+The first interruption is for a tape flip after Flowers; I edited the clapping on both sides of the flip together.
+The split point between Disc 1 and Disc 2 introduces another breakpoint after Can't Get There, but I left a couple sec. of overlap on purpose, so nothing's really missing.
+The second interruption is for a tape swap after Little America; again the clapping was edited together.
+The third interruption is for another tape flip after I Can Only, & again the clapping was edited together.
+Through it all, all that's missing is a bit of clapping.
+
+Speaking of...  I clap.  Sorry.  At least there's no talking from me or the people I was there with (you do hear someone very near me yell something at one point.)
+And I leave everything in, warts and all - tuning, the band talking between songs, the claps before the encore & at the end.
+When I mastered this, I broke out that clapping to separate tracks, and you could lop some of that out if you were so inclined.
+
+- - - -
+
+Filenames have numbers on the end that are the TIMES (ex. - "...-359" is 3min59sec long).
+
+I mark the start of tracks when the music or count-in begins, not the talking about it before it starts.
+
+- - - -
+
+The usual schmack applies here:
+
+Please don't post this anywhere but DIME.
+Please retain this original info file data with any reseedings.
+Please don't transfer to MP3 or other lossy formats.
+Please only trade this with others, don't sell it.
+Please support the artists involved by purchasing their official product in massive quantities.

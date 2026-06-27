@@ -1,0 +1,80 @@
+R.E.M. 1986-09-05 Oak Mountain Amphitheatre, Birmingham, AL
+R.E.M.
+Oak Mountain Amphitheatre, Birmingham, AL 1986-09-05
+Source: online trade WAV's -> TLH FLAC's (level 6)
+
+Setlist:
+
+Set:
+CD 1:
+01. These Days
+02. Begin The Begin (with a lot of hiss in midsong, watch your ears!)
+03. 1,000,000
+04. The One I Love (early version)
+05. Cuyahoga
+06. Fall On Me
+07. Shaking Through
+08. The Flowers Of Guatemala
+09. Driver 8
+10. I Believe
+11. Swan Swan H
+12. Can't Get There From Here (with again a lot of hiss)
+13. 7 Chinese Bros.
+14. Superman
+
+CD 2:
+01. Pretty Persuasion
+02. Little America
+03. Just A Touch
+
+Encore 1:
+04. Femme Fatale
+05. Feeling Gravitys Pull
+06. Strange
+07. So. Central Rain
+
+Encore 2: 
+08. Auctioneer (Another Engine)
+09. Lightnin' Hopkins (early version)
+
+Encore 3:
+10. Old Man Kensey
+11. Second Guessing
+
+Line-up: Buck/Berry/Mills/Stipe
+Support: Fetchin' Bones
+
+MD5 lineage:
+53cb326913eb747c72adf89ec0b40578 *CD 1\Track 01.flac
+3e4304df0bce55a8993f960a192a43b8 *CD 1\Track 02.flac
+fc4037b6f8b4c4012196eb866a687833 *CD 1\Track 03.flac
+2a4023f213cf61034a2fb8634f2a2043 *CD 1\Track 04.flac
+3cad1a7071306602a5181d1d18748492 *CD 1\Track 05.flac
+d7e3eb9b0299830e415e616b1e070a1c *CD 1\Track 06.flac
+de2862c35b28fab43a2dd1074aa5da5a *CD 1\Track 07.flac
+f171229e4c8468bde76851c6da82a11b *CD 1\Track 08.flac
+5ade33807e4c35205d7676c92f531b25 *CD 1\Track 09.flac
+59385f28ab8fe00a0d77168441ff61bc *CD 1\Track 10.flac
+ecc711e329e1c5d3350eab0f7eb00a29 *CD 1\Track 11.flac
+5bb957c2db63993b82b2556aabfbfa64 *CD 1\Track 12.flac
+220571be2f1bf382a5046d28ca8eb479 *CD 1\Track 13.flac
+78c5ac863a3e7684d6e5c338d742a417 *CD 1\Track 14.flac
+630edf3800dabf249406d94ed98b6458 *CD 2\Track 01.flac
+e3c79f67c91f6d43861b98f6a9a299ca *CD 2\Track 02.flac
+df732b6230da79938d32fd25d5392838 *CD 2\Track 03.flac
+c325825f8d6d089d2ab6124a26f8c960 *CD 2\Track 04.flac
+b4b5add59fe3ccfd310e2039ab5bd6c5 *CD 2\Track 05.flac
+b497506dd919d8897918b24edc24d994 *CD 2\Track 06.flac
+746221541e0c037f57e88f4c2224bc75 *CD 2\Track 07.flac
+d6910a3658614c8b613f947432007a26 *CD 2\Track 08.flac
+602957e4571ddf4a7834c16f4da662a2 *CD 2\Track 09.flac
+16ace2f3bb08e3f6c10d9104f60a10d8 *CD 2\Track 10.flac
+45ed15df057c8d99c6cc7f2e74583bc8 *CD 2\Track 11.flac
+
+No artwork
+
+Notes: this is the first of a few 1986 shows I will put up this weekend.
+It is an average AUD recording, with a couple of tracks partially polluted by hiss.
+According to the timeline, one track is missing: in the last encore, the middle track should be Life And How To Live It.
+
+Info file by martine_holl November 2011

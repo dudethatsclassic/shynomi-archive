@@ -1,0 +1,40 @@
+R.E.M. 1983-11-24 Les Baines Douches, Paris, France
+R.E.M.
+Les Baines Douches, Paris, France 1983-11-24
+Source: FM radio broadcast -> online trade FLAC's -> TLH re-encoded FLAC's (level 6)
+
+Track list:
+
+01. Letter Never Sent
+02. Femme Fatale
+03. Pilgrimage
+04. So. Central Rain
+05. Harborcoat
+06. Sitting Still
+07. Gardening At Night
+08. 9-9
+09. Radio Free Europe
+10. Carnival Of Sorts (Boxcars)
+
+Total length: 34 min 57 sec
+
+Line-up: Buck/Berry/Mills/Stipe
+
+MD5 lineage:
+09efee8aa466d043347a208167c0b6bb *Track01.flac
+ddeca1f9acdf810b02b9343f07705f8c *Track02.flac
+9c63c8894a0bdf1d3f51759c98db6730 *Track03.flac
+26be57ace447177baa33c3ebf9bdf91f *Track04.flac
+93c07e1049449d5062d8e4fe92029c9d *Track05.flac
+ef41e1e167dbe6a0e4192d3e266fe7d0 *Track06.flac
+c2c9675ff58c917dcfb372c5eb5d6c4e *Track07.flac
+d3c52be4496b1844d227f14dd181a757 *Track08.flac
+b8080b996818c0709b148180689a60dc *Track09.flac
+af55d79986c2d2a6681e1334d01b0c32 *Track10.flac
+
+No artwork
+
+Notes: this was a French radio FM broadcast. There is no known recording of the entire show, so we don't know what other songs were played.
+It is a good quality recording, with some French commentary included for those who speak the language!
+
+Info file by martine_holl October 2011

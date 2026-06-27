@@ -1,0 +1,119 @@
+R.E.M.
+2 October 1982
+City Gardens
+Trenton, NJ
+Stonecutter/GP Archive #016 
+
+Contrast Clause: This torrent is different from:
+http://www.dimeadozen.org/torrents-details.php?id=677268
+Because: 
+a) It has been speed corrected (increased by 10%)
+b) has been converted to 16/44 (from 24/48)
+c) Includes "Ages Of You" taken from a previous torrent of the "Mada Mada" bottleg LP; this track has also been speed adjusted, and volume adjusted, to bring it closer to the other tracks. 
+
+All sound adjustments made using Audacity. Updated tags and filenames using MP3tag. 
+
+* Weak spot on right channel copied from left (just the first few seconds)
+** Taken from a cassette copy of "Mada Mada", from a Dime torrent back in 2010
+
+Here are the original details from the excellent original post by RITCNIN:
+===============================================================================
+Equipment: FM Broadcast - 1st Gen Cassette
+Transfer: FM Broadcast > Cassette > Cassette > Nakamichi CR-3A > Sony PCM-M10 (24/48) > WAV > Audition (normalize to -0.1 db) > Tracked thanks to elegymart > xACT > FLAC
+Transferred By: RyanJ (ryanj@reflectinginthechrome.com)
+
+---------------------------------------
+1-01  radio intro [0:17]		*
+1-02  Romance {tape dropouts} [2:55]
+1-03  1,000,000 [3:26]
+1-04  Pretty Persuasion [4:06] 
+1-05  Ages of You [3:44]		** 
+1-06  Pilgrimage [4:10] 
+1-07  Wolves, Lower [4:56]
+1-08  Laughing [4:07] 
+1-09  Sitting Still [3:35] 
+1-10  Catapult [4:06] 
+1-11  West of the Fields [3:27] 
+1-12  Carnival Of Sorts (Box Cars) [4:16]
+1-13  Radio Free Europe [4:01]
+1-14  radio outro [0:12]
+    
+
+Notes: 
+This is #16 of the Stonecutter Archives. I was lucky enough to head to Stonecutter’s home in NY in April of 2017 where I met up to talk shop and go through some of his tapes. I took a boatload of tapes home to transfer and post here to DIME. My intention was to get through these all pretty quickly. Well… Life gets in the way and other things to where these have sat on my hard drive for almost 3 years. Now, there is no excuse while my schooling is on hold for the foreseeable future. I’ve got a bunch of tapes to post here and I hope these tapes will help someone out during this time just enjoy some good music. Stay safe everyone.
+
+Although I am not familiar with a lot of REM (and that's why I picked a lot of REM tapes up) this is a really good FM recording. Big thanks to Elegymart for tracking this one out for me.
+
+Also, I am looking for any Nine Inch Nails recordings that are not on the NIN Live archive over at ninlive.com. If anyone can help me out finding new sources, I would love to have them. Especially some European shows. Thank you.
+
+--------------------------
+
+From the R.E.M. Timeline:
+"Either missing the encore, or this was an edited radio broadcast (most likely). This show was originally thought to have been on 16 November 1982, however that was the date this show was broadcast on the radio." 
+
+So it's definitely NOT 16 November 1982!
+
+On the announcement, it states this is the "B Sharp Concert Series," and a Thirsty Ear Production. Thirsty Ear originates out of Norwalk, CT, and was established in the late 70s as an independent marketing company, pioneering the concept of specialized marketing to the yet-unnamed alternative music world in the U.S. So there's hopefully a master somewhere of this, on cassette or LP or whatever they used to distro to radio stations.
+
+=========================================================================================================================
+Further notes from TLH:
+
+1-01 Radio Intro.flac:  successfully decoded to '1-01 Radio Intro.wav'.
+1-02 Romance.flac:  successfully decoded to '1-02 Romance.wav'.
+1-03 1,000,000.flac:  successfully decoded to '1-03 1,000,000.wav'.
+1-04 Pretty Persuasion.flac:  successfully decoded to '1-04 Pretty Persuasion.wav'.
+1-05 Ages Of You.flac:  successfully decoded to '1-05 Ages Of You.wav'.
+1-06 Pilgrimage.flac:  successfully decoded to '1-06 Pilgrimage.wav'.
+1-07 Wolves, Lower.flac:  successfully decoded to '1-07 Wolves, Lower.wav'.
+1-08 Laughing.flac:  successfully decoded to '1-08 Laughing.wav'.
+1-09 Sitting Still.flac:  successfully decoded to '1-09 Sitting Still.wav'.
+1-10 Catapult.flac:  successfully decoded to '1-10 Catapult.wav'.
+1-11 West Of The Fields.flac:  successfully decoded to '1-11 West Of The Fields.wav'.
+1-12 Carnival Of Sorts (Box Cars).flac:  successfully decoded to '1-12 Carnival Of Sorts (Box Cars).wav'.
+1-13 Radio Free Europe.flac:  successfully decoded to '1-13 Radio Free Europe.wav'.
+1-14 Radio Outro.flac:  successfully decoded to '1-14 Radio Outro.wav'.
+
+No errors occured.
+1-01 Radio Intro.wav:  track looks like CDDA with probability 100%.
+1-02 Romance.wav:  track looks like CDDA with probability 100%.
+1-03 1,000,000.wav:  track looks like CDDA with probability 100%.
+1-04 Pretty Persuasion.wav:  track looks like CDDA with probability 100%.
+1-05 Ages Of You.wav:  track looks like CDDA with probability 100%.
+1-06 Pilgrimage.wav:  track looks like CDDA with probability 99%.
+1-07 Wolves, Lower.wav:  track looks like CDDA with probability 100%.
+1-08 Laughing.wav:  track looks like CDDA with probability 99%.
+1-09 Sitting Still.wav:  track looks like CDDA with probability 100%.
+1-10 Catapult.wav:  track looks like CDDA with probability 100%.
+1-11 West Of The Fields.wav:  track looks like CDDA with probability 100%.
+1-12 Carnival Of Sorts (Box Cars).wav:  track looks like CDDA with probability 100%.
+1-13 Radio Free Europe.wav:  track looks like CDDA with probability 100%.
+1-14 Radio Outro.wav:  track looks like CDDA with probability 100%.
+
+No errors occured.
+
+3ea5ce6a630bc6d3e6733af5bffbeff0 *1-01 Radio Intro.flac
+facf3cb3aad58b23316d039ef8d5cafb *1-02 Romance.flac
+57eeacbeab97799206e93448f7324705 *1-03 1,000,000.flac
+4d10794458358d147655717e1af43ce8 *1-04 Pretty Persuasion.flac
+26c652ffef542f3f50178fc6e840399c *1-05 Ages Of You.flac
+154ec0a5366dca6cc85a08efb00d3cf7 *1-06 Pilgrimage.flac
+5024e34e06ebe8867261264dc779d12e *1-07 Wolves, Lower.flac
+087c70b9a42b4bace162008c9947c4df *1-08 Laughing.flac
+99adf85d0e0aab3850cd17af67422525 *1-09 Sitting Still.flac
+f1191667fbcebb6e459ada282fa4451e *1-10 Catapult.flac
+b5a223e7ffa17266860a0fd5610e32fc *1-11 West Of The Fields.flac
+4625c30facb3693148418f78d487d47c *1-12 Carnival Of Sorts (Box Cars).flac
+8e0efbd03d5ea639cf9c034f61158f5b *1-13 Radio Free Europe.flac
+928e94d4a861f096df90e1b679f3131f *1-14 Radio Outro.flac
+b3e9ef5cfa7c42a723af0c2f146a9157 *folder.jpg
+c6a0bbb78330c6dd82a399fac2f2fbfd *info.txt
+
+No errors occured.
+
+Create checksum file log saved to file.
+
+
+
+
+
+    

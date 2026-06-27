@@ -1,0 +1,29 @@
+REM
+Roskilde Festival, DK
+1995-06-29
+
+source: sony wm-d3->cassette
+transfer: master->sherwood hx-pro>aux->hd->cep->cdwavc->flac
+
+01. What's the frequenzy Kenneth
+02. Crush With Eyeliner
+03. Drive
+04. Turn You Inside-Out
+05. Bang And Blame
+06. Undertow
+07. I Took Your Name
+08. Strange Currencies
+09. I Don't Sleep, I Dream
+10. Revolution
+11. Tongue
+12. Man On The Moon
+13. Losing My Religion
+14. Departure
+15. Pop Song 89
+16. Finest Worksong
+17. Get Up
+18. Star 69 
+---
+19. Let Me In
+20. Everybody Hurts
+21. It's The End Of The World As We Know It (And I Feel Fine)

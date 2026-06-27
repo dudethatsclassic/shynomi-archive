@@ -1,0 +1,102 @@
+R.E.M
+Paradise Rock Club
+Boston, Massachusetts
+July 13, 1983
+WBCN re-broadcast, unknown date
+
+## RESEED - all original files intact except new checksum files ##
+
+Source: FM Rebroadcast WBCN > DAT
+Dat provided by Matt Field
+Transfer: Panasonic SV-3700 > UA-5 > USB > WaveLab @[16/48]
+Mastering in WaveLab with iZotope Ozone 4 dithered to [16/44.1] > CD Wave > TLH > Flac
+Transfer and mastering by Bill Koucky March 10, 2009
+February 2014 reseed: new checksum files to replace originals which did not match 
+the finished original seed because they included omitted tracks.
+Many thanks to the creators, Matt Field and Bill Koucky.
+
+01. Intro 0:27
+02. Gardening At Night 3:36
+03. 9-9 3:03
+04. Happy Birthday > 0:29
+05. Moral Kiosk 3:19
+06. Laughing 3:51
+07. Pilgrimage 4:19
+08. Seven Chinese Brothers 4:16
+09. Talk About The Passion 2:58
+10. Wolves, Lower 5:17
+11. Harborcoat 4:00
+12. Sitting Still 3:49
+13. Pretty Persuasion 4:08
+14. Catapult 4:04
+15. Just A Touch 2:37
+16. West of The Fields > 2:58
+17. Radio Free Europe 3:47
+18. White Tornado 2:19
+-   Ages Of You  <--omitted
+-   We Walk  <--omitted
+-   1,000,000  <--omitted
+19. station ID - 1:35
+20. California Dreamin' 2:18
+21. Carnival Of Sorts (Boxcars) 4:20
+
+Time:	67:43 (77:54 before the 3 tracks were omitted)
+
+
+Note:
+"Ages Of You", "We Walk" and "1,000,000" were officially-released 
+(and are thus omitted here):
+
+http://en.wikipedia.org/wiki/And_I_Feel_Fine..._The_Best_of_the_I.R.S._Years_1982-1987
+
+
+--
+ffp
+rem1983-07-13t01.flac:e55d49d68209c505684e5a12805555f4
+rem1983-07-13t02.flac:e79c77fe484244d3e74f1c2f8e1a2d2a
+rem1983-07-13t03.flac:c3324092c8e10f4f18e470ce67348a25
+rem1983-07-13t04.flac:97bb97a3160301129844757e46afdae8
+rem1983-07-13t05.flac:3801fe87d7fa4447c93a0065e7aa3bc8
+rem1983-07-13t06.flac:5957a8d4f31695c3ce200a57bf1751f3
+rem1983-07-13t07.flac:cef89faf189200d3f357d10b82476b6b
+rem1983-07-13t08.flac:6ea170e2d193724c848007937bb6c0a1
+rem1983-07-13t09.flac:204149b5d1257552de00e6fbb63b9c8d
+rem1983-07-13t10.flac:29ae709c9cb185e13eac4edfe96b1533
+rem1983-07-13t11.flac:63e21111b53e8c8102cbd5e7d1f8a61e
+rem1983-07-13t12.flac:26037539b7254cd1b3286d31a4275846
+rem1983-07-13t13.flac:1dd9c574f09836f22c583002af72b2e7
+rem1983-07-13t14.flac:121b2879857b6c061ce6562fad47837e
+rem1983-07-13t15.flac:ffbe2556a9442ea4178be517ce66e6c2
+rem1983-07-13t16.flac:0245698b85f3796b3ff4f2980b5f993c
+rem1983-07-13t17.flac:23a2d4a07d70570ab46bf9e8756d1162
+rem1983-07-13t18.flac:d5b0718b15fa1b885516d86ef3662ff1
+rem1983-07-13t22.flac:9b2b4d617cb680d22d60f0b006da0afb
+rem1983-07-13t23.flac:3a78ae4aee731dce9e702c925e3182ea
+rem1983-07-13t24.flac:fe983da2bd0ee586c8eae115a46f4567
+----
+---
+st5
+e55d49d68209c505684e5a12805555f4  [shntool]  rem1983-07-13t01.flac
+e79c77fe484244d3e74f1c2f8e1a2d2a  [shntool]  rem1983-07-13t02.flac
+c3324092c8e10f4f18e470ce67348a25  [shntool]  rem1983-07-13t03.flac
+97bb97a3160301129844757e46afdae8  [shntool]  rem1983-07-13t04.flac
+3801fe87d7fa4447c93a0065e7aa3bc8  [shntool]  rem1983-07-13t05.flac
+5957a8d4f31695c3ce200a57bf1751f3  [shntool]  rem1983-07-13t06.flac
+cef89faf189200d3f357d10b82476b6b  [shntool]  rem1983-07-13t07.flac
+6ea170e2d193724c848007937bb6c0a1  [shntool]  rem1983-07-13t08.flac
+204149b5d1257552de00e6fbb63b9c8d  [shntool]  rem1983-07-13t09.flac
+29ae709c9cb185e13eac4edfe96b1533  [shntool]  rem1983-07-13t10.flac
+63e21111b53e8c8102cbd5e7d1f8a61e  [shntool]  rem1983-07-13t11.flac
+26037539b7254cd1b3286d31a4275846  [shntool]  rem1983-07-13t12.flac
+1dd9c574f09836f22c583002af72b2e7  [shntool]  rem1983-07-13t13.flac
+121b2879857b6c061ce6562fad47837e  [shntool]  rem1983-07-13t14.flac
+ffbe2556a9442ea4178be517ce66e6c2  [shntool]  rem1983-07-13t15.flac
+0245698b85f3796b3ff4f2980b5f993c  [shntool]  rem1983-07-13t16.flac
+23a2d4a07d70570ab46bf9e8756d1162  [shntool]  rem1983-07-13t17.flac
+d5b0718b15fa1b885516d86ef3662ff1  [shntool]  rem1983-07-13t18.flac
+9b2b4d617cb680d22d60f0b006da0afb  [shntool]  rem1983-07-13t22.flac
+3a78ae4aee731dce9e702c925e3182ea  [shntool]  rem1983-07-13t23.flac
+fe983da2bd0ee586c8eae115a46f4567  [shntool]  rem1983-07-13t24.flac
+-----
+a Zootype reseed- February 2014
+------

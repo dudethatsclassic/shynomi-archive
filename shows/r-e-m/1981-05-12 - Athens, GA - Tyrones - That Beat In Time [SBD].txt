@@ -1,0 +1,57 @@
+--Begin
+R.E.M. That Beat in Time OMKCD001
+Tyrone's, Athens, GA
+May 12, 1981 (Source: Marcus Gray's "An R.E.M. Companion It Crawled from The South")
+Source: CD WAV -> EAC WAV -> winAmp FLAC (level 6)
+
+1. Hey! Hey! Nadine
+2. Burning Down
+3. Dangerous Times
+4. There She Goes Again
+5. (Don't Go Back to) Rockville
+6. Body Count
+7. Just a Touch
+8. Sitting Still
+9. Permanent Vacation
+10. Get on Their Way
+11. Shaking Through
+12. Romance
+13. Laughing
+14. Pretty Persuasion
+15. That Beat
+16. Stumble
+17. Radio Free Europe
+18. Carnival of Sorts (Boxcar)
+19. Skank
+20. Windout
+21. Gardening at Night
+22. White Tornado
+
+Notes/Flaws: No issues. Artwork included.
+
+Transfered and seeded to Bootcity.Org on 2006-12-09 by Paul Morrison
+
+MD5 Signature
+1e0af09f2a498f9d19eacc4c44f4d897 *01 Hey! Hey! Nadine.flac
+d8b352aa9ec77d2879ba9d66766f7a55 *02 Burning Down.flac
+b5fa6519799c8adf04ca5452f08a0d8b *03 Dangerous Times.flac
+8b1960cb9ab7b9cdcecbb075e40299b6 *04 There She Goes Again.flac
+9ad316586f96e1beadb268c1e8da45d7 *05 (Don't Go Back To) Rockville.flac
+3ba95a479004afd729546b9144f90bd7 *06 Body Count.flac
+7847d7a1dc8ec8562be127e5354f4209 *07 Just A Touch.flac
+ba05ff6ade7617a24a6280c9b20fd351 *08 Sitting Still.flac
+e04beef299fb7e23d9c6ac137e4b40ad *09 Permanent Vacation.flac
+cd05dc1bc6871870cce634321703cda8 *10 Get On Their Way.flac
+4122317eac54c3b8a178cc411e7c7c66 *11 Shaking Through.flac
+f18229afda5bd8cd561c1609ff5384cf *12 Romance.flac
+64e10fe8022e110ebce40ef21393bc1b *13 Laughing.flac
+18aeaaffce576975c4d60f33496ccde6 *14 Pretty Persuasion.flac
+3b057bc391e2ad75be9b309a3446a832 *15 That Beat.flac
+4d85ec4ac38e57910a344ce0e00b9b1f *16 Stumble.flac
+6154f0461462620c92b9aca5bea61dc9 *17 Radio Free Europe.flac
+9301d2c2563bc15c31728d069cc92f01 *18 Carnival Of Sorts (Boxcars).flac
+4725e15674345ca9006aa0e41a529048 *19 Skank.flac
+fda719cd3698d0843bebef7d95fa7876 *20 Windout.flac
+f7e0e706fd22546588769a9db8b4eed8 *21 Gardening At Night.flac
+b8c4f81e7c3d075faac23cec0a1551f0 *22 White Tornado.flac
+--End

@@ -1,0 +1,31 @@
+d01t01 These Days.flac:  successfully fixed/rewritten to 'd01t01 These Days-fixed.flac'.
+d01t02 Moral Kiosk.flac:  successfully fixed/rewritten to 'd01t02 Moral Kiosk-fixed.flac'.
+d01t03 Maps And Legends.flac:  successfully fixed/rewritten to 'd01t03 Maps And Legends-fixed.flac'.
+d01t04 Hyena.flac:  successfully fixed/rewritten to 'd01t04 Hyena-fixed.flac'.
+d01t05 No Mo' Show.flac:  successfully fixed/rewritten to 'd01t05 No Mo' Show-fixed.flac'.
+d01t06 Femme Fatale.flac:  successfully fixed/rewritten to 'd01t06 Femme Fatale-fixed.flac'.
+d01t07 The One I Love.flac:  successfully fixed/rewritten to 'd01t07 The One I Love-fixed.flac'.
+d01t08 Feeling Gravity's Pull.flac:  successfully fixed/rewritten to 'd01t08 Feeling Gravity's Pull-fixed.flac'.
+d01t09 The Flowers of Guatemala .flac:  successfully fixed/rewritten to 'd01t09 The Flowers of Guatemala -fixed.flac'.
+d01t10 Ghost Riders In The Sky.flac:  successfully fixed/rewritten to 'd01t10 Ghost Riders In The Sky-fixed.flac'.
+d01t11 I Believe.flac:  successfully fixed/rewritten to 'd01t11 I Believe-fixed.flac'.
+d01t12 Swan Swan H.flac:  successfully fixed/rewritten to 'd01t12 Swan Swan H-fixed.flac'.
+d01t13 Superman.flac:  successfully fixed/rewritten to 'd01t13 Superman-fixed.flac'.
+d01t14 Can't Get There From Here.flac:  successfully fixed/rewritten to 'd01t14 Can't Get There From Here-fixed.flac'.
+d01t15 Old Man Kensey.flac:  successfully fixed/rewritten to 'd01t15 Old Man Kensey-fixed.flac'.
+d01t16 Pretty Persuasion.flac:  successfully fixed/rewritten to 'd01t16 Pretty Persuasion-fixed.flac'.
+d01t17 Auctioneer (Another Engine).flac:  successfully fixed/rewritten to 'd01t17 Auctioneer (Another Engine)-fixed.flac'.
+d01t18 Life And How To Live It.flac:  successfully fixed/rewritten to 'd01t18 Life And How To Live It-fixed.flac'.
+d02t01 Fall On Me.flac:  successfully fixed/rewritten to 'd02t01 Fall On Me-fixed.flac'.
+d02t02 Cuyahoga.flac:  successfully fixed/rewritten to 'd02t02 Cuyahoga-fixed.flac'.
+d02t03 Spooky.flac:  successfully fixed/rewritten to 'd02t03 Spooky-fixed.flac'.
+d02t04 We Walk.flac:  successfully fixed/rewritten to 'd02t04 We Walk-fixed.flac'.
+d02t05 1,000,000.flac:  successfully fixed/rewritten to 'd02t05 1,000,000-fixed.flac'.
+d02t06 Oddfellows Local 151.flac:  successfully fixed/rewritten to 'd02t06 Oddfellows Local 151-fixed.flac'.
+d02t07 Begin The Begin.flac:  successfully fixed/rewritten to 'd02t07 Begin The Begin-fixed.flac'.
+d02t08 (Don't Go Back To) Rockville.flac:  successfully fixed/rewritten to 'd02t08 (Don't Go Back To) Rockville-fixed.flac'.
+d02t09 Born To Run.flac:  successfully fixed/rewritten to 'd02t09 Born To Run-fixed.flac'.
+d02t10 Lightin' Hopkins.flac:  successfully fixed/rewritten to 'd02t10 Lightin' Hopkins-fixed.flac'.
+d02t11 Moon River.flac:  successfully fixed/rewritten to 'd02t11 Moon River-fixed.flac'.
+
+Padded last file with 2312 zero-bytes.

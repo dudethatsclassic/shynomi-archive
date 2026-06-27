@@ -1,0 +1,115 @@
+Venue: Shoreline Amphitheatre
+City:  Mountain View,Ca
+Date:  October 21, 1989
+Taper: Persic
+Source:Nakamichi cm300 > sony tcd5m
+      transfer fom master cassettes
+
+Disc One:
+01 Stand
+02 The One I Love
+03 So. Central Rain
+04 Turn You Inside-Out
+05 Belong
+06 Orange Crush
+07 Good Advices
+08 Exhuming McCarthy
+09 Feeling Gravitys Pull
+10 World Leader Pretend
+11 These Days
+12 Pilgrimage
+13 Future 40s (String Of Pearls)>
+  I Believe
+14 I Remember California
+15 Get Up
+16 Auctioneer (Another Engine)
+17 It's The End Of The World As We Know It (And I Feel Fine)
+
+Disc Two:
+encore:
+01 Pop Song 89
+02 Fall On Me
+03 You Are The Everything
+04 Harpers
+05 Begin The Begin
+06 King Of Birds
+07 See No Evil
+08 Low
+09 Finest Worksong
+10 Perfect Circle
+11 After Hours
+
+Venue: Shoreline Amphitheatre
+City:  Mountain View,Ca
+Date:  October 21, 1989
+Taper: WTFK
+Source:Soundboard
+
+Disc Three:
+01 World Leader Pretend
+02 These Days
+03 Pilgrimage
+04 Future 40s (String Of Pearls)>
+  I Believe
+05 I Remember California
+06 //It's The End Of The World As We Know It (And I Feel Fine)
+encore:
+07 Pop Song 89
+08 Fall On Me
+09 You Are The Everything
+10 Harpers
+11 Begin The Begin
+12 (this should be deleted-as it is repeated first notes of track 13)
+13 King Of Birds
+14 See No Evil
+15 Low
+16 Thanks To NRBQ & Plea For Earthquake Releif Fund Contributions &
+Greenpeace Info
+17 Finest Worksong
+18 Perfect Circle
+19 After Hours
+
+rem1989-10-21d1t05.flac:4950f77f6e6626861ab4663dbfcaaae9
+rem1989-10-21d1t06.flac:98d47b29e47d1b841cb960ea0c96a98e
+rem1989-10-21d1t07.flac:029fa0f9e95b569d4595a1b43f65e797
+rem1989-10-21d1t08.flac:c3fe699f637d53cbd49ee57b9dfcfde9
+rem1989-10-21d1t09.flac:0fa6b439dd8b993e0411ae3aa0d4815c
+rem1989-10-21d1t10.flac:8af762d115307d295c70d8003eaa5b9e
+rem1989-10-21d1t11.flac:17e500bbb22c6f4631f99a542f8d3b39
+rem1989-10-21d1t12.flac:5a2ce150f3bbe231e52454715ef5bd17
+rem1989-10-21d1t13.flac:155981d141883e6af85835d01473dda6
+rem1989-10-21d1t14.flac:0700e2fa337339ebb90c832e440a04fc
+rem1989-10-21d1t15.flac:f055bad0160c3ecfb8be6dd9788720ad
+rem1989-10-21d1t16.flac:8fd10af92d3b5a9e11e51e1d76e1159b
+rem1989-10-21d1t17.flac:b31c6d2ea63c03e3345d8e829e14ca9b
+rem1989-10-21d2t01.flac:b1e17322d3efa345091cba38ac3b8545
+rem1989-10-21d2t02.flac:9d06396cf9d75ddb044486b6b6cd1ceb
+rem1989-10-21d2t03.flac:9a46eb362e68c1d54d3e207ed0f827a4
+rem1989-10-21d2t04.flac:64ba4bd21f028b91ba42c0d26fe91336
+rem1989-10-21d2t05.flac:54150602f75d72e1e022bfbd03918604
+rem1989-10-21d2t06.flac:86c9b64b3b0376b2f28680a53a8b689e
+rem1989-10-21d2t07.flac:3ced2d7fa9273754ae42f84a64b7a5c1
+rem1989-10-21d2t08.flac:03d0e27d60f18c9a0af69b2e6caf5ea6
+rem1989-10-21d2t09.flac:f9468ac6de5bf1b311f1c2319d76857a
+rem1989-10-21d2t10.flac:c0eee91ed1d0aeef7f1ca9d4fdc6dc2d
+rem1989-10-21d2t11.flac:d90cd1c708ca9689e2aac2e13cf7e028
+rem1989-10-21d3t01.flac:904666e496e3db438f646cbd6ae57676
+rem1989-10-21d3t02.flac:ab28e39f2b132e3a045f6fe45613f589
+rem1989-10-21d3t03.flac:34f61fc529e0a80b0a542ec42368eea1
+rem1989-10-21d3t04.flac:659fc246a3beb5e86ef7830b7daa9c24
+rem1989-10-21d3t05.flac:d971abaa0483acefa754236f2b2382de
+rem1989-10-21d3t06.flac:6d9938c468516535a289dad1fb1e2e2a
+rem1989-10-21d3t07.flac:abded5089eea87e5ca968924476f3de6
+rem1989-10-21d3t08.flac:d2558362667a11a0490b49018c8a8f52
+rem1989-10-21d3t09.flac:d06b2463684f0ed4fc5024943c6aff9a
+rem1989-10-21d3t10.flac:9947fba820408e7f0fe743a5d818442e
+rem1989-10-21d3t11.flac:fabbd75b16a9efd34e327f94f42a2381
+rem1989-10-21d3t12.flac:4186ce5a2ff9b361c2156d8d6781ac94
+rem1989-10-21d3t13.flac:4aa65ad4bd988ef8d0cc693214cdb061
+rem1989-10-21d3t14.flac:42afb7f180d1f7509d9db35b97cc12a7
+rem1989-10-21d3t15.flac:7cf73b29cd1c446f2258a604f1f91821
+rem1989-10-21d3t16.flac:6a6931127aa804d24c0c3a6fc4695fab
+rem1989-10-21d3t17.flac:fc834b7d9bb2dfe7c76800758664da43
+rem1989-10-21d3t18.flac:f26292f523db56c24575fdf8a389d9d1
+
+

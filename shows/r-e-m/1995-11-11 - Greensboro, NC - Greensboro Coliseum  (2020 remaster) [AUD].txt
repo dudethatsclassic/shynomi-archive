@@ -1,0 +1,61 @@
+R.E.M.
+Greensboro Coliseum
+Greensboro, NC 
+Saturday 11 November 1995
+
+Original Lineage: Analog master -> WAV (CDwave) -> SHN (mkw) -> WAW (TLH) -> FLAC (TLH)
+
+Eckythump November 2020 remaster: iZotope RX8 Advanced (various adjustments) -> iZotope Ozone 9 (EQ adjustments) -> Audacity 2.4.2 (split tracks and export to FLAC Level 8) -> Traders Little Helper 2.8.4 (Fix SBE's, ffp and md5 files) -> foobar2000 1.6.2 (files tagged)
+
+Track List:
+
+01 - What's The Frequency, Kenneth?
+02 - Crush With Eyeliner
+03 - Drive
+04 - Turn You Inside-Out
+05 - Welcome To The Occupation
+06 - The Wake-Up Bomb
+07 - Undertow
+08 - Losing My Religion*
+09 - Binky The Doormat* (tape flip at end of song)
+10 - Me In Honey
+11 - Strange Currencies
+12 - Revolution
+13 - Tongue
+14 - Man On The Moon
+15 - Country Feedback
+16 - The One I Love
+17 - Pop Song 89
+18 - Get Up
+19 - Star 69 (tape flip 47 seconds in, small piece missing)
+
+Encore
+20 - Let Me In
+21 - Everybody Hurts*
+22 - Java - Band intros
+23 - Fall On Me
+24 - Departure
+25 - Another Girl, Another Planet - Speed Racer - Ghost Rider
+26 - It's The End Of The World As We Know It (And I Feel Fine)
+
+Michael Stipe - Vocals
+Peter Buck - Guitar, mandolin
+Mike Mills - Bass Guitar, backing vocals 
+Bill Berry - Drums, backing vocals
+Scott McCaughey - Guitar, keyboards, backing vocals
+Nathan December - Guitar
+* Amanda Brown - Violin
+
+Show notes: The 124th out of 130 show on the very long and illness plagued Monster tour sees the band playing a town very familiar to them from their very early days, with Michael referencing the 'pizza parlour' they played (Friday's) during the show. North Carolina was like a second home to the band back in the very early days; if the band were getting tired of being on the road, the energy of the quasi hometown crowd helped lift them and they played a superb show. By this leg of the tour there were 5 unreleased songs in the set, 4 of which went on to feature on their 'New Adventures In Hi-Fi' masterpiece the following year, and seemed to go down very well with the crowd. And thanks to Dime user nakeddave, we know Peter's Country Feedback solo lasted 1 minute and 16 seconds here. These things are important to know. Thanks Dave. Also, see if you can spot the Beatles riff Peter put into 'Get Up'. This was the time of the Beatles anthology coming out, and no doubt Peter was going to be watching.
+
+Amanda Brown joined the band on violin for the final 8 shows of the tour, this being the third, and she while her role would increase later on, here she plays on just 3 songs. For those unfamiliar with Amanda, she was formerly of the brilliant Australian band The Go-Betweens, who supported R.E.M. across Australia and various European shows in 1989. Amanda can also be seen on the 'Road Movie' video that combines the 3 Atlanta shows from the tour. She's a brilliant musician, and while she adds a lot to these 3 songs, she really excelled on later shows when they added Find The River and Nightswimming to the set. But that wasn't for this show.
+
+During the second US leg of the tour the band frequently began to play short cover songs during the encore; the Al Hirt song 'Java' was regularly played to introduce the musicians on stage, and on this night the audience was treated to The Only Ones classic 'Another Girl, Another Planet', with Michael throwing in a snippet of 'Speed Racer' and then seguing into 'Ghost Rider'. It was a breath of fresh air on a tour where setlists didn't regularly vary as much as they had in past years.
+
+As a side note, if you're into drinking games, have a drink every time Michael asks the audience to take their clothes off. You'll be drunk pretty quickly!
+
+Recording notes: This is a decent recording, not the best of the Monster tour, but certainly not the worst. The audience energy is captured very well, and clearly the taper is in the thick of the action, and probably not in a sweet spot. The taper can also be heard talking during Me In Honey, telling his friend Tom he's taping the show he's not going anywhere, and there's some audience singing at times, but it's not too bad. I gave it a run through iZotope to try and improve it, and I think it's a pretty enjoyable listen. There's a small cut in Star 69 for a tape flip, but otherwise the show is complete.
+
+Torrent notes: This show has been on Dime a few times before by raya, who in their notes said they originally downloaded it in June 2004, seeded it on Dime in September 2008, and reseeded in February 2012. With the 25th anniversary just occurring, I thought it was time for another run on Dime. I also included a couple of ticket scans from the show. Enjoy!
+
+http://remtimeline.com/ for all your R.E.M. needs!

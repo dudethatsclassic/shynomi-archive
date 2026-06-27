@@ -1,0 +1,46 @@
+R.E.M.
+October 22nd, 1987
+Louis Brown Athletic Center, Rutgers University, Piscataway, NJ
+
+Master:
+FOB Nakamichi CM100/cp1's>Sony WM-D6>Cass(m), Nak DR-2>Tascam CDRW2000>CD
+by Jon Pasternak
+
+Extraction:
+CD>xACT 2.00a (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+Disc 1 [43:16.18]
+01. Finest Worksong                          [04:12.17]
+02. These Days                               [03:33.32]
+03. Welcome To The Occupation                [03:01.67]
+04. Disturbance At The Heron House           [03:23.64]
+05. Exhuming McCarthy                        [03:25.51]
+06. Orange Crush                             [03:23.39]
+07. Feeling Gravitys Pull                    [05:02.50]
+08. King Of Birds                            [04:48.12]
+09. Tired Of Singing Trouble/I Believe       [04:42.14]
+10. Title                                    [03:46.38]
+11. Driver 8*                                [03:56.09]
+
+Disc 2 [43:06.52]
+01. //White Tornado                          [00:53.65]
+02. Superman                                 [02:54.35]
+03. Pretty Persuasion                        [03:49.69]
+04. Oddfellows Local 151                     [06:01.14]
+05. It's The End Of The World As We Know It  [05:26.19]
+06. Begin The Begin                          [03:20.63]
+07. E1: Strange                              [03:04.20]
+08.     Swan Swan H#                         [03:24.25]
+09.     Fall On Me                           [02:52.74]
+10. E2: Auctioneer (Another Engine)          [02:34.57]
+11.     Midnight Blue$                       [03:16.33]
+12. E3: Harpers/The One I Love               [05:27.28]
+
+* Michael sings the first verse solo
+# with Natalie Merchant on vocals
+$ Michael is hit in the face with a glowstick
+
+Notes:
+- The last three songs of the 3rd encore (Crazy, See No Evil, 1,000,000) were
+  not recorded.

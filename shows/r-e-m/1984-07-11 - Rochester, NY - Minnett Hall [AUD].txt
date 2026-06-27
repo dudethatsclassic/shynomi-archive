@@ -1,0 +1,51 @@
+R.E.M. -  11 July 1984 - Minnett Hall, Rochester, NY 1984-07-11
+
+set: 
+Disc One
+Femme Fatale
+Second Guessing
+Wolves, Lower
+Hyena
+Letter Never Sent
+Camera
+Talk About The Passion
+Driver 8
+So. Central Rain
+Sitting Still
+Crazy
+Gardening At Night
+9-9
+
+Disc Two
+Windout
+Old Man Kensey
+Pretty Persuasion
+Radio Free Europe
+Little America
+encore 1: 
+20th Century Boy
+(Don't Go Back To) Rockville
+We Walk
+Moral Kiosk
+encore 2: 
+So You Want To Be A Rock'n'Roll Star
+Carnival Of Sorts (Boxcars)
+Skank
+
+support: Dream Syndicate 
+audience: 600
+
+Above info courtesy www.remtimeline.com  
+
+
+Whoever originally transferred this recording  did three things:
+
+They failed to spot that it was playing about half a semitone fast
+They faded out the end of 9-9 at the end of Disc One
+They faded in the beginning of Windout at the start of Disc Two
+
+I extracted the wav files again and batch processed them all using Cool Edit 2000 to stretch them to 103% which fixed the first issue.  Nothing I  can do about the other two issues though -  sorry. 
+
+This is an above average audience recording and, apart frm the couple of clumsy fades, appears to be the complete show, 
+
+Audience recording >> ??? >> CD-R >>> EAC >>> Cool Edit 2000 (as above) TLH >>> Flac6.  Everything else was done with TLH 

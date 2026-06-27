@@ -1,0 +1,58 @@
+Sept 5, 2020 notes:
+Received a request to upload this show to Dime, but upon review there were sbe issues with every track, and the md5 signature failed verification.
+In addition to the lineage identified below in the orginal info file, the following has been done to these files:
+flac16 files > flac frontend [wav16] > TLH [fix sbe's] > flac frontend [flac16] > foobar2000 [tagging]
+Files renamed, sub-directories removed, new ffp & md5 files have also been created
+Below is the original text provided by the taper
+
+----------
+
+R.E.M.
+Residenzplatz
+Würzburg
+Germany
+22.08.2008
+
+Audience recording by Patrick (remfan72.net) 
+
+Lineage: 
+
+1-ISI-SEHM-1-Innovative Specialists Binaural Ear Mounted Microphones 
+(TFB-2 cardioid) Deluxe Audio Technica Cardioid > 1-SP-SPSB-6-Battery 
+Box with Bass Roll Off (set at 107 Hz) > Edirol R09 (WAV, 16 bit, 44,1 kHz) 
+> USB transfer to PC > Audacity > flac frontend > MakeTorrent 2
+
+Setlist:
+
+01. Living Well Is The Best Revenge
+02. Second Guessing
+03. What's The Frequency, Kenneth?
+04. The Wake-Up Bomb
+05. Drive
+06. Man Sized Wreath
+07. Seven Chinese Brothers
+08. The Great Beyond
+09. Hollow Man
+10. Walk Unafraid
+11. Ignoreland
+12. Electrolite
+13. Maps And Legends
+14. Animal
+15. Time After Time
+16. The One I Love
+17. Nightswimming
+18. Let me In
+19. Bad Day
+20. I'm Gonna DJ
+21. Orange Crush
+22. Imitation Of Life
+23. crowd
+
+encore:
+
+24. Supernatural Superserious
+25. Losing My Religion
+26. (Don't Go Back To) Rockville
+27. band intro
+28. It's The End Of The World As We Know It (And I Feel Fine)
+29. Man On The Moon
