@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-11-03 - San Francisco, CA - The Warfield (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 1995,
@@ -31,7 +32,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "",
       "format": ""
     }

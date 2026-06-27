@@ -1,0 +1,25 @@
+EOB (Ed O'Brien)
+10 Mars 2020
+Yoyo,
+Paris, France
+
+SETLIST (34:33)
+---------------
+01. Mass
+02. Shangri-La
+03. Olympik
+04. Sail On
+05. Brasil
+
+LINEAGE
+-------
+DVB-C [Stingray Festival 4K] > .TS > .MKV
+
+STREAM INFOS
+------------
+Video : 20000kbps 3820x2160 HEVC 50fps
+Audio : 128kbps 48kHz 2.0 AAC LC
+
+NOTES
+-----
+Diffusion du 5 Juillet 2022

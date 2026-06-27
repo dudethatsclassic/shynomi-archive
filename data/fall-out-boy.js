@@ -22,7 +22,8 @@ const ARTIST_DATA = {
       "venue": "Theater Rex",
       "notes": "Analog FM",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-08-20 - Wuppertal, GER - Theater Rex [FM].txt"
     },
     {
       "year": 2018,
@@ -35,7 +36,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival Main Stage",
       "notes": "720",
       "version": "WEB",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2018-08-24 - Reading, UK - Reading Festival Main Stage (720) [MKV].txt"
     },
     {
       "year": 2021,
@@ -46,9 +48,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Oracle Park",
-      "notes": "AT853s · tj",
+      "notes": "AT853s \u00b7 tj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-08-27 - San Francisco, CA - Oracle Park (AT853s) (tj) [AUD].txt"
     },
     {
       "year": 2021,
@@ -61,7 +64,8 @@ const ARTIST_DATA = {
       "venue": "Dodger Stadium",
       "notes": "SP-CMC-4U",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-09-03 - Los Angeles, CA - Dodger Stadium (SP-CMC-4U) [AUD].txt"
     }
   ],
   "misc": []

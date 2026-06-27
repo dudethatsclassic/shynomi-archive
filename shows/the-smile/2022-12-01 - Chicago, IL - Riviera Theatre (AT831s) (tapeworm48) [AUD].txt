@@ -1,0 +1,42 @@
+
+The Smile
+Riviera Theatre: Chicago, IL
+December 1, 2022
+
+Source: AT831s > SP-SPSB-11 (@69Hz) > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: FOB ~25' left PA
+Transfer: M10 > USB > Audacity > xACT 2.50
+Edits/EQ: +2dB
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 The Same (~80s cut)
+03 Thin Thing
+04 The Opposite
+05 Speech Bubbles
+06 Free in the Knowledge
+07 A Hairdryer
+08 Waving a White Flag
+09 Colours Fly
+10 We Don't Know What Tomorrow Brings
+11 Bodies Laughing
+12 Bending Hectic
+13 Skrting on the Surface
+14 Pana-Vision
+15 The Smoke
+16 You Will Never Work in Television Again
+17 -encore break-
+18 Open the Floodgates
+19 Read the Room
+20 Feeling Pulled Apart by Horses [Thom Yorke]
+
+Notes: The first US tour for this band. Robert Stillman was the opening act (not recorded) and performed on a few songs during the set. 1st song has an 80 second cut in it due to a loose cable. Applied click removal at the end of the show to remove excessive clapping. M10 set at 5. Raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 12/2/2022
+
+*** DO NOT REMASTER WITHOUT PERMISSION. DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

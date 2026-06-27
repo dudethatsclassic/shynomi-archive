@@ -1,0 +1,29 @@
+The Smile
+Roskilde Festival, DK
+2022-07-01
+
+Source: ca14->ca9100->sony pcm-m10 -> wav (48 khz/24 bit)
+Transfer: sony pcm-m10->hd->cep->cdwav (44,1 khz/16 bit)->flac 
+
+[Arena Stage]
+
+01. Intro
+02. The Same
+03. Thin Thing
+04. The Opposite
+05. Free in the Knowledge
+06. A Hairdryer
+07. Waving a White Flag
+08. Colours Fly
+09. We Don't Know What Tomorrow Brings
+10. Skrting on the Surface
+11. Speech Bubbles
+12. Bodies Laughing
+13. The Smoke
+14. You Will Never Work in Television Again
+15. Pana-Vision
+16. Just Eyes and Mouth
+17. Feeling Pulled Apart by Horses (Thom Yorke song)
+
+
+

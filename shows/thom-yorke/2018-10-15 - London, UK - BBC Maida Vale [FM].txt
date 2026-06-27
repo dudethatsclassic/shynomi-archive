@@ -1,0 +1,35 @@
+Thom Yorke
+
+BBC Maida Vale studios
+London
+UK
+
+Monday 15th October 2018
+
+Pre-recorded session and interview for Mary Anne Hobbs BBC 6Music show
+Broadcast Sunday 28th October 2018
+https://www.bbc.co.uk/programmes/m0000xg6
+
+
+BBC iPlayer archive stream > get_iplayer > .ts (320kbps/48k) > ffmpeg (trimming)
+
+
+01 intro / interview / Open Again / interview / Unmade
+02 interview / Suspirium
+
+
+Running time [28:16]
+
+
+Mary Anne hosts a special session from Thom Yorke at Maida Vale.
+Join us for this spellbinding performance, which includes tracks from the score Thom wrote for the horror movie 'Suspiria'.
+In a special interview for Weekend Breakfast, you can hear what Thom has to say about the experience of writing for the big screen - including performing with both his son on drums, and the London Contemporary Orchestra and Choir.
+
+--------------------------------------------------------------------
+
+The tracklist for BBC 6Music Recommends show, Thursday 1st November 2018 includes Volk (Live Session) but the track sounds identical to the released version and when Mary Anne Hobbs back-announces the track, she does not indicate that this track is part of the session.
+https://www.bbc.co.uk/programmes/m0000xkx
+
+
+auto_pilot
+November 2018

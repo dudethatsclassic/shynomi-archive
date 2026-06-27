@@ -28,7 +28,8 @@ const ARTIST_DATA = {
       "venue": "Hallam University",
       "notes": "Sound City BBC",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-04-09 - Sheffield, UK - Hallam University (Sound City BBC) [FM].txt"
     },
     {
       "year": 1996,
@@ -41,7 +42,8 @@ const ARTIST_DATA = {
       "venue": "Quart Festival",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-13 - Kristiansand, Norway - Quart Festival [FM].txt"
     },
     {
       "year": 1997,
@@ -54,7 +56,8 @@ const ARTIST_DATA = {
       "venue": "Flemington Racecourse",
       "notes": "Big",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-25 - Melbourne, AUS - Flemington Racecourse - Big Day Out [SBD].txt"
     },
     {
       "year": 1997,
@@ -67,7 +70,8 @@ const ARTIST_DATA = {
       "venue": "Sydney Showground",
       "notes": "Big",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-27 - Sydney, AUS - Sydney Showground - Big Day Out [SBD].txt"
     },
     {
       "year": 1997,
@@ -80,7 +84,8 @@ const ARTIST_DATA = {
       "venue": "Roskilde Festival",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-06-29 - Roskilde, Denmark - Roskilde Festival [FM].txt"
     },
     {
       "year": 1997,
@@ -93,7 +98,8 @@ const ARTIST_DATA = {
       "venue": "Odderoya",
       "notes": "ANA(1)",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-07-13 - Kristiansand, Norway - Odderoya - ANA(1) [FM].txt"
     },
     {
       "year": 1997,
@@ -106,7 +112,8 @@ const ARTIST_DATA = {
       "venue": "Ogden Theater",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-09-17 - Denver, CO - Ogden Theater [AUD].txt"
     },
     {
       "year": 1997,
@@ -117,9 +124,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Running Springs, CA",
       "venue": "Organic Underworld",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-09-20 - Running Springs, CA - Organic Underworld [AUD].txt"
     },
     {
       "year": 2002,
@@ -130,9 +138,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Royce Hall, UCLA",
-      "notes": "Large · Sonics D8 + CSB · unk",
+      "notes": "Large \u00b7 Sonics D8 + CSB \u00b7 unk",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-03-16 - Los Angeles, CA - Royce Hall, UCLA - Large Sports Hall [AUD].txt"
     },
     {
       "year": 2005,
@@ -145,7 +154,8 @@ const ARTIST_DATA = {
       "venue": "Snowbombing",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-04-08 - Mayrhofen - Snowbombing [FM].txt"
     },
     {
       "year": 2008,
@@ -156,9 +166,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival (RDJ",
-      "notes": "CSBs) · unk",
+      "notes": "CSBs) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-04-25 - Indio, CA - Coachella Festival (AUD].txt"
     },
     {
       "year": 2009,
@@ -171,7 +182,8 @@ const ARTIST_DATA = {
       "venue": "Summer Sonic Festival",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-08-07 - Tokyo, Japan - Summer Sonic Festival [AUD].txt"
     },
     {
       "year": 2016,
@@ -208,9 +220,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival",
-      "notes": "Mojave · SP-CMC-8 · unk",
+      "notes": "Mojave \u00b7 SP-CMC-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-04-13 - Indio, CA - Coachella [AUD].txt"
     },
     {
       "year": 2019,
@@ -221,9 +234,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival",
-      "notes": "Mojave · SP-CMC-8",
+      "notes": "Mojave \u00b7 SP-CMC-8",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-04-20 - Indio, CA - Coachella [AUD24].txt"
     },
     {
       "year": 2019,
@@ -236,7 +250,8 @@ const ARTIST_DATA = {
       "venue": "Printworks",
       "notes": "Red",
       "version": "WEB",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2019-09-15 - London, UK - Printworks [WEBCAST].txt"
     }
   ],
   "misc": [

@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "Imperial Palace",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1973-04-22 -Tokyo, Japan - Imperial Palace [SBD].txt"
     }
   ],
   "misc": []

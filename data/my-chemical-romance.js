@@ -20,9 +20,10 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
-      "notes": "Arena · CSC · unk",
+      "notes": "Arena \u00b7 CSC \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-06 - Roskilde, Denmark - Roskilde Festival - Arena (CSC) (unk) [AUD] .txt"
     },
     {
       "year": 2011,
@@ -33,9 +34,10 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
-      "notes": "Orange · CSC · jtl",
+      "notes": "Orange \u00b7 CSC \u00b7 jtl",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2011-07-04 - Roskilde, Denmark - Roskilde Festival - Orange Stage (CSC) (jtl) [AUD].txt"
     },
     {
       "year": 2022,
@@ -46,9 +48,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "Kia Forum",
-      "notes": "SP-CMC-4U · unk",
+      "notes": "SP-CMC-4U \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-10-17 - Inglewood, CA - Kia Forum (SP-CMC-4U) (unk) [AUD].txt"
     }
   ],
   "misc": [

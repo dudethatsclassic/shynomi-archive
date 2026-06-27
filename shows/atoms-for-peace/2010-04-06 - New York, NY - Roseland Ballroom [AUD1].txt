@@ -1,0 +1,27 @@
+
+ATOMS FOR PEACE
+April 6, 2010
+Roseland Ballroom 
+New York City, NY
+
+Taped by BC
+DPA 4061 > battery box > Edirol R09 @ 24bit/44.1k
+
+mediainfo report:
+General / Container Stream # 1
+	Total Audio Streams for this File -> 1
+	Audio Codecs Used -> FLAC
+	File Format -> FLAC
+	Play Time -> 1h 22mn
+	Total File Size -> 731 MiB
+	Total Stream BitRate -> 1 237 Kbps
+Audio Stream # 1
+	Codec -> FLAC
+	Audio Stream Length -> 1h 22mn 33s 965ms
+	Audio Stream BitRate -> 1 237 Kbps
+	Audio Stream BitRate Mode -> VBR
+	Number of Audio Channels -> 2
+	Sampling Rate -> 44.1 KHz
+	Bit Depth -> 24 bits
+	Audio Stream Size -> 731 MiB (100%)
+	Audio Encoder -> reference libFLAC 1.2.1 20070917

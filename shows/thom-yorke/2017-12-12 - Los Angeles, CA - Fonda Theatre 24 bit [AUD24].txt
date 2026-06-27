@@ -1,0 +1,33 @@
+Thom Yorke
+2017-12-12
+The Fonda Theatre
+Los Angeles, CA, USA
+
+-- Source --
+DPA 4060 > MPS6010 > Tascam DR-40 (@24bit/48kHz)
+
+-- Processing --
+WAV > Adobe Audition (mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro
+02 - The Clock
+03 - A Brain in a Bottle
+04 - Impossible Knots
+05 - I Am a Very Rude Person
+06 - Two Feek Off the Ground
+07 - Amok
+08 - Not the News
+09 - Truth Ray
+10 - Traffic
+11 - Twist
+12 - Pink Section
+13 - Nose Grows Some
+14 - Cymbal Rush
+15 - encore
+16 - Interference
+
+-- Notes --
+Length: 1h25m00s
+
+-- faninor -- 2019-04-16 --

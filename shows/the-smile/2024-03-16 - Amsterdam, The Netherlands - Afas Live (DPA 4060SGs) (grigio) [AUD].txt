@@ -1,0 +1,70 @@
+---------------------------------------------------------------------
+The Smile - 2024-03-16 - Afas Live - Amsterdam (NL)(DPA4060SGs){Grigio}
+---------------------------------------------------------------------
+
+Artist...............: The Smile
+Album................: 2024-03-16 - Afas Live - Amsterdam (NL)(DPA4060SGs){Grigio}
+Genre................: Pop/Rock
+Source...............: DPA4060SGs
+Year.................: 2024
+Ripper...............:  & 
+Codec................: Free Lossless Audio Codec (FLAC)
+Version..............: reference libFLAC 1.3.2 20170101
+Quality..............: Lossless, (avg. compression: 50 %)
+Channels.............: Stereo / 44100 HZ / 16 Bit
+Tags.................: VorbisComment
+Information..........: 
+
+Ripped by............:  on 18 Mar 2024
+Posted by............:  on 18 Mar 2024
+News Server..........: 
+News Group(s)........: 
+
+Included.............: NFO, MD5
+
+
+---------------------------------------------------------------------
+                       Tracklisting
+---------------------------------------------------------------------
+
+   1. The Smile - Wall of Eyes                                [05:57]
+   2. The Smile - The Opposite                                [03:21]
+   3. The Smile - A Hairdryer                                 [06:16]
+   4. The Smile - Speech Bubbles                              [04:17]
+   5. The Smile - Colours Fly                                 [04:54]
+   6. The Smile - Skrting on the Surface                      [05:13]
+   7. The Smile - Instant Psalm                               [05:04]
+   8. The Smile - Waving a White Flag                         [04:09]
+   9. The Smile - Thin Thing                                  [04:28]
+  10. The Smile - Bodies Laughing                             [05:06]
+  11. The Smile - Friend of a Friend                          [04:37]
+  12. The Smile - Read the Room                               [06:53]
+  13. The Smile - We Don't Know What Tomorrow Brings          [03:13]
+  14. The Smile - The Smoke                                   [03:55]
+  15. The Smile - You Will Never Work in Television Again     [02:57]
+  16. The Smile - Under Our Pillows                           [06:21]
+  17. The Smile - Bending Hectic                              [08:52]
+  18. The Smile - [encore break]                              [01:41]
+  19. The Smile - Feeling Pulled Apart by Horses              [05:49]
+  20. The Smile - Teleharmonic                                [05:29]
+  21. The Smile - Pana-Vision                                 [04:24]
+  22. The Smile - You Know Me                                 [06:29]
+
+Playing Time.........: 01:49:34
+Total Size...........: 545,40 MB
+
+NFO generated on.....: 18 Mar 2024 10:37:29
+
+
+---------------------------------------------------------------------
+Recorded & Edited by Grigio
+DPA4060s Soft Boost Grid -> 
+DPA D:VICE MMA-A (low pass filter -80hz) -> 
+iPhone 5s mini (96/24) -> 
+
+iZOTOPE RX10 Advanced Audio Editor (64-bit) v10.4.0.1926 ->
+Wavelab Pro v11.2 Build 13 ->
+Adobe Audition CC 2018 Build 11.1.0.184
+---------------------------------------------------------------------
+
+

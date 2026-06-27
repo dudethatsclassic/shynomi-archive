@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "Berklee Performance Center",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-06-11 - Boston, MA - Berklee Performance Center [AUD].txt"
     },
     {
       "year": 1999,
@@ -33,7 +34,8 @@ const ARTIST_DATA = {
       "venue": "Woodstock 99'",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-06-25 - Rome, NY - Woodstock '99 [SBD].txt"
     },
     {
       "year": 1999,

@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Wordless Music Orchestra",
-      "notes": "Tascam DR-2d · funkitblog",
+      "notes": "Tascam DR-2d \u00b7 funkitblog",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-03-29 - Knoxville, TN - Wordless Music Orchestra (plays Jonny Greenwood) [AUD].txt"
     },
     {
       "year": 2014,
@@ -31,9 +32,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Barbican Theatre",
-      "notes": "SP-CMC-2 · austin brock",
+      "notes": "SP-CMC-2 \u00b7 austin brock",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-05-18 - London, UK - Barbican Theatre - Jonny Greenwood and BBC Concert Orchestra [AUD].txt"
     }
   ],
   "misc": []

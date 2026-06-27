@@ -1,0 +1,50 @@
+The Smile
+Forest Hills Stadium
+Queens, NY
+July 7, 2023
+
+Thom Yorke - vocals, guitar, bass, keyboards
+Jonny Greenwood - guitar, bass, keyboards
+Tom Skinner - drums, keyboards
+Robert Stillman - bass clarinet, sax
+
+Source: master audience recording
+Taper: larryrulz
+Location: Floor GA, then moved to Section 201
+Lineage: CA-11 (cardioid) > Sony A10 (44/24) > Audacity (amplify, tracking) > TLH > FLAC 6 > foobar2000 (FLAC tags)
+Sound: mp3 samples attached in the Comments
+
+Length: 1:37:19
+
+Taper's notes: I changed location in the middle of track 06. The music becomes non-audible for about 1 minute, followed by a level adjustment. The audio quality is similar at both locations. 
+
+Samples on YouTube:
+
+https://www.youtube.com/watch?v=0FiGp65LUWI
+Colours Fly
+
+https://www.youtube.com/watch?v=oyfGa3EjNIg
+The Smoke
+
+Setlist:
+01 stage entrance
+02 Pana-Vision - with Robert Stillman
+03 Thin Thing
+04 The Opposite
+05 Speech Bubbles
+06 A Hairdryer
+07 Waving a White Flag
+08 Under Our Pillows
+09 We Don't Know What Tomorrow Brings
+10 Colours Fly - with Robert Stillman
+11 Teleharmonic - with Robert Stillman
+12 Skrting on the Surface
+13 The Same
+14 Read the Room
+15 The Smoke - with Robert Stillman
+16 You Will Never Work in Television Again - with Robert Stillman
+17 stage entrance
+18 Free in the Knowledge
+19 People on Balconies - with Robert Stillman
+20 Bending Hectic
+21 Feeling Pulled Apart by Horses

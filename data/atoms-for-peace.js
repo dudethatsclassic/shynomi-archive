@@ -21,9 +21,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Orpheum Theatre",
-      "notes": "MM-HLSC-2 · boo",
+      "notes": "MM-HLSC-2 \u00b7 boo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-10-05 - Los Angeles, CA - Orpheum Theatre [AUD].txt"
     },
     {
       "year": 2010,
@@ -34,9 +35,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "DPA 4061 · relaxing",
+      "notes": "DPA 4061 \u00b7 relaxing",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-04-05 - New York, NY - Roseland Ballroom [AUD2].txt"
     },
     {
       "year": 2010,
@@ -47,7 +49,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "Zoom H2 · anonymous99",
+      "notes": "Zoom H2 \u00b7 anonymous99",
       "version": "AUD",
       "format": "SHN"
     },
@@ -60,7 +62,21 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "unk · hoserama",
+      "notes": "unk \u00b7 hoserama",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2010-04-06 - New York, NY - Roseland Ballroom [AUD].txt"
+    },
+    {
+      "year": 2010,
+      "month": 4,
+      "day": 6,
+      "dateStr": "4-6-2010",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Roseland Ballroom",
+      "notes": "unk \u00b7 hoserama",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -73,20 +89,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "unk · hoserama",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2010,
-      "month": 4,
-      "day": 6,
-      "dateStr": "4-6-2010",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Roseland Ballroom",
-      "notes": "inc · Panasonic Lumix DMC-ZS3 · inez",
+      "notes": "inc \u00b7 Panasonic Lumix DMC-ZS3 \u00b7 inez",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -99,9 +102,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Wang Theatre",
-      "notes": "Schoeps MK41 · dave flaschner & rob adler",
+      "notes": "Schoeps MK41 \u00b7 dave flaschner & rob adler",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-04-08 - Boston, MA - Wang Theatre [AUD].rtf"
     },
     {
       "year": 2010,
@@ -114,7 +118,8 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-04-09 - Los Angeles, CA - The Orpheum [AUD] .txt"
     },
     {
       "year": 2010,
@@ -125,9 +130,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "Schoeps MK4s · tapeworm48",
+      "notes": "Schoeps MK4s \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-04-10 - Chicago, IL - Aragon Ballroom [AUD24].txt"
     },
     {
       "year": 2010,
@@ -138,7 +144,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "Zoom H2 · drewmanchu",
+      "notes": "Zoom H2 \u00b7 drewmanchu",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -151,7 +157,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "Core Sound HEB 4060 · jb",
+      "notes": "Core Sound HEB 4060 \u00b7 jb",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -164,9 +170,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theatre",
-      "notes": "DPA 4061 · unk",
+      "notes": "DPA 4061 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-04-14 - Oakland, CA - Fox Theatre [MTX].txt"
     },
     {
       "year": 2010,
@@ -177,7 +184,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theatre",
-      "notes": "DPA 4061 + Zoom H4n · crazylegs + hoserama",
+      "notes": "DPA 4061 + Zoom H4n \u00b7 crazylegs + hoserama",
       "version": "MIX",
       "format": "FLAC"
     },
@@ -190,9 +197,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theatre",
-      "notes": "Zoom H4n + KM140s + CCM4 · hoserama + wilson66 + persistantsound",
+      "notes": "Zoom H4n + KM140s + CCM4 \u00b7 hoserama + wilson66 + persistantsound",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-04-15 - Oakland, CA - Fox Theatre [MTX].txt"
     },
     {
       "year": 2010,
@@ -203,7 +211,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theatre",
-      "notes": "KM140s · wilson66",
+      "notes": "KM140s \u00b7 wilson66",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -216,9 +224,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Barbara, CA",
       "venue": "Santa Bbarbara Bowl",
-      "notes": "AT831 · edgar",
+      "notes": "AT831 \u00b7 edgar",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2010-04-17 - Santa Barbara, CA - Santa Barbara Bowl [AUD].txt"
     },
     {
       "year": 2010,
@@ -229,9 +238,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival",
-      "notes": "CA-11s · jlw",
+      "notes": "CA-11s \u00b7 jlw",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-04-18 - Indio, CA - Coachella Festival [AUD].txt"
     },
     {
       "year": 2010,
@@ -242,9 +252,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Niigata, Japan",
       "venue": "Fuji Rock Festival",
-      "notes": "Sony PCM-M10 · unk",
+      "notes": "Sony PCM-M10 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-08-01 - Niigata, Japan - Fuji Rock Festival [AUD].txt"
     },
     {
       "year": 2012,
@@ -255,9 +266,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Queens, NY",
       "venue": "MoMA PS1 Warm-up",
-      "notes": "DJ Set · Sony Cybershot · beardo",
+      "notes": "DJ Set \u00b7 Sony Cybershot \u00b7 beardo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-09-08 - Queens, NY - Thom Vocal Moma PS1 Audio Edited [AUD].txt"
     },
     {
       "year": 2013,
@@ -268,9 +280,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin",
       "venue": "Berghain (Thom Yorke and Nigel Godrich) DJ Set",
-      "notes": "SP-CMC-8 · scttrbrn",
+      "notes": "SP-CMC-8 \u00b7 scttrbrn",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-03-08 - Berlin, Germany - Berghain - DJ Set [AUD].txt"
     },
     {
       "year": 2013,
@@ -281,9 +294,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Zenith",
-      "notes": "SP-CMC-4u · unk",
+      "notes": "SP-CMC-4u \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-07-06 - Paris, France - Le Zenith [AUD].txt"
     },
     {
       "year": 2013,
@@ -294,9 +308,10 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "HMH",
-      "notes": "CA-14s · grigio",
+      "notes": "CA-14s \u00b7 grigio",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2013-07-07 - Amsterdam, The Netherlands - HMH (CA-14s) (grigio) [AUD24].txt"
     },
     {
       "year": 2013,
@@ -307,9 +322,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Slovakia",
       "venue": "Bazant Pohoda Festival",
-      "notes": "Zoom H1 · nocna hudba",
+      "notes": "Zoom H1 \u00b7 nocna hudba",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-07-12 - Slovakia - Pohoda Festival [AUD].txt"
     },
     {
       "year": 2013,
@@ -320,9 +336,10 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Rome, Italy",
       "venue": "Ippodromo Capannelle",
-      "notes": "Tascam DR-100 · unk",
+      "notes": "Tascam DR-100 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-07-16 - Rome, Italy - Ippodromo Capannelle [AUD].txt"
     },
     {
       "year": 2013,
@@ -333,9 +350,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Temple University",
-      "notes": "Liacouras · AT831 · booboo",
+      "notes": "Liacouras \u00b7 AT831 \u00b7 booboo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-09-24 - Philadelphia, PA - Temple University Liacouras Center [AUD].txt"
     },
     {
       "year": 2013,
@@ -346,9 +364,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "UIC Pavilion",
-      "notes": "CA-14s · lucidnight",
+      "notes": "CA-14s \u00b7 lucidnight",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-10-02 - Chicago, IL - UIC Pavilion [AUD].txt"
     },
     {
       "year": 2013,
@@ -359,9 +378,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "War Memorial Auditorium",
-      "notes": "Schoeps MK4v · unk",
+      "notes": "Schoeps MK4v \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-10-03 - Nashville, TN - War Memorial Auditorium [AUD].txt"
     },
     {
       "year": 2013,
@@ -372,9 +392,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Hollywood Bowl",
-      "notes": "Schoeps MK41s · blg",
+      "notes": "Schoeps MK41s \u00b7 blg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-10-16 - Los Angeles, CA - Hollywood Bowl [AUD].txt"
     },
     {
       "year": 2013,
@@ -385,9 +406,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Shinkoba Studio Coast",
-      "notes": "IEM + AUD · unk",
+      "notes": "IEM + AUD \u00b7 unk",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-11-22 - Tokyo, Japan - Shinkiba Studio Coast [MTX].txt"
     },
     {
       "year": 2013,
@@ -398,9 +420,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Shinkoba Studio Coast",
-      "notes": "SP-CMC-8 · mini",
+      "notes": "SP-CMC-8 \u00b7 mini",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2013-11-23 - Tokyo, Japan - Shinkiba Studio Coast [AUD].txt"
     }
   ],
   "misc": []

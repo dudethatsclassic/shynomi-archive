@@ -1,0 +1,31 @@
+Thom Yorke, Nigel Godrich
+AFP DJ set
+MoMA PS1 Warm-UP
+Queens, NY US
+September 8, 2012
+
+01. Before Your Very Eyes Track 01
+taper: beardo
+camera: Sony CyberShot 640x480, 30.000 fps, codec:MPEG
+
+02. Ingenue Track 02
+taper: inez
+camera: Panasonic Lumix DMC-ZS20 1920x1080, 59.940 fps, codec:avc
+
+03. Dropped track 03
+taper: imbongg
+camera: nikon p7000 1280x720, 23.976 fps, codec:avc
+
+04. Amok track 04
+taper: babytruthless
+rig (inez): AT831 under hat because of the rain > SP-SPSB-6 >iriver h120
+
+Editing: BLG
+1-lowered the volume. 
+2- EQ
+4- EQ and raised volume. 
+Resampled so all are now 16/44. 
+
+Enjoy this little communal effort to capture all these premieres in pouring rain :-)  (no, we did not coordinate anything with each other!)
+
+inez

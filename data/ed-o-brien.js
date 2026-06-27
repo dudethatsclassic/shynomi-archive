@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Poisson Rouge",
-      "notes": "unk · joe breslin",
+      "notes": "unk \u00b7 joe breslin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2020-02-10 - New York City, NY - Le Poisson Rouge (joebreslin) [AUD24].txt"
     },
     {
       "year": 2020,
@@ -31,9 +32,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Masonic Lodge at Hollywood Forever",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2020-02-13 - Los Angeles, CA - Masonic Lodge at Hhollywood Forever (faninor) [AUD24].txt"
     },
     {
       "year": 2020,
@@ -46,7 +48,8 @@ const ARTIST_DATA = {
       "venue": "Yoyo",
       "notes": "UHD",
       "version": "TV",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2020-03-10 - Paris, France - Yoyo - (UHD) [TV].txt"
     }
   ],
   "misc": []

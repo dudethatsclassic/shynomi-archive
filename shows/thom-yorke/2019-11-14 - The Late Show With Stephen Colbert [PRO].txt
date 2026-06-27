@@ -1,0 +1,71 @@
+Daily Battles
+The Late Show With Stephen Colbert 
+Ed Sullivan Theatre, New York 
+2019-11-14
+
+Digital TV (10 Boss, Australia) -> Topfield PVR (MPEG2) -> Windows 7 -> Project X (MKV) -> You 
+
+01. Daily Battles
+
+General
+Unique ID                                : 313845224660542534100237091399874256928 (0xEC1C6440666E2914BB21CDF5FF9E2020)
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 121 MiB
+Duration                                 : 3 min
+Overall bit rate                         : 5 042 kb/s
+Writing application                      : Lavf56.36.100
+Writing library                          : Lavf56.36.100 / Lavf56.36.100
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Format settings, GOP                     : M=4, N=24
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 3 min
+Bit rate                                 : 4 494 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan type, store method                  : Separated fields
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 0.087
+Stream size                              : 108 MiB (89%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 3 min
+Bit rate mode                            : Constant
+Bit rate                                 : 448 kb/s
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 spf)
+Compression mode                         : Lossy
+Delay relative to video                  : -49 ms
+Stream size                              : 10.7 MiB (9%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+

@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1962-10-18 - Zurich, Switzerland - Unknown Venue [FM].txt"
     },
     {
       "year": 1968,
@@ -32,7 +33,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Tivolis Koncertsal",
-      "notes": "Jazz · Danish TV",
+      "notes": "Jazz \u00b7 Danish TV",
       "version": "TV",
       "format": "MKV"
     }

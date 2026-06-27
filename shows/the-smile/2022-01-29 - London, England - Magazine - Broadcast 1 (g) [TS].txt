@@ -1,0 +1,36 @@
+The Smile
+Live Broadcast 1
+Magazine London
+London, United Kingdom
+January 29, 2022
+8 PM GMT
+
+Lineage: Dreamstage VOD -> Streamlink -> ts
+(streamlink "m3u8 URL" best -o broadcast1vod.ts)
+
+ffprobe output:
+Input #0, mpegts, from 'broadcast1vod.ts':
+  Duration: 01:11:59.76, start: 10.000000, bitrate: 4119 kb/s
+  Program 1 
+  Stream #0:0[0x100]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 25 tbr, 90k tbn, 1411200000.00 tbc
+  Stream #0:1[0x101]: Audio: aac (LC) ([15][0][0][0] / 0x000F), 48000 Hz, stereo, fltp, 195 kb/s
+
+Setlist:
+Pana-Vision
+The Smoke
+Speech Bubbles
+Thin Thing
+Open the Floodgates
+Free in the Knowledge
+A Hairdryer
+Waving a White Flag
+We Don't Know What Tomorrow Brings
+Skrting on the Surface
+The Same
+The Opposite
+You Will Never Work in Television Again
+
+Encore:
+Just Eyes and Mouth
+
+captured by g

@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Danforth Music Hall",
-      "notes": "Rec 1 · SP-CMC-8 · burnboy",
+      "notes": "Rec 1 \u00b7 SP-CMC-8 \u00b7 burnboy",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-11-30 - Toronto, ON - Danforth Music Hall (Rec 2) (SP-CMC-25) (burnboy) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -31,7 +32,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Danforth Music Hall",
-      "notes": "Rec 2 · SP-CMC-25",
+      "notes": "Rec 2 \u00b7 SP-CMC-25",
       "version": "AUD",
       "format": "FLAC 24"
     }

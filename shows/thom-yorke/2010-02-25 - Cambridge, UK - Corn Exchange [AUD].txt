@@ -1,0 +1,57 @@
+Thom Yorke
+Corn Exchange
+Cambridge, UK
+February 25, 2010
+
+Taper: stephen
+Lineage: DPA4061 > MMA6000 (gain +12.5dB) > MT2496 > WAV (24/44.1)
+Location: ~10m from stage DFC, mics clipped to collar
+Transfer: USB > WAV > Audition 1.5 (dynamics processing, 24>16
+conversion) > WAV > shntool 3.0.10 (cygwin; track splitting) > flac
+1.2.1 (cygwin: "flac -V -8 *.wav")
+
+----------------------------------------------------------------------
+
+Originally seeded on the radioheadlive hub for old times sake.  PTFO.
+
+I've gone to a lot of trouble to bring you this in high quality flac;
+if you insist on re-distributing this as mp3, at least put a link to
+the flacs... please?
+
+Please do not sell this recording.
+
+Please do pass along the source info (this file) if you trade this
+show.
+
+----------------------------------------------------------------------
+
+Tonight's gig was a one-off benefit show for Tony Juniper, (former
+head of Friends of the Earth) who's aiming to be the first MP from the
+Green party in Parliament.
+
+Support from local musician Pete Um (not taped).
+
+
+01  intro                         2:58
+02  The clock                     4:55
+03  The eraser                    5:38
+04  Weird fishes                  6:04
+05  Daily Mail / A pig's ear      3:40
+06  Pyramid song                  5:34
+07  Harrowdown hill               5:58
+08  Lotus flower                  5:36
+09  Give up the ghost             6:07
+10  These are my twisted words    5:14
+11  I froze up                    4:49
+12  Like spinning plates          3:07
+13  Black swan                    5:40
+14  Cymbal rush                   4:58
+15  Videotape                     6:35
+Encore 1:
+16  Mouse dog bird                4:59
+17  Reckoner                      4:51
+18  Airbag                        5:52
+19  Atoms for peace               5:47
+Encore 2:
+20  True love waits               5:22
+                        [Total: 103:44]

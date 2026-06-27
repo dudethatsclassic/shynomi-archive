@@ -1,0 +1,49 @@
+Thom Yorke
+Tempodrom
+Berlin
+Germany
+June 1, 2018
+
+
+Taper: 		bnz
+
+Position:	DFC
+Source: 	at831 - SP-SPSB-11 (Bass Roll-off at 107 HZ) - Edirol R07 at 24bit 48Khz
+Transfer: 	SD card > SDslot > PC > Editing > Mastering > 24bit 48 Khz > Cdwave > FLAC (8)
+Mastering:	X
+Denoised:       Inez
+Total Time:	110:02 min
+
+
+Many thanks to Sab for the wonderful time in Berlin :)
+
+
+Setlist:
+
+01. Interference
+02. A Brain in a Bottle
+03. Impossible Knots
+04. Black Swan
+05. I Am a Very Rude Person
+06. The Clock
+07. Two Feet Off the Ground
+08. Amok
+09. Not the News
+10. Truth Ray
+11. Traffic
+12. Twist
+13. Pink Section
+14. Nose Grows Some
+15. Cymbal Rush
+16. Encorebreak 1
+17. The Axe
+18. Atoms for Peace
+19. Default
+20. Encorebreak 2
+21. Spectre
+
+bnz, 2018-07-28. 
+Keep lossless please, use lossy formats for personal use only.
+
+Enjoy!
+bnz.

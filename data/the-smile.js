@@ -23,7 +23,8 @@ const ARTIST_DATA = {
       "venue": "Glastonbury Festival",
       "notes": "Worthy",
       "version": "Webcast",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2021-05-22 - Pilton, UK -  Glastonbury Festival - Worthy Farms [MP4].txt"
     },
     {
       "year": 2022,
@@ -34,9 +35,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Magazine",
-      "notes": "Broadcast · g",
+      "notes": "Broadcast \u00b7 g",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2022-01-29 - London, England - Magazine - Broadcast 1 (g) [TS].txt"
     },
     {
       "year": 2022,
@@ -47,9 +49,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Magazine",
-      "notes": "Broadcast · g",
+      "notes": "Broadcast \u00b7 g",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2022-01-30 - London, England - Magazine - Broadcast 3 (g) [TS].txt"
     },
     {
       "year": 2022,
@@ -60,7 +63,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Magazine",
-      "notes": "Broadcast · g",
+      "notes": "Broadcast \u00b7 g",
       "version": "TV",
       "format": "TS"
     },
@@ -73,9 +76,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Tempodrom",
-      "notes": "Zoom H2 · pehjott",
+      "notes": "Zoom H2 \u00b7 pehjott",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-20 - Berlin, Germany - Tempodrom (Zoom H2) (pehjott) [AUD].txt"
     },
     {
       "year": 2022,
@@ -86,9 +90,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Tempodrom",
-      "notes": "Zoom H2 · buenaventura",
+      "notes": "Zoom H2 \u00b7 buenaventura",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-20 - Berlin, Germany - Tempodrom (Zoom H2) (buenaventura) [AUD].txt"
     },
     {
       "year": 2022,
@@ -99,9 +104,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Stockholm Sweden",
       "venue": "Cirkus",
-      "notes": "Aiwa CM-TS55 · qew",
+      "notes": "Aiwa CM-TS55 \u00b7 qew",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-05-23 - Stockholm Sweden - Cirkus (Aiwa CM-TS55) (qew) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -112,9 +118,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Manchester, England",
       "venue": "Academy",
-      "notes": "SP · radiosjohn",
+      "notes": "SP \u00b7 radiosjohn",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-06-02 - Manchester, England - Academy (SP) (radiosjohn) [AUD].txt"
     },
     {
       "year": 2022,
@@ -124,10 +131,11 @@ const ARTIST_DATA = {
       "city": "Lyon",
       "state": "France",
       "location": "Lyon, France",
-      "venue": "Théâtre Antique de Fourvière",
-      "notes": "DPA4061 + IEMs · anonymous",
+      "venue": "The\u0301a\u0302tre Antique de Fourvie\u0300re",
+      "notes": "DPA4061 + IEMs \u00b7 anonymous",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-06-08 - Lyon, France - The\u0301a\u0302tre Antique de Fourvie\u0300re  (DPA4061 + IEMs) (anonymous) [MIX].txt"
     },
     {
       "year": 2022,
@@ -138,9 +146,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Dijon, France",
       "venue": "Vyv Festival",
-      "notes": "inc · thesmiletheband.com bonus content",
+      "notes": "inc \u00b7 thesmiletheband.com bonus content",
       "version": "WEB",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2022-06-12 - Dijon, France - Vyv Festival (inc) [WEB].txt"
     },
     {
       "year": 2022,
@@ -151,9 +160,10 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
-      "notes": "CA-14 · unk",
+      "notes": "CA-14 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-07-01 - Roskilde, Denmark - Roskilde Festival (CA-14) (unk) [AUD].txt"
     },
     {
       "year": 2022,
@@ -164,9 +174,10 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Macerata, Italy",
       "venue": "Sferisterio",
-      "notes": "unk · ddf95",
+      "notes": "unk \u00b7 ddf95",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-07-17 - Macerata, Italy - Sferisterio (unk) (ddf95) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -177,9 +188,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hammerstein Ballroom",
-      "notes": "Roland CS-10EM · phideaux3",
+      "notes": "Roland CS-10EM \u00b7 phideaux3",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-11-20 - New York, NY - Hammerstein Ballroom (Schoeps MK4) (daspyknows) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -190,7 +202,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hammerstein Ballroom",
-      "notes": "Schoeps MK4 · daspyknows",
+      "notes": "Schoeps MK4 \u00b7 daspyknows",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -203,9 +215,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
-      "notes": "AT831s · tapeworm48",
+      "notes": "AT831s \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-12-01 - Chicago, IL - Riviera Theatre (AT831s) (tapeworm48) [AUD].txt"
     },
     {
       "year": 2022,
@@ -216,9 +229,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bill Graham Civic Auditorium",
-      "notes": "Schoeps CCM4s · theman",
+      "notes": "Schoeps CCM4s \u00b7 theman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-12-18 - San Francisco, CA - Bill Graham Civic Auditorium (Schoeps CCM4s) (theman) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -229,9 +243,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bill Graham Auditorium",
-      "notes": "Schoeps MK4 · daspyknows",
+      "notes": "Schoeps MK4 \u00b7 daspyknows",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-12-18 - San Francisco, CA - Bill Graham Auditorium (Schoeps MK4) (daspyknows) [AUD].txt"
     },
     {
       "year": 2022,
@@ -242,9 +257,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Shrine Auditorium",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-12-21 - Los Angeles, CA - Shrine Auditorium (DPA 4081) (faninor) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -255,9 +271,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Shrine Auditorium",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-12-22 - Los Angeles, CA - Shrine Auditorium (DPA 4081) (faninor) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -268,9 +285,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Shrine Auditorium",
-      "notes": "Schoeps MK4 · daspyknows",
+      "notes": "Schoeps MK4 \u00b7 daspyknows",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-12-22 - Los Angeles, CA - Shrine Auditorium (Schoeps MK4) (daspyknows) [AUD].txt"
     },
     {
       "year": 2022,
@@ -281,9 +299,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Shrine Auditorium",
-      "notes": "IEM+Schoeps MK4 · sharebear+daspyknows",
+      "notes": "IEM+Schoeps MK4 \u00b7 sharebear+daspyknows",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-12-22 - Los Angeles, CA - Shrine Auditorium (IEM+Schoeps MK4) (sharebear+daspyknows) [MIX].txt"
     },
     {
       "year": 2023,
@@ -296,7 +315,8 @@ const ARTIST_DATA = {
       "venue": "NPR Tiny Desk Concert",
       "notes": "",
       "version": "WEB",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2023-01-03 - Washington, DC - NPR Tiny Desk Concert [MP4].txt"
     },
     {
       "year": 2023,
@@ -307,9 +327,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Knight Center",
-      "notes": "Shure MV88-Shure Motiv Audio App · tremolo75",
+      "notes": "Shure MV88-Shure Motiv Audio App \u00b7 tremolo75",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-06-29 - Miami, FL - Knight Center (Tascam DR-05X) (unk) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -320,7 +341,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Knight Center",
-      "notes": "Tascam DR-05X · unk",
+      "notes": "Tascam DR-05X \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -333,9 +354,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Queens, NY",
       "venue": "Forest Hills Stadium",
-      "notes": "CA-11 · larryrulz",
+      "notes": "CA-11 \u00b7 larryrulz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-07-07 - Queens, NY - Forest Hills Stadium (CA-11) (larryrulz) [AUD].txt"
     },
     {
       "year": 2023,
@@ -346,9 +368,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Agora Theatre",
-      "notes": "Schoeps MK4 · ryanj+anonymous",
+      "notes": "Schoeps MK4 \u00b7 ryanj+anonymous",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-07-11 - Cleveland, OH - Agora Theatre (Schoeps MK4) (ryanj+anonymous) [MIX].txt"
     },
     {
       "year": 2023,
@@ -359,9 +382,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Ottawa, ON",
       "venue": "RBC Bluesfest",
-      "notes": "iPhone 11 · palm0014",
+      "notes": "iPhone 11 \u00b7 palm0014",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-07-16 - Ottawa, ON - RBC Bluesfest (iPhone 11) (palm0014) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -372,9 +396,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Pitchfork Festival",
-      "notes": "Union · YouTube stream",
+      "notes": "Union \u00b7 YouTube stream",
       "version": "WEB",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2023-07-21 - Chicago, IL - Pitchfork Festival - Union Park (YouTube stream) [WEB].txt"
     },
     {
       "year": 2024,
@@ -385,9 +410,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "02 Victoria Warehosue",
-      "notes": "BBC · inc",
+      "notes": "BBC \u00b7 inc",
       "version": "WEB",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2024-03-09 - Manchester, UK - 02 Victoria Warehosue - BBC Music Fest (inc) [TS].txt"
     },
     {
       "year": 2024,
@@ -398,9 +424,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Brussels, Belgium",
       "venue": "Vorst Nationaal",
-      "notes": "AT943 · flying horseman",
+      "notes": "AT943 \u00b7 flying horseman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-03-15 - Brussels, Belgium - Vorst Nationaal  (AT943) (flying horseman) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -411,9 +438,10 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Afas Live",
-      "notes": "DPA 4060SGs · grigio",
+      "notes": "DPA 4060SGs \u00b7 grigio",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-03-16 - Amsterdam, The Netherlands - Afas Live (DPA 4060SGs) (grigio) [AUD].txt"
     },
     {
       "year": 2024,
@@ -424,9 +452,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Palladium",
-      "notes": "DPA 4018 · unk",
+      "notes": "DPA 4018 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-06-09 - Cologne, Germany - Palladium (DPA 4018) (unk) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -437,9 +466,10 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Rome, Italy",
       "venue": "Auditorium Parco della Musica Ennio Morricone",
-      "notes": "Shure MV88 · flatline",
+      "notes": "Shure MV88 \u00b7 flatline",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-06-23 - Rome, Italy - Auditorium Parco della Musica Ennio Morricone (Shure MV88) (flatline) [AUD24].txt"
     }
   ],
   "misc": [

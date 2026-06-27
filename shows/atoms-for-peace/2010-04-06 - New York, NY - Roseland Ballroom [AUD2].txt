@@ -1,0 +1,25 @@
+ATOMS FOR PEACE
+April 6, 2010
+Roseland Ballroom 
+New York City, NY
+
+taped by: inez
+location: center rail
+
+source: Panasonic LUMIX DMC-ZS3 
+>  audio extracted to AIFF on MPEG Streamclip
+>  FLAC level 8 on XAct
+
+	Codec -> FLAC
+	Audio Stream BitRate Mode -> VBR
+	Number of Audio Channels -> 2
+	Sampling Rate -> 32.0 KHz
+	Bit Depth -> 16 bits
+
+Tracks:
+
+1. Analyse (setlist position 02)
+2. Cymbal Rush (setlist position 09)
+3. All For The Best (Miracle Legion cover) (setlist position 10)
+4. Fog (setlist position 11)
+5. Everything In Its Right Place (setlist position 12)

@@ -28,9 +28,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre / Bridge School Benefit 16",
-      "notes": "Thom Yorke · Schoeps · unk",
+      "notes": "Thom Yorke \u00b7 Schoeps \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-10-26 - Mountain View, CA - Shoreline Amphitheatre - Bridge School Benefit 16 (Thom Yorke) (Schoeps CCL4) [AUD].txt"
     },
     {
       "year": 2002,
@@ -41,9 +42,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre / Bridge School Benefit 16",
-      "notes": "Thom Yorke · Schoeps CCM4 · unk",
+      "notes": "Thom Yorke \u00b7 Schoeps CCM4 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-10-27 - Mountain View, CA - Shoreline Amphitheatre - Bridge School Benefit 16 (Thom Yorke) [AUD].txt"
     },
     {
       "year": 2006,
@@ -54,9 +56,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW Radio FM Broadcast",
-      "notes": "Thom · nibbler",
+      "notes": "Thom \u00b7 nibbler",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-07-11 - Thom Yorke - Live On KCRW [FM].txt"
     },
     {
       "year": 2006,
@@ -69,7 +72,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-08-21 - XFM Xposure with John Kennedy [FM].flac.txt"
     },
     {
       "year": 2006,
@@ -95,7 +99,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-08-24 - BBC 6music Tom Robinson - Thom Yorke [FM].txt"
     },
     {
       "year": 2006,
@@ -108,7 +113,8 @@ const ARTIST_DATA = {
       "venue": "Thom Yorke",
       "notes": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-09-05 - Thom at the Mercury Music Awards [TV].txt"
     },
     {
       "year": 2006,
@@ -121,7 +127,8 @@ const ARTIST_DATA = {
       "venue": "Queen Elizabeth Hall / BBC Radio 3",
       "notes": "grinwithaspin",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-11-24 - London, UK - Queen Elizabeth Hall [FM].txt"
     },
     {
       "year": 2006,
@@ -145,9 +152,10 @@ const ARTIST_DATA = {
       "state": "Suffolk",
       "location": "Southwold, Suffolk",
       "venue": "Latitude Festival",
-      "notes": "SP-CMC-2 · form",
+      "notes": "SP-CMC-2 \u00b7 form",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-07-19 - Southwold, Suffolk - Latitude Festival [AUD].txt"
     },
     {
       "year": 2009,
@@ -160,7 +168,8 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-10-04 - Los Angeles, CA - Orpheum Theatre [AUD].txt"
     },
     {
       "year": 2009,
@@ -171,7 +180,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Orpheum Theatre",
-      "notes": "AT831 · edgar",
+      "notes": "AT831 \u00b7 edgar",
       "version": "AUD",
       "format": "SHN"
     },
@@ -184,7 +193,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Orpheum Theatre",
-      "notes": "AT943c · funkymunkey",
+      "notes": "AT943c \u00b7 funkymunkey",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -197,7 +206,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Orpheum Theatre",
-      "notes": "Schoeps MK41 · 0drogs",
+      "notes": "Schoeps MK41 \u00b7 0drogs",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -212,7 +221,8 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-10-05 - Los Angeles, CA - Orpheum Theatre [AUD2].txt"
     },
     {
       "year": 2009,
@@ -223,7 +233,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Orpheum Theatre",
-      "notes": "Schoeps MK41 · 0drogs",
+      "notes": "Schoeps MK41 \u00b7 0drogs",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -238,7 +248,8 @@ const ARTIST_DATA = {
       "venue": "BBC Radio1",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-01-20 - Thom on Giles Peterson's Radio Show - BBC Radio1 [FM].txt"
     },
     {
       "year": 2010,
@@ -249,9 +260,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Cambridge, UK",
       "venue": "Corn Exchange",
-      "notes": "DPA4061 · stephen",
+      "notes": "DPA4061 \u00b7 stephen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-02-25 - Cambridge, UK - Corn Exchange [AUD].txt"
     },
     {
       "year": 2010,
@@ -262,7 +274,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Cambridge, UK",
       "venue": "Corn Exchange",
-      "notes": "Sony mic · unk",
+      "notes": "Sony mic \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -288,7 +300,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Cambridge, UK",
       "venue": "Corn Exchange",
-      "notes": "Zoom H2 · zane",
+      "notes": "Zoom H2 \u00b7 zane",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -303,7 +315,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-06-25 - London, UK - Glastonbury Festival (with Jonny Greenwood) [AUD].txt"
     },
     {
       "year": 2010,
@@ -316,7 +329,8 @@ const ARTIST_DATA = {
       "venue": "The Big Chill Festival",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-08-06 - Eastnor, UK - The Big Chill Festival [AUD].txt"
     },
     {
       "year": 2015,
@@ -327,9 +341,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Chiba, Japan",
       "venue": "Makuhari Messe",
-      "notes": "IEM sources + AUD · xavel",
+      "notes": "IEM sources + AUD \u00b7 xavel",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-08-15 - Chiba, Japan - Summer Sonic Festival [MTX].txt"
     },
     {
       "year": 2015,
@@ -340,9 +355,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "American Airlines Theatre",
-      "notes": "AT831 · inez",
+      "notes": "AT831 \u00b7 inez",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-09-17 - New York, NY - American Airlines Theatre - Old Times Thom Yorke's Music 24 bit [AUD].txt"
     },
     {
       "year": 2015,
@@ -355,7 +371,8 @@ const ARTIST_DATA = {
       "venue": "C2C15 Lingotto",
       "notes": "CA-14s0 (streetspirit73",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-11-06 - Turin, Italy - C2C15 Lingotto [AUD].txt"
     },
     {
       "year": 2015,
@@ -366,9 +383,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Le Trianon *Pathway to Paris",
-      "notes": "Full Day · Tascam DR-05 · lta",
+      "notes": "Full Day \u00b7 Tascam DR-05 \u00b7 lta",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-12-04 - Paris, France - Le Trianon - Pathway to Paris - Full Gig [AUD].txt"
     },
     {
       "year": 2017,
@@ -379,9 +397,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Fonda Theatre",
-      "notes": "DPA 4060 · faninor",
+      "notes": "DPA 4060 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-12-12 - Los Angeles, CA - Fonda Theatre 24 bit [AUD24].txt"
     },
     {
       "year": 2017,
@@ -392,9 +411,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theatre",
-      "notes": "Schoeps CCM4s · theman",
+      "notes": "Schoeps CCM4s \u00b7 theman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-12-14 - Oakland, CA - Fox Theatre (Thom & Nigel) [AUD].txt"
     },
     {
       "year": 2018,
@@ -405,9 +425,10 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Halle 662",
-      "notes": "Neumann KM140s · unk",
+      "notes": "Neumann KM140s \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-05-30 - Zurich, Switzerland - Halle 662 [AUD].txt"
     },
     {
       "year": 2018,
@@ -418,7 +439,7 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Halle 662",
-      "notes": "Schoeps MK41V · unk",
+      "notes": "Schoeps MK41V \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -431,9 +452,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin",
       "venue": "Tempodrom",
-      "notes": "AT831 · bnz",
+      "notes": "AT831 \u00b7 bnz",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-06-01 - Berlin, Germany - Tempodrom (AT831) [AUD24].txt"
     },
     {
       "year": 2018,
@@ -444,7 +466,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Berlin",
       "venue": "Tempodrom",
-      "notes": "Tascam DR-2d · unk",
+      "notes": "Tascam DR-2d \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -457,9 +479,10 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Koninklijk Theater Carre",
-      "notes": "AT831 · bnz",
+      "notes": "AT831 \u00b7 bnz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-06-04 - Amsterdam, The Netherlands - Carre [AUD].txt"
     },
     {
       "year": 2018,
@@ -470,9 +493,10 @@ const ARTIST_DATA = {
       "state": "Scotland",
       "location": "Edinburgh, Scotland",
       "venue": "Usher Hall",
-      "notes": "Schoeps MK4 · mayhem inc.",
+      "notes": "Schoeps MK4 \u00b7 mayhem inc.",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-06-07 - Edinburgh, Scotland - Usher Hall [AUD24].txt"
     },
     {
       "year": 2018,
@@ -485,7 +509,8 @@ const ARTIST_DATA = {
       "venue": "BBC Maida Vale Studios",
       "notes": "",
       "version": "FM",
-      "format": "TS (Audio)"
+      "format": "TS (Audio)",
+      "textFile": "2018-10-15 - London, UK - BBC Maida Vale [FM].txt"
     },
     {
       "year": 2018,
@@ -496,9 +521,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bill Graham Civic Auditorium",
-      "notes": "MK4 · inez edit",
+      "notes": "MK4 \u00b7 inez edit",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-11-15 - San Francisco, CA - Bill Graham Civic Auditorium (MK4) (inez edit) [AUD].txt"
     },
     {
       "year": 2018,
@@ -509,9 +535,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Franklin Music Hall",
-      "notes": "Zoom H4n · radiokid311",
+      "notes": "Zoom H4n \u00b7 radiokid311",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-11-23 - Philadelphia, PA - Franklin Music Hall FKA Electric Factory [AUD].txt"
     },
     {
       "year": 2018,
@@ -522,9 +549,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Kings Theatre",
-      "notes": "CA-14 · larryrulz",
+      "notes": "CA-14 \u00b7 larryrulz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-11-27 - Brooklyn, NY - Kings Theatre [AUD].txt"
     },
     {
       "year": 2018,
@@ -537,7 +565,8 @@ const ARTIST_DATA = {
       "venue": "KCRW Morning Becomes Electric",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-12-04 - Santa Monica, CA - KCRW Morning Becomes Eclectic [FM].txt"
     },
     {
       "year": 2018,
@@ -548,7 +577,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theatre",
-      "notes": "Schoeps MK4s · tapeworm48",
+      "notes": "Schoeps MK4s \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -561,9 +590,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Northrop Auditorium",
-      "notes": "SP-CMC-25 · lucidnight",
+      "notes": "SP-CMC-25 \u00b7 lucidnight",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-12-06 - Minneapolis, MN - Northrop Auditorium [AUD].txt"
     },
     {
       "year": 2018,
@@ -574,9 +604,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Stifel Theatre",
-      "notes": "Schoeps MK4v · unk",
+      "notes": "Schoeps MK4v \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-12-08 - St. Louis, MO - Stifel Theatre [AUD].txt"
     },
     {
       "year": 2018,
@@ -587,9 +618,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Arvest Bank Theater at the Midland",
-      "notes": "DPA 4061 · unk",
+      "notes": "DPA 4061 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-12-09 - Kansas City, MO - Arvest Bank Theater at the Midland [AUD].txt"
     },
     {
       "year": 2018,
@@ -600,9 +632,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bill Graham Civic Auditorium",
-      "notes": "CCM4s · blg mastering",
+      "notes": "CCM4s \u00b7 blg mastering",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-12-15 - San Francisco, CA - Bill Graham Civic Auditorium (CCM4s) [AUD].txt"
     },
     {
       "year": 2018,
@@ -613,9 +646,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bill Graham Civic Auditorium",
-      "notes": "MK41 · daspyknows",
+      "notes": "MK41 \u00b7 daspyknows",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-12-15 - San Francisco, CA - Bill Graham Civic Auditorium (MK4) (daspyknows) [AUD].txt"
     },
     {
       "year": 2018,
@@ -628,7 +662,8 @@ const ARTIST_DATA = {
       "venue": "Observatory North Park",
       "notes": "funkymunkey",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-12-17 - San Diego, CA - Observatory North Park [AUD].txt"
     },
     {
       "year": 2018,
@@ -639,7 +674,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Observatory North Park",
-      "notes": "Schoeps MK41s · ed davis",
+      "notes": "Schoeps MK41s \u00b7 ed davis",
       "version": "IEM",
       "format": "FLAC"
     },
@@ -652,9 +687,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Orpheum Theatre",
-      "notes": "CA-14 · lucifuge",
+      "notes": "CA-14 \u00b7 lucifuge",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-12-19 - Los Angeles, CA - Orpheum Theatre [AUD].txt"
     },
     {
       "year": 2018,
@@ -665,9 +701,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Orpheum Theatre",
-      "notes": "CA-14 · lucifuge",
+      "notes": "CA-14 \u00b7 lucifuge",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-12-20 - Los Angeles, CA - Orpheum Theatre [AUD].txt"
     },
     {
       "year": 2018,
@@ -678,9 +715,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "The Chelsea",
-      "notes": "Schoeps MK41s · ed davis",
+      "notes": "Schoeps MK41s \u00b7 ed davis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-12-22 - Las Vegas, NV - The Chelsea [AUD].txt"
     },
     {
       "year": 2019,
@@ -691,9 +729,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Palladium",
-      "notes": "DPA 4061 · flying horseman",
+      "notes": "DPA 4061 \u00b7 flying horseman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-07-02 - Cologne, Germany - Palladium (flying horseman) [AUD24].txt"
     },
     {
       "year": 2019,
@@ -704,9 +743,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Frankfurt am Main, Germany",
       "venue": "Jahrhunderthalle",
-      "notes": "Schoeps MK6 · unk",
+      "notes": "Schoeps MK6 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-07-03 - Frankfurt, Germany - Jahrhunderthalle [AUD].txt"
     },
     {
       "year": 2019,
@@ -717,9 +757,10 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Perugia, Italy",
       "venue": "Arena Santa Giuliana",
-      "notes": "iPhone 7 with Shure MV88 · flatline",
+      "notes": "iPhone 7 with Shure MV88 \u00b7 flatline",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-07-20 - Perugia, Italy - Umbria Jazz Arena Santa Giuliana [AUD24].txt"
     },
     {
       "year": 2019,
@@ -730,9 +771,10 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Rome, Italy",
       "venue": "Auditorium Parco della Musica",
-      "notes": "Rock · Olympus LS-10 · todtap",
+      "notes": "Rock \u00b7 Olympus LS-10 \u00b7 todtap",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-07-21 - Roma, Italy - Auditorium Parco della Musica (Olympus LS-10) [AUD24].txt"
     },
     {
       "year": 2019,
@@ -745,7 +787,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-09-22 - BBC4 Desert Island Disks (Thom Interview) [FM].txt"
     },
     {
       "year": 2019,
@@ -758,7 +801,8 @@ const ARTIST_DATA = {
       "venue": "The Late Show With Stephen Colbert",
       "notes": "",
       "version": "TV",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2019-10-01 - New York, NY - The Late Show With Stephen Colbert [PRO].txt"
     },
     {
       "year": 2019,
@@ -769,9 +813,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Fox Theatre",
-      "notes": "Schoeps MK4s · sevoflurane",
+      "notes": "Schoeps MK4s \u00b7 sevoflurane",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-10-06 - Atlanta, GA - Fox Theatre [AUD24].txt"
     },
     {
       "year": 2019,
@@ -782,9 +827,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theater",
-      "notes": "MK4 · daspyknows",
+      "notes": "MK4 \u00b7 daspyknows",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-10-18 - Berkeley, CA - Greek Theater (MK4) (daspyknows) [AUD].wav.txt"
     },
     {
       "year": 2019,
@@ -795,7 +841,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theater",
-      "notes": "MK4 · daspyknows · inez edit",
+      "notes": "MK4 \u00b7 daspyknows \u00b7 inez edit",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -808,9 +854,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Greek Theatre",
-      "notes": "SP-CMC-2 · hyprl00p",
+      "notes": "SP-CMC-2 \u00b7 hyprl00p",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-10-29 - Los Angeles, CA - Greek Theatre [AUD24].txt"
     },
     {
       "year": 2019,
@@ -821,7 +868,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Greek Theatre",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -834,9 +881,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Greek Theatre",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-10-30 - Los Angeles, CA - Greek Theatre [AUD24].txt"
     },
     {
       "year": 2019,
@@ -849,7 +897,8 @@ const ARTIST_DATA = {
       "venue": "Ed Suliivan Theatre",
       "notes": "Late",
       "version": "WEB",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2019-11-14 - The Late Show With Stephen Colbert [PRO].txt"
     },
     {
       "year": 2020,
@@ -862,7 +911,8 @@ const ARTIST_DATA = {
       "venue": "Late Night with Jimmy Fallon \"At Home Edition\"",
       "notes": "",
       "version": "TV",
-      "format": "MPG"
+      "format": "MPG",
+      "textFile": "2020-04-29 - New York, NY - The Tonight Show Starring Jimmy Fallon [TV].txt"
     },
     {
       "year": 2022,
@@ -872,10 +922,11 @@ const ARTIST_DATA = {
       "city": "Zermatt",
       "state": "Switzerland",
       "location": "Zermatt, Switzerland",
-      "venue": "Zeltbühne",
-      "notes": "Zermatt · Zoom H1n · jc gendly",
+      "venue": "Zeltbu\u0308hne",
+      "notes": "Zermatt \u00b7 Zoom H1n \u00b7 jc gendly",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-04-09 - Zermatt, Switzerland - Zeltbu\u0308hne - Zermatt Unplugged (Zoom H1n) (jc gendly) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -886,9 +937,10 @@ const ARTIST_DATA = {
       "state": "New Zealand",
       "location": "Auckland, New Zealand",
       "venue": "Spark Arena",
-      "notes": "Zoom H1n · unk",
+      "notes": "Zoom H1n \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-10-25 - Auckland, New Zealand - Spark Arena (Zoom H1n) (unk) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -899,9 +951,10 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Melbourne, AUS",
       "venue": "Sidney Myer Music Bowl",
-      "notes": "Nokia Lumia 930 · freddie007",
+      "notes": "Nokia Lumia 930 \u00b7 freddie007",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-10-29 - Melbourne, Australia - Sidney Myer Music Bowl (Zoom H1n) (choc_eclaire) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -912,7 +965,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Sidney Myer Music Bowl",
-      "notes": "Zoom H1n · choc_eclaire",
+      "notes": "Zoom H1n \u00b7 choc_eclaire",
       "version": "AUD",
       "format": "FLAC 24"
     }

@@ -31,7 +31,8 @@ const ARTIST_DATA = {
       "venue": "WMC-FM Radio",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1973-10-30 - Memphis, TN - WMC-FM Radio [preFM].txt"
     },
     {
       "year": 1973,
@@ -57,7 +58,8 @@ const ARTIST_DATA = {
       "venue": "LA Forum",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1973-11-23 - Inglewood, CA - LA Forum [AUD].txt"
     },
     {
       "year": 1973,
@@ -70,7 +72,8 @@ const ARTIST_DATA = {
       "venue": "LA Forum",
       "notes": "inc",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1973-11-26 - Inglewood, CA - LA Forum (inc) [SBD].txt"
     },
     {
       "year": 1974,
@@ -96,7 +99,8 @@ const ARTIST_DATA = {
       "venue": "The Mosque",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-02-07 - Richmond, VA - The Mosque (Master) [AUD].txt"
     },
     {
       "year": 1975,
@@ -109,7 +113,8 @@ const ARTIST_DATA = {
       "venue": "Soldiers and Sailors Memorial Auditorium",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-03-19 - Chattanooga, TN - Soldiers and Sailors Memorial Auditorium [SBD] .txt"
     },
     {
       "year": 1975,
@@ -133,9 +138,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "St. Petersburg, FL",
       "venue": "Bayfront Center",
-      "notes": "ANA(x) · unk · wes meyette",
+      "notes": "ANA(x) \u00b7 unk \u00b7 wes meyette",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-03-27 - St. Petersburg, FL - Bayfront Center - ANA(x) (unk) (wes meyette) [AUD].txt"
     },
     {
       "year": 1975,
@@ -146,9 +152,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Frankfurt, Germany",
       "venue": "Jahrhunderthalle",
-      "notes": "Telfunken Magnetophon · hb",
+      "notes": "Telfunken Magnetophon \u00b7 hb",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-10-22 - Frankfurt, Germany - Jahrhunderthalle (Telfunken Magnetophon) (hb) [AUD].txt"
     },
     {
       "year": 1975,
@@ -161,7 +168,8 @@ const ARTIST_DATA = {
       "venue": "Cardiff Castle",
       "notes": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-11-04 - Cardiff, Wales - Cardiff Castle [preFM].txt"
     },
     {
       "year": 1975,
@@ -174,7 +182,8 @@ const ARTIST_DATA = {
       "venue": "The Unreleased KBFH Show",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-11-06 - Cardiff, Wales - The Unreleased KBFH Show [SBD].txt"
     },
     {
       "year": 1975,
@@ -187,7 +196,8 @@ const ARTIST_DATA = {
       "venue": "Salle Pleyel",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-11-07 - Paris, France - Salle Pleyel (1st Gen Reel) [FM].txt"
     },
     {
       "year": 1976,
@@ -200,7 +210,8 @@ const ARTIST_DATA = {
       "venue": "Winterland",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1976-03-07 - San Francisco, CA - Winterland [SBD].txt"
     },
     {
       "year": 1976,
@@ -213,7 +224,8 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre",
       "notes": "steve hopkins",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1976-04-07 - Boston, MA - Orpheum Theatre (Steve Hopkins) [AUD].txt"
     },
     {
       "year": 1976,
@@ -226,7 +238,8 @@ const ARTIST_DATA = {
       "venue": "Civic Center",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1976-07-25 - Lakeland, FL - Civic Center (Master) [AUD].txt"
     },
     {
       "year": 1976,
@@ -239,7 +252,8 @@ const ARTIST_DATA = {
       "venue": "Knebworth Park",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1976-08-21 - Stevenage, England - Knebworth Park [SBD].txt"
     },
     {
       "year": 1976,
@@ -265,7 +279,8 @@ const ARTIST_DATA = {
       "venue": "Cape Cod Coliseum",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1976-08-27 - South Yarmouth, MA - Cape Cod Coliseum (Sony ECM-99) (dan lampinski) [AUD24].txt"
     },
     {
       "year": 1976,
@@ -276,7 +291,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "South Yarmouth, MA",
       "venue": "Cape Cod Coliseum",
-      "notes": "Sony ECM-99 · dan lampinski",
+      "notes": "Sony ECM-99 \u00b7 dan lampinski",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -291,7 +306,8 @@ const ARTIST_DATA = {
       "venue": "Nikano Sun Plaza",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-01-14 - Tokyo, Japan - Nakano Sun Plaza [AUD].txt"
     },
     {
       "year": 1977,
@@ -304,7 +320,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-01-18 - Osaka, Japan - The Last Flight [Silver].txt"
     },
     {
       "year": 1977,
@@ -317,7 +334,8 @@ const ARTIST_DATA = {
       "venue": "City Hall",
       "notes": "with soundcheck",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-02-05 - Sheffield, UK - City Hall (with soundcheck) [AUD].txt"
     },
     {
       "year": 1977,
@@ -330,7 +348,8 @@ const ARTIST_DATA = {
       "venue": "John F. Kennedy Stadium",
       "notes": "thebadest",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-06-11 - Philadelphia, PA - John F. Kennedy Stadium (thebadest) [SBD].txt"
     },
     {
       "year": 1977,
@@ -343,7 +362,8 @@ const ARTIST_DATA = {
       "venue": "Convention Hall",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-07-13 - Asbury Park, NJ - Convention Hall (No Label) [SBD].txt"
     },
     {
       "year": 1977,
@@ -369,7 +389,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM & TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-10-20 - Crash Reports.txt"
     },
     {
       "year": 1978,
@@ -382,7 +403,8 @@ const ARTIST_DATA = {
       "venue": "Studio One",
       "notes": "Superjam 78",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1978-08-30 - Doraville, GA - Studio One (Superjam 78) [FM].txt"
     },
     {
       "year": 1987,
@@ -393,9 +415,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Concord Pavilion",
-      "notes": "Source 2 · Shure SM58 · marcus buick",
+      "notes": "Source 2 \u00b7 Shure SM58 \u00b7 marcus buick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1987-09-23 - Concord, CA - Concord Pavilion (Source 2) (Shure SM58) (marcus buick) [AUD].txt"
     },
     {
       "year": 1988,
@@ -408,7 +431,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "WW1",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-07-02 - Mountain View, CA - Shoreline Amphitheatre (WW1) [FM].txt"
     },
     {
       "year": 1993,
@@ -419,9 +443,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Conference Room (WLUP FM)",
-      "notes": "ANA(M) · krw_co",
+      "notes": "ANA(M) \u00b7 krw_co",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-03-22 - Chicago, IL - Conference Room (WLUP FM) - ANA(M) (krw_co) [FM].txt"
     },
     {
       "year": 1993,
@@ -434,7 +459,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-04-19 - WRDU Studios - 6PM [FM].txt"
     },
     {
       "year": 1994,
@@ -447,7 +473,8 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheater",
       "notes": "WW1",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-20 - Atlanta, GA - Lakewood Amphitheater (WW1) [preFM].txt"
     },
     {
       "year": 1995,
@@ -460,7 +487,8 @@ const ARTIST_DATA = {
       "venue": "Sandstone Amphitheatre",
       "notes": "DAT",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-13 - Bonner Springs, KS - Sandstone Amphitheatre (DAT) [AUD].txt"
     },
     {
       "year": 1995,
@@ -473,7 +501,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre",
       "notes": "ballsdeep 2018 remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-24 - Universal City, CA - Universal Amphitheatre (ballsdeep 2018 remaster) [AUD].txt"
     },
     {
       "year": 2018,
@@ -486,7 +515,8 @@ const ARTIST_DATA = {
       "venue": "Buckhead Theatre",
       "notes": "Sirius",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-03-15 - Atlanta, GA - Buckhead Theatre (Sirius XM) [SBD].txt"
     }
   ],
   "misc": [

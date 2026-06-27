@@ -23,7 +23,8 @@ const ARTIST_DATA = {
       "venue": "The Kennedy Center",
       "notes": "",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1972-05-01 - Washington, D.C. - The Kennedy Center [SBD].txt"
     },
     {
       "year": 1978,
@@ -49,7 +50,8 @@ const ARTIST_DATA = {
       "venue": "Nippon Budokan",
       "notes": "",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1979-11-13 - Tokyo, Japan - Nippon Budokan [SBD].txt"
     },
     {
       "year": 1983,

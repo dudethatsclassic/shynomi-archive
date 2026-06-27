@@ -26,7 +26,8 @@ const ARTIST_DATA = {
       "venue": "Woody's - AUD",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 ECM-929"
+      "notes": "M \u00b7 ECM-929",
+      "textFile": "1990-08-09 - New York, NY - Woody's - AUD(M) (ECM-929) [AUD].txt"
     },
     {
       "year": 1990,
@@ -39,7 +40,8 @@ const ARTIST_DATA = {
       "venue": "Babylon A Go-Go Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "2019 kneesfudd remaster"
+      "notes": "2019 kneesfudd remaster",
+      "textFile": "1990-08-14 - Cleveland, OH, Babylon A Go Go Club (2019 kneesfudd remaster) [AUD].txt"
     },
     {
       "year": 1990,
@@ -52,7 +54,8 @@ const ARTIST_DATA = {
       "venue": "Club Lingerie",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AU3 Cassette Transfer"
+      "notes": "AU3 Cassette Transfer",
+      "textFile": "1990-08-25 - Los Angeles,CA - Club Lingerie (AU3 Cassette Transfer) [AUD].txt"
     },
     {
       "year": 1990,
@@ -65,7 +68,8 @@ const ARTIST_DATA = {
       "venue": "Massey Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony Walkman"
+      "notes": "Sony Walkman",
+      "textFile": "1990-11-21 - Toronto, Ontario - Massey Hall (Sony Walkman) [AUD].txt"
     },
     {
       "year": 1993,
@@ -104,7 +108,8 @@ const ARTIST_DATA = {
       "venue": "KCRW Studios",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1993-10-05 - Santa Monica, CA - KCRW Studios [FM].txt"
     },
     {
       "year": 1993,
@@ -117,7 +122,8 @@ const ARTIST_DATA = {
       "venue": "KCRW Radio - Morning Becomes Eclectic",
       "version": "FM",
       "format": "FLAC",
-      "notes": "FM2 Tape"
+      "notes": "FM2 Tape",
+      "textFile": "1993-10-05 - Santa Monica, CA - KCRW Radio - Morning Becomes Eclectic (FM2 Tape) [FM].txt"
     },
     {
       "year": 1993,
@@ -130,7 +136,8 @@ const ARTIST_DATA = {
       "venue": "University of Manchester",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Oct 2013 transfer"
+      "notes": "Oct 2013 transfer",
+      "textFile": "1993-10-21 - Manchester, England - University of Manchester (Oct 2013 transfer) [AUD].txt"
     },
     {
       "year": 1993,
@@ -143,7 +150,8 @@ const ARTIST_DATA = {
       "venue": "Black Session",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1993-10-26 - Paris, France - Black Session [FM].txt"
     },
     {
       "year": 1993,
@@ -156,7 +164,8 @@ const ARTIST_DATA = {
       "venue": "De Vaartkapoen",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1993-10-28 - Bruxelles, Belgium - De Vaartkapoen [AUD].txt"
     },
     {
       "year": 1993,
@@ -169,7 +178,8 @@ const ARTIST_DATA = {
       "venue": "Maxwell's",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Audio Technica"
+      "notes": "Audio Technica",
+      "textFile": "1993-11-06 - Hoboken, NJ - Maxwell's (Audio Technica) [AUD].txt"
     },
     {
       "year": 1993,
@@ -182,7 +192,8 @@ const ARTIST_DATA = {
       "venue": "The Grog Shop",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Panasonic RQ-335 Walkman"
+      "notes": "Panasonic RQ-335 Walkman",
+      "textFile": "1993-11-14 - Cleveland Heights, OH - The Grog Shop (Panasonic RQ-335 Walkman) [AUD].txt"
     },
     {
       "year": 1993,
@@ -195,7 +206,8 @@ const ARTIST_DATA = {
       "venue": "Lounge Ax - DAT",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Sony ECM-S220"
+      "notes": "M \u00b7 Sony ECM-S220",
+      "textFile": "1993-11-15 - Chicago, IL - Lounge Ax - DAT(M) (Sony ECM-S220) [AUD].txt"
     },
     {
       "year": 1994,
@@ -208,7 +220,8 @@ const ARTIST_DATA = {
       "venue": "Cat's Cradle (CSB) - DAT",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 mrpember"
+      "notes": "M \u00b7 mrpember",
+      "textFile": "1994-03-13 - Carrboro, NC -Cat's Cradle (CSB) - DAT(M) (mrpember) [AUD] .txt"
     },
     {
       "year": 1994,
@@ -221,7 +234,8 @@ const ARTIST_DATA = {
       "venue": "CBGB",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT mic \u00b7 scott simpson"
+      "notes": "AT mic \u00b7 scott simpson",
+      "textFile": "1994-03-17 - New York, NY - CBGB (AT mic) (scott simpson) [AUD].C.txt"
     },
     {
       "year": 1994,
@@ -234,7 +248,8 @@ const ARTIST_DATA = {
       "venue": "The Palace",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1994-04-09 - Los Angeles, CA, - The Palace [AUD].txt"
     },
     {
       "year": 1994,
@@ -260,7 +275,8 @@ const ARTIST_DATA = {
       "venue": "University of Manchester Institute of Science and Technology",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1994-06-17 - Manchester, UK - University of Manchester Institute of Science and Technology [AUD].txt"
     },
     {
       "year": 1994,
@@ -273,7 +289,8 @@ const ARTIST_DATA = {
       "venue": "Pacific",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1994-06-22 - Antwerp, Belgium - Pacific [AUD].txt"
     },
     {
       "year": 1994,
@@ -286,7 +303,8 @@ const ARTIST_DATA = {
       "venue": "",
       "version": "TV",
       "format": "MPG",
-      "notes": ""
+      "notes": "",
+      "textFile": "1994-07-10 - Later wirh Jools Holland [TV].txt"
     },
     {
       "year": 1994,
@@ -299,7 +317,8 @@ const ARTIST_DATA = {
       "venue": "Avalon",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AKG C1000s \u00b7 david landsberger"
+      "notes": "AKG C1000s \u00b7 david landsberger",
+      "textFile": "1994-10-19 - Boson, MA - Avalon (AKG C1000s) (david landsberger) [AUD].txt"
     },
     {
       "year": 1994,
@@ -312,7 +331,8 @@ const ARTIST_DATA = {
       "venue": "Metro",
       "version": "SBD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1994-11-12 - Chicago, IL - Metro [SBD].txt"
     },
     {
       "year": 1994,
@@ -325,7 +345,8 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DAT \u00b7 Unknown"
+      "notes": "DAT \u00b7 Unknown",
+      "textFile": "1994-11-22 - San Francisco, CA - The Fillmore - DAT(M) (Sony TCD-D7) (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -351,7 +372,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre - KROQ Almost Acoustic Xmas",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Upgrade"
+      "notes": "Upgrade",
+      "textFile": "1994-12-10 - Universal City, CA - Universal Amphitheatre - KROQ Almost Acoustic Xmas (Upgrade) [FM].txt"
     },
     {
       "year": 1996,
@@ -364,7 +386,8 @@ const ARTIST_DATA = {
       "venue": "Slims - DAT(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "MK4 \u00b7 teddy ballgame"
+      "notes": "MK4 \u00b7 teddy ballgame",
+      "textFile": "1996-04-04 - San Francisco, CA - Slims - DAT(M) (MK4) (teddy ballgame) [AUD].txt"
     },
     {
       "year": 1996,
@@ -377,7 +400,8 @@ const ARTIST_DATA = {
       "venue": "BBC Radio Sessions",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1996-10-31 - London, UK - BBC Radio Sessions [FM].txt"
     },
     {
       "year": 1996,
@@ -390,7 +414,8 @@ const ARTIST_DATA = {
       "venue": "Union Chapel",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DAT"
+      "notes": "DAT",
+      "textFile": "1996-11-04 - London, UK - Union Chapel (DAT) [AUD].txt"
     },
     {
       "year": 1996,
@@ -403,7 +428,8 @@ const ARTIST_DATA = {
       "venue": "Vega",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1996-11-22 - Copenhagen, Denmark - Vega [AUD].txt"
     },
     {
       "year": 1996,
@@ -416,7 +442,8 @@ const ARTIST_DATA = {
       "venue": "Supper Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "master"
+      "notes": "master",
+      "textFile": "1996-12-01 - New York, NY - Supper Club [AUD].txt"
     },
     {
       "year": 1996,
@@ -429,7 +456,8 @@ const ARTIST_DATA = {
       "venue": "Supper Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Neumann 184"
+      "notes": "Neumann 184",
+      "textFile": "1996-12-01 - New York, NY - Supper Club (Neumann 184) [AUD].txt"
     },
     {
       "year": 1996,
@@ -442,7 +470,8 @@ const ARTIST_DATA = {
       "venue": "Avalon",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sony ECM-909A"
+      "notes": "Sony ECM-909A",
+      "textFile": "1996-12-03 - Boston, MA - Avalon (Sony WM-D3-Sony ECM-909A) [AUD24].txt"
     },
     {
       "year": 1996,
@@ -455,7 +484,8 @@ const ARTIST_DATA = {
       "venue": "KCRW Studios",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1996-12-19 - Santa Monica, CA - KCRW Studios [FM].txt"
     },
     {
       "year": 1996,
@@ -468,7 +498,8 @@ const ARTIST_DATA = {
       "venue": "Slim's",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "jason brodsky"
+      "notes": "jason brodsky",
+      "textFile": "1996-12-21 - San Francisco, CA - Slim's (jason brodsky) [SBD24].txt"
     },
     {
       "year": 2012,
@@ -481,7 +512,8 @@ const ARTIST_DATA = {
       "venue": "Amager Bio",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CA-11 \u00b7 Unknown"
+      "notes": "CA-11 \u00b7 Unknown",
+      "textFile": "2012-08-06 - Copenhaguen, Denmark - Amager Bio (CA-11) (unk) [AUD].txt"
     },
     {
       "year": 2013,
@@ -494,7 +526,8 @@ const ARTIST_DATA = {
       "venue": "Vic Theatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "HEB 4060 \u00b7 jb"
+      "notes": "HEB 4060 \u00b7 jb",
+      "textFile": "2013-11-13 - Chicago, IL - Vic Theatre (HEB 4060) (jb) [AUD24].txt"
     },
     {
       "year": 2019,
@@ -507,7 +540,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoepls CCM4s \u00b7 blg mastering"
+      "notes": "Schoepls CCM4s \u00b7 blg mastering",
+      "textFile": "2019-02-24 - Oakland, CA - Fox Theatre (Schoepls CCM4s) (blg mastering) [AUD].txt"
     }
   ]
 };

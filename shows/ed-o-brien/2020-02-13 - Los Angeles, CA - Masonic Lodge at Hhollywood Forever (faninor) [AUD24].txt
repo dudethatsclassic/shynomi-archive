@@ -1,0 +1,36 @@
+EOB
+2020-02-13
+Masonic Lodge at Hollywood Forever
+Los Angeles, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz PCM
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro (Santa Teresa)
+02 - Love Story
+03 - Shangri-La
+04 - Banksters
+05 - Mass
+06 - On My Own
+07 - Long Time Coming
+08 - Deep Days
+09 - Brasil
+10 - Sail On
+11 - Olympik
+12 - I Got The
+
+-- Notes --
+EOB touring band consists of:
+Ed O'Brien - guitar + vocals
+Ross Chapman - guitar
+Hinako Omori - keys
+Dishan Abrahams - bass
+Alvin Ford Jr - drums
+
+Length: 1h13m40s
+
+-- faninor -- 2020-02-26 --

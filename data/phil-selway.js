@@ -19,9 +19,10 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Tunnel",
-      "notes": "Phil and Lisa Germano · Tascam DR1 · loveandsoul",
+      "notes": "Phil and Lisa Germano \u00b7 Tascam DR1 \u00b7 loveandsoul",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-04-01 - Milan, Italy - Tunnel (Phil and Lisa Germano) [AUD].txt"
     },
     {
       "year": 2010,
@@ -45,9 +46,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Music Hall of Williamsburg",
-      "notes": "AT831 · inez",
+      "notes": "AT831 \u00b7 inez",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-08-06 - Brooklyn, NY - Music Hall of Williamsburg [AUD].txt"
     }
   ],
   "misc": []

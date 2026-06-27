@@ -25,7 +25,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -40,7 +40,8 @@ const ARTIST_DATA = {
       "venue": "Eagle's Ballroom",
       "notes": "cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-11-27 - Milwaukee, WI - Eagle's Ballroom (SM98) [AUD].txt"
     },
     {
       "year": 2001,
@@ -51,9 +52,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Brighton, CO",
       "venue": "Adams Country Fairgrounds",
-      "notes": "CSBs · sxpxdxcx",
+      "notes": "CSBs \u00b7 sxpxdxcx",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-07-08 - Brighton, CO - Adams Country Fairgrounds (CSBs) (sxpxdxcx) [AUD].txt"
     },
     {
       "year": 2006,
@@ -66,7 +68,8 @@ const ARTIST_DATA = {
       "venue": "Henry Fonda Music Box Theatre",
       "notes": "cusnuff",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-04-28 - Hollywood, CA - Henry Fonda Music Box Theatre (cusnuff) [AUD].txt"
     },
     {
       "year": 2007,
@@ -79,7 +82,8 @@ const ARTIST_DATA = {
       "venue": "Medford Armory",
       "notes": "faninor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-03-07 - Medford, OR - Medford Armory (faninor) [AUD].txt"
     },
     {
       "year": 2023,
@@ -90,9 +94,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Discovery Park",
-      "notes": "Aftershock · Schoeps MK4s · tj",
+      "notes": "Aftershock \u00b7 Schoeps MK4s \u00b7 tj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-10-05 - Sacramento, CA - Discovery Park - Aftershock Festival (Schoeps MK4s) (tj) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -103,9 +108,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "Schoeps MK4 · loughney",
+      "notes": "Schoeps MK4 \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-09-04 - Mountain View, CA - Shoreline Amphitheatre (Schoeps MK4s) (tj) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -116,7 +122,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "Schoeps MK4s · tj",
+      "notes": "Schoeps MK4s \u00b7 tj",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -131,7 +137,8 @@ const ARTIST_DATA = {
       "venue": "Corona Capital",
       "notes": "Livestream",
       "version": "WEB",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2025-11-16 - CDMX, Mexico - Corona Capital (Livestream) [WEB].txt"
     }
   ],
   "misc": []

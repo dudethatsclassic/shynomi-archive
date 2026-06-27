@@ -24,9 +24,10 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hackensack, NJ",
       "venue": "Georges Club 20",
-      "notes": "Curtis Knight w/ JH · vinyl transfer",
+      "notes": "Curtis Knight w/ JH \u00b7 vinyl transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1965-12-26 - Hackensack, NJ - Georges Club 20.txt"
     },
     {
       "year": 1966,
@@ -39,7 +40,8 @@ const ARTIST_DATA = {
       "venue": "Cheetah Club *Curtis Knight Live Material 1965-66",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1966-02-24 - New York, NY - Cheetah Club.txt"
     },
     {
       "year": 1966,
@@ -52,6 +54,34 @@ const ARTIST_DATA = {
       "venue": "l'Olympia \"Musicorama\"",
       "notes": "French Radio",
       "version": "SBD",
+      "format": "FLAC",
+      "textFile": "1966-10-18 - Paris, France - L'Olympia.txt"
+    },
+    {
+      "year": 1966,
+      "month": 12,
+      "day": 29,
+      "dateStr": "12-29-1966",
+      "city": "London",
+      "state": "England",
+      "location": "London, England",
+      "venue": "Area C, Lime Grove / BBC TV",
+      "notes": "Top of the Pops \u00b7 Source 1",
+      "version": "TV",
+      "format": "APE",
+      "textFile": "1966-12-29 - London, UK - Top Of The Pops (BBC TV).txt"
+    },
+    {
+      "year": 1966,
+      "month": 12,
+      "day": 29,
+      "dateStr": "12-29-1966",
+      "city": "London",
+      "state": "England",
+      "location": "London, England",
+      "venue": "Area C, Lime Grove / BBC TV",
+      "notes": "Top of the Pops \u00b7 Source 2",
+      "version": "TV",
       "format": "FLAC"
     },
     {
@@ -63,33 +93,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Area C, Lime Grove / BBC TV",
-      "notes": "Top of the Pops · Source 1",
-      "version": "TV",
-      "format": "APE"
-    },
-    {
-      "year": 1966,
-      "month": 12,
-      "day": 29,
-      "dateStr": "12-29-1966",
-      "city": "London",
-      "state": "England",
-      "location": "London, England",
-      "venue": "Area C, Lime Grove / BBC TV",
-      "notes": "Top of the Pops · Source 2",
-      "version": "TV",
-      "format": "FLAC"
-    },
-    {
-      "year": 1966,
-      "month": 12,
-      "day": 29,
-      "dateStr": "12-29-1966",
-      "city": "London",
-      "state": "England",
-      "location": "London, England",
-      "venue": "Area C, Lime Grove / BBC TV",
-      "notes": "Top of the Pops · Source 3 · pitch corrected",
+      "notes": "Top of the Pops \u00b7 Source 3 \u00b7 pitch corrected",
       "version": "TV",
       "format": "FLAC"
     },
@@ -115,9 +119,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Broadcasting House",
-      "notes": "Great · johnny kidd",
+      "notes": "Great \u00b7 johnny kidd",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-01-30 - London, UK - BBC Pop North (johnny kidd).txt"
     },
     {
       "year": 1967,
@@ -130,7 +135,8 @@ const ARTIST_DATA = {
       "venue": "Saville Theatre",
       "notes": "",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-01-31 - London, UK - Saville Theatre.txt"
     },
     {
       "year": 1967,
@@ -143,7 +149,8 @@ const ARTIST_DATA = {
       "venue": "The Flamingo Club",
       "notes": "Unknown lineage",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-02-04 - London, UK - The Flamingo Club [AUD].txt"
     },
     {
       "year": 1967,
@@ -182,7 +189,8 @@ const ARTIST_DATA = {
       "venue": "Saturday Club Broadcasting House",
       "notes": "BBC DAT Masters",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-02-13 - London, UK - Saturday Club Broadcasting House (BBC) [FM].txt"
     },
     {
       "year": 1967,
@@ -234,7 +242,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "Demo",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-03-17 - Apt. Jam with Taj Mahal.txt"
     },
     {
       "year": 1967,
@@ -245,9 +254,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Studio 1",
-      "notes": "NDR · FM Broadcast Master-DAT",
+      "notes": "NDR \u00b7 FM Broadcast Master-DAT",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-03-18 - Hamburg, Germany - Studio 1 - NDR Radiohouse.txt"
     },
     {
       "year": 1967,
@@ -271,7 +281,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Studio 1",
-      "notes": "NDR · twin club series",
+      "notes": "NDR \u00b7 twin club series",
       "version": "FM",
       "format": "FLAC"
     },
@@ -286,7 +296,8 @@ const ARTIST_DATA = {
       "venue": "Saturday Club Broadcasting House",
       "notes": "from BBC DAT Masters",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-03-28 - London, UK - Saturday Club Broadcasting House (BBC) [FM].txt"
     },
     {
       "year": 1967,
@@ -297,9 +308,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC TV Lime Grove Studios",
-      "notes": "Area · Top of the Pops",
+      "notes": "Area \u00b7 Top of the Pops",
       "version": "TV",
-      "format": "APE"
+      "format": "APE",
+      "textFile": "1967-03-30 - London, UK - Top of the Pops.txt"
     },
     {
       "year": 1967,
@@ -312,7 +324,8 @@ const ARTIST_DATA = {
       "venue": "Gaumont Cinema",
       "notes": "filmed for french TV,  \"Bouton Rouge\"",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1967-04-01 - Ipswich, UK - DVD.txt"
     },
     {
       "year": 1967,
@@ -323,9 +336,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Playhouse Theatre",
-      "notes": "Monday, · jimiclones, goody",
+      "notes": "Monday, \u00b7 jimiclones, goody",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-04-10 - London, UK - Playhouse Theatre - Monday, Monday BBC (jimiclones) [FM].txt"
     },
     {
       "year": 1967,
@@ -338,7 +352,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "TV",
-      "format": "APE"
+      "format": "APE",
+      "textFile": "1967-04-17 - BBC TV Studio - Late Night Line Up.txt"
     },
     {
       "year": 1967,
@@ -349,9 +364,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC TV Lime Grove Studios",
-      "notes": "Area · Top of the Pops",
+      "notes": "Area \u00b7 Top of the Pops",
       "version": "TV",
-      "format": "APE"
+      "format": "APE",
+      "textFile": "1967-05-10 - London, UK - Top of the Pops.txt"
     },
     {
       "year": 1967,
@@ -362,9 +378,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Music Hall de France",
-      "notes": "TV · Paris Drucker show",
+      "notes": "TV \u00b7 Paris Drucker show",
       "version": "TV",
-      "format": "APE"
+      "format": "APE",
+      "textFile": "1967-05-11 - Paris, France - Music Hall de France - TV Recording Tilt Magazine.txt"
     },
     {
       "year": 1967,
@@ -375,9 +392,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Offenbach, Germany",
       "venue": "Stadthalle *Beat Beat Beat",
-      "notes": "European Broadcast · goody master",
+      "notes": "European Broadcast \u00b7 goody master",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-05-18; 06-02 - Offenbach, Germany; Copenhagen, DK (goody remaster) [FM, AUD].txt"
     },
     {
       "year": 1967,
@@ -414,7 +432,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Copenhagen",
       "venue": "Falkoner Centret",
-      "notes": "ANA(M?) · carsten grolin",
+      "notes": "ANA(M?) \u00b7 carsten grolin",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -429,7 +447,8 @@ const ARTIST_DATA = {
       "venue": "Grona Lund",
       "notes": "Vibratory Merge",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-05-24 - Stockholm, Sweden - Stora Scenen - Grona Lund - Tivoli Gardens - (Master to Reel 2 to DAT).txt"
     },
     {
       "year": 1967,
@@ -440,7 +459,7 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Grona Lund (Master-Reel(2)",
-      "notes": "DAT) · krw_co",
+      "notes": "DAT) \u00b7 krw_co",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -466,7 +485,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Monterey, CA",
       "venue": "Monterey County Fairgrounds",
-      "notes": "Monterey · Pre-concert",
+      "notes": "Monterey \u00b7 Pre-concert",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -481,7 +500,8 @@ const ARTIST_DATA = {
       "venue": "Saville Theatre",
       "notes": "chris dixon's anniversary series",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-08-27 - London, UK - Saville Theatre.txt"
     },
     {
       "year": 1967,
@@ -494,7 +514,8 @@ const ARTIST_DATA = {
       "venue": "Tivoli Garden",
       "notes": "Dans In",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-09-04 - Stockholm, Sweden - Tivoli Garden.txt"
     },
     {
       "year": 1967,
@@ -546,7 +567,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-09-10 - Sweden - 'The Swedish Show' Disc 3 (Supplement).txt"
     },
     {
       "year": 1967,
@@ -559,7 +581,8 @@ const ARTIST_DATA = {
       "venue": "Grona Lund",
       "notes": "FD Cleanup",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-09-11 - Stockholm, Sweden [FD Cleanup].txt"
     },
     {
       "year": 1967,
@@ -570,7 +593,7 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Grona Lund / Tivoli Gardens",
-      "notes": "DAT(M) · krw_co",
+      "notes": "DAT(M) \u00b7 krw_co",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -663,7 +686,8 @@ const ARTIST_DATA = {
       "venue": "Tivolis Koncertsal",
       "notes": "Master-Cassette",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-01-07 - Copenhagen, Denmark - Tivolis Koncertsal.txt"
     },
     {
       "year": 1968,
@@ -689,7 +713,8 @@ const ARTIST_DATA = {
       "venue": "L'Olympia",
       "notes": "2nd show",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-01-29 - Paris, France - L'Olympia (2nd Show).txt"
     },
     {
       "year": 1968,
@@ -702,7 +727,8 @@ const ARTIST_DATA = {
       "venue": "Winterland Arena",
       "notes": "1st show, 1st Source",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-02-03 - Winterland, San Francisco, California (1st show)(1st source)(2nd gen).txt"
     },
     {
       "year": 1968,
@@ -739,7 +765,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Winterland Arena",
-      "notes": "Composite of 3 sources · early and late show",
+      "notes": "Composite of 3 sources \u00b7 early and late show",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -754,7 +780,8 @@ const ARTIST_DATA = {
       "venue": "The Fillmore Auditorium",
       "notes": "2nd show",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-02-04 - San Francisco, CA - Fillmore Auditorium (SBD).txt"
     },
     {
       "year": 1968,
@@ -765,9 +792,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore Auditorium",
-      "notes": "2nd show · oldnuemanntaper update",
+      "notes": "2nd show \u00b7 oldnuemanntaper update",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-02-04 - San Francisco, CA - Fillmore Auditorium (oldnuemanntaper update) [SBD].txt"
     },
     {
       "year": 1968,
@@ -778,9 +806,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Regis College",
-      "notes": "Fieldhouse · t - master",
+      "notes": "Fieldhouse \u00b7 t - master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-02-14 - Denver, CO - Regis College - Fieldhouse.txt"
     },
     {
       "year": 1968,
@@ -791,9 +820,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "State Fair Music Hall *Way Down in Texas Land",
-      "notes": "Disc 1 · unk lineage",
+      "notes": "Disc 1 \u00b7 unk lineage",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-02-16 - Dallas, TX - State Fair Music Hall.txt"
     },
     {
       "year": 1968,
@@ -806,7 +836,8 @@ const ARTIST_DATA = {
       "venue": "Will Rogers Auditorium *Way Down in Texas Land",
       "notes": "Disc 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-02-17 - Fort Worth, TX - Will Rogers Auditorium.txt"
     },
     {
       "year": 1968,
@@ -819,7 +850,8 @@ const ARTIST_DATA = {
       "venue": "Music Hall *Can You Dig That? Collectors Disc",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-02-18 - Houston, Texas - Music Hall - Can You Dig That (AUD).txt"
     },
     {
       "year": 1968,
@@ -832,7 +864,8 @@ const ARTIST_DATA = {
       "venue": "Civic Opera House",
       "notes": "funkydrummer cleanup",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-02-25 - Chicago, IL - Civiv Opera House [FD Cleanup].txt"
     },
     {
       "year": 1968,
@@ -845,7 +878,8 @@ const ARTIST_DATA = {
       "venue": "The Scene",
       "notes": "ATM 004",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-02-28 - Milwaukee, Wisconsin - The Scene - (AUD) - ATM 004.txt"
     },
     {
       "year": 1968,
@@ -856,7 +890,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "The Scene",
-      "notes": "Master 1st Transfer · goody speed/pitch adjusted remaster",
+      "notes": "Master 1st Transfer \u00b7 goody speed/pitch adjusted remaster",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -869,7 +903,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "The Scene",
-      "notes": "Master 2nd Transfer · goody speed/pitch adjusted remaster",
+      "notes": "Master 2nd Transfer \u00b7 goody speed/pitch adjusted remaster",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -882,9 +916,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hunter College",
-      "notes": "1st · Late show · speed corrected",
+      "notes": "1st \u00b7 Late show \u00b7 speed corrected",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-03-02 - New York, NY - Hunter College (Late show).txt"
     },
     {
       "year": 1968,
@@ -895,9 +930,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Scene Club",
-      "notes": "JH · RLCD 0068",
+      "notes": "JH \u00b7 RLCD 0068",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-03-07 - New York, NY - Scene Club (Jimi Hendrix & Jim Morrison).txt"
     },
     {
       "year": 1968,
@@ -908,9 +944,10 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Int'l Ballroom, Hinckley Hilton",
-      "notes": "Early show · Master",
+      "notes": "Early show \u00b7 Master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-03-10 - Washington, D.C. - Int'l Ballroom (Early show).txt"
     },
     {
       "year": 1968,
@@ -936,7 +973,8 @@ const ARTIST_DATA = {
       "venue": "Cafe Au Go Go *Blues at Midnight",
       "notes": "MB CD 037",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-03-17 - New York, NY - Cafe Au Go Go (Blues at Midnight).txt"
     },
     {
       "year": 1968,
@@ -949,7 +987,8 @@ const ARTIST_DATA = {
       "venue": "Warwick Hotel (Paul Caruso Rag Session) *Jimi's Hotel Room",
       "notes": "",
       "version": "",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1968-03-18 - New York, New York - Warwick Hotel - Paul Caruso Rag Session.txt"
     },
     {
       "year": 1968,
@@ -962,7 +1001,8 @@ const ARTIST_DATA = {
       "venue": "Capitol Theatre *Superconcert",
       "notes": "2nd show",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-03-19 - Ottawa, Ontario - Capitol Theatre (2nd show).txt"
     },
     {
       "year": 1968,
@@ -973,9 +1013,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Public Music Hall",
-      "notes": "2nd show · chris dixon series",
+      "notes": "2nd show \u00b7 chris dixon series",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-03-26 - Cleveland, OH - Public Music Hall (2nd show).txt"
     },
     {
       "year": 1968,
@@ -988,7 +1029,8 @@ const ARTIST_DATA = {
       "venue": "Paul Suave Arena *French Kiss",
       "notes": "ATM 038",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-04-02 - Montreal, Quebec - Paul Suave Arena - French Kiss - ATM 038.txt"
     },
     {
       "year": 1968,
@@ -999,9 +1041,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Generation Club",
-      "notes": "The · JH w/ B.B. King",
+      "notes": "The \u00b7 JH w/ B.B. King",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-04-09 - NYC - The Kings Jam - Generation Club (Hendrix with BB King).txt"
     },
     {
       "year": 1968,
@@ -1012,9 +1055,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Generation Club",
-      "notes": "The · Expanded",
+      "notes": "The \u00b7 Expanded",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-04-15 - New York, NY - Generation Club [SBD Remaster].txt"
     },
     {
       "year": 1968,
@@ -1051,9 +1095,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Record Plant",
-      "notes": "The · Master · eddie kramer",
+      "notes": "The \u00b7 Master \u00b7 eddie kramer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-05-03 - The Voodoo Chile Sessions - 1968.txt"
     },
     {
       "year": 1968,
@@ -1064,9 +1109,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Fillmore East",
-      "notes": "2nd show · ATM 093",
+      "notes": "2nd show \u00b7 ATM 093",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-05-05 - New York, NY - Fillmore East.txt"
     },
     {
       "year": 1968,
@@ -1079,7 +1125,8 @@ const ARTIST_DATA = {
       "venue": "Fillmore East (2nd show) *Thank You and I Just Blew Another Amp!",
       "notes": "speed corrected",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-05-10 - New York, NY - Fillmore East - 'One Night Stand'.txt"
     },
     {
       "year": 1968,
@@ -1103,9 +1150,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Hallandale, FL",
       "venue": "Gulfstream Park Racetrack",
-      "notes": "Miami Pop Festival · master",
+      "notes": "Miami Pop Festival \u00b7 master",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-05-18 - Hallandale, FL - Gulfstream Park Racetrack.txt"
     },
     {
       "year": 1968,
@@ -1118,7 +1166,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-05-21 - Stephen Stills & Jimi Hendrix.txt"
     },
     {
       "year": 1968,
@@ -1142,7 +1191,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Rome, Italy",
       "venue": "Teatro Brancaccio",
-      "notes": "Titan · godfather",
+      "notes": "Titan \u00b7 godfather",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1157,7 +1206,8 @@ const ARTIST_DATA = {
       "venue": "Emilia Romagna",
       "notes": "vibratory",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-05-26 - Bologna, Italy - Emilia Romagna.txt"
     },
     {
       "year": 1968,
@@ -1170,7 +1220,8 @@ const ARTIST_DATA = {
       "venue": "Hallenstadion",
       "notes": "arnold soder",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-05-30 and 1968-05-31 - Zurich, Switzerland [FD Cleanup].txt"
     },
     {
       "year": 1968,
@@ -1194,9 +1245,10 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Hallenstadion",
-      "notes": "fd cleanup · ATM 053",
+      "notes": "fd cleanup \u00b7 ATM 053",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-05-31 - Zurich, Switzerland - Hallenstadion.txt"
     },
     {
       "year": 1968,
@@ -1222,7 +1274,8 @@ const ARTIST_DATA = {
       "venue": "Borehamwood *It Must Be Dusty",
       "notes": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-06-05 - Hertfordshire, UK - Borehamwood.txt"
     },
     {
       "year": 1968,
@@ -1261,7 +1314,8 @@ const ARTIST_DATA = {
       "venue": "Sam Houston Coliseum",
       "notes": "Master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-08-04 - Houston, TX - Sam Houston Coliseum.txt"
     },
     {
       "year": 1968,
@@ -1274,7 +1328,8 @@ const ARTIST_DATA = {
       "venue": "Col Ballroom",
       "notes": "inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-08-11 - Davenport, IA - Col Ballroom.txt"
     },
     {
       "year": 1968,
@@ -1285,9 +1340,10 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Davenport, IA",
       "venue": "Col Ballroom *Davenport '68",
-      "notes": "lpmarkum7 transfer · goody remaster",
+      "notes": "lpmarkum7 transfer \u00b7 goody remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-08-11 - Davenport, IA - Col Ballroom - Davenport '68 (LPMarkum7 transfer) (Goody Remaster) [AUD].txt"
     },
     {
       "year": 1968,
@@ -1300,7 +1356,8 @@ const ARTIST_DATA = {
       "venue": "Merriweather Post Pavilion",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-08-16 - Columbia, MD - Merriweather Post Pavilion.txt"
     },
     {
       "year": 1969,
@@ -1313,7 +1370,8 @@ const ARTIST_DATA = {
       "venue": "Max Yasgur's Farm",
       "notes": "Woodstock",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-08-18 - Bethel, NY - Woodstock Max Yasgur's Farm.txt"
     },
     {
       "year": 1968,
@@ -1324,9 +1382,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Queens, NY",
       "venue": "Flushing Meadows Park (New York Rock Festival",
-      "notes": "Singer · ATM 233",
+      "notes": "Singer \u00b7 ATM 233",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-08-23 - Queens, NY - Flushing Meadows Park.txt"
     },
     {
       "year": 1968,
@@ -1337,7 +1396,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Queens, NY",
       "venue": "Flushing Meadows Park (New York Rock Festival",
-      "notes": "Singer · stern-bong · amalie r.",
+      "notes": "Singer \u00b7 stern-bong \u00b7 amalie r.",
       "version": "AUD (48k)",
       "format": "FLAC"
     },
@@ -1350,7 +1409,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Queens, NY",
       "venue": "Flushing Meadows Park (New York Rock Festival",
-      "notes": "Singer · stern-bong · amalie r.",
+      "notes": "Singer \u00b7 stern-bong \u00b7 amalie r.",
       "version": "AUD",
       "format": "DVD"
     },
@@ -1391,7 +1450,8 @@ const ARTIST_DATA = {
       "venue": "Pacific Coliseum *Takes Purple Barrel Acid",
       "notes": "Tarantura",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-09-07 - Vancouver, Canada - Takes Purple Barrel Acid (Tarantura).txt"
     },
     {
       "year": 1968,
@@ -1402,7 +1462,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "Pacific Coliseum",
-      "notes": "fd cleanup · goody",
+      "notes": "fd cleanup \u00b7 goody",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1430,7 +1490,8 @@ const ARTIST_DATA = {
       "venue": "Coliseum",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-09-08 - Spokane, WA - Coliseum.txt"
     },
     {
       "year": 1968,
@@ -1443,7 +1504,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Coliseum",
       "notes": "master clone",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-09-09 - Portland, OR - Memorial Coliseum.txt"
     },
     {
       "year": 1968,
@@ -1454,9 +1516,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Bowl",
-      "notes": "fd cleanup · ATM 255",
+      "notes": "fd cleanup \u00b7 ATM 255",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-09-14 - Hollywood, CA - Hollywood Bowl [FD Cleanup].txt"
     },
     {
       "year": 1968,
@@ -1480,7 +1543,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Winterland",
-      "notes": "Interview · master tape",
+      "notes": "Interview \u00b7 master tape",
       "version": "AUD",
       "format": ""
     },
@@ -1508,7 +1571,8 @@ const ARTIST_DATA = {
       "venue": "Winterland Arena (1st and 2nd show) *Hell Fire Red Collector's Disc",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-10-10 - San Francisco, CA - Winterland Arena.txt"
     },
     {
       "year": 1968,
@@ -1532,9 +1596,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Winterland Arena",
-      "notes": "Early & Late Show · 1st gen SBD",
+      "notes": "Early & Late Show \u00b7 1st gen SBD",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-10-12 - San Francisco, CA - Winterland Arena - SBD.txt"
     },
     {
       "year": 1968,
@@ -1547,7 +1612,8 @@ const ARTIST_DATA = {
       "venue": "TTG Studios (Studio B) *The Jack Bruce Jam",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-10-16 - Hollywood, CA - TTG Studios (Studio B).txt"
     },
     {
       "year": 1968,
@@ -1560,7 +1626,8 @@ const ARTIST_DATA = {
       "venue": "Sunset-Highland Recording Studios *JH & Jack Bruce Jams",
       "notes": "Master",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-10-17 - Hollywood, CA - Jimi Hendrix & Jack Bruce Jams .txt"
     },
     {
       "year": 1968,
@@ -1586,7 +1653,8 @@ const ARTIST_DATA = {
       "venue": "Minneapolis Auditorium",
       "notes": "chris dixon series",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-11-02 - Minneapolis, MN - Minneapolis Auditorium.txt"
     },
     {
       "year": 1968,
@@ -1597,9 +1665,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston Garden",
-      "notes": "ATM 139 · fd cleanup",
+      "notes": "ATM 139 \u00b7 fd cleanup",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-11-16 - Boston, MA [FD Cleanup].txt"
     },
     {
       "year": 1968,
@@ -1625,7 +1694,8 @@ const ARTIST_DATA = {
       "venue": "Philharmonic Hall *An Electronic Thanksgiving (1st show)",
       "notes": "ANA(1)",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "1968-11-28 - New York - Philharmonic Hall.txt"
     },
     {
       "year": 1968,
@@ -1675,9 +1745,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Cobo Arena",
-      "notes": "ATM 231-232 · fd cleanup and merge",
+      "notes": "ATM 231-232 \u00b7 fd cleanup and merge",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-11-30 - Detroit, MI - Cobo Arena.txt"
     },
     {
       "year": 1968,
@@ -1690,7 +1761,8 @@ const ARTIST_DATA = {
       "venue": "The Coliseum *Chicago '68",
       "notes": "ANA(1)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-12-01 - Chicago, Illinois - The Coliseum.txt"
     },
     {
       "year": 1969,
@@ -1716,7 +1788,8 @@ const ARTIST_DATA = {
       "venue": "Lorensbergs Circkus",
       "notes": "1st gen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-01-08 - Gothenburg, Sweden - Lorensbergs Circkus.txt"
     },
     {
       "year": 1969,
@@ -1727,7 +1800,7 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Gothenburg, Sweden",
       "venue": "Lorensbergs Circkus",
-      "notes": "Master · Second Show",
+      "notes": "Master \u00b7 Second Show",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1740,7 +1813,7 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Gothenburg, Sweden",
       "venue": "Lorensbergs Circkus",
-      "notes": "Gothenburg resynced · clip",
+      "notes": "Gothenburg resynced \u00b7 clip",
       "version": "PRO",
       "format": "DVD"
     },
@@ -1755,7 +1828,8 @@ const ARTIST_DATA = {
       "venue": "Konserthuset *On the Killing Floor",
       "notes": "Both shows",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-01-09 - Stockholm, Sweden - Konserthuset.txt"
     },
     {
       "year": 1969,
@@ -1781,7 +1855,8 @@ const ARTIST_DATA = {
       "venue": "Falkoner Centret",
       "notes": "1st",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1969-01-10 - Falkoner Centret, Copenhagen, Denmark (AUD).txt"
     },
     {
       "year": 1969,
@@ -1792,9 +1867,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Musikhalle",
-      "notes": "Master · wilfried lilie",
+      "notes": "Master \u00b7 wilfried lilie",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-01-11 - Hamburg, Germany - Musikhalle.txt"
     },
     {
       "year": 1969,
@@ -1807,7 +1883,8 @@ const ARTIST_DATA = {
       "venue": "Sporthalle",
       "notes": "Master Reel",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-01-13 - Koln, Germany - Sporthalle.txt"
     },
     {
       "year": 1969,
@@ -1820,7 +1897,8 @@ const ARTIST_DATA = {
       "venue": "Halle Munsterland (2nd source) *Savage Beethoven & Electric Warrior",
       "notes": "mix",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-01-14 - Munster, Germany - Halle Munsterland.txt"
     },
     {
       "year": 1969,
@@ -1844,9 +1922,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Nuremburg, Germany",
       "venue": "Meistersingerhalle",
-      "notes": "1st gen reel remaster · chris dixon series",
+      "notes": "1st gen reel remaster \u00b7 chris dixon series",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-01-16 - Nuremburg, Germany - Meistersingerhalle.txt"
     },
     {
       "year": 1969,
@@ -1872,7 +1951,8 @@ const ARTIST_DATA = {
       "venue": "Jahrhunderhalle",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-01-17 - Frankfurt, Germany - Jahrhunderhalle.txt"
     },
     {
       "year": 1969,
@@ -1885,7 +1965,8 @@ const ARTIST_DATA = {
       "venue": "Liederhalle",
       "notes": "harald rapp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-01-19 - Stuttgart, Germany - Liederhalle.txt"
     },
     {
       "year": 1969,
@@ -1898,7 +1979,8 @@ const ARTIST_DATA = {
       "venue": "Grober Saal *Stimmen der Welt",
       "notes": "ANA(2)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-01-22 - Wien, Austria - Grober Saal .txt"
     },
     {
       "year": 1969,
@@ -1911,7 +1993,8 @@ const ARTIST_DATA = {
       "venue": "Sportpalast *Up Against The Berlin Wall",
       "notes": "MBCD046",
       "version": "Silver CD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1969-01-23 - Berlin, Germany - Sportpalast - Up Against The Berlin Wall.txt"
     },
     {
       "year": 1969,
@@ -1937,7 +2020,8 @@ const ARTIST_DATA = {
       "venue": "Royal Albert Hall *First Night at the Royal Albert Hall",
       "notes": "2CD",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-02-18 - London, UK - Royal Albert Hall.txt"
     },
     {
       "year": 1969,
@@ -1950,7 +2034,8 @@ const ARTIST_DATA = {
       "venue": "Royal Albert Hall *An Evening with the JH Experience",
       "notes": "HAZE 007",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-02-24 - London, UK - Royal Albert Hall.txt"
     },
     {
       "year": 1969,
@@ -2002,7 +2087,8 @@ const ARTIST_DATA = {
       "venue": "Record Plant *Complete McLaughlin Jam",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-03-25 - New York, NY - Record Plant (Complete McLaughlin Jam).txt"
     },
     {
       "year": 1969,
@@ -2015,7 +2101,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-03-30 - The Palladium - 1969 Jam Session (Pop Expo '69).txt"
     },
     {
       "year": 1969,
@@ -2041,7 +2128,8 @@ const ARTIST_DATA = {
       "venue": "Spectrum",
       "notes": "with Fat Mattress",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-04-12 - Philadelphia, PA - Spectrum (with Fat Mattress).txt"
     },
     {
       "year": 1969,
@@ -2052,9 +2140,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Memphis, TN",
       "venue": "Ellis Auditorium Amphitheatre",
-      "notes": "North · 2nd show · chris dixon series",
+      "notes": "North \u00b7 2nd show \u00b7 chris dixon series",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-04-18 - Memphis, TN - Ellis Auditorium Amphitheatre - North Hall (2nd show).txt"
     },
     {
       "year": 1969,
@@ -2067,7 +2156,8 @@ const ARTIST_DATA = {
       "venue": "Sam Houston Coliseum",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-04-19 - Houston TX - Houston Coliseum.txt"
     },
     {
       "year": 1969,
@@ -2080,7 +2170,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Auditorium",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-04-20 - Dallas, TX - Memorial Auditorium.txt"
     },
     {
       "year": 1969,
@@ -2093,7 +2184,8 @@ const ARTIST_DATA = {
       "venue": "LA Forum",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-04-26 - Los Angeles, CA - LA Forum.txt"
     },
     {
       "year": 1969,
@@ -2119,7 +2211,8 @@ const ARTIST_DATA = {
       "venue": "Maple Leaf Gardens *Busted in Toronto",
       "notes": "VE100502",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-05-03 - Toronto, Ontario - Maple Leaf Gardens .txt"
     },
     {
       "year": 1969,
@@ -2130,9 +2223,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "State Fairgrounds Coliseum",
-      "notes": "Fieldhouse · chris dixon series",
+      "notes": "Fieldhouse \u00b7 chris dixon series",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-05-11 - Indianapolis, IN - State Fairgrounds Coliseum - Fieldhouse.txt"
     },
     {
       "year": 1969,
@@ -2145,7 +2239,8 @@ const ARTIST_DATA = {
       "venue": "Record Plant Sessions",
       "notes": "JH",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-05-14 - New York, NY - Record Plant Sessions - Jimi Hendrix & Larry Young.txt"
     },
     {
       "year": 1969,
@@ -2156,9 +2251,10 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Balitmore, MD",
       "venue": "Civic Center",
-      "notes": "ATM 125 · 1st gen",
+      "notes": "ATM 125 \u00b7 1st gen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-05-16 - Baltimore, MD - Civic Center - ATM 125.txt"
     },
     {
       "year": 1969,
@@ -2171,7 +2267,8 @@ const ARTIST_DATA = {
       "venue": "Rhode Island Auditorium *One Night at the Arena (fd cleanup) AUD",
       "notes": "3",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-05-17 - Providence, RI - Rhode Island Auditorium [FD Cleanup].txt"
     },
     {
       "year": 1969,
@@ -2182,9 +2279,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "notes": "JPIO II 014 · 3 source merge",
+      "notes": "JPIO II 014 \u00b7 3 source merge",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-05-18 - New York, NY - Madison Square Garden.txt"
     },
     {
       "year": 1969,
@@ -2197,7 +2295,8 @@ const ARTIST_DATA = {
       "venue": "International Sports Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-05-24 - San Diego, CA - International Sports Arena.txt"
     },
     {
       "year": 1969,
@@ -2208,7 +2307,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "International Sports Arena",
-      "notes": "bob yeager · fd cleanup",
+      "notes": "bob yeager \u00b7 fd cleanup",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -2221,9 +2320,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "Santa Clara County Fairgrounds",
-      "notes": "Northern · ATM 146 · fd cleanup",
+      "notes": "Northern \u00b7 ATM 146 \u00b7 fd cleanup",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-05-25 - San Jose, CA - Santa Clara Fairgrounds [FD Cleanup].txt"
     },
     {
       "year": 1969,
@@ -2234,7 +2334,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "Santa Clara County Fairgrounds",
-      "notes": "Northern · ross tape",
+      "notes": "Northern \u00b7 ross tape",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -2249,7 +2349,8 @@ const ARTIST_DATA = {
       "venue": "Waikiki Shell",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-05-30 - Honolulu, HI - Waikiki Shell.txt"
     },
     {
       "year": 1969,
@@ -2288,7 +2389,8 @@ const ARTIST_DATA = {
       "venue": "San Fernando Valley State College *Newport Pop Festival",
       "notes": "WT 2001023/24/25",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-06-20 - Devonshire Downs, CA - San Fernando Valley State College.txt"
     },
     {
       "year": 1969,
@@ -2301,7 +2403,8 @@ const ARTIST_DATA = {
       "venue": "Newport Pop at Devonshire Downs",
       "notes": "goody",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-06-20 - Northridge, CA - Newport Pop at Devonshire Downs (goody) [SBD].txt"
     },
     {
       "year": 1969,
@@ -2312,9 +2415,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Northridge, CA",
       "venue": "Newport Pop Festival *Newport Pop Festival",
-      "notes": "WT 2001023/24/25 · repaired version",
+      "notes": "WT 2001023/24/25 \u00b7 repaired version",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-06-22 - Northridge, CA - Newport Pop Festival.txt"
     },
     {
       "year": 1969,
@@ -2327,7 +2431,8 @@ const ARTIST_DATA = {
       "venue": "Mile High Stadium *The Denver Pop Festival",
       "notes": "Whiteflame stereo merge",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-06-29 - Denver, CO - Mile High Stadium.txt"
     },
     {
       "year": 1969,
@@ -2340,7 +2445,8 @@ const ARTIST_DATA = {
       "venue": "Johnny Carson Tonight Show",
       "notes": "NBC TV",
       "version": "TV",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1969-07-10 - Tonight_Show - NBC-TV.txt"
     },
     {
       "year": 1969,
@@ -2351,7 +2457,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Johnny Carson Tonight Show",
-      "notes": "NBC TV · 2008 transfer",
+      "notes": "NBC TV \u00b7 2008 transfer",
       "version": "TV",
       "format": "FLAC"
     },
@@ -2366,7 +2472,8 @@ const ARTIST_DATA = {
       "venue": "Tinker Street Cinema",
       "notes": "",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1969-08-10 - New York - Tinker Street Cinema - Woodstock (AUD).txt"
     },
     {
       "year": 1969,
@@ -2379,7 +2486,8 @@ const ARTIST_DATA = {
       "venue": "Jimi's House",
       "notes": "Traver",
       "version": "AUD",
-      "format": "APE"
+      "format": "APE",
+      "textFile": "1969-08-14 - Shokan, New York - Jimi's House - Traver Hollow Road.txt"
     },
     {
       "year": 1969,
@@ -2403,7 +2511,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Bethel, NY",
       "venue": "Max Yasgur's Farm",
-      "notes": "Woodstock · wayne gucwa",
+      "notes": "Woodstock \u00b7 wayne gucwa",
       "version": "SBD",
       "format": "SHN"
     },
@@ -2431,7 +2539,8 @@ const ARTIST_DATA = {
       "venue": "The Hit Factory *Singing the Blues in NYC",
       "notes": "WJ 404",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-09-06 - New York, NY - The Hit Factory - Singing The Blues In New York City.txt"
     },
     {
       "year": 1969,
@@ -2444,7 +2553,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-09-13 - At His Best Mike Ephron Sessions ATM 193-194 [ATM].txt"
     },
     {
       "year": 1969,
@@ -2457,7 +2567,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-09-19 - This Flyer LP.txt"
     },
     {
       "year": 1969,
@@ -2470,7 +2581,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1969-09-30 - Paul McCartney B-Day Jam.txt"
     },
     {
       "year": 1969,
@@ -2483,7 +2595,8 @@ const ARTIST_DATA = {
       "venue": "Band of Gypsys Rehearsals *Dagger #5",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-12-18 - New York - Band of Gypsys Rehearsals (Dagger #5).txt"
     },
     {
       "year": 1969,
@@ -2494,9 +2607,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Fillmore East",
-      "notes": "New Year's Eve Late Show · vibratory 3 source merge",
+      "notes": "New Year's Eve Late Show \u00b7 vibratory 3 source merge",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-12-31 - New York, NY - Fillmore East.txt"
     },
     {
       "year": 1970,
@@ -2509,7 +2623,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-01-01 - Band of Gypsys Early Show.txt"
     },
     {
       "year": 1970,
@@ -2520,9 +2635,10 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Gothenburg, Sweden",
       "venue": "Stora Scenen, Liseberg",
-      "notes": "ATM 162-163 · hawkfan369",
+      "notes": "ATM 162-163 \u00b7 hawkfan369",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-01-09 - Gothenburg, Sweden - Stora Scenen, Liseberg.txt"
     },
     {
       "year": 1970,
@@ -2533,9 +2649,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Record Plant",
-      "notes": "Sessions · ATM 045",
+      "notes": "Sessions \u00b7 ATM 045",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-01-23 - New York, NY - Record Plant Sessions Vol.1.txt"
     },
     {
       "year": 1970,
@@ -2548,7 +2665,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "earthblues merg v1.0",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-01-28 - New York, New York - Madison Square Garden - EarthBluesMerge 1.0.txt"
     },
     {
       "year": 1970,
@@ -2561,7 +2679,8 @@ const ARTIST_DATA = {
       "venue": "Jimi's Apartment",
       "notes": "Jam with Mitch",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-02-01 - New York, New York - Jimi's Apartment, Greenwich Village - Jam with Mitch.txt"
     },
     {
       "year": 1970,
@@ -2587,7 +2706,8 @@ const ARTIST_DATA = {
       "venue": "LA Forum",
       "notes": "2 source remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-04-25 - Los Angeles, CA - LA Forum [SBD].txt"
     },
     {
       "year": 1970,
@@ -2613,7 +2733,8 @@ const ARTIST_DATA = {
       "venue": "LA Forum",
       "notes": "4th source",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-04-25 - Los Angeles, CA - LA Forum (ATM 241) (4th Source) [AUD].txt"
     },
     {
       "year": 1970,
@@ -2626,7 +2747,8 @@ const ARTIST_DATA = {
       "venue": "LA Forum",
       "notes": "3 source mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-04-25 - Los Angeles, CA - LA Forum (3 source mix) [MIX].txt"
     },
     {
       "year": 1970,
@@ -2639,7 +2761,8 @@ const ARTIST_DATA = {
       "venue": "Cal Expo Racetrack",
       "notes": "univibes",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-04-26 - Sacramento, CA - Cal Expo Racetrack.txt"
     },
     {
       "year": 1970,
@@ -2650,9 +2773,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Milwaukee Auditorium",
-      "notes": "unk gen · chris dixon series",
+      "notes": "unk gen \u00b7 chris dixon series",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-05-01 - Milwaukee, WI - Milwaukee Auditorium.txt"
     },
     {
       "year": 1970,
@@ -2678,7 +2802,8 @@ const ARTIST_DATA = {
       "venue": "Dane County Coliseum",
       "notes": "2 source merge",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-05-02 - Madison, WI - Dane County Coliseum.txt"
     },
     {
       "year": 1970,
@@ -2691,7 +2816,8 @@ const ARTIST_DATA = {
       "venue": "St. Paul Civic Center *Does Everybody Feel Alright",
       "notes": "JPIO 028",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-05-03 - St. Paul, MN - St. Paul Civic Center.txt"
     },
     {
       "year": 1970,
@@ -2702,9 +2828,10 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Norman, OK",
       "venue": "University of OK",
-      "notes": "Late show · Master reels",
+      "notes": "Late show \u00b7 Master reels",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1970-05-08 - Norman, OK - University of Oklahoma.txt"
     },
     {
       "year": 1970,
@@ -2717,7 +2844,8 @@ const ARTIST_DATA = {
       "venue": "Will Rogers Stadium",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-05-09 - Fort Worth, TX - Will Rogers Stadium.txt"
     },
     {
       "year": 1970,
@@ -2730,7 +2858,8 @@ const ARTIST_DATA = {
       "venue": "Convention Center Arena",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-05-10 - San Antonio, TX - Convention Center Arena (Master) ATM 251-252 [AUD].txt"
     },
     {
       "year": 1970,
@@ -2756,7 +2885,8 @@ const ARTIST_DATA = {
       "venue": "Temple Stadium",
       "notes": "Jimi and the Grateful Dead",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-05-16 - Philadelphia, Pennsylvania - Temple Stadium - Jimi Hendrix And The Grateful Dead - (AUD).txt"
     },
     {
       "year": 1970,
@@ -2769,7 +2899,8 @@ const ARTIST_DATA = {
       "venue": "Berkeley Community Theatre (Afternoon Soundcheck) Bob Terry Tape #13",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-05-30 - Berkeley, CA - Berkeley Community Theater (Late).txt"
     },
     {
       "year": 1970,
@@ -2808,7 +2939,8 @@ const ARTIST_DATA = {
       "venue": "Civic Assembly Arena",
       "notes": "fd cleanup v2",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-06-07 - Tulsa, OK - Civic Assembley Arena [FD Cleanup Version 2].txt"
     },
     {
       "year": 1970,
@@ -2821,7 +2953,8 @@ const ARTIST_DATA = {
       "venue": "Roberts Municipal Stadium *Indiana Jones in the Heartland",
       "notes": "markj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-06-10 - Evansville, Indiana - Roberts Municipal Stadium - Indiana Jones In The Heartland.txt"
     },
     {
       "year": 1970,
@@ -2834,7 +2967,8 @@ const ARTIST_DATA = {
       "venue": "Civic Center",
       "notes": "kip betz source",
       "version": "AUD",
-      "format": "APE"
+      "format": "APE",
+      "textFile": "1970-06-13 - Baltimore, Maryland - Civic Center - Kip Betz Source - (aud).txt"
     },
     {
       "year": 1970,
@@ -2860,7 +2994,8 @@ const ARTIST_DATA = {
       "venue": "Swing Auditorium",
       "notes": "",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1970-06-20 - San Bernadino, California (AUD).txt"
     },
     {
       "year": 1970,
@@ -2871,9 +3006,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Record Plant",
-      "notes": "Valleys · Jimi Hendrix & Billy Cox",
+      "notes": "Valleys \u00b7 Jimi Hendrix & Billy Cox",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-06-26 - New York, NY - Record Plant - Valleys of Neptune Session (Jimi Hendrix & Billy Cox) [SBD].txt"
     },
     {
       "year": 1970,
@@ -2884,9 +3020,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston Garden",
-      "notes": "ANA(M) · hezekiahx2 · krw_co transfer",
+      "notes": "ANA(M) \u00b7 hezekiahx2 \u00b7 krw_co transfer",
       "version": "AUD",
-      "format": "FLAC24"
+      "format": "FLAC24",
+      "textFile": "1970-06-27 - Boston, Massachusetts - Boston Garden - Boston '70 (AUD).txt"
     },
     {
       "year": 1970,
@@ -2925,7 +3062,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-07-01 - First Rays in Maui [FD Compilation].txt"
     },
     {
       "year": 1970,
@@ -2938,7 +3076,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-07-04 - Atlanta, GA - Atlanta Pop Festival (SBD).flac.txt"
     },
     {
       "year": 1970,
@@ -2951,7 +3090,8 @@ const ARTIST_DATA = {
       "venue": "New York Pop",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-07-17 - Randall's Island, NY - New York Pop (SBD).txt"
     },
     {
       "year": 1970,
@@ -2964,7 +3104,8 @@ const ARTIST_DATA = {
       "venue": "Sicks Stadium",
       "notes": "ATM 226",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-07-26 - Seattle, Washington - Sicks Stadium - ATM 226 (AUD).txt"
     },
     {
       "year": 1970,
@@ -2975,9 +3116,10 @@ const ARTIST_DATA = {
       "state": "HI",
       "location": "Maui, HI",
       "venue": "Haleakala Volcano Crater",
-      "notes": "Maui · Both sets · Bob Terry",
+      "notes": "Maui \u00b7 Both sets \u00b7 Bob Terry",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-07-30 - Bob Terry - Hi-Fi VHS (SBD).txt"
     },
     {
       "year": 1970,
@@ -2990,7 +3132,8 @@ const ARTIST_DATA = {
       "venue": "Honolulu International Center Arena",
       "notes": "jim & bill worthley",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-08-01 - Honolulu, Hawaii - Honolulu International Center Arena.txt"
     },
     {
       "year": 1970,
@@ -3003,7 +3146,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-08-30 - Isle of Wight [SBD].txt"
     },
     {
       "year": 1970,
@@ -3016,7 +3160,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-08-30 - Isle of Wight, England - East Afton Farm - Isle of Wight Festival [AUD].txt"
     },
     {
       "year": 1970,
@@ -3029,7 +3174,8 @@ const ARTIST_DATA = {
       "venue": "Grona Lund",
       "notes": "doinker",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-08-31 - Stockholm, Sweden - Grona Lund.txt"
     },
     {
       "year": 1970,
@@ -3040,9 +3186,10 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Gothenburg, Sweden",
       "venue": "Stora Scenen",
-      "notes": "Liseberg · earthblues",
+      "notes": "Liseberg \u00b7 earthblues",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1970-09-01 - Gothenburg, Sweden - Stora Scenen, Liseberg.txt"
     },
     {
       "year": 1970,
@@ -3055,7 +3202,8 @@ const ARTIST_DATA = {
       "venue": "Vejlby-Risskov Hallen",
       "notes": "chasm",
       "version": "AUD",
-      "format": "APE"
+      "format": "APE",
+      "textFile": "1970-09-02 - Arhus, Denmark - VejIby-Risskov Hallen (chasm) [AUD].txt"
     },
     {
       "year": 1970,
@@ -3081,7 +3229,8 @@ const ARTIST_DATA = {
       "venue": "K.B. Hallen",
       "notes": "fd cleanup",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-09-03 - Copenhagen, Denmark - KB Hallen.txt"
     },
     {
       "year": 1970,
@@ -3094,7 +3243,8 @@ const ARTIST_DATA = {
       "venue": "Deutschlandhalle *Superconcert '70",
       "notes": "chasm",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1970-09-04 - Berlin, Germany - Live at the Deutschlandhalle (Superconcert 70).txt"
     },
     {
       "year": 1970,
@@ -3107,7 +3257,8 @@ const ARTIST_DATA = {
       "venue": "Love and Peace Festival *Away From This Rainy Cloud",
       "notes": "Last show",
       "version": "MATRIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-09-06 - Insel Fehmarn, Germany - Away From This Rainy Cloud.txt"
     },
     {
       "year": 1970,
@@ -3120,7 +3271,8 @@ const ARTIST_DATA = {
       "venue": "Ronnie Scott's Club",
       "notes": "Last recording of his life",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1970-09-16 - Ronnie Scott's Club London (Last recording of his life).txt"
     },
     {
       "year": 1970,
@@ -3133,7 +3285,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "VAR",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-09-18 - Various News Reports of Jimi's Death.txt"
     },
     {
       "year": 2010,
@@ -3144,9 +3297,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "B.B. King's",
-      "notes": "Jimi's · Zoom H4 · bob pitlak",
+      "notes": "Jimi's \u00b7 Zoom H4 \u00b7 bob pitlak",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-11-27 - New York, NY - B.B. King's - Jimi's 68th Birthday Tribute (Zoom H4) (bob pitlak) [AUD].txt"
     }
   ],
   "misc": [

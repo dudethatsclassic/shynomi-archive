@@ -27,9 +27,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Winston-Salem, NC",
       "venue": "Ziggy's",
-      "notes": "ANA(M) · shynomi",
+      "notes": "ANA(M) \u00b7 shynomi",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-09-13 - Winston-Salem, NC - Ziggy's - ANA(M) (shynomi) [AUD].txt"
     },
     {
       "year": 1999,
@@ -42,7 +43,8 @@ const ARTIST_DATA = {
       "venue": "American West Arena",
       "notes": "r. boen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-10-22 - Phoenix, AZ - America West Arena [AUD].txt"
     },
     {
       "year": 2000,
@@ -55,7 +57,8 @@ const ARTIST_DATA = {
       "venue": "Nassau Coliseum",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2000-04-08 - Uniondale, NY - Nassau Coliseum [DVD].txt"
     },
     {
       "year": 2001,
@@ -68,7 +71,8 @@ const ARTIST_DATA = {
       "venue": "Axis",
       "notes": "WBCN 104.1",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-05-23 - Boston, MA - Axis (WBCN 104.1) [FM].txt"
     },
     {
       "year": 2003,
@@ -79,9 +83,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheater",
-      "notes": "KROQ · Sony ECM-DSP70 · the v.u.",
+      "notes": "KROQ \u00b7 Sony ECM-DSP70 \u00b7 the v.u.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-12-14 - Universal City, CA - Universal Amphitheater - KROQ Almost Acoustic Christmas (Sony ECM-DSP70) (the v.u.) [AUD].txt"
     },
     {
       "year": 2006,
@@ -94,7 +99,8 @@ const ARTIST_DATA = {
       "venue": "Store Vega",
       "notes": "MD",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-03-29 - Copenhagen, Denmark - Store Vega (MD) [AUD].txt"
     },
     {
       "year": 2006,
@@ -105,9 +111,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "HiFi Buys Amphitheater",
-      "notes": "CSB · geordy",
+      "notes": "CSB \u00b7 geordy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-09-30 - Atlanta, GA - HiFi Buys Amphitheater (CSB) (geordy) [AUD].txt"
     },
     {
       "year": 2012,
@@ -118,9 +125,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Binghamton, NY",
       "venue": "Broome County Arena",
-      "notes": "ATu853s · dassarri",
+      "notes": "ATu853s \u00b7 dassarri",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-05-13 - Binghamton, NY - Broome County Arena (ATu853s) (dassarri) [AUD].txt"
     },
     {
       "year": 2012,
@@ -133,7 +141,8 @@ const ARTIST_DATA = {
       "venue": "DTE Energy Music Theater",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2012-09-07 - Clarkston, MI - DTE Energy Music Theater [DVD].txt"
     },
     {
       "year": 2019,
@@ -146,7 +155,8 @@ const ARTIST_DATA = {
       "venue": "Expo Center",
       "notes": "chickenwing",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-09-27 - Louisville, KY - Expo Center (Chickenwing LS14 Master) [AUD].txt"
     },
     {
       "year": 2021,
@@ -157,9 +167,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "AT853s · tj",
+      "notes": "AT853s \u00b7 tj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-09-11 - Mountain View, CA - Shoreline Amphitheatre (AT853s) (tj) [AUD].txt"
     },
     {
       "year": 2021,
@@ -170,9 +181,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Daytona Beach, FL",
       "venue": "Welcome to Rockville Festival",
-      "notes": "SP-CMC-8 · porcelmc",
+      "notes": "SP-CMC-8 \u00b7 porcelmc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-11-13 - Daytona Beach, FL - Welcome to Rockville Festival (SP-CMC-8) (porcelmc) [AUD].txt"
     },
     {
       "year": 2024,
@@ -183,9 +195,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "DCU Center",
-      "notes": "Zoom H1n · mm",
+      "notes": "Zoom H1n \u00b7 mm",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-04-27 - Worcester, MA - DCU Center (Zoom H1n) (mm) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -196,9 +209,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-10-13 - Anaheim, CA - Honda Center (DPA 4081) (faninor) [AUD24].txt"
     },
     {
       "year": 2026,
@@ -209,9 +223,10 @@ const ARTIST_DATA = {
       "state": "MS",
       "location": "Biloxi, MS",
       "venue": "Mississippi Coast Coliseum and Convention Center",
-      "notes": "Schoeps MK4 · jesse mc",
+      "notes": "Schoeps MK4 \u00b7 jesse mc",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-05-09 - Biloxi, MS - Mississippi Coast Coliseum and Convention Center (Schoeps MK4) (jesse mc) [AUD24].txt"
     }
   ],
   "misc": [

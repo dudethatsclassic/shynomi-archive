@@ -1,0 +1,48 @@
+
+
+----------------------------------------------------------------
+	Artist:			Atoms for Peace
+	Date:			April 10, 2010
+	Location:		Aragon Ballroom, Chicago
+	Taper:			JB
+	e-mail:			radioheadusa@comcast.net
+	DC++ screenname:	radiohead8989
+	Web:			http://home.comcast.net/~radioheadusa/
+	date of seeding:	May 24, 2010
+----------------------------------------------------------------
+	Source Info:		>Edirol R9 (24bit/48kHz) (Line In)
+				>Core Sound HEB (4060) (Bass Rolloff=ON)
+				>Adobe Audition 
+				>CDWAVE
+				>FLAC (level 8)
+----------------------------------------------------------------
+	additional info:	Recorded From The Left Side of The Stage, Very Front
+----------------------------------------------------------------
+	running time:		1h:24m:04s
+----------------------------------------------------------------
+	Setlist:		01 The Eraser
+				02 Analyse
+				03 The Clock
+				04 Black Swan
+				05 Skip Divided
+				06 Atoms For Peace
+				07 And It Rained All Night
+				08 Harrowdown Hill
+				09 Cymbal Rush
+
+				10 Off-Stage
+				11 Untitled
+				12 I Froze Up
+				13 Everything In It's Right Place
+				14 Paperbag Writer
+				15 Judge, Jury & Executioner
+				16 The Hollow Earth
+				17 Pulled Apart By Horses
+				
+
+
+----------------------------------------------------------------
+Note:
+This is a 24bit / 48KHZ recording.  It cannot be burned to a cd, unless you convert it to 16bit / 44.1k first.
+The FLAC files were created using CD Wave 1.98, and they were tested using Media Monkey 3.1.1.1261.
+

@@ -1,0 +1,42 @@
+Thom Yorke
+July 19, 2009
+Latitude Festival, Southwold, Suffolk
+
+Source: SP-CMC2 > Battery Box > Nomad JB3
+Edot: Master Recording>Cool Edit Pro 2.0 & Vegas Video 7.0>CD Wave>Traders Little Helper>Flac Level 8
+
+Setlist:
+01 Intro
+02 The Eraser
+03 Weird Fishes/Argpeggi 
+04 Atoms For Peace
+05 Harrowdown Hill
+06 Follow Me Around (”One that’s on the shelf and never made it off. Did you like that? Good! It’s on YouTube now”)
+07 Everything In Its Right Place
+08 The Present Tense (”A New song, so you know, go for a piss”)
+09 Cymbal Rush
+10 Black Swan (Not too confident about his guitar loops: “It’ll be a miracle if this works”
+11 Videotape
+Encore:
+12 There There
+13 True Love Waits (”Thank you for having me. Have a wicked Sunday”)
+
+
+Notes: Monster thanks to the input of those who aided in this recording's creation.  It was a true 
+group effort and counters alot of conventional thought about Radiohead fans. This show is really cool
+for old/rare things in the set (both Radiohead & Thom solo)and the debut of Present Tense. This 
+recording is pretty darned nice recording but it needed some love which it received as follows:
+
+Levels were super low in this raw recording. I hard limited a few noisy spots in some songs and eq'd 
+down the bass in some songs as it overpowered everthing else.  All songs were normalized to -0.01db.
+I boosted the breaks between songs to equal levels but much less level than songs. All the 
+aforementioned done in CEP2.0. I left the breaks long and let them "run over" the songs and faded as
+best I could so transitions are smoothe. Fades and final mix down done in Vegas. All timing is true
+to the master recording.
+
+Nothin' but love,
+
+form
+
+August 9, 2009
+       

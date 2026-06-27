@@ -30,7 +30,8 @@ const ARTIST_DATA = {
       "venue": "Playmaker's",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-08 - Fargo, ND - Playmaker's [AUD].txt"
     },
     {
       "year": 1994,
@@ -54,9 +55,10 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Waterbury, CT",
       "venue": "Brass City Records",
-      "notes": "In-store · unk",
+      "notes": "In-store \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-05-14 - Waterbury, CT - Brass City Records (In-store) (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -69,7 +71,8 @@ const ARTIST_DATA = {
       "venue": "The Knitting Factory",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-10-05 - New York, NY - The Knitting Factory [AUD].txt"
     },
     {
       "year": 1994,
@@ -82,7 +85,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-12-10 - Universal City, CA -  Universal Amphitheatre [FM].txt"
     },
     {
       "year": 1994,
@@ -95,7 +99,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "Webrip",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "1994-12-16 - Washington, D.C. - The Black Cat [WEBRIP].txt"
     },
     {
       "year": 1998,
@@ -106,9 +111,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "notes": "AT8022 · scott simpson",
+      "notes": "AT8022 \u00b7 scott simpson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-07-17 - New York, NY - Irving Plaza (AT8022) (scott simpson) [AUD].txt"
     },
     {
       "year": 1999,
@@ -121,7 +127,8 @@ const ARTIST_DATA = {
       "venue": "The Breakroom",
       "notes": "",
       "version": "Webrip",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "1999-05-31 - Seattle, WA - The Breakroom [WEBRIP].txt"
     },
     {
       "year": 2000,
@@ -147,7 +154,8 @@ const ARTIST_DATA = {
       "venue": "Troubadour",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-07-28 - West Hollywood, CA - Troubadour (ECM12) [AUD].txt"
     },
     {
       "year": 2000,
@@ -160,7 +168,8 @@ const ARTIST_DATA = {
       "venue": "Sanctuary",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-01 - Las Vegas, NV - Sanctuary (ECM12) [AUD].txt"
     },
     {
       "year": 2000,
@@ -173,7 +182,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "Webrip",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2000-10-20 - Cambridge, MA - Middle East [WEBRIP].txt"
     },
     {
       "year": 2000,
@@ -186,7 +196,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-20 - Cambridge, MA - Middle East [AUD].txt"
     },
     {
       "year": 2009,
@@ -199,7 +210,8 @@ const ARTIST_DATA = {
       "venue": "Marquee Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-10-09 - Tempe, AZ - Marquee Theatre (R09HR) [AUD].txt"
     },
     {
       "year": 2010,
@@ -212,7 +224,8 @@ const ARTIST_DATA = {
       "venue": "UNSW Roundhouse",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-02-23 - Sydney, Australia - UNSW Roundhouse [AUD].txt"
     },
     {
       "year": 2022,
@@ -223,9 +236,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Spokane, WA",
       "venue": "The Big Dipper",
-      "notes": "unk · luke freteluco",
+      "notes": "unk \u00b7 luke freteluco",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-09-10 - Spokane, WA - The Big Dipper (unk) (luke freteluco) [AUD].txt"
     },
     {
       "year": 2023,
@@ -236,9 +250,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Wiltern",
-      "notes": "SP-CMC-4U · unk",
+      "notes": "SP-CMC-4U \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-04-09 - Los Angeles, CA - The Wiltern (SP-CMC-4U) (unk) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -249,9 +264,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Las Vegas Events Center",
-      "notes": "Zoom H1n · unk",
+      "notes": "Zoom H1n \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-10-12 - Las Vegas, NV - Las Vegas Events Center (Zoom H1n) (unk) [AUD].txt"
     },
     {
       "year": 2025,
@@ -262,9 +278,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Victoria Park",
-      "notes": "Outbreak · DPA 4061s · gambra",
+      "notes": "Outbreak \u00b7 DPA 4061s \u00b7 gambra",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-06-13 - London, UK - Victoria Park - Outbreak Fest (DPA 4061s) (gambra) [AUD].txt"
     },
     {
       "year": 2025,
@@ -275,9 +292,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Ace Of Spades",
-      "notes": "SP-CMC-4U · vibrioidxire",
+      "notes": "SP-CMC-4U \u00b7 vibrioidxire",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-09-08 - Sacramento, CA - Ace Of Spades (SP-CMC-4U) (vibrioidxire) [AUD24].txt"
     }
   ],
   "misc": []

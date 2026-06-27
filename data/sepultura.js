@@ -23,7 +23,8 @@ const ARTIST_DATA = {
       "venue": "Marquee Club *Live from the Jungle",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-05-28 - London, England - Marquee Club - Live From the Jungle [Silver].txt"
     },
     {
       "year": 1993,
@@ -36,7 +37,8 @@ const ARTIST_DATA = {
       "venue": "Palasesto *Welcome to Hell",
       "notes": "Octopus",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-16 - Milan, Italy - Palasesto - Welcome To Hell [Silver].txt"
     },
     {
       "year": 1993,
@@ -60,9 +62,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Starplex Amph",
-      "notes": "Sony ECM-155 · smores",
+      "notes": "Sony ECM-155 \u00b7 smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-07-29 - Dallas, TX - Starplex Amph (Sony ECM-155) (smores) [AUD24].txt"
     },
     {
       "year": 1996,

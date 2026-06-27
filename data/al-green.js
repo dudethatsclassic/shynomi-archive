@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "The Midnight Special",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1974-10-04 - Los Angeles, CA - The Midnight Special [SBD].txt"
     },
     {
       "year": 2002,
@@ -34,7 +35,8 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-12-04 - Cleveland, OH - House of Blues [AUD].txt"
     }
   ],
   "misc": []

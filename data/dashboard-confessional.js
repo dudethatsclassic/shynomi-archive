@@ -21,9 +21,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Tulagi's",
-      "notes": "CSBs · sxpxdxcx",
+      "notes": "CSBs \u00b7 sxpxdxcx",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-11-16 - Boulder, CO - Tulagi's (CSBs) (sxpxdxcx) [AUD].txt"
     },
     {
       "year": 2020,
@@ -34,7 +35,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Webster Hall",
-      "notes": "Zoom H4N · peter",
+      "notes": "Zoom H4N \u00b7 peter",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -47,9 +48,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Hollywood, FL",
       "venue": "Hard Rock Live",
-      "notes": "Sonic Studios DSM-6SL · chris gratz",
+      "notes": "Sonic Studios DSM-6SL \u00b7 chris gratz",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-08-05 -  Hollywood, FL - Hard Rock Live (Sonic Studios DSM-6SL) (chris gratz) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -60,9 +62,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Budweiser Stage",
-      "notes": "M · Zoom H1n · bowlingron",
+      "notes": "M \u00b7 Zoom H1n \u00b7 bowlingron",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-08-10 - Toronto, ON - Budweiser Stage (M) (Zoom H1n) (bowlingron) [AUD].txt"
     }
   ],
   "misc": []

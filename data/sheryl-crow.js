@@ -21,9 +21,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "Shure VP88 · mhg",
+      "notes": "Shure VP88 \u00b7 mhg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-07-31 - Mountain View, CA - Shoreline Amphitheater (Shure VP88) (mhg) [AUD].txt"
     },
     {
       "year": 1995,
@@ -34,9 +35,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Hardrock's The Joint",
-      "notes": "M · Sony ECM 909A · marco moir",
+      "notes": "M \u00b7 Sony ECM 909A \u00b7 marco moir",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-03-11 - Las Vegas, NV - Hardrock's The Joint (M) (Sony ECM 909A) (marco moir) [AUD].txt"
     },
     {
       "year": 2001,
@@ -49,7 +51,8 @@ const ARTIST_DATA = {
       "venue": "Shine Club",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-04-30 - New York, NY - Shine Club (unk) [AUD].txt"
     },
     {
       "year": 2025,
@@ -60,9 +63,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Ruoff Music Cemter",
-      "notes": "SP-CMC-08s · ironchef",
+      "notes": "SP-CMC-08s \u00b7 ironchef",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-09-18 - Noblesville, IN - Ruoff Music Cemter (SP-CMC-08s) (ironchef) [AUD].txt"
     }
   ],
   "misc": [

@@ -22,7 +22,8 @@ const ARTIST_DATA = {
       "venue": "Cooperage UCLA",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-01-09 - Westwood, CA - Cooperage UCLA (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -35,7 +36,8 @@ const ARTIST_DATA = {
       "venue": "Al's Bar",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-01-11 - Long Beach, CA - Al's Bar (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -46,9 +48,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Casbah",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-06-13 - San Diego, CA - Casbah - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -61,7 +64,8 @@ const ARTIST_DATA = {
       "venue": "CBGBs",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-06-10 - New York, NY - CBGBs (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -72,9 +76,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "The Middle East",
-      "notes": "unk · auto_pilot",
+      "notes": "unk \u00b7 auto_pilot",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-06-11 - Cambridge, MA - The Middle East (unk) (auto_pilot) [AUD].txt"
     },
     {
       "year": 2016,
@@ -87,7 +92,8 @@ const ARTIST_DATA = {
       "venue": "Echoplex",
       "notes": "unk",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-02-28 - Los Angeles, CA - Echoplex (unk) [MIX].txt"
     },
     {
       "year": 2016,
@@ -98,9 +104,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Showbox",
-      "notes": "DPA 4060 · tim kahn",
+      "notes": "DPA 4060 \u00b7 tim kahn",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2016-08-27 - Seattle, WA - Showbox (DPA 4060) (tim kahn) [AUD24].txt"
     }
   ],
   "misc": []

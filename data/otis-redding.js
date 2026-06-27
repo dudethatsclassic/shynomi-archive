@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "Whisky A Go-Go",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1966-04-10 - West Hollywood, CA - Whisky A Go-Go [SBD].txt"
     },
     {
       "year": 1967,
@@ -34,7 +35,8 @@ const ARTIST_DATA = {
       "venue": "Konserthusett",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-06-04 - Stockholm, Sweden - Konserthusett [SBD].txt"
     }
   ],
   "misc": [

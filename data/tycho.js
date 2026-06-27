@@ -23,7 +23,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2020-02-05 - Oakland, CA - Fox Theatre [AUD].txt"
     },
     {
       "year": 2021,
@@ -34,9 +35,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Independent",
-      "notes": "AT853s · tj",
+      "notes": "AT853s \u00b7 tj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-12-21 - San Francisco, CA - The Independent (AT853s) (tj) [AUD].txt"
     },
     {
       "year": 2021,
@@ -47,9 +49,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Independent",
-      "notes": "AT853s · tj",
+      "notes": "AT853s \u00b7 tj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-12-30 - San Francisco, CA - The Independent (AT853s) (tj) [AUD].txt"
     },
     {
       "year": 2024,
@@ -60,9 +63,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Stateline, NV",
       "venue": "South Shore Room at Harrah's Lake Tahoe",
-      "notes": "SP-CMC-4U · vibrioidxire",
+      "notes": "SP-CMC-4U \u00b7 vibrioidxire",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-09-27 - Stateline, NV - South Shore Room at Harrah's Lake Tahoe (SP-CMC-4U) (vibrioidxire) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -73,9 +77,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Channel 24",
-      "notes": "WAV(M) · SP-CMC-4U · vibrioidxire",
+      "notes": "WAV(M) \u00b7 SP-CMC-4U \u00b7 vibrioidxire",
       "version": "AUD #1",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-04-25 - Sacramento, CA - Channel 24 - WAV(M) (SP-CMC-4U) (vibrioidxire) (AUD #1) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -86,9 +91,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Midway",
-      "notes": "Rift · M · SP-CMC-4U · vibrioidxire",
+      "notes": "Rift \u00b7 M \u00b7 SP-CMC-4U \u00b7 vibrioidxire",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-08-29 - San Francisco, CA - The Midway - Rift Stage - WAV(M) (SP-CMC-4U) (vibrioidxire) [AUD24].txt"
     }
   ],
   "misc": []

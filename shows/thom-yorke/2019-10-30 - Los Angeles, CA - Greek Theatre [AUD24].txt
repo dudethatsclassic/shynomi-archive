@@ -1,0 +1,42 @@
+Thom Yorke
+2019-10-30
+Greek Theatre
+Los Angeles, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz PCM
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro
+02 - Has Ended
+03 - Impossible Knots
+04 - Black Swan
+05 - I Am a Very Rude Person
+06 - Amok
+07 - Not the News
+08 - Pink Section
+09 - Nose Grows Some
+10 - The Clock
+11 - Runwayaway
+12 - Default
+13 - Dawn Chorus
+14 - Last I Heard (... He Was Circling the Drain)
+15 - Truth Ray
+16 - Traffic
+17 - Twist
+18 - encore
+19 - A Brain in a Bottle
+20 - (Ladies & Gentlemen, Thank You for Coming)
+21 - Cymbal Rush
+22 - Interference
+23 - encore
+24 - Like Spinning Plates
+
+-- Notes --
+Recorded from section A left. Very chatty crowd in some parts.
+Length: 2h00m10s
+
+-- faninor -- 2019-11-07 --

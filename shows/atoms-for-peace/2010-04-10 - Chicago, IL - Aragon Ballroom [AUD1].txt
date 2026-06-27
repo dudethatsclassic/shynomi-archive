@@ -1,0 +1,43 @@
+
+Atoms For Peace
+Aragon Ballroom: Chicago, IL
+April 10, 2010
+
+Source: Schoeps MK4s > Nbox > Edirol R-09 @ 24-bit / 44.1kHz
+Location: FOB, ~4' ROC
+Transfer: SD Card > USB > Audacity (dEQ/dither) > CDWave > TLH
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 The Eraser
+03 Analyse
+04 The Clock
+05 Black Swan
+06 Skip Divided
+07 Atoms For Peace
+08 And It Rained All Night
+09 Harrowdown Hill
+10 Cymbal Rush
+11 -encore break-
+12 -Thom speak-
+13 A Walk Down the Staircase (Thom solo)
+14 I Froze Up (Thom solo)
+15 Everything In It's Right Place (Thom solo)
+16 Paperbag Writer
+17 Judge, Jury & Executioner
+18 Hollow Earth
+19 Feeling Pulled Apart By Horses
+20 Outro
+
+Notes: Performance from Thom Yorke and friends. +5.5dB boost in Audacity (32-bit float) to raise levels. Otherwise this is a raw transfer with no fades or EQ.
+
+Lineup: Thom Yorke, Flea, Nigel Godrich, Joey Waronker, Mauro Refosco
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 4/11/2010
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

@@ -1,0 +1,33 @@
+Thom Yorke
+December 9, 2018
+Arvest Bank Theater at The Midland
+Kansas City, MO
+
+Source: DPA 4061 > CS Battery Box (roll-off filter on) > Sony PCM-M10 @ 24bit/96kHz
+Location: Left Center Balcony, Row A
+Transfer: Micro SD > Adobe Audition (cuts, fades, eq, resample, bit depth) > CD Wave (track splits) > FLAC Frontend 2.1 (Level 8)
+
+01 Interference
+02 A Brain In A Bottle
+03 Impossible Knots
+04 Black Swan
+05 Harrowdown Hill
+06 Pink Section
+07 Nose Grows Some
+08 Cymbal Rush
+09 The Clock
+10 Two Feet Off The Ground
+11 Amok
+12 Not The News
+13 Truth Ray
+14 Traffic
+15 Twist
+
+Encore:
+16 Atmos For Peace
+17 Default
+
+Encore 2:
+18 Unmade (Missing)*
+
+*Mic disconnected just prior to this

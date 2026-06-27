@@ -1,0 +1,63 @@
+The Smile 
+Pitchfork Festival
+Union Park 
+Chicago IL US
+July 21st, 2023 (2023-07-21) 
+
+Live YouTube stream > yt-dlp (captured by inez)
+
+Setlist 
+
+01 Pana-Vision (with Robert Stillman)
+02 The Opposite
+03 A Hairdryer (Shortened Version)
+04 Waving a White Flag
+05 Under Our Pillows (Shortened Version)
+06 We Don't Know What Tomorrow Brings
+07 Colours Fly (with Robert Stillman)
+08 Thin Thing
+09 Skrting on the Surface
+10 The Same
+11 The Smoke (with Robert Stillman)
+12 People on Balconies (with Robert Stillman)
+13 You Will Never Work in Television Again (with Robert Stillman)
+14 Bending Hectic
+15 Feeling Pulled Apart by Horses (Thom Yorke song)
+
+Thom Yorke and Jonny Greenwood (of Radiohead) and Tom Skinner
+(with Robert Stillman on Sax)
+
+General / Container Stream # 1
+	Video Codecs Used -> AVC
+	Audio Codecs Used -> AAC LC
+	File Format -> MPEG-4
+	Play Time -> 1h 17mn
+	Total Stream BitRate -> 1 635 Kbps
+	Encoded with -> Lavf54.63.104
+
+Video Stream # 1
+	Codec (Human Name) -> AVC
+	Codec (FourCC) -> avc1
+	Codec Profile -> High@L4.0
+	Frame Width -> 1 920 pixels
+	Frame Height -> 1 080 pixels
+	Frame Rate -> 29.970 fps
+	Display Aspect Ratio -> 16/9
+	Scan Type -> Progressive
+	Video Stream BitRate -> 1 499 Kbps
+	Video Stream BitRate Mode -> VBR
+	Bit Depth -> 24 bits
+	Video Stream Size -> 835 MiB (92%)
+
+Audio Stream # 1
+	Codec -> AAC
+	Codec (FourCC) -> 40
+	Audio Stream Length -> 1h 17mn 54s 966ms
+	Audio Stream BitRate -> 128 Kbps
+	Audio Stream BitRate Mode -> CBR
+	Number of Audio Channels -> 2
+	Audio Channel's Positions -> L R
+	Sampling Rate -> 44.1 KHz
+	Bit Depth -> 16 bits
+	Audio Stream Delay -> 10ms
+	Audio Stream Size -> 71.3 MiB (8%)

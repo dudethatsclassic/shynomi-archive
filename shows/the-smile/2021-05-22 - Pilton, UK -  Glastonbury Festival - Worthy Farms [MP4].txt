@@ -1,0 +1,62 @@
+The Smile
+Glastonbury Festival
+Worthy Farm, Pilton
+UK
+2021-05-22 (May 22, 2021)
+
+Capp'ed via Streamlink - no changes to audio or video
+
+
+Setlist
+
+Skirting On The Surface
+The Smoke
+You Will Never Work in Television Again
+Opposites
+Panavision
+Just Eyes and Mouth
+We don't Know What Tomorrow Brings
+Thin Thing
+
+Thom Yorke - vocals, guitar, bass, keyboards
+Jonny Greenwood - guitar, bass, pedals
+Tom Skinner - drums, backing vocals
+
+
+
+General / Container Stream #
+	Video Codecs Used -> AVC
+	Audio Codecs Used -> AAC LC
+	File Format -> MPEG-4
+	Play Time -> 34mn 34s
+	Total File Size -> 2.10 GiB
+	Total Stream BitRate -> 8 695 Kbps
+	Encoded with -> Lavf58.45.100
+
+Video Stream # 1
+	Codec (Human Name) -> AVC
+	Codec (FourCC) -> avc1
+	Codec Profile -> High@L5.0
+	Frame Width -> 1 920 pixels
+	Frame Height -> 1 080 pixels
+	Frame Rate -> 25.000 fps
+	Display Aspect Ratio -> 16/9
+	Video Standard -> PAL
+	Scan Type -> Progressive
+	Video Stream Length -> 34mn 34s 40ms
+	Video Stream BitRate -> 8 500 Kbps
+	Video Stream BitRate Mode -> VBR
+	Bit Depth -> 24 bits
+	Video Stream Size -> 2.05 GiB (98%)
+
+Audio Stream # 1
+	Codec -> AAC
+	Codec (FourCC) -> 40
+	Audio Stream Length -> 34mn 34s 29ms
+	Audio Stream BitRate -> 192 Kbps
+	Audio Stream BitRate Mode -> CBR
+	Number of Audio Channels -> 2
+	Audio Channel's Positions -> L R
+	Sampling Rate -> 44.1 KHz
+	Bit Depth -> 16 bits
+	Audio Stream Size -> 46.9 MiB (2%)

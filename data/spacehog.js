@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "House of Blues",
-      "notes": "WAV(M) · AT853 · unk",
+      "notes": "WAV(M) \u00b7 AT853 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-06-28 - Las Vegas, NV - House of Blues - WAV(M) (AT853) (unk) [AUD24].txt"
     }
   ],
   "misc": []

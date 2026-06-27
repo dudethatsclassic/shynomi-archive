@@ -25,7 +25,8 @@ const ARTIST_DATA = {
       "venue": "Z-Rock Broadcast",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-02-16 - Dallas, TX - Z-Rock Broadcast [FM].txt"
     },
     {
       "year": 1992,
@@ -36,9 +37,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Avalon",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-03-04 - Chicago, IL - Avalon - ANA(x) (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -51,7 +53,8 @@ const ARTIST_DATA = {
       "venue": "Great Woods Center for the Performing Arts",
       "notes": "kixdude",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-09-01 - Mansfield, MA - Great Woods Center for the Performing Arts (kixdude) [AUD].txt"
     },
     {
       "year": 1993,
@@ -62,9 +65,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Allentown, PA",
       "venue": "Fairgrounds",
-      "notes": "Sony D3 · koondog",
+      "notes": "Sony D3 \u00b7 koondog",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-08-03 - Allentown, PA - Fairgrounds (Sony D3) (koondog) [AUD].txt"
     },
     {
       "year": 2014,
@@ -75,9 +79,10 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Melbourne, AUS",
       "venue": "Palace Theatre",
-      "notes": "DPA MMC4011s · roman79",
+      "notes": "DPA MMC4011s \u00b7 roman79",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-04-25 - Melbourne, AUS - Palace Theatre (DPA MMC4011s) (roman79) [AUD].txt"
     },
     {
       "year": 2022,
@@ -88,9 +93,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Glasgow, UK",
       "venue": "SEC Armadillo",
-      "notes": "Olympus LS-P1 · keiths34",
+      "notes": "Olympus LS-P1 \u00b7 keiths34",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-21 - Glasgow, UK - SEC Armadillo (Olympus LS-P1) (keiths34) [AUD].txt"
     },
     {
       "year": 2022,
@@ -101,9 +107,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "The Resorts World Arena",
-      "notes": "SP-CMC-8 · unk",
+      "notes": "SP-CMC-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-27 Birmingham, UK - The Resorts World Arena (SP-CMC-8) (unk) [AUD].txt"
     },
     {
       "year": 2022,
@@ -114,9 +121,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "London UK",
       "venue": "Wembley OVO Arena",
-      "notes": "Olympus LS-P1 · kieths34",
+      "notes": "Olympus LS-P1 \u00b7 kieths34",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-28 - London UK - Wembley OVO Arena (Olympus LS-P1) (kieths34) [AUD].txt"
     },
     {
       "year": 2024,
@@ -127,9 +135,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Bakkt Theatre",
-      "notes": "SP-CMC-4U · unk",
+      "notes": "SP-CMC-4U \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-04-18 - Las Vegas, NV - Bakkt Theatre (SP-CMC-4U) (unk) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -140,9 +149,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Wacken, Germany",
       "venue": "Hauptstrasse",
-      "notes": "1080p · Magentamusik",
+      "notes": "1080p \u00b7 Magentamusik",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2025-07-31 - Wacken, Germany - Hauptstrasse (1080p) (Magentamusik) [WEB].txt"
     }
   ],
   "misc": []

@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "Seven South",
       "notes": "jim hucks",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-09-29 - Denver, CO - Seven South (jim hucks) [SBD].txt"
     }
   ],
   "misc": []
