@@ -28,9 +28,10 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Gilford, NH",
       "venue": "Meadowbrook Pavilion",
-      "notes": "ECM 719 · unk",
+      "notes": "ECM 719 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-08-19 -  Gilford, NH - Meadowbrook Pavilion [AUD].txt"
     },
     {
       "year": 2014,
@@ -43,7 +44,8 @@ const ARTIST_DATA = {
       "venue": "Moody Theater",
       "notes": "ACL",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2014-09-23 - Austin, TX - Moody Theater - ACL [TV].txt"
     },
     {
       "year": 2015,
@@ -56,7 +58,8 @@ const ARTIST_DATA = {
       "venue": "Austin 360 Amphitheatre",
       "notes": "Sirius XM",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-07-04 - Austin, TX - Austin 360 Amphitheatre (Sirius XM) [FM].txt"
     },
     {
       "year": 2016,
@@ -67,9 +70,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
-      "notes": "ECM719 · unk",
+      "notes": "ECM719 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2016-08-10 - Morrison, CO - Red Rocks Amphitheatre (ECM719) (unk) [AUD24].txt"
     },
     {
       "year": 2016,
@@ -82,7 +86,8 @@ const ARTIST_DATA = {
       "venue": "Stagecoach Festival",
       "notes": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2016-04-29 - Indio, CA - Stagecoach Festival (PRO) [WEBCAST].txt"
     },
     {
       "year": 2016,
@@ -93,7 +98,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
-      "notes": "ECM719 · unk",
+      "notes": "ECM719 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -106,9 +111,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "TD BankNorth Garden",
-      "notes": "ECM-719 · unk",
+      "notes": "ECM-719 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2017-01-28 - Boston, MA - TD BankNorth Garden (ECM-719) (unk) [AUD24].txt"
     },
     {
       "year": 2017,
@@ -119,9 +125,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Greensboro, NC",
       "venue": "Greensboro Coliseum",
-      "notes": "ECM-719 · unk",
+      "notes": "ECM-719 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2017-05-20 - Greensboro, NC - Greensboro Coliseum (ECM-719) [AUD24].txt"
     },
     {
       "year": 2018,
@@ -132,9 +139,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "Asheville Civic Center",
-      "notes": "Warren · Schoeps CCM4Vs · z-man",
+      "notes": "Warren \u00b7 Schoeps CCM4Vs \u00b7 z-man",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-12-08 - Asheville, NC - Asheville Civic Center [AUD].txt"
     },
     {
       "year": 2019,
@@ -147,7 +155,8 @@ const ARTIST_DATA = {
       "venue": "Target Center",
       "notes": "SiriusXM",
       "version": "FM",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-02-08 - Minneapolis, MN - Target Center (SiriusXM) [FM24].txt"
     },
     {
       "year": 2019,
@@ -160,7 +169,8 @@ const ARTIST_DATA = {
       "venue": "Little Caesars Arena",
       "notes": "SiriusXM",
       "version": "FM",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-02-15 - Detroit, MI - Little Caesars Arena (SiriusXM) [FM24].txt"
     },
     {
       "year": 2019,
@@ -173,7 +183,8 @@ const ARTIST_DATA = {
       "venue": "U.S. Bank Arena",
       "notes": "SiriusXM",
       "version": "FM",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-02-22 - Cincinnati, OH - U.S. Bank Arena (SiriusXM) [FM24].txt"
     },
     {
       "year": 2019,
@@ -184,9 +195,10 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Manchester, NH",
       "venue": "SNHU Arena",
-      "notes": "CA-14 · unk",
+      "notes": "CA-14 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-11-01 - Manchester, NH - SNHU Arena [AUD].txt"
     },
     {
       "year": 2019,
@@ -197,9 +209,10 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "XL Center",
-      "notes": "CA-14 · unk",
+      "notes": "CA-14 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-11-02 - Hartford, CT - XL Center [AUD].txt"
     },
     {
       "year": 2021,
@@ -210,9 +223,10 @@ const ARTIST_DATA = {
       "state": "NH",
       "location": "Manchester, NH",
       "venue": "SNHU Arena",
-      "notes": "ECM719 · unk",
+      "notes": "ECM719 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2021-12-03 - Manchester, NH - SNHU Arena (ECM719) (unk) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -223,9 +237,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "Hollywood Casino",
-      "notes": "ECM719 · firemt66",
+      "notes": "ECM719 \u00b7 firemt66",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-07-15 - Maryland Heights, MO - Hollywood Casino (ECM719) (firemt66) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -236,9 +251,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Chapel Hill, NC",
       "venue": "Memorial Hall",
-      "notes": "Samsung 22 · firemt66",
+      "notes": "Samsung 22 \u00b7 firemt66",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-08-03 - Chapel Hill, NC - Memorial Hall (Samsung 22) (firemt66) [AUD24].C.txt"
     },
     {
       "year": 2023,
@@ -249,9 +265,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Walnut Creek",
-      "notes": "ECM719 · firemt66",
+      "notes": "ECM719 \u00b7 firemt66",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-08-04 - Raleigh, NC - Walnut Creek (ECM719) (firemt66) [AUD24].C.txt"
     },
     {
       "year": 2023,
@@ -262,9 +279,10 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Bristow, VA",
       "venue": "Jiffy Lube Live",
-      "notes": "ECM719 · firemt66",
+      "notes": "ECM719 \u00b7 firemt66",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-08-05 - Bristow, VA - Jiffy Lube Live (ECM719) (firemt66) [AUD].txt"
     },
     {
       "year": 2023,
@@ -275,9 +293,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga Springs, NY",
       "venue": "Saratoga Performing Arts Center",
-      "notes": "ECM719 · firemt66",
+      "notes": "ECM719 \u00b7 firemt66",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-08-24 - Saratoga Springs, NY - Saratoga Performing Arts Center (ECM719) (firemt66) [AUD24].Y.txt"
     },
     {
       "year": 2023,
@@ -288,9 +307,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "PNC Music Pavilion",
-      "notes": "ECM719 · firemt66",
+      "notes": "ECM719 \u00b7 firemt66",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-09-23 - Charlotte, NC - PNC Music Pavilion (ECM719) (firemt66) [AUD].C.txt"
     },
     {
       "year": 2025,
@@ -301,9 +321,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison,CO",
       "venue": "Red Rocks Amphitheatre",
-      "notes": "ECM717 · unk",
+      "notes": "ECM717 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-07-14 - Morrison,CO - Red Rocks Amphitheatre (ECM717) (unk) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -314,9 +335,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "TD Banknorth Garden",
-      "notes": "Sony ECM-717 · firemt66",
+      "notes": "Sony ECM-717 \u00b7 firemt66",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-09-19 - Boston, MA - TD Banknorth Garden (Sony ECM-717) (firemt66) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -327,9 +349,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Barclays Center",
-      "notes": "Sony ECM-717 · firemt66",
+      "notes": "Sony ECM-717 \u00b7 firemt66",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-09-20 - Brooklyn, NY - Barclays Center (Sony ECM-717) (firemt66) [AUD24].Y.txt"
     },
     {
       "year": 2026,
@@ -340,9 +363,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "MVP Arena",
-      "notes": "ECM717 · unk",
+      "notes": "ECM717 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-02-14 - Albany, NY - MVP Arena (ECM717) (unk) [AUD24].Y.txt"
     },
     {
       "year": 2026,
@@ -353,9 +377,10 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Greenville, SC",
       "venue": "Bon Secours Wellness Arena",
-      "notes": "ECM717 · unk",
+      "notes": "ECM717 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-04-03 - Greenville, SC - Bon Secours Wellness Arena (ECM717) (unk) [AUD24].C.txt"
     },
     {
       "year": 2026,
@@ -366,9 +391,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Spectrum Center",
-      "notes": "ECM717 · unk",
+      "notes": "ECM717 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-04-04 - Charlotte, NC - Spectrum Center (ECM717) (unk) [AUD24].C.txt"
     }
   ],
   "misc": []

@@ -68,7 +68,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1995-07-24 - Minneapolis, MN - Fine Line Music Cafe [FM].rtf"
+      "textFile": "1995-07-24 - Minnepolis, MN - Fine Line Music Cafe - Going North (Moonraker 041) [Silver].txt"
     },
     {
       "year": 1995,

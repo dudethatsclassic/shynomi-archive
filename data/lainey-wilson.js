@@ -21,9 +21,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Fremont Street Experience",
-      "notes": "SP-CMC-4U · unk",
+      "notes": "SP-CMC-4U \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-11-30 - Las Vegas, NV -  Fremont Street Experience (SP-CMC-4U) (unk) [AUD].txt"
     },
     {
       "year": 2023,
@@ -34,9 +35,10 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Uncasville,CT",
       "venue": "Mohegan Sun Arena",
-      "notes": "CA14 · wilson",
+      "notes": "CA14 \u00b7 wilson",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-07-28 - Uncasville,CT - Mohegan Sun Arena (CA14) (wilson) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -47,9 +49,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saratoga Springs, NY",
       "venue": "Saratoga Performaing Arts Center",
-      "notes": "ECM-719 · unk",
+      "notes": "ECM-719 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-08-24 - Saratoga Springs, NY - Saratoga Performaing Arts Center (ECM-719) (unk) [AUD24].Y.txt"
     },
     {
       "year": 2024,
@@ -60,9 +63,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Academy",
-      "notes": "iPhone SE · unk",
+      "notes": "iPhone SE \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-04-20 - Manchester, UK - Academy (iPhone SE) (unk) [AUD].txt"
     },
     {
       "year": 2024,
@@ -73,9 +77,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
-      "notes": "ECM719 · firemt66",
+      "notes": "ECM719 \u00b7 firemt66",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-06-26 - New York, NY - Radio City Music Hall (ECM719) (firemt66) [AUD24].Y.txt"
     },
     {
       "year": 2026,
@@ -86,9 +91,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Club",
-      "notes": "Stagecoach · Webcast",
+      "notes": "Stagecoach \u00b7 Webcast",
       "version": "WEB",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2026-04-25 - Indio, CA  - Empire Polo Club - Stagecoach (Webcast) [MKV].txt"
     }
   ],
   "misc": []

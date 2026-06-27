@@ -394,7 +394,7 @@ const ARTIST_DATA = {
       "notes": "Sony ECM-909a \u00b7 rob",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-02-17 - New York, NY - Roseland Ballroom (Sony ECM-909a) (rob) [AUD].txt"
+      "textFile": "1994-02-17 - New York, NY - Roseland Ballroom - Hard Road to the Top [AUD].txt"
     },
     {
       "year": 1994,

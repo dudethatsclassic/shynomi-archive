@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "Country to Country Festival (C2C) BBC Radio 2",
       "notes": "",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-03-13 - London, UK - Country to Country Festival (C2C) - BBC Radio 2 [WEB].txt"
     },
     {
       "year": 2016,
@@ -32,9 +33,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "CMA Festival 2016",
-      "notes": "Edirol R-09 · unk",
+      "notes": "Edirol R-09 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-06-10 - Nashville, TN - CMA Festival 2016 (Edirol R-09) [AUD].txt"
     },
     {
       "year": 2016,
@@ -45,9 +47,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Manchester, TN",
       "venue": "Bonnaroo Music and Arts Festival",
-      "notes": "What · DPA 4021s · d. fries",
+      "notes": "What \u00b7 DPA 4021s \u00b7 d. fries",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-06-11 - Manchester, TN - Bonnaroo Music and Arts Festival - What Stage (DPA 4021s) (d. fries) [AUD].txt"
     },
     {
       "year": 2016,
@@ -60,7 +63,8 @@ const ARTIST_DATA = {
       "venue": "Austin City Limits Music Festival",
       "notes": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2016-10-02 - Austin, TX - Austin City Limits Music Festival [Webcast].txt"
     },
     {
       "year": 2018,
@@ -73,7 +77,8 @@ const ARTIST_DATA = {
       "venue": "Xfinity Theatre",
       "notes": "Farm",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2018-09-22 - Hartford, CT - Xfinity Theatre - Farm Aid 33 [Webcast].txt"
     }
   ],
   "misc": []

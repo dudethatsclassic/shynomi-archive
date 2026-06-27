@@ -23,9 +23,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Empire Polo Field Stagecoach",
-      "notes": "AT853 · markp",
+      "notes": "AT853 \u00b7 markp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-05-05 - Indio, CA - Empire Polo Field Stagecoach (AT853) (markp) [AUD].txt"
     },
     {
       "year": 2013,
@@ -38,7 +39,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-08-03 - Hartford, CT - Comcast Theatre [AUD].txt"
     },
     {
       "year": 2017,
@@ -49,9 +51,10 @@ const ARTIST_DATA = {
       "state": "SK",
       "location": "Saskatoon, SK",
       "venue": "SaskTel Centre",
-      "notes": "Sony ECM-CS3 · 80309561",
+      "notes": "Sony ECM-CS3 \u00b7 80309561",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-10-05 - Saskatoon, SK - SaskTel Centre (Sony ECM-CS3) (80309561) [AUD].txt"
     },
     {
       "year": 2018,
@@ -62,9 +65,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "notes": "AT831 · unk",
+      "notes": "AT831 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-02-10 - Inglewood, CA - The Forum [AUD].txt"
     },
     {
       "year": 2022,
@@ -75,9 +79,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Zappo's",
-      "notes": "SP-CMC-4U · ijwthstd",
+      "notes": "SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-10-01 - Las Vegas, NV - Zappo's (SP-CMC-4U) (ijwthstd) [AUD].txt"
     },
     {
       "year": 2022,
@@ -88,9 +93,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Zappo's Theatre",
-      "notes": "SP-CMC-4U · unk",
+      "notes": "SP-CMC-4U \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-11-27 - Las Vegas, NV - Zappo's Theatre (SP-CMC-4U) (unk) [AUD].txt"
     },
     {
       "year": 2023,
@@ -101,9 +107,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Bakkt Theatre",
-      "notes": "SP-CMC-4U · ijwthstd",
+      "notes": "SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-07-21 - Las Vegas, NV - Bakkt Theatre (SP-CMC-4U) (ijwthstd) [AUD].txt"
     },
     {
       "year": 2023,
@@ -114,9 +121,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Bakkt Theatre",
-      "notes": "SP-CMC-4U · ijwthstd",
+      "notes": "SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-07-22 - Las Vegas, NV - Bakkt Theatre (SP-CMC-4U) (ijwthstd) [AUD].txt"
     }
   ],
   "misc": []

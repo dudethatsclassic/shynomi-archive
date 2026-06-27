@@ -35,7 +35,8 @@ const ARTIST_DATA = {
       "venue": "Domaine National de Saint-Cloud",
       "notes": "Edirol \u00b7 nono \u00b7 Source 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-08-30 - St Cloud, FR - Domaine National de Saint-Cloud (Edirol) (nono) (Source 2) [AUD].txt"
     },
     {
       "year": 2009,
@@ -62,7 +63,8 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "Edirol R09HR \u00b7 bcledfoot \u00b7 cq remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-10-11 - Boston, MA - House of Blues (Edirol R09HR) (bcledfoot) (cq remaster) [AUD].txt"
     },
     {
       "year": 2009,
@@ -103,7 +105,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "CA-11 \u00b7 johnny fried chicken boy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-10-15 - New York, NY - Roseland Ballroom (CA-11) (johnny fried chicken boy) [AUD].txt"
     },
     {
       "year": 2009,
@@ -199,7 +202,8 @@ const ARTIST_DATA = {
       "venue": "Le Zenith",
       "notes": "Sony ECM-MS 907 \u00b7 Source 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-06-08 - Paris, FR - Le Zenith (Source 2) (Sony ECM-MS 907) [AUD].txt"
     },
     {
       "year": 2010,

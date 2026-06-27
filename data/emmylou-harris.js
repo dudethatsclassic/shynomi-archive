@@ -24,7 +24,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-06-23 - Unknown Venue & Location [AUD].txt"
     },
     {
       "year": 1975,
@@ -37,7 +38,8 @@ const ARTIST_DATA = {
       "venue": "Ebbet's Field",
       "notes": "cary wolfson",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-06-24 - Denver, CO - Ebbet's Field [SBD].txt"
     },
     {
       "year": 1976,
@@ -50,7 +52,8 @@ const ARTIST_DATA = {
       "venue": "My Father's Place",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1976-09-14 - Roslyn, NY - My Father's Place [FM].txt"
     },
     {
       "year": 1979,
@@ -63,7 +66,8 @@ const ARTIST_DATA = {
       "venue": "Tennessee Theater",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1979-05-18 - Knoxville, TN - Tennessee Theater [SBD].txt"
     },
     {
       "year": 1979,
@@ -76,7 +80,8 @@ const ARTIST_DATA = {
       "venue": "The Catalyst *The Fat Fry",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1979-06-15 - Santa Cruz, CA - The Catalyst [SBD].txt"
     },
     {
       "year": 1990,
@@ -89,7 +94,8 @@ const ARTIST_DATA = {
       "venue": "RCA Studio B",
       "notes": "Nashville",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-12-04 - Nashville, TN - RCA Studio B - Nashville Acoustic Christmas [FM].txt"
     },
     {
       "year": 2011,

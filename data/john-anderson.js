@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Pasadena, TX",
       "venue": "Gilley's",
-      "notes": "Radio show 86-50 · Vinyl source",
+      "notes": "Radio show 86-50 \u00b7 Vinyl source",
       "version": "preFM",
       "format": "FLAC"
     }
