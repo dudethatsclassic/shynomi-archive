@@ -1,30 +1,57 @@
-wilco2008-03-09d1t01.mtx.flac:ce7fe90d348b6620d982ecdd6dddf61e
-wilco2008-03-09d1t02.mtx.flac:e8806d86a86489abcb7c53cfd6b6d97b
-wilco2008-03-09d1t03.mtx.flac:d5375a6ebc42d2e18af1d380199edb99
-wilco2008-03-09d1t04.mtx.flac:392b189d793af3774593627178dcf6a7
-wilco2008-03-09d1t05.mtx.flac:0f2e346812bb46dd1c94d249809c1f91
-wilco2008-03-09d1t06.mtx.flac:eb1dc73b0bd6a3a5547ae6b98af4f1ec
-wilco2008-03-09d1t07.mtx.flac:b7cc7ab3d6f88270333d70d0d645a428
-wilco2008-03-09d1t08.mtx.flac:d8dc2b447367ab3805739a7166a2b559
-wilco2008-03-09d1t09.mtx.flac:f31afe4920df942a7ccc2c9e8cf6248a
-wilco2008-03-09d1t10.mtx.flac:547688f5f350a0ed6ad5af6528739d6f
-wilco2008-03-09d1t11.mtx.flac:19370d1d6dca99668032c0093615c604
-wilco2008-03-09d1t12.mtx.flac:85f35c40a2b208001d20c627b02e2ca4
-wilco2008-03-09d1t13.mtx.flac:0cbeebf0191e703aa09ea18e4776b174
-wilco2008-03-09d1t14.mtx.flac:a5028e9e00a46441297a6196fd024d3d
-wilco2008-03-09d2t01.mtx.flac:382767d1646870b21c6ca9cce1721553
-wilco2008-03-09d2t02.mtx.flac:23471fc48df56d5f1b1b687160ea1bd3
-wilco2008-03-09d2t03.mtx.flac:d995b959de608ce0e9298f0cf033e1fc
-wilco2008-03-09d2t04.mtx.flac:466e94a03a763a4cf63dfc351ba62120
-wilco2008-03-09d2t05.mtx.flac:66dd2b661adec8b0e274fabf3f670f37
-wilco2008-03-09d2t06.mtx.flac:ea34cddbe2b19db717fb1d3cdf4ad07d
-wilco2008-03-09d2t07.mtx.flac:3195c81ebea376dfa05d6df92faa0d47
-wilco2008-03-09d2t08.mtx.flac:8bd8c34f586519cf49084baa92989b18
-wilco2008-03-09d2t09.mtx.flac:df8424423bfb749c70553b1e13389901
-wilco2008-03-09d2t10.mtx.flac:cb0c3aabe8a24800126f342f1de63d6c
-wilco2008-03-09d2t11.mtx.flac:25db3f675bb162c41072d883e15a5c4c
-wilco2008-03-09d2t12.mtx.flac:983c640d83eb353290b4e48cd3a5343c
-wilco2008-03-09d2t13.mtx.flac:a132a85f021fdf7349908344d11c4e27
-wilco2008-03-09d2t14.mtx.flac:0d97762312583c92feea3561b39aff5f
-wilco2008-03-09d2t15.mtx.flac:bcfb7ad5b256740ef4dd97bfe33d1e37
-wilco2008-03-09d2t16.mtx.flac:fdee0010b96c966efd41cb9fb097940b
+Wilco 3-9-2008 
+Val Air Ballroom  
+Des Moines, IA
+
+Source 1 (AUD): AKG 460B/ck63 (hypercards, FOB, center, 13' high) > AKG B18's > Korg MR-1 (1bit, 2.8MHz DFF)
+Transfer: MR-1 > USB > Audiogate (-2.0 dB)> WAV 24/96 
+Recorded by Mark Swanda
+
+Source 2 (SBD): SBD > XLR's > Sony M1
+Transfer: Tascam DA-20 > Coax > Audiophile 2496 > Soundforge 9.0 > WAV 16/44.1
+Recorded by Brian Roy
+
+Editing: Soundforge 9.0 (mixing, time stretch (Source2), tracking, fades, resample, dither) > WAV 16/44.1 
+> Flac Frontend (flac encoding - level 6)
+Transferred and Edited by Mark Swanda
+
+
+DISK 1	71:56
+
+01. Ashes of American Flags
+02. Mountain Bed
+03. You Are My Face
+04. Muzzle of Bees
+05. Handshake Drugs
+06. Cars Can't Escape
+07. Pot Kettle Black
+08. Shot In The Arm
+09. Side With Seeds
+10. She's A Jar
+11. Impossible Germany
+12. California Stars
+13. Summer Teeth
+14. A Magazine Called Sunset
+
+DISK 2	62:09
+
+01. Via Chicago
+02. Jesus, Etc.
+03. Walken
+04. I'm The Man Who Loves You
+05. Encore Break
+Encore 1
+06. Hate It Here
+07. Kingpin
+08. Passenger Side
+09. Heavy Metal Drummer
+10. Red Eyed & Blue
+11. I Got You (At The End of the Century)
+12. Monday
+13. Outta Mind (Outta Sight)
+14. Encore Break 2
+Encore 2
+15. "what they do in Spain"
+16. I'm A Wheel
+
+Thanks to Stan, Ken, and everyone with Wilco!
+Support the musicians!  http://wilcoworld.net/

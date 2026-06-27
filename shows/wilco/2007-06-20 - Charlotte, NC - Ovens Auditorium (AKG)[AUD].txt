@@ -1,26 +1,47 @@
-wilco2007-06-20d1t01.flac:67b0b644937a80c01b204d719ce4bfe3
-wilco2007-06-20d1t02.flac:c5e4d1ba610655547a31c7276ed94117
-wilco2007-06-20d1t03.flac:1e96189c42d1ba008286e6ac147c095b
-wilco2007-06-20d1t04.flac:334207ff8b0f2d30aaa733a3eb63c1ae
-wilco2007-06-20d1t05.flac:53b9be25a562ea80ff67c88cbd827ab1
-wilco2007-06-20d1t06.flac:fee880cbdc909318f5b4ecbf434b4de4
-wilco2007-06-20d1t07.flac:7024dd51125ad82a90f9e20d0a062e78
-wilco2007-06-20d1t08.flac:afee9801838404fa04b8abe5db8bab9a
-wilco2007-06-20d1t09.flac:0acd9bac8f0e0310e0de992f3f5b8245
-wilco2007-06-20d1t10.flac:078b1867ce45c519d979838b757af839
-wilco2007-06-20d1t11.flac:3b4ce4a62c4c4e520870356ecc03a60e
-wilco2007-06-20d1t12.flac:77fb1674b6b81d9b4ee0f164b02ffc0f
-wilco2007-06-20d1t13.flac:fc9dae269cd0557fc6feb3a66a6ac8b4
-wilco2007-06-20d1t14.flac:e58d506e10ef79040c65534b67c2956d
-wilco2007-06-20d1t15.flac:59067f13eab1ef08a59cc92dc8c687cf
-wilco2007-06-20d1t16.flac:882f59e11508bae6962899e1efd59baa
-wilco2007-06-20d2t01.flac:80a89403d4a0a25b760db2eed71a9bcb
-wilco2007-06-20d2t02.flac:1077157aa910c43d7b2a7d072566204f
-wilco2007-06-20d2t03.flac:e16c94a6a42975d5ca0299e35468584f
-wilco2007-06-20d2t04.flac:b503fedec037136269521ef8ca2c16ca
-wilco2007-06-20d2t05.flac:fc13d19daa2a995cabe51f0cc8054b02
-wilco2007-06-20d2t06.flac:fe970338f0b06ffd13cb48e210f764e3
-wilco2007-06-20d2t07.flac:49dcab80b19ccc993a264ae2626add17
-wilco2007-06-20d2t08.flac:64f80394e0107ace43196f409da801d1
-wilco2007-06-20d2t09.flac:796c95b7ee21dccfa426b3c59b3e3031
-wilco2007-06-20d2t10.flac:8c47b1415aa2095437ef86178470ac0b
+Wilco
+06/20/07
+Ovens Auditorium, Charlotte, NC
+
+Source: JW mod AKG 460/ck61 (DIN, DFC, clamped to balcony rail extended 3' out over audience) > Lunatec V3 > JB3 (48K)
+Transfer: JB3 > PC > Cool Edit Pro (Fades, 48k>44k) > CD Wave > FLAC
+Taped and Transfered by: Brian Hadella <bhadella@taperssection.com>
+
+Disc 1:
+Set 1: 
+
+01.  - Intro -
+02.  Sunken Treasure  
+03.  You Are My Face
+04.  Side With the Seeds
+05.  I am Trying to Break Your Heart
+06.  Shake it Off
+07.  Handshake Drugs
+08.  Impossible Germany
+09.  Sky Blue Sky
+10.  California Stars
+11.  Hummingbird
+12.  On and On and On
+13.  War on War
+14.  "We wanna to bring macrame back but in an aggressive way"
+15.  "You know what, people that play frisbee golf, their dicks"
+16.  <fade out>
+
+Dics 2:
+01.  <fade in>
+02.  Jesus, etc.
+03.  "Wilco, the indie Barry White"
+04.  Hate it Here
+05.  Walken
+06.  I'm the Man Who Loves You
+
+Encore 1: 
+07.  I'm Always in Love
+08.  Spiders (Kidsmoke)
+
+Encore 2:
+09.  A Shot in the Arm
+10.  Heavy Metal Drummer
+
+To seamlessly join the two discs, remove d1t16 and d2t01. 
+
+A huge thanks to Wilco for being taper friendly and Stan Doty for the great sound.

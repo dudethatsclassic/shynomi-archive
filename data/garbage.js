@@ -4249,8 +4249,7 @@ const ARTIST_DATA = {
       "venue": "San Manueal Theater",
       "version": "FM",
       "format": "FLAC",
-      "notes": "",
-      "textFile": "2006-12-12 - San Bernardino, CA - San Manueal Theater [FM].txt"
+      "notes": ""
     },
     {
       "year": 2007,

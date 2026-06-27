@@ -1,11 +1,17 @@
-01 -intro-.flac:73f2e342456c9561d91310ac1a9705a3
-02 Temptation Waits.flac:46129bb2b7b9fd311c0e6d24cb7d0f33
-03 I Think I'm Paranoid.flac:289997e2b13345cabad40f5c080cd258
-04 Special.flac:2c80406fd8c7fd0d875169e341839efd
-05 Can't Seem To Make You Mine.flac:8bf9b79df71d18a639bcb99252824a61
-06 #1 Crush.flac:b3674c8a137e31127478fc8b4dcb590e
-07 Stupid Girl.flac:ec36bbedac6cf107426a7dae768e69fc
-08 Vow.flac:55d92078882a3421b138a21aeabcb2c9
-09 When I Grow Up.flac:664ee931d84b6fcc5b7eff2e54e865a4
-10 Push It.flac:13af9c5b44efab238edf476abe129819
-11 Only Happy When It Rains.flac:a5ee43f4c9c6b26a60eeba0a37bea22f
+GARBAGE
+LOS ANGELES,CA:SHRINE AUDITORIUM
+12/12/98
+
+Trade CDR -> EAC -> FLAC
+
+01. -intro-
+02. Temptation Waits
+03. I Think I'm Paranoid
+04. Special
+05. Can't Seem To Make You Mine
+06. #1 Crush
+07. Stupid Girl 
+08. Vow
+09. When I Grow Up
+10. Push It
+11. Only Happy When It Rains 

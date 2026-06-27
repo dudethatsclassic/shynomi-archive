@@ -1,24 +1,41 @@
-wilco2007-09-21.akg393.d2t12.flac:50959eb58c4e2ad00422289c661206dd
-wilco2007-09-21.akg393.d1t01.flac:c06f24c6c205015eca0c7478b2082de6
-wilco2007-09-21.akg393.d1t02.flac:abf66bef70ac0767f2396870f8791c9d
-wilco2007-09-21.akg393.d1t03.flac:e83c8f412f4248b609c626c88b969bf4
-wilco2007-09-21.akg393.d1t04.flac:2ec82fdb83d8f1b1e39b8cb8bc93225b
-wilco2007-09-21.akg393.d1t05.flac:dd7e9509bc473704bd79d0f992abe420
-wilco2007-09-21.akg393.d1t06.flac:0b552106054be62937ede688ee7f1f69
-wilco2007-09-21.akg393.d1t07.flac:9299a9b82e5c43a1915b29e691083e0e
-wilco2007-09-21.akg393.d1t08.flac:068cd50ce9d5b2ee1b1224c5da421200
-wilco2007-09-21.akg393.d1t09.flac:5c8a12a4fb47bfb15edf1c6f25474b03
-wilco2007-09-21.akg393.d1t10.flac:cc295cbb60e2be1ef095967dfba4bb19
-wilco2007-09-21.akg393.d1t11.flac:920dc48c285271e11571ea594d5174d9
-wilco2007-09-21.akg393.d1t12.flac:cb5af483052d6c30d1c6c47e6c228cf7
-wilco2007-09-21.akg393.d2t01.flac:d61fca8582d6c6cbd382db5bff6f9af1
-wilco2007-09-21.akg393.d2t02.flac:6d0ccbf72cae667b786f629b749447f1
-wilco2007-09-21.akg393.d2t03.flac:66a3c1b3e1834948c7ca83feb8bfe536
-wilco2007-09-21.akg393.d2t04.flac:7bd7f32e08321724a92afcd1e5e614f6
-wilco2007-09-21.akg393.d2t05.flac:9f961b5b23886dbb1e2044f5c60011a1
-wilco2007-09-21.akg393.d2t06.flac:dae76b03a08bfe763b521705ddcd614f
-wilco2007-09-21.akg393.d2t07.flac:504f55da2ca5caecc33cd268c617b1ac
-wilco2007-09-21.akg393.d2t08.flac:ad2490f3b30793c3dedbe36d0e8c4612
-wilco2007-09-21.akg393.d2t09.flac:fbdd0047b6e2dbbb804394f9728008a8
-wilco2007-09-21.akg393.d2t10.flac:aa2d345c32c24f1677dd3d68e814ed39
-wilco2007-09-21.akg393.d2t11.flac:750f5e994e2f458d5d302d86004aae0f
+Wilco
+September 21, 1007
+Louisville Slugger Field
+Louisville, KY
+
+Source: AKG 393s->UA-5@48 kHz->Nomad JB3
+Transfer: JB3->PC->SoundForge(+3db to right ch,48 kHz->44.1 kHz)->CDWAV->FLAC
+Recorded by Bob Mouk & Chad Hobbs
+moukrc@fuse.net
+
+Disc 1 - 62:39
+
+1. Misunderstood 6:23
+2. Forget the Flowers 3:03
+3. You Are My Face 4:44
+4. I Am Trying to Break Your Heart 7:44
+5. Handshake Drugs 6:07
+6. Side With the Seeds 5:07
+7. A Shot in the Arm 4:45
+8. She's a Jar 4:45
+9. Impossible Germany 6:19
+10. It's Just That Simple 4:27
+11. Too Far Apart 5:11
+12. Jesus, etc. 4:05
+
+Disc 2 - 57:37
+
+1. Walken 4:39
+2. I'm the Man Who Loves You 6:07
+-Encore #1-
+3. Crew Intros 2:56
+4. California Stars 5:03
+5. Hate It Here 4:39
+6. Box Full of Letters 3:22
+7. Heavy Metal Drummer 3:26
+8. Spiders (Kidsmoke) 12:32
+-Encore #2-
+9. Via Chicago 5:20
+10. Red-Eyed and Blue-> 2:27
+11. I Got You (At the End of the Century) 3:35
+12. Outtasite (Outta Mind) 3:30

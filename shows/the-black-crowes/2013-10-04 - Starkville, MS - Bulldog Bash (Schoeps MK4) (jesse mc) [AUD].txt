@@ -1,12 +1,30 @@
-bc2013-10-04d1t01.flac:b407d65f13b9f2c46435825a6bd8e451
-bc2013-10-04d1t02.flac:25ecf17cc43e21fc9d078fcb8296d86c
-bc2013-10-04d1t03.flac:fc3aed3bd9fd72fc62c50823e68b0390
-bc2013-10-04d1t04.flac:f92f2d45ac6c5f4fbe1b120712229e78
-bc2013-10-04d1t05.flac:ab042208935ad53e7697fca6ba83b092
-bc2013-10-04d1t06.flac:1f7ee9a96bd882837ac9e0b39f1fdcff
-bc2013-10-04d1t07.flac:d05c02a6c31e09bf612020131da2eb69
-bc2013-10-04d1t08.flac:fc5001b89161049f7c0b4b73b5ccd958
-bc2013-10-04d2t01.flac:7a2e13f6f0fdad01c8399d50a4e5b0f5
-bc2013-10-04d2t02.flac:0ef1f81a6a36371b4e681b562cf3392c
-bc2013-10-04d2t03.flac:e452a11126f61e7e155aa5091ed332a9
-bc2013-10-04d2t04.flac:69fa55eb4fc8861792b5e6231811bee5
+The Black Crowes
+10/4/2013
+Bulldog Bash,
+Starkville, MS
+
+Source: Schoeps mk4(ortf) > kc5 > cmc6 > v3 > hd-p2(24/48)
+Location: fob/dfc/35' from stage @ 8' high
+Transfer: hd-p2 > Inspiron 6000 > Sony Sound Forge 8.0(resample/bit-depth/fade) > CD WAVE > FLAC Frontend(Level 8)
+Taped & seeded by Jesse Mc
+
+Set
+
+Disc 1
+
+01. Jealous Again
+02. Hotel Illness
+03. Remedy
+04. Good Friday
+05. Wiser Time
+06. She Talks to Angels
+07. Hi Head Blues
+08. Thorn In My Pride
+
+Disc 2
+
+01. Soul Singing
+02. Twice As Hard
+03. Sting Me
+04. Hard To Handle/Hush
+

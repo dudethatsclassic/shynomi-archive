@@ -427,8 +427,7 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1996-06-21 - San Francisco, CA - The Warfield (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -715,8 +714,7 @@ const ARTIST_DATA = {
       "venue": "Hard Rock Casino",
       "notes": "unk \u00b7 brad downen",
       "version": "MIX",
-      "format": "FLAC 24",
-      "textFile": "2024-07-20 - Cincinnati, OH - Hard Rock Casino (unk) (brad downen) [MIX24].txt"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,

@@ -1033,8 +1033,7 @@ const ARTIST_DATA = {
       "venue": "Warfield Theatre",
       "notes": "Core Sound mics \u00b7 mike",
       "version": "AUD",
-      "format": "",
-      "textFile": "2002-11-23 - San Francisco, CA - Warfield Theatre [AUD].txt"
+      "format": ""
     },
     {
       "year": 2002,

@@ -1,28 +1,45 @@
-wilco2006-11-25d1t01.flac:d37f25da5a7d00f6377c034d3881b5c1
-wilco2006-11-25d1t02.flac:d031b429e5a632f7239e52c079aa6488
-wilco2006-11-25d1t03.flac:ed6d542d7ebd3a51d8606d30fc78f20d
-wilco2006-11-25d1t04.flac:33f51db937555298010ccc2e479ba585
-wilco2006-11-25d1t05.flac:0a8b029107803462e09bf699677649b9
-wilco2006-11-25d1t06.flac:40d9544f9218f2420f9722c3d86ac9fd
-wilco2006-11-25d1t07.flac:5603385cab621834027edeff86a1e5c6
-wilco2006-11-25d1t08.flac:41310cd75bbece55e8a90b0e78a30d21
-wilco2006-11-25d1t09.flac:7a057a1c10c77a27889c357f465b57b3
-wilco2006-11-25d1t10.flac:26acbc32deb8c7c445bb2eb17039642f
-wilco2006-11-25d1t11.flac:ae61e40e14c4132f21affd4aee95186d
-wilco2006-11-25d1t12.flac:02f09364dfcb9dde779cb3654f84a5cf
-wilco2006-11-25d1t13.flac:3eb611b05e078381b8b47118c55017ba
-wilco2006-11-25d1t14.flac:75da44422ab55aeaf454b68a7639ffe2
-wilco2006-11-25d2t01.flac:37bcf263c160993515dc3167d0f01978
-wilco2006-11-25d2t02.flac:682faa3683e6641d7f0f8723d1cedf61
-wilco2006-11-25d2t03.flac:78e79781b6fd841848aec13d829d7f70
-wilco2006-11-25d2t04.flac:8eb765173301ce2b38b6fe825334a372
-wilco2006-11-25d2t05.flac:1ead1d76faa9145c7d649d7f9ba8a5d4
-wilco2006-11-25d2t06.flac:99966bbf6ca3873110717f133a50aee4
-wilco2006-11-25d2t07.flac:97d5adca45f6da2e7de11031847b8fef
-wilco2006-11-25d2t08.flac:14353a730538efe82ac8972f1416da91
-wilco2006-11-25d2t09.flac:d1f24f812a36e0895a0d8d6dc0992d5e
-wilco2006-11-25d2t10.flac:64c2d0757df06fac688913bb18b2a1f9
-wilco2006-11-25d2t11.flac:a1e0b50d2fcc87ed5247c610c3d71b99
-wilco2006-11-25d2t12.flac:a6076854a68f11d5a5c7dbb5f34f50dd
-wilco2006-11-25d2t13.flac:ad88cc04c7d9196ef4abce80f8d4a615
-wilco2006-11-25d2t14.flac:c530603c5c201a2c752c2115c716db92
+Wilco
+November 25, 2006
+Auditorium Theatre
+Chicago, IL
+
+Source: Earthworks SR77's (dead center row R) > Lunatec V3 (@ 24/48) > MicroTrack 24/96
+
+Transfer: WaveLab 5 (24/48 > 16/44.1) > CD Wave (tracking) > Wavelab 5 
+(fades in d1t1 and d2t13) > Flac Frontend
+
+Taped and transferred by Jerry Eaglebarger (chitaper@mindspring.com)
+
+Disc 1
+---------Starters----------------
+01 Marty Lennartz (WXRT) introduction
+02 Bobb Bruno song
+03 Intro theme (Bob Newhart theme?)
+----------Wilco------------------
+04 Radio Cure
+05 I Am Trying To Break Your Heart
+06 Handshake Drugs
+07 A Shot In The Arm
+08 Impossible Germany
+09 Poor Places
+10 Shake It Off
+11 She's A Jar
+12 -Stage Banter-
+13 Airline To Heaven
+14 Jesus Etc.
+
+Disc 2
+01 Side With The Seeds
+02 Forget The Flowers
+03 Walken
+04 Theologians
+05 I'm The Man Who Loves You
+06 -Encore Break-
+07 The Late Greats
+08 Ashes Of American Flags
+09 Heavy Metal Drummer
+10 Let's Not Get Carried Away 
+11 Kingpin
+12 Passenger Side
+13 -Encore Break-
+14 Hummingbird

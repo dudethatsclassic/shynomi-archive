@@ -1,31 +1,45 @@
-Wilco2006-11-22d1t01.flac:9080a1873fdff44de174ef895b9a72c4
-Wilco2006-11-22d1t02.flac:093f6ca5b1c7b0a136edb8babebff58b
-Wilco2006-11-22d1t03.flac:0236ed84b2af99834330223d9bc1289f
-Wilco2006-11-22d1t04.flac:3c4d68b006a09a29feb0851ca966f87e
-Wilco2006-11-22d1t05.flac:01de451087240a23f5f2dcecfb8f0dbd
-Wilco2006-11-22d1t06.flac:d535831ae820f47ec9d189a46c9d4b9b
-Wilco2006-11-22d1t07.flac:8882b68907e2a6965a6d8ed49695c743
-Wilco2006-11-22d1t08.flac:b72093d2bdfb229e9682d606f545499f
-Wilco2006-11-22d1t09.flac:e53cf833a7ac066e8387d5144b06233d
-Wilco2006-11-22d1t10.flac:5208127b6dc330bf966725c7a1be6bdf
-Wilco2006-11-22d1t11.flac:90ad51a92301249a57204fd6b910acf4
-Wilco2006-11-22d1t12.flac:29a84765405add0dd26f6abc5543c8e5
-Wilco2006-11-22d1t13.flac:244ff0a75364e2d578e005c21d18d895
-Wilco2006-11-22d1t14.flac:fdc93dcc6ad9363cb48a39ccf20ea30c
-Wilco2006-11-22d1t15.flac:deb821c7fd31150d1029803a2cbec0e9
-Wilco2006-11-22d1t16.flac:cb01298b4edf32d2bd8477ca36a7cfb2
-Wilco2006-11-22d1t17.flac:1443a7abf8b86889ee75d40ea9f7b4b0
-Wilco2006-11-22d1t18.flac:f0310ebbbf06506f14415867242ae268
-Wilco2006-11-22d1t19.flac:fe58e877ef3b4b8c067f25fa06fcc885
+Wilco
+November 22, 2006
+Barrymore Theater, Madison WI
 
-Wilco2006-11-22d2t01.flac:78b31d76f02a5b885a82aead85784f08
-Wilco2006-11-22d2t02.flac:9d0dcbaa0008c9724536a1b4610b314b
-Wilco2006-11-22d2t03.flac:fe45b28bcc1332a3c4646316abe53821
-Wilco2006-11-22d2t04.flac:c45ece6204b2d37c7294a281c1ed27be
-Wilco2006-11-22d2t05.flac:3be1a5b909fc166217a48d78e1c6e671
-Wilco2006-11-22d2t06.flac:586744bb43f9f925cbb90b182c80e8d0
-Wilco2006-11-22d2t07.flac:5f5d6dc41835bfc69d99d87b5d89dd4c
-Wilco2006-11-22d2t08.flac:5dd0af35ac91e17186b2eb798b9da89a
-Wilco2006-11-22d2t09.flac:6d52d2874cc8135677213c5f6466d2f4
-Wilco2006-11-22d2t10.flac:44034329785dde0d9cfae94561f5eb0f
-Wilco2006-11-22d2t11.flac:ae36da304e211981dabace3bcfec5f56
+Source: Earthworks SR77's > Lunatec V3 @ 24/48 > MicroTrack 24/96 
+
+Transfer: WaveLab 5 (24/48 > 16/44.1) > CD Wave (tracking) > WaveLab 5 
+(fade out in d2t11) > Flac Frontend (.wav > .flac)
+
+Taped & transferred by Jerry Eaglebarger (chitaper@mindspring.com)
+
+Disc 1
+01 Intro music (Bob Newhart theme?)
+02 Chrome Is Hell
+03 A Shot In The Arm
+04 Handshake Drugs
+05 -Stage Banter-
+06 Shake It Off
+07 I Am Trying To Break Your Heart
+08 Impossible Germany
+09 -Stage Banter-
+10 Muzzle Of Bees
+11 Company In My Back
+12 Sunken Treasure
+13 Airline To Heaven
+14 What Light (false start)
+15 What Light
+16 -Stage Banter-
+17 Jesus Etc.
+18 -Stage Banter-
+19 Walken
+
+Disc 2
+01 Theologians
+02 I'm The Man Who Loves You
+03 -Encore Break-
+04 War On War
+05 The Late Greats
+06 Let's Not Get Carried Away
+07 Kingpin
+08 -Encore Break-
+09 Hummingbird
+10 Is That The Thanks I Get?
+11 Heavy Metal Drummer 
+ 

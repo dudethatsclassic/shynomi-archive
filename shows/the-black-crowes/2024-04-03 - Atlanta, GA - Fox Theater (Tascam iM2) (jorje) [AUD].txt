@@ -1,18 +1,32 @@
-00-Intro.flac:82870464be450306f5ad89641398677c
-01-BesideManners.flac:8bc2e8c3f1f30a086df4ebdc993f8de9
-02-DirtyColdSun.flac:3afb4b4a7a6e9aa750d3e9bf517d560c
-03-TwiceAsHard.flac:97dccfba47d2a6459e86c73ae411591c
-04-Gone.flac:6d4251a646564758727c257292e727d2
-05-Nebakanezer.flac:9609060d7bf793a9ef548f9774067b66
-06-CrossYourFingers.flac:c9910b4913d4ea243d02fc80956763dc
-07-ThenSheSaidMyName.flac:b815f1c7c55715fde86010ead6f99c31
-08-WantingAndWaiting.flac:d7ee63173e6db4e304e1832ffb3af03f
-09-HardToHandle.flac:370d0bd68e1afcba8c7f32dfa874ec76
-10-SheTalksToAngels.flac:ec1f13882e1a06c41bdb84f616a846a1
-11-FollowTheMoon.flac:aaf32dafceae76316024d41682c41954
-12-WhiteLight-WhiteHeat.flac:80e650a90d8013098fbd6c0f9656d728
-13-StingMe.flac:023f69cfdf52d951cfe0b820f6a6e9a4
-14-ThornInMyPride.flac:c51b922d11274fc240d6bdcf90be1b3e
-15-JealousAgain.flac:efaac770b59d28aecaad17d0449109b7
-16-Remedy.flac:6f4438b260da79ea9ee6321f5ddaa563
-17-KindredFriend.flac:f334a6c50a2f2611c64557e7bb9f6b29
+Black Crowes
+The Fox Theatre
+Atlanta, GA
+April 3, 2024
+
+Tascam iM2> iOS > 24bit/48hz> Audacity > harddisk >audacity >track split &-->16bit/44.1hz >tlh flac level8
+
+00 - Intro
+01 - Bedside Manners
+02 - Dirty Cold Sun
+03 - Twice as Hard
+04 - Gone
+05 - Nebakanezer
+06 - Cross Your Finger
+07 - Then She Said My Name
+08 - Wanting and Waiting
+09 - Hard to Handle
+10 - She Talks to Angels
+11 - Follow the Moon
+12 - White Light - White Heat
+13 - Sting Me
+14 - Thorn in My Pride
+15 - Jealous Again
+16 - Remedy
+17 - Kindred Friend
+
+Opening Act: The Black Lips
+
+Recorded by Jorje
+
+Don't sell. Support this great artist. Keep the music alive like Jared Houser
+https://vimeo.com/190021070/14a4b5b7ca

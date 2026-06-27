@@ -1,17 +1,37 @@
-jmayer2006-10-14at831d1t01.flac:e3480ed19e5445861336e9a8d693d9c0
-jmayer2006-10-14at831d1t02.flac:6308b4b9a9640f746c9e31fa35f7aaca
-jmayer2006-10-14at831d1t03.flac:bc2f3d34a8b437499abc3f27f9578fca
-jmayer2006-10-14at831d1t04.flac:c9e8e8a23ed6df37a1000312ff17ee17
-jmayer2006-10-14at831d1t05.flac:72b5124950b9be8beb4a93687ffc5ece
-jmayer2006-10-14at831d1t06.flac:c2874aacab433f3e6b632bbf42e0fe12
-jmayer2006-10-14at831d1t07.flac:eccae9169fbc936d87c1ccf73f42b188
-jmayer2006-10-14at831d1t08.flac:70c17d69246941d77521aadb99dbd6cd
-jmayer2006-10-14at831d2t01.flac:f7864456d35258187299ead675750987
-jmayer2006-10-14at831d2t02.flac:0e356ebba5f21cf584f96c11f522e4ee
-jmayer2006-10-14at831d2t03.flac:5acf8f978761dbc22b30eea57f626cc0
-jmayer2006-10-14at831d2t04.flac:58e5e99ebe2772413167a67555b6c848
-jmayer2006-10-14at831d2t05.flac:e93c110a8013c72421cd88996c191833
-jmayer2006-10-14at831d2t06.flac:3424ced3da0825db871babfffc12c267
-jmayer2006-10-14at831d2t07.flac:c30b9babfe585d60d91f5262e04c2148
-jmayer2006-10-14at831d2t08.flac:449e7b1bb047b15c3c13af504722e990
-jmayer2006-10-14at831d2t09.flac:8c35e606261b40637492275f1cfbc9f8
+John Mayer
+Chastain Park Amphitheater
+Atlanta, GA
+October 14 2006
+
+Source: AT831s > SP-SPSB-1S batt. box (w/ bass rolloff)> creative nomad jukebox 3
+Location: mics clipped X-Y on mic stand on Table 177 in the middle of the house behind the sbd.
+Transfer: creative nomad jukebox 3> USB> Sound Forge 6.0 > CD WAV > flac
+
+Taped/Transfered by: geneva weaver (by_geeves@yahoo.com)
+
+01. Belief
+02. Clarity
+03. Bigger than My Body
+04. Vultures Jam >
+05. Vultures
+06. No Such Thing
+07. In Repair
+08. Gravity
+09. The Heart of Life
+10. Why Georgia >(Love Soon)>
+11. My Stupid Mouth >
+12. (Back to You) >
+13. My Stupid Mouth reprise
+14. Waiting on the World to Change Jam
+15. Waiting on the World to Change
+16. Comfortable
+17. I'm Gonna Find Another You
+
+
+() tease or a partial song
+
+Taper's Notes: The mics were set up on a table stand, so there is the occasional chatter
+present at points, but overall the crowd noise is very minimal. The show fades out and in at 71.49 
+before the encore. 
+
+Big thanks and lots of love to Kristen for the amazing tickets and Rich for use of his NJ3.

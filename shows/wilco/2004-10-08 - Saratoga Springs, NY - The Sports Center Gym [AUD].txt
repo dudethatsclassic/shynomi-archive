@@ -1,28 +1,44 @@
-7c5dcbbbfef8814f4b676770c5f253be *wilco2004.10.08d1t01.flac
-1c1f914e9d0819b463bdae66cfd2ea42 *wilco2004.10.08d1t02.flac
-bc73657f6e9ad86fa5e3f79d52ce965a *wilco2004.10.08d1t03.flac
-dd32f7d7cd6cf8e7fc1e748f8838cd9d *wilco2004.10.08d1t12.flac
-3ecb6072d388c30eb7a6a281aec766d8 *wilco2004.10.08d1t05.flac
-500d4f26e64cf892e9a9f48d6d4c0f0b *wilco2004.10.08d1t06.flac
-5d4877b3425671ad1217f903a14eaa07 *wilco2004.10.08d1t07.flac
-2acaffc284b34737d1a33f59bff8c498 *wilco2004.10.08d1t08.flac
-48e9e47a7b54003f5d47a6ce4a4e0a99 *wilco2004.10.08d1t09.flac
-334b207e6fbfa2b1ac1ab10c56f829d7 *wilco2004.10.08d1t10.flac
-fe350cc063131cc7f9912f05b0e6949e *wilco2004.10.08d1t11.flac
-d729289252a3f26df1fa342f778810d3 *wilco2004.10.08d1t04.flac
-180ed74ac8e9c63389f15ed864322320 *wilco2004.10.08.AKG481.txt
-d0a663ddc41dd61b8dd4a8eaa219e1d4 *wilco2004.10.08d2t01.flac
-4ba1d017c5b537e73a0add239ea2ed57 *wilco2004.10.08d2t02.flac
-fb289db822fb4ac70f7f84bc1617cbd8 *wilco2004.10.08d2t03.flac
-2db8b100da8359cdcf65f2d8dd72c00d *wilco2004.10.08d2t04.flac
-2795c492618c9a617b3ab2af5448521d *wilco2004.10.08d2t05.flac
-b15471747e3b0876d9ae6ee7412204fb *wilco2004.10.08d2t06.flac
-7004c33107381046ec951d6b62e33ab8 *wilco2004.10.08d2t07.flac
-a329af4bb22cae42481d565699b82f50 *wilco2004.10.08d2t08.flac
-efcf86227f084ec08aeddd3fe77eb590 *wilco2004.10.08d2t09.flac
-2930dab677f427d568a1ef5cebac97b8 *wilco2004.10.08d2t10.flac
-d4577c85c5b028cdeceedb7b6389bcb8 *wilco2004.10.08d2t11.flac
-37704e9575e48967df855b1dfbbcaa18 *wilco2004.10.08d2t12.flac
-a6b7a26633d1363eb2841fb910270edd *wilco2004.10.08d2t13.flac
-f04d6625586aced05017191681864e21 *wilco2004.10.08d2t14.flac
-9217ab08a57e0f9b5da3f9b6c1329e71 *wilco2004.10.08d2t15.flac
+Wilco
+The Sports Center Gym
+Saratoga Springs, NY
+2004-10-08
+
+Source: AKG 481's>PS-2>AD-20>DR-7
+Location: Right Front of Board ~11'
+Analog Transfer: DR-7>Total Recorder>CDWave>FLAC
+
+Notes: Levels were running pretty hot out of the AD-20, so there is clipping in places.  
+Also, after listening to the other source, it appears that Jeff's vocals were not so clear 
+in either the mics or PA.
+
+
+Disc 01 (61:35)
+01. Handshake Drugs 
+02. Hummingbird
+03. Company In My Back
+04. Muzzle Of Bees 
+05. I Am Trying To Break Your Heart   
+06. Hell Is Chrome  
+07. War On War  
+08. A Shot In The Arm   
+09. At Least That's What You Said   
+10. Jesus, Etc.   
+11. Ashes Of American Flags   
+12. I'm Always In Love  
+
+Disc 02  (59:20)
+01. I'm The Man Who Loves You  
+02. Theologians>
+03. Poor Places>  
+04. Spiders (Kidsmoke) 
+05. Encore 1:
+06. Cars Can't Escape>
+07. Kingpin  
+08. Candyfloss  
+09. Encore 2:
+10. Heavy Metal Drummer   
+11. The Late Greats  
+12. I'm A Wheel 
+13. Jeff Rant 
+14. Christ For President  
+15. Be Not So Fearful  

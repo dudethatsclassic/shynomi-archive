@@ -1,30 +1,50 @@
-Tweedy2006-02-15d1t01.flac:11f9604ce0ae62db58c27b5453c32a80
-Tweedy2006-02-15d1t02.flac:d6a0c4a3a026c28c1df6723304338ac2
-Tweedy2006-02-15d1t03.flac:3060d64ad8793343b526aea0901cfc1e
-Tweedy2006-02-15d1t04.flac:150dcf0023a151abf7dd78cf514b7243
-Tweedy2006-02-15d1t05.flac:7e4e7444339dbc882e245810fd34fb64
-Tweedy2006-02-15d1t06.flac:262766782cd4c3119b721d9abefad2ae
-Tweedy2006-02-15d1t07.flac:d83f0a9ea1eb1b413a4fdf5fadae102d
-Tweedy2006-02-15d1t08.flac:851be8522596d88848b3e39dea4a3dbf
-Tweedy2006-02-15d1t09.flac:94ee3b5ad06f72627f35a92944bb3d9d
-Tweedy2006-02-15d1t10.flac:67fa7332118429ef72dd7927523ac0b6
-Tweedy2006-02-15d1t11.flac:ab97c80967b905cde631e9d4495fdaea
-Tweedy2006-02-15d1t12.flac:a5c913f3a6075298a9fcf61064715a7c
-Tweedy2006-02-15d1t13.flac:d4b71ec8a7dbd92aca1458ec9c304d4e
-Tweedy2006-02-15d1t14.flac:5123555facd69bdf740507c84d37e3e0
-Tweedy2006-02-15d1t15.flac:126400e81e1b3072c25135542e1ad9b4
-Tweedy2006-02-15d2t01.flac:3f686e99a2c231ee5eb283e505b0f2d2
-Tweedy2006-02-15d2t02.flac:67966a57f0e7563e5086c7cd1b726935
-Tweedy2006-02-15d2t03.flac:926613f8fb1324e412f6de006e5de26b
-Tweedy2006-02-15d2t04.flac:657de047933dbb5d771c54004a46f078
-Tweedy2006-02-15d2t05.flac:fe827e21c8b9bed0e99dad1f4283dd05
-Tweedy2006-02-15d2t06.flac:c2798a3d383ffbb65b5da3ef6b85135d
-Tweedy2006-02-15d2t07.flac:c04e60c92cb2144a6b99a9b70e111f59
-Tweedy2006-02-15d2t08.flac:6e187c5c805055e940406db0b7bd836c
-Tweedy2006-02-15d2t09.flac:e951d9cbe95a3a23dcc040931da75afc
-Tweedy2006-02-15d2t10.flac:767984ab86d5b3073c14558eb5f0b482
-Tweedy2006-02-15d2t11.flac:308f3179a536ee011274ca76ce07d6f1
-Tweedy2006-02-15d2t12.flac:8ec394cb377cfa7f6ef1e77ff313d177
-Tweedy2006-02-15d2t13.flac:1ac68995034aaa8c163bf4371d7fe08a
-Tweedy2006-02-15d2t14.flac:dde4ecf76d25b1095f47e5490b7337a4
-Tweedy2006-02-15d2t15.flac:02b2e46d15c9d32bc599086d5c3e7b76
+Jeff Tweedy
+February 15, 2006
+Boulder Theater - Boulder, CO
+
+DISC 1
+1.  Bob Dylan's 49th Beard   
+2.  Remember The Mountain Bed   
+3.  I Am Trying To Break Your Heart  
+4.  Muzzle Of Bees 
+5.  She's A Jar
+6.  (Was I) In Your Dreams   
+7.  Someone Else's Song
+8.  Jeff's intro to The Ruling Class
+9.  The Ruling Class
+10. Theologians   
+11. Someday Some Morning Sometime   
+12. Sunken Treasure   
+13. Jeff talks on talking
+14. A Shot In The Arm   
+15. Jeff talks more on talking
+
+DISC 2
+
+1.  Airline To Heaven
+2.  Jeff talks on singing/intro to new song
+3.  new song (Is That The Thanks I Get?)
+4.  Passenger Side   
+Encore 1:
+5.  Intro to encore/talkers
+6.  Ripple (fragment, with crowd vocals)
+7.  Forget The Flowers  
+8.  Far, Far Away *  
+9.  Not For The Season *
+10. Heavy Metal Drummer *   
+11. War On War *   
+12. I'm The Man Who Loves You *   
+
+Encore 2:
+13. Pecan Pie (take one)
+14. Pecan Pie (take two)
+15. Acuff-Rose +
+
+*=w/Glenn Kotche on drums
++=performed at edge of stage, without PA
+Microtech Gefell M210s >= Grace Designs
+Lunatec V2 > Sonic/Benchmark AD2K+
+13th row, center, mics at head height
+transfer: D8>M/Audio Audiophile Firewire > Soundforge 
+(reducing volume of between song applause and normalizing >
+CDWave > FLAC

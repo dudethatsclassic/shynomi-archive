@@ -1,32 +1,47 @@
-Wilco2006-10-13M300d1t01.flac:dfbeda71de01316538be24d0bec8acdc
-Wilco2006-10-13M300d1t02.flac:9747b82905be83a559c576ff82c62dd4
-Wilco2006-10-13M300d1t03.flac:422038e9baa96703aca53d9cb19e886d
-Wilco2006-10-13M300d1t04.flac:c85a57d09c7fb94584b642335f2779bc
-Wilco2006-10-13M300d1t05.flac:646c401041621ee26e86884aa0e136fb
-Wilco2006-10-13M300d1t06.flac:8d105055e601dc93806cdf5e6eff9a10
-Wilco2006-10-13M300d1t07.flac:2176e4065e0c81cb51c37d7aea545159
-Wilco2006-10-13M300d1t08.flac:a008df6158a096503af2d6d0d02f8c1a
-Wilco2006-10-13M300d1t09.flac:15ef388afdeb5bf72da9d6d5727cb21c
-Wilco2006-10-13M300d1t10.flac:15a272ea7b38061cc63f4fabd6634855
-Wilco2006-10-13M300d1t11.flac:df1a9791d26df723341d4c1f406b789b
-Wilco2006-10-13M300d1t12.flac:c4bd1419ac78604cdd52f7ec91af16e5
-Wilco2006-10-13M300d1t13.flac:52a128024e6109f1c5660c1a551497bd
-Wilco2006-10-13M300d1t14.flac:df3d3e00d3ef6bd11f0afe1fe68479fe
-Wilco2006-10-13M300d1t15.flac:fe30ebb7337d763e9c80a35b83cd151c
-Wilco2006-10-13M300d1t16.flac:a21d9ed792ce0dac7b931d43fdeb5cb5
-Wilco2006-10-13M300d1t17.flac:19ef6284cd955fa06b0af9f53ef7f7fd
-Wilco2006-10-13M300d2t01.flac:3f276da017a788528ca71e94d7cdf7c7
-Wilco2006-10-13M300d2t02.flac:75c40890accf6d0d20f0b73a8dacefac
-Wilco2006-10-13M300d2t03.flac:62d0f66406c7d47aaddbabb94f2950d0
-Wilco2006-10-13M300d2t04.flac:36724ee2eed1eab8a602d0cf6f507b19
-Wilco2006-10-13M300d2t05.flac:f1d88bdbcba753c42817aa30e07769fa
-Wilco2006-10-13M300d2t06.flac:ab72ac289f1e2bc9d27b5f1d258dadd5
-Wilco2006-10-13M300d2t07.flac:0364e2e44226fe46577eefcbb1e8129b
-Wilco2006-10-13M300d2t08.flac:47e8afc81d73e9c3d737f1a2a0d5985e
-Wilco2006-10-13M300d2t09.flac:7cfcd4328c78aacc95efd4d1454951ee
-Wilco2006-10-13M300d2t10.flac:a558b05cfc2718081711e90fcfd0c6c9
-Wilco2006-10-13M300d2t11.flac:76d0d2a777f5e2fe1e7ec552e17fcd46
-Wilco2006-10-13M300d2t12.flac:d2b7d1ee6689858c32b0379f3c18ea63
-Wilco2006-10-13M300d2t13.flac:b4c5a35c58d26147c993501f38126071
-Wilco2006-10-13M300d2t14.flac:0aee2022c516e874a1d8e4f2c855c2f2
+Wilco
+October 13, 2006
+Sunset Station
+San Antonio, Texas
 
+Taper: Richard Alun Davis
+Source: Microtech Gefell M300's [O.R.T.F. ~ FOB ~ 11'] > Audio Magic Excaliburs > Grace Designs Lunatech V2 > Sony PCM-M1 @ 48 kHz > Philips CDR 870 > CD-R > EAC (secure mode) > wav > flac Frontend 1.7.1 > flac (level 6)
+
+Disc 1:
+01 Synth Intro
+02 Hell Is Chrome
+03 A Shot In The Arm
+04 Handshake Drugs
+05 Impossible Germany
+06 I Am Trying To Break Your Heart
+07 Muzzle Of Bees
+08 Company In My Back
+09 Sunken Treasure (false start)
+10 Sunken Treasure
+11 Forget The Flowers
+12 Airline To Heaven
+13 At Least That's What You Said
+14 banter
+15 Jesus, Etc.
+16 Walken
+17 Theologians
+
+Disc 2:
+01 Theologians
+02 I'm The Man Who Loves You
+03 applause
+[Encore 1]
+04 Hummingbird
+05 banter
+06 California Stars
+07 War On War
+08 The Late Greats
+09 applause
+[Encore 2]
+10 Misunderstood
+11 Heavy Metal Drummer
+12 Let's Not Get Carried Away
+13 Kingpin
+[filler]
+14 Supersuckers *
+
+* Supersuckers, 11-17-2001, The Alley, Flagstaff, AZ; same as above on stage + SBD feed > Samson Mixpad 4 

@@ -1,27 +1,42 @@
-Wilco 2008-05-02d2 12.flac:ed50a8c088cebe8f8221fb4e275e01f3
-Wilco 2008-05-02d1 01.flac:8583508cd33ffb9110df916ffba38d83
-Wilco 2008-05-02d1 02.flac:5fe457b33abd9f96f0cdef787151c8f1
-Wilco 2008-05-02d1 03.flac:bcab7a44092d85ce32de8bbf1d08bb23
-Wilco 2008-05-02d1 04.flac:3bc07a167250ceacc2ebb765fed5ffbf
-Wilco 2008-05-02d1 05.flac:7f4a3e1fe95e91ebdf328b9792bb2052
-Wilco 2008-05-02d1 06.flac:af02ce2accf16cbbd8a11c46713e4d35
-Wilco 2008-05-02d1 07.flac:59f7a28a9d06161200a83250bd8f140e
-Wilco 2008-05-02d1 08.flac:4973e11281abecdeb9954a3894107ec8
-Wilco 2008-05-02d1 09.flac:90187e8cc3a31ff050da96623779deec
-Wilco 2008-05-02d1 10.flac:f51ebee7971d56ec76ac12b4df9143cc
-Wilco 2008-05-02d1 11.flac:d23e7e948d534e289c72dd93ea522b05
-Wilco 2008-05-02d1 12.flac:70c13dc59c71f8ab2425bedcb26127f6
-Wilco 2008-05-02d1 13.flac:ff2c234df946aaedba5f41edcfe5bfa2
-Wilco 2008-05-02d1 14.flac:8d65b437b359e70393a252f4ebb2938e
-Wilco 2008-05-02d1 15.flac:e6f543fc1dea33d34957bb57478a57a7
-Wilco 2008-05-02d2 01.flac:415c630bb65734df7f848e7392770f90
-Wilco 2008-05-02d2 02.flac:2758aa535b5e9aacefe07946eb1b7018
-Wilco 2008-05-02d2 03.flac:1458a3d5917540d80bd5c5ad110762da
-Wilco 2008-05-02d2 04.flac:9c3ecc088026601e64c52affd3f44181
-Wilco 2008-05-02d2 05.flac:fa472d16b59e3a06c0dd261f83b9f091
-Wilco 2008-05-02d2 06.flac:b0f0aaf0f891bab5a7b8468fa994df39
-Wilco 2008-05-02d2 07.flac:ed1efff47460d86e9732070e5c0f97a7
-Wilco 2008-05-02d2 08.flac:d7335c1536f658d391e01e2761daa0a7
-Wilco 2008-05-02d2 09.flac:d4004419bc1d9e24ec0e3b8aa9727932
-Wilco 2008-05-02d2 10.flac:aa1933e715e7d1b9ba34dabea585e3f8
-Wilco 2008-05-02d2 11.flac:b7b2ab66f52607cd1e9352aa786ed3ce
+WILCO
+Burton Cummings Theatre
+Winnipeg, Manitoba, Canada
+May 2, 2008
+
+Audience MD MASTER
+Recorded 4th row floor
+Sony ECM-DS70P mic> Sharp MD-MT90> ADS Instant Music> USB> Nero Soundtrax> Wav> 
+Direct Wave MP3 Splitter> FLAC> Maketorrent> Dime
+
+
+DISC 1
+1.  Hummingbird
+2.  You Are My Face
+3.  Company In My Back
+4.  Impossible Germany
+5.  Handshake Drugs
+6.  Jesus Etc.
+7.  Pot Kettle Black
+8.  Shot In The Arm
+9.  She's A Jar
+10. Side With The Seeds
+11. Shake It Off
+12. One By One
+13. That's Not The Issue
+14. Summerteeth
+15. Via Chicago
+
+DISC 2
+1.  I'm The Man Who Loves You
+2.  Poor Places
+3.  Spiders
+4.  <encore crowd>
+5.  Walken
+6.  Christ For President
+7.  Hate It Here
+8.  Heavy Metal Drummer
+9.  Red-Eyed And Blue
+10. I Got You
+11. Casino Queen
+12. Outtasite (Outta Mind)
+

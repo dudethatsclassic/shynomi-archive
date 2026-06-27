@@ -304,8 +304,7 @@ const ARTIST_DATA = {
       "venue": "Great American Music Hall",
       "notes": "MK4 \u00b7 daspyknows",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2016-08-26 - San Francisco, CA - Great American Music Hall (MK4) (daspyknows) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2017,

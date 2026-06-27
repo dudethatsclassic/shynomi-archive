@@ -1,29 +1,51 @@
-Wilco2007-10-20d1t01.flac:363edb742f91dcac40fcc298629db18e
-Wilco2007-10-20d1t02.flac:d251d212c2f34ed013e606290fe713c9
-Wilco2007-10-20d1t03.flac:f735d96ab88c07e6c5c842ec9646f227
-Wilco2007-10-20d1t04.flac:9ce67506f59b44ae9f8ee1dc619d5f63
-Wilco2007-10-20d1t05.flac:9d5c67df540c1ffd27cab2ab55a86bb6
-Wilco2007-10-20d1t06.flac:44488b10df43df4e088f1a0c86ff299c
-Wilco2007-10-20d1t07.flac:66f332a822c738d53d3eeb51569e0c6b
-Wilco2007-10-20d1t08.flac:52eee8d83a14049553d60a2c0ab33b81
-Wilco2007-10-20d1t09.flac:36dfd33db1f0dd7d20b858cb832f5fa8
-Wilco2007-10-20d1t10.flac:45f420f7f87346a99b50039306c48f80
-Wilco2007-10-20d1t11.flac:5300da4ddc4ef6896f6666288bfbb98d
-Wilco2007-10-20d1t12.flac:fb3cc1b26cef981dd05a899a6478a5db
-Wilco2007-10-20d1t13.flac:18aa23c383f22f1c5f3c805c5a8e3394
-Wilco2007-10-20d1t14.flac:e45844eabc254d64ce1428b68d7a5389
-Wilco2007-10-20d1t15.flac:6ce656c43e4c9fa97c896296500a16ef
-Wilco2007-10-20d2t01.flac:099d7567a933b096873edd27474efbc9
-Wilco2007-10-20d2t02.flac:169a53c0bd9cd554494bbe221db249e5
-Wilco2007-10-20d2t03.flac:32fb04acd5349069d403e86931447933
-Wilco2007-10-20d2t04.flac:b25a36f8df1a8c25650fd5e950a8a93f
-Wilco2007-10-20d2t05.flac:5c995a471c046def13043fde7d5a48ef
-Wilco2007-10-20d2t06.flac:4441ab7961dcfa229d08ca9b8bdf8b65
-Wilco2007-10-20d2t07.flac:7516e93422b46246f6137d4dbc08e5a0
-Wilco2007-10-20d2t08.flac:c582c33db8b657f1212994617f770017
-Wilco2007-10-20d2t09.flac:ef8a16185564607df495b1450cf1b6f6
-Wilco2007-10-20d2t10.flac:295d1e34777e3d3587ad9e2994fd2fe9
-Wilco2007-10-20d2t11.flac:2cc9f880c313ae9f4558b033bc2673d9
-Wilco2007-10-20d2t12.flac:c506a4582be0b9dbaa0f8b4fc2e3d877
-Wilco2007-10-20d2t13.flac:973e8066d917f008d375b27c5730bc97
-Wilco2007-10-20d2t14.flac:69e353468f256cb93dbf6d3178dec833
+Wilco
+October 20, 2007
+Charlottesville Pavilion
+Charlottesville, Va.
+
+**16 bit source**
+
+Source: B&K4022(ortf)>Sonosax>744T
+Location: fob/dfc, stand 7'
+Transfer: 744T>cd wave>wavelab(fades/resample/UV22)>flac
+Taped & transferred by Craig Davis
+
+One Set:
+Disc One:
+01 Intro
+02 Sunken Treasure
+03 You Are My Face
+04 I am Trying to Break Your Heart
+05 Shake It Off
+06 Handshake Drugs
+07 Impossible Germany
+08 Sky Blue Sky
+09 It's Just That Simple*
+10 Muzzle of Bees 
+11 A Shot in the Arm
+12 Side With the Seeds
+13 Hummingbird
+14 War on War
+15 Via Chicago
+
+Disc Two:
+01 Banter
+02 Jesus, etc.
+03 Too Far Apart 
+04 Walken
+05 I'm the Man Who Loves You 
+Encore 1:
+06 Misunderstood
+07 Hate it Here
+08 Heavy Metal Drummer
+Encore 2:
+09 Red-Eyed and Blue>
+10 I Got You (At the End of the Century)
+11 Casino Queen
+12 Outtasite (Outta Mind)
+13 Hoodoo Voodoo
+Encore 3:
+14 Spiders (Kidsmoke)
+
+Notes:
+* John Stirratt on vocals

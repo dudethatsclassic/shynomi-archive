@@ -1,13 +1,43 @@
-wilco2004-11-13d2t01.flac:967b13c3563f19d587dace9139468540
-wilco2004-11-13d2t02.flac:3596d8441b0321b2b697facbad5f780e
-wilco2004-11-13d2t03.flac:c8b9ba2b9ec2055945342e30ebdb58d2
-wilco2004-11-13d2t04.flac:2b3a218b3fb89d68de8024026e1eebf3
-wilco2004-11-13d2t05.flac:2faa39e731ffd2a28bbaf2313bc1d664
-wilco2004-11-13d2t06.flac:7c7eb541f4026a0ec06827d75b05e0bc
-wilco2004-11-13d2t07.flac:cab2680c8e97dde27ced9428f4b749b6
-wilco2004-11-13d2t08.flac:904d03929dc93524c8e509cce7724dad
-wilco2004-11-13d2t09.flac:72eb1e65f35c364be30c47aa321e872f
-wilco2004-11-13d2t10.flac:f949e47ec3702e99f7510274e5a152dc
-wilco2004-11-13d2t11.flac:27e7780985e2db64b6e402f46cdb5ea9
-wilco2004-11-13d2t12.flac:49d3f41802c4f556781c5f189dd561cf
-wilco2004-11-13d2t13.flac:e53a65c775619c2ba104aa702f821aea
+Wilco
+November 13th, 2004
+Center For The Performing Arts-San Jose,CA
+
+Source: Soundboard
+Transfer: CD-R master > EAC(offsets correct) > Soundforge 7.0b > shntool 3.0.2 > flac 1.1.1
+
+**Please DO NOT encode this recording to MP3 nor sell copies of it**
+
+Disc 1:
+01. (crowd)				00:32.65        
+02. Misunderstood			06:55.03       
+03. At Least That's What You Said	06:17.24       
+04. Muzzle Of Bees			06:23.26       
+05. Hummingbird				03:24.04       
+06. Hell Is Chrome			04:35.49       
+07. I Am Trying To Break Your Heart	06:15.17      
+08. Company In My Back			04:43.67       
+09. Jesus, Etc.				05:42.70       
+10. Handshake Drugs			06:03.55       
+11. A Shot In The Arm			04:49.22       
+12. War On War				03:16.47       
+
+Total:					58:59.74
+
+Disc 2:
+01. (crowd)				01:15.43       
+02. Theologians				03:23.06       
+03. I'm The Man Who Loves You		03:53.06      
+04. Poor Places				05:29.53       
+05. Spiders (Kidsmoke)			12:26.67      
+06. Another Man's Done Gone		01:57.51       
+07. Via Chicago				05:20.10       
+08. I'm Always In Love			04:04.74       
+09. Candyfloss				04:07.47       
+10. California Stars			05:54.41       
+11. Kingpin				04:47.71     
+12. The Late Greats			02:36.55      
+13. I'm A Wheel				02:48.06       
+
+Total:					58:06.05 
+
+Compiled by alex@kabella.org on 12/07/2004            

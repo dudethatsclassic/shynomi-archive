@@ -61,8 +61,7 @@ const ARTIST_DATA = {
       "venue": "Oakland-Alameda County Coliseum Arena",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1995-12-31 - Oakland, CA - Oakland-Alameda County Coliseum Arena (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -89,8 +88,7 @@ const ARTIST_DATA = {
       "venue": "Fillmore",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1997-11-26 - San Francisco, CA - Fillmore (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -172,8 +170,7 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2000-12-15 - San Francisco, CA - The Warfield (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2004,

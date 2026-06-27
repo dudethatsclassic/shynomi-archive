@@ -1,32 +1,49 @@
-JeffTweedy_1999-06-15_S1T01.flac:e2267a12c9b17e7f40fc52da0f9be5bf
-JeffTweedy_1999-06-15_S1T02.flac:c3fc3735eab6caa2636534d73494309d
-JeffTweedy_1999-06-15_S1T03.flac:3fc20f1140719e7d076384c9c5d4ddcc
-JeffTweedy_1999-06-15_S1T04.flac:a7f7b22d53559ca6ddc11e4359b72937
-JeffTweedy_1999-06-15_S1T05.flac:b5f72f15b654318a3d714cf76152899f
-JeffTweedy_1999-06-15_S1T06.flac:f4e29e09a60fd7ab369618d87e717c4a
-JeffTweedy_1999-06-15_S1T07.flac:e78ddd3d8641a6f37c140b56397aab38
-JeffTweedy_1999-06-15_S1T08.flac:07c1a7b9be9f403f0fa5ea51ca1c1687
-JeffTweedy_1999-06-15_S1T09.flac:89b34ea466454f0e1b52d5ce628a6ee1
-JeffTweedy_1999-06-15_S1T10.flac:5407208ac9cd317f06f634dbed8ddc30
-JeffTweedy_1999-06-15_S1T11.flac:7f0d3986872d4260d715aab716e1784e
-JeffTweedy_1999-06-15_S1T12.flac:92f67ce3af03e299cfceab2805233f0d
-JeffTweedy_1999-06-15_S1T13.flac:e804f2bae3181c3566549e0ecbd4a86d
-JeffTweedy_1999-06-15_S1T14.flac:2a293268b86e70d31e29f23c5f36b96e
-JeffTweedy_1999-06-15_S1T15.flac:7068cd793fb6457d59be720bb7ac70fd
-JeffTweedy_1999-06-15_S1T16.flac:8b0869af3535b866fb3add8358f3d2dd
-JeffTweedy_1999-06-15_S1T17.flac:99e7fe65b21563c27456f9dae0866a9c
-JeffTweedy_1999-06-15_S1T18.flac:6133907852dbb9887c1d9e4fb646b01e
-JeffTweedy_1999-06-15_S1T19.flac:a48f39db3e7aced1177328055316fce8
-JeffTweedy_1999-06-15_S1T20.flac:6c242e2e14d56b27e25bc6e9ea4278df
-JeffTweedy_1999-06-15_S1T21.flac:a73f4a2397d985da6c714d46b253a63b
-JeffTweedy_1999-06-15_S1T22.flac:43ae1e5b07cd2611e2bfd9c90154c276
-JeffTweedy_1999-06-15_S1T23.flac:89807f14c6ded003b233de0257e0446a
-JeffTweedy_1999-06-15_S1T24.flac:57f0fb9b3a8d72caa83e610f10ea68af
-JeffTweedy_1999-06-15_S1T25.flac:37c235ff71c3f62f3731d68830cbabea
-JeffTweedy_1999-06-15_S1T26.flac:3b8b1cbb52345e5994651041c6b8b9ad
-JeffTweedy_1999-06-15_S1T27.flac:f818f6d0cd71032eed39fe795aa547a1
-JeffTweedy_1999-06-15_S1T28.flac:cd6f26370a0499410b823138999277a6
-JeffTweedy_1999-06-15_S1T29.flac:fc0667af3ab6d93d0e51f029613e7d78
-JeffTweedy_1999-06-15_S1T30.flac:a866afdd0f06276dd970033ff257de82
-JeffTweedy_1999-06-15_S1T31.flac:594fbd3bffe802e390975b8a03ae5d61
-JeffTweedy_1999-06-15_S1T32.flac:fa8003d4956a98c5cbe7c1f77739354d
+Jeff Tweedy 
+6/15/99
+Lounge Ax - Chicago, IL
+
+Source: AKG 481 > V2 > ADC-20
+Transfer: Tascam DA-30 mkII > S/PDIF > M Audio Microtrack 24/96 > WAV > Audacity > Trader's Little Helper > FLAC
+Taped by Jamie Syrek
+Transferred & Seeded by Bill Graves
+
+1. Shot In The Arm
+2. I'm Always In Love
+3. Sunken Treasure
+4. Ripple
+5. Hesitating Beauty
+6. Something Good
+7. Bob Dylan's 49th Beard
+8. Dreaming
+9. She's a Jar
+10. Lost Love
+11. Black Eye
+12. In A Future Age
+13. I Can't Stand It
+14. How To Fight Lonliness
+15. Pieholden Suite
+16. Candy Floss
+17. Banter / Crowd
+18. Red-Eyed and Blue >
+19. I Got You
+20. Casino Queen
+21. (Was I) In Your Dreams
+22. I'm the Man Who Loves You
+23. Good Chinese Apple
+24. Far, Far Away
+25. Someday Soon
+26. Down In The Willow Garden
+
+~ Encore ~
+27. Crowd
+28. Passenger Side
+29. Gun
+30. The Lonely 1
+31. When You Wake Up Feeling Old
+32. ELT
+
+Note:
+It's possible that California Stars is missing from the end of the set.
+
+This show is a Boiler in the Basement Installment -
+http://boilerinthebasementmusic.wordpress.com/

@@ -1,23 +1,47 @@
-JeffTweedy2010-12-08d1t01.flac:71d01f398901fcb521baf6f28d36ddba
-JeffTweedy2010-12-08d1t02.flac:43ef2fd17802abc870da141e94198fff
-JeffTweedy2010-12-08d1t03.flac:018fbbffe52b5fdfcbf66b69fe1fcd59
-JeffTweedy2010-12-08d1t04.flac:c78d8092f5e328d337e6d37f04cfba0a
-JeffTweedy2010-12-08d1t05.flac:3b44ececb7cf1deb3fb6ae25d1078964
-JeffTweedy2010-12-08d1t06.flac:42f310dca306a67025bb5475dba6b72f
-JeffTweedy2010-12-08d1t07.flac:08540d5f9ed4da937acd7c34ad3f3a24
-JeffTweedy2010-12-08d1t08.flac:5a05faccef4fe0d5d4abfbc9b154cd1b
-JeffTweedy2010-12-08d1t09.flac:49d5a3a000e5148f068464ad11b2a6e1
-JeffTweedy2010-12-08d1t10.flac:23516ec54079f5c761370faeb46c622f
-JeffTweedy2010-12-08d1t11.flac:f22715cbca11f5c41245a314c44bf270
-JeffTweedy2010-12-08d1t12.flac:33913dd760a669ce22c1bfdf2740990b
-JeffTweedy2010-12-08d1t13.flac:fbfadcdb99f5bb2395387a7a6cf2db57
-JeffTweedy2010-12-08d2t01.flac:999709cfc8cfb5bd164f85b4d9667494
-JeffTweedy2010-12-08d2t02.flac:7c551b3905e8117b9e6a790b97ee1963
-JeffTweedy2010-12-08d2t03.flac:6f19604c3a0fcb0240c41ce32c886616
-JeffTweedy2010-12-08d2t04.flac:e360f6666a425da857bd8102d33572ed
-JeffTweedy2010-12-08d2t05.flac:14050f864e8044d9c2be668704f550ad
-JeffTweedy2010-12-08d2t06.flac:bd61195cad267ecef1671bf43f35f2c3
-JeffTweedy2010-12-08d2t07.flac:ce0f2ad8f12a00e552350f1b5152e319
-JeffTweedy2010-12-08d2t08.flac:5d5563f2aef71788f1d3e5b4af54f56e
-JeffTweedy2010-12-08d2t09.flac:44870b60f559f848012a2b2cc772a7c1
-JeffTweedy2010-12-08d2t10.flac:73f8a11e4d4cfdab86d1fd9a2ef42fea
+Jeff Tweedy
+December 8, 2010
+Paramount Theater
+Charlottesville, VA
+
+**16 bit source**
+
+Source: B&K4022(90 deg/in hat) > Sonosax > 744T
+Location: fob/sroc, Row D
+Transfer: 744T>soundforge(fades/levels)>cd wave>wavelab(resample/UV22)>flac
+Taped by mark lynn
+Transferred by: craig davis
+
+One Set
+Disc One:
+01 Sunken Treasure
+02 I Am Trying to Break Your Heart
+03 One Wing
+04 Muzzle of Bees
+05 Via Chicago
+06 I'm Always in Love
+07 Solitaire
+08 Cars Can't Escape
+09 Hesitating Beauty
+10 The Ruling Class 
+11 You Are Not Alone
+12 Hummingbird
+13 Jesus, Etc.
+
+Disc Two:
+01 Gun
+02 New Madrid
+03 I'm the Man Who Loves You
+04 Shot in the Arm
+05 Dreamer in my Dreams*
+Encore:
+06 At My Window, Sad and Lonely**
+07 California Stars^ 
+08 Passenger Side^
+09 Give Me Back the Key to My Heart^
+10 God^^
+
+notes:
+*  at stage lip/no PA
+** w/ Pat & John (Wilco/Autumn Defense)
+^  w/ the Autumn Defense
+^^ w/ the Autumn Defense, John Lennon cover, 1st time played

@@ -1,23 +1,46 @@
-wilco2004-11-10d1t1.flac:7011a4b2af706ed1ca565760ee43ed98
-wilco2004-11-10d1t2.flac:c9bbd4195373b2f4f44cdda0d487a3bc
-wilco2004-11-10d1t3.flac:27331e69cac85ca124aa1a553ff0834b
-wilco2004-11-10d1t4.flac:aac64745d836719a80e111801172351c
-wilco2004-11-10d1t5.flac:7281419d69faafb72e482557b7afebb9
-wilco2004-11-10d1t6.flac:0a13f109b9b6e16d7aef7ff490e1700c
-wilco2004-11-10d1t7.flac:83621b51ff95ab256b707c3f8453582b
-wilco2004-11-10d2t1.flac:e42a5a6751fd3caf3fe0b3599f690ffa
-wilco2004-11-10d2t2.flac:e27989ab2960323a04426f1f1253b8a6
-wilco2004-11-10d2t3.flac:c006b30d28d578c3e5bbf30dd2f00d03
-wilco2004-11-10d2t4.flac:3482f49e406697c43a4dd7b2d36cb266
-wilco2004-11-10d2t5.flac:10921879d84196f713dcf7ac74cb10b9
-wilco2004-11-10d2t6.flac:a2e617dae98962a710c638af23f67092
-wilco2004-11-10d2t7.flac:d5560bd9113930364c9cd75f713b6005
-wilco2004-11-10d2t8.flac:cde275a01c45ce9ee59cc2c7a165cc45
-wilco2004-11-10d2t9.flac:ea7d96a4649638a2a926f79cdf62f4a2
-wilco2004-11-10d3t1.flac:fc5140b0a613727c26cd6c8ccf7aeaa9
-wilco2004-11-10d3t2.flac:36424af8be2472b3897629dfb1dd7f03
-wilco2004-11-10d3t3.flac:d31f18083e93e7ed32a4fcfb2965ed08
-wilco2004-11-10d3t4.flac:9be1f489a690664fbe881160480b1d03
-wilco2004-11-10d3t5.flac:4b52d7620e5708e51763c021009ea397
-wilco2004-11-10d3t6.flac:29857cd2d8c5d3b83c68a3cf8487f48f
-wilco2004-11-10d3t7.flac:3e95160857d46a45344bdf9a411c69cc
+Band: Wilco
+Venue: Paramount Theater
+Location: Seattle, WA
+Date: 11-10-2004
+
+Source: Audio Technica 853's > SP Battery Box (16hz-no rolloff) >
+	Sony M1 DAT (44.1khz) Elevated to 10 foot - 30 feet from left stack.
+
+Transfer: Sony M1-> Delta Dio 24/96 via Core Sound 7Pin Coax Cable-> 
+	Soundforge 5.0 Pro (No Resampling)-> CDWave for track splits->
+ 	FLAC
+
+Disc One
+01 At Least That's What You Said 
+02 I Am Trying To Break Your Heart
+03 Misunderstood
+04 Far, Far Away
+05 Hummingbird
+06 Muzzle Of Bees
+07 Hell Is Chrome
+
+Disc Two
+01 Handshake Drugs   
+02 A Shot In The Arm   
+03 Jesus, Etc.   
+04 Via Chicago   
+05 War On War   
+06 Theologians   
+07 I'm The Man Who Loves You   
+08 Poor Places   
+09 Spiders (Kidsmoke)
+
+Disc Three
+Encore 1:
+01 Candyfloss   
+02 Pot Kettle Black   
+03 The Late Greats   
+04 I'm A Wheel   
+
+Encore 2:
+05 Another Man's Done Gone   
+06 Kingpin   
+07 (Don't Fear) The Reaper
+
+
+One from the Basshead archives! Great show and great recording. I really loved the band during this period. THey were still a bit edgier, still making those great mistakes of a growing band. A year later they would all rise so much higher as musicians...This album played so well in the Paramount, it was incredible. The Encore cover was a nice treat...overall a remarkable night....Enjoy! -Basshead

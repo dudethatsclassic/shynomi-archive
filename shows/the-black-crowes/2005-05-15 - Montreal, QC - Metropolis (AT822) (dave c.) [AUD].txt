@@ -1,18 +1,38 @@
-blackcrowes2005-05-15d1t01.flac:8ae871879129e564ef96cb40d8327f9c
-blackcrowes2005-05-15d1t02.flac:efa9d1f8026e542450739d81c09b6a00
-blackcrowes2005-05-15d1t03.flac:43126f2f02fb5fbda27191f609fa9adc
-blackcrowes2005-05-15d1t04.flac:bea2579909863064f36c3c451f9bee9d
-blackcrowes2005-05-15d1t05.flac:4d99e90bd8f267e14978de05fd7c72a7
-blackcrowes2005-05-15d1t06.flac:f034c31a8e9b41f8ed43d0525c73982a
-blackcrowes2005-05-15d1t07.flac:2b3beba841ea1ec0fcf29df3b711a34e
-blackcrowes2005-05-15d1t08.flac:24805b92e5837d0db17c9b678d825e12
-blackcrowes2005-05-15d1t09.flac:bc8fc5cc7de99fce353c550b9b82f9aa
-blackcrowes2005-05-15d1t10.flac:127f0bbe00c2a6f72d2e99f4024c90bd
-blackcrowes2005-05-15d2t01.flac:a3307d9a810f7ed65b9321d914f1b24b
-blackcrowes2005-05-15d2t02.flac:61bac43a6f8876040864dcdbfc24a7c3
-blackcrowes2005-05-15d2t03.flac:9b9b2e603f75f93fcdbbe5d88466eab9
-blackcrowes2005-05-15d2t04.flac:71f6cb5e4efa797458bad3cc8739acfe
-blackcrowes2005-05-15d2t05.flac:9809e1e352fa0e95478ae90b49a550fc
-blackcrowes2005-05-15d2t06.flac:9140094b5dec66dc90f391e0d76a6381
-blackcrowes2005-05-15d2t07.flac:8aa478013ddfbb00d42b6f61a6fd8a79
-blackcrowes2005-05-15d2t08.flac:8f28556520a1bdee086ae36148b8941c
+The Black Crowes
+Sunday, May 15, 2005
+Metropolis
+Montreal, QC
+
+Source: AT822 > Sony MD
+Lineage: Sony MDS-PC3 > optical > Creative Nomad JB3 (WAV) > USB > Creative Play Center > CDWav > normalize -b (+12.74dB) > Trader's Little Helper (FLAC Level 8)
+
+d1t01 Stare It Cold
+d1t02 Go Tell The Congregation
+d1t03 Thick N' Thin
+d1t04 Pre-Road Downs
+d1t05 Seeing Things
+d1t06 Soul Singing
+d1t07 Jam >
+d1t08 Thorn In My Pride
+d1t09 Descending
+d1t10 Space Captain
+
+d2t01 How Much For Your Wings? >
+d2t02 Wiser Time
+d2t03 Jealous Again
+d2t04 Hard To Handle
+d2t05 call for encore
+d2t06 Willin'
+d2t07 banter
+d2t08 Remedy
+
+Notes:
+1. Track titles taken from
+
+   http://www.crowesbase.com/tapelisting.cfm?TapeID=1660
+
+   Any mistakes in titling or tracking are mine.
+2. Special thanks to DaveC for making the recording, and for keeping
+   the discs safe and giving them to me to process.
+
+Taped by DaveC. Transferred and uploaded by BradM (bradmcmail@yahoo.ca).

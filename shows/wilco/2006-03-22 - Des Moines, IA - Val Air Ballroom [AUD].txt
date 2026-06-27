@@ -1,22 +1,13 @@
-wilco2006-03-22-d1t01.flac:e5db8370e05e260887348dc07575fc6e
-wilco2006-03-22-d1t02.flac:ac17079cc6706687d5d7c0f199e6d93a
-wilco2006-03-22-d1t03.flac:e35fb6deb860f75d6294ce86d54e381d
-wilco2006-03-22-d1t04.flac:74600dd4a515519a6ce1c557ef952b07
-wilco2006-03-22-d1t05.flac:7f7471b64dd7f68c03afdf5370c5b7c4
-wilco2006-03-22-d1t06.flac:b2f2e7fae334a0a704c4c0716627e307
-wilco2006-03-22-d1t07.flac:7b76e11ccae21583769290b11016a2a5
-wilco2006-03-22-d1t08.flac:675f797de74036b4b22bc0c1117ae189
-wilco2006-03-22-d1t09.flac:f257324625dcb79aeee268538ad98578
-wilco2006-03-22-d1t10.flac:9453045becbf19ca8956f2564db4ef49
-wilco2006-03-22-d1t11.flac:b84f008791b37870b0d17c2d2d31b1a5
-wilco2006-03-22-d1t12.flac:ec870a223a9dfecb9060541ef6a24d48
-wilco2006-03-22-d1t13.flac:f26ac4ded43b46df06293af08a3919a5
-wilco2006-03-22-d2t01.flac:d87fbcc2e10a8e5a71d61efabefd26d9
-wilco2006-03-22-d2t02.flac:47ed12c867554def1bac29d082942722
-wilco2006-03-22-d2t03.flac:df8c26e8be723ed834adfadf3b76c3c8
-wilco2006-03-22-d2t04.flac:a16d0e6a904841be2eddd448f7e17c70
-wilco2006-03-22-d2t05.flac:b586af86f84814482465925fd317191c
-wilco2006-03-22-d2t06.flac:d26ff54b7a9f17e915e6c82031cee9e6
-wilco2006-03-22-d2t07.flac:048fff9f0c37cd87873755d6c4793365
-wilco2006-03-22-d2t08.flac:4070e6f8eeabf9ce8f837856c6a90378
-wilco2006-03-22-d2t09.flac:ff2af24f0bf0473252a65da521a2ac97
+wilco
+2006-03-22
+val air ballroom
+des moines, ia
+
+taped by matt b. (trysomekef@yahoo.com)
+
+akg c1000s -> rolls pb224 -> sony mz-m10 (hi-sp) -> pc via usb -> 
+sonicstage -> wav -> cd wave editor -> flac via dbpoweramp (medium level)
+
+front of board.
+no eq.
+no setlist.

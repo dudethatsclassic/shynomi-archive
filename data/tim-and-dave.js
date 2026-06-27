@@ -82,8 +82,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "unk \u00b7 daspyknows",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2016-10-23 - Mountain View, CA - Shoreline Amphitheater - Bridge School [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2017,

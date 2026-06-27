@@ -54,7 +54,7 @@ const ARTIST_DATA = {
       "notes": "ANA(3) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1987-05-23 - Iowa City, IA - The Central - ANA(3) (unk) [AUD].txt"
+      "textFile": "1987-05-23 - Iowa City, IA - The Central - ANA(3) (unk) [AUD].rtf"
     },
     {
       "year": 1988,
@@ -124,7 +124,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 unk \u00b7 james l.",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-10-20 - Madison, WI - Barrymore Theatre - ANA(1) (unk) (james l.) [AUD].txt"
+      "textFile": "1990-10-20 - Madison, WI - Barrymore Theatre - ANA(1) (unk) (james l.) [AUD].rtf"
     },
     {
       "year": 1990,
@@ -138,7 +138,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 bobfather",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1990-10-23 - Minneapolis, MN - Cabooze - ANA(x) (bobfather) [FM].txt"
+      "textFile": "1990-10-23 - Minneapolis, MN - Cabooze - ANA(x) (bobfather) [FM].rtf"
     },
     {
       "year": 1991,
@@ -303,8 +303,7 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1995-10-12 - San Francisco, CA - The Warfield (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1995,

@@ -1,27 +1,44 @@
-wilco2013-04-13mbhod1t01.flac:5f26e356fc31603daa1cc991e0a857a9
-wilco2013-04-13mbhod1t02.flac:8871252133f97ac1fdf8f267be175d8d
-wilco2013-04-13mbhod1t03.flac:a47f564677e557265318f0f0b9e77b50
-wilco2013-04-13mbhod1t04.flac:25b08ee47e7f5e8d6528051b76fc8477
-wilco2013-04-13mbhod1t05.flac:eca5d6b3ce448d8582f0a27bf8dc0e18
-wilco2013-04-13mbhod1t06.flac:168746a0dfb7749c2b79f3c9d3973758
-wilco2013-04-13mbhod1t07.flac:c526977d82a5ebb304c3b258d4d757c9
-wilco2013-04-13mbhod1t08.flac:4fa26eb6c13e605c2576884108f93851
-wilco2013-04-13mbhod1t09.flac:c6bef161886cf53207282aa2d25096e9
-wilco2013-04-13mbhod1t10.flac:93023fc327995ff3503168e84aa1ccae
-wilco2013-04-13mbhod1t11.flac:c83140fda32c7bebb8402040f5c97712
-wilco2013-04-13mbhod2t01.flac:c224d1b7dc6a0d5118ecc82251b2de37
-wilco2013-04-13mbhod2t02.flac:f07cfb98ed30a53c514aafdb6e87f078
-wilco2013-04-13mbhod2t03.flac:c80507378fc3c155a8dad6c7434839c7
-wilco2013-04-13mbhod2t04.flac:79e18eb53b31ef4fb78630b8c4feeff9
-wilco2013-04-13mbhod2t05.flac:438811c6624176aab4e0b6ffcde60bbb
-wilco2013-04-13mbhod2t06.flac:c3f656f0123827fc753bdb79db57d729
-wilco2013-04-13mbhod2t07.flac:e5c8d810472a5e987d1d75f632045546
-wilco2013-04-13mbhod2t08.flac:65d78c747ffb03e9599d002f7d832503
-wilco2013-04-13mbhod2t09.flac:def0f81eacc6717b8b5617d597a5cc5f
-wilco2013-04-13mbhod2t10.flac:e07746e8ae125201ae2c0973d89cdcc4
-wilco2013-04-13mbhod2t11.flac:dc6408ca78c131b344714226910946a2
-wilco2013-04-13mbhod2t12.flac:3f35c298f32b292dd64bfb99505a81fb
-wilco2013-04-13mbhod2t13.flac:02114b2d37277875b2bd47bf5770bc57
-wilco2013-04-13mbhod2t14.flac:b13adef7a02a7c985aefee4468b8ee02
-wilco2013-04-13mbhod2t15.flac:ec87d806541f27080417798204756930
-wilco2013-04-13mbhod2t16.flac:bfb6726ce5eb9cd30698b0a3866ed3d6
+Wilco
+2013-04-13
+AX
+Shibuya, Tokyo, Japan
+
+Source : MBHO 604 / KA 200 > Lunatec V3(analog out) > Oade Concert Mod Marantz PMD-661 (24bit / 48 kHz)
+Transfered : USB > PC > Sound Engine Free(16bit / 44.1kHz) > flac(level8) 
+Taped & Transferred by oira
+
+
+Disc1 (66:11)
+
+01. One Sunday Morning
+02. Poor Places
+03. Art of Almost
+04. I Might
+05. At Least That's What You Said
+06. Via Chicago
+07. I Am Trying to Break Your Heart
+08. Kamera
+09. Handshake Drugs
+10. Company in My Back
+11. Impossible Germany
+
+
+Disc2 (67:35)
+
+01. Born Alone
+02. Wishful Thinking
+03. War On War
+04. Whole Love
+05. Box Full of Letters
+06. Heavy Metal Drummer
+07. Dawned On Me
+08. Shot in the Arm
+09. crowd
+Encore
+10. Jesus, Etc.
+11. Walken
+12. I'm the Man Who Loves You
+13. Red-Eyed and Blue
+14. I Got You (At the End of the Century)
+15. Outtasite (Outta Mind)
+16. Hoodoo Voodoo

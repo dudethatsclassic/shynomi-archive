@@ -1,7 +1,56 @@
-nin2005-10-21d2t01.flac:5c3cbb9b1c85b520a7364fa402fe8f21
-nin2005-10-21d2t02.flac:efdb69f2d7334961066ad869a257aa13
-nin2005-10-21d2t03.flac:c103b214313534c3a66b1983c0d8adab
-nin2005-10-21d2t04.flac:3e328c9f2a7d3f65cea38dc969d3ce65
-nin2005-10-21d2t05.flac:c3fd87815114c1c53d9aab8a60147202
 
+Nine Inch Nails
+October 21st, 2005
+Memorial Arena: Jacksonville, FL
+
+Source:   DPA 4061s > MMA-6000 > M-Audio Microtrack @ 24/48
+
+Transfer: Kingston Elite Pro Flash card > Lexar Firewire
+          flash card reader > Cool Edit Pro > dED >
+          (resampling done at highest rate, triangular dither
+          at 0.54 bit depth) > CDWave > FLAC (level 8 encoding)
+
+Notes:    Taped dead center, FOB, about 150' from stage.  Position
+          varied based on whatever talking/screaming idiot I had
+          next to me!
+          The dED consisted of applying an FFT filter to lower 
+          the bass from 55Hz to 35 Hz and remove bass under 35Hz.  
+          Then the recording was normalized.  
+          
+          If you can fit it, disc 1 could include the first track 
+          of D2 to keep the first set together.  That would make a
+          disc that's over 81 minutes though...
+
+Disc 1:
+1.  Pinion 
+2.  Love Is Not Enough 
+3.  You Know What You Are 
+4.  Terrible Lie 
+5.  The Line Begins To Blur 
+6.  March Of the Pigs 
+7.  The Frail > The Wretched 
+8.  Closer 
+9.  Burn 
+10. Gave Up 
+11. Eraser 
+12. Right Where It Belongs 
+13. Beside You In Time 
+14. The Collector 
+15. Wish 
+16. Only 
+17. Reptile 
+
+
+Disc 2:
+1.  Suck 
+   Encore:
+2.  Hurt 
+3.  The Hand That Feeds 
+4.  Starfuckers 
+5.  Head Like A Hole 
+
+
+Taping, transfer, edits, & FLAC compilation - pjdavep
+
+Released 11/13/2005.
 

@@ -1,24 +1,47 @@
-tweedy2001-02-26d2t11.flac:002c8d3aae314eb7f1f1213acea08a50
-tweedy2001-02-26d1t01.flac:0badffe8e0e493ccfdad0de64e5900e8
-tweedy2001-02-26d1t02.flac:c5c563d4765f123bce63c1b7afdb0de3
-tweedy2001-02-26d1t03.flac:54b2c73e8d1be384fa1076cea6d47461
-tweedy2001-02-26d1t04.flac:b670efbfb0e23bddaaca404a2bc35e16
-tweedy2001-02-26d1t05.flac:2aa3b2ac3dfd436bef56baad004f39c8
-tweedy2001-02-26d1t06.flac:18375c1ede7894b1d2598efa94c26d3d
-tweedy2001-02-26d1t07.flac:af288e6258adeb627bea297037f1eace
-tweedy2001-02-26d1t08.flac:0257a3359899f8d7df1a010dc86f796e
-tweedy2001-02-26d1t09.flac:a85f3dd4c77ccfd168b6956ee6c15b69
-tweedy2001-02-26d1t10.flac:fb751021466db542aec63b492674f217
-tweedy2001-02-26d1t11.flac:5a706c50b92310ccf0f1141d7afc7ec3
-tweedy2001-02-26d1t12.flac:ebb9d06dcf2b6035edf35548c7cbbd7a
-tweedy2001-02-26d1t13.flac:f5ed683518a303febfe6fbd9f089d8a0
-tweedy2001-02-26d2t01.flac:5cd90ba3b2533c5e28ff31b0375b82e9
-tweedy2001-02-26d2t02.flac:3591c0523acdbc5385c6a41932782434
-tweedy2001-02-26d2t03.flac:42f5f485e1da0e861d14fc504225eb5c
-tweedy2001-02-26d2t04.flac:4ed70026ba6128dd2f557c564cdc0bfb
-tweedy2001-02-26d2t05.flac:9a8e5ec7ae5ba8ca6c3b09d49f6c529a
-tweedy2001-02-26d2t06.flac:0a21d79ff8239b0c9fb915972cad4bba
-tweedy2001-02-26d2t07.flac:33f502acba2535f293e6eaa3ebb61e72
-tweedy2001-02-26d2t08.flac:38273bdb4afe6abda90de55ca163c6f8
-tweedy2001-02-26d2t09.flac:362c067da6bd976c6aa54e897dd34b54
-tweedy2001-02-26d2t10.flac:e4871ce5ac8ae21bbe4f77182b493265
+Jeff Tweedy
+2/26/01
+Irving Plaza
+New York, NY
+
+
+Disc 1
+01. Not For The Season
+02. Sunken Treasure
+03. Shot In The Arm
+04. War On War
+05. Hesitating Beauty
+06. I'm Always In Love
+07. Remember The Mountain Bed
+08. New Madrid
+09. Christ For President >
+10. Satan, Your Kingdom Must Come Down
+11. She's A Jar
+12. I'm The Man Who Loves You
+13. Airline To Heaven
+
+Disc 2
+01. Heavy Metal Drummer
+02. How To Fight Loneliness
+03. I Am Trying To Break Your Heart
+First Encores:
+04. Passenger Side
+05. Casino Queen
+06. Hoodoo Voodoo
+07. Should've Been In Love
+08. Please Tell My Brother
+09. Ashes Of American Flags
+Second Encores:
+10. Acuff-Rose
+11. California Stars
+
+Source: Nakamichi 300s > Sony D8
+
+Transfer: Tascam DA20mkII > Marantz CDR 630 standalone burner > EAC > FLAC
+
+EAC performed with no compression (logs included with torrent).
+FLAC encoding done using FLAC Frontend set to level 8.
+
+Recorded by Jason Carroll.
+Transferred by Dave Cohen in 2001, EACed by Dave Cohen in 2006.
+
+Chowdah! Chowdah! Say it, Frenchie!

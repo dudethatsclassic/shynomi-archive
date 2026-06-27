@@ -1,26 +1,40 @@
-tbc2010-08-27t01.flac:2c91f6b6dd5854009d8158104abf78d4
-tbc2010-08-27t02.flac:11a39fa587dbba15260d32d907ce1d8c
-tbc2010-08-27t03.flac:275b0f302d8fa4fe2f718b18f25952aa
-tbc2010-08-27t04.flac:4e56d540b378a613dd7cfa8b031cc513
-tbc2010-08-27t05.flac:a60cf05279be71af3bee13598f0358cc
-tbc2010-08-27t06.flac:372b76e6ba7a2511b4c8f53e7801b69e
-tbc2010-08-27t07.flac:8335180296ea767524d43679e313ad1f
-tbc2010-08-27t08.flac:7ad3f858354c59698d631a68a7c6511a
-tbc2010-08-27t09.flac:946209d820da1b0ce561e0d49a037cea
-tbc2010-08-27t10.flac:ed426a97c55fa17e632fb8a8ba67f0a6
-tbc2010-08-27t11.flac:f245e784d251975dfd6fcd2c3d70c3d0
-tbc2010-08-27t12.flac:d06f54c6bd99511af1b43c39bd3eeaa9
-tbc2010-08-27t13.flac:7b3f65a54d6c8980cb481b5499719f2e
-tbc2010-08-27t14.flac:f17996f34373522b287957ae54362592
-tbc2010-08-27t15.flac:4915afa1b19000f956bcca8933055ca9
-tbc2010-08-27t16.flac:091489ca3a1667178faf8b17c3c8c299
-tbc2010-08-27t17.flac:1fea89d4f7dfdfa6ed3985e84f6e0d65
-tbc2010-08-27t18.flac:845ff7f9e65f58f33859586c8b2fa09a
-tbc2010-08-27t19.flac:805a37e1f39b01511ef609a476342e79
-tbc2010-08-27t20.flac:7f47810ba660899768ff9b0d5058f758
-tbc2010-08-27t21.flac:679fa796bbd1cc0dd3ed6bf883dcc92a
-tbc2010-08-27t22.flac:6719a8ce0372c7a9ff52a163db0851ed
-tbc2010-08-27t23.flac:2206c064e34993945957908fce494f24
-tbc2010-08-27t24.flac:8c9b975f2a898f24a4f68eba611f7dfc
-tbc2010-08-27t25.flac:6dd5ea661a59c830db37deef13fffb9b
-tbc2010-08-27t26.flac:20f40246e4f17bbbcfb2da501a0dad58
+The Black Crowes
+August 27, 2010 (FRI)
+The Pageant
+St. Louis, MO
+
+Source:  AT853> V2> DR-07 (@ 24/48)
+Location:  FOB DFC front drink rail, 10' high, XY 90°
+Transfer:  DR-07> USB> SoundForge (fades, tracking, Waves L3 processing)> r8brain (convert 24/48 to 16/44.1)> FLAC FrontEnd
+Recorded, prepped and shared by Scott T.
+
+Set One (81 minutes)
+01 crowd
+02 Soul Singing
+03 Downtown Money Waster
+04 Fork In The River
+05 Ballad in Urgency
+06 Wiser Time
+07 Oh Sister (Bob Dylan)
+08 Good Friday
+09 What Is Home
+10 Thunderstorm
+11 Chris rants about talkers
+12 My Morning Song
+13 Sister Luck
+
+
+Set Two (83 minutes)
+14 Feelin' Alright (Traffic/Joe Cocker)
+15 Jealous Again
+16 A Conspiracy
+17 Exit
+18 Thorn In My Pride>
+19 drums>
+20 Thorn In My Pride
+21 A Train Still Makes A Lonely Sound
+22 High Head Blues
+23 Oh! Sweet Nuthin' (Velvet Underground)
+24 Remedy
+25 E: Movin' On Down The Line
+26 Boomer's Story (traditional/Ry Cooder)

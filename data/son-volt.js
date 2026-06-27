@@ -22,8 +22,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "",
-      "textFile": "1996-03-30 - San Francisco, CA - The Fillmore (unk) (neekrive) [AUD].txt"
+      "format": ""
     },
     {
       "year": 2007,

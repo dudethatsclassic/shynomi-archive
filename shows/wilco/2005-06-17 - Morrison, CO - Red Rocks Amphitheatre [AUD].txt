@@ -1,26 +1,50 @@
-wilco2005-06-17d2t09.flac:1094246ba3506e002bc96bf7736a5299
-wilco2005-06-17d1t16.flac:45308c5ed1c7bda359bd91029edba086
-wilco2005-06-17d1t01.flac:7066dd6a7c375e0f8db9614ae3c0840a
-wilco2005-06-17d1t02.flac:8a553d4028aca90144dc1eca29d8f156
-wilco2005-06-17d1t03.flac:4c2ed72cf99aaa67eb653fe61f38b3d2
-wilco2005-06-17d1t04.flac:bc29a741e4f092c9b4b8ad979676e9d8
-wilco2005-06-17d1t05.flac:9a26bac28757f8e0f86464e2392e0b55
-wilco2005-06-17d1t06.flac:b002da3227f57bd3ea33157c636926b8
-wilco2005-06-17d1t07.flac:2db0fa4705b30dcd614616c65b9dfca7
-wilco2005-06-17d1t08.flac:99771b1485b5f785d701b8b94736074e
-wilco2005-06-17d1t09.flac:189a0d3fa765186281e3a59452f14843
-wilco2005-06-17d1t10.flac:ad8ba213a25c5b5774b263585b6cab71
-wilco2005-06-17d1t11.flac:deba1a22b38cef5a86aeda6e73855f04
-wilco2005-06-17d1t12.flac:5965c3603cf32961180af108bb46eb42
-wilco2005-06-17d1t13.flac:c1f3038943d8904f6a73b6abc094e8ae
-wilco2005-06-17d1t14.flac:6c544fb507397273dd2571bb0cfdefaf
-wilco2005-06-17d1t15.flac:785dff569536dc0fb2a6a11a2dd7b9dd
-wilco2005-06-17d2t10.flac:4f03dbfc7ae8c210151a9b130bd3d90f
-wilco2005-06-17d2t01.flac:9c783b8398745c63c52d8b1f8b4be301
-wilco2005-06-17d2t02.flac:e85cc4ff1a96247271d51c6f13ab532c
-wilco2005-06-17d2t03.flac:5c9286586051d5769201343fe81a5dc7
-wilco2005-06-17d2t04.flac:6505d4f166da08f014026de821b76842
-wilco2005-06-17d2t05.flac:f870e26ab9f56e39ebd04cd67afe6a1b
-wilco2005-06-17d2t06.flac:fdc1a8ec30a5e9733e341706e79f80f9
-wilco2005-06-17d2t07.flac:9dd2781048f96c8def2515708123958d
-wilco2005-06-17d2t08.flac:a6c9e5d1d5f61ebec6fda98f11d0c0b7
+Wilco
+2005-06-17
+Red Rocks Amphitheatre
+Morrison, CO
+
+Taper: P Dub
+
+Sonic Studios 6P mics>D8>cdr
+
+Location: standing on 3rd row seat in front of the right stack
+
+cdr>EAC (secure mode)>WAV>Flac Frontend>Flac (lvl 8)
+
+Disc One
+
+01. Shot in the Arm
+02. Handshake Drugs
+03. Company in My Back
+04. War on War
+05. Hell is Chrome
+06. I Am Trying to Break Your Heart
+07. Heavy Metal Drummer
+08. At Least That's What You Said
+09. Muzzle of Bees
+10. I'm Always in Love
+11. Airline to Heaven
+12. Hesitating Beauty
+13. Wishful Thinking
+14. Hummingbird
+15. I'm the Man Who Loves You
+16. Spiders (Kidsmoke)
+
+
+Disc Two
+
+Encore 1:
+01. Misunderstood 
+02. Kamera
+03. Jesus, etc.
+04. Sunken Treasure
+05. Late Greats
+Encore 2:
+06. Passenger Side
+07. Kingpin
+08. I'm a Wheel
+09. Outtasite (Outta Mind)
+10. Something in the Air
+
+
+Do not sell. 

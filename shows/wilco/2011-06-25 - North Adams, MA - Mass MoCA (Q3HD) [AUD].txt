@@ -1,1 +1,44 @@
-wilco2011-06-25d1t01.flac:7fd8e60e747a3472dc268e96fa965043wilco2011-06-25d1t02.flac:da7ca95dc133b817e23da25fdcaabb56wilco2011-06-25d1t03.flac:a45969fe04cde210d1ddb526c4ed1e4bwilco2011-06-25d1t04.flac:41dcc62af7a0deeeccf1efd57022310ewilco2011-06-25d1t05.flac:7782cdc2ce733a98659df97ccc252d3dwilco2011-06-25d1t06.flac:5a34603308f96c0a34edb97a964f3e98wilco2011-06-25d1t07.flac:6b1acba5c25074d08e16e529827fc797wilco2011-06-25d1t08.flac:8a90015e05efd760098674d8f93e04fcwilco2011-06-25d1t09.flac:a978ff18c8c313fd41915a690da0be6dwilco2011-06-25d1t10.flac:7797253d70affb3ca6ec53be7b7393d4wilco2011-06-25d1t11.flac:5ad53162d5cbc205d44309936badc49dwilco2011-06-25d1t12.flac:c94057f3781fef3c7e8001cdb805790awilco2011-06-25d1t13.flac:0736210ae474284d7352de019b3b909ewilco2011-06-25d1t14.flac:6eed1c23573992a2a2565d3d788bf2a3wilco2011-06-25d2t01.flac:c0a9de8c8c86698d8ecd836ecbae8ebewilco2011-06-25d2t02.flac:dbf3482300cb3cdd9dc3369bf96deb5awilco2011-06-25d2t03.flac:f401e2dbd5b662dc96130c956cf36387wilco2011-06-25d2t04.flac:c36bfb475eeaa7c5743306ff3901cb54wilco2011-06-25d2t05.flac:20e90f7c6da8b54f7779d1e4193cda19wilco2011-06-25d2t06.flac:bf3fe4183d2c3b6653c94888d96f5466wilco2011-06-25d2t07.flac:586b7bd8d2ddfe36de58f020ecf3f20awilco2011-06-25d2t08.flac:5069c1b30c9a695bed3879dd74915062wilco2011-06-25d2t09.flac:1a275b2bcac1abdb05296af314f9bdb3wilco2011-06-25d2t10.flac:dae0483c9e5e39d86468c6d0a904d59awilco2011-06-25d2t11.flac:f9c762898e41e7cf77731ed430ff8497wilco2011-06-25d2t12.flac:4d06df537672638367b9cbcf343538a3wilco2011-06-25d2t13.flac:b1ab54127c7bcdda548459202b4e840b
+Wilco
+Mass MoCA
+North Adams, MA
+June 25, 2011
+
+Original taper - John Bosco
+Editing and packaging - John Bosco
+
+Dead Center between stage and board (under umbrella) ->
+Zoom Q3HD (internal mics) 24bit/96kHz WAV ->
+Audacity (editing) ->
+Fission (splicing) ->
+xACT (FLAC)
+
+Disc 1
+1) I Love My Label
+2) Dawned On Me
+3) A Shot In The Arm
+4) Side With The Seeds
+5) Company In My Back
+6) I'll Fight
+7) War On War
+8) At Least That's What You Said
+9) It's Just That Simple
+10) What Light
+11) Can't Stand It
+12) Standing O
+13) Jesus, Etc.
+14) Hummingbird
+
+Disc 2
+1) I Might
+2) Box Full Of Letters
+3) Hate It Here
+4) You Never Know
+5) Born Alone
+6) The Late Greats
+7) Heavy Metal Drummer
+8) Passenger Side
+9) California Stars
+10) Airline To Heaven
+11) Monday
+12) Outtasite (Outta Mind)
+13) Hoodoo Voodoo

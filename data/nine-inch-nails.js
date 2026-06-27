@@ -3489,7 +3489,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-10-21 - Mountain View, CA - Shoreline Amphitheater (unk) (neekrive) [AUD].txt"
+      "textFile": "nin1995-10-21.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1995,
@@ -3502,8 +3502,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD",
-      "textFile": "nin1995-10-21.unknown.unknown.unknown.ntsc.dvd.txt"
+      "format": "DVD"
     },
     {
       "year": 1995,
@@ -7744,8 +7743,7 @@ const ARTIST_DATA = {
       "venue": "US Bank Arena",
       "notes": "ECM717 \u00b7 bootmonkey",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "nin2006-02-25.ecm717.bootmonkey.0.flac1644.txt"
+      "format": "FLAC"
     },
     {
       "year": 2006,
@@ -9058,7 +9056,7 @@ const ARTIST_DATA = {
       "notes": "ECM-717 \u00b7 ht",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "nin2007-03-24.ecm-717.ht.0.flac1644.txt"
+      "textFile": "nin2007-03-24.unknown.unknown.unknown.pal.dvd.txt"
     },
     {
       "year": 2007,
@@ -9071,8 +9069,7 @@ const ARTIST_DATA = {
       "venue": "Columbiahalle",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD",
-      "textFile": "nin2007-03-24.unknown.unknown.unknown.pal.dvd.txt"
+      "format": "DVD"
     },
     {
       "year": 2007,

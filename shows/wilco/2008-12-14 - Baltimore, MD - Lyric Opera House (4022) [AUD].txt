@@ -1,24 +1,46 @@
-Wilco2008-12-14d1t01.flac:a1b57309da46e6dab46f0205510be617
-Wilco2008-12-14d1t02.flac:4208468d8159159d2a415df079e98d5a
-Wilco2008-12-14d1t03.flac:06a3404b7b76e908ef05ae1195b61e6e
-Wilco2008-12-14d1t04.flac:c5affdfe083f24796ca7d134e62eb102
-Wilco2008-12-14d1t05.flac:b38503b1ea2cea0cd3265caeee74c47b
-Wilco2008-12-14d1t06.flac:2764e12e854d23fa8e3cf148a498f4b8
-Wilco2008-12-14d1t07.flac:9839814952a213fc4f3a3c8cf42f2174
-Wilco2008-12-14d1t08.flac:9a91b5d293cd55f6bfc2aa83c33ca955
-Wilco2008-12-14d1t09.flac:b66af24f1d9f396e1388bcad79c36b03
-Wilco2008-12-14d1t10.flac:4396dc81d00fa54922597d64757743d1
-Wilco2008-12-14d1t11.flac:03ef89964181218919edc71178f38a2d
-Wilco2008-12-14d1t12.flac:70b5ed9abe6f0940d2a8eff888feefe5
-Wilco2008-12-14d1t13.flac:ffbb5600ccf2b88fd2173c997301a1a9
-Wilco2008-12-14d1t14.flac:e0bff2f9a2b99e4e919196d58427e81c
-Wilco2008-12-14d2t01.flac:e9543f865553c55923ca9cea443cfc88
-Wilco2008-12-14d2t02.flac:7a5029b422b39f8693080003d77c9ee5
-Wilco2008-12-14d2t03.flac:2b006e675b88d3be2790e2384822d2d2
-Wilco2008-12-14d2t04.flac:91833544cab1f4dc5781098c451b879c
-Wilco2008-12-14d2t05.flac:3c1db311b7108f514e8cc379d523b7fe
-Wilco2008-12-14d2t06.flac:23de6af028d6ab9b885ee3d33c95aa83
-Wilco2008-12-14d2t07.flac:990b033e1d95a823f5cf8c7c7b4de8aa
-Wilco2008-12-14d2t08.flac:95573848e3453b3fa7699c69fd811090
-Wilco2008-12-14d2t09.flac:b1f0644b450b996cbaa78bb028b99fde
-Wilco2008-12-14d2t10.flac:d4a02c020aafe9e12e79c297fa61ee5e
+Wilco
+December 14, 2008
+Lyric Opera House
+Baltimore, Maryland
+
+**16 bit source**
+
+Source: B&K4022(ortf)>Sonosax>744T
+Location: clamped to balcony rail, 18" gooseneck
+Transfer: 744T>cd wave>wavelab(fades/resample/UV22)>flac
+Taped & transferred by Craig Davis
+
+One Set:
+Disc One:
+01 Sunken Treasure
+02 You Are My Face
+03 War On War
+04 Handshake Drugs
+05 Impossible Germany
+06 It's Just That Simple
+07 Forget The Flowers
+08 Box Full Of Letters
+09 Jesus Etc.
+10 I Am Trying To Break Your Heart >
+11 Spiders (Kidsmoke)
+12 Hummingbird
+13 A Shot In The Arm
+14 Hate It Here
+
+Disc Two:
+01 Walken
+02 I'm The Man Who Loves You
+Encore One:
+03 Via Chicago
+04 California Stars
+05 Kingpin*
+Encore Two:
+06 The Late Greats
+07 Heavy Metal Drummer
+08 Red-Eyed and Blue >
+09 I Got You 
+10 Outtasite (Outta Mind)
+
+Notes:
+* Jeff wearing neckbrace
+

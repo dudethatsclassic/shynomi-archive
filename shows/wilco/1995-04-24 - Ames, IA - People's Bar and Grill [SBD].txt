@@ -1,16 +1,23 @@
-01 The Long Cut.flac:ed038e4e6fd669de52809b40e1879ce6
-02 Shouldn't Be Ashamed.flac:23f40c001aeac015f06e8529a482efd9
-03 Walk Where He Walked.flac:3d07c260ef6ef78a105a78bf927ad5e5
-04 If That's Alright.flac:d0cf44591f32d131ed2c446ab49c5dba
-05 New Madrid.flac:daf1219eeb7e697d8b44647a15b06c5a
-06 Pick Up the Change.flac:9ee8584b8620ec1c8213d73d0930cdaa
-07 Wait Up.flac:1250cac76f494eae988b9384fcc039d1
-08 That's Not the Issue.flac:9fb7cc03ae0ad1115f9ad71539f0c805
-09 Should've Been in Love.flac:d69e60d6e6d81899c0cfcbed3b5d47e9
-10 Passenger Side.flac:f8a5e16fa38d835e54d299e70b868553
-11 I Must Be High.flac:3a649750a36fa391a3c92f4257d37b90
-12 Give Back the Key to My Heart.flac:3e03aeedd35ce9a4be0c52214ae00435
-13 Too Far Apart.flac:be47dcac6fe2fd4537311027c1e9f90f
-14 We've Been Had.flac:43b7e3609e638e2df82205702020952d
-15 Box Full of Letters.flac:3c6e75e4b9e38735abe0556ea08a1832
-16 Casino Queen.flac:70d7acff0d15fd00eaeceab7181515e7
+Wilco
+April 24, 1995
+People's Bar and Grill
+Ames, IA
+
+Soundboard > Cassette > MD > Cubase > AIF > SoundStudio (Tracking & Pitch) > FLAC
+
+01 The Long Cut.flac
+02 Shouldn't Be Ashamed.flac
+03 Walk Where He Walked.flac
+04 If That's Alright.flac
+05 New Madrid.flac
+06 Pick Up the Change.flac
+07 Wait Up.flac
+08 That's Not the Issue.flac
+09 Should've Been in Love.flac
+10 Passenger Side.flac
+11 I Must Be High.flac
+12 Give Back the Key to My Heart.flac
+13 Too Far Apart.flac
+14 We've Been Had.flac
+15 Box Full of Letters.flac
+16 Casino Queen.flac

@@ -526,8 +526,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "",
-      "textFile": "1995-09-03 - Mountain View, CA - Shoreline Amphitheatre (unk) (neekrive) [AUD].txt"
+      "format": ""
     },
     {
       "year": 1995,
@@ -2910,8 +2909,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "",
-      "textFile": "2001-12-02 - San Francisco, CA - The Fillmore (unk) (neekrive) [AUD].txt"
+      "format": ""
     },
     {
       "year": 2001,
@@ -2939,7 +2937,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
       "format": "",
-      "textFile": "2001-12-03 - San Francisco, CA - The Fillmore (unk) (neekrive) [AUD].txt"
+      "textFile": "2001-12-03 - San Francisco, CA - The Fillmore [AUD].txt"
     },
     {
       "year": 2001,
@@ -2952,8 +2950,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "notes": "",
       "version": "AUD",
-      "format": "",
-      "textFile": "2001-12-03 - San Francisco, CA - The Fillmore [AUD].txt"
+      "format": ""
     },
     {
       "year": 2001,
@@ -5906,7 +5903,7 @@ const ARTIST_DATA = {
       "notes": "AKG C 460 + CK 61 \u00b7 ole diz & pedro",
       "version": "AUD",
       "format": "",
-      "textFile": "2006-10-10 - Oxford, MS - University of Mississippi - Gertrude Ford Center [AUD].txt"
+      "textFile": "2006-10-10 - Oxford, MS - University of Mississippi - Gertrude Ford Center [AUD].rtf"
     },
     {
       "year": 2006,
@@ -9855,7 +9852,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2012-01-29 - San Francisco, CA - Warfield Theater (Schoeps) [AUD].txt"
+      "textFile": "2012-01-29 - San Francisco, CA - Warfield Theater (Schoeps) [AUD].rtf"
     },
     {
       "year": 2012,
@@ -9869,7 +9866,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2012-01-31 - Oakland, CA - Fox Theater [AUD].txt"
+      "textFile": "2012-01-31 - Oakland, CA - Fox Theater [AUD].rtf"
     },
     {
       "year": 2012,
@@ -10807,7 +10804,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2012-09-22 - Berkeley, CA - Greek Theater [AUD].txt"
+      "textFile": "2012-09-22 - Berkeley, CA - Greek Theater [AUD].rtf"
     },
     {
       "year": 2012,
@@ -11800,7 +11797,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2014-10-30 - Port Chester, NY - The Capitol Theatre (CA14) [AUD].txt"
+      "textFile": "2014-10-30 - Port Chester, NY - The Capitol Theatre (CA14) [AUD].rtf"
     },
     {
       "year": 2014,
@@ -11853,8 +11850,7 @@ const ARTIST_DATA = {
       "venue": "Riviera Theatre",
       "notes": "",
       "version": "FM",
-      "format": "",
-      "textFile": "2014-12-06 - Chicago, IL - Riviera Theater [FM].txt"
+      "format": ""
     },
     {
       "year": 2014,
@@ -12265,8 +12261,7 @@ const ARTIST_DATA = {
       "venue": "The Independent",
       "notes": "",
       "version": "AUD #2",
-      "format": "",
-      "textFile": "2015-08-06 - San Francisco, CA - The Independent [AUD #2].txt"
+      "format": ""
     },
     {
       "year": 2015,
@@ -12663,7 +12658,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "2 sources",
-      "textFile": "2016-02-13 - Roanoke, VA - Berglund Performing Arts Theatre (Schoeps) [AUD].txt"
+      "textFile": "2016-02-13 - Roanoke, VA - Berglund Performing Arts Theatre (Schoeps) [AUD].rtf"
     },
     {
       "year": 2016,
@@ -12801,7 +12796,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "2016-08-19 - Madison, WI - Breese Stephens Field (SR77s) [AUD].txt"
+      "textFile": "2016-08-19 - Madison, WI - Breese Stephens Field (SR77s) [AUD].rtf"
     },
     {
       "year": 2016,
@@ -13542,8 +13537,7 @@ const ARTIST_DATA = {
       "venue": "Bijou Theatre",
       "notes": "Nugs.net",
       "version": "SBD",
-      "format": "",
-      "textFile": "2019-06-05 - Knoxville, TN - Bijou Theatre (Nugs.net) [FLAC] .txt"
+      "format": ""
     },
     {
       "year": 2019,

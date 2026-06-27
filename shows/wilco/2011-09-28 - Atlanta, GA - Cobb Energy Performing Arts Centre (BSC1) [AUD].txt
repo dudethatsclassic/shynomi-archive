@@ -1,24 +1,34 @@
-wilco2011-09-28d1t01.flac:08f4a017e3533b5624f000acbcd69e6d
-wilco2011-09-28d1t02.flac:3667c5089bf2a8d90a48b1b933352012
-wilco2011-09-28d1t03.flac:531342c297be0f64ae4f61e42de87186
-wilco2011-09-28d1t04.flac:f30cb8fac4d5048bf504cec58f167c39
-wilco2011-09-28d1t05.flac:c61930d5c01bc2dac697457992ee3fd9
-wilco2011-09-28d1t06.flac:7c91951ffb9664e3e02d9e7fc040c787
-wilco2011-09-28d1t07.flac:7bd171af8da1220b6cadf9ad29ad76eb
-wilco2011-09-28d1t08.flac:f3225d9f556047bf761c3886be487c2f
-wilco2011-09-28d1t09.flac:5b6a3231fc0d8b7d52babf5c63484f6d
-wilco2011-09-28d1t10.flac:4da9ec3409f38134746188a109b5a1ea
-wilco2011-09-28d1t11.flac:fc4ef58ec2af876571add87a74b77eeb
-wilco2011-09-28d1t12.flac:5387064f9da37d49024b58f3bc55c155
-wilco2011-09-28d1t13.flac:571c6931cd1f8717ffdb6ef539d196a8
-wilco2011-09-28d1t14.flac:0b1dff4e290ea13b7b9303cad165e96d
-wilco2011-09-28d1t15.flac:238d87bf93cfb25ad383cbe32e30a957
-wilco2011-09-28d1t16.flac:f1ebe5bc423fef9b6aae490783d1daf4
-wilco2011-09-28d1t17.flac:219baa4529844d8ae0cfc40623543e2a
-wilco2011-09-28d1t18.flac:162659fea418d7bd5cef960565b80ce3
-wilco2011-09-28d1t19.flac:9a3c873d5192c8b264529dc9f2f0b743
-wilco2011-09-28d1t20.flac:93f65fd1c66d9ea0ffa47703aa34055c
-wilco2011-09-28d1t21.flac:953725725bbef2405e0460e26aab43e2
-wilco2011-09-28d1t22.flac:e2c104fbb28764e990716e2454a382a8
-wilco2011-09-28d1t23.flac:28ffa35304f7ad817643fe5dba80fcdf
-wilco2011-09-28d1t24.flac:3b9016eac11e9e95e9772c932f807182
+Wilco
+09-28-2011
+Cobb Energy Performing Arts Centre
+Atlanta, GA
+Source: BSC1-k31(mezz rail 5'LOC)>Lunatec V2>Tmod R4@24/48
+Transfer: R4>CDWave>Wavelab(resample/dither)>TLH>Flac level 8
+Taped and Transferred by David Randle (halleyscomet8@gmail.com)
+
+01) Art of Almost
+02) I Might
+03) Ashes of American Flags
+04) Black Moon
+05) Bull Black Nova
+06) Side with the Seeds
+07) Via Chicago
+08) Impossible Germany
+09) Born Alone
+10) I Am Trying to Break Your Heart
+11) Dawned on Me
+12) Always In Love
+13) Standing O
+14) Handshake Drugs
+15) One Sunday Morning
+16) Encore Break
+17) 36 Inches High*
+18) I Love My Label*
+19) Shot in the Arm
+20) Jesus, Etc.
+21) Whole Love
+22) Late Greats
+23) Heavy Metal Drummer
+24) I'm the Man Who Loves You
+
+* w/Nick Lowe

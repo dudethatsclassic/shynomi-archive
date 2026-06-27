@@ -1,23 +1,48 @@
-Wilco2009-07-08d1t01.flac:ce49354b1598fec808ad136694b54e5d
-Wilco2009-07-08d1t02.flac:0f5c6ea5037c2f34043db414d52ef8a5
-Wilco2009-07-08d1t03.flac:6d51418852379a74f75c4e0b37e336ab
-Wilco2009-07-08d1t04.flac:32842758610dc99960b9ee1ec3e08b5d
-Wilco2009-07-08d1t05.flac:86ad3319c85dc01748a328dce753571a
-Wilco2009-07-08d1t06.flac:b6a51806a0614034d62eae0f368a2d61
-Wilco2009-07-08d1t07.flac:c177bc133b5159b494efba0416995102
-Wilco2009-07-08d1t08.flac:10e0cb21654afd4a56249204d7b43cbb
-Wilco2009-07-08d1t09.flac:adc4f1f7cfbde580c9d693b16a69e0bc
-Wilco2009-07-08d1t10.flac:4724154cc722a2fd7e31cfd4e8f8694a
-Wilco2009-07-08d1t11.flac:ebce48d48f077e852053149a0a084723
-Wilco2009-07-08d1t12.flac:f84fc5e12f09a552fe99a07c29541bf9
-Wilco2009-07-08d1t13.flac:0a92e348b3d392d2b785b3a8b1bd80a6
-Wilco2009-07-08d1t14.flac:1489bd0666ccbbaf54f98607fce70f38
-Wilco2009-07-08d1t15.flac:86ebfe4199bf3b7d511b49ea13b3c28b
-Wilco2009-07-08d2t01.flac:28852ea8b5e5fa23dcc4afc28774e9c9
-Wilco2009-07-08d2t02.flac:caea4a454b59ded6542847d9195ecc27
-Wilco2009-07-08d2t03.flac:e36eb87b3441147af5a0770cb3e3501c
-Wilco2009-07-08d2t04.flac:49828bf9ca57c50aff2ceba3130d8b1f
-Wilco2009-07-08d2t05.flac:f0e9dea28b8b2ef18d1e07b5cd0a3c59
-Wilco2009-07-08d2t06.flac:c40fdaa129b4c3be846c71033ec9dccb
-Wilco2009-07-08d2t07.flac:f2e24f705470a7f8b743d8dc98663d26
-Wilco2009-07-08d2t08.flac:a2df45b2e2fda47d43213595800cd105
+Wilco
+July 8, 2009
+The Filene Center
+Wolf Trap
+Vienna, Va
+
+**16 bit source**
+
+Source: B&K4022(ortf) > Sonosax > 744T
+Location: front of sbd cage, slight roc, 6' stand, 60' from stage
+Transfer: 744T>cd wave>soundforge(fades/volume/delay)>wavelab(resample/UV22)>flac
+Taped & transferred by Craig Davis
+
+One Set
+Disc One:
+01 Price is Right Intro
+02 Wilco (the song)
+03 A Shot in the Arm
+04 At Least That's What You Said
+05 Bull Black Nova
+06 You Are My Face
+07 I Am Trying To Break Your Heart
+08 One Wing
+09 How to Fight Loneliness
+10 Impossible Germany
+11 Deeper Down
+12 Jesus, etc.
+13 Sonny Feeling
+14 Handshake Drugs
+15 Hate It Here
+
+Disc Two:
+01 Walken
+02 I'm The Man Who Loves You
+03 Hummingbird
+Encore:
+04 You Never Know
+05 Heavy Metal Drummer
+06 Misunderstood >  
+07 Spiders (Kidsmoke)
+08 I'm A Wheel 
+
+Notes:
+venue staff made us move the stand at the last minute 
+so we had to run it really low at the front of the sbd.
+Two dudes talked & made weak attempts to yell funny 
+stuff during most of the show. I edited and leveled 
+it out as much of it as I could.

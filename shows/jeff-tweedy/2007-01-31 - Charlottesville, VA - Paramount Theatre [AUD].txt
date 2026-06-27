@@ -1,23 +1,50 @@
-Tweedy2007-01-31d1t11.flac:273e46fb3ab0306e5b0a31d426484380
-Tweedy2007-01-31d1t02.flac:ca16a78a2b1cbf5f59f80fefe57c539a
-Tweedy2007-01-31d1t03.flac:863f0351132c6faf768be87b71ed997b
-Tweedy2007-01-31d1t04.flac:eba6c255f7f9ec62a8cdd74d0d2abe20
-Tweedy2007-01-31d1t05.flac:33c13bf85c69dda72a6c51b4bd75c5b2
-Tweedy2007-01-31d1t06.flac:075351a2e5a596f37adf351b5dd351b8
-Tweedy2007-01-31d1t07.flac:4ce2e59f617edb7e2a7fa728c19e4b61
-Tweedy2007-01-31d1t08.flac:40be0509226e7ab7303c92b0de5d4b36
-Tweedy2007-01-31d1t09.flac:2d96266ca6fb9ba453633b1895a8231b
-Tweedy2007-01-31d1t10.flac:10a6575381addd44665f7ec4685194b1
-Tweedy2007-01-31d1t01.flac:b118808cd212c3d422248681d607a70b
-Tweedy2007-01-31d1t12.flac:0af36957d7f3109127c6bfd51067044b
-Tweedy2007-01-31d1t13.flac:ef6931b9539ae5d7cfe803238f4765a2
-Tweedy2007-01-31d1t14.flac:148936fe584d409b7c08f9711b74c4ef
-Tweedy2007-01-31d2t01.flac:a968e9a376ac037ae6161032ddc9cfe1
-Tweedy2007-01-31d2t02.flac:ab2eebce77f3a30800712d79c60e95da
-Tweedy2007-01-31d2t03.flac:393a12ead4776c491b9b71e3b442ce72
-Tweedy2007-01-31d2t04.flac:c6e7ab709d22d1921fdbdc06171c416e
-Tweedy2007-01-31d2t05.flac:fca7e295445536221fb568046998d19e
-Tweedy2007-01-31d2t06.flac:8a52b1a55d084d13588e024c94689403
-Tweedy2007-01-31d2t07.flac:76b3a2e46d9986ec21f079659c1a0d80
-Tweedy2007-01-31d2t08.flac:35157a57147ae396e0d60a3807c1b861
-Tweedy2007-01-31d2t09.flac:94dbc01842a12d71e74a855c7bae8065
+Jeff Tweedy
+January 31, 2007
+Paramount Theatre
+Charlottesville, Va.
+
+**16 bit source**
+
+Source: B&K4022(xy)>V3>744T
+Location: fob, Row G, slightly left of center
+Transfer: 744T>soundforge 7.0>cd wave>flac
+Taped & transferred by Craig Davis
+
+One Set
+Disc 1:
+01 Someone Else's Song*
+02 Spiders (Kidsmoke)
+03 Be Patient With Me
+04 Remember The Mountain Bed
+05 I Am Trying To Break Your Heart
+06 She's A Jar
+07 Chinese Apple
+08 Black Eye
+09 1x1
+10 What Light
+11 The Ruling Class
+12 In A Future Age
+13 Cars Can't Escape
+14 Wait Up
+
+Disc 2:
+01 Theologians
+02 Jesus, Etc.
+Encore:
+03 Heavy Metal Drummer
+04 Radio King
+05 New Madrid
+06 A Shot In The Arm
+Encore 2:
+07 California Stars
+08 I'm The Man Who Loves You
+09 Acuff-Rose*
+
+* unplugged on stage lip 
+
+The clapping was significantly louder than the music so 
+I tried to make it more listenable with some editing. I 
+used pretty steep compression to even out the levels and 
+then used the volume mazimizer & soft limit to get it 
+louder. The downside is that you don't get to hear the 
+sound of the room itself as much as I would like.

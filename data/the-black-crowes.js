@@ -1093,8 +1093,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Neekrive",
-      "textFile": "1995-09-03 - Mountain View, CA - Shoreline Amphitheatre (unk) (neekrive) [AUD].txt"
+      "notes": "Unknown \u00b7 Neekrive"
     },
     {
       "year": 1996,
@@ -2312,7 +2311,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sp-bmc-1 \u00b7 Fillmore Crowe",
-      "textFile": "2010-09-24 - Houston, TX - Verizon Wireless Theater (SP-BMC-1) (fillmore crowe) [AUD].txt"
+      "textFile": "2010-09-24 - Houston, TX - Verizon Wireless Theater (SP-BMC-1) (fillmore crowe) [AUD].rtf"
     },
     {
       "year": 2010,
@@ -2326,7 +2325,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sp-bmc-1",
-      "textFile": "2010-09-25 - Austin, TX - Stubb's BBQ (SP-BMC-1) (fillmore crowe) [AUD].txt"
+      "textFile": "2010-09-25 - Austin, TX - Stubb's BBQ (SP-BMC-1) (fillmore crowe) [AUD].rtf"
     },
     {
       "year": 2010,
@@ -2340,7 +2339,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sp-bmc-1 \u00b7 Fillmore Crowe",
-      "textFile": "2010-09-26 - Dallas, TX - House of Blues (SP-BMC-1) (fillmore crowe) [AUD].txt"
+      "textFile": "2010-09-26 - Dallas, TX - House of Blues (SP-BMC-1) (fillmore crowe) [AUD].rtf"
     },
     {
       "year": 2010,
@@ -2494,7 +2493,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sp-bmc-1 \u00b7 Fillmore Crowe",
-      "textFile": "2010-12-12 - San Francisco, CA - The Fillmore (SP-BMC-1) (fillmore crowe) [AUD].txt"
+      "textFile": "2010-12-12 - San Francisco, CA - The Fillmore (SP-BMC-1) (fillmore crowe) [AUD].rtf"
     },
     {
       "year": 2010,
@@ -2508,7 +2507,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sp-bmc-1 \u00b7 Fillmore Crowe",
-      "textFile": "2010-12-14 - San Francisco, CA - The Fillmore (SP-BMC-1) (fillmore crowe) [AUD].txt"
+      "textFile": "2010-12-14 - San Francisco, CA - The Fillmore (SP-BMC-1) (fillmore crowe) [AUD].rtf"
     },
     {
       "year": 2010,
@@ -2522,7 +2521,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sp-bmc-1 \u00b7 Fillmore Crowe",
-      "textFile": "2010-12-17 - San Francisco, CA - The Fillmore (SP-BMC-1) (fillmore crowe) [AUD].txt"
+      "textFile": "2010-12-17 - San Francisco, CA - The Fillmore (SP-BMC-1) (fillmore crowe) [AUD].rtf"
     },
     {
       "year": 2010,
@@ -2536,7 +2535,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sp-bmc-1 \u00b7 Fillmore Crowe",
-      "textFile": "2010-12-19 - San Francisco, CA - The Fillmore (SP-BMC-1) (fillmore crowe) [AUD].txt"
+      "textFile": "2010-12-19 - San Francisco, CA - The Fillmore (SP-BMC-1) (fillmore crowe) [AUD].rtf"
     },
     {
       "year": 2011,

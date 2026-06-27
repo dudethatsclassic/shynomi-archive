@@ -1,18 +1,38 @@
-johnmayer2008-08-19d1t01.flac:5d2f4483d3d358fed1abb8dbdd35fca4
-johnmayer2008-08-19d1t02.flac:f02a5d738eacf17df3518f2dd8fd5c5e
-johnmayer2008-08-19d1t03.flac:8da73716fb97367375fb535f18545698
-johnmayer2008-08-19d1t04.flac:4a1a08df697037a12dedd31198fe462a
-johnmayer2008-08-19d1t05.flac:a57af8f95ad9da7c4c611a5b68bfcc80
-johnmayer2008-08-19d1t06.flac:d3bd3198b3301319c4545af8145abeb7
-johnmayer2008-08-19d1t07.flac:3111127ffd3347cab66ea67883fc2c6e
-johnmayer2008-08-19d1t08.flac:d9c970df7e99e538ad09573c58cfdff0
-johnmayer2008-08-19d1t09.flac:d87b3a130088d428a37c056da11482fc
-johnmayer2008-08-19d1t10.flac:1ac1ad810124b06709a2fb55512d3828
-johnmayer2008-08-19d1t11.flac:f877d3c9c3d907f10f9ce800f4493337
-johnmayer2008-08-19d2t01.flac:c2cb7a3be30de2fd741134cac5e0eba0
-johnmayer2008-08-19d2t02.flac:fab153c6e99e458618f844420c10725c
-johnmayer2008-08-19d2t03.flac:96f8291d2ad9c66cce3ee42d78359f99
-johnmayer2008-08-19d2t04.flac:26a89556943c7e8205c644d8f6fd68b4
-johnmayer2008-08-19d2t05.flac:b5ef92aa5eae269c3f91effadc13f0d4
-johnmayer2008-08-19d2t06.flac:4fc56a89479afd487080aadfc7b07b12
-johnmayer2008-08-19d2t07.flac:5b23a38470503868d60e6285fd985ca2
+John Mayer
+08/19/08
+Verizon Wireless Amphitheatre, Charlotte, NC
+
+Source: Neumann ak40 >  lc3 > ka100 > km100  (FOB, Section 2, Row T, Seat 21, 8.5' up, DIN) > Lunatec V3 > Microtrack II (24/48)
+Transfer: Microtrack II > PC > Wavelab 5 (Fades, 48k>44k, MBIT+ Dither) > CD Wave > FLAC
+Taped and Transfered by: Brian Hadella <bhadella@taperssection.com>
+
+
+
+Disc 1:
+One Set: 
+
+01.  Bigger Than My Body
+02.  Belief
+03.  I Don't Trust Myself (With Loving You)
+04.  Crossroads
+05.  Wheel
+06.  Free Falling
+07.  Good Love is On the Way
+08.  Mercy
+09.  Vultures
+10.  Find Another You
+11.  Stitched Up
+
+
+Disc 2:
+Set One Continued:
+
+01.  No Such Thing >
+02.  Why Georgia 
+03.  Waiting on the World to Change
+04.  Gravity
+
+Encore:
+05.  Who Did You Think I Was
+06.  Boy In The Bubble
+07.  Say   

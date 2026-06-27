@@ -1,18 +1,36 @@
-DMB1998-06-27d1t01-Tripping_Billies.flac:c1f7586595a4e24413afecf6904fc98b
-DMB1998-06-27d1t02-Best_of_Whats_Around.flac:6287b4158a1500219b7769dff1d546e6
-DMB1998-06-27d1t03-Pantala_Naga_Pampa.flac:a2210d0be6c9f9040216704d77c4f005
-DMB1998-06-27d1t04-Rapunzel.flac:c3e2651fc8dcc932914e890b9664adf0
-DMB1998-06-27d1t05-Two_Step.flac:b1138a80c51ab0db885a4ebcd684ee6b
-DMB1998-06-27d1t06-Satellite.flac:0c2afa720c21618cd93407c013c3cc9c
-DMB1998-06-27d1t07-Crush.flac:a7984b36e75b463e611bfba6da48ce0f
-DMB1998-06-27d1t08-Dont_Drink_the_Water.flac:c05b9eb9f75059f457f4b81afac4cb0c
-DMB1998-06-27d1t09-One_Sweet_World.flac:3fb94ce33d5dd340ad57acc37e261001
-DMB1998-06-27d2t01-Lie_In_Our_Graves.flac:16f038809475a0e1607902ba9b6c6551
-DMB1998-06-27d2t02-The_Stone.flac:22621d53a7bcd6a61fe5d7a637c2de58
-DMB1998-06-27d2t03-Drive_In_Drive_Out.flac:c5289e1624cd29b126e3a69f665dbb63
-DMB1998-06-27d2t04-True_Reflections.flac:e6bc681e032006ef4a0b29e16d09fb47
-DMB1998-06-27d2t05-Dancing_Nancies.flac:bb90d261956d4b48b1c53c0a4a89b3c3
-DMB1998-06-27d2t06-Anyone_Seen_the_Bridge.flac:3dd5cedee4c9a0261a88586e9dbb6c19
-DMB1998-06-27d2t07-Too_Much.flac:fd1c365911f61ac4070d37357058488c
-DMB1998-06-27d2t08-The_Last_Stop.flac:fae71b7addc3b8a9dd321f0a1c60c72f
-DMB1998-06-27d2t09-Watchtower.flac:9559f74c6169dc669bd1215e0171de2d
+Dave Matthews Band
+June 27, 1998
+Melk Weg
+Amsterdam, Netherlands
+
+Source: Schoeps MK4 > VMS02IB > SBM1@44.1K by Derek Gregory
+Transfer: Master DAT > R500 > PMD661 (Transfered twice on unique setups, resulting wavs compared, zero transfer errors)
+Transfer by jerryfreak 11/2020
+Fades in and out only, no other processing
+
+One Set
+
+Disc 1			67:44
+
+1. Tripping Billies 		08:02
+2. Best of What's Around  	06:30
+3. Pantala Naga Pampa -> 	01:44
+4. Rapunzel 		07:44
+5. Two Step 		08:58
+6. Satellite 		05:52
+7. Crush 			11:55
+8. Don't Drink the Water 	08:40
+9. One Sweet World 	08:19
+
+Disc 2			78:14
+
+1. Lie In Our Graves 	11:55
+2. The Stone -> 		06:40
+3. Drive In Drive Out 	07:53
+4. True Reflections 		07:28
+5. Dancing Nancies 		10:53
+6. Anyone Seen the Bridge? ->01:24
+7. Too Much 		09:18
+	-Encore-
+8. The Last Stop 		11:48
+9. All Along the Watchtower 	10:56

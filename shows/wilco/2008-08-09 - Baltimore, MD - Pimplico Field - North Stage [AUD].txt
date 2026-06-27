@@ -1,14 +1,31 @@
-wilco2008-08-09t01.flac:e346f3ecb39b9b35d63e6681985601f9
-wilco2008-08-09t02.flac:6bb28c918133d937ce6cd591e25789de
-wilco2008-08-09t03.flac:0e38e4eef77cbbd4110cda89566d9963
-wilco2008-08-09t04.flac:2a5a25f2aff6c5cf00f55cfde2a14bc7
-wilco2008-08-09t05.flac:5a4ce80a3c5cef66b8bf4454bb815166
-wilco2008-08-09t06.flac:53d66518dc0fc3f81866a9fc6a1f7617
-wilco2008-08-09t07.flac:df577806e52bbee945c44dad7ad49ec7
-wilco2008-08-09t08.flac:7784faca83605dc7fec2db70f124a01f
-wilco2008-08-09t09.flac:60152207484ee773836ba16958a6dd87
-wilco2008-08-09t10.flac:737573b42a1173ad1bf41006f9684e74
-wilco2008-08-09t11.flac:0d16b6ddade214d8a808250e23bb530a
-wilco2008-08-09t12.flac:5650f06abb9e4c4f45387b1946dd7d3a
-wilco2008-08-09t13.flac:2f0b690faf384c3c1fabab0e995cbe3b
+Wilco
+Virgin Mobile Festival
+North Stage
+Pimlico Field
+Baltimore, MD
+2008-08-09
 
+Recorded and uploaded by: su6oxone@gmail.com.
+
+**16-bit/44.1khz**
+
+Source: Neumann KM184 > PS-2 > R-09 (24/44.1)
+Lineage: R-09 > Sony SoundForge 8.0 (volume/tracking/fades/bitrate) > flac v1.1.4a
+
+
+01 War On War
+02 A Shot In The Arm
+03 I Am Trying To Break Your Heart
+04 You Are My Face
+05 Impossible Germany
+06 Handshake Drugs
+07 Spiders
+08 Walken
+09 Hate It Here
+10 I'm The Man Who Loves You
+11 Monday
+12 Outta Sight (Outta Mind)
+13 Hoodoo Voodoo
+
+
+ 

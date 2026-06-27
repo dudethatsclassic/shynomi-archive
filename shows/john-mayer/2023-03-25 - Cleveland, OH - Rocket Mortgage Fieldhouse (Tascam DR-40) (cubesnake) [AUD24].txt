@@ -1,41 +1,61 @@
-jm2023-03-25t01.flac:c6388437a3ed965c15976ae095505252
-jm2023-03-25t02.flac:869006f30ff310e648c92f33a0b99f3a
-jm2023-03-25t03.flac:9e1cc62b7b3510dd99481aade9483361
-jm2023-03-25t04.flac:b9106d3c49541ddd4d4799eda5919063
-jm2023-03-25t05.flac:d79a0148735045551e5c26d751984950
-jm2023-03-25t06.flac:9e26b110308e6486df61f7eeeea10755
-jm2023-03-25t07.flac:420ac79cdd6d3c2083a211c74790e602
-jm2023-03-25t08.flac:3116264d2d3f6338054e7b5de4f68e9c
-jm2023-03-25t09.flac:b08e10ffda4d65ae43d8c1f50ca4244c
-jm2023-03-25t10.flac:0790ab7a532ba897eff8a23d869a0820
-jm2023-03-25t11.flac:188e2f90f326d8f5e7d60c4a74fccd86
-jm2023-03-25t12.flac:5bd6ac2c4737cc518b22c91b294e8275
-jm2023-03-25t13.flac:3ad1c09a2df7d240a02908134ee66a53
-jm2023-03-25t14.flac:a026214fb3d231322b175a756d25da64
-jm2023-03-25t15.flac:c52d07b7dacb86a227aa10753183126c
-jm2023-03-25t16.flac:c4fb6989ea4701b8d04313fe52918dbb
-jm2023-03-25t17.flac:9eb68b58f5152b7e9dff3739241af7b4
-jm2023-03-25t18.flac:273eda1dba5457ff52466a7034656551
-jm2023-03-25t19.flac:e3bebd0aa8156fe1253879c68813a854
-jm2023-03-25t20.flac:5fcce0b016fff91618a16f142f67937a
-jm2023-03-25t21.flac:bf741c1daa6052a9440ce7246087c5ed
-jm2023-03-25t22.flac:b5ee10c6ff3f99317fb5abf81732f33e
-jm2023-03-25t23.flac:dcfa92a1116d38ce57f7f852c2280137
-jm2023-03-25t24.flac:a8a11e12d67c529f339125774b0b5664
-jm2023-03-25t25.flac:54c555dd3a1e39afd52a9147c49376e3
-jm2023-03-25t26.flac:d2383148b2b588c5383c3ae52d813707
-jm2023-03-25t27.flac:f8aed707aa17b2512f0f3712d4939b88
-jm2023-03-25t28.flac:deb36590d794687fa17ac0eb735ad43d
-jm2023-03-25t29.flac:d7cc468256ca046e3b63d0096a760e9f
-jm2023-03-25t30.flac:af80a636561c07764cffa3cbba58ea0e
-jm2023-03-25t31.flac:78e1c2782c4cc073355b0f2b6e176ca5
-jm2023-03-25t32.flac:fca5992a3c6d1939ebdc9347a48eee94
-jm2023-03-25t33.flac:cb05755d18c165514185de43b11cc707
-jm2023-03-25t34.flac:f2a3bd4c7a3aea477bfebaf92f858b68
-jm2023-03-25t35.flac:a80804aa9fbee708f073a5ba71daa9c0
-jm2023-03-25t36.flac:0b647225b7783e00a6886fe343e6285b
-jm2023-03-25t37.flac:a5f9725bf8294e6b8500d86f3c23b402
-jm2023-03-25t38.flac:4d41aef9fbee41b313585812fe34b1fd
-jm2023-03-25t39.flac:f8e3843591a4fe6583d167b83067f87e
+John Mayer
+Rocket Mortgage FieldHouse
+Cleveland, Ohio, USA
+March 25, 2023
 
-Generated with Trader's Little Helper
+Recorded by: cubesnake
+Location: Floor 2, Row V, Seat 10 (middle, right in front of the soundboard)
+Source: Tascam DR-40 (Internal Cardioid Mics) > 24-bit/96 kHz WAV
+Editing: WAV > Audacity (Tracking, Fades) > 24-bit/96 kHz FLAC (Level 8)
+
+Notes: My apologies, there is a lot of audience chatter on this recording. I wasn't able to raise the mics and I didn't want to stifle the experience for my friends by telling them not to talk. Overall, I think the recording is decent, but talking/singing is definitely prevalent on some of the songs. There is also some clicking during the first song from setting the levels on the recorder. Clearly I am an amateur, but the recording belongs online regardless of its flaws.
+
+This recording isn't formatted to be written to CD, but if you were to, I'd suggest:
+Disc 1 [01-22] 1:00:41
+Disc 2 [23-39] 1:01:18
+
+Tracklist
+01 Gravity 4:45
+02 Banter: Good Evening 0:30
+03 Last Train Home 2:57
+04 Banter: I'm Coming On 0:21
+05 Assassin 6:06
+06 Banter: XO Talk 0:19
+07 XO 3:22
+08 January 16, 2002: "Room for Squares" Interview 0:55
+09 No Such Thing 5:02
+10 Who Says 3:10
+11 Drone Shot of My Yacht 1:55
+12 Covered in Rain 3:10
+13 Banter: Covered in Rain Talk 1:02
+14 Shouldn't Matter but It Does 4:05
+15 Something Like Olivia 3:02
+16 Banter: Sign 1:14
+17 In Your Atmosphere 5:43
+18 Banter: Not Me, You 0:54
+19 New Light 1:02
+20 You're Gonna Live Forever in Me 3:20
+21 Banter: You're Gonna Live Forever in Me Talk 1:38
+22 Changing 6:09
+
+23 "Continuum" Interview 1:27
+24 Slow Dancing in a Burning Room 4:16
+25 Free Fallin' 4:25
+26 Banter: Happy Birthday 2:24
+27 Driftin' 4:17
+28 Banter: Young People 1:57
+29 Your Body Is a Wonderland 3:48
+30 Banter: Walt Grace Talk 2:58 
+31 Walt Grace's Submarine Test, January 1967 5:16
+32 Friend of the Devil 4:44
+33 If I Ever Get Around to Living 6:19
+34 Banter: Thank You 0:46
+35 Edge of Desire 6:15
+36 Audience 1:39
+---
+Encore
+37 Stop This Train 4:38
+38 Banter: Can't Thank You Enough 1:04
+39 Born and Raised 5:03
+
+Total Length: 2:01:59

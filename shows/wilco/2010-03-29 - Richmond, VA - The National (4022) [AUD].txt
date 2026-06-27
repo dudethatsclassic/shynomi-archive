@@ -1,38 +1,62 @@
-Wilco2010-03-29d1t01.flac:29d3c7ec718a0508c55cbbad6f53723a
-Wilco2010-03-29d1t02.flac:144f97ff974043fd08a4a5c34be1b402
-Wilco2010-03-29d1t03.flac:f30a7bca63d87a34c6efa847fe7a9046
-Wilco2010-03-29d1t04.flac:37fd811332d75da6c4d3acead5221ddd
-Wilco2010-03-29d1t05.flac:91cd3a91a81f377fe3374931ca5da3f5
-Wilco2010-03-29d1t06.flac:590948fcd5c765c713e1c8569c76cafd
-Wilco2010-03-29d1t07.flac:dd605715034691835d5a744bcc75d710
-Wilco2010-03-29d1t08.flac:06bf3eb841b91462b2dd72666080546d
-Wilco2010-03-29d1t09.flac:313e9bc387ed9d227dda1c7b73182f38
-Wilco2010-03-29d1t10.flac:9062f94d5b6f27fbdeabb74ee19d2f7d
-Wilco2010-03-29d1t11.flac:d8f38ca0da717c33f57051c85aa8d10c
-Wilco2010-03-29d1t12.flac:3e1de0edb1d56f574a192a482c0a7307
-Wilco2010-03-29d1t13.flac:12cc9e4f829cb9f57f073476a3739873
-Wilco2010-03-29d1t14.flac:3f9b7a931230d47b44a61d2d826566d0
-Wilco2010-03-29d2t01.flac:074f53089cc2391c03ca14f4423890de
-Wilco2010-03-29d2t02.flac:326f8eb595c6adae01543396f5ade42d
-Wilco2010-03-29d2t03.flac:35678e0bb7a72f248124c0db450a325c
-Wilco2010-03-29d2t04.flac:9cea0f695ec24b5543c4e0efa53dedda
-Wilco2010-03-29d2t05.flac:081da9a31e9bbba4ebd772ae382d8e73
-Wilco2010-03-29d2t06.flac:f07d4c6a6c721f83889748427c41c042
-Wilco2010-03-29d2t07.flac:b95b43aea260508040a93e449d06eabb
-Wilco2010-03-29d2t08.flac:08a97195f106664920b7968a0b6d565b
-Wilco2010-03-29d2t09.flac:e0df76fe81f9285873f11ea351148433
-Wilco2010-03-29d2t10.flac:901b2521e4dc7c65614ac6f4e7e76b9c
-Wilco2010-03-29d2t11.flac:8f67473d9ab56b6f6a1f4b0332695144
-Wilco2010-03-29d2t12.flac:a77f8d65dad069702f357a8d1fc67aa9
-Wilco2010-03-29d3t01.flac:c797fc0c2d8da391cee6f25250c8dfc4
-Wilco2010-03-29d3t02.flac:39ca81aae32e0f23c0bdb42085440477
-Wilco2010-03-29d3t03.flac:cea34ef5e841a9738630168b6afa16a7
-Wilco2010-03-29d3t04.flac:c856b62b223d5d52808d377656eaa59f
-Wilco2010-03-29d3t05.flac:8b7c69d046b8871acec2c001d15bec6a
-Wilco2010-03-29d3t06.flac:c6f2c82cd629221a41dba60b459366e9
-Wilco2010-03-29d3t07.flac:1fd3c587344a12ce225c653a0cb16c1a
-Wilco2010-03-29d3t08.flac:7d365d30ba948315d433ad25eca60eff
-Wilco2010-03-29d3t09.flac:5ea9e47b0158654f98709ce9479a821c
-Wilco2010-03-29d3t10.flac:cae349903ed3d86cfc2aee33fd149847
-Wilco2010-03-29d3t11.flac:2093e084f09e98a4dbaafa65851a533b
-Wilco2010-03-29d3t12.flac:e6f18192c59ccb844ec7d0a6d25ecef7
+Wilco
+March 29, 2010
+The National
+Richmond, VA
+
+**16 bit source**
+
+Source: B&K4022(ortf) > Sonosax > 744T
+Location: corner of sbd cage, slight loc/fob
+Transfer: 744T>soundforge 7.0 (fades)>cd wave>wavelab (resampling/UV22)>flac
+Taped & transferred by: Craig Davis
+
+One Set
+Disc One:
+01 Intro/The Price Is Right
+02 Wilco (the song)
+03 I Am Trying To Break Your Heart
+04 Bull Black Nova
+05 You Are My Face
+06 One Wing
+07 A Shot in the Arm
+08 Shake It Off
+09 I'll Fight
+10 Company In My Back
+11 Handshake Drugs
+12 Side With The Seeds
+13 Deeper Down
+14 Impossible Germany
+
+Disc Two:
+01 Poor Places > 
+*change into acoustic set*
+02 Spiders (Kidsmoke)
+03 She's A Jar
+04 Banter: gift certificates
+05 Forget The Flowers
+06 Someday, Some Morning, Sometime
+07 Not for the Season
+08 How To Fight Loneliness
+09 California Stars
+10 Passenger Side
+11 Outta Mind (Outta Sight) >
+*change out of acoustic set*
+12 Misunderstood
+
+Disc Three:
+01 Can't Stand It
+02 Jesus, etc. (crowd singalong)
+03 Ashes of American Flags
+04 You Never Know
+05 Hate It Here
+06 Theologians
+07 Walken
+08 I'm The Man Who Loves You
+09 Monday
+10 Thank You Friends^
+Encore:
+11 Heavy Metal Drummer
+12 I'm A Wheel 
+
+notes:
+^ Big Star cover, dedicated to Alex Chilton

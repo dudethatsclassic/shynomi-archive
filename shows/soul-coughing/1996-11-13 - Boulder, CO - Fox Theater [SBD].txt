@@ -1,19 +1,39 @@
-sc1996-11-13d1t01.flac:6b0542e661645bc9418db3916f9b2c97
-sc1996-11-13d1t02.flac:80fa4de98f6543447108cf3ca9b553b2
-sc1996-11-13d1t03.flac:26e9f1f032d7e10167a4925160cd52c7
-sc1996-11-13d1t04.flac:7ef9614ec66bfe365b34721c55d3719e
-sc1996-11-13d1t05.flac:fb32bc9e4a99d3ab1ac63d499104554d
-sc1996-11-13d1t06.flac:08114c1846f492568dfe37f5aec00cae
-sc1996-11-13d1t07.flac:ce8bc2bd102c4f9b81a410b5ac775b05
-sc1996-11-13d1t08.flac:d47f331363463207bedf9e97514da79e
-sc1996-11-13d1t09.flac:01af4fb4f6afe80f41f77fb1e9d8ebeb
-sc1996-11-13d1t10.flac:a6562f277f5a2e6c04369b51d0233d47
-sc1996-11-13d1t11.flac:833dfbef6ead4361e59885572a9aa380
-sc1996-11-13d1t12.flac:5ba55a6ec06e9f0511868c6bb8f02d5d
-sc1996-11-13d1t13.flac:018ce20af8b6d93bf43b1378ba0f2bb1
-sc1996-11-13d1t14.flac:2674737ebf5adc688481d36225073c84
-sc1996-11-13d2t01.flac:6c4046f7d3ba33be2eb1459406cd913b
-sc1996-11-13d2t02.flac:26679f015309508391d32cc1d8687651
-sc1996-11-13d2t03.flac:48f03e5c9d5f6ceb1cdff0cac3b26d63
-sc1996-11-13d2t04.flac:49f3cbc56b2617833e37122895c96ed9
-sc1996-11-13d2t05.flac:0263f9cd6dd8293e2d5a846daadb00a1
+SOUL COUGHING
+Fox Theater
+Boulder CO
+November 13, 1996
+
+Source: SBD -> DAT -> CD-R -> SHNs
+Transfer: SHNs -> WAVs -> Mac (Peak/Waves) -> FLACs
+
+CD1  56:07
+1. Collapse
+2. White Girl
+3. 4 Out Of 5
+4. Casiotone Nation
+5. 16 Horses
+6. Screenwriter's Blues
+7. Soundtrack To Mary
+8. Soft Serve
+9. Paint
+10. Don't Go Wreck The Car (I Got Lost In The Parking Lot)
+11. Is Chicago, Is Not Chicago
+12. Mr. Bitterness
+13. Idiot Kings
+14. Super Bon Bon
+
+CD2  25:32
+Encore:
+1. Lazy Bones
+2. Moon Sammy
+3. Disseminated
+4. Sugar Free Jazz
+5. Blue Eyed Devil
+
+total time: 1:21:35
+
+
+M. Doughty - lead vocals, guitar
+Mark De Gli Antoni - keyboard sampler, vocals
+Sebastian Steinberg - bass
+Yuval Gabay - drums

@@ -4672,8 +4672,7 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "DPA 4061 \u00b7 5.1 \u00b7 christopher jones",
       "version": "AUD",
-      "format": "FLAC 24",
-      "textFile": "2022-02-21 - New York, NY - Madison Square Garden (Tascam DR-05) (joel shover) [AUD].txt"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
@@ -4686,8 +4685,7 @@ const ARTIST_DATA = {
       "venue": "MGM Grand Garden Arena",
       "notes": "Zoom H1 \u00b7 djid4",
       "version": "AUD",
-      "format": "FLAC 24",
-      "textFile": "2022-03-11 - Las Vegas, NV - MGM Grand Garden Arena (Zoom H1) (djid4) [AUD24].txt"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
@@ -4700,8 +4698,7 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "notes": "Zoom H1 \u00b7 djid4",
       "version": "AUD",
-      "format": "FLAC 24",
-      "textFile": "2022-03-15 - Los Angeles, CA - The Forum (Zoom H1) (djid4) [AUD24].txt"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
@@ -4714,8 +4711,7 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "notes": "Zoom H1 \u00b7 djid4",
       "version": "AUD",
-      "format": "FLAC 24",
-      "textFile": "2022-03-16 - Los Angeles, CA - The Forum (Zoom H1) (djid4) [AUD24].txt"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
@@ -4728,8 +4724,7 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "notes": "Zoom H1 \u00b7 djid4",
       "version": "AUD",
-      "format": "FLAC 24",
-      "textFile": "2022-03-18 - Los Angeles, CA - The Forum (Zoom H1) (djid4) [AUD24].txt"
+      "format": "FLAC 24"
     },
     {
       "year": 2022,
@@ -4756,8 +4751,7 @@ const ARTIST_DATA = {
       "venue": "FLA Live Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2022-04-02 - Sunrise, FL - FLA Live Arena (unk) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -4770,8 +4764,7 @@ const ARTIST_DATA = {
       "venue": "Amalie Arena",
       "notes": "unk \u00b7 joel shover",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2022-04-05 - Tampa, FL - Amalie Arena (unk) (joel shover) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -4811,8 +4804,7 @@ const ARTIST_DATA = {
       "venue": "ScotiaBank Arena",
       "notes": "Zoom H1N \u00b7 aerofan6",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2022-05-03 - Toronto, ON - ScotiaBank Arena (Zoom H1N) (aerofan6) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -5032,8 +5024,7 @@ const ARTIST_DATA = {
       "venue": "Golden 1 Center",
       "notes": "Zoom H1 \u00b7 djid4",
       "version": "AUD",
-      "format": "FLAC 24",
-      "textFile": "2023-04-08 - Sacramento, CA - Golden 1 Center (Zoom H1) (djid4) [AUD24].txt"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -5228,8 +5219,7 @@ const ARTIST_DATA = {
       "venue": "Chase Center",
       "notes": "Zoom H1 \u00b7 djid4",
       "version": "AUD",
-      "format": "FLAC 24",
-      "textFile": "2023-11-07 - San Francisco, CA - Chase Center (Zoom H1) (djid4) [AUD24].txt"
+      "format": "FLAC 24"
     },
     {
       "year": 2024,

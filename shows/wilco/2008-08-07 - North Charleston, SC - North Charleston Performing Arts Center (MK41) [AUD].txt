@@ -1,28 +1,54 @@
-wilco2008-08-07d1t01.flac:0913262d5a186ed4f6fabcf64d89c003
-wilco2008-08-07d1t02.flac:d1d09475075a3e88e9c6200aa1c19a3d
-wilco2008-08-07d1t03.flac:16397c7712fd9a6cf95313e5a69864a0
-wilco2008-08-07d1t04.flac:cfe6ee9f3a89c87751f53b3bdad75e00
-wilco2008-08-07d1t05.flac:853c5bfd253d259313fc167d0ccb652f
-wilco2008-08-07d1t06.flac:c1c1815999a8087715988b54a395aee4
-wilco2008-08-07d1t07.flac:0d77d097d7e9dc7269f51943c2d3a082
-wilco2008-08-07d1t08.flac:88bfc9e3b4242d8bcd129c231a7c8525
-wilco2008-08-07d1t09.flac:e17f5909555c2dfcd5535dd840536853
-wilco2008-08-07d1t10.flac:6bbc01fce4975483564bbdb7d5a10937
-wilco2008-08-07d1t11.flac:45e708ad4472e98f95f6c61e5297606d
-wilco2008-08-07d1t12.flac:07a7687cae1c0af0d9f2a372c2170372
-wilco2008-08-07d1t13.flac:772ab1e02b1a2bd8d8af0d48f4a8e5e2
-wilco2008-08-07d1t14.flac:1f5506fb85aac0d32501f2ab8c36906c
-wilco2008-08-07d1t15.flac:a268edb90b1a72835724a7806dd56718
-wilco2008-08-07d1t16.flac:62f8ea38b8715b7b5a425c84a75acf33
-wilco2008-08-07d1t17.flac:a23e37a9fa1bb910bfe25bc11da6c304
-wilco2008-08-07d2t01.flac:c886d351c5fc70d000941d82d39572fa
-wilco2008-08-07d2t02.flac:d57a40a82fdaa96ee56bbddc2406589e
-wilco2008-08-07d2t03.flac:81a57685d658c1012d8cf44d613e03e3
-wilco2008-08-07d2t04.flac:69878f4161fc12ce4a8b68d00c790430
-wilco2008-08-07d2t05.flac:0c2763b99edbfc9e3e40fefbfcf4bc8c
-wilco2008-08-07d2t06.flac:fda88a50296f9489b045d001661a97fc
-wilco2008-08-07d2t07.flac:41639ab32a0becb5c9a23e87f95c5e20
-wilco2008-08-07d2t08.flac:b0a0c336041957ea917c23e249ac9856
-wilco2008-08-07d2t09.flac:bf3d58e86928dc788fd51e52abd9d87b
-wilco2008-08-07d2t10.flac:a2dea8ee2d364fe168a5fe61f07bc7a0
-wilco2008-08-07d2t11.flac:1e7de62b758b4d6f385e05a615b1c8a0
+Wilco
+North Charleston Performing Arts Center
+North Charleston, SC
+August 7, 2008
+
+source:  Schoeps mk41 (nos) -> kc5 -> cmc6 -> EAA-PSP2 -> SD 744t (24/48)
+location: fob / loc / stand @ 7'  (ORCH 2, Row G, Seats 47-48)
+recorded by:  BAustin
+
+transfer:  744t -> Wavelab 5.0 -> (resample/dither/fades) -> CD Wave -> FLAC (6)
+transfer:  Chris Davis (10/21/08)
+
+One Set:
+
+Disc 1:        (75:38)
+01.  (00:36)   crowd
+02.  (07:17)   Sunken Treasure
+03.  (04:57)   You are My Face
+04.  (05:01)   Side with the Seeds
+05.  (06:38)   I Am Trying to Break Your Heart
+06.  (03:53)   Company in my Back
+07.  (04:21)   Blood of the Lamb*
+08.  (01:49)   SNL banter
+09.  (06:21)   Handshake Drugs
+10.  (06:40)   Impossible Germany
+11.  (03:37)   Pieholden Suite**
+12.  (01:09)   banter
+13.  (03:46)   Forget the Flowers
+14.  (04:08)   Summer Teeth
+15.  (05:35)   Jesus, Etc.
+16.  (04:36)   Hate it Here***
+17.  (05:14)   Can't Stand It***
+
+Disc 2:        (49:57)
+01.  (03:57)   Heavy Metal Drummer
+02.  (05:00)   Walken***
+03.  (03:55)   I'm the Man Who Loves You***
+04.  (02:09)   crowd
+
+Encore 1:
+05.  (06:13)   Misunderstood
+06.  (03:14)   Cars Can't Escape ->
+07.  (13:25)   Spiders (Kidsmoke)
+08.  (01:43)   crowd
+
+Encore 2:
+09.  (02:49)   The Late Greats
+10.  (04:02)   Monday***
+11.  (03:30)   Outtasite (Outtamind)***
+
+*with Paul (clarinet) from The Total Pros
+**with Total Pros, and Nels on banjo
+***with The Total Pros
+

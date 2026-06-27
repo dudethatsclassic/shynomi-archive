@@ -1,22 +1,41 @@
-Tweedy2006-08-16d1t11.flac:74bc227499c1a85af26211b6a0cd45d3
-Tweedy2006-08-16d1t02.flac:561ada1c492ef7c569ea0392176c0c0f
-Tweedy2006-08-16d1t03.flac:b83ade1bb510989df7b153a3c210a3aa
-Tweedy2006-08-16d1t04.flac:694ff732adab01a425f3e125234a0991
-Tweedy2006-08-16d1t05.flac:9b031500f35ae8278492482f1fcd6877
-Tweedy2006-08-16d1t06.flac:31768b862d8f96db6b903468a424ab46
-Tweedy2006-08-16d1t07.flac:854969a4b322331e87c2051f526a64a3
-Tweedy2006-08-16d1t08.flac:b1d9ea92f3f3ce4a11803567f0ab23e7
-Tweedy2006-08-16d1t09.flac:cd145cda7f5a35a6d67f72c3bdcd72e8
-Tweedy2006-08-16d1t10.flac:fd90597b7df916161e4e400bf5c3f42f
-Tweedy2006-08-16d1t01.flac:137f343f72dd43ad922523e6e1e497e8
-Tweedy2006-08-16d1t12.flac:19f5b273deee4872cb5beffe2fb23bf6
-Tweedy2006-08-16d1t13.flac:b1c74ea00cb6fb50391961bab05da9f1
-Tweedy2006-08-16d1t14.flac:9a108ff6a7a1d8569fb15067497395f8
-Tweedy2006-08-16d1t15.flac:51c0b0856c5d4dd1ba1d90ec7dec306c
-Tweedy2006-08-16d2t01.flac:47b81adf0d7c71f5ea984b23a4d71a7a
-Tweedy2006-08-16d2t02.flac:86f8de8f86247f9ffb58f102d73ff56e
-Tweedy2006-08-16d2t03.flac:b4dc21e3302e9c7d2e5870f9f0983ac3
-Tweedy2006-08-16d2t04.flac:0fb8f508d030bb93583209d7f1725b70
-Tweedy2006-08-16d2t05.flac:575d06287251700c6741b48ec0939f04
-Tweedy2006-08-16d2t06.flac:315b451248398b413bdc0c22b7e3a1a5
-Tweedy2006-08-16d2t07.flac:7b16724a552646023d6807a9e633c9e2
+Jeff Tweedy
+August 16, 2006
+North Carolina Museum of Art
+Raleigh, NC
+
+**16 bit source**
+
+Source: B&K4022(xy)>Sonosax>Sound Devices 744T 
+Location: fob, Row D, left of center
+Transfer: 744T>soundforge 7.0 (fades/resampling/dithering)>cd wave>flac
+Taped & transferred by Craig Davis
+
+
+One Set
+Disc One:
+01 What Light
+02 IATTBYH
+03 Was I (In Your Dreams)
+04 New Madrid
+05 fragment of an Elizabeth Cotten song 
+06 Spiders (Kidsmoke)
+07 Summerteeth
+08 The Ruling Class
+09 Theologians
+10 Blasting Fonda
+11 Hesitating Beauty
+12 Lullaby for Rafters and Beams
+13 ELT (started and restarted)
+14 A Shot in the Arm
+15 I'm The Man Who Loves You
+
+Disc Two:
+Encore:
+01 Satan, Your Kingdom Must Come Down
+02 In Christ There is No East or West
+03 Far, Far Away
+04 Walken
+05 Airline to Heaven
+06 I Can't Keep From Talking
+07 Acuff-Rose
+

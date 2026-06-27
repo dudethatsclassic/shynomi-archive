@@ -1,10 +1,16 @@
-01 Seal My Fate.flac:29ad3d86178a195acdd40cf6050e9b14
-02 Puberty.flac:7d510027c854fbaf48e413c93aa0a82e
-03 Now They'll Sleep.flac:7455e72aa332811a64537936dc5940db
-04 Feed The Tree.flac:60d403c001304b05a46721ec4453bef0
-05 Judas My Heart.flac:6d9e07ada01d80f68f4eaba2e5b72203
-06 Superconnected.flac:54073558204d60f58d927844f3cb3409
-07 Red.flac:b88b71c0ed03b493efb285cb2e4e6736
-08 King.flac:71b64681985a926719782a22b1b9f45a
-09 Gepetto.flac:88e526c4e8346ce8aecfaddefe129bb1
-10 Slow Dog.flac:4cca7c5262ac4698e93298090ee5f2cf
+BELLY
+CAMBRIDGE,MA:FORT APACHE STUDIO
+6/15/95
+
+
+01. Seal My Fate 
+02. Puberty 
+03. Now They'll Sleep 
+04. Feed The Tree 
+05. Judas My Heart 
+06. Superconnected 
+07. Red 
+08. King 
+09. Gepetto 
+10. Slow Dog 
+  
