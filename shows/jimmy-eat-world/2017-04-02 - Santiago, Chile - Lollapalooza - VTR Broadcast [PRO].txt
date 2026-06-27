@@ -1,0 +1,27 @@
+Jimmy Eat World - 2017-04-02 - Lollapalooza Chile [PROSHOT 1080p]
+
+Jimmy Eat World - Lollapalooza Chile, Santiago, Chile
+Parque O'Higgins
+April 04, 2017 
+
+Lineage: VTR Cable Digital TV 1080i stream (Arris Set-Top Box)-> YK918H HDMI Recorder -> FFmpeg Loseless split -> .mp4
+
+Captured directly from the TV Broadcast, not the web streaming that has lower quality.
+
+Setlist:
+Bleed American
+Big Casino
+Get Right
+My Best Theory
+I Will Steal You Back
+You Are Free
+Futures
+Just Tonight...
+Pain
+Work
+Hear You Me
+Lucky Denver Mint
+A Praise Chorus
+Sure and Certain
+Sweetness
+The Middle

@@ -1,0 +1,45 @@
+JIMMY EAT WORLD
+2016-11-12
+Im Wizemann
+Stuttgart, Germany
+
+Source:     Schoeps MK4 > NBob actives > Naiant tinybox > Sony PCM-M10
+Mic Config: A-B
+Location:   ~5m from the stage, right side
+Transfer:   Master WAVs > dEdit > FLAC V1.3.1
+Editing:    Digital editing in Apple Logic Pro X V10.2.1
+            Volume boost using iZotope Ozone7 V7.0.1299
+            Single claps removed using iZotope RX 3 Declicker V3.02.812
+            Fades in Audiofile Engineering Wave Editor V1.5.7
+Dithering:  MBIT+
+Format:     16 bit / 44.1 kHz
+
+Disc 1:
+01 (Intro)
+02 Get Right
+03 Bleed American
+04 I Will Steal You Back
+05 Big Casino
+06 You with Me
+07 If You Don't, Don't
+08 Let It Happen
+09 Pass the Baby
+10 Futures
+11 Blister
+12 It Matters
+13 For Me This is Heaven
+
+Disc 2:
+01 Lucky Denver Mint
+02 The Authority Song
+03 You Are Free
+04 Always Be
+05 A Praise Chorus
+06 My Best Theory
+07 23
+08 Work
+09 > Pain
+10 (Encore Break)
+11 The Middle
+12 Sure and Certain
+13 Sweetness

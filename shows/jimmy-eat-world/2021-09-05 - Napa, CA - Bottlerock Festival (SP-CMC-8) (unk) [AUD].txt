@@ -1,0 +1,62 @@
+Jimmy Eat World
+2021-09-05
+Bottlerock Festival
+Jam Cellars Stage
+Napa, CA
+
+SOURCE: 
+SP-CMC-8 (w/Mods) > Sony PCM-M10 > Sandisk Mini-SD Card (32gb - Class 10)
+
+TRANSFER: 
+.WAV (24 Bit) > Adobe Audition 2021 CC (normalize/amplify/tracking/downsampling/dithering) > .WAV (16 Bit) > Trader's Little Helper > FLAC (Level 8) 
+
+SETLIST:
+
+00. Pain (missing)
+01. Futures (incomplete)
+02. Bleed American
+03. Lucky Denver Mint
+04. 555
+05. Sure and Certain
+06. Always Be
+07. All the Way (Stay)
+08. Hear You Me
+09. Work
+10. Blister
+11. Big Casino
+12. Sweetness
+13. The Middle
+
+NOTES:
+
+We originally had plans to possibly catch Jimmy Eat World at their pre-festival Thursday show (as we had plans to get in Napa early enough), but things/timing never came together for that, so instead I committed to seeing them at the actual festival instead (which I was likely planning on anyway). Of course, once set times came out, that meant going to the main stage at 3:15pm in the afternoon, pretty much at the heat of the day. It was going to be brutal (heat wise), there was no escaping or avoiding it. And naturally, the weather app showed the hottest temperatures were waiting for us come Sunday (because, why not?). I kid you not when I describe the main stage field as the "desert plains", as there is absolutely no shade, unless of course you shelled out extra cash for the VIP tickets, or even better than that, the "Platinum Experience", which granted you access to the "grandstands" they had set up on either side of the field, which included couches, cold drinks, and of course a roof providing much needed shade. But fuck that, I'm no bourgeoisie when it comes to attending festival. I'll "tough" it out in the "common" area with the rest of the GA peasants, I have no problem with that. If that means sitting under the baking sun, reapplying sunscreen every 20 minutes, and drinking warm water, then so be it. Actually though, scratch the "warm water" thing, because my friend Lex came up with the great idea of asking one of the folks working the wine/bar area next to the crowd for some ice, that she poured into her Nalgene bottle (a few different times at that) and voila: ice water has been created. It was a Godsend, let me tell you. If only I was that smart. I could have offered to give her my Nalgene bottle to go fill up with ice alongside hers, but naturally the one I brought was the "narrow mouth" version, which the ice wouldn't fit into. What fucking luck.
+
+Anyway, onto the band. The original plan was to set up shop in the main field around 2:30pm and bake all day. But once the "secret" Dave Grohl show was announced for the small acoustic stage (which was right across from the main stage), the plans changed, obviously. So instead, we baked until Dave came on, and then saw his set. But this presented a problem that would only worry a taper. Dave's set (which I had to record of course) ended at 3:15pm. Jimmy Eat World started on the main stage at 3:15pm. And there's the dilemma. I wanted to record both, but that meant I was going to miss the beginning of Jimmy Eat World as it would be impossible to go from the front of the acoustic stage when Dave ended, over to a spot at the main stage just in time for Jimmy Eat World. The timing wasn't going to work out. So I had to accept the first song (or two) of Jimmy's set would be missed or at the very least, "incomplete", which just drives me crazy when recording bands. I hate grabbing incomplete sets, it really messes with my anxieties and OCD, but if that was the only sacrifice to be made, I could live with it I suppose. But wait, there is another sacrifice. Because of Dave's secret set, I had to sacrifice all my free time (which would have been spent getting more food, more water, maybe even ice) to get a spot, and since Jimmy started right after, I had no time in between the sets to do any of that either. So it was right from Dave's set to the Jimmy set with no break in between, and once I got my spot for Jimmy, I couldn't leave or give that up either. Ahh, the festival life.
+
+Anyway, I had seen Jimmy Eat World only once before, back at Coachella 2011, when they played on the Outdoor Theatre. I remember seeing them from really far back while I chomped down on some Spicy Pie pizza (which Bottlerock had some of that). I was never a huge fan, but I do like the hits. This set of theirs, I'd classify as nothing special. Your basic festival set full of audience friendly hits, a couple songs off the first record (which I appreciated) and of course a bunch of bro's singing along, who always show up to the set late, but just in time, and always in the right spot, to get heard on your recording. Sigh.
+
+Big shout out to my friend Lex, not only for sharing her ice water with me, so we both didn't melt out there, but also for making a couple food runs while I held down the fort in the sea of blankets (rant coming soon!!!). Much love Lex, I owe you forever <3
+
+CHECKSUMS: 
+
+df0bddd5c1d2a88ee7f05e41629f46aa *jimmy-eat-world-2021-09-05-bottlerock-napa-aud-16bit-t01-futures.flac
+456f60d85b8efef4afff690695bbbf7f *jimmy-eat-world-2021-09-05-bottlerock-napa-aud-16bit-t02-bleed-american.flac
+8c404b8faba9f86e89b86447b3eaa16e *jimmy-eat-world-2021-09-05-bottlerock-napa-aud-16bit-t03-lucky-denver-mint.flac
+c9095aadd75a273cff42193089787f6c *jimmy-eat-world-2021-09-05-bottlerock-napa-aud-16bit-t04-555.flac
+e6f673fa631a5a81f62309aa1da49465 *jimmy-eat-world-2021-09-05-bottlerock-napa-aud-16bit-t05-sure-and-certain.flac
+715a7d5d740c2328986d37f70dd4f559 *jimmy-eat-world-2021-09-05-bottlerock-napa-aud-16bit-t06-always-be.flac
+998fe6f1cbcda1aba9d93c112533ac30 *jimmy-eat-world-2021-09-05-bottlerock-napa-aud-16bit-t07-all-the-way.flac
+22f392c575cd7795cb83d9ace18d3b04 *jimmy-eat-world-2021-09-05-bottlerock-napa-aud-16bit-t08-hear-you-me.flac
+520a3056dba9a3f0c6a0c96ce349724c *jimmy-eat-world-2021-09-05-bottlerock-napa-aud-16bit-t09-work.flac
+3f8ccea8db20fb89b9848357869bad4f *jimmy-eat-world-2021-09-05-bottlerock-napa-aud-16bit-t10-blister.flac
+bc6ca5891a95639d61dd05812ffd5bb6 *jimmy-eat-world-2021-09-05-bottlerock-napa-aud-16bit-t11-big-casino.flac
+2dbe6d9838c7399d09b9802c505549ae *jimmy-eat-world-2021-09-05-bottlerock-napa-aud-16bit-t12-sweetness.flac
+4bc1f2f9ef3813f699214e7ce5fbdbb0 *jimmy-eat-world-2021-09-05-bottlerock-napa-aud-16bit-t13-the-middle.flac
+
+Check out my site: 
+
+http://www.themojavetent.com 
+http://www.facebook.com/coachellarecordings 
+http://www.twitter.com/livecoachella
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT, OR ELSE THE KARMA POLICE WILL GET YOU***

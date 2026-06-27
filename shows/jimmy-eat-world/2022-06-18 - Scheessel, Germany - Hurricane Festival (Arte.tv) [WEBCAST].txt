@@ -1,0 +1,29 @@
+Jimmy Eat World
+2022-06-18
+Scheeßel, Germany
+Hurricane Festival
+
+source: arte.tv Mediathek (downloaded with MediathekView)
+
+01. Lucky Denver Mint
+02. The Middle
+
+
+Media info:
+
+Format                                   : MPEG-4
+Duration                                 : 7 min 14 s
+Overall bit rate                         : 2 311 kb/s (variable)
+Video Format                             : AVC
+Video bit rate                           : 2 200 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 FPS
+Standard                                 : PAL
+Scan type                                : Progressive
+Audio Format                             : AAC LC, stereo
+Audio bit rate                           : 125 kb/s
+Sampling rate                            : 48.0 kHz
+

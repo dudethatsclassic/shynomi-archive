@@ -1,0 +1,94 @@
+Jimmy Eat World
+KROQ Absolut Almost Acoustic Christmas
+Honda Center
+Anaheim, California
+December 7, 2019
+
+Lineage: LIVE Webcast -> Streamlink -> FFmpeg (edit) -> uncompressed .ts
+Video: MPEG4 Video (H264) 1280x720 16:9 2750 Kbps 30.00 fps
+Audio: AAC 192 Kbps 48.0 KHz stereo
+
+Setlist:
+-introduction- 
+Pain
+Work
+Love Never
+Bleed American
+555
+Last Christmas (Wham! cover)
+Hear You Me
+Sweetness
+The Middle
+
+TRT = 00:34:29
+
+Note: This is a perfect capture of the webcast.
+No imperfections were inherent in the broadcast.
+
+Captured and uploaded to DIME by indykid.
+
+MediaInfo:
+General
+ID                                       : 1 (0x1)
+Complete name                            : Jimmy Eat World - 2019-12-07 KROQ Absolut Almost Acoustic Christmas [720p].ts
+Format                                   : MPEG-TS
+File size                                : 726 MiB
+Duration                                 : 34 min 29 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 940 kb/s
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, RefFrames               : 4 frames
+Format settings, GOP                     : M=1, N=60
+Codec ID                                 : 27
+Duration                                 : 34 min 30 s
+Bit rate mode                            : Variable
+Maximum bit rate                         : 2 703 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 30.000 FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Format version                           : Version 4
+Muxing mode                              : ADTS
+Codec ID                                 : 15-2
+Duration                                 : 34 min 30 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : -1 s 11 ms
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Duration                                 : 34 min 29 s
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television
+
+Captured and uploaded to DIME by indykid.

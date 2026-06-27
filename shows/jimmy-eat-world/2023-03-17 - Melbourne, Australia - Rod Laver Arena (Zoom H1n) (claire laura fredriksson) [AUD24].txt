@@ -1,0 +1,57 @@
+Jimmy Eat World
+Rod Laver Arena
+Melbourne, Australia
+March 17, 2023
+
+Supporting My Chemical Romance (taped)
+
+Taped by Claire Laura Fredriksson (CLF, choc e_Claire, fuzzbluerain, etc.)
+Specs: Zoom H1n internal mics, bass rolloff @ 80hz, held at waist level
+Position: O258, section 15
+Lineage: 24/48 .wav > DarkAudacity (fades, tracking) > TLH (level 8 FLAC) > foobar2000 (tagging)
+
+Track listing:
+ 1. Futures            5:11
+ 2. Pain               2:53
+ 3. Sweetness          4:33
+ 4. Criminal Energy    3:13
+ 5. Big Casino         4:01
+ 6. 23                 6:54
+ 7. Just Tonight...    3:28
+ 8. Work               3:21
+ 9. Lucky Denver Mint  3:22
+10. Hear You Me        6:18
+11. Something Loud     3:40
+12. A Praise Chorus    3:57
+13. Bleed American     3:37
+14. The Middle         3:56
+---------------------------
+    total             58:24
+
+Review:
+This was the first time the opening act for a show has been an artist I've heard of! Jimmy Eat
+World, Arizona's finest, returned to Australia as the opening act for My Chemical Romance's reunion
+tour (not the first time these two bands have played together here - back in 2005, both had opening
+sets for Green Day).
+
+Most of MCR's 2022 shows had had two or even three opening acts, but Jimmy Eat World were the only
+one for their Australian leg, meaning that they got a full hour to perform, and they made the most
+of it. I'm only passingly familiar with the band (they only played one song from Clarity, wisely
+sticking to the two big records after it), but they were amazing - and I have to say it, full
+credit to the sound engineers at Rod Laver, the venue's sound was really good. Was an ideal opening
+act, and my recording is pretty nice as well (although a few people start showing up near me in
+the second half of the set, so it gets worse).
+
+Personnel:
+Jim Adkins – lead guitar, lead vocals
+Tom Linton – rhythm guitar, backing vocals
+Rick Burch – bass guitar, backing vocals
+Zach Lind – drums, percussion
+
+Robin Vining – keyboards, backing vocals
+
+Requests:
+Please don't sell this - nobody, tapers or artists, will like you if you do.
+Please keep this info file around if you post it anywhere else (which you're welcome to do!)
+If you give this recording a remaster/matrix treatment, please message me before you do so.
+I can be reached on Twitter (fuzzybluerain) or Dimeadozen (fuzzbluerain) most easily.

@@ -1,0 +1,67 @@
+Jimmy Eat World
+2004-09-14
+Potsdam, Germany
+RBB Radio Fritz studios
+
+
+Lineage: Terrestric FM reception (102.6 FM) > JVC analog tuner > unknown soundcard (recording in mono) > WAV (16bit, 44.1 KhZ) > track splits (CDWav) > CDR > EAC secure rip > FLAC
+
+
+Setlist:
+
+01. radio intro
+02. Bleed American
+03. A Praise Chorus
+04. Futures
+05. Get It Faster
+06. Work
+07. Lucky Denver Mint
+08. Pain
+09. Thinking, That's All
+10. Nothingwrong
+11. The Middle
+12. Sweetness
+
+
+Full band electric in-studio concert in front of just a few dozen people, broadcast live. Includes two photos from the gig.
+
+I was lucky enough to attend this small gig myself (check out my crappy phone camera photos!), but this also meant I had to set up the tuner/computer in a hurry, and I made a mistake and sadly only recorded one channel of the broadcast. So this recording is mono, I'm very sorry.
+
+This recording hasn't circulated as far as I know. There is an MP3 version going around, which is in stereo, but (a) it's lossy and (b) I think it was recorded from the Fritz webcast, not from FM. I think this recording here has better sound, even though it's only mono. If anyone has a stereo FM recording, then please share!
+
+There's pretty much nothing above 15 KHz in the spectogram for this recording, but this is just because of the FM compression. I recorded and edited this myself and am sure that, apart from the FM compression, there is no compression (mp3 or otherwise) in the lineage.
+
+
+MD5 checksums (also included in separate file):
+
+5a6e2889bf5765c742c1397d142480ed *01. radio intro.flac
+3d892c9925f065fcff81ee58d35ca226 *02. Bleed American.flac
+8883197bbcd3549cdb352f691ef8bdda *03. A Praise Chorus.flac
+f6055e13e68eaca67712f255ec821cd3 *04. Futures.flac
+0ec05ffbb2a08184ad5a472e0dd89330 *05. Get It Faster.flac
+75ec71c0823459c8174870d964b9a0ae *06. Work.flac
+206f63e493c4f0e8b6a4566953719bd3 *07. Lucky Denver Mint.flac
+d6b80afea4f84464689848e8814d457e *08. Pain.flac
+144f93c75447027ca38e4f2e1fcc49dc *09. Thinking, That's All.flac
+5de0a207b08e151c36379d8a9ad0242a *10. Nothingwrong.flac
+da5b38671409e612d9b5e490904686b6 *11. The Middle.flac
+c5a7a96ec607cefd7bc7282459f7aa62 *12. Sweetness.flac
+
+
+FFP fingerprints (also included in separate file):
+
+01. radio intro.flac:83f0442127479c0030e0188a2b0a155b
+02. Bleed American.flac:5777186f62ef164702c653e9c1009470
+03. A Praise Chorus.flac:12c9f29430c6829dea59fd34615815c6
+04. Futures.flac:e6f5df7277db8e9057fbd64825b12270
+05. Get It Faster.flac:347aed03b05b2e84a118717f274268fe
+06. Work.flac:163f04c34370f95f09d4ab0de4a88a26
+07. Lucky Denver Mint.flac:6be3bc788a0b87d7d9c5f7d52abacc29
+08. Pain.flac:f6804af7d896ae5f99a6444ceb5c20d4
+09. Thinking, That's All.flac:c8da9006b1a3bc57150acc1884e86255
+10. Nothingwrong.flac:e3fc5d291cd60caff10129e80f6e4efe
+11. The Middle.flac:e06966072ca3c44d3a33fe1bb6149e81
+12. Sweetness.flac:5eb89c49e08941909804f84e23b4c0a0
+
+
+

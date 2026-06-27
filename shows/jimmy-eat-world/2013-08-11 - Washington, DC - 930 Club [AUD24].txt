@@ -1,0 +1,50 @@
+JIMMY EAT WORLD
+2013/08/11 - 930 Club; Washington DC, USA
+
+Taper: travelinbeat
+Source: CA-14's (Cards) > Church Audio ST-9100 > Edirol R09-HR @ 24/96
+Location: *STEALTH*
+Editing:  Tracking, fades, and EQ were done while the show was laid in Sony Soundforge 9.0a (Build 297) as a wav file.  Audience applause between songs was mitigated using the "Click and Crackle" removal tools.   Periodic loud points were gently enveloped to allow for more headroom in normalization.  Normalization performed on each channel independently to -0.10dB.
+Conversion: Trader's Little Helper v.2.7.0 (Build 172)
+
+
+
+TRACKLIST:						TIME:
+
+01. Intro						01:39
+02. I Will Steal You Back				03:17
+03. Big Casino						03:40
+04. My Best Theory					04:04
+05. Appreciation					03:16
+06. Your New Aesthetic					02:44
+07. Lucky Denver Mint					03:16
+08. Hear You Me						05:10
+09. Futures						04:04
+10. Kill						04:42
+11. Work						03:23
+12. We Are Never Ever Getting Back Together *		04:32
+13. For Me This Is Heaven #				03:52
+14. Heart Is Hard To Find				03:19
+15. Damage						03:26
+16. Let It Happen					03:22
+17. Pain						03:56
+18. Always Be						03:09
+19. No, Never						03:59
+20. Coffee and Cigarettes				03:46
+21. Authority Song					04:03
+22. A Praise Chorus					03:53
+23. Sweetness						03:33
+24. Bleed American					05:22
+25. Chase This Light					03:44
+26. 23							08:08
+27. The Middle						04:14
+
+					 GRAND TOTAL-  105:34
+
+* - Originally performed by Taylor Swift
+# - Jim Adkins, solo
+
+
+
+MISC NOTES:
+Second time seeing Jimmy Eat World at 930 Club, the first time was nearly 6 years earlier on Oct 30, 2007.  They are consistently awesome live and I'm really glad that I was able to scoop a pair of tickets during the presale as the show sold out in just a couple of minutes!  The show was opened by "Royal Bangs," whom I also recorded.

@@ -1,0 +1,29 @@
+Jimmy Eat World
+Rock Werchter Festival
+Werchter, Belgium
+July 3, 2022
+
+Lineage: Official Webcast -> FFmpeg (capture & edit) -> uncompressed .ts
+Video: 1280x720 - H264 - 1500Kbps - 25fps
+Audio: AAC 96Kbps - 48.0 KHz - Stereo
+
+Setlist:
+Futures
+Pain
+Bleed American
+All the Way (Stay)
+Big Casino
+A Praise Chorus
+Sure and Certain
+Let It Happen
+Work
+Blister
+Hear You Me
+Something Loud
+Lucky Denver Mint
+Sweetness
+The Middle
+
+Length: 00:57:55
+
+Captured and uploaded to DIME by Paulo Dapper.
