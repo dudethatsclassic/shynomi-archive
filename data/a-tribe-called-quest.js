@@ -22,11 +22,10 @@ const ARTIST_DATA = {
       "city": "Hollywood",
       "state": "CA",
       "location": "Hollywood, CA",
-      "venue": "The Palace - ANA",
+      "venue": "The Palace",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 Unknown",
-      "textFile": "1990-04-20 - Hollywood, CA - The Palace - ANA(M) (unk) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1992,
@@ -37,9 +36,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Live on David Letterman",
       "venue": "",
+      "notes": "",
       "version": "TV",
-      "format": "MP4",
-      "notes": ""
+      "format": "MP4"
     },
     {
       "year": 1996,
@@ -49,10 +48,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "Golden Gate Park - Tibetan Freedom Concert",
+      "venue": "Golden Gate Park",
+      "notes": "Tibetan · unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -63,9 +62,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
+      "notes": "unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -75,11 +74,10 @@ const ARTIST_DATA = {
       "city": "New York",
       "state": "NY",
       "location": "New York, NY",
-      "venue": "Madison Square Garden - DAT",
+      "venue": "Madison Square Garden",
+      "notes": "DAT(M)",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M",
-      "textFile": "1998-08-21 - New York, NY - Madison Square Garden [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -90,9 +88,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "House of Blues",
+      "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "",
       "textFile": "1998-11-20 - Chicago, IL - House of Blues [SBD].txt"
     },
     {
@@ -104,9 +102,9 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Columbia, MD",
       "venue": "Merriweather Post Pavilion",
+      "notes": "travelinbeat",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "travelinbeat",
       "textFile": "2010-08-29 - Columbia, MD - Merriweather Post Pavilion [AUD24].txt"
     },
     {
@@ -118,9 +116,9 @@ const ARTIST_DATA = {
       "state": "Brazil - Sesc",
       "location": "Santo Andre, Brazil - Sesc",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "MP4",
-      "notes": ""
+      "format": "MP4"
     }
   ],
   "misc": [
