@@ -1,0 +1,13 @@
+01. Omaha.wav:  successfully encoded to '01. Omaha.flac' (ratio = 0.574; 272 bytes to be carried over for sector alignment).
+02. Time and Time Again.wav:  successfully encoded to '02. Time and Time Again.flac' (ratio = 0.584; 1232 bytes to be carried over for sector alignment).
+03. Jumpin Jesus.wav:  successfully encoded to '03. Jumpin Jesus.flac' (ratio = 0.587; 1232 bytes to be carried over for sector alignment).
+04. Ghost Train.wav:  successfully encoded to '04. Ghost Train.flac' (ratio = 0.555; 928 bytes to be carried over for sector alignment).
+05. Round Here.wav:  successfully encoded to '05. Round Here.flac' (ratio = 0.574; 1832 bytes to be carried over for sector alignment).
+06. Wiseblood.wav:  successfully encoded to '06. Wiseblood.flac' (ratio = 0.596; 848 bytes to be carried over for sector alignment).
+07. Mr. Jones.wav:  successfully encoded to '07. Mr. Jones.flac' (ratio = 0.597; 1432 bytes to be carried over for sector alignment).
+08. Anna Begins.wav:  successfully encoded to '08. Anna Begins.flac' (ratio = 0.571; 2248 bytes to be carried over for sector alignment).
+09. Perfect Blue Buildings.wav:  successfully encoded to '09. Perfect Blue Buildings.flac' (ratio = 0.550; 1688 bytes to be carried over for sector alignment).
+10. Children in Bloom.wav:  successfully encoded to '10. Children in Bloom.flac' (ratio = 0.602; 2072 bytes to be carried over for sector alignment).
+11. A Murder of One.wav:  successfully encoded to '11. A Murder of One.flac' (ratio = 0.586; 2152 bytes to be carried over for sector alignment).
+12. Margery.wav:  successfully encoded to '12. Margery.flac' (ratio = 0.599; 1824 bytes to be carried over for sector alignment).
+13. Sullivan Street.wav:  successfully encoded to '13. Sullivan Street.flac' (ratio = 0.553; 752 zero-bytes appended for sector alignment).

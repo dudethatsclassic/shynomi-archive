@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "Webster Hall",
       "notes": "",
       "version": "AUD #1",
-      "format": ""
+      "format": "",
+      "textFile": "2014-12-29 - New, York, NY - Webster Hall [AUD1].txt"
     },
     {
       "year": 2014,
@@ -34,7 +35,8 @@ const ARTIST_DATA = {
       "venue": "Webster Hall",
       "notes": "",
       "version": "AUD",
-      "format": "2 sources"
+      "format": "2 sources",
+      "textFile": "2014-12-30 - New, York, NY - Webster Hall (iPhone) [AUD].txt"
     },
     {
       "year": 2014,
@@ -47,7 +49,8 @@ const ARTIST_DATA = {
       "venue": "Webster Hall",
       "notes": "",
       "version": "",
-      "format": ""
+      "format": "",
+      "textFile": "2014-12-30 - New, York, NY - Webster Hall [AUD1].txt"
     },
     {
       "year": 2015,
@@ -60,7 +63,8 @@ const ARTIST_DATA = {
       "venue": "Fillmore",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2015-12-29 - San Francisco, CA - Fillmore [AUD].txt"
     },
     {
       "year": 2015,
@@ -73,7 +77,8 @@ const ARTIST_DATA = {
       "venue": "Fillmore",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2015-12-30 - San Francisco, CA - Fillmore [AUD].txt"
     }
   ],
   "misc": []

@@ -1,0 +1,23 @@
+10.22.00
+Orlando TD Waterhouse Center Orlando, FL
+
+Source: Sony TCD-D100 DAT recorder with Sonicstudios DSM-6SM binaural microphones.
+
+Conversion: Tascam DA-20MkII DAT deck > Terratec EWS sound card > Cool Edit Pro > CD Wav > mkW Audio Compression tool
+
+Location: Recorded dead center - section F5 in front of soundboard.
+
+
+Setlist:
+
+01. Intro
+02. Rain King
+03. Daylight Fading
+04. Mrs. Potter's Lullaby
+05. Recovering the Satellites
+06. Speedway
+07. Anna Begins
+08. Private Archipelago
+09. A Long December
+10. Murder Of One
+11. Hangin' Around

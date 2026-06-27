@@ -1,0 +1,42 @@
+Thrice
+August 19th 2008
+Markthalle
+Hamburg
+
+Source: OKMII (Pop/AV) > A3 (-20db) > iRiver iHP-120 (Rockbox) WAV@44kHz/16bit 
+Location: approx. 4m in front of left stacks
+Lineage: Master WAVs > EQ > FLAC
+Editing: EQ, amplify, tracksplits and fades w/ SoundStudio 3.5.6
+Encoding: Flac 1.2.0 Level 8 w/ xACT 1.62
+
+00 intro
+01 all that's left
+02 silhouette
+03 firebreather
+04 digital sea
+05 the messenger
+06 of dust and nations
+07 for miles
+08 the whaler
+09 the earth isn't humming <frodus>
+10 the artist in the ambulance
+11 broken lungs
+12 stare at the sun
+13 hold fast hope
+14 daedalus
+15 deadbolt
+16 red sky
+16 encore-break
+17 come all your weary
+18 the earth will shake
+
+80:36 min.
+
+Notes: There is some distortion coming from the PA during "of dust and nations"
+
+
+
+************************************************************************************************
+******************** DON'T ENCODE TO ANY LOSSY FORMAT (MP3, WMA, OGG...) ***********************
+*********************************** DON'T SELL THIS RECORDING **********************************
+************************************************************************************************

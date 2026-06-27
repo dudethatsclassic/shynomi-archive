@@ -1,0 +1,44 @@
+Incubus
+August 4, 2001
+Westmoreland County Fairgrounds
+Pleasant Unity, PA
+
+
+DISC 1/1 (57:06)
+----------------
+01) intro
+02) Privilege
+03) Clean
+04) Stellar
+05) Make Yourself
+06) Nowhere Fast
+07) Nice to Know You
+08) Drive
+09) Nebula
+10) The Warmth
+11) Vitamin
+12) Pardon Me
+
+
+LINEAGE
+----------------
+MD(M) > WAV [44.1kHz] > FLAC [Level 8]
+
+SOURCE
+----------------
+Sound Professionals SP-BMC-1 > Sharp MD-MS702
+
+MD5 Checksum
+----------------
+4ae0e3948ee888593c87707856e0886c *Incubus_2001-08-04_t01.flac
+6b8082bb413383f951d0b82e0633f805 *Incubus_2001-08-04_t02.flac
+d82d340e465bdc753b1267dee1f46947 *Incubus_2001-08-04_t03.flac
+3aa86e916c09baf67577da549936ebde *Incubus_2001-08-04_t04.flac
+7a85eac90916586563ed489b971510d0 *Incubus_2001-08-04_t05.flac
+cce8f297d59b6907f04c232a91551b1f *Incubus_2001-08-04_t06.flac
+9225e1d13e20da3a41ec76a0db3129ae *Incubus_2001-08-04_t07.flac
+745d9b06989bce02f0c2e7070364e3e2 *Incubus_2001-08-04_t08.flac
+2b867380a56217305212ec6a615c286d *Incubus_2001-08-04_t09.flac
+68f74370bbc55e46fbdfde0ee8939b79 *Incubus_2001-08-04_t10.flac
+1794c0e052388832e70e1c5f914661e7 *Incubus_2001-08-04_t11.flac
+9ac5ecdb559eb1d6fba4550bc3143009 *Incubus_2001-08-04_t12.flac

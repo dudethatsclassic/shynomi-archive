@@ -1,0 +1,61 @@
+Incubus
+October 3rd, 2021.
+Rose Music Center - Huber Heights, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   section 101, row C, seat 3; mics mounted on shoulder.
+            (see chart here: http://www.ticketmaster.com/seatingchart/181010/61483)
+Source:     CA-14 Cardioids > CA-9200 > Sony PCM-M10 (24 bit @48kHz) >  
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  SanDisk 32GB MicroSD Card > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (1:51:08)
+
+01. Nice To Know You *				7:34
+02. Circles					5:38
+03. Wish You Were Here				4:25
+04. Just A Phase				6:19
+05. Anna Molly					5:05
+06. Stellar					3:59
+07. Glitterbomb					5:28
+08. The Warmth					6:56
+09. Sick Sad Little World			7:25
+10. Talk Shows On Mute				4:16
+11. Drive					4:46
+12. Karma, Come Back				5:13
+13. A Kiss To Send Us Off			4:52
+14. Are You In?					5:53
+15. In The Company Of Wolves			8:16
+16. A Crow Left Of The Murder			4:48
+17. Warning					5:16
+18. ~ Encore ~					3:02
+19. On Without Me				4:58
+20. Megalomaniac				7:02
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+* Features extended jam intro.
+
+This show was originally scheduled for Sunday, September 5th. The night before
+Labor Day. Sadly, a touring member tested positive for COVID-19 and the show was
+moved a month later. Luckily for me, a few good seats opened up because of some
+ticket refunds. I happened to see a pair in my preferred location and snatched
+them up week of. We lucked out with weather as you never know what October may
+bring. This was an outdoor (but covered) show, so we were never worried about 
+rain, but thunder/lightning could have been an issue. Thankfully, the rain held
+off and we had none. Just cloudy skies with temps in the low 70s/high 60s at
+showtime. The recording went surprisingly well. I had 2 occasionally loud girls
+to my right and did my best removing their "whoo's!" & screams when needed in 
+iZotope RX 7. You may hear Brandon's microphone shorting out during "Circles".
+This was quickly corrected by "Wish You Were Here".
+
+Not a bad show for my final outdoor recording of 2021. Can't wait for the next
+Incubus tour.
+
+---------------------------------------------------------------------------------------------------------
+For more information on Incubus, please visit:
+
+https://www.incubushq.com/

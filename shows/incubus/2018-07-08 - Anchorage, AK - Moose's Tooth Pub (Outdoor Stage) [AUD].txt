@@ -1,0 +1,116 @@
+Incubus
+Moose's Tooth Pub & Pizzeria (Outdoor Stage)
+Anchorage, AK
+July 8, 2018
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P w/3-way lo-cut filter (@ 80hz, middle setting) > Tascam DR-2d @ 16 bit/44.1 kHz 
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [Waves GEQ Classic plugin (EQ - see settings below); iZotope Mastering Suite                   (declick); minor edits, normalize, & fades] > CDWav tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner                   6.0.18 (tagging) 
+Location:  Right side of the Soundboard, 30-40 yards from the stage, DFC
+Recorded by:  Steve "ballsdeep" Hagar 
+Mastered by:  Dennis Orr, with EQ settings suggested by steve Hagar
+
+Setlist: (1:46:27)
+01 Quicksand
+02 A Kiss To Send Us Off
+03 Glitterbomb
+04 Anna Molly
+05 Megalomaniac
+06 Privilege
+07 State Of The Art
+08 Circles >
+09 Echo
+10 Pardon Me
+11 Adolescents
+12 No Fun
+13 Isadore
+14 Are You In? (with snippet of Snoop Dogg's "Gin And Juice")
+15 Nimble Bastard
+16 Nice To Know You
+17 Wish You Were Here (With snippet of Pink Floyd's "Wish You Were Here")
+18 Encore Break
+- Encore -
+19 Punch Drunk
+20 Drive
+21 A Crow Left Of The Murder (With snippet of Ginuwine's "Pony")
+
+Brandon Boyd - lead vocals
+Mike Einziger - guitar & backing vocals
+Ben Kenny - bass & backing vocals
+Chris Kilmore - turntables, keyboards, theremin, & synthesizers
+José Pasillas II - drums
+
+Mastering Notes:
+EQ Settings:
+40 Hz - minus 6 dB
+63 Hz - minus 10 dB
+100 Hz - minus 2 dB
+160 Hz - plus 2 dB
+400 Hz - plus 4 dB
+1 kHz - minus 4 dB
+1.6 kHz - plus 2 dB
+4 kHz - minus 2 dB
+10 kHz - plus 2 dB
+16 kHz - plus 4 dB
+
+Show Notes:
+Well, there was a threat of rain, and based on the 20 mph gusts at my friends in Palmer (40 miles out), was not looking forward to this very much.
+
+Ya ever take a dump and find that gold nugget in there, or, analogous for "where nearly every taping obstacle the night previous was obliterated out of the gate"?
+
+To recap:
+
+- Was not sold out. maybe just over half full (1500 tops). So I basically stood right where the pitbull ladies would have touched me...if there were even people nearby. Could have extended my arms fully, in a 360 motion, and touched no one...this...
+
+- ...mitigated the droning geese (the people who won't STFU, all show long). Sure, you hear a tiny bit of chatter here and there, but it's much more of an effort to make out 95% of what's said...to the point of straining to hear them. #thankyouSonicStudios  Or, with a bit of EQ (a huge pull down on 63 Hz, and a bit less on 40 Hz, and tweaks the rest of the way across), the music here really shines.
+
+- The rain never materialized...and the wind only 'picked up' (could feel it on my hand holding the backup internals source) twice...near the 40 and 73 minute marks of the raw file...spot checking those 2 areas, it's not very noticeable
+
+- The setlist itself...a "Gin & Juice" outro/coda to "Are You In?"...at least 6 songs not played the night before (possibly more, as the opening number "Quicksand" was crossed off of the setlist received from the light tech...and I'm not familiar enough with their material...in conjunction with the lack of sleep right now to determine.
+
+Staying up till 9am to return the car, which will have been 22 hours awake, with a 350 mile drive each of the last two days...almost took out a pair of baby moose just standing in the middle of the road 100 miles from home (with no mom in sight), but whipped it into the oncoming lane about 70 mph and went along the left side of them...the one on the side of the road fell down (yeah, they were that tiny).
+
+B.S.'d with the light guy for a bit, he's done a lot of shows for Primus (he was up here with them in '13), we mentioned Oscar (Clutch's manager), and he was allowed to pick a few from my 'nug box' as a thanks for the setlist.
+
+His description of this band is if you put Faith No More, RHCP and 311 in a blender.
+
+I'd tend to agree.
+
+Was it worth it, going all that way???
+
+FUCK YEAH it was.
+
+Not sure if Dennis likes these guys, but you could *thank him*, or share an anecdote about Stinky-bus...or bake him a pie...or some cookies.
+
+Just hand me the toilet brush...it's understood.
+
+Well, there's gonna be a bit of a break until the last half of August...but there's a few treats in store come then.
+
+Then Sept/Oct...look OUT!
+
+Promise.
+
+---ballsdeep is off looking for a pillow and blanket!
+
+Incubus2018-07-08t01.flac:42d2d15fd829c3e13471f6bfa992ff39
+Incubus2018-07-08t02.flac:180ce1690033989fdc071d7c5e645ac6
+Incubus2018-07-08t03.flac:47b010a141477022121d519b723441f5
+Incubus2018-07-08t04.flac:d9f043a851d06e683aacdf09d111024f
+Incubus2018-07-08t05.flac:d366fa1d6ce0b46a86c04d305aa7124f
+Incubus2018-07-08t06.flac:3c7235883950ae96637fe0c9466ac996
+Incubus2018-07-08t07.flac:0b31afc35e1420b416ff64c584bcd3b9
+Incubus2018-07-08t08.flac:b744489d6caf92b1112097efaacfdb25
+Incubus2018-07-08t09.flac:ca10b90f0e7c109029660b18a1b4acc9
+Incubus2018-07-08t10.flac:16a0068f6609e87092d7905e62f77a8e
+Incubus2018-07-08t11.flac:cdf1b76c118b7b382012047973ec0167
+Incubus2018-07-08t12.flac:3f9e6527e6861a76d1534bf7c42a7992
+Incubus2018-07-08t13.flac:d484cf4ffba61aedbffbffcdeb48a2af
+Incubus2018-07-08t14.flac:69be734adafa66e5647c16715c2bd626
+Incubus2018-07-08t15.flac:469e47e8f99dfeb6fa311e6f687e0984
+Incubus2018-07-08t16.flac:4f2c17315fc7e4baff8d432b3b2c3dc8
+Incubus2018-07-08t17.flac:e5aa22c8d2deee7c2d23d11168e0f176
+Incubus2018-07-08t18.flac:4b19d682679920a7c422eda9a69575ed
+Incubus2018-07-08t19.flac:6a60c5b2aff26abdbcae5d52330354b8
+Incubus2018-07-08t20.flac:2fa01193de9e024dea1cc4f1c124a380
+Incubus2018-07-08t21.flac:251f82b85be079ba2fb7c9ca345d40b1

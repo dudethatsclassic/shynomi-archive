@@ -1,0 +1,11 @@
+Counting Crows
+March 25, 2008
+The View
+
+1. You Can't Count on Me
+
+568.6MB
+720p HDTV MPG
+Dolby Digital 5.1
+
+OTA HDTV broadcast -> pcHDTV 5500 -> mythtv 0.20.2 -> Lossless transcode

@@ -1,0 +1,40 @@
+Counting Crows
+Capitol Theatre
+Port Chester, NY
+October 23, 2012
+Digital Soundboard
+
+FLAC > Trader's Little Helper (decode to wav) > GoldWave (duplicate single monaural one-track file into two channels, insert .026 seconds of silence at start of duplicated right channel to simulate stereo, track splits, fades) >Trader's Little Helper (fix SBEs, encode to FLAC (Level 6) > MP3tag (tag tracks)
+
+Artwork from 2012 (not this show)
+
+
+01 Sullivan Street
+02 Untitled (Love Song) (The Romany Rye cover)
+03 High Life
+04 I Wish I Was a Girl
+05 banter 1
+06 Hospital (Coby Brown cover)
+07 Colorblind
+08 Recovering the Satellites
+09 Start Again (Teenage Fanclub cover)
+10 Anna Begins
+11 Meet on the Ledge (Fairport Convention cover)
+12 Children in Bloom
+13 banter 2
+14 Friend of the Devil (Grateful Dead cover)
+15 banter 3
+16 Mercy (Tender Mercies cover)
+17 Look at Miss Ohio (Gillian Welch cover)
+18 A Long December
+19 Return of the Grievous Angel (Gram Parsons cover)
+20 Rain King
+21 encore applause
+
+Encore:
+22 banter 4
+23 Washington Square
+24 banter 5
+25 You Ain't Goin' Nowhere (Bob Dylan cover)
+26 banter 6
+27 Holiday in Spain 

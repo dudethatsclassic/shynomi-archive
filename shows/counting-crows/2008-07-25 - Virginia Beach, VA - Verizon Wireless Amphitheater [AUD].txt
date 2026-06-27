@@ -1,0 +1,21 @@
+Counting Crows
+July 25, 2008
+Verizon Wireless Amphitheater
+Virginia Beach, VA
+
+Taper: John Kelly (john@taperssection.com)
+Source: Sennheiser MKH8040st > Sound Devices 702
+Location: Section 101 row F, Seats 9 & 10 (right stack)
+Transfer: SD702 > Firewire > MacBook
+Conversion: Sound Studio 3.5.5 > xACT 1.64
+
+This source is 16bit 44.1khz.  A 24bit 96khz version is available.
+
+******************************************************************
+***        This Source Released Under A Creative Commons       ***
+*** Attribution-Noncommercial-Share Alike 3.0 Unported License ***
+******************************************************************
+
+01 Intro (Lean on Me) >               02:54.36502 Le Ballet D'or                     05:01.23103 Have You Seen Me Lately            04:11.97104 Hanging Tree                       03:43.29105 Mr Jones                           04:41.76606 Colorblind                         03:45.76707 Cowboys                            05:19.13508 Intro >                            02:10.97909 Good Time >                        05:16.50010 Round Here *                       09:02.72811 St Robinson and His Cadillac Dream 05:47.41012 A Long December                    06:16.05513 Hangin Around                      06:23.66014 PSA > Holiday In Spain             07:49.588Total: 72:24.445
+Notes:
+* 'Mary Queen of Arkansas' intro, 'Did You Think That You Were Dreaming' & 'Have You Seen Me Lately' alts

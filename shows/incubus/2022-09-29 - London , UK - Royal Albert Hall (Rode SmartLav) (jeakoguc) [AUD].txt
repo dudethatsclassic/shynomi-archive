@@ -1,0 +1,31 @@
+Incubus
+Royal Albert Hall
+London, United Kingdom
+29th September 2022
+
+Taper: jeakoguc
+Source: RØDE smartLav+ > RØDE SC6-L > RØDE Reporter app
+Lineage: wav 24/48 (stereo) > audacity (fixes, multiband compressor, eq, splitting) > wav 16/48 > xACT (flac level 8, tagging, checksum)
+Location: Left circle
+
+Setlist:
+01 - Intro (Money for Nothing)
+02 - Nice to Know You
+03 - Circles
+04 - Wish You Were Here
+05 - Anna Molly
+06 - Just a Phase
+07 - Are You In?
+08 - Sick Sad Little World
+09 - Stellar
+10 - Megalomaniac
+11 - Nowhere Fast
+12 - Mexico
+13 - Pardon Me
+14 - Karma, Come Back
+15 - Vitamin
+16 - The Warmth
+17 - Dig
+18 - Encore Break
+19 - Warning
+20 - Drive

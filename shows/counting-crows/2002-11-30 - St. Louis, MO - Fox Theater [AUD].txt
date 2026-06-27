@@ -1,0 +1,58 @@
+Counting Crows
+November 30, 2002
+Fox Theatre
+St. Louis, MO
+
+Taper:		Adam Meyer
+Source:		Sp-CMC-8's > SP Battery Box > Sharp 702
+Location:	From Hat Section, VIP 5  Row k
+Conversion:	Mark Phillips
+		Sony MDS-JB940 > Frontier Design Group Wavecenter/PCI > Cdwav > 
+		Soundforge 5.0 (normalizing) > Cdwav (Tracking) > MKW (SHN)
+
+
+*** DO NOT ENCODE THIS SHOW INTO MP3 OR ANY OTHER LOSSY FORMAT ***
+
+DISC ONE	
+Track	Title				Time		
+---	
+01.	Intro				00:01:53		
+02.	Mrs. Potter's Lullaby		00:07:51
+03.	Hard Candy			00:04:34
+04.	Mr. Jones			00:04:32
+05.	Time and Time Again		00:05:23
+06.	Richard Manuel is Dead		00:03:59
+07.	Omaha				00:07:28
+08.	American Girls			00:04:27
+09.	Rain King			00:06:02
+10.	Long December			00:05:27
+11.	Big Yellow Taxi			00:03:31
+12.	New Frontier			00:03:55
+13. 	Catapult			00:03:36
+14. 	Goodnight Elizabeth		00:07:10
+
+
+---	
+Total:					01:09:48   
+
+
+DISC TWO
+Track	Title				Time		
+---	
+01.	Miami (cut) >			00:03:00		
+02.	A Murder of One			00:09:27
+03.	Blues Run The Game*		00:04:33
+04.	Hangin Around#			00:05:31
+05.	Holiday In Spain		00:04:46
+
+
+---	
+Total:			 		00:27:17
+
+
+*	Adam And Immy Only
+#	With Uncle Kracker
+
+Note:  	This is a minidisc source, the cut at the beginning of Miami is because of the switch of disc.
+
+*** DO NOT ENCODE THIS SHOW INTO MP3 OR ANY OTHER LOSSY FORMAT ***

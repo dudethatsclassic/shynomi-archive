@@ -1,0 +1,22 @@
+a23ca0d25e0b6bae3913db65be9a6a79 *D1 01 intrro.flac
+99399e82d66ae07a30fd9ae34278628f *D1 02 Round Here.flac
+3be8ffd61b84b116f6728893946f662a *D1 03 Scarecrow.flac
+d97b900d92af0fbaa8409065ecc8ee42 *D1 04 Mr. Jones.flac
+0252ba7801637799a488bb009a317ec8 *D1 05 John Appleseed's Lament.flac
+24852a4b44f7978c7b82c7574cb1aa70 *D1 06 Hard Candy.flac
+a156e2c1df02040ed730c274bba01da4 *D1 07 Black and Blue.flac
+0194956c673ddd414541b06cbf2cc361 *D1 08 Start Again.flac
+a646b9f218b70139a560cf409be7cd1c *D1 09 Omaha.flac
+7d079d28fbc6c50670df5f20671503fc *D1 10 Cover Up The Sun.flac
+7529515717afe74e19d96fcaf4e42d3c *D1 11 St. Robinson in His Cadillac Dream.flac
+9a3d346b4e26d43d7ca19f49b4c38a89 *D1 12 I Wish I Was a Girl.flac
+5dfe9b2e1f8a27ed63c0ecbd8c733d19 *D2 01 Goodnight Elisabeth - Pale Blue Eyes.flac
+a015ea13fed9fad99e3c6807fee6f08c *D2 02 Washington Square.flac
+dd7688669677d0bf40d34fa9c1890f34 *D2 03 Possibility Days.flac
+1053d2f20d73890a9103fe4221e307b5 *D2 04 Blues Run The Game.flac
+ff693e07f62dafd41573a07ba3e2dcff *D2 05 Big Yellow Taxi.flac
+ed807eefb7d7bb8a6361f1f52504857e *D2 06 Earthquake Driver.flac
+f2fb78a11212f2e2da53a06da385af64 *D2 07 A Long December.flac
+a4e9c68b8b1deed055614823b1db30fb *D2 08 Palisades Park.flac
+b356bd9245fbf2cdcdf7bcb4f7dab1ec *D2 09 Rain King.flac
+397362eea054bafae8f174eac82f1b38 *D2 10 Holiday In Spain.flac

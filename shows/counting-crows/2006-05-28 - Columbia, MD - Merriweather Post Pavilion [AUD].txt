@@ -1,0 +1,34 @@
+COUNTING CROWS
+2006/05/28 - HFStival at Merriweather Post Pavilion; Columbia, MD, US
+
+Taper:       Travelinbeat (mavenmalenfb AT aol DOT com)
+Location:    approx.7 meters from front of lawn, in the center (with regard to left/right)
+Source:      CoreSound Binaurals w/ windscreens & Battery Box > Sony MZ-RH10 HiMD (PCM wav setting)
+Conversion:  MZ-RH10 > SonicStage 3.4 via USB wav > Soundforge 9.0 wav > FLAC frontend 1.7.1 flac
+Editing:     split into tracks with Soundforge 9.0, volume increase
+Compression: FLAC frontend 1.7.1 flac (Fingerprints made availible)
+
+**************************************************************************************************************
+Please feel free to convert this into whatever you want, I'll keep the original lossless forever, so don't worry about it disappearing!
+**************************************************************************************************************
+
+
+SET:						LENGTH:
+
+01) Mr Jones					04:52
+02) Mrs. Potter's Lullaby			08:16
+03) Hard Candy					04:44
+04) Anna Begins					05:40
+05) Miami					05:17
+06) Rain King					08:14
+07) Hanging Around				05:39
+08) Long December				06:09
+09) Big Yellow Taxi				06:13
+10) Holiday In Spain				05:06
+
+
+	   			Total Time - 60:10
+
+
+NOTES:
+The realtively short set is because this was a performance for a radio station festival.  There was a full day of bands, however the only two I taped were Coheed and Cambria, and Counting Crows.  I hope you all excuse the executive desicion I made concerning "Long December" (Track 8); Adam spoke extensively over the piano about charaties andsuch, and I decided to cut the track in a way which minamized the amount of diallog which preceeded the start of the actual song.  I will archive the original HiMD tape of this concert indefinatly.  If anyone wants the original copy (before the tracking / volume increase), just let me know.  Enjoy! =)

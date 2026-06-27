@@ -1,0 +1,73 @@
+Counting Crows
+2009-03-27
+Palais Theatre, Melbourne
+
+Taper: Adam
+Location: Balcony (front row, centre)
+Source: Audix m1290s > UA-5 (bm2p+) > iriver H140 (rockbox optical-in)
+Conversion: iriver H140>USB>Adobe Audition>CDWav 1.94.3>FLAC Frontend 1.7.1 (Level 8)
+
+
+--NEVER PAY FOR AUDIENCE RECORDED LIVE MUSIC--
+
+Disc 1:					[49:00]
+
+01. Intro				[00:34]
+02. Cowboys				[05:13]
+03. Children In Bloom			[07:52]
+04. Mrs. Potter's Lullaby		[07:36]
+05. Miami				[07:06]
+06. Black and Blue			[05:10]
+07. Hanging Tree			[03:46]
+08. Time And Time Again			[05:47]
+09. Mr Jones				[05:56]
+
+
+Disc 2:					[62:49]
+
+01. Intro to...				[01:08]
+02. When I Dream Of Michaelangelo	[03:05]
+03. Anna Begins				[05:42]
+04. If I Could Give All My Love		[03:56]
+05. I Don't Believe In Sundays		[04:47]
+06. Intro to...				[02:25]
+07. Good Time				[04:33]
+08. Round Here				[09:29]
+09. Colorblind				[04:02]
+10. A Long December			[07:01]
+11. Come Around				[05:11]
+
+
+Encore:
+
+12. Intro to...				[00:29]
+13. Washington Square			[04:20]
+14. Hard Candy				[06:41]
+
+
+
+FLAC Fingerprints:
+=================================================================
+CountingCrows2009-03-27d1t01.flac:bbd0c8bc7d0bad99fdf5b53f802ad6de
+CountingCrows2009-03-27d1t02.flac:d16e74ece9e7207d370d5eff60e2dbaf
+CountingCrows2009-03-27d1t03.flac:ef23a29a7cdbbe289fbdddc6760906d2
+CountingCrows2009-03-27d1t04.flac:d1e079b71cebe9a41057ab41e1a943d2
+CountingCrows2009-03-27d1t05.flac:529444d451f73712901d26e9faff5c13
+CountingCrows2009-03-27d1t06.flac:1f41e1d03158db15e07d10648852d804
+CountingCrows2009-03-27d1t07.flac:e371fbf34b987ea29c77708a721e38e9
+CountingCrows2009-03-27d1t08.flac:c1c6bb3c15486b9bdcf325920125479b
+CountingCrows2009-03-27d1t09.flac:ad6268d5d047dfddf7d82f0eae0fc0d0
+CountingCrows2009-03-27d2t01.flac:ac9ae8ef541e44c5a9f4a974d46d0e70
+CountingCrows2009-03-27d2t02.flac:b3e64f95226f8b31c1993676b3851e1f
+CountingCrows2009-03-27d2t03.flac:0ecf00b3a82c24f1307bf10ef6907549
+CountingCrows2009-03-27d2t04.flac:7e35623590f989d50a5cb974987f446c
+CountingCrows2009-03-27d2t05.flac:431503ea6cca91ee464aafd8d8238973
+CountingCrows2009-03-27d2t06.flac:82f6c503a90b65dc5682e6001d9576b9
+CountingCrows2009-03-27d2t07.flac:7d057fa014b77a1405265da401ad01ab
+CountingCrows2009-03-27d2t08.flac:f260088f5e156dd054ec01d27020bc17
+CountingCrows2009-03-27d2t09.flac:d4bd832246ef476288a9ff10cf3eda13
+CountingCrows2009-03-27d2t10.flac:17fc7d656439d254434703760a502ac3
+CountingCrows2009-03-27d2t11.flac:b6a80266aa6d71986d8ceea2e6b35337
+CountingCrows2009-03-27d2t12.flac:53d2a5813bd15f555005bc91beee41ef
+CountingCrows2009-03-27d2t13.flac:c9fb0f6a959f772d2122ddcdc4cc5460
+CountingCrows2009-03-27d2t14.flac:c98cdbdfcabc256a6edaebce9ef24ef8

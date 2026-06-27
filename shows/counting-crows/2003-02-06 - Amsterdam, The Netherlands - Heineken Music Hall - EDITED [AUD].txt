@@ -1,0 +1,40 @@
+Counting Crows
+Heineken Music Hall  
+Amsterdam 
+The Netherlands 
+February 6th 2003
+
+EDITED
+* tracks 02,11,12,17,18 are used for the official release "New Amsterdam"so they can't be shared here.
+
+Taper: Mike D  
+
+Source: Shure sm98s mics > AT 8202 attenuators > Sony TCD D8 dat > cdr
+
+Editing: Mike D, CD wave to edit and track
+
+Conversion to .FLAC:  cdr > EAC (secure mode) > WAV > FLAC(L8)
+
+SETLIST 
+#1 
+01 Have You Seen Me Lately? 
+02 Richard Manuel is Dead 
+03 Mr. Jones 
+04 Time and Time Again 
+05 Mercy 
+06 (chat) 
+07 American Girls 
+08 Rain King (‘Oh Susanna’ alt) 
+09 A Long December (‘jazzy intro’) 
+10 Big Yellow Taxi 
+
+#2 
+11 Omaha 
+12 Catapult 
+13 Good Time 
+14 A Murder of One 
+15 Black and Blue 
+16 (chat) 
+17 Hanginaround 
+18 Blues Run the Game 
+19 Holiday in Spain 

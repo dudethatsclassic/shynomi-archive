@@ -1,0 +1,58 @@
+Counting Crows
+Warfield Theater
+San Francisco, CA
+1999-12-12
+
+Soundcheck Source:   IEM > SBM-1 > D8 by Drew Harrington (likely)
+Show Source:  CCM4 > SX-M2 > SBM-1 > D8 by Drew Harrington
+Transfer: MDAT > Otari DTR-8S > Tascam DA-3000 > WAV @ 16/44
+Master:   Wavelab 11 (tracking, fades, levels) > FLAC 1644
+
+Thanks to Drew for taping and Ted Mattes for facilitating
+
+Soundcheck:
+01. fragment
+02. fragment
+03. fragment
+04. piano
+05. piano
+06. Daylight Fading
+07. A Long December
+08. piano
+
+Show:
+09. intro
+10. Mr. Jones
+11. Angels of the Silences
+12. I Wish I Was A Girl
+13. banter
+14. High Life
+15. Omaha
+16. banter
+17. All My Friends
+18. Have You Seen Me Lately
+19. banter
+20. Four Days
+21. banter
+22. Amy Hit The Atmosphere
+23. Round Here
+24. Mrs. Potters Lullabye
+25. St. Robinson In His Cadillac Dreams
+26. Rain King
+27. Hanginaround
+28. Colorblind
+29. Low
+30. A Long December
+31. banter
+32. Walkaways
+33. outro
+
+Gigolo Aunts opened.
+
+This is two recordings from two separate tapes but the same collection.  The soundcheck picks up midway, and there are occasional dropouts and static from the IEM, especially in the first track.  Some dead air was removed, too.  
+
+The show itself picks up with the house music and the band's intro plays over it for a moment.  
+
+Enjoy!
+
+--mhg :: 2024-01-14

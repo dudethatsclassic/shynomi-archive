@@ -1,0 +1,40 @@
+Counting Crows
+Heineken Music Hall 
+Amsterdam 
+The Netherlands 
+February 4th 2003
+EDITED
+*Tracks 04,05,17,18,20 are used for the official release "New Amsterdam" so they can't be shared here
+
+Taper: Mike D  
+
+Source: Shure sm98s mics > AT 8202 attenuators > Sony TCD D8 dat > cdr
+
+Editing: Mike D, CD wave to edit and track
+
+Conversion to .FLAC:  cdr > EAC (secure mode) > WAV > FLAC(L8)
+ 
+SETLIST 
+#1 
+01 Have You Seen Me Lately? 
+02 Richard Manuel is Dead 
+03 Mr. Jones 
+04 Perfect Blue Buildings 
+05 St. Robinson in his Cadillac Dream 
+06 (chat) 
+07 American Girls 
+08 Rain King (‘Thunder Road’ alt) 
+09 A Long December 
+10 Anna Begins 
+11 Big Yellow Taxi 
+
+#2 
+12 New Frontier 
+13 Catapult 
+14 Speedway 
+15 Miami 
+16 A Murder of One 
+17 Hard Candy 
+18 Goodnight Elisabeth (‘It’s not Alright’ alt) 
+19 Hanginaround 
+20 Holiday in Spain

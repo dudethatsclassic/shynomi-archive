@@ -1,0 +1,26 @@
+Counting Crows
+(Sat) 09/28/2002 
+ AirCanada Centre  
+Toronto, Ontario, Canada
+
+    Set 1: 
+Round Here, 
+Hard Candy, 
+Mr. Jones, 
+American Girls, 
+A Long December, 
+Miami, 
+Rain King
+
+    Comment:
+
+Opened For: The Who
+
+
+taped and transfrered by martman
+
+Source = CSC> Sony PCM-M1
+transfer = Tascam DA-45HR> Tascam CDRW 700 
+                 EAC> CDWAVE> mkwACT> SHN V.3.5
+
+sound is a little wobbly in parts, like maybe I turned or something. Strange

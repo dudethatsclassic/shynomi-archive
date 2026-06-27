@@ -1,0 +1,45 @@
+Incubus
+Verizon Wireless Amphitheater
+Charlotte, NC
+Monday October 4, 2004
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA4022 > Sonosax SX-M2 > Audio Magic Hyper-Conductor > SBM-1 (Oade T-Mod)
+Location:	Sec 2 Row L Seat 16, 12th row center
+
+DAT > FLAC:	D100 > Emagic Audiowerk2 > Dell Dimension 8200 >
+		Steinberg WaveLab v5.00a > CD-WAV > FLAC frontend v1.7.1 > .flac
+
+Disc One:
+
+01:	Intro					-	02:06.200
+02:	Pistola					-	05:38.000
+03:	Nice To Know You			-	04:51.000
+04:	Idiot Box				-	04:59.000
+05:	Wish You Were Here			-	03:59.666
+06:	Just A Phase				-	05:37.333
+07:	Stellar (De Do Do Do, De Da Da Da)	-	06:02.533
+08:	Beware! Criminal			-	04:34.266
+09:	Here In My Room				-	04:28.200
+10:	Drive (Remix)				-	05:29.000
+11:	Priceless				-	05:02.800
+
+Total:						-	52:48.000
+
+Disc Two:
+
+01:	Vitamin >				-	03:59.000
+02:	Drum Jam >				-	08:58.600
+03:	Everything In Ebb			-	02:11.600
+04:	Talk Show On Mute			-	03:51.400
+05:	Crowded Elevator			-	06:07.600
+06:	Made For TV Movie			-	03:55.800
+07:	Sick Sad Little World			-	10:05.200
+08:	Megalomaniac				-	08:32.000
+09:	Pantomime				-	04:31.000
+10:	Southern Girl				-	04:23.666
+11:	Under My Umbrella			-	05:30.133
+
+Total:						-	62:06.000
+
+compiled by George Wang on 10-05-2004

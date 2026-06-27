@@ -1,0 +1,53 @@
+COUNTING CROWS
+2015/08/13 - Filene Center at Wolftrap National Park for the Performing Arts; Vienna VA, USA
+
+Taper: travelinbeat
+Source 1: BSC1-K2's (Omnis) @ ~60ft Split > Naiant Littlebox 1.5 > R-09HR @ 24/96
+Location: Each mic 10ft high, stands positioned flush against structural pillars (left channel near seat DD 101, right channel near seat DD 128)
+Editing:  Tracked, faded, and normalized (each channel independently to -0.10dB) in Sony Soundforge 9.0a (Build 297).
+Conversion: Trader's Little Helper v.2.7.0 (Build 172)
+
+
+
+TRACKLIST:					TIME:
+
+01. Intro ~					02:40
+02. Round Here					07:39
+03. Scarecrow					04:39
+04. Mr. Jones					04:54
+05. Elvis Went to Hollywood			04:05
+06. Black and Blue				05:00
+07. Start Again *				04:19
+08. Omaha					04:53
+09. Cover Up the Sun				03:54
+10. Catapult					03:35
+11. Mrs. Potter's Lullaby			08:02
+12. Children in Bloom				07:44
+13. Possibility Days 				04:06
+14. Mercury					06:15
+15. Blues Run the Game @			03:50
+16. You Ain't Goin' Nowhere #			04:44
+17. Earthquake Driver				04:21
+18. A Long December				08:01
+19. Palisades Park		 		07:43
+20. Rain King					07:05
+21. Holiday in Spain				04:32
+22. Outro %					00:55
+
+				 GRAND TOTAL-  112:54
+
+~ "Lean on Me," recorded by Bill Withers in 1971
+* Originally performed by Teenage Fanclub
+@ Originally performed by Jackson C. Frank
+# Originally performed by Bob Dylan
+% "California Dreamin'" recorded by The Mamas & the Papas in 1965
+
+
+MISC NOTES:
+
+	
+I am super proud of this recording, less for the quality of the sound than for the achievement of the split omni's!  I have taped the Crows every time they've played the DC area for the better part of the last decade, and when they first started playing Wolftrap a few years ago, I had to go through the rather tedious process of getting the house to clear me to record.  I should credit the Counting Crows with having always been super open and accommodating with recording, and honest Wolftrap was surprisingly pleasant to work with from the beginning.  All the same, the house has a reputation for being somewhat prickly towards tapers (Wolftrap is a National Park and is kept beautiful and operational by very wealthy donors whom the house feels may not like or appreciate the intrusion of tapers and micstands).  I decided to test my good fortune with Wolftrap this year, by running a split omni configuration which utilized the structural pillars to eliminate any potential for sight-line conflicts.  I set up with little interference for the ushers, and ran clean, tight cable paths back to my seat (conveniently located almost exactly center of the pillars, AA 112).  The house was firm about leaving the stands down and the mic's in my bag through both opening sets (Hollis Brown, Citizen Cope), but allowed me to set up all cables and get ready as much as possible in advance of the first act hitting the stage.  Once the second band finished their set, the stands were assembled and the mics were installed and up they went!   
+ 
+Shawn Dealey is the Crows' FOH tech, and while I didn't need him to go to bat for me, I always feel inclined to leave his name in the notes of my Crows tapes, with a big "thanks" attached to it.  I was not able to get a SBD patch at this show as I have in the past on account of all of the console's outputs being occupied, but I have no doubt that Shawn would have hooked me up if at all possible. 
+
+Great show, as always!  I think I may try this method again next year, but I may opt for cards over omni's on account of Wolftrap's boominess.

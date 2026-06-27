@@ -1,0 +1,26 @@
+Incubus
+
+
+June 6, 2008, Rock am Ring, Nürburgring, Eifel, Germany
+
+
+01 - Just A Phase
+02 - A Kiss To Send Us Off
+03 - Nice To Know You
+04 - Wish You Were Here
+05 - Anna Molly
+06 - Circles
+07 - Love Hurts
+08 - Drive
+09 - Megalomaniac
+10 - Priceless
+11 - Are You In
+12 - Pistola
+13 - Stellar
+14 - A Crow Left Of The Murder
+
+Broadcast: MTV, June 6, 2008, 08:00PM
+
+Running time: 1h:06m:00s
+
+Analog TV Signal > Panasonic Hard Disc Recorder DMR-EH67 > Audio Out > Monster Interlink 100 Minijack Cable > Sony PCM-D50 (44.1kHz/16Bit, Limiter off, Low Cut Filter off, SBM on) > Copy Wave File to PC via USB Connection > Edit with Adobe Audition 3 (Normalize to 96%, Fade-In and Fade-Out, Split) > FLAC 8 with TLH > Tagged with TagScanner

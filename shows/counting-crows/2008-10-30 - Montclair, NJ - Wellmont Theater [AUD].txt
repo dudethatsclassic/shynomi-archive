@@ -1,0 +1,46 @@
+Counting Crows
+October 30th, 2008
+The Wellmont Theatre
+Montclair, NJ
+
+Taper: Richard Simms (sullen)
+Source: Avant CK-1 (C)(Busman Mod) > UA-5 BM2P+ > Microtrack 24/96 (24/48)
+Transer: Microtrack with Kingston Elite Pro CF > Computer via USB 2.0 
+Processing: Adobe Audition 1.5 > 
+            Fades, Increase Volume, Resample/Dither to 16/44.1 >
+            CD Wave Editor 1.94.5 > FLAC FrontEnd (Level 8, Align SB)
+Tagging: Foobar2000 v0.9.5.3 with TradersFriend Component 
+
+Disc 1
+Main Set
+01. Blues Run The Game (Jackson Frank)
+02. Up All Night - Frankie Miller Goes to Hollywood
+03. All My Friends
+04. 1492
+05. Perfect Blue Buildings
+06. St. Robinson In His Cadillac Dream
+07. Good Time
+08. High Life
+09. Hanging Tree
+10. Round Here (The Himalayans) 
+
+Disc 2
+Main Set Cont.
+01. Friend Of The Devil (Grateful Dead)
+02. Time And Time Again
+03. Insignificant
+04. Sullivan Street
+05. You Can't Count On Me
+06. Big Yellow Taxi (Joni Mitchell)
+07. Rain King
+Encore
+08. "One More Song"
+09. The Ghost In You (Psychedelic Furs)
+10. Outro
+
+Notes:
+1. Keep live music free for everyone!  Counting Crows are an Open Taping band. 
+   Please help preserve this privilege - DO NOT SELL THIS RECORDING! 
+2. Crowd near taper was drunk and talkative resulting in an undercurrent of 
+   chatter throughout the show.
+3. "Tapers make the world go around." - unknown dude after the show (THANKS!)

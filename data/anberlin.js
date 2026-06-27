@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "Tinker Field",
       "notes": "Vans",
       "version": "Webcast",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2025-11-15 - Orlando, FL - Tinker Field - Vans Warped '25 Festival [WEB].txt"
     }
   ],
   "misc": []

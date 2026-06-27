@@ -19,9 +19,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Cubby Bear",
-      "notes": "CA-14 · brian ermerick",
+      "notes": "CA-14 \u00b7 brian ermerick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2012-04-06 - Chicago, IL - The Cubby Bear (CA-14) (brian ermerick) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -32,9 +33,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Echoplex",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-06-19 - Los Angeles, CA - Echoplex (DPA 4081) (faninor) [AUD24].txt"
     }
   ],
   "misc": []

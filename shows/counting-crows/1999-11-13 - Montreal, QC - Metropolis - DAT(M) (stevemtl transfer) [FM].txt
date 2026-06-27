@@ -1,0 +1,56 @@
+Another band about which I know very little.  Did my best with track splits and titles; all corrections or help of any kind very welcome.   Thanks and appreciation are owed the recordist, of whose name I am unaware, for the excellent source recording. The torrent is a fresh transfer from my clone with ten instances of radio promo chat removed.  Therefore it will differ from previous versions of this performance, if any. 
+
+Faults: See note re t20,23,24,29.  These are tiny defects due to removal of FM promo chat which started a second or two too soon; otherwise none.
+
+COUNTING CROWS
+Montreal, QC  --  Metropolis
+1999-11-13  --  108:45 
+
+01.  -FM intro-
+02.  So You Want to Be a Rock'n'Roll Star >
+03.  Mr. Jones
+04.  Daylight Fading
+05.  Children in Bloom
+06.  -talk-
+07.  High Life
+08.  All My Friends
+09.  -talk-
+10.  Another Horsedreamer’s Blues
+11.  Omaha
+12.  -talk-
+13.  Monkey
+14.  -talk-
+15.  I Wish I Was a Girl
+16.  -talk-
+17.  Catapult
+18.  -talk-
+19.  Amy Hit the Atmosphere
+20.  A Murder of One
+21.  -talk-
+22.  St. Robinson in His Cadillac Dream
+23.  Rain King
+24.  -talk-
+25.  Hanging Around
+26.  -encore applause-
+27.  Anna Begins
+28.  -talk-
+29.  Mrs. Potter’s Lullaby
+30.  A Long December
+31.  -false start, talk-
+32.  Walkaways
+
+note:
+t20, 23, 29: slight end clip
+t24: slight start clip
+t32: contains band intro
+
+No artwork.
+
+Source: DAT master (16bits/48khz) > ? clone > my clone 
+Transferred by stevemtl: DAT > Sony PCM-R500 > Roland R44 > SD chip > my fingers > slot on computer > HD
+Mastered by stevemtl: HD > Sound Forge (L2 dither > 24/48: L2 overall level adjust, edit, fades) > r8brain (vhq downsample > 24/44.1) > Sound Forge (L2 dither > 16/44.1) > CDwave (track cut) > TLH (flac level 8, ffp, md5) > TLH (torrent marker)
+Circulated by stevemtl: Torrent marker uploaded to DIME on 2021-09-27.
+
+Support Counting Crows by attending gigs (including virtual) if and as available and purchasing official releases and merchandise.
+Please pass on in a lossless format only; reserve mp3 and other degrades for your own use exclusively.
+Do not profit in any material way from this recording.

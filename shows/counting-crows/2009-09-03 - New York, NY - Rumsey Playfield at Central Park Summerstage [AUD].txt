@@ -1,0 +1,91 @@
+Counting Crows + Michael Franti & Spearhead + Augustana + Emmy Rossum
+AKA "The Saturday Night Rebel Rockers Traveling Circus & Medicine Show"
+Central Park Summerstage
+New York, NY
+9/3/2009
+
+
+Neumann TLM170(FOB cardoids center, in sweet spot)->Sound Devices 722 (@24/96)
+
+FLAC File processing in SoundForge Audio Studio 9.0c (Peak Level Normalize to 0db; resample to 44.1 with interpolation accuracy 4, anti-alias filter; 24->16 bit highpass triangular dither with high pass contour noise shaping); Tracked in CDWav.
+
+Disc 1/Set 1
+1.  intro
+2.  Caravan (Van Morrison) +
+3.  Hello Bonjour -> *
+4.  Murder Of One ^
+5.  A Long December ^
+6.  Hanging Tree ^
+7.  Omaha ^%
+8.  intro to...
+9.  Goin' Back To Georgia ^$
+10. intro to...
+11. Sweet Virginia %^$
+12. Stars And Boulevards %
+13. Meet You There %
+14. Boston %
+15. intro to...
+16. (You've Gotta Walk And) Don't Look Back -> *%^
+17. Casey Jones (1 chorus + guitar solo) -> *%^
+18. (You've Gotta Walk And) Don't Look Back -> *%^#
+19. Everybody Ona Move (w/"Billie Jean" jams) -> *
+20. All I Want Is You -> *#
+21. Good Love -> #*
+22. Rude Boys Back In Town -> *#
+23. Tainted Love * ->
+24. All I Want Is You *#
+25. The Sound Of Sunshine *^
+
+Disc 2/Set 1 (cont)
+26. I Got Love For You *
+27. Delta Lady (Leon Russell) +
+
+Set 2
+1.  intro to...
+2.  Another Horsedreamer's Blues (w/Carl Young [Spearhead bassist] on sax) ^
+3.  Catapult ^
+4.  Hard Candy ^
+5.  Mr. Jones ^
+6.  Good Times ^
+7.  Have You Seen Me Lately ^
+8.  A Little Bit Of Riddim *#
+9.  Yell Fire! #
+10. banter about the Ryman #
+11. Say Hey (I Love You) #
+12. Just Like A Woman -> %@
+13. Dust %
+14. Twenty Years %
+15. intro to...
+16. Fire %@
+
+Disc 3/Set 2(cont)
+17. intro to...
+18. Angel From Montgomery (John Prine) $@
+19. intro to...
+20. Why Should You Come When I Call? -> ^*
+21. Hanginaround ^
+22. Cecilia +
+23. Redemption Song #
+24. Hey World (Remote Control) *
+25. Raise a Ruckus Tonight -> %
+26. The Rain King -> ^%
+27. With A Little Help From My Friends -> +
+28. The Rain King +
+29. This Land Is Your Land
+30. band intros
+31. outro music
+
+
++ = everyone
+* = Michael Franti & Spearhead
+^ = Counting Crows
+% = Augustana
+$ = w/Emmy Rossum on vocals
+# = w/Cherine Anderson on vocals
+@ = w/Adam Duritz on vocals 
+
+Notes:  The sound mix in the venue (in addition to being at a suprisingly low volume, even for Central Park Summerstage) was fair for this show.  Yes there were a TON of people coming on and off the stage at all times, but that's no excuse for muddy bass, muddy acoustic guitars, thin sounding organ, and drums that sometimes were WAY too loud.  Amazingly this recording sounds really good [maybe even better than it sounded to my ears in the venue] (and improves as the show goes on), but I never felt like the mix was nearly as good as it could have been.  I had been warned that even though Counting Crows allow open taping the venue tries to push you to the back, so I ran just above head height for most of the night (hence the random but luckily infrequent crowd chatter), but slowly slowly raised the stand as the night went on, so by the end I was running at a nice height above peoples' heads.  Wish I could have fast forwarded through most of Augustana's songs and gotten a few more Counting Crows songs in exchange, but what can you do?
+
+Enjoy this massive show!
+
+Recorded, mastered, and tracked by Scott Bernstein.  Thanks to my lovely wife Jen for protecting the stand and hanging out all night even though she was dead tired by the end!

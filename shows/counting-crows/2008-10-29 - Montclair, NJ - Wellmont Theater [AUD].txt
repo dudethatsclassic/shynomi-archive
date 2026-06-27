@@ -1,0 +1,43 @@
+Counting Crows
+October 29th, 2008
+The Wellmont Theatre
+Montclair, NJ
+
+Taper: Richard Simms (sullen)
+Source: Avant CK-1 (C)(Busman Mod) > UA-5 BM2P+ > Microtrack 24/96 (24/48)
+Transer: Microtrack with Kingston Elite Pro CF > Computer via USB 2.0 
+Processing: Adobe Audition 1.5 > 
+            Fades, Increase Volume, Resample/Dither to 16/44.1 >
+            CD Wave Editor 1.94.5 > FLAC FrontEnd (Level 8, Align SB)
+Tagging: Foobar2000 v0.9.5.3 with TradersFriend Component 
+
+Disc 1
+Main Set
+01. When I Dream Of Michalangelo
+02. Hard Candy
+03. Mrs. Potter's Lullaby
+04. Ghost Train
+05. Mercury
+06. Children In Bloom
+07. Recovering The Satellites
+08. Catapult
+09. Goodnight Elisabeth
+10. Daylight Fading
+11. Mr. Jones
+12. Meet On The Ledge (Fairport Convention)
+
+Disc 2
+Main Set Cont.
+01. A Long December
+02. Hanginaround
+Encore
+03. "Weird Alphabet"
+04. Angels Of The Silences
+05. "Adam Talks, Dan Tunes"
+06. Walkaways
+07. Outro
+
+Notes:
+1. Keep live music free for everyone!  Counting Crows are an Open Taping band. 
+   Please help preserve this privilege - DO NOT SELL THIS RECORDING! 
+2. Thanks to Frank for holding my spot for Night 2.

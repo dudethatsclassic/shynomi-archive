@@ -1,0 +1,50 @@
+Incubus
+Baltimore Arena
+Baltimore, MD
+Monday September 23, 2002
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA4022 > Sonosax SX-M2 > D100
+Location:	20-40 ft. center
+
+DAT > SHN:	Archive Python DDS/DAT2WAV > .wav > CD-WAV/mkwACT > .shn
+		(Direct DAT extraction, no soundcard)
+
+Disc One:
+
+01:	Intro				-	00:50.533
+02:	Intro II			-	01:14.466
+03:	Circles				-	04:22.533
+04:	Nice To Know You		-	05:06.000
+05:	Stellar				-	04:05.000
+06:	Glass				-	05:05.000
+07:	Wish You Were Here		-	03:57.600
+08:	Warning				-	04:50.866
+09:	Clean				-	05:43.666
+10:	Make Yourself			-	03:37.466
+11:	I Miss You			-	04:08.266
+12:	Mexico *			-	04:29.733
+13:	11 AM *				-	04:38.000
+
+Total:					-	52:09.133
+
+Disc Two:
+
+01:	Privelege			-	04:08.000
+02:	Are You In?			-	04:51.866
+03:	Just A Phase			-	05:57.266
+04:	Nowhere Fast			-	04:27.133
+05:	Battlestar Scralatchtica	-	01:36.133
+06:	Drive				-	04:22.266
+07:	Pardon Me			-	04:14.000
+08:	A Certain Shade Of Green	-	04:55.200
+09:	Encore				-	02:54.000
+10:	The Warmth Intro >		-	07:15.666
+11:	The Warmth			-	04:44.333
+12:	Aquaeous Transmission		-	09:41.000
+
+Total:					-	59:06.866
+
+*	acoustic
+
+compiled by George Wang on 10-05-2002

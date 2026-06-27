@@ -1,0 +1,71 @@
+Counting Crows
+Cynthia Woods Mitchell Pavilion
+Houston, TX
+July 22, 2018
+
+
+Taper: CMStewart
+
+Source: Beyerdynamic MCE72 (XY via Rode NT4 stereo-XLR cable) + Zoom SSH-6 
+	(MS via capsule direct connection) > Zoom H5 > WAV [@ 24-Bit/48 kHz] 
+
+Lineage: Kingston SDR/32gb SDHC > Dell M6500 > Audacity v1.3.13-beta 
+	 (edits in 32-bit float, fade, levels, matrix sources) > Dither 
+	 [HQ shaped] to 24/48 & 16/44.1 > Audacity (tracking) > TLH > 
+	 FLAC16/FLAC24 [L7] > Mp3tag (metadata tags)
+
+Setup: 	I employed a variant of a L/C/R Oddball Mic Technique. A "center channel" 
+	shotgun mid-side microphone was used (combination of a supercardioid 
+	shotgun and figure-8 pattern mic located directly behind) and a 
+	"left/right channel" stereo cardioid condenser mic with a 120-degree 
+	coincident crossed pair pattern. The L/R stereo condenser was placed 
+	2.25" above and 2.25" to the left of the mid-side shotgun mic. Both were 
+	on a tripod ~6 feet off the ground, aimed at center stage. Location was 
+	section 102, row AA, seat 39 (approx 26 rows back and 13 degrees right of 
+	dead center).
+
+
+TRACK LIST (Total - 109:02 / 114:28)
+----------
+Disc 1 - 	73:00
+01) Prelude
+02) Mrs. Potter's Lullaby
+03) Richard Manuel Is Dead
+04) Intro to...
+05) Omaha
+06) Good Time
+07) Anna Begins
+08) Miami
+09) Colorblind
+10) Intro to...
+11) God Of Ocean Tides
+12) Intro to...
+13) When I Dream Of Michaelangelo
+14) Round Here
+15) Big Yellow Taxi
+
+Disc 2 - 	36:02 / 41:28
+01) Intro to...
+02) A Long December
+03) Hanginaround
+04) Palisades Park
+05) Rain King
+06) Holiday In Spain
+07) Outro
+08) Bonus Track - Good Time (08-24-01)*
+
+* - Only on 16-bit version
+
+
+
+
+***********************************************
+*    DO NOT SELL & DO NOT CONVERT TO MP3's    *
+***********************************************
+
+VERY IMPORTANT POINTS - DO NOT SELL THIS SHOW ON EBAY ! I mean it! You got this show 
+for free, either via a b&p or by downloading from a free SHN server, please pass it on 
+for free. DO NOT ENCODE TO MP3 UNLESS IT IS FOR YOUR OWN PERSONAL USE (example: NOT 
+FOR TRADING!) Please support the artist and purchase the officially released cd’s!!!
+
+SHARE FREELY!!!

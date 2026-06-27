@@ -1,0 +1,76 @@
+Mayday Parade - 2025 11 16 @ Tinker Field, Orlando, FL  
+
+Mayday Parade is an American rock band formed in Tallahassee, Florida, in 2005, as the result of a merger between two local Tallahassee bands, Kid Named Chicago and Defining Moment. Their debut EP Tales Told by Dead Friends was released in 2006 and sold over 50,000 copies without any label support.
+
+Under My Sweater
+Jersey
+I'd Hate to Be You When People Find Out What This Song Is About
+Piece of Your Heart
+Kids in Love
+By the Way
+Oh Well, Oh Well (extended intro sample; big burst of streamers during intro riff)
+Black Cat
+Jamie All Over (burst of streamers during last chorus)
+
+Lineage: Webcast > yt-dlp > LosslessCut > MP4
+
+General
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom (isom/iso2/avc1/mp41)
+File size                                : 1.20 GiB
+Duration                                 : 38 min 29 s
+Overall bit rate                         : 4 475 kb/s
+Frame rate                               : 29.970 FPS
+Writing application                      : Lavf60.3.100
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 38 min 29 s
+Source duration                          : 38 min 29 s
+Bit rate                                 : 4 156 kb/s
+Maximum bit rate                         : 4 558 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.067
+Stream size                              : 1.12 GiB (93%)
+Source stream size                       : 1.17 GiB (97%)
+Writing library                          : Lavc59.37.100 libx264
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+Codec configuration box                  : avcC
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : mp4a-40-2
+Duration                                 : 38 min 29 s
+Bit rate mode                            : Constant
+Bit rate                                 : 132 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 35.7 MiB (3%)
+Default                                  : Yes
+Alternate group                          : 1
+

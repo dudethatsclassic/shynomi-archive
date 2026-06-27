@@ -1,0 +1,252 @@
+Counting Crows
+Hammerstein Ballroom
+New York, NY
+10/7/2002
+BARN190
+
+Original master DAT recording: Neumann TLM170s(hypercardoid, split 10ft in 1st balcony)-> Apogee AD1000 (16 bit/48khz) -> Teac DAP20 (master tape)
+
+DAT playback:
+Sony R500 -> Sound Devices 722 digital input (@24/48)
+
+Mastered: Soundforge Pro 12.1 - *All file manipulation in Soundforge done at 24 bits*. File processed in Soundforge for clap/whistle/yell scrubbing, EQ mostly to boost the high end and attenuate some boomy bass, volume normalization, 24 -> 16 bit dither using POW-r Dither with POW-r #3 noise shaping. Tracked in CDWav.  Tagged in Tag&Rename 3.9.15
+
+1.  walk-on music
+2.  Mrs. Potter's Lullaby
+3.  Hard Candy
+4.  Mr. Jones
+5.  Goodnight Elizabeth (including Christmas Comin' Down, So You Wanna Be A Rock And Roll Star [The Byds] interpolations)
+6.  American Girls
+7.  Anna Begins
+8.  banter - Adam bought a NYC apartment
+9.  If I Could Give All My Love (Richard Manuel Is Dead)
+10. Goodnight L.A.
+11. A Long December (false start)
+12. A Long December
+13. Big Yellow Taxi
+14. Catapult
+15. banter - the last song for this record
+16. Holiday In Spain
+17. Miami
+18. Have You Seen Me Lately
+19. Rain King (including Oh, Susannah interpolation)
+20. encore break
+21. Round Here (including Radition Vibe [Fountains Of Wayne] interpolation)
+22. Hanginaround
+23. encore break #2
+24. Sullivan Street
+25. banter - thanks/band intros
+
+I hand scrubbed about 50 loud nearby claps, whistles, and yells from this recording
+
+DAT tape transfer 6/24/2012.  Tracked 11/7/2019.  Mastered 11/7-8/2019.
+Graham Colton opened. I did not record his set.
+
+Dedicated to the memory of Eric Vandercar, who I attended at the show with
+
+Taper notes:
+Digging back through some recordings that I'd previously transferred (this one back in 2012!), I came upon this great Counting Crows show.  This Hammerstein Ballroom show was the first time I ever saw them live, despite the fact that I'd been listening to their albums for a very long time.  I recall Eric Vandercar inviting me to join, and I thought "why not?!".  Hammerstein Ballroom is certainly not "intimate", but it's certainly smaller than a lot of other places that they tend to play.  I also remember, at the time I recorded it, being kind of disappointed with the way my recording sounded (I generally prefer to record from the floor section at Hammerstein).  Upon listening back in 2019, I could tell that the raw materials on this recording were strong, but it just needed a touch of EQ to really make it shine (even though I generally prefer NOT to EQ my recordings if I can avoid it).  Sure enough after just a little tweaking, I present to you BARN190, which now REALLY shines (note that it takes a song or 2 for the band's sound engineer to really get everything dialed in well).
+
+It's not just the recording quality that inspired me to push this one out quickly, but the setlist and performance too.  Opening with a subtle mid-tempo number like "Mrs. Potter's Lullaby" is a gutsy move -- not exactly a song that gets the crowd up and jumping, but it's a beautiful rambling bit of poetry.  This "Goodnight Elizabeth" takes a long detour through a "Christmas Coming Down" interpolation with a touch of "So You Wanna Be A Rock and Roll Star".  Other highlights for me are "Anna Begins", "If I Could Give All My Love" (such an amazing song!), a wonderful version of "A Long December", "Holiday In Spain" with a little intro describing how it came together, a rocking version of "Have You Seen Me Lately", and outstanding versions of "Rain King" (with a lengthy interpolation of "Oh, Susannah") and "Round Here" (with an interpolation of Fountains Of Wayne's "Radiation Vibe" -- the first time I'd heard heard of the band or their music), and finally a perfect show-closing version of "Sullivan Street".  This was a major pleasure to listen back to, now, 17 years later...
+
+What a band!  What a show!  Thanks to EV for getting me out to see and record this one.  I miss him....
+
+Enjoy!
+
+Follow me on Twitter to track my postings of FREE live music and concert photography: http://www.twitter.com/scott_bernstein
+
+Or become a "fan" on Facebook here: https://www.facebook.com/pages/Scott-Bernsteins-Live-Music-Photos-Page/166706713365451
+
+Here's a rundown of all of my previous BARN archival releases (all can be found on archive.org except as noted):
+BARN1 - Col Bruce Hampton and the Code Talkers at Bret & Joyce's wedding 9/17/2005
+BARN2 - Col Bruce Hampton and the Aquarium Rescue Unit (w/guest Warren Haynes for all of set 2) Wetlands 11/20/1993
+BARN3 - moe. Wetlands 7/8/1995
+BARN4 - Dan Bern Bottom Line 7/31/1998 (late show)
+BARN5 - moe. Birch Hill 10/31/1996
+BARN6 - moe. Maxwells 1/20/1996
+BARN7 - Dan Bern Central Park Summerstage 9/19/1997
+BARN8 - Dan Bern, Bottom Line 8/1/1998
+BARN9 - moe. Bayou 4/5/1997
+BARN10 - moe. Irving Plaza 4/4/1997
+BARN11 - moe. AKA 9/7/1995
+BARN12 - Yolk AKA 9/7/1995
+BARN13 - Robert Walter/Johnny Vidacovich/James Singleton/Donald Harrison Preservation Hall 4/30/08
+BARN14 - Phish Las Vegas, NV 10/31/1998 (on bt.etree.org)
+BARN15 - Phish Great Went @ Loring AFB, Limestone, ME 8/16/1997 (on bt.etree.org) - by request
+BARN16 - Phish Great Went @ Loring AFB, Limestone, ME 8/17/1997 (on bt.etree.org), includes orchestra set - by request
+BARN17 - Phish Red Rocks Amphitheater, Morrison, CO, 8/4/1996 (on bt.etree.org) - by request
+BARN18 - Phish Red Rocks Amphitheater, Morrison, CO, 8/6/1996 (on bt.etree.org) - by request
+BARN19 - Phish Red Rocks Amphitheater, Morrison, CO, 8/7/1996 (on bt.etree.org) - by request
+BARN20 - Phish Red Rocks Amphitheater, Morrison, CO, 8/5/1996 (on bt.etree.org) - by request
+BARN21 - God Street Wine, Irving Plaza, NYC 6/24/1993
+BARN22 - Leftover Salmon, Wetlands, NYC 10/1/1994
+BARN23 - Anders Osborne, Manny's Carwash, NYC 11/5/1997
+BARN24 - Anders Osborne, Manny's Carwash, NYC 11/6/1997
+BARN25 - moe. Pool Party, Morganville, NJ 6/2/1996
+BARN26 - Widespread Panic, Stone Pony, Asbury Park, NJ 11/7/1992 (on bt.etree.org)
+BARN27 - Stew ["Passing Strange"], The Turning Point, Piermont, NY 4/6/2003 (on bt.etree.org. dimeadozen.org)
+BARN28 - Stew ["Passing Strange"], Joe's Pub, New York, NY 5/22/2003 (on bt.etree.org)
+BARN29 - Percy Hill, Lion's Den, NYC 3/16/1996
+BARN30 - Bela Fleck and the Flecktones, Irving Plaza, 8/3/1995
+BARN31 - Percy Hill, Wetlands, NYC 6/8/1996
+BARN32 - Bad Livers, Mercury Lounge, NYC, 11/15/1999 (opening for Leftover Salmon)
+BARN33 - Bad Livers, Mercury Lounge, NYC, 11/16/1999 (opening for Leftover Salmon)
+BARN34 - G. Love And Special Sauce, Central Park Summerstage, NYC 6/18/1995
+BARN35 - The Band, The Great Lawn, Central Park, NYC 5/16/1993 (on dimeadozen.org)
+BARN36 - The Band, Mountain Stage Radio broadcast, Charleston, WV, recorded 4/4/1996 (on dimeadozen.org)
+*** Start of New Orleans Jazzfest Appreciation mini-series (note that BARN13 technically belongs in this series) ***
+BARN37 - Ivan Neville's Dumpstaphunk, Tipitina's, New Orleans, LA, 5/5/2008
+BARN38 - Steve Kimock Band, Tipitina's, New Orleans, LA, 5/6/2001 (2AM show)
+BARN39 - The Funky Meters, Tipitina's, New Orleans, LA, 5/6/2001 (11PM show) (on bt.etree.org)
+BARN40 - Anders Osborne, Tower Records instore, New Orleans, LA, 5/7/2001 (on bt.etree.org)
+BARN41 - Joe Krown Trio w/Walter "Wolfman" Washington, Russell Batiste + special guest Mike Gordon, Tipitina's, New Orleans, 5/5/2008
+BARN42 - Russell Batiste and Friends, The Howlin' Wolf, New Orleans, 5/1/2008 (on bt.etree.org)
+BARN43 - Global Noize, The Howlin' Wolf, New Orleans, 5/1/2008 (on bt.etree.org)
+BARN44 - Deep Banana Blackout, The Howlin' Wolf, New Orleans, LA 5/6/2000
+BARN45 - Bela Fleck And The Flecktones, The Saenger Theater, New Orleans, LA 5/5/2000
+BARN46 - Medeski Martin And Wood, The Saenger Theater, New Orleans, LA 5/6/2000 (on bt.etree.org)
+BARN47 - String Cheese Incident, The Saenger Theater, New Orleans, LA 5/5/2000
+BARN48 - Soulive, House Of Blues Parish, New Orleans, LA 5/5/2001
+BARN49 - String Cheese Incident, Cajun Queen Riverboat, New Orleans, LA 5/3/2000
+BARN50 - New Mastersounds, House Of Blues Parish, New Orleans, LA 5/2/2008
+BARN51 - Funky Meters, Bonnaroo, Manchester, TN 6/13/2003 (on bt.etree.org)
+BARN52 - George Porter And The Runnin' Pardners, Village Underground, NYC, 5/19/2001
+BARN53 - Dirty Dozen Brass Band, Tramps, NYC 10/29/1993 late show
+BARN54 - The Meters, Tramps, NYC 5/15/93 late show (on dimeadozen)
+BARN55 - The Meters, Tramps, NYC 10/29/93 late show (on dimeadozen)
+BARN56 - Wild Magnolias, Wetlands, NYC 2/10/2000 (on bt.etree.org)
+*** end of New Orleans Jazzfest Appreciation mini-series ***
+BARN57 - Blues Traveler, Livingston Gym @ Rutgers University, Piscataway, NJ 4/17/1993
+BARN58 - Phish, Greek Theatre, Los Angeles, CA, 10/29/1998 (on bt.etree.org)
+BARN59 - Jazz Is Dead, Bottom Line, NYC 2/7/1998 (late show only) (on bt.etree.org)
+BARN60 - Grateful Dead, Cal Expo Amphitheatre, Sacramento, CA 5/27/1993
+BARN61 - The Dude Of Life (w/Trey Anastasio and Jon Fishman for entire show, plus Page McConnell for a bunch), Wetlands, NYC 2/5/1994 - on bt.etree.org
+BARN62 - ALO, High Sierra Music Festival Main Stage, Quincy, CA 7/3/2005
+BARN63 - Leo Kottke & Mike Gordon, High Sierra Music Festival Main Stage, Quincy, CA 7/3/2005 (on bt.etree.org)
+BARN64 - Dan Bern, The Bottom Line, NYC 11/11/1998
+BARN65 - Galactic, Knitting Factory, NYC 10/18/1997 (on bt.etree.org)
+BARN66 - Bruce Hornsby, Paramount Theater, NYC 12/7/1993 (on bt.etree.org)
+BARN67 - God Street Wine, Irving Plaza, NYC 8/26/1993
+BARN68 - Warren Haynes Midnight Southern Jam - Wetlands, NYC 8/5/1993 (on bt.etree.org)
+BARN69 - Dave Matthews And Friends (Trey Anastasio, Tim Reynolds, Tony Hall, Brady Blade, Ray Paczkowski) Bonnaroo 6/11/2004 (on bt.etree.org)
+BARN70 - Rana at Bret & Joyce's wedding, Whitehall, NY 9/17/2005
+BARN71 - Soulive - Baby Jupiter, NYC 6/11/1999
+BARN72 - Chris Barron, Nightingale Bar, NYC 7/14/1997
+BARN73 - Chris Barron, Nightingale Bar, NYC 11/17/1997
+BARN74 - George Porter's 60th Birthday w/PBS and friends, Blender Theater, NYC 12/29/2007
+BARN75 - Jennifer Hartswick Band with special guest Trey Anastasio, Lion's Den, NYC 11/7/2003 (on bt.etree.org)
+BARN76 - moe., Gathering Of The Vibes, Seaside Park, Bridgeport, CT 6/20/1999
+BARN77 - Project Logic, Gathering Of The Vibes, Seaside Park, Bridgeport, CT 6/20/1999
+BARN78 - Phish - Beacon Theater, NYC 4/13/1994 (on bt.etree.org)
+BARN79 - Phish - Beacon Theater, NYC 4/14/1994 (on bt.etree.org)
+BARN80 - Phish - Beacon Theater, NYC 4/15/1994 (on bt.etree.org)
+BARN81 - The Recipe, Wetlands, NYC 11/12/1999
+BARN82 - Ominous Seapods, Wetlands, NYC 6/4/1999
+BARN83 - Coby Brown Group, Wetlands, NYC 11/12/1999 (on bt.etree.org)
+BARN84 - The Big Wu, Wetlands, NYC 11/12/1999
+BARN85 - Moon Boot Lover, Wetlands, NYC 6/5/1999
+BARN86 - Percy Hill, Wetlands, NYC 6/5/1999
+BARN87 - Miracle Orchestra, Wetlands Lounge, NYC 6/5/1999
+BARN88 - Jiggle The Handle, Wetlands, NYC 6/5/1999
+BARN89 - Jiggle The Handle, Wetlands, NYC 10/2/1998
+BARN90 - Lake Trout, Wetlands Lounge, NYC 6/5/1999
+BARN91 - Olu Dara, Bell Atlantic Jazz Festival, South Street Seaport Atrium, NYC 6/6/1999 (on bt.etree.org / www.dimeadozen.org)
+BARN92 - Donna The Buffalo, Wetlands, NYC 11/12/1999
+BARN93 - Radiators (w/Merl Saunders sit-in), Irving Plaza 10/8/1998
+BARN94 - Tiny Lights, Wetlands, NYC 8/18/1993
+BARN95 - Tiny Lights, Wetlands, NYC 1/5/1994
+BARN96 - Radiators, Irving Plaza, NYC 11/14/1997
+BARN97 - Radiators, Manny's Carwash, NYC 5/30/1998
+BARN98 - The Wood Brothers (w/Medeski, Wolleson, and special guest Amos Lee), Bowery Ballroom, NYC 5/17/2008 - on bt.etree.org
+BARN99 - Pieta Brown, Bowery Ballroom, NYC 5/17/2008 - on bt.etree.org
+BARN100 - Jeff Buckley, CBGB's 313 Gallery, NYC 12/18/1993 - on dimeadozen
+BARN101 - Tiny Lights, CBGB's 313 Gallery, NYC 12/18/1993
+BARN102 - Tiny Lights, The Lion's Den, NYC 2/18/1994
+BARN103 - Tiny Lights, Club Sine', NYC 2/3/1994
+BARN104 - Ha Ha The Moose (moe. side project), BB Kings, NYC 11/23/2001
+BARN105 - Medeski Martin & Wood, Hilton Hotel Ballroom, NYC, 4/29/2005 - on bt.etree.org
+BARN106 - Tiny Lights, The Court Tavern, New Brunswick, NJ 11/24/1993
+BARN107 - Tiny Lights, Knitting Factory, NYC 10/26/1994
+BARN108 - Tiny Lights, Mercury Lounge, NYC 7/13/1994
+BARN109 - All God's Children, The Lion's Den, NYC 2/18/1994
+BARN110 - Dan Bern, Bottom Line, NYC 1/2/1999 (w/Moxy Fruvous guesting in the late show)
+BARN111 - Moxy Fruvous, Bottom Line, NYC 1/2/1999 (w/Dan Bern guesting in encore)
+BARN112 - Peter Rownan's Reggaebilly!, High Sierra Music Festival, Quincy, CA 7/6/2002 (on The Trader's Den)
+BARN113 - Conehead Buddha, Wetlands, NYC 10/2/1998
+BARN114 - Conehead Buddha, Tramps, NYC, 2/12/1998
+BARN115 - Conehead Buddha, The Lion's Den, NYC 7/2/1998
+BARN116 - Frogwings (w/special guest Warren Haynes), Wetlands, NYC, 2/9/1999 on bt.etree.org
+BARN117 - All God's Children, Jack's House Party, Long Valley, NJ 9/4/1994
+BARN118 - God Street Wine, Irving Plaza, NYC 10/9/1993
+BARN119 - David Bromberg, Tarrytown Music Hall, 10/15/1999 (on bt.etree.org / www.dimeadozen.org)
+BARN120 - The Concept w/George Porter, ?uestlove, Ivan Neville, Eric Krasno, Bill Summers, Casey Benjamin, BB King's, NYC 9/26/02 (on bt.etree.org)
+BARN121 - Percy Hill, The Lion's Den, NYC 7/13/1996
+BARN122 - Spin Doctors, The Wetlands, 9/27/1995
+BARN123 - Aquarium Rescue Unit, The Wetlands, NYC, 3/4/1994
+BARN124 - Allman Brothers Band, Red Rocks Amphitheatre, Morrison, CO 8/3/1996 (not publicly posted due to ABB trading policy)
+BARN125 - Spin Doctors, Red Rocks Amphitheatre, Morrison, CO 8/3/1996
+BARN126 - Col. Bruce Hampton and the Fiji mariners, Wetlands, NYC 9/2/1994
+BARN127 - Phil Lesh and Friends, Irving Plaza, New York, NY 5/21/2002
+BARN128 - Merl Saunders and Friends, The Wetlands, New York, NY 5/10/1990 (on bt.etree.org)
+BARN129 - God Street Wine, Wetlands, NYC 12/31/1993
+BARN130 - Bernie Worrell And The Woo Warriors, Wetlands, NYC 12/28/2000
+BARN131 - Bernie Worrell And The Woo Warriors, Knitting Factory, NYC 2/16/2002
+BARN132 - Spin Doctors, Wetlands, NYC 2/2/1991
+BARN133 - Bela Fleck And The Flecktones, Wetlands, NYC 11/10/1992
+BARN134 - Indigo Girls, Central Park Summerstage, NYC 10/10/2003 (on bt.etree.org)
+BARN135 - John Popper & Chan Kinchela acoustic, Irving Plaza, NYC 5/27/2008
+BARN136 - Moonalice, Irving Plaza, NYC 5/27/2008
+BARN137 - Spin Doctors, Irving Plaza, NYC 5/27/2008
+BARN138 - Cowboy Junkies, Supper Club, NYC 3/2/1994 (early show only)
+BARN139 - Wayne Horvitz & Zony Mash, High Sierra Music Hall, High Sierra Music Fest, Quincy, CA 7/5/2002
+BARN140 - Bruce Hornsby & The Noisemakers, High Sierra Music Festival, Quincy, CA 7/5/2002 (on bt.etree.org)
+BARN141 - Rickie Lee Jones, Town Hall, NYC 3/29/1994 (on dimeadozen)
+BARN142 - Minor Swing (John Patton / John Zorn / Ed Cherry / Kenny Wollesen), CBGB 313 Gallery, NYC 11/22/1995 - "pure jazz" series
+BARN143 - Minor Swing (John Patton / John Zorn / Ed Cherry / Kenny Wollesen), CBGB 313 Gallery, NYC 11/23/1995 - "pure jazz" series
+BARN144 - Merl Saunders and the Rainforest Band with special guests Buddy Miles, Odetta, Oteil Burbridge, and Larry Hunter, Manny's Carwash, 10/22/1996 (on bt.etree.org)
+BARN145 - Melvin Sparks, The Lion's Den, NYC 11/15/1997
+BARN146 - Melvin Sparks, Wetlands Preserve, NYC 6/14/1998
+BARN147 - Melvin Sparks, Wetlands Preserve, NYC 10/17/1998
+BARN148 - Railroad Earth, High Sierra Music Hall late night, 7/6/2002
+BARN149 - Joan Osborne, Roseland, NYC 9/14/1995 (on bt.etree.org)
+BARN150 - Joan Osborne, The Beacon Theatre, NYC 10/20/1995 (on bt.etree.org)
+BARN151 - Officially released by Ani DiFranco http://righteousbabe.com/coll..rnard-college-ny-ny-3-30-1995
+BARN152 - Phish, Garden State Arts Center, Holmdel, NJ 7/19/1992 (on bt.etree.org)
+BARN153 - The Replacements, LATE SHOW, Rutgers University, Cook Campus Center, New Brunswick, NJ 4/8/1989
+BARN154 - God Street Wine, Irving Plaza, NYC, 4/30/1994
+BARN155 - God Street Wine, City Gardens, Trenton, NJ 6/11/1994
+BARN156 - Karl Denson's Tiny Universe, Wetlands, NYC 6/14/1998
+BARN157 - Dan Bern, High Sierra Music Fest solo tent show 7/6/2002
+BARN158 - Dirty Dozen Brass Band (w/guest Chris Robinson), Irving Plaza, New York, NY 8/24/1996
+BARN159 - TJ Kirk (Charlie Hunter/Will Bernard/John Schott/Scott Amendola), Knitting Factory, NYC 11/6/1996 - "pure jazz" series
+BARN160 - Ryan Adams And The Pinkhearts - Battery Park, NYC 7/4/2003
+BARN161 - The Headhunters w/George Porter - Knitting Factory, NYC 1/24/2006
+BARN162 - Neil Young, Bonnaroo, Manchester, TN 6/13/2003 - on bt.etree.org
+BARN163 - Tom Waits, The Beacon Theatre, NYC 9/25/1999 - on dimeadozen
+BARN164 - Branford Marsalis Trio, Knitting Factory, NYC 3/22/1997 - on dimeadozen - "pure jazz" series
+BARN165 - David Murray Octet, Knitting Factory, NYC 2/16/1997 - on bt.etree.org - "pure jazz" series
+BARN166 - Van Morrison, Parc De L'Ile St. Germain Paris, France 7/3/1991 on dimeadozen
+BARN167 - "The Duo Buggin'":Marco Benevento/Joe Russo/Skerik/Mike Dillon, Rocks Off Boat Cruise, NYC 7/22/2004
+BARN168 - Southside Johnny And The Jukes - Paramount Theater, Asbury Park, NJ 12/30/1988
+BARN169 - Umphreys McGee (w/moe. setbreak takeover), The Other Tent, Bonnaroo Music Festival, Manchester, TN 6/11/2004
+BARN170 - Stevie Ray Vaughan and Double Trouble, Garden State Arts Center, Holmdel, NJ 7/7/1990 - dimeadozen
+BARN171 - Joe Cocker, Garden State Arts Center, Holmdel, NJ 7/7/1990 - dimeadozen
+BARN172 - Deep Banana Blackout, Boot Camp Week 1, Wetlands, NYC 4/8/1999
+BARN173 - Deep Banana Blackout, Boot Camp Week 2, Wetlands, NYC 4/15/1999
+BARN174 - Deep Banana Blackout, Boot Camp Week 3, Wetlands, NYC 4/22/1999
+BARN175 - Tom Petty And The Heartbreakers, Garden State Arts Center, Holmdel, NJ 8/20/1989 - dimeadozen
+BARN176 - Phish, Madison Square Garden, New York, NY 12/30/1997 - bt.etree.org
+BARN177 - Lettuce, Wetlands, NYC 1/10/01
+BARN178 - Lettuce, Wetlands, NYC 1/17/01
+BARN179 - Deep Banana Blackout, Allgood Festival, Brandywine, MD 5/22/1999
+BARN180 - Widespread Panic, Thomas And Mack Center, Las Vegas, NV 10/31/2005 - on bt.etree.org
+BARN181 - Deep Banana Blackout, The Lion's Den, New York, NY 12/6/1997
+BARN182 - Hal Willner's Neil Young Project, Prospect Park, Brooklyn, NY 6/26/2004 - on Dimeadozen and bt.etree.org
+BARN183 - Edie Brickell and New Bohemans, Garden State Arts Center, Holmdel, NJ 8/27/1989
+BARN184 - God Street Wine, acoustic in-store at East 86th Street HMV, New York, NY 10/8/1994
+BARN185 - Bob Dylan, Garden State Arts Center, Holmdel, NJ 7/21/1989 on dimeadozen
+BARN186 - Galactic, Knitting Factory, NYC 1/16/1998 - bt.etree.org
+BARN187 - Galactic, Knitting Factory, NYC 1/17/1998 - bt.etree.org
+BARN188 - Ivan Neville's Dumpstaphunk (with Trey Anastasio and Eric Krasno), BB Kings, NYC 8/5/2005
+BARN189 - Lettuce, BB Kings, NYC 8/5/2005
+BARN190 - Counting Crows, Hammerstein Ballroom, NYC 10/7/2002

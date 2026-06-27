@@ -1,0 +1,51 @@
+FUEL
+March 28, 2025
+Hard Rock Live @ Hard Rock Hotel & Casino Sacramento at Fire Mountain
+Wheatland, CA, US
+
+SETLIST:
+-------------------
+01. Want It
+02. Won't Back Down
+03. Shimmer
+04. Bittersweet
+05. Bad Day
+06. Innocent
+07. Pull Me In [live debut]
+08. Bad At Love
+09. Prove
+10. Hemorrhage (In My Hands)
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.5
+Sound Professionals SP-CMC-4U > Sony PCM-A10
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (AT-U853's, with SP UE-H-PAIR hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > Sony PCM-A10 High-Resolution Digital Audio Recorder > WAV [48kHz/24-bit] > USB connector > Insignia NS-PA3C3A USB-C to USB adapter > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 23.2 [post-production/mastering] > xACT 2.57 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+
+FLAC FINGERPRINTS:
+-------------------
+fuel2025-03-28_AUD1_t01.flac:21ecdf45ed8871964a429d1062d4afa9
+fuel2025-03-28_AUD1_t02.flac:7d963e82e8688b1ca40268ae68d81d74
+fuel2025-03-28_AUD1_t03.flac:399ae1e40be1fd6654d88f7a1bf7d82f
+fuel2025-03-28_AUD1_t04.flac:748e3189c66c28d3f72e62cb7ba76edf
+fuel2025-03-28_AUD1_t05.flac:00897ebfd3c2923b107645d93913efd9
+fuel2025-03-28_AUD1_t06.flac:3f5d89c577376eef17059563bfd25b5a
+fuel2025-03-28_AUD1_t07.flac:6b76450595862c4fc01dc5ed51d4cb10
+fuel2025-03-28_AUD1_t08.flac:9b92af98addb701dede7610dd9c9c0d1
+fuel2025-03-28_AUD1_t09.flac:28dd15ee916f3a6dce8b5ed7c7fd4f46
+fuel2025-03-28_AUD1_t10.flac:eae138510575b7035646e5232d99cdf4
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

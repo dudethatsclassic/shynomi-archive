@@ -1,0 +1,33 @@
+Counting Crows
+2006-10-07
+Las Vegas, NV - MGM Grand
+Grand Slam For Children Benefit Concert
+
+Sony MZ-R700 -> Sony ECM-DS70P mic ->
+Line in cable -> captured in QuickAudio 1.0 @
+44100 Hz/16 Bit Stereo -> tracks normalized
+and separated in Audacity (WAV) -> FLAC4
+
+Tracks:
+
+1. Intro
+2. Round Here w/La La La I'm Changed Alts
+3. A Long December w/ ext intro & ext outro
+4. Outro
+
+Adam's words: 
+Dated October 8, 2006 Evening -
+"Somewhere in the air above America"
+(http://adam.countingcrows.com/journal.php?uid=2310)
+
+"So I'm flying home from Las Vegas. We
+played a charity gig there last night. I 
+thought it went really well. We walked out 
+onstage in this massive arena filled to the
+brink with a black tie clad crowd and 
+without a word launched into a 10 minute
+version of 'Round Here' followed by a 7
+minute extended 'A Long December', then I 
+said, 'I'm sorry I'm not very talkative',
+and we left. I think they were shocked. I 
+thought it was very cool."

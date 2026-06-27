@@ -1,0 +1,24 @@
+Counting Crows
+2000-09-23
+Greek Theater
+Berkely, CA
+
+Taper; Aaron
+Source: Schoeps MK4->Denon DTR 80
+Conversion: Tacam DA 302 -> Egosys 2396 Wave Terminal-> HD->Wavelab (Tracking Only)
+Rip: CDR->WAV(EAC)->Flac Frontent
+
+Track listing:
+
+01-	Intro/Crowd Noise	02:03
+02-	Round Here		08:23
+03-	I wish I was a girl	05:53
+04-	Angels of the Silences	04:18
+05-	Perfect Blue Building	05:14
+06-	Children in Bloom	05:35
+07-	All My friends		07:55
+08-	Mr. Jones		05:21
+09-	A Long December		05:45
+10-	A Murder of One		09:12
+11-	Hanginaround		09:01
+

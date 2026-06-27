@@ -1,0 +1,33 @@
+Michael Stipe
+Webster Hall NYC, NY
+30 December 2014
+
+
+So I have been having problems with my Edirol R-09; sometimes it refuses to recognize the card and won’t start. So when this gig got to starting I fired up the Recorder Plus app I have on my iPhone. Once against did a great job. It records a mono stream at 32/48 and it sounds great. I left it as mono, to keep the size down. 
+
+As usual, I am providing the highest quality file I have and these will convert back to 32/48 audio. Re-Convert as you need for CDs or other uses but please do not trade other then original files. (as if I could stop you) If you do not like the way I record or the equipment I use, wait for another upload. 
+
+
+No playing here this is Michael Stipe. Only Patti can get an opener like that. Great stuff here, in a very Patti way.  
+
+
+01-Victoria Williams (Vic Chesnutt)
+02-About NYC and Dreams
+03-Theme From New York New York
+04-Six songs total, thats been two
+05-Wing
+06-About Saturn Return
+07-Saturn Return
+08-Patti wanted him to talk a lot
+09-Hood (Perfume Genius)
+10-Doo Wop and songs that start with Jesus
+11-New Test Leper
+
+
+PS: Don't Sell This
+
+PSS: For the inevitable requests; I’m really sorry but I can’t offer other bit depths. There is only so much time in the day and I love to contribute music to this venue and hope that folks enjoy these shows too. So I  put to the best of what I have and hope users will take a little effort to get the output files they need. It should be a one step process, I know it is with the Mac based software recommended below. I hope it is just as easy with the windows options.  
+
+On the Mac I think XLD is great; you give it a batch of files and it will out put pretty much what ever you need and will easily convert these 24bit flacs to 16bit AIFFs you can burn to CD. It will also allow you to clean up the metadata if you roll that way. Right click to apply to batch. While definitely worth a donation it is totally free, check it out. http://tmkk.undo.jp/xld/index_e.html
+
+For windows, I would drove to hear more current suggestions but I have always heard great rings about Traders Little Helper. http://tlh.easytree.org/  But I do not use it nor am I 100% sure that it will take a 24bit flac and give your a 16bit wav in one motions. I have also heard good things about  http://www.foobar2000.org/ but the same caveats apply and I would welcome any current confirmation or commentary to help make this note more helpful. 

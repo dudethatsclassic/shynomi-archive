@@ -1,0 +1,70 @@
+Counting Crows
+Reno Hilton Outdoor Amphitheater, Reno, NV
+September 19, 2000
+
+Source : Sony ECM MS-907 mic > Sony MZ R-55 Minidisc (in stereo)
+
+Transfer : Sony MZ R700 Minidisc > Tascam SD-20M (rack mount) wave recorder (16/44)
+
+Editing : Sound Forge (volume & tracking) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - April 17, 2021
+
+Transferred & Tracked by kingrue upload #3096
+===========================================
+
+
+Band line-up
+Adam Duritz - lead vocals
+David Bryson - rythym guitar, backing vocals
+Dan Vickrey - lead guitar, backing vocals
+Charlie Gillingham - keyboards, B3 organ
+Millard Powers - bass
+Jim Bogios - drums
+David Immerglück - acoustic, electric, pedal steel, slide guitar and mandolin
+
+
+Total Time = 66:08
+
+Set list
+01 Colorblind
+02 Catapult
+03 Perfect Blue Buildings
+04 Anna Begins
+05 I Wish I Was A Girl
+06 banter
+07 All My Friends
+08 Mr. Jones
+09 Angels Of The Silences
+10 A Murder Of One
+11 A Long December
+12 Hangin' Around
+
+The sound quality is very good.
+
+Recorded by Big D Vol. 46
+
+======================
+
+
+
+No errors occured.
+
+
+01 Colorblind.flac:6d74e794784d64ed66ed19369f55089c
+02 Catapult.flac:48197ccb26fd89628956da095a5b07d8
+03 Perfect Blue Buildings.flac:15956a7149a5a81f9d44611b2d08983c
+04 Anna Begins.flac:8d29f8d31912b359a5c1dd21e14b995a
+05 I Wish I Was A Girl.flac:933089bc2e2747e499783f7c155ec731
+06 banter.flac:69a3b0c47379ca6d8267a818375976a8
+07 All My Friends.flac:105961d7603703929c8e61c46e83a36c
+08 Mr. Jones.flac:7361407707a88f6bf7bbbcc03e4b5257
+09 Angels Of The Silences.flac:b1d6dd1b11bd583f467c4a6e1d8ffbb5
+10 A Murder Of One.flac:2374bbe926f36100921e43b3c0d2c544
+11 A Long December.flac:dfca4193f7a6aa48f7178fa81364aa93
+12 Hangin' Around.flac:169571f752081264e258e35b5d2e246f
+
+Checksum file saved to disk.
+
+No errors occured.
+

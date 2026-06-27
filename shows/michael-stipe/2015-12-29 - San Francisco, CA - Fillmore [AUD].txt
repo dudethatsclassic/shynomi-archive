@@ -1,0 +1,29 @@
+Michael Stipe (opening for Patti Smith)
+Tuesday December 29th 2015
+The Fillmore
+1805 Geary Blvd
+San Francisco, CA
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > Sony 16GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, amplify, tracking, downsample to 16/44.1) > flac (8) via Frontend
+
+Setlist:  24:28
+00 crowd
+01 Old Man
+02 The Crying Game
+03 People Are Strange
+04 Imagine
+05 All The Young Dudes
+
+Had no idea the opener for Patti Smith would be the singer of R.E.M.  Went to the show at the last minute.
+
+There was a flat screen TV facing the crowd with the lyrics to the songs being shown kareoke style, but they were completely out of synch the entire time.  Michael and band would join Patti Smith at the end of her set.
+
+fingerprints:
+00 - crowd.flac:dbe69acdd974e40de80a1949a90f5af0
+01 - Old Man.flac:79fab4dd26edbe6f1e03f56dbb64ba3e
+02 - The Crying Game.flac:48b14f263ff54ed0dea42353652186e1
+03 - People Are Strange.flac:fc7b48a1088db4e0389478d66e3937a6
+04 - Imagine.flac:248c9e30fe59745db5c5c26ae6cce64a
+05 - All The Young Dudes.flac:99bacbf00bd1353d8d6f4c4c730484ed

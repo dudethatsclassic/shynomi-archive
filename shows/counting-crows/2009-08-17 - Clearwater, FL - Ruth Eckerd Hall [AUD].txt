@@ -1,0 +1,108 @@
+The Saturday Night Rebel Rockers 
+Traveling Circus and Medicine Show 
+(Counting Crows, Michael Franti & Spearhead, Augustana) 
+Ruth Eckerd Hall 
+Clearwater, FL 
+2009-08-17 (Mon) 
+
+Source: Peluso CEMC-6/CK21 (X/Y 90 deg) > Mogami 2549 XLR > Edirol R-44 (Oade concert mod) 
+Location: just left of SBD @ ~10ft high (almost DFC, back of hall) 
+Lineage: USB > Sound Forge 9 (levels, resample, convert bit depth) > CD Wave (tracking) > FLAC 
+Taped by: Tim Wright 
+
+recorded at 24-bit/96kHz 
+sample rate conversion w/ highest quality setting & anti-alias filter 
+bit-depth conversion w/ highpass triangular dither & high-pass contour noise shaping 
+
+· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 
+
+Fade-In > Caravan
+Hello Bonjour
+Mrs. Potter's Lullaby
+(Talk)
+Los Angeles
+(Talk)
+Accidentally In Love
+Omaha
+(Talk)
+Sweet Virginia
+Stars And Boulevards
+Sweet And Low
+(Talk)
+Fire
+Don't Look Back (w/ Casey Jones)
+Everybody Ona Move (w/ Michael Jackson Tribute)
+All I Want Is You (w/ Tainted Love)
+(Talk)
+Sound Of Sunshine
+(Talk)
+I Got Love For You 
+(Talk)
+Delta Lady
+(Fade-Out)
+
+· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 
+
+Fade-In > Ghost Train
+Catapult
+High Life
+? (Intro To Long December?)
+A Long December
+Seen Me Lately
+A Little Bit Of Riddim
+Yell Fire (w/ Smells Like Teen Spirit)
+(Talk)
+Say Hey (I Love You)
+(Talk)
+Just Like A Woman
+Dust
+Twenty Years
+(Talk)
+Boston
+(Talk)
+Why Should You Come
+(Talk/Intro To Hanginaround)
+Hanginaround
+(Crowd)
+Cecilia
+Hey World (Remote Control Version)
+Raise A Ruckus
+Rain King (w/ With A Little Help From My Friends)
+(Talk)
+This Land Is Your Land (Fades Out)
+
+· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 
+NOTES: 
+
+Last song of the show - This Land Is Your Land - is cut (probably a minute or so missing at the end) - SD card was full 
+
+Thanks to the bands for allowing open taping & trading, and thanks to the venue & sound crew for their cooperation. 
+
+Please support these artists by seeing them live and buying CDs and merchandise. 
+
+http://www.countingcrows.com/ 
+http://www.spearheadvibrations.com/ 
+http://www.augustanamusic.com/ 
+
+· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 
+
+fades at start & end of sets, otherwise tracks are seamless
+
+3 discs required for CD audio burning - 
+my suggested tracking would be: 
+
+disc 1: 
+set 1, tracks 1-17 (a_t01 - a_t17)
+62m25s
+
+disc 2: 
+set 1, tracks 18-24 (a_t18 - a_t24) + 
+set 2, tracks 1-12 (b_t01 - b_t12)
+72m35s
+
+disc 3: 
+set 2, tracks 13-27 (b_t13 - b_t27)
+57m48s
+
+ENJOY!
+

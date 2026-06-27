@@ -1,0 +1,49 @@
+Counting Crows
+Roseland Ballroom
+New York, NY
+10/25/2012
+
+Neumann TLM-170 (hypercardoids, very FOB about 30 feet from stage, center) -> Sound Devices 722 (@24/96); FLAC File processing in SoundForge 10.0d (volume normalization; resample to 44.1 with iZotope 64-Bit SRC set higher than "Highest Quality" setting w/anti-alias filter; 24->16 bit dither using iZotope MBIT+ Dither with Ultra noise shaping, High dither settings; minor clap removal and EQ-ing out a couple of whistles); Tracked in CDWav.
+
+1.  pre-recorded intro music
+2.  The Rain King *
+3.  Untitled (Love Song) +
+4.  If I Could Give All My Love (Richard Manuel Is Dead)
+5.  Saint Robinson In His Cadillac Dream
+6.  Meet On The Ledge @
+7.  banter - the new single
+8.  Goodnight Elisabeth %
+9.  Omaha
+10. banter - good singing
+11. Four Days (abandoned)
+12. Four Days
+13. Monkey
+14. Hard Candy
+15. Start Again
+16. Time And Time Again
+17. Look At Miss Ohio -> &
+18. A Long December
+19. Return Of The Grievous Angel =
+20. Mr. Jones
+21. Come Around
+22. encore break
+23. banter - Kasey Anderson song
+24. Like Teenage Gravity -
+25. Hanginaround
+26. Holiday In Spain ~
+27. band intros
+28. pre-recorded outro music
+
+* = w/"Someone To Watch Over Me" (Gershwin) interpolation
++ = Romany Rye cover
+@ = Fairport Convention cover
+^ = w/brief "Crimson and Clover" interpolation
+% = w/"Lights On Broadway" interpolation
+& = Gillian Welch cover
+= = Gram Parsons cover
+- = Kasey Anderson cover
+~ = w/Greybird Foundation talk in intro
+
+Tender Mercies and Mean Creek opened up.  I did not tape either of them.
+
+Recorded, mastered, tracked, tagged, and posted by Scott Bernstein 11/1/2012

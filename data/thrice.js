@@ -20,9 +20,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Markthalle",
-      "notes": "OKMII · unk",
+      "notes": "OKMII \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-08-19 - Hamburg, Germany - Markthalle (OKMII) (unk) [AUD].txt"
     },
     {
       "year": 2025,
@@ -35,7 +36,8 @@ const ARTIST_DATA = {
       "venue": "Graspop Metal Meeting",
       "notes": "qew",
       "version": "WEB",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2025-06-22 - Dessel, Belgium - Graspop Metal Meeting (qew) [WEB] .txt"
     },
     {
       "year": 2026,
@@ -46,9 +48,10 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Slaktkyrkan",
-      "notes": "SP-CMC-4U · qew",
+      "notes": "SP-CMC-4U \u00b7 qew",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-03-06 - Stockholm, SWE - Slaktkyrkan (SP-CMC-4U) (qew) [AUD24] .txt"
     }
   ],
   "misc": []

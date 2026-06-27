@@ -1,0 +1,25 @@
+Avril Lavigne
+2013-11-12
+Chelsea Lately
+
+FORMAT
+----------
+MPEG-TS: 705 MiB, 6 min 53 s
+13.2 Mb/s, 1920*1080 (16:9), at 29.970 (30000/1001) FPS, AVC (Main@L4) (CABAC / 4 Ref Frames)
+384 kb/s, 48.0 kHz, 2 channels, AC-3 (Dolby Digital)
+
+TRACK LISTING
+----------
+01 Interview
+
+LINEAGE
+----------
+DirecTV (DVB-S2)-->DirecTV HD DVR HR24-100 Satellite Receiver-->Hauppauge 1212 HD PVR-->YPbPr + S/PDIF cable-->ArcSoft TotalMedia Extreme [13.5mbps CBR/384kbps AC3]-->H.264 .TS
+
+NOTES
+----------
+Cuts made to original capture file were done with a lossless editing software specifically designed for H.264 transport stream files.
+The name of the software used to make the cuts has been lost to time.
+It was not re-encoded.
+
+This is an interview only, no musical performances.

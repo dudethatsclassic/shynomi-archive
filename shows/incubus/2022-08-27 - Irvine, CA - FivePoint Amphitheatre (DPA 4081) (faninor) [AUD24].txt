@@ -1,0 +1,39 @@
+Incubus
+2022-08-27
+FivePoint Amphitheatre
+Irvine, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz PCM
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro
+02 - Nice to Know You
+03 - Circles
+04 - Wish You Were Here
+05 - Anna Molly
+06 - Just a Phase
+07 - Are You In?/Riders on the Storm
+08 - Sick Sad Little World
+09 - Stellar
+10 - Megalomaniac
+11 - Nowhere Fast
+12 - Mexico
+13 - Pardon Me
+14 - Karma, Come Back
+15 - Vitamin
+16 - The Warmth
+17 - Dig
+18 - encore
+19 - Warning
+20 - Drive
+
+-- Notes --
+Sublime with Rome and The Aquadolls opened.
+
+Length: 1h36m30s
+
+-- faninor -- 2022-08-30 --

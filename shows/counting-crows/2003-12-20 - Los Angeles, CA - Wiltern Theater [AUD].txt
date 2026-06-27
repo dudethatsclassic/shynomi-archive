@@ -1,0 +1,69 @@
+Counting Crows
+December 20, 2003
+The Wiltern Theatre
+Los Angeles, California
+
+Taper:  	blguillen / blguillen@reeseplaceband.com
+Source:		Oktava MC012's (Cards) > ps2 > ad20 > 7 Pin Cable > Sony TCD-D8
+Conversion:	Alex Coluzzi / alex@kabella.org
+		Fostex D5 > Coax > DIO 2448 > Soundforge 7.0a >
+		cdwav 1.71 > mkwact 0.97 > .shn
+Location:	FOB; DFC; back of 3rd tier; stand @ ~10 feet
+
+*******Support Lossless Audio!!***Do Not Trade .mp3s!!!*******
+****Please Respect Taper Wishes And Do Not Alter The .shns****
+****Please Do Not Sell This Show**Never Pay For Live Music****
+
+On Stage:  9:16 PM
+
+Disc One:
+
+01.  Blues Run the Game			-	04:29.43
+02.  Mrs. Potter's Lullaby		-	07:46.63
+03.  Mr. Jones				-	04:31.36
+04.  Goodnight Elisabeth (Rain King)	-	10:13.36
+05.  Friend of the Devil		-	04:42.50
+06.  Daylight Fading			-	04:15.19
+07.  American Girls (Acoustic)		-	05:00.18
+08.  Sullivan Street			-	05:10.23
+09.  Color Blind			-	03:38.37
+10.  Hard Candy				-	04:35.75
+11.  Rain King				-	06:01.24
+
+Disc One Totals:			-	60:25.63
+
+01.  Intro (Encore Break 1)		-	01.21.38
+02.  August and Everything After *	-	08:50.26
+03.  A Long December & #		-	05:55.09
+04.  Cigarette #$			-	04:42.01
+05.  6th Avenue Heartache &%		-	07:04.54
+06.  Cecilia !&#			-	04:36,39
+07.  Hagin' Around &#^@			-	06:08.18
+08.  (Encore Break 2)			-	01:35.64
+09.  The Ballad of El Goodo ~		-	05:34.26
+10.  Holiday In Spain			-	04:37.61
+
+Disc Two Totals:			-	50:26.36
+
+Off Stage:  11:07 PM
+
+Key:
+* Adam Solo
+& With the Wallflowers
+# With Graham Colton Band
+$ Graham Colton Band Song
+% Wallflowers Song
+^ With Johnny Hickman from Cracker
+@ With Bugs Salcido
+~ Big Star Cover
+
+Notes:
+
+d1t04 - Dropout between 7:55-8:09 as a result of battery change on ad20.
+d1t06 - Sporadic dropouts between 2:23-2:56.  Present on master DAT.
+
+During the quieter parts of the show, you can hear the drunken crowd chatter.
+
+Many, many thanks to Alex for the DAT conversion!!
+
+Compiled July 11, 2004

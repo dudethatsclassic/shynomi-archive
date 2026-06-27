@@ -1,0 +1,66 @@
+Anberlin - 2025 11 15 - 2025 11 15 @ Tinker Field, Orlando, FL
+
+Anberlin is an American alternative rock band formed in Winter Haven, Florida, in 2002. Since the beginning of 2007, the band consists of lead vocalist Stephen Christian, guitarists Joseph Milligan and Christian McAlhaney, bassist Deon Rexroat, and drummer Nathan Young.
+
+Godspeed
+Never Take Friendship Personal
+A Day Late
+High Stakes
+Impossible
+Readyfuels
+Paperthin Hymn
+The Resistance
+The Feel Good Drag
+
+Lineage: Webcast > yt-dlp > LosslessCut > MP4
+
+General
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom (isom/iso2/mp41)
+File size                                : 541 MiB
+Duration                                 : 35 min 53 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 107 kb/s
+Frame rate                               : 60.000 FPS
+Writing application                      : Lavf60.3.100
+
+Video
+ID                                       : 1
+Format                                   : VP9
+Codec ID                                 : vp09
+Duration                                 : 35 min 53 s
+Bit rate                                 : 1 975 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 60.000 FPS
+Minimum frame rate                       : 58.824 FPS
+Maximum frame rate                       : 62.500 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bits/(Pixel*Frame)                       : 0.016
+Stream size                              : 507 MiB (94%)
+Language                                 : English
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : Opus
+Codec ID                                 : Opus
+Duration                                 : 35 min 53 s
+Source duration                          : 35 min 53 s
+Bit rate mode                            : Variable
+Maximum bit rate                         : 121 kb/s
+Sampling rate                            : 48.0 kHz
+Compression mode                         : Lossy
+Source stream size                       : 30.9 MiB (6%)
+Language                                 : English
+Default                                  : Yes
+Alternate group                          : 1
+
+

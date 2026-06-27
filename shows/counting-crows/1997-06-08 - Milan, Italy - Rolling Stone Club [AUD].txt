@@ -1,0 +1,18 @@
+7354d7b415f42c63060bff3835ab2b79 *D1 01 Recovering the Satellites.flac
+13af9263ddc3b92fa546bb2c343b23fe *D1 02 Angels of the Silences.flac
+b9f9ea35372ea7cf6251d6d2f51b0ab5 *D1 03 Daylight Fading.flac
+530591fdc6ea504555e3b4cd3448c5de *D1 04 Ghost Train .flac
+d3aa557c686bb03ae4f111c85d61bf98 *D1 05 Catapult .flac
+b67516cb6fd048066b2572a060eb75f2 *D1 06 Mercury.flac
+db5c67bf19c554e6543bd4a3ffaeaea0 *D1 07 So You Want to Be a Rock 'n' Roll Star.flac
+630cc744e685966c1733a5e32b96a793 *D1 08 Mr. Jones.flac
+8f7fb162503ec921a16eb9db14d6d54d *D1 09 Omaha .flac
+2795f4cd3ffddf3eb2f6c5708e20e56c *D1 10 Goodnight Elisabeth .flac
+52916f0bc71bca7e04fcc8309a1a9ce5 *D2 01 Anna Begins .flac
+90d20ab5a4a024be6896c56ea8e892c2 *D2 02 Children in Bloom .flac
+c494ae3030f8f1d27a4822fb921790fb *D2 03 Rain King.flac
+533aa7caff46aedba4407b5c3444bf57 *D2 04 I'm Not Sleeping.flac
+be4a12dfd1799621965f47cb73691344 *D2 05 A Murder of One.flac
+37224ac8c2bd6da8f4ccb8ab404d206a *D2 06 Round Here.flac
+8509c731d610fbf0011b5d9cfef81b49 *D2 07 A Long December.flac
+07ccdf373fd03fbcd71768a81cf1e190 *D2 08 Walkaways.flac

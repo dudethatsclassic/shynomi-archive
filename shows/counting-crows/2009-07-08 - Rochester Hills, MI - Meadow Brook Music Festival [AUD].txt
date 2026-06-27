@@ -1,0 +1,40 @@
+Counting Crows
+July 8th, 2009
+Meadow Brook Music Festival
+Rochester Hills, MI
+
+Taper: Richard Simms (sullen)
+Source: AKG c460b/ck61 > UA-5 BM2P+ > Microtrack II (24/96)
+Transer: Mictrotrack II with Transcend 133x CF > Computer via USB 2.0 
+Processing: Adobe Audition 1.5 > 
+            Resample/Dither to 16/44.1, Fades, Increase Volume >
+            CD Wave Editor 1.94.5 > FLAC FrontEnd (Level 8, Align SB)
+Tagging: Foobar2000 v0.9.5.3 with TradersFriend Component 
+
+Disc 1
+Main Set
+01. Intro
+02. Caravan* (Van Morrison)
+03. Omaha*
+04. Mrs. Potter's Lullaby*
+05. Long December
+06. Good Time
+07. Sundays
+08. Anna Begins
+09. Have You Seen Me Lately?
+10. Perfect Blue Buildings
+11. Washington Square
+12. Why Should You Come When I Call?*
+13. Hanginaround*
+
+Disc 2
+Encore
+01. Cecilia* (Simon and Garfunkel)
+02. Rain King*
+03. This Land Is Your Land [Abbreviated] (Woody Guthrie)
+
+* Featuring Augustana
+
+1. Keep live music free for everyone!  Counting Crows are an Open Taping band. 
+   Please help preserve this privilege - DO NOT SELL THIS RECORDING! 
+2. For Liane.

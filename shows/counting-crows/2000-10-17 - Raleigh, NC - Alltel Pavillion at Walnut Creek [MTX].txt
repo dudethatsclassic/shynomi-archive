@@ -1,0 +1,36 @@
+10.17.00
+Alltel Pavillion at Walnut Creek, Raliegh NC
+
+Taper: #1 JP
+Taper: #2 David Niehoff
+
+Source #1: HEBs -> Inbox -> D8
+Source #2: ATR55 -> MD
+
+Location: 3rd row center section (both sources)
+
+Source #1 DAT->WAV: DA-20 -> Zefiro ZA2 -> WAV
+Source #2 MD->CD: Sony MDR MZ-R37 -> DIO 2448 -> WAV -> CD
+Matrix: Source #2 CD -> Plextor Digital Extraction -> WAV ->
+Sound Forge Matrix of both sources -> CD
+CD->SHN: CD -> MarvinTEC ACXtractor -> WAV -> SHN
+
+*Clicks edited SHN -> WAV -> Cool Edit Pro v1.2a -> SHN 
+
+Note: Heavy clicks were present beginning with Round Here @ 5:10 and various other areas throughout the recording. As of the time I am typing this, it is unknown as to whether these clicks are present on the DAT and/or MD masters. There were also smaller record-like pops throughout the show that were cleaned up using the pop removal tool.
+
+Setlist:
+  
+01. Intro                          
+02. Round Here   
+03. I Wish I was a Girl 
+04. Daylight Fading 
+05. Recovering the Satellites
+06. Speedway 
+07. Anna Begins 
+08. Private Archipelago
+09. A Long December 
+10. Mr. Jones 
+11. St. Robinson in his Cadillac Dream
+12. Murder of One
+13. Hangin Around 

@@ -1,0 +1,127 @@
+Incubus
+Moose's Tooth Pub & Pizzeria (Outdoor Stage)
+Anchorage, AK
+July 7, 2018
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P w/3-way lo-cut filter (@ 80hz, middle setting) > Tascam DR-2d @ 16 bit/44.1 kHz 
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [Waves GEQ Classic plugin (EQ - see settings below); iZotope Mastering Suite (declick);                minor edits, normalize, & fades] > CDWav tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging) 
+Location:  About 10 feet back from the right corner of the Soundboard, 30-40 yards from the stage, DFC
+Recorded by:  Steve "ballsdeep" Hagar 
+Mastered by:  Dennis Orr, with EQ settings suggested by steve Hagar
+
+Setlist: (1:44:01)
+01 Privilege
+02 Glitterbomb
+03 Anna Molly
+04 Megalomaniac
+05 A Kiss To Send Us Off
+06 State Of The Art
+07 Nice To Know You
+08 Love Hurts
+09 Pardon Me
+10 Adolescents
+11 Sick Sad Little World
+12 Stellar
+13 Isadore 
+14 Calgone >
+15 Need You Tonight
+16 Nimble Bastard
+17 Wish You Were Here (With snippet of Pink Floyd's "Wish You Were Here")
+18 Encore Break
+- Encore -
+19 No Fun
+20 Drive
+21 Warning
+
+Brandon Boyd - lead vocals
+Mike Einziger - guitar & backing vocals
+Ben Kenny - bass & backing vocals
+Chris Kilmore - turntables, keyboards, theremin, & synthesizers
+José Pasillas II - drums
+
+Mastering Notes:
+Frequent wind, crowd chatter, and girly screams - it is what it is!
+
+EQ Settings
+40 Hz - minus 12 dB
+63 Hz -  minus 12 dB
+100 Hz - minus 6 dB
+250 Hz - plus 2 dB
+630 Hz - minus 4 dB
+1.6 kHz - plus 4 dB
+2.5 kHz - plus 2 dB
+4 kHz -  plus 4 dB
+6.3 kHz - plus 2 dB
+10 kHz - plus 4 dB
+16 kHz - plus 2 dB
+
+Show Notes:
+Well, good ol' Stinkubus was announced this Spring as a *two* show affair (outdoors, at that), and due to driving all that way (350 miles each way, gone from town about 40 hours total), it would be *silly*  to only go to one of them, right?
+
+Or are they one of those bands that plays the same songs...in the same order...with the same banter (Alice In Chains? Scorpions? Def Leppard)...night after night after night? (Klaus Meine: "Weeeee're Still Lovin' You (insert your city here))
+
+Well, these two shows could not have been more different in nearly *all* aspects...meaning crowd, wind, chatter, setlist...the whole effing shebang.
+
+Here, you have night 1:
+
+---A fucking INXS COVER! lets just get that right out of the way. Full version too, I believe.
+
+OK, this show was:
+
+- Sold out....to the point of 'oversold' (pretty sure outdoor capacity is 2500, Moose's Tooth basically turns their lot into a outdoor venue with a stage and some fencing)
+
+- Drunk, social jackholes wherever you turned...can only imagine what this sounds like on headphones (BLAH BLAH BLAH...all...show...lonng). I had my feet stepped on ten times, nearly that many beers spilled as well. The best was the guy who slammed into me rather hard (there was *nowhere* to go...#sardinecity)...and was "why are you being a dick?" (paraphrased). He got the stinkeye, and went another route.
+
+I was about 10 feet back from the right corner of the board (30-40 yards from the stage, DFC), and these three older ladies (think: over 60) were playing pitbull around the perimeter of the soundboard fence. Anyone who touched it or came within a yard of it got 'bit'. No bullshit
+
+Apparently several fights broke out closer to the front, but again, it was shoulder to shoulder. Even looking down at the phone was a chore.
+
+- Wind...ahhhh, the wind...the gusty, 10-15mph winds. no windscreens. I figured the show was ruined. The geese (mindless talkers) sure are prominent (in comparison to night 2), as already mentioned above.  For some strange reason, it mainly picked up in between the songs, though you hear it a few times during as well.
+
+All that said, their funky alt-rock mix (more on that with night 2's notes) was eaten up by Anchorage, to the tune of a nearly 100 minute set. 18 songs, I believe.
+
+
+How much did  they change it up the next night?
+
+Did the Dipshit Taper learn from his mistakes?
+
+Stay tuned on all that....
+
+He's not an incubus...nor a succubus. He's, simply put, a machine named Dennis...new...old...master...tapes with gens...it don't matter, throw it at him, and it seems to stick...kinda like my drawers when thrown at a wall...minus the poo.
+
+Myself, on the other hand...I'm all them evil aliens, and more...
+
+So have at it.
+
+
+The next night is a *must have*, when compared to this one.
+
+You want?
+
+I got.
+
+-Dr. Deep Esq. III is ready for the nap sack...
+
+Incubus2018-07-07t01.flac:77aec0739b52c1972e98a9d434aa82e3
+Incubus2018-07-07t02.flac:626ef204db2fa2803940d8cb8b03d67a
+Incubus2018-07-07t03.flac:ea62bbd9514dadbd4b994a95f0367725
+Incubus2018-07-07t04.flac:3deccffb34fbe71850a848e1d8283b66
+Incubus2018-07-07t05.flac:067533e507405a3499e1161a15c0fe9b
+Incubus2018-07-07t06.flac:17c8ddd771c4d844b465a1962510128e
+Incubus2018-07-07t07.flac:60d29c2c6a74a941148c83ab560eab8c
+Incubus2018-07-07t08.flac:86ce5ce1505419f2abb8a1efb33784e0
+Incubus2018-07-07t09.flac:2b376ce9831e0a98c8472427bfb0c394
+Incubus2018-07-07t10.flac:2f14515964067aca9dfe9afea6e9ce1b
+Incubus2018-07-07t11.flac:344de8d74b176c07dd37833a584f0d9f
+Incubus2018-07-07t12.flac:2eaa9c9b2e3ac684b2feee263be538ae
+Incubus2018-07-07t13.flac:858bda581b9591f25677a6939f1f576c
+Incubus2018-07-07t14.flac:f2ff0df37e753986659750b047f37962
+Incubus2018-07-07t15.flac:5907e003499e1bc2dd1135046b64dc64
+Incubus2018-07-07t16.flac:8a2d4503cdbaf5d2e122db61161ace1a
+Incubus2018-07-07t17.flac:c113d806858d8b8d3121f898301fe5f0
+Incubus2018-07-07t18.flac:03f230f0ab18b6c099eb55cf9c1da305
+Incubus2018-07-07t19.flac:e07bafa0a55b2a6a5c69056a10f4f523
+Incubus2018-07-07t20.flac:eb340040992d85ef0bc1c853f9bacb16
+Incubus2018-07-07t21.flac:1a9d1bdf943ba48cf29bc3834d6359b1

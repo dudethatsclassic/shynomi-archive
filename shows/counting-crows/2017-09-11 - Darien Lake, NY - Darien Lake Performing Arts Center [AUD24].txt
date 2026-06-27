@@ -1,0 +1,29 @@
+Counting Crows
+Performing Arts Center
+Darien Lake
+Darien Center, NY
+September 11, 2017
+
+
+24 bit version
+
+Taper: Binko
+Gear: AT831s > Tascam DR-08
+Mastered by }{eywood
+Lineage: DR-08 (recording to .wav @ 24/96) > USB > Adobe Audition 1.5 (EQ, normalization, splits & fades) > Xrecode II (flac 8)
+
+
+01 Omaha
+02 Scarecrow
+03 Hard Candy
+04 Colorblind
+05 Good Time
+06 Miami
+07 Goodnight Elisabeth / Pale Blue Eyes
+08 Goodnight L.A.
+09 A Long December
+10 Elvis Went to Hollywood
+11 Mr. Jones
+12 Hanginaround
+
+13 Rain King

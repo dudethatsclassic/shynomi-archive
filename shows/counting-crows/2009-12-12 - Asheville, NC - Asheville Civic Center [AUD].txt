@@ -1,0 +1,75 @@
+COUNTING CROWS
+2009-12-12, Asheville, NC
+
+Warren Haynes Presents
+The 21st Anniversary of
+The Christmas Jam
+
+
+01 - Round Here
+02 - Abbey Road Medley (Golden Slumbers>Carry That Weight>The End)
+03 - Miami
+04 - Good Night LA
+05 - 1492
+06 - Washington Square
+07 - Long December
+08 - Rain king w/ Warren Haynes>
+09 - With A Little Help From My Friends> w/ Warren Haynes & Jeff Austin
+10 - Rain King w/ Warren Haynes
+11 - This Land is Your Land w/ Warren Haynes 
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+    10:01.20      106063484 B   ---   --   ---xx   flac  0.5279  cc2009-12-1201.flac
+     4:18.29       45579452 B   ---   --   ---xx   flac  0.5519  cc2009-12-1202.flac
+     6:27.00       68266844 B   ---   --   ---xx   flac  0.5547  cc2009-12-1203.flac
+     4:21.69       46202732 B   ---   --   ---xx   flac  0.5147  cc2009-12-1204.flac
+     5:45.71       61025036 B   ---   --   ---xx   flac  0.5588  cc2009-12-1205.flac
+     6:04.61       64353116 B   ---   --   ---xx   flac  0.4621  cc2009-12-1206.flac
+     7:03.38       74706620 B   ---   --   ---xx   flac  0.5249  cc2009-12-1207.flac
+     5:34.51       59037596 B   ---   --   ---xx   flac  0.5680  cc2009-12-1208.flac
+     5:08.08       54350060 B   ---   --   ---xx   flac  0.5499  cc2009-12-1209.flac
+     2:39.40       28141724 B   ---   --   ---xx   flac  0.5899  cc2009-12-1210.flac
+     4:54.47       51972188 B   ---   --   ---xx   flac  0.4879  cc2009-12-1211.flac
+    62:19.59      659698852 B                            0.5324  (11 files)
+
+
+MD5:
+99d6b5215bd068b017eb0841085c223a *cc2009-12-1201.flac
+ea45e9c715b512cf928aeba742528092 *cc2009-12-1202.flac
+64bb4ea254fa58c25513bfee59e5199a *cc2009-12-1203.flac
+e467fd9815219889245b764c04410421 *cc2009-12-1204.flac
+a6eb99a6675f6ae7ae5a37c579362dbc *cc2009-12-1205.flac
+774aa24138c39676b240b27022e266c1 *cc2009-12-1206.flac
+020ccc52cae6ff9babfc136b2b775787 *cc2009-12-1207.flac
+bc773e59792ecc8a342ad4d35e7b7a82 *cc2009-12-1208.flac
+dc38f12a779ee1d4ebac509d075db8f9 *cc2009-12-1209.flac
+77427df252d61fd8cbdbf9b57e322dd0 *cc2009-12-1210.flac
+0924c27c1d09f81171137581b52e75d0 *cc2009-12-1211.flac
+
+
+FFP:
+cc2009-12-1201.flac:527407599e258daaa682e6aeb5ea7661
+cc2009-12-1202.flac:02b7cf4b54bd34cbc4e3e84d84f2468c
+cc2009-12-1203.flac:5d47cf2db28ac42140db71003d6cd7e0
+cc2009-12-1204.flac:63e51e921d38291f8eed2fa4918707b4
+cc2009-12-1205.flac:423dfabd9a534720d911a595a7621996
+cc2009-12-1206.flac:77da009ef509e387d31c6fa28d4b3583
+cc2009-12-1207.flac:e917aa79c25e3a11ba031bdf09425f27
+cc2009-12-1208.flac:1d0f78561a2e7112c1798619b4b566ec
+cc2009-12-1209.flac:d903b89d3646551fc7a0e92f6e716ee4
+cc2009-12-1210.flac:0fdbf9c6067df869ce35f62e464d380f
+cc2009-12-1211.flac:daf28c97094cd3e6bf20ec3cecf3760a
+
+
+ST5:
+527407599e258daaa682e6aeb5ea7661  [shntool]  cc2009-12-1201.flac
+02b7cf4b54bd34cbc4e3e84d84f2468c  [shntool]  cc2009-12-1202.flac
+5d47cf2db28ac42140db71003d6cd7e0  [shntool]  cc2009-12-1203.flac
+63e51e921d38291f8eed2fa4918707b4  [shntool]  cc2009-12-1204.flac
+423dfabd9a534720d911a595a7621996  [shntool]  cc2009-12-1205.flac
+77da009ef509e387d31c6fa28d4b3583  [shntool]  cc2009-12-1206.flac
+e917aa79c25e3a11ba031bdf09425f27  [shntool]  cc2009-12-1207.flac
+1d0f78561a2e7112c1798619b4b566ec  [shntool]  cc2009-12-1208.flac
+d903b89d3646551fc7a0e92f6e716ee4  [shntool]  cc2009-12-1209.flac
+0fdbf9c6067df869ce35f62e464d380f  [shntool]  cc2009-12-1210.flac
+daf28c97094cd3e6bf20ec3cecf3760a  [shntool]  cc2009-12-1211.flac

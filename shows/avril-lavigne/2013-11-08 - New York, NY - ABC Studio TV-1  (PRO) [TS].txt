@@ -1,0 +1,26 @@
+Avril Lavigne
+2013-11-08
+ABC Studio TV-1, New York, NY
+
+FORMAT
+----------
+MPEG-TS: 1.36 GiB, 13 min 34 s
+13.2 Mb/s, 1280*720 (16:9), at 59.940 (60000/1001) FPS, AVC (Main@L4) (CABAC / 4 Ref Frames)
+384 kb/s, 48.0 kHz, 6 channels, AC-3 (Dolby Digital)
+
+TRACK LISTING
+----------
+01 Introduction/Interview
+02 Let Me Go
+
+LINEAGE
+----------
+DirecTV (DVB-S2)-->DirecTV HD DVR HR24-100 Satellite Receiver-->Hauppauge 1212 HD PVR-->YPbPr + S/PDIF cable-->ArcSoft TotalMedia Extreme [13.5mbps CBR/384kbps AC3]-->H.264 .TS
+
+NOTES
+----------
+Cuts made to original capture file were done with a lossless editing software specifically designed for H.264 transport stream files.
+The name of the software used to make the cuts has been lost to time.
+It was not re-encoded.
+
+This was a promotional appearance on the talk show "Katie". Specifically season 2, episode 45.

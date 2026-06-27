@@ -1,0 +1,35 @@
+10.04.02
+R.P.I. Fieldhouse Troy, NY
+
+Taper: Eric Naylor 
+
+Source: AKG 480/ck61 > Lunatec V2 > Tascam DA-P1
+
+Setup: DFC, directly BOB, 15' stand, XY-90 mics
+
+Conversion: Tascam DA-20MKII > Marantz CDR500
+SHN: HP CD-Writer cd16f > EAC > MKW
+
+
+Setlist: 
+
+01. Intro
+02. Mrs. Potters Lullaby
+03. Hard Candy
+04. Mr. Jones
+05. Goodnight Elizabeth
+06. Amercian Girls
+07. St. Robinson in his Cadillac Dream
+08. Richard Manuel is Death
+09. Goodnight L.A. 
+10. A Long December
+11.  Big Yellow Taxi
+12. Catapult
+13. Holiday in Spain
+14. Miami
+15. Have You Seen Me Lately?
+16. Rain King
+17. Round Here
+18. Hanginaround
+19. Blues Run the Game
+20. Sullivan Street

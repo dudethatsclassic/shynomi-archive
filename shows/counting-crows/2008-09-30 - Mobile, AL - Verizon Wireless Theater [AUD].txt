@@ -1,0 +1,54 @@
+Counting Crows
+Verizon Wireless Amphitheater
+Pelham, AL
+2008-09-30
+
+01. Lean on Me > Band Intro
+02. Caravan
+03. When I Dream of Michelangelo
+04. Hard Candy
+05. Mr. Jones
+06. Stage Banter
+07. Washington Square
+08. Miami
+09. Hanging Tree
+10. Big Yellow Taxi
+11. Accidently in Love
+12. Hanging Around
+13. Cecila
+14. Rain King* > Little Help From My Friends > Rain King
+15. Adam's Grey Bird Rap >
+16. Holiday in Spain
+
+* with long alt intro
+
+Total Time: 79:35
+
+
+Notes: Performed the show with members of Augustana under the name Augustana and Everything After. No encore break due to time. Thanks to Travis Conway with setlist help.
+
+Location: SBD at 10'
+
+Source: Schoeps MK4(nos) > KC5 > CMC6 + MK21|MK8(mid-side) > Kynd Kables > Busman Mod Edirol R-4 Pro @ 24/48
+
+Lineage: Edirol R4 Pro @ 24/48 > HD > Wavelab 5 > CDWave 
+
+Tape and Transfer: Jeff Hatcher (habit1973@gmail.com)
+
+
+b46476e8453d35f3491c93e5579572fa *countingcrows2008-09-30jhatcher_t01.flac
+f86a28df76d05853a2a3f67716f745fe *countingcrows2008-09-30jhatcher_t02.flac
+6575dffaba6aa664d67cc26f03eab0c4 *countingcrows2008-09-30jhatcher_t03.flac
+68484db0f8aba9884d3fa1757eb93d55 *countingcrows2008-09-30jhatcher_t04.flac
+d092ca82ee24b420d480a2ab640db9db *countingcrows2008-09-30jhatcher_t05.flac
+43cbde96e630ae00cdcbe2ddf2e5704e *countingcrows2008-09-30jhatcher_t06.flac
+4e870f31052b5c3cba2ea7534ebee5ba *countingcrows2008-09-30jhatcher_t07.flac
+9d093227c739ca75c07b2fab67d78d35 *countingcrows2008-09-30jhatcher_t08.flac
+fd66af6f6bb274c5bafc3b4552beac26 *countingcrows2008-09-30jhatcher_t09.flac
+59887966bdaa152b1b26bd258679c32c *countingcrows2008-09-30jhatcher_t10.flac
+b358804e69d4616bd91be9192f0d57c7 *countingcrows2008-09-30jhatcher_t11.flac
+245dad4545d4207a5f20d5f444ad9bec *countingcrows2008-09-30jhatcher_t12.flac
+2aebffdcf8395483f1d68f3fed6a7061 *countingcrows2008-09-30jhatcher_t13.flac
+81ea6ff4d13d05ec2692c7a0e677f188 *countingcrows2008-09-30jhatcher_t14.flac
+463d65058701fba779b2c36a0ad2afdf *countingcrows2008-09-30jhatcher_t15.flac
+1965fa133a40079c9fd91ad6b44420a0 *countingcrows2008-09-30jhatcher_t16.flac

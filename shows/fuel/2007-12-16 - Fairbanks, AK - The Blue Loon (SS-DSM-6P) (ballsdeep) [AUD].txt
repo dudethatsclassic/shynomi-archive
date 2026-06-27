@@ -1,0 +1,91 @@
+Fuel
+The Blue Loon
+Fairbanks, AK
+December 16, 2007
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P w/3-way lo-cut filter (most likely the middle setting) > Sony WM-D6 > Cassette master
+Transfer:  Cassette master > Denon DN-790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Mastering:  .WAV's > iZotope RX11 Advanced v11.0.1.3871 (De-Click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > CDWav
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.17 (tagging)
+Recorded & transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist: (1:26:01)
+01 Intro 
+02 Last Time >
+03 Gone >
+04 Scar 
+05 Chat
+06 Shimmer >
+07 Bittersweet 
+08 Falls On Me 
+09 Chat
+10 Quarter 
+11 Won't Back Down 
+12 Chat
+13 Wasted Time 
+14 Bad Day 
+15 Sunburn 
+16 Chat
+17 Not This Time >
+18 Empty Spaces >
+19 Prove 
+20 Encore Break
+- Encore -
+21 Innocent 
+22 Jesus Or A Gun
+23 Chat & Band Intros 
+24 Hemorrhage (In My Hands)
+
+Toryn Green - lead vocals
+Carl Bell - lead guitar & backing vocals
+Ronny Paige - bass
+Tommy Stewart - drums
+
+Mastering Notes:
+Tape flip after "Wasted Time"- seamlessly spliced, no music was lost
+
+Show Notes: 
+Both of these shows were a lot of fun, and I went both nights hoping for a bit of setlist variation, but it was not to be.
+
+The other interesting note here is that Toryn Green was Fuel's new singer, and he actually grew up right here in Alaska! (his Wiki page is pretty interesting, in regards to what he did 
+prior and after).
+
+I believe he exited the band a few years later, as when I saw Fuel at the Crawfish Boil in Birmingham, AL in the early '10's ('10? '11?), they had the original singer back with them (I 
+think his name was Brett Scallions).
+
+This was taped prior to my filming shows, so I was down on the floor (instead of up in the balcony), up close. The pro was a nice, fat, punchy sound (due to being closer to the stage), 
+but the con was a bit more crowd noise than the majority of my Loon captures.
+
+Still a fun listen with all the hits, and a few new songs with Toryn mixed in from their current album at the time. (Angels & Devils)
+
+You know his name, he's a legendary uploader and masterer....simply put, alms to Dennis, and middle fingers for me.
+
+-ballsdeep is OUT!
+
+Fuel2007-12-16t01.flac:90086ee016abbd2b4854b7683bb16ec7
+Fuel2007-12-16t02.flac:51d750b4aeb144cb8ab782dd22d21186
+Fuel2007-12-16t03.flac:bc2d5d09863c4bd89550cb80ae782ad9
+Fuel2007-12-16t04.flac:9713c3aa1efef0e4a235a3d288441a5d
+Fuel2007-12-16t05.flac:2161fb1a786459554ed666aa9f611541
+Fuel2007-12-16t06.flac:137a2ece4f4300545ad577fba1485769
+Fuel2007-12-16t07.flac:5146242d554f36bccc76cd24fa8b37f2
+Fuel2007-12-16t08.flac:abc6690ba55ed9a09f2d6b7b49336211
+Fuel2007-12-16t09.flac:3bcae652e8b8c3aedf1bb5137598ec2c
+Fuel2007-12-16t10.flac:2ca79d60a12eb816c956f78791616c17
+Fuel2007-12-16t11.flac:7adc2db8eeb1afc74734cdc0d1409f72
+Fuel2007-12-16t12.flac:c07365738c694f507250cc693f31888b
+Fuel2007-12-16t13.flac:bb278d53e9cbbc28e9d46079a5dd1c6d
+Fuel2007-12-16t14.flac:b5eaeafa97bb5bb9d10a01184e4c1ea3
+Fuel2007-12-16t15.flac:eb44f909bc4f9a5ff3466919d3c9ac8a
+Fuel2007-12-16t16.flac:46d93a3609d34561ac4127cb22b71594
+Fuel2007-12-16t17.flac:56d0762bde7799cf280c846e585bbd36
+Fuel2007-12-16t18.flac:11f2898f8ed354aeb927efcb9c025847
+Fuel2007-12-16t19.flac:79eeea5fc2f87b515731d807e3e6779f
+Fuel2007-12-16t20.flac:265f42785b3f8ccbf952aacf589d5d7c
+Fuel2007-12-16t21.flac:5a9bbdc7f6617dd8297d61bd717fbb41
+Fuel2007-12-16t22.flac:58583b2cad95f15e08ad688c4ba21347
+Fuel2007-12-16t23.flac:fe06b79d3f7ddb8f7cee10082a812d79
+Fuel2007-12-16t24.flac:65e1e28c0715040aef072ef177a220dd

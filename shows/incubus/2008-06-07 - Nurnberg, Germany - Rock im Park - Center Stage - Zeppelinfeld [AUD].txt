@@ -1,0 +1,60 @@
+Incubus
+7th June 2008 
+Nürnberg, Germany
+Zeppelinfeld, Rock im Park, Center Stage
+
+taper: 		DaGobert
+ICQ:		165-726-126
+
+source:		MBHO MBP 603 A / KA 200 N > Sony XLR-1 > Sony PCM-D50 @ 24/48
+mic config: 	in hat, DINa (17cm, 90°)
+location:	in the middle of the first (right) wavebreaker (watch the "my taping position-jpg")
+transfer:	Sony PCM-D50 > USB2.0 > PC > Adobe Audition3 > Flac Frontend 1.7.1 Etree Edition (Level8)
+editing:	Audition3:	
+
+		• volumeboost on the right channel (+1.6dB)
+		• tracking
+		• fadeIn/Out
+		• ozone3:	
+			- rockmaster 4 band /w Excitation, Eq and Widening
+				- loudness maximizer:
+					- treshold: -7dB
+					- margin: -0.3dB
+				- eq:	highpass
+					- Gain: 0dB
+					- Freq: 30Hz
+					- Q/Slope: 0.5	
+				
+ 			- dithering to 16/44.1
+
+Setlist: 
+
+01 - Just A Phase
+02 - Nice To Know You
+03 - Wish You Were Here
+04 - Anna Molly
+05 - Circles
+06 - A Kiss To Send Us Off
+07 - Love Hurts
+08 - Drive
+09 - Megalomaniac
+10 - Priceless
+11 - Are You In?
+12 - Pistola
+13 - Oil And Water
+14 - A Crow Left Of The Murder
+
+Notes: Got some noise on the left channel of all my recordings from 7th June 2008 - dont know what has
+been wrong there...
+
+
+
+*****************************************************************************************************
+*****************************************************************************************************
+*****************************************************************************************************
+**********please dont upload/edit/encode this recording without my permission************************
+*****************************************************************************************************
+**************************************DON'T SELL THIS SHOW*******************************************
+*****************************************************************************************************
+*****************************************************************************************************
+*****************************************************************************************************

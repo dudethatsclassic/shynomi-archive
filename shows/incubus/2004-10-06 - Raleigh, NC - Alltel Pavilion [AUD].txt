@@ -1,0 +1,69 @@
+Band: Incubus
+Date: October 06, 2004
+Title: Burn Into Obscurity
+Matrix: GSJ-038 (Genuine Space Jewel Recording)
+
+Venue: Alltel Pavilion
+Location: Walnut Creek (Raleigh), North Carolina
+
+Equipment: Sony WM-D3 with ECM-909 mic -(rec)-> Kenwood KX-W6060 -(xfer)->
+           Adobe Audition -(capture)-> mkwAudioCompression -(SHN)-> DONE!
+
+Comments: The recording was made from Section 6 Row O, dead center few rows back from the soundboards. Opening act for the show was Bew Kweller. Interestingly, it turns out that Brandon had a very eventful day. He was arrested while boarding a plane from New York to North Carolina because he had a knife in his luggage. He arrived in Raleigh and had a police escort to the Alltel Pavilion. He arrived at the show just in time to walk on stage and start the show. Included with the show is a news article that reports the incident. 
+
+Setlist:
+ Disc 1
+  01. Halo
+  02. Pistola
+  03. Nice to Know You
+  04. Idiot Box
+  05. Wish You Were Here
+  06. Just a Phase
+  07. Stellar (with Police covertune)
+  08. Nowhere Fast
+  09. Here In My Room
+  10. Drive (remix version)
+
+ Disc 2
+  11. Priceless
+  12. Vitamin
+  13. Drum Solo
+  14. Everything in Ebb
+  15. Talk Shows on Mute
+  16. Crowded Elevator
+  17. A Certain Shade of Green
+  18. Sick Sad Little World
+  19. Megalomaniac
+  20. Encore Break
+  21. Pantomine
+  22. Southern Girl
+  23. Pardon Me
+
+
+MD5 checksum values:
+defa6af2ce0fb3cec7bcf594d6d05995 *01. Halo.shn
+ad91a4149295e13b0b28c3fe037d781d *02. Pistola.shn
+633f365475caea96c67d89dc1f07dd66 *03. Nice to Know You.shn
+83490939da84301982372cb264aee092 *04. Idiot Box.shn
+f61dc77a34135d6863cf9a17404d08c8 *05. Wish You Were Here.shn
+023ccf4e57935f2c953a909de89ef6a5 *06. Just a Phase.shn
+806a5534b14ca68dd2d3636d010a41ca *07. Stellar (with Police covertune).shn
+fd3244ea6dcb0b12b124eff64398ef0a *08. Nowhere Fast.shn
+81502a5df0eae3e2eb26a3db82f4be93 *09. Here In My Room.shn
+b6ad64b1e3727da7b7318bedd60fb6e1 *10. Drive (remix version).shn
+e413d869cdbb42984d45b3717ffd45c1 *11. Priceless.shn
+5691a5827205d2a2f2c8c640cded1c8e *12. Vitamin.shn
+5bef879729cab765d28685eba37ee82c *13. Drum Solo.shn
+13b895e03465585256104907e6fecdb6 *14. Everything in Ebb.shn
+9d83d77189c6ee80cb066affe69ca408 *15. Talk Shows on Mute.shn
+c8ce17362779f3a5a8ad79b4acd14ef1 *16. Crowded Elevator.shn
+8278b03467317e251e30cf385f3d8bb2 *17. A Certain Shade of Green.shn
+a00258a6ba0e36e8908578dcc8ebecd4 *18. Sick Sad Little World.shn
+e8ce7e258198dcd5d3fee7308f7a9542 *19. Megalomaniac.shn
+5a8521c960cb987099aeb9b855a50a68 *20. Encore Break.shn
+846fc22cbbc40bd45c83db6289c998e2 *21. Pantomine.shn
+e22d170990eef078ad24c2319a6c15dd *22. Southern Girl.shn
+d32b9c8b8793fd240a53ee581bb80071 *23. Pardon Me.shn
+
+Recorded, produced and distributed by: donkyFliP
+CD artwork created by: donkyflip

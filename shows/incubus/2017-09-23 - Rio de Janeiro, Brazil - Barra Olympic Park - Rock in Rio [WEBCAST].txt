@@ -1,0 +1,90 @@
+Incubus
+Rock in Rio
+Palco Mundo
+Barra Olympic Park
+Rio de Janeiro, Brazil
+
+Lineage: "LIVE" Webcast -> downloaded .ts segments (batch script) -> TSSplitter (join) -> FFmpeg (edit) -> mkvmerge GUI -> .mkv
+Video: MPEG4 Video (H264) 1920x1080 16:9 6000 Kbps 29.97 fps
+Audio: AAC 128 Kbps 44.1 KHz stereo
+
+Setlist: 
+Glitterbomb
+Circles
+Nimble Bastard
+Anna Molly
+Wish You Were Here >
+Wish You Were Here (Pink Floyd cover)
+Love Hurts
+Pardon Me
+Drive
+Nice to Know You
+No Fun
+Stellar
+Megalomaniac
+Warning
+
+TRT = 01:00:19
+
+Note: This is a perfect capture of the webcast. Any imperfections, if present, were inherent in the broadcast.
+
+Captured and uploaded to DIME by indykid. 
+
+MediaInfo:
+General
+Unique ID                   : 207095968199966352240365227816776645234 (0x9BCD3B8F11CE81E49A82C1B090D03A72)
+Complete name               : Incubus - 2017-09-23 Rock in Rio Brazil [1080p].mkv
+Format                      : Matroska
+Format version              : Version 4 / Version 2
+File size                   : 2.58 GiB
+Duration                    : 1 h 0 min
+Overall bit rate            : 6 128 kb/s
+Encoded date                : UTC 2017-09-24 04:41:05
+Writing application         : mkvmerge v8.3.0 ('Over the Horizon') 64bit
+Writing library             : libebml v1.3.1 + libmatroska v1.4.2
+
+Video
+ID                          : 1
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : Main@L4.1
+Format settings, CABAC      : Yes
+Format settings, ReFrames   : 2 frames
+Format settings, GOP        : M=3, N=60
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 1 h 0 min
+Bit rate mode               : Constant
+Bit rate                    : 6 000 kb/s
+Width                       : 1 920 pixels
+Height                      : 1 080 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Variable
+Frame rate                  : 29.970 FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.097
+Stream size                 : 2.53 GiB (98%)
+Default                     : Yes
+Forced                      : No
+
+Audio
+ID                          : 2
+Format                      : AAC
+Format/Info                 : Advanced Audio Codec
+Format profile              : LC
+Codec ID                    : A_AAC
+Duration                    : 1 h 0 min
+Bit rate                    : 126 kb/s
+Channel(s)                  : 2 channels
+Channel positions           : Front: L R
+Sampling rate               : 44.1 kHz
+Frame rate                  : 43.066 FPS (1024 spf)
+Compression mode            : Lossy
+Delay relative to video     : -59 ms
+Stream size                 : 54.2 MiB (2%)
+Default                     : Yes
+Forced                      : No
+
+Captured and uploaded to DIME by indykid.

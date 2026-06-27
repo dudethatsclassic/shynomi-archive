@@ -1,0 +1,63 @@
+Counting Crows
+Petrillo Music Shell
+Grant Park
+Chicago, IL  US
+Broadcast date: 2014-11-30 & 2017-07-04
+Performance date: 2004-07-04
+
+
+Lineage: HD over fm>Sangean HDT-1>Rotel-05 SE>SoundBlaster (Live! 24 bit External)>wav(CD Wave Editor)>flac
+
+Counting Crows
+Petrillo Music Shell
+Grant Park
+Chicago, IL US
+Broadcast date: 2014-11-30
+Performance date: 2004-07-04
+
+
+Lineage: HD over fm>Sangean HDT-1>Rotel-05 SE>SoundBlaster (Live! 24 bit External)>wav(CD Wave Editor)>flac
+
+In a bit of serendipity, I captured the first five songs. From "Happy Birthday Matt" to the end, the files are the same as in the torrent: http://www.thetradersden.org/forums/showthread.php?t=11459, except that I have retagged them to reflect the track number order.
+ 
+1. Intro > 1:06
+2. The Rain King 10:02
+3. Mrs. Potter's Lullabye 7:41
+4. Mr. Jones 4:26
+5. Big Yellow Taxi
+6. Happy Birthday to Matt 2:10
+7. Daylight Fading 3:51
+8. Accidentally In Love 3:23
+9. Four White Stallions 4:37
+10. Omaha 3:49
+11. Miami 5:01
+12. Anna Begins 5:33
+13. A Long December 5:33
+14. Ordinary Girl 4:37
+15. Sullivan Street 7:51
+16. Hangin Around 5:19
+17. Holiday in Spain 5:27
+
+Total Time: 84:00
+
+st5 fingerprints:
+
+c9dd51e776f9596f4cb4a3d4eeae47dd  [shntool]  wxrt 2014-11-3001.flac
+9fb73063363c717eac9c7af1e1d41b3c  [shntool]  wxrt 2014-11-3002.flac
+02f1b494c5873b3ec49e4a06cd2d6857  [shntool]  wxrt 2014-11-3003.flac
+45cafb6efc7f5013ef1a50ea14447ca3  [shntool]  wxrt 2014-11-3004.flac
+a57c035845c32e7675c219c756805363  [shntool]  wxrt 2014-11-3005.flac
+1f692f4ffbf69df9eb49d56d15c9ecf1  [shntool]  wxrt 2014-11-3006.flac
+b6c5df8eb9b187d719fe70750bd1e19f  [shntool]  wxrt 2014-11-3007.flac
+54035a00019f3b58bfcbdc8fdb24bfdc  [shntool]  wxrt 2014-11-3008.flac
+f576f65efd5661bf050bc32dd42e4e00  [shntool]  wxrt 2014-11-3009.flac
+0e236a7f9626b1b7d22ece10768c7a4c  [shntool]  wxrt 2014-11-3010.flac
+d74b55e35679889c95e8451bae1f8c31  [shntool]  wxrt 2014-11-3011.flac
+1ecf505b722e225fec1b35daebdef574  [shntool]  wxrt 2014-11-3012.flac
+feeb49f3d44344598163784f82d4d2d6  [shntool]  wxrt 2017-04-2301.flac
+d857638588d04bbb3e2de6886fb93dee  [shntool]  wxrt 2017-04-2302.flac
+64a6f42169ed8b08d23a1aa63aee3062  [shntool]  wxrt 2017-04-2303.flac
+a9c5963578291315d187173f63dba54f  [shntool]  wxrt 2017-04-2304.flac
+2757a96af8adfd6dd4c2f0b5a3c0fe92  [shntool]  wxrt 2017-04-2305.flac
+
+No errors occured.

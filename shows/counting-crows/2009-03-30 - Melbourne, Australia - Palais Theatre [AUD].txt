@@ -1,0 +1,82 @@
+Counting Crows
+2009-03-30
+Palais Theatre, Melbourne
+
+Taper: Adam
+Location: front row, 3 inches from the base of the left stack
+Source: Source: AT853 > CA-9100 > iRiver H140 digital audio player (Rockboxed)
+Conversion: iriver H140>USB>Adobe Audition>CDWav 1.94.3>FLAC Frontend 1.7.1 (Level 8)
+
+
+--NEVER PAY FOR AUDIENCE RECORDED LIVE MUSIC--
+
+Disc 1:					[59:41]
+
+01. Intro				[00:44]
+02. Speedway				[04:48]
+03. Angels Of The Silences		[03:40]
+04. Catapult				[03:35]
+05. Up All Night			[05:27]
+06. 1492				[03:55]
+07. Perfect Blue Buildings#		[05:48]
+08. On Almost Any Sunday Morning	[02:52]
+09. Rain King*				[09:21]
+10. New Frontier			[03:59]
+11. Daylight Fading			[04:22]
+12. Los Angeles				[04:34]
+13. Miami^				[06:36]
+
+
+Disc 2:					[47:21]
+
+01. Goodnight LA			[04:22]
+02. Have You Seen Me Lately		[04:14]
+03. Intro to...				[02:31]
+04. You Can't Count On Me		[03:13]
+05. A Murder of One%			[11:36]
+
+
+Encore:
+
+06. Sullivan Street@			[09:20]
+07. Hanginaround			[05:27]
+08. Holiday In Spain			[06:38]
+
+
+# w/ Sometimes It Snows In April alts
+* w/ Thunder Road alts
+^ acoustic
+% w/ Doris Day alts
+@ w/ Runaway Girl alts
+
+
+Notes:
+
+Recording levels were noticeably lowered between tracks two and three as it was running too hot.
+Please note the location of my mics and don't expect an A+ quality recording.
+Fingers crossed for a LCC release. ;)
+	
+
+FLAC Fingerprints:
+=================================================================
+CountingCrows2009-03-30d1t01.flac:490a9cca5e90d0d674f77420fc4c07df
+CountingCrows2009-03-30d1t02.flac:b59ef7ecabce7cec38ae63e819e28dc8
+CountingCrows2009-03-30d1t03.flac:0c24412dbf9c44c8ebdd597e5b130390
+CountingCrows2009-03-30d1t04.flac:f8c5492e9a07f828f3622996a1ec9cbc
+CountingCrows2009-03-30d1t05.flac:7334538533baad342ca64b4e1748f9ba
+CountingCrows2009-03-30d1t06.flac:df115e18b5c7bddbb88515391f7095ff
+CountingCrows2009-03-30d1t07.flac:e0e60b486b9ab0b9b0978c656137f5e0
+CountingCrows2009-03-30d1t08.flac:0f6ed2b9324e92a251f84fd6192aa3e4
+CountingCrows2009-03-30d1t09.flac:48c08830b3dceb019586684abc852e1a
+CountingCrows2009-03-30d1t10.flac:f605573808bb80986f18153d12e4a3bf
+CountingCrows2009-03-30d1t11.flac:34420a277fdb75b87fe28e70aa94d929
+CountingCrows2009-03-30d1t12.flac:330da88fb6edec76bbdc970df33b79c2
+CountingCrows2009-03-30d1t13.flac:bd7d9c12599cfe7cb4601abf622c8578
+CountingCrows2009-03-30d2t01.flac:dccf4a6c5e4b68c098e5f3707455cd86
+CountingCrows2009-03-30d2t02.flac:a5e32ccab91c9e98361eac2683005681
+CountingCrows2009-03-30d2t03.flac:191b04f225cc556bcc9ab6dfa08c2ae4
+CountingCrows2009-03-30d2t04.flac:d68089df463c01aae4f896aa46c842ba
+CountingCrows2009-03-30d2t05.flac:72fafc7ed2bf7221d5af7529f9936a89
+CountingCrows2009-03-30d2t06.flac:75e6dc0ff0aa81d2ac8e18d1de1f5187
+CountingCrows2009-03-30d2t07.flac:b0675a3e322560379493b86a5d2d4872
+CountingCrows2009-03-30d2t08.flac:a3010108adb9ee4690900d64b29f8ad5

@@ -1,0 +1,86 @@
+Traveling Circus and Medicine Show - Counting Crows and Augustana
+08/01/09
+Sam Houston Race Track
+Houston, TX
+
+Source: Neumann AK20/AK40 > LC3 > KM100 > V3 (M/S mix) > 722 (@24/48)
+Transfer: 722 > Wavelab (dither, resample, fades) > CDWave > Flac Frontend > .flac
+Location: VIP Area, 40' from stage, stand at 9'
+
+Tape and Transfer by BWolf 
+
+Set 1:
+
+d1t01. Intro
+d1t02. Caravan
+d1t03. Mrs. Potter's Lullabye
+d1t04. Omaha
+d1t05. Hard Candy
+d1t06. You Can't Count on Me
+d1t07. Four White Stallions
+d1t08. Sweet Virginia
+d1t09. Make Love
+d1t10. Meet You There
+d1t11. Stars & Blvd's
+d1t12. Boston
+d1t13. Delta Lady
+
+Set 2:
+
+d2t01. Intro
+d2t02. Anna Begins
+d2t03. Insignificant
+d2t04. Good Time
+d2t05. Miami
+d2t06. Dust
+d2t07. I Still Ain't Over You
+d2t08. Sweet & Low
+d2t09. Fire
+d2t10. Ballet D'or
+d3t01. Angels of the Silences
+d3t02. Long December
+d3t03. Why Should You Come When I Call?
+d3t04. Raise a Rukus
+d3t05. Rain King
+
+Encore:
+
+d3t06. Cecila
+d3t07. Stage Banter
+d3t08. This Land Is Your Land
+
+
+-------------------------------------------------------
+-----------------  Flac Fingerprint  ------------------
+-------------------------------------------------------
+CC2009-08-01d1t01.flac:a77778ba0a9d8ac598b6ec6a2825f1d1
+CC2009-08-01d1t02.flac:3e4cdc156a29021ee74774d1d553963d
+CC2009-08-01d1t03.flac:0783bee18091156e45082d92759e4e42
+CC2009-08-01d1t04.flac:20d54ae5e182b5468d16062157c42991
+CC2009-08-01d1t05.flac:a9144861f360b233e625509b1eaaf01e
+CC2009-08-01d1t06.flac:31a44e99b9415136a7d06378eb64e7f9
+CC2009-08-01d1t07.flac:3747a544692de31df92d6668b6c30d7b
+CC2009-08-01d1t08.flac:56fddaedb30d7c6b6ef0ca63e2dd34ee
+CC2009-08-01d1t09.flac:1e931534c7420eddc9bd15ae3ad19586
+CC2009-08-01d1t10.flac:96c1b09917a92ee1735f8ee2ddf73a15
+CC2009-08-01d1t11.flac:e579530b531870f27faf59feda1ee759
+CC2009-08-01d1t12.flac:0f97ad2a2e756d7df747ced67117a288
+CC2009-08-01d1t13.flac:fd49f6353c0ad90a9f4e9c06af2b325e
+CC2009-08-01d2t01.flac:fdc3038986e8755008b3dc2245df9ba2
+CC2009-08-01d2t02.flac:1ef67733b73055a28f318982e12254ea
+CC2009-08-01d2t03.flac:3b39affb60611f7dcf2d0c44056b8886
+CC2009-08-01d2t04.flac:2e79ee25a697a5d0d3c6d4cadef66f84
+CC2009-08-01d2t05.flac:9ce4620a2cacd31331f8d936815df410
+CC2009-08-01d2t06.flac:431c8db84a0d79d17f47d65d0201d21d
+CC2009-08-01d2t07.flac:b17e1d82ee0619199a6f7a728d448c38
+CC2009-08-01d2t08.flac:d7265daef35f9e6b647533e297e42d11
+CC2009-08-01d2t09.flac:952c539fa208c3ac2b0bc70c5fb88fc4
+CC2009-08-01d2t10.flac:3f373cbd6f08030c274ec63602785d87
+CC2009-08-01d3t01.flac:28ed17ee7a29a12d2b6e58edad83bc08
+CC2009-08-01d3t02.flac:550b96d3f4e13813fe72e63afe75d560
+CC2009-08-01p3t03.flac:85f4ceeb45d279ef22a144e18ec907c0
+CC2009-08-01p3t04.flac:0101a11725f0c99ead9fda53e8aefc61
+CC2009-08-01p3t05.flac:2bf78f278e8b94c4c8f58ee61e27d178
+CC2009-08-01p3t06.flac:dc53b6865baec8da19b9ffe1ae3d86d3
+CC2009-08-01p3t07.flac:5b6c5ac887d6874eb4c45d5a8d04947a
+CC2009-08-01p3t08.flac:b1ec99e50a45d6566a678b41b2fe21ea

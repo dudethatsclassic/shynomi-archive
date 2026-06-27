@@ -1,0 +1,46 @@
+
+Incubus
+August 15th, 2009
+Ford Ampitheatre: Tampa, FL
+
+Source:    DPA 4061s > MMA-6000 > Edirol R-09 @ 24/48
+           
+Transfer:  R-09 > USB > Adobe Audition (dED & resample 
+           to 44.1 at highest setting) > CDWave > FLAC
+
+Notes:     This took a lot of editing of the loud claps 
+           and cleaning close screams/whistles.  Also, 
+           bass below 60Hz was reduced using an FFT filter.
+
+
+Setlist:
+01. intro
+02. Pardon Me
+03. Nice To Know You
+04. Anna Molly
+05. Stellar
+06. Megalomaniac 
+07. Circles
+08. Just A Phase
+09. Love Hurts
+10. Drive
+11. Talk Shows On Mute
+12. Dig
+13. Redefine
+14. Look Alive
+15. Oil & Water
+16. Quicksand
+17. A Kiss To Send Us Off 
+18. Wish You Were Here
+19. Aqueous Transmission 
+20. encore break
+21. Punch Drunk
+22. Sick Sad Little World
+23. Let's Go Crazy
+
+Length [1:52:35]
+
+Taping, edits, and compilation by pjdavep
+
+Released 11/25/09
+

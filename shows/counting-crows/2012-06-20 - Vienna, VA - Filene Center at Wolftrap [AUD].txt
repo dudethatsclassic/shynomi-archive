@@ -1,0 +1,56 @@
+COUNTING CROWS
+2012/06/20 - Filene Center at Wolftrap National Park for the Performing Arts; Vienna VA, USA
+
+Taper: travelinbeat
+Source: BSC1-K1's (Cards) @ NOS > Naiant Littlebox 1.5 > R-09HR @ 24/96
+Location: 7.5ft high, 10ft LOC, Rear Orchestra DD 110
+Editing:  Tracking, fades, and normalization (each channel independently to -0.10dB) were done while the show was laid in Sony Soundforge 10.0a (Build 425) as a wav file.  Periodic loud points (especially nearby claps) were enveleoped to allow for more headroom in normalization.
+Conversion: Trader's Little Helper v.2.7.0 (Build 172)
+
+
+
+SET
+01- Intro						01:52
+02- Sullivan Street					06:42
+03- Untitled (Love Song) *				04:55
+04- High Life 						06:23
+05- St. Robinson in His Cadillac Dream			05:53
+06- Hospital @						04:01
+07- Carriage #						04:04
+08- Recovering the Satellites				06:00
+09- Four Days						04:45
+10- Los Angeles						04:45
+11- Mr. Jones						04:49
+12- Speedway						07:36
+13- Four White Stallions %				04:00
+14- Omaha						04:42
+15- A Long December					05:07
+16- Return of the Grievous Angel ^			04:15
+17- Hangin' Around #+					06:48
+18- Up All Night					05:52
+19- You Ain't Goin' Nowhere ~				04:43
+20- (Grey Bird Announcements)				03:21
+21- Holiday in Spain					03:37
+22- (Band Intros, Outro)				01:54
+
+					   GRAND TOTAL- 106:06
+
+* Written by The Romany Rye
+@ Written by Coby Brown
+# Joined on stage by Andre Carter on trumpet
+% Written by Tender Mercies
+^ Written by Gram Parsons
++ Joined on stage by all opening bands plus miscellaneous friends
+~ Written by Bob Dylan
+
+
+MISC NOTES:	
+Certainly not my first Counting Crows show by any measure, but it was my first time openly recording at the notoriously taper-unfriendly Filene Center at Wolftrap.  I began the process of taping way back in April before tickets went on sale by contacting Kevin Cassidy, the venue's man in charge of Patron Services.  He indicated that it would be fine with the house if it was okay with the band, so I went ahead and bought a pair of tickets and waited.  A week prior to the show I called Kevin back just to touch base, then once more in the early afternoon on the day-of.  I had absolutely no problems getting my gear in and setting up.  I was approached by a man named Barry Sikdra (who's namebadge identified him as the head of something-- he was dressed like an usher and had a radio), who informed me that I was fine to record provided they received no complaints from the guests behind me about an obstructed line of sight, and that if they were to receive such a complaint, I would need to move or lower my stand.  Needless to say, no complaints came, and I ran at about seven and a half feet all night!
+
+I was able to meet up with Shawn Dealey after the show, the Crows' FOH tech.  He was a very friendly guy and seemed really into the whole taping thing.  My confidence in Counting Crows' taper friendliness is reaffirmed after hanging out with him for just a few minutes (not that it ever was given any reason to waver).
+
+This recording is dedicated to my mother, who joined me at this show-- she's a world-class Crows fan, and her birthday is June 22nd, so I got her a ticket as an early present, and I'll give her a tape of it on the day of!
+
+The tour was the Counting Crows' Outlaw Roadshow and it was the first normally formatted Crows show I'd seen in about 4 or five years.  Their past two tour have been a big hangout / jam with all of the bands playing all throughout the show.  It has been a good run with that format, but it was nice to see a solid 100minute Crows set again, for old time's sake!  The other bands on the bill were (in order of appearance): Fillgar, Foreign Fields, and Good Old War.  I taped Good Old War and Counting Crows only.
+
+Enjoy, and please support this awesome band!

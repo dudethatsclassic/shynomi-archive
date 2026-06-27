@@ -1,0 +1,36 @@
+Counting Crows
+August 22nd, 2008 
+First Midwest Bank Amphitheater
+Tinley Park, IL
+
+Taper: Richard Simms (sullen)
+Source: Avant CK-1 (H)(Busman Mod) > UA-5 BM2P+ >iRiver h120 (16/48)
+Transer: iRiver h120 > Computer via USB 2.0 
+Processing: Adobe Audition 1.5 > fades, repairs*, EQ, downsample >
+            CD Wave Editor 1.94.5 > FLAC FrontEnd (Level 8, Align SB)
+Tagging: Foobar2000 v0.9.5.3 with TradersFriend Component 
+
+01. Intro
+02. Le Ballet D'or
+03. Rain King
+04. Up All Night
+05. Hanging Tree
+06. Colorblind
+07. Anna Begins
+08. Insignificant
+09. Mr. Jones
+10. Washington Square
+11. Miami
+12. Hanginaround
+13. Encore Break 
+14. A Long December
+15. A Murder Of One
+
+Notes:
+1. Keep live music free for everyone!  Counting Crows are an Open Taping band. 
+   Please help preserve this privilege - DO NOT SELL THIS RECORDING!
+2. Heavy windscreens were used so EQ was done to boost muddy high end.
+ 
+*  Technical issues experienced, left channel had a popping/drop out issue 
+   throughout show, this was corrected with a blend 90% of the right channel
+   making the sound nearly mono in spots, most notable during Anna Begins.

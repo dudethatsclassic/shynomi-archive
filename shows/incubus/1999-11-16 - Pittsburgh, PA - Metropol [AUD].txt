@@ -1,0 +1,40 @@
+Incubus
+November 16, 1999
+Metropol
+Pittsburgh, PA
+
+DISC 1/1 (42:21)
+----------------
+01) intro
+02) Redefine
+03) Favorite Things
+04) Privilege
+05) Make Yourself
+06) A Certain Shade of Green
+07) The Warmth
+08) New Skin
+09) Pardon Me
+10) Idiot Box
+11) Vitamin
+
+LINEAGE
+----------------
+MD(M) > WAV [44.1kHz] > FLAC [Level 8]
+
+SOURCE
+----------------
+Sound Professionals SP-BMC-1 > Sharp MD-MS702
+
+MD5 FINGERPRINTS
+----------------
+3648a94e89470bc83c6ee42a47e4e782 *Incubus_1999-11-16_t01.flac
+cfa6699f1979bc6da444aa00508b8416 *Incubus_1999-11-16_t02.flac
+c7c17a8e5fe887e726a642832028e4d4 *Incubus_1999-11-16_t03.flac
+d1f2beeacaf8d36630bf9eaef7cec15d *Incubus_1999-11-16_t04.flac
+0a523d22fbffdeda503d6fc37009eaf6 *Incubus_1999-11-16_t05.flac
+dec03f099e9392a3276c2f70d461e553 *Incubus_1999-11-16_t06.flac
+8f118e5487b42f8c304e512682431d7f *Incubus_1999-11-16_t07.flac
+a469f1f60bba05674a584a3e2d44b6aa *Incubus_1999-11-16_t08.flac
+2dcc284b0782527c853f769a6b743065 *Incubus_1999-11-16_t09.flac
+8652784ac46e9c8495ad86f488d0c263 *Incubus_1999-11-16_t10.flac
+17ec21a872ad8fd1671232fb1f412728 *Incubus_1999-11-16_t11.flac

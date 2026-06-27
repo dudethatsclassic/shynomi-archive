@@ -1,0 +1,38 @@
+Counting Crows
+2012-07-31
+Starlight Theater
+Kansas City, MO
+
+
+Source: Schoeps MK4 / CMR > Naiant Tinybox > Olympus LS-10 @ 48 kHz / 24-bit
+Lineage: 48/24 WAV > Audacity 2.0.0 (split tracks, resample to 44.1 kHz, dither to 16-bit) > Traders Little Helper (convert to flac - level 8)
+
+Setlist:
+
+01 Sullivan Street
+02 Untitled (Love Song)
+03 Another Horsedreamer's Blues
+04 Four Days
+05 Hospital
+06 Black And Blue
+07 Anna Begins
+08 Hard Candy
+09 Start Again
+10 Round Here
+11 Like Teenage Gravity
+12 Four White Stallions
+13 A Long December
+14 Return Of The Grievous Angel
+15 Come Around
+16 Rain King
+17 ~ encore break ~
+18 Washington Square
+19 You Ain't Going Nowhere *
+20 ~ Hangin' Around abort - chat / PSA ~
+21 Hangin' Around *
+
+
+* with Kasey Anderson & The Honkies / Field Report
+
+
+All thanks to the Counting Crows for allowing audience recordings!

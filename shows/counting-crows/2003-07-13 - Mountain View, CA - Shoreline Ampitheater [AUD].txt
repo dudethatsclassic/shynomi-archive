@@ -1,0 +1,29 @@
+Counting Crows
+July 13, 2003
+Shoreline Ampitheatre-Mountain View, CA
+
+Source: Schoeps MK4 > KCY > Sonosax SX-M2/LS2 > SBM-1 (44.1 kHz) > M1.  Taped dead center, FOB
+Conversion: SCSI DAT drive > Soundforge 6.0 > Waves LinEQ > Waves L2 limiter > CD Wav > shntool >shn32 > wav > cd-r >wav
+
+01. Intro					
+02. Have You Seen Me Lately*			
+03. If I Could Give All My Love (Richard Manuel is Dead)*		
+04. Mr. Jones*	
+05. Friend of the Devil*
+06. Big Yellow Taxi*
+07. Omaha*
+08. Angels of the Silences*
+09. Rain King/Raining in Baltimore Medley*
+10. Goodnight L.A.*
+11. Long December*
+12. Anna Begins*
+13. American Girls
+14. Miami
+15. Hangin' Around
+16. Holiday in Spain
+
+* Acoustic
+
+No microphone stands were used during the making of this recording.  Support the "honorable" style of taping.
+
+Compiled on 7-26-03 				

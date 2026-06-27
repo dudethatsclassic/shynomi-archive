@@ -1,0 +1,32 @@
+Counting Crows
+August 29th, 2008 
+DTE Energy Music Theatre
+Clarkston, MI
+
+Taper: Richard Simms (sullen)
+Source: Avant CK-1 (C)(Busman Mod) > UA-5 BM2P+ >iRiver h120 (16/48)
+Transer: iRiver h120 > Computer via USB 2.0 
+Processing: Adobe Audition 1.5 > fades, downsample >
+            CD Wave Editor 1.94.5 > FLAC FrontEnd (Level 8, Align SB)
+Tagging: Foobar2000 v0.9.5.3 with TradersFriend Component 
+
+01. Goodnight L.A.
+02. Mr. Jones
+03. Richard Manuel Is Dead
+04. Washington Square
+05. Friend Of The Devil (Grateful Dead)
+06. Omaha
+07. Mercury
+08. Miami Intro
+09. Miami
+10. A Long December
+11. Hanginaround
+12. Community Outreach Program
+13. Rain King Intro
+14. Rain King
+
+Notes:
+1. Keep live music free for everyone!  Maroon 5 is an Open Taping band. 
+   Please help preserve this privilege - DO NOT SELL THIS RECORDING!
+
+

@@ -1,0 +1,17 @@
+102FM Radio Tel Aviv
+(~Sept. 11, 2022)
+
+Counting Crows perform "Elevator Boots" & "Rain King" & "Richard Manuel Is Dead";
+
+Live in the morning show studio of Radio Tel Aviv with Gori Alfie and Galit Hogi (September 2022)
+
+Photo: Sagi Shelper
+Sound: Eitan Belchter, Alon Migdal
+
+Source 1: Youtube --> FLAC via youtube-dl & ffmpg (highest quality) (48000Hz)
+01. Elevator Boots
+02. Rain King
+
+Source 2: Radio Podcast/Broadcast (mp3) --> FLAC via audacity (16 bit 44100Hz)
+03. Richard Manuel is Dead
+

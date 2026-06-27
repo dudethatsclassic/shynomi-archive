@@ -1,0 +1,54 @@
+Incubus 
+10/29/2004 
+Fallfest 2004 
+UB Alumni Arena, Amherst,NY 
+
+Source 1: Radio Shack 33-3028->MM-EBM-1(roll-off<90Hz)->SONY MZ-R70 
+Location: Directly behind soundboard, Dead center 
+Transfer: MZ-R70 -> line in (Dimension 8200) -> Audition 1.5 -> CDWave -> FLAC Frontend 
+Taper: Toolmanwill 
+
+source 2: Schoeps Mk4v->KCY actives->Schoeps VMS5U->Sony M1 
+Location: FOB Left Center, ~25' from stage 
+Transfer: Sony M1->SGI Octane coax->SGI Sound Editor->SHN 
+
+
+Matrix : Adobe Audition 1.5/Multitrack
+         source 1: bass cut @ 47 hz
+         source 2: no change
+By Toolmanwill, Matrixed on 11/14/04 - 11/16/04
+
+
+
+Disc 1: 
+
+01 Pistola
+02 Nice To Know You
+03 Idiot Box
+04 Wish You Were Here
+05 Just A Phase
+06 Stellar/De do do do, de da da da
+07 Beware! Criminal
+08 Here In My Room
+09 Drive
+10 Priceless
+
+
+Disc 2: 
+
+01 Vitamin -> Drum Jam
+02 Everything In Ebb  
+03 Talk Shows On Mute
+04 Made For TV Movie 
+05 Sick Sad Little World
+06 Megalomaniac 
+07 encore break 
+08 Pantomime
+09 Follow
+10 Under My Umbrella
+
+
+upon frequency analysis of both sources, the schoeps had a mountain like curve and my Md source had 
+a valley type curve, resulting in a full spectrum recording with good stereo separation.
+
+ENJOY INCUBUS!!!!!

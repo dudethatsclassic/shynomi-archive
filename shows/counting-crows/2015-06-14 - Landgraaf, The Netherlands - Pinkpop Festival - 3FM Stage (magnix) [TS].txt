@@ -1,0 +1,68 @@
+Counting Crows
+Pinkpop, Megaland, Landgraaf, The Netherlands
+June 14, 2015
+3FM Stage 16:40-17:40
+
+Intro by Frank Turner
+1. Round Here
+2. Scarecrow
+3. Mr. Jones
+4. Elvis Went To Hollywood
+5. A Long December
+6. Omaha
+7. Earthquake Driver
+8. Palisades Park
+9. Rain King
+
+Setlist as shown on screen during broadcast, updates and corrections are welcome.
+
+Broadcast on Dutch national television channel NPO Cultura, June 14, 2015.
+
+Technical details:
+File Name : Counting Crows 2015-06-14 Pinkpop MPEG2 TS Stream.ts
+Size : 2.170 GB
+Duration : 00:58:04.05
+Mux type : TS Stream
+Video Encoding : MPEG2
+VideoStreamID : x399
+Frame rate : 25.00 fps
+Encoding size : 720 x 576
+Aspect ratio : 16:9
+Header bit rate : 4.800 Mbps
+VBV buffer : 220 KBytes
+Profile : Main@Main
+Progressive : Prog or Int
+Chroma : 4:2:0
+Bit rate : 4.599 Mbps
+Audio Stream: 1 (Primary)
+Codec : MPEG
+MPEGLayer : Layer 2
+Channels : 2.0
+Language : dut
+PID : x7D0
+PES Stream Id : xC0
+Bit rate : 192 Kbps
+Sampling rate : 48000
+Sample size : 16 bits
+Subtitle: 1-1
+Type : DVB Teletext
+PID : 0x3A1
+Language : dut
+Page : 100
+Subtitle: 1-2
+Type : DVB Teletext
+PID : 0x3A1
+Language : dut
+Page : 888
+Subtitle: 2-1
+Type : DVB Subpic
+PID : 0xBB9
+Language : dut
+Page : 2
+
+Another tape from the Magnix Live Archive.
+
+Magnix,
+June 2015.
+
+Uploaded to DIME on June 14, 2015 by Magnix.
