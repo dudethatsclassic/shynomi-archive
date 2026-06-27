@@ -2821,6 +2821,13 @@ const ARTISTS = [
     "lastYear": 2024
   },
   {
+    "id": "the-marked",
+    "name": "The Marked",
+    "showCount": 0,
+    "firstYear": null,
+    "lastYear": null
+  },
+  {
     "id": "the-melvins",
     "name": "The Melvins",
     "showCount": 21,
