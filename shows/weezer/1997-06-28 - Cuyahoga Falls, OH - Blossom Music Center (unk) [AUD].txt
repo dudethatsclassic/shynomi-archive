@@ -1,0 +1,41 @@
+Weezer
+Blossom Music Center
+Cuyahoga Falls, OH
+June 28, 1997
+
+Source: aud>ana>eq>cdr>XLD
+Transfer: Ben (http://www.weezed.com)
+Length: 46:35
+
+**** DO NOT SELL OR PURCHASE THIS RECORDING ****
+
+Setlist:
+01. Intro
+02. My Name is Jonas
+03. Getchoo
+04. No One Else
+05. The Good Life
+06. Say it Ain't So
+07. Why Bother?
+08. Undone - The Sweater Song
+09. Pink Triangle
+10. Dukes of Hazard
+11. Buddy Holly
+12. El Scorcho
+13. Surf Wax America
+
+
+ffp:
+weezer1997-06-28d1t01.flac:5b204150836fdde32ff37141037449ae
+weezer1997-06-28d1t02.flac:ace363db43b37f199d84d554dd42ee8a
+weezer1997-06-28d1t03.flac:9ac16a699cac35bb5a8f6cfd048e67d2
+weezer1997-06-28d1t04.flac:8b576872ee0df5331b4690de2269a853
+weezer1997-06-28d1t05.flac:680baf8b7b825d741b906c6fd7ff0d9f
+weezer1997-06-28d1t06.flac:51540f7c3bfa513fbdc3b5bb3e8e55f2
+weezer1997-06-28d1t07.flac:08977e6f9d338f87d0a509ed833508e8
+weezer1997-06-28d1t08.flac:73f6831bf647b84757dbfb7c04686203
+weezer1997-06-28d1t09.flac:567f12c268329565a1765e0b801bd8e5
+weezer1997-06-28d1t10.flac:235b4ad673580567e225203283526a41
+weezer1997-06-28d1t11.flac:4f569d00f61edd17fb97bfbb7a5339b4
+weezer1997-06-28d1t12.flac:6851b05e4facb1aacbe50e4aa9dd6968
+weezer1997-06-28d1t13.flac:5beeb43615407923f7a6704fb8de40d1

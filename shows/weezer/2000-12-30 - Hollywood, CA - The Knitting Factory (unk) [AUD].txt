@@ -1,0 +1,42 @@
+Weezer
+2000-12-30
+The Knitting Factory
+Hollywood, CA
+
+Source: aud>atr>md>cdr>XLD>xACT
+Transfer: Ben (http://www.weezed.com)
+Length: 47:02
+
+**** DO NOT SELL OR PURCHASE THIS RECORDING ****
+
+Setlist:
+01. My Name is Jonas
+02. Undone - The Sweater Song
+03. No One Else
+04. The Christmas Song
+05. Hash Pipe
+06. Christmas Celebration
+07. In The Garage
+08. Say it Ain't So
+09. You Gave Your Love To Me Softly
+10. Only in Dreams
+11. Buddy Holly
+12. Surf Wax America
+
+Encore:
+13. Tired of Sex
+
+ffp:
+weezer2000-12-30d1t01.flac:dbd716551b09b76a4509a0ef224c52e4
+weezer2000-12-30d1t02.flac:34eacc1f9c63dda96bd562b19581f832
+weezer2000-12-30d1t03.flac:cba42172a838489d8dfb84c993d2362a
+weezer2000-12-30d1t04.flac:fd67092166d8957a085e23dca5409984
+weezer2000-12-30d1t05.flac:811ec7e777c671530fa5f3c2bbc6471d
+weezer2000-12-30d1t06.flac:646c78b8fd20d72417b4378e8e5a276d
+weezer2000-12-30d1t07.flac:3fd8cb89f213296fa43645b2858acbb8
+weezer2000-12-30d1t08.flac:1b8c82ac0210c4202cd4fa7ca115fe58
+weezer2000-12-30d1t09.flac:0ddc099117471bd2ef59f05cfdb69f8a
+weezer2000-12-30d1t10.flac:12e2fec03594e3f8cf2d48191bf199e7
+weezer2000-12-30d1t11.flac:c8c5affbaceb5eeff2332e773fcdf192
+weezer2000-12-30d1t12.flac:24066244e92c85d30ba9a900d533e283
+weezer2000-12-30d1t13.flac:f5429fe0018bfc721add74d5111d43f0

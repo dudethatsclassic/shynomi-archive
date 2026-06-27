@@ -1,0 +1,38 @@
+Weezer
+Tipitina's; New Orleans, Louisiana, USA
+1994-08-12
+Taper: Matt Hunter
+Comment: The third known Weezer audience bootleg, which was later mislabeled as a St. Louis show and released on the bootleg CD American Holiday. This version however is a transfer of the master and includes "My Name Is Jonas". Special thanks to Juan Cena for helping find the original taper of this show. Enjoy!
+Hailey Carol, December 7th, 2024
+------------------------------------ 
+Lineage: ? (likely cassette recorder) > CD-R > FLAC > Audacity 3.6 (tracking) > FLAC (level 6) > foobar2000 v2.1.6 (tagging)
+------------------------------------
+Setlist:
+01 My Name is Jonas (missing part of the first verse, taper walked in at this point)
+02 No One Else
+03 The World Has Turned and Left Me Here
+04 Buddy Holly
+05 In the Garage
+06 Say It Ain't So
+07 Getchoo
+08 Holiday
+09 Undone - The Sweater Song
+10 Surf Wax America (missing last few seconds)
+------------------------------------ 
+Personnel:
+Rivers Cuomo - Vocals, Lead Guitar
+Matt Sharp - Vocals, Bass
+Brian Bell - Vocals, Rhythm Guitar
+Pat Wilson - Drums
+------------------------------------ 
+md5:
+47680fbcdfe885f1f7873bc3d6de61ee *01 - My Name Is Jonas.flac
+2a3c38d2b2c82e988d64dd555209ea55 *02 - No One Else.flac
+898cbaa3dee0f349ccbadfea547f0bd2 *03 - The World Has Turned and Left Me Here.flac
+d77e2eafbdd99b96e9a3f9b21c6dad8e *04 - Buddy Holly.flac
+6988d5c4dfb327982d76f460fdeab4a9 *05 - In the Garage.flac
+7bab2332036ea38dafc40a70fea8061b *06 - Say It Ain't So.flac
+59af86802def8e163bd4f7ce2476e246 *07 - Getchoo.flac
+21da23d22acc7e8c3b22ccbdf21bc8de *08 - Holiday.flac
+783cb5246c4f46a1d331a803ce6dbdb8 *09 - Undone - The Sweater Song.flac
+c7f2b1a1763ccf8ae5cf57212784c838 *10 - Surf Wax America.flac

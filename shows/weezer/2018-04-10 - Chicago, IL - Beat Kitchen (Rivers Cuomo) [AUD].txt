@@ -1,0 +1,60 @@
+
+Rivers Cuomo (Weezer)
+Beat Kitchen: Chicago, IL
+April 10, 2018
+
+Source: Schoeps MK4s > Tinybox > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: 8' right stack
+Transfer: M10 > USB > Audacity (edit/amplify/dither) > CDWave > TLH
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro 
+02 Can’t Fight This Feeling Anymore [REO Speedwagon]
+03 Say It Ain’t So
+04 Pink Triangle
+05 When I Come Around [Green Day]
+06 Buddy Holly
+07 Island In The Sun
+08 Across The Sea
+09 Today [Smashing Pumpkins]
+10 Can’t Stop Partying
+11 El Scorcho
+12 The Good Life
+13 Basket Case [Green Day]
+14 Do You Wanna Get High?
+15 Falling For You
+16 L.A. Girlz
+17 (Girl We Got A) Good Thing
+18 1979 [Smashing Pumpkins]
+19 Getchoo
+20 Magic [B.o.B.]
+21 Medicine For Melancholy
+22 Sober Up [AJR]
+23 No One Else
+24 No Other One
+25 Where Is My Mind [The Pixies]
+26 Tired Of Sex
+27 -Encore break-
+28 Why Bother?
+29 -Encore break 2-
+30 You Gave Your Love To Me Softly
+31 -Outro-
+
+Notes: Solo acoustic performance. Sold out show announced 1 week prior to the performance. Performed compression and click removal in between songs, as well as some selective hard limiting, prior to amplifying entire file by +8.5dB. Tinybox set at mid gain, M10 set at 6. Raw transfer with no fades or EQ.
+
+Click Removal:    Threshold - 110
+      Spike Width - 40
+Compressor:   Threshold - -16dB
+      Noise Floor - -60dB
+      Ratio - 5:1
+      Attack Time - 0.1s
+      Decay Time - 2.0s
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 4/14/2018
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

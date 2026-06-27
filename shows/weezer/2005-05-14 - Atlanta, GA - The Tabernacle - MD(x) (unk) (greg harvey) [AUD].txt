@@ -1,0 +1,57 @@
+Weezer
+The Tabernacle; Atlanta, Georgia, U.S.A.
+2005-05-14
+Taper: Greg Harvey (AUD)
+Comment: Enjoy!
+Hailey Carol, January 2nd, 2025
+------------------------------------ 
+Lineage: ??? > minidisc > ??? > FLAC (44.1khz, 16bit) > Izotope RX 11 (declicking) > CD Wave (tracking) > FLAC (44.1khz, 16bit) > foobar2000 v2.1.6 (tagging)
+------------------------------------
+Setlist:
+01 Tired of Sex 
+02 In the Garage 
+03 No One Else 
+04 Pardon Me 
+05 Buddy Holly 
+06 Photograph 
+07 Hold Me 
+08 Getchoo
+09 Say It Ain't So 
+10 We Are All on Drugs 
+11 Island in the Sun 
+12 My Name Is Jonas 
+13 Peace 
+14 Beverly Hills 
+15 The Good Life 
+16 Undone - The Sweater Song 
+17 (encore break)
+18 Haunt You Every Day 
+19 Hash Pipe
+------------------------------------ 
+Personnel:
+Rivers Cuomo - Vocals, Lead Guitar
+Scott Shriner - Vocals, Bass
+Brian Bell - Vocals, Rhythm Guitar, Keyboards, Lead Vocals on Getchoo
+Pat Wilson - Drums
+Bobby Schneck - Rhythm Guitar
+------------------------------------ 
+md5:
+62a843af7422641da578b3234a5e1d9e *FLAC\01 - Tired of Sex.flac
+d36b6807620a748463def144f124ba9a *FLAC\02 - In the Garage.flac
+c030edc1885903997fb63cb689c7fbc8 *FLAC\03 - No One Else.flac
+ddc155f1b00fb75fbe8c7228ffc490f6 *FLAC\04 - Pardon Me.flac
+53988a299365421049e07a9f3787366f *FLAC\05 - Buddy Holly.flac
+a3acfe19e8eb5b3d076a93ad8a115a98 *FLAC\06 - Photograph.flac
+1e6ed5d714ce18cd86a3be4768b43dcf *FLAC\07 - Hold Me.flac
+e10cae8938be647d7c4c06699de55af8 *FLAC\08 - Getchoo.flac
+734033614c34d90d21c2519a9d0cb45b *FLAC\09 - Say It Ain't So.flac
+db4e5fab6eb5a1afa13c63b3d8a6986e *FLAC\10 - We Are All on Drugs.flac
+846e77f29b22d37a2ad0237a9c1e8b6e *FLAC\11 - Island in the Sun.flac
+fab250659d7b15db0c2bf8a4f5fdfb36 *FLAC\12 - My Name Is Jonas.flac
+c6025b4bc2c50e0f8d24ad23bba011b1 *FLAC\13 - Peace.flac
+4b66e4b69d89a4368666551f4eac4347 *FLAC\14 - Beverly Hills.flac
+ea1a95816c2c817b1ca61714784e2c03 *FLAC\15 - The Good Life.flac
+2affaf55b1f9d048e6d757f2b4388b10 *FLAC\16 - Undone - The Sweater Song.flac
+1c210b781fd4ee30378f584dc392b219 *FLAC\17 - (encore break).flac
+7b7ad6c16b823aad9642f6f3140b7b76 *FLAC\18 - Haunt You Every Day.flac
+1f8f44c734c543df1295d97e1664ce08 *FLAC\19 - Hash Pipe.flac

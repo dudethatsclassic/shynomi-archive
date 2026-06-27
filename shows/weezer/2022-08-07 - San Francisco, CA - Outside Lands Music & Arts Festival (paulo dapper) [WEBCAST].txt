@@ -1,0 +1,31 @@
+Weezer
+Outside Lands Music & Arts Festival
+San Francisco, California
+August 7, 2022
+
+Lineage: Official Webcast -> Streamlink (capture) -> FFmpeg (edit) -> uncompressed .ts
+Video: 1920x1080 - H264 - 5.8Mbps - 24fps
+Audio: AAC 128Kbps - 48.0kHz - Stereo
+
+Setlist:
+Hash Pipe
+Beverly Hills
+My Name Is Jonas
+Pork and Beans (with One More Hit intro)
+A Little Bit of Love
+I Just Threw Out the Love of My Dreams
+Records
+All My Favorite Songs
+Undone - The Sweater Song
+Enter Sandman (Metallica cover)
+Pink Triangle
+Feels Like Summer
+Island in the Sun
+Africa (Toto cover)
+California Snow (first verse and chorus only)
+Say It Ain't So
+Buddy Holly
+
+Length: 01:03:25
+
+Captured and uploaded to DIME by Paulo Dapper.

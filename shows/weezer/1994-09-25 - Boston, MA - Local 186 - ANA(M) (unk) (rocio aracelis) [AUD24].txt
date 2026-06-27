@@ -1,0 +1,46 @@
+Weezer
+Local 186; Boston, Massachusetts, USA
+1994-09-25b
+Taper: Rocío Aracelis Úngaro (AUD)
+Comment: Another uncirculating Weezer audience recording, this was the last show before they shot the Buddy Holly video and before Rivers Cuomo cut his hair. This was remastered by MaestroDavros with additional remastering by Hailey Carol, and transferred by Cnacker. Quality isn't that great but I'm happy with how it came out, assumedly it was taped on a cheap portable tape recorder. Included are also scans of the master tape. Enjoy!
+Hailey Carol, March 9th, 2025
+------------------------------------ 
+Lineage: ??? (cheap portable tape recorder?) > cassette > Technics RS-X888 > Focusrite > FLAC (96khz, 24bit) > Izotope RX 8 (hum removal, azimuth correction, phase correction) > pyaudiorestoration (initial dropout repairs) > Izotope RX 8 (addition dropout repairs) > Audacity (level matching, EQ, added fade-in to beginning and fade-out on end) > FLAC (96khz, 24bit) > Izotope RX 11 (spectral denoising, reduced a especially loud drum sound) > Audacity (speed correction +5%) > foobar 2000 (SoX resampling) > CD Wave Editor (tracking) > FLAC (level 7, 44.1khz, 24bit)
+------------------------------------
+Setlist:
+01 My Name is Jonas
+02 No One Else
+03 The World Has Turned and Left Me Here
+04 Buddy Holly
+05 In The Garage 
+06 You Gave Your Love to Me Softly
+07 Jamie 
+08 Say It Ain't So
+09 Getchoo
+10 Holiday
+11 Undone - The sweater Song 
+12 Surf Wax America
+13 Only in Dreams
+14 Tired of Sex
+------------------------------------ 
+Personnel:
+Rivers Cuomo - Vocals, Lead Guitar
+Matt Sharp - Vocals, Bass
+Brian Bell - Vocals, Rhythm Guitar
+Pat Wilson - Drums
+------------------------------------
+md5:
+21b0bb88cef15aa2d2609a918ff32a96 *FLAC\01 - My Name Is Jonas.flac
+964ae4f8a4d021fdc6e39fda9b24ebf0 *FLAC\02 - No One Else.flac
+f596dd73c305ae5b059575de3cc59bca *FLAC\03 - The World Has Turned and Left Me Here.flac
+831393db0e996e7daf22cb83f2e10ae2 *FLAC\04 - Buddy Holly.flac
+b1c9793efa685f74806a2987624b89d5 *FLAC\05 - In the Garage.flac
+3c693d87cf65b35be012f5cebf7690c5 *FLAC\06 - You Gave Your Love to Me Softly.flac
+59dd74558d105ca5a64c64ac56d4a318 *FLAC\07 - Jamie.flac
+f00d8e89af165c931755e4b93fc193ce *FLAC\08 - Say It Ain't So.flac
+aae8787bc48ddc15b2193fc7e36b995d *FLAC\09 - Getchoo.flac
+654e16015e0177347ecff730e02bb80a *FLAC\10 - Holiday.flac
+8003d04be5b45d2df8328cf0967908ea *FLAC\11 - Undone - The Sweater Song.flac
+4c33c443fa09d43297cb1376b3d56ab5 *FLAC\12 - Surf Wax America.flac
+d8f3b7e767f75abeba651a401890dfee *FLAC\13 - Only in Dreams.flac
+925edb84e7405e25e0147141379ad98b *FLAC\14 - Tired of Sex.flac

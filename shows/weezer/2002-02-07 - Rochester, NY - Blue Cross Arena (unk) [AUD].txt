@@ -1,0 +1,57 @@
+Weezer
+2002-02-07
+Blue Cross Arena
+Rochester, NY
+
+Source: aud>csc>d100>cdr>XLD
+Transfer: Ben (http://www.weezed.com)
+Length: 74:22
+
+
+**** DO NOT SELL OR PURCHASE THIS RECORDING ****
+
+Setlist:
+1. Island in the Sun  	 
+2. In the Garage  	 
+3. Dope Nose  	 
+4. Why Bother?  	 
+5. Knock-down Drag-out  	 
+6. Death and Destruction  	 
+7. My Name Is Jonas  	 
+8. Simple Pages  	 
+9. Keep Fishin'  	 
+10. Photograph  	 
+11. Undone - The Sweater Song  	 
+12. Burndt Jamb  	 
+13. Don't Let Go  	 
+14. Feedback
+15. Tired of Sex  	 
+16. Say It Ain't So  	 
+17. Hash Pipe  	 
+18. Only in Dreams  
+	 
+Encore
+19. Buddy Holly  	 
+20. Surf Wax America 
+
+ffp:
+weezer2002-02-07d1t01.flac:6acefea8efca346c5a566456b7f25eb6
+weezer2002-02-07d1t02.flac:536c769b84024f8c9a446e60670edac1
+weezer2002-02-07d1t03.flac:88494a18f58beba27d3abed05111be53
+weezer2002-02-07d1t04.flac:cb0ef37dbc1d3ec01e753c56e23e6fb0
+weezer2002-02-07d1t05.flac:710fc4d42823314f4634b700108634ff
+weezer2002-02-07d1t06.flac:af2a0442ef060e067c76fb82314b1630
+weezer2002-02-07d1t07.flac:bb194f3b90a0e07715a2d7b83f0ad410
+weezer2002-02-07d1t08.flac:2f71440dc9675e535840b7a1396e591f
+weezer2002-02-07d1t09.flac:e0cb0da4059ec38a8d79adceeef115ee
+weezer2002-02-07d1t10.flac:6f06c957f6192cfb8607635b8650d7b7
+weezer2002-02-07d1t11.flac:bf5b79883ff032f248d5c84a45f8b71f
+weezer2002-02-07d1t12.flac:5dc8805434b5bb6ef45c0f5c488f178f
+weezer2002-02-07d1t13.flac:da4f9da903fb505aac21c3b3595c1901
+weezer2002-02-07d1t14.flac:b9de453c53af48cfa03880ab6b699395
+weezer2002-02-07d1t15.flac:8ae60775d374385db7495f3a0fe845b0
+weezer2002-02-07d1t16.flac:fd3bfa561ab56a67e1ccbd47a4b1a305
+weezer2002-02-07d1t17.flac:f5a072a4ece1ac219e4a0ee3eb9e2f6c
+weezer2002-02-07d1t18.flac:9cc6b2dca8184a4e36b06db127afc26f
+weezer2002-02-07d1t19.flac:155977c0e72c23259d0361504988813d
+weezer2002-02-07d1t20.flac:b40a0e87957d2495b21c41ad80484e24

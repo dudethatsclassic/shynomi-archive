@@ -1,0 +1,49 @@
+WEEZER
+October 8, 2005
+Wolstein Center
+Cleveland, OH
+
+Source 1: Soundboard > ? > EK300 IEMG2 > M-Audio Microtrack 2496
+Location: Sec. 126 row B (thirty feet from overhead left PA)
+Taper: jlizard
+Lineage: WAV(M) [48] > FLAC
+
+Source 2: Microtech Gefell M20 > JK Labs DVC III > Sony TCD-D100
+Location: Sec. 126 row B (thirty feet from overhead left PA)
+Taper: CPS
+Lineage: DAT(M) > WAV [48] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+
+Mix: WAV(M) + DAT(M) => Cool Edit Pro > Sound Forge > WAV [44.1] > FLAC
+Mix notes:
+(M20) EQ +2.0 dB high, +2.5 dB mid, +3.5 dB low
+(M20) pan 12 right
+(IEM) EQ +2.5 dB low
+(IEM) envelope @ 51:18 - 55:52
+(IEM) repair > replace dropous & static
+Notes: glitches minimized but not completely fixed or removed, opening for Foo Fighters
+
+01 - My Name is Jonas
+02 - Peace
+03 - Don't Let Go
+04 - Dope Nose
+05 - This is Such a Pity
+06 - Big Me
+07 - Perfect Situation
+08 - Why Bother
+09 - El Scorcho
+10 - Say It Ain't So 
+11 - We Are All on Drugs
+12 - Surf Wax America
+13 - Beverly Hills
+14 - Hash Pipe
+15 - Photograph
+16 - (Song 2)
+17 - jam
+18 - Island in the Sun
+19 - talk
+20 - Undone - The Sweater Song
+21 - Buddy Holly
+
+
+Compiled August 2020 by CPS

@@ -1,0 +1,68 @@
+Weezer
+Van Andel Arena
+Grand Rapids, MI
+October 6th, 2005
+
+Taper: Aron41
+Location: FOB
+Source: AT831s (in hat) > SP-SPSB-1 (w/ bass rolloff set @ 95 Hz) > (line-in) > JB3 (@ 48 khz)
+Conversion: JB3 > USB > Audacity (fade in/fade out) > r8brain (resampling) > CDWav 1.94.5 >  FLAC Frontend 1.1.1 (Level 6)
+
+	*PLEASE DO NOT SELL THIS RECORDING*
+	*PLEASE DO NOT TRADE ANY LOSSY COMPRESSED VERSIONS OF THIS RECORDING*
+	*PLEASE SUPPORT LIVE MUSIC*
+
+01. Intro
+02. My Name Is Jonas
+03. Peace
+04. (Beverly Hills) > Don't Let Go 
+05. Dope Nose *
+06. This Is Such A Pity
+07. Big Me (Foo Fighters cover)  >
+08. Perfect Situation 
+09. Keep Fishin' ^
+10. El Scorcho
+11. Say It Ain't So  >
+12. We Are All On Drugs  >
+13. Surf Wax America  >
+14. Beverly Hills  > 
+15. Buddy Holly  >
+16. Photograph +  >
+17. Song 2 +
+18. Island in the Sun #
+19. (Over The Hills and Far Away)/Guest Guitarist Intro
+20. Undone-The Sweater Song %
+21. Hash Pipe
+
+*   Bassist Scott Shriner on lead vocals
+( ) Indicates a tease
+>   Indicates a segue
+^   Guitarist Brian Bell on lead vocals
++   Drummer Pat Wilson on lead vocals
+#   Rivers solo
+%   "Greger" on acoustic guitar
+
+Great fun show by the Weez. The sound mix was the worst out of the three acts that night. The bass is distorted occasionally, especially in "Beverly Hills".
+The tape accurately shows this. Nothing horrible though.
+
+weezer2005-10-06t01.flac:f390143c92f09103750d964d344abd2d
+weezer2005-10-06t02.flac:f7d7adc68b9421563622a7b7f5fcbc66
+weezer2005-10-06t03.flac:1cd78fb032c6b9c8c2f9045b473fc7ef
+weezer2005-10-06t04.flac:ad00b37fbb9e92520e7e9f7ee9f1dd56
+weezer2005-10-06t05.flac:32ba27ce1038c74b62a12aa67248cbd2
+weezer2005-10-06t06.flac:f498ba8212ded3bce9c0e6a648cc98ab
+weezer2005-10-06t07.flac:c7998221ce0e4846c1b8bb8275fdcee5
+weezer2005-10-06t08.flac:32851907f3e1e75000ca1012e62fa1ed
+weezer2005-10-06t09.flac:47037af75a0e531dbb84383a44c6e337
+weezer2005-10-06t10.flac:99dfac78448aeb53bbb1b5ce88f623b3
+weezer2005-10-06t11.flac:e1aaddd0d075e84ec9af20fcf3797cd9
+weezer2005-10-06t12.flac:958b6b7ba96919668140ea46cf3411f2
+weezer2005-10-06t13.flac:eae86e2561316416924a4beec208b04d
+weezer2005-10-06t14.flac:099c2e55e05a9f6243b72de5c4e06383
+weezer2005-10-06t15.flac:83f2fd962cc1b90adb67015733050a3d
+weezer2005-10-06t16.flac:227d7a95bbb662e8d1807a6c94325d91
+weezer2005-10-06t17.flac:aaf385f2f3a390483b91811adcab9f39
+weezer2005-10-06t18.flac:1a8310ee0d9ce59940ede09a4addf8bc
+weezer2005-10-06t19.flac:6186aa2946afaccd734900a56934624e
+weezer2005-10-06t20.flac:42e4bb0ba63955b2db7fb8135b896491
+weezer2005-10-06t21.flac:ea1bb0c79c6b44327e8da1208d87869b

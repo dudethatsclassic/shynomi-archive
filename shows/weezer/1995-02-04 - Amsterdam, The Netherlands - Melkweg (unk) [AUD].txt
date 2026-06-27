@@ -1,0 +1,38 @@
+Weezer
+Melkweg; Amsterdam, Netherlands
+1995-02-04
+Taper: ??? (AUD)
+Comment: Rarely circulated bootleg of Weezer in the Netherlands, which I received from Dan Hewitt recently. I've cleaned it up in Izotope RX 11, reducing the bassy distortion present, removing mic squeaks and dropouts. The recording is also notable for a rare performance of Susanne (taking the setlist place of Getchoo), which has seldom bootleg recordings out there. Be aware this is likely not the complete setlist as My Name Is Jonas and No One Else were usually performed as the openers to 1995 shows, but it's possible the two weren't recorded by the taper. Enjoy!
+Hailey Carol, January 5th, 2025
+------------------------------------ 
+Lineage: ??? > CD-R > WAV > Izotope RX 11 (removed hum, normalized, faded out, EQ, removed mic squeaks, fixed dropouts) > Audacity (speed correction) > CD Wave (re-tracking) > FLAC (level 6, 16bit, 44.1khz)
+------------------------------------
+Setlist:
+01 The World Has Turned and Left Me Here
+02 Buddy Holly
+03 In the Garage
+04 Jamie
+05 Say It Ain't So
+06 Susanne
+07 Undone - The Sweater Song
+08 Holiday
+09 Only in Dreams
+10 Surf Wax America (cuts in)
+------------------------------------ 
+Personnel:
+Rivers Cuomo - Vocals, Lead Guitar
+Matt Sharp - Vocals, Bass
+Brian Bell - Vocals, Rhythm Guitar
+Pat Wilson - Drums
+------------------------------------ 
+md5:
+b7dea5a4bd364e17293508e08b06c672 *FLAC\01 - The World Has Turned and Left Me Here.flac
+b851a886276d5aedccf48b0acba7c1aa *FLAC\02 - Buddy Holly.flac
+b9b5728a36483cfb422c90cb0a73f157 *FLAC\03 - In the Garage.flac
+85ed66b26d00bf6ec93562f03a3f552e *FLAC\04 - Jamie.flac
+acb7a58563f4f8114ec92f94a1c7da97 *FLAC\05 - Say It Ain't So.flac
+15f34e9788c5831819df6b1b861e7cf0 *FLAC\06 - Susanne.flac
+53059c5e4de9485ce836de7ad11b22dc *FLAC\07 - Undone - The Sweater Song.flac
+6dacb9854abb438d95dc27a3a2fc3a94 *FLAC\08 - Holiday.flac
+190fa2829917828d2a9af0cffd5cb79d *FLAC\09 - Only in Dreams.flac
+b18446f7c9e262e7b070c43e49e6de91 *FLAC\10 - Surf Wax America (cuts in).flac

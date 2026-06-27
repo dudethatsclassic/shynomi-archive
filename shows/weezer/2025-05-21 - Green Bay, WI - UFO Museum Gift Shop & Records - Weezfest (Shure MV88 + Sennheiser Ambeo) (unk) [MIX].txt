@@ -1,0 +1,58 @@
+Weezfest - 2025-05-21, Green Bay, WI
+
+Weezfest
+Green Bay UFO Museum Gift Shop and Records
+Green Bay, WI
+2025-05-21
+
+TRACK LISTING
+00 - soundcheck (The Weight)
+01 - American Gigolo
+02 - Dope Nose
+03 - Keep Fishin'
+04 - Take Control
+05 - Death and Destruction
+06 - Slob
+07 - Burndt Jamb
+08 - Space Rock
+09 - Slave
+10 - Fall Together
+11 - Possibilities
+12 - Love Explosion
+13 - December
+14 - Tired Of Sex
+15 - The Good Life
+16 - 1 More Hit
+17 - Mexican Fender
+18 - Susanne
+19 - Buddy Holly
+
+FLAC FINGERPRINTS or MD5 checksum for the musical content only (*)
+00 - soundcheck.flac:2b94124593898ef732816e1109ae12ff
+01 - American Gigolo.flac:c59cfd0d15b30989a70cc74d72e42e30
+02 - Dope Nose.flac:62ceb66f143df5826c6fdd36794a812f
+03 - Keep Fishin'.flac:5900a752051fb497d5ad6e98b17bac04
+04 - Take Control.flac:19eae1b729b5fb6aedafce78a5715ad5
+05 - Death and Destruction.flac:f4b70d227548ca86dbfae80274fc0d8b
+06 - Slob.flac:4480dee11998bd537ffb6a9e4bf1e1e9
+07 - Burndt Jamb.flac:673a723971677ef6976e4d1a5eb13883
+08 - Space Rock.flac:141000a6c64740e359d54f9a7f185d31
+09 - Slave.flac:148f9464c47042da9965215400c46a07
+10 - Fall Together.flac:8ac0a41ac049c4c31b3803bdcfe899ec
+11 - Possibilities.flac:e0537d44ce0cdd42bf377300c4fdfd3e
+12 - Love Explosion.flac:28cf84d0de70564cc6afea602cd12449
+13 - December.flac:c1785b85b31590fc638c3a47721ce8af
+14 - Tired Of Sex.flac:88cb8c03149d0c448a96a0dd5e1040a7
+15 - The Good Life.flac:99e04898030fb7c2dc4fc3ce475657bd
+16 - 1 More Hit.flac:54ff43ac2d442a72438684abe88adf3e
+17 - Mexican Fender.flac:eeae107cda245d8300a0936836bd1afe
+18 - Susanne.flac:658a360c98e1a719de716b2fdc96d9e6
+19 - Buddy Holly.flac:d38bb6f7ad1f4858f4f47a73af7a6cca
+
+AUD SOURCE 1
+Shure mv88 -> iPhone Motiv app wav -> split in Audacity -> flac
+AUD SOURCE 2
+Sennheiser Ambeo Smart Headset -> iPhone Apogee MetaRecorder app wav -> split in Audacity -> flac
+
+Go see them live
+Go buy their albums

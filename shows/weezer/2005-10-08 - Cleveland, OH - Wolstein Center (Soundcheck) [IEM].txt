@@ -1,0 +1,28 @@
+WEEZER
+October 8, 2005
+Wolstein Center
+Cleveland, OH
+[SOUNDCHECK]
+
+Source: SBD > ? > Shure P7R-L2 IEM > M-Audio Microtrack 24/96
+Taper: jlizard
+Edits/EQ: 0:00:00-0:03:56 limiter @ -5.9dB, +21.7 dB, RX7 Music Rebalance
+Lineage: WAV(M) [48] > WAV [44.1] > FLAC
+Notes: soundcheck, occasional static
+
+[cut] tuning
+[cut] (The Damage In Your Heart)
+[cut] tuning
+01 - (The Damage In Your Heart)
+02 - tuning
+03 - The Damage In Your Heart
+04 - tuning
+05 - Dope Nose
+06 - tuning
+07 - (Dope Nose)
+08 - tuning
+09 - (Dope Nose)
+10 - tuning
+
+
+Compiled November 2020 by CPS

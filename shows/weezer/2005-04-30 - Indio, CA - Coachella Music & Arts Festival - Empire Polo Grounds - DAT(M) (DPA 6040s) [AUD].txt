@@ -1,0 +1,148 @@
+{\rtf1\ansi\ansicpg10000\deff0{\fonttbl{\f0\fswiss\fprq2\fcharset77 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Msftedit 5.41.15.1503;}\viewkind4\uc1\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\cf1\lang1033\f0\fs20 BoldCaptain & SBDJohnny Present:\par
+Coachella2005-4-30-Day1-MainStage.flacf.torrent\par
+\par
+\par
+Assorted Artists-MainStage\par
+Coachella Music & Arts Festival\par
+30 April 2005\par
+Empire Polo Grounds, Indio, California.\par
+\par
+Source: Master Audience DAT: DPAs=DanishProAudio 6040's (9V BatBox >Line In) > Sony PCM-M1 > Maxell 90m DAT @48k\par
+\par
+\par
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640 Playback/Transfer: Fostex D5 Master (DAT) Recorder  > Tascam CD-RW5000  \par
+(AES/EBU out > Coax in) > CD > Peak 4.0 ( Extraction, Tracking, Fades ) > verify SBE OK, generate .aiff.checksum, compress to flac level 7, generate fingerprint, verify via xACT 1.4b23, seeded to EZT via Azureus 2.2.0.2 by BoldCaptain May 2005.\par
+\par
+FileSize: 1.09 Gb\par
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\par
+Setlist:\par
+    length     expanded size   cdr  WAVE problems filename\par
+MainStage\par
+   1. Keane2005-4-30-DPAs\par
+     4:35.32       48585308    ---   --   ---xx   Keane2005-4-30-DPAs-t01.flac\par
+     3:58.52       42105548    ---   --   ---xx   Keane2005-4-30-DPAs-t02.flac\par
+     4:35.40       48604124    ---   --   ---xx   Keane2005-4-30-DPAs-t03.flac\par
+     4:34.48       48446540    ---   --   ---xx   Keane2005-4-30-DPAs-t04.flac\par
+     5:18.00       56095244    ---   --   ---xx   Keane2005-4-30-DPAs-t05.flac\par
+     4:08.49       43862492    ---   --   ---xx   Keane2005-4-30-DPAs-t06.flac\par
+     4:01.27       42575948    ---   --   ---xx   Keane2005-4-30-DPAs-t07.flac\par
+     4:41.54       49695452    ---   --   ---xx   Keane2005-4-30-DPAs-t08.flac\par
+   2. Wilco2005-4-30-DPAs\par
+     3:05.54       32761052    ---   --   ---xx   Wilco2005-4-30-DPAs-t01.flac\par
+     5:57.09       62996012    ---   --   ---xx   Wilco2005-4-30-DPAs-t02.flac\par
+     5:30.47       58322588    ---   --   ---xx   Wilco2005-4-30-DPAs-t03.flac\par
+     5:19.54       56398652    ---   --   ---xx   Wilco2005-4-30-DPAs-t04.flac\par
+     5:51.72       62085788    ---   --   ---xx   Wilco2005-4-30-DPAs-t05.flac\par
+     4:46.63       50598620    ---   --   ---xx   Wilco2005-4-30-DPAs-t06.flac\par
+     3:26.51       36458396    ---   --   ---xx   Wilco2005-4-30-DPAs-t07.flac\par
+     4:04.31       43114556    ---   --   ---xx   Wilco2005-4-30-DPAs-t08.flac\par
+     3:21.71       35623436    ---   --   ---xx   Wilco2005-4-30-DPAs-t09.flac\par
+    10:18.02      109019948    ---   --   ---xx   Wilco2005-4-30-DPAs-t10.flac\par
+   3. Weezer2005-4-30-DPAs\par
+     4:22.43       46317980    ---   --   ---xx   Weezer2005-4-30-DPAs-t01.flac\par
+     2:08.35       22661564    ---   --   ---xx   Weezer2005-4-30-DPAs-t02.flac\par
+     5:41.35       60234764    ---   --   ---xx   Weezer2005-4-30-DPAs-t03.flac\par
+     4:17.01       45337196    ---   --   ---xx   Weezer2005-4-30-DPAs-t04.flac\par
+     3:49.24       40452092    ---   --   ---xx   Weezer2005-4-30-DPAs-t05.flac\par
+     4:27.00       47098844    ---   --   ---xx   Weezer2005-4-30-DPAs-t06.flac\par
+     4:24.51       46689596    ---   --   ---xx   Weezer2005-4-30-DPAs-t07.flac\par
+     3:33.45       37679084    ---   --   ---xx   Weezer2005-4-30-DPAs-t08.flac\par
+     3:59.14       42192572    ---   --   ---xx   Weezer2005-4-30-DPAs-t09.flac\par
+     3:23.66       35964476    ---   --   ---xx   Weezer2005-4-30-DPAs-t10.flac\par
+     3:56.40       41724524    ---   --   ---xx   Weezer2005-4-30-DPAs-t11.flac\par
+     4:42.42       49843628    ---   --   ---xx   Weezer2005-4-30-DPAs-t12.flac\par
+\par
+   4. Bauhaus2005-4-30-XXXs\par
+\pard        \f1\tab Bauhaus\par
+\tab April 30, 2004\par
+\tab Coachella Stage\par
+\tab Coachella Festival\par
+\tab Indio CA\par
+\par
+\tab schoeps mk4v > vms02ib > modSBM > d8\par
+\par
+\tab Bela Lugosi's Dead\par
+\tab In the Flat Field\par
+\tab God in an Alcove\par
+\tab Burning from the Inside\par
+\tab She's In Parties\par
+\tab The Passion of Lovers >\par
+\tab Silent Hedges\par
+\tab Rosegarden Funeral of Sores\par
+\tab Kick in the Eye\par
+\tab Stigmata Martyr\par
+\tab Dark Entries\par
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\f0\par
+   5. Coldplay2005-4-30-DPAs\par
+     1:33.39       16496972    ---   --   ---xx   Coldplay2005-4-30t01.flac\par
+     5:22.28       56866700    ---   --   ---xx   Coldplay2005-4-30t02.flac\par
+     5:25.13       57360620    ---   --   ---xx   Coldplay2005-4-30t03.flac\par
+     4:38.66       49194476    ---   --   ---xx   Coldplay2005-4-30t04.flac\par
+     4:46.15       50485724    ---   --   ---xx   Coldplay2005-4-30t05.flac\par
+     5:41.06       60166556    ---   --   ---xx   Coldplay2005-4-30t06.flac\par
+     5:47.33       61288460    ---   --   ---xx   Coldplay2005-4-30t07.flac\par
+     5:47.24       61267292    ---   --   ---xx   Coldplay2005-4-30t08.flac\par
+     6:52.02       72681548    ---   --   ---xx   Coldplay2005-4-30t09.flac\par
+     4:10.23       44154140    ---   --   ---xx   Coldplay2005-4-30t10.flac\par
+     6:44.06       71279756    ---   --   ---xx   Coldplay2005-4-30t11.flac\par
+     6:53.53       72977900    ---   --   ---xx   Coldplay2005-4-30t12.flac\par
+     4:40.45       49497884    ---   --   ---xx   Coldplay2005-4-30t13.flac\par
+     4:45.42       50372828    ---   --   ---xx   Coldplay2005-4-30t14.flac\par
+     5:08.20       54378284    ---   --   ---xx   Coldplay2005-4-30t15.flac\par
+\par
+\par
+Notes: First song of Keane is already in progress while the deck starts to roll up to the Main Stage, I doubled up a later portion of the song to fill in as the start... Outside of that and the fades/normalise/tracking no other work was performed. Taper location about half way up security rail left hand side of stage. Evil security guy bags us during Bauhaus set. All other sets remain intact as he gets only the Bauhaus and a blank DAT. No setlists at this time. Any help with that will be greatly appreciated!\par
+Enjoy!\par
+\par
+\par
+fingerprint:\par
+Keane2005-4-30-DPAs-t01.flac:15fc6ec242a21f0f7993743190797b3f\par
+Keane2005-4-30-DPAs-t02.flac:81966dfdd1ea643a07d8939c1eddbf8d\par
+Keane2005-4-30-DPAs-t03.flac:94f7ebeecd6565906f7760342bf5639e\par
+Keane2005-4-30-DPAs-t04.flac:26889a6a279678e1f68db29f0d379d82\par
+Keane2005-4-30-DPAs-t05.flac:4b6b862cba3fe3a2fd1a8e319a105ce2\par
+Keane2005-4-30-DPAs-t06.flac:66778bc6c48624bf7c35d57f74290465\par
+Keane2005-4-30-DPAs-t07.flac:b15f8b08dc29f70af12e798629e1003f\par
+Keane2005-4-30-DPAs-t08.flac:348888abb54526cff7018eb57538a695\par
+Wilco2005-4-30-DPAs-t01.flac:300cda61389482ad7b807cb5606b7704\par
+Wilco2005-4-30-DPAs-t02.flac:fa387be42303bfde4d657389c2707b20\par
+Wilco2005-4-30-DPAs-t03.flac:7d3bd6412841c82818e6ce6da641566b\par
+Wilco2005-4-30-DPAs-t04.flac:c96675571c1179cf1c8f545e23d5b725\par
+Wilco2005-4-30-DPAs-t05.flac:4db62e2d6aaf7d9831f6e64245d903a9\par
+Wilco2005-4-30-DPAs-t06.flac:27587209f1d0fc27ae8fcd203de09237\par
+Wilco2005-4-30-DPAs-t07.flac:f5490bc5728a57ac88bd8f4a4ee29e03\par
+Wilco2005-4-30-DPAs-t08.flac:789df22942821fcb8b617f50ad8706ad\par
+Wilco2005-4-30-DPAs-t09.flac:ecda8740f8e6486bcc4b3878e79b29d9\par
+Wilco2005-4-30-DPAs-t10.flac:ce2fa0e681bef395a13cadc9abece13b\par
+Weezer2005-4-30-DPAs-t01.flac:59e0f4aff7ba980beac6c9bfc0a7a704\par
+Weezer2005-4-30-DPAs-t02.flac:f9b5222d9075ea734bed33b396fc5b82\par
+Weezer2005-4-30-DPAs-t03.flac:73fd667b79c7755a7b702e0a61b54785\par
+Weezer2005-4-30-DPAs-t04.flac:de894a390ada07ba55d1bde5c9e32a4f\par
+Weezer2005-4-30-DPAs-t05.flac:c0081b9b37a8d797bdb7ac103f86f30f\par
+Weezer2005-4-30-DPAs-t06.flac:7e8f225857fff298818ef2e9ce51c659\par
+Weezer2005-4-30-DPAs-t07.flac:5ca04c967027b27351e113e756f21bda\par
+Weezer2005-4-30-DPAs-t08.flac:0f13ecddb851f1b8114cc7fc0f6dc627\par
+Weezer2005-4-30-DPAs-t09.flac:d6e68484962c1620c477cd655077aed3\par
+Weezer2005-4-30-DPAs-t10.flac:450b224818b4dadca7d7fefa510a67a3\par
+Weezer2005-4-30-DPAs-t11.flac:e73711bded6a529446a6bc2d8cfa1549\par
+Weezer2005-4-30-DPAs-t12.flac:fe36ae61bee3ba405fcc59f76a13f5bd\par
+Coldplay2005-4-30t01.flac:75e553e0a68e4416ad9d3cbb47c3c35a\par
+Coldplay2005-4-30t02.flac:e6c2b4c3907625086662de1d155e7943\par
+Coldplay2005-4-30t03.flac:8543256f97066f288261c662c0e6a1b5\par
+Coldplay2005-4-30t04.flac:d36ff79e6640f055d2a433189dd2ff8b\par
+Coldplay2005-4-30t05.flac:fe163b6e801e1cfd4ce1fd602c4313b7\par
+Coldplay2005-4-30t06.flac:8c2c21d1046d9cc99399239115e5fa9c\par
+Coldplay2005-4-30t07.flac:c16e7950f5cb61bf6e5db8eb2b162a02\par
+Coldplay2005-4-30t08.flac:be2f0c93ffb213b47e964cc75eb04f0d\par
+Coldplay2005-4-30t09.flac:af91ef3f0aa0d6b0a621f6ee794eec23\par
+Coldplay2005-4-30t10.flac:11f049fff27755c0f0d4eae2e4f44a34\par
+Coldplay2005-4-30t11.flac:5e8c4e105f5bd9fbccdd559d5c89e507\par
+Coldplay2005-4-30t12.flac:c17656e2517880fe2293674fac96ab99\par
+Coldplay2005-4-30t13.flac:67ea89bc1edc5becd0e0c3c1759fffbb\par
+Coldplay2005-4-30t14.flac:1f677b7ad985924de0899d9637645604\par
+Coldplay2005-4-30t15.flac:81c0b8fa96f4e6214a92a4d484b8f97f\par
+\par
+}
+ 

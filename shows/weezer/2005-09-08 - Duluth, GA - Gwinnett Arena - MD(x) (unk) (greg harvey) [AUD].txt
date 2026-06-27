@@ -1,0 +1,57 @@
+Weezer
+Gwinnett Arena; Duluth, Georgia, U.S.A.
+2005-09-08
+Taper: Greg Harvey (AUD)
+Comment: Another seemingly uncirculating show, the first show of the Foozer tour with the Foo Fighters. If I rememember, the taper stated his microphone was broken and only recorded one channel, so this audience recording is mono. This also required some remastering, as there was some clipping. Enjoy!
+Hailey Carol, April 3rd, 2025
+------------------------------------ 
+Lineage: ??? > minidisc (ATRAC) > ??? > FLAC (44.1khz, 16bit) > Izotope RX 11 (declipping, EQ) > CD Wave (tracking) > FLAC (44.1khz, 16bit) > foobar2000 v2.1.6 (tagging)
+------------------------------------ 
+Setlist:
+01 Don't Let Go
+02 My Name Is Jonas
+03 Peace
+04 Fall Together
+05 Death and Destruction (Instrumental)
+06 No One Else
+07 Perfect Situation
+08 Why Bother?
+09 El Scorcho
+10 Say It Ain't So
+11 We Are All on Drugs
+12 Beverly Hills
+13 Buddy Holly
+14 Photograph
+15 Island in the Sun (Rivers Cuomo solo acoustic)
+16 Undone - The Sweater Song
+17 Hash Pipe
+18 Surf Wax America
+------------------------------------ 
+Personnel:
+Rivers Cuomo - Vocals, Lead Guitar
+Scott Shriner - Vocals, Bass, Lead Vocals on Fall Together
+Brian Bell - Vocals, Rhythm Guitar, Keyboards, Lead Vocals on Why Bother?
+Pat Wilson - Drums, Lead Vocals on Photograph
+Bobby Schneck - Rhythm Guitar
+------------------------------------ 
+Looking for anything Weezer, XTC, They Might Be Giants and Klaatu :) PM/email me if you have any concerts from them!
+------------------------------------ 
+md5:
+93762a55566aba75fa80d464918626c7 *FLAC\01 - Don't Let Go.flac
+e00036edc9e46526c598b29cf93c587f *FLAC\02 - My Name Is Jonas.flac
+9aac5843e650a0995656e038002380da *FLAC\03 - Peace.flac
+736b36d7387efd97062d840bd2b602ce *FLAC\04 - Fall Together.flac
+f6279cb8b0d0e20875c3c52d42df57f8 *FLAC\05 - Death and Destruction (Instrumental).flac
+d9901fc1a216f3481542dbc641d3f84c *FLAC\06 - No One Else.flac
+afee5a68e56e19ed12866a0f7944aa09 *FLAC\07 - Perfect Situation.flac
+0666d18e5f088d3d55aa102619727fbe *FLAC\08 - Why Bother.flac
+5c2689f271cc9b3e8cc4e9fc4f67d3ce *FLAC\09 - El Scorcho.flac
+9f1fd3f899a8bfb52dbdbb2b8161a0c2 *FLAC\10 - Say It Ain't So.flac
+cf26e84cebdda603c040d9ca8b11faed *FLAC\11 - We Are All on Drugs.flac
+af450d13e83465f1029161f2e3882a4e *FLAC\12 - Beverly Hills.flac
+2fd5c64adcf3831092fcd43ed8d5d929 *FLAC\13 - Buddy Holly.flac
+f8a07b278ed06a05b470907268d4bb0a *FLAC\14 - Photograph.flac
+8446a654bfa721a9c114b526b1e64569 *FLAC\15 - Island in the Sun (Rivers Cuomo acoustic).flac
+9b21ae697817dda6d8ad763d0aed5931 *FLAC\16 - Undone - The Sweater Song.flac
+7f55954215bb69270319aced3c8d3e2a *FLAC\17 - Hash Pipe.flac
+622acbbe4b89ea9fe2b2edb2fab458b4 *FLAC\18 - Surf Wax America.flac

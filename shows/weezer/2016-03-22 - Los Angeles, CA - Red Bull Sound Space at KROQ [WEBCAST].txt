@@ -1,0 +1,81 @@
+Weezer
+Red Bull Sound Space
+KROQ-FM
+Los Angeles, California
+March 22, 2016
+
+Lineage: Live Webcast -> FFmpeg (capture & edit) -> .ts 
+Video: MPEG4 Video (H264) 1280x720 16:9 2340 Kbps 29.97 fps
+Audio: AAC 130 Kbps 44.1 KHz stereo
+
+Setlist:
+Hash Pipe
+Say It Ain't So
+King of the World
+L.A. Girlz
+Thank God for Girls
+Beverly Hills
+Buddy Holly
+-Q & A w/Kat Corbett-
+
+TRT = 00:42:42
+
+MediaInfo:
+General
+ID                          : 1 (0x1)
+Complete name               : Weezer - 2016-03-22 Red Bull Sound Space, KROQ, Los Angeles, CA [720p]\Weezer - 2016-03-22 Red Bull Sound Space, KROQ, Los Angeles, CA [720p].ts
+Format                      : MPEG-TS
+File size                   : 824 MiB
+Duration                    : 42mn 42s
+Overall bit rate mode       : Variable
+Overall bit rate            : 2 698 Kbps
+
+Video
+ID                          : 256 (0x100)
+Menu ID                     : 1 (0x1)
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : Main@L3.1
+Format settings, CABAC      : Yes
+Format settings, ReFrames   : 4 frames
+Format settings, GOP        : M=4, N=60
+Codec ID                    : 27
+Duration                    : 42mn 42s
+Bit rate mode               : Constant
+Nominal bit rate            : 2 340 Kbps
+Width                       : 1 280 pixels
+Height                      : 720 pixels
+Display aspect ratio        : 16:9
+Frame rate                  : 29.970 (30000/1001) fps
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.085
+
+Audio
+ID                          : 257 (0x101)
+Menu ID                     : 1 (0x1)
+Format                      : AAC
+Format/Info                 : Advanced Audio Codec
+Format version              : Version 4
+Format profile              : LC
+Muxing mode                 : ADTS
+Codec ID                    : 15
+Duration                    : 42mn 44s
+Bit rate mode               : Variable
+Channel(s)                  : 2 channels
+Channel positions           : Front: L R
+Sampling rate               : 44.1 KHz
+Frame rate                  : 43.066 fps (1024 spf)
+Compression mode            : Lossy
+Delay relative to video     : -1s 239ms
+
+Menu
+ID                          : 4096 (0x1000)
+Menu ID                     : 1 (0x1)
+Duration                    : 42mn 42s
+List                        : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                : Service01
+Service provider            : FFmpeg
+Service type                : digital television

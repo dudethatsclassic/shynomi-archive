@@ -1,0 +1,53 @@
+Weezer
+Electric Factory
+Philadelphia, PA
+Tuesday May 10, 2005
+
+Taper:		George Wang <gewwang@yahoo.com> and Dave Thoma
+Source:		DPA4022 > Sonosax SX-M2 > Mogami interconnect > Edirol R-1 @ 24/44.1
+Location:	15 ft. Stage Right Stack
+
+WAV > FLAC:	.wav @ 24/44.1 > Steinberg WaveLab v5.00a (dither with Apogee UV22HR to
+		16/44.1) > CD-WAV/FLAC frontend v1.7.1 > .flac
+
+Disc One:
+
+01: Intro				-	02:15.400
+02: Tired Of Sex			-	03:37.600
+03: In The Garage			-	03:59.533
+04: No One Else				-	03:52.733
+05: Pardon Me				-	04:41.133
+06: Buddy Holly				-	03:39.400
+07: Photograph				-	02:16.000
+08: Hold Me				-	05:27.733
+09: Getchoo				-	03:57.266
+10: Say It Ain't So			-	04:15.866
+11: We Are All On Drugs			-	04:20.133
+
+Total:					-	42:21.800
+
+Disc Two:
+
+01: Island In The Sun			-	03:48.200
+02: My Name Is Jonas			-	04:26.533
+03: Peace				-	04:16.266
+04: Beverly Hills			-	03:40.866
+05: Hash Pipe				-	03:57.600
+06: Haunt You Every Day			-	08:23.133
+07: Undone - The Sweater Song		-	04:34.133
+08: The Good Life			-	08:30.466
+09: Intro #				-	00:53.000
+10: #					-	04:20.000
+11: #					-	04:03.000
+12: #					-	04:11.266
+13: #					-	04:48.733
+14: #					-	05:04.000
+15: #					-	04:43.000
+16: #					-	03:39.400
+17: #					-	04:36.600
+
+Total:					-	77:56.200
+
+# Opening act - Ringside
+
+compiled by George Wang on 05-15-2005

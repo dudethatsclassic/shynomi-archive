@@ -1,0 +1,47 @@
+Weezer
+2023-09-02
+FivePoint Amphitheatre
+Irvine, CA, USA
+sznw
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro
+02 - My Name Is Jonas
+03 - Beverly Hills
+04 - Return to Ithaka
+05 - The Good Life
+06 - One More Hit [tease]
+07 - Pork and Beans
+08 - Pink Triangle
+09 - El Scorcho
+10 - You Gave Your Love to Me Softly
+11 - Blast Off!
+12 - Undone – The Sweater Song
+13 - The World Has Turned and Left Me Here
+14 - Baby Come Back [tease]
+15 - Susanne
+16 - Only in Dreams
+17 - The Greatest Man That Ever Lived (Variations on a Shaker Hymn)
+18 - Island in the Sun
+19 - Perfect Situation
+20 - All My Favorite Songs
+21 - Say It Ain't So
+22 - Run, Raven, Run
+23 - Hash Pipe
+24 - Thank You and Good Night
+25 - encore
+26 - The Waste Land
+27 - Surf Wax America
+28 - Buddy Holly
+
+-- Notes --
+White Reaper and Spoon opened.
+
+Length: 1h34m00s
+
+-- faninor -- 2023-09-21 --

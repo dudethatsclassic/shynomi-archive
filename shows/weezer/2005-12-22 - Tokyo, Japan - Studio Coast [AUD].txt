@@ -1,0 +1,77 @@
+Weezer
+Dec. 22, 2005 (THU)
+Venue: Studio Coast
+Location: Shinkiba, Tokyo, Japan
+
+Source: SP-CMC-8 (AT943) -> SP-SPSB-6 (with bass roll off set at 69Hz)
+        -> Sony MZ-NH1 Linear PCM 44.1kHz (manual rec. mode)
+        -> Hi-MD 1GB disc
+Lineage: NH1-> USB -> Sonic Stage 3.2 -> Wav 
+         -> Audition 1.5
+	    (Fades, level adjustment, normalizing only; no remastering)
+         -> CDWave 1.94.5 beta 
+         -> Flac Frontend level 8 
+            (Flac 1.1.2a/Frontend 1.7.1 Verify/Align/Tags)
+
+A Big Salty Release (BS-007d) (DIME Version)
+(recorded and compiled by BS Productions)
+released on DIME: Dec. 26, 2005
+
+01 My Name is Jonas
+02 Perfect Situation
+03 Don't Let Go
+04 Dope Nose (Scott vocals)
+05 Across the Sea
+06 I Don't Know How to Love Her (cover song from Jesus Christ Superstar)
+07 Hash Pipe
+08 Why Bother? (Brian on vocals)
+09 El Scorcho
+10 Say it Ain't So
+11 We are All on Drugs > Bass Solo > Joy to the World
+12 Surf Wax America
+13 The Good Life
+14 Beverly Hills
+15 Photograph > Song 2 (blur cover) (Pat on vocals/guitar, Rivers on drums)
+encores:
+16 Island in the Sun (acoustic, Rivers solo)
+17 Haunt You Every Day
+18 Buddy Holly
+
+There is no officially released music on this recording. The opening
+tape of "When You Wish Upon a Star" and anything played over the
+PAs after the show have been totally cut from this recording to
+meet DIME requirements.
+
+Please DO NOT SELL this recording, it should be available for free.
+Please do not redistribute in lossy format.
+This file must accompany this package to preserve lineage info.
+Please support the artist and purchase official merchandise.
+
+Position: 1st tier about 6 feet above the floor facing the left
+speaker stack (about the same distance away from the stage as the
+soundboard, but on left side). Thus, stereo separation is not
+perfect.
+
+Final night of the Weezer tour.
+
+This was the third consecutive night in Tokyo at this venue.  The
+first two nights were filmed for an official DVD release.  It was
+evident that this show was not being filmed. So until official word
+on the contents of the official DVD release, this will be the only
+show released on DIME.
+
+As with the rest of the shows, Island in the Sun was performed by
+Rivers solo acoustic at the rear of the floor in front of the
+soundboard.  Thus, stereo separation fluctuates significantly during
+this song.
+
+It was a killer show with a cover song not played the nights before, 
+and also a different encore song from the previous two nights.
+
+This recording is dedicated to Rivers. I hope you don't mind that
+it's being shared. I hope you can enjoy it as much as all the music
+I've enjoyed from you.
+
+Congratulations, and all the best to you and your future.
+Please keep the music coming.
+

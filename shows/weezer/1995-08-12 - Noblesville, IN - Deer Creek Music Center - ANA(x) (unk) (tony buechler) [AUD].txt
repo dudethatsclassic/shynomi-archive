@@ -1,0 +1,44 @@
+Weezer
+Deer Creek Music Center; Noblesville, Indiana, USA
+1995-08-12
+Taper: Tony Buechler (AUD)
+Comment: A late World Domination Tour recording and notably the earliest known performance of "Why Bother?", a bit more than a year before its appearance on Pinkerton. Not a great sounding tape admittedly but I've done my best to make it sound better. I received this transfer from the taper but I'm not exactly sure what he used to transfer it, aside from it being something with a USB. Cover photo by Andrew Savulich.
+Hailey Carol, June 29th, 2025
+------------------------------------
+Lineage: ??? > cassette > ??? > Audacity > WAV (16 bit) > Adobe Audition (phase correction) > pyaudiorestoration (dropout fixes) > Izotope RX 11 (EQ, spectral denoise, click removal, clapping reduction, further dropout fixes, whistling reduction, tape flip fix, fades added) > Audacity (speed correction -3.5%) > CD Wave Editor (tracking) > FLAC (level 6, 16 bit) > foobar2000 (tagging)
+------------------------------------
+Setlist:
+00 Intro
+01 No One Else
+02 In the Garage
+03 You Gave Your Love to Me Softly
+04 Undone - The Sweater Song
+05 My Name Is Jonas
+06 The World Has Turned and Left Me Here
+07 Holiday
+08 Jamie
+09 Say It Ain't So
+10 Why Bother?
+11 Buddy Holly
+12 Surf Wax America
+------------------------------------ 
+Personnel:
+Rivers Cuomo - Vocals, Lead Guitar
+Matt Sharp - Vocals, Bass
+Brian Bell - Vocals, Rhythm Guitar, Synthesizer
+Pat Wilson - Drums
+------------------------------------ 
+md5:
+d721df10000480dc4d2e3c35c3e06a37 *FLAC\00 - Intro.flac
+02d0299541732e72abf8d21cbe6f03c9 *FLAC\01 - No One Else.flac
+0c2b6bdedc11dcfdeea0e5c9e19de033 *FLAC\02 - In the Garage.flac
+0d7c4f09b700e482c3be121609f780a5 *FLAC\03 - You Gave Your Love to Me Softly.flac
+b2e22a7f19c34985bef99896882c1d1a *FLAC\04 - Undone - The Sweater Song.flac
+cfe1e4e8f20e807d14d9e5f7105a454e *FLAC\05 - My Name Is Jonas.flac
+ae882e79ae23cbc951ce97a116cb2f8d *FLAC\06 - The World Has Turned and Left Me Here.flac
+909bbec1335635048ff4579a752148db *FLAC\07 - Holiday.flac
+30c755cdc72f61007b5bd37977e3ed16 *FLAC\08 - Jamie.flac
+af5a1c1a55bc98b4e33cd705d3fe02ba *FLAC\09 - Say It Ain't So.flac
+74018da286854fac3a4b53eb80c28678 *FLAC\10 - Why Bother.flac
+dc0d7fc5ce143a268c45d0813f8e04f6 *FLAC\11 - Buddy Holly.flac
+ddb6af3588b439a1e480835a1afad33e *FLAC\12 - Surf Wax America.flac

@@ -1,0 +1,90 @@
+Weezer
+March Madness Music Festival
+White River State Park
+Indianapolis, IN
+April 3, 2015
+
+Lineage: Live YouTube webcast > FFmpeg > .ts
+Video: MPEG4 Video (H264) 1280x720 2256 Kbps 29.97 fps
+Audio: AAC 251 Kbps 48.0 KHz stereo 
+
+Setlist:
+My Name is Jonas
+Hash Pipe
+Perfect Situation
+El Scorcho
+Go Away
+Surf Wax America
+Pink Triangle
+Island In the Sun
+Beverly Hills
+Dope Nose
+Say It Ain't So
+Back to the Shack
+(If You're Wondering If I Want You To) I Want You To
+Pork & Beans
+Undone - The Sweater Song 
+
+Encore:
+Memories
+Buddy Holly
+
+TRT = 1 hour 9 minutes
+
+MediaInfo:
+General
+ID                                       : 1 (0x1)
+Complete name                            : Weezer - 2015-04-03 MMMF, White River State Park, Indianapolis [720p]
+Format                                   : MPEG-TS
+File size                                : 1.27 GiB
+Duration                                 : 1h 8mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 640 Kbps
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 1 frame
+Codec ID                                 : 27
+Duration                                 : 1h 8mn
+Bit rate                                 : 2 256 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Stream size                              : 1.09 GiB (85%)
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Muxing mode                              : ADTS
+Codec ID                                 : 15
+Duration                                 : 1h 9mn
+Bit rate mode                            : Variable
+Bit rate                                 : 251 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : -1s 62ms
+Stream size                              : 124 MiB (10%)
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Duration                                 : 1h 8mn
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                             : Service01
+Service provider                         : FFmpeg

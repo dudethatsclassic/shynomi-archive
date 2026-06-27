@@ -1,0 +1,29 @@
+Weezer
+Manhattan Center Ballroom
+New York, NY, USA
+August 18, 1994
+
+AUD: Sony ECM-929 mic > Sony WM-D6 > analog master (Maxell MX-s 100)
+Transfer: analog master > BBE > hard drive > WAV
+Tracking: WAV > Audacity 3.7.5 > Trader's Little Helper 2.8.4 (Build 185) > FLAC (level 8, with checksums)
+
+Recording and Transfer: Scott Simpson
+Tracking: driffemall
+
+Originally mislabeled and circulated as Avalon, Boston, MA on August 16, 1994, if anyone have the actual show to share would be appreciated :)
+
+Great sounding audience recording, aside from the cuts at the beginning of My Name Is Jonas, many thanks to the taper for sending this show to me!
+
+01. My Name Is Jonas (missing part of the first verse, the taper taped the band twice)
+02. No One Else
+03. The World Has Turned and Left Me Here
+04. Buddy Holly
+05. In the Garage
+06. Jamie
+07. Say It Ain't So
+08. Getchoo
+09. Holiday
+10. Undone - The Sweater Song
+11. Surf Wax America
+
+Enjoy, and do not distribute this in lossy format or sell!

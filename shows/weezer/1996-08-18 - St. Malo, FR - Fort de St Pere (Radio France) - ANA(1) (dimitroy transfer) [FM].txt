@@ -1,0 +1,29 @@
+WEEZER
+
+Location: Fort de St Père, Saint Malo, France
+Event : festival la route du rock
+Date : 18 aug 1996
+Source: radio broadcast (radio France-Inter)
+Generation: 1st gen
+Lineage : fm > dat master tape > my tape > Luxman tape deck > cd audio standalone > cd-ex (extracting the .wav file) > cd wave (for splitting and renaming the tracks) > Trader's little Helper (flac 6) > Dime
+Quality : very good
+
+Setlist :
+01. Undone The Sweater Song
+02. My Name Is Jonas
+03. El Scorcho
+04. Say It Ain't So
+05. Buddy Holly
+06. Surf Wax America
+
+Total time : 23'55"
+file size : 241 mo (.wav) / 153 mo (flac)
+
+Transferred & uploaded by Dimitroy, March 2010
+
+
+
+
+
+
+.

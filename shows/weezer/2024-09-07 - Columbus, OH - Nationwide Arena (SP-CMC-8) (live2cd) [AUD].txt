@@ -1,0 +1,77 @@
+Weezer
+September 7th, 2024.
+Nationwide Arena - Columbus, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   Section 116, Row P - Seat 10
+            (see chart here: http://www.ticketmaster.com/seatingchart/41498/28690)
+Source:     SP-CMC-8 Cardioids (4.7k mod) > SP-SPSB-11 (@16Hz) > Sony PCM-A10 (24 bit @48kHz) >
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Sony PCM-A10 > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+*** Voyage To The Blue Planet ***
+---------------------------------------------------------------------------------------------------------
+Total Time: (1:37:06)
+
+01. Blue Voyage Takeoff Intro > 		2:14
+02. Anonymous					2:56
+03. Return To Ithaka				1:52
+04. Dope Nose ^					3:06
+05. Hash Pipe					3:07
+06. Pork And Beans *				4:38
+07. Beverly Hills				3:22
+08. Burndt Jamb	%				2:45
+09. Island In The Sun				3:13
+10. Any Friend of Diane's			3:20
+11. Perfect Situation				4:41
+12. Run, Raven, Run +				1:22
+13. Getchoo					3:19
+14. Why Bother?					2:11
+15. Pink Triangle				3:40
+16. You Gave Your Love To Me Softly		2:02
+17. Across The Sea				5:03
+18. Blue Voyage Landing >			2:29
+
+"Blue" 30th!
+19. My Name Is Jonas				3:31
+20. No One Else					3:10
+21. The World Has Turned And Left Me Here	4:22
+22. Buddy Holly 				3:08
+23. Undone - The Sweater Song			3:30
+24. Surf Wax America				3:11
+25. Say It Ain't So				4:25
+26. In The Garage				3:54
+27. Holiday					3:23
+28. Only In Dreams				9:13
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+^ with "Troublemaker" snippet.
+* with "1 More Hit" intro.
+% with "Everybody Get Dangerous" snippet.
++ "Pacific Sunset" portion only.
+
+Weezer are out celebrating 30 years of their massive debut album, "Blue".
+The show was space themed with a voyage to the "Blue" planet, which was
+a great way to perform 2 sets (with the first leading up to Blue). I have
+recorded in Nationwide Arena quite a few times (its my home arena) and I
+have never heard a show lack bass like this one did! I thought maybe it
+was the earplugs in but when I got home and loaded the raw wave file, it
+solidified what I heard. I was directly in front of the left side hanging
+stack in 116, so the sound should have been perfect. While its good (for
+an arena), I was hoping for better results. I did add some bass in Adobe
+Audition and tested it on my home stereo (as well as my PC) to ensure it
+sounded fine before dithering and tracking to FLAC. I did have to remove
+an intermittent screamer 2 rows in front of me in RX7 (when needed). The
+sound is good for an arena, but dont expect greatness. Im still fairly
+happy with it considering how important this tour is to a lot of people,
+myself included. Only 22 NA dates and thats it. Go see them if you can!
+
+Dinosaur Jr. and The Flaming Lips opened. [not recorded].
+
+---------------------------------------------------------------------------------------------------------
+For more information on Weezer, please visit:
+
+http://weezer.com/

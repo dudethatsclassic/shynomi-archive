@@ -1,0 +1,51 @@
+WEEZER
+"VOYAGE TO THE BLUE PLANET" TOUR
+2024/09/14 - The Anthem, Washington DC
+
+Source: CAFS-Omni's > Church ST-9100 > Edirol R09-HR @ 24/88.2
+Location: (stealth)
+Editing:  Tracking, gentle EQ, and fades were done while the show was laid in Sony Soundforge 9.0a (Build 297) as a wav file.  Periodic loud points were enveloped to allow for more headroom in Normalization (each channel independently to -0.10dB.)
+Conversion: Trader's Little Helper v.2.7.0 (Build 172)
+
+
+
+TRACKLIST:					TIME:
+
+01. Intro					02:16
+02. Anonymous					02:56
+03. Return to Ithaka				01:51
+04. Dope Nose *					03:05
+05. Hash Pipe					03:07
+06. One More Hit (Interlude)			00:48
+07. Park and Beans				03:38
+08. Beverly Hills				03:19
+09. Burndt Jamb ~				02:41
+10. Island in the Sun				03:13
+11. Any Friend of Diane's			03:20
+12. Perfect Situation				04:49
+13. Run, Raven, Run (Interlude)			01:14
+14. Getchoo					03:52
+15. Why Bother?					02:11
+16. Pink Triangle				03:41
+17. You Gave Your Love to Me Softly		02:06
+18. Across the Sea				07:29
+19. My Name is Jonas				03:33
+20. No One Else					03:10
+21. The World Has Turned and Left Me Here	04:21
+22. Buddy Holly					03:21
+23. Undone (The Sweater Song)			03:29
+24. Surf Wax America				03:11
+25. Say It Ain't So				04:25
+26. In the Garage				03:51
+27. Holiday					03:24
+28. Only in Dreams				08:16
+
+				 GRAND TOTAL-   96:36
+
+* - Includes snippet of "Troublemaker"
+~ - Includes snippet of "Everybody Get Dangerous"
+
+
+
+MISC NOTES:
+Weezer was touring with The Flaming Lips and Dinosaur Jr on their "Voyage to The Blue Planet" tour, commemorating the 30th anniversary of Weezer's release of their self-titled debut record.  I recorded the Flaming Lips and Weezer, but did not record Dinosaur Jr.  Fantastic show at a fantastic venue, and the first of their two-night engagement at The Anthem!

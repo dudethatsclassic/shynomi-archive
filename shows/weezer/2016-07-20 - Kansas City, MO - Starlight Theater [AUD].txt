@@ -1,0 +1,31 @@
+Weezer
+2016-07-20
+Starlight Theater
+Kansas City, MO
+
+Source: Schoeps MK41 / CMR > Naiant Tinybox > Sony PCM-M10 @ 48 kHz / 24-bit
+Lineage: 48/24 WAV > Audacity 2.1.1 (split tracks, resample to 44.1 kHz, dither to 16-bit, convert to FLAC level 8) 
+
+
+Setlist:
+
+01 California Kids
+02 Hash Pipe
+03 My Name Is Jonas
+04 (If You're Wondering If I Want You To) I Want You To
+05 Pork And Beans
+06 I Love The USA
+07 Perfect Situation
+08 Beverly Hills
+09 Thank God For Girls
+10 Dope Nose / Back To The Shack / Keep Fishin' / The Good Life / Surf Wax America
+11 Undone - The Sweater Song
+12 King Of The World / Only In Dreams
+13 Island In The Sun (acoustic)
+14 Say It Ain't So
+
+Encore:
+
+15 piano intro ->
+16 El Scorcho
+17 Buddy Holly

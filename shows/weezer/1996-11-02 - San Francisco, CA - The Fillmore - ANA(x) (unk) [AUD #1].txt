@@ -1,0 +1,72 @@
+WEEZER
+November 2, 1996
+The Fillmore
+San Francisco, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. Tired of Sex
+02. Getchoo
+03. My Name Is Jonas
+04. Pink Triangle
+05. No One Else
+06. The World Has Turned and Left Me Here
+07. Why Bother
+08. In the Garage
+09. You Gave Your Love to Me Softly
+10. Falling For You
+11. Say It Ain't So
+12. The Good Life
+13. Undone - The Sweater Song [cuts within]
+--
+14. Butterfly
+15. Across the Sea
+16. El Scorcho
+17. Buddy Holly
+18. Surf Wax America
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 8.0
+unknown > unknown (cassette)
+
+TRANSFER:
+-------------------
+unknown mics > unknown recorder > ANA(X) > Yamaha KX-W202 (Dolby off) > Tascam DR-05 > WAV [48kHz-24-bit] > Adobe Audition 23.2 [post-production/mastering] > xACT 2.52 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+ANAX) > WAV [48kHz/24-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- The source was mastered by fixing gain adjustments, as well as balance between stereo imagery and bass-to-treble frequency responses. 
+
+
+FLAC FINGERPRINTS:
+-------------------
+weezer1996-11-02-aud1-t00.flac:c6439a97ee85f3065f7de914fdff8c4c
+weezer1996-11-02-aud1-t01.flac:908808c1ca0bee24e578533b23764ad1
+weezer1996-11-02-aud1-t02.flac:c41b0e76e732524831e18cf65b482d35
+weezer1996-11-02-aud1-t03.flac:adeba63701ff10e8602b25b58563eb3f
+weezer1996-11-02-aud1-t04.flac:c75c65aa0c0fbbbc2e0c1b76003deef1
+weezer1996-11-02-aud1-t05.flac:29ff6b9e71c259da3a271e143a9fd1e7
+weezer1996-11-02-aud1-t06.flac:f990edbc30c1e92b4126180ac7149253
+weezer1996-11-02-aud1-t07.flac:5d43e7af248ac3aa2592b456e064e5be
+weezer1996-11-02-aud1-t08.flac:051ffeeef5c1d929057051f47071369b
+weezer1996-11-02-aud1-t09.flac:97e34d45f700ee71647945785e0c1c69
+weezer1996-11-02-aud1-t10.flac:71832b0393559a12da6bb337078d2b85
+weezer1996-11-02-aud1-t11.flac:74d13e786a92018a2eecc3ad4f20b5fb
+weezer1996-11-02-aud1-t12.flac:3e6a18e3ec1fff8e31c82eedb9235120
+weezer1996-11-02-aud1-t13.flac:55e593abe3b30de0f4fcb30a868c93a4
+weezer1996-11-02-aud1-t14.flac:32d69f1c0c3e8aea5b16ffc7dbe72941
+weezer1996-11-02-aud1-t15.flac:f98d108876c46d23107140c7666b1c1a
+weezer1996-11-02-aud1-t16.flac:797646d343a0228f762d8841d2a25536
+weezer1996-11-02-aud1-t17.flac:06818cda3255eb1f8177214778a12286
+
+
+Transferred by: qew
+Mastered by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

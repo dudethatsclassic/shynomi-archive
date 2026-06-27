@@ -1,0 +1,52 @@
+WEEZER
+2010/04/30 - Byrd Stadium @ University of Maryland; College Park MD, USA
+
+Taper: travelinbeat
+Location: *STEALTH*
+Source: CA-14's > CA ST-9100 > R09HR @ 24/96
+Editing: Slight low-end boost and high-end roll-off in Sony Soundforge 8.0, wherein tracksplits and intro / outro fades were also applied. 
+Conversion: 24/96 converted to 16/44.1 in r8brain 1.9. .wav to .flac in Trader's Little Helper v.2.5.0 (Build 164)
+
+**This is the 16/44.1 version of this show.  The 24/96 version has also been made available**
+
+
+
+SET
+01- Intro					02:14
+02- Hash Pipe					03:27
+03- Troublemaker				03:11
+04- Undone (The Sweater Song)			04:12
+05- Surf Wax America				04:18
+06- Let It All Hang Out				03:50
+07- Perfect Situation				04:58
+08- Dope Nose %					02:42
+09- Say It Aint So				04:40
+10- Can't Stop Partying				04:36
+11- Why Bother #				02:41
+12- (If You're Wondering If I Want You To) I...	03:55
+13- My Name is Jonas %				03:44
+14- Beverly Hills		 		05:57
+15- (Encore Return)				01:12
+16- Pork and Beans				03:33
+17- (Pop Medley)				05:45
+18- Island In The Sun				06:15
+19- Buddy Holly					04:29
+
+
+				  GRAND TOTAL-  75:38
+
+% - Sang by bassist, Scott Shriner
+# - Sang by guitarist, Brian Bell
+
+
+
+MISC NOTES:
+This was my first time seeing Weezer in over half a decade, and my first time at Byrd Stadium.  The show must have been very nearly sold out (5,000 people).  This performance was opened by Ben Folds solo (which I also recorded).  I went in expecting a lackluster show from my once-favorite band, and though they did still play more new material than I would have liked, I must admit that I was very pleasantly surprised by their showmanship.
+
+Aside from some phasing issues that resulted from the intermittently strong winds, I am pretty happy with the recording.  The biggest flaw is the 10seconds or so of dead silence that occurs about 3 minutes into Surf Wax America (my mics unplugged from my preamp).
+
+The song I called "Pop Medley" incorporates the songs "Kids" (by MGMT), and "Poker Face" (by Lady Gaga).
+
+Track 18 began with Rivers walking back out on stage for the second encore by himself.  He played the drums and looped it, then picked up the tambourine, bass guitar, and acoustic guitar, and looped all those.  He then trained the audience and began the song about 2 minutes and 20 seconds after the opening of the track.  The band came out later and joined in to continue the song at about the 3:40 mark.
+
+Great show.

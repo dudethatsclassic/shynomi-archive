@@ -1,0 +1,47 @@
+Weezer
+September 30, 2005
+Pepsi Center
+Denver, CO, USA
+
+Audience Recording (incomplete)
+
+Taper:
+- Alex Z. (Section 148, Row 5)
+
+Format:
+- MD(M) [PCM] > flac
+
+Source:
+- SP-CMC-2 (AT831 cardioids) > SP-SPSB-1 (bass roll off at 95 Hz) > Sony MZ-RH10 (line-in, PCM)
+
+Transfer:
+- Sony MZ-RH10 > USB > SonicStage 3.2 > Adobe Audition 1.5 (volume) > CD Wave 1.94.5 (tracking) > Flac Frontend 1.7.1 (level 8)
+
+Notes:
+- This recording is INCOMPLETE. It is missing everything after Surf Wax America
+(that would be 5-6 more songs including the encore).
+
+Setlist:
+
+[One Disc - 45:11]
+01. My Name Is Jonas
+02. Peace
+03. Don't Let Go
+04. In The Garage
+05. This Is Such A Pity
+06. Big Me (Foo Fighters cover)
+07. Perfect Situation
+08. Why Bother?
+09. El Scorcho
+10. Say It Ain't So
+11. We Are All On Drugs
+12. Surf Wax America
+
+---------------------------------------------------------------
+Please do not distribute this in mp3 or any other lossy format.
+Preserve the quality for others and keep the lineage.
+THIS IS NOT FOR SALE.
+---------------------------------------------------------------
+
+Recorded, transferred, and torrented by Alex Z.
+Oct/08/2005.

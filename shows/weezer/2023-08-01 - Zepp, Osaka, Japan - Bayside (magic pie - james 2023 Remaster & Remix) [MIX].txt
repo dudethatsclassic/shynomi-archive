@@ -1,0 +1,53 @@
+foobar2000 1.6.16 / Dynamic Range Meter 1.1.1
+log date: 2023-08-02 16:47:58
+
+--------------------------------------------------------------------------------
+Analyzed: Weezer / 2023-08-01 - Zepp Osaka Bayside, Japan [2023 Remaster & Remix]
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR11      -3.17 dB   -16.02 dB      1:57 01-TOTO - Africa [PA Intro]
+DR8       -2.26 dB   -12.44 dB      1:42 02-Show Intro
+DR8       -1.01 dB   -10.39 dB      3:26 03-My Name Is Jonas
+DR9       -1.01 dB   -11.47 dB      3:14 04-Beverly Hills
+DR7       -1.01 dB   -10.51 dB      1:40 05-Return To Ithaka
+DR9       -1.01 dB   -11.08 dB      3:16 06-The Good Life
+DR11      -6.95 dB   -20.69 dB      0:31 07-Banter
+DR8       -1.02 dB   -10.98 dB      1:09 08-1 More Hit Intro
+DR9       -1.01 dB   -11.71 dB      2:52 09-Pork And Beans
+DR9       -1.04 dB   -11.13 dB      3:42 10-Pink Triangle
+DR8       -1.31 dB   -11.03 dB      3:21 11-El Scorcho
+DR9       -1.12 dB   -10.84 dB      2:05 12-You Gave Your Love To Me Softly
+DR8       -1.02 dB   -10.48 dB      1:57 13-Blast Off!
+DR8       -1.02 dB   -10.88 dB      3:49 14-Undone (The Sweater Song)
+DR13      -5.99 dB   -21.35 dB      1:13 15-Banter
+DR11      -7.77 dB   -22.05 dB      4:33 16-In The Garage
+DR11      -7.35 dB   -22.17 dB      3:37 17-Endless Bummer
+DR9       -1.01 dB   -12.74 dB      7:38 18-Only In Dreams
+DR9       -1.02 dB   -12.05 dB      6:07 19-The Greatest Man That Ever Lived (Variations On A Shaker Hymn)
+DR9       -1.20 dB   -12.12 dB      3:12 20-Island In The Sun
+DR7       -1.02 dB   -10.18 dB      4:05 21-All My Favorite Songs
+DR13      -2.91 dB   -22.70 dB      2:11 22-Banter
+DR9       -1.02 dB   -11.62 dB      4:00 23-Say It Ain't So
+DR8       -1.43 dB   -10.26 dB      1:28 24-Run, Raven, Run Solo
+DR8       -1.02 dB    -9.86 dB      3:09 25-Hash Pipe
+DR9       -1.01 dB   -11.03 dB      4:36 26-Across The Sea
+DR8       -1.01 dB    -9.94 dB      4:24 27-Thank You And Good Night
+DR14      -8.92 dB   -26.57 dB      1:30 28-Encore Break
+DR8       -1.02 dB   -10.34 dB      1:55 29-The Waste Land
+DR8       -1.07 dB   -10.48 dB      1:34 30-Surf Wax America
+DR8       -1.01 dB   -11.14 dB      4:50 31-Buddy Holly
+DR8       -7.71 dB   -19.65 dB      0:36 32-Sex Pistols - Pretty Vacant [Exit Tape]
+--------------------------------------------------------------------------------
+
+Number of tracks:  32
+Official DR value: DR9
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           1600 kbps
+Codec:             FLAC
+================================================================================
+

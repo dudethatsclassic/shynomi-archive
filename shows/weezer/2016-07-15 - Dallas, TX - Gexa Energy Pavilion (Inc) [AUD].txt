@@ -1,0 +1,15 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:27.02       57687548 B   ---   --   ---xx   flac  0.5774  weezer2016-07-15t01.flac
+     4:24.12       46597868 B   ---   --   ---xx   flac  0.5811  weezer2016-07-15t02.flac
+     1:02.73       11108540 B   ---   --   ---xx   flac  0.5049  weezer2016-07-15t03.flac
+     2:11.46       23216636 B   ---   --   ---xx   flac  0.5846  weezer2016-07-15t04.flac
+     4:31.23       47858540 B   ---   --   ---xx   flac  0.5264  weezer2016-07-15t05.flac
+     3:42.30       39231404 B   ---   --   ---xx   flac  0.4906  weezer2016-07-15t06.flac
+     4:27.11       47124716 B   ---   --   ---xx   flac  0.5643  weezer2016-07-15t07.flac
+     1:46.27       18761948 B   ---   --   ---xx   flac  0.4984  weezer2016-07-15t08.flac
+     0:40.01        7058396 B   ---   --   ---xx   flac  0.4755  weezer2016-07-15t09.flac
+     1:42.28       18058700 B   ---   --   ---xx   flac  0.4779  weezer2016-07-15t10.flac
+     3:39.46       38739836 B   ---   --   ---xx   flac  0.5542  weezer2016-07-15t11.flac
+     3:14.64       34372172 B   ---   --   ---xx   flac  0.5950  weezer2016-07-15t12.flac
+     0:40.60        7197164 B   ---   --   ---xx   flac  0.5026  weezer2016-07-15t13.flac
+    37:30.48      397013468 B                            0.5478  (13 files)

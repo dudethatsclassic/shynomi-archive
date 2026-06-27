@@ -1,0 +1,49 @@
+Weezer
+Bender Arena
+Washington, D.C.
+March 02, 2001
+
+Source: CSBMOD > CSBB > D7s > CDR(1) > xACT > flac
+Taper: unknown
+Transfer: weezed.com
+Length: 64:03
+
+Setlist:
+01. i do 
+02. my name is jonas 
+03. el scorcho 
+04. you gave your love to me softly 
+05. the good life 
+06. the christmas son 
+07. island in the sun 
+08. don't let go 
+09. hash pipe 
+10. in the garage 
+11. tired of sex 
+12. say it ain't so 
+13. buddy holly 
+14. undone - the sweater song 
+15. why bother? 
+16. encore break
+17. only in dreams 
+18. surf wax america 
+
+ffp:
+weezer2001-03-02t01.flac:34853b585dd6dd1e407ca22eda5eef58
+weezer2001-03-02t02.flac:2d5a16190b739e6dd04c18777372d4ac
+weezer2001-03-02t03.flac:7eceb3e549cf028d26bb7b01b1c1831e
+weezer2001-03-02t04.flac:f369f62cd85f03fce04605f238c9d86c
+weezer2001-03-02t05.flac:9c65c4fefe6e5a07c2edaa4247757082
+weezer2001-03-02t06.flac:b3cf9ef4830007885ebe08c6d04ddff3
+weezer2001-03-02t07.flac:8cef6af6574f7524373ffc0f5961c613
+weezer2001-03-02t08.flac:1ad91d096541dcc8babde2eb6889ad51
+weezer2001-03-02t09.flac:2c05f36463ca408a3c44509e84841897
+weezer2001-03-02t10.flac:2d0440ec9b319256fe34d35358d8a78a
+weezer2001-03-02t11.flac:0e942a88d5858064eb727c2cba01a873
+weezer2001-03-02t12.flac:6e9219c2b1b7583331cf64774c50733d
+weezer2001-03-02t13.flac:50f5bafb50b13302a36158e350db5805
+weezer2001-03-02t14.flac:3da461b33f61801863b6caf1c711cb3f
+weezer2001-03-02t15.flac:2ea81f8b5514fca1e87d99869c0186a5
+weezer2001-03-02t16.flac:9b49a5b3eadf478a3dff99e5ff799e97
+weezer2001-03-02t17.flac:db99a2ef4bb55f8a21716ac185c114d4
+weezer2001-03-02t18.flac:29c771fc11c89f16df56006e8e3cfb5b

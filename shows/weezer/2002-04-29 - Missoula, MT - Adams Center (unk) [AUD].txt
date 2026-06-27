@@ -1,0 +1,38 @@
+Weezer
+Adams Center
+Missoula, MT
+April 29, 2002
+
+Source: aud>ecm-ds70p>mzr70>cdr>xACT>flac
+Taper: unknown
+Transfer: weezed.com
+Length: 87:55
+
+Setlist:
+Disc 1
+
+Intro
+Dope Nose 
+Photograph 
+My Name Is Jonas 
+El Scorcho 
+Modern Dukes 
+Island In The Sun 
+Surf Wax America 
+Tired Of Sex 
+Burndt Jamb 
+Knock Down Drag Out 
+Undone - the Sweater Song 
+Why Bother? 
+Happy Together 
+Hash Pipe 
+Say It Ain't So 
+The Good Life 
+
+Disc 2
+Only In Dreams 
+Buddy Holly
+
+ffp:
+weezer2002-04-29d01t01.flac:8dd5ee110c6c37bae600603027b3b373weezer2002-04-29d01t02.flac:0c417bc86d1d8857a6bea4219b921f33weezer2002-04-29d01t03.flac:aa530d0258422b8e481f1c9acb2e891cweezer2002-04-29d01t04.flac:1f85cafa4bf57638e9c965b4a787f044weezer2002-04-29d01t05.flac:32e6d082a433a760f2b2788eb9f297abweezer2002-04-29d01t06.flac:0c17a1b97299dba28a1de7cb76ca9bebweezer2002-04-29d01t07.flac:0f73bdee719269b081be006b377cd25eweezer2002-04-29d01t08.flac:9e8c1cd678487b69cd908971ab344432weezer2002-04-29d01t09.flac:059a99342ac48bba94c25ba734b66267weezer2002-04-29d01t10.flac:ddbd509fe724682e26632a00007a2d99weezer2002-04-29d01t11.flac:306ac2c7b6a8eb8ae036fe8fbe04dbf9weezer2002-04-29d01t12.flac:4b17f7b33965b2fae29f363d78a8e984weezer2002-04-29d01t13.flac:80c8a83644a5f3992f3be484fc3e8cfdweezer2002-04-29d01t14.flac:4b4b0d37d00234968ece4145823100a0weezer2002-04-29d01t15.flac:453a3f0f60ea0987cfc160634c322498weezer2002-04-29d01t16.flac:5a15b2c9faa792398bb41fc3af415ddfweezer2002-04-29d01t17.flac:0a087788f7c149db2a8997bdcbdfddc5
+weezer2002-04-29d02t01.flac:a7b7a36283b6893a75176bbeb4cab6d5weezer2002-04-29d02t02.flac:29588f920b6018fe0cdd0756a17ad9b2weezer2002-04-29d02t03.flac:5aa8445fa60dc9960d7d968d3417cd41weezer2002-04-29d02t04.flac:a7656cf89ee3734bdbee3fb3455fe334

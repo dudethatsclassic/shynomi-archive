@@ -1,0 +1,72 @@
+Weezer
+Alternative Press Music Awards
+Quicken Loans Arena
+Cleveland, Ohio
+July 22, 2015
+
+Lineage: Webcast -> FFmpeg (capture & edit) -> .ts
+Video: MPEG4 Video (H264) 1280x720 2000 Kbps 29.97 fps
+Audio: AAC 128 Kbps 44.1 KHz stereo
+
+Setlist: 
+El Scorcho (with Contemporary Youth Orchestra]
+Go Away (with Mariel Loveland from Candy Hearts)
+Buddy Holly
+
+TRT = 00:12:09
+
+MediaInfo:
+General
+ID                          : 1 (0x1)
+Complete name               : Weezer - 2015-07-22 APMA, Quicken Loans Arena, Cleveland, OH [720p].ts
+Format                      : MPEG-TS
+File size                   : 190 MiB
+Duration                    : 12mn 9s
+Overall bit rate mode       : Variable
+Overall bit rate            : 2 189 Kbps
+
+Video
+ID                          : 256 (0x100)
+Menu ID                     : 1 (0x1)
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : Main@L3.1
+Format settings, CABAC      : Yes
+Format settings, ReFrames   : 3 frames
+Codec ID                    : 27
+Duration                    : 12mn 9s
+Width                       : 1 280 pixels
+Height                      : 720 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Variable
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+
+Audio
+ID                          : 257 (0x101)
+Menu ID                     : 1 (0x1)
+Format                      : AAC
+Format/Info                 : Advanced Audio Codec
+Format version              : Version 4
+Format profile              : LC
+Muxing mode                 : ADTS
+Codec ID                    : 15
+Duration                    : 12mn 9s
+Bit rate mode               : Variable
+Channel(s)                  : 2 channels
+Channel positions           : Front: L R
+Sampling rate               : 44.1 KHz
+Frame rate                  : 43.066 fps (1024 spf)
+Compression mode            : Lossy
+Delay relative to video     : -801ms
+
+Menu
+ID                          : 4096 (0x1000)
+Menu ID                     : 1 (0x1)
+Duration                    : 12mn 9s
+List                        : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                : Service01
+Service provider            : FFmpeg
+Service type                : digital television

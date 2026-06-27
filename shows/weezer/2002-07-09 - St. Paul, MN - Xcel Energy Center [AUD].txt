@@ -1,0 +1,44 @@
+Weezer
+July 9, 2002
+Xcel Energy Center
+St. Paul, MN
+
+Taper:       P.J. Pearson (snail@hoarder.net)
+Source:      Dynamic Audio cardioids>PCM-M1
+Location:    Directly behind soundboard on a 10 foot mic stand
+Conversion:  M1>Core Sound 7-pin>Zoltrix Nightengale>Cool Edit Pro
+Resampling:  None
+Editing:     High and low EQ
+SHN:         Master .wav>MKW Audio Compression Tool
+
+Setlist: 
+------------------------------
+Disc 1:
+ 01. instrumental intro
+ 02. The Good Life
+ 03. Holiday
+ 04. Hash Pipe
+ 05. Tired of Sex
+ 06. My Name is Jonas
+ 07. Smile
+ 08. El Scorcho
+ 09. Say It Ain't So
+ 10. Burndt Jamb
+ 11. Getchoo
+ 12. In the Garage
+ 13. Dope Nose
+ 14. Why Bother
+ 15. Buddy Holly
+ 16. Island in the Sun
+ 17. Butterfly
+ ---- Encore ----
+Disc 2:
+ 18. No One Else
+ 19. Take Control
+ 20. feedback jam
+------------------------------
+
+Running time: 82 minutes
+
+NOTE: Introduced to the hub by Seth Pierson (superman), sethrp@bellsouth.net
+If you like this show, please send e-mails of appreciation to PJP. Thanks all!

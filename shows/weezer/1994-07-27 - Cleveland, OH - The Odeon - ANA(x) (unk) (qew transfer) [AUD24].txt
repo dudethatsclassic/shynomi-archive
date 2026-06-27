@@ -1,0 +1,38 @@
+Weezer
+The Odeon; Cleveland, Ohio, USA
+1994-07-27
+Taper: ??? (AUD)
+Comment: The show was transferred for me by qew, many thanks for this and some other shows! Odd setlist, no Surf Wax despite other sets from the time having it. This required quite a bit of remastering, but it was well worth it considering the widely circulating souce was a iffy MP3. Cover photo by Paul Elledge. Enjoy!
+Hailey Carol, March 21st, 2025
+------------------------------------ 
+Lineage: Lineage: ??? > cassette > Yamaha KX-W202 > Tascam DR-05 > FLAC (48khz, 24bit) > Izotope RX 11 (azimuth, EQ) > pyaudiorestoration (dropout removal) > Izotope RX 11 (further minor dropout removal, click removal, further EQ, flutter removal) > Audacity (speed correction +4%) > CD Wave Editor (tracking) > foobar2000 (tagging) > FLAC (level 6, 48khz, 24 bit)
+------------------------------------
+Setlist:
+01 My Name Is Jonas
+02 No One Else
+03 The World Has Turned and Left Me Here
+04 Buddy Holly
+05 In The Garage 
+06 You Gave Your Love to Me Softly
+07 Say It Ain't So
+08 Getchoo
+09 Undone - The Sweater Song 
+10 Lush - Undertow (Spooky Remix, pre-recorded intermission snippet)
+------------------------------------ 
+Personnel:
+Rivers Cuomo - Vocals, Lead Guitar
+Matt Sharp - Vocals, Bass
+Brian Bell - Vocals, Rhythm Guitar
+Pat Wilson - Drums
+------------------------------------
+md5:
+778f7292193e4697abe07a9dd7fd3e46 *FLAC\01 - My Name Is Jonas.flac
+8ede52d49af0c5dbb33ff8d18825ed0c *FLAC\02 - No One Else.flac
+bc8db1ea57ecbbbda1637e2a94d7d19a *FLAC\03 - The World Has Turned and Left Me Here.flac
+719eb0b39f75cbc737f9fc314e81882e *FLAC\04 - Buddy Holly.flac
+0937012ba4f163faa9fbc26a837dd9fb *FLAC\05 - In the Garage.flac
+75fbdace9dfe1f532051c56c51308b86 *FLAC\06 - You Gave Your Love to Me Softly.flac
+e2431777b71b2f49d4b82e770b5d051d *FLAC\07 - Say It Ain't So.flac
+a2755ac8cf779383d2c4aceb865642c0 *FLAC\08 - Getchoo.flac
+b44ce4dd3bd5759a12926e99e64f4cbb *FLAC\09 - Undone - The Sweater Song.flac
+899e195e6b99f27ee032839425fb2a3f *FLAC\10 - Lush - Undertow (Spooky Remix, pre-recorded intermission snippet).flac

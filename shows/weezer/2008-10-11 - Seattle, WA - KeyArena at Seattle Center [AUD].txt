@@ -1,0 +1,71 @@
+WEEZER
+October 11, 2008
+KeyArena at Seattle Center
+Seattle, WA
+
+SOURCE:
+Panasonic WM-61A > Sound Pro SP-SPSB-2 (195Hz bass roll-off) > Edirol R-09
+
+TRANSFER:
+Edirol R-09 > USB > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+WAV(M) [24bit/48kHz] > remaster > WAV [16bit/44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+106:12
+
+TRACKS (DISC 1):
+01. My Name Is Jonas
+02. Pink Triangle
+03. Perfect Situation
+04. Say It Ain't So
+05. Susanne
+06. Keep Fishin'
+07. King
+08. Undone-The Sweater Song
+09. Pork And Beans
+10. Dreamin'
+11. Dope Nose
+12. Troublemaker
+
+TRACKS (DISC 2):
+01. Automatic
+02. Hash Pipe
+03. El Scorcho
+04. Time
+05. The Greatest Man That Ever Lived (Variations On A Shaker Hymn)
+06. encore 1 intro
+07. Island In The Sun
+08. Beverly Hills
+09. encore 2 intro (Heart Songs)
+10. Sliver
+11. Buddy Holly
+
+MD5 FINGERPRINTS:
+900e6ee3bf78526fdbb5caada27e0835 *Weezer_2008-10-11_d1t01.flac
+e882ce83a9d207c60db1b30535a353c5 *Weezer_2008-10-11_d1t02.flac
+2ea37c04d5e40939cc6d74c601cbda84 *Weezer_2008-10-11_d1t03.flac
+fee6c4fb22492bfe47f0fc9551f2652e *Weezer_2008-10-11_d1t04.flac
+577cf980647f8addd99ea47a24bda33b *Weezer_2008-10-11_d1t05.flac
+18a89902ac8a780ad756540b0af58869 *Weezer_2008-10-11_d1t06.flac
+b5184c5842752ba018936d1d814acd87 *Weezer_2008-10-11_d1t07.flac
+a13a12a8f4ff46b68013568a167b14ed *Weezer_2008-10-11_d1t08.flac
+1cbc0e5f33a12e21c8bcaeadf5c03383 *Weezer_2008-10-11_d1t09.flac
+036c9d3da9c3bb28cf61ba1ae227c2a3 *Weezer_2008-10-11_d1t10.flac
+39c606c6ba0e36a4ff09cf855737995d *Weezer_2008-10-11_d1t11.flac
+42d70335468c432d05633c66afeb8fce *Weezer_2008-10-11_d1t12.flac
+c1aee9c9e976c33970b83412853088da *Weezer_2008-10-11_d2t01.flac
+d5b26a1d7c12d7e0bfadd052e8534e2a *Weezer_2008-10-11_d2t02.flac
+026edab6555916db5efac5be60030ea8 *Weezer_2008-10-11_d2t03.flac
+f05cffaf16852dac96c09ed2df168a91 *Weezer_2008-10-11_d2t04.flac
+b91df3c07455e3ff6898f0180aa5b90c *Weezer_2008-10-11_d2t05.flac
+cfadd464415aed4b82f5cdded9fd3424 *Weezer_2008-10-11_d2t06.flac
+57bdbd143a3c492fcb28512387d4a8a5 *Weezer_2008-10-11_d2t07.flac
+bf48eea590c1f3e560ec291b60377d50 *Weezer_2008-10-11_d2t08.flac
+4a9f760ca04b6d638d094e0b7674c216 *Weezer_2008-10-11_d2t09.flac
+e221f9cccfa5edb2d2c78d7b24af8ccc *Weezer_2008-10-11_d2t10.flac
+234598fc8772d2ab7f4b635fc24ca570 *Weezer_2008-10-11_d2t11.flac
+
+RECORDED, TRANSFERRED, AND REMASTERED BY:
+Kris Sproul

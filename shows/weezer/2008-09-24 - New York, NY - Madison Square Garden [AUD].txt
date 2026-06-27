@@ -1,0 +1,59 @@
+Weezer
+2008-09-24
+Madison Square Garden
+New York, NY
+
+   Taper:  davepeck <mkdevo@gmail.com>
+  Source:  AKG 480/ck63 (+A61) > Sound Devices 744T (24-bit/48k).
+Location:  SEC 8, ROW E.
+Transfer:  Sony Sound Forge 9.0 (Waves L2; Fades; Resampled with Anti-Alias Filter, Interpolation 
+	   Accuracy = 4; Bit-Depth Conversion (24>16) with Highpass Triangular Dither, Highpass 
+	   contour Noise Shaping) > CDWave > FLAC16.
+
+***** DO NOT ENCODE TO AND DISTRIBUTE AS MP3!! *****
+**** DO NOT SELL OR PURCHASE THIS RECORDING!!!! ****
+
+--------------------------------------------
+DISC ONE:                            [71:40]
+--------------------------------------------
+01. intro                            [01:22]
+02. My Name Is Jonas                 [03:57]
+03. Pink Triangle                    [04:20]
+04. Perfect Situation                [05:32]
+05. Say It Ain't So                  [04:10]
+06. Suzanne                          [03:31]
+07. Keep Fishin'                     [03:31]
+08. King *                           [06:02]
+09. Undone (The Sweater Song) **     [04:21]
+10. Pork And Beans                   [03:16]
+11. Dreamin'                         [05:36]
+12. Dope Nose                        [03:23]
+13. Troublemaker                     [04:39]
+14. Automatic ^                      [05:13]
+15. Hash Pipe                        [03:06]
+16. El Scorcho                       [04:52]
+17. Morning Glory ^^                 [04:49]
+--------------------------------------------
+DISC TWO:                            [28:30]
+--------------------------------------------
+01. The Greatest Man That Ever Lived [06:21]
+02. encore break 1                   [03:40]
+    ENCORE 1:
+03. Island In The Sun #              [04:06]
+04. Beverly Hills #                  [04:02]
+05. encore break 2                   [02:53]
+    ENCORE 2:
+06. Heart Songs                      [00:46]
+07. Sliver %                         [02:19]
+08. Buddy Holly                      [04:23]
+--------------------------------------------
+
+ * with Garret 'Jacknife' Lee on keyboards.
+** with Tom DeLonge and Atom Willard (Angels & Airwaves) on vocals and drums, respectively.
+ ^ with Atom Willard (Angels & Airwaves) on drums.
+^^ Oasis cover.
+ # acoustic; with about 30 people on various instruments, including banjos, horns, flutes, etc.
+## played on a record player, which Rivers came out and kicked off the stage.
+ % Nirvana cover.
+
+Enjoy!

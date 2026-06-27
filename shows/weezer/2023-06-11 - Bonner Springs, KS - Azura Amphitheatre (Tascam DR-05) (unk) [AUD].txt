@@ -1,0 +1,34 @@
+Weezer
+Sunday, June 11, 2023
+Bonner Springs, KS
+Azura Amphitheater
+
+Lineage: Internal mics>Tascam DR-05, version 2 (set at 24 bit/44.1 khz)>Audacity for track splits and editing>TLH to encode to FLAC Level 8
+
+Intro
+My Name is Jonas
+Beverly Hills
+Return to Ithaka
+The Good Life
+Pork and Beans
+Pink Triangle
+El Scorcho
+I Just Threw Out the Love of My Dreams
+Blast Off
+Undone (The Sweater Song)
+California Kids
+Susanne
+Only in Dreams
+The Greatest Man that Ever Lived (Variations on a Shaker Hymn)
+Island Hymn
+Perfect Situation
+All My Favorite Songs
+Say it Ain't So
+Run Raven Run (Guitar solo only)
+Hash Pipe
+Thank You and Good Night
+The Waste Land
+Surf Wax America
+Buddy Holly
+
+My story with this maybe begins in 2019 when I first saw them with the Pixies. I planned to tape both bands, but upon checking my recorder during intermission discovered it died about halfway during the Pixies set (if you are curious, I do still have the WAV file and would like to split that up at some point and run a torrent on it but I am not sure when that will be). Had I known that was going to happen, I would have skipped Pixies and grabbed what I could have of Weezer. I went with a buddy and we had landed VIP passes, so my seat was about 10 rows behind the pit. In retrospect, this may have been a curse in disguise as I had to do some serious low end taming here and I am still not totally satisfied. I ran a high pass filter and EQ'ed some bass out, but the bass drum still seems to distort ever so slightly (it was quite high in the mix anyway at the show, but I was surprised at how clear it was at the volume level it was running). My buddy said he noticed the drum tech screwing around with the drums all night, especially in the first half of the show. I will be saving the original raw WAV file in case someone wants it and thinks they can improve on my work here. As for the performance itself, it seemed up to the usual superb Weezer standard. I found Pink Triangle, Only in Dreams, Beverly Hills, The Sweater Song and Island in the Sun to be especially enjoyable. Rivers Cuomo made a reference to Wichita at one point in the show and after that the city he seemed to be in was Wichita instead of Kansas City. Finally, if you are planning to downsample to burn to disc you can split it wherever you want but it is somewhat set up for a split between Only in Dreams and The Greatest Man that Ever Lived.

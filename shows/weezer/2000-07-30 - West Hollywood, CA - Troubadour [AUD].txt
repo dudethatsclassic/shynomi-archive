@@ -1,0 +1,31 @@
+Weezer
+July 30, 2000
+Troubadour
+West Hollywood, CA
+
+Source: DPA 4061’s > CSBox > Sony PCM-M1
+Lineage: DAT Master 16/48 > FLAC
+Transfer (BLG): DA-20 > coax > Marantz PMD-670 > usb reader > Adobe Audition (edits) > iZotope Ozone 5 (Exciter,Imaging,Dynamics) > WavePad (tracking) > xACT (tags) > FLAC
+Taper: Ed Davis 
+
+01 My Name Is Jonas
+02 El Scorcho
+03 No One Else
+04 You Gave Your Love To Me Softly
+05 The Sister Song
+06 Superstar
+07 In the Garage
+08 Why Bother?
+09 Say It Ain’t So
+10 Too Late To Try
+11 Slob
+12 Tired of Sex
+13 Susanne
+14 Undone - the Sweater Song
+
+Encore:
+15 Holiday
+16 Buddy Holly
+17 Surf Wax America
+
+Total Time: 58:06

@@ -1,0 +1,34 @@
+WEEZER
+September 15, 2001
+Cox Pavilion
+Las Vegas, NV
+
+Source: Sony ECM-12 > Sony TCD-D8
+Taper: Luke Freteluco
+Location: right stacks
+Lineage: DAT(M) > CDR(1) > WAV [44.1] > FLAC
+Transfer: Sony TCD-D8 > Pioneer PDR-509 > Toast
+Edits/EQ: none 
+Notes: volume fluctuations in "Say It Ain't So", dropout in "Surf Wax USA" @ 1:37
+
+01 - Island In The Sun
+02 - In The Garage
+03 - Crab
+04 - Knock-Down Drag-Out
+05 - So Low
+06 - Photograph
+07 - Tired Of Sex
+08 - My Name Is Jonas
+09 - Love Explosion
+10 - Smile
+11 - We Go Together
+12 - Undone
+13 - Don't Let Go
+14 - Say It Ain't So
+15 - Glorious Day
+16 - Hash Pipe
+17 - Buddy Holly
+18 - Surf Wax USA
+
+
+Compiled September 2020 by CPS

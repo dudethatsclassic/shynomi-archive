@@ -1,0 +1,28 @@
+Weezer
+The Underworld Camden
+London, United Kingdom
+February 26, 1995
+
+Liberated bootleg, average quality audience recording
+Originally ripped by "joelgreenhow", mastered by driffemall
+Original lineage: Unofficial CD ("London Underworld" bootleg) > PIONEER BDR-XD07UHD > X Lossless Decoder 20191004 > FLAC
+Revision lineage: AudioMuxer 0.9.6.5 > WAV > Audacity 3.4.1 > FLAC (level 8)
+
+Weird recording, you can hear the DJ after Surf Wax America, usually most of the radio broadcasts use a soundboard rather than the audience.
+Joined the flac files with AudioMuxer, speed-corrected, swapped the left-right channels, volume boost, and retracking with Audacity. No EQ was applied! (I also included the original rip too if anyone interested.)
+
+For more information about the bootleg can be found here: https://www.weezerpedia.com/wiki/London_Underworld
+
+00 intro tape
+01 My Name Is Jonas
+02 No One Else
+03 The World Has Turned and Left Me Here
+04 Buddy Holly
+05 Turn The Page (Bob Seger cover) > In the Garage
+06 Jamie
+07 Say It Ain't So
+08 Undone - The Sweater Song
+09 Only In Dreams
+10 Surf Wax America
+
+Enjoy, and do not distribute this in lossy format or sell!

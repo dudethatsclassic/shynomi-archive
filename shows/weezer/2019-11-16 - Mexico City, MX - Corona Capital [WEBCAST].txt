@@ -1,0 +1,97 @@
+Weezer
+Autódromo Hermanos Rodríguez
+Mexico City, Mexico
+November 16, 2019
+
+Lineage: LIVE Webcast -> youtube-dl -> ffmpeg (cut) -> uncompressed .ts
+Video: MPEG4 Video (H264) 1920x1080 16:9 4,073 Kbps 30.00 fps
+Audio: AAC (LC) 129 Kbps 44100 KHz stereo 
+Duration: 1 h 16 min
+
+Tracklist:
+
+1. Buddy Holly
+2. Undone - The Sweater Song
+3. Take On Me (a-ha cover)
+4. My Name Is Jonas
+5. Perfect Situation
+6. Paranoid (Black Sabbath cover)
+7. Holiday
+8. The End of the Game
+9. Africa (Toto cover)
+10. Hash Pipe
+11. Surf Wax America
+12. The Good Life
+13. Beverly Hills
+14. Island in the Sun
+15. Thank God for Girls
+16. Everybody Wants to Rule the World (Tears for Fears cover)
+17. Pork and Beans
+
+Encore:
+18. Buddy Holly (barbershop quartet version)
+19. Lithium (Nirvana cover)
+20. Say It Ain't So 
+
+
+Mediainfo:
+
+General
+ID                                       : 1 (0x1)
+Complete name                            : Weezer - 2019-11-16 Corona Capital, Mexico City [1080p].ts
+Format                                   : MPEG-TS
+File size                                : 2.19 GiB
+Duration                                 : 1 h 16 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 4 073 kb/s
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 3 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 3 frames
+Codec ID                                 : 27
+Duration                                 : 1 h 17 min
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Format version                           : Version 4
+Muxing mode                              : ADTS
+Codec ID                                 : 15-2
+Duration                                 : 1 h 17 min
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : -453 ms
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Duration                                 : 1 h 16 min
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television
+

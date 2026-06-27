@@ -1,0 +1,26 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:05.25       11524844 B   ---   --   ---xx   flac  0.4673  weezer2018-06-27t01.flac
+     0:25.52        4532348 B   ---   --   ---xx   flac  0.4537  weezer2018-06-27t02.flac
+     2:51.69       30326732 B   ---   --   ---xx   flac  0.5743  weezer2018-06-27t03.flac
+     3:46.33       39944060 B   ---   --   ---xx   flac  0.5441  weezer2018-06-27t04.flac
+     3:29.68       37027580 B   ---   --   ---xx   flac  0.5513  weezer2018-06-27t05.flac
+     3:36.01       38104796 B   ---   --   ---xx   flac  0.5425  weezer2018-06-27t06.flac
+     3:23.63       35957420 B   ---   --   ---xx   flac  0.5430  weezer2018-06-27t07.flac
+     4:17.50       45452444 B   ---   --   ---xx   flac  0.5348  weezer2018-06-27t08.flac
+     3:42.49       39276092 B   ---   --   ---xx   flac  0.5507  weezer2018-06-27t09.flac
+     4:15.62       45127868 B   ---   --   ---xx   flac  0.5393  weezer2018-06-27t10.flac
+     3:57.35       41889164 B   ---   --   ---xx   flac  0.5499  weezer2018-06-27t11.flac
+     3:56.15       41665724 B   ---   --   ---xx   flac  0.5359  weezer2018-06-27t12.flac
+     5:35.02       59098748 B   ---   --   ---xx   flac  0.5090  weezer2018-06-27t13.flac
+     3:17.37       34837868 B   ---   --   ---xx   flac  0.4636  weezer2018-06-27t14.flac
+     1:04.00       11289644 B   ---   --   ---xx   flac  0.4366  weezer2018-06-27t15.flac
+     2:17.48       24279740 B   ---   --   ---xx   flac  0.4501  weezer2018-06-27t16.flac
+     2:52.47       30451388 B   ---   --   ---xx   flac  0.5029  weezer2018-06-27t17.flac
+     4:30.02       47632748 B   ---   --   ---xx   flac  0.5329  weezer2018-06-27t18.flac
+     3:45.62       39835868 B   ---   --   ---xx   flac  0.5464  weezer2018-06-27t19.flac
+     3:57.03       41813900 B   ---   --   ---xx   flac  0.5531  weezer2018-06-27t20.flac
+     1:39.63       17611820 B   ---   --   ---xx   flac  0.4642  weezer2018-06-27t21.flac
+     3:19.06       35117756 B   ---   --   ---xx   flac  0.5762  weezer2018-06-27t22.flac
+     5:39.05       59811404 B   ---   --   ---xx   flac  0.5349  weezer2018-06-27t23.flac
+     0:11.37        2027468 B   ---   --   ---xx   flac  0.4116  weezer2018-06-27t24.flac
+    76:58.09      814637424 B                            0.5300  (24 files)

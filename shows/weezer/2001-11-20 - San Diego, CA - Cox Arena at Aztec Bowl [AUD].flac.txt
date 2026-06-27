@@ -1,0 +1,47 @@
+Weezer
+November 20, 2001
+Cox Arena at Aztec Bowl
+San Diego, California
+
+Source:
+Sound Professional AT933 Hyper Cardioids > 
+Sound Pro Battery Box (Roll off @ 95Hz) > 
+Sony PCM-M1 (@ 44.1khz)
+
+Location:
+Sec S, Row 16
+Left side, Risers
+
+Transfer:
+Sony PCM-M1 >
+Core-Sounds 7 Pin to Coax >
+Zoltrix Nightingale Pro 6 >
+Cool Edit (Normalized to 100% & fade in/out) >
+CDWav (for track splitting) >
+Traders Little Helper/Foobar 2000 (Flac & Tagging)
+
+Taper: chrisedge
+
+01. Death and Destruction
+02. Island In The Sun
+03. In The Garage
+04. Crab
+05. Knock-Down Drag-Out
+06. Do You Want Me To Stay (later named Love Explosion)
+07. Photograph
+08. Tired Of Sex
+09. My Name Is Jonas
+10. Smile
+11. Living Without You
+12. Undone (The Sweater Song)
+13. Glorious Day
+14. Say It Isn't So
+15. Don't Let Go
+16. Hash Pipe
+17. Only In Dreams
+18. Buddy Holly
+19. Surf Wax America
+
+Sitting in the Chrisedge archives for almost 13 years, here is one of my early DAT recordings that I never shared. Part of the  Extended Midget Tour, with Jimmy Eat World and Tenacious D opening (got those as well), I'm not sure why I never shared it. It had been tracked out, but not flac'ed (or it would have been shn'ed back in those days) so here it is...Released July 2014
+
+

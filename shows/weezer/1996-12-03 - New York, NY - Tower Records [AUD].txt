@@ -1,0 +1,18 @@
+Weezer
+03 December 1996
+Tower Records
+New York, NY
+
+DAT(M)->DAT(2)->wav(16/48)->flac
+R: Core Sound Binaurals->Sony TCD-D8
+T: Tascam DA-20 MKII (coax)->Audigy 4 Pro (bit accurate, running kX drivers)
+
+01. Undone - The Sweater Song
+02. No One Else
+03. The Good Life
+04. El Scorcho
+
+
+-notes: recorded by Tony, on loan from stonecutter (Rich B.).
+
+Continued thanks to stonecutter (Rich B.) for entrusting me with his tapes. Enjoy.

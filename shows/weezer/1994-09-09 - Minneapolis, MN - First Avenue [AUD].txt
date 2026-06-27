@@ -1,0 +1,43 @@
+Weezer
+First Avenue
+Minneapolis, MN
+September 09, 1994
+
+Source - Unknown Aud->DAT->CDR
+Lineage - DAT->CDR(3)-EAC->Flac
+
+01. No One Else
+02. The World Has Turned and Left Me Here
+03. Buddy Holly
+04. In the Garage
+05. You Gave Your Love to Me Softly
+06. Jamie
+07. Say It Ain't So
+08. Getchoo
+09. Holiday
+10. Undone (The Sweater Song)
+11. Surf Wax America
+12. Only in Dreams
+13. Tired of Sex
+
+c0cb7e99f248abf466970769adf72053 *Track01.flac
+d347119ab659a0f454107a3114cdcebb *Track02.flac
+81096fd3447cb87955aa9a91810d80b1 *Track03.flac
+3f9d72a5ecbfe01d3bb169b8cbcbf0b9 *Track04.flac
+93f0de4828340807c0b1d4a022a5a9d0 *Track05.flac
+18c4332291e574ece20a2b3d2b13c9f9 *Track06.flac
+5199bf46c200a6a7d678e1edb63a9821 *Track07.flac
+f459e77d81ec150abcfdc9476852efa2 *Track08.flac
+0665007590a981e1d4ab3faab46b6b61 *Track09.flac
+cdfc322ec6dfa7dd9b05212c2c059bb6 *Track10.flac
+530218a278aad2a7ffbc2f533d89650a *Track11.flac
+5208fdba34a3ab19f488ced6fb5fd8a2 *Track12.flac
+7946637cfcf65b90be433b5b868a39b4 *Track13.flac
+
+======================
+DO NOT ENCODE TO MP3
+OR OTHER LOSSY FORMAT
+======================
+
+seeded by santoro
+torrented by ATRAC

@@ -1,0 +1,95 @@
+Weezer
+Honda Stage
+iHeartRadio Theater
+Burbank, California
+October 21, 2015
+(Broadcast Date: November 4, 2015) 
+
+Lineage: "Live" Webcast -> FFmpeg (capture & edit) -> .ts
+Video: MPEG4 Video (H264) 1280x720 2300 Kbps 29.97 fps
+Audio: AAC 66 Kbps 48.0 KHz stereo 
+
+Weezer recently debuted their new single "Thank God for Girls", which is their first new piece of
+music since their album 'Everything Will Be Alright in the End" was released in 2014. 
+They also performed live on The Honda Stage at iHeartRadio Theater in LA in celebration of the release
+of Guitar Hero Live. During their intimate show, hosted by alt98.7's Harms, fans were able to see them
+perform their latest song, along with a bunch of past Weezer hits. 
+
+Setlist:
+My Name Is Jonas
+-interview-
+Hash Pipe
+-interview-
+Beverly Hills
+Island in the Sun
+-interview-
+Thank God for Girls (live debut)
+Buddy Holly
+Perfect Situation
+Back to the Shack
+Troublemaker
+Pork and Beans
+(If You're Wondering If I Want You To) I Want You To
+Say It Ain't So
+
+TRT = 00:55:51
+
+MediaInfo:
+General
+ID                                       : 1 (0x1)
+Complete name                            : Weezer - 2015-10-21 iHeartRadio Theater, Burbank, CA [720p].ts
+Format                                   : MPEG-TS
+File size                                : 961 MiB
+Duration                                 : 55mn 51s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 405 Kbps
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Format settings, GOP                     : M=1, N=120
+Codec ID                                 : 27
+Duration                                 : 55mn 51s
+Bit rate mode                            : Constant
+Nominal bit rate                         : 2 136 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 29.970 fps
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.077
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Muxing mode                              : ADTS
+Codec ID                                 : 15
+Duration                                 : 55mn 52s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : -1s 619ms
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Duration                                 : 55mn 51s
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television

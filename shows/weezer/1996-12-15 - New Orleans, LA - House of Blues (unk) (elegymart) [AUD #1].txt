@@ -1,0 +1,59 @@
+WEEZER
+
+Sunday, 15 December 1996 
+
+House of Blues
+225 Decatur Street
+New Orleans, Louisiana 70130
+USA
+
+
+APE master, 7 February 2016, by elegymart:
+Analog audience recording (mono): unknown mics/recorder > analog audio cassette master > Maxell XLII 90 {CrO2} analog audio cassette > Sony TC-WE435 (azimuth adjustment) > Sony PCM-R500 > Maxell DA124 DAT {SBM} > HHB BurnIT CDR-830 > CDRW > Cool Edit Pro 2.0 (audio cleanup) > Mitsui 80-minute CDR > EAC (WAV extraction, secure mode) > WAV > Monkey's Audio 4.11 (WAV > APE conversion; Extra High mode).
+Created this text file and tagged APE files.
+
+
+Total running time  [66:02]
+----------------------------------------
+01  Tired of Sex [3:35]
+02  Getchoo [3:11]
+03  My Name Is Jonas [3:30]
+04  Pink Triangle [4:10]
+05  No One Else [3:05]
+06  No Other One [3:19]
+07  Why Bother? [2:07]
+08  In the Garage [4:07]
+09  You Gave Your Love to Me Softly [2:15]
+10  Falling for You [4:09]
+11  Say It Ain't So [3:59]
+12  The Good Life [4:04]
+13  Undone - The Sweater Song [4:49]
+-- encore --
+14  Butterfly [3:48]
+15  Across the Sea [4:14]
+16  El Scorcho [4:12]
+17  Buddy Holly [2:38]
+18  Surf Wax America [4:50]
+ 
+
+Band line-up:
+Rivers Cuomo – lead vocals, lead guitar, keyboards, harmonica 
+Brian Bell – rhythm guitar, vocals, keyboards, harmonica 
+Matt Sharp – bass guitar, backing vocals 
+Patrick Wilson – drums, percussion, vocals 
+
+
+Notes:
+
+This one goes out to those of you who grabbed the WDRE Acoustic Christmas sets and were disappointed there was no mid-90's top biller like Weezer in there. Admittedly this is a crappy consolation prize -- a band in its heyday playing in a venue known for its great acoustics... which won't be apparent here, as it's recorded probably at the back of the venue with girls screaming for "The Sweater Song" every couple of minutes. Traded to me as A quality -- subjectively it's more like somewhere between a step below mediocre and two notches above sounding like ass.
+
+They supposedly played two shows here this day -- couldn't tell you if this was the early or late. Opening acts on this North American leg of the Pinkerton tour were Superdrag, Placebo, Ash -- don't know who opened at this one.
+
+Converted this to APE a few years back as this show wasn't worth converting to a bloated FLAC format. So there you go -- for the undeterred recondite RC-ite/Weezerite, come jump through the hoops and grab this one. 
+
+Over the years on dime, EZT, the Archival Group, and through all the various and assorted other trading groups online preceding that, and the CDR, DAT, and analog cassette traders which came before, I've gathered a moderate collection of items to share. I've helped with transfers (the Cactus and related uploads from over a decade ago here, and currently a bite out of the massive Stonecutter Archives), contributed setlists and corrections to many a torrent -- all the sort of things that don't raise one's share ratio. I've shared some of my masters back in the old snail mail days, but it's high time to give back more here from where I've received so much. I had meant to do a roll-out with something grand and possibly a series (Elegymart #1, #2, etc.), but that's been done countless times before.
+
+At this point not only have we've all aged along with dime's existence, but our media and the equipment that can play it back has as well. So rather than any fanfare or concern over share ratio, consider this upload another step in a more diligent attempt to beat the time and to circulate the collection.
+
+Enjoy,
+elegymart

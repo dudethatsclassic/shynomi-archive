@@ -1,0 +1,41 @@
+Weezer
+Riverport Amphitheater
+Maryland Heights, MO
+May 20, 2001
+
+Source: SBD > FM > ALD > DAT > WAV > SHN > CDR(1) > xACT > flac
+Taper: unknown
+Transfer: weezed.com
+Length: 47:51
+
+Setlist:
+Undone (The Sweater Song)
+Island In The Sun
+Take Control
+Keep Fishin'
+In The Garage
+Knock-Down Drag-Out
+Burnt Jamb
+Not In Love
+You Gave Your Love To Me Softly
+Saturday Night
+Hash Pipe
+Say It Ain't So
+Buddy Holly
+Surf Wax America
+
+ffp:
+weezer2001-05-20t01.flac:59b412c081deaaef61d2557d902c608e
+weezer2001-05-20t02.flac:d190c7600e091237a56a5237a233bcfa
+weezer2001-05-20t03.flac:0586f16c75a83916e9144da7956bc39f
+weezer2001-05-20t04.flac:371601cb6caae444924f937050e64cae
+weezer2001-05-20t05.flac:8a749c9ad847504b325d0531b2f87820
+weezer2001-05-20t06.flac:df0f56580f2090f92d9b308409b30bd3
+weezer2001-05-20t07.flac:87e9baf1db312a76c5e785418e6041dd
+weezer2001-05-20t08.flac:f2872bc14a5bbde6cf0d947a7f9abbc3
+weezer2001-05-20t09.flac:2feca1b3bdc8765ab6449593ce2b3973
+weezer2001-05-20t10.flac:c3e3b3b231cd454e0fdfcf2c78d866f0
+weezer2001-05-20t11.flac:8ce3d23fac7c0ff601b7e91dcfc23daf
+weezer2001-05-20t12.flac:0f5589452dfb35d0a06f252d9defccb1
+weezer2001-05-20t13.flac:4b4c07c2695938fd1f6e005eb7d388b8
+weezer2001-05-20t14.flac:0447d221f2c159c5b66b8c0bf5768bf1

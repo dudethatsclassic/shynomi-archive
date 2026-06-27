@@ -1,0 +1,42 @@
+Weezer
+Cody's; Visalia, California, USA
+1994-07-08
+Taper: ??? (AUD)
+Comment: This is one of the first Weezer audience recordings, and the earliest known performances of Getchoo and You Gave Your Love to Me Softly. Not a great sounding show, but I did my best to remaster it. It's worth noting there was a loud high pitched hum throughout the entire recording, which I've done my best to remove. That said, there's a noticeable hole at around 8.7khz, which is a left over. Cover photo by Justin A. Moulder, taken a month later at the Trocadero (there's no photos circulating from the Cody's show). Enjoy!
+Hailey Carol, April 5th, 2025
+------------------------------------ 
+Lineage: ??? > cassette > ??? > CD-R > AIFF (44.1khz, 16bit) > Izotope RX 11 (azimuth) > pyaudiorestoration (dropout fixes, speed correction) > Izotope RX 11 (de-hum, additional dropout removal, light de-clicking, spectral denoise, reducing mic squeaks) > CD Wave Editor > FLAC (level 6, 44.1khz, 16bit) > foobar2000 (tagging)
+------------------------------------
+Setlist:
+01 My Name Is Jonas
+02 No One Else
+03 The World Has Turned and Left Me Here
+04 Buddy Holly
+05 In The Garage 
+06 You Gave Your Love to Me Softly
+07 Say It Ain't So
+08 Getchoo
+09 Jamie
+10 Holiday
+11 Undone - The Sweater Song 
+12 Surf Wax America
+------------------------------------ 
+Personnel:
+Rivers Cuomo - Vocals, Lead Guitar
+Matt Sharp - Vocals, Bass
+Brian Bell - Vocals, Rhythm Guitar
+Pat Wilson - Drums
+------------------------------------
+md5:
+da927d110e5ad2477a9e87bf70524cc8 *FLAC\01 - My Name Is Jonas.flac
+31e50112e945cc201eb0eb58ca2803d0 *FLAC\02 - No One Else.flac
+276981dd0aeca431faf81551777d4683 *FLAC\03 - The World Has Turned and Left Me Here.flac
+83fcb35d7484e9467dfb5df7e8bbaafb *FLAC\04 - Buddy Holly.flac
+ed6501a3f493157167c600597dc23fef *FLAC\05 - In the Garage.flac
+231e3dee9565d10a6b9cdf7e8f195c50 *FLAC\06 - You Gave Your Love to Me Softly.flac
+991042e20d4aef4d507caa47bf8ef3fc *FLAC\07 - Say It Ain't So.flac
+7fbc4da2441a50249f1e06f65275465c *FLAC\08 - Getchoo.flac
+5115fb2da646ab4643e61d2f22c86857 *FLAC\09 - Jamie.flac
+46433c63f3b5824cc8ad1d610327f5a7 *FLAC\10 - Holiday.flac
+2393552f1f76889db2d6aa6feb54c07c *FLAC\11 - Undone - The Sweater Song.flac
+3ebead7c76bf96356f894912ef0278a7 *FLAC\12 - Surf Wax America.flac

@@ -1,0 +1,45 @@
+Weezer
+Club Dump (The Central); West Hollywood, California, USA
+1993-04-29
+Taper: anonymous (AUD)
+Comment: This tape was put up on eBay earlier this month and is the earliest known Weezer audience recording, recorded two months before the band was signed to Geffen and four months before they went to New York to record their debut album. It also includes the live debut of "Jamie," which they had recorded at Loyola Marymount University fourteen days prior and would later be released on DGC Rarities. The tape was bought by Shane M, who shipped the tape to Nicholas Serra for transferring to digital.
+The tape required little remastering work, as it is a master tape and had an impeccable transfer by Nicholas, though some mic squeak removal, EQ, dropout removal and click removal were done, in addition to speed correction by yours truly.
+"Lullaby to Wayne" (changed to "Lullaby to Pat Finn" here as their friend of the same name was leaving California) was previously released on Video Capture Device, a now out-of-print DVD, and "If I Fell" was released as a free MP3 on Weezer's website around Christmas 2004. This specific audience recording has been never been released and was likely only heard by one or two people, including the taper.
+Cover photo taken from a video shot by VideoBob (bands could pay Club Dump to get a video of their performance from VideoBob). Also included are high quality photos of the spine and cassette itself.
+Hailey Carol, July 10th, 2025
+------------------------------------
+Lineage: ??? > cassette > Nakamichi DR-1 > Focusrite Scarlett 8i6 > Adobe Audition > FLAC (48khz, 24bit) > Izotope RX 11 (EQ, removal of mic squeaks, further dropout removal, click removal) > Audacity (speed correction +2%) > CD Wave Editor (tracking)
+------------------------------------
+Setlist:
+00 Introduction
+01 Surf Wax America
+02 No One Else
+03 The World Has Turned and Left Me Here
+04 My Name Is Jonas
+05 Jamie (live debut)
+06 Say It Ain't So
+07 Lullaby for Pat Finn (Lullaby for Wayne)
+08 Undone - The Sweater Song
+09 If I Fell (The Beatles cover)
+------------------------------------ 
+Personnel:
+Rivers Cuomo - Vocals, Lead Guitar
+Matt Sharp - Vocals, Bass
+Jason Cropper - Vocals, Rhythm Guitar
+Pat Wilson - Drums
+------------------------------------
+Looking for anything Weezer, XTC, They Might Be Giants and Ween :) PM/email me if you have any concerts from them, and if you only have them on tape I'd be happy to help direct you to someone who could transfer them. Anything is appreciated! :)
+------------------------------------ 
+md5:
+29730eb64a795a1367409b173777e599 *FLAC\00 - Introduction.flac
+ba06744435185e411b9c0528ee3e1fb1 *FLAC\01 - Surf Wax America.flac
+358245ae7e35063a9e76ebe74eb55fae *FLAC\02 - No One Else.flac
+c0b533f71026b2a6156db253e378f80a *FLAC\03 - The World Has Turned and Left Me Here.flac
+367ccbbe7efe941c80305345b98be33a *FLAC\04 - My Name Is Jonas.flac
+e59c7026d0a05fc6aea74b0c372e7574 *FLAC\05 - Jamie.flac
+d3f3a576a8a132f0f0eb68e393ca806b *FLAC\06 - Say It Ain't So.flac
+a03de3a137466bc9d1e9c6507c526237 *FLAC\07 - Lullaby for Pat Finn (Lullaby for Wayne).flac
+ff1119a9662ffe5451d809c3528de92d *FLAC\08 - Undone - The Sweater Song.flac
+af4a77ee657129f9d07301b90853dd9d *FLAC\09 - If I Fell.flac
+
+No errors occurred.

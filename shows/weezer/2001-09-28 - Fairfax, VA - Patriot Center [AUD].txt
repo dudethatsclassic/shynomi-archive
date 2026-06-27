@@ -1,0 +1,54 @@
+Weezer
+Patriot Center
+Fairfax, VA
+September 28, 2001
+
+Source: aud>csb>bb>sony md(?)>soundblaster>cdr
+Taper: brian(?)
+Transfer: weezed.com
+Length: 76:59
+
+Setlist:
+01 - Island in the Sun
+02 - In the Garage
+03 - Crab
+04 - Knock Down Drag Out
+05 - So Low
+06 - Photograph
+07 - Tired of Sex
+08 - My Name is Jonas
+09 - Do You Want Me to Stay?
+10 - Smile
+11 - Fall Together
+12 - Undone (The Sweater Song)
+13 - Don't Let Go
+14 - Say it Ain't So
+15 - Glorious Day
+16 - Hash Pipe
+17 - Only in Dreams
+
+Encore
+
+18 - Buddy Holly
+19 - Surf Wax America
+
+ffp:
+weezer2001-09-28t01.flac:c2c5e42bf61d2265e302b4d2156e3833
+weezer2001-09-28t02.flac:7120ca6a1f89719ef23747c7a330b68c
+weezer2001-09-28t03.flac:1473884fb95a94c4c0c1b0094b2c29b4
+weezer2001-09-28t04.flac:f234f702af99ac5872e422aea8b34dc3
+weezer2001-09-28t05.flac:3b25559583df29148f782b088cfaf870
+weezer2001-09-28t06.flac:46ac2d48677e7b0877be61286adadf63
+weezer2001-09-28t07.flac:d96e833f9b6928a3e8b084f8d4d3088d
+weezer2001-09-28t08.flac:7c0b0c226164f9f46a6d31410e5985ac
+weezer2001-09-28t09.flac:0b4b5dba078d2f60e13e50991b09b0df
+weezer2001-09-28t10.flac:ab01f495884a1b1b368b546e2e89f758
+weezer2001-09-28t11.flac:20b99719d76c86f6e91db884d4cfc2e2
+weezer2001-09-28t12.flac:64fc84772bf42091b5d4d47df5e05e64
+weezer2001-09-28t13.flac:bfd396035415355406ae5ddf04e1b39e
+weezer2001-09-28t14.flac:d067df27ba28017158fb1897bb1cf351
+weezer2001-09-28t15.flac:da04fcaea128414e6c3c8dc6609cea52
+weezer2001-09-28t16.flac:e2dda7cb04c3c793954a6e01cc427c8e
+weezer2001-09-28t17.flac:b7e83f7a55fe447cbcef2b0dd53ecab9
+weezer2001-09-28t18.flac:a759d84d726894fa93c2b700bc79f766
+weezer2001-09-28t19.flac:07b3856e952f1d1739bc3b38d9706244

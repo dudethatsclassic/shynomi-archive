@@ -1,0 +1,32 @@
+Weezer
+Tower Records; Chicago, Illinois, U.S.A.
+1996-11-16a
+Taper: ???
+Comment: This was an acoustic set they did before a show at the Riviera Theatre (which also circulates). The quality was pretty bad, so I tried remastering/improving it. Not sure who taped this show sadly, though Joel-G transferred it from a bootleg compilation tape for me. Enjoy!
+Hailey Carol, December 14th, 2024
+------------------------------------ 
+Lineage: ??? > cassette > Yellow Walkman Sport > WAV > Izotope RX 11 (light EQ, spectral denoising, dehum, slight compression, light declicking) > Audacity 3.6 (tracking) > FLAC (level 6, 24bit) > foobar2000 v2.1.6 (tagging)
+------------------------------------
+Setlist:
+01 Introduction
+02 Undone - The Sweater Song
+03 No One Else
+04 The Good Life
+05 El Scorcho
+06 Pink Triangle
+07 Buddy Holly
+------------------------------------ 
+Personnel:
+Rivers Cuomo - Vocals, Lead Guitar
+Matt Sharp - Vocals
+Brian Bell - Vocals, Rhythm Guitar
+Pat Wilson - Guitar
+------------------------------------ 
+md5:
+03ee98e998bf551bca7accfc6d69c78f *01 - Introduction.flac
+e40da71f5b36f13d9db620cde08c83bb *02 - Undone - The Sweater Song.flac
+744b1d2e335b08dfbe96c3a1dee40194 *03 - No One Else.flac
+97dbaa63217392af37f25d0cab0507bb *04 - The Good Life.flac
+6208055dbc6069330d5f91381adb2d99 *05 - El Scorcho.flac
+035fa788f565b47e8259138094f148ef *06 - Pink Triangle.flac
+77b1a28da7223fd02e40804b4e21cb86 *07 - Buddy Holly.flac

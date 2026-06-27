@@ -1,0 +1,57 @@
+Weezer
+July 24th, 2015.
+The LC (Lifestyle Communities Pavilion) - 
+Columbus, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   20ft back from right stack; mics mounted on hat.
+Source:     CSB [DIN] > Edirol R-09 (24 bit @48kHz) > 
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  SanDisk 16GB SDHC Card > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (1:21:57)
+
+01. Intro					1:36
+02. My Name Is Jonas				3:43
+03. Hash Pipe					3:16
+04. El Scorcho					4:10
+05. Back To The Shack				3:11
+06. Troublemaker				4:37
+07. Surf Wax America				4:17
+08. Island In The Sun				4:32
+09. Beverly Hills				3:37
+10. Go Away					3:55
+11. Dope Nose					3:48
+12. Say It Ain't So				4:19
+13. The Good Life				4:37
+14. Perfect Situation				4:54
+15. Memories					4:02
+16. Pork And Beans				3:24
+17. Undone - The Sweater Song			4:28
+18. ~ Encore ~					2:03
+19. Only In Dreams				8:18
+20. Buddy Holly 				5:10
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+Huge thanks to Ryan Teske for lending me my old pair of Core Sound Binaural
+microphones I gave him in 2005. Im in the process of replacing some gear, so he 
+was a life saver! The LC is usually known for great acoustics (indoors and 
+outdoors!), but tonight something seemed off. The bass also was, very heavy. I did
+use the roll off w/ the CSB's, but I still had to EQ a bit in post. You may want 
+to adjust your stereo system to your preference while playing back. 
+
+Im a huge fan of their recent 2014 release, "Everything Will Be Alright In The End", 
+however they only performed 2 songs from it. Very disappointing. On the other hand,
+it's hard to complain about getting 6 songs from Blue!
+
+The crowd was LOUD and sang a long to many of the songs. Definitely worth checking 
+out for that reason alone.
+
+---------------------------------------------------------------------------------------------------------
+For more information on Weezer, please visit:
+
+http://weezer.com/

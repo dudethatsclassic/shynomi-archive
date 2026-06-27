@@ -1,0 +1,50 @@
+Weezer
+Dallas,TX
+Trees
+04 April 1995
+
+Recording info:
+Sonic Studios[DSM6]>DAR100
+Taping Location: 20 ft. from front of stage left (general admission)
+
+Transfer info:
+Master DAT(48)>Sony 59ES>HHB CDR-850 via digital coax>CDR>EAC[secure]>flac[Level 8]
+
+CMM-032 (Chris M. Master)
+
+01. Intro (:19)
+02. Jamie (4:15)
+03. No One Else (3:24)
+04. The World Has Turned And Left Me Here (4:07)
+05. Getchoo (3:50)
+06. In The Garage (3:43)
+07. Say It Ain't So (4:59)
+08. Undone (5:21)
+09. My Name Is Jonas (3:50)
+10. Buddy Holly (3:23)
+11. Only In Dreams (8:54)
+12. Surf Wax America (5:16)
+
+TT: (51:21)
+
+Ticket scan included.
+
+No remastering was done do this recording.  Track numbers were created manually through the HHB CDR-850 CD recorder so they may not be perfect.
+
+Fingerprints:
+Track01.flac:8d8700487c58a4830592947ae2e6824f
+Track02.flac:71a46f19f1bd98d5089de59d2a757041
+Track03.flac:9a5f570dd771435b265cd6cbbc89bed5
+Track04.flac:54c0517b9cd2829cb04b9e734d32165e
+Track05.flac:4fded4e22851ac501d3fc915da01d3a5
+Track06.flac:545ccc0c3fae0894cd4b2a7c2b0653ec
+Track07.flac:445f8cba0ebc4de5c29af506e3cfc4ff
+Track08.flac:0e2bf452c1b32cee3693a04cfd5f7cbb
+Track09.flac:f6f67cd748f0fd95d39bc4e73d5ac578
+Track10.flac:d8106512d2c2d783f716cfcdf4bb0d2f
+Track11.flac:f1d805f1b95296cd5e2585cf2697fc9d
+Track12.flac:21be9bd2a981a2f44ebcdac6833bdf1b
+
+First Torrented July 04, 2006
+Seed #32 from my master DAT collection
+
