@@ -609,6 +609,13 @@ const ARTISTS = [
     "lastYear": 1981
   },
   {
+    "id": "dead-kennedy-s",
+    "name": "Dead Kennedy's",
+    "showCount": 1,
+    "firstYear": 1981,
+    "lastYear": 1981
+  },
+  {
     "id": "death-cab-for-cutie",
     "name": "Death Cab For Cutie",
     "showCount": 129,
@@ -1029,13 +1036,6 @@ const ARTISTS = [
     "lastYear": 2026
   },
   {
-    "id": "h-sker-d",
-    "name": "H?sker D?",
-    "showCount": 27,
-    "firstYear": 1983,
-    "lastYear": 1987
-  },
-  {
     "id": "harvey-danger",
     "name": "Harvey Danger",
     "showCount": 8,
@@ -1104,6 +1104,13 @@ const ARTISTS = [
     "showCount": 60,
     "firstYear": 1994,
     "lastYear": 2026
+  },
+  {
+    "id": "h-sker-d",
+    "name": "Hüsker Dü",
+    "showCount": 27,
+    "firstYear": 1983,
+    "lastYear": 1987
   },
   {
     "id": "ice-cube",
@@ -2373,6 +2380,13 @@ const ARTISTS = [
     "lastYear": 2026
   },
   {
+    "id": "sex-pistols",
+    "name": "Sex Pistols",
+    "showCount": 8,
+    "firstYear": 1976,
+    "lastYear": 1996
+  },
+  {
     "id": "shadow",
     "name": "Shadow",
     "showCount": 2,
@@ -2879,7 +2893,7 @@ const ARTISTS = [
   {
     "id": "the-ramones",
     "name": "The Ramones",
-    "showCount": 28,
+    "showCount": 20,
     "firstYear": 1976,
     "lastYear": 1996
   },
