@@ -1,26 +1,51 @@
-primus2003-11-14d1t01.flac:53c6f02e6bbb4aa4716440391993ad78
-primus2003-11-14d1t02.flac:fd105ec71d3ef48b675c1da7b6d181bd
-primus2003-11-14d1t03.flac:961bf525395f7f47d7db7f3fe69e2dcb
-primus2003-11-14d1t04.flac:df3bc4faf9affcac1b14e7c19f6df1ae
-primus2003-11-14d1t05.flac:992c7d01b6c669c88d07f20dea5e8eaa
-primus2003-11-14d1t06.flac:f372f2e77f44a4a5660f1d74e6eb913e
-primus2003-11-14d1t07.flac:37f1dfa303c8080639e527881417992e
-primus2003-11-14d2t01.flac:53a9b74338e105d7151b0ec6c4b7f4ff
-primus2003-11-14d2t02.flac:ff2be3c55f201a8d11cdea38b177b905
-primus2003-11-14d2t03.flac:c36b1c068ae86d558a0c4eab12b95668
-primus2003-11-14d2t04.flac:1cf829e1325cfe534f8da648e95d046b
-primus2003-11-14d2t05.flac:6f03a667a73a07c3c05fee37eab4eafc
-primus2003-11-14d2t06.flac:455ddf9bd133d9446bd2f049adfe402a
-primus2003-11-14d2t07.flac:8e66e8c4820d0f4ab447ed9d5ceb8e04
-primus2003-11-14d2t08.flac:112620393c574ff1e0d6da2621c23400
-primus2003-11-14d2t09.flac:94d068933e54f5fe8bcfdb3eac3c658f
-primus2003-11-14d2t10.flac:9583020105d1f28672562382afa4daf7
-primus2003-11-14d2t11.flac:6bf00adf49c7db47489e18be8786abb5
-primus2003-11-14d3t01.flac:0f00207cf7db003219ac85c9e90f0bb9
-primus2003-11-14d3t02.flac:a865489bd1cbc1399f657a791269fddf
-primus2003-11-14d3t03.flac:4d197d0b717f55a56f062a6876effec3
-primus2003-11-14d3t04.flac:d0b1a826c081ef7901e32ea08560107c
-primus2003-11-14d3t05.flac:bb5f7909b2bc1c3d9a8d6808fa09f9b1
-primus2003-11-14d3t06.flac:6b4b346042de5a4dfbd01c5a7f710cc8
-primus2003-11-14d3t07.flac:5859c37c3d199bca56b7486404c9ed79
-primus2003-11-14d3t08.flac:10006a852c009601ac9a71f0549353f0
+Primus 
+11/14/2003
+Roseland Ballroom 
+New York, NY
+
+Source: OTS, DFC RODE NT-5 > M Audio Battery Box> D8 @44.1
+
+Transfer:
+Sony D8 > Oade 7pin> Delta Dio 24/96> Soundforge 6.0> CDWav> FLAC Frontend
+Fades were added to the beginning and end of each set in Soundforge.
+
+BIG thanks to BIG T. Frisa for the patch.
+
+
+Set I:
+Disc 1
+1.  To Defy the Laws of Tradition
+2.  Mr. Knowitall
+3.  Southbound Pachyderm
+4.  The Last Superpower aka Rapscallion
+5.  DMV
+6.  Mary the Ice Cube
+7.  Harold of the Rocks
+
+Set II:
+Disc 2
+1.  Seas of Cheese
+2.  Here Come the Bastards
+3.  Sgt. Baker
+4.  American Life
+5.  Jerry Was a Race Car Driver
+6.  Drum Solo
+7.  Drum and Whamola Jam
+8.  Eleven
+9.  Is It Luck? >
+10. In the Flesh >
+11. Is It Luck?
+
+Disc 3 Set II cont.:
+1.  Grandad's Little Ditty
+2.  Tommy the Cat > Welcome to this World tease > Tommy the Cat
+3.  Sathington Waltz ^
+4.  Those Damned Blue-Collar Tweekers
+5.  Fish On
+6.  Los Bastardos ^
+
+Encore:
+7.  crowd
+8.  My Name is Mud
+
+^ - with the Filthy Ape on keyboard

@@ -1,23 +1,34 @@
-Track01.flac: 65b23e82c4be8b01c369c0d7657d8bce
-Track02.flac: c3955391c879742fb01267924e6c8b1c
-Track03.flac: 7f9414c82ce7689a30b47fcc4f4c5c2b
-Track04.flac: 07092b5b9e4f228905a32639d4725244
-Track05.flac: ac25a668598bf4e14b257d8b42d95fae
-Track06.flac: 2350ee097033e30616b9c798136e1d2f
-Track07.flac: f7fdacf11578b1383ea4145115a70408
-Track08.flac: 26307602eec9099f16a2303853342c72
-Track09.flac: f816fb1ea18f54bd32938b9f15b17ce6
-Track10.flac: a4c593549348e58acd64a2f8ee1d1a6f
-Track11.flac: fe7cdb1fbb9118b49a2da444d494a3c9
-Track12.flac: 35bc26b6809a71a120c8763758cba5bf
-Track13.flac: 4110770a7696d033c2326f0b88a1a601
-Track14.flac: ae36db8250e78ce61ef85b1e8e70aa79
-Track15.flac: 52a14bd9b5b8862afcf51b04bb2311b5
-Track16.flac: cec4a8907d992959463abb3e8b0a4b9b
-Track17.flac: aa79f2129989ae6c1578b5f0f5a31f25
-Track18.flac: a805079b4e544ec368ad5c728311bbd0
-Track19.flac: 6adc063e0b4a10a495b7a4b8ac42060e
-Track20.flac: 59c23a3916765e443f4ad94056075be8
-Track21.flac: c09cdb44936d332ca5c6b7be014f9ab6
-Track22.flac: 8cc062292db31d36013b85806ddf40fc
-Track23.flac: b4ef491b28651ee78b320228d2acc18c
+Tom Petty & The Heartbreakers
+Tacoma Dome, Tacoma, WA
+November 9, 2002
+
+Unknown Audience Recording > WAV > FLAC
+I don't know who taped this show or the lineage. Whoever finds out who taped this show or the lineage, let me know.
+
+Set I
+
+The Last DJ
+Love Is A Long Road
+Have Love Will Travel
+Free Fallin'
+Joe
+When A Kid Goes Bad
+Shadow Of A Doubt
+I Won't Back Down
+You Don't Know How It Feels
+Feel a Whole Lot Better
+Can't Stop The Sun
+
+Set II
+
+A Woman In Love
+The Waiting
+King's Highway
+Yer So Bad
+Lost Children
+Refugee
+Runnin' Down A Dream
+------------------
+You Wreck Me
+Carol
+Mary Jane's Last Dance

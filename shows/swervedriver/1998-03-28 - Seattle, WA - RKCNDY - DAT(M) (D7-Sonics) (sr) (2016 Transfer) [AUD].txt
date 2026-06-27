@@ -1,16 +1,28 @@
-swervedriver1998-03-29_t01.flac:bc6de15a5775f0a87b821775f44ad241
-swervedriver1998-03-29_t02.flac:9326e38da674102a68941b4a48f4347c
-swervedriver1998-03-29_t03.flac:070ad81fd4e4d5212b2076785aa62d34
-swervedriver1998-03-29_t04.flac:69406d59d703abf57365764b8fe5f4a8
-swervedriver1998-03-29_t05.flac:629a51ea30e71b89631892ea22fba411
-swervedriver1998-03-29_t06.flac:c8205dae91225d061e37ae41245f270b
-swervedriver1998-03-29_t07.flac:52afb242606d73d5fbee299c1279d2ae
-swervedriver1998-03-29_t08.flac:3843655baa39b4c1a21fe4f763529ffe
-swervedriver1998-03-29_t09.flac:f0d63aeddfee84d2c400a296a9d414a9
-swervedriver1998-03-29_t10.flac:cfc3f6e585c97be4a4eea2060d788427
-swervedriver1998-03-29_t11.flac:d45f2d790459b090cecfb812246f603f
-swervedriver1998-03-29_t12.flac:a90a624e4b5f31a7d349a42b3faa1244
-swervedriver1998-03-29_t13.flac:08790c7c0d4425b44c61516741f476aa
-swervedriver1998-03-29_t14.flac:be1cf3143dd56682469b5d0b84dc6a71
-swervedriver1998-03-29_t15.flac:145fd8c96ddd617df926ab9487da8549
-swervedriver1998-03-29_t16.flac:fe9a9b969f3d8a6ad55c67ab9346f3ad
+Swervedriver
+03/28/1998
+RKCNDY
+Seattle, WA
+
+SR master
+
+Gear: Sonic Studios DSM-6 > PA-6LC > D7 @32kHz
+
+Transfer: DATM > Sony PCM-R500 > Ultramatch SRC2000 > iRiver H120 > USB2 > Computer Hardrive > Adobe Audition CC 2015
+> CD Wave > Trader's Little Helper (Flac and SBE fixing--If needed)
+
+01. Intro
+02. For Seeking Heat
+03. Maelstorm
+04. Duel
+05. 99th Dream
+06. The Birds
+07. Wrong Treats
+08. She Weaves a Tender Trap
+09. Sandblasted
+10. These Times
+11. Never Lose That Feeling
+12. The Other Jesus
+13. Duress
+14. Rave Down/Encore
+15. Behind the Scenes of the sounds and the times
+16. Son of Mustang Ford

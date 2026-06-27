@@ -1,17 +1,30 @@
-toad1990-11-30t17.flac:e8396b0229e649dedbb883dd8e92fdd7
-toad1990-11-30t01.flac:0282f6b09923250c06482e982a989b4a
-toad1990-11-30t02.flac:60e8e6f5acb99eddf673960f528d65ce
-toad1990-11-30t03.flac:9d43cbb7ee7aea39aa392bcbb4e4b2a2
-toad1990-11-30t04.flac:41cb0c849b6998d16f81a7118df4118a
-toad1990-11-30t05.flac:482dc6c85ab9f34de6db2926ef747fd4
-toad1990-11-30t06.flac:bac05f75bea186418d50251b745d6a6e
-toad1990-11-30t07.flac:15ba02e0beb9c99d5ee63b26f3a0f7a7
-toad1990-11-30t08.flac:7b308966916855498b21e5dd44ca60da
-toad1990-11-30t09.flac:ae4037c981af938df180ebece88f945e
-toad1990-11-30t10.flac:a9ca85e8ffa19032e6db662f479c8449
-toad1990-11-30t11.flac:09c3e157ec1d50b3fe7d726059633622
-toad1990-11-30t12.flac:275a5e114ac8a986f269c4f373120bc5
-toad1990-11-30t13.flac:41970ea4c1095798fa4cac233ce38aa6
-toad1990-11-30t14.flac:cbff298c212bfccbdf2cf15073dba93f
-toad1990-11-30t15.flac:04ac7d652255250179c83b0aa3627ca5
-toad1990-11-30t16.flac:c2fa1c6ed5ebb7cb6329688a54747b82
+Toad The Wet Sprocket
+November 30, 1990
+Live at the Graduate
+Santa Barbara, CA
+
+TAPER:  Michael Greene
+TRANSFER:  Ben Wallis (hurtstotalktoyou@yahoo.com)
+LINEAGE:  CAS(M)>FLAC
+
+SETLIST:
+01.  Jam
+02.  All I Want
+03.  All In All
+04.  Is It For Me
+05.  Something To Say
+06.  Walking Awake
+07.  Come Back Down
+08.  Walk On The Ocean
+09.  Good Intentions
+10.  One Wind Blows
+11.  Hold Her Down
+12.  I Will Not Take These Things For Granted
+13.  Stories I Tell
+14.  Spirit/Know Me
+15.  Cover Me
+16.  In My Ear
+17.  Stairway To Heaven
+
+PRECISE LINEAGE:  unknown tape recorder (probably with built-in mic) > Maxell XL II 100 > Pioneer CT-W103 > shielded cable > Creative Sound Blaster Audigy LS > Adobe Audition 1.0 > CD Wave > FLAC Frontend
+NOTES:  This is one of a pair of recordings considered the worst Toad bootlegs ever.  The sound quality is absolutely unlistenable.  Enjoy!

@@ -1,6 +1,36 @@
-primus2006-11-06d02t01.flac:1fa17490edd40957ff73358de21af1e0
-primus2006-11-06d02t02.flac:1b17a5aedde89229db80687b57945e73
-primus2006-11-06d02t03.flac:f319f6fb6dc6531bc5a7eb9c2d91f7fe
-primus2006-11-06d02t04.flac:c852dcc58160d9d720bc99f02027d411
-primus2006-11-06d02t05.flac:38f6d7da5a0803bd1ed0133fc609f613
-primus2006-11-06d02t06.flac:29528a05a4cd4015d78ace1caae49b09
+Primus
+11-06-2006
+The Tabernacle
+Atlanta, GA
+
+Neumann u89i (Hypercards)~>
+Audiomagic Hyperconductor~>
+EAA-PSP2~>
+Audiomagic Hyperconductor~>
+Sound Devices 744t (24/48)~>
+Wavelab 5.0a (Resample @ 192 kHz, Dither @ UV22HR, Normalize)~>
+CDWav 1.93.3~>
+Wavelab 5.0a (Fades)
+FLAC Frontend 1.7.1 (Level 6)
+
+-baustin
+
+Disc 01 - 44:51
+
+01 - 02:11 - Intro
+02 - 07:02 - To Defy the Laws of Tradition
+03 - 05:13 - Sgt. Baker
+04 - 15:55 - American Life*
+05 - 05:05 - Mr. Knowitall
+06 - 09:25 - Those Damned Blue Collar Tweekers
+
+Disc 02 - 42:02
+
+01 - 02:59 - Seas of Cheese
+02 - 07:08 - Mr. Krinkle
+03 - 08:52 - Southbound Pachyderm
+04 - 08:03 - Over the Electric Grapevine
+05 - 08:35 - Jerry was a Racecar Driver
+06 - 06:25 - E: Wynona's Big Brown Beaver
+
+* - PA static at 4:42 & 4:50

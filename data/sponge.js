@@ -54,8 +54,7 @@ const ARTIST_DATA = {
       "venue": "Spartan Stadium",
       "notes": "Lollapalooza \u00b7 unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1996-08-02 - San Jose, CA - Spartan Stadium - Lollapalooza (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -68,8 +67,7 @@ const ARTIST_DATA = {
       "venue": "Concord Pavilion",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1996-09-17 - Concord, CA - Concord Pavilion (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2005,

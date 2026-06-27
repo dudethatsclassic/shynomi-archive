@@ -630,8 +630,7 @@ const ARTIST_DATA = {
       "venue": "Fillmore",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk \u00b7 neekrive",
-      "textFile": "1996-04-15 - San Francisco, CA - Fillmore (unk) (neekrive) [AUD].txt"
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1996,
@@ -769,8 +768,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk \u00b7 neekrive",
-      "textFile": "1996-09-07 - San Francisco, CA - The Fillmore (unk) (neekrive) [AUD].txt"
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 2016,

@@ -1,9 +1,21 @@
-toad1992-08-01t09.flac:8bb76960e49db915b248d4ea732a04d9
-toad1992-08-01t01.flac:2c5e8d08d18a5a2e63cfb68b028157ff
-toad1992-08-01t02.flac:65bc037bba590ceda50b44c224030b3b
-toad1992-08-01t03.flac:3febcd8b2eaf45cc506630ed4bcf73e9
-toad1992-08-01t04.flac:88ed82bc6d0a3b72cb134f1bae22ea3c
-toad1992-08-01t05.flac:9b6efde65125dbb6784783e6920590db
-toad1992-08-01t06.flac:4bd2e9a1b4dec9e84a82642d4d56a5b3
-toad1992-08-01t07.flac:6f5f296d525a65f189bdbd4db21f8152
-toad1992-08-01t08.flac:db6325ef0fe1a3a7f33b714f3c164463
+Toad The Wet Sprocket
+August 01, 1992
+Live on KTYD FM
+Santa Barbara, CA
+
+TAPER:  unknown
+TRANSFER:  Ben Wallis (hurtstotalktoyou@yahoo.com)
+LINEAGE:  FM>???>CAS>FLAC
+
+TRACKLIST:
+01.  intro
+02.  Walk On The Ocean
+03.  interview
+04.  interview
+05.  Nanci
+06.  interview
+07.  All I Want
+08.  interview
+09.  conclusion
+
+NOTES:  This is a pretty nice little acoustic show, but I'm not sure about the lineage.  Enjoy!

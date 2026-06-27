@@ -1,7 +1,17 @@
-01 Acquiesce.flac:4fd288fdb09c1e30ee6b51562c48fe66
-02 Morning Glory.flac:6344b6370116f92283a04e924df9633e
-03 Supersonic.flac:26120f153e416f4abd56ee05b4703acd
-04 Some Might Say.flac:6b1cfda0d3b5c6407043d767b583f742
-05 Wonderwall.flac:25117fb8b2cef05e487a2fd8d077bb01
-06 Don't Look Back In Anger.flac:1accabfedd3dc3bcb3ef0834f3172ed3
-07 Champagne Supernova.flac:5358fb6a560d6938ee01be0e6f494600
+OASIS
+IRVINE,CA:IRVINE MEADOWS
+6/14/97
+
+"KROQ Weenie Roast"
+
+ANA1 -> DAT -> CDRW700 -> EAC -> FLAC Frontend Level 8
+
+01. Acquiesce
+02. Morning Glory
+03. Supersonic
+04. Some Might Say
+05. Wonderwall
+06. Don't Look Back In Anger
+07. Champagne Supernova
+
+

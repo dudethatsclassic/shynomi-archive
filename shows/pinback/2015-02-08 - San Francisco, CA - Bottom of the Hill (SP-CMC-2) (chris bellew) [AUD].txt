@@ -1,20 +1,31 @@
-pinback2015-02-08t01.flac:e8dd286d028d2cf07b5faea05afd4f04
-pinback2015-02-08t02.flac:d78712000c602bf2183159da18a7f5ac
-pinback2015-02-08t03.flac:6e7e1f842d88fe78eade050e8eba724f
-pinback2015-02-08t04.flac:1c4cc326adceee660ca2bce35764eace
-pinback2015-02-08t05.flac:b6b05a7959bc133047b0498da36d62e1
-pinback2015-02-08t06.flac:5515f2612d88bb8dd7dc13d33d3bd686
-pinback2015-02-08t07.flac:e1e663ff0a90fdeb3d37755735266b27
-pinback2015-02-08t08.flac:08fad3c68fa79d346c042fb04bf783cf
-pinback2015-02-08t09.flac:cd0c2faa18be4b874cd68ae4a990e301
-pinback2015-02-08t10.flac:7b384f8b7f05b6348bc5a634138ee330
-pinback2015-02-08t11.flac:70fe4dcc10ef0f0cf63de77f148611f7
-pinback2015-02-08t12.flac:762e538fccb8b23aabab42f0ee179467
-pinback2015-02-08t13.flac:f60d218b6f30ec7fe458e7045858413c
-pinback2015-02-08t14.flac:c6e57c4c5cf66244612e4b298b3372df
-pinback2015-02-08t15.flac:47887626a849b21d75950ba9e8fb6df4
-pinback2015-02-08t16.flac:b5c9dc0c250ed34fe6546da47f3fd15d
-pinback2015-02-08t17.flac:de14596d6d6f18a4ba063d571a282687
-pinback2015-02-08t18.flac:2698e20e15cc3f4a864c96befcb5f70a
-pinback2015-02-08t19.flac:0faa1765ce9587d44a859e68883ab58b
-pinback2015-02-08t20.flac:bda0774c89053534cfe3a8fc1bbabe90
+Pinback
+2015-02-08
+Bottom of the Hill
+San Francisco
+
+Taped by: Chris Bellew (atomjack@gmail.com)
+
+Source: SP-CMC-2>iRiver h140+SBD>iRiver h120
+Lineage: USB2>Adobe Audition>SoundForge>Hyperprism Harmonic Exciter>Hyperprism Compressor>FLAC 
+
+Setlist:
+1. Your Sickness
+2. BBtone
+3. True North
+4. Non-Photo Blue
+5. Penelope
+6. The Yellow Ones
+7. Sherman
+8. Seville
+9. This Red Book
+10. Proceed To Memory
+11. Loro
+12. Drawstring
+13. Fortress
+14. Good To Sea
+15. Grey Machine
+16. From Nothing To Nowhere
+17. A.F.K.
+18. Devil You Know
+19. Barnes
+20. Prog

@@ -1,9 +1,31 @@
-soundgarden1992-07-21.eq.t01.flac:353f0d8ab31fe1d03354cff19b0c4399
-soundgarden1992-07-21.eq.t02.flac:d1050cd7549df03dc796d62fad08698b
-soundgarden1992-07-21.eq.t03.flac:91ee0949859db197dcabc40911fe3578
-soundgarden1992-07-21.eq.t04.flac:2ca9cf2f4d1e01eba50d83090d9a0873
-soundgarden1992-07-21.eq.t05.flac:5c7571080624106fce821b965d247627
-soundgarden1992-07-21.eq.t06.flac:22523d3759209c357a01f5e3be7a5560
-soundgarden1992-07-21.eq.t07.flac:78dc91fc37c989782b01b60cbc494828
-soundgarden1992-07-21.eq.t08.flac:9eb8637c2320eb0bebf16878a3c58883
-soundgarden1992-07-21.eq.t09.flac:ae5ed9968030795e8084bd3b449dc620
+Soundgarden
+
+07/21/92 UBC Thunderbird Stadium: Vancouver, BC
+
+source: PC62 > wm-d3
+
+lineage: cassette master > EQ > CDR > .flac
+
+cass>cdr transfer: Denon DRM-500 > Sentrek 12 band EQ > SoundBlaster 16 > WaveLab 4.0 dEQ
+cdr>.wav rip via EAC
+.wav>.flac encoding via FLAC frontend
+
+encoded by: cps 12/11/04
+
+edits: none
+
+eq: yes
+
+cuesheet: yes (with PJ 7/21/92)
+
+setlist:
+
+1. intro
+2. Room a 1000 Years Wide
+3. Jesus Christ Pose
+4. Outshined
+5. Drawing Flies
+6. Ugly Truth
+7. Rusty Cage
+8. Slaves and Bulldozers
+9. Searching With My Good Eye Closed

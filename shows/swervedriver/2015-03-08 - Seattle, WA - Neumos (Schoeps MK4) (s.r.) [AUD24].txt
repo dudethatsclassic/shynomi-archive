@@ -1,17 +1,39 @@
-swervedriver2015-03-08t01.flac:e46325d13fcd1b3a1b7e7cd426adad92
-swervedriver2015-03-08t02.flac:5e9fd6728339184cd212d05a5b741d38
-swervedriver2015-03-08t03.flac:8faa5cd33ac1f2e3bbac33613078248b
-swervedriver2015-03-08t04.flac:f70c06b34e0b86e086aee739d6db83a1
-swervedriver2015-03-08t05.flac:396e8e3ccdcc5e15c063db104029d784
-swervedriver2015-03-08t06.flac:c52453bac051804f1a4874d53ae84d04
-swervedriver2015-03-08t07.flac:314b23db89e97e5d8388b79d31aa8670
-swervedriver2015-03-08t08.flac:7f477cd8a1b3a11a0e4c8e32a0f41b17
-swervedriver2015-03-08t09.flac:bcc3750dd60de7cbe0640b8c43f42127
-swervedriver2015-03-08t10.flac:db975b6418a82bc448bad7ce36e6b936
-swervedriver2015-03-08t11.flac:8a9acca98af6a5057180f049a49950a2
-swervedriver2015-03-08t12.flac:1f3f9430661cf038a24d4019527247c9
-swervedriver2015-03-08t13.flac:0e9e4bc86af79492b84c3989cd901a7e
-swervedriver2015-03-08t14.flac:fc363bed319cebc6dd11f6c812171af4
-swervedriver2015-03-08t15.flac:2e690d3112db8b869c27c63f73d7aa0d
-swervedriver2015-03-08t16.flac:31f7948ea9448dcabfef00600b480756
-swervedriver2015-03-08t17.flac:5ac2eeec33dc9b5184a168cb4737ae82
+Swervedriver
+03-08-2015
+Neumos
+Seattle, WA
+
+Recorded by S.R.
+
+Gear: Schoeps MK4 active setup > Tinybox > Sony PCM-M10 (wav @ 48KHz 24 bit)
+Lineage: PCM-M10 > USB2 > Computer Hardrive > Adobe Audition CC 2014 > CD Wave > Trader's Little Helper > FLAC 
+
+I don't know what it is, but for whatever reason, I think this recording is average. I think part of it was Swervedriver
+was just too loud for Neumo's! and the other part? I don't know. 
+
+I accidentally bumped my recording knob during MM Abduction. Good thing I noticed that right away. I've never done
+that with the M10 before.
+
+01. Autodidact
+02. For Seeking Heat
+03. Never Lose That Feeling
+04. Last Rites
+05. Setting Sun
+06. Rave Down
+07. These Times
+08. For a Day Like Tomorrow 
+09. MM Abduction
+10. Lone Star
+11. The Birds
+12. Deep Wound
+13. Mustang Ford
+14. I Wonder/Encore
+15. Everso
+16. Girl On A Motorbike
+17. Duel
+
+
+
+
+
+

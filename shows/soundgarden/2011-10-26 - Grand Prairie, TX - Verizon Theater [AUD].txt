@@ -1,1 +1,37 @@
-Soundgarden - 2011-10-26-01.flac:779c92c8a8474f28ebd20c0e01df15feSoundgarden - 2011-10-26-02.flac:95fd43e3a3b5f1a4beeaf42acfe6ec01Soundgarden - 2011-10-26-03.flac:b6c5de6cae2c47a929598b0c1c4ac730Soundgarden - 2011-10-26-04.flac:402d58828a11ea885fa6e06003777509Soundgarden - 2011-10-26-05.flac:e273360e911ef584c4f7f70893b4cd7aSoundgarden - 2011-10-26-06.flac:c90d350a440dcfd3bdc05318c9694ad2Soundgarden - 2011-10-26-07.flac:e1ccd1362940628be382e51ee5e41536Soundgarden - 2011-10-26-08.flac:b04cd6048935b9f5180fbd523b7728b5Soundgarden - 2011-10-26-09.flac:1aee223b82709567b5ff7b2e5f35d868Soundgarden - 2011-10-26-10.flac:ac9f17bc7b1ffe3f9fabfd98ad359ddaSoundgarden - 2011-10-26-11.flac:b65802a03aa7ed2ad32e165225b00ed7Soundgarden - 2011-10-26-12.flac:4ce248c49c13fe9736d6b56dd6c95d68Soundgarden - 2011-10-26-13.flac:47804f4c73d242f80353cb8622859f02Soundgarden - 2011-10-26-14.flac:3df6e46f6537516fb1db901a337ae853Soundgarden - 2011-10-26-15.flac:62179da90ea283704d0a2a69105ba456Soundgarden - 2011-10-26-16.flac:58632ba3dc4b680d552ce2a231fb94ccSoundgarden - 2011-10-26-17.flac:b98c5dc972c4daa9a599de50f9ed25b7Soundgarden - 2011-10-26-18.flac:b4601b48b8f7d990c01cb318f91cdd33Soundgarden - 2011-10-26-19.flac:0b0d90c6f4000a5849bfba0eda1f8235Soundgarden - 2011-10-26-20.flac:99dbf61180aa7f0ad2459a652c410053Soundgarden - 2011-10-26-21.flac:b4edba4980cfc7891dafb059d1d873cfSoundgarden - 2011-10-26-22.flac:d0f9224eb7697c033c9f5f25ea144647
+{\rtf1\ansi\ansicpg1252\cocoartf949\cocoasubrtf540
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww9000\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0 Soundgarden\
+2011/10/26\
+Verizon Theater\
+Grand Prairie, TX\
+\
+Recorded with Core Sounds Binural mics w/battery box -> Zoom H1@16/24 WAV from the first row directly behind FOH.  Transfered via USB cable to MAC.  Tracked and edited in Audacity.  \
+\
+1. Searching With My Good Eye Closed\
+2. Spoonman\
+3. Gun\
+4. Jesus Christ Pose\
+5. Blow Up the Outside World\
+6. The Day I Tried to Live\
+7. My Wave\
+8. Burden in My Hand\
+9. Ugly Truth\
+10. Fell on Black Days\
+11. Hunted Down\
+12. Drawing Flies\
+13. Black Hole Sun\
+14. Outshined\
+15. Rusty Cage\
+16. Head Down\
+17. Pretty Noose\
+18. Superunknown\
+19. 4th of July\
+---------------------------\
+20. Encore Break\
+21. Beyond the Wheel\
+22. Slaves & Bulldozers\
+}

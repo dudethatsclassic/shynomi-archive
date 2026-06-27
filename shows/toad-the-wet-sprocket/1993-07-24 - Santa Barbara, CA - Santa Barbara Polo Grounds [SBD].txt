@@ -1,20 +1,34 @@
-toad1993-07-24d2t10.flac:c85d8df9b80d5b5df2efdac360704e49
-toad1993-07-24d1t01.flac:eb4a3fa4466ab8b2264e078395cc2945
-toad1993-07-24d1t02.flac:f72d7ba92bf4182b077c11ef7df75f73
-toad1993-07-24d1t03.flac:f9054b4d5ed1b5dd697d08f024da55d2
-toad1993-07-24d1t04.flac:b4ebc6b9fc1d9253d541df1dbd9aab1c
-toad1993-07-24d1t05.flac:faf943fa4b8610756ff9fe81e9dacd25
-toad1993-07-24d1t06.flac:ff69e09d1db8057c0ddd6d1b1126251f
-toad1993-07-24d1t07.flac:dfd3199a161a1183529a00df1bf38226
-toad1993-07-24d1t08.flac:cb64abdc5810ed5ff12293b6895631b9
-toad1993-07-24d1t09.flac:c825289d11697f6943f42e8439b3c543
-toad1993-07-24d1t10.flac:f1c30a62165dd5da4de63c62d60b423a
-toad1993-07-24d2t01.flac:491186cbcb080379f6ef8e22e7cfc203
-toad1993-07-24d2t02.flac:701dc35e926a1431147d91194857f51d
-toad1993-07-24d2t03.flac:d43d70001f1e66def4ed4ece613baf37
-toad1993-07-24d2t04.flac:749fe698c932ed2a4f15f3dc0777ac07
-toad1993-07-24d2t05.flac:28b43812cd8f62b20b757dada6a7279b
-toad1993-07-24d2t06.flac:575a3392935ad41d9749db87e2e56f65
-toad1993-07-24d2t07.flac:233f8b7f0d6ad19d0f6baa514a24b2e3
-toad1993-07-24d2t08.flac:794fa6a7d3699533144b79e22adf73c5
-toad1993-07-24d2t09.flac:6453ba744f17b369becf1fa7e7c77e22
+Toad The Wet Sprocket
+July 24, 1993
+Live at the Santa Barbara Polo Grounds
+Santa Barbara, CA
+
+LINEAGE:  SBD>DAT(?)>CAS(?)>FLAC
+TRANSFER:  Pioneer CT-W103 > Creative Labs Sound Blaster Audigy LS > Adobe Audition 1.0 > CD Wave 1.93.3 > dbPowerAmp Music Converter 7.0
+
+DISC ONE:
+01.  Walk On The Ocean
+02.  Jam
+03.  Fly From Heaven
+04.  Listen
+05.  Before You Were Born
+06.  Butterflies
+07.  Something To Say
+08.  Crowing
+09.  Feel
+10.  Stupid
+
+DISC TWO:
+01.  All I Want
+02.  In My Ear
+03.  Hold Her Down
+04.  All Things In Time
+05.  Nightingale Song
+06.  Come Back Down
+07.  Is It For Me
+08.  Way Away
+09.  Crazy Life
+10.  I Will Not Take These Things For Granted (cuts out)
+
+NOTES:
+I'm not sure, but I think this was originally recorded on a DAT.  This cassette version sounds like a pretty high generation, maybe 4th or 5th.  During the second half of the show, the right channel has some annoying pops which may have been present in the master.  Of course, the high tape generation has produced some warble throughout, but none of it is too serious.  Otherwise, the show sounds fantastic.  Enjoy!

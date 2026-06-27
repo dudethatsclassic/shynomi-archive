@@ -1,18 +1,25 @@
-01 Searching With My Good Eye Closed.flac:661c29ab43e2496d70e8c84742ae6d92
-02 Let Me Drown.flac:9c734222c2b736d8e9b1028b437f0db2
-03 Pretty Noose.flac:3c2400a8e0ac877cee8eef615e4bca40
-04 Burden In My Hand.flac:dd28601b7ac808d9cb75c69e23b351e4
-05 My Wave.flac:6fbba11ba33cc392d18e9d24f610bf4e
-06 Ty Cobb.flac:7846d197a6f0b325ce9d632f126ca135
-07 Black Hole Sun.flac:584e9b06b8c27495d210528d2b639c23
-08 Outshined.flac:d1f9a5cfabfbc4cc17aed27aac77d6f4
-09 Rusty Cage.flac:ad2cec2d6aefe0f2b2160cd3b58a380f
-10 Fell On Black Days.flac:200c4e3a1155aa86f5bd17c51a95a49f
-11 Helter Skelter.flac:f407dacff8591b006ac2083dcbb05c8a
-12 Boot Camp.flac:22641363b80a967cd168344399293837
-13 Blow Up The Outside World.flac:65f1efe41fcf2bd388af9c2d671b87cc
-14 Room A Thousand Years Wide.flac:612e80f9a20e1d7682c0cad8ebc21f3f
-15 Hands All Over.flac:0c24b4397f74ccc7a8846224408089be
-16 Slaves & Bulldozers.flac:361d4d4cca98d9678015b75c0a0a6f7f
-17 Dusty.flac:d93f12a2715313934bdeb4b391188278
-18 Jesus Christ Pose.flac:91a4d322a7d591fbe26ab53949cbf699
+SOUNDGARDEN
+UNIVERSAL CITY,CA:UNIVERSAL AMPHITHEATRE
+12/2/96
+
+D3 Cassette Master -> Untracked Aiff File -> Soundforge -> FLAC
+
+ (Spoonman - missing)
+01. Searching With My Good Eye Closed (cuts in)
+02. Let Me Drown
+03. Pretty Noose
+04. Burden In My Hand
+05. My Wave
+06. Ty Cobb
+07. Black Hole Sun
+08. Outshined
+09. Rusty Cage
+10. Fell On Black Days
+11. Helter Skelter
+12. Boot Camp
+13. Blow Up The Outside World
+14. Room A Thousand Years Wide
+15. Hands All Over
+16. Slaves & Bulldozers
+17. Dusty
+18. Jesus Christ Pose

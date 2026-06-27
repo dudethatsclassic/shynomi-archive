@@ -2548,8 +2548,7 @@ const ARTIST_DATA = {
       "venue": "Spartan Stadium",
       "notes": "Lollapalooza \u00b7 unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1996-08-02 - San Jose, CA - Spartan Stadium - Lollapalooza (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,

@@ -1,16 +1,29 @@
-toad1990-11-27t16.flac:1ecf18a46149d6a10d5cdeb883d2e7c9
-toad1990-11-27t01.flac:248773c81f3c62f9983767a08402837b
-toad1990-11-27t02.flac:dc50f5e166d2646f085b5a4b3f1dabf1
-toad1990-11-27t03.flac:f6fb7d77896b99debb88c5e7a7739751
-toad1990-11-27t04.flac:834c3e8bf10cbfafc5f0c9ffbebe3b47
-toad1990-11-27t05.flac:0e7554245faedd64e91ed2e64a61d18f
-toad1990-11-27t06.flac:611488f8433e3de925a7f5e94e5735d2
-toad1990-11-27t07.flac:0bfffc50748619444706d6638fadabc8
-toad1990-11-27t08.flac:ccd5dc34d820d252f0249c6a275a3529
-toad1990-11-27t09.flac:eeaf97e3e5fec893fb3364bb70147c88
-toad1990-11-27t10.flac:2c46fcf76d60569288a8450e9ee5c030
-toad1990-11-27t11.flac:b641cf5e7b1969b7d35ad2cb1e23aa17
-toad1990-11-27t12.flac:f5c7f91c7a283dfd113e18c10e8bb865
-toad1990-11-27t13.flac:1e5134c4125bd81624f5f8a3c33f12c0
-toad1990-11-27t14.flac:a93e8201a0c25949594387035dfc9566
-toad1990-11-27t15.flac:5437ffa495480f963a99732dc1a53ba4
+Toad The Wet Sprocket
+November 27, 1990
+Live at Shake
+Santa Barbara, CA
+
+TAPER:  Michael Greene
+TRANSFER:  Ben Wallis (hurtstotalktoyou@yahoo.com)
+LINEAGE:  CAS(M)>FLAC
+
+SETLIST:
+01.  All I Want
+02.  Something To Say
+03.  Walking Awake
+04.  Is It For Me
+05.  Pray Your Gods
+06.  All In All
+07.  Come Back Down
+08.  Walk On The Ocean
+09.  Cover Me
+10.  Good Intentions
+11.  I Will Not Take These Things For Granted
+12.  In My Ear (cuts out)
+13.  Hold Her Down
+14.  All She Said
+15.  Covered In Roses
+16.  Jam
+
+PRECISE LINEAGE:  unknown tape recorder (probably with built-in mic) > Maxell XL II 100 > Pioneer CT-W103 > shielded cable > Creative Sound Blaster Audigy LS > Adobe Audition 1.0 > CD Wave > FLAC Frontend
+NOTES:  This is one of a pair of recordings considered the worst Toad bootlegs ever.  The sound quality is absolutely unlistenable.  Enjoy!

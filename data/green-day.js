@@ -437,8 +437,7 @@ const ARTIST_DATA = {
       "venue": "Missoula Union Hall",
       "notes": "",
       "version": "SBD #1",
-      "format": "FLAC",
-      "textFile": "1991-07-29 - Missoula, MN - Missoula Union Hall [SBD #1].txt"
+      "format": "FLAC"
     },
     {
       "year": 1991,

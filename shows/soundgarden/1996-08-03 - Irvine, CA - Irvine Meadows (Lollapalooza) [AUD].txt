@@ -1,14 +1,22 @@
-01- intro-.flac:298ff39320baea2796a0588222a61c07
-02 Spoonman.flac:515f78ae1be33dec1560df64fb76c65c
-03 Searching With My Good Eye Closed.flac:aceaa6670502e48e30b8b1118afd6f50
-04 Let Me Drown.flac:6e8fc0c04c3936892c9c8444199aba00
-05 Waiting For The Sun.flac:9a68cb3a6d67a0b127cafc065e21dfa5
-06 Pretty Noose.flac:d23574c87cbc25fba9e61a28a3930df8
-07 My Wave.flac:8806a1452bcc527e4eeaf0f6230e47b5
-08 Ty Cobb.flac:f8c64f811b22e079bf7146156734a76f
-09 Fell On Black Days.flac:ff09200bd2c91946ef78710dd25a2095
-10 Rusty Cage.flac:9939695a54d924201d75194cc22cefcf
-11 Black Hole Sun.flac:2d5764a0822d88d363ffccd857497ee4
-12 Outshined.flac:4011bf7ab4205eec67be4e9f3138a90e
-13 Mailman.flac:e03da1f6cca7bfcc596a4af5d2033b0c
-14 Jesus Christ Pose.flac:e381d28f8688c2cdcc3dab97b420c689
+SOUNDGARDEN
+IRVINE,CA:IRVINE MEADOWS
+8/3/96
+"Lollapalooza"
+
+CSB -> D7
+DTC790 -> CDRW700 -> EAC -> FLAC
+
+01. -intro-
+02. Spoonman
+03. Searching With My Good Eye Closed
+04. Let Me Drown
+05. Waiting For The Sun
+06. Pretty Noose
+07. My Wave
+08. Ty Cobb
+09. Fell On Black Days
+10. Rusty Cage
+11. Black Hole Sun
+12. Outshined 
+13. Mailman
+14. Jesus Christ Pose

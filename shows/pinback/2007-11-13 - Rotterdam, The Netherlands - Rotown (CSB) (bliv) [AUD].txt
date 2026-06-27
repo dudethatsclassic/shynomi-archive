@@ -1,20 +1,42 @@
-pinback2007-11-13t01.flac:478cbfa98e40921aaacbe701888e2d7b
-pinback2007-11-13t02.flac:e9f250674177dfc18d3bba05ec7ea058
-pinback2007-11-13t03.flac:117f154d9c3253c5de6dfb54f564b524
-pinback2007-11-13t04.flac:222ad21406f8adce29367b221e08ccda
-pinback2007-11-13t05.flac:db2274c71e994acd8244401cbcebdaef
-pinback2007-11-13t06.flac:3c86f5bde40da641c4a35bf1ce1e3fce
-pinback2007-11-13t07.flac:1dd5bbe0c02b3a47a12ef5e284e419cd
-pinback2007-11-13t08.flac:f1d30d9379932dfa6b65e6d81777a8b0
-pinback2007-11-13t09.flac:66e290e81ce8d5acfe2e33ac1fab6387
-pinback2007-11-13t10.flac:98ae8d15d70332f5a5cd9945ebc55003
-pinback2007-11-13t11.flac:d18ef0e05aa351fb896c9e9ce8b463a9
-pinback2007-11-13t12.flac:5bcd19e1c618c5430cad84eb68fc37c3
-pinback2007-11-13t13.flac:c30682598a3ae280079642bd73154e88
-pinback2007-11-13t14.flac:53541a227bf89d6175118005228c247c
-pinback2007-11-13t15.flac:d0f3fc1a47e2fd9d5225ff18cd7ea55e
-pinback2007-11-13t16.flac:0077f9d3cb60da948400521bc8865191
-pinback2007-11-13t17.flac:e3e0b9916a708f4e6be8e1274de5e65c
-pinback2007-11-13t18.flac:dfe8ea92fc4c5120c94341e62f31fb7f
-pinback2007-11-13t19.flac:79e634e7afbe603d2a796b63574d7576
-pinback2007-11-13t20.flac:5449c82d914000e990562b24e8449fc6
+Pinback
+
+live at Rotown, Rotterdam, The Netherlands
+November 13th 2007
+
+support: The Dudley Corporation (Ireland) (recorded but not mastered)
+
+recording & transfer by Bliv (info AT bliv.speedlinq.nl)
+
+source:   Core Sound Binaurals --> battery box (bass roll-off switched OFF) --> Iriver H120 (with Rockbox) --> WAV
+transfer: Iriver H120 --> USB --> PC --> Soundforge (EQ, normalization, tracks, fades) --> Flac (level 8, verified)
+location: FOS (left)
+
+Tracks:
+
+01. crowd noise/intro 		(1.48)
+02. Bouquet 			(4.45)
+03. Devil You Know 		(4.32)
+04. Non-Photo Blue 		(3.32)
+05. Microtonic Wave 		(3.51)
+06. Torch 			(4.35)
+07. Tripoli 			(4.03)
+08. Good To Sea 		(3.07)
+09. How We Breathe 		(4.31)
+10. Walters 			(4.03)
+11. Boo 			(3.36)
+12. Loro 			(3.26)
+13. Fortress 			(3.44)
+14. Penelope 			(4.51)
+15. From Nothing To Nowhere 	(3.59)
+16. Off By 50 			(3.14)
+17. AFK 			(5.03)
+18. encore break 		(3.06)
+19. Syracuse 			(4.10)
+20. Prog 			(4.52)
+
+
+total time: 		     (1.19.00)
+
+
+	*** DO NOT SELL. EVER!!! ***
+*** Please encode to mp3 for personal use only ***

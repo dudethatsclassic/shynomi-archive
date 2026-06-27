@@ -1798,7 +1798,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 jeftak \u00b7 krw_co transfer",
       "version": "AUD",
       "format": "",
-      "textFile": "1989-07-22 - Mountain View, CA - Shoreline Amphitheater (mpmks) [AUD].txt"
+      "textFile": "1989-07-22 - Mountain View, CA - Shoreline Amphitheater - ANA(M) (jeftak) (krw_co transfer) [AUD24] .txt"
     },
     {
       "year": 1989,
@@ -4413,8 +4413,7 @@ const ARTIST_DATA = {
       "venue": "Napa Valley Expo",
       "notes": "MK41 \u00b7 daspyknows",
       "version": "AUD",
-      "format": "",
-      "textFile": "2017-05-27 - Napa, CA - Napa Valley Expo (MK41) (daspyknows) [AUD].txt"
+      "format": ""
     },
     {
       "year": 2017,
@@ -4442,7 +4441,7 @@ const ARTIST_DATA = {
       "notes": "Tascam DR-05 \u00b7 scott medeiros",
       "version": "AUD",
       "format": "",
-      "textFile": "2017-06-14 - Hartford, CT - Xfinity Theater (Tascam DR-05) (scott medeiros) [AUD].txt"
+      "textFile": "2017-06-14 - Hartford, CT - Xfinity Theater (Tascam DR-05) (scott medeiros) [AUD].rtf"
     },
     {
       "year": 2017,

@@ -1,10 +1,33 @@
-Track01.flac:33b227ad21968c7f3c03bed0357593ca
-Track02.flac:d8a0521b32e06d48c955337cf3bac485
-Track03.flac:955e632606d56bf301d13abc51ccc5a4
-Track04.flac:3f28cc46346e911f5e7ae79144734444
-Track05.flac:49d651e894a09bc84b74bbcdcbf01109
-Track06.flac:02540f1de38dbe4e0646799d7ff42eca
-Track07.flac:ef558b7a48e435e942d9b015f4f75722
-Track08.flac:f68c7b73034d4638f38e6cfa4f0c6a51
-Track09.flac:602648ed287a7b2b439839d37a2881f4
-Track10.flac:ad7d8f411851b3dd12f74248220a273c
+Tom Petty & the Heartbreakers
+Shoreline - Mountain View, CA
+7/22/89
+Taped by MPMKS
+nakamichi 300 > sony tcd5m > cdr > EAC > WAV > FLAC
+Setlist:
+Disc 1
+1. Intro
+2. American Girl
+3. Listen To Her Heart
+4. Free Fallin'
+5. The Waiting
+6. Breakdown
+7. I Won't Back Down
+8. Benmont's Boogie
+9. Don't Come Around Here No More
+10. Even The Losers
+11. Elvis Cover
+12. Knockin' On Heavens(Axl's) Door
+13. Louisiana Rain
+14. Something Big
+
+Disc 2
+1. Southern Accents
+2. Yer So Bad
+3. You Got Lucky
+4. Should I Stay or Should I Go
+5. Keep Your Hands To Yourself
+6. Rebel
+7. Refugee (cut at end)
+8. Runnin' Down a Dream
+9. Here Comes My Girl
+10. Jammin' Me

@@ -1,11 +1,29 @@
-ratm1993-02-02Track01.flac:5c3e0150a3899e42e90090820f0dec82
-ratm1993-02-02Track02.flac:e0110963667f7ac92ffa538590aff6a0
-ratm1993-02-02Track03.flac:6fb6157a7399729f495efa6911d02282
-ratm1993-02-02Track04.flac:5205ace88934122260fdd29d4ccca0b6
-ratm1993-02-02Track05.flac:54832f80b4317d9f3f344a9486ba50c5
-ratm1993-02-02Track06.flac:31ecdceeef53e1ba7a458372372af0a1
-ratm1993-02-02Track07.flac:3fef1dcaaf5f20012920302fe58c36b1
-ratm1993-02-02Track08.flac:d8393dd39ec36d4f0fd87ee07312185f
-ratm1993-02-02Track09.flac:dac97c1c0475651d739ebc620a208a74
-ratm1993-02-02Track10.flac:a1153cc733363d4eb3f149a06873146d
-ratm1993-02-02Track11.flac:057da949e5cf5c582e31b8adb42bd66a
+Rage Against The Machine
+02/02/93
+The Melody,
+Stockholm,
+Sweden
+"The Killing Zone"
+
+
+Source: Soundboard > unknown transfer > CD (Silver) > CDR >
+EAC [Secure] > WAV > Flac Frontend [Level 7] > FLAC
+
+
+01 Bombtrack
+02 Take the Power Back
+03 Bullet in the Head
+04 Know Your Enemy
+05 Wake Up
+06 Settle For Nothing
+07 Fistfull of Steel
+08 Killing in the Name
+09 Freedom
+10 Darkness Of Greed
+11 J.F.K.
+
+Tracks 01-09: 02/02/93
+Tracks 10-11: St. Louis 1993
+
+
+Time: 11 Tracks/73:25

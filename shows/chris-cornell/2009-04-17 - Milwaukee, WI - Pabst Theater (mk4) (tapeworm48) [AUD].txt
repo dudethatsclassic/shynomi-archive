@@ -1,29 +1,52 @@
-cornell2009-04-1701.flac:bb134b30e9a93e7eb82d69f77d0ef11a
-cornell2009-04-1702.flac:736ab08392338ccce7d4a64ab615a7da
-cornell2009-04-1703.flac:6c1347e5ec09bc8a37a1cc09b1731ac4
-cornell2009-04-1704.flac:ee869eb6f2d65f6bd9c6abdc38f43ee4
-cornell2009-04-1705.flac:80fff1da2f0cf516ed5c73df9b58b4ab
-cornell2009-04-1706.flac:426e1c3b2dcdf40f4ce15ea08fa4ee7e
-cornell2009-04-1707.flac:e73e3a553fad3ee777b364d7120aa634
-cornell2009-04-1708.flac:2603efddf0b6f3486462539a758a34b9
-cornell2009-04-1709.flac:80119a2c3215d92df0ca946309f613c1
-cornell2009-04-1710.flac:a7089803d8ffefd52d3563013762f329
-cornell2009-04-1711.flac:1e25b5e312bdc67567174f90c14e80fc
-cornell2009-04-1712.flac:7ce3b684493f5915a2d87596141bf101
-cornell2009-04-1713.flac:ed61a4f3180178e27a50e7b2636fc5e8
-cornell2009-04-1714.flac:88812821d35bed74e44868c707c2b633
-cornell2009-04-1715.flac:27176d2908f0fc224b976727c3f7adf0
-cornell2009-04-1716.flac:391aae8bd820e4dfb3ac547388c30d58
-cornell2009-04-1717.flac:0425b56d1be67f13bbcf566a12fd9108
-cornell2009-04-1718.flac:1c209579ec1865f2fc3b0592b4cdf258
-cornell2009-04-1719.flac:d20dc538f73b318f02d4100f14a47390
-cornell2009-04-1720.flac:c1167370cda7ba2be0abc4de0186c184
-cornell2009-04-1721.flac:748722445778ec003f716649628d0362
-cornell2009-04-1722.flac:959290364c10796d82e9ba1c04ac0645
-cornell2009-04-1723.flac:3353a9915231c660ac295e0c94ba4df8
-cornell2009-04-1724.flac:08d9f247894a4cca4b306b055e52e644
-cornell2009-04-1725.flac:dda2c43039a39cfb59e60a8033004a5e
-cornell2009-04-1726.flac:8ce999819575b3b230169841dba420f6
-cornell2009-04-1727.flac:1cbf03aa3c002bf8b3c4a648fd96c3c3
-cornell2009-04-1728.flac:bfb0711ac1a0b94cf75aa9a1d125b014
-cornell2009-04-1729.flac:8dc59c7f9ab7046d2be3ea83244b9433
+
+Chris Cornell
+Pabst Theater: Milwaukee, WI
+April 17, 2009
+
+Source: Schoeps MK4s > Nbox > Edirol R-09 @ 24-bit / 44.1kHz
+Location: Front row balcony, left side
+Transfer: SD Card > USB > CEPv2.1 (dither) > CDWave > FLAC Frontend
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 -intro-
+02 Part of Me
+03 Time
+04 You Know My Name
+05 Can't Change Me
+06 Burden in My Hand [Soundgarden]
+07 Pretty Noose [Soundgarden]
+08 Hunger Strike [Temple of the Dog]
+09 Preaching the End of the World
+10 Outshined [Soundgarden]
+11 Show Me How to Live [Audioslave]
+12 Ground Zero
+13 Never Far Away
+14 Be Yourself [Audioslave]
+15 Sunshower
+16 What You Are [Audioslave]
+17 Rusty Cage [Soundgarden]
+18 Wild Horses* [Rolling Stones]
+19 Fell on Black Days* [Soundgarden]
+20 Seasons
+21 Call Me a Dog* [Temple of the Dog]
+22 Like a Stone* [Audioslave]
+23 Cochise [Audioslave]
+24 Watch Out
+25 Scream
+26 Spoonman [Soundgarden]
+27 -encore break-
+28 Enemy
+29 Black Hole Sun [Soundgarden]
+
+* Chris Cornell solo
+
+Notes: Taped front row balcony, left-center.  Raw transfer with no fades or EQ.  
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 05/09/2009
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

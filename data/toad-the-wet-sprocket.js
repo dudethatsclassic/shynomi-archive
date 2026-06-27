@@ -2566,8 +2566,7 @@ const ARTIST_DATA = {
       "venue": "930 Club",
       "notes": "unk",
       "version": "AUD",
-      "format": "WAV",
-      "textFile": "1997-11-19 - Washington, DC - 930 Club (unk) [AUD].txt"
+      "format": "WAV"
     },
     {
       "year": 1997,

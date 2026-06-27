@@ -1,20 +1,34 @@
-toad1991-07-19d2t09.flac:df3787fb9c6c9453806793adbce3ca1f
-toad1991-07-19d1t01.flac:dcf3118128822e068d51ead5e37374e4
-toad1991-07-19d1t02.flac:8f38747f4cce4072e8033b10a5f2c478
-toad1991-07-19d1t03.flac:8a7a5aaec94d7ae7bc27c04e9b5e272b
-toad1991-07-19d1t04.flac:3bb082b9b06bfeaa73d304ee474c2c3c
-toad1991-07-19d1t05.flac:21cd37df9bd710cf68015b6e956a094d
-toad1991-07-19d1t06.flac:39292a4722b9a43db3a09009ce81200a
-toad1991-07-19d1t07.flac:7d4f56e0bdceb80a77972391cfe2378f
-toad1991-07-19d1t08.flac:272706f730ba03af9af59b341bddd579
-toad1991-07-19d1t09.flac:894e72663f13b7659e87867cbd8387cc
-toad1991-07-19d1t10.flac:60d5220d3cc11a065ae6cd36ddaf5539
-toad1991-07-19d1t11.flac:fc9290c2b09f6632d7c038eac1b052bd
-toad1991-07-19d2t01.flac:3773c6a4a30683802ee47d286e7c9f60
-toad1991-07-19d2t02.flac:9c2bf73ba7ac804d14a5e0fdbef7c244
-toad1991-07-19d2t03.flac:10ed8f5a1a7b0db202b0fd35e5972257
-toad1991-07-19d2t04.flac:3f36fa7c00e6fb251066c8792b25d1a4
-toad1991-07-19d2t05.flac:13ef475321b256132bf73c3265e6f9a7
-toad1991-07-19d2t06.flac:bbd67f4589f67bcce880b6ae751cae93
-toad1991-07-19d2t07.flac:4a72eeb8b8d629c31aced9243406a221
-toad1991-07-19d2t08.flac:16f640b2f6c5ca9e5c4951fee0c240cd
+Toad The Wet Sprocket
+July 19, 1991
+Live at the Victoria Street Theater
+Santa Barbara, CA
+
+TAPER:  Michael Greene
+TRANSFER:  Ben Wallis (hurtstotalktoyou@yahoo.com)
+LINEAGE  VHS(M)>FLAC
+
+DISC ONE:
+01.  Walk On The Ocean
+02.  Way Away
+03.  Scenes From A Vinyl Recliner
+04.  One Little Girl
+05.  Is It For Me
+06.  Before You Were Born
+07.  All I Want
+08.  Something To Say
+09.  In My Ear
+10.  Corporal Brown
+11.  Hold Her Down
+
+DISC TWO:
+01.  Come Back Down
+02.  Nightingale Song
+03.  Nothing Is Alone
+04.  Stories I Tell
+05.  Spirit/Know Me
+06.  When We Recovered
+07.  Jam
+08.  Good Intentions
+09.  I Will Not Take These Things For Granted
+
+NOTES:  The VHS tape was missing the first song, so I patched the recording with a CAS(M) source.  So, "Walk On The Ocean" sounds a lot different than the other tracks.  Technically the lineage is [CAS(M) + VHS(M)]>FLAC, but since only the first song is CAS(M), I figured it would be simpler to just use VHS(M)>FLAC notation.  Enjoy!

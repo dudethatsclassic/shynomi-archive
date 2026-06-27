@@ -1,20 +1,30 @@
-01 Running Down A Dream.flac:c29fecbfdf98cafeaffda086687e6096
-02 I Won't Back Down.flac:b8b7b7d654eb83709dbd4c655c8c8d16
-03 I Need To Know.flac:9c042e946938aeb1a8244b9bb0688d3e
-04 Last Dance With Mary Jane.flac:92a709a631da370ef9ca05167d4ced07
-05 Have Love, Will Travel.flac:dda77d223274f5e607ace8eb1c5b5c09
-06 Here Comes My Girl.flac:42329ccfef4a96f3e0bb9df109d539d5
-07 Even The Losers.flac:6fc8519e12dd2e46e94e7786045eb9d2
-08 You Don't Know How It Feels.flac:06b80a0adb60ce93b4796fb5fdf5bb5c
-09 Intros, It's Good To Be King.flac:c33414df2252746a3c877f4026d9d22a
-10 Lost Children.flac:58340a65b1584b145959e3fc0dc2adf4
-11 Born A Rebel.flac:908ea11d0b4d67808933cf762a8649f9
-12 Learning To Fly.flac:e0777b597acea7f35b8cd0d3fe648b52
-13 You're So Bad.flac:02de2efbccd620d3de8ad9d06bc6680d
-14 Can't Stop The Sun.flac:52abf9bbb8f06343155346ff11e92399
-15 Refugee.flac:eda11a74c6b7393efea70841358a3033
-16 Ain't It Enough.flac:0e64eda009a2fd049e3be96436ae8098
-17 You Wreck Me.flac:67a586129ab56afbccaa767fc03c665c
-18 E-Free Fallin'.flac:3343db9bd131f2fd7d14d3460f6ade60
-19 E-Gloria.flac:35b63e5e9b249bc6bf61282325806bca
-20 E-American Girl.flac:16fa3a5a94e14c8b507398f4818d194d
+Tom Petty
+SPAC, Saratoga Springs NY
+July 5, 2002
+
+DSSMAN recording
+
+SONY D7 Master w/ Sonic Studio DSM6's>CD>Traders Little Helper FLAC Conversion
+
+setlist:
+
+01 Runnin' Down a Dream 
+02 I Won't Back Down
+03 I Need to Know
+04 Mary Jane's Last Dance
+05 Have Love Will Travel NEW
+06 Here Comes My Girl
+07 Even the Losers
+08 You Don't Know How it Feels
+09 It's Good to Be King
+10 Lost Children 
+11 Rebels (acoustic)
+12 Learning to Fly (acoustic)
+13 Yer So Bad (acoustic)
+14 Can't Stop the Sun 
+15 Refugee
+16 Too Much Ain't Enough
+17 You Wreck Me
+18 Free Fallin'
+19 Gloria
+20 American Girl

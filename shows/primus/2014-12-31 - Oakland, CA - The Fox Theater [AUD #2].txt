@@ -1,31 +1,43 @@
-SET 1
-01 Intro.flac:17b8c3a16a075ae8a93b41659999f776
-02 Seas Of Cheese.flac:042dd337a07f999fb1c1d5377602e0a8
-03 John The Fisherman.flac:9f0cc0966f81c54cfa21d9afe5314e59
-04 The Toys Go Winding Down.flac:288ed152c2839f0417df0decc1d855f9
-05 Frizzle Fry.flac:406ee9b158ff14519b708f7600723e79
-06 Over The Falls.flac:887a6365a50333885d7e0c8105f477ba
-07 Cocaine Blues.flac:3c0c19b3d96fcf2370bd11bc54de7978
-08 Lee Van Cleef.flac:21eaddced2464f3fdee37d6b2f31ee51
-09 Jilly's On Smack.flac:e3445c0b23cc9b7a6895fd0541fbb7ab
-10 Del Davis Tree Farm.flac:c054e377ed57067efae40d3ba11b5874
-11 The Heckler.flac:696a458cc0dc06e315289eacccd3b747
+PRIMUS 2014-12-31 Fox Oakland CA - NYE - AUD Matrix Mix
 
-No errors occured.
+Source 1 Recorded and Mixed By Bruce Burnett
+Tascam DR-05 (Omni-Condensor) @ 24/48 > Samplitude Professional 11
+
+Source 2 Recorded By TopHatTapes
+CA-11 (cardioid) > CA-Bat2B > Sony PCM M10 @ 24/48
+
+Matrix Mix Created By Bruce Burnett with Samplitude Professional 11 @ 24/48, 16.44.1 & FLAC files.
+
+Notes: There is reverb on Les's vocals during Seas of Cheese, and Delay on Herb's drums during John The Fisherman.
+           This is not a matrix mix error. This is how it was mixed live. These two effects are no longer in the mix when Toys begins.	
+
+SET 1
+01. Intro
+02. Seas of Cheese
+03. John the Fisherman
+04. The Toys Go Winding Down
+05. Frizzle Fry
+06. Over the Falls
+07. Cocaine Blues
+08. Lee Van Cleef
+09. Jilly's on Smack
+10. Del Davis Tree Farm
+11. The Heckler
+
 
 SET 2
-01 Those Damned Blue Collar Tweekers.flac:8543746bd7370376628fa2f965a59a92
-02 Last Salmon Man.flac:782fb8cd36b752fded80ac3652ea37ee
-03 Southbound Pachyderm.flac:9be9f40a6cdb631e4eaf01e4d5e2445b
-04 Too Many Puppies _ Aenima _ Too Many Puppies.flac:f7dcdc8a40ceb12f7dafa92a71f35efb
-05 Eleven.flac:95434f301e0006d81da9623a3785ea6e
-06 Banter.flac:b4a51656fe6a92a296e83b92c03850a8
-07 My Name Is Mud.flac:48897727cc8a0e9e9ba4a251670c6e81
-08 Jerry Was A Racecar Driver.flac:621e75240d13ef9f7fe263873532505b
-09 Star Spangled Banner.flac:e5065df0d0806707ade01b024d16f5fc
-10 Hot For Teacher.flac:9f0ef3844bae90f963a5f30225ed047e
-11 Moby Dick.flac:4559495afe48d00bb5e191e10ec0d912
-12 American Life.flac:3eb36d29903c642c5b48e836fbae0269
-13 Here Come The Bastards.flac:7e997e9c591ed77934a54947bd2bda0e
+01. Those Damned Blue-Collar Tweekers
+02. Last Salmon Man
+03. Southbound Pachyderm
+04. Too Many Puppies > Aenima > Too Many Puppies
+05. Eleven
+06. Banter
+07. My Name Is Mud
+08. Jerry Was a Racecar Driver
+09. Star Spangled Banner - NYE Countdown
+10. Hot For Teacher
+11. Moby Dick
+12. American Life
+13. Here Come The Bastards
 
-No errors occured.
+- Bob Cock on Vocals for Hot For Teacher

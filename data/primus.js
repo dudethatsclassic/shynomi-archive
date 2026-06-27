@@ -2132,8 +2132,7 @@ const ARTIST_DATA = {
       "venue": "Greek Theater",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1995-08-26 - Berkeley, CA - Greek Theater (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -2356,8 +2355,7 @@ const ARTIST_DATA = {
       "venue": "Oakland Coliseum",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1995-12-31 - Oakland, CA - Oakland Coliseum (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -2384,8 +2382,7 @@ const ARTIST_DATA = {
       "venue": "Bimbo's 365",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1996-01-09 - San Francisco, CA - Bimbo's 365 (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -2496,8 +2493,7 @@ const ARTIST_DATA = {
       "venue": "Bill Graham Civic Auditorium",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1996-05-07 - San Francisco, CA - Bill Graham Civic Auditorium (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -4323,7 +4319,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 Schoeps mk4v \u00b7 jim charna, sean simpson",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-10-17 - Los Angeles, CA - The Wiltern - DAT(M) (Schoeps mk4v) (jim charna, sean simpson) [AUD].txt"
+      "textFile": "2003-10-17 - Los Angeles, CA - The Wiltern - DAT(M) (Schoeps mk4v) (jim charna, sean simpson) [AUD].rtf"
     },
     {
       "year": 2003,
@@ -5022,7 +5018,7 @@ const ARTIST_DATA = {
       "notes": "Soundcheck \u00b7 CSBs \u00b7 double a",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2004-03-05 - Mizner Park Amphitheatre - Boca Raton, FL - Soundcheck [AUD].txt"
+      "textFile": "2004-03-05 - Mizner Park Amphitheatre - Boca Raton, FL - Soundcheck [AUD].rtf"
     },
     {
       "year": 2004,
@@ -5680,7 +5676,7 @@ const ARTIST_DATA = {
       "notes": "CSBs \u00b7 double a",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-07-29 - Twin Lakes, WI - Hedgpeth Festival [AUD].txt"
+      "textFile": "2006-07-29 - Twin Lakes, WI - Hedgpeth Festival [AUD].rtf"
     },
     {
       "year": 2006,

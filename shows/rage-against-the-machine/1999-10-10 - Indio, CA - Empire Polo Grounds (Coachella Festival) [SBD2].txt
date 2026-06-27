@@ -1,12 +1,30 @@
-ratm1999-10-10Track01.flac:0e44a0e96e07caba7e9f02366f8d3bde
-ratm1999-10-10Track02.flac:8dcbdb90a62cffef8c13e8617513a03d
-ratm1999-10-10Track03.flac:35ed95ff8f4d236a1d5aecc27ffa102e
-ratm1999-10-10Track04.flac:0d3c68ab1d94833c82318383e1dd1773
-ratm1999-10-10Track05.flac:7d6874adfcd1e656a81368835568012f
-ratm1999-10-10Track06.flac:3a9bf8c12e5646428c82f635bdd40c19
-ratm1999-10-10Track07.flac:5808cd555a5ac747cddc63b7f0d94000
-ratm1999-10-10Track08.flac:2ef34a2259053ec1cea0f7ea6ded58a7
-ratm1999-10-10Track09.flac:7c03d1af1be441cf41b0d733b46c61f3
-ratm1999-10-10Track10.flac:6a46c4168a582accbc98b991f73afeef
-ratm1999-10-10Track11.flac:33c6726460892b05965615c5c5b191e9
-ratm1999-10-10Track12.flac:821229943a22546950076da32e46e2d7
+Rage Against The Machine
+10/10/99
+Empire Polo Field,
+Coachella Music Festival,
+Indio, CA
+"Rage Against Coachella"
+
+
+Source: Soundboard > unknown transfer > CD (Silver) > CDR >
+EAC [Secure] > WAV > Flac Frontend [Level 7] > FLAC
+
+
+01 Testify
+02 Guerilla Radio
+03 Bombtrack
+04 People of the sun
+05 Know your enemy (with Maynard of Tool)
+06 Born of a Broken Man
+07 Bullet in the Head
+08 Sleep noew in the Fire
+09 No Shelter
+10 Bulls on Parade
+11 Killing in the name of
+12 Clear the lane*
+
+
+* Removed - From CD Single "Vietnow"
+
+
+Time: 12 Tracks/59:40

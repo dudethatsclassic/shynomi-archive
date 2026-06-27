@@ -1176,8 +1176,7 @@ const ARTIST_DATA = {
       "venue": "Golden Gate Park",
       "notes": "Tibetan \u00b7 unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1996-06-16 - San Francisco, CA - Golden Gate Park - Tibetan Freedom Concert (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -1386,8 +1385,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1996-09-05 - San Francisco, CA - The Fillmore (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,

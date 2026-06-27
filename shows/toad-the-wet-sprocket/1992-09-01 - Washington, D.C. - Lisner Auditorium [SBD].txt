@@ -1,46 +1,37 @@
-toad1992-09-01d2t10.flac:5aec6788c4df8ed841da5c5aa8746313
-toad1992-09-01d1t01.flac:85b9328dc7bb0aa835ef77a1de7c4f5c
-toad1992-09-01d1t02.flac:79cc2bf783f7a24663d1b724da6a7ecc
-toad1992-09-01d1t03.flac:8e6690925ec2299547b81193e702ae94
-toad1992-09-01d1t04.flac:c0ce4482303198fd1a30f93dd8ff3de2
-toad1992-09-01d1t05.flac:f0bc72dd791d5d5c413c9c7876f59e7e
-toad1992-09-01d1t06.flac:58ac54ecde9ef96dce780df4957647bc
-toad1992-09-01d1t07.flac:3a07728536b6a896190249089d6d1559
-toad1992-09-01d1t08.flac:166552425d62c42819ad3ca5102034c5
-toad1992-09-01d1t09.flac:701e0f4c55130907b9fb16943c065194
-toad1992-09-01d1t10.flac:3247994ac6b50a243557760cac3413ab
-toad1992-09-01d1t11.flac:669451ea6782ecd42d67e745f65aca38
-toad1992-09-01d1t12.flac:b1575c686553a02f3f02b91c7110ceaf
-toad1992-09-01d1t13.flac:28efcfc04cf5c600e77badb255ef88cf
-toad1992-09-01d2t01.flac:8be408992bcbf2e90139e9258eea72d1
-toad1992-09-01d2t02.flac:866f3edb90dd52cf883cfefb7bfd138b
-toad1992-09-01d2t03.flac:40a6c991b6bf70f350dfd37dce9be6ee
-toad1992-09-01d2t04.flac:1e88c9937bdeddbf2643525e991838dc
-toad1992-09-01d2t05.flac:2419907e2cbc31a1cade7efd0d0f5a86
-toad1992-09-01d2t06.flac:6f1ca5012dfe42c667f96a2333238c28
-toad1992-09-01d2t07.flac:c96cabf446a2cc71c0418f8a6b268d63
-toad1992-09-01d2t08.flac:da13ba7f38dd9d10e153d066cf0b093b
-toad1992-09-01d2t09.flac:2bfab9111da1e297c70ffafc349cc953
-toad1992-09-01d2t10.flac:71ee341d6cd2ec20da9f0d3cdab5a1ff
-toad1992-09-01d1t01.flac:072fe280a7009cab05877ee80043b3a7
-toad1992-09-01d1t02.flac:e854cede6eea7f4351f74817330a47a9
-toad1992-09-01d1t03.flac:ea66f3e34a268d9f355ba90311b94f75
-toad1992-09-01d1t04.flac:4f17d8b83a68422021e287ceb3ff7959
-toad1992-09-01d1t05.flac:3ad8cc2c89b624b21fca513bfbcc2331
-toad1992-09-01d1t06.flac:08524211ed71149dab66d77608c11b3c
-toad1992-09-01d1t07.flac:92a3945a0f8e82693f9fd404b0c8fa20
-toad1992-09-01d1t08.flac:11888e96e6e0c62708d0b6b942180641
-toad1992-09-01d1t09.flac:d22ec67199494a70e8d02538f04591f2
-toad1992-09-01d1t10.flac:e3f88419efcf420434065a333eb7166a
-toad1992-09-01d1t11.flac:f83030b36fbda4ee4fbb6d8bcb6bece6
-toad1992-09-01d1t12.flac:b3886ade4e640212a63c4a2404530d89
-toad1992-09-01d1t13.flac:5338b7fe3180ee0efa5a497f60eb6836
-toad1992-09-01d2t01.flac:ab48b1f096835acecf8f88e9f9c32b92
-toad1992-09-01d2t02.flac:db062a5a3f2ef7810025121a18cbe1d4
-toad1992-09-01d2t03.flac:9c6babbe708cee48162a687de2e0cecf
-toad1992-09-01d2t04.flac:81a86e71793f66ddd531b36cdd2e8783
-toad1992-09-01d2t05.flac:9a8e9fb08c17ce5bc83fac3e2028f345
-toad1992-09-01d2t06.flac:ebc571b65d964291cd59f7d4043ae348
-toad1992-09-01d2t07.flac:311ca5b45e0a88fa990072b4a3507e9b
-toad1992-09-01d2t08.flac:c346f073e304ba6eabed569b1221bde4
-toad1992-09-01d2t09.flac:939c3a1cff369bcbfce6b4ffc1c0011d
+Toad The Wet Sprocket
+September 01, 1992
+Live at the Lisner Auditorium
+Washington, D.C.
+
+TAPER:  unknown
+TRANSFER:  Ben Wallis (hurtstotalktoyou@yahoo.com)
+LINEAGE:  SBD>DAT>???>CAS>FLAC
+
+DISC ONE:
+01.  Nightingale Song
+02.  Jam
+03.  Before You Were Born
+04.  Butterflies
+05.  All I Want
+06.  Way Away
+07.  In My Ear
+08.  Torn
+09.  Chile
+10.  Brother
+11.  All In All
+12.  Corporal Brown (cuts out)
+13.  Hold Her Down
+
+DISC TWO:
+01.  Comes A Time (Glen solo)
+02.  Come Back Down
+03.  Stories I Tell
+04.  Spirit/Know Me
+05.  Walk On The Ocean
+06.  One Little Girl
+07.  Cinnamon Girl
+08.  Is It For Me
+09.  Fall Down
+10.  I Will Not Take These Things For Granted (aborted) 
+
+NOTES:  A Pioneer CT-W103 tape deck and Creative Labs Sound Blaster Audigy LS handled the transfer, while Adobe Audition and CD Wave were used to master the audio.  The cassette belonged to Michael Greene, so talk to him about detailed lineage.  Enjoy!

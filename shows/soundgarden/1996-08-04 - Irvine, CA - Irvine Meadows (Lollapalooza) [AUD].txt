@@ -1,14 +1,22 @@
-01 -intro-.flac:93c111b0fcff890f1a4c2d1e0c8fd1d9
-02 Spoonman.flac:afe475872890f3f11da7f589d475ab46
-03 Searching With My Good Eye Closed.flac:05040f8cbff191c32d141941ae482cae
-04 Let Me Drown.flac:dbe9f5fd465605b8fdf1077b94d698ef
-05 Burden In My Hand.flac:94b65e767c9ddb306b895754827c88a8
-06 Pretty Noose.flac:8290a697a397df9a63804e418b86b03d
-07 My Wave.flac:1420771a042ec11f61df4ff7d5204029
-08 Ty Cobb (with CJ Ramone).flac:2515202a340ee2604dd8167748ea2a10
-09 Fell On Black Days.flac:b7d0aeb755a5e9695ecc785f1233bb24
-10 Rusty Cage.flac:8fb9a164e20b4bb80f10542aef5a2e3b
-11 Black Hole Sun.flac:d2bb0d703ce2ab2314ee2f5e07dbb9f2
-12 Outshined.flac:a08ad1c1d83286bf7fe9f56f741fae97
-13 Rhinosaur.flac:641d23481c699882d6e6f746b878f48f
-14 Jesus Christ Pose.flac:4b97daac45c3f4d14a3750db7bddd495
+SOUNDGARDEN
+IRVINE,CA:IRVINE MEADOWS
+8/4/96
+"Lollapalooza"
+
+CSB -> D7
+DTC790 -> CDRW700 -> EAC -> FLAC
+
+01. -intro-
+02. Spoonman
+03. Searching With My Good Eye Closed
+04. Let Me Drown
+05. Burden In My Hand
+06. Pretty Noose
+07. My Wave
+08. Ty Cobb (with CJ Ramone)
+09. Fell On Black Days
+10. Rusty Cage
+11. Black Hole Sun
+12. Outshined 
+13. Rhinosaur
+14. Jesus Christ Pose

@@ -1,21 +1,37 @@
-primus2010-07-31.akg463-482.d2t10.flac:fe66dbe44834a7a0902dcbe661fa682b
-primus2010-07-31.akg463-482.d1t01.flac:dc309bc69ca41afbe132d8715f313cd1
-primus2010-07-31.akg463-482.d1t02.flac:1337842da8fa99b68c4168e06f6c30e2
-primus2010-07-31.akg463-482.d1t03.flac:aa847c66e15015903d40e2f8e4193545
-primus2010-07-31.akg463-482.d1t04.flac:0fa38382042f9a03a3bd2054ee05cd0f
-primus2010-07-31.akg463-482.d1t05.flac:b6f823065461a9d7d74f619c533b0e41
-primus2010-07-31.akg463-482.d1t06.flac:11ac63951f2932e88243f7e3669aacef
-primus2010-07-31.akg463-482.d1t07.flac:b2ab5bf81a78044691947017b40dff19
-primus2010-07-31.akg463-482.d1t08.flac:1eb85d73ac5fecc10d9f8891e0be21c4
-primus2010-07-31.akg463-482.d1t09.flac:d44ee02222e2c3c1a3337a1a5c40cc23
-primus2010-07-31.akg463-482.d1t10.flac:474c1d71d409a20b80789fadc5f0e343
-primus2010-07-31.akg463-482.d1t11.flac:cda1b72d8699cc305c42519afac8d734
-primus2010-07-31.akg463-482.d2t01.flac:c826f742de5887b81322b030e2313aa2
-primus2010-07-31.akg463-482.d2t02.flac:17e7b9585127df3fa1add1b7ea82c3e0
-primus2010-07-31.akg463-482.d2t03.flac:c1e7a03aa20949f74b57af42538cd0c1
-primus2010-07-31.akg463-482.d2t04.flac:b0255daa6ef83e762b2927a2cbad0e82
-primus2010-07-31.akg463-482.d2t05.flac:7e9fd70a43ae7e0eeaeca652ae045bfa
-primus2010-07-31.akg463-482.d2t06.flac:c1de3efaa467344b2e396bc345c09f8f
-primus2010-07-31.akg463-482.d2t07.flac:173948d2f8715538efba2899a315452b
-primus2010-07-31.akg463-482.d2t08.flac:3e1e606d749e52510a18b1803a1bbe78
-primus2010-07-31.akg463-482.d2t09.flac:f5f51638ce59542396a5147c59d3d089
+Primus
+2010-07-31
+Gathering of the Vibes
+Bridgeport, CT
+
+Source 1: AKG c460b/ck63(DIN,OTS) > V3 Digi > R-44(24/48)
+Source 2: AKG c460b/ck62(AB,3'Split,OTS) > Oade CM R-44(24/48)
+Wave > Vegas Pro 8.0(Mix,Resample,Dither 16/44.1) > Soundforge 9.0(Fade,Track) > Flac
+
+Taped, Transfered & Seeded by Ted Gakidis
+tgakidis@gmail.com
+
+Disc 1:
+01 intro music
+02 To Defy the Laws of Tradition
+03 In the Flesh
+04 Here Come the Bastards
+05 American Life
+06 Duchess & the Proverbial Mind Spread
+07 Coattails Of A Deadman
+08 Bob >
+09 Jerry was a Race Car Driver
+10 banter 1
+11 Over the Electric Grapevine
+
+Disc 2:
+01 Behind my Camel >
+02 Groundhog's Day
+03 Drums/Whamola Jam
+04 Eleven
+05 Frizzle Fry
+06 banter 2
+07 Harold of the Rocks
+08 crowd
+Encore:
+09 Over the Falls
+10 Those Damn Blue Collar Tweekers

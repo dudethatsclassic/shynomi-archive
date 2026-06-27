@@ -1,21 +1,38 @@
-soundgarden1994-07-28d1t01.flac:cd5830e6a088c165b654be8a56d910bd
-soundgarden1994-07-28d1t02.flac:18a01568f6fbc41af2db33367566f020
-soundgarden1994-07-28d1t03.flac:901426bd58c34bd1509bce023d8bdb0d
-soundgarden1994-07-28d1t04.flac:6307b45e11dd357b9ed7aa888701c9f3
-soundgarden1994-07-28d1t05.flac:77e16182406134be900a75880a796358
-soundgarden1994-07-28d1t06.flac:e8d625d1ab45746df87d85fb00d1542b
-soundgarden1994-07-28d1t07.flac:100f56e85a8e8b4d6d623f0a0f0e372c
-soundgarden1994-07-28d1t08.flac:4612468fa51dd70517c1b8624a21b5e8
-soundgarden1994-07-28d1t09.flac:f5e737ca784ec108ba88305af5359de6
-soundgarden1994-07-28d1t10.flac:66d97eab1a6cb4452c22d977712a42c1
-soundgarden1994-07-28d1t11.flac:d8ee2969bdac0c4b1f5cce72a7b54dd1
-soundgarden1994-07-28d1t12.flac:ad786c4252df24fc2a65effa19d93ba1
-soundgarden1994-07-28d1t13.flac:7310255cc019c17975186753a651ae6b
-soundgarden1994-07-28d1t14.flac:03a4b3f5b2fbd1cf24db24c0b782be4d
-soundgarden1994-07-28d2t01.flac:c0413a36416cd4795d569b0118c05af9
-soundgarden1994-07-28d2t02.flac:fae75096404f57203709559779f8f096
-soundgarden1994-07-28d2t03.flac:9192537bc5127ffe2acbe25a74250190
-soundgarden1994-07-28d2t04.flac:f4dae253323abe0c653b04c76426e877
-soundgarden1994-07-28d2t05.flac:02d4456905b53cc6705f879a704bbca2
-soundgarden1994-07-28d2t06.flac:2092da4678ed6defda184f04282e1f00
-soundgarden1994-07-28d2t07.flac:4e22f882baf0bc533c514827416f232b
+Soundgarden
+07-28-94
+Sunrise Musical Theatre
+Sunrise, FL
+
+Taper: DATfly
+Source: Sonic Studios (DSM-6P) > Denon DTR-80p > DAT-M 48khz
+Transfer: DA-20 > Monster coax > DiO 2496 > Soundforge 6.0 (resample to 44.1) > CDWave > FLAC
+
+Disc I
+01 Jesus Christ Pose
+02 Spoonman
+03 Let Me Drown
+04 Mailman
+05 The Day I Tried to Live
+06 My Wave
+07 Room a Thousand Years Wide
+08 Black Hole Sun
+09 Searching With My Good Eye Closed
+10 Superunknown
+11 Rusty Cage
+12 Half
+13 Mind Riot
+14 Fell On Black Days
+
+Disc II
+01 Drawing Flies
+02 Slaves and Bulldozers
+03 Kickstand
+04 Face Pollution
+05 Like Suicide
+06 Head Down
+07 Hands All Over
+
+Transfer by BLG
+compiled on 06-21-04
+
+
