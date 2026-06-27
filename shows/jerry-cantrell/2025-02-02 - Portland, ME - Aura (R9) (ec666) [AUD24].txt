@@ -1,0 +1,54 @@
+Jerry Cantrell
+Aura
+Portland Maine
+February 2nd 2025
+
+Taped & Artwork by EC666
+Recorded from the floor stage left about 40 feet back
+R9> Int. Mics> WAV 24/48>
+AudioDirector 365> EQ> Fades> WAV 24 Bit>
+Trader's Little Helper> Flac Level 8>
+
+Setlist:
+Disc One:
+01. Intro
+02. Psychotic Break
+03. Them Bones (Alice in Chains song)
+04. Vilified
+05. Afterglow
+06. Atone
+07. Off the Rails
+08. Cut You In
+09. My Song
+
+Disc Two:
+01. I Want Blood
+02. Had to Know
+03. Down in a Hole (Alice in Chains song)
+04. Angel Eyes
+05. Hate to Feel (Alice in Chains song)
+06. Would? (Alice in Chains song)
+07. Held Your Tongue
+08. Brighten
+09. Rooster (Alice in Chains song)
+
+01. Intro.flac:  tested ok (file is decodable without error).
+02. Psychotic Break.flac:  tested ok (file is decodable without error).
+03. Them Bones (Alice in Chains song).flac:  tested ok (file is decodable without error).
+04. Vilified.flac:  tested ok (file is decodable without error).
+05. Afterglow.flac:  tested ok (file is decodable without error).
+06. Atone.flac:  tested ok (file is decodable without error).
+07. Off the Rails.flac:  tested ok (file is decodable without error).
+08. Cut You In.flac:  tested ok (file is decodable without error).
+09. My Song.flac:  tested ok (file is decodable without error).
+10. I Want Blood.flac:  tested ok (file is decodable without error).
+11. Had to Know.flac:  tested ok (file is decodable without error).
+12. Down in a Hole (Alice in Chains song).flac:  tested ok (file is decodable without error).
+13. Angel Eyes.flac:  tested ok (file is decodable without error).
+14. Hate to Feel (Alice in Chains song).flac:  tested ok (file is decodable without error).
+15. Would (Alice in Chains song).flac:  tested ok (file is decodable without error).
+16. Held Your Tongue.flac:  tested ok (file is decodable without error).
+17. Brighten.flac:  tested ok (file is decodable without error).
+18. Rooster (Alice in Chains song).flac:  tested ok (file is decodable without error).
+
+No errors occurred.

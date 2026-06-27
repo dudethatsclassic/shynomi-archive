@@ -1,0 +1,39 @@
+JERRY CANTRELL
+November 23rd, 2003
+A Tribute To Buddy Arnold (M.A.P.)
+El Rey Theater
+Los Angeles, CA
+
+
+SOURCE:
+Core Sound Binaural (w/ rolloff) > Sony TCD-D8 [48 kHz]
+
+GENERATION:
+DAT(M) > WAV [16 bit/48 kHz] > WAV [16 bit/44.1 kHz] > FLAC
+
+LENGTH:
+16:32
+
+SETLIST:
+01. intro
+02. Dying Don't Have To Be A Way Of Life
+03. Brother
+04. Got Me Wrong
+
+
+TRANSFER:
+Sony PCM-M1 > 7-pin adapter > Audio Quest coax > D.A.L. CardDeluxe > Adobe Audition CC > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+
+
+CHECKSUM:
+e11f2f6c44ab2937f37bd76bbbc67001 *Jerry Cantrell 2003-11-23 DATM t01.flac
+a74d8a1a869f5c872802c4a0ea934604 *Jerry Cantrell 2003-11-23 DATM t02.flac
+d46ec6b9699eb5e55b9d06b03c0494db *Jerry Cantrell 2003-11-23 DATM t03.flac
+8fa9b06e6b46a666b5b31cc40d0ff9ba *Jerry Cantrell 2003-11-23 DATM t04.flac
+
+
+DO NOT ENCODE TO MP3 OR SELL
+
+
+
