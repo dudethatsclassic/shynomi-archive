@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Ottawa, ON",
       "venue": "Lebreton Flats",
-      "notes": "iPhone 11 \u00b7 palm0014",
+      "notes": "iPhone 11 · palm0014",
       "version": "AUD",
-      "format": "FLAC 24",
-      "textFile": "2024-07-10 - Ottawa, ON - Lebreton Flats (iPhone 11) (palm0014) [AUD24].txt"
+      "format": "FLAC 24"
     }
   ],
   "misc": []
