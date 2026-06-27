@@ -515,7 +515,8 @@ const ARTIST_DATA = {
       "venue": "Salt Shed",
       "notes": "Sony PCM-A10 \u00b7 auger3d",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-02-26 - Chicago, IL - Salt Shed (Sony PCM-A10) (auger3d) [AUD24].txt"
     }
   ],
   "misc": []

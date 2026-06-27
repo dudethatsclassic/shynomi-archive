@@ -3832,7 +3832,8 @@ const ARTIST_DATA = {
       "venue": "Arizona Financial Theater",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-08-15 - Phoenix, AZ - Arizona Financial Theater (unk) [AUD].txt"
     },
     {
       "year": 2024,
