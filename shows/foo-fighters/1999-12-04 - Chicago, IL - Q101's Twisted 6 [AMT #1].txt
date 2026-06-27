@@ -10,7 +10,7 @@ TRANSFER:
 JVC S9600 SVHS > DVD Decrypter 3.5.4.0 > Traders Little Helper
 
 GENERATION:
-Hi8(M) > VHS(1) [NTSC] > DVDR(1) > AC3[384kbps] > WAV [48hz] > WAV [44.1khz] > FLAC [Level 8]
+Hi8(M) > VHS(1) [NTSC] > DVDR(1) > AC3[384kbps] > WAV [48hz] > FLAC [Level 8]
 
 LENGTH:
 55:52
@@ -31,20 +31,7 @@ TRACKS:
 13. This Is A Call
 
 MD5 FINGERPRINTS:
-131e84ce92c9d0138fd9e3cd87c8134c *FooFighters1999-12-04t01.flac
-b670baf144f6615c3341b37ca425a969 *FooFighters1999-12-04t02.flac
-6d56a25ebb29f367e560601ca4439a8b *FooFighters1999-12-04t03.flac
-594ba642bf232421f7ddcdf9fe0a4b4b *FooFighters1999-12-04t04.flac
-1f6adcda435ab58dfae513f069104503 *FooFighters1999-12-04t05.flac
-db337ee6be9987638257ecadde5ff037 *FooFighters1999-12-04t06.flac
-edfb875ff243a68ac38de3888ce5fa0e *FooFighters1999-12-04t07.flac
-439ebab5266ac7ccca6038d4b539f355 *FooFighters1999-12-04t08.flac
-8432114a8f38acbbde7f66e98c2fc05a *FooFighters1999-12-04t09.flac
-89ed7096fd97fe5d8aa921d348f58d76 *FooFighters1999-12-04t10.flac
-a9f4bab7867142f67a2c19b2f5ae0ebc *FooFighters1999-12-04t11.flac
-7cf08b0495db754781cfe59716098513 *FooFighters1999-12-04t12.flac
-b8a15315e80ac716eb5f2b5c2bb2db2e *FooFighters1999-12-04t13.flac
-34bb65e9b9e2ccaa2ae8143f1a366d2e *FooFighters1999-12-04t14.flac
+8cec24a7c5b4a1acd97260891d05a207 *FooFighters1999-12-04_48khz.flac
 
 TRANSFERRED BY:
 Slipkid69

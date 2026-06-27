@@ -2069,7 +2069,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 jeftak \u00b7 krw_co transfer",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1991-07-26 - Mountainview, CA - Shoreline Amphitheatre - ANA(M) (jeftak) (krw_co transfer) [AUD24].txt"
+      "textFile": "1991-07-26 - Mountain View, CA - Shoreline Amphitheatre [AUD].txt"
     },
     {
       "year": 1991,
@@ -2307,7 +2307,7 @@ const ARTIST_DATA = {
       "notes": "KTS 569",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "1991-09-26 - Honolulu, HI - Aloha Towers - Last Fixx (KTS 569) [Silver].txt"
+      "textFile": "1991-09-26 - Honolulu, HI - Aloha Tower - Last Fixx [Silver].txt"
     },
     {
       "year": 1991,

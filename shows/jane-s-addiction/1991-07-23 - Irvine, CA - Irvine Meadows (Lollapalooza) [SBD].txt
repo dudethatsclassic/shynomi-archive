@@ -2,13 +2,10 @@ shntool 3.0.4
 Copyright (C) 2000-2007 Jason Jordan <shnutils@freeshell.org>
 
     length     expanded size    cdr  WAVE problems  fmt   ratio  filename
-     3:47.20       40089884 B   ---   --   ---xx   flac  0.5423  01 - Up The Beach.flac
-     4:07.61       43714316 B   ---   --   ---xx   flac  0.5900  02 - Whores.flac
-     3:21.08       35475260 B   ---   --   ---xx   flac  0.5589  03 - Standing In The Shower... Thinking.flac
-     3:12.20       33915884 B   ---   --   ---xx   flac  0.5267  04 - Ain't No Right.flac
-     2:14.17       23677628 B   ---   --   ---xx   flac  0.4069  05 - Vote (Perry banter).flac
-    11:50.06      125258156 B   ---   --   ---xx   flac  0.5488  06 - Three Days.flac
-     4:47.33       50704460 B   ---   --   ---xx   flac  0.5575  07 - Been Caught Stealing.flac
-     6:54.21       73079036 B   ---   --   ---xx   flac  0.5081  08 - Don't Call Me Nigger, Whitey.flac
-     3:39.70       38796284 B   ---   --   ---xx   flac  0.5845  09 - 1 Percent.flac
-    43:54.31      464710908 B                            0.5416  (9 files)
+     9:53.00      104605244 B   ---   --   ---xx   flac  0.5302  01 - Ted, Just Admit It..flac
+    10:29.22      111007388 B   ---   --   ---xx   flac  0.5069  02 - Then She Did..flac
+     4:53.29       51753452 B   ---   --   ---xx   flac  0.5600  03 - Mountain Song.flac
+     8:12.03       86795900 B   ---   --   ---xx   flac  0.5054  04 - Ocean Size.flac
+     6:16.25       66385244 B   ---   --   ---xx   flac  0.4779  05 - Classic Girl.flac
+     4:28.09       47296412 B   ---   --   ---xx   flac  0.5581  06 - Stop!.flac
+    44:12.13      467843640 B                            0.5188  (6 files)

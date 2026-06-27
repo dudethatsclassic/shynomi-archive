@@ -1,0 +1,15 @@
+Foo Fighters - 1995-05-18 San Francisco, Slim's
+
+Audience Cassette Master (Sony D-6 & Sonic Studio mics) -> Nakamichi 682ZX -> Sony PCM R-300 DAT (d/a conversion only) -> e-mu 0404 -> Sonar LE 8.5 -> Nero (level boost) -> cd wav -> flac level 8
+
+01 intro
+02 Floaty
+03 This Is A Call
+04 Butterflies
+05 I'll Stick Around
+06 Big Me
+07 Wattershed
+08 For The Cows
+09 Alone + Easy Target
+10 Exhausted
+

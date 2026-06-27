@@ -1,0 +1,14 @@
+mike watt, foo fighters
+king cat theater, seattle wa
+may 11, 1995
+
+recording gear:
+Custom Mics > D7 DAT Master @ 16bit/48kHz
+
+lineage:
+DAT Master > My DAT
+
+processing:
+my DAT > tascam da20 > jb3 > adobe audition > cdwav > tlh flac 8
+
+these are 16bit/48kHz flac files

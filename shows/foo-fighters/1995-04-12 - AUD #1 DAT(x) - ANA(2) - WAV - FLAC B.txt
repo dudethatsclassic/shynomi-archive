@@ -1,0 +1,45 @@
+Foo Fighters
+April 12th, 1995
+Gibson's
+Phoenix, AZ
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-3 > Monster RCA Cable > Creative Soundblaster Audigy SE > Adobe Audition 2.0 > CD Wave > FLAC Frontend 1.7.1
+
+GENERATION:
+DAT(x) > ANA(2) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+41:30
+
+TRACKS:
+01. Winnebago
+02. This is a Call
+03. Floaty
+04. I'll Stick Around
+05. Big Me
+06. Wattershed
+07. For All the Cows
+08. Alone + Easy Target
+09. Podunk
+10. Exhausted
+
+MD5 FINGERPRINTS:
+97f50ad1e971c41459e8e9f549da81b0 *FooFighters1995-04-12t01.flac
+abcc28d00939b72ae382041e7d9c2f61 *FooFighters1995-04-12t02.flac
+f92e16ed27a8fc03d9a384d52eab6cdc *FooFighters1995-04-12t03.flac
+90c130e4bf9d9ce2933d00f5403e185f *FooFighters1995-04-12t04.flac
+70c0065e505e87b90faba29ef47d222c *FooFighters1995-04-12t05.flac
+ecc3a58f0d67f1032fe568aa01fe2c87 *FooFighters1995-04-12t06.flac
+56eccb9b7aed71fdf485f26ad178fa24 *FooFighters1995-04-12t07.flac
+1a51eeb3562914951f02a2009f25398c *FooFighters1995-04-12t08.flac
+2c9959b011811cdb135be94fde5115af *FooFighters1995-04-12t09.flac
+a8bde237bb2d7c6cf032dd4a57b31681 *FooFighters1995-04-12t10.flac
+
+TRANSFERRED BY:
+Brad Collins
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

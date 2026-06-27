@@ -10,7 +10,7 @@ TRANSFER:
 Besweet 1.4 w/ Belight 0.2.1.0 > Adobe Audition 3 > CDWave 1.98 > Traders Little Helper 1.4.1
 
 GENERATION:
-Master > DVDR(1) > AC3 [256kbps] > WAV [48khz] > WAV [44.1khz] > FLAC [Level 8]
+Master > DVDR(1) > AC3 [256kbps] > WAV [48khz] > FLAC [Level 8]
 
 LENGTH:
 65:35
@@ -30,18 +30,7 @@ TRACKS:
 12. The Pretender 
 
 MD5 FINGERPRINTS:
-e414b650bae76ef33ae129632a1bdf76 *FooFighters2008-10-26t01.flac
-ddcb03f298e70869fae6a3677d34c3d1 *FooFighters2008-10-26t02.flac
-f6f025e4ead89e261c1eead1061d9bc9 *FooFighters2008-10-26t03.flac
-df2e623d8377273f8e8b8681d3869bb4 *FooFighters2008-10-26t04.flac
-b1195193fd8211062287ce8e82dde8f3 *FooFighters2008-10-26t05.flac
-2e93f922319557e55c1859e76a99a8bd *FooFighters2008-10-26t06.flac
-efbc64583c1a0ed163f1a7809ae08ec4 *FooFighters2008-10-26t07.flac
-8278c768234e5b0a11adb2d5ef281c84 *FooFighters2008-10-26t08.flac
-3a676e2add19a4c381fa7600c12d0650 *FooFighters2008-10-26t09.flac
-6c89bc9b3c3900c01f0b96ac8dac2d34 *FooFighters2008-10-26t10.flac
-ec013ba548132ca1e12c797ee895ac3b *FooFighters2008-10-26t11.flac
-477dcf618c5837267e9a0d7a6a057228 *FooFighters2008-10-26t12.flac
+b970565fe2ca003dc0d654aa0caefff5 *FooFighters2008-10-26_48khz.flac
 
 EXTRACTED BY:
 Simon Kilmore

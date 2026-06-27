@@ -1,26 +1,34 @@
-Foo Fighters
-05/13/95
-La Luna, Portland, OR
+FOO FIGHTERS
+May 13, 1998
+Lupo's Heartbreak Hotel
+Providence, RI
 
-Source: Audio Technica Lapel Mic -> Unknown Aiwa Deck
-Generation: ANA(M) -> DAT(1) -> Normalize -> FLAC
-Notes: I borrowed a bunch of masters from the taper several years ago, including this gem. Originally I transfered the analog stuff using a Kenwood CT1050 -> Tascam DA-20MKII. About a year ago I transferred the DAT to FLAC and have been meaning to torrent it and finally had the chance. The digital transfer was done with the same Tascam DA-20MKII -> Echo Mia midi -> Adobe Audition. I removed the loud pops from the tape flip and normalized the whole thing before downsampling from 16/48Khz to 16/44.1Khz. Split the whole thing up in CD WAVE.
+Source: AKG 460 + CK63 > Beyer MV-100 > Sony TCD-D8
+Taper: MH
+Location: balcony, mics under seat
+Lineage: DAT(M) > unknown generation DAT clone > CDR(1) > FLAC
+Transfer: Tascam DA-20mkII > Sony CDR-W33 > EAC
+Edits/EQ: none
+Notes: none
 
-Setlist:
+01 - My Hero
+02 - My Poor Brain
+03 - Monkey Wrench
+04 - Alone+Easy Target
+05 - For All the Cows
+06 - See You
+07 - Gas Chamber
+08 - Damn You Damn Everyone
+09 - This is a Call
+10 - Up in Arms
+11 - Weenie Beenie
+12 - Hey Johnny Park!
+13 - Everlong
+14 - New Way Home
+15 - cheers
+16 - Enough Space
+17 - Requiem
+18 - I'll Stick Around
 
-Intro
-Winnebago
-This Is A Call
-Butterflies
-I'll Stick Around
-Big Me
-Wattershed
-For All The Cows
-Alone + Easy Target
-Exhausted
 
-All transfering done by Jim Hirte.
-
-Please do not alter any of the files, or post in lesser form (MP3, etc).
-
-Enjoy!
+Compiled April 2020 by CPS

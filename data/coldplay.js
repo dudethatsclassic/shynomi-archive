@@ -2183,7 +2183,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "WEB",
       "format": "SHN",
-      "textFile": "2002-08-18 - Sydney, Australia - Triple J Interviews [WEB].txt"
+      "textFile": "2002-08-18 - San Francisco, CA - Bimbos 365 Club [AUD].txt"
     },
     {
       "year": 2002,
@@ -3748,7 +3748,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2003-05-30 - Palo Alto, CA - Icon Supperclub [FM].txt"
+      "textFile": "2003-05-30 - Mountain View, CA - Shoreline Amphitheatre [AUD].txt"
     },
     {
       "year": 2003,
@@ -6435,8 +6435,7 @@ const ARTIST_DATA = {
       "venue": "Bank Atlantic Centre",
       "notes": "Schoeps CCM4 \u00b7 jon duchin",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2008-11-09 - Ft. Lauderdale, FL - Bank Atlantic Centre (Schoeps CCM4) (jon duchin) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2008,

@@ -3,7 +3,7 @@ September 8th, 2014
 Maida Vale Studios (Maida Vale 3)
 London, United Kingdom
 
-SOURCE (SBD #1):
+SOURCE (SBD #1b):
 soundboard > unknown
 
 TRANSFER:
@@ -13,28 +13,25 @@ GENERATION:
 FM > WAV [44.1khz] > FLAC [Level 8]
 
 LENGTH:
-31:46
+19:49
 
 NOTES:
-- Broadcast November 5th, 2014 on the Zane Lowe show, BBC Radio 1.
+- Broadcast November 6th, 2014 on the Jo Whiley Show, BBC Radio 2.
+- The word 'Fuck' is edited out of 'Something From Nothing.
 
 TRACKS:
-01. interview 1
-02. The Feast And The Famine
-03. interview 2
-04. Something From Nothing
-05. interview 3
-06. Congregation
-07. interview 4
+01. intro
+02. Something From Nothing
+03. interview
+04. Outside
+05. interview
 
 MD5 FINGERPRINTS:
-a7726b4da691ad9c51f3d9ec038f0195 *FooFighters2014-09-08t01.flac
-4efd97ca4013f6669aa2c6edf21a0108 *FooFighters2014-09-08t02.flac
-ecbd9a6c14b4b60beb9657529b081d63 *FooFighters2014-09-08t03.flac
-85005aa4b9f4ae6788e12ec2c05e1a35 *FooFighters2014-09-08t04.flac
-af86086a7f4a07e23f469eff92ea576e *FooFighters2014-09-08t05.flac
-d9e5f20a82a261c578a542722b93078d *FooFighters2014-09-08t06.flac
-7b93aa042667a88fe21185e3d1306d7f *FooFighters2014-09-08t07.flac
+6d787fe41e20602bc27bfcbef8f2b7e3 *FooFighters2014-09-08t01.flac
+d0564ad04e527bc40b7755b77c26973c *FooFighters2014-09-08t02.flac
+6d18b81cc2f9a827f3e77ade1cfecea5 *FooFighters2014-09-08t03.flac
+99fbb8916cba72bb1522156777a3db77 *FooFighters2014-09-08t04.flac
+f31029dc420c869ea6693292d583e4e1 *FooFighters2014-09-08t05.flac
 
 RECORDED AND TRANSFERRED BY:
 FooFightersLive.com

@@ -7,10 +7,10 @@ SOURCE:
 built-in > SONY CCD-F55E (8MM)
 
 TRANSFER:
-Sony DCR-TRV240E > IEEE 1394 > Pinnacle MovieBox 510-USB > Adobe Premiere Pro 2.0 > TMPGEnc XPress 3.0 > Adobe Audition 2.0 > CD Wave 1.96.1 > FLAC Frontend 1.7.1
+Sony DCR-TRV240E > IEEE 1394 > Pinnacle MovieBox 510-USB > Adobe Premiere Pro 2.0 > TMPGEnc XPress 3.0 > Adobe Audition 2.0 > FLAC Frontend 1.7.1
 
 GENERATION:
-Video8(M) > AVI [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+Video8(M) > AVI [PCM] > WAV [48kHz] > FLAC [Level 8]
 
 LENGTH:
 62:48
@@ -35,23 +35,7 @@ TRACKS:
 17. New Way Home
 
 MD5 FINGERPRINTS:
-20ed3dad1ca1444c19981d687042b6b9 *foofighters1997-12-01t01.flac
-5d9208296082446b883722637d303531 *foofighters1997-12-01t02.flac
-4c539ebf2d15c58423a2599eb2df5228 *foofighters1997-12-01t03.flac
-2fb643dd1113e576c00e27ee43747437 *foofighters1997-12-01t04.flac
-7663d1a2f0b4907c6ee20d17d316c372 *foofighters1997-12-01t05.flac
-5b5d8b49bd2308ccb88be10c8dfe80b6 *foofighters1997-12-01t06.flac
-7e265a6939c2eecfbcf3f98f8af7c6b7 *foofighters1997-12-01t07.flac
-5ae7fad5d2d67ad48683b4965e64ad7f *foofighters1997-12-01t08.flac
-9ce920fb5f795e4f303782fc0db21f90 *foofighters1997-12-01t09.flac
-170ccd908c3f45574d03a962953b019a *foofighters1997-12-01t10.flac
-33a13de5e7cd0e112f466a924e5d2259 *foofighters1997-12-01t11.flac
-b3f1898cbc4360a45d975c8f7c3e08ce *foofighters1997-12-01t12.flac
-90ce1c420e097deb2bf1fa1e6e9c42f0 *foofighters1997-12-01t13.flac
-c67009fde725798c5cc3467d117282a6 *foofighters1997-12-01t14.flac
-828447a42e979e8c0c4c01d61454ddc7 *foofighters1997-12-01t15.flac
-82975025fe344b7e14fe9986ec1c8341 *foofighters1997-12-01t16.flac
-47da458fa1076533edd980e7a9c33231 *foofighters1997-12-01t17.flac
+9f3161aba0f7d1c18e5fd8ec6adfbc00 *foofighters1997-12-01_48kHz.flac
 
 TRANSFERRED BY:
 Miki Johansen

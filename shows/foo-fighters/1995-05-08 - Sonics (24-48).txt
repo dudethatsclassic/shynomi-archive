@@ -1,0 +1,14 @@
+foo fighters
+first avenue, minneapolis mn
+may 8, 1995
+
+recording gear:
+Sonics > unknown DAT deck
+
+lineage:
+DAT Master > my cassette
+
+processing:
+my cassette > nak rx505 > edirol r4 > adobe audition > cdwav > tlh flac 8
+
+these are 24bit/48kHz flac files

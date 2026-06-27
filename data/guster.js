@@ -6427,7 +6427,7 @@ const ARTIST_DATA = {
       "notes": "Gefell M200s \u00b7 keith",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-07-25 - Bridgeport, CT - Seaside Park (TLM-170) (scott bernstein) [AUD24] .txt"
+      "textFile": "2009-07-25 - Bridgeport, CT - Seaside Park (Gefell M200s) (keith) [AUD].txt"
     },
     {
       "year": 2009,
@@ -7883,7 +7883,7 @@ const ARTIST_DATA = {
       "notes": "Early show \u00b7 CSB \u00b7 jeffrey houser",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2013-12-01 - Brooklyn, NY - Brooklyn Bowl (Evening show) (KM201s) (dave mallick) [AUD24].txt"
+      "textFile": "2013-12-01 - Brooklyn, NY - Brooklyn Bowl (Early show) (CSB) (jeffrey houser) [AUD].txt"
     },
     {
       "year": 2013,

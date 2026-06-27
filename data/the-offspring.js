@@ -242,7 +242,7 @@ const ARTIST_DATA = {
       "notes": "Glastonbury",
       "version": "PRO",
       "format": "DVD",
-      "textFile": "1995-06-23 - Pilton, England - Worthy Farm - Glastonbury Festival (Proshot) [DVD].txt"
+      "textFile": "1995-06-23 - Pilton, England - Worthy Farm - Glastonbury Festival (Audience) [DVD].txt"
     },
     {
       "year": 1995,

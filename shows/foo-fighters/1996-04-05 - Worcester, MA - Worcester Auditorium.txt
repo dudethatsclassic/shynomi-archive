@@ -1,60 +1,66 @@
-If you or anyone else you know has ever taped the Foo Fighters please contact me or one of the other guys at: www.foofighterslive.com
-
 Foo Fighters
-05 April, 1996
+April 5th, 1996
 Worcester Auditorium
 Worcester, MA
 
-Taped by: Anonymous
-
-SETLIST: (AUD#2)
---------------
-01.Enough Space (cuts in)
-02.This Is A Call
-03.Winnebago
-04.Wattershed
-05.For All The Cows
-06.Weenie Beenie
-07.Butterflies
-08.Big Me
-09.My Poor Brain
-10.Gas Chamber 
-11.Up In Arms
-12.Good Grief
-13.Podunk
-14.How I Miss You
-15.Alone + Easy Target
-16.I'll Stick Around (cut)
-17.Floaty
-18.Down In The Park 
-19.Exhausted 
-
-
-GEAR INFO
-----------
-Aiwa CM-30->AIWA JS-345
-
-
-GENERATION INFO (AUD#2)
-------------------------
-ANA(M)->WAV[48khz]->WAV[44.1khz]->FLAC
-
-
+SOURCE (AUD #3):
+Core Sound Binaural > unknown (DAT)
 
 TRANSFER:
----------------
-Nakamichi DR-3->Monster RCA Cable->InPort->Adobe Audition 3->CDWave->Traders Little Helper
+Tascam DA-20MKII > Monster SPDIF Coaxial Cable > MAudio Audiophile 2496 > Audacity > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+DAT(1) [DDC] > WAV [48khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+80:15
 
 NOTES:
---------------
-This was the tapers first time recording a show so I think it came out great all things considered. He did not want to be 
-credited but did want it shared. There are spots throughout on the master tapes where the tapes had degenerated due to the way
-they were stored over the years. That's where the warbling comes from in spots of the show. For the most part however it sounds
-great and it's always nice to hear a "new" Foo Fighters source. Please thank the taper for sharing this. I haven't been able 
-to contact any of the other tapers from this show as they have stopped trading or passed away. If you have any information on
-where we could locate other tapers or you have a low gen copy of another source from this show please contact me or one of the 
-other guys at: www.foofighterslive.com Enjoy!!
+- Petra Haden sings lead vocals on 'Floaty'.
 
-Have you or anyone else you know ever taped the Foo Fighters? Do you have any low generation/rare Foo Fighters material that 
-you think might be needed? If so please contact me or one of the other guys at: www.foofighterslive.com
+TRACKS:
+01. Enough Space 
+02. This Is A Call
+03. Winnebago
+04. Wattershed
+05. For All The Cows
+06. Weenie Beenie
+07. Butterflies
+08. Big Me
+09. My Poor Brain
+10. Gas Chamber
+11. Up In Arms
+12. Good Grief
+13. Podunk
+14. How I Miss You
+15. Alone + Easy Target
+16. I'll Stick Around
+17. Floaty
+18. Down In The Park
+19. Exhausted
 
+MD5 FINGERPRINTS:
+a236330d7ada0941d3d1403a0bf1549a *01. Enough Space.flac
+7202aeee2d755993be7bf7d723dcfbf4 *02. This Is A Call.flac
+3ba55df0d2d04d8efbc0d58291d32d8a *03. Winnebago.flac
+c75631a3e54aa193b2a47d5d08f9a3c3 *04. Wattershed.flac
+ce0a3ece8a1fc4feca13dd2dd5b08346 *05. For All The Cows.flac
+e9b9c89f9eb735eb2c968c5126a86ee6 *06. Weenie Beenie.flac
+dc17d89ba1ea333c1920d17c42fbe5ba *07. Butterflies.flac
+df6978063de603856b9d870959cc1241 *08. Big Me.flac
+7c9cd9d557655a1a247c8b89af9871d6 *09. My Poor Brain.flac
+f155be46ee177dcbaaa857e26193766a *10. Gas Chamber.flac
+148776d4550d6b5e8d3bf40f544b80eb *11. Up In Arms.flac
+de96701d8517bd7749258fd4d73da828 *12. Good Grief.flac
+13c7528a30cdc27fcc4dd8f87c86b930 *13. Podunk.flac
+fdb36c4d93e7b2f3b39fb12bbe431e01 *14. How I Miss You.flac
+5857554f0523f2d448b7610ac95b2d1a *15. Alone + Easy Target.flac
+7b14e02af45328ecb6c2ee38a05f5fe8 *16. I'll Stick Around.flac
+8ee6b37a2ae3264a1fbbba6a615eb493 *17. Floaty.flac
+018138341bc69a2f8e553ab4e5719e06 *18. Down In The Park.flac
+fba030022c39845afb591c306b34d543 *19. Exhausted.flac
+
+TRANSFERRED BY:
+Brad Collins 
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

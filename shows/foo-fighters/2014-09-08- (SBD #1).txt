@@ -1,0 +1,42 @@
+Foo Fighters
+September 8th, 2014
+Maida Vale Studios (Maida Vale 3)
+London, United Kingdom
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+Roof mounted aerial > JVC UX-G3 > Creative Sound Blaster Audigy SE > Adobe Audition CS6 > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+FM > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+31:46
+
+NOTES:
+- Broadcast November 5th, 2014 on the Zane Lowe show, BBC Radio 1.
+
+TRACKS:
+01. interview 1
+02. The Feast And The Famine
+03. interview 2
+04. Something From Nothing
+05. interview 3
+06. Congregation
+07. interview 4
+
+MD5 FINGERPRINTS:
+a7726b4da691ad9c51f3d9ec038f0195 *FooFighters2014-09-08t01.flac
+4efd97ca4013f6669aa2c6edf21a0108 *FooFighters2014-09-08t02.flac
+ecbd9a6c14b4b60beb9657529b081d63 *FooFighters2014-09-08t03.flac
+85005aa4b9f4ae6788e12ec2c05e1a35 *FooFighters2014-09-08t04.flac
+af86086a7f4a07e23f469eff92ea576e *FooFighters2014-09-08t05.flac
+d9e5f20a82a261c578a542722b93078d *FooFighters2014-09-08t06.flac
+7b93aa042667a88fe21185e3d1306d7f *FooFighters2014-09-08t07.flac
+
+RECORDED AND TRANSFERRED BY:
+FooFightersLive.com
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

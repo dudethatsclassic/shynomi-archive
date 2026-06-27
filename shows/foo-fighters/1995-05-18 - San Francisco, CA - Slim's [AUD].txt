@@ -3,43 +3,44 @@ May 18th, 1995
 Slim's
 San Francisco, CA
 
-SOURCE (AUD #2):
+SOURCE (AUD #3):
 Sonic Studios > Sony WM-D6 (cassette)
 
 TRANSFER:
-Nakamichi 682ZX > Sony PCM R-300 > e-mu 0404 >  Sonar LE 8.5  > Adobe Audition CS6 > CDWave 1.98 > Trader's Little Helper 2.7.0
+unknown > Adobe Audition CS6 > CDWave 1.98 > Trader's Little Helper 2.7.0
 
 GENERATION:
-ANA(M) > WAV [44.1khz] > FLAC [Level 8]
+CD(M) > WAV [44.1khz] > FLAC [Level 8]
 
 LENGTH:
-37:33
+36:58
+
+NOTES:
+- Unofficial 'Pocketwatch' CD. Show is errornously listed as May 8th, 1995 show on artwork. 
 
 TRACKS:
-01. intro
-02. Floaty
-03. This is a Call
-04. Butterflies
-05. I'll Stick Around
-06. Big Me
-07. Wattershed
-08. For All The Cows
-09. Alone + Easy Target 
-10. Exhausted
+01. Floaty (fades in)
+02. This is a Call
+03. Butterflies
+04. I'll Stick Around
+05. Big Me
+06. Wattershed
+07. For All The Cows
+08. Alone + Easy Target 
+09. Exhausted
 
 MD5 FINGERPRINTS:
-f30738bc0d616eb7cf831c6171334cdd *01. intro.flac
-2a00b940ad1fbae91682a6857b51c728 *02. Floaty.flac
-1655a2b2691f85ca95375bfb5c7ae2a2 *03. This Is A Call.flac
-436f14d1a0a9704c92f361b352a28e60 *04. Butterflies.flac
-d7e1c9af3e94da832bcb73f246a558c5 *05. I'll Stick Around.flac
-6e1b8de5f021fc7698a4a57bd17274e1 *06. Big Me.flac
-f8084ddf2c31a6d2c2ba5145987db07c *07. Wattershed.flac
-e148a0d97006b6731a267fd36dc6e9b1 *08. For All The Cows.flac
-c16747e16e513371051a35c09a9f668d *09. Alone + Easy Target.flac
-ef0a3d60661700610ebdcff07157edbb *10. Exhausted.flac
+107e49884df426d65a45587c7a70aa9d *01. Floaty.flac
+5fa0fd854c5edb4fae66d02abef7beac *02. This Is A Call.flac
+c878402e661b403491f2542b050e498b *03. Butterflies.flac
+418b5751aadc0056eb2a037619428e88 *04. I'll Stick Around.flac
+f418b5b88215a25e8430961160bb79f1 *05. Big Me.flac
+e59f04dc62c1bd602bcbf0b8203da040 *06. Wattershed.flac
+9466533645db1472bd3d0cdcc5d8c7d5 *07. For All The Cows.flac
+27bcb03b651d16ad24a7fc6e10819c03 *08. Alone + Easy Target.flac
+216d12f82b53c55519a2f20ea353d1b4 *09. Exhausted.flac
 
-TRANSFERRED BY:
-unknown
+EXTRACTED BY:
+Unknown
 
 **PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

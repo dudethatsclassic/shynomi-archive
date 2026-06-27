@@ -3282,7 +3282,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK41s \u00b7 darktrain",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-08-08 - Nashville, TN - Ryman Auditorium [AUD].txt"
+      "textFile": "2015-08-08 Alice in Chains.txt"
     },
     {
       "year": 2016,
@@ -3310,7 +3310,7 @@ const ARTIST_DATA = {
       "notes": "Zoom H1 \u00b7 besley",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2016-07-22 - Verona, NY - Turning Stone Casino [AUD].txt"
+      "textFile": "2016-07-22 Alice in Chains.txt"
     },
     {
       "year": 2016,

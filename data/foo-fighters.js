@@ -176,7 +176,8 @@ const ARTIST_DATA = {
       "venue": "Gibson's",
       "notes": "25th Anniversary",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-04-12 - AUD #1 DAT(x) - ANA(2) - WAV - FLAC B.txt"
     },
     {
       "year": 1995,
@@ -497,7 +498,8 @@ const ARTIST_DATA = {
       "venue": "Lupo's Heartbreak Hotel",
       "notes": "",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-04-29 - Providence, RI - Lupos [AUD].txt"
     },
     {
       "year": 1995,
@@ -511,7 +513,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-04-29 - Providence, RI - Lupos [AUD].txt"
+      "textFile": "1995-04-29 [AUD].txt"
     },
     {
       "year": 1995,
@@ -595,7 +597,7 @@ const ARTIST_DATA = {
       "notes": "Sony ECM-909a",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1995-05-02 - Toronto, Ontario - The Opera House - AUD(M) (loughney transfer) [AUD].txt"
+      "textFile": "1995-05-02 - Toronto - Opera House [AUD].txt"
     },
     {
       "year": 1995,
@@ -608,7 +610,8 @@ const ARTIST_DATA = {
       "venue": "Opera House",
       "notes": "",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-02 - Toronto, Ontario - The Opera House - AUD(M) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1995,
@@ -692,7 +695,7 @@ const ARTIST_DATA = {
       "notes": "Sonic Studios",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1995-05-08 - Minneapolis, MN - First Avenue [AUD #1].txt"
+      "textFile": "1995-05-08 - Sonics (24-48).txt"
     },
     {
       "year": 1995,
@@ -705,7 +708,8 @@ const ARTIST_DATA = {
       "venue": "First Avenue",
       "notes": "Sonics",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1995-05-08 - Minneapolis, MN - First Avenue [AUD #1].txt"
     },
     {
       "year": 1995,
@@ -733,7 +737,7 @@ const ARTIST_DATA = {
       "notes": "Primadonna 095",
       "version": "AUD #1a",
       "format": "FLAC",
-      "textFile": "1995-05-11 - Seattle, WA - King Cat Theater.txt"
+      "textFile": "1995-05-11 - Seattle, WA - King Performance Center - Pocketwatch Demos [AUD #1a].txt"
     },
     {
       "year": 1995,
@@ -746,7 +750,8 @@ const ARTIST_DATA = {
       "venue": "King Performance Center *Pocketwatch Demos",
       "notes": "Custom mics",
       "version": "AUD #1b",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-11 - Seattle, WA - King Performance Center - Pocketwatch Demos [AUD #1b].txt"
     },
     {
       "year": 1995,
@@ -759,7 +764,8 @@ const ARTIST_DATA = {
       "venue": "King Performance Center *Pocketwatch Demos",
       "notes": "",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-11 - Seattle, WA - King Cat Theater.txt"
     },
     {
       "year": 1995,
@@ -772,7 +778,8 @@ const ARTIST_DATA = {
       "venue": "King Performance Center *Pocketwatch Demos",
       "notes": "Custom mics",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-11 - Seattle, WA - King Cat Theater.txt"
     },
     {
       "year": 1995,
@@ -785,7 +792,8 @@ const ARTIST_DATA = {
       "venue": "King Performance Center *Pocketwatch Demos",
       "notes": "ANA(x) \u00b7 unk",
       "version": "AUD #3",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-11 - Seattle, WA - King Cat Theater.txt"
     },
     {
       "year": 1995,
@@ -798,7 +806,8 @@ const ARTIST_DATA = {
       "venue": "King Performance Center *Pocketwatch Demos",
       "notes": "simon kilmore",
       "version": "AMT #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-11 - Seattle, WA - King Performance Center - Pocketwatch Demos [AMT #1].txt"
     },
     {
       "year": 1995,
@@ -811,7 +820,8 @@ const ARTIST_DATA = {
       "venue": "King Performance Center *Pocketwatch Demos",
       "notes": "pl",
       "version": "AMT #1",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1995-05-11 - Seattle, WA - King Cat Theater.txt"
     },
     {
       "year": 1995,
@@ -824,7 +834,8 @@ const ARTIST_DATA = {
       "venue": "King Performance Center *Pocketwatch Demos",
       "notes": "jamhead64",
       "version": "AMT #2",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1995-05-11 - Seattle, WA - King Cat Theater.txt"
     },
     {
       "year": 1995,
@@ -852,7 +863,7 @@ const ARTIST_DATA = {
       "notes": "AT Lapel mics",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-05-13 - Portland, OR - La Luna [AUD].txt"
+      "textFile": "1995-05-13 (Audio Technica Lapel Mic).txt"
     },
     {
       "year": 1995,
@@ -866,7 +877,7 @@ const ARTIST_DATA = {
       "notes": "mh",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-05-13 - San Francisco, CA - Slim's - DAT(M) (loughney transfer) [AUD].txt"
+      "textFile": "1995-05-13 - Portland, OR - La Luna [AUD].txt"
     },
     {
       "year": 1995,
@@ -922,7 +933,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 loughney transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-05-18 - San Francisco, CA - Slim's [AUD].txt"
+      "textFile": "1995-05-18 - Sony D6 Audience.txt"
     },
     {
       "year": 1995,
@@ -935,7 +946,8 @@ const ARTIST_DATA = {
       "venue": "Slim's",
       "notes": "",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-18 - San Francisco, CA - Slim's [AUD].txt"
     },
     {
       "year": 1995,
@@ -948,7 +960,8 @@ const ARTIST_DATA = {
       "venue": "Slim's",
       "notes": "Sonic Studios",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-18 - San Francisco, CA - Slim's [AUD].txt"
     },
     {
       "year": 1995,
@@ -974,7 +987,8 @@ const ARTIST_DATA = {
       "venue": "Slim's",
       "notes": "Sony D6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-18 - San Francisco, CA - Slim's [AUD].txt"
     },
     {
       "year": 1995,
@@ -988,7 +1002,7 @@ const ARTIST_DATA = {
       "notes": "Sonic Studios",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-05-19 - Hollywood, CA - The Palace.txt"
+      "textFile": "1995-05-19 - Sonics D7.txt"
     },
     {
       "year": 1995,
@@ -1001,7 +1015,8 @@ const ARTIST_DATA = {
       "venue": "The Palace",
       "notes": "Sonic Studios",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-19 - Hollywood, CA - The Palace.txt"
     },
     {
       "year": 1995,
@@ -1014,7 +1029,8 @@ const ARTIST_DATA = {
       "venue": "The Palace",
       "notes": "DAT(x) \u00b7 2",
       "version": "AUD #4",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-19 - Hollywood, CA - The Palace.txt"
     },
     {
       "year": 1995,
@@ -1027,7 +1043,8 @@ const ARTIST_DATA = {
       "venue": "The Palace",
       "notes": "ANA(M) \u00b7 loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-19 - Los Angeles, CA - The Palace - ANA(M) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1040,7 +1057,8 @@ const ARTIST_DATA = {
       "venue": "The Palace",
       "notes": "",
       "version": "AMT #1",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1995-05-19 - Hollywood, CA - The Palace.txt"
     },
     {
       "year": 1995,
@@ -2173,7 +2191,7 @@ const ARTIST_DATA = {
       "notes": "phil g.",
       "version": "PRO #1a",
       "format": "DVD",
-      "textFile": "1995-11-15 - London, UK - Brixton Academy [PRO #1b].txt"
+      "textFile": "1995-11-15 - London, England - Brixton Academy [PRO #1a].txt"
     },
     {
       "year": 1995,
@@ -2702,7 +2720,8 @@ const ARTIST_DATA = {
       "venue": "Worcester Auditorium",
       "notes": "Aiwa CM-30",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-05 - Worcester, MA - Worcester Auditorium [AUD #2].txt"
     },
     {
       "year": 1996,
@@ -2715,7 +2734,8 @@ const ARTIST_DATA = {
       "venue": "Worcester Auditorium",
       "notes": "CSB",
       "version": "AUD #3",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-05 - Worcester, MA - Worcester Auditorium.txt"
     },
     {
       "year": 1996,
@@ -3917,7 +3937,8 @@ const ARTIST_DATA = {
       "venue": "Forest Hills Stadium",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-07-01 - Forest Hills, NY - Forest Hills Stadium [AUD].txt"
     },
     {
       "year": 1997,
@@ -5723,7 +5744,7 @@ const ARTIST_DATA = {
       "notes": "Sony",
       "version": "AUD #2 (44.1k)",
       "format": "FLAC",
-      "textFile": "1998-06-20 - United Kingdom - Milton Keynes Bowl [AUD].txt"
+      "textFile": "1998-06-20 - United Kingdom - Milton Keynes Bowl [AUD #2].txt"
     },
     {
       "year": 1998,
@@ -5736,7 +5757,8 @@ const ARTIST_DATA = {
       "venue": "Milton Keynes Bowl",
       "notes": "Sony",
       "version": "AUD #2 (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-20 - United Kingdom - Milton Keynes Bowl [AUD].txt"
     },
     {
       "year": 1998,
@@ -5875,7 +5897,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival",
       "notes": "Richfield",
       "version": "AUD #1 (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-08-29 - Reading, UK - Reading Festival - Richfield Avenue [AUD #1].txt"
     },
     {
       "year": 1999,
@@ -6238,7 +6261,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1999-12-04 - Rosemont, IL - Allstate Arena - DAT(M) (AT933) (rh) [AUD].txt"
+      "textFile": "1999-12-04 - Chicago, IL - Q101's Twisted 6 [AMT #1].txt"
     },
     {
       "year": 1999,
@@ -6251,7 +6274,8 @@ const ARTIST_DATA = {
       "venue": "Q101's Twisted 6",
       "notes": "",
       "version": "AMT #1 (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-12-04 - Rosemont, IL - Allstate Arena - DAT(M) (AT933) (rh) [AUD].txt"
     },
     {
       "year": 1999,
@@ -6837,7 +6861,8 @@ const ARTIST_DATA = {
       "venue": "The Howard Stern Show",
       "notes": "",
       "version": "SBD #1b",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-16 - New York, NY - Howard Stern Show [SBD #1a] .txt"
     },
     {
       "year": 2000,
@@ -10800,7 +10825,7 @@ const ARTIST_DATA = {
       "notes": "Zoom H2",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-02-18 - Worcester, MA - DCU Center - Long Road to Worcester [AUD].txt"
+      "textFile": "2008-02-18 - DCU Center part 3 of 3 - Foo Fighters.txt"
     },
     {
       "year": 2008,
@@ -11219,7 +11244,7 @@ const ARTIST_DATA = {
       "notes": "Master \u00b7 simon kilmore",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "2008-10-26 - Pomona, CA - Pomona Fairplex [AUD #1].txt"
+      "textFile": "2008-10-26 - Pomona, CA - Pomona Fairplex [AMT #1].txt"
     },
     {
       "year": 2008,
@@ -11232,7 +11257,8 @@ const ARTIST_DATA = {
       "venue": "Pomona Fairplex",
       "notes": "Master \u00b7 simon kilmore",
       "version": "AMT #1 (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-10-26 - Pomona, CA - Pomona Fairplex [AUD #1].txt"
     },
     {
       "year": 2008,
@@ -11537,7 +11563,7 @@ const ARTIST_DATA = {
       "notes": "DRS3",
       "version": "FM #2",
       "format": "FLAC",
-      "textFile": "2011-06-09 - Grindelwald, Switzerland - Greenfield Open Air Festival [FM3].txt"
+      "textFile": "2011-06-09 - Grindelwald, Switzerland - Greenfield Open Air Festival [FM2].txt"
     },
     {
       "year": 2011,
@@ -11551,7 +11577,7 @@ const ARTIST_DATA = {
       "notes": "DRS Virus",
       "version": "FM #3",
       "format": "FLAC",
-      "textFile": "2011-06-09 - Grindelwald, Switzerland - Greenfield Open Air Festival [FM].txt"
+      "textFile": "2011-06-09 - Grindelwald, Switzerland - Greenfield Open Air Festival [FM3].txt"
     },
     {
       "year": 2011,
@@ -11813,8 +11839,7 @@ const ARTIST_DATA = {
       "venue": "Scottrade Center",
       "notes": "DPA 4061s",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2011-09-17 - Saint Louis, MO - Scottrade Center [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -12164,7 +12189,7 @@ const ARTIST_DATA = {
       "notes": "Pukkelpop Festival",
       "version": "PRO #1b",
       "format": "MKV",
-      "textFile": "2012-08-18 - Kiewit, Belgium - Kempische Steenweg (Pukkelpop Festival) [SBD #1].txt"
+      "textFile": "2012-08-18 - Kiewit, Belgium - Kempische Steenweg (Pukkelpop Festival) [PRO #1a & PRO #1b].txt"
     },
     {
       "year": 2012,
@@ -12177,7 +12202,8 @@ const ARTIST_DATA = {
       "venue": "Kempische Steenweg (Pukkelpop Festival)",
       "notes": "FM \u00b7 steven bladt",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-08-18 - Kiewit, Belgium - Kempische Steenweg (Pukkelpop Festival) [SBD #1].txt"
     },
     {
       "year": 2012,
@@ -12413,7 +12439,7 @@ const ARTIST_DATA = {
       "notes": "FM",
       "version": "SBD #1",
       "format": "FLAC",
-      "textFile": "2014-09-08 - London, UK - Maida Vale Studios (Maida Vale 3) [SBD #1].txt"
+      "textFile": "2014-09-08- (SBD #1).txt"
     },
     {
       "year": 2014,
@@ -12426,7 +12452,8 @@ const ARTIST_DATA = {
       "venue": "Maida Vale Studios (Maida Vale 3)",
       "notes": "FM",
       "version": "SBD #1b",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-09-08 - London, UK - Maida Vale Studios (Maida Vale 3) [SBD #1].txt"
     },
     {
       "year": 2014,
@@ -14466,7 +14493,7 @@ const ARTIST_DATA = {
       "notes": "Taylor \u00b7 All Artists \u00b7 SP-CMC-4U \u00b7 loughney",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-09-27 - Inglewood, CA - Kia Forum - WAV(M) (SP-CMC-4U) (vibrioidxire) [AUD #3].txt"
+      "textFile": "2022-09-27 - Inglewood, CA - Kia Forum - Taylor Hawkins Tribute (All Artists) (SP-CMC-4U) (loughney) [AUD].txt"
     },
     {
       "year": 2022,
@@ -14480,7 +14507,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #3",
       "format": "FLAC",
-      "textFile": "2022-09-27 - Los Angeles, CA - Kia Center (SP-CMC-4U) (loughney) [AUD].txt"
+      "textFile": "2022-09-27 - Inglewood, CA - Kia Forum - Taylor Hawkins Tribute (All Artists) (SP-CMC-4U) (loughney) [AUD].txt"
     },
     {
       "year": 2023,

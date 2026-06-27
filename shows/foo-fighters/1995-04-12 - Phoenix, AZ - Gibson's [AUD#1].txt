@@ -1,7 +1,7 @@
 Foo Fighters
 April 12th, 1995
 Gibson's
-Phoenix, AZ
+Tempe, AZ
 
 SOURCE (AUD #1):
 unknown > unknown
@@ -28,18 +28,16 @@ TRACKS:
 10. Exhausted
 
 MD5 FINGERPRINTS:
-97f50ad1e971c41459e8e9f549da81b0 *FooFighters1995-04-12t01.flac
-abcc28d00939b72ae382041e7d9c2f61 *FooFighters1995-04-12t02.flac
-f92e16ed27a8fc03d9a384d52eab6cdc *FooFighters1995-04-12t03.flac
-90c130e4bf9d9ce2933d00f5403e185f *FooFighters1995-04-12t04.flac
-70c0065e505e87b90faba29ef47d222c *FooFighters1995-04-12t05.flac
-ecc3a58f0d67f1032fe568aa01fe2c87 *FooFighters1995-04-12t06.flac
-56eccb9b7aed71fdf485f26ad178fa24 *FooFighters1995-04-12t07.flac
-1a51eeb3562914951f02a2009f25398c *FooFighters1995-04-12t08.flac
-2c9959b011811cdb135be94fde5115af *FooFighters1995-04-12t09.flac
-a8bde237bb2d7c6cf032dd4a57b31681 *FooFighters1995-04-12t10.flac
+739508208e923cb6e0cb6632340977ae *01. Winnebago.flac
+d3ac7e267868f0a2d50f08ff34ae07f5 *02. This Is A Call.flac
+edc59ae84dad6f9285ee9a996e06509c *03. Floaty.flac
+d9a67335dea840f3b15b570ba1484fd1 *04. I'll Stick Around.flac
+b5b3e82690b365c9624fe9047f610cf3 *05. Big Me.flac
+74508768090b403ab1505f869ae04206 *06. Wattershed.flac
+15f00d27cf2de0c08a0c8a3bfc1fcdd1 *07. For All The Cows.flac
+a55430d53563274d34ca410729bcfd3b *08. Alone + Easy Target.flac
+38a71486ebc853133697086239fd18b6 *09. Podunk.flac
+d13edc058f3a0f0ba3a3793dd0146fd3 *10. Exhausted.flac
 
 TRANSFERRED BY:
 Brad Collins
-
-**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

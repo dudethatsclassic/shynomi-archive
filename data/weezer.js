@@ -3250,7 +3250,7 @@ const ARTIST_DATA = {
       "notes": "Gathering \u00b7 Neumann KM184s \u00b7 rob clarke",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2015-08-02 - Bridgeport, CT - Seaside Park - Gathering of the Vibes [AUD #1].txt"
+      "textFile": "2015-08-02 - Seaside Park [Gathering of the Vibes], Bridgeport, CT - AUD #1.txt"
     },
     {
       "year": 2015,
