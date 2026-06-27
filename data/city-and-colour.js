@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "London, ON",
       "venue": "Budweiser Gardens",
-      "notes": "iPhone 11 \u00b7 palm0014",
+      "notes": "iPhone 11 · palm0014",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-02-18 - London, ON - Budweiser Gardens (iPhone 11) (palm0014) [AUD24].txt"
