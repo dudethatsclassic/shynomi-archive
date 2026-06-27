@@ -863,7 +863,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "2003-10-21 - Yokohama, Japan - Yokohama Arena - From the Arena [Silver].txt"
+      "textFile": "2003-10-21 - Yokohama, Japan - Yokohama Arena - From the Arena [Silver].rtf"
     },
     {
       "year": 2003,

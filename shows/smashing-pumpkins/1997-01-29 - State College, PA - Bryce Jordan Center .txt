@@ -1,18 +1,37 @@
-tsp1997-01-29d1t01.flac:a9fc1e05c22ebd8973d0bc8ba9c6c953
-tsp1997-01-29d1t02.flac:470f97ba4dbe251101b4ebc9e387c4bd
-tsp1997-01-29d1t03.flac:2f4e8c3346ac1f2107309cefada09428
-tsp1997-01-29d1t04.flac:cb3585cbdb5a9886ba550f12bb2979e3
-tsp1997-01-29d1t05.flac:29fb6402b80e83f306235478bdc3434d
-tsp1997-01-29d1t06.flac:b5c17f197cb2eec1bee2d067279fc41c
-tsp1997-01-29d1t07.flac:f4b7f334b59043e29205fa613ec8d96e
-tsp1997-01-29d1t08.flac:f9b2f33f422f608f1a3394f1d6b63ec3
-tsp1997-01-29d1t09.flac:94fd17a8ec8d6cdbd6e5946bfb4e6191
-tsp1997-01-29d1t10.flac:adb2761b357f2f81e26c9246cb56210f
-tsp1997-01-29d1t11.flac:e6f5ef9ff1320724b33d5ae329303324
-tsp1997-01-29d1t12.flac:a67fdeb98b8896bcacf3b459e2e21060
-tsp1997-01-29d1t13.flac:fb94f59eafa9097db51e34d596d0d9f6
-tsp1997-01-29d2t01.flac:c539cfd1888855071068e396e3ad63b6
-tsp1997-01-29d2t02.flac:d25cfd7636114eead3ab8387a5233814
-tsp1997-01-29d2t03.flac:0568b2458c4da5515bd3458b0781deb6
-tsp1997-01-29d2t04.flac:e251ae23b31cfb603fd39add1e8b2db6
-tsp1997-01-29d2t05.flac:24f10e01239a1029b9690938503d8e7d
+The Smashing Pumpkins
+1/29/1997
+Bryce Jordan Center
+State College, PA
+
+Taper:            unknown
+Source:           Shure SM-57 > Sony Walkman > ANA-M > D8
+Conversion:       DDC-1(48k) > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. MCIS
+2. Tonight, Tonight
+3. Cherub Rock
+4. Where Boys Fear to Tread
+5. Rhinoceros
+6. Rocket
+7. Zero
+8. Fuck You
+9. Porcelina of the Vast Oceans
+10. 1979 (with The Frogs)
+11. Thirty-three
+12. Bullet with Butterfly Wings
+13. Muzzle
+
+Disc 2
+1. Disarm
+2. Thru the Eyes of Ruby
+3. Drown > Hummer (tease)
+4. Siva > Spiders (tease)
+5. Silverfuck > The Aeroplane Flies High (clips) > Space Jam

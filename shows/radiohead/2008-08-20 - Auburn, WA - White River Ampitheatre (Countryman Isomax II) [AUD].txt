@@ -1,30 +1,39 @@
-30.Everything in its Right Place.flac:94b939a4f7d34eb3a5233ae6a6e73481
-01.Intro.flac:be35527c8a62f28ca3f1c1b1a2467ec6
-02.15 Step.flac:9f65bfbcb84d749e50e7e3d0e517b191
-03.Reckoner.flac:5b9f9a3cf90981aa27e4dc6acc3f0340
-04.Optimistic .flac:d2f08e57640bf7d08dcdcd2bedfa0b91
-05.There There.flac:9cdfde8f25b7aa24e57476568d7515f6
-06.All I Need.flac:afae122b09d7fcfe6453d5af69c07d17
-07.Pyramid Song.flac:935c82a5e652a5f6f36ec0cbeb04ea1c
-08.Talk Show Host.flac:5c5f834fca9785df529a9dd958c93982
-09.The National Anthem.flac:34510cbc96799766a01e44b1222c7c6d
-10.The Gloaming.flac:27afd60773fdbc5a6c8e43b11b85edb9
-11.Videotape.flac:bad0c6f200b96032156c1d3ffabb06a7
-12.Lucky.flac:567294a4617f5add2e7a395b47b28048
-13.Faust Arp (take 1).flac:c0d2e32b7c3dac5a6d736cd2b1b79574
-14.Faust Arp (take 2).flac:0584ca8badecc9e74e7d7c6f0bc2f081
-15.Jigsaw Falling Into Place.flac:2db733cbd26422bfcf8d5c695d31085c
-16.Climbing Up the Walls.flac:d67a1e784170f3bb2559e9207705695c
-17.Dollars and Cents.flac:56730046b69ac1578fe55fe3b4485f1b
-18.Nude.flac:44e2337728f46a5d8ce536a4592c3933
-19.Bodysnatchers.flac:22b142d8b4fc590684ec2da1222ef8c7
-20.encore break 1.flac:338f66beae6f3c27762a5007418085bb
-21.How to Disappear Completely.flac:7210d19eb2511c2edd7dc2a9dd08e05e
-22.Arpeggi.flac:3195655b1e70a6fed3e9981e9ff47b3f
-23.Idioteque.flac:646371130aee38430cd10868e66ccf4c
-24.In Limbo.flac:92295b3d3515f74aad1f4e2139a73bd3
-25.Street Spirit.flac:facd587756957dbfc2c96f97d2ee8821
-26.encore break 2.flac:76be1211f71d21bfb8717de78cf40160
-27...Thom talking about Seattle .flac:acd25f9379b3a351a2691769390e5c2e
-28.You and Whose Army.flac:72a3bab76466d5e694840a7804226d14
-29.No Surprises.flac:4598c5356302b25897286fa4c9f75387
+Radiohead
+8/20/08
+White River Amphitheater
+Auburn, WA
+
+Source: Countryman Isomax II (Cardiods) -> Zoom H2 @44.1/16
+Location: somewhere close to the right stacks
+Conversion: WAV ->Cool Edit Pro (fades, amplify right channel +6db)
+-> CD Wave (track split)->FLAC
+
+1. Intro
+2. 15 Step
+3. Reckoner
+4. Optimistic
+5. There There
+6. All I Need
+7. Pyramid Song
+8. Talk Show Host
+9. The National Anthem
+10. The Gloaming
+11. Videotape
+12. Lucky
+13. Faust Arp (take 1)/(Tell Me Why)
+14. Faust Arp (take 2)
+15. Jigsaw Falling Into Place
+16. Climbing Up the Walls
+17. Dollars and Cents
+18. Nude
+19. Bodysnatchers
+20. encore break 1
+21. How to Disappear Completely
+22. Arpeggi/Weird Fishes
+23. Idioteque
+24. In Limbo
+25. Street Sprit
+26. encore break 2
+27. Thom talking about Seattle and the WTO
+28. You and Whose Army
+29. Everything in its Right Place

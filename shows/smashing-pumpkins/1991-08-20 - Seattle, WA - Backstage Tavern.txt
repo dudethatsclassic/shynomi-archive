@@ -1,12 +1,32 @@
-tsp1991-08-20t01.flac:b7c2329dcb50c1d412d543a77e717804
-tsp1991-08-20t02.flac:3378473e285204b4c836e4184c8b3406
-tsp1991-08-20t03.flac:d7d3557d83edf3d31acf463b20acc85c
-tsp1991-08-20t04.flac:a7cc059ce4416d35787c6a0cab74a55c
-tsp1991-08-20t05.flac:bb15264e995119ba4b2883bcc1c89014
-tsp1991-08-20t06.flac:5e700a21226dfe54eeb5a8776b3c2451
-tsp1991-08-20t07.flac:f63a3fca06cc82624eeecd43183db2a0
-tsp1991-08-20t08.flac:e2aa6a732276a380c2a77912667121de
-tsp1991-08-20t09.flac:c8f21a0dbd0afdcb0386931d299a0c59
-tsp1991-08-20t10.flac:96afbe9462f877e971a124382a64711c
-tsp1991-08-20t11.flac:b8b8b270010566791fe2ec9f68463da3
-tsp1991-08-20t12.flac:a496087ec1667ac9683b70149e02e966
+Smashing Pumpkins
+August 20, 1991
+Backstage Tavern
+Seattle, WA
+
+Source: Sonic Studios (DSM3) -> DAT
+Lineage: DAT(M) -> ANA(2) -> DAT(1) 44khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> CEP 2.1 -> CDWave -> FLAC 
+
+
+01 Intro
+02 Rocket
+03 Tristessa
+04 Window Paine
+05 Bury Me
+06 Siva
+07 Snail
+08 I Am One
+09 Silverfuck
+10 STP
+11 I Am My End
+12 Terrapin
+
+
+
+Transfer by BLG
+compiled on 09-08-05
+
+
+			
+
+

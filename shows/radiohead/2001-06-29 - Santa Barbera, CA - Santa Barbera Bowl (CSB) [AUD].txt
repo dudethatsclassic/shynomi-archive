@@ -1,24 +1,37 @@
-rh2001-06-29[d8]d1t01.flac:f4c5dd53660cc75138b9ac36a98eb5c5
-rh2001-06-29[d8]d1t02.flac:84a367538c5b1dddf15d199a21acbde9
-rh2001-06-29[d8]d1t03.flac:8e70b684c75156db44c50a3c14c5cdc0
-rh2001-06-29[d8]d1t04.flac:687a80a953e309e0b7f4764d55af823f
-rh2001-06-29[d8]d1t05.flac:3dc79c49a2a8d98f3d2c6492f2b3eb97
-rh2001-06-29[d8]d1t06.flac:16a6421025f7d79443cc5410c0adf196
-rh2001-06-29[d8]d1t07.flac:bc4a375022b8211d97c10257c273994b
-rh2001-06-29[d8]d1t08.flac:0058648178551639127ab9a8b0500556
-rh2001-06-29[d8]d1t09.flac:454aa99354da0fa1c4c3d92e4058eff7
-rh2001-06-29[d8]d1t10.flac:d60f8e0b094dcce897357865ac4e2fc5
-rh2001-06-29[d8]d1t11.flac:9ee530c570bd8c3ba698a3bd4c047746
-rh2001-06-29[d8]d1t12.flac:18da177810edfc148d10da3ee7faa04d
-rh2001-06-29[d8]d1t13.flac:60ab8b3cd24885849104032107f3d492
-rh2001-06-29[d8]d1t14.flac:78ef693f866f5bc33749df9aa2d763f5
-rh2001-06-29[d8]d1t15.flac:5aeca29ad6abae066fc208030c835f2f
-rh2001-06-29[d8]d2t01.flac:047e4b026ef4e6db5d623c406e4ebf1c
-rh2001-06-29[d8]d2t02.flac:1809390af0a486045c3a3a036e85c4de
-rh2001-06-29[d8]d2t03.flac:9a2a44d3502b511ab5122415685f2b28
-rh2001-06-29[d8]d2t04.flac:b5c5734494556ffccbe563429dd986e1
-rh2001-06-29[d8]d2t05.flac:a0947f2e4c093844d7457893a0b49e2f
-rh2001-06-29[d8]d2t06.flac:2c99d9c1468fbc81920da0ee5f422ddb
-rh2001-06-29[d8]d2t07.flac:538f01fda03ab81aa7e4f916b39b9cd3
-rh2001-06-29[d8]d2t08.flac:5ea61d0f3223b133b7ee7e7f1b11bdcb
-rh2001-06-29[d8]d2t09.flac:cb6410a88c68262962a0ec73d43f9977
+Radiohead
+June 29, 2001
+Santa Barbara Bowl - Santa Barbara, CA
+
+source: CSBmod > Sony D8 DAT > cdr
+conversion: cdr > eac > flac
+
+CD1
+01. The National Anthem
+02. Morning Bell
+03. Lucky
+04. My Iron Lung
+05. In Limbo
+06. Exit Music (For A Film)
+07. Packt Like Sardines In A Crushd Tin Box
+08. Knives Out
+09. No Surprises
+10. Dollars & Cents
+11. Street Spirit (Fade Out)
+12. Follow Me Around [1st Verse] > I Might Be Wrong
+13. Pyramid Song
+14. Paranoid Android
+15. Idioteque
+
+CD2
+01. Intro
+02. Everything In Its Right Place
+03. Karma Police
+04. Pearly*
+05. You and Whose Army?
+06. How To Disappear Completely
+07. Talk Show Host
+08. The Bends
+09. Motion Picture Soundtrack
+
+Seeded by Thierry Henry
+10 November 2005

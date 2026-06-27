@@ -1,22 +1,44 @@
-tsp1996-11-23d1t01.flac:e3440fe00046b0dc877a9e970066465c
-tsp1996-11-23d1t02.flac:b67f4fe5ca75cebe1a7a108f111ed403
-tsp1996-11-23d1t03.flac:2e9558cc137b4c7b15d65555d9a140e7
-tsp1996-11-23d1t04.flac:f30656579a7512d17074257cbfd4b8c4
-tsp1996-11-23d1t05.flac:f241ec4e18e7cb1b09885e5851c71c29
-tsp1996-11-23d1t06.flac:bd6eb4d0ec1c982d77976cf20d7c7923
-tsp1996-11-23d1t07.flac:3587e7228f16939f690fdbd6b4ebe8f6
-tsp1996-11-23d1t08.flac:ed2639b696cf1bf1611ab65ad2e12b67
-tsp1996-11-23d1t09.flac:d6b42bda325048a76ecc5b93372c43a9
-tsp1996-11-23d1t10.flac:dcb27b4a5e0533ee9c50981d2bf21bcc
-tsp1996-11-23d1t11.flac:665e0a0e562594bd1c2f02c3ccde0de7
-tsp1996-11-23d1t12.flac:077c0352baeded3a932b8a13c03dbfc7
-tsp1996-11-23d1t13.flac:291b47a13d9006fde2913b1c8b612931
-tsp1996-11-23d1t14.flac:d77595cf2656a0314ddb40a45d8e1e4e
-tsp1996-11-23d1t15.flac:a1bc770a4321d944186146db149ceff0
-tsp1996-11-23d2t01.flac:4d2b35c14de1bb631ce77be8f339fb0d
-tsp1996-11-23d2t02.flac:d92d52002a2fa44d4676294de54b0331
-tsp1996-11-23d2t03.flac:9cb44211849ed2aaf2e8eeea0256effc
-tsp1996-11-23d2t04.flac:816b1cb172ffa822c069c6e970b4f754
-tsp1996-11-23d2t05.flac:2e85a49337eaa8dc0f581c76c9c0ba9f
-tsp1996-11-23d2t06.flac:46c797c755a7984ecd4940651192cbec
-tsp1996-11-23d2t07.flac:c7c28c134bebc09db32596e5a7b62926
+The Smashing Pumpkins
+11/23/1996
+Myriad Arena
+Oklahoma City, OK
+
+Taper:            unknown
+Source:           unknown analog recorder
+Conversion:       ANA-1 > Sony TC-WE825S > Tascam DA-20MKii(A>D @ 44.1kHz) > Monster coax 
+		  > Delta Dio 2496 > Adobe Audition 2.0
+Editor:           Andrew Fogelsong
+Editing:          shortened tape flip gaps to 1 sec
+FLAC:             master wav's > CD Wave Editor 1.95 > FLAC (level 8)
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+
+1. MCIS
+2. WBFTT
+3. Zero
+4. Fuck You
+5. By Starlight
+6. Tonight, Tonight
+7. Today
+8. Cherub Rock
+9. Thru the Eyes of Ruby
+10. Galapogos
+11. Thirty-three
+12. Disarm
+13. BWBW
+14. Muzzle
+15. Porcelina > Rocket (tease)
+
+Disc 2
+
+1. Siva
+2. Drown > Hummer (tease)
+3. picking the dancers
+4. 1979
+5. X.Y.U.
+6. TAFH
+7. Silverfuck

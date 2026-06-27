@@ -1,24 +1,38 @@
-rh2004-04-15d1t01.flac:543ed481870ced7a71a1767a35b0b032
-rh2004-04-15d1t02.flac:9af9fc955bd07bf855e2ba15c663217d
-rh2004-04-15d1t03.flac:d82a08ae280949a464f3430709af3219
-rh2004-04-15d1t04.flac:46358994de4c45e30227d84cacf6ab8d
-rh2004-04-15d1t05.flac:cda1fed572eb80d6bf33a3a748d9f26a
-rh2004-04-15d1t06.flac:08bab235ff883f4a29c0d79d13fb06f6
-rh2004-04-15d1t07.flac:2c3820475630ef1fe4726e3e60688c61
-rh2004-04-15d1t08.flac:dcc7d40313da75b38fdba0069fdb9a2a
-rh2004-04-15d1t09.flac:29ac4f9c73828e6384b0eb18a1a8a262
-rh2004-04-15d1t10.flac:4444552aaf9bc8f4cebd1409519bcdd9
-rh2004-04-15d1t11.flac:e0d4c733f85e7f81723fba84cbbb1ce2
-rh2004-04-15d1t12.flac:1bf8da100852d51a78f6f3d2f400d4c7
-rh2004-04-15d1t13.flac:1e1c13ed82b3a262948d48276e374e5a
-rh2004-04-15d1t14.flac:493982a0910316afef558d25900069f2
-rh2004-04-15d1t15.flac:eccce04337a952a7a2fdf44b3abc7d43
-rh2004-04-15d1t16.flac:7681b718c6696d5e393004a250ca5e19
-rh2004-04-15d1t17.flac:07168d0303f0122e571192fd087aaacd
-rh2004-04-15d2t01.flac:bb0707c4928d4b4c34ed02de9e0fd8ac
-rh2004-04-15d2t02.flac:cc7dc1c61e5569c550bd49dfce034777
-rh2004-04-15d2t03.flac:8450824ae6bc84826b53dcfda506ebca
-rh2004-04-15d2t04.flac:4bdfe35ab7c7ede38264017db850cd25
-rh2004-04-15d2t05.flac:adef9f55b6cbca0c5b3a69ee08038955
-rh2004-04-15d2t06.flac:ce66487633d4ff42950115883c10c863
-rh2004-04-15d2t07.flac:98641a7bdb61a79358ca0936dc08e60f
+Radiohead
+April 15, 2004
+Intex
+Osaka, Japan
+
+Source: Sanken Cos11PT > Sony TCD-D8 > DAT2 48khz
+Transfer: DA-20 > Monster coax > DiO 2496 > CEP 2.1 > CDWave > FLAC
+
+Disc I
+01 2+2=5
+02 Myxomatosis
+03 Morning Bell
+04 Kid A
+05 My Iron Lung
+06 Backdrifts
+07 Pyramid Song
+08 I Might Be Wrong
+09 Go To Sleep
+10 Where I End and You Begin
+11 You and Whose Army?
+12 Like Spinning Plates
+13 Climbing Up the Walls
+14 The National Anthem
+15 Exit Music
+16 Paranoid Android
+17 Sit Down. Stand Up.
+
+Disc II
+01 crowd
+02 There There
+03 Nice Dream
+04 Idioteque
+05 How to Disappear Completely
+06 Planet Telex
+07 Everything In Its Right Place
+
+Transfer by BLG
+compiled on 05-10-04 

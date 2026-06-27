@@ -1,26 +1,36 @@
-tsp2016-04-18t01.flac:93b409d0fe35e81c12a5fc252dbc5982
-tsp2016-04-18t02.flac:3033c88891513b013e0196655fa6c153
-tsp2016-04-18t03.flac:e07385775680122b75c275e6d111b4b3
-tsp2016-04-18t04.flac:e60bcc26ff2c95e693306ef097efc8bd
-tsp2016-04-18t05.flac:57ff1c3082d7c3f80e3340107eba70cb
-tsp2016-04-18t06.flac:014b4071bca84c027e6cf6c8f83d2d5e
-tsp2016-04-18t07.flac:9d31274b7db0ad171a155d15e9e4bc03
-tsp2016-04-18t08.flac:a87281331c2379a8713105acb37c6098
-tsp2016-04-18t09.flac:ea17d6edc0d6debb67c2568d81d8d45a
-tsp2016-04-18t10.flac:8092d00c2e7960dd7d4c8b4428e82d71
-tsp2016-04-18t11.flac:ecb42c7695bd4e2041cf828c9447c400
-tsp2016-04-18t12.flac:e315f30389e7ac1b4a21fa1ce9369dcc
-tsp2016-04-18t13.flac:b78d260cdc6b9e15e472661314441947
-tsp2016-04-18t14.flac:5beb82840759cf9effb7f8a817ffd8a2
-tsp2016-04-18t15.flac:a79769fb439f8b0741ce78ca3e1db354
-tsp2016-04-18t16.flac:c0bf0cb62f3eedd42e6c27a62fb6f7fd
-tsp2016-04-18t17.flac:1031aa57e00220ba0e93ed7b6ea4eb23
-tsp2016-04-18t18.flac:7f1a2fde267c9cb99aa910bc463fa862
-tsp2016-04-18t19.flac:83192b78989bbdd6a61c773506db22f6
-tsp2016-04-18t20.flac:47d788be209878344f08f6b4c0c91e26
-tsp2016-04-18t21.flac:61e5866baaf1b48a2331ed185bb97b75
-tsp2016-04-18t22.flac:f64850fe2f02e7c7be2c9eb26daec99a
-tsp2016-04-18t23.flac:8c87e5dfb6b4239c684790e7e2af640e
-tsp2016-04-18t24.flac:2d85b68e575a0ef4637d68ca5be5f163
-tsp2016-04-18t25.flac:0a9627190a9fe6696bc7102ba17d43d1
-tsp2016-04-18t26.flac:b711646c879825e416ccf80e6344405c
+Smashing Pumpkins
+04/18/2016
+Majestic Theater
+Dallas, TX
+
+Taper: bg raves
+Source:  DSM-6S > PA-6LC3 > R-09HR @ 24/48
+Location:  Section B-Mezz, Row F, Seat 3
+Transfer:  R-09HR > CEP 2.1 > flac
+
+01.  Cardinal Rule
+02.  Stumbleine
+03.  Tonight, Tonight
+04.  The World's Fair
+05.  Space Oddity [David Bowie]
+06.  Thirty-three
+07.  Jesus, I [Lyte] > Mary Star of the Sea
+08.  Mayonaise
+09.  Soma
+10.  Rocket
+11.  Spaceboy
+12.  Today
+13.  Whir
+14.  Diarm
+15.  Sorrows (In Blue)
+16.  Eye
+17.  Saturnine
+18.  Identify
+19.  1979
+20.  Stand Inside Your Love
+21.  Pinwheels
+22.  Lily (My One and Only)
+23.  Malibu [Hole]
+24.  Spaniards
+25.  Tush [ZZ Top]
+26.  Angie [Rolling Stones]

@@ -1,22 +1,42 @@
-tsp2000-04-18d1t01.flac:ad2b3bd2fb469f2743684e6e85c57ddb
-tsp2000-04-18d1t02.flac:1b0ffd3713024c11b108e548830321bf
-tsp2000-04-18d1t03.flac:682e149fa97da23cbb47f7467b3d7d81
-tsp2000-04-18d1t04.flac:54bd8cf43ca3b8fb034d176e117cf423
-tsp2000-04-18d1t05.flac:2df20e321230c96f7eb09c61518fe066
-tsp2000-04-18d1t06.flac:d923eb7f6ad33b0da5770a491868433a
-tsp2000-04-18d1t07.flac:c43fe26e322fe268ca982eb30b5eea11
-tsp2000-04-18d1t08.flac:6fc0f089ca9c850a99e96371089e0191
-tsp2000-04-18d1t09.flac:b5facd9531ac37b630c8474afb4a8aea
-tsp2000-04-18d1t10.flac:3d7e18dda4e2496240d940aa13ded1f0
-tsp2000-04-18d1t11.flac:3ed8dc4c7ddeb74c834cd1f6fb3c07bd
-tsp2000-04-18d1t12.flac:7ff279ea4bc197d21b6421c65a2d6a74
-tsp2000-04-18d2t01.flac:bbe62501acaea5c6b941512aa60a5cde
-tsp2000-04-18d2t02.flac:d6d03d3b88d73ec74e269e099366f206
-tsp2000-04-18d2t03.flac:99e8ac2622bff4f0a6729648ea3a01db
-tsp2000-04-18d2t04.flac:7d713fa066abb62bb3a92c8ccadcc29a
-tsp2000-04-18d2t05.flac:d00f7eff4750d938fc7e8b21655f4cba
-tsp2000-04-18d2t06.flac:e360502f869b9fe806cf26fa80e5e5de
-tsp2000-04-18d2t07.flac:e3765087a9e44933aa5608f0109fc892
-tsp2000-04-18d2t08.flac:275db0def4da7b263e4fb2887d79c3a1
-tsp2000-04-18d2t09.flac:ca8b72570b11bded8512dcc64988df27
-tsp2000-04-18d2t10.flac:07cf6533156a674ea9979308cc8e1924
+The Smashing Pumpkins
+4/18/2000
+Elliott Hall of Music
+West Lafayette, IN
+
+Taper:            unknown
+Source:           CSB > M1
+Conversion:       DDC-2 > Sony PCM-M1 > 7-pin to coax > Delta Dio 2496 > Adobe Audition 2.0
+Editor:           Andrew Fogelsong
+Editing:          normalized(+9.38dB), fade out
+FLAC:             master wav's > CD Wave Editor 1.95.1 > FLAC (level 8)
+Notes:		  very beginning of Pale Scales cut
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc One
+1. Pale Scales
+2. The Everlasting Gaze
+3. Pug
+4. Age of Innocence
+5. Glass and the Ghost Children
+6. Blew Away
+7. Stand Inside Your Love
+8. Heavy Metal Machine
+9. Bullet With Butterfly Wings > Once in a Lifetime [The Talking Heads]
+10. To Sheila
+11. Drown
+12. Disarm
+
+Disc Two
+1. Ava Adore
+2. Rock On [Essex]
+3. Zero
+4. Today
+5. Perfect
+6. Cherub Rock
+7. Blank Page
+8. I of the Mourning
+9. 1979
+10. Mayonaise

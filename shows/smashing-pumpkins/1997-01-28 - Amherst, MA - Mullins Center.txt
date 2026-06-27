@@ -1,19 +1,38 @@
-tsp1997-01-28d1t01.flac:bbe9e4fc5562e1365229c1f6e1ad1380
-tsp1997-01-28d1t02.flac:d48e9fa88d2d8492d441b5babee4de72
-tsp1997-01-28d1t03.flac:32233a2d7fb6dd5e1fa3bc6776856ae4
-tsp1997-01-28d1t04.flac:a60b944f4199809351bfa45ef221588d
-tsp1997-01-28d1t05.flac:c0cc294d30ee74d5272c4b550cc7d625
-tsp1997-01-28d1t06.flac:07a7e3572024e6eacb5dae1480689b3d
-tsp1997-01-28d1t07.flac:cb2757820f5aad0fc4f520c0171f1fd0
-tsp1997-01-28d1t08.flac:e297641e0d78a3caa5d994e390f0b118
-tsp1997-01-28d1t09.flac:c06362ff2f9c6721c86f75d819dc1c2e
-tsp1997-01-28d1t10.flac:a08d6495bfa08cc43717957fc23e24c9
-tsp1997-01-28d1t11.flac:c7449d6b315dfef7ab217a158e787ec8
-tsp1997-01-28d1t12.flac:973fc456fede6d788ea0fcb9711157b6
-tsp1997-01-28d2t01.flac:4b1dcc772ce452ddca6e649887b5aa4f
-tsp1997-01-28d2t02.flac:e3700b247acc2240ffb3c8e477675ceb
-tsp1997-01-28d2t03.flac:a09540b0ff0f1f64fa7df86bce8299e3
-tsp1997-01-28d2t04.flac:dcf4709b783febbbeadd43875389dfe3
-tsp1997-01-28d2t05.flac:857cb968a9790c7a2f5ff6c9302cfabb
-tsp1997-01-28d2t06.flac:d3782f04c5543ca19a16543f24755295
-tsp1997-01-28d2t07.flac:f045396a2095efad37af31dfd43a716e
+The Smashing Pumpkins
+1/28/1997
+Mullins Center
+Amherst, MA
+
+Taper:            unknown
+Source:           ECM-909a > D7
+Conversion:       DDC-4(48k) > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. MCIS
+2. Tonight, Tonight
+3. Cherub Rock
+4. Where Boys Fear to Tread
+5. Rhinoceros
+6. Here Is No Why
+7. Zero
+8. Fuck You
+9. Porcelina of the Vast Oceans >
+10. > Rocket (tease)
+11. Thirty-three
+12. Bullet with Butterfly Wings
+
+Disc 2
+1. Muzzle
+2. Disarm
+3. Thru the Eyes of Ruby
+4. 1979 (with The Frogs)
+5. Starla > Beautiful (tease)
+6. In-A-Gadda-Da-Vida [Iron Butterfly] (tease)
+7. X.Y.U. > Paranoid [Black Sabbath] (tease)

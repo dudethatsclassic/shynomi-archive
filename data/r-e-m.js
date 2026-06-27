@@ -8567,8 +8567,7 @@ const ARTIST_DATA = {
       "venue": "Old Trafford",
       "notes": "Lancashire",
       "version": "AUD",
-      "format": "",
-      "textFile": "2003-07-13 - Manchester, England - Old Trafford - Lancashire County Cricket Club [AUD].txt"
+      "format": ""
     },
     {
       "year": 2003,
@@ -9719,8 +9718,7 @@ const ARTIST_DATA = {
       "venue": "Sazka Arena",
       "notes": "",
       "version": "AUD",
-      "format": "",
-      "textFile": "2005-01-23 - Prague, Czech Republic - Sazka Arena [AUD].txt"
+      "format": ""
     },
     {
       "year": 2005,

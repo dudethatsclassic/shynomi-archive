@@ -1,24 +1,37 @@
-REM2003-06-24t01.flac:6daedf3f84cd234975643477f66d701a
-REM2003-06-24t02.flac:2927129c496f3e6a8a2bbd83540c2d62
-REM2003-06-24t03.flac:0ddc3dce7dc9d31d29d57c17cc63b565
-REM2003-06-24t04.flac:056130d0ccfd379d7d58845d80fa13a7
-REM2003-06-24t05.flac:61e7dd24abe436d456c02ca4e22d5bf3
-REM2003-06-24t06.flac:f095f2ad966a894ca5df0479557ddf4e
-REM2003-06-24t07.flac:b2f7b953e608a662cfeae5904f081dbc
-REM2003-06-24t08.flac:4cce57d8eb8ed5e4069b49f14f1100cd
-REM2003-06-24t09.flac:7e77c099ce9e1bc555f1c39b6e64ebed
-REM2003-06-24t10.flac:4715a7a7c258b8d33764c40acede60d2
-REM2003-06-24t11.flac:951ba9660dfb993d4ba9eaeddf45d42c
-REM2003-06-24t12.flac:e4d0ffe1adf33154dcd46f2b7e834899
-REM2003-06-24t13.flac:e9452f57eb0ae1e3dd6d609da90a4042
-REM2003-06-24t14.flac:8d0b948c58da2dea5c00dae379083bc0
-REM2003-06-24t15.flac:1cc3da2b6a3e25de37e1edcc1fd300b2
-REM2003-06-24t16.flac:527c0d1e78639882bd4431e47de5fc52
-REM2003-06-24t17.flac:076692b40153b30bfbaeb44e659cd0e5
-REM2003-06-24t18.flac:e4828edf5a1f5dc375d0d58df7efaf3a
-REM2003-06-24t19.flac:31ecddbe23b46a984d4b9a5262089c36
-REM2003-06-24t20.flac:c54604ebdfe6c240364eb505bfb0d570
-REM2003-06-24t21.flac:2dc2558b46db6f57252474988fbbe461
-REM2003-06-24t22.flac:52ccee5bb70053106064efc0a259a00b
-REM2003-06-24t23.flac:1d42e1a167ecfc83f10349904c2d9dd8
-REM2003-06-24t24.flac:c567511bcca00bb7c2e9d407bd773ee9
+R.E.M.
+Brixton Academy
+London, UK 
+June 24, 2003
+
+Source: Sony ECM-DS70P --> Sony MZ-N1 MD (mono setting) --> Analog transfer --> WAV --> FLAC 
+
+Taped & Edited by raya
+
+The set
+
+01: Get Up
+02: Wake-Up Bomb
+03: Imitation of Life
+04: Animal
+05: The Great Beyond
+06: Drive
+07: Pilgrimage
+08: The One I Love
+09: Feeling Gravitys Pull
+10: Maps and Legends
+11: Driver 8
+12: Life And How To Live It
+13: Electrolite
+14: At My Most Beautiful
+15: Bad Day
+16: Losing My Religion
+17: Star 69
+18: Man on the Moon
+19: Walk Unafraid
+
+encore:
+20: She Just Wants To Be
+21: Everybody Hurts
+22: Little America
+23: People Have The Power
+24: It's The End Of The World As We Know It (And I Feel Fine)

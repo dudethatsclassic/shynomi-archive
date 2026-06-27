@@ -1,25 +1,43 @@
-rem2005-01-29_d1t01.flac:e855cdf96475905d6bdd15b563d4a7de
-rem2005-01-29_d1t02.flac:1083fc4b2e7b6679176ba1effe075f7b
-rem2005-01-29_d1t03.flac:58b10849860bd624aa6425c72c8235ec
-rem2005-01-29_d1t04.flac:a41bb78d56d8e9c771510a36099b35e6
-rem2005-01-29_d1t05.flac:88b79726bda98c87d3897f022315a5b3
-rem2005-01-29_d1t06.flac:c8cfaecfee3f87d52836c32040fb1ae0
-rem2005-01-29_d1t07.flac:6d6747ea072bc213991917d6c66f74a8
-rem2005-01-29_d1t08.flac:5a8becb56f238c758e573ddf098366b0
-rem2005-01-29_d1t09.flac:db690cce0e88902e130f26b3f00488f5
-rem2005-01-29_d1t10.flac:5160508367311984b57f36271a2bb30e
-rem2005-01-29_d1t11.flac:f864674c4244878a4d65d7897d00a6aa
-rem2005-01-29_d1t12.flac:4716c49f7f4de74d025e66a7dee0fa39
-rem2005-01-29_d1t13.flac:b874327cdc588804ae79205ede0ffc6b
-rem2005-01-29_d1t14.flac:734ba15fb3e0afe0b3d833159c682393
-rem2005-01-29_d1t15.flac:144f2eb7a66a593c0a677713034eae16
-rem2005-01-29_d2t01.flac:76a982291b906724ed1a27561e0e55ff
-rem2005-01-29_d2t02.flac:aee92722a0713b2cd4a910525d71f0d8
-rem2005-01-29_d2t03.flac:9512860f0f080c2a5a44f359b5eb3ed0
-rem2005-01-29_d2t04.flac:17eb2f1618fdee73af34a734dfa8ce7d
-rem2005-01-29_d2t05.flac:66689ad4eb243e54b96df03f1fc84b72
-rem2005-01-29_d2t06.flac:35a3776f17d8fb510164391c4ea09a3c
-rem2005-01-29_d2t07.flac:568dcc4131a85fff88efd1a7ecc7eef7
-rem2005-01-29_d2t08.flac:cc545f7c13034c4f224e3571cee61eae
-rem2005-01-29_d2t09.flac:83c718fe7ba2d00c0f1b5c2a6d2e2e5c
-rem2005-01-29_d2t10.flac:af3dd4edaad8369e1d1bd10370745b48
+R.E.M.
+29 January, 2005
+Hartwall Areena, Helsinki, Finland
+
+
+Source: Unknown mic > AIWA MD > CDR
+Transfer: EAC > Flac Fronted (level 5)
+
+
+Disc 1
+
+01 Finest Worksong
+02 Get Up
+03 Departure
+04 Animal
+05 Boy In The Well
+06 The Great Beyond
+07 Leaving New York
+08 Turn You Inside-Out
+09 High Speed Train
+10 Everybody Hurts
+11 Electron Blue
+12 Orange Crush
+13 I Wanted To Be Wrong
+14 Final Straw
+15 Imitation Of Life
+
+Disc 2
+
+01 The One I Love
+02 Walk Unafraid
+02 Losing My Religion
+04 What's The Frequency, Kenneth?
+05 Drive
+06 Aftermath
+07 Country Feedback
+08 Star 69
+09 I'm Gonna DJ
+10 Man On The Moon
+
+
+Recorded by Ville
+Transfer by raya

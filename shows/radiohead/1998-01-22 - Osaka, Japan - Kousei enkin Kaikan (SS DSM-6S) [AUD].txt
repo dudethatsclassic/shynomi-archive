@@ -1,19 +1,68 @@
-radiohead_1998-01-22d1t01.flac:bc47d9f3d2a4a7d05e54589bbe36e7e1
-radiohead_1998-01-22d1t02.flac:dc5dd9f9dc3ca8a1e374c58df54f6eb9
-radiohead_1998-01-22d1t03.flac:3340e1a04d0a12c49b50e3476a7995ab
-radiohead_1998-01-22d1t04.flac:76595f1ad9a4a2150134e7a43e5d446d
-radiohead_1998-01-22d1t05.flac:2a3e4c2261bb31c215d6f5b5f7122e37
-radiohead_1998-01-22d1t06.flac:df26ef32740998747f852b1f2f46cbc4
-radiohead_1998-01-22d1t07.flac:fc352c544394656a782179651a16ce27
-radiohead_1998-01-22d1t08.flac:0cb63589aebbaadfb6a408b696d8b3af
-radiohead_1998-01-22d1t09.flac:e31985441f39f4e69e820c669224c5ef
-radiohead_1998-01-22d1t10.flac:a73cca3e8c10b6c6b969172bd02767ef
-radiohead_1998-01-22d1t11.flac:fa4ef1a7e175df74c1627b73e68418e6
-radiohead_1998-01-22d1t12.flac:f4a29b610f281214450b88e06f5e81ac
-radiohead_1998-01-22d1t13.flac:073730a871b379970e8bc4a50c4f7b46
-radiohead_1998-01-22d1t14.flac:b498bb2570c6c88a9a745b9eaa716ef8
-radiohead_1998-01-22d1t15.flac:86b09c6c32f0ad785a6730579f49a328
-radiohead_1998-01-22d2t01.flac:a0ec15fbcaa37a14c2e88faf13a52dac
-radiohead_1998-01-22d2t02.flac:5ee0a4cd5c7e778e48aa0da1a578c539
-radiohead_1998-01-22d2t03.flac:48d64d7f242d3bb7c7b61d58179c429e
-radiohead_1998-01-22d2t04.flac:e95cd365128e5b723e18629ff13e8dd7
+Radiohead
+January 22, 1998
+Kousei Nenkin Kaikan
+Osaka, Japan
+
+Source: Sonic Studios (DSM-6S) -> PA-6LC3 -> Sony TCD-D100
+Lineage: DAT(2) 48khz -> CDR(1) -> EAC -> FLAC
+DAT->CDR Transfer: DA-20mkII -> coax -> DiO 2496 -> CEP
+
+
+01 Airbag (beginning cut)
+02 Climbing Up the Walls
+03 Talk Show Host
+04 Exit Music
+05 Lurgee
+06 Bones
+07 Pearly*
+08 Fake Plastic Trees
+09 Planet Telex
+10 Killer Cars (acoustic)
+11 Paranoid Android
+12 Lucky
+13 No Surprises
+14 My Iron Lung
+15 Karma Police
+
+
+
+Disc II
+01 Subterranean Homesick Alien
+02 The Bends
+03 Street Spirit 
+04 Just
+
+
+
+Notes: Meeting in the Aisle and the beginning of Airbag are cut per master recording.
+	
+	
+
+
+compiled on 06-11-2006 by BLG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,23 +1,45 @@
-tsp1997-01-26d1t01.flac:6eeca8afcd43f5ce592f7f3b3b102189
-tsp1997-01-26d1t02.flac:d8e0c60313ea267ec1f28de1cdcb8db9
-tsp1997-01-26d1t03.flac:7948b9e92569d5fd50b3190e701778c9
-tsp1997-01-26d1t04.flac:96f698f729e17125909c185074e8d078
-tsp1997-01-26d1t05.flac:19d4a7af1e848fb8486e5c20772edda2
-tsp1997-01-26d1t06.flac:1c7d9d1010050f94a95b643975fa59e7
-tsp1997-01-26d1t07.flac:58bdd42ba1ec95c825cad0904063a113
-tsp1997-01-26d1t08.flac:18cf9c307549b0ae7dedd79801a94eb6
-tsp1997-01-26d1t09.flac:4f7afe5f4d656c7211643191b9573f7d
-tsp1997-01-26d1t10.flac:cf0624d5e27696343f6d908329dc4d63
-tsp1997-01-26d1t11.flac:d2ae3414a0198a24d8aed435f71b29c9
-tsp1997-01-26d1t12.flac:fd56ac27c6ee4ffad802ae0bbd6f4728
-tsp1997-01-26d1t13.flac:6f3c168de810d6e513f9e41808b960c6
-tsp1997-01-26d1t14.flac:3069089a8486e9bbd0a69a4b665dddc1
-tsp1997-01-26d1t15.flac:3fe3f00b20fba8c2876c24fa8ff6597f
-tsp1997-01-26d2t01.flac:45df8f3ef1bb7503941c4c96e74e5275
-tsp1997-01-26d2t02.flac:dee1e29dad893e94ba670d9ca1dfc774
-tsp1997-01-26d2t03.flac:67fdc0dd070eababe94e7bf8c0ebb33e
-tsp1997-01-26d2t04.flac:e32f2967f200579c61d46c1b39f70402
-tsp1997-01-26d2t05.flac:29f1c38db8ff5182a71c66a511a35f74
-tsp1997-01-26d2t06.flac:4384227349a6a168cf8bcc5e1dd2fb39
-tsp1997-01-26d2t07.flac:f965e6df2763ccb5dfa8122c44c81249
-tsp1997-01-26d2t08.flac:bcc805164823b9385f0efad96b73caac
+The Smashing Pumpkins
+1/26/1997
+War Memorial Stadium
+Rochester, NY
+
+Taper:            Greg Mendelsohn
+Source:           Sony ECM-727P > Sony WM-D6C
+Conversion:       ANA-M > Sony TC-WE825S > Tascam DA-20MKii(A>D @ 44.1kHz) > Monster coax 
+		  > Delta Dio 2496 > Adobe Audition 2.0
+Editor:           Andrew Fogelsong
+Editing:          shortened tape flip gaps to 1 sec
+FLAC:             master wav's > CD Wave Editor 1.95 > FLAC (level 8)
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+
+1. MCIS
+2. Tonight, Tonight
+3. Cherub Rock
+4. WBFTT
+5. Rhinoceros
+6. Love (abandoned) (twice) > Smells Like Teen Spirit [Nirvana] (tease)
+7. Here Is No Why
+8. Zero
+9. Fuck You
+10. Porcelina > Rocket (tease)
+11. 1979
+12. Thirty-three
+13. BWBW
+14. Farewell and Goodnight (one verse and one chorus)
+15. Muzzle
+
+Disc 2
+
+1. Disarm
+2. Thru the Eyes of Ruby
+3. In-A-Gadda-Da-Vida [Iron Butterfly] (tease) > X.Y.U. (abandoned) > Today (tease)
+4. X.Y.U.
+5. Drown > Hummer (tease)
+6. Siva > Spiders (tease)
+7. Today (tease) > Landslide [Nicks] (tease) > Soma (tease)
+8. TAFH

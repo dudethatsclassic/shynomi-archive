@@ -1,20 +1,39 @@
-tsp2000-05-09d1t01.flac:990c7cbba763928b6014a8c8ace08dcf
-tsp2000-05-09d1t02.flac:fbbcb18c755a28dfe4e7711497327cdc
-tsp2000-05-09d1t03.flac:2bb9c278eb0abe0b218b6fe72927c02d
-tsp2000-05-09d1t04.flac:ac931636205d8ac872f7526e84376b23
-tsp2000-05-09d1t05.flac:202bf7cd3a85b2fc708dffc019594599
-tsp2000-05-09d1t06.flac:2326bb6b76ddf098e7ddc4255ce39843
-tsp2000-05-09d1t07.flac:c5f7225406cd3f869e6b7cc43c4a7935
-tsp2000-05-09d1t08.flac:88d7b75f40af0a9fda373df75b678ed5
-tsp2000-05-09d1t09.flac:30976d8bcc20c1eba496bc6ea4ad190d
-tsp2000-05-09d1t10.flac:fd0e02524a87e9530bdb09982e88164b
-tsp2000-05-09d1t11.flac:f933ac885a471bef71d6bb05d9e903b0
-tsp2000-05-09d2t01.flac:45ff12d00301159d7f7517f6bfea33b3
-tsp2000-05-09d2t02.flac:5ff13222daa373127b28900ff8517824
-tsp2000-05-09d2t03.flac:368222d14161c4178ce94bb2fbfcc415
-tsp2000-05-09d2t04.flac:ce11b168d687ab73f0fe04279cd947dd
-tsp2000-05-09d2t05.flac:85010af2dfb7ac73e8af06a0870ab479
-tsp2000-05-09d2t06.flac:0f50925e50766e70853154e352039e3c
-tsp2000-05-09d2t07.flac:4731670ea3472a3cd4098503b135a54a
-tsp2000-05-09d2t08.flac:8402e98668f33b81067fc401351e5353
-tsp2000-05-09d2t09.flac:fdc62f0460643602f6d7fea0223fb6d9
+The Smashing Pumpkins
+5/9/2000
+Tabernacle
+Atlanta, GA
+
+Taper:            Kindtaper
+Source:           FM > SBM-1 > R300
+Conversion:       DDC-1(44.1k) > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. Pale Scales
+2. The Everlasting Gaze
+3. Heavy Metal Machine
+4. Blue Skies Bring Tears
+5. Blew Away
+6. Stand Inside Your Love
+7. Glass and the Ghost Children
+8. I of the Mourning
+9. To Sheila
+10. Raindrops + Sunshowers
+11. Disarm, Jellybelly (tease)
+
+Disc 2
+1. Try, Try, Try
+2. Rock On [Essex]
+3. Zero
+4. Today
+5. Perfect
+6. Bullet with Butterfly Wings > Once in a Lifetime [The Talking Heads] 
+7. Blank Page
+8. Cherub Rock, Transmission [Joy Division] (tease)
+9. Drown

@@ -464,8 +464,7 @@ const ARTIST_DATA = {
       "venue": "Golden Gate Park",
       "notes": "Tibetan \u00b7 unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1996-06-16 - San Francisco, CA - Golden Gate Park - Tibetan Freedom Concert (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -3552,8 +3551,7 @@ const ARTIST_DATA = {
       "venue": "City Hall",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2006-10-13 - Nashville, TN - City Hall [AUD].flac.txt"
+      "format": "FLAC"
     },
     {
       "year": 2006,

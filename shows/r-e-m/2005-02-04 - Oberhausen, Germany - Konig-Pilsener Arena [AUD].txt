@@ -1,26 +1,43 @@
-Disc 1\01 Track01.flac:c5f91414a169e36f3551670fbbf2843c
-Disc 1\02 Track02.flac:51a14e6d25a5e65b014f38086dc16835
-Disc 1\03 Track03.flac:f0f4d17d93ce0052eba7ef2a6b44145b
-Disc 1\04 Track04.flac:68460d315c593460592e638e7c840fc0
-Disc 1\05 Track05.flac:8a3822b4e50ea0d3fe96e2d5a7e0f275
-Disc 1\06 Track06.flac:b8d4628454c0368b948ce09d71750e23
-Disc 1\07 Track07.flac:5d93ed73b410edaa9f6af55a445967f9
-Disc 1\08 Track08.flac:f061796e73cb31bfbe9d7525e2341050
-Disc 1\09 Track09.flac:a64550632cb7980d297034068365b6b6
-Disc 1\10 Track10.flac:57e3a304178cdf95b3b306445b391dcc
-Disc 1\11 Track11.flac:6a62c2aa2d5474054a35e5d6cb5e85bf
-Disc 1\12 Track12.flac:3df7e40aeb101ee7f31ed9e982ff0689
-Disc 1\13 Track13.flac:3b9fc215f16e13ee8e02bb24ce74633b
-Disc 1\14 Track14.flac:146f8d2049dd27f1982bb9fc91bfe183
-Disc 1\15 Track15.flac:afef7cd811d7634e82929a85e8e7fd1d
-Disc 2\01 Track01.flac:ae1bc308f61851372fddb4417c5f11ce
-Disc 2\02 Track02.flac:2ef3e657a1258ab0471980cd61887f29
-Disc 2\03 Track03.flac:7ba7f0f5f88241819b9369638ed16b51
-Disc 2\04 Track04.flac:19f9e26c4c76ee80048c29b439ac8f70
-Disc 2\05 Track05.flac:e4e722385c998500bc1f2b6e977b4045
-Disc 2\06 Track06.flac:4181ed4f0191a6efa3a3433bed455819
-Disc 2\07 Track07.flac:6888b645eedfc1919d86896ef43e3b7a
-Disc 2\08 Track08.flac:94eb71f14e4467ebfd996ac477dbb7d9
-Disc 2\09 Track09.flac:a8244efdc2752b66d3ce1bcc07efc93b
-Disc 2\10 Track10.flac:5d14609dddb32cf88e6fc1d99d9f7520
-Disc 2\11 Track11.flac:1e57ab77ef1e47fed107d0bc23f7a9b6
+04.02.2005
+Germany, Oberhausen, König-Pilsener-Arena
+Around The Sun Tour Oberhausen
+good Aud.
+
+Disc 1: [1:15:06]
+01. Finest Worksong [4:22]
+02. Departure [3:49]
+03. I Took Your Name [4:18]
+04. Animal [4:31]
+05. Outsiders [4:50]
+06. 7 Chinese Brothers [5:20]
+07. Hi-Speed Train [5:11]
+08. Everybody Hurts [7:43]
+09. Boy In The Well [6:11]
+10. Electrolite [4:30]
+11. Leaving New York [5:20]
+12. Orange Crush [4:36]
+13. Wanted To Be Wrong [5:04]
+14. Final Straw [5:02]
+15. Imitation Of Life [4:13]
+
+Disc 2: [53:01]
+01. The One I Love [3:32]
+02. Walk Unafraid [5:14]
+03. Losing My Religion [4:46]
+04. Break [3:13]
+05. What's The Frequency, Kenneth [4:02]
+06. Wake Up Bomb [5:29]
+07. Aftermath [4:29]
+08. Find The River [4:29]
+09. The Great Beyond - Band Intro's [7:14]
+10. I'm Gonna D.J. [2:24]
+11. Man On The Moon [8:04]
+
+Taped & Edited By : remer
+Source: CSB + Battery Box > Creative Nomad Jukebox 3
+Conversion/Editing: JB3 > Firewire > Soundforge 7.0 > CD Wave > Flac Frontend v1.7.1
+
+Info:
+Track 10 at approx 00:46s and Track 14 at approx 01:44s have had the right channel copied onto the left channel because of human interference during the show. They only last for a second or two so hopefully it won't ruin the recording too much!! Unfortunatly I couldn't do anything about the couple in front of me who deceided to have a conversation throughout the whole of the encore
+
+Lineage: Trade (CDR) EAC > WAV > FLAC (Level 8) > Torrent

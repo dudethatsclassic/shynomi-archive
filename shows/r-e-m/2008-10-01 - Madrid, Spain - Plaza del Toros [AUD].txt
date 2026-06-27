@@ -1,30 +1,45 @@
-rem2008-10-01_t00.flac:27acd245636123a53259ef9aa51cf9ac
-rem2008-10-01_t01.flac:11466754151aff42ac634f9f3a724384
-rem2008-10-01_t02.flac:1b5c2a3f62082706883c1181e0b84cb6
-rem2008-10-01_t03.flac:1d686079cf8b4322123edc1b2ea582ba
-rem2008-10-01_t04.flac:64ac2f610a78b378dfe56cbe5ead34ea
-rem2008-10-01_t05.flac:4b2bc32f5cb614959f2a7487e8dcae3c
-rem2008-10-01_t06.flac:30073a557659969ce6d79b7932d0f402
-rem2008-10-01_t07.flac:0cbf8db67b6c74468ff558f2b824900f
-rem2008-10-01_t08.flac:551f4f0b8d3f7d3d8b0db45324a5654b
-rem2008-10-01_t09.flac:6d58cf4e5816c1653a1b27dc285d880f
-rem2008-10-01_t10.flac:8a0adab52d413b29526adaa094f2c89f
-rem2008-10-01_t11.flac:fc1fbb722ecb9678c319e8a5b157f029
-rem2008-10-01_t12.flac:495d0907f3e3aaaeb342714f4c9df74f
-rem2008-10-01_t13.flac:76010f4160c2da006b432dd15e336366
-rem2008-10-01_t14.flac:7a1892b20a991bc09290f07ba13f564a
-rem2008-10-01_t15.flac:513cd0a8fbc77735eeb14826a7e55c70
-rem2008-10-01_t16.flac:06f259d3ffd67250273cf23df449bb15
-rem2008-10-01_t17.flac:e7c6e2d6edda016f26d1d45abce0e505
-rem2008-10-01_t18.flac:d809095b3f45bfcc6cfb262589f059b6
-rem2008-10-01_t19.flac:5b01fd94ecf8bb358b233b07b953f960
-rem2008-10-01_t20.flac:dc515eba9aacf006b7ca61b1adbba103
-rem2008-10-01_t21.flac:8c853e05c0eac3edef1742deff7efc7e
-rem2008-10-01_t22.flac:217d3be7fccd6e82364305704d14779b
-rem2008-10-01_t23.flac:ff80ee543eabfe7e39adeb01259170e2
-rem2008-10-01_t24.flac:d3b71bc9c91ea361b72955a3df9937ed
-rem2008-10-01_t25.flac:71bbbda96671f85cd4892b407c0dd9c3
-rem2008-10-01_t26.flac:2c1af6236932d5cbd7efb57dae9a2390
-rem2008-10-01_t27.flac:0833c9a6bd5c30d95288140781823b76
-rem2008-10-01_t28.flac:5ee9f7d27c8b82e4e44300ae6e8523b4
-rem2008-10-01_t29.flac:e2c86670627e2932a91b88769517e174
+01.10.2008
+Spain, Madrid, Plaza de Toros
+R.E.M. // Madrid // 01.10.2008
+good Aud.
+
+Disc 1: [1:06:40]
+01. Intro [0:56]
+02. Living Well Is The Best Revenge [3:16]
+03. What's The Frequency, Kenneth? [3:54]
+04. Drive [4:57]
+05. Circus Envy [4:03]
+06. Animal [4:33]
+07. Man Sized Wreath [3:13]
+08. Ignoreland [4:47]
+09. Just A Touch [3:04]
+10. Strange Currencies [4:20]
+11. Hollow Man [3:02]
+12. These Days [3:52]
+13. Walk Unafraid [4:08]
+14. Great Beyond  [4:37]
+15. Staring Down The Barrel Of Middle Distance [3:39]
+16. The One I Love [3:38]
+17. She Just Want's To Be [6:36]
+
+Disc 2: [55:41]
+01. I've Been High [4:07]
+02. Let Me In [3:39]
+03. Horse To Water [2:21]
+04. Bad Day [4:41]
+05. Imitation Of Life [3:45]
+06. Orange Crush [4:15]
+07. Supernatural Superserious [4:20]
+08. Losing My Religion [4:48]
+09. Accelerate [3:35]
+10. Banter [5:04]
+11. End Of The World * [3:55]
+12. Man On The Moon * [4:45]
+13. I Wanna Be Your Dog [6:19]
+
+* With We Are Scientists
+
+Taped and edited by raya
+Lineage: SP-CMC-2 > Sony MZ-NH700 (PCM WAV setting) > Sonic Stage (digital transfer via USB cable) > Audacity (normalizing, track splits, fades) > TLH (fix SBEs, Flac level 5)
+
+Lineage: Trade (FLAC on external HDD > Torrent > You)

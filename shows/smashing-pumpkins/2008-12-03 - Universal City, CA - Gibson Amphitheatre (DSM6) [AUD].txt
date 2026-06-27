@@ -1,26 +1,33 @@
-01 -intro-.flac:08ca1dcc3770cca92f3e7fad51589d35
-02 Ava Adore.flac:1160e857edd223e37e307cbab9f117b6
-03 Cupid De Locke.flac:393b5add17231a21377b89187cb0ce90
-04 1979.flac:3781a5a762d297ab0db65d902123d0f2
-05 99 Floors.flac:9a77f79a28e5b291dfb6fd35dba29c0f
-06 Owata.flac:0865d1bee9ee6ef977128285195baa0b
-07 Sun Kissed.flac:7c238956a6a93cccdbf6679d0add36c3
-08 Soma.flac:41efb316115f50785bbab3f693156a31
-09 Cherub Rock.flac:d96f32f9915f89e0505d6f54ff9a0922
-10 Zero.flac:2ee4ea40c52d2bb4725b637e0b17db7c
-11 Bodies.flac:69c2620f0e28337fc8e96fbb265f2aa8
-12 Crestfallen.flac:ce009f982b425c1567d2a84102cd8577
-13 I Of The Mourning.flac:af93ddc2ff37d082120d9081490b836e
-14 A Song For A Son.flac:cb88f6350c7f14853e332fed8f09829c
-15 Landslide.flac:5cf2569ed1b24084e049987bbb21251e
-16 Disarm.flac:1b8665a61845119862cef9f8a8986dac
-17 Mellon Collie And The Infinite Sadness.flac:17bc938f10e2c96de9890133f9dd53b9
-18 Galapogos.flac:d69b85333e8a42739d422fac07a0251c
-19 Gossamer.flac:063df5075f58d1e208bdefa1569958fb
-20 As Rome Burns.flac:daa69680d88a4e23ecd1f16c2a810086
-21 The Sounds Of Silence.flac:e635ebc5f2012d5f50730f543c2fe1fa
-22 Lil' Red Riding Hood.flac:ea53d56b6376528cc76c501f64b76a37
-23 The March Hare.flac:7c9064fa4df32d1b343d0f0ce45b4cfc
-24 Age Of Innocence.flac:ebcf037c8196cee021d3c6c4c89d9ec9
-25 That's The Way (My Love Is).flac:0839d1def5c5daccf8eb01f3d267b097
-26 I Am One Part 2.flac:f46ce6794a44b091ac6dc5d3455b4929
+SMASHING PUMPKINS
+UNIVERSAL CITY,CA:GIBSON AMPHITHEATRE
+12/3/08
+
+DSM6 -> PACLC -> D7
+D7 -> 7pin Coaxial -> CDRW700 -> EAC -> Soundforge -> FLAC Frontend Level 8
+
+01. -intro-
+02. Ava Adore
+03. Cupid De Locke
+04. 1979
+05. 99 Floors
+06. Owata
+07. Sunkissed
+08. Soma
+09. Cherub Rock
+10. Zero
+11. Bodies
+12. Crestfallen
+13. I Of The Mourning
+14. A Song For A Son
+15. Landslide
+16. Disarm
+17. Mellon Collie And The Infinite Sadness
+18. Galapogos
+19. Gossamer (with George Lynch on guitar)
+20. As Rome Burns
+21. The Sounds of Silence
+22. Lil' Red Riding Hood
+23. The March Hare (with Suffer)
+24. Age of Innocence
+25. That's The Way (My Love Is)
+26. I Am One Part 2 (with George Lynch on guitar) 

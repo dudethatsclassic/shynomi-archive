@@ -1,1 +1,46 @@
-rh2003-09-26d1t01.flac:5d76e619ffa7b08581b2fe725ee13652rh2003-09-26d1t02.flac:f75eb59aceea58670ab48ffe2893b19brh2003-09-26d1t03.flac:6d682c33f4e056937de82597244ddeadrh2003-09-26d1t04.flac:64fe5a78413e6791bcdebb0dd2065795rh2003-09-26d1t05.flac:5b17e1f7f8600f6a27cb6c124796e96brh2003-09-26d1t06.flac:92605c50f0bb771f4876d04d49f55081rh2003-09-26d1t07.flac:4677b17f051e4754387b6045a04be9b9rh2003-09-26d1t08.flac:3ccdb2159bea42de7a06a780406a90b0rh2003-09-26d1t09.flac:f88ecca66cdcb5de6aa8bef9dac20bf4rh2003-09-26d1t10.flac:c7571b17f37c13473b301f934938e60arh2003-09-26d1t11.flac:52a04a515bb8d420ffd795c106b32662rh2003-09-26d1t12.flac:1d7ba70f5f291a9eb75e9661dda47f3erh2003-09-26d1t13.flac:1b91ce0f68aa0507e08ed5cd714f7279rh2003-09-26d1t14.flac:685d5ed773a823c27a1e248d04709f83rh2003-09-26d1t15.flac:66fe112ab971219157a2c2fb22899cf1rh2003-09-26d1t16.flac:60c3be4d6e0662c8198ed57bf70749fcrh2003-09-26d2t01.flac:95594a1df0da05ae7583be341b914560rh2003-09-26d2t02.flac:895a7ef8e85d26545ea91da0528d51b7rh2003-09-26d2t03.flac:1358b53b62d75327248520bab64abc48rh2003-09-26d2t04.flac:0bd2ef0e0b56e0bd245942c098969747rh2003-09-26d2t05.flac:cc2a59ba6ad07aaa0d5d7a423b502bberh2003-09-26d2t06.flac:5ea8ce1aef1d1b30f3ec5167e8802110rh2003-09-26d2t07.flac:1ab8c2495c66d07aaf549a804aaae380rh2003-09-26d2t08.flac:a628b9b47dc41228786a124fcc96c15c
+Radiohead
+September 26, 2003
+Hollywood Bowl
+Los Angeles, CA
+
+3 Source mix: [ALD>D8>DAT-M>CDR1] + [AT831>DAT-M>CDR1] + [DPA 4061s>M1>DAT-M>CDR1>dEQ] => FLAC
+
+Tapers
+--------
+ALD: Rob L.
+AT831: Edgar
+DPA4061: KK
+
+
+Disc I
+01 2+2=5
+02 Sit Down. Stand Up.
+03 Where I End and You Begin
+04 Kid A
+05 Backdrifts
+06 Morning Bell
+07 My Iron Lung
+08 I Might Be Wrong
+09 Creep
+10 Sail to the Moon
+11 Big Ideas
+12 Paranoid Android
+13 A Punchup At a Wedding
+14 Go to Sleep
+15 The Gloaming
+16 Idioteque
+
+Disc II
+01 No Surprises
+02 There There
+03 You and Whose Army?
+04 The National Anthem
+05 A Wolf at the Door
+06 Fake Plastic Trees
+07 Airbag
+08 Everything In Its Right Place
+
+
+mix and edit by BLG
+compiled on 02-23-04
+

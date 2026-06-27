@@ -6862,8 +6862,7 @@ const ARTIST_DATA = {
       "venue": "Golden Gate Park",
       "notes": "Tibetan \u00b7 MTV Week in Rock",
       "version": "TV",
-      "format": "DVD",
-      "textFile": "1996-06-15 - San Francisco, CA - Golden Gate Park.txt"
+      "format": "DVD"
     },
     {
       "year": 1996,
@@ -22118,8 +22117,7 @@ const ARTIST_DATA = {
       "venue": "Stadium Live",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2013-08-06 - Moscow, Russia - Stadium Live [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2013,

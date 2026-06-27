@@ -1,27 +1,46 @@
-tsp2008-11-04t01.flac:e7e1d72405742d435e9ebecb4492e707
-tsp2008-11-04t02.flac:10c2a0a4a8eaf6afb73c88f0f836f6c1
-tsp2008-11-04t03.flac:05d51916e47240dde8ab4f6bf524e524
-tsp2008-11-04t04.flac:ad6532f5c33216fe8386e7a7daff61a3
-tsp2008-11-04t05.flac:5ae35eb648ac1fa41073ae48e4bcfbf6
-tsp2008-11-04t06.flac:1c2d7453f845252ed6eefc7da4fe8ba4
-tsp2008-11-04t07.flac:0feb21e49ca9e94c6a46c6184df6ce55
-tsp2008-11-04t08.flac:32df1f73d162012fa6957976092f4b5c
-tsp2008-11-04t09.flac:117d83a3846405b9530569109c93f9d5
-tsp2008-11-04t10.flac:4198bfc53dd89b06452678728fd041aa
-tsp2008-11-04t11.flac:60765e68d96cf2a8a69716dd9f95f286
-tsp2008-11-04t12.flac:3c0132d000b0f53791048eb3ed22cc97
-tsp2008-11-04t13.flac:cfe9e8022f759c61c4f8a615613d4a31
-tsp2008-11-04t14.flac:477c169e02e97e3e5916acb9bfb8411f
-tsp2008-11-04t15.flac:bd164ea734c4c8a9058f850bb0d2e7b4
-tsp2008-11-04t16.flac:a5d11a4bd8de145558995b751d80bcbd
-tsp2008-11-04t17.flac:259d7f94e96b73789ee86e42cfe65e27
-tsp2008-11-04t18.flac:4d7a433ebfe3c9a0e2ed7a6e524b9d3c
-tsp2008-11-04t19.flac:cbd3e5c837cc2f502fb3c018fd7c220f
-tsp2008-11-04t20.flac:709d72b93da5ff6d67492e31bf80451a
-tsp2008-11-04t21.flac:357066593f68c4113e75b3748b19c636
-tsp2008-11-04t22.flac:f5ed881a49cbf0411607ab8ad8cd1de5
-tsp2008-11-04t23.flac:3382ef17e1244c5c612434363fae9da7
-tsp2008-11-04t25.flac:84fbd1d77d15bd2e523bc82cef684315
-tsp2008-11-04t26.flac:7dcd57dc929127e6f06db2d4dc1c074f
-tsp2008-11-04t27.flac:e8f6b268abebbec78b71fc16e1d16deb
-tsp2008-11-04t24.flac:8dc774b103df548e323751770fb8cab3
+Smashing Pumpkins
+2008-11-04
+Massey Hall
+Toronto, ON, CA
+"Rocktonto White Crosses"
+
+The ZOMB Taping Project
+
+1  Intro
+2  Ava Adore
+3  Cupid de Locke
+4  1979
+5  99 Floors
+6  Owata
+7  Sunkissed
+8  Soma
+9  Cherub Rock
+10 Zero
+11 Bodies
+12 Crestfallen
+13 I of the Mourning
+14 A Song for a Son
+15 This is not an open forum
+16 Landslide [Nicks]
+17 Disarm
+18 Mellon Collie and the Infinite Sadness
+19 Galapogos
+20 Gossamer
+21 As Rome Burns
+22 The Sounds of Silence [Simon]
+ > Lil' Red Riding Hood [Sam the Sham and the Pharaohs] (tease)
+23 The March Hare
+ > Suffer (tease)
+24 Age of Innocence
+
+Encore:
+
+25 That's the Way (My Love Is)
+26 Banter
+27 I Am One Part II
+
+CA-11 > BAT-2B > Edirol R-09
+Row H Seat 30 Complete center
+
+Taped, Transferred, tagged and seeded by smashing0
+Originally seeded on http://zombtracker.the-zomb.com on 2008-11-08

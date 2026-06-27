@@ -1,15 +1,34 @@
-tsp1992-01-19d1t01.flac:24f708dbbae9828d1525f671888bf904
-tsp1992-01-19d1t02.flac:c667ec519459ab9b2518ae2c0f40f8ec
-tsp1992-01-19d1t03.flac:c0f305e8b6d4a1e79c91dd32b7808af3
-tsp1992-01-19d1t04.flac:8b8e45e7948241a72813a4c91be549cf
-tsp1992-01-19d1t05.flac:9240a326aa6e9c74d8f98ba31ba3c870
-tsp1992-01-19d1t06.flac:5f5c409a36f8c7bc415d0b90c09bf494
-tsp1992-01-19d1t07.flac:b5af71af44050d71a80aff1f3f8b4cd7
-tsp1992-01-19d1t08.flac:e633a9289912a48d5d62230fed16d600
-tsp1992-01-19d1t09.flac:9aac252659630631c665d4511d264f1a
-tsp1992-01-19d1t10.flac:71f95f683e60605ae707176ed5b7e476
-tsp1992-01-19d2t01.flac:ae25fc37583e08c5106b569b523a8026
-tsp1992-01-19d2t02.flac:f626cb9a1bf1b4548af88b850bdede31
-tsp1992-01-19d2t03.flac:f18cc455a9317680decffe9728d4806d
-tsp1992-01-19d2t04.flac:e431d65a8920bb7eca748369658ff6da
-tsp1992-01-19d2t05.flac:d0034f5112cf6cdb44333e2fd7a4c6c6
+The Smashing Pumpkins
+1/19/1992
+Paard van Troje
+Den Haag, NL
+
+Taper:            unknown
+Source:           SBD > WM-D6 > ANA-1 > DAT
+Conversion:       DDC-?(32k) > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. Suffer
+2. Rocket (alt. lyrics)
+3. Bury Me
+4. Snail
+5. Tristessa
+6. Window Paine
+7. Siva
+8. Slunk, I Am One (abandoned)
+9. Luna
+10. I Am One
+
+Disc 2
+1. Crush
+2. Silverfuck
+3. Rhinoceros
+4. Blue
+5. Girl Named Sandoz [The Animals]

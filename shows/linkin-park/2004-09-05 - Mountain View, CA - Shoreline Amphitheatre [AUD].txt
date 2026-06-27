@@ -1,21 +1,40 @@
-linkinpark2004-09-05d1t01.flac:7f0ce27c528aec2dad62c4b57706b070
-linkinpark2004-09-05d1t02.flac:afb2042b32cfc0cd52a05f670e4c973a
-linkinpark2004-09-05d1t03.flac:db4fc32c08e118e0df9d6679fb423606
-linkinpark2004-09-05d1t04.flac:8004cfa6a3772070756541daf5b485df
-linkinpark2004-09-05d1t05.flac:74f4ab5137e6405888a8af8a0d426600
-linkinpark2004-09-05d1t06.flac:579c1217adc7e8cd23dd1efa3092196b
-linkinpark2004-09-05d1t07.flac:11d05932e763a5da88dfa0554249272b
-linkinpark2004-09-05d1t08.flac:7c0f8ea87651f3472c3bc4fbb7fe31f5
-linkinpark2004-09-05d1t09.flac:987bf24dc4b85578b185243dec0f4a89
-linkinpark2004-09-05d1t10.flac:a5ccc256b6da9b30e60411789a8d0696
-linkinpark2004-09-05d1t11.flac:29ba4c2f592ce53364b83e79383c2657
-linkinpark2004-09-05d1t12.flac:63e592f781b99020d00bd1197e32419e
-linkinpark2004-09-05d2t01.flac:888807bdcf427ef9aa1a052990ff5b17
-linkinpark2004-09-05d2t02.flac:776261c9e22975044b50562d0c55dc6c
-linkinpark2004-09-05d2t03.flac:7ec6fc76a6d11470af1d699269abbc3a
-linkinpark2004-09-05d2t04.flac:367cc1bcc59bd55c5fdfd2313c36064b
-linkinpark2004-09-05d2t05.flac:7371b6d7cc54694be300d99316602a59
-linkinpark2004-09-05d2t06.flac:27f92d44091adc4f2ed3dfff00198e1b
-linkinpark2004-09-05d2t07.flac:a30875a76eeca6f2806a0c8a2e5c1861
-linkinpark2004-09-05d2t08.flac:a6f9595c884c46ddb754969ef3a270c2
-linkinpark2004-09-05d2t09.flac:ceff0a7e284746c4c71826c8846644c5
+Linkin Park
+September 5th, 2004
+Shoreline Amphitheatre - Mountain View, CA
+
+Source: Schoeps MK4s > Nbox > SBM-1 > PCM-M1
+Conversion: PCM-R300 > USBPre > Soundforge 7.0b > shntool 2.0.3 > flac 1.1.2
+
+Disc 1:
+01. Intro 01:21.30       
+02. Don't Stay 03:04.26       
+03. Lying From You 03:28.33       
+04. Papercut 03:30.25       
+05. Points of Authority 03:26.46       
+06. With You 03:25.73       
+07. Runaway 04:36.39       
+08. Step Up 02:23.09       
+09. It's Going Down 04:08.41       
+10. Somewhere I Belong 03:56.11       
+11. Figure.09 04:44.35       
+12. From the Inside 04:07.10       
+
+Total: 42:13.03
+
+Disc 2:
+01. Breaking The Habit 05:12.15        
+02. Numb (Medley) 05:27.66       
+03. Faint 02:43.47       
+04. In The End 04:37.71       
+05. A Place for My Head 07:31.48       
+06. Crawling 04:15.21       
+07. Wish (false start > Sweet Child O Mine (Guns N Roses Cover) 02:01.31       
+08. Wish (Nine Inch Nails Cover) 04:17.71       
+09. One Step Closer 05:30.23       
+
+Total: 41:38.18
+
+Notes: Sourced from the master tape. Last night of the tour.
+
+Compiled on 03/02/2007      
+

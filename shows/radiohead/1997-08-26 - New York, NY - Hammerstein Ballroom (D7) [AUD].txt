@@ -1,22 +1,53 @@
-radiohead_1997-08-26d1t01.flac:b532e9fd9312e88a32dff5a5d7149834
-radiohead_1997-08-26d1t02.flac:45bb6de5be45e58698e2e2ddfe754424
-radiohead_1997-08-26d1t03.flac:4c1fea3d098c25c2ccdf9ac258a9e288
-radiohead_1997-08-26d1t04.flac:77d1a3a4968e754cd8b8d321264be008
-radiohead_1997-08-26d1t05.flac:5e93db0d5126f39b3273c895dcfd3f25
-radiohead_1997-08-26d1t06.flac:345fdb1a12d41d23221c69b2a6284ee9
-radiohead_1997-08-26d1t07.flac:d1a8e5c9c322b1df0da322ae510b7be9
-radiohead_1997-08-26d1t08.flac:987971f60a7ae0a83ae67c32e9466057
-radiohead_1997-08-26d1t09.flac:932fb171afc21c9e1ce630eb41eb0764
-radiohead_1997-08-26d1t10.flac:34e9051dff798b0c178b1760955bf3a9
-radiohead_1997-08-26d1t11.flac:04c3874f5446bec0e127ab0bbbeec68c
-radiohead_1997-08-26d1t12.flac:a965db24d9a2693442305613250e0d54
-radiohead_1997-08-26d2t01.flac:69964e4f5404eaab532ba1b614e3246e
-radiohead_1997-08-26d2t02.flac:96ed58f077425f5e43996923a99787f6
-radiohead_1997-08-26d2t03.flac:7765d55cb7c3bdfa0dce448016d0ee1c
-radiohead_1997-08-26d2t04.flac:826b9bf85fee2efb4b5f5370f3633aed
-radiohead_1997-08-26d2t05.flac:0161aa83e6ac938dbd4c28a77ab8f583
-radiohead_1997-08-26d2t06.flac:b57ec015cac77404f51429c1630c9fac
-radiohead_1997-08-26d2t07.flac:857c695196d3d22be1aee60170804ef2
-radiohead_1997-08-26d2t08.flac:6568b932658a31b7f7fc626858c22be2
-radiohead_1997-08-26d2t09.flac:ee8a4902cf8b64dfd6e7a43aee7f18a1
-radiohead_1997-08-26d2t10.flac:fc28df5a73abdc1d4f46ed32313907a8
+Radiohead
+August 26, 1997
+Hammerstein Ballroom
+New York, NY
+
+Source: Core Sound Cardioids -> Sony TCD-D7
+Lineage: DAT-M -> CDR1 (untracked) -> EAC -> CDWave -> FLAC
+
+
+Disc I
+01 Fitter, Happier
+02 Lucky
+03 Just
+04 Airbag
+05 Exit Music
+06 Karma Police
+07 Planet Telex
+08 Climbing Up the Walls
+09 No Surprises
+10 My Iron Lung
+11 Paranoid Android
+12 Fake Plastic Trees
+55:32
+
+
+Disc II
+01 Let Down
+02 Creep
+03 Bones
+04 Talk Show Host
+05 The Bends
+06 Subterranean Homesick Alien
+07 Bulletproof
+08 Polyethylene Pt. 2
+09 Street Spirit
+10 Motion Picture Soundtrack (Thom solo acoustic)
+45:51
+
+
+Notes: This is the complete show and is an upgrade in sound quality
+over the Marcsounds source.
+
+
+
+Many thanks to the taper.
+
+CDR>WAV>FLAC by BLG
+compiled on 09-17-05
+
+
+			
+
+

@@ -992,8 +992,7 @@ const ARTIST_DATA = {
       "venue": "University of Leeds",
       "notes": "unk",
       "version": "AUD #1",
-      "format": "FLAC",
-      "textFile": "1990-02-07 - Leeds, England - University of Leeds [AUD #1].txt"
+      "format": "FLAC"
     },
     {
       "year": 1990,
@@ -2511,8 +2510,7 @@ const ARTIST_DATA = {
       "venue": "Golden Gate Park",
       "notes": "Tibetan \u00b7 unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1996-06-16 - San Francisco, CA - Golden Gate Park - Tibetan Freedom Concert (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -5432,8 +5430,7 @@ const ARTIST_DATA = {
       "venue": "Slane Castle",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2003-08-24 - Meath, Ireland - Slane Castle [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2003,

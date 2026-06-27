@@ -1,1 +1,54 @@
-rh2003-09-25d1t01.flac:e56a7be75924ec603fee5f1d18b4246arh2003-09-25d1t02.flac:34b8f96bd8db5213891ca1009fa1629frh2003-09-25d1t03.flac:aef09ef0b0c05099cc5566359c12b1darh2003-09-25d1t04.flac:ac70aa8a275c3a50a41ff2777e716d8drh2003-09-25d1t05.flac:f63e64ee964da2f248a4e0a1247a4045rh2003-09-25d1t06.flac:9890bb9dab9a176c5b5bfeb9fd822a14rh2003-09-25d1t07.flac:7865f1bd7d7d52ef1ebece067f839079rh2003-09-25d1t08.flac:bbb061eac37e3f9224dbd1adb3ab360drh2003-09-25d1t09.flac:d059e8ee2842b003d00dea31ba2a60a1rh2003-09-25d1t10.flac:e137f8d29087ca9b3eefb05f52a23377rh2003-09-25d1t11.flac:2e6297a950105432893385324e74bba6rh2003-09-25d1t12.flac:2de1148b84b27eca81661ad201a74849rh2003-09-25d1t13.flac:b45b96d7f310b5db4afc992188937aafrh2003-09-25d1t14.flac:41ab37e4077e2eb183e1485bcab0d23crh2003-09-25d1t15.flac:0909f7819aebfc4e577aa7d1fe83807erh2003-09-25d1t16.flac:893f99fb7699ee2982e099afbafc1ddcrh2003-09-25d1t17.flac:5c0a0aaa7178e36ecbbd839091a7ce65rh2003-09-25d1t18.flac:66267dfb90910c5019cfa2e39f021b7erh2003-09-25d2t01.flac:dd5d5d2c579b3ffd517b4306993203cfrh2003-09-25d2t02.flac:a1f7100ba35ee2d4c5a5d2c383c79cf6rh2003-09-25d2t03.flac:84d8c5955d1334c5c63503724b8c4cb9rh2003-09-25d2t04.flac:e0552aff598d41ac908cea88bbfc926brh2003-09-25d2t05.flac:fe6cb73a40b76a8dd5902468f5392e5frh2003-09-25d2t06.flac:033412d0ad9f43207c97c6be15701c7erh2003-09-25d2t07.flac:556a67fb99b3771b101a5817306bf1d3
+Radiohead
+September 25, 2003
+Hollywood Bowl
+Los Angeles, CA
+
+2 Source mix: [ALD>D8>DAT-M>CDR1>dEdit] + [Schoeps Mk4>mod-lemosax>SBM-1>D100>DAT-M>.wav>dEdit] => FLAC
+
+Transfers 
+-----------
+ALD: Tascam DA-30MKII > coax > Marantz CDR630 > CDR1(untracked) (transfer by Rob L.)
+MK4: M1 > 7 pin > Delta Dio 2496 > CEP 2.1 > .WAV (transfer by BLG)
+
+
+Tapers
+-------
+ALD: Rob L.
+MK4: Alex C.
+
+Disc I
+01 Intro (Where Bluebirds Fly)
+02 There There
+03 2+2=5
+04 Lucky
+05 Myxomatosis
+06 Where I End and You Begin
+07 Backdrifts
+08 Airbag
+09 Paranoid Android
+10 Sail to the Moon
+11 I Will
+12 Lurgee
+13 The Gloaming
+14 Idioteque
+15 Scatterbrain
+16 The National Anthem
+17 Exit Music
+18 Sit Down. Stand Up.
+
+Disc II
+01 crowd
+02 Like Spinning Plates
+03 A Punchup at a Wedding
+04 Go to Sleep
+05 Street Spirit
+06 Karma Police
+07 Everything In Its Right Place
+
+Notes: The ALD source missed the first song and had several issues that needed editing. 
+This results in a mix that is still quite good, but not as good as what I was able to 
+do with Night 2.
+
+mix and edit by BLG
+compiled on 01/30/04
+

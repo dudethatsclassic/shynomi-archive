@@ -1,24 +1,39 @@
-01 The Ecstacy of Gold.flac:a9f150fb0f61dcd3c25422fa225fd14d
-02 Battery.flac:1c145670a31692d6a4c30b713ad1e3db
-03 Fuel.flac:a02def7804124e949261c27a7a375155
-04 For Whom The Bell Tolls.flac:47d370bc539756a946ac01572d88dffc
-05 The Thing That Should Not Be.flac:31ebb86db38f7d316087071bd9313f04
-06 Frantic.flac:7e9835efdd0f15a88962821b61181394
-07 Kirk Solo 1.flac:b2cece645583703e6ff58d0499e2d30b
-08 Turn The Page.flac:bc048ea03cf99a5f76a99a6a2756d274
-09 Holier Than Thou.flac:9c7081c572a56d43e5a40d848f350cd8
-10 I Disappear.flac:cf9f017ab7ab4561339220f0102558d3
-11 Junglessence - Orion.flac:7810a0ba5c539f09b649e4c27debaa94
-12 Sanitarium.flac:73dd75e870abd2b87f5393edbfb4c86d
-13 Creeping Death.flac:42ee6c0a7f23f385ff0a30e56e4986cc
-14 Damage Inc.flac:3a8516305bc8c37e0f3f4ee47af9d5b0
-15 Sad But True.flac:eab6abf22cfe90dccc5d19fa62f1440e
-16 Kirk Solo 2 - Melbourne.flac:49e64ab8e4d67e868b4e4b00622acfb7
-17 Nothing Else Matters.flac:cfcb88113249738023f8aa3c7ce62721
-18 Master of Puppets.flac:6c3cc88d4edf3b50f4097025b2ef28e4
-19 One.flac:68edee9289d9561ec0693ce33019cd03
-20 Enter Sandman.flac:96815434dc148da157ddbf9d0d20b87c
-21 Jam.flac:b4dca9abec6c73908eb0cb964110ab5f
-22 So What.flac:e70c7f04e354b30086011f9cc87bb539
-23 Seek and Destroy.flac:a269831cd84fca0f0215edd91ad61100
-24 Thank Yous.flac:98a420fa4759359b635d367f22e62b34
+Metallica
+Fleet Center
+Boston, Massachusetts
+October 25, 2004
+
+Source: Mics > Stuff > D8
+
+Transfer: DAT > Pro Digital Mod Sony RK-DA10P 7-Pin > M-Audio Audiophile 2496 > Cool Edit Pro 2.1 (48 > 44.1) > Flac
+
+01 Ecstacy Of Gold		2:25
+02 Battery			5:28
+03 Fuel				4:58
+04 For Whom The Bell Tolls	4:55
+05 The Thing That Should Not Be	10:20
+06 Frantic			5:47
+07 Kirk Solo 1			2:27
+08 Turn The Page		6:21
+09 Holier Than Thou		4:08
+10 I Disappear			4:59
+11 Junglessence - Orion		5:31
+12 Welcome Home (Sanitarium)	7:15
+13 Creeping Death		6:51
+14 Damage Inc.			8:38
+15 Sad But True (w/Sully)	5:32
+16 Kirk 2 - Melbourne		2:13
+17 Nothing Else Matters		6:01
+18 Master Of Puppets		10:25
+19 One				8:14
+20 Enter Sandman		9:09
+21 Jam				0:49
+22 So What			3:15
+23 Seek And Destroy		9:50
+24 Thank Yous			2:07
+
+Total				2:17:38
+
+No EQ, full show, excellent recording.  Taper ~8th row on the floor.  Some explosions softened.  Sully from Godsmack guests on Sad But True.
+
+Thank you to Metallica for a great show.

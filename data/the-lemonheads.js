@@ -39,7 +39,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 unk \u00b7 mark l.",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1989-06-16 - Gammelsdorf, Germany - Zirkus - ANA(1) (unk) (mark l.) [AUD].txt"
+      "textFile": "1989-06-16 - Gammelsdorf, Germany - Zirkus - ANA(1) (unk) (mark l.) [AUD].rtf"
     },
     {
       "year": 1989,

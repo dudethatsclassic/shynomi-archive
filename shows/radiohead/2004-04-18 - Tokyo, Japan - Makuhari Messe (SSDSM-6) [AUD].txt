@@ -1,24 +1,42 @@
-rh2004-04-18d1t01.flac:b466e8c28c1cacd9b6e9a1c8554711a1
-rh2004-04-18d1t02.flac:3e58ccadd7f8f13d156ad2e0a2d5a410
-rh2004-04-18d1t03.flac:96bd77b95fa473c9d0b4de1d5d3506d7
-rh2004-04-18d1t04.flac:2d306d49dbf494267fd13217ca2033f8
-rh2004-04-18d1t05.flac:1c8b3d8fde39d3653cd1428399231909
-rh2004-04-18d1t06.flac:dc8d824436400b010012dd41b39ce844
-rh2004-04-18d1t07.flac:fe2afe955bd3db927e5bf97625da454d
-rh2004-04-18d1t08.flac:ceddf1300ba8d1a58b35a3e9019d20ac
-rh2004-04-18d1t09.flac:ea096377e4ed5650d30ce36fc6b56925
-rh2004-04-18d1t10.flac:8b34c60f434475e15fb2ed68d8cfd080
-rh2004-04-18d1t11.flac:83e93664ab9d59d6ad77de4eb9437c91
-rh2004-04-18d1t12.flac:d619d9391a11063dce129bbebcda2854
-rh2004-04-18d1t13.flac:e0f07c6966749c9f30c92e3ed6d4f96c
-rh2004-04-18d1t14.flac:34ba7072d974e55e4348a5e109b6c2b6
-rh2004-04-18d1t15.flac:5fa25a11e0b666a064dfd37790e2e362
-rh2004-04-18d2t01.flac:bdca8f856d39e34b7a40fc4325903988
-rh2004-04-18d2t02.flac:3fc3b6041b9b9bd98bd48f577a330214
-rh2004-04-18d2t03.flac:d88fe4fc4638ecf518f6ceff0354fdc9
-rh2004-04-18d2t04.flac:9611774568009ca22dc6e573dc1f6f8a
-rh2004-04-18d2t05.flac:bb30fe6c28b0b1c404e5ef0852746e65
-rh2004-04-18d2t06.flac:9332ff06d9c3f4da3c269220b96d58c7
-rh2004-04-18d2t07.flac:bda8118828c7366ef8611776f3d0d4db
-rh2004-04-18d2t08.flac:74ac94047137a9a7d3a939dfcb23707f
-rh2004-04-18d2t09.flac:71e1ee085cd3a844cfd3eba8d0571b4e
+Radiohead
+04-18-04
+Makuhari Messe
+Tokyo, Japan
+
+Source: Sonic Studios (DSM-6S) -> PA-6LC3 -> Sony TCD-D100  
+Lineage: DAT(1) 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> CEP 2.1 -> CDWave -> FLAC
+
+
+Disc I
+01 Where Bluebirds Fly
+02 There There
+03 2+2=5
+04 Myxomatosis
+05 Kid A
+06 Morning Bell
+07 Where I End and You Begin
+08 Bulletproof
+09 Backdrifts
+10 My Iron Lung
+11 Sail to the Moon
+12 Go to Sleep
+13 The National Anthem
+14 Scatterbrain
+15 Sit Down. Stand Up.
+
+Disc II
+01 Paranoid Android
+02 Exit Music
+03 Idioteque
+04 I Might Be Wrong
+05 Pyramid Song
+06 Wolf at the Door
+07 Street Spirit
+08 Planet Telex
+09 Everything In Its Right Place
+
+
+Transfer by BLG
+compiled on 05-03-04
+

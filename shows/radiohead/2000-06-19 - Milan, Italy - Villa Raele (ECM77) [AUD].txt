@@ -1,1 +1,43 @@
-rh2000-06-19d1t01.flac:5b692b06235b30de665264fc0b8cc5c3rh2000-06-19d1t02.flac:90c31e10f4a5879493f785c014659477rh2000-06-19d1t03.flac:187e7a17e9ca3c6320f756cee035b288rh2000-06-19d1t04.flac:e1958a9164ad542506c40accaba20255rh2000-06-19d1t05.flac:5f61919492a286144f8b1045dd97fbfdrh2000-06-19d1t06.flac:45749c6902c2755678a6d0c80966c1c5rh2000-06-19d1t07.flac:02540b809d854017869bbd3a8706209frh2000-06-19d1t08.flac:7db6dff68f98277e0434e762413a4530rh2000-06-19d1t09.flac:fb712cd326385da8cec0f097e44de680rh2000-06-19d1t10.flac:eb80edad0b94c5cd05d68d6dc7a8dfcbrh2000-06-19d1t11.flac:ba545ed030184ad5d23111fa435bef46rh2000-06-19d1t12.flac:81e0f2d35defd0fe9ac353ceb2c68655rh2000-06-19d1t13.flac:c15ff7321813ff4530f261af0b6de56erh2000-06-19d1t14.flac:734531288f3a81ffedaa7cb567d3a20frh2000-06-19d2t01.flac:2f6dec70aa8370a00e870d6686752ea6rh2000-06-19d2t02.flac:4df6fc9e68355264b7df971a32c2d8f3rh2000-06-19d2t03.flac:fbce99be60fbc0ec808698806c6c7fearh2000-06-19d2t04.flac:a1160885e028e0b7db4909fc5174af36rh2000-06-19d2t05.flac:af3ce855c3dccd4198e5be3ce08e3d10rh2000-06-19d2t06.flac:a2fafb3373e88bad18bc20d82f5695a4rh2000-06-19d2t07.flac:e0c54e440f51a227b88e7a7398a849f3rh2000-06-19d2t08.flac:f3cee6641b7afd8c99c9e05ded87fbebrh2000-06-19d2t09.flac:61b8f6bcf24d25671001a90a0bb0d4abrh2000-06-19d2t10.flac:2b1b4a40b4af5253f340bf7adae83fb7rh2000-06-19d2t11.flac:18483651dc84c58b2e1f24b7c5befa26rh2000-06-19d2t12.flac:fc5635f39ec8f3f8577102cc2d6d9607
+Radiohead
+June 19, 2000
+Villa Raele
+Milan, Italy
+
+Source: Sony ECM77 -> Sony SBM-1 -> Sony PCM-M1
+Lineage: DAT(M) -> remastering via Pro Tools -> CDR3 -> EAC -> FLAC
+
+Disc I
+01 Optimistic
+02 Airbag
+03 Karma Police
+04 Lucky
+05 Pyramid Song
+06 Intro ->
+07 How To Disappear Completely
+08 Street Spirit
+09 Bones
+10 National Anthem
+11 My Iron Lung
+12 Kid A
+13 No Surprises
+14 Exit Music
+
+Disc II
+01 Into ->
+02 Fake Plastic Trees
+03 In Limbo
+04 Talk Show Host
+05 Just
+06 Everything In Its Right Place
+07 Planet Telex
+08 Bulletproof
+09 Morning Bell
+10 Paranoid Android
+11 Killer Cars	(Thom solo acoustic)
+12 I Might Be Wrong (Thom solo acoustic)
+
+
+CDR>FLAC by BLG
+compiled on 12/13/2009
+
+

@@ -1,22 +1,31 @@
-tsp2008-08-16t01.flac:faca6aea16408f6ab1ebbcdb13943593
-tsp2008-08-16t02.flac:0942b92b70f7773dc0fd37e1aed82e3f
-tsp2008-08-16t03.flac:e61592c19158a7fab95b97c0fb474f44
-tsp2008-08-16t04.flac:30fde7cee82dea22436bb174454bd3d7
-tsp2008-08-16t05.flac:9eb3191c84259e141327c41d4388fe33
-tsp2008-08-16t06.flac:d5d79116856d1190ed7350bc88c64e5e
-tsp2008-08-16t07.flac:d0f01ec048a669d927729c920e22e336
-tsp2008-08-16t08.flac:44ac6b631d9ad238ca69de7e3cd6477d
-tsp2008-08-16t09.flac:6257b857d9521ca80086ae66b7666c72
-tsp2008-08-16t10.flac:ef96a4112a88b1f82b3041b5a8065e33
-tsp2008-08-16t11.flac:142ead012a3bb4ac74c8691dae1766e7
-tsp2008-08-16t12.flac:e1fd8eb0147f8e8f385729a910ccab9f
-tsp2008-08-16t13.flac:7c91a7227494c1d0ce1b6725457955b4
-tsp2008-08-16t14.flac:7db756e5f58955db0c65c67d2fb661d8
-tsp2008-08-16t15.flac:6d41f5264b77d4ee1df53c1bd41a618f
-tsp2008-08-16t16.flac:b56174f74acf1559ae251ffa64b25fe8
-tsp2008-08-16t17.flac:4843b83bdc1a9029fac8fe714906176a
-tsp2008-08-16t18.flac:6e8f05dbfecf068fe0beb9948123fc09
-tsp2008-08-16t19.flac:71226d44d55dd9384948cfbc6ce0f08c
-tsp2008-08-16t20.flac:df589716bbf2e7565ab271924d48c03c
-tsp2008-08-16t21.flac:3afa6871cc452ed4f5a470d0b5d5073e
-tsp2008-08-16t22.flac:9eeca086eec3054bf09e93eee205ea6b
+Smashing Pumpkins
+08/16/2008
+The Backyard
+Austin, TX
+
+Taper: BG RAVES
+Source:  DSM-6S > PA-6LC3 > R-09HR
+Transfer:  R-09HR > USB > CEP 2.1 > flac
+
+01.  intro
+02.  Tarantula
+03.  G.L.O.W.
+04.  Siva
+05.  Eye
+06.  Mayonaise
+07.  Tonight, Tonight
+08.  Speed Kills
+09.  Transformer
+10.  Superchrist
+11.  United States
+12.  Once Upon a Time
+13.  Again, Again, Again (The Crux)
+14.  The Rose March
+15.  Today
+16.  Bullet with Butterfly Wings
+17.  The Beginning is the End is the Beginning
+18.  Heavy Metal Machine
+19.  Glass' Theme
+20.  Set the Controls for the Heart of the Sun [Pink Floyd]
+21.  We Only Come Out at Night
+22.  In the Summertime [Mungo Jerry]

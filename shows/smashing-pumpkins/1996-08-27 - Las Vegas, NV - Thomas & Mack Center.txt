@@ -1,19 +1,38 @@
-tsp1996-08-27d1t01.flac:f2bb70cb71f1029eb9c74926be802588
-tsp1996-08-27d1t02.flac:9b1b6a10cbdced2cdf021422a0dedc1e
-tsp1996-08-27d1t03.flac:edc11e2c1fa62835d19d44d1c4306099
-tsp1996-08-27d1t04.flac:41451387f77b4f16e6f59e9fc7db5cb9
-tsp1996-08-27d1t05.flac:12dde23d49ef8091c9fd7fd374a27cfc
-tsp1996-08-27d1t06.flac:867adacbc27f1bf5124062490ca97731
-tsp1996-08-27d1t07.flac:a27270138f47d3cebeb25a723f6c2a03
-tsp1996-08-27d1t08.flac:513c63588d831e338fbfe16fa0b05d1f
-tsp1996-08-27d1t09.flac:8a35dbdafa33f669757e23d4997ccc64
-tsp1996-08-27d1t10.flac:2289ba718e14cd335d2411d30e3878cb
-tsp1996-08-27d1t11.flac:aac22155264d0337db45c0ad56a30e4a
-tsp1996-08-27d1t12.flac:48d4e09aba9c5a6d513fc9b09be13dec
-tsp1996-08-27d1t13.flac:76cf98b0681565383a6d33e70510157a
-tsp1996-08-27d1t14.flac:64ecbbafac94e3681c6ca84ac73c9abd
-tsp1996-08-27d2t01.flac:63ee7991d572f11241f5e792649db262
-tsp1996-08-27d2t02.flac:19c6687f37095fd93d0afb9fe1e7fb81
-tsp1996-08-27d2t03.flac:ede1da11b1ad91573435d9dbac55f250
-tsp1996-08-27d2t04.flac:3cb5915d1e54eebe6fbc1f109ef6a3ca
-tsp1996-08-27d2t05.flac:f91cce487a2816b4ea042bd6876c7069
+The Smashing Pumpkins
+8/27/1996
+Thomas & Mack
+Las Vegas, NV
+
+Taper:            unknown
+Source:           CSB > D7
+Conversion:       DDC-4(48k) > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. MCIS
+2. Where Boys Fear to Tread
+3. Zero
+4. Cherub Rock
+5. To Forgive
+6. Tonight, Tonight
+7. Today
+8. Thru the Eyes of Ruby
+9. Rocket
+10. Thirty-three, Here Is No Why (abandoned)
+11. Disarm
+12. Bullet with Butterfly Wings
+13. Fuck You
+14. Porcelina of the Vast Oceans
+
+Disc 2
+1. 1979 (with The Frogs)
+2. X.Y.U.
+3. Mayonaise
+4. Bodies
+5. Silverfuck 

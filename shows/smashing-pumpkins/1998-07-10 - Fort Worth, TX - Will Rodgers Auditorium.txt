@@ -1,20 +1,39 @@
-tsp1998-07-10d1t01.flac:b996800ede4e6277a71a293abdaf808c
-tsp1998-07-10d1t02.flac:592695cf9469b2fe2a9d4abe50acd431
-tsp1998-07-10d1t03.flac:bb31c85f718f4f1912508dfbb312d6e4
-tsp1998-07-10d1t04.flac:dbf33d4818a791a058c3172378b82fe0
-tsp1998-07-10d1t05.flac:87068da6126012d4c86172202d831005
-tsp1998-07-10d1t06.flac:a024730d340f04ebdc62a33b198b3ca3
-tsp1998-07-10d1t07.flac:dbcf53b520ecec563be62b3e001dcedb
-tsp1998-07-10d1t08.flac:28191f793e019accef1bf18648a419ce
-tsp1998-07-10d1t09.flac:059ee6ddac5546d5153b56c86f5df48f
-tsp1998-07-10d1t10.flac:102e0d64faa41922607cc9d16b8e5ace
-tsp1998-07-10d1t11.flac:d0074ff2832340334e2a1af840d4f665
-tsp1998-07-10d1t12.flac:2be16cd50b959c80a856ee0b0fb0d539
-tsp1998-07-10d1t13.flac:cdedfb48e7bfc924b89d85374a87ae80
-tsp1998-07-10d2t01.flac:4ccaabfc53492b7bbada32bdb3defb86
-tsp1998-07-10d2t02.flac:76f78825e1028f9fe8825d301ff54b69
-tsp1998-07-10d2t03.flac:6564508222c8f4201f9264a97896a055
-tsp1998-07-10d2t04.flac:d414fc685e61902a7a1cca7556dc941f
-tsp1998-07-10d2t05.flac:735ae8b3604b5717b599c62a37f3476c
-tsp1998-07-10d2t06.flac:11074bb8089a4ddd3f41315647175d1f
-tsp1998-07-10d2t07.flac:559adbafa603e895abaf8cb97763de53
+The Smashing Pumpkins
+7/10/1998
+Will Rodgers Auditorium
+Fort Worth, TX
+
+Taper:            unknown
+Source:           Sennheiser MKE2 > M1
+Conversion:       DDC-1 > PCM-R300 > Audiophile 2496 > WAV > SHN > CDR-0
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. To Sheila
+2. Behold! the Night Mare
+3. Pug
+4. Crestfallen
+5. Ava Adore
+6. Daphne Descends
+7. Appels + Oranjes
+8. Annie-Dog
+9. Perfect
+10. Tear
+11. Tonight, Tonight
+12. Once Upon a Time
+13. The Tale of Dusty and Pistol Pete
+
+Disc 2
+1. (drum solo) > Bullet with Butterfly Wings 
+2. Shame
+3. For Martha
+4. (check presentation)
+5. 1979
+6. Blank Page
+7. Transmission [Joy Division]

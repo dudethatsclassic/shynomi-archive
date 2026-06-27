@@ -1,21 +1,52 @@
-rh1997-06-09d1t01.flac:4cc65c823fdebae3a071c077265941bc
-rh1997-06-09d1t02.flac:dacb43732230fe323cd8db082f267fb1
-rh1997-06-09d1t03.flac:ca790cac3f9cf960d3af950aa9581eb4
-rh1997-06-09d1t04.flac:161fcc04ecf31754226b4926359f47f6
-rh1997-06-09d1t05.flac:275b23a351ac796c2b590cb654ee3491
-rh1997-06-09d1t06.flac:a37fa664a9d6113a1281197d6158a7b3
-rh1997-06-09d1t07.flac:bf099b2cda5dec3a017d1a5975eea579
-rh1997-06-09d1t08.flac:b22f618639bdb5e826b6688a37650669
-rh1997-06-09d1t09.flac:5159e3be1265e223779c171879dfd57d
-rh1997-06-09d1t10.flac:4c37ad421dd9a898fffa8dfe7611d93f
-rh1997-06-09d1t11.flac:6c91bc8260e7d3e32b4c75a3a88de138
-rh1997-06-09d2t01.flac:52010cc06b73aced599bc32fdd420881
-rh1997-06-09d2t02.flac:345355f0d325291b8895740e8868263f
-rh1997-06-09d2t03.flac:0ea276b77422c8864dce2cd8ca4b6caf
-rh1997-06-09d2t04.flac:1c9dad6a6af48a836b9394d17339a07d
-rh1997-06-09d2t05.flac:344e16b3aa9992c0266116c1585243f0
-rh1997-06-09d2t06.flac:07a7ae61c106e046a5f0681050918148
-rh1997-06-09d2t07.flac:a43a2a2ee32575dcd74abe776c13fba1
-rh1997-06-09d2t08.flac:a1d406f0554b14a8f849fd5f6e86da8b
-rh1997-06-09d2t09.flac:77d2088eea148b9c9c85233121ff1e70
-rh1997-06-09d2t10.flac:19c40b3492744c2da9ca15e7ff9a57fc
+Radiohead
+June 09, 1997
+Irving Plaza
+New York, NY
+
+Source: Core Sound Cardioids -> Sony TCD-D7
+Generation: DAT(M) -> CDR(1) -> EAC -> FLAC
+Taper: TG
+
+
+**DO NOT ENCODE TO MP3 OR SELL ON EBAY**
+
+
+Disc I
+01 Fitter, Happier
+02 Lucky
+03 My Iron Lung
+04 Airbag
+05 Nice Dream
+06 Exit Music
+07 Karma Police
+08 Talk Show Host
+09 Fake Plastic Trees
+10 Paranoid Android
+11 Bones
+
+
+Disc II
+01 Climbing Up the Walls
+02 No Surprises
+03 The Bends
+04 Creep
+05 Just
+06 Planet Telex
+07 Street Spirit
+08 The Tourist
+09 Thinking About You (stopped)
+10 Black Star
+
+
+
+Notes: This source comes directly from the taper and should replace 
+all previous circulating versions.  It should also help to clear up the 
+confusion regarding source information on many of the NYC area shows.
+
+
+
+CDR>WAV>FLAC by BLG
+compiled on 01-28-05
+
+
+ 

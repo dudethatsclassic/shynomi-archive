@@ -1,28 +1,47 @@
-tsp1996-01-31d1t01.flac:027183519d9482991ffc5c5e4beb3f11
-tsp1996-01-31d1t02.flac:10471f3d79bfa836757552eabe20b336
-tsp1996-01-31d1t03.flac:9152cc9d759d379a3bbc5992c65063d1
-tsp1996-01-31d1t04.flac:36c127f881a3d0e98d8428410ae8277d
-tsp1996-01-31d1t05.flac:0b3fb0176741d83cf92e182a19e6d3b0
-tsp1996-01-31d1t06.flac:df6a39defb49dba61b64cce2478080f1
-tsp1996-01-31d1t07.flac:d0b4662081a50c8fee1a48c940d20a8c
-tsp1996-01-31d1t08.flac:4c264812d34b49fc4f1d784bad03cc44
-tsp1996-01-31d1t09.flac:284628ec95e16c94a5dda45593f8373b
-tsp1996-01-31d1t10.flac:eec44eaea549bf2daaecb188d87f7b0a
-tsp1996-01-31d1t11.flac:8d0dd5915786c09fb98acdb2b45e89f6
-tsp1996-01-31d1t12.flac:ccb811ee15d0ebc2d6efaaff84a6077c
-tsp1996-01-31d1t13.flac:d9948b57b1607348eb137d0c29d224a7
-tsp1996-01-31d1t14.flac:1bace281360fc11fc696b46e3f55525c
-tsp1996-01-31d1t15.flac:91719df904d7163efa863d5eee80ea7c
-tsp1996-01-31d1t16.flac:32a751433fd3c0f6eaf4fcce88c2c5ed
-tsp1996-01-31d1t17.flac:50a1e5030e24f75fdffc8fe015694adc
-tsp1996-01-31d2t01.flac:663e0f3a262f532a25a887bb9f726b56
-tsp1996-01-31d2t02.flac:ab01d941e491c11837385af926d51588
-tsp1996-01-31d2t03.flac:210b566deee054f7e314803830d13569
-tsp1996-01-31d2t04.flac:bdb40fe6943c869279cad047ab82e5e3
-tsp1996-01-31d2t05.flac:6cdc43ee9d4aee9761fad0e208001e3f
-tsp1996-01-31d2t06.flac:ea60734a097fe4829cf4d52f141c5993
-tsp1996-01-31d2t07.flac:5ca0cb2d72667e0ca1657ee22eac2ae4
-tsp1996-01-31d2t08.flac:58eaa22024a03a5bf0ecf837742bd448
-tsp1996-01-31d2t09.flac:dd9f339f5b676f853495737ec13ebcbd
-tsp1996-01-31d2t10.flac:8cbeff670dcbe5ebb962cd6690e18d9e
-tsp1996-01-31d2t11.flac:15bff3609835209e98efd7e4aea930c0
+The Smashing Pumpkins
+1/31/1996
+Soma
+San Diego, CA
+
+Taper:            unknown
+Source:           CSB > D7
+Conversion:       DDC-? > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. Tonight, Tonight
+2. In the Arms of Sleep
+3. Cupid de Locke, Norweigan Wood [The Beatles] (tease)
+4. Thirty-three
+5. Today
+6. Soma
+7. Take Me Down
+8. Beautiful
+9. Rhinoceros
+10. Rocket
+11. Disarm
+12. MCIS
+13. Where Boys Fear to Tread
+14. Zero
+15. Fuck You
+16. Love
+17. To Forgive
+
+Disc 2
+1. Bullet with Butterfly Wings
+2. Thru the Eyes of Ruby
+3. Porcelina of the Vast Oceans
+4. 1979
+5. Geek U.S.A.
+6. Cherub Rock
+7. Lily, Feelin' Alright [Joe Cocker] (tease)
+8. X.Y.U.
+9. Jellybelly
+10. Silverfuck > Space Jam (tease) > Drown (tease)
+11. Farewell and Goodnight

@@ -1,1 +1,65 @@
-01 Noise Intro (2008-10-05).flac:350d31a10a8231e8c15a5253cff2aafd02 Loser (2008-10-05).flac:b85693327223c8b43eaef8af1bea472b03 Nausea (2008-10-05).flac:2c169998cc4fae2113fabd7cbfcb657a04 Girl (2008-10-05).flac:5b3add622c3297062d17322e335c861d05 Timebomb (2008-10-05).flac:0a12868e7eb0ac59a15ceebfcd64b07c06 Minus (2008-10-05).flac:fba0c750216fc4343fb385a08b55deb607 Soul of a Man (2008-10-05).flac:e53af517171eb9a481d485c97bd72f5a08 Mixed Bizness : I Want to Take You Higher Medley (2008-10-05).flac:2a80d4b692dae65347c752d2dde1168809 Nicotine & Gravy (2008-10-05).flac:99481c43179af206f6d3b9e7885d821110 Qué Onda Guero (2008-10-05).flac:705022eaa8bb9ba3685be43bc594acc811 Interlude - Electronic Dickery (2008-10-05).flac:12fb1076615bf5e6d2740086f8e9d70c12 Hell Yes (2008-10-05).flac:d29e086328ae09ba92448da80eb24c1413 Black Tambourine (2008-10-05).flac:e8974041a7bb78b1ee351ba90f16a99914 Clap Hands (2008-10-08).flac:65b9f25e74b1011e694f68f3a8e90a2a15 Interlude (2008-10-05).flac:cf1c5ac99078603b2f76da14f2cfc1e116 Devils Haircut (2008-10-05).flac:4e0a2be1274b05d3c9bfa0de76db961c17 Modern Guilt (2008-10-05).flac:8910445b43428176112863d4e7a1211018 Think I'm In Love (2008-10-05).flac:a4954608abcf238e8a1be53b0f55bcc319 Orphans (2008-10-05).flac:b68af90949d849d26c55ccfa89224a9520 Walls (2008-10-05).flac:692bdbf600a2edd4181ba7020b0dee7521 Chemtrails (2008-10-05).flac:6863c7b2b6762574bcc2fb2d99b976ef22 The Golden Age (2008-10-05).flac:c439c1c4f3ad1482cf27d4b888067bba23 Lost Cause (2008-10-05).flac:e60c2971bb710a52562b92dcbc2a6a9b24 Where It's At : High 5 (Rock the Catskills) Medley (2008-10-05).flac:3b56c5245e4ccaf73ae9e3174fdc081c25 Interlude (2008-10-05).flac:f19f036da546e6225476509fc8149ae526 Gamma Ray (2008-10-05).flac:11ac45e666ec5df283f1d298f9a3d28d27 Leopard-Skin Pill-Box Hat (2008-10-05).flac:5348136f8ef285c33f1c6de0342c50ba28 Untitled ??? Crazy Loud Fast Distorty (2008-10-05).flac:32a5fcab39d9903e2f5d16fd9a00014729 E-Pro (2008-10-05).flac:c6246d91230d287a5cbbe273194dffe2
+BECK
+beck2008-10-05.flacf
+beck2008-10-05.mp3f
+
+http://whiskeyclone.net/hijacked/concertinfo.php?concertID=1007
+http://becktabs.com/media.php
+
+Date: October 5, 2008
+Leg: 2008 Modern Guilt Tour Leg Two (United States)
+Venue: Sound Academy
+City: Toronto
+Province: Ontario
+Country: Canada
+Opening Act: MGMT (not recorded)
+
+
+Source: Audience
+Length: 1:21:32
+
+
+Notes:
+The show starts with a couple minutes of noise jam before Beck shows up and
+rocks 'Loser'. 'Hell Yes' was proceeded by some dicking around by everyone
+with various electronic devices. Beck appeared to be scratching using an
+iPhone or iPod. 
+
+Brian, head recently shaved, was wearing a WuCu-like wig (though he claims
+it's actually slightly shorter in length than the WuCu one).
+
+Recorded from VIP balcony, centre, iPhone in pocket 
+
+iPhone 3G > VoiceRecord app (mono, 16bit, 44.1khz AIFF) > iMac 2GHz Intel Core
+Duo > SoundStudio 3.0.4 > xACT (FLAC) / iTunes (192 VBR MP3)
+
+
+Tracklist:
+1. Noise Intro
+2. Loser
+3. Nausea
+4. Girl
+5. Timebomb
+6. Minus
+7. Soul Of A Man
+8. Mixed Bizness / I Want to Take You Higher Medley
+9. Nicotine & Gravy
+10. Qu√© Onda Guero
+11. Interlude - Electronic Dickery
+12. Hell Yes
+13. Black Tambourine
+14. Clap Hands
+15. Interlude
+16. Devils Haircut
+17. Modern Guilt
+18. Think I'm In Love
+19. Orphans
+20. Walls
+21. Chemtrails
+22. The Golden Age
+23. Lost Cause
+24. Where It's At / High 5 (Rock the Catskills) Medley
+25. Interlude
+26. Gamma Ray
+27. Leopard-Skin Pill-Box Hat
+28. Untitled ??? Crazy Loud Fast Distorty
+29. E-Pro

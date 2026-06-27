@@ -1,24 +1,41 @@
-01 Ecstacy of Gold.flac:196902bc9ff29580b996cad961a7784d
-02 Blackened.flac:d63f204c776e3805038d4fd002864a63
-03 Fuel.flac:200aac57cb8ccca81940ed9d464c156b
-04 The Memory Remains.flac:eb0de7bf3d4e6504c08190beb91c9a98
-05 Wherever I May Roam.flac:71038daf8babaebab7172ce97cfc0893
-06 Leper Messiah.flac:af9815308485ca60f4881b99cdcac3c1
-07 Kirk Solo 1.flac:034304e21b5545ac04b25de3c781ad6e
-08 The Unforgiven.flac:51805a6eefa31d88bb62407695250696
-09 The God That Failed.flac:b50e6290096eaf4d54371b38dfb94404
-10 St. Anger.flac:ce12a56c12822a58ac86a351b026abfc
-11 Junglessence - Orion.flac:8d497932bde01190b3bf13274c38f5bf
-12 Fade to Black.flac:4175e65d005097d8ad01ffe573227f94
-13 Master of Puppets.flac:08d8aa9c464bea11ec82b0cf5b4ef334
-14 Fight Fire With Fire.flac:c0108baa6cd8b95b8770f6737de01d4f
-15 No Leaf Clover.flac:6bba267dc79e3916f7182a4aa0067691
-16 Kirk Solo 2 - Melbourne.flac:d91a8aabd46870ea928a6c2c26dab9d2
-17 Nothing Else Matters.flac:d2d937cc47d2fd4f629394fbf7bcf36e
-18 Sad But True.flac:8010ce981897655ce614d79e4fdd22d0
-19 One.flac:cc3672cb9407e33db500022a116cfee0
-20 Enter Sandman.flac:0de54a426598400ff63655d4c7771ad5
-21 Jam.flac:8ab1b0f52a439bc13f1ba23517301246
-22 Jump In The Fire.flac:09f0744219770953a3d6da597016a685
-23 Seek and Destroy.flac:bfe60be6859061867041d63f313d3c58
-24 Thank Yous.flac:60110a3e5aa0c3d01fdb8c59dc773ba8
+Metallica
+Fleet Center
+Boston, Massachusetts
+October 24, 2004
+
+Source: Mics > Stuff > D8
+
+Transfer: DAT > Pro Digital Mod Sony RK-DA10P 7-Pin > M-Audio Audiophile 2496 > Cool Edit Pro 2.1 (48 > 44.1) > Flac
+
+01 Ecstacy Of Gold 		1:16
+02 Blackened			6:21
+03 Fuel				4:24
+04 The Memory Remains		4:48
+05 Wherever I May Roam		7:13
+06 Leper Messiah		5:38
+07 Kirk Solo 1 			2:46
+08 The Unforgiven		7:56
+09 The God That Failed		6:06
+10 St. Anger			6:20
+11 Junglessence - Orion		6:20
+12 Fade To Black		9:21
+13 Master Of Puppets		8:04
+14 Fight Fire With Fire 	7:21	
+15 No Leaf Clover		5:05
+16 Kirk Solo 2 - Melbourne	2:18
+17 Nothing Else Matters		7:00
+18 Sad But True (w/Sully)	7:41
+19 One				7:57
+20 Enter Sandman		9:59
+21 Jam				2:12
+22 Jump In The Fire		5:56
+23 Seek And Destroy	       10:24
+24 Thank Yous			1:27
+
+Total				2:23:53
+
+No EQ, full show.  Tracks 1 and 14 taped intros slightly cut and track 14 has a small dropout removed around 1:30.  Some explosions softened.  Sully from Godsmack guests on Sad But True.
+
+Taper in the upper deck for this one so its a little more distant than the next night, but the hot crowd really adds a lot I think.
+
+Thanks to Metallica once again for an awesome and a great set.

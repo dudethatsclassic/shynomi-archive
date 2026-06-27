@@ -1,1 +1,29 @@
-Radiohead2010-01-24t01.flac:40cc0330a52cfbec7ef7ad6b401fdd96Radiohead2010-01-24t02.flac:bd94ed98c07c2afa61855d3dbbbe64caRadiohead2010-01-24t03.flac:64c6cf4c504cfd181ac2a170948be703Radiohead2010-01-24t04.flac:7ff10b49eeb0b3a3c7d399029a0948fbRadiohead2010-01-24t05.flac:04c4c9c17dd10d79d6bf5f908e2f47e2Radiohead2010-01-24t06.flac:4e2d870787bd84064004e62f3ac673c2Radiohead2010-01-24t07.flac:70c01e4e41141fc2f915693e76519ea6Radiohead2010-01-24t08.flac:c3b543a0b33b31610bab02ab04799c23Radiohead2010-01-24t09.flac:fe320b279ef45e45d5ab2d858601f974Radiohead2010-01-24t10.flac:b547a78bd2b6a2bbba2ed4cfda3c30c3Radiohead2010-01-24t11.flac:a725ac126b031b47551c5abf756c308dRadiohead2010-01-24t12.flac:507289d88acb3d0317cf2bce5c90a2c5Radiohead2010-01-24t13.flac:5b0e90291d9dbd2ff33848951d73e79aRadiohead2010-01-24t14.flac:6ed89f1f12d39d87817b8ad65eddb4c0Radiohead2010-01-24t15.flac:dc09a3d14a659cb47d5db043d6b17ac0Radiohead2010-01-24t16.flac:70de4c972f88a4a2d4033f19d4ffec92Radiohead2010-01-24t17.flac:b72506fb38cdd0040a27208e21b998d7Radiohead2010-01-24t18.flac:a739276302874c3c3ba924ad650826a2Radiohead2010-01-24t19.flac:eb340f447250b0c1a960475f6ad3b8bbRadiohead2010-01-24t20.flac:ab25a35d874014d2f4e2140e2e0c3e4cRadiohead2010-01-24t21.flac:f800e289bb862e5e6dd4300cc6dac20dRadiohead2010-01-24t22.flac:daa929a6ea5c5a9b8d9ae3e833a3b9a7Radiohead2010-01-24t23.flac:d25962188f147241a13cef06057f406bRadiohead2010-01-24t24.flac:7ec11eaaf0d186e7166086daf0882800Radiohead2010-01-24t25.flac:044110106c9fb45c03d40fc25ff7bc4a
+{\rtf1\ansi\ansicpg1252\cocoartf949\cocoasubrtf540
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww9000\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0 Radiohead\
+1-24-2010\
+The Music Box @ The Fonda\
+Los Angeles, CA\
+\
+Source: Schoeps mk4>NBox+>Edirol R9hr (24/48)>Wavelab (resample and uv22hr dither)>CDWave Editor>FLAC (8)\
+\
+Recorded by: Odrogs (Odrogs@gmail.com)\
+\
+Radiohead for Haiti.  Please consider making a $10 donation to Oxfam International (www.oxfam.org) to say thanks for this Radiohead benefit concert.\
+\
+One Set\
+\
+01 Intro\
+\pard\pardeftab720\sa240\ql\qnatural
+\cf0 02 Faust Arp\uc0\u8232 03 Fake Plastic Trees\u8232 04 Weird Fishes/Arpeggi\u8232 05 The National Anthem\u8232 06 Nude\u8232 07 Karma Police\u8232 08 Kid A\u8232 09 Morning Bell\u8232 10 How To Disappear Completely\u8232 11 A Wolf at the Door\u8232 12 The Bends\u8232 13 Reckoner\u8232 14 Lucky\u8232 15 Bodysnatchers\u8232 16 Dollars & Cents\u8232 17 Airbag\u8232 18 Exit Music\
+Encore #1\
+19 Everything In Its Right Place (Thom)\uc0\u8232 20 You And Whose Army?\u8232 21 Pyramid Song\u8232 22 All I Need\
+Encore #2:\
+23 Lotus Flower\uc0\u8232 24 Paranoid Android\u8232 25 Street Spirit (fade out)\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 \
+}

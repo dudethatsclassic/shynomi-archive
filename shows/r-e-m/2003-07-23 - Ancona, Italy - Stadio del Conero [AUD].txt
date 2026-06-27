@@ -1,23 +1,35 @@
-rem2003-07-23d1t01.flac:02dbab5ec0e7b44b639889aae545c913
-rem2003-07-23d1t02.flac:bbaf722f5404f4d94a149e313ea406aa
-rem2003-07-23d1t03.flac:a95230a7e8012f591b1ec748c779d460
-rem2003-07-23d1t04.flac:da056feb602a4cef0636343a1b509c20
-rem2003-07-23d1t05.flac:f51196fa2eeabd0ca98a579c93bc4147
-rem2003-07-23d1t06.flac:44ae13f96403feee4cbc5c1f87276eff
-rem2003-07-23d1t07.flac:38aa5f58c37413d99f5c49c5723cc35a
-rem2003-07-23d1t08.flac:5d9b54a419f1e6f9bfbeccc6695b247d
-rem2003-07-23d1t09.flac:65466c8033665e8eea87a8d45c5e4f86
-rem2003-07-23d1t10.flac:3defe7d35de20d1a98dd1147ec55e3f2
-rem2003-07-23d1t11.flac:192887afc7bcc8d6adf1bf5c5ee673c8
-rem2003-07-23d1t12.flac:9ef0cafe3ef17de33d709d70e6a90a1b
-rem2003-07-23d1t13.flac:2574d42e92f46a81f52e66ea37c6fc78
-rem2003-07-23d2t01.flac:e2ca2175710436db5aada2b1bd2007ac
-rem2003-07-23d2t02.flac:2cc3a7c145e784fc38231e84aca01199
-rem2003-07-23d2t03.flac:32679a679b8d4c21891b00cebafb3d4e
-rem2003-07-23d2t04.flac:12613b7917a1602aebd6269b9bad48e6
-rem2003-07-23d2t05.flac:16a86f447370b57c48ce00061f122b85
-rem2003-07-23d2t06.flac:de577f874199211c171a2187f726d471
-rem2003-07-23d2t07.flac:e77e92380eaace2fae7d100155386b60
-rem2003-07-23d2t08.flac:9acecf928775aac6a6f8ab13c9d78f34
-rem2003-07-23d2t09.flac:c2c6da3b6eb713b1d560163fe512b18f
-rem2003-07-23d2t10.flac:93b20970a0b8768aa3761281aaf1d497
+23.07.2003
+Italy, Ancona, Stadio Del Conero
+Ancona 2003
+good Aud.
+
+Disc 1: [51:08]
+01. Begin The Begin [4:04]
+02. Finest Worksong [4:08]
+03. Sitting Still [4:06]
+04. Drive [5:03]
+05. Animal [4:50]
+06. The Great Beyond [4:09]
+07. Exhuming McCarthy [3:22]
+08. Bad Day [4:26]
+09. Tongue (snippet) [0:16]
+10. The One I Love [4:58]
+11. Find The River [3:52]
+12. Daysleeper [3:22]
+13. Losing My Religion [4:29]
+
+Disc 2: [47:42]
+01. At My Most Beautiful [4:18]
+02. So Fast, So Numb [4:09]
+03. Country Feedback [6:07]
+04. Man On The Moon [5:05]
+05. Walk Unafraid [4:45]
+06. Beat A Drum (part) [0:50]
+07. Everybody Hurts [6:18]
+08. She Just Wants To Be [6:59]
+09. Imitation Of Life [4:04]
+10. It's The End Of The World As We Know It (And I Feel Fine) [5:03]
+
+Source/Linegae: SHN (sorry no source info) > TLH (flac level 5)
+
+Lineage: Trade (FLAC on external HDD > Torrent > You)

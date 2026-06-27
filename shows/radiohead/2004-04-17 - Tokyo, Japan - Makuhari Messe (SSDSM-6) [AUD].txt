@@ -1,24 +1,43 @@
-rh2004-04-17d1t01.flac:3b8730a575ea60e334ec89ec1ff06d35
-rh2004-04-17d1t02.flac:6760209c343976c3b0607ee697cc864f
-rh2004-04-17d1t03.flac:bea7bad0f4f0c21d00dbb15d7965a50c
-rh2004-04-17d1t04.flac:013ebf8ac0c45d716c77d51262430d5a
-rh2004-04-17d1t05.flac:852e168faa86db9c80f4c49cb8af31c3
-rh2004-04-17d1t06.flac:a35a467a7419047203cf2ea29d64802b
-rh2004-04-17d1t07.flac:8c82793068d7846930946281227b99ef
-rh2004-04-17d1t08.flac:d13dd1d6c592dca36890dc7c96d92263
-rh2004-04-17d1t09.flac:63cfcd93c7b4c8ca43e02245c7083e05
-rh2004-04-17d1t10.flac:f9877ed759a72c9b880ee5c73962abd3
-rh2004-04-17d1t11.flac:54f9c0a348131f35e36dd5acd6524e03
-rh2004-04-17d1t12.flac:30c23ab77fe5d6a3d1c8711c42db24e4
-rh2004-04-17d1t13.flac:1cb075ed1e9ff0b8c7d36c2ef97796ee
-rh2004-04-17d1t14.flac:93623c024a8b916558e4cb98eb44639c
-rh2004-04-17d1t15.flac:c6bd82566eb37613d5050a7a895131ea
-rh2004-04-17d1t16.flac:8ee3a8ce7b29a63cc5bf29510c56fd5d
-rh2004-04-17d1t17.flac:241e506969d9828ca1acc16ab7cf7b66
-rh2004-04-17d2t01.flac:30b34648f9ba31c8cd9003059f38e08a
-rh2004-04-17d2t02.flac:679e76548890e376abd1bfbefebe3d69
-rh2004-04-17d2t03.flac:cd6d221f5d26d668754d24e5c482488a
-rh2004-04-17d2t04.flac:6b71e75b26ae1855db86eef5df95802f
-rh2004-04-17d2t05.flac:ca1e6037dfd4d5cf1c0b52fb3cb1aea2
-rh2004-04-17d2t06.flac:bb5a17ddd9eb30e313d5862415577671
-rh2004-04-17d2t07.flac:88807aa137f01077e5e5dce135d193d1
+Radiohead
+04-17-04
+Makuhari Messe
+Tokyo, Japan
+
+Source: Sonic Studios (DSM-6S) -> PA-6LC3 -> Sony TCD-D100  
+Lineage: DAT(1) 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> CEP 2.1 -> CDWave -> FLAC
+
+
+Disc I
+01 2+2=5
+02 Myxomatosis
+03 Where I End and You Begin
+04 Lucky
+05 Just
+06 The Gloaming
+07 Sail to the Moon
+08 I Might Be Wrong
+09 Go To Sleep
+10 You and Whose Army?
+11 Like Spinning Plates
+12 Climbing Up the Walls
+13 The National Anthem
+14 Fake Plastic Trees
+15 Sit Down. Stand Up.
+16 Paranoid Android
+17 There There
+
+
+Disc II
+01 crowd
+02 We Suck Young Blood
+03 Karma Police
+04 Idioteque
+05 How to Disappear Completely
+06 Planet Telex
+07 EIIRP
+
+
+Transfer by BLG
+compiled on 05-04-04
+

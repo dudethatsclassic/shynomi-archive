@@ -1,29 +1,54 @@
-ryanadams2008-10-16d1t01.flac:6674cfe97791b8556bd7236bd6a3ce4b
-ryanadams2008-10-16d1t02.flac:7a3ee40296f5b4ab582df36ddfb8bddc
-ryanadams2008-10-16d1t03.flac:061f96b0cfefd2a5267d3ff637bff2cf
-ryanadams2008-10-16d1t04.flac:25a40084188acad93322016e73c86b8c
-ryanadams2008-10-16d1t05.flac:49dbfd6e00f3ed7f804f659946cfbc20
-ryanadams2008-10-16d1t06.flac:9f6b775076320f0a27b37fa988378b30
-ryanadams2008-10-16d1t07.flac:1c9c764b8190fbf19700fc6d17fa6565
-ryanadams2008-10-16d1t08.flac:051ffda5f0f0b415d31d01e43db14e99
-ryanadams2008-10-16d1t09.flac:1fb2308dd0bc2e6697a15c255056e306
-ryanadams2008-10-16d1t10.flac:e9504f9e3dcdb97ebc1b74e0925a904a
-ryanadams2008-10-16d1t11.flac:fecab7091590f5262f670d631192f417
-ryanadams2008-10-16d1t12.flac:d4b3e7110d30bba8aeca0266b7b77a9c
-ryanadams2008-10-16d1t13.flac:ad0b32508fce69cfc7be19ee997b27eb
-ryanadams2008-10-16d1t14.flac:945de272e00c8673382a081cadb31509
-ryanadams2008-10-16d1t15.flac:aaa9a1c3abaad95d83b875251ba06399
-ryanadams2008-10-16d2t01.flac:ff514e8ea5a8ecd2a281466b9b7c597f
-ryanadams2008-10-16d2t02.flac:71d2167457c77fa3009ea18a0ffd8781
-ryanadams2008-10-16d2t03.flac:e9fee9ae94dbdde33ca0b007e5404e87
-ryanadams2008-10-16d2t04.flac:2ba6a890c03696ac6c3b890646d54848
-ryanadams2008-10-16d2t05.flac:4c58573dd5b0399f69eb800957b170da
-ryanadams2008-10-16d2t06.flac:375f07262981e7cc3ac6d2fe60839518
-ryanadams2008-10-16d2t07.flac:61d2ddd3c4ae7f5dd4dbd3978c3df9c2
-ryanadams2008-10-16d2t08.flac:5ca5db33db030f8ebda17b4b0b0a7bfe
-ryanadams2008-10-16d2t09.flac:182ae6baccb7e4fb247a613d32473ac7
-ryanadams2008-10-16d2t10.flac:52a07a405a8b5a99ea50e3082f54a416
-ryanadams2008-10-16d2t11.flac:f6cb72d6d7a3882e4dad16762b05849d
-ryanadams2008-10-16d2t12.flac:177e225b4808de55882d7df3c39ce92c
-ryanadams2008-10-16d2t13.flac:2139bbcc8ff37fd2bd30a10fd9241b0a
-ryanadams2008-10-16d2t14.flac:e5866013ef4f7c632443237d638d83d8
+Ryan Adams & The Cardinals
+10-16-2008
+Bama Theater
+Tuscaloosa, AL
+
+
+Source:  DPA 4023 (ORTF)->Lunatec ACM V3 + SBD (Yamaha M7CL)-> Sound Devices 744t (24/48)
+
+Location: FOB/ROC 4ft
+
+Transfer: 744t->HDD->Wavelab 5.01b->CD Wave->Flac 16
+
+Recorded and Transfered by: Chris Hall
+
+
+Set 1/ Disc 1
+
+1.  Intro
+2.  Born Into A Light
+3.  Cobwebs
+4.  Goodnight Rose
+5.  Everybody Knows
+6.  Come Pick Me Up
+7.  Sink Ships
+8.  Stereo Sweets
+9.  Peaceful Valley
+10. Please Do Not Let Me Go
+11. Grand Island
+12. Stop
+13. Shakedown On 9th Street
+14. Fix It
+15. Wonderwall
+
+Set 1/ Disc 2
+
+1.  A Natural Ghost
+
+Set 2/ Disc 2
+
+2.  Intro
+3.  Rescue Blues
+4.  Sun Also Sets
+5.  Two
+6.  Easy Plateau
+7.  Mockingbird Sings
+8.  That Crazy Dude Song
+9.  Meadowlake Street
+10. Note To Self Please Don't Die
+11. Freeway
+12. Bartering Lines
+13. Cold Roses
+14. Crossed Out Name
+
+first minute of Born Into A Light patched with Schoeps CCM4->sonosax->Sound Devices 702

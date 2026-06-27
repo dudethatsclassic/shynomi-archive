@@ -1,19 +1,39 @@
-tsp2008-11-19t01.flac:e76f61f1d014918d664538c8e2eb63cb
-tsp2008-11-19t02.flac:c48c2ebce5637d1e18492a9dfb0cde17
-tsp2008-11-19t03.flac:9b3f0ec8f1aa10ea534fe3c99554d00b
-tsp2008-11-19t04.flac:7bb8cc1492e0e770b3861bb19f36253e
-tsp2008-11-19t05.flac:ece9cce4bea1cb46409fec5778b5d6d0
-tsp2008-11-19t06.flac:12751f6d68b88a5619594f2ce4337794
-tsp2008-11-19t07.flac:5fe38a1d67344c94f01bb806d7104af6
-tsp2008-11-19t08.flac:9cc80a2522fd60547fe053f43a03c15f
-tsp2008-11-19t09.flac:1c29790e1342c5bfacf2877966bff7ff
-tsp2008-11-19t10.flac:68f63f3171798b67a14d8b27bb9ad384
-tsp2008-11-19t11.flac:a72ccf344d79a12091d0f9e9b701e41b
-tsp2008-11-19t12.flac:8023b46a6b32de53d84c8baaa2b1b08a
-tsp2008-11-19t13.flac:20651624477c79f6c4137415b45aad5e
-tsp2008-11-19t14.flac:558c342e3e84f71ce6b2cfc997ce3781
-tsp2008-11-19t15.flac:96e130227badb3ca065d4c2a90224bf8
-tsp2008-11-19t16.flac:96de2e1f2a8d08143a495ddecd049b11
-tsp2008-11-19t17.flac:79fb6f283419a0ef745efc8266c9e9d9
-tsp2008-11-19t18.flac:cdc73cd4e8a78327509b29faea6e19ac
-tsp2008-11-19t19.flac:64d88294e221349efa75873614f2f211
+Smashing Pumpkins
+11/19/2008
+Chicago Theater
+Chicago, IL
+
+Taper: BG RAVES
+Location: row FF seat 411
+Source:  DSM-6S > PA-6LC3 > R-09HR @ 24/48
+Transfer:  R-09HR > USB > CEP 2.1 > flac
+
+01.  Ava Adore
+02.  Cupid de Locke
+03.  1979
+04.  99 Floors
+05.  Owata
+06.  Sunkissed
+xx.  Soma
+xx.  Cherub Rock
+xx.  Zero
+xx.  Bodies
+xx.  Crestfallen
+xx.  I of the Mourning
+07.  A Song for a Son (cut)
+08.  Landslide
+09.  talking
+10.  Disarm
+11.  Mellon Collie and the Infinite Sadness
+12.  Galapogos
+13.  Gossamer
+14.  As Rome Burns
+15.  The Sounds of Silence > Lil Red Riding Hood
+16.  The March Hare > Suffer
+17.  Age of Innocence
+18.  That's the Way (My Love Is)
+19.  I am One part II
+
+tracks 01-06:  built in mic > R-09HR (mics were plugged into headphone jack)
+soma thru i of the mourning: not recorded (flash memory error)
+tracks 07-19:  DSM-6S > PA-6LC3 > R-09HR

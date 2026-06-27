@@ -1,27 +1,43 @@
-rem 2005-06-01 d01 tr01.flac:40c54a244670af322c562540cee85e96
-rem 2005-06-01 d01 tr02.flac:a4c84b13728a791ff6674947c7cb3364
-rem 2005-06-01 d01 tr03.flac:5d390aea67552def96b40273d4ed8859
-rem 2005-06-01 d01 tr04.flac:ee0fd1448eb81bef1a978f7b8dd8daf1
-rem 2005-06-01 d01 tr05.flac:3812b4befc38f4f8818580bc352fb026
-rem 2005-06-01 d01 tr06.flac:ee087338f4d0ab9026c6721ddcc06500
-rem 2005-06-01 d01 tr07.flac:30053e9ae7834148c07f7d7a7782a544
-rem 2005-06-01 d01 tr08.flac:3ff95c101aae908ca36033f7d15113f2
-rem 2005-06-01 d01 tr09.flac:67a7361d8ba1db3faf7a74d9511ef655
-rem 2005-06-01 d01 tr10.flac:1fb92c193993f8bfded963200e1703ee
-rem 2005-06-01 d01 tr11.flac:2ad22ead5cd07a52844956c2ccb7e7f5
-rem 2005-06-01 d01 tr12.flac:660da4e3ef8fd81ca40891dfebb6760a
-rem 2005-06-01 d01 tr13.flac:763131e632663b12b411d3540504dfc4
-rem 2005-06-01 d02 tr01.flac:156388d5656bf94eab890970ba617d05
-rem 2005-06-01 d02 tr02.flac:889e447ffa2904292d67d7fe1d33aa3d
-rem 2005-06-01 d02 tr03.flac:2c7a7a1d4b7f29992e89ddc040e48dfe
-rem 2005-06-01 d02 tr04.flac:85e9b3ff763afc1a2a0f24b691c51876
-rem 2005-06-01 d02 tr05.flac:97fa479a9143fef43e148712d0061197
-rem 2005-06-01 d02 tr06.flac:c3976a1f5f5cb27892ac16629d0f6e76
-rem 2005-06-01 d02 tr07.flac:bcdf2971ded1e256252fcee8ad5b61f1
-rem 2005-06-01 d02 tr08.flac:5ab958563a911e995de0e444b59be077
-rem 2005-06-01 d02 tr09.flac:be4e8b87dfcccb67b746c5a03e92be77
-rem 2005-06-01 d02 tr10.flac:b1d209843dc34d5307708691cd47c1a9
-rem 2005-06-01 d02 tr11.flac:ebdc10e1b0d96ab8929a0944ef610988
-rem 2005-06-01 d02 tr12.flac:052f89c067a105cfd16bb303321a56b8
-rem 2005-06-01 d02 tr13.flac:fad277b56144dd6275198dd3d42734ae
-rem 2005-06-01 d02 tr14.flac:e2cdf258bce667b60ab0803b97daf57c
+01.06.2005
+Germany, Magdeburg, Domplatz
+Beautiful Night From Cathedral Square
+good / very good Audience
+
+Disc 1: [1:00:19]
+01. I Took Your Name [4:24]
+02. What's The Frequency, Kenneth? [4:01]
+03. So Fast, So Numb [4:11]
+04. Animal [4:51] *
+05. The Outsiders [4:58]
+06. Wanderlust [3:20]
+07. Leave [4:42]
+08. Bad Day [4:48]
+09. Me In Honey [4:22]
+10. Electron Blue [4:41]
+11. Electrolite [4:25]
+12. Everybody Hurts [6:46]
+13. Leaving New York [4:42]
+
+Disc 2: [1:01:26]
+01. I Wanted To Be Wrong [5:53]
+02. Orange Crush [3:58]
+03. The One I Love [3:57]
+04. Walk Unafraid [4:01]
+05. Losing My Religion [4:32]
+06. encore break [3:23]
+07. Imitation Of Life [4:06]
+08. The Great Beyond [4:41]
+09. Drive [5:34]
+10. World Leader Pretend [4:42]
+11. (Don't Go Back To) Rockville [4:42]
+12. band introduction [2:15]
+13. I'm Gonna DJ [2:22]
+14. Man On The Moon [7:14]
+
+Taper: Stadtfelder
+Location: front of the left p.a. stack (Mike Mill's side).
+Source: Sony TCD D7 DAT (@ 32 khz) > Coresound cardioids > optical transfer Terra Tec EWX 24/96 > Sound Forge 4.5 (resampling) > CD Wave Editor > wav. > flac  
+
+Notes: * There is a flaw on the track "Animal" (2:26 - 2:28) which is on my master tape, too.
+
+Lineage: Trade (FLAC on external HDD > Torrent > You)

@@ -938,8 +938,7 @@ const ARTIST_DATA = {
       "venue": "Lyceum Theatre",
       "notes": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC HD",
-      "textFile": "1984-12-20 - London, England - Lyceum Theatre [SBD].txt"
+      "format": "FLAC HD"
     },
     {
       "year": 1985,
@@ -6630,8 +6629,7 @@ const ARTIST_DATA = {
       "venue": "Spartan Stadium",
       "notes": "Lollapalooza \u00b7 unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1996-08-02 - San Jose, CA - Spartan Stadium - Lollapalooza (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -7919,7 +7917,7 @@ const ARTIST_DATA = {
       "notes": "Aiwa CM-30A \u00b7 robert huizinga",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1999-06-26 - Minden, Germany - Weserufer (Aiwa CM-30A) (robert huizinga) [AUD].txt"
+      "textFile": "1999-06-26 - Minden, Germany - Weserufer (Aiwa CM-30A) (robert huizinga) [AUD].rtf"
     },
     {
       "year": 1999,
@@ -16330,8 +16328,7 @@ const ARTIST_DATA = {
       "venue": "Golden Gate Park",
       "notes": "Outside \u00b7 daspyknows",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2017-08-12 - San Francisco, CA - Golden Gate Park - Outside Lands Music & Arts Festival (MK4) (daspyknows) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2017,

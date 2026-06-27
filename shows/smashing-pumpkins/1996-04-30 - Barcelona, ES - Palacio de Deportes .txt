@@ -1,16 +1,36 @@
-tsp1996-04-30d1t01.flac:7c82482609cfe8bb38575b94d6793423
-tsp1996-04-30d1t02.flac:91eef1231175841170c6b009e0b79cfc
-tsp1996-04-30d1t03.flac:f541fc74acf63e0711730f817b6188f5
-tsp1996-04-30d1t04.flac:e1b3d0476398da28c2d220e58cbaa430
-tsp1996-04-30d1t05.flac:7284f1a4a1d2803bb78a567ba5033bba
-tsp1996-04-30d1t06.flac:d1c9458a1917551fc4a3951b986b9c39
-tsp1996-04-30d1t07.flac:f0d8a8cafd9bf8c1497421e93eca323d
-tsp1996-04-30d1t08.flac:bb2260733d1f1bdb357851997e1a062e
-tsp1996-04-30d1t09.flac:8b2477de1417aea06819d3280da7edfa
-tsp1996-04-30d1t10.flac:0be10335bc3394762a5ee77721b3be8b
-tsp1996-04-30d1t11.flac:f3120f53398b5628e1f0c122cdcd7d8b
-tsp1996-04-30d2t01.flac:2b35939f189a1a2d5ca2b68f941a0a97
-tsp1996-04-30d2t02.flac:49faa6b92dad873d5eba74463073f194
-tsp1996-04-30d2t03.flac:6618def179dfa232129c4f5274d18123
-tsp1996-04-30d2t04.flac:121d3c6bbd931716d3d9daf485bee034
-tsp1996-04-30d2t05.flac:b940eabd30dce3aa88f4bf4c82a6a689
+The Smashing Pumpkins
+4/30/1996
+Palacio de Deportes
+Barcelona, ES
+
+Taper:            unknown
+Source:           ECM909A > D7
+Conversion:       DDC-5 > Sony PCM-M1 > 7-pin to coax > Delta Dio 2496 > Adobe Audition 2.0
+Editor:           Andrew Fogelsong
+Editing:          normalized(+2.75dB)
+FLAC:             master wav's > CD Wave Editor 1.95.1 > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc One
+1. Fuck You
+2. Zero
+3. Today
+4. Tonight, Tonight
+5. To Forgive
+6. BWBW
+7. Porcelina
+8. Disarm
+9. Geek USA
+10. Cherub Rock
+11. Muzzle
+
+Disc Two
+1. 1979
+2. X.Y.U.
+3. Mayonaise
+4. Silverfuck
+5. Farewell and Goodnight

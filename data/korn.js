@@ -40,8 +40,7 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1995-08-09 - San Francisco, CA - The Warfield (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -54,8 +53,7 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1995-09-30 - San Francisco, CA - The Warfield (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -82,8 +80,7 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1996-10-09 - San Francisco, CA - The Fillmore (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -152,8 +149,7 @@ const ARTIST_DATA = {
       "venue": "Live at the Hammerstein Ballroom",
       "notes": "DVD Audio",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2002-06-10 - New York, NY - Live at the Hammerstein Ballroom (DVD Audio) [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -208,8 +204,7 @@ const ARTIST_DATA = {
       "venue": "1st Mariner Arena",
       "notes": "",
       "version": "IEM",
-      "format": "FLAC",
-      "textFile": "2006-03-25 - Baltimore, MD - 1st Mariner Arena [IEM].txt"
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -291,8 +286,7 @@ const ARTIST_DATA = {
       "venue": "The Cotillion",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2010-05-28 - Wichita, KS - The Cotillion [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -305,8 +299,7 @@ const ARTIST_DATA = {
       "venue": "The Pavilion",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2010-06-02 - Lubbock, TX - The Pavilion [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -319,8 +312,7 @@ const ARTIST_DATA = {
       "venue": "Saltair",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2010-06-05 - Magna, UT - Saltair [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -333,8 +325,7 @@ const ARTIST_DATA = {
       "venue": "Grand Sierra Theatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2010-06-12 - Reno, NV - Grand Sierra Theatre [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -347,8 +338,7 @@ const ARTIST_DATA = {
       "venue": "White River Amphitheatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2010-07-13 - Auburn, WA - White River Amphitheatre [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -361,8 +351,7 @@ const ARTIST_DATA = {
       "venue": "Idaho Center Amphitheater",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2010-07-14 - Nampa, ID - Idaho Center Amphitheater [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -375,8 +364,7 @@ const ARTIST_DATA = {
       "venue": "Hard Rock Casino Albuquerque Presents The Pavilion",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2010-07-17 - Albuquerque, NM - Hard Rock Casino Albuquerque Presents The Pavilion [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -389,8 +377,7 @@ const ARTIST_DATA = {
       "venue": "Comcast Theatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2010-07-24 - Hartford, CT - Comcast Theatre [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -403,8 +390,7 @@ const ARTIST_DATA = {
       "venue": "Heavy MTL",
       "notes": "Parc",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2010-07-25 - Montreal, QC, Canada - Heavy MTL - Parc Jean-Drapeau [SBD] .txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -417,8 +403,7 @@ const ARTIST_DATA = {
       "venue": "DTE Energy Music Theatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2010-08-06 - Clarkston, MI - DTE Energy Music Theatre [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -431,8 +416,7 @@ const ARTIST_DATA = {
       "venue": "First Niagara Pavilion",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2010-08-07 - Burgettstown, PA - First Niagara Pavilion [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -445,8 +429,7 @@ const ARTIST_DATA = {
       "venue": "Jiffy Lube Live",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2010-08-08 - Bristow, VA - Jiffy Lube Live [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -459,8 +442,7 @@ const ARTIST_DATA = {
       "venue": "1-800-Ask-Gary Amphitheatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2010-08-10 - Tampa, FL - 1-800-Ask-Gary Amphitheatre [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -473,8 +455,7 @@ const ARTIST_DATA = {
       "venue": "Cruzan Amphitheatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2010-08-11 - West Palm Beach, FL - Cruzan Amphitheatre [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -513,8 +494,7 @@ const ARTIST_DATA = {
       "venue": "Sonorama Festival, Explanada Del Estadio Azteca",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2010-11-13 - Mexico City, Mexico - Sonorama Festival, Explanada Del Estadio Azteca [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2010,
@@ -540,8 +520,7 @@ const ARTIST_DATA = {
       "venue": "Festival Hall",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2010-12-05 - Melbourne, Australia - Festival Hall [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2011,
@@ -580,8 +559,7 @@ const ARTIST_DATA = {
       "venue": "Kubana Open Air",
       "notes": "Kubana",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2012-08-03 - Vese\u0308lovka, Russia - Kubana Open Air - Kubana [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2013,

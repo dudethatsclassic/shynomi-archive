@@ -2434,8 +2434,7 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1995-10-12 - San Francisco, CA - The Warfield (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -4555,8 +4554,7 @@ const ARTIST_DATA = {
       "venue": "Palavobis *The Fifth Element",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1997-10-28 - Milan, Italy - Palavobis - The Fifth Element [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -7018,7 +7016,7 @@ const ARTIST_DATA = {
       "notes": "Rebroadcast",
       "version": "TV",
       "format": "FLAC",
-      "textFile": "2001-06-09 - London, UK - Later with Jools Holland [TV].txt"
+      "textFile": "2001-06-09 - London, UK - Later with Jools Holland - BBC Broadcast [TV].txt"
     },
     {
       "year": 2001,
@@ -8957,7 +8955,7 @@ const ARTIST_DATA = {
       "notes": "Unknown song from soundcheck \u00b7 VHS",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "2003-07-07 - Bergamo, Italy - Lazzaretto (Unknown Song from Soundcheck) [AUD].txt"
+      "textFile": "2003-07-07 - Bergamo, Italy - Down By The River - Soundcheck [AUD].txt"
     },
     {
       "year": 2003,
@@ -9839,7 +9837,7 @@ const ARTIST_DATA = {
       "notes": "AT831 \u00b7 edgar",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-10-01 - Houston, TX - Cynthia Woods Mitchell Pavilion (Unknown) [AUD].txt"
+      "textFile": "2003-10-01 - Houston, TX - Cynthia Woods Mitchell Pavilion (AT831) [AUD].txt"
     },
     {
       "year": 2003,
@@ -11948,7 +11946,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2006-08-24 - Tom Robinson on BBC Radio 6 (Thom Yorke) [FM].txt"
+      "textFile": "2006-08-24 D1.txt"
     },
     {
       "year": 2006,
@@ -13649,7 +13647,7 @@ const ARTIST_DATA = {
       "notes": "AT831 \u00b7 Schoeps CCM4 \u00b7 edgar + hoserama",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "2008-08-24 - Los Angeles, CA - Hollywood Bowl (DPA4022) [AUD].txt"
+      "textFile": "2008-08-24 - Los Angeles, CA - Hollywood Bowl (DPA4022) [AUD].rtf"
     },
     {
       "year": 2008,
@@ -13761,7 +13759,7 @@ const ARTIST_DATA = {
       "notes": "CSB + CSC \u00b7 faninor",
       "version": "MIX",
       "format": "FLAC 24",
-      "textFile": "2008-08-25 - Hollywood, CA - Hollywood Bowl (DPA4022) [AUD].txt"
+      "textFile": "2008-08-25 - Hollywood, CA - Hollywood Bowl (DPA4022) [AUD].rtf"
     },
     {
       "year": 2008,
@@ -16199,8 +16197,7 @@ const ARTIST_DATA = {
       "venue": "Greek Theater",
       "notes": "MK4 \u00b7 daspyknows",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2017-04-17 - Berkeley, CA - Greek Theater (MK4) (daspyknows) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2017,

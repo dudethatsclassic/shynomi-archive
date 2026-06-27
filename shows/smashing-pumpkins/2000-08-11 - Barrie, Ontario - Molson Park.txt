@@ -1,15 +1,32 @@
-tsp2000-08-11.at853.t01.flac:09f9527f4211582fc1ce7f67467a1159
-tsp2000-08-11.at853.t02.flac:e2493816b684d18c5c3454db581ab586
-tsp2000-08-11.at853.t03.flac:41deb1feb1baf916e278945c3bc11f4f
-tsp2000-08-11.at853.t04.flac:e57b0fb4ce7b5e94f78f7604bf3ab613
-tsp2000-08-11.at853.t05.flac:b05b11ddbdab21702a71dd6a58133e1a
-tsp2000-08-11.at853.t06.flac:7431b1be47954338f4ad9714f37998bf
-tsp2000-08-11.at853.t07.flac:f2053e8ec9dfed111cee4dbf8773f265
-tsp2000-08-11.at853.t08.flac:eae6c33197e30a5e79656440aba1bbd8
-tsp2000-08-11.at853.t09.flac:69ab66db8f411191a7c37637172eb0b8
-tsp2000-08-11.at853.t10.flac:7c7cede4ddd118fd32f806897dc78ac9
-tsp2000-08-11.at853.t11.flac:5f396d2fb67c82b826175a282a512f82
-tsp2000-08-11.at853.t12.flac:52244b3240e6882cdb07e70be6f020be
-tsp2000-08-11.at853.t13.flac:eb210b3abc9723b67d756fcc8d825dc1
-tsp2000-08-11.at853.t14.flac:31492fedee279e298ebbcfb381b31826
-tsp2000-08-11.at853.t15.flac:0617641c7ddf6c9e2592c2d3d77e4e6a
+The Smashing Pumpkins
+2000-08-11
+Molson Park
+Barrie, ON
+
+
+Taper: Frank Quinto <frank@nospamfrankquinto.com>
+Source: AT853 Cardioid > SP Battery Box > Sharp MD-MS722
+Conversion: Sony JBS-920 > Coax Cable > PDAudio Interface > Compaq Ipaq 3835 Pocket PC (16-bit/44.1khz) 
+Location: Left of Board, Mics pointing at left stack
+Lineage: .wav > Flac 
+
+
+01. Intro				0:43
+02. Glass and the Ghost Children	9:37
+03. The Everlasting Gaze		3:23
+04. Heavy Metal Machine			6:39
+05. The Sacred and Profane		4:11
+06. Mayonaise				6:09
+07. Stand Inside Your Love		4:01
+08. Fuck You				4:27
+09. Don't You Want Me			4:22
+10. I of the Mourning			6:16
+11. Once Upon a Time			3:34
+12. Cherub Rock				4:21
+13. Bullet with Butterfly Wings		4:59
+14. Once In A Lifetime			5:05
+15. Drown				7:04
+
+
+Total Running Time:			1:14:51
+

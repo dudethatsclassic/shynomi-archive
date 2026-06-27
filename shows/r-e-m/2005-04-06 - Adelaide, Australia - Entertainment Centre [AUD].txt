@@ -1,24 +1,45 @@
-rem2005-04-06-d1t01.flac:b7381933db95e095ff359bdb549067cf
-rem2005-04-06-d1t02.flac:ab9f27f72f66e810ec1d80c4b593f5ac
-rem2005-04-06-d1t03.flac:ff1e6e80ceabb1cce9f62f5d6332724a
-rem2005-04-06-d1t04.flac:576ea28dcccb6ed26c16b90c423270d0
-rem2005-04-06-d1t05.flac:6058163df974a8403108badcd75fddd4
-rem2005-04-06-d1t06.flac:a4f92d6717eac42d520dbb537ed9edd9
-rem2005-04-06-d1t07.flac:219350204f4d6a1a34d228ad3764383c
-rem2005-04-06-d1t08.flac:810d363f2bc26ffa544699ab2aef2a5f
-rem2005-04-06-d1t09.flac:e5a9aa885b29014a0ecf96aafec73bdf
-rem2005-04-06-d1t10.flac:71dff3b1643551747255abf9fac576ce
-rem2005-04-06-d1t11.flac:70ffc3a663c6dee235e5df4efdbd2442
-rem2005-04-06-d1t12.flac:978df64909dcac67a1ff7f2e1f976735
-rem2005-04-06-d1t13.flac:79d65ea5f76e8bad0bc99f83c167da61
-rem2005-04-06-d1t14.flac:a34d60fb61f32d9a7b30b47e98ec37e6
-rem2005-04-06-d1t15.flac:137e6583a012f6fd00644521df817559
-rem2005-04-06-d1t16.flac:127d354790ba226c4a235ad6ce4fe3c7
-rem2005-04-06-d1t17.flac:8040450cf1f9f7dad695fd7b89c80059
-rem2005-04-06-d2t01.flac:a902bb14f8458f220c7253fdca5221ec
-rem2005-04-06-d2t02.flac:ae8f807cf69608f3a661952101d1ec81
-rem2005-04-06-d2t03.flac:99009c6cd79a38b493e35c23803174a7
-rem2005-04-06-d2t04.flac:751cb56cf0e9a7240a3f743275256a2a
-rem2005-04-06-d2t05.flac:4874ddbbcc6e0910a97812057283eb91
-rem2005-04-06-d2t06.flac:70b91b8a3ea89f104303862df0645a2c
-rem2005-04-06-d2t07.flac:def8d6209ba9057de35e976107d69e93
+R.E.M.
+Entertainment Centre
+Adelaide, Australia
+
+6th April 2005
+
+Taper: 		David Woods (david.woods@student.adelaide.edu.au)
+Source:		Giant Squid Cardioid Mics w/ built in battery box > MZ-R37
+Conversion:	MZ-R37 > Adobe Audition 1.0 > CD Wav > WAV > FLAC
+
+Disc One
+01 I Took Your Name			04.07
+02 So Fast So Numb			04.30
+03 Animal				04.22
+04 The Outsiders			04.38
+05 Bad Day				05.00
+06 Worst Joke Ever			03.50
+07 Disturbance At The Heron House	04.04	
+08 Electron Blue			04.33
+09 Electrolite				04.11
+10 Departure				04.05
+11 Leaving New York			04.57
+12 Orange Crush				04.37
+13 I Wanted To Be Wrong			05.04
+14 Final Straw				05.58
+15 Imitation Of Life			03.56
+16 The One I Love			03.26
+17 Walk Unafraid (end cut)		03.06
+
+Disc Two
+01 Losing My Religion (beginning cut)	08.09
+-Encore-	
+02 What's The Frequency Kenneth?	04.09
+03 Everybody Hurts			06.38
+04 Drive				04.56
+05 The Great Beyond			10.55
+06 I'm Gonna DJ				02.22
+07 Man On The Moon			07.15
+
+Notes: 
+Turn up your speakers.
+d1t17 and d2t01 are cut due to mini disc flip 
+Recorded about 25 rows back on Mills' side.
+Some guy next to me was quite excited and screams right into the mics after 
+just about every song, distorting results, no music is affected to my ears.

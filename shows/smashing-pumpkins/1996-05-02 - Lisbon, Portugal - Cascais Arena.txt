@@ -1,21 +1,41 @@
-tsp1996-05-02d1t01.flac:197ce73513575a8a41d282d94c31b890
-tsp1996-05-02d1t02.flac:2cc4b34f961ab2e2cc27ca7aa8bc0942
-tsp1996-05-02d1t03.flac:64f45fd6be0e556fde1fbb4cb3f0b7c0
-tsp1996-05-02d1t04.flac:aeadfb3798de8c773c0718601d8bb6db
-tsp1996-05-02d1t05.flac:45ab5d9ade91509b3f254c1ebd50f43d
-tsp1996-05-02d1t06.flac:5f0e52afceeb55d3300cbfbb55b33098
-tsp1996-05-02d1t07.flac:29512df8a8e47865197ee2aa0f3cb348
-tsp1996-05-02d1t08.flac:0918dfa2564e9f07cd24d982efd7655f
-tsp1996-05-02d1t09.flac:727f5307de5148476749600174cb30c3
-tsp1996-05-02d1t10.flac:3f63a01b8d87472ad98dbb5a7d7b4b57
-tsp1996-05-02d1t11.flac:20fba717d4bf4c33b07c31af187b2590
-tsp1996-05-02d1t12.flac:d9a5574daa7821d709afb65903d2cbba
-tsp1996-05-02d1t13.flac:d8c9daff85e791cf760b413f4b1d8133
-tsp1996-05-02d2t01.flac:b7f7756d5d8ad84fdc9db19eeb3de99f
-tsp1996-05-02d2t02.flac:b3457373075f01129c0ce8c0bf4153d7
-tsp1996-05-02d2t03.flac:3396cce0095d82a2ae6ccdb91f507607
-tsp1996-05-02d2t04.flac:39645a489b5c4e3d9e420a88d8aff560
-tsp1996-05-02d2t05.flac:bc97888b426f13d1a663e75dd858936f
-tsp1996-05-02d2t06.flac:bc050dcd650054e6bc095cc25e633603
-tsp1996-05-02d2t07.flac:8cc71fd600143df389bf024a5f303785
-tsp1996-05-02d2t08.flac:34c149a9ab34f16f6eb5bca3b2c58168
+The Smashing Pumpkins
+5/2/1996
+Cascais Arena
+Lisbon, PT
+
+Taper:            unknown
+Source:           unknown analog recorder
+Conversion:       ANA-M > DDC-1 > Sony PCM-M1 > 7-pin to coax > Delta Dio 2496 > Adobe Audition 2.0
+Editor:           Andrew Fogelsong
+Editing:          downsampled(48k to 44.1k), hard limited right channel(+3dB)
+FLAC:             master wav's > CD Wave Editor 1.95.1 > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc One
+1. MCIS
+2. Where Boys Fear to Tread
+3. Zero
+4. Fuck You
+5. To Forgive
+6. Tonight, Tonight
+7. Today
+8. Thru the Eyes of Ruby > 
+9. > By Starlight
+10. Disarm
+11. BWBW
+12. Cherub Rock
+13. Porcelina > Rocket (tease)
+
+Disc Two
+1. band introductions
+2. 1979
+3. X.Y.U.
+4. Mayonaise
+5. Muzzle
+6. Bodies
+7. Silverfuck
+8. Farewell and Goodnight

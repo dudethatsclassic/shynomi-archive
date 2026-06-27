@@ -1,19 +1,38 @@
-tsp1996-12-18d1t01.flac:ad303aeb62f3cbb4b8e2f04d0a7efafa
-tsp1996-12-18d1t02.flac:ff0a4917e461bdb2ca686984c38d69de
-tsp1996-12-18d1t03.flac:b304829b33b9f6fda5654e6ddd6065b2
-tsp1996-12-18d1t04.flac:994e310077004cbf6eec4f1610f2b4d2
-tsp1996-12-18d1t05.flac:c081dbde916b7d479cffd2b1303921b0
-tsp1996-12-18d1t06.flac:4f38a63e8a3cf38474fe689be89d7f19
-tsp1996-12-18d1t07.flac:2bd47d3466df63b31a277a76b805b3a8
-tsp1996-12-18d1t08.flac:0dacc798b5593a92add78af0fb6291ef
-tsp1996-12-18d1t09.flac:dac5caee29bcad40b094a5e8e5381a9c
-tsp1996-12-18d1t10.flac:a42f20739d0031755da38a53a4041f23
-tsp1996-12-18d1t11.flac:079ca74ca7da7a61acd93c42302ce47e
-tsp1996-12-18d1t12.flac:fe7122ad5c11e630ff8230a0c5363dab
-tsp1996-12-18d1t13.flac:e6c81f4fadfd0635840cde3b105b3c55
-tsp1996-12-18d2t01.flac:f3d34aab192c2d80410bf74441bb5e33
-tsp1996-12-18d2t02.flac:4e9342952607e1ca0ade0c1accd1a62f
-tsp1996-12-18d2t03.flac:298fbc48342799c306ca24b8690c30b2
-tsp1996-12-18d2t04.flac:8c9e0e433605ae30a56b584962917174
-tsp1996-12-18d2t05.flac:a37f07ab613aa4fe4cd42828a9dcaaad
-tsp1996-12-18d2t06.flac:2f58738867b5328d66394edc63ae34c3
+The Smashing Pumpkins
+12/18/1996
+Great Western Forum
+Inglewood, CA
+
+Taper:            unknown
+Source:           SS mics > D7
+Conversion:       DDC-? > PCM-R300 > Audiophile 2496 > WAV > SHN > CDR-0
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  *some diginoise*
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. MCIS
+2. Where Boys Fear to Tread
+3. Zero
+4. Fuck You
+5. By Starlight
+6. Tonight, Tonight
+7. Today
+8. Thru the Eyes of Ruby
+9. Porcelina of the Vast Oceans > Rocket (tease)
+10. Thirty-three
+11. Disarm
+12. Bullet with Butterfly Wings
+13. Muzzle
+
+Disc 2
+1. In-A-Gadda-Da-Vida [Iron Butterfly] (tease)
+2. X.Y.U.
+3. (band talking)
+4. 1979 (with The Frogs)
+5. The Aeroplane Flies High
+6. Silverfuck

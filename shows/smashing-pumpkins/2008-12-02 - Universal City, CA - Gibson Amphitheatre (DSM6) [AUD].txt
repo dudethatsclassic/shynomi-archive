@@ -1,24 +1,32 @@
-01 Everybody Come Clap Your Hands.flac:bc1d082ce68137cd121a2f4ad733ba7a
-02 Tarantula.flac:a8dc73b99fa6439048a7dd7f20cc52d1
-03 G.L.O.W..flac:baf894eff7509b867d21d0a2f3a45f73
-04 Siva.flac:d4012c0a8fffe67cd2dbb5ecd376a732
-05 Eye.flac:310013e1a7e3025bb49fc5db420c92dd
-06 Mayonaise.flac:49ba13106f725955b006dfd3d1d87946
-07 Tonight, Tonight.flac:8d4b1b120ef91aeaf2161d871a76a890
-08 Speed Kills.flac:4e212a0577fe1d7b2389a3ac066a9c11
-09 Stand Inside Your Love.flac:9052103a050f4b62bac6a832256c87f6
-10 Superchrist.flac:b2b9ac87a1fbc57caeb544f5cc381385
-11 United States.flac:5214619ce1078c361768fe8744b8fc1e
-12 -Billy-.flac:6c7b6e0614dbf6b2f4a37cb3f56807c8
-13 Once Upon A Time.flac:f2f51791f73fac66034c98f49e31c8f2
-14 Again, Again, Again (The Crux).flac:4276d6458d64fc573c2024bdd61410c7
-15 -introductions-.flac:151097c9c2e16bdf1e8522f93cd7d07f
-16 The Rose March.flac:cdcbd5adf34d3a115b1d6596a8ebec29
-17 Today.flac:417e904c72d6f7b26e47f5e64791d1ef
-18 Bullet With Butterfly Wings.flac:ce7ef889a7d691ba1d526f1ba181ad6d
-19 The Beginning Is The End Is The Beginning.flac:4395ab426ff5e478bf04edd29405bbd6
-20 Heavy Metal Machine.flac:9310b04c9d9fb6f983144a289c104460
-21 Glass' Theme.flac:36f044c858baccc184c61b1315d901de
-22 Set The Controls For The Heart Of The Sun.flac:37881404067a565a0767f10ef52962ec
-23 We Only Come Out At Night.flac:502d699f0ff762dfc1b3556331f44a91
-24 (They Long To Be) Close To You.flac:f7b9f2ea41aaad5fa7d19a4d4a4c819d
+SMASHING PUMPKINS
+UNIVERSAL CITY,CA:GIBSON AMPHITHEATRE
+12/2/08
+
+DSM6 -> PACLC -> D7
+D7 -> 7pin Coaxial -> CDRW700 -> EAC -> Soundforge -> FLAC Frontend Level 8
+
+  (Roctopus - missing)
+01. Everybody Come Clap Your Hands
+02. Tarantula
+03. G.L.O.W.
+04. Siva
+05. Eye
+06. Mayonaise
+07. Tonight, Tonight
+08. Speed Kills
+09. Stand Inside Your Love
+10. Superchrist
+11. United States
+12. -Billy-
+13. Once Upon A Time
+14. Again, Again, Again (The Crux)
+15. -introductions-
+16. The Rose March
+17. Today
+18. Bullet with Butterfly Wings
+19. The Beginning Is The End Is The Beginning
+20. Heavy Metal Machine
+21. Glass' Theme
+22. Set The Controls For The Heart Of The Sun
+23. We Only Come Out at Night
+24. (They Long To Be) Close To You

@@ -7576,7 +7576,7 @@ const ARTIST_DATA = {
       "notes": "CA-14 \u00b7 cptncrash76",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2025-09-26 - St. Charles, MO - Family Arena (CA-14) (cptncrash76) [AUD].txt"
+      "textFile": "2025-09-26 - St. Charles, MO - Family Arena (Sony PCM-A10) (shane e. calhoon) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -7589,8 +7589,7 @@ const ARTIST_DATA = {
       "venue": "Family Arena",
       "notes": "Sony PCM-A10 \u00b7 shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC 24",
-      "textFile": "2025-09-26 - St. Charles, MO - Family Arena (Sony PCM-A10) (shane e. calhoon) [AUD24].txt"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,

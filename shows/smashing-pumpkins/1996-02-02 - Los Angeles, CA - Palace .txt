@@ -1,31 +1,49 @@
-tsp1996-02-02[aud1]d1t01.flac:69f3d7a898bfbf77dfa7ff5655cb5a82
-tsp1996-02-02[aud1]d1t02.flac:9644cda8399823d9adc448953ee14448
-tsp1996-02-02[aud1]d1t03.flac:5bc935b88d273f098f79f6c6a5d04b1b
-tsp1996-02-02[aud1]d1t04.flac:66eae1132933990ba19b334a98b1390a
-tsp1996-02-02[aud1]d1t05.flac:cb6f8e9bd9e9d7ab31462d7397f6e0f8
-tsp1996-02-02[aud1]d1t06.flac:4434d1d960fdb39b39eef7e2754a49c2
-tsp1996-02-02[aud1]d1t07.flac:4bc02c0645f4123c129a6d03eeacf816
-tsp1996-02-02[aud1]d1t08.flac:71b0ae48a2057b949ce8919014179097
-tsp1996-02-02[aud1]d1t09.flac:d453115ffe025bb44f0fb6c06794a6d3
-tsp1996-02-02[aud1]d1t10.flac:5bacf4099692895de253b079f885bdf1
-tsp1996-02-02[aud1]d1t11.flac:336ea8791a2f6f91dd1fd09fd880f58e
-tsp1996-02-02[aud1]d1t12.flac:e317d85b2ff0a87a1dcd84ce50b76738
-tsp1996-02-02[aud1]d1t13.flac:966da2bb2daec95f978cf2651be6cab2
-tsp1996-02-02[aud1]d1t14.flac:0b203f08bd17048ec292b37861a68046
-tsp1996-02-02[aud1]d1t15.flac:1a6f5f552b982e9a33cb288a0112e135
-tsp1996-02-02[aud1]d1t16.flac:7c447f0db13d45a37b6f3800d82f7777
-tsp1996-02-02[aud1]d1t17.flac:95c59f446778096db1a0e2ace225d261
-tsp1996-02-02[aud1]d1t18.flac:d9400be527fd4325874d0598089cf189
-tsp1996-02-02[aud1]d1t19.flac:98d708b1db1450f1711a030f36e29648
-tsp1996-02-02[aud1]d1t20.flac:5b54cbee48b32a41d2b88a64e84ef662
-tsp1996-02-02[aud1]d2t01.flac:0a787d868cad7703b06a0d750d0e3a18
-tsp1996-02-02[aud1]d2t02.flac:24e2b33d6f10d43cb1a5e5376b2d2fd3
-tsp1996-02-02[aud1]d2t03.flac:4c87c27d8d9e685d8d7e6a0db2ed560b
-tsp1996-02-02[aud1]d2t04.flac:f4724190189e4efd076080f4a91f909a
-tsp1996-02-02[aud1]d2t05.flac:ef75f335b76e2ff856e2396652807249
-tsp1996-02-02[aud1]d2t06.flac:85bccb9a47494a80b09c7e4cd1f4f06c
-tsp1996-02-02[aud1]d2t07.flac:62b278695f6bdcf52df2690275bae2a9
-tsp1996-02-02[aud1]d2t08.flac:5f6f218481b7006cb7043e7c9ace62d6
-tsp1996-02-02[aud1]d2t09.flac:cd9d9efba20359e035e6fbe09096306c
-tsp1996-02-02[aud1]d2t10.flac:982a662c4d5df207af6d3ddfdd082c1c
-tsp1996-02-02[aud1]d2t11.flac:76e31ee1e48e057fc1cf42f561c67d02
+SMASHING PUMPKINS 
+February 2, 1996
+The Palace
+Hollywood, CA, USA
+
+Source: DAT audience audio (SS-DSM-6 > TCD-D8)
+Lineage: DDC-3(32k) > FLAC > WAV > Remaster > FLAC (8)
+Quality: 9.0
+Time: 143:09
+
+Setlist:
+01. intro
+02. Tonight, Tonight
+03. In The Arms Of Sleep
+04. Cupid De Locke
+05. Thirty-Three
+06. Today
+07. Lily
+08. Take Me Down
+09. Beautiful
+10. Rocket
+11. Galapogos
+12. Crowd Noise (set break)
+13. electric set intro (MCIS over PA)
+14. Where Boys Fear To Tread
+15. Zero
+16. Fuck You
+17. Here Is No Why
+18. To Forgive
+19. Bullet With Butterfly Wings
+20. Thru The Eyes Of Ruby
+21. 1979
+22. Geek U.S.A.
+23. Cherub Rock
+24. Porcelina Of The Vast Oceans
+25. encore break 1
+26. We Only Come Out At Night
+27. X.Y.U.
+28. encore break 2
+29. Jellybelly
+30. Silverfuck > Never Let Me Down [Depeche Mode] (tease) > Drown (tease)
+
+Remaster notes: 
+* Split the acoustic and electric sets into different segments for remastering, as the audio profile was slightly differnt
+* Normalized
+* Ran EQ filter
+* Original Recording found here: https://archive.org/details/SmashingPumpkins1996-02-02.FLAC
+
+Show notes: An absolutely stunning performance, one of the best of this entire run. 

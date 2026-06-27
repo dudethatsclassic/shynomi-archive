@@ -1,7 +1,15 @@
-01 -intro-.flac:d7961a4392d8b51a1c38168805d57f11
-02 Stand.flac:4ff1e869c2b95493a93f6b822ee3929c
-03 Lucy.flac:f77a28d6b599bb8c0f916843ecbe280f
-04 Cover Me.flac:5d3969abb922fa01061e68f58da40bdf
-05 Into The Sun.flac:2f837c376b2e98e996d1cccd26244ded
-06 Far Behind.flac:26be568fb6960bfeb0b96f5dabd927a6
-07 Surrendering.flac:5b02372b39621c4a0bff51c4040ee252
+CANDLEBOX
+HOLLYWOOD,CA:BORDER'S
+7/22/08
+
+DSM6 -> PACLC -> D7 
+D7 -> 7pin Coaxial -> CDRW700 -> EAC -> Soundforge -> FLAC Frontend Level 8 
+
+
+01. -intro-
+02. Stand
+03. Lucy
+04. Cover Me
+05. Into The Sun
+06. Far Behind
+07. Surrendering

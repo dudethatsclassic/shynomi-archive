@@ -1,24 +1,44 @@
-tsp2000-10-02d1t01.flac:3324dd7986ac9a2e8ef5ba8bcf518769
-tsp2000-10-02d1t02.flac:b7a332394b18233440a43d4baa04fc45
-tsp2000-10-02d1t03.flac:280772b21a48b0acd28bce082044c1fa
-tsp2000-10-02d1t04.flac:7a335a95aac88268e74f3dda4626297c
-tsp2000-10-02d1t05.flac:426f8fcc99720d801ad8a146ae969458
-tsp2000-10-02d1t06.flac:5013691ae31d0c45c164827889a7956b
-tsp2000-10-02d1t07.flac:9f4e075057c47a85a16e86a9f0fab5ff
-tsp2000-10-02d1t08.flac:611ab6ebbb66e31e085cb95b402843bb
-tsp2000-10-02d1t09.flac:f471cc4f51828cfce083371bcb36e6b3
-tsp2000-10-02d1t10.flac:2fb52f970fa592547084286c90906d3d
-tsp2000-10-02d1t11.flac:808c7529dbc8d0e02671a8f8fdb05db8
-tsp2000-10-02d1t12.flac:7f82e20ecdac28f2f9b5fcea080728b9
-tsp2000-10-02d1t13.flac:88176f0552324b2577c7012fdc825f1f
-tsp2000-10-02d1t14.flac:aa57e8c6c9984c72402fd43fbe081dce
-tsp2000-10-02d1t15.flac:68c69c22e1defe92128d581038cf4232
-tsp2000-10-02d2t01.flac:f098ba24c579a57f7d30e337aee2f360
-tsp2000-10-02d2t02.flac:dfde39ee27641dcc1ac6b53c99f3bf92
-tsp2000-10-02d2t03.flac:69e455ee13838a79a0ccada805723c69
-tsp2000-10-02d2t04.flac:fced79621baf4a2f468159d9ead7bc2c
-tsp2000-10-02d2t05.flac:2b886956b605b2a7bc53901ace16d538
-tsp2000-10-02d2t06.flac:6a3f9eef9ed47cc9bf8984446bdd3beb
-tsp2000-10-02d2t07.flac:ee4372718d23be8363cb8201d47a845a
-tsp2000-10-02d2t08.flac:47d73b00b6444a86f0bb8370fbd63b09
-tsp2000-10-02d2t09.flac:ba30357813f8573ae7fce29d546e6d0b
+The Smashing Pumpkins
+10/2/2000
+Zenith
+Toulouse, FR
+
+Taper:            Jerome Conin
+Source:           DSM-6S > PA-6LC3 > M1
+Conversion:       DAT-M > Sony PCM-M1 > 7-pin to coax > Delta Dio 2496 > Adobe Audition 2.0
+Editor:           Andrew Fogelsong
+Editing:          downsampled(48k to 44.1k), hard limiting(+5dB), fade out
+FLAC:             master wav's > CD Wave Editor 1.95.1 > FLAC (level 8)
+Notes:		  dropout in Today
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc One
+1. Raindrops + Sunshowers
+2. Thirty-three
+3. Stand Inside Your Love
+4. Today
+5. To Sheila
+6. Blue Skies Bring Tears
+7. Glass' Theme	
+8. The Everlasting Gaze
+9. BWBW
+10. Dross
+11. Speed Kills
+12. If There Is a God
+13. Cash Car Star
+14. Rock On [Essex] > 
+15. > Heavy Metal Machine
+
+Disc Two
+1. Disarm
+2. Tonight, Tonight
+3. Try, Try, Try
+4. Porcelina
+5. Home
+6. I of the Mourning
+7. Blank Page
+8. Cherub Rock
+9. 1979

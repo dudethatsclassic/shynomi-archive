@@ -1,25 +1,41 @@
-radiohead2006-0627d1t01.flac:b44555d9d6f10be00eb64d689eaf68de
-radiohead2006-0627d1t02.flac:cdca0c66ac7c9e409475948dd612b044
-radiohead2006-0627d1t03.flac:b16776b0fd20c11703e0a0c5daa34568
-radiohead2006-0627d1t04.flac:691d2aaaa13857e8b697c4a4d146424c
-radiohead2006-0627d1t05.flac:9abd6d9929f6da854782507c8a84c52e
-radiohead2006-0627d1t06.flac:742bbdf096705182b4b5ef2d3e39f17a
-radiohead2006-0627d1t07.flac:a9ac35c89b24d9f45d15b31dc662a53e
-radiohead2006-0627d1t08.flac:de0253b99f664a11fcae80153c654c3b
-radiohead2006-0627d1t09.flac:88785ac903bb00d42ed03514b987e28d
-radiohead2006-0627d1t10.flac:d1bfe8dc5fd3a5c3ce4a0cea0205b0b9
-radiohead2006-0627d1t11.flac:d82883002a8a00badebd22adf4555889
-radiohead2006-0627d1t12.flac:57bb323721e62db328ec0b1beb45c1ef
-radiohead2006-0627d1t13.flac:2296fc31e974415e044a99c1a492bf1d
-radiohead2006-0627d1t14.flac:df3da3d8e1ee60187db73f5551968f81
-radiohead2006-0627d1t15.flac:dde327032e6d63147607eae795ef2676
-radiohead2006-0627d1t16.flac:21d2dc6bdfac6d21feb829838aad35a0
-radiohead2006-0627d1t17.flac:87811796908b844c7ef85f20dc9f8597
-radiohead2006-0627d1t18.flac:74ea077f025d2461913de3ee31ac512e
-radiohead2006-0627d1t19.flac:388aed6b3dd3a4324f9322bd7c2901eb
-radiohead2006-0627d2t01.flac:876e50c87bdef7a28cd6b2407e559b2c
-radiohead2006-0627d2t02.flac:c4fb27ba5c2bde9b6bbaae2b347e7632
-radiohead2006-0627d2t03.flac:bafd3813d6b0c8d22d972dbf8d698e3a
-radiohead2006-0627d2t04.flac:11341fa5c261ec94021b86c9e93e91c6
-radiohead2006-0627d2t05.flac:e308d76b66d00e999d3f69b096df1367
-radiohead2006-0627d2t06.flac:6651efccec12740239aa22188af25816
+Radiohead 
+Monday June 27 2006
+Bayside Embarcadero
+San Diego, CA
+
+CD1:
+
+01 intro
+02 Airbag
+03 The National Anthem
+04 Where I End And You Begin
+05 15 Step
+06 Exit Music (For A Film)
+07 Bodysnatchers
+08 My Iron Lung
+09 Go Slowly
+10 Videotape
+11 I Might Be Wrong
+12 Climbing Up The Walls
+13 All I Need 
+14 Pyramid Song
+15 Spooks
+16 Idioteque
+17 Myxomatosis 
+18 Bangers 'n Mash
+19 Bones
+
+CD2:
+
+Encore 1
+01 Like Spinning Plates
+02 A Wolf At The Door
+03 Down Is The New Up
+04 Fake Plastic Trees
+
+Encore 2
+05 Nude
+06 Everything In Its Right Place
+
+Source: Neumann KM140s (fob) > Sound Devices MP2 > Sony SBM1 (48k) > Sony D7
+Transfer: DAT master > HHb CDR830 > EAC > WaveLab > FLAC 

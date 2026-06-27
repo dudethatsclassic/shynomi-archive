@@ -1,24 +1,43 @@
-tsp2000-10-01d1t01.flac:406fd0b10352d41422f921ec005b984c
-tsp2000-10-01d1t02.flac:3a959a3f28939e3df4757606049f2ab1
-tsp2000-10-01d1t03.flac:8ebccbd7535d7d5ed3284c72152f4344
-tsp2000-10-01d1t04.flac:c5875e770d858cb32bab76325160c7ae
-tsp2000-10-01d1t05.flac:06700c1387a3bf892c8f5dd141248b64
-tsp2000-10-01d1t06.flac:b430fe127e002f0d594e5a614f6f0fc4
-tsp2000-10-01d1t07.flac:bcb442747cc0ba2c290d39e4f27c83c7
-tsp2000-10-01d1t08.flac:b27a286c5b78319f5f52e1ae22809d68
-tsp2000-10-01d1t09.flac:4008acc3c3e12b3f2c41e069075c0671
-tsp2000-10-01d1t10.flac:36adf73cb8f28def5866ab48fd173791
-tsp2000-10-01d1t11.flac:7ad8671098984c138d85b58ddb966c94
-tsp2000-10-01d2t01.flac:67163d919231ddd9e53992dd1c636749
-tsp2000-10-01d2t02.flac:97ce05a1dda1367205882ba3eb19c900
-tsp2000-10-01d2t03.flac:9ab7d5b0650d0302421a39ca91da0475
-tsp2000-10-01d2t04.flac:15e124e42c935a83a407578c2d2ddbce
-tsp2000-10-01d2t05.flac:4da854037e6076952dbbbbbcac7f8267
-tsp2000-10-01d2t06.flac:f510481efc0961cadd1521fef5dd670a
-tsp2000-10-01d2t07.flac:56b99e5490b21d8ceba77a2c4cadabb1
-tsp2000-10-01d2t08.flac:bf3e622c9eef08fdaac85020d2a623ff
-tsp2000-10-01d2t09.flac:905fd5e16f94cdaadbd38dd3c1a54b0e
-tsp2000-10-01d2t10.flac:7e3c0f703f48bb6b7b12477f77f4be1f
-tsp2000-10-01d2t11.flac:e3c2aaff52ada3ffe3d5787fa74e6ff6
-tsp2000-10-01d2t12.flac:5253f846b3a0ae516850fd7037627733
-tsp2000-10-01d2t13.flac:4c43ad23f80677d456b38d89ad68e86b
+The Smashing Pumpkins
+10/1/2000
+Dome
+Marseilles, FR
+
+Taper:            frenchy
+Source:           DSM-6S > PA-6LC3 > M1
+Conversion:       DAT-M(48k) > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. Daydream (tease) > Glass and the Ghost Children > Le Deux Machina (tease)
+2. Today
+3. Stand Inside Your Love
+4. Thirty-three
+5. To Sheila
+6. Blue Skies Bring Tears > (drum solo)
+7. Glass' Theme
+8. The Everlasting Gaze
+9. Bullet with Butterfly Wings
+10. Dross
+11. Speed Kills
+
+Disc 2
+1. If There Is a God
+2. Cash Car Star
+3. Rock On [Essex] > 
+4. > Heavy Metal Machine
+5. Disarm
+6. Tonight, Tonight
+7. Try, Try, Try
+8. Porcelina of the Vast Oceans
+9. I of the Mourning
+10. Home
+11. Blank Page
+12. Cherub Rock
+13. 1979

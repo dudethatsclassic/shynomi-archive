@@ -1,24 +1,40 @@
-Disc 1\01 Track01.flac:5a69b47c9ff5b17bf3888b4488f9dbfc
-Disc 1\02 Track02.flac:19001eae0353cec57da44e1f6bf46476
-Disc 1\03 Track03.flac:82f1c2167a003c4d697a89a3f8769521
-Disc 1\04 Track04.flac:f5ad2ba59094148929ca1ce1e376b1fe
-Disc 1\05 Track05.flac:39c4aec5c5ff4ea701924f6d8ec7f9f6
-Disc 1\06 Track06.flac:3df61f8b91fa9872d7cedad9d137e6f4
-Disc 1\07 Track07.flac:2b83b11265975ef0ebb84364c3765d24
-Disc 1\08 Track08.flac:7826168928dcde03c610d7c28ba80ff8
-Disc 1\09 Track09.flac:a71c7f025a4c22e8b2428e65deb55ff9
-Disc 1\10 Track10.flac:a22faa720bf4165fcb5e6b3e66eff8f7
-Disc 1\11 Track11.flac:a4ccf14e9e9ce4d2af8f9ebc5fea9440
-Disc 1\12 Track12.flac:4651991503c64803ad42159abcbdb1fc
-Disc 1\13 Track13.flac:b9bd4b90af929a1b0b05ae71ef8d77f3
-Disc 1\14 Track14.flac:6b51475126075f7447bbae6e23976d50
-Disc 1\15 Track15.flac:ad8973ef1cef9624ba170184190c60c8
-Disc 2\01 Track01.flac:2b06d5651b992f59e324a8ed17a543da
-Disc 2\02 Track02.flac:bfde422adaf061224f584ea8ba6d4f36
-Disc 2\03 Track03.flac:e540c4eb3dfdc71ad58f8b1bd61fe7bd
-Disc 2\04 Track04.flac:18914eb9a473b06fec2ed9cdb149eaf9
-Disc 2\05 Track05.flac:4ef5b4ac2324c615254e00d25b662d8c
-Disc 2\06 Track06.flac:cec7b1837333832214912273441c3029
-Disc 2\07 Track07.flac:775f026a7b34326b819fd109d61f7ccd
-Disc 2\08 Track08.flac:21c9c4cfc769a75cd8f99c9686002949
-Disc 2\09 Track09.flac:e4df0a4ba8619f44a307fe402eb93943
+04.07.2003
+Germany, Berlin, Waldbühne
+10000 $ Reward
+good Aud.
+
+Disc 1: [1:08:17]
+01. Intro [6:23]
+02. Finest Worksong [3:49]
+03. What´s The Frequency, Kenneth [4:39]
+04. Imitation Of Life [3:55]
+05. Have U Ever Seen The Rain (snippet) [0:54]
+06. Drive [5:24]
+07. Animal [5:18]
+08. The Great Beyond [4:59]
+09. Maps And Legends [3:40]
+10. Bad Day [5:52]
+11. The One I Love [4:12]
+12. Country Feedback [5:44]
+13. Fall On Me [3:16]
+14. Losing My Religion [5:43]
+15. Electrolite [4:24]
+ 
+Disc 2: [55:25]
+01. I Believe [5:35]
+02. Find The River [5:40]
+03. So Fast So Numb [4:52]
+04. Man On The Moon [5:13]
+05. Walk Unafraid [7:46]
+06. Everybody Hurts [8:52]
+07. She Just Want´s To Be [7:10]
+08. Exhuming McCarthy [3:20]
+09. It´s The End Of The World... [6:52]
+
+Taper: Sportpalast
+Source: off master MD, MZ N910, Sony ECM 717 Mic´s
+
+Notes: Fine Show! Weather was rainy near complete first set. “Have u ever seen the rain” Track 5!
+M. Stipe was very talkative and talks about his memories with Thom Yorke (Radiohead) in this special venue “years ago” > Electrolite!
+
+Lineage: Trade (CDR) EAC > WAV > FLAC (Level 8) > Torrent

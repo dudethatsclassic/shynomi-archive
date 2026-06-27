@@ -82,7 +82,8 @@ const ARTIST_DATA = {
       "venue": "Area C, Lime Grove / BBC TV",
       "notes": "Top of the Pops \u00b7 Source 2",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1966-12-29 - London, UK - Top Of The Pops (BBC TV).txt"
     },
     {
       "year": 1966,
@@ -95,7 +96,8 @@ const ARTIST_DATA = {
       "venue": "Area C, Lime Grove / BBC TV",
       "notes": "Top of the Pops \u00b7 Source 3 \u00b7 pitch corrected",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1966-12-29 - London, UK - Top Of The Pops (BBC TV).txt"
     },
     {
       "year": 1967,
@@ -163,7 +165,8 @@ const ARTIST_DATA = {
       "venue": "The Flamingo Club (FTO 017) (2 source mix",
       "notes": "low",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-02-04 - London, UK - Flamingo.txt"
     },
     {
       "year": 1967,
@@ -271,7 +274,8 @@ const ARTIST_DATA = {
       "venue": "NDR Funkhaus",
       "notes": "preFM Master Reel upgrade",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-03-18 - Hamburg, Germany - Studio 1 - NDR Radiohouse.txt"
     },
     {
       "year": 1967,
@@ -284,7 +288,8 @@ const ARTIST_DATA = {
       "venue": "Studio 1",
       "notes": "NDR \u00b7 twin club series",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-03-18 - Hamburg, Germany - Studio 1 - NDR Radiohouse.txt"
     },
     {
       "year": 1967,
@@ -530,7 +535,8 @@ const ARTIST_DATA = {
       "venue": "Tivoli Garden",
       "notes": "Stora Scenen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-09-04 - Stockholm, Sweden - Tivoli Garden.txt"
     },
     {
       "year": 1967,
@@ -1721,7 +1727,8 @@ const ARTIST_DATA = {
       "venue": "Philharmonic Hall *Live at Philharmonic Hall",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-11-28 - New York - Philharmonic Hall.txt"
     },
     {
       "year": 1968,
@@ -1734,7 +1741,8 @@ const ARTIST_DATA = {
       "venue": "Philharmonic Hall",
       "notes": "Source 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-11-28 - New York - Philharmonic Hall.txt"
     },
     {
       "year": 1968,
@@ -1747,7 +1755,8 @@ const ARTIST_DATA = {
       "venue": "Philharmonic Hall",
       "notes": "thomas geneser 3-source merge",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-11-28 - New York - Philharmonic Hall.txt"
     },
     {
       "year": 1968,
@@ -1774,8 +1783,7 @@ const ARTIST_DATA = {
       "venue": "The Coliseum *Chicago '68",
       "notes": "ANA(1)",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1968-12-01 - Chicago, Illinois - The Coliseum.txt"
+      "format": "FLAC"
     },
     {
       "year": 1969,
@@ -1801,7 +1809,8 @@ const ARTIST_DATA = {
       "venue": "Lorensbergs Circkus",
       "notes": "1st gen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-01-08 - Gothenburg, Sweden - Lorensbergs Circkus.txt"
     },
     {
       "year": 1969,
@@ -1854,7 +1863,8 @@ const ARTIST_DATA = {
       "venue": "2nd show *Live in Stockholm",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-01-09 - Stockholm, Sweden - Konserthuset.txt"
     },
     {
       "year": 1969,
@@ -1923,7 +1933,8 @@ const ARTIST_DATA = {
       "venue": "Halle Munsterland *Shut Up and Listen",
       "notes": "vibratory munster 3 source merge",
       "version": "AUD",
-      "format": "APE"
+      "format": "APE",
+      "textFile": "1969-01-14 - Munster, Germany - Halle Munsterland.txt"
     },
     {
       "year": 1969,
@@ -2061,7 +2072,8 @@ const ARTIST_DATA = {
       "venue": "Royal Albert Hall",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-02-24 - London, UK - Royal Albert Hall.txt"
     },
     {
       "year": 1969,
@@ -2074,7 +2086,8 @@ const ARTIST_DATA = {
       "venue": "Royal Albert Hall *He Was A Friend Of Ours",
       "notes": "remastered rehearsals",
       "version": "Silver CD",
-      "format": "APE"
+      "format": "APE",
+      "textFile": "1969-02-24 - London, UK - Royal Albert Hall.txt"
     },
     {
       "year": 1969,
@@ -2736,7 +2749,7 @@ const ARTIST_DATA = {
       "notes": "3rd source",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1970-04-25 - Los Angeles, CA - LA Forum [SBD].txt"
+      "textFile": "1970-04-25 - Inglewood, CA - LA Forum .txt"
     },
     {
       "year": 1970,
@@ -2805,7 +2818,8 @@ const ARTIST_DATA = {
       "venue": "Milwaukee Auditorium",
       "notes": "1st gen upgrade",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-05-01 - Milwaukee, WI - Milwaukee Auditorium.txt"
     },
     {
       "year": 1970,

@@ -1,7 +1,14 @@
+Radiohead
+6/24/2006
+Sound Opinions Studio - Chicago, IL
+Broadcast on 89.3 Minnesota Public Radio
 
-radiohead2006-06-2401.flac:ab8ce37ee255d81e89b5199d83e8ba5e
-radiohead2006-06-2402.flac:8bbe20b00f87e6f186be6ea6c3d6586d
-radiohead2006-06-2403.flac:2c336af6505987db77111278fdf1f9da
-radiohead2006-06-2404.flac:674e51a0ab23941de9756226f976ca60
-radiohead2006-06-2405.flac:29d3b55d5ef3a91cd80290987631796d
-radiohead2006-06-2406.flac:dd918f2aa703b1b12b12bb154b089413
+
+Source:  FM Broadcast > Pioneer SX-205 Receiver > Sound Forge 7.0 > CD WAve > FLAC
+
+01. Intro
+02. Interview Part 1
+03. Interview Part 2
+04. Interview Part 3
+05. I Want None Of This
+06. Outro

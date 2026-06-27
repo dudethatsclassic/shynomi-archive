@@ -1,15 +1,34 @@
-tsp1996-11-22d1t01.flac:72a15419f1ee93cee2e74a13b559e1de
-tsp1996-11-22d1t02.flac:1f17b92dd47762ad3feb8c70d078b38c
-tsp1996-11-22d1t03.flac:a43d1bf638cb1293b902103e098ad20a
-tsp1996-11-22d1t04.flac:e4607d5b19155d7a5d018d3e09bf35f4
-tsp1996-11-22d1t05.flac:8598d8e9eb5319d3a3c1f2a3eff9e3da
-tsp1996-11-22d1t06.flac:0d1ce89a7be123c3fed49700160092c1
-tsp1996-11-22d1t07.flac:e6b37cf867bc550f833e364f4cb4ddc6
-tsp1996-11-22d1t08.flac:a5a969f9d21ed1eae5b065573c70a6b0
-tsp1996-11-22d1t09.flac:6987032fbfca6fb0edd6bae84aeb0a42
-tsp1996-11-22d1t10.flac:a2276c6899a32797a8b0ac54c67f4f5e
-tsp1996-11-22d2t01.flac:097227818d968c0e8738d56dd4f51615
-tsp1996-11-22d2t02.flac:aff45c1b2abcd2b2fa12badbedde8dba
-tsp1996-11-22d2t03.flac:2a3d1fac81f7187e15b0a3eba1b2313c
-tsp1996-11-22d2t04.flac:36c3748cf2adc0c2d33466a3eb66b8b0
-tsp1996-11-22d2t05.flac:2869e249158f754d633511f5e041d510
+The Smashing Pumpkins
+11/22/1996
+Pyramid
+Memphis, TN
+
+Taper:            Jack White
+Source:           CSB > D8
+Conversion:       DDC-6 > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. MCIS
+2. Where Boys Fear to Tread
+3. Zero
+4. Fuck You
+5. By Starlight
+6. Tonight, Tonight
+7. Today
+8. Thru the Eyes of Ruby
+9. Cherub Rock
+10. Galapogos
+
+Disc 2
+1. Disarm
+2. Bullet with Butterfly Wings
+3. Muzzle
+4. Porcelina of the Vast Oceans > Rocket (tease) 
+5. X.Y.U.

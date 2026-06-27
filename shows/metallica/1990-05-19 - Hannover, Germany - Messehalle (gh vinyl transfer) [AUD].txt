@@ -1,30 +1,70 @@
-metallica1990-05-19.d1t01.flac:0210903d5f733f445e7b32fce6321ebd
-metallica1990-05-19.d1t02.flac:e27082023565286a94c09ae7f3373724
-metallica1990-05-19.d1t03.flac:ca45c6148bb6a876585cc61992a402d4
-metallica1990-05-19.d1t04.flac:aec62d0d3705447974471f1599975cd2
-metallica1990-05-19.d1t05.flac:9c2ad1d80a56e9c463dda639c36b9b7e
-metallica1990-05-19.d1t06.flac:c4f6b98c39d1477b545649c513a134f7
-metallica1990-05-19.d1t07.flac:e3698cb5bc9ce76905b784b9475b48de
-metallica1990-05-19.d1t08.flac:0aa605fca746938b39eec6fb041b2709
-metallica1990-05-19.d1t09.flac:458939dd5b6c1880b7bdf6267e528326
-metallica1990-05-19.d1t10.flac:b6d3dce635053e392938457be6e6a8c0
-metallica1990-05-19.d1t11.flac:6bbfec37c492fa5f0547c9c6246acab3
-metallica1990-05-19.d1t12.flac:c9954c00becca6e497404c201abfa206
-metallica1990-05-19.d1t13.flac:b66feca3f3d21a2d215ce7c2088af65d
-metallica1990-05-19.d1t14.flac:03e7eb75d2daee48bec52568f6458f8a
-metallica1990-05-19.d1t15.flac:6f7442831053b9bec7ca641eb6140336
-metallica1990-05-19.d2t01.flac:8e7575410f040f8bc315e552bbc62583
-metallica1990-05-19.d2t02.flac:ddb4bee16abbdd7c14859164a3f26284
-metallica1990-05-19.d2t03.flac:b3afdb788a81b9317fdeaf34d0982227
-metallica1990-05-19.d2t04.flac:961368bf9ca9f788a11f65fc982553b9
-metallica1990-05-19.d2t05.flac:4d71187f085c9850391c2b9466b1f917
-metallica1990-05-19.d2t06.flac:4404144e5dffc0411e72c97400abc530
-metallica1990-05-19.d2t07.flac:e9f5b1b37f5a1a67aee121c18875f7a7
-metallica1990-05-19.d2t08.flac:10e491501902b88582aa63f1340e6a3b
-metallica1990-05-19.d2t09.flac:405f2e7b6e714cd3fec647fc31466ad6
-metallica1990-05-19.d2t10.flac:3da7b96012e0cb231ca28fe262568f56
-metallica1990-05-19.d2t11.flac:c9a9a2aab826dd93760b672df8e66dc0
-metallica1990-05-19.d2t12.flac:bde2d1e95465ae2c04400737ac380bbb
-metallica1990-05-19.d2t13.flac:82390c227211202312cbad928929fe49
-metallica1990-05-19.d2t14.flac:68cb3746203eb80e9216e6a2458a513c
-metallica1990-05-19.d2t15.flac:ad9c25a2928deb82549422c7e0807db5
+Metallica
+Messehalle
+Hannover, Germany
+May 19, 1990
+
+Lineage:
+Original Vinyl Bootleg(Recording with Sony Mobile)>Linn LP12>Linn Linto Phono Pre-Amplifier>
+Accuphase C-250>Harman/Kardon CDR 30>CD-R>EAC(secure mode)>
+WAV(files checked and some clicks removed)>FLACFrontend>Flac(Level 8)
+
+Transferred By GH
+Tracked, Edited And Seeded By Helm
+April 2008
+
+Disc 1
+
+01. Intro
+02. Creeping Death
+03. For Whom The Bell Tolls
+04. Kirk Standard Solo
+05. Welcome Home 
+06. Harvester Of Sorrow
+07. No Remorse
+08. The Four Horsemen
+09. Audience
+10. Jaymz 
+11. Shortest Straw
+12. Jaymz
+13. Bass Solo Jason Newsted
+14. To Live Is To Die (segment)
+15. Whiplash
+
+tapeflip t 13 ~ 0:03
+
+Disc 2
+
+01. Fade To Black
+02. Jaymz
+03. Seek And Destroy
+04. Blackened
+05. One
+06. Master Of Puppets
+07. Guitar Solo Kirk Hammett
+08. Battery
+09. Symptom Of The Universe
+10. Last Caress
+11. Am I Evil
+12. Helpless
+13. Breadfan
+14. Motorbreath
+15. The Frayed Ends Of Sanity
+
+tapeflip t7 ~3:34
+
+Greets to Jon Bebee and Dr. Michael K.  :-)
+
+
++ Bonus Track "The Frayed Ends Of Sanity" from Dortmund, Germany, May 17, 1990
+
+This was my first Metallica Show and it was great!.
+
+I purchased this 3LP Set 6-7 years ago and a friend made a nice transfer with his excellent Hi-Fi System.
+I scanned the ticket and the Album Cover and you can find them in the torrent, too.
+The Album Cover was scanned as an uncompressed Tiff File (Book2net Bookscanner>Bookyscan>Tiff)
+
+Due to some Date & Track errors on the Original Bootleg, this torrent file is tracked slightly different and
+the Songtitles are correct now.
+I also excluded the Interview which is present on the Vinyl, because of some official content.
+
+Enjoy!

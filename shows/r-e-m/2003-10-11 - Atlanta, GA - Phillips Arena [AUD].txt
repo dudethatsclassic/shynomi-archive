@@ -1,30 +1,39 @@
-Disc 1\01 Track01.flac:41660c0e740bd02f308c593ca09459c5
-Disc 1\02 Track02.flac:53862e9c1e73d45b93f2773bce908044
-Disc 1\03 Track03.flac:75a16d07f00fea4910ca145a49d057b9
-Disc 1\04 Track04.flac:0eb7c5726fff7e1fd206aac1dc03d66b
-Disc 1\05 Track05.flac:6e51cf5d61cbd79b21460c9f8c328b07
-Disc 1\06 Track06.flac:ee936f96fb54b8376eba5ffc3bd5ab66
-Disc 1\07 Track07.flac:1d357b51d7bfaf9b0c8099edb319d3fb
-Disc 1\08 Track08.flac:2d3423624821634e936d3dc87fa24de4
-Disc 1\09 Track09.flac:965f88a840458db64dbb03fb1f195aa2
-Disc 1\10 Track10.flac:a980e2b7045d1194a1f129303453278e
-Disc 1\11 Track11.flac:84677afafe0c65f9e662b72531469dc7
-Disc 1\12 Track12.flac:c56a48d9dad1ae90a08e2dfad357739e
-Disc 1\13 Track13.flac:869e5c3d732f7a6173aac2ad88f30e1f
-Disc 1\14 Track14.flac:6ed5aa1a90ea262138993649372db997
-Disc 1\15 Track15.flac:c96af91926c336c2b8a927684c9cc136
-Disc 1\16 Track16.flac:f01ac761872913c630755f12ea08054d
-Disc 2\01 Track01.flac:07d734bcceef3d52b362703b12d6ed75
-Disc 2\02 Track02.flac:87e7e5b81a82d357f2fce998f7a34a81
-Disc 2\03 Track03.flac:4e13c35b2179f5b1e3c6b83726606def
-Disc 2\04 Track04.flac:1e4883ba951782b7501183153dc33d64
-Disc 2\05 Track05.flac:77589d9f502dff57f621a742f041b88b
-Disc 2\06 Track06.flac:ef007340591d7e63c94c12015dca21bf
-Disc 2\07 Track07.flac:f72025a58995158cf4364dfdf8e6de18
-Disc 2\08 Track08.flac:df8c0e3522c9b5901ab96d10869d8669
-Disc 2\09 Track09.flac:00b3ffb2e273b3c3d784885ac2468127
-Disc 2\10 Track10.flac:715b6027de97693264572e4c8e6f5f93
-Disc 2\11 Track11.flac:e969ef129cff2039a1083cf8a8488c2c
-Disc 2\12 Track12.flac:b8c33cbcfab625880421d2da01a6be88
-Disc 2\13 Track13.flac:cab8742cb5f9e127e40ce6e402c412b1
-Disc 2\14 Track14.flac:d2be066bab6d514a896c5fad374c5a89
+11.10.2003
+USA, Atlanta, Philips Arena
+A Few Miles From Home
+very good Aud.
+
+Disc 1: [1:10:21]
+01. Finest Worksong [4:01]
+02. Begin The Begin [3:56]
+03. So Fast So Numb [4:39]
+04. Drive [5:36]
+05. Animal [4:27]
+06. Fall On Me [3:37]
+07. You Are The Everything [3:28]
+08. Michael Stipe Speech [1:02]
+09. Bad Day [4:36]
+10. The One I Love [4:59]
+11. Electrolite [4:48]
+12. E-Bow The Letter [6:15]
+13. Rockville [5:14]
+14. Find The River [4:30]
+15. Losing My Religion [5:03]
+16. At My Most Beautiful [4:01]
+
+Disc 2: [1:10:47]
+01. She Just Wants To Be [7:25]
+02. Walk Unafraid [5:12]
+03. Man On The Moon [5:45]
+04. Encore Break [2:01]
+05. Life And How To Live It [4:43]
+06. Nightswimming [5:32]
+07. Final Straw [5:23]
+08. Gardening At Night [4:14]
+09. Wolves, Lower [4:37]
+10. Sitting Still [4:22]
+11. Radio Free Europe [4:22]
+12. Permanent Vacation [5:49]
+13. Imitation Of Life [4:10]
+
+Lineage: Trade (CDR) EAC > WAV > FLAC (Level 8) > Torrent

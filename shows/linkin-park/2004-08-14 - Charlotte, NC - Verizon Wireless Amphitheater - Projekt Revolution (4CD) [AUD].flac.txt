@@ -1,9 +1,93 @@
-projektrevolution2004-08-14d4t01.flac:2c78a99a113980ef7ca9b0a1462ac238
-projektrevolution2004-08-14d4t02.flac:f1a0a10f3a029c31f33b02f0ef6ae2c6
-projektrevolution2004-08-14d4t03.flac:08356edb8afceda68dca19bd275fab5d
-projektrevolution2004-08-14d4t04.flac:c56061ad293ea1489b4ab1312e104c43
-projektrevolution2004-08-14d4t05.flac:149786aa993333c7427f67be808f8d84
-projektrevolution2004-08-14d4t06.flac:6cf47f3022f1fc5da47b96bdef874a5a
-projektrevolution2004-08-14d4t07.flac:80f7dcf2b1a3bcaa814f42e720617bce
-projektrevolution2004-08-14d4t08.flac:2c939b58c9bf38444518ca9bd2043d60
-projektrevolution2004-08-14d4t09.flac:2948b2e39dcb6fee91c899e284248a51
+Projekt Revolution
+Verizon Wireless Amphitheater
+Charlotte, NC
+Saturday August 14, 2004
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA 4022s > Aerco MP2 > SBM-1(Oade Mod)
+Location:	Sec 2, Row N, Seat 19, 14th row center
+
+DAT > SHN:	D100 > Emagic Audiowerk2 > Dell Dimension 8200 >
+		Steinberg WaveLab v4.0c > CD-WAV > FLAC frontend v1.7.1 > .flac
+
+Disc One:
+Snoop Dogg:
+
+01:	Announcements			-	01:30.000
+02:	Announcements			-	02:00.000
+03:	Intro				-	02:56.000
+04:	Intro				-	03:03.133
+05:	Murder Was The Case		-	03:13.600
+06:	? >				-	02:10.000
+07:	?				-	02:16.000
+08:	? > Nothin' But A 'G' Thang	-	03:29.400
+09:	2 Of Amerikaz Most Wanted	-	02:50.866
+10:	Snoop's Upside Your Head	-	04:10.266
+11:	Beautiful			-	06:24.466
+12:	Lodi Dodi			-	10:13.000
+13:	Gin And Juice			-	04:18.266
+14:	?				-	02:39.866
+15:	Snoop Doggy Dogg		-	03:40.866
+16:	?				-	03:08.800
+17:	Outro				-	02:50.466
+
+Total:					-	60:55.000
+
+Disc Two:
+Korn:
+
+01:	Intro				-	02:07.000
+02:	Right Now			-	04:02.866
+03:	Twist				-	00:53.400
+04:	Got The Life			-	04:04.866
+05:	Falling Away From Me		-	04:42.000
+06:	A.D.I.D.A.S.			-	02:38.733
+07:	Word Up				-	02:48.866
+08:	Somebody Someone		-	05:02.400
+09:	Here To Stay			-	04:41.866
+10:	Shoots And Ladders(One)		-	06:02.400
+11:	Freak On A Leash		-	04:58.600
+12:	Did My Time			-	04:16.133
+13:	Another Brick In The Wall
+	(Goodbye Cruel World)		-	07:55.600
+14:	Blind				-	06:05.133
+15:	Y'all Want A Single		-	05:40.000
+16:	Outro				-	06:49.133
+
+Total:					-	72:49.000
+
+Disc Three:
+Linkin Park:
+
+01:	Intro				-	03:30.533
+02:	Don't Stay			-	04:22.866
+03:	Lying From You			-	03:27.866
+04:	Papercut			-	03:22.466
+05:	Points Of Authority		-	03:24.266
+06:	With You			-	03:27.000
+07:	Runaway				-	04:27.866
+08:	Step Up > Nobody's Listening >
+	It's Going Down			-	05:42.666
+09:	Somewhere I Belong		-	03:54.466
+10:	Figure.09			-	07:56.000
+
+Total:					-	43:36.000
+
+Disc Four:
+
+01:	Disc Four Intro			-	00:18.733
+02:	Breaking The Habit		-	05:10.266
+03:	Numb				-	05:41.000
+04:	Faint *				-	02:43.733
+05:	In The End			-	04:31.800
+06:	A Place For My Head		-	07:48.333
+07:	Crawling			-	05:13.000
+08:	Wish				-	04:22.266
+09:	One Step Closer @		-	06:54.866
+
+Total:					-	42:44.000
+
+* with Bert McCracken
+@ with Jonathan Davis
+
+compiled on 08-16-2004

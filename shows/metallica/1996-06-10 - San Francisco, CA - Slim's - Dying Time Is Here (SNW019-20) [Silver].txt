@@ -1,27 +1,44 @@
-01 - So What! (The Anti-Nowhere League Cover).flac:051b28c37abc1a885fcd43420e66fcdf
-02 - Creeping Death.flac:0f86c4dff54787869f0144e4b242c598
-03 - Sad But True.flac:94d7ae152fafd8c1eb82a72ba32ccbbf
-04 - Ain't My Bitch.flac:0ea1b5cd703ad1d89f0034f24dcfd7cb
-05 - Whiplash.flac:2d5405d18f99006475896b33ca13470b
-06 - Fade To Black.flac:ee9b40ef95ca0c414d477c8d8e545924
-07 - King Nothing.flac:a0f7ea481de1378826c05f8c2fd850f2
-08 - One.flac:fd4f5b32a27729e682e3c312afbf3456
-09 - Until It Sleeps.flac:c86a11a3cc54d5b4eb86733b355c2113
-10 - For Whom The Bell Tolls.flac:0476846dc0ce750de375f5453760e006
-11 - Wherever I May Roam.flac:f7e69a48e7d905b4ca1b1061b1ba94cd
-12 - Nothing Else Matters.flac:5a84b1f688fc7166b48fb38dfed35fef
-13 - Enter Sandman.flac:5d7d326a4f9754d002cf33d3152acbce
-14 - Ronnie Jam.flac:7907379ce45bc485bb353a247ae3854d
-15 - Last Caress (Misfits Cover).flac:a8986339fe080e88d41913d0bfb8c30d
-16 - Master Of Puppets.flac:217da5567349665e3b8005a4c37aa74e
-17 - Overkill (Motörhead Cover).flac:371beb8781a2a273f41b8a570f35c7a2
-18 - Motorbreath.flac:5c226c034c626d196418c8a1b36e9d29
-19 - Fade To Black.flac:e28febbba043e76c68e9e79b27eea936
-20 - Seek And Destroy.flac:d26fe54ef518df3c19490ef2f0dd56d8
-21 - Creeping Death.flac:338028263320e69ef702cb4525726621
-22 - The Four Horsemen.flac:42028697e2c33ba67d5a1f996a148631
-23 - Kirk Hammett Guitar Solo.flac:c45af5c449ef1bafeabb83a2700a7670
-24 - Am I Evil (Diamond Head Cover).flac:ceaf052e697db3b05b6ee5426fc71a94
-25 - Damage, Inc..flac:a4d26bae2d05b5881ee826c78c9bdf4f
-26 - Fight Fire With Fire.flac:7073cd65626fb068e5d10aeaee44a280
-27 - Blitzkrieg (Blitzkrieg Cover).flac:f083598380f26bae882ab33f45191271
+Metallica
+Slim's
+San Francisco, California
+June 10th 1996
+
+Dying Time Is Here Bootleg CD (SNW019/20)
+
+Silver CD > EAC > WAV > CD Wave Editor (Track Splitting using .cue sheet) > WAV > TLH > FLAC
+
+Disc 1
+
+01 So What! 
+02 Creeping Death 
+03 Sad But True 
+04 Ain't My Bitch 
+05 Whiplash 
+06 Fade To Black
+07 King Nothing 
+08 One 
+09 Until It Sleeps 
+10 For Whom The Bell Tolls 
+11 Wherever I May Roam 
+12 Nothing Else Matters  
+
+Disc 2
+
+01 Enter Sandman
+02 Improvisation
+03 Last Caress
+04 Master Of Puppets 
+05 Overkill 
+06 Motorbreath 
+07 Fade To Black
+08 seek & Destroy
+09 Creeping Death
+10 The Four Horsemen
+11 Kirk's Guitar
+12 Am I Evil
+13 Damage, Inc.
+14 Fight Fire With Fire
+15 Blitzkrieg
+
+Disc one (all tracks) & disc two (tracks 1-6) recorded live at Slim's, San Francisco on 6/10/96. 
+Bonus tracks, disc two (7-15) recorded live at The Felt Forum, NYC on 12/1/86. 

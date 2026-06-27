@@ -1,31 +1,46 @@
-rem_2008-06-13_d1t01.flac:e6276a2b89216ffc4ac7c90c4c5d9d27
-rem_2008-06-13_d1t02.flac:859ea6e9cc77ba03fc616b7886edbb63
-rem_2008-06-13_d1t03.flac:c5c34f80a66126cc768e523192ca868b
-rem_2008-06-13_d1t04.flac:35a28a60c05990708658c42bef95f359
-rem_2008-06-13_d1t05.flac:bb7b17b6f9696d7dd097b1a1f8085de2
-rem_2008-06-13_d1t06.flac:c3095a3f36e73e83b454442591a7ea1b
-rem_2008-06-13_d1t07.flac:ef7bf3e160b9c961a159b04fe22c99d9
-rem_2008-06-13_d1t08.flac:b47dc524d289d22a4e594917617372f0
-rem_2008-06-13_d1t09.flac:1b389e3b9731b3f8022ca7919165a293
-rem_2008-06-13_d1t10.flac:1488cd08a388d1c30b397929a34cb57d
-rem_2008-06-13_d1t11.flac:c7b34c50802f1fc532142bc14037cf78
-rem_2008-06-13_d1t12.flac:4df0e9120951e232df5a731dce6fa395
-rem_2008-06-13_d1t13.flac:6e8e9c734173914601b28cd5a14a65d3
-rem_2008-06-13_d1t14.flac:c3ab1f2e6ecd17a3dbae79b7ab6c3485
-rem_2008-06-13_d1t15.flac:340651be7918aaa7b0e9efec9e4cb7ac
-rem_2008-06-13_d1t16.flac:0f4b8d2995e82c38209a436af3519165
-rem_2008-06-13_d1t17.flac:adeba62d9af3f58f43205f9a630e413f
-rem_2008-06-13_d2t01.flac:2086ccbcaaf75d427a2c86c2b9a2ab58
-rem_2008-06-13_d2t02.flac:4f33d0b14b1834896a87ae34c19af0fe
-rem_2008-06-13_d2t03.flac:1aa801b33097c3ead9ecbdc694cbe034
-rem_2008-06-13_d2t04.flac:915a7299a3f2830626d8857f29be80ad
-rem_2008-06-13_d2t05.flac:a01a7eb712036efce1e8ae83a66856fc
-rem_2008-06-13_d2t06.flac:26ed1d9a18b584d0530e1befab004440
-rem_2008-06-13_d2t07.flac:26c88a6c119575cc5957f356f00dcc36
-rem_2008-06-13_d2t08.flac:33cc9d31f5e2f170d08651f32767c68c
-rem_2008-06-13_d2t09.flac:3650e3a5bff0cf5572e9a7db8885cb44
-rem_2008-06-13_d2t10.flac:5b5388c856a96300ae949adbc3390188
-rem_2008-06-13_d2t11.flac:ea8d19ff8715300f917246fb475fbf09
-rem_2008-06-13_d2t12.flac:8ccf9f7e326d56465f24adb3792b3daa
-rem_2008-06-13_d2t13.flac:ee8cb88b9b54bd4345065cbcd53260ad
-rem_2008-06-13_d2t14.flac:22632e51b9922a20a03ef5d88e8f5d3b
+13.06.2008
+USA, Boston, Tweeter Center
+R.E.M. // Boston // 13.06.2008
+very good Aud.
+
+Disc 1: [1:03:04]
+01. Living Well Is The Best Revenge [3:06]
+02. Begin The Begin [3:26]
+03. What's The Frequency, Kenneth? [4:04]
+04. Circus Envy [4:25]
+05. Man-Sized Wreath [3:43]
+06. West Of The Fields [3:57]
+07. Ignoreland [4:40]
+08. Departure [3:58]
+09. Cuyahoga [4:59]
+10. Hollow Man [3:00]
+11. Driver 8 [3:32]
+12. Banter [2:23]
+13. Houston [3:04]
+14. Electrolite [4:49]
+15. Maps And Legends [3:37]
+16. Horse To Water [2:35]
+17. The One I Love [3:39]
+
+Disc 2: [55:19]
+01. I’ve Been High [4:18]
+02. Let Me In [3:21]
+03. Bad Day [4:28]
+04. Get Up [3:06]
+05. Orange Crush [3:45]
+06. I'm Gonna DJ [2:11]
+07. Encore Applause [2:37]
+08. Supernatural Superserious [4:03]
+09. Losing My Religion [5:25]
+10. (Don’t Go Back To) Rockville [5:01]
+11. Fall On Me [2:57]
+12. Banter / Band Intros [3:29]
+13. Pretty Persuasion [4:26]
+14. Man On The Moon [6:04]
+
+Lineage: Edirol R9 /dpa 4061 mics > DVD+r > EAC > Adobe Audition [for volume boost only] > CD Wave > Trader's Little Helper [FLAC] 
+
+Taper - JB [location - 9th row]
+Raw recording except for volume boost in several places
+
+Lineage: Trade (FLAC on external HDD > Torrent > You)

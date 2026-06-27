@@ -1,1 +1,48 @@
-radiohead2003-10-10d1t01.flac:8edc816de5dc8183a780e33e9376edfaradiohead2003-10-10d1t02.flac:c5bb147d54eb9b4ce49e9cfed51b9bbdradiohead2003-10-10d1t03.flac:a900fb55bef1a0f8e8cc4d712b0b7694radiohead2003-10-10d1t04.flac:038dbbf2fb2ddc6972a49d0bfafd5ffcradiohead2003-10-10d1t05.flac:425c52b35d7b57780f13efefaa6a3c3fradiohead2003-10-10d1t06.flac:3989acfab2fbc5eca463265c33458065radiohead2003-10-10d1t07.flac:a6b3af7924d8811133da50296db687b6radiohead2003-10-10d1t08.flac:80396ee0923a766b44fd19f3421fe94aradiohead2003-10-10d1t09.flac:329eeb60d0ede8a18b8ed1984bb53642radiohead2003-10-10d1t10.flac:b39ca5de0b62742735f5adaaa56abeb2radiohead2003-10-10d1t11.flac:723a2aa427ea3082d7585b50d7972383radiohead2003-10-10d1t12.flac:e33d66c0e2583e5c69b6bc49038b0f7aradiohead2003-10-10d2t01.flac:679fa7e24acbdaa0bf7a2cded83d2a02radiohead2003-10-10d2t02.flac:3c87b225620b470a0afb1364f756d79eradiohead2003-10-10d2t03.flac:c63025782d35d4d8769600d6830e28b9radiohead2003-10-10d2t04.flac:383f643ff08ed73faa597ddd723e152cradiohead2003-10-10d2t05.flac:1d97ef1bb0e8a2568ae447a815cd5c85radiohead2003-10-10d2t06.flac:332df380fbd8356041ef5ee6caa5b90aradiohead2003-10-10d2t07.flac:6587736170869f9cd04db81867859797radiohead2003-10-10d2t08.flac:4e16cd6f89bcfd50f9bb7c5c80205587radiohead2003-10-10d2t09.flac:d0db3acb5a8ab9a1563f7c86c6ddd244radiohead2003-10-10d2t10.flac:d6c8960bb63782caf533eabb22fdf1bcradiohead2003-10-10d2t11.flac:6d6c15dc26c382b6282ad37cf0f771a7radiohead2003-10-10d2t12.flac:697cfc9978c49f97dfa10995a2e812b1
+Radiohead
+October 10, 2003
+Madison Square Garden
+New York, NY
+
+taper: you know who
+
+source: AT831 > SP-SPSB-2 (rolloff @ 95 mHz) > Sony PCM-M1 @ 44.1 
+
+location: Section 6 Row G Seat 6 ( 7 rows FOB, about 25 feet right of center )
+
+transfer: Sony PCM-R300 > Monster optical > Prodif 32 > Soundforge 6.0 > Cdwave > FLAC
+
+***NO EQ***
+
+***NO DAE***
+
+enjoy!
+
+Disc One:
+
+01. The Gloaming
+02. There There 
+03. 2 + 2 = 5
+04. Where I End And You Begin
+05. Exit Music
+06. Talk Show Host
+07. Myxomatosis
+08. Paranoid Android
+09. In Limbo
+10. Sail To The Moon
+11. Creep
+12. Scatterbrain
+
+Disc Two:
+
+01. Go To Sleep
+02. Just
+03. Idioteque
+04. You And Whose Army?
+05. Sit Down. Stand Up. 
+06. Lucky
+07. The National Anthem
+08. A Punchup At A Wedding
+09. Street Spirit (fade out) 
+10. Airbag
+11. No Surprises
+12. Everything In It's Right Place

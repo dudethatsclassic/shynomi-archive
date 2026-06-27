@@ -1,15 +1,27 @@
-01 Crowd Noise.flac:ee6375a3d33440ad6632a93248d76698
-02 Midnight Cowboy.flac:817a9e6017973862991004fedccff7d2
-03 Collision.flac:5887907babbc2c48571475400c00101d
-04 Midlife Crisis.flac:9b62a42172a656a00c775ddcecad0dd7
-05 Naked In Front Of The Computer.flac:e52cf8e3c04dce3317257e881f6b688f
-06 Ashes To Ashes.flac:c2752760d4884c30b230ef36eea143b2
-07 Easy.flac:d05f9672b4ee2c6327ea4dd9841d7593
-08 Ugly In The Morning.flac:17f69cafb9854a131433054d5eba1095
-09 Last Cup Of Sorrow.flac:adceeab1f0ee127ef95719748f5e5cb0
-10 Be Aggressive.flac:9b9a6917dfa047080f727727d814b659
-11 King For A Day.flac:aa7bcfb09b08b407b7764d5b875e9287
-12 Epic.flac:e645df887e92f6de2c504d2e424e82ee
-13 Get Out.flac:4da74edd4516f9d7d187979b6ceaa220
-14 Stripsearch.flac:ac7c11e5c6de18a99067a4c3bd93fa86
-15 Pristina.flac:2cd355c2d73c5a2905152f9df3f6d637
+Faith No More
+1997-12-01
+Civic Hall, Wolverhampton, UK
+
+Source: Soundboard
+Media: Silver CD - BBC Worldwide In Concert 740
+
+Soundquality: A
+
+01 (Crowd Noise)
+02 Midnight Cowboy
+03 Collision
+04 Midlife Crisis
+05 Naked In Front Of The Computer
+06 Ashes To Ashes
+07 Easy
+08 Ugly In The Morning
+09 Last Cup Of Sorrow
+10 Be Aggressive
+11 King For A Day
+12 Epic
+   > I Want To Know What Love Is 
+13 Get Out
+14 Stripsearch
+15 Pristina
+
+Total Playing Time: 56:58

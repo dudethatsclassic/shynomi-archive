@@ -1,1 +1,39 @@
-beck2006-06-17d1t01.flac:2e1d23108b6f553762bdc17388d7e5aebeck2006-06-17d1t02.flac:a45a8cffc0c77767b205e760f29037bfbeck2006-06-17d1t03.flac:c1b911c69f9c17bb7a9e1e307e7a5892beck2006-06-17d1t04.flac:b9ae5bd1a90729e6878f882cf82983dabeck2006-06-17d1t05.flac:b0fd42b7657922d9547da4d0b567699dbeck2006-06-17d1t06.flac:5f43ffce4cd40ee74d3902935c3a009cbeck2006-06-17d1t07.flac:e22b46136b841793011a92e821ee8a81beck2006-06-17d1t08.flac:e7cef4fd72df17ea78b87b7da5cf7261beck2006-06-17d1t09.flac:81c27b8cf882c866b724682fe09a11a8beck2006-06-17d1t10.flac:ba00a9d840ba2661a3ff1ed1c52712ebbeck2006-06-17d1t11.flac:4f84453a5720548b6d63d1fbf3f6bfffbeck2006-06-17d1t12.flac:560eaf503b7760c095c0ffda41de1892beck2006-06-17d1t13.flac:0aec1fcb418fd42211620df4d31276ecbeck2006-06-17d1t14.flac:0b458c1677966323eee4939f5d17b143beck2006-06-17d1t15.flac:1c55a49a884da64897323e500ecd1a39beck2006-06-17d1t16.flac:96d252d6d6b6b946f5180bdd950dafa4beck2006-06-17d2t01.flac:4131eb9c9b3fda2e54858f021c770227beck2006-06-17d2t02.flac:1aaa959e2107c71ae9dea49f4d1a9e67beck2006-06-17d2t03.flac:446734758da098e573fcd175db9793e7beck2006-06-17d2t04.flac:0d815981e7b2ce2871cfa5bcfed17598beck2006-06-17d2t05.flac:d37af46072377e251dbc004e379302afbeck2006-06-17d2t06.flac:1a8e0ac474f3a0100b18711e7d407bdbbeck2006-06-17d2t07.flac:552ddc0cbafe29afaa1524330b7f296e
+Beck
+What Stage - Bonnaroo Music Festival
+Manchester, TN
+6/17/2006
+
+Source: Nakamichi Cm300(active p48 mod)/cp1 (ORTF, FOB, LoC ~4', 50' from stage, 7' high)> Edirol UA-5> Jb3 (wav @ 44.1 khz)
+Transfer: JB3> usb> xNJB> Audacity 1.2.4> xACT (fixed SBE's and converted to .flac)
+Taped and Transferred by Patrick Moore (pat@taperssection.com)
+
+One Set
+Disc One
+01 Devil's Haircut
+02 Black Tambourine
+03 QuŽ Onda Guero
+04 Hell Yes
+05 The New Pollution
+06 Information
+07 Minus
+08 No Expectations
+09 Whiskeyclone, Hotel City 1997
+10 Paper Tiger
+11 Broken Drum
+12 Lost Cause
+13 Do You Realize?> Creep*
+14 The Golden Age*
+15 One Foot in the Grave*
+16 Clap Hands
+17 Girl
+18 Mixed Bizness
+19 Puppet Movie**
+20 Loser***
+21 1000 BPM***
+22 Where It's At> High 5 (Rock the Catskills)****
+23 E-Pro
+
+* Beck Solo, the rest of the band sits behind him eating an impromptu dinner on a table.  The band then begins to "play" the table as percussion behind Beck's guitar
+** During a small setbreak, the band left the stage and a movie starring the band puppets was played over the television screens on either side of the stage
+*** Album version, actually played by the band's puppets
+**** A huge boombox was wheeled out from stage right

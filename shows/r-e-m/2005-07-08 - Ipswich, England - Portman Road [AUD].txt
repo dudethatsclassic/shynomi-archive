@@ -1,27 +1,46 @@
-rem2005-07-08d1t01.flac:147004aed51de63dba04021add3370a1
-rem2005-07-08d1t02.flac:42439134214fba624ac9f5d8a072e51c
-rem2005-07-08d1t03.flac:d6d495d8dc3b852078068eef58a9e080
-rem2005-07-08d1t04.flac:82686e9c2af0169ae00f9cbf0ddca8a2
-rem2005-07-08d1t05.flac:25610a8a534ed9d9cf9bc672c5ebd73c
-rem2005-07-08d1t06.flac:99a1083f837d6f9d92f25c3b88bef271
-rem2005-07-08d1t07.flac:0feda6778b1cec9bb53f584e4f933130
-rem2005-07-08d1t08.flac:c0c368907beaa778fd2d98939c2f3caf
-rem2005-07-08d1t09.flac:0f2e3f4aac779e66d72b55d21bc174d6
-rem2005-07-08d1t10.flac:f2bb0eb53ec34ae411a627a0f94952e0
-rem2005-07-08d1t11.flac:7a74f564c521e9b91e497b8c35beb151
-rem2005-07-08d1t12.flac:619718a6caf87b3e151b91999e0084c5
-rem2005-07-08d1t13.flac:5d84c4a8e35abd8968d969d2fbd2eea4
-rem2005-07-08d1t14.flac:e868f2d13b52efa42ddbd265659b6cab
-rem2005-07-08d1t15.flac:5f538e8c20dbf4d2612f1ac3b8b1574d
-rem2005-07-08d1t16.flac:690f7ff3f0550d98e2b94699858c3dc8
-rem2005-07-08d2t01.flac:bf78cf3ae76e04d327f2795ca3636b75
-rem2005-07-08d2t02.flac:cdc3fd92601e7bbe226b20b42007edb8
-rem2005-07-08d2t03.flac:4efc8d05750b3739801276d09088e7ec
-rem2005-07-08d2t04.flac:5289676eea3cd76490e108ffc25874db
-rem2005-07-08d2t05.flac:f4479b08ab671efab8670347489f785d
-rem2005-07-08d2t06.flac:2593505170d494e103daac71942ef93c
-rem2005-07-08d2t07.flac:0c9e1555d85a79279c6b2af82db5ed37
-rem2005-07-08d2t08.flac:efc246850b6e3756a342f395d450295d
-rem2005-07-08d2t09.flac:d44c5d643fa2f094df13258ce51c8fae
-rem2005-07-08d2t10.flac:eb767e8554d50b2239750cd24de1b9a8
-rem2005-07-08d2t11.flac:5a8730458d8f3b4e42c93ae59d335e79
+R.E.M.
+2005-07-08
+Portman Road, Ipswich
+England
+
+Taped and Edited : Remer
+
+Source: CSB + Battery Box > Creative Nomad Jukebox 3
+Conversion/Editing: JB3 > Firewire > Soundforge 8.0 > CD Wave > Flac Frontend v1.7.1
+
+Disc 1 :
+
+01 : London Bombing's Statement
+02 : Everybody Hurts
+03 : Get Up
+04 : What's The Frequency, Kenneth
+05 : Bad Day
+06 : The One I Love
+07 : Outsiders
+08 : Drive
+09 : Wanderlust
+10 : Animal
+11 : So. Central Rain
+12 : Leaving New York
+13 : Electrolite
+14 : Electron Blue
+15 : These Days
+16 : Final Straw
+
+Disc 2 : 
+
+01 : Orange Crush
+02 : Walk Unafraid
+03 : Losing My Religion
+
+04 : Crowd Noise
+
+[Encore]
+05 : Imitation Of Life
+06 : Great Beyond
+07 : Don't Go Back To Rockville
+08 : Nightswimming
+09 : Band Introductions
+10 : I'm Gonna DJ
+11 : Man On The Moon
+

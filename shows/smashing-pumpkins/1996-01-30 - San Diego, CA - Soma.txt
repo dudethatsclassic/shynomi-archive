@@ -1,27 +1,46 @@
-tsp1996-01-30d1t01.flac:4c2e0ac310135f4839c3b48262537dd2
-tsp1996-01-30d1t02.flac:c6dc2683cb0ab99fc58370d120191c56
-tsp1996-01-30d1t03.flac:4cb9b2fb5e50530a7a428e1e6dfd04a9
-tsp1996-01-30d1t04.flac:fa6418f0c7190dc334a3088a3723033e
-tsp1996-01-30d1t05.flac:2c1a86f55944b1fc770841410e113beb
-tsp1996-01-30d1t06.flac:9230185fe5a54c4717f17272ab3bd33c
-tsp1996-01-30d1t07.flac:d38def5ea3ded8d22b287c5807157938
-tsp1996-01-30d1t08.flac:20dec1af7fff5f7684d5094dd02fdb98
-tsp1996-01-30d1t09.flac:1fba3503ba7f61d3fe395100d2f54a42
-tsp1996-01-30d1t10.flac:4b6132d8eba9b94bc95d3de8679c4dd5
-tsp1996-01-30d1t11.flac:df1aa094dd93e36496e1e06bd209a782
-tsp1996-01-30d1t12.flac:f3c6602d5f71259e9152094e3992ecea
-tsp1996-01-30d1t13.flac:519e76c9f0bbd64ff05a923fc03a1bad
-tsp1996-01-30d1t14.flac:9976479b07eca68b187440726459c350
-tsp1996-01-30d1t15.flac:dd73c7d9d064c8ac1750119deb384943
-tsp1996-01-30d1t16.flac:1f0f3fbb187d8c65cfa95febab501e37
-tsp1996-01-30d2t01.flac:52bd16dbe5e119c888650237a57652cd
-tsp1996-01-30d2t02.flac:e545b269331016e963d8f3c33901127b
-tsp1996-01-30d2t03.flac:828827c50f756574da32a3f1ac5394c9
-tsp1996-01-30d2t04.flac:29abe3bcfe724f8e69f808097af80b4b
-tsp1996-01-30d2t05.flac:6cd075109bcc4cdd732190bc4b86f334
-tsp1996-01-30d2t06.flac:1755f02adbb2b361e271f6278ea64c06
-tsp1996-01-30d2t07.flac:f0b4479e6c897106606e3cee3a1ef32e
-tsp1996-01-30d2t08.flac:691de09adce091fd9b59de32b5e69180
-tsp1996-01-30d2t09.flac:4fe5fe9e20d59dc20d8b93108871b309
-tsp1996-01-30d2t10.flac:091be6b900d31140d3933df39a4d95fe
-tsp1996-01-30d2t11.flac:0e6cab85f04ca37f1d21b9bc56005454
+The Smashing Pumpkins
+1/30/1996
+Soma
+San Diego, CA
+
+Taper:            unknown
+Source:           CSB > D7
+Conversion:       DDC-? > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. Tonight, Tonight
+2. In the Arms of Sleep
+3. Cupid de Locke
+4. Thirty-three
+5. Today
+6. Lily
+7. Take Me Down
+8. Beautiful
+9. Rocket
+10. Galapogos
+11. MCIS
+12. Where Boys Fear to Tread
+13. Zero
+14. Fuck You
+15. Here Is No Why
+16. To Forgive
+
+Disc 2
+1. Bullet with Butterfly Wings
+2. Thru the Eyes of Ruby
+3. 1979
+4. Geek U.S.A.
+5. Cherub Rock
+6. Porcelina of the Vast Oceans
+7. Jellybelly
+8. We Only Come Out at Night
+9. X.Y.U.
+10. By Starlight
+11. Silverfuck > Drown (tease)

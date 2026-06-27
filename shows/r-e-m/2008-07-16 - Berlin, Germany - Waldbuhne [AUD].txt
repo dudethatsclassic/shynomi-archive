@@ -1,34 +1,52 @@
-rem2008-07-16-berlin-t-01.flac:60b19fca6078f525b1c36bc9eec45140
-rem2008-07-16-berlin-t-02.flac:8da213eb5f35247b92a0bf1ac9986a58
-rem2008-07-16-berlin-t-03.flac:3932c44ed78791040a21266178e8fd97
-rem2008-07-16-berlin-t-04.flac:0459c1fa76aa0998367c372a5b2e806f
-rem2008-07-16-berlin-t-05.flac:937449f3880af14649d4ee22712a2504
-rem2008-07-16-berlin-t-06.flac:d33a5a9d81107a34c9e14634d6c5856e
-rem2008-07-16-berlin-t-07.flac:474738bc44df81f0eaa71e02d5fd6482
-rem2008-07-16-berlin-t-08.flac:3634782ba505b392b3d5ed83663fd93b
-rem2008-07-16-berlin-t-09.flac:f0e2e4a40bb26c51fc9810cc4518c41a
-rem2008-07-16-berlin-t-10.flac:2861a6eb20ce1e43db0327f7dae146eb
-rem2008-07-16-berlin-t-11.flac:3bdfa8de8c98febc3e9ba73067d0e8f4
-rem2008-07-16-berlin-t-12.flac:5a1e5adfc785ef5cf2220915858d2345
-rem2008-07-16-berlin-t-13.flac:867d24dd26a3c57e8e3bf2f608facb1e
-rem2008-07-16-berlin-t-14.flac:bd7317fad791a2cb84dcd2d7677b82a9
-rem2008-07-16-berlin-t-15.flac:dcc3c334f0d101291adedab7e1fb9290
-rem2008-07-16-berlin-t-16.flac:2abb2f2953a733c5b70ac16eb2c6a0da
-rem2008-07-16-berlin-t-17.flac:8d287baed5a6656693a6d5978845ea4c
-rem2008-07-16-berlin-t-18.flac:0e020d2e6af5256d0322872a31b00835
-rem2008-07-16-berlin-t-19.flac:ac7b39642e3d22a30c93af9587c8719e
-rem2008-07-16-berlin-t-20.flac:9b0c49326b3faa2708b760f70a8df912
-rem2008-07-16-berlin-t-21.flac:ae02a983578a0f8a13577d72084b8861
-rem2008-07-16-berlin-t-22.flac:6dbe7c3eea9c8e43663ac0156f764063
-rem2008-07-16-berlin-t-23.flac:703536f795f023e99bdd905d0248b3e3
-rem2008-07-16-berlin-t-24.flac:deb2fd1d5d7bd5892aba8db283342921
-rem2008-07-16-berlin-t-25.flac:d9c81d96e03a71d4eb5cd623525083a0
-rem2008-07-16-berlin-t-26.flac:365d31a10d37963921910edc39563aa3
-rem2008-07-16-berlin-t-27.flac:73cfa3d828f104569a4a39e1d175db9d
-rem2008-07-16-berlin-t-28.flac:049fc75231218eea5d82741d8839e06e
-rem2008-07-16-berlin-t-29.flac:7fa16da97ea48fe680e40f5d0f1c2d9a
-rem2008-07-16-berlin-t-30.flac:1267174affec9e67981992952bf574eb
-rem2008-07-16-berlin-t-31.flac:3bc72ac794571d04184bc3efb5475bec
-rem2008-07-16-berlin-t-32.flac:eb2009a14909d9f2b9efdea5b36ee02c
-rem2008-07-16-berlin-t-33.flac:1f20f8754f6d008f3fe12b0d27e6ac8f
-rem2008-07-16-berlin-t-34.flac:3951bb1d89e9f79009ff175a296b1fbf
+16.07.2008
+Germany, Berlin, Waldbühne
+R.E.M. // Berlin // 16.07.2008
+good Aud.
+
+Disc 1: [50:53]
+01. Living Well Is The Best Revenge [3:35]
+02. West Of The Fields [3:19]
+03. What's The Frequency, Kenneth? [4:01]
+04. Star 69 [3:27]
+05. Man Sized Wreath [2:32]
+06. stage banter [2:01]
+07. Ignoreland [4:19]
+08. stage banter [0:24]
+09. Begin The Begin [3:45]
+10. Hollow Man [2:42]
+11. stage banter [0:31]
+12. Airliner [1:38]
+13. stage banter [0:30]
+14. Imitation Of Life [4:10]
+15. Houston [2:39]
+16. Electrolite [4:22]
+17. So. Central Rain [3:26]
+18. Another Auctioneer [3:24]
+
+Disc 2: [59:48]
+01. The Great Beyond [4:33]
+02. The One I Love [3:28]
+03. Pretty Persuasion [4:12]
+04. Fall On Me [3:39]
+05. Let Me In [3:30]
+06. Horse To Water [2:12]
+07. Bad Day [4:18]
+08. I'm Gonna DJ [2:02]
+09. Orange Crush [4:03]
+10. crowd [2:35]
+11. Supernatural Superserious [3:48]
+12. Losing My Religion [4:53]
+13. Driver 8 [4:07]
+14. (Don't Go Back To) Rockville [4:28]
+15. band intro [1:59]
+16. Man On The Moon [5:54]
+
+Audience recording by Patrick (remfan72.net)
+
+Source/History:
+1-ISI-SEHM-1-Innovative Specialists Binaural Ear Mounted Microphones (TFB-2 Cardioid) Deluxe Audio Technica Cardioid > 1-SP-SPSB-6-Battery Box with Bass Roll-Off (set at 107 Hz) > Edirol R09 (WAV, 16 bit, 44,1 kHz) > USB transfer to PC > Magix Music Cleaning Lab Deluxe 2007 > flac frontend > MakeTorrent 2 > you
+
+Notes:
+Airliner was played when Michael changed his socks and shoes on stage. A few times you might hear a brief noise due to either the wind blowing into my mics or me moving as some people wanting to get out for a beer hit my jacket making the mics move a bit. 
+
+Lineage: Trade (FLAC on external HDD > Torrent > You)

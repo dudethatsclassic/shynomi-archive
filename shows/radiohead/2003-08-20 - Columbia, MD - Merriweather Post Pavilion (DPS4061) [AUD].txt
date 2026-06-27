@@ -1,15 +1,13 @@
     length     expanded size   cdr  WAVE problems filename
-     0:14.53        2594300    ---   --   ---xx   radiohead_030820_44k_d1t01.shn
-     3:22.44       35736332    ---   --   ---xx   radiohead_030820_44k_d1t02.shn
-     3:46.29       39934652    ---   --   ---xx   radiohead_030820_44k_d1t03.shn
-     4:22.33       46294460    ---   --   ---xx   radiohead_030820_44k_d1t04.shn
-     4:30.02       47632748    ---   --   ---xx   radiohead_030820_44k_d1t05.shn
-     4:47.06       50640956    ---   --   ---xx   radiohead_030820_44k_d1t06.shn
-     5:10.52       54806348    ---   --   ---xx   radiohead_030820_44k_d1t07.shn
-     6:30.53       68920700    ---   --   ---xx   radiohead_030820_44k_d1t08.shn
-     3:29.57       37001708    ---   --   ---xx   radiohead_030820_44k_d1t09.shn
-     4:20.62       46009868    ---   --   ---xx   radiohead_030820_44k_d1t10.shn
-     3:53.15       41136524    ---   --   ---xx   radiohead_030820_44k_d1t11.shn
-     5:16.09       55763612    ---   --   ---xx   radiohead_030820_44k_d1t12.shn
-     4:31.28       47870300    ---   --   ---xx   radiohead_030820_44k_d1t13.shn
-    54:15.68         547.74 MB                    (totals for 13 files, 0.5211 overall compression ratio)
+     5:29.43       58136780    ---   --   ---xx   radiohead_030820_44k_d2t01.shn
+     4:35.34       48590012    ---   --   ---xx   radiohead_030820_44k_d2t02.shn
+     4:14.29       44873852    ---   --   ---xx   radiohead_030820_44k_d2t03.shn
+     4:28.28       47341100    ---   --   ---xx   radiohead_030820_44k_d2t04.shn
+     6:48.67       72128828    ---   --   ---xx   radiohead_030820_44k_d2t05.shn
+     3:30.45       37149884    ---   --   ---xx   radiohead_030820_44k_d2t06.shn
+     3:59.16       42197276    ---   --   ---xx   radiohead_030820_44k_d2t07.shn
+     3:56.67       41788028    ---   --   ---xx   radiohead_030820_44k_d2t08.shn
+     9:45.67      103351628    ---   --   ---xx   radiohead_030820_44k_d2t09.shn
+     4:30.16       47665676    ---   --   ---xx   radiohead_030820_44k_d2t10.shn
+     8:58.44       95006732    ---   --   ---xx   radiohead_030820_44k_d2t11.shn
+    60:18.06         608.66 MB                    (totals for 11 files, 0.4756 overall compression ratio)

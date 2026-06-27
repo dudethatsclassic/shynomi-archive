@@ -1,20 +1,40 @@
-tsp2000-04-23d1t01.flac:28e825312a18810a6533a67828f470b6
-tsp2000-04-23d1t02.flac:daa96836a6e2ebd79ff3964bd96366a8
-tsp2000-04-23d1t03.flac:3d505447beeb8839adf107161c094fbb
-tsp2000-04-23d1t04.flac:eeb761add2774e6698c1375d7e15f0d5
-tsp2000-04-23d1t05.flac:3295954326cce5548fa2d49112c702f7
-tsp2000-04-23d1t06.flac:e7021dffb01fb6caf8c7f2e970c8c58d
-tsp2000-04-23d1t07.flac:545cd8b4007f44c4baa876dc8e67df53
-tsp2000-04-23d1t08.flac:eb309b98cc62d259fb4e0146f3a65552
-tsp2000-04-23d1t09.flac:f48b2d5fa2caa7d812feca4c35adf223
-tsp2000-04-23d1t10.flac:217c2edad004fd8a837b83b142f470c9
-tsp2000-04-23d1t11.flac:d24cf256c892f24dbafee37f5d0d24cb
-tsp2000-04-23d1t12.flac:51b8dc218001cc899c8c03fdf72af32c
-tsp2000-04-23d2t01.flac:29398a10e47f47858da5f651e02af15f
-tsp2000-04-23d2t02.flac:7875202b0d7142e26cd7f15a088b030f
-tsp2000-04-23d2t03.flac:0669fbce89577f2c680f952402d626c4
-tsp2000-04-23d2t04.flac:46da4f57f9325b83ecf7626bbc0c0bb8
-tsp2000-04-23d2t05.flac:6472ab5e408fcd4cbdb2e89db719b9d2
-tsp2000-04-23d2t06.flac:b26b8cf9a8d0169371aaf67eb4d35f3b
-tsp2000-04-23d2t07.flac:0b16c0b64ef327a19680e5fb09b8d657
-tsp2000-04-23d2t08.flac:1bd72e908c5529ca444a6ee58700974d
+The Smashing Pumpkins
+4/23/2000
+Memorial Athletic and Convocation Center
+Kent, OH
+
+Taper:            unknown
+Source:           AT-853 > SP-SPSB > M1
+Conversion:       DDC-1 > Sony PCM-M1 > 7-pin to coax > Delta Dio 2496 > Adobe Audition 2.0
+Editor:           Andrew Fogelsong
+Editing:          downsampled(48k to 44.1k), fade out
+FLAC:             master wav's > CD Wave Editor 1.95.1 > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc One
+1. Pale Scales
+2. Heavy Metal Machine
+3. The Everlasting Gaze
+4. Age of Innocence
+5. Glass and the Ghost Children
+6. Blew Away
+7. Stand Inside Your Love
+8. I of the Mourning
+9. To Sheila
+10. If There Is a God
+11. Disarm 
+12. Ava Adore
+
+Disc Two
+1. Rock On [Essex]
+2. Zero 
+3. Today 
+4. Blue Skies Bring Tears
+5. Bullet With Butterfly Wings > Once in a Lifetime [The Talking Heads]
+6. Blank Page
+7. Cherub Rock
+8. 1979

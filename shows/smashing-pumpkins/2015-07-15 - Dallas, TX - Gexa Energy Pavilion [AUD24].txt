@@ -1,18 +1,28 @@
-tsp2015-07-15t01.flac:baf4a73e4eff495bc1bee9df45845513
-tsp2015-07-15t02.flac:0460bfa3ea38c105505cb99beb015251
-tsp2015-07-15t03.flac:9af44936b7ffbcad8a4b37337937dd2e
-tsp2015-07-15t04.flac:7a292c2bbd0948bb3dac423838c3721e
-tsp2015-07-15t05.flac:c5572a4a58fb9dcba9ba7c62fb89900a
-tsp2015-07-15t06.flac:ca3a1735ad4b837cc4f60b8b52448928
-tsp2015-07-15t07.flac:921e1ece8a669e3211b4bd902b4f1a7a
-tsp2015-07-15t08.flac:ae8e0b73293ba2aea39c7c577ec252b2
-tsp2015-07-15t09.flac:f1326aba9bd562dedc30363de19872fd
-tsp2015-07-15t10.flac:31ee36c9d7aecdb08d2d8c18a3f7b671
-tsp2015-07-15t11.flac:fd5af0ac2955a89f1ccf8bf505639b4e
-tsp2015-07-15t12.flac:bccaf3abe1533a9ec0b8b820ab4f5c02
-tsp2015-07-15t13.flac:cfbac07282c7603c1d12c44bd6c3d19a
-tsp2015-07-15t14.flac:c64a9e43db91db16155203c5c940f4d5
-tsp2015-07-15t15.flac:bea4284bd4419353fb2dc45c8fc7e4a0
-tsp2015-07-15t16.flac:cb90cf0f780872bf7301192abc1c2650
-tsp2015-07-15t17.flac:4863d0595e09a04786f022fa385ddfde
-tsp2015-07-15t18.flac:13a5847ed185b29e9c59510ac9f43806
+Smashing Pumpkins
+07/15/2015
+Gexa Energy Pavilion
+Dallas, TX
+
+Taper: bg raves
+Source:  DSM-6S > PA-6LC3 > R-09HR @ 24/48
+Location:  Section 101, Row N, Seat 3
+Transfer:  R-09HR > CEP 2.1 > flac
+
+01.  Cherub Rock
+02.  Bullet with Butterfly Wings
+03.  Tonight, Tonight
+04.  Ava Adore
+05.  Drum + Fife
+06.  One and All
+07.  The Everlasting Gaze
+08.  Zero
+09.  The Crying Tree of Mercury
+10.  Mayonaise
+11.  Disarm
+12.  Landslide [Nicks]
+13.  1979
+14.  Run2Me
+15.  Thru the Eyes of Ruby
+16.  Stand Inside Your Love
+17.  United States
+18.  Geek USA

@@ -1,28 +1,46 @@
-rem2005-02-12.okmIIr.d1t01.flac:c83f7c3b990ac7ea5dda67639d5c2587
-rem2005-02-12.okmIIr.d1t02.flac:ec6dbcfe6198bb46b27943851298282c
-rem2005-02-12.okmIIr.d1t03.flac:1fb7188e9a359875649beaa8aa0ccfd1
-rem2005-02-12.okmIIr.d1t04.flac:6bbb048c8d929bc1938d1b4fec32e4fd
-rem2005-02-12.okmIIr.d1t05.flac:d3a0312946d205c8acf6d64ce932610c
-rem2005-02-12.okmIIr.d1t06.flac:8356835446a6eea778047b6af2f4dd5b
-rem2005-02-12.okmIIr.d1t07.flac:6bc0e18baa77c6f6509486624a1d6061
-rem2005-02-12.okmIIr.d1t08.flac:d455c4dcb64431747a8899b869863ccc
-rem2005-02-12.okmIIr.d1t09.flac:95092a9dae948eeba3525be7ad798970
-rem2005-02-12.okmIIr.d1t10.flac:6c39d4a3dc2557280dcaa5671ca3b2e7
-rem2005-02-12.okmIIr.d1t11.flac:2f9409e5d30457fc51b0d0ec389c1544
-rem2005-02-12.okmIIr.d1t12.flac:6946e0685b4500d4bd62ab989de554bc
-rem2005-02-12.okmIIr.d1t13.flac:fe68879a8daff0e09c52fd7070d9cc58
-rem2005-02-12.okmIIr.d2t01.flac:1ecf64c252d906c36d21f9fdd007b407
-rem2005-02-12.okmIIr.d2t02.flac:ed9fade22116c7442251e3ac1517fa71
-rem2005-02-12.okmIIr.d2t03.flac:6d69eaa78e5f2a5eae3cc4001d2bf578
-rem2005-02-12.okmIIr.d2t04.flac:0c3fab228dbd54ca26ea3957de1ca661
-rem2005-02-12.okmIIr.d2t05.flac:f7473adf10240bce529b688258f6965a
-rem2005-02-12.okmIIr.d2t06.flac:67a2682a0892f8e6c8ee84ff46995476
-rem2005-02-12.okmIIr.d2t07.flac:0c5cf843d67d4731a855ba3719ec698a
-rem2005-02-12.okmIIr.d2t08.flac:007b9bc9d585a51ff1748200f69b4daa
-rem2005-02-12.okmIIr.d2t09.flac:85c5d05a631fd3cbf98331cf671d6804
-rem2005-02-12.okmIIr.d2t10.flac:16a93577ed1f189565a6d0760558d2b8
-rem2005-02-12.okmIIr.d2t11.flac:a9e80eb7fb67b2dd021d084cd5454f2d
-rem2005-02-12.okmIIr.d2t12.flac:6b39ee73f01e6ae53d591316e5efeb3c
-rem2005-02-12.okmIIr.d2t13.flac:05a4782b92e4c558443472649d63d18c
-rem2005-02-12.okmIIr.d2t14.flac:84df82ad54c226e1b9dc3162ed5af250
-rem2005-02-12.okmIIr.d2t15.flac:337d31c547f32134c1fa204aa928530c
+12.02.2005
+Germany, Stuttgart, Schleyerhalle
+Around The Sun Tour Stuttgart
+vg / exc. Aud.
+
+Disc 1: [57:58]
+01. I Took Your Name [4:19]
+02. The Wake-Up Bomb [5:13]
+03. Animal [4:21]
+04. Drive [4:55]
+05. The Outsiders [4:33]
+06. So. Central Rain [3:58]
+07. Leaving New York [5:10]
+08. Everybody Hurts [7:09]
+09. Electron Blue [4:39]
+10. Electrolite [4:28]
+11. Sweetness Follows [4:59]
+12. Orange Crush [3:58]
+13. [Fade Out] [0:07]
+ 
+Disc 2: [1:01:29]
+01. [Fade In] [0:07]
+02. I Wanted To Be Wrong [5:48]
+03. Final Straw [4:26]
+04. Imitation Of Life [4:23]
+05. The One I Love [3:34]
+06. Walk Unafraid [5:09]
+07. Losing My Religion [4:28]
+08. [Encore Break] [3:02]
+09. Begin the Begin [3:40]
+10. The Great Beyond [5:04]
+11. I've Been High [3:48]
+12. Star 69 [5:36]
+13. I'm Gonna DJ [2:45]
+14. Man On The Moon [4:57]
+15. I Wanna Be Your Dog [The Stooges] [4:35] 
+
+Source: DAT Audience [OKM-IIr > Sony SBM-1 > Sony PCM-M1]
+Location: left side, section 43
+Transfer: DAT master > Sony DTC-ZE700 DAT deck > Terratec EWX 24/96 digital sound card > WaveLab V5.0a > Digital Editing > FLAC V1.1.0
+Editing: Removed some mic connection problems on the left channel using the right channel where necessary EQ and volume boost in T-RackS V2.0, Fades in Sony Sound Forge V7.0, Track Splits in CD Wave Editor V1.71
+Resampling: 48.0 kHz > 44.1 kHz in Adobe Audition V1.5 (setting 999)
+
+Notes: To seamlessly join the two discs, simply remove D1T13 and D2T01.
+
+Lineage: Trade (FLAC on external HDD > Torrent > You)

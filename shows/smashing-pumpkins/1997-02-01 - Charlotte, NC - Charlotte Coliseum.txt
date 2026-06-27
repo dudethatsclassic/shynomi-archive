@@ -1,19 +1,38 @@
-tsp1997-02-01d1t01.flac:2669e83b31091042f3069ecfe335b5aa
-tsp1997-02-01d1t02.flac:bdf5cee4befbe77063221965d2a2c385
-tsp1997-02-01d1t03.flac:fd76a6e3107bcab6618687a9692301b7
-tsp1997-02-01d1t04.flac:0c46336a949592e76c7042723c0f1356
-tsp1997-02-01d1t05.flac:afb564202a0a2464a1decf94d3a64161
-tsp1997-02-01d1t06.flac:bf1e61b999cc020d6f6d2f2a49fda82e
-tsp1997-02-01d1t07.flac:3bde5e2707857f8ee58d56aeccfc6c2d
-tsp1997-02-01d1t08.flac:72803ef3297fe324348d7c1699eb1348
-tsp1997-02-01d1t09.flac:851289ee06ae56a6bbf161dab1ec4eb4
-tsp1997-02-01d1t10.flac:f428901b6c29dfc5d4b9113d213503ea
-tsp1997-02-01d1t11.flac:9bea452e942d6bcab5cc9f72e72d0957
-tsp1997-02-01d1t12.flac:10a211e2d6a8d8921fe3cc7443cbbc76
-tsp1997-02-01d1t13.flac:02cf3e0b5a95971d19cd17886aea62fb
-tsp1997-02-01d1t14.flac:a14d3a3728bdcc1b6e115a0a5cd68bad
-tsp1997-02-01d2t01.flac:f719d25cb77cf478d7abe36bcb4f0afa
-tsp1997-02-01d2t02.flac:1db4d0524b80e704b89482b38476f1db
-tsp1997-02-01d2t03.flac:b1d904f50c2c2c75575fe8cde02b52c7
-tsp1997-02-01d2t04.flac:84ef0b736660a62101e696854c8693f0
-tsp1997-02-01d2t05.flac:effc9067a15fe99376898913ec7b3da4
+The Smashing Pumpkins
+2/1/1997
+Charlotte Coliseum
+Charlotte, NC
+
+Taper:            unknown
+Source:           Oade > D7
+Conversion:       DDC-1(48k) > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. MCIS
+2. Tonight, Tonight
+3. Cherub Rock
+4. Where Boys Fear to Tread
+5. Rhinoceros
+6. Rocket
+7. Zero
+8. Fuck You
+9. Porcelina of the Vast Oceans
+10. 1979 (with The Frogs)
+11. Thirty-three
+12. Bullet with Butterfly Wings
+13. Muzzle
+14. Disarm
+
+Disc 2
+1. Thru the Eyes of Ruby
+2. Drown > Hummer (tease)
+3. Siva > Spiders (tease)
+4. X.Y.U.
+5. Silverfuck > The Aeroplane Flies High (clips) > Worms (tease)

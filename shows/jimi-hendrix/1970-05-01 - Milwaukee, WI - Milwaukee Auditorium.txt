@@ -1,44 +1,12 @@
-Jimi Hendrix
-Auditorium
-Milwaukee, WI
-May 1, 1970
-
-Unknown gen.cassette.aud>SonyTCWE435>PioneerPDR- 
-4>CDR>EAC>WAV>Trader'sLittleHelper>FLAC 
-
-Quality: C (collectors or Jimi freaks only!) 
-
-
- Spanish Castle Magic
- Lover Man
- Hear My Train A Comin'
- Ezy Rider
- Freedom
- Message To Love
- Foxy Lady
- Star Spangled Banner
- Purple Haze
- Voodoo Child (Slight Return) 
-
-Notes:  You can find Jimi'a next show from Madison, WI 5/2/70 here: http://www.dimeadozen.org/torrents-details.php?id=247690
-
-From Chris Dixon....
-    May 1, 2010 marks 40 years since Jimi & Co. started the second weekend of their '70 tour with a show at the Milwaukee (Wisconsin) Auditorium. May Day '70 was a time of great unrest in America, with anti war sentiment at a fever pitch after the bombing of Cambodia two days previous, but there's not much evidence of it here - 'Machine Gun' isn't even performed this night (one of very few '70 shows where it isn't) which is funny, considering the song was often (for ex. the next two nights!) dedicated to "the soldiers fighting in Milwaukee"! 
-
-The tape of this night is a bit of a rough listen, though there are worse. The sound is distant and a bit muffled, with hall acoustics muddying things further. Tape phasing and distortion don't help either. Once again Mitch suffers the most in the mix. Too bad Jimi's voice isn't as clear as the nearby audience members! 
-
-SCM has Jimi getting warmed up with a nice long solo. At about 3:45 he slips in a melody from the musical 'The King and I', moving to some longer sustained notes with tails of feedback. At 5:10 we hear some muted percussive strums, followed by some wide whammy pitch bending ala BoG 'Machine Gun'. At 6:15 Jimi adopts a sort of 'Bo Diddley' or 'Not Fade Away' rhythm, mixing in some lead fills then giving it over to full shred wah around 7:00. This leads to the last verse before winding it up. 
-
-'Hear My Train' gets a slightly longer free-form guitar intro before the main riff starts. Long solo here too, featuring use of the Octavio effect with a 'ring modulator' setting (ala last solo in 'Who Knows') at about 4:20. At 6:30 he moves to a low register variation on the bassline, still with octave effect. Goes to last verse at 7:30 to end at 9:30. 
-
-'Ezy Rider' gets a very brief solo, sounds like he uses the octave effect here too. 
-
-'Freedom' is taken a little slower at this show, the first show where it hasn't been a direct segue from another tune. A couple of extra bars before the vocals enter. Things are fine until the first chorus when Jimi breaks a string just as he sings "..freedom.." the second time, throwing the guitar instantly *way* out of tune. Jimi drops out, leaving Billy and Mitch to continue, with Billy dropping out at 2:00 for a drum solo. At about 2:40 Jimi re-enters and essentially starts the song all over, this time without incident. 
-
-'Message of Love' reappears after not being performed in Sacramento. We hear a hint of Buddy's vocal shouts in the bridge- either Jimi scatting off mic or an enthusiastic audience member! Jimi once again adds some cool chords at the end of the final climbing riff. 
-
-'Foxy' gets a slightly longer opening note- sounds like Jimi is waiting for the feedback overtone to kick in, but it doesn't... 
-
-...and the feedback isn't quite as forthcoming during 'Star Spangled Banner' either, with Jimi skipping the battle effects after the "...bombs bursting in air..." stanza entirely. Direct segue to 'Purple Haze'. 
-
-'Voodoo Child (SR)' starts with Jimi going directly to opening riff, skipping the muted wah intro. 'Full shred' solo leads to last verse at 4:00 then more soloing. Nice unaccompanied coda to end at 7:00. The taper sees fit to record almost a minute of encore call but it's over, the tape running out as applause gives way to foot stomping... 
+    length     expanded size   cdr  WAVE problems filename
+     8:58.40       94997324    ---   --   -----   1970-05-01-Milwaukee (Upgrade) Track01.wav
+     3:35.63       38074220    ---   --   -----   1970-05-01-Milwaukee (Upgrade) Track02.wav
+     9:51.71      104419436    ---   --   -----   1970-05-01-Milwaukee (Upgrade) Track03.wav
+     4:16.58       45294860    ---   --   -----   1970-05-01-Milwaukee (Upgrade) Track04.wav
+     7:37.45       80720684    ---   --   -----   1970-05-01-Milwaukee (Upgrade) Track05.wav
+     5:40.73       60147740    ---   --   -----   1970-05-01-Milwaukee (Upgrade) Track06.wav
+     4:47.01       50629196    ---   --   -----   1970-05-01-Milwaukee (Upgrade) Track07.wav
+     2:54.08       30712460    ---   --   -----   1970-05-01-Milwaukee (Upgrade) Track08.wav
+     4:36.12       48714668    ---   --   -----   1970-05-01-Milwaukee (Upgrade) Track09.wav
+     7:36.48       80551340    ---   --   -----   1970-05-01-Milwaukee (Upgrade) Track10.wav
+    59:55.44      634261928 B                     (totals for 10 files, 1.0000 overall compression ratio)

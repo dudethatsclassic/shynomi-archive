@@ -1,21 +1,44 @@
-rh2004-05-01d1t01.flac:68cc49dea298dc0e19cb48e8ac24000a
-rh2004-05-01d1t02.flac:c47669d3e88efa7fec77fa52233fafa2
-rh2004-05-01d1t03.flac:838a2fec6a0e7cad18bc3edbc509f45b
-rh2004-05-01d1t04.flac:023ebfb7c4c5f589c8b1d1e2258c173b
-rh2004-05-01d1t05.flac:6201ad4a86fcf2fe23e469f852dcde28
-rh2004-05-01d1t06.flac:ed13ebdce7aebc731d553a45f61e6f81
-rh2004-05-01d1t07.flac:c6d8bd4b25e3ec09f3148f0c059ad0db
-rh2004-05-01d1t08.flac:b70847ec68883d29d4f8cfb240adf9db
-rh2004-05-01d1t09.flac:8a5c33e2d036b68fff6584d105c47301
-rh2004-05-01d1t10.flac:ca6e17b4d6d7d10b9fb8ec9ccd763a95
-rh2004-05-01d1t11.flac:3cb0d097a74c608610b385234832124d
-rh2004-05-01d1t12.flac:40af781ce978ed5277512828cc30d802
-rh2004-05-01d1t13.flac:1f138dc736d1a0a00a4c97d335fbf451
-rh2004-05-01d1t14.flac:e6d16706163943c2c38af0e49ccc060e
-rh2004-05-01d1t15.flac:e46fa1ca2190b8e362869899f6707df9
-rh2004-05-01d1t16.flac:fc3b971a76b1ee9ecbb47f7db1a3d39f
-rh2004-05-01d1t17.flac:1f7267d3d48f2203a308a995b4419ca6
-rh2004-05-01d2t01.flac:b31be8c59b28aed879eee1432faeec50
-rh2004-05-01d2t02.flac:b63acab9d091006bb69da66e2f1a23ee
-rh2004-05-01d2t03.flac:9e6673e66dbb83d5d1e5dcc2817fe160
-rh2004-05-01d2t04.flac:b5e99c7e4d55fa4ed3c1a42909ca254e
+Radiohead
+05-01-04
+Empire Polo Fields
+Indio, CA
+
+Taper: BLG
+Source: DPA 4061s > PZmod battery box > Sony PCM-M1 > DAT-M 48khz 
+Location: approx 40' from left stack
+Transfer: DA-20 > Monster coax > DiO 2496 > Soundforge 6.0 (resample to 44.1) > CDWave > FLAC
+
+
+**Please do not distribute MP3's of this recording**
+
+
+Disc I
+01 Where Bluebirds Fly
+02 There There
+03 2+2=5
+04 Lucky
+05 Myxomatosis
+06 My Iron Lung
+07 Exit Music
+08 The Gloaming
+09 Karma Police
+10 Sail to the Moon
+11 I Might Be Wrong
+12 Sit Down. Stand Up.
+13 No Surprises
+14 The National Anthem
+15 Paranoid Android
+16 Idioteque
+17 Street Spirit
+
+Disc II
+01 You and Whose Army?
+02 Planet Telex
+03 Creep
+04 Everything In Its Right Place
+
+
+Notes: A hard limit amplify of 5db with a 0.1 db limit was applied to entire recording via CEP 2.1. 
+
+
+compiled on 11-09-04 by BLG

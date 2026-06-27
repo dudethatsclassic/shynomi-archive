@@ -1,21 +1,32 @@
-disc1track01.flac:4e1471b996c4d7fe17a831c67b51e273
-disc1track02.flac:44d848a32ccdab17ed45480601ed0d12
-disc1track03.flac:a79a4d9b28e16dea47e80d2ea16baa38
-disc1track04.flac:bf183e951e8892ead8d9212269b0aa14
-disc1track05.flac:a9c66bc4810ed854022b36b2e2bfd3ab
-disc1track06.flac:a0bde580bbfaf358346f3839d2fd877e
-disc1track07.flac:612fe529a35e34df1c9b8669f4a6b102
-disc1track08.flac:45ec97db3c3e5920b4c7753d9e050b31
-disc1track09.flac:41481c48d5edf796d9f71e554696175a
-disc1track10.flac:24c5cb9efc5908eb9bf80798d6e3928b
-disc1track11.flac:63c71f20265c9eb8193a43b361170c2a
-disc2track01.flac:4ffe6967edd91ee6873ae1619d4749a8
-disc2track02.flac:ee190d316d0fa1747805db5b7e1f27f7
-disc2track03.flac:d43a987270ef705ad36e5c380e9ff456
-disc2track04.flac:e183fe7251d31c2d3f1810049df89bd5
-disc2track05.flac:d58014713c75bf446fba8c6907a0c6ff
-disc2track06.flac:55f9c5250f5085daf0fbabd0ae20a29c
-disc2track07.flac:03fade08c18c5d63ea30acfbd8d2e709
-disc2track08.flac:b59afccf2a082f987adcf727b83cd84a
-disc2track09.flac:c352bbf578179ad8294c63dd8f300d21
-disc2track10.flac:cdec472e0d133713b07b79f112dde11a
+Band: Metallica
+Title: Summer Sonic Osaka 2013
+Date: August 11, 2013
+Venue: Maishima Summer Sonic Osaka Site, Osaka, Japan
+Label: Zodiac
+Number: ZODIAC 032
+Source: Silvers > EAC > WAV > jetAudio > FLAC
+
+Disc 1
+1.Intro.
+2.The Ecstasy Of Gold
+3.Hit The Lights
+4.Master Of Puppets
+5.Ride The Lightning
+6.Harvester Of Sorrow
+7.Fade To Black
+8.The Memory Remains
+9.Cyanide
+10.Welcome Home (Sanitarium)
+11.Sad But True
+
+Disc 2
+1.And Justice For All
+2.One
+3.For Whom The Bell Tolls
+4.Blackened
+5.Nothing Else Matters
+6.Enter Sandman
+7.Creeping Death
+8.Battery
+9.Seek & Destroy
+10.Outro.

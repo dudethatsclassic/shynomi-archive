@@ -1,31 +1,55 @@
-tsp07-08-12d1t01.flac:3d220512205830c8ce16c165d067875d
-tsp07-08-12d1t02.flac:1133d1d940c0f8ed77611bcef3798058
-tsp07-08-12d1t03.flac:5a6e7b90af01bbc60eb515ec7eee1343
-tsp07-08-12d1t04.flac:e0c3574c5d485b377dd7121c623012f4
-tsp07-08-12d1t05.flac:e7e97ddb5199646cfad9d4723d58d035
-tsp07-08-12d1t06.flac:a39be2e0df4fbda05c6228428ef04014
-tsp07-08-12d1t07.flac:53361bc0c9a7230688488a39b4f553dc
-tsp07-08-12d1t08.flac:6a5714cecb4b3d4339d82963eed2ac60
-tsp07-08-12d1t09.flac:24dd343ff9b802601bf989c173b6a588
-tsp07-08-12d1t10.flac:0fcf19b2be97fecb823b1cc5be78ed09
-tsp07-08-12d1t11.flac:32e14276c9844180eb338ee93828b3f6
-tsp07-08-12d1t12.flac:7ff2fe04b8e0e30102d5e68a6528efc0
-tsp07-08-12d1t13.flac:6781c2b57015881c22e7d0d5f2150acb
-tsp07-08-12d1t14.flac:cb480807e2ab2d28c0a79f0821324b94
-tsp07-08-12d1t15.flac:3ae5e649f621d7c1911548d8d7fa32b7
-tsp07-08-12d2t01.flac:e5abeb0bcc4209f7511670adc6937390
-tsp07-08-12d2t02.flac:e3724244f485a6385d1fedbad0b92805
-tsp07-08-12d2t03.flac:c13a99bb7d2d3e07afcbf38c1d8cd12e
-tsp07-08-12d2t04.flac:6c19875be53ab7c71bf1ee46b6224a0e
-tsp07-08-12d2t05.flac:44ecf7828e6d528bd5f4bbc2574104d6
-tsp07-08-12d2t06.flac:86aa73fda206643f542c4fcc7c1b03ef
-tsp07-08-12d2t07.flac:bc2a9d0a74cfb36a2afaa563fea69b7f
-tsp07-08-12d2t08.flac:3b3edb78388d3ef95f0b59f27e202b26
-tsp07-08-12d2t09.flac:565d668cfb9f15beaafe5f8ed3237bca
-tsp07-08-12d2t10.flac:b3a842e097b6f5593d1d0b0ec8990df8
-tsp07-08-12d2t11.flac:98cdfda55b52312abfdf78a1ead7ab93
-tsp07-08-12d2t12.flac:35627ef0945e53f2b31f24d4d933c5b5
-tsp07-08-12d2t13.flac:1a9b25dd17016069e9d6797762d5c0dc
-tsp07-08-12d2t14.flac:b13f7cbd108ba0bb96abf3b0fbb4478e
-tsp07-08-12d2t15.flac:da42dea4f3a630337fff1ece6b7f13ed
-tsp07-08-12d2t16.flac:d0dd35b882f1f2b45582e0fdca9c0341
+The Smashing Pumpkins 2007-08-12 Stockholm, Cirkus
+
+Source:		DPA 4061's > SP-SPSB-3 With Bass Roll Off @ 95 Hz > Edirol R-09 (@ 24/48k) (Line In)
+Location:	~3 meteres LOB, ~15 meters from stage
+Transfer: 	Master WAV > Digital Editing > CD Wave Editor V1.96.1 > FLAC v1.2.0a
+Editing:    	Volume boost and fades in Steinberg WaveLab V5.01b
+Resampling:	.wav @ 24/48 > Steinberg WaveLab v5.01b (dither with Apogee UV22HR to 16/44.1)
+
+Recorded by: Jofa (jofa72@gmail.com)
+
+
+CD1:
+
+01. Intro			[01:17.06]
+02. United States		[11:30.72]
+03. Bleeding The Orchid		[04:49.46]
+04. Drown			[05:09.48]
+05. Hummer			[06:50.19]
+06. Bullet With Butterfly Wings	[05:35.05]
+07. Neverlost			[04:46.14]
+08. That's The way (My Love Is)	[03:44.53]
+09. Lucky 13			[03:57.17]
+10. Starla			[08:27.17]
+11. For God And Country		[03:50.14]
+12. The Crying Tree Of Mercury	[02:29.15]
+13. Rocket			[04:18.45]
+14. 99 Hours			[07:25.34]
+15. Fade Track			[00:10.60]
+
+Total:				[72:22.15]
+
+
+CD2:
+
+01. Fade Track			[00:10.30]
+02. By Starlight		[01:44.32]
+03. To Shiela			[04:10.02]
+04. Tonight, Tonight		[04:58.20]
+05. Tarantula			[04:12.49]
+06. Starz			[04:00.15]
+07. Zero			[02:35.41]
+08. Disarm			[03:13.32]
+09. Glass And The Ghost Children[11:14.24]
+10. Superchrist			[06:31.06]
+11. Doomsday Clock		[03:42.47]
+12. Heavy Metal Machine		[11:55.37]
+13. Encore Break		[03:12.29]
+14. Death From Above		[04:29.22]
+15. "Billy Talks About Sweden"	[02:50.43]
+16. Muzzle			[05:29.47]
+
+Total:				[74:30.26]
+
+
+This is the 16-bit version of this recording.

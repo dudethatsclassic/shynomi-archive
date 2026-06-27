@@ -1,28 +1,37 @@
-01 Simon Amstel's Intro.flac:92ab443620038051e6060c75d400dff5
-02 Karma Police.flac:8ec70600e1e110c838eae7820b3d6b61
-03 There There.flac:7b49471a70aa7f30732ff4293a189600
-04 Arpeggi.flac:eb2ca23425e35f51255cef6d15457a0c
-05 Fake Plastic Trees.flac:a86e3f069fb6a4f09c03204f4c9334ec
-06 Bodysnatchers.flac:37a1791d69192e0abab62bf29e5b1c41
-07 Pyramid Song.flac:5ef8f0877343255f3a455d11a2ebf9e3
-08 How To Disappear Completely.flac:17c52ceceabe4188f369460cfd9e9bce
-09 No Surprises.flac:6892833743be9958cebf70dfc2b6fae1
-10 Cymbal Rush.flac:bc7bb35ce1dfd6955c52db5cbd74a1f8
-11 I Might Be Wrong.flac:f3c395f82ac2cee7afd41ce92df4186f
-12 Street Spirit (Fade Out).flac:a1292f7f85036c71700c3ce71d22d81b
-13 Gagging Order.flac:e3da7b9017e4313d45f24b32745ed99c
-14 Paranoid Android.flac:516615d194c1f388357738dbf0025996
-01 Simon Amstell's Intro.flac:92ab443620038051e6060c75d400dff5
-02 Karma Police.flac:8ec70600e1e110c838eae7820b3d6b61
-03 There There.flac:7b49471a70aa7f30732ff4293a189600
-04 Arpeggi.flac:eb2ca23425e35f51255cef6d15457a0c
-05 Fake Plastic Trees.flac:a86e3f069fb6a4f09c03204f4c9334ec
-06 Bodysnatchers.flac:37a1791d69192e0abab62bf29e5b1c41
-07 Pyramid Song.flac:5ef8f0877343255f3a455d11a2ebf9e3
-08 How To Disappear Completely.flac:17c52ceceabe4188f369460cfd9e9bce
-09 No Surprises.flac:6892833743be9958cebf70dfc2b6fae1
-10 Cymbal Rush.flac:bc7bb35ce1dfd6955c52db5cbd74a1f8
-11 I Might Be Wrong.flac:f3c395f82ac2cee7afd41ce92df4186f
-12 Street Spirit (Fade Out).flac:a1292f7f85036c71700c3ce71d22d81b
-13 Gagging Order.flac:e3da7b9017e4313d45f24b32745ed99c
-14 Paranoid Android.flac:516615d194c1f388357738dbf0025996
+Thom Yorke & Jonny Greenwood / 05.01.06 / Koko, Camden, London / FLAC
+
+Source: SP-BMC-3 > SP-SPSB-3 > NJB3/48.0KHz > Audacity 1.2.4 > WavePad v1.2 > FLAC
+
+Recorded with 0 gain, amplified with Audacity:  Whole +10 dB, right channel +9.0 dB, then whole by a further + 10.0 dB.  Clipping during applause.
+
+Location:  On the floor, at the back and to the left.
+
+01 May 2006. 
+
+Get Involved: www.foe.co.uk/campaigns/climate/big_ask/take_action.html
+
+Many thanks to Friends of the Earth, Kate Rusby & Band, Gruff Rhys (SFA) and Thom & Jonny.
+
+Don't get excited, it's bassy, distorted and hellishly loud in the applause/shouting out sections, mind your ears and watch the volume.
+
+I hope something better will appear, 'til then in thanks for all the radiohead shared...
+
+Name			Track					Length	Running Time
+************************************************************************************
+
+Disk 1
+
+			01 Simon Amstell's Intro		03.59	03.59
+			02 Karma Police				04.59	08.59
+			03 There There				05.51	14.51
+			04 Arpeggi				04.52	19.43
+			05 Fake Plastic Trees			04.54	24.37
+			06 Bodysnatchers			04.18	28.56
+			07 Pyramid Song				05.08	34.04
+			08 How To Disappear Completely		06.21	40.26
+			09 No Surprises				04.03	44.29
+			10 Cymbal Rush				05.24	49.54
+			11 I Might Be Wrong			05.25	55.19
+			12 Street Spirit (Fade Out)		06.30	61.50
+			13 Gagging Order			04.21	66.11
+			14 Paranoid Android			07.59	74.11

@@ -1,27 +1,49 @@
-tsp1996-01-13d1t01.flac:17658d58378f60eeaa6ac1c436318473
-tsp1996-01-13d1t02.flac:7f8187a43029fd6c59eefda9d3e5ccc2
-tsp1996-01-13d1t03.flac:709e0a6710ad80f217b650fd8dd7bb74
-tsp1996-01-13d1t04.flac:ecdcc26027ee4dc5bc97a78d0b8eef84
-tsp1996-01-13d1t05.flac:28312a832e414106a35f94467d6b5151
-tsp1996-01-13d1t06.flac:9751201363bfa68667a8e086f95ed756
-tsp1996-01-13d1t07.flac:aa86cdc05ee7e5a0bd47a32b9c951e3a
-tsp1996-01-13d1t08.flac:b669f4ddd9b872ec5f699c72193171c6
-tsp1996-01-13d1t09.flac:10bad786cda7e8185a5c05a949005718
-tsp1996-01-13d1t10.flac:49e5f2fa1fd62292b64e56970120bb8a
-tsp1996-01-13d1t11.flac:6cf14b3a8bc7d5fafd953726d4e84b72
-tsp1996-01-13d1t12.flac:2782bbf13f36dae7373cc6661a8c153f
-tsp1996-01-13d1t13.flac:d1b5e635e7e71ff230a9ac51451b46d4
-tsp1996-01-13d1t14.flac:179aa10011aa4379827702b6e8702304
-tsp1996-01-13d1t15.flac:6891df5519a6439521a087cfe3f2bb18
-tsp1996-01-13d1t16.flac:2f33facb09da9e44e6c4f670f84c1d54
-tsp1996-01-13d1t17.flac:ae417dba82177ab1432ec90c45551298
-tsp1996-01-13d1t18.flac:5cd5becb87ea74ff004c157d939eb28f
-tsp1996-01-13d2t01.flac:d478bef336c022b4e9aae494fe8069bc
-tsp1996-01-13d2t02.flac:eab060ac827511ad70cf4ba33f7e2d94
-tsp1996-01-13d2t03.flac:5bfca08432cb84e1dd67582372780531
-tsp1996-01-13d2t04.flac:f300802847eb6b9a9fd659b9b67b4130
-tsp1996-01-13d2t05.flac:317025f5d51c26e41c076c94bd785d84
-tsp1996-01-13d2t06.flac:8564e7ad0e6a0c3b85597cde770e09c0
-tsp1996-01-13d2t07.flac:3d8f4da6e3ce36c2148a2ea7427230d7
-tsp1996-01-13d2t08.flac:5bb2cda6a2afb4d7afc5189e87ad64fb
-tsp1996-01-13d2t09.flac:06ec0bfd88be219e4495cb58dd9eaa9a
+The Smashing Pumpkins
+1/13/1996
+Academy
+New York, NY
+
+Taper:            unknown
+Source:           unknown analog recorder
+Conversion:       ANA-3 > Sony TC-WE825S > Tascam DA-20MKii(A>D @ 44.1kHz) > Monster coax > Delta Dio 2496 > Adobe Audition 2.0
+Editor:           Andrew Fogelsong
+Editing:          shortened gap between sets one and two to 1 sec, shortened gap between set two and encore one to 1 sec, shortened tape flip gaps to 1 sec
+FLAC:             master wav's > CD Wave Editor 1.95 > FLAC (level 8)
+Notes:		  Thanks to Ben Golomb for letting me borrow the tapes! Left channel volume level drops for 0:21 during Cupid de Locke, dropout after Disarm(just before tape flip), tape errors after 1979, Silverfuck cuts after 17 minutes
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+
+1. Tonight, Tonight
+2. In the Arms of Sleep
+3. Cupid de Locke
+4. Thirty-three
+5. Today
+6. Lily
+7. Take Me Down
+8. Beautiful
+9. Rocket
+10. Disarm
+11. Galapogos
+12. MCIS
+13. Where Boys Fear to Tread
+14. Zero
+15. Fuck You
+16. Here Is No Why
+17. To Forgive
+18. Bullet with Butterfly Wings
+
+Disc 2
+
+1. Thru the Eyes of Ruby
+2. Geek U.S.A.
+3. 1979
+4. Jellybelly
+5. Porcelina of the Vast Oceans
+6. X.Y.U.
+7. We Only Come Out at Night
+8. Cherub Rock > Star Spangled Banner [Key] (tease)
+9. Silverfuck (cut)

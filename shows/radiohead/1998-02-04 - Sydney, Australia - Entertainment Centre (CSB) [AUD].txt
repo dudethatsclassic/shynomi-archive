@@ -1,23 +1,52 @@
-rh1998-02-04d1t01.flac:e39b41f7bd71a0e6b914b87b62388a69
-rh1998-02-04d1t02.flac:53f412d166c9a58e47a85c643d5af4fc
-rh1998-02-04d1t03.flac:b4a04eab0e50b356796fa82737bc3768
-rh1998-02-04d1t04.flac:0379076b28cca2ec78339e19c085634e
-rh1998-02-04d1t05.flac:1399fdb42eae701b9eecad69dff1e7b1
-rh1998-02-04d1t06.flac:8c1ada26027ebfb7d6258e5c25dea81d
-rh1998-02-04d1t07.flac:bfc05e828e79b4d28047ccc89321088f
-rh1998-02-04d1t08.flac:5ceda2dd92083616fc172df7693ea6d2
-rh1998-02-04d1t09.flac:a03dad80e600d03c1b0171e6337a72cc
-rh1998-02-04d1t10.flac:99b2c2f19dcc0802ae2f95d7e76a8651
-rh1998-02-04d1t11.flac:c8a6efa48bdb2194049dc6da95138d24
-rh1998-02-04d1t12.flac:c231a33f33e64dd84ec0114cc7034e90
-rh1998-02-04d1t13.flac:ddbbea97583ec0b05b170bdff2707a0c
-rh1998-02-04d1t14.flac:d429772c55df60a8f9771dd623125290
-rh1998-02-04d2t01.flac:cfa1e0d1c0a6bed4d17aa780c173982c
-rh1998-02-04d2t02.flac:94d2133c3d2ca2405b3977299df53b6c
-rh1998-02-04d2t03.flac:6cb542f6d7086744345b4da19670122e
-rh1998-02-04d2t04.flac:5360160978aa205c66012395b90a3ae0
-rh1998-02-04d2t05.flac:821de60f5913023ec0275b86e1beb992
-rh1998-02-04d2t06.flac:53c5c4e3d9a98c191ef8d5284ccbf36a
-rh1998-02-04d2t07.flac:fc230a542f26f5ff5f72b51a0a3cc02d
-rh1998-02-04d2t08.flac:e8184a6337af266d824e17d01c2355a8
-rh1998-02-04d2t09.flac:e6335056ee02462868171a9e949bacf5
+Radiohead
+02-04-98
+Entertainment Centre
+Sydney, Australia
+
+Source: CSB?? -> DAT
+Generation: DAT(M) -> DAT(4) 48khz
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> Soundforge 6.0
+	(resample to 44.1) -> CDWave -> FLAC frontend -> FLAC
+
+
+**Please do not encode to MP3 or sell on ebay**
+
+
+Disc I
+01 Fitter, Happier
+02 Aibag
+03 Talk Show Host
+04 Planet Telex
+05 Karma Police
+06 Exit Music
+07 My Iron Lung
+08 Bishop's Robes
+09 Paranoid Android
+10 Creep
+11 Subterranean Homesick Alien
+12 The Bends
+13 Climbing Up the Walls
+14 Fake Plastic Trees
+
+
+Disc II
+01 No Surprises
+02 Bones
+03 Just
+04 Lucky
+05 Let Down
+06 Nice Dream
+07 Street Spirit
+08 You
+09 The Tourist
+
+
+Notes: Small spot of diginoise at the end of Planet Telex. 
+
+This should replace the crappy and unknown generation source that has previously
+circulated on the RH Hub and other places.
+
+
+
+Transfer by BLG
+Compiled on 12-11-04

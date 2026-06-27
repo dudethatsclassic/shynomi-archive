@@ -1,19 +1,30 @@
-tsp1996-11-27d1t01.flac:e44936ac81e163cf1c1cbac50851f1c9
-tsp1996-11-27d1t02.flac:1c64e25c5ff632a425e180e67183b73f
-tsp1996-11-27d1t03.flac:f8089f80b28ac203d5ec6510ef9491bf
-tsp1996-11-27d1t04.flac:647de9a1275261bb545ab3a66d65658b
-tsp1996-11-27d1t05.flac:e2a825184782b366c6525b583c275cd0
-tsp1996-11-27d1t06.flac:60d3cdd5227483bd4af56443285d6d29
-tsp1996-11-27d1t07.flac:cbd6d2d7f8c1eb6008548ba59b8d6f8e
-tsp1996-11-27d1t08.flac:a7c84b7d19acc2d4fedcc41969a5c0e6
-tsp1996-11-27d1t09.flac:256107d340a3c7b52dc1d9321f9af2a1
-tsp1996-11-27d1t10.flac:39a1198696111d3616f949ce12b83860
-tsp1996-11-27d1t11.flac:2bcc9e9988317cb4298829d86a935844
-tsp1996-11-27d1t12.flac:9ad2f371fe9b5fcf9392c69fe83f2809
-tsp1996-11-27d1t13.flac:39b1c7077ddb701ea8cef0b61c6d4bcc
-tsp1996-11-27d2t01.flac:7bf815cab8e22bdf3fe97e31ca75beab
-tsp1996-11-27d2t02.flac:4fcfc1a88620ee84553d4ec6587384c7
-tsp1996-11-27d2t03.flac:bdea4fddd4038d40b461883d09b55176
-tsp1996-11-27d2t04.flac:2310e32d7dd5d5efb6e98e2095f5da87
-tsp1996-11-27d2t05.flac:4ffa441dcadd946b92321964880d769d
-tsp1996-11-27d2t06.flac:8f55b66bcd73543129c0c980ebf3a221
+The Smashing Pumpkins
+11/27/1996
+Gulfcoast Coliseum
+Biloxi, MS
+
+Source: ECM-909A > D8
+Transfer: DDC1 > CDR0 > EAC (secure, no errors) > flac 
+
+disk1
+01.  mcis
+02.  where boys fear to tread
+03.  fuck you
+04.  by starlight
+05.  tonight, tonight
+06.  today
+07.  cherub rock
+08.  ruby
+09.  drown > hummer
+10.  thirty-three
+11.  disarm
+12.  bullet with butterfly wings
+13.  muzzle
+
+disk2
+01.  porcelina
+02.  siva
+03.  mayonaise
+04.  dancers
+05.  1979
+06.  starla > beautiful

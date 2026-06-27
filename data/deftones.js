@@ -244,7 +244,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x)",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "1996-08-23 - Bristow, VA - Nissan Pavilion [AUD1].txt"
+      "textFile": "1996-08-23 - Bristow, US - Nissan Pavilion - VHS(x) [DVD].txt"
     },
     {
       "year": 1996,

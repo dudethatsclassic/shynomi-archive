@@ -718,8 +718,7 @@ const ARTIST_DATA = {
       "venue": "Cal Expo Amphitheatre - Lollapalooza",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Neekrive",
-      "textFile": "1995-08-17 - Sacramento, CA - Cal Expo Amphitheatre - Lollapalooza (unk) (neekrive) [AUD].txt"
+      "notes": "Unknown \u00b7 Neekrive"
     },
     {
       "year": 1995,
@@ -1416,8 +1415,7 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Nick Cholt",
-      "textFile": "2022-09-09 - Los Angeles, CA - Orpheum Theatre (unk) (nick cholt) [AUD].txt"
+      "notes": "Unknown \u00b7 Nick Cholt"
     },
     {
       "year": 2022,
@@ -1430,8 +1428,7 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Nick Cholt",
-      "textFile": "2022-09-10 - Los Angeles, CA - Orpheum Theatre (unk) (nick cholt) [AUD].txt"
+      "notes": "Unknown \u00b7 Nick Cholt"
     },
     {
       "year": 2022,

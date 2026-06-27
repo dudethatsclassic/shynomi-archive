@@ -1,25 +1,46 @@
-REM23-02-2005d1t01.flac:75374388628148c8ee9e903516e6f426
-REM23-02-2005d1t02.flac:58186b09fdf8e2da343f91e5e9637d24
-REM23-02-2005d1t03.flac:ff7e9d753ed6e6f3a71081f663a6eb13
-REM23-02-2005d1t04.flac:79d60197fed9e2c6a8c5ee6c95be5c48
-REM23-02-2005d1t05.flac:b74e96bd09e595b358b856b70b5797cf
-REM23-02-2005d1t06.flac:9e4acd0710d8d2f59a8c9b93c77f6860
-REM23-02-2005d1t07.flac:7b51885b9fc543e7a8d2d7d63d2c030a
-REM23-02-2005d1t08.flac:ea58aaa48e9bb1228e7ff79a1c8fdf79
-REM23-02-2005d1t09.flac:6713d4cb7a422726f5fc02818b3f48de
-REM23-02-2005d1t10.flac:24b82072b2d8c237a4825b53ea19b6cc
-REM23-02-2005d1t11.flac:7faf3b695eacbd1e505379b105441106
-REM23-02-2005d1t12.flac:fac6b88ef858e2f100df52f2c853fa31
-REM23-02-2005d1t13.flac:10bc1489cc983a2c830a0328b98734a7
-REM23-02-2005d1t14.flac:08de40ddc76505d9b0ae63a24a4f80c2
-REM23-02-2005d1t15.flac:e539f2bc50a8bca4b8bd46143ae9a173
-REM23-02-2005d2t01.flac:ab4402dbd4461a9d776c121d1bdbcbe6
-REM23-02-2005d2t02.flac:5c92818ec160000b18416b0b37db6178
-REM23-02-2005d2t03.flac:e2f07da6dc33d6c63332a16d0662c934
-REM23-02-2005d2t04.flac:32b83190d412e55445bbaf3f8287070c
-REM23-02-2005d2t05.flac:b1290a03949cac276fb5b6d347455910
-REM23-02-2005d2t06.flac:649f8940e6f8b61b58d06d00f276513e
-REM23-02-2005d2t07.flac:57334c35a81b0361c2660378f26c3c08
-REM23-02-2005d2t08.flac:a9e8c3a321063e790105aec80c75a1bb
-REM23-02-2005d2t09.flac:3c5901b256d497c4c1c7564d5a9d02d5
-REM23-02-2005d2t10.flac:6bf13d16f354fd506264f5b8c684bda9
+R.E.M.
+NEC Arena
+Birmingham, UK
+23/02/2005
+
+Taped & Edited By : remer
+
+
+Source: CSB + Battery Box > Creative Nomad Jukebox 3
+Conversion/Editing: JB3 > Firewire > Soundforge 7.0 > CD Wave > Flac Frontend v1.7.1
+
+Disc 1:
+
+01: I Took Your Name         		[04:34]
+02: Departure                		[03:39]
+03: Animal                   		[04:19]
+04: The Outsiders            		[04:42]
+05: World Leader Pretend     		[04:45]
+06: High Speed Train         		[05:15]
+07: Everybody Hurts          		[07:29]
+08: Electron Blue            		[04:31]
+09: Electrolite              		[04:35]
+10: Undertow                 		[04:59]
+11: Leaving New York         		[05:01]
+12: Orange Crush             		[04:42]
+13: I Wanted To Be Wrong     		[05:01]
+14: Final Straw              		[05:31]
+15: Imitation Of Life        		[04:04]
+
+Disc 2:
+
+16: The One I Love          		[03:38]
+17: Walk Unafraid            		[04:03]
+18: Losing My Religion       		[04:43]
+
+19: Break                    		[03:31]
+
+[Encore]
+20: What's The Frequency Kenneth    	[03:59]
+21: Bad Day                  		[04:53]
+22: I've Been High           		[04:04]
+23: The Great Beyond         		[07:04]
+24: I'm Gonna D.J            		[02:24]
+25: Man On The Moon          		[06:40]
+
+Total Length				[01:58:06]

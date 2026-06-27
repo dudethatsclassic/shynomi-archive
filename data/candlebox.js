@@ -1257,8 +1257,7 @@ const ARTIST_DATA = {
       "venue": "Lincoln Theater",
       "notes": "CA-11s \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2022-06-16 - Belleville, IL - Lincoln Theater (CA-11s) (unk) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2022,

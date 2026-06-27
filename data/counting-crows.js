@@ -1396,7 +1396,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-11-14 - Orpheum Theater - Boston, MA [AUD].txt"
+      "textFile": "1996-11-14 - Orpheum Theater - Boston, MA [AUD].rtf"
     },
     {
       "year": 1996,
@@ -1438,7 +1438,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-11-22 - Toronto, ON - Massey Hall [AUD].txt"
+      "textFile": "1996-11-22 - Toronto, ON - Massey Hall [AUD].rtf"
     },
     {
       "year": 1996,
@@ -1684,7 +1684,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-01-25 - Dallas, TX - Dallas Music Complex [AUD].txt"
+      "textFile": "1997-01-25 - Dallas, TX - Dallas Music Complex [AUD].rtf"
     },
     {
       "year": 1997,
@@ -14330,8 +14330,7 @@ const ARTIST_DATA = {
       "venue": "PNC Bank Arts Center",
       "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC HD",
-      "textFile": "2015-08-29 - Holmdel, NJ - PNC Bank Arts Center (Nugs.net) [FLAC HD].txt"
+      "format": "FLAC HD"
     },
     {
       "year": 2015,
@@ -17656,8 +17655,7 @@ const ARTIST_DATA = {
       "venue": "Toyota Center",
       "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2024-08-17 - Houston, TX - Toyota Center (Nugs.net) [FLAC].txt"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -17840,8 +17838,7 @@ const ARTIST_DATA = {
       "venue": "MGM Music Hall at Fenway",
       "notes": "Nugs.net",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2025-06-26 - Boston, MA - MGM Music Hall at Fenway (Nugs.net) [FLAC].txt"
+      "format": "FLAC"
     },
     {
       "year": 2025,

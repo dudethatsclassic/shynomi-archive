@@ -1,20 +1,41 @@
-tsp1997-02-04d1t01.flac:e5107ae309859bc994f0d4e62f2c533d
-tsp1997-02-04d1t02.flac:600680ce277393ff13cc416bd6668bc1
-tsp1997-02-04d1t03.flac:13432d02a30185ab7458051199739426
-tsp1997-02-04d1t04.flac:a75a093293251310b2ac1c0c8bcfe4a5
-tsp1997-02-04d1t05.flac:cc1b0b15cb8d82b2be8a1e3d56499b35
-tsp1997-02-04d1t06.flac:4a33727e72a2825444ee586237f62b93
-tsp1997-02-04d1t07.flac:9a087f7cdc71b85cad6ae0d6457cb198
-tsp1997-02-04d1t08.flac:42f5c5eb7d8575e99f6ab632e94f14cd
-tsp1997-02-04d1t09.flac:8b4374b3d0c142d7c038bf82608183ed
-tsp1997-02-04d1t10.flac:c323746e82d6bb2a4fee2959409c234d
-tsp1997-02-04d2t01.flac:7b930c70afb5675879b20eeffd3ae151
-tsp1997-02-04d2t02.flac:4afb10236f7c5dbc8232df38dc5ef58e
-tsp1997-02-04d2t03.flac:3a8aa5197960b003ffb413dd79ddb3e5
-tsp1997-02-04d2t04.flac:8c98e7f413d8938dfa3c802b52166f3a
-tsp1997-02-04d2t05.flac:899f5ee122e5804a1000e1e85e6ef305
-tsp1997-02-04d2t06.flac:0c125e2c8f9ce8ae261a77bd0b17289b
-tsp1997-02-04d2t07.flac:49a3b0ed698211941d9e0fa3d2394423
-tsp1997-02-04d2t08.flac:44cef450824d5f64f65f9540f0fee722
-tsp1997-02-04d2t09.flac:d9fd39d6e65ca5f2b1cf6ddb5ffdf753
-tsp1997-02-04d3t01.flac:e3591f0f59821e08dd3de8c40178322b
+The Smashing Pumpkins
+2/4/1997
+Pensacola Civic Center
+Pensacola, FL
+
+Taper:            unknown
+Source:           CSB > D8
+Conversion:       DDC-?(48k) > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. MCIS
+2. Tonight, Tonight
+3. Cherub Rock
+4. Where Boys Fear to Tread
+5. Rhinoceros
+6. Rocket
+7. Zero
+8. Fuck You
+9. Porcelina of the Vast Oceans
+10. Today
+
+Disc 2
+1. Thirty-three
+2. Bullet with Butterfly Wings
+3. Muzzle
+4. Disarm
+5. Thru the Eyes of Ruby
+6. Lovefool [The Cardigans] (tease), (picking the dancers)
+7. 1979 (with Jimmy Frog on Bass)
+8. In-A-Gadda-Da-Vida [Iron Butterfly] (tease)
+9. X.Y.U.
+
+Disc 3
+1. Silverfuck > The Aeroplane Flies High (clips) > Space Jam

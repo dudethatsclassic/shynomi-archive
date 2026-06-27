@@ -1,29 +1,44 @@
-Disc 1\01 Track01.flac:61437f9c90ef939f9c8307a20bfecbf8
-Disc 1\02 Track02.flac:307c795259182f8d95541e45b46d3b18
-Disc 1\03 Track03.flac:7893cb8b6d1466f981b4962be91640cb
-Disc 1\04 Track04.flac:be59b2c32028ae402278841a4bacbbf9
-Disc 1\05 Track05.flac:a62a13e928647d9ac87451753ba04b1c
-Disc 1\06 Track06.flac:b5b604fbbbe36f97fad5ef901a871b0c
-Disc 1\07 Track07.flac:e2e69df1bad319d9c23c5ce643c30baa
-Disc 1\08 Track08.flac:e6380413bd9e9cce6caa170e4176be85
-Disc 1\09 Track09.flac:78a83df2f60324a2956029df912df714
-Disc 1\10 Track10.flac:73fd8368447e47550d5e93c4736a10e9
-Disc 1\11 Track11.flac:89e91768c8589ad19bc450ee12261fc8
-Disc 1\12 Track12.flac:01678b93dcb4d164cf1fe32bff205692
-Disc 1\13 Track13.flac:359e6c5623c0014cee0a55a3bddc0342
-Disc 1\14 Track14.flac:6cd0cbb28967a44f8549eaac87358acb
-Disc 1\15 Track15.flac:fad18a2d87270335ddb9cef1d35ff71d
-Disc 2\01 Track01.flac:df1a3a9084f06f54acc07041e9732658
-Disc 2\02 Track02.flac:eb00666cc08a791d40d82cb8e37b98ff
-Disc 2\03 Track03.flac:983bb81f64371ef61fa41216884bfb54
-Disc 2\04 Track04.flac:9a93bf0bb66718affbe174041eeea34d
-Disc 2\05 Track05.flac:04159dc07b51e5101ca675cbb8dd2837
-Disc 2\06 Track06.flac:f54c1d86d6ddc3842a48e41fc93489c6
-Disc 2\07 Track07.flac:abb2789a552405a1f6dcffad03441e71
-Disc 2\08 Track08.flac:f896e1cd5b557b4199f751b93ccf9da4
-Disc 2\09 Track09.flac:d25862e5b7da4e532cffa3dcbdd4e9e8
-Disc 2\10 Track10.flac:51d1fc837df45f26a3fcca24e56ef4b1
-Disc 2\11 Track11.flac:606ced1190fec1063e845ed5cc4b0935
-Disc 2\12 Track12.flac:2361a35db4aad686c965d92bd70d9de8
-Disc 2\13 Track13.flac:89d4306be438256ecec13f3d2e985e2b
-Disc 2\14 Track14.flac:a23b5beaab635c119f37e03e48aa125b
+29.05.2005
+Spain, Gijon, Hipodromo Municipal de Las Mestas
+Leave in Gijón
+exc. Aud. 
+
+Disc 1: [1:06:51]
+01. I took your name [4:24]
+02. Kenneth [3:58]
+03. Animal [4:14]
+04. The outsiders [4:46]
+05. So. central rain [3:56]
+06. Leaving NY [5:06]
+07. Leave [5:26]
+08. Cuyahoga [5:07]
+09. Me in honey [4:25]
+10. Everybody hurts [6:33]
+11. Audience singing [1:00]
+12. Electron blue [4:11]
+13. Bad day [4:35]
+14. Electrolite [5:00]
+15. Orange crush [4:03]
+
+Disc 2: [53:32] 
+01. I wanted to be wrong [5:41]
+02. The one I love [3:39]
+03. Walk unafraid [4:53]
+04. Losing my religion [4:41]
+05. Audience noise [3:56]
+06. Imitation of life [3:47]
+07. Star 69 [3:20]
+08. The great beyond [4:31]
+09. Sweetness follows [4:32]
+10. Michael talking [1:15]
+11. Happy Birthday Anton Corbijn [1:54]
+12. Band introduction [1:16]
+13. I'm gonna dj [2:33]
+14. Man on the moon [7:27]
+
+Taper: dislocate & blueyes 
+Location: In the middle at 10 meters' distance from the soundboard and about 20 meters' distance from the stage 
+Equipment: AT853 (hypercardioids) > SP-SPSB-6 > JB3 (wav at 44.1k) 
+Transfer: JB3 > Creative PlayCenter > Audacity > CD Wave > Flac frontend > Flac 
+
+Lineage: Trade (CDR) EAC > WAV > FLAC (Level 8) > Torrent

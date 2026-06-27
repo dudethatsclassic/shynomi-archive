@@ -1,18 +1,28 @@
-01 Midnight Cowboy.flac:5a7b4f3a9c8ab295e351b4fb411aca89
-02 Collision.flac:402e3a2c9a1791b81eee5dddcd6e923b
-03 Midlife Crisis.flac:9d1364357313756ec9ef8a3acde542b0
-04 Last Cup Of Sorrow.flac:25185032bcba0fa1610e52aaee0be0c9
-05 The Gentle Art Of Making Enemies.flac:f98ae28ef0862be9385a4d8f6eec8f95
-06 Evidence.flac:4cc206078fb2ed9e95e6d180eaf4c34f
-07 Easy.flac:f2da10ad8e9ff23c5f28cd7f83cfc313
-08 Introduce Yourself.flac:e84c0bd61231c6a6bc0ed3ba242a31d6
-09 Get Out.flac:14d643c053aa553406ca2c1afd01e47b
-10 Home Sick Home.flac:245380a02d5b9f80478c17c7e2962627
-11 Ashes To Ashes.flac:dc437c7915eaa690cd737085e38e4047
-12 King For A Day.flac:687357b2344dab444705e4d38e5647fa
-13 Stripsearch.flac:8ef50fae092b10374d8cfdc088585ed6
-14 Epic.flac:08168095445a606c05c903fcace18ce3
-15 Naked In Front Of The Computer.flac:72392341be9eb9af352fb28bed333da5
-16 Just A Man.flac:d82d648ca41ba07a7d233d1a76ac01fa
-17 This Guy's In Love With You.flac:d7fc4cc7440b9c7487fe687074cb8a3c
-18 Caffeine.flac:9890bf47b7645f99837b9fed1ade41cd
+FAITH NO MORE
+HOLLYWOOD,CA:PALACE
+10/5/97
+
+
+CSB -> D7
+DA20 -> CDRW700 -> EAC -> FLAC Frontend Level 8
+
+
+
+01. Midnight Cowboy 
+02. Collision 
+03. Midnight Cowboy 
+04. Last Cup Of Sorrow 
+05. The Gentle Art Of Making Enemies 
+06. Evidence 
+07. Easy 
+08. Introduce Yourself 
+09. Get Out 
+10. Home Sick Home 
+11. Ashes To Ashes 
+12. King For A Day 
+13. Stripseach 
+14. Epic 
+15. Naked In Front Of The Computer 
+16. Just A Man 
+17. This Guy's In Love With You 
+18. Caffeine 

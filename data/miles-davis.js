@@ -1718,8 +1718,7 @@ const ARTIST_DATA = {
       "venue": "Shelly's Manne-Hole",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1968-10-27 - Los Angeles, CA - Shelly's Manne-Hole [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1969,

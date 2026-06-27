@@ -1,25 +1,37 @@
-Disc 1\01 Track01.flac:041c4961a1a0eb65dadc36b903b2c2d1
-Disc 1\02 Track02.flac:3b93a7c40c44e0a99108a73b7b8be0bd
-Disc 1\03 Track03.flac:adf03b147a1b13b6388e6d68dbe8bf7e
-Disc 1\04 Track04.flac:2905d73cc7344e69518e370c8129fcbc
-Disc 1\05 Track05.flac:6a905c7ab5fdfc1b1b816e11b67d00c6
-Disc 1\06 Track06.flac:56fe7a0e2b16adf1d288bb4781f5d761
-Disc 1\07 Track07.flac:15ba39797157175f62b49c47fa970e2d
-Disc 1\08 Track08.flac:c4a66e68420010a64c0b7d46541e5d04
-Disc 1\09 Track09.flac:6f4616a7b33e7426d3a054d4ee6b0fb1
-Disc 1\10 Track10.flac:036c9cafc2fd3f3bce4ebf3bc77e229b
-Disc 1\11 Track11.flac:4ee34b4e3a5800fde91939862adc802f
-Disc 1\12 Track12.flac:79747c76258335b328015e8d79eb6f2f
-Disc 1\13 Track13.flac:8f9df04172fdfbbc3bff072be1b95d38
-Disc 1\14 Track14.flac:3193d97c86b6bf6d212ddfba045e99ba
-Disc 1\15 Track15.flac:322c4e0df445d0819d1c6766048532f2
-Disc 1\16 Track16.flac:8524040340b0f5c1835c0a05f00c450b
-Disc 1\17 Track17.flac:673b55937354da748d3ddc119b11c241
-Disc 1\18 Track18.flac:b99fe4e0acc5b286990dec4c2be7c122
-Disc 2\01 Track01.flac:9ee55b873a946a13040edb5eff165e2d
-Disc 2\02 Track02.flac:b5a15009d513e3bcab78b371fa70e306
-Disc 2\03 Track03.flac:53d6df7ac6af107925c3152947ca99e4
-Disc 2\04 Track04.flac:09a9cda66c57e55a59b5241ca4a72ea0
-Disc 2\05 Track05.flac:abf51bc3ce37046af738eb1847a4c256
-Disc 2\06 Track06.flac:dc7579c125796c64040f9d8957406322
-Disc 2\07 Track07.flac:019ef3d8165383ee00a50be9820acf59
+15.02.2005
+Germany, Berlin, Velodrom
+Around The Sun Tour Berlin
+very good / exc. Aud.
+
+Disc 1: [1:19:06]
+01. Intro [0:34]
+02. I Took Your Name [3:55]
+03. Departure [3:48]
+04. Animal [4:16]
+05. The Outsiders [4:34]
+06. So. Central Rain [4:11]
+07. High Speed Train [5:14]
+08. Everybody Hurts [7:05]
+09. Aftermath [4:14]
+10. I've Been High [4:01]
+11. Seven Chinese Brothers [5:06]
+12. Leaving New York [5:03]
+13. Orange Crush [4:36]
+14. I Wanted To Be Wrong [5:06]
+15. Final Straw [4:43]
+16. Imitation Of Life [3:53]
+17. The One I Love [3:43]
+18. Losing My Religion [4:54]
+
+Disc 2: [31:31]
+01. Crowd Noise [1:08]
+02. Drive [4:59]
+03. Electrolite [4:44]
+04. The Great Beyond [4:29]
+05. Walk Unafraid [6:35]
+06. I'm Gonna DJ [2:35]
+07. Man On The Moon [6:57]
+
+Source: off master MD, MZ N910, Sony ECM 717 Mic´s 
+
+Lineage: Trade (CDR) EAC > WAV > FLAC (Level 8) > Torrent

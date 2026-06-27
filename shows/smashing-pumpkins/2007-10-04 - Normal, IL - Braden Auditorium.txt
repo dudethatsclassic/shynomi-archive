@@ -1,25 +1,50 @@
-tsp2007-10-04d1t01.flac:7d14c37e769b76696a9f327e71b8e615
-tsp2007-10-04d1t02.flac:3d17d108cdfc46efb22d48f904111297
-tsp2007-10-04d1t03.flac:8b3f160e9e2cac68ddd0eaa93723256d
-tsp2007-10-04d1t04.flac:34f917ec979644a306155abadc04faae
-tsp2007-10-04d1t05.flac:85a9b70e0a2607684bd743b68f34301b
-tsp2007-10-04d1t06.flac:af07e8f529387539d512f5d173cc5d6c
-tsp2007-10-04d1t07.flac:7f3f69068725cd06fb2ff9f3b5b1955b
-tsp2007-10-04d1t08.flac:6e1c0b36fe61a03d0adae8c72f0dfc0f
-tsp2007-10-04d1t09.flac:0b2dd0ae0eeeac20947b6f9629764f5a
-tsp2007-10-04d1t10.flac:9a3e9f925fb79c2ff11d4b3ccf3bb38a
-tsp2007-10-04d1t11.flac:259090145a85bfdbca3be2089e9c5216
-tsp2007-10-04d1t12.flac:e9b0509126cdd73d1e9dc271ebac0a47
-tsp2007-10-04d2t01.flac:0b9fc094387f531c34b27b124602af86
-tsp2007-10-04d2t02.flac:98279042c502e08ffc70d9b1bb3cc4fc
-tsp2007-10-04d2t03.flac:55a41b2e6711dccfea5d77b0f8f30858
-tsp2007-10-04d2t04.flac:13a009d1192320c29188d3a9bee49e7f
-tsp2007-10-04d2t05.flac:1d730e3ca23ed37ad13e2dbe3741af2b
-tsp2007-10-04d2t06.flac:bdd3ef4146765300fb3d72bd8c77b197
-tsp2007-10-04d2t07.flac:a5f1cf911078ecab3ccfe516a4d1b653
-tsp2007-10-04d2t08.flac:fe95ae30bbcb1954ca8fee286ed5d0c5
-tsp2007-10-04d2t09.flac:63f6e0ca1c074920bde0a3bc4af46748
-tsp2007-10-04d2t10.flac:04ad7bf1ac8ff5cda137bfdc3be844e3
-tsp2007-10-04d2t11.flac:b60ce842dbced560e04136030014c98c
-tsp2007-10-04d2t12.flac:846ae8ee8b4fbe1b01ab479653d81d9a
-tsp2007-10-04d2t13.flac:9d0a5756b7f4b5ffc7fcf032069722bb
+Smashing Pumpkins	
+10/04/07
+Braden Auditorium
+Normal, IL
+
+Source: Schoeps MK41's > Active Cables > Nbox > Tascam HDP2 > Wav @ 24/48
+
+Conversion: Tascam HDP2 > Firewire > Goldwave (merging) > CEP 2.1  (fades, resampling and dithering) > CD Wave > TLH > Flac
+
+Taper: jcrab66(bootlegarchive at yahoo dot com)
+       
+
+Setlist:
+
+Disc 1
+
+01. Intro
+02. Superchrist
+03. Doomsday Clock
+04. Thats The Way (My Love Is)
+05. Drown
+06. Hummer
+07. Bullet With Butterfly Wings
+08. United States
+09. Home
+10. Bring The Light
+11. Glass And The Ghost Children
+12. 1979
+
+Disc 2
+
+01. Perfect
+02. To Shiela
+03. Tonight, Tonight
+04. Stand Inside Your Love
+05. Rocket
+06. Tarantula
+07. Heavy Metal Machine
+08. Encore Break
+09. Today
+10. Encore Break
+11. Ballad of Davy Crockett(Tease)
+12. Zero
+13. Lucky 13
+
+
+
+***DO NOT ALTER THESE FILES IN ANY WAY WITHOUT PERMISSION OF THE TAPER***
+***DO NOT ENCODE TO LOSSY FORMATS (MP3,OGG,Etc..)***
+***DO NOT SELL***

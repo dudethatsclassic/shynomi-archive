@@ -1,31 +1,51 @@
-RyanAdams2006-07-22-matrixd2t01.flac:421535350a7d5ec306e6ee6d2b172d4b
-RyanAdams2006-07-22-matrixd1t02.flac:c3328a94b6d4bad15d541d1ebada1772
-RyanAdams2006-07-22-matrixd1t03.flac:6ad83fb3ffb98af873d45e2a6d2301da
-RyanAdams2006-07-22-matrixd1t04.flac:0a90ce5aa1784ff81c8ac753b70eefc2
-RyanAdams2006-07-22-matrixd1t05.flac:e450cdeb5708fd471df06c8a60efba16
-RyanAdams2006-07-22-matrixd1t06.flac:669370a497b966c1c5c77814e0a3bed4
-RyanAdams2006-07-22-matrixd1t07.flac:81860cfe989b257a8e8fd9c4794501c5
-RyanAdams2006-07-22-matrixd1t08.flac:4802dc719989d6da969835eeee9449a7
-RyanAdams2006-07-22-matrixd1t09.flac:81b9c923c449dc207097cda0b1cb20a7
-RyanAdams2006-07-22-matrixd1t10.flac:4f93152b4818e42e27cef3d743580b50
-RyanAdams2006-07-22-matrixd1t11.flac:e0290b383171a55034b78939a4c5d3ee
-RyanAdams2006-07-22-matrixd1t12.flac:4ba58dd24f96f85d48640a7c9074d391
-RyanAdams2006-07-22-matrixd1t13.flac:f38a19865658d8ef4386f3404cc4db62
-RyanAdams2006-07-22-matrixd1t14.flac:ce1ddbcbc7325c58e8bc3cc929257541
-RyanAdams2006-07-22-matrixd1t15.flac:a06737c06ee8b03302deb701cd8d2d7b
-RyanAdams2006-07-22-matrixd1t16.flac:78f67a1ec2d3c1228af7f7e83c38bacd
-RyanAdams2006-07-22-matrixd1t01.flac:3adc892f8af26c2f9669a1e8136a2b33
-RyanAdams2006-07-22-matrixd2t02.flac:8ce3dd2b876e4d0469e23e3eb32cab02
-RyanAdams2006-07-22-matrixd2t03.flac:3c0e5202c081808512f5f7dfeeb55511
-RyanAdams2006-07-22-matrixd2t04.flac:c109bbd9a63d68ec0f36cbc76cf5d827
-RyanAdams2006-07-22-matrixd2t05.flac:efedace153e4763232328197bb5b941b
-RyanAdams2006-07-22-matrixd2t06.flac:ba3c9ab38c5a7ceea287044dd5be6dbd
-RyanAdams2006-07-22-matrixd2t07.flac:6e9d08f9b21b6684f1ce411e7bf0c4f1
-RyanAdams2006-07-22-matrixd2t08.flac:e328ef5a2031a9a64692f60d853866e5
-RyanAdams2006-07-22-matrixd2t09.flac:7de3a31a358cc07d34acaba389a49d54
-RyanAdams2006-07-22-matrixd2t10.flac:d7aa3464fcf731de8c6b750fe089dbe8
-RyanAdams2006-07-22-matrixd2t11.flac:a1aba8394be18c46eafc5b3d972ad194
-RyanAdams2006-07-22-matrixd2t12.flac:571a2d1f21998d926f4d34120474420a
-RyanAdams2006-07-22-matrixd2t13.flac:1c67a0dd7548a73dac89584c9e568405
-RyanAdams2006-07-22-matrixd2t14.flac:ac37cef3ffcab8c78fe587c6edc00a75
-RyanAdams2006-07-22-matrixd2t15.flac:40a9c7c8a3508acc1bce2a13fe9ceff7
+Ryan Adams and the Cardinals
+July 22, 2006
+Norva
+Norfolk, Va
+
+
+**16 bit source**
+
+
+Source: Matrix: B&K4022(ortf)>V3[40%] + sbd>V2[60%] >744T
+Location: inside sbd cage, dfc
+Transfer: Transfer: 744T>soundforge 7.0 (fades/resampling/dithering)>cd wave>flac
+Taped & transferred by Craig Davis
+
+
+Disc 1/Set 1:
+01 Intro/tuning
+02 Love Is Hell
+03 Let It Ride
+04 When The Stars Go Blue
+05 What Sin
+06 Please Do Not Let Me Go
+07 A Kiss Before I Go
+08 He's Gone
+09 Games
+10 Shakedown On 9th Street
+11 "Promises" 
+12 The End
+13 Blue Hotel
+14 Magnolia Mountain
+15 Mining Town
+16 I See Monsters
+
+
+Disc 2/Set 2:
+01 Banter/tuning
+02 Breakdown into the Resolve
+03 Two Hearts
+04 Everybody Knows
+05 Mockingbird Song
+06 This Is It
+07 Note To Self, Don't Die
+08 Wish You Were Here
+09 Two
+10 Dear Chicago
+11 New York, NY
+12 Beautiful Sorta
+13 Anybody Wanna Take Me Home?
+14 Hard Way To Fall
+Encore:
+15 Strawberry Wine (solo)

@@ -1,23 +1,33 @@
-Disc 1\01 Track01.flac:120cb3abb0d7d30936653905d5b1ca22
-Disc 1\02 Track02.flac:65cc2f0e9c02bba39f027f579e98a3fb
-Disc 1\03 Track03.flac:97851493fa0157332d1b0938e8c6a990
-Disc 1\04 Track04.flac:a962daab3c1686401c7da85e7478fe15
-Disc 1\05 Track05.flac:1a2b5e3e29827995006412d5beb3006d
-Disc 1\06 Track06.flac:5eda837c09d9dcf2193872a9bbdba4cd
-Disc 1\07 Track07.flac:16ac8a90f9f53fdb5745629a06c866ad
-Disc 1\08 Track08.flac:10f8b3bfd6a55f1b3d472d152d86ce6d
-Disc 1\09 Track09.flac:248a027b576feeec59f37d65700e71c9
-Disc 1\10 Track10.flac:ab09cf92078e2a886d4535ff497d9fa1
-Disc 1\11 Track11.flac:93270b7f8a74ce8297052a1b7bcc814f
-Disc 1\12 Track12.flac:0f3c10057db4a05f3738f0fe5e359f8c
-Disc 2\01 Track01.flac:25bc346157c79fc362c346c1783472bc
-Disc 2\02 Track02.flac:6cb20990c98cd4ab1191cca7de86d100
-Disc 2\03 Track03.flac:7ec18b18ca5d3bc0bc8979c2d4e60063
-Disc 2\04 Track04.flac:7597ca586864f4fe74dba3b492c4aa4c
-Disc 2\05 Track05.flac:1eefcaa8e768ec314c57c3ad7099d046
-Disc 2\06 Track06.flac:39a1f8729448fe04f4b3d6f76997949f
-Disc 2\07 Track07.flac:05d82dfc820a567978912e84358ef633
-Disc 2\08 Track08.flac:833dbb800f9448a18a11c4b6fe133bac
-Disc 2\09 Track09.flac:a46f1f267729bb845e97dd709f134f8f
-Disc 2\10 Track10.flac:9ebb299322357173e878af8edaf2e341
-Disc 2\11 Track11.flac:d4890c903446a7c82d7eaf497bb11bad
+22.06.2003
+NL, Amsterdam, Heinecken Music Hall
+Live At The Heineken Music Hall
+good / very good Aud.
+
+Disc 1: [48:00]
+01. Finest Worksong [3:20]
+02. These Days [3:37]
+03. Animal [3:31]
+04. Whats The Frequency [3:56]
+05. Fall On Me [3:44]
+06. Bad Day [5:32]
+07. Daysleeper [3:38]
+08. Imitation Of Life [4:10]
+09. Ive Been High [4:04]
+10. The Great Beyond [4:58]
+11. Exhuming McCarthy [3:55]
+12. So Central Rain [3:31]
+
+Disc 1: [1:08:06]
+01. Country Feedback [7:38]
+02. So Fast So Numb [4:40]
+03. Losing My Religion [5:02]
+04. She Just Wants To Be [6:47]
+05. I Believe [4:43]
+06. Walk Unafraid [5:02]
+07. Man On The Moon [5:27]
+08. Everybody Hurts [8:09]
+09. Favorite Writer [3:50]
+10. Cuyahoga [7:57]
+11. People Have The Power Its The End [8:47]
+
+Lineage: Trade (CDR) EAC > WAV > FLAC (Level 8) > Torrent

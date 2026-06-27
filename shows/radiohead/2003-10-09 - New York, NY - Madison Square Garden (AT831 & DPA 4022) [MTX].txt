@@ -1,1 +1,46 @@
-rh2003-10-09_mix_d1t01.flac:a85479d1901e2a5167d7a056ca050e24rh2003-10-09_mix_d1t02.flac:a619f1d43bea907e497f085b2ef9aa6drh2003-10-09_mix_d1t03.flac:3fcf424f08a1734cb0ab6f6e2f13373brh2003-10-09_mix_d1t04.flac:df61db7497e7460a15b4f55b2fe17818rh2003-10-09_mix_d1t05.flac:daed714fc5c2e4e4cec62ff43586fe88rh2003-10-09_mix_d1t06.flac:e5e875b6bfbc3d677f17ba21f6bc5b1erh2003-10-09_mix_d1t07.flac:86bc6c4a85ed5e708054a80e536c5b27rh2003-10-09_mix_d1t08.flac:e97a20cb6314f83f7e56ad96fa3e1018rh2003-10-09_mix_d1t09.flac:344c5d1333fd34e66493436b9a3eb068rh2003-10-09_mix_d1t10.flac:68f5d0430ee0c837fd7a3298ece547c9rh2003-10-09_mix_d1t11.flac:4e325d8ff3387710eda92238a73d4c7erh2003-10-09_mix_d1t12.flac:61442de6ba2690123ed3bc1ab1dfe392rh2003-10-09_mix_d1t13.flac:1620031fa3910b5876a1f1dfaad11516rh2003-10-09_mix_d1t14.flac:bba54b06cc8a53d0ada6a720e0d39006rh2003-10-09_mix_d1t15.flac:da53031c0e2dd938b0c135a1585024carh2003-10-09_mix_d2t01.flac:ddd8ee6ee9bb646a146a9cc021600bc8rh2003-10-09_mix_d2t02.flac:64718351a3f189f8f0d4a8ade98f3815rh2003-10-09_mix_d2t03.flac:a4b424ba0c977f3265ace64e0faa2936rh2003-10-09_mix_d2t04.flac:fbfb3d158e1c00962f4ac0c3d1950fe5rh2003-10-09_mix_d2t05.flac:7db0cfc93743eaa49eb465f425dc8aaerh2003-10-09_mix_d2t06.flac:9dc22454b4fbcac62cdf6dc977428919rh2003-10-09_mix_d2t07.flac:f63518625171c2fe662897f15dbe199arh2003-10-09_mix_d2t08.flac:31aeecb3972457295b2b1627c8afc709rh2003-10-09_mix_d2t09.flac:bda285189833697d4a38c3eb9e9888b2
+Radiohead
+October 09, 2003
+Madison Square Garden
+New York, NY
+
+2 Source mix: [AT831 -> M1 -> DAT(M) -> CDR -> .wav] + [DPA 4022 -> Lunatec V3 -> M1 -> DAT(M) -> SHN -> .wav] =>FLAC
+
+Tapers
+--------
+AT831: Edgar
+DPA4022: SCB & Crew
+
+Disc I
+01 2+2=5
+02 Sit Down. Stand Up.
+03 Where I End and You Begin
+04 Kid A
+05 Backdrifts
+06 Morning Bell
+07 My Iron Lung
+08 I Might Be Wrong
+09 Lurgee
+10 Sail to the Moon
+11 Paranoid Android
+12 A Punchup at a Wedding
+13 Go to Sleep
+14 The Gloaming
+15 Idioteque
+
+Disc II
+01 Fake Plastic Trees
+02 There There
+03 You and Whose Army?
+04 The National Anthem
+05 A Wolf at the Door
+06 How to Disappear Completely
+07 Karma Police
+08 True Love Waits
+09 Everything In Its Right Place
+
+
+Notes: Let's call this Edgar's mixes, act II.  I normally would never have considered mixing an AT source with a DPA4022 source, but this really is a nice improvement over the DPA.  The vocals on the AT831 are much clearer, which goes nicely with overall better sound the DPAs produce.
+
+mix and edit by BLG
+compiled on 04-12-05
+

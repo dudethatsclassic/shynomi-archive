@@ -1,20 +1,39 @@
-tsp1996-11-16d1t01.flac:5bc321639f7a8a1e65e0eeb57dc57aa7
-tsp1996-11-16d1t02.flac:5d49f9ec22a2e127ed14a3cc1feb1329
-tsp1996-11-16d1t03.flac:daa89200e508ad7efb66e9ed0cdf2b9f
-tsp1996-11-16d1t04.flac:c8893ef4b9352eefc11398b4ab39b42e
-tsp1996-11-16d1t05.flac:9b54d4b715c7d4098893851b3e5d5288
-tsp1996-11-16d1t06.flac:1cc1c7270920c78d137386aab05bebb4
-tsp1996-11-16d1t07.flac:ee6ff0bb075684745346244d69be3161
-tsp1996-11-16d1t08.flac:69946feb0eb26462aaffa1a02fde7d5a
-tsp1996-11-16d1t09.flac:2a3d832fe760eeacefc44a3ce3728a7e
-tsp1996-11-16d1t10.flac:3f6dc4db7870ff7eae078b5f22d119b4
-tsp1996-11-16d1t11.flac:a603166f6ac4f0277e8bc6cf71d8d1cc
-tsp1996-11-16d1t12.flac:4f5aed986c5e28c2a1e4efe159a6f782
-tsp1996-11-16d1t13.flac:7e78fa40040f59a60dc0a83062b85e1c
-tsp1996-11-16d1t14.flac:205de7c39b6574f2a5aa5d5ea839d15a
-tsp1996-11-16d1t15.flac:5cd9f9f71bf2926a0073bbcc88e70b3e
-tsp1996-11-16d2t01.flac:150d2778118bcaed57b3789f2e2f1975
-tsp1996-11-16d2t02.flac:00e481f610528a31ab5b8686e8a01db2
-tsp1996-11-16d2t03.flac:025835df122edb8059f8d50617720606
-tsp1996-11-16d2t04.flac:b4d6eee69cd5167b72f420bcd49be2da
-tsp1996-11-16d2t05.flac:4d95d8971b7760ef543c478e92c9adda
+The Smashing Pumpkins
+11/16/1996
+Lakeland Civic Center
+Lakeland, FL
+
+Taper:            unknown
+Source:           ECM-909A > D8
+Conversion:       DDC-2 > PCM-R300 > Audiophile 2496 > WAV > SHN > CDR-0
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. MCIS
+2. Where Boys Fear to Tread
+3. Zero
+4. Fuck You
+5. Tonight, Tonight
+6. By Starlight
+7. Today
+8. Thru the Eyes of Ruby
+9. Cherub Rock
+10. Galapogos
+11. Beautiful
+12. Disarm, Bullet with Butterfly Wings (abandoned)
+13. Bullet with Butterfly Wings
+14. Muzzle
+15. Porcelina of the Vast Oceans > Rocket (tease)
+
+Disc 2
+1. Rhinoceros (tease)
+2. Siva, Drown > Hummer (tease)
+3. (picking the dancers)
+4. 1979 (with The Frogs)
+5. X.Y.U.

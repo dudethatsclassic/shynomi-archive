@@ -1,11 +1,23 @@
-tsp2000-05-20d0t11.flac:8288ad1b303c17346080b7fe8d564061
-tsp2000-05-20d0t01.flac:d61fa714bc41e30f9a55fcce1c1cf564
-tsp2000-05-20d0t02.flac:ed02d13c7ed9647fa884f338967135c9
-tsp2000-05-20d0t03.flac:ec8ae62627cea7dfe1b51a24509911e5
-tsp2000-05-20d0t04.flac:1a646d9c20329b3285b148723724137a
-tsp2000-05-20d0t05.flac:7da91028ff15a51ecd37cf33cdf7fa9c
-tsp2000-05-20d0t06.flac:224216f29d11d0e1327f7ec6eaeb1427
-tsp2000-05-20d0t07.flac:7ce75502ff0041f77a301b1fbefb5a53
-tsp2000-05-20d0t08.flac:a10715daac6be77c44565c07878d9001
-tsp2000-05-20d0t09.flac:7578e3f6100f9b3ae85d2c12705ec4f0
-tsp2000-05-20d0t10.flac:a85602170176b7f2bdbe5d698d365df7
+The Smashing Pumpkins
+05/20/2000
+Open Air Theater
+San Diego, CA
+
+soundcheck
+
+Source: CSBmod>D7
+
+01. mic checks
+02. Snail
+03. Snail (continued)
+04. Snail
+05. The Everlasting Gaze
+06. Heavy Metal Machine (take one)
+07. Heavy Metal Machine (take two)
+08. Heavy Metal Machine (sections)
+09. Porcelina jam 
+10. Porcelina jam (continued)
+11. outro
+
+taped from balcony behind stage
+Porcelina jam is based on the riff that would be used as the outro for performances on the Fall European tour

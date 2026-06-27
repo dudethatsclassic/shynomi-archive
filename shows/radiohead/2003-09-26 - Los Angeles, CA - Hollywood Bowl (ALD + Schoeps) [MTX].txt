@@ -1,24 +1,45 @@
-rh2003-09-26d1t01.flac:4d2bdd1b85073dafec27e1954605ac64
-rh2003-09-26d1t02.flac:7946746f6a564550cc78f57372ecb8a5
-rh2003-09-26d1t03.flac:fa9c5619b6840792729fbf8f782874a9
-rh2003-09-26d1t04.flac:f143b71db382788e5bbb8254e622cd6a
-rh2003-09-26d1t05.flac:725a4c1c0ed63d294162433376cfc8f6
-rh2003-09-26d1t06.flac:759a1714cf30b8c6e1749e303f977015
-rh2003-09-26d1t07.flac:1bf3dc4d4390198a0d0ee15722439c77
-rh2003-09-26d1t08.flac:b7a95d3108a4e60fb99278df61dab60e
-rh2003-09-26d1t09.flac:4cc37735b8cfa583e9924004b3c4a042
-rh2003-09-26d1t10.flac:a0168e96c220639a26837d245503de75
-rh2003-09-26d1t11.flac:eb9f8fad9d81dc886d0b09dfd8f03f04
-rh2003-09-26d1t12.flac:1b50588b255940fe6008233e39779ba6
-rh2003-09-26d1t13.flac:f5cebef5e2b02f22350f3a7d503f6005
-rh2003-09-26d1t14.flac:f637cd4960a5cd6a725d088119301545
-rh2003-09-26d1t15.flac:d6e4d3398162af4cdeed2633f19e0732
-rh2003-09-26d1t16.flac:b5d806e3f088b491b8d266b35b2890fe
-rh2003-09-26d2t01.flac:6af2e57d502cc4266cb9493ae45ef4ce
-rh2003-09-26d2t02.flac:d8d4ea06737194dee6dfa9841cc6459f
-rh2003-09-26d2t03.flac:017e446029708e8b01fafda8d8ea7580
-rh2003-09-26d2t04.flac:1b56c156ff21e618b6c9e316a6bab103
-rh2003-09-26d2t05.flac:338934734385fa3ba5a41a0d67e05c22
-rh2003-09-26d2t06.flac:168e47748245832b3b7daa5a5f376f9c
-rh2003-09-26d2t07.flac:4d2d79f7c53a0ce0365268d40ba6235a
-rh2003-09-26d2t08.flac:f8cd411df92fcd8190445146ba1c8985
+Radiohead
+September 26, 2003
+Hollywood Bowl
+Los Angeles, CA
+
+
+Source: [ALD->Sony TCD-D8->DAT(M)->CDR(1)->.wav] +
+	[Schoeps MK4->mod Lemosax->SBM-1->Sony TCD-D100->DAT(M)->.wav] => FLAC
+
+Transfers: MK4: master DAT -> M1 -> 7 pin -> Dio 2496 -> CEP 2.1 
+	   ALD: master DAT -> DA-30MKII -> coax -> Marantz CDR630 -> CDR(1)(untracked)
+
+
+Disc I
+01 2+2=5
+02 Sit Down. Stand Up.
+03 Where I End and You Begin
+04 Kid A
+05 Backdrifts
+06 Morning Bell
+07 My Iron Lung
+08 I Might Be Wrong
+09 Creep
+10 Sail to the Moon
+11 Big Ideas
+12 Paranoid Android
+13 A Punchup At a Wedding
+14 Go to Sleep
+15 The Gloaming
+16 Idioteque
+
+Disc II
+01 No Surprises
+02 There There
+03 You and Whose Army?
+04 The National Anthem
+05 A Wolf at the Door
+06 Fake Plastic Trees
+07 Airbag
+08 Everything In Its Right Place
+
+
+mix and edit by BLG
+compiled on 01-28-04
+

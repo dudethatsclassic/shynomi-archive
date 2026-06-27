@@ -1,1 +1,35 @@
-1-01 The National Anthem -_ Hunting Bears.flac:653171e3e153774b8fa2ce2ad92f74231-02 Morning Bell.flac:a90bb371514e9ee945a82585654eec1c1-03 Airbag.flac:0f1d15a804fa841cd4c7932848d49aab1-04 Lucky.flac:8afb2356c0ecd156455443d36052e18c1-05 In Limbo.flac:5562cb57dbaa128ccc421151f2e9c3f91-06 Knives Out.flac:06e820c919339dd7a948a9ab5149384b1-07 No Surprises.flac:e766bf25cfc55ef7494444a4dbda24d61-08 Dollars and Cents.flac:59c15c379c75f91e92daf56cb1b112b41-09 Talk Show Host.flac:ef42e219aaaeb42833cb072980aafaff1-10 Just.flac:4802cb8507b525220e09e445271c6be61-11 Exit Music.flac:517e44b43070191f8ec633de9cf8954f1-12 I Might Be Wrong.flac:978d17e44819c6988da2dd4da90ef74e2-01 Pyramid Song.flac:8e6cfb293c3408f93b2da823b72341f82-02 Paranoid Android.flac:c19cedcec6f44706b1cdd39108600e9f2-03 Idioteque.flac:e7fbb14fc62d25529f61898ddfabc7bf2-04 EiiRP.flac:028924354870b75e8049e56c0a6b288c2-05 Like Spinning Plates.flac:7b7d5ce1f1088634deef7c0982cfea8b2-06 My Iron Lung.flac:b3930f79370a41836cd45ce989de452b2-07 You and Whose Army_.flac:b713b78c2994820f4249da2c030e2d212-08 How to Disappear Completely.flac:44896de5f96f9d901bf89a61378867812-09 Karma Police.flac:f943add051303792242cafa7c351e6432-10 Street Spirit.flac:68761b6f5f67144b2cffa53dc47e4afd
+Radiohead
+10-03-01
+Yokohama Arena
+Yokohama, Japan
+
+Source: SS DSM6S > PA-6LC3 > D100
+
+WAV > SHN: Toshiba SD-M1502 > EAC09 > mkw
+
+Disc I
+01 National Anthem/ Hunting Bears
+02 Morning Bell
+03 Airbag
+04 Lucky
+05 In Limbo
+06 Knives Out
+07 No Surprises
+08 Dollars & Cents
+09 Talk Show Host
+10 Just
+11 Exit Music
+12 I Might Be Wrong
+
+Disc II
+01 Pyramid Song
+02 Paranoid Android
+03 Idioteque
+04 Everything In Its Right Place
+05 Like Spinning Plates
+06 My Iron Lung
+07 You and Whose Army?
+08 How to Disappear Completely
+09 Karma Police
+10 Street Spirit
+

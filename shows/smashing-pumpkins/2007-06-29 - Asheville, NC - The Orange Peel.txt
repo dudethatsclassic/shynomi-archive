@@ -1,31 +1,54 @@
-sp2007-06-29t01.flac:1037c5f996600b0818c042f7fdd35035
-sp2007-06-29t02.flac:056085cb56cb2a20876bb3d14f94bb3d
-sp2007-06-29t03.flac:9e9e51e8597edcc319a1b90b96a2bfea
-sp2007-06-29t04.flac:efeb9e91ae21d147420a456f72e159c0
-sp2007-06-29t05.flac:d085bfcffe41b036d246f6b8e6784e66
-sp2007-06-29t06.flac:98535468f78c01dca781b34e924f8d06
-sp2007-06-29t07.flac:5d646dd74e9c68f2bfb6cd4074e40fdb
-sp2007-06-29t08.flac:294e433a93e1849d1a162863d933d1ac
-sp2007-06-29t09.flac:ac238fe983a54f92d77ee81dffa5f2c5
-sp2007-06-29t10.flac:7b0e3e555af9198cb34f21010cd767aa
-sp2007-06-29t11.flac:3c348a968ca6afaa9f8c357aa89ec852
-sp2007-06-29t12.flac:ac7bd8728a26788848314bb5b90e1450
-sp2007-06-29t13.flac:e9d8468d0e1c905cbca56d8627d68fe3
-sp2007-06-29t14.flac:5d727302bd02858602768264b531c5f4
-sp2007-06-29t15.flac:528bd7af6a592b397d3d33405b4b49c2
-sp2007-06-29t16.flac:3c972397d64ce0f1387c9381a1d10f10
-sp2007-06-29t17.flac:75ebae031223fb3d9838e964d7c2e708
-sp2007-06-29t18.flac:b4d2ba93640d28ef65245abd6d8c2e23
-sp2007-06-29t19.flac:fb09b58189dd225739aa142182fe484c
-sp2007-06-29t20.flac:4a7c8985089fa202e055b42f42498852
-sp2007-06-29t21.flac:9dcf3f095ffa7b9e9d1e234736147454
-sp2007-06-29t22.flac:b366128a6a2821ea26d56f6fdf447422
-sp2007-06-29t23.flac:5bdaf4e8cff72c92e17397d6a40d554a
-sp2007-06-29t24.flac:eab52a297ebeb58f0d3f02615412debf
-sp2007-06-29t25.flac:13183e519a6e97ede7d1147b2cc3d9db
-sp2007-06-29t26.flac:6bb538485a5bff29e6ab513f9d7fb6f9
-sp2007-06-29t27.flac:2be80236c65fcf91085ce9780d30a395
-sp2007-06-29t28.flac:fa2ed33516311d1d42dd753a46d84f0e
-sp2007-06-29t29.flac:9ba1e11f9072dee6be0c72fe09925d12
-sp2007-06-29t30.flac:6a879f1ed6bedac71be00c85f7725e68
-sp2007-06-29t31.flac:fd71ddb7e69711a77f3c9cd8f327b581
+Smashing Pumpkins
+The Orange Peel
+Asheville, NC, USA
+2007-06-29
+
+Source: CSC's> Battery Box> M-Audio Microtrack 24/96 (24/48)
+Location: In front of soundboard, slightly right of stage center
+Taper: Matt (matt@xjsb125.com)
+
+Transfer: Microtrack> wav> Adobe Audition 1.5 (fades)> wav> CD Wave> FLAC
+
+Set 1:
+01 - Intro
+02 - United States
+03 - Doomsday Clock
+04 - Bleeding The Orchid
+05 - Neverlost
+06 - Hummer
+07 - The Aeroplane Flies High
+08 - Home
+09 - Bullet With Butterfly Wings
+10 - Tarantula
+11 - Glass And The Ghost Children
+12 - Blue Skies Bring Tears
+
+Set 2:
+13 - If All Goes Wrong
+14 - Mama
+15 - With Every Light
+16 - Translucent
+17 - Starla
+18 - Fuck You (An Ode To No One)
+19 - Stand Inside Your Love
+20 - In My Body
+21 - Lucky 13
+22 - Heavy Metal Machine
+23 - Winterlong
+24 - The Crying Tree Of Mercury
+25 - Rocket
+26 - Tonight, Tonight
+27 - Cherub Rock
+28 - Zero
+29 - Disarm
+
+Encore:
+30 - ?
+31 - Untitled
+
+Notes:
+This recording is plagued by excessive wind noise from the giant overhead fan inside the Peel. Alternate recordings are available for this date. 
+
+****************************************
+*Please do not convert to lossy formats*
+****************************************

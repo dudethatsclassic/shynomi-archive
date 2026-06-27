@@ -1,14 +1,24 @@
-1-Battery.flac:30840b95b23189b34cb8a217d6ebd7ca
-2-Masters of Puppets.flac:089920dc1cb8ddd7e2352304c71dc4f0
-3-For Whom the Bells tolls.flac:7bbc02dd9da7bf2bfb1eee4af599c310
-4-The Thing that should not be.flac:240456ac343844362865aba69bd05d74
-5-Instrumental Improvisation.flac:00ad8f311c5824e8deddb81b28b16f9b
-6-Whiplash.flac:c7d03cb88ea08af8bcb8e6cef298eb02
-7-Fade to Black.flac:fce033ae7afbbb2b82884da7c70c03a4
-8-Seek and Destroy.flac:e182dfbe7ee83b0cf7528f941f28ff29
-9-Creeping Death.flac:20482c2382c9be54eaee3ce19bef896e
-10-Four Horsemen.flac:3e1934bbb8fed11481f8b1308b9143e5
-11-Guitar Solo.flac:f0876719743ea7165bf7ce3b8622e085
-12-Am I evil.flac:36cc7043794aed8f4bf72bbcb3e2fe26
-13-Damage Inc..flac:c7264298a2b46b31e39290b366ea946c
-14-Fight Fire with Fire.flac:ccb89cf07d9527fc5b10a40b26390102
+Metallica-The Metal Masters
+Winnipeg, Payhouse Theatre, December 13th 1986.
+Flashback World Production
+
+total running time 70:11
+
+Silver CD>EAC>WAV>Flac
+
+1. Battery
+2. Master of Puppets
+3. For Whom the Bell Tolls
+4. The Thing That Should Not Be
+5. Instumental Improvistion
+6. Whiplash
+7. FAde To Black
+8. Seek and Destroy
+9. Creeping Death
+10 Four Horsemen
+11. Guitar Solo
+12. Am I Evil
+13. Damage Inc.
+14. Fight Fire With Fire
+
+ripped by possessed on 12-1-06

@@ -1,27 +1,44 @@
-Disc 1\01 Track01.flac:fd7315689a6878776ef2b9a442a62a82
-Disc 1\02 Track02.flac:d3fd7912b4932001c8182d2944302363
-Disc 1\03 Track03.flac:3fb216a86f12186ac5806beb5dd86b48
-Disc 1\04 Track04.flac:dbb99dc9d5767dbb447313a52e23e2d1
-Disc 1\05 Track05.flac:3c6af79dd2817e75a62f352747b3d5b4
-Disc 1\06 Track06.flac:0f31b72144f6fa801edd16269aee093d
-Disc 1\07 Track07.flac:19b3a4b4de12765b066fa16c212511f2
-Disc 1\08 Track08.flac:a72bd04a1fb12e4de51974d57bb83e79
-Disc 1\09 Track09.flac:c5caa754155f356015554e091b107a8f
-Disc 1\10 Track10.flac:2951b8830167cad4188ca201a7281c49
-Disc 1\11 Track11.flac:b956967c4f05b86edfd9cffbb4a64c61
-Disc 1\12 Track12.flac:5a04e43b02382a3818400573f6b9444d
-Disc 1\13 Track13.flac:1bf13340c02d5fcb1c410129e9541b58
-Disc 1\14 Track14.flac:313bacbc610e180aed25a8d96c2b9da5
-Disc 1\15 Track15.flac:122fb0647d6e6527bbb0e314efd906d0
-Disc 1\16 Track16.flac:71b2ef25b7b444a5c15887998b3494d1
-Disc 1\17 Track17.flac:fc72d45ff27ed109e3737b6d9a405c57
-Disc 2\01 Track01.flac:b410906a5e08a1cbda9326f73c3e4b02
-Disc 2\02 Track02.flac:ab8360bd715ea3fc0aa130bfd3529a15
-Disc 2\03 Track03.flac:dceb3829b254bc825f6cd251020fd50b
-Disc 2\04 Track04.flac:2c3362737a7628f19635a890fe262966
-Disc 2\05 Track05.flac:417100e3ff83b4578921817b5d0099aa
-Disc 2\06 Track06.flac:81a60cb6599c3dbceed9b92ccc3558f7
-Disc 2\07 Track07.flac:b2a9e05da156b11feca1e7d85d3ab307
-Disc 2\08 Track08.flac:08c3a56032682c779e683353d5c50187
-Disc 2\09 Track09.flac:c79cd128128fb0cd990127693461774f
-Disc 2\10 Track10.flac:9d9c06436fa54a5cc9bb1b63e3077a23
+27.10.2004
+USA, Cincinnati, Taft Theatre
+Around The Sun Tour Cincinnati
+very good Aud.
+
+Disc 1: [1:10:06]
+01.  Around the Sun [4:58]
+02.  Finest Worksong [3:54]
+03.  Begin the Begin [3:58]
+04.  Exhuming McCarthy [3:31]
+05.  Animal [4:40]
+06.  Boy in the Well [5:44]
+07.  Cuyahoga [4:43]
+08.  High Speed Train [5:25]
+09.  Michael talks [4:36]
+10.  Drive [0:54]
+11.  Electron Blue * [4:19]
+12.  The One I Love [3:18]
+13.  Bad Day [4:39]
+14.  Michael talks [1:18]
+15.  I Wanted To Be Wrong [5:13]
+16.  Imitation Of Life [4:20]
+17.  Final Straw [4:28]
+
+Disc 2: [43:15]
+01.  Losing My Religion [4:39]
+02.  Walk Unafraid [4:58]
+03.  Life and How To Live It [4:38]
+04.  What's the Frequency, Kenneth? [4:07]
+05.  Leaving New York [5:09]
+06.  Sweetness Follows [4:51]
+07.  Band Intros / Michael talks [3:05]
+08.  Permanent Vacation [2:57]
+09.  I'm Gonna DJ [2:27]
+10.  Man On the Moon [6:19]
+
+Notes:
+* first time performed live
+
+Source: Aiwa Stereo Mics > Aiwa cassette recorder > ANA(M) > CDR(1)
+Conversion: CDR(1) > EAC > .wav > FlacFrontend v1.7.1 > .flac (level 8)
+Taper: Randy S.
+
+Lineage: Trade (CDR) EAC > WAV > FLAC (Level 8) > Torrent

@@ -300,7 +300,7 @@ const ARTIST_DATA = {
       "notes": "Western",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2000-07-18 - Nashville, TN - ExitInn - Western Beat Radio Show [FM].txt"
+      "textFile": "2000-07-18 - Nashville, TN - ExitInn - Western Beat Radio Show [FM].rtf"
     },
     {
       "year": 2000,
@@ -1596,7 +1596,7 @@ const ARTIST_DATA = {
       "notes": "chris migliaccio",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2002-04-09 - London, England - Brixton Academy [SBD].txt"
+      "textFile": "2002-04-09 - London, England - Brixton Academy [SBD].rtf"
     },
     {
       "year": 2002,
@@ -3520,7 +3520,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2006-04-23 - Seattle, WA - Moore Theater [SBD].txt"
+      "textFile": "2006-04-23 - Seattle, WA - Moore Theater [SBD].rtf"
     },
     {
       "year": 2006,
@@ -3534,7 +3534,7 @@ const ARTIST_DATA = {
       "notes": "chris migliaccio",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2006-04-24 - Portland, OR - Roseland Theatre [SBD].txt"
+      "textFile": "2006-04-24 - Portland, OR - Roseland Theatre [SBD].rtf"
     },
     {
       "year": 2006,
@@ -3954,7 +3954,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4027",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2006-12-04 - New York, NY - Town Hall [SBD].txt"
+      "textFile": "2006-12-04 - New York, NY - Town Hall [SBD].rtf"
     },
     {
       "year": 2006,
@@ -3982,7 +3982,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2006-12-05 - New York, NY - Town Hall [SBD].txt"
+      "textFile": "2006-12-05 - New York, NY - Town Hall [SBD].rtf"
     },
     {
       "year": 2006,
@@ -4010,7 +4010,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2006-12-06 - New York, NY - Town Hall [SBD].txt"
+      "textFile": "2006-12-06 - New York, NY - Town Hall [SBD].rtf"
     },
     {
       "year": 2006,
@@ -4472,7 +4472,7 @@ const ARTIST_DATA = {
       "notes": "jon carter",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2007-07-19 - Los Angeles, CA - The Wilshire [SBD].txt"
+      "textFile": "2007-07-19 - Los Angeles, CA - The Wilshire [SBD].rtf"
     },
     {
       "year": 2007,
@@ -4822,7 +4822,7 @@ const ARTIST_DATA = {
       "notes": "john carlin and joel swaney",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2007-09-27 - Minneapolis, MN - State Theater [SBD].txt"
+      "textFile": "2007-09-27 - Minneapolis, MN - State Theater [SBD].rtf"
     },
     {
       "year": 2007,
@@ -5493,7 +5493,7 @@ const ARTIST_DATA = {
       "notes": "paul massaro",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2008-09-01 - Winnipeg, Manitoba - MTS Center [SBD].txt"
+      "textFile": "2008-09-01 - Winnipeg, Manitoba - MTS Center [SBD].rtf"
     },
     {
       "year": 2008,
@@ -7841,8 +7841,7 @@ const ARTIST_DATA = {
       "venue": "nTelos Wireless Pavilion",
       "notes": "Zoom H2 \u00b7 chief kurtz",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2015-05-03 - Charlottesville, VA - nTelos Wireless Pavilion [AUD].flac.txt"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -8133,8 +8132,7 @@ const ARTIST_DATA = {
       "venue": "Sprint Pavilion",
       "notes": "iPhone \u00b7 chazzarelli",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2016-07-19 - Charlottesville, VA - Sprint Pavilion [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -8161,8 +8159,7 @@ const ARTIST_DATA = {
       "venue": "Newport Folk Festival",
       "notes": "NPR stream",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2016-07-23 - Newport, RI - Newport Folk Festival [AUD2].txt"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -8175,8 +8172,7 @@ const ARTIST_DATA = {
       "venue": "Newport Folk Festival",
       "notes": "Tunein Livestream",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2016-07-23 - Newport, RI - Newport Folk Festival [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -8384,8 +8380,7 @@ const ARTIST_DATA = {
       "venue": "Rough Trade NYC",
       "notes": "Early Show \u00b7 MKE 2 \u00b7 lowden",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2017-02-18 - Brooklyn, NY - Rough Trade NYC (Early Show) [AUD].aud.txt"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -8647,8 +8642,7 @@ const ARTIST_DATA = {
       "venue": "Passeio Mar\u00edtimo de Alg\u00e9s",
       "notes": "NOS",
       "version": "WEB",
-      "format": "FLAC",
-      "textFile": "2017-07-06 - Oeiras, Portugal - Passeio Mari\u0301timo de Alge\u0301s - NOS Alive 2017 [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -8773,8 +8767,7 @@ const ARTIST_DATA = {
       "venue": "Avenue of the Saints Amphitheater and Event Center",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2017-08-05 - Saint Charles, IA - Avenue of the Saints Amphitheater and Event Center [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -8829,8 +8822,7 @@ const ARTIST_DATA = {
       "venue": "Domein Kiewit",
       "notes": "Pukkelpop",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2017-08-17 - Hasselt, Belgium - Domein Kiewit - Pukkelpop [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2017,
@@ -8954,7 +8946,7 @@ const ARTIST_DATA = {
       "notes": "ms",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2018-06-14 - Morrison, CO - Red Rocks Amphitheatre [AUD].txt"
+      "textFile": "2018-06-14 - Morrison, CO - Red Rocks Amphitheatre [AUD].rtf"
     },
     {
       "year": 2021,
@@ -9077,7 +9069,7 @@ const ARTIST_DATA = {
       "notes": "Tascam iM2W \u00b7 ms",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-11-29 - Omaha, NE - Holland Performing Arts Center (Tascam iM2W) (ms) [AUD].txt"
+      "textFile": "2022-11-29 - Omaha, NE - Holland Performing Arts Center (Tascam iM2W) (ms) [AUD].rtf"
     },
     {
       "year": 2023,
@@ -9522,7 +9514,7 @@ const ARTIST_DATA = {
       "notes": "Tascam iM2 \u00b7 ms",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2025-06-16 - Des Moines, IA - Hoyt Sherman Place (Tascam iM2) (ms) [AUD].txt"
+      "textFile": "2025-06-16 - Des Moines, IA - Hoyt Sherman Place (Tascam iM2) (ms) [AUD].rtf"
     },
     {
       "year": 2025,

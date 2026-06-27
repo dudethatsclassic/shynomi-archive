@@ -1,23 +1,44 @@
-tsp1997-02-02d1t01.flac:3cd9896ef2176b4fa43ef793bf3e70c2
-tsp1997-02-02d1t02.flac:20ae164e20fdd6677864f5d3676769a9
-tsp1997-02-02d1t03.flac:c06578dce0e768a704e998403b810877
-tsp1997-02-02d1t04.flac:9e057da795299defa457660aa791adee
-tsp1997-02-02d1t05.flac:6ddad9c948bffe7241e68705db879709
-tsp1997-02-02d1t06.flac:814803b025fb8d7d640fd755fbdf094f
-tsp1997-02-02d1t07.flac:b060471a1f0814851e96b6aacde732e9
-tsp1997-02-02d1t08.flac:aeafce88798bb80ee24cf0982a7ffd38
-tsp1997-02-02d1t09.flac:6d3ef56f3e79dcee24ecad3bfb91c9fa
-tsp1997-02-02d1t10.flac:04f42721499c397b5f73548913898915
-tsp1997-02-02d1t11.flac:f9289b9b4195776c4202a5708b5838d0
-tsp1997-02-02d1t12.flac:6e395e3a962c54879970e4bd8b882e2b
-tsp1997-02-02d2t01.flac:fcb7195d1d26aaaa998860fe8953f7a2
-tsp1997-02-02d2t02.flac:cb72955f48ac87e5c1d67a42cea278c4
-tsp1997-02-02d2t03.flac:dd72b8a5359b55310719d1b99d3809cc
-tsp1997-02-02d2t04.flac:6f44ef4d503c730ff4efde132cda14d5
-tsp1997-02-02d2t05.flac:93c5e5e7f116525b30b2a7ab68014a2b
-tsp1997-02-02d2t06.flac:af9468cdf84c5842048101ba66e40e26
-tsp1997-02-02d2t07.flac:1048d11af2ef64b1115192708606eb39
-tsp1997-02-02d2t08.flac:3559b42e94b910d9011b7be1f4dd64f7
-tsp1997-02-02d2t09.flac:28f8ee0aaa81e583a24e8cae3e9ed80d
-tsp1997-02-02d2t10.flac:5f200bb54ec92b6e728cd1513107b419
-tsp1997-02-02d2t11.flac:9c3ab44a2308da75cfbedd62561e0d8d
+The Smashing Pumpkins
+02/02/1997
+Jacksonville Coliseum
+Jacksonville, FL
+
+Taper:            unknown
+Source:           unknown analog recorder
+Conversion:       ANA-2 > Sony TC-WE825S > Tascam DA-20MKii(A>D @ 44.1kHz)> Monster coax > Delta Dio 2496 > Adobe Audition 2.0
+Editor:           Andrew Fogelsong
+Editing:          shortened tape flip gaps to 1 sec
+FLAC:             master wav's > CD Wave Editor 1.95 > FLAC (level 8)
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+
+1. MCIS
+2. Tonight, Tonight
+3. Cherub Rock
+4. Where Boys Fear To Tread
+5. Rhinoceros
+6. Rocket
+7. Zero
+8. Fuck You
+9. Porcelina of the Vast Oceans
+10. La Dolly Vita (tease) > Thirty-Three
+11. Today
+12. Bullet with Butterfly Wings > Swallowed [Bush] (tease)
+
+Disc 2
+
+1. Muzzle
+2. Disarm
+3. Thru the Eyes of Ruby
+4. Lovefool [Cardigans] (tease) / picking the dancers
+5. 1979
+6. Obscured (tease) > Tristessa (tease) > Slunk (tease) > Landslide [Nicks] (tease) > Quiet (tease) > Mouths of Babes (tease) > Rotten Apples (tease) > To Forgive (tease)
+7. To Forgive
+8. XYU
+9. Drown > Hummer (tease)
+10. Siva
+11. The Aeroplane Flies High (cut after ~15 seconds)

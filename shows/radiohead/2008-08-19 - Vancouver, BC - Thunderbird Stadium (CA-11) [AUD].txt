@@ -1,26 +1,46 @@
-rh2008-08-19t01.flac:d0d93e0f2776c5232f211e8aec7bf3ea
-rh2008-08-19t02.flac:484fbb70f9e210bcfb193aea351bcdd5
-rh2008-08-19t03.flac:e0a86ac2c3fb4c726245872c81514947
-rh2008-08-19t04.flac:df47ad5965fc07eed99cd5be6f5da43c
-rh2008-08-19t05.flac:3b72369b59fcad3a85a75dc77fe6ec5a
-rh2008-08-19t06.flac:a0ca93f9f1a0683e31149ae4f7ac585c
-rh2008-08-19t07.flac:0b6bc31e62cabcfa8302cbf5899a2368
-rh2008-08-19t08.flac:38958dc84c7b547e33656ec2a9e21616
-rh2008-08-19t09.flac:b76d5163a293992d67877e657d489241
-rh2008-08-19t10.flac:52f2f4070ce749d62b670e34651bc989
-rh2008-08-19t11.flac:df7c3944b745be7484a0074c5846dc4e
-rh2008-08-19t12.flac:e1ce1ffc79d50b069bab3194f91ae6da
-rh2008-08-19t13.flac:2de2f449cdb9f34de1c25863f58a296a
-rh2008-08-19t14.flac:188503ee8393cfb10de3c4862cc200a0
-rh2008-08-19t15.flac:cd1875b10f22c4c3596c9576fc7d4e33
-rh2008-08-19t16.flac:80c1888eb978142ab29d2deb0d9568df
-rh2008-08-19t17.flac:947b583108cc319ea54d656595780cb6
-rh2008-08-19t18.flac:7596dfcb1a9780c09d9f13dc19dbad44
-rh2008-08-19t19.flac:48ca18fe3444ebacfc1a10fefc05c4f2
-rh2008-08-19t20.flac:c953ef6eef7fc48c480f804a487fa1dd
-rh2008-08-19t21.flac:109f9b0bc99859004fda59b2857fbd00
-rh2008-08-19t22.flac:c086ee527f36c2c9e4a2bf676936d2a0
-rh2008-08-19t23.flac:522d5248847a3199cff3e8da0002ade5
-rh2008-08-19t24.flac:1fd7dfd79adfcbef878b70949b4e0da3
-rh2008-08-19t25.flac:2402d238ad8cd92fcee7baecc7c190f3
-rh2008-08-19t26.flac:4240c0982c56a6211e480f01cce64da3
+Radiohead
+Thunderbird Stadium
+Vancouver, BC
+2008-08-19
+
+01. Intro
+02. 15 Step
+03. There There
+04. Morning Bell
+05. All I Need
+06. Where I End And You Begin
+07. Talk Show Host
+08. Nude
+09. Arpeggi
+10. The National Anthem
+11. Bangers and Mash
+12. Faust Arp
+13. Videotape
+14. Karma Police
+15. Jigsaw Falling Into Place
+16. Just
+17. Exit Music (For A Film)
+18. Bodysnatchers
+
+Encore 1: (crowd noise cut)
+
+19. House Of Cards
+20. Optimistic
+21. You And WHose Army
+22.Planet Telex
+23. Everything In Its Right Place
+
+Encore 2: (not cut)
+
+24. Reckoner
+25. 2+2=5
+26. Paranoid Android
+
+COmmets:
+Second source of this show to come out. This recording was incomplete due to some problems with my r-09 in the rain. Tracks 22-26 were lost in a corrupt file. firmdragon has kindly supplied me with those tracks from his recording.
+
+Tracks: 1-21 by smashing0
+CA-11 > BAT-2B > Edirol r-09
+
+Tracks: 22-26 by firmdragon
+DPA 4061>diybb>IHP-H140

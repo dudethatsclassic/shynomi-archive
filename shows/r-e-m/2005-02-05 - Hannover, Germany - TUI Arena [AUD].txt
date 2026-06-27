@@ -1,26 +1,50 @@
-REM05-02-2005d1t01.flac:74fd52e792a9487b5e2c5795aa5cbf98
-REM05-02-2005d1t02.flac:c061b7aead079f6186a2f4f2c92bd354
-REM05-02-2005d1t03.flac:b5b39e29aa5980a7a965a575c5a6c4b4
-REM05-02-2005d1t04.flac:2aea093862adac989f3ec2568a97bc44
-REM05-02-2005d1t05.flac:7bc83e2d21ffb2b6dd056ace0ff92b89
-REM05-02-2005d1t06.flac:32b46db5ff7cf9f74ee62746efbef45d
-REM05-02-2005d1t07.flac:be974f313fd0b9c7ad93db9440457b0e
-REM05-02-2005d1t08.flac:2bd0d70a361cb3d5ab7fb70b8ce09b65
-REM05-02-2005d1t09.flac:475e929d63af83e455866258581e3061
-REM05-02-2005d1t10.flac:00ef539e1c20aa8e1768a4a1d9600852
-REM05-02-2005d1t11.flac:b8ac461fe0a0d6904c35c311b7f665cd
-REM05-02-2005d1t12.flac:b7c05d6fdcb1cdce7aa0d49b8392d8cc
-REM05-02-2005d1t13.flac:5831c9c7b91d4a2ce3830454bbe59928
-REM05-02-2005d1t14.flac:fbf0cb30991a9e348f0af10e4a7809b0
-REM05-02-2005d1t15.flac:92ba4ddcf5bae5ef9386acbf6366083e
-REM05-02-2005d2t01.flac:8436b77ced23ebf9dfab12be5332ee40
-REM05-02-2005d2t02.flac:cf751ae382cbbca893a3833a0dbfd440
-REM05-02-2005d2t03.flac:0735643d68c6e58cf82aa600b3f464e3
-REM05-02-2005d2t04.flac:5a8b0f810e51631b15cea856948828e1
-REM05-02-2005d2t05.flac:a5dfd185ca9f9e083d642c6e4e0226ef
-REM05-02-2005d2t06.flac:6f31d21ca61a6ff8fcfb5fee02ba0f4b
-REM05-02-2005d2t07.flac:5a6b60f4b21650ebfeb18c9676248a3c
-REM05-02-2005d2t08.flac:c29bb102528b7d028cdb7ff70fda92f4
-REM05-02-2005d2t09.flac:7e52f0c0c246320adaf76b551778307c
-REM05-02-2005d2t10.flac:ac263e57c1236264a77a96e859c46432
-REM05-02-2005d2t11.flac:edbd12fce896e929f6dd147bb55cb477
+R.E.M.
+TUI Arena, Hannover
+Germany
+05/02/2005
+
+Taped & Edited By : remer
+
+
+Source: CSB + Battery Box > Creative Nomad Jukebox 3
+Conversion/Editing: JB3 > Firewire > Soundforge 7.0 > CD Wave > Flac Frontend v1.7.1
+
+Disc 1:
+
+01: (Fade In) Finest Worksong    	[04:22]
+02: Departure                		[03:49]
+03: So Fast, So Numb         		[04:29]
+04: Animal                   		[04:24]
+05: The Outsiders            		[05:10]
+06: Turn You Inside:Out      		[04:39]
+07: High Speed Train         		[05:11]
+08: Everybody Hurts          		[07:25]
+09: Aftermath                		[04:12]
+10: The Great Beyond         		[05:01]
+11: Boy In The Well          		[05:47]
+12: Orange Crush             		[04:55]
+13: Wanted To Be Wrong       		[05:09]
+14: Final Straw              		[05:03]
+15: Imitation Of Life        		[04:05]
+
+Disc 2:
+16: The One I Love           		[03:32]
+17: Walk Unafraid            		[04:59]
+18: Losing My Religion       		[04:40]
+
+19: Break                    		[04:09]
+
+[Encore]
+20: What's The Frequency, Kenneth    	[04:01]
+21: Exhuming McCarthy        		[03:32]
+22: Drive                    		[05:26]
+23: Country Feedback         		[06:25]
+24: Leaving New York         		[07:15]
+25: I'm Gonna D.J            		[02:27]
+26: Man On The Moon (Fade Out)    	[08:01]
+
+Total Running Time			[02:08:08]
+
+Info:
+
+Recorded from front row right in front of the speaker stack on Peter's side.

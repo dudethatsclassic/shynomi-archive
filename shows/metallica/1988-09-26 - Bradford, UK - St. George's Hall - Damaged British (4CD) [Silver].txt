@@ -1,48 +1,69 @@
-disc1track01.flac:1cd12be70e54c0e445431b7d4769f231
-disc1track02.flac:11cbcdac28a6dcf6ae9e270ee33f4d50
-disc1track03.flac:381ef029080b0fa09758970b30d0cb2f
-disc1track04.flac:8c43a1edce71782218c0320d5dc32df3
-disc1track05.flac:588e37d8cbb1b0b9a3662bb34c45806e
-disc1track06.flac:8fe47ec845aa84583284de69bafdd494
-disc1track07.flac:550e4e1a0a5a246a38fa9409447846ad
-disc1track08.flac:19e86a50a77798af31559b7427ecee58
-disc1track09.flac:38289643fa246244a68ec7095664fdfc
-disc1track10.flac:07151d4772e9b095b797fa04683eb5ba
-disc1track11.flac:e256424351ac1de8e9a5051ef5f1c2c2
-disc1track12.flac:da7f7704897a004f6608d598c4aa1fd8
-disc1track13.flac:8b18bbe332840cb02d055eee9c926195
-disc2track01.flac:71b75a7dc2a215ac1f0aa9b59492c245
-disc2track02.flac:5d268b4bbb9c9655c9ca783ba637fa55
-disc2track03.flac:3ba7f1ecb1bd5591319f90afea9effd4
-disc2track04.flac:5dff5d2510c90112e87ac45d16637b23
-disc2track05.flac:dc0b552b4c4a61e3489727442246fd8b
-disc2track06.flac:e0e1fdd9848cc790b1a1daf920e7acc8
-disc2track07.flac:a96e6a640254a16d72269ca8395430c1
-disc2track08.flac:7c3095cc490559bc49c05dd5e5768519
-disc2track09.flac:2d5fc4919376de5b7973a836d6c98eb7
-disc2track10.flac:d6a5fe3f023f7730c3eb413cff59f94d
-disc2track11.flac:20d339c1665f1563cde4f99b31adf02c
-disc3track01.flac:86a6d41c0dbfc77c941bcf7e93110d58
-disc3track02.flac:207b180fae4d72c8c6039882bce37a06
-disc3track03.flac:dbe1efb16cab810d9bff1e0f6c8dd679
-disc3track04.flac:a2fc690bb31aa8866f75b320f1c38d32
-disc3track05.flac:7e4fee1417cf70998274b277d0d2cc50
-disc3track06.flac:cb5dda8fa06b238df7cabc0d398d03ca
-disc3track07.flac:ac215b88439540155585e02d52f2b21c
-disc3track08.flac:47441ccf29380267211a6a6ec37f5988
-disc3track09.flac:ce07fe0b8deb4ec030df96b81aa1c030
-disc3track10.flac:3bfd9418f4ca869ca0107b29c00a36b1
-disc3track11.flac:4dc142f0a4715ae5b01004bd2fe88875
-disc3track12.flac:c3b26ed4d96eea583d0a96f0e4e7ab89
-disc3track13.flac:b2ea3da2e31391387a8d1d7201a2bf54
-disc4track01.flac:f84e561c5ac46ac2e4789f0988c8a02b
-disc4track02.flac:1a1094373198d16689f2e029ddad4b39
-disc4track03.flac:fab05fec3611e198fc284f1d1b244ddc
-disc4track04.flac:ed3c2907d819cc0d417971d1c3aac9df
-disc4track05.flac:251d427e14a759d9cccdac2ef35fa4d5
-disc4track06.flac:d1b1d31aa016b8718bb109b24be52ae9
-disc4track07.flac:c118cae59dd8e50b457966ba32fcde7a
-disc4track08.flac:c3589cdca5fe5afa1dbe76bc17ee958e
-disc4track09.flac:0c491b9b206c141e58aee71568be5f4f
-disc4track10.flac:f287dae916eb1b8956abc8b4029e517a
-disc4track11.flac:da5c077b163bf976e822fa56333c1a33
+Band: Metallica
+Title: Damaged British
+Label: Langley
+Number: LANGLEY DELUXE 021
+Source: Silvers > EAC > WAV > jetAudio > FLAC
+
+Disc 1 & 2:
+Date: September 26, 1988
+Venue: St George's Hall, Bradford, UK
+
+Disc 3 & 4:
+Date: September 30, 1988
+Venue: City Hall, Sheffield, UK
+
+Disc 1
+01.The Ecstasy Of Gold
+02.Blackened
+03.For Whom The Bell Tolls
+04.Welcome Home (Sanitarium)
+05.Four Horsemen
+06.Harvester Of Sorrow
+07.Eye Of The Beholder
+08.Bass Solo
+09.To Live Is To Die
+10.Master Of Puppets
+11.One
+12.Seek & Destroy
+13....And Justice For All
+
+Disc 2
+01.Jam
+02.Creeping Death
+03.Fade To Black
+04.Kirk's Solo
+05.Little Wing
+06.Battery
+07.Prowler / Run To The Hills
+08.Helpless
+09.Last Caress
+10.Am I Evil?
+11.Whiplash
+
+Disc 3
+01.The Ecstasy Of Gold
+02.Blackened
+03.For Whom The Bell Tolls
+04.Welcome Home (Sanitarium)
+05.Four Horsemen
+06.Harvester Of Sorrow
+07.Eye Of The Beholder
+08.Bass Solo
+09.To Live Is To Die
+10.Master Of Puppets
+11.One
+12.Seek & Destroy
+13....And Justice For All
+
+Disc 4
+01.Jam
+02.Creeping Death
+03.Fade To Black
+04.Kirk's Solo
+05.Little Wing
+06.Battery
+07.Prowler / Run To The Hills
+08.Helpless
+09.Last Caress
+10.Am I Evil?
+11.Whiplash

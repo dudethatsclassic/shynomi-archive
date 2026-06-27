@@ -1,26 +1,43 @@
-rem1995-09-08d1t01.flac:1f00af3a7f37aada5780bf3eea346423
-rem1995-09-08d1t02.flac:989dcc6a80ec11464730401e11f62d33
-rem1995-09-08d1t03.flac:038091b1166aaf4c9974b7f266d2bab7
-rem1995-09-08d1t04.flac:51488b04e72cdecc5dbd0a9f56340632
-rem1995-09-08d1t05.flac:8e88ec457dc6616484c3dfc2cff2aec8
-rem1995-09-08d1t06.flac:970a68caff7a1857122ed9c780ade7fc
-rem1995-09-08d1t07.flac:d80869a759fd7771267c0158aaa99dba
-rem1995-09-08d1t08.flac:812e65dea211d38d5716f4b2dae57822
-rem1995-09-08d1t09.flac:d0c51cf432e9f8c8de6f3287c95a3a1a
-rem1995-09-08d1t10.flac:28c8bcb6524669e6d1849897f2f1ad93
-rem1995-09-08d1t11.flac:9f97b1d94fcb5b19bed5c78dc5b066f4
-rem1995-09-08d1t12.flac:c305d9ceb6d0f73ee02b9293b3ba4f78
-rem1995-09-08d1t13.flac:fb0d37611cee535aa1ed2e6ed63e81cf
-rem1995-09-08d1t14.flac:00052f164ad46f036686b5f2684df0be
-rem1995-09-08d1t15.flac:d35cdd7e0b56b59624ae0bcbd45b04d7
-rem1995-09-08d2t01.flac:97eda1d4ad4ad8683f67d56045183dd1
-rem1995-09-08d2t02.flac:45970dfeb6c97180bce9994925a3fd28
-rem1995-09-08d2t03.flac:e36628907c6f778dee2145fb36072ca0
-rem1995-09-08d2t04.flac:f5d29b1e69e04a5ed64cce5ee71f3795
-rem1995-09-08d2t05.flac:be1172fcddcac56c7c96e6148ec28ec2
-rem1995-09-08d2t06.flac:629fbae4193988f77e067d8a1f2492b7
-rem1995-09-08d2t07.flac:4a415ebb6bf4478ad90d4318b7751e80
-rem1995-09-08d2t08.flac:cbf9a90c420cdfda2565cde5e1e133b4
-rem1995-09-08d2t09.flac:924a4c52d0b6621c4971b3b13f5217c8
-rem1995-09-08d2t10.flac:80c39da5efacd6e41148c1092f9cd121
-rem1995-09-08d2t11.flac:a08bc6733f40ea0111bb8595819fd3c9
+REM
+09-08-95
+Miami Arena
+Miami, FL
+
+Taper: DATfly
+Source: Sonic Studios (DSM-6P) > Denon DTR-80p > DAT-M 48khz
+Transfer: DA-20 > Monster coax > DiO 2496 > CEP 2.1 (resample to 44.1) > CDWave > FLAC
+
+Disc I
+01 Intro
+02 I Took Your Name
+03 What's the Frequency, Kenneth?
+04 Circus Envy
+05 Drive
+06 Try Not to Breathe
+07 Wake-Up Bomb
+08 Bang and Blame
+09 Undertow
+10 Strange Currencies
+11 Revolution
+12 Tongue
+13 Man on the Moon
+14 Country Feedback
+15 Half a World Away
+
+
+Disc II
+01 Losing My Religion
+02 Finest Worksong
+03 Pop Song 89
+04 Get Up
+05 Star 69
+06 Let Me In
+07 Everybody Hurts
+08 So. Central Rain
+09 Departure
+10 Wicked Game
+11 It's the End of the World As We Know It
+
+Transfer by BLG
+compiled on 06-27-04
+

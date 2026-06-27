@@ -1,18 +1,37 @@
-tsp1996-07-05d1t01.flac:6b2dcca06d5b08d4554fdc23a5a0e013
-tsp1996-07-05d1t02.flac:c876b1d20185e496dbf05557d55f69c2
-tsp1996-07-05d1t03.flac:b0aee744abd2888301d2d7701d3cf56a
-tsp1996-07-05d1t04.flac:ae1ac66da14a1ff436589d2f7d5461e7
-tsp1996-07-05d1t05.flac:39cbb8f9577e03c9c4df34026d2366d2
-tsp1996-07-05d1t06.flac:2e6e877e26b201ac83c14be1eec60a15
-tsp1996-07-05d1t07.flac:97cdc35a0c3ede1cd91887a5ccca9240
-tsp1996-07-05d1t08.flac:5ff00f4e0f0735055ad20c9d94b97b36
-tsp1996-07-05d1t09.flac:c85000ae53ac9becc3fe946b425b541e
-tsp1996-07-05d1t10.flac:c18ca12fa762d347276ff3e4c4d31dcd
-tsp1996-07-05d1t11.flac:2a6bfceac7ff5cab9003b958976b6b87
-tsp1996-07-05d1t12.flac:586f0d893a19d814a4b12f6036112a70
-tsp1996-07-05d2t01.flac:9139e1f478d02dccb5a7b88ac24d8633
-tsp1996-07-05d2t02.flac:5e2809b3730ccd4f989bdaeab3907b32
-tsp1996-07-05d2t03.flac:cbb392e7e223e0ff581c8f489d804cc1
-tsp1996-07-05d2t04.flac:f5ba9e324b3d820b2990cd516e9afcff
-tsp1996-07-05d2t05.flac:2f144ea4c8123915e805acd8992d81ad
-tsp1996-07-05d2t06.flac:e61c4e481e17eaaf70a1d50e3c6d6216
+The Smashing Pumpkins
+7/5/1996
+Corestates Spectrum
+Philadelphia, PA
+
+Taper:            unknown
+Source:           SS mics > PA-6LC3 > D8
+Conversion:       DDC-?(48k) > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  mic connection problems in Zero and Today
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. MCIS, Where Boys Fear to Tread
+2. Zero
+3. Fuck You
+4. To Forgive
+5. Tonight, Tonight
+6. Today
+7. Thru the Eyes of Ruby > 
+8. > By Starlight
+9. Disarm
+10. Bullet with Butterfly Wings
+11. Cherub Rock
+12. Porcelina of the Vast Oceans > Beautiful (one verse only) > Rocket (tease)
+
+Disc 2
+1. 1979
+2. In-A-Gadda-Da-Vida [Iron Butterfly] (tease)
+3. X.Y.U.
+4. Mayonaise
+5. Bodies
+6. Silverfuck > Space Jam (tease)

@@ -1,18 +1,37 @@
-tsp1996-09-16d1t01.flac:77f594138009d55d14986ea2c5ff98ac
-tsp1996-09-16d1t02.flac:67a296c2d8530936c52b039bba07476f
-tsp1996-09-16d1t03.flac:5203e9d7837273544182c411ef20e4f2
-tsp1996-09-16d1t04.flac:b5b49b66f4196c947c077762bf61a522
-tsp1996-09-16d1t05.flac:b1f1c35a3f9cb529bfe29da48fa3f409
-tsp1996-09-16d1t06.flac:ea9ee34c1091715880d788707769c6cc
-tsp1996-09-16d1t07.flac:ff25f594a780a76e8bf1d1489f8f6fbe
-tsp1996-09-16d1t08.flac:383ee55055ae3ce9b8a084c7ce172a60
-tsp1996-09-16d1t09.flac:e62729cb98a59a8ac8b6e007a7f0c313
-tsp1996-09-16d1t10.flac:59632585b93386d88a2343f026f5a953
-tsp1996-09-16d1t11.flac:f266739b56dc910740520fbf8d142c56
-tsp1996-09-16d1t12.flac:fd7a9043e5afe35ba5125d33c5a41ad0
-tsp1996-09-16d1t13.flac:568c09c4d8b109392ff654975387aed3
-tsp1996-09-16d2t01.flac:bb273f16b81ddb1de0e8d3a30dd00015
-tsp1996-09-16d2t02.flac:ffc8f6d2d31bd8d3a359894a1deab05a
-tsp1996-09-16d2t03.flac:64e9d0a49e0bba8b428ab46afdc42e70
-tsp1996-09-16d2t04.flac:7e813a6971371d41f4fd9fee74118730
-tsp1996-09-16d2t05.flac:bb5643218a4657b34c72ee6093d4d619
+The Smashing Pumpkins
+9/16/1996
+Brendan Byrne Meadowlands Arena
+East Rutherford, NJ
+
+Taper:            unknown
+Source:           ECM-909 > WM-D6
+Conversion:       ANA-M > DDC-2 > PCM-R300 > Audiophile 2496 > WAV > SHN > CDR-0
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. MCIS
+2. Where Boys Fear to Tread
+3. Zero
+4. Fuck You
+5. To Forgive
+6. Tonight, Tonight
+7. Today
+8. Thru the Eyes of Ruby
+9. Siva
+10. Disarm
+11. Bullet with Butterfly Wings
+12. Cherub Rock
+13. The Aeroplane Flies High
+
+Disc 2
+1. (band talking)
+2. X.Y.U. > Smoke on the Water [Deep Purple] (tease)
+3. (Frogs introduction)
+4. 1979 (with The Frogs)
+5. Silverfuck > We Gotta Get Out of This Place [The Animals] (tease)

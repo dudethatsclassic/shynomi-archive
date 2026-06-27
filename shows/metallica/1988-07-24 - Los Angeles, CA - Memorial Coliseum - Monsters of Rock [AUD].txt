@@ -1,15 +1,22 @@
-01 -Ecstasy Of Gold-.flac:298c372a6fa76a705fa33c06704018e5
-02 Creeping Death.flac:3e4d68ef23f8f22fff89b751cf86524a
-03 For Whom The Bell Tolls.flac:6e2147a08fdcc27142c19cd80c5eb605
-04 Welcome Home (Sanitarium).flac:30a4093e90d3c4e8cf0d52eceeeef491
-05 Harvester Of Sorrow.flac:535f9af9edb3dc6b27d63e436c9a21ec
-06 Whiplash (power outtage).flac:b3c60881b4d7a4f12ca8eeb4666abd25
-07 -intermission-.flac:88c08d67dbc625a5c2acf6fdee2c81f3
-08 Whiplash (continued).flac:0c19eb1514c44145dce623c087b43956
-09 Fade To Black.flac:f3afa9df952282cf72b8d61147ccf060
-10 Seek And Destroy.flac:58d15499e3514ee68b0dfa61b31456a8
-11 Master Of Puppets.flac:c8ce70ba0773dd3e0ee9313509c736ea
-12 Run To The Hills (intro) - Helpless (partial).flac:ec661f3fd88812380f5fcc27cf449f30
-13 Last Caress.flac:15f4f663c7fbdb62dc6c2910080687e2
-14 Am I Evil.flac:dae397be27affce60ea9d0c64495f345
-15 Battery.flac:a936a257244cea73646082ec6cdde9d9
+METALLICA
+LOS ANGELES,CA:MEMORIAL COLISEUM
+7/24/88
+"Monsters Of Rock"
+
+D3 Cassette Master -> Untracked Aiff File -> Soundforge -> FLAC
+
+01. -Ecstasy Of Gold-
+02. Creeping Death
+03. For Whom The Bell Tolls
+04. Welcome Home (Santitarium)
+05. Harvester Of Sorrow
+06. Whiplash (power outtage)
+07. -intermission-
+08. Whiplash (cont'd)
+09. Fade To Black
+10. Seek And Destroy
+11. Master Of Puppets
+12. Run To The Hills/Helpless
+13. Last Caress
+14. Am I Evil?
+15. Battery

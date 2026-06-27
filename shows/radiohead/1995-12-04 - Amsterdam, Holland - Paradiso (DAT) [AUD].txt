@@ -1,21 +1,42 @@
-rh1995-12-04d1t01.flac:2977c3b91ab82d53cca5438cfef2f89f
-rh1995-12-04d1t02.flac:d5e0bf3d28c2ba2cd2eae4c1f9d355b1
-rh1995-12-04d1t03.flac:a7f6cc7810f2a58bf042c12d22c4666d
-rh1995-12-04d1t04.flac:9c7bb19b94deb1116dcca5062f6b713e
-rh1995-12-04d1t05.flac:8ba6d6adbaa4cf78e1672504b9968691
-rh1995-12-04d1t06.flac:66dae730eb80fdbb5950477e23331cd4
-rh1995-12-04d1t07.flac:babcf1c785050284027b8d1bfdfae788
-rh1995-12-04d1t08.flac:fdd347394c505fb0d6aebb98b4c3d5c2
-rh1995-12-04d1t09.flac:311c508e03b71dc10281f50396cf47a9
-rh1995-12-04d1t10.flac:eb3f4eadcb038125885707ee1eea42b9
-rh1995-12-04d1t11.flac:c291a6c373f5987d8cf3a551ea3d1725
-rh1995-12-04d1t12.flac:7126542e1350f98c4618f0d7d070d689
-rh1995-12-04d1t13.flac:bd0cc50742a25287f31e5c5968f25c59
-rh1995-12-04d1t14.flac:e7164a8317ca55af05a654dabe1ea8cc
-rh1995-12-04d1t15.flac:760372663680aacd31634baad84f4d16
-rh1995-12-04d1t16.flac:37645f85bbec0a13a8b859e66cfdd952
-rh1995-12-04d2t01.flac:013451a771390ea8d2b9b468d3bee244
-rh1995-12-04d2t02.flac:debed1b51de12304f4006d1371ddd803
-rh1995-12-04d2t03.flac:5144813e0ce627f0fa9a1026359fcccf
-rh1995-12-04d2t04.flac:a6294da05071d697806b550179befcbf
-rh1995-12-04d2t05.flac:e44ace0f88b3163d0047330e87f3db89
+Radiohead
+December 4, 1995
+Paradiso
+Amsterdam, Holland
+
+Source: unknown mic(s) -> DAT
+Lineage: DAT(3) 32khz -> dEQ -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> CEP 2.1 -> CDWave -> FLAC
+
+
+Disc I
+01 Intro
+02 The Bends
+03 Bones
+04 Bulletproof
+05 My Iron Lung
+06 Prove Yourself
+07 Street Spirit
+08 Lucky
+09 Creep
+10 Bishop's Robes
+11 High and Dry
+12 Planet Telex
+13 Inside My Head
+14 Anyone Can Play Guitar
+15 Just
+16 Fake Plastic Trees
+
+
+Disc II
+01 No Surprises (acoustic)
+02 You
+03 Black Star
+04 Nice Dream
+05 Stop Whispering
+
+
+Notes: Unlike the bootleg source, this is the complete show.  
+
+
+Transfer by BLG
+compiled on 05-07-05

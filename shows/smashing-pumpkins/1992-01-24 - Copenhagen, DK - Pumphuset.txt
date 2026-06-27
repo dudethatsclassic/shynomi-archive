@@ -1,14 +1,30 @@
-tsp1992-01-24t01.flac:fa46a80abb6354e19c6760e3b655c620
-tsp1992-01-24t02.flac:3521a6d4b5bb4bcb26fccaafeeede556
-tsp1992-01-24t03.flac:071f0f7f29984bd71f6d0756757b84e2
-tsp1992-01-24t04.flac:7272fa0a1932c1db8ef7bc8052d60cc7
-tsp1992-01-24t05.flac:6dbddcebee1442b6687a2bae18fd32bf
-tsp1992-01-24t06.flac:6ac90e95ac9573df3a077602fb258b01
-tsp1992-01-24t07.flac:5eefc5be6c1deb8c7a888a84b76528c1
-tsp1992-01-24t08.flac:b4fa9675d49783e4f2ddb6ba2cba7e20
-tsp1992-01-24t09.flac:578c89d556eaf23572806998c3d8968f
-tsp1992-01-24t10.flac:5d9167e1cdf2c769d4a1d42ca6ba4035
-tsp1992-01-24t11.flac:947ed05298a8ee100d75d6045c4ac846
-tsp1992-01-24t12.flac:5b7fad59cadbd1e0b985585c07ace5f8
-tsp1992-01-24t13.flac:50d0b46506d2f3e0a3e2f95f28b28d3a
-tsp1992-01-24t14.flac:801edecdb4b31d37f3997d70962c95fd
+The Smashing Pumpkins
+1/24/1992
+Pumphuset
+Copenhagen, DK
+
+Taper:            unknown
+Source:           ? > WM-D3
+Conversion:	  ANA-M > CDR-2
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-2 > EAC V0.99 prebeta 4(proper offset) > WAV > FLAC (level 8)
+
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+1. Drown
+2. Rocket
+3. Bury Me
+4. Luna
+5. Tristessa
+6. Window Paine
+7. Snail
+8. unknown tease
+9. Siva
+10. Blue
+11. Slunk
+12. I Am One
+13. Crush
+14. Offer Up > Silverfuck

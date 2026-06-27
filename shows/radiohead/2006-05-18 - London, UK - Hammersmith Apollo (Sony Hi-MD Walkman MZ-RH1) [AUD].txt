@@ -1,24 +1,36 @@
-03_National_Anthem.flac:2d8e880e23df536c25a33baa657348e0
-04_2+2=5.flac:6d62e4f57c0c7cf1b581252e67629e62
-05_Lucky.flac:563437d1f1ac3031a92966bff1967345
-06_15_Step.flac:7fcef953db620a0380597ba87e65120e
-07_Morning_Bell.flac:216fb6b7964c0a745027b3cbac19d173
-08_I_Might_Be_Wrong.flac:60f93470e0187539b859ac4903d91ec2
-09_Nude.flac:8948a70b0173e0e86f3444936acdfe56
-10_How_To_Disappear_Completely.flac:752454f3c4ea19ff645a33f3973d0671
-11_Airbag.flac:979a021e912844117495517ff99226ff
-12_Karma_Police.flac:44940bb6a5ffff59295615bce8c3b6ee
-13_House_Of_Cards.flac:33b9e17b4b28d02312ed22a24dade513
-14_Arpeggi.flac:fbbe31ef44d93d315581b37a3e3b36ff
-15_My_Iron_Lung.flac:18ddfd7d9e60ad657b99924126afe60c
-16_Idioteque.flac:7b0a6d80092e10b92f49a32e2e4331b8
-17_Bodysnatchers.flac:1117141453c06b2c1b86f64fa4196adf
-18_There_There.flac:eab044e2d3a93c29edaf9d1cf96f0a9f
-19_Bangers_And_Mash.flac:5e7fd60f73ee4f433083a076cd132bfd
-20_Pyramid_Song.flac:60c92a711f68dce73621b30388d0d6ca
-21_Let_Down.flac:e60fec25d533c55ec5d53148a86d46bd
-22_Planet_Telex.flac:8c1eabae3d41b3b2fe29a3c0d653020a
-23_I_Want_None_Of_This.flac:a832ee2e8c1e26209f92d6dec0be865c
-24_Everything_In_Its_Right_Place.flac:cffda037701c4eec904446b9593069f2
-01_Intro.flac:59d14becb48750e1896cd155e6788720
-02_Videotape.flac:73de3c03ab662a8a85faffe06a8406f8
+Radiohead
+May 18, 2006
+Hammersmith Apollo, London, UK
+
+Sony Hi-MD walkman minidisc MZ-RH1 / sony stereo mic -> Sound Forge 6.0 -> wav -> flac (level 6)
+
+1. Intro 
+2. Videotape
+3. The National Anthem 
+4. 2+2=5 
+5. Lucky
+6. 15 Step 
+7. Morning Bell
+8. I Might Be Wrong
+9. Nude
+10. How To Disappear Completely
+11. Airbag
+12. Karma Police
+13. House of Cards 
+14. Arpeggi
+15. My Iron Lung 
+16. Idioteque
+17. Bodysnatchers
+18. There  There
+
+First Encore: 
+19. Bangers 'n' Mash 
+20. Pyramid Song
+21. Let Down
+22. Planet Telex
+
+Second Encore:
+23. I Want None Of This
+24. Everything In Its Right Place
+
+Taper: phlika29 

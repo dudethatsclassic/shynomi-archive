@@ -1,12 +1,25 @@
-01 Track01.flac:e6875f9f0138264f15fc3876c522d22f
-02 Track02.flac:93038a399a1cbcb4a72805fb2b0f8898
-03 Track03.flac:45702fc890791dc532fd92fefe39baf7
-04 Track04.flac:7586dd3fa854979176180c45f78e7513
-05 Track05.flac:c0ee3fd815d37b6f17b58a613e0a9a90
-06 Track06.flac:8c2f0b0f1dad7014356ff8bf0b1a4f29
-07 Track07.flac:aa8e95f2deb3be8f1b9035d724e1a501
-08 Track08.flac:c34e467755ee5094fbd2260adaf61413
-09 Track09.flac:e9d213448acffaa0a4d0bf8fc825d428
-10 Track10.flac:854cf774302d534699115083bd7e5613
-11 Track11.flac:80ae6b8e0d9e3766370ca481d50373ec
-12 Track12.flac:35b0177ddf8aa4ab2bbd22ad8b28b946
+24.08.1982
+USA, San Francisco, Old Waldorf
+Live at Old Waldorf
+very good Soundboard
+
+01. Gardening at Night [3:40]
+02. 9 - 9 [3:18]
+03. Wolves, Lower [4:29]
+04. We Walk [2:38]
+05. Pilgrimage [3:55]
+06. Laughing [3:59]
+07. Sitting Still [3:16]
+08. 1,000,000 [3:11]
+09. Catapult [3:41]
+10. Moral Kiosk [3:21]
+11. West of the Fields [3:00]
+12. Radio Free Europe [4:00]
+
+Total Running Time: [42:35]
+
+Source: Soundboard > ? Y DAT
+Transfer: DAT > DA-P1 > Mod. UA-5 > Sound Studio
+Transfer by DeMatt Harkins
+
+Lineage: Trade (CDR) EAC > WAV > FLAC (Level 8) > Torrent
