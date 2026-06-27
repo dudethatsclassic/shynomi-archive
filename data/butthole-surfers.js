@@ -20,7 +20,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB's",
-      "notes": "Aiwa CM30 \u00b7 tapegeek",
+      "notes": "Aiwa CM30 · tapegeek",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1985-06-08 - New York, NY - CBGB's (Aiwa CM30) (tapegeek) [AUD].txt"
@@ -61,11 +61,11 @@ const ARTIST_DATA = {
       "city": "Hilversum",
       "state": "Netherlands",
       "location": "Hilversum, Netherlands",
-      "venue": "e\u0308Backlinei\u0301",
-      "notes": "VPRO-FM \u00b7 notsaved",
+      "venue": "ëBacklineí",
+      "notes": "VPRO-FM · notsaved",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1986-04-30 - Hilversum, Netherlands - e\u0308Backlinei\u0301 - VPRO-FM (notsaved) [FM].txt"
+      "textFile": "1986-04-30 - Hilversum, Netherlands - ëBacklineí - VPRO-FM (notsaved) [FM].txt"
     },
     {
       "year": 1996,
@@ -76,7 +76,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Unknown City",
       "venue": "Unknown Venue",
-      "notes": "*Tejass \u00b7 Stryder LTD 026",
+      "notes": "*Tejass · Stryder LTD 026",
       "version": "Silver CD",
       "format": "FLAC",
       "textFile": "1996-02-10 - Unknown City, Unknown Venue - Tejass - Live in Pepperland (Stryder LTD 026) [Silver].txt"
