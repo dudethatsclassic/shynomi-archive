@@ -1,13 +1,32 @@
-hum1998-04-23d1t01.flac:cb642df36c730464fd3a5eb3fb2eedb6
-hum1998-04-23d1t02.flac:f951a8baf344efc78a0671ea052952bf
-hum1998-04-23d1t03.flac:8940f240cce05bfbe346cfc0b041e32d
-hum1998-04-23d1t04.flac:f92e124ff495225d63d9a2e5994c2cfb
-hum1998-04-23d1t05.flac:c1efe942a462b5df45808a74df1f8f62
-hum1998-04-23d1t06.flac:c6eb6de8cb687f086d155c583607afb1
-hum1998-04-23d1t07.flac:a449c7251a328a6d46194eed11e668d3
-hum1998-04-23d1t08.flac:ec39ee76ac3f12aa017e37386451d2b5
-hum1998-04-23d1t09.flac:165b8d251a7b672c7b353eba4f0067f5
-hum1998-04-23d1t10.flac:a2c37198005fd79c0bddd137840825bb
-hum1998-04-23d1t11.flac:d6c681423f82281617de42f7307daaa0
-hum1998-04-23d2t01.flac:21af7b741b05676f863ac28ab9595983
-hum1998-04-23d2t02.flac:bc835bfaff99fe7cffc9eec12d2643df
+Hum
+4/23/1998
+Graffiti
+Pittsburg, PA
+
+Taper:            unknown
+Source:           SBD > DAT
+Conversion:       DDC-3(48k) > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. (intro)
+2. Afternoon With the Axolotls
+3. The Pod
+4. Green to Me
+5. Comin' Home
+6. Shovel
+7. Suicide Machine
+8. Apollo
+9. I'd Like Your Hair Long
+10. Stars
+11. The Scientists
+
+Disc 2
+1. I Hate It Too
+2. Winder

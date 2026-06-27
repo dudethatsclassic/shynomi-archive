@@ -1,24 +1,48 @@
-guster2006-04-21d1t01.mk21.flac:376694f301ce35dabf12f65aa725f7c6
-guster2006-04-21d1t02.mk21.flac:0cf0778f0eb665c9df47933a3bef78ab
-guster2006-04-21d1t03.mk21.flac:90bba102bd057510b8f83f29e86a78e2
-guster2006-04-21d1t04.mk21.flac:310c39dda7224cced1d72d89c699bcbc
-guster2006-04-21d1t05.mk21.flac:c7ed0531a9675446a26985eebfbf77f4
-guster2006-04-21d1t06.mk21.flac:c5dbeed0ac5b157370212b70dc9a1031
-guster2006-04-21d1t07.mk21.flac:eda3542bfa0da2e32a4220497443f868
-guster2006-04-21d1t08.mk21.flac:ce31de948c9570c446862eb5b16ff4fe
-guster2006-04-21d1t09.mk21.flac:30c28e21a832923382eff31799adbb06
-guster2006-04-21d1t10.mk21.flac:b0b457d182a90b68e3117bf62df42510
-guster2006-04-21d1t11.mk21.flac:7d090be729c8866a560e534305457edf
-guster2006-04-21d1t12.mk21.flac:cf4335d7ad5106951892a4f472051f35
-guster2006-04-21d2t01.mk21.flac:a38d3ddd4e23bd80ad561abf1aa9be58
-guster2006-04-21d2t02.mk21.flac:f652393e8596dfb46eccdd7ff8eaff8d
-guster2006-04-21d2t03.mk21.flac:206a15bd6dfa7be1f59959c5a3c945b7
-guster2006-04-21d2t04.mk21.flac:59fdc8000cc6c5dcc043b5aeab48d1ae
-guster2006-04-21d2t05.mk21.flac:051078c4584ff950d8f7237488893d12
-guster2006-04-21d2t06.mk21.flac:5931fbeb12582fec82ebd647ad4034ce
-guster2006-04-21d2t07.mk21.flac:f881edd45cbba36fc35506c1a70eb802
-guster2006-04-21d2t08.mk21.flac:cfd931a8bbd5b14a78a3e512a4e96104
-guster2006-04-21d2t09.mk21.flac:1003e5d2d4958ecc86e6348f47c69fd0
-guster2006-04-21d2t10.mk21.flac:1a8bad9be6df500482ea0037c3d526ba
-guster2006-04-21d2t11.mk21.flac:a79e92599c293d1fb96c4b7f7fa6cd98
-guster2006-04-21d2t12.mk21.flac:18ab780b5b1d005a12e43fdf2802cd1b
+Guster
+April 21, 2006
+Hiro Ballroom
+New York, NY
+
+Taper: Jason Reiser <jreiser_at_ecoutez_dot_com>
+Source: Schoeps MK21 > KC5 > CMC6 > Sound Devices 744T @ 24bit/96kHz
+        (mics in ~ NOS, 11' high, dead center on the floor between the pillars)
+Conversion: 744T > Firewire (MD5 verified) > Adobe Audition > iZotope Ozone 3 > CD Wave 1.94.5 beta > FLAC 1.1.2
+	
+Notes: Downsampled in Audition w/ highest quality, dithered via MBIT+ (Ultra Noise Shaping, Normal Amount) in Ozone.
+       Disc fades in Audition.
+       Sorry about the 'overs' at the start and end of 'Jesus on the Radio' - got a little overzealous with the levels.
+
+* This is a downsampled 16/44.1 copy. Original 24/96 recording available upon request. *
+
+
+Disc 1 of 2			 Total: 47:49:07
+01 Intro				01:05:33
+02 Barrel of a Gun			03:58:02
+03 The Captain				03:52:33
+04 Diane				04:26:43
+05 The New Underground			03:23:20
+06 Demons				04:10:72
+07 Center of Attention			04:46:59
+08 Improv: Where is Josh?		01:14:12
+09 Satellite				04:45:30
+10 Come Downstairs and Say Hello	07:50:61
+11 I Spy				04:54:44
+12 Manifest Destiny			03:18:48
+
+
+Disc 2 of 2				47:25:50
+01 Chatter: Audience Choice		01:54:42
+02 Happy Frappy (partial)		02:14:29
+03 One Man Wrecking Machine		03:59:19
+04 Amsterdam				05:18:25
+05 Backyard				03:30:61
+06 Great Escape				04:44:70
+07 Fa Fa				05:24:36
+Encore #1:
+08 Improv: One More Song Guster		01:29:09
+09 Hang On				04:58:03
+10 Airport Song				04:36:31
+11 Happier				06:37:61
+Encore #2:
+12 Jesus on the Radio			02:35:39
+

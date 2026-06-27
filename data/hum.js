@@ -130,8 +130,7 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1995-09-15 - San Francisco, CA - The Warfield (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -144,8 +143,7 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1995-09-16 - San Francisco, CA - The Warfield (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -338,8 +336,7 @@ const ARTIST_DATA = {
       "venue": "Theatre of the Living Arts",
       "notes": "Hi8 \u00b7 patrick mcwilliams",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1998-02-28 - Philadelphia, PA - Theatre of the Living Arts [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -492,8 +489,7 @@ const ARTIST_DATA = {
       "venue": "Furnace Fest",
       "notes": "RS33 \u00b7 2prongz",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2003-08-16 - Birmingham, AL - Furnace Fest (RS33) (2prongz) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2005,
@@ -589,8 +585,7 @@ const ARTIST_DATA = {
       "venue": "Stubb's BBQ",
       "notes": "unk \u00b7 zelina sambrano + arnulfo martinez torres",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2015-03-14 - Austin, TX - Stubb's BBQ [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -603,8 +598,7 @@ const ARTIST_DATA = {
       "venue": "The Pyramid Scheme",
       "notes": "unk \u00b7 trevor goldner",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2015-04-25 - Grand Rapids, MI - The Pyramid Scheme [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -630,8 +624,7 @@ const ARTIST_DATA = {
       "venue": "Neighborhood Theatre",
       "notes": "Sony a6000 \u00b7 andres g. delannoy",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2015-08-09 - Charlotte, NC - Neighborhood Theatre [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2015,
@@ -740,8 +733,7 @@ const ARTIST_DATA = {
       "venue": "Slim's",
       "notes": "WAV(M) \u00b7 Sony M10 \u00b7 armogi",
       "version": "AUD",
-      "format": "FLAC 24",
-      "textFile": "2015-09-18 - San Francisco, CA - Slim's [AUD].txt"
+      "format": "FLAC 24"
     },
     {
       "year": 2015,
@@ -768,8 +760,7 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "Zoom H2 \u00b7 thegoat",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2015-10-11 - Lake Buena Vista, FL - House of Blues [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2016,

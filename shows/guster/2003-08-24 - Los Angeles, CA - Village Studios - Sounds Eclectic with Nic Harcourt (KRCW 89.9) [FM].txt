@@ -1,8 +1,24 @@
-guster2003-08-24t03.flac: 1befae46ee6d914a0702a0565d1f3abb
-guster2003-08-24t05.flac: 94cc3553331a7758c896ee02938db341
-guster2003-08-24t01.flac: ee95c541766682d8bdf719aa7c9ca155
-guster2003-08-24t07.flac: 941346b0b5656179930be65a8d42d020
-guster2003-08-24t06.flac: 71ed200ee836e7c3364e420dacbe388a
-guster2003-08-24t04.flac: ac327bc6949e7acf4608effdc79eddc7
-guster2003-08-24t02.flac: ea084af5a8d368f2b28f625a4498d264
-guster2003-08-24t08.flac: 9650dad808d694e3ecf898f517ee7fb8
+Guster
+
+August 24, 2003
+Village Studios, Los Angeles, CA
+"Sounds Eclectic" with Nic Harcourt
+KCRW 89.9 FM in Los Angeles, CA
+
+
+Source: Streaming RealAudio > .wav (Cool Edit Pro 2.0) > .flac
+Transferred by: Dean Burbage
+
+Time: (26:15)
+
+01. Diane
+02. Either Way
+03. Amsterdam
+04. Backyard
+05. Barrel Of A Gun
+06. Ramona
+07. Happy Together
+08. Interview
+
+
+Notes: The radio station made some small edits in this in-between songs to eliminate extraneous noise or chatter.

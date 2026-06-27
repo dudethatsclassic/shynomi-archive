@@ -2069,7 +2069,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 jeftak \u00b7 krw_co transfer",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "1991-07-26 - Mountain View, CA - Shoreline Amphitheatre [AUD].txt"
+      "textFile": "1991-07-26 - Mountainview, CA - Shoreline Amphitheatre - ANA(M) (jeftak) (krw_co transfer) [AUD24].txt"
     },
     {
       "year": 1991,

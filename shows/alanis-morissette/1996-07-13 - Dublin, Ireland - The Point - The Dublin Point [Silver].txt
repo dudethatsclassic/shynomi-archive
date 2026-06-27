@@ -1,14 +1,25 @@
-Track01.flac:ec7ded725e2f69bee5e22fe335fff84f
-Track02.flac:44ae089b0928cbfc024982a5a552479a
-Track03.flac:921e9d74c844e40c19db271e03b8fe02
-Track04.flac:8b8b83606769695c9e7745ea73d79043
-Track05.flac:c2186565c13983a6318cb631a72506d5
-Track06.flac:f52a496ae6cd687763f5b5e06d8da091
-Track07.flac:48db9752dbebbdd8894e61c7a6b908dd
-Track08.flac:89a304ac55e67daae2628b6958329169
-Track09.flac:43d6d51f3eefa8c09607b84e9ded93ca
-Track10.flac:5ce840b98d0cca54e99a4755c526f519
-Track11.flac:4ec754c323347e49b591c4ace6d161a1
-Track12.flac:80a651fb1c943e7acc91fd31a5861be3
-Track13.flac:5a23c1be7760f1d12ca1e0c7dabb9f22
-Track14.flac:1e355874036603ec3ca07349f45e4b18
+The Point Theatre,
+Dublin, Ireland - July 13, 1996.
+
+Liberated Boot "The Dublin Point".
+Lenght: 72:21 Minutes.
+
+Set List:
+
+1.All I Really Want 5:19
+2.Right Through You 4:07
+3.Band Intros - I Don't Wanna Be (?) 7:56
+4.Hand in my Pocket 5:11
+5.Head Over Feet 5:27
+6.Mary Jane 5:22
+7.The King of Intimidation 3:41
+8.Forgiven 5:54
+9.Perfect 3:55
+10.Can't Not 5:11
+11.No Pressure Over Capuccino 5:01
+12.Ironic 5:02
+13.You Learn 7:06
+14.Your House 3:04
+
+
+

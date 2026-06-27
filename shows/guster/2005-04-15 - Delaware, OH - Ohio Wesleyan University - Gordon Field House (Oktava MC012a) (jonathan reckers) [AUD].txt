@@ -1,17 +1,29 @@
-guster2005-04-15d1t1.flac:efc88969d577824e50aac1ce1671d49c
-guster2005-04-15d1t2.flac:857ffb9da40e7db07598aa64a60118d3
-guster2005-04-15d1t3.flac:4d97f1b2be75aa9c68b72e1107d2547c
-guster2005-04-15d1t4.flac:4880db3994cc6b0f2237c3150d044be4
-guster2005-04-15d1t5.flac:2f5bb01ccd40db5dffed6564e7e1add3
-guster2005-04-15d1t6.flac:c3cd24f018e41fc122822a05fd78e9bf
-guster2005-04-15d1t7.flac:de40bdf6be584aaa09d4268a85183476
-guster2005-04-15d1t8.flac:b999f56eadba9ce633e834308493ab02
-guster2005-04-15d1t9.flac:a8fee00cd61eb277fd75c667f1d37292
-guster2005-04-15d2t1.flac:6e665a311fb61798c40d1c91d960ff88
-guster2005-04-15d2t2.flac:c799f758e82cf6bf6e19a32ab63ad301
-guster2005-04-15d2t3.flac:449da400820e2bc5a34c7a11929f69fd
-guster2005-04-15d2t4.flac:654387a293659dc44a8d7d4983e08401
-guster2005-04-15d2t5.flac:c9ab0d2b3d8436fbd84d2fbcfef50e61
-guster2005-04-15d2t6.flac:077739284d615c0efbab498f48138b1b
-guster2005-04-15d2t7.flac:4d9207d6d1d8c19abde48d99ff339bca
-guster2005-04-15d2t8.flac:c3b4298b34fe0d31503efcb03ab13fc4
+Guster
+Ohio Wesleyan University  - Gordon Field House
+Delaware, OH
+April 15, 2005
+
+Taper: Jonathan Reckers (reckers_2@yahoo.com) 
+Source: Oktava MC012a (Matched Cardiod) > Edirol UA-5 (Oade Modified) > Nomad Jukebox 3 (Optical In) 
+Conversion: Nomad Jukebox 3 > Dell Inspiron 1100 (USB) > Sound Forge 4.0 > FlacFrontend 
+(Normalized to -2.0db in Sound Forge) 
+
+d1t1: I Spy
+d1t2: Delaware Jazz Odyssey > Barrel of a Gun
+d1t3: Keep It Together
+d1t4: Dear Valentine
+d1t5: Happier
+d1t6: Careful (Krazy Kountry Remix)
+d1t7: Come Downstairs and Say Hello
+d1t8: What You Wish For
+d1t9: G Major
+d2t1: Mona Lisa
+d2t2: Backyard
+d2t3: Airport Song
+d2t4: Diane
+d2t5: Amsterdam
+d2t6: Fa Fa
+d2t7: I'm Through
+d2t8: Demons
+
+The show was in an athletic field house, so sound was less then not unfantastic.  You can hear some of the space in the recording, but overall I think that it came out O.K. (considering the circumstances).

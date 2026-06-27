@@ -1,1 +1,44 @@
-coldplay_2005-08-17_ridgefield_d1_t01.flac:00f04c22d4ccaa41761a1a7c78a8f0afcoldplay_2005-08-17_ridgefield_d1_t02.flac:16f4fba86a9c6b743da515d62f05186dcoldplay_2005-08-17_ridgefield_d1_t03.flac:cfe675e4546dbed161470dfe85971421coldplay_2005-08-17_ridgefield_d1_t04.flac:efd6c49930b1e15bf2af095a30ac2beecoldplay_2005-08-17_ridgefield_d1_t05.flac:e922de531c9227027a392076f4deb2edcoldplay_2005-08-17_ridgefield_d1_t06.flac:d22bf5442b0ca672dcd46ff7c064888bcoldplay_2005-08-17_ridgefield_d1_t07.flac:9bf55b8ce8f9ab2837ccb5b00c300bd4coldplay_2005-08-17_ridgefield_d1_t08.flac:51a31fb778c1b432c3efc9bf1e35a53dcoldplay_2005-08-17_ridgefield_d1_t09.flac:c317e43c50fcf5ba7aeea92cbe52e828coldplay_2005-08-17_ridgefield_d1_t10.flac:2742d5a5d2fd14e92060bd755cf78e5ecoldplay_2005-08-17_ridgefield_d2_t11.flac:dd5a825caf1217ac47801d6525cf460ccoldplay_2005-08-17_ridgefield_d2_t12.flac:edc49fce738e697ef532642c4de4c242coldplay_2005-08-17_ridgefield_d2_t13.flac:5300774568d071961c16c9a864cf26e1coldplay_2005-08-17_ridgefield_d2_t14.flac:a00a6ae9c3e4b1a36710942811d994ffcoldplay_2005-08-17_ridgefield_d2_t15.flac:ebb9b3a6d5ba205b18a1d2e78320e0f5coldplay_2005-08-17_ridgefield_d2_t16.flac:5e5f3dbeddf53dd908fd92514b743cafcoldplay_2005-08-17_ridgefield_d2_t17.flac:3b4f05b7efea81021ac71eda555d425acoldplay_2005-08-17_ridgefield_d2_t18.flac:964b7084d50923d94d69475563d3e4bacoldplay_2005-08-17_ridgefield_d2_t19.flac:707d8dc8b2eb99e38b97c125c7cb09becoldplay_2005-08-17_ridgefield_d2_t20.flac:7de9c58940092a4bea855855612b7c2b
+
+
+
+COLDPLAY		[Audience - 2 disc]
+
+2005-08-17
+USA-Ridgefield, WA-The Amphitheater At Clark County-'OasisDouglas Version'
+
+SETLIST:
+ ## DISC 1 ##
+01 Square One
+02 Politik
+03 Yellow
+04 God Put A Smile Upon Your Face
+05 Speed Of Sound
+06 Low
+07 A Rush Of Blood To The Head
+08 Everything's Not Lost
+09 White Shadows
+10 The Scientist
+ ## DISC 2 ##
+11 Chippendales Chatter
+12 Til Kingdom Come
+13 Ring Of Fire (Johhny Cash Cover)
+14 Don't Panic
+15 Clocks
+16 Talk
+17 ENCORE Break
+18 Swallowed In The Sea
+19 In My Place
+20 Fix You
+
+LENGTH: 1:40:01
+DATE: 	August 17, 2005
+TAPER: 	OasisDouglas <www.oasisdouglas.com>
+
+SOURCE:
+Sound Professionals SP-BMC-12 Audio Technica (AT350) Binaural Microphones -> SP-SPSB-6 (bass roll off @ 160Hz) -> NOMAD Jukebox ( Gain set at +2  | WAV Recording)
+
+TRANSFER:
+NOMAD Jubox -> Macintosh G5 USB -> BIAS Peak -> VST Filters {WAVE ARTS Trackplug... see "COLDPLAY_2005-08-17 trackplug.jpg" for details} -> Normalize, Split Tracks & Export to AIFF -> xACT to cut on CD sectors and convert to FLAC
+
+OPENING BAND:
+Black Mountain (Not Recorded)

@@ -1,13 +1,28 @@
-aic1991-02-02t01.flac:07d715d51c9dbbba3c6a2b7b1c90b63e
-aic1991-02-02t02.flac:11621a4a429226f06c420ca9fa6de6e0
-aic1991-02-02t03.flac:e0c9aaae38a9238e3fccfef26c36640d
-aic1991-02-02t04.flac:f933a337eb8001112ab6e18e10311073
-aic1991-02-02t05.flac:664894e054f70b4df451a1ebd5c487f9
-aic1991-02-02t06.flac:515a282b6817f26f2108ed0edc0ce7e0
-aic1991-02-02t07.flac:65674a9d847ba2b5eec4fbd1f0d82305
-aic1991-02-02t08.flac:88bf6c07d030dbc81e183e105b3c6135
-aic1991-02-02t09.flac:c9d8ab0790e682e5404b6f2f9642f95f
-aic1991-02-02t10.flac:e7d3fff6922b9577b30f2086c25bc407
-aic1991-02-02t11.flac:26a1bebc0219c45af3aaa1ed9c168179
-aic1991-02-02t12.flac:f8564b79f69adbdb010117ca042e2745
-aic1991-02-02t13.flac:570407a490a495b6a8da127a194b4706
+Alice in Chains
+February 2nd, 1991
+Kitsap Pavilion
+Bremerton, WA
+
+source: UM > ANA (1) > CDR(?) > EAC > WAV > FLAC
+ripped from unknown gen cdr on 12/28/05
+EAC log included
+
+1. Man In The Box
+2. Put You Down
+3. Real Thing
+4. Confusion
+5. It Ain't Like That
+6. Bleed The Freak
+7. I Can't Remember
+8. Sea Of Sorrow
+9. We Die Young
+10. Sunshine
+11. Dirt
+12. Rooster
+13. Queen Of The Rodeo
+
+
+Notes: Tape flip at 2:50 in Dirt, resumes at beginning of Rooster.  
+
+***DO NOT ENCODE TO LOSSY FORMATS (MP3,OGG,Etc..)***
+***DO NOT SELL***

@@ -1,16 +1,35 @@
-hum1998-02-20d1t01.flac:2e873c8a82fa00396c85030099c182c9
-hum1998-02-20d1t02.flac:83253339dc0c96f6be253a19f36b3e38
-hum1998-02-20d1t03.flac:718340ec32278b44fe6b7e1da94b8206
-hum1998-02-20d1t04.flac:ef16c69cc63d7f125b9eef19514ecbfc
-hum1998-02-20d1t05.flac:70196eff0e0159122c864b0bdec15b91
-hum1998-02-20d1t06.flac:e21024f9bf41e48566afbd08c3657ae9
-hum1998-02-20d1t07.flac:c63e561810d5faecc66dd57369e8de1e
-hum1998-02-20d1t08.flac:c88c9ab66518ba31dad5a3fb2951636b
-hum1998-02-20d1t09.flac:527840d6535cd24fee7b43eb3e5bbe0c
-hum1998-02-20d1t10.flac:998e26b3c5e4b98aa2df78feb214f3ce
-hum1998-02-20d1t11.flac:9781e8eb15da90cae3bc0de1dae40e6c
-hum1998-02-20d1t12.flac:dac720f11a4f0e643e82ca082b6ce0bb
-hum1998-02-20d1t13.flac:fc7fdf5bc6c25022f65771199c30ec88
-hum1998-02-20d2t01.flac:700bf02be0f1cce33beadb64a36b825c
-hum1998-02-20d2t02.flac:c24e8b4d8e38ade64a51ce1ab3813a53
-hum1998-02-20d2t03.flac:4d59b3f97f2c707ddbf073fd17c3c4a6
+Hum
+2/20/1998
+Barrymore Theater
+Madison, WI
+
+Taper:            unknown
+Source:           Aiwa CMS30A > D7
+Conversion:       DDC-1(32k) > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+Disc 1
+1. (intro)
+2. Afternoon With the Axolotls
+3. The Pod
+4. Iron Clad Lou
+5. Why I Like The Robins
+6. The Scientists
+7. Ms. Lazarus
+8. Comin' Home
+9. Suicide Machine
+10. Scraper
+11. Apollo
+12. Stars
+13. I Hate It Too
+
+Disc 2
+1. (talking)
+2. Boy With Stick
+3. I'd Like Your Hair Long

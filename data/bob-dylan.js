@@ -64,8 +64,7 @@ const ARTIST_DATA = {
       "venue": "Free Trade Hall *Now Ain't the Time for Your Tears",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1965-05-07 - Manchester, England - Free Trade Hall - Now Ain't the Time for Your Tears [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1965,

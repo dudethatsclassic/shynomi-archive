@@ -1154,7 +1154,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-04-25 - Brusselles, Belgium - Luna Theater (unk) [AUD].txt"
+      "textFile": "1995-04-25 - Brusselles, Belgium - Luna Theater (unk) [AUD].rtf"
     },
     {
       "year": 1995,
@@ -1317,8 +1317,7 @@ const ARTIST_DATA = {
       "venue": "Cal Expo Amphitheatre",
       "notes": "Lollapalooza \u00b7 unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1995-08-17 - Sacramento, CA - Cal Expo Amphitheatre - Lollapalooza (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1995,

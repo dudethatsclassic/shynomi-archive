@@ -497,7 +497,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1999-05-24 - Landgraaf, Holland - Pinkpop Festival [FM].txt"
+      "textFile": "1999-05-24 - Landgraaf, Holland - Pinkpop Festival [FM].rtf"
     },
     {
       "year": 1999,
@@ -593,7 +593,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2002-05-09 - Las Vegas, NV - The Joint [FM].txt"
+      "textFile": "2002-05-09 - Las Vegas, NV - The Joint [FM].rtf"
     },
     {
       "year": 2002,

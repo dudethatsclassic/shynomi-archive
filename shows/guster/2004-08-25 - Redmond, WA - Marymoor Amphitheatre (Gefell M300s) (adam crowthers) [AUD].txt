@@ -1,12 +1,30 @@
-gus2004-08-25t01.flac:604b77b3c338907fa42be964083e95af
-gus2004-08-25t02.flac:3edf059ea14333abb4b918b4d226f0d8
-gus2004-08-25t03.flac:dee96b016bfee96aeff301131e5c87e7
-gus2004-08-25t04.flac:5351c8104f053ca4abe1be5ca08ef26e
-gus2004-08-25t05.flac:93a797f895eb701eedb0a62ed377bd0a
-gus2004-08-25t06.flac:24598f4486e498ef285487a497860aae
-gus2004-08-25t07.flac:2625ff7771cfccb550248d18cb888a39
-gus2004-08-25t08.flac:dbd93c3411ee957aebd49d7f2192156b
-gus2004-08-25t09.flac:0aac1d0ff0823e887d7aa3c0b06b064c
-gus2004-08-25t10.flac:03e2a5fb77fc593a2346c0526febc6ef
-gus2004-08-25t11.flac:8875e224cda10a59ae389b35c7512f1f
-gus2004-08-25t12.flac:c6eaa00cca1d092a0249eecfb227ffa5
+Guster
+Marymoor Amphitheater
+Redmond, WA
+August 25th, 2004
+
+Source:  Microtech Gefell M300's > Lunatec 316 > Apogee Mini-Me > Hosa ODL-312 > Nomad JB3 (.WAV @ 44.1 kHz)
+	Taped by: Adam Crowthers (a.crowthers@comcast.net)
+
+Transfer: .WAV > Sound Forge 6.0 > CD Wave 1.93.3 > .FLAC
+	Transfer by: Adam Crowthers (a.crowthers@comcast.net)
+
+
+01) I Spy
+02) Happier
+03) (Nothing But) Flowers *
+04) Keep It Together
+05) Amsterdam
+06) Either Way
+07) Airport Song
+08) Barrel Of A Gun
+09) Red Oyster Cult
+10) Come Downstairs And Say Hello
+11) Demons
+12) Fa Fa
+
+
+Notes:
+
+* Talking Heads cover
+

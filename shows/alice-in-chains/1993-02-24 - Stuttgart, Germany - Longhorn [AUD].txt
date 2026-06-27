@@ -1,15 +1,28 @@
-aic1993-02-24t01.flac:dfa2c43cddfca456c932f1bb42c37dd5
-aic1993-02-24t02.flac:296213d15823e8d3730a0e792035474e
-aic1993-02-24t03.flac:91ee87a083c752974be7c9e273960866
-aic1993-02-24t04.flac:af9ba6af747fb005952199ac9d828675
-aic1993-02-24t05.flac:4d2341fe5b041d02a9fb2351e2010c24
-aic1993-02-24t06.flac:9396ff59e2d4b72f7afa37490b1b4b29
-aic1993-02-24t07.flac:089bb6d6295dd8205f1ebabf89521d4b
-aic1993-02-24t08.flac:ec5a999ca41e7e4eae5bcf3c6891fb9d
-aic1993-02-24t09.flac:448b40edfca1e9c2de47408fcb35131d
-aic1993-02-24t10.flac:4aa3310439354b56dde5bddb58c438bb
-aic1993-02-24t11.flac:027ca757814e27d8418917a4f7e78318
-aic1993-02-24t12.flac:edff267ad7d30914794631f1062f9d91
-aic1993-02-24t13.flac:17df96995b799a27596b6052c6353c04
-aic1993-02-24t14.flac:43369dbe01e315ed14ca8f066696e4d1
-aic1993-02-24t15.flac:781ef73b199b2a28e1fc5b73e3bb3278
+Alice In Chains
+February 24th, 1993
+Longhorn 
+Stuttgart, Germany
+
+source: unknown > ? gen CDR > EAC > FLAC
+ripped from unknown gen cdr on 12/27/05
+EAC log included
+
+01. Dam That River
+02. We Die Young
+03. Them Bones
+04. Would?
+05. Love, Hate, Love
+06. Junkhead
+07. Godsmack
+08. Bleed The Freak
+09. Put You Down
+10. Sickman
+11. It Ain't Like That
+12. Rooster
+13. Hate To Feel
+14. Angry Chair
+15. Man In The Box
+
+
+***DO NOT ENCODE TO LOSSY FORMATS (MP3,OGG,Etc..)***
+***DO NOT SELL***

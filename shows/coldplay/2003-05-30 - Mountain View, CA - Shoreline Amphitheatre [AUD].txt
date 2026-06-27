@@ -1,8 +1,35 @@
-coldplay2003-05-30d2t01.flac:e7102d5c02db836c239934ac1c790b6e
-coldplay2003-05-30d2t02.flac:630bfc9ae6c9ea0b7814faf54dfb89a5
-coldplay2003-05-30d2t03.flac:a33b878e77b91a63023488160dce70d6
-coldplay2003-05-30d2t04.flac:6badb9ce6668acb6727735b556b277d3
-coldplay2003-05-30d2t05.flac:cc7f1cb3742d600ab98008d007f59a9e
-coldplay2003-05-30d2t06.flac:36d03eead669ad7e4e549dee76c8f8f2
-coldplay2003-05-30d2t07.flac:fd48486a293e10abcb52f8fd800a07da
-coldplay2003-05-30d2t08.flac:9f60f571c96d651e43ba9de6685dda6d
+Coldplay
+May 30th, 2003
+Shoreline Amphitheatre-Mountain View,CA
+
+Source: Schoeps MK4s > Nbox > SBM-1 > TCD-D100
+Transfer: Fostex D5 > S/PDIF > DIO2448 > Soundforge 7.0b > shntool 3.0.2 > flac 1.1.1
+
+**Please DO NOT encode this recording to MP3 nor sell it on EBAY**
+
+Disc 1:  
+01. Intro  01:19.03
+02. Politik  05:28.03       
+03. God Put A Smile Upon Your Face  05:04.20       
+04. A Rush Of Blood To The Head  06:35.48       
+05. Daylight  06:42.06       
+06. Trouble  04:43.12      
+07. One I Love  05:14.38       
+08. Don't Panic  03:00.36      
+09. Moses  05:22.47      
+
+Total:43:29.63   
+
+Disc 2:
+01. Everything's Not Lost  08:08.29       
+02. Poor Me  04:55.28         
+03. Yellow  05:43.01       
+04. The Scientist  04:58.10       
+05. What A Wonderful World  01:14.74       
+06. Clocks  05:41.59       
+07. In My Place  05:00.70      
+08. Amsterdam  05:14.26       
+
+Total:40:56.72   
+
+Compiled by alex@kabella.org on 03/15/2005

@@ -1,9 +1,28 @@
-ja1986-09-21t01.flac:813f18d63a84ff447713bf4be8df8061
-ja1986-09-21t02.flac:1d0c4d6b75bbeb793e205898f70409eb
-ja1986-09-21t03.flac:e233a686772d00d0a4d3b6ae3d52173c
-ja1986-09-21t04.flac:68b0ad4ea0ed06d68eab7f86b59c0c64
-ja1986-09-21t05.flac:f287495d57f7bfcabbccd1223f411a69
-ja1986-09-21t06.flac:04cca38accb41cafa6917cd348e148a5
-ja1986-09-21t07.flac:1f6b604753bebac0467449e6e77e9b6c
-ja1986-09-21t08.flac:3bc6a9953591c7886508e0eeaad831a7
-ja1986-09-21t09.flac:9cb9c25e6e4bd629ab87642c6e073156
+Jane's Addiction
+09-21-86
+Street Scene
+Los Angeles, CA
+
+Source: unknown -> unknown
+Lineage: ANA(3) -> DAT(c) -> CDR(1) -> EAC -> FLAC
+
+
+01 Tuning
+02 Whores
+03 1%
+04 Stop!
+05 Idiots Rule
+06 Mountain Song
+07 Up the Beach
+08 Had a Dad
+09 Ocean Size
+
+
+
+CD>WAV>FLAC by BLG
+compiled on 05-24-05
+
+
+
+
+

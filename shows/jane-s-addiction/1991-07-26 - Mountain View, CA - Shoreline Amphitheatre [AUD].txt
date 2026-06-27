@@ -1,7 +1,37 @@
-1991.07.26Track01.flac:0e64f1981553c310d12fe36778c7662e
-1991.07.26Track02.flac:d02f2b9cbeaa535a29f0741eda83c991
-1991.07.26Track03.flac:f12dfd20a726c383509040fcefec2a3d
-1991.07.26Track04.flac:7633cf008c37226d70643adba21ea390
-1991.07.26Track05.flac:5945d1a2bfac4266f0c93093527f7082
-1991.07.26Track06.flac:34917d9d335c794180e23819a9b65b21
-1991.07.26Track07.flac:3f62c2c2fa1c5d126b531a1723dcc580
+Venue: Shoreline Amphitheatre
+City: Mountain View,Ca
+Date: July 26, 1991
+Taper: Persic
+Source:  Nakamichi cm300 > Sony TCD-5M (transfer from master cassettes)
+Transfered from a Nakamichi cr1a > hhb830(stand alone) >
+CDR > EAC (Secure Mode With Offset Correction logs included) > Wave >
+AddaWave (Used To Create One Large File) > CD Wave (Used For Track Indexing)
+> FLac Frontend (Level Eight fingerprints included)
+
+Show: Night One Of N.California Lollapalooza
+
+Disc One:
+01 Up The Beach (including drum intro) 3:46
+02 Whores 3:56
+03 Standing In The Shower Thinking 3:24
+04 Ain't No Right 2:45
+05 Thank You Boys (and Perry rant) 2:01
+06 Three Days 11:41
+07 Been Caught Stealing 3:59
+08 1% 3:38
+09 Had A Dad 4:46
+
+Total Time 40:00
+
+Disc Two:
+01 Ted, Just Admit It 9:27 (cut @ 00:28:27 tape flip)
+02 Classic Girl 6:10
+03 Mountain Song 4:22
+04 Stop! 4:26
+05 Then She Did 11:19 
+06 Ocean Size 5:01 (cut @ 00:01:56 tape flip)
+07 Summertime Rolls 9:25
+
+Total Time 50:13
+
+Please Don't Convert To mp3 or Sell!

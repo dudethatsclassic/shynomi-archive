@@ -1,22 +1,47 @@
-guster2006-09-28t16.flac:b7d85d9fbfb872b5175f721366fb1a4a
-guster2006-09-28t17.flac:a562f204301f6ecd4ff234bb7ed16e17
-guster2006-09-28t18.flac:b9134727c3f430645d92d14f5dfb0699
-guster2006-09-28t19.flac:9cafbb475831e046120ad851d123cb2c
-guster2006-09-28t20.flac:128ed4785d53856af77b850d072b390c
-guster2006-09-28t21.flac:a98812fe1352bf2d2e14aa1e4f35dc75
-guster2006-09-28t22.flac:81b91a0c9db74cac2ba942ca3010b8f0
-guster2006-09-28t01.flac:15484a102565f4dbce716d8d371ce525
-guster2006-09-28t02.flac:1a6b55fc176289137560b97ba26832b5
-guster2006-09-28t03.flac:4da61ddd874587805baf08bc53674a5f
-guster2006-09-28t04.flac:b1080aede7aa1492e0db36c7a983f565
-guster2006-09-28t05.flac:7e8a945de5f5c33aebca44a58f5c8ff7
-guster2006-09-28t06.flac:73d4304957a919dee94fe308504fbff1
-guster2006-09-28t07.flac:60c8f331874373962989b96769656932
-guster2006-09-28t08.flac:03f5f38da05183b65c7383ba9d0031d6
-guster2006-09-28t09.flac:32f55d761d5c64bcb010ed8acadfb9db
-guster2006-09-28t10.flac:dfab321c36deaec6d733b620428d76b1
-guster2006-09-28t11.flac:6f58ffb3cb06ef516492bf4b6bb60f04
-guster2006-09-28t12.flac:29c6128c33ae2c9ce88ce67a1f68272a
-guster2006-09-28t13.flac:9fc568c7e82dc4e6371941753fda9e39
-guster2006-09-28t14.flac:624db181929630284c26351fe640e9e4
-guster2006-09-28t15.flac:4f19497334c3a73d39670a1bd9e500d4
+Guster
+SDSU Open Air Theater
+San Diego, CA
+September 28, 2006
+
+Taper: Tyler Huff (LJsurfer2002@yahoo.com)
+Source: AT831 > SP-SPSC-1 batt. box (w/ bass rolloff set @ 107 Hz) > Nomad Jukebox 3 (wav @ 44.1k)
+
+Transfer: NJ3 > USB > Sound Forge 6.0 > WAV > FLAC (flac frontend, compression level 6)
+
+
+Tracklist:
+
+01 - Intro
+02 - The Captain
+03 - Demons
+04 - What You Wish For
+05 - Satellite
+06 - Amsterdam
+07 - I Spy
+08 - Manifest Destiny
+09 - Airport Song
+10 - Ramona
+11 - Careful
+12 - Ruby Falls
+13 - C'mon
+14 - Come Downstairs & Say Hello
+15 - (That's Amore)
+16 - Barrel Of A Gun
+17 - Fa Fa
+18 - E: Lightning Rod
+19 - The New Underground
+20 - Happier
+21 - (thanks)
+22 - Rock & Roll*
+
+Notes:
+* Velvet Underground cover. With Full Nada Surf band and Billy Hawn (Tristan Prettyman drummer) on percussion.
+
+Opening for Guster was Tristan Prettyman and Nada Surf. Their sets were recorded as well.
+
+http://www.guster.com/
+http://www.myspace.com/guster
+http://www.youtube.com/guster
+-----
+B&P's of the master files will always be entertained by emailing me
+Support local music. Trade this show for free. Compiled (11/18/06)

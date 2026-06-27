@@ -1,22 +1,60 @@
-D1T01-Vasoline.flac:1a9e74bc33e6d6f2bd965dd74577e1de
-D1T02-Crackerman.flac:b7c49dc50c5003e3cfb57a11e1316d8a
-D1T03-Wicked Garden.flac:08fffd882ec29fe2897a53f204b20f24
-D1T04-Hollywood Bitch.flac:7f05d9455fbb45f5d92d39ba8924d5ca
-D1T05-Between the Lines.flac:a2d76d8b8f0b863f19c90d6a8f116242
-D1T06-Hickory Dichotomy.flac:36fff331d58c76851fb82e2f1ded378f
-D1T07-Big Empty.flac:b5706a895c968476460b5debad535fb5
-D1T08-Sour Girl.flac:c4d8c9e122d717a6c9eea7fa9e68ddaf
-D1T09-Creep Intro.flac:4ffb327875ff2d68cf330d59430d8dda
-D1T10-Creep.flac:715c17e160812722deda65fb45aaa2b4
-D1T11-Country Jam.flac:39e25cff49494f8b95decd10b7f5f133
-D1T12-Plush.flac:3da7ae388d4420bda36d6cb4670617fd
-D2T01-Queen Teases.flac:b30d6477bde69c21691665b651a4be46
-D2T02-Interstate Love Song.flac:5511ff18e91b8b5c6905f2f9b1b8255b
-D2T03-Bagman.flac:605d07867810afe2ae05e013179ba391
-D2T04-Huckleberry Crumble.flac:e039caa18a19de4e32de45dc39647321
-D2T05-Jam.flac:ab569dc4f6a3c3aa7e5be08f801dab6a
-D2T06-Sex Type Thing.flac:493e3d7598ce624c89654ea31f0d10e5
-D2T07-Dead and Bloated.flac:779c7bc922ac5c0d054c3bf8a78c509b
-D2T08-Lounge Fly.flac:5ad037b1baf9bce878482dcbbde2699e
-D2T09-Piece of Pie.flac:352466c437cbede7c5aaf7373a62decd
-D2T10-Trippin' On a Hole In a Paper Heart.flac:899c21be445845844a85d87b8844f1a0
+Stone Temple Pilots
+Wednesday
+2010-03-24
+Tyson Events Center
+Sioux City IA
+
+
+
+Taper for both sources:  Alzeppelin
+
+Audience Source:
+
+Location:  40 feet from stage right PA stack Lower Level
+
+Source:  Coresound CSB High-end Binaural mics -> M-Audio Microtrack II 24bit/48hz
+
+Transfer:  M-Audio Microtrack II -> USB -> Cooledit Pro (normalizing and track splits) ->
+           FLAC Level 8
+
+
+Robert Deleo's earfeed:
+
+Source:  Sennheiser receiver box (stereo) -> M-Audio Microtrack II 16bit/44hz
+
+Transfer:  M-Audio Microtrack II -> USB -> Cooledit Pro (normalizing and track splits) ->
+           FLAC Level 8
+
+Notes:  Matrix made by Silver Stallion Productions using Sony Vegas.
+
+
+
+
+Disc 1:
+
+01) Vasoline
+02) Crackerman
+03) Wicked Garden
+04) Hollywood Bitch
+05) Between the Lines
+06) Hickory Dichotomy
+07) Big Empty
+08) Sour Girl
+09) Creep Intro
+10) Creep
+11) Country Jam
+12) Plush
+
+
+Disc 2:
+
+01) Queen teases
+02) Interstate Love Song
+03) Bagman
+04) Huckleberry Crumble
+05) Jam
+06) Sex Type Thing
+07) Dead and Bloated
+08) Lounge Fly
+09) Piece of Pie
+10) Trippin' On a Hole In a Paper Heart

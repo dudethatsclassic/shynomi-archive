@@ -1,17 +1,28 @@
-01 Swallowing Everything (aborted).flac:d60ba3717afd7d1d49afb0ac24df31f6
-02 Swallowing Everything.flac:abeda96746edc17ef72e34ba2f46a3bc
-03 See You Dead.flac:4e55a362a140cd55981e77e2b0783819
-04 Birth Defect.flac:cb2abd314fce4d55d919eb5d0a0dc4ea
-05 In The Meantime.flac:4f29070f0403c5e412482ab13f07cfe3
-06 Ironhead.flac:f43b7fd6e3a7b3d3d02563755d371cec
-07 Give It.flac:3708d101d01de54f3fcffb5100692ed4
-08 Unsung.flac:2a762e4755a1b3c942687cc30f678859
-09 Turned Out.flac:7c37d4300dd4063a54455fdb473bbd86
-10 He Feels Bad.flac:080aadba9138c729ea52e7838364cf41
-11 Better.flac:c0d6ce3693ababc034c71f5ffd0e4e4b
-12 You Borrowed.flac:d0b4e216a1f31023c2cfbe64c9ce2b07
-13 FBLA II.flac:61bfcbde33cd3456faf40f10c0106789
-14 Role Model.flac:18d9fb98edad8b04142290a1230992f8
-15 Tic.flac:33ebeebc4054b9c3a2c5e585d4b28517
-16 Wilma's Rainbow.flac:e869d44a4fd267fba5d2198f9b062c79
-17 Milquetoast.flac:1df5db5a37a939581c35d6111b62f723
+HELMET
+WEST HOLLYWOOD,CA:KEY CLUB
+4/18/08
+
+DSM6 -> PACLC -> D7 
+D7 -> 7pin Coaxial -> CDRW700 -> EAC -> Soundforge -> FLAC Frontend Level 8 
+
+01. Swallowing Everything  (aborted) **
+02. Swallowing Everything
+03. See You Dead
+04. Birth Defect
+05. In The Meantime
+06. Ironhead
+07. Give It
+08. Unsung
+09. Turned Out
+10. He Feels Bad
+11. Better
+12. You Borrowed
+13. FBLA II
+14. Role Model
+15. Tic
+16. Wilma's Rainbow
+17. Milquetoast
+
+
+
+** microphone wasn't working

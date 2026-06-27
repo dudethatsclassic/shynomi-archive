@@ -1,11 +1,72 @@
-foofighters2008-02-25d2t09.flac:44ec1b44542ecb4a3cbf9e56762f1b07
-foofighters2008-02-25d2t10.flac:70cab1ffadd10f2da5ffa8679cc17dc4
-foofighters2008-02-25d2t11.flac:5a4233074df64c32fd299ecd43d4b06b
-foofighters2008-02-25d2t01.flac:8a5dea64e5bca1a71d791d00da5be625
-foofighters2008-02-25d2t02.flac:57634e86ebc510812800cca4d044e6e5
-foofighters2008-02-25d2t03.flac:4f49ba15845af1dc3e3b23f7dd611387
-foofighters2008-02-25d2t04.flac:994b99e3f3872b40471c1256fad1e2a4
-foofighters2008-02-25d2t05.flac:5a93b5088aebe460f28829532ccc6175
-foofighters2008-02-25d2t06.flac:5343eeaa8cd6b2878b84827098b31195
-foofighters2008-02-25d2t07.flac:df4dbc4369952e179782001d0b4e395e
-foofighters2008-02-25d2t08.flac:d7d19fcdecd6e722f907d16cbb652e73
+Foo Fighters
+Allstate Arena
+Rosemont, Illinois
+February 25, 2008
+
+
+***** PLEASE DO NOT CONVERT TO MP3 OR OTHER LOSSY FORMATS *****
+
+Taper 	JustAGirl 
+Source 	AT831's > battery box (107 Hz) > Edirol R-09 @ 24/48
+Transfer	WAV (dither with Audacity to 16/44.1) >  Screenblast Sound Forge 7.0 > CDWave > Flac Frontend 
+
+
+Disc 1:  62:59.36
+01.  Intro
+02.  Let It Die
+03.  The Pretender
+04.  Times Like These
+05.  Breakout
+06.  Dave Speaks
+07.  Learn To Fly
+08.  Cheer Up, Boys (Your Make Up Is Running)
+09.  This Is A Call
+10.  Intro to...
+11.  Stacked Actors
+12.  Skin And Bones
+13.  Marigold
+14.  My Hero
+
+
+Disc 2:  60:37.54
+01.  Band Introductions  
+02.  Cold Day In The Sun
+03.  But, Honestly
+04.  Everlong
+05.  Monkey Wrench
+06.  All My Life
+07.  Encore Break
+08.  Dave Speaks
+09.  Big Me
+10.  Long Road to Ruin
+11.  Best of You
+
+
+MD5:
+fcd7791c11498c6ebe5f99bb69b3c331 *foofighters2008-02-25d1t01.flac
+00220f4434dd2d1dc9f9c60cd6e87ab9 *foofighters2008-02-25d1t02.flac
+2f26c9121b7198b37a9d76dd29afcb3b *foofighters2008-02-25d1t03.flac
+d52be2050f7fef88d9dca56b4137cbf4 *foofighters2008-02-25d1t04.flac
+080dab9f4a296acf7d8f0be7d7fa5596 *foofighters2008-02-25d1t05.flac
+2a8aed848bf8ebcecaa7188106d03204 *foofighters2008-02-25d1t06.flac
+8b6e1a3812c070f7a68d9c4d18563c97 *foofighters2008-02-25d1t07.flac
+bd3f1329c728dc8d510c9f7557dc204b *foofighters2008-02-25d1t08.flac
+1036b7b7b87a1b002a4361516ace1ec4 *foofighters2008-02-25d1t09.flac
+62e18846593fc151f0c4a59f309af5ee *foofighters2008-02-25d1t10.flac
+04fe8b44e14b41a7d308531fe2c1b973 *foofighters2008-02-25d1t11.flac
+2a345b817a4a9672aa7461863a685e4d *foofighters2008-02-25d1t12.flac
+3ba494a3797f85753d4aa1e2eb62cda7 *foofighters2008-02-25d1t13.flac
+512bc5b7d86e6b52e02fac1f90fac9c4 *foofighters2008-02-25d1t14.flac
+
+840453e43886bdecb8376b7b9d52d35b *foofighters2008-02-25d2t01.flac
+cd5d05668f2313d9e7cb90d43d97242c *foofighters2008-02-25d2t02.flac
+33262a3e0343ffaf5b5cb76ef3ddce4d *foofighters2008-02-25d2t03.flac
+82f3ff2a4127dc2dc85e519f89ce4646 *foofighters2008-02-25d2t04.flac
+f4e061d61fc622ef0377c4595c900cc8 *foofighters2008-02-25d2t05.flac
+66bb246de2214529f9ae6a5c6140b312 *foofighters2008-02-25d2t06.flac
+e8e90c5715719ae0481c9b14dd88c6fa *foofighters2008-02-25d2t07.flac
+bc60d5a334578a541b217932765cd04d *foofighters2008-02-25d2t08.flac
+0620554a468d7727730b2ed6259e920f *foofighters2008-02-25d2t09.flac
+5aaf5e0aea35faa5e50f535e7bd1f113 *foofighters2008-02-25d2t10.flac
+6511d1574121a8057ad103bd03e3b4ae *foofighters2008-02-25d2t11.flac
+

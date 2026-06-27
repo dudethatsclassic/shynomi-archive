@@ -1,20 +1,35 @@
-ff2006-08-22d1t01.flac:9c0e76cff0f8258d3d6ff7af7cf0072f
-ff2006-08-22d1t02.flac:c1f094e7f572e40d6445205b7a35bc99
-ff2006-08-22d1t03.flac:7772b38bab668fd811863eec69780f68
-ff2006-08-22d1t04.flac:5193ae39a21804144997257c9561e5d6
-ff2006-08-22d1t05.flac:da36509e6ffa27f4d376303bc42160ca
-ff2006-08-22d1t06.flac:453f5c8d2bdf0daf807c4a0202e8286d
-ff2006-08-22d1t07.flac:4e1e28741c1a7b9b54654fb2dad25d67
-ff2006-08-22d1t08.flac:25b5595619ca06c67c1efff2470d5990
-ff2006-08-22d1t09.flac:265c810e05cb0d56e8b96a0a2ccdf285
-ff2006-08-22d1t10.flac:8c6c635177fcd2887ccc006e5b83400c
-ff2006-08-22d2t01.flac:bfab1f5055ad258a9eb7a6f4ad01a2df
-ff2006-08-22d2t02.flac:a089c08c966fa2621b3e9fd94c9b8c2f
-ff2006-08-22d2t03.flac:7c585ae64d5577bce33c077cf213380c
-ff2006-08-22d2t04.flac:58d767faeae9f7891883f990dca9fa43
-ff2006-08-22d2t05.flac:b764bd8fe22eafd179e34a657c01042c
-ff2006-08-22d2t06.flac:2c2f27f142813a0c41465a85777f9462
-ff2006-08-22d2t07.flac:eaa5f46fdae312a5f14f7c37a8495947
-ff2006-08-22d2t08.flac:e032744b1964126b6a9d33fd1bb339fe
-ff2006-08-22d2t09.flac:12297a7df5e1b6e3a45e00b62c1c288d
-ff2006-08-22d2t10.flac:d694275fe81cc8491896036359596a5e
+Foo Fighters
+August 22nd, 2006
+Wang Theater - Boston,MA
+
+Taper: Q
+Rig: Schoeps
+
+Disc 1:
+01. crowd 00:42.29        
+02. Razor 06:10.15       
+03. Over And Out 07:59.41       
+04. Marigold 03:29.61       
+05. Walking After You 05:19.32       
+06. My Hero 06:02.34       
+07. Next Year 04:35.74       
+08. Another Round 06:35.60       
+09. See You 05:53.44
+10. Floaty 07:04.68
+
+Total: 53:54.08
+
+Disc 2:
+01. davespeak 00:36.58        
+02. Big Me 03:26.51       
+03. What If I Do 06:49.60       
+04. Cold Day 05:42.08       
+05. Skin And Bones 05:32.25       
+06. Miracle 03:36.53       
+07. Times Like These 12:38.13      
+08. Friend Of A Friend 04:20.46       
+09. Best of You 06:21.23       
+10. Everlong 06:50.30       
+
+Total: 55:54.67      
+

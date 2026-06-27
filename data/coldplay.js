@@ -1610,7 +1610,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2001-08-18 - Chelmsford, UK - V Festival [FM].txt"
+      "textFile": "2001-08-18 - Chelmsford, UK - V Festival [FM].rtf"
     },
     {
       "year": 2001,
@@ -2183,7 +2183,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "WEB",
       "format": "SHN",
-      "textFile": "2002-08-18 - San Francisco, CA - Bimbos 365 Club [AUD].txt"
+      "textFile": "2002-08-18 - San Francisco, CA - Bimbos 365 Club [AUD].rtf"
     },
     {
       "year": 2002,
@@ -2211,7 +2211,7 @@ const ARTIST_DATA = {
       "notes": "unknown",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "2002-08-18 - San Francisco, CA - Bimbos 365 Club [AUD].txt"
+      "textFile": "2002-08-18 - San Francisco, CA - Bimbos 365 Club [AUD].rtf"
     },
     {
       "year": 2002,
@@ -3748,7 +3748,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2003-05-30 - Mountain View, CA - Shoreline Amphitheatre [AUD].txt"
+      "textFile": "2003-05-30 - Palo Alto, CA - Icon Supperclub [FM].txt"
     },
     {
       "year": 2003,

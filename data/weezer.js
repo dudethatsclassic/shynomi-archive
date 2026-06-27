@@ -525,8 +525,7 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1995-08-20 - San Francisco, CA - The Warfield (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,
@@ -3472,8 +3471,7 @@ const ARTIST_DATA = {
       "venue": "The Black Cat",
       "notes": "Sirius XM",
       "version": "FM",
-      "format": "FLAC",
-      "textFile": "2019-02-27 - Washington, D.C. - The Black Cat [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2019,

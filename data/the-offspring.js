@@ -479,8 +479,7 @@ const ARTIST_DATA = {
       "venue": "Griffiss Air Force Base",
       "notes": "Woodstock",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1999-07-23 - Rome, NY - Grifiss Air Force Base - Woodstock 99 [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1999,

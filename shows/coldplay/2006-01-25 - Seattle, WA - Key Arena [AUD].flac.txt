@@ -1,1 +1,74 @@
-COLDPLAY_2006-01-25_seattle_t01.flac:aae6e2925795c75ce81cc580c551e9b0COLDPLAY_2006-01-25_seattle_t02.flac:f426bf27a8b8cf67b211203e5cbbf3ddCOLDPLAY_2006-01-25_seattle_t03.flac:6ac909e2c40e1535d5418f3f9ab6ce1eCOLDPLAY_2006-01-25_seattle_t04.flac:11136d0fe592736889e54d828b9d0a50COLDPLAY_2006-01-25_seattle_t05.flac:eec04285a9beca61565937fa3705b045COLDPLAY_2006-01-25_seattle_t06.flac:360d917a04be94d48e0c36d84b753253COLDPLAY_2006-01-25_seattle_t07.flac:ce35b5866b0181ca3b41e8d630099890COLDPLAY_2006-01-25_seattle_t08.flac:2134874e3d347e26a5be4775c360362aCOLDPLAY_2006-01-25_seattle_t09.flac:54df629f5ec3e2ff387e9d570c4e1bbaCOLDPLAY_2006-01-25_seattle_t10.flac:dc74e8445e1585af6f98f1376b0f9a34COLDPLAY_2006-01-25_seattle_t11.flac:6a28493a6ac37f60d73c8a24ef20b6d5COLDPLAY_2006-01-25_seattle_t12.flac:d53b8ca32e0566d6d36d19d64d3a3388COLDPLAY_2006-01-25_seattle_t13.flac:66256dd4ca1545cc96a2e9fe58429b63COLDPLAY_2006-01-25_seattle_t14.flac:76cd7379a596a9e45c76ddff358f5864COLDPLAY_2006-01-25_seattle_t15.flac:0da95a7d8991ef49257a398a8b5b8d84COLDPLAY_2006-01-25_seattle_t16.flac:8a1a3b93521b0096a57f7b4eb7f05414COLDPLAY_2006-01-25_seattle_t17.flac:3910d9a902e4c2826f56c8d9d5e45bfbCOLDPLAY_2006-01-25_seattle_t18.flac:53e38f960eb67684f4be48f5c9a8a2faCOLDPLAY_2006-01-25_seattle_t19.flac:cfe76d626288881d5288ecb5784af4b9
+
+
+
+COLDPLAY			
+[Audience-2disc-NOMAD]
+
+
+2006-01-25
+
+USA-Seattle, WA-Key Arena
+
+
+
+SETLIST:
+
+
+01 Introduction
+
+02 Square One
+
+03 Politik
+
+04 Yellow
+
+05 Speed Of Sound
+
+06 God Put A Smile Upon Your Face
+
+07 X&Y
+
+08 How You See The World
+
+09 White Shadows
+
+10 The Scientist
+
+11 Til Kingdom Come 
+(Start of Acoustic Set)
+
+12 Ring Of Fire (Johhny Cash Cover)
+
+13 Trouble
+
+14 Clocks (Back to Electric)
+
+15 Talk
+
+16 Encore Break
+
+17 The Hardest Part
+
+18 In My Place
+
+19 Fix You
+
+
+
+
+LENGTH: 1:28:44
+
+DATE: January 25,2006
+
+
+TAPER: OasisDouglas <www.oasisdouglas.com>
+
+
+SOURCE: 
+Sound Professionals SP-BMC-12 Audio Technica (AT350) Binaural Microphones -> SP-SPSB-6 (bass roll off @ 160Hz) -> NOMAD Jukebox ( Gain set at +3 | WAV Recording) 
+
+TRANSFER: 
+NOMAD Jubox -> Macintosh G5 USB -> BIAS Peak -> VST Filters {WAVE ARTS Trackplug... see "COLDPLAY_2006-01-25_trackplug.jpg" for details} -> Normalize, Split Tracks & Export to AIFF -> xACT to cut on CD sectors and convert to FLAC 
+
+OPENING BAND: 
+Fiona Apple (Not Recorded)

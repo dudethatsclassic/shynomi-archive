@@ -1,17 +1,59 @@
-ja1991-04-24d1t01.flac:60ece45d6acf93144a0fd2124ae85334
-ja1991-04-24d1t02.flac:0eddca22b6dd1571c3db81a68c259b7d
-ja1991-04-24d1t03.flac:a416a9d11afade79eefdcce8d8023042
-ja1991-04-24d1t04.flac:b2c045c5ffd3291082cc1788ab60452d
-ja1991-04-24d1t05.flac:99dc80504831697d0ff4c9f8b477725a
-ja1991-04-24d1t06.flac:781c7482224a71ba5e7ca52d52137258
-ja1991-04-24d1t07.flac:1eddb1c32c73af1095d36dbb68c4d19d
-ja1991-04-24d1t08.flac:a0d618248cba8406264b2080e0ec04f3
-ja1991-04-24d1t09.flac:a003933925befbee93039a52c15f9f57
-ja1991-04-24d1t10.flac:bb331459b899a0fa9667749dc73a2713
-ja1991-04-24d2t01.flac:5858ab55b4f66e9ebd5f0615c7bedfa4
-ja1991-04-24d2t02.flac:369e3105180fc298896f0cbda40e35b4
-ja1991-04-24d2t03.flac:29f4d5806c7a40424800ce10706a695f
-ja1991-04-24d2t04.flac:0b74dc44f11e6833002d9116664211a9
-ja1991-04-24d2t05.flac:572bfe2650b72d49123556c8ca737957
-ja1991-04-24d2t06.flac:1ef8a518f885d85113c10388cb223933
-ja1991-04-24d2t07.flac:f91bfc467d824d70b39177d54e9f7a73
+Jane's Addiction
+04-24-91
+Madison Square Garden
+New York, NY
+
+Source: Sony ECM-909 -> Sony WM-D6
+Generation: ANA(M) -> DAT(2) 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> Soundforge 6.0 
+	(resample to 44.1) -> CDWave -> FLAC
+
+
+**For once, let's keep the Jane's trading pool clean...Do not encode to MP3 or sell.**
+
+
+Disc I
+01 Intro
+02 Up the Beach
+03 Whores
+04 1%
+05 Standing in the Shower...Thinking
+06 Ain't No Right
+07 Perry rambling
+08 Three Days
+09 Been Caught Stealing
+10 Had a Dad
+
+
+Disc II
+01 Then She Did
+02 Montain Song
+03 Stop!
+04 Of Course
+05 Ocean Size
+06 Jane Says
+07 Chip Away
+
+
+
+Notes: Don't be fooled by the rig, this is a very good recording.
+
+Tape flip after Had a Dad and some sound issues for the first few 
+minutes of Then She Did.
+
+
+
+
+Thanks to JR for providing the DAT.
+
+Transfer by BLG
+compiled on 01-16-05
+
+
+
+
+
+
+
+
+

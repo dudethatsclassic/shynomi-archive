@@ -1,12 +1,50 @@
-guster2006-04-21d2t01.flac:2c26b8fd1fe8c85016dd2c42a2865db4
-guster2006-04-21d2t02.flac:78142bade7b389af89871996a97312de
-guster2006-04-21d2t03.flac:f07f03ea4f7062a4bf30638f73fc6bc1
-guster2006-04-21d2t04.flac:0ae048d2427b1f153f862b505b59d80e
-guster2006-04-21d2t05.flac:e2a99caf4d7f2f4c10485185ceff13eb
-guster2006-04-21d2t06.flac:6fa48af28c38e7cf305d47d282ac3da0
-guster2006-04-21d2t07.flac:61af0d49ed81e240099277d3e3282404
-guster2006-04-21d2t08.flac:d4b64fb2938a61124e7b689333e30d1c
-guster2006-04-21d2t09.flac:75c89d9e4ccb4db423c750b9218854d4
-guster2006-04-21d2t10.flac:7ffb34a6ba0ee1416bf61c88a400af76
-guster2006-04-21d2t11.flac:e4857b89fb3a2d59d6b255e01ac76c01
-guster2006-04-21d2t12.flac:22231c6010ecf8f446bf6af8349da40f
+Guster
+21 April 2006
+Hiro Ballroom
+Maritime Hotel
+New York, New York
+
+Taper: Christopher Jones <jones.chris@gmail.com> 
+Source: DPA 4011 > Luminous Audio Technology Synchestra 4/9's Ag XLR Interconnect > Rupert Neve Designs Portico 5012 Microphone Preamplifier > Luminous Audio Technology Synchestra Signature 6/9's Cu XLR Interconnect > Mytek Digital Stereo192 Analog-to-Digital Converter (@ 24-bit / 96 kHz) > Luminous Audio Technology Allegro Signature 4/9's Ag AES / EBU Digital Interconnect > Sound Devices 722 Hard Disk Recorder (locked to Stereo192 clock @ 96 kHz; 24-bit / 96 kHz) 
+Location: Directly in front of FOH console, ~25' from stageleft stack.  Mics ORTF, stand at ~ 10'.     
+HD > .flac: Sound Devices 722 Hard Disk Recorder > Apple Power Mac G4 MP800  mHz / 512MB > T.C. Works' Spark XL 2.8 > xACT 1.4b28 
+
+Resampled and dithered using T.C. Works' respective highest quality resampling and Ultra-Noiseshaping functions.  A 24-bit / 96 kHz version of this recording exists in .flac24. 
+
+d1t01 "Green Apple Music and Arts Festival"		02:28.42
+d1t02 Barrel of A Gun					04:37.17
+d1t03 The Captain					03:54.25
+d1t04 Diane						04:24.35
+d1t05 The New Underground				03:22.51
+d1t06 Demons >						04:11.53
+d1t07 Center of Attention				06:00.71
+d1t08 You're My Satellite				04:52.41
+d1t09 Come Downstairs and Say Hello			07:43.42
+d1t10 I Spy						04:54.44
+
+							46:30.46
+
+d2t01 Manifest Destiny					05:12.72
+d2t02 (Happy Frappy)					02:14.59
+d2t03 One Man Wrecking Machine				03:58.70
+d2t04 Amsterdam						05:21.10
+d2t05 Backyard						03:28.22
+d2t06 Great Escape					04:44.67
+d2t07 Fa Fa 						05:33.28
+---
+d2t08 "Guster, Guster, Guster..."			01:21.14
+d2t09 Hang On						04:57.10
+d2t10 Airport Song					04:39.20
+d2t11 Happier						06:36.13
+---
+d2t12 Jesus on The Radio *				02:44.31
+
+							50:52.41
+
+>  Indicates a segue into the next song
+() Indicates a tease or partial song
+*  Unplugged
+
+Notes:
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 23 April 2006.

@@ -145,8 +145,7 @@ const ARTIST_DATA = {
       "venue": "Warfield",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1996-02-18 - San Francisco, CA - Warfield (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,

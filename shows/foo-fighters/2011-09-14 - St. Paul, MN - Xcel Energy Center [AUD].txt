@@ -1,26 +1,53 @@
-foofighters2011-09-14t14.flac:12be2dda6b6fd578935f3596b57aacab
-foofighters2011-09-14t15.flac:4d98aee451959c2763f22ac23dd3e196
-foofighters2011-09-14t16.flac:fbd9e4dacdcd1f9b6d72e9b9ce030b1f
-foofighters2011-09-14t17.flac:659f73c5bbca0bb59951bbc0b26a7a84
-foofighters2011-09-14t18.flac:caf2a5391f3639f62975b431de71e184
-foofighters2011-09-14t19.flac:430ba36d3ea89de1173f4704e0745371
-foofighters2011-09-14t20.flac:6783792effaf6f089901491ac2b03574
-foofighters2011-09-14t21.flac:813484ad85fbf028460f4f3541112e24
-foofighters2011-09-14t22.flac:1d577a6c24e52368308451ec11e811d7
-foofighters2011-09-14t23.flac:6425ebda76179cb4f0cc134f62160b56
-foofighters2011-09-14t24.flac:f1e372baf50517f66086b85433f0af29
-foofighters2011-09-14t25.flac:349b004be651e8beefd0b64b00d6c3d8
-foofighters2011-09-14t26.flac:5daddb189b72fdd61271c9776ec0c3e5
-foofighters2011-09-14t01.flac:8dbe49a6c77cbd32b2b8b0d87cc2ccf8
-foofighters2011-09-14t02.flac:1fcc3310e4eddadb738b05727a272cd9
-foofighters2011-09-14t03.flac:98c8d152160d6f7d22507f4c559018f5
-foofighters2011-09-14t04.flac:f012830f84bad95b3057a64dd9b50723
-foofighters2011-09-14t05.flac:18a3467914ed3acc3eb23a5fc4eb72f4
-foofighters2011-09-14t06.flac:0f03b488d47d182327f81354cbd99a6e
-foofighters2011-09-14t07.flac:bae7d41e85932a082d9c18cd16bee03d
-foofighters2011-09-14t08.flac:57d46534d066d740d139aa16f1f02f52
-foofighters2011-09-14t09.flac:fe878b98aab921d95a35b5d2fc7360ec
-foofighters2011-09-14t10.flac:2e46c37b1d5f37558eca06cc18d73759
-foofighters2011-09-14t11.flac:62184dba9703df2ac62c7c25219c862c
-foofighters2011-09-14t12.flac:9a59cedd108b1bf8d434a5c4180b6d52
-foofighters2011-09-14t13.flac:780e4d6569b07725d98838bbcc8536d5
+Foo Fighters
+Xcel Energy Center
+St. Paul, MN
+September 14, 2011
+
+   Taper: pjp
+  Source: Schoeps MK4 > Nbox > Edirol R-09hr @ 24/48
+Location: Front left corner of SBD, ~30 yards from stage
+Transfer: USB > Adobe Audition > CDwav > .flac
+ Editing: Small volume adjustment on the first 10 seconds as levels 
+          were a bit hot to start. Resampled to 16/44.1 in Adobe Audition
+   Notes: Some echo on the songs where Dave is performing in the back 
+          due to his monitor
+
+***************************** NOT FOR SALE! *****************************
+
+Setlist:
+ 01. Bridge Burning
+ 02. Rope
+ 03. The Pretender
+ 04. My Hero
+ 05. Learn to Fly
+ 06. White Limo
+ 07. Arlandria
+ 08. Breakout
+ 09. Cold Day in the Sun
+ 10. Long Road to Ruin
+ 11. Stacked Actors
+ 12. Walk
+ 13. Generator
+ 14. Monkey Wrench
+ 15. These Days
+ 16. I Should Have Known*
+ 17. Skin and Bones
+ 18. This Is a Call
+ 19. All My Life
+
+Encore:
+
+ 20. See You*
+ 21. Best of You
+ 22. Times Like These
+ 23. Dear Rosemary
+ 24. Breakdown [Tom Petty and the Heartbreakers]
+ 25. Lay Your Mother Down [Queen]
+ 26. Everlong
+
+
+Total Running Time: 2:40:23
+
+*with Jessy Greene
+
+*************************************************************************

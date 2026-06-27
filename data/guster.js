@@ -9394,7 +9394,7 @@ const ARTIST_DATA = {
       "notes": "AT4041 \u00b7 dgodwin",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2019-01-23 - Rochester, NY - Anthology (AT4041) (dgodwin) [AUD24].txt"
+      "textFile": "2019-01-23 - Rochester, NY - Anthology (AT4041) (dgodwin) [AUD24].rtf"
     },
     {
       "year": 2019,
@@ -10330,7 +10330,7 @@ const ARTIST_DATA = {
       "notes": "AT4041 \u00b7 dgodwin",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-06-12 - Lafayette, NY - Beak & Skiff Orchards (AT4041) (dgodwin) [AUD24].txt"
+      "textFile": "2022-06-12 - Lafayette, NY - Beak & Skiff Orchards (AT4041) (dgodwin) [AUD24].rtf"
     },
     {
       "year": 2022,
@@ -10734,8 +10734,7 @@ const ARTIST_DATA = {
       "venue": "Rady Shell at Jacob's Park",
       "notes": "Set 1 \u00b7 Zoom Q2 HD \u00b7 magicelf1980",
       "version": "AUD",
-      "format": "FLAC 24",
-      "textFile": "2023-07-29 - San Diego, CA - Rady Shell at Jacob's Park (Set 1) (Zoom Q2 HD) (magicelf1980) [AUD24].txt"
+      "format": "FLAC 24"
     },
     {
       "year": 2023,
@@ -11556,8 +11555,7 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theater",
       "notes": "Zoom Q2HD \u00b7 magicelf1980",
       "version": "AUD",
-      "format": "FLAC 24",
-      "textFile": "2025-02-15 - Los Angeles, CA - Orpheum Theater (Zoom Q2HD) (magicelf1980) [AUD24].txt"
+      "format": "FLAC 24"
     },
     {
       "year": 2025,
@@ -11669,7 +11667,7 @@ const ARTIST_DATA = {
       "notes": "BeyerDynamic CK930 \u00b7 dgodwin",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-07-25 - Chautauqua, NY - Chautauqua Institution (BeyerDynamic CK930) (dgodwin) [AUD24].txt"
+      "textFile": "2025-07-25 - Chautauqua, NY - Chautauqua Institution (BeyerDynamic CK930) (dgodwin) [AUD24].rtf"
     },
     {
       "year": 2025,
@@ -11683,7 +11681,7 @@ const ARTIST_DATA = {
       "notes": "BeyerDynamic CK930 \u00b7 dgodwin",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-08-02 - Hammondsport, NY - Point of the Bluff Vineyards (BeyerDynamic CK930) (dgodwin) [AUD24].txt"
+      "textFile": "2025-08-02 - Hammondsport, NY - Point of the Bluff Vineyards (BeyerDynamic CK930) (dgodwin) [AUD24].rtf"
     },
     {
       "year": 2025,
@@ -11697,7 +11695,7 @@ const ARTIST_DATA = {
       "notes": "BeyerDynamic MC740 \u00b7 dgodwin",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-08-02 - Hammondsport, NY - Point of the Bluff Vineyards (BeyerDynamic MC740) (dgodwin) [AUD24].txt"
+      "textFile": "2025-08-02 - Hammondsport, NY - Point of the Bluff Vineyards (BeyerDynamic MC740) (dgodwin) [AUD24].rtf"
     },
     {
       "year": 2025,
@@ -11795,7 +11793,7 @@ const ARTIST_DATA = {
       "notes": "beyerdynamic CK930 + CV 900 \u00b7 dgodwin + mgodwin",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-08-10 - Portland, ME - Thompson's Point (beyerdynamic CK930 + CV 900) (dgodwin + mgodwin) [AUD24].txt"
+      "textFile": "2025-08-10 - Portland, ME - Thompson's Point (beyerdynamic CK930 + CV 900) (dgodwin + mgodwin) [AUD24].rtf"
     },
     {
       "year": 2025,

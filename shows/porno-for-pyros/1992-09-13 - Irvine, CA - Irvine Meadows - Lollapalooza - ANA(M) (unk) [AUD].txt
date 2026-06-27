@@ -1,5 +1,12 @@
-01 Sadness.flac:aa499af11f8adcd490b040c7afeb5d47
-02 Meija.flac:862a30ebf7cc5e1b58b5515dd80126fd
-03 Porno For Pyros.flac:bdeee7e2203b6e33ad5689d6cf015ca4
-04 Packin' .25.flac:b698f83903e95cfdd1cd57d61a667424
-05 Bad Shit.flac:d97ec1a21a9c66e83eaa41d98fd16d70
+PORNO FOR PYROS
+IRVINE,CA:IRVINE MEADOWS
+9/13/92
+
+Analog Master ->Untracked CDR -> Me
+CDR -> EAC -> Soundforge -> FLAC Frontend Level 8
+
+01. Sadness
+02. Meija
+03. Porno For Pyros
+04. Packin' .25
+05. Bad Shit

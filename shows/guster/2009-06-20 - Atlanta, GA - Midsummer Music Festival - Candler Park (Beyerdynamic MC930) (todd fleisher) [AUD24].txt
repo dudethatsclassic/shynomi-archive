@@ -1,22 +1,46 @@
-guster2009-06-20d1t01.flac:26aacb081c4fd8db7a2d46ddd1a46e5e
-guster2009-06-20d1t02.flac:a72e599c805f5abbe72b6dd4c2fd24c4
-guster2009-06-20d1t03.flac:cc1e34cfbf3ab3e1975a02f3a02a4148
-guster2009-06-20d1t04.flac:13cc07cbbb1c3bfe864a59f0f4bc557c
-guster2009-06-20d1t05.flac:e3ed1126c076c735466dbccb7606c33a
-guster2009-06-20d1t06.flac:89a8de6b0c27c27c1af3004556f4ac59
-guster2009-06-20d1t07.flac:6f1cb8f52382712c10212095218aaf4e
-guster2009-06-20d1t08.flac:d4c07ed988da3156046588ee3fddb161
-guster2009-06-20d1t09.flac:6daf681a68c61c2cca8a6314592044a4
-guster2009-06-20d1t10.flac:82bb0764a2d25036c43527400ede31bc
-guster2009-06-20d1t11.flac:7ea3f7b8d635544b2cb1d7d37565d455
-guster2009-06-20d1t12.flac:5fe49e0bf0a89ef5584c7e7585f5af8e
-guster2009-06-20d1t13.flac:774a4f0ed4c91970bc270d24feca5a4f
-guster2009-06-20d1t14.flac:4cd910d05a2b47af721f0069981eaa16
-guster2009-06-20d1t15.flac:f577e6436418f33d5e1a9b1c281cc69e
-guster2009-06-20d1t16.flac:ff56f34fc22590b270af3395d4b19252
-guster2009-06-20d2t01.flac:96630c14d555c8b9ab70c6862f15ff88
-guster2009-06-20d2t02.flac:ed168a97921988547074a1531562cf29
-guster2009-06-20d2t03.flac:7e86b798f14f5cc162977d7a6ebe7cc8
-guster2009-06-20d2t04.flac:34676ba7a7733f6fcad601f1522cd757
-guster2009-06-20d2t05.flac:dd91c5720c16cea1e32d85958ed4a42f
-guster2009-06-20d2t06.flac:3c1d9b9b8a87f9ac525a7060bb8187bf
+Guster
+2009-06-20
+Midsummer Music Festival, Candler Park
+Atlanta, GA
+
+Source: Beyerdynamic MC930 > Edirol R4 (Busman W-mod) @ 24/48
+Transfer: Edirol R4 > Sound Studio Pro (tracking, fades) > Flac (level 8)
+Location: Just FOB, ~50ft from stage, Just left of center
+Runtime: 1:35:21
+
+Taped by: Todd Fleisher
+Transfered by: Todd Fleisher
+
+Disc 1
+Set 1
+01. The Captain
+02. Demons
+03. Center of Attention
+04. G Major
+05. Amsterdam
+06. Manifest Destiny
+07. Airport Song
+08. Jonah
+09. Ruby Falls
+10. C'mon
+11. Barrel of a Gun
+12. Come Downstairs and Say Hello
+13. One Man Wrecking Machine
+14. Red Oyster Cult
+15. Don't fear the Reaper
+16. Fa Fa
+
+Disc 2
+Encore @:
+01. "The T-pain Sound"
+02. Hang On
+03. Satellite
+04. Happier
+05. Keep It Together
+06. Outro #
+
+Notes:
+@ - Technically the Encore, though they didn't leave the stage and come back on
+# - Included for comedic effect. I only hope he wasn't driving home
+
+Thanks to Guster for allowing audience recordings. Thanks to all the sponsors of the Midsummer Music Festival for putting on a free show.

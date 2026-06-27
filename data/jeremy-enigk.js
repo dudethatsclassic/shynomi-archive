@@ -19,10 +19,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1996-09-20 - San Francisco, CA - Great American Music Hall (unk) (neekrive) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -33,7 +32,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "unk · aadams jacobs",
+      "notes": "unk \u00b7 aadams jacobs",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1997-03-14 - Chicago, IL - Metro (unk) (aadams jacobs) [AUD].txt"
