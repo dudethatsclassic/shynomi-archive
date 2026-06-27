@@ -1,0 +1,17 @@
+d646e7249bfeced8c21d5bee9cf26ff9  [shntool]  01 - intro.flac
+cd9e88da0356aa0c2e51749e2b790552  [shntool]  02 - bodies.flac
+fa5dcaba0be431ec43ac8f7703b921a8  [shntool]  03 - seventeen.flac
+62825241de329c774145c50ff7d76078  [shntool]  04 - new york.flac
+8a5caf01f26ec1ada77df622b743933a  [shntool]  05 - no feelings.flac
+bcaef6c6a6cc08630b37454ef3594423  [shntool]  06 - did you no wrong.flac
+90668a278244dda5a4f9da31ee8b2453  [shntool]  07 - god save the queen.flac
+61d81b3f13cb0cb12cad3ee14dbceaa0  [shntool]  08 - liar.flac
+bcbdbf4c7ad54873f46551df8997339f  [shntool]  09 - satellite.flac
+ba2820cfde032ce78e55fc1c35f681eb  [shntool]  10 - stepping stone.flac
+1ea7368ddcc8854208706c13b246b8e4  [shntool]  11 - holidays in the sun.flac
+fbcf43b817d46dac4984db75f8caae8d  [shntool]  12 - pretty vacant.flac
+3bb4d1e729b2163972d7619723b194b5  [shntool]  13 - e.m.i..flac
+ccc4c50d956a959d11a792ae60316170  [shntool]  14 - anarchy in the uk.flac
+ef559feee97f22370c3a3ee48329a185  [shntool]  15 - problems.flac
+b53bdffc25b9dd0c5cc3f30a0b7ac207  [shntool]  16 - roadrunner.flac
+b1b683f1ee75ed105e76d622966da36a  [shntool]  17 - no fun.flac

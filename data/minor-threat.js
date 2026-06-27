@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Rollerworks, 9400 Oso Ave",
-      "notes": "VHS(M) · unk",
+      "notes": "VHS(M) \u00b7 unk",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1983-04-02 - Los Angeles, CA - Rollerworks, 9400 Oso Ave - VHS(M) (unk) (AMT #1) [DVD].txt"
     }
   ],
   "misc": []

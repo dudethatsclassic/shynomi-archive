@@ -21,9 +21,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "Santa Monica Civic Auditorium",
-      "notes": "CASS(M) · unk",
+      "notes": "CASS(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1981-06-19 - Santa Monica, CA - Santa Monica Civic Auditorium - CASS(M) (unk) [AUD].txt"
     },
     {
       "year": 1983,
@@ -34,9 +35,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Love Hall",
-      "notes": "VHS(M) · howard",
+      "notes": "VHS(M) \u00b7 howard",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1983-12-16 - Philadelphia, PA - Love Hall - VHS(M) (howard) [DVD].txt"
     },
     {
       "year": 1984,
@@ -47,7 +49,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Valencia CA",
       "venue": "California Institute of the Arts Santa Clarita",
-      "notes": "AKG 567e · unk",
+      "notes": "AKG 567e \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1984-11-03 - Valencia CA - California Institute of the Arts Santa Clarita (AKG 567e) (unk) [AUD24].txt"

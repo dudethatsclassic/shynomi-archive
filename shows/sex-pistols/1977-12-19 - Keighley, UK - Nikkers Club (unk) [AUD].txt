@@ -1,0 +1,13 @@
+af167756fca5775a8a52bf3e84a4c98f  [shntool]  01. god save the queen.flac
+00d3d907c31d5df3b61ab613dbe9224f  [shntool]  02. i wanna be me.flac
+7145cc869c68bd71e111628f926ae922  [shntool]  03. seventeen.flac
+a03e8f561fdd3889719d24ef8c600e82  [shntool]  04. new york.flac
+d1864e43dbf7895dc6fab92880c979bd  [shntool]  05. emi.flac
+d7240abbc1d9d0b4ac6464e1bb6fe72e  [shntool]  06. bodies.flac
+4562ccda2c3ed371ac8b4c5e4909f4fb  [shntool]  07. belsen was a gas.flac
+5a158c8c54c845e7ffd09244c9e18d37  [shntool]  08. holidays in the sun.flac
+eb6f9d80056a3f63bc9f0dfb44f217da  [shntool]  09. no feelings.flac
+085a4b76e4c920df953a5c80dbc468c1  [shntool]  10. problems.flac
+fa861b9c7de1feba05f4fc802376eb0b  [shntool]  11. pretty vacant.flac
+c15be021774191ec3dceed351d429442  [shntool]  12. anarchy in the uk.flac
+b6b84146e17f047cc637afb1c8b29e0b  [shntool]  13. no fun.flac

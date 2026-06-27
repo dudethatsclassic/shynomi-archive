@@ -36,7 +36,8 @@ const ARTIST_DATA = {
       "venue": "Bowes Lyon House Stevenage (unk) (djm5000",
       "notes": "smokeydiablo)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1983-05-08 - Stevenage, England - Bowes Lyon House Stevenage (unk) (djm5000 - smokeydiablo) [AUD].txt"
     },
     {
       "year": 1986,

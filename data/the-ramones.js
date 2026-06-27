@@ -71,7 +71,8 @@ const ARTIST_DATA = {
       "venue": "San Diego State University",
       "notes": "The",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1977-03-12 - San Diego, CA - San Diego State University - The Backdoor [AUD24].txt"
     },
     {
       "year": 1977,
@@ -96,9 +97,10 @@ const ARTIST_DATA = {
       "state": "Holland",
       "location": "Rotterdam, Holland",
       "venue": "Lantaarn",
-      "notes": "ANA(M) · Sony TC-D5M · hans de vente",
+      "notes": "ANA(M) \u00b7 Sony TC-D5M \u00b7 hans de vente",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-05-10 - Rotterdam, Holland - Lantaarn - ANA(M) (Sony TC-D5M) (hans de vente) [AUD].txt"
     },
     {
       "year": 1977,
@@ -164,7 +166,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Old Waldorf",
-      "notes": "Early show · KSAN Live Broadcast",
+      "notes": "Early show \u00b7 KSAN Live Broadcast",
       "version": "FM",
       "format": "FLAC",
       "textFile": "1978-01-31 - San Francisco, CA - Old Waldorf (Early show) (KSAN Live Broadcast) [FM].txt"
@@ -192,7 +194,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGBs",
-      "notes": "Reel · pr",
+      "notes": "Reel \u00b7 pr",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "1976-05-15 - New York, NY - CBGBs (Reel) (pr) [AUD24].txt"
@@ -218,10 +220,11 @@ const ARTIST_DATA = {
       "city": "Paris",
       "state": "FR",
       "location": "Paris, FR",
-      "venue": "Théatre Le Palace (AM Radio) 48KHZ",
+      "venue": "The\u0301atre Le Palace (AM Radio) 48KHZ",
       "notes": "",
       "version": "AM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1980-02-20 - Paris, FR - The\u0301atre Le Palace (AM Radio) 48KHZ [AM].txt"
     },
     {
       "year": 1981,
@@ -232,9 +235,10 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Stage West",
-      "notes": "ANA(2) · unk",
+      "notes": "ANA(2) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1981-01-08 - Hartford, CT - Stage West - ANA(2) (unk) [AUD].txt"
     },
     {
       "year": 1985,
@@ -259,7 +263,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Chestnut Cabaret",
-      "notes": "Nak 300s · chuck",
+      "notes": "Nak 300s \u00b7 chuck",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1987-02-28 - Philadelphia, PA - Chestnut Cabaret (Nak 300s) (chuck) [AUD].txt"
@@ -287,7 +291,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Lincoln Park",
-      "notes": "SS DSM6 · unk",
+      "notes": "SS DSM6 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-04-28  - Albany, NY - Lincoln Park (SS DSM6) (unk) [AUD].txt"

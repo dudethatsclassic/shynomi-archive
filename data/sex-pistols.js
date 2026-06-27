@@ -23,7 +23,8 @@ const ARTIST_DATA = {
       "venue": "The 100 Club",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1976-08-31 - London, UK - The 100 Club [AUD].txt"
     },
     {
       "year": 1976,
@@ -36,7 +37,8 @@ const ARTIST_DATA = {
       "venue": "Chelmsford Maximum Security Prison",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1976-09-17 - Chelmsford, England - Chelmsford Maximum Security Prison [SBD].txt"
     },
     {
       "year": 1976,
@@ -49,7 +51,8 @@ const ARTIST_DATA = {
       "venue": "Electric Circus",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1976-12-09 - Manchester, UK - Electric Circus [AUD].txt"
     },
     {
       "year": 1977,
@@ -62,7 +65,8 @@ const ARTIST_DATA = {
       "venue": "Nikkers Club",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-12-19 - Keighley, UK - Nikkers Club (unk) [AUD].txt"
     },
     {
       "year": 1978,
@@ -75,7 +79,8 @@ const ARTIST_DATA = {
       "venue": "Great Southeast Music Hall *Kill The Hippies",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1978-01-05 - Atlanta, GA - Great Southeast Music Hall -Kill The Hippies [Silver].txt"
     },
     {
       "year": 1996,
@@ -88,7 +93,8 @@ const ARTIST_DATA = {
       "venue": "The Zenith",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-04 - Paris, France - The Zenith [SBD].txt"
     },
     {
       "year": 1996,
@@ -101,7 +107,8 @@ const ARTIST_DATA = {
       "venue": "Hollywood Palladium",
       "notes": "CASS(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-08-23 - Hollywood, CA - Hollywood Palladium - CASS(M) [AUD].txt"
     },
     {
       "year": 1996,
@@ -114,7 +121,8 @@ const ARTIST_DATA = {
       "venue": "Hollywood Palladium",
       "notes": "CASS(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-08-25 - Hollywood, CA - Hollywood Palladium - CASS(M) [AUD].txt"
     }
   ],
   "misc": []

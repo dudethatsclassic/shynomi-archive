@@ -1,0 +1,14 @@
+542c244c3b75b4f969ec609c4ccd35cb  [shntool]  01 - God Save the Queen.flac
+aa813009939848946062de451acc0ebe  [shntool]  02 - I Wanna Be Me.flac
+e2df54923ead71ded2bda85ae1fe10ec  [shntool]  03 - Seventeen.flac
+2b005b845649b465a84de748c2565dd4  [shntool]  04 - New York.flac
+a7e72895d58643da6ac067a49a7fce7c  [shntool]  05 - Bodies.flac
+5bbe7e5677b4b380fde41778556d83fe  [shntool]  06 - Submission.flac
+56f0fd4e801b8ed9e7a72cab2a656424  [shntool]  07 - Holidays in the Sun.flac
+ea632c882a51144dc90756cbb49af7b8  [shntool]  08 - E.M.I..flac
+b6a94b732a334ab2f8580775d1af573c  [shntool]  09 - No Feelings.flac
+ecd6d664ee347c364c30bdceb39371c0  [shntool]  10 - Problems.flac
+5bafca018ba4da3352976f9a5dbd545e  [shntool]  11 - Pretty Vacant.flac
+1250ab7d1a84a0ef78fae510b589f90a  [shntool]  12 - Anarchy in the U.K..flac
+a16e1689f5e19b0f83618476cc791984  [shntool]  13 - No Fun.flac
+0fedb54a35d938a0e5166182f90f8bc6  [shntool]  14 - Liar.flac

@@ -1,6 +1,6 @@
 const ARTIST_DATA = {
   "id": "h-sker-d",
-  "name": "Hüsker Dü",
+  "name": "H\u00fcsker D\u00fc",
   "drive": "F",
   "showCount": 27,
   "firstYear": 1983,
@@ -22,9 +22,10 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tucson, AZ",
       "venue": "Backstage",
-      "notes": "ANA(1) · unk",
+      "notes": "ANA(1) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1983-01-18 - Tucson, AZ - Backstage - ANA(1) (unk) [AUD].txt"
     },
     {
       "year": 1983,
@@ -35,9 +36,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York City, NY",
       "venue": "Gerde's Folk City",
-      "notes": "ANA(x) · loughney transfer",
+      "notes": "ANA(x) \u00b7 loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1983-04-27 - New York City, NY - Gerde's Folk City - ANA(x) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1983,
@@ -62,9 +64,10 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Winnipeg, Canada",
       "venue": "Royal Albert Arms",
-      "notes": "ANA(x) · Early and Late show",
+      "notes": "ANA(x) \u00b7 Early and Late show",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1984-01-20 - Winnipeg, Canada - Royal Albert Arms - ANA(x) (Early and Late show) [AUD].txt"
     },
     {
       "year": 1984,
@@ -103,9 +106,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Channel",
-      "notes": "ANA(x) · loughney transfer",
+      "notes": "ANA(x) \u00b7 loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1984-09-30 - Boston, MA - Channel - ANA(x) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1984,
@@ -116,9 +120,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Club Lingerie",
-      "notes": "ANA(x) · loughney transfer",
+      "notes": "ANA(x) \u00b7 loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1984-12-15 - Los Angeles, CA - Club Lingerie - ANA(x) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1984,
@@ -171,7 +176,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Palo Alto, CA",
       "venue": "Keystone",
-      "notes": "Multi-track reel · craig62 transfer",
+      "notes": "Multi-track reel \u00b7 craig62 transfer",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1985-02-28 - Palo Alto, CA - Keystone (Multi-track reel) (craig62 transfer) [SBD].txt"
@@ -187,7 +192,8 @@ const ARTIST_DATA = {
       "venue": "Blue Note",
       "notes": "ANA(M)",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1985-11-04 - Boulder, CO - Blue Note - ANA(M) [SBD].txt"
     },
     {
       "year": 1986,
@@ -212,9 +218,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "notes": "Late Show · LUXMAN K-111 · unk",
+      "notes": "Late Show \u00b7 LUXMAN K-111 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1986-02-07 - New York, NY - Irving Plaza (Late Show)  (LUXMAN K-111) (unk) [AUD].txt"
     },
     {
       "year": 1986,
@@ -225,9 +232,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Mississippi Nights",
-      "notes": "CASS(M) · doug morris",
+      "notes": "CASS(M) \u00b7 doug morris",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1986-02-20 - St. Louis, MO - Mississippi Nights - CASS(M) (doug morris) [AUD].txt"
     },
     {
       "year": 1986,
@@ -266,9 +274,10 @@ const ARTIST_DATA = {
       "state": "Scotland",
       "location": "Aberdeen, Scotland",
       "venue": "Victoria Hotel",
-      "notes": "CASS(M) · unk",
+      "notes": "CASS(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1986-03-15 - Aberdeen, Scotland - Victoria Hotel - CASS(M) (unk) [AUD].txt"
     },
     {
       "year": 1986,
@@ -307,7 +316,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "The Roxy",
-      "notes": "unk · jems 2020 transfer",
+      "notes": "unk \u00b7 jems 2020 transfer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1986-05-08 - West Hollywood, CA - The Roxy (unk) (jems 2020 transfer) [AUD].txt"
@@ -321,9 +330,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Variety Arts Center",
-      "notes": "CASS(M) · unk",
+      "notes": "CASS(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1987-04-24 - Los Angeles, CA - Variety Arts Center - CASS(M) (unk) [AUD].txt"
     },
     {
       "year": 1987,
@@ -334,7 +344,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Variety Arts Center",
-      "notes": "unk · jems 2020 transfer",
+      "notes": "unk \u00b7 jems 2020 transfer",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1987-04-25 - Los Angeles, CA - Variety Arts Center (unk) (jems 2020 transfer) [AUD].txt"
@@ -348,9 +358,10 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Novellara, Italy",
       "venue": "La Rocca",
-      "notes": "CASS(M) · unk",
+      "notes": "CASS(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1987-06-15 - Novellara, Italy - La Rocca - CASS(M) (unk) [AUD].txt"
     },
     {
       "year": 1987,
@@ -361,7 +372,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Mandel Hall",
-      "notes": "Sony WM-D6 · unk",
+      "notes": "Sony WM-D6 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1987-10-09 - Chicago, IL - Mandel Hall (Sony WM-D6) (unk) [AUD].txt"

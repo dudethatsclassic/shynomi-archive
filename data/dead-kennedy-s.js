@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Factory",
-      "notes": "CASS(1) · KALX FM · cps transfer",
+      "notes": "CASS(1) \u00b7 KALX FM \u00b7 cps transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1981-12-31 - San Francisco, CA - Factory - CASS(1) (KALX FM) (cps transfer) [FM].txt"
     }
   ],
   "misc": []
